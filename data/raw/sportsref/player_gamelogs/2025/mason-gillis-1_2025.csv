@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,133,1,2024-11-04,Duke,,Maine,REG (Non-Conf),W 96-62,,20,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,3,3,0,3,0,1,2,10,9.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+2,134,2,2024-11-08,Duke,,Army,REG (Non-Conf),W 100-58,,18,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,0,2,2,1,1,0,1,0,8,7.3,H,1,1,mason-gillis-1,Mason Gillis,2025
+3,135,3,2024-11-12,Duke,N,Kentucky,REG (Non-Conf),L 72-77,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,0,0,0,0,1,2,1.2,N,0,1,mason-gillis-1,Mason Gillis,2025
+4,136,4,2024-11-16,Duke,,Wofford,REG (Non-Conf),W 86-35,,18,2,7,0.286,1,6,0.167,1,1,1.0,0.357,0,0,,2,1,3,1,0,0,0,0,5,3.3,H,1,1,mason-gillis-1,Mason Gillis,2025
+5,137,5,2024-11-22,Duke,@,Arizona,REG (Non-Conf),W 69-55,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.1,A,1,1,mason-gillis-1,Mason Gillis,2025
+6,138,6,2024-11-26,Duke,N,Kansas,REG (Non-Conf),L 72-75,,15,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,1,1,2,0,0,0,0,2,5,1.1,N,0,1,mason-gillis-1,Mason Gillis,2025
+7,139,7,2024-11-29,Duke,,Seattle,REG (Non-Conf),W 70-48,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,5,5,0,0,0,0,4,0,-1.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+8,140,8,2024-12-04,Duke,,Auburn,REG (Non-Conf),W 84-78,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+9,141,9,2024-12-08,Duke,@,Louisville,REG (Conf),W 76-65,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,1,0,0,2,3,3.5,A,1,1,mason-gillis-1,Mason Gillis,2025
+10,142,10,2024-12-10,Duke,,Incarnate Word,REG (Non-Conf),W 72-46,,19,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,5,0,0,3,2,0,-1.1,H,1,1,mason-gillis-1,Mason Gillis,2025
+11,143,11,2024-12-17,Duke,,George Mason,REG (Non-Conf),W 68-47,,11,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,2,0.5,0,1,1,1,1,0,0,1,6,4.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+12,144,12,2024-12-21,Duke,@,Georgia Tech,REG (Conf),W 82-56,,8,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,1,1,0,0,1,4,4.6,A,1,1,mason-gillis-1,Mason Gillis,2025
+13,145,13,2024-12-31,Duke,,Virginia Tech,REG (Conf),W 88-65,,10,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,2,0,2,1,0,0,0,1,10,9.4,H,1,1,mason-gillis-1,Mason Gillis,2025
+14,146,14,2025-01-04,Duke,@,SMU,REG (Conf),W 89-62,,15,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,1,2,3,1,0,0,0,0,7,6.7,A,1,1,mason-gillis-1,Mason Gillis,2025
+15,147,15,2025-01-07,Duke,,Pittsburgh,REG (Conf),W 76-47,,7,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,2,0,0,1,0,5,4.1,H,1,1,mason-gillis-1,Mason Gillis,2025
+16,148,16,2025-01-11,Duke,,Notre Dame,REG (Conf),W 86-78,,18,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,2,2,4,1,0,0,0,2,3,4.2,H,1,1,mason-gillis-1,Mason Gillis,2025
+17,149,17,2025-01-14,Duke,,Miami (FL),REG (Conf),W 89-54,,21,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,0,0,2,0,0,0,1,12,10.4,H,1,1,mason-gillis-1,Mason Gillis,2025
+18,150,18,2025-01-18,Duke,@,Boston College,REG (Conf),W 88-63,,19,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,4,6,0,0,0,1,3,4,4.1,A,1,1,mason-gillis-1,Mason Gillis,2025
+19,151,19,2025-01-25,Duke,@,Wake Forest,REG (Conf),W 63-56,,23,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,2,4,6,0,0,0,1,1,11,8.9,A,1,1,mason-gillis-1,Mason Gillis,2025
+20,152,20,2025-01-27,Duke,,NC State,REG (Conf),W 74-64,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,2,3,0,0,0,1,1,2,0.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+21,153,21,2025-02-01,Duke,,North Carolina,REG (Conf),W 87-70,,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,1,0,0,4,3,2.1,H,1,1,mason-gillis-1,Mason Gillis,2025
+22,154,24,2025-02-12,Duke,,California,REG (Conf),W 78-57,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,0,2,3,1.8,H,1,1,mason-gillis-1,Mason Gillis,2025
+23,155,25,2025-02-15,Duke,,Stanford,REG (Conf),W 106-70,,13,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,0,0,0,1,3,1.5,H,1,1,mason-gillis-1,Mason Gillis,2025
+24,156,26,2025-02-17,Duke,@,Virginia,REG (Conf),W 80-62,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,2,1,0,1,0,0,0.6,A,1,1,mason-gillis-1,Mason Gillis,2025
+25,157,27,2025-02-22,Duke,N,Illinois,REG (Non-Conf),W 110-67,,19,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,3,4,2,1,0,1,1,3,4.6,N,1,1,mason-gillis-1,Mason Gillis,2025
+26,158,28,2025-02-25,Duke,@,Miami (FL),REG (Conf),W 97-60,,16,1,3,0.333,1,3,0.333,0,0,,0.5,3,3,1.0,1,2,3,2,1,0,0,2,6,7.2,A,1,1,mason-gillis-1,Mason Gillis,2025
+27,159,29,2025-03-01,Duke,,Florida State,REG (Conf),W 100-65,,20,2,6,0.333,2,6,0.333,0,0,,0.5,3,4,0.75,2,3,5,1,0,0,0,1,9,7.8,H,1,1,mason-gillis-1,Mason Gillis,2025
+28,160,30,2025-03-03,Duke,,Wake Forest,REG (Conf),W 93-60,,15,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,1,1,2,1,0,0,0,1,11,8.3,H,1,1,mason-gillis-1,Mason Gillis,2025
+29,161,31,2025-03-08,Duke,@,North Carolina,REG (Conf),W 82-69,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,1,3,1.6,A,1,1,mason-gillis-1,Mason Gillis,2025
+30,162,32,2025-03-13,Duke,N,Georgia Tech,CTOURN,W 78-70,,19,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,4,4,0,2,0,1,1,0,0.4,N,1,0,mason-gillis-1,Mason Gillis,2025
+31,163,33,2025-03-14,Duke,N,North Carolina,CTOURN,W 74-71,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,2,1,0,0,2,1,0.7,N,1,0,mason-gillis-1,Mason Gillis,2025
+32,164,34,2025-03-15,Duke,N,Louisville,CTOURN,W 73-62,,23,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,1,0,1,1,0,-0.9,N,1,0,mason-gillis-1,Mason Gillis,2025
+33,165,35,2025-03-21,Duke,N,Mount St. Mary's,ROUND-64,W 93-49,,18,1,5,0.2,0,4,0.0,1,1,1.0,0.2,2,2,1.0,1,4,5,1,0,0,0,3,4,2.3,N,1,0,mason-gillis-1,Mason Gillis,2025
+34,166,36,2025-03-23,Duke,N,Baylor,ROUND-32,W 89-66,,19,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,4,4,0,1,0,0,0,6,6.9,N,1,0,mason-gillis-1,Mason Gillis,2025
+35,167,37,2025-03-27,Duke,N,Arizona,ROUND-16,W 100-93,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,2,3,1,0,0,0,0,3,4.7,N,1,0,mason-gillis-1,Mason Gillis,2025
+36,168,38,2025-03-29,Duke,N,Alabama,ROUND-8,W 85-65,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,N,1,0,mason-gillis-1,Mason Gillis,2025
+37,169,39,2025-04-05,Duke,N,Houston,NATIONAL-SEMI,L 67-70,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,1,0,1,2,0,-0.5,N,0,0,mason-gillis-1,Mason Gillis,2025

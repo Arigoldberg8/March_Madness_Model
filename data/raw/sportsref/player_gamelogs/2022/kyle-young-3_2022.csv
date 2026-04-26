@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,109,2,2021-11-12,Ohio State,,Niagara,REG (Non-Conf),W 84-74,,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,1,1.0,0,7,7,1,0,0,1,0,5,4.8,H,1,1,kyle-young-3,Kyle Young,2022
+2,110,3,2021-11-15,Ohio State,,Bowling Green,REG (Non-Conf),W 89-58,,14,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,4,5,2,2,1,0,1,8,11.7,H,1,1,kyle-young-3,Kyle Young,2022
+3,111,4,2021-11-18,Ohio State,@,Xavier,REG (Non-Conf),L 65-71,,32,3,6,0.5,1,3,0.333,2,3,0.667,0.583,5,5,1.0,0,6,6,1,0,1,2,1,12,9.8,A,0,1,kyle-young-3,Kyle Young,2022
+4,112,5,2021-11-22,Ohio State,N,Seton Hall,REG (Non-Conf),W 79-76,,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,7,8,0.875,3,5,8,3,1,1,0,2,12,15.5,N,1,1,kyle-young-3,Kyle Young,2022
+5,113,6,2021-11-24,Ohio State,N,Florida,REG (Non-Conf),L 68-71,,14,5,7,0.714,0,2,0.0,5,5,1.0,0.714,1,1,1.0,1,5,6,0,0,0,2,5,11,6.3,N,0,1,kyle-young-3,Kyle Young,2022
+6,114,7,2021-11-30,Ohio State,,Duke,REG (Non-Conf),W 71-66,,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,1,0.0,1,4,5,2,0,0,0,2,3,2.7,H,1,1,kyle-young-3,Kyle Young,2022
+7,115,8,2021-12-05,Ohio State,@,Penn State,REG (Conf),W 76-64,,23,4,4,1.0,4,4,1.0,0,0,,1.5,4,4,1.0,1,6,7,1,0,1,1,2,16,16.9,A,1,1,kyle-young-3,Kyle Young,2022
+8,116,9,2021-12-08,Ohio State,,Towson,REG (Non-Conf),W 85-74,,24,6,7,0.857,2,2,1.0,4,5,0.8,1.0,4,6,0.667,0,2,2,1,1,1,1,1,18,16.3,H,1,1,kyle-young-3,Kyle Young,2022
+9,117,10,2021-12-11,Ohio State,,Wisconsin,REG (Conf),W 73-55,,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,1,1.0,1,13,14,0,1,0,1,1,5,5.8,H,1,1,kyle-young-3,Kyle Young,2022
+10,118,12,2022-01-06,Ohio State,@,Indiana,REG (Conf),L 51-67,,17,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,1,2,0,0,1,2,2,3,-0.5,A,0,1,kyle-young-3,Kyle Young,2022
+11,119,13,2022-01-09,Ohio State,,Northwestern,REG (Conf),W 95-87,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,4,4,1.0,1,1,2,2,0,1,3,2,6,3.6,H,1,1,kyle-young-3,Kyle Young,2022
+12,120,14,2022-01-13,Ohio State,@,Wisconsin,REG (Conf),L 68-78,,28,5,10,0.5,0,3,0.0,5,7,0.714,0.5,0,0,,1,4,5,0,0,0,2,0,10,4.9,A,0,1,kyle-young-3,Kyle Young,2022
+13,121,15,2022-01-16,Ohio State,,Penn State,REG (Conf),W 61-56,,23,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,6,0.667,1,6,7,2,2,0,2,1,4,5.3,H,1,1,kyle-young-3,Kyle Young,2022
+14,122,16,2022-01-18,Ohio State,,IUPUI,REG (Non-Conf),W 83-37,,18,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,0,1,1,2,1,0,0,1,9,9.4,H,1,1,kyle-young-3,Kyle Young,2022
+15,123,17,2022-01-27,Ohio State,@,Minnesota,REG (Conf),W 75-64,,23,5,7,0.714,0,2,0.0,5,5,1.0,0.714,4,4,1.0,2,2,4,4,0,1,0,2,14,15.8,A,1,1,kyle-young-3,Kyle Young,2022
+16,124,18,2022-01-30,Ohio State,@,Purdue,REG (Conf),L 78-81,,19,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,0,,2,0,2,2,1,0,0,3,7,3.8,A,0,1,kyle-young-3,Kyle Young,2022
+17,125,19,2022-02-06,Ohio State,,Maryland,REG (Conf),W 82-67,,18,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,2,2,4,3,1,0,0,1,5,5.9,H,1,1,kyle-young-3,Kyle Young,2022
+18,126,20,2022-02-09,Ohio State,@,Rutgers,REG (Conf),L 64-66,,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,1,0.0,2,2,4,0,0,0,2,1,2,-1.9,A,0,1,kyle-young-3,Kyle Young,2022
+19,127,21,2022-02-12,Ohio State,@,Michigan,REG (Conf),W 68-57,,26,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,3,5,2,0,1,0,1,7,8.6,A,1,1,kyle-young-3,Kyle Young,2022
+20,128,22,2022-02-15,Ohio State,,Minnesota,REG (Conf),W 70-45,,17,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,0,2,2,0,0,1,0,2,3,1.1,H,1,1,kyle-young-3,Kyle Young,2022
+21,129,23,2022-02-19,Ohio State,,Iowa,REG (Conf),L 62-75,,24,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,4,1,5,3,1,0,1,2,10,11.8,H,0,1,kyle-young-3,Kyle Young,2022
+22,130,24,2022-02-21,Ohio State,,Indiana,REG (Conf),W 80-69 (OT),,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,6,8,0.75,2,4,6,0,0,2,1,4,8,6.9,H,1,1,kyle-young-3,Kyle Young,2022
+23,131,25,2022-02-24,Ohio State,@,Illinois,REG (Conf),W 86-83,,28,6,7,0.857,2,3,0.667,4,4,1.0,1.0,4,6,0.667,1,5,6,1,0,0,2,3,18,14.4,A,1,1,kyle-young-3,Kyle Young,2022
+24,132,26,2022-02-27,Ohio State,@,Maryland,REG (Conf),L 60-75,,28,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,3,2,5,0,1,0,1,4,8,5.1,A,0,1,kyle-young-3,Kyle Young,2022
+25,133,27,2022-03-01,Ohio State,,Nebraska,REG (Conf),L 70-78,*,8,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,0,0,1,1,2,2,0.2,H,0,1,kyle-young-3,Kyle Young,2022
+26,134,31,2022-03-18,Ohio State,N,Loyola Chicago,ROUND-64,W 54-41,*,35,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,2,0.5,0,7,7,1,1,1,2,4,9,4.1,N,1,0,kyle-young-3,Kyle Young,2022
+27,135,32,2022-03-20,Ohio State,N,Villanova,ROUND-32,L 61-71,*,28,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,3,3,6,0,0,1,2,0,6,2.6,N,0,0,kyle-young-3,Kyle Young,2022

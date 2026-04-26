@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2012-11-09,Belmont,@,Lipscomb,REG (Non-Conf),W 89-60,,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,4,4,1.0,0,1,1,2,3,0,0,1,4,6.2,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+2,33,2,2012-11-13,Belmont,,Maryville (MO),REG (Non-Conf),W 88-49,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,3,1,0,1,2,3,3.6,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+3,34,3,2012-11-18,Belmont,@,Stanford,REG (Non-Conf),W 70-62,,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,1,3,0,-2.3,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+4,35,4,2012-11-22,Belmont,@,Ak. Anchorage,REG (Non-Conf),W 74-60,,26,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,5,0.8,1,0,1,3,2,0,0,1,6,9.0,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+5,36,5,2012-11-23,Belmont,N,Northeastern,REG (Non-Conf),L 71-74,,14,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,1,1,2,0,1,0,1,1,2,1.2,N,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+6,37,6,2012-11-24,Belmont,N,Oral Roberts,REG (Non-Conf),W 70-67,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,0,0,0,0,0,2,4,2,-2.3,N,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+7,38,7,2012-12-01,Belmont,@,VCU,REG (Non-Conf),L 65-75,,19,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,1,0,1,4,2,3,0.2,A,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+8,39,8,2012-12-04,Belmont,,Lipscomb,REG (Non-Conf),W 100-66,,16,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,1,3,4,5,0,0,0,2,11,13.4,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+9,40,9,2012-12-13,Belmont,,Middle Tennessee,REG (Non-Conf),W 64-49,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,1,1,0,0,-0.3,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+10,41,10,2012-12-15,Belmont,@,Kansas,REG (Non-Conf),L 60-89,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,3,2,1,2,1,2,3.3,A,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+11,42,11,2012-12-19,Belmont,,South Dakota State,REG (Non-Conf),W 76-49,,15,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,4,0,0,3,1,3,2.4,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+12,43,12,2012-12-28,Belmont,N,Boston University,REG (Non-Conf),W 64-48,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,1,0,0,2,2,2,-0.4,N,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+13,44,13,2012-12-29,Belmont,N,UCF,REG (Non-Conf),L 63-66,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,4,0,-0.3,N,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+14,45,14,2013-01-03,Belmont,@,Jacksonville State,REG (Conf),W 73-62,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,2,1,0,0,2,5,6.6,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+15,46,15,2013-01-05,Belmont,@,Tennessee Tech,REG (Conf),W 83-52,,16,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,2,1.0,0,5,5,3,0,0,2,1,8,6.5,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+16,47,16,2013-01-10,Belmont,,Southeast Missouri State,REG (Conf),W 107-72,,12,0,1,0.0,0,1,0.0,0,0,,0.0,2,5,0.4,2,0,2,3,0,0,0,0,2,3.6,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+17,48,17,2013-01-12,Belmont,,UT Martin,REG (Conf),W 90-53,,14,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,2,2,4,4,0,0,1,0,9,9.8,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+18,49,18,2013-01-17,Belmont,,Eastern Kentucky,REG (Conf),W 83-76,,13,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,2,3,1,1,0,3,4,5,2.8,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+19,50,19,2013-01-19,Belmont,,Tennessee State,REG (Conf),W 78-66,,19,2,3,0.667,2,2,1.0,0,1,0.0,1.0,1,2,0.5,1,1,2,1,2,0,1,1,7,7.6,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+20,51,20,2013-01-24,Belmont,@,Morehead State,REG (Conf),W 64-63,,20,2,5,0.4,1,3,0.333,1,2,0.5,0.5,3,5,0.6,1,2,3,1,2,0,4,2,8,3.7,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+21,52,21,2013-01-26,Belmont,@,Eastern Kentucky,REG (Conf),W 85-74,,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,2,2,0,2,4,5,2.4,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+22,53,22,2013-01-31,Belmont,,Morehead State,REG (Conf),W 93-74,,19,2,3,0.667,2,3,0.667,0,0,,1.0,2,4,0.5,0,1,1,1,2,0,1,0,8,7.9,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+23,54,23,2013-02-02,Belmont,,Tennessee Tech,REG (Conf),W 74-52,,17,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,0,1,2,0,2,0,1,3,4.4,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+24,55,24,2013-02-07,Belmont,@,Murray State,REG (Conf),L 74-79,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,0,0,2,2,0,1,2,3,2.9,A,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+25,56,25,2013-02-09,Belmont,@,Austin Peay,REG (Conf),W 78-65,,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,3,1,0,1,1,0,-0.1,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+26,57,26,2013-02-14,Belmont,@,Tennessee State,REG (Conf),L 69-80,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,3,2,0,0,2,0,2.5,A,0,1,reece-chamberlain-1,Reece Chamberlain,2013
+27,58,27,2013-02-20,Belmont,@,Eastern Illinois,REG (Conf),W 80-49,,20,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,7,1,0,1,1,6,8.5,A,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+28,59,28,2013-02-23,Belmont,,Ohio,REG (Non-Conf),W 81-62,,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,2,2,0,0,1,4,6.7,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+29,60,29,2013-02-27,Belmont,,SIU Edwardsville,REG (Conf),W 73-43,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,2,1,2,-1.1,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+30,61,30,2013-03-02,Belmont,,Jacksonville State,REG (Conf),W 78-71,,20,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,1,1,1,3,0,2,2,2,2.5,H,1,1,reece-chamberlain-1,Reece Chamberlain,2013
+31,62,31,2013-03-08,Belmont,N,Tennessee State,CTOURN,W 82-73,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,3,3,0,0,1,0,2.2,N,1,0,reece-chamberlain-1,Reece Chamberlain,2013
+32,63,32,2013-03-09,Belmont,N,Murray State,CTOURN,W 70-68 (OT),,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,2,1,1,2,3,2,0.1,N,1,0,reece-chamberlain-1,Reece Chamberlain,2013
+33,64,33,2013-03-21,Belmont,N,Arizona,ROUND-64,L 64-81,,27,0,5,0.0,0,4,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,2,1,0,1,4,1,-2.5,N,0,0,reece-chamberlain-1,Reece Chamberlain,2013

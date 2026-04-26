@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-11,Cincinnati,,UT Martin,REG (Non-Conf),W 80-57,,16,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,3,4,7,4,0,0,3,1,8,6.9,H,1,1,titus-rubles-1,Titus Rubles,2013
+2,2,2,2012-11-13,Cincinnati,,Mississippi Valley State,REG (Non-Conf),W 102-60,,20,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,3,0.333,0,7,7,5,0,2,0,0,8,11.2,H,1,1,titus-rubles-1,Titus Rubles,2013
+3,3,3,2012-11-18,Cincinnati,,North Carolina A&T,REG (Non-Conf),W 93-39,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,4,0.5,0,3,3,2,4,0,1,3,6,6.6,H,1,1,titus-rubles-1,Titus Rubles,2013
+4,4,4,2012-11-20,Cincinnati,,Campbell,REG (Non-Conf),W 91-72,,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,5,6,3,0,0,2,4,5,4.0,H,1,1,titus-rubles-1,Titus Rubles,2013
+5,5,5,2012-11-23,Cincinnati,N,Iowa State,REG (Non-Conf),W 78-70,,27,4,10,0.4,0,4,0.0,4,6,0.667,0.4,2,3,0.667,0,5,5,0,1,1,2,3,10,4.2,N,1,1,titus-rubles-1,Titus Rubles,2013
+6,6,6,2012-11-24,Cincinnati,N,Oregon,REG (Non-Conf),W 77-66,,17,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,3,1.0,2,2,4,1,0,0,4,4,13,5.8,N,1,1,titus-rubles-1,Titus Rubles,2013
+7,7,7,2012-12-01,Cincinnati,,Alabama,REG (Non-Conf),W 58-56,,25,4,14,0.286,0,2,0.0,4,12,0.333,0.286,2,2,1.0,3,2,5,1,3,0,1,1,10,6.8,H,1,1,titus-rubles-1,Titus Rubles,2013
+8,8,8,2012-12-06,Cincinnati,,Little Rock,REG (Non-Conf),W 87-53,,17,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,0,2,2,2,2,0,1,3,6,3.7,H,1,1,titus-rubles-1,Titus Rubles,2013
+9,9,9,2012-12-08,Cincinnati,,Maryland Eastern Shore,REG (Non-Conf),W 92-60,,18,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,4,0.75,3,7,10,4,1,0,2,1,7,8.8,H,1,1,titus-rubles-1,Titus Rubles,2013
+10,10,10,2012-12-15,Cincinnati,N,Marshall,REG (Non-Conf),W 72-56,,17,0,5,0.0,0,0,,0,5,0.0,0.0,2,2,1.0,2,6,8,2,3,0,2,3,2,2.9,N,1,1,titus-rubles-1,Titus Rubles,2013
+11,11,11,2012-12-19,Cincinnati,N,Xavier,REG (Non-Conf),W 60-45,,24,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,3,6,9,1,1,1,2,2,2,1.0,N,1,1,titus-rubles-1,Titus Rubles,2013
+12,12,12,2012-12-22,Cincinnati,,Wright State,REG (Non-Conf),W 68-58,,21,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,3,0.333,3,6,9,3,2,0,4,4,11,7.6,H,1,1,titus-rubles-1,Titus Rubles,2013
+13,13,13,2012-12-27,Cincinnati,,New Mexico,REG (Non-Conf),L 54-55,,15,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,2,2,1,0,0,3,0,2,-3.5,H,0,1,titus-rubles-1,Titus Rubles,2013
+14,14,14,2012-12-31,Cincinnati,@,Pittsburgh,REG (Conf),W 70-61,,16,1,3,0.333,0,0,,1,3,0.333,0.333,3,3,1.0,2,2,4,3,0,0,1,3,5,5.2,A,1,1,titus-rubles-1,Titus Rubles,2013
+15,15,15,2013-01-05,Cincinnati,,St. John's (NY),REG (Conf),L 52-53,,22,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,6,0.5,0,3,3,2,0,0,2,2,14,8.3,H,0,1,titus-rubles-1,Titus Rubles,2013
+16,16,16,2013-01-07,Cincinnati,,Notre Dame,REG (Conf),L 60-66,*,25,1,9,0.111,0,3,0.0,1,6,0.167,0.111,0,0,,1,6,7,5,0,0,1,2,2,0.3,H,0,1,titus-rubles-1,Titus Rubles,2013
+17,17,17,2013-01-12,Cincinnati,@,Rutgers,REG (Conf),W 68-58,*,26,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,6,0.5,2,9,11,0,1,1,3,2,7,5.1,A,1,1,titus-rubles-1,Titus Rubles,2013
+18,18,18,2013-01-15,Cincinnati,@,DePaul,REG (Conf),W 75-70,*,21,0,1,0.0,0,1,0.0,0,0,,0.0,2,4,0.5,1,2,3,1,1,0,1,4,2,0.9,A,1,1,titus-rubles-1,Titus Rubles,2013
+19,19,19,2013-01-19,Cincinnati,,Marquette,REG (Conf),W 71-69 (OT),*,35,1,8,0.125,0,3,0.0,1,5,0.2,0.125,10,12,0.833,4,6,10,2,1,2,3,2,12,10.6,H,1,1,titus-rubles-1,Titus Rubles,2013
+20,20,20,2013-01-21,Cincinnati,@,Syracuse,REG (Conf),L 55-57,*,30,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,5,1,6,5,0,0,1,1,5,8.2,A,0,1,titus-rubles-1,Titus Rubles,2013
+21,21,21,2013-01-30,Cincinnati,,Rutgers,REG (Conf),W 62-54,,18,1,1,1.0,0,0,,1,1,1.0,1.0,4,6,0.667,1,3,4,2,1,0,1,1,6,7.5,H,1,1,titus-rubles-1,Titus Rubles,2013
+22,22,22,2013-02-02,Cincinnati,@,Seton Hall,REG (Conf),W 65-59,,20,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,6,6,1,1,0,1,2,2,3.0,A,1,1,titus-rubles-1,Titus Rubles,2013
+23,23,23,2013-02-06,Cincinnati,@,Providence,REG (Conf),L 50-54,,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,2,4,1,0,0,1,1,0,-0.8,A,0,1,titus-rubles-1,Titus Rubles,2013
+24,24,24,2013-02-09,Cincinnati,,Pittsburgh,REG (Conf),L 52-62,,24,2,9,0.222,0,1,0.0,2,8,0.25,0.222,4,5,0.8,3,5,8,1,1,0,0,3,8,6.2,H,0,1,titus-rubles-1,Titus Rubles,2013
+25,25,25,2013-02-12,Cincinnati,,Villanova,REG (Conf),W 68-50,*,25,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,3,1,4,3,3,0,3,2,4,4.6,H,1,1,titus-rubles-1,Titus Rubles,2013
+26,26,26,2013-02-15,Cincinnati,,Georgetown,REG (Conf),L 55-62,,20,2,6,0.333,0,0,,2,6,0.333,0.333,0,3,0.0,1,2,3,1,1,0,2,3,4,-0.8,H,0,1,titus-rubles-1,Titus Rubles,2013
+27,27,27,2013-02-21,Cincinnati,@,Connecticut,REG (Conf),L 66-73 (OT),,21,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,3,2,5,0,1,0,1,5,7,4.3,A,0,1,titus-rubles-1,Titus Rubles,2013
+28,28,28,2013-02-24,Cincinnati,@,Notre Dame,REG (Conf),L 41-62,,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,6,0.5,1,6,7,1,1,1,0,2,7,6.5,A,0,1,titus-rubles-1,Titus Rubles,2013
+29,29,29,2013-03-02,Cincinnati,,Connecticut,REG (Conf),W 61-56,*,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,6,7,2,2,0,1,4,4,4.6,H,1,1,titus-rubles-1,Titus Rubles,2013
+30,30,30,2013-03-04,Cincinnati,@,Louisville,REG (Conf),L 51-67,*,23,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,8,9,4,0,0,8,1,2,-1.9,A,0,1,titus-rubles-1,Titus Rubles,2013
+31,31,31,2013-03-09,Cincinnati,,South Florida,REG (Conf),W 61-53 (OT),*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,4,5,9,1,2,0,3,2,4,5.2,H,1,1,titus-rubles-1,Titus Rubles,2013
+32,32,32,2013-03-13,Cincinnati,N,Providence,CTOURN,W 61-44,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,0,1,1,2,0.9,N,1,0,titus-rubles-1,Titus Rubles,2013
+33,33,33,2013-03-14,Cincinnati,N,Georgetown,CTOURN,L 43-62,*,19,0,0,,0,0,,0,0,,,2,4,0.5,0,2,2,0,1,0,1,4,2,0.2,N,0,0,titus-rubles-1,Titus Rubles,2013
+34,34,34,2013-03-22,Cincinnati,N,Creighton,ROUND-64,L 63-67,*,30,5,12,0.417,0,3,0.0,5,9,0.556,0.417,1,1,1.0,3,5,8,2,4,1,2,2,11,11.5,N,0,0,titus-rubles-1,Titus Rubles,2013

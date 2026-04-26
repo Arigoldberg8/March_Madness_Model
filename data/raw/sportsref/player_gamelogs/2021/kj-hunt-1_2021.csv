@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Morehead State,@,Kentucky,REG (Non-Conf),L 45-81,*,26,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,2,0.0,0,2,2,2,1,0,2,1,4,-0.3,A,0,1,kj-hunt-1,KJ Hunt,2021
+2,33,2,2020-11-27,Morehead State,N,Richmond,REG (Non-Conf),L 64-82,*,23,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,4,1.0,0,1,1,1,1,1,3,0,9,7.4,N,0,1,kj-hunt-1,KJ Hunt,2021
+3,34,3,2020-11-29,Morehead State,,Arkansas State,REG (Non-Conf),W 69-61,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,1,1.0,0,1,1,1,0,0,2,3,3,-1.6,H,1,1,kj-hunt-1,KJ Hunt,2021
+4,35,4,2020-12-02,Morehead State,@,Ohio State,REG (Non-Conf),L 44-77,,18,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,0,0,0,2,0,0,2,0,6,3.0,A,0,1,kj-hunt-1,KJ Hunt,2021
+5,36,5,2020-12-07,Morehead State,@,Eastern Kentucky,REG (Conf),L 68-71,,26,5,5,1.0,1,1,1.0,4,4,1.0,1.1,2,3,0.667,0,5,5,7,1,0,1,0,13,17.5,A,0,1,kj-hunt-1,KJ Hunt,2021
+6,37,6,2020-12-09,Morehead State,,Transylvania,REG (Non-Conf),W 77-55,*,23,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,5,0,1,1,0,3,5.8,H,1,1,kj-hunt-1,KJ Hunt,2021
+7,38,7,2020-12-10,Morehead State,,Transylvania,REG (Non-Conf),W 81-55,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,1,1,2,0,0,2,2,9,5.6,H,1,1,kj-hunt-1,KJ Hunt,2021
+8,39,8,2020-12-14,Morehead State,,Eastern Kentucky,REG (Conf),W 75-62,,27,5,9,0.556,0,3,0.0,5,6,0.833,0.556,7,9,0.778,0,1,1,3,1,1,3,3,17,11.8,H,1,1,kj-hunt-1,KJ Hunt,2021
+9,40,9,2020-12-18,Morehead State,,SIU Edwardsville,REG (Conf),L 65-69,,25,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,1,1.0,0,1,1,6,0,0,2,1,11,8.1,H,0,1,kj-hunt-1,KJ Hunt,2021
+10,41,10,2020-12-21,Morehead State,@,Clemson,REG (Non-Conf),L 51-66,,21,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,3,3,4,0,0,6,1,5,1.0,A,0,1,kj-hunt-1,KJ Hunt,2021
+11,42,11,2021-01-02,Morehead State,@,Murray State,REG (Conf),W 61-56,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,0,0,5,0,2,-4.8,A,1,1,kj-hunt-1,KJ Hunt,2021
+12,43,12,2021-01-07,Morehead State,,Tennessee Tech,REG (Conf),W 57-54,*,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,3,1.0,0,3,3,0,2,0,2,2,10,7.8,H,1,1,kj-hunt-1,KJ Hunt,2021
+13,44,13,2021-01-09,Morehead State,,Jacksonville State,REG (Conf),W 56-55,*,31,3,8,0.375,1,2,0.5,2,6,0.333,0.438,2,2,1.0,0,1,1,3,1,1,1,0,9,7.7,H,1,1,kj-hunt-1,KJ Hunt,2021
+14,45,14,2021-01-14,Morehead State,@,Eastern Illinois,REG (Conf),W 87-61,*,25,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,4,0.75,0,1,1,5,2,1,1,0,10,13.5,A,1,1,kj-hunt-1,KJ Hunt,2021
+15,46,15,2021-01-16,Morehead State,@,Southeast Missouri State,REG (Conf),W 64-50,*,29,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,3,0.333,1,3,4,4,0,0,4,2,8,3.8,A,1,1,kj-hunt-1,KJ Hunt,2021
+16,47,16,2021-01-21,Morehead State,,Southeast Missouri State,REG (Conf),W 76-65,*,30,2,9,0.222,0,2,0.0,2,7,0.286,0.222,5,6,0.833,0,3,3,3,1,0,1,4,9,4.5,H,1,1,kj-hunt-1,KJ Hunt,2021
+17,48,17,2021-01-23,Morehead State,,UT Martin,REG (Conf),W 76-44,*,27,2,7,0.286,1,2,0.5,1,5,0.2,0.357,3,4,0.75,0,7,7,6,2,0,3,1,8,8.4,H,1,1,kj-hunt-1,KJ Hunt,2021
+18,49,18,2021-01-28,Morehead State,@,Jacksonville State,REG (Conf),W 85-66,*,27,1,7,0.143,0,2,0.0,1,5,0.2,0.143,3,4,0.75,0,1,1,6,1,0,2,1,5,3.2,A,1,1,kj-hunt-1,KJ Hunt,2021
+19,50,19,2021-01-30,Morehead State,@,Tennessee Tech,REG (Conf),W 74-55,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,0,1,1,4,1,1,2,0,7,8.2,A,1,1,kj-hunt-1,KJ Hunt,2021
+20,51,20,2021-02-04,Morehead State,,Murray State,REG (Conf),W 66-56,*,30,3,6,0.5,1,2,0.5,2,4,0.5,0.583,5,6,0.833,1,3,4,2,1,2,4,0,12,10.0,H,1,1,kj-hunt-1,KJ Hunt,2021
+21,52,21,2021-02-06,Morehead State,,Austin Peay,REG (Conf),W 75-74 (OT),*,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,1,0,0,3,2,2,-1.8,H,1,1,kj-hunt-1,KJ Hunt,2021
+22,53,23,2021-02-13,Morehead State,@,Belmont,REG (Conf),L 58-73,*,31,2,13,0.154,1,3,0.333,1,10,0.1,0.192,0,0,,1,2,3,4,0,0,1,2,5,-1.0,A,0,1,kj-hunt-1,KJ Hunt,2021
+23,54,24,2021-02-20,Morehead State,@,UT Martin,REG (Conf),W 79-69,*,27,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,1,4,5,5,1,0,5,2,9,6.6,A,1,1,kj-hunt-1,KJ Hunt,2021
+24,55,25,2021-02-22,Morehead State,@,SIU Edwardsville,REG (Conf),W 56-48,*,30,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,2,1.0,0,4,4,1,1,1,2,3,7,3.3,A,1,1,kj-hunt-1,KJ Hunt,2021
+25,56,26,2021-02-25,Morehead State,,Tennessee State,REG (Conf),W 74-60,*,23,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,0,2,2,3,0,1,0,4,6,5.8,H,1,1,kj-hunt-1,KJ Hunt,2021
+26,57,27,2021-02-27,Morehead State,,Belmont,REG (Conf),W 89-82 (OT),*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,6,0.667,0,1,1,4,0,1,3,0,6,2.2,H,1,1,kj-hunt-1,KJ Hunt,2021
+27,58,28,2021-03-03,Morehead State,N,Southeast Missouri State,CTOURN,W 61-54,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,1,1,1,3,0,2,1.3,N,1,0,kj-hunt-1,KJ Hunt,2021
+28,59,29,2021-03-05,Morehead State,N,Eastern Kentucky,CTOURN,W 67-64,*,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,4,1,0,-4.1,N,1,0,kj-hunt-1,KJ Hunt,2021
+29,60,30,2021-03-06,Morehead State,N,Belmont,CTOURN,W 86-71,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,0,0,5,0,0,1,0,4,4.8,N,1,0,kj-hunt-1,KJ Hunt,2021
+30,61,31,2021-03-19,Morehead State,N,West Virginia,ROUND-64,L 67-84,*,24,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,3,3,2,0,0,2,2,7,4.9,N,0,0,kj-hunt-1,KJ Hunt,2021

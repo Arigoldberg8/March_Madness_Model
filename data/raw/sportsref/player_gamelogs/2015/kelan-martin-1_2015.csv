@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-15,Butler,,Maine,REG (Non-Conf),W 99-57,,20,5,10,0.5,0,4,0.0,5,6,0.833,0.5,2,3,0.667,1,1,2,2,0,0,1,3,12,6.8,H,1,1,kelan-martin-1,Kelan Martin,2015
+2,2,2,2014-11-18,Butler,,Chattanooga,REG (Non-Conf),W 70-48,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,1,0.0,1,0,1,0,0,0,0,2,0,-2.6,H,1,1,kelan-martin-1,Kelan Martin,2015
+3,3,3,2014-11-22,Butler,,Loyola (MD),REG (Non-Conf),W 80-39,,18,9,13,0.692,3,5,0.6,6,8,0.75,0.808,2,2,1.0,3,4,7,2,1,0,0,0,23,23.2,H,1,1,kelan-martin-1,Kelan Martin,2015
+4,4,4,2014-11-26,Butler,N,North Carolina,REG (Non-Conf),W 74-66,,17,5,11,0.455,3,6,0.5,2,5,0.4,0.591,4,6,0.667,1,5,6,0,0,0,2,2,17,9.9,N,1,1,kelan-martin-1,Kelan Martin,2015
+5,5,5,2014-11-27,Butler,N,Oklahoma,REG (Non-Conf),L 46-59,,16,1,8,0.125,0,3,0.0,1,5,0.2,0.125,1,1,1.0,1,1,2,0,0,0,3,3,3,-5.4,N,0,1,kelan-martin-1,Kelan Martin,2015
+6,6,6,2014-11-28,Butler,N,Georgetown,REG (Non-Conf),W 64-58,,15,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,1,1,2,0,0,0,0,1,10,6.6,N,1,1,kelan-martin-1,Kelan Martin,2015
+7,7,7,2014-12-03,Butler,@,Indiana State,REG (Non-Conf),W 77-54,,19,5,8,0.625,0,2,0.0,5,6,0.833,0.625,1,1,1.0,0,2,2,0,0,0,1,3,11,5.8,A,1,1,kelan-martin-1,Kelan Martin,2015
+8,8,8,2014-12-06,Butler,,Northwestern,REG (Non-Conf),W 65-56,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,0,0,0,2,0.6,H,1,1,kelan-martin-1,Kelan Martin,2015
+9,9,9,2014-12-08,Butler,,Kennesaw State,REG (Non-Conf),W 93-51,,20,5,9,0.556,4,7,0.571,1,2,0.5,0.778,3,4,0.75,1,1,2,0,1,0,1,1,17,12.9,H,1,1,kelan-martin-1,Kelan Martin,2015
+10,10,10,2014-12-14,Butler,@,Tennessee,REG (Non-Conf),L 55-67,,14,4,9,0.444,3,8,0.375,1,1,1.0,0.611,2,5,0.4,0,3,3,0,1,0,1,2,13,7.2,A,0,1,kelan-martin-1,Kelan Martin,2015
+11,11,11,2014-12-20,Butler,N,Indiana,REG (Non-Conf),L 73-82,,15,4,11,0.364,0,3,0.0,4,8,0.5,0.364,0,0,,0,2,2,0,0,2,1,1,8,2.5,N,0,1,kelan-martin-1,Kelan Martin,2015
+12,12,12,2014-12-22,Butler,,UT Martin,REG (Non-Conf),W 64-37,,19,4,11,0.364,0,4,0.0,4,7,0.571,0.364,2,3,0.667,2,2,4,0,0,0,2,2,10,2.7,H,1,1,kelan-martin-1,Kelan Martin,2015
+13,13,13,2014-12-28,Butler,,Belmont,REG (Non-Conf),W 67-56,,16,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,1,2,0,0,0,2,3,4,-2.3,H,1,1,kelan-martin-1,Kelan Martin,2015
+14,14,14,2014-12-31,Butler,@,Villanova,REG (Conf),L 55-67,,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,1,0.0,0,0,0,1,0,0,2,3,2,-4.7,A,0,1,kelan-martin-1,Kelan Martin,2015
+15,15,15,2015-01-03,Butler,@,St. John's (NY),REG (Conf),W 73-69,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,A,1,1,kelan-martin-1,Kelan Martin,2015
+16,16,16,2015-01-06,Butler,,Providence,REG (Conf),L 62-66,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,1,1,2,-1.1,H,0,1,kelan-martin-1,Kelan Martin,2015
+17,17,17,2015-01-10,Butler,,Xavier,REG (Conf),W 88-76,,14,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,1,1,2,0,0,0,1,2,5,1.1,H,1,1,kelan-martin-1,Kelan Martin,2015
+18,18,18,2015-01-13,Butler,@,Seton Hall,REG (Conf),W 79-75 (OT),,11,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,2,0.5,1,0,1,3,0,0,1,0,5,2.3,A,1,1,kelan-martin-1,Kelan Martin,2015
+19,19,19,2015-01-17,Butler,@,Georgetown,REG (Conf),L 59-61,,16,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,0,3,3,0,0,0,1,0,8,3.2,A,0,1,kelan-martin-1,Kelan Martin,2015
+20,20,20,2015-01-21,Butler,,Creighton,REG (Conf),W 64-61,,14,2,6,0.333,0,0,,2,6,0.333,0.333,3,3,1.0,1,1,2,1,1,0,2,0,7,4.3,H,1,1,kelan-martin-1,Kelan Martin,2015
+21,21,21,2015-01-25,Butler,,Seton Hall,REG (Conf),W 77-57,,17,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,3,0.667,0,1,1,0,0,1,0,2,10,6.5,H,1,1,kelan-martin-1,Kelan Martin,2015
+22,22,22,2015-01-31,Butler,@,Marquette,REG (Conf),W 72-68 (OT),,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,3,4,0,0,0,2,2,4,0.1,A,1,1,kelan-martin-1,Kelan Martin,2015
+23,23,23,2015-02-03,Butler,,St. John's (NY),REG (Conf),W 85-62,,11,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,0,0,1,0,0,1,1,7,3.6,H,1,1,kelan-martin-1,Kelan Martin,2015
+24,24,24,2015-02-07,Butler,,DePaul,REG (Conf),W 83-73,,16,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,1,3,1,0,0,2,3,4,-0.2,H,1,1,kelan-martin-1,Kelan Martin,2015
+25,25,25,2015-02-14,Butler,,Villanova,REG (Conf),L 65-68,,13,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,4,0.75,1,3,4,0,0,0,0,0,10,8.2,H,0,1,kelan-martin-1,Kelan Martin,2015
+26,26,26,2015-02-16,Butler,@,Creighton,REG (Conf),W 58-56,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,0,0,0,0,1,0,2,2,1.2,A,1,1,kelan-martin-1,Kelan Martin,2015
+27,27,27,2015-02-21,Butler,@,Xavier,REG (Conf),L 56-73,,24,3,14,0.214,0,1,0.0,3,13,0.231,0.214,2,3,0.667,1,3,4,0,0,1,1,2,8,-0.5,A,0,1,kelan-martin-1,Kelan Martin,2015
+28,28,28,2015-02-25,Butler,,Marquette,REG (Conf),W 73-52,,14,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,1,2,2,0,0,1,1,9,7.7,H,1,1,kelan-martin-1,Kelan Martin,2015
+29,29,29,2015-02-28,Butler,@,DePaul,REG (Conf),W 67-53,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,1,1,1,0,0,2,2,3,-0.9,A,1,1,kelan-martin-1,Kelan Martin,2015
+30,30,30,2015-03-03,Butler,,Georgetown,REG (Conf),L 54-60,,7,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,0,0,0,0,3,1.3,H,0,1,kelan-martin-1,Kelan Martin,2015
+31,31,31,2015-03-07,Butler,@,Providence,REG (Conf),W 68-64,,19,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,2,1.0,0,5,5,0,1,1,0,2,14,12.1,A,1,1,kelan-martin-1,Kelan Martin,2015
+32,32,32,2015-03-12,Butler,N,Xavier,CTOURN,L 61-67 (OT),,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,2,1,2,0,-0.5,N,0,0,kelan-martin-1,Kelan Martin,2015
+33,33,33,2015-03-19,Butler,N,Texas,ROUND-64,W 56-48,,15,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,0,0,0,0,0,0,1,3,7,2.5,N,1,0,kelan-martin-1,Kelan Martin,2015
+34,34,34,2015-03-21,Butler,N,Notre Dame,ROUND-32,L 64-67 (OT),,10,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,0,0,0,0,0,0,2,3,1.1,N,0,0,kelan-martin-1,Kelan Martin,2015

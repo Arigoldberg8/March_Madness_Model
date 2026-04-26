@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,120,1,2021-11-09,Chattanooga,@,Loyola Marymount,REG (Non-Conf),W 75-64,*,38,8,16,0.5,5,9,0.556,3,7,0.429,0.656,5,6,0.833,1,3,4,1,4,0,1,3,26,21.7,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+2,121,2,2021-11-14,Chattanooga,,UNC Asheville,REG (Non-Conf),W 75-45,*,29,6,11,0.545,2,6,0.333,4,5,0.8,0.636,0,0,,1,2,3,2,1,0,3,1,14,9.0,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+3,122,3,2021-11-16,Chattanooga,,Tennessee Tech,REG (Non-Conf),W 69-62,*,33,3,9,0.333,2,5,0.4,1,4,0.25,0.444,4,4,1.0,0,2,2,2,0,0,0,2,12,8.1,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+4,123,4,2021-11-20,Chattanooga,@,VCU,REG (Non-Conf),W 56-54,*,36,4,12,0.333,2,7,0.286,2,5,0.4,0.417,2,2,1.0,0,0,0,0,1,0,2,0,12,4.2,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+5,124,5,2021-11-23,Chattanooga,,Covenant,REG (Non-Conf),W 100-39,*,23,3,10,0.3,3,8,0.375,0,2,0.0,0.45,0,0,,1,1,2,0,1,0,0,0,9,5.2,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+6,125,6,2021-11-27,Chattanooga,,College of Charleston,REG (Non-Conf),L 66-68,*,36,6,12,0.5,4,8,0.5,2,4,0.5,0.667,2,2,1.0,2,5,7,2,0,0,5,0,18,11.3,H,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+7,126,7,2021-11-30,Chattanooga,@,Tennessee Tech,REG (Non-Conf),W 82-65,*,33,7,15,0.467,3,8,0.375,4,7,0.571,0.567,1,1,1.0,1,1,2,6,3,0,1,3,18,16.3,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+8,127,8,2021-12-05,Chattanooga,@,Lipscomb,REG (Non-Conf),W 85-64,*,35,8,12,0.667,7,10,0.7,1,2,0.5,0.958,1,1,1.0,0,4,4,2,5,0,3,2,24,22.6,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+9,128,9,2021-12-08,Chattanooga,@,UNC Asheville,REG (Non-Conf),W 78-73,*,33,1,13,0.077,0,8,0.0,1,5,0.2,0.077,0,0,,1,2,3,5,0,0,3,1,2,-5.3,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+10,129,10,2021-12-12,Chattanooga,,Tennessee Wesleyan,REG (Non-Conf),W 104-55,*,25,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,0,1,1,6,1,0,1,0,15,16.6,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+11,130,11,2021-12-15,Chattanooga,@,Belmont,REG (Non-Conf),L 68-76,*,33,1,8,0.125,0,6,0.0,1,2,0.5,0.125,1,2,0.5,0,1,1,3,1,0,1,5,3,-2.2,A,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+12,131,12,2021-12-18,Chattanooga,@,Murray State,REG (Non-Conf),L 76-87,*,35,4,12,0.333,4,9,0.444,0,3,0.0,0.5,0,0,,1,3,4,1,0,0,0,3,12,6.3,A,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+13,132,13,2021-12-22,Chattanooga,,Middle Tennessee,REG (Non-Conf),W 77-65,*,32,7,10,0.7,6,8,0.75,1,2,0.5,1.0,4,4,1.0,0,0,0,2,1,1,1,0,24,21.9,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+14,133,14,2021-12-30,Chattanooga,,East Tennessee State,REG (Conf),W 82-52,,28,5,9,0.556,1,5,0.2,4,4,1.0,0.611,0,0,,0,1,1,1,3,0,1,2,11,8.9,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+15,134,15,2022-01-05,Chattanooga,@,Wofford,REG (Conf),W 75-67,*,32,6,11,0.545,5,9,0.556,1,2,0.5,0.773,0,0,,1,2,3,4,1,0,2,3,17,13.6,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+16,135,16,2022-01-08,Chattanooga,,The Citadel,REG (Conf),W 85-67,*,36,7,16,0.438,2,8,0.25,5,8,0.625,0.5,0,0,,0,1,1,3,0,0,0,0,16,10.0,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+17,136,19,2022-01-20,Chattanooga,@,UNC Greensboro,REG (Conf),W 72-64,*,34,4,12,0.333,2,9,0.222,2,3,0.667,0.417,6,6,1.0,0,3,3,5,1,0,5,3,16,8.4,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+18,137,20,2022-01-22,Chattanooga,@,VMI,REG (Conf),W 78-74,*,35,3,9,0.333,3,7,0.429,0,2,0.0,0.5,6,6,1.0,0,2,2,1,1,0,2,2,15,9.4,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+19,138,21,2022-01-26,Chattanooga,,Wofford,REG (Conf),W 71-60,*,32,5,12,0.417,3,9,0.333,2,3,0.667,0.542,0,0,,0,4,4,2,0,1,3,2,13,6.1,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+20,139,22,2022-01-29,Chattanooga,@,The Citadel,REG (Conf),W 75-62,*,35,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,1,1,2,0,1,0,1,2,12,7.2,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+21,140,23,2022-02-02,Chattanooga,@,Samford,REG (Conf),L 72-80,*,35,11,20,0.55,8,13,0.615,3,7,0.429,0.75,1,3,0.333,1,4,5,3,1,0,3,1,31,22.2,A,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+22,141,24,2022-02-05,Chattanooga,,Mercer,REG (Conf),W 77-68,*,33,3,10,0.3,1,5,0.2,2,5,0.4,0.35,2,2,1.0,0,1,1,3,1,0,0,1,9,6.2,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+23,142,25,2022-02-07,Chattanooga,@,Mercer,REG (Conf),W 74-72 (OT),*,41,5,13,0.385,2,7,0.286,3,6,0.5,0.462,3,4,0.75,0,0,0,3,0,0,3,0,15,6.6,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+24,143,26,2022-02-09,Chattanooga,,Western Carolina,REG (Conf),W 65-47,*,32,5,16,0.313,2,9,0.222,3,7,0.429,0.375,2,2,1.0,0,5,5,2,1,0,1,2,14,6.9,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+25,144,27,2022-02-12,Chattanooga,@,Furman,REG (Conf),W 64-58,*,37,2,11,0.182,1,7,0.143,1,4,0.25,0.227,2,2,1.0,0,4,4,1,1,0,1,0,7,2.0,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+26,145,28,2022-02-17,Chattanooga,,UNC Greensboro,REG (Conf),L 70-73,*,34,8,15,0.533,4,7,0.571,4,8,0.5,0.667,4,5,0.8,0,1,1,1,2,0,0,0,24,19.3,H,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+27,146,29,2022-02-19,Chattanooga,,VMI,REG (Conf),L 75-80,*,35,8,18,0.444,2,9,0.222,6,9,0.667,0.5,0,0,,0,4,4,2,0,0,1,1,18,9.8,H,0,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+28,147,30,2022-02-23,Chattanooga,@,East Tennessee State,REG (Conf),W 83-77,*,29,3,8,0.375,1,5,0.2,2,3,0.667,0.438,1,2,0.5,0,1,1,4,1,0,1,5,8,4.3,A,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+29,148,31,2022-02-26,Chattanooga,,Samford,REG (Conf),W 70-57,*,30,3,12,0.25,1,4,0.25,2,8,0.25,0.292,0,0,,3,2,5,2,3,0,0,2,7,6.1,H,1,1,david-jean-baptiste-1,David Jean-Baptiste,2022
+30,149,32,2022-03-05,Chattanooga,N,The Citadel,CTOURN,W 71-66,*,32,6,12,0.5,2,6,0.333,4,6,0.667,0.583,6,6,1.0,0,2,2,2,1,0,3,0,20,14.0,N,1,0,david-jean-baptiste-1,David Jean-Baptiste,2022
+31,150,33,2022-03-06,Chattanooga,N,Wofford,CTOURN,W 79-56,*,32,5,10,0.5,1,5,0.2,4,5,0.8,0.55,3,5,0.6,0,2,2,1,1,0,1,0,14,9.5,N,1,0,david-jean-baptiste-1,David Jean-Baptiste,2022
+32,151,34,2022-03-07,Chattanooga,N,Furman,CTOURN,W 64-63 (OT),*,37,5,17,0.294,3,10,0.3,2,7,0.286,0.382,0,0,,0,2,2,0,0,0,0,1,13,3.3,N,1,0,david-jean-baptiste-1,David Jean-Baptiste,2022
+33,152,35,2022-03-18,Chattanooga,N,Illinois,ROUND-64,L 53-54,*,33,2,11,0.182,0,4,0.0,2,7,0.286,0.182,0,0,,1,2,3,1,2,0,2,0,4,-0.9,N,0,0,david-jean-baptiste-1,David Jean-Baptiste,2022

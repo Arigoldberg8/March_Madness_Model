@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2024-11-04,Oklahoma,,Lindenwood,REG (Non-Conf),W 93-60,*,15,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,1,1,0,0,0,0,0,11,8.0,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+2,97,5,2024-11-27,Oklahoma,N,Providence,REG (Non-Conf),W 79-77,,19,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,1,5,6,0,1,1,0,4,7,6.9,N,1,1,brycen-goodine-1,Brycen Goodine,2025
+3,98,6,2024-11-28,Oklahoma,N,Arizona,REG (Non-Conf),W 82-77,,12,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,1,0,0,-3.9,N,1,1,brycen-goodine-1,Brycen Goodine,2025
+4,99,7,2024-11-29,Oklahoma,N,Louisville,REG (Non-Conf),W 69-64,,19,2,3,0.667,2,2,1.0,0,1,0.0,1.0,1,2,0.5,0,1,1,0,1,0,0,2,7,5.8,N,1,1,brycen-goodine-1,Brycen Goodine,2025
+5,100,8,2024-12-03,Oklahoma,,Georgia Tech,REG (Non-Conf),W 76-61,,19,3,7,0.429,3,6,0.5,0,1,0.0,0.643,2,2,1.0,0,0,0,0,0,0,0,1,11,6.9,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+6,101,9,2024-12-07,Oklahoma,,Alcorn State,REG (Non-Conf),W 94-78,,21,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,1,1,0,0,1,0,3,12,8.5,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+7,102,10,2024-12-14,Oklahoma,N,Oklahoma State,REG (Non-Conf),W 80-65,,6,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,0,0,0,3,3,0.7,N,1,1,brycen-goodine-1,Brycen Goodine,2025
+8,103,11,2024-12-18,Oklahoma,N,Michigan,REG (Non-Conf),W 87-86,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,N,1,1,brycen-goodine-1,Brycen Goodine,2025
+9,104,12,2024-12-22,Oklahoma,,Central Arkansas,REG (Non-Conf),W 89-66,,12,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,0,0,-2.2,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+10,105,13,2024-12-29,Oklahoma,,Prairie View A&M,REG (Non-Conf),W 89-67,,27,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,4,1.0,1,6,7,0,2,0,0,0,9,9.4,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+11,106,14,2025-01-04,Oklahoma,@,Alabama,REG (Conf),L 79-107,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,1,1,1,3,3,1.1,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+12,107,15,2025-01-08,Oklahoma,,Texas A&M,REG (Conf),L 78-80,,27,10,14,0.714,9,11,0.818,1,3,0.333,1.036,5,6,0.833,0,3,3,1,3,0,2,2,34,29.6,H,0,1,brycen-goodine-1,Brycen Goodine,2025
+13,108,16,2025-01-11,Oklahoma,@,Georgia,REG (Conf),L 62-72,,31,1,7,0.143,1,7,0.143,0,0,,0.214,0,0,,1,2,3,0,0,0,0,4,3,-1.8,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+14,109,17,2025-01-15,Oklahoma,,Texas,REG (Conf),L 73-77,*,30,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,3,3,0,2,0,0,2,2,0.3,H,0,1,brycen-goodine-1,Brycen Goodine,2025
+15,110,18,2025-01-18,Oklahoma,,South Carolina,REG (Conf),W 82-62,*,17,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,0,1,1,0,1,0,2,6,6.0,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+16,111,19,2025-01-25,Oklahoma,@,Arkansas,REG (Conf),W 65-62,*,19,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,3,3,0,1,0,2,4,9,4.3,A,1,1,brycen-goodine-1,Brycen Goodine,2025
+17,112,20,2025-01-28,Oklahoma,@,Texas A&M,REG (Conf),L 68-75,*,26,7,12,0.583,5,9,0.556,2,3,0.667,0.792,5,5,1.0,1,0,1,0,1,1,0,3,24,19.6,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+18,113,21,2025-02-01,Oklahoma,,Vanderbilt,REG (Conf),W 97-67,*,19,2,3,0.667,2,2,1.0,0,1,0.0,1.0,2,4,0.5,1,1,2,1,0,0,0,1,8,7.2,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+19,114,22,2025-02-04,Oklahoma,@,Auburn,REG (Conf),L 70-98,*,18,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,3,0.667,1,4,5,0,1,0,1,3,5,3.6,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+20,115,23,2025-02-08,Oklahoma,,Tennessee,REG (Conf),L 52-70,*,22,2,7,0.286,1,4,0.25,1,3,0.333,0.357,4,4,1.0,0,2,2,1,1,0,0,2,9,6.4,H,0,1,brycen-goodine-1,Brycen Goodine,2025
+21,116,24,2025-02-12,Oklahoma,@,Missouri,REG (Conf),L 58-82,*,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,0,1,0,1,3,6,2.4,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+22,117,25,2025-02-15,Oklahoma,,Louisiana State,REG (Conf),L 79-82,*,26,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,2,3,0,1,0,0,4,7,4.7,H,0,1,brycen-goodine-1,Brycen Goodine,2025
+23,118,26,2025-02-18,Oklahoma,@,Florida,REG (Conf),L 63-85,*,30,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,3,0.667,0,6,6,0,1,1,0,4,8,6.1,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+24,119,27,2025-02-22,Oklahoma,,Mississippi State,REG (Conf),W 93-87,*,28,3,7,0.429,2,5,0.4,1,2,0.5,0.571,1,1,1.0,0,1,1,0,1,0,1,2,9,4.8,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+25,120,28,2025-02-26,Oklahoma,,Kentucky,REG (Conf),L 82-83,*,34,4,7,0.571,4,6,0.667,0,1,0.0,0.857,1,2,0.5,0,2,2,0,2,0,1,2,13,10.1,H,0,1,brycen-goodine-1,Brycen Goodine,2025
+26,121,29,2025-03-01,Oklahoma,@,Ole Miss,REG (Conf),L 84-87,*,20,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,5,5,1,0,1,2,4,8,4.3,A,0,1,brycen-goodine-1,Brycen Goodine,2025
+27,122,30,2025-03-05,Oklahoma,,Missouri,REG (Conf),W 96-84,*,37,4,11,0.364,1,6,0.167,3,5,0.6,0.409,0,0,,0,3,3,1,2,0,2,1,9,4.1,H,1,1,brycen-goodine-1,Brycen Goodine,2025
+28,123,31,2025-03-08,Oklahoma,@,Texas,REG (Conf),W 76-72,*,25,5,10,0.5,3,7,0.429,2,3,0.667,0.65,1,2,0.5,1,3,4,1,2,1,0,4,14,12.0,A,1,1,brycen-goodine-1,Brycen Goodine,2025
+29,124,32,2025-03-12,Oklahoma,N,Georgia,CTOURN,W 81-75,*,33,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,2,2,0,1,0,0,3,4,2.3,N,1,0,brycen-goodine-1,Brycen Goodine,2025
+30,125,33,2025-03-13,Oklahoma,N,Kentucky,CTOURN,L 84-85,*,25,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,3,0,-0.6,N,0,0,brycen-goodine-1,Brycen Goodine,2025
+31,126,34,2025-03-21,Oklahoma,N,Connecticut,ROUND-64,L 59-67,*,30,1,6,0.167,0,4,0.0,1,2,0.5,0.167,3,4,0.75,0,2,2,0,4,0,2,2,5,2.6,N,0,0,brycen-goodine-1,Brycen Goodine,2025

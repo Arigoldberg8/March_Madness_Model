@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,15,1,2022-11-07,Kansas,,Omaha,REG (Non-Conf),W 89-64,,17,6,7,0.857,1,2,0.5,5,5,1.0,0.929,0,1,0.0,0,0,0,2,2,0,0,0,13,13.5,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+2,16,2,2022-11-10,Kansas,,North Dakota State,REG (Non-Conf),W 82-59,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,8,0,0,1,1,2,6.6,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+3,17,3,2022-11-15,Kansas,N,Duke,REG (Non-Conf),W 69-64,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,2,0,1,2,0,2,2.0,N,1,1,bob-pettiford-1,Bobby Pettiford,2023
+4,18,4,2022-11-18,Kansas,,Southern Utah,REG (Non-Conf),W 82-76,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+5,19,5,2022-11-23,Kansas,N,NC State,REG (Non-Conf),W 80-74,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,1,0,0,2,3,2,-1.2,N,1,1,bob-pettiford-1,Bobby Pettiford,2023
+6,20,6,2022-11-24,Kansas,N,Wisconsin,REG (Non-Conf),W 69-68 (OT),,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,2,0,0,2,1,2,1.7,N,1,1,bob-pettiford-1,Bobby Pettiford,2023
+7,21,7,2022-11-25,Kansas,N,Tennessee,REG (Non-Conf),L 50-64,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,2,0,0,-1.3,N,0,1,bob-pettiford-1,Bobby Pettiford,2023
+8,22,10,2022-12-10,Kansas,@,Missouri,REG (Non-Conf),W 95-67,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,0,0,2,2,1.5,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+9,23,11,2022-12-17,Kansas,,Indiana,REG (Non-Conf),W 84-62,,22,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,1,1,2,4,0,0,3,2,10,8.1,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+10,24,12,2022-12-22,Kansas,,Harvard,REG (Non-Conf),W 68-54,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,4,0,0,1,0,4,5.8,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+11,25,13,2022-12-31,Kansas,,Oklahoma State,REG (Conf),W 69-67,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,0,2,2.7,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+12,26,14,2023-01-03,Kansas,@,Texas Tech,REG (Conf),W 75-72,,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,4,4,6,0,0,2,1,7,7.0,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+13,27,15,2023-01-07,Kansas,@,West Virginia,REG (Conf),W 76-62,,18,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,1,2,3,2,0,0,2,3,5,3.2,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+14,28,16,2023-01-10,Kansas,,Oklahoma,REG (Conf),W 79-75,,16,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,1,1,-1.2,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+15,29,17,2023-01-14,Kansas,,Iowa State,REG (Conf),W 62-60,,19,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,1,0,1,0,0,0.7,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+16,30,18,2023-01-17,Kansas,@,Kansas State,REG (Conf),L 82-83 (OT),,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,2,0,0.2,A,0,1,bob-pettiford-1,Bobby Pettiford,2023
+17,31,19,2023-01-21,Kansas,,TCU,REG (Conf),L 60-83,,13,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,0,1,0,2,0,2,-1.1,H,0,1,bob-pettiford-1,Bobby Pettiford,2023
+18,32,20,2023-01-23,Kansas,@,Baylor,REG (Conf),L 69-75,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,A,0,1,bob-pettiford-1,Bobby Pettiford,2023
+19,33,21,2023-01-28,Kansas,@,Kentucky,REG (Non-Conf),W 77-68,,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+20,34,22,2023-01-31,Kansas,,Kansas State,REG (Conf),W 90-78,,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,3,4,1,0,0,0,0,6,6.7,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+21,35,23,2023-02-04,Kansas,@,Iowa State,REG (Conf),L 53-68,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,3,0,0,3,2,0,-2.4,A,0,1,bob-pettiford-1,Bobby Pettiford,2023
+22,36,26,2023-02-14,Kansas,@,Oklahoma State,REG (Conf),W 87-76,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+23,37,27,2023-02-18,Kansas,,Baylor,REG (Conf),W 87-71,,15,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,2,0,0,1,1,5,4.7,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+24,38,28,2023-02-20,Kansas,@,TCU,REG (Conf),W 63-58,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,0,2,1.0,A,1,1,bob-pettiford-1,Bobby Pettiford,2023
+25,39,29,2023-02-25,Kansas,,West Virginia,REG (Conf),W 76-74,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,3,2,0,-3.5,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+26,40,30,2023-02-28,Kansas,,Texas Tech,REG (Conf),W 67-63,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,bob-pettiford-1,Bobby Pettiford,2023
+27,41,31,2023-03-04,Kansas,@,Texas,REG (Conf),L 59-75,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,bob-pettiford-1,Bobby Pettiford,2023
+28,42,32,2023-03-09,Kansas,N,West Virginia,CTOURN,W 78-61,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,bob-pettiford-1,Bobby Pettiford,2023
+29,43,33,2023-03-10,Kansas,N,Iowa State,CTOURN,W 71-58,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,0,0,0,1.3,N,1,0,bob-pettiford-1,Bobby Pettiford,2023
+30,44,34,2023-03-11,Kansas,N,Texas,CTOURN,L 56-76,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,1,3,0,0,0,1,0,0,-0.7,N,0,0,bob-pettiford-1,Bobby Pettiford,2023
+31,45,35,2023-03-16,Kansas,N,Howard,ROUND-64,W 96-68,,15,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,1,2,1,2,0,2,1,2,1.9,N,1,0,bob-pettiford-1,Bobby Pettiford,2023
+32,46,36,2023-03-18,Kansas,N,Arkansas,ROUND-32,L 71-72,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,0,0,2,2.0,N,0,0,bob-pettiford-1,Bobby Pettiford,2023

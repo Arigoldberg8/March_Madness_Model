@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,2,2022-11-11,Virginia,,Monmouth,REG (Non-Conf),W 89-42,,27,5,6,0.833,1,1,1.0,4,5,0.8,0.917,2,4,0.5,1,5,6,2,2,3,0,3,13,16.5,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+2,2,4,2022-11-18,Virginia,N,Baylor,REG (Non-Conf),W 86-79,,7,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,1,0.0,0,0,0,0,0,0,0,1,3,1.2,N,1,1,ryan-dunn-1,Ryan Dunn,2023
+3,3,5,2022-11-20,Virginia,N,Illinois,REG (Non-Conf),W 70-61,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,ryan-dunn-1,Ryan Dunn,2023
+4,4,6,2022-11-25,Virginia,,Maryland Eastern Shore,REG (Non-Conf),W 72-45,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,1,0,0,-1.7,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+5,5,7,2022-11-29,Virginia,@,Michigan,REG (Non-Conf),W 70-68,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+6,6,8,2022-12-03,Virginia,,Florida State,REG (Conf),W 62-57,,15,0,0,,0,0,,0,0,,,4,4,1.0,0,5,5,0,0,1,0,3,4,5.0,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+7,7,9,2022-12-06,Virginia,,James Madison,REG (Non-Conf),W 55-50,,19,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,5,5,0,0,3,0,3,4,3.7,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+8,8,10,2022-12-17,Virginia,,Houston,REG (Non-Conf),L 61-69,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,0,1,ryan-dunn-1,Ryan Dunn,2023
+9,9,11,2022-12-20,Virginia,@,Miami (FL),REG (Conf),L 64-66,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,0,1,0,-0.1,A,0,1,ryan-dunn-1,Ryan Dunn,2023
+10,10,12,2022-12-28,Virginia,,Albany (NY),REG (Non-Conf),W 66-46,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,0,0,1,2,1,2,0.2,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+11,11,13,2022-12-31,Virginia,@,Georgia Tech,REG (Conf),W 74-56,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,1,0,1,1,0,2,3.4,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+12,12,14,2023-01-03,Virginia,@,Pittsburgh,REG (Conf),L 65-68,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,2,0,-1.5,A,0,1,ryan-dunn-1,Ryan Dunn,2023
+13,13,16,2023-01-10,Virginia,,North Carolina,REG (Conf),W 65-58,,1,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+14,14,17,2023-01-14,Virginia,@,Florida State,REG (Conf),W 67-58,,17,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,3,1,4,0,0,3,0,2,9,9.4,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+15,15,18,2023-01-18,Virginia,,Virginia Tech,REG (Conf),W 78-68,,24,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,1,1.0,1,2,3,1,2,3,1,1,3,5.3,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+16,16,19,2023-01-21,Virginia,@,Wake Forest,REG (Conf),W 76-67,,30,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,2,6,8,1,0,1,2,4,5,4.7,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+17,17,20,2023-01-28,Virginia,,Boston College,REG (Conf),W 76-57,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,3,4,1,2,1,1,1,6,8.7,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+18,18,21,2023-01-30,Virginia,@,Syracuse,REG (Conf),W 67-62,,8,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,1,2,0,0,0,1,2,2,-1.2,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+19,19,22,2023-02-04,Virginia,@,Virginia Tech,REG (Conf),L 68-74,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,1,2,0,0,2,4.7,A,0,1,ryan-dunn-1,Ryan Dunn,2023
+20,20,23,2023-02-07,Virginia,,NC State,REG (Conf),W 63-50,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+21,21,24,2023-02-11,Virginia,,Duke,REG (Conf),W 69-62 (OT),,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,0,1,1,0,2,2.3,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+22,22,25,2023-02-15,Virginia,@,Louisville,REG (Conf),W 61-58,,6,0,0,,0,0,,0,0,,,0,2,0.0,1,2,3,1,0,0,0,2,0,0.4,A,1,1,ryan-dunn-1,Ryan Dunn,2023
+23,23,26,2023-02-18,Virginia,,Notre Dame,REG (Conf),W 57-55,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,2,0,0,1,0,1.2,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+24,24,27,2023-02-22,Virginia,@,Boston College,REG (Conf),L 48-63,,8,0,0,,0,0,,0,0,,,0,2,0.0,0,4,4,0,0,2,0,0,0,1.8,A,0,1,ryan-dunn-1,Ryan Dunn,2023
+25,25,28,2023-02-25,Virginia,@,North Carolina,REG (Conf),L 63-71,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,1,1,0,0,0,1.3,A,0,1,ryan-dunn-1,Ryan Dunn,2023
+26,26,29,2023-02-28,Virginia,,Clemson,REG (Conf),W 64-57,,18,3,3,1.0,1,1,1.0,2,2,1.0,1.167,3,4,0.75,3,2,5,0,1,1,1,2,10,11.3,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+27,27,30,2023-03-04,Virginia,,Louisville,REG (Conf),W 75-60,,19,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,1,2,3,0,0,1,0,1,9,8.3,H,1,1,ryan-dunn-1,Ryan Dunn,2023
+28,28,31,2023-03-09,Virginia,N,North Carolina,CTOURN,W 68-59,,10,0,0,,0,0,,0,0,,,0,2,0.0,0,1,1,0,0,1,0,3,0,-1.0,N,1,0,ryan-dunn-1,Ryan Dunn,2023
+29,29,32,2023-03-10,Virginia,N,Clemson,CTOURN,W 76-56,,21,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,5,5,0,0,2,0,1,0,1.8,N,1,0,ryan-dunn-1,Ryan Dunn,2023
+30,30,33,2023-03-11,Virginia,N,Duke,CTOURN,L 49-59,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,5,6,1,1,2,1,5,2,2.6,N,0,0,ryan-dunn-1,Ryan Dunn,2023
+31,31,34,2023-03-16,Virginia,N,Furman,ROUND-64,L 67-68,,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,4,4,1,1,1,0,2,4,5.5,N,0,0,ryan-dunn-1,Ryan Dunn,2023

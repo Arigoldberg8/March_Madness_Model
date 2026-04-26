@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2010-11-12,Old Dominion,,Georgetown,REG (Non-Conf),L 59-62,*,30,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,4,0.25,1,2,3,5,0,0,1,0,3,3.2,H,0,1,darius-james-1,Darius James,2011
+2,106,3,2010-11-19,Old Dominion,N,Saint Peter's,REG (Non-Conf),W 59-52,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,1,1,0,0,0,3,2,8,1.5,N,1,1,darius-james-1,Darius James,2011
+3,107,4,2010-11-21,Old Dominion,N,Clemson,REG (Non-Conf),W 61-60,*,29,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,2,2,1,2,0,3,1,4,0.1,N,1,1,darius-james-1,Darius James,2011
+4,108,5,2010-11-22,Old Dominion,N,Xavier,REG (Non-Conf),W 67-58,*,20,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,0,3,3,1,2,0,3,4,4,-0.8,N,1,1,darius-james-1,Darius James,2011
+5,109,6,2010-12-01,Old Dominion,,Richmond,REG (Non-Conf),W 77-70,*,24,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,0,,0,1,1,5,1,0,1,1,8,7.0,H,1,1,darius-james-1,Darius James,2011
+6,110,7,2010-12-04,Old Dominion,@,Delaware,REG (Conf),L 67-75,*,21,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,0,1,2,0,0,0,2,0,-1.5,A,0,1,darius-james-1,Darius James,2011
+7,111,8,2010-12-07,Old Dominion,@,East Carolina,REG (Non-Conf),W 81-68,*,30,4,11,0.364,2,6,0.333,2,5,0.4,0.455,3,4,0.75,2,0,2,5,0,0,2,0,13,9.4,A,1,1,darius-james-1,Darius James,2011
+8,112,9,2010-12-09,Old Dominion,,Maryland Eastern Shore,REG (Non-Conf),W 81-39,*,25,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,2,0,0,3,2,8,3.6,H,1,1,darius-james-1,Darius James,2011
+9,113,10,2010-12-11,Old Dominion,,Dayton,REG (Non-Conf),W 74-71,*,27,1,8,0.125,1,5,0.2,0,3,0.0,0.188,2,2,1.0,1,1,2,6,0,0,1,2,5,3.2,H,1,1,darius-james-1,Darius James,2011
+10,114,11,2010-12-23,Old Dominion,,Presbyterian,REG (Non-Conf),W 63-54,*,29,4,7,0.571,2,3,0.667,2,4,0.5,0.714,4,4,1.0,0,1,1,5,4,0,1,0,14,17.5,H,1,1,darius-james-1,Darius James,2011
+11,115,12,2010-12-30,Old Dominion,@,Missouri,REG (Non-Conf),L 58-81,*,23,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,1,1,2,1,0,0,2,1,4,-0.8,A,0,1,darius-james-1,Darius James,2011
+12,116,13,2011-01-03,Old Dominion,@,Towson,REG (Conf),W 51-47,*,26,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,0,3,3,2,1,0,1,3,7,6.8,A,1,1,darius-james-1,Darius James,2011
+13,117,14,2011-01-05,Old Dominion,,Northeastern,REG (Conf),W 49-34,*,23,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,1,1,2,0,0,0,2,0,3,-1.1,H,1,1,darius-james-1,Darius James,2011
+14,118,15,2011-01-08,Old Dominion,,George Mason,REG (Conf),W 69-65,*,26,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,3,1.0,0,3,3,4,0,0,1,2,12,12.0,H,1,1,darius-james-1,Darius James,2011
+15,119,16,2011-01-13,Old Dominion,@,Drexel,REG (Conf),L 57-62,*,25,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,1,1,2,3,1,0,0,0,2,1.6,A,0,1,darius-james-1,Darius James,2011
+16,120,17,2011-01-15,Old Dominion,@,Hofstra,REG (Conf),W 75-64,*,28,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,2,2,3,0,0,3,1,8,6.0,A,1,1,darius-james-1,Darius James,2011
+17,121,18,2011-01-19,Old Dominion,,James Madison,REG (Conf),W 64-58,*,27,1,3,0.333,1,1,1.0,0,2,0.0,0.5,4,4,1.0,0,1,1,6,0,0,3,1,7,6.4,H,1,1,darius-james-1,Darius James,2011
+18,122,19,2011-01-22,Old Dominion,,VCU,REG (Conf),L 50-59,*,32,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,0,1,1,6,1,0,2,2,9,7.7,H,0,1,darius-james-1,Darius James,2011
+19,123,20,2011-01-24,Old Dominion,,UNC Wilmington,REG (Conf),W 58-43,*,32,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,1,2,3,2,0,0,0,0,5,3.6,H,1,1,darius-james-1,Darius James,2011
+20,124,21,2011-01-26,Old Dominion,@,Georgia State,REG (Conf),W 51-48,*,30,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,2,3,3,0,0,1,1,5,4.6,A,1,1,darius-james-1,Darius James,2011
+21,125,22,2011-01-29,Old Dominion,,Towson,REG (Conf),W 80-57,*,28,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,0,0,7,0,0,0,1,6,8.2,H,1,1,darius-james-1,Darius James,2011
+22,126,23,2011-02-02,Old Dominion,,Delaware,REG (Conf),W 67-59,*,30,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,0,2,2,4,0,0,2,3,10,6.8,H,1,1,darius-james-1,Darius James,2011
+23,127,24,2011-02-05,Old Dominion,@,George Mason,REG (Conf),L 45-62,*,28,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,2,1.0,1,2,3,1,1,0,2,0,6,1.5,A,0,1,darius-james-1,Darius James,2011
+24,128,25,2011-02-09,Old Dominion,@,William & Mary,REG (Conf),W 69-53,*,34,3,10,0.3,2,5,0.4,1,5,0.2,0.4,0,0,,0,2,2,1,0,0,1,0,8,2.5,A,1,1,darius-james-1,Darius James,2011
+25,129,26,2011-02-12,Old Dominion,@,VCU,REG (Conf),W 70-59,*,35,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,2,1,3,4,0,0,6,1,9,3.4,A,1,1,darius-james-1,Darius James,2011
+26,130,27,2011-02-15,Old Dominion,,Georgia State,REG (Conf),W 60-43,*,28,1,6,0.167,0,4,0.0,1,2,0.5,0.167,4,5,0.8,1,3,4,5,1,0,0,2,6,7.1,H,1,1,darius-james-1,Darius James,2011
+27,131,28,2011-02-20,Old Dominion,,Cleveland State,REG (Non-Conf),W 74-63,*,32,1,5,0.2,1,1,1.0,0,4,0.0,0.3,2,2,1.0,0,3,3,1,0,0,2,1,5,1.1,H,1,1,darius-james-1,Darius James,2011
+28,132,29,2011-02-24,Old Dominion,@,James Madison,REG (Conf),W 75-59,*,33,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,3,3,6,1,0,0,1,11,11.7,A,1,1,darius-james-1,Darius James,2011
+29,133,30,2011-02-26,Old Dominion,,William & Mary,REG (Conf),W 77-58,*,29,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,0,2,2,5,0,0,2,0,11,8.4,H,1,1,darius-james-1,Darius James,2011
+30,134,31,2011-03-05,Old Dominion,N,Delaware,CTOURN,W 59-50,*,35,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,2,0.5,0,1,1,2,2,1,1,2,3,1.4,N,1,0,darius-james-1,Darius James,2011
+31,135,32,2011-03-06,Old Dominion,N,Hofstra,CTOURN,W 77-69,*,34,7,9,0.778,2,3,0.667,5,6,0.833,0.889,0,0,,0,4,4,2,2,0,0,0,16,17.1,N,1,0,darius-james-1,Darius James,2011
+32,136,33,2011-03-07,Old Dominion,N,VCU,CTOURN,W 70-65,*,32,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,6,0.667,0,4,4,2,0,0,3,0,6,2.4,N,1,0,darius-james-1,Darius James,2011
+33,137,34,2011-03-17,Old Dominion,N,Butler,ROUND-64,L 58-60,*,32,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,2,2,2,2,0,2,0,6,3.9,N,0,0,darius-james-1,Darius James,2011

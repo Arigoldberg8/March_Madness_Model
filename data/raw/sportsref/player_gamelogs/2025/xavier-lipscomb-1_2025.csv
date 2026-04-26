@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,1,2024-11-04,Mount St. Mary's,,Notre Dame (MD),REG (Non-Conf),W 98-62,*,24,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,1,2,7,0,0,3,1,4,4.5,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+2,83,2,2024-11-08,Mount St. Mary's,@,Maryland,REG (Non-Conf),L 52-86,*,34,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,8,0.5,2,0,2,7,1,0,4,4,4,2.7,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+3,84,3,2024-11-13,Mount St. Mary's,@,Bucknell,REG (Non-Conf),W 93-89 (2OT),*,39,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,3,0.667,0,4,4,2,1,0,4,4,12,4.9,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+4,85,4,2024-11-16,Mount St. Mary's,,Saint Francis (PA),REG (Non-Conf),W 66-58,*,32,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,2,1.0,0,3,3,0,0,1,1,0,10,7.6,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+5,86,5,2024-11-20,Mount St. Mary's,@,Georgetown,REG (Non-Conf),L 51-79,*,27,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,1,0,1,5,1,0,2,0,4,5.1,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+6,87,6,2024-11-23,Mount St. Mary's,,Delaware State,REG (Non-Conf),W 76-66,*,34,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,3,0.667,0,4,4,1,1,0,2,1,6,1.3,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+7,88,7,2024-11-30,Mount St. Mary's,@,Howard,REG (Non-Conf),W 79-75,*,32,0,7,0.0,0,4,0.0,0,3,0.0,0.0,6,6,1.0,0,0,0,5,1,0,3,4,6,1.0,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+8,89,8,2024-12-06,Mount St. Mary's,@,Marist,REG (Conf),L 50-53,*,31,2,9,0.222,1,6,0.167,1,3,0.333,0.278,3,3,1.0,0,3,3,3,1,0,1,0,8,5.5,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+9,90,9,2024-12-08,Mount St. Mary's,,Fairfield,REG (Conf),W 101-94,*,31,2,5,0.4,2,5,0.4,0,0,,0.6,6,8,0.75,1,1,2,5,1,1,1,2,12,12.9,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+10,91,10,2024-12-14,Mount St. Mary's,,Loyola (MD),REG (Non-Conf),L 69-77,*,36,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,0,5,5,4,1,1,2,0,5,5.8,H,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+11,92,11,2024-12-18,Mount St. Mary's,@,LIU,REG (Non-Conf),W 80-72,*,32,2,6,0.333,2,3,0.667,0,3,0.0,0.5,2,2,1.0,0,4,4,4,1,0,2,2,8,6.8,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+12,93,12,2024-12-21,Mount St. Mary's,@,Miami (FL),REG (Non-Conf),W 78-74 (OT),*,36,1,2,0.5,1,1,1.0,0,1,0.0,0.75,1,2,0.5,0,3,3,3,2,1,4,2,4,3.5,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+13,94,13,2024-12-28,Mount St. Mary's,@,George Mason,REG (Non-Conf),L 56-64,*,32,2,9,0.222,2,6,0.333,0,3,0.0,0.333,0,1,0.0,0,2,2,5,0,0,3,2,6,0.4,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+14,95,14,2025-01-05,Mount St. Mary's,,Niagara,REG (Conf),W 68-62,*,33,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,5,5,4,1,0,0,1,10,12.3,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+15,96,15,2025-01-10,Mount St. Mary's,@,Manhattan,REG (Conf),W 75-66,*,36,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,0,4,4,6,0,0,0,2,11,12.6,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+16,97,16,2025-01-12,Mount St. Mary's,,Sacred Heart,REG (Conf),W 73-71,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,2,2,4,13,1,0,5,3,10,12.2,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+17,98,17,2025-01-16,Mount St. Mary's,@,Rider,REG (Conf),L 60-66,*,33,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,4,5,5,1,0,3,3,5,3.8,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+18,99,18,2025-01-18,Mount St. Mary's,,Quinnipiac,REG (Conf),L 57-91,*,32,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,2,3,3,0,0,1,4,0,-2.0,H,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+19,100,19,2025-01-23,Mount St. Mary's,@,Siena,REG (Conf),L 68-82,*,35,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,0,6,6,9,1,0,1,3,3,6.4,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+20,101,20,2025-01-25,Mount St. Mary's,,Manhattan,REG (Conf),L 64-74,*,35,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,7,8,2,2,0,3,4,4,3.2,H,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+21,102,21,2025-01-31,Mount St. Mary's,@,Merrimack,REG (Conf),W 66-58,*,33,1,2,0.5,1,1,1.0,0,1,0.0,0.75,5,6,0.833,1,4,5,3,0,0,1,1,8,9.2,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+22,103,22,2025-02-02,Mount St. Mary's,@,Saint Peter's,REG (Conf),W 79-64,*,30,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,3,1,0,2,2,3,1.5,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+23,104,23,2025-02-06,Mount St. Mary's,,Iona,REG (Conf),L 67-70 (OT),*,38,2,6,0.333,1,5,0.2,1,1,1.0,0.417,5,6,0.833,1,5,6,7,2,0,3,1,10,11.9,H,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+24,105,24,2025-02-14,Mount St. Mary's,@,Niagara,REG (Conf),W 84-83,*,32,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,3,0.667,0,2,2,0,1,0,0,1,11,9.2,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+25,106,25,2025-02-16,Mount St. Mary's,@,Canisius,REG (Conf),W 73-66,*,26,1,5,0.2,0,2,0.0,1,3,0.333,0.2,5,5,1.0,1,6,7,6,2,0,2,2,7,9.8,A,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+26,107,26,2025-02-21,Mount St. Mary's,,Saint Peter's,REG (Conf),W 69-58,*,33,3,7,0.429,3,7,0.429,0,0,,0.643,3,4,0.75,0,3,3,3,0,0,0,2,12,10.1,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+27,108,27,2025-02-23,Mount St. Mary's,,Rider,REG (Conf),W 79-72,*,35,2,4,0.5,2,2,1.0,0,2,0.0,0.75,5,7,0.714,1,7,8,2,0,0,3,2,11,8.6,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+28,109,28,2025-02-28,Mount St. Mary's,@,Fairfield,REG (Conf),L 62-69,*,35,2,7,0.286,2,3,0.667,0,4,0.0,0.429,0,0,,0,5,5,5,1,0,3,1,6,4.5,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+29,110,29,2025-03-02,Mount St. Mary's,,Siena,REG (Conf),W 85-79,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,5,5,3,3,0,5,1,4,3.2,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+30,111,30,2025-03-06,Mount St. Mary's,@,Quinnipiac,REG (Conf),L 70-79,*,35,2,7,0.286,1,4,0.25,1,3,0.333,0.357,3,4,0.75,2,7,9,6,0,0,1,3,8,9.0,A,0,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+31,112,31,2025-03-08,Mount St. Mary's,,Marist,REG (Conf),W 62-52,*,37,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,6,6,6,2,0,0,1,2,7.2,H,1,1,xavier-lipscomb-1,Xavier Lipscomb,2025
+32,113,32,2025-03-13,Mount St. Mary's,N,Marist,CTOURN,W 62-58,*,37,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,3,0.667,1,4,5,7,2,0,5,1,9,7.6,N,1,0,xavier-lipscomb-1,Xavier Lipscomb,2025
+33,114,33,2025-03-14,Mount St. Mary's,N,Merrimack,CTOURN,W 57-55,*,33,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,0,6,6,3,0,0,2,2,5,5.1,N,1,0,xavier-lipscomb-1,Xavier Lipscomb,2025
+34,115,34,2025-03-15,Mount St. Mary's,N,Iona,CTOURN,W 63-49,*,37,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,4,4,2,0,1,3,4,4,-0.4,N,1,0,xavier-lipscomb-1,Xavier Lipscomb,2025
+35,116,35,2025-03-19,Mount St. Mary's,N,American,FIRST-FOUR,W 83-72,*,36,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,6,0.667,0,3,3,4,0,0,2,3,7,5.0,N,1,0,xavier-lipscomb-1,Xavier Lipscomb,2025
+36,117,36,2025-03-21,Mount St. Mary's,N,Duke,ROUND-64,L 49-93,*,35,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,5,5,3,0,0,1,3,6,5.4,N,0,0,xavier-lipscomb-1,Xavier Lipscomb,2025

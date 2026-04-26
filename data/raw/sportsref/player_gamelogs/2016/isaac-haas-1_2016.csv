@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2015-11-13,Purdue,,North Carolina A&T,REG (Non-Conf),W 81-40,*,22,3,5,0.6,0,0,3,5,0.6,0.6,6,7,0.857,5,5,10,2,0,3,1,1,12,16.4,H,1,1,isaac-haas-1,Isaac Haas,2016
+2,36,2,2015-11-15,Purdue,,Vermont,REG (Non-Conf),W 107-79,*,19,6,7,0.857,0,0,6,7,0.857,0.857,4,9,0.444,1,1,2,1,1,2,1,2,16,13.8,H,1,1,isaac-haas-1,Isaac Haas,2016
+3,37,3,2015-11-18,Purdue,,Incarnate Word,REG (Non-Conf),W 96-61,*,19,5,7,0.714,0,0,5,7,0.714,0.714,7,8,0.875,4,8,12,1,0,4,2,0,17,20.4,H,1,1,isaac-haas-1,Isaac Haas,2016
+4,38,4,2015-11-21,Purdue,N,Old Dominion,REG (Non-Conf),W 61-39,*,19,4,5,0.8,0,0,4,5,0.8,0.8,2,2,1.0,1,7,8,0,1,2,0,1,10,12.9,N,1,1,isaac-haas-1,Isaac Haas,2016
+5,39,5,2015-11-22,Purdue,N,Florida,REG (Non-Conf),W 85-70,*,15,5,6,0.833,0,0,5,6,0.833,0.833,1,2,0.5,0,2,2,0,0,1,0,2,11,8.9,N,1,1,isaac-haas-1,Isaac Haas,2016
+6,40,6,2015-11-28,Purdue,,Lehigh,REG (Non-Conf),W 77-55,*,20,8,11,0.727,0,0,8,11,0.727,0.727,8,10,0.8,2,3,5,0,0,2,0,2,24,21.6,H,1,1,isaac-haas-1,Isaac Haas,2016
+7,41,7,2015-12-01,Purdue,@,Pittsburgh,REG (Non-Conf),W 72-59,*,9,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,1,2,0,0,0,4,3,6,-0.2,A,1,1,isaac-haas-1,Isaac Haas,2016
+8,42,8,2015-12-05,Purdue,,New Mexico,REG (Non-Conf),W 70-58,*,21,6,12,0.5,0,0,6,12,0.5,0.5,9,13,0.692,3,3,6,0,0,1,1,1,21,15.7,H,1,1,isaac-haas-1,Isaac Haas,2016
+9,43,9,2015-12-07,Purdue,,IUPUI,REG (Non-Conf),W 80-53,*,17,3,6,0.5,0,0,3,6,0.5,0.5,4,6,0.667,0,2,2,2,1,3,1,1,10,9.9,H,1,1,isaac-haas-1,Isaac Haas,2016
+10,44,10,2015-12-09,Purdue,,Howard,REG (Non-Conf),W 93-55,*,18,4,9,0.444,0,0,4,9,0.444,0.444,1,1,1.0,1,2,3,1,0,0,1,3,9,4.1,H,1,1,isaac-haas-1,Isaac Haas,2016
+11,45,11,2015-12-12,Purdue,,Youngstown State,REG (Non-Conf),W 95-64,*,18,4,7,0.571,0,0,4,7,0.571,0.571,5,6,0.833,1,5,6,1,0,0,0,2,13,11.4,H,1,1,isaac-haas-1,Isaac Haas,2016
+12,46,12,2015-12-19,Purdue,N,Butler,REG (Non-Conf),L 68-74,*,16,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,0,7,7,0,0,1,1,3,4,0.5,N,0,1,isaac-haas-1,Isaac Haas,2016
+13,47,13,2015-12-22,Purdue,,Vanderbilt,REG (Non-Conf),W 68-55,*,11,2,6,0.333,0,0,2,6,0.333,0.333,2,3,0.667,3,2,5,0,0,1,3,1,6,2.2,H,1,1,isaac-haas-1,Isaac Haas,2016
+14,48,14,2015-12-29,Purdue,@,Wisconsin,REG (Conf),W 61-55,*,10,2,6,0.333,0,0,2,6,0.333,0.333,2,3,0.667,2,1,3,1,0,0,2,2,6,1.8,A,1,1,isaac-haas-1,Isaac Haas,2016
+15,49,15,2016-01-02,Purdue,,Iowa,REG (Conf),L 63-70,*,15,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,3,6,0,0,1,1,1,6,6.7,H,0,1,isaac-haas-1,Isaac Haas,2016
+16,50,16,2016-01-07,Purdue,,Michigan,REG (Conf),W 87-70,,10,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,1,2,3,1,0,0,0,0,7,6.7,H,1,1,isaac-haas-1,Isaac Haas,2016
+17,51,17,2016-01-10,Purdue,@,Illinois,REG (Conf),L 70-84,,15,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,1,2,3,0,0,0,1,1,6,1.5,A,0,1,isaac-haas-1,Isaac Haas,2016
+18,52,18,2016-01-13,Purdue,,Penn State,REG (Conf),W 74-57,,14,5,6,0.833,0,0,5,6,0.833,0.833,4,5,0.8,0,2,2,0,0,1,2,2,14,9.9,H,1,1,isaac-haas-1,Isaac Haas,2016
+19,53,19,2016-01-18,Purdue,@,Rutgers,REG (Conf),W 107-57,,17,3,7,0.429,0,0,3,7,0.429,0.429,3,6,0.5,0,2,2,1,0,0,0,2,9,4.6,A,1,1,isaac-haas-1,Isaac Haas,2016
+20,54,20,2016-01-21,Purdue,,Ohio State,REG (Conf),W 75-64,,11,4,5,0.8,0,0,4,5,0.8,0.8,2,5,0.4,1,0,1,1,0,1,1,1,10,7.6,H,1,1,isaac-haas-1,Isaac Haas,2016
+21,55,21,2016-01-24,Purdue,@,Iowa,REG (Conf),L 71-83,,8,0,1,0.0,0,0,0,1,0.0,0.0,1,4,0.25,1,1,2,0,0,0,1,2,1,-1.7,A,0,1,isaac-haas-1,Isaac Haas,2016
+22,56,22,2016-01-27,Purdue,@,Minnesota,REG (Conf),W 68-64,,9,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,2,3,0,0,1,1,2,3,0.4,A,1,1,isaac-haas-1,Isaac Haas,2016
+23,57,23,2016-01-30,Purdue,,Nebraska,REG (Conf),W 89-74,,12,5,6,0.833,0,0,5,6,0.833,0.833,3,3,1.0,0,1,1,1,0,1,1,1,13,11.1,H,1,1,isaac-haas-1,Isaac Haas,2016
+24,58,24,2016-02-06,Purdue,@,Maryland,REG (Conf),L 61-72,,15,5,10,0.5,0,0,5,10,0.5,0.5,0,0,,1,0,1,0,1,0,1,2,10,4.9,A,0,1,isaac-haas-1,Isaac Haas,2016
+25,59,25,2016-02-09,Purdue,,Michigan State,REG (Conf),W 82-81 (OT),,13,1,2,0.5,0,0,1,2,0.5,0.5,4,4,1.0,1,3,4,1,0,0,1,2,6,5.5,H,1,1,isaac-haas-1,Isaac Haas,2016
+26,60,26,2016-02-13,Purdue,@,Michigan,REG (Conf),L 56-61,,16,5,10,0.5,0,0,5,10,0.5,0.5,1,2,0.5,1,4,5,0,0,0,0,1,11,7.1,A,0,1,isaac-haas-1,Isaac Haas,2016
+27,61,27,2016-02-16,Purdue,,Northwestern,REG (Conf),W 71-61,,10,2,4,0.5,0,0,2,4,0.5,0.5,4,5,0.8,1,3,4,0,0,0,1,3,8,5.0,H,1,1,isaac-haas-1,Isaac Haas,2016
+28,62,28,2016-02-20,Purdue,@,Indiana,REG (Conf),L 73-77,,19,4,5,0.8,0,0,4,5,0.8,0.8,4,4,1.0,0,2,2,0,0,0,1,0,12,9.7,A,0,1,isaac-haas-1,Isaac Haas,2016
+29,63,29,2016-02-27,Purdue,,Maryland,REG (Conf),W 83-79,,12,4,7,0.571,0,0,4,7,0.571,0.571,1,1,1.0,2,1,3,0,0,0,1,2,9,5.6,H,1,1,isaac-haas-1,Isaac Haas,2016
+30,64,30,2016-03-01,Purdue,@,Nebraska,REG (Conf),W 81-62,,14,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,0,4,4,1,0,0,1,3,8,6.1,A,1,1,isaac-haas-1,Isaac Haas,2016
+31,65,31,2016-03-06,Purdue,,Wisconsin,REG (Conf),W 91-80,,9,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,1,1,0,0,0,2,2,6,2.6,H,1,1,isaac-haas-1,Isaac Haas,2016
+32,66,32,2016-03-11,Purdue,N,Illinois,CTOURN,W 89-58,,18,8,9,0.889,0,0,8,9,0.889,0.889,0,2,0.0,1,2,3,0,0,1,2,2,16,11.3,N,1,0,isaac-haas-1,Isaac Haas,2016
+33,67,33,2016-03-12,Purdue,N,Michigan,CTOURN,W 76-59,,9,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,0,2,2,0,0,0,1,1,11,6.5,N,1,0,isaac-haas-1,Isaac Haas,2016
+34,68,34,2016-03-13,Purdue,N,Michigan State,CTOURN,L 62-66,,8,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,2,3,0,0,0,2,3,4,0.1,N,0,0,isaac-haas-1,Isaac Haas,2016
+35,69,35,2016-03-17,Purdue,N,Little Rock,ROUND-64,L 83-85 (2OT),,12,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,1,0,1,1,0,1,1,1,7,6.0,N,0,0,isaac-haas-1,Isaac Haas,2016

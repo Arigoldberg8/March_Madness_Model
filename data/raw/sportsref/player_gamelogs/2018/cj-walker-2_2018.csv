@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2017-11-14,Florida State,,George Washington,REG (Non-Conf),W 87-67,*,29,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,0,5,5,4,3,0,2,1,7,6.8,H,1,1,cj-walker-2,CJ Walker,2018
+2,35,2,2017-11-17,Florida State,N,Fordham,REG (Non-Conf),W 67-43,*,22,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,3,3,3,0,0,2,3,3,0.7,N,1,1,cj-walker-2,CJ Walker,2018
+3,36,3,2017-11-19,Florida State,N,Colorado State,REG (Non-Conf),W 90-73,*,23,2,7,0.286,2,5,0.4,0,2,0.0,0.429,5,6,0.833,0,2,2,1,0,0,1,2,11,6.0,N,1,1,cj-walker-2,CJ Walker,2018
+4,37,4,2017-11-22,Florida State,,Kennesaw State,REG (Non-Conf),W 98-79,*,23,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,1,0,1,3,2,0,1,1,12,10.7,H,1,1,cj-walker-2,CJ Walker,2018
+5,38,5,2017-11-24,Florida State,,The Citadel,REG (Non-Conf),W 113-78,*,23,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,1,1,4,1,1,3,3,9,6.3,H,1,1,cj-walker-2,CJ Walker,2018
+6,39,6,2017-11-28,Florida State,@,Rutgers,REG (Non-Conf),W 78-73,*,29,6,11,0.545,2,3,0.667,4,8,0.5,0.636,10,11,0.909,0,0,0,3,4,0,0,3,24,23.2,A,1,1,cj-walker-2,CJ Walker,2018
+7,40,7,2017-12-04,Florida State,@,Florida,REG (Non-Conf),W 83-66,*,34,5,9,0.556,3,6,0.5,2,3,0.667,0.722,4,6,0.667,1,4,5,4,3,0,2,4,17,16.0,A,1,1,cj-walker-2,CJ Walker,2018
+8,41,8,2017-12-06,Florida State,,Loyola (MD),REG (Non-Conf),W 96-71,*,27,4,10,0.4,3,7,0.429,1,3,0.333,0.55,4,5,0.8,0,3,3,6,3,0,2,2,15,14.5,H,1,1,cj-walker-2,CJ Walker,2018
+9,42,9,2017-12-10,Florida State,N,Tulane,REG (Non-Conf),W 72-53,*,27,1,8,0.125,0,4,0.0,1,4,0.25,0.125,1,3,0.333,0,3,3,1,1,1,1,3,3,-1.9,N,1,1,cj-walker-2,CJ Walker,2018
+10,43,10,2017-12-16,Florida State,N,Oklahoma State,REG (Non-Conf),L 70-71,*,24,1,8,0.125,1,2,0.5,0,6,0.0,0.188,0,0,,1,1,2,1,0,0,3,2,3,-4.3,N,0,1,cj-walker-2,CJ Walker,2018
+11,44,11,2017-12-18,Florida State,,Charleston Southern,REG (Non-Conf),W 69-58,*,30,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,1,1,3,2,0,2,1,8,5.6,H,1,1,cj-walker-2,CJ Walker,2018
+12,45,12,2017-12-21,Florida State,,Southern Mississippi,REG (Non-Conf),W 98-45,*,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,5,5,3,0,0,1,1,4,4.9,H,1,1,cj-walker-2,CJ Walker,2018
+13,46,13,2017-12-30,Florida State,@,Duke,REG (Conf),L 93-100,*,20,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,0,2,2,5,0,0,0,5,7,4.0,A,0,1,cj-walker-2,CJ Walker,2018
+14,47,14,2018-01-03,Florida State,,North Carolina,REG (Conf),W 81-80,*,23,6,9,0.667,4,6,0.667,2,3,0.667,0.889,2,3,0.667,0,3,3,2,1,0,5,1,18,11.6,H,1,1,cj-walker-2,CJ Walker,2018
+15,48,15,2018-01-07,Florida State,@,Miami (FL),REG (Conf),L 74-80,*,15,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,4,5,2,1,0,1,1,0,-0.6,A,0,1,cj-walker-2,CJ Walker,2018
+16,49,16,2018-01-10,Florida State,,Louisville,REG (Conf),L 69-73,*,27,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,4,4,2,1,1,2,2,0,-0.6,H,0,1,cj-walker-2,CJ Walker,2018
+17,50,17,2018-01-13,Florida State,,Syracuse,REG (Conf),W 101-90 (2OT),*,33,2,7,0.286,0,4,0.0,2,3,0.667,0.286,5,6,0.833,1,4,5,2,3,0,4,3,9,5.6,H,1,1,cj-walker-2,CJ Walker,2018
+18,51,18,2018-01-15,Florida State,@,Boston College,REG (Conf),L 75-81,*,31,7,13,0.538,1,5,0.2,6,8,0.75,0.577,4,5,0.8,0,3,3,6,0,0,1,3,19,15.2,A,0,1,cj-walker-2,CJ Walker,2018
+19,52,19,2018-01-20,Florida State,@,Virginia Tech,REG (Conf),W 91-82,*,32,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,0,5,5,7,1,0,2,2,11,12.6,A,1,1,cj-walker-2,CJ Walker,2018
+20,53,20,2018-01-24,Florida State,,Georgia Tech,REG (Conf),W 88-77,*,31,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,1,0.0,0,3,3,2,1,0,1,2,2,-1.4,H,1,1,cj-walker-2,CJ Walker,2018
+21,54,21,2018-01-27,Florida State,,Miami (FL),REG (Conf),W 103-94 (OT),*,30,6,10,0.6,1,4,0.25,5,6,0.833,0.65,4,7,0.571,0,3,3,2,0,0,2,3,17,10.3,H,1,1,cj-walker-2,CJ Walker,2018
+22,55,22,2018-01-31,Florida State,@,Wake Forest,REG (Conf),L 72-76,*,21,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,0,0,1,0,0,0,5,5,0.3,A,0,1,cj-walker-2,CJ Walker,2018
+23,56,23,2018-02-03,Florida State,@,Louisville,REG (Conf),W 80-76,*,23,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,1,5,6,1,1,0,2,4,10,7.3,A,1,1,cj-walker-2,CJ Walker,2018
+24,57,24,2018-02-07,Florida State,,Virginia,REG (Conf),L 55-59,*,23,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,3,3,4,0,0,4,2,7,4.6,H,0,1,cj-walker-2,CJ Walker,2018
+25,58,25,2018-02-10,Florida State,@,Notre Dame,REG (Conf),L 69-84,*,23,6,8,0.75,4,5,0.8,2,3,0.667,1.0,0,0,,0,3,3,2,0,0,2,4,16,11.5,A,0,1,cj-walker-2,CJ Walker,2018
+26,59,26,2018-02-14,Florida State,,Clemson,REG (Conf),W 81-79 (OT),*,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,2,0.0,0,2,2,3,0,1,0,5,7,5.3,H,1,1,cj-walker-2,CJ Walker,2018
+27,60,27,2018-02-18,Florida State,,Pittsburgh,REG (Conf),W 88-75,*,28,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,0,1,1,3,1,0,1,2,5,4.2,H,1,1,cj-walker-2,CJ Walker,2018
+28,61,28,2018-02-25,Florida State,@,NC State,REG (Conf),L 72-92,*,16,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,1,1,0,0,0,3,2,4,-4.3,A,0,1,cj-walker-2,CJ Walker,2018
+29,62,29,2018-02-28,Florida State,@,Clemson,REG (Conf),L 63-76,,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,0,2,0,1,3,4,2.8,A,0,1,cj-walker-2,CJ Walker,2018
+30,63,30,2018-03-03,Florida State,,Boston College,REG (Conf),W 85-76,*,11,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,2,1,0,1,1,5,4.9,H,1,1,cj-walker-2,CJ Walker,2018
+31,64,31,2018-03-07,Florida State,N,Louisville,CTOURN,L 74-82,*,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.2,N,0,0,cj-walker-2,CJ Walker,2018
+32,65,32,2018-03-16,Florida State,N,Missouri,ROUND-64,W 67-54,*,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,0,1,0,1,2,4,1.9,N,1,0,cj-walker-2,CJ Walker,2018
+33,66,33,2018-03-18,Florida State,N,Xavier,ROUND-32,W 75-70,*,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,1,0,1,1,0,0,3,1,2,-2.1,N,1,0,cj-walker-2,CJ Walker,2018
+34,67,34,2018-03-22,Florida State,N,Gonzaga,ROUND-16,W 75-60,*,15,3,8,0.375,3,5,0.6,0,3,0.0,0.563,0,0,,0,2,2,2,2,1,2,2,9,6.5,N,1,0,cj-walker-2,CJ Walker,2018
+35,68,35,2018-03-24,Florida State,N,Michigan,ROUND-8,L 54-58,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,1,2,0,0,0,3,2,2,-3.2,N,0,0,cj-walker-2,CJ Walker,2018

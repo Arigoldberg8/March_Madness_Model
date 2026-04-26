@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-13,Texas,,Boston University,REG (Non-Conf),W 82-46,*,20,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,2,2,0,2,0,0,2,7,6.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+2,2,2,2011-11-15,Texas,,Rhode Island,REG (Non-Conf),W 100-90,*,21,2,2,1.0,0,0,,2,2,1.0,1.0,7,8,0.875,2,4,6,2,0,1,1,3,11,12.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+3,3,3,2011-11-19,Texas,N,Oregon State,REG (Non-Conf),L 95-100 (OT),*,21,3,4,0.75,0,0,,3,4,0.75,0.75,6,6,1.0,2,3,5,0,0,0,4,5,12,6.7,N,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+4,4,4,2011-11-21,Texas,N,NC State,REG (Non-Conf),L 74-77,*,20,4,8,0.5,1,2,0.5,3,6,0.5,0.563,7,7,1.0,4,4,8,1,1,0,0,4,16,16.1,N,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+5,5,5,2011-11-26,Texas,,Sam Houston State,REG (Non-Conf),W 56-40,*,28,4,8,0.5,1,3,0.333,3,5,0.6,0.563,5,6,0.833,3,6,9,3,0,3,1,3,14,15.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+6,6,6,2011-11-29,Texas,,North Texas,REG (Non-Conf),W 73-57,*,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,3,5,0.6,2,4,6,0,1,1,1,4,12,9.6,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+7,7,7,2011-12-03,Texas,@,UCLA,REG (Non-Conf),W 69-59,*,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,1,5,6,0,1,1,2,3,5,2.6,A,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+8,8,8,2011-12-06,Texas,,UT Arlington,REG (Non-Conf),W 80-62,*,26,3,8,0.375,0,3,0.0,3,5,0.6,0.375,1,2,0.5,3,2,5,0,0,1,3,5,7,0.6,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+9,9,9,2011-12-10,Texas,,Texas State San Marcos,REG (Non-Conf),W 86-52,*,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,4,0.75,2,1,3,1,0,0,1,3,3,1.4,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+10,10,10,2011-12-13,Texas,,Nicholls State,REG (Non-Conf),W 93-40,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,4,7,0.571,3,2,5,1,0,0,1,3,8,5.3,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+11,11,11,2011-12-17,Texas,,Temple,REG (Non-Conf),W 77-65,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,5,6,0.833,3,3,6,0,1,0,1,3,7,6.7,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+12,12,12,2011-12-21,Texas,@,North Carolina,REG (Non-Conf),L 63-82,*,28,6,11,0.545,2,5,0.4,4,6,0.667,0.636,2,2,1.0,5,1,6,2,0,3,2,3,16,14.8,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+13,13,13,2011-12-31,Texas,,Rice,REG (Non-Conf),W 73-59,,27,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,3,4,7,0,1,0,1,3,5,5.8,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+14,14,14,2012-01-04,Texas,@,Iowa State,REG (Conf),L 71-77,,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,3,2,5,1,1,1,3,5,5,3.1,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+15,15,15,2012-01-07,Texas,,Oklahoma State,REG (Conf),W 58-49,,21,4,5,0.8,0,1,0.0,4,4,1.0,0.8,3,4,0.75,4,0,4,0,2,2,2,3,11,11.7,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+16,16,16,2012-01-11,Texas,,Texas A&M,REG (Conf),W 61-51,,14,0,0,,0,0,,0,0,,,1,2,0.5,0,4,4,0,0,1,0,3,1,1.3,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+17,17,17,2012-01-14,Texas,@,Missouri,REG (Conf),L 73-84,*,19,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,2,5,7,0,0,0,0,1,10,10.3,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+18,18,18,2012-01-18,Texas,@,Kansas State,REG (Conf),L 80-84,,9,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,2,0,2,0,0,0,0,5,1,-0.7,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+19,19,19,2012-01-21,Texas,,Kansas,REG (Conf),L 66-69,,17,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,4,2,6,0,1,0,1,4,4,2.4,H,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+20,20,20,2012-01-24,Texas,,Iowa State,REG (Conf),W 62-55,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,4,5,0,1,0,1,2,4,3.1,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+21,21,21,2012-01-28,Texas,@,Baylor,REG (Conf),L 71-76,,18,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,2,0.0,1,1,2,0,0,0,2,5,7,0.2,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+22,22,22,2012-01-30,Texas,,Missouri,REG (Conf),L 66-67,*,27,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,1,1.0,4,5,9,0,0,3,5,2,7,3.9,H,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+23,23,23,2012-02-04,Texas,,Texas Tech,REG (Conf),W 74-57,,20,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,2,3,5,0,1,1,1,3,5,4.4,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+24,24,24,2012-02-06,Texas,@,Texas A&M,REG (Conf),W 70-68,,20,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,3,0.667,0,0,0,0,0,0,0,4,9,4.7,A,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+25,25,25,2012-02-11,Texas,,Kansas State,REG (Conf),W 75-64,,24,0,2,0.0,0,0,,0,2,0.0,0.0,3,4,0.75,2,2,4,0,2,1,1,3,3,3.7,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+26,26,26,2012-02-14,Texas,@,Oklahoma,REG (Conf),W 69-58,,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,2,2,4,0,2,0,1,2,8,8.2,A,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+27,27,27,2012-02-18,Texas,@,Oklahoma State,REG (Conf),L 78-90,,26,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,1,3,4,3,3,0,1,5,6,6.2,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+28,28,28,2012-02-20,Texas,,Baylor,REG (Conf),L 72-77,,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,4,4,0,0,0,1,2,7,2.7,H,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+29,29,29,2012-02-25,Texas,@,Texas Tech,REG (Conf),W 71-67 (OT),,23,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,2,3,0,0,0,0,4,3,-0.1,A,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+30,30,30,2012-02-29,Texas,,Oklahoma,REG (Conf),W 72-64,,26,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,0,,5,2,7,0,3,0,1,1,6,6.6,H,1,1,jonathan-holmes-2,Jonathan Holmes,2012
+31,31,31,2012-03-03,Texas,@,Kansas,REG (Conf),L 63-73,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,0,1,1,0,5,1,-0.5,A,0,1,jonathan-holmes-2,Jonathan Holmes,2012
+32,32,32,2012-03-08,Texas,N,Iowa State,CTOURN,W 71-65,*,19,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,6,0.5,2,2,4,1,0,0,2,3,5,1.6,N,1,0,jonathan-holmes-2,Jonathan Holmes,2012
+33,33,33,2012-03-09,Texas,N,Missouri,CTOURN,L 67-81,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,3,1,4,1,0,0,2,3,11,7.6,N,0,0,jonathan-holmes-2,Jonathan Holmes,2012
+34,34,34,2012-03-16,Texas,N,Cincinnati,ROUND-64,L 59-65,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,2,2,4,0,0,0,0,4,4,1.7,N,0,0,jonathan-holmes-2,Jonathan Holmes,2012

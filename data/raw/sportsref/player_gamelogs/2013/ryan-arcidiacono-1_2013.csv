@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,Villanova,,Dist. Columbia,REG (Non-Conf),W 78-58,*,28,3,7,0.429,2,6,0.333,1,1,1.0,0.571,3,4,0.75,0,3,3,4,1,0,3,2,11,7.8,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+2,2,2,2012-11-11,Villanova,,Marshall,REG (Non-Conf),W 80-68,*,35,6,11,0.545,4,9,0.444,2,2,1.0,0.727,9,10,0.9,0,4,4,6,2,0,3,1,25,23.3,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+3,3,3,2012-11-15,Villanova,N,Purdue,REG (Non-Conf),W 89-81 (OT),*,39,3,14,0.214,3,7,0.429,0,7,0.0,0.321,9,10,0.9,0,2,2,6,1,0,7,2,18,7.0,N,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+4,4,4,2012-11-16,Villanova,N,Alabama,REG (Non-Conf),L 55-77,*,33,3,11,0.273,1,8,0.125,2,3,0.667,0.318,4,4,1.0,1,0,1,2,0,0,2,3,11,3.4,N,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+5,5,5,2012-11-20,Villanova,,Columbia,REG (Non-Conf),L 57-75,*,38,3,11,0.273,1,8,0.125,2,3,0.667,0.318,4,4,1.0,0,5,5,2,2,0,1,3,11,7.2,H,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+6,6,6,2012-11-25,Villanova,@,La Salle,REG (Non-Conf),L 74-77 (OT),*,41,1,7,0.143,1,4,0.25,0,3,0.0,0.214,3,5,0.6,0,4,4,7,1,0,6,3,6,0.6,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+7,7,7,2012-12-01,Villanova,@,Vanderbilt,REG (Non-Conf),W 62-52,*,32,1,6,0.167,1,5,0.2,0,1,0.0,0.25,5,6,0.833,0,4,4,4,0,0,2,1,8,5.4,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+8,8,8,2012-12-05,Villanova,,Temple,REG (Non-Conf),L 61-76,*,36,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,4,1.0,0,2,2,2,0,0,3,2,9,3.1,H,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+9,9,9,2012-12-08,Villanova,@,Pennsylvania,REG (Non-Conf),W 68-55,*,25,3,7,0.429,3,6,0.5,0,1,0.0,0.643,3,4,0.75,1,0,1,2,1,0,4,4,12,5.4,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+10,10,10,2012-12-11,Villanova,,Saint Joseph's,REG (Non-Conf),W 65-61,*,32,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,2,0.5,0,0,0,2,0,0,0,2,6,2.8,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+11,11,11,2012-12-16,Villanova,,Delaware,REG (Non-Conf),W 75-65,*,30,2,9,0.222,2,7,0.286,0,2,0.0,0.333,1,3,0.333,1,0,1,2,3,0,0,2,7,5.0,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+12,12,12,2012-12-22,Villanova,@,Monmouth,REG (Non-Conf),W 83-56,*,24,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,1,1,4,3,0,3,1,9,8.7,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+13,13,13,2012-12-28,Villanova,,NJIT,REG (Non-Conf),W 70-60,*,30,6,13,0.462,4,11,0.364,2,2,1.0,0.615,1,2,0.5,0,0,0,3,1,0,0,2,17,12.2,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+14,14,14,2013-01-02,Villanova,,St. John's (NY),REG (Conf),W 98-86 (OT),*,39,7,15,0.467,7,13,0.538,0,2,0.0,0.7,11,13,0.846,0,1,1,1,2,0,2,3,32,23.3,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+15,15,15,2013-01-09,Villanova,@,South Florida,REG (Conf),W 61-53,*,34,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,3,0,0,1,3,5,2.8,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+16,16,16,2013-01-12,Villanova,@,Syracuse,REG (Conf),L 61-72,*,35,2,8,0.25,1,7,0.143,1,1,1.0,0.313,2,2,1.0,0,1,1,4,0,0,6,4,7,-2.3,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+17,17,17,2013-01-16,Villanova,,Pittsburgh,REG (Conf),L 43-58,*,34,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,0,0,2,2,0,6,1,5,-4.2,H,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+18,18,18,2013-01-19,Villanova,@,Providence,REG (Conf),L 66-69,*,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,4,4,1.0,0,1,1,4,0,0,5,4,10,3.5,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+19,19,19,2013-01-22,Villanova,,Louisville,REG (Conf),W 73-64,*,36,3,8,0.375,2,5,0.4,1,3,0.333,0.5,7,8,0.875,2,3,5,3,2,0,4,2,15,11.8,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+20,20,20,2013-01-26,Villanova,,Syracuse,REG (Conf),W 75-71 (OT),*,41,3,12,0.25,2,8,0.25,1,4,0.25,0.333,2,3,0.667,1,2,3,2,2,0,2,2,10,4.3,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+21,21,21,2013-01-30,Villanova,@,Notre Dame,REG (Conf),L 60-65,*,37,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,1,0.0,0,2,2,5,0,0,0,4,5,1.6,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+22,22,22,2013-02-03,Villanova,,Providence,REG (Conf),L 52-55,*,38,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,1,1,2,3,0,1,3,5,3.4,H,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+23,23,23,2013-02-05,Villanova,@,DePaul,REG (Conf),W 94-71,*,33,7,12,0.583,5,10,0.5,2,2,1.0,0.792,4,6,0.667,0,2,2,5,0,0,4,2,23,15.9,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+24,24,24,2013-02-09,Villanova,,South Florida,REG (Conf),W 68-40,*,27,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,4,1,0,0,3,3,3.5,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+25,25,25,2013-02-12,Villanova,@,Cincinnati,REG (Conf),L 50-68,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,3,0.667,0,2,2,5,2,0,2,3,7,6.1,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+26,26,26,2013-02-16,Villanova,@,Connecticut,REG (Conf),W 70-61,*,36,8,15,0.533,5,8,0.625,3,7,0.429,0.7,4,4,1.0,0,2,2,2,2,0,4,1,25,17.3,A,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+27,27,27,2013-02-18,Villanova,,Rutgers,REG (Conf),W 71-63,*,34,3,7,0.429,3,7,0.429,0,0,,0.643,5,7,0.714,0,0,0,4,1,0,0,2,14,12.5,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+28,28,28,2013-02-23,Villanova,,Marquette,REG (Conf),W 60-56,*,36,3,10,0.3,1,6,0.167,2,4,0.5,0.35,4,4,1.0,1,3,4,3,0,0,0,1,11,8.5,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+29,29,29,2013-02-25,Villanova,@,Seton Hall,REG (Conf),L 65-66,*,34,4,11,0.364,2,8,0.25,2,3,0.667,0.455,6,6,1.0,0,2,2,4,1,0,5,3,16,8.1,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+30,30,30,2013-03-03,Villanova,@,Pittsburgh,REG (Conf),L 64-73 (OT),*,41,6,14,0.429,5,8,0.625,1,6,0.167,0.607,6,6,1.0,0,3,3,4,0,0,3,3,23,15.1,A,0,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+31,31,31,2013-03-06,Villanova,,Georgetown,REG (Conf),W 67-57,*,35,2,5,0.4,1,4,0.25,1,1,1.0,0.5,6,9,0.667,0,2,2,6,0,0,2,3,11,8.7,H,1,1,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+32,32,32,2013-03-13,Villanova,N,St. John's (NY),CTOURN,W 66-53,*,37,3,11,0.273,2,8,0.25,1,3,0.333,0.364,7,8,0.875,0,6,6,5,1,0,8,2,15,5.6,N,1,0,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+33,33,33,2013-03-14,Villanova,N,Louisville,CTOURN,L 55-74,*,35,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,0,,0,1,1,2,1,0,3,4,3,-4.1,N,0,0,ryan-arcidiacono-1,Ryan Arcidiacono,2013
+34,34,34,2013-03-22,Villanova,N,North Carolina,ROUND-64,L 71-78,*,33,2,11,0.182,1,8,0.125,1,3,0.333,0.227,5,6,0.833,1,2,3,3,3,0,4,4,10,3.5,N,0,0,ryan-arcidiacono-1,Ryan Arcidiacono,2013

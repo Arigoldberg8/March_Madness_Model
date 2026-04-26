@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2021-11-09,Akron,@,Ohio State,REG (Non-Conf),L 66-67,,15,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,0,3,3,0,0,0,1,0,5,1.8,A,0,1,garvin-clarke-1,Garvin Clarke,2022
+2,24,2,2021-11-13,Akron,,Point Park,REG (Non-Conf),W 102-46,,19,1,9,0.111,0,4,0.0,1,5,0.2,0.111,1,2,0.5,3,2,5,3,1,0,1,0,3,1.5,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+3,25,3,2021-11-18,Akron,,Wheeling Jesuit,REG (Non-Conf),W 99-38,,20,5,5,1.0,2,2,1.0,3,3,1.0,1.2,0,0,,3,1,4,1,3,0,2,2,12,13.8,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+4,26,4,2021-11-22,Akron,N,Fordham,REG (Non-Conf),L 43-63,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,3,0,-3.0,N,0,1,garvin-clarke-1,Garvin Clarke,2022
+5,27,5,2021-11-23,Akron,N,Appalachian State,REG (Non-Conf),L 45-57,,24,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,5,5,3,1,0,3,2,0,-2.0,N,0,1,garvin-clarke-1,Garvin Clarke,2022
+6,28,6,2021-11-24,Akron,N,Evansville,REG (Non-Conf),W 69-60,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,N,1,1,garvin-clarke-1,Garvin Clarke,2022
+7,29,7,2021-12-01,Akron,,Marshall,REG (Non-Conf),W 88-86,,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,1,2,2,0,0,1,1,2,2.3,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+8,30,8,2021-12-04,Akron,,Southern,REG (Non-Conf),W 79-62,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,2,4,0,-3.3,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+9,31,9,2021-12-12,Akron,,Florida A&M,REG (Non-Conf),W 73-66,,15,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,1,1,2,1,1,0,1,1,6,6.0,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+10,32,10,2021-12-15,Akron,@,Wright State,REG (Non-Conf),W 66-48,,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,2,6,8,2,1,0,4,1,5,3.1,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+11,33,11,2022-01-01,Akron,,Buffalo,REG (Conf),W 88-76,,15,3,5,0.6,1,3,0.333,2,2,1.0,0.7,1,1,1.0,0,0,0,3,0,0,0,1,8,7.4,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+12,34,12,2022-01-04,Akron,,Ohio,REG (Conf),L 63-69,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,H,0,1,garvin-clarke-1,Garvin Clarke,2022
+13,35,13,2022-01-11,Akron,,Ball State,REG (Conf),W 84-74,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,4,0,0,1,1,0,1.0,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+14,36,14,2022-01-14,Akron,@,Kent State,REG (Conf),L 55-67,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,2,2,0,-3.9,A,0,1,garvin-clarke-1,Garvin Clarke,2022
+15,37,15,2022-01-18,Akron,,Western Michigan,REG (Conf),W 74-73,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+16,38,16,2022-01-20,Akron,@,Bowling Green,REG (Conf),W 91-66,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+17,39,17,2022-01-22,Akron,,Eastern Michigan,REG (Conf),W 46-44,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+18,40,18,2022-01-25,Akron,@,Central Michigan,REG (Conf),W 60-56,,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,0,0,1,2,3,1.8,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+19,41,19,2022-01-28,Akron,@,Toledo,REG (Conf),L 76-84,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,2,0,1,1,0,1.2,A,0,1,garvin-clarke-1,Garvin Clarke,2022
+20,42,20,2022-02-04,Akron,,Miami (OH),REG (Conf),W 66-55,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,2,2,0,1,1,3,3.9,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+21,43,21,2022-02-06,Akron,@,Miami (OH),REG (Conf),W 71-59,,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,4,4,1,0,1,1,1,2,1.5,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+22,44,22,2022-02-08,Akron,@,Northern Illinois,REG (Conf),W 70-64,,15,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,1,2,0,0,1,6,7.3,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+23,45,23,2022-02-11,Akron,,Kent State,REG (Conf),L 64-66,,14,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,0,0,1,0,0,2,4,6,1.1,H,0,1,garvin-clarke-1,Garvin Clarke,2022
+24,46,24,2022-02-15,Akron,@,Western Michigan,REG (Conf),L 57-61 (OT),,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,1,0,0,0,1,0,-0.5,A,0,1,garvin-clarke-1,Garvin Clarke,2022
+25,47,25,2022-02-17,Akron,,Northern Illinois,REG (Conf),L 63-66,,12,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,3,3,0,0,0,1,1,4,2.8,H,0,1,garvin-clarke-1,Garvin Clarke,2022
+26,48,26,2022-02-19,Akron,@,Eastern Michigan,REG (Conf),W 67-48,,15,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+27,49,27,2022-02-22,Akron,,Bowling Green,REG (Conf),W 82-68,,26,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,4,0.5,2,4,6,1,0,0,3,2,9,5.4,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+28,50,28,2022-02-25,Akron,@,Ohio,REG (Conf),W 91-83,,13,2,3,0.667,2,2,1.0,0,1,0.0,1.0,3,4,0.75,1,3,4,0,0,0,0,1,9,8.5,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+29,51,29,2022-03-01,Akron,@,Ball State,REG (Conf),W 79-60,,18,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,4,0.75,1,2,3,2,1,0,0,1,6,7.2,A,1,1,garvin-clarke-1,Garvin Clarke,2022
+30,52,30,2022-03-04,Akron,,Central Michigan,REG (Conf),W 57-56,*,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,1,1,0,0,0,3,2.2,H,1,1,garvin-clarke-1,Garvin Clarke,2022
+31,53,31,2022-03-10,Akron,N,Buffalo,CTOURN,W 70-68,,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,2,2,0,0,0,0,2,3,0.4,N,1,0,garvin-clarke-1,Garvin Clarke,2022
+32,54,32,2022-03-11,Akron,N,Toledo,CTOURN,W 70-62,,19,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,3,0.0,2,1,3,1,0,0,0,1,0,-2.0,N,1,0,garvin-clarke-1,Garvin Clarke,2022
+33,55,33,2022-03-12,Akron,N,Kent State,CTOURN,W 75-55,,21,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,3,0.667,0,2,2,2,1,0,2,1,11,8.2,N,1,0,garvin-clarke-1,Garvin Clarke,2022
+34,56,34,2022-03-17,Akron,N,UCLA,ROUND-64,L 53-57,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,2,2,4,0,2,0,0,1,7,8.6,N,0,0,garvin-clarke-1,Garvin Clarke,2022

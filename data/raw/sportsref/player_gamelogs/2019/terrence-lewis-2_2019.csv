@@ -1,0 +1,22 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2018-11-06,Iowa State,,Alabama State,REG (Non-Conf),W 79-53,,18,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,2,0,2,0,0,0,2,2,5,-1.2,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+2,29,2,2018-11-09,Iowa State,,Missouri,REG (Non-Conf),W 76-59,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+3,30,3,2018-11-12,Iowa State,,Texas Southern,REG (Non-Conf),W 85-73,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,2,0,-4.2,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+4,31,4,2018-11-19,Iowa State,N,Arizona,REG (Non-Conf),L 66-71,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-2.4,N,0,1,terrence-lewis-2,Terrence Lewis,2019
+5,32,5,2018-11-20,Iowa State,N,Illinois,REG (Non-Conf),W 84-68,,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,0,0,0,0,0,0,2,2,8,2.9,N,1,1,terrence-lewis-2,Terrence Lewis,2019
+6,33,6,2018-11-21,Iowa State,N,San Diego State,REG (Non-Conf),W 87-57,,20,5,7,0.714,2,4,0.5,3,3,1.0,0.857,4,4,1.0,0,1,1,1,0,0,0,0,16,14.1,N,1,1,terrence-lewis-2,Terrence Lewis,2019
+7,34,7,2018-11-26,Iowa State,,Omaha,REG (Non-Conf),W 82-55,,20,5,10,0.5,2,4,0.5,3,6,0.5,0.6,3,4,0.75,3,0,3,1,2,0,0,2,15,13.6,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+8,35,8,2018-12-03,Iowa State,,North Dakota State,REG (Non-Conf),W 81-59,,17,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,0,2,2,0,0,1,1,1,8,4.9,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+9,36,9,2018-12-06,Iowa State,@,Iowa,REG (Non-Conf),L 84-98,,6,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,0,0,0,0,1,5,2.6,A,0,1,terrence-lewis-2,Terrence Lewis,2019
+10,37,10,2018-12-09,Iowa State,,Southern,REG (Non-Conf),W 101-65,,20,5,6,0.833,3,4,0.75,2,2,1.0,1.083,2,3,0.667,0,4,4,0,0,1,2,1,15,11.9,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+11,38,11,2018-12-15,Iowa State,N,Drake,REG (Non-Conf),W 77-68,,6,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,N,1,1,terrence-lewis-2,Terrence Lewis,2019
+12,39,12,2018-12-21,Iowa State,,Eastern Illinois,REG (Non-Conf),W 101-53,,10,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,2,1,3,1,0,0,0,3,7,5.5,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+13,40,13,2019-01-02,Iowa State,@,Oklahoma State,REG (Conf),W 69-63,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,terrence-lewis-2,Terrence Lewis,2019
+14,41,14,2019-01-05,Iowa State,,Kansas,REG (Conf),W 77-60,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+15,42,16,2019-01-12,Iowa State,,Kansas State,REG (Conf),L 57-58,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,H,0,1,terrence-lewis-2,Terrence Lewis,2019
+16,43,18,2019-01-19,Iowa State,,Oklahoma State,REG (Conf),W 72-59,,2,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+17,44,21,2019-01-30,Iowa State,,West Virginia,REG (Conf),W 93-68,,3,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,0,0,0,0,0,0,0,3,2.3,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+18,45,28,2019-02-25,Iowa State,,Oklahoma,REG (Conf),W 78-61,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,terrence-lewis-2,Terrence Lewis,2019
+19,46,29,2019-03-02,Iowa State,@,Texas,REG (Conf),L 69-86,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,A,0,1,terrence-lewis-2,Terrence Lewis,2019
+20,47,30,2019-03-06,Iowa State,@,West Virginia,REG (Conf),L 75-90,,8,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,2,0,2,0,1,0,0,0,7,7.4,A,0,1,terrence-lewis-2,Terrence Lewis,2019
+21,48,32,2019-03-14,Iowa State,N,Baylor,CTOURN,W 83-66,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,N,1,0,terrence-lewis-2,Terrence Lewis,2019

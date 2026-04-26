@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Virginia,,James Madison,REG (Non-Conf),W 61-41,,25,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,1,2,0,0,2,2,3.1,H,1,1,london-perrantes-1,London Perrantes,2014
+2,2,2,2013-11-12,Virginia,,VCU,REG (Non-Conf),L 56-59,,26,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,3,0.667,0,4,4,1,1,0,4,3,2,-3.5,H,0,1,london-perrantes-1,London Perrantes,2014
+3,3,3,2013-11-16,Virginia,N,Davidson,REG (Non-Conf),W 70-57,*,32,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,0,2,2,5,0,0,0,0,5,6.0,N,1,1,london-perrantes-1,London Perrantes,2014
+4,4,4,2013-11-19,Virginia,,Navy,REG (Non-Conf),W 67-42,*,27,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,1,1,1,1,0,-0.8,H,1,1,london-perrantes-1,London Perrantes,2014
+5,5,5,2013-11-23,Virginia,,Liberty,REG (Non-Conf),W 75-53,*,24,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,0,0,6,0,0,0,4,3,3.2,H,1,1,london-perrantes-1,London Perrantes,2014
+6,6,6,2013-11-26,Virginia,,Hampton,REG (Non-Conf),W 69-40,*,23,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,5,6,4,1,0,0,2,0,3.8,H,1,1,london-perrantes-1,London Perrantes,2014
+7,7,7,2013-11-29,Virginia,N,SMU,REG (Non-Conf),W 76-73,*,25,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,0,0,3,1,0,1,3,9,9.0,N,1,1,london-perrantes-1,London Perrantes,2014
+8,8,8,2013-11-30,Virginia,N,Missouri State,REG (Non-Conf),W 83-63,*,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,6,2,0,1,1,1,3.2,N,1,1,london-perrantes-1,London Perrantes,2014
+9,9,9,2013-12-04,Virginia,,Wisconsin,REG (Non-Conf),L 38-48,*,31,2,5,0.4,1,1,1.0,1,4,0.25,0.5,3,3,1.0,0,2,2,0,1,0,2,1,8,4.5,H,0,1,london-perrantes-1,London Perrantes,2014
+10,10,10,2013-12-07,Virginia,@,Green Bay,REG (Non-Conf),L 72-75,*,28,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,3,0.667,0,1,1,4,1,0,3,1,4,2.6,A,0,1,london-perrantes-1,London Perrantes,2014
+11,11,11,2013-12-21,Virginia,,Northern Iowa,REG (Non-Conf),W 57-43,,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,1,3,4,5,1,0,2,2,9,10.7,H,1,1,london-perrantes-1,London Perrantes,2014
+12,12,12,2013-12-23,Virginia,,Norfolk State,REG (Non-Conf),W 66-56,*,31,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,0,2,2,2,0,0,1,2,4,2.1,H,1,1,london-perrantes-1,London Perrantes,2014
+13,13,13,2013-12-30,Virginia,@,Tennessee,REG (Non-Conf),L 52-87,,28,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,1,1,2,2,2,0,1,3,2,-0.3,A,0,1,london-perrantes-1,London Perrantes,2014
+14,14,14,2014-01-04,Virginia,@,Florida State,REG (Conf),W 62-50,*,35,4,8,0.5,3,5,0.6,1,3,0.333,0.688,3,4,0.75,1,3,4,3,1,0,0,1,14,13.9,A,1,1,london-perrantes-1,London Perrantes,2014
+15,15,15,2014-01-08,Virginia,,Wake Forest,REG (Conf),W 74-51,*,24,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,0,0,5,3,0,4,0,3,4.4,H,1,1,london-perrantes-1,London Perrantes,2014
+16,16,16,2014-01-11,Virginia,@,NC State,REG (Conf),W 76-45,*,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,1,1,5,2,0,0,2,8,9.7,A,1,1,london-perrantes-1,London Perrantes,2014
+17,17,17,2014-01-13,Virginia,@,Duke,REG (Conf),L 65-69,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,3,0,0,1,2,2,1.9,A,0,1,london-perrantes-1,London Perrantes,2014
+18,18,18,2014-01-18,Virginia,,Florida State,REG (Conf),W 78-66,*,34,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,2,3,4,2,0,1,2,2,5.6,H,1,1,london-perrantes-1,London Perrantes,2014
+19,19,19,2014-01-20,Virginia,,North Carolina,REG (Conf),W 76-61,*,29,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,1,0.0,0,2,2,9,2,0,1,1,8,12.8,H,1,1,london-perrantes-1,London Perrantes,2014
+20,20,20,2014-01-25,Virginia,,Virginia Tech,REG (Conf),W 65-45,*,27,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,1,1,4,0,0,2,3,4,0.8,H,1,1,london-perrantes-1,London Perrantes,2014
+21,21,21,2014-01-28,Virginia,@,Notre Dame,REG (Conf),W 68-53,*,29,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,0,2,2,5,2,0,0,0,4,7.3,A,1,1,london-perrantes-1,London Perrantes,2014
+22,22,22,2014-02-02,Virginia,@,Pittsburgh,REG (Conf),W 48-45,*,34,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,2,2,4,0,1,0,0,2,3.3,A,1,1,london-perrantes-1,London Perrantes,2014
+23,23,23,2014-02-05,Virginia,,Boston College,REG (Conf),W 77-67,*,35,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,4,5,1,0,0,0,2,5,3.4,H,1,1,london-perrantes-1,London Perrantes,2014
+24,24,24,2014-02-08,Virginia,@,Georgia Tech,REG (Conf),W 64-45,*,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,3,4,3,3,0,0,2,2,5.5,A,1,1,london-perrantes-1,London Perrantes,2014
+25,25,25,2014-02-10,Virginia,,Maryland,REG (Conf),W 61-53,*,32,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,4,4,4,1,0,3,1,4,3.6,H,1,1,london-perrantes-1,London Perrantes,2014
+26,26,26,2014-02-15,Virginia,@,Clemson,REG (Conf),W 63-58,*,35,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,6,0,0,0,3,0,1.6,A,1,1,london-perrantes-1,London Perrantes,2014
+27,27,27,2014-02-18,Virginia,@,Virginia Tech,REG (Conf),W 57-53,*,32,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,0,0,3,0,0,0,0,11,9.1,A,1,1,london-perrantes-1,London Perrantes,2014
+28,28,28,2014-02-22,Virginia,,Notre Dame,REG (Conf),W 70-49,*,24,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,3,3,3,0,0,0,3,5,6.2,H,1,1,london-perrantes-1,London Perrantes,2014
+29,29,29,2014-02-26,Virginia,,Miami (FL),REG (Conf),W 65-40,*,28,5,5,1.0,4,4,1.0,1,1,1.0,1.4,1,1,1.0,0,3,3,4,0,0,1,1,15,15.8,H,1,1,london-perrantes-1,London Perrantes,2014
+30,30,30,2014-03-01,Virginia,,Syracuse,REG (Conf),W 75-56,*,31,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,4,4,7,0,1,2,2,6,8.7,H,1,1,london-perrantes-1,London Perrantes,2014
+31,31,31,2014-03-09,Virginia,@,Maryland,REG (Conf),L 69-75 (OT),*,39,5,8,0.625,4,6,0.667,1,2,0.5,0.875,0,0,,1,3,4,3,0,0,2,2,14,11.3,A,0,1,london-perrantes-1,London Perrantes,2014
+32,32,32,2014-03-14,Virginia,N,Florida State,CTOURN,W 64-51,*,31,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,3,1,0,0,2,6,5.9,N,1,0,london-perrantes-1,London Perrantes,2014
+33,33,33,2014-03-15,Virginia,N,Pittsburgh,CTOURN,W 51-48,*,35,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,2,2,5,2,0,1,3,5,5.8,N,1,0,london-perrantes-1,London Perrantes,2014
+34,34,34,2014-03-16,Virginia,N,Duke,CTOURN,W 72-63,*,36,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,4,1.0,0,3,3,3,0,0,4,2,7,3.5,N,1,0,london-perrantes-1,London Perrantes,2014
+35,35,35,2014-03-21,Virginia,N,Coastal Carolina,ROUND-64,W 70-59,*,36,3,4,0.75,3,4,0.75,0,0,,1.125,3,3,1.0,0,1,1,6,0,1,0,1,12,15.2,N,1,0,london-perrantes-1,London Perrantes,2014
+36,36,36,2014-03-23,Virginia,N,Memphis,ROUND-32,W 78-60,*,33,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,0,0,2,0,0,0,1,8,5.3,N,1,0,london-perrantes-1,London Perrantes,2014
+37,37,37,2014-03-28,Virginia,N,Michigan State,ROUND-16,L 59-61,*,36,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,2,2,4,1,0,2,1,7,5.6,N,0,0,london-perrantes-1,London Perrantes,2014

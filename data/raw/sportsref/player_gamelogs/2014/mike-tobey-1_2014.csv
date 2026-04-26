@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2013-11-08,Virginia,,James Madison,REG (Non-Conf),W 61-41,,18,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,3,0,3,1,0,0,1,0,10,7.5,H,1,1,mike-tobey-1,Mike Tobey,2014
+2,32,2,2013-11-12,Virginia,,VCU,REG (Non-Conf),L 56-59,,11,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,5,4,9,0,0,2,0,3,5,7.5,H,0,1,mike-tobey-1,Mike Tobey,2014
+3,33,3,2013-11-16,Virginia,N,Davidson,REG (Non-Conf),W 70-57,,26,8,11,0.727,0,0,,8,11,0.727,0.727,2,2,1.0,5,2,7,0,1,2,3,1,18,16.6,N,1,1,mike-tobey-1,Mike Tobey,2014
+4,34,4,2013-11-19,Virginia,,Navy,REG (Non-Conf),W 67-42,*,24,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,4,4,8,1,2,0,1,1,13,13.3,H,1,1,mike-tobey-1,Mike Tobey,2014
+5,35,5,2013-11-23,Virginia,,Liberty,REG (Non-Conf),W 75-53,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,0,0,1,0,1,2,2.2,H,1,1,mike-tobey-1,Mike Tobey,2014
+6,36,6,2013-11-26,Virginia,,Hampton,REG (Non-Conf),W 69-40,*,15,1,6,0.167,0,0,,1,6,0.167,0.167,2,2,1.0,0,3,3,0,0,2,3,3,4,-1.7,H,1,1,mike-tobey-1,Mike Tobey,2014
+7,37,7,2013-11-29,Virginia,N,SMU,REG (Non-Conf),W 76-73,*,10,0,3,0.0,0,0,,0,3,0.0,0.0,3,4,0.75,1,0,1,0,0,0,1,3,3,-1.0,N,1,1,mike-tobey-1,Mike Tobey,2014
+8,38,8,2013-11-30,Virginia,N,Missouri State,REG (Non-Conf),W 83-63,,17,5,8,0.625,0,1,0.0,5,7,0.714,0.625,4,7,0.571,3,3,6,0,1,1,3,2,14,10.1,N,1,1,mike-tobey-1,Mike Tobey,2014
+9,39,9,2013-12-04,Virginia,,Wisconsin,REG (Non-Conf),L 38-48,,15,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,3,1,4,0,0,2,1,1,7,5.3,H,0,1,mike-tobey-1,Mike Tobey,2014
+10,40,10,2013-12-07,Virginia,@,Green Bay,REG (Non-Conf),L 72-75,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,3,5,0,1,1,2,1,3,3.2,A,0,1,mike-tobey-1,Mike Tobey,2014
+11,41,11,2013-12-21,Virginia,,Northern Iowa,REG (Non-Conf),W 57-43,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,0,0,1.0,H,1,1,mike-tobey-1,Mike Tobey,2014
+12,42,12,2013-12-23,Virginia,,Norfolk State,REG (Non-Conf),W 66-56,,16,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,3,4,0,0,2,1,1,3,1.8,H,1,1,mike-tobey-1,Mike Tobey,2014
+13,43,13,2013-12-30,Virginia,@,Tennessee,REG (Non-Conf),L 52-87,,29,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,3,4,7,0,0,2,0,2,10,8.9,A,0,1,mike-tobey-1,Mike Tobey,2014
+14,44,14,2014-01-04,Virginia,@,Florida State,REG (Conf),W 62-50,*,14,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,0,0,1,0,4,0,-2.7,A,1,1,mike-tobey-1,Mike Tobey,2014
+15,45,15,2014-01-08,Virginia,,Wake Forest,REG (Conf),W 74-51,*,23,3,11,0.273,0,0,,3,11,0.273,0.273,0,1,0.0,3,1,4,2,0,0,2,1,6,0.5,H,1,1,mike-tobey-1,Mike Tobey,2014
+16,46,16,2014-01-11,Virginia,@,NC State,REG (Conf),W 76-45,*,24,6,11,0.545,0,0,,6,11,0.545,0.545,4,4,1.0,5,2,7,1,0,2,2,2,16,14.1,A,1,1,mike-tobey-1,Mike Tobey,2014
+17,47,17,2014-01-13,Virginia,@,Duke,REG (Conf),L 65-69,*,25,2,9,0.222,0,0,,2,9,0.222,0.222,4,4,1.0,4,0,4,1,0,0,0,2,8,5.2,A,0,1,mike-tobey-1,Mike Tobey,2014
+18,48,18,2014-01-18,Virginia,,Florida State,REG (Conf),W 78-66,*,29,4,11,0.364,0,0,,4,11,0.364,0.364,5,6,0.833,2,1,3,2,0,2,1,4,13,8.4,H,1,1,mike-tobey-1,Mike Tobey,2014
+19,49,19,2014-01-20,Virginia,,North Carolina,REG (Conf),W 76-61,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,2,5,0.4,2,3,5,0,0,1,1,4,6,3.2,H,1,1,mike-tobey-1,Mike Tobey,2014
+20,50,20,2014-01-25,Virginia,,Virginia Tech,REG (Conf),W 65-45,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,6,6,1.0,2,3,5,1,0,2,2,1,8,9.0,H,1,1,mike-tobey-1,Mike Tobey,2014
+21,51,21,2014-01-28,Virginia,@,Notre Dame,REG (Conf),W 68-53,*,26,7,10,0.7,0,0,,7,10,0.7,0.7,0,0,,1,3,4,0,1,1,1,4,14,10.5,A,1,1,mike-tobey-1,Mike Tobey,2014
+22,52,22,2014-02-02,Virginia,@,Pittsburgh,REG (Conf),W 48-45,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,0,3,0,0,2,3,4,4,0.9,A,1,1,mike-tobey-1,Mike Tobey,2014
+23,53,23,2014-02-05,Virginia,,Boston College,REG (Conf),W 77-67,*,7,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-3.3,H,1,1,mike-tobey-1,Mike Tobey,2014
+24,54,24,2014-02-08,Virginia,@,Georgia Tech,REG (Conf),W 64-45,*,13,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,3,1,4,0,0,0,1,2,2,-1.2,A,1,1,mike-tobey-1,Mike Tobey,2014
+25,55,25,2014-02-10,Virginia,,Maryland,REG (Conf),W 61-53,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,1,2,0,0,1,1,0,4,3.0,H,1,1,mike-tobey-1,Mike Tobey,2014
+26,56,26,2014-02-15,Virginia,@,Clemson,REG (Conf),W 63-58,*,21,7,9,0.778,0,0,,7,9,0.778,0.778,0,0,,2,3,5,0,0,2,2,2,14,11.4,A,1,1,mike-tobey-1,Mike Tobey,2014
+27,57,27,2014-02-18,Virginia,@,Virginia Tech,REG (Conf),W 57-53,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,1,1,0,1,2,4.0,A,1,1,mike-tobey-1,Mike Tobey,2014
+28,58,28,2014-02-22,Virginia,,Notre Dame,REG (Conf),W 70-49,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,4,4,1,0,4,0,1,2,5.3,H,1,1,mike-tobey-1,Mike Tobey,2014
+29,59,29,2014-02-26,Virginia,,Miami (FL),REG (Conf),W 65-40,*,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,0,0,1,1,4,2,-1.6,H,1,1,mike-tobey-1,Mike Tobey,2014
+30,60,30,2014-03-01,Virginia,,Syracuse,REG (Conf),W 75-56,*,23,5,9,0.556,0,0,,5,9,0.556,0.556,1,3,0.333,5,3,8,0,1,0,0,2,11,10.5,H,1,1,mike-tobey-1,Mike Tobey,2014
+31,61,31,2014-03-09,Virginia,@,Maryland,REG (Conf),L 69-75 (OT),*,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,2,2,-0.5,A,0,1,mike-tobey-1,Mike Tobey,2014
+32,62,32,2014-03-14,Virginia,N,Florida State,CTOURN,W 64-51,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,1,1,0,1,1,0,2,2,1.8,N,1,0,mike-tobey-1,Mike Tobey,2014
+33,63,33,2014-03-15,Virginia,N,Pittsburgh,CTOURN,W 51-48,*,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,0,1,0,0,0,1,1,4,2.7,N,1,0,mike-tobey-1,Mike Tobey,2014
+34,64,34,2014-03-16,Virginia,N,Duke,CTOURN,W 72-63,*,18,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,2,4,0,0,0,0,2,8,7.3,N,1,0,mike-tobey-1,Mike Tobey,2014
+35,65,35,2014-03-21,Virginia,N,Coastal Carolina,ROUND-64,W 70-59,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,0,1,2,1.2,N,1,0,mike-tobey-1,Mike Tobey,2014
+36,66,36,2014-03-23,Virginia,N,Memphis,ROUND-32,W 78-60,*,24,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,1,5,6,0,0,2,0,2,11,10.2,N,1,0,mike-tobey-1,Mike Tobey,2014
+37,67,37,2014-03-28,Virginia,N,Michigan State,ROUND-16,L 59-61,*,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,0,0,0,0,3,4,1.1,N,0,0,mike-tobey-1,Mike Tobey,2014

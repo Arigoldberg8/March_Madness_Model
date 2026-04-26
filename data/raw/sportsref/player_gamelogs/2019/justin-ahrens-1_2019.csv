@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,2,2018-11-11,Ohio State,,Purdue Fort Wayne,REG (Non-Conf),W 107-61,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+2,2,4,2018-11-18,Ohio State,,South Carolina State,REG (Non-Conf),W 89-61,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,1,0,0,1,5,4.6,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+3,3,6,2018-11-23,Ohio State,,Cleveland State,REG (Non-Conf),W 89-62,,7,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,1,2,1,3,1.0,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+4,4,8,2018-12-02,Ohio State,,Minnesota,REG (Conf),W 79-59,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+5,5,11,2018-12-18,Ohio State,,Youngstown State,REG (Non-Conf),W 75-56,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+6,6,12,2018-12-22,Ohio State,N,UCLA,REG (Non-Conf),W 80-66,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,justin-ahrens-1,Justin Ahrens,2019
+7,7,13,2018-12-29,Ohio State,,High Point,REG (Non-Conf),W 82-64,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+8,8,14,2019-01-05,Ohio State,,Michigan State,REG (Conf),L 77-86,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,justin-ahrens-1,Justin Ahrens,2019
+9,9,16,2019-01-12,Ohio State,@,Iowa,REG (Conf),L 62-72,,10,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,0,1,0,0,1,6,6.2,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+10,10,17,2019-01-18,Ohio State,,Maryland,REG (Conf),L 61-75,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,0,1,justin-ahrens-1,Justin Ahrens,2019
+11,11,18,2019-01-23,Ohio State,,Purdue,REG (Conf),L 67-79,,17,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,5,5,1,0,0,3,1,6,2.1,H,0,1,justin-ahrens-1,Justin Ahrens,2019
+12,12,19,2019-01-26,Ohio State,@,Nebraska,REG (Conf),W 70-60,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,1,0,0,-1.1,A,1,1,justin-ahrens-1,Justin Ahrens,2019
+13,13,20,2019-01-29,Ohio State,@,Michigan,REG (Conf),L 49-65,,11,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,1,2,3,0,0,0,1,0,4,1.6,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+14,14,21,2019-02-02,Ohio State,,Rutgers,REG (Conf),W 76-62,,7,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,1,1,1,0,0,1,2.3,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+15,15,23,2019-02-10,Ohio State,@,Indiana,REG (Conf),W 55-52,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,justin-ahrens-1,Justin Ahrens,2019
+16,16,25,2019-02-17,Ohio State,@,Michigan State,REG (Conf),L 44-62,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+17,17,26,2019-02-20,Ohio State,,Northwestern,REG (Conf),W 63-49,,7,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,1,0,0,0,1,4,4.3,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+18,18,27,2019-02-23,Ohio State,@,Maryland,REG (Conf),L 62-72,*,27,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,4,4,0,2,1,2,3,9,7.4,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+19,19,28,2019-02-26,Ohio State,,Iowa,REG (Conf),W 90-70,*,30,7,11,0.636,6,10,0.6,1,1,1.0,0.909,9,9,1.0,0,3,3,2,1,0,2,2,29,24.6,H,1,1,justin-ahrens-1,Justin Ahrens,2019
+20,20,29,2019-03-02,Ohio State,@,Purdue,REG (Conf),L 51-86,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,3,4,0,0,0,0,3,0,-0.3,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+21,21,30,2019-03-06,Ohio State,@,Northwestern,REG (Conf),L 50-68,*,23,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,1,6,7,0,0,0,1,1,3,-0.4,A,0,1,justin-ahrens-1,Justin Ahrens,2019
+22,22,31,2019-03-10,Ohio State,,Wisconsin,REG (Conf),L 67-73 (OT),,20,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,7,7,1,0,2,1,3,9,8.0,H,0,1,justin-ahrens-1,Justin Ahrens,2019
+23,23,32,2019-03-14,Ohio State,N,Indiana,CTOURN,W 79-75,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,justin-ahrens-1,Justin Ahrens,2019
+24,24,33,2019-03-15,Ohio State,N,Michigan State,CTOURN,L 70-77,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.1,N,0,0,justin-ahrens-1,Justin Ahrens,2019
+25,25,35,2019-03-24,Ohio State,N,Houston,ROUND-32,L 59-74,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,justin-ahrens-1,Justin Ahrens,2019

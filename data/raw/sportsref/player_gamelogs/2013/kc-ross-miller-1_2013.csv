@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-11,New Mexico State,@,Oregon State,REG (Non-Conf),L 62-71,*,20,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,0,0,2,0,0,2,3,2,-2.9,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+2,2,2,2012-11-15,New Mexico State,,Southeastern Louisiana,REG (Non-Conf),W 81-56,*,37,1,4,0.25,0,0,,1,4,0.25,0.25,1,1,1.0,1,1,2,6,2,0,2,2,3,5.0,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+3,3,3,2012-11-17,New Mexico State,N,Bucknell,REG (Non-Conf),L 49-62,*,28,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,2,0.5,0,0,0,1,1,0,3,2,3,-2.6,N,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+4,4,4,2012-11-18,New Mexico State,@,Niagara,REG (Non-Conf),L 83-86,*,13,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,1,0,1,1,0,0,1,0,2,0.3,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+5,5,5,2012-11-21,New Mexico State,,N New Mexico,REG (Non-Conf),W 67-37,*,30,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,6,7,2,2,0,1,1,6,8.2,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+6,6,6,2012-11-23,New Mexico State,,Louisiana–Lafayette,REG (Non-Conf),W 79-57,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,9,11,0.818,2,4,6,3,1,0,4,3,11,6.9,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+7,7,7,2012-11-28,New Mexico State,@,UTEP,REG (Non-Conf),L 54-55,*,28,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,0,2,2,2,2,0,5,2,9,3.2,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+8,8,8,2012-12-01,New Mexico State,,Southern Mississippi,REG (Non-Conf),W 68-60,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,0,2,2,2,0,1,1,2,6,5.2,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+9,9,9,2012-12-04,New Mexico State,@,South Alabama,REG (Non-Conf),W 58-52,*,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,6,0.833,0,2,2,2,2,0,5,2,9,4.8,A,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+10,10,10,2012-12-15,New Mexico State,@,New Mexico,REG (Non-Conf),L 58-73,*,25,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,4,1.0,0,1,1,4,1,0,1,3,8,5.8,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+11,11,11,2012-12-19,New Mexico State,,New Mexico,REG (Non-Conf),L 63-68,*,31,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,1,2,3,2,1,0,1,3,3,1.4,H,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+12,12,12,2012-12-22,New Mexico State,,Missouri State,REG (Non-Conf),W 71-51,*,28,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,4,4,6,3,1,3,3,3,6.9,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+13,13,13,2012-12-29,New Mexico State,@,UT Arlington,REG (Conf),L 47-68,*,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,1,3,0,4,2,0,-2.2,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+14,14,14,2012-12-31,New Mexico State,@,Louisiana Tech,REG (Conf),L 72-81,*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,2,2,4,1,0,1,3,4,2.8,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+15,15,15,2013-01-03,New Mexico State,,UTSA,REG (Conf),W 82-62,*,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,5,2,0,3,4,2,3.1,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+16,16,16,2013-01-05,New Mexico State,,Texas State San Marcos,REG (Conf),W 78-67,*,21,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,1,2,6,1,0,1,3,0,1.2,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+17,17,17,2013-01-10,New Mexico State,@,Seattle,REG (Conf),W 83-82 (2OT),*,28,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,0,1,1,2,0,0,1,2,3,0.4,A,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+18,18,18,2013-01-12,New Mexico State,@,Idaho,REG (Conf),W 71-70,*,31,5,10,0.5,2,5,0.4,3,5,0.6,0.6,4,5,0.8,0,2,2,0,1,0,0,3,16,11.0,A,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+19,19,19,2013-01-17,New Mexico State,,Utah State,REG (Conf),W 64-51,*,29,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,1,1.0,0,0,0,3,2,0,5,2,10,5.7,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+20,20,20,2013-01-19,New Mexico State,,San Jose State,REG (Conf),W 70-53,*,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+21,21,26,2013-02-14,New Mexico State,@,San Jose State,REG (Conf),W 67-57,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,1,3,3,0.1,A,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+22,22,27,2013-02-16,New Mexico State,@,Utah State,REG (Conf),L 69-73,,10,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,3,0,0,0,1,0,0.2,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+23,23,28,2013-02-23,New Mexico State,,UTEP,REG (Non-Conf),W 55-51,,11,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,0,0,1,0,0,0,1,3,2.2,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+24,24,29,2013-03-02,New Mexico State,@,Denver,REG (Conf),L 60-66,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,0,0,0,0,4,2,-0.6,A,0,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+25,25,30,2013-03-07,New Mexico State,,Louisiana Tech,REG (Conf),W 78-60,*,27,3,7,0.429,0,3,0.0,3,4,0.75,0.429,3,5,0.6,1,2,3,2,1,0,5,1,9,2.8,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+26,26,31,2013-03-09,New Mexico State,,UT Arlington,REG (Conf),W 69-66,*,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,5,6,0.833,0,4,4,1,0,0,4,4,12,5.6,H,1,1,kc-ross-miller-1,K.C. Ross-Miller,2013
+27,27,32,2013-03-14,New Mexico State,N,Idaho,CTOURN,W 65-49,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,2,2,1,0,0,1,1,5,3.2,N,1,0,kc-ross-miller-1,K.C. Ross-Miller,2013
+28,28,33,2013-03-15,New Mexico State,N,Texas State San Marcos,CTOURN,W 74-65,*,30,3,9,0.333,1,3,0.333,2,6,0.333,0.389,5,6,0.833,0,0,0,5,3,0,1,4,12,10.4,N,1,0,kc-ross-miller-1,K.C. Ross-Miller,2013
+29,29,34,2013-03-16,New Mexico State,N,UT Arlington,CTOURN,W 64-55,*,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,4,0.75,0,1,1,0,4,0,2,5,9,5.9,N,1,0,kc-ross-miller-1,K.C. Ross-Miller,2013
+30,30,35,2013-03-21,New Mexico State,N,Saint Louis,ROUND-64,L 44-64,*,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,0,0,2,0,0,2,1,3,-0.1,N,0,0,kc-ross-miller-1,K.C. Ross-Miller,2013

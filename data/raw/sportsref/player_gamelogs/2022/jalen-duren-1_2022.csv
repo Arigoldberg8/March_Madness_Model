@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Memphis,,Tennessee Tech,REG (Non-Conf),W 89-65,*,31,7,10,0.7,0,0,,7,10,0.7,0.7,1,2,0.5,3,3,6,2,0,5,3,1,15,14.9,H,1,1,jalen-duren-1,Jalen Duren,2022
+2,2,2,2021-11-13,Memphis,,North Carolina Central,REG (Non-Conf),W 90-51,*,18,3,3,1.0,0,0,,3,3,1.0,1.0,4,5,0.8,1,9,10,0,0,3,2,3,10,11.0,H,1,1,jalen-duren-1,Jalen Duren,2022
+3,3,3,2021-11-16,Memphis,,Saint Louis,REG (Non-Conf),W 90-74,*,21,3,3,1.0,0,0,,3,3,1.0,1.0,7,11,0.636,3,5,8,0,1,6,2,2,13,16.5,H,1,1,jalen-duren-1,Jalen Duren,2022
+4,4,4,2021-11-19,Memphis,,Western Kentucky,REG (Non-Conf),W 74-62,*,31,8,12,0.667,0,0,,8,12,0.667,0.667,6,9,0.667,6,13,19,2,2,5,5,3,22,24.4,H,1,1,jalen-duren-1,Jalen Duren,2022
+5,5,5,2021-11-24,Memphis,N,Virginia Tech,REG (Non-Conf),W 69-61,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,0,2,0.0,3,4,7,0,1,2,1,3,6,5.0,N,1,1,jalen-duren-1,Jalen Duren,2022
+6,6,6,2021-11-26,Memphis,N,Iowa State,REG (Non-Conf),L 59-78,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,4,6,1,1,1,5,4,2,-2.0,N,0,1,jalen-duren-1,Jalen Duren,2022
+7,7,7,2021-12-01,Memphis,@,Georgia,REG (Non-Conf),L 79-82,*,26,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,1,4,5,1,3,3,1,5,10,11.8,A,0,1,jalen-duren-1,Jalen Duren,2022
+8,8,8,2021-12-04,Memphis,@,Ole Miss,REG (Non-Conf),L 63-67,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,0,4,4,1,0,1,1,4,2,-0.1,A,0,1,jalen-duren-1,Jalen Duren,2022
+9,9,9,2021-12-10,Memphis,,Murray State,REG (Non-Conf),L 72-74,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,4,6,0.667,2,3,5,3,1,1,1,1,14,15.7,H,0,1,jalen-duren-1,Jalen Duren,2022
+10,10,10,2021-12-14,Memphis,,Alabama,REG (Non-Conf),W 92-78,*,27,7,9,0.778,0,0,,7,9,0.778,0.778,0,1,0.0,4,2,6,2,0,1,2,3,14,12.4,H,1,1,jalen-duren-1,Jalen Duren,2022
+11,11,12,2022-01-01,Memphis,@,Wichita State,REG (Conf),W 82-64,*,26,7,10,0.7,0,0,,7,10,0.7,0.7,0,1,0.0,2,4,6,1,0,1,1,2,14,11.6,A,1,1,jalen-duren-1,Jalen Duren,2022
+12,12,14,2022-01-09,Memphis,,Cincinnati,REG (Conf),W 87-80,*,28,3,10,0.3,0,0,,3,10,0.3,0.3,1,1,1.0,2,3,5,1,0,3,0,2,7,5.5,H,1,1,jalen-duren-1,Jalen Duren,2022
+13,13,15,2022-01-12,Memphis,@,UCF,REG (Conf),L 64-74,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,4,5,1,1,3,3,2,5,4.5,A,0,1,jalen-duren-1,Jalen Duren,2022
+14,14,16,2022-01-15,Memphis,@,East Carolina,REG (Conf),L 71-72,*,31,7,10,0.7,0,0,,7,10,0.7,0.7,1,3,0.333,3,6,9,1,1,1,2,1,15,13.9,A,0,1,jalen-duren-1,Jalen Duren,2022
+15,15,17,2022-01-20,Memphis,,SMU,REG (Conf),L 62-70,*,26,4,9,0.444,0,0,,4,9,0.444,0.444,3,7,0.429,3,6,9,2,0,2,0,4,11,9.8,H,0,1,jalen-duren-1,Jalen Duren,2022
+16,16,20,2022-02-05,Memphis,,UCF,REG (Conf),W 88-60,*,23,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,2,8,10,2,1,2,2,2,14,14.9,H,1,1,jalen-duren-1,Jalen Duren,2022
+17,17,21,2022-02-09,Memphis,,Tulane,REG (Conf),W 80-69,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,3,6,0.5,6,6,12,1,1,0,5,5,15,12.0,H,1,1,jalen-duren-1,Jalen Duren,2022
+18,18,22,2022-02-12,Memphis,@,Houston,REG (Conf),W 69-59,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,4,4,1.0,3,8,11,1,0,0,3,2,14,12.5,A,1,1,jalen-duren-1,Jalen Duren,2022
+19,19,23,2022-02-15,Memphis,@,Cincinnati,REG (Conf),W 81-74,*,19,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,2,1,3,0,0,2,2,4,13,7.5,A,1,1,jalen-duren-1,Jalen Duren,2022
+20,20,24,2022-02-20,Memphis,@,SMU,REG (Conf),L 57-73,*,22,5,6,0.833,0,0,,5,6,0.833,0.833,1,4,0.25,2,2,4,0,1,4,3,1,11,10.0,A,0,1,jalen-duren-1,Jalen Duren,2022
+21,21,25,2022-02-24,Memphis,,Temple,REG (Conf),W 78-64,*,34,7,12,0.583,0,0,,7,12,0.583,0.583,8,9,0.889,2,4,6,1,3,3,3,3,22,20.2,H,1,1,jalen-duren-1,Jalen Duren,2022
+22,22,26,2022-02-27,Memphis,,Wichita State,REG (Conf),W 81-57,*,28,6,12,0.5,0,0,,6,12,0.5,0.5,1,1,1.0,3,4,7,1,2,3,5,2,13,9.3,H,1,1,jalen-duren-1,Jalen Duren,2022
+23,23,27,2022-03-03,Memphis,@,South Florida,REG (Conf),W 73-64,*,26,7,13,0.538,0,0,,7,13,0.538,0.538,2,4,0.5,4,6,10,0,1,1,0,2,16,14.4,A,1,1,jalen-duren-1,Jalen Duren,2022
+24,24,28,2022-03-06,Memphis,,Houston,REG (Conf),W 75-61,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,5,3,8,3,0,0,3,4,8,7.2,H,1,1,jalen-duren-1,Jalen Duren,2022
+25,25,29,2022-03-11,Memphis,N,UCF,CTOURN,W 85-69,*,27,8,14,0.571,0,0,,8,14,0.571,0.571,5,7,0.714,6,14,20,2,2,2,3,1,21,23.4,N,1,0,jalen-duren-1,Jalen Duren,2022
+26,26,30,2022-03-12,Memphis,N,SMU,CTOURN,W 70-63,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,3,4,7,1,1,2,2,2,9,10.6,N,1,0,jalen-duren-1,Jalen Duren,2022
+27,27,31,2022-03-13,Memphis,N,Houston,CTOURN,L 53-71,*,33,6,8,0.75,0,0,,6,8,0.75,0.75,2,3,0.667,3,7,10,4,0,2,2,4,14,15.2,N,0,0,jalen-duren-1,Jalen Duren,2022
+28,28,32,2022-03-17,Memphis,N,Boise State,ROUND-64,W 64-53,*,30,4,11,0.364,0,0,,4,11,0.364,0.364,2,2,1.0,5,6,11,1,1,1,2,3,10,8.4,N,1,0,jalen-duren-1,Jalen Duren,2022
+29,29,33,2022-03-19,Memphis,N,Gonzaga,ROUND-32,L 78-82,*,19,3,11,0.273,0,0,,3,11,0.273,0.273,1,2,0.5,4,3,7,2,0,1,1,4,7,3.3,N,0,0,jalen-duren-1,Jalen Duren,2022

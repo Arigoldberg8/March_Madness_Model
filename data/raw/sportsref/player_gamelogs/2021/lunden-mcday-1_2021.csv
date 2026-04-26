@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Ohio,N,Chicago State,REG (Non-Conf),W 84-61,*,28,4,7,0.571,3,5,0.6,1,2,0.5,0.786,4,4,1.0,2,0,2,0,0,1,0,1,15,13.4,N,1,1,lunden-mcday-1,Lunden McDay,2021
+2,33,2,2020-11-26,Ohio,@,North Carolina A&T,REG (Non-Conf),W 84-72,*,28,1,7,0.143,0,3,0.0,1,4,0.25,0.143,1,2,0.5,3,1,4,4,0,0,4,2,3,-1.5,A,1,1,lunden-mcday-1,Lunden McDay,2021
+3,34,3,2020-11-27,Ohio,@,Illinois,REG (Non-Conf),L 75-77,*,34,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,0,0,0,3,1,0,1,1,4,3.2,A,0,1,lunden-mcday-1,Lunden McDay,2021
+4,35,4,2020-12-06,Ohio,,Cleveland State,REG (Non-Conf),W 101-46,*,25,7,10,0.7,3,5,0.6,4,5,0.8,0.85,3,4,0.75,1,1,2,1,1,0,1,1,20,16.7,H,1,1,lunden-mcday-1,Lunden McDay,2021
+5,36,5,2020-12-10,Ohio,,Purdue Northwest,REG (Non-Conf),W 92-72,*,33,4,8,0.5,1,4,0.25,3,4,0.75,0.563,5,6,0.833,2,2,4,2,0,0,1,1,14,11.6,H,1,1,lunden-mcday-1,Lunden McDay,2021
+6,37,6,2020-12-13,Ohio,@,Marshall,REG (Non-Conf),L 67-81,*,38,2,10,0.2,0,2,0.0,2,8,0.25,0.2,0,0,,1,0,1,0,2,0,0,2,4,-0.3,A,0,1,lunden-mcday-1,Lunden McDay,2021
+7,38,7,2020-12-22,Ohio,@,Akron,REG (Conf),L 70-90,*,27,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,3,0.667,1,1,2,1,1,0,0,2,11,7.8,A,0,1,lunden-mcday-1,Lunden McDay,2021
+8,39,8,2020-12-30,Ohio,,Bowling Green,REG (Conf),L 75-83,*,34,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,0,1,1,1,1,0,2,3,11,4.4,H,0,1,lunden-mcday-1,Lunden McDay,2021
+9,40,9,2021-01-02,Ohio,@,Ball State,REG (Conf),W 78-68,*,36,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,2,1,3,3,2,0,2,2,10,9.0,A,1,1,lunden-mcday-1,Lunden McDay,2021
+10,41,10,2021-01-05,Ohio,,Northern Illinois,REG (Conf),W 76-73,*,31,3,8,0.375,2,4,0.5,1,4,0.25,0.5,3,4,0.75,0,1,1,2,0,0,0,2,11,7.1,H,1,1,lunden-mcday-1,Lunden McDay,2021
+11,42,11,2021-01-08,Ohio,@,Toledo,REG (Conf),L 78-95,*,29,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,0,0,2,2,0,1,4,7,3.4,A,0,1,lunden-mcday-1,Lunden McDay,2021
+12,43,12,2021-01-12,Ohio,,Miami (OH),REG (Conf),W 78-61,*,30,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,0,0,0,0,0,2,2,9,2.9,H,1,1,lunden-mcday-1,Lunden McDay,2021
+13,44,13,2021-01-16,Ohio,,Kent State,REG (Conf),L 79-89,*,30,1,8,0.125,0,3,0.0,1,5,0.2,0.125,2,4,0.5,1,3,4,0,0,0,1,0,4,-1.4,H,0,1,lunden-mcday-1,Lunden McDay,2021
+14,45,14,2021-01-23,Ohio,,Ball State,REG (Conf),W 85-77,*,29,5,10,0.5,1,3,0.333,4,7,0.571,0.55,6,6,1.0,3,1,4,0,0,1,0,2,17,14.3,H,1,1,lunden-mcday-1,Lunden McDay,2021
+15,46,15,2021-01-26,Ohio,,Western Michigan,REG (Conf),W 81-58,*,18,4,8,0.5,1,5,0.2,3,3,1.0,0.563,2,2,1.0,3,0,3,2,1,0,0,2,11,10.7,H,1,1,lunden-mcday-1,Lunden McDay,2021
+16,47,16,2021-01-29,Ohio,@,Buffalo,REG (Conf),W 76-75,*,33,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,1,2,3,1,1,1,3,1,10,6.3,A,1,1,lunden-mcday-1,Lunden McDay,2021
+17,48,17,2021-02-02,Ohio,@,Central Michigan,REG (Conf),W 83-69,*,24,4,5,0.8,0,1,0.0,4,4,1.0,0.8,4,4,1.0,1,2,3,0,1,0,1,2,12,10.6,A,1,1,lunden-mcday-1,Lunden McDay,2021
+18,49,18,2021-02-23,Ohio,,Akron,REG (Conf),W 90-73,*,31,3,11,0.273,1,3,0.333,2,8,0.25,0.318,3,3,1.0,1,3,4,1,1,0,1,0,10,5.8,H,1,1,lunden-mcday-1,Lunden McDay,2021
+19,50,19,2021-02-25,Ohio,,Eastern Michigan,REG (Conf),W 86-67,*,24,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,3,0.667,2,2,4,2,0,1,1,1,14,11.3,H,1,1,lunden-mcday-1,Lunden McDay,2021
+20,51,20,2021-02-27,Ohio,,Buffalo,REG (Conf),L 66-86,*,23,3,9,0.333,0,2,0.0,3,7,0.429,0.333,4,4,1.0,1,1,2,0,1,0,1,1,10,5.5,H,0,1,lunden-mcday-1,Lunden McDay,2021
+21,52,21,2021-03-11,Ohio,N,Kent State,CTOURN,W 85-63,*,26,6,9,0.667,2,3,0.667,4,6,0.667,0.778,4,6,0.667,1,1,2,1,1,0,1,3,18,13.8,N,1,0,lunden-mcday-1,Lunden McDay,2021
+22,53,22,2021-03-12,Ohio,N,Toledo,CTOURN,W 87-80,*,33,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,2,1,3,4,0,0,0,1,8,9.8,N,1,0,lunden-mcday-1,Lunden McDay,2021
+23,54,23,2021-03-13,Ohio,N,Buffalo,CTOURN,W 84-69,*,29,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,3,0.333,1,1,2,0,0,1,0,2,3,-1.4,N,1,0,lunden-mcday-1,Lunden McDay,2021
+24,55,24,2021-03-20,Ohio,N,Virginia,ROUND-64,W 62-58,*,36,2,9,0.222,0,3,0.0,2,6,0.333,0.222,4,4,1.0,2,1,3,0,1,0,0,1,8,4.8,N,1,0,lunden-mcday-1,Lunden McDay,2021
+25,56,25,2021-03-22,Ohio,N,Creighton,ROUND-32,L 58-72,*,32,4,14,0.286,3,9,0.333,1,5,0.2,0.393,0,0,,0,1,1,2,0,0,0,4,11,2.9,N,0,0,lunden-mcday-1,Lunden McDay,2021

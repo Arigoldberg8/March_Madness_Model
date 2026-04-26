@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2024-11-04,Georgia,,Tennessee Tech,REG (Non-Conf),W 83-78,*,35,1,6,0.167,0,1,0.0,1,5,0.2,0.167,5,7,0.714,0,7,7,3,2,0,2,2,7,5.8,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+2,107,2,2024-11-10,Georgia,,Texas Southern,REG (Non-Conf),W 92-64,*,27,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,0,2,2,1,0,1,3,0,13,7.0,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+3,108,3,2024-11-12,Georgia,,North Florida,REG (Non-Conf),W 90-77,*,29,5,8,0.625,2,2,1.0,3,6,0.5,0.75,3,4,0.75,1,5,6,2,1,0,2,1,15,13.2,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+4,109,4,2024-11-15,Georgia,@,Georgia Tech,REG (Non-Conf),W 77-69,*,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,7,9,0.778,0,3,3,4,0,0,1,4,9,7.6,A,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+5,110,5,2024-11-19,Georgia,,Alabama A&M,REG (Non-Conf),W 93-45,*,25,2,6,0.333,1,3,0.333,1,3,0.333,0.417,7,8,0.875,0,2,2,5,6,0,1,0,12,17.3,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+6,111,6,2024-11-23,Georgia,N,Marquette,REG (Non-Conf),L 69-80,*,33,7,11,0.636,0,2,0.0,7,9,0.778,0.636,1,2,0.5,1,3,4,3,3,0,2,1,15,14.0,N,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+7,112,7,2024-11-24,Georgia,N,St. John's (NY),REG (Non-Conf),W 66-63,*,34,3,6,0.5,0,1,0.0,3,5,0.6,0.5,5,6,0.833,3,6,9,5,2,1,3,0,11,14.7,N,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+8,113,8,2024-11-30,Georgia,,Jacksonville,REG (Non-Conf),W 102-56,*,25,4,5,0.8,2,3,0.667,2,2,1.0,1.0,4,4,1.0,0,4,4,2,2,0,1,1,14,15.3,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+9,114,9,2024-12-03,Georgia,,Notre Dame,REG (Non-Conf),W 69-48,*,36,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,0,5,5,7,0,0,0,1,7,8.9,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+10,115,10,2024-12-14,Georgia,N,Grand Canyon,REG (Non-Conf),W 73-68,*,31,3,6,0.5,0,3,0.0,3,3,1.0,0.5,4,4,1.0,0,2,2,2,1,1,4,1,10,6.3,N,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+11,116,11,2024-12-19,Georgia,,Buffalo,REG (Non-Conf),W 100-49,*,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,4,4,4,1,0,2,0,5,6.0,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+12,117,12,2024-12-22,Georgia,,Charleston Southern,REG (Non-Conf),W 81-65,*,27,3,12,0.25,1,3,0.333,2,9,0.222,0.292,0,0,,0,1,1,2,0,0,0,0,7,1.5,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+13,118,13,2024-12-29,Georgia,,South Carolina State,REG (Non-Conf),W 79-72,*,24,4,10,0.4,1,5,0.2,3,5,0.6,0.45,5,6,0.833,0,1,1,3,2,0,4,1,14,8.2,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+14,119,14,2025-01-04,Georgia,@,Ole Miss,REG (Conf),L 51-63,*,26,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,1,1,2,2,3,0,2,2,8,5.8,A,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+15,120,15,2025-01-07,Georgia,,Kentucky,REG (Conf),W 82-69,*,14,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,0,1,0,2,2,2,-1.9,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+16,121,16,2025-01-11,Georgia,,Oklahoma,REG (Conf),W 72-62,*,28,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,1,3,4,2,0,0,2,2,9,5.9,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+17,122,17,2025-01-15,Georgia,@,Tennessee,REG (Conf),L 56-74,*,23,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,0,3,3,0,2,0,1,3,6,2.6,A,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+18,123,18,2025-01-18,Georgia,,Auburn,REG (Conf),L 68-70,*,29,4,9,0.444,2,4,0.5,2,5,0.4,0.556,2,4,0.5,2,1,3,1,0,1,0,2,12,8.8,H,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+19,124,19,2025-01-22,Georgia,@,Arkansas,REG (Conf),L 65-68,*,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,2,2,4,0,0,2,0,5,3.7,A,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+20,125,20,2025-01-25,Georgia,@,Florida,REG (Conf),L 59-89,*,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,3,0,0,4,1,5,1.0,A,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+21,126,21,2025-01-28,Georgia,,South Carolina,REG (Conf),W 71-60,,27,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,1,0.0,0,2,2,0,1,0,4,1,2,-4.3,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+22,127,22,2025-02-01,Georgia,@,Alabama,REG (Conf),L 69-90,,23,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,4,0.5,1,2,3,1,1,1,0,3,7,4.6,A,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+23,128,23,2025-02-05,Georgia,,Louisiana State,REG (Conf),W 81-62,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,5,0,0,3,1,3,2.0,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+24,129,24,2025-02-08,Georgia,,Mississippi State,REG (Conf),L 75-76,,6,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,2,2,0,0,0,0,0,2,1.9,H,0,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+25,130,28,2025-02-25,Georgia,,Florida,REG (Conf),W 88-83,,25,4,8,0.5,2,4,0.5,2,4,0.5,0.625,4,4,1.0,1,1,2,1,1,0,3,1,14,9.3,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+26,131,29,2025-03-01,Georgia,@,Texas,REG (Conf),W 83-67,,27,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,1,2,3,6,0,0,2,2,8,8.1,A,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+27,132,30,2025-03-04,Georgia,@,South Carolina,REG (Conf),W 73-64,,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,1,4,5,0,0,0,0,0,7,5.5,A,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+28,133,31,2025-03-08,Georgia,,Vanderbilt,REG (Conf),W 79-68,,28,3,8,0.375,1,2,0.5,2,6,0.333,0.438,6,10,0.6,0,5,5,0,2,0,3,2,13,6.7,H,1,1,tyrin-lawrence-1,Tyrin Lawrence,2025
+29,134,32,2025-03-12,Georgia,N,Oklahoma,CTOURN,L 75-81,,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,3,0,0,1,3,5,3.9,N,0,0,tyrin-lawrence-1,Tyrin Lawrence,2025
+30,135,33,2025-03-20,Georgia,N,Gonzaga,ROUND-64,L 68-89,,29,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,0,3,3,0,1,0,1,0,3,2.2,N,0,0,tyrin-lawrence-1,Tyrin Lawrence,2025

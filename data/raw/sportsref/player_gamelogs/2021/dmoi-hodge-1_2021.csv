@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,2,2020-12-06,Cleveland State,@,Ohio,REG (Non-Conf),L 46-101,*,27,1,10,0.1,0,4,0.0,1,6,0.167,0.1,4,4,1.0,1,2,3,1,1,0,3,3,6,-1.8,A,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+2,2,3,2020-12-13,Cleveland State,@,Ohio State,REG (Non-Conf),L 61-67,,33,6,14,0.429,2,6,0.333,4,8,0.5,0.5,0,0,,0,4,4,0,1,1,0,4,14,7.9,A,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+3,3,4,2020-12-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 63-61,*,26,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,1,2,3,4,5,0,2,2,5,6.5,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+4,4,5,2020-12-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 89-80,*,32,15,23,0.652,10,15,0.667,5,8,0.625,0.87,6,7,0.857,3,4,7,3,4,1,2,2,46,42.8,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+5,5,6,2020-12-26,Cleveland State,,Youngstown State,REG (Conf),W 87-69,*,22,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,3,1.0,1,3,4,2,2,2,0,1,14,15.7,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+6,6,7,2020-12-27,Cleveland State,,Youngstown State,REG (Conf),W 81-74,*,28,6,11,0.545,1,5,0.2,5,6,0.833,0.591,1,3,0.333,1,4,5,2,4,2,1,0,14,15.6,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+7,7,8,2021-01-01,Cleveland State,@,IUPUI,REG (Conf),W 65-62,*,30,6,12,0.5,2,6,0.333,4,6,0.667,0.583,3,6,0.5,0,3,3,1,1,0,4,3,17,7.2,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+8,8,9,2021-01-02,Cleveland State,@,IUPUI,REG (Conf),W 59-49,*,26,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,0,4,4,2,5,0,7,1,5,2.8,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+9,9,10,2021-01-08,Cleveland State,,Northern Kentucky,REG (Conf),W 58-44,*,16,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,0,2,2,1,0,1,0,3,3,-0.7,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+10,10,11,2021-01-09,Cleveland State,,Northern Kentucky,REG (Conf),W 74-71 (OT),*,12,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,0,1,1,0,0,0,1,2,3,-2.0,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+11,11,12,2021-01-15,Cleveland State,@,Wright State,REG (Conf),W 66-64,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,1,2,4,2,0,0,4,7,8.2,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+12,12,13,2021-01-16,Cleveland State,@,Wright State,REG (Conf),L 49-85,*,17,0,6,0.0,0,2,0.0,0,4,0.0,0.0,0,2,0.0,2,0,2,0,0,0,2,3,0,-6.8,A,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+13,13,14,2021-01-22,Cleveland State,,Milwaukee,REG (Conf),W 64-53,*,30,4,15,0.267,1,12,0.083,3,3,1.0,0.3,0,0,,0,6,6,2,2,0,4,1,9,0.9,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+14,14,15,2021-01-23,Cleveland State,,Milwaukee,REG (Conf),L 80-81 (OT),*,33,5,14,0.357,4,8,0.5,1,6,0.167,0.5,0,0,,1,7,8,2,0,1,2,1,14,8.7,H,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+15,15,16,2021-01-29,Cleveland State,,Green Bay,REG (Conf),W 74-68,*,23,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,1,1,2,2,2,2,0,4,11,11.6,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+16,16,17,2021-01-30,Cleveland State,,Green Bay,REG (Conf),W 73-65,*,31,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,3,3,1,0,1,2,1,8,3.5,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+17,17,18,2021-02-05,Cleveland State,@,Oakland,REG (Conf),W 80-72,*,20,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,1,4,5,3,2,0,1,3,4,5.1,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+18,18,19,2021-02-06,Cleveland State,@,Oakland,REG (Conf),W 80-78,*,38,8,15,0.533,4,11,0.364,4,4,1.0,0.667,0,0,,0,3,3,2,1,0,1,2,20,14.2,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+19,19,20,2021-02-12,Cleveland State,,Detroit Mercy,REG (Conf),L 83-89,*,27,5,13,0.385,1,6,0.167,4,7,0.571,0.423,0,0,,1,2,3,1,3,1,2,4,11,6.0,H,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+20,20,21,2021-02-13,Cleveland State,,Detroit Mercy,REG (Conf),W 71-64,*,6,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-2.1,H,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+21,21,22,2021-02-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),L 68-75,*,21,1,6,0.167,1,4,0.25,0,2,0.0,0.25,2,2,1.0,0,3,3,0,2,0,0,3,5,2.9,A,0,1,dmoi-hodge-1,D'Moi Hodge,2021
+22,22,23,2021-02-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 67-55,*,31,5,12,0.417,2,7,0.286,3,5,0.6,0.5,1,2,0.5,0,1,1,1,0,0,1,3,13,5.0,A,1,1,dmoi-hodge-1,D'Moi Hodge,2021
+23,23,24,2021-03-02,Cleveland State,,Purdue Fort Wayne,CTOURN,W 108-104 (3OT),*,27,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,0,4,4,1,2,0,1,5,9,3.8,H,1,0,dmoi-hodge-1,D'Moi Hodge,2021
+24,24,25,2021-03-08,Cleveland State,N,Milwaukee,CTOURN,W 71-65,*,28,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,0,6,6,2,2,2,1,1,9,10.2,N,1,0,dmoi-hodge-1,D'Moi Hodge,2021
+25,25,26,2021-03-09,Cleveland State,N,Oakland,CTOURN,W 80-69,*,32,7,14,0.5,1,5,0.2,6,9,0.667,0.536,0,0,,2,6,8,3,1,3,1,1,15,15.0,N,1,0,dmoi-hodge-1,D'Moi Hodge,2021
+26,26,27,2021-03-19,Cleveland State,N,Houston,ROUND-64,L 56-87,*,28,3,9,0.333,3,7,0.429,0,2,0.0,0.5,2,4,0.5,1,2,3,0,3,0,1,4,11,6.8,N,0,0,dmoi-hodge-1,D'Moi Hodge,2021

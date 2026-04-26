@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2012-11-12,Memphis,,North Florida,REG (Non-Conf),W 81-66,*,26,6,10,0.6,0,0,6,10,0.6,0.6,6,10,0.6,4,3,7,1,0,0,0,3,18,15.0,H,1,1,tarik-black-1,Tarik Black,2013
+2,72,2,2012-11-17,Memphis,,Samford,REG (Non-Conf),W 65-54,*,25,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,2,2,1,0,1,0,4,4,2.4,H,1,1,tarik-black-1,Tarik Black,2013
+3,73,3,2012-11-22,Memphis,N,VCU,REG (Non-Conf),L 65-78,*,30,5,5,1.0,0,0,5,5,1.0,1.0,2,4,0.5,3,2,5,0,2,2,0,3,12,14.6,N,0,1,tarik-black-1,Tarik Black,2013
+4,74,4,2012-11-23,Memphis,N,Minnesota,REG (Non-Conf),L 75-84,*,16,6,9,0.667,0,0,6,9,0.667,0.667,1,3,0.333,2,2,4,0,0,0,2,5,13,6.3,N,0,1,tarik-black-1,Tarik Black,2013
+5,75,5,2012-11-24,Memphis,N,Northern Iowa,REG (Non-Conf),W 52-47,*,22,2,4,0.5,0,0,2,4,0.5,0.5,2,4,0.5,0,7,7,0,0,1,3,3,6,1.8,N,1,1,tarik-black-1,Tarik Black,2013
+6,76,7,2012-12-05,Memphis,,Ohio,REG (Non-Conf),W 84-58,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,1,1,0,0,0,2,4.3,H,1,1,tarik-black-1,Tarik Black,2013
+7,77,8,2012-12-08,Memphis,,Austin Peay,REG (Non-Conf),W 83-65,,22,8,13,0.615,0,0,8,13,0.615,0.615,2,3,0.667,5,1,6,0,0,1,4,3,18,11.0,H,1,1,tarik-black-1,Tarik Black,2013
+8,78,9,2012-12-15,Memphis,,Louisville,REG (Non-Conf),L 78-87,,22,9,11,0.818,0,0,9,11,0.818,0.818,3,6,0.5,1,1,2,0,2,1,1,5,21,16.4,H,0,1,tarik-black-1,Tarik Black,2013
+9,79,10,2012-12-20,Memphis,,Lipscomb,REG (Non-Conf),W 62-56,,25,1,3,0.333,0,0,1,3,0.333,0.333,2,8,0.25,3,6,9,0,2,2,2,3,4,4.0,H,1,1,tarik-black-1,Tarik Black,2013
+10,80,14,2013-01-09,Memphis,,East Carolina,REG (Conf),W 67-54,,12,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,1,1,2,0,1,0,1,0,6,5.0,H,1,1,tarik-black-1,Tarik Black,2013
+11,81,15,2013-01-12,Memphis,@,UAB,REG (Conf),W 69-53,,22,1,4,0.25,0,0,1,4,0.25,0.25,8,10,0.8,5,8,13,1,2,1,1,3,10,13.9,A,1,1,tarik-black-1,Tarik Black,2013
+12,82,16,2013-01-16,Memphis,@,Rice,REG (Conf),W 77-51,,19,5,5,1.0,0,0,5,5,1.0,1.0,2,5,0.4,0,1,1,0,0,1,1,2,12,8.5,A,1,1,tarik-black-1,Tarik Black,2013
+13,83,17,2013-01-19,Memphis,,Harvard,REG (Non-Conf),W 60-50,,12,1,5,0.2,0,0,1,5,0.2,0.2,0,1,0.0,2,2,4,0,0,0,1,2,2,-1.3,H,1,1,tarik-black-1,Tarik Black,2013
+14,84,18,2013-01-22,Memphis,,Tulane,REG (Conf),W 71-60,,16,3,5,0.6,0,0,3,5,0.6,0.6,4,6,0.667,0,3,3,0,0,0,0,4,10,6.2,H,1,1,tarik-black-1,Tarik Black,2013
+15,85,19,2013-01-26,Memphis,,Marshall,REG (Conf),W 73-72,,20,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,3,4,7,0,0,0,1,4,8,4.9,H,1,1,tarik-black-1,Tarik Black,2013
+16,86,20,2013-01-30,Memphis,@,East Carolina,REG (Conf),W 75-68,,14,4,5,0.8,0,0,4,5,0.8,0.8,1,4,0.25,1,2,3,0,0,0,2,3,9,4.0,A,1,1,tarik-black-1,Tarik Black,2013
+17,87,21,2013-02-02,Memphis,,Tulsa,REG (Conf),W 94-64,,14,2,5,0.4,0,0,2,5,0.4,0.4,4,7,0.571,6,3,9,0,0,2,0,4,8,9.0,H,1,1,tarik-black-1,Tarik Black,2013
+18,88,22,2013-02-06,Memphis,@,SMU,REG (Conf),W 60-52,,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,0,0,0,-0.1,A,1,1,tarik-black-1,Tarik Black,2013
+19,89,23,2013-02-09,Memphis,@,Southern Mississippi,REG (Conf),W 89-76,,23,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,2,1,3,0,1,0,1,3,8,4.5,A,1,1,tarik-black-1,Tarik Black,2013
+20,90,24,2013-02-13,Memphis,,UCF,REG (Conf),W 93-71,,24,3,4,0.75,0,0,3,4,0.75,0.75,2,3,0.667,2,1,3,0,1,1,0,2,8,8.6,H,1,1,tarik-black-1,Tarik Black,2013
+21,91,25,2013-02-16,Memphis,@,Marshall,REG (Conf),W 71-59,,17,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,2,1,3,1,0,1,0,5,5,1.6,A,1,1,tarik-black-1,Tarik Black,2013
+22,92,26,2013-02-20,Memphis,,Houston,REG (Conf),W 81-74,,23,7,9,0.778,0,0,7,9,0.778,0.778,1,3,0.333,2,1,3,0,1,0,5,3,15,7.2,H,1,1,tarik-black-1,Tarik Black,2013
+23,93,27,2013-02-23,Memphis,,Southern Mississippi,REG (Conf),W 89-73,,16,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,1,2,3,1,0,0,5,3,2.3,H,1,1,tarik-black-1,Tarik Black,2013
+24,94,28,2013-02-26,Memphis,@,Xavier,REG (Non-Conf),L 62-64,,27,4,9,0.444,0,0,4,9,0.444,0.444,0,5,0.0,3,6,9,0,1,2,4,3,8,2.4,A,0,1,tarik-black-1,Tarik Black,2013
+25,95,29,2013-03-02,Memphis,@,UCF,REG (Conf),W 76-67,,23,3,7,0.429,0,0,3,7,0.429,0.429,1,3,0.333,1,3,4,1,4,0,1,5,7,5.8,A,1,1,tarik-black-1,Tarik Black,2013
+26,96,30,2013-03-05,Memphis,@,UTEP,REG (Conf),W 56-54,,28,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,2,4,6,1,0,1,5,4,9,4.8,A,1,1,tarik-black-1,Tarik Black,2013
+27,97,31,2013-03-09,Memphis,,UAB,REG (Conf),W 86-71,,28,2,2,1.0,0,0,2,2,1.0,1.0,2,5,0.4,2,4,6,3,0,1,2,3,6,6.4,H,1,1,tarik-black-1,Tarik Black,2013
+28,98,32,2013-03-14,Memphis,N,Tulane,CTOURN,W 81-68,,19,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,5,5,0,0,0,3,3,4,-0.7,N,1,0,tarik-black-1,Tarik Black,2013
+29,99,33,2013-03-15,Memphis,N,Tulsa,CTOURN,W 85-74,,15,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,2,5,7,0,1,0,0,5,4,4.1,N,1,0,tarik-black-1,Tarik Black,2013
+30,100,34,2013-03-16,Memphis,N,Southern Mississippi,CTOURN,W 91-79 (2OT),,17,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,1,4,5,0,0,1,1,4,0,-1.5,N,1,0,tarik-black-1,Tarik Black,2013
+31,101,35,2013-03-21,Memphis,N,St. Mary's (CA),ROUND-64,W 54-52,,29,5,5,1.0,0,0,5,5,1.0,1.0,2,7,0.286,1,6,7,1,2,1,2,5,12,10.4,N,1,0,tarik-black-1,Tarik Black,2013
+32,102,36,2013-03-23,Memphis,N,Michigan State,ROUND-32,L 48-70,,32,3,8,0.375,0,0,3,8,0.375,0.375,0,2,0.0,0,2,2,0,0,0,0,4,6,-0.2,N,0,0,tarik-black-1,Tarik Black,2013

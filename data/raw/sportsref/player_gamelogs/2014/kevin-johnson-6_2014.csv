@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Cincinnati,,North Carolina Central,REG (Non-Conf),W 74-61,,9,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,2,0,2,0,0,0,0,1,0,-2.5,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+2,2,2,2013-11-12,Cincinnati,,NC State,REG (Non-Conf),W 68-57,,5,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.9,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+3,3,3,2013-11-16,Cincinnati,,Appalachian State,REG (Non-Conf),W 77-49,,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,0,0,0,0,1,2,-0.5,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+4,4,4,2013-11-20,Cincinnati,,Campbell,REG (Non-Conf),W 81-62,,19,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,0,0,0,1,1,1,3,4,0.1,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+5,5,5,2013-11-26,Cincinnati,,UMass Lowell,REG (Non-Conf),W 79-49,,15,3,7,0.429,0,3,0.0,3,4,0.75,0.429,1,2,0.5,0,1,1,1,0,0,0,2,7,3.1,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+6,6,6,2013-11-29,Cincinnati,,Kennesaw State,REG (Non-Conf),W 95-67,,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,1,3,2,0,0,0,4,4,3.5,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+7,7,7,2013-12-03,Cincinnati,,USC Upstate,REG (Non-Conf),W 86-50,,16,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,1,1,1,1,0,0,3,9,6.5,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+8,8,8,2013-12-07,Cincinnati,@,New Mexico,REG (Non-Conf),L 54-63,,15,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,1,0.0,1,2,3,0,0,0,0,4,5,2.3,A,0,1,kevin-johnson-6,Kevin Johnson,2014
+9,9,9,2013-12-14,Cincinnati,N,Xavier,REG (Non-Conf),L 47-64,,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,0,0,0,1,0,1,0,0,5,4.0,N,0,1,kevin-johnson-6,Kevin Johnson,2014
+10,10,10,2013-12-17,Cincinnati,N,Pittsburgh,REG (Non-Conf),W 44-43,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,0,1,0,0.9,N,1,1,kevin-johnson-6,Kevin Johnson,2014
+11,11,11,2013-12-21,Cincinnati,,Middle Tennessee,REG (Non-Conf),W 69-48,,12,1,1,1.0,0,0,,1,1,1.0,1.0,3,3,1.0,0,0,0,1,1,0,0,3,5,5.2,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+12,12,12,2013-12-23,Cincinnati,,Chicago State,REG (Non-Conf),W 102-62,,19,2,10,0.2,1,6,0.167,1,4,0.25,0.25,5,6,0.833,1,1,2,2,0,0,2,2,10,3.0,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+13,13,13,2013-12-28,Cincinnati,,Nebraska,REG (Non-Conf),W 74-59,,16,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,2,2,4,1,1,0,1,0,11,11.1,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+14,14,14,2014-01-01,Cincinnati,,SMU,REG (Conf),W 65-57,,3,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.8,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+15,15,15,2014-01-04,Cincinnati,@,Memphis,REG (Conf),W 69-53,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,1,2,3,1,1,0,2,3,7,5.5,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+16,16,16,2014-01-07,Cincinnati,@,Houston,REG (Conf),W 61-60,,9,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,2,0,2,0,1,0,0,0,2,1.6,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+17,17,17,2014-01-11,Cincinnati,,Rutgers,REG (Conf),W 71-51,,11,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,0,0,0,0,0,0,1,4,1.2,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+18,18,18,2014-01-14,Cincinnati,,Temple,REG (Conf),W 69-58,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,1,0,1,0,0,0,2,1,5,2.3,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+19,19,19,2014-01-18,Cincinnati,@,South Florida,REG (Conf),W 61-54,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+20,20,20,2014-01-23,Cincinnati,,UCF,REG (Conf),W 69-51,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,3,0,0,3,1,2,-0.7,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+21,21,21,2014-01-26,Cincinnati,@,Temple,REG (Conf),W 80-76,,9,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,1,1,0,1,0,1,1,7,6.3,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+22,22,22,2014-01-30,Cincinnati,@,Louisville,REG (Conf),W 69-66,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+23,23,23,2014-02-02,Cincinnati,,South Florida,REG (Conf),W 50-45,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+24,24,25,2014-02-08,Cincinnati,@,SMU,REG (Conf),L 55-76,,6,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,0,1,0,0,0,1,1,3,1.3,A,0,1,kevin-johnson-6,Kevin Johnson,2014
+25,25,26,2014-02-15,Cincinnati,,Houston,REG (Conf),W 73-62,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+26,26,27,2014-02-19,Cincinnati,@,UCF,REG (Conf),W 77-49,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,2,2,3,0,1,0,2,5,5.6,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+27,27,28,2014-02-22,Cincinnati,,Louisville,REG (Conf),L 57-58,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,kevin-johnson-6,Kevin Johnson,2014
+28,28,29,2014-03-01,Cincinnati,@,Connecticut,REG (Conf),L 45-51,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,kevin-johnson-6,Kevin Johnson,2014
+29,29,30,2014-03-06,Cincinnati,,Memphis,REG (Conf),W 97-84,,3,0,0,,0,0,,0,0,,,4,4,1.0,0,0,0,0,0,1,0,0,4,4.7,H,1,1,kevin-johnson-6,Kevin Johnson,2014
+30,30,31,2014-03-08,Cincinnati,@,Rutgers,REG (Conf),W 70-66,,11,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,0,0,3,1,0,0,0,8,8.8,A,1,1,kevin-johnson-6,Kevin Johnson,2014
+31,31,32,2014-03-13,Cincinnati,N,UCF,CTOURN,W 61-58,,11,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,0,2,0,2,1,8,7.0,N,1,0,kevin-johnson-6,Kevin Johnson,2014
+32,32,33,2014-03-14,Cincinnati,N,Connecticut,CTOURN,L 56-58,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,1,0,0,1,3,1.9,N,0,0,kevin-johnson-6,Kevin Johnson,2014
+33,33,34,2014-03-20,Cincinnati,N,Harvard,ROUND-64,L 57-61,,13,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,2,2,1,0,0,0,0,3,1.9,N,0,0,kevin-johnson-6,Kevin Johnson,2014

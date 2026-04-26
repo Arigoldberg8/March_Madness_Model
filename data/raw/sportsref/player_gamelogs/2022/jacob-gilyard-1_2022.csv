@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,118,1,2021-11-09,Richmond,,North Carolina Central,REG (Non-Conf),W 70-60,*,40,5,13,0.385,2,9,0.222,3,4,0.75,0.462,2,2,1.0,0,6,6,6,7,0,0,2,14,19.1,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+2,119,2,2021-11-12,Richmond,N,Utah State,REG (Non-Conf),L 74-85,*,40,5,14,0.357,4,8,0.5,1,6,0.167,0.5,2,2,1.0,1,2,3,7,3,0,3,0,16,14.4,N,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+3,120,3,2021-11-16,Richmond,,Georgia State,REG (Non-Conf),W 94-78,*,29,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,0,0,0,6,3,0,1,1,2,5.0,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+4,121,4,2021-11-20,Richmond,@,Drake,REG (Non-Conf),L 70-73,*,37,2,9,0.222,1,5,0.2,1,4,0.25,0.278,1,2,0.5,1,3,4,5,4,0,1,2,6,7.4,A,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+5,122,5,2021-11-22,Richmond,,Hofstra,REG (Non-Conf),W 81-68,*,39,5,10,0.5,5,10,0.5,0,0,,0.75,2,3,0.667,1,3,4,6,0,0,2,0,17,15.4,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+6,123,6,2021-11-25,Richmond,N,Maryland,REG (Non-Conf),L 80-86,*,38,4,9,0.444,3,8,0.375,1,1,1.0,0.611,3,5,0.6,0,3,3,4,3,0,4,2,14,10.4,N,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+7,124,7,2021-11-27,Richmond,N,Mississippi State,REG (Non-Conf),L 71-82 (OT),*,42,5,14,0.357,4,11,0.364,1,3,0.333,0.5,3,4,0.75,2,2,4,6,6,0,1,1,17,19.6,N,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+8,125,8,2021-12-01,Richmond,@,Wofford,REG (Non-Conf),W 73-64,*,38,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,1,6,7,4,1,0,7,1,13,7.9,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+9,126,9,2021-12-05,Richmond,@,Northern Iowa,REG (Non-Conf),W 60-52,*,35,3,9,0.333,2,6,0.333,1,3,0.333,0.444,0,0,,0,3,3,4,1,0,0,0,8,7.6,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+10,127,10,2021-12-11,Richmond,,Toledo,REG (Non-Conf),W 72-69,*,36,4,12,0.333,4,9,0.444,0,3,0.0,0.5,1,2,0.5,0,3,3,7,5,0,0,3,13,15.4,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+11,128,11,2021-12-17,Richmond,N,NC State,REG (Non-Conf),W 83-74,*,39,3,7,0.429,1,4,0.25,2,3,0.667,0.5,6,6,1.0,0,6,6,10,2,0,3,2,13,16.3,N,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+12,129,12,2021-12-19,Richmond,,Old Dominion,REG (Non-Conf),W 67-61,*,39,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,1,1,8,4,0,3,2,0,2.6,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+13,130,13,2021-12-22,Richmond,,Bucknell,REG (Non-Conf),W 81-50,*,34,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,5,5,11,5,0,0,0,2,13.1,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+14,131,14,2021-12-30,Richmond,,Saint Joseph's,REG (Conf),L 56-83,*,35,2,10,0.2,0,3,0.0,2,7,0.286,0.2,0,0,,0,4,4,6,4,0,1,4,4,4.6,H,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+15,132,15,2022-01-02,Richmond,@,Saint Louis,REG (Conf),L 69-76,*,39,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,2,2,4,4,4,0,2,2,12,11.6,A,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+16,133,16,2022-01-05,Richmond,,Massachusetts,REG (Conf),W 80-72,*,35,5,12,0.417,1,5,0.2,4,7,0.571,0.458,6,6,1.0,1,2,3,10,4,0,3,0,17,19.9,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+17,134,17,2022-01-14,Richmond,,Davidson,REG (Conf),L 84-87,*,38,8,13,0.615,5,9,0.556,3,4,0.75,0.808,7,9,0.778,0,4,4,5,3,0,0,1,28,28.6,H,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+18,135,18,2022-01-18,Richmond,@,Fordham,REG (Conf),W 83-70,*,40,11,15,0.733,6,10,0.6,5,5,1.0,0.933,3,3,1.0,2,1,3,2,3,0,2,2,31,28.2,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+19,136,19,2022-01-22,Richmond,@,La Salle,REG (Conf),W 64-56,*,40,2,6,0.333,1,5,0.2,1,1,1.0,0.417,1,2,0.5,0,2,2,7,2,1,1,1,6,9.0,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+20,137,20,2022-01-25,Richmond,@,Rhode Island,REG (Conf),W 70-63,*,39,3,11,0.273,0,7,0.0,3,4,0.75,0.273,9,9,1.0,0,1,1,6,3,0,1,1,15,14.6,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+21,138,21,2022-01-29,Richmond,,VCU,REG (Conf),L 62-64,*,40,5,16,0.313,2,8,0.25,3,8,0.375,0.375,2,3,0.667,0,3,3,6,3,0,0,2,14,11.7,H,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+22,139,22,2022-02-01,Richmond,@,Duquesne,REG (Conf),W 74-57,*,35,5,8,0.625,4,7,0.571,1,1,1.0,0.875,3,3,1.0,0,2,2,3,4,0,2,1,17,17.7,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+23,140,23,2022-02-04,Richmond,,St. Bonaventure,REG (Conf),W 71-61,*,40,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,1,3,4,8,2,0,3,3,3,4.2,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+24,141,24,2022-02-07,Richmond,,George Mason,REG (Conf),W 62-59,*,38,8,14,0.571,7,12,0.583,1,2,0.5,0.821,0,0,,0,2,2,3,2,0,0,2,23,20.3,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+25,142,25,2022-02-09,Richmond,@,George Mason,REG (Conf),L 84-87 (OT),*,45,4,14,0.286,3,8,0.375,1,6,0.167,0.393,2,2,1.0,0,7,7,11,1,0,1,3,13,13.4,A,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+26,143,26,2022-02-12,Richmond,,La Salle,REG (Conf),W 77-63,*,39,4,12,0.333,1,3,0.333,3,9,0.333,0.375,2,2,1.0,1,5,6,5,4,1,1,1,11,13.2,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+27,144,27,2022-02-18,Richmond,@,VCU,REG (Conf),L 57-77,*,39,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,2,3,5,4,0,0,1,1,8,5.9,A,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+28,145,28,2022-02-22,Richmond,@,George Washington,REG (Conf),W 84-71,*,39,4,7,0.571,4,7,0.571,0,0,,0.857,3,3,1.0,0,5,5,3,1,0,0,1,15,15.9,A,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+29,146,29,2022-02-25,Richmond,,Saint Louis,REG (Conf),W 68-66,*,40,5,11,0.455,3,8,0.375,2,3,0.667,0.591,2,2,1.0,1,1,2,2,4,1,3,1,15,13.0,H,1,1,jacob-gilyard-1,Jacob Gilyard,2022
+30,147,30,2022-03-01,Richmond,,Dayton,REG (Conf),L 53-55,*,40,4,12,0.333,3,7,0.429,1,5,0.2,0.458,1,2,0.5,0,1,1,3,3,3,4,3,12,7.1,H,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+31,148,31,2022-03-04,Richmond,@,St. Bonaventure,REG (Conf),L 65-72,*,40,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,3,3,3,1,0,0,2,6,5.1,A,0,1,jacob-gilyard-1,Jacob Gilyard,2022
+32,149,32,2022-03-10,Richmond,N,Rhode Island,CTOURN,W 64-59,*,40,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,1,2,3,4,6,0,1,2,10,13.9,N,1,0,jacob-gilyard-1,Jacob Gilyard,2022
+33,150,33,2022-03-11,Richmond,N,VCU,CTOURN,W 75-64,*,40,9,17,0.529,7,12,0.583,2,5,0.4,0.735,7,7,1.0,0,0,0,3,4,0,2,1,32,27.4,N,1,0,jacob-gilyard-1,Jacob Gilyard,2022
+34,151,34,2022-03-12,Richmond,N,Dayton,CTOURN,W 68-64,*,40,3,13,0.231,1,7,0.143,2,6,0.333,0.269,4,6,0.667,0,2,2,5,4,0,1,3,11,8.2,N,1,0,jacob-gilyard-1,Jacob Gilyard,2022
+35,152,35,2022-03-13,Richmond,N,Davidson,CTOURN,W 64-62,*,40,9,17,0.529,4,8,0.5,5,9,0.556,0.647,4,5,0.8,1,3,4,2,2,0,1,1,26,20.9,N,1,0,jacob-gilyard-1,Jacob Gilyard,2022
+36,153,36,2022-03-17,Richmond,N,Iowa,ROUND-64,W 67-63,*,40,8,15,0.533,4,7,0.571,4,8,0.5,0.667,4,4,1.0,0,6,6,6,0,0,3,2,24,18.9,N,1,0,jacob-gilyard-1,Jacob Gilyard,2022
+37,154,37,2022-03-19,Richmond,N,Providence,ROUND-32,L 51-79,*,39,2,10,0.2,0,7,0.0,2,3,0.667,0.2,0,0,,0,3,3,3,0,1,0,3,4,0.3,N,0,0,jacob-gilyard-1,Jacob Gilyard,2022

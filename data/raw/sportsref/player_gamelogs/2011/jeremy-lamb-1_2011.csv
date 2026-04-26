@@ -1,0 +1,42 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Connecticut,,Stony Brook,REG (Non-Conf),W 79-52,*,24,5,14,0.357,1,7,0.143,4,7,0.571,0.393,0,0,,3,2,5,2,2,2,3,4,11,6.1,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+2,2,2,2010-11-17,Connecticut,,Vermont,REG (Non-Conf),W 89-73,*,28,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,3,4,7,2,2,1,1,1,4,5.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+3,3,3,2010-11-22,Connecticut,N,Wichita State,REG (Non-Conf),W 83-79,*,37,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,1,7,8,1,1,2,2,2,7,6.0,N,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+4,4,4,2010-11-23,Connecticut,N,Michigan State,REG (Non-Conf),W 70-67,*,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,3,2,-0.9,N,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+5,5,5,2010-11-24,Connecticut,N,Kentucky,REG (Non-Conf),W 84-67,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,4,4,2,0,0,1,1,2,2.2,N,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+6,6,6,2010-11-30,Connecticut,,New Hampshire,REG (Non-Conf),W 62-55,*,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,1,0,0,1,1,2,0.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+7,7,7,2010-12-03,Connecticut,,UMBC,REG (Non-Conf),W 94-61,*,21,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,0,,0,6,6,0,0,2,2,1,12,8.5,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+8,8,8,2010-12-08,Connecticut,,Fairleigh Dickinson,REG (Non-Conf),W 78-54,*,20,4,11,0.364,2,6,0.333,2,5,0.4,0.455,2,2,1.0,1,4,5,2,1,1,0,0,12,10.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+9,9,9,2010-12-20,Connecticut,,Coppin State,REG (Non-Conf),W 76-64,*,26,7,12,0.583,1,3,0.333,6,9,0.667,0.625,1,1,1.0,4,3,7,4,1,0,3,0,16,14.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+10,10,10,2010-12-22,Connecticut,,Harvard,REG (Non-Conf),W 81-52,*,25,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,1,0.0,0,4,4,2,0,0,2,1,11,7.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+11,11,11,2010-12-27,Connecticut,@,Pittsburgh,REG (Conf),L 63-78,*,28,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,4,0.75,4,4,8,1,2,0,1,2,9,9.1,A,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+12,12,12,2010-12-31,Connecticut,,South Florida,REG (Conf),W 66-61 (OT),*,20,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,1,1,2,1,1,1,2,2,4,0.8,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+13,13,13,2011-01-04,Connecticut,@,Notre Dame,REG (Conf),L 70-73,*,20,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,3,1,4,0,0,0,1,2,8,6.3,A,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+14,14,14,2011-01-08,Connecticut,@,Texas,REG (Non-Conf),W 82-81 (OT),*,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.7,A,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+15,15,15,2011-01-11,Connecticut,,Rutgers,REG (Conf),W 67-53,,7,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,0,1,2,0.9,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+16,16,16,2011-01-15,Connecticut,@,DePaul,REG (Conf),W 82-62,*,32,6,9,0.667,0,2,0.0,6,7,0.857,0.667,1,1,1.0,1,5,6,4,1,2,1,0,13,15.5,A,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+17,17,17,2011-01-17,Connecticut,,Villanova,REG (Conf),W 61-59,*,31,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,0,,2,6,8,2,2,0,1,1,14,13.2,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+18,18,18,2011-01-22,Connecticut,,Tennessee,REG (Non-Conf),W 72-61,*,23,6,10,0.6,2,4,0.5,4,6,0.667,0.7,2,3,0.667,1,4,5,1,0,2,0,1,16,14.6,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+19,19,19,2011-01-25,Connecticut,@,Marquette,REG (Conf),W 76-68,*,35,9,14,0.643,3,4,0.75,6,10,0.6,0.75,3,3,1.0,0,3,3,4,0,0,1,4,24,18.9,A,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+20,20,20,2011-01-29,Connecticut,,Louisville,REG (Conf),L 78-79 (2OT),*,44,9,17,0.529,1,7,0.143,8,10,0.8,0.559,2,2,1.0,1,5,6,3,1,1,0,0,21,18.7,H,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+21,21,21,2011-02-02,Connecticut,,Syracuse,REG (Conf),L 58-66,*,38,9,16,0.563,4,10,0.4,5,6,0.833,0.688,0,1,0.0,2,2,4,2,5,0,2,2,22,19.6,H,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+22,22,22,2011-02-05,Connecticut,@,Seton Hall,REG (Conf),W 61-59,*,35,5,10,0.5,0,3,0.0,5,7,0.714,0.5,0,0,,1,6,7,2,0,1,1,1,10,8.2,A,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+23,23,23,2011-02-10,Connecticut,@,St. John's (NY),REG (Conf),L 72-89,*,37,5,16,0.313,2,7,0.286,3,9,0.333,0.375,1,2,0.5,2,3,5,2,0,0,2,3,13,3.9,A,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+24,24,24,2011-02-13,Connecticut,,Providence,REG (Conf),W 75-57,*,15,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,0,1,1,0,0,1,4,7,2.1,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+25,25,25,2011-02-16,Connecticut,,Georgetown,REG (Conf),W 78-70,*,30,3,11,0.273,1,2,0.5,2,9,0.222,0.318,1,2,0.5,0,1,1,1,2,0,1,2,8,2.3,H,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+26,26,26,2011-02-18,Connecticut,@,Louisville,REG (Conf),L 58-71,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,0,0,1,1,0,-0.8,A,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+27,27,27,2011-02-24,Connecticut,,Marquette,REG (Conf),L 67-74 (OT),*,38,4,11,0.364,0,3,0.0,4,8,0.5,0.364,0,0,,5,7,12,3,0,1,2,3,8,7.1,H,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+28,28,28,2011-02-27,Connecticut,@,Cincinnati,REG (Conf),W 67-59,*,38,7,10,0.7,3,4,0.75,4,6,0.667,0.85,0,0,,1,4,5,2,2,0,2,2,17,15.3,A,1,1,jeremy-lamb-1,Jeremy Lamb,2011
+29,29,29,2011-03-02,Connecticut,@,West Virginia,REG (Conf),L 56-65,*,29,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,1,0,1,0,0,0,1,2,5,-0.9,A,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+30,30,30,2011-03-05,Connecticut,,Notre Dame,REG (Conf),L 67-70,*,30,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,1,1,1,1,0,1,2,9,5.2,H,0,1,jeremy-lamb-1,Jeremy Lamb,2011
+31,31,31,2011-03-08,Connecticut,N,DePaul,CTOURN,W 97-71,*,30,7,11,0.636,1,2,0.5,6,9,0.667,0.682,4,4,1.0,1,2,3,2,0,3,2,2,19,16.1,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+32,32,32,2011-03-09,Connecticut,N,Georgetown,CTOURN,W 79-62,*,23,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,4,0.5,1,3,4,1,3,0,3,1,11,8.1,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+33,33,33,2011-03-10,Connecticut,N,Pittsburgh,CTOURN,W 76-74,*,35,6,9,0.667,0,2,0.0,6,7,0.857,0.667,5,5,1.0,2,2,4,0,2,0,1,2,17,15.3,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+34,34,34,2011-03-11,Connecticut,N,Syracuse,CTOURN,W 76-71 (OT),*,30,4,12,0.333,1,4,0.25,3,8,0.375,0.375,2,2,1.0,0,3,3,1,0,1,1,1,11,5.1,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+35,35,35,2011-03-12,Connecticut,N,Louisville,CTOURN,W 69-66,*,35,5,11,0.455,1,1,1.0,4,10,0.4,0.5,2,2,1.0,1,6,7,3,1,2,3,2,13,10.5,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+36,36,36,2011-03-17,Connecticut,N,Bucknell,ROUND-64,W 81-52,*,32,6,9,0.667,4,5,0.8,2,4,0.5,0.889,0,0,,1,1,2,1,0,0,0,0,16,13.8,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+37,37,37,2011-03-19,Connecticut,N,Cincinnati,ROUND-32,W 69-58,*,38,5,7,0.714,2,3,0.667,3,4,0.75,0.857,2,2,1.0,0,5,5,1,1,1,1,1,14,13.6,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+38,38,38,2011-03-24,Connecticut,N,San Diego State,ROUND-16,W 74-67,*,30,9,11,0.818,3,3,1.0,6,8,0.75,0.955,3,4,0.75,0,2,2,1,1,0,1,3,24,19.6,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+39,39,39,2011-03-26,Connecticut,N,Arizona,ROUND-8,W 65-63,*,40,7,19,0.368,2,4,0.5,5,15,0.333,0.421,3,4,0.75,1,3,4,1,2,1,0,0,19,13.1,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+40,40,40,2011-04-02,Connecticut,N,Kentucky,NATIONAL-SEMI,W 56-55,*,38,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,1,8,9,4,0,0,2,1,12,11.9,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011
+41,41,41,2011-04-04,Connecticut,N,Butler,NATIONAL-FINAL,W 53-41,*,31,4,8,0.5,1,2,0.5,3,6,0.5,0.563,3,4,0.75,1,6,7,2,1,1,1,2,12,11.4,N,1,0,jeremy-lamb-1,Jeremy Lamb,2011

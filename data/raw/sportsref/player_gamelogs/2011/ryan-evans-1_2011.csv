@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2010-11-14,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 99-55,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,1,2,3,1,0,1,1,4,2,0.0,H,1,1,ryan-evans-1,Ryan Evans,2011
+2,35,2,2010-11-16,Wisconsin,,North Dakota,REG (Non-Conf),W 85-53,,21,3,6,0.5,0,0,,3,6,0.5,0.5,5,7,0.714,1,5,6,1,0,1,2,1,11,8.4,H,1,1,ryan-evans-1,Ryan Evans,2011
+3,36,3,2010-11-20,Wisconsin,@,UNLV,REG (Non-Conf),L 65-68,,20,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,1,5,6,0,0,0,4,2,11,4.0,A,0,1,ryan-evans-1,Ryan Evans,2011
+4,37,4,2010-11-25,Wisconsin,N,Manhattan,REG (Non-Conf),W 50-35,,12,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,1,1,1,1,1,1,3,4,1.1,N,1,1,ryan-evans-1,Ryan Evans,2011
+5,38,5,2010-11-26,Wisconsin,N,Boston College,REG (Non-Conf),W 65-55,,14,0,6,0.0,0,1,0.0,0,5,0.0,0.0,2,2,1.0,1,1,2,0,0,0,1,0,2,-2.2,N,1,1,ryan-evans-1,Ryan Evans,2011
+6,39,6,2010-11-28,Wisconsin,N,Notre Dame,REG (Non-Conf),L 51-58,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,4,5,1,0,0,0,1,2,2.5,N,0,1,ryan-evans-1,Ryan Evans,2011
+7,40,7,2010-12-01,Wisconsin,,NC State,REG (Non-Conf),W 87-48,,18,2,7,0.286,0,0,,2,7,0.286,0.286,5,6,0.833,2,1,3,2,0,1,1,0,9,7.3,H,1,1,ryan-evans-1,Ryan Evans,2011
+8,41,8,2010-12-04,Wisconsin,,South Dakota,REG (Non-Conf),W 76-61,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,3,0,0,-3.4,H,1,1,ryan-evans-1,Ryan Evans,2011
+9,42,9,2010-12-08,Wisconsin,,Milwaukee,REG (Non-Conf),W 61-40,,17,1,5,0.2,0,0,,1,5,0.2,0.2,1,1,1.0,2,3,5,1,0,0,0,0,3,2.9,H,1,1,ryan-evans-1,Ryan Evans,2011
+10,43,10,2010-12-11,Wisconsin,@,Marquette,REG (Non-Conf),W 69-64,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,3,0,0,1,2,2,2.3,A,1,1,ryan-evans-1,Ryan Evans,2011
+11,44,11,2010-12-13,Wisconsin,,Green Bay,REG (Non-Conf),W 70-56,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,2,0,1,0,0,0,2.4,H,1,1,ryan-evans-1,Ryan Evans,2011
+12,45,12,2010-12-23,Wisconsin,,Coppin State,REG (Non-Conf),W 80-56,,15,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,5,5,0,0,0,0,1,2,0.0,H,1,1,ryan-evans-1,Ryan Evans,2011
+13,46,13,2010-12-28,Wisconsin,,Minnesota,REG (Conf),W 68-60,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,1,1,0,-1.1,H,1,1,ryan-evans-1,Ryan Evans,2011
+14,47,14,2011-01-02,Wisconsin,@,Illinois,REG (Conf),L 61-69,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,3,2,-0.5,A,0,1,ryan-evans-1,Ryan Evans,2011
+15,48,15,2011-01-05,Wisconsin,,Michigan,REG (Conf),W 66-50,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,0,2,1.3,H,1,1,ryan-evans-1,Ryan Evans,2011
+16,49,16,2011-01-11,Wisconsin,@,Michigan State,REG (Conf),L 61-64 (OT),,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,A,0,1,ryan-evans-1,Ryan Evans,2011
+17,50,17,2011-01-15,Wisconsin,,Illinois,REG (Conf),W 76-66,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,ryan-evans-1,Ryan Evans,2011
+18,51,18,2011-01-20,Wisconsin,,Indiana,REG (Conf),W 69-60,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,ryan-evans-1,Ryan Evans,2011
+19,52,19,2011-01-23,Wisconsin,@,Northwestern,REG (Conf),W 78-46,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,2,1,2,0.7,A,1,1,ryan-evans-1,Ryan Evans,2011
+20,53,20,2011-01-29,Wisconsin,@,Penn State,REG (Conf),L 52-56,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,A,0,1,ryan-evans-1,Ryan Evans,2011
+21,54,21,2011-02-01,Wisconsin,,Purdue,REG (Conf),W 66-59,,19,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,0,1,1,0,1,0,0,1,10,6.6,H,1,1,ryan-evans-1,Ryan Evans,2011
+22,55,22,2011-02-06,Wisconsin,,Michigan State,REG (Conf),W 82-56,,10,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,0,4,2,0.0,H,1,1,ryan-evans-1,Ryan Evans,2011
+23,56,23,2011-02-09,Wisconsin,@,Iowa,REG (Conf),W 62-59 (OT),,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,1,0,1,0,1,2,2.3,A,1,1,ryan-evans-1,Ryan Evans,2011
+24,57,24,2011-02-12,Wisconsin,,Ohio State,REG (Conf),W 71-67,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,1,0,2,1.7,H,1,1,ryan-evans-1,Ryan Evans,2011
+25,58,25,2011-02-16,Wisconsin,@,Purdue,REG (Conf),L 62-70,,28,3,8,0.375,0,0,,3,8,0.375,0.375,5,6,0.833,1,5,6,1,0,0,0,3,11,7.9,A,0,1,ryan-evans-1,Ryan Evans,2011
+26,59,26,2011-02-20,Wisconsin,,Penn State,REG (Conf),W 76-66,,23,0,3,0.0,0,0,,0,3,0.0,0.0,3,4,0.75,1,2,3,0,1,1,1,1,3,2.1,H,1,1,ryan-evans-1,Ryan Evans,2011
+27,60,27,2011-02-23,Wisconsin,@,Michigan,REG (Conf),W 53-52,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,1,0,0,0,0,0.6,A,1,1,ryan-evans-1,Ryan Evans,2011
+28,61,28,2011-02-27,Wisconsin,,Northwestern,REG (Conf),W 78-63,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.1,H,1,1,ryan-evans-1,Ryan Evans,2011
+29,62,29,2011-03-03,Wisconsin,@,Indiana,REG (Conf),W 77-67,,11,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,4,4,0,0,0,0,0,0,-0.9,A,1,1,ryan-evans-1,Ryan Evans,2011
+30,63,30,2011-03-06,Wisconsin,@,Ohio State,REG (Conf),L 65-93,,14,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,3,4,0,0,2,1,2,3,1.4,A,0,1,ryan-evans-1,Ryan Evans,2011
+31,64,31,2011-03-11,Wisconsin,N,Penn State,CTOURN,L 33-36,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,0,0,1,0,1,2,1.9,N,0,0,ryan-evans-1,Ryan Evans,2011
+32,65,32,2011-03-17,Wisconsin,N,Belmont,ROUND-64,W 72-58,,12,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,1,2,3,0,0,0,0,1,4,2.4,N,1,0,ryan-evans-1,Ryan Evans,2011
+33,66,33,2011-03-19,Wisconsin,N,Kansas State,ROUND-32,W 70-65,,5,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,N,1,0,ryan-evans-1,Ryan Evans,2011
+34,67,34,2011-03-24,Wisconsin,N,Butler,ROUND-16,L 54-61,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,3,0,-1.6,N,0,0,ryan-evans-1,Ryan Evans,2011

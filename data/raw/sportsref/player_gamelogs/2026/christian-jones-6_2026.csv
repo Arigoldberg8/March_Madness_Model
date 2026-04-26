@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Siena,,Bryant,REG (Non-Conf),W 82-66,,11,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,0,0,0,1,0,1,1,3,-0.5,H,1,1,christian-jones-6,Christian Jones,2026
+2,2,2,2025-11-07,Siena,@,Brown,REG (Non-Conf),W 62-46,,15,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,0,1,3,1,0,1,1,0,-1.1,A,1,1,christian-jones-6,Christian Jones,2026
+3,3,3,2025-11-12,Siena,@,St. Bonaventure,REG (Non-Conf),L 66-75,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,0,1,christian-jones-6,Christian Jones,2026
+4,4,4,2025-11-17,Siena,,Colgate,REG (Non-Conf),L 69-72,,16,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,0,0,0,0,0,1,0,8,4.7,H,0,1,christian-jones-6,Christian Jones,2026
+5,5,5,2025-11-21,Siena,,Albany (NY),REG (Non-Conf),W 73-63,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,2,0,-1.5,H,1,1,christian-jones-6,Christian Jones,2026
+6,6,6,2025-11-24,Siena,@,Holy Cross,REG (Non-Conf),W 73-69,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,3,1,0,0,0,5,5.7,A,1,1,christian-jones-6,Christian Jones,2026
+7,7,7,2025-11-28,Siena,N,Longwood,REG (Non-Conf),W 70-63,,24,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,1,1,3,2,0,3,2,5,1.5,N,1,1,christian-jones-6,Christian Jones,2026
+8,8,8,2025-11-29,Siena,@,American,REG (Non-Conf),W 59-55,,29,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,0,0,0,1,0,3,1,5,-0.8,A,1,1,christian-jones-6,Christian Jones,2026
+9,9,9,2025-11-30,Siena,N,Maine,REG (Non-Conf),W 64-60,,23,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,0,0,1,1,3,0.6,N,1,1,christian-jones-6,Christian Jones,2026
+10,10,10,2025-12-05,Siena,,Niagara,REG (Conf),W 83-54,,18,2,6,0.333,2,6,0.333,0,0,,0.5,3,3,1.0,0,1,1,3,0,0,1,1,9,6.6,H,1,1,christian-jones-6,Christian Jones,2026
+11,11,11,2025-12-07,Siena,,Canisius,REG (Conf),W 74-52,,20,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,1,0,1,2,1,0,1,1,12,11.1,H,1,1,christian-jones-6,Christian Jones,2026
+12,12,12,2025-12-17,Siena,@,Vermont,REG (Non-Conf),L 69-83,,26,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,0,2,2,2,0,1,0,3,10,7.8,A,0,1,christian-jones-6,Christian Jones,2026
+13,13,13,2025-12-22,Siena,@,Indiana,REG (Non-Conf),L 60-81,,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,3,1.0,0,1,1,2,1,0,1,4,10,5.0,A,0,1,christian-jones-6,Christian Jones,2026
+14,14,14,2026-01-02,Siena,@,Iona,REG (Conf),L 72-75,,25,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,1,0,1,3,1,0,2,1,5,5.4,A,0,1,christian-jones-6,Christian Jones,2026
+15,15,15,2026-01-04,Siena,@,Rider,REG (Conf),W 74-65,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,2,0,0,1,0,3,2.3,A,1,1,christian-jones-6,Christian Jones,2026
+16,16,16,2026-01-09,Siena,,Merrimack,REG (Conf),L 59-63,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,H,0,1,christian-jones-6,Christian Jones,2026
+17,17,17,2026-01-11,Siena,@,Mount St. Mary's,REG (Conf),W 67-50,,23,3,10,0.3,3,5,0.6,0,5,0.0,0.45,0,0,,0,0,0,1,2,0,0,2,9,5.1,A,1,1,christian-jones-6,Christian Jones,2026
+18,18,18,2026-01-14,Siena,,Sacred Heart,REG (Conf),L 80-86,,22,2,7,0.286,1,6,0.167,1,1,1.0,0.357,2,2,1.0,0,2,2,0,0,0,0,0,7,3.5,H,0,1,christian-jones-6,Christian Jones,2026
+19,19,19,2026-01-17,Siena,@,Manhattan,REG (Conf),W 74-59,,34,4,8,0.5,3,5,0.6,1,3,0.333,0.688,1,2,0.5,0,2,2,1,0,0,0,0,12,8.9,A,1,1,christian-jones-6,Christian Jones,2026
+20,20,20,2026-01-19,Siena,,Fairfield,REG (Conf),W 85-77,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,3,0,-2.6,H,1,1,christian-jones-6,Christian Jones,2026
+21,21,21,2026-01-22,Siena,,Marist,REG (Conf),W 69-50,,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,0,0,1,0,0,0,2,7,5.3,H,1,1,christian-jones-6,Christian Jones,2026
+22,22,22,2026-01-30,Siena,@,Niagara,REG (Conf),W 82-79,,27,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,0,0,0,1,0,0,0,2,8,5.9,A,1,1,christian-jones-6,Christian Jones,2026
+23,23,23,2026-02-01,Siena,@,Canisius,REG (Conf),W 78-63,,25,2,4,0.5,2,4,0.5,0,0,,0.75,3,3,1.0,0,0,0,2,1,0,2,1,9,7.0,A,1,1,christian-jones-6,Christian Jones,2026
+24,24,24,2026-02-05,Siena,,Iona,REG (Conf),W 79-72,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,1,0,0,2,0,-1.2,H,1,1,christian-jones-6,Christian Jones,2026
+25,25,25,2026-02-07,Siena,@,Saint Peter's,REG (Conf),L 65-70,,10,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-1.5,A,0,1,christian-jones-6,Christian Jones,2026
+26,26,26,2026-02-13,Siena,,Quinnipiac,REG (Conf),L 62-74,,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,2,1,0,0,2,2,1.1,H,0,1,christian-jones-6,Christian Jones,2026
+27,27,27,2026-02-15,Siena,@,Marist,REG (Conf),W 67-63,,11,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,3,3,0,1,0,2,0,2,1.2,A,1,1,christian-jones-6,Christian Jones,2026
+28,28,28,2026-02-20,Siena,@,Merrimack,REG (Conf),L 72-79 (OT),,19,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,1,1,0,0,0,3,1,5,-0.1,A,0,1,christian-jones-6,Christian Jones,2026
+29,29,29,2026-02-22,Siena,,Saint Peter's,REG (Conf),W 72-63,,14,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,0,0,1,0,0,1,1,2,-0.1,H,1,1,christian-jones-6,Christian Jones,2026
+30,30,30,2026-02-27,Siena,@,Fairfield,REG (Conf),L 58-72,,23,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,0,0,3,2,0,1,1,5,2.2,A,0,1,christian-jones-6,Christian Jones,2026
+31,31,31,2026-03-01,Siena,,Rider,REG (Conf),W 76-61,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,0,0,-1.1,H,1,1,christian-jones-6,Christian Jones,2026
+32,32,32,2026-03-07,Siena,N,Mount St. Mary's,CTOURN,W 63-58,,13,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,0,2,0,0,0,0,0.2,N,1,0,christian-jones-6,Christian Jones,2026
+33,33,33,2026-03-08,Siena,N,Fairfield,CTOURN,W 76-61,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,0,2,0,-0.8,N,1,0,christian-jones-6,Christian Jones,2026
+34,34,34,2026-03-10,Siena,N,Merrimack,CTOURN,W 64-54,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,1,0,christian-jones-6,Christian Jones,2026

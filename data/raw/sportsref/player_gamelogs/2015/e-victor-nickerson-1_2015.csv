@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2014-11-14,Valparaiso,,East Tennessee State,REG (Non-Conf),W 90-76,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.0,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+2,62,2,2014-11-16,Valparaiso,@,Missouri,REG (Non-Conf),L 41-56,,17,4,5,0.8,1,1,1.0,3,4,0.75,0.9,3,3,1.0,1,0,1,1,0,0,1,0,12,10.5,A,0,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+3,63,3,2014-11-19,Valparaiso,,IU South Bend,REG (Non-Conf),W 91-55,,9,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,3,0,0,2,0,3,2.1,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+4,64,4,2014-11-21,Valparaiso,N,Arkansas–Pine Bluff,REG (Non-Conf),W 59-46,,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,3,1,4,0,0,0,0,0,3,2.9,N,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+5,65,5,2014-11-23,Valparaiso,N,Maine,REG (Non-Conf),W 93-70,,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,4,0,1,1,4,3,3.5,N,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+6,66,6,2014-11-28,Valparaiso,N,Drake,REG (Non-Conf),W 66-46,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,1,1,2,2,0,1,3,3,2.8,N,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+7,67,7,2014-11-29,Valparaiso,N,Murray State,REG (Non-Conf),W 93-58,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,5,6,0.833,0,3,3,2,0,0,1,2,7,6.1,N,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+8,68,8,2014-11-30,Valparaiso,N,Portland,REG (Non-Conf),W 70-55,,11,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,1,1,1,1,0,2,1,8,5.7,N,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+9,69,9,2014-12-03,Valparaiso,@,Eastern Kentucky,REG (Non-Conf),W 72-66,,14,0,1,0.0,0,0,,0,1,0.0,0.0,3,3,1.0,0,1,1,3,0,0,5,2,3,-1.1,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+10,70,10,2014-12-06,Valparaiso,,New Mexico,REG (Non-Conf),L 46-63,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,0,2,2,1,0,0,2,4,8,3.7,H,0,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+11,71,12,2014-12-13,Valparaiso,,Ball State,REG (Non-Conf),W 65-62,,17,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,0,0,0,2,2,0,0,2,9,6.5,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+12,72,13,2014-12-20,Valparaiso,@,IPFW,REG (Non-Conf),W 75-72,,16,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,3,1.0,3,3,6,1,0,0,3,0,5,1.9,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+13,73,14,2014-12-21,Valparaiso,,Goshen,REG (Non-Conf),W 82-55,,16,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,3,3,6,4,0,0,2,2,2,2.6,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+14,74,15,2014-12-29,Valparaiso,@,James Madison,REG (Non-Conf),W 79-52,,14,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,2,2,4,0,1,0,2,1,9,6.9,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+15,75,16,2015-01-02,Valparaiso,@,Oakland,REG (Conf),L 75-89 (OT),,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,2,0.0,0,0,0,3,0,0,1,2,0,-3.3,A,0,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+16,76,17,2015-01-04,Valparaiso,,Youngstown State,REG (Conf),W 79-64,,20,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,1,0,1,0,0,2,1,3,9,4.8,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+17,77,18,2015-01-08,Valparaiso,,Illinois–Chicago,REG (Conf),W 85-56,*,18,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,2,0.5,0,3,3,2,0,0,1,2,7,2.7,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+18,78,19,2015-01-10,Valparaiso,,Cleveland State,REG (Conf),W 58-56,*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,3,0.0,0,4,4,3,2,0,6,1,2,-3.4,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+19,79,20,2015-01-17,Valparaiso,@,Wright State,REG (Conf),W 66-56,*,26,2,10,0.2,1,4,0.25,1,6,0.167,0.25,3,4,0.75,1,2,3,3,0,1,4,1,8,1.1,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+20,80,21,2015-01-20,Valparaiso,@,Youngstown State,REG (Conf),W 77-62,*,19,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,1,4,5,3,1,0,4,2,5,2.8,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+21,81,22,2015-01-23,Valparaiso,@,Green Bay,REG (Conf),L 50-51,*,29,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,2,1.0,1,4,5,0,1,0,1,2,10,5.0,A,0,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+22,82,23,2015-01-26,Valparaiso,,Milwaukee,REG (Conf),W 73-48,*,24,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,0,0,0,3,2,0,1,1,6,6.7,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+23,83,24,2015-01-31,Valparaiso,@,Illinois–Chicago,REG (Conf),W 70-65,*,26,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,0,2,2,3,0,0,2,4,10,6.5,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+24,84,25,2015-02-04,Valparaiso,,Detroit Mercy,REG (Conf),W 78-70,*,24,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,3,0.667,0,2,2,3,1,1,6,4,7,0.7,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+25,85,26,2015-02-08,Valparaiso,,Oakland,REG (Conf),W 82-76,*,28,7,11,0.636,1,3,0.333,6,8,0.75,0.682,1,4,0.25,0,0,0,3,1,0,1,1,16,11.6,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+26,86,27,2015-02-13,Valparaiso,,Green Bay,REG (Conf),W 63-59,*,22,2,5,0.4,1,1,1.0,1,4,0.25,0.5,4,7,0.571,1,4,5,0,1,0,5,2,9,2.2,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+27,87,28,2015-02-15,Valparaiso,@,Milwaukee,REG (Conf),W 62-55,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,2,2,1,2,0,1,1,5,5.2,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+28,88,29,2015-02-21,Valparaiso,,Wright State,REG (Conf),W 55-48,*,22,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,2,1.0,0,1,1,3,0,0,3,1,7,3.3,H,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+29,89,30,2015-02-25,Valparaiso,@,Detroit Mercy,REG (Conf),L 60-63,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,2,1,0,0,2,2,2.2,A,0,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+30,90,31,2015-02-27,Valparaiso,@,Cleveland State,REG (Conf),W 56-53,*,15,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,1,0,0,0,2,3,2.2,A,1,1,e-victor-nickerson-1,E. Victor Nickerson,2015
+31,91,32,2015-03-07,Valparaiso,,Cleveland State,CTOURN,W 60-55,*,34,2,9,0.222,0,3,0.0,2,6,0.333,0.222,2,2,1.0,0,3,3,4,1,0,3,1,6,1.8,H,1,0,e-victor-nickerson-1,E. Victor Nickerson,2015
+32,92,33,2015-03-10,Valparaiso,,Green Bay,CTOURN,W 54-44,*,33,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,2,1.0,0,2,2,1,2,0,3,2,11,5.8,H,1,0,e-victor-nickerson-1,E. Victor Nickerson,2015
+33,93,34,2015-03-20,Valparaiso,N,Maryland,ROUND-64,L 62-65,*,16,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,0,1,1,2,0,2,5,8,3.0,N,0,0,e-victor-nickerson-1,E. Victor Nickerson,2015

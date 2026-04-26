@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2010-11-13,George Mason,,Harvard,REG (Non-Conf),W 66-53,*,31,6,11,0.545,1,2,0.5,5,9,0.556,0.591,1,2,0.5,1,2,3,3,2,3,1,3,14,13.6,H,1,1,luke-hancock-1,Luke Hancock,2011
+2,33,2,2010-11-18,George Mason,N,Charlotte,REG (Non-Conf),W 78-56,*,32,8,12,0.667,0,1,0.0,8,11,0.727,0.667,2,3,0.667,0,4,4,3,1,0,1,2,18,14.9,N,1,1,luke-hancock-1,Luke Hancock,2011
+3,34,3,2010-11-19,George Mason,N,NC State,REG (Non-Conf),L 65-78,*,23,4,9,0.444,0,1,0.0,4,8,0.5,0.444,3,3,1.0,3,3,6,1,0,0,1,1,11,8.6,N,0,1,luke-hancock-1,Luke Hancock,2011
+4,35,4,2010-11-21,George Mason,N,Wofford,REG (Non-Conf),L 79-82 (OT),*,34,5,10,0.5,0,2,0.0,5,8,0.625,0.5,7,9,0.778,3,2,5,3,0,0,4,2,17,11.2,N,0,1,luke-hancock-1,Luke Hancock,2011
+5,36,5,2010-11-24,George Mason,,Radford,REG (Non-Conf),W 81-55,*,23,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,1,7,8,11,2,1,5,2,5,11.4,H,1,1,luke-hancock-1,Luke Hancock,2011
+6,37,6,2010-11-27,George Mason,,Florida Atlantic,REG (Non-Conf),W 66-51,*,32,4,6,0.667,1,2,0.5,3,4,0.75,0.75,5,6,0.833,1,5,6,7,1,0,4,4,14,13.5,H,1,1,luke-hancock-1,Luke Hancock,2011
+7,38,7,2010-12-01,George Mason,,George Washington,REG (Non-Conf),W 60-46,*,33,3,6,0.5,3,4,0.75,0,2,0.0,0.75,6,8,0.75,0,8,8,2,1,0,3,3,15,11.8,H,1,1,luke-hancock-1,Luke Hancock,2011
+8,39,8,2010-12-04,George Mason,,UNC Wilmington,REG (Conf),W 80-52,,16,4,6,0.667,2,3,0.667,2,3,0.667,0.833,1,2,0.5,2,1,3,4,0,0,0,2,11,11.7,H,1,1,luke-hancock-1,Luke Hancock,2011
+9,40,9,2010-12-08,George Mason,,Loyola (MD),REG (Non-Conf),W 66-52,*,32,6,9,0.667,0,1,0.0,6,8,0.75,0.667,1,2,0.5,1,4,5,7,4,1,4,1,13,15.8,H,1,1,luke-hancock-1,Luke Hancock,2011
+10,41,10,2010-12-11,George Mason,@,Liberty,REG (Non-Conf),W 84-54,*,30,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,0,1,1,4,1,0,4,0,12,8.8,A,1,1,luke-hancock-1,Luke Hancock,2011
+11,42,11,2010-12-22,George Mason,@,Duquesne,REG (Non-Conf),W 85-79 (2OT),,29,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,3,3,6,4,0,0,4,2,2,0.2,A,1,1,luke-hancock-1,Luke Hancock,2011
+12,43,12,2010-12-29,George Mason,@,Dayton,REG (Non-Conf),L 67-73,*,34,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,2,0.0,1,4,5,5,1,0,0,3,8,8.4,A,0,1,luke-hancock-1,Luke Hancock,2011
+13,44,13,2011-01-03,George Mason,,Delaware,REG (Conf),W 75-66,*,30,6,8,0.75,1,2,0.5,5,6,0.833,0.813,4,5,0.8,2,5,7,5,0,0,2,2,17,17.0,H,1,1,luke-hancock-1,Luke Hancock,2011
+14,45,14,2011-01-05,George Mason,@,Hofstra,REG (Conf),L 74-87,*,22,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,2,2,3,0,0,3,3,6,0.8,A,0,1,luke-hancock-1,Luke Hancock,2011
+15,46,15,2011-01-08,George Mason,@,Old Dominion,REG (Conf),L 65-69,*,36,5,9,0.556,0,2,0.0,5,7,0.714,0.556,3,4,0.75,0,3,3,7,1,0,2,2,13,12.3,A,0,1,luke-hancock-1,Luke Hancock,2011
+16,47,16,2011-01-12,George Mason,@,Northeastern,REG (Conf),W 86-60,*,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,5,0.8,1,1,2,10,0,0,0,2,8,12.8,A,1,1,luke-hancock-1,Luke Hancock,2011
+17,48,17,2011-01-15,George Mason,,Georgia State,REG (Conf),W 66-51,*,30,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,3,1.0,0,2,2,3,0,1,5,3,9,3.2,H,1,1,luke-hancock-1,Luke Hancock,2011
+18,49,18,2011-01-19,George Mason,,Drexel,REG (Conf),W 71-47,*,31,2,9,0.222,1,2,0.5,1,7,0.143,0.278,11,12,0.917,1,8,9,4,0,3,5,3,16,11.9,H,1,1,luke-hancock-1,Luke Hancock,2011
+19,50,19,2011-01-22,George Mason,@,James Madison,REG (Conf),W 75-73,*,31,3,8,0.375,1,3,0.333,2,5,0.4,0.438,4,4,1.0,1,1,2,3,2,0,5,3,11,5.5,A,1,1,luke-hancock-1,Luke Hancock,2011
+20,51,20,2011-01-24,George Mason,@,Delaware,REG (Conf),W 69-49,*,27,6,10,0.6,0,0,,6,10,0.6,0.6,0,1,0.0,2,0,2,1,1,0,0,1,12,9.7,A,1,1,luke-hancock-1,Luke Hancock,2011
+21,52,21,2011-01-27,George Mason,,Towson,REG (Conf),W 84-58,*,25,7,11,0.636,3,5,0.6,4,6,0.667,0.773,2,2,1.0,1,4,5,6,2,1,2,1,19,20.5,H,1,1,luke-hancock-1,Luke Hancock,2011
+22,53,22,2011-01-29,George Mason,@,William & Mary,REG (Conf),W 85-69,*,32,6,8,0.75,1,3,0.333,5,5,1.0,0.813,4,4,1.0,0,3,3,4,1,1,0,3,17,18.0,A,1,1,luke-hancock-1,Luke Hancock,2011
+23,54,23,2011-02-02,George Mason,,Hofstra,REG (Conf),W 87-68,*,31,3,7,0.429,2,3,0.667,1,4,0.25,0.571,1,2,0.5,1,3,4,7,3,0,0,3,9,13.2,H,1,1,luke-hancock-1,Luke Hancock,2011
+24,55,24,2011-02-05,George Mason,,Old Dominion,REG (Conf),W 62-45,*,34,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,3,0.667,2,4,6,4,0,0,0,3,6,5.7,H,1,1,luke-hancock-1,Luke Hancock,2011
+25,56,25,2011-02-08,George Mason,@,UNC Wilmington,REG (Conf),W 78-63,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,1,5,6,4,2,0,0,4,8,10.4,A,1,1,luke-hancock-1,Luke Hancock,2011
+26,57,26,2011-02-12,George Mason,,James Madison,REG (Conf),W 82-68,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,4,1.0,0,1,1,1,0,0,2,4,8,2.7,H,1,1,luke-hancock-1,Luke Hancock,2011
+27,58,27,2011-02-15,George Mason,@,VCU,REG (Conf),W 71-51,*,32,0,5,0.0,0,2,0.0,0,3,0.0,0.0,10,10,1.0,0,8,8,7,1,0,4,3,10,9.6,A,1,1,luke-hancock-1,Luke Hancock,2011
+28,59,28,2011-02-19,George Mason,@,Northern Iowa,REG (Non-Conf),W 77-71,*,33,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,2,1.0,0,3,3,3,1,0,3,3,14,8.8,A,1,1,luke-hancock-1,Luke Hancock,2011
+29,60,29,2011-02-24,George Mason,,Northeastern,REG (Conf),W 67-61,,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,5,0.6,0,3,3,3,1,3,4,3,7,3.7,H,1,1,luke-hancock-1,Luke Hancock,2011
+30,61,30,2011-02-26,George Mason,@,Georgia State,REG (Conf),W 65-58,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,3,1,2,2,1,2,2.7,A,1,1,luke-hancock-1,Luke Hancock,2011
+31,62,31,2011-03-05,George Mason,N,Georgia State,CTOURN,W 68-45,*,23,2,8,0.25,0,1,0.0,2,7,0.286,0.25,1,2,0.5,0,3,3,3,3,0,2,3,5,2.6,N,1,0,luke-hancock-1,Luke Hancock,2011
+32,63,32,2011-03-06,George Mason,N,VCU,CTOURN,L 63-79,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,3,1,0,2,1,4,3.7,N,0,0,luke-hancock-1,Luke Hancock,2011
+33,64,33,2011-03-18,George Mason,N,Villanova,ROUND-64,W 61-57,*,32,5,10,0.5,2,3,0.667,3,7,0.429,0.6,6,8,0.75,1,2,3,5,0,0,1,2,18,15.2,N,1,0,luke-hancock-1,Luke Hancock,2011

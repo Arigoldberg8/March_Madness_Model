@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2016-11-11,Minnesota,,Louisiana,REG (Non-Conf),W 86-74,*,18,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,2,4,1,1,1,1,4,6,4.1,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+2,33,2,2016-11-14,Minnesota,,UT Arlington,REG (Non-Conf),W 84-67,*,35,2,9,0.222,0,1,0.0,2,8,0.25,0.222,7,8,0.875,6,6,12,0,0,2,1,2,11,10.7,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+3,34,3,2016-11-16,Minnesota,,Mount St. Mary's,REG (Non-Conf),W 80-56,*,31,8,9,0.889,0,0,,8,9,0.889,0.889,2,7,0.286,3,9,12,2,1,2,1,2,18,19.7,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+4,35,4,2016-11-18,Minnesota,,St. John's (NY),REG (Non-Conf),W 92-86,*,16,5,8,0.625,0,0,,5,8,0.625,0.625,2,4,0.5,2,2,4,0,0,0,2,5,12,5.6,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+5,36,5,2016-11-22,Minnesota,,Arkansas,REG (Non-Conf),W 85-71,*,27,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,1,6,7,0,1,2,2,3,10,6.6,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+6,37,6,2016-11-25,Minnesota,,Southern Illinois,REG (Non-Conf),W 57-45,*,28,4,10,0.4,0,1,0.0,4,9,0.444,0.4,1,4,0.25,1,7,8,0,1,1,2,2,9,4.1,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+7,38,7,2016-11-28,Minnesota,@,Florida State,REG (Non-Conf),L 67-75,*,24,0,6,0.0,0,1,0.0,0,5,0.0,0.0,5,6,0.833,1,5,6,3,0,2,3,4,5,1.5,A,0,1,jordan-murphy-1,Jordan Murphy,2017
+8,39,8,2016-12-03,Minnesota,N,Vanderbilt,REG (Non-Conf),W 56-52,*,29,8,17,0.471,0,1,0.0,8,16,0.5,0.471,0,4,0.0,4,10,14,0,1,0,3,0,16,9.5,N,1,1,jordan-murphy-1,Jordan Murphy,2017
+9,40,9,2016-12-06,Minnesota,,NJIT,REG (Non-Conf),W 74-68,*,15,0,4,0.0,0,0,,0,4,0.0,0.0,2,2,1.0,0,4,4,1,0,2,3,5,2,-2.5,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+10,41,10,2016-12-09,Minnesota,,Georgia Southern,REG (Non-Conf),W 86-49,*,24,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,2,0.5,2,4,6,1,0,0,3,1,8,3.8,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+11,42,11,2016-12-11,Minnesota,,Northern Illinois,REG (Non-Conf),W 77-57,*,23,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,5,5,10,0,0,0,1,3,12,9.8,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+12,43,12,2016-12-14,Minnesota,,LIU Brooklyn,REG (Non-Conf),W 76-66,*,27,6,13,0.462,0,2,0.0,6,11,0.545,0.462,1,1,1.0,1,4,5,1,2,0,2,3,13,7.7,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+13,44,13,2016-12-23,Minnesota,,Arkansas State,REG (Non-Conf),W 82-75,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,3,4,0.75,1,7,8,0,1,0,4,4,15,9.6,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+14,45,14,2016-12-27,Minnesota,,Michigan State,REG (Conf),L 74-75 (OT),*,42,3,7,0.429,0,1,0.0,3,6,0.5,0.429,6,13,0.462,3,18,21,2,2,2,2,1,12,15.4,H,0,1,jordan-murphy-1,Jordan Murphy,2017
+15,46,15,2017-01-01,Minnesota,@,Purdue,REG (Conf),W 91-82 (OT),*,26,6,14,0.429,2,4,0.5,4,10,0.4,0.5,2,2,1.0,2,4,6,0,0,0,2,5,16,7.2,A,1,1,jordan-murphy-1,Jordan Murphy,2017
+16,47,16,2017-01-05,Minnesota,@,Northwestern,REG (Conf),W 70-66,*,31,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,4,0.25,0,7,7,1,1,3,3,3,7,3.8,A,1,1,jordan-murphy-1,Jordan Murphy,2017
+17,48,17,2017-01-08,Minnesota,,Ohio State,REG (Conf),W 78-68,*,28,2,10,0.2,0,1,0.0,2,9,0.222,0.2,4,6,0.667,6,5,11,3,3,2,3,3,8,9.0,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+18,49,18,2017-01-11,Minnesota,@,Michigan State,REG (Conf),L 47-65,*,32,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,0,4,4,1,0,1,2,3,6,1.7,A,0,1,jordan-murphy-1,Jordan Murphy,2017
+19,50,19,2017-01-14,Minnesota,@,Penn State,REG (Conf),L 50-52,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,4,4,0,2,0,3,4,7,2.9,A,0,1,jordan-murphy-1,Jordan Murphy,2017
+20,51,20,2017-01-21,Minnesota,,Wisconsin,REG (Conf),L 76-78 (OT),*,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,1,1,0,1,1,4,2.6,H,0,1,jordan-murphy-1,Jordan Murphy,2017
+21,52,21,2017-01-25,Minnesota,@,Ohio State,REG (Conf),L 72-78,*,31,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,2,5,7,0,0,2,1,3,7,7.1,A,0,1,jordan-murphy-1,Jordan Murphy,2017
+22,53,22,2017-01-28,Minnesota,,Maryland,REG (Conf),L 78-85,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,7,0.571,0,4,4,0,0,2,1,3,10,6.2,H,0,1,jordan-murphy-1,Jordan Murphy,2017
+23,54,23,2017-02-04,Minnesota,@,Illinois,REG (Conf),W 68-59,*,23,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,3,0.667,2,2,4,1,0,1,0,0,2,2.9,A,1,1,jordan-murphy-1,Jordan Murphy,2017
+24,55,24,2017-02-08,Minnesota,,Iowa,REG (Conf),W 101-89 (2OT),*,39,10,13,0.769,0,0,,10,13,0.769,0.769,5,7,0.714,6,13,19,1,1,4,1,5,25,28.7,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+25,56,25,2017-02-11,Minnesota,@,Rutgers,REG (Conf),W 72-63,*,34,8,15,0.533,0,2,0.0,8,13,0.615,0.533,1,2,0.5,2,9,11,0,1,0,1,5,17,11.4,A,1,1,jordan-murphy-1,Jordan Murphy,2017
+26,57,26,2017-02-15,Minnesota,,Indiana,REG (Conf),W 75-74,*,33,4,6,0.667,1,2,0.5,3,4,0.75,0.75,5,8,0.625,4,11,15,1,0,1,1,2,14,15.9,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+27,58,27,2017-02-19,Minnesota,,Michigan,REG (Conf),W 83-78 (OT),*,36,7,13,0.538,0,1,0.0,7,12,0.583,0.538,2,5,0.4,4,11,15,0,0,0,0,2,16,13.8,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+28,59,28,2017-02-22,Minnesota,@,Maryland,REG (Conf),W 89-75,*,29,5,9,0.556,0,2,0.0,5,7,0.714,0.556,5,6,0.833,1,7,8,0,0,2,0,2,15,13.7,A,1,1,jordan-murphy-1,Jordan Murphy,2017
+29,60,29,2017-02-25,Minnesota,,Penn State,REG (Conf),W 81-71,*,27,4,6,0.667,0,1,0.0,4,5,0.8,0.667,8,10,0.8,4,12,16,2,0,1,1,4,16,18.5,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+30,61,30,2017-03-02,Minnesota,,Nebraska,REG (Conf),W 88-73,*,28,7,10,0.7,0,0,,7,10,0.7,0.7,6,9,0.667,4,7,11,1,0,2,2,3,20,18.4,H,1,1,jordan-murphy-1,Jordan Murphy,2017
+31,62,31,2017-03-05,Minnesota,@,Wisconsin,REG (Conf),L 49-66,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,1,4,5,1,2,0,1,4,6,7.0,A,0,1,jordan-murphy-1,Jordan Murphy,2017
+32,63,32,2017-03-10,Minnesota,N,Michigan State,CTOURN,W 63-58,*,21,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,2,0.0,4,9,13,1,1,0,0,3,10,10.9,N,1,0,jordan-murphy-1,Jordan Murphy,2017
+33,64,33,2017-03-11,Minnesota,N,Michigan,CTOURN,L 77-84,*,35,5,12,0.417,0,1,0.0,5,11,0.455,0.417,3,4,0.75,7,2,9,1,0,1,2,4,13,9.5,N,0,0,jordan-murphy-1,Jordan Murphy,2017
+34,65,34,2017-03-16,Minnesota,N,Middle Tennessee,ROUND-64,L 72-81,*,31,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,6,0.833,1,8,9,3,1,0,1,4,15,14.6,N,0,0,jordan-murphy-1,Jordan Murphy,2017

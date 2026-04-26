@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2013-11-08,Connecticut,N,Maryland,REG (Non-Conf),W 78-77,*,33,5,12,0.417,2,3,0.667,3,9,0.333,0.5,6,6,1.0,1,6,7,7,2,0,3,5,18,16.0,N,1,1,shabazz-napier-1,Shabazz Napier,2014
+2,105,2,2013-11-11,Connecticut,,Yale,REG (Non-Conf),W 80-62,*,37,5,7,0.714,1,1,1.0,4,6,0.667,0.786,3,5,0.6,3,8,11,10,1,0,1,1,14,21.4,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+3,106,3,2013-11-14,Connecticut,,Detroit Mercy,REG (Non-Conf),W 101-55,*,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,3,4,0.75,2,6,8,8,1,0,3,1,10,14.4,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+4,107,4,2013-11-17,Connecticut,,Boston University,REG (Non-Conf),W 77-60,*,38,3,9,0.333,2,2,1.0,1,7,0.143,0.444,4,4,1.0,4,8,12,6,2,0,3,1,12,14.9,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+5,108,5,2013-11-21,Connecticut,N,Boston College,REG (Non-Conf),W 72-70,*,38,6,17,0.353,0,3,0.0,6,14,0.429,0.353,8,10,0.8,0,4,4,2,1,0,0,1,20,12.9,N,1,1,shabazz-napier-1,Shabazz Napier,2014
+6,109,6,2013-11-22,Connecticut,N,Indiana,REG (Non-Conf),W 59-58,*,38,10,14,0.714,4,6,0.667,6,8,0.75,0.857,3,7,0.429,0,5,5,3,2,1,7,1,27,18.5,N,1,1,shabazz-napier-1,Shabazz Napier,2014
+7,110,7,2013-11-26,Connecticut,,Loyola (MD),REG (Non-Conf),W 76-66,*,33,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,1,6,7,7,3,3,2,2,4,9.6,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+8,111,8,2013-12-02,Connecticut,,Florida,REG (Non-Conf),W 65-64,*,35,9,15,0.6,5,8,0.625,4,7,0.571,0.767,3,3,1.0,2,2,4,2,3,0,3,3,26,21.3,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+9,112,9,2013-12-06,Connecticut,,Maine,REG (Non-Conf),W 95-68,*,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,1,4,5,8,4,0,3,1,7,12.4,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+10,113,10,2013-12-18,Connecticut,,Stanford,REG (Non-Conf),L 51-53,*,39,4,13,0.308,2,7,0.286,2,6,0.333,0.385,2,2,1.0,0,5,5,8,2,0,2,2,12,10.8,H,0,1,shabazz-napier-1,Shabazz Napier,2014
+11,114,11,2013-12-22,Connecticut,@,Washington,REG (Non-Conf),W 82-70,*,38,5,11,0.455,1,2,0.5,4,9,0.444,0.5,9,10,0.9,1,5,6,1,0,1,4,3,20,12.3,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+12,115,12,2013-12-28,Connecticut,N,Eastern Washington,REG (Non-Conf),W 82-65,*,35,5,12,0.417,0,0,,5,12,0.417,0.417,5,5,1.0,0,2,2,9,2,0,3,3,15,13.3,N,1,1,shabazz-napier-1,Shabazz Napier,2014
+13,116,13,2013-12-31,Connecticut,@,Houston,REG (Conf),L 71-75,*,39,8,18,0.444,3,9,0.333,5,9,0.556,0.528,8,8,1.0,3,6,9,5,2,0,2,3,27,23.8,A,0,1,shabazz-napier-1,Shabazz Napier,2014
+14,117,14,2014-01-04,Connecticut,@,SMU,REG (Conf),L 65-74,*,36,2,9,0.222,0,1,0.0,2,8,0.25,0.222,8,9,0.889,2,3,5,5,2,1,1,2,12,12.8,A,0,1,shabazz-napier-1,Shabazz Napier,2014
+15,118,15,2014-01-08,Connecticut,,Harvard,REG (Non-Conf),W 61-56,*,39,4,12,0.333,3,5,0.6,1,7,0.143,0.458,7,8,0.875,0,7,7,4,2,0,4,3,18,12.5,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+16,119,16,2014-01-11,Connecticut,,UCF,REG (Conf),W 84-61,*,33,3,10,0.3,1,3,0.333,2,7,0.286,0.35,7,8,0.875,2,3,5,11,5,1,2,2,14,20.7,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+17,120,17,2014-01-16,Connecticut,@,Memphis,REG (Conf),W 83-73,*,34,5,13,0.385,1,8,0.125,4,5,0.8,0.423,6,6,1.0,1,3,4,10,2,0,4,2,17,15.7,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+18,121,18,2014-01-18,Connecticut,,Louisville,REG (Conf),L 64-76,*,37,7,15,0.467,5,10,0.5,2,5,0.4,0.633,11,13,0.846,0,4,4,1,0,0,4,4,30,17.8,H,0,1,shabazz-napier-1,Shabazz Napier,2014
+19,122,19,2014-01-21,Connecticut,,Temple,REG (Conf),W 90-66,*,30,9,14,0.643,5,8,0.625,4,6,0.667,0.821,4,4,1.0,0,7,7,6,0,0,2,3,27,23.9,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+20,123,20,2014-01-25,Connecticut,@,Rutgers,REG (Conf),W 82-71,*,37,7,18,0.389,2,7,0.286,5,11,0.455,0.444,10,11,0.909,0,3,3,4,3,2,4,2,26,19.1,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+21,124,21,2014-01-30,Connecticut,,Houston,REG (Conf),W 80-43,*,31,7,13,0.538,1,4,0.25,6,9,0.667,0.577,4,4,1.0,2,5,7,3,0,1,3,2,19,14.6,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+22,125,22,2014-02-06,Connecticut,@,Cincinnati,REG (Conf),L 58-63,*,39,5,19,0.263,2,12,0.167,3,7,0.429,0.316,4,4,1.0,0,2,2,3,0,1,1,4,16,5.5,A,0,1,shabazz-napier-1,Shabazz Napier,2014
+23,126,23,2014-02-09,Connecticut,@,UCF,REG (Conf),W 75-55,*,37,6,11,0.545,3,4,0.75,3,7,0.429,0.682,2,2,1.0,1,6,7,6,3,0,4,2,17,16.6,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+24,127,24,2014-02-12,Connecticut,,South Florida,REG (Conf),W 83-40,*,18,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,5,5,4,1,0,0,2,7,10.9,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+25,128,25,2014-02-15,Connecticut,,Memphis,REG (Conf),W 86-81 (OT),*,38,10,21,0.476,5,12,0.417,5,9,0.556,0.595,9,12,0.75,0,5,5,4,4,0,1,1,34,29.0,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+26,129,26,2014-02-20,Connecticut,@,Temple,REG (Conf),W 68-55,*,38,3,11,0.273,0,3,0.0,3,8,0.375,0.273,11,11,1.0,2,10,12,7,0,0,4,1,17,15.4,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+27,130,27,2014-02-23,Connecticut,,SMU,REG (Conf),L 55-64,*,37,5,16,0.313,1,3,0.333,4,13,0.308,0.344,4,4,1.0,0,2,2,2,3,1,5,4,15,4.9,H,0,1,shabazz-napier-1,Shabazz Napier,2014
+28,131,28,2014-02-26,Connecticut,@,South Florida,REG (Conf),W 61-56,*,37,6,13,0.462,2,3,0.667,4,10,0.4,0.538,3,3,1.0,0,4,4,7,2,0,1,1,17,17.0,A,1,1,shabazz-napier-1,Shabazz Napier,2014
+29,132,29,2014-03-01,Connecticut,,Cincinnati,REG (Conf),W 51-45,*,37,4,13,0.308,1,5,0.2,3,8,0.375,0.346,9,10,0.9,2,9,11,2,2,0,2,2,18,14.8,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+30,133,30,2014-03-05,Connecticut,,Rutgers,REG (Conf),W 69-63,*,39,8,13,0.615,7,11,0.636,1,2,0.5,0.885,3,4,0.75,0,2,2,4,3,1,1,1,26,25.4,H,1,1,shabazz-napier-1,Shabazz Napier,2014
+31,134,31,2014-03-08,Connecticut,@,Louisville,REG (Conf),L 48-81,*,34,2,13,0.154,1,10,0.1,1,3,0.333,0.192,4,6,0.667,1,8,9,1,0,0,6,0,9,-2.3,A,0,1,shabazz-napier-1,Shabazz Napier,2014
+32,135,32,2014-03-13,Connecticut,N,Memphis,CTOURN,W 72-53,*,35,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,4,0.25,0,7,7,3,1,0,4,3,11,5.1,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+33,136,33,2014-03-14,Connecticut,N,Cincinnati,CTOURN,W 58-56,*,34,5,13,0.385,0,4,0.0,5,9,0.556,0.385,5,7,0.714,2,2,4,2,0,0,3,2,15,6.7,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+34,137,34,2014-03-15,Connecticut,N,Louisville,CTOURN,L 61-71,*,39,4,12,0.333,2,7,0.286,2,5,0.4,0.417,6,7,0.857,2,2,4,3,0,0,1,4,16,10.3,N,0,0,shabazz-napier-1,Shabazz Napier,2014
+35,138,35,2014-03-20,Connecticut,N,Saint Joseph's,ROUND-64,W 89-81 (OT),*,42,7,22,0.318,2,8,0.25,5,14,0.357,0.364,8,8,1.0,1,7,8,6,3,0,4,1,24,17.0,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+36,139,36,2014-03-22,Connecticut,N,Villanova,ROUND-32,W 77-65,*,25,9,13,0.692,4,8,0.5,5,5,1.0,0.846,3,4,0.75,0,5,5,3,2,0,4,3,25,19.5,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+37,140,37,2014-03-28,Connecticut,N,Iowa State,ROUND-16,W 81-76,*,37,5,11,0.455,4,6,0.667,1,5,0.2,0.636,5,6,0.833,1,4,5,5,2,0,5,3,19,14.1,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+38,141,38,2014-03-30,Connecticut,N,Michigan State,ROUND-8,W 60-54,*,37,6,14,0.429,4,9,0.444,2,5,0.4,0.571,9,9,1.0,1,5,6,4,1,0,2,2,25,20.8,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+39,142,39,2014-04-05,Connecticut,N,Florida,NATIONAL-SEMI,W 63-53,*,38,3,6,0.5,2,3,0.667,1,3,0.333,0.667,4,4,1.0,0,3,3,6,4,0,2,0,12,16.1,N,1,0,shabazz-napier-1,Shabazz Napier,2014
+40,143,40,2014-04-07,Connecticut,N,Kentucky,NATIONAL-FINAL,W 60-54,*,39,8,16,0.5,4,9,0.444,4,7,0.571,0.625,2,2,1.0,0,6,6,3,3,0,4,1,22,16.5,N,1,0,shabazz-napier-1,Shabazz Napier,2014

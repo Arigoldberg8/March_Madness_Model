@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2011-11-11,Davidson,,Guilford,REG (Non-Conf),W 111-64,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,5,8,0.625,3,3,6,1,0,0,2,2,7,5.7,H,1,1,clint-mann-1,Clint Mann,2012
+2,53,2,2011-11-14,Davidson,,Richmond,REG (Non-Conf),W 74-61,,19,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,0,1,1,1,1,0,3,1,3,-1.9,H,1,1,clint-mann-1,Clint Mann,2012
+3,54,3,2011-11-18,Davidson,@,Duke,REG (Non-Conf),L 69-82,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,0,0,0,1,5,4,0.7,A,0,1,clint-mann-1,Clint Mann,2012
+4,55,4,2011-11-21,Davidson,,Presbyterian,REG (Non-Conf),W 68-54,,12,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,0,4,4,0,0,0,2,4,5,-0.1,H,1,1,clint-mann-1,Clint Mann,2012
+5,56,5,2011-11-26,Davidson,@,UNC Wilmington,REG (Non-Conf),W 70-67,,16,4,7,0.571,0,0,,4,7,0.571,0.571,0,3,0.0,1,3,4,0,0,0,1,5,8,2.1,A,1,1,clint-mann-1,Clint Mann,2012
+6,57,6,2011-12-01,Davidson,@,Wofford,REG (Conf),W 72-69,,16,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,2,0,2,0,0,0,1,2,6,2.2,A,1,1,clint-mann-1,Clint Mann,2012
+7,58,7,2011-12-03,Davidson,,Furman,REG (Conf),W 86-65,,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,3,3,2,-1.2,H,1,1,clint-mann-1,Clint Mann,2012
+8,59,8,2011-12-07,Davidson,,Vanderbilt,REG (Non-Conf),L 83-87,,13,1,3,0.333,0,0,,1,3,0.333,0.333,1,4,0.25,1,1,2,1,1,0,0,5,3,0.8,H,0,1,clint-mann-1,Clint Mann,2012
+9,60,9,2011-12-10,Davidson,@,Charlotte,REG (Non-Conf),L 61-84,,23,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,1,1,2,0,0,0,0,1,10,8.7,A,0,1,clint-mann-1,Clint Mann,2012
+10,61,10,2011-12-19,Davidson,N,Kansas,REG (Non-Conf),W 80-74,,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,2,0.5,1,2,3,0,0,0,0,3,3,-0.4,N,1,1,clint-mann-1,Clint Mann,2012
+11,62,11,2011-12-22,Davidson,@,Massachusetts,REG (Non-Conf),L 65-73,,22,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,2,4,6,1,0,1,1,1,8,7.6,A,0,1,clint-mann-1,Clint Mann,2012
+12,63,12,2011-12-29,Davidson,,Pennsylvania,REG (Non-Conf),W 75-70,,18,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,1,3,4,1,1,0,5,4,5,0.3,H,1,1,clint-mann-1,Clint Mann,2012
+13,64,13,2012-01-05,Davidson,@,UNC Greensboro,REG (Conf),W 92-63,,22,3,6,0.5,0,0,,3,6,0.5,0.5,4,7,0.571,2,2,4,3,0,0,2,4,10,6.3,A,1,1,clint-mann-1,Clint Mann,2012
+14,65,14,2012-01-07,Davidson,,Georgia Southern,REG (Conf),W 96-74,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,1,3,2,-0.9,H,1,1,clint-mann-1,Clint Mann,2012
+15,66,15,2012-01-12,Davidson,,Western Carolina,REG (Conf),W 88-67,,16,3,4,0.75,0,0,,3,4,0.75,0.75,5,8,0.625,4,0,4,0,0,0,1,3,11,8.8,H,1,1,clint-mann-1,Clint Mann,2012
+16,67,16,2012-01-14,Davidson,@,Appalachian State,REG (Conf),W 83-79,,9,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,0,2,2,1,2,0,1,2,8,7.2,A,1,1,clint-mann-1,Clint Mann,2012
+17,68,19,2012-01-26,Davidson,@,Chattanooga,REG (Conf),W 64-63,,15,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,3,3,1,1,0,1,4,6,3.0,A,1,1,clint-mann-1,Clint Mann,2012
+18,69,20,2012-01-28,Davidson,@,Samford,REG (Conf),L 74-77,,11,0,3,0.0,0,0,,0,3,0.0,0.0,2,3,0.667,1,1,2,1,0,0,0,3,2,0.0,A,0,1,clint-mann-1,Clint Mann,2012
+19,70,21,2012-02-01,Davidson,@,Furman,REG (Conf),W 71-53,,16,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,1,2,0,2,0,2,1,6,3.6,A,1,1,clint-mann-1,Clint Mann,2012
+20,71,22,2012-02-04,Davidson,,Chattanooga,REG (Conf),W 88-61,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,2,3,5,1,3,0,4,1,5,5.3,H,1,1,clint-mann-1,Clint Mann,2012
+21,72,23,2012-02-06,Davidson,,Wofford,REG (Conf),W 76-54,,14,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,1,0,1,0,1,1,0,1,5,2.5,H,1,1,clint-mann-1,Clint Mann,2012
+22,73,24,2012-02-09,Davidson,@,The Citadel,REG (Conf),W 77-66,,16,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,2,2,4,0,1,2,1,4,3,2.0,A,1,1,clint-mann-1,Clint Mann,2012
+23,74,25,2012-02-11,Davidson,@,College of Charleston,REG (Conf),L 78-86,,16,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,4,1,5,0,1,0,0,4,5,5.8,A,0,1,clint-mann-1,Clint Mann,2012
+24,75,26,2012-02-15,Davidson,,Samford,REG (Conf),W 81-54,,17,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,3,4,0,1,0,1,3,8,5.1,H,1,1,clint-mann-1,Clint Mann,2012
+25,76,27,2012-02-18,Davidson,,Wichita State,REG (Non-Conf),L 74-91,,16,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,0,1,1,1,1,0,-1.5,H,0,1,clint-mann-1,Clint Mann,2012
+26,77,28,2012-02-23,Davidson,,Elon,REG (Conf),W 66-45,,19,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,2,4,6,0,1,0,0,2,12,10.1,H,1,1,clint-mann-1,Clint Mann,2012
+27,78,29,2012-02-25,Davidson,@,Georgia Southern,REG (Conf),W 71-54,,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,2,2,4,0,0,0,1,3,2,-1.4,A,1,1,clint-mann-1,Clint Mann,2012
+28,79,30,2012-03-03,Davidson,N,Furman,CTOURN,W 73-54,,11,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,2,1,3,0,0,0,0,3,1,0.4,N,1,0,clint-mann-1,Clint Mann,2012
+29,80,31,2012-03-04,Davidson,N,Elon,CTOURN,W 83-67,,15,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,0,2,1,0,1,0,2,4,4.0,N,1,0,clint-mann-1,Clint Mann,2012
+30,81,32,2012-03-05,Davidson,N,Western Carolina,CTOURN,W 93-91 (2OT),,23,4,4,1.0,0,0,,4,4,1.0,1.0,2,3,0.667,0,1,1,0,0,0,0,0,10,8.7,N,1,0,clint-mann-1,Clint Mann,2012
+31,82,33,2012-03-15,Davidson,N,Louisville,ROUND-64,L 62-69,,21,6,9,0.667,0,0,,6,9,0.667,0.667,1,2,0.5,1,1,2,0,2,3,2,5,13,9.8,N,0,0,clint-mann-1,Clint Mann,2012

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2016-11-12,Kent State,N,Cleveland State,REG (Non-Conf),W 79-74 (OT),*,39,8,16,0.5,0,1,0.0,8,15,0.533,0.5,3,4,0.75,5,13,18,4,0,1,1,4,19,18.9,N,1,1,jimmy-hall-1,Jimmy Hall,2017
+2,71,2,2016-11-16,Kent State,,Mississippi Valley State,REG (Non-Conf),W 93-63,*,28,7,12,0.583,0,0,,7,12,0.583,0.583,9,11,0.818,6,3,9,5,0,1,1,1,23,24.5,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+3,72,3,2016-11-18,Kent State,,Hiram,REG (Non-Conf),W 111-55,*,21,8,12,0.667,0,0,,8,12,0.667,0.667,6,7,0.857,5,4,9,3,1,2,0,2,22,24.8,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+4,73,4,2016-11-21,Kent State,N,South Dakota,REG (Non-Conf),L 77-80,*,31,6,17,0.353,0,0,,6,17,0.353,0.353,2,2,1.0,4,5,9,2,0,3,3,3,14,8.1,N,0,1,jimmy-hall-1,Jimmy Hall,2017
+5,74,5,2016-11-22,Kent State,N,George Mason,REG (Non-Conf),L 75-79,*,36,7,11,0.636,0,1,0.0,7,10,0.7,0.636,6,8,0.75,6,6,12,2,1,2,4,2,20,19.3,N,0,1,jimmy-hall-1,Jimmy Hall,2017
+6,75,6,2016-11-23,Kent State,N,Wofford,REG (Non-Conf),W 66-59,*,30,3,11,0.273,0,1,0.0,3,10,0.3,0.273,5,6,0.833,2,7,9,1,1,0,2,2,11,6.5,N,1,1,jimmy-hall-1,Jimmy Hall,2017
+7,76,7,2016-11-27,Kent State,@,Northeastern,REG (Non-Conf),L 70-73,*,31,11,14,0.786,0,0,,11,14,0.786,0.786,3,6,0.5,0,7,7,2,1,1,3,3,25,19.4,A,0,1,jimmy-hall-1,Jimmy Hall,2017
+8,77,8,2016-12-02,Kent State,,Grambling State,REG (Non-Conf),W 86-57,*,25,6,9,0.667,0,0,,6,9,0.667,0.667,2,3,0.667,3,10,13,3,0,2,2,1,14,15.9,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+9,78,9,2016-12-07,Kent State,,Niagara,REG (Non-Conf),W 100-72,*,19,7,12,0.583,1,1,1.0,6,11,0.545,0.625,5,5,1.0,3,6,9,3,0,1,0,4,20,19.5,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+10,79,10,2016-12-10,Kent State,,NJIT,REG (Non-Conf),W 87-71,*,34,9,14,0.643,0,1,0.0,9,13,0.692,0.643,8,8,1.0,4,6,10,4,0,1,8,2,26,19.1,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+11,80,11,2016-12-18,Kent State,,Wright State,REG (Non-Conf),L 63-68,*,36,3,14,0.214,0,1,0.0,3,13,0.231,0.214,5,8,0.625,4,7,11,2,3,3,1,4,11,10.0,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+12,81,12,2016-12-21,Kent State,@,Oregon State,REG (Non-Conf),L 50-69,*,34,7,22,0.318,0,0,,7,22,0.318,0.318,0,0,,14,5,19,2,3,0,4,2,14,12.3,A,0,1,jimmy-hall-1,Jimmy Hall,2017
+13,82,13,2016-12-27,Kent State,@,Texas,REG (Non-Conf),W 63-58,*,31,5,17,0.294,0,1,0.0,5,16,0.313,0.294,1,2,0.5,5,6,11,3,2,2,5,4,11,4.9,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+14,83,14,2017-01-03,Kent State,,Ball State,REG (Conf),W 100-90,*,36,6,16,0.375,0,1,0.0,6,15,0.4,0.375,8,8,1.0,5,4,9,5,0,0,0,2,20,18.6,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+15,84,15,2017-01-06,Kent State,@,Ohio,REG (Conf),L 67-85,*,25,4,12,0.333,1,2,0.5,3,10,0.3,0.375,2,4,0.5,3,7,10,0,0,0,7,4,11,-1.0,A,0,1,jimmy-hall-1,Jimmy Hall,2017
+16,85,16,2017-01-10,Kent State,,Northern Illinois,REG (Conf),L 70-74 (OT),,31,1,6,0.167,0,0,,1,6,0.167,0.167,5,5,1.0,1,4,5,1,1,0,4,4,7,1.2,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+17,86,17,2017-01-14,Kent State,@,Western Michigan,REG (Conf),L 88-92,*,40,8,11,0.727,0,0,,8,11,0.727,0.727,8,10,0.8,2,8,10,1,1,0,3,2,24,20.4,A,0,1,jimmy-hall-1,Jimmy Hall,2017
+18,87,18,2017-01-17,Kent State,,Buffalo,REG (Conf),L 69-82,*,27,9,13,0.692,0,0,,9,13,0.692,0.692,6,12,0.5,8,8,16,2,1,0,5,3,24,20.3,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+19,88,19,2017-01-21,Kent State,,Toledo,REG (Conf),W 85-61,*,32,12,20,0.6,1,2,0.5,11,18,0.611,0.625,2,3,0.667,3,2,5,3,1,1,1,2,27,22.1,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+20,89,20,2017-01-24,Kent State,@,Northern Illinois,REG (Conf),W 73-66,*,39,8,12,0.667,0,0,,8,12,0.667,0.667,2,4,0.5,4,9,13,1,0,2,3,2,18,15.8,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+21,90,21,2017-01-28,Kent State,,Central Michigan,REG (Conf),L 98-105 (OT),*,38,12,18,0.667,0,1,0.0,12,17,0.706,0.667,4,4,1.0,5,7,12,4,1,0,2,4,28,26.0,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+22,91,22,2017-01-31,Kent State,@,Eastern Michigan,REG (Conf),W 70-64,*,27,9,20,0.45,0,1,0.0,9,19,0.474,0.45,6,8,0.75,9,2,11,2,3,0,4,5,24,18.1,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+23,92,23,2017-02-04,Kent State,@,Miami (OH),REG (Conf),W 66-62,*,31,6,13,0.462,0,0,,6,13,0.462,0.462,0,2,0.0,4,8,12,4,1,3,5,4,12,9.0,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+24,93,24,2017-02-07,Kent State,,Bowling Green,REG (Conf),L 83-84 (OT),*,41,4,10,0.4,0,1,0.0,4,9,0.444,0.4,4,4,1.0,4,7,11,2,1,2,8,1,12,6.9,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+25,94,25,2017-02-11,Kent State,@,Toledo,REG (Conf),L 58-78,*,29,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,2,3,5,1,2,1,3,3,10,7.2,A,0,1,jimmy-hall-1,Jimmy Hall,2017
+26,95,26,2017-02-14,Kent State,,Miami (OH),REG (Conf),W 76-72,,29,10,16,0.625,0,0,,10,16,0.625,0.625,1,2,0.5,2,7,9,4,1,3,4,3,21,17.6,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+27,96,27,2017-02-17,Kent State,@,Akron,REG (Conf),W 70-67,*,37,8,20,0.4,0,0,,8,20,0.4,0.4,2,2,1.0,1,5,6,2,2,0,1,3,18,10.6,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+28,97,28,2017-02-21,Kent State,@,Buffalo,REG (Conf),W 77-69,*,37,9,14,0.643,0,1,0.0,9,13,0.692,0.643,8,8,1.0,3,7,10,2,0,3,4,3,26,22.3,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+29,98,29,2017-02-25,Kent State,,Ohio,REG (Conf),W 70-67,*,36,8,13,0.615,0,0,,8,13,0.615,0.615,4,5,0.8,3,7,10,2,0,2,4,2,20,15.9,H,1,1,jimmy-hall-1,Jimmy Hall,2017
+30,99,30,2017-02-28,Kent State,@,Bowling Green,REG (Conf),W 74-67,*,34,8,11,0.727,0,0,,8,11,0.727,0.727,1,2,0.5,6,9,15,4,1,2,1,5,17,21.2,A,1,1,jimmy-hall-1,Jimmy Hall,2017
+31,100,31,2017-03-03,Kent State,,Akron,REG (Conf),L 56-66,*,33,7,14,0.5,0,1,0.0,7,13,0.538,0.5,2,2,1.0,4,7,11,2,1,1,2,3,16,13.8,H,0,1,jimmy-hall-1,Jimmy Hall,2017
+32,101,32,2017-03-06,Kent State,,Central Michigan,CTOURN,W 116-106 (OT),*,44,14,24,0.583,0,2,0.0,14,22,0.636,0.583,5,6,0.833,4,9,13,6,2,3,0,3,33,34.0,H,1,0,jimmy-hall-1,Jimmy Hall,2017
+33,102,33,2017-03-09,Kent State,N,Buffalo,CTOURN,W 68-65,*,31,6,13,0.462,0,0,,6,13,0.462,0.462,12,14,0.857,4,4,8,1,0,2,2,3,24,19.4,N,1,0,jimmy-hall-1,Jimmy Hall,2017
+34,103,34,2017-03-10,Kent State,N,Ohio,CTOURN,W 68-66,*,38,8,17,0.471,0,0,,8,17,0.471,0.471,6,7,0.857,3,7,10,4,1,2,4,1,22,17.9,N,1,0,jimmy-hall-1,Jimmy Hall,2017
+35,104,35,2017-03-11,Kent State,N,Akron,CTOURN,W 70-65,*,31,9,12,0.75,0,0,,9,12,0.75,0.75,1,3,0.333,1,9,10,3,0,3,2,3,19,17.8,N,1,0,jimmy-hall-1,Jimmy Hall,2017
+36,105,36,2017-03-17,Kent State,N,UCLA,ROUND-64,L 80-97,*,31,9,18,0.5,0,0,,9,18,0.5,0.5,2,3,0.667,5,10,15,0,0,0,1,5,20,14.1,N,0,0,jimmy-hall-1,Jimmy Hall,2017

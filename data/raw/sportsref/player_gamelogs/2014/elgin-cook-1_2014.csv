@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Oregon,N,Georgetown,REG (Non-Conf),W 82-75,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,2,4,0,0,0,1,3,4,2.1,N,1,1,elgin-cook-1,Elgin Cook,2014
+2,2,2,2013-11-13,Oregon,,Western Carolina,REG (Non-Conf),W 107-83,,22,4,5,0.8,0,0,,4,5,0.8,0.8,8,14,0.571,2,2,4,0,1,0,1,4,16,12.1,H,1,1,elgin-cook-1,Elgin Cook,2014
+3,3,3,2013-11-19,Oregon,,Utah Valley,REG (Non-Conf),W 69-54,,16,1,1,1.0,0,0,,1,1,1.0,1.0,1,3,0.333,2,4,6,0,0,2,2,2,3,3.1,H,1,1,elgin-cook-1,Elgin Cook,2014
+4,4,4,2013-11-24,Oregon,,San Francisco,REG (Non-Conf),W 100-82,,26,5,8,0.625,0,0,,5,8,0.625,0.625,8,11,0.727,1,5,6,3,3,0,1,4,18,17.9,H,1,1,elgin-cook-1,Elgin Cook,2014
+5,5,5,2013-11-29,Oregon,,Pacific,REG (Non-Conf),W 85-62,,16,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,0,1,0,0,0,2,1,8,5.1,H,1,1,elgin-cook-1,Elgin Cook,2014
+6,6,6,2013-11-30,Oregon,,North Dakota,REG (Non-Conf),W 91-76,,22,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,5,5,10,0,0,2,2,3,10,10.9,H,1,1,elgin-cook-1,Elgin Cook,2014
+7,7,7,2013-12-01,Oregon,,Cal Poly,REG (Non-Conf),W 82-61,,23,3,7,0.429,0,1,0.0,3,6,0.5,0.429,8,11,0.727,3,1,4,0,1,0,0,3,14,11.3,H,1,1,elgin-cook-1,Elgin Cook,2014
+8,8,8,2013-12-08,Oregon,@,Ole Miss,REG (Non-Conf),W 115-105 (OT),,22,6,8,0.75,0,0,,6,8,0.75,0.75,2,3,0.667,2,0,2,0,3,0,1,4,14,12.2,A,1,1,elgin-cook-1,Elgin Cook,2014
+9,9,9,2013-12-14,Oregon,N,Illinois,REG (Non-Conf),W 71-64,,19,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,2,1,3,1,1,0,2,3,12,10.0,N,1,1,elgin-cook-1,Elgin Cook,2014
+10,10,10,2013-12-17,Oregon,,UC Irvine,REG (Non-Conf),W 91-63,,16,2,7,0.286,1,1,1.0,1,6,0.167,0.357,0,0,,2,2,4,1,0,0,1,3,5,1.4,H,1,1,elgin-cook-1,Elgin Cook,2014
+11,11,11,2013-12-21,Oregon,,Brigham Young,REG (Non-Conf),W 100-96 (OT),,24,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,6,0.167,5,1,6,1,0,2,1,2,7,5.4,H,1,1,elgin-cook-1,Elgin Cook,2014
+12,12,12,2013-12-29,Oregon,,Morgan State,REG (Non-Conf),W 97-76,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,1,2,0,0,1,0,3,2,0.1,H,1,1,elgin-cook-1,Elgin Cook,2014
+13,13,13,2014-01-02,Oregon,@,Utah,REG (Conf),W 70-68 (OT),,30,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,2,0.0,3,3,6,0,0,0,2,0,9,5.2,A,1,1,elgin-cook-1,Elgin Cook,2014
+14,14,14,2014-01-05,Oregon,@,Colorado,REG (Conf),L 91-100,,13,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,5,1,6,0,1,0,1,4,5,5.5,A,0,1,elgin-cook-1,Elgin Cook,2014
+15,15,15,2014-01-09,Oregon,,California,REG (Conf),L 83-96,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,4,5,0,0,0,2,1,2,0.1,H,0,1,elgin-cook-1,Elgin Cook,2014
+16,16,16,2014-01-12,Oregon,,Stanford,REG (Conf),L 80-82,,16,1,1,1.0,0,0,,1,1,1.0,1.0,1,3,0.333,0,1,1,1,0,1,1,3,3,1.4,H,0,1,elgin-cook-1,Elgin Cook,2014
+17,17,17,2014-01-19,Oregon,@,Oregon State,REG (Conf),L 72-80,*,9,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,1,1,0,1,0,0,4,3,1.6,A,0,1,elgin-cook-1,Elgin Cook,2014
+18,18,18,2014-01-23,Oregon,@,Washington,REG (Conf),L 76-80,,17,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,3,2,5,1,0,0,0,3,8,7.6,A,0,1,elgin-cook-1,Elgin Cook,2014
+19,19,19,2014-01-26,Oregon,@,Washington State,REG (Conf),W 71-44,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,1,0,0,0,1,0,1.0,A,1,1,elgin-cook-1,Elgin Cook,2014
+20,20,20,2014-01-30,Oregon,,UCLA,REG (Conf),L 68-70,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,0,2,0,0.5,H,0,1,elgin-cook-1,Elgin Cook,2014
+21,21,21,2014-02-01,Oregon,,Southern California,REG (Conf),W 78-66,,10,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,0,0,0,4,2,0.0,H,1,1,elgin-cook-1,Elgin Cook,2014
+22,22,22,2014-02-06,Oregon,@,Arizona,REG (Conf),L 65-67,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,1,2,0,-0.8,A,0,1,elgin-cook-1,Elgin Cook,2014
+23,23,23,2014-02-08,Oregon,@,Arizona State,REG (Conf),L 72-74,,14,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,3,1,4,0,0,0,0,4,7,4.7,A,0,1,elgin-cook-1,Elgin Cook,2014
+24,24,24,2014-02-16,Oregon,,Oregon State,REG (Conf),W 93-83,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,3,4,0,0,1,0,3,4,4.5,H,1,1,elgin-cook-1,Elgin Cook,2014
+25,25,25,2014-02-19,Oregon,,Washington,REG (Conf),W 78-71,,15,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,3,4,0,2,0,0,1,8,8.9,H,1,1,elgin-cook-1,Elgin Cook,2014
+26,26,26,2014-02-23,Oregon,,Washington State,REG (Conf),W 67-53,,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,1,1,1,0,3,2,1.8,H,1,1,elgin-cook-1,Elgin Cook,2014
+27,27,27,2014-02-27,Oregon,@,UCLA,REG (Conf),W 87-83 (2OT),,19,0,2,0.0,0,0,,0,2,0.0,0.0,7,8,0.875,0,4,4,0,0,1,1,2,7,5.3,A,1,1,elgin-cook-1,Elgin Cook,2014
+28,28,28,2014-03-01,Oregon,@,Southern California,REG (Conf),W 78-63,,21,4,4,1.0,0,0,,4,4,1.0,1.0,4,5,0.8,0,2,2,1,1,1,1,0,12,12.4,A,1,1,elgin-cook-1,Elgin Cook,2014
+29,29,29,2014-03-04,Oregon,,Arizona State,REG (Conf),W 85-78,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,2,3,1,1,0,0,2,4,3.8,H,1,1,elgin-cook-1,Elgin Cook,2014
+30,30,30,2014-03-08,Oregon,,Arizona,REG (Conf),W 64-57,,11,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,2,3,0,0,2,1,1,3,2.9,H,1,1,elgin-cook-1,Elgin Cook,2014
+31,31,31,2014-03-12,Oregon,N,Oregon State,CTOURN,W 88-74,,16,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,1,2,3,0,3,0,1,4,6,5.6,N,1,0,elgin-cook-1,Elgin Cook,2014
+32,32,32,2014-03-13,Oregon,N,UCLA,CTOURN,L 63-82,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,5,5,0,0,1,1,2,2,0.7,N,0,0,elgin-cook-1,Elgin Cook,2014
+33,33,33,2014-03-20,Oregon,N,Brigham Young,ROUND-64,W 87-68,,23,8,9,0.889,0,0,,8,9,0.889,0.889,7,10,0.7,4,4,8,1,0,1,0,3,23,22.9,N,1,0,elgin-cook-1,Elgin Cook,2014
+34,34,34,2014-03-22,Oregon,N,Wisconsin,ROUND-32,L 77-85,,23,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,2,3,1,1,0,3,3,5,2.1,N,0,0,elgin-cook-1,Elgin Cook,2014

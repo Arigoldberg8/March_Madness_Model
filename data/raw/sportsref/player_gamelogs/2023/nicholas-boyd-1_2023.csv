@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,24,1,2022-11-07,Florida Atlantic,,Lynn,REG (Non-Conf),W 81-46,*,24,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,1,0.0,0,3,3,5,1,0,1,1,10,10.3,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+2,25,2,2022-11-11,Florida Atlantic,@,Ole Miss,REG (Non-Conf),L 67-80,*,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,3,4,4,0,0,2,3,3,2.1,A,0,1,nicholas-boyd-1,Nick Boyd,2023
+3,26,3,2022-11-14,Florida Atlantic,@,Florida,REG (Non-Conf),W 76-74,*,20,2,9,0.222,1,2,0.5,1,7,0.143,0.278,0,0,,0,3,3,2,3,0,1,1,5,3.4,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+4,27,4,2022-11-17,Florida Atlantic,,Bryant,REG (Non-Conf),W 85-74,*,4,0,0,,0,0,,0,0,,,0,0,,1,2,3,0,0,0,0,0,0,1.3,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+5,28,6,2022-11-26,Florida Atlantic,@,Albany (NY),REG (Non-Conf),W 73-56,*,31,7,11,0.636,0,4,0.0,7,7,1.0,0.636,2,2,1.0,0,3,3,0,0,0,1,1,16,10.6,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+6,29,7,2022-11-30,Florida Atlantic,,South Alabama,REG (Non-Conf),W 84-59,*,27,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,1,9,10,2,1,0,1,1,11,12.0,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+7,30,8,2022-12-04,Florida Atlantic,@,Eastern Michigan,REG (Non-Conf),W 101-73,*,29,6,10,0.6,1,4,0.25,5,6,0.833,0.65,4,8,0.5,1,6,7,3,0,0,0,1,17,15.0,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+8,31,9,2022-12-07,Florida Atlantic,,Florida Gulf Coast,REG (Non-Conf),W 85-53,*,16,2,4,0.5,2,4,0.5,0,0,,0.75,0,1,0.0,0,2,2,2,0,0,2,5,6,1.6,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+9,32,10,2022-12-14,Florida Atlantic,,St. Thomas (FL),REG (Non-Conf),W 97-74,*,27,6,10,0.6,4,6,0.667,2,4,0.5,0.8,1,1,1.0,0,7,7,4,1,0,1,2,17,16.5,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+10,33,11,2022-12-17,Florida Atlantic,,Florida International,REG (Conf),W 79-53,*,19,3,9,0.333,0,4,0.0,3,5,0.6,0.333,0,0,,1,1,2,3,3,0,0,0,6,7.0,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+11,34,12,2022-12-21,Florida Atlantic,,Northern Kentucky,REG (Non-Conf),W 67-52,*,29,5,9,0.556,5,6,0.833,0,3,0.0,0.833,0,0,,0,7,7,4,1,0,0,1,15,16.2,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+12,35,13,2022-12-29,Florida Atlantic,@,North Texas,REG (Conf),W 50-46,*,16,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,1,2,1,1,0,1,2,3,1.5,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+13,36,14,2023-01-05,Florida Atlantic,,UAB,REG (Conf),W 88-86,*,18,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,0,1,1,1,2,0,1,1,8,3.8,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+14,37,15,2023-01-07,Florida Atlantic,,Charlotte,REG (Conf),W 71-67,*,23,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,3,3,2,0,0,0,3,6,3.0,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+15,38,16,2023-01-11,Florida Atlantic,@,Florida International,REG (Conf),W 77-73 (OT),*,24,4,9,0.444,3,5,0.6,1,4,0.25,0.611,1,2,0.5,1,2,3,2,1,0,1,3,12,8.4,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+16,39,17,2023-01-14,Florida Atlantic,,North Texas,REG (Conf),W 66-62,*,26,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,2,3,5,2,0,0,0,4,8,8.8,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+17,40,18,2023-01-16,Florida Atlantic,@,Western Kentucky,REG (Conf),W 76-62,*,30,6,10,0.6,3,6,0.5,3,4,0.75,0.75,1,3,0.333,3,1,4,4,3,0,2,1,16,16.4,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+18,41,19,2023-01-19,Florida Atlantic,@,UTSA,REG (Conf),W 83-64,*,18,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,2,1.0,0,4,4,2,2,0,1,0,10,10.6,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+19,42,20,2023-01-21,Florida Atlantic,@,UTEP,REG (Conf),W 67-59,*,26,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,5,5,4,1,0,4,2,6,3.4,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+20,43,21,2023-01-26,Florida Atlantic,,Middle Tennessee,REG (Conf),W 85-67,*,24,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,1,4,5,3,1,0,0,0,13,13.0,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+21,44,22,2023-01-28,Florida Atlantic,,Western Kentucky,REG (Conf),W 70-63,*,29,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,4,4,3,0,1,2,4,9,5.0,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+22,45,23,2023-02-02,Florida Atlantic,@,UAB,REG (Conf),L 77-86,*,32,7,13,0.538,4,10,0.4,3,3,1.0,0.692,0,0,,3,4,7,3,1,0,0,4,18,16.5,A,0,1,nicholas-boyd-1,Nick Boyd,2023
+23,46,24,2023-02-04,Florida Atlantic,@,Charlotte,REG (Conf),W 67-52,*,25,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,4,4,3,0,0,1,2,2,0.4,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+24,47,25,2023-02-09,Florida Atlantic,,Rice,REG (Conf),W 90-81,*,28,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,3,3,3,2,0,1,1,7,8.6,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+25,48,26,2023-02-11,Florida Atlantic,,Louisiana Tech,REG (Conf),W 90-85 (OT),*,23,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,5,0,0,1,2,0,0.9,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+26,49,27,2023-02-16,Florida Atlantic,@,Middle Tennessee,REG (Conf),L 70-74,*,18,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,2,0,0,3,1,6,2.0,A,0,1,nicholas-boyd-1,Nick Boyd,2023
+27,50,28,2023-02-23,Florida Atlantic,,UTSA,REG (Conf),W 106-66,*,30,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,1,7,8,2,1,0,2,3,12,10.7,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+28,51,29,2023-02-25,Florida Atlantic,,UTEP,REG (Conf),W 75-49,,24,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,4,4,2,1,0,1,1,6,4.4,H,1,1,nicholas-boyd-1,Nick Boyd,2023
+29,52,30,2023-03-02,Florida Atlantic,@,Rice,REG (Conf),W 103-74,*,24,7,11,0.636,4,8,0.5,3,3,1.0,0.818,3,3,1.0,1,3,4,2,0,0,0,2,21,18.3,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+30,53,31,2023-03-04,Florida Atlantic,@,Louisiana Tech,REG (Conf),W 76-72,*,22,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,1,1,2,1,1,0,1,1,7,4.2,A,1,1,nicholas-boyd-1,Nick Boyd,2023
+31,54,32,2023-03-09,Florida Atlantic,N,Western Kentucky,CTOURN,W 75-51,*,22,5,9,0.556,1,4,0.25,4,5,0.8,0.611,1,2,0.5,3,3,6,1,1,0,3,2,12,8.2,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+32,55,33,2023-03-10,Florida Atlantic,N,Middle Tennessee,CTOURN,W 68-65,*,22,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,2,2,2,0,0,0,3,5,2.4,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+33,56,34,2023-03-11,Florida Atlantic,N,UAB,CTOURN,W 78-56,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,5,7,2,0,0,1,2,6,4.8,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+34,57,35,2023-03-17,Florida Atlantic,N,Memphis,ROUND-64,W 66-65,*,24,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,0,4,4,4,0,0,0,0,8,6.2,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+35,58,36,2023-03-19,Florida Atlantic,N,Fairleigh Dickinson,ROUND-32,W 78-70,*,26,2,8,0.25,1,7,0.143,1,1,1.0,0.313,0,1,0.0,1,4,5,5,0,0,2,2,5,2.4,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+36,59,37,2023-03-23,Florida Atlantic,N,Tennessee,ROUND-16,W 62-55,*,23,5,11,0.455,2,7,0.286,3,4,0.75,0.545,0,0,,2,6,8,2,0,0,2,4,12,7.3,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+37,60,38,2023-03-25,Florida Atlantic,N,Kansas State,ROUND-8,W 79-76,*,21,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,3,0.333,3,4,7,0,1,0,1,2,4,3.3,N,1,0,nicholas-boyd-1,Nick Boyd,2023
+38,61,39,2023-04-01,Florida Atlantic,N,San Diego State,NATIONAL-SEMI,L 71-72,*,28,4,8,0.5,4,7,0.571,0,1,0.0,0.75,0,0,,0,3,3,0,0,0,1,2,12,7.1,N,0,0,nicholas-boyd-1,Nick Boyd,2023

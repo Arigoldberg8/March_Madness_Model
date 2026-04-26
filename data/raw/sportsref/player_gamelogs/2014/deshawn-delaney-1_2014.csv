@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-09,New Mexico,,Alabama A&M,REG (Non-Conf),W 88-52,,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,0,5,5,1,0,2,0,0,4,6.2,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+2,2,2,2013-11-17,New Mexico,,Charleston Southern,REG (Non-Conf),W 109-93,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,0,2,2,0,1,0,0,2,3,2.0,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+3,3,3,2013-11-21,New Mexico,N,UAB,REG (Non-Conf),W 97-94 (2OT),,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,0,1,0,1,2,2,0.1,N,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+4,4,4,2013-11-22,New Mexico,N,Massachusetts,REG (Non-Conf),L 65-81,,15,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,0,2,0,0,0,6,7.4,N,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+5,5,5,2013-11-24,New Mexico,N,Davidson,REG (Non-Conf),W 79-58,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,0,3,3,0,0,2,1,2,2,0.0,N,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+6,6,6,2013-11-30,New Mexico,,San Diego,REG (Non-Conf),W 73-66,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+7,7,7,2013-12-04,New Mexico,@,New Mexico State,REG (Non-Conf),W 79-70,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,0,2,2.0,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+8,8,8,2013-12-07,New Mexico,,Cincinnati,REG (Non-Conf),W 63-54,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,1,2,1,0,0,0,0,2,2.3,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+9,9,9,2013-12-14,New Mexico,N,Kansas,REG (Non-Conf),L 63-80,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,1,0,0,0,0.3,N,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+10,10,10,2013-12-17,New Mexico,,New Mexico State,REG (Non-Conf),L 61-67,,20,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,0,0,0,0,2,2,0.1,H,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+11,11,11,2013-12-21,New Mexico,N,Marquette,REG (Non-Conf),W 75-68,*,32,4,10,0.4,0,3,0.0,4,7,0.571,0.4,2,4,0.5,3,7,10,3,2,1,1,2,10,11.0,N,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+12,12,12,2013-12-23,New Mexico,,Grand Canyon,REG (Non-Conf),W 80-68,*,23,3,5,0.6,0,2,0.0,3,3,1.0,0.6,1,2,0.5,0,2,2,2,1,2,0,2,7,7.9,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+13,13,13,2014-01-04,New Mexico,,Colorado State,REG (Conf),W 80-73,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,3,2,5,1,0,0,0,3,2,2.5,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+14,14,14,2014-01-08,New Mexico,@,Wyoming,REG (Conf),W 72-69 (OT),*,18,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,1,3,4,2,0,0,1,0,8,8.4,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+15,15,15,2014-01-11,New Mexico,@,San Jose State,REG (Conf),W 69-65,*,25,4,6,0.667,3,4,0.75,1,2,0.5,0.917,1,2,0.5,0,3,3,1,3,0,0,0,12,13.6,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+16,16,16,2014-01-15,New Mexico,,UNLV,REG (Conf),L 73-76,*,25,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,2,0,2,2,0,0,0,4,10,7.5,H,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+17,17,17,2014-01-18,New Mexico,@,Fresno State,REG (Conf),W 89-78,*,26,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,1,4,5,4,0,0,1,3,3,3.4,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+18,18,18,2014-01-21,New Mexico,,Boise State,REG (Conf),W 84-75,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,2,4,0.5,0,9,9,1,1,0,2,4,2,1.3,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+19,19,19,2014-01-25,New Mexico,@,Colorado State,REG (Conf),W 68-66,*,21,0,0,,0,0,,0,0,,,0,0,,1,4,5,3,0,0,1,4,0,1.4,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+20,20,20,2014-01-28,New Mexico,@,Utah State,REG (Conf),W 78-65,*,26,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,2,1,3,1,1,0,0,0,12,11.1,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+21,21,21,2014-02-01,New Mexico,,San Jose State,REG (Conf),W 72-47,*,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,2,2,4,4,1,0,0,1,7,10.4,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+22,22,22,2014-02-05,New Mexico,,Wyoming,REG (Conf),W 66-61 (OT),*,30,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,5,5,4,1,0,0,1,2,5.2,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+23,23,23,2014-02-12,New Mexico,@,Boise State,REG (Conf),L 70-71,*,29,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,1,2,3,4,0,0,0,2,9,11.4,A,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+24,24,24,2014-02-15,New Mexico,,Nevada,REG (Conf),W 90-72,*,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,2,0,0,3,0,2,0.6,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+25,25,25,2014-02-19,New Mexico,@,UNLV,REG (Conf),W 68-56,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,4,6,0,0,0,0,3,3,3.0,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+26,26,26,2014-02-22,New Mexico,,San Diego State,REG (Conf),W 58-44,*,26,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,0,2,4,3,0,1,2,2,7.1,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+27,27,27,2014-02-25,New Mexico,,Utah State,REG (Conf),W 67-58,*,20,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,2,4,0,1,1,0,0,6,6.7,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+28,28,28,2014-03-02,New Mexico,@,Nevada,REG (Conf),W 72-58,*,20,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,2,2,4,1,0,0,2,0,6,3.7,A,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+29,29,29,2014-03-05,New Mexico,,Air Force,REG (Conf),W 80-52,,19,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,4,5,9,1,2,0,1,0,8,10.7,H,1,1,deshawn-delaney-1,Deshawn Delaney,2014
+30,30,30,2014-03-08,New Mexico,@,San Diego State,REG (Conf),L 48-51,*,20,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,4,4,1,0,0,2,2,5,2.1,A,0,1,deshawn-delaney-1,Deshawn Delaney,2014
+31,31,31,2014-03-13,New Mexico,N,Fresno State,CTOURN,W 93-77,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,5,6,0.833,0,4,4,2,2,0,3,2,9,8.8,N,1,0,deshawn-delaney-1,Deshawn Delaney,2014
+32,32,32,2014-03-14,New Mexico,N,Boise State,CTOURN,W 70-67,*,31,7,12,0.583,0,3,0.0,7,9,0.778,0.583,0,0,,2,5,7,4,0,0,0,4,14,12.5,N,1,0,deshawn-delaney-1,Deshawn Delaney,2014
+33,33,33,2014-03-15,New Mexico,N,San Diego State,CTOURN,W 64-58,*,25,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,2,0.0,3,2,5,1,0,0,2,3,7,4.1,N,1,0,deshawn-delaney-1,Deshawn Delaney,2014
+34,34,34,2014-03-21,New Mexico,N,Stanford,ROUND-64,L 53-58,*,34,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,4,0.75,0,6,6,3,1,0,1,1,10,10.1,N,0,0,deshawn-delaney-1,Deshawn Delaney,2014

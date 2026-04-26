@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2025-11-07,Pennsylvania,,Rowan,REG (Non-Conf),W 119-72,,15,2,5,0.4,1,2,0.5,1,3,0.333,0.5,5,6,0.833,0,1,1,4,1,0,1,3,10,8.8,H,1,1,cam-thrower-1,Cam Thrower,2026
+2,38,2,2025-11-09,Pennsylvania,@,American,REG (Non-Conf),L 78-84,,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,7,7,1.0,0,1,1,1,0,0,4,1,16,9.3,A,0,1,cam-thrower-1,Cam Thrower,2026
+3,39,3,2025-11-11,Pennsylvania,@,Providence,REG (Non-Conf),L 81-106,,15,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,0,1,1,2,1,0,2,0,5,2.6,A,0,1,cam-thrower-1,Cam Thrower,2026
+4,40,4,2025-11-17,Pennsylvania,,Saint Joseph's,REG (Non-Conf),W 83-74,,27,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,1,2,3,2,0,0,2,2,9,5.6,H,1,1,cam-thrower-1,Cam Thrower,2026
+5,41,5,2025-11-21,Pennsylvania,@,Drexel,REG (Non-Conf),W 84-68,,9,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,1,0,8,6.1,A,1,1,cam-thrower-1,Cam Thrower,2026
+6,42,6,2025-11-28,Pennsylvania,,Merrimack,REG (Non-Conf),W 77-65,,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,1,1,1,3,2.3,H,1,1,cam-thrower-1,Cam Thrower,2026
+7,43,7,2025-11-29,Pennsylvania,,La Salle,REG (Non-Conf),W 73-71,,12,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,2,1,1,1,3,4.0,H,1,1,cam-thrower-1,Cam Thrower,2026
+8,44,8,2025-11-30,Pennsylvania,,Hofstra,REG (Non-Conf),L 60-77,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,0,1,0,1,0,2,1,2,-1.1,H,0,1,cam-thrower-1,Cam Thrower,2026
+9,45,9,2025-12-06,Pennsylvania,N,Villanova,REG (Non-Conf),L 63-90,,21,4,8,0.5,3,3,1.0,1,5,0.2,0.688,0,0,,1,0,1,2,0,0,2,1,11,6.7,N,0,1,cam-thrower-1,Cam Thrower,2026
+10,46,10,2025-12-08,Pennsylvania,,Lafayette,REG (Non-Conf),W 74-72,*,23,2,9,0.222,1,2,0.5,1,7,0.143,0.278,1,2,0.5,2,1,3,4,1,0,0,2,6,4.8,H,1,1,cam-thrower-1,Cam Thrower,2026
+11,47,11,2025-12-20,Pennsylvania,@,Rutgers,REG (Non-Conf),L 69-70,*,26,2,9,0.222,1,6,0.167,1,3,0.333,0.278,6,6,1.0,1,4,5,3,0,0,3,2,11,5.7,A,0,1,cam-thrower-1,Cam Thrower,2026
+12,48,12,2025-12-28,Pennsylvania,@,George Mason,REG (Non-Conf),L 79-83,*,37,4,15,0.267,2,7,0.286,2,8,0.25,0.333,4,5,0.8,1,5,6,5,1,1,1,1,14,10.7,A,0,1,cam-thrower-1,Cam Thrower,2026
+13,49,14,2026-01-05,Pennsylvania,@,Princeton,REG (Conf),L 76-78,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,0,2,0.6,A,0,1,cam-thrower-1,Cam Thrower,2026
+14,50,15,2026-01-10,Pennsylvania,,Brown,REG (Conf),W 81-73,,21,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,2,2,1,1,0,0,2,7,6.2,H,1,1,cam-thrower-1,Cam Thrower,2026
+15,51,16,2026-01-17,Pennsylvania,@,Dartmouth,REG (Conf),W 84-74,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,2,1,0,-3.8,A,1,1,cam-thrower-1,Cam Thrower,2026
+16,52,17,2026-01-19,Pennsylvania,@,Harvard,REG (Conf),L 63-64,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,2,1,0,0,1,3,4.6,A,0,1,cam-thrower-1,Cam Thrower,2026
+17,53,18,2026-01-24,Pennsylvania,,Yale,REG (Conf),L 60-77,,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.2,H,0,1,cam-thrower-1,Cam Thrower,2026
+18,54,21,2026-02-07,Pennsylvania,,Princeton,REG (Conf),W 61-60,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,H,1,1,cam-thrower-1,Cam Thrower,2026
+19,55,22,2026-02-13,Pennsylvania,,Columbia,REG (Conf),W 76-67,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,cam-thrower-1,Cam Thrower,2026
+20,56,23,2026-02-14,Pennsylvania,,Cornell,REG (Conf),W 82-76,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,cam-thrower-1,Cam Thrower,2026
+21,57,24,2026-02-21,Pennsylvania,@,Yale,REG (Conf),L 70-74,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,0,1,cam-thrower-1,Cam Thrower,2026
+22,58,25,2026-02-27,Pennsylvania,,Dartmouth,REG (Conf),W 80-71,,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,1,1,0,1,0,0,0,5,3.9,H,1,1,cam-thrower-1,Cam Thrower,2026
+23,59,26,2026-02-28,Pennsylvania,,Harvard,REG (Conf),W 64-61,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,2,1,0,3,1,3,0.9,H,1,1,cam-thrower-1,Cam Thrower,2026
+24,60,27,2026-03-06,Pennsylvania,@,Brown,REG (Conf),W 82-61,,4,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,0,1,1,2,0,0,0,1,3.3,A,1,1,cam-thrower-1,Cam Thrower,2026
+25,61,28,2026-03-14,Pennsylvania,N,Harvard,CTOURN,W 62-60 (OT),*,27,4,12,0.333,2,4,0.5,2,8,0.25,0.417,1,1,1.0,0,0,0,1,0,0,0,0,11,4.9,N,1,0,cam-thrower-1,Cam Thrower,2026
+26,62,29,2026-03-15,Pennsylvania,N,Yale,CTOURN,W 88-84 (OT),*,29,6,10,0.6,4,6,0.667,2,4,0.5,0.8,3,3,1.0,1,3,4,1,0,0,1,2,19,14.9,N,1,0,cam-thrower-1,Cam Thrower,2026

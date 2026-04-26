@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2022-11-07,Indiana,,Morehead State,REG (Non-Conf),W 88-53,,23,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,0,2,2,2,2,0,0,1,9,10.0,H,1,1,tamar-bates-1,Tamar Bates,2023
+2,34,2,2022-11-10,Indiana,,Bethune-Cookman,REG (Non-Conf),W 101-49,,23,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,4,1,0,2,2,5,3.9,H,1,1,tamar-bates-1,Tamar Bates,2023
+3,35,3,2022-11-18,Indiana,@,Xavier,REG (Non-Conf),W 81-79,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,3,0,-1.9,A,1,1,tamar-bates-1,Tamar Bates,2023
+4,36,4,2022-11-20,Indiana,N,Miami (OH),REG (Non-Conf),W 86-56,,25,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,1,0,1,1,1,0,2,2,7,3.2,N,1,1,tamar-bates-1,Tamar Bates,2023
+5,37,5,2022-11-23,Indiana,,Little Rock,REG (Non-Conf),W 87-68,,24,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,4,1.0,0,1,1,1,0,0,0,1,8,6.6,H,1,1,tamar-bates-1,Tamar Bates,2023
+6,38,6,2022-11-25,Indiana,,Jackson State,REG (Non-Conf),W 90-51,,24,8,11,0.727,4,6,0.667,4,5,0.8,0.909,2,2,1.0,1,1,2,4,0,0,0,1,22,20.9,H,1,1,tamar-bates-1,Tamar Bates,2023
+7,39,7,2022-11-30,Indiana,,North Carolina,REG (Non-Conf),W 77-65,,12,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,1,2,3,0.9,H,1,1,tamar-bates-1,Tamar Bates,2023
+8,40,8,2022-12-03,Indiana,@,Rutgers,REG (Conf),L 48-63,,17,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,4,4,1,0,0,0,1,2,-1.0,A,0,1,tamar-bates-1,Tamar Bates,2023
+9,41,9,2022-12-07,Indiana,,Nebraska,REG (Conf),W 81-65,,24,7,12,0.583,5,8,0.625,2,4,0.5,0.792,0,0,,1,3,4,2,0,1,0,0,19,17.1,H,1,1,tamar-bates-1,Tamar Bates,2023
+10,42,10,2022-12-10,Indiana,N,Arizona,REG (Non-Conf),L 75-89,,29,6,10,0.6,1,3,0.333,5,7,0.714,0.65,0,0,,1,1,2,1,1,0,2,3,13,7.9,N,0,1,tamar-bates-1,Tamar Bates,2023
+11,43,11,2022-12-17,Indiana,@,Kansas,REG (Non-Conf),L 62-84,,21,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,3,3,1,1,0,3,3,5,-1.4,A,0,1,tamar-bates-1,Tamar Bates,2023
+12,44,12,2022-12-20,Indiana,,Elon,REG (Non-Conf),W 96-72,,22,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,4,4,1,2,0,1,4,8,8.4,H,1,1,tamar-bates-1,Tamar Bates,2023
+13,45,13,2022-12-23,Indiana,,Kennesaw State,REG (Non-Conf),W 69-55,,31,7,12,0.583,3,7,0.429,4,5,0.8,0.708,2,2,1.0,0,2,2,2,0,0,1,3,19,13.2,H,1,1,tamar-bates-1,Tamar Bates,2023
+14,46,14,2023-01-05,Indiana,@,Iowa,REG (Conf),L 89-91,*,34,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,0,1,1,4,0,0,1,2,8,4.2,A,0,1,tamar-bates-1,Tamar Bates,2023
+15,47,15,2023-01-08,Indiana,,Northwestern,REG (Conf),L 83-84,*,26,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,3,0.667,1,1,2,1,0,1,1,4,9,4.0,H,0,1,tamar-bates-1,Tamar Bates,2023
+16,48,16,2023-01-11,Indiana,@,Penn State,REG (Conf),L 66-85,,23,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,2,1.0,1,1,2,1,0,0,0,0,11,8.0,A,0,1,tamar-bates-1,Tamar Bates,2023
+17,49,17,2023-01-14,Indiana,,Wisconsin,REG (Conf),W 63-45,,22,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-3.3,H,1,1,tamar-bates-1,Tamar Bates,2023
+18,50,18,2023-01-19,Indiana,@,Illinois,REG (Conf),W 80-65,,22,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,1,1,0,-2.6,A,1,1,tamar-bates-1,Tamar Bates,2023
+19,51,19,2023-01-22,Indiana,,Michigan State,REG (Conf),W 82-69,,27,5,8,0.625,5,6,0.833,0,2,0.0,0.938,2,2,1.0,0,3,3,0,1,0,0,0,17,15.3,H,1,1,tamar-bates-1,Tamar Bates,2023
+20,52,20,2023-01-25,Indiana,@,Minnesota,REG (Conf),W 61-57,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,0,2,0,-2.0,A,1,1,tamar-bates-1,Tamar Bates,2023
+21,53,21,2023-01-28,Indiana,,Ohio State,REG (Conf),W 86-70,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,2,0,0,1,3,7,3.8,H,1,1,tamar-bates-1,Tamar Bates,2023
+22,54,22,2023-01-31,Indiana,@,Maryland,REG (Conf),L 55-66,,25,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,0,1,2,0,0,1,3,2,-1.2,A,0,1,tamar-bates-1,Tamar Bates,2023
+23,55,23,2023-02-04,Indiana,,Purdue,REG (Conf),W 79-74,,19,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,1,1,0,1,2,3,1.2,H,1,1,tamar-bates-1,Tamar Bates,2023
+24,56,24,2023-02-07,Indiana,,Rutgers,REG (Conf),W 66-60,,9,1,1,1.0,1,1,1.0,0,0,,1.5,3,3,1.0,0,0,0,1,0,0,0,1,6,6.0,H,1,1,tamar-bates-1,Tamar Bates,2023
+25,57,25,2023-02-11,Indiana,@,Michigan,REG (Conf),W 62-61,,17,0,5,0.0,0,0,,0,5,0.0,0.0,0,0,,0,0,0,1,0,0,1,1,0,-4.2,A,1,1,tamar-bates-1,Tamar Bates,2023
+26,58,26,2023-02-15,Indiana,@,Northwestern,REG (Conf),L 62-64,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,1,0,-2.2,A,0,1,tamar-bates-1,Tamar Bates,2023
+27,59,27,2023-02-18,Indiana,,Illinois,REG (Conf),W 71-68,,17,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,1,0,1,1,1,0,1,0,4,1.6,H,1,1,tamar-bates-1,Tamar Bates,2023
+28,60,28,2023-02-21,Indiana,@,Michigan State,REG (Conf),L 65-80,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,0,0,-0.7,A,0,1,tamar-bates-1,Tamar Bates,2023
+29,61,29,2023-02-25,Indiana,@,Purdue,REG (Conf),W 79-71,,11,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,tamar-bates-1,Tamar Bates,2023
+30,62,30,2023-02-28,Indiana,,Iowa,REG (Conf),L 68-90,,14,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,0,0,1,1,2,0.6,H,0,1,tamar-bates-1,Tamar Bates,2023
+31,63,31,2023-03-05,Indiana,,Michigan,REG (Conf),W 75-73 (OT),,23,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,1,1,0,1,0,0,2,6,2.4,H,1,1,tamar-bates-1,Tamar Bates,2023
+32,64,32,2023-03-10,Indiana,N,Maryland,CTOURN,W 70-60,,18,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,1,0,0,2,5,3.9,N,1,0,tamar-bates-1,Tamar Bates,2023
+33,65,33,2023-03-11,Indiana,N,Penn State,CTOURN,L 73-77,,24,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,1,0.0,0,0,0,3,0,0,0,4,14,8.1,N,0,0,tamar-bates-1,Tamar Bates,2023
+34,66,34,2023-03-17,Indiana,N,Kent State,ROUND-64,W 71-60,,20,0,6,0.0,0,2,0.0,0,4,0.0,0.0,0,0,,0,2,2,0,1,0,0,1,0,-3.0,N,1,0,tamar-bates-1,Tamar Bates,2023
+35,67,35,2023-03-19,Indiana,N,Miami (FL),ROUND-32,L 69-85,,20,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,1,3,4,1,1,0,1,1,0,-3.0,N,0,0,tamar-bates-1,Tamar Bates,2023

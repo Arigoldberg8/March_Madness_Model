@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,59,1,2025-11-03,North Dakota State,@,Oregon State,REG (Non-Conf),L 65-67,*,28,7,10,0.7,0,0,,7,10,0.7,0.7,3,6,0.5,1,1,2,1,0,1,0,4,17,12.4,A,0,1,markhi-strickland-1,Markhi Strickland,2026
+2,60,2,2025-11-05,North Dakota State,@,UC Davis,REG (Non-Conf),L 68-80,*,29,7,13,0.538,0,0,,7,13,0.538,0.538,3,4,0.75,2,4,6,1,0,1,3,2,17,10.5,A,0,1,markhi-strickland-1,Markhi Strickland,2026
+3,61,3,2025-11-11,North Dakota State,,Cal State Northridge,REG (Non-Conf),W 90-68,*,17,7,9,0.778,0,0,,7,9,0.778,0.778,0,0,,1,1,2,0,2,1,2,4,14,10.6,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+4,62,4,2025-11-12,North Dakota State,,St. Scholastica,REG (Non-Conf),W 111-38,*,12,7,7,1.0,0,0,,7,7,1.0,1.0,1,1,1.0,1,1,2,1,0,0,0,1,15,14.2,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+5,63,5,2025-11-17,North Dakota State,,Southern Illinois,REG (Non-Conf),W 92-85,*,26,5,10,0.5,0,0,,5,10,0.5,0.5,5,8,0.625,1,1,2,0,4,0,1,1,15,12.4,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+6,64,6,2025-11-19,North Dakota State,,Jamestown,REG (Non-Conf),W 82-67,*,28,9,14,0.643,0,0,,9,14,0.643,0.643,4,8,0.5,3,2,5,0,0,0,2,2,22,14.1,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+7,65,7,2025-11-26,North Dakota State,N,Jacksonville State,REG (Non-Conf),W 56-43,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,2,4,0.5,0,3,3,0,0,1,1,4,8,3.2,N,1,1,markhi-strickland-1,Markhi Strickland,2026
+8,66,8,2025-11-28,North Dakota State,@,Arkansas State,REG (Non-Conf),L 80-85 (OT),*,20,2,6,0.333,0,0,,2,6,0.333,0.333,2,5,0.4,4,3,7,0,1,1,0,5,6,4.8,A,0,1,markhi-strickland-1,Markhi Strickland,2026
+9,67,9,2025-12-03,North Dakota State,@,Montana,REG (Non-Conf),W 81-72,,32,7,11,0.636,0,0,,7,11,0.636,0.636,2,2,1.0,1,6,7,1,1,0,1,1,16,13.9,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+10,68,10,2025-12-06,North Dakota State,,Northern Arizona,REG (Non-Conf),W 69-68,*,28,7,10,0.7,0,0,,7,10,0.7,0.7,2,3,0.667,2,3,5,1,0,0,3,1,16,11.0,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+11,69,11,2025-12-11,North Dakota State,@,Cal State Bakersfield,REG (Non-Conf),W 80-69,*,29,6,11,0.545,0,0,,6,11,0.545,0.545,3,6,0.5,3,2,5,0,2,1,1,3,15,11.7,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+12,70,12,2025-12-13,North Dakota State,@,Drake,REG (Non-Conf),W 99-94,*,24,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,0,4,4,1,1,0,1,4,9,4.9,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+13,71,13,2025-12-15,North Dakota State,,Minn.-Crookston,REG (Non-Conf),W 101-67,,14,9,10,0.9,0,0,,9,10,0.9,0.9,1,1,1.0,0,1,1,1,1,0,0,1,19,17.2,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+14,72,14,2025-12-21,North Dakota State,N,UC Irvine,REG (Non-Conf),L 73-74,*,25,7,10,0.7,0,0,,7,10,0.7,0.7,0,5,0.0,4,3,7,3,1,0,4,4,14,9.0,N,0,1,markhi-strickland-1,Markhi Strickland,2026
+15,73,15,2025-12-22,North Dakota State,@,UTEP,REG (Non-Conf),L 66-76,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,0,1,0.0,0,1,1,3,0,0,4,0,10,4.4,A,0,1,markhi-strickland-1,Markhi Strickland,2026
+16,74,16,2025-12-31,North Dakota State,,South Dakota,REG (Conf),W 84-61,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,0,3,0.0,3,2,5,2,1,0,4,3,12,8.2,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+17,75,17,2026-01-03,North Dakota State,,Oral Roberts,REG (Conf),W 79-77 (2OT),*,32,6,11,0.545,0,0,,6,11,0.545,0.545,3,6,0.5,3,2,5,1,1,0,1,0,15,11.9,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+18,76,18,2026-01-08,North Dakota State,@,Kansas City,REG (Conf),W 97-73,*,22,4,7,0.571,0,0,,4,7,0.571,0.571,4,4,1.0,1,2,3,3,1,0,1,2,12,11.3,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+19,77,19,2026-01-10,North Dakota State,@,Omaha,REG (Conf),W 78-76,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,2,1,0,0,4,6,4.8,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+20,78,20,2026-01-14,North Dakota State,,South Dakota State,REG (Conf),W 76-65,*,32,6,9,0.667,0,0,,6,9,0.667,0.667,0,1,0.0,0,5,5,2,0,0,1,1,12,9.2,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+21,79,21,2026-01-17,North Dakota State,,St. Thomas,REG (Conf),W 68-65,*,21,4,10,0.4,0,0,,4,10,0.4,0.4,0,0,,1,0,1,2,1,0,2,4,8,2.1,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+22,80,22,2026-01-22,North Dakota State,@,Denver,REG (Conf),W 82-77,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,1,3,0.333,0,1,1,1,1,0,2,1,13,8.6,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+23,81,23,2026-01-24,North Dakota State,@,Oral Roberts,REG (Conf),W 86-58,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,2,2,4,1,1,0,2,1,8,5.3,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+24,82,24,2026-01-31,North Dakota State,@,South Dakota,REG (Conf),W 89-84 (OT),*,37,7,18,0.389,0,1,0.0,7,17,0.412,0.389,1,3,0.333,2,2,4,2,2,1,3,2,15,6.7,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+25,83,25,2026-02-05,North Dakota State,,Denver,REG (Conf),L 71-78,*,33,9,16,0.563,0,0,,9,16,0.563,0.563,1,3,0.333,3,3,6,3,0,0,0,3,19,14.5,H,0,1,markhi-strickland-1,Markhi Strickland,2026
+26,84,26,2026-02-07,North Dakota State,,Omaha,REG (Conf),W 92-84,*,21,6,10,0.6,0,0,,6,10,0.6,0.6,2,3,0.667,1,1,2,0,0,0,0,1,14,9.6,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+27,85,27,2026-02-14,North Dakota State,@,North Dakota,REG (Conf),W 83-66,*,23,7,8,0.875,0,0,,7,8,0.875,0.875,2,2,1.0,0,3,3,2,0,0,2,1,16,13.1,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+28,86,28,2026-02-18,North Dakota State,@,South Dakota State,REG (Conf),W 74-66,*,20,3,6,0.5,0,0,,3,6,0.5,0.5,1,4,0.25,0,1,1,0,1,0,1,3,7,1.9,A,1,1,markhi-strickland-1,Markhi Strickland,2026
+29,87,29,2026-02-21,North Dakota State,,Kansas City,REG (Conf),W 95-59,*,18,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,3,2,0,1,0,4,5.4,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+30,88,30,2026-02-26,North Dakota State,@,St. Thomas,REG (Conf),L 62-84,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,2,1,3,2,1,0,1,2,2,1.1,A,0,1,markhi-strickland-1,Markhi Strickland,2026
+31,89,31,2026-02-28,North Dakota State,,North Dakota,REG (Conf),W 96-63,*,23,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,5,6,2,1,0,0,3,4,6.1,H,1,1,markhi-strickland-1,Markhi Strickland,2026
+32,90,32,2026-03-05,North Dakota State,N,Oral Roberts,CTOURN,W 76-65,*,18,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,0,0,0,0,1,0,0,2,8,3.5,N,1,0,markhi-strickland-1,Markhi Strickland,2026
+33,91,33,2026-03-07,North Dakota State,N,Omaha,CTOURN,W 74-50,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,1,3,4,2,0,0,1,1,5,3.5,N,1,0,markhi-strickland-1,Markhi Strickland,2026
+34,92,34,2026-03-08,North Dakota State,N,North Dakota,CTOURN,W 70-62,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,1,2,3,1,0,0,0,1,7,6.2,N,1,0,markhi-strickland-1,Markhi Strickland,2026

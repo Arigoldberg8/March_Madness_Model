@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,78,1,2010-11-12,UC Santa Barbara,N,Denver,REG (Non-Conf),W 65-49,*,26,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,3,3,2,1,0,1,2,3,3.5,N,1,1,jon-pastorek-1,Jon Pastorek,2011
+2,79,2,2010-11-13,UC Santa Barbara,N,North Dakota State,REG (Non-Conf),L 60-68,,16,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,4,3,7,0,0,0,0,1,6,5.6,N,0,1,jon-pastorek-1,Jon Pastorek,2011
+3,80,3,2010-11-14,UC Santa Barbara,@,Oregon,REG (Non-Conf),L 70-72,,15,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,3,3,1,0,0,1,1,0,-1.9,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+4,81,4,2010-11-20,UC Santa Barbara,,Fresno State,REG (Non-Conf),W 69-54,*,26,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,3,3,2,2,0,1,3,6,6.8,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+5,82,5,2010-11-27,UC Santa Barbara,@,Portland,REG (Non-Conf),L 63-75,*,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,1,0,1,2,0,-0.9,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+6,83,6,2010-12-01,UC Santa Barbara,,Loyola Marymount,REG (Non-Conf),W 77-67,,13,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,3,3,0,1,0,0,0,4,5.6,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+7,84,7,2010-12-04,UC Santa Barbara,@,Santa Clara,REG (Non-Conf),W 80-69,,20,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,4,1,5,0,1,0,2,3,4,0.8,A,1,1,jon-pastorek-1,Jon Pastorek,2011
+8,85,8,2010-12-15,UC Santa Barbara,@,UNLV,REG (Non-Conf),W 68-62,,10,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,1,0,4,0,3,0.0,A,1,1,jon-pastorek-1,Jon Pastorek,2011
+9,86,9,2010-12-18,UC Santa Barbara,@,San Diego State,REG (Non-Conf),L 64-90,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,1,3,2,0,0,1,1,2,1.3,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+10,87,10,2010-12-21,UC Santa Barbara,,Cal Baptist,REG (Non-Conf),W 76-52,,20,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,1,1,3,1,0,0,0,7,8.1,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+11,88,11,2010-12-28,UC Santa Barbara,,Long Beach State,REG (Conf),L 55-71,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,4,2,6,4,2,0,2,1,5,10.2,H,0,1,jon-pastorek-1,Jon Pastorek,2011
+12,89,12,2010-12-31,UC Santa Barbara,,Fresno Pacific,REG (Non-Conf),W 75-67 (OT),,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,3,4,0.75,1,3,4,4,1,0,0,2,10,10.5,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+13,90,13,2011-01-06,UC Santa Barbara,@,UC Davis,REG (Conf),W 77-65,,15,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,2,3,2,0,0,2,2,3,2.2,A,1,1,jon-pastorek-1,Jon Pastorek,2011
+14,91,14,2011-01-08,UC Santa Barbara,@,Pacific,REG (Conf),L 54-57,,24,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,1,1.0,1,2,3,1,0,1,4,2,10,6.0,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+15,92,15,2011-01-13,UC Santa Barbara,,UC Irvine,REG (Conf),W 71-58,*,29,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,4,6,10,5,0,0,2,1,2,6.7,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+16,93,16,2011-01-15,UC Santa Barbara,,UC Riverside,REG (Conf),W 64-57,*,28,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,3,3,2,0,3,2,3,3,2.8,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+17,94,17,2011-01-22,UC Santa Barbara,@,Cal State Fullerton,REG (Conf),L 58-63,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,0,0,1,7,2,3,-5.2,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+18,95,18,2011-01-27,UC Santa Barbara,@,Cal Poly,REG (Conf),W 71-70,,23,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,5,2,7,2,1,0,0,1,8,11.8,A,1,1,jon-pastorek-1,Jon Pastorek,2011
+19,96,19,2011-01-29,UC Santa Barbara,,Cal State Northridge,REG (Conf),L 69-70,,24,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,3,5,8,1,1,0,0,1,7,10.2,H,0,1,jon-pastorek-1,Jon Pastorek,2011
+20,97,20,2011-02-03,UC Santa Barbara,,Pacific,REG (Conf),L 68-74,*,32,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,0,,2,3,5,4,1,0,2,3,12,12.4,H,0,1,jon-pastorek-1,Jon Pastorek,2011
+21,98,21,2011-02-05,UC Santa Barbara,,UC Davis,REG (Conf),W 93-86 (OT),*,25,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,1,3,0,0,2,2,2,7,4.6,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+22,99,22,2011-02-10,UC Santa Barbara,@,UC Riverside,REG (Conf),W 59-47,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,0,0,4,4,2,-3.0,A,1,1,jon-pastorek-1,Jon Pastorek,2011
+23,100,23,2011-02-12,UC Santa Barbara,@,UC Irvine,REG (Conf),L 63-66,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,2,3,5,1,0,1,2,1,7,6.3,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+24,101,24,2011-02-16,UC Santa Barbara,,Cal State Fullerton,REG (Conf),W 86-71,,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,2,1,0,-2.8,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+25,102,25,2011-02-19,UC Santa Barbara,,Boise State,REG (Non-Conf),L 76-78 (OT),,19,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,1,2,0,1,0,1,2,4,2.5,H,0,1,jon-pastorek-1,Jon Pastorek,2011
+26,103,26,2011-02-24,UC Santa Barbara,@,Cal State Northridge,REG (Conf),L 60-68,,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,0,1,0,0,0,0,2,2,-1.2,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+27,104,27,2011-02-26,UC Santa Barbara,@,Long Beach State,REG (Conf),L 53-71,,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,2,4,0,4,0,1,3,4,5.8,A,0,1,jon-pastorek-1,Jon Pastorek,2011
+28,105,28,2011-03-05,UC Santa Barbara,,Cal Poly,REG (Conf),W 49-43,,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,5,7,0,0,4,1,1,4,6.3,H,1,1,jon-pastorek-1,Jon Pastorek,2011
+29,106,29,2011-03-10,UC Santa Barbara,N,Pacific,CTOURN,W 79-67,*,22,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,1,0,0,1,3,4,2.2,N,1,0,jon-pastorek-1,Jon Pastorek,2011
+30,107,30,2011-03-11,UC Santa Barbara,N,Cal State Northridge,CTOURN,W 83-63,*,27,0,0,,0,0,,0,0,,,0,0,,1,7,8,0,1,0,0,1,0,3.4,N,1,0,jon-pastorek-1,Jon Pastorek,2011
+31,108,31,2011-03-12,UC Santa Barbara,N,Long Beach State,CTOURN,W 64-56,*,35,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,11,12,3,0,0,0,3,5,8.6,N,1,0,jon-pastorek-1,Jon Pastorek,2011
+32,109,32,2011-03-17,UC Santa Barbara,N,Florida,ROUND-64,L 51-79,*,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,1,3,1,1,0,4,0,4,2.1,N,0,0,jon-pastorek-1,Jon Pastorek,2011

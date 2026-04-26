@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2016-11-11,Northwestern,,Mississippi Valley State,REG (Non-Conf),W 94-63,*,29,6,13,0.462,3,6,0.5,3,7,0.429,0.577,2,2,1.0,0,5,5,2,0,1,1,2,17,12.1,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+2,64,2,2016-11-14,Northwestern,,Eastern Washington,REG (Non-Conf),W 86-72,*,33,4,11,0.364,0,2,0.0,4,9,0.444,0.364,4,4,1.0,1,5,6,6,2,0,1,2,12,12.5,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+3,65,3,2016-11-16,Northwestern,@,Butler,REG (Non-Conf),L 68-70,*,32,4,12,0.333,1,4,0.25,3,8,0.375,0.375,1,1,1.0,0,7,7,3,0,0,3,1,10,4.0,A,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+4,66,4,2016-11-21,Northwestern,N,Texas,REG (Non-Conf),W 77-58,*,29,6,12,0.5,3,7,0.429,3,5,0.6,0.625,1,1,1.0,0,4,4,1,2,0,4,0,16,9.9,N,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+5,67,5,2016-11-22,Northwestern,N,Notre Dame,REG (Non-Conf),L 66-70,*,28,6,8,0.75,3,3,1.0,3,5,0.6,0.938,2,3,0.667,2,2,4,3,1,0,2,3,17,15.3,N,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+6,68,6,2016-11-25,Northwestern,,Bryant,REG (Non-Conf),W 86-66,*,25,7,11,0.636,3,5,0.6,4,6,0.667,0.773,3,3,1.0,2,2,4,6,2,2,0,3,20,23.5,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+7,69,7,2016-11-28,Northwestern,,Wake Forest,REG (Non-Conf),W 65-58,*,31,5,14,0.357,2,8,0.25,3,6,0.5,0.429,0,0,,0,4,4,4,1,0,0,3,12,8.0,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+8,70,8,2016-12-03,Northwestern,,DePaul,REG (Non-Conf),W 80-64,*,34,7,16,0.438,5,8,0.625,2,8,0.25,0.594,0,0,,1,5,6,7,2,0,2,1,19,17.3,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+9,71,9,2016-12-11,Northwestern,,New Orleans,REG (Non-Conf),W 83-49,*,32,6,9,0.667,2,4,0.5,4,5,0.8,0.778,2,2,1.0,0,1,1,1,0,0,2,2,16,10.3,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+10,72,10,2016-12-14,Northwestern,,Chicago State,REG (Non-Conf),W 68-64,*,31,6,12,0.5,1,5,0.2,5,7,0.714,0.542,0,1,0.0,2,4,6,4,1,1,1,4,13,11.1,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+11,73,11,2016-12-17,Northwestern,N,Dayton,REG (Non-Conf),W 67-64,*,30,3,7,0.429,2,4,0.5,1,3,0.333,0.571,3,4,0.75,0,4,4,0,2,0,3,2,11,6.3,N,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+12,74,12,2016-12-20,Northwestern,,IUPUI,REG (Non-Conf),W 87-65,*,27,4,11,0.364,0,3,0.0,4,8,0.5,0.364,3,3,1.0,0,0,0,3,0,0,0,3,11,5.8,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+13,75,13,2016-12-22,Northwestern,,Houston Baptist,REG (Non-Conf),W 72-63,*,35,7,22,0.318,2,10,0.2,5,12,0.417,0.364,3,3,1.0,1,4,5,1,1,0,1,1,19,8.6,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+14,76,14,2016-12-27,Northwestern,@,Penn State,REG (Conf),W 87-77,*,35,9,14,0.643,5,8,0.625,4,6,0.667,0.821,8,9,0.889,0,5,5,2,1,1,2,4,31,25.4,A,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+15,77,15,2016-12-30,Northwestern,@,Michigan State,REG (Conf),L 52-61,*,36,3,11,0.273,3,6,0.5,0,5,0.0,0.409,2,2,1.0,0,3,3,0,2,0,3,1,11,4.0,A,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+16,78,16,2017-01-05,Northwestern,,Minnesota,REG (Conf),L 66-70,*,30,4,12,0.333,0,5,0.0,4,7,0.571,0.333,2,2,1.0,0,2,2,4,2,0,0,3,10,7.4,H,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+17,79,17,2017-01-08,Northwestern,@,Nebraska,REG (Conf),W 74-66,*,33,6,12,0.5,2,7,0.286,4,5,0.8,0.583,5,5,1.0,1,2,3,1,2,0,2,2,19,14.2,A,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+18,80,18,2017-01-12,Northwestern,@,Rutgers,REG (Conf),W 69-60,*,32,5,14,0.357,1,7,0.143,4,7,0.571,0.393,3,5,0.6,0,7,7,1,1,0,1,3,14,7.0,A,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+19,81,19,2017-01-15,Northwestern,,Iowa,REG (Conf),W 89-54,*,33,8,15,0.533,3,7,0.429,5,8,0.625,0.633,3,3,1.0,1,7,8,5,3,0,1,2,22,22.2,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+20,82,20,2017-01-22,Northwestern,@,Ohio State,REG (Conf),W 74-72,*,35,7,14,0.5,3,9,0.333,4,5,0.8,0.607,4,6,0.667,0,2,2,0,1,0,1,3,21,12.6,A,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+21,83,21,2017-01-26,Northwestern,,Nebraska,REG (Conf),W 73-61,*,30,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,1,3,4,1,0,1,2,5,5,-0.8,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+22,84,22,2017-01-29,Northwestern,,Indiana,REG (Conf),W 68-55,*,28,6,14,0.429,0,4,0.0,6,10,0.6,0.429,0,0,,1,3,4,1,0,0,1,4,12,4.3,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+23,85,27,2017-02-18,Northwestern,,Rutgers,REG (Conf),W 69-65,*,24,2,8,0.25,1,6,0.167,1,2,0.5,0.313,1,2,0.5,0,1,1,4,0,0,1,4,6,1.3,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+24,86,28,2017-02-21,Northwestern,@,Illinois,REG (Conf),L 50-66,*,26,1,11,0.091,0,4,0.0,1,7,0.143,0.091,0,0,,0,2,2,0,0,0,0,2,2,-5.5,A,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+25,87,29,2017-02-25,Northwestern,@,Indiana,REG (Conf),L 62-63,*,34,6,15,0.4,1,6,0.167,5,9,0.556,0.433,0,0,,0,3,3,0,2,0,1,1,13,6.4,A,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+26,88,30,2017-03-01,Northwestern,,Michigan,REG (Conf),W 67-65,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,5,0.8,0,3,3,3,0,0,1,1,9,6.8,H,1,1,scottie-lindsey-1,Scottie Lindsey,2017
+27,89,31,2017-03-05,Northwestern,,Purdue,REG (Conf),L 65-69,*,26,3,11,0.273,2,6,0.333,1,5,0.2,0.364,0,0,,1,3,4,1,1,1,2,3,8,2.3,H,0,1,scottie-lindsey-1,Scottie Lindsey,2017
+28,90,32,2017-03-09,Northwestern,N,Rutgers,CTOURN,W 83-61,*,27,6,12,0.5,2,7,0.286,4,5,0.8,0.583,2,2,1.0,2,2,4,4,0,0,2,0,16,12.8,N,1,0,scottie-lindsey-1,Scottie Lindsey,2017
+29,91,33,2017-03-10,Northwestern,N,Maryland,CTOURN,W 72-64,*,31,7,12,0.583,2,6,0.333,5,6,0.833,0.667,1,2,0.5,0,2,2,1,1,0,1,2,17,11.5,N,1,0,scottie-lindsey-1,Scottie Lindsey,2017
+30,92,34,2017-03-11,Northwestern,N,Wisconsin,CTOURN,L 48-76,*,29,5,10,0.5,1,4,0.25,4,6,0.667,0.55,5,6,0.833,0,1,1,0,0,0,2,1,16,8.5,N,0,0,scottie-lindsey-1,Scottie Lindsey,2017
+31,93,35,2017-03-16,Northwestern,N,Vanderbilt,ROUND-64,W 68-66,*,31,6,14,0.429,2,5,0.4,4,9,0.444,0.5,0,0,,0,5,5,2,1,0,1,1,14,9.1,N,1,0,scottie-lindsey-1,Scottie Lindsey,2017
+32,94,36,2017-03-18,Northwestern,N,Gonzaga,ROUND-32,L 73-79,*,28,4,13,0.308,1,7,0.143,3,6,0.5,0.346,3,4,0.75,1,2,3,2,1,1,1,4,12,5.9,N,0,0,scottie-lindsey-1,Scottie Lindsey,2017

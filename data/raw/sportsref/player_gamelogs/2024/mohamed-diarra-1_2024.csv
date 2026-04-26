@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2023-11-06,NC State,,The Citadel,REG (Non-Conf),W 72-59,*,27,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,0,,2,12,14,1,0,3,0,1,10,12.0,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+2,27,2,2023-11-10,NC State,,Abilene Christian,REG (Non-Conf),W 84-64,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,5,7,0.714,4,7,11,0,0,0,1,3,9,9.6,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+3,28,3,2023-11-17,NC State,,Charleston Southern,REG (Non-Conf),W 87-53,*,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,3,0.667,2,3,5,0,0,1,0,2,6,5.1,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+4,29,4,2023-11-23,NC State,N,Vanderbilt,REG (Non-Conf),W 84-78,*,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,0,0,0,0,2,2,0.2,N,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+5,30,5,2023-11-24,NC State,N,Brigham Young,REG (Non-Conf),L 86-95,*,13,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,N,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+6,31,6,2023-11-28,NC State,@,Ole Miss,REG (Non-Conf),L 52-72,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+7,32,7,2023-12-02,NC State,@,Boston College,REG (Conf),W 84-78 (OT),,34,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,1,1.0,3,15,18,0,0,2,1,1,8,10.2,A,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+8,33,8,2023-12-06,NC State,,Maryland Eastern Shore,REG (Non-Conf),W 93-61,,15,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,1,4,5,0,2,1,1,1,8,8.1,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+9,34,10,2023-12-16,NC State,N,Tennessee,REG (Non-Conf),L 70-79,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+10,35,11,2023-12-20,NC State,,Saint Louis,REG (Non-Conf),W 82-70,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+11,36,12,2023-12-23,NC State,,Detroit Mercy,REG (Non-Conf),W 83-66,,1,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,0,0,0,0,0,0,2,2,-0.2,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+12,37,13,2024-01-03,NC State,@,Notre Dame,REG (Conf),W 54-52,,12,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,1,5,6,0,0,1,0,0,4,6.2,A,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+13,38,14,2024-01-06,NC State,,Virginia,REG (Conf),W 76-60,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,0,0,0,0.6,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+14,39,15,2024-01-10,NC State,,North Carolina,REG (Conf),L 54-67,,13,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,1,1,2,0,1,0,0,4,7,4.7,H,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+15,40,16,2024-01-13,NC State,@,Louisville,REG (Conf),W 89-83,,18,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,3,8,11,1,1,1,1,4,7,7.9,A,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+16,41,17,2024-01-16,NC State,,Wake Forest,REG (Conf),W 83-76,,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,4,0.5,4,9,13,0,2,0,2,2,8,10.3,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+17,42,18,2024-01-20,NC State,,Virginia Tech,REG (Conf),L 78-84,,21,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,3,5,8,0,1,0,2,5,6,3.6,H,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+18,43,19,2024-01-24,NC State,@,Virginia,REG (Conf),L 53-59 (OT),,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,8,8,0,1,0,0,1,4,5.0,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+19,44,20,2024-01-27,NC State,@,Syracuse,REG (Conf),L 65-77,*,13,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,0,5,5,1,1,0,0,3,3,2.6,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+20,45,21,2024-01-30,NC State,,Miami (FL),REG (Conf),W 74-68,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,4,5,0,0,0,0,1,2,2.5,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+21,46,22,2024-02-03,NC State,,Georgia Tech,REG (Conf),W 82-76,,13,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,1,0.0,0,5,5,0,0,1,0,1,2,1.0,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+22,47,23,2024-02-07,NC State,,Pittsburgh,REG (Conf),L 64-67,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,2,2,4,0,1,1,1,0,4,4.0,H,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+23,48,24,2024-02-10,NC State,@,Wake Forest,REG (Conf),L 79-83,,33,5,5,1.0,2,2,1.0,3,3,1.0,1.2,1,2,0.5,4,8,12,3,1,0,1,1,13,18.0,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+24,49,25,2024-02-17,NC State,@,Clemson,REG (Conf),W 78-77,*,34,3,6,0.5,3,3,1.0,0,3,0.0,0.75,2,4,0.5,4,5,9,0,3,2,1,1,11,14.5,A,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+25,50,26,2024-02-20,NC State,,Syracuse,REG (Conf),L 83-87,*,26,3,6,0.5,0,3,0.0,3,3,1.0,0.5,1,1,1.0,2,6,8,1,0,2,1,0,7,8.3,H,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+26,51,27,2024-02-24,NC State,,Boston College,REG (Conf),W 81-70,*,30,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,4,0.5,3,7,10,0,2,3,0,1,8,12.4,H,1,1,mohamed-diarra-1,Mohamed Diarra,2024
+27,52,28,2024-02-27,NC State,@,Florida State,REG (Conf),L 83-90,*,35,6,10,0.6,1,3,0.333,5,7,0.714,0.65,0,1,0.0,4,5,9,0,0,0,3,2,13,8.5,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+28,53,29,2024-03-02,NC State,@,North Carolina,REG (Conf),L 70-79,*,33,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,0,8,8,0,0,1,0,1,4,3.9,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+29,54,30,2024-03-04,NC State,,Duke,REG (Conf),L 64-79,*,38,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,2,0.5,1,6,7,0,1,3,0,2,10,10.4,H,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+30,55,31,2024-03-09,NC State,@,Pittsburgh,REG (Conf),L 73-81,,28,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,2,7,9,1,0,1,1,2,5,7.1,A,0,1,mohamed-diarra-1,Mohamed Diarra,2024
+31,56,32,2024-03-12,NC State,N,Louisville,CTOURN,W 94-85,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,4,4,2,0,2,0,0,4,7.4,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+32,57,33,2024-03-13,NC State,N,Syracuse,CTOURN,W 83-65,*,32,2,7,0.286,0,2,0.0,2,5,0.4,0.286,4,4,1.0,7,7,14,6,2,1,2,1,8,15.4,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+33,58,34,2024-03-14,NC State,N,Duke,CTOURN,W 74-69,*,37,5,9,0.556,1,4,0.25,4,5,0.8,0.611,3,7,0.429,4,12,16,2,3,4,2,2,14,18.9,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+34,59,35,2024-03-15,NC State,N,Virginia,CTOURN,W 73-65 (OT),*,38,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,0,,3,9,12,1,0,1,1,2,9,7.3,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+35,60,36,2024-03-16,NC State,N,North Carolina,CTOURN,W 84-76,*,31,3,5,0.6,1,1,1.0,2,4,0.5,0.7,4,4,1.0,1,13,14,0,3,3,3,3,11,14.2,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+36,61,37,2024-03-21,NC State,N,Texas Tech,ROUND-64,W 80-67,*,39,6,9,0.667,1,2,0.5,5,7,0.714,0.722,4,5,0.8,4,8,12,1,0,2,0,0,17,20.0,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+37,62,38,2024-03-23,NC State,N,Oakland,ROUND-32,W 79-73 (OT),*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,1,12,13,2,1,3,1,5,11,12.5,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+38,63,39,2024-03-29,NC State,N,Marquette,ROUND-16,W 67-58,*,35,4,6,0.667,0,2,0.0,4,4,1.0,0.667,3,4,0.75,2,13,15,1,1,1,0,3,11,14.5,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+39,64,40,2024-03-31,NC State,N,Duke,ROUND-8,W 76-64,*,23,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,2,0.5,1,6,7,1,0,0,0,4,3,0.4,N,1,0,mohamed-diarra-1,Mohamed Diarra,2024
+40,65,41,2024-04-06,NC State,N,Purdue,NATIONAL-SEMI,L 50-63,*,26,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,5,5,0,1,1,0,2,2,2.0,N,0,0,mohamed-diarra-1,Mohamed Diarra,2024

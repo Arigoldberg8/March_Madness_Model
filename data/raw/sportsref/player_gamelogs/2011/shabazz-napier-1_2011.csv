@@ -1,0 +1,42 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Connecticut,,Stony Brook,REG (Non-Conf),W 79-52,,23,4,9,0.444,4,6,0.667,0,3,0.0,0.667,0,0,,0,1,1,3,1,0,0,4,12,9.1,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+2,2,2,2010-11-17,Connecticut,,Vermont,REG (Non-Conf),W 89-73,,24,3,10,0.3,0,4,0.0,3,6,0.5,0.3,1,2,0.5,0,2,2,2,5,0,3,0,7,4.8,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+3,3,3,2010-11-22,Connecticut,N,Wichita State,REG (Non-Conf),W 83-79,,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,6,10,0.6,0,3,3,1,3,0,3,4,10,5.0,N,1,1,shabazz-napier-1,Shabazz Napier,2011
+4,4,4,2010-11-23,Connecticut,N,Michigan State,REG (Non-Conf),W 70-67,,28,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,4,0.5,0,0,0,1,0,0,2,4,7,-2.2,N,1,1,shabazz-napier-1,Shabazz Napier,2011
+5,5,5,2010-11-24,Connecticut,N,Kentucky,REG (Non-Conf),W 84-67,,21,3,7,0.429,1,3,0.333,2,4,0.5,0.5,5,5,1.0,1,0,1,4,2,0,2,0,12,11.8,N,1,1,shabazz-napier-1,Shabazz Napier,2011
+6,6,6,2010-11-30,Connecticut,,New Hampshire,REG (Non-Conf),W 62-55,,27,4,10,0.4,1,3,0.333,3,7,0.429,0.45,2,2,1.0,0,0,0,0,3,0,3,1,11,5.2,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+7,7,7,2010-12-03,Connecticut,,UMBC,REG (Non-Conf),W 94-61,,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,3,4,0.75,0,3,3,4,1,0,0,1,6,7.5,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+8,8,8,2010-12-08,Connecticut,,Fairleigh Dickinson,REG (Non-Conf),W 78-54,,22,4,11,0.364,2,7,0.286,2,4,0.5,0.455,0,0,,4,1,5,5,2,0,2,0,10,10.5,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+9,9,9,2010-12-20,Connecticut,,Coppin State,REG (Non-Conf),W 76-64,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,2,0,0,2,3,2,-0.3,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+10,10,10,2010-12-22,Connecticut,,Harvard,REG (Non-Conf),W 81-52,,19,3,7,0.429,2,3,0.667,1,4,0.25,0.571,1,1,1.0,0,2,2,6,4,0,1,0,9,13.1,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+11,11,11,2010-12-27,Connecticut,@,Pittsburgh,REG (Conf),L 63-78,,28,2,8,0.25,2,6,0.333,0,2,0.0,0.375,1,2,0.5,1,1,2,2,0,0,0,3,7,3.0,A,0,1,shabazz-napier-1,Shabazz Napier,2011
+12,12,12,2010-12-31,Connecticut,,South Florida,REG (Conf),W 66-61 (OT),,32,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,3,0.667,3,3,6,2,2,0,3,2,9,8.2,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+13,13,13,2011-01-04,Connecticut,@,Notre Dame,REG (Conf),L 70-73,,28,4,6,0.667,3,4,0.75,1,2,0.5,0.917,7,7,1.0,1,1,2,5,1,1,3,3,18,17.4,A,0,1,shabazz-napier-1,Shabazz Napier,2011
+14,14,14,2011-01-08,Connecticut,@,Texas,REG (Non-Conf),W 82-81 (OT),,26,6,10,0.6,3,5,0.6,3,5,0.6,0.75,0,0,,1,0,1,3,1,0,2,2,15,11.4,A,1,1,shabazz-napier-1,Shabazz Napier,2011
+15,15,15,2011-01-11,Connecticut,,Rutgers,REG (Conf),W 67-53,,26,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,1,2,7,3,0,3,2,4,7.1,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+16,16,16,2011-01-15,Connecticut,@,DePaul,REG (Conf),W 82-62,,13,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,6,0,0,0,0,3,5.5,A,1,1,shabazz-napier-1,Shabazz Napier,2011
+17,17,17,2011-01-17,Connecticut,,Villanova,REG (Conf),W 61-59,,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,1,1,0,0,3,2,1.1,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+18,18,18,2011-01-22,Connecticut,,Tennessee,REG (Non-Conf),W 72-61,,21,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,1,2,3,4,0,0,3,2,4,0.5,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+19,19,19,2011-01-25,Connecticut,@,Marquette,REG (Conf),W 76-68,,25,3,7,0.429,1,5,0.2,2,2,1.0,0.5,4,4,1.0,0,6,6,4,3,0,1,0,11,13.9,A,1,1,shabazz-napier-1,Shabazz Napier,2011
+20,20,20,2011-01-29,Connecticut,,Louisville,REG (Conf),L 78-79 (2OT),,37,8,16,0.5,5,11,0.455,3,5,0.6,0.656,2,6,0.333,1,2,3,3,2,0,4,2,23,14.0,H,0,1,shabazz-napier-1,Shabazz Napier,2011
+21,21,21,2011-02-02,Connecticut,,Syracuse,REG (Conf),L 58-66,,20,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,0,2,2,3,0,0,0,1,7,6.9,H,0,1,shabazz-napier-1,Shabazz Napier,2011
+22,22,22,2011-02-05,Connecticut,@,Seton Hall,REG (Conf),W 61-59,,30,2,9,0.222,0,2,0.0,2,7,0.286,0.222,3,4,0.75,1,5,6,3,5,0,2,1,7,8.0,A,1,1,shabazz-napier-1,Shabazz Napier,2011
+23,23,23,2011-02-10,Connecticut,@,St. John's (NY),REG (Conf),L 72-89,,18,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,3,0.667,1,1,2,1,1,0,0,0,8,6.2,A,0,1,shabazz-napier-1,Shabazz Napier,2011
+24,24,24,2011-02-13,Connecticut,,Providence,REG (Conf),W 75-57,,22,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,1,1,3,1,0,4,4,8,2.8,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+25,25,25,2011-02-16,Connecticut,,Georgetown,REG (Conf),W 78-70,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,1,0,-0.1,H,1,1,shabazz-napier-1,Shabazz Napier,2011
+26,26,26,2011-02-18,Connecticut,@,Louisville,REG (Conf),L 58-71,,23,1,7,0.143,1,5,0.2,0,2,0.0,0.214,1,2,0.5,0,2,2,2,2,0,3,2,4,-0.7,A,0,1,shabazz-napier-1,Shabazz Napier,2011
+27,27,27,2011-02-24,Connecticut,,Marquette,REG (Conf),L 67-74 (OT),,11,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,1,2,3,0,0,3,2,0,-3.5,H,0,1,shabazz-napier-1,Shabazz Napier,2011
+28,28,28,2011-02-27,Connecticut,@,Cincinnati,REG (Conf),W 67-59,,26,3,8,0.375,2,4,0.5,1,4,0.25,0.5,3,4,0.75,1,0,1,6,2,0,2,0,11,11.1,A,1,1,shabazz-napier-1,Shabazz Napier,2011
+29,29,29,2011-03-02,Connecticut,@,West Virginia,REG (Conf),L 56-65,,34,7,15,0.467,1,7,0.143,6,8,0.75,0.5,3,3,1.0,1,3,4,3,3,1,3,4,18,13.1,A,0,1,shabazz-napier-1,Shabazz Napier,2011
+30,30,30,2011-03-05,Connecticut,,Notre Dame,REG (Conf),L 67-70,,27,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,2,2,3,1,0,0,2,9,8.6,H,0,1,shabazz-napier-1,Shabazz Napier,2011
+31,31,31,2011-03-08,Connecticut,N,DePaul,CTOURN,W 97-71,,27,3,4,0.75,0,1,0.0,3,3,1.0,0.75,5,6,0.833,0,2,2,8,4,0,3,2,11,15.4,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+32,32,32,2011-03-09,Connecticut,N,Georgetown,CTOURN,W 79-62,,20,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,1,1,2,1,3,0,3,2,7,6.6,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+33,33,33,2011-03-10,Connecticut,N,Pittsburgh,CTOURN,W 76-74,,30,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,2,1.0,1,3,4,2,1,1,1,1,10,9.6,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+34,34,34,2011-03-11,Connecticut,N,Syracuse,CTOURN,W 76-71 (OT),,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,1,0.0,0,0,0,0,0,0,2,0,3,-1.8,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+35,35,35,2011-03-12,Connecticut,N,Louisville,CTOURN,W 69-66,,25,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,3,3,1,3,0,3,1,5,2.4,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+36,36,36,2011-03-17,Connecticut,N,Bucknell,ROUND-64,W 81-52,,21,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,1,1,2,1,0,2,3,7,2.1,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+37,37,37,2011-03-19,Connecticut,N,Cincinnati,ROUND-32,W 69-58,,29,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,3,2,5,4,0,1,0,1,3,6.7,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+38,38,38,2011-03-24,Connecticut,N,San Diego State,ROUND-16,W 74-67,,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,3,3,6,1,0,1,2,2,3.2,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+39,39,39,2011-03-26,Connecticut,N,Arizona,ROUND-8,W 65-63,,30,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,1,3,4,2,2,1,0,3,10,11.5,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+40,40,40,2011-04-02,Connecticut,N,Kentucky,NATIONAL-SEMI,W 56-55,,27,1,7,0.143,0,4,0.0,1,3,0.333,0.143,2,2,1.0,0,2,2,4,0,0,3,3,4,-1.3,N,1,0,shabazz-napier-1,Shabazz Napier,2011
+41,41,41,2011-04-04,Connecticut,N,Butler,NATIONAL-FINAL,W 53-41,,27,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,0,4,4,2,2,0,3,1,4,1.4,N,1,0,shabazz-napier-1,Shabazz Napier,2011

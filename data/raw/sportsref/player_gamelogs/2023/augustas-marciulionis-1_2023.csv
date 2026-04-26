@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2022-11-07,St. Mary's (CA),,Oral Roberts,REG (Non-Conf),W 78-70,*,14,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,3,1.0,0,1,1,0,0,0,2,1,7,2.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+2,36,2,2022-11-10,St. Mary's (CA),,Vermont,REG (Non-Conf),W 79-53,*,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,5,8,0.625,1,1,2,1,2,1,0,3,9,8.3,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+3,37,3,2022-11-13,St. Mary's (CA),,North Texas,REG (Non-Conf),W 63-33,*,22,4,8,0.5,0,3,0.0,4,5,0.8,0.5,1,1,1.0,0,2,2,4,1,1,3,0,9,7.1,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+4,38,4,2022-11-16,St. Mary's (CA),,Southern,REG (Non-Conf),W 72-54,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,3,0,3,3,1,0,2,3,0,0.2,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+5,39,5,2022-11-19,St. Mary's (CA),,Hofstra,REG (Non-Conf),W 76-48,*,23,6,9,0.667,2,3,0.667,4,6,0.667,0.778,0,0,,0,1,1,4,0,0,2,1,14,10.8,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+6,40,6,2022-11-24,St. Mary's (CA),N,Vanderbilt,REG (Non-Conf),W 75-65,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,2,2,0,1,1,2,3.0,N,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+7,41,7,2022-11-25,St. Mary's (CA),N,Washington,REG (Non-Conf),L 64-68 (OT),*,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,3,1,0,1,1,0,-0.4,N,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+8,42,8,2022-11-30,St. Mary's (CA),,New Mexico,REG (Non-Conf),L 65-69,*,21,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,1,1,1,0,1,0,3,7,3.8,H,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+9,43,9,2022-12-03,St. Mary's (CA),N,Houston,REG (Non-Conf),L 48-53,*,11,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,2,0,-1.1,N,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+10,44,10,2022-12-07,St. Mary's (CA),,Missouri State,REG (Non-Conf),W 66-46,,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,1,1.0,0,1,1,2,0,0,1,1,8,5.3,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+11,45,11,2022-12-10,St. Mary's (CA),N,San Diego State,REG (Non-Conf),W 68-61,,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,1,0.0,0,0,0,1,0,0,0,2,3,0.8,N,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+12,46,12,2022-12-14,St. Mary's (CA),,New Mexico State,REG (Non-Conf),W 81-68,,19,2,6,0.333,0,3,0.0,2,3,0.667,0.333,4,4,1.0,0,6,6,3,0,0,1,4,8,5.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+13,47,13,2022-12-18,St. Mary's (CA),,Colorado State,REG (Non-Conf),L 60-62,,9,2,5,0.4,0,0,,2,5,0.4,0.4,0,1,0.0,1,0,1,1,0,0,1,0,4,1.3,H,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+14,48,14,2022-12-21,St. Mary's (CA),N,Wyoming,REG (Non-Conf),W 66-54,,8,0,2,0.0,0,2,0.0,0,0,,0.0,4,5,0.8,0,0,0,1,0,0,1,1,4,1.5,N,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+15,49,15,2022-12-29,St. Mary's (CA),,San Diego,REG (Conf),W 85-58,,24,3,8,0.375,0,3,0.0,3,5,0.6,0.375,3,4,0.75,0,1,1,0,2,0,1,2,9,4.7,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+16,50,16,2022-12-31,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-64,,11,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,0,0,0,0,0,0,0,1,8,4.2,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+17,51,17,2023-01-03,St. Mary's (CA),,Academy of Art,REG (Non-Conf),W 84-64,,15,1,3,0.333,0,0,,1,3,0.333,0.333,6,6,1.0,1,0,1,2,1,1,3,4,8,5.5,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+18,52,18,2023-01-07,St. Mary's (CA),,Portland,REG (Conf),W 85-43,,21,3,7,0.429,3,5,0.6,0,2,0.0,0.643,2,2,1.0,0,3,3,1,0,0,1,0,11,7.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+19,53,19,2023-01-12,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 76-62,,11,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,1,1,1,1,0,1,2,2,0.8,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+20,54,20,2023-01-14,St. Mary's (CA),@,San Francisco,REG (Conf),W 78-61,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,2,0.0,0,0,0,3,0,0,0,1,3,2.9,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+21,55,21,2023-01-19,St. Mary's (CA),@,Pepperdine,REG (Conf),W 73-44,,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,3,3,7,0,0,0,1,6,9.1,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+22,56,22,2023-01-21,St. Mary's (CA),,Santa Clara,REG (Conf),W 77-58,,18,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,0,0,2,1,0,0,1,4,3.3,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+23,57,23,2023-01-28,St. Mary's (CA),@,Brigham Young,REG (Conf),W 57-56,,12,3,7,0.429,1,3,0.333,2,4,0.5,0.5,3,3,1.0,0,0,0,0,0,0,1,4,10,3.7,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+24,58,24,2023-02-02,St. Mary's (CA),,San Francisco,REG (Conf),W 68-59,,18,1,2,0.5,0,0,,1,2,0.5,0.5,9,10,0.9,0,3,3,1,1,0,1,2,11,10.4,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+25,59,25,2023-02-04,St. Mary's (CA),,Gonzaga,REG (Conf),W 78-70 (OT),,25,2,3,0.667,0,0,,2,3,0.667,0.667,5,6,0.833,0,0,0,2,2,0,2,0,9,8.7,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+26,60,26,2023-02-09,St. Mary's (CA),@,Loyola Marymount,REG (Conf),L 74-78 (OT),,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+27,61,27,2023-02-11,St. Mary's (CA),@,Portland,REG (Conf),W 81-64,,9,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,1,0,0,1,2,2,-1.5,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+28,62,28,2023-02-16,St. Mary's (CA),@,San Diego,REG (Conf),W 62-59,,14,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,1,0,1,1,1,0,1,2,11,8.3,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+29,63,29,2023-02-18,St. Mary's (CA),,Brigham Young,REG (Conf),W 71-65,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,2,1,0,-2.1,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+30,64,30,2023-02-23,St. Mary's (CA),,Pacific,REG (Conf),W 83-52,,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,8,0.75,0,4,4,1,2,1,1,3,10,8.2,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+31,65,31,2023-02-25,St. Mary's (CA),@,Gonzaga,REG (Conf),L 68-77,,10,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,0,0,1,1,0,0,1,3,2.9,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2023
+32,66,32,2023-03-06,St. Mary's (CA),N,Brigham Young,CTOURN,W 76-69,,9,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,1,1,0,0,0,0,2,3,0.4,N,1,0,augustas-marciulionis-1,Augustas Marciulionis,2023
+33,67,33,2023-03-07,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-77,,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,1,0,0,1,2,0,-3.7,N,0,0,augustas-marciulionis-1,Augustas Marciulionis,2023
+34,68,34,2023-03-17,St. Mary's (CA),N,VCU,ROUND-64,W 63-51,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,6,8,0.75,0,3,3,1,0,0,1,4,13,8.9,N,1,0,augustas-marciulionis-1,Augustas Marciulionis,2023
+35,69,35,2023-03-19,St. Mary's (CA),N,Connecticut,ROUND-32,L 55-70,,22,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,4,0.25,0,0,0,2,0,0,1,1,7,2.8,N,0,0,augustas-marciulionis-1,Augustas Marciulionis,2023

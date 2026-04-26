@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2021-11-09,Arkansas,,Mercer,REG (Non-Conf),W 74-61,*,34,0,0,,0,0,,0,0,,,0,0,,0,4,4,1,3,0,5,1,0,-0.5,H,1,1,davonte-davis-1,Davonte Davis,2022
+2,32,2,2021-11-13,Arkansas,,Gardner-Webb,REG (Non-Conf),W 86-69,*,29,4,10,0.4,2,3,0.667,2,7,0.286,0.5,0,0,,1,2,3,6,2,0,2,2,10,9.3,H,1,1,davonte-davis-1,Davonte Davis,2022
+3,33,3,2021-11-17,Arkansas,,Northern Iowa,REG (Non-Conf),W 93-80,*,23,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,1,3,4,1,1,0,0,3,10,8.1,H,1,1,davonte-davis-1,Davonte Davis,2022
+4,34,4,2021-11-22,Arkansas,N,Kansas State,REG (Non-Conf),W 72-64,*,26,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,2,0.0,0,4,4,1,1,0,2,3,4,0.2,N,1,1,davonte-davis-1,Davonte Davis,2022
+5,35,5,2021-11-23,Arkansas,N,Cincinnati,REG (Non-Conf),W 73-67,*,25,3,12,0.25,0,2,0.0,3,10,0.3,0.25,2,2,1.0,2,3,5,3,0,0,3,3,8,1.0,N,1,1,davonte-davis-1,Davonte Davis,2022
+6,36,6,2021-11-28,Arkansas,,Pennsylvania,REG (Non-Conf),W 76-60,*,36,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,3,2,5,5,2,0,2,1,6,8.1,H,1,1,davonte-davis-1,Davonte Davis,2022
+7,37,7,2021-12-01,Arkansas,,Central Arkansas,REG (Non-Conf),W 97-60,*,27,6,9,0.667,0,0,,6,9,0.667,0.667,4,7,0.571,1,5,6,3,2,0,2,3,16,14.0,H,1,1,davonte-davis-1,Davonte Davis,2022
+8,38,8,2021-12-04,Arkansas,,Little Rock,REG (Non-Conf),W 93-78,*,28,8,11,0.727,0,2,0.0,8,9,0.889,0.727,0,0,,1,3,4,7,1,0,0,4,16,17.4,H,1,1,davonte-davis-1,Davonte Davis,2022
+9,39,9,2021-12-07,Arkansas,,Charlotte,REG (Non-Conf),W 86-66,*,34,7,12,0.583,0,0,,7,12,0.583,0.583,4,7,0.571,2,2,4,8,1,0,5,4,18,13.2,H,1,1,davonte-davis-1,Davonte Davis,2022
+10,40,10,2021-12-11,Arkansas,N,Oklahoma,REG (Non-Conf),L 66-88,*,39,9,21,0.429,4,8,0.5,5,13,0.385,0.524,4,4,1.0,0,5,5,3,0,0,1,3,26,16.3,N,0,1,davonte-davis-1,Davonte Davis,2022
+11,41,11,2021-12-18,Arkansas,N,Hofstra,REG (Non-Conf),L 81-89,*,30,3,11,0.273,0,1,0.0,3,10,0.3,0.273,3,3,1.0,1,3,4,4,1,0,1,5,9,4.9,N,0,1,davonte-davis-1,Davonte Davis,2022
+12,42,12,2021-12-21,Arkansas,,Elon,REG (Non-Conf),W 81-55,,35,0,0,,0,0,,0,0,,,1,2,0.5,2,4,6,6,0,0,1,1,1,6.0,H,1,1,davonte-davis-1,Davonte Davis,2022
+13,43,13,2021-12-29,Arkansas,@,Mississippi State,REG (Conf),L 68-81,*,26,7,12,0.583,1,4,0.25,6,8,0.75,0.625,0,1,0.0,0,5,5,4,2,0,2,4,15,11.7,A,0,1,davonte-davis-1,Davonte Davis,2022
+14,44,14,2022-01-04,Arkansas,,Vanderbilt,REG (Conf),L 74-75,*,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,3,2,0,-3.8,H,0,1,davonte-davis-1,Davonte Davis,2022
+15,45,15,2022-01-08,Arkansas,@,Texas A&M,REG (Conf),L 81-86,,37,2,10,0.2,0,4,0.0,2,6,0.333,0.2,9,10,0.9,4,3,7,7,1,0,4,3,13,10.8,A,0,1,davonte-davis-1,Davonte Davis,2022
+16,46,16,2022-01-12,Arkansas,,Missouri,REG (Conf),W 87-43,,28,5,9,0.556,0,2,0.0,5,7,0.714,0.556,5,6,0.833,2,4,6,4,3,0,1,1,15,17.3,H,1,1,davonte-davis-1,Davonte Davis,2022
+17,47,17,2022-01-15,Arkansas,@,Louisiana State,REG (Conf),W 65-58,,33,3,9,0.333,1,3,0.333,2,6,0.333,0.389,0,0,,4,4,8,3,1,0,5,3,7,2.8,A,1,1,davonte-davis-1,Davonte Davis,2022
+18,48,18,2022-01-18,Arkansas,,South Carolina,REG (Conf),W 75-59,,32,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,2,0.5,1,4,5,0,0,0,1,4,7,1.5,H,1,1,davonte-davis-1,Davonte Davis,2022
+19,49,19,2022-01-22,Arkansas,,Texas A&M,REG (Conf),W 76-73 (OT),,20,1,5,0.2,0,0,,1,5,0.2,0.2,2,3,0.667,3,2,5,2,1,0,2,4,4,2.0,H,1,1,davonte-davis-1,Davonte Davis,2022
+20,50,20,2022-01-26,Arkansas,@,Ole Miss,REG (Conf),W 64-55,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,3,0,0,2,3,0,-2.2,A,1,1,davonte-davis-1,Davonte Davis,2022
+21,51,21,2022-01-29,Arkansas,,West Virginia,REG (Non-Conf),W 77-68,,28,2,9,0.222,0,2,0.0,2,7,0.286,0.222,3,6,0.5,2,4,6,3,1,0,2,1,7,3.6,H,1,1,davonte-davis-1,Davonte Davis,2022
+22,52,22,2022-02-02,Arkansas,@,Georgia,REG (Conf),W 99-73,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,0,3,2,0.1,A,1,1,davonte-davis-1,Davonte Davis,2022
+23,53,23,2022-02-05,Arkansas,,Mississippi State,REG (Conf),W 63-55,,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,1,1,1,1,0,0,2,6,4.9,H,1,1,davonte-davis-1,Davonte Davis,2022
+24,54,24,2022-02-08,Arkansas,,Auburn,REG (Conf),W 80-76 (OT),,32,4,8,0.5,2,3,0.667,2,5,0.4,0.625,0,0,,1,3,4,0,5,0,2,3,10,9.4,H,1,1,davonte-davis-1,Davonte Davis,2022
+25,55,25,2022-02-12,Arkansas,@,Alabama,REG (Conf),L 67-68,,31,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,2,4,6,2,0,0,3,2,4,-0.6,A,0,1,davonte-davis-1,Davonte Davis,2022
+26,56,26,2022-02-15,Arkansas,@,Missouri,REG (Conf),W 76-57,,33,3,5,0.6,2,3,0.667,1,2,0.5,0.8,3,3,1.0,0,1,1,2,1,0,1,3,11,9.2,A,1,1,davonte-davis-1,Davonte Davis,2022
+27,57,27,2022-02-19,Arkansas,,Tennessee,REG (Conf),W 58-48,,18,2,5,0.4,2,3,0.667,0,2,0.0,0.6,1,2,0.5,3,1,4,1,0,0,1,2,7,5.2,H,1,1,davonte-davis-1,Davonte Davis,2022
+28,58,28,2022-02-22,Arkansas,@,Florida,REG (Conf),W 82-74,,28,7,10,0.7,2,3,0.667,5,7,0.714,0.8,3,4,0.75,1,5,6,4,0,0,0,4,19,17.8,A,1,1,davonte-davis-1,Davonte Davis,2022
+29,59,29,2022-02-26,Arkansas,,Kentucky,REG (Conf),W 75-73,,31,0,1,0.0,0,0,,0,1,0.0,0.0,5,7,0.714,0,1,1,2,0,0,0,1,5,4.8,H,1,1,davonte-davis-1,Davonte Davis,2022
+30,60,30,2022-03-02,Arkansas,,Louisiana State,REG (Conf),W 77-76,,31,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,4,0.5,0,1,1,4,0,0,3,3,4,-0.3,H,1,1,davonte-davis-1,Davonte Davis,2022
+31,61,31,2022-03-05,Arkansas,@,Tennessee,REG (Conf),L 74-78,*,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,1,0,1,0,0,0,3,4,4,-3.0,A,0,1,davonte-davis-1,Davonte Davis,2022
+32,62,32,2022-03-11,Arkansas,N,Louisiana State,CTOURN,W 79-67,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,2,1,0,-2.4,N,1,0,davonte-davis-1,Davonte Davis,2022
+33,63,33,2022-03-12,Arkansas,N,Texas A&M,CTOURN,L 64-82,,31,5,12,0.417,0,4,0.0,5,8,0.625,0.417,1,1,1.0,1,1,2,4,1,0,1,1,11,8.0,N,0,0,davonte-davis-1,Davonte Davis,2022
+34,64,34,2022-03-17,Arkansas,N,Vermont,ROUND-64,W 75-71,,36,6,10,0.6,1,2,0.5,5,8,0.625,0.65,1,1,1.0,0,3,3,3,2,0,1,4,14,11.8,N,1,0,davonte-davis-1,Davonte Davis,2022
+35,65,35,2022-03-19,Arkansas,N,New Mexico State,ROUND-32,W 53-48,,34,0,6,0.0,0,1,0.0,0,5,0.0,0.0,2,2,1.0,1,2,3,1,1,0,1,1,2,-0.6,N,1,0,davonte-davis-1,Davonte Davis,2022
+36,66,36,2022-03-24,Arkansas,N,Gonzaga,ROUND-16,W 74-68,,25,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,0,3,3,2,1,0,1,2,6,3.4,N,1,0,davonte-davis-1,Davonte Davis,2022
+37,67,37,2022-03-26,Arkansas,N,Duke,ROUND-8,L 69-78,,28,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,2,1,3,1,0,0,2,1,9,5.7,N,0,0,davonte-davis-1,Davonte Davis,2022

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2022-11-07,Arkansas,,North Dakota State,REG (Non-Conf),W 76-58,*,39,6,14,0.429,0,2,0.0,6,12,0.5,0.429,6,8,0.75,0,6,6,0,2,1,5,1,18,8.9,H,1,1,davonte-davis-1,Davonte Davis,2023
+2,69,2,2022-11-11,Arkansas,,Fordham,REG (Non-Conf),W 74-48,*,29,3,12,0.25,0,3,0.0,3,9,0.333,0.25,1,2,0.5,0,3,3,5,3,0,1,1,7,5.4,H,1,1,davonte-davis-1,Davonte Davis,2023
+3,70,3,2022-11-16,Arkansas,,South Dakota State,REG (Non-Conf),W 71-56,*,33,5,10,0.5,2,5,0.4,3,5,0.6,0.6,1,2,0.5,0,2,2,3,1,0,1,1,13,9.9,H,1,1,davonte-davis-1,Davonte Davis,2023
+4,71,4,2022-11-21,Arkansas,N,Louisville,REG (Non-Conf),W 80-54,*,32,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,0,0,5,0,0,1,4,2,0.5,N,1,1,davonte-davis-1,Davonte Davis,2023
+5,72,5,2022-11-22,Arkansas,N,Creighton,REG (Non-Conf),L 87-90,*,38,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,0,3,3,2,1,0,0,4,9,5.6,N,0,1,davonte-davis-1,Davonte Davis,2023
+6,73,6,2022-11-23,Arkansas,N,San Diego State,REG (Non-Conf),W 78-74 (OT),*,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,1,2,1,0,0,1,0,2,0.3,N,1,1,davonte-davis-1,Davonte Davis,2023
+7,74,8,2022-12-03,Arkansas,,San Jose State,REG (Non-Conf),W 99-58,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,3,0,1,0,2,0,0.9,H,1,1,davonte-davis-1,Davonte Davis,2023
+8,75,9,2022-12-06,Arkansas,,UNC Greensboro,REG (Non-Conf),W 65-58,,29,3,13,0.231,0,3,0.0,3,10,0.3,0.231,4,4,1.0,1,9,10,0,3,0,3,4,10,3.9,H,1,1,davonte-davis-1,Davonte Davis,2023
+9,76,10,2022-12-10,Arkansas,N,Oklahoma,REG (Non-Conf),W 88-78,,24,1,4,0.25,0,0,,1,4,0.25,0.25,3,5,0.6,1,1,2,2,1,0,0,3,5,4.0,N,1,1,davonte-davis-1,Davonte Davis,2023
+10,77,11,2022-12-17,Arkansas,,Bradley,REG (Non-Conf),W 76-57,,30,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,3,4,7,3,5,0,1,0,7,11.3,H,1,1,davonte-davis-1,Davonte Davis,2023
+11,78,12,2022-12-21,Arkansas,,UNC Asheville,REG (Non-Conf),W 85-51,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,1,1,2,3,0,0,2,1,9,7.4,H,1,1,davonte-davis-1,Davonte Davis,2023
+12,79,13,2022-12-28,Arkansas,@,Louisiana State,REG (Conf),L 57-60,*,40,7,18,0.389,2,8,0.25,5,10,0.5,0.444,0,0,,0,6,6,2,2,0,1,1,16,10.0,A,0,1,davonte-davis-1,Davonte Davis,2023
+13,80,14,2023-01-04,Arkansas,,Missouri,REG (Conf),W 74-68,*,38,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,0,,1,4,5,5,3,0,5,3,10,7.2,H,1,1,davonte-davis-1,Davonte Davis,2023
+14,81,15,2023-01-07,Arkansas,@,Auburn,REG (Conf),L 59-72,*,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,2,0,0,1,2,2,-0.9,A,0,1,davonte-davis-1,Davonte Davis,2023
+15,82,16,2023-01-11,Arkansas,,Alabama,REG (Conf),L 69-84,*,38,6,17,0.353,2,3,0.667,4,14,0.286,0.412,2,2,1.0,0,10,10,3,2,1,0,2,16,13.5,H,0,1,davonte-davis-1,Davonte Davis,2023
+16,83,17,2023-01-14,Arkansas,@,Vanderbilt,REG (Conf),L 84-97,*,39,6,14,0.429,0,3,0.0,6,11,0.545,0.429,5,5,1.0,1,2,3,4,0,0,2,4,17,10.1,A,0,1,davonte-davis-1,Davonte Davis,2023
+17,84,18,2023-01-18,Arkansas,@,Missouri,REG (Conf),L 76-79,*,39,7,17,0.412,3,7,0.429,4,10,0.4,0.5,1,2,0.5,2,7,9,3,1,0,6,5,18,7.1,A,0,1,davonte-davis-1,Davonte Davis,2023
+18,85,19,2023-01-21,Arkansas,,Ole Miss,REG (Conf),W 69-57,*,34,6,11,0.545,3,5,0.6,3,6,0.5,0.682,1,2,0.5,1,4,5,4,1,0,3,4,16,11.4,H,1,1,davonte-davis-1,Davonte Davis,2023
+19,86,20,2023-01-24,Arkansas,,Louisiana State,REG (Conf),W 60-40,*,40,7,8,0.875,2,2,1.0,5,6,0.833,1.0,0,0,,0,7,7,3,2,0,2,0,16,17.4,H,1,1,davonte-davis-1,Davonte Davis,2023
+20,87,21,2023-01-28,Arkansas,@,Baylor,REG (Non-Conf),L 64-67,*,36,6,13,0.462,2,7,0.286,4,6,0.667,0.538,2,3,0.667,1,1,2,4,0,0,5,2,16,6.9,A,0,1,davonte-davis-1,Davonte Davis,2023
+21,88,22,2023-01-31,Arkansas,,Texas A&M,REG (Conf),W 81-70,*,37,7,13,0.538,4,8,0.5,3,5,0.6,0.692,1,2,0.5,0,1,1,4,1,0,4,1,19,12.0,H,1,1,davonte-davis-1,Davonte Davis,2023
+22,89,23,2023-02-04,Arkansas,@,South Carolina,REG (Conf),W 65-63,*,40,5,12,0.417,4,10,0.4,1,2,0.5,0.583,1,2,0.5,0,4,4,2,2,0,3,3,15,8.6,A,1,1,davonte-davis-1,Davonte Davis,2023
+23,90,24,2023-02-07,Arkansas,@,Kentucky,REG (Conf),W 88-73,*,39,6,11,0.545,1,2,0.5,5,9,0.556,0.591,2,3,0.667,0,3,3,7,2,0,3,2,15,13.3,A,1,1,davonte-davis-1,Davonte Davis,2023
+24,91,25,2023-02-11,Arkansas,,Mississippi State,REG (Conf),L 64-70,*,37,2,12,0.167,1,5,0.2,1,7,0.143,0.208,2,2,1.0,2,4,6,2,2,0,3,4,7,0.8,H,0,1,davonte-davis-1,Davonte Davis,2023
+25,92,26,2023-02-15,Arkansas,@,Texas A&M,REG (Conf),L 56-62,*,39,5,13,0.385,4,10,0.4,1,3,0.333,0.538,0,3,0.0,0,3,3,3,2,0,2,2,14,7.9,A,0,1,davonte-davis-1,Davonte Davis,2023
+26,93,27,2023-02-18,Arkansas,,Florida,REG (Conf),W 84-65,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,2,0,1,3,0,0.1,H,1,1,davonte-davis-1,Davonte Davis,2023
+27,94,28,2023-02-21,Arkansas,,Georgia,REG (Conf),W 97-65,*,28,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,3,0,0,2,2,4,3.0,H,1,1,davonte-davis-1,Davonte Davis,2023
+28,95,29,2023-02-25,Arkansas,@,Alabama,REG (Conf),L 83-86,*,39,8,15,0.533,3,4,0.75,5,11,0.455,0.633,2,3,0.667,1,4,5,0,0,0,0,3,21,14.0,A,0,1,davonte-davis-1,Davonte Davis,2023
+29,96,30,2023-02-28,Arkansas,@,Tennessee,REG (Conf),L 57-75,*,39,5,12,0.417,3,7,0.429,2,5,0.4,0.542,0,0,,1,5,6,2,3,1,2,3,13,10.7,A,0,1,davonte-davis-1,Davonte Davis,2023
+30,97,31,2023-03-04,Arkansas,,Kentucky,REG (Conf),L 79-88,*,20,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,2,2,0,0,0,0,5,8,4.3,H,0,1,davonte-davis-1,Davonte Davis,2023
+31,98,32,2023-03-09,Arkansas,N,Auburn,CTOURN,W 76-73,*,40,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,1,9,10,3,1,0,3,3,7,5.9,N,1,0,davonte-davis-1,Davonte Davis,2023
+32,99,33,2023-03-10,Arkansas,N,Texas A&M,CTOURN,L 61-67,*,37,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,1,0.0,2,4,6,1,2,0,1,3,5,3.6,N,0,0,davonte-davis-1,Davonte Davis,2023
+33,100,34,2023-03-16,Arkansas,N,Illinois,ROUND-64,W 73-63,*,30,7,14,0.5,2,4,0.5,5,10,0.5,0.571,0,0,,1,5,6,1,4,0,4,4,16,10.3,N,1,0,davonte-davis-1,Davonte Davis,2023
+34,101,35,2023-03-18,Arkansas,N,Kansas,ROUND-32,W 72-71,*,31,9,15,0.6,1,4,0.25,8,11,0.727,0.633,6,7,0.857,2,6,8,1,0,0,1,5,25,18.6,N,1,0,davonte-davis-1,Davonte Davis,2023
+35,102,36,2023-03-23,Arkansas,N,Connecticut,ROUND-16,L 65-88,*,29,1,10,0.1,1,3,0.333,0,7,0.0,0.15,0,0,,1,3,4,0,0,0,3,4,3,-6.6,N,0,0,davonte-davis-1,Davonte Davis,2023

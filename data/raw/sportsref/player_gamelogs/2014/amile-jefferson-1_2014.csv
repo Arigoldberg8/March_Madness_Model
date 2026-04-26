@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2013-11-08,Duke,,Davidson,REG (Non-Conf),W 111-77,*,11,4,4,1.0,0,0,4,4,1.0,1.0,2,6,0.333,0,0,0,0,1,0,0,2,10,7.4,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+2,34,2,2013-11-12,Duke,N,Kansas,REG (Non-Conf),L 83-94,*,26,7,9,0.778,0,0,7,9,0.778,0.778,3,6,0.5,1,1,2,1,0,0,1,3,17,11.8,N,0,1,amile-jefferson-1,Amile Jefferson,2014
+3,35,3,2013-11-15,Duke,,Florida Atlantic,REG (Non-Conf),W 97-64,*,14,3,6,0.5,0,0,3,6,0.5,0.5,2,3,0.667,2,3,5,0,1,1,1,3,8,6.4,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+4,36,4,2013-11-18,Duke,,UNC Asheville,REG (Non-Conf),W 91-55,*,19,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,3,3,6,2,1,0,0,3,3,6.5,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+5,37,5,2013-11-19,Duke,,East Carolina,REG (Non-Conf),W 83-74,*,12,3,3,1.0,0,0,3,3,1.0,1.0,0,2,0.0,1,4,5,0,0,0,0,2,6,5.4,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+6,38,6,2013-11-24,Duke,,Vermont,REG (Non-Conf),W 91-90,*,12,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,2,4,6,0,0,0,1,2,2,1.7,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+7,39,7,2013-11-27,Duke,N,Alabama,REG (Non-Conf),W 74-64,,10,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,4,4,0,0,0,1,2,0,-2.0,N,1,1,amile-jefferson-1,Amile Jefferson,2014
+8,40,8,2013-11-29,Duke,N,Arizona,REG (Non-Conf),L 66-72,,19,0,1,0.0,0,0,0,1,0.0,0.0,0,3,0.0,3,1,4,1,1,0,1,3,0,0.0,N,0,1,amile-jefferson-1,Amile Jefferson,2014
+9,41,9,2013-12-03,Duke,,Michigan,REG (Non-Conf),W 79-69,,17,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,5,6,2,1,1,0,4,6,8.8,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+10,42,10,2013-12-16,Duke,,Gardner-Webb,REG (Non-Conf),W 85-66,,12,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,5,5,10,1,0,1,1,2,4,5.1,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+11,43,11,2013-12-19,Duke,N,UCLA,REG (Non-Conf),W 80-63,,23,5,6,0.833,0,0,5,6,0.833,0.833,1,4,0.25,2,5,7,2,0,2,0,2,11,12.5,N,1,1,amile-jefferson-1,Amile Jefferson,2014
+12,44,12,2013-12-28,Duke,,Eastern Michigan,REG (Non-Conf),W 82-59,,21,1,4,0.25,0,0,1,4,0.25,0.25,5,5,1.0,6,8,14,0,0,1,2,3,7,8.7,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+13,45,13,2013-12-31,Duke,N,Elon,REG (Non-Conf),W 86-48,,18,4,7,0.571,0,0,4,7,0.571,0.571,1,3,0.333,3,3,6,0,1,1,0,2,9,8.8,N,1,1,amile-jefferson-1,Amile Jefferson,2014
+14,46,14,2014-01-04,Duke,@,Notre Dame,REG (Conf),L 77-79,,21,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,4,5,9,1,0,1,0,3,4,5.4,A,0,1,amile-jefferson-1,Amile Jefferson,2014
+15,47,15,2014-01-07,Duke,,Georgia Tech,REG (Conf),W 79-57,*,28,2,3,0.667,0,0,2,3,0.667,0.667,2,3,0.667,2,8,10,1,0,1,0,2,6,8.7,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+16,48,16,2014-01-11,Duke,@,Clemson,REG (Conf),L 59-72,*,27,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,0,6,6,1,0,0,0,1,7,7.1,A,0,1,amile-jefferson-1,Amile Jefferson,2014
+17,49,17,2014-01-13,Duke,,Virginia,REG (Conf),W 69-65,*,28,4,4,1.0,0,0,4,4,1.0,1.0,2,3,0.667,5,10,15,2,2,1,2,3,10,15.8,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+18,50,18,2014-01-18,Duke,,NC State,REG (Conf),W 95-60,*,24,3,5,0.6,0,0,3,5,0.6,0.6,3,3,1.0,2,6,8,2,0,0,0,1,9,10.9,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+19,51,19,2014-01-22,Duke,@,Miami (FL),REG (Conf),W 67-46,*,32,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,4,3,7,0,1,3,1,2,8,9.7,A,1,1,amile-jefferson-1,Amile Jefferson,2014
+20,52,20,2014-01-25,Duke,,Florida State,REG (Conf),W 78-56,*,21,0,2,0.0,0,0,0,2,0.0,0.0,2,6,0.333,3,3,6,2,1,0,1,4,2,1.8,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+21,53,21,2014-01-27,Duke,@,Pittsburgh,REG (Conf),W 80-65,*,27,5,5,1.0,0,0,5,5,1.0,1.0,4,5,0.8,6,4,10,2,1,2,0,4,14,19.7,A,1,1,amile-jefferson-1,Amile Jefferson,2014
+22,54,22,2014-02-01,Duke,@,Syracuse,REG (Conf),L 89-91 (OT),*,28,6,10,0.6,0,0,6,10,0.6,0.6,2,2,1.0,6,1,7,5,1,0,1,5,14,15.4,A,0,1,amile-jefferson-1,Amile Jefferson,2014
+23,55,23,2014-02-04,Duke,,Wake Forest,REG (Conf),W 83-63,*,20,0,0,,0,0,0,0,,,2,3,0.667,1,3,4,0,0,0,1,3,2,1.0,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+24,56,24,2014-02-08,Duke,@,Boston College,REG (Conf),W 89-68,*,29,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,4,6,1,2,0,1,1,8,11.0,A,1,1,amile-jefferson-1,Amile Jefferson,2014
+25,57,25,2014-02-15,Duke,,Maryland,REG (Conf),W 69-67,*,34,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,5,7,12,0,1,1,0,2,7,10.8,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+26,58,26,2014-02-18,Duke,@,Georgia Tech,REG (Conf),W 68-51,*,29,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,1,2,3,1,0,0,0,2,6,4.8,A,1,1,amile-jefferson-1,Amile Jefferson,2014
+27,59,27,2014-02-20,Duke,@,North Carolina,REG (Conf),L 66-74,*,23,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,2,1,3,0,0,1,0,4,2,1.1,A,0,1,amile-jefferson-1,Amile Jefferson,2014
+28,60,28,2014-02-22,Duke,,Syracuse,REG (Conf),W 66-60,*,21,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,4,5,0,0,0,2,4,5,2.3,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+29,61,29,2014-02-25,Duke,,Virginia Tech,REG (Conf),W 66-48,*,26,3,3,1.0,0,0,3,3,1.0,1.0,0,1,0.0,4,4,8,0,1,0,3,3,6,5.5,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+30,62,30,2014-03-05,Duke,@,Wake Forest,REG (Conf),L 72-82,*,15,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,2,3,1,0,1,1,3,2,0.8,A,0,1,amile-jefferson-1,Amile Jefferson,2014
+31,63,31,2014-03-08,Duke,,North Carolina,REG (Conf),W 93-81,,27,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,6,2,8,2,3,1,0,2,8,13.3,H,1,1,amile-jefferson-1,Amile Jefferson,2014
+32,64,32,2014-03-14,Duke,N,Clemson,CTOURN,W 63-62,*,34,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,6,7,13,1,0,0,0,3,6,8.8,N,1,0,amile-jefferson-1,Amile Jefferson,2014
+33,65,33,2014-03-15,Duke,N,NC State,CTOURN,W 75-67,*,31,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,3,4,7,2,2,0,0,1,6,11.4,N,1,0,amile-jefferson-1,Amile Jefferson,2014
+34,66,34,2014-03-16,Duke,N,Virginia,CTOURN,L 63-72,*,30,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,2,4,1,1,0,0,4,11,9.8,N,0,0,amile-jefferson-1,Amile Jefferson,2014
+35,67,35,2014-03-21,Duke,N,Mercer,ROUND-64,L 71-78,*,27,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,6,5,11,2,1,1,2,3,2,5.2,N,0,0,amile-jefferson-1,Amile Jefferson,2014

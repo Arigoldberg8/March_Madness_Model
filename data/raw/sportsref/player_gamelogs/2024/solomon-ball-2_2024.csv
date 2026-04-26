@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Connecticut,,Northern Arizona,REG (Non-Conf),W 95-52,,16,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,2,2,0,1,0,0,1,2,0.1,H,1,1,solomon-ball-2,Solomon Ball,2024
+2,2,2,2023-11-11,Connecticut,,Stonehill,REG (Non-Conf),W 107-67,,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,1,2,0,1,0,0,1,7,6.6,H,1,1,solomon-ball-2,Solomon Ball,2024
+3,3,3,2023-11-14,Connecticut,,Mississippi Valley State,REG (Non-Conf),W 87-53,*,28,3,12,0.25,2,7,0.286,1,5,0.2,0.333,2,4,0.5,2,1,3,1,0,0,1,2,10,2.6,H,1,1,solomon-ball-2,Solomon Ball,2024
+4,4,4,2023-11-19,Connecticut,N,Indiana,REG (Non-Conf),W 77-57,*,26,4,10,0.4,1,5,0.2,3,5,0.6,0.45,0,0,,0,1,1,1,0,0,0,1,9,4.2,N,1,1,solomon-ball-2,Solomon Ball,2024
+5,5,5,2023-11-20,Connecticut,N,Texas,REG (Non-Conf),W 81-71,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,3,0,3,0,0,0,1,1,7,5.4,N,1,1,solomon-ball-2,Solomon Ball,2024
+6,6,6,2023-11-24,Connecticut,,Manhattan,REG (Non-Conf),W 90-60,*,27,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,1,2,3,3,0,0,0,1,4,3.6,H,1,1,solomon-ball-2,Solomon Ball,2024
+7,7,7,2023-11-27,Connecticut,,New Hampshire,REG (Non-Conf),W 84-64,*,28,1,8,0.125,1,6,0.167,0,2,0.0,0.188,0,0,,1,4,5,2,0,0,1,2,3,-0.7,H,1,1,solomon-ball-2,Solomon Ball,2024
+8,8,8,2023-12-01,Connecticut,@,Kansas,REG (Non-Conf),L 65-69,*,29,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,0,0,0,0,1,3,1.5,A,0,1,solomon-ball-2,Solomon Ball,2024
+9,9,9,2023-12-05,Connecticut,N,North Carolina,REG (Non-Conf),W 87-76,*,29,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,0,,0,2,2,0,1,0,1,2,13,9.2,N,1,1,solomon-ball-2,Solomon Ball,2024
+10,10,10,2023-12-09,Connecticut,,Arkansas–Pine Bluff,REG (Non-Conf),W 101-63,*,26,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,5,0.8,0,2,2,1,0,1,1,1,9,5.1,H,1,1,solomon-ball-2,Solomon Ball,2024
+11,11,11,2023-12-15,Connecticut,N,Gonzaga,REG (Non-Conf),W 76-63,*,18,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,3,3,1.5,N,1,1,solomon-ball-2,Solomon Ball,2024
+12,12,12,2023-12-20,Connecticut,@,Seton Hall,REG (Conf),L 60-75,*,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,6,6,1.0,2,0,2,0,0,0,2,1,6,2.2,A,0,1,solomon-ball-2,Solomon Ball,2024
+13,13,13,2023-12-23,Connecticut,,St. John's (NY),REG (Conf),W 69-65,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,2,0.0,0,0,0,1,2,0,0,1,3,3.5,H,1,1,solomon-ball-2,Solomon Ball,2024
+14,14,14,2024-01-02,Connecticut,,DePaul,REG (Conf),W 85-56,,20,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,1,2,0,1,0,1,1,8,4.2,H,1,1,solomon-ball-2,Solomon Ball,2024
+15,15,15,2024-01-05,Connecticut,@,Butler,REG (Conf),W 88-81,,9,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,1,2,1,-1.6,A,1,1,solomon-ball-2,Solomon Ball,2024
+16,16,16,2024-01-10,Connecticut,@,Xavier,REG (Conf),W 80-75,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,A,1,1,solomon-ball-2,Solomon Ball,2024
+17,17,17,2024-01-14,Connecticut,,Georgetown,REG (Conf),W 80-67,,10,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,H,1,1,solomon-ball-2,Solomon Ball,2024
+18,18,18,2024-01-17,Connecticut,,Creighton,REG (Conf),W 62-48,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,solomon-ball-2,Solomon Ball,2024
+19,19,19,2024-01-20,Connecticut,@,Villanova,REG (Conf),W 66-65,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,solomon-ball-2,Solomon Ball,2024
+20,20,20,2024-01-28,Connecticut,,Xavier,REG (Conf),W 99-56,,19,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,0,0,0,1,0,0,1,0,12,9.8,H,1,1,solomon-ball-2,Solomon Ball,2024
+21,21,21,2024-01-31,Connecticut,,Providence,REG (Conf),W 74-65,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,solomon-ball-2,Solomon Ball,2024
+22,22,22,2024-02-03,Connecticut,@,St. John's (NY),REG (Conf),W 77-64,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,0,2,2.7,A,1,1,solomon-ball-2,Solomon Ball,2024
+23,23,23,2024-02-06,Connecticut,,Butler,REG (Conf),W 71-62,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,solomon-ball-2,Solomon Ball,2024
+24,24,24,2024-02-10,Connecticut,@,Georgetown,REG (Conf),W 89-64,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,2,3,1.2,A,1,1,solomon-ball-2,Solomon Ball,2024
+25,25,25,2024-02-14,Connecticut,@,DePaul,REG (Conf),W 101-65,,10,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,0,2,2,0,0,0,0,0,9,7.7,A,1,1,solomon-ball-2,Solomon Ball,2024
+26,26,26,2024-02-17,Connecticut,,Marquette,REG (Conf),W 81-53,,3,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,H,1,1,solomon-ball-2,Solomon Ball,2024
+27,27,27,2024-02-20,Connecticut,@,Creighton,REG (Conf),L 66-85,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,solomon-ball-2,Solomon Ball,2024
+28,28,28,2024-02-24,Connecticut,,Villanova,REG (Conf),W 78-54,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,solomon-ball-2,Solomon Ball,2024
+29,29,29,2024-03-03,Connecticut,,Seton Hall,REG (Conf),W 91-61,,5,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,0,0,0,0,0,2,1.0,H,1,1,solomon-ball-2,Solomon Ball,2024
+30,30,30,2024-03-06,Connecticut,@,Marquette,REG (Conf),W 74-67,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,solomon-ball-2,Solomon Ball,2024
+31,31,31,2024-03-09,Connecticut,@,Providence,REG (Conf),W 74-60,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,solomon-ball-2,Solomon Ball,2024
+32,32,32,2024-03-14,Connecticut,N,Xavier,CTOURN,W 87-60,,4,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,0,0,2,0,5,2.7,N,1,0,solomon-ball-2,Solomon Ball,2024
+33,33,33,2024-03-15,Connecticut,@,St. John's (NY),CTOURN,W 95-90,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,0,solomon-ball-2,Solomon Ball,2024
+34,34,35,2024-03-22,Connecticut,N,Stetson,ROUND-64,W 91-52,,8,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,1,1,2,0,1,0,1,2,3,-0.3,N,1,0,solomon-ball-2,Solomon Ball,2024
+35,35,36,2024-03-24,Connecticut,N,Northwestern,ROUND-32,W 75-58,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,solomon-ball-2,Solomon Ball,2024
+36,36,37,2024-03-28,Connecticut,N,San Diego State,ROUND-16,W 82-52,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,0,solomon-ball-2,Solomon Ball,2024
+37,37,38,2024-03-30,Connecticut,N,Illinois,ROUND-8,W 77-52,,4,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,0,1,0,0,0,2,0.6,N,1,0,solomon-ball-2,Solomon Ball,2024
+38,38,39,2024-04-06,Connecticut,N,Alabama,NATIONAL-SEMI,W 86-72,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,solomon-ball-2,Solomon Ball,2024
+39,39,40,2024-04-08,Connecticut,N,Purdue,NATIONAL-FINAL,W 75-60,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,solomon-ball-2,Solomon Ball,2024

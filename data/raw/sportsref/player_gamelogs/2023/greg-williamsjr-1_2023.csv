@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,113,1,2022-11-07,Louisiana,,Centenary (LA),REG (Non-Conf),W 106-55,*,23,3,8,0.375,2,5,0.4,1,3,0.333,0.5,3,4,0.75,0,2,2,3,1,1,1,0,11,9.6,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+2,114,2,2022-11-11,Louisiana,N,Harvard,REG (Non-Conf),W 75-61,*,28,1,3,0.333,1,2,0.5,0,1,0.0,0.5,5,8,0.625,0,2,2,2,2,0,1,3,8,6.9,N,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+3,115,3,2022-11-13,Louisiana,N,East Tennessee State,REG (Non-Conf),W 81-77,*,31,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,6,0.667,1,5,6,1,3,3,3,2,10,9.0,N,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+4,116,4,2022-11-17,Louisiana,,Louisiana Tech,REG (Non-Conf),W 94-88,*,23,4,8,0.5,0,3,0.0,4,5,0.8,0.5,8,8,1.0,2,2,4,3,0,0,3,3,16,11.9,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+5,117,5,2022-11-22,Louisiana,@,SMU,REG (Non-Conf),W 76-72 (OT),*,35,7,13,0.538,4,9,0.444,3,4,0.75,0.692,1,2,0.5,3,6,9,1,2,2,1,2,19,18.5,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+6,118,6,2022-11-26,Louisiana,@,Drake,REG (Non-Conf),L 64-76,*,30,4,10,0.4,2,7,0.286,2,3,0.667,0.5,2,2,1.0,0,3,3,1,1,1,0,2,12,9.1,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+7,119,7,2022-11-29,Louisiana,,Loyola (LA),REG (Non-Conf),W 104-70,*,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,4,5,0.8,1,3,4,1,0,0,0,2,6,5.4,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+8,120,8,2022-12-03,Louisiana,@,New Orleans,REG (Non-Conf),W 78-77,*,33,7,15,0.467,2,4,0.5,5,11,0.455,0.533,11,15,0.733,2,3,5,0,1,0,1,1,27,19.6,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+9,121,9,2022-12-10,Louisiana,,Samford,REG (Non-Conf),W 75-58,*,30,4,7,0.571,4,6,0.667,0,1,0.0,0.857,2,2,1.0,2,2,4,0,0,0,1,0,14,11.7,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+10,122,10,2022-12-12,Louisiana,,La. Christian,REG (Non-Conf),W 98-63,*,22,4,5,0.8,2,3,0.667,2,2,1.0,1.0,2,2,1.0,0,2,2,4,1,0,2,4,12,10.9,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+11,123,11,2022-12-15,Louisiana,@,McNeese State,REG (Non-Conf),W 78-70,*,35,6,8,0.75,5,7,0.714,1,1,1.0,1.063,0,0,,3,2,5,4,2,3,1,2,17,21.6,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+12,124,12,2022-12-21,Louisiana,@,Texas,REG (Non-Conf),L 72-100,*,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,0,4,4,1,2,0,0,2,6,6.0,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+13,125,13,2022-12-29,Louisiana,@,Coastal Carolina,REG (Conf),L 76-77,*,30,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,2,4,6,1,2,1,1,3,10,9.8,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+14,126,14,2022-12-31,Louisiana,@,Old Dominion,REG (Conf),L 66-70,*,28,5,8,0.625,4,7,0.571,1,1,1.0,0.875,2,4,0.5,0,2,2,1,2,1,1,4,16,13.0,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+15,127,15,2023-01-05,Louisiana,,Southern Mississippi,REG (Conf),W 75-61,*,27,2,10,0.2,1,5,0.2,1,5,0.2,0.25,3,4,0.75,0,1,1,2,1,0,0,2,8,3.3,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+16,128,16,2023-01-07,Louisiana,,Georgia State,REG (Conf),W 78-70,*,32,4,11,0.364,2,6,0.333,2,5,0.4,0.455,1,2,0.5,0,3,3,1,1,0,2,2,11,4.3,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+17,129,17,2023-01-12,Louisiana,@,Louisiana–Monroe,REG (Conf),W 86-73,*,33,6,12,0.5,3,7,0.429,3,5,0.6,0.625,0,2,0.0,1,5,6,1,0,0,3,3,15,6.9,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+18,130,18,2023-01-14,Louisiana,@,South Alabama,REG (Conf),W 79-76,*,35,6,11,0.545,4,5,0.8,2,6,0.333,0.727,3,4,0.75,1,2,3,2,1,0,2,1,19,14.6,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+19,131,19,2023-01-19,Louisiana,@,Arkansas State,REG (Conf),W 80-71,*,20,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,0,2,2,0,0,0,0,1,9,7.6,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+20,132,20,2023-01-21,Louisiana,@,Texas State,REG (Conf),W 60-51,*,33,7,11,0.636,2,4,0.5,5,7,0.714,0.727,6,10,0.6,1,3,4,0,1,0,0,4,22,16.5,A,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+21,133,21,2023-01-26,Louisiana,,Troy,REG (Conf),W 72-57,*,27,9,15,0.6,1,3,0.333,8,12,0.667,0.633,2,2,1.0,1,1,2,0,2,0,1,4,21,14.5,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+22,134,22,2023-01-28,Louisiana,,Georgia Southern,REG (Conf),W 94-87,*,35,6,14,0.429,4,10,0.4,2,4,0.5,0.571,5,6,0.833,0,2,2,3,0,0,1,3,21,13.7,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+23,135,23,2023-02-02,Louisiana,,Texas State,REG (Conf),W 82-63,*,34,7,10,0.7,3,5,0.6,4,5,0.8,0.85,6,9,0.667,0,5,5,0,1,0,0,1,23,19.7,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+24,136,24,2023-02-04,Louisiana,,Marshall,REG (Conf),W 77-67,*,36,8,14,0.571,1,5,0.2,7,9,0.778,0.607,3,5,0.6,2,2,4,1,2,0,1,2,20,15.5,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+25,137,25,2023-02-09,Louisiana,@,Southern Mississippi,REG (Conf),L 71-82,*,38,1,8,0.125,0,4,0.0,1,4,0.25,0.125,2,4,0.5,3,1,4,1,2,0,1,2,4,1.3,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+26,138,26,2023-02-11,Louisiana,@,Troy,REG (Conf),L 65-80,*,34,5,11,0.455,2,8,0.25,3,3,1.0,0.545,3,4,0.75,1,2,3,3,1,0,1,2,15,11.5,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+27,139,27,2023-02-16,Louisiana,,Louisiana–Monroe,REG (Conf),W 84-67,*,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,1,4,5,2,1,0,1,1,9,9.6,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+28,140,28,2023-02-18,Louisiana,@,James Madison,REG (Conf),L 68-74,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,3,4,0.75,1,1,2,0,0,0,0,1,12,7.5,A,0,1,greg-williamsjr-1,Greg Williams Jr.,2023
+29,141,29,2023-02-22,Louisiana,,Arkansas State,REG (Conf),W 85-74,*,36,6,11,0.545,2,4,0.5,4,7,0.571,0.636,4,4,1.0,0,2,2,3,0,1,2,3,18,12.9,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+30,142,30,2023-02-24,Louisiana,,South Alabama,REG (Conf),W 74-64,*,32,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,5,5,0,1,1,0,2,2,0.6,H,1,1,greg-williamsjr-1,Greg Williams Jr.,2023
+31,143,31,2023-03-04,Louisiana,N,Georgia Southern,CTOURN,W 67-49,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,5,0.6,0,0,0,0,3,0,1,2,10,7.4,N,1,0,greg-williamsjr-1,Greg Williams Jr.,2023
+32,144,32,2023-03-05,Louisiana,N,Texas State,CTOURN,W 64-58,*,29,2,8,0.25,1,3,0.333,1,5,0.2,0.313,4,6,0.667,0,3,3,2,1,3,0,1,9,8.4,N,1,0,greg-williamsjr-1,Greg Williams Jr.,2023
+33,145,33,2023-03-06,Louisiana,N,South Alabama,CTOURN,W 71-66,*,12,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,1,0,greg-williamsjr-1,Greg Williams Jr.,2023
+34,146,34,2023-03-16,Louisiana,N,Tennessee,ROUND-64,L 55-58,*,18,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,0,0,0,0,1,0,-3.7,N,0,0,greg-williamsjr-1,Greg Williams Jr.,2023

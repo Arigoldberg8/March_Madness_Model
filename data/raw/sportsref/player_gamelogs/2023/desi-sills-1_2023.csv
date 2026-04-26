@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2022-11-07,Kansas State,,Texas–Rio Grande Valley,REG (Non-Conf),W 93-59,,18,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,4,1.0,0,5,5,3,0,0,3,2,10,6.8,H,1,1,desi-sills-1,Desi Sills,2023
+2,128,2,2022-11-11,Kansas State,@,California,REG (Non-Conf),W 63-54,,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,5,6,0,1,1,0,2,4,4.7,A,1,1,desi-sills-1,Desi Sills,2023
+3,129,3,2022-11-17,Kansas State,,Kansas City,REG (Non-Conf),W 69-53,,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,3,4,0.75,1,1,2,5,0,0,2,2,11,7.6,H,1,1,desi-sills-1,Desi Sills,2023
+4,130,4,2022-11-21,Kansas State,N,Rhode Island,REG (Non-Conf),W 77-57,,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,0,1,1,3,0,5,4,6,-0.6,N,1,1,desi-sills-1,Desi Sills,2023
+5,131,5,2022-11-22,Kansas State,N,Nevada,REG (Non-Conf),W 96-87 (OT),,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,1,1.0,1,3,4,3,0,0,3,4,7,3.8,N,1,1,desi-sills-1,Desi Sills,2023
+6,132,6,2022-11-23,Kansas State,N,Louisiana State,REG (Non-Conf),W 61-59,,33,6,9,0.667,1,3,0.333,5,6,0.833,0.722,3,3,1.0,0,1,1,5,0,0,2,0,16,13.9,N,1,1,desi-sills-1,Desi Sills,2023
+7,133,7,2022-11-30,Kansas State,@,Butler,REG (Non-Conf),L 64-76,,29,8,15,0.533,1,4,0.25,7,11,0.636,0.567,0,1,0.0,0,3,3,1,2,0,0,2,17,12.1,A,0,1,desi-sills-1,Desi Sills,2023
+8,134,8,2022-12-03,Kansas State,,Wichita State,REG (Non-Conf),W 55-50,,28,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,3,3,4,0,1,2,2,0,-1.2,H,1,1,desi-sills-1,Desi Sills,2023
+9,135,9,2022-12-06,Kansas State,,Abilene Christian,REG (Non-Conf),W 81-64,,24,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,5,0.4,0,2,2,3,1,0,3,3,8,2.6,H,1,1,desi-sills-1,Desi Sills,2023
+10,136,10,2022-12-11,Kansas State,,Incarnate Word,REG (Non-Conf),W 98-50,,26,6,12,0.5,1,5,0.2,5,7,0.714,0.542,1,2,0.5,1,2,3,4,2,0,2,0,14,11.7,H,1,1,desi-sills-1,Desi Sills,2023
+11,137,11,2022-12-17,Kansas State,,Nebraska,REG (Non-Conf),W 71-56,,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,4,4,4,0,0,2,3,5,2.0,H,1,1,desi-sills-1,Desi Sills,2023
+12,138,12,2022-12-21,Kansas State,,Radford,REG (Non-Conf),W 73-65,,32,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,0,4,4,0,2,0,3,1,10,6.5,H,1,1,desi-sills-1,Desi Sills,2023
+13,139,13,2022-12-31,Kansas State,,West Virginia,REG (Conf),W 82-76 (OT),,33,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,1,3,4,2,1,0,2,3,9,5.1,H,1,1,desi-sills-1,Desi Sills,2023
+14,140,14,2023-01-03,Kansas State,@,Texas,REG (Conf),W 116-103,,27,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,1,1,2,0,0,1,3,8,6.2,A,1,1,desi-sills-1,Desi Sills,2023
+15,141,15,2023-01-07,Kansas State,@,Baylor,REG (Conf),W 97-95 (OT),,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,1,3,4,2,0,0,0,2,3,2.4,A,1,1,desi-sills-1,Desi Sills,2023
+16,142,16,2023-01-10,Kansas State,,Oklahoma State,REG (Conf),W 65-57,,30,3,8,0.375,0,2,0.0,3,6,0.5,0.375,5,6,0.833,0,3,3,2,2,1,1,1,11,9.8,H,1,1,desi-sills-1,Desi Sills,2023
+17,143,17,2023-01-14,Kansas State,@,TCU,REG (Conf),L 68-82,,31,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,2,1,3,2,0,1,0,2,5,6.7,A,0,1,desi-sills-1,Desi Sills,2023
+18,144,18,2023-01-17,Kansas State,,Kansas,REG (Conf),W 83-82 (OT),,34,7,11,0.636,2,3,0.667,5,8,0.625,0.727,8,9,0.889,1,3,4,0,3,0,2,1,24,20.9,H,1,1,desi-sills-1,Desi Sills,2023
+19,145,19,2023-01-21,Kansas State,,Texas Tech,REG (Conf),W 68-58,,27,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,4,4,0,1,0,2,3,4,-0.1,H,1,1,desi-sills-1,Desi Sills,2023
+20,146,20,2023-01-24,Kansas State,@,Iowa State,REG (Conf),L 76-80,,21,0,3,0.0,0,3,0.0,0,0,,0.0,0,2,0.0,0,2,2,2,1,0,1,1,0,-1.3,A,0,1,desi-sills-1,Desi Sills,2023
+21,147,21,2023-01-28,Kansas State,,Florida,REG (Non-Conf),W 64-50,,22,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,1,4,5,1,0,0,2,5,1,-4.3,H,1,1,desi-sills-1,Desi Sills,2023
+22,148,22,2023-01-31,Kansas State,@,Kansas,REG (Conf),L 78-90,,35,0,1,0.0,0,1,0.0,0,0,,0.0,7,8,0.875,0,3,3,2,1,1,1,3,7,7.7,A,0,1,desi-sills-1,Desi Sills,2023
+23,149,23,2023-02-04,Kansas State,,Texas,REG (Conf),L 66-69,,34,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,4,0.5,0,5,5,3,1,0,1,4,11,9.6,H,0,1,desi-sills-1,Desi Sills,2023
+24,150,24,2023-02-07,Kansas State,,TCU,REG (Conf),W 82-61,,33,4,9,0.444,1,3,0.333,3,6,0.5,0.5,5,5,1.0,0,6,6,4,2,1,0,2,14,15.8,H,1,1,desi-sills-1,Desi Sills,2023
+25,151,25,2023-02-11,Kansas State,@,Texas Tech,REG (Conf),L 63-71,,31,5,9,0.556,1,2,0.5,4,7,0.571,0.611,1,4,0.25,1,3,4,1,1,0,4,3,12,4.6,A,0,1,desi-sills-1,Desi Sills,2023
+26,152,26,2023-02-14,Kansas State,@,Oklahoma,REG (Conf),L 65-79,,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,2,2,1,0,0,1,3,4,0.0,A,0,1,desi-sills-1,Desi Sills,2023
+27,153,27,2023-02-18,Kansas State,,Iowa State,REG (Conf),W 61-55,*,33,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,4,0.5,0,3,3,3,1,1,1,3,4,2.6,H,1,1,desi-sills-1,Desi Sills,2023
+28,154,28,2023-02-21,Kansas State,,Baylor,REG (Conf),W 75-65,*,33,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,5,5,3,0,0,1,1,6,4.8,H,1,1,desi-sills-1,Desi Sills,2023
+29,155,29,2023-02-25,Kansas State,@,Oklahoma State,REG (Conf),W 73-68,*,31,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,4,1.0,0,4,4,1,1,0,2,2,10,6.4,A,1,1,desi-sills-1,Desi Sills,2023
+30,156,30,2023-03-01,Kansas State,,Oklahoma,REG (Conf),W 85-69,*,35,5,9,0.556,0,2,0.0,5,7,0.714,0.556,5,6,0.833,2,7,9,8,2,1,2,3,15,18.9,H,1,1,desi-sills-1,Desi Sills,2023
+31,157,32,2023-03-09,Kansas State,N,TCU,CTOURN,L 67-80,*,35,2,5,0.4,1,3,0.333,1,2,0.5,0.5,9,10,0.9,1,1,2,2,1,4,3,2,14,13.3,N,0,0,desi-sills-1,Desi Sills,2023
+32,158,33,2023-03-17,Kansas State,N,Montana State,ROUND-64,W 77-65,*,32,3,5,0.6,0,2,0.0,3,3,1.0,0.6,1,2,0.5,1,2,3,2,2,0,4,4,7,3.4,N,1,0,desi-sills-1,Desi Sills,2023
+33,159,34,2023-03-19,Kansas State,N,Kentucky,ROUND-32,W 75-69,*,29,3,5,0.6,0,1,0.0,3,4,0.75,0.6,6,7,0.857,0,4,4,0,1,0,0,2,12,10.7,N,1,0,desi-sills-1,Desi Sills,2023
+34,160,35,2023-03-23,Kansas State,N,Michigan State,ROUND-16,W 98-93 (OT),*,19,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,2,2,0,0,0,0,5,7,3.6,N,1,0,desi-sills-1,Desi Sills,2023
+35,161,36,2023-03-25,Kansas State,N,Florida Atlantic,ROUND-8,L 76-79,*,39,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,0,1,1,2,1,0,0,1,9,6.9,N,0,0,desi-sills-1,Desi Sills,2023

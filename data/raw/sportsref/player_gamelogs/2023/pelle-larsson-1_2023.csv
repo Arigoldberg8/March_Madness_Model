@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2022-11-07,Arizona,,Nicholls State,REG (Non-Conf),W 117-75,*,28,5,9,0.556,2,3,0.667,3,6,0.5,0.667,4,6,0.667,1,9,10,4,2,0,3,3,16,14.9,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+2,64,2,2022-11-11,Arizona,,Southern,REG (Non-Conf),W 95-78,*,29,7,11,0.636,0,4,0.0,7,7,1.0,0.636,3,5,0.6,2,2,4,2,0,1,3,1,17,12.0,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+3,65,3,2022-11-17,Arizona,,Utah Tech,REG (Non-Conf),W 104-77,*,25,3,5,0.6,2,3,0.667,1,2,0.5,0.8,6,6,1.0,0,3,3,6,0,0,2,1,14,14.4,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+4,66,4,2022-11-21,Arizona,N,Cincinnati,REG (Non-Conf),W 101-93,*,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,6,0.667,1,2,3,5,1,0,1,4,8,7.7,N,1,1,pelle-larsson-1,Pelle Larsson,2023
+5,67,5,2022-11-22,Arizona,N,San Diego State,REG (Non-Conf),W 87-70,*,31,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,5,5,3,0,0,3,3,7,3.4,N,1,1,pelle-larsson-1,Pelle Larsson,2023
+6,68,6,2022-11-23,Arizona,N,Creighton,REG (Non-Conf),W 81-79,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,3,4,2,1,1,4,4,5,2.1,N,1,1,pelle-larsson-1,Pelle Larsson,2023
+7,69,7,2022-12-01,Arizona,@,Utah,REG (Conf),L 66-81,*,34,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,3,0.667,2,9,11,3,1,1,0,2,2,5.2,A,0,1,pelle-larsson-1,Pelle Larsson,2023
+8,70,8,2022-12-04,Arizona,,California,REG (Conf),W 81-68,*,24,1,5,0.2,0,3,0.0,1,2,0.5,0.2,6,6,1.0,1,3,4,1,1,0,1,3,8,6.0,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+9,71,9,2022-12-10,Arizona,N,Indiana,REG (Non-Conf),W 89-75,*,35,5,9,0.556,0,4,0.0,5,5,1.0,0.556,6,6,1.0,1,3,4,3,0,0,1,1,16,14.0,N,1,1,pelle-larsson-1,Pelle Larsson,2023
+10,72,10,2022-12-13,Arizona,,Texas A&M–Corpus Christi,REG (Non-Conf),W 99-61,*,22,2,4,0.5,2,4,0.5,0,0,,0.75,3,6,0.5,0,2,2,4,1,1,2,0,9,8.9,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+11,73,11,2022-12-17,Arizona,,Tennessee,REG (Non-Conf),W 75-70,*,36,4,10,0.4,0,3,0.0,4,7,0.571,0.4,9,9,1.0,2,6,8,4,0,0,4,1,17,13.2,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+12,74,12,2022-12-20,Arizona,,Montana State,REG (Non-Conf),W 85-64,*,30,2,8,0.25,1,3,0.333,1,5,0.2,0.313,7,8,0.875,1,3,4,5,1,0,2,1,12,10.5,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+13,75,13,2022-12-22,Arizona,,Morgan State,REG (Non-Conf),W 93-68,*,26,2,6,0.333,2,4,0.5,0,2,0.0,0.5,3,4,0.75,3,3,6,4,1,0,2,4,9,8.4,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+14,76,14,2022-12-31,Arizona,@,Arizona State,REG (Conf),W 69-60,*,24,1,6,0.167,1,4,0.25,0,2,0.0,0.25,4,4,1.0,1,3,4,0,0,0,1,2,7,3.0,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+15,77,15,2023-01-05,Arizona,,Washington,REG (Conf),W 70-67,*,34,3,9,0.333,2,4,0.5,1,5,0.2,0.444,4,4,1.0,1,4,5,5,4,0,0,2,12,15.5,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+16,78,16,2023-01-07,Arizona,,Washington State,REG (Conf),L 61-74,*,34,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,2,3,5,1,0,0,1,2,7,4.8,H,0,1,pelle-larsson-1,Pelle Larsson,2023
+17,79,17,2023-01-12,Arizona,@,Oregon State,REG (Conf),W 86-74,*,26,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,2,5,7,1,1,1,0,4,9,10.4,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+18,80,18,2023-01-14,Arizona,@,Oregon,REG (Conf),L 68-87,*,27,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,3,4,1,1,0,4,1,4,1.9,A,0,1,pelle-larsson-1,Pelle Larsson,2023
+19,81,19,2023-01-19,Arizona,,Southern California,REG (Conf),W 81-66,,30,4,7,0.571,2,3,0.667,2,4,0.5,0.714,5,5,1.0,1,2,3,3,3,0,5,3,15,11.9,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+20,82,20,2023-01-21,Arizona,,UCLA,REG (Conf),W 58-52,,30,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,1,3,4,3,1,0,2,1,8,6.6,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+21,83,21,2023-01-26,Arizona,@,Washington State,REG (Conf),W 63-58,,33,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,1,4,5,3,1,0,2,4,10,7.8,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+22,84,22,2023-01-28,Arizona,@,Washington,REG (Conf),W 95-72,,19,0,3,0.0,0,1,0.0,0,2,0.0,0.0,4,4,1.0,0,0,0,3,0,0,0,2,4,3.2,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+23,85,23,2023-02-02,Arizona,,Oregon,REG (Conf),W 91-76,,30,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,1,1,5,0,0,2,2,9,6.6,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+24,86,24,2023-02-04,Arizona,,Oregon State,REG (Conf),W 84-52,,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,4,1.0,1,2,3,3,2,0,1,1,10,11.0,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+25,87,25,2023-02-09,Arizona,@,California,REG (Conf),W 85-62,,23,6,7,0.857,3,3,1.0,3,4,0.75,1.071,1,3,0.333,0,1,1,2,0,1,0,0,16,15.1,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+26,88,26,2023-02-11,Arizona,@,Stanford,REG (Conf),L 79-88,,31,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,4,1.0,2,4,6,0,4,0,4,2,12,9.1,A,0,1,pelle-larsson-1,Pelle Larsson,2023
+27,89,27,2023-02-16,Arizona,,Utah,REG (Conf),W 88-62,,25,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,1,1.0,0,0,0,4,0,1,0,1,11,10.5,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+28,90,28,2023-02-18,Arizona,,Colorado,REG (Conf),W 78-68,,28,1,2,0.5,0,0,,1,2,0.5,0.5,9,11,0.818,1,4,5,5,0,0,0,3,11,13.4,H,1,1,pelle-larsson-1,Pelle Larsson,2023
+29,91,29,2023-02-25,Arizona,,Arizona State,REG (Conf),L 88-89,,31,5,8,0.625,3,4,0.75,2,4,0.5,0.813,3,6,0.5,1,5,6,2,0,0,2,3,16,11.6,H,0,1,pelle-larsson-1,Pelle Larsson,2023
+30,92,30,2023-03-02,Arizona,@,Southern California,REG (Conf),W 87-81,,21,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,2,2,4,0,0,1,5,4,2.7,A,1,1,pelle-larsson-1,Pelle Larsson,2023
+31,93,31,2023-03-04,Arizona,@,UCLA,REG (Conf),L 73-82,,22,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,1,1.0,0,3,3,1,1,1,1,5,10,7.7,A,0,1,pelle-larsson-1,Pelle Larsson,2023
+32,94,32,2023-03-09,Arizona,N,Stanford,CTOURN,W 95-84,,29,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,6,7,5,1,0,2,2,9,10.6,N,1,0,pelle-larsson-1,Pelle Larsson,2023
+33,95,33,2023-03-10,Arizona,N,Arizona State,CTOURN,W 78-59,,24,4,7,0.571,2,3,0.667,2,4,0.5,0.714,1,3,0.333,0,3,3,3,0,0,1,0,11,8.9,N,1,0,pelle-larsson-1,Pelle Larsson,2023
+34,96,34,2023-03-11,Arizona,N,UCLA,CTOURN,W 61-59,,34,3,7,0.429,2,4,0.5,1,3,0.333,0.571,3,4,0.75,1,3,4,5,0,0,3,2,11,8.2,N,1,0,pelle-larsson-1,Pelle Larsson,2023
+35,97,35,2023-03-16,Arizona,N,Princeton,ROUND-64,L 55-59,,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,5,5,2,0,0,1,4,2,0.6,N,0,0,pelle-larsson-1,Pelle Larsson,2023

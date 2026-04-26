@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2011-11-13,Wichita State,,Charleston Southern,REG (Non-Conf),W 85-57,*,9,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,1,3,0,0,0,1,3,4,1.5,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+2,106,2,2011-11-17,Wichita State,N,Colorado,REG (Non-Conf),W 67-58,*,30,7,14,0.5,0,1,0.0,7,13,0.538,0.5,0,1,0.0,5,6,11,1,0,1,1,3,14,11.1,N,1,1,garrett-stutz-1,Garrett Stutz,2012
+3,107,3,2011-11-18,Wichita State,N,Alabama,REG (Non-Conf),L 60-70,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,3,6,9,1,0,0,2,4,5,3.6,N,0,1,garrett-stutz-1,Garrett Stutz,2012
+4,108,4,2011-11-20,Wichita State,N,Temple,REG (Non-Conf),L 74-78 (OT),*,40,5,12,0.417,0,3,0.0,5,9,0.556,0.417,3,3,1.0,3,11,14,3,1,2,2,1,13,14.1,N,0,1,garrett-stutz-1,Garrett Stutz,2012
+5,109,5,2011-11-25,Wichita State,N,UAB,REG (Non-Conf),W 68-46,*,17,7,10,0.7,0,0,,7,10,0.7,0.7,3,4,0.75,3,0,3,0,0,0,1,3,17,12.3,N,1,1,garrett-stutz-1,Garrett Stutz,2012
+6,110,6,2011-12-01,Wichita State,,Cal State Fullerton,REG (Non-Conf),W 75-60,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,2,3,0.667,1,4,5,1,0,0,2,2,6,1.3,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+7,111,7,2011-12-04,Wichita State,,UNLV,REG (Non-Conf),W 89-70,*,22,5,8,0.625,1,3,0.333,4,5,0.8,0.688,2,3,0.667,2,2,4,1,0,0,1,3,13,9.5,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+8,112,8,2011-12-07,Wichita State,@,Tulsa,REG (Non-Conf),W 77-67,*,24,5,9,0.556,1,1,1.0,4,8,0.5,0.611,4,6,0.667,0,7,7,0,1,1,1,4,15,11.1,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+9,113,9,2011-12-10,Wichita State,,Utah State,REG (Non-Conf),W 83-76,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,0,1,0.0,3,5,8,3,0,3,4,3,6,4.5,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+10,114,10,2011-12-14,Wichita State,,Chicago State,REG (Non-Conf),W 94-44,*,14,3,4,0.75,0,0,,3,4,0.75,0.75,3,3,1.0,0,2,2,2,1,1,0,3,9,9.9,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+11,115,11,2011-12-19,Wichita State,,Newman,REG (Non-Conf),W 102-53,*,17,6,7,0.857,0,0,,6,7,0.857,0.857,4,4,1.0,3,2,5,2,1,0,4,0,16,14.6,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+12,116,12,2011-12-28,Wichita State,@,Bradley,REG (Conf),W 90-51,*,19,5,6,0.833,0,0,,5,6,0.833,0.833,4,4,1.0,3,7,10,2,0,0,0,3,14,16.2,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+13,117,13,2011-12-31,Wichita State,,Creighton,REG (Conf),L 61-68,*,19,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,1,1.0,0,4,4,1,0,0,2,3,5,-1.1,H,0,1,garrett-stutz-1,Garrett Stutz,2012
+14,118,14,2012-01-04,Wichita State,@,Evansville,REG (Conf),W 67-66,*,36,12,14,0.857,0,0,,12,14,0.857,0.857,5,5,1.0,3,7,10,4,1,3,6,2,29,27.3,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+15,119,15,2012-01-07,Wichita State,@,Southern Illinois,REG (Conf),W 83-73,*,29,7,11,0.636,0,0,,7,11,0.636,0.636,2,3,0.667,2,5,7,2,1,0,1,3,16,13.8,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+16,120,16,2012-01-10,Wichita State,,Illinois State,REG (Conf),W 65-62,*,31,4,12,0.333,0,1,0.0,4,11,0.364,0.333,4,6,0.667,3,7,10,0,1,4,0,2,12,11.6,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+17,121,17,2012-01-13,Wichita State,,Bradley,REG (Conf),W 78-41,*,22,5,8,0.625,0,0,,5,8,0.625,0.625,6,6,1.0,3,10,13,2,0,0,0,2,16,18.1,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+18,122,18,2012-01-15,Wichita State,@,Indiana State,REG (Conf),W 75-65,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,6,6,1.0,1,10,11,0,0,0,2,4,8,5.7,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+19,123,19,2012-01-18,Wichita State,@,Northern Iowa,REG (Conf),W 71-68,*,30,6,10,0.6,0,1,0.0,6,9,0.667,0.6,5,6,0.833,2,7,9,2,0,0,2,3,17,13.7,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+20,124,21,2012-01-25,Wichita State,,Evansville,REG (Conf),W 86-74,*,27,9,11,0.818,0,2,0.0,9,9,1.0,0.818,5,7,0.714,0,8,8,0,0,2,2,1,23,19.5,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+21,125,22,2012-01-28,Wichita State,@,Drake,REG (Conf),L 86-93 (3OT),*,50,10,16,0.625,1,3,0.333,9,13,0.692,0.656,6,6,1.0,0,5,5,0,1,2,7,5,27,14.7,A,0,1,garrett-stutz-1,Garrett Stutz,2012
+22,126,23,2012-02-01,Wichita State,@,Missouri State,REG (Conf),W 74-67,*,33,10,14,0.714,1,2,0.5,9,12,0.75,0.75,4,5,0.8,2,9,11,1,0,1,1,3,25,22.1,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+23,127,24,2012-02-04,Wichita State,,Indiana State,REG (Conf),W 71-66,*,33,7,16,0.438,0,0,,7,16,0.438,0.438,10,12,0.833,1,14,15,0,0,5,4,1,24,18.8,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+24,128,25,2012-02-08,Wichita State,,Northern Iowa,REG (Conf),W 82-57,*,27,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,2,10,12,1,1,1,0,1,10,11.4,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+25,129,26,2012-02-11,Wichita State,@,Creighton,REG (Conf),W 89-68,*,13,3,6,0.5,2,2,1.0,1,4,0.25,0.667,0,0,,1,0,1,1,0,0,2,4,8,2.8,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+26,130,27,2012-02-15,Wichita State,,Missouri State,REG (Conf),W 73-58,*,32,7,8,0.875,4,4,1.0,3,4,0.75,1.125,3,4,0.75,1,9,10,1,0,0,2,1,21,19.5,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+27,131,28,2012-02-18,Wichita State,@,Davidson,REG (Non-Conf),W 91-74,*,24,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,2,0.0,1,4,5,1,0,3,4,2,8,3.1,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+28,132,29,2012-02-22,Wichita State,@,Illinois State,REG (Conf),W 68-55,*,30,5,15,0.333,0,1,0.0,5,14,0.357,0.333,2,2,1.0,3,11,14,1,1,1,4,2,12,6.5,A,1,1,garrett-stutz-1,Garrett Stutz,2012
+29,133,30,2012-02-25,Wichita State,,Drake,REG (Conf),W 81-58,*,19,4,10,0.4,0,2,0.0,4,8,0.5,0.4,7,7,1.0,1,4,5,0,1,0,2,1,15,10.1,H,1,1,garrett-stutz-1,Garrett Stutz,2012
+30,134,31,2012-03-02,Wichita State,N,Indiana State,CTOURN,W 72-48,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,4,8,12,0,0,2,3,3,6,5.4,N,1,0,garrett-stutz-1,Garrett Stutz,2012
+31,135,32,2012-03-03,Wichita State,N,Illinois State,CTOURN,L 64-65,*,16,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,3,5,0,1,0,3,4,6,1.0,N,0,0,garrett-stutz-1,Garrett Stutz,2012
+32,136,33,2012-03-15,Wichita State,N,VCU,ROUND-64,L 59-62,*,17,2,11,0.182,0,2,0.0,2,9,0.222,0.182,0,0,,1,6,7,2,0,1,1,3,4,-0.5,N,0,0,garrett-stutz-1,Garrett Stutz,2012

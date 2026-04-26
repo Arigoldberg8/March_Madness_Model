@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-09,Florida Gulf Coast,@,VCU,REG (Non-Conf),L 57-80,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,0,0,1,0,3,1.0,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+2,34,2,2012-11-13,Florida Gulf Coast,,Miami (FL),REG (Non-Conf),W 63-51,,12,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,1,1,2,0,0,0,1,0,5,1.6,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+3,35,4,2012-11-18,Florida Gulf Coast,@,Duke,REG (Non-Conf),L 67-88,,21,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,2,2,4,0,0,0,0,0,6,4.6,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+4,36,6,2012-11-22,Florida Gulf Coast,,Toledo,REG (Non-Conf),W 72-66,,7,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,1,1,2,0,0,0,0,0,6,5.3,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+5,37,7,2012-11-24,Florida Gulf Coast,@,St. John's (NY),REG (Non-Conf),L 68-79,,8,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,2,2,0,0,0,1,0,1,-1.9,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+6,38,8,2012-11-28,Florida Gulf Coast,@,Samford,REG (Non-Conf),W 86-62,,13,4,5,0.8,3,4,0.75,1,1,1.0,1.1,1,2,0.5,1,3,4,0,0,0,2,0,12,9.3,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+7,39,9,2012-12-01,Florida Gulf Coast,,Loyola (MD),REG (Non-Conf),W 65-50,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.8,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+8,40,10,2012-12-04,Florida Gulf Coast,@,Iowa State,REG (Non-Conf),L 72-83,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,3,3,1.0,0,2,2,0,0,0,1,1,3,0.1,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+9,41,11,2012-12-13,Florida Gulf Coast,,Florida International,REG (Non-Conf),W 76-73,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,3,0,-1.2,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+10,42,12,2012-12-18,Florida Gulf Coast,,Southeastern (FL),REG (Non-Conf),W 86-60,,21,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,2,6,8,0,0,0,1,0,9,6.5,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+11,43,13,2012-12-22,Florida Gulf Coast,@,Maine,REG (Non-Conf),L 78-84,,16,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,1,9,5.9,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+12,44,14,2012-12-31,Florida Gulf Coast,@,Kennesaw State,REG (Conf),W 68-59,,18,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,3,3,0,1,0,1,2,9,5.4,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+13,45,15,2013-01-02,Florida Gulf Coast,@,Mercer,REG (Conf),L 70-77 (OT),,23,5,12,0.417,4,10,0.4,1,2,0.5,0.583,0,0,,1,3,4,0,0,0,0,0,14,9.2,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+14,46,16,2013-01-05,Florida Gulf Coast,,Jacksonville,REG (Conf),W 78-55,,16,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,1,2,3,1,0,0,0,1,7,5.2,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+15,47,17,2013-01-07,Florida Gulf Coast,,North Florida,REG (Conf),W 75-73,,12,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,0,0,0,0,0,0,0,6,4.0,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+16,48,18,2013-01-10,Florida Gulf Coast,@,USC Upstate,REG (Conf),W 72-71 (OT),,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.8,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+17,49,19,2013-01-12,Florida Gulf Coast,@,East Tennessee State,REG (Conf),L 75-85,,16,2,11,0.182,2,8,0.25,0,3,0.0,0.273,1,2,0.5,2,0,2,0,0,0,0,2,7,0.3,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+18,50,20,2013-01-17,Florida Gulf Coast,,Lipscomb,REG (Conf),L 78-87 (OT),,16,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,2,2,4,0,1,0,1,2,3,-0.3,H,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+19,51,21,2013-01-19,Florida Gulf Coast,,Northern Kentucky,REG (Conf),W 73-54,,19,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,4,4,1,0,0,0,1,0,0.1,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+20,52,22,2013-01-25,Florida Gulf Coast,,Stetson,REG (Conf),W 96-65,,16,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,0,0,1,0,0,0,0,2,-1.1,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+21,53,23,2013-01-31,Florida Gulf Coast,@,North Florida,REG (Conf),W 89-75,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,0,0,0,1,0,3,0.2,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+22,54,24,2013-02-02,Florida Gulf Coast,@,Jacksonville,REG (Conf),W 81-78,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,2,0,-0.9,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+23,55,25,2013-02-07,Florida Gulf Coast,,East Tennessee State,REG (Conf),W 67-43,,17,1,6,0.167,0,5,0.0,1,1,1.0,0.167,2,2,1.0,0,5,5,0,0,1,0,2,4,1.6,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+24,56,26,2013-02-09,Florida Gulf Coast,,USC Upstate,REG (Conf),W 74-49,,17,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,1,1.0,1,2,3,1,0,1,1,0,5,2.6,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+25,57,27,2013-02-14,Florida Gulf Coast,@,Northern Kentucky,REG (Conf),W 60-53,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,A,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+26,58,28,2013-02-16,Florida Gulf Coast,@,Lipscomb,REG (Conf),L 74-84,,16,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,1,2,0,0,2,0,1,3,2.6,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+27,59,29,2013-02-22,Florida Gulf Coast,@,Stetson,REG (Conf),L 71-80,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,A,0,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+28,60,30,2013-02-28,Florida Gulf Coast,,Mercer,REG (Conf),W 60-57,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,2,0,1,0,0,-0.8,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+29,61,31,2013-03-02,Florida Gulf Coast,,Kennesaw State,REG (Conf),W 67-49,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,3,4,0,1,0,2,0,1,-0.2,H,1,1,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+30,62,32,2013-03-06,Florida Gulf Coast,N,North Florida,CTOURN,W 73-63,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,0.3,N,1,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+31,63,33,2013-03-08,Florida Gulf Coast,N,Stetson,CTOURN,W 72-58,,11,0,2,0.0,0,2,0.0,0,0,,0.0,2,3,0.667,0,1,1,0,0,1,1,3,2,-1.0,N,1,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+32,64,34,2013-03-09,Florida Gulf Coast,N,Mercer,CTOURN,W 88-75,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,0,0,0,0,0,3,1.9,N,1,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+33,65,35,2013-03-22,Florida Gulf Coast,N,Georgetown,ROUND-64,W 78-68,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+34,66,36,2013-03-24,Florida Gulf Coast,N,San Diego State,ROUND-32,W 81-71,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,N,1,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013
+35,67,37,2013-03-29,Florida Gulf Coast,N,Florida,ROUND-16,L 50-62,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,0,0,filip-cvjeticanin-1,Filip Cvjeticanin,2013

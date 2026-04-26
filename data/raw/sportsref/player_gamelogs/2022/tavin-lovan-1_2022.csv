@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2021-11-09,UAB,,UNC Asheville,REG (Non-Conf),W 102-77,*,19,4,6,0.667,0,0,,4,6,0.667,0.667,5,6,0.833,1,3,4,1,2,1,0,1,13,14.6,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+2,96,2,2021-11-12,UAB,,Morehead State,REG (Non-Conf),W 85-71,*,20,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,1,0.0,0,3,3,2,0,0,0,2,10,6.8,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+3,97,4,2021-11-18,UAB,@,South Carolina,REG (Non-Conf),L 63-66,*,17,3,8,0.375,0,0,,3,8,0.375,0.375,0,2,0.0,2,0,2,0,1,0,0,1,6,2.8,A,0,1,tavin-lovan-1,Tavin Lovan,2022
+4,98,5,2021-11-21,UAB,,Alabama A&M,REG (Non-Conf),W 86-41,,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,2,1,0,1,1,4,4.4,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+5,99,6,2021-11-25,UAB,N,New Mexico,REG (Non-Conf),W 86-73,*,23,5,7,0.714,0,0,,5,7,0.714,0.714,2,3,0.667,2,2,4,0,2,1,1,3,12,11.2,N,1,1,tavin-lovan-1,Tavin Lovan,2022
+6,100,7,2021-11-26,UAB,N,San Francisco,REG (Non-Conf),L 61-63,*,28,6,14,0.429,0,0,,6,14,0.429,0.429,2,2,1.0,0,1,1,2,2,0,0,1,14,9.9,N,0,1,tavin-lovan-1,Tavin Lovan,2022
+7,101,8,2021-12-01,UAB,,East Tennessee State,REG (Non-Conf),W 70-56,*,25,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,2,0,2,2,0,0,0,0,3,2.3,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+8,102,9,2021-12-04,UAB,@,Saint Louis,REG (Non-Conf),W 77-72,,15,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,1,4,5,1,1,0,0,1,5,4.4,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+9,103,10,2021-12-12,UAB,,Millsaps,REG (Non-Conf),W 103-29,,22,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,0,4,4,3,5,1,2,3,7,10.1,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+10,104,11,2021-12-14,UAB,,Grambling State,REG (Non-Conf),W 79-61,,23,3,9,0.333,0,0,,3,9,0.333,0.333,0,2,0.0,2,2,4,2,0,0,1,2,6,1.7,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+11,105,12,2021-12-18,UAB,,West Virginia,REG (Non-Conf),L 59-65,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,0,1,tavin-lovan-1,Tavin Lovan,2022
+12,106,14,2021-12-30,UAB,,UTEP,REG (Conf),W 75-62,,22,7,9,0.778,0,0,,7,9,0.778,0.778,0,1,0.0,2,3,5,2,2,1,1,3,14,14.3,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+13,107,15,2022-01-01,UAB,,UTSA,REG (Conf),W 87-59,*,25,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,4,2,6,6,1,0,0,1,8,12.2,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+14,108,16,2022-01-06,UAB,@,North Texas,REG (Conf),W 69-63,*,26,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,0,2,2,4,1,0,3,1,5,1.5,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+15,109,17,2022-01-08,UAB,@,Rice,REG (Conf),L 80-85,*,26,6,10,0.6,1,1,1.0,5,9,0.556,0.65,1,1,1.0,3,1,4,1,4,0,0,3,14,15.3,A,0,1,tavin-lovan-1,Tavin Lovan,2022
+16,110,18,2022-01-13,UAB,,Florida International,REG (Conf),W 84-56,*,21,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,1,3,4,0,0,0,1,0,12,8.7,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+17,111,19,2022-01-15,UAB,,Florida Atlantic,REG (Conf),W 76-65,*,25,2,10,0.2,0,0,,2,10,0.2,0.2,0,1,0.0,1,3,4,1,1,0,1,0,4,-0.3,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+18,112,20,2022-01-22,UAB,@,Louisiana Tech,REG (Conf),W 83-76,*,27,4,11,0.364,0,0,,4,11,0.364,0.364,2,2,1.0,1,3,4,2,4,0,2,3,10,7.7,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+19,113,21,2022-01-27,UAB,@,Western Kentucky,REG (Conf),W 68-65,*,33,3,10,0.3,0,2,0.0,3,8,0.375,0.3,2,3,0.667,1,4,5,3,0,1,0,2,8,5.7,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+20,114,22,2022-01-29,UAB,@,Marshall,REG (Conf),L 81-84,*,21,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,0,1,1,1,2,0,1,0,8,5.3,A,0,1,tavin-lovan-1,Tavin Lovan,2022
+21,115,23,2022-02-05,UAB,,Middle Tennessee,REG (Conf),W 97-75,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,0,3,3,1,0,1,1,2,8,5.1,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+22,116,24,2022-02-10,UAB,,Southern Mississippi,REG (Conf),W 84-63,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,1,2,3,1,0,0,0,2,7,5.2,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+23,117,25,2022-02-13,UAB,@,Old Dominion,REG (Conf),L 72-81,*,21,0,3,0.0,0,0,,0,3,0.0,0.0,3,4,0.75,1,2,3,0,0,0,0,0,3,1.8,A,0,1,tavin-lovan-1,Tavin Lovan,2022
+24,118,26,2022-02-17,UAB,,Rice,REG (Conf),W 92-68,,20,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,3,0,3,0,1,0,2,2,10,5.3,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+25,119,27,2022-02-19,UAB,,North Texas,REG (Conf),L 57-58,,25,4,5,0.8,0,0,,4,5,0.8,0.8,4,7,0.571,0,3,3,0,0,0,0,1,12,9.4,H,0,1,tavin-lovan-1,Tavin Lovan,2022
+26,120,28,2022-02-24,UAB,@,UTSA,REG (Conf),W 68-56,,22,5,7,0.714,0,0,,5,7,0.714,0.714,0,2,0.0,1,3,4,0,0,0,1,1,10,6.5,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+27,121,29,2022-02-26,UAB,@,UTEP,REG (Conf),W 69-66,,22,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,0,2,1,0,0,1,2,6,3.3,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+28,122,30,2022-03-02,UAB,@,Southern Mississippi,REG (Conf),W 81-68,*,20,3,6,0.5,0,0,,3,6,0.5,0.5,2,6,0.333,2,1,3,1,1,0,1,1,8,5.4,A,1,1,tavin-lovan-1,Tavin Lovan,2022
+29,123,31,2022-03-05,UAB,,Louisiana Tech,REG (Conf),W 87-74,,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,3,5,1,0,0,1,1,4,3.6,H,1,1,tavin-lovan-1,Tavin Lovan,2022
+30,124,32,2022-03-10,UAB,N,Florida Atlantic,CTOURN,W 80-66,,18,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,4,4,0,2,0,1,0,6,5.9,N,1,0,tavin-lovan-1,Tavin Lovan,2022
+31,125,33,2022-03-11,UAB,N,Middle Tennessee,CTOURN,W 102-98 (3OT),,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,6,0.667,0,5,5,1,1,0,0,2,8,6.9,N,1,0,tavin-lovan-1,Tavin Lovan,2022
+32,126,34,2022-03-12,UAB,N,Louisiana Tech,CTOURN,W 82-73,,20,3,4,0.75,0,0,,3,4,0.75,0.75,5,7,0.714,1,6,7,1,3,1,0,1,11,15.1,N,1,0,tavin-lovan-1,Tavin Lovan,2022
+33,127,35,2022-03-18,UAB,N,Houston,ROUND-64,L 68-82,,23,5,7,0.714,0,0,,5,7,0.714,0.714,4,6,0.667,3,2,5,1,1,0,1,2,14,12.9,N,0,0,tavin-lovan-1,Tavin Lovan,2022

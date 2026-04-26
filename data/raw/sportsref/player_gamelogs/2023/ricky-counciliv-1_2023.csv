@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,50,1,2022-11-07,Arkansas,,North Dakota State,REG (Non-Conf),W 76-58,*,36,9,14,0.643,1,2,0.5,8,12,0.667,0.679,3,6,0.5,1,2,3,2,1,1,1,1,22,17.6,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+2,51,2,2022-11-11,Arkansas,,Fordham,REG (Non-Conf),W 74-48,*,37,5,12,0.417,1,3,0.333,4,9,0.444,0.458,4,4,1.0,1,3,4,7,2,0,2,2,15,14.3,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+3,52,3,2022-11-16,Arkansas,,South Dakota State,REG (Non-Conf),W 71-56,*,30,8,12,0.667,1,4,0.25,7,8,0.875,0.708,2,3,0.667,0,2,2,2,1,1,3,2,19,13.3,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+4,53,4,2022-11-21,Arkansas,N,Louisville,REG (Non-Conf),W 80-54,*,35,6,13,0.462,3,7,0.429,3,6,0.5,0.577,0,0,,1,2,3,3,4,0,4,1,15,11.3,N,1,1,ricky-counciliv-1,Ricky Council IV,2023
+5,54,5,2022-11-22,Arkansas,N,Creighton,REG (Non-Conf),L 87-90,*,40,9,19,0.474,2,6,0.333,7,13,0.538,0.526,4,4,1.0,1,2,3,3,2,0,1,3,24,17.5,N,0,1,ricky-counciliv-1,Ricky Council IV,2023
+6,55,6,2022-11-23,Arkansas,N,San Diego State,REG (Non-Conf),W 78-74 (OT),*,41,6,19,0.316,0,3,0.0,6,16,0.375,0.316,7,11,0.636,1,2,3,4,2,0,3,3,19,8.4,N,1,1,ricky-counciliv-1,Ricky Council IV,2023
+7,56,7,2022-11-28,Arkansas,,Troy,REG (Non-Conf),W 74-61,*,39,12,18,0.667,1,4,0.25,11,14,0.786,0.694,2,2,1.0,2,1,3,0,1,0,2,2,27,19.1,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+8,57,8,2022-12-03,Arkansas,,San Jose State,REG (Non-Conf),W 99-58,*,27,5,6,0.833,1,1,1.0,4,5,0.8,0.917,6,6,1.0,0,3,3,1,3,0,3,1,17,16.0,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+9,58,9,2022-12-06,Arkansas,,UNC Greensboro,REG (Non-Conf),W 65-58,*,37,1,7,0.143,0,3,0.0,1,4,0.25,0.143,6,6,1.0,0,3,3,2,0,0,3,3,8,1.6,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+10,59,10,2022-12-10,Arkansas,N,Oklahoma,REG (Non-Conf),W 88-78,*,40,10,15,0.667,1,2,0.5,9,13,0.692,0.7,5,7,0.714,0,2,2,5,1,0,1,1,26,22.4,N,1,1,ricky-counciliv-1,Ricky Council IV,2023
+11,60,11,2022-12-17,Arkansas,,Bradley,REG (Non-Conf),W 76-57,*,37,4,10,0.4,1,3,0.333,3,7,0.429,0.45,7,8,0.875,0,2,2,2,2,0,2,2,16,11.4,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+12,61,12,2022-12-21,Arkansas,,UNC Asheville,REG (Non-Conf),W 85-51,*,25,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,1,1,2,2,1,0,1,2,12,8.6,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+13,62,13,2022-12-28,Arkansas,@,Louisiana State,REG (Conf),L 57-60,*,40,5,19,0.263,1,5,0.2,4,14,0.286,0.289,2,5,0.4,4,2,6,0,3,0,2,1,13,4.5,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+14,63,14,2023-01-04,Arkansas,,Missouri,REG (Conf),W 74-68,*,31,6,15,0.4,2,7,0.286,4,8,0.5,0.467,11,13,0.846,2,5,7,1,0,1,5,1,25,15.0,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+15,64,15,2023-01-07,Arkansas,@,Auburn,REG (Conf),L 59-72,*,36,5,15,0.333,2,6,0.333,3,9,0.333,0.4,2,2,1.0,1,1,2,1,0,1,3,1,14,4.5,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+16,65,16,2023-01-11,Arkansas,,Alabama,REG (Conf),L 69-84,,36,4,10,0.4,0,2,0.0,4,8,0.5,0.4,7,9,0.778,0,2,2,3,1,0,5,1,15,7.1,H,0,1,ricky-counciliv-1,Ricky Council IV,2023
+17,66,17,2023-01-14,Arkansas,@,Vanderbilt,REG (Conf),L 84-97,*,40,8,12,0.667,3,6,0.5,5,6,0.833,0.792,5,7,0.714,3,0,3,1,2,0,1,4,24,20.2,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+18,67,18,2023-01-18,Arkansas,@,Missouri,REG (Conf),L 76-79,*,29,4,11,0.364,1,4,0.25,3,7,0.429,0.409,4,4,1.0,3,0,3,1,3,0,3,4,13,8.1,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+19,68,19,2023-01-21,Arkansas,,Ole Miss,REG (Conf),W 69-57,*,18,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,0,1,0,3,0,2,-3.5,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+20,69,20,2023-01-24,Arkansas,,Louisiana State,REG (Conf),W 60-40,*,40,4,13,0.308,0,3,0.0,4,10,0.4,0.308,2,3,0.667,0,6,6,7,1,0,1,0,10,8.8,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+21,70,21,2023-01-28,Arkansas,@,Baylor,REG (Non-Conf),L 64-67,*,39,10,17,0.588,2,4,0.5,8,13,0.615,0.647,3,3,1.0,1,0,1,2,0,0,1,2,25,17.4,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+22,71,22,2023-01-31,Arkansas,,Texas A&M,REG (Conf),W 81-70,*,39,6,16,0.375,1,7,0.143,5,9,0.556,0.406,6,8,0.75,1,5,6,4,1,1,4,3,19,10.9,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+23,72,23,2023-02-04,Arkansas,@,South Carolina,REG (Conf),W 65-63,*,40,4,10,0.4,0,3,0.0,4,7,0.571,0.4,2,2,1.0,0,3,3,3,0,0,2,2,10,4.8,A,1,1,ricky-counciliv-1,Ricky Council IV,2023
+24,73,24,2023-02-07,Arkansas,@,Kentucky,REG (Conf),W 88-73,*,35,5,9,0.556,2,3,0.667,3,6,0.5,0.667,8,10,0.8,0,3,3,4,0,0,1,2,20,16.8,A,1,1,ricky-counciliv-1,Ricky Council IV,2023
+25,74,25,2023-02-11,Arkansas,,Mississippi State,REG (Conf),L 64-70,*,37,1,6,0.167,0,2,0.0,1,4,0.25,0.167,11,13,0.846,2,4,6,3,0,1,1,2,13,12.0,H,0,1,ricky-counciliv-1,Ricky Council IV,2023
+26,75,26,2023-02-15,Arkansas,@,Texas A&M,REG (Conf),L 56-62,*,36,3,12,0.25,0,3,0.0,3,9,0.333,0.25,0,1,0.0,0,5,5,4,0,0,2,1,6,0.3,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+27,76,27,2023-02-18,Arkansas,,Florida,REG (Conf),W 84-65,,33,6,10,0.6,0,1,0.0,6,9,0.667,0.6,3,4,0.75,0,7,7,1,0,0,2,1,15,10.4,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+28,77,28,2023-02-21,Arkansas,,Georgia,REG (Conf),W 97-65,,28,9,16,0.563,3,6,0.5,6,10,0.6,0.656,1,2,0.5,1,2,3,4,2,1,0,1,22,20.4,H,1,1,ricky-counciliv-1,Ricky Council IV,2023
+29,78,29,2023-02-25,Arkansas,@,Alabama,REG (Conf),L 83-86,,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,10,14,0.714,0,1,1,0,2,0,2,2,20,13.6,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+30,79,30,2023-02-28,Arkansas,@,Tennessee,REG (Conf),L 57-75,,19,3,7,0.429,2,4,0.5,1,3,0.333,0.571,3,6,0.5,0,4,4,1,0,0,3,3,11,3.8,A,0,1,ricky-counciliv-1,Ricky Council IV,2023
+31,80,31,2023-03-04,Arkansas,,Kentucky,REG (Conf),L 79-88,,34,3,11,0.273,0,2,0.0,3,9,0.333,0.273,10,12,0.833,1,3,4,1,0,0,1,4,16,8.4,H,0,1,ricky-counciliv-1,Ricky Council IV,2023
+32,81,32,2023-03-09,Arkansas,N,Auburn,CTOURN,W 76-73,*,33,2,7,0.286,0,0,,2,7,0.286,0.286,3,5,0.6,1,1,2,0,2,1,1,1,7,4.4,N,1,0,ricky-counciliv-1,Ricky Council IV,2023
+33,82,33,2023-03-10,Arkansas,N,Texas A&M,CTOURN,L 61-67,,19,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,4,0.75,0,3,3,1,1,0,1,3,5,0.5,N,0,0,ricky-counciliv-1,Ricky Council IV,2023
+34,83,34,2023-03-16,Arkansas,N,Illinois,ROUND-64,W 73-63,*,39,3,9,0.333,1,3,0.333,2,6,0.333,0.389,11,12,0.917,2,8,10,0,1,1,2,1,18,15.6,N,1,0,ricky-counciliv-1,Ricky Council IV,2023
+35,84,35,2023-03-18,Arkansas,N,Kansas,ROUND-32,W 72-71,*,40,5,18,0.278,1,6,0.167,4,12,0.333,0.306,10,11,0.909,2,4,6,4,0,1,1,0,21,15.1,N,1,0,ricky-counciliv-1,Ricky Council IV,2023
+36,85,36,2023-03-23,Arkansas,N,Connecticut,ROUND-16,L 65-88,*,34,4,12,0.333,1,3,0.333,3,9,0.333,0.375,8,9,0.889,1,2,3,2,0,1,2,2,17,10.4,N,0,0,ricky-counciliv-1,Ricky Council IV,2023

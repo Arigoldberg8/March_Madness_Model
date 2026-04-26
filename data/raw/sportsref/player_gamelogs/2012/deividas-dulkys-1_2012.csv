@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2011-11-11,Florida State,,Jacksonville,REG (Non-Conf),W 79-67,,25,6,10,0.6,4,7,0.571,2,3,0.667,0.8,0,0,,0,1,1,0,3,0,1,2,16,12.9,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+2,97,2,2011-11-14,Florida State,,UCF,REG (Non-Conf),W 73-50,,25,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,0,2,2,4,3,0,2,1,2,3.2,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+3,98,3,2011-11-16,Florida State,,Stetson,REG (Non-Conf),W 79-66,,29,6,6,1.0,4,4,1.0,2,2,1.0,1.333,0,0,,0,0,0,0,1,0,3,1,16,11.8,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+4,99,4,2011-11-20,Florida State,,South Alabama,REG (Non-Conf),W 80-39,,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,8,9,0.889,3,0,3,2,3,2,2,1,12,15.1,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+5,100,5,2011-11-24,Florida State,N,Massachusetts,REG (Non-Conf),W 73-53,,13,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,1,0,2,3,2,-0.2,N,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+6,101,6,2011-11-25,Florida State,N,Harvard,REG (Non-Conf),L 41-46,,29,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,1,0.0,0,2,2,0,4,0,2,3,5,2.6,N,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+7,102,7,2011-11-26,Florida State,N,Connecticut,REG (Non-Conf),L 76-78 (OT),,28,5,8,0.625,4,5,0.8,1,3,0.333,0.875,0,0,,1,2,3,0,3,1,0,2,14,14.6,N,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+8,103,8,2011-11-30,Florida State,@,Michigan State,REG (Non-Conf),L 49-65,,23,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,1,0,1,0,-1.9,A,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+9,104,9,2011-12-05,Florida State,,Charleston Southern,REG (Non-Conf),W 76-51,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,2,1,3,0,2,0,6,1,5,-0.1,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+10,105,10,2011-12-11,Florida State,,UNC Greensboro,REG (Non-Conf),W 75-60,,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,2,0.5,0,0,0,2,1,1,3,1,6,2.6,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+11,106,11,2011-12-18,Florida State,,Loyola Marymount,REG (Non-Conf),W 77-61,,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,3,1,4,2,0,1,1,2,4,2.6,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+12,107,12,2011-12-22,Florida State,@,Florida,REG (Non-Conf),L 64-82,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,2,2,0,1,2,3,2.2,A,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+13,108,13,2011-12-30,Florida State,,Princeton,REG (Non-Conf),L 73-75 (3OT),*,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,1,1,1,1,0,-0.9,H,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+14,109,14,2012-01-04,Florida State,,Auburn,REG (Non-Conf),W 85-56,*,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,3,0,0,1,2,5,3.2,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+15,110,15,2012-01-07,Florida State,@,Clemson,REG (Conf),L 59-79,*,16,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,3,3,1,1,0,0,2,5,5.1,A,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+16,111,16,2012-01-10,Florida State,@,Virginia Tech,REG (Conf),W 63-59,*,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,5,6,1,0,5,2,1,4,5.6,A,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+17,112,17,2012-01-14,Florida State,,North Carolina,REG (Conf),W 90-57,*,33,12,14,0.857,8,10,0.8,4,4,1.0,1.143,0,1,0.0,0,1,1,4,4,1,1,3,32,32.2,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+18,113,18,2012-01-17,Florida State,,Maryland,REG (Conf),W 84-70,*,25,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,2,0,2,0,1,0,1,5,6,2.7,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+19,114,19,2012-01-21,Florida State,@,Duke,REG (Conf),W 76-73,*,30,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,0,5,5,3,0,0,2,2,12,9.2,A,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+20,115,20,2012-01-25,Florida State,@,Wake Forest,REG (Conf),W 75-52,*,24,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,2,3,0,1,0,0,3,5,3.4,A,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+21,116,21,2012-02-01,Florida State,,Georgia Tech,REG (Conf),W 68-54,*,27,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,1,2,3,1,2,0,1,1,7,4.8,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+22,117,22,2012-02-04,Florida State,,Virginia,REG (Conf),W 58-55,*,33,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,2,2,1,0,0,5,1,6,-1.2,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+23,118,23,2012-02-08,Florida State,@,Boston College,REG (Conf),L 60-64,*,22,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,4,4,1,1,0,2,2,7,4.8,A,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+24,119,24,2012-02-11,Florida State,,Miami (FL),REG (Conf),W 64-59,*,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,2,0,1,2,2,1.5,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+25,120,25,2012-02-16,Florida State,,Virginia Tech,REG (Conf),W 48-47,*,26,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,2,4,6,1,0,0,3,0,3,0.2,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+26,121,26,2012-02-18,Florida State,@,NC State,REG (Conf),W 76-62,*,22,3,6,0.5,2,2,1.0,1,4,0.25,0.667,0,0,,0,2,2,1,0,1,1,4,8,4.4,A,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+27,122,27,2012-02-23,Florida State,,Duke,REG (Conf),L 66-74,*,26,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,3,3,0,0,0,1,1,3,-1.3,H,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+28,123,28,2012-02-26,Florida State,@,Miami (FL),REG (Conf),L 62-78,*,25,3,6,0.5,1,4,0.25,2,2,1.0,0.583,3,4,0.75,1,3,4,1,2,2,2,5,10,8.3,A,0,1,deividas-dulkys-1,Deividas Dulkys,2012
+29,124,29,2012-03-01,Florida State,@,Virginia,REG (Conf),W 63-60,*,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,4,5,1,2,2,2,1,5,6.2,A,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+30,125,30,2012-03-04,Florida State,,Clemson,REG (Conf),W 80-72,*,19,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,2,2,2,0,0,4,1,3,-0.4,H,1,1,deividas-dulkys-1,Deividas Dulkys,2012
+31,126,31,2012-03-09,Florida State,N,Miami (FL),CTOURN,W 82-71,*,20,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,2,2,3,0,0,0,4,3,0.3,N,1,0,deividas-dulkys-1,Deividas Dulkys,2012
+32,127,32,2012-03-10,Florida State,N,Duke,CTOURN,W 62-59,*,28,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,2,2,4,0,1,0,0,1,2,0.8,N,1,0,deividas-dulkys-1,Deividas Dulkys,2012
+33,128,33,2012-03-11,Florida State,N,North Carolina,CTOURN,W 85-82,*,35,4,11,0.364,4,9,0.444,0,2,0.0,0.545,4,4,1.0,0,4,4,3,0,0,1,3,16,11.0,N,1,0,deividas-dulkys-1,Deividas Dulkys,2012
+34,129,34,2012-03-16,Florida State,N,St. Bonaventure,ROUND-64,W 66-63,*,25,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,1,0.0,0,1,1,0,1,0,1,2,8,3.4,N,1,0,deividas-dulkys-1,Deividas Dulkys,2012
+35,130,35,2012-03-18,Florida State,N,Cincinnati,ROUND-32,L 56-62,*,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,1,2,3,3,3,0,2,4,8,8.8,N,0,0,deividas-dulkys-1,Deividas Dulkys,2012

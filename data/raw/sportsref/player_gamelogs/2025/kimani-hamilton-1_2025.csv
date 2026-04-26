@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,49,1,2024-11-06,High Point,,Coppin State,REG (Non-Conf),W 93-51,*,18,4,7,0.571,1,4,0.25,3,3,1.0,0.643,1,1,1.0,1,4,5,5,3,0,1,0,10,14.1,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+2,50,2,2024-11-09,High Point,,Jackson State,REG (Non-Conf),W 80-71,*,19,4,7,0.571,2,4,0.5,2,3,0.667,0.714,1,3,0.333,0,1,1,1,1,1,2,5,11,5.6,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+3,51,3,2024-11-12,High Point,,North Carolina Central,REG (Non-Conf),W 76-60,*,22,5,8,0.625,0,2,0.0,5,6,0.833,0.625,4,4,1.0,1,0,1,3,0,1,1,3,14,11.7,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+4,52,4,2024-11-15,High Point,,UAB,REG (Non-Conf),W 68-65,*,37,8,18,0.444,1,6,0.167,7,12,0.583,0.472,1,2,0.5,5,3,8,2,1,2,3,3,18,12.2,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+5,53,5,2024-11-18,High Point,,American,REG (Non-Conf),W 80-73,*,38,5,10,0.5,1,3,0.333,4,7,0.571,0.55,7,11,0.636,3,3,6,4,0,0,1,2,18,15.4,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+6,54,6,2024-11-24,High Point,N,Missouri State,REG (Non-Conf),L 61-71,*,24,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,0,3,3,0,1,1,2,4,5,0.8,N,0,1,kimani-hamilton-1,Kimani Hamilton,2025
+7,55,7,2024-11-25,High Point,N,Old Dominion,REG (Non-Conf),W 73-67,*,32,4,8,0.5,0,1,0.0,4,7,0.571,0.5,6,8,0.75,1,7,8,3,1,1,1,2,14,14.0,N,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+8,56,8,2024-11-26,High Point,N,Hampton,REG (Non-Conf),W 76-73,*,29,5,9,0.556,2,4,0.5,3,5,0.6,0.667,6,6,1.0,2,6,8,0,0,0,2,3,18,13.7,N,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+9,57,9,2024-11-30,High Point,,Pfeiffer,REG (Non-Conf),W 81-50,*,17,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,1,5,6,2,1,1,1,3,11,10.1,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+10,58,10,2024-12-03,High Point,@,UNC Greensboro,REG (Non-Conf),L 68-72,*,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,5,1.0,1,0,1,3,1,0,2,4,13,9.9,A,0,1,kimani-hamilton-1,Kimani Hamilton,2025
+11,59,11,2024-12-06,High Point,,North Texas,REG (Non-Conf),W 76-71,*,34,4,7,0.571,0,2,0.0,4,5,0.8,0.571,11,16,0.688,5,1,6,4,1,0,5,2,19,15.5,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+12,60,12,2024-12-14,High Point,N,Appalachian State,REG (Non-Conf),W 65-59,*,16,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,0,3,3,1,0,0,1,5,6,-0.5,N,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+13,61,13,2024-12-17,High Point,,Carolina,REG (Non-Conf),W 99-31,*,13,3,3,1.0,1,1,1.0,2,2,1.0,1.167,4,4,1.0,2,3,5,2,1,0,3,2,11,11.0,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+14,62,14,2024-12-21,High Point,@,Southern Illinois,REG (Non-Conf),W 94-81,*,21,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,8,0.5,0,1,1,3,3,0,1,5,12,10.2,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+15,63,15,2024-12-29,High Point,,Norfolk State,REG (Non-Conf),L 74-77,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,9,12,0.75,8,7,15,5,1,2,3,2,18,23.3,H,0,1,kimani-hamilton-1,Kimani Hamilton,2025
+16,64,16,2025-01-02,High Point,,Radford,REG (Conf),W 76-58,*,26,5,10,0.5,1,4,0.25,4,6,0.667,0.55,1,4,0.25,3,2,5,3,4,1,1,0,12,14.3,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+17,65,17,2025-01-04,High Point,@,UNC Asheville,REG (Conf),L 99-103,*,26,6,12,0.5,1,4,0.25,5,8,0.625,0.542,8,9,0.889,3,3,6,2,0,1,3,5,21,14.7,A,0,1,kimani-hamilton-1,Kimani Hamilton,2025
+18,66,18,2025-01-08,High Point,@,Charleston Southern,REG (Conf),W 93-79,*,29,6,14,0.429,1,2,0.5,5,12,0.417,0.464,2,3,0.667,3,1,4,2,1,0,1,4,15,9.4,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+19,67,19,2025-01-11,High Point,,Gardner-Webb,REG (Conf),W 96-55,*,22,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,2,4,6,3,3,0,0,1,8,11.9,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+20,68,20,2025-01-16,High Point,@,Longwood,REG (Conf),L 80-82,*,24,3,11,0.273,0,2,0.0,3,9,0.333,0.273,4,6,0.667,1,4,5,2,1,1,2,5,10,3.7,A,0,1,kimani-hamilton-1,Kimani Hamilton,2025
+21,69,21,2025-01-18,High Point,,Presbyterian,REG (Conf),W 77-66,*,26,11,14,0.786,1,2,0.5,10,12,0.833,0.821,3,4,0.75,1,4,5,3,0,1,2,3,26,21.7,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+22,70,22,2025-01-22,High Point,@,USC Upstate,REG (Conf),W 86-77,*,19,3,6,0.5,0,3,0.0,3,3,1.0,0.5,1,2,0.5,0,4,4,2,0,0,3,3,7,2.0,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+23,71,23,2025-01-25,High Point,,Winthrop,REG (Conf),W 84-62,*,22,5,9,0.556,1,1,1.0,4,8,0.5,0.611,3,3,1.0,2,2,4,0,1,0,2,3,14,9.5,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+24,72,24,2025-02-01,High Point,@,Presbyterian,REG (Conf),W 84-72,*,27,5,8,0.625,1,1,1.0,4,7,0.571,0.688,6,9,0.667,3,2,5,4,0,0,3,2,17,13.9,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+25,73,25,2025-02-05,High Point,@,Radford,REG (Conf),W 78-75,*,29,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,0,4,4,2,2,0,3,3,10,6.0,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+26,74,26,2025-02-08,High Point,,UNC Asheville,REG (Conf),W 104-100 (OT),*,38,7,13,0.538,0,3,0.0,7,10,0.7,0.538,3,3,1.0,3,1,4,4,0,0,1,2,17,14.1,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+27,75,27,2025-02-13,High Point,,Longwood,REG (Conf),W 83-72,*,34,7,14,0.5,1,4,0.25,6,10,0.6,0.536,3,6,0.5,3,3,6,4,2,0,2,1,18,15.2,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+28,76,28,2025-02-15,High Point,@,Winthrop,REG (Conf),W 88-66,*,9,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,2,2,-0.9,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+29,77,29,2025-02-19,High Point,,Charleston Southern,REG (Conf),W 83-60,*,21,7,10,0.7,2,2,1.0,5,8,0.625,0.8,4,4,1.0,2,2,4,0,0,1,0,3,20,17.3,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+30,78,30,2025-02-22,High Point,@,Gardner-Webb,REG (Conf),W 90-67,*,14,7,11,0.636,1,2,0.5,6,9,0.667,0.682,1,1,1.0,1,0,1,0,0,0,0,5,16,9.8,A,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+31,79,31,2025-02-26,High Point,,USC Upstate,REG (Conf),W 88-66,*,19,7,10,0.7,2,3,0.667,5,7,0.714,0.8,0,0,,2,5,7,3,2,1,3,3,16,15.3,H,1,1,kimani-hamilton-1,Kimani Hamilton,2025
+32,80,32,2025-03-07,High Point,N,Gardner-Webb,CTOURN,W 85-64,*,22,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,3,0.333,1,1,2,0,0,0,3,3,7,-1.4,N,1,0,kimani-hamilton-1,Kimani Hamilton,2025
+33,81,33,2025-03-08,High Point,N,Radford,CTOURN,W 76-73,*,27,6,9,0.667,2,3,0.667,4,6,0.667,0.778,4,6,0.667,3,4,7,3,1,0,3,3,18,15.5,N,1,0,kimani-hamilton-1,Kimani Hamilton,2025
+34,82,34,2025-03-09,High Point,N,Winthrop,CTOURN,W 81-69,*,21,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,2,2,4,2,1,0,2,0,4,1.6,N,1,0,kimani-hamilton-1,Kimani Hamilton,2025
+35,83,35,2025-03-20,High Point,N,Purdue,ROUND-64,L 63-75,*,16,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,0,1,0,1,5,2,-2.1,N,0,0,kimani-hamilton-1,Kimani Hamilton,2025

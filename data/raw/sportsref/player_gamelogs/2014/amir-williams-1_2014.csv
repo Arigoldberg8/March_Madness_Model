@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2013-11-09,Ohio State,,Morgan State,REG (Non-Conf),W 89-50,*,14,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,3,4,7,0,0,2,3,5,4,2.7,H,1,1,amir-williams-1,Amir Williams,2014
+2,68,2,2013-11-12,Ohio State,,Ohio,REG (Non-Conf),W 79-69,*,27,3,4,0.75,0,0,3,4,0.75,0.75,8,10,0.8,6,4,10,1,0,1,0,3,14,17.2,H,1,1,amir-williams-1,Amir Williams,2014
+3,69,3,2013-11-16,Ohio State,@,Marquette,REG (Non-Conf),W 52-35,*,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,2,3,0,0,5,1,3,4,6.0,A,1,1,amir-williams-1,Amir Williams,2014
+4,70,4,2013-11-20,Ohio State,,American,REG (Non-Conf),W 63-52,*,29,6,9,0.667,0,0,6,9,0.667,0.667,4,5,0.8,5,2,7,0,2,1,2,1,16,16.1,H,1,1,amir-williams-1,Amir Williams,2014
+5,71,5,2013-11-25,Ohio State,,Wyoming,REG (Non-Conf),W 65-50,*,32,5,9,0.556,0,0,5,9,0.556,0.556,2,4,0.5,8,8,16,0,0,2,0,4,12,14.7,H,1,1,amir-williams-1,Amir Williams,2014
+6,72,6,2013-11-29,Ohio State,,North Florida,REG (Non-Conf),W 99-64,*,25,8,11,0.727,0,0,8,11,0.727,0.727,2,4,0.5,2,5,7,2,0,1,2,1,18,15.3,H,1,1,amir-williams-1,Amir Williams,2014
+7,73,7,2013-12-04,Ohio State,,Maryland,REG (Non-Conf),W 76-60,*,28,1,2,0.5,0,0,1,2,0.5,0.5,3,5,0.6,0,1,1,0,0,3,3,1,5,2.2,H,1,1,amir-williams-1,Amir Williams,2014
+8,74,8,2013-12-07,Ohio State,,Central Connecticut State,REG (Non-Conf),W 74-56,*,18,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,2,4,0,0,3,1,0,11,10.8,H,1,1,amir-williams-1,Amir Williams,2014
+9,75,9,2013-12-11,Ohio State,,Bryant,REG (Non-Conf),W 86-48,*,24,6,7,0.857,0,0,6,7,0.857,0.857,0,0,,1,8,9,0,1,6,1,3,12,15.6,H,1,1,amir-williams-1,Amir Williams,2014
+10,76,10,2013-12-14,Ohio State,,North Dakota State,REG (Non-Conf),W 79-62,*,28,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,8,9,0,0,0,3,4,4,1.2,H,1,1,amir-williams-1,Amir Williams,2014
+11,77,11,2013-12-18,Ohio State,,Delaware,REG (Non-Conf),W 76-64,*,26,3,7,0.429,0,0,3,7,0.429,0.429,5,8,0.625,5,7,12,0,1,0,1,3,11,10.5,H,1,1,amir-williams-1,Amir Williams,2014
+12,78,12,2013-12-21,Ohio State,N,Notre Dame,REG (Non-Conf),W 64-61,*,28,6,10,0.6,0,0,6,10,0.6,0.6,1,2,0.5,1,5,6,0,2,1,2,2,13,10.1,N,1,1,amir-williams-1,Amir Williams,2014
+13,79,13,2013-12-27,Ohio State,,Louisiana–Monroe,REG (Non-Conf),W 71-31,*,20,1,4,0.25,0,0,1,4,0.25,0.25,3,3,1.0,1,1,2,1,0,2,1,2,5,3.9,H,1,1,amir-williams-1,Amir Williams,2014
+14,80,14,2013-12-31,Ohio State,@,Purdue,REG (Conf),W 78-69,*,14,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,3,3,1,0,1,0,4,6,5.8,A,1,1,amir-williams-1,Amir Williams,2014
+15,81,15,2014-01-04,Ohio State,,Nebraska,REG (Conf),W 84-53,*,25,3,5,0.6,0,0,3,5,0.6,0.6,4,7,0.571,0,1,1,0,1,2,0,4,10,7.6,H,1,1,amir-williams-1,Amir Williams,2014
+16,82,16,2014-01-07,Ohio State,@,Michigan State,REG (Conf),L 68-72 (OT),*,35,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,4,7,11,1,0,3,3,3,8,9.8,A,0,1,amir-williams-1,Amir Williams,2014
+17,83,17,2014-01-12,Ohio State,,Iowa,REG (Conf),L 74-84,*,22,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,1,5,6,0,1,0,1,2,11,8.7,H,0,1,amir-williams-1,Amir Williams,2014
+18,84,18,2014-01-16,Ohio State,@,Minnesota,REG (Conf),L 53-63,*,22,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,4,5,1,0,1,0,1,3,3.1,A,0,1,amir-williams-1,Amir Williams,2014
+19,85,19,2014-01-20,Ohio State,@,Nebraska,REG (Conf),L 62-68,*,13,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,2,3,0,0,0,1,0,4,3.3,A,0,1,amir-williams-1,Amir Williams,2014
+20,86,20,2014-01-23,Ohio State,,Illinois,REG (Conf),W 62-55,*,31,2,6,0.333,0,0,2,6,0.333,0.333,3,4,0.75,4,5,9,0,0,3,4,4,7,4.0,H,1,1,amir-williams-1,Amir Williams,2014
+21,87,21,2014-01-29,Ohio State,,Penn State,REG (Conf),L 70-71 (OT),*,29,4,6,0.667,0,0,4,6,0.667,0.667,4,5,0.8,3,3,6,0,2,1,3,4,12,10.1,H,0,1,amir-williams-1,Amir Williams,2014
+22,88,22,2014-02-01,Ohio State,@,Wisconsin,REG (Conf),W 59-58,*,20,3,6,0.5,0,0,3,6,0.5,0.5,3,6,0.5,2,4,6,0,0,1,1,3,9,5.9,A,1,1,amir-williams-1,Amir Williams,2014
+23,89,23,2014-02-04,Ohio State,@,Iowa,REG (Conf),W 76-69,*,23,5,6,0.833,0,0,5,6,0.833,0.833,2,2,1.0,0,0,0,0,0,1,2,3,12,7.3,A,1,1,amir-williams-1,Amir Williams,2014
+24,90,24,2014-02-08,Ohio State,,Purdue,REG (Conf),W 67-49,*,26,3,7,0.429,0,0,3,7,0.429,0.429,3,3,1.0,2,3,5,0,0,3,1,3,9,7.5,H,1,1,amir-williams-1,Amir Williams,2014
+25,91,25,2014-02-11,Ohio State,,Michigan,REG (Conf),L 60-70,*,29,3,4,0.75,0,0,3,4,0.75,0.75,1,3,0.333,3,4,7,0,0,1,3,4,7,4.0,H,0,1,amir-williams-1,Amir Williams,2014
+26,92,26,2014-02-15,Ohio State,@,Illinois,REG (Conf),W 48-39,*,20,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,3,4,0,0,2,1,2,0,-0.9,A,1,1,amir-williams-1,Amir Williams,2014
+27,93,27,2014-02-19,Ohio State,,Northwestern,REG (Conf),W 76-60,*,16,1,5,0.2,0,0,1,5,0.2,0.2,4,4,1.0,3,2,5,0,1,1,0,3,6,6.1,H,1,1,amir-williams-1,Amir Williams,2014
+28,94,28,2014-02-22,Ohio State,,Minnesota,REG (Conf),W 64-46,*,27,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,1,3,4,1,1,4,2,2,7,9.4,H,1,1,amir-williams-1,Amir Williams,2014
+29,95,29,2014-02-27,Ohio State,@,Penn State,REG (Conf),L 63-65,*,12,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,0,0,0,1,0,1,1,4,2,-0.3,A,0,1,amir-williams-1,Amir Williams,2014
+30,96,30,2014-03-02,Ohio State,@,Indiana,REG (Conf),L 64-72,*,22,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,5,2,7,0,0,2,2,2,6,6.7,A,0,1,amir-williams-1,Amir Williams,2014
+31,97,31,2014-03-09,Ohio State,,Michigan State,REG (Conf),W 69-67,*,24,1,1,1.0,0,0,1,1,1.0,1.0,3,6,0.5,2,3,5,0,1,1,2,3,5,4.3,H,1,1,amir-williams-1,Amir Williams,2014
+32,98,32,2014-03-13,Ohio State,N,Purdue,CTOURN,W 63-61,*,24,2,5,0.4,0,0,2,5,0.4,0.4,2,4,0.5,5,4,9,0,0,3,1,3,6,7.1,N,1,0,amir-williams-1,Amir Williams,2014
+33,99,33,2014-03-14,Ohio State,N,Nebraska,CTOURN,W 71-67,*,19,4,5,0.8,0,0,4,5,0.8,0.8,0,2,0.0,5,0,5,0,0,2,2,3,8,7.0,N,1,0,amir-williams-1,Amir Williams,2014
+34,100,34,2014-03-15,Ohio State,N,Michigan,CTOURN,L 69-72,*,20,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,2,1,3,0,1,0,0,0,6,6.7,N,0,0,amir-williams-1,Amir Williams,2014
+35,101,35,2014-03-20,Ohio State,N,Dayton,ROUND-64,L 59-60,*,18,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,5,6,1,0,2,1,1,0,1.5,N,0,0,amir-williams-1,Amir Williams,2014

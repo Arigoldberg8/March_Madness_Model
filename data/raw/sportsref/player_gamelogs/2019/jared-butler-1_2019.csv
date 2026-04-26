@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Baylor,,Texas Southern,REG (Non-Conf),L 69-72,*,21,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,0,0,1,2,0,3,4,2,-3.7,H,0,1,jared-butler-1,Jared Butler,2019
+2,2,2,2018-11-10,Baylor,,Southern,REG (Non-Conf),W 80-53,,20,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,2,0.5,0,2,2,5,1,0,0,2,9,9.2,H,1,1,jared-butler-1,Jared Butler,2019
+3,3,3,2018-11-12,Baylor,,Prairie View A&M,REG (Non-Conf),W 91-80,,31,7,10,0.7,3,5,0.6,4,5,0.8,0.85,5,6,0.833,1,3,4,1,0,1,1,2,22,18.6,H,1,1,jared-butler-1,Jared Butler,2019
+4,4,4,2018-11-16,Baylor,,Nicholls State,REG (Non-Conf),W 81-54,,25,1,9,0.111,1,6,0.167,0,3,0.0,0.167,2,2,1.0,0,4,4,1,0,0,1,1,5,-0.4,H,1,1,jared-butler-1,Jared Butler,2019
+5,5,5,2018-11-23,Baylor,N,Ole Miss,REG (Non-Conf),L 70-78,,33,4,11,0.364,0,5,0.0,4,6,0.667,0.364,3,3,1.0,0,5,5,1,2,0,2,2,11,6.3,N,0,1,jared-butler-1,Jared Butler,2019
+6,6,6,2018-11-24,Baylor,N,George Mason,REG (Non-Conf),W 72-61,,22,0,5,0.0,0,5,0.0,0,0,,0.0,4,4,1.0,0,0,0,1,1,0,1,4,4,-0.4,N,1,1,jared-butler-1,Jared Butler,2019
+7,7,7,2018-11-27,Baylor,,South Dakota,REG (Non-Conf),W 63-57,,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,3,3,0,1,1,0,3,2,0.3,H,1,1,jared-butler-1,Jared Butler,2019
+8,8,8,2018-12-01,Baylor,@,Wichita State,REG (Non-Conf),L 63-71,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,0,0,1,0,5,2.7,A,0,1,jared-butler-1,Jared Butler,2019
+9,9,9,2018-12-15,Baylor,@,Arizona,REG (Non-Conf),W 58-49,,13,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,1,1,0,1,1,1,1,5,3.6,A,1,1,jared-butler-1,Jared Butler,2019
+10,10,10,2018-12-18,Baylor,,Stephen F. Austin,REG (Non-Conf),L 58-59,,14,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,1,0,0,1,2,0.1,H,0,1,jared-butler-1,Jared Butler,2019
+11,11,11,2018-12-21,Baylor,,Oregon,REG (Non-Conf),W 57-47,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,3,1,0,1,1,2,3.4,H,1,1,jared-butler-1,Jared Butler,2019
+12,12,12,2018-12-29,Baylor,,New Orleans,REG (Non-Conf),W 84-44,,25,4,7,0.571,2,4,0.5,2,3,0.667,0.714,6,8,0.75,0,2,2,6,1,0,1,0,16,16.7,H,1,1,jared-butler-1,Jared Butler,2019
+13,13,13,2019-01-05,Baylor,@,TCU,REG (Conf),L 81-85,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,4,0,0,0,5,4,4.1,A,0,1,jared-butler-1,Jared Butler,2019
+14,14,14,2019-01-08,Baylor,,Iowa State,REG (Conf),W 73-70,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,2,1,0,3,1,2,0.2,H,1,1,jared-butler-1,Jared Butler,2019
+15,15,15,2019-01-12,Baylor,,Kansas,REG (Conf),L 68-73,*,31,4,9,0.444,4,8,0.5,0,1,0.0,0.667,2,2,1.0,1,3,4,4,1,0,3,3,14,10.5,H,0,1,jared-butler-1,Jared Butler,2019
+16,16,16,2019-01-14,Baylor,@,Oklahoma State,REG (Conf),W 73-69,*,35,6,12,0.5,4,7,0.571,2,5,0.4,0.667,0,0,,0,3,3,4,1,0,2,3,16,11.5,A,1,1,jared-butler-1,Jared Butler,2019
+17,17,17,2019-01-19,Baylor,,Texas Tech,REG (Conf),W 73-62,*,29,7,15,0.467,2,8,0.25,5,7,0.714,0.533,3,3,1.0,1,0,1,5,3,0,1,2,19,16.7,H,1,1,jared-butler-1,Jared Butler,2019
+18,18,18,2019-01-21,Baylor,@,West Virginia,REG (Conf),W 85-73,*,22,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,4,0.5,1,3,4,2,0,0,3,4,8,2.2,A,1,1,jared-butler-1,Jared Butler,2019
+19,19,19,2019-01-26,Baylor,,Alabama,REG (Non-Conf),W 73-68,*,31,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,0,4,4,5,1,0,1,2,9,8.1,H,1,1,jared-butler-1,Jared Butler,2019
+20,20,20,2019-01-28,Baylor,@,Oklahoma,REG (Conf),W 77-47,*,28,4,9,0.444,2,3,0.667,2,6,0.333,0.556,0,0,,1,3,4,5,2,0,4,2,10,7.6,A,1,1,jared-butler-1,Jared Butler,2019
+21,21,21,2019-02-02,Baylor,,TCU,REG (Conf),W 90-64,*,24,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,2,3,5,2,0,0,3,3,5,1.1,H,1,1,jared-butler-1,Jared Butler,2019
+22,22,22,2019-02-06,Baylor,@,Texas,REG (Conf),L 72-84,*,37,5,14,0.357,2,8,0.25,3,6,0.5,0.429,1,1,1.0,1,2,3,6,2,0,4,2,13,7.9,A,0,1,jared-butler-1,Jared Butler,2019
+23,23,23,2019-02-09,Baylor,,Kansas State,REG (Conf),L 63-70,*,34,5,15,0.333,3,10,0.3,2,5,0.4,0.433,0,0,,2,2,4,2,1,0,3,1,13,5.5,H,0,1,jared-butler-1,Jared Butler,2019
+24,24,24,2019-02-11,Baylor,,Oklahoma,REG (Conf),W 59-53,*,27,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,0,5,5,2,0,0,2,3,11,6.0,H,1,1,jared-butler-1,Jared Butler,2019
+25,25,25,2019-02-16,Baylor,@,Texas Tech,REG (Conf),L 61-86,*,37,5,9,0.556,4,5,0.8,1,4,0.25,0.778,2,3,0.667,1,4,5,4,1,0,7,1,16,9.6,A,0,1,jared-butler-1,Jared Butler,2019
+26,26,26,2019-02-19,Baylor,@,Iowa State,REG (Conf),W 73-69,*,36,6,12,0.5,5,8,0.625,1,4,0.25,0.708,0,0,,1,5,6,5,1,0,2,3,17,14.5,A,1,1,jared-butler-1,Jared Butler,2019
+27,27,27,2019-02-23,Baylor,,West Virginia,REG (Conf),W 82-75,*,31,5,11,0.455,1,4,0.25,4,7,0.571,0.5,1,1,1.0,2,0,2,4,2,0,1,4,12,9.9,H,1,1,jared-butler-1,Jared Butler,2019
+28,28,28,2019-02-27,Baylor,,Texas,REG (Conf),W 84-83 (OT),*,35,6,14,0.429,3,8,0.375,3,6,0.5,0.536,0,0,,2,3,5,4,0,0,3,3,15,8.5,H,1,1,jared-butler-1,Jared Butler,2019
+29,29,29,2019-03-02,Baylor,@,Kansas State,REG (Conf),L 60-66,*,30,3,7,0.429,3,5,0.6,0,2,0.0,0.643,1,2,0.5,1,2,3,0,2,0,5,2,10,3.4,A,0,1,jared-butler-1,Jared Butler,2019
+30,30,30,2019-03-06,Baylor,,Oklahoma State,REG (Conf),L 64-67,*,29,1,6,0.167,1,4,0.25,0,2,0.0,0.25,6,7,0.857,0,3,3,3,1,0,0,5,9,6.8,H,0,1,jared-butler-1,Jared Butler,2019
+31,31,31,2019-03-09,Baylor,@,Kansas,REG (Conf),L 70-78,*,36,10,21,0.476,3,10,0.3,7,11,0.636,0.548,8,10,0.8,1,5,6,3,0,0,3,1,31,20.4,A,0,1,jared-butler-1,Jared Butler,2019
+32,32,32,2019-03-14,Baylor,N,Iowa State,CTOURN,L 66-83,*,25,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,0,,1,2,3,2,0,0,1,2,4,-0.6,N,0,0,jared-butler-1,Jared Butler,2019
+33,33,33,2019-03-21,Baylor,N,Syracuse,ROUND-64,W 78-69,*,33,5,11,0.455,4,9,0.444,1,2,0.5,0.636,0,0,,1,4,5,4,2,0,2,1,14,12.6,N,1,0,jared-butler-1,Jared Butler,2019
+34,34,34,2019-03-23,Baylor,N,Gonzaga,ROUND-32,L 71-83,*,32,4,13,0.308,1,8,0.125,3,5,0.6,0.346,2,4,0.5,0,3,3,1,1,0,2,3,11,2.1,N,0,0,jared-butler-1,Jared Butler,2019

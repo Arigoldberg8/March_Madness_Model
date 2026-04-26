@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2018-11-06,Wofford,,North Carolina,REG (Non-Conf),L 67-78,,9,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,0,0,0,0,3,4,2.1,H,0,1,chevez-goodwin-1,Chevez Goodwin,2019
+2,37,2,2018-11-10,Wofford,@,High Point,REG (Non-Conf),W 68-60,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,0,0,0,0.7,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+3,38,3,2018-11-13,Wofford,,Carver,REG (Non-Conf),W 94-35,,22,1,7,0.143,0,0,1,7,0.143,0.143,0,2,0.0,5,3,8,0,0,0,0,1,2,0.7,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+4,39,4,2018-11-18,Wofford,@,Oklahoma,REG (Non-Conf),L 64-75,,6,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,0,0,0,0,0,0,0,1,4,2.6,A,0,1,chevez-goodwin-1,Chevez Goodwin,2019
+5,40,5,2018-11-21,Wofford,,Coppin State,REG (Non-Conf),W 99-65,,17,5,6,0.833,0,0,5,6,0.833,0.833,1,2,0.5,2,4,6,0,0,0,0,2,11,10.2,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+6,41,6,2018-11-23,Wofford,,Mars Hill,REG (Non-Conf),W 97-46,,14,4,4,1.0,0,0,4,4,1.0,1.0,0,1,0.0,2,4,6,0,0,1,3,2,8,5.9,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+7,42,7,2018-11-26,Wofford,@,South Carolina,REG (Non-Conf),W 81-61,,12,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,6,7,0,1,0,2,3,4,3.3,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+8,43,8,2018-12-01,Wofford,,East Tennessee State,REG (Conf),W 79-62,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,2,2,0,-2.2,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+9,44,9,2018-12-04,Wofford,@,Kansas,REG (Non-Conf),L 47-72,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,A,0,1,chevez-goodwin-1,Chevez Goodwin,2019
+10,45,10,2018-12-06,Wofford,,Kentucky Christian,REG (Non-Conf),W 112-58,,23,7,11,0.636,0,0,7,11,0.636,0.636,2,4,0.5,8,5,13,2,1,0,1,0,16,18.8,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+11,46,11,2018-12-09,Wofford,,Coastal Carolina,REG (Non-Conf),W 82-71,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,1,0,1,0,0,1,0,2,2,1.5,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+12,47,12,2018-12-15,Wofford,,UNC Asheville,REG (Non-Conf),W 92-49,,12,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,2,0,2,2,1,0,0,2,1,2.2,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+13,48,13,2018-12-19,Wofford,@,Mississippi State,REG (Non-Conf),L 87-98,,18,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,1,0,1,0,0,0,2,1,2,-1.1,A,0,1,chevez-goodwin-1,Chevez Goodwin,2019
+14,49,14,2018-12-29,Wofford,@,Western Carolina,REG (Conf),W 74-54,,15,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,2,2,4,0,0,0,1,5,4,-0.4,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+15,50,15,2019-01-03,Wofford,,The Citadel,REG (Conf),W 112-81,,11,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,1,0,1,0,0,0,1,1,7,5.0,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+16,51,16,2019-01-05,Wofford,,Mercer,REG (Conf),W 78-74,,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+17,52,17,2019-01-10,Wofford,@,UNC Greensboro,REG (Conf),W 72-43,,17,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,3,7,10,0,0,0,1,2,5,5.0,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+18,53,18,2019-01-12,Wofford,@,VMI,REG (Conf),W 90-76,,9,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,1,3,1,0,0,1,1,6,5.4,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+19,54,19,2019-01-19,Wofford,,Furman,REG (Conf),W 59-54,,10,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,3,3,6,0,0,0,1,0,3,2.9,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+20,55,20,2019-01-24,Wofford,,Samford,REG (Conf),W 107-106 (OT),,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,1,3,2,0,1,1,2,2,3.7,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+21,56,21,2019-01-26,Wofford,,Chattanooga,REG (Conf),W 80-69,,17,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,4,2,6,0,1,1,2,2,6,6.0,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+22,57,22,2019-01-31,Wofford,@,Mercer,REG (Conf),W 76-67,,15,1,2,0.5,0,0,1,2,0.5,0.5,1,4,0.25,4,1,5,0,0,1,0,5,3,2.6,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+23,58,23,2019-02-02,Wofford,@,The Citadel,REG (Conf),W 99-61,,19,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,0,5,5,0,0,0,0,4,5,3.2,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+24,59,24,2019-02-07,Wofford,@,East Tennessee State,REG (Conf),W 78-76 (OT),,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,3,5,8,1,0,1,1,4,0,1.0,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+25,60,25,2019-02-09,Wofford,,Western Carolina,REG (Conf),W 83-56,,12,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,0,5,2,-0.7,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+26,61,26,2019-02-14,Wofford,,VMI,REG (Conf),W 95-84,,15,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,4,6,10,0,0,0,0,3,6,6.7,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+27,62,27,2019-02-16,Wofford,,UNC Greensboro,REG (Conf),W 80-50,,13,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,3,2,5,0,0,1,1,3,0,-0.9,H,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+28,63,28,2019-02-23,Wofford,@,Furman,REG (Conf),W 72-64,,11,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,2,2,4,0,0,0,0,1,4,2.2,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+29,64,29,2019-02-28,Wofford,@,Chattanooga,REG (Conf),W 80-54,,13,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,2,1,3,0,0,0,1,1,4,2.2,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+30,65,30,2019-03-02,Wofford,@,Samford,REG (Conf),W 85-64,,27,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,6,4,10,0,2,2,1,2,10,13.4,A,1,1,chevez-goodwin-1,Chevez Goodwin,2019
+31,66,31,2019-03-09,Wofford,N,VMI,CTOURN,W 99-72,,19,7,8,0.875,0,0,7,8,0.875,0.875,0,1,0.0,4,1,5,0,0,1,0,1,14,14.2,N,1,0,chevez-goodwin-1,Chevez Goodwin,2019
+32,67,32,2019-03-10,Wofford,N,East Tennessee State,CTOURN,W 81-72,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,1,2,0,0,0,1,3,6,3.9,N,1,0,chevez-goodwin-1,Chevez Goodwin,2019
+33,68,33,2019-03-11,Wofford,N,UNC Greensboro,CTOURN,W 70-58,,16,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,3,4,0,1,1,0,2,4,5.5,N,1,0,chevez-goodwin-1,Chevez Goodwin,2019
+34,69,34,2019-03-21,Wofford,N,Seton Hall,ROUND-64,W 84-68,,13,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,1,2,0,0,0,0,2,5,4.2,N,1,0,chevez-goodwin-1,Chevez Goodwin,2019
+35,70,35,2019-03-23,Wofford,N,Kentucky,ROUND-32,L 56-62,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,N,0,0,chevez-goodwin-1,Chevez Goodwin,2019

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,49,1,2021-11-09,Davidson,,Delaware,REG (Non-Conf),W 93-71,*,25,3,7,0.429,2,5,0.4,1,2,0.5,0.571,5,6,0.833,0,2,2,0,1,1,1,4,13,8.6,H,1,1,mike-jones-35,Michael Jones,2022
+2,50,2,2021-11-13,Davidson,@,San Francisco,REG (Non-Conf),L 60-65,*,31,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,1,2,0,2,0,1,4,5,1.9,A,0,1,mike-jones-35,Michael Jones,2022
+3,51,3,2021-11-18,Davidson,N,New Mexico State,REG (Non-Conf),L 64-75,*,32,4,11,0.364,2,7,0.286,2,4,0.5,0.455,2,2,1.0,1,2,3,0,2,0,1,0,12,8.2,N,0,1,mike-jones-35,Michael Jones,2022
+4,52,4,2021-11-19,Davidson,N,Pennsylvania,REG (Non-Conf),W 72-60,*,31,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,1,1,2,1,1,0,1,2,13,9.9,N,1,1,mike-jones-35,Michael Jones,2022
+5,53,5,2021-11-21,Davidson,N,East Carolina,REG (Non-Conf),W 76-67,*,25,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,1,1.0,0,2,2,8,2,0,1,1,9,11.4,N,1,1,mike-jones-35,Michael Jones,2022
+6,54,6,2021-11-27,Davidson,,Robert Morris,REG (Non-Conf),W 88-70,*,26,4,8,0.5,3,7,0.429,1,1,1.0,0.688,4,4,1.0,0,3,3,3,1,0,0,0,15,15.0,H,1,1,mike-jones-35,Michael Jones,2022
+7,55,7,2021-11-30,Davidson,@,Charlotte,REG (Non-Conf),W 75-58,*,26,5,7,0.714,3,4,0.75,2,3,0.667,0.929,5,5,1.0,1,2,3,2,2,0,1,0,18,18.8,A,1,1,mike-jones-35,Michael Jones,2022
+8,56,8,2021-12-04,Davidson,,William & Mary,REG (Non-Conf),W 70-46,*,17,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,3,3,2,2,0,0,3,8,9.5,H,1,1,mike-jones-35,Michael Jones,2022
+9,57,9,2021-12-12,Davidson,@,Northeastern,REG (Non-Conf),W 79-69,*,28,5,9,0.556,0,3,0.0,5,6,0.833,0.556,0,0,,0,3,3,5,2,0,0,2,10,11.3,A,1,1,mike-jones-35,Michael Jones,2022
+10,58,10,2021-12-18,Davidson,,Radford,REG (Non-Conf),W 74-54,*,27,5,9,0.556,2,5,0.4,3,4,0.75,0.667,3,3,1.0,1,1,2,2,3,0,1,0,15,15.1,H,1,1,mike-jones-35,Michael Jones,2022
+11,59,11,2021-12-21,Davidson,N,Alabama,REG (Non-Conf),W 79-78,*,32,8,11,0.727,3,3,1.0,5,8,0.625,0.864,2,2,1.0,0,1,1,4,1,0,2,2,21,17.8,N,1,1,mike-jones-35,Michael Jones,2022
+12,60,12,2021-12-22,Davidson,,Johnson/Wales-NC,REG (Non-Conf),W 106-64,*,16,3,10,0.3,3,9,0.333,0,1,0.0,0.45,0,0,,0,1,1,3,0,0,1,2,9,3.8,H,1,1,mike-jones-35,Michael Jones,2022
+13,61,13,2022-01-05,Davidson,@,Saint Joseph's,REG (Conf),W 88-73,*,30,6,8,0.75,2,4,0.5,4,4,1.0,0.875,4,4,1.0,0,5,5,2,0,0,3,0,18,14.7,A,1,1,mike-jones-35,Michael Jones,2022
+14,62,14,2022-01-08,Davidson,,Rhode Island,REG (Conf),W 72-68,*,34,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,1,0.0,0,2,2,2,0,2,2,1,10,7.3,H,1,1,mike-jones-35,Michael Jones,2022
+15,63,15,2022-01-11,Davidson,,Massachusetts,REG (Conf),W 77-67,*,33,2,7,0.286,2,3,0.667,0,4,0.0,0.429,2,2,1.0,1,3,4,3,2,2,1,0,8,10.0,H,1,1,mike-jones-35,Michael Jones,2022
+16,64,16,2022-01-14,Davidson,@,Richmond,REG (Conf),W 87-84,*,31,9,12,0.75,8,9,0.889,1,3,0.333,1.083,3,4,0.75,1,3,4,1,0,0,0,1,29,25.7,A,1,1,mike-jones-35,Michael Jones,2022
+17,65,17,2022-01-18,Davidson,@,VCU,REG (Conf),W 63-61,*,33,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,3,3,6,1,1,0,3,1,13,10.7,A,1,1,mike-jones-35,Michael Jones,2022
+18,66,18,2022-01-22,Davidson,@,Fordham,REG (Conf),W 69-66,*,33,0,3,0.0,0,0,,0,3,0.0,0.0,4,4,1.0,0,5,5,2,0,0,1,4,4,2.2,A,1,1,mike-jones-35,Michael Jones,2022
+19,67,19,2022-01-26,Davidson,,VCU,REG (Conf),L 68-70,*,35,3,11,0.273,2,8,0.25,1,3,0.333,0.364,2,4,0.5,0,3,3,1,1,0,1,1,10,3.9,H,0,1,mike-jones-35,Michael Jones,2022
+20,68,20,2022-01-29,Davidson,,La Salle,REG (Conf),W 77-69,*,35,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,0,3,3,1,1,0,2,3,9,4.0,H,1,1,mike-jones-35,Michael Jones,2022
+21,69,21,2022-02-01,Davidson,@,St. Bonaventure,REG (Conf),W 81-76,*,34,5,9,0.556,3,6,0.5,2,3,0.667,0.722,4,5,0.8,1,3,4,3,0,1,0,0,17,16.7,A,1,1,mike-jones-35,Michael Jones,2022
+22,70,22,2022-02-05,Davidson,@,George Washington,REG (Conf),W 78-73,*,33,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,1,2,3,2,0,0,1,3,4,1.7,A,1,1,mike-jones-35,Michael Jones,2022
+23,71,23,2022-02-09,Davidson,,Saint Joseph's,REG (Conf),W 73-67 (OT),*,36,4,10,0.4,0,4,0.0,4,6,0.667,0.4,3,3,1.0,2,2,4,2,1,0,2,0,11,8.0,H,1,1,mike-jones-35,Michael Jones,2022
+24,72,24,2022-02-12,Davidson,@,Rhode Island,REG (Conf),L 65-72,*,38,5,12,0.417,2,7,0.286,3,5,0.6,0.5,1,1,1.0,1,6,7,1,1,0,0,3,13,9.6,A,0,1,mike-jones-35,Michael Jones,2022
+25,73,25,2022-02-14,Davidson,,Duquesne,REG (Conf),W 72-61,*,35,4,12,0.333,2,8,0.25,2,4,0.5,0.417,0,0,,0,4,4,3,0,0,1,0,10,5.5,H,1,1,mike-jones-35,Michael Jones,2022
+26,74,26,2022-02-19,Davidson,,Saint Louis,REG (Conf),W 79-58,*,32,5,10,0.5,4,5,0.8,1,5,0.2,0.7,4,5,0.8,0,5,5,2,1,0,1,2,18,14.7,H,1,1,mike-jones-35,Michael Jones,2022
+27,75,27,2022-02-23,Davidson,@,Duquesne,REG (Conf),W 74-50,*,26,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,5,5,1,1,0,3,1,8,4.1,A,1,1,mike-jones-35,Michael Jones,2022
+28,76,28,2022-02-26,Davidson,,Fordham,REG (Conf),W 66-45,*,31,3,7,0.429,2,3,0.667,1,4,0.25,0.571,4,5,0.8,0,4,4,2,1,0,1,3,12,9.3,H,1,1,mike-jones-35,Michael Jones,2022
+29,77,29,2022-03-02,Davidson,,George Mason,REG (Conf),W 73-62,*,34,1,8,0.125,0,3,0.0,1,5,0.2,0.125,4,6,0.667,1,3,4,0,1,1,1,0,6,2.3,H,1,1,mike-jones-35,Michael Jones,2022
+30,78,30,2022-03-05,Davidson,@,Dayton,REG (Conf),L 76-82,*,36,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,3,0.667,2,3,5,1,1,0,0,3,8,7.0,A,0,1,mike-jones-35,Michael Jones,2022
+31,79,31,2022-03-11,Davidson,N,Fordham,CTOURN,W 74-56,*,33,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,4,1.0,0,5,5,2,0,1,0,3,8,6.3,N,1,0,mike-jones-35,Michael Jones,2022
+32,80,32,2022-03-12,Davidson,N,Saint Louis,CTOURN,W 84-69,*,37,5,7,0.714,2,4,0.5,3,3,1.0,0.857,1,1,1.0,0,3,3,0,0,2,1,2,13,10.6,N,1,0,mike-jones-35,Michael Jones,2022
+33,81,33,2022-03-13,Davidson,N,Richmond,CTOURN,L 62-64,*,38,6,14,0.429,3,9,0.333,3,5,0.6,0.536,2,2,1.0,0,5,5,1,1,0,0,4,17,11.2,N,0,0,mike-jones-35,Michael Jones,2022
+34,82,34,2022-03-18,Davidson,N,Michigan State,ROUND-64,L 73-74,*,36,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,1,5,6,3,1,0,2,2,8,7.1,N,0,0,mike-jones-35,Michael Jones,2022

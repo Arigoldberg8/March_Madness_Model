@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2024-11-04,Michigan State,,Monmouth,REG (Non-Conf),W 81-57,,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,2,6,8,0,1,1,3,0,5,4.2,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+2,57,2,2024-11-07,Michigan State,,Niagara,REG (Non-Conf),W 96-60,,17,8,12,0.667,0,2,0.0,8,10,0.8,0.667,4,5,0.8,6,7,13,0,2,0,0,2,20,21.9,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+3,58,3,2024-11-12,Michigan State,N,Kansas,REG (Non-Conf),L 69-77,,23,5,14,0.357,1,5,0.2,4,9,0.444,0.393,1,1,1.0,4,6,10,1,0,1,1,2,12,8.4,N,0,1,jaxon-kohler-1,Jaxon Kohler,2025
+4,59,4,2024-11-16,Michigan State,,Bowling Green,REG (Non-Conf),W 86-72,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,6,6,1.0,0,3,3,2,1,1,0,3,10,11.5,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+5,60,5,2024-11-19,Michigan State,,Samford,REG (Non-Conf),W 83-75,*,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,6,6,2,0,0,0,1,4,5.8,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+6,61,6,2024-11-25,Michigan State,N,Colorado,REG (Non-Conf),W 72-56,*,20,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,6,7,0,0,1,1,0,4,4.2,N,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+7,62,7,2024-11-26,Michigan State,N,Memphis,REG (Non-Conf),L 63-71,*,28,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,3,0.0,3,5,8,2,0,0,4,2,7,2.3,N,0,1,jaxon-kohler-1,Jaxon Kohler,2025
+8,63,8,2024-11-27,Michigan State,N,North Carolina,REG (Non-Conf),W 94-91 (OT),*,13,1,7,0.143,0,2,0.0,1,5,0.2,0.143,1,2,0.5,0,5,5,0,0,0,0,1,3,-0.8,N,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+9,64,9,2024-12-04,Michigan State,@,Minnesota,REG (Conf),W 90-72,*,26,3,4,0.75,1,1,1.0,2,3,0.667,0.875,4,4,1.0,3,8,11,2,1,1,0,0,11,17.0,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+10,65,10,2024-12-07,Michigan State,,Nebraska,REG (Conf),W 89-52,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,7,5,12,4,1,2,4,1,8,14.3,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+11,66,11,2024-12-17,Michigan State,N,Oakland,REG (Non-Conf),W 77-58,*,25,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,2,1.0,3,7,10,1,0,3,2,1,14,13.3,N,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+12,67,12,2024-12-21,Michigan State,,Florida Atlantic,REG (Non-Conf),W 86-69,*,22,2,9,0.222,0,1,0.0,2,8,0.25,0.222,2,2,1.0,4,8,12,1,0,1,2,3,6,3.9,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+13,68,13,2024-12-30,Michigan State,,Western Michigan,REG (Non-Conf),W 80-62,*,16,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,1,3,4,0,0,0,1,0,1,-1.6,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+14,69,14,2025-01-03,Michigan State,@,Ohio State,REG (Conf),W 69-62,*,20,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,4,6,10,1,0,0,1,1,8,9.6,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+15,70,15,2025-01-09,Michigan State,,Washington,REG (Conf),W 88-54,*,17,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,7,7,4,1,1,0,1,6,11.6,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+16,71,16,2025-01-12,Michigan State,@,Northwestern,REG (Conf),W 78-68,*,22,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,4,1,5,5,0,1,2,3,8,10.9,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+17,72,17,2025-01-15,Michigan State,,Penn State,REG (Conf),W 90-85,*,18,3,9,0.333,1,3,0.333,2,6,0.333,0.389,0,0,,3,3,6,1,1,1,0,2,7,6.5,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+18,73,18,2025-01-19,Michigan State,,Illinois,REG (Conf),W 80-78,*,20,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,3,3,6,2,0,0,3,1,8,4.3,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+19,74,19,2025-01-25,Michigan State,@,Rutgers,REG (Conf),W 81-74,*,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,3,2,0.1,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+20,75,20,2025-01-28,Michigan State,,Minnesota,REG (Conf),W 73-51,*,18,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,1,6,7,1,0,2,1,3,8,7.4,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+21,76,21,2025-02-01,Michigan State,@,Southern California,REG (Conf),L 64-70,*,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,7,8,1,0,0,2,3,2,1.3,A,0,1,jaxon-kohler-1,Jaxon Kohler,2025
+22,77,22,2025-02-04,Michigan State,@,UCLA,REG (Conf),L 61-63,*,13,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,4,3,7,1,0,1,3,3,8,6.6,A,0,1,jaxon-kohler-1,Jaxon Kohler,2025
+23,78,23,2025-02-08,Michigan State,,Oregon,REG (Conf),W 86-74,*,31,5,9,0.556,1,2,0.5,4,7,0.571,0.611,3,3,1.0,4,8,12,1,0,1,2,1,14,13.9,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+24,79,24,2025-02-11,Michigan State,,Indiana,REG (Conf),L 67-71,*,18,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,3,4,7,1,0,1,1,4,5,4.4,H,0,1,jaxon-kohler-1,Jaxon Kohler,2025
+25,80,25,2025-02-15,Michigan State,@,Illinois,REG (Conf),W 79-65,*,30,9,13,0.692,4,5,0.8,5,8,0.625,0.846,1,3,0.333,6,4,10,0,2,1,0,0,23,24.8,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+26,81,26,2025-02-18,Michigan State,,Purdue,REG (Conf),W 75-66,*,27,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,1,3,4,1,0,2,2,0,9,8.8,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+27,82,27,2025-02-21,Michigan State,@,Michigan,REG (Conf),W 75-62,*,20,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,2,2,4,3,1,0,1,4,2,1.4,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+28,83,28,2025-02-26,Michigan State,@,Maryland,REG (Conf),W 58-55,*,18,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,2,6,8,1,0,0,0,3,3,4.0,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+29,84,29,2025-03-02,Michigan State,,Wisconsin,REG (Conf),W 71-62,*,30,4,10,0.4,0,2,0.0,4,8,0.5,0.4,2,3,0.667,7,9,16,2,0,1,2,1,10,11.5,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+30,85,30,2025-03-06,Michigan State,@,Iowa,REG (Conf),W 91-84,*,24,5,7,0.714,0,0,,5,7,0.714,0.714,5,5,1.0,1,5,6,1,1,0,0,1,15,15.6,A,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+31,86,31,2025-03-09,Michigan State,,Michigan,REG (Conf),W 79-62,*,25,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,2,5,7,1,1,2,1,3,9,8.8,H,1,1,jaxon-kohler-1,Jaxon Kohler,2025
+32,87,32,2025-03-14,Michigan State,N,Oregon,CTOURN,W 74-64,*,26,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,4,4,1,0,0,2,3,5,3.1,N,1,0,jaxon-kohler-1,Jaxon Kohler,2025
+33,88,33,2025-03-15,Michigan State,N,Wisconsin,CTOURN,L 74-77,*,16,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,1,0.0,2,5,7,1,0,0,0,3,7,7.4,N,0,0,jaxon-kohler-1,Jaxon Kohler,2025
+34,89,34,2025-03-21,Michigan State,N,Bryant,ROUND-64,W 87-62,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,5,4,9,1,0,1,2,2,4,3.9,N,1,0,jaxon-kohler-1,Jaxon Kohler,2025
+35,90,35,2025-03-23,Michigan State,N,New Mexico,ROUND-32,W 71-63,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,1,0,0,1,1,4,2.6,N,1,0,jaxon-kohler-1,Jaxon Kohler,2025
+36,91,36,2025-03-28,Michigan State,N,Ole Miss,ROUND-16,W 73-70,*,18,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,0,2,1,1,0,1.7,N,1,0,jaxon-kohler-1,Jaxon Kohler,2025
+37,92,37,2025-03-30,Michigan State,N,Auburn,ROUND-8,L 64-70,*,28,6,8,0.75,3,4,0.75,3,4,0.75,0.938,2,2,1.0,3,8,11,2,0,1,1,4,17,17.8,N,0,0,jaxon-kohler-1,Jaxon Kohler,2025

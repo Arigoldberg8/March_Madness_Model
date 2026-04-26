@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2010-11-12,Georgia,,Mississippi Valley State,REG (Non-Conf),W 72-70,*,33,2,6,0.333,1,3,0.333,1,3,0.333,0.417,3,5,0.6,0,5,5,4,0,0,1,2,8,6.3,H,1,1,dustin-ware-1,Dustin Ware,2011
+2,65,2,2010-11-16,Georgia,,Colorado,REG (Non-Conf),W 83-74,*,31,1,3,0.333,1,3,0.333,0,0,,0.5,4,4,1.0,0,4,4,4,1,0,3,3,7,6.1,H,1,1,dustin-ware-1,Dustin Ware,2011
+3,66,3,2010-11-20,Georgia,@,Saint Louis,REG (Non-Conf),W 61-59,*,34,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,2,1.0,0,0,0,2,1,0,0,0,10,8.7,A,1,1,dustin-ware-1,Dustin Ware,2011
+4,67,4,2010-11-25,Georgia,N,Notre Dame,REG (Non-Conf),L 83-89 (2OT),*,45,3,13,0.231,3,13,0.231,0,0,,0.346,0,0,,0,1,1,5,1,0,1,2,9,4.1,N,0,1,dustin-ware-1,Dustin Ware,2011
+5,68,5,2010-11-26,Georgia,N,Temple,REG (Non-Conf),L 58-65,*,32,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,0,2,3,3.2,N,0,1,dustin-ware-1,Dustin Ware,2011
+6,69,6,2010-11-28,Georgia,N,Manhattan,REG (Non-Conf),W 61-58,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,1,6,7,2,3,0,1,2,5,8.0,N,1,1,dustin-ware-1,Dustin Ware,2011
+7,70,7,2010-12-03,Georgia,,UAB,REG (Non-Conf),W 66-64,*,32,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,3,1,0,0,0,2,4.0,H,1,1,dustin-ware-1,Dustin Ware,2011
+8,71,8,2010-12-07,Georgia,@,Georgia Tech,REG (Non-Conf),W 73-72,*,37,7,9,0.778,7,9,0.778,0,0,,1.167,0,0,,0,1,1,6,1,0,0,1,21,22.6,A,1,1,dustin-ware-1,Dustin Ware,2011
+9,72,9,2010-12-18,Georgia,,Arkansas State,REG (Non-Conf),W 68-59,*,26,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,2,2,7,2,0,2,2,9,12.1,H,1,1,dustin-ware-1,Dustin Ware,2011
+10,73,10,2010-12-21,Georgia,,High Point,REG (Non-Conf),W 85-38,*,25,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,1,1,3,1,0,2,1,10,8.4,H,1,1,dustin-ware-1,Dustin Ware,2011
+11,74,11,2010-12-23,Georgia,@,Mercer,REG (Non-Conf),W 56-53,*,30,0,1,0.0,0,1,0.0,0,0,,0.0,0,2,0.0,0,4,4,4,1,1,3,3,0,0.0,A,1,1,dustin-ware-1,Dustin Ware,2011
+12,75,12,2010-12-28,Georgia,,Charleston Southern,REG (Non-Conf),W 70-55,*,14,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,2,2,1,0,0,2,3,5,0.3,H,1,1,dustin-ware-1,Dustin Ware,2011
+13,76,13,2010-12-31,Georgia,,Eastern Kentucky,REG (Non-Conf),W 64-57,*,35,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,3,3,2,0,0,0,1,2,2.5,H,1,1,dustin-ware-1,Dustin Ware,2011
+14,77,14,2011-01-08,Georgia,,Kentucky,REG (Conf),W 77-70,*,34,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,1,3,4,2,1,0,2,2,10,7.5,H,1,1,dustin-ware-1,Dustin Ware,2011
+15,78,15,2011-01-12,Georgia,@,Vanderbilt,REG (Conf),L 66-73,*,31,1,9,0.111,1,7,0.143,0,2,0.0,0.167,0,0,,0,0,0,4,4,0,0,2,3,3.1,A,0,1,dustin-ware-1,Dustin Ware,2011
+16,79,16,2011-01-15,Georgia,@,Ole Miss,REG (Conf),W 98-76,*,31,3,4,0.75,2,3,0.667,1,1,1.0,1.0,7,7,1.0,0,1,1,9,1,0,0,0,15,21.0,A,1,1,dustin-ware-1,Dustin Ware,2011
+17,80,17,2011-01-18,Georgia,,Tennessee,REG (Conf),L 57-59,*,35,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,7,7,5,1,0,0,0,6,9.2,H,0,1,dustin-ware-1,Dustin Ware,2011
+18,81,18,2011-01-22,Georgia,,Mississippi State,REG (Conf),W 86-64,*,28,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,4,4,6,1,0,0,0,9,14.5,H,1,1,dustin-ware-1,Dustin Ware,2011
+19,82,19,2011-01-25,Georgia,,Florida,REG (Conf),L 91-104 (2OT),*,36,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,4,4,3,1,0,2,5,10,7.3,H,0,1,dustin-ware-1,Dustin Ware,2011
+20,83,20,2011-01-29,Georgia,@,Kentucky,REG (Conf),L 60-66,*,31,7,11,0.636,4,7,0.571,3,4,0.75,0.818,0,0,,0,2,2,2,0,0,2,4,18,11.5,A,0,1,dustin-ware-1,Dustin Ware,2011
+21,84,21,2011-02-02,Georgia,@,Arkansas,REG (Conf),W 60-59,*,35,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,6,6,5,0,0,0,1,9,11.6,A,1,1,dustin-ware-1,Dustin Ware,2011
+22,85,22,2011-02-05,Georgia,,Auburn,REG (Conf),W 81-72 (OT),*,41,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,4,0.75,1,5,6,5,1,0,2,1,7,8.9,H,1,1,dustin-ware-1,Dustin Ware,2011
+23,86,23,2011-02-08,Georgia,,Xavier,REG (Non-Conf),L 57-65,*,36,2,6,0.333,2,4,0.5,0,2,0.0,0.5,4,4,1.0,0,5,5,3,0,0,1,0,10,9.2,H,0,1,dustin-ware-1,Dustin Ware,2011
+24,87,24,2011-02-12,Georgia,@,South Carolina,REG (Conf),W 60-56,*,35,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,4,4,4,2,0,2,2,3,4.5,A,1,1,dustin-ware-1,Dustin Ware,2011
+25,88,25,2011-02-16,Georgia,,Vanderbilt,REG (Conf),L 56-64,*,37,4,7,0.571,4,6,0.667,0,1,0.0,0.857,0,0,,0,1,1,5,0,1,0,1,12,12.8,H,0,1,dustin-ware-1,Dustin Ware,2011
+26,89,26,2011-02-19,Georgia,@,Tennessee,REG (Conf),W 69-63,*,36,2,5,0.4,2,5,0.4,0,0,,0.6,6,9,0.667,1,3,4,5,1,0,3,1,12,10.8,A,1,1,dustin-ware-1,Dustin Ware,2011
+27,90,27,2011-02-24,Georgia,@,Florida,REG (Conf),L 62-71,*,35,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,1,0,0,1,1,3,0.2,A,0,1,dustin-ware-1,Dustin Ware,2011
+28,91,28,2011-02-26,Georgia,,South Carolina,REG (Conf),W 64-48,*,35,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,3,3,0,2,0,0,1,5,5.1,H,1,1,dustin-ware-1,Dustin Ware,2011
+29,92,29,2011-03-02,Georgia,,Louisiana State,REG (Conf),W 73-53,*,28,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,0,0,0,4,2,0,1,2,15,15.1,H,1,1,dustin-ware-1,Dustin Ware,2011
+30,93,30,2011-03-05,Georgia,@,Alabama,REG (Conf),L 57-65,*,36,3,5,0.6,3,4,0.75,0,1,0.0,0.9,2,2,1.0,0,3,3,1,1,0,3,1,11,7.9,A,0,1,dustin-ware-1,Dustin Ware,2011
+31,94,31,2011-03-10,Georgia,N,Auburn,CTOURN,W 69-51,*,33,1,7,0.143,1,6,0.167,0,1,0.0,0.214,3,4,0.75,1,1,2,3,0,0,0,2,6,3.4,N,1,0,dustin-ware-1,Dustin Ware,2011
+32,95,32,2011-03-11,Georgia,N,Alabama,CTOURN,L 59-65 (OT),*,43,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,2,2,2,0,0,2,1,4,1.5,N,0,0,dustin-ware-1,Dustin Ware,2011
+33,96,33,2011-03-18,Georgia,N,Washington,ROUND-64,L 65-68,*,36,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,3,3,1,0,0,3,1,4,0.1,N,0,0,dustin-ware-1,Dustin Ware,2011

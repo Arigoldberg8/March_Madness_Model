@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2016-11-11,Michigan State,N,Arizona,REG (Non-Conf),L 63-65,*,33,3,9,0.333,3,8,0.375,0,1,0.0,0.5,0,0,,0,1,1,2,1,0,1,3,9,4.4,N,0,1,matt-mcquaid-1,Matt McQuaid,2017
+2,37,2,2016-11-15,Michigan State,N,Kentucky,REG (Non-Conf),L 48-69,*,23,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,1,0,1,2,0,0,0,4,3,-0.3,N,0,1,matt-mcquaid-1,Matt McQuaid,2017
+3,38,3,2016-11-18,Michigan State,,Mississippi Valley State,REG (Non-Conf),W 100-53,*,23,5,8,0.625,5,8,0.625,0,0,,0.938,0,0,,0,0,0,3,1,1,0,3,15,14.0,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+4,39,4,2016-11-20,Michigan State,,Florida Gulf Coast,REG (Non-Conf),W 78-77,*,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,3,3,4,0,0,1,4,0,-1.0,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+5,40,5,2016-11-23,Michigan State,N,St. John's (NY),REG (Non-Conf),W 73-62,*,33,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,2,1,3,1,0,0,0,2,4,3.2,N,1,1,matt-mcquaid-1,Matt McQuaid,2017
+6,41,6,2016-11-24,Michigan State,N,Baylor,REG (Non-Conf),L 58-73,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,1,1,0,0,0,0,2,8,4.5,N,0,1,matt-mcquaid-1,Matt McQuaid,2017
+7,42,7,2016-11-25,Michigan State,N,Wichita State,REG (Non-Conf),W 77-72,,24,4,7,0.571,3,4,0.75,1,3,0.333,0.786,2,2,1.0,2,3,5,0,0,0,2,1,13,9.6,N,1,1,matt-mcquaid-1,Matt McQuaid,2017
+8,43,8,2016-11-29,Michigan State,@,Duke,REG (Non-Conf),L 69-78,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,5,6,0.833,1,0,1,0,0,0,1,3,8,3.7,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+9,44,9,2016-12-03,Michigan State,,Oral Roberts,REG (Non-Conf),W 80-76,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,1,2,2,-0.9,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+10,45,10,2016-12-06,Michigan State,,Youngstown State,REG (Non-Conf),W 77-57,*,26,4,12,0.333,3,8,0.375,1,4,0.25,0.458,0,0,,1,3,4,1,0,0,0,0,11,6.5,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+11,46,12,2016-12-18,Michigan State,,Northeastern,REG (Non-Conf),L 73-81,,22,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,4,0.5,1,0,1,3,1,0,2,5,4,-0.8,H,0,1,matt-mcquaid-1,Matt McQuaid,2017
+12,47,13,2016-12-21,Michigan State,,Oakland,REG (Non-Conf),W 77-65,*,22,1,6,0.167,1,5,0.2,0,1,0.0,0.25,1,2,0.5,0,0,0,2,2,0,2,2,4,0.4,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+13,48,14,2016-12-27,Michigan State,@,Minnesota,REG (Conf),W 75-74 (OT),*,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,2,2,0,1,1,2,0.5,A,1,1,matt-mcquaid-1,Matt McQuaid,2017
+14,49,15,2016-12-30,Michigan State,,Northwestern,REG (Conf),W 61-52,*,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,3,0.333,1,1,2,2,0,0,1,3,3,0.7,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+15,50,16,2017-01-04,Michigan State,,Rutgers,REG (Conf),W 93-65,,19,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,0,0,0,2,1,0,1,2,12,10.0,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+16,51,17,2017-01-07,Michigan State,N,Penn State,REG (Conf),L 63-72,,12,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,1,1,2,0,1,0,1,3,3,-0.3,N,0,1,matt-mcquaid-1,Matt McQuaid,2017
+17,52,18,2017-01-11,Michigan State,,Minnesota,REG (Conf),W 65-47,,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,2,0,-2.2,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+18,53,19,2017-01-15,Michigan State,@,Ohio State,REG (Conf),L 67-72,,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,1,0,0,0,2,5,2.9,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+19,54,20,2017-01-21,Michigan State,@,Indiana,REG (Conf),L 75-82,,5,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,3,0,0,-2.0,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+20,55,21,2017-01-24,Michigan State,,Purdue,REG (Conf),L 73-84,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,5,5,1,0,0,1,1,3,2.1,H,0,1,matt-mcquaid-1,Matt McQuaid,2017
+21,56,22,2017-01-29,Michigan State,,Michigan,REG (Conf),W 70-62,,23,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,1,0,1,1,2,0,0,1,9,9.7,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+22,57,23,2017-02-02,Michigan State,@,Nebraska,REG (Conf),W 72-61,,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,0,4,0,-2.4,A,1,1,matt-mcquaid-1,Matt McQuaid,2017
+23,58,24,2017-02-07,Michigan State,@,Michigan,REG (Conf),L 57-86,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,0,2,0,0.2,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+24,59,25,2017-02-11,Michigan State,,Iowa,REG (Conf),W 77-66,,18,2,9,0.222,1,7,0.143,1,2,0.5,0.278,1,2,0.5,2,1,3,3,0,0,1,0,6,2.9,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+25,60,26,2017-02-14,Michigan State,,Ohio State,REG (Conf),W 74-66,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+26,61,27,2017-02-18,Michigan State,@,Purdue,REG (Conf),L 63-80,,22,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,2,0.0,1,2,3,1,0,0,0,0,11,9.6,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+27,62,28,2017-02-23,Michigan State,,Nebraska,REG (Conf),W 88-72,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,5,5,1,0,0,0,3,2,1.3,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+28,63,29,2017-02-26,Michigan State,,Wisconsin,REG (Conf),W 84-74,,28,5,9,0.556,1,3,0.333,4,6,0.667,0.611,4,4,1.0,0,2,2,2,0,0,2,2,15,9.9,H,1,1,matt-mcquaid-1,Matt McQuaid,2017
+29,64,30,2017-03-01,Michigan State,@,Illinois,REG (Conf),L 70-73,,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,2,2,1,0,0,1,0,6,3.9,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+30,65,31,2017-03-04,Michigan State,@,Maryland,REG (Conf),L 60-63,,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,3,0,-1.3,A,0,1,matt-mcquaid-1,Matt McQuaid,2017
+31,66,32,2017-03-09,Michigan State,N,Penn State,CTOURN,W 78-51,,19,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,1,1,2,0,0,1,0,2,9,6.9,N,1,0,matt-mcquaid-1,Matt McQuaid,2017
+32,67,33,2017-03-10,Michigan State,N,Minnesota,CTOURN,L 58-63,,29,2,9,0.222,2,7,0.286,0,2,0.0,0.333,0,0,,0,2,2,1,0,0,0,2,6,1.0,N,0,0,matt-mcquaid-1,Matt McQuaid,2017
+33,68,34,2017-03-17,Michigan State,N,Miami (FL),ROUND-64,W 78-58,,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,1,4,5,3,0,0,3,1,7,5.6,N,1,0,matt-mcquaid-1,Matt McQuaid,2017
+34,69,35,2017-03-19,Michigan State,N,Kansas,ROUND-32,L 70-90,,31,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,2,2,1,0,0,2,2,9,3.1,N,0,0,matt-mcquaid-1,Matt McQuaid,2017

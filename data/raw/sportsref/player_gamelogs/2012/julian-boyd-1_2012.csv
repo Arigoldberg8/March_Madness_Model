@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2011-11-11,LIU Brooklyn,@,Hofstra,REG (Non-Conf),L 71-89,*,27,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,1,5,6,0,2,1,4,4,9,3.2,A,0,1,julian-boyd-1,Julian Boyd,2012
+2,65,2,2011-11-14,LIU Brooklyn,@,Old Dominion,REG (Non-Conf),L 69-77,*,21,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,1,6,7,0,1,1,5,3,12,6.4,A,0,1,julian-boyd-1,Julian Boyd,2012
+3,66,3,2011-11-16,LIU Brooklyn,@,Penn State,REG (Non-Conf),L 68-77,*,30,5,10,0.5,0,0,,5,10,0.5,0.5,5,6,0.833,2,2,4,0,1,0,4,3,15,7.4,A,0,1,julian-boyd-1,Julian Boyd,2012
+4,67,4,2011-11-19,LIU Brooklyn,N,Radford,REG (Non-Conf),W 81-59,*,19,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,1,0.0,2,8,10,2,0,0,1,3,10,7.6,N,1,1,julian-boyd-1,Julian Boyd,2012
+5,68,5,2011-11-20,LIU Brooklyn,N,Vermont,REG (Non-Conf),W 80-75,*,27,5,9,0.556,0,0,,5,9,0.556,0.556,8,9,0.889,3,9,12,2,1,0,2,3,18,17.3,N,1,1,julian-boyd-1,Julian Boyd,2012
+6,69,6,2011-11-28,LIU Brooklyn,@,Iona,REG (Non-Conf),L 84-100,*,24,4,8,0.5,0,0,,4,8,0.5,0.5,5,7,0.714,2,7,9,0,2,0,3,5,13,8.7,A,0,1,julian-boyd-1,Julian Boyd,2012
+7,70,7,2011-12-01,LIU Brooklyn,,Wagner,REG (Conf),W 78-73,*,20,4,12,0.333,1,1,1.0,3,11,0.273,0.375,2,6,0.333,3,3,6,0,0,2,1,0,11,6.0,H,1,1,julian-boyd-1,Julian Boyd,2012
+8,71,8,2011-12-03,LIU Brooklyn,@,Mount St. Mary's,REG (Conf),W 85-76,*,26,9,13,0.692,2,2,1.0,7,11,0.636,0.769,2,5,0.4,5,8,13,0,0,1,2,4,22,18.3,A,1,1,julian-boyd-1,Julian Boyd,2012
+9,72,9,2011-12-05,LIU Brooklyn,@,Lafayette,REG (Non-Conf),W 82-80,*,14,7,13,0.538,0,1,0.0,7,12,0.583,0.538,4,4,1.0,3,3,6,0,0,1,0,3,18,14.2,A,1,1,julian-boyd-1,Julian Boyd,2012
+10,73,11,2011-12-14,LIU Brooklyn,@,Norfolk State,REG (Non-Conf),L 62-73,*,22,6,13,0.462,0,2,0.0,6,11,0.545,0.462,1,2,0.5,6,3,9,0,0,1,1,3,13,9.5,A,0,1,julian-boyd-1,Julian Boyd,2012
+11,74,12,2011-12-17,LIU Brooklyn,,Saint Peter's,REG (Non-Conf),W 82-80,*,31,7,17,0.412,1,3,0.333,6,14,0.429,0.441,14,17,0.824,8,9,17,2,1,1,5,0,29,25.1,H,1,1,julian-boyd-1,Julian Boyd,2012
+12,75,13,2011-12-20,LIU Brooklyn,,Texas State San Marcos,REG (Non-Conf),W 100-84,*,30,7,10,0.7,0,2,0.0,7,8,0.875,0.7,8,9,0.889,0,12,12,2,0,1,3,3,22,18.9,H,1,1,julian-boyd-1,Julian Boyd,2012
+13,76,14,2011-12-30,LIU Brooklyn,,NJIT,REG (Non-Conf),W 84-74,*,31,7,13,0.538,0,0,,7,13,0.538,0.538,8,8,1.0,1,10,11,3,0,0,1,1,22,20.1,H,1,1,julian-boyd-1,Julian Boyd,2012
+14,77,15,2012-01-05,LIU Brooklyn,@,Sacred Heart,REG (Conf),W 87-81,*,33,4,10,0.4,1,1,1.0,3,9,0.333,0.45,3,6,0.5,1,11,12,0,0,1,0,1,12,9.7,A,1,1,julian-boyd-1,Julian Boyd,2012
+15,78,16,2012-01-07,LIU Brooklyn,@,Quinnipiac,REG (Conf),W 79-75,*,23,6,12,0.5,0,1,0.0,6,11,0.545,0.5,5,7,0.714,2,7,9,0,1,1,2,5,17,11.4,A,1,1,julian-boyd-1,Julian Boyd,2012
+16,79,17,2012-01-12,LIU Brooklyn,,Fairleigh Dickinson,REG (Conf),W 82-64,*,24,3,11,0.273,0,1,0.0,3,10,0.3,0.273,8,11,0.727,2,6,8,1,0,2,0,3,14,10.4,H,1,1,julian-boyd-1,Julian Boyd,2012
+17,80,18,2012-01-14,LIU Brooklyn,,Monmouth,REG (Conf),W 106-86,*,26,11,13,0.846,0,1,0.0,11,12,0.917,0.846,6,6,1.0,5,3,8,2,0,1,3,3,28,25.6,H,1,1,julian-boyd-1,Julian Boyd,2012
+18,81,19,2012-01-19,LIU Brooklyn,,Mount St. Mary's,REG (Conf),W 77-62,*,21,4,11,0.364,0,1,0.0,4,10,0.4,0.364,1,1,1.0,2,4,6,2,2,1,4,3,9,4.4,H,1,1,julian-boyd-1,Julian Boyd,2012
+19,82,20,2012-01-21,LIU Brooklyn,@,Wagner,REG (Conf),W 73-66,*,37,6,13,0.462,1,2,0.5,5,11,0.455,0.5,6,10,0.6,2,13,15,3,0,0,1,3,19,15.9,A,1,1,julian-boyd-1,Julian Boyd,2012
+20,83,21,2012-01-26,LIU Brooklyn,@,Robert Morris,REG (Conf),L 66-75,*,35,8,11,0.727,2,2,1.0,6,9,0.667,0.818,7,8,0.875,5,7,12,0,1,1,5,5,25,20.4,A,0,1,julian-boyd-1,Julian Boyd,2012
+21,84,22,2012-01-28,LIU Brooklyn,@,Saint Francis (PA),REG (Conf),W 97-76,*,28,6,12,0.5,0,2,0.0,6,10,0.6,0.5,5,6,0.833,3,4,7,1,0,0,2,3,17,11.4,A,1,1,julian-boyd-1,Julian Boyd,2012
+22,85,23,2012-02-02,LIU Brooklyn,,Bryant,REG (Conf),W 75-70,*,25,5,11,0.455,0,1,0.0,5,10,0.5,0.455,2,6,0.333,2,4,6,0,1,0,1,4,12,5.7,H,1,1,julian-boyd-1,Julian Boyd,2012
+23,86,24,2012-02-04,LIU Brooklyn,,Central Connecticut State,REG (Conf),W 95-80,*,18,3,8,0.375,0,0,,3,8,0.375,0.375,10,10,1.0,1,6,7,0,0,0,0,5,16,12.1,H,1,1,julian-boyd-1,Julian Boyd,2012
+24,87,25,2012-02-08,LIU Brooklyn,N,St. Francis Brooklyn,REG (Conf),W 86-77,*,27,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,10,0.6,1,10,11,1,0,1,3,4,17,11.6,N,1,1,julian-boyd-1,Julian Boyd,2012
+25,88,26,2012-02-12,LIU Brooklyn,,St. Francis Brooklyn,REG (Conf),W 81-78,*,30,9,11,0.818,0,1,0.0,9,10,0.9,0.818,2,2,1.0,1,9,10,0,1,1,1,3,20,18.8,H,1,1,julian-boyd-1,Julian Boyd,2012
+26,89,27,2012-02-16,LIU Brooklyn,,Sacred Heart,REG (Conf),W 103-91 (OT),*,37,6,8,0.75,1,1,1.0,5,7,0.714,0.813,7,12,0.583,2,7,9,1,0,1,4,4,20,14.1,H,1,1,julian-boyd-1,Julian Boyd,2012
+27,90,28,2012-02-18,LIU Brooklyn,,Quinnipiac,REG (Conf),W 99-89,*,28,11,16,0.688,2,3,0.667,9,13,0.692,0.75,1,3,0.333,2,8,10,0,0,0,1,2,25,19.4,H,1,1,julian-boyd-1,Julian Boyd,2012
+28,91,29,2012-02-23,LIU Brooklyn,@,Fairleigh Dickinson,REG (Conf),W 91-80,*,30,8,15,0.533,1,3,0.333,7,12,0.583,0.567,4,4,1.0,2,18,20,0,1,0,2,2,21,18.7,A,1,1,julian-boyd-1,Julian Boyd,2012
+29,92,30,2012-02-25,LIU Brooklyn,@,Monmouth,REG (Conf),L 78-106,*,24,5,7,0.714,1,1,1.0,4,6,0.667,0.786,6,7,0.857,4,4,8,0,0,1,2,2,17,15.6,A,0,1,julian-boyd-1,Julian Boyd,2012
+30,93,31,2012-03-01,LIU Brooklyn,,Sacred Heart,CTOURN,W 80-68,*,33,7,11,0.636,2,3,0.667,5,8,0.625,0.727,0,0,,3,3,6,3,1,0,2,1,16,14.8,H,1,0,julian-boyd-1,Julian Boyd,2012
+31,94,32,2012-03-04,LIU Brooklyn,,Quinnipiac,CTOURN,W 78-75,*,35,9,13,0.692,2,3,0.667,7,10,0.7,0.769,1,2,0.5,1,8,9,0,0,0,2,2,21,15.4,H,1,0,julian-boyd-1,Julian Boyd,2012
+32,95,33,2012-03-07,LIU Brooklyn,,Robert Morris,CTOURN,W 90-73,*,30,8,10,0.8,2,3,0.667,6,7,0.857,0.9,0,1,0.0,2,8,10,0,0,1,2,5,18,14.3,H,1,0,julian-boyd-1,Julian Boyd,2012
+33,96,34,2012-03-16,LIU Brooklyn,N,Michigan State,ROUND-64,L 67-89,*,27,7,13,0.538,1,3,0.333,6,10,0.6,0.577,0,0,,0,3,3,1,0,0,1,2,15,8.5,N,0,0,julian-boyd-1,Julian Boyd,2012

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2025-11-03,LIU,@,Notre Dame,REG (Non-Conf),L 67-89,*,23,2,2,1.0,1,1,1.0,1,1,1.0,1.25,3,5,0.6,1,3,4,1,0,2,1,2,8,8.5,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+2,33,2,2025-11-06,LIU,@,IU Indy,REG (Non-Conf),W 94-90,*,29,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,4,3,7,0,0,2,1,2,10,8.2,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+3,34,3,2025-11-11,LIU,@,Air Force,REG (Non-Conf),W 76-72,*,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,4,0,-1.3,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+4,35,4,2025-11-15,LIU,,James Madison,REG (Non-Conf),W 88-79,*,15,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,1,1,2,0,0,0,1,4,6,2.8,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+5,36,5,2025-11-20,LIU,@,Fordham,REG (Non-Conf),L 53-69,*,29,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,2,0.5,4,6,10,0,0,1,1,0,7,7.2,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+6,37,6,2025-11-22,LIU,@,Illinois,REG (Non-Conf),L 58-98,*,20,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,5,2,7,0,2,0,2,2,4,3.2,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+7,38,7,2025-11-24,LIU,@,Missouri State,REG (Non-Conf),W 75-61,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,0,3,3,0,0,1,2,2,8,4.1,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+8,39,8,2025-12-02,LIU,,Winthrop,REG (Non-Conf),L 92-94 (OT),*,20,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,1,2,0,-1.5,H,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+9,40,9,2025-12-06,LIU,@,Lehigh,REG (Non-Conf),W 87-82,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,3,3,0,0,2,1,4,3,0.6,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+10,41,10,2025-12-13,LIU,,La Salle,REG (Non-Conf),W 70-60,*,28,2,2,1.0,0,0,,2,2,1.0,1.0,4,5,0.8,2,2,4,0,1,4,1,2,8,11.0,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+11,42,11,2025-12-16,LIU,@,Mississippi State,REG (Non-Conf),L 83-87,*,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,1,3,1,0,0,0,4,2,-0.3,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+12,43,12,2025-12-20,LIU,@,Florida International,REG (Non-Conf),L 79-86,*,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,2,1.0,3,3,6,1,0,1,1,2,8,9.0,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+13,44,13,2025-12-29,LIU,@,Georgia,REG (Non-Conf),L 74-89,*,15,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,3,4,0,0,0,1,5,4,0.6,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+14,45,14,2026-01-02,LIU,,Central Connecticut State,REG (Conf),W 84-78,*,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,3,1,4,0,0,0,0,2,2,3.3,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+15,46,15,2026-01-04,LIU,@,Chicago State,REG (Conf),W 74-55,*,9,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,1,1,2,0,-0.4,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+16,47,16,2026-01-08,LIU,,Mercyhurst,REG (Conf),W 60-58,*,23,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,1,3,0,1,1,1,1,2,0.9,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+17,48,17,2026-01-10,LIU,,Saint Francis (PA),REG (Conf),W 67-63,*,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,4,0,4,1,0,2,3,3,0,-0.7,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+18,49,18,2026-01-17,LIU,@,FDU,REG (Conf),W 66-59,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,4,7,0,1,1,1,5,6,6.4,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+19,50,19,2026-01-19,LIU,@,Le Moyne,REG (Conf),L 77-83,*,30,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,5,2,7,0,0,1,0,1,0,3.7,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+20,51,20,2026-01-23,LIU,@,Stonehill,REG (Conf),W 66-63,*,33,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,8,11,0,2,1,0,4,3,7.2,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+21,52,21,2026-01-29,LIU,,Le Moyne,REG (Conf),W 83-61,*,27,2,2,1.0,1,1,1.0,1,1,1.0,1.25,5,6,0.833,1,5,6,1,0,5,0,4,10,13.8,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+22,53,22,2026-01-31,LIU,@,Central Connecticut State,REG (Conf),W 80-59,*,34,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,3,7,10,0,0,2,0,4,10,12.1,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+23,54,23,2026-02-05,LIU,,New Haven,REG (Conf),W 60-55,*,34,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,1,0.0,3,5,8,2,2,2,1,3,11,14.6,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+24,55,24,2026-02-07,LIU,,Stonehill,REG (Conf),W 61-54,*,33,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,2,0.5,4,7,11,0,0,6,1,2,3,5.4,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+25,56,25,2026-02-12,LIU,@,Wagner,REG (Conf),W 67-57,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,1,0,0,2,4,3.9,A,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+26,57,26,2026-02-14,LIU,@,New Haven,REG (Conf),L 52-55,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,6,7,0,0,1,2,4,2,-0.8,A,0,1,shadrak-lasu-1,Shadrak Lasu,2026
+27,58,27,2026-02-16,LIU,,Wagner,REG (Conf),W 83-65,*,24,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,2,4,6,2,0,4,2,3,7,10.0,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+28,59,30,2026-02-26,LIU,,Chicago State,REG (Conf),W 73-56,*,33,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,4,5,9,2,0,2,2,3,5,7.2,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+29,60,31,2026-02-28,LIU,,FDU,REG (Conf),W 74-60,*,37,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,2,0.0,1,2,3,1,0,0,0,1,7,6.2,H,1,1,shadrak-lasu-1,Shadrak Lasu,2026
+30,61,32,2026-03-04,LIU,,Chicago State,CTOURN,W 79-75,*,20,4,4,1.0,1,1,1.0,3,3,1.0,1.125,3,4,0.75,2,0,2,0,0,0,0,4,12,10.2,H,1,0,shadrak-lasu-1,Shadrak Lasu,2026
+31,62,33,2026-03-07,LIU,,Wagner,CTOURN,W 64-56,*,32,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,2,1.0,5,8,13,0,0,3,0,4,13,15.8,H,1,0,shadrak-lasu-1,Shadrak Lasu,2026
+32,63,34,2026-03-10,LIU,,Mercyhurst,CTOURN,W 79-70,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,4,5,0,0,1,0,4,2,1.3,H,1,0,shadrak-lasu-1,Shadrak Lasu,2026

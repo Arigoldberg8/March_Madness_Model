@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,5,2020-12-09,UCLA,,San Diego,REG (Non-Conf),W 83-56,,20,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,1,2,3,0,1,0,0,0,10,9.3,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+2,30,6,2020-12-11,UCLA,,Marquette,REG (Non-Conf),W 69-60,*,26,3,12,0.25,1,8,0.125,2,4,0.5,0.292,2,2,1.0,0,2,2,1,0,0,1,3,9,0.9,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+3,31,7,2020-12-19,UCLA,N,Ohio State,REG (Non-Conf),L 70-77,*,31,5,13,0.385,1,6,0.167,4,7,0.571,0.423,2,2,1.0,2,1,3,2,1,0,1,1,13,8.6,N,0,1,johnny-juzang-1,Johnny Juzang,2021
+4,32,8,2020-12-31,UCLA,,Utah,REG (Conf),W 72-70,*,24,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,1,1.0,0,1,1,1,0,1,1,1,13,9.7,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+5,33,9,2021-01-02,UCLA,,Colorado,REG (Conf),W 65-62,*,36,3,10,0.3,0,3,0.0,3,7,0.429,0.3,4,4,1.0,0,0,0,2,0,0,2,3,10,2.4,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+6,34,10,2021-01-07,UCLA,@,Arizona State,REG (Conf),W 81-75 (OT),*,23,2,8,0.25,1,3,0.333,1,5,0.2,0.313,4,4,1.0,3,2,5,3,0,0,1,4,9,6.4,A,1,1,johnny-juzang-1,Johnny Juzang,2021
+7,35,11,2021-01-09,UCLA,@,Arizona,REG (Conf),W 81-76,*,33,5,10,0.5,3,4,0.75,2,6,0.333,0.65,3,4,0.75,0,2,2,1,0,0,1,1,16,10.5,A,1,1,johnny-juzang-1,Johnny Juzang,2021
+8,36,12,2021-01-14,UCLA,,Washington State,REG (Conf),W 91-61,*,29,7,14,0.5,3,6,0.5,4,8,0.5,0.607,0,0,,3,2,5,1,2,1,1,3,17,13.9,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+9,37,13,2021-01-16,UCLA,,Washington,REG (Conf),W 81-76,*,24,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,3,1,1,1,0,3,3.3,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+10,38,14,2021-01-21,UCLA,@,California,REG (Conf),W 61-57,*,31,3,12,0.25,1,5,0.2,2,7,0.286,0.292,2,2,1.0,1,3,4,0,0,2,1,0,9,3.8,A,1,1,johnny-juzang-1,Johnny Juzang,2021
+11,39,15,2021-01-23,UCLA,@,Stanford,REG (Conf),L 72-73 (OT),*,43,11,19,0.579,5,8,0.625,6,11,0.545,0.711,0,0,,0,4,4,1,3,0,2,4,27,19.4,A,0,1,johnny-juzang-1,Johnny Juzang,2021
+12,40,16,2021-01-30,UCLA,,Oregon State,REG (Conf),W 57-52,*,33,3,11,0.273,1,5,0.2,2,6,0.333,0.318,0,0,,0,4,4,2,1,0,2,0,7,2.1,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+13,41,17,2021-02-06,UCLA,@,Southern California,REG (Conf),L 48-66,*,36,6,21,0.286,0,5,0.0,6,16,0.375,0.286,1,1,1.0,3,10,13,4,1,0,3,0,13,6.6,A,0,1,johnny-juzang-1,Johnny Juzang,2021
+14,42,18,2021-02-11,UCLA,@,Washington State,REG (Conf),L 73-81,*,38,7,18,0.389,3,9,0.333,4,9,0.444,0.472,8,8,1.0,1,6,7,2,0,0,1,1,25,17.7,A,0,1,johnny-juzang-1,Johnny Juzang,2021
+15,43,19,2021-02-13,UCLA,@,Washington,REG (Conf),W 64-61,*,39,12,23,0.522,5,12,0.417,7,11,0.636,0.63,3,4,0.75,1,6,7,3,0,1,2,1,32,23.2,A,1,1,johnny-juzang-1,Johnny Juzang,2021
+16,44,20,2021-02-18,UCLA,,Arizona,REG (Conf),W 74-60,*,32,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,0,,1,5,6,2,2,0,2,4,9,4.9,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+17,45,21,2021-02-20,UCLA,,Arizona State,REG (Conf),W 80-79,*,30,3,9,0.333,3,5,0.6,0,4,0.0,0.5,3,3,1.0,0,3,3,4,0,0,2,1,12,8.2,H,1,1,johnny-juzang-1,Johnny Juzang,2021
+18,46,22,2021-02-25,UCLA,@,Utah,REG (Conf),W 76-61,*,33,7,13,0.538,4,6,0.667,3,7,0.429,0.692,0,0,,0,8,8,2,2,1,1,1,18,16.8,A,1,1,johnny-juzang-1,Johnny Juzang,2021
+19,47,23,2021-02-27,UCLA,@,Colorado,REG (Conf),L 61-70,*,37,7,12,0.583,3,4,0.75,4,8,0.5,0.708,8,8,1.0,0,5,5,1,0,0,4,1,25,17.2,A,0,1,johnny-juzang-1,Johnny Juzang,2021
+20,48,24,2021-03-03,UCLA,@,Oregon,REG (Conf),L 74-82,*,31,3,12,0.25,0,6,0.0,3,6,0.5,0.25,0,0,,1,0,1,1,1,0,4,4,6,-4.4,A,0,1,johnny-juzang-1,Johnny Juzang,2021
+21,49,26,2021-03-11,UCLA,N,Oregon State,CTOURN,L 79-83 (OT),*,24,5,10,0.5,1,6,0.167,4,4,1.0,0.55,1,2,0.5,0,2,2,1,1,0,3,3,12,4.7,N,0,0,johnny-juzang-1,Johnny Juzang,2021
+22,50,27,2021-03-18,UCLA,N,Michigan State,FIRST-FOUR,W 86-80 (OT),*,41,9,20,0.45,3,9,0.333,6,11,0.545,0.525,2,2,1.0,1,3,4,2,0,0,2,3,23,12.4,N,1,0,johnny-juzang-1,Johnny Juzang,2021
+23,51,28,2021-03-20,UCLA,N,Brigham Young,ROUND-64,W 73-62,*,39,10,16,0.625,3,7,0.429,7,9,0.778,0.719,4,5,0.8,1,4,5,0,0,1,1,3,27,19.8,N,1,0,johnny-juzang-1,Johnny Juzang,2021
+24,52,29,2021-03-22,UCLA,N,Abilene Christian,ROUND-32,W 67-47,*,27,7,15,0.467,3,7,0.429,4,8,0.5,0.567,0,0,,0,3,3,1,1,1,0,1,17,12.2,N,1,0,johnny-juzang-1,Johnny Juzang,2021
+25,53,30,2021-03-28,UCLA,N,Alabama,ROUND-16,W 88-78 (OT),*,30,5,18,0.278,1,6,0.167,4,12,0.333,0.306,2,2,1.0,3,1,4,1,2,0,0,5,13,5.5,N,1,0,johnny-juzang-1,Johnny Juzang,2021
+26,54,31,2021-03-30,UCLA,N,Michigan,ROUND-8,W 51-49,*,38,11,19,0.579,2,5,0.4,9,14,0.643,0.632,4,5,0.8,0,2,2,0,0,0,0,0,28,19.3,N,1,0,johnny-juzang-1,Johnny Juzang,2021
+27,55,32,2021-04-03,UCLA,N,Gonzaga,NATIONAL-SEMI,L 90-93 (OT),*,45,12,18,0.667,3,6,0.5,9,12,0.75,0.75,2,4,0.5,1,5,6,2,2,0,4,2,29,21.2,N,0,0,johnny-juzang-1,Johnny Juzang,2021

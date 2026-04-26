@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,Illinois,,North Carolina A&T,REG (Non-Conf),W 122-60,*,27,10,12,0.833,6,8,0.75,4,4,1.0,1.083,2,2,1.0,1,2,3,3,1,0,2,0,28,26.0,H,1,1,adam-miller-3,Adam Miller,2021
+2,2,2,2020-11-26,Illinois,,Chicago State,REG (Non-Conf),W 97-38,*,24,5,9,0.556,2,5,0.4,3,4,0.75,0.667,3,3,1.0,1,1,2,0,0,0,2,3,15,8.5,H,1,1,adam-miller-3,Adam Miller,2021
+3,3,3,2020-11-27,Illinois,,Ohio,REG (Non-Conf),W 77-75,*,33,4,11,0.364,0,4,0.0,4,7,0.571,0.364,3,5,0.6,1,1,2,0,0,0,2,1,11,2.7,H,1,1,adam-miller-3,Adam Miller,2021
+4,4,4,2020-12-02,Illinois,N,Baylor,REG (Non-Conf),L 69-82,*,31,2,11,0.182,0,6,0.0,2,5,0.4,0.182,0,0,,0,2,2,1,0,0,1,2,4,-3.4,N,0,1,adam-miller-3,Adam Miller,2021
+5,5,5,2020-12-08,Illinois,@,Duke,REG (Non-Conf),W 83-68,*,29,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,0,2,2,1,2,0,1,1,9,8.6,A,1,1,adam-miller-3,Adam Miller,2021
+6,6,6,2020-12-12,Illinois,@,Missouri,REG (Non-Conf),L 78-81,*,23,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,1,2,0,1,4,2,-1.4,A,0,1,adam-miller-3,Adam Miller,2021
+7,7,7,2020-12-15,Illinois,,Minnesota,REG (Conf),W 92-65,*,26,5,13,0.385,4,9,0.444,1,4,0.25,0.538,0,0,,0,3,3,1,1,0,0,4,14,7.9,H,1,1,adam-miller-3,Adam Miller,2021
+8,8,8,2020-12-20,Illinois,@,Rutgers,REG (Conf),L 88-91,*,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,1,4,0,-4.0,A,0,1,adam-miller-3,Adam Miller,2021
+9,9,9,2020-12-23,Illinois,@,Penn State,REG (Conf),W 98-81,*,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,1,0.0,0,2,2,1,1,0,0,3,5,2.3,A,1,1,adam-miller-3,Adam Miller,2021
+10,10,10,2020-12-26,Illinois,,Indiana,REG (Conf),W 69-60,*,18,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,1,0,-5.2,H,1,1,adam-miller-3,Adam Miller,2021
+11,11,11,2021-01-02,Illinois,,Purdue,REG (Conf),W 66-58,*,20,2,6,0.333,2,6,0.333,0,0,,0.5,4,7,0.571,1,2,3,0,0,0,0,3,10,5.5,H,1,1,adam-miller-3,Adam Miller,2021
+12,12,12,2021-01-07,Illinois,@,Northwestern,REG (Conf),W 81-56,*,33,5,12,0.417,4,11,0.364,1,1,1.0,0.583,0,0,,0,4,4,0,0,0,0,2,14,8.0,A,1,1,adam-miller-3,Adam Miller,2021
+13,13,13,2021-01-10,Illinois,,Maryland,REG (Conf),L 63-66,*,31,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,1,1,0,1,0,3,1,9,3.9,H,0,1,adam-miller-3,Adam Miller,2021
+14,14,14,2021-01-16,Illinois,,Ohio State,REG (Conf),L 81-87,*,32,4,9,0.444,3,8,0.375,1,1,1.0,0.611,3,3,1.0,2,5,7,0,1,0,0,2,14,12.4,H,0,1,adam-miller-3,Adam Miller,2021
+15,15,15,2021-01-19,Illinois,,Penn State,REG (Conf),W 79-65,*,25,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,4,4,1,0,0,1,1,9,5.1,H,1,1,adam-miller-3,Adam Miller,2021
+16,16,16,2021-01-29,Illinois,,Iowa,REG (Conf),W 80-75,*,18,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,3,0,-2.0,H,1,1,adam-miller-3,Adam Miller,2021
+17,17,17,2021-02-02,Illinois,@,Indiana,REG (Conf),W 75-71 (OT),*,31,1,6,0.167,1,6,0.167,0,0,,0.25,1,2,0.5,0,2,2,0,0,0,3,4,4,-4.2,A,1,1,adam-miller-3,Adam Miller,2021
+18,18,18,2021-02-06,Illinois,,Wisconsin,REG (Conf),W 75-60,*,26,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,0,0,1,2,0,1,2,6,4.2,H,1,1,adam-miller-3,Adam Miller,2021
+19,19,19,2021-02-12,Illinois,@,Nebraska,REG (Conf),W 77-72 (OT),*,36,4,10,0.4,2,7,0.286,2,3,0.667,0.5,0,0,,0,7,7,1,0,1,0,4,10,6.5,A,1,1,adam-miller-3,Adam Miller,2021
+20,20,20,2021-02-16,Illinois,,Northwestern,REG (Conf),W 73-66,*,31,3,11,0.273,3,9,0.333,0,2,0.0,0.409,1,2,0.5,0,3,3,0,2,0,2,4,10,2.4,H,1,1,adam-miller-3,Adam Miller,2021
+21,21,21,2021-02-20,Illinois,@,Minnesota,REG (Conf),W 94-63,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,4,4,3,0,0,2,3,5,1.0,A,1,1,adam-miller-3,Adam Miller,2021
+22,22,22,2021-02-23,Illinois,@,Michigan State,REG (Conf),L 72-81,*,16,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,1,0,0,0,0,2,0.6,A,0,1,adam-miller-3,Adam Miller,2021
+23,23,23,2021-02-25,Illinois,,Nebraska,REG (Conf),W 86-70,*,28,8,15,0.533,2,8,0.25,6,7,0.857,0.6,0,2,0.0,1,3,4,0,0,0,0,5,18,9.5,H,1,1,adam-miller-3,Adam Miller,2021
+24,24,24,2021-02-27,Illinois,@,Wisconsin,REG (Conf),W 74-69,*,28,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,5,5,1,1,0,1,3,6,5.3,A,1,1,adam-miller-3,Adam Miller,2021
+25,25,25,2021-03-02,Illinois,@,Michigan,REG (Conf),W 76-53,*,32,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,4,4,0,0,0,3,2,6,-0.7,A,1,1,adam-miller-3,Adam Miller,2021
+26,26,26,2021-03-06,Illinois,@,Ohio State,REG (Conf),W 73-68,*,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,4,4,0,0,0,1,1,2,-2.0,A,1,1,adam-miller-3,Adam Miller,2021
+27,27,27,2021-03-12,Illinois,N,Rutgers,CTOURN,W 90-68,*,26,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,2,3,5,2,2,0,1,1,12,11.3,N,1,0,adam-miller-3,Adam Miller,2021
+28,28,28,2021-03-13,Illinois,N,Iowa,CTOURN,W 82-71,*,21,2,7,0.286,2,6,0.333,0,1,0.0,0.429,2,2,1.0,0,2,2,2,0,0,0,0,8,5.9,N,1,0,adam-miller-3,Adam Miller,2021
+29,29,29,2021-03-14,Illinois,N,Ohio State,CTOURN,W 91-88 (OT),*,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,3,1.0,0,2,2,0,0,0,1,2,5,0.7,N,1,0,adam-miller-3,Adam Miller,2021
+30,30,30,2021-03-19,Illinois,N,Drexel,ROUND-64,W 78-49,*,20,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,2,0.5,0,4,4,2,1,0,1,2,10,9.5,N,1,0,adam-miller-3,Adam Miller,2021
+31,31,31,2021-03-21,Illinois,N,Loyola Chicago,ROUND-32,L 58-71,*,26,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,1,1,0,1,3,10,7.5,N,0,0,adam-miller-3,Adam Miller,2021

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,84,1,2010-11-12,North Carolina,,Lipscomb,REG (Non-Conf),W 80-66,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,0,1,2,0,1,3,2,6,4.1,H,1,1,justin-knox-1,Justin Knox,2011
+2,85,2,2010-11-18,North Carolina,N,Hofstra,REG (Non-Conf),W 107-63,,17,4,7,0.571,0,0,4,7,0.571,0.571,0,2,0.0,5,3,8,1,0,0,2,1,8,6.6,N,1,1,justin-knox-1,Justin Knox,2011
+3,86,3,2010-11-19,North Carolina,N,Minnesota,REG (Non-Conf),L 67-72,,16,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,6,7,0,0,0,2,5,6,3.9,N,0,1,justin-knox-1,Justin Knox,2011
+4,87,4,2010-11-21,North Carolina,N,Vanderbilt,REG (Non-Conf),L 65-72,,18,0,2,0.0,0,0,0,2,0.0,0.0,5,7,0.714,0,1,1,1,0,0,4,3,5,-1.4,N,0,1,justin-knox-1,Justin Knox,2011
+5,88,5,2010-11-23,North Carolina,,UNC Asheville,REG (Non-Conf),W 80-69,,18,3,7,0.429,0,0,3,7,0.429,0.429,4,4,1.0,4,4,8,0,0,1,1,3,10,8.8,H,1,1,justin-knox-1,Justin Knox,2011
+6,89,6,2010-11-28,North Carolina,,College of Charleston,REG (Non-Conf),W 74-69,,11,0,4,0.0,0,0,0,4,0.0,0.0,5,6,0.833,2,2,4,2,0,0,2,2,5,2.4,H,1,1,justin-knox-1,Justin Knox,2011
+7,90,7,2010-11-30,North Carolina,@,Illinois,REG (Non-Conf),L 67-79,,17,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,6,7,0,0,0,2,3,8,5.4,A,0,1,justin-knox-1,Justin Knox,2011
+8,91,8,2010-12-04,North Carolina,,Kentucky,REG (Non-Conf),W 75-73,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,2,1,2,-0.4,H,1,1,justin-knox-1,Justin Knox,2011
+9,92,9,2010-12-08,North Carolina,@,Evansville,REG (Non-Conf),W 76-49,,24,4,5,0.8,0,0,4,5,0.8,0.8,5,6,0.833,3,2,5,0,0,1,3,2,13,10.3,A,1,1,justin-knox-1,Justin Knox,2011
+10,93,10,2010-12-11,North Carolina,,Long Beach State,REG (Non-Conf),W 96-91,,21,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,3,4,0,0,0,1,2,4,3.2,H,1,1,justin-knox-1,Justin Knox,2011
+11,94,11,2010-12-18,North Carolina,N,Texas,REG (Non-Conf),L 76-78,,23,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,0,5,5,1,0,1,1,1,2,1.0,N,0,1,justin-knox-1,Justin Knox,2011
+12,95,12,2010-12-21,North Carolina,,William & Mary,REG (Non-Conf),W 85-60,,15,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,4,6,0,0,1,1,3,4,3.8,H,1,1,justin-knox-1,Justin Knox,2011
+13,96,13,2010-12-28,North Carolina,N,Rutgers,REG (Non-Conf),W 78-55,,15,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,4,5,0,1,1,1,1,6,7.3,N,1,1,justin-knox-1,Justin Knox,2011
+14,97,14,2011-01-02,North Carolina,,Saint Francis (PA),REG (Non-Conf),W 103-54,,19,4,6,0.667,0,0,4,6,0.667,0.667,2,2,1.0,1,0,1,0,0,1,0,0,10,8.8,H,1,1,justin-knox-1,Justin Knox,2011
+15,98,15,2011-01-08,North Carolina,@,Virginia,REG (Conf),W 62-56,,13,0,2,0.0,0,0,0,2,0.0,0.0,4,4,1.0,2,1,3,1,1,0,0,2,4,5.2,A,1,1,justin-knox-1,Justin Knox,2011
+16,99,16,2011-01-13,North Carolina,,Virginia Tech,REG (Conf),W 64-61,,9,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,0,2,2,0,2,1,0,4,1,0.9,H,1,1,justin-knox-1,Justin Knox,2011
+17,100,17,2011-01-16,North Carolina,@,Georgia Tech,REG (Conf),L 58-78,,15,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,1,3,4,0,0,0,2,3,4,0.0,A,0,1,justin-knox-1,Justin Knox,2011
+18,101,18,2011-01-18,North Carolina,,Clemson,REG (Conf),W 75-65,,18,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,0,4,4,0,0,0,0,2,1,-1.1,H,1,1,justin-knox-1,Justin Knox,2011
+19,102,19,2011-01-26,North Carolina,@,Miami (FL),REG (Conf),W 74-71,,16,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,0,1,1,0,0,1,0,0,8,7.4,A,1,1,justin-knox-1,Justin Knox,2011
+20,103,20,2011-01-29,North Carolina,,NC State,REG (Conf),W 84-64,,15,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,4,2,6,1,0,0,4,3,10,5.3,H,1,1,justin-knox-1,Justin Knox,2011
+21,104,21,2011-02-01,North Carolina,@,Boston College,REG (Conf),W 106-74,,17,2,3,0.667,0,0,2,3,0.667,0.667,4,6,0.667,1,2,3,1,1,0,0,2,8,8.1,A,1,1,justin-knox-1,Justin Knox,2011
+22,105,22,2011-02-06,North Carolina,,Florida State,REG (Conf),W 89-69,,16,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,0,1,1,0,0,0,0,3,8,5.5,H,1,1,justin-knox-1,Justin Knox,2011
+23,106,23,2011-02-09,North Carolina,@,Duke,REG (Conf),L 73-79,,10,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,0,2,2,0,0,0,1,0,3,1.2,A,0,1,justin-knox-1,Justin Knox,2011
+24,107,24,2011-02-12,North Carolina,@,Clemson,REG (Conf),W 64-62,,10,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,1,1,0,0,0,0,3,0,-3.0,A,1,1,justin-knox-1,Justin Knox,2011
+25,108,25,2011-02-15,North Carolina,,Wake Forest,REG (Conf),W 78-64,,12,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,0,2,0,1,1,1,0,4,3.4,H,1,1,justin-knox-1,Justin Knox,2011
+26,109,26,2011-02-19,North Carolina,,Boston College,REG (Conf),W 48-46,,8,0,0,,0,0,0,0,,,0,0,,0,1,1,1,0,0,0,2,0,0.2,H,1,1,justin-knox-1,Justin Knox,2011
+27,110,27,2011-02-23,North Carolina,@,NC State,REG (Conf),W 75-63,,19,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,2,2,4,1,0,0,1,2,4,2.5,A,1,1,justin-knox-1,Justin Knox,2011
+28,111,28,2011-02-27,North Carolina,,Maryland,REG (Conf),W 87-76,,12,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,1,1,2,0,0,1,0,1,4,3.2,H,1,1,justin-knox-1,Justin Knox,2011
+29,112,29,2011-03-02,North Carolina,@,Florida State,REG (Conf),W 72-70,,15,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,0,1,3,2,0.1,A,1,1,justin-knox-1,Justin Knox,2011
+30,113,30,2011-03-05,North Carolina,,Duke,REG (Conf),W 81-67,*,15,2,4,0.5,0,0,2,4,0.5,0.5,1,4,0.25,0,4,4,0,0,0,1,2,5,1.2,H,1,1,justin-knox-1,Justin Knox,2011
+31,114,31,2011-03-11,North Carolina,N,Miami (FL),CTOURN,W 61-59,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,1,0,justin-knox-1,Justin Knox,2011
+32,115,32,2011-03-12,North Carolina,N,Clemson,CTOURN,W 92-87 (OT),,11,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,0,0,1,2,1,0,1,2,4.3,N,1,0,justin-knox-1,Justin Knox,2011
+33,116,33,2011-03-13,North Carolina,N,Duke,CTOURN,L 58-75,,14,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,3,4,0,0,0,1,1,4,1.5,N,0,0,justin-knox-1,Justin Knox,2011
+34,117,34,2011-03-18,North Carolina,N,LIU Brooklyn,ROUND-64,W 102-87,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,0,0,0,1,4,2,0.0,N,1,0,justin-knox-1,Justin Knox,2011
+35,118,35,2011-03-20,North Carolina,N,Washington,ROUND-32,W 86-83,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,0,justin-knox-1,Justin Knox,2011
+36,119,36,2011-03-25,North Carolina,N,Marquette,ROUND-16,W 81-63,,14,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,1,1,0,0,0,2,2,0,-4.0,N,1,0,justin-knox-1,Justin Knox,2011
+37,120,37,2011-03-27,North Carolina,N,Kentucky,ROUND-8,L 69-76,,11,2,4,0.5,0,0,2,4,0.5,0.5,2,4,0.5,3,0,3,0,0,0,1,1,6,3.9,N,0,0,justin-knox-1,Justin Knox,2011

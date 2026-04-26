@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2015-11-13,California,,Rice,REG (Non-Conf),W 97-65,,25,2,4,0.5,2,3,0.667,0,1,0.0,0.75,1,2,0.5,2,2,4,1,1,0,2,2,7,5.5,H,1,1,sam-singer-1,Sam Singer,2016
+2,67,2,2015-11-16,California,,UC Santa Barbara,REG (Non-Conf),W 85-67,,21,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,5,0,0,1,2,0,1.6,H,1,1,sam-singer-1,Sam Singer,2016
+3,68,3,2015-11-20,California,,East Carolina,REG (Non-Conf),W 70-62,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,4,0,0,2,1,0,-0.7,H,1,1,sam-singer-1,Sam Singer,2016
+4,69,4,2015-11-23,California,,Sam Houston State,REG (Non-Conf),W 89-63,,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,3,5,0.6,0,4,4,3,1,0,0,0,5,6.8,H,1,1,sam-singer-1,Sam Singer,2016
+5,70,5,2015-11-26,California,N,San Diego State,REG (Non-Conf),L 58-72,,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,0,2,2,1,0,0,3,1,3,-0.8,N,0,1,sam-singer-1,Sam Singer,2016
+6,71,6,2015-11-27,California,N,Richmond,REG (Non-Conf),L 90-94,,22,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,0,1,1,0,1,0,1,3,10,5.8,N,0,1,sam-singer-1,Sam Singer,2016
+7,72,7,2015-12-01,California,,Seattle,REG (Non-Conf),W 66-52,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,0,3,2.3,H,1,1,sam-singer-1,Sam Singer,2016
+8,73,8,2015-12-05,California,@,Wyoming,REG (Non-Conf),W 78-72 (OT),,26,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,0,4,4,0,1,0,0,1,6,4.4,A,1,1,sam-singer-1,Sam Singer,2016
+9,74,9,2015-12-09,California,,Incarnate Word,REG (Non-Conf),W 74-62,,19,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,3,4,2,0,1,3,2,2,0.2,H,1,1,sam-singer-1,Sam Singer,2016
+10,75,10,2015-12-12,California,,St. Mary's (CA),REG (Non-Conf),W 63-59,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,4,0,-0.9,H,1,1,sam-singer-1,Sam Singer,2016
+11,76,11,2015-12-19,California,,Coppin State,REG (Non-Conf),W 84-51,,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,0,1,0,1,3,7,2.8,H,1,1,sam-singer-1,Sam Singer,2016
+12,77,12,2015-12-22,California,@,Virginia,REG (Non-Conf),L 62-63 (OT),,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,2,0,0,1,0,4,3.7,A,0,1,sam-singer-1,Sam Singer,2016
+13,78,13,2015-12-28,California,,Davidson,REG (Non-Conf),W 86-60,,21,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,2,3,4,1,0,0,2,5,5.9,H,1,1,sam-singer-1,Sam Singer,2016
+14,79,14,2016-01-01,California,,Colorado,REG (Conf),W 79-65,,15,1,4,0.25,0,0,,1,4,0.25,0.25,0,1,0.0,2,0,2,3,0,0,1,1,2,1.3,H,1,1,sam-singer-1,Sam Singer,2016
+15,80,15,2016-01-03,California,,Utah,REG (Conf),W 71-58,,14,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,0,0,1,0,0,0,3,6,3.2,H,1,1,sam-singer-1,Sam Singer,2016
+16,81,16,2016-01-06,California,@,Oregon,REG (Conf),L 65-68,,18,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,0,2,2,1,0,0,3,5,7,1.3,A,0,1,sam-singer-1,Sam Singer,2016
+17,82,17,2016-01-09,California,@,Oregon State,REG (Conf),L 71-77,,27,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,4,0,0,1,3,5,5.3,A,0,1,sam-singer-1,Sam Singer,2016
+18,83,18,2016-01-14,California,@,Stanford,REG (Conf),L 71-77,,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,0,1,3,3,0,1,2,2,3.6,A,0,1,sam-singer-1,Sam Singer,2016
+19,84,19,2016-01-21,California,,Arizona State,REG (Conf),W 75-70,*,35,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,1,5,6,8,1,0,3,3,6,7.5,H,1,1,sam-singer-1,Sam Singer,2016
+20,85,20,2016-01-23,California,,Arizona,REG (Conf),W 74-73,*,31,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,1,1,2,3,0,0,1,0,6,3.7,H,1,1,sam-singer-1,Sam Singer,2016
+21,86,21,2016-01-27,California,@,Utah,REG (Conf),L 64-73,*,31,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,2,3,3,0,1,2,2,2,-0.5,A,0,1,sam-singer-1,Sam Singer,2016
+22,87,22,2016-01-31,California,@,Colorado,REG (Conf),L 62-70,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,4,5,0,0,0,3,5,4,-0.8,A,0,1,sam-singer-1,Sam Singer,2016
+23,88,23,2016-02-06,California,,Stanford,REG (Conf),W 76-61,*,32,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,4,5,9,0,0,2,2,2,6.7,H,1,1,sam-singer-1,Sam Singer,2016
+24,89,24,2016-02-11,California,,Oregon,REG (Conf),W 83-63,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,5,5,10,1,0,2,3,6,11.0,H,1,1,sam-singer-1,Sam Singer,2016
+25,90,25,2016-02-13,California,,Oregon State,REG (Conf),W 83-71,*,31,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,3,3,4,1,0,2,4,0,-1.7,H,1,1,sam-singer-1,Sam Singer,2016
+26,91,26,2016-02-18,California,@,Washington,REG (Conf),W 78-75,*,20,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,0,2,2,2,0,0,1,2,7,4.2,A,1,1,sam-singer-1,Sam Singer,2016
+27,92,27,2016-02-21,California,@,Washington State,REG (Conf),W 80-62,,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,1,1,2,3,0,0,2,1,4,3.0,A,1,1,sam-singer-1,Sam Singer,2016
+28,93,28,2016-02-25,California,,UCLA,REG (Conf),W 75-63,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,2,2,1,0,0,1,3,2,0.0,H,1,1,sam-singer-1,Sam Singer,2016
+29,94,29,2016-02-28,California,,Southern California,REG (Conf),W 87-65,,14,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,2,0,0,1,1,1,0.5,H,1,1,sam-singer-1,Sam Singer,2016
+30,95,30,2016-03-03,California,@,Arizona,REG (Conf),L 61-64,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,3,0,0,2,0,1,-0.1,A,0,1,sam-singer-1,Sam Singer,2016
+31,96,31,2016-03-05,California,@,Arizona State,REG (Conf),W 68-65,,10,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,1,0,2,1,0,0.3,A,1,1,sam-singer-1,Sam Singer,2016
+32,97,32,2016-03-10,California,N,Oregon State,CTOURN,W 76-68,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,4,5,2,1,0,1,0,0,1.2,N,1,0,sam-singer-1,Sam Singer,2016
+33,98,33,2016-03-11,California,N,Utah,CTOURN,L 78-82 (OT),,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,1,0,0,2,0,0.2,N,0,0,sam-singer-1,Sam Singer,2016
+34,99,34,2016-03-18,California,N,Hawaii,ROUND-64,L 66-77,*,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,3,0.667,0,5,5,0,2,0,2,5,12,6.8,N,0,0,sam-singer-1,Sam Singer,2016

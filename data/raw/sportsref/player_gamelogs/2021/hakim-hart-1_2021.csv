@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,19,1,2020-11-25,Maryland,,Old Dominion,REG (Non-Conf),W 85-67,,19,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,3,3,1,0,0,2,1,2,-1.6,H,1,1,hakim-hart-1,Hakim Hart,2021
+2,20,2,2020-11-27,Maryland,,Navy,REG (Non-Conf),W 82-52,,19,3,5,0.6,1,3,0.333,2,2,1.0,0.7,4,4,1.0,1,2,3,2,1,0,2,3,11,9.2,H,1,1,hakim-hart-1,Hakim Hart,2021
+3,21,3,2020-11-29,Maryland,,Mount St. Mary's,REG (Non-Conf),W 79-61,,17,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,1,2,1,0,0,2,2,6,2.2,H,1,1,hakim-hart-1,Hakim Hart,2021
+4,22,4,2020-12-04,Maryland,,Saint Peter's,REG (Non-Conf),W 90-57,*,28,11,13,0.846,5,7,0.714,6,6,1.0,1.038,5,7,0.714,1,2,3,1,4,0,0,1,32,32.1,H,1,1,hakim-hart-1,Hakim Hart,2021
+5,23,5,2020-12-09,Maryland,@,Clemson,REG (Non-Conf),L 51-67,,24,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,1,0.0,1,1,2,0,1,0,2,3,9,4.1,A,0,1,hakim-hart-1,Hakim Hart,2021
+6,24,6,2020-12-14,Maryland,,Rutgers,REG (Conf),L 60-74,,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,1,1,2,1,0,1,0,1,1,0.5,H,0,1,hakim-hart-1,Hakim Hart,2021
+7,25,7,2020-12-22,Maryland,,La Salle,REG (Non-Conf),W 84-71,,27,5,11,0.455,1,6,0.167,4,5,0.8,0.5,2,3,0.667,2,4,6,3,3,0,0,0,13,14.6,H,1,1,hakim-hart-1,Hakim Hart,2021
+8,26,8,2020-12-25,Maryland,@,Purdue,REG (Conf),L 70-73,*,29,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,2,2,0,1,0,1,3,4,0.7,A,0,1,hakim-hart-1,Hakim Hart,2021
+9,27,9,2020-12-28,Maryland,@,Wisconsin,REG (Conf),W 70-64,,24,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,2,0,0,0,2,5,4.9,A,1,1,hakim-hart-1,Hakim Hart,2021
+10,28,10,2020-12-31,Maryland,,Michigan,REG (Conf),L 73-84,,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,2,0.5,1,2,3,0,1,0,1,1,8,5.5,H,0,1,hakim-hart-1,Hakim Hart,2021
+11,29,11,2021-01-04,Maryland,@,Indiana,REG (Conf),L 55-63,*,32,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,3,0.667,0,2,2,1,1,0,1,3,10,5.3,A,0,1,hakim-hart-1,Hakim Hart,2021
+12,30,12,2021-01-07,Maryland,,Iowa,REG (Conf),L 67-89,*,29,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,0,2,2,2,0,0,0,0,10,7.3,H,0,1,hakim-hart-1,Hakim Hart,2021
+13,31,13,2021-01-10,Maryland,@,Illinois,REG (Conf),W 66-63,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,4,1.0,1,4,5,2,0,0,0,3,9,8.4,A,1,1,hakim-hart-1,Hakim Hart,2021
+14,32,14,2021-01-15,Maryland,,Wingate,REG (Non-Conf),W 100-58,*,23,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,1,1.0,0,3,3,6,0,0,0,1,11,13.1,H,1,1,hakim-hart-1,Hakim Hart,2021
+15,33,15,2021-01-19,Maryland,@,Michigan,REG (Conf),L 63-87,*,27,1,2,0.5,1,2,0.5,0,0,,0.75,1,3,0.333,1,3,4,3,0,0,2,2,4,3.1,A,0,1,hakim-hart-1,Hakim Hart,2021
+16,34,16,2021-01-23,Maryland,@,Minnesota,REG (Conf),W 63-49,*,19,0,2,0.0,0,2,0.0,0,0,,0.0,5,5,1.0,1,2,3,1,1,3,1,3,5,6.5,A,1,1,hakim-hart-1,Hakim Hart,2021
+17,35,17,2021-01-27,Maryland,,Wisconsin,REG (Conf),L 55-61,*,30,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,6,6,2,2,0,1,2,7,7.4,H,0,1,hakim-hart-1,Hakim Hart,2021
+18,36,18,2021-02-02,Maryland,,Purdue,REG (Conf),W 61-60,,23,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,2,2,1,0,0,1,1,4,1.2,H,1,1,hakim-hart-1,Hakim Hart,2021
+19,37,19,2021-02-05,Maryland,@,Penn State,REG (Conf),L 50-55,,27,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,2,2,4,1,2,0,4,1,4,0.9,A,0,1,hakim-hart-1,Hakim Hart,2021
+20,38,20,2021-02-08,Maryland,,Ohio State,REG (Conf),L 65-73,,27,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,0,5,5,1,1,0,0,0,7,6.8,H,0,1,hakim-hart-1,Hakim Hart,2021
+21,39,21,2021-02-14,Maryland,,Minnesota,REG (Conf),W 72-59,*,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,0,4,4,1,0,0,0,4,5,4.0,H,1,1,hakim-hart-1,Hakim Hart,2021
+22,40,22,2021-02-16,Maryland,,Nebraska,REG (Conf),W 64-50,*,21,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,3,4,3,1,0,1,0,0,0.2,H,1,1,hakim-hart-1,Hakim Hart,2021
+23,41,23,2021-02-17,Maryland,,Nebraska,REG (Conf),W 79-71,*,25,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,1,0.0,1,6,7,3,1,0,0,0,5,6.8,H,1,1,hakim-hart-1,Hakim Hart,2021
+24,42,24,2021-02-21,Maryland,@,Rutgers,REG (Conf),W 68-59,*,20,2,3,0.667,1,2,0.5,1,1,1.0,0.833,7,9,0.778,0,4,4,4,0,0,2,3,12,10.7,A,1,1,hakim-hart-1,Hakim Hart,2021
+25,43,25,2021-02-28,Maryland,,Michigan State,REG (Conf),W 73-55,*,35,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,2,2,2,0,0,0,1,10,9.0,H,1,1,hakim-hart-1,Hakim Hart,2021
+26,44,26,2021-03-03,Maryland,@,Northwestern,REG (Conf),L 55-60,*,27,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,2,6,8,1,0,1,1,1,6,5.1,A,0,1,hakim-hart-1,Hakim Hart,2021
+27,45,27,2021-03-07,Maryland,,Penn State,REG (Conf),L 61-66,,23,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,3,0,0,1,0,2,2.3,H,0,1,hakim-hart-1,Hakim Hart,2021
+28,46,28,2021-03-11,Maryland,N,Michigan State,CTOURN,W 68-57,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,4,5,1,2,0,0,1,5,5.8,N,1,0,hakim-hart-1,Hakim Hart,2021
+29,47,29,2021-03-12,Maryland,N,Michigan,CTOURN,L 66-79,*,27,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,2,0,0,0,1,0,-0.1,N,0,0,hakim-hart-1,Hakim Hart,2021
+30,48,30,2021-03-20,Maryland,N,Connecticut,ROUND-64,W 63-54,*,36,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,4,5,4,0,0,2,0,6,6.4,N,1,0,hakim-hart-1,Hakim Hart,2021
+31,49,31,2021-03-22,Maryland,N,Alabama,ROUND-32,L 77-96,*,30,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,4,2,0,2,1,6,7.4,N,0,0,hakim-hart-1,Hakim Hart,2021

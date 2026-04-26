@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2015-11-14,Northern Iowa,,Colorado State,REG (Non-Conf),L 78-84,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,4,0,0,2,0,4,3.1,H,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+2,37,2,2015-11-17,Northern Iowa,,Stephen F. Austin,REG (Non-Conf),W 70-60,,15,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,5,5,3,0,0,1,1,2,3.5,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+3,38,3,2015-11-21,Northern Iowa,,North Carolina,REG (Non-Conf),W 71-67,,19,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,1,0.0,0,3,3,0,0,0,0,1,2,-2.4,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+4,39,4,2015-11-25,Northern Iowa,,Dubuque,REG (Non-Conf),W 83-63,,16,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,1,9,8.0,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+5,40,5,2015-11-28,Northern Iowa,@,North Dakota,REG (Non-Conf),W 97-51,,21,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,3,0.667,1,4,5,2,3,0,1,3,5,6.3,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+6,41,6,2015-11-30,Northern Iowa,,North Texas,REG (Non-Conf),W 93-70,,13,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,1,0,0,0,2,2,1.2,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+7,42,7,2015-12-05,Northern Iowa,@,Richmond,REG (Non-Conf),L 67-82,,12,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,1,0,2,-0.7,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+8,43,8,2015-12-08,Northern Iowa,@,George Mason,REG (Non-Conf),W 73-65,,19,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,1,0,0,0,0,8,6.7,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+9,44,9,2015-12-12,Northern Iowa,@,New Mexico,REG (Non-Conf),L 57-76,,27,5,10,0.5,2,7,0.286,3,3,1.0,0.6,0,0,,0,0,0,1,1,0,4,1,12,4.3,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+10,45,10,2015-12-19,Northern Iowa,N,Iowa State,REG (Non-Conf),W 81-79,,16,2,5,0.4,2,2,1.0,0,3,0.0,0.6,0,0,,0,1,1,0,0,0,2,2,6,0.8,N,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+11,46,11,2015-12-22,Northern Iowa,@,Hawaii,REG (Non-Conf),L 52-68,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,2,0,0,5,1,3,-2.7,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+12,47,12,2015-12-23,Northern Iowa,N,Washington State,REG (Non-Conf),W 63-59,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,0,0,2,2.0,N,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+13,48,13,2015-12-25,Northern Iowa,N,Brigham Young,REG (Non-Conf),L 76-84,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,N,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+14,49,14,2015-12-30,Northern Iowa,,Bradley,REG (Conf),W 80-44,,21,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,2,2,2,0,0,0,2,3,3.1,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+15,50,15,2016-01-02,Northern Iowa,@,Southern Illinois,REG (Conf),L 73-75,,21,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,0,2,2,0,2,0,0,0,11,10.7,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+16,51,16,2016-01-06,Northern Iowa,@,Missouri State,REG (Conf),L 58-59,,29,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,0,0,1,1,0,1,0,6,4.0,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+17,52,17,2016-01-09,Northern Iowa,,Drake,REG (Conf),W 77-44,,24,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,1,0,0,0,0,2,0.6,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+18,53,18,2016-01-13,Northern Iowa,@,Indiana State,REG (Conf),L 60-74,,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,2,0,-2.2,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+19,54,19,2016-01-16,Northern Iowa,,Loyola Chicago,REG (Conf),L 41-51,,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,2,3,2,1,0,2,0,2,0.6,H,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+20,55,20,2016-01-20,Northern Iowa,,Wichita State,REG (Conf),L 55-74,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,H,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+21,56,21,2016-01-23,Northern Iowa,@,Illinois State,REG (Conf),L 67-76,,13,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,0,2,0,-1.3,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+22,57,22,2016-01-27,Northern Iowa,@,Bradley,REG (Conf),W 68-50,,20,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,1,1,2,0,0,1,1,3,0.5,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+23,58,23,2016-01-31,Northern Iowa,,Southern Illinois,REG (Conf),W 67-58,,19,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,3,4,2,0,0,0,0,2,4.3,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+24,59,24,2016-02-03,Northern Iowa,,Evansville,REG (Conf),W 57-54,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+25,60,25,2016-02-06,Northern Iowa,@,Drake,REG (Conf),W 82-66,,16,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,0,0,0,0,1,5,4.6,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+26,61,26,2016-02-10,Northern Iowa,,Missouri State,REG (Conf),W 83-69,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,2,0,0,0,1,0,-0.4,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+27,62,27,2016-02-13,Northern Iowa,@,Wichita State,REG (Conf),W 53-50,,25,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,0,5,5,4,0,0,1,2,11,10.6,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+28,63,28,2016-02-17,Northern Iowa,@,Loyola Chicago,REG (Conf),L 56-59,,23,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,1,0,0,2,0,2,-0.7,A,0,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+29,64,29,2016-02-20,Northern Iowa,,Illinois State,REG (Conf),W 75-66,,18,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,1,1,3,0,0,0,0,6,6.8,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+30,65,30,2016-02-24,Northern Iowa,,Indiana State,REG (Conf),W 66-44,,25,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,3,3,0,1,0,1,2,8,5.8,H,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+31,66,31,2016-02-27,Northern Iowa,@,Evansville,REG (Conf),W 54-52,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,2,0,0,2,2,2.5,A,1,1,wyatt-lohaus-1,Wyatt Lohaus,2016
+32,67,32,2016-03-04,Northern Iowa,N,Southern Illinois,CTOURN,W 66-60,,20,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,0,0,0,0,0,0,0,0,9,4.6,N,1,0,wyatt-lohaus-1,Wyatt Lohaus,2016
+33,68,33,2016-03-05,Northern Iowa,N,Wichita State,CTOURN,W 57-52 (OT),,35,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,1,1,1,0,0,1,2,6,2.2,N,1,0,wyatt-lohaus-1,Wyatt Lohaus,2016
+34,69,34,2016-03-06,Northern Iowa,N,Evansville,CTOURN,W 56-54,,11,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,0,1,1,0,0,0,0,1,3,-0.9,N,1,0,wyatt-lohaus-1,Wyatt Lohaus,2016
+35,70,35,2016-03-18,Northern Iowa,N,Texas,ROUND-64,W 75-72,,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,3,0.667,0,6,6,0,0,0,1,3,2,-0.2,N,1,0,wyatt-lohaus-1,Wyatt Lohaus,2016
+36,71,36,2016-03-20,Northern Iowa,N,Texas A&M,ROUND-32,L 88-92 (2OT),,33,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,0,3,3,0,1,0,2,4,3,-3.2,N,0,0,wyatt-lohaus-1,Wyatt Lohaus,2016

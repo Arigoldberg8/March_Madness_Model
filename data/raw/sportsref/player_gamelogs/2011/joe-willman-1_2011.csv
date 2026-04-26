@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2010-11-12,Bucknell,@,Villanova,REG (Non-Conf),L 52-68,*,23,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,0,2,2,1,1,0,1,2,2,-2.0,A,0,1,joe-willman-1,Joe Willman,2011
+2,33,2,2010-11-14,Bucknell,@,Marquette,REG (Non-Conf),L 61-72,*,32,4,11,0.364,0,0,,4,11,0.364,0.364,3,4,0.75,2,7,9,4,1,0,1,4,11,9.2,A,0,1,joe-willman-1,Joe Willman,2011
+3,34,3,2010-11-17,Bucknell,,Binghamton,REG (Non-Conf),W 66-38,*,25,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,2,7,9,0,1,0,2,2,7,5.0,H,1,1,joe-willman-1,Joe Willman,2011
+4,35,4,2010-11-20,Bucknell,@,Saint Francis (PA),REG (Non-Conf),L 67-68,*,13,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,0,0,0,0,4,3.7,A,0,1,joe-willman-1,Joe Willman,2011
+5,36,5,2010-11-22,Bucknell,N,Presbyterian,REG (Non-Conf),W 71-47,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,N,1,1,joe-willman-1,Joe Willman,2011
+6,37,6,2010-11-23,Bucknell,N,Princeton,REG (Non-Conf),L 55-66,,11,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,4,4,1,0,0,3,2,6,3.2,N,0,1,joe-willman-1,Joe Willman,2011
+7,38,7,2010-11-24,Bucknell,@,James Madison,REG (Non-Conf),L 75-85,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,A,0,1,joe-willman-1,Joe Willman,2011
+8,39,8,2010-11-29,Bucknell,,Wagner,REG (Non-Conf),L 73-77,,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,2,0.0,0,2,2,1,0,0,0,1,2,-1.0,H,0,1,joe-willman-1,Joe Willman,2011
+9,40,9,2010-12-01,Bucknell,,Columbia,REG (Non-Conf),W 73-68,*,29,5,11,0.455,0,0,,5,11,0.455,0.455,3,3,1.0,3,4,7,1,3,0,0,3,13,13.1,H,1,1,joe-willman-1,Joe Willman,2011
+10,41,10,2010-12-04,Bucknell,,Boston University,REG (Non-Conf),W 52-49,*,23,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,4,5,1,1,0,1,2,4,2.4,H,1,1,joe-willman-1,Joe Willman,2011
+11,42,11,2010-12-17,Bucknell,@,La Salle,REG (Non-Conf),W 89-77,*,16,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,2,2,3,1,1,2,4,9,6.8,A,1,1,joe-willman-1,Joe Willman,2011
+12,43,12,2010-12-20,Bucknell,@,Cornell,REG (Non-Conf),W 75-64,*,27,7,11,0.636,0,0,,7,11,0.636,0.636,1,2,0.5,2,7,9,1,0,0,2,5,15,9.9,A,1,1,joe-willman-1,Joe Willman,2011
+13,44,13,2010-12-22,Bucknell,@,Boston College,REG (Non-Conf),L 80-84,*,31,3,9,0.333,0,0,,3,9,0.333,0.333,2,2,1.0,4,4,8,0,0,2,1,4,8,5.7,A,0,1,joe-willman-1,Joe Willman,2011
+14,45,14,2010-12-28,Bucknell,@,Loyola (MD),REG (Non-Conf),W 70-59,*,22,7,11,0.636,0,0,,7,11,0.636,0.636,2,2,1.0,1,3,4,0,0,0,1,4,16,10.1,A,1,1,joe-willman-1,Joe Willman,2011
+15,46,15,2010-12-30,Bucknell,,Dartmouth,REG (Non-Conf),W 74-57,*,18,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,3,3,6,3,0,1,3,4,6,3.1,H,1,1,joe-willman-1,Joe Willman,2011
+16,47,16,2011-01-02,Bucknell,@,Richmond,REG (Non-Conf),W 62-61,*,31,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,1,8,9,2,1,0,3,4,7,3.8,A,1,1,joe-willman-1,Joe Willman,2011
+17,48,17,2011-01-08,Bucknell,@,Navy,REG (Conf),W 71-64,*,29,6,12,0.5,0,0,,6,12,0.5,0.5,0,0,,3,3,6,2,0,0,3,3,12,6.2,A,1,1,joe-willman-1,Joe Willman,2011
+18,49,18,2011-01-12,Bucknell,@,American,REG (Conf),W 75-60,*,21,4,6,0.667,0,0,,4,6,0.667,0.667,4,4,1.0,3,5,8,0,0,0,0,2,12,12.2,A,1,1,joe-willman-1,Joe Willman,2011
+19,50,19,2011-01-16,Bucknell,,Holy Cross,REG (Conf),W 74-72,*,18,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,2,1.0,1,2,3,1,0,0,1,5,13,8.4,H,1,1,joe-willman-1,Joe Willman,2011
+20,51,20,2011-01-19,Bucknell,,Lafayette,REG (Conf),W 75-56,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,0,2,2,2,2,1,2,1,8,7.0,H,1,1,joe-willman-1,Joe Willman,2011
+21,52,21,2011-01-22,Bucknell,,Colgate,REG (Conf),W 76-49,*,12,4,4,1.0,0,0,,4,4,1.0,1.0,2,3,0.667,1,4,5,1,1,0,1,4,10,9.4,H,1,1,joe-willman-1,Joe Willman,2011
+22,53,22,2011-01-26,Bucknell,@,Lehigh,REG (Conf),W 81-68,*,17,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,0,1,1,2,0,0,1,5,10,6.1,A,1,1,joe-willman-1,Joe Willman,2011
+23,54,23,2011-01-29,Bucknell,@,Army,REG (Conf),L 70-90,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,3,8,11,2,1,0,1,4,11,12.3,A,0,1,joe-willman-1,Joe Willman,2011
+24,55,24,2011-02-05,Bucknell,,Navy,REG (Conf),W 75-49,*,27,9,13,0.692,0,0,,9,13,0.692,0.692,0,0,,5,5,10,2,1,0,2,2,18,17.1,H,1,1,joe-willman-1,Joe Willman,2011
+25,56,25,2011-02-09,Bucknell,,American,REG (Conf),W 66-60,*,29,1,7,0.143,0,0,,1,7,0.143,0.143,3,4,0.75,3,5,8,1,1,0,2,3,5,2.2,H,1,1,joe-willman-1,Joe Willman,2011
+26,57,26,2011-02-12,Bucknell,@,Holy Cross,REG (Conf),W 60-56,*,31,4,13,0.308,0,0,,4,13,0.308,0.308,0,0,,1,1,2,1,0,1,1,3,8,0.7,A,1,1,joe-willman-1,Joe Willman,2011
+27,58,27,2011-02-16,Bucknell,@,Lafayette,REG (Conf),W 74-69 (OT),*,25,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,0,3,3,1,0,0,2,5,6,-0.5,A,1,1,joe-willman-1,Joe Willman,2011
+28,59,28,2011-02-20,Bucknell,@,Colgate,REG (Conf),W 77-69,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,1,1,0,1,1,0,1,4,3.9,A,1,1,joe-willman-1,Joe Willman,2011
+29,60,29,2011-02-23,Bucknell,,Lehigh,REG (Conf),W 72-55,*,22,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,4,6,1,0,0,0,2,8,7.9,H,1,1,joe-willman-1,Joe Willman,2011
+30,61,30,2011-02-26,Bucknell,,Army,REG (Conf),W 78-64,*,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,1,0,3,2,-0.2,H,1,1,joe-willman-1,Joe Willman,2011
+31,62,31,2011-03-02,Bucknell,,Army,CTOURN,W 78-51,*,21,3,11,0.273,0,0,,3,11,0.273,0.273,0,0,,0,3,3,0,0,0,0,3,6,-0.8,H,1,0,joe-willman-1,Joe Willman,2011
+32,63,32,2011-03-06,Bucknell,,Lehigh,CTOURN,W 66-64,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,0,4,4,0,0,0,1,2,10,5.1,H,1,0,joe-willman-1,Joe Willman,2011
+33,64,33,2011-03-11,Bucknell,,Lafayette,CTOURN,W 72-57,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,1,2,3,1,1,1,2,3,4,2.1,H,1,0,joe-willman-1,Joe Willman,2011
+34,65,34,2011-03-17,Bucknell,N,Connecticut,ROUND-64,L 52-81,*,13,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,0,1,0,0,1,0,-1.2,N,0,0,joe-willman-1,Joe Willman,2011

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2023-11-06,Wagner,@,Fordham,REG (Non-Conf),L 64-68 (OT),,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,3,0,-0.5,A,0,1,julian-brown-1,Julian Brown,2024
+2,24,2,2023-11-09,Wagner,,Molloy,REG (Non-Conf),W 83-48,,23,5,11,0.455,2,7,0.286,3,4,0.75,0.545,0,0,,0,0,0,1,0,0,0,2,12,6.2,H,1,1,julian-brown-1,Julian Brown,2024
+3,25,3,2023-11-14,Wagner,@,Rhode Island,REG (Non-Conf),L 53-69,,19,3,7,0.429,2,5,0.4,1,2,0.5,0.571,1,1,1.0,1,2,3,1,0,0,0,0,9,7.3,A,0,1,julian-brown-1,Julian Brown,2024
+4,26,4,2023-11-18,Wagner,@,Seton Hall,REG (Non-Conf),L 51-72,,18,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,1,1,1,0,0,2,1,8,3.9,A,0,1,julian-brown-1,Julian Brown,2024
+5,27,5,2023-11-25,Wagner,,NJIT,REG (Non-Conf),W 64-51,,22,1,6,0.167,1,4,0.25,0,2,0.0,0.25,2,2,1.0,0,2,2,2,0,1,1,1,5,2.5,H,1,1,julian-brown-1,Julian Brown,2024
+6,28,6,2023-11-28,Wagner,@,Providence,REG (Non-Conf),L 52-86,,18,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,4,0.75,0,0,0,1,1,0,1,1,5,0.4,A,0,1,julian-brown-1,Julian Brown,2024
+7,29,7,2023-12-02,Wagner,@,Stony Brook,REG (Non-Conf),W 60-59,,16,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,1,0,0,0,1,0,-3.3,A,1,1,julian-brown-1,Julian Brown,2024
+8,30,8,2023-12-06,Wagner,@,Coppin State,REG (Non-Conf),W 62-59,,7,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-4.2,A,1,1,julian-brown-1,Julian Brown,2024
+9,31,9,2023-12-10,Wagner,,Boston University,REG (Non-Conf),L 59-73,,24,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,2,1.0,2,2,4,0,0,0,1,0,10,9.4,H,0,1,julian-brown-1,Julian Brown,2024
+10,32,10,2023-12-17,Wagner,@,Fairfield,REG (Non-Conf),L 51-63,,26,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,2,2,0,1,0,2,2,9,4.1,A,0,1,julian-brown-1,Julian Brown,2024
+11,33,11,2023-12-22,Wagner,,Gwynedd-Mercy,REG (Non-Conf),W 98-49,,27,7,12,0.583,5,10,0.5,2,2,1.0,0.792,0,0,,1,4,5,3,2,0,2,3,19,16.2,H,1,1,julian-brown-1,Julian Brown,2024
+12,34,12,2023-12-30,Wagner,@,Manhattan,REG (Non-Conf),W 68-56,,32,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,3,0.333,0,2,2,3,1,1,1,2,8,6.8,A,1,1,julian-brown-1,Julian Brown,2024
+13,35,13,2024-01-04,Wagner,@,LIU,REG (Conf),L 67-69,,30,3,7,0.429,3,6,0.5,0,1,0.0,0.643,1,2,0.5,0,1,1,3,1,0,0,1,10,8.9,A,0,1,julian-brown-1,Julian Brown,2024
+14,36,14,2024-01-06,Wagner,,Saint Francis (PA),REG (Conf),W 71-56,*,38,7,13,0.538,4,9,0.444,3,4,0.75,0.692,1,1,1.0,1,2,3,3,0,0,2,0,19,14.1,H,1,1,julian-brown-1,Julian Brown,2024
+15,37,15,2024-01-15,Wagner,,Stonehill,REG (Conf),W 64-54,*,36,3,11,0.273,3,9,0.333,0,2,0.0,0.409,0,0,,1,3,4,3,1,1,0,1,9,7.5,H,1,1,julian-brown-1,Julian Brown,2024
+16,38,16,2024-01-19,Wagner,@,Merrimack,REG (Conf),W 71-65,*,40,2,4,0.5,1,1,1.0,1,3,0.333,0.625,4,4,1.0,0,4,4,1,1,0,1,1,9,8.5,A,1,1,julian-brown-1,Julian Brown,2024
+17,39,17,2024-01-21,Wagner,@,Sacred Heart,REG (Conf),L 61-66,*,37,4,10,0.4,2,7,0.286,2,3,0.667,0.5,3,3,1.0,1,1,2,1,0,0,2,2,13,6.5,A,0,1,julian-brown-1,Julian Brown,2024
+18,40,18,2024-01-25,Wagner,,Merrimack,REG (Conf),L 44-60,*,39,4,11,0.364,3,8,0.375,1,3,0.333,0.5,0,0,,1,2,3,1,1,0,3,1,11,4.5,H,0,1,julian-brown-1,Julian Brown,2024
+19,41,20,2024-02-01,Wagner,,Le Moyne,REG (Conf),W 80-57,*,40,7,13,0.538,7,10,0.7,0,3,0.0,0.808,2,2,1.0,1,4,5,4,0,0,0,1,23,21.0,H,1,1,julian-brown-1,Julian Brown,2024
+20,42,21,2024-02-03,Wagner,@,Stonehill,REG (Conf),L 61-71,*,30,1,10,0.1,1,8,0.125,0,2,0.0,0.15,0,0,,0,1,1,0,1,0,1,4,3,-4.9,A,0,1,julian-brown-1,Julian Brown,2024
+21,43,22,2024-02-08,Wagner,@,FDU,REG (Conf),W 66-62,*,40,3,8,0.375,2,5,0.4,1,3,0.333,0.5,7,8,0.875,2,5,7,4,1,1,2,1,15,15.2,A,1,1,julian-brown-1,Julian Brown,2024
+22,44,23,2024-02-15,Wagner,@,Saint Francis (PA),REG (Conf),W 65-63 (OT),*,43,2,10,0.2,1,4,0.25,1,6,0.167,0.25,0,0,,1,4,5,2,0,0,0,1,5,1.7,A,1,1,julian-brown-1,Julian Brown,2024
+23,45,24,2024-02-17,Wagner,,Sacred Heart,REG (Conf),L 53-63,*,35,4,13,0.308,1,7,0.143,3,6,0.5,0.346,2,2,1.0,1,2,3,2,0,0,2,4,11,2.6,H,0,1,julian-brown-1,Julian Brown,2024
+24,46,25,2024-02-22,Wagner,,Central Connecticut State,REG (Conf),L 72-73,*,37,5,9,0.556,5,7,0.714,0,2,0.0,0.833,2,2,1.0,1,0,1,0,1,0,1,3,17,12.2,H,0,1,julian-brown-1,Julian Brown,2024
+25,47,26,2024-02-25,Wagner,,LIU,REG (Conf),W 72-57,*,37,2,11,0.182,1,8,0.125,1,3,0.333,0.227,4,4,1.0,1,6,7,2,2,0,0,4,9,6.4,H,1,1,julian-brown-1,Julian Brown,2024
+26,48,27,2024-02-29,Wagner,@,Le Moyne,REG (Conf),L 56-70,*,38,3,12,0.25,2,9,0.222,1,3,0.333,0.333,2,4,0.5,1,4,5,1,1,1,1,1,10,4.9,A,0,1,julian-brown-1,Julian Brown,2024
+27,49,28,2024-03-02,Wagner,,FDU,REG (Conf),L 54-57,*,36,2,13,0.154,2,10,0.2,0,3,0.0,0.231,2,2,1.0,0,7,7,4,0,1,3,2,8,1.5,H,0,1,julian-brown-1,Julian Brown,2024
+28,50,29,2024-03-06,Wagner,@,Sacred Heart,CTOURN,W 60-57,*,36,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,1,2,3,1,1,0,2,8,9.0,A,1,0,julian-brown-1,Julian Brown,2024
+29,51,30,2024-03-09,Wagner,@,Central Connecticut State,CTOURN,W 66-56,*,40,5,11,0.455,3,8,0.375,2,3,0.667,0.591,7,8,0.875,1,2,3,1,0,0,1,3,20,13.7,A,1,0,julian-brown-1,Julian Brown,2024
+30,52,31,2024-03-12,Wagner,@,Merrimack,CTOURN,W 54-47,*,37,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,2,6,8,3,0,0,1,3,1,1.6,A,1,0,julian-brown-1,Julian Brown,2024
+31,53,32,2024-03-19,Wagner,N,Howard,FIRST-FOUR,W 71-68,*,40,4,7,0.571,3,4,0.75,1,3,0.333,0.786,4,4,1.0,0,1,1,0,0,0,0,1,15,11.6,N,1,0,julian-brown-1,Julian Brown,2024
+32,54,33,2024-03-21,Wagner,N,North Carolina,ROUND-64,L 62-90,*,40,6,10,0.6,4,8,0.5,2,2,1.0,0.8,2,2,1.0,0,0,0,4,1,0,2,0,18,15.2,N,0,0,julian-brown-1,Julian Brown,2024

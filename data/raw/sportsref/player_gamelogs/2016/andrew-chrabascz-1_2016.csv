@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2015-11-14,Butler,,The Citadel,REG (Non-Conf),W 144-71,*,25,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,5,3,8,8,3,0,2,3,12,19.3,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+2,63,2,2015-11-19,Butler,N,Missouri State,REG (Non-Conf),W 93-59,*,25,7,13,0.538,1,4,0.25,6,9,0.667,0.577,3,5,0.6,1,1,2,2,2,1,0,3,18,14.8,N,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+3,64,3,2015-11-20,Butler,N,Temple,REG (Non-Conf),W 74-69,*,35,4,10,0.4,1,1,1.0,3,9,0.333,0.45,4,4,1.0,4,6,10,1,2,0,0,1,13,14.5,N,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+4,65,4,2015-11-22,Butler,N,Miami (FL),REG (Non-Conf),L 75-85,*,27,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,0,2,2,0,1,0,4,6,4.2,N,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+5,66,5,2015-11-28,Butler,,SIU Edwardsville,REG (Non-Conf),W 89-73,*,34,4,9,0.444,2,4,0.5,2,5,0.4,0.556,2,4,0.5,1,4,5,0,2,1,1,2,12,9.3,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+6,67,6,2015-12-02,Butler,@,Cincinnati,REG (Non-Conf),W 78-76,*,22,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,2,3,5,3,0,0,0,5,11,10.5,A,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+7,68,7,2015-12-05,Butler,,Indiana State,REG (Non-Conf),W 85-71,*,31,6,13,0.462,0,2,0.0,6,11,0.545,0.462,7,8,0.875,0,0,0,1,0,1,1,2,19,11.5,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+8,69,8,2015-12-07,Butler,,VMI,REG (Non-Conf),W 93-66,*,22,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,3,0.667,2,1,3,3,1,0,0,2,13,13.7,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+9,70,9,2015-12-12,Butler,,Tennessee,REG (Non-Conf),W 94-86,*,33,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,1,4,5,3,0,0,1,4,7,6.7,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+10,71,10,2015-12-19,Butler,N,Purdue,REG (Non-Conf),W 74-68,*,31,6,11,0.545,1,4,0.25,5,7,0.714,0.591,3,4,0.75,1,4,5,3,3,2,1,4,16,16.1,N,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+11,72,11,2015-12-22,Butler,,Southern Utah,REG (Non-Conf),W 88-52,*,23,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,0,,1,5,6,3,0,0,0,0,11,13.1,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+12,73,12,2015-12-28,Butler,,IUPUI,REG (Non-Conf),W 92-54,*,29,7,10,0.7,0,1,0.0,7,9,0.778,0.7,1,1,1.0,1,5,6,1,1,0,0,2,15,13.9,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+13,74,13,2015-12-31,Butler,,Providence,REG (Conf),L 73-81,*,33,2,11,0.182,0,4,0.0,2,7,0.286,0.182,0,0,,3,2,5,0,0,1,2,2,4,-2.3,H,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+14,75,14,2016-01-02,Butler,@,Xavier,REG (Conf),L 69-88,,27,4,9,0.444,1,1,1.0,3,8,0.375,0.5,1,2,0.5,3,2,5,1,1,0,1,2,10,7.5,A,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+15,76,15,2016-01-05,Butler,@,DePaul,REG (Conf),W 77-72,*,32,5,7,0.714,1,2,0.5,4,5,0.8,0.786,5,7,0.714,1,3,4,3,4,0,0,3,16,18.8,A,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+16,77,16,2016-01-10,Butler,,Villanova,REG (Conf),L 55-60,*,30,1,8,0.125,0,4,0.0,1,4,0.25,0.125,3,4,0.75,2,2,4,0,0,0,0,1,5,1.0,H,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+17,78,17,2016-01-16,Butler,,St. John's (NY),REG (Conf),W 78-58,*,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,4,4,1.0,0,1,1,2,0,0,2,3,13,8.2,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+18,79,18,2016-01-19,Butler,@,Providence,REG (Conf),L 68-71,*,28,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,4,4,1,1,1,2,4,6,1.9,A,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+19,80,19,2016-01-23,Butler,@,Creighton,REG (Conf),L 64-72,*,27,0,6,0.0,0,1,0.0,0,5,0.0,0.0,2,2,1.0,1,1,2,0,0,0,0,5,2,-3.2,A,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+20,81,20,2016-01-27,Butler,,DePaul,REG (Conf),W 67-53,*,31,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,1,4,5,0,1,0,3,2,10,7.5,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+21,82,21,2016-01-30,Butler,@,Marquette,REG (Conf),L 69-75,*,33,2,12,0.167,0,3,0.0,2,9,0.222,0.167,2,3,0.667,2,3,5,5,1,0,1,1,6,3.4,A,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+22,83,22,2016-02-02,Butler,,Georgetown,REG (Conf),W 87-76,*,36,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,3,6,9,1,1,2,1,4,8,10.4,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+23,84,23,2016-02-06,Butler,@,St. John's (NY),REG (Conf),W 89-56,*,22,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,0,0,0,2,1,0,0,1,5,4.6,A,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+24,85,24,2016-02-10,Butler,@,Seton Hall,REG (Conf),W 81-75,*,37,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,1,1.0,2,3,5,6,2,1,2,4,11,13.0,A,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+25,86,25,2016-02-13,Butler,,Xavier,REG (Conf),L 57-74,*,34,5,13,0.385,2,4,0.5,3,9,0.333,0.462,0,0,,0,0,0,0,1,2,1,1,12,5.9,H,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+26,87,26,2016-02-16,Butler,,Creighton,REG (Conf),W 88-75,*,23,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,1,5,6,3,0,0,3,2,6,2.7,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+27,88,27,2016-02-20,Butler,@,Villanova,REG (Conf),L 67-77,*,35,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,4,0.5,2,5,7,1,0,0,0,0,9,8.8,A,0,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+28,89,28,2016-02-27,Butler,@,Georgetown,REG (Conf),W 90-87 (OT),*,41,3,6,0.5,2,2,1.0,1,4,0.25,0.667,0,0,,1,2,3,4,1,0,1,1,8,8.7,A,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+29,90,29,2016-03-02,Butler,,Seton Hall,REG (Conf),W 85-78,*,35,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,1,1.0,1,2,3,1,1,1,0,3,9,8.9,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+30,91,30,2016-03-05,Butler,,Marquette,REG (Conf),W 95-74,,23,4,6,0.667,0,1,0.0,4,5,0.8,0.667,7,8,0.875,2,1,3,1,1,0,2,4,15,11.8,H,1,1,andrew-chrabascz-1,Andrew Chrabascz,2016
+31,92,31,2016-03-10,Butler,N,Providence,CTOURN,L 60-74,*,31,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,1,3,0,1,0,3,4,6,1.8,N,0,0,andrew-chrabascz-1,Andrew Chrabascz,2016
+32,93,32,2016-03-17,Butler,N,Texas Tech,ROUND-64,W 71-61,*,35,4,8,0.5,1,1,1.0,3,7,0.429,0.563,4,4,1.0,0,4,4,3,1,1,0,2,13,13.2,N,1,0,andrew-chrabascz-1,Andrew Chrabascz,2016
+33,94,33,2016-03-19,Butler,N,Virginia,ROUND-32,L 69-77,*,35,9,13,0.692,4,4,1.0,5,9,0.556,0.846,3,5,0.6,0,2,2,0,1,0,1,2,25,18.5,N,0,0,andrew-chrabascz-1,Andrew Chrabascz,2016

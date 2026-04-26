@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2024-11-04,St. Mary's (CA),,Towson,REG (Non-Conf),W 76-69,*,33,4,8,0.5,0,1,0.0,4,7,0.571,0.5,6,8,0.75,1,4,5,1,2,0,1,1,14,12.4,H,1,1,jordan-ross-1,Jordan Ross,2025
+2,30,2,2024-11-07,St. Mary's (CA),,Chattanooga,REG (Non-Conf),W 86-74,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,2,0,1,0,1,2,1.6,H,1,1,jordan-ross-1,Jordan Ross,2025
+3,31,3,2024-11-12,St. Mary's (CA),,Akron,REG (Non-Conf),W 87-68,*,22,3,10,0.3,0,2,0.0,3,8,0.375,0.3,3,4,0.75,1,3,4,0,1,1,2,0,9,4.1,H,1,1,jordan-ross-1,Jordan Ross,2025
+4,32,4,2024-11-17,St. Mary's (CA),N,Nebraska,REG (Non-Conf),W 77-74,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,2,4,0.5,0,0,0,1,1,0,1,4,2,-0.4,N,1,1,jordan-ross-1,Jordan Ross,2025
+5,33,5,2024-11-20,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 78-38,*,20,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,0,2,2,5,1,0,1,0,8,7.7,H,1,1,jordan-ross-1,Jordan Ross,2025
+6,34,6,2024-11-23,St. Mary's (CA),,Cal Poly,REG (Non-Conf),W 80-66,*,28,4,13,0.308,1,7,0.143,3,6,0.5,0.346,1,1,1.0,0,2,2,8,0,0,2,2,10,5.9,H,1,1,jordan-ross-1,Jordan Ross,2025
+7,35,7,2024-11-28,St. Mary's (CA),N,Southern California,REG (Non-Conf),W 71-36,*,20,6,9,0.667,0,1,0.0,6,8,0.75,0.667,3,4,0.75,1,3,4,4,1,1,3,3,15,12.6,N,1,1,jordan-ross-1,Jordan Ross,2025
+8,36,8,2024-11-29,St. Mary's (CA),N,Arizona State,REG (Non-Conf),L 64-68,*,38,6,15,0.4,4,5,0.8,2,10,0.2,0.533,3,6,0.5,2,5,7,4,1,1,1,0,19,16.1,N,0,1,jordan-ross-1,Jordan Ross,2025
+9,37,9,2024-12-03,St. Mary's (CA),,UTSA,REG (Non-Conf),W 82-74 (OT),*,33,3,10,0.3,0,5,0.0,3,5,0.6,0.3,2,5,0.4,0,1,1,4,2,0,3,4,8,1.5,H,1,1,jordan-ross-1,Jordan Ross,2025
+10,38,10,2024-12-07,St. Mary's (CA),@,Utah,REG (Non-Conf),W 72-63,*,26,2,6,0.333,0,0,,2,6,0.333,0.333,0,3,0.0,0,2,2,2,0,0,0,3,4,0.2,A,1,1,jordan-ross-1,Jordan Ross,2025
+11,39,11,2024-12-14,St. Mary's (CA),N,Boise State,REG (Non-Conf),L 65-67 (OT),*,28,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,0,2,2,2,0,0,1,2,7,3.8,N,0,1,jordan-ross-1,Jordan Ross,2025
+12,40,12,2024-12-19,St. Mary's (CA),,Merrimack,REG (Non-Conf),W 73-68,*,37,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,0,2,2,5,0,0,3,2,5,1.2,H,1,1,jordan-ross-1,Jordan Ross,2025
+13,41,13,2024-12-22,St. Mary's (CA),,Utah State,REG (Non-Conf),L 68-75,*,15,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,2,2,0,0,0,0,1,1,-0.6,H,0,1,jordan-ross-1,Jordan Ross,2025
+14,42,14,2024-12-28,St. Mary's (CA),,Pacific,REG (Conf),W 70-60,*,28,4,11,0.364,3,4,0.75,1,7,0.143,0.5,2,2,1.0,0,5,5,2,1,0,0,1,13,10.4,H,1,1,jordan-ross-1,Jordan Ross,2025
+15,43,15,2025-01-02,St. Mary's (CA),,Pepperdine,REG (Conf),W 71-41,*,23,2,9,0.222,0,6,0.0,2,3,0.667,0.222,0,0,,0,5,5,8,1,1,0,1,4,6.9,H,1,1,jordan-ross-1,Jordan Ross,2025
+16,44,16,2025-01-04,St. Mary's (CA),@,Portland,REG (Conf),W 81-58,*,30,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,2,1.0,2,2,4,4,0,1,1,2,14,13.4,A,1,1,jordan-ross-1,Jordan Ross,2025
+17,45,17,2025-01-07,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 81-56,*,27,0,4,0.0,0,1,0.0,0,3,0.0,0.0,6,6,1.0,1,1,2,2,2,0,0,2,6,6.8,H,1,1,jordan-ross-1,Jordan Ross,2025
+18,46,18,2025-01-11,St. Mary's (CA),@,San Diego,REG (Conf),W 103-56,*,23,4,9,0.444,4,7,0.571,0,2,0.0,0.667,0,0,,1,1,2,5,0,0,0,0,12,11.8,A,1,1,jordan-ross-1,Jordan Ross,2025
+19,47,19,2025-01-18,St. Mary's (CA),@,Pepperdine,REG (Conf),W 74-50,*,22,5,8,0.625,3,3,1.0,2,5,0.4,0.813,0,0,,0,5,5,2,1,1,2,0,13,12.0,A,1,1,jordan-ross-1,Jordan Ross,2025
+20,48,20,2025-01-23,St. Mary's (CA),,San Francisco,REG (Conf),W 71-51,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,0,0,,1,5,6,3,1,1,0,1,12,13.0,H,1,1,jordan-ross-1,Jordan Ross,2025
+21,49,21,2025-01-25,St. Mary's (CA),@,Washington State,REG (Conf),W 80-75,*,28,5,10,0.5,0,2,0.0,5,8,0.625,0.5,3,3,1.0,0,0,0,3,0,0,1,1,13,8.7,A,1,1,jordan-ross-1,Jordan Ross,2025
+22,50,22,2025-01-29,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-54,*,27,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,3,3,2,0,0,0,0,9,7.3,A,1,1,jordan-ross-1,Jordan Ross,2025
+23,51,23,2025-02-01,St. Mary's (CA),,Gonzaga,REG (Conf),W 62-58,*,25,2,5,0.4,1,1,1.0,1,4,0.25,0.5,5,7,0.714,0,4,4,3,1,0,2,0,10,8.8,H,1,1,jordan-ross-1,Jordan Ross,2025
+24,52,24,2025-02-06,St. Mary's (CA),@,San Francisco,REG (Conf),L 64-65,*,35,4,8,0.5,0,0,,4,8,0.5,0.5,0,1,0.0,0,4,4,0,0,0,1,2,8,3.0,A,0,1,jordan-ross-1,Jordan Ross,2025
+25,53,25,2025-02-08,St. Mary's (CA),@,Oregon State,REG (Conf),W 63-49,*,28,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,6,6,2,1,0,0,1,2,1.3,A,1,1,jordan-ross-1,Jordan Ross,2025
+26,54,26,2025-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-64,*,26,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,2,0.5,0,4,4,2,1,0,0,1,7,6.1,H,1,1,jordan-ross-1,Jordan Ross,2025
+27,55,27,2025-02-15,St. Mary's (CA),,Washington State,REG (Conf),W 77-56,*,31,4,10,0.4,1,5,0.2,3,5,0.6,0.45,3,3,1.0,0,4,4,2,3,1,0,0,12,12.9,H,1,1,jordan-ross-1,Jordan Ross,2025
+28,56,28,2025-02-19,St. Mary's (CA),,Portland,REG (Conf),W 79-66,*,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,4,2,0,0,0,4,6.3,H,1,1,jordan-ross-1,Jordan Ross,2025
+29,57,29,2025-02-22,St. Mary's (CA),@,Gonzaga,REG (Conf),W 74-67,*,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,0,2,2,1,1,0,0,0,4,2.5,A,1,1,jordan-ross-1,Jordan Ross,2025
+30,58,30,2025-02-27,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 58-55,*,24,3,10,0.3,0,1,0.0,3,9,0.333,0.3,1,2,0.5,0,2,2,1,0,0,0,2,7,1.3,A,1,1,jordan-ross-1,Jordan Ross,2025
+31,59,31,2025-03-01,St. Mary's (CA),,Oregon State,REG (Conf),W 74-64,*,25,2,5,0.4,0,2,0.0,2,3,0.667,0.4,5,6,0.833,0,1,1,1,0,0,0,2,9,6.1,H,1,1,jordan-ross-1,Jordan Ross,2025
+32,60,32,2025-03-10,St. Mary's (CA),N,Pepperdine,CTOURN,W 74-59,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,1,4,0.25,0,1,1,1,1,0,1,2,5,2.0,N,1,0,jordan-ross-1,Jordan Ross,2025
+33,61,33,2025-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-58,*,21,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,0,3,3,0,0,0,0,2,0,-3.4,N,0,0,jordan-ross-1,Jordan Ross,2025
+34,62,34,2025-03-21,St. Mary's (CA),N,Vanderbilt,ROUND-64,W 59-56,*,33,6,11,0.545,2,4,0.5,4,7,0.571,0.636,1,2,0.5,0,3,3,3,0,3,1,1,15,13.0,N,1,0,jordan-ross-1,Jordan Ross,2025
+35,63,35,2025-03-23,St. Mary's (CA),N,Alabama,ROUND-32,L 66-80,*,34,4,15,0.267,0,2,0.0,4,13,0.308,0.267,0,0,,1,3,4,1,0,0,0,2,8,0.6,N,0,0,jordan-ross-1,Jordan Ross,2025

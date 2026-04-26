@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2011-11-14,Norfolk State,@,Marquette,REG (Non-Conf),L 68-99,*,33,7,13,0.538,5,8,0.625,2,5,0.4,0.731,0,3,0.0,1,4,5,2,2,1,3,1,19,14.1,A,0,1,chris-mceachin-1,Chris McEachin,2012
+2,63,2,2011-11-16,Norfolk State,,Randolph,REG (Non-Conf),W 63-43,*,32,6,13,0.462,5,11,0.455,1,2,0.5,0.654,0,0,,0,0,0,3,2,4,1,0,17,16.2,H,1,1,chris-mceachin-1,Chris McEachin,2012
+3,64,3,2011-11-18,Norfolk State,N,Drexel,REG (Non-Conf),W 61-56,*,32,6,17,0.353,1,4,0.25,5,13,0.385,0.382,2,5,0.4,2,2,4,1,2,0,2,2,15,6.2,N,1,1,chris-mceachin-1,Chris McEachin,2012
+4,65,4,2011-11-20,Norfolk State,N,TCU,REG (Non-Conf),W 66-53,*,29,5,11,0.455,4,7,0.571,1,4,0.25,0.636,2,2,1.0,0,4,4,0,0,0,4,4,16,5.9,N,1,1,chris-mceachin-1,Chris McEachin,2012
+5,66,5,2011-11-21,Norfolk State,N,Marquette,REG (Non-Conf),L 57-59,*,37,4,16,0.25,2,10,0.2,2,6,0.333,0.313,0,0,,3,2,5,0,2,2,1,0,10,5.5,N,0,1,chris-mceachin-1,Chris McEachin,2012
+6,67,6,2011-11-27,Norfolk State,,Eastern Kentucky,REG (Non-Conf),W 70-63,*,41,3,6,0.5,0,3,0.0,3,3,1.0,0.5,3,4,0.75,0,5,5,0,2,3,1,1,9,9.8,H,1,1,chris-mceachin-1,Chris McEachin,2012
+7,68,7,2011-11-30,Norfolk State,,Elizabeth City St.,REG (Non-Conf),L 57-69,*,26,3,12,0.25,1,8,0.125,2,4,0.5,0.292,2,2,1.0,0,0,0,1,3,0,4,4,9,-0.1,H,0,1,chris-mceachin-1,Chris McEachin,2012
+8,69,8,2011-12-03,Norfolk State,,Savannah State,REG (Conf),W 60-58,*,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,3,1.0,0,0,0,1,1,3,0,4,5,4.8,H,1,1,chris-mceachin-1,Chris McEachin,2012
+9,70,9,2011-12-05,Norfolk State,,South Carolina State,REG (Conf),W 82-67,*,19,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,2,0.5,0,0,0,0,2,0,1,5,10,3.2,H,1,1,chris-mceachin-1,Chris McEachin,2012
+10,71,10,2011-12-11,Norfolk State,@,Virginia Tech,REG (Non-Conf),L 60-73,*,36,6,12,0.5,2,7,0.286,4,5,0.8,0.583,4,5,0.8,1,7,8,2,1,0,2,2,18,14.0,A,0,1,chris-mceachin-1,Chris McEachin,2012
+11,72,11,2011-12-14,Norfolk State,,LIU Brooklyn,REG (Non-Conf),W 73-62,*,23,5,12,0.417,2,4,0.5,3,8,0.375,0.5,0,0,,2,3,5,0,2,3,2,5,12,8.0,H,1,1,chris-mceachin-1,Chris McEachin,2012
+12,73,12,2011-12-18,Norfolk State,@,Illinois State,REG (Non-Conf),L 36-68,,25,3,10,0.3,2,6,0.333,1,4,0.25,0.4,2,2,1.0,0,6,6,0,1,1,3,1,10,4.3,A,0,1,chris-mceachin-1,Chris McEachin,2012
+13,74,13,2011-12-20,Norfolk State,@,Toledo,REG (Non-Conf),W 72-70,*,28,7,11,0.636,0,4,0.0,7,7,1.0,0.636,1,1,1.0,1,4,5,0,1,0,2,4,15,9.4,A,1,1,chris-mceachin-1,Chris McEachin,2012
+14,75,14,2011-12-23,Norfolk State,@,St. Francis Brooklyn,REG (Non-Conf),W 84-74,*,34,7,10,0.7,3,5,0.6,4,5,0.8,0.85,3,5,0.6,0,2,2,2,1,1,6,1,20,12.3,A,1,1,chris-mceachin-1,Chris McEachin,2012
+15,76,15,2012-01-01,Norfolk State,@,Navy,REG (Non-Conf),W 71-65,*,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,2,2,1.0,0,4,4,4,0,0,0,4,8,5.3,A,1,1,chris-mceachin-1,Chris McEachin,2012
+16,77,16,2012-01-07,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 78-72,*,33,5,12,0.417,2,6,0.333,3,6,0.5,0.5,3,4,0.75,2,6,8,1,4,0,2,2,15,13.3,H,1,1,chris-mceachin-1,Chris McEachin,2012
+17,78,17,2012-01-09,Norfolk State,,Howard,REG (Conf),W 68-48,*,30,6,11,0.545,1,3,0.333,5,8,0.625,0.591,3,4,0.75,1,3,4,0,1,1,0,2,16,12.8,H,1,1,chris-mceachin-1,Chris McEachin,2012
+18,79,18,2012-01-14,Norfolk State,@,Morgan State,REG (Conf),W 90-89 (2OT),*,36,2,9,0.222,1,7,0.143,1,2,0.5,0.278,5,6,0.833,2,3,5,1,1,0,4,3,10,2.9,A,1,1,chris-mceachin-1,Chris McEachin,2012
+19,80,19,2012-01-16,Norfolk State,@,Coppin State,REG (Conf),W 74-66,*,25,2,10,0.2,0,4,0.0,2,6,0.333,0.2,2,2,1.0,0,1,1,2,1,0,0,0,6,2.5,A,1,1,chris-mceachin-1,Chris McEachin,2012
+20,81,20,2012-01-21,Norfolk State,@,Hampton,REG (Conf),W 80-75,,33,5,9,0.556,5,8,0.625,0,1,0.0,0.833,3,3,1.0,0,0,0,1,0,0,2,2,18,11.6,A,1,1,chris-mceachin-1,Chris McEachin,2012
+21,82,21,2012-01-24,Norfolk State,,Morehead State,REG (Non-Conf),L 69-75,*,33,7,15,0.467,5,11,0.455,2,4,0.5,0.633,0,0,,0,1,1,1,3,0,3,4,19,10.7,H,0,1,chris-mceachin-1,Chris McEachin,2012
+22,83,22,2012-01-28,Norfolk State,,Morgan State,REG (Conf),W 76-59,*,34,2,10,0.2,0,5,0.0,2,5,0.4,0.2,2,2,1.0,1,4,5,1,1,0,3,1,6,0.0,H,1,1,chris-mceachin-1,Chris McEachin,2012
+23,84,23,2012-01-30,Norfolk State,,Coppin State,REG (Conf),L 82-87,*,26,6,19,0.316,5,15,0.333,1,4,0.25,0.447,0,0,,1,0,1,1,2,0,5,5,17,2.5,H,0,1,chris-mceachin-1,Chris McEachin,2012
+24,85,24,2012-02-04,Norfolk State,@,Delaware State,REG (Conf),L 50-67,*,30,5,10,0.5,2,5,0.4,3,5,0.6,0.6,1,2,0.5,0,5,5,0,1,0,2,3,13,6.9,A,0,1,chris-mceachin-1,Chris McEachin,2012
+25,86,25,2012-02-06,Norfolk State,@,Maryland Eastern Shore,REG (Conf),W 72-60,*,25,5,11,0.455,3,6,0.5,2,5,0.4,0.591,7,7,1.0,0,1,1,0,0,0,2,3,20,11.4,A,1,1,chris-mceachin-1,Chris McEachin,2012
+26,87,26,2012-02-11,Norfolk State,,Hampton,REG (Conf),W 70-62,*,38,8,16,0.5,5,7,0.714,3,9,0.333,0.656,6,6,1.0,1,4,5,1,3,0,1,2,27,22.8,H,1,1,chris-mceachin-1,Chris McEachin,2012
+27,88,27,2012-02-15,Norfolk State,,Delaware State,REG (Conf),L 63-73 (OT),*,30,0,6,0.0,0,4,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,4,1,-4.5,H,0,1,chris-mceachin-1,Chris McEachin,2012
+28,89,28,2012-02-20,Norfolk State,,Longwood,REG (Non-Conf),W 66-52,*,28,5,14,0.357,5,11,0.455,0,3,0.0,0.536,6,10,0.6,2,1,3,4,1,0,1,1,21,15.7,H,1,1,chris-mceachin-1,Chris McEachin,2012
+29,90,29,2012-02-25,Norfolk State,@,Bethune-Cookman,REG (Conf),W 75-72,,13,1,3,0.333,1,3,0.333,0,0,,0.5,3,4,0.75,0,1,1,1,0,0,0,5,6,2.9,A,1,1,chris-mceachin-1,Chris McEachin,2012
+30,91,30,2012-02-27,Norfolk State,@,Florida A&M,REG (Conf),W 79-70,*,36,6,14,0.429,3,7,0.429,3,7,0.429,0.536,1,2,0.5,2,1,3,1,1,0,1,2,16,9.8,A,1,1,chris-mceachin-1,Chris McEachin,2012
+31,92,31,2012-03-01,Norfolk State,@,North Carolina A&T,REG (Conf),W 72-65,*,34,4,11,0.364,2,9,0.222,2,2,1.0,0.455,0,2,0.0,0,1,1,4,1,0,3,2,10,3.4,A,1,1,chris-mceachin-1,Chris McEachin,2012
+32,93,32,2012-03-07,Norfolk State,N,Howard,CTOURN,W 71-61,*,31,1,5,0.2,1,2,0.5,0,3,0.0,0.3,3,4,0.75,0,1,1,3,0,0,1,2,6,3.1,N,1,0,chris-mceachin-1,Chris McEachin,2012
+33,94,33,2012-03-09,Norfolk State,N,Florida A&M,CTOURN,W 58-46,*,31,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,1,0,1,0,2,0,4,1,7,0.9,N,1,0,chris-mceachin-1,Chris McEachin,2012
+34,95,34,2012-03-10,Norfolk State,N,Bethune-Cookman,CTOURN,W 73-70,*,30,3,11,0.273,1,7,0.143,2,4,0.5,0.318,1,2,0.5,1,2,3,1,0,0,2,2,8,0.3,N,1,0,chris-mceachin-1,Chris McEachin,2012
+35,96,35,2012-03-16,Norfolk State,N,Missouri,ROUND-64,W 86-84,*,33,7,14,0.5,4,8,0.5,3,6,0.5,0.643,2,2,1.0,1,1,2,1,0,0,1,3,20,12.5,N,1,0,chris-mceachin-1,Chris McEachin,2012
+36,97,36,2012-03-18,Norfolk State,N,Florida,ROUND-32,L 50-84,*,19,1,11,0.091,1,5,0.2,0,6,0.0,0.136,2,2,1.0,1,0,1,1,1,1,3,3,5,-3.4,N,0,0,chris-mceachin-1,Chris McEachin,2012

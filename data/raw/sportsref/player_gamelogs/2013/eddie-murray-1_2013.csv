@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2012-11-09,Florida Gulf Coast,@,VCU,REG (Non-Conf),L 57-80,,16,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,2,0,2,0,0,1,1,1,4,3.7,A,0,1,eddie-murray-1,Eddie Murray,2013
+2,58,2,2012-11-13,Florida Gulf Coast,,Miami (FL),REG (Non-Conf),W 63-51,,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,1,0,2,1,5,4,3.5,H,1,1,eddie-murray-1,Eddie Murray,2013
+3,59,4,2012-11-18,Florida Gulf Coast,@,Duke,REG (Non-Conf),L 67-88,,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,2,4,6,1,0,1,3,3,5,1.0,A,0,1,eddie-murray-1,Eddie Murray,2013
+4,60,5,2012-11-21,Florida Gulf Coast,,Alcorn State,REG (Non-Conf),W 50-48,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,2,4,0,-5.1,H,1,1,eddie-murray-1,Eddie Murray,2013
+5,61,6,2012-11-22,Florida Gulf Coast,,Toledo,REG (Non-Conf),W 72-66,,14,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,1,2,0,0,0,2,0,3,1.3,H,1,1,eddie-murray-1,Eddie Murray,2013
+6,62,7,2012-11-24,Florida Gulf Coast,@,St. John's (NY),REG (Non-Conf),L 68-79,,19,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,3,0,3,0,0,1,0,3,4,3.9,A,0,1,eddie-murray-1,Eddie Murray,2013
+7,63,8,2012-11-28,Florida Gulf Coast,@,Samford,REG (Non-Conf),W 86-62,,14,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,3,2,5,0,0,1,1,3,1,0.4,A,1,1,eddie-murray-1,Eddie Murray,2013
+8,64,9,2012-12-01,Florida Gulf Coast,,Loyola (MD),REG (Non-Conf),W 65-50,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,3,5,0,0,0,0,1,4,4.6,H,1,1,eddie-murray-1,Eddie Murray,2013
+9,65,10,2012-12-04,Florida Gulf Coast,@,Iowa State,REG (Non-Conf),L 72-83,,16,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,3,0,3,0,0,0,0,0,3,4.4,A,0,1,eddie-murray-1,Eddie Murray,2013
+10,66,11,2012-12-13,Florida Gulf Coast,,Florida International,REG (Non-Conf),W 76-73,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,3,5,0,0,0,2,1,4,1.9,H,1,1,eddie-murray-1,Eddie Murray,2013
+11,67,12,2012-12-18,Florida Gulf Coast,,Southeastern (FL),REG (Non-Conf),W 86-60,*,16,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,1,2,0,1,0,0,2,8,7.6,H,1,1,eddie-murray-1,Eddie Murray,2013
+12,68,13,2012-12-22,Florida Gulf Coast,@,Maine,REG (Non-Conf),L 78-84,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,1,2,0,-1.8,A,0,1,eddie-murray-1,Eddie Murray,2013
+13,69,14,2012-12-31,Florida Gulf Coast,@,Kennesaw State,REG (Conf),W 68-59,,16,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,0,0,0,0,3,3,1.4,A,1,1,eddie-murray-1,Eddie Murray,2013
+14,70,15,2013-01-02,Florida Gulf Coast,@,Mercer,REG (Conf),L 70-77 (OT),,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,0,2,1,0,1,1,0,2,2.8,A,0,1,eddie-murray-1,Eddie Murray,2013
+15,71,16,2013-01-05,Florida Gulf Coast,,Jacksonville,REG (Conf),W 78-55,,14,1,2,0.5,0,0,,1,2,0.5,0.5,2,3,0.667,0,1,1,0,0,0,0,2,4,2.1,H,1,1,eddie-murray-1,Eddie Murray,2013
+16,72,17,2013-01-07,Florida Gulf Coast,,North Florida,REG (Conf),W 75-73,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,2,0,-0.1,H,1,1,eddie-murray-1,Eddie Murray,2013
+17,73,18,2013-01-10,Florida Gulf Coast,@,USC Upstate,REG (Conf),W 72-71 (OT),,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,eddie-murray-1,Eddie Murray,2013
+18,74,19,2013-01-12,Florida Gulf Coast,@,East Tennessee State,REG (Conf),L 75-85,,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,0,3,4,2.5,A,0,1,eddie-murray-1,Eddie Murray,2013
+19,75,20,2013-01-17,Florida Gulf Coast,,Lipscomb,REG (Conf),L 78-87 (OT),,26,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,3,1,4,1,1,0,1,0,5,6.0,H,0,1,eddie-murray-1,Eddie Murray,2013
+20,76,21,2013-01-19,Florida Gulf Coast,,Northern Kentucky,REG (Conf),W 73-54,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,2,0,-2.5,H,1,1,eddie-murray-1,Eddie Murray,2013
+21,77,22,2013-01-25,Florida Gulf Coast,,Stetson,REG (Conf),W 96-65,,20,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,3,2,5,0,1,0,1,1,9,10.0,H,1,1,eddie-murray-1,Eddie Murray,2013
+22,78,23,2013-01-31,Florida Gulf Coast,@,North Florida,REG (Conf),W 89-75,,22,5,5,1.0,0,0,,5,5,1.0,1.0,0,1,0.0,4,1,5,0,0,0,0,2,10,10.4,A,1,1,eddie-murray-1,Eddie Murray,2013
+23,79,24,2013-02-02,Florida Gulf Coast,@,Jacksonville,REG (Conf),W 81-78,,19,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,3,0,3,2,1,0,2,4,3,2.8,A,1,1,eddie-murray-1,Eddie Murray,2013
+24,80,25,2013-02-07,Florida Gulf Coast,,East Tennessee State,REG (Conf),W 67-43,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,2,3,0,0,2,0,3,4,3.8,H,1,1,eddie-murray-1,Eddie Murray,2013
+25,81,26,2013-02-09,Florida Gulf Coast,,USC Upstate,REG (Conf),W 74-49,,22,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,4,3,7,0,1,0,1,2,10,11.0,H,1,1,eddie-murray-1,Eddie Murray,2013
+26,82,27,2013-02-14,Florida Gulf Coast,@,Northern Kentucky,REG (Conf),W 60-53,,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,0,1,0,0,0,0,1,3,1.6,A,1,1,eddie-murray-1,Eddie Murray,2013
+27,83,28,2013-02-16,Florida Gulf Coast,@,Lipscomb,REG (Conf),L 74-84,,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,5,2,-1.4,A,0,1,eddie-murray-1,Eddie Murray,2013
+28,84,29,2013-02-22,Florida Gulf Coast,@,Stetson,REG (Conf),L 71-80,,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,0,1,4,3.3,A,0,1,eddie-murray-1,Eddie Murray,2013
+29,85,30,2013-02-28,Florida Gulf Coast,,Mercer,REG (Conf),W 60-57,,18,1,1,1.0,0,0,,1,1,1.0,1.0,3,3,1.0,1,1,2,0,0,0,0,3,5,4.5,H,1,1,eddie-murray-1,Eddie Murray,2013
+30,86,31,2013-03-02,Florida Gulf Coast,,Kennesaw State,REG (Conf),W 67-49,*,20,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,5,4,9,0,1,2,1,0,3,8.1,H,1,1,eddie-murray-1,Eddie Murray,2013
+31,87,32,2013-03-06,Florida Gulf Coast,N,North Florida,CTOURN,W 73-63,,23,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,2,0.5,4,1,5,1,4,1,0,0,9,15.2,N,1,0,eddie-murray-1,Eddie Murray,2013
+32,88,33,2013-03-08,Florida Gulf Coast,N,Stetson,CTOURN,W 72-58,,15,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,3,2,5,1,0,0,0,2,1,1.8,N,1,0,eddie-murray-1,Eddie Murray,2013
+33,89,34,2013-03-09,Florida Gulf Coast,N,Mercer,CTOURN,W 88-75,,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,3,3,2,1,1,1,2,4,4.5,N,1,0,eddie-murray-1,Eddie Murray,2013
+34,90,35,2013-03-22,Florida Gulf Coast,N,Georgetown,ROUND-64,W 78-68,,31,3,4,0.75,0,0,,3,4,0.75,0.75,3,6,0.5,1,4,5,1,1,0,1,2,9,8.0,N,1,0,eddie-murray-1,Eddie Murray,2013
+35,91,36,2013-03-24,Florida Gulf Coast,N,San Diego State,ROUND-32,W 81-71,,16,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,1,0,0,0,0,2.0,N,1,0,eddie-murray-1,Eddie Murray,2013
+36,92,37,2013-03-29,Florida Gulf Coast,N,Florida,ROUND-16,L 50-62,,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,1,1,1,1,2,2,3.2,N,0,0,eddie-murray-1,Eddie Murray,2013

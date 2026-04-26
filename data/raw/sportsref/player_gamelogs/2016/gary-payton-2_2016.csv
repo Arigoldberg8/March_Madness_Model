@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2015-11-14,Oregon State,,Bushnell,REG (Non-Conf),W 74-52,*,30,6,10,0.6,0,1,0.0,6,9,0.667,0.6,4,7,0.571,3,3,6,6,3,2,4,4,16,16.2,H,1,1,gary-payton-2,Gary Payton II,2016
+2,33,2,2015-11-17,Oregon State,,Iona,REG (Non-Conf),W 93-73,*,33,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,3,8,11,5,4,1,2,2,12,16.9,H,1,1,gary-payton-2,Gary Payton II,2016
+3,34,3,2015-11-19,Oregon State,@,Rice,REG (Non-Conf),W 77-69,*,38,8,11,0.727,1,1,1.0,7,10,0.7,0.773,2,4,0.5,2,3,5,7,6,1,3,3,19,23.4,A,1,1,gary-payton-2,Gary Payton II,2016
+4,35,4,2015-11-21,Oregon State,@,UC Santa Barbara,REG (Non-Conf),W 71-59,*,34,8,13,0.615,3,4,0.75,5,9,0.556,0.731,2,2,1.0,3,4,7,4,2,0,4,4,21,17.6,A,1,1,gary-payton-2,Gary Payton II,2016
+5,36,5,2015-11-24,Oregon State,,Valparaiso,REG (Non-Conf),L 57-63,*,40,11,25,0.44,0,2,0.0,11,23,0.478,0.44,3,5,0.6,6,5,11,2,3,0,2,1,25,18.8,H,0,1,gary-payton-2,Gary Payton II,2016
+6,37,6,2015-12-02,Oregon State,,Loyola Marymount,REG (Non-Conf),W 79-70,*,36,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,2,7,9,9,3,2,3,0,6,12.8,H,1,1,gary-payton-2,Gary Payton II,2016
+7,38,7,2015-12-05,Oregon State,,Nevada,REG (Non-Conf),W 66-62,*,32,7,11,0.636,2,4,0.5,5,7,0.714,0.727,0,0,,1,7,8,1,2,2,0,4,16,16.4,H,1,1,gary-payton-2,Gary Payton II,2016
+8,39,8,2015-12-12,Oregon State,N,Kansas,REG (Non-Conf),L 67-82,*,36,5,11,0.455,0,1,0.0,5,10,0.5,0.455,3,6,0.5,6,5,11,7,0,0,4,3,13,11.5,N,0,1,gary-payton-2,Gary Payton II,2016
+9,40,9,2015-12-18,Oregon State,N,Cal State Fullerton,REG (Non-Conf),W 82-69,*,26,7,10,0.7,1,2,0.5,6,8,0.75,0.75,4,4,1.0,3,5,8,4,1,0,1,3,19,20.0,N,1,1,gary-payton-2,Gary Payton II,2016
+10,41,10,2015-12-19,Oregon State,N,Tulsa,REG (Non-Conf),W 76-71,*,38,7,12,0.583,1,3,0.333,6,9,0.667,0.625,4,5,0.8,1,6,7,6,1,1,3,3,19,17.2,N,1,1,gary-payton-2,Gary Payton II,2016
+11,42,11,2015-12-21,Oregon State,,Quinnipiac,REG (Non-Conf),W 82-61,*,33,8,17,0.471,0,2,0.0,8,15,0.533,0.471,3,6,0.5,2,5,7,4,3,0,5,2,19,12.0,H,1,1,gary-payton-2,Gary Payton II,2016
+12,43,12,2016-01-03,Oregon State,,Oregon,REG (Conf),W 70-57,*,34,4,11,0.364,0,1,0.0,4,10,0.4,0.364,4,6,0.667,1,5,6,6,2,0,1,4,12,10.9,H,1,1,gary-payton-2,Gary Payton II,2016
+13,44,13,2016-01-06,Oregon State,,Stanford,REG (Conf),L 72-78,*,35,9,12,0.75,0,1,0.0,9,11,0.818,0.75,4,10,0.4,1,8,9,6,1,0,2,4,22,19.5,H,0,1,gary-payton-2,Gary Payton II,2016
+14,45,14,2016-01-09,Oregon State,,California,REG (Conf),W 77-71,*,38,8,20,0.4,0,1,0.0,8,19,0.421,0.4,4,5,0.8,5,6,11,8,4,1,1,2,20,22.6,H,1,1,gary-payton-2,Gary Payton II,2016
+15,46,15,2016-01-13,Oregon State,@,Colorado,REG (Conf),L 54-71,*,37,8,20,0.4,1,1,1.0,7,19,0.368,0.425,9,12,0.75,5,10,15,3,3,0,3,3,26,21.4,A,0,1,gary-payton-2,Gary Payton II,2016
+16,47,16,2016-01-17,Oregon State,@,Utah,REG (Conf),L 53-59,*,36,5,13,0.385,0,2,0.0,5,11,0.455,0.385,1,2,0.5,0,2,2,3,1,0,2,4,11,3.6,A,0,1,gary-payton-2,Gary Payton II,2016
+17,48,17,2016-01-20,Oregon State,,UCLA,REG (Conf),L 73-82,*,27,6,12,0.5,1,2,0.5,5,10,0.5,0.542,4,7,0.571,2,1,3,7,1,0,3,3,17,13.2,H,0,1,gary-payton-2,Gary Payton II,2016
+18,49,18,2016-01-24,Oregon State,,Southern California,REG (Conf),W 85-70,*,37,10,17,0.588,0,3,0.0,10,14,0.714,0.588,2,2,1.0,3,12,15,8,4,1,5,4,22,23.5,H,1,1,gary-payton-2,Gary Payton II,2016
+19,50,19,2016-01-28,Oregon State,@,Arizona State,REG (Conf),L 68-86,*,29,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,2,0.0,0,3,3,7,2,0,2,3,2,1.3,A,0,1,gary-payton-2,Gary Payton II,2016
+20,51,20,2016-01-30,Oregon State,@,Arizona,REG (Conf),L 63-80,*,33,4,12,0.333,1,3,0.333,3,9,0.333,0.375,0,0,,3,4,7,6,0,0,1,0,9,8.7,A,0,1,gary-payton-2,Gary Payton II,2016
+21,52,21,2016-02-04,Oregon State,,Utah,REG (Conf),W 71-69,*,31,9,17,0.529,2,5,0.4,7,12,0.583,0.588,0,0,,4,2,6,7,0,0,0,3,20,18.8,H,1,1,gary-payton-2,Gary Payton II,2016
+22,53,22,2016-02-06,Oregon State,,Colorado,REG (Conf),W 60-56,*,37,5,13,0.385,2,3,0.667,3,10,0.3,0.462,5,7,0.714,2,4,6,4,7,1,1,1,17,20.8,H,1,1,gary-payton-2,Gary Payton II,2016
+23,54,23,2016-02-11,Oregon State,@,Stanford,REG (Conf),W 62-50,*,33,6,11,0.545,1,5,0.2,5,6,0.833,0.591,1,2,0.5,1,5,6,4,3,0,3,2,14,12.5,A,1,1,gary-payton-2,Gary Payton II,2016
+24,55,24,2016-02-13,Oregon State,@,California,REG (Conf),L 71-83,*,38,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,1,4,5,2,4,1,2,4,10,10.1,A,0,1,gary-payton-2,Gary Payton II,2016
+25,56,25,2016-02-20,Oregon State,@,Oregon,REG (Conf),L 81-91,*,30,4,12,0.333,0,1,0.0,4,11,0.364,0.333,3,3,1.0,3,3,6,6,2,0,2,3,11,10.2,A,0,1,gary-payton-2,Gary Payton II,2016
+26,57,26,2016-02-24,Oregon State,,Washington,REG (Conf),W 82-81,*,35,6,15,0.4,1,2,0.5,5,13,0.385,0.433,2,6,0.333,3,7,10,2,5,1,3,3,15,12.4,H,1,1,gary-payton-2,Gary Payton II,2016
+27,58,27,2016-02-28,Oregon State,,Washington State,REG (Conf),W 69-49,*,33,6,13,0.462,1,4,0.25,5,9,0.556,0.5,0,1,0.0,3,4,7,8,2,0,2,1,13,14.4,H,1,1,gary-payton-2,Gary Payton II,2016
+28,59,28,2016-03-02,Oregon State,@,Southern California,REG (Conf),L 70-81,*,34,7,16,0.438,2,4,0.5,5,12,0.417,0.5,3,4,0.75,1,6,7,5,1,0,1,1,19,15.8,A,0,1,gary-payton-2,Gary Payton II,2016
+29,60,29,2016-03-05,Oregon State,@,UCLA,REG (Conf),W 86-82,*,31,7,14,0.5,0,1,0.0,7,13,0.538,0.5,3,4,0.75,2,3,5,6,0,0,1,4,17,13.5,A,1,1,gary-payton-2,Gary Payton II,2016
+30,61,30,2016-03-09,Oregon State,N,Arizona State,CTOURN,W 75-66,*,37,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,1,8,9,2,4,0,2,2,10,11.7,N,1,0,gary-payton-2,Gary Payton II,2016
+31,62,31,2016-03-10,Oregon State,N,California,CTOURN,L 68-76,*,36,7,15,0.467,1,3,0.333,6,12,0.5,0.5,5,7,0.714,2,15,17,2,2,2,5,3,20,16.0,N,0,0,gary-payton-2,Gary Payton II,2016
+32,63,32,2016-03-18,Oregon State,N,VCU,ROUND-64,L 67-75,*,39,9,17,0.529,1,2,0.5,8,15,0.533,0.559,0,0,,2,4,6,4,4,0,1,2,19,18.3,N,0,0,gary-payton-2,Gary Payton II,2016

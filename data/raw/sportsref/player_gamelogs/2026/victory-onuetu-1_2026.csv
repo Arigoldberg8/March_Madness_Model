@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Hofstra,@,UCF,REG (Non-Conf),L 78-82,,15,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,2,4,0,0,0,2,5,8,3.4,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+2,2,2,2025-11-07,Hofstra,@,Iona,REG (Non-Conf),L 73-81,,21,4,6,0.667,0,0,4,6,0.667,0.667,5,7,0.714,6,3,9,0,2,1,1,3,13,15.2,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+3,3,3,2025-11-10,Hofstra,,Molloy,REG (Non-Conf),W 95-61,,23,4,8,0.5,0,0,4,8,0.5,0.5,2,4,0.5,3,9,12,1,0,1,1,3,10,9.2,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+4,4,4,2025-11-14,Hofstra,@,Bucknell,REG (Non-Conf),W 83-77,*,28,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,5,7,12,2,2,2,3,1,11,15.0,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+5,5,5,2025-11-19,Hofstra,@,Temple,REG (Non-Conf),L 76-81,*,26,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,4,5,9,0,0,0,4,5,7,2.9,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+6,6,6,2025-11-28,Hofstra,N,La Salle,REG (Non-Conf),W 63-58,*,16,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,3,5,1,0,2,0,3,2,4.2,N,1,1,victory-onuetu-1,Victory Onuetu,2026
+7,7,7,2025-11-29,Hofstra,N,Merrimack,REG (Non-Conf),W 78-58,*,15,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,4,2,6,0,0,0,2,1,6,5.4,N,1,1,victory-onuetu-1,Victory Onuetu,2026
+8,8,8,2025-11-30,Hofstra,@,Pennsylvania,REG (Non-Conf),W 77-60,*,27,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,1,8,9,0,2,2,1,2,10,12.5,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+9,9,9,2025-12-03,Hofstra,@,Columbia,REG (Non-Conf),L 70-72,*,20,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,4,6,1,1,1,3,3,0,0.1,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+10,10,10,2025-12-07,Hofstra,@,Pittsburgh,REG (Non-Conf),W 80-73,*,24,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,1,3,4,0,1,0,0,3,10,9.9,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+11,11,11,2025-12-10,Hofstra,,Old Westbury,REG (Non-Conf),W 92-23,*,19,2,2,1.0,0,0,2,2,1.0,1.0,0,2,0.0,1,8,9,1,0,2,0,0,4,7.8,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+12,12,12,2025-12-13,Hofstra,@,Syracuse,REG (Non-Conf),W 70-69,*,34,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,3,8,11,1,0,4,2,4,6,6.0,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+13,13,13,2025-12-21,Hofstra,,Quinnipiac,REG (Non-Conf),W 74-66,*,28,1,4,0.25,0,0,1,4,0.25,0.25,0,4,0.0,5,6,11,0,0,4,2,1,2,3.7,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+14,14,14,2025-12-29,Hofstra,,Campbell,REG (Conf),W 86-72,*,18,3,3,1.0,0,0,3,3,1.0,1.0,0,2,0.0,4,8,12,1,0,0,2,4,6,6.6,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+15,15,15,2026-01-03,Hofstra,@,Drexel,REG (Conf),W 70-67,*,23,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,4,6,0,0,2,1,2,6,6.6,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+16,16,16,2026-01-08,Hofstra,@,Towson,REG (Conf),W 78-67,*,20,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,1,6,7,0,1,0,1,5,4,2.7,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+17,17,17,2026-01-10,Hofstra,,Monmouth,REG (Conf),W 67-64 (OT),*,16,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,3,6,9,0,0,1,1,5,1,0.8,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+18,18,18,2026-01-15,Hofstra,@,Stony Brook,REG (Conf),L 71-76,*,29,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,4,7,11,1,1,2,0,3,4,9.5,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+19,19,19,2026-01-17,Hofstra,,Elon,REG (Conf),L 85-89,*,5,0,0,,0,0,0,0,,,0,0,,0,2,2,0,1,0,0,5,0,-0.4,H,0,1,victory-onuetu-1,Victory Onuetu,2026
+20,20,20,2026-01-22,Hofstra,@,North Carolina A&T,REG (Conf),L 78-79,,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,3,3,6,0,0,1,1,5,0,0.0,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+21,21,21,2026-01-24,Hofstra,@,William & Mary,REG (Conf),L 82-89,*,27,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,7,6,13,1,0,1,0,1,8,12.4,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+22,22,22,2026-01-29,Hofstra,,College of Charleston,REG (Conf),L 64-66,,1,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,H,0,1,victory-onuetu-1,Victory Onuetu,2026
+23,23,23,2026-01-31,Hofstra,@,Monmouth,REG (Conf),W 73-57,,17,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,4,6,0,1,1,1,5,0,0.6,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+24,24,24,2026-02-05,Hofstra,,Northeastern,REG (Conf),W 80-63,,26,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,3,9,12,1,0,2,2,0,6,7.9,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+25,25,25,2026-02-07,Hofstra,,Towson,REG (Conf),W 71-49,,13,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,3,5,0,0,2,0,3,8,7.9,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+26,26,26,2026-02-12,Hofstra,@,College of Charleston,REG (Conf),W 66-62,,8,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,1,2,0,0,1,1,4,0,-3.0,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+27,27,27,2026-02-14,Hofstra,@,UNC Wilmington,REG (Conf),L 66-70,,13,0,0,,0,0,0,0,,,2,4,0.5,1,6,7,0,0,0,1,4,2,1.1,A,0,1,victory-onuetu-1,Victory Onuetu,2026
+28,28,28,2026-02-19,Hofstra,,Hampton,REG (Conf),W 79-43,,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,4,6,1,0,1,0,3,4,6.2,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+29,29,29,2026-02-21,Hofstra,@,Northeastern,REG (Conf),W 82-68,,8,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,0,3,4,3.2,A,1,1,victory-onuetu-1,Victory Onuetu,2026
+30,30,30,2026-02-28,Hofstra,,Stony Brook,REG (Conf),W 67-58,,18,2,4,0.5,0,0,2,4,0.5,0.5,3,6,0.5,2,5,7,0,0,1,0,4,7,5.8,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+31,31,31,2026-03-03,Hofstra,,Drexel,REG (Conf),W 62-51,,13,0,2,0.0,0,0,0,2,0.0,0.0,1,3,0.333,2,1,3,0,0,0,0,4,1,-1.1,H,1,1,victory-onuetu-1,Victory Onuetu,2026
+32,32,32,2026-03-08,Hofstra,N,William & Mary,CTOURN,W 92-61,,6,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,1,1,2,0,0,0,1,3,1,-2.0,N,1,0,victory-onuetu-1,Victory Onuetu,2026
+33,33,33,2026-03-09,Hofstra,N,Towson,CTOURN,W 68-65 (OT),,13,0,0,,0,0,0,0,,,0,0,,2,0,2,1,0,0,1,3,0,-0.1,N,1,0,victory-onuetu-1,Victory Onuetu,2026
+34,34,34,2026-03-10,Hofstra,N,Monmouth,CTOURN,W 75-69,,12,3,4,0.75,0,0,3,4,0.75,0.75,2,3,0.667,5,1,6,0,1,0,0,4,8,9.2,N,1,0,victory-onuetu-1,Victory Onuetu,2026

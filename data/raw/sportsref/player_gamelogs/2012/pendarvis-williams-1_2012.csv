@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2011-11-14,Norfolk State,@,Marquette,REG (Non-Conf),L 68-99,*,28,5,15,0.333,1,5,0.2,4,10,0.4,0.367,2,2,1.0,0,2,2,6,0,0,5,4,13,2.7,A,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+2,34,2,2011-11-16,Norfolk State,,Randolph,REG (Non-Conf),W 63-43,*,24,4,10,0.4,2,5,0.4,2,5,0.4,0.5,0,0,,2,3,5,2,3,0,2,1,10,8.9,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+3,35,3,2011-11-18,Norfolk State,N,Drexel,REG (Non-Conf),W 61-56,*,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,4,4,1.0,2,8,10,5,0,1,3,2,10,9.1,N,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+4,36,4,2011-11-20,Norfolk State,N,TCU,REG (Non-Conf),W 66-53,*,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,4,1.0,0,4,4,3,1,0,4,4,8,5.4,N,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+5,37,5,2011-11-21,Norfolk State,N,Marquette,REG (Non-Conf),L 57-59,*,32,1,5,0.2,1,2,0.5,0,3,0.0,0.3,4,4,1.0,0,1,1,2,3,1,2,2,7,6.5,N,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+6,38,6,2011-11-27,Norfolk State,,Eastern Kentucky,REG (Non-Conf),W 70-63,*,31,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,1,0.0,0,4,4,1,1,0,1,1,11,8.8,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+7,39,7,2011-11-30,Norfolk State,,Elizabeth City St.,REG (Non-Conf),L 57-69,*,31,2,10,0.2,1,6,0.167,1,4,0.25,0.25,6,6,1.0,0,4,4,1,1,0,8,3,11,-1.5,H,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+8,40,8,2011-12-03,Norfolk State,,Savannah State,REG (Conf),W 60-58,*,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,3,1.0,0,4,4,1,1,0,1,0,5,5.9,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+9,41,9,2011-12-05,Norfolk State,,South Carolina State,REG (Conf),W 82-67,*,36,9,15,0.6,1,4,0.25,8,11,0.727,0.633,1,3,0.333,2,4,6,4,2,0,2,1,20,17.3,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+10,42,10,2011-12-11,Norfolk State,@,Virginia Tech,REG (Non-Conf),L 60-73,*,33,4,7,0.571,3,5,0.6,1,2,0.5,0.786,3,3,1.0,0,4,4,1,0,1,3,2,14,9.5,A,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+11,43,11,2011-12-14,Norfolk State,,LIU Brooklyn,REG (Non-Conf),W 73-62,*,32,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,4,0.75,2,1,3,3,0,0,1,1,7,6.3,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+12,44,12,2011-12-18,Norfolk State,@,Illinois State,REG (Non-Conf),L 36-68,*,24,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,4,4,0,0,1,0,0,2,-0.6,A,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+13,45,13,2011-12-20,Norfolk State,@,Toledo,REG (Non-Conf),W 72-70,*,29,7,12,0.583,0,3,0.0,7,9,0.778,0.583,3,3,1.0,2,4,6,3,1,0,4,3,17,11.9,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+14,46,14,2011-12-23,Norfolk State,@,St. Francis Brooklyn,REG (Non-Conf),W 84-74,*,34,8,11,0.727,3,5,0.6,5,6,0.833,0.864,5,7,0.714,1,1,2,4,3,1,2,3,24,23.0,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+15,47,15,2012-01-01,Norfolk State,@,Navy,REG (Non-Conf),W 71-65,*,29,6,7,0.857,4,4,1.0,2,3,0.667,1.143,4,5,0.8,0,1,1,2,1,0,1,2,20,18.0,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+16,48,16,2012-01-07,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 78-72,*,31,7,10,0.7,2,4,0.5,5,6,0.833,0.8,2,4,0.5,2,3,5,3,2,0,1,3,18,17.2,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+17,49,17,2012-01-09,Norfolk State,,Howard,REG (Conf),W 68-48,*,24,6,12,0.5,2,6,0.333,4,6,0.667,0.583,2,4,0.5,1,4,5,2,0,1,1,3,16,11.0,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+18,50,18,2012-01-14,Norfolk State,@,Morgan State,REG (Conf),W 90-89 (2OT),*,24,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,2,1,0,0,1,3,3.2,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+19,51,19,2012-01-16,Norfolk State,@,Coppin State,REG (Conf),W 74-66,*,36,9,12,0.75,6,8,0.75,3,4,0.75,1.0,1,2,0.5,0,6,6,4,0,0,1,1,25,23.0,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+20,52,20,2012-01-21,Norfolk State,@,Hampton,REG (Conf),W 80-75,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,3,3,3,1,0,4,2,5,0.1,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+21,53,21,2012-01-24,Norfolk State,,Morehead State,REG (Non-Conf),L 69-75,*,33,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,0,3,3,7,4,0,2,0,13,16.8,H,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+22,54,22,2012-01-28,Norfolk State,,Morgan State,REG (Conf),W 76-59,*,24,5,12,0.417,2,3,0.667,3,9,0.333,0.5,2,2,1.0,0,1,1,1,0,1,0,4,14,7.7,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+23,55,23,2012-01-30,Norfolk State,,Coppin State,REG (Conf),L 82-87,*,33,3,13,0.231,1,8,0.125,2,5,0.4,0.269,4,4,1.0,0,1,1,2,0,0,1,3,11,2.6,H,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+24,56,24,2012-02-04,Norfolk State,@,Delaware State,REG (Conf),L 50-67,*,15,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,2,2,0,-4.3,A,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+25,57,25,2012-02-06,Norfolk State,@,Maryland Eastern Shore,REG (Conf),W 72-60,,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,0,1,1,3,1,2,0,2,1.3,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+26,58,26,2012-02-11,Norfolk State,,Hampton,REG (Conf),W 70-62,*,21,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,2,5,7,2,0,1,1,1,9,8.6,H,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+27,59,27,2012-02-15,Norfolk State,,Delaware State,REG (Conf),L 63-73 (OT),*,24,3,11,0.273,0,2,0.0,3,9,0.333,0.273,2,2,1.0,2,2,4,1,0,0,0,2,8,3.4,H,0,1,pendarvis-williams-1,Pendarvis Williams,2012
+28,60,29,2012-02-25,Norfolk State,@,Bethune-Cookman,REG (Conf),W 75-72,*,37,6,10,0.6,4,7,0.571,2,3,0.667,0.8,6,6,1.0,0,1,1,3,0,1,2,1,22,18.1,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+29,61,30,2012-02-27,Norfolk State,@,Florida A&M,REG (Conf),W 79-70,*,26,4,11,0.364,1,5,0.2,3,6,0.5,0.409,5,6,0.833,3,3,6,4,3,1,2,3,14,13.8,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+30,62,31,2012-03-01,Norfolk State,@,North Carolina A&T,REG (Conf),W 72-65,*,23,4,10,0.4,1,5,0.2,3,5,0.6,0.45,1,2,0.5,2,2,4,1,0,0,1,3,10,4.7,A,1,1,pendarvis-williams-1,Pendarvis Williams,2012
+31,63,32,2012-03-07,Norfolk State,N,Howard,CTOURN,W 71-61,*,36,7,9,0.778,5,7,0.714,2,2,1.0,1.056,3,3,1.0,1,1,2,3,0,0,5,1,22,16.2,N,1,0,pendarvis-williams-1,Pendarvis Williams,2012
+32,64,33,2012-03-09,Norfolk State,N,Florida A&M,CTOURN,W 58-46,*,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,4,0.25,1,5,6,2,0,0,1,0,3,1.3,N,1,0,pendarvis-williams-1,Pendarvis Williams,2012
+33,65,34,2012-03-10,Norfolk State,N,Bethune-Cookman,CTOURN,W 73-70,*,37,4,10,0.4,0,2,0.0,4,8,0.5,0.4,9,11,0.818,4,5,9,3,0,0,3,0,17,14.2,N,1,0,pendarvis-williams-1,Pendarvis Williams,2012
+34,66,35,2012-03-16,Norfolk State,N,Missouri,ROUND-64,W 86-84,*,35,7,9,0.778,4,4,1.0,3,5,0.6,1.0,2,2,1.0,1,3,4,2,0,0,2,3,20,16.3,N,1,0,pendarvis-williams-1,Pendarvis Williams,2012
+35,67,36,2012-03-18,Norfolk State,N,Florida,ROUND-32,L 50-84,*,29,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,2,0.0,0,3,3,2,0,0,0,2,5,1.6,N,0,0,pendarvis-williams-1,Pendarvis Williams,2012

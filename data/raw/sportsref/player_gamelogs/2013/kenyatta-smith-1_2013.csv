@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,9,1,2012-11-09,Harvard,,MIT,REG (Non-Conf),W 69-54,*,21,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,1,7,8,3,1,5,1,1,8,11.3,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+2,10,2,2012-11-13,Harvard,@,Massachusetts,REG (Non-Conf),L 64-67,*,22,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,3,3,0,2,2,5,1,8,3.6,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+3,11,3,2012-11-16,Harvard,,Manhattan,REG (Non-Conf),W 79-45,*,5,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,1,0,1,2,3,2,0.5,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+4,12,4,2012-11-20,Harvard,@,Saint Joseph's,REG (Non-Conf),L 56-75,*,20,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,0,7,7,0,0,0,3,2,0,-4.5,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+5,13,5,2012-11-27,Harvard,,Vermont,REG (Non-Conf),L 78-85,*,16,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,2,1,3,0,0,1,3,3,9,3.5,H,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+6,14,6,2012-12-01,Harvard,,Fordham,REG (Non-Conf),W 73-64,,8,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,0,2,0,2,0.3,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+7,15,9,2012-12-11,Harvard,,Boston University,REG (Non-Conf),W 65-64,,16,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,0,4,4,0,0,5,1,1,6,8.0,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+8,16,10,2012-12-22,Harvard,,Holy Cross,REG (Non-Conf),W 72-65,,8,2,4,0.5,0,0,2,4,0.5,0.5,1,1,1.0,0,0,0,0,0,0,0,2,5,2.2,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+9,17,11,2012-12-29,Harvard,@,California,REG (Non-Conf),W 67-62,,2,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,A,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+10,18,12,2012-12-31,Harvard,@,St. Mary's (CA),REG (Non-Conf),L 69-70,,6,0,0,,0,0,0,0,,,0,2,0.0,0,3,3,0,0,0,0,1,0,-0.3,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+11,19,13,2013-01-05,Harvard,,Rice,REG (Non-Conf),W 92-62,,13,4,4,1.0,0,0,4,4,1.0,1.0,3,5,0.6,0,3,3,0,0,3,4,1,11,7.6,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+12,20,14,2013-01-12,Harvard,@,Dartmouth,REG (Conf),W 75-65,,10,1,1,1.0,0,0,1,1,1.0,1.0,3,6,0.5,0,2,2,0,0,1,1,2,5,3.0,A,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+13,21,15,2013-01-19,Harvard,@,Memphis,REG (Non-Conf),L 50-60,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,5,5,1,0,3,0,2,2,3.8,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+14,22,16,2013-01-26,Harvard,,Dartmouth,REG (Conf),W 82-77 (OT),,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,5,6,0,0,1,2,3,0,-1.0,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+15,23,17,2013-02-01,Harvard,,Yale,REG (Conf),W 67-64,,7,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,1,2,0.2,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+16,24,18,2013-02-02,Harvard,,Brown,REG (Conf),W 89-82 (2OT),,13,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,6,6,0,0,2,1,1,6,6.2,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+17,25,19,2013-02-08,Harvard,@,Cornell,REG (Conf),W 67-65,,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,A,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+18,26,20,2013-02-10,Harvard,@,Columbia,REG (Conf),L 63-78,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+19,27,21,2013-02-15,Harvard,,Pennsylvania,REG (Conf),W 73-54,*,31,8,9,0.889,0,0,8,9,0.889,0.889,4,5,0.8,2,7,9,0,1,10,3,1,20,24.6,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+20,28,22,2013-02-16,Harvard,,Princeton,REG (Conf),W 69-57,*,20,5,5,1.0,0,0,5,5,1.0,1.0,4,4,1.0,2,5,7,0,0,6,1,3,14,17.4,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+21,29,23,2013-02-22,Harvard,@,Brown,REG (Conf),W 65-47,*,14,3,6,0.5,0,0,3,6,0.5,0.5,2,3,0.667,0,5,5,0,0,2,0,4,8,5.9,A,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+22,30,24,2013-02-23,Harvard,@,Yale,REG (Conf),W 72-66,*,15,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,1,3,4,1,0,2,1,3,4,2.4,A,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+23,31,25,2013-03-01,Harvard,@,Princeton,REG (Conf),L 53-58,*,15,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,0,2,2,0,0,2,1,3,8,5.5,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+24,32,26,2013-03-02,Harvard,@,Pennsylvania,REG (Conf),L 72-75,*,27,2,7,0.286,0,0,2,7,0.286,0.286,3,6,0.5,2,8,10,1,0,3,3,3,7,4.1,A,0,1,kenyatta-smith-1,Kenyatta Smith,2013
+25,33,27,2013-03-08,Harvard,,Columbia,REG (Conf),W 56-51,*,28,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,1,7,8,0,1,6,2,1,8,12.0,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+26,34,28,2013-03-09,Harvard,,Cornell,REG (Conf),W 65-56,*,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,7,7,0,0,1,2,3,4,3.0,H,1,1,kenyatta-smith-1,Kenyatta Smith,2013
+27,35,29,2013-03-21,Harvard,N,New Mexico,ROUND-64,W 68-62,*,19,4,7,0.571,0,0,4,7,0.571,0.571,2,2,1.0,0,7,7,0,0,2,2,5,10,6.2,N,1,0,kenyatta-smith-1,Kenyatta Smith,2013
+28,36,30,2013-03-23,Harvard,N,Arizona,ROUND-32,L 51-74,*,23,4,9,0.444,0,0,4,9,0.444,0.444,2,2,1.0,2,3,5,0,3,1,0,2,10,10.5,N,0,0,kenyatta-smith-1,Kenyatta Smith,2013

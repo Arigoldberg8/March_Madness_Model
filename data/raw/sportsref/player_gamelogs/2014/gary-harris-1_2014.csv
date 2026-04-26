@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2013-11-08,Michigan State,,McNeese State,REG (Non-Conf),W 98-56,*,27,7,15,0.467,4,10,0.4,3,5,0.6,0.6,2,2,1.0,2,8,10,6,1,0,4,2,20,16.5,H,1,1,gary-harris-1,Gary Harris,2014
+2,36,2,2013-11-12,Michigan State,N,Kentucky,REG (Non-Conf),W 78-74,*,35,7,14,0.5,1,4,0.25,6,10,0.6,0.536,5,6,0.833,0,2,2,1,3,0,1,2,20,15.1,N,1,1,gary-harris-1,Gary Harris,2014
+3,37,3,2013-11-15,Michigan State,,Columbia,REG (Non-Conf),W 62-53,*,34,4,11,0.364,0,4,0.0,4,7,0.571,0.364,3,3,1.0,1,2,3,1,0,0,2,2,11,4.1,H,1,1,gary-harris-1,Gary Harris,2014
+4,38,4,2013-11-18,Michigan State,,Portland,REG (Non-Conf),W 82-67,*,31,5,13,0.385,3,9,0.333,2,4,0.5,0.5,2,2,1.0,1,3,4,2,1,0,3,0,15,8.9,H,1,1,gary-harris-1,Gary Harris,2014
+5,39,5,2013-11-22,Michigan State,N,Virginia Tech,REG (Non-Conf),W 96-77,*,25,6,19,0.316,2,12,0.167,4,7,0.571,0.368,5,5,1.0,1,2,3,5,0,0,2,0,19,10.9,N,1,1,gary-harris-1,Gary Harris,2014
+6,40,6,2013-11-23,Michigan State,N,Oklahoma,REG (Non-Conf),W 87-76,*,32,7,15,0.467,3,10,0.3,4,5,0.8,0.567,4,6,0.667,1,3,4,2,1,1,1,1,21,15.8,N,1,1,gary-harris-1,Gary Harris,2014
+7,41,8,2013-12-04,Michigan State,,North Carolina,REG (Non-Conf),L 65-79,*,31,5,15,0.333,3,9,0.333,2,6,0.333,0.433,4,4,1.0,2,3,5,2,0,0,3,3,17,8.0,H,0,1,gary-harris-1,Gary Harris,2014
+8,42,11,2013-12-21,Michigan State,@,Texas,REG (Non-Conf),W 92-78,,29,4,8,0.5,1,3,0.333,3,5,0.6,0.563,10,11,0.909,0,1,1,5,1,1,2,4,19,16.5,A,1,1,gary-harris-1,Gary Harris,2014
+9,43,12,2013-12-28,Michigan State,,New Orleans,REG (Non-Conf),W 101-48,*,29,7,17,0.412,4,11,0.364,3,6,0.5,0.529,1,1,1.0,5,4,9,5,5,0,0,0,19,23.1,H,1,1,gary-harris-1,Gary Harris,2014
+10,44,13,2013-12-31,Michigan State,@,Penn State,REG (Conf),W 79-63,*,28,4,12,0.333,3,5,0.6,1,7,0.143,0.458,2,2,1.0,2,3,5,1,1,0,3,3,13,6.0,A,1,1,gary-harris-1,Gary Harris,2014
+11,45,14,2014-01-04,Michigan State,@,Indiana,REG (Conf),W 73-56,*,37,8,18,0.444,5,10,0.5,3,8,0.375,0.583,5,6,0.833,0,4,4,2,5,0,0,2,26,23.0,A,1,1,gary-harris-1,Gary Harris,2014
+12,46,15,2014-01-07,Michigan State,,Ohio State,REG (Conf),W 72-68 (OT),*,42,5,10,0.5,2,3,0.667,3,7,0.429,0.6,1,2,0.5,2,3,5,3,3,1,2,1,13,13.3,H,1,1,gary-harris-1,Gary Harris,2014
+13,47,16,2014-01-11,Michigan State,,Minnesota,REG (Conf),W 87-75 (OT),*,35,5,16,0.313,1,8,0.125,4,8,0.5,0.344,8,11,0.727,2,2,4,3,2,0,2,4,19,11.1,H,1,1,gary-harris-1,Gary Harris,2014
+14,48,17,2014-01-15,Michigan State,@,Northwestern,REG (Conf),W 54-40,*,35,5,13,0.385,0,6,0.0,5,7,0.714,0.385,4,5,0.8,2,4,6,2,4,1,2,2,14,12.4,A,1,1,gary-harris-1,Gary Harris,2014
+15,49,18,2014-01-18,Michigan State,@,Illinois,REG (Conf),W 78-62,*,34,7,9,0.778,2,4,0.5,5,5,1.0,0.889,7,10,0.7,0,5,5,4,2,0,2,2,23,21.8,A,1,1,gary-harris-1,Gary Harris,2014
+16,50,19,2014-01-21,Michigan State,,Indiana,REG (Conf),W 71-66,*,31,8,13,0.615,4,6,0.667,4,7,0.571,0.769,4,4,1.0,0,2,2,1,5,1,2,2,24,22.3,H,1,1,gary-harris-1,Gary Harris,2014
+17,51,20,2014-01-25,Michigan State,,Michigan,REG (Conf),L 75-80,*,38,9,16,0.563,4,6,0.667,5,10,0.5,0.688,5,9,0.556,2,3,5,2,3,0,1,0,27,23.5,H,0,1,gary-harris-1,Gary Harris,2014
+18,52,21,2014-01-28,Michigan State,@,Iowa,REG (Conf),W 71-69 (OT),*,41,3,9,0.333,0,4,0.0,3,5,0.6,0.333,3,4,0.75,1,5,6,4,0,1,1,4,9,6.6,A,1,1,gary-harris-1,Gary Harris,2014
+19,53,22,2014-02-01,Michigan State,N,Georgetown,REG (Non-Conf),L 60-64,*,30,7,16,0.438,4,10,0.4,3,6,0.5,0.563,2,5,0.4,0,1,1,1,1,0,0,4,20,10.8,N,0,1,gary-harris-1,Gary Harris,2014
+20,54,23,2014-02-06,Michigan State,,Penn State,REG (Conf),W 82-67,*,32,5,16,0.313,3,9,0.333,2,7,0.286,0.406,1,2,0.5,0,5,5,2,2,1,3,1,14,6.6,H,1,1,gary-harris-1,Gary Harris,2014
+21,55,24,2014-02-09,Michigan State,@,Wisconsin,REG (Conf),L 58-60,*,36,3,20,0.15,0,7,0.0,3,13,0.231,0.15,0,0,,1,6,7,2,3,0,2,0,6,-1.9,A,0,1,gary-harris-1,Gary Harris,2014
+22,56,25,2014-02-13,Michigan State,,Northwestern,REG (Conf),W 85-70,*,25,6,13,0.462,2,4,0.5,4,9,0.444,0.538,0,0,,0,1,1,3,1,0,1,3,14,8.5,H,1,1,gary-harris-1,Gary Harris,2014
+23,57,26,2014-02-16,Michigan State,,Nebraska,REG (Conf),L 51-60,*,39,5,15,0.333,1,7,0.143,4,8,0.5,0.367,7,7,1.0,1,6,7,4,1,0,3,1,18,12.4,H,0,1,gary-harris-1,Gary Harris,2014
+24,58,27,2014-02-20,Michigan State,@,Purdue,REG (Conf),W 94-79,*,32,7,11,0.636,6,9,0.667,1,2,0.5,0.909,5,6,0.833,0,3,3,3,3,1,3,4,25,21.8,A,1,1,gary-harris-1,Gary Harris,2014
+25,59,28,2014-02-23,Michigan State,@,Michigan,REG (Conf),L 70-79,*,39,7,17,0.412,4,13,0.308,3,4,0.75,0.529,3,3,1.0,0,1,1,4,1,0,3,1,21,12.6,A,0,1,gary-harris-1,Gary Harris,2014
+26,60,29,2014-03-01,Michigan State,,Illinois,REG (Conf),L 46-53,*,35,7,16,0.438,5,10,0.5,2,6,0.333,0.594,0,0,,1,4,5,1,4,1,0,3,19,16.7,H,0,1,gary-harris-1,Gary Harris,2014
+27,61,30,2014-03-06,Michigan State,,Iowa,REG (Conf),W 86-76,*,23,5,8,0.625,1,1,1.0,4,7,0.571,0.688,1,2,0.5,0,2,2,2,0,1,0,2,12,9.9,H,1,1,gary-harris-1,Gary Harris,2014
+28,62,31,2014-03-09,Michigan State,@,Ohio State,REG (Conf),L 67-69,*,36,3,9,0.333,2,4,0.5,1,5,0.2,0.444,4,4,1.0,3,2,5,4,1,0,2,4,12,9.8,A,0,1,gary-harris-1,Gary Harris,2014
+29,63,32,2014-03-14,Michigan State,N,Northwestern,CTOURN,W 67-51,*,25,5,12,0.417,1,3,0.333,4,9,0.444,0.458,2,3,0.667,3,4,7,3,2,3,0,0,13,15.7,N,1,0,gary-harris-1,Gary Harris,2014
+30,64,33,2014-03-15,Michigan State,N,Wisconsin,CTOURN,W 83-75,*,26,3,7,0.429,1,2,0.5,2,5,0.4,0.5,5,6,0.833,0,1,1,2,1,0,2,3,12,7.4,N,1,0,gary-harris-1,Gary Harris,2014
+31,65,34,2014-03-16,Michigan State,N,Michigan,CTOURN,W 69-55,*,30,7,13,0.538,1,5,0.2,6,8,0.75,0.577,0,0,,2,0,2,2,3,1,0,0,15,15.2,N,1,0,gary-harris-1,Gary Harris,2014
+32,66,35,2014-03-20,Michigan State,N,Delaware,ROUND-64,W 93-78,*,25,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,0,4,4,0,0,0,1,5,10,3.5,N,1,0,gary-harris-1,Gary Harris,2014
+33,67,36,2014-03-22,Michigan State,N,Harvard,ROUND-32,W 80-73,*,38,5,11,0.455,2,6,0.333,3,5,0.6,0.545,6,6,1.0,1,1,2,5,3,0,4,3,18,14.6,N,1,0,gary-harris-1,Gary Harris,2014
+34,68,37,2014-03-28,Michigan State,N,Virginia,ROUND-16,W 61-59,*,29,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,3,0.667,1,1,2,3,0,1,1,4,6,4.1,N,1,0,gary-harris-1,Gary Harris,2014
+35,69,38,2014-03-30,Michigan State,N,Connecticut,ROUND-8,L 54-60,*,37,8,14,0.571,4,9,0.444,4,5,0.8,0.714,2,2,1.0,0,2,2,2,0,0,2,1,22,15.0,N,0,0,gary-harris-1,Gary Harris,2014

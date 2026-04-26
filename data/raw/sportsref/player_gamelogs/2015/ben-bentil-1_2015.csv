@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-15,Providence,,Albany (NY),REG (Non-Conf),W 64-60,,15,2,5,0.4,0,0,,2,5,0.4,0.4,0,1,0.0,3,3,6,0,0,0,0,1,4,3.5,H,1,1,ben-bentil-1,Ben Bentil,2015
+2,2,2,2014-11-17,Providence,,Binghamton,REG (Non-Conf),W 66-45,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,4,2,6,0,0,1,3,3,6,3.2,H,1,1,ben-bentil-1,Ben Bentil,2015
+3,3,3,2014-11-20,Providence,,Navy,REG (Non-Conf),W 88-51,,25,6,9,0.667,2,3,0.667,4,6,0.667,0.778,4,7,0.571,4,2,6,0,0,1,2,2,18,14.2,H,1,1,ben-bentil-1,Ben Bentil,2015
+4,4,4,2014-11-22,Providence,N,Florida State,REG (Non-Conf),W 80-54,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,0,0,0,0,4,2,0.1,N,1,1,ben-bentil-1,Ben Bentil,2015
+5,5,5,2014-11-23,Providence,N,Notre Dame,REG (Non-Conf),W 75-74,,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,1,0,1,0,2,5,4.2,N,1,1,ben-bentil-1,Ben Bentil,2015
+6,6,6,2014-11-28,Providence,,Yale,REG (Non-Conf),W 72-66,,19,1,1,1.0,0,0,,1,1,1.0,1.0,2,6,0.333,0,2,2,1,0,0,1,2,4,1.6,H,1,1,ben-bentil-1,Ben Bentil,2015
+7,7,7,2014-11-30,Providence,@,Kentucky,REG (Non-Conf),L 38-58,,24,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,1,2,0,0,0,0,1,2,-0.5,A,0,1,ben-bentil-1,Ben Bentil,2015
+8,8,8,2014-12-05,Providence,@,Boston College,REG (Non-Conf),L 60-69,,16,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,2,0,1,3,0,-1.3,A,0,1,ben-bentil-1,Ben Bentil,2015
+9,9,9,2014-12-08,Providence,,Brown,REG (Non-Conf),L 67-77,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,4,4,0,0,0,0,3,0,-1.4,H,0,1,ben-bentil-1,Ben Bentil,2015
+10,10,10,2014-12-10,Providence,,Rhode Island,REG (Non-Conf),W 68-60,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,H,1,1,ben-bentil-1,Ben Bentil,2015
+11,11,11,2014-12-13,Providence,,Stony Brook,REG (Non-Conf),W 79-61,,13,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,3,1,4,0,0,0,2,3,8,3.8,H,1,1,ben-bentil-1,Ben Bentil,2015
+12,12,12,2014-12-20,Providence,,Massachusetts,REG (Non-Conf),W 85-65,*,19,2,8,0.25,1,1,1.0,1,7,0.143,0.313,0,0,,3,2,5,0,0,0,1,3,5,0.7,H,1,1,ben-bentil-1,Ben Bentil,2015
+13,13,13,2014-12-22,Providence,N,Miami (FL),REG (Non-Conf),W 76-62,*,24,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,4,4,2,0,0,0,2,5,5.5,N,1,1,ben-bentil-1,Ben Bentil,2015
+14,14,14,2014-12-31,Providence,,Creighton,REG (Conf),W 65-53,*,29,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,1,3,4,2,0,1,3,2,5,1.1,H,1,1,ben-bentil-1,Ben Bentil,2015
+15,15,15,2015-01-03,Providence,@,Marquette,REG (Conf),L 66-75,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,2,3,2,0,0,0,4,6,6.2,A,0,1,ben-bentil-1,Ben Bentil,2015
+16,16,16,2015-01-06,Providence,@,Butler,REG (Conf),W 66-62,*,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,A,1,1,ben-bentil-1,Ben Bentil,2015
+17,17,17,2015-01-10,Providence,,Georgetown,REG (Conf),W 60-57 (OT),*,17,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,1,4,5,0,0,0,0,1,7,6.1,H,1,1,ben-bentil-1,Ben Bentil,2015
+18,18,18,2015-01-14,Providence,,St. John's (NY),REG (Conf),L 70-83,*,28,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,5,0.4,4,6,10,0,1,1,0,4,8,6.4,H,0,1,ben-bentil-1,Ben Bentil,2015
+19,19,19,2015-01-17,Providence,@,Creighton,REG (Conf),W 74-65,*,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,1,0,0,1,4,4,2.8,A,1,1,ben-bentil-1,Ben Bentil,2015
+20,20,20,2015-01-22,Providence,,Xavier,REG (Conf),W 69-66 (OT),*,17,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,3,4,0,0,0,1,3,0,-2.0,H,1,1,ben-bentil-1,Ben Bentil,2015
+21,21,21,2015-01-29,Providence,,DePaul,REG (Conf),W 83-72,*,29,1,5,0.2,0,0,,1,5,0.2,0.2,8,10,0.8,3,2,5,0,0,1,1,1,10,8.1,H,1,1,ben-bentil-1,Ben Bentil,2015
+22,22,22,2015-01-31,Providence,@,St. John's (NY),REG (Conf),L 66-75,*,16,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,1,0,1,1,4,4,1.7,A,0,1,ben-bentil-1,Ben Bentil,2015
+23,23,23,2015-02-04,Providence,@,Georgetown,REG (Conf),W 74-71,*,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,8,9,0.889,4,7,11,1,1,0,2,2,16,16.1,A,1,1,ben-bentil-1,Ben Bentil,2015
+24,24,24,2015-02-07,Providence,@,Xavier,REG (Conf),L 69-78,*,32,5,9,0.556,0,2,0.0,5,7,0.714,0.556,6,8,0.75,5,1,6,1,0,2,2,1,16,14.4,A,0,1,ben-bentil-1,Ben Bentil,2015
+25,25,25,2015-02-11,Providence,,Villanova,REG (Conf),L 68-74,*,22,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,4,1,5,1,0,0,3,5,2,0.5,H,0,1,ben-bentil-1,Ben Bentil,2015
+26,26,26,2015-02-14,Providence,,Seton Hall,REG (Conf),W 69-62,*,16,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,3,1,4,1,0,0,1,5,0,-2.0,H,1,1,ben-bentil-1,Ben Bentil,2015
+27,27,27,2015-02-18,Providence,@,DePaul,REG (Conf),W 84-57,*,30,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,2,8,10,1,1,1,0,2,12,14.5,A,1,1,ben-bentil-1,Ben Bentil,2015
+28,28,28,2015-02-24,Providence,@,Villanova,REG (Conf),L 61-89,*,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,1,0.0,0,0,0,1,0,0,1,3,7,2.8,A,0,1,ben-bentil-1,Ben Bentil,2015
+29,29,29,2015-03-01,Providence,,Marquette,REG (Conf),W 77-66,*,21,3,10,0.3,0,1,0.0,3,9,0.333,0.3,2,2,1.0,3,1,4,1,1,0,2,3,8,3.1,H,1,1,ben-bentil-1,Ben Bentil,2015
+30,30,30,2015-03-04,Providence,@,Seton Hall,REG (Conf),W 79-66,*,33,4,7,0.571,1,1,1.0,3,6,0.5,0.643,12,12,1.0,7,3,10,1,1,0,2,2,21,22.4,A,1,1,ben-bentil-1,Ben Bentil,2015
+31,31,31,2015-03-07,Providence,,Butler,REG (Conf),L 64-68,*,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,0,1,ben-bentil-1,Ben Bentil,2015
+32,32,32,2015-03-12,Providence,N,St. John's (NY),CTOURN,W 74-57,*,31,7,13,0.538,0,0,,7,13,0.538,0.538,0,2,0.0,8,5,13,0,1,1,3,3,14,11.5,N,1,0,ben-bentil-1,Ben Bentil,2015
+33,33,33,2015-03-13,Providence,N,Villanova,CTOURN,L 61-63,*,40,4,13,0.308,1,3,0.333,3,10,0.3,0.346,3,5,0.6,6,4,10,1,1,1,4,4,12,5.9,N,0,0,ben-bentil-1,Ben Bentil,2015
+34,34,34,2015-03-20,Providence,N,Dayton,ROUND-64,L 53-66,*,32,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,4,5,9,0,0,0,2,4,5,2.6,N,0,0,ben-bentil-1,Ben Bentil,2015

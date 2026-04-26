@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,86,1,2010-11-12,UTSA,,Huston-Tilotson,REG (Non-Conf),W 82-65,*,16,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,1,2,3,3,2,0,3,1,3,3.9,H,1,1,devin-gibson-1,Devin Gibson,2011
+2,87,2,2010-11-17,UTSA,@,Evansville,REG (Non-Conf),L 73-77,*,38,9,15,0.6,0,1,0.0,9,14,0.643,0.6,3,4,0.75,2,3,5,4,4,0,3,3,21,18.6,A,0,1,devin-gibson-1,Devin Gibson,2011
+3,88,3,2010-11-19,UTSA,,Cameron,REG (Non-Conf),W 71-61,*,26,4,8,0.5,1,3,0.333,3,5,0.6,0.563,5,5,1.0,2,3,5,6,3,0,3,2,14,15.7,H,1,1,devin-gibson-1,Devin Gibson,2011
+4,89,4,2010-11-22,UTSA,,Troy,REG (Non-Conf),W 81-70,*,36,6,11,0.545,1,3,0.333,5,8,0.625,0.591,10,13,0.769,1,9,10,5,3,0,5,3,23,20.2,H,1,1,devin-gibson-1,Devin Gibson,2011
+5,90,5,2010-11-30,UTSA,,San Jose State,REG (Non-Conf),W 72-63,*,37,4,14,0.286,0,3,0.0,4,11,0.364,0.286,8,10,0.8,1,9,10,4,3,0,2,1,16,13.8,H,1,1,devin-gibson-1,Devin Gibson,2011
+6,91,6,2010-12-02,UTSA,@,UC Riverside,REG (Non-Conf),L 75-82,*,38,6,15,0.4,2,4,0.5,4,11,0.364,0.467,5,7,0.714,1,2,3,3,5,0,1,2,19,16.7,A,0,1,devin-gibson-1,Devin Gibson,2011
+7,92,7,2010-12-04,UTSA,@,Pepperdine,REG (Non-Conf),W 86-81,*,35,7,10,0.7,0,2,0.0,7,8,0.875,0.7,10,13,0.769,0,4,4,4,2,0,3,3,24,20.4,A,1,1,devin-gibson-1,Devin Gibson,2011
+8,93,8,2010-12-11,UTSA,@,Houston,REG (Non-Conf),W 68-63,*,40,3,14,0.214,0,1,0.0,3,13,0.231,0.214,2,5,0.4,1,5,6,11,3,0,3,1,8,7.7,A,1,1,devin-gibson-1,Devin Gibson,2011
+9,94,9,2010-12-20,UTSA,,Samford,REG (Non-Conf),L 73-74,*,38,3,13,0.231,0,4,0.0,3,9,0.333,0.231,11,11,1.0,5,6,11,12,6,0,3,3,17,24.6,H,0,1,devin-gibson-1,Devin Gibson,2011
+10,95,10,2010-12-23,UTSA,@,Tulsa,REG (Non-Conf),L 67-92,*,33,3,9,0.333,1,1,1.0,2,8,0.25,0.389,6,6,1.0,2,2,4,4,2,0,1,4,13,12.1,A,0,1,devin-gibson-1,Devin Gibson,2011
+11,96,11,2010-12-30,UTSA,@,Bowling Green,REG (Non-Conf),L 59-70,*,37,4,8,0.5,1,2,0.5,3,6,0.5,0.563,5,6,0.833,2,3,5,5,2,0,6,5,14,9.4,A,0,1,devin-gibson-1,Devin Gibson,2011
+12,97,12,2011-01-03,UTSA,@,Oklahoma State,REG (Non-Conf),L 63-79,*,38,4,10,0.4,1,2,0.5,3,8,0.375,0.45,5,5,1.0,1,1,2,8,5,0,2,3,14,17.0,A,0,1,devin-gibson-1,Devin Gibson,2011
+13,98,13,2011-01-08,UTSA,,Sam Houston State,REG (Conf),L 59-62,*,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,1,0.0,0,0,0,2,1,0,3,4,9,3.1,H,0,1,devin-gibson-1,Devin Gibson,2011
+14,99,14,2011-01-12,UTSA,@,Texas A&M–Corpus Christi,REG (Conf),W 55-47,*,38,4,11,0.364,0,3,0.0,4,8,0.5,0.364,9,9,1.0,2,6,8,7,4,0,5,1,17,17.6,A,1,1,devin-gibson-1,Devin Gibson,2011
+15,100,15,2011-01-15,UTSA,,Stephen F. Austin,REG (Conf),L 59-68,*,34,6,16,0.375,1,1,1.0,5,15,0.333,0.406,5,6,0.833,2,2,4,3,1,0,3,3,18,9.7,H,0,1,devin-gibson-1,Devin Gibson,2011
+16,101,16,2011-01-19,UTSA,@,Northwestern State,REG (Conf),W 63-58,*,37,5,12,0.417,1,5,0.2,4,7,0.571,0.458,9,11,0.818,0,10,10,7,5,1,4,2,20,21.6,A,1,1,devin-gibson-1,Devin Gibson,2011
+17,102,17,2011-01-22,UTSA,,Texas State San Marcos,REG (Conf),W 88-84,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,9,12,0.75,2,4,6,8,2,0,3,4,15,14.3,H,1,1,devin-gibson-1,Devin Gibson,2011
+18,103,18,2011-01-24,UTSA,,Okla. Panhandle St.,REG (Non-Conf),W 71-50,*,21,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,2,2,4,7,2,0,0,1,6,10.7,H,1,1,devin-gibson-1,Devin Gibson,2011
+19,104,19,2011-01-29,UTSA,@,Sam Houston State,REG (Conf),L 67-88,*,38,4,13,0.308,0,2,0.0,4,11,0.364,0.308,12,16,0.75,0,3,3,3,0,0,3,2,20,10.1,A,0,1,devin-gibson-1,Devin Gibson,2011
+20,105,20,2011-02-02,UTSA,,UT Arlington,REG (Conf),W 70-62,*,37,6,14,0.429,2,5,0.4,4,9,0.444,0.5,10,15,0.667,3,2,5,4,6,0,4,2,24,21.3,H,1,1,devin-gibson-1,Devin Gibson,2011
+21,106,21,2011-02-05,UTSA,,Lamar,REG (Conf),W 70-64,*,38,4,11,0.364,0,3,0.0,4,8,0.5,0.364,8,10,0.8,0,3,3,6,2,0,2,0,16,14.2,H,1,1,devin-gibson-1,Devin Gibson,2011
+22,107,22,2011-02-09,UTSA,@,Southeastern Louisiana,REG (Conf),L 73-79,*,40,9,15,0.6,0,2,0.0,9,13,0.692,0.6,7,8,0.875,2,5,7,4,2,0,2,1,25,23.0,A,0,1,devin-gibson-1,Devin Gibson,2011
+23,108,23,2011-02-12,UTSA,@,Stephen F. Austin,REG (Conf),L 66-70,*,40,4,10,0.4,0,2,0.0,4,8,0.5,0.4,8,9,0.889,0,2,2,6,0,0,6,4,16,7.4,A,0,1,devin-gibson-1,Devin Gibson,2011
+24,109,24,2011-02-16,UTSA,,McNeese State,REG (Conf),W 65-61,*,40,3,14,0.214,1,4,0.25,2,10,0.2,0.25,13,16,0.813,2,6,8,10,3,1,4,1,20,19.7,H,1,1,devin-gibson-1,Devin Gibson,2011
+25,110,25,2011-02-19,UTSA,@,Nicholls State,REG (Conf),L 52-54,*,40,2,7,0.286,0,1,0.0,2,6,0.333,0.286,8,9,0.889,1,0,1,8,1,0,7,3,12,6.6,A,0,1,devin-gibson-1,Devin Gibson,2011
+26,111,26,2011-02-23,UTSA,,Texas A&M–Corpus Christi,REG (Conf),W 71-62,*,38,3,9,0.333,2,3,0.667,1,6,0.167,0.444,9,13,0.692,1,3,4,2,3,0,4,2,17,11.5,H,1,1,devin-gibson-1,Devin Gibson,2011
+27,112,27,2011-02-26,UTSA,@,Texas State San Marcos,REG (Conf),L 80-82,*,36,7,12,0.583,1,4,0.25,6,8,0.75,0.625,3,5,0.6,1,4,5,5,4,0,3,5,18,16.0,A,0,1,devin-gibson-1,Devin Gibson,2011
+28,113,28,2011-03-02,UTSA,,Central Arkansas,REG (Conf),W 70-58,*,36,5,10,0.5,2,3,0.667,3,7,0.429,0.6,6,8,0.75,2,6,8,5,3,1,7,4,18,14.0,H,1,1,devin-gibson-1,Devin Gibson,2011
+29,114,29,2011-03-05,UTSA,@,UT Arlington,REG (Conf),W 68-63,*,31,5,8,0.625,1,3,0.333,4,5,0.8,0.688,6,8,0.75,0,1,1,4,1,1,2,4,17,13.8,A,1,1,devin-gibson-1,Devin Gibson,2011
+30,115,30,2011-03-09,UTSA,N,Northwestern State,CTOURN,W 97-96,*,35,8,15,0.533,2,4,0.5,6,11,0.545,0.6,10,14,0.714,3,7,10,10,3,0,3,4,28,28.7,N,1,0,devin-gibson-1,Devin Gibson,2011
+31,116,31,2011-03-10,UTSA,N,Sam Houston State,CTOURN,W 79-70,*,39,6,12,0.5,3,6,0.5,3,6,0.5,0.625,11,15,0.733,4,7,11,6,2,0,3,4,26,24.9,N,1,0,devin-gibson-1,Devin Gibson,2011
+32,117,32,2011-03-12,UTSA,N,McNeese State,CTOURN,W 75-72,*,30,4,10,0.4,0,1,0.0,4,9,0.444,0.4,7,10,0.7,0,4,4,3,1,1,0,1,15,13.0,N,1,0,devin-gibson-1,Devin Gibson,2011
+33,118,33,2011-03-16,UTSA,N,Alabama State,FIRST-FOUR,W 70-61,*,37,3,9,0.333,0,2,0.0,3,7,0.429,0.333,4,6,0.667,0,3,3,1,1,0,4,2,10,1.9,N,1,0,devin-gibson-1,Devin Gibson,2011
+34,119,34,2011-03-18,UTSA,N,Ohio State,ROUND-64,L 46-75,*,39,9,18,0.5,2,4,0.5,7,14,0.5,0.556,4,5,0.8,0,3,3,3,4,0,6,1,24,15.2,N,0,0,devin-gibson-1,Devin Gibson,2011

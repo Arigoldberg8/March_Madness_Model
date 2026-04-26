@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-06,Northern Iowa,,Cal State Northridge,REG (Non-Conf),W 86-57,*,29,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,3,0.667,0,5,5,3,0,1,2,1,10,6.8,H,1,1,tristan-smith-3,Tristan Smith,2026
+2,2,2,2025-11-09,Northern Iowa,,South Dakota State,REG (Non-Conf),W 65-58,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,6,8,0.75,3,1,4,4,2,0,2,4,16,16.6,H,1,1,tristan-smith-3,Tristan Smith,2026
+3,3,3,2025-11-14,Northern Iowa,,Furman,REG (Non-Conf),W 70-54,*,28,5,12,0.417,0,2,0.0,5,10,0.5,0.417,3,3,1.0,2,5,7,3,0,1,3,2,13,8.5,H,1,1,tristan-smith-3,Tristan Smith,2026
+4,4,4,2025-11-18,Northern Iowa,,Northern Illinois,REG (Non-Conf),W 70-57,*,25,6,9,0.667,0,0,,6,9,0.667,0.667,6,8,0.75,3,2,5,2,2,3,3,2,18,17.7,H,1,1,tristan-smith-3,Tristan Smith,2026
+5,5,5,2025-11-22,Northern Iowa,@,UC Irvine,REG (Non-Conf),W 70-69 (OT),*,16,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,3,1,4,2,0,1,1,5,5,3.1,A,1,1,tristan-smith-3,Tristan Smith,2026
+6,6,6,2025-11-25,Northern Iowa,N,Loyola Chicago,REG (Non-Conf),W 72-51,*,20,4,6,0.667,1,1,1.0,3,5,0.6,0.75,3,6,0.5,1,4,5,1,0,0,0,3,12,9.6,N,1,1,tristan-smith-3,Tristan Smith,2026
+7,7,7,2025-11-26,Northern Iowa,N,Tulsa,REG (Non-Conf),L 60-63,*,20,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,2,5,7,3,1,0,0,2,7,9.5,N,0,1,tristan-smith-3,Tristan Smith,2026
+8,8,8,2025-12-01,Northern Iowa,,Coe,REG (Non-Conf),W 99-34,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,1,4,5,2,2,1,0,2,4,7.1,H,1,1,tristan-smith-3,Tristan Smith,2026
+9,9,9,2025-12-06,Northern Iowa,,Wichita State,REG (Non-Conf),L 69-74 (OT),*,34,5,10,0.5,0,0,,5,10,0.5,0.5,6,9,0.667,0,4,4,0,0,0,1,3,16,8.8,H,0,1,tristan-smith-3,Tristan Smith,2026
+10,10,10,2025-12-13,Northern Iowa,,Oakland,REG (Non-Conf),W 75-63,*,25,6,9,0.667,0,0,,6,9,0.667,0.667,3,6,0.5,4,7,11,3,1,2,2,1,15,16.9,H,1,1,tristan-smith-3,Tristan Smith,2026
+11,11,11,2025-12-17,Northern Iowa,@,Illinois–Chicago,REG (Conf),W 60-54,*,26,0,4,0.0,0,0,,0,4,0.0,0.0,3,5,0.6,2,4,6,1,2,0,1,3,3,2.5,A,1,1,tristan-smith-3,Tristan Smith,2026
+12,12,12,2025-12-22,Northern Iowa,@,St. Mary's (CA),REG (Non-Conf),L 58-63,*,25,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,1,3,4,2,1,2,0,5,10,8.4,A,0,1,tristan-smith-3,Tristan Smith,2026
+13,13,13,2025-12-29,Northern Iowa,,Valparaiso,REG (Conf),W 58-48,*,29,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,6,7,1,1,2,1,0,4,7.6,H,1,1,tristan-smith-3,Tristan Smith,2026
+14,14,14,2026-01-01,Northern Iowa,,Indiana State,REG (Conf),W 75-66,*,34,6,11,0.545,0,1,0.0,6,10,0.6,0.545,3,4,0.75,3,3,6,1,1,0,2,0,15,12.0,H,1,1,tristan-smith-3,Tristan Smith,2026
+15,15,15,2026-01-04,Northern Iowa,@,Evansville,REG (Conf),W 62-48,*,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,tristan-smith-3,Tristan Smith,2026
+16,16,24,2026-02-06,Northern Iowa,,Bradley,REG (Conf),W 61-49,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,1,0,0,1,0,0.5,H,1,1,tristan-smith-3,Tristan Smith,2026
+17,17,25,2026-02-09,Northern Iowa,@,Murray State,REG (Conf),W 89-60,,21,6,10,0.6,1,1,1.0,5,9,0.556,0.65,0,0,,5,4,9,0,0,1,1,3,13,11.6,A,1,1,tristan-smith-3,Tristan Smith,2026
+18,18,26,2026-02-12,Northern Iowa,@,Belmont,REG (Conf),L 86-91,,17,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,2,2,1,0,0,1,4,6,4.1,A,0,1,tristan-smith-3,Tristan Smith,2026
+19,19,27,2026-02-15,Northern Iowa,,Drake,REG (Conf),W 86-62,,17,5,8,0.625,0,0,,5,8,0.625,0.625,4,4,1.0,1,6,7,4,1,0,1,1,14,15.3,H,1,1,tristan-smith-3,Tristan Smith,2026
+20,20,28,2026-02-18,Northern Iowa,@,Indiana State,REG (Conf),W 81-60,,8,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,2,3,0,0,0,0,2,2,-1.3,A,1,1,tristan-smith-3,Tristan Smith,2026
+21,21,29,2026-02-21,Northern Iowa,,Southern Illinois,REG (Conf),L 57-59,,21,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,2,3,0,4,0,0,2,8,10.9,H,0,1,tristan-smith-3,Tristan Smith,2026
+22,22,30,2026-02-25,Northern Iowa,,Illinois State,REG (Conf),L 69-71,,13,3,6,0.5,0,0,,3,6,0.5,0.5,0,3,0.0,1,2,3,2,0,0,1,4,6,1.9,H,0,1,tristan-smith-3,Tristan Smith,2026
+23,23,31,2026-03-01,Northern Iowa,@,Drake,REG (Conf),W 75-53,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,2,3,0.667,0,3,3,1,2,0,1,1,12,10.9,A,1,1,tristan-smith-3,Tristan Smith,2026
+24,24,32,2026-03-05,Northern Iowa,N,Evansville,CTOURN,W 68-59,*,30,4,5,0.8,0,0,,4,5,0.8,0.8,2,4,0.5,6,7,13,4,1,0,3,4,10,12.8,N,1,0,tristan-smith-3,Tristan Smith,2026
+25,25,33,2026-03-06,Northern Iowa,N,Illinois State,CTOURN,W 74-52,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,5,6,0.833,1,1,2,3,1,0,1,4,9,8.8,N,1,0,tristan-smith-3,Tristan Smith,2026
+26,26,34,2026-03-07,Northern Iowa,N,Bradley,CTOURN,W 73-69,*,15,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,0,3,3,1,1,0,1,4,8,6.4,N,1,0,tristan-smith-3,Tristan Smith,2026
+27,27,35,2026-03-08,Northern Iowa,N,Illinois–Chicago,CTOURN,W 84-69,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,1,7,8,7,0,1,3,3,9,9.8,N,1,0,tristan-smith-3,Tristan Smith,2026

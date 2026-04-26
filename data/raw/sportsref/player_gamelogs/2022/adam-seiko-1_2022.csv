@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,89,1,2021-11-09,San Diego State,,UC Riverside,REG (Non-Conf),W 66-53,*,29,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,4,4,1,0,0,1,1,0,-0.9,H,1,1,adam-seiko-1,Adam Seiko,2022
+2,90,2,2021-11-12,San Diego State,@,Brigham Young,REG (Non-Conf),L 60-66,*,31,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,3,3,1,1,0,0,1,5,3.1,A,0,1,adam-seiko-1,Adam Seiko,2022
+3,91,3,2021-11-18,San Diego State,,Arizona State,REG (Non-Conf),W 65-63,,22,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,0,1,0,0,1,6,4.9,H,1,1,adam-seiko-1,Adam Seiko,2022
+4,92,4,2021-11-20,San Diego State,,UT Arlington,REG (Non-Conf),W 68-62,,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,2,-0.5,H,1,1,adam-seiko-1,Adam Seiko,2022
+5,93,5,2021-11-25,San Diego State,N,Georgetown,REG (Non-Conf),W 73-56,,10,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,0,1,0,0,1,5,5.6,N,1,1,adam-seiko-1,Adam Seiko,2022
+6,94,8,2021-12-04,San Diego State,@,Michigan,REG (Non-Conf),L 58-72,*,32,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,1,2,1,1,0,1,0,3,1.6,A,0,1,adam-seiko-1,Adam Seiko,2022
+7,95,9,2021-12-08,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 66-56,*,35,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,1,2,3,1,2,0,0,0,11,12.4,H,1,1,adam-seiko-1,Adam Seiko,2022
+8,96,10,2021-12-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 63-53,*,32,4,4,1.0,4,4,1.0,0,0,,1.5,0,1,0.0,0,2,2,1,0,0,1,2,12,9.9,N,1,1,adam-seiko-1,Adam Seiko,2022
+9,97,11,2021-12-22,San Diego State,,UC San Diego,REG (Non-Conf),W 78-57,*,29,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,1,0,1,2,1,0,0,1,11,8.3,H,1,1,adam-seiko-1,Adam Seiko,2022
+10,98,12,2022-01-01,San Diego State,@,UNLV,REG (Conf),W 62-55,*,38,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,7,7,3,0,0,2,2,4,4.4,A,1,1,adam-seiko-1,Adam Seiko,2022
+11,99,14,2022-01-22,San Diego State,,Boise State,REG (Conf),L 37-42,,27,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,2,2,1,0,0,1,2,3,0.1,H,0,1,adam-seiko-1,Adam Seiko,2022
+12,100,15,2022-01-24,San Diego State,,UNLV,REG (Conf),W 80-55,,21,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,2,2,1,0,0,2,1,4,0.9,H,1,1,adam-seiko-1,Adam Seiko,2022
+13,101,16,2022-01-26,San Diego State,@,Utah State,REG (Conf),L 57-75,,26,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,0,1,0,0,1,6,4.2,A,0,1,adam-seiko-1,Adam Seiko,2022
+14,102,17,2022-01-31,San Diego State,,New Mexico,REG (Conf),W 72-47,,16,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,1,1.0,0,0,0,1,0,0,1,0,7,4.0,H,1,1,adam-seiko-1,Adam Seiko,2022
+15,103,18,2022-02-04,San Diego State,@,Colorado State,REG (Conf),L 57-58,,14,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,1,1,0,2,0,1,0.2,A,0,1,adam-seiko-1,Adam Seiko,2022
+16,104,19,2022-02-06,San Diego State,,Nevada,REG (Conf),W 65-63,,21,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,4,0.5,0,1,1,2,1,0,0,0,2,0.4,H,1,1,adam-seiko-1,Adam Seiko,2022
+17,105,20,2022-02-09,San Diego State,@,San Jose State,REG (Conf),W 72-62,,15,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,0,0,0,2,3,0.8,A,1,1,adam-seiko-1,Adam Seiko,2022
+18,106,21,2022-02-12,San Diego State,,Air Force,REG (Conf),W 76-64,,18,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,1,0,1,1,3,2.3,H,1,1,adam-seiko-1,Adam Seiko,2022
+19,107,22,2022-02-15,San Diego State,,Utah State,REG (Conf),W 75-56,,22,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,1,1,2,2,0,0,1,1,11,10.1,H,1,1,adam-seiko-1,Adam Seiko,2022
+20,108,23,2022-02-19,San Diego State,@,Fresno State,REG (Conf),W 61-44,,14,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,0,3,1.3,A,1,1,adam-seiko-1,Adam Seiko,2022
+21,109,24,2022-02-22,San Diego State,@,Boise State,REG (Conf),L 57-58,,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,3,2,2,-2.5,A,0,1,adam-seiko-1,Adam Seiko,2022
+22,110,25,2022-02-25,San Diego State,,San Jose State,REG (Conf),W 77-52,,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,1,1,0,2,1,3,0.5,H,1,1,adam-seiko-1,Adam Seiko,2022
+23,111,26,2022-02-28,San Diego State,@,Wyoming,REG (Conf),W 73-66,,26,3,6,0.5,3,4,0.75,0,2,0.0,0.75,0,0,,0,2,2,1,0,0,0,1,9,6.9,A,1,1,adam-seiko-1,Adam Seiko,2022
+24,112,27,2022-03-03,San Diego State,,Fresno State,REG (Conf),W 65-64 (2OT),,33,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,4,4,0,0,0,1,2,6,3.4,H,1,1,adam-seiko-1,Adam Seiko,2022
+25,113,28,2022-03-05,San Diego State,@,Nevada,REG (Conf),W 79-78,,26,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,0,1,2,2,0,2,2,5,4.3,A,1,1,adam-seiko-1,Adam Seiko,2022
+26,114,29,2022-03-10,San Diego State,N,Fresno State,CTOURN,W 53-46,,23,3,5,0.6,3,3,1.0,0,2,0.0,0.9,2,2,1.0,0,0,0,1,0,0,0,0,11,9.4,N,1,0,adam-seiko-1,Adam Seiko,2022
+27,115,30,2022-03-11,San Diego State,N,Colorado State,CTOURN,W 63-58,,27,2,7,0.286,1,6,0.167,1,1,1.0,0.357,5,8,0.625,1,5,6,3,0,0,1,0,10,8.0,N,1,0,adam-seiko-1,Adam Seiko,2022
+28,116,31,2022-03-12,San Diego State,N,Boise State,CTOURN,L 52-53,,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,0,4,0,-1.3,N,0,0,adam-seiko-1,Adam Seiko,2022
+29,117,32,2022-03-17,San Diego State,N,Creighton,ROUND-64,L 69-72 (OT),,28,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,0,1,0,2,0,5,1.9,N,0,0,adam-seiko-1,Adam Seiko,2022

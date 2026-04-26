@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-06,Arizona State,,Cal State Fullerton,REG (Non-Conf),W 102-94 (2OT),,15,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,5,4,9,0,0,2,5,4,9,6.2,H,1,1,dequon-lake-1,De'Quon Lake,2019
+2,34,2,2018-11-09,Arizona State,,McNeese State,REG (Non-Conf),W 80-52,,16,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,1,4,5,0,0,3,0,5,7,6.7,H,1,1,dequon-lake-1,De'Quon Lake,2019
+3,35,3,2018-11-12,Arizona State,,Long Beach State,REG (Non-Conf),W 90-58,,17,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,3,4,7,0,0,1,2,4,10,8.9,H,1,1,dequon-lake-1,De'Quon Lake,2019
+4,36,4,2018-11-19,Arizona State,N,Mississippi State,REG (Non-Conf),W 72-67,,22,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,2,0,0,3,2,4,1.5,N,1,1,dequon-lake-1,De'Quon Lake,2019
+5,37,5,2018-11-21,Arizona State,N,Utah State,REG (Non-Conf),W 87-82,,13,1,1,1.0,0,0,1,1,1.0,1.0,1,1,1.0,1,2,3,1,1,1,1,5,3,3.4,N,1,1,dequon-lake-1,De'Quon Lake,2019
+6,38,6,2018-11-28,Arizona State,,Omaha,REG (Non-Conf),W 89-71,,23,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,4,7,11,0,0,1,1,2,9,10.8,H,1,1,dequon-lake-1,De'Quon Lake,2019
+7,39,7,2018-12-01,Arizona State,,Texas Southern,REG (Non-Conf),W 83-71,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,3,3,2,-1.8,H,1,1,dequon-lake-1,De'Quon Lake,2019
+8,40,8,2018-12-07,Arizona State,N,Nevada,REG (Non-Conf),L 66-72,,20,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,1,2,0,0,2,0,2,6,6.7,N,0,1,dequon-lake-1,De'Quon Lake,2019
+9,41,9,2018-12-15,Arizona State,@,Georgia,REG (Non-Conf),W 76-74,,8,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,1,3,0,0,0,1,4,4,2.5,A,1,1,dequon-lake-1,De'Quon Lake,2019
+10,42,10,2018-12-17,Arizona State,@,Vanderbilt,REG (Non-Conf),L 65-81,,12,0,0,,0,0,0,0,,,0,1,0.0,2,1,3,0,1,0,1,3,0,0.1,A,0,1,dequon-lake-1,De'Quon Lake,2019
+11,43,11,2018-12-22,Arizona State,,Kansas,REG (Non-Conf),W 80-76,,10,0,2,0.0,0,0,0,2,0.0,0.0,3,4,0.75,1,2,3,0,0,0,0,1,3,2.1,H,1,1,dequon-lake-1,De'Quon Lake,2019
+12,44,12,2018-12-29,Arizona State,,Princeton,REG (Non-Conf),L 66-67,,11,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,2,3,5,0,1,1,0,3,3,5.1,H,0,1,dequon-lake-1,De'Quon Lake,2019
+13,45,13,2019-01-03,Arizona State,,Utah,REG (Conf),L 86-96,,11,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,3,3,6,0,0,2,0,0,5,8.4,H,0,1,dequon-lake-1,De'Quon Lake,2019
+14,46,14,2019-01-05,Arizona State,,Colorado,REG (Conf),W 83-61,*,21,5,6,0.833,0,0,5,6,0.833,0.833,2,4,0.5,2,5,7,0,0,0,0,4,12,10.3,H,1,1,dequon-lake-1,De'Quon Lake,2019
+15,47,15,2019-01-09,Arizona State,@,California,REG (Conf),W 80-66,,17,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,2,2,4,0,0,0,0,2,3,3.5,A,1,1,dequon-lake-1,De'Quon Lake,2019
+16,48,16,2019-01-12,Arizona State,@,Stanford,REG (Conf),L 71-85,,11,2,2,1.0,0,0,2,2,1.0,1.0,0,2,0.0,2,2,4,0,0,0,2,2,4,1.8,A,0,1,dequon-lake-1,De'Quon Lake,2019
+17,49,17,2019-01-17,Arizona State,,Oregon State,REG (Conf),W 70-67,,10,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,0,3,0,-0.2,H,1,1,dequon-lake-1,De'Quon Lake,2019
+18,50,18,2019-01-19,Arizona State,,Oregon,REG (Conf),W 78-64,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,dequon-lake-1,De'Quon Lake,2019
+19,51,19,2019-01-24,Arizona State,@,UCLA,REG (Conf),W 84-73,,13,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,2,0,2,0,0,0,0,4,8,6.2,A,1,1,dequon-lake-1,De'Quon Lake,2019
+20,52,20,2019-01-26,Arizona State,@,Southern California,REG (Conf),L 67-69,,14,2,4,0.5,0,0,2,4,0.5,0.5,4,5,0.8,3,3,6,0,0,0,0,1,8,8.2,A,0,1,dequon-lake-1,De'Quon Lake,2019
+21,53,21,2019-01-31,Arizona State,,Arizona,REG (Conf),W 95-88 (OT),,12,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,2,3,0,0,1,0,0,4,5.4,H,1,1,dequon-lake-1,De'Quon Lake,2019
+22,54,22,2019-02-07,Arizona State,,Washington State,REG (Conf),L 70-91,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,1,1,2,2,0.9,H,0,1,dequon-lake-1,De'Quon Lake,2019
+23,55,23,2019-02-09,Arizona State,,Washington,REG (Conf),W 75-63,,6,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,0,2,2,0,0,0,0,4,2,-0.1,H,1,1,dequon-lake-1,De'Quon Lake,2019
+24,56,24,2019-02-13,Arizona State,@,Colorado,REG (Conf),L 73-77,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,A,0,1,dequon-lake-1,De'Quon Lake,2019
+25,57,26,2019-02-20,Arizona State,,Stanford,REG (Conf),W 80-62,,13,1,1,1.0,0,0,1,1,1.0,1.0,1,1,1.0,0,4,4,0,0,1,1,2,3,2.8,H,1,1,dequon-lake-1,De'Quon Lake,2019
+26,58,27,2019-02-24,Arizona State,,California,REG (Conf),W 69-59,*,20,3,4,0.75,0,0,3,4,0.75,0.75,2,3,0.667,3,1,4,0,1,2,0,0,8,10.8,H,1,1,dequon-lake-1,De'Quon Lake,2019
+27,59,28,2019-02-28,Arizona State,@,Oregon,REG (Conf),L 51-79,,20,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,4,3,7,0,0,3,0,4,7,9.9,A,0,1,dequon-lake-1,De'Quon Lake,2019
+28,60,29,2019-03-03,Arizona State,@,Oregon State,REG (Conf),W 74-71,,13,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,2,0,2,0,1,0,0,5,6,5.8,A,1,1,dequon-lake-1,De'Quon Lake,2019
+29,61,30,2019-03-09,Arizona State,@,Arizona,REG (Conf),W 72-64,*,17,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,0,1,1,0,3,0,0,4,2,2.3,A,1,1,dequon-lake-1,De'Quon Lake,2019
+30,62,31,2019-03-14,Arizona State,N,UCLA,CTOURN,W 83-72,,7,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,1,2,0,0,1,1,4,4,2.1,N,1,0,dequon-lake-1,De'Quon Lake,2019
+31,63,32,2019-03-15,Arizona State,N,Oregon,CTOURN,L 75-79 (OT),*,14,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,2,0,2,2,2.9,N,0,0,dequon-lake-1,De'Quon Lake,2019
+32,64,33,2019-03-20,Arizona State,N,St. John's (NY),FIRST-FOUR,W 74-65,,8,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,1,2,0,0,0,1,3,6,4.2,N,1,0,dequon-lake-1,De'Quon Lake,2019
+33,65,34,2019-03-22,Arizona State,N,Buffalo,ROUND-64,L 74-91,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,0,1,0,1,0,0,1,2,2.3,N,0,0,dequon-lake-1,De'Quon Lake,2019

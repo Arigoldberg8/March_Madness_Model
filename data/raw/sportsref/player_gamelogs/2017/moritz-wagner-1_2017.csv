@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2016-11-11,Michigan,,Howard,REG (Non-Conf),W 76-58,*,15,1,3,0.333,0,0,,1,3,0.333,0.333,6,7,0.857,0,3,3,0,3,1,1,0,8,9.5,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+2,32,2,2016-11-13,Michigan,,IUPUI,REG (Non-Conf),W 77-65,*,19,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,2,1.0,2,4,6,1,0,1,1,3,13,11.9,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+3,33,3,2016-11-17,Michigan,N,Marquette,REG (Non-Conf),W 79-61,*,17,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,2,0.0,0,1,1,2,0,1,1,2,9,5.5,N,1,1,moritz-wagner-1,Moritz Wagner,2017
+4,34,4,2016-11-18,Michigan,N,SMU,REG (Non-Conf),W 76-54,*,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,3,3,1.1,N,1,1,moritz-wagner-1,Moritz Wagner,2017
+5,35,5,2016-11-23,Michigan,@,South Carolina,REG (Non-Conf),L 46-61,*,16,0,2,0.0,0,0,,0,2,0.0,0.0,2,4,0.5,2,1,3,0,0,0,1,1,2,0.1,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+6,36,6,2016-11-26,Michigan,,Mount St. Mary's,REG (Non-Conf),W 64-47,*,22,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,2,4,6,0,1,2,4,1,13,10.0,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+7,37,7,2016-11-30,Michigan,,Virginia Tech,REG (Non-Conf),L 70-73,*,18,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,1,1,2,1,1,0,1,2,11,9.3,H,0,1,moritz-wagner-1,Moritz Wagner,2017
+8,38,8,2016-12-03,Michigan,,Kennesaw State,REG (Non-Conf),W 82-55,*,25,7,8,0.875,3,4,0.75,4,4,1.0,1.063,3,5,0.6,2,1,3,0,0,0,0,1,20,17.7,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+9,39,9,2016-12-06,Michigan,,Texas,REG (Non-Conf),W 53-50,*,26,7,13,0.538,0,3,0.0,7,10,0.7,0.538,1,3,0.333,2,3,5,2,2,1,2,3,15,11.1,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+10,40,10,2016-12-10,Michigan,@,UCLA,REG (Non-Conf),L 84-102,*,20,3,4,0.75,2,3,0.667,1,1,1.0,1.0,3,3,1.0,0,1,1,0,0,0,0,4,11,8.1,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+11,41,11,2016-12-13,Michigan,,Central Arkansas,REG (Non-Conf),W 97-53,*,19,8,9,0.889,2,3,0.667,6,6,1.0,1.0,0,1,0.0,1,6,7,0,0,0,1,0,18,16.0,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+12,42,12,2016-12-17,Michigan,,Maryland Eastern Shore,REG (Non-Conf),W 98-49,*,13,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,0,1,1,1,1,0,1,2,9,8.0,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+13,43,13,2016-12-22,Michigan,,Furman,REG (Non-Conf),W 68-62,*,28,7,16,0.438,1,5,0.2,6,11,0.545,0.469,3,3,1.0,5,1,6,0,0,0,0,2,18,12.6,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+14,44,14,2017-01-01,Michigan,@,Iowa,REG (Conf),L 83-86 (OT),*,35,6,10,0.6,0,2,0.0,6,8,0.75,0.6,0,0,,2,2,4,0,3,1,0,4,12,11.5,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+15,45,15,2017-01-04,Michigan,,Penn State,REG (Conf),W 72-69,*,28,4,9,0.444,1,2,0.5,3,7,0.429,0.5,3,3,1.0,0,5,5,1,3,0,1,2,12,10.7,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+16,46,16,2017-01-07,Michigan,,Maryland,REG (Conf),L 70-77,*,24,6,11,0.545,2,7,0.286,4,4,1.0,0.636,3,5,0.6,2,3,5,0,0,2,1,3,17,12.4,H,0,1,moritz-wagner-1,Moritz Wagner,2017
+17,47,17,2017-01-11,Michigan,@,Illinois,REG (Conf),L 69-85,*,26,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,3,1.0,0,1,1,0,1,0,3,2,6,1.8,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+18,48,18,2017-01-14,Michigan,,Nebraska,REG (Conf),W 91-85,*,31,6,9,0.667,4,6,0.667,2,3,0.667,0.889,7,8,0.875,1,5,6,1,1,2,2,3,23,20.8,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+19,49,19,2017-01-17,Michigan,@,Wisconsin,REG (Conf),L 64-68,*,29,2,7,0.286,0,3,0.0,2,4,0.5,0.286,6,7,0.857,1,3,4,0,1,0,3,5,10,3.1,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+20,50,20,2017-01-21,Michigan,,Illinois,REG (Conf),W 66-57,*,28,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,0,0,0,2,3,8,1.7,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+21,51,21,2017-01-26,Michigan,,Indiana,REG (Conf),W 90-60,*,29,7,9,0.778,0,1,0.0,7,8,0.875,0.778,0,1,0.0,4,0,4,1,2,0,2,2,14,12.8,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+22,52,22,2017-01-29,Michigan,@,Michigan State,REG (Conf),L 62-70,*,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,3,5,8,0,0,0,4,4,10,5.0,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+23,53,23,2017-02-04,Michigan,,Ohio State,REG (Conf),L 66-70,*,22,1,5,0.2,0,4,0.0,1,1,1.0,0.2,3,4,0.75,0,1,1,1,0,0,0,5,5,0.5,H,0,1,moritz-wagner-1,Moritz Wagner,2017
+24,54,24,2017-02-07,Michigan,,Michigan State,REG (Conf),W 86-57,*,28,7,11,0.636,1,3,0.333,6,8,0.75,0.682,4,5,0.8,0,6,6,2,2,0,3,3,19,14.7,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+25,55,25,2017-02-12,Michigan,@,Indiana,REG (Conf),W 75-63,*,31,4,11,0.364,2,4,0.5,2,7,0.286,0.455,1,3,0.333,3,7,10,0,1,0,2,5,11,5.3,A,1,1,moritz-wagner-1,Moritz Wagner,2017
+26,56,26,2017-02-16,Michigan,,Wisconsin,REG (Conf),W 64-58,*,27,8,14,0.571,3,6,0.5,5,8,0.625,0.679,2,2,1.0,1,2,3,1,1,1,1,1,21,16.7,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+27,57,27,2017-02-19,Michigan,@,Minnesota,REG (Conf),L 78-83 (OT),*,29,5,8,0.625,2,4,0.5,3,4,0.75,0.75,3,4,0.75,2,5,7,0,1,0,3,5,15,9.9,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+28,58,28,2017-02-22,Michigan,@,Rutgers,REG (Conf),W 68-64,*,32,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,2,4,6,1,0,1,1,2,8,5.1,A,1,1,moritz-wagner-1,Moritz Wagner,2017
+29,59,29,2017-02-25,Michigan,,Purdue,REG (Conf),W 82-70,*,27,10,15,0.667,4,8,0.5,6,7,0.857,0.8,0,0,,2,1,3,0,2,0,1,3,24,19.0,H,1,1,moritz-wagner-1,Moritz Wagner,2017
+30,60,30,2017-03-01,Michigan,@,Northwestern,REG (Conf),L 65-67,*,30,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,6,0.667,2,8,10,0,2,0,2,3,8,5.7,A,0,1,moritz-wagner-1,Moritz Wagner,2017
+31,61,31,2017-03-05,Michigan,@,Nebraska,REG (Conf),W 93-57,*,22,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,2,3,5,0,0,1,1,4,11,9.5,A,1,1,moritz-wagner-1,Moritz Wagner,2017
+32,62,32,2017-03-09,Michigan,N,Illinois,CTOURN,W 75-55,*,29,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,2,2,4,3,5,0,2,3,6,7.5,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+33,63,33,2017-03-10,Michigan,N,Purdue,CTOURN,W 74-70 (OT),*,17,0,5,0.0,0,2,0.0,0,3,0.0,0.0,5,6,0.833,2,1,3,0,2,0,0,4,5,3.2,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+34,64,34,2017-03-11,Michigan,N,Minnesota,CTOURN,W 84-77,*,18,6,7,0.857,2,3,0.667,4,4,1.0,1.0,3,4,0.75,0,4,4,1,1,0,2,4,17,13.4,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+35,65,35,2017-03-12,Michigan,N,Wisconsin,CTOURN,W 71-56,*,24,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,0,1,1,0,1,0,2,1,7,2.2,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+36,66,36,2017-03-17,Michigan,N,Oklahoma State,ROUND-64,W 92-91,*,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,2,3,0,0,0,0,2,6,4.5,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+37,67,37,2017-03-19,Michigan,N,Louisville,ROUND-32,W 73-69,*,31,11,14,0.786,1,1,1.0,10,13,0.769,0.821,3,6,0.5,1,2,3,1,2,0,1,3,26,21.2,N,1,0,moritz-wagner-1,Moritz Wagner,2017
+38,68,38,2017-03-23,Michigan,N,Oregon,ROUND-16,L 68-69,*,24,3,10,0.3,0,4,0.0,3,6,0.5,0.3,1,1,1.0,1,4,5,0,0,0,2,2,7,0.3,N,0,0,moritz-wagner-1,Moritz Wagner,2017

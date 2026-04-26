@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,124,4,2024-11-17,Oregon,,Troy,REG (Non-Conf),W 82-61,,13,4,5,0.8,0,0,4,5,0.8,0.8,3,3,1.0,2,3,5,0,0,0,0,1,11,11.0,H,1,1,supreme-cook-1,Supreme Cook,2025
+2,125,5,2024-11-21,Oregon,@,Oregon State,REG (Non-Conf),W 78-75,,7,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,0,0,0,1,3,4,1.1,A,1,1,supreme-cook-1,Supreme Cook,2025
+3,126,6,2024-11-26,Oregon,N,Texas A&M,REG (Non-Conf),W 80-70,,12,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,1,2,3,1,0,1,1,4,4,2.3,N,1,1,supreme-cook-1,Supreme Cook,2025
+4,127,7,2024-11-27,Oregon,N,San Diego State,REG (Non-Conf),W 78-68,,10,1,4,0.25,0,0,1,4,0.25,0.25,0,1,0.0,3,0,3,0,0,0,1,2,2,-0.5,N,1,1,supreme-cook-1,Supreme Cook,2025
+5,128,8,2024-11-30,Oregon,N,Alabama,REG (Non-Conf),W 83-81,,14,3,5,0.6,0,0,3,5,0.6,0.6,5,6,0.833,2,2,4,0,1,0,0,1,11,10.9,N,1,1,supreme-cook-1,Supreme Cook,2025
+6,129,9,2024-12-04,Oregon,@,Southern California,REG (Conf),W 68-60,,8,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,0,2,0,0,0,1,1,3,1.6,A,1,1,supreme-cook-1,Supreme Cook,2025
+7,130,10,2024-12-08,Oregon,,UCLA,REG (Conf),L 71-73,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,H,0,1,supreme-cook-1,Supreme Cook,2025
+8,131,11,2024-12-15,Oregon,,Stephen F. Austin,REG (Non-Conf),W 79-61,,21,5,6,0.833,0,0,5,6,0.833,0.833,4,8,0.5,1,2,3,0,2,1,1,2,14,12.4,H,1,1,supreme-cook-1,Supreme Cook,2025
+9,132,12,2024-12-21,Oregon,N,Stanford,REG (Non-Conf),W 76-61,,13,4,6,0.667,0,0,4,6,0.667,0.667,0,1,0.0,1,2,3,1,0,0,0,0,8,7.0,N,1,1,supreme-cook-1,Supreme Cook,2025
+10,133,13,2024-12-29,Oregon,,Weber State,REG (Non-Conf),W 89-49,,13,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,2,3,5,0,0,0,2,3,8,3.1,H,1,1,supreme-cook-1,Supreme Cook,2025
+11,134,14,2025-01-02,Oregon,,Illinois,REG (Conf),L 77-109,,19,8,11,0.727,0,0,8,11,0.727,0.727,4,6,0.667,2,0,2,1,0,0,0,1,20,16.4,H,0,1,supreme-cook-1,Supreme Cook,2025
+12,135,15,2025-01-05,Oregon,,Maryland,REG (Conf),W 83-79,,8,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,H,1,1,supreme-cook-1,Supreme Cook,2025
+13,136,16,2025-01-09,Oregon,@,Ohio State,REG (Conf),W 73-71,,8,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,2,3,0,0,0,0,1,0,-1.2,A,1,1,supreme-cook-1,Supreme Cook,2025
+14,137,17,2025-01-12,Oregon,@,Penn State,REG (Conf),W 82-81,,12,1,1,1.0,0,0,1,1,1.0,1.0,1,6,0.167,2,3,5,1,1,0,0,0,3,4.7,A,1,1,supreme-cook-1,Supreme Cook,2025
+15,138,18,2025-01-18,Oregon,,Purdue,REG (Conf),L 58-65,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,supreme-cook-1,Supreme Cook,2025
+16,139,19,2025-01-21,Oregon,,Washington,REG (Conf),W 82-71,,11,3,5,0.6,0,0,3,5,0.6,0.6,7,9,0.778,0,2,2,0,0,0,0,2,13,9.7,H,1,1,supreme-cook-1,Supreme Cook,2025
+17,140,20,2025-01-25,Oregon,@,Minnesota,REG (Conf),L 69-77,,13,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,3,3,1,0,0,2,2,4,0.8,A,0,1,supreme-cook-1,Supreme Cook,2025
+18,141,21,2025-01-30,Oregon,@,UCLA,REG (Conf),L 52-78,,11,2,3,0.667,0,0,2,3,0.667,0.667,1,4,0.25,1,1,2,0,0,0,2,4,5,-0.1,A,0,1,supreme-cook-1,Supreme Cook,2025
+19,142,22,2025-02-02,Oregon,,Nebraska,REG (Conf),L 71-77,,15,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,2,2,4,0,0,0,2,1,8,6.0,H,0,1,supreme-cook-1,Supreme Cook,2025
+20,143,23,2025-02-05,Oregon,@,Michigan,REG (Conf),L 76-80,,16,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,2,1,2,0.6,A,0,1,supreme-cook-1,Supreme Cook,2025
+21,144,24,2025-02-08,Oregon,@,Michigan State,REG (Conf),L 74-86,,20,3,5,0.6,0,0,3,5,0.6,0.6,1,3,0.333,1,1,2,1,0,1,0,3,7,5.1,A,0,1,supreme-cook-1,Supreme Cook,2025
+22,145,25,2025-02-11,Oregon,,Northwestern,REG (Conf),W 81-75,,12,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,1,3,4,0,2,0,1,0,4,4.2,H,1,1,supreme-cook-1,Supreme Cook,2025
+23,146,26,2025-02-16,Oregon,,Rutgers,REG (Conf),W 75-57,,12,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,2,1,3,0,0,0,0,1,3,1.5,H,1,1,supreme-cook-1,Supreme Cook,2025
+24,147,27,2025-02-19,Oregon,@,Iowa,REG (Conf),W 80-78,,10,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,1,2,0,0,0,2,1,4,0.6,A,1,1,supreme-cook-1,Supreme Cook,2025
+25,148,28,2025-02-22,Oregon,@,Wisconsin,REG (Conf),W 77-73 (OT),,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,3,4,0,2,0,0,1,0,1.8,A,1,1,supreme-cook-1,Supreme Cook,2025
+26,149,29,2025-03-01,Oregon,,Southern California,REG (Conf),W 82-61,,9,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,3,1,4,0,1,0,1,1,1,1.2,H,1,1,supreme-cook-1,Supreme Cook,2025
+27,150,30,2025-03-04,Oregon,,Indiana,REG (Conf),W 73-64,,8,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,2,0,-1.2,H,1,1,supreme-cook-1,Supreme Cook,2025
+28,151,31,2025-03-09,Oregon,@,Washington,REG (Conf),W 80-73 (OT),,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,supreme-cook-1,Supreme Cook,2025
+29,152,32,2025-03-13,Oregon,N,Indiana,CTOURN,W 72-59,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,0,supreme-cook-1,Supreme Cook,2025
+30,153,33,2025-03-14,Oregon,N,Michigan State,CTOURN,L 64-74,,6,0,0,,0,0,0,0,,,2,2,1.0,0,1,1,0,0,0,1,1,2,0.9,N,0,0,supreme-cook-1,Supreme Cook,2025
+31,154,34,2025-03-21,Oregon,N,Liberty,ROUND-64,W 81-52,,14,2,2,1.0,0,0,2,2,1.0,1.0,2,4,0.5,1,5,6,0,0,0,2,1,6,4.4,N,1,0,supreme-cook-1,Supreme Cook,2025
+32,155,35,2025-03-23,Oregon,N,Arizona,ROUND-32,L 83-87,,5,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,N,0,0,supreme-cook-1,Supreme Cook,2025

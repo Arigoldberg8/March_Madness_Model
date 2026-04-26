@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-13,Wichita State,,Charleston Southern,REG (Non-Conf),W 85-57,,19,5,9,0.556,0,0,5,9,0.556,0.556,2,4,0.5,5,4,9,1,0,1,0,2,12,12.2,H,1,1,carl-hall-1,Carl Hall,2012
+2,2,2,2011-11-17,Wichita State,N,Colorado,REG (Non-Conf),W 67-58,,16,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,0,1,1,0,2,2,4.5,N,1,1,carl-hall-1,Carl Hall,2012
+3,3,3,2011-11-18,Wichita State,N,Alabama,REG (Non-Conf),L 60-70,,24,2,8,0.25,0,0,2,8,0.25,0.25,0,2,0.0,7,5,12,1,0,1,0,3,4,5.0,N,0,1,carl-hall-1,Carl Hall,2012
+4,4,4,2011-11-20,Wichita State,N,Temple,REG (Non-Conf),L 74-78 (OT),*,22,2,9,0.222,0,0,2,9,0.222,0.222,0,2,0.0,3,2,5,2,0,0,1,1,4,0.4,N,0,1,carl-hall-1,Carl Hall,2012
+5,5,5,2011-11-25,Wichita State,N,UAB,REG (Non-Conf),W 68-46,*,14,3,4,0.75,0,0,3,4,0.75,0.75,1,1,1.0,2,4,6,0,0,1,0,3,7,7.5,N,1,1,carl-hall-1,Carl Hall,2012
+6,6,6,2011-12-01,Wichita State,,Cal State Fullerton,REG (Non-Conf),W 75-60,*,24,8,9,0.889,0,0,8,9,0.889,0.889,3,5,0.6,2,6,8,0,0,2,1,2,19,17.9,H,1,1,carl-hall-1,Carl Hall,2012
+7,7,7,2011-12-04,Wichita State,,UNLV,REG (Non-Conf),W 89-70,*,34,7,10,0.7,0,0,7,10,0.7,0.7,3,5,0.6,2,1,3,2,1,1,0,3,17,15.6,H,1,1,carl-hall-1,Carl Hall,2012
+8,8,8,2011-12-07,Wichita State,@,Tulsa,REG (Non-Conf),W 77-67,*,22,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,2,0,2,0,1,0,0,4,11,8.1,A,1,1,carl-hall-1,Carl Hall,2012
+9,9,9,2011-12-10,Wichita State,,Utah State,REG (Non-Conf),W 83-76,*,28,4,9,0.444,0,0,4,9,0.444,0.444,3,5,0.6,2,1,3,0,2,0,1,2,11,7.4,H,1,1,carl-hall-1,Carl Hall,2012
+10,10,10,2011-12-14,Wichita State,,Chicago State,REG (Non-Conf),W 94-44,*,16,1,2,0.5,0,0,1,2,0.5,0.5,4,4,1.0,2,3,5,1,0,2,1,0,6,8.4,H,1,1,carl-hall-1,Carl Hall,2012
+11,11,11,2011-12-19,Wichita State,,Newman,REG (Non-Conf),W 102-53,*,20,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,2,2,4,2,2,0,1,2,10,10.0,H,1,1,carl-hall-1,Carl Hall,2012
+12,12,12,2011-12-28,Wichita State,@,Bradley,REG (Conf),W 90-51,*,19,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,5,3,8,2,0,1,1,3,10,12.1,A,1,1,carl-hall-1,Carl Hall,2012
+13,13,13,2011-12-31,Wichita State,,Creighton,REG (Conf),L 61-68,*,29,7,9,0.778,0,0,7,9,0.778,0.778,3,4,0.75,5,8,13,0,0,3,1,4,17,18.5,H,0,1,carl-hall-1,Carl Hall,2012
+14,14,14,2012-01-04,Wichita State,@,Evansville,REG (Conf),W 67-66,*,32,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,2,6,8,1,1,1,0,2,7,9.8,A,1,1,carl-hall-1,Carl Hall,2012
+15,15,15,2012-01-07,Wichita State,@,Southern Illinois,REG (Conf),W 83-73,*,24,2,5,0.4,0,0,2,5,0.4,0.4,4,6,0.667,5,4,9,0,0,0,2,3,8,6.0,A,1,1,carl-hall-1,Carl Hall,2012
+16,16,16,2012-01-10,Wichita State,,Illinois State,REG (Conf),W 65-62,*,24,0,1,0.0,0,0,0,1,0.0,0.0,3,4,0.75,1,1,2,0,0,0,1,4,3,0.3,H,1,1,carl-hall-1,Carl Hall,2012
+17,17,17,2012-01-13,Wichita State,,Bradley,REG (Conf),W 78-41,*,22,3,3,1.0,0,0,3,3,1.0,1.0,5,6,0.833,1,3,4,0,1,0,0,1,11,11.9,H,1,1,carl-hall-1,Carl Hall,2012
+18,18,18,2012-01-15,Wichita State,@,Indiana State,REG (Conf),W 75-65,*,23,2,7,0.286,0,0,2,7,0.286,0.286,1,3,0.333,2,3,5,1,0,1,1,3,5,1.6,A,1,1,carl-hall-1,Carl Hall,2012
+19,19,19,2012-01-18,Wichita State,@,Northern Iowa,REG (Conf),W 71-68,*,30,5,10,0.5,0,0,5,10,0.5,0.5,1,2,0.5,0,1,1,0,0,0,1,2,11,4.1,A,1,1,carl-hall-1,Carl Hall,2012
+20,20,20,2012-01-21,Wichita State,,Southern Illinois,REG (Conf),W 85-42,*,11,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,0,2,2,0,1,1,0,4,11,8.7,H,1,1,carl-hall-1,Carl Hall,2012
+21,21,21,2012-01-25,Wichita State,,Evansville,REG (Conf),W 86-74,*,27,5,7,0.714,0,0,5,7,0.714,0.714,2,5,0.4,1,3,4,2,0,0,2,2,12,8.1,H,1,1,carl-hall-1,Carl Hall,2012
+22,22,22,2012-01-28,Wichita State,@,Drake,REG (Conf),L 86-93 (3OT),*,41,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,1,7,8,0,0,1,3,4,6,2.2,A,0,1,carl-hall-1,Carl Hall,2012
+23,23,23,2012-02-01,Wichita State,@,Missouri State,REG (Conf),W 74-67,,24,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,2,4,6,2,0,2,2,3,6,5.5,A,1,1,carl-hall-1,Carl Hall,2012
+24,24,24,2012-02-04,Wichita State,,Indiana State,REG (Conf),W 71-66,,15,3,6,0.5,0,0,3,6,0.5,0.5,7,7,1.0,1,0,1,0,0,1,0,2,13,10.6,H,1,1,carl-hall-1,Carl Hall,2012
+25,25,25,2012-02-08,Wichita State,,Northern Iowa,REG (Conf),W 82-57,,16,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,4,0,4,0,0,0,0,2,8,7.7,H,1,1,carl-hall-1,Carl Hall,2012
+26,26,26,2012-02-11,Wichita State,@,Creighton,REG (Conf),W 89-68,,22,4,5,0.8,0,0,4,5,0.8,0.8,1,1,1.0,1,3,4,1,0,1,1,4,9,7.5,A,1,1,carl-hall-1,Carl Hall,2012
+27,27,27,2012-02-15,Wichita State,,Missouri State,REG (Conf),W 73-58,,18,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,0,0,0,0,1,0,0,4,2.7,H,1,1,carl-hall-1,Carl Hall,2012
+28,28,28,2012-02-18,Wichita State,@,Davidson,REG (Non-Conf),W 91-74,,23,4,6,0.667,0,0,4,6,0.667,0.667,5,7,0.714,2,3,5,2,1,0,1,3,13,12.1,A,1,1,carl-hall-1,Carl Hall,2012
+29,29,29,2012-02-22,Wichita State,@,Illinois State,REG (Conf),W 68-55,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,0,1,1,0,1,0,0,4,2,1.0,A,1,1,carl-hall-1,Carl Hall,2012
+30,30,30,2012-02-25,Wichita State,,Drake,REG (Conf),W 81-58,,18,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,2,4,0,1,2,2,1,1,1.9,H,1,1,carl-hall-1,Carl Hall,2012
+31,31,31,2012-03-02,Wichita State,N,Indiana State,CTOURN,W 72-48,,22,3,7,0.429,0,0,3,7,0.429,0.429,0,2,0.0,2,3,5,0,2,1,3,2,6,2.7,N,1,0,carl-hall-1,Carl Hall,2012
+32,32,32,2012-03-03,Wichita State,N,Illinois State,CTOURN,L 64-65,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,4,0,-2.0,N,0,0,carl-hall-1,Carl Hall,2012
+33,33,33,2012-03-15,Wichita State,N,VCU,ROUND-64,L 59-62,,32,4,7,0.571,0,0,4,7,0.571,0.571,2,3,0.667,5,3,8,2,0,1,1,1,10,11.4,N,0,0,carl-hall-1,Carl Hall,2012

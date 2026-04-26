@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,75,1,2016-11-11,Oregon,,Army,REG (Non-Conf),W 91-77,*,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,2,2,3,0,0,1,2,4,2.5,H,1,1,casey-benson-1,Casey Benson,2017
+2,76,2,2016-11-15,Oregon,@,Baylor,REG (Non-Conf),L 49-66,*,23,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,4,0,0,1,0,0,1.0,A,0,1,casey-benson-1,Casey Benson,2017
+3,77,3,2016-11-17,Oregon,,Valparaiso,REG (Non-Conf),W 76-54,*,27,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,1,0,1,1,0,0,2,0,5,1.6,H,1,1,casey-benson-1,Casey Benson,2017
+4,78,4,2016-11-21,Oregon,N,Georgetown,REG (Non-Conf),L 61-65,*,26,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,1,1,0,1,5,4,2.7,N,0,1,casey-benson-1,Casey Benson,2017
+5,79,5,2016-11-22,Oregon,N,Tennessee,REG (Non-Conf),W 69-65 (OT),,25,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,3,1.0,0,1,1,2,0,0,0,1,8,7.3,N,1,1,casey-benson-1,Casey Benson,2017
+6,80,6,2016-11-23,Oregon,N,Connecticut,REG (Non-Conf),W 79-69,,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,0,0,0,2,0,0,2,1,0,-2.1,N,1,1,casey-benson-1,Casey Benson,2017
+7,81,7,2016-11-28,Oregon,,Boise State,REG (Non-Conf),W 68-63,,18,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,2,3,2,0,0,0,1,6,7.0,H,1,1,casey-benson-1,Casey Benson,2017
+8,82,8,2016-11-30,Oregon,,Western Ore.,REG (Non-Conf),W 93-54,,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,3,0.667,0,1,1,4,1,0,0,1,4,4.9,H,1,1,casey-benson-1,Casey Benson,2017
+9,83,9,2016-12-03,Oregon,,Savannah State,REG (Non-Conf),W 128-59,,19,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,1,0.0,0,4,4,3,1,0,1,1,9,6.8,H,1,1,casey-benson-1,Casey Benson,2017
+10,84,10,2016-12-11,Oregon,,Alabama,REG (Non-Conf),W 65-56,,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,3,4,2,1,0,2,0,7,7.0,H,1,1,casey-benson-1,Casey Benson,2017
+11,85,11,2016-12-13,Oregon,,Montana,REG (Non-Conf),W 81-67,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,0,0,1,0,0,0,0,0,-0.8,H,1,1,casey-benson-1,Casey Benson,2017
+12,86,12,2016-12-17,Oregon,N,UNLV,REG (Non-Conf),W 83-63,,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,2,0,0,1,1,2,2.0,N,1,1,casey-benson-1,Casey Benson,2017
+13,87,13,2016-12-20,Oregon,,Fresno State,REG (Non-Conf),W 75-63,,29,1,4,0.25,0,3,0.0,1,1,1.0,0.25,5,6,0.833,1,4,5,5,3,0,0,1,7,12.2,H,1,1,casey-benson-1,Casey Benson,2017
+14,88,14,2016-12-28,Oregon,,UCLA,REG (Conf),W 89-87,,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,0,1,0,0,2,6,5.6,H,1,1,casey-benson-1,Casey Benson,2017
+15,89,15,2016-12-30,Oregon,,Southern California,REG (Conf),W 84-61,,19,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,2,3,3,1,0,0,2,0,0.1,H,1,1,casey-benson-1,Casey Benson,2017
+16,90,16,2017-01-04,Oregon,@,Washington,REG (Conf),W 83-61,,21,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,5,1,0,3,3,5,5.4,A,1,1,casey-benson-1,Casey Benson,2017
+17,91,17,2017-01-07,Oregon,@,Washington State,REG (Conf),W 85-66,,23,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,1,2,1,1,0,2,0,3,2.3,A,1,1,casey-benson-1,Casey Benson,2017
+18,92,18,2017-01-14,Oregon,,Oregon State,REG (Conf),W 85-43,,21,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,1,1,1,0,0,1,1,11,8.7,H,1,1,casey-benson-1,Casey Benson,2017
+19,93,19,2017-01-19,Oregon,,California,REG (Conf),W 86-63,,29,5,5,1.0,5,5,1.0,0,0,,1.5,0,0,,0,0,0,2,1,0,0,2,15,15.1,H,1,1,casey-benson-1,Casey Benson,2017
+20,94,20,2017-01-21,Oregon,,Stanford,REG (Conf),W 69-52,,25,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,3,0.667,0,1,1,5,1,0,1,1,5,4.9,H,1,1,casey-benson-1,Casey Benson,2017
+21,95,21,2017-01-26,Oregon,@,Utah,REG (Conf),W 73-67,,23,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,4,2,0,2,1,8,9.8,A,1,1,casey-benson-1,Casey Benson,2017
+22,96,22,2017-01-28,Oregon,@,Colorado,REG (Conf),L 65-74,,22,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,0,1,1,0,0,0,1,2,1.3,A,0,1,casey-benson-1,Casey Benson,2017
+23,97,23,2017-02-02,Oregon,,Arizona State,REG (Conf),W 71-70,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,2,0,-2.6,H,1,1,casey-benson-1,Casey Benson,2017
+24,98,24,2017-02-04,Oregon,,Arizona,REG (Conf),W 85-58,,21,3,5,0.6,3,5,0.6,0,0,,0.9,4,4,1.0,0,1,1,2,1,0,1,1,13,12.0,H,1,1,casey-benson-1,Casey Benson,2017
+25,99,25,2017-02-09,Oregon,@,UCLA,REG (Conf),L 79-82,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,1,0,0,0,1,3,2.2,A,0,1,casey-benson-1,Casey Benson,2017
+26,100,26,2017-02-11,Oregon,@,Southern California,REG (Conf),W 81-70,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,3,1,2,-2.4,A,1,1,casey-benson-1,Casey Benson,2017
+27,101,27,2017-02-16,Oregon,,Utah,REG (Conf),W 79-61,,22,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,2,0,0,0,2,2,1.1,H,1,1,casey-benson-1,Casey Benson,2017
+28,102,28,2017-02-18,Oregon,,Colorado,REG (Conf),W 101-73,,21,3,4,0.75,2,2,1.0,1,2,0.5,1.0,6,6,1.0,1,0,1,3,0,0,0,0,14,15.2,H,1,1,casey-benson-1,Casey Benson,2017
+29,103,29,2017-02-22,Oregon,@,California,REG (Conf),W 68-65,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,3,0,0.1,A,1,1,casey-benson-1,Casey Benson,2017
+30,104,30,2017-02-25,Oregon,@,Stanford,REG (Conf),W 75-73,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,2,1,0,1,3,0,-0.2,A,1,1,casey-benson-1,Casey Benson,2017
+31,105,31,2017-03-04,Oregon,@,Oregon State,REG (Conf),W 80-59,,29,5,9,0.556,3,6,0.5,2,3,0.667,0.722,1,1,1.0,0,4,4,3,0,0,1,0,14,12.0,A,1,1,casey-benson-1,Casey Benson,2017
+32,106,32,2017-03-09,Oregon,N,Arizona State,CTOURN,W 80-57,,22,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,2,0.5,0,2,2,1,0,0,0,2,4,1.7,N,1,0,casey-benson-1,Casey Benson,2017
+33,107,33,2017-03-10,Oregon,N,California,CTOURN,W 73-65,,25,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,0,2,2,1,1,0,2,0,3,1.6,N,1,0,casey-benson-1,Casey Benson,2017
+34,108,34,2017-03-11,Oregon,N,Arizona,CTOURN,L 80-83,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-2.6,N,0,0,casey-benson-1,Casey Benson,2017
+35,109,35,2017-03-17,Oregon,N,Iona,ROUND-64,W 93-77,,19,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,0,1,2,0,0,1,1,7,4.0,N,1,0,casey-benson-1,Casey Benson,2017
+36,110,36,2017-03-19,Oregon,N,Rhode Island,ROUND-32,W 75-72,,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,3,0,0,3,4,5.2,N,1,0,casey-benson-1,Casey Benson,2017
+37,111,37,2017-03-23,Oregon,N,Michigan,ROUND-16,W 69-68,,24,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,0,3,3,0,2,1,1,0,5,3.5,N,1,0,casey-benson-1,Casey Benson,2017
+38,112,38,2017-03-25,Oregon,N,Kansas,ROUND-8,W 74-60,,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,0,0,0,1,1,4,0.5,N,1,0,casey-benson-1,Casey Benson,2017
+39,113,39,2017-04-01,Oregon,N,North Carolina,NATIONAL-SEMI,L 76-77,,21,1,2,0.5,1,2,0.5,0,0,,0.75,2,3,0.667,1,2,3,1,1,0,2,1,5,4.2,N,0,0,casey-benson-1,Casey Benson,2017

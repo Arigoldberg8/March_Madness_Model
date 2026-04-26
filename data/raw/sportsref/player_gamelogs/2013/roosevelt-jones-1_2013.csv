@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2012-11-10,Butler,,Elon,REG (Non-Conf),W 74-59,*,29,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,4,5,9,6,1,0,3,1,6,8.4,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+2,38,2,2012-11-13,Butler,@,Xavier,REG (Non-Conf),L 47-62,*,29,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,6,7,0,1,0,5,3,3,-1.8,A,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+3,39,3,2012-11-19,Butler,N,Marquette,REG (Non-Conf),W 72-71,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,2,5,0.4,1,1,2,4,0,0,3,4,12,6.4,N,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+4,40,4,2012-11-20,Butler,N,North Carolina,REG (Non-Conf),W 82-71,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,1,2,3,4,0,0,1,4,6,4.8,N,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+5,41,5,2012-11-21,Butler,N,Illinois,REG (Non-Conf),L 61-78,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,1,3,0.333,2,2,4,3,0,0,2,1,7,4.9,N,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+6,42,6,2012-11-27,Butler,,Hanover,REG (Non-Conf),W 97-73,*,23,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,1,7,8,3,2,0,3,2,10,10.2,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+7,43,7,2012-12-01,Butler,,Ball State,REG (Non-Conf),W 67-53,*,29,4,11,0.364,0,0,,4,11,0.364,0.364,1,2,0.5,3,1,4,2,3,1,0,3,9,8.8,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+8,44,8,2012-12-05,Butler,,IUPUI,REG (Non-Conf),W 87-55,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,0,0,4,5,0,0,2,3,7.9,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+9,45,9,2012-12-08,Butler,@,Northwestern,REG (Non-Conf),W 74-65,*,36,4,7,0.571,0,0,,4,7,0.571,0.571,2,5,0.4,1,4,5,3,1,0,4,1,10,6.1,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+10,46,10,2012-12-15,Butler,N,Indiana,REG (Non-Conf),W 88-86 (OT),*,29,6,10,0.6,0,0,,6,10,0.6,0.6,4,6,0.667,3,9,12,7,0,2,2,5,16,17.7,N,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+11,47,11,2012-12-22,Butler,,Evansville,REG (Non-Conf),W 75-67,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,0,2,2,0,0,1,4,4,12,5.5,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+12,48,12,2012-12-29,Butler,@,Vanderbilt,REG (Non-Conf),W 68-49,*,24,2,6,0.333,0,0,,2,6,0.333,0.333,2,4,0.5,3,3,6,3,0,0,0,3,6,5.7,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+13,49,13,2013-01-02,Butler,,Pennsylvania,REG (Non-Conf),W 70-57,*,29,10,15,0.667,0,0,,10,15,0.667,0.667,4,7,0.571,3,3,6,3,2,1,2,3,24,20.9,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+14,50,14,2013-01-05,Butler,,New Orleans,REG (Non-Conf),W 57-44,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,5,6,0.833,3,3,6,4,0,0,5,3,11,6.5,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+15,51,15,2013-01-09,Butler,@,Saint Joseph's,REG (Conf),W 72-66,*,35,2,7,0.286,0,0,,2,7,0.286,0.286,0,2,0.0,2,3,5,6,0,0,3,4,4,1.0,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+16,52,16,2013-01-12,Butler,@,Dayton,REG (Conf),W 79-73,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,8,12,0.667,1,6,7,4,0,1,3,2,16,12.6,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+17,53,17,2013-01-16,Butler,,Richmond,REG (Conf),W 62-47,*,37,4,13,0.308,0,0,,4,13,0.308,0.308,2,3,0.667,6,6,12,4,3,0,3,3,10,9.7,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+18,54,18,2013-01-19,Butler,,Gonzaga,REG (Non-Conf),W 64-63,*,32,7,10,0.7,0,0,,7,10,0.7,0.7,6,10,0.6,3,2,5,4,1,1,7,2,20,13.6,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+19,55,19,2013-01-23,Butler,@,La Salle,REG (Conf),L 53-54,*,33,6,14,0.429,0,1,0.0,6,13,0.462,0.429,2,3,0.667,1,3,4,5,2,0,3,1,14,9.9,A,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+20,56,20,2013-01-26,Butler,,Temple,REG (Conf),W 83-71,*,36,3,5,0.6,0,0,,3,5,0.6,0.6,3,5,0.6,0,3,3,3,0,1,4,2,9,4.8,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+21,57,21,2013-01-31,Butler,@,Saint Louis,REG (Conf),L 58-75,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,3,2,5,4,1,0,4,3,7,3.4,A,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+22,58,22,2013-02-02,Butler,,Rhode Island,REG (Conf),W 75-68,*,34,5,12,0.417,0,0,,5,12,0.417,0.417,8,8,1.0,3,3,6,4,1,0,3,4,18,13.8,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+23,59,23,2013-02-06,Butler,,St. Bonaventure,REG (Conf),W 77-58,*,14,2,7,0.286,0,0,,2,7,0.286,0.286,0,1,0.0,1,2,3,2,0,0,0,1,4,1.8,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+24,60,24,2013-02-09,Butler,@,George Washington,REG (Conf),W 59-56,*,33,5,10,0.5,0,0,,5,10,0.5,0.5,2,9,0.222,2,5,7,0,0,2,4,4,12,2.9,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+25,61,25,2013-02-13,Butler,,Charlotte,REG (Conf),L 67-71,*,37,7,13,0.538,0,0,,7,13,0.538,0.538,3,6,0.5,4,5,9,2,1,1,1,5,17,13.9,H,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+26,62,26,2013-02-16,Butler,@,Fordham,REG (Conf),W 68-63,*,38,5,9,0.556,0,0,,5,9,0.556,0.556,3,7,0.429,6,2,8,3,0,0,1,2,13,12.2,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+27,63,27,2013-02-19,Butler,,Duquesne,REG (Conf),W 68-49,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,4,4,8,5,0,0,3,1,6,6.4,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+28,64,28,2013-02-22,Butler,,Saint Louis,REG (Conf),L 61-65,*,33,3,8,0.375,0,0,,3,8,0.375,0.375,7,11,0.636,2,4,6,3,1,4,1,5,13,12.5,H,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+29,65,29,2013-03-02,Butler,@,VCU,REG (Conf),L 52-84,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,2,5,0.4,3,3,6,2,0,0,4,4,14,7.0,A,0,1,roosevelt-jones-1,Roosevelt Jones,2013
+30,66,30,2013-03-07,Butler,@,Massachusetts,REG (Conf),W 73-62,*,37,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,3,4,7,8,0,1,2,1,6,10.8,A,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+31,67,31,2013-03-09,Butler,,Xavier,REG (Conf),W 67-62,*,39,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,5,5,4,2,0,5,2,3,1.4,H,1,1,roosevelt-jones-1,Roosevelt Jones,2013
+32,68,32,2013-03-14,Butler,N,Dayton,CTOURN,W 73-67,*,35,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,1,1,6,0,0,3,2,4,0.6,N,1,0,roosevelt-jones-1,Roosevelt Jones,2013
+33,69,33,2013-03-15,Butler,N,La Salle,CTOURN,W 69-58,*,35,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,5,6,3,1,0,7,4,10,3.1,N,1,0,roosevelt-jones-1,Roosevelt Jones,2013
+34,70,34,2013-03-16,Butler,N,Saint Louis,CTOURN,L 56-67,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,1,7,8,1,2,1,2,5,8,5.5,N,0,0,roosevelt-jones-1,Roosevelt Jones,2013
+35,71,35,2013-03-21,Butler,N,Bucknell,ROUND-64,W 68-56,*,36,6,12,0.5,0,0,,6,12,0.5,0.5,2,3,0.667,3,2,5,4,0,0,1,1,14,11.7,N,1,0,roosevelt-jones-1,Roosevelt Jones,2013
+36,72,36,2013-03-23,Butler,N,Marquette,ROUND-32,L 72-74,*,38,3,11,0.273,0,0,,3,11,0.273,0.273,2,4,0.5,2,1,3,3,1,0,5,3,8,-0.7,N,0,0,roosevelt-jones-1,Roosevelt Jones,2013

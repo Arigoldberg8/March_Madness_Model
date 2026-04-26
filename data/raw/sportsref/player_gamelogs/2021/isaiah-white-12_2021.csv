@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2020-11-25,Southern California,,California Baptist,REG (Non-Conf),W 95-87 (OT),,18,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,4,3,7,0,0,0,2,0,10,8.7,H,1,1,isaiah-white-12,Isaiah White,2021
+2,56,2,2020-11-28,Southern California,,Montana,REG (Non-Conf),W 76-62,,14,1,1,1.0,0,0,,1,1,1.0,1.0,8,10,0.8,0,1,1,0,0,0,1,5,10,6.2,H,1,1,isaiah-white-12,Isaiah White,2021
+3,57,3,2020-12-01,Southern California,N,Brigham Young,REG (Non-Conf),W 79-53,,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,3,1.0,0,1,1,3,0,0,0,4,5,2.7,N,1,1,isaiah-white-12,Isaiah White,2021
+4,58,4,2020-12-03,Southern California,N,Connecticut,REG (Non-Conf),L 58-61,*,14,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,0,2,0,-2.7,N,0,1,isaiah-white-12,Isaiah White,2021
+5,59,5,2020-12-08,Southern California,,UC Irvine,REG (Non-Conf),W 91-56,,20,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,7,0.429,1,4,5,2,3,1,0,0,8,12.1,H,1,1,isaiah-white-12,Isaiah White,2021
+6,60,6,2020-12-29,Southern California,,Santa Clara,REG (Non-Conf),W 86-63,*,23,3,8,0.375,0,2,0.0,3,6,0.5,0.375,3,4,0.75,3,1,4,1,2,0,3,4,9,4.7,H,1,1,isaiah-white-12,Isaiah White,2021
+7,61,7,2020-12-31,Southern California,,Colorado,REG (Conf),L 62-72,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,0,2,0,0,0,2,3.9,H,0,1,isaiah-white-12,Isaiah White,2021
+8,62,8,2021-01-02,Southern California,,Utah,REG (Conf),W 64-46,*,20,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,3,0.333,1,4,5,1,1,1,0,5,12,10.6,H,1,1,isaiah-white-12,Isaiah White,2021
+9,63,9,2021-01-07,Southern California,@,Arizona,REG (Conf),W 87-73,*,30,7,10,0.7,3,5,0.6,4,5,0.8,0.85,5,6,0.833,0,5,5,1,2,0,1,2,22,19.8,A,1,1,isaiah-white-12,Isaiah White,2021
+10,64,10,2021-01-09,Southern California,@,Arizona State,REG (Conf),W 73-64,*,28,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,4,0.75,2,2,4,0,1,0,3,3,7,3.4,A,1,1,isaiah-white-12,Isaiah White,2021
+11,65,11,2021-01-12,Southern California,,UC Riverside,REG (Non-Conf),W 67-62 (OT),*,32,2,10,0.2,1,4,0.25,1,6,0.167,0.25,1,3,0.333,2,2,4,0,0,0,0,2,6,0.2,H,1,1,isaiah-white-12,Isaiah White,2021
+12,66,12,2021-01-14,Southern California,,Washington,REG (Conf),W 95-68,*,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,7,0.714,1,3,4,3,1,0,1,2,9,9.1,H,1,1,isaiah-white-12,Isaiah White,2021
+13,67,13,2021-01-16,Southern California,,Washington State,REG (Conf),W 85-77,*,28,4,6,0.667,2,2,1.0,2,4,0.5,0.833,3,4,0.75,1,1,2,0,1,0,1,2,13,10.2,H,1,1,isaiah-white-12,Isaiah White,2021
+14,68,14,2021-01-19,Southern California,@,Oregon State,REG (Conf),L 56-58,*,17,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,1,2,2,1,1,3,3,5,1.5,A,0,1,isaiah-white-12,Isaiah White,2021
+15,69,15,2021-01-23,Southern California,@,California,REG (Conf),W 76-68,*,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,2,2,1,1,0,1,4,4,1.7,A,1,1,isaiah-white-12,Isaiah White,2021
+16,70,16,2021-01-28,Southern California,,Oregon State,REG (Conf),W 75-62,*,24,4,7,0.571,1,1,1.0,3,6,0.5,0.643,2,2,1.0,3,2,5,1,1,0,1,1,11,10.7,H,1,1,isaiah-white-12,Isaiah White,2021
+17,71,17,2021-02-02,Southern California,@,Stanford,REG (Conf),W 72-66,*,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,1,0,1,0,0,0,2,2,3,-1.2,A,1,1,isaiah-white-12,Isaiah White,2021
+18,72,18,2021-02-06,Southern California,,UCLA,REG (Conf),W 66-48,*,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,1,2,1,0,0,2,2,2,-2.2,H,1,1,isaiah-white-12,Isaiah White,2021
+19,73,19,2021-02-11,Southern California,@,Washington,REG (Conf),W 69-54,*,23,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,3,3,6,1,2,0,2,1,9,9.3,A,1,1,isaiah-white-12,Isaiah White,2021
+20,74,20,2021-02-13,Southern California,@,Washington State,REG (Conf),W 76-65,*,22,2,5,0.4,2,3,0.667,0,2,0.0,0.6,1,2,0.5,2,1,3,0,0,0,0,1,7,5.2,A,1,1,isaiah-white-12,Isaiah White,2021
+21,75,21,2021-02-17,Southern California,,Arizona State,REG (Conf),W 89-71,*,14,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,H,1,1,isaiah-white-12,Isaiah White,2021
+22,76,22,2021-02-20,Southern California,,Arizona,REG (Conf),L 72-81,*,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,2,3,1,0,1,0,3,4,2.8,H,0,1,isaiah-white-12,Isaiah White,2021
+23,77,23,2021-02-22,Southern California,,Oregon,REG (Conf),W 72-58,*,22,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,3,2,5,1,0,1,4,2,7,2.9,H,1,1,isaiah-white-12,Isaiah White,2021
+24,78,24,2021-02-25,Southern California,@,Colorado,REG (Conf),L 62-80,*,24,3,7,0.429,2,3,0.667,1,4,0.25,0.571,1,2,0.5,1,4,5,2,1,0,0,1,9,8.8,A,0,1,isaiah-white-12,Isaiah White,2021
+25,79,25,2021-02-27,Southern California,@,Utah,REG (Conf),L 61-71,*,26,4,9,0.444,1,2,0.5,3,7,0.429,0.5,0,0,,2,4,6,1,4,0,0,1,9,11.2,A,0,1,isaiah-white-12,Isaiah White,2021
+26,80,26,2021-03-03,Southern California,,Stanford,REG (Conf),W 79-42,*,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,3,0,1,0,0,1.6,H,1,1,isaiah-white-12,Isaiah White,2021
+27,81,28,2021-03-11,Southern California,N,Utah,CTOURN,W 91-85 (2OT),*,26,6,10,0.6,1,4,0.25,5,6,0.833,0.65,1,2,0.5,1,4,5,1,0,0,3,5,14,6.6,N,1,0,isaiah-white-12,Isaiah White,2021
+28,82,29,2021-03-12,Southern California,N,Colorado,CTOURN,L 70-72,*,21,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,3,3,0,0,0,2,2,4,0.1,N,0,0,isaiah-white-12,Isaiah White,2021
+29,83,30,2021-03-20,Southern California,N,Drake,ROUND-64,W 72-56,*,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,2,1,3,0,2,1,0,0,4,5.3,N,1,0,isaiah-white-12,Isaiah White,2021
+30,84,31,2021-03-22,Southern California,N,Kansas,ROUND-32,W 85-51,*,21,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,3,0.0,0,0,0,1,0,0,1,2,13,7.8,N,1,0,isaiah-white-12,Isaiah White,2021
+31,85,32,2021-03-28,Southern California,N,Oregon,ROUND-16,W 82-68,*,32,8,10,0.8,4,5,0.8,4,5,0.8,1.0,2,3,0.667,1,4,5,1,3,0,0,2,22,22.6,N,1,0,isaiah-white-12,Isaiah White,2021
+32,86,33,2021-03-30,Southern California,N,Gonzaga,ROUND-8,L 66-85,*,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,3,0,3,0,0,0,2,1,2,-1.5,N,0,0,isaiah-white-12,Isaiah White,2021

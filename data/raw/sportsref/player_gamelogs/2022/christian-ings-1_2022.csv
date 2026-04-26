@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,53,1,2021-11-09,Norfolk State,,Bridgewater (VA),REG (Non-Conf),W 79-56,*,31,6,10,0.6,0,1,0.0,6,9,0.667,0.6,2,5,0.4,0,3,3,1,1,0,2,1,14,8.4,H,1,1,christian-ings-1,Christian Ings,2022
+2,54,2,2021-11-11,Norfolk State,,Penn St. Wilkes-Barre,REG (Non-Conf),W 111-55,*,22,5,8,0.625,1,1,1.0,4,7,0.571,0.688,3,4,0.75,0,0,0,4,3,0,1,1,14,14.4,H,1,1,christian-ings-1,Christian Ings,2022
+3,55,3,2021-11-13,Norfolk State,N,Tennessee State,REG (Non-Conf),W 66-59,*,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,5,0.2,0,1,1,1,1,0,3,3,3,-3.2,N,1,1,christian-ings-1,Christian Ings,2022
+4,56,4,2021-11-16,Norfolk State,,William & Mary,REG (Non-Conf),W 91-74,*,35,12,15,0.8,2,2,1.0,10,13,0.769,0.867,5,5,1.0,2,2,4,4,2,1,1,1,31,31.4,H,1,1,christian-ings-1,Christian Ings,2022
+5,57,5,2021-11-19,Norfolk State,@,Bowling Green,REG (Non-Conf),W 90-84,*,38,3,12,0.25,0,0,,3,12,0.25,0.25,6,9,0.667,1,2,3,5,1,0,0,2,12,8.6,A,1,1,christian-ings-1,Christian Ings,2022
+6,58,6,2021-11-21,Norfolk State,@,Xavier,REG (Non-Conf),L 48-88,*,25,6,15,0.4,0,2,0.0,6,13,0.462,0.4,0,1,0.0,1,3,4,1,4,0,1,4,12,7.2,A,0,1,christian-ings-1,Christian Ings,2022
+7,59,7,2021-11-23,Norfolk State,,Regent,REG (Non-Conf),W 95-20,*,8,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,1,0,1,0,3,1.3,H,1,1,christian-ings-1,Christian Ings,2022
+8,60,8,2021-11-28,Norfolk State,N,Hampton,REG (Non-Conf),W 70-61,*,23,3,10,0.3,0,0,,3,10,0.3,0.3,0,0,,1,3,4,1,1,0,6,3,6,-3.7,N,1,1,christian-ings-1,Christian Ings,2022
+9,61,9,2021-11-29,Norfolk State,N,Grambling State,REG (Non-Conf),W 70-63,*,27,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,1,0.0,0,3,3,5,1,0,2,2,7,5.5,N,1,1,christian-ings-1,Christian Ings,2022
+10,62,10,2021-12-01,Norfolk State,@,UNC Wilmington,REG (Non-Conf),W 74-69,*,30,4,15,0.267,2,4,0.5,2,11,0.182,0.333,4,6,0.667,0,4,4,6,2,1,1,3,14,10.2,A,1,1,christian-ings-1,Christian Ings,2022
+11,63,11,2021-12-04,Norfolk State,@,Hampton,REG (Non-Conf),L 57-58,*,19,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,1,0.0,0,1,1,1,0,0,0,0,2,-2.6,A,0,1,christian-ings-1,Christian Ings,2022
+12,64,12,2021-12-11,Norfolk State,@,Wichita State,REG (Non-Conf),L 58-71,*,34,4,8,0.5,1,1,1.0,3,7,0.429,0.563,2,2,1.0,0,0,0,4,0,0,3,0,11,6.8,A,0,1,christian-ings-1,Christian Ings,2022
+13,65,13,2021-12-21,Norfolk State,@,New Mexico,REG (Non-Conf),L 54-68,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,3,2,5,1,0,0,3,1,8,4.3,A,0,1,christian-ings-1,Christian Ings,2022
+14,66,14,2022-01-12,Norfolk State,,Delaware State,REG (Conf),W 80-51,*,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,3,0,0,0,4,2,0.8,H,1,1,christian-ings-1,Christian Ings,2022
+15,67,17,2022-01-22,Norfolk State,,Coppin State,REG (Conf),W 84-77,*,29,2,10,0.2,1,2,0.5,1,8,0.125,0.25,4,4,1.0,0,0,0,2,0,0,1,2,9,2.4,H,1,1,christian-ings-1,Christian Ings,2022
+16,68,18,2022-01-24,Norfolk State,,Morgan State,REG (Conf),W 82-62,*,28,7,9,0.778,2,2,1.0,5,7,0.714,0.889,2,2,1.0,1,2,3,4,0,0,2,0,18,16.6,H,1,1,christian-ings-1,Christian Ings,2022
+17,69,19,2022-01-29,Norfolk State,@,South Carolina State,REG (Conf),W 87-69,*,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,4,1.0,1,2,3,2,1,0,2,1,12,8.6,A,1,1,christian-ings-1,Christian Ings,2022
+18,70,20,2022-01-31,Norfolk State,@,North Carolina Central,REG (Conf),L 67-70,*,28,1,6,0.167,0,0,,1,6,0.167,0.167,0,1,0.0,3,3,6,4,0,0,4,4,2,-2.0,A,0,1,christian-ings-1,Christian Ings,2022
+19,71,21,2022-02-12,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 70-63,*,27,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,2,0.5,1,0,1,1,1,0,2,1,10,7.7,H,1,1,christian-ings-1,Christian Ings,2022
+20,72,22,2022-02-14,Norfolk State,@,Delaware State,REG (Conf),W 69-66,*,21,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,4,5,1,0,0,0,1,6,5.2,A,1,1,christian-ings-1,Christian Ings,2022
+21,73,27,2022-03-03,Norfolk State,,Howard,REG (Conf),W 83-61,,21,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,5,0.8,0,2,2,3,1,0,2,1,11,6.8,H,1,1,christian-ings-1,Christian Ings,2022
+22,74,28,2022-03-09,Norfolk State,N,Delaware State,CTOURN,W 74-66,,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,5,6,0.833,2,1,3,6,1,0,4,1,8,8.4,N,1,0,christian-ings-1,Christian Ings,2022
+23,75,29,2022-03-11,Norfolk State,N,Morgan State,CTOURN,W 72-63,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,2,1,1,-3.2,N,1,0,christian-ings-1,Christian Ings,2022
+24,76,30,2022-03-12,Norfolk State,N,Coppin State,CTOURN,W 72-57,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,0,2,2.3,N,1,0,christian-ings-1,Christian Ings,2022
+25,77,31,2022-03-17,Norfolk State,N,Baylor,ROUND-64,L 49-85,*,28,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,1,2,3,2,2,0,2,2,5,2.1,N,0,0,christian-ings-1,Christian Ings,2022

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2015-11-13,Kentucky,,Albany (NY),REG (Non-Conf),W 78-65,*,27,5,7,0.714,0,0,5,7,0.714,0.714,2,7,0.286,5,3,8,3,0,3,1,2,12,13.9,H,1,1,marcus-lee-2,Marcus Lee,2016
+2,66,2,2015-11-14,Kentucky,,NJIT,REG (Non-Conf),W 87-57,*,20,4,8,0.5,0,0,4,8,0.5,0.5,2,2,1.0,7,1,8,0,1,3,0,3,10,13.1,H,1,1,marcus-lee-2,Marcus Lee,2016
+3,67,3,2015-11-17,Kentucky,N,Duke,REG (Non-Conf),W 74-63,*,22,5,10,0.5,0,0,5,10,0.5,0.5,0,0,,5,5,10,1,0,2,1,5,10,9.1,N,1,1,marcus-lee-2,Marcus Lee,2016
+4,68,4,2015-11-20,Kentucky,,Wright State,REG (Non-Conf),W 78-63,*,23,0,1,0.0,0,0,0,1,0.0,0.0,0,1,0.0,1,6,7,0,1,0,0,0,0,2.4,H,1,1,marcus-lee-2,Marcus Lee,2016
+5,69,5,2015-11-24,Kentucky,,Boston University,REG (Non-Conf),W 82-62,*,18,4,4,1.0,0,0,4,4,1.0,1.0,1,4,0.25,2,0,2,0,1,1,2,3,9,6.5,H,1,1,marcus-lee-2,Marcus Lee,2016
+6,70,6,2015-11-27,Kentucky,N,South Florida,REG (Non-Conf),W 84-63,*,19,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,3,3,6,0,1,0,0,2,4,4.1,N,1,1,marcus-lee-2,Marcus Lee,2016
+7,71,7,2015-11-30,Kentucky,,Illinois State,REG (Non-Conf),W 75-63,,30,6,8,0.75,0,0,6,8,0.75,0.75,1,2,0.5,7,5,12,0,0,2,1,3,13,15.0,H,1,1,marcus-lee-2,Marcus Lee,2016
+8,72,8,2015-12-03,Kentucky,@,UCLA,REG (Non-Conf),L 77-87,*,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,1,2,1.9,A,0,1,marcus-lee-2,Marcus Lee,2016
+9,73,9,2015-12-09,Kentucky,,Eastern Kentucky,REG (Non-Conf),W 88-67,,25,5,5,1.0,0,0,5,5,1.0,1.0,1,1,1.0,3,5,8,0,0,5,4,2,11,11.8,H,1,1,marcus-lee-2,Marcus Lee,2016
+10,74,10,2015-12-12,Kentucky,,Arizona State,REG (Non-Conf),W 72-58,,29,6,8,0.75,0,0,6,8,0.75,0.75,2,5,0.4,2,5,7,0,1,5,1,2,14,15.2,H,1,1,marcus-lee-2,Marcus Lee,2016
+11,75,11,2015-12-19,Kentucky,N,Ohio State,REG (Non-Conf),L 67-74,,30,4,7,0.571,0,0,4,7,0.571,0.571,4,5,0.8,2,7,9,0,2,2,2,5,12,11.2,N,0,1,marcus-lee-2,Marcus Lee,2016
+12,76,12,2015-12-26,Kentucky,,Louisville,REG (Non-Conf),W 75-73,*,30,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,4,3,7,0,1,1,1,4,8,8.9,H,1,1,marcus-lee-2,Marcus Lee,2016
+13,77,13,2016-01-02,Kentucky,,Ole Miss,REG (Conf),W 83-61,*,28,6,9,0.667,0,0,6,9,0.667,0.667,1,5,0.2,3,5,8,0,0,2,0,2,13,11.7,H,1,1,marcus-lee-2,Marcus Lee,2016
+14,78,14,2016-01-05,Kentucky,@,Louisiana State,REG (Conf),L 67-85,*,5,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,2,5,0,-4.8,A,0,1,marcus-lee-2,Marcus Lee,2016
+15,79,15,2016-01-09,Kentucky,@,Alabama,REG (Conf),W 77-61,*,24,4,5,0.8,0,0,4,5,0.8,0.8,0,5,0.0,5,6,11,0,0,1,2,4,8,6.5,A,1,1,marcus-lee-2,Marcus Lee,2016
+16,80,16,2016-01-12,Kentucky,,Mississippi State,REG (Conf),W 80-74,*,24,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,7,9,0,0,2,3,5,2,0.9,H,1,1,marcus-lee-2,Marcus Lee,2016
+17,81,17,2016-01-16,Kentucky,@,Auburn,REG (Conf),L 70-75,*,19,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,2,2,4,1,0,2,0,3,3,3.8,A,0,1,marcus-lee-2,Marcus Lee,2016
+18,82,18,2016-01-21,Kentucky,@,Arkansas,REG (Conf),W 80-66,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,1,0,1,5,4,1.7,A,1,1,marcus-lee-2,Marcus Lee,2016
+19,83,19,2016-01-23,Kentucky,,Vanderbilt,REG (Conf),W 76-57,,17,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,4,5,0,1,1,0,3,6,6.1,H,1,1,marcus-lee-2,Marcus Lee,2016
+20,84,20,2016-01-27,Kentucky,,Missouri,REG (Conf),W 88-54,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,1,3,0,0,3,1,2,2,3.0,H,1,1,marcus-lee-2,Marcus Lee,2016
+21,85,21,2016-01-30,Kentucky,@,Kansas,REG (Non-Conf),L 84-90 (OT),,12,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,1,3,0,0,2,1,5,4,3.5,A,0,1,marcus-lee-2,Marcus Lee,2016
+22,86,22,2016-02-02,Kentucky,@,Tennessee,REG (Conf),L 77-84,,20,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,2,3,0,0,1,0,3,2,2.5,A,0,1,marcus-lee-2,Marcus Lee,2016
+23,87,23,2016-02-06,Kentucky,,Florida,REG (Conf),W 80-61,*,26,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,5,6,1,0,2,0,5,4,5.3,H,1,1,marcus-lee-2,Marcus Lee,2016
+24,88,24,2016-02-09,Kentucky,,Georgia,REG (Conf),W 82-48,*,16,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,1,2,0,0,1,0,2,4,3.9,H,1,1,marcus-lee-2,Marcus Lee,2016
+25,89,25,2016-02-13,Kentucky,@,South Carolina,REG (Conf),W 89-62,*,36,5,9,0.556,0,0,5,9,0.556,0.556,1,1,1.0,6,7,13,0,0,2,2,2,11,11.6,A,1,1,marcus-lee-2,Marcus Lee,2016
+26,90,26,2016-02-18,Kentucky,,Tennessee,REG (Conf),W 80-70,*,17,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,3,4,0,0,0,0,0,4,4.3,H,1,1,marcus-lee-2,Marcus Lee,2016
+27,91,27,2016-02-20,Kentucky,@,Texas A&M,REG (Conf),L 77-79 (OT),*,31,4,5,0.8,0,0,4,5,0.8,0.8,0,1,0.0,1,4,5,0,0,3,2,5,8,5.7,A,0,1,marcus-lee-2,Marcus Lee,2016
+28,92,28,2016-02-23,Kentucky,,Alabama,REG (Conf),W 78-53,*,31,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,6,6,12,2,0,1,1,2,6,10.0,H,1,1,marcus-lee-2,Marcus Lee,2016
+29,93,29,2016-02-27,Kentucky,@,Vanderbilt,REG (Conf),L 62-74,*,30,2,2,1.0,0,0,2,2,1.0,1.0,5,9,0.556,2,4,6,1,0,3,0,4,9,10.6,A,0,1,marcus-lee-2,Marcus Lee,2016
+30,94,30,2016-03-01,Kentucky,@,Florida,REG (Conf),W 88-79,,26,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,7,8,0,0,3,1,3,5,6.7,A,1,1,marcus-lee-2,Marcus Lee,2016
+31,95,31,2016-03-05,Kentucky,,Louisiana State,REG (Conf),W 94-77,,21,6,7,0.857,0,0,6,7,0.857,0.857,0,3,0.0,6,4,10,0,0,0,2,3,12,10.5,H,1,1,marcus-lee-2,Marcus Lee,2016
+32,96,32,2016-03-11,Kentucky,N,Alabama,CTOURN,W 85-59,,18,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,1,0,0,2,2,2,1.5,N,1,0,marcus-lee-2,Marcus Lee,2016
+33,97,33,2016-03-12,Kentucky,N,Georgia,CTOURN,W 93-80,,28,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,0,3,2,0.8,N,1,0,marcus-lee-2,Marcus Lee,2016
+34,98,34,2016-03-13,Kentucky,N,Texas A&M,CTOURN,W 82-77 (OT),,18,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,2,0,4,2,1.8,N,1,0,marcus-lee-2,Marcus Lee,2016
+35,99,35,2016-03-17,Kentucky,N,Stony Brook,ROUND-64,W 85-57,,14,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,0,3,3,0,2,1,0,3,7,7.7,N,1,0,marcus-lee-2,Marcus Lee,2016
+36,100,36,2016-03-19,Kentucky,N,Indiana,ROUND-32,L 67-73,,28,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,3,4,0,0,2,2,2,4,2.9,N,0,0,marcus-lee-2,Marcus Lee,2016

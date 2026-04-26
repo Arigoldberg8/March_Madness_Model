@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2023-11-06,Tennessee,,Tennessee Tech,REG (Non-Conf),W 80-42,,12,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,5,1,0,0,1,3,5.3,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+2,67,2,2023-11-10,Tennessee,@,Wisconsin,REG (Non-Conf),W 80-70,,19,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,1,2,3,3,0,0,3,2,5,1.5,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+3,68,3,2023-11-14,Tennessee,,Wofford,REG (Non-Conf),W 82-61,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,2,0,0,1,2,3,-0.2,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+4,69,4,2023-11-20,Tennessee,N,Syracuse,REG (Non-Conf),W 73-56,,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,5,6,0.833,0,1,1,3,1,0,6,1,9,2.9,N,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+5,70,5,2023-11-21,Tennessee,N,Purdue,REG (Non-Conf),L 67-71,,28,2,11,0.182,1,7,0.143,1,4,0.25,0.227,0,0,,1,3,4,3,2,0,3,2,5,0.0,N,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+6,71,6,2023-11-22,Tennessee,N,Kansas,REG (Non-Conf),L 60-69,,21,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,0,0,0,2,0,0,2,2,0,-5.6,N,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+7,72,7,2023-11-29,Tennessee,@,North Carolina,REG (Non-Conf),L 92-100,*,28,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,3,0.333,0,3,3,7,0,0,2,3,9,6.4,A,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+8,73,8,2023-12-05,Tennessee,,George Mason,REG (Non-Conf),W 87-66,*,28,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,6,2,0,1,0,6,8.1,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+9,74,9,2023-12-09,Tennessee,,Illinois,REG (Non-Conf),W 86-79,*,30,2,5,0.4,1,2,0.5,1,3,0.333,0.5,6,6,1.0,0,0,0,4,1,0,0,1,11,11.7,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+10,75,10,2023-12-12,Tennessee,,Georgia Southern,REG (Non-Conf),W 74-56,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,3,3,7,4,0,4,0,6,8.1,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+11,76,11,2023-12-16,Tennessee,N,NC State,REG (Non-Conf),W 79-70,*,39,7,17,0.412,4,8,0.5,3,9,0.333,0.529,2,4,0.5,0,3,3,8,4,0,3,2,20,16.8,N,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+12,77,12,2023-12-21,Tennessee,,Tarleton State,REG (Non-Conf),W 65-46,*,34,4,8,0.5,1,4,0.25,3,4,0.75,0.563,4,5,0.8,0,2,2,5,1,0,1,0,13,12.7,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+13,78,13,2024-01-02,Tennessee,,Norfolk State,REG (Non-Conf),W 87-50,*,27,6,12,0.5,5,10,0.5,1,2,0.5,0.708,0,0,,0,0,0,4,4,0,0,3,17,16.6,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+14,79,14,2024-01-06,Tennessee,,Ole Miss,REG (Conf),W 90-64,*,37,6,13,0.462,4,11,0.364,2,2,1.0,0.615,1,1,1.0,2,3,5,10,1,1,2,1,17,18.9,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+15,80,15,2024-01-10,Tennessee,@,Mississippi State,REG (Conf),L 72-77,*,37,9,15,0.6,4,9,0.444,5,6,0.833,0.733,4,5,0.8,0,2,2,7,3,1,3,2,26,24.1,A,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+16,81,16,2024-01-13,Tennessee,@,Georgia,REG (Conf),W 85-79,*,38,5,10,0.5,1,6,0.167,4,4,1.0,0.55,7,10,0.7,0,5,5,5,2,0,6,0,18,12.8,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+17,82,17,2024-01-16,Tennessee,,Florida,REG (Conf),W 85-66,*,34,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,3,0.667,0,3,3,4,2,0,3,0,7,8.7,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+18,83,18,2024-01-20,Tennessee,,Alabama,REG (Conf),W 91-71,*,32,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,1,0.0,1,3,4,6,4,0,0,1,8,11.9,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+19,84,19,2024-01-27,Tennessee,@,Vanderbilt,REG (Conf),W 75-62,*,36,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,3,0.667,1,3,4,6,1,0,3,1,10,8.6,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+20,85,20,2024-01-30,Tennessee,,South Carolina,REG (Conf),L 59-63,*,33,0,6,0.0,0,4,0.0,0,2,0.0,0.0,2,4,0.5,0,1,1,3,0,0,2,0,2,-2.6,H,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+21,86,21,2024-02-03,Tennessee,@,Kentucky,REG (Conf),W 103-92,*,33,8,11,0.727,3,6,0.5,5,5,1.0,0.864,7,10,0.7,1,1,2,13,3,0,2,2,26,30.6,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+22,87,22,2024-02-07,Tennessee,,Louisiana State,REG (Conf),W 88-68,*,36,6,9,0.667,3,6,0.5,3,3,1.0,0.833,2,2,1.0,0,4,4,9,5,0,3,1,17,22.2,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+23,88,23,2024-02-10,Tennessee,@,Texas A&M,REG (Conf),L 69-85,*,40,5,15,0.333,1,8,0.125,4,7,0.571,0.367,4,7,0.571,1,5,6,6,4,0,3,3,15,11.5,A,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+24,89,24,2024-02-14,Tennessee,@,Arkansas,REG (Conf),W 92-63,*,29,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,1,2,3,6,2,0,3,1,9,9.1,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+25,90,25,2024-02-17,Tennessee,,Vanderbilt,REG (Conf),W 88-53,*,24,5,6,0.833,4,5,0.8,1,1,1.0,1.167,0,0,,0,0,0,5,2,0,0,2,14,16.5,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+26,91,26,2024-02-20,Tennessee,@,Missouri,REG (Conf),W 72-67,*,31,3,9,0.333,2,4,0.5,1,5,0.2,0.444,2,3,0.667,0,1,1,3,1,0,2,4,10,4.3,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+27,92,27,2024-02-24,Tennessee,,Texas A&M,REG (Conf),W 86-51,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,2,1.0,0,9,9,14,4,0,0,1,9,19.3,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+28,93,28,2024-02-28,Tennessee,,Auburn,REG (Conf),W 92-84,*,38,3,9,0.333,3,3,1.0,0,6,0.0,0.5,8,12,0.667,0,4,4,9,1,0,5,0,17,13.8,H,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+29,94,29,2024-03-02,Tennessee,@,Alabama,REG (Conf),W 81-74,*,38,5,18,0.278,4,14,0.286,1,4,0.25,0.389,4,6,0.667,1,1,2,4,1,1,1,1,18,10.7,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+30,95,30,2024-03-06,Tennessee,@,South Carolina,REG (Conf),W 66-59,*,35,3,8,0.375,1,5,0.2,2,3,0.667,0.438,6,6,1.0,0,5,5,7,1,0,1,1,13,14.6,A,1,1,zakai-zeigler-1,Zakai Zeigler,2024
+31,96,31,2024-03-09,Tennessee,,Kentucky,REG (Conf),L 81-85,*,29,6,15,0.4,4,11,0.364,2,4,0.5,0.533,1,2,0.5,0,2,2,9,1,0,1,2,17,14.6,H,0,1,zakai-zeigler-1,Zakai Zeigler,2024
+32,97,32,2024-03-15,Tennessee,N,Mississippi State,CTOURN,L 56-73,*,38,7,17,0.412,4,12,0.333,3,5,0.6,0.529,2,2,1.0,0,2,2,2,0,0,4,3,20,7.7,N,0,0,zakai-zeigler-1,Zakai Zeigler,2024
+33,98,33,2024-03-21,Tennessee,N,Saint Peter's,ROUND-64,W 83-49,*,31,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,0,2,2,10,1,0,2,1,11,14.2,N,1,0,zakai-zeigler-1,Zakai Zeigler,2024
+34,99,34,2024-03-23,Tennessee,N,Texas,ROUND-32,W 62-58,*,40,2,12,0.167,1,8,0.125,1,4,0.25,0.208,1,2,0.5,0,4,4,7,3,0,4,0,6,3.1,N,1,0,zakai-zeigler-1,Zakai Zeigler,2024
+35,100,35,2024-03-29,Tennessee,N,Creighton,ROUND-16,W 82-75,*,40,6,14,0.429,3,6,0.5,3,8,0.375,0.536,3,5,0.6,0,4,4,6,0,0,1,0,18,14.2,N,1,0,zakai-zeigler-1,Zakai Zeigler,2024
+36,101,36,2024-03-31,Tennessee,N,Purdue,ROUND-8,L 66-72,*,39,3,12,0.25,1,8,0.125,2,4,0.5,0.292,2,5,0.4,1,3,4,8,0,0,1,2,9,6.0,N,0,0,zakai-zeigler-1,Zakai Zeigler,2024

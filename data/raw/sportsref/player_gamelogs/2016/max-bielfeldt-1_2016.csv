@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2015-11-13,Indiana,,Eastern Illinois,REG (Non-Conf),W 88-49,,15,3,3,1.0,0,0,,3,3,1.0,1.0,5,6,0.833,3,5,8,0,2,0,1,2,11,13.5,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+2,71,2,2015-11-16,Indiana,,Austin Peay,REG (Non-Conf),W 102-76,*,21,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,2,2,0,4,1,2,1,9,8.6,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+3,72,3,2015-11-19,Indiana,,Creighton,REG (Non-Conf),W 86-65,*,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,1,3,0,0,0,0,3,2,-0.6,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+4,73,4,2015-11-23,Indiana,N,Wake Forest,REG (Non-Conf),L 78-82,*,23,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,2,0,2,2,1,1,1,4,11,9.9,N,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+5,74,5,2015-11-24,Indiana,N,St. John's (NY),REG (Non-Conf),W 83-73,,18,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,1,0.0,1,2,3,0,1,0,1,4,9,7.1,N,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+6,75,6,2015-11-25,Indiana,N,UNLV,REG (Non-Conf),L 69-72,,19,4,5,0.8,1,1,1.0,3,4,0.75,0.9,0,1,0.0,1,3,4,0,1,0,2,2,9,6.5,N,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+7,76,7,2015-11-30,Indiana,,Alcorn State,REG (Non-Conf),W 112-70,,18,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,5,7,1,0,1,2,1,8,8.0,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+8,77,8,2015-12-02,Indiana,@,Duke,REG (Non-Conf),L 74-94,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,1,0,1,1,2,3,2.2,A,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+9,78,9,2015-12-05,Indiana,,Morehead State,REG (Non-Conf),W 92-59,,16,5,5,1.0,0,0,,5,5,1.0,1.0,2,3,0.667,3,1,4,0,0,3,0,2,12,13.8,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+10,79,10,2015-12-09,Indiana,,IPFW,REG (Non-Conf),W 90-65,,19,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,2,0.5,2,6,8,0,0,0,0,3,11,9.7,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+11,80,11,2015-12-12,Indiana,,McNeese State,REG (Non-Conf),W 105-60,,18,5,10,0.5,0,0,,5,10,0.5,0.5,1,1,1.0,2,4,6,2,2,0,1,2,11,10.2,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+12,81,12,2015-12-19,Indiana,N,Notre Dame,REG (Non-Conf),W 80-73,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,1,0,0,2,2,1.5,N,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+13,82,13,2015-12-22,Indiana,,Kennesaw State,REG (Non-Conf),W 99-72,,11,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,4,0.75,3,2,5,0,0,0,0,2,6,5.8,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+14,83,14,2015-12-30,Indiana,@,Rutgers,REG (Conf),W 79-72,,26,8,14,0.571,1,2,0.5,7,12,0.583,0.607,1,3,0.333,6,8,14,2,2,0,1,1,18,19.2,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+15,84,15,2016-01-02,Indiana,@,Nebraska,REG (Conf),W 79-69,,19,0,4,0.0,0,1,0.0,0,3,0.0,0.0,3,4,0.75,1,5,6,1,1,0,1,0,3,2.7,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+16,85,16,2016-01-05,Indiana,,Wisconsin,REG (Conf),W 59-58,,13,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,0,1,0,0,1,5,4.3,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+17,86,17,2016-01-10,Indiana,,Ohio State,REG (Conf),W 85-60,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,0,1,0,1,3,0,-0.3,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+18,87,18,2016-01-16,Indiana,@,Minnesota,REG (Conf),W 70-63,,21,5,11,0.455,0,2,0.0,5,9,0.556,0.455,0,0,,2,2,4,0,1,1,1,3,10,5.8,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+19,88,19,2016-01-19,Indiana,,Illinois,REG (Conf),W 103-69,,17,6,9,0.667,2,4,0.5,4,5,0.8,0.778,2,4,0.5,3,5,8,3,3,2,1,3,16,19.2,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+20,89,20,2016-01-23,Indiana,,Northwestern,REG (Conf),W 89-57,,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,6,6,1.0,2,2,4,0,1,0,3,2,13,9.9,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+21,90,21,2016-01-26,Indiana,@,Wisconsin,REG (Conf),L 79-82 (OT),,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,2,0,1,2,5,2,-0.6,A,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+22,91,22,2016-01-30,Indiana,,Minnesota,REG (Conf),W 74-68,,13,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,2,1,3,2,0,0,1,0,8,6.8,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+23,92,23,2016-02-02,Indiana,@,Michigan,REG (Conf),W 80-67,,18,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,1,6,7,2,1,1,0,2,5,5.0,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+24,93,24,2016-02-06,Indiana,@,Penn State,REG (Conf),L 63-68,,20,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,1,2,3,0,1,0,1,2,6,3.1,A,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+25,94,25,2016-02-11,Indiana,,Iowa,REG (Conf),W 85-78,,25,5,12,0.417,0,2,0.0,5,10,0.5,0.417,0,0,,1,3,4,1,2,2,1,2,10,7.5,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+26,95,26,2016-02-14,Indiana,@,Michigan State,REG (Conf),L 69-88,*,26,6,14,0.429,3,5,0.6,3,9,0.333,0.536,0,0,,4,6,10,2,0,0,1,2,15,11.8,A,0,1,max-bielfeldt-1,Max Bielfeldt,2016
+27,96,27,2016-02-17,Indiana,,Nebraska,REG (Conf),W 80-64,,13,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,2,3,1,0,0,3,2,6,1.5,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+28,97,28,2016-02-20,Indiana,,Purdue,REG (Conf),W 77-73,*,19,4,10,0.4,2,5,0.4,2,5,0.4,0.5,0,0,,1,5,6,1,0,0,1,4,10,4.9,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+29,98,29,2016-02-25,Indiana,@,Illinois,REG (Conf),W 74-47,,13,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,2,3,0,0,1,1,1,4,1.2,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+30,99,30,2016-03-01,Indiana,@,Iowa,REG (Conf),W 81-78,,16,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,2,0,2,1,1,0,3,2,8,5.0,A,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+31,100,31,2016-03-06,Indiana,,Maryland,REG (Conf),W 80-62,,12,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,0,1,0,1,0,6,4.6,H,1,1,max-bielfeldt-1,Max Bielfeldt,2016
+32,101,32,2016-03-11,Indiana,N,Michigan,CTOURN,L 69-72,,17,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,2,1,3,0,0,1,3,3,7,0.8,N,0,0,max-bielfeldt-1,Max Bielfeldt,2016
+33,102,33,2016-03-17,Indiana,N,Chattanooga,ROUND-64,W 99-74,,19,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,2,1.0,2,5,7,0,1,0,1,1,10,9.9,N,1,0,max-bielfeldt-1,Max Bielfeldt,2016
+34,103,34,2016-03-19,Indiana,N,Kentucky,ROUND-32,W 73-67,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,3,4,1,0,0,0,2,5,5.2,N,1,0,max-bielfeldt-1,Max Bielfeldt,2016
+35,104,35,2016-03-25,Indiana,N,North Carolina,ROUND-16,L 86-101,,22,5,10,0.5,3,5,0.6,2,5,0.4,0.65,2,2,1.0,2,1,3,0,0,0,1,4,15,9.1,N,0,0,max-bielfeldt-1,Max Bielfeldt,2016

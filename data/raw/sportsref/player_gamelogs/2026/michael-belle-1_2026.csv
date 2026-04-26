@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,74,1,2025-11-03,VCU,,Wagner,REG (Non-Conf),W 103-74,,21,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,0,3,3,1,0,2,2,2,12,9.6,H,1,1,michael-belle-1,Michael Belle,2026
+2,75,2,2025-11-07,VCU,N,Utah State,REG (Non-Conf),L 77-80,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,4,6,1,1,0,2,2,4,3.5,N,0,1,michael-belle-1,Michael Belle,2026
+3,76,3,2025-11-12,VCU,,Saint Peter's,REG (Non-Conf),W 78-61,,8,0,0,,0,0,,0,0,,,0,0,,0,3,3,2,0,0,1,1,0,0.9,H,1,1,michael-belle-1,Michael Belle,2026
+4,77,4,2025-11-17,VCU,@,NC State,REG (Non-Conf),L 79-85,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,2,0,-1.5,A,0,1,michael-belle-1,Michael Belle,2026
+5,78,5,2025-11-22,VCU,,Coppin State,REG (Non-Conf),W 101-58,,17,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,1,1,3,2,0,0,0,6,8.8,H,1,1,michael-belle-1,Michael Belle,2026
+6,79,6,2025-11-26,VCU,N,South Florida,REG (Non-Conf),W 78-66,,22,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,3,4,0,1,1,1,1,7,5.2,N,1,1,michael-belle-1,Michael Belle,2026
+7,80,7,2025-11-27,VCU,N,Vanderbilt,REG (Non-Conf),L 74-89,,26,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,5,6,1,0,0,1,2,7,5.7,N,0,1,michael-belle-1,Michael Belle,2026
+8,81,8,2025-11-28,VCU,N,Virginia Tech,REG (Non-Conf),W 86-68,,21,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,2,4,6,3,1,0,0,2,5,6.1,N,1,1,michael-belle-1,Michael Belle,2026
+9,82,9,2025-12-05,VCU,,Samford,REG (Non-Conf),W 83-57,,17,3,4,0.75,0,0,,3,4,0.75,0.75,0,2,0.0,1,3,4,1,0,0,1,2,6,4.1,H,1,1,michael-belle-1,Michael Belle,2026
+10,83,10,2025-12-10,VCU,,New Mexico,REG (Non-Conf),L 78-81,,25,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,2,5,7,1,0,0,1,3,9,9.2,H,0,1,michael-belle-1,Michael Belle,2026
+11,84,11,2025-12-15,VCU,,Niagara,REG (Non-Conf),W 84-58,,25,5,5,1.0,4,4,1.0,1,1,1.0,1.4,1,2,0.5,0,4,4,0,1,2,1,0,15,15.7,H,1,1,michael-belle-1,Michael Belle,2026
+12,85,12,2025-12-18,VCU,,American,REG (Non-Conf),W 105-83,,20,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,5,3,8,3,0,1,2,0,7,9.9,H,1,1,michael-belle-1,Michael Belle,2026
+13,86,13,2025-12-22,VCU,,Rider,REG (Non-Conf),W 100-79,,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,1,1.0,2,3,5,3,0,0,0,2,7,7.6,H,1,1,michael-belle-1,Michael Belle,2026
+14,87,14,2025-12-31,VCU,,St. Bonaventure,REG (Conf),W 89-82,,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,1,3,2,0.8,H,1,1,michael-belle-1,Michael Belle,2026
+15,88,15,2026-01-03,VCU,@,Duquesne,REG (Conf),W 93-80,,21,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,2,1,3,0,0,0,1,3,5,2.1,A,1,1,michael-belle-1,Michael Belle,2026
+16,89,16,2026-01-07,VCU,,Saint Louis,REG (Conf),L 62-71,,23,2,9,0.222,1,3,0.333,1,6,0.167,0.278,3,5,0.6,2,5,7,0,0,2,0,1,8,5.6,H,0,1,michael-belle-1,Michael Belle,2026
+17,90,17,2026-01-10,VCU,@,George Mason,REG (Conf),L 80-86,,28,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,0,4,4,0,0,1,1,2,11,8.5,A,0,1,michael-belle-1,Michael Belle,2026
+18,91,18,2026-01-14,VCU,@,Rhode Island,REG (Conf),W 84-75,,30,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,0,5,5,3,0,2,1,4,10,9.0,A,1,1,michael-belle-1,Michael Belle,2026
+19,92,19,2026-01-19,VCU,,Saint Joseph's,REG (Conf),W 79-72,,30,9,11,0.818,2,4,0.5,7,7,1.0,0.909,0,0,,1,4,5,0,3,2,0,1,20,21.8,H,1,1,michael-belle-1,Michael Belle,2026
+20,93,20,2026-01-24,VCU,@,Davidson,REG (Conf),W 75-69,,33,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,4,0.5,3,5,8,1,0,0,0,2,12,10.4,A,1,1,michael-belle-1,Michael Belle,2026
+21,94,21,2026-01-27,VCU,,Richmond,REG (Conf),W 77-69,,24,1,2,0.5,1,1,1.0,0,1,0.0,0.75,1,4,0.25,0,2,2,0,0,2,0,1,4,3.4,H,1,1,michael-belle-1,Michael Belle,2026
+22,95,22,2026-01-30,VCU,,Loyola Chicago,REG (Conf),W 89-75,,18,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,1,0,1,0,2,0,0,4,10,8.1,H,1,1,michael-belle-1,Michael Belle,2026
+23,96,23,2026-02-03,VCU,@,Fordham,REG (Conf),W 63-59,,21,2,6,0.333,0,0,,2,6,0.333,0.333,2,5,0.4,1,1,2,2,1,1,1,3,6,3.3,A,1,1,michael-belle-1,Michael Belle,2026
+24,97,24,2026-02-06,VCU,,Dayton,REG (Conf),W 99-73,,22,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,3,5,8,2,1,2,0,2,8,11.6,H,1,1,michael-belle-1,Michael Belle,2026
+25,98,25,2026-02-11,VCU,@,La Salle,REG (Conf),W 77-68,,22,1,5,0.2,0,0,,1,5,0.2,0.2,0,1,0.0,4,3,7,1,0,4,3,3,2,1.5,A,1,1,michael-belle-1,Michael Belle,2026
+26,99,26,2026-02-14,VCU,@,Richmond,REG (Conf),W 78-67,,18,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,3,7,10,0,0,1,0,4,7,5.5,A,1,1,michael-belle-1,Michael Belle,2026
+27,100,27,2026-02-17,VCU,,George Washington,REG (Conf),W 89-75,,25,3,6,0.5,2,2,1.0,1,4,0.25,0.667,1,3,0.333,1,5,6,0,1,0,2,1,9,6.0,H,1,1,michael-belle-1,Michael Belle,2026
+28,101,28,2026-02-20,VCU,@,Saint Louis,REG (Conf),L 75-88,,24,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,2,4,6,0,1,0,2,2,7,4.1,A,0,1,michael-belle-1,Michael Belle,2026
+29,102,29,2026-02-28,VCU,,Fordham,REG (Conf),W 82-63,,23,2,4,0.5,0,0,,2,4,0.5,0.5,3,6,0.5,1,5,6,0,2,0,2,4,7,4.4,H,1,1,michael-belle-1,Michael Belle,2026
+30,103,30,2026-03-03,VCU,,George Mason,REG (Conf),W 70-65,,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,3,3,6,0,0,1,0,5,5,5.0,H,1,1,michael-belle-1,Michael Belle,2026
+31,104,31,2026-03-06,VCU,@,Dayton,REG (Conf),W 68-62,,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,6,6,1,0,0,2,2,6,4.8,A,1,1,michael-belle-1,Michael Belle,2026
+32,105,32,2026-03-13,VCU,N,Duquesne,CTOURN,W 71-66,,29,7,10,0.7,0,0,,7,10,0.7,0.7,0,2,0.0,1,6,7,1,2,0,1,2,14,12.4,N,1,0,michael-belle-1,Michael Belle,2026
+33,106,33,2026-03-14,VCU,N,Saint Joseph's,CTOURN,W 77-64,,24,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,3,3,6,3,2,0,0,0,4,6.3,N,1,0,michael-belle-1,Michael Belle,2026
+34,107,34,2026-03-15,VCU,N,Dayton,CTOURN,W 70-62,,28,4,9,0.444,2,4,0.5,2,5,0.4,0.556,2,2,1.0,1,5,6,2,1,1,1,5,12,9.6,N,1,0,michael-belle-1,Michael Belle,2026

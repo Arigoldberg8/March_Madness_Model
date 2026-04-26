@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2021-11-09,Southern California,,Cal State Northridge,REG (Non-Conf),W 89-49,*,23,7,10,0.7,0,2,0.0,7,8,0.875,0.7,0,1,0.0,2,2,4,2,0,0,2,1,14,10.4,H,1,1,drew-peterson-1,Drew Peterson,2022
+2,99,2,2021-11-13,Southern California,@,Temple,REG (Non-Conf),W 76-71,*,30,2,5,0.4,0,0,,2,5,0.4,0.4,6,10,0.6,2,3,5,8,1,0,2,3,10,11.4,A,1,1,drew-peterson-1,Drew Peterson,2022
+3,100,3,2021-11-16,Southern California,@,Florida Gulf Coast,REG (Non-Conf),W 78-61,*,31,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,6,7,5,0,1,0,2,4,7.2,A,1,1,drew-peterson-1,Drew Peterson,2022
+4,101,4,2021-11-22,Southern California,,Dixie State,REG (Non-Conf),W 98-71,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,3,0.667,0,3,3,3,1,2,1,1,6,6.9,H,1,1,drew-peterson-1,Drew Peterson,2022
+5,102,5,2021-11-25,Southern California,N,Saint Joseph's,REG (Non-Conf),W 70-55,*,29,2,9,0.222,0,2,0.0,2,7,0.286,0.222,1,2,0.5,0,5,5,4,1,2,2,0,5,3.8,N,1,1,drew-peterson-1,Drew Peterson,2022
+6,103,6,2021-11-26,Southern California,N,San Diego State,REG (Non-Conf),W 58-43,*,36,6,10,0.6,1,2,0.5,5,8,0.625,0.65,3,3,1.0,1,5,6,3,2,1,3,3,16,14.2,N,1,1,drew-peterson-1,Drew Peterson,2022
+7,104,7,2021-12-01,Southern California,,Utah,REG (Conf),W 93-73,*,28,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,1,7,8,4,0,1,1,1,11,12.2,H,1,1,drew-peterson-1,Drew Peterson,2022
+8,105,8,2021-12-04,Southern California,@,Washington State,REG (Conf),W 63-61,*,32,5,7,0.714,0,0,,5,7,0.714,0.714,3,6,0.5,2,4,6,2,1,1,3,3,13,10.4,A,1,1,drew-peterson-1,Drew Peterson,2022
+9,106,9,2021-12-07,Southern California,,Eastern Kentucky,REG (Non-Conf),W 80-68,*,31,6,11,0.545,2,5,0.4,4,6,0.667,0.636,1,1,1.0,1,5,6,2,0,1,2,0,15,12.0,H,1,1,drew-peterson-1,Drew Peterson,2022
+10,107,10,2021-12-12,Southern California,,Long Beach State,REG (Non-Conf),W 73-62,*,34,6,8,0.75,3,3,1.0,3,5,0.6,0.938,0,0,,0,3,3,2,0,1,3,1,15,11.4,H,1,1,drew-peterson-1,Drew Peterson,2022
+11,108,11,2021-12-15,Southern California,,UC Irvine,REG (Non-Conf),W 66-61,*,37,1,10,0.1,0,3,0.0,1,7,0.143,0.1,2,4,0.5,1,6,7,5,0,1,3,1,4,-0.1,H,1,1,drew-peterson-1,Drew Peterson,2022
+12,109,12,2021-12-18,Southern California,N,Georgia Tech,REG (Non-Conf),W 67-53,*,36,5,12,0.417,4,9,0.444,1,3,0.333,0.583,0,0,,1,7,8,4,0,1,4,2,14,9.1,N,1,1,drew-peterson-1,Drew Peterson,2022
+13,110,13,2022-01-06,Southern California,@,California,REG (Conf),W 77-63,*,37,8,14,0.571,1,2,0.5,7,12,0.583,0.607,0,0,,3,6,9,1,1,0,2,1,17,13.6,A,1,1,drew-peterson-1,Drew Peterson,2022
+14,111,14,2022-01-11,Southern California,@,Stanford,REG (Conf),L 69-75,*,33,1,3,0.333,1,3,0.333,0,0,,0.5,3,6,0.5,0,3,3,1,1,1,3,2,6,2.6,A,0,1,drew-peterson-1,Drew Peterson,2022
+15,112,15,2022-01-13,Southern California,,Oregon State,REG (Conf),W 81-71,*,36,5,12,0.417,3,6,0.5,2,6,0.333,0.542,4,4,1.0,1,6,7,4,0,0,1,0,17,14.9,H,1,1,drew-peterson-1,Drew Peterson,2022
+16,113,16,2022-01-15,Southern California,,Oregon,REG (Conf),L 69-79,*,29,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,1,5,6,1,1,0,2,4,10,7.3,H,0,1,drew-peterson-1,Drew Peterson,2022
+17,114,17,2022-01-20,Southern California,@,Colorado,REG (Conf),W 61-58,*,27,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,0,4,4,2,2,0,1,3,2,-0.1,A,1,1,drew-peterson-1,Drew Peterson,2022
+18,115,18,2022-01-22,Southern California,@,Utah,REG (Conf),W 79-67,*,36,9,10,0.9,5,5,1.0,4,5,0.8,1.15,0,2,0.0,2,5,7,2,1,1,3,0,23,21.8,A,1,1,drew-peterson-1,Drew Peterson,2022
+19,116,19,2022-01-24,Southern California,,Arizona State,REG (Conf),W 78-56,*,27,6,8,0.75,2,3,0.667,4,5,0.8,0.875,2,4,0.5,1,7,8,2,1,0,3,1,16,13.8,H,1,1,drew-peterson-1,Drew Peterson,2022
+20,117,20,2022-01-27,Southern California,,Stanford,REG (Conf),L 61-64,*,36,4,11,0.364,3,3,1.0,1,8,0.125,0.5,3,3,1.0,3,4,7,4,2,1,2,0,14,14.7,H,0,1,drew-peterson-1,Drew Peterson,2022
+21,118,21,2022-01-29,Southern California,,California,REG (Conf),W 79-72,*,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,5,6,0.833,0,3,3,3,1,1,1,0,7,7.9,H,1,1,drew-peterson-1,Drew Peterson,2022
+22,119,22,2022-02-03,Southern California,@,Arizona State,REG (Conf),W 58-53,*,34,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,7,0.571,2,11,13,2,1,0,4,2,6,3.3,A,1,1,drew-peterson-1,Drew Peterson,2022
+23,120,23,2022-02-05,Southern California,@,Arizona,REG (Conf),L 63-72,*,34,1,13,0.077,0,6,0.0,1,7,0.143,0.077,3,4,0.75,3,5,8,4,0,0,3,3,5,-1.9,A,0,1,drew-peterson-1,Drew Peterson,2022
+24,121,24,2022-02-08,Southern California,,Pacific,REG (Non-Conf),W 74-68,*,34,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,2,3,8,1,4,4,0,12,15.1,H,1,1,drew-peterson-1,Drew Peterson,2022
+25,122,25,2022-02-12,Southern California,,UCLA,REG (Conf),W 67-64,*,38,9,13,0.692,4,5,0.8,5,8,0.625,0.846,5,6,0.833,1,11,12,4,1,5,2,4,27,28.8,H,1,1,drew-peterson-1,Drew Peterson,2022
+26,123,26,2022-02-17,Southern California,,Washington,REG (Conf),W 79-69,*,34,6,11,0.545,2,5,0.4,4,6,0.667,0.636,0,1,0.0,0,6,6,7,1,0,2,1,14,13.6,H,1,1,drew-peterson-1,Drew Peterson,2022
+27,124,27,2022-02-20,Southern California,,Washington State,REG (Conf),W 62-60,*,37,6,14,0.429,3,5,0.6,3,9,0.333,0.536,2,2,1.0,0,3,3,2,1,0,3,1,17,9.5,H,1,1,drew-peterson-1,Drew Peterson,2022
+28,125,28,2022-02-24,Southern California,@,Oregon State,REG (Conf),W 94-91 (2OT),*,44,6,15,0.4,3,6,0.5,3,9,0.333,0.5,8,8,1.0,3,7,10,3,1,0,6,3,23,15.0,A,1,1,drew-peterson-1,Drew Peterson,2022
+29,126,29,2022-02-26,Southern California,@,Oregon,REG (Conf),W 70-69,*,37,9,17,0.529,2,4,0.5,7,13,0.538,0.588,0,1,0.0,3,5,8,2,0,0,2,1,20,13.9,A,1,1,drew-peterson-1,Drew Peterson,2022
+30,127,30,2022-03-01,Southern California,,Arizona,REG (Conf),L 71-91,*,32,2,11,0.182,0,6,0.0,2,5,0.4,0.182,6,8,0.75,2,3,5,4,1,1,1,1,10,7.7,H,0,1,drew-peterson-1,Drew Peterson,2022
+31,128,31,2022-03-05,Southern California,@,UCLA,REG (Conf),L 68-75,*,36,4,9,0.444,3,6,0.5,1,3,0.333,0.611,2,2,1.0,0,9,9,6,0,0,3,3,13,11.0,A,0,1,drew-peterson-1,Drew Peterson,2022
+32,129,32,2022-03-10,Southern California,N,Washington,CTOURN,W 65-61,*,35,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,6,6,3,0,1,4,2,9,5.1,N,1,0,drew-peterson-1,Drew Peterson,2022
+33,130,33,2022-03-11,Southern California,N,UCLA,CTOURN,L 59-69,*,37,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,0,1,1,1,0,0,2,1,11,7.0,N,0,0,drew-peterson-1,Drew Peterson,2022
+34,131,34,2022-03-18,Southern California,N,Miami (FL),ROUND-64,L 66-68,*,35,7,15,0.467,3,7,0.429,4,8,0.5,0.567,0,0,,0,5,5,3,0,0,1,4,17,10.3,N,0,0,drew-peterson-1,Drew Peterson,2022

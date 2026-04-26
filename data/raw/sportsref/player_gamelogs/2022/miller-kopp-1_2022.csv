@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2021-11-09,Indiana,,Eastern Michigan,REG (Non-Conf),W 68-62,*,18,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,1,1.0,0,3,3,1,1,0,0,0,3,2.5,H,1,1,miller-kopp-1,Miller Kopp,2022
+2,89,2,2021-11-12,Indiana,,Northern Illinois,REG (Non-Conf),W 85-49,*,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,1,0,0,0,2,4,2.5,H,1,1,miller-kopp-1,Miller Kopp,2022
+3,90,3,2021-11-17,Indiana,,St. John's (NY),REG (Non-Conf),W 76-74,*,23,4,10,0.4,2,4,0.5,2,6,0.333,0.5,2,2,1.0,1,1,2,0,0,3,1,0,12,8.7,H,1,1,miller-kopp-1,Miller Kopp,2022
+4,91,4,2021-11-21,Indiana,,Louisiana,REG (Non-Conf),W 76-44,*,30,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,1,6,7,1,0,1,0,1,7,9.2,H,1,1,miller-kopp-1,Miller Kopp,2022
+5,92,5,2021-11-23,Indiana,,Jackson State,REG (Non-Conf),W 70-35,*,24,3,11,0.273,2,7,0.286,1,4,0.25,0.364,4,4,1.0,0,5,5,1,1,0,0,1,12,8.3,H,1,1,miller-kopp-1,Miller Kopp,2022
+6,93,6,2021-11-27,Indiana,,Marshall,REG (Non-Conf),W 90-79,*,23,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,2,2,2,0,0,0,1,5,5.3,H,1,1,miller-kopp-1,Miller Kopp,2022
+7,94,7,2021-11-30,Indiana,@,Syracuse,REG (Non-Conf),L 110-112 (2OT),*,48,9,16,0.563,4,9,0.444,5,7,0.714,0.688,6,7,0.857,0,4,4,3,2,0,2,3,28,22.1,A,0,1,miller-kopp-1,Miller Kopp,2022
+8,95,8,2021-12-04,Indiana,,Nebraska,REG (Conf),W 68-55,*,24,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,2,3,3,0,0,4,1,0,-4.5,H,1,1,miller-kopp-1,Miller Kopp,2022
+9,96,9,2021-12-08,Indiana,@,Wisconsin,REG (Conf),L 59-64,*,29,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,0,1,1,0,0,0,1,2,7,2.5,A,0,1,miller-kopp-1,Miller Kopp,2022
+10,97,10,2021-12-12,Indiana,,Merrimack,REG (Non-Conf),W 81-49,*,21,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,2,2,1,0,0,0,0,8,7.7,H,1,1,miller-kopp-1,Miller Kopp,2022
+11,98,11,2021-12-18,Indiana,N,Notre Dame,REG (Non-Conf),W 64-56,*,27,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,2,2,0,1,0,0,1,5,2.1,N,1,1,miller-kopp-1,Miller Kopp,2022
+12,99,12,2021-12-22,Indiana,,Northern Kentucky,REG (Non-Conf),W 79-61,*,25,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,3,0,0,1,3,3,0.4,H,1,1,miller-kopp-1,Miller Kopp,2022
+13,100,13,2022-01-02,Indiana,@,Penn State,REG (Conf),L 58-61,*,28,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,1,1,0,0,2,5,3.5,A,0,1,miller-kopp-1,Miller Kopp,2022
+14,101,14,2022-01-06,Indiana,,Ohio State,REG (Conf),W 67-51,*,21,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,4,4,1,0,0,2,0,4,0.5,H,1,1,miller-kopp-1,Miller Kopp,2022
+15,102,15,2022-01-09,Indiana,,Minnesota,REG (Conf),W 73-60,*,22,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,2,2,4,2,0,0,0,1,3,4.3,H,1,1,miller-kopp-1,Miller Kopp,2022
+16,103,16,2022-01-13,Indiana,@,Iowa,REG (Conf),L 74-83,*,24,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,1,1,2,0,0,1,2,8,5.2,A,0,1,miller-kopp-1,Miller Kopp,2022
+17,104,17,2022-01-17,Indiana,@,Nebraska,REG (Conf),W 78-71,*,21,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,0,2,2,0,1,0,0,2,7,3.7,A,1,1,miller-kopp-1,Miller Kopp,2022
+18,105,18,2022-01-20,Indiana,,Purdue,REG (Conf),W 68-65,*,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,H,1,1,miller-kopp-1,Miller Kopp,2022
+19,106,19,2022-01-23,Indiana,,Michigan,REG (Conf),L 62-80,*,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,2,0,5,2.4,H,0,1,miller-kopp-1,Miller Kopp,2022
+20,107,20,2022-01-26,Indiana,,Penn State,REG (Conf),W 74-57,*,22,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,1,0.0,0,0,0,1,1,0,1,0,5,1.9,H,1,1,miller-kopp-1,Miller Kopp,2022
+21,108,21,2022-01-29,Indiana,@,Maryland,REG (Conf),W 68-55,*,19,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,1,1,1,1,1,2,1,6,2.9,A,1,1,miller-kopp-1,Miller Kopp,2022
+22,109,22,2022-02-05,Indiana,,Illinois,REG (Conf),L 57-74,*,16,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,1,0,1,2,0,0.9,H,0,1,miller-kopp-1,Miller Kopp,2022
+23,110,23,2022-02-08,Indiana,@,Northwestern,REG (Conf),L 51-59,*,34,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,0,6,6,2,0,0,0,2,3,0.9,A,0,1,miller-kopp-1,Miller Kopp,2022
+24,111,24,2022-02-12,Indiana,@,Michigan State,REG (Conf),L 61-76,*,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,0,0,2,3,3,-1.3,A,0,1,miller-kopp-1,Miller Kopp,2022
+25,112,25,2022-02-15,Indiana,,Wisconsin,REG (Conf),L 69-74,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,2,0,0,1,4,2,0.1,H,0,1,miller-kopp-1,Miller Kopp,2022
+26,113,26,2022-02-21,Indiana,@,Ohio State,REG (Conf),L 69-80 (OT),*,29,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,2,1,3,1,0,0,2,2,7,1.8,A,0,1,miller-kopp-1,Miller Kopp,2022
+27,114,27,2022-02-24,Indiana,,Maryland,REG (Conf),W 74-64,*,30,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,3,3,3,2,0,2,2,8,7.9,H,1,1,miller-kopp-1,Miller Kopp,2022
+28,115,28,2022-02-27,Indiana,@,Minnesota,REG (Conf),W 84-79,*,32,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,3,0.667,0,1,1,0,0,0,1,2,10,5.1,A,1,1,miller-kopp-1,Miller Kopp,2022
+29,116,29,2022-03-02,Indiana,,Rutgers,REG (Conf),L 63-66,*,34,1,7,0.143,1,5,0.2,0,2,0.0,0.214,2,2,1.0,1,3,4,2,1,1,0,3,5,4.0,H,0,1,miller-kopp-1,Miller Kopp,2022
+30,117,30,2022-03-05,Indiana,@,Purdue,REG (Conf),L 67-69,*,34,5,9,0.556,4,6,0.667,1,3,0.333,0.778,0,0,,0,3,3,1,0,0,3,3,14,7.1,A,0,1,miller-kopp-1,Miller Kopp,2022
+31,118,31,2022-03-10,Indiana,N,Michigan,CTOURN,W 74-69,*,33,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,2,0.5,0,3,3,0,0,1,1,2,9,5.4,N,1,0,miller-kopp-1,Miller Kopp,2022
+32,119,32,2022-03-11,Indiana,N,Illinois,CTOURN,W 65-63,*,22,1,3,0.333,1,3,0.333,0,0,,0.5,0,1,0.0,0,5,5,0,0,1,1,1,3,1.7,N,1,0,miller-kopp-1,Miller Kopp,2022
+33,120,33,2022-03-12,Indiana,N,Iowa,CTOURN,L 77-80,*,33,2,11,0.182,2,7,0.286,0,4,0.0,0.273,2,2,1.0,1,2,3,1,1,1,1,4,8,2.2,N,0,0,miller-kopp-1,Miller Kopp,2022
+34,121,34,2022-03-15,Indiana,N,Wyoming,FIRST-FOUR,W 66-58,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,0,3,0,-0.6,N,1,0,miller-kopp-1,Miller Kopp,2022
+35,122,35,2022-03-17,Indiana,N,St. Mary's (CA),ROUND-64,L 53-82,*,22,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.9,N,0,0,miller-kopp-1,Miller Kopp,2022

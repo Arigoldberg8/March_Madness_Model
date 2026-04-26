@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2013-11-08,Milwaukee,@,Loyola Chicago,REG (Non-Conf),L 72-76,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,0,3,3,3,1,1,1,3,6,7.5,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+2,69,2,2013-11-11,Milwaukee,@,Davidson,REG (Non-Conf),W 81-77,*,38,5,7,0.714,1,1,1.0,4,6,0.667,0.786,1,2,0.5,0,3,3,3,2,2,4,2,12,10.3,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+3,70,3,2013-11-15,Milwaukee,N,San Jose State,REG (Non-Conf),W 64-61,*,33,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,0,1,1,5,2,0,2,4,12,11.3,N,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+4,71,4,2013-11-16,Milwaukee,N,James Madison,REG (Non-Conf),W 77-66,*,38,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,5,0.4,2,2,4,6,0,0,0,1,8,9.9,N,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+5,72,5,2013-11-17,Milwaukee,@,Northern Illinois,REG (Non-Conf),W 82-69,*,37,6,13,0.462,1,5,0.2,5,8,0.625,0.5,1,3,0.333,1,4,5,4,2,0,2,0,14,11.2,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+6,73,6,2013-11-19,Milwaukee,,DePaul,REG (Non-Conf),L 71-80,*,39,2,10,0.2,1,4,0.25,1,6,0.167,0.25,0,0,,0,6,6,1,0,0,0,1,5,0.9,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+7,74,7,2013-11-23,Milwaukee,@,Tennessee Tech,REG (Non-Conf),W 70-63,*,27,1,5,0.2,1,2,0.5,0,3,0.0,0.3,1,2,0.5,2,2,4,2,2,1,3,5,4,1.6,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+8,75,8,2013-11-26,Milwaukee,,Judson,REG (Non-Conf),W 89-56,*,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,6,6,1,1,1,3,1,0,-1.3,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+9,76,9,2013-11-30,Milwaukee,@,Kansas City,REG (Non-Conf),W 84-79,*,34,2,3,0.667,1,1,1.0,1,2,0.5,0.833,4,8,0.5,0,1,1,3,3,0,4,4,9,5.9,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+10,77,10,2013-12-03,Milwaukee,,Northern Iowa,REG (Non-Conf),W 83-72,*,27,3,9,0.333,2,4,0.5,1,5,0.2,0.444,8,10,0.8,2,4,6,3,3,0,3,4,16,13.2,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+11,78,11,2013-12-07,Milwaukee,,Bradley,REG (Non-Conf),W 73-67,*,40,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,1,5,6,6,2,1,3,4,6,8.2,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+12,79,12,2013-12-11,Milwaukee,@,Wisconsin,REG (Non-Conf),L 52-78,*,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,4,4,2,0,0,1,2,4,2.1,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+13,80,13,2013-12-21,Milwaukee,N,Northeastern,REG (Non-Conf),L 59-62,*,38,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,1,3,4,5,1,1,4,2,7,3.9,N,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+14,81,14,2013-12-22,Milwaukee,N,Alabama State,REG (Non-Conf),W 67-54,*,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,3,3,5,1,0,0,4,0,1.7,N,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+15,82,15,2014-01-02,Milwaukee,,Youngstown State,REG (Conf),W 82-76,*,28,4,7,0.571,2,3,0.667,2,4,0.5,0.714,7,7,1.0,0,0,0,3,3,0,1,4,17,16.2,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+16,83,16,2014-01-04,Milwaukee,,Cleveland State,REG (Conf),L 49-77,*,29,2,7,0.286,0,2,0.0,2,5,0.4,0.286,6,6,1.0,3,0,3,0,2,0,4,4,10,4.4,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+17,84,17,2014-01-08,Milwaukee,@,Oakland,REG (Conf),W 84-75,*,36,5,8,0.625,3,4,0.75,2,4,0.5,0.813,4,8,0.5,1,8,9,7,2,0,1,5,17,18.8,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+18,85,18,2014-01-12,Milwaukee,,Green Bay,REG (Conf),L 86-93 (OT),*,42,4,11,0.364,0,4,0.0,4,7,0.571,0.364,2,2,1.0,0,3,3,7,1,0,1,3,10,8.5,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+19,86,19,2014-01-16,Milwaukee,@,Illinois–Chicago,REG (Conf),W 67-63,*,40,3,10,0.3,2,5,0.4,1,5,0.2,0.4,2,2,1.0,0,2,2,8,2,0,5,5,10,5.4,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+20,87,20,2014-01-18,Milwaukee,@,Valparaiso,REG (Conf),L 62-75,*,38,2,8,0.25,0,4,0.0,2,4,0.5,0.25,3,4,0.75,1,5,6,5,2,0,3,3,7,5.3,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+21,88,21,2014-01-21,Milwaukee,@,Wright State,REG (Conf),L 57-73,*,35,2,8,0.25,1,3,0.333,1,5,0.2,0.313,1,2,0.5,1,1,2,1,2,1,2,1,6,2.8,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+22,89,22,2014-01-24,Milwaukee,,Detroit Mercy,REG (Conf),L 54-73,*,33,3,9,0.333,0,3,0.0,3,6,0.5,0.333,3,6,0.5,0,5,5,2,5,2,1,4,9,9.4,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+23,90,23,2014-01-30,Milwaukee,,Wright State,REG (Conf),W 68-64,*,39,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,3,0.667,0,5,5,6,0,1,2,4,10,9.1,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+24,91,24,2014-02-02,Milwaukee,,Oakland,REG (Conf),W 86-64,*,28,3,5,0.6,1,3,0.333,2,2,1.0,0.7,4,6,0.667,0,1,1,5,0,1,2,3,11,9.2,H,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+25,92,25,2014-02-08,Milwaukee,@,Green Bay,REG (Conf),W 73-63,*,34,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,1,0.0,1,3,4,2,1,0,0,4,10,8.7,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+26,93,26,2014-02-15,Milwaukee,,Valparaiso,REG (Conf),L 62-77,*,40,1,12,0.083,0,4,0.0,1,8,0.125,0.083,1,2,0.5,4,2,6,2,1,1,3,2,3,-2.7,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+27,94,27,2014-02-20,Milwaukee,@,Youngstown State,REG (Conf),L 83-88 (OT),*,41,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,2,2,4,9,2,0,3,5,6,7.2,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+28,95,28,2014-02-22,Milwaukee,@,Cleveland State,REG (Conf),L 50-74,*,32,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,2,2,1,1,0,3,1,2,-2.9,A,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+29,96,29,2014-02-25,Milwaukee,,Illinois–Chicago,REG (Conf),L 58-80,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,1,1,0,0,3,4,3.5,H,0,1,steve-mcwhorter-1,Steve McWhorter,2014
+30,97,30,2014-02-27,Milwaukee,@,Detroit Mercy,REG (Conf),W 68-62,*,40,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,4,5,8,2,0,6,2,9,9.1,A,1,1,steve-mcwhorter-1,Steve McWhorter,2014
+31,98,31,2014-03-04,Milwaukee,,Detroit Mercy,CTOURN,W 83-73,*,36,5,7,0.714,2,3,0.667,3,4,0.75,0.857,3,4,0.75,0,7,7,5,2,0,2,2,15,16.5,H,1,0,steve-mcwhorter-1,Steve McWhorter,2014
+32,99,32,2014-03-07,Milwaukee,N,Valparaiso,CTOURN,W 74-57,*,35,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,1,5,6,5,1,1,2,3,4,5.4,N,1,0,steve-mcwhorter-1,Steve McWhorter,2014
+33,100,33,2014-03-08,Milwaukee,@,Green Bay,CTOURN,W 73-66 (OT),*,40,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,1,9,10,2,1,1,2,5,4,2.4,A,1,0,steve-mcwhorter-1,Steve McWhorter,2014
+34,101,34,2014-03-11,Milwaukee,@,Wright State,CTOURN,W 69-63,*,36,1,9,0.111,0,1,0.0,1,8,0.125,0.111,2,2,1.0,1,3,4,7,0,1,0,3,4,4.1,A,1,0,steve-mcwhorter-1,Steve McWhorter,2014
+35,102,35,2014-03-20,Milwaukee,N,Villanova,ROUND-64,L 53-73,*,36,1,8,0.125,0,2,0.0,1,6,0.167,0.125,1,2,0.5,1,1,2,5,0,0,3,4,3,-2.7,N,0,0,steve-mcwhorter-1,Steve McWhorter,2014

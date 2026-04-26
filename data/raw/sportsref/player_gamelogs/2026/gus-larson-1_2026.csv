@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2025-11-03,Queens (NC),N,Winthrop,REG (Non-Conf),L 74-81,,21,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,1,1,2,1,0,1,2,5,13,8.9,N,0,1,gus-larson-1,Gus Larson,2026
+2,42,2,2025-11-05,Queens (NC),,Lynchburg,REG (Non-Conf),W 87-76,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,5,0.0,1,0,1,0,0,0,1,2,0,-3.8,H,1,1,gus-larson-1,Gus Larson,2026
+3,43,3,2025-11-08,Queens (NC),@,Villanova,REG (Non-Conf),L 74-94,,13,1,3,0.333,1,3,0.333,0,0,,0.5,2,3,0.667,0,2,2,0,0,0,0,3,5,2.3,A,0,1,gus-larson-1,Gus Larson,2026
+4,44,4,2025-11-11,Queens (NC),@,Duquesne,REG (Non-Conf),L 81-87 (OT),,7,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,1,2,0,-3.6,A,0,1,gus-larson-1,Gus Larson,2026
+5,45,5,2025-11-15,Queens (NC),,Sacred Heart,REG (Non-Conf),W 81-64,,18,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,4,5,9,2,1,4,0,0,3,11.1,H,1,1,gus-larson-1,Gus Larson,2026
+6,46,6,2025-11-20,Queens (NC),,UNC Greensboro,REG (Non-Conf),W 101-94,,17,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,1,1.0,2,2,4,1,0,1,0,2,8,9.0,H,1,1,gus-larson-1,Gus Larson,2026
+7,47,7,2025-11-23,Queens (NC),@,Furman,REG (Non-Conf),L 79-90,,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,3,0,0,0,1,0,1.3,A,0,1,gus-larson-1,Gus Larson,2026
+8,48,8,2025-11-28,Queens (NC),@,Virginia,REG (Non-Conf),L 69-94,,12,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,4,0.5,1,0,1,2,2,0,0,2,5,5.8,A,0,1,gus-larson-1,Gus Larson,2026
+9,49,9,2025-12-03,Queens (NC),,Gardner-Webb,REG (Non-Conf),W 107-74,,18,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,2,4,6,1,0,2,1,3,9,9.5,H,1,1,gus-larson-1,Gus Larson,2026
+10,50,10,2025-12-12,Queens (NC),,South Carolina State,REG (Non-Conf),W 102-78,,13,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,3,3,6,1,0,0,2,3,2,0.4,H,1,1,gus-larson-1,Gus Larson,2026
+11,51,11,2025-12-14,Queens (NC),@,Wake Forest,REG (Non-Conf),L 73-111,,14,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,1,0,0,0.0,A,0,1,gus-larson-1,Gus Larson,2026
+12,52,12,2025-12-16,Queens (NC),@,Arkansas,REG (Non-Conf),L 80-108,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,0,2,0,-1.3,A,0,1,gus-larson-1,Gus Larson,2026
+13,53,13,2025-12-29,Queens (NC),@,Auburn,REG (Non-Conf),L 65-106,,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,0,4,4,1,1,0,1,2,6,4.4,A,0,1,gus-larson-1,Gus Larson,2026
+14,54,14,2026-01-01,Queens (NC),,Eastern Kentucky,REG (Conf),W 91-89,,13,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,1,2,3,1,0,0,0,2,5,4.9,H,1,1,gus-larson-1,Gus Larson,2026
+15,55,15,2026-01-03,Queens (NC),,Bellarmine,REG (Conf),W 98-76,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,2,0,3,2,2,0.9,H,1,1,gus-larson-1,Gus Larson,2026
+16,56,16,2026-01-08,Queens (NC),@,Jacksonville,REG (Conf),W 77-51,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,0,0,0,1,2,2,-0.2,A,1,1,gus-larson-1,Gus Larson,2026
+17,57,17,2026-01-10,Queens (NC),@,North Florida,REG (Conf),W 89-82,,8,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,2,3,1,-3.0,A,1,1,gus-larson-1,Gus Larson,2026
+18,58,18,2026-01-15,Queens (NC),@,Florida Gulf Coast,REG (Conf),W 85-74,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,0,0,0,0,1,0,4,3,1.1,A,1,1,gus-larson-1,Gus Larson,2026
+19,59,19,2026-01-17,Queens (NC),@,Stetson,REG (Conf),W 87-81,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,1,0,0,0,4,4,1.0,A,1,1,gus-larson-1,Gus Larson,2026
+20,60,20,2026-01-21,Queens (NC),,North Alabama,REG (Conf),W 87-62,,11,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,1,3,0,2,0,0,5,3,3.3,H,1,1,gus-larson-1,Gus Larson,2026
+21,61,21,2026-01-24,Queens (NC),@,West Georgia,REG (Conf),L 66-74,,10,0,0,,0,0,,0,0,,,0,2,0.0,0,1,1,0,0,0,3,4,0,-5.1,A,0,1,gus-larson-1,Gus Larson,2026
+22,62,22,2026-01-28,Queens (NC),,Central Arkansas,REG (Conf),L 90-100,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,H,0,1,gus-larson-1,Gus Larson,2026
+23,63,23,2026-01-31,Queens (NC),@,Bellarmine,REG (Conf),L 75-78,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,gus-larson-1,Gus Larson,2026
+24,64,24,2026-02-05,Queens (NC),,Jacksonville,REG (Conf),W 93-84,,9,0,0,,0,0,,0,0,,,1,2,0.5,2,0,2,0,0,0,1,2,1,0.2,H,1,1,gus-larson-1,Gus Larson,2026
+25,65,25,2026-02-07,Queens (NC),,North Florida,REG (Conf),W 91-72,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,0,1,0,0,4,4,4.1,H,1,1,gus-larson-1,Gus Larson,2026
+26,66,26,2026-02-11,Queens (NC),,Austin Peay,REG (Conf),L 87-95,,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,3,0,-0.5,H,0,1,gus-larson-1,Gus Larson,2026
+27,67,27,2026-02-14,Queens (NC),,Lipscomb,REG (Conf),W 87-81,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,1,0,0,2,0,1.6,H,1,1,gus-larson-1,Gus Larson,2026
+28,68,28,2026-02-18,Queens (NC),@,North Alabama,REG (Conf),W 85-78,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,0,1,1,2,0,1,2,4,4,1.4,A,1,1,gus-larson-1,Gus Larson,2026
+29,69,29,2026-02-21,Queens (NC),,West Georgia,REG (Conf),W 91-84,*,11,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,0,1,0,0,0,0,1,8,7.4,H,1,1,gus-larson-1,Gus Larson,2026
+30,70,30,2026-02-25,Queens (NC),@,Eastern Kentucky,REG (Conf),W 96-79,,12,3,4,0.75,0,0,,3,4,0.75,0.75,4,7,0.571,2,2,4,0,0,0,1,2,10,7.4,A,1,1,gus-larson-1,Gus Larson,2026
+31,71,31,2026-02-28,Queens (NC),@,Central Arkansas,REG (Conf),L 79-84,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,0,0,1.0,A,0,1,gus-larson-1,Gus Larson,2026
+32,72,32,2026-03-06,Queens (NC),N,West Georgia,CTOURN,W 71-63,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,2,2,0.5,N,1,0,gus-larson-1,Gus Larson,2026
+33,73,33,2026-03-07,Queens (NC),N,Austin Peay,CTOURN,W 90-83,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,2,3,1,2,0,0,4,2,2.0,N,1,0,gus-larson-1,Gus Larson,2026
+34,74,34,2026-03-08,Queens (NC),N,Central Arkansas,CTOURN,W 98-93 (OT),,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,N,1,0,gus-larson-1,Gus Larson,2026

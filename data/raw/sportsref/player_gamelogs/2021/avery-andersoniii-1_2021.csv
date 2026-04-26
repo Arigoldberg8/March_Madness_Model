@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2020-11-25,Oklahoma State,@,UT Arlington,REG (Non-Conf),W 75-68,,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,4,4,1,0,0,3,1,7,3.5,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+2,32,2,2020-11-28,Oklahoma State,,Texas Southern,REG (Non-Conf),W 85-65,,26,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,3,0.667,0,3,3,2,0,0,2,1,9,3.4,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+3,33,6,2020-12-12,Oklahoma State,@,Wichita State,REG (Non-Conf),W 67-64,,10,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,1,0.0,0,2,2,0,1,0,1,3,7,4.4,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+4,34,7,2020-12-16,Oklahoma State,,TCU,REG (Conf),L 76-77,,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,2,3,0,2,2,2,1.5,H,0,1,avery-andersoniii-1,Avery Anderson III,2021
+5,35,8,2020-12-20,Oklahoma State,@,Texas,REG (Conf),L 74-77,*,35,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,3,0.667,0,6,6,1,3,0,0,5,11,10.1,A,0,1,avery-andersoniii-1,Avery Anderson III,2021
+6,36,9,2021-01-02,Oklahoma State,@,Texas Tech,REG (Conf),W 82-77 (OT),*,40,6,7,0.857,1,1,1.0,5,6,0.833,0.929,4,4,1.0,0,6,6,1,2,0,1,3,17,16.8,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+7,37,10,2021-01-04,Oklahoma State,,West Virginia,REG (Conf),L 84-87,*,22,0,4,0.0,0,2,0.0,0,2,0.0,0.0,4,6,0.667,1,3,4,2,1,1,1,4,4,2.5,H,0,1,avery-andersoniii-1,Avery Anderson III,2021
+8,38,11,2021-01-09,Oklahoma State,@,Kansas State,REG (Conf),W 70-54,*,30,5,10,0.5,1,3,0.333,4,7,0.571,0.55,0,0,,1,3,4,4,1,0,2,5,11,7.4,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+9,39,12,2021-01-12,Oklahoma State,,Kansas,REG (Conf),W 75-70,*,32,5,6,0.833,1,2,0.5,4,4,1.0,0.917,3,3,1.0,0,3,3,3,2,0,3,2,14,13.0,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+10,40,13,2021-01-23,Oklahoma State,,Baylor,REG (Conf),L 66-81,*,37,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,1,4,5,0,1,1,5,4,8,-0.1,H,0,1,avery-andersoniii-1,Avery Anderson III,2021
+11,41,14,2021-01-25,Oklahoma State,@,Iowa State,REG (Conf),W 81-60,*,27,5,10,0.5,1,3,0.333,4,7,0.571,0.55,0,0,,1,2,3,5,1,0,5,1,11,6.4,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+12,42,15,2021-01-30,Oklahoma State,,Arkansas,REG (Non-Conf),W 81-77,*,21,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,0,,0,2,2,0,0,0,3,3,13,6.5,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+13,43,16,2021-02-03,Oklahoma State,@,TCU,REG (Conf),L 78-81,*,36,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,3,1,2,1,5,4,3.4,A,0,1,avery-andersoniii-1,Avery Anderson III,2021
+14,44,17,2021-02-06,Oklahoma State,,Texas,REG (Conf),W 75-67 (2OT),*,44,4,13,0.308,0,2,0.0,4,11,0.364,0.308,8,9,0.889,2,8,10,1,2,0,7,4,16,6.0,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+15,45,18,2021-02-08,Oklahoma State,@,Kansas,REG (Conf),L 66-78,*,28,4,9,0.444,1,3,0.333,3,6,0.5,0.5,4,4,1.0,1,4,5,3,1,0,4,4,13,7.7,A,0,1,avery-andersoniii-1,Avery Anderson III,2021
+16,46,19,2021-02-13,Oklahoma State,,Kansas State,REG (Conf),W 67-60,*,33,3,10,0.3,0,2,0.0,3,8,0.375,0.3,2,2,1.0,0,3,3,4,1,1,0,2,8,6.8,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+17,47,20,2021-02-16,Oklahoma State,,Iowa State,REG (Conf),W 76-58,*,35,3,11,0.273,0,2,0.0,3,9,0.333,0.273,2,2,1.0,0,7,7,5,1,0,2,3,8,4.9,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+18,48,21,2021-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 74-69 (OT),*,38,5,12,0.417,0,2,0.0,5,10,0.5,0.417,6,6,1.0,0,2,2,1,0,1,2,1,16,9.2,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+19,49,22,2021-02-27,Oklahoma State,@,Oklahoma,REG (Conf),W 94-90 (OT),*,42,6,13,0.462,1,3,0.333,5,10,0.5,0.5,2,2,1.0,1,5,6,3,2,0,3,4,15,10.0,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+20,50,23,2021-03-01,Oklahoma State,,Oklahoma,REG (Conf),W 79-75,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,0,2,2,0,2,0,3,1,11,6.5,H,1,1,avery-andersoniii-1,Avery Anderson III,2021
+21,51,24,2021-03-04,Oklahoma State,@,Baylor,REG (Conf),L 70-81,*,25,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,1,1,2,2,0,2,4,9,6.1,A,0,1,avery-andersoniii-1,Avery Anderson III,2021
+22,52,25,2021-03-06,Oklahoma State,@,West Virginia,REG (Conf),W 85-80,*,30,11,14,0.786,1,2,0.5,10,12,0.833,0.821,8,10,0.8,0,6,6,0,1,0,4,4,31,22.0,A,1,1,avery-andersoniii-1,Avery Anderson III,2021
+23,53,26,2021-03-11,Oklahoma State,N,West Virginia,CTOURN,W 72-69,*,37,6,13,0.462,2,3,0.667,4,10,0.4,0.538,3,5,0.6,1,3,4,3,2,0,4,3,17,10.0,N,1,0,avery-andersoniii-1,Avery Anderson III,2021
+24,54,27,2021-03-12,Oklahoma State,N,Baylor,CTOURN,W 83-74,*,33,8,13,0.615,1,2,0.5,7,11,0.636,0.654,3,3,1.0,1,4,5,1,1,0,4,4,20,12.1,N,1,0,avery-andersoniii-1,Avery Anderson III,2021
+25,55,28,2021-03-13,Oklahoma State,N,Texas,CTOURN,L 86-91,*,37,4,10,0.4,0,3,0.0,4,7,0.571,0.4,2,2,1.0,1,2,3,3,1,1,4,5,10,3.7,N,0,0,avery-andersoniii-1,Avery Anderson III,2021
+26,56,29,2021-03-19,Oklahoma State,N,Liberty,ROUND-64,W 69-60,*,36,8,14,0.571,1,2,0.5,7,12,0.583,0.607,4,5,0.8,1,6,7,0,4,1,2,2,21,18.4,N,1,0,avery-andersoniii-1,Avery Anderson III,2021
+27,57,30,2021-03-21,Oklahoma State,N,Oregon State,ROUND-32,L 70-80,*,34,3,12,0.25,0,3,0.0,3,9,0.333,0.25,10,13,0.769,1,2,3,4,4,0,0,4,16,14.1,N,0,0,avery-andersoniii-1,Avery Anderson III,2021

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,108,1,2011-11-11,Creighton,,North Carolina A&T,REG (Non-Conf),W 97-65,*,26,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,6,0.667,3,3,6,8,0,0,1,1,11,12.3,H,1,1,antoine-young-1,Antoine Young,2012
+2,109,2,2011-11-13,Creighton,,Chicago State,REG (Non-Conf),W 95-61,*,22,0,5,0.0,0,1,0.0,0,4,0.0,0.0,2,2,1.0,0,1,1,3,2,0,1,1,2,1.5,H,1,1,antoine-young-1,Antoine Young,2012
+3,110,3,2011-11-16,Creighton,@,UAB,REG (Non-Conf),W 70-60,*,28,5,9,0.556,0,0,,5,9,0.556,0.556,3,6,0.5,1,1,2,0,0,0,2,2,13,5.7,A,1,1,antoine-young-1,Antoine Young,2012
+4,111,4,2011-11-20,Creighton,N,Iowa,REG (Non-Conf),W 82-59,*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,1,1.0,1,3,4,4,1,0,2,0,5,5.0,N,1,1,antoine-young-1,Antoine Young,2012
+5,112,5,2011-11-25,Creighton,,Campbell,REG (Non-Conf),W 104-81,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,5,8,0.625,1,2,3,9,2,0,2,1,11,14.7,H,1,1,antoine-young-1,Antoine Young,2012
+6,113,6,2011-11-30,Creighton,@,San Diego State,REG (Non-Conf),W 85-83,*,32,7,12,0.583,1,2,0.5,6,10,0.6,0.625,3,6,0.5,0,2,2,4,1,0,0,1,18,15.2,A,1,1,antoine-young-1,Antoine Young,2012
+7,114,7,2011-12-04,Creighton,,Nebraska,REG (Non-Conf),W 76-66,*,27,2,6,0.333,0,0,,2,6,0.333,0.333,10,10,1.0,0,1,1,5,0,0,3,3,14,10.2,H,1,1,antoine-young-1,Antoine Young,2012
+8,115,8,2011-12-10,Creighton,@,Saint Joseph's,REG (Non-Conf),L 71-80,*,31,5,13,0.385,2,3,0.667,3,10,0.3,0.462,3,4,0.75,0,0,0,3,2,0,2,4,15,8.0,A,0,1,antoine-young-1,Antoine Young,2012
+9,116,9,2011-12-17,Creighton,,Houston Baptist,REG (Non-Conf),W 97-62,*,23,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,3,1,0,4,1,0,-3.1,H,1,1,antoine-young-1,Antoine Young,2012
+10,117,10,2011-12-19,Creighton,@,Tulsa,REG (Non-Conf),W 83-64,*,33,6,13,0.462,0,0,,6,13,0.462,0.462,2,4,0.5,1,3,4,4,5,0,3,0,14,12.9,A,1,1,antoine-young-1,Antoine Young,2012
+11,118,11,2011-12-22,Creighton,,Northwestern,REG (Non-Conf),W 87-79,*,38,5,13,0.385,1,3,0.333,4,10,0.4,0.423,2,4,0.5,0,1,1,7,1,0,1,4,13,8.7,H,1,1,antoine-young-1,Antoine Young,2012
+12,119,12,2011-12-28,Creighton,,Missouri State,REG (Conf),L 65-77,*,31,3,13,0.231,1,2,0.5,2,11,0.182,0.269,6,8,0.75,0,4,4,2,0,0,2,0,13,4.9,H,0,1,antoine-young-1,Antoine Young,2012
+13,120,13,2011-12-31,Creighton,@,Wichita State,REG (Conf),W 68-61,*,34,5,14,0.357,1,2,0.5,4,12,0.333,0.393,8,10,0.8,0,2,2,3,1,0,2,1,19,11.7,A,1,1,antoine-young-1,Antoine Young,2012
+14,121,14,2012-01-03,Creighton,,Drake,REG (Conf),W 76-59,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,8,9,0.889,0,3,3,3,2,0,6,1,18,12.6,H,1,1,antoine-young-1,Antoine Young,2012
+15,122,15,2012-01-07,Creighton,@,Bradley,REG (Conf),W 92-83,*,35,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,2,0.5,0,4,4,8,0,0,2,2,7,5.5,A,1,1,antoine-young-1,Antoine Young,2012
+16,123,16,2012-01-10,Creighton,,Northern Iowa,REG (Conf),W 63-60,*,35,9,14,0.643,1,1,1.0,8,13,0.615,0.679,2,3,0.667,1,2,3,1,1,0,0,1,21,17.0,H,1,1,antoine-young-1,Antoine Young,2012
+17,124,17,2012-01-13,Creighton,@,Illinois State,REG (Conf),W 87-78,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,3,6,0.5,0,0,0,5,0,0,1,1,13,9.6,A,1,1,antoine-young-1,Antoine Young,2012
+18,125,18,2012-01-15,Creighton,,Southern Illinois,REG (Conf),W 90-71,*,31,5,10,0.5,0,0,,5,10,0.5,0.5,4,5,0.8,0,1,1,6,0,0,3,1,14,9.7,H,1,1,antoine-young-1,Antoine Young,2012
+19,126,19,2012-01-18,Creighton,@,Missouri State,REG (Conf),W 66-65,*,32,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,0,0,0,6,1,0,0,0,9,9.1,A,1,1,antoine-young-1,Antoine Young,2012
+20,127,20,2012-01-21,Creighton,,Indiana State,REG (Conf),W 75-49,*,25,2,8,0.25,0,0,,2,8,0.25,0.25,4,4,1.0,0,1,1,4,0,0,0,1,8,5.9,H,1,1,antoine-young-1,Antoine Young,2012
+21,128,21,2012-01-25,Creighton,@,Drake,REG (Conf),W 77-69,*,28,1,9,0.111,1,2,0.5,0,7,0.0,0.167,4,4,1.0,1,0,1,3,0,0,2,2,7,1.1,A,1,1,antoine-young-1,Antoine Young,2012
+22,129,22,2012-01-28,Creighton,,Bradley,REG (Conf),W 73-59,*,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,5,0,0,1,0,2,2.1,H,1,1,antoine-young-1,Antoine Young,2012
+23,130,23,2012-02-01,Creighton,,Illinois State,REG (Conf),W 102-74,*,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,0,1,1,7,2,0,1,1,5,7.0,H,1,1,antoine-young-1,Antoine Young,2012
+24,131,24,2012-02-04,Creighton,@,Northern Iowa,REG (Conf),L 62-65,*,35,9,21,0.429,1,1,1.0,8,20,0.4,0.452,4,5,0.8,1,3,4,2,0,1,1,0,23,14.2,A,0,1,antoine-young-1,Antoine Young,2012
+25,132,25,2012-02-07,Creighton,@,Evansville,REG (Conf),L 57-65,*,35,4,9,0.444,0,2,0.0,4,7,0.571,0.444,1,4,0.25,1,1,2,4,0,0,2,2,9,4.1,A,0,1,antoine-young-1,Antoine Young,2012
+26,133,26,2012-02-11,Creighton,,Wichita State,REG (Conf),L 68-89,*,30,3,7,0.429,0,2,0.0,3,5,0.6,0.429,5,8,0.625,0,0,0,5,0,0,1,1,11,8.2,H,0,1,antoine-young-1,Antoine Young,2012
+27,134,27,2012-02-14,Creighton,@,Southern Illinois,REG (Conf),W 88-69,*,32,6,9,0.667,0,0,,6,9,0.667,0.667,3,4,0.75,0,3,3,8,1,0,4,0,15,14.2,A,1,1,antoine-young-1,Antoine Young,2012
+28,135,28,2012-02-18,Creighton,,Long Beach State,REG (Non-Conf),W 81-79,*,31,6,12,0.5,0,1,0.0,6,11,0.545,0.5,4,5,0.8,0,1,1,1,1,0,2,2,16,8.8,H,1,1,antoine-young-1,Antoine Young,2012
+29,136,29,2012-02-21,Creighton,,Evansville,REG (Conf),W 93-92 (OT),*,39,4,8,0.5,0,0,,4,8,0.5,0.5,13,14,0.929,0,3,3,7,1,0,4,2,21,18.6,H,1,1,antoine-young-1,Antoine Young,2012
+30,137,30,2012-02-25,Creighton,@,Indiana State,REG (Conf),W 61-60,*,32,8,15,0.533,0,0,,8,15,0.533,0.533,5,7,0.714,1,2,3,4,0,0,0,1,21,16.6,A,1,1,antoine-young-1,Antoine Young,2012
+31,138,31,2012-03-02,Creighton,N,Drake,CTOURN,W 68-61,*,33,6,8,0.75,0,1,0.0,6,7,0.857,0.75,4,4,1.0,0,1,1,3,0,0,2,1,16,12.8,N,1,0,antoine-young-1,Antoine Young,2012
+32,139,32,2012-03-03,Creighton,N,Evansville,CTOURN,W 99-71,*,20,3,4,0.75,0,0,,3,4,0.75,0.75,7,7,1.0,0,2,2,6,1,0,0,0,13,17.2,N,1,0,antoine-young-1,Antoine Young,2012
+33,140,33,2012-03-04,Creighton,N,Illinois State,CTOURN,W 83-79 (OT),*,36,3,9,0.333,0,0,,3,9,0.333,0.333,8,14,0.571,1,3,4,4,0,0,4,3,14,5.7,N,1,0,antoine-young-1,Antoine Young,2012
+34,141,34,2012-03-16,Creighton,N,Alabama,ROUND-64,W 58-57,*,31,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,5,0,0,2,2,2,-0.1,N,1,0,antoine-young-1,Antoine Young,2012
+35,142,35,2012-03-18,Creighton,N,North Carolina,ROUND-32,L 73-87,*,31,4,12,0.333,0,0,,4,12,0.333,0.333,2,3,0.667,0,1,1,4,2,0,2,2,10,5.1,N,0,0,antoine-young-1,Antoine Young,2012

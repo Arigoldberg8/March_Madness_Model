@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,2,2017-11-14,Davidson,,UNC Wilmington,REG (Non-Conf),W 108-81,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,1,3,3,1.5,H,1,1,will-magarity-1,Will Magarity,2018
+2,83,3,2017-11-21,Davidson,@,Nevada,REG (Non-Conf),L 68-81,,18,3,7,0.429,0,4,0.0,3,3,1.0,0.429,0,0,,1,5,6,1,0,0,1,2,6,3.4,A,0,1,will-magarity-1,Will Magarity,2018
+3,84,4,2017-11-25,Davidson,@,Appalachian State,REG (Non-Conf),L 62-78,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,2,2,4,0,0,0,0,1,2,2.6,A,0,1,will-magarity-1,Will Magarity,2018
+4,85,5,2017-11-28,Davidson,@,Charlotte,REG (Non-Conf),W 85-70,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,1,0,0,2,1.3,A,1,1,will-magarity-1,Will Magarity,2018
+5,86,6,2017-12-01,Davidson,N,North Carolina,REG (Non-Conf),L 75-85,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,1,1,0,2,3,2.9,N,0,1,will-magarity-1,Will Magarity,2018
+6,87,7,2017-12-05,Davidson,,VMI,REG (Non-Conf),W 74-51,,17,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,1,1,0,1,1,0,0,8,8.4,H,1,1,will-magarity-1,Will Magarity,2018
+7,88,8,2017-12-16,Davidson,@,Virginia,REG (Non-Conf),L 60-80,,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,1,1,1,2,0.2,A,0,1,will-magarity-1,Will Magarity,2018
+8,89,9,2017-12-22,Davidson,N,New Mexico State,REG (Non-Conf),L 68-69,,23,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,1,2,3,0,0,2,2,2,8,5.3,N,0,1,will-magarity-1,Will Magarity,2018
+9,90,10,2017-12-24,Davidson,@,Hawaii,REG (Non-Conf),L 71-79,,18,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,2,3,5,0,1,0,1,3,0,-2.4,A,0,1,will-magarity-1,Will Magarity,2018
+10,91,11,2017-12-25,Davidson,N,Akron,REG (Non-Conf),W 91-78,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,1,3,5,1.8,N,1,1,will-magarity-1,Will Magarity,2018
+11,92,12,2017-12-30,Davidson,@,Richmond,REG (Conf),L 58-69,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,1,3,3,-0.6,A,0,1,will-magarity-1,Will Magarity,2018
+12,93,13,2018-01-03,Davidson,,Saint Louis,REG (Conf),W 54-51,,25,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,2,3,5,0,0,0,1,3,9,6.5,H,1,1,will-magarity-1,Will Magarity,2018
+13,94,14,2018-01-07,Davidson,@,George Mason,REG (Conf),W 86-59,,18,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,4,4,1,1,0,0,1,7,7.2,A,1,1,will-magarity-1,Will Magarity,2018
+14,95,15,2018-01-10,Davidson,,George Washington,REG (Conf),W 72-45,,25,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,6,3,9,2,0,1,2,1,8,10.9,H,1,1,will-magarity-1,Will Magarity,2018
+15,96,16,2018-01-14,Davidson,@,Fordham,REG (Conf),W 75-45,,20,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,0,1,1,3,1,1,0,1,7,5.6,A,1,1,will-magarity-1,Will Magarity,2018
+16,97,17,2018-01-19,Davidson,,St. Bonaventure,REG (Conf),W 83-73,,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,1,4,5,1,0,0,1,2,7,4.8,H,1,1,will-magarity-1,Will Magarity,2018
+17,98,18,2018-01-23,Davidson,@,Dayton,REG (Conf),L 64-65,,27,5,7,0.714,1,3,0.333,4,4,1.0,0.786,1,1,1.0,5,7,12,1,1,0,0,2,12,15.6,A,0,1,will-magarity-1,Will Magarity,2018
+18,99,19,2018-01-28,Davidson,,Richmond,REG (Conf),L 63-66,,28,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,3,5,8,0,0,1,2,1,5,5.6,H,0,1,will-magarity-1,Will Magarity,2018
+19,100,20,2018-01-31,Davidson,,La Salle,REG (Conf),W 84-65,,22,3,6,0.5,3,3,1.0,0,3,0.0,0.75,0,0,,2,3,5,0,2,1,2,3,9,7.8,H,1,1,will-magarity-1,Will Magarity,2018
+20,101,21,2018-02-03,Davidson,@,George Washington,REG (Conf),W 87-58,,20,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,4,4,1,1,1,3,2,3,0.7,A,1,1,will-magarity-1,Will Magarity,2018
+21,102,22,2018-02-06,Davidson,,Saint Joseph's,REG (Conf),W 91-62,,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,6,6,0,0,2,2,1,7,5.1,H,1,1,will-magarity-1,Will Magarity,2018
+22,103,23,2018-02-09,Davidson,@,Rhode Island,REG (Conf),L 59-72,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,0,2,1,1,1,4,4.9,A,0,1,will-magarity-1,Will Magarity,2018
+23,104,24,2018-02-14,Davidson,@,VCU,REG (Conf),W 74-63,,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,2,3,1,0,0,0,4,5,3.7,A,1,1,will-magarity-1,Will Magarity,2018
+24,105,25,2018-02-17,Davidson,,Massachusetts,REG (Conf),W 83-78,,24,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,1,0.0,0,6,6,1,0,1,0,2,11,10.8,H,1,1,will-magarity-1,Will Magarity,2018
+25,106,26,2018-02-21,Davidson,,Fordham,REG (Conf),W 76-52,,23,1,1,1.0,1,1,1.0,0,0,,1.5,1,3,0.333,2,5,7,2,1,1,0,0,4,8.9,H,1,1,will-magarity-1,Will Magarity,2018
+26,107,27,2018-02-24,Davidson,@,Duquesne,REG (Conf),W 71-60,,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,6,8,0,0,0,1,0,4,4.2,A,1,1,will-magarity-1,Will Magarity,2018
+27,108,28,2018-02-27,Davidson,@,St. Bonaventure,REG (Conf),L 113-117 (3OT),,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,4,5,2,1,1,0,5,2,4.0,A,0,1,will-magarity-1,Will Magarity,2018
+28,109,29,2018-03-02,Davidson,,Rhode Island,REG (Conf),W 63-61,*,21,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,4,2,6,0,0,0,3,2,9,5.3,H,1,1,will-magarity-1,Will Magarity,2018
+29,110,30,2018-03-09,Davidson,N,Saint Louis,CTOURN,W 78-60,,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,0,0,1,0,0,0,3,7,4.2,N,1,0,will-magarity-1,Will Magarity,2018
+30,111,31,2018-03-10,Davidson,N,St. Bonaventure,CTOURN,W 82-70,,23,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,0,0,0,1,2,7,4.6,N,1,0,will-magarity-1,Will Magarity,2018
+31,112,32,2018-03-11,Davidson,N,Rhode Island,CTOURN,W 58-57,,18,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,3,3,1,0,3,2,3,2,1.8,N,1,0,will-magarity-1,Will Magarity,2018
+32,113,33,2018-03-15,Davidson,N,Kentucky,ROUND-64,L 73-78,,28,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,2,0.5,2,4,6,1,0,1,1,4,11,9.1,N,0,0,will-magarity-1,Will Magarity,2018

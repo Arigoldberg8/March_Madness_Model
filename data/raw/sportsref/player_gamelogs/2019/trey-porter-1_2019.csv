@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2018-11-06,Nevada,,Brigham Young,REG (Non-Conf),W 86-70,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,3,6,0.5,3,4,7,0,0,3,1,1,9,8.1,H,1,1,trey-porter-1,Trey Porter,2019
+2,95,2,2018-11-09,Nevada,,Pacific,REG (Non-Conf),W 83-61,*,13,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,4,5,0,0,0,0,2,3,2.7,H,1,1,trey-porter-1,Trey Porter,2019
+3,96,3,2018-11-16,Nevada,,Little Rock,REG (Non-Conf),W 87-59,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,0,0,1,1,5,2,-1.1,H,1,1,trey-porter-1,Trey Porter,2019
+4,97,4,2018-11-19,Nevada,,California Baptist,REG (Non-Conf),W 90-55,*,17,4,7,0.571,0,0,,4,7,0.571,0.571,6,7,0.857,3,6,9,1,0,0,3,2,14,11.1,H,1,1,trey-porter-1,Trey Porter,2019
+5,98,5,2018-11-22,Nevada,N,Tulsa,REG (Non-Conf),W 96-86,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,3,5,0.6,2,0,2,0,0,2,1,5,7,5.4,N,1,1,trey-porter-1,Trey Porter,2019
+6,99,6,2018-11-23,Nevada,N,Massachusetts,REG (Non-Conf),W 110-87,*,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,0,0,0,0,3,4,1.1,N,1,1,trey-porter-1,Trey Porter,2019
+7,100,7,2018-11-27,Nevada,@,Loyola Chicago,REG (Non-Conf),W 79-65,*,29,7,9,0.778,0,0,,7,9,0.778,0.778,0,2,0.0,4,6,10,0,0,2,2,3,14,12.5,A,1,1,trey-porter-1,Trey Porter,2019
+8,101,8,2018-12-01,Nevada,@,Southern California,REG (Non-Conf),W 73-61,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,4,4,0,0,0,0,2,6,5.8,A,1,1,trey-porter-1,Trey Porter,2019
+9,102,9,2018-12-07,Nevada,N,Arizona State,REG (Non-Conf),W 72-66,*,17,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,3,4,1,0,2,1,2,8,8.0,N,1,1,trey-porter-1,Trey Porter,2019
+10,103,10,2018-12-09,Nevada,N,Grand Canyon,REG (Non-Conf),W 74-66,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,0,0,-1.1,N,1,1,trey-porter-1,Trey Porter,2019
+11,104,11,2018-12-15,Nevada,,South Dakota State,REG (Non-Conf),W 72-68,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,6,7,0.857,3,6,9,1,0,2,2,2,12,11.8,H,1,1,trey-porter-1,Trey Porter,2019
+12,105,12,2018-12-22,Nevada,,Akron,REG (Non-Conf),W 68-62,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,0,1,0,1,1,2,3,3,1.5,H,1,1,trey-porter-1,Trey Porter,2019
+13,106,13,2018-12-29,Nevada,@,Utah,REG (Non-Conf),W 86-71,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,0,3,3,1,0,0,2,5,9,3.9,A,1,1,trey-porter-1,Trey Porter,2019
+14,107,14,2019-01-02,Nevada,,Utah State,REG (Conf),W 72-49,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,1,7,8,1,1,1,2,3,8,6.2,H,1,1,trey-porter-1,Trey Porter,2019
+15,108,15,2019-01-05,Nevada,@,New Mexico,REG (Conf),L 58-85,*,11,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,1,4,5,0,0,1,1,3,5,4.4,A,0,1,trey-porter-1,Trey Porter,2019
+16,109,16,2019-01-09,Nevada,,San Jose State,REG (Conf),W 92-53,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,3,10,13,1,2,1,0,1,0,6.7,H,1,1,trey-porter-1,Trey Porter,2019
+17,110,17,2019-01-12,Nevada,@,Fresno State,REG (Conf),W 74-64,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,4,1,5,1,0,1,0,4,4,5.2,A,1,1,trey-porter-1,Trey Porter,2019
+18,111,18,2019-01-15,Nevada,@,Boise State,REG (Conf),W 72-71,*,16,4,6,0.667,0,0,,4,6,0.667,0.667,4,4,1.0,1,1,2,0,0,0,1,4,12,7.8,A,1,1,trey-porter-1,Trey Porter,2019
+19,112,19,2019-01-19,Nevada,,Air Force,REG (Conf),W 67-52,*,19,3,3,1.0,0,0,,3,3,1.0,1.0,5,10,0.5,1,5,6,0,2,0,1,4,11,9.7,H,1,1,trey-porter-1,Trey Porter,2019
+20,113,20,2019-01-23,Nevada,,Colorado State,REG (Conf),W 100-60,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,7,7,1.0,1,2,3,1,1,0,1,1,13,13.0,H,1,1,trey-porter-1,Trey Porter,2019
+21,114,21,2019-01-29,Nevada,@,UNLV,REG (Conf),W 87-70,*,11,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,2,1,3,1,0,1,1,4,7,5.8,A,1,1,trey-porter-1,Trey Porter,2019
+22,115,22,2019-02-02,Nevada,,Boise State,REG (Conf),W 93-73,*,10,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,1,0.0,0,1,1,1,0,0,0,4,7,3.0,H,1,1,trey-porter-1,Trey Porter,2019
+23,116,23,2019-02-06,Nevada,@,Colorado State,REG (Conf),W 98-82,*,9,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,0,1,0,0,0,1,3,5,1.1,A,1,1,trey-porter-1,Trey Porter,2019
+24,117,24,2019-02-09,Nevada,,New Mexico,REG (Conf),W 91-62,*,24,8,11,0.727,0,1,0.0,8,10,0.8,0.727,4,5,0.8,3,6,9,0,0,0,2,4,20,15.4,H,1,1,trey-porter-1,Trey Porter,2019
+25,118,25,2019-02-16,Nevada,@,Wyoming,REG (Conf),W 82-49,*,13,5,7,0.714,0,0,,5,7,0.714,0.714,4,5,0.8,2,4,6,0,0,0,2,4,14,9.7,A,1,1,trey-porter-1,Trey Porter,2019
+26,119,26,2019-02-20,Nevada,@,San Diego State,REG (Conf),L 57-65,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,6,0.167,2,4,6,0,0,1,0,3,7,4.8,A,0,1,trey-porter-1,Trey Porter,2019
+27,120,27,2019-02-23,Nevada,,Fresno State,REG (Conf),W 74-68,*,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,1,3,2,0.2,H,1,1,trey-porter-1,Trey Porter,2019
+28,121,28,2019-02-27,Nevada,,UNLV,REG (Conf),W 89-73,*,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,1,1,0,1,2,1,1,3,3.3,H,1,1,trey-porter-1,Trey Porter,2019
+29,122,29,2019-03-02,Nevada,@,Utah State,REG (Conf),L 76-81,*,15,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,4,0.25,0,3,3,1,0,1,0,2,1,-1.5,A,0,1,trey-porter-1,Trey Porter,2019
+30,123,30,2019-03-05,Nevada,@,Air Force,REG (Conf),W 90-79,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,5,6,0,0,0,1,1,8,6.5,A,1,1,trey-porter-1,Trey Porter,2019
+31,124,31,2019-03-09,Nevada,,San Diego State,REG (Conf),W 81-53,*,24,3,4,0.75,0,0,,3,4,0.75,0.75,7,12,0.583,0,5,5,2,0,2,1,1,13,12.3,H,1,1,trey-porter-1,Trey Porter,2019
+32,125,32,2019-03-14,Nevada,N,Boise State,CTOURN,W 77-69,*,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,3,5,0,0,0,1,3,4,3.5,N,1,0,trey-porter-1,Trey Porter,2019
+33,126,33,2019-03-15,Nevada,N,San Diego State,CTOURN,L 56-65,*,29,2,6,0.333,0,0,,2,6,0.333,0.333,4,6,0.667,2,8,10,1,0,3,1,2,8,8.6,N,0,0,trey-porter-1,Trey Porter,2019
+34,127,34,2019-03-21,Nevada,N,Florida,ROUND-64,L 61-70,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,1,0,1,0,2,2,2.6,N,0,0,trey-porter-1,Trey Porter,2019

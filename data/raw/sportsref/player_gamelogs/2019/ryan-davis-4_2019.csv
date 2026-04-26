@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-09,Vermont,@,Boston University,REG (Non-Conf),W 78-72,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,2,0,-0.8,A,1,1,ryan-davis-4,Ryan Davis,2019
+2,2,2,2018-11-12,Vermont,@,Kansas,REG (Non-Conf),L 68-84,,15,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,2,1,3,1,0,0,0,0,2,-0.1,A,0,1,ryan-davis-4,Ryan Davis,2019
+3,3,4,2018-11-16,Vermont,@,Louisville,REG (Non-Conf),L 78-86,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,0,2,0,0,0,0,5,4,1.7,A,0,1,ryan-davis-4,Ryan Davis,2019
+4,4,5,2018-11-21,Vermont,,Yale,REG (Non-Conf),W 79-70,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,3,0,-3.6,H,1,1,ryan-davis-4,Ryan Davis,2019
+5,5,6,2018-11-25,Vermont,,Bucknell,REG (Non-Conf),L 61-69,,10,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,2,0,2,0,0,0,0,1,8,4.3,H,0,1,ryan-davis-4,Ryan Davis,2019
+6,6,7,2018-11-28,Vermont,@,George Washington,REG (Non-Conf),W 69-53,*,12,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,0,0,1,1,2,4,1.2,A,1,1,ryan-davis-4,Ryan Davis,2019
+7,7,8,2018-11-30,Vermont,@,Towson,REG (Non-Conf),W 70-64,*,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,3,0,-1.6,A,1,1,ryan-davis-4,Ryan Davis,2019
+8,8,18,2019-01-16,Vermont,@,New Hampshire,REG (Conf),W 73-59,,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,2,2,0,0,1,0,1,4,3.9,A,1,1,ryan-davis-4,Ryan Davis,2019
+9,9,19,2019-01-19,Vermont,,Binghamton,REG (Conf),W 78-50,,17,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,5,1,6,0,0,0,2,1,6,4.7,H,1,1,ryan-davis-4,Ryan Davis,2019
+10,10,20,2019-01-23,Vermont,,UMBC,REG (Conf),L 61-74,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,0,1,ryan-davis-4,Ryan Davis,2019
+11,11,21,2019-01-26,Vermont,@,Stony Brook,REG (Conf),W 73-52,,13,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,1,0,0,0,3,5,1.4,A,1,1,ryan-davis-4,Ryan Davis,2019
+12,12,22,2019-02-02,Vermont,@,UMass Lowell,REG (Conf),W 74-65,,9,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,2,2,4,0,0,0,0,2,7,6.2,A,1,1,ryan-davis-4,Ryan Davis,2019
+13,13,23,2019-02-06,Vermont,,Maine,REG (Conf),W 86-63,,7,0,0,,0,0,,0,0,,,0,0,,2,0,2,1,0,0,0,0,0,2.1,H,1,1,ryan-davis-4,Ryan Davis,2019
+14,14,24,2019-02-09,Vermont,,Albany (NY),REG (Conf),W 67-49,,15,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,1,1,0,1,1,0,1,4,2.9,H,1,1,ryan-davis-4,Ryan Davis,2019
+15,15,25,2019-02-13,Vermont,,New Hampshire,REG (Conf),W 73-44,,20,2,5,0.4,1,1,1.0,1,4,0.25,0.5,1,2,0.5,2,1,3,0,0,0,0,1,6,4.2,H,1,1,ryan-davis-4,Ryan Davis,2019
+16,16,26,2019-02-16,Vermont,@,Hartford,REG (Conf),W 77-75,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,0,0,1,0,0,5,4.7,A,1,1,ryan-davis-4,Ryan Davis,2019
+17,17,27,2019-02-21,Vermont,@,UMBC,REG (Conf),L 56-65,,12,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,3,5,0,0,0,0,2,6,5.2,A,0,1,ryan-davis-4,Ryan Davis,2019
+18,18,28,2019-02-23,Vermont,@,Binghamton,REG (Conf),W 69-63,,3,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,A,1,1,ryan-davis-4,Ryan Davis,2019
+19,19,29,2019-03-02,Vermont,,Stony Brook,REG (Conf),W 56-50,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,2,3,1,0,1,2,1,5,2.6,H,1,1,ryan-davis-4,Ryan Davis,2019
+20,20,30,2019-03-05,Vermont,,UMass Lowell,REG (Conf),W 74-57,,5,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,1,1,5,3.0,H,1,1,ryan-davis-4,Ryan Davis,2019
+21,21,31,2019-03-09,Vermont,,Maine,CTOURN,W 73-57,,11,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,3,1.0,2,1,3,1,0,1,0,4,7,5.1,H,1,0,ryan-davis-4,Ryan Davis,2019
+22,22,32,2019-03-12,Vermont,,Binghamton,CTOURN,W 84-51,,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,2,2,2,-0.8,H,1,0,ryan-davis-4,Ryan Davis,2019
+23,23,33,2019-03-16,Vermont,,UMBC,CTOURN,W 66-49,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,0,ryan-davis-4,Ryan Davis,2019
+24,24,34,2019-03-21,Vermont,N,Florida State,ROUND-64,L 69-76,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,N,0,0,ryan-davis-4,Ryan Davis,2019

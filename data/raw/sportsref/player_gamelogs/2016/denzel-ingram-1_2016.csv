@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,2,2015-11-16,UNC Wilmington,,Eastern Kentucky,REG (Non-Conf),W 78-59,,31,4,13,0.308,2,7,0.286,2,6,0.333,0.385,5,6,0.833,1,0,1,4,2,0,2,2,15,9.8,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+2,63,3,2015-11-21,UNC Wilmington,,Western Michigan,REG (Non-Conf),W 80-76,*,30,3,13,0.231,1,8,0.125,2,5,0.4,0.269,5,6,0.833,0,0,0,4,2,0,3,1,12,5.1,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+3,64,4,2015-11-28,UNC Wilmington,@,East Tennessee State,REG (Non-Conf),W 94-73,,20,2,6,0.333,2,4,0.5,0,2,0.0,0.5,1,2,0.5,0,3,3,3,1,0,0,3,7,6.0,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+4,65,5,2015-12-02,UNC Wilmington,,Coker,REG (Non-Conf),W 93-73,*,28,4,12,0.333,1,2,0.5,3,10,0.3,0.375,0,0,,0,1,1,3,3,0,2,4,9,4.0,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+5,66,6,2015-12-12,UNC Wilmington,@,Georgetown,REG (Non-Conf),L 82-87,*,35,1,9,0.111,0,1,0.0,1,8,0.125,0.111,7,9,0.778,1,3,4,4,1,0,3,1,9,4.3,A,0,1,denzel-ingram-1,Denzel Ingram,2016
+6,67,7,2015-12-16,UNC Wilmington,@,East Carolina,REG (Non-Conf),L 73-78,,29,1,10,0.1,0,7,0.0,1,3,0.333,0.1,0,0,,1,0,1,6,3,0,1,1,2,1.9,A,0,1,denzel-ingram-1,Denzel Ingram,2016
+7,68,8,2015-12-19,UNC Wilmington,@,Radford,REG (Non-Conf),L 67-69,,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,3,0.667,0,1,1,2,1,0,2,2,7,3.8,A,0,1,denzel-ingram-1,Denzel Ingram,2016
+8,69,9,2015-12-22,UNC Wilmington,N,Utah Valley,REG (Non-Conf),W 102-77,,25,5,12,0.417,2,6,0.333,3,6,0.5,0.5,2,2,1.0,1,2,3,4,1,0,2,3,14,9.5,N,1,1,denzel-ingram-1,Denzel Ingram,2016
+9,70,10,2015-12-23,UNC Wilmington,N,Kansas City,REG (Non-Conf),W 76-56,,19,3,8,0.375,3,6,0.5,0,2,0.0,0.563,2,2,1.0,0,1,1,0,1,0,1,2,11,6.1,N,1,1,denzel-ingram-1,Denzel Ingram,2016
+10,71,11,2015-12-28,UNC Wilmington,,Campbell,REG (Non-Conf),W 106-83,,29,6,12,0.5,0,2,0.0,6,10,0.6,0.5,1,1,1.0,1,1,2,5,0,0,0,3,13,10.3,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+11,72,12,2015-12-31,UNC Wilmington,,Drexel,REG (Conf),W 75-63,,30,3,6,0.5,3,3,1.0,0,3,0.0,0.75,1,2,0.5,0,2,2,0,1,0,2,3,10,5.0,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+12,73,13,2016-01-02,UNC Wilmington,,Northeastern,REG (Conf),L 63-65,*,30,4,11,0.364,3,8,0.375,1,3,0.333,0.5,0,0,,0,1,1,1,3,0,0,1,11,8.5,H,0,1,denzel-ingram-1,Denzel Ingram,2016
+13,74,14,2016-01-07,UNC Wilmington,@,Towson,REG (Conf),L 60-76,*,34,6,13,0.462,4,8,0.5,2,5,0.4,0.615,2,2,1.0,0,1,1,1,1,0,1,2,18,11.5,A,0,1,denzel-ingram-1,Denzel Ingram,2016
+14,75,15,2016-01-09,UNC Wilmington,@,Delaware,REG (Conf),W 85-67,*,35,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,4,4,7,1,0,0,2,5,8.6,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+15,76,16,2016-01-14,UNC Wilmington,@,Elon,REG (Conf),W 91-82,*,34,5,12,0.417,2,5,0.4,3,7,0.429,0.5,2,2,1.0,0,0,0,5,3,0,2,3,14,10.9,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+16,77,17,2016-01-16,UNC Wilmington,,William & Mary,REG (Conf),W 97-94 (OT),*,38,10,17,0.588,8,13,0.615,2,4,0.5,0.824,2,2,1.0,0,2,2,2,2,0,7,4,30,17.5,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+17,78,18,2016-01-21,UNC Wilmington,,Delaware,REG (Conf),W 79-70,*,38,4,10,0.4,3,9,0.333,1,1,1.0,0.55,2,2,1.0,0,5,5,3,1,0,1,2,13,10.4,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+18,79,19,2016-01-24,UNC Wilmington,@,Drexel,REG (Conf),W 77-71,*,34,6,10,0.6,4,6,0.667,2,4,0.5,0.8,5,5,1.0,0,4,4,4,0,0,2,1,21,18.0,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+19,80,20,2016-01-28,UNC Wilmington,@,James Madison,REG (Conf),W 78-73,*,25,4,12,0.333,2,8,0.25,2,4,0.5,0.417,4,6,0.667,1,1,2,1,1,1,1,5,14,6.8,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+20,81,21,2016-01-30,UNC Wilmington,,College of Charleston,REG (Conf),W 65-55,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,5,10,0.5,0,1,1,2,0,0,3,1,13,5.6,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+21,82,22,2016-02-04,UNC Wilmington,@,Hofstra,REG (Conf),W 70-67,*,39,6,20,0.3,4,6,0.667,2,14,0.143,0.4,2,2,1.0,0,2,2,2,4,0,3,4,18,7.8,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+22,83,23,2016-02-06,UNC Wilmington,@,Northeastern,REG (Conf),W 90-73,*,37,5,14,0.357,2,7,0.286,3,7,0.429,0.429,0,0,,1,1,2,10,1,0,3,0,12,10.2,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+23,84,24,2016-02-11,UNC Wilmington,,Elon,REG (Conf),W 86-82,*,33,6,13,0.462,2,5,0.4,4,8,0.5,0.538,4,4,1.0,1,1,2,1,2,0,3,1,18,11.6,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+24,85,25,2016-02-13,UNC Wilmington,,James Madison,REG (Conf),W 78-68,*,33,3,13,0.231,2,9,0.222,1,4,0.25,0.308,0,0,,0,1,1,2,1,0,0,2,8,2.0,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+25,86,26,2016-02-18,UNC Wilmington,@,William & Mary,REG (Conf),L 69-87,*,36,4,15,0.267,4,11,0.364,0,4,0.0,0.4,0,0,,0,4,4,5,2,0,0,2,12,9.0,A,0,1,denzel-ingram-1,Denzel Ingram,2016
+26,87,27,2016-02-20,UNC Wilmington,@,College of Charleston,REG (Conf),W 59-55 (OT),*,42,3,9,0.333,1,6,0.167,2,3,0.667,0.389,10,10,1.0,0,6,6,2,2,0,1,3,17,14.9,A,1,1,denzel-ingram-1,Denzel Ingram,2016
+27,88,28,2016-02-25,UNC Wilmington,,Hofstra,REG (Conf),L 69-70,*,28,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,0,1,1,1,2,0,1,2,8,4.1,H,0,1,denzel-ingram-1,Denzel Ingram,2016
+28,89,29,2016-02-27,UNC Wilmington,,Towson,REG (Conf),W 74-68,*,34,3,10,0.3,3,6,0.5,0,4,0.0,0.45,2,2,1.0,2,0,2,4,2,0,4,1,11,7.0,H,1,1,denzel-ingram-1,Denzel Ingram,2016
+29,90,30,2016-03-05,UNC Wilmington,N,College of Charleston,CTOURN,W 66-64,*,34,2,9,0.222,2,7,0.286,0,2,0.0,0.333,0,1,0.0,0,3,3,3,1,0,4,3,6,-1.1,N,1,0,denzel-ingram-1,Denzel Ingram,2016
+30,91,31,2016-03-06,UNC Wilmington,N,Northeastern,CTOURN,W 73-70,*,36,4,14,0.286,2,9,0.222,2,5,0.4,0.357,4,4,1.0,1,2,3,8,0,0,2,5,14,8.7,N,1,0,denzel-ingram-1,Denzel Ingram,2016
+31,92,32,2016-03-07,UNC Wilmington,N,Hofstra,CTOURN,W 80-73 (OT),*,45,7,16,0.438,2,7,0.286,5,9,0.556,0.5,1,2,0.5,3,1,4,6,1,0,2,0,17,13.8,N,1,0,denzel-ingram-1,Denzel Ingram,2016
+32,93,33,2016-03-17,UNC Wilmington,N,Duke,ROUND-64,L 85-93,*,39,6,15,0.4,5,10,0.5,1,5,0.2,0.567,0,0,,0,4,4,2,0,0,1,3,17,9.3,N,0,0,denzel-ingram-1,Denzel Ingram,2016

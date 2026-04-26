@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2012-11-09,UCLA,,Indiana State,REG (Non-Conf),W 86-59,*,31,6,11,0.545,0,0,,6,11,0.545,0.545,5,7,0.714,4,3,7,1,1,1,5,3,17,10.8,H,1,1,travis-wear-1,Travis Wear,2013
+2,63,2,2012-11-13,UCLA,,UC Irvine,REG (Non-Conf),W 80-79 (OT),*,31,6,15,0.4,0,2,0.0,6,13,0.462,0.4,0,0,,1,7,8,1,1,1,1,5,12,6.1,H,1,1,travis-wear-1,Travis Wear,2013
+3,64,3,2012-11-15,UCLA,,James Madison,REG (Non-Conf),W 100-70,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,5,6,1,0,2,1,3,6,5.1,H,1,1,travis-wear-1,Travis Wear,2013
+4,65,4,2012-11-19,UCLA,N,Georgetown,REG (Non-Conf),L 70-78,*,34,4,10,0.4,0,0,,4,10,0.4,0.4,4,6,0.667,1,7,8,0,0,0,2,2,12,5.8,N,0,1,travis-wear-1,Travis Wear,2013
+5,66,5,2012-11-20,UCLA,N,Georgia,REG (Non-Conf),W 60-56,*,32,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,0,8,8,0,0,1,3,2,10,3.8,N,1,1,travis-wear-1,Travis Wear,2013
+6,67,6,2012-11-25,UCLA,,Cal Poly,REG (Non-Conf),L 68-70,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,0,4,4,1,1,1,3,2,14,8.7,H,0,1,travis-wear-1,Travis Wear,2013
+7,68,7,2012-11-28,UCLA,,Cal State Northridge,REG (Non-Conf),W 82-56,*,28,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,2,5,7,0,1,4,3,0,14,14.5,H,1,1,travis-wear-1,Travis Wear,2013
+8,69,8,2012-12-01,UCLA,N,San Diego State,REG (Non-Conf),L 69-78,*,32,4,10,0.4,0,0,,4,10,0.4,0.4,0,0,,4,4,8,0,0,0,1,2,8,4.8,N,0,1,travis-wear-1,Travis Wear,2013
+9,70,9,2012-12-08,UCLA,N,Texas,REG (Non-Conf),W 65-63,*,23,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,3,5,8,1,0,0,0,4,6,4.6,N,1,1,travis-wear-1,Travis Wear,2013
+10,71,10,2012-12-15,UCLA,,Prairie View A&M,REG (Non-Conf),W 95-53,*,23,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,3,1.0,2,2,4,2,1,5,1,4,8,11.3,H,1,1,travis-wear-1,Travis Wear,2013
+11,72,11,2012-12-18,UCLA,,Long Beach State,REG (Non-Conf),W 89-70,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,1,5,6,2,2,0,2,1,8,7.2,H,1,1,travis-wear-1,Travis Wear,2013
+12,73,12,2012-12-22,UCLA,,Fresno State,REG (Non-Conf),W 91-78,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,0,3,3,1,0,2,1,3,6,3.1,H,1,1,travis-wear-1,Travis Wear,2013
+13,74,13,2012-12-28,UCLA,,Missouri,REG (Non-Conf),W 97-94 (OT),*,37,11,20,0.55,0,0,,11,20,0.55,0.55,0,0,,4,5,9,1,3,2,0,1,22,21.4,H,1,1,travis-wear-1,Travis Wear,2013
+14,75,14,2013-01-03,UCLA,,California,REG (Conf),W 79-65,*,35,6,11,0.545,1,1,1.0,5,10,0.5,0.591,2,2,1.0,1,2,3,0,2,2,1,2,15,12.6,H,1,1,travis-wear-1,Travis Wear,2013
+15,76,15,2013-01-05,UCLA,,Stanford,REG (Conf),W 68-60,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,1,2,3,0,0,1,1,2,11,6.8,H,1,1,travis-wear-1,Travis Wear,2013
+16,77,16,2013-01-10,UCLA,@,Utah,REG (Conf),W 57-53,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,4,4,1.0,1,7,8,0,1,1,0,2,12,12.4,A,1,1,travis-wear-1,Travis Wear,2013
+17,78,17,2013-01-12,UCLA,@,Colorado,REG (Conf),W 78-75,*,33,11,17,0.647,0,1,0.0,11,16,0.688,0.647,1,1,1.0,1,3,4,0,1,0,1,2,23,16.3,A,1,1,travis-wear-1,Travis Wear,2013
+18,79,18,2013-01-17,UCLA,,Oregon State,REG (Conf),W 74-64,*,30,6,9,0.667,1,1,1.0,5,8,0.625,0.722,4,4,1.0,2,5,7,1,0,0,2,5,17,12.7,H,1,1,travis-wear-1,Travis Wear,2013
+19,80,19,2013-01-19,UCLA,,Oregon,REG (Conf),L 67-76,*,34,8,14,0.571,1,1,1.0,7,13,0.538,0.607,0,0,,0,2,2,0,0,1,3,4,17,7.1,H,0,1,travis-wear-1,Travis Wear,2013
+20,81,20,2013-01-24,UCLA,@,Arizona,REG (Conf),W 84-73,*,11,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,2,2,0,1,0,0,2,6,5.9,A,1,1,travis-wear-1,Travis Wear,2013
+21,82,22,2013-01-30,UCLA,,Southern California,REG (Conf),L 71-75 (OT),*,38,5,9,0.556,0,2,0.0,5,7,0.714,0.556,6,6,1.0,1,4,5,1,1,1,2,4,16,12.4,H,0,1,travis-wear-1,Travis Wear,2013
+22,83,23,2013-02-07,UCLA,,Washington,REG (Conf),W 59-57,*,34,2,9,0.222,0,0,,2,9,0.222,0.222,5,6,0.833,2,1,3,0,2,1,1,3,9,5.3,H,1,1,travis-wear-1,Travis Wear,2013
+23,84,24,2013-02-09,UCLA,,Washington State,REG (Conf),W 76-62,*,24,5,5,1.0,0,0,,5,5,1.0,1.0,1,3,0.333,3,0,3,0,1,0,1,3,11,9.6,H,1,1,travis-wear-1,Travis Wear,2013
+24,85,25,2013-02-14,UCLA,@,California,REG (Conf),L 63-76,*,30,3,9,0.333,0,0,,3,9,0.333,0.333,1,2,0.5,1,3,4,1,0,3,3,3,7,1.7,A,0,1,travis-wear-1,Travis Wear,2013
+25,86,26,2013-02-16,UCLA,@,Stanford,REG (Conf),W 88-80,*,28,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,6,6,1,0,0,1,5,2,0.1,A,1,1,travis-wear-1,Travis Wear,2013
+26,87,29,2013-03-02,UCLA,,Arizona,REG (Conf),W 74-69,*,17,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,1,2,0,1,0,2,3,6,1.8,H,1,1,travis-wear-1,Travis Wear,2013
+27,88,30,2013-03-06,UCLA,@,Washington State,REG (Conf),L 61-73,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,1,0,2,2,1.9,A,0,1,travis-wear-1,Travis Wear,2013
+28,89,31,2013-03-09,UCLA,@,Washington,REG (Conf),W 61-54,*,31,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,2,1.0,2,2,4,1,0,0,2,1,10,5.6,A,1,1,travis-wear-1,Travis Wear,2013
+29,90,32,2013-03-14,UCLA,N,Arizona State,CTOURN,W 80-75,*,33,6,14,0.429,0,0,,6,14,0.429,0.429,3,3,1.0,2,4,6,1,1,0,0,1,15,11.5,N,1,0,travis-wear-1,Travis Wear,2013
+30,91,33,2013-03-15,UCLA,N,Arizona,CTOURN,W 66-64,*,27,4,9,0.444,0,1,0.0,4,8,0.5,0.444,3,4,0.75,3,2,5,0,1,2,0,2,11,10.2,N,1,0,travis-wear-1,Travis Wear,2013
+31,92,34,2013-03-16,UCLA,N,Oregon,CTOURN,L 69-78,*,34,4,12,0.333,0,0,,4,12,0.333,0.333,5,6,0.833,3,4,7,0,1,0,1,3,13,7.9,N,0,0,travis-wear-1,Travis Wear,2013
+32,93,35,2013-03-22,UCLA,N,Minnesota,ROUND-64,L 63-83,*,20,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,3,2,5,0,0,1,0,4,4,2.7,N,0,0,travis-wear-1,Travis Wear,2013

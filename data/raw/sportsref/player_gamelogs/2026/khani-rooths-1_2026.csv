@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2025-11-03,Louisville,,South Carolina State,REG (Non-Conf),W 104-45,,21,8,12,0.667,1,4,0.25,7,8,0.875,0.708,3,5,0.6,0,7,7,3,1,1,1,1,20,18.5,H,1,1,khani-rooths-1,Khani Rooths,2026
+2,37,2,2025-11-06,Louisville,,Jackson State,REG (Non-Conf),W 106-70,*,24,5,9,0.556,1,4,0.25,4,5,0.8,0.611,5,7,0.714,1,9,10,1,1,0,2,1,16,13.6,H,1,1,khani-rooths-1,Khani Rooths,2026
+3,38,3,2025-11-11,Louisville,,Kentucky,REG (Non-Conf),W 96-88,*,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,H,1,1,khani-rooths-1,Khani Rooths,2026
+4,39,4,2025-11-15,Louisville,,Ohio,REG (Non-Conf),W 106-81,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,1,1,1,2,0,1,1,4,4.6,H,1,1,khani-rooths-1,Khani Rooths,2026
+5,40,5,2025-11-21,Louisville,N,Cincinnati,REG (Non-Conf),W 74-64,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,5,5,1,0,1,0,1,2,3.5,N,1,1,khani-rooths-1,Khani Rooths,2026
+6,41,6,2025-11-24,Louisville,,Eastern Michigan,REG (Non-Conf),W 87-46,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,7,8,3,0,1,0,1,7,9.9,H,1,1,khani-rooths-1,Khani Rooths,2026
+7,42,7,2025-11-26,Louisville,,NJIT,REG (Non-Conf),W 104-47,,19,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,1,5,6,0,1,0,1,2,5,2.6,H,1,1,khani-rooths-1,Khani Rooths,2026
+8,43,8,2025-12-03,Louisville,@,Arkansas,REG (Non-Conf),L 80-89,,9,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,0,0,0,0,0,2,0.9,A,0,1,khani-rooths-1,Khani Rooths,2026
+9,44,9,2025-12-06,Louisville,N,Indiana,REG (Non-Conf),W 87-78,,8,0,0,,0,0,,0,0,,,0,0,,1,2,3,1,1,0,1,2,0,1.2,N,1,1,khani-rooths-1,Khani Rooths,2026
+10,45,10,2025-12-13,Louisville,,Memphis,REG (Non-Conf),W 99-73,,18,2,4,0.5,2,4,0.5,0,0,,0.75,4,5,0.8,2,6,8,4,1,0,2,2,10,11.8,H,1,1,khani-rooths-1,Khani Rooths,2026
+11,46,11,2025-12-16,Louisville,@,Tennessee,REG (Non-Conf),L 62-83,,13,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,1,0,1,2,1,-1.6,A,0,1,khani-rooths-1,Khani Rooths,2026
+12,47,12,2025-12-20,Louisville,,Montana,REG (Non-Conf),W 94-54,,22,3,9,0.333,1,5,0.2,2,4,0.5,0.389,3,5,0.6,0,2,2,3,0,0,0,0,10,6.8,H,1,1,khani-rooths-1,Khani Rooths,2026
+13,48,13,2025-12-30,Louisville,@,California,REG (Conf),W 90-70,,18,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,3,5,0,1,1,1,3,5,4.8,A,1,1,khani-rooths-1,Khani Rooths,2026
+14,49,14,2026-01-02,Louisville,@,Stanford,REG (Conf),L 76-80,,27,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,2,2,4,0,1,1,0,4,7,5.4,A,0,1,khani-rooths-1,Khani Rooths,2026
+15,50,15,2026-01-06,Louisville,,Duke,REG (Conf),L 73-84,,12,2,8,0.25,0,5,0.0,2,3,0.667,0.25,2,2,1.0,1,4,5,2,0,1,1,1,6,3.8,H,0,1,khani-rooths-1,Khani Rooths,2026
+16,51,16,2026-01-10,Louisville,,Boston College,REG (Conf),W 75-62,,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,2,9,11,1,1,2,2,3,3,4.9,H,1,1,khani-rooths-1,Khani Rooths,2026
+17,52,21,2026-01-31,Louisville,,SMU,REG (Conf),W 88-74,,20,4,5,0.8,0,1,0.0,4,4,1.0,0.8,4,5,0.8,2,8,10,2,1,0,1,0,12,14.9,H,1,1,khani-rooths-1,Khani Rooths,2026
+18,53,22,2026-02-04,Louisville,,Notre Dame,REG (Conf),W 76-65,,25,5,9,0.556,1,2,0.5,4,7,0.571,0.611,1,3,0.333,4,8,12,1,2,0,2,2,12,12.0,H,1,1,khani-rooths-1,Khani Rooths,2026
+19,54,23,2026-02-07,Louisville,@,Wake Forest,REG (Conf),W 88-80,,18,4,10,0.4,1,5,0.2,3,5,0.6,0.45,4,6,0.667,1,3,4,0,0,2,0,1,13,9.4,A,1,1,khani-rooths-1,Khani Rooths,2026
+20,55,24,2026-02-09,Louisville,,NC State,REG (Conf),W 118-77,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,1,3,2,0,0,0,1,4,5.4,H,1,1,khani-rooths-1,Khani Rooths,2026
+21,56,25,2026-02-14,Louisville,N,Baylor,REG (Non-Conf),W 82-71,,24,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,2,0,3,0,1.5,N,1,1,khani-rooths-1,Khani Rooths,2026
+22,57,26,2026-02-17,Louisville,@,SMU,REG (Conf),L 85-95,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,1,0,1,2,0,-1.2,A,0,1,khani-rooths-1,Khani Rooths,2026
+23,58,27,2026-02-21,Louisville,,Georgia Tech,REG (Conf),W 87-70,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,0,0,0,2,2,3,-0.9,H,1,1,khani-rooths-1,Khani Rooths,2026
+24,59,28,2026-02-23,Louisville,@,North Carolina,REG (Conf),L 74-77,,21,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,2,4,6,0,1,0,0,2,4,6.1,A,0,1,khani-rooths-1,Khani Rooths,2026
+25,60,29,2026-02-28,Louisville,@,Clemson,REG (Conf),L 75-80,,18,0,1,0.0,0,1,0.0,0,0,,0.0,1,4,0.25,0,2,2,1,0,0,1,2,1,-1.4,A,0,1,khani-rooths-1,Khani Rooths,2026
+26,61,30,2026-03-03,Louisville,,Syracuse,REG (Conf),W 77-62,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,2,0,0,1,1,1,-0.2,H,1,1,khani-rooths-1,Khani Rooths,2026
+27,62,31,2026-03-07,Louisville,@,Miami (FL),REG (Conf),W 92-89,,9,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,0,0,1.0,A,1,1,khani-rooths-1,Khani Rooths,2026
+28,63,32,2026-03-11,Louisville,N,SMU,CTOURN,W 62-58,,6,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,0,0,0,1.3,N,1,0,khani-rooths-1,Khani Rooths,2026
+29,64,33,2026-03-12,Louisville,N,Miami (FL),CTOURN,L 73-78,,9,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,0,1,1,0,0,0,0,3,11,7.5,N,0,0,khani-rooths-1,Khani Rooths,2026

@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,116,1,2021-11-09,Villanova,,Mount St. Mary's,REG (Non-Conf),W 91-51,*,25,7,8,0.875,1,2,0.5,6,6,1.0,0.938,2,2,1.0,1,5,6,1,1,1,2,2,17,16.0,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+2,117,2,2021-11-12,Villanova,@,UCLA,REG (Non-Conf),L 77-86 (OT),*,41,7,16,0.438,5,8,0.625,2,8,0.25,0.594,1,2,0.5,3,2,5,0,1,0,0,2,20,14.1,A,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+3,118,3,2021-11-16,Villanova,,Howard,REG (Non-Conf),W 100-81,*,27,3,3,1.0,1,1,1.0,2,2,1.0,1.167,4,4,1.0,0,2,2,4,0,0,2,1,11,11.1,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+4,119,4,2021-11-20,Villanova,N,Tennessee,REG (Non-Conf),W 71-53,*,32,6,10,0.6,2,4,0.5,4,6,0.667,0.7,0,0,,4,7,11,0,0,1,2,2,14,12.2,N,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+5,120,5,2021-11-21,Villanova,N,Purdue,REG (Non-Conf),L 74-80,*,38,4,12,0.333,1,8,0.125,3,4,0.75,0.375,1,4,0.25,1,4,5,3,1,1,1,2,10,5.9,N,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+6,121,6,2021-11-28,Villanova,N,La Salle,REG (Non-Conf),W 72-46,*,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,6,0.667,1,5,6,0,1,2,3,3,8,4.2,N,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+7,122,7,2021-12-01,Villanova,@,Pennsylvania,REG (Non-Conf),W 71-56,*,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,0,8,8,0,0,0,1,3,5,1.4,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+8,123,8,2021-12-04,Villanova,,Saint Joseph's,REG (Non-Conf),W 81-52,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,4,1.0,2,1,3,1,1,0,0,3,10,9.9,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+9,124,9,2021-12-07,Villanova,N,Syracuse,REG (Non-Conf),W 67-53,*,37,5,16,0.313,2,9,0.222,3,7,0.429,0.375,1,2,0.5,4,5,9,3,0,2,1,2,13,9.4,N,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+10,125,10,2021-12-12,Villanova,@,Baylor,REG (Non-Conf),L 36-57,*,32,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,4,4,8,0,0,1,4,2,2,-1.9,A,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+11,126,11,2021-12-17,Villanova,@,Creighton,REG (Conf),L 59-79,*,28,2,9,0.222,1,5,0.2,1,4,0.25,0.278,6,7,0.857,3,4,7,0,1,2,1,2,11,9.0,A,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+12,127,12,2021-12-21,Villanova,,Xavier,REG (Conf),W 71-58,*,31,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,3,0.333,1,6,7,3,0,1,0,2,5,4.6,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+13,128,13,2022-01-01,Villanova,@,Seton Hall,REG (Conf),W 73-67,*,32,3,10,0.3,0,0,,3,10,0.3,0.3,5,6,0.833,3,8,11,3,0,4,2,1,11,11.8,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+14,129,14,2022-01-05,Villanova,,Creighton,REG (Conf),W 75-41,*,27,6,11,0.545,0,1,0.0,6,10,0.6,0.545,6,7,0.857,4,3,7,1,0,0,1,3,18,14.5,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+15,130,15,2022-01-08,Villanova,@,DePaul,REG (Conf),W 79-64,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,1,0.0,1,1,2,2,2,0,1,5,6,3.3,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+16,131,16,2022-01-12,Villanova,@,Xavier,REG (Conf),W 64-60,*,18,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,4,5,1,0,0,1,5,0,-1.8,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+17,132,17,2022-01-16,Villanova,,Butler,REG (Conf),W 82-42,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,6,7,0.857,1,4,5,1,0,0,1,1,14,12.2,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+18,133,18,2022-01-19,Villanova,,Marquette,REG (Conf),L 54-57,*,25,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,2,8,10,2,0,0,4,1,8,4.8,H,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+19,134,19,2022-01-22,Villanova,@,Georgetown,REG (Conf),W 85-74,*,35,8,11,0.727,0,2,0.0,8,9,0.889,0.727,2,2,1.0,2,3,5,2,3,1,1,2,18,19.1,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+20,135,20,2022-01-25,Villanova,,DePaul,REG (Conf),W 67-43,*,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,1,6,7,1,1,1,0,4,8,8.6,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+21,136,21,2022-01-29,Villanova,,St. John's (NY),REG (Conf),W 73-62,*,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,1,0.0,0,3,3,1,2,1,1,4,2,-0.5,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+22,137,22,2022-02-02,Villanova,@,Marquette,REG (Conf),L 73-83,*,26,4,11,0.364,1,4,0.25,3,7,0.429,0.409,1,3,0.333,1,3,4,1,2,0,1,4,10,4.8,A,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+23,138,23,2022-02-05,Villanova,,Connecticut,REG (Conf),W 85-74,*,36,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,3,0.667,0,7,7,5,2,0,0,1,6,10.1,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+24,139,24,2022-02-08,Villanova,@,St. John's (NY),REG (Conf),W 75-69,*,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,7,10,0.7,1,5,6,2,0,0,0,2,13,11.6,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+25,140,25,2022-02-12,Villanova,,Seton Hall,REG (Conf),W 73-67,*,33,7,11,0.636,1,5,0.2,6,6,1.0,0.682,1,1,1.0,1,3,4,3,0,0,2,2,16,12.0,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+26,141,26,2022-02-15,Villanova,@,Providence,REG (Conf),W 89-84,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,1,1.0,1,2,3,1,2,1,0,4,7,6.4,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+27,142,27,2022-02-19,Villanova,,Georgetown,REG (Conf),W 74-66,*,32,1,3,0.333,0,1,0.0,1,2,0.5,0.333,7,8,0.875,2,6,8,1,1,1,1,3,9,10.3,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+28,143,28,2022-02-22,Villanova,@,Connecticut,REG (Conf),L 69-71,*,37,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,0,5,5,1,1,0,2,2,13,9.4,A,0,1,jermaine-samuels-1,Jermaine Samuels,2022
+29,144,29,2022-03-01,Villanova,,Providence,REG (Conf),W 76-74,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,5,6,0.833,2,3,5,1,0,2,1,5,9,8.7,H,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+30,145,30,2022-03-05,Villanova,@,Butler,REG (Conf),W 78-59,*,27,7,13,0.538,1,3,0.333,6,10,0.6,0.577,0,0,,2,2,4,1,0,0,4,1,15,7.0,A,1,1,jermaine-samuels-1,Jermaine Samuels,2022
+31,146,31,2022-03-10,Villanova,N,St. John's (NY),CTOURN,W 66-65,,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,3,1.0,5,3,8,0,2,0,2,0,7,8.0,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+32,147,32,2022-03-11,Villanova,N,Connecticut,CTOURN,W 63-60,*,30,7,17,0.412,3,8,0.375,4,9,0.444,0.5,4,4,1.0,1,11,12,1,1,1,1,0,21,17.3,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+33,148,33,2022-03-12,Villanova,N,Creighton,CTOURN,W 54-48,*,24,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,1,1.0,4,4,8,2,1,0,2,2,5,4.5,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+34,149,34,2022-03-18,Villanova,N,Delaware,ROUND-64,W 80-60,*,31,5,9,0.556,2,3,0.667,3,6,0.5,0.667,3,4,0.75,7,2,9,3,1,1,3,3,15,15.4,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+35,150,35,2022-03-20,Villanova,N,Ohio State,ROUND-32,W 71-61,*,38,7,9,0.778,1,2,0.5,6,7,0.857,0.833,2,3,0.667,2,6,8,0,2,0,2,0,17,16.3,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+36,151,36,2022-03-24,Villanova,N,Michigan,ROUND-16,W 63-55,*,35,8,13,0.615,1,3,0.333,7,10,0.7,0.654,5,5,1.0,3,4,7,1,2,2,2,2,22,20.7,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+37,152,37,2022-03-26,Villanova,N,Houston,ROUND-8,W 50-44,*,33,6,10,0.6,1,2,0.5,5,8,0.625,0.65,3,3,1.0,3,7,10,0,0,0,3,1,16,12.2,N,1,0,jermaine-samuels-1,Jermaine Samuels,2022
+38,153,38,2022-04-02,Villanova,N,Kansas,NATIONAL-SEMI,L 65-81,*,33,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,3,0.667,2,5,7,3,0,0,3,2,9,5.4,N,0,0,jermaine-samuels-1,Jermaine Samuels,2022

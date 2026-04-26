@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,1,2015-11-14,Butler,,The Citadel,REG (Non-Conf),W 144-71,*,18,9,17,0.529,3,9,0.333,6,8,0.75,0.618,3,3,1.0,0,1,1,1,2,0,0,1,24,18.3,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+2,103,2,2015-11-19,Butler,N,Missouri State,REG (Non-Conf),W 93-59,*,23,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,0,3,3,1,0,0,1,1,11,10.0,N,1,1,kellen-dunham-1,Kellen Dunham,2016
+3,104,3,2015-11-20,Butler,N,Temple,REG (Non-Conf),W 74-69,*,35,5,20,0.25,2,13,0.154,3,7,0.429,0.3,4,4,1.0,1,0,1,5,0,0,0,1,16,7.8,N,1,1,kellen-dunham-1,Kellen Dunham,2016
+4,105,4,2015-11-22,Butler,N,Miami (FL),REG (Non-Conf),L 75-85,*,28,6,17,0.353,5,8,0.625,1,9,0.111,0.5,6,6,1.0,0,0,0,1,0,0,4,3,23,9.0,N,0,1,kellen-dunham-1,Kellen Dunham,2016
+5,106,5,2015-11-28,Butler,,SIU Edwardsville,REG (Non-Conf),W 89-73,*,37,10,15,0.667,5,8,0.625,5,7,0.714,0.833,7,8,0.875,1,5,6,1,2,0,2,1,32,27.6,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+6,107,6,2015-12-02,Butler,@,Cincinnati,REG (Non-Conf),W 78-76,*,36,7,13,0.538,4,9,0.444,3,4,0.75,0.692,6,6,1.0,0,1,1,0,0,0,2,1,24,15.6,A,1,1,kellen-dunham-1,Kellen Dunham,2016
+7,108,7,2015-12-05,Butler,,Indiana State,REG (Non-Conf),W 85-71,*,35,6,7,0.857,1,2,0.5,5,5,1.0,0.929,6,7,0.857,0,3,3,0,0,0,3,2,19,13.2,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+8,109,8,2015-12-07,Butler,,VMI,REG (Non-Conf),W 93-66,*,20,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,2,2,3,0,0,1,2,11,9.3,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+9,110,9,2015-12-12,Butler,,Tennessee,REG (Non-Conf),W 94-86,*,36,3,13,0.231,2,11,0.182,1,2,0.5,0.308,4,4,1.0,2,2,4,1,0,0,2,3,12,3.6,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+10,111,10,2015-12-19,Butler,N,Purdue,REG (Non-Conf),W 74-68,*,32,0,12,0.0,0,4,0.0,0,8,0.0,0.0,2,2,1.0,0,2,2,0,1,1,1,1,2,-5.5,N,1,1,kellen-dunham-1,Kellen Dunham,2016
+11,112,11,2015-12-22,Butler,,Southern Utah,REG (Non-Conf),W 88-52,*,26,2,10,0.2,0,7,0.0,2,3,0.667,0.2,1,2,0.5,0,2,2,1,2,0,1,3,5,-0.5,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+12,113,12,2015-12-28,Butler,,IUPUI,REG (Non-Conf),W 92-54,*,23,2,11,0.182,0,5,0.0,2,6,0.333,0.182,4,4,1.0,0,3,3,2,0,0,1,3,8,1.2,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+13,114,13,2015-12-31,Butler,,Providence,REG (Conf),L 73-81,*,31,3,14,0.214,0,5,0.0,3,9,0.333,0.214,2,2,1.0,0,0,0,1,0,0,0,0,8,0.1,H,0,1,kellen-dunham-1,Kellen Dunham,2016
+14,115,14,2016-01-02,Butler,@,Xavier,REG (Conf),L 69-88,,26,4,12,0.333,3,5,0.6,1,7,0.143,0.458,2,3,0.667,1,0,1,1,1,0,0,2,13,7.4,A,0,1,kellen-dunham-1,Kellen Dunham,2016
+15,116,15,2016-01-05,Butler,@,DePaul,REG (Conf),W 77-72,*,37,8,14,0.571,4,7,0.571,4,7,0.571,0.714,4,5,0.8,1,2,3,2,0,0,0,0,24,19.7,A,1,1,kellen-dunham-1,Kellen Dunham,2016
+16,117,16,2016-01-10,Butler,,Villanova,REG (Conf),L 55-60,*,34,4,9,0.444,2,3,0.667,2,6,0.333,0.556,3,4,0.75,0,3,3,2,0,0,2,4,13,6.6,H,0,1,kellen-dunham-1,Kellen Dunham,2016
+17,118,17,2016-01-16,Butler,,St. John's (NY),REG (Conf),W 78-58,*,33,5,10,0.5,4,7,0.571,1,3,0.333,0.7,10,11,0.909,0,5,5,1,1,0,4,3,24,16.6,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+18,119,18,2016-01-19,Butler,@,Providence,REG (Conf),L 68-71,*,40,7,15,0.467,6,12,0.5,1,3,0.333,0.667,1,3,0.333,2,2,4,3,2,0,2,0,21,16.6,A,0,1,kellen-dunham-1,Kellen Dunham,2016
+19,120,19,2016-01-23,Butler,@,Creighton,REG (Conf),L 64-72,*,40,7,14,0.5,3,3,1.0,4,11,0.364,0.607,3,4,0.75,0,4,4,0,1,0,2,3,20,11.6,A,0,1,kellen-dunham-1,Kellen Dunham,2016
+20,121,20,2016-01-27,Butler,,DePaul,REG (Conf),W 67-53,*,27,3,7,0.429,3,4,0.75,0,3,0.0,0.643,7,7,1.0,0,0,0,0,1,0,1,4,16,10.7,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+21,122,21,2016-01-30,Butler,@,Marquette,REG (Conf),L 69-75,*,33,6,12,0.5,1,4,0.25,5,8,0.625,0.542,2,2,1.0,1,1,2,0,0,0,2,1,15,7.6,A,0,1,kellen-dunham-1,Kellen Dunham,2016
+22,123,22,2016-02-02,Butler,,Georgetown,REG (Conf),W 87-76,*,38,6,11,0.545,3,6,0.5,3,5,0.6,0.682,3,3,1.0,1,1,2,1,1,0,0,1,18,15.0,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+23,124,23,2016-02-06,Butler,@,St. John's (NY),REG (Conf),W 89-56,*,24,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,2,0.5,1,1,2,3,1,1,3,1,9,7.0,A,1,1,kellen-dunham-1,Kellen Dunham,2016
+24,125,24,2016-02-10,Butler,@,Seton Hall,REG (Conf),W 81-75,*,33,4,7,0.571,2,4,0.5,2,3,0.667,0.714,8,10,0.8,0,2,2,1,0,0,3,1,18,11.8,A,1,1,kellen-dunham-1,Kellen Dunham,2016
+25,126,25,2016-02-13,Butler,,Xavier,REG (Conf),L 57-74,*,34,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,2,0.5,0,1,1,1,2,0,4,3,9,2.0,H,0,1,kellen-dunham-1,Kellen Dunham,2016
+26,127,26,2016-02-16,Butler,,Creighton,REG (Conf),W 88-75,*,37,5,13,0.385,4,8,0.5,1,5,0.2,0.538,2,3,0.667,1,5,6,6,0,0,1,1,16,13.5,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+27,128,27,2016-02-20,Butler,@,Villanova,REG (Conf),L 67-77,*,36,5,12,0.417,1,4,0.25,4,8,0.5,0.458,2,2,1.0,2,6,8,1,1,0,1,4,13,8.9,A,0,1,kellen-dunham-1,Kellen Dunham,2016
+28,129,28,2016-02-27,Butler,@,Georgetown,REG (Conf),W 90-87 (OT),*,43,9,18,0.5,4,8,0.5,5,10,0.5,0.611,7,12,0.583,0,5,5,2,1,0,3,2,29,18.1,A,1,1,kellen-dunham-1,Kellen Dunham,2016
+29,130,29,2016-03-02,Butler,,Seton Hall,REG (Conf),W 85-78,*,39,7,14,0.5,4,9,0.444,3,5,0.6,0.643,4,6,0.667,0,1,1,2,0,0,1,0,22,14.9,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+30,131,30,2016-03-05,Butler,,Marquette,REG (Conf),W 95-74,*,29,3,3,1.0,1,1,1.0,2,2,1.0,1.167,5,5,1.0,0,1,1,2,0,0,0,2,12,12.0,H,1,1,kellen-dunham-1,Kellen Dunham,2016
+31,132,31,2016-03-10,Butler,N,Providence,CTOURN,L 60-74,*,37,5,12,0.417,5,6,0.833,0,6,0.0,0.625,2,2,1.0,1,1,2,1,0,1,1,1,17,11.6,N,0,0,kellen-dunham-1,Kellen Dunham,2016
+32,133,32,2016-03-17,Butler,N,Texas Tech,ROUND-64,W 71-61,*,31,8,15,0.533,5,9,0.556,3,6,0.5,0.7,2,2,1.0,0,2,2,2,2,0,1,0,23,18.7,N,1,0,kellen-dunham-1,Kellen Dunham,2016
+33,134,33,2016-03-19,Butler,N,Virginia,ROUND-32,L 69-77,*,38,3,8,0.375,2,7,0.286,1,1,1.0,0.5,0,0,,0,0,0,2,1,0,1,0,8,5.0,N,0,0,kellen-dunham-1,Kellen Dunham,2016

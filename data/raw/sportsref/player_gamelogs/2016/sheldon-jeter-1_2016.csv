@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2015-11-17,Pittsburgh,,St. Joseph's (IN),REG (Non-Conf),W 84-43,,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,4,6,10,1,2,1,2,0,10,12.7,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+2,67,2,2015-11-20,Pittsburgh,,Detroit Mercy,REG (Non-Conf),W 95-79,,9,3,3,1.0,1,1,1.0,2,2,1.0,1.167,3,4,0.75,2,2,4,0,1,1,0,3,10,11.2,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+3,68,3,2015-11-25,Pittsburgh,,Cornell,REG (Non-Conf),W 93-49,,16,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,2,5,1,0,1,1,0,4,4.4,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+4,69,4,2015-11-28,Pittsburgh,,Kent State,REG (Non-Conf),W 85-76,,6,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,1,1,0,0,1,1,1,0,-2.5,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+5,70,5,2015-12-01,Pittsburgh,,Purdue,REG (Non-Conf),L 59-72,,20,2,9,0.222,1,2,0.5,1,7,0.143,0.278,2,2,1.0,2,2,4,1,0,0,0,3,7,3.0,H,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+6,71,6,2015-12-04,Pittsburgh,N,Duquesne,REG (Non-Conf),W 96-75,,18,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,2,1.0,4,4,8,1,0,0,0,1,12,13.4,N,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+7,72,7,2015-12-06,Pittsburgh,,Central Arkansas,REG (Non-Conf),W 100-47,,19,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,0,4,4,2,1,2,0,0,8,10.7,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+8,73,8,2015-12-11,Pittsburgh,,Eastern Washington,REG (Non-Conf),W 84-51,,17,3,6,0.5,0,0,,3,6,0.5,0.5,3,3,1.0,3,3,6,1,2,0,2,2,9,8.9,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+9,74,9,2015-12-13,Pittsburgh,,Morehead State,REG (Non-Conf),W 72-62,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,0,0,1,2,1,2,0.5,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+10,75,10,2015-12-20,Pittsburgh,N,Davidson,REG (Non-Conf),W 94-69,,16,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,3,5,8,3,1,3,0,3,8,13.0,N,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+11,76,11,2015-12-23,Pittsburgh,,Western Carolina,REG (Non-Conf),W 79-73,,21,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,3,0.667,1,5,6,0,1,1,0,3,12,10.7,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+12,77,12,2015-12-30,Pittsburgh,,Syracuse,REG (Conf),W 72-61,,23,5,11,0.455,0,0,,5,11,0.455,0.455,1,1,1.0,3,6,9,1,0,1,1,3,11,8.4,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+13,78,13,2016-01-02,Pittsburgh,,Maryland Eastern Shore,REG (Non-Conf),W 92-58,,19,6,8,0.75,0,0,,6,8,0.75,0.75,1,1,1.0,2,4,6,0,0,2,1,2,13,12.0,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+14,79,14,2016-01-06,Pittsburgh,,Georgia Tech,REG (Conf),W 89-84,,23,3,9,0.333,0,1,0.0,3,8,0.375,0.333,4,4,1.0,2,4,6,2,1,1,0,0,10,10.6,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+15,80,15,2016-01-09,Pittsburgh,@,Notre Dame,REG (Conf),W 86-82,,27,6,10,0.6,0,1,0.0,6,9,0.667,0.6,6,6,1.0,1,1,2,0,0,0,1,3,18,12.2,A,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+16,81,16,2016-01-14,Pittsburgh,@,Louisville,REG (Conf),L 41-59,,20,0,2,0.0,0,0,,0,2,0.0,0.0,2,5,0.4,2,1,3,0,1,1,1,1,2,1.4,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+17,82,17,2016-01-16,Pittsburgh,,Boston College,REG (Conf),W 84-61,,17,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,1,4,5,2,0,1,1,2,4,5.2,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+18,83,18,2016-01-19,Pittsburgh,,NC State,REG (Conf),L 61-78,,21,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,3,4,7,1,2,1,1,5,6,5.3,H,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+19,84,20,2016-01-27,Pittsburgh,@,Clemson,REG (Conf),L 60-73,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,3,4,0,0,0,2,4,3,-0.7,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+20,85,21,2016-01-31,Pittsburgh,,Virginia Tech,REG (Conf),W 90-71,*,23,9,13,0.692,0,2,0.0,9,11,0.818,0.692,5,6,0.833,4,3,7,1,1,1,1,3,23,21.0,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+21,86,22,2016-02-06,Pittsburgh,,Virginia,REG (Conf),L 50-64,*,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,2,2,0,1,2,1,2,8,6.9,H,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+22,87,23,2016-02-09,Pittsburgh,@,Miami (FL),REG (Conf),L 63-65,*,16,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,1,2,0,0,1,0,3,8,6.6,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+23,88,24,2016-02-14,Pittsburgh,@,North Carolina,REG (Conf),L 64-85,*,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,1,0,0,1,2,4,1.1,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+24,89,25,2016-02-16,Pittsburgh,,Wake Forest,REG (Conf),W 101-96 (2OT),,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,2,3,1,1,0,0,2,6,5.9,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+25,90,26,2016-02-20,Pittsburgh,@,Syracuse,REG (Conf),W 66-52,,19,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,1,2,3,1,2,0,0,3,7,6.1,A,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+26,91,27,2016-02-24,Pittsburgh,,Louisville,REG (Conf),L 60-67,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,1,0,0,1,3,0,-0.9,H,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+27,92,28,2016-02-28,Pittsburgh,,Duke,REG (Conf),W 76-62,,24,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,3,3,6,0,0,0,1,2,11,8.6,H,1,1,sheldon-jeter-1,Sheldon Jeter,2016
+28,93,29,2016-03-02,Pittsburgh,@,Virginia Tech,REG (Conf),L 61-65,,15,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,5,5,0,0,0,1,4,6,1.9,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+29,94,30,2016-03-05,Pittsburgh,@,Georgia Tech,REG (Conf),L 59-63,,28,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,4,1.0,1,6,7,0,3,0,0,2,12,12.0,A,0,1,sheldon-jeter-1,Sheldon Jeter,2016
+30,95,31,2016-03-09,Pittsburgh,N,Syracuse,CTOURN,W 72-71,,19,1,4,0.25,0,0,,1,4,0.25,0.25,0,1,0.0,0,1,1,0,1,1,1,2,2,-0.6,N,1,0,sheldon-jeter-1,Sheldon Jeter,2016
+31,96,32,2016-03-10,Pittsburgh,N,North Carolina,CTOURN,L 71-88,,21,5,6,0.833,1,1,1.0,4,5,0.8,0.917,2,2,1.0,2,1,3,1,0,1,0,3,13,12.7,N,0,0,sheldon-jeter-1,Sheldon Jeter,2016
+32,97,33,2016-03-18,Pittsburgh,N,Wisconsin,ROUND-64,L 43-47,,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,2,0.5,3,2,5,0,0,0,1,2,9,6.2,N,0,0,sheldon-jeter-1,Sheldon Jeter,2016

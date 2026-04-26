@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,76,1,2014-11-14,Baylor,,McNeese State,REG (Non-Conf),W 80-39,*,31,2,5,0.4,0,0,2,5,0.4,0.4,5,7,0.714,4,8,12,0,2,2,0,1,9,13.7,H,1,1,rico-gathers-1,Rico Gathers,2015
+2,77,2,2014-11-18,Baylor,@,South Carolina,REG (Non-Conf),W 69-65,*,19,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,4,0,-4.0,A,1,1,rico-gathers-1,Rico Gathers,2015
+3,78,3,2014-11-21,Baylor,,Prairie View A&M,REG (Non-Conf),W 60-45,*,28,4,10,0.4,0,0,4,10,0.4,0.4,4,7,0.571,4,9,13,0,1,1,0,2,12,11.8,H,1,1,rico-gathers-1,Rico Gathers,2015
+4,79,4,2014-11-24,Baylor,,Stephen F. Austin,REG (Non-Conf),W 67-51,*,30,1,4,0.25,0,0,1,4,0.25,0.25,3,6,0.5,7,4,11,0,1,1,0,2,5,8.4,H,1,1,rico-gathers-1,Rico Gathers,2015
+5,80,5,2014-11-27,Baylor,N,Memphis,REG (Non-Conf),W 71-47,*,30,4,7,0.571,0,0,4,7,0.571,0.571,0,1,0.0,5,6,11,0,1,0,0,2,8,9.8,N,1,1,rico-gathers-1,Rico Gathers,2015
+6,81,6,2014-11-28,Baylor,N,Illinois,REG (Non-Conf),L 54-62,*,22,4,8,0.5,0,0,4,8,0.5,0.5,3,9,0.333,6,9,15,0,0,0,1,4,11,8.9,N,0,1,rico-gathers-1,Rico Gathers,2015
+7,82,7,2014-12-01,Baylor,,Texas Southern,REG (Non-Conf),W 75-49,*,29,9,20,0.45,0,0,9,20,0.45,0.45,5,10,0.5,8,5,13,0,0,4,2,2,23,17.7,H,1,1,rico-gathers-1,Rico Gathers,2015
+8,83,8,2014-12-04,Baylor,@,Vanderbilt,REG (Non-Conf),W 66-63,*,31,1,5,0.2,0,0,1,5,0.2,0.2,2,2,1.0,2,4,6,0,0,1,1,4,4,1.6,A,1,1,rico-gathers-1,Rico Gathers,2015
+9,84,9,2014-12-09,Baylor,,Texas A&M,REG (Non-Conf),W 77-63,*,24,3,8,0.375,0,0,3,8,0.375,0.375,7,8,0.875,5,5,10,0,1,0,0,4,13,12.6,H,1,1,rico-gathers-1,Rico Gathers,2015
+10,85,10,2014-12-17,Baylor,,New Mexico State,REG (Non-Conf),W 66-55,*,28,3,8,0.375,0,0,3,8,0.375,0.375,1,2,0.5,6,6,12,1,7,1,1,4,7,14.0,H,1,1,rico-gathers-1,Rico Gathers,2015
+11,86,11,2014-12-22,Baylor,,Southern,REG (Non-Conf),W 70-66,*,29,6,10,0.6,0,0,6,10,0.6,0.6,4,7,0.571,7,4,11,1,0,0,1,4,16,14.4,H,1,1,rico-gathers-1,Rico Gathers,2015
+12,87,12,2014-12-30,Baylor,,Norfolk State,REG (Non-Conf),W 92-51,*,29,5,11,0.455,0,0,5,11,0.455,0.455,3,3,1.0,4,7,11,1,4,2,1,1,13,16.9,H,1,1,rico-gathers-1,Rico Gathers,2015
+13,88,13,2015-01-03,Baylor,@,Oklahoma,REG (Conf),L 63-73,*,27,2,6,0.333,0,0,2,6,0.333,0.333,0,2,0.0,6,6,12,0,2,0,0,3,4,6.6,A,0,1,rico-gathers-1,Rico Gathers,2015
+14,89,14,2015-01-07,Baylor,,Kansas,REG (Conf),L 55-56,*,29,3,10,0.3,0,0,3,10,0.3,0.3,3,4,0.75,9,5,14,2,2,0,1,2,9,12.2,H,0,1,rico-gathers-1,Rico Gathers,2015
+15,90,15,2015-01-10,Baylor,@,TCU,REG (Conf),W 66-59 (OT),*,35,4,8,0.5,0,0,4,8,0.5,0.5,9,15,0.6,10,8,18,0,1,0,0,2,17,20.2,A,1,1,rico-gathers-1,Rico Gathers,2015
+16,91,16,2015-01-14,Baylor,,Iowa State,REG (Conf),W 74-73,*,32,6,15,0.4,0,0,6,15,0.4,0.4,2,3,0.667,5,10,15,0,1,0,0,0,14,13.0,H,1,1,rico-gathers-1,Rico Gathers,2015
+17,92,17,2015-01-17,Baylor,@,Kansas State,REG (Conf),L 61-63,*,33,1,5,0.2,0,0,1,5,0.2,0.2,3,3,1.0,4,2,6,1,1,1,0,4,5,6.1,A,0,1,rico-gathers-1,Rico Gathers,2015
+18,93,18,2015-01-21,Baylor,,Huston-Tilotson,REG (Non-Conf),W 81-61,*,28,9,17,0.529,0,0,9,17,0.529,0.529,7,10,0.7,11,17,28,1,0,1,2,3,25,26.5,H,1,1,rico-gathers-1,Rico Gathers,2015
+19,94,19,2015-01-24,Baylor,,Oklahoma,REG (Conf),W 69-58,*,34,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,2,6,8,2,2,0,1,1,8,9.9,H,1,1,rico-gathers-1,Rico Gathers,2015
+20,95,20,2015-01-27,Baylor,@,Oklahoma State,REG (Conf),L 53-64,*,29,3,5,0.6,0,0,3,5,0.6,0.6,5,8,0.625,4,7,11,0,0,4,0,0,11,15.2,A,0,1,rico-gathers-1,Rico Gathers,2015
+21,96,21,2015-01-31,Baylor,,Texas,REG (Conf),W 83-60,*,33,3,12,0.25,0,0,3,12,0.25,0.25,2,5,0.4,6,9,15,2,0,0,0,1,8,7.5,H,1,1,rico-gathers-1,Rico Gathers,2015
+22,97,22,2015-02-04,Baylor,,TCU,REG (Conf),W 77-57,*,31,5,12,0.417,0,0,5,12,0.417,0.417,4,6,0.667,6,11,17,1,1,3,3,3,14,13.9,H,1,1,rico-gathers-1,Rico Gathers,2015
+23,98,23,2015-02-07,Baylor,@,West Virginia,REG (Conf),W 87-69,*,29,5,6,0.833,0,0,5,6,0.833,0.833,7,10,0.7,6,11,17,0,2,1,2,4,17,20.2,A,1,1,rico-gathers-1,Rico Gathers,2015
+24,99,24,2015-02-09,Baylor,,Oklahoma State,REG (Conf),L 65-74,*,34,6,9,0.667,0,0,6,9,0.667,0.667,4,8,0.5,5,11,16,1,1,2,2,3,16,17.2,H,0,1,rico-gathers-1,Rico Gathers,2015
+25,100,25,2015-02-14,Baylor,@,Kansas,REG (Conf),L 64-74,*,34,6,9,0.667,0,0,6,9,0.667,0.667,6,8,0.75,2,6,8,0,1,1,2,4,18,14.6,A,0,1,rico-gathers-1,Rico Gathers,2015
+26,101,26,2015-02-17,Baylor,@,Texas Tech,REG (Conf),W 54-49,*,30,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,5,6,0,1,1,3,3,2,0.0,A,1,1,rico-gathers-1,Rico Gathers,2015
+27,102,27,2015-02-21,Baylor,,Kansas State,REG (Conf),W 69-42,*,27,5,10,0.5,0,0,5,10,0.5,0.5,3,7,0.429,3,7,10,0,3,2,0,0,13,15.0,H,1,1,rico-gathers-1,Rico Gathers,2015
+28,103,28,2015-02-25,Baylor,@,Iowa State,REG (Conf),W 79-70,*,27,4,10,0.4,0,0,4,10,0.4,0.4,2,4,0.5,3,4,7,0,1,0,0,3,10,6.9,A,1,1,rico-gathers-1,Rico Gathers,2015
+29,104,29,2015-02-28,Baylor,,West Virginia,REG (Conf),W 78-66,*,29,4,7,0.571,0,0,4,7,0.571,0.571,9,12,0.75,4,6,10,2,0,2,1,4,17,17.3,H,1,1,rico-gathers-1,Rico Gathers,2015
+30,105,30,2015-03-02,Baylor,@,Texas,REG (Conf),L 59-61 (OT),*,38,4,14,0.286,0,0,4,14,0.286,0.286,4,7,0.571,5,6,11,0,0,2,2,3,12,6.1,A,0,1,rico-gathers-1,Rico Gathers,2015
+31,106,31,2015-03-06,Baylor,,Texas Tech,REG (Conf),W 77-74,*,36,7,8,0.875,0,0,7,8,0.875,0.875,4,7,0.571,2,5,7,1,1,0,1,4,18,16.0,H,1,1,rico-gathers-1,Rico Gathers,2015
+32,107,32,2015-03-12,Baylor,N,West Virginia,CTOURN,W 80-70,*,28,4,7,0.571,0,0,4,7,0.571,0.571,7,11,0.636,2,7,9,0,1,1,1,2,15,13.5,N,1,0,rico-gathers-1,Rico Gathers,2015
+33,108,33,2015-03-13,Baylor,N,Kansas,CTOURN,L 52-62,*,29,3,7,0.429,0,0,3,7,0.429,0.429,5,8,0.625,6,7,13,0,2,1,5,5,11,8.1,N,0,0,rico-gathers-1,Rico Gathers,2015
+34,109,34,2015-03-19,Baylor,N,Georgia State,ROUND-64,L 56-57,*,33,3,8,0.375,0,0,3,8,0.375,0.375,3,4,0.75,4,6,10,0,1,1,0,3,9,9.3,N,0,0,rico-gathers-1,Rico Gathers,2015

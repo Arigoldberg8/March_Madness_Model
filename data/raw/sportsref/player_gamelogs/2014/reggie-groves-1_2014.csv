@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2013-11-08,North Carolina Central,@,Cincinnati,REG (Non-Conf),L 61-74,*,20,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,4,4,1,0,0,4,4,1,-5.9,A,0,1,reggie-groves-1,Reggie Groves,2014
+2,93,2,2013-11-11,North Carolina Central,,Johnson/Wales-NC,REG (Non-Conf),W 98-47,,23,1,6,0.167,1,4,0.25,0,2,0.0,0.25,2,2,1.0,0,2,2,5,0,0,2,0,5,3.3,H,1,1,reggie-groves-1,Reggie Groves,2014
+3,94,3,2013-11-18,North Carolina Central,@,Campbell,REG (Non-Conf),W 62-43,,10,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,0,0,0,0,3,1.3,A,1,1,reggie-groves-1,Reggie Groves,2014
+4,95,4,2013-11-20,North Carolina Central,@,NC State,REG (Non-Conf),W 82-72 (OT),,24,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,1,2,3,2,1,0,1,1,2,-0.2,A,1,1,reggie-groves-1,Reggie Groves,2014
+5,96,5,2013-11-22,North Carolina Central,,Appalachian State,REG (Non-Conf),W 76-70 (OT),,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,0,0,1,3,2,5,1.6,H,1,1,reggie-groves-1,Reggie Groves,2014
+6,97,6,2013-11-26,North Carolina Central,,Barber-Scotia,REG (Non-Conf),W 101-46,,25,11,14,0.786,10,13,0.769,1,1,1.0,1.143,0,0,,0,3,3,3,1,0,0,0,32,30.6,H,1,1,reggie-groves-1,Reggie Groves,2014
+7,98,7,2013-12-03,North Carolina Central,@,Old Dominion,REG (Non-Conf),W 76-69 (OT),,27,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,3,3,1,1,0,1,1,5,3.5,A,1,1,reggie-groves-1,Reggie Groves,2014
+8,99,8,2013-12-07,North Carolina Central,@,IUPUI,REG (Non-Conf),L 65-71,,21,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,4,5,2,0,0,1,3,0,-2.4,A,0,1,reggie-groves-1,Reggie Groves,2014
+9,100,9,2013-12-18,North Carolina Central,,Winthrop,REG (Non-Conf),W 72-66,,19,3,8,0.375,3,6,0.5,0,2,0.0,0.563,3,4,0.75,0,1,1,0,2,0,0,1,12,9.1,H,1,1,reggie-groves-1,Reggie Groves,2014
+10,101,10,2013-12-22,North Carolina Central,@,Wichita State,REG (Non-Conf),L 66-77,,24,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,2,2,0,0,0,1,2,3,-2.0,A,0,1,reggie-groves-1,Reggie Groves,2014
+11,102,11,2013-12-31,North Carolina Central,@,Maryland,REG (Non-Conf),L 56-70,,25,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,0,0,0,0,0,3,-0.8,A,0,1,reggie-groves-1,Reggie Groves,2014
+12,103,12,2014-01-07,North Carolina Central,,Hampton,REG (Conf),W 74-61,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,reggie-groves-1,Reggie Groves,2014
+13,104,13,2014-01-11,North Carolina Central,@,Florida A&M,REG (Conf),L 60-63,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-0.5,A,0,1,reggie-groves-1,Reggie Groves,2014
+14,105,14,2014-01-13,North Carolina Central,@,Bethune-Cookman,REG (Conf),W 64-49,,14,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,2,1.0,1,2,3,0,1,0,0,1,10,8.9,A,1,1,reggie-groves-1,Reggie Groves,2014
+15,106,15,2014-01-16,North Carolina Central,,NJIT,REG (Non-Conf),W 71-55,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,2,1,0,0,0,0,0.6,H,1,1,reggie-groves-1,Reggie Groves,2014
+16,107,16,2014-01-18,North Carolina Central,,Delaware State,REG (Conf),W 62-52,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,H,1,1,reggie-groves-1,Reggie Groves,2014
+17,108,17,2014-01-22,North Carolina Central,,North Carolina A&T,REG (Conf),W 84-44,,14,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,1,1,1,0,0,1,2,5,0.8,H,1,1,reggie-groves-1,Reggie Groves,2014
+18,109,18,2014-01-25,North Carolina Central,,Coppin State,REG (Conf),W 87-63,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,4,2,0,1,1,2,3.0,H,1,1,reggie-groves-1,Reggie Groves,2014
+19,110,19,2014-01-27,North Carolina Central,,Morgan State,REG (Conf),W 53-52,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,reggie-groves-1,Reggie Groves,2014
+20,111,20,2014-02-01,North Carolina Central,@,Howard,REG (Conf),W 79-65,,22,4,8,0.5,4,7,0.571,0,1,0.0,0.75,3,6,0.5,0,2,2,2,1,0,1,1,15,11.4,A,1,1,reggie-groves-1,Reggie Groves,2014
+21,112,21,2014-02-03,North Carolina Central,@,Maryland Eastern Shore,REG (Conf),W 66-62,,13,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,0,0,5,4.0,A,1,1,reggie-groves-1,Reggie Groves,2014
+22,113,22,2014-02-08,North Carolina Central,,Bethune-Cookman,REG (Conf),W 77-54,,21,5,6,0.833,5,6,0.833,0,0,,1.25,0,0,,0,0,0,1,0,0,0,1,15,13.1,H,1,1,reggie-groves-1,Reggie Groves,2014
+23,114,23,2014-02-10,North Carolina Central,,Florida A&M,REG (Conf),W 92-49,,20,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,4,0,0,0,2,6,6.3,H,1,1,reggie-groves-1,Reggie Groves,2014
+24,115,24,2014-02-15,North Carolina Central,@,South Carolina State,REG (Conf),W 67-53,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,2,3,1,1,1,1,2,0,-0.2,A,1,1,reggie-groves-1,Reggie Groves,2014
+25,116,25,2014-02-17,North Carolina Central,@,Savannah State,REG (Conf),W 76-62,,28,0,8,0.0,0,6,0.0,0,2,0.0,0.0,2,2,1.0,1,2,3,5,2,0,2,2,2,0.4,A,1,1,reggie-groves-1,Reggie Groves,2014
+26,117,26,2014-02-22,North Carolina Central,@,North Carolina A&T,REG (Conf),W 73-55,,14,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,0,0,0,1,0,0,2,2,-0.9,A,1,1,reggie-groves-1,Reggie Groves,2014
+27,118,27,2014-02-25,North Carolina Central,@,NJIT,REG (Non-Conf),W 81-62,,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,0,0,1,0,0,0,3,3,-0.3,A,1,1,reggie-groves-1,Reggie Groves,2014
+28,119,28,2014-03-01,North Carolina Central,,South Carolina State,REG (Conf),W 86-44,,12,0,5,0.0,0,3,0.0,0,2,0.0,0.0,3,4,0.75,1,1,2,2,0,0,0,1,3,1.1,H,1,1,reggie-groves-1,Reggie Groves,2014
+29,120,29,2014-03-03,North Carolina Central,,Savannah State,REG (Conf),W 64-57 (OT),,26,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,0,0,0.6,H,1,1,reggie-groves-1,Reggie Groves,2014
+30,121,30,2014-03-06,North Carolina Central,@,Norfolk State,REG (Conf),W 76-70,,24,2,5,0.4,2,5,0.4,0,0,,0.6,1,2,0.5,0,0,0,2,0,0,0,0,7,5.3,A,1,1,reggie-groves-1,Reggie Groves,2014
+31,122,31,2014-03-12,North Carolina Central,N,Howard,CTOURN,W 92-46,,21,2,5,0.4,2,5,0.4,0,0,,0.6,2,3,0.667,0,4,4,6,1,0,1,3,8,9.1,N,1,0,reggie-groves-1,Reggie Groves,2014
+32,123,32,2014-03-14,North Carolina Central,N,Norfolk State,CTOURN,W 68-45,,22,1,5,0.2,1,5,0.2,0,0,,0.3,4,5,0.8,0,0,0,0,0,0,0,1,7,3.1,N,1,0,reggie-groves-1,Reggie Groves,2014
+33,124,33,2014-03-15,North Carolina Central,N,Morgan State,CTOURN,W 71-62,,17,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,2,2,4,0,0,0,2,0,8,5.0,N,1,0,reggie-groves-1,Reggie Groves,2014
+34,125,34,2014-03-21,North Carolina Central,N,Iowa State,ROUND-64,L 75-93,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,1,0,1,0,-0.4,N,0,0,reggie-groves-1,Reggie Groves,2014

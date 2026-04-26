@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2020-11-25,Grand Canyon,,Grambling State,REG (Non-Conf),W 69-53,,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,0,1,1,0,1,0,1,8,7.4,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+2,31,2,2020-11-28,Grand Canyon,,Benedictine,REG (Non-Conf),W 94-63,,18,4,6,0.667,0,0,,4,6,0.667,0.667,1,3,0.333,2,1,3,3,1,0,0,0,9,10.4,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+3,32,3,2020-12-01,Grand Canyon,,Mississippi Valley State,REG (Non-Conf),W 88-49,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,1,3,2,0,1,3,2,2,-0.4,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+4,33,4,2020-12-11,Grand Canyon,,Nevada,REG (Non-Conf),W 87-77,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,2,0,0,0,2,2,2.8,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+5,34,5,2020-12-13,Grand Canyon,,Arizona State,REG (Non-Conf),L 70-71,,25,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,1,5,6,3,3,0,3,1,3,5.5,H,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+6,35,6,2020-12-20,Grand Canyon,N,San Francisco,REG (Non-Conf),L 65-68,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,1,0,0,0,2,2,0.8,N,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+7,36,7,2020-12-22,Grand Canyon,N,Colorado,REG (Non-Conf),L 64-74,,29,5,6,0.833,1,1,1.0,4,5,0.8,0.917,1,3,0.333,1,3,4,5,0,0,3,4,12,9.5,N,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+8,37,8,2021-01-08,Grand Canyon,@,Tarleton State,REG (Conf),W 75-72,*,20,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,1,1.0,0,0,0,3,0,0,0,3,7,4.9,A,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+9,38,9,2021-01-09,Grand Canyon,@,Tarleton State,REG (Conf),W 59-48,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,2,0.0,1,1,2,0,0,0,1,0,2,0.2,A,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+10,39,10,2021-01-15,Grand Canyon,,Bethesda CA,REG (Non-Conf),W 121-62,,10,8,8,1.0,0,0,,8,8,1.0,1.0,3,6,0.5,0,1,1,2,2,1,0,2,19,19.0,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+11,40,11,2021-01-16,Grand Canyon,,Bethesda CA,REG (Non-Conf),W 98-47,,18,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,3,1,4,1,3,0,1,2,8,10.0,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+12,41,12,2021-01-22,Grand Canyon,@,Dixie State,REG (Conf),W 77-74,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,2,2,4,0,0,0,2,0,2,0.6,A,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+13,42,13,2021-01-23,Grand Canyon,@,Dixie State,REG (Conf),W 81-46,,16,0,3,0.0,0,0,,0,3,0.0,0.0,0,2,0.0,0,2,2,1,2,0,1,0,0,-0.6,A,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+14,43,14,2021-01-29,Grand Canyon,,New Mexico State,REG (Conf),W 70-62,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,0,0,0,1,0,1.3,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+15,44,15,2021-01-30,Grand Canyon,,New Mexico State,REG (Conf),W 65-53,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,1,0,0,1,2,2,1.5,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+16,45,16,2021-02-19,Grand Canyon,,California Baptist,REG (Conf),W 71-61,,6,0,0,,0,0,,0,0,,,0,1,0.0,1,1,2,1,0,0,0,0,0,1.3,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+17,46,17,2021-02-20,Grand Canyon,,California Baptist,REG (Conf),L 62-65,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,1,0,0,-1.4,H,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+18,47,18,2021-02-26,Grand Canyon,@,Seattle,REG (Conf),L 57-63,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,3,0,-4.3,A,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+19,48,19,2021-02-27,Grand Canyon,@,Seattle,REG (Conf),W 81-71,,18,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,1,2,3,6,0,0,0,2,2,5.3,A,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+20,49,20,2021-03-05,Grand Canyon,,Utah Valley,REG (Conf),L 55-59,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,3,4,7,0,1,1,2,1,4,6.0,H,0,1,sean-miller-moore-1,Sean Miller-Moore,2021
+21,50,21,2021-03-06,Grand Canyon,,Utah Valley,REG (Conf),W 74-64,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,0,1,2,4,1.6,H,1,1,sean-miller-moore-1,Sean Miller-Moore,2021
+22,51,22,2021-03-12,Grand Canyon,N,Seattle,CTOURN,W 81-47,,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,4,0.5,1,2,3,1,1,1,3,2,2,-1.7,N,1,0,sean-miller-moore-1,Sean Miller-Moore,2021
+23,52,23,2021-03-13,Grand Canyon,N,New Mexico State,CTOURN,W 74-56,,11,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,0,1,1,0,0,0,0,2,2.0,N,1,0,sean-miller-moore-1,Sean Miller-Moore,2021
+24,53,24,2021-03-20,Grand Canyon,N,Iowa,ROUND-64,L 74-86,,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,2,1,0,0,1,4,5.0,N,0,0,sean-miller-moore-1,Sean Miller-Moore,2021

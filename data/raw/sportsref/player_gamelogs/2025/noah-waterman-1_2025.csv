@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,111,1,2024-11-04,Louisville,,Morehead State,REG (Non-Conf),W 93-45,,15,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,2,1,3,0,1,1,0,3,4,2.8,H,1,1,noah-waterman-1,Noah Waterman,2025
+2,112,2,2024-11-09,Louisville,,Tennessee,REG (Non-Conf),L 55-77,,16,3,7,0.429,3,6,0.5,0,1,0.0,0.643,1,1,1.0,1,0,1,0,1,0,0,1,10,7.6,H,0,1,noah-waterman-1,Noah Waterman,2025
+3,113,3,2024-11-19,Louisville,,Bellarmine,REG (Non-Conf),W 100-68,*,23,2,6,0.333,2,6,0.333,0,0,,0.5,0,2,0.0,0,1,1,0,0,0,0,3,6,0.9,H,1,1,noah-waterman-1,Noah Waterman,2025
+4,114,4,2024-11-22,Louisville,,Winthrop,REG (Non-Conf),W 76-61,*,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,2,0.0,0,1,1,0,0,3,0,5,2,-0.1,H,1,1,noah-waterman-1,Noah Waterman,2025
+5,115,5,2024-11-27,Louisville,N,Indiana,REG (Non-Conf),W 89-61,*,29,6,12,0.5,4,8,0.5,2,4,0.5,0.667,0,0,,0,3,3,1,1,0,0,3,16,11.4,N,1,1,noah-waterman-1,Noah Waterman,2025
+6,116,6,2024-11-28,Louisville,N,West Virginia,REG (Non-Conf),W 79-70 (OT),*,26,1,7,0.143,0,6,0.0,1,1,1.0,0.143,0,1,0.0,1,4,5,1,0,0,3,3,2,-4.5,N,1,1,noah-waterman-1,Noah Waterman,2025
+7,117,7,2024-11-29,Louisville,N,Oklahoma,REG (Non-Conf),L 64-69,*,34,5,11,0.455,0,5,0.0,5,6,0.833,0.455,0,1,0.0,5,6,11,1,0,1,1,4,10,8.0,N,0,1,noah-waterman-1,Noah Waterman,2025
+8,118,8,2024-12-03,Louisville,,Ole Miss,REG (Non-Conf),L 63-86,*,26,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,5,4,9,1,0,0,1,3,4,3.0,H,0,1,noah-waterman-1,Noah Waterman,2025
+9,119,9,2024-12-08,Louisville,,Duke,REG (Conf),L 65-76,*,22,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,2,2,4,0,0,1,4,3,1,-4.0,H,0,1,noah-waterman-1,Noah Waterman,2025
+10,120,10,2024-12-11,Louisville,,UTEP,REG (Non-Conf),W 77-74,*,20,2,9,0.222,1,7,0.143,1,2,0.5,0.278,2,5,0.4,1,2,3,0,1,1,1,2,7,1.5,H,1,1,noah-waterman-1,Noah Waterman,2025
+11,121,11,2024-12-14,Louisville,@,Kentucky,REG (Non-Conf),L 85-93,*,34,4,12,0.333,3,9,0.333,1,3,0.333,0.458,1,2,0.5,6,6,12,1,0,0,2,3,12,8.3,A,0,1,noah-waterman-1,Noah Waterman,2025
+12,122,12,2024-12-21,Louisville,@,Florida State,REG (Conf),W 90-76,*,26,5,8,0.625,4,7,0.571,1,1,1.0,0.875,1,2,0.5,0,1,1,1,0,0,1,4,15,9.4,A,1,1,noah-waterman-1,Noah Waterman,2025
+13,123,13,2024-12-28,Louisville,,Eastern Kentucky,REG (Non-Conf),W 78-76,*,22,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,2,1.0,0,3,3,1,0,0,0,0,12,8.9,H,1,1,noah-waterman-1,Noah Waterman,2025
+14,124,14,2025-01-01,Louisville,,North Carolina,REG (Conf),W 83-70,*,30,3,9,0.333,1,6,0.167,2,3,0.667,0.389,0,1,0.0,0,7,7,0,0,1,0,0,7,4.3,H,1,1,noah-waterman-1,Noah Waterman,2025
+15,125,15,2025-01-04,Louisville,@,Virginia,REG (Conf),W 70-50,*,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,1,3,0,0,1,0,4,2,1.1,A,1,1,noah-waterman-1,Noah Waterman,2025
+16,126,16,2025-01-07,Louisville,,Clemson,REG (Conf),W 74-64,*,15,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,0,0,0,1,5,5,0.3,H,1,1,noah-waterman-1,Noah Waterman,2025
+17,127,17,2025-01-11,Louisville,@,Pittsburgh,REG (Conf),W 82-78,,8,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,3,0,-3.0,A,1,1,noah-waterman-1,Noah Waterman,2025
+18,128,18,2025-01-14,Louisville,@,Syracuse,REG (Conf),W 85-61,,10,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,1,2,0,1,1,1,4,2,-1.0,A,1,1,noah-waterman-1,Noah Waterman,2025
+19,129,23,2025-02-05,Louisville,@,Boston College,REG (Conf),W 84-58,,17,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,0,1,0,0,0,1,1,3,-0.8,A,1,1,noah-waterman-1,Noah Waterman,2025
+20,130,24,2025-02-08,Louisville,,Miami (FL),REG (Conf),W 88-78,*,27,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,1,0.0,1,4,5,1,0,0,1,2,8,4.7,H,1,1,noah-waterman-1,Noah Waterman,2025
+21,131,25,2025-02-12,Louisville,@,NC State,REG (Conf),W 91-66,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,1,2,0,-1.2,A,1,1,noah-waterman-1,Noah Waterman,2025
+22,132,26,2025-02-16,Louisville,@,Notre Dame,REG (Conf),W 75-60,,10,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,1,1,2,0,0,0,0,5,3.3,A,1,1,noah-waterman-1,Noah Waterman,2025
+23,133,27,2025-02-22,Louisville,,Florida State,REG (Conf),W 89-81,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,noah-waterman-1,Noah Waterman,2025
+24,134,28,2025-02-25,Louisville,@,Virginia Tech,REG (Conf),W 71-66,,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,3,4,0,0,0,0,2,5,4.5,A,1,1,noah-waterman-1,Noah Waterman,2025
+25,135,29,2025-03-01,Louisville,,Pittsburgh,REG (Conf),W 79-68,,12,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,1,0,0,0,1,3,1.2,H,1,1,noah-waterman-1,Noah Waterman,2025
+26,136,30,2025-03-05,Louisville,,California,REG (Conf),W 85-68,,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,1,1.0,2,4,6,0,0,1,2,3,6,4.1,H,1,1,noah-waterman-1,Noah Waterman,2025
+27,137,31,2025-03-08,Louisville,,Stanford,REG (Conf),W 68-48,*,26,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,1,1,2,0,1,0,0,2,8,4.8,H,1,1,noah-waterman-1,Noah Waterman,2025
+28,138,32,2025-03-13,Louisville,N,Stanford,CTOURN,W 75-73,*,33,4,8,0.5,3,5,0.6,1,3,0.333,0.688,1,2,0.5,2,7,9,0,0,0,1,3,12,8.9,N,1,0,noah-waterman-1,Noah Waterman,2025
+29,139,33,2025-03-14,Louisville,N,Clemson,CTOURN,W 76-73,*,24,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,4,0.5,1,1,2,0,0,1,1,5,10,4.9,N,1,0,noah-waterman-1,Noah Waterman,2025
+30,140,34,2025-03-15,Louisville,N,Duke,CTOURN,L 62-73,*,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,3,3,1,0,0,1,4,5,1.3,N,0,0,noah-waterman-1,Noah Waterman,2025
+31,141,35,2025-03-20,Louisville,N,Creighton,ROUND-64,L 75-89,*,28,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,1,4,5,0,1,1,0,2,8,7.8,N,0,0,noah-waterman-1,Noah Waterman,2025

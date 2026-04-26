@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,1,2018-11-09,Virginia Tech,,Gardner-Webb,REG (Non-Conf),W 87-59,*,28,2,7,0.286,1,4,0.25,1,3,0.333,0.357,6,8,0.75,2,0,2,8,3,0,3,2,11,12.3,H,1,1,justin-robinson-3,Justin Robinson,2019
+2,103,2,2018-11-15,Virginia Tech,N,Ball State,REG (Non-Conf),W 73-64,*,34,5,14,0.357,2,7,0.286,3,7,0.429,0.429,3,4,0.75,2,0,2,6,4,0,4,3,15,11.2,N,1,1,justin-robinson-3,Justin Robinson,2019
+3,104,3,2018-11-16,Virginia Tech,N,Northeastern,REG (Non-Conf),W 88-60,*,29,8,10,0.8,3,4,0.75,5,6,0.833,0.95,0,0,,1,0,1,4,0,0,2,0,19,16.7,N,1,1,justin-robinson-3,Justin Robinson,2019
+4,105,4,2018-11-18,Virginia Tech,N,Purdue,REG (Non-Conf),W 89-83,*,39,7,10,0.7,3,5,0.6,4,5,0.8,0.85,6,8,0.75,1,2,3,6,3,0,2,2,23,23.7,N,1,1,justin-robinson-3,Justin Robinson,2019
+5,106,5,2018-11-24,Virginia Tech,,Saint Francis (PA),REG (Non-Conf),W 75-37,*,26,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,1,1.0,0,2,2,7,2,0,2,0,10,11.5,H,1,1,justin-robinson-3,Justin Robinson,2019
+6,107,6,2018-11-27,Virginia Tech,@,Penn State,REG (Non-Conf),L 62-63,*,38,6,12,0.5,4,6,0.667,2,6,0.333,0.667,3,4,0.75,1,3,4,1,2,0,6,1,19,10.5,A,0,1,justin-robinson-3,Justin Robinson,2019
+7,108,7,2018-12-01,Virginia Tech,,Central Connecticut State,REG (Non-Conf),W 94-40,,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,7,7,13,1,1,4,0,4,9.5,H,1,1,justin-robinson-3,Justin Robinson,2019
+8,109,8,2018-12-05,Virginia Tech,,VMI,REG (Non-Conf),W 89-68,*,33,3,8,0.375,3,5,0.6,0,3,0.0,0.563,9,12,0.75,0,3,3,5,1,0,3,1,18,14.4,H,1,1,justin-robinson-3,Justin Robinson,2019
+9,110,9,2018-12-09,Virginia Tech,,South Carolina State,REG (Non-Conf),W 81-44,*,32,4,7,0.571,0,2,0.0,4,5,0.8,0.571,8,8,1.0,0,1,1,6,2,0,2,0,16,17.2,H,1,1,justin-robinson-3,Justin Robinson,2019
+10,111,10,2018-12-15,Virginia Tech,N,Washington,REG (Non-Conf),W 73-61,*,34,3,11,0.273,1,6,0.167,2,5,0.4,0.318,3,4,0.75,1,4,5,3,2,0,2,3,10,5.9,N,1,1,justin-robinson-3,Justin Robinson,2019
+11,112,11,2018-12-19,Virginia Tech,,North Carolina A&T,REG (Non-Conf),W 82-60,*,31,4,7,0.571,1,3,0.333,3,4,0.75,0.643,5,5,1.0,2,5,7,6,0,0,3,2,14,14.0,H,1,1,justin-robinson-3,Justin Robinson,2019
+12,113,12,2018-12-28,Virginia Tech,,Maryland Eastern Shore,REG (Non-Conf),W 85-40,*,28,1,3,0.333,0,2,0.0,1,1,1.0,0.333,6,7,0.857,0,4,4,6,2,0,3,0,8,10.3,H,1,1,justin-robinson-3,Justin Robinson,2019
+13,114,13,2019-01-01,Virginia Tech,,Notre Dame,REG (Conf),W 81-66,*,35,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,0,3,3,8,2,0,4,2,7,5.6,H,1,1,justin-robinson-3,Justin Robinson,2019
+14,115,14,2019-01-05,Virginia Tech,,Boston College,REG (Conf),W 77-66,*,31,4,10,0.4,0,2,0.0,4,8,0.5,0.4,4,5,0.8,1,7,8,5,1,0,2,3,12,10.3,H,1,1,justin-robinson-3,Justin Robinson,2019
+15,116,15,2019-01-09,Virginia Tech,@,Georgia Tech,REG (Conf),W 52-49,*,36,3,10,0.3,2,7,0.286,1,3,0.333,0.4,2,4,0.5,1,4,5,3,1,0,2,2,10,5.6,A,1,1,justin-robinson-3,Justin Robinson,2019
+16,117,16,2019-01-15,Virginia Tech,@,Virginia,REG (Conf),L 59-81,*,28,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,4,1.0,1,1,2,2,1,0,1,1,9,6.9,A,0,1,justin-robinson-3,Justin Robinson,2019
+17,118,17,2019-01-19,Virginia Tech,,Wake Forest,REG (Conf),W 87-71,*,26,5,10,0.5,1,4,0.25,4,6,0.667,0.55,2,2,1.0,0,2,2,3,2,0,5,4,13,6.1,H,1,1,justin-robinson-3,Justin Robinson,2019
+18,119,18,2019-01-21,Virginia Tech,@,North Carolina,REG (Conf),L 82-103,*,29,4,6,0.667,3,4,0.75,1,2,0.5,0.917,6,7,0.857,0,2,2,6,2,0,3,4,17,16.2,A,0,1,justin-robinson-3,Justin Robinson,2019
+19,120,19,2019-01-26,Virginia Tech,,Syracuse,REG (Conf),W 78-56,*,37,9,13,0.692,9,13,0.692,0,0,,1.038,8,10,0.8,0,3,3,8,0,0,3,1,35,31.8,H,1,1,justin-robinson-3,Justin Robinson,2019
+20,121,20,2019-01-30,Virginia Tech,@,Miami (FL),REG (Conf),W 82-70,*,19,6,11,0.545,1,4,0.25,5,7,0.714,0.591,4,4,1.0,0,2,2,3,2,1,1,1,17,15.7,A,1,1,justin-robinson-3,Justin Robinson,2019
+21,122,30,2019-03-08,Virginia Tech,,Miami (FL),REG (Conf),W 84-70,*,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,justin-robinson-3,Justin Robinson,2019
+22,123,33,2019-03-22,Virginia Tech,N,Saint Louis,ROUND-64,W 66-52,,28,2,7,0.286,1,3,0.333,1,4,0.25,0.357,4,5,0.8,1,2,3,2,2,0,4,1,9,4.8,N,1,0,justin-robinson-3,Justin Robinson,2019
+23,124,34,2019-03-24,Virginia Tech,N,Liberty,ROUND-32,W 67-58,,29,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,4,0.5,0,2,2,4,2,0,2,2,13,10.5,N,1,0,justin-robinson-3,Justin Robinson,2019
+24,125,35,2019-03-29,Virginia Tech,N,Duke,ROUND-16,L 73-75,,29,4,8,0.5,2,3,0.667,2,5,0.4,0.625,4,5,0.8,0,3,3,5,2,0,3,0,14,13.0,N,0,0,justin-robinson-3,Justin Robinson,2019

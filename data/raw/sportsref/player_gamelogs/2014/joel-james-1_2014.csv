@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2013-11-08,North Carolina,,Oakland,REG (Non-Conf),W 84-61,*,14,1,3,0.333,0,0,1,3,0.333,0.333,2,3,0.667,3,5,8,0,0,0,1,2,4,3.7,H,1,1,joel-james-1,Joel James,2014
+2,32,2,2013-11-15,North Carolina,,Holy Cross,REG (Non-Conf),W 62-54,*,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,0,0,0,2,2,4,0.5,H,1,1,joel-james-1,Joel James,2014
+3,33,3,2013-11-17,North Carolina,,Belmont,REG (Non-Conf),L 80-83,*,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,2,3,0,0,0,0,1,4,3.6,H,0,1,joel-james-1,Joel James,2014
+4,34,4,2013-11-23,North Carolina,N,Richmond,REG (Non-Conf),W 82-72,*,12,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,2,1,3,2,0,0,1,0,3,2.3,N,1,1,joel-james-1,Joel James,2014
+5,35,5,2013-11-24,North Carolina,N,Louisville,REG (Non-Conf),W 93-84,*,11,2,4,0.5,0,0,2,4,0.5,0.5,1,1,1.0,1,5,6,0,0,0,0,1,5,4.8,N,1,1,joel-james-1,Joel James,2014
+6,36,6,2013-12-01,North Carolina,@,UAB,REG (Non-Conf),L 59-63,*,18,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,5,6,0,0,2,0,1,4,5.9,A,0,1,joel-james-1,Joel James,2014
+7,37,7,2013-12-04,North Carolina,@,Michigan State,REG (Non-Conf),W 79-65,*,16,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,1,4,5,0,1,0,1,3,2,1.3,A,1,1,joel-james-1,Joel James,2014
+8,38,8,2013-12-07,North Carolina,,UNC Greensboro,REG (Non-Conf),W 81-50,*,16,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,4,1,5,0,0,0,1,3,6,3.2,H,1,1,joel-james-1,Joel James,2014
+9,39,9,2013-12-14,North Carolina,,Kentucky,REG (Non-Conf),W 82-77,*,13,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,2,3,5,0,0,0,0,2,5,4.1,H,1,1,joel-james-1,Joel James,2014
+10,40,10,2013-12-18,North Carolina,,Texas,REG (Non-Conf),L 83-86,*,0,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,joel-james-1,Joel James,2014
+11,41,15,2014-01-08,North Carolina,,Miami (FL),REG (Conf),L 57-63,*,8,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,2,3,5,0,0,0,1,2,4,4.2,H,0,1,joel-james-1,Joel James,2014
+12,42,16,2014-01-11,North Carolina,@,Syracuse,REG (Conf),L 45-57,*,10,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,3,3,1,0,0,1,2,0,-1.6,A,0,1,joel-james-1,Joel James,2014
+13,43,17,2014-01-18,North Carolina,,Boston College,REG (Conf),W 82-71,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,joel-james-1,Joel James,2014
+14,44,18,2014-01-20,North Carolina,@,Virginia,REG (Conf),L 61-76,*,12,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,1,3,1,0,0,2,1,0,-0.7,A,0,1,joel-james-1,Joel James,2014
+15,45,19,2014-01-26,North Carolina,,Clemson,REG (Conf),W 80-61,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,1,0,0,1,3,0,-0.8,H,1,1,joel-james-1,Joel James,2014
+16,46,20,2014-01-29,North Carolina,@,Georgia Tech,REG (Conf),W 78-65,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,3,4,1,0,0,0,0,2,2.6,A,1,1,joel-james-1,Joel James,2014
+17,47,21,2014-02-01,North Carolina,,NC State,REG (Conf),W 84-70,,5,0,0,,0,0,0,0,,,0,0,,0,3,3,0,0,1,0,1,0,1.2,H,1,1,joel-james-1,Joel James,2014
+18,48,22,2014-02-04,North Carolina,,Maryland,REG (Conf),W 75-63,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,1,3,0,-2.0,H,1,1,joel-james-1,Joel James,2014
+19,49,23,2014-02-08,North Carolina,@,Notre Dame,REG (Conf),W 73-62,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,joel-james-1,Joel James,2014
+20,50,24,2014-02-15,North Carolina,,Pittsburgh,REG (Conf),W 75-71,,2,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,H,1,1,joel-james-1,Joel James,2014
+21,51,25,2014-02-17,North Carolina,@,Florida State,REG (Conf),W 81-75,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,2,1,0,-2.1,A,1,1,joel-james-1,Joel James,2014
+22,52,26,2014-02-20,North Carolina,,Duke,REG (Conf),W 74-66,,2,0,0,,0,0,0,0,,,2,2,1.0,0,0,0,0,0,0,0,0,2,2.0,H,1,1,joel-james-1,Joel James,2014
+23,53,27,2014-02-22,North Carolina,,Wake Forest,REG (Conf),W 105-72,,11,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,1,0,3,0,0.1,H,1,1,joel-james-1,Joel James,2014
+24,54,28,2014-02-26,North Carolina,@,NC State,REG (Conf),W 85-84 (OT),,3,0,0,,0,0,0,0,,,0,0,,2,0,2,0,0,0,0,1,0,1.0,A,1,1,joel-james-1,Joel James,2014
+25,55,29,2014-03-01,North Carolina,@,Virginia Tech,REG (Conf),W 60-56,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,2,0,-1.5,A,1,1,joel-james-1,Joel James,2014
+26,56,30,2014-03-03,North Carolina,,Notre Dame,REG (Conf),W 63-61,,4,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,2,0,2,0,1,0,0,0,5,6.8,H,1,1,joel-james-1,Joel James,2014
+27,57,31,2014-03-08,North Carolina,@,Duke,REG (Conf),L 81-93,,3,0,0,,0,0,0,0,,,2,2,1.0,0,0,0,0,0,0,1,0,2,1.0,A,0,1,joel-james-1,Joel James,2014
+28,58,32,2014-03-14,North Carolina,N,Pittsburgh,CTOURN,L 75-80,,3,0,0,,0,0,0,0,,,0,1,0.0,0,2,2,0,0,0,1,1,0,-1.2,N,0,0,joel-james-1,Joel James,2014
+29,59,33,2014-03-21,North Carolina,N,Providence,ROUND-64,W 79-77,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,N,1,0,joel-james-1,Joel James,2014
+30,60,34,2014-03-23,North Carolina,N,Iowa State,ROUND-32,L 83-85,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,joel-james-1,Joel James,2014

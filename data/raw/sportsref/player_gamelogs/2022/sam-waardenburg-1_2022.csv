@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,84,1,2021-11-09,Miami (FL),,Canisius,REG (Non-Conf),W 77-67,*,25,3,4,0.75,0,0,,3,4,0.75,0.75,4,6,0.667,4,2,6,4,2,3,0,1,10,17.5,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+2,85,2,2021-11-13,Miami (FL),,UCF,REG (Non-Conf),L 89-95,*,26,5,7,0.714,2,4,0.5,3,3,1.0,0.857,4,4,1.0,2,2,4,1,1,0,1,4,16,14.2,H,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+3,86,3,2021-11-16,Miami (FL),@,Florida Atlantic,REG (Non-Conf),W 68-66,*,26,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,4,5,0,0,0,1,4,0,-2.1,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+4,87,4,2021-11-21,Miami (FL),,Florida A&M,REG (Non-Conf),W 86-59,*,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,4,0.25,3,5,8,4,0,1,1,4,3,4.6,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+5,88,5,2021-11-25,Miami (FL),N,Dayton,REG (Non-Conf),L 60-76,*,23,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,0,0,0,0,1,4,2.6,N,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+6,89,6,2021-11-26,Miami (FL),N,North Texas,REG (Non-Conf),W 69-63,*,33,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,1,0.0,1,2,3,2,0,2,0,1,8,9.4,N,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+7,90,7,2021-11-28,Miami (FL),N,Alabama,REG (Non-Conf),L 64-96,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,1,1,1,2,2,1.6,N,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+8,91,8,2021-12-01,Miami (FL),@,Penn State,REG (Non-Conf),W 63-58,*,33,5,11,0.455,4,8,0.5,1,3,0.333,0.636,0,0,,0,4,4,3,0,0,1,2,14,9.8,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+9,92,9,2021-12-04,Miami (FL),,Clemson,REG (Conf),W 80-75,*,30,6,10,0.6,4,7,0.571,2,3,0.667,0.8,2,2,1.0,1,2,3,3,1,2,1,4,18,16.6,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+10,93,10,2021-12-08,Miami (FL),,Lipscomb,REG (Non-Conf),W 76-59,*,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,3,4,1,1,0,2,0,2,0.9,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+11,94,11,2021-12-12,Miami (FL),N,Fordham,REG (Non-Conf),W 72-66,*,27,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,4,1,5,1,0,0,2,3,0,-0.8,N,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+12,95,12,2021-12-20,Miami (FL),,Stetson,REG (Non-Conf),W 82-72,*,32,4,8,0.5,1,2,0.5,3,6,0.5,0.563,3,4,0.75,0,2,2,4,0,0,2,1,12,8.6,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+13,96,15,2022-01-05,Miami (FL),,Syracuse,REG (Conf),W 88-87,,29,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,4,5,0,1,1,1,2,7,5.1,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+14,97,16,2022-01-08,Miami (FL),@,Duke,REG (Conf),W 76-74,*,29,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,3,4,5,0,3,1,4,2,4.2,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+15,98,17,2022-01-11,Miami (FL),@,Florida State,REG (Conf),L 64-65,*,34,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,0,3,3,2,2,3,1,4,8,9.1,A,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+16,99,18,2022-01-18,Miami (FL),,North Carolina,REG (Conf),W 85-57,*,24,7,9,0.778,5,6,0.833,2,3,0.667,1.056,2,4,0.5,0,2,2,2,1,1,0,1,21,20.0,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+17,100,19,2022-01-22,Miami (FL),,Florida State,REG (Conf),L 60-61,*,37,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,2,2,0,1,3,2,2,8,5.2,H,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+18,101,20,2022-01-26,Miami (FL),@,Virginia Tech,REG (Conf),W 78-75,*,36,4,4,1.0,2,2,1.0,2,2,1.0,1.25,2,2,1.0,1,3,4,0,0,1,1,1,12,11.7,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+19,102,21,2022-01-29,Miami (FL),@,Georgia Tech,REG (Conf),W 73-62,*,23,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,1,3,4,1,0,0,0,2,8,7.5,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+20,103,22,2022-02-02,Miami (FL),,Notre Dame,REG (Conf),L 64-68,*,27,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,2,3,2,0,2,1,1,2,2.3,H,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+21,104,23,2022-02-05,Miami (FL),@,Virginia,REG (Conf),L 58-71,*,36,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,5,5,2,1,1,3,2,6,4.5,A,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+22,105,24,2022-02-09,Miami (FL),,Georgia Tech,REG (Conf),W 79-70,*,38,5,8,0.625,3,4,0.75,2,4,0.5,0.813,6,6,1.0,3,5,8,5,0,1,1,2,19,21.4,H,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+23,106,25,2022-02-12,Miami (FL),@,Wake Forest,REG (Conf),W 76-72,*,31,4,11,0.364,2,5,0.4,2,6,0.333,0.455,2,6,0.333,0,2,2,1,3,1,0,1,12,8.9,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+24,107,26,2022-02-16,Miami (FL),@,Louisville,REG (Conf),W 70-63,*,31,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,3,6,9,1,1,3,1,2,8,10.2,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+25,108,27,2022-02-19,Miami (FL),,Virginia,REG (Conf),L 71-74,*,34,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,6,7,1,0,1,1,4,6,5.0,H,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+26,109,28,2022-02-22,Miami (FL),@,Pittsburgh,REG (Conf),W 85-64,*,20,4,5,0.8,1,1,1.0,3,4,0.75,0.9,3,3,1.0,0,3,3,1,1,0,2,3,12,9.5,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+27,110,29,2022-02-26,Miami (FL),,Virginia Tech,REG (Conf),L 70-71,*,34,4,9,0.444,1,5,0.2,3,4,0.75,0.5,1,2,0.5,0,3,3,3,3,0,0,2,10,10.1,H,0,1,sam-waardenburg-1,Sam Waardenburg,2022
+28,111,30,2022-03-02,Miami (FL),@,Boston College,REG (Conf),W 81-70,*,33,5,7,0.714,3,5,0.6,2,2,1.0,0.929,3,3,1.0,0,5,5,4,2,0,1,2,16,17.6,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+29,112,31,2022-03-05,Miami (FL),@,Syracuse,REG (Conf),W 75-72,*,33,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,5,5,4,1,1,2,1,3,3.8,A,1,1,sam-waardenburg-1,Sam Waardenburg,2022
+30,113,32,2022-03-10,Miami (FL),N,Boston College,CTOURN,W 71-69 (OT),*,40,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,4,5,9,1,1,3,3,3,9,9.9,N,1,0,sam-waardenburg-1,Sam Waardenburg,2022
+31,114,33,2022-03-11,Miami (FL),N,Duke,CTOURN,L 76-80,*,35,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,2,0.0,1,2,3,7,2,2,0,4,8,12.2,N,0,0,sam-waardenburg-1,Sam Waardenburg,2022
+32,115,34,2022-03-18,Miami (FL),N,Southern California,ROUND-64,W 68-66,*,34,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,0,3,3,3,0,4,0,1,5,7.3,N,1,0,sam-waardenburg-1,Sam Waardenburg,2022
+33,116,35,2022-03-20,Miami (FL),N,Auburn,ROUND-32,W 79-61,*,35,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,5,5,1,0,2,0,1,7,8.6,N,1,0,sam-waardenburg-1,Sam Waardenburg,2022
+34,117,36,2022-03-25,Miami (FL),N,Iowa State,ROUND-16,W 70-56,*,35,5,9,0.556,3,7,0.429,2,2,1.0,0.722,0,0,,0,8,8,5,1,3,2,2,13,14.9,N,1,0,sam-waardenburg-1,Sam Waardenburg,2022
+35,118,37,2022-03-27,Miami (FL),N,Kansas,ROUND-8,L 50-76,*,28,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,2,2,0,1,2,1,5,5,3.3,N,0,0,sam-waardenburg-1,Sam Waardenburg,2022

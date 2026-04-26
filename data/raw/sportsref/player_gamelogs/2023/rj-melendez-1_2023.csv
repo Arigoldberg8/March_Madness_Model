@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2022-11-07,Illinois,,Eastern Illinois,REG (Non-Conf),W 87-57,*,20,0,5,0.0,0,5,0.0,0,0,,0.0,1,2,0.5,1,1,2,0,2,3,2,1,1,-0.2,H,1,1,rj-melendez-1,RJ Melendez,2023
+2,24,2,2022-11-11,Illinois,,Kansas City,REG (Non-Conf),W 86-48,*,21,2,7,0.286,1,3,0.333,1,4,0.25,0.357,3,3,1.0,2,1,3,2,2,0,0,2,8,8.2,H,1,1,rj-melendez-1,RJ Melendez,2023
+3,25,3,2022-11-14,Illinois,,Monmouth,REG (Non-Conf),W 103-65,*,14,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,1,4,5,2,2,0,2,3,9,7.8,H,1,1,rj-melendez-1,RJ Melendez,2023
+4,26,4,2022-11-18,Illinois,N,UCLA,REG (Non-Conf),W 79-70,*,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,0,1,0,0,1,3,0,3,-1.0,N,1,1,rj-melendez-1,RJ Melendez,2023
+5,27,5,2022-11-20,Illinois,N,Virginia,REG (Non-Conf),L 61-70,*,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,0,0,0,1,0,2,3,8,2.1,N,0,1,rj-melendez-1,RJ Melendez,2023
+6,28,6,2022-11-25,Illinois,,Lindenwood,REG (Non-Conf),W 92-59,*,21,7,11,0.636,2,5,0.4,5,6,0.833,0.727,1,1,1.0,0,4,4,1,1,0,2,0,17,13.0,H,1,1,rj-melendez-1,RJ Melendez,2023
+7,29,7,2022-11-29,Illinois,,Syracuse,REG (Non-Conf),W 73-44,*,22,3,7,0.429,2,5,0.4,1,2,0.5,0.571,7,8,0.875,2,4,6,1,2,1,0,2,15,16.1,H,1,1,rj-melendez-1,RJ Melendez,2023
+8,30,8,2022-12-02,Illinois,@,Maryland,REG (Conf),L 66-71,*,33,5,7,0.714,2,3,0.667,3,4,0.75,0.857,1,1,1.0,2,5,7,0,3,2,2,2,13,14.6,A,0,1,rj-melendez-1,RJ Melendez,2023
+9,31,9,2022-12-06,Illinois,N,Texas,REG (Non-Conf),W 85-78 (OT),*,27,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,2,1.0,0,4,4,0,2,1,2,2,9,7.1,N,1,1,rj-melendez-1,RJ Melendez,2023
+10,32,10,2022-12-10,Illinois,,Penn State,REG (Conf),L 59-74,*,16,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,1,0,0,1,0,5,4.4,H,0,1,rj-melendez-1,RJ Melendez,2023
+11,33,11,2022-12-17,Illinois,,Alabama A&M,REG (Non-Conf),W 68-47,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,1,0,0,-1.8,H,1,1,rj-melendez-1,RJ Melendez,2023
+12,34,12,2022-12-22,Illinois,N,Missouri,REG (Non-Conf),L 71-93,*,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,1,1,0,-2.2,N,0,1,rj-melendez-1,RJ Melendez,2023
+13,35,13,2022-12-29,Illinois,,Bethune-Cookman,REG (Non-Conf),W 85-52,,24,1,8,0.125,1,8,0.125,0,0,,0.188,2,2,1.0,0,3,3,0,0,0,1,2,5,-1.1,H,1,1,rj-melendez-1,RJ Melendez,2023
+14,36,14,2023-01-04,Illinois,@,Northwestern,REG (Conf),L 60-73,,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,1,0,0,1,3,2,-0.6,A,0,1,rj-melendez-1,RJ Melendez,2023
+15,37,15,2023-01-07,Illinois,,Wisconsin,REG (Conf),W 79-69,,25,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,1,5,6,2,0,0,0,1,4,3.4,H,1,1,rj-melendez-1,RJ Melendez,2023
+16,38,16,2023-01-10,Illinois,@,Nebraska,REG (Conf),W 76-50,,23,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,2,1,3,0,1,0,2,3,10,4.8,A,1,1,rj-melendez-1,RJ Melendez,2023
+17,39,17,2023-01-13,Illinois,,Michigan State,REG (Conf),W 75-66,,18,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,1,1,2,1,0,0,0,2,3,2.1,H,1,1,rj-melendez-1,RJ Melendez,2023
+18,40,18,2023-01-16,Illinois,@,Minnesota,REG (Conf),W 78-60,,22,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,1,1.0,0,3,3,4,0,0,1,0,3,2.6,A,1,1,rj-melendez-1,RJ Melendez,2023
+19,41,19,2023-01-19,Illinois,,Indiana,REG (Conf),L 65-80,,22,4,8,0.5,2,3,0.667,2,5,0.4,0.625,0,1,0.0,2,2,4,0,1,0,0,1,10,8.2,H,0,1,rj-melendez-1,RJ Melendez,2023
+20,42,20,2023-01-24,Illinois,,Ohio State,REG (Conf),W 69-60,,30,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,2,0.5,0,3,3,0,0,0,0,2,3,-1.1,H,1,1,rj-melendez-1,RJ Melendez,2023
+21,43,21,2023-01-28,Illinois,@,Wisconsin,REG (Conf),W 61-51,,26,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,4,4,1,0,0,1,1,2,-1.3,A,1,1,rj-melendez-1,RJ Melendez,2023
+22,44,22,2023-01-31,Illinois,,Nebraska,REG (Conf),W 72-56,,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,0,0,0,0,1,2,-1.2,H,1,1,rj-melendez-1,RJ Melendez,2023
+23,45,23,2023-02-04,Illinois,@,Iowa,REG (Conf),L 79-81,,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,2,3,0,0,0,1,0,2,1.6,A,0,1,rj-melendez-1,RJ Melendez,2023
+24,46,25,2023-02-14,Illinois,@,Penn State,REG (Conf),L 81-93,,3,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,1,1,1,1,3,3.0,A,0,1,rj-melendez-1,RJ Melendez,2023
+25,47,26,2023-02-18,Illinois,@,Indiana,REG (Conf),L 68-71,*,14,0,6,0.0,0,2,0.0,0,4,0.0,0.0,2,2,1.0,3,0,3,1,0,0,0,2,2,-0.2,A,0,1,rj-melendez-1,RJ Melendez,2023
+26,48,27,2023-02-20,Illinois,,Minnesota,REG (Conf),W 78-69,*,31,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,3,8,11,0,0,1,1,3,10,8.6,H,1,1,rj-melendez-1,RJ Melendez,2023
+27,49,28,2023-02-23,Illinois,,Northwestern,REG (Conf),W 66-62,*,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,5,6,1,1,0,1,1,5,5.5,H,1,1,rj-melendez-1,RJ Melendez,2023
+28,50,29,2023-02-26,Illinois,@,Ohio State,REG (Conf),L 60-72,,22,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,0,2,2,0,0,0,0,1,5,4.6,A,0,1,rj-melendez-1,RJ Melendez,2023
+29,51,30,2023-03-02,Illinois,,Michigan,REG (Conf),W 91-87 (2OT),*,32,3,6,0.5,1,1,1.0,2,5,0.4,0.583,5,5,1.0,2,2,4,2,0,0,0,3,12,11.2,H,1,1,rj-melendez-1,RJ Melendez,2023
+30,52,31,2023-03-05,Illinois,@,Purdue,REG (Conf),L 71-76,*,28,1,5,0.2,0,1,0.0,1,4,0.25,0.2,5,6,0.833,3,1,4,2,2,2,1,4,7,8.1,A,0,1,rj-melendez-1,RJ Melendez,2023
+31,53,32,2023-03-09,Illinois,N,Penn State,CTOURN,L 76-79,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,2,3,3,0,2,1,4,4,5.2,N,0,0,rj-melendez-1,RJ Melendez,2023
+32,54,33,2023-03-16,Illinois,N,Arkansas,ROUND-64,L 63-73,*,25,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,6,6,3,1,0,0,4,10,9.3,N,0,0,rj-melendez-1,RJ Melendez,2023

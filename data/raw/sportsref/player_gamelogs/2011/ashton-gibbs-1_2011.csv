@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2010-11-08,Pittsburgh,,Rhode Island,REG (Non-Conf),W 83-75,*,37,8,15,0.533,2,7,0.286,6,8,0.75,0.6,4,5,0.8,0,4,4,3,1,0,2,1,22,16.2,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+2,70,2,2010-11-10,Pittsburgh,,Illinois–Chicago,REG (Non-Conf),W 97-54,*,30,8,14,0.571,5,10,0.5,3,4,0.75,0.75,3,4,0.75,0,0,0,7,0,0,0,1,24,21.5,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+3,71,3,2010-11-13,Pittsburgh,,North Florida,REG (Non-Conf),W 95-49,*,26,4,13,0.308,4,7,0.571,0,6,0.0,0.462,0,0,,2,2,4,6,0,0,3,0,12,7.7,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+4,72,4,2010-11-18,Pittsburgh,N,Maryland,REG (Non-Conf),W 79-70,*,33,3,8,0.375,2,3,0.667,1,5,0.2,0.5,5,6,0.833,1,6,7,2,0,0,6,1,13,5.7,N,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+5,73,5,2010-11-19,Pittsburgh,N,Texas,REG (Non-Conf),W 68-66,*,35,8,14,0.571,3,7,0.429,5,7,0.714,0.679,5,6,0.833,0,4,4,2,0,0,1,2,24,17.8,N,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+6,74,6,2010-11-23,Pittsburgh,,Robert Morris,REG (Non-Conf),W 74-53,*,32,7,15,0.467,4,8,0.5,3,7,0.429,0.6,2,2,1.0,1,0,1,3,0,0,1,1,20,13.7,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+7,75,7,2010-11-27,Pittsburgh,,Pennsylvania,REG (Non-Conf),W 82-58,*,28,4,11,0.364,2,7,0.286,2,4,0.5,0.455,2,2,1.0,0,0,0,2,1,0,0,1,12,7.9,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+8,76,8,2010-12-01,Pittsburgh,N,Duquesne,REG (Non-Conf),W 80-66,*,32,7,11,0.636,4,8,0.5,3,3,1.0,0.818,4,5,0.8,0,5,5,0,1,0,1,1,22,17.8,N,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+9,77,9,2010-12-04,Pittsburgh,,Rider,REG (Non-Conf),W 87-68,*,30,5,9,0.556,4,8,0.5,1,1,1.0,0.778,2,2,1.0,0,0,0,3,2,0,2,2,16,13.0,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+10,78,10,2010-12-08,Pittsburgh,,Delaware State,REG (Non-Conf),W 70-42,*,22,3,9,0.333,3,7,0.429,0,2,0.0,0.5,0,0,,0,1,1,2,0,0,1,2,9,3.8,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+11,79,11,2010-12-11,Pittsburgh,N,Tennessee,REG (Non-Conf),L 76-83,*,34,4,13,0.308,3,7,0.429,1,6,0.167,0.423,4,4,1.0,1,1,2,3,1,0,4,4,15,6.0,N,0,1,ashton-gibbs-1,Ashton Gibbs,2011
+12,80,12,2010-12-18,Pittsburgh,,Maryland Eastern Shore,REG (Non-Conf),W 97-64,*,24,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,2,2,7,0,0,0,0,15,16.2,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+13,81,13,2010-12-22,Pittsburgh,,American,REG (Non-Conf),W 61-46,*,33,4,14,0.286,1,5,0.2,3,9,0.333,0.321,1,2,0.5,0,2,2,4,0,0,1,0,10,3.8,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+14,82,14,2010-12-27,Pittsburgh,,Connecticut,REG (Conf),W 78-63,*,31,6,13,0.462,3,6,0.5,3,7,0.429,0.577,6,6,1.0,0,1,1,7,0,0,1,2,21,17.7,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+15,83,15,2011-01-04,Pittsburgh,@,Providence,REG (Conf),W 83-79,*,36,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,1,1,2,4,0,0,4,2,9,3.6,A,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+16,84,16,2011-01-08,Pittsburgh,,Marquette,REG (Conf),W 89-81,*,33,6,11,0.545,5,8,0.625,1,3,0.333,0.773,2,2,1.0,1,1,2,5,0,0,3,1,19,14.8,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+17,85,17,2011-01-12,Pittsburgh,@,Georgetown,REG (Conf),W 72-57,*,34,6,14,0.429,5,10,0.5,1,4,0.25,0.607,5,6,0.833,0,2,2,2,0,0,0,0,22,16.2,A,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+18,86,18,2011-01-15,Pittsburgh,,Seton Hall,REG (Conf),W 74-53,*,29,3,13,0.231,2,9,0.222,1,4,0.25,0.308,0,0,,0,4,4,1,0,0,3,3,8,-2.2,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+19,87,19,2011-01-17,Pittsburgh,,Syracuse,REG (Conf),W 74-66,*,33,4,13,0.308,3,6,0.5,1,7,0.143,0.423,0,0,,0,2,2,1,0,0,1,1,11,3.4,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+20,88,20,2011-01-22,Pittsburgh,@,DePaul,REG (Conf),W 80-50,*,33,4,10,0.4,3,5,0.6,1,5,0.2,0.55,2,2,1.0,0,3,3,3,1,0,2,0,13,9.6,A,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+21,89,21,2011-01-24,Pittsburgh,,Notre Dame,REG (Conf),L 51-56,*,33,4,13,0.308,1,5,0.2,3,8,0.375,0.346,0,0,,1,0,1,2,0,0,2,2,9,0.8,H,0,1,ashton-gibbs-1,Ashton Gibbs,2011
+22,90,22,2011-01-29,Pittsburgh,@,Rutgers,REG (Conf),W 65-62,*,34,7,14,0.5,4,9,0.444,3,5,0.6,0.643,6,6,1.0,2,2,4,0,2,0,2,2,24,18.2,A,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+23,91,23,2011-02-05,Pittsburgh,,Cincinnati,REG (Conf),W 71-59,*,36,7,11,0.636,5,5,1.0,2,6,0.333,0.864,6,6,1.0,0,1,1,2,0,0,2,2,25,19.0,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+24,92,27,2011-02-19,Pittsburgh,@,St. John's (NY),REG (Conf),L 59-60,,34,8,14,0.571,6,9,0.667,2,5,0.4,0.786,4,4,1.0,1,2,3,1,0,0,0,4,26,19.8,A,0,1,ashton-gibbs-1,Ashton Gibbs,2011
+25,93,28,2011-02-24,Pittsburgh,,West Virginia,REG (Conf),W 71-58,*,36,4,8,0.5,1,5,0.2,3,3,1.0,0.563,0,1,0.0,0,2,2,1,0,0,0,1,9,5.5,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+26,94,29,2011-02-27,Pittsburgh,@,Louisville,REG (Conf),L 59-62 (OT),*,40,3,11,0.273,2,6,0.333,1,5,0.2,0.364,6,7,0.857,0,1,1,0,0,0,1,2,14,5.6,A,0,1,ashton-gibbs-1,Ashton Gibbs,2011
+27,95,30,2011-03-02,Pittsburgh,@,South Florida,REG (Conf),W 66-50,*,37,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,0,,0,2,2,3,0,0,4,1,16,10.4,A,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+28,96,31,2011-03-05,Pittsburgh,,Villanova,REG (Conf),W 60-50,*,35,5,10,0.5,2,5,0.4,3,5,0.6,0.6,6,6,1.0,0,2,2,1,0,0,0,0,18,14.3,H,1,1,ashton-gibbs-1,Ashton Gibbs,2011
+29,97,32,2011-03-10,Pittsburgh,N,Connecticut,CTOURN,L 74-76,*,36,10,13,0.769,6,7,0.857,4,6,0.667,1.0,1,1,1.0,0,2,2,4,2,0,2,1,27,24.9,N,0,0,ashton-gibbs-1,Ashton Gibbs,2011
+30,98,33,2011-03-17,Pittsburgh,N,UNC Asheville,ROUND-64,W 74-51,*,34,9,16,0.563,6,9,0.667,3,7,0.429,0.75,2,3,0.667,0,2,2,1,1,0,0,1,26,19.9,N,1,0,ashton-gibbs-1,Ashton Gibbs,2011
+31,99,34,2011-03-19,Pittsburgh,N,Butler,ROUND-32,L 70-71,*,36,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,0,5,5,4,1,0,2,0,11,11.4,N,0,0,ashton-gibbs-1,Ashton Gibbs,2011

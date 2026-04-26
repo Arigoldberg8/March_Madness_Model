@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,42,1,2022-11-07,Arizona,,Nicholls State,REG (Non-Conf),W 117-75,*,17,2,3,0.667,2,3,0.667,0,0,,1.0,3,4,0.75,1,0,1,7,0,0,1,3,9,10.7,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+2,43,2,2022-11-11,Arizona,,Southern,REG (Non-Conf),W 95-78,*,30,4,7,0.571,3,6,0.5,1,1,1.0,0.786,3,4,0.75,0,11,11,12,0,0,3,2,14,18.2,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+3,44,3,2022-11-17,Arizona,,Utah Tech,REG (Non-Conf),W 104-77,*,27,6,7,0.857,6,7,0.857,0,0,,1.286,6,6,1.0,0,4,4,5,2,0,4,0,24,24.2,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+4,45,4,2022-11-21,Arizona,N,Cincinnati,REG (Non-Conf),W 101-93,*,36,4,8,0.5,3,5,0.6,1,3,0.333,0.688,0,0,,0,2,2,7,0,0,3,2,11,8.7,N,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+5,46,5,2022-11-22,Arizona,N,San Diego State,REG (Non-Conf),W 87-70,*,32,6,14,0.429,3,10,0.3,3,4,0.75,0.536,6,6,1.0,0,4,4,5,1,0,5,0,21,14.3,N,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+6,47,6,2022-11-23,Arizona,N,Creighton,REG (Non-Conf),W 81-79,*,33,6,14,0.429,1,4,0.25,5,10,0.5,0.464,0,0,,2,1,3,9,1,0,1,4,13,12.0,N,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+7,48,7,2022-12-01,Arizona,@,Utah,REG (Conf),L 66-81,*,36,1,9,0.111,0,5,0.0,1,4,0.25,0.111,2,3,0.667,0,1,1,9,0,0,2,2,4,1.5,A,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+8,49,8,2022-12-04,Arizona,,California,REG (Conf),W 81-68,*,37,3,7,0.429,0,4,0.0,3,3,1.0,0.429,0,0,,0,3,3,8,1,0,1,2,6,8.0,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+9,50,9,2022-12-10,Arizona,N,Indiana,REG (Non-Conf),W 89-75,*,33,4,12,0.333,4,10,0.4,0,2,0.0,0.5,2,3,0.667,1,2,3,7,0,0,6,2,14,6.2,N,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+10,51,10,2022-12-13,Arizona,,Texas A&M–Corpus Christi,REG (Non-Conf),W 99-61,*,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,3,0,0,-2.4,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+11,52,11,2022-12-17,Arizona,,Tennessee,REG (Non-Conf),W 75-70,*,33,2,9,0.222,1,7,0.143,1,2,0.5,0.278,3,3,1.0,0,2,2,5,0,0,2,3,8,3.4,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+12,53,12,2022-12-20,Arizona,,Montana State,REG (Non-Conf),W 85-64,*,33,6,10,0.6,6,9,0.667,0,1,0.0,0.9,0,0,,0,2,2,2,2,0,2,3,18,14.2,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+13,54,13,2022-12-22,Arizona,,Morgan State,REG (Non-Conf),W 93-68,*,30,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,0,0,3,0,0,3,3,6,-0.2,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+14,55,14,2022-12-31,Arizona,@,Arizona State,REG (Conf),W 69-60,*,36,2,8,0.25,2,7,0.286,0,1,0.0,0.375,6,7,0.857,0,0,0,5,2,0,6,1,12,5.9,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+15,56,15,2023-01-05,Arizona,,Washington,REG (Conf),W 70-67,*,37,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,2,2,4,0,0,3,3,9,3.8,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+16,57,16,2023-01-07,Arizona,,Washington State,REG (Conf),L 61-74,*,37,3,13,0.231,2,11,0.182,1,2,0.5,0.308,2,2,1.0,0,3,3,3,0,0,2,3,10,1.9,H,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+17,58,17,2023-01-12,Arizona,@,Oregon State,REG (Conf),W 86-74,*,29,4,11,0.364,3,9,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,11,1,0,5,3,13,9.7,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+18,59,18,2023-01-14,Arizona,@,Oregon,REG (Conf),L 68-87,*,24,2,10,0.2,2,9,0.222,0,1,0.0,0.3,3,3,1.0,1,4,5,4,3,1,3,4,9,6.6,A,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+19,60,19,2023-01-19,Arizona,,Southern California,REG (Conf),W 81-66,*,29,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,2,0.5,0,3,3,8,0,0,3,4,6,3.4,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+20,61,20,2023-01-21,Arizona,,UCLA,REG (Conf),W 58-52,*,36,2,9,0.222,2,8,0.25,0,1,0.0,0.333,1,1,1.0,0,4,4,2,0,0,4,1,7,-0.3,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+21,62,21,2023-01-26,Arizona,@,Washington State,REG (Conf),W 63-58,*,35,5,11,0.455,5,10,0.5,0,1,0.0,0.682,0,0,,0,5,5,2,0,0,4,2,15,7.4,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+22,63,22,2023-01-28,Arizona,@,Washington,REG (Conf),W 95-72,*,31,6,11,0.545,6,11,0.545,0,0,,0.818,0,0,,0,0,0,6,1,0,1,4,18,15.3,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+23,64,23,2023-02-02,Arizona,,Oregon,REG (Conf),W 91-76,*,39,4,11,0.364,4,8,0.5,0,3,0.0,0.545,1,2,0.5,0,2,2,7,0,0,2,1,13,9.6,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+24,65,24,2023-02-04,Arizona,,Oregon State,REG (Conf),W 84-52,*,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,2,0.0,0,0,0,6,0,0,2,2,5,2.9,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+25,66,25,2023-02-09,Arizona,@,California,REG (Conf),W 85-62,*,28,0,7,0.0,0,5,0.0,0,2,0.0,0.0,0,0,,0,2,2,8,1,0,1,0,0,1.3,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+26,67,26,2023-02-11,Arizona,@,Stanford,REG (Conf),L 79-88,*,33,3,10,0.3,3,10,0.3,0,0,,0.45,1,1,1.0,1,0,1,1,0,0,2,4,10,2.0,A,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+27,68,27,2023-02-16,Arizona,,Utah,REG (Conf),W 88-62,*,31,6,8,0.75,4,4,1.0,2,4,0.5,1.0,1,3,0.333,0,1,1,6,0,0,1,1,17,16.1,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+28,69,28,2023-02-18,Arizona,,Colorado,REG (Conf),W 78-68,*,37,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,3,3,2,0,0,4,3,6,-1.0,H,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+29,70,29,2023-02-25,Arizona,,Arizona State,REG (Conf),L 88-89,,34,3,8,0.375,2,7,0.286,1,1,1.0,0.5,2,3,0.667,2,0,2,5,0,0,2,0,10,8.1,H,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+30,71,30,2023-03-02,Arizona,@,Southern California,REG (Conf),W 87-81,*,32,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,1,2,4,1,0,1,3,11,8.9,A,1,1,kerr-kriisa-1,Kerr Kriisa,2023
+31,72,31,2023-03-04,Arizona,@,UCLA,REG (Conf),L 73-82,*,35,5,10,0.5,3,5,0.6,2,5,0.4,0.65,0,0,,2,2,4,4,1,0,2,5,13,9.8,A,0,1,kerr-kriisa-1,Kerr Kriisa,2023
+32,73,32,2023-03-09,Arizona,N,Stanford,CTOURN,W 95-84,*,29,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,2,2,4,0,0,1,2,1,0.1,N,1,0,kerr-kriisa-1,Kerr Kriisa,2023
+33,74,33,2023-03-10,Arizona,N,Arizona State,CTOURN,W 78-59,*,29,2,8,0.25,1,7,0.143,1,1,1.0,0.313,0,1,0.0,1,2,3,7,2,0,0,3,5,6.8,N,1,0,kerr-kriisa-1,Kerr Kriisa,2023
+34,75,34,2023-03-11,Arizona,N,UCLA,CTOURN,W 61-59,*,30,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,2,5,6,0.0,N,1,0,kerr-kriisa-1,Kerr Kriisa,2023
+35,76,35,2023-03-16,Arizona,N,Princeton,ROUND-64,L 55-59,*,36,1,7,0.143,1,7,0.143,0,0,,0.214,0,0,,0,1,1,2,0,0,4,2,3,-4.6,N,0,0,kerr-kriisa-1,Kerr Kriisa,2023

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Utah,,Ball State,REG (Non-Conf),W 90-72,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,0,0,-1.1,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+2,2,2,2014-11-18,Utah,@,San Diego State,REG (Non-Conf),L 49-53,,15,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,2,1,3,0,0,0,0,2,8,6.6,A,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+3,3,3,2014-11-21,Utah,,UC Riverside,REG (Non-Conf),W 88-42,,24,3,7,0.429,0,0,,3,7,0.429,0.429,5,6,0.833,3,3,6,4,1,3,1,2,11,14.0,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+4,4,4,2014-11-26,Utah,,Texas–Pan American,REG (Non-Conf),W 85-48,,15,2,3,0.667,0,0,,2,3,0.667,0.667,5,8,0.625,1,4,5,0,1,1,3,5,9,5.1,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+5,5,5,2014-11-28,Utah,,North Dakota,REG (Non-Conf),W 90-53,,17,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,0,0,0,0,0,0,2,2,4,-1.3,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+6,6,6,2014-11-29,Utah,,Alabama State,REG (Non-Conf),W 93-62,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,0,1,1,0,1,0,0,5,2,-0.8,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+7,7,7,2014-12-03,Utah,,Wichita State,REG (Non-Conf),W 69-68 (OT),,24,3,7,0.429,2,3,0.667,1,4,0.25,0.571,0,0,,2,2,4,2,0,1,1,2,8,6.6,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+8,8,8,2014-12-10,Utah,@,Brigham Young,REG (Non-Conf),W 65-61,,13,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,2,2,4,0,2,0,0,4,8,8.1,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+9,9,9,2014-12-13,Utah,N,Kansas,REG (Non-Conf),L 60-63,,16,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,0,2,0,2,0,2,2,1,-0.2,N,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+10,10,10,2014-12-20,Utah,N,UNLV,REG (Non-Conf),W 59-46,,19,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,0,3,3,0,2,1,2,4,7,4.3,N,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+11,11,11,2014-12-23,Utah,,South Dakota State,REG (Non-Conf),W 80-66,,25,9,13,0.692,2,3,0.667,7,10,0.7,0.769,2,3,0.667,1,3,4,0,0,0,2,0,22,15.7,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+12,12,12,2014-12-30,Utah,,Carroll (MT),REG (Non-Conf),W 85-49,,19,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,1,5,6,1,0,1,4,3,11,6.1,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+13,13,13,2015-01-02,Utah,,Southern California,REG (Conf),W 79-55,,21,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,2,0.5,1,3,4,0,0,0,0,0,8,7.6,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+14,14,14,2015-01-04,Utah,,UCLA,REG (Conf),W 71-39,,15,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,2,3,0,0,2,1,2,5,3.9,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+15,15,15,2015-01-07,Utah,,Colorado,REG (Conf),W 74-49,,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,1,0,1,0,0,1,0,1,8,6.7,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+16,16,16,2015-01-15,Utah,@,Arizona State,REG (Conf),W 76-59,,13,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,0,1,0,1,2,7,5.3,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+17,17,17,2015-01-17,Utah,@,Arizona,REG (Conf),L 51-69,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,5,0.8,0,1,1,0,0,0,1,2,7,3.4,A,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+18,18,18,2015-01-21,Utah,,Washington State,REG (Conf),W 86-64,,16,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,0,0,1,0,0,0,5,6,1.7,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+19,19,19,2015-01-25,Utah,,Washington,REG (Conf),W 77-56,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,1,1,1,1,0,1,3,3,1.1,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+20,20,20,2015-01-29,Utah,@,UCLA,REG (Conf),L 59-69,,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,4,5,1,0,1,2,3,4,2.8,A,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+21,21,21,2015-02-01,Utah,@,Southern California,REG (Conf),W 67-39,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+22,22,22,2015-02-07,Utah,@,Colorado,REG (Conf),W 79-51,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,0,3,0,0,4,3,3.0,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+23,23,23,2015-02-12,Utah,,Stanford,REG (Conf),W 75-59,,22,4,6,0.667,2,2,1.0,2,4,0.5,0.833,2,2,1.0,2,3,5,0,1,1,3,2,12,9.6,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+24,24,24,2015-02-15,Utah,,California,REG (Conf),W 76-61,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,4,0.75,0,0,0,1,0,0,0,0,6,4.6,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+25,25,25,2015-02-19,Utah,@,Oregon State,REG (Conf),W 47-37,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,3,2,5,0,0,1,1,4,7,5.1,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+26,26,26,2015-02-22,Utah,@,Oregon,REG (Conf),L 58-69,,8,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,1,1.0,3,1,4,0,0,0,1,0,5,3.0,A,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+27,27,27,2015-02-26,Utah,,Arizona State,REG (Conf),W 83-41,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,2,1,0,1,3,4.6,H,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+28,28,28,2015-02-28,Utah,,Arizona,REG (Conf),L 57-63,,15,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,0,0,0,0,0,1,5,6,-1.1,H,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+29,29,29,2015-03-05,Utah,@,Washington State,REG (Conf),W 67-59,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.8,A,1,1,brekkott-chapman-1,Brekkott Chapman,2015
+30,30,30,2015-03-07,Utah,@,Washington,REG (Conf),L 68-77,,8,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,1,2,2,-1.5,A,0,1,brekkott-chapman-1,Brekkott Chapman,2015
+31,31,31,2015-03-12,Utah,N,Stanford,CTOURN,W 80-56,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,4,4,1.0,1,2,3,0,0,0,2,3,8,3.4,N,1,0,brekkott-chapman-1,Brekkott Chapman,2015
+32,32,32,2015-03-13,Utah,N,Oregon,CTOURN,L 64-67,*,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,1,3,1,0,0,0,4,2,0.4,N,0,0,brekkott-chapman-1,Brekkott Chapman,2015
+33,33,33,2015-03-19,Utah,N,Stephen F. Austin,ROUND-64,W 57-50,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,0,brekkott-chapman-1,Brekkott Chapman,2015
+34,34,34,2015-03-21,Utah,N,Georgetown,ROUND-32,W 75-64,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,brekkott-chapman-1,Brekkott Chapman,2015
+35,35,35,2015-03-27,Utah,N,Duke,ROUND-16,L 57-63,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,0,0,0,0,1,0,5,6,2.4,N,0,0,brekkott-chapman-1,Brekkott Chapman,2015

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2012-11-10,St. Mary's (CA),,Sonoma St.,REG (Non-Conf),W 95-69,*,22,5,11,0.455,2,4,0.5,3,7,0.429,0.545,0,2,0.0,3,3,6,4,1,0,1,1,12,10.9,H,1,1,stephen-holt--1,Stephen Holt,2013
+2,64,2,2012-11-15,St. Mary's (CA),@,Utah State,REG (Non-Conf),W 67-58,*,27,3,8,0.375,2,4,0.5,1,4,0.25,0.5,8,9,0.889,1,1,2,1,0,0,2,2,16,10.1,A,1,1,stephen-holt--1,Stephen Holt,2013
+3,65,3,2012-11-18,St. Mary's (CA),,Eastern Washington,REG (Non-Conf),W 85-66,*,28,5,7,0.714,3,3,1.0,2,4,0.5,0.929,3,3,1.0,0,3,3,3,1,0,1,1,16,15.7,H,1,1,stephen-holt--1,Stephen Holt,2013
+4,66,4,2012-11-22,St. Mary's (CA),N,Drexel,REG (Non-Conf),W 76-64,*,36,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,2,1.0,2,6,8,0,1,0,5,1,6,0.0,N,1,1,stephen-holt--1,Stephen Holt,2013
+5,67,5,2012-11-23,St. Mary's (CA),N,Pacific,REG (Non-Conf),L 66-76,*,32,4,12,0.333,2,9,0.222,2,3,0.667,0.417,2,2,1.0,0,4,4,4,0,0,1,3,12,7.0,N,0,1,stephen-holt--1,Stephen Holt,2013
+6,68,6,2012-11-25,St. Mary's (CA),N,Georgia Tech,REG (Non-Conf),L 56-65,*,37,2,7,0.286,1,5,0.2,1,2,0.5,0.357,5,6,0.833,4,5,9,4,2,0,5,5,10,7.6,N,0,1,stephen-holt--1,Stephen Holt,2013
+7,69,11,2012-12-23,St. Mary's (CA),@,Northern Iowa,REG (Non-Conf),L 75-82,,16,0,0,,0,0,,0,0,,,4,8,0.5,1,5,6,0,1,0,0,2,4,4.8,A,0,1,stephen-holt--1,Stephen Holt,2013
+8,70,12,2012-12-27,St. Mary's (CA),,Rhode Island,REG (Non-Conf),W 82-59,,27,5,12,0.417,1,5,0.2,4,7,0.571,0.458,6,6,1.0,4,2,6,1,3,1,1,1,17,17.0,H,1,1,stephen-holt--1,Stephen Holt,2013
+9,71,13,2012-12-30,St. Mary's (CA),,Yale,REG (Non-Conf),W 78-62,,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,4,0.75,2,4,6,1,2,0,3,0,9,7.2,H,1,1,stephen-holt--1,Stephen Holt,2013
+10,72,14,2012-12-31,St. Mary's (CA),,Harvard,REG (Non-Conf),W 70-69,,32,2,7,0.286,1,1,1.0,1,6,0.167,0.357,5,5,1.0,1,2,3,2,2,0,0,2,10,9.8,H,1,1,stephen-holt--1,Stephen Holt,2013
+11,73,15,2013-01-05,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 74-61,*,32,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,2,5,7,0,0,0,0,2,7,6.4,H,1,1,stephen-holt--1,Stephen Holt,2013
+12,74,16,2013-01-10,St. Mary's (CA),@,Gonzaga,REG (Conf),L 78-83,*,38,9,14,0.643,3,8,0.375,6,6,1.0,0.75,2,4,0.5,1,2,3,0,1,0,0,1,23,17.9,A,0,1,stephen-holt--1,Stephen Holt,2013
+13,75,17,2013-01-12,St. Mary's (CA),,San Francisco,REG (Conf),W 78-72,*,36,5,11,0.455,1,4,0.25,4,7,0.571,0.5,5,5,1.0,0,5,5,0,0,0,1,1,16,10.4,H,1,1,stephen-holt--1,Stephen Holt,2013
+14,76,18,2013-01-16,St. Mary's (CA),@,Brigham Young,REG (Conf),W 70-69,*,38,8,16,0.5,5,9,0.556,3,7,0.429,0.656,1,3,0.333,1,4,5,1,0,0,0,2,22,15.0,A,1,1,stephen-holt--1,Stephen Holt,2013
+15,77,19,2013-01-19,St. Mary's (CA),@,Portland,REG (Conf),W 60-38,*,33,3,10,0.3,2,5,0.4,1,5,0.2,0.4,5,6,0.833,0,6,6,1,1,0,2,2,13,7.5,A,1,1,stephen-holt--1,Stephen Holt,2013
+16,78,20,2013-01-24,St. Mary's (CA),,San Diego,REG (Conf),W 81-48,*,23,0,0,,0,0,,0,0,,,6,6,1.0,0,3,3,0,1,0,2,0,6,5.9,H,1,1,stephen-holt--1,Stephen Holt,2013
+17,79,21,2013-01-26,St. Mary's (CA),,Pepperdine,REG (Conf),W 84-72,*,32,4,10,0.4,3,6,0.5,1,4,0.25,0.55,6,7,0.857,0,3,3,2,2,0,1,0,17,14.5,H,1,1,stephen-holt--1,Stephen Holt,2013
+18,80,22,2013-01-30,St. Mary's (CA),@,San Francisco,REG (Conf),W 67-63,*,38,3,9,0.333,2,4,0.5,1,5,0.2,0.444,1,4,0.25,5,9,14,1,0,0,3,2,9,5.8,A,1,1,stephen-holt--1,Stephen Holt,2013
+19,81,23,2013-02-02,St. Mary's (CA),,Portland,REG (Conf),W 77-42,*,25,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,2,1,3,4,3,0,0,0,2,6.4,H,1,1,stephen-holt--1,Stephen Holt,2013
+20,82,24,2013-02-07,St. Mary's (CA),@,Santa Clara,REG (Conf),W 84-63,*,29,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,2,4,6,1,0,0,1,3,7,3.7,A,1,1,stephen-holt--1,Stephen Holt,2013
+21,83,25,2013-02-09,St. Mary's (CA),@,San Diego,REG (Conf),W 74-64,*,32,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,4,0.75,0,7,7,3,0,0,2,2,6,5.3,A,1,1,stephen-holt--1,Stephen Holt,2013
+22,84,26,2013-02-14,St. Mary's (CA),,Gonzaga,REG (Conf),L 60-77,*,34,7,14,0.5,3,8,0.375,4,6,0.667,0.607,0,0,,3,3,6,1,3,0,0,1,17,16.3,H,0,1,stephen-holt--1,Stephen Holt,2013
+23,85,27,2013-02-16,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 61-50,*,38,6,8,0.75,0,0,,6,8,0.75,0.75,4,4,1.0,1,3,4,1,1,0,1,3,16,13.9,A,1,1,stephen-holt--1,Stephen Holt,2013
+24,86,28,2013-02-21,St. Mary's (CA),,Brigham Young,REG (Conf),W 64-57,*,38,2,9,0.222,0,6,0.0,2,3,0.667,0.222,3,3,1.0,2,2,4,2,2,0,1,2,7,5.1,H,1,1,stephen-holt--1,Stephen Holt,2013
+25,87,29,2013-02-23,St. Mary's (CA),,Creighton,REG (Non-Conf),W 74-66,*,35,3,10,0.3,0,3,0.0,3,7,0.429,0.3,7,9,0.778,1,2,3,2,2,0,2,1,13,8.7,H,1,1,stephen-holt--1,Stephen Holt,2013
+26,88,30,2013-02-27,St. Mary's (CA),@,Pepperdine,REG (Conf),W 87-48,*,29,4,10,0.4,1,5,0.2,3,5,0.6,0.45,4,4,1.0,1,4,5,3,2,0,2,2,13,10.8,A,1,1,stephen-holt--1,Stephen Holt,2013
+27,89,31,2013-03-02,St. Mary's (CA),,Santa Clara,REG (Conf),W 80-67,*,38,2,7,0.286,1,2,0.5,1,5,0.2,0.357,8,10,0.8,3,3,6,1,2,0,0,0,13,13.8,H,1,1,stephen-holt--1,Stephen Holt,2013
+28,90,32,2013-03-09,St. Mary's (CA),N,San Diego,CTOURN,W 69-66 (OT),*,42,1,7,0.143,0,2,0.0,1,5,0.2,0.143,1,2,0.5,2,4,6,1,1,0,0,1,3,2.0,N,1,0,stephen-holt--1,Stephen Holt,2013
+29,91,33,2013-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-65,*,39,8,14,0.571,3,8,0.375,5,6,0.833,0.679,0,0,,2,5,7,2,2,0,2,1,19,16.3,N,0,0,stephen-holt--1,Stephen Holt,2013
+30,92,34,2013-03-19,St. Mary's (CA),N,Middle Tennessee,FIRST-FOUR,W 67-54,*,35,5,11,0.455,2,3,0.667,3,8,0.375,0.545,6,8,0.75,2,4,6,1,0,0,1,0,18,13.8,N,1,0,stephen-holt--1,Stephen Holt,2013
+31,93,35,2013-03-21,St. Mary's (CA),N,Memphis,ROUND-64,L 52-54,*,37,1,10,0.1,0,3,0.0,1,7,0.143,0.1,0,0,,2,3,5,0,1,0,2,2,2,-4.1,N,0,0,stephen-holt--1,Stephen Holt,2013

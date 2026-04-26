@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,77,4,2023-11-15,Nebraska,,Stony Brook,REG (Non-Conf),W 84-63,,23,8,11,0.727,2,4,0.5,6,7,0.857,0.818,1,4,0.25,2,5,7,0,0,0,0,0,19,16.2,H,1,1,juwan-gary-1,Juwan Gary,2024
+2,78,5,2023-11-18,Nebraska,N,Oregon State,REG (Non-Conf),W 84-63,,21,5,10,0.5,1,4,0.25,4,6,0.667,0.55,1,2,0.5,4,6,10,2,1,2,2,3,12,11.8,N,1,1,juwan-gary-1,Juwan Gary,2024
+3,79,6,2023-11-22,Nebraska,,Duquesne,REG (Non-Conf),W 89-79,,22,7,10,0.7,2,4,0.5,5,6,0.833,0.8,4,4,1.0,2,3,5,1,0,0,0,3,20,17.6,H,1,1,juwan-gary-1,Juwan Gary,2024
+4,80,7,2023-11-26,Nebraska,,Cal State Fullerton,REG (Non-Conf),W 85-72,,25,3,10,0.3,2,7,0.286,1,3,0.333,0.4,5,6,0.833,2,4,6,1,2,0,0,0,13,12.1,H,1,1,juwan-gary-1,Juwan Gary,2024
+5,81,8,2023-12-03,Nebraska,,Creighton,REG (Non-Conf),L 60-89,,24,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,1,0,1,1,3,1,0,0,8,8.4,H,0,1,juwan-gary-1,Juwan Gary,2024
+6,82,9,2023-12-06,Nebraska,@,Minnesota,REG (Conf),L 65-76,,31,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,2,2,4,2,2,0,2,3,11,10.3,A,0,1,juwan-gary-1,Juwan Gary,2024
+7,83,10,2023-12-10,Nebraska,,Michigan State,REG (Conf),W 77-70,*,36,8,11,0.727,2,4,0.5,6,7,0.857,0.818,2,3,0.667,0,3,3,1,3,2,1,2,20,19.3,H,1,1,juwan-gary-1,Juwan Gary,2024
+8,84,11,2023-12-17,Nebraska,@,Kansas State,REG (Non-Conf),W 62-46,*,31,6,16,0.375,1,2,0.5,5,14,0.357,0.406,0,0,,11,7,18,1,0,1,3,3,13,11.2,A,1,1,juwan-gary-1,Juwan Gary,2024
+9,85,12,2023-12-20,Nebraska,,North Dakota,REG (Non-Conf),W 83-75,*,34,4,8,0.5,3,5,0.6,1,3,0.333,0.688,1,2,0.5,4,8,12,2,2,0,0,1,12,15.8,H,1,1,juwan-gary-1,Juwan Gary,2024
+10,86,13,2023-12-29,Nebraska,,South Carolina State,REG (Non-Conf),W 91-62,*,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,3,4,0.75,2,1,3,4,1,4,0,0,5,11.2,H,1,1,juwan-gary-1,Juwan Gary,2024
+11,87,14,2024-01-03,Nebraska,,Indiana,REG (Conf),W 86-70,*,21,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,2,0,2,2,1,0,0,4,4,2.1,H,1,1,juwan-gary-1,Juwan Gary,2024
+12,88,15,2024-01-06,Nebraska,@,Wisconsin,REG (Conf),L 72-88,*,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,0,0,0,0,1,0,4,8,5.2,A,0,1,juwan-gary-1,Juwan Gary,2024
+13,89,16,2024-01-09,Nebraska,,Purdue,REG (Conf),W 88-72,*,33,4,8,0.5,1,1,1.0,3,7,0.429,0.563,3,6,0.5,3,2,5,1,2,1,1,2,12,11.1,H,1,1,juwan-gary-1,Juwan Gary,2024
+14,90,17,2024-01-12,Nebraska,@,Iowa,REG (Conf),L 76-94,*,14,3,8,0.375,0,3,0.0,3,5,0.6,0.375,3,4,0.75,2,3,5,0,0,1,0,4,9,5.6,A,0,1,juwan-gary-1,Juwan Gary,2024
+15,91,18,2024-01-17,Nebraska,@,Rutgers,REG (Conf),L 82-87 (OT),*,23,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,3,3,6,0,1,1,0,0,9,9.7,A,0,1,juwan-gary-1,Juwan Gary,2024
+16,92,22,2024-02-01,Nebraska,,Wisconsin,REG (Conf),W 80-72 (OT),,33,3,6,0.5,0,3,0.0,3,3,1.0,0.5,3,6,0.5,1,3,4,1,0,1,2,1,9,5.4,H,1,1,juwan-gary-1,Juwan Gary,2024
+17,93,23,2024-02-04,Nebraska,@,Illinois,REG (Conf),L 84-87 (OT),,35,4,5,0.8,0,0,,4,5,0.8,0.8,4,4,1.0,1,10,11,2,2,0,1,4,12,14.6,A,0,1,juwan-gary-1,Juwan Gary,2024
+18,94,24,2024-02-07,Nebraska,@,Northwestern,REG (Conf),L 68-80,*,29,6,11,0.545,1,2,0.5,5,9,0.556,0.591,2,3,0.667,2,1,3,0,0,1,2,5,15,7.7,A,0,1,juwan-gary-1,Juwan Gary,2024
+19,95,25,2024-02-10,Nebraska,,Michigan,REG (Conf),W 79-59,*,26,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,2,0.0,3,4,7,2,2,1,1,3,5,6.7,H,1,1,juwan-gary-1,Juwan Gary,2024
+20,96,26,2024-02-17,Nebraska,,Penn State,REG (Conf),W 68-49,*,31,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,3,1.0,3,3,6,0,2,0,0,1,13,13.3,H,1,1,juwan-gary-1,Juwan Gary,2024
+21,97,27,2024-02-21,Nebraska,@,Indiana,REG (Conf),W 85-70,*,34,6,12,0.5,2,4,0.5,4,8,0.5,0.583,1,5,0.2,3,3,6,1,1,0,0,3,15,10.9,A,1,1,juwan-gary-1,Juwan Gary,2024
+22,98,28,2024-02-25,Nebraska,,Minnesota,REG (Conf),W 73-55,*,35,7,13,0.538,4,7,0.571,3,6,0.5,0.692,4,4,1.0,3,5,8,2,0,0,2,0,22,18.7,H,1,1,juwan-gary-1,Juwan Gary,2024
+23,99,29,2024-02-29,Nebraska,@,Ohio State,REG (Conf),L 69-78,*,27,3,12,0.25,0,6,0.0,3,6,0.5,0.25,2,2,1.0,0,6,6,1,1,0,0,3,8,3.1,A,0,1,juwan-gary-1,Juwan Gary,2024
+24,100,30,2024-03-03,Nebraska,,Rutgers,REG (Conf),W 67-56,*,32,5,15,0.333,2,7,0.286,3,8,0.375,0.4,3,4,0.75,2,9,11,1,1,3,0,1,15,13.6,H,1,1,juwan-gary-1,Juwan Gary,2024
+25,101,31,2024-03-10,Nebraska,@,Michigan,REG (Conf),W 85-70,*,28,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,1,6,7,1,0,1,1,0,9,8.9,A,1,1,juwan-gary-1,Juwan Gary,2024
+26,102,32,2024-03-15,Nebraska,N,Indiana,CTOURN,W 93-66,*,25,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,1,5,6,1,1,0,1,2,11,8.4,N,1,0,juwan-gary-1,Juwan Gary,2024
+27,103,33,2024-03-16,Nebraska,N,Illinois,CTOURN,L 87-98,*,28,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,4,0.75,2,4,6,2,0,0,0,5,7,5.2,N,0,0,juwan-gary-1,Juwan Gary,2024
+28,104,34,2024-03-22,Nebraska,N,Texas A&M,ROUND-64,L 83-98,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,0,2,2,3,3,0,1,4,9,9.4,N,0,0,juwan-gary-1,Juwan Gary,2024

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2012-11-09,Pittsburgh,,Mount St. Mary's,REG (Non-Conf),W 80-48,*,20,10,12,0.833,0,0,10,12,0.833,0.833,0,0,,1,1,2,0,2,1,1,0,20,18.3,H,1,1,talib-zanna-1,Talib Zanna,2013
+2,69,2,2012-11-12,Pittsburgh,,Fordham,REG (Non-Conf),W 86-51,*,21,3,7,0.429,0,0,3,7,0.429,0.429,2,3,0.667,3,2,5,3,1,1,1,1,8,9.0,H,1,1,talib-zanna-1,Talib Zanna,2013
+3,70,3,2012-11-13,Pittsburgh,,Lehigh,REG (Non-Conf),W 78-53,*,18,8,9,0.889,0,0,8,9,0.889,0.889,4,5,0.8,3,3,6,0,1,1,0,0,20,21.2,H,1,1,talib-zanna-1,Talib Zanna,2013
+4,71,4,2012-11-17,Pittsburgh,,Oakland,REG (Non-Conf),W 72-62 (OT),*,20,4,7,0.571,0,0,4,7,0.571,0.571,0,2,0.0,3,2,5,1,1,0,0,1,8,7.9,H,1,1,talib-zanna-1,Talib Zanna,2013
+5,72,5,2012-11-21,Pittsburgh,N,Michigan,REG (Non-Conf),L 62-67,*,25,2,4,0.5,0,0,2,4,0.5,0.5,3,3,1.0,3,3,6,0,0,0,0,2,7,7.2,N,0,1,talib-zanna-1,Talib Zanna,2013
+6,73,6,2012-11-23,Pittsburgh,N,Delaware,REG (Non-Conf),W 85-59,*,28,6,9,0.667,0,0,6,9,0.667,0.667,6,6,1.0,3,7,10,3,0,1,2,2,18,18.3,N,1,1,talib-zanna-1,Talib Zanna,2013
+7,74,7,2012-11-27,Pittsburgh,,Howard,REG (Non-Conf),W 70-46,*,20,4,6,0.667,0,0,4,6,0.667,0.667,4,8,0.5,3,5,8,1,1,1,2,0,12,11.8,H,1,1,talib-zanna-1,Talib Zanna,2013
+8,75,8,2012-12-01,Pittsburgh,,Detroit Mercy,REG (Non-Conf),W 74-61,*,30,3,8,0.375,0,0,3,8,0.375,0.375,10,11,0.909,2,3,5,0,1,2,1,1,16,14.5,H,1,1,talib-zanna-1,Talib Zanna,2013
+9,76,9,2012-12-05,Pittsburgh,N,Duquesne,REG (Non-Conf),W 66-45,*,25,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,4,3,7,1,0,0,3,1,4,1.6,N,1,1,talib-zanna-1,Talib Zanna,2013
+10,77,10,2012-12-08,Pittsburgh,,North Florida,REG (Non-Conf),W 89-47,*,19,4,6,0.667,0,0,4,6,0.667,0.667,7,9,0.778,3,2,5,1,1,0,0,2,15,15.2,H,1,1,talib-zanna-1,Talib Zanna,2013
+11,78,11,2012-12-15,Pittsburgh,,Bethune-Cookman,REG (Non-Conf),W 89-40,*,20,4,5,0.8,0,0,4,5,0.8,0.8,3,4,0.75,2,3,5,1,1,0,2,1,11,10.3,H,1,1,talib-zanna-1,Talib Zanna,2013
+12,79,12,2012-12-19,Pittsburgh,,Delaware State,REG (Non-Conf),W 71-43,*,32,9,13,0.692,0,0,9,13,0.692,0.692,2,5,0.4,4,5,9,0,0,1,0,0,20,18.3,H,1,1,talib-zanna-1,Talib Zanna,2013
+13,80,13,2012-12-23,Pittsburgh,,Kennesaw State,REG (Non-Conf),W 59-43,*,23,4,9,0.444,0,0,4,9,0.444,0.444,4,4,1.0,6,3,9,0,1,1,2,1,12,11.7,H,1,1,talib-zanna-1,Talib Zanna,2013
+14,81,14,2012-12-31,Pittsburgh,,Cincinnati,REG (Conf),L 61-70,*,32,6,9,0.667,0,0,6,9,0.667,0.667,4,8,0.5,3,2,5,0,0,0,1,3,16,11.0,H,0,1,talib-zanna-1,Talib Zanna,2013
+15,82,15,2013-01-05,Pittsburgh,@,Rutgers,REG (Conf),L 62-67,*,20,4,8,0.5,0,0,4,8,0.5,0.5,1,1,1.0,1,0,1,0,0,0,0,5,9,3.7,A,0,1,talib-zanna-1,Talib Zanna,2013
+16,83,16,2013-01-08,Pittsburgh,@,Georgetown,REG (Conf),W 73-45,*,24,7,9,0.778,0,0,7,9,0.778,0.778,1,2,0.5,2,1,3,0,0,1,1,4,15,10.9,A,1,1,talib-zanna-1,Talib Zanna,2013
+17,84,17,2013-01-12,Pittsburgh,,Marquette,REG (Conf),L 67-74 (OT),*,24,1,9,0.111,0,0,1,9,0.111,0.111,1,2,0.5,3,2,5,0,0,1,1,1,3,-1.3,H,0,1,talib-zanna-1,Talib Zanna,2013
+18,85,18,2013-01-16,Pittsburgh,@,Villanova,REG (Conf),W 58-43,*,25,0,2,0.0,0,0,0,2,0.0,0.0,4,6,0.667,1,1,2,0,0,0,1,4,4,0.2,A,1,1,talib-zanna-1,Talib Zanna,2013
+19,86,19,2013-01-19,Pittsburgh,,Connecticut,REG (Conf),W 69-61,*,27,3,5,0.6,0,0,3,5,0.6,0.6,1,3,0.333,2,3,5,1,0,0,0,3,7,5.7,H,1,1,talib-zanna-1,Talib Zanna,2013
+20,87,20,2013-01-22,Pittsburgh,@,Providence,REG (Conf),W 68-64,*,32,3,9,0.333,0,0,3,9,0.333,0.333,3,6,0.5,1,3,4,1,1,1,2,4,9,3.1,A,1,1,talib-zanna-1,Talib Zanna,2013
+21,88,21,2013-01-26,Pittsburgh,,DePaul,REG (Conf),W 93-55,*,20,3,9,0.333,0,0,3,9,0.333,0.333,2,4,0.5,1,5,6,1,3,2,0,2,8,8.6,H,1,1,talib-zanna-1,Talib Zanna,2013
+22,89,22,2013-01-28,Pittsburgh,@,Louisville,REG (Conf),L 61-64,*,22,2,9,0.222,0,0,2,9,0.222,0.222,0,0,,6,4,10,0,1,0,1,0,4,3.9,A,0,1,talib-zanna-1,Talib Zanna,2013
+23,90,23,2013-02-02,Pittsburgh,,Syracuse,REG (Conf),W 65-55,*,24,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,6,6,12,1,1,0,4,4,4,2.7,H,1,1,talib-zanna-1,Talib Zanna,2013
+24,91,24,2013-02-04,Pittsburgh,,Seton Hall,REG (Conf),W 56-46,*,22,1,6,0.167,0,0,1,6,0.167,0.167,1,2,0.5,1,5,6,0,0,0,1,3,3,-1.2,H,1,1,talib-zanna-1,Talib Zanna,2013
+25,92,25,2013-02-09,Pittsburgh,@,Cincinnati,REG (Conf),W 62-52,*,28,4,6,0.667,0,0,4,6,0.667,0.667,3,6,0.5,3,6,9,1,0,0,1,3,11,9.6,A,1,1,talib-zanna-1,Talib Zanna,2013
+26,93,26,2013-02-16,Pittsburgh,@,Marquette,REG (Conf),L 69-79,*,17,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,2,1,3,0,0,1,1,1,4,2.6,A,0,1,talib-zanna-1,Talib Zanna,2013
+27,94,27,2013-02-18,Pittsburgh,,Notre Dame,REG (Conf),L 42-51,*,24,0,3,0.0,0,0,0,3,0.0,0.0,4,4,1.0,0,2,2,0,1,0,1,3,4,1.3,H,0,1,talib-zanna-1,Talib Zanna,2013
+28,95,28,2013-02-24,Pittsburgh,@,St. John's (NY),REG (Conf),W 63-47,*,15,1,5,0.2,0,0,1,5,0.2,0.2,2,2,1.0,1,2,3,1,0,0,2,3,4,-0.3,A,1,1,talib-zanna-1,Talib Zanna,2013
+29,96,29,2013-02-27,Pittsburgh,,South Florida,REG (Conf),W 64-44,*,24,2,5,0.4,0,0,2,5,0.4,0.4,3,5,0.6,3,4,7,0,0,0,1,1,7,5.4,H,1,1,talib-zanna-1,Talib Zanna,2013
+30,97,30,2013-03-03,Pittsburgh,,Villanova,REG (Conf),W 73-64 (OT),*,37,4,8,0.5,0,0,4,8,0.5,0.5,6,7,0.857,7,12,19,0,1,2,1,3,14,18.3,H,1,1,talib-zanna-1,Talib Zanna,2013
+31,98,31,2013-03-09,Pittsburgh,@,DePaul,REG (Conf),W 81-66,*,24,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,3,4,3,0,2,1,2,5,5.9,A,1,1,talib-zanna-1,Talib Zanna,2013
+32,99,32,2013-03-14,Pittsburgh,N,Syracuse,CTOURN,L 59-62,*,28,4,8,0.5,0,0,4,8,0.5,0.5,2,5,0.4,3,2,5,0,1,0,2,2,10,5.7,N,0,0,talib-zanna-1,Talib Zanna,2013
+33,100,33,2013-03-21,Pittsburgh,N,Wichita State,ROUND-64,L 55-73,*,20,1,4,0.25,0,0,1,4,0.25,0.25,2,4,0.5,4,3,7,0,0,0,1,2,4,2.7,N,0,0,talib-zanna-1,Talib Zanna,2013

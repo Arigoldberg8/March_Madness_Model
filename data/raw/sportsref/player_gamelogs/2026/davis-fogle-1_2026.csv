@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Gonzaga,,Texas Southern,REG (Non-Conf),W 98-43,,10,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,1,0.0,3,2,5,1,0,0,0,2,11,9.6,H,1,1,davis-fogle-1,Davis Fogle,2026
+2,2,3,2025-11-11,Gonzaga,,Creighton,REG (Non-Conf),W 90-63,,6,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.8,H,1,1,davis-fogle-1,Davis Fogle,2026
+3,3,5,2025-11-17,Gonzaga,,Southern Utah,REG (Non-Conf),W 122-50,,15,7,10,0.7,1,1,1.0,6,9,0.667,0.75,4,4,1.0,0,1,1,1,2,1,0,1,19,18.1,H,1,1,davis-fogle-1,Davis Fogle,2026
+4,4,6,2025-11-24,Gonzaga,N,Alabama,REG (Non-Conf),W 95-85,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,davis-fogle-1,Davis Fogle,2026
+5,5,7,2025-11-25,Gonzaga,N,Maryland,REG (Non-Conf),W 100-61,,6,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,3,1,4,0,1,0,1,0,8,6.7,N,1,1,davis-fogle-1,Davis Fogle,2026
+6,6,8,2025-11-26,Gonzaga,N,Michigan,REG (Non-Conf),L 61-101,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,0,2,0,1,0,3,1,2,0.0,N,0,1,davis-fogle-1,Davis Fogle,2026
+7,7,9,2025-12-05,Gonzaga,N,Kentucky,REG (Non-Conf),W 94-59,,3,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,1,davis-fogle-1,Davis Fogle,2026
+8,8,10,2025-12-07,Gonzaga,,North Florida,REG (Non-Conf),W 109-58,,18,7,10,0.7,1,3,0.333,6,7,0.857,0.75,0,0,,0,2,2,1,1,0,1,2,15,11.3,H,1,1,davis-fogle-1,Davis Fogle,2026
+9,9,12,2025-12-17,Gonzaga,,Campbell,REG (Non-Conf),W 98-70,,4,3,3,1.0,0,0,,3,3,1.0,1.0,1,1,1.0,0,0,0,0,0,0,0,0,7,6.1,H,1,1,davis-fogle-1,Davis Fogle,2026
+10,10,14,2025-12-28,Gonzaga,@,Pepperdine,REG (Conf),W 96-56,,16,5,7,0.714,2,3,0.667,3,4,0.75,0.857,3,3,1.0,2,0,2,0,1,0,0,2,15,13.7,A,1,1,davis-fogle-1,Davis Fogle,2026
+11,11,16,2026-01-02,Gonzaga,,Seattle,REG (Conf),W 80-72 (OT),,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,1,1,1,0,-0.7,H,1,1,davis-fogle-1,Davis Fogle,2026
+12,12,17,2026-01-04,Gonzaga,,Loyola Marymount,REG (Conf),W 82-47,*,10,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,1,2,0,0,1,2,2.2,H,1,1,davis-fogle-1,Davis Fogle,2026
+13,13,18,2026-01-08,Gonzaga,,Santa Clara,REG (Conf),W 89-77,,0,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,davis-fogle-1,Davis Fogle,2026
+14,14,19,2026-01-15,Gonzaga,@,Washington State,REG (Conf),W 86-65,,13,2,7,0.286,1,1,1.0,1,6,0.167,0.357,0,0,,1,2,3,0,0,0,1,3,5,0.0,A,1,1,davis-fogle-1,Davis Fogle,2026
+15,15,20,2026-01-17,Gonzaga,@,Seattle,REG (Conf),W 71-50,,24,6,9,0.667,0,0,,6,9,0.667,0.667,1,2,0.5,3,3,6,0,3,0,0,1,13,14.3,A,1,1,davis-fogle-1,Davis Fogle,2026
+16,16,21,2026-01-21,Gonzaga,,Pepperdine,REG (Conf),W 84-60,,25,4,8,0.5,1,1,1.0,3,7,0.429,0.563,8,10,0.8,0,3,3,4,0,0,1,2,17,14.1,H,1,1,davis-fogle-1,Davis Fogle,2026
+17,17,22,2026-01-24,Gonzaga,,San Francisco,REG (Conf),W 68-66,,32,6,15,0.4,1,6,0.167,5,9,0.556,0.433,2,4,0.5,4,5,9,1,2,0,0,0,15,13.1,H,1,1,davis-fogle-1,Davis Fogle,2026
+18,18,23,2026-01-31,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-65,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,3,3,0,1,2,1,2,3,2.4,H,1,1,davis-fogle-1,Davis Fogle,2026
+19,19,24,2026-02-04,Gonzaga,@,Portland,REG (Conf),L 80-87,,25,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,2,0.5,2,2,4,3,0,2,0,2,10,9.6,A,0,1,davis-fogle-1,Davis Fogle,2026
+20,20,25,2026-02-07,Gonzaga,@,Oregon State,REG (Conf),W 81-61,,24,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,3,0.667,2,3,5,2,0,0,0,2,8,8.9,A,1,1,davis-fogle-1,Davis Fogle,2026
+21,21,26,2026-02-10,Gonzaga,,Washington State,REG (Conf),W 83-53,,23,8,11,0.727,0,1,0.0,8,10,0.8,0.727,1,2,0.5,1,1,2,0,3,3,2,0,17,16.2,H,1,1,davis-fogle-1,Davis Fogle,2026
+22,22,27,2026-02-14,Gonzaga,@,Santa Clara,REG (Conf),W 94-86,,14,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,2,2,2,1,0,1,1,6,5.3,A,1,1,davis-fogle-1,Davis Fogle,2026
+23,23,28,2026-02-18,Gonzaga,@,San Francisco,REG (Conf),W 80-59,,24,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,3,0.667,0,5,5,3,0,0,0,1,8,7.1,A,1,1,davis-fogle-1,Davis Fogle,2026
+24,24,29,2026-02-21,Gonzaga,,Pacific,REG (Conf),W 71-62,,28,4,5,0.8,1,1,1.0,3,4,0.75,0.9,9,12,0.75,2,0,2,1,0,0,0,1,18,16.6,H,1,1,davis-fogle-1,Davis Fogle,2026
+25,25,30,2026-02-25,Gonzaga,,Portland,REG (Conf),W 89-48,,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,2,2,4,6,0,2,3,1,6,7.2,H,1,1,davis-fogle-1,Davis Fogle,2026
+26,26,31,2026-02-28,Gonzaga,@,St. Mary's (CA),REG (Conf),L 59-70,,27,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,2,3,5,2,0,1,0,1,9,8.3,A,0,1,davis-fogle-1,Davis Fogle,2026
+27,27,32,2026-03-09,Gonzaga,N,Oregon State,CTOURN,W 65-56,,20,3,7,0.429,1,1,1.0,2,6,0.333,0.5,2,2,1.0,2,4,6,2,1,1,2,1,9,8.6,N,1,0,davis-fogle-1,Davis Fogle,2026
+28,28,33,2026-03-10,Gonzaga,N,Santa Clara,CTOURN,W 79-68,,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,7,0.571,2,6,8,6,2,0,0,0,13,17.9,N,1,0,davis-fogle-1,Davis Fogle,2026

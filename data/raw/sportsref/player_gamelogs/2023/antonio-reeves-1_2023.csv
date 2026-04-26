@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2022-11-07,Kentucky,,Howard,REG (Non-Conf),W 95-63,,25,8,16,0.5,6,12,0.5,2,4,0.5,0.688,0,1,0.0,0,1,1,2,0,0,3,1,22,11.9,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+2,91,2,2022-11-11,Kentucky,,Duquesne,REG (Non-Conf),W 77-52,,28,5,9,0.556,4,6,0.667,1,3,0.333,0.778,4,5,0.8,0,3,3,0,1,1,2,0,18,13.9,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+3,92,3,2022-11-15,Kentucky,N,Michigan State,REG (Non-Conf),L 77-86 (2OT),,22,1,7,0.143,1,3,0.333,0,4,0.0,0.214,2,2,1.0,0,1,1,1,0,0,1,1,5,0.1,N,0,1,antonio-reeves-1,Antonio Reeves,2023
+4,93,4,2022-11-17,Kentucky,,South Carolina State,REG (Non-Conf),W 106-63,,20,3,9,0.333,3,7,0.429,0,2,0.0,0.5,2,2,1.0,0,1,1,3,0,0,0,2,11,7.5,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+5,94,5,2022-11-20,Kentucky,@,Gonzaga,REG (Non-Conf),L 72-88,,24,4,13,0.308,2,7,0.286,2,6,0.333,0.385,0,1,0.0,2,0,2,1,1,0,0,1,10,4.8,A,0,1,antonio-reeves-1,Antonio Reeves,2023
+6,95,6,2022-11-23,Kentucky,,North Florida,REG (Non-Conf),W 96-56,*,29,7,12,0.583,4,8,0.5,3,4,0.75,0.75,2,2,1.0,2,4,6,1,0,0,2,1,20,15.3,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+7,96,7,2022-11-29,Kentucky,,Bellarmine,REG (Non-Conf),W 60-41,*,24,7,15,0.467,3,6,0.5,4,9,0.444,0.567,1,1,1.0,2,3,5,2,0,1,0,2,18,13.9,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+8,97,8,2022-12-04,Kentucky,N,Michigan,REG (Non-Conf),W 73-69,*,26,4,9,0.444,3,4,0.75,1,5,0.2,0.611,0,0,,1,3,4,2,0,0,3,2,11,5.5,N,1,1,antonio-reeves-1,Antonio Reeves,2023
+9,98,9,2022-12-10,Kentucky,,Yale,REG (Non-Conf),W 69-59,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,3,4,0.75,0,2,2,3,1,0,1,2,10,7.8,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+10,99,10,2022-12-17,Kentucky,N,UCLA,REG (Non-Conf),L 53-63,*,21,2,13,0.154,2,8,0.25,0,5,0.0,0.231,0,1,0.0,0,0,0,1,1,0,2,1,6,-3.4,N,0,1,antonio-reeves-1,Antonio Reeves,2023
+11,100,11,2022-12-21,Kentucky,,Florida A&M,REG (Non-Conf),W 88-68,,25,4,11,0.364,2,7,0.286,2,4,0.5,0.455,0,0,,0,2,2,1,0,0,0,1,10,4.8,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+12,101,12,2022-12-28,Kentucky,@,Missouri,REG (Conf),L 75-89,,15,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,3,0.667,0,0,0,1,0,0,2,2,8,2.5,A,0,1,antonio-reeves-1,Antonio Reeves,2023
+13,102,13,2022-12-31,Kentucky,,Louisville,REG (Non-Conf),W 86-63,,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,1,1,0,0,1,0,1,5,2.8,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+14,103,14,2023-01-03,Kentucky,,Louisiana State,REG (Conf),W 74-71,,14,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,1,1,2,-0.1,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+15,104,15,2023-01-07,Kentucky,@,Alabama,REG (Conf),L 52-78,,21,7,13,0.538,4,7,0.571,3,6,0.5,0.692,2,4,0.5,2,2,4,0,0,0,1,1,20,13.5,A,0,1,antonio-reeves-1,Antonio Reeves,2023
+16,105,16,2023-01-10,Kentucky,,South Carolina,REG (Conf),L 68-71,,28,6,13,0.462,1,5,0.2,5,8,0.625,0.5,0,0,,1,1,2,0,0,1,0,3,13,6.8,H,0,1,antonio-reeves-1,Antonio Reeves,2023
+17,106,17,2023-01-14,Kentucky,@,Tennessee,REG (Conf),W 63-56,,30,4,10,0.4,2,6,0.333,2,4,0.5,0.5,8,8,1.0,0,4,4,1,0,0,4,3,18,9.3,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+18,107,18,2023-01-17,Kentucky,,Georgia,REG (Conf),W 85-71,,26,4,11,0.364,1,5,0.2,3,6,0.5,0.409,2,2,1.0,0,1,1,2,1,0,1,4,11,5.0,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+19,108,19,2023-01-21,Kentucky,,Texas A&M,REG (Conf),W 76-67,,28,8,17,0.471,5,11,0.455,3,6,0.5,0.618,2,2,1.0,0,1,1,1,1,0,1,0,23,15.3,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+20,109,20,2023-01-24,Kentucky,@,Vanderbilt,REG (Conf),W 69-53,,27,7,14,0.5,2,5,0.4,5,9,0.556,0.571,0,0,,1,2,3,1,0,0,2,2,16,8.2,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+21,110,21,2023-01-28,Kentucky,,Kansas,REG (Non-Conf),L 68-77,,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,4,4,1.0,0,2,2,3,0,0,1,2,10,5.8,H,0,1,antonio-reeves-1,Antonio Reeves,2023
+22,111,22,2023-01-31,Kentucky,@,Ole Miss,REG (Conf),W 75-66,,31,8,12,0.667,6,7,0.857,2,5,0.4,0.917,5,5,1.0,0,3,3,1,2,0,4,1,27,21.0,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+23,112,23,2023-02-04,Kentucky,,Florida,REG (Conf),W 72-67,,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,0,0,1,0,1,4,1.9,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+24,113,24,2023-02-07,Kentucky,,Arkansas,REG (Conf),L 73-88,,30,4,12,0.333,1,4,0.25,3,8,0.375,0.375,2,2,1.0,0,0,0,1,0,0,2,3,11,1.7,H,0,1,antonio-reeves-1,Antonio Reeves,2023
+25,114,25,2023-02-11,Kentucky,@,Georgia,REG (Conf),L 68-75,*,40,8,21,0.381,4,8,0.5,4,13,0.308,0.476,0,0,,1,5,6,0,0,0,1,2,20,8.9,A,0,1,antonio-reeves-1,Antonio Reeves,2023
+26,115,26,2023-02-15,Kentucky,@,Mississippi State,REG (Conf),W 71-68,*,38,5,12,0.417,4,7,0.571,1,5,0.2,0.583,0,1,0.0,0,1,1,0,0,0,1,4,14,4.9,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+27,116,27,2023-02-18,Kentucky,,Tennessee,REG (Conf),W 66-54,*,29,3,8,0.375,1,3,0.333,2,5,0.4,0.438,1,4,0.25,0,2,2,0,1,0,2,3,8,0.8,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+28,117,28,2023-02-22,Kentucky,@,Florida,REG (Conf),W 82-74,*,39,6,15,0.4,2,6,0.333,4,9,0.444,0.467,2,2,1.0,0,1,1,4,1,1,2,3,16,9.5,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+29,118,29,2023-02-25,Kentucky,,Auburn,REG (Conf),W 86-54,*,36,8,13,0.615,4,7,0.571,4,6,0.667,0.769,1,1,1.0,0,1,1,0,1,0,0,3,21,15.2,H,1,1,antonio-reeves-1,Antonio Reeves,2023
+30,119,30,2023-03-01,Kentucky,,Vanderbilt,REG (Conf),L 66-68,,29,4,17,0.235,1,8,0.125,3,9,0.333,0.265,5,8,0.625,0,2,2,0,0,0,3,3,14,-1.1,H,0,1,antonio-reeves-1,Antonio Reeves,2023
+31,120,31,2023-03-04,Kentucky,@,Arkansas,REG (Conf),W 88-79,*,40,12,17,0.706,2,4,0.5,10,13,0.769,0.765,11,11,1.0,0,1,1,2,0,0,1,4,37,29.0,A,1,1,antonio-reeves-1,Antonio Reeves,2023
+32,121,32,2023-03-10,Kentucky,N,Vanderbilt,CTOURN,L 73-80,*,35,8,20,0.4,3,9,0.333,5,11,0.455,0.475,3,6,0.5,0,3,3,1,2,0,3,5,22,8.6,N,0,0,antonio-reeves-1,Antonio Reeves,2023
+33,122,33,2023-03-17,Kentucky,N,Providence,ROUND-64,W 61-53,*,38,8,18,0.444,5,9,0.556,3,9,0.333,0.583,1,2,0.5,1,2,3,0,0,0,3,2,22,9.7,N,1,0,antonio-reeves-1,Antonio Reeves,2023
+34,123,34,2023-03-19,Kentucky,N,Kansas State,ROUND-32,L 69-75,*,30,1,15,0.067,1,10,0.1,0,5,0.0,0.1,2,2,1.0,0,3,3,2,1,0,1,3,5,-4.0,N,0,0,antonio-reeves-1,Antonio Reeves,2023

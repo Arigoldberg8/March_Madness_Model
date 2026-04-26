@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2015-11-13,Maryland,,Mount St. Mary's,REG (Non-Conf),W 80-56,,23,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,6,7,2,0,0,1,2,11,9.8,H,1,1,jared-nickens-1,Jared Nickens,2016
+2,37,2,2015-11-17,Maryland,,Georgetown,REG (Non-Conf),W 75-71,,14,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,1,2,3,0,1,0,0,0,5,3.2,H,1,1,jared-nickens-1,Jared Nickens,2016
+3,38,3,2015-11-20,Maryland,,Rider,REG (Non-Conf),W 65-58,,26,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,1,3,4,2,1,0,1,2,5,3.8,H,1,1,jared-nickens-1,Jared Nickens,2016
+4,39,4,2015-11-24,Maryland,N,Illinois State,REG (Non-Conf),W 77-66,,28,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,1,1,0,1,1,0,3,6,2.7,N,1,1,jared-nickens-1,Jared Nickens,2016
+5,40,5,2015-11-25,Maryland,N,Rhode Island,REG (Non-Conf),W 86-63,,23,2,4,0.5,2,3,0.667,0,1,0.0,0.75,4,4,1.0,0,1,1,0,1,1,1,0,10,9.0,N,1,1,jared-nickens-1,Jared Nickens,2016
+6,41,6,2015-11-28,Maryland,,Cleveland State,REG (Non-Conf),W 80-63,,27,6,8,0.75,4,6,0.667,2,2,1.0,1.0,0,0,,1,0,1,2,0,0,1,0,16,13.9,H,1,1,jared-nickens-1,Jared Nickens,2016
+7,42,7,2015-12-01,Maryland,@,North Carolina,REG (Non-Conf),L 81-89,,20,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,1,4,6,0.0,A,0,1,jared-nickens-1,Jared Nickens,2016
+8,43,8,2015-12-04,Maryland,,Saint Francis (PA),REG (Non-Conf),W 96-55,,21,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,0,0,0,1,3,3,-1.7,H,1,1,jared-nickens-1,Jared Nickens,2016
+9,44,9,2015-12-08,Maryland,N,Connecticut,REG (Non-Conf),W 76-66,,14,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,0,0,0,6,5.0,N,1,1,jared-nickens-1,Jared Nickens,2016
+10,45,10,2015-12-12,Maryland,,Maryland Eastern Shore,REG (Non-Conf),W 77-56,,21,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,2,0,2,0,0,0,1,0,12,8.4,H,1,1,jared-nickens-1,Jared Nickens,2016
+11,46,11,2015-12-19,Maryland,N,Princeton,REG (Non-Conf),W 82-61,,19,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,1,1,0,0,3,6,6.1,N,1,1,jared-nickens-1,Jared Nickens,2016
+12,47,12,2015-12-27,Maryland,,Marshall,REG (Non-Conf),W 87-67,,22,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,0,0,0,1,0,3,-0.1,H,1,1,jared-nickens-1,Jared Nickens,2016
+13,48,13,2015-12-30,Maryland,,Penn State,REG (Conf),W 70-64,,20,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,2,2,0,0,1,1,3,0,-4.4,H,1,1,jared-nickens-1,Jared Nickens,2016
+14,49,14,2016-01-02,Maryland,@,Northwestern,REG (Conf),W 72-59,,22,1,8,0.125,1,6,0.167,0,2,0.0,0.188,0,0,,0,2,2,2,0,0,0,1,3,-0.6,A,1,1,jared-nickens-1,Jared Nickens,2016
+15,50,15,2016-01-06,Maryland,,Rutgers,REG (Conf),W 88-63,,23,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,3,7,10,0,1,0,0,1,9,9.0,H,1,1,jared-nickens-1,Jared Nickens,2016
+16,51,16,2016-01-09,Maryland,@,Wisconsin,REG (Conf),W 63-60,,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,A,1,1,jared-nickens-1,Jared Nickens,2016
+17,52,17,2016-01-12,Maryland,@,Michigan,REG (Conf),L 67-70,,17,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-3.2,A,0,1,jared-nickens-1,Jared Nickens,2016
+18,53,18,2016-01-16,Maryland,,Ohio State,REG (Conf),W 100-65,,20,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,0,0,1,0,1,6,4.9,H,1,1,jared-nickens-1,Jared Nickens,2016
+19,54,19,2016-01-19,Maryland,,Northwestern,REG (Conf),W 62-56 (OT),,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,1,1.0,0,1,1,0,1,0,0,0,6,4.6,H,1,1,jared-nickens-1,Jared Nickens,2016
+20,55,20,2016-01-23,Maryland,@,Michigan State,REG (Conf),L 65-74,,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,2,0,0,0,3,0,-0.9,A,0,1,jared-nickens-1,Jared Nickens,2016
+21,56,21,2016-01-28,Maryland,,Iowa,REG (Conf),W 74-68,,20,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,0,2,2,2,0,1,0,1,4,2.9,H,1,1,jared-nickens-1,Jared Nickens,2016
+22,57,22,2016-01-31,Maryland,@,Ohio State,REG (Conf),W 66-61,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,A,1,1,jared-nickens-1,Jared Nickens,2016
+23,58,23,2016-02-03,Maryland,@,Nebraska,REG (Conf),W 70-65,,23,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,1,2,3,1,1,1,1,0,11,10.4,A,1,1,jared-nickens-1,Jared Nickens,2016
+24,59,24,2016-02-06,Maryland,,Purdue,REG (Conf),W 72-61,,15,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,1,0,1,0,0,0,0,0,2,-0.4,H,1,1,jared-nickens-1,Jared Nickens,2016
+25,60,25,2016-02-09,Maryland,,Bowie St.,REG (Non-Conf),W 93-62,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,3,3,2,1,0,1,3,4,1.6,H,1,1,jared-nickens-1,Jared Nickens,2016
+26,61,26,2016-02-13,Maryland,,Wisconsin,REG (Conf),L 57-70,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,4,0,-2.0,H,0,1,jared-nickens-1,Jared Nickens,2016
+27,62,27,2016-02-18,Maryland,@,Minnesota,REG (Conf),L 63-68,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,A,0,1,jared-nickens-1,Jared Nickens,2016
+28,63,28,2016-02-21,Maryland,,Michigan,REG (Conf),W 86-82,,12,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,0,0,0,1,0,6,2.6,H,1,1,jared-nickens-1,Jared Nickens,2016
+29,64,29,2016-02-27,Maryland,@,Purdue,REG (Conf),L 79-83,,23,3,6,0.5,3,5,0.6,0,1,0.0,0.75,1,2,0.5,0,1,1,0,1,0,0,3,10,6.7,A,0,1,jared-nickens-1,Jared Nickens,2016
+30,65,30,2016-03-03,Maryland,,Illinois,REG (Conf),W 81-55,,24,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,2,2,1,0,1,0,1,14,12.0,H,1,1,jared-nickens-1,Jared Nickens,2016
+31,66,31,2016-03-06,Maryland,@,Indiana,REG (Conf),L 62-80,,18,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-3.3,A,0,1,jared-nickens-1,Jared Nickens,2016
+32,67,32,2016-03-11,Maryland,N,Nebraska,CTOURN,W 97-86,,16,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,2,3,8,3.2,N,1,0,jared-nickens-1,Jared Nickens,2016
+33,68,33,2016-03-12,Maryland,N,Michigan State,CTOURN,L 61-64,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,0,3,2.3,N,0,0,jared-nickens-1,Jared Nickens,2016
+34,69,34,2016-03-18,Maryland,N,South Dakota State,ROUND-64,W 79-74,,26,4,8,0.5,4,8,0.5,0,0,,0.75,2,2,1.0,0,0,0,0,1,0,2,1,14,8.6,N,1,0,jared-nickens-1,Jared Nickens,2016
+35,70,35,2016-03-20,Maryland,N,Hawaii,ROUND-32,W 73-60,,11,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,3,3,0,0,0,1,2,2,-1.0,N,1,0,jared-nickens-1,Jared Nickens,2016
+36,71,36,2016-03-24,Maryland,N,Kansas,ROUND-16,L 63-79,,12,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,0,2,3,-0.2,N,0,0,jared-nickens-1,Jared Nickens,2016

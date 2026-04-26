@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2024-11-04,Vanderbilt,,Maryland Eastern Shore,REG (Non-Conf),W 102-63,*,19,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,2,3,2,1,0,1,2,5,2.8,H,1,1,mj-collins-1,MJ Collins,2025
+2,68,2,2024-11-10,Vanderbilt,,Southeast Missouri State,REG (Non-Conf),W 85-76,,18,4,7,0.571,0,3,0.0,4,4,1.0,0.571,0,1,0.0,2,2,4,0,0,0,3,1,8,2.9,H,1,1,mj-collins-1,MJ Collins,2025
+3,69,3,2024-11-13,Vanderbilt,,California,REG (Non-Conf),W 85-69,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,3,1.0,1,1,2,1,2,0,2,2,7,5.9,H,1,1,mj-collins-1,MJ Collins,2025
+4,70,4,2024-11-16,Vanderbilt,,Jackson State,REG (Non-Conf),W 94-81,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,2,1,0,1,2,4,3.3,H,1,1,mj-collins-1,MJ Collins,2025
+5,71,5,2024-11-21,Vanderbilt,N,Nevada,REG (Non-Conf),W 73-71,,31,6,13,0.462,3,5,0.6,3,8,0.375,0.577,0,1,0.0,1,0,1,0,0,0,2,0,15,6.6,N,1,1,mj-collins-1,MJ Collins,2025
+6,72,6,2024-11-22,Vanderbilt,N,Seton Hall,REG (Non-Conf),W 76-60,,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,1,0,1,0,2,1.3,N,1,1,mj-collins-1,MJ Collins,2025
+7,73,7,2024-11-24,Vanderbilt,N,Drake,REG (Non-Conf),L 70-81,,22,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,0,0,0,0,0,2,1,9,3.6,N,0,1,mj-collins-1,MJ Collins,2025
+8,74,8,2024-11-29,Vanderbilt,,Tennessee Tech,REG (Non-Conf),W 87-56,,20,2,9,0.222,1,3,0.333,1,6,0.167,0.278,1,1,1.0,1,1,2,0,0,0,0,0,6,1.5,H,1,1,mj-collins-1,MJ Collins,2025
+9,75,9,2024-12-04,Vanderbilt,@,Virginia Tech,REG (Non-Conf),W 80-64,,23,5,12,0.417,3,9,0.333,2,3,0.667,0.542,2,2,1.0,0,3,3,1,0,0,0,0,15,10.2,A,1,1,mj-collins-1,MJ Collins,2025
+10,76,10,2024-12-08,Vanderbilt,N,TCU,REG (Non-Conf),W 83-74,,24,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,2,1,3,1,0,0,0,1,7,5.6,N,1,1,mj-collins-1,MJ Collins,2025
+11,77,11,2024-12-18,Vanderbilt,,The Citadel,REG (Non-Conf),W 105-53,,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,1,1,0,2,0,0,1,6,6.2,H,1,1,mj-collins-1,MJ Collins,2025
+12,78,12,2024-12-21,Vanderbilt,,Austin Peay,REG (Non-Conf),W 85-55,,24,3,5,0.6,2,2,1.0,1,3,0.333,0.8,1,2,0.5,0,2,2,2,1,0,1,1,9,7.9,H,1,1,mj-collins-1,MJ Collins,2025
+13,79,13,2024-12-30,Vanderbilt,,New Orleans,REG (Non-Conf),W 100-56,,20,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,0,0,0,0,0,1,2,7,0.1,H,1,1,mj-collins-1,MJ Collins,2025
+14,80,14,2025-01-04,Vanderbilt,@,Louisiana State,REG (Conf),W 80-72,,26,5,6,0.833,1,2,0.5,4,4,1.0,0.917,3,5,0.6,1,3,4,0,2,0,0,0,14,14.6,A,1,1,mj-collins-1,MJ Collins,2025
+15,81,15,2025-01-07,Vanderbilt,,Mississippi State,REG (Conf),L 64-76,,16,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,3,0.667,1,0,1,0,0,0,1,1,2,-2.6,H,0,1,mj-collins-1,MJ Collins,2025
+16,82,16,2025-01-11,Vanderbilt,@,Missouri,REG (Conf),L 66-75,,28,3,7,0.429,2,5,0.4,1,2,0.5,0.571,5,5,1.0,2,3,5,0,0,0,1,1,13,10.2,A,0,1,mj-collins-1,MJ Collins,2025
+17,83,17,2025-01-15,Vanderbilt,,South Carolina,REG (Conf),W 66-63,,27,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,1,2,3,0,2,0,1,0,9,6.9,H,1,1,mj-collins-1,MJ Collins,2025
+18,84,18,2025-01-18,Vanderbilt,,Tennessee,REG (Conf),W 76-75,,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,3,3,0,1,0,0,0,4,2.5,H,1,1,mj-collins-1,MJ Collins,2025
+19,85,19,2025-01-21,Vanderbilt,@,Alabama,REG (Conf),L 87-103,,21,5,9,0.556,0,2,0.0,5,7,0.714,0.556,0,0,,2,0,2,1,0,0,1,0,10,6.8,A,0,1,mj-collins-1,MJ Collins,2025
+20,86,20,2025-01-25,Vanderbilt,,Kentucky,REG (Conf),W 74-69,,21,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,0,0,0,1,0,0,1,5,0.8,H,1,1,mj-collins-1,MJ Collins,2025
+21,87,21,2025-02-01,Vanderbilt,@,Oklahoma,REG (Conf),L 67-97,,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,3,0.667,3,6,9,1,1,0,3,1,2,1.7,A,0,1,mj-collins-1,MJ Collins,2025
+22,88,22,2025-02-04,Vanderbilt,@,Florida,REG (Conf),L 75-86,,23,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,2,0.0,0,4,4,0,0,0,0,1,11,8.1,A,0,1,mj-collins-1,MJ Collins,2025
+23,89,23,2025-02-08,Vanderbilt,,Texas,REG (Conf),W 86-78,,22,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,1,5,6,1,3,0,1,2,7,6.3,H,1,1,mj-collins-1,MJ Collins,2025
+24,90,24,2025-02-11,Vanderbilt,,Auburn,REG (Conf),L 68-80,,22,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,1,1,2,0,0,0,1,1,8,4.3,H,0,1,mj-collins-1,MJ Collins,2025
+25,91,25,2025-02-15,Vanderbilt,@,Tennessee,REG (Conf),L 76-81,,19,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,1,1,0,0,0,1,2,7,1.8,A,0,1,mj-collins-1,MJ Collins,2025
+26,92,26,2025-02-19,Vanderbilt,@,Kentucky,REG (Conf),L 61-82,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,2,3,0,0,0,1,0,6,3.6,A,0,1,mj-collins-1,MJ Collins,2025
+27,93,27,2025-02-22,Vanderbilt,,Ole Miss,REG (Conf),W 77-72,,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,0,1,0,7,3.3,H,1,1,mj-collins-1,MJ Collins,2025
+28,94,28,2025-02-26,Vanderbilt,@,Texas A&M,REG (Conf),W 86-84,,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,7,11,0.636,2,2,4,2,0,0,1,1,16,13.1,A,1,1,mj-collins-1,MJ Collins,2025
+29,95,29,2025-03-01,Vanderbilt,,Missouri,REG (Conf),W 97-93 (OT),,17,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,1,1,0,0,0,2,1,7,2.6,H,1,1,mj-collins-1,MJ Collins,2025
+30,96,30,2025-03-04,Vanderbilt,,Arkansas,REG (Conf),L 77-90,,23,2,7,0.286,2,4,0.5,0,3,0.0,0.429,4,6,0.667,0,2,2,0,0,0,0,1,10,5.3,H,0,1,mj-collins-1,MJ Collins,2025
+31,97,32,2025-03-12,Vanderbilt,N,Texas,CTOURN,L 72-79,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,2,0,2,1,1,0,1,1,0,-0.4,N,0,0,mj-collins-1,MJ Collins,2025
+32,98,33,2025-03-21,Vanderbilt,N,St. Mary's (CA),ROUND-64,L 56-59,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,mj-collins-1,MJ Collins,2025

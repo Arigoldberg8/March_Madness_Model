@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2013-11-08,NC State,,Appalachian State,REG (Non-Conf),W 98-77,*,28,4,7,0.571,1,3,0.333,3,4,0.75,0.643,6,6,1.0,0,1,1,6,1,0,1,3,15,15.0,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+2,36,2,2013-11-12,NC State,@,Cincinnati,REG (Non-Conf),L 57-68,*,29,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,0,1,1,3,0,0,2,3,7,1.4,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+3,37,3,2013-11-16,NC State,,Campbell,REG (Non-Conf),W 81-66,*,34,3,11,0.273,0,3,0.0,3,8,0.375,0.273,0,0,,2,6,8,9,0,0,1,1,6,7.6,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+4,38,4,2013-11-20,NC State,,North Carolina Central,REG (Non-Conf),L 72-82 (OT),*,39,4,11,0.364,0,3,0.0,4,8,0.5,0.364,0,0,,1,2,3,1,1,0,1,4,8,2.3,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+5,39,5,2013-11-26,NC State,,Florida Gulf Coast,REG (Non-Conf),W 82-62,,10,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,2,0,0,0,2,2,1.9,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+6,40,6,2013-11-30,NC State,,Eastern Kentucky,REG (Non-Conf),W 75-56,,11,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,0,0,0,1,0,0,1,1,6,3.3,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+7,41,7,2013-12-04,NC State,,Northwestern,REG (Non-Conf),W 69-48,,16,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,1,1,7,0,0,1,2,0,0.6,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+8,42,8,2013-12-07,NC State,,Long Beach State,REG (Non-Conf),W 76-66,,5,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,1,0,0,1,1,2,-0.4,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+9,43,9,2013-12-14,NC State,,Detroit Mercy,REG (Non-Conf),W 82-79,,26,1,5,0.2,1,1,1.0,0,4,0.0,0.3,3,5,0.6,1,2,3,7,1,0,2,3,6,6.1,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+10,44,10,2013-12-18,NC State,@,Tennessee,REG (Non-Conf),W 65-58,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,1,0,-1.4,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+11,45,11,2013-12-21,NC State,,East Carolina,REG (Non-Conf),W 90-79,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,1,1,4,0,0,0,1,1,1.2,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+12,46,12,2013-12-28,NC State,,Missouri,REG (Non-Conf),L 64-68,,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,1,0,1,2,0,0,1,1,1,-0.8,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+13,47,13,2013-12-30,NC State,@,UNC Greensboro,REG (Non-Conf),W 68-64,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+14,48,14,2014-01-04,NC State,,Pittsburgh,REG (Conf),L 62-74,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+15,49,15,2014-01-07,NC State,@,Notre Dame,REG (Conf),W 77-70,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,4,0,0,1,1,2,2.4,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+16,50,16,2014-01-11,NC State,,Virginia,REG (Conf),L 45-76,,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,2,0,0,1,1,4,1.9,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+17,51,17,2014-01-15,NC State,@,Wake Forest,REG (Conf),L 69-70,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+18,52,18,2014-01-18,NC State,@,Duke,REG (Conf),L 60-95,,15,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,0,0,0,0,0,2,0,6,1.7,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+19,53,19,2014-01-20,NC State,,Maryland,REG (Conf),W 65-56,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,3,0,0,0,1,2,2.0,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+20,54,20,2014-01-26,NC State,,Georgia Tech,REG (Conf),W 80-78 (OT),,16,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,1,1,3,1,0,1,0,10,9.8,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+21,55,21,2014-01-29,NC State,,Florida State,REG (Conf),W 74-70,,22,3,9,0.333,0,4,0.0,3,5,0.6,0.333,0,0,,0,2,2,7,0,0,0,1,6,6.0,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+22,56,22,2014-02-01,NC State,@,North Carolina,REG (Conf),L 70-84,,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,5,6,0.833,0,0,0,0,1,0,0,1,7,3.4,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+23,57,23,2014-02-08,NC State,@,Miami (FL),REG (Conf),W 56-55,*,27,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,0,1,3,0,0,2,2,3,-0.1,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+24,58,24,2014-02-11,NC State,,Wake Forest,REG (Conf),W 82-67,*,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,7,0,0,2,1,4,4.5,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+25,59,25,2014-02-15,NC State,@,Syracuse,REG (Conf),L 55-56,*,28,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,6,0,0,0,3,0,1.9,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+26,60,26,2014-02-18,NC State,@,Clemson,REG (Conf),L 56-73,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,0,1,4,0,0,0,1,4,6.8,A,0,1,tyler-lewis-1,Tyler Lewis,2014
+27,61,27,2014-02-22,NC State,@,Virginia Tech,REG (Conf),W 71-64,*,36,2,7,0.286,0,4,0.0,2,3,0.667,0.286,4,6,0.667,1,2,3,11,1,0,0,1,8,12.7,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+28,62,28,2014-02-26,NC State,,North Carolina,REG (Conf),L 84-85 (OT),*,31,1,6,0.167,1,3,0.333,0,3,0.0,0.25,1,2,0.5,0,3,3,6,1,0,1,3,4,3.7,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+29,63,29,2014-03-01,NC State,,Miami (FL),REG (Conf),L 70-85,*,24,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,0,0,2,0,0,1,3,7,4.6,H,0,1,tyler-lewis-1,Tyler Lewis,2014
+30,64,30,2014-03-03,NC State,@,Pittsburgh,REG (Conf),W 74-67,*,19,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,2,0,0,1,1,6,5.3,A,1,1,tyler-lewis-1,Tyler Lewis,2014
+31,65,31,2014-03-09,NC State,,Boston College,REG (Conf),W 78-68,*,24,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,2,2,4,5,0,0,1,1,8,9.8,H,1,1,tyler-lewis-1,Tyler Lewis,2014
+32,66,32,2014-03-13,NC State,N,Miami (FL),CTOURN,W 67-58,*,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,4,0,0,0,2,0,-0.1,N,1,0,tyler-lewis-1,Tyler Lewis,2014
+33,67,33,2014-03-14,NC State,N,Syracuse,CTOURN,W 66-63,*,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,1,2,0.5,0,0,0,2,0,0,1,1,7,3.9,N,1,0,tyler-lewis-1,Tyler Lewis,2014
+34,68,34,2014-03-15,NC State,N,Duke,CTOURN,L 67-75,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,5,0,0,1,2,0,1.3,N,0,0,tyler-lewis-1,Tyler Lewis,2014
+35,69,35,2014-03-18,NC State,N,Xavier,FIRST-FOUR,W 74-59,*,32,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,1,0.0,0,3,3,8,0,0,1,0,7,9.1,N,1,0,tyler-lewis-1,Tyler Lewis,2014
+36,70,36,2014-03-20,NC State,N,Saint Louis,ROUND-64,L 80-83 (OT),*,26,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,2,1.0,0,1,1,6,0,0,7,2,8,-0.4,N,0,0,tyler-lewis-1,Tyler Lewis,2014

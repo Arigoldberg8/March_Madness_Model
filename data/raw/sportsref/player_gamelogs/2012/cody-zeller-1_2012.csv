@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Indiana,,Stony Brook,REG (Non-Conf),W 96-66,*,27,5,6,0.833,0,0,5,6,0.833,0.833,6,8,0.75,2,8,10,2,3,2,2,1,16,20.2,H,1,1,cody-zeller-1,Cody Zeller,2012
+2,2,2,2011-11-13,Indiana,,Chattanooga,REG (Non-Conf),W 78-53,*,24,2,3,0.667,0,0,2,3,0.667,0.667,3,5,0.6,3,2,5,0,6,1,2,4,7,10.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+3,3,3,2011-11-16,Indiana,@,Evansville,REG (Non-Conf),W 94-73,*,26,6,7,0.857,0,0,6,7,0.857,0.857,2,3,0.667,1,8,9,1,1,2,3,4,14,12.7,A,1,1,cody-zeller-1,Cody Zeller,2012
+4,4,4,2011-11-19,Indiana,,Savannah State,REG (Non-Conf),W 94-65,*,23,6,7,0.857,0,0,6,7,0.857,0.857,11,13,0.846,1,4,5,1,3,0,1,4,23,22.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+5,5,5,2011-11-21,Indiana,,Gardner-Webb,REG (Non-Conf),W 73-49,*,26,6,8,0.75,0,0,6,8,0.75,0.75,1,2,0.5,3,6,9,1,0,0,2,1,13,11.6,H,1,1,cody-zeller-1,Cody Zeller,2012
+6,6,6,2011-11-27,Indiana,,Butler,REG (Non-Conf),W 75-59,*,33,4,9,0.444,0,0,4,9,0.444,0.444,8,10,0.8,3,5,8,0,3,2,1,2,16,16.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+7,7,7,2011-11-30,Indiana,@,NC State,REG (Non-Conf),W 86-75,*,31,8,14,0.571,0,0,8,14,0.571,0.571,3,4,0.75,5,2,7,0,1,2,1,2,19,16.7,A,1,1,cody-zeller-1,Cody Zeller,2012
+8,8,8,2011-12-04,Indiana,,Stetson,REG (Non-Conf),W 84-50,*,27,7,11,0.636,0,0,7,11,0.636,0.636,2,3,0.667,2,5,7,1,4,4,0,2,16,20.3,H,1,1,cody-zeller-1,Cody Zeller,2012
+9,9,9,2011-12-10,Indiana,,Kentucky,REG (Non-Conf),W 73-72,*,37,4,8,0.5,0,0,4,8,0.5,0.5,3,3,1.0,5,2,7,1,1,1,3,2,11,9.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+10,10,10,2011-12-17,Indiana,N,Notre Dame,REG (Non-Conf),W 69-58,*,27,8,14,0.571,0,0,8,14,0.571,0.571,5,6,0.833,4,4,8,2,1,2,1,4,21,19.2,N,1,1,cody-zeller-1,Cody Zeller,2012
+11,11,11,2011-12-19,Indiana,,Howard,REG (Non-Conf),W 107-50,*,25,5,6,0.833,0,0,5,6,0.833,0.833,2,4,0.5,0,6,6,3,2,2,0,0,12,16.3,H,1,1,cody-zeller-1,Cody Zeller,2012
+12,12,12,2011-12-22,Indiana,,UMBC,REG (Non-Conf),W 89-47,*,26,4,5,0.8,0,0,4,5,0.8,0.8,5,6,0.833,1,5,6,2,0,2,2,1,13,13.3,H,1,1,cody-zeller-1,Cody Zeller,2012
+13,13,13,2011-12-28,Indiana,@,Michigan State,REG (Conf),L 65-80,*,23,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,1,3,0,1,0,1,4,4,1.4,A,0,1,cody-zeller-1,Cody Zeller,2012
+14,14,14,2011-12-31,Indiana,,Ohio State,REG (Conf),W 74-70,*,21,5,9,0.556,0,0,5,9,0.556,0.556,4,7,0.571,3,1,4,0,0,0,1,5,14,7.9,H,1,1,cody-zeller-1,Cody Zeller,2012
+15,15,15,2012-01-05,Indiana,,Michigan,REG (Conf),W 73-71,*,32,8,10,0.8,0,0,8,10,0.8,0.8,2,2,1.0,2,2,4,0,0,2,3,2,18,13.8,H,1,1,cody-zeller-1,Cody Zeller,2012
+16,16,16,2012-01-08,Indiana,@,Penn State,REG (Conf),W 88-82,*,24,4,5,0.8,0,0,4,5,0.8,0.8,2,3,0.667,0,4,4,2,1,2,1,4,10,10.1,A,1,1,cody-zeller-1,Cody Zeller,2012
+17,17,17,2012-01-12,Indiana,,Minnesota,REG (Conf),L 74-77,*,37,7,14,0.5,0,0,7,14,0.5,0.5,9,9,1.0,1,7,8,2,2,2,1,2,23,21.8,H,0,1,cody-zeller-1,Cody Zeller,2012
+18,18,18,2012-01-15,Indiana,@,Ohio State,REG (Conf),L 63-80,*,33,7,9,0.778,0,0,7,9,0.778,0.778,2,3,0.667,3,3,6,0,1,0,2,4,16,12.5,A,0,1,cody-zeller-1,Cody Zeller,2012
+19,19,19,2012-01-18,Indiana,@,Nebraska,REG (Conf),L 69-70,*,27,7,12,0.583,0,0,7,12,0.583,0.583,4,5,0.8,2,5,7,2,0,0,2,3,18,13.1,A,0,1,cody-zeller-1,Cody Zeller,2012
+20,20,20,2012-01-22,Indiana,,Penn State,REG (Conf),W 73-54,*,28,7,8,0.875,0,0,7,8,0.875,0.875,4,4,1.0,2,2,4,1,0,4,3,4,18,16.1,H,1,1,cody-zeller-1,Cody Zeller,2012
+21,21,21,2012-01-26,Indiana,@,Wisconsin,REG (Conf),L 50-57,*,19,2,7,0.286,0,0,2,7,0.286,0.286,3,4,0.75,2,1,3,0,1,1,0,4,7,4.3,A,0,1,cody-zeller-1,Cody Zeller,2012
+22,22,22,2012-01-29,Indiana,,Iowa,REG (Conf),W 103-89,*,28,11,12,0.917,0,0,11,12,0.917,0.917,4,6,0.667,0,4,4,4,3,1,0,3,26,27.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+23,23,23,2012-02-01,Indiana,@,Michigan,REG (Conf),L 56-68,*,36,4,9,0.444,0,0,4,9,0.444,0.444,3,4,0.75,4,8,12,1,0,0,4,1,11,7.4,A,0,1,cody-zeller-1,Cody Zeller,2012
+24,24,24,2012-02-04,Indiana,@,Purdue,REG (Conf),W 78-61,*,32,4,7,0.571,0,0,4,7,0.571,0.571,8,11,0.727,3,5,8,1,0,1,2,3,16,13.3,A,1,1,cody-zeller-1,Cody Zeller,2012
+25,25,25,2012-02-09,Indiana,,Illinois,REG (Conf),W 84-71,*,32,5,8,0.625,0,0,5,8,0.625,0.625,12,14,0.857,2,3,5,1,1,1,0,4,22,20.7,H,1,1,cody-zeller-1,Cody Zeller,2012
+26,26,26,2012-02-15,Indiana,,Northwestern,REG (Conf),W 71-66,*,30,9,11,0.818,0,0,9,11,0.818,0.818,5,6,0.833,2,5,7,3,1,0,3,4,23,19.9,H,1,1,cody-zeller-1,Cody Zeller,2012
+27,27,27,2012-02-19,Indiana,@,Iowa,REG (Conf),L 66-78,*,32,5,12,0.417,0,0,5,12,0.417,0.417,5,7,0.714,4,9,13,0,1,2,2,2,15,12.9,A,0,1,cody-zeller-1,Cody Zeller,2012
+28,28,28,2012-02-22,Indiana,,North Carolina Central,REG (Non-Conf),W 75-56,*,27,6,9,0.667,0,0,6,9,0.667,0.667,5,9,0.556,4,3,7,2,0,0,0,0,17,16.6,H,1,1,cody-zeller-1,Cody Zeller,2012
+29,29,29,2012-02-26,Indiana,@,Minnesota,REG (Conf),W 69-50,*,18,3,8,0.375,0,0,3,8,0.375,0.375,1,3,0.333,1,1,2,1,1,1,3,4,7,0.6,A,1,1,cody-zeller-1,Cody Zeller,2012
+30,30,30,2012-02-28,Indiana,,Michigan State,REG (Conf),W 70-55,*,32,7,12,0.583,0,0,7,12,0.583,0.583,4,5,0.8,2,2,4,1,2,1,1,1,18,16.0,H,1,1,cody-zeller-1,Cody Zeller,2012
+31,31,31,2012-03-04,Indiana,,Purdue,REG (Conf),W 85-74,*,30,4,6,0.667,0,0,4,6,0.667,0.667,5,8,0.625,2,5,7,1,1,2,2,3,13,12.0,H,1,1,cody-zeller-1,Cody Zeller,2012
+32,32,32,2012-03-08,Indiana,N,Penn State,CTOURN,W 75-58,*,31,4,9,0.444,0,0,4,9,0.444,0.444,11,15,0.733,7,3,10,2,1,1,1,2,19,19.8,N,1,0,cody-zeller-1,Cody Zeller,2012
+33,33,33,2012-03-09,Indiana,N,Wisconsin,CTOURN,L 71-79,*,31,5,9,0.556,0,0,5,9,0.556,0.556,7,8,0.875,1,0,1,0,1,0,1,4,17,11.4,N,0,0,cody-zeller-1,Cody Zeller,2012
+34,34,34,2012-03-15,Indiana,N,New Mexico State,ROUND-64,W 79-66,*,30,5,9,0.556,0,0,5,9,0.556,0.556,4,6,0.667,1,5,6,4,6,0,2,3,14,16.7,N,1,0,cody-zeller-1,Cody Zeller,2012
+35,35,35,2012-03-17,Indiana,N,VCU,ROUND-32,W 63-61,*,33,5,9,0.556,0,0,5,9,0.556,0.556,6,8,0.75,4,9,13,1,0,1,4,1,16,13.4,N,1,0,cody-zeller-1,Cody Zeller,2012
+36,36,36,2012-03-23,Indiana,N,Kentucky,ROUND-16,L 90-102,*,27,9,14,0.643,0,0,9,14,0.643,0.643,2,2,1.0,3,4,7,2,0,0,3,3,20,14.3,N,0,0,cody-zeller-1,Cody Zeller,2012

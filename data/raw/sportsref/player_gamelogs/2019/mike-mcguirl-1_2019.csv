@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,13,1,2018-11-09,Kansas State,,Kennesaw State,REG (Non-Conf),W 56-41,,16,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,0,1,0,1,1,3,-0.2,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+2,14,2,2018-11-12,Kansas State,,Denver,REG (Non-Conf),W 64-56,,13,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,1,0,1,1,2,0,1,2,1,0.1,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+3,15,3,2018-11-16,Kansas State,N,Eastern Kentucky,REG (Non-Conf),W 95-68,,9,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,0,1,0,0,0,1,2,4,0.9,N,1,1,mike-mcguirl-1,Mike McGuirl,2019
+4,16,4,2018-11-18,Kansas State,N,Pennsylvania,REG (Non-Conf),W 64-48,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,2,2,0,-2.1,N,1,1,mike-mcguirl-1,Mike McGuirl,2019
+5,17,5,2018-11-19,Kansas State,N,Missouri,REG (Non-Conf),W 82-67,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,1,1,mike-mcguirl-1,Mike McGuirl,2019
+6,18,6,2018-11-24,Kansas State,,Lehigh,REG (Non-Conf),W 77-58,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,2,0,0,1,2,3,1.9,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+7,19,7,2018-12-01,Kansas State,@,Marquette,REG (Non-Conf),L 71-83,,21,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,2,2,0,1,1,2,1.5,A,0,1,mike-mcguirl-1,Mike McGuirl,2019
+8,20,8,2018-12-08,Kansas State,@,Tulsa,REG (Non-Conf),L 46-47,,13,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,1,0,1,1,0,5,5.1,A,0,1,mike-mcguirl-1,Mike McGuirl,2019
+9,21,9,2018-12-15,Kansas State,,Georgia State,REG (Non-Conf),W 71-59,,20,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,2,2,4,5,2,0,2,0,0,2.0,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+10,22,10,2018-12-19,Kansas State,,Southern Mississippi,REG (Non-Conf),W 55-51,,15,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,3,3,3,0,0,1,1,2,1.2,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+11,23,11,2018-12-22,Kansas State,N,Vanderbilt,REG (Non-Conf),W 69-58,,19,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,1,1,0,0,0,6,5.3,N,1,1,mike-mcguirl-1,Mike McGuirl,2019
+12,24,12,2018-12-29,Kansas State,,George Mason,REG (Non-Conf),W 59-58,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,2,0,0,0,2,2,1.9,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+13,25,13,2019-01-02,Kansas State,,Texas,REG (Conf),L 47-67,*,30,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,0,2,2,0,3,0,0,0,5,6.2,H,0,1,mike-mcguirl-1,Mike McGuirl,2019
+14,26,14,2019-01-05,Kansas State,@,Texas Tech,REG (Conf),L 57-63,*,6,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,1,0,0,3,0,-2.3,A,0,1,mike-mcguirl-1,Mike McGuirl,2019
+15,27,15,2019-01-09,Kansas State,,West Virginia,REG (Conf),W 71-69,,26,7,12,0.583,4,6,0.667,3,6,0.5,0.75,0,0,,1,2,3,0,1,0,0,2,18,13.9,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+16,28,16,2019-01-12,Kansas State,@,Iowa State,REG (Conf),W 58-57,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,1,0,0,1,4,0,-2.4,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+17,29,17,2019-01-16,Kansas State,@,Oklahoma,REG (Conf),W 74-61,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,0,0,1,3,2.3,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+18,30,18,2019-01-19,Kansas State,,TCU,REG (Conf),W 65-55,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,0,0,0,0,1,1,0,0,2,1.6,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+19,31,19,2019-01-22,Kansas State,,Texas Tech,REG (Conf),W 58-45,,29,4,9,0.444,1,5,0.2,3,4,0.75,0.5,0,0,,2,0,2,1,1,0,1,2,9,5.6,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+20,32,20,2019-01-26,Kansas State,@,Texas A&M,REG (Non-Conf),L 53-65,,10,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,1,0,1,0,1,-0.1,A,0,1,mike-mcguirl-1,Mike McGuirl,2019
+21,33,21,2019-02-02,Kansas State,@,Oklahoma State,REG (Conf),W 75-57,,22,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,1,2,3,2,1,0,1,3,4,4.1,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+22,34,22,2019-02-05,Kansas State,,Kansas,REG (Conf),W 74-67,,9,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,0,1,0,0,0,0,1,5,2.6,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+23,35,23,2019-02-09,Kansas State,@,Baylor,REG (Conf),W 70-63,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+24,36,24,2019-02-12,Kansas State,@,Texas,REG (Conf),W 71-64,,18,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,2,0,0,2,1,5,2.7,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+25,37,25,2019-02-16,Kansas State,,Iowa State,REG (Conf),L 64-78,,32,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,1,2,3,3,1,0,1,2,7,7.2,H,0,1,mike-mcguirl-1,Mike McGuirl,2019
+26,38,26,2019-02-18,Kansas State,@,West Virginia,REG (Conf),W 65-51,,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,1,1,1,0,0,1,1,2,-1.2,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+27,39,27,2019-02-23,Kansas State,,Oklahoma State,REG (Conf),W 85-46,,28,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,5,5,4,0,0,1,3,6,6.1,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+28,40,28,2019-02-25,Kansas State,@,Kansas,REG (Conf),L 49-64,,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,1,1.0,2,2,4,1,0,0,0,2,6,5.2,A,0,1,mike-mcguirl-1,Mike McGuirl,2019
+29,41,29,2019-03-02,Kansas State,,Baylor,REG (Conf),W 66-60,,30,0,1,0.0,0,1,0.0,0,0,,0.0,4,6,0.667,0,1,1,2,2,0,0,4,4,4.6,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+30,42,30,2019-03-04,Kansas State,@,TCU,REG (Conf),W 64-52,,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,0,0,2,1,0,0,2,3,3.6,A,1,1,mike-mcguirl-1,Mike McGuirl,2019
+31,43,31,2019-03-09,Kansas State,,Oklahoma,REG (Conf),W 68-53,,21,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,1,0,0,1,2,6,4.2,H,1,1,mike-mcguirl-1,Mike McGuirl,2019
+32,44,32,2019-03-14,Kansas State,N,TCU,CTOURN,W 70-61,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,2,0,0,4,2,2.4,N,1,0,mike-mcguirl-1,Mike McGuirl,2019
+33,45,33,2019-03-15,Kansas State,N,Iowa State,CTOURN,L 59-63,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,1,0,0,3,0,-0.9,N,0,0,mike-mcguirl-1,Mike McGuirl,2019
+34,46,34,2019-03-22,Kansas State,N,UC Irvine,ROUND-64,L 64-70,,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,3,4,0.75,2,0,2,1,1,0,1,3,7,3.4,N,0,0,mike-mcguirl-1,Mike McGuirl,2019

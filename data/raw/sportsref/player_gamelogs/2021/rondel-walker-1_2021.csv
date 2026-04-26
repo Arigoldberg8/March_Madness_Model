@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,Oklahoma State,@,UT Arlington,REG (Non-Conf),W 75-68,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,rondel-walker-1,Rondel Walker,2021
+2,2,2,2020-11-28,Oklahoma State,,Texas Southern,REG (Non-Conf),W 85-65,,24,7,12,0.583,3,7,0.429,4,5,0.8,0.708,2,2,1.0,1,2,3,0,0,0,1,0,19,13.7,H,1,1,rondel-walker-1,Rondel Walker,2021
+3,3,3,2020-12-01,Oklahoma State,@,Marquette,REG (Non-Conf),W 70-62,,26,4,9,0.444,0,2,0.0,4,7,0.571,0.444,8,9,0.889,0,1,1,0,1,1,2,2,16,10.1,A,1,1,rondel-walker-1,Rondel Walker,2021
+4,4,4,2020-12-05,Oklahoma State,,Oakland,REG (Non-Conf),W 84-71,,23,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,4,5,2,1,1,3,0,3,1.9,H,1,1,rondel-walker-1,Rondel Walker,2021
+5,5,5,2020-12-08,Oklahoma State,,Oral Roberts,REG (Non-Conf),W 83-78,,24,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,2,2,0,2,0,1,0,4,3.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+6,6,6,2020-12-12,Oklahoma State,@,Wichita State,REG (Non-Conf),W 67-64,,27,5,11,0.455,2,6,0.333,3,5,0.6,0.545,1,2,0.5,0,2,2,1,1,1,2,2,13,7.1,A,1,1,rondel-walker-1,Rondel Walker,2021
+7,7,7,2020-12-16,Oklahoma State,,TCU,REG (Conf),L 76-77,,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,6,0.667,0,2,2,0,1,0,0,0,12,9.5,H,0,1,rondel-walker-1,Rondel Walker,2021
+8,8,8,2020-12-20,Oklahoma State,@,Texas,REG (Conf),L 74-77,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,0,0,1,1,-0.5,A,0,1,rondel-walker-1,Rondel Walker,2021
+9,9,9,2021-01-02,Oklahoma State,@,Texas Tech,REG (Conf),W 82-77 (OT),,27,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,1,1,2,1,0,0,2,2,6,0.8,A,1,1,rondel-walker-1,Rondel Walker,2021
+10,10,10,2021-01-04,Oklahoma State,,West Virginia,REG (Conf),L 84-87,,30,3,9,0.333,2,6,0.333,1,3,0.333,0.444,4,6,0.667,0,2,2,0,1,0,0,0,12,7.7,H,0,1,rondel-walker-1,Rondel Walker,2021
+11,11,11,2021-01-09,Oklahoma State,@,Kansas State,REG (Conf),W 70-54,,34,4,7,0.571,3,5,0.6,1,2,0.5,0.786,4,5,0.8,0,3,3,2,2,0,3,0,15,12.6,A,1,1,rondel-walker-1,Rondel Walker,2021
+12,12,12,2021-01-12,Oklahoma State,,Kansas,REG (Conf),W 75-70,,25,3,11,0.273,1,4,0.25,2,7,0.286,0.318,1,1,1.0,3,7,10,0,0,0,0,3,8,4.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+13,13,14,2021-01-25,Oklahoma State,@,Iowa State,REG (Conf),W 81-60,,31,7,12,0.583,4,8,0.5,3,4,0.75,0.75,2,5,0.4,0,3,3,1,3,0,1,2,20,16.0,A,1,1,rondel-walker-1,Rondel Walker,2021
+14,14,15,2021-01-30,Oklahoma State,,Arkansas,REG (Non-Conf),W 81-77,,27,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,1,2,3,0,1,1,2,1,7,3.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+15,15,16,2021-02-03,Oklahoma State,@,TCU,REG (Conf),L 78-81,,27,4,6,0.667,3,4,0.75,1,2,0.5,0.917,5,6,0.833,0,3,3,0,1,0,1,2,16,13.1,A,0,1,rondel-walker-1,Rondel Walker,2021
+16,16,17,2021-02-06,Oklahoma State,,Texas,REG (Conf),W 75-67 (2OT),,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,2,2,0,2,0,3,1,4,1.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+17,17,18,2021-02-08,Oklahoma State,@,Kansas,REG (Conf),L 66-78,,22,0,7,0.0,0,4,0.0,0,3,0.0,0.0,1,2,0.5,0,2,2,1,2,0,1,2,1,-2.8,A,0,1,rondel-walker-1,Rondel Walker,2021
+18,18,19,2021-02-13,Oklahoma State,,Kansas State,REG (Conf),W 67-60,*,36,3,7,0.429,2,6,0.333,1,1,1.0,0.571,2,2,1.0,1,5,6,1,3,1,3,1,10,9.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+19,19,20,2021-02-16,Oklahoma State,,Iowa State,REG (Conf),W 76-58,*,37,3,5,0.6,3,4,0.75,0,1,0.0,0.9,1,2,0.5,0,4,4,3,4,1,0,2,10,14.5,H,1,1,rondel-walker-1,Rondel Walker,2021
+20,20,21,2021-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 74-69 (OT),*,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,2,0.0,1,1,2,1,2,0,1,3,2,1.0,H,1,1,rondel-walker-1,Rondel Walker,2021
+21,21,22,2021-02-27,Oklahoma State,@,Oklahoma,REG (Conf),W 94-90 (OT),*,40,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,2,3,5,3,3,0,3,3,11,11.6,A,1,1,rondel-walker-1,Rondel Walker,2021
+22,22,23,2021-03-01,Oklahoma State,,Oklahoma,REG (Conf),W 79-75,*,32,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,3,0.333,1,5,6,3,0,0,0,2,6,4.6,H,1,1,rondel-walker-1,Rondel Walker,2021
+23,23,24,2021-03-04,Oklahoma State,@,Baylor,REG (Conf),L 70-81,*,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,1,0,1,1,0,0,2,2,1,-2.9,A,0,1,rondel-walker-1,Rondel Walker,2021
+24,24,25,2021-03-06,Oklahoma State,@,West Virginia,REG (Conf),W 85-80,*,27,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,2,2,0,2,0,1,1.6,A,1,1,rondel-walker-1,Rondel Walker,2021
+25,25,26,2021-03-11,Oklahoma State,N,West Virginia,CTOURN,W 72-69,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,0,0,2,3.1,N,1,0,rondel-walker-1,Rondel Walker,2021
+26,26,27,2021-03-12,Oklahoma State,N,Baylor,CTOURN,W 83-74,,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,3,0.667,1,5,6,2,0,1,1,2,11,10.5,N,1,0,rondel-walker-1,Rondel Walker,2021
+27,27,28,2021-03-13,Oklahoma State,N,Texas,CTOURN,L 86-91,,26,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,1,2,3,1,1,0,1,4,9,7.5,N,0,0,rondel-walker-1,Rondel Walker,2021
+28,28,29,2021-03-19,Oklahoma State,N,Liberty,ROUND-64,W 69-60,,29,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,1,0.0,2,0,2,0,1,1,2,4,6,-0.7,N,1,0,rondel-walker-1,Rondel Walker,2021
+29,29,30,2021-03-21,Oklahoma State,N,Oregon State,ROUND-32,L 70-80,,21,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,0,1,2,1,0,1,0,0,0.0,N,0,0,rondel-walker-1,Rondel Walker,2021

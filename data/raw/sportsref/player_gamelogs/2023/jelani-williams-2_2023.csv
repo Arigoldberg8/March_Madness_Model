@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2022-11-07,Howard,@,Kentucky,REG (Non-Conf),L 63-95,*,29,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,1,0.0,2,1,3,2,0,0,3,0,6,0.6,A,0,1,jelani-williams-2,Jelani Williams,2023
+2,27,2,2022-11-09,Howard,,Dist. Columbia,REG (Non-Conf),W 87-74,*,30,4,6,0.667,1,1,1.0,3,5,0.6,0.75,3,4,0.75,1,2,3,5,1,0,2,2,12,12.0,H,1,1,jelani-williams-2,Jelani Williams,2023
+3,28,3,2022-11-11,Howard,@,George Washington,REG (Non-Conf),L 75-85,*,35,5,8,0.625,1,3,0.333,4,5,0.8,0.688,3,4,0.75,1,3,4,9,3,0,0,5,14,18.9,A,0,1,jelani-williams-2,Jelani Williams,2023
+4,29,4,2022-11-13,Howard,,Gallaudet,REG (Non-Conf),W 108-56,*,15,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,2,2,2,2,0,0,1,6,7.3,H,1,1,jelani-williams-2,Jelani Williams,2023
+5,30,5,2022-11-15,Howard,,James Madison,REG (Non-Conf),L 69-95,*,28,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,1,2,3,0,3,0,3,3,4,-0.7,H,0,1,jelani-williams-2,Jelani Williams,2023
+6,31,6,2022-11-18,Howard,N,Wyoming,REG (Non-Conf),L 71-78,*,35,4,10,0.4,2,4,0.5,2,6,0.333,0.5,1,2,0.5,2,3,5,0,1,0,3,2,11,4.7,N,0,1,jelani-williams-2,Jelani Williams,2023
+7,32,7,2022-11-19,Howard,N,Buffalo,REG (Non-Conf),W 63-59,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,1,1,1.0,0,4,4,1,2,0,3,4,9,4.6,N,1,1,jelani-williams-2,Jelani Williams,2023
+8,33,8,2022-11-21,Howard,N,Belmont,REG (Non-Conf),L 73-96,*,28,1,8,0.125,0,4,0.0,1,4,0.25,0.125,2,2,1.0,3,3,6,1,1,0,1,4,4,0.9,N,0,1,jelani-williams-2,Jelani Williams,2023
+9,34,9,2022-11-26,Howard,@,Austin Peay,REG (Non-Conf),W 56-55,*,38,6,9,0.667,0,1,0.0,6,8,0.75,0.667,2,4,0.5,1,7,8,5,2,0,3,3,14,13.4,A,1,1,jelani-williams-2,Jelani Williams,2023
+10,35,10,2022-11-30,Howard,@,Yale,REG (Non-Conf),L 40-86,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,1,1,1,2,0,2,2,6,3.2,A,0,1,jelani-williams-2,Jelani Williams,2023
+11,36,11,2022-12-03,Howard,@,Hampton,REG (Non-Conf),L 65-74,*,35,5,14,0.357,1,5,0.2,4,9,0.444,0.393,4,6,0.667,2,3,5,3,1,0,5,4,15,5.2,A,0,1,jelani-williams-2,Jelani Williams,2023
+12,37,12,2022-12-11,Howard,@,VCU,REG (Non-Conf),L 60-70,*,22,1,5,0.2,1,1,1.0,0,4,0.0,0.3,2,4,0.5,0,1,1,2,0,0,3,1,5,-0.6,A,0,1,jelani-williams-2,Jelani Williams,2023
+13,38,13,2022-12-13,Howard,,Florida International,REG (Non-Conf),W 71-59,*,23,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,1,2,1,2,0,3,2,0,-3.6,H,1,1,jelani-williams-2,Jelani Williams,2023
+14,39,14,2022-12-18,Howard,@,Harvard,REG (Non-Conf),W 66-54,*,27,4,7,0.571,1,2,0.5,3,5,0.6,0.643,4,4,1.0,0,5,5,1,0,0,0,1,13,11.5,A,1,1,jelani-williams-2,Jelani Williams,2023
+15,40,15,2022-12-21,Howard,,Mount St. Mary's,REG (Non-Conf),W 63-62,*,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,3,4,0,0,0,2,2,0,-3.3,H,1,1,jelani-williams-2,Jelani Williams,2023
+16,41,16,2022-12-29,Howard,,La Salle,REG (Non-Conf),L 76-80,*,32,4,11,0.364,0,2,0.0,4,9,0.444,0.364,0,1,0.0,3,4,7,1,2,0,1,2,8,5.7,H,0,1,jelani-williams-2,Jelani Williams,2023
+17,42,17,2023-01-07,Howard,,Delaware State,REG (Conf),W 84-64,,13,3,3,1.0,0,0,,3,3,1.0,1.0,4,4,1.0,2,0,2,1,2,0,1,2,10,11.4,H,1,1,jelani-williams-2,Jelani Williams,2023
+18,43,18,2023-01-09,Howard,@,Maryland Eastern Shore,REG (Conf),L 73-82,,25,6,6,1.0,3,3,1.0,3,3,1.0,1.25,8,11,0.727,0,3,3,1,1,0,1,2,23,20.8,A,0,1,jelani-williams-2,Jelani Williams,2023
+19,44,19,2023-01-14,Howard,@,Norfolk State,REG (Conf),W 86-84,,30,6,8,0.75,2,3,0.667,4,5,0.8,0.875,4,5,0.8,5,2,7,5,1,0,1,3,18,20.8,A,1,1,jelani-williams-2,Jelani Williams,2023
+20,45,20,2023-01-16,Howard,,Morehouse,REG (Non-Conf),W 89-65,,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,0,1,1,1,0,0,3,2,6,1.5,H,1,1,jelani-williams-2,Jelani Williams,2023
+21,46,21,2023-01-21,Howard,,Morgan State,REG (Conf),W 88-56,,19,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,1,3,4,2,3,0,0,2,7,8.5,H,1,1,jelani-williams-2,Jelani Williams,2023
+22,47,22,2023-01-23,Howard,,Coppin State,REG (Conf),W 90-76,,19,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,5,0.6,0,10,10,3,0,0,2,0,9,6.9,H,1,1,jelani-williams-2,Jelani Williams,2023
+23,48,23,2023-01-28,Howard,,North Carolina Central,REG (Conf),W 71-67,,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,3,2,5,2,2,0,3,3,5,4.5,H,1,1,jelani-williams-2,Jelani Williams,2023
+24,49,24,2023-01-30,Howard,,South Carolina State,REG (Conf),W 100-74,,15,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,3,3,2,0,0,0,2,5,3.8,H,1,1,jelani-williams-2,Jelani Williams,2023
+25,50,25,2023-02-11,Howard,@,Delaware State,REG (Conf),W 86-85 (OT),,31,7,16,0.438,2,3,0.667,5,13,0.385,0.5,3,5,0.6,4,8,12,1,0,0,2,3,19,12.5,A,1,1,jelani-williams-2,Jelani Williams,2023
+26,51,26,2023-02-13,Howard,,Maryland Eastern Shore,REG (Conf),W 78-69,,22,1,5,0.2,1,3,0.333,0,2,0.0,0.3,3,4,0.75,0,0,0,1,1,1,1,2,6,3.1,H,1,1,jelani-williams-2,Jelani Williams,2023
+27,52,27,2023-02-18,Howard,@,Coppin State,REG (Conf),W 80-70,,23,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,2,0.5,1,4,5,0,0,1,2,4,3,-2.9,A,1,1,jelani-williams-2,Jelani Williams,2023
+28,53,28,2023-02-20,Howard,@,Morgan State,REG (Conf),L 76-89,,23,3,10,0.3,1,3,0.333,2,7,0.286,0.35,4,5,0.8,4,1,5,1,0,0,0,4,11,7.0,A,0,1,jelani-williams-2,Jelani Williams,2023
+29,54,29,2023-02-25,Howard,@,North Carolina Central,REG (Conf),L 60-68,,32,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,1,1.0,3,1,4,5,3,0,4,4,10,8.6,A,0,1,jelani-williams-2,Jelani Williams,2023
+30,55,30,2023-02-27,Howard,@,South Carolina State,REG (Conf),W 82-78,,32,10,16,0.625,3,5,0.6,7,11,0.636,0.719,0,0,,2,5,7,2,3,0,2,3,23,19.9,A,1,1,jelani-williams-2,Jelani Williams,2023
+31,56,31,2023-03-02,Howard,,Norfolk State,REG (Conf),W 87-67,,20,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,4,4,5,2,0,1,2,4,4.1,H,1,1,jelani-williams-2,Jelani Williams,2023
+32,57,32,2023-03-08,Howard,N,South Carolina State,CTOURN,W 91-55,,17,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,5,5,2,0,0,4,0,2,0.2,N,1,0,jelani-williams-2,Jelani Williams,2023
+33,58,33,2023-03-10,Howard,N,Maryland Eastern Shore,CTOURN,W 74-55,,20,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,2,3,5,3,2,0,4,4,6,2.4,N,1,0,jelani-williams-2,Jelani Williams,2023
+34,59,34,2023-03-11,Howard,N,Norfolk State,CTOURN,W 65-64,,28,6,11,0.545,1,2,0.5,5,9,0.556,0.591,7,8,0.875,1,5,6,2,0,0,2,4,20,14.3,N,1,0,jelani-williams-2,Jelani Williams,2023
+35,60,35,2023-03-16,Howard,N,Kansas,ROUND-64,L 68-96,,16,2,9,0.222,0,2,0.0,2,7,0.286,0.222,0,0,,2,1,3,1,1,0,1,3,4,-0.3,N,0,0,jelani-williams-2,Jelani Williams,2023

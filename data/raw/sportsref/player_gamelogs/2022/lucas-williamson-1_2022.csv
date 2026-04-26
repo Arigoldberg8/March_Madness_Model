@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,118,1,2021-11-09,Loyola Chicago,,Coppin State,REG (Non-Conf),W 103-45,*,26,4,12,0.333,2,8,0.25,2,4,0.5,0.417,0,0,,0,5,5,7,2,0,0,1,10,11.2,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+2,119,2,2021-11-13,Loyola Chicago,,Florida Gulf Coast,REG (Non-Conf),W 89-77,*,34,3,10,0.3,2,7,0.286,1,3,0.333,0.4,2,3,0.667,1,7,8,4,2,1,2,4,10,8.5,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+3,120,3,2021-11-16,Loyola Chicago,,Chicago State,REG (Non-Conf),W 92-56,*,19,2,3,0.667,2,3,0.667,0,0,,1.0,1,2,0.5,0,3,3,5,2,1,0,1,7,12.0,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+4,121,4,2021-11-20,Loyola Chicago,,Illinois–Chicago,REG (Non-Conf),W 80-63,*,39,5,8,0.625,2,3,0.667,3,5,0.6,0.75,4,5,0.8,3,3,6,3,0,0,1,2,16,15.3,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+5,122,5,2021-11-24,Loyola Chicago,N,Michigan State,REG (Non-Conf),L 61-63,*,33,5,10,0.5,1,5,0.2,4,5,0.8,0.55,5,5,1.0,1,7,8,0,0,0,2,3,16,10.6,N,0,1,lucas-williamson-1,Lucas Williamson,2022
+6,123,6,2021-11-25,Loyola Chicago,N,Auburn,REG (Non-Conf),L 53-62,*,31,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,2,0.0,0,4,4,3,1,0,5,2,7,1.0,N,0,1,lucas-williamson-1,Lucas Williamson,2022
+7,124,7,2021-11-26,Loyola Chicago,N,Arizona State,REG (Non-Conf),W 77-59,*,14,2,7,0.286,2,5,0.4,0,2,0.0,0.429,3,4,0.75,1,2,3,0,0,0,2,4,9,2.2,N,1,1,lucas-williamson-1,Lucas Williamson,2022
+8,125,8,2021-12-01,Loyola Chicago,,Indiana State,REG (Conf),W 88-76,*,36,6,12,0.5,4,7,0.571,2,5,0.4,0.667,4,5,0.8,0,5,5,1,2,3,1,2,20,18.1,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+9,126,9,2021-12-04,Loyola Chicago,@,DePaul,REG (Non-Conf),W 68-64,*,34,5,10,0.5,2,6,0.333,3,4,0.75,0.6,3,4,0.75,2,3,5,2,3,0,2,1,15,13.9,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+10,127,10,2021-12-07,Loyola Chicago,,Roosevelt,REG (Non-Conf),W 88-49,*,17,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,2,1,3,4,0,0,0,1,7,8.8,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+11,128,11,2021-12-10,Loyola Chicago,@,Vanderbilt,REG (Non-Conf),W 69-58,*,32,4,10,0.4,3,9,0.333,1,1,1.0,0.55,0,0,,1,8,9,3,1,0,3,3,11,7.6,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+12,129,12,2022-01-06,Loyola Chicago,N,San Francisco,REG (Non-Conf),W 79-74,*,32,2,4,0.5,1,1,1.0,1,3,0.333,0.625,4,5,0.8,2,6,8,2,1,0,2,1,9,9.8,N,1,1,lucas-williamson-1,Lucas Williamson,2022
+13,130,13,2022-01-08,Loyola Chicago,,Bradley,REG (Conf),W 78-71 (OT),*,40,4,12,0.333,3,8,0.375,1,4,0.25,0.458,9,11,0.818,0,5,5,3,2,0,4,0,20,14.0,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+14,131,14,2022-01-11,Loyola Chicago,,Valparaiso,REG (Conf),W 81-74 (2OT),*,44,4,10,0.4,2,7,0.286,2,3,0.667,0.5,1,1,1.0,0,3,3,3,2,0,3,2,11,6.8,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+15,132,15,2022-01-15,Loyola Chicago,@,Indiana State,REG (Conf),W 64-56,*,31,5,8,0.625,4,5,0.8,1,3,0.333,0.875,3,7,0.429,0,1,1,1,2,0,3,2,17,11.0,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+16,133,16,2022-01-18,Loyola Chicago,@,Evansville,REG (Conf),W 77-48,*,29,5,8,0.625,5,8,0.625,0,0,,0.938,0,0,,0,3,3,2,0,0,1,2,15,11.9,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+17,134,17,2022-01-22,Loyola Chicago,,Missouri State,REG (Conf),L 69-79,*,22,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,2,0.5,3,5,8,2,1,0,2,4,11,9.7,H,0,1,lucas-williamson-1,Lucas Williamson,2022
+18,135,18,2022-01-25,Loyola Chicago,,Southern Illinois,REG (Conf),W 59-47,*,33,5,8,0.625,3,3,1.0,2,5,0.4,0.813,7,9,0.778,0,2,2,2,1,1,0,0,20,19.3,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+19,136,19,2022-01-27,Loyola Chicago,@,Southern Illinois,REG (Conf),W 44-39,*,34,2,12,0.167,1,6,0.167,1,6,0.167,0.208,0,0,,0,5,5,0,1,0,0,2,5,-0.9,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+20,137,20,2022-01-30,Loyola Chicago,@,Drake,REG (Conf),L 68-77,*,35,4,11,0.364,0,5,0.0,4,6,0.667,0.364,3,3,1.0,0,4,4,3,0,1,3,4,11,4.3,A,0,1,lucas-williamson-1,Lucas Williamson,2022
+21,138,21,2022-02-02,Loyola Chicago,,Illinois State,REG (Conf),W 78-64,*,34,10,15,0.667,6,9,0.667,4,6,0.667,0.867,1,2,0.5,0,1,1,3,2,1,3,1,27,21.8,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+22,139,22,2022-02-06,Loyola Chicago,@,Missouri State,REG (Conf),W 71-62,*,37,7,12,0.583,3,5,0.6,4,7,0.571,0.708,2,2,1.0,1,3,4,5,1,0,2,2,19,16.7,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+23,140,23,2022-02-09,Loyola Chicago,@,Bradley,REG (Conf),L 61-68,*,34,4,13,0.308,1,5,0.2,3,8,0.375,0.346,4,5,0.8,1,4,5,6,1,0,2,4,13,8.6,A,0,1,lucas-williamson-1,Lucas Williamson,2022
+24,141,24,2022-02-13,Loyola Chicago,,Northern Iowa,REG (Conf),W 85-58,*,34,7,13,0.538,4,8,0.5,3,5,0.6,0.692,0,0,,0,3,3,6,2,0,1,2,18,17.0,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+25,142,25,2022-02-16,Loyola Chicago,@,Valparaiso,REG (Conf),W 71-69,*,38,4,11,0.364,0,5,0.0,4,6,0.667,0.364,4,6,0.667,0,5,5,5,0,0,5,1,12,4.7,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+26,143,26,2022-02-19,Loyola Chicago,,Drake,REG (Conf),L 76-83,*,36,8,15,0.533,4,9,0.444,4,6,0.667,0.667,7,9,0.778,3,3,6,3,2,0,4,3,27,20.8,H,0,1,lucas-williamson-1,Lucas Williamson,2022
+27,144,27,2022-02-21,Loyola Chicago,@,Illinois State,REG (Conf),W 59-50,*,34,2,8,0.25,2,6,0.333,0,2,0.0,0.375,1,2,0.5,0,7,7,3,3,0,4,3,7,3.8,A,1,1,lucas-williamson-1,Lucas Williamson,2022
+28,145,28,2022-02-23,Loyola Chicago,,Evansville,REG (Conf),W 82-31,*,22,5,9,0.556,1,4,0.25,4,5,0.8,0.611,0,0,,0,4,4,2,1,1,1,0,11,10.0,H,1,1,lucas-williamson-1,Lucas Williamson,2022
+29,146,29,2022-02-26,Loyola Chicago,@,Northern Iowa,REG (Conf),L 96-102 (OT),*,37,7,19,0.368,4,11,0.364,3,8,0.375,0.474,11,12,0.917,2,5,7,2,0,0,3,4,29,17.8,A,0,1,lucas-williamson-1,Lucas Williamson,2022
+30,147,30,2022-03-04,Loyola Chicago,N,Bradley,CTOURN,W 66-50,*,32,4,10,0.4,2,6,0.333,2,4,0.5,0.5,3,4,0.75,0,4,4,3,3,0,2,2,13,10.7,N,1,0,lucas-williamson-1,Lucas Williamson,2022
+31,148,31,2022-03-05,Loyola Chicago,N,Northern Iowa,CTOURN,W 66-43,*,31,2,6,0.333,1,5,0.2,1,1,1.0,0.417,2,2,1.0,0,6,6,5,2,0,0,3,7,9.7,N,1,0,lucas-williamson-1,Lucas Williamson,2022
+32,149,32,2022-03-06,Loyola Chicago,N,Drake,CTOURN,W 64-58,*,37,6,12,0.5,1,3,0.333,5,9,0.556,0.542,5,7,0.714,2,8,10,2,1,0,0,0,18,17.4,N,1,0,lucas-williamson-1,Lucas Williamson,2022
+33,150,33,2022-03-18,Loyola Chicago,N,Ohio State,ROUND-64,L 41-54,*,34,1,10,0.1,1,5,0.2,0,5,0.0,0.15,1,6,0.167,1,4,5,6,3,0,3,2,4,0.7,N,0,0,lucas-williamson-1,Lucas Williamson,2022

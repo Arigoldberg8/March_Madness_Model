@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-12,Florida State,,Charleston Southern,REG (Non-Conf),W 88-67,,19,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,2,4,6,1,0,0,1,0,7,7.3,H,1,1,trent-forrest-1,Trent Forrest,2017
+2,2,2,2016-11-15,Florida State,,Iona,REG (Non-Conf),W 99-78,,21,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,4,0.0,2,1,3,2,2,1,3,3,10,6.4,H,1,1,trent-forrest-1,Trent Forrest,2017
+3,3,3,2016-11-18,Florida State,,Winthrop,REG (Non-Conf),W 100-86,,16,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,0,3,3,2,2,0,0,2,9,10.1,H,1,1,trent-forrest-1,Trent Forrest,2017
+4,4,4,2016-11-20,Florida State,,Detroit Mercy,REG (Non-Conf),W 100-71,,20,6,7,0.857,0,0,,6,7,0.857,0.857,0,2,0.0,1,2,3,5,4,0,0,1,12,17.1,H,1,1,trent-forrest-1,Trent Forrest,2017
+5,5,5,2016-11-24,Florida State,N,Temple,REG (Non-Conf),L 86-89,,18,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,0,1,1,0,0,1,4,2,4,-1.6,N,0,1,trent-forrest-1,Trent Forrest,2017
+6,6,6,2016-11-25,Florida State,N,Illinois,REG (Non-Conf),W 72-61,,26,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,2,3,5,2,4,1,1,1,7,11.3,N,1,1,trent-forrest-1,Trent Forrest,2017
+7,7,7,2016-11-28,Florida State,,Minnesota,REG (Non-Conf),W 75-67,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,5,6,0.833,1,2,3,2,0,0,0,3,5,4.0,H,1,1,trent-forrest-1,Trent Forrest,2017
+8,8,8,2016-12-04,Florida State,N,George Washington,REG (Non-Conf),W 67-48,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,0,2,5,2,0,0,1,2,6.8,N,1,1,trent-forrest-1,Trent Forrest,2017
+9,9,9,2016-12-06,Florida State,,Southern Mississippi,REG (Non-Conf),W 98-49,,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,2,7,9,1,2,0,0,1,4,6.7,H,1,1,trent-forrest-1,Trent Forrest,2017
+10,10,10,2016-12-08,Florida State,,Nicholls State,REG (Non-Conf),W 118-63,,18,6,7,0.857,1,1,1.0,5,6,0.833,0.929,0,0,,2,4,6,6,2,0,2,1,13,16.9,H,1,1,trent-forrest-1,Trent Forrest,2017
+11,11,11,2016-12-11,Florida State,,Florida,REG (Non-Conf),W 83-78,,21,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,0,1,1,1,0,0,2,1,8,4.3,H,1,1,trent-forrest-1,Trent Forrest,2017
+12,12,12,2016-12-17,Florida State,N,Manhattan,REG (Non-Conf),W 83-67,,22,4,5,0.8,0,0,,4,5,0.8,0.8,2,4,0.5,1,2,3,3,3,1,0,2,10,13.6,N,1,1,trent-forrest-1,Trent Forrest,2017
+13,13,13,2016-12-19,Florida State,,Samford,REG (Non-Conf),W 76-68,,19,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,2,1.0,0,4,4,1,1,0,3,2,8,5.5,H,1,1,trent-forrest-1,Trent Forrest,2017
+14,14,14,2016-12-28,Florida State,,Wake Forest,REG (Conf),W 88-72,,14,0,0,,0,0,,0,0,,,3,4,0.75,0,3,3,1,2,0,2,1,3,3.8,H,1,1,trent-forrest-1,Trent Forrest,2017
+15,15,15,2016-12-31,Florida State,@,Virginia,REG (Conf),W 60-58,,22,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,2,2,0,1,1,0,0.9,A,1,1,trent-forrest-1,Trent Forrest,2017
+16,16,16,2017-01-07,Florida State,,Virginia Tech,REG (Conf),W 93-78,,18,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,1,1,2,2,0,2,2,0,-1.9,H,1,1,trent-forrest-1,Trent Forrest,2017
+17,17,17,2017-01-10,Florida State,,Duke,REG (Conf),W 88-72,,10,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,0,0,1,0,0,1,1,3,1.6,H,1,1,trent-forrest-1,Trent Forrest,2017
+18,18,18,2017-01-14,Florida State,@,North Carolina,REG (Conf),L 83-96,,5,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,2,2,1,0,0,2,4,3,-0.4,A,0,1,trent-forrest-1,Trent Forrest,2017
+19,19,19,2017-01-18,Florida State,,Notre Dame,REG (Conf),W 83-80,,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,0,2,1,0,0,0,2,4,3.3,H,1,1,trent-forrest-1,Trent Forrest,2017
+20,20,20,2017-01-21,Florida State,,Louisville,REG (Conf),W 73-68,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,0,0,0,1,0,2,-1.1,H,1,1,trent-forrest-1,Trent Forrest,2017
+21,21,21,2017-01-25,Florida State,@,Georgia Tech,REG (Conf),L 56-78,,19,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,1,5,6,1,4,0,0,1,7,10.8,A,0,1,trent-forrest-1,Trent Forrest,2017
+22,22,22,2017-01-28,Florida State,@,Syracuse,REG (Conf),L 72-82,,9,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.8,A,0,1,trent-forrest-1,Trent Forrest,2017
+23,23,23,2017-02-01,Florida State,@,Miami (FL),REG (Conf),W 75-57,,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,0,1,0,0,1,2,1.6,A,1,1,trent-forrest-1,Trent Forrest,2017
+24,24,24,2017-02-05,Florida State,,Clemson,REG (Conf),W 109-61,,13,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,1,3,0,1,0,6,7.7,H,1,1,trent-forrest-1,Trent Forrest,2017
+25,25,25,2017-02-08,Florida State,,NC State,REG (Conf),W 95-71,,9,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,0,0,1,0,0,1,0,3,0.6,H,1,1,trent-forrest-1,Trent Forrest,2017
+26,26,26,2017-02-11,Florida State,@,Notre Dame,REG (Conf),L 72-84,,19,5,8,0.625,0,0,,5,8,0.625,0.625,2,6,0.333,2,2,4,1,2,0,0,0,12,11.5,A,0,1,trent-forrest-1,Trent Forrest,2017
+27,27,27,2017-02-18,Florida State,@,Pittsburgh,REG (Conf),L 66-80,,16,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,2,1,0,2,1,4,2.3,A,0,1,trent-forrest-1,Trent Forrest,2017
+28,28,28,2017-02-20,Florida State,,Boston College,REG (Conf),W 104-72,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,4,4,1,1,0,1,1,4,4.2,H,1,1,trent-forrest-1,Trent Forrest,2017
+29,29,29,2017-02-25,Florida State,@,Clemson,REG (Conf),W 76-74,,22,2,4,0.5,0,0,,2,4,0.5,0.5,5,7,0.714,1,4,5,2,1,1,0,2,9,10.4,A,1,1,trent-forrest-1,Trent Forrest,2017
+30,30,30,2017-02-28,Florida State,@,Duke,REG (Conf),L 70-75,,19,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,6,3,9,2,0,0,2,2,5,6.0,A,0,1,trent-forrest-1,Trent Forrest,2017
+31,31,31,2017-03-04,Florida State,,Miami (FL),REG (Conf),W 66-57,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,0,0,0,0,0,1.7,H,1,1,trent-forrest-1,Trent Forrest,2017
+32,32,32,2017-03-09,Florida State,N,Virginia Tech,CTOURN,W 74-68,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.8,N,1,0,trent-forrest-1,Trent Forrest,2017
+33,33,33,2017-03-10,Florida State,N,Notre Dame,CTOURN,L 73-77,,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,1,1,2,0,1,0,1,0,3,2.3,N,0,0,trent-forrest-1,Trent Forrest,2017
+34,34,34,2017-03-16,Florida State,N,Florida Gulf Coast,ROUND-64,W 86-80,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,2,0,2,1.1,N,1,0,trent-forrest-1,Trent Forrest,2017
+35,35,35,2017-03-18,Florida State,N,Xavier,ROUND-32,L 66-91,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,2,0,0,0,0,0,-0.7,N,0,0,trent-forrest-1,Trent Forrest,2017

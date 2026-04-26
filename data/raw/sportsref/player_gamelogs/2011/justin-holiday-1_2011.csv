@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2010-11-13,Washington,,McNeese State,REG (Non-Conf),W 118-64,*,23,4,12,0.333,1,4,0.25,3,8,0.375,0.375,2,2,1.0,6,6,12,3,2,0,0,3,11,13.1,H,1,1,justin-holiday-1,Justin Holiday,2011
+2,91,2,2010-11-16,Washington,,Eastern Washington,REG (Non-Conf),W 98-72,*,24,8,13,0.615,2,5,0.4,6,8,0.75,0.692,0,0,,2,2,4,0,1,0,1,2,18,13.3,H,1,1,justin-holiday-1,Justin Holiday,2011
+3,92,3,2010-11-22,Washington,N,Virginia,REG (Non-Conf),W 106-63,*,24,4,10,0.4,2,2,1.0,2,8,0.25,0.5,1,2,0.5,4,5,9,2,6,1,0,3,11,16.4,N,1,1,justin-holiday-1,Justin Holiday,2011
+4,93,4,2010-11-23,Washington,N,Kentucky,REG (Non-Conf),L 67-74,*,33,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,3,4,7,2,2,2,1,1,11,14.0,N,0,1,justin-holiday-1,Justin Holiday,2011
+5,94,5,2010-11-24,Washington,N,Michigan State,REG (Non-Conf),L 71-76,*,28,5,9,0.556,1,2,0.5,4,7,0.571,0.611,1,1,1.0,1,2,3,1,1,0,1,1,12,9.3,N,0,1,justin-holiday-1,Justin Holiday,2011
+6,95,6,2010-11-30,Washington,,Long Beach State,REG (Non-Conf),W 102-75,*,23,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,0,4,4,3,1,0,3,2,11,8.6,H,1,1,justin-holiday-1,Justin Holiday,2011
+7,96,7,2010-12-04,Washington,,Texas Tech,REG (Non-Conf),W 108-79,*,27,7,12,0.583,4,7,0.571,3,5,0.6,0.75,2,2,1.0,2,7,9,3,2,1,3,1,20,19.3,H,1,1,justin-holiday-1,Justin Holiday,2011
+8,97,8,2010-12-06,Washington,,Portland,REG (Non-Conf),W 94-72,*,33,5,7,0.714,3,4,0.75,2,3,0.667,0.929,7,8,0.875,3,3,6,1,1,0,2,2,20,18.6,H,1,1,justin-holiday-1,Justin Holiday,2011
+9,98,9,2010-12-11,Washington,@,Texas A&M,REG (Non-Conf),L 62-63,*,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,2,2,1,2,0,2,5,4,1.3,A,0,1,justin-holiday-1,Justin Holiday,2011
+10,99,10,2010-12-18,Washington,,San Francisco,REG (Non-Conf),W 80-52,*,26,3,9,0.333,1,5,0.2,2,4,0.5,0.389,1,2,0.5,2,1,3,2,3,1,0,1,8,8.9,H,1,1,justin-holiday-1,Justin Holiday,2011
+11,100,11,2010-12-22,Washington,,Nevada,REG (Non-Conf),W 90-60,*,28,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,2,7,9,2,3,1,0,1,12,17.3,H,1,1,justin-holiday-1,Justin Holiday,2011
+12,101,12,2010-12-29,Washington,@,Southern California,REG (Conf),W 73-67 (OT),*,29,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,2,4,6,1,0,2,2,4,12,9.8,A,1,1,justin-holiday-1,Justin Holiday,2011
+13,102,13,2010-12-31,Washington,@,UCLA,REG (Conf),W 74-63,*,35,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,2,6,8,3,1,1,1,2,9,10.2,A,1,1,justin-holiday-1,Justin Holiday,2011
+14,103,14,2011-01-06,Washington,,Oregon,REG (Conf),W 87-69,*,26,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,3,3,2,0,1,1,3,7,4.8,H,1,1,justin-holiday-1,Justin Holiday,2011
+15,104,15,2011-01-08,Washington,,Oregon State,REG (Conf),W 103-72,*,21,3,8,0.375,0,4,0.0,3,4,0.75,0.375,1,2,0.5,2,2,4,1,1,3,3,3,7,3.8,H,1,1,justin-holiday-1,Justin Holiday,2011
+16,105,16,2011-01-13,Washington,@,Stanford,REG (Conf),L 56-58,*,31,6,14,0.429,3,7,0.429,3,7,0.429,0.536,0,2,0.0,2,1,3,1,1,0,1,0,15,9.2,A,0,1,justin-holiday-1,Justin Holiday,2011
+17,106,17,2011-01-16,Washington,@,California,REG (Conf),W 92-71,*,30,9,14,0.643,5,8,0.625,4,6,0.667,0.821,0,0,,2,0,2,3,1,0,0,2,23,20.5,A,1,1,justin-holiday-1,Justin Holiday,2011
+18,107,18,2011-01-20,Washington,,Arizona,REG (Conf),W 85-68,*,35,8,11,0.727,2,5,0.4,6,6,1.0,0.818,4,5,0.8,0,2,2,3,2,1,1,2,22,20.7,H,1,1,justin-holiday-1,Justin Holiday,2011
+19,108,19,2011-01-22,Washington,,Arizona State,REG (Conf),W 88-75,*,28,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,2,0.5,2,3,5,3,1,1,1,3,5,4.4,H,1,1,justin-holiday-1,Justin Holiday,2011
+20,109,20,2011-01-30,Washington,@,Washington State,REG (Conf),L 80-87,*,27,4,12,0.333,2,7,0.286,2,5,0.4,0.417,6,7,0.857,5,7,12,2,1,0,4,3,16,11.6,A,0,1,justin-holiday-1,Justin Holiday,2011
+21,110,21,2011-02-03,Washington,@,Oregon State,REG (Conf),L 56-68,*,33,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,3,4,7,3,0,0,1,3,4,2.4,A,0,1,justin-holiday-1,Justin Holiday,2011
+22,111,22,2011-02-05,Washington,@,Oregon,REG (Conf),L 76-81,*,36,6,8,0.75,4,6,0.667,2,2,1.0,1.0,0,0,,1,4,5,5,0,3,3,2,16,16.5,A,0,1,justin-holiday-1,Justin Holiday,2011
+23,112,23,2011-02-10,Washington,,California,REG (Conf),W 109-77,*,21,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,1,3,4,4,0,2,1,3,12,10.6,H,1,1,justin-holiday-1,Justin Holiday,2011
+24,113,24,2011-02-12,Washington,,Stanford,REG (Conf),W 87-76,*,28,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,1,1,2,1,0,1,0,0,6,5.7,H,1,1,justin-holiday-1,Justin Holiday,2011
+25,114,25,2011-02-17,Washington,@,Arizona State,REG (Conf),W 79-62,*,22,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,1,1,2,1,0,1,0,3,9,6.5,A,1,1,justin-holiday-1,Justin Holiday,2011
+26,115,26,2011-02-19,Washington,@,Arizona,REG (Conf),L 86-87,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,1,1,2,0,1,1,1,1,11,8.3,A,0,1,justin-holiday-1,Justin Holiday,2011
+27,116,27,2011-02-22,Washington,@,Seattle,REG (Non-Conf),W 95-74,*,31,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,6,0.667,1,4,5,3,2,1,2,1,10,9.1,A,1,1,justin-holiday-1,Justin Holiday,2011
+28,117,28,2011-02-27,Washington,,Washington State,REG (Conf),L 69-80,*,34,4,11,0.364,3,7,0.429,1,4,0.25,0.5,0,0,,1,3,4,5,0,0,4,3,11,4.8,H,0,1,justin-holiday-1,Justin Holiday,2011
+29,118,29,2011-03-03,Washington,,UCLA,REG (Conf),W 70-63,*,35,1,8,0.125,1,2,0.5,0,6,0.0,0.188,2,2,1.0,2,4,6,5,0,1,3,0,5,3.6,H,1,1,justin-holiday-1,Justin Holiday,2011
+30,119,30,2011-03-05,Washington,,Southern California,REG (Conf),L 60-62,*,29,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,0,5,5,1,1,2,1,2,0,-1.4,H,0,1,justin-holiday-1,Justin Holiday,2011
+31,120,31,2011-03-10,Washington,N,Washington State,CTOURN,W 89-87,*,31,5,13,0.385,0,5,0.0,5,8,0.625,0.385,2,3,0.667,2,8,10,3,2,0,1,1,12,11.0,N,1,0,justin-holiday-1,Justin Holiday,2011
+32,121,32,2011-03-11,Washington,N,Oregon,CTOURN,W 69-51,*,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,1,1,1.0,3,3,6,1,1,1,4,2,7,5.3,N,1,0,justin-holiday-1,Justin Holiday,2011
+33,122,33,2011-03-12,Washington,N,Arizona,CTOURN,W 77-75 (OT),*,31,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,2,5,7,2,0,0,1,3,0,0.0,N,1,0,justin-holiday-1,Justin Holiday,2011
+34,123,34,2011-03-18,Washington,N,Georgia,ROUND-64,W 68-65,*,32,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,2,1,3,1,2,0,0,2,6,5.9,N,1,0,justin-holiday-1,Justin Holiday,2011
+35,124,35,2011-03-20,Washington,N,North Carolina,ROUND-32,L 83-86,*,23,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,0,1,1,0,0,3,1,4,-1.4,N,0,0,justin-holiday-1,Justin Holiday,2011

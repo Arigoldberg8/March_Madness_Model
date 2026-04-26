@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,15,1,2012-11-09,Florida Gulf Coast,@,VCU,REG (Non-Conf),L 57-80,*,24,2,3,0.667,0,0,2,3,0.667,0.667,1,3,0.333,0,5,5,2,1,2,2,2,5,5.4,A,0,1,eric-mcknight-1,Eric McKnight,2013
+2,16,2,2012-11-13,Florida Gulf Coast,,Miami (FL),REG (Non-Conf),W 63-51,*,21,5,7,0.714,0,0,5,7,0.714,0.714,4,5,0.8,4,4,8,0,0,1,4,4,14,9.8,H,1,1,eric-mcknight-1,Eric McKnight,2013
+3,17,3,2012-11-15,Florida Gulf Coast,,Ave Maria,REG (Non-Conf),W 86-54,*,18,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,2,4,6,0,0,4,0,1,6,7.3,H,1,1,eric-mcknight-1,Eric McKnight,2013
+4,18,4,2012-11-18,Florida Gulf Coast,@,Duke,REG (Non-Conf),L 67-88,*,14,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,2,2,4,0,1,1,1,5,4,1.3,A,0,1,eric-mcknight-1,Eric McKnight,2013
+5,19,5,2012-11-21,Florida Gulf Coast,,Alcorn State,REG (Non-Conf),W 50-48,*,31,2,9,0.222,0,0,2,9,0.222,0.222,2,4,0.5,5,3,8,0,2,2,1,5,6,4.5,H,1,1,eric-mcknight-1,Eric McKnight,2013
+6,20,6,2012-11-22,Florida Gulf Coast,,Toledo,REG (Non-Conf),W 72-66,*,28,6,8,0.75,0,0,6,8,0.75,0.75,3,4,0.75,3,4,7,1,0,3,1,2,15,15.7,H,1,1,eric-mcknight-1,Eric McKnight,2013
+7,21,7,2012-11-24,Florida Gulf Coast,@,St. John's (NY),REG (Non-Conf),L 68-79,*,25,3,7,0.429,0,0,3,7,0.429,0.429,2,2,1.0,1,1,2,0,0,1,0,1,8,5.6,A,0,1,eric-mcknight-1,Eric McKnight,2013
+8,22,8,2012-11-28,Florida Gulf Coast,@,Samford,REG (Non-Conf),W 86-62,*,20,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,1,2,0,0,0,2,2,7,3.2,A,1,1,eric-mcknight-1,Eric McKnight,2013
+9,23,9,2012-12-01,Florida Gulf Coast,,Loyola (MD),REG (Non-Conf),W 65-50,*,22,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,2,2,4,1,0,1,2,3,6,5.6,H,1,1,eric-mcknight-1,Eric McKnight,2013
+10,24,10,2012-12-04,Florida Gulf Coast,@,Iowa State,REG (Non-Conf),L 72-83,*,24,1,2,0.5,0,0,1,2,0.5,0.5,1,1,1.0,1,5,6,0,0,1,5,3,3,-1.3,A,0,1,eric-mcknight-1,Eric McKnight,2013
+11,25,11,2012-12-13,Florida Gulf Coast,,Florida International,REG (Non-Conf),W 76-73,,19,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,3,4,1,0,1,0,1,3,4.9,H,1,1,eric-mcknight-1,Eric McKnight,2013
+12,26,12,2012-12-18,Florida Gulf Coast,,Southeastern (FL),REG (Non-Conf),W 86-60,,12,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,0,4,4,0,0,1,0,3,9,6.0,H,1,1,eric-mcknight-1,Eric McKnight,2013
+13,27,13,2012-12-22,Florida Gulf Coast,@,Maine,REG (Non-Conf),L 78-84,*,23,6,10,0.6,0,0,6,10,0.6,0.6,0,2,0.0,2,5,7,1,1,0,0,1,12,10.8,A,0,1,eric-mcknight-1,Eric McKnight,2013
+14,28,14,2012-12-31,Florida Gulf Coast,@,Kennesaw State,REG (Conf),W 68-59,*,27,0,0,,0,0,0,0,,,1,2,0.5,0,6,6,1,0,1,2,4,1,0.2,A,1,1,eric-mcknight-1,Eric McKnight,2013
+15,29,15,2013-01-02,Florida Gulf Coast,@,Mercer,REG (Conf),L 70-77 (OT),*,21,0,0,,0,0,0,0,,,0,2,0.0,0,6,6,1,0,3,1,4,0,1.2,A,0,1,eric-mcknight-1,Eric McKnight,2013
+16,30,16,2013-01-05,Florida Gulf Coast,,Jacksonville,REG (Conf),W 78-55,*,20,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,2,5,7,1,0,0,0,2,8,8.4,H,1,1,eric-mcknight-1,Eric McKnight,2013
+17,31,17,2013-01-07,Florida Gulf Coast,,North Florida,REG (Conf),W 75-73,*,28,4,5,0.8,0,0,4,5,0.8,0.8,4,7,0.571,3,3,6,1,0,2,3,3,12,9.8,H,1,1,eric-mcknight-1,Eric McKnight,2013
+18,32,18,2013-01-10,Florida Gulf Coast,@,USC Upstate,REG (Conf),W 72-71 (OT),*,31,5,8,0.625,0,0,5,8,0.625,0.625,2,5,0.4,2,0,2,1,1,2,2,3,12,8.5,A,1,1,eric-mcknight-1,Eric McKnight,2013
+19,33,19,2013-01-12,Florida Gulf Coast,@,East Tennessee State,REG (Conf),L 75-85,*,23,5,6,0.833,0,0,5,6,0.833,0.833,1,2,0.5,3,0,3,0,0,0,6,2,11,3.7,A,0,1,eric-mcknight-1,Eric McKnight,2013
+20,34,20,2013-01-17,Florida Gulf Coast,,Lipscomb,REG (Conf),L 78-87 (OT),*,16,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,1,2,0,0,1,1,5,5,2.0,H,0,1,eric-mcknight-1,Eric McKnight,2013
+21,35,21,2013-01-19,Florida Gulf Coast,,Northern Kentucky,REG (Conf),W 73-54,*,15,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,1,3,0,1,1,3,5,6,3.5,H,1,1,eric-mcknight-1,Eric McKnight,2013
+22,36,22,2013-01-25,Florida Gulf Coast,,Stetson,REG (Conf),W 96-65,*,16,3,6,0.5,0,0,3,6,0.5,0.5,4,6,0.667,1,3,4,0,0,3,0,2,10,9.1,H,1,1,eric-mcknight-1,Eric McKnight,2013
+23,37,23,2013-01-31,Florida Gulf Coast,@,North Florida,REG (Conf),W 89-75,*,17,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,4,5,0,1,0,1,4,3,1.2,A,1,1,eric-mcknight-1,Eric McKnight,2013
+24,38,24,2013-02-02,Florida Gulf Coast,@,Jacksonville,REG (Conf),W 81-78,*,20,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,3,1,3,4,2.9,A,1,1,eric-mcknight-1,Eric McKnight,2013
+25,39,25,2013-02-07,Florida Gulf Coast,,East Tennessee State,REG (Conf),W 67-43,*,23,6,8,0.75,0,0,6,8,0.75,0.75,1,1,1.0,1,5,6,0,0,1,1,3,13,10.5,H,1,1,eric-mcknight-1,Eric McKnight,2013
+26,40,26,2013-02-09,Florida Gulf Coast,,USC Upstate,REG (Conf),W 74-49,*,19,2,2,1.0,0,0,2,2,1.0,1.0,3,5,0.6,1,5,6,0,0,1,0,4,7,6.9,H,1,1,eric-mcknight-1,Eric McKnight,2013
+27,41,27,2013-02-14,Florida Gulf Coast,@,Northern Kentucky,REG (Conf),W 60-53,*,20,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,6,6,0,0,0,2,1,4,2.1,A,1,1,eric-mcknight-1,Eric McKnight,2013
+28,42,28,2013-02-16,Florida Gulf Coast,@,Lipscomb,REG (Conf),L 74-84,*,12,2,5,0.4,0,0,2,5,0.4,0.4,1,4,0.25,1,2,3,0,0,0,1,5,5,-0.6,A,0,1,eric-mcknight-1,Eric McKnight,2013
+29,43,29,2013-02-22,Florida Gulf Coast,@,Stetson,REG (Conf),L 71-80,*,24,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,0,0,0,2,1,0,3,6,5.9,A,0,1,eric-mcknight-1,Eric McKnight,2013
+30,44,30,2013-02-28,Florida Gulf Coast,,Mercer,REG (Conf),W 60-57,*,22,2,3,0.667,0,0,2,3,0.667,0.667,3,6,0.5,3,2,5,0,2,1,3,1,7,6.5,H,1,1,eric-mcknight-1,Eric McKnight,2013
+31,45,31,2013-03-02,Florida Gulf Coast,,Kennesaw State,REG (Conf),W 67-49,,18,1,1,1.0,0,0,1,1,1.0,1.0,1,3,0.333,2,5,7,0,0,0,2,4,3,1.2,H,1,1,eric-mcknight-1,Eric McKnight,2013
+32,46,32,2013-03-06,Florida Gulf Coast,N,North Florida,CTOURN,W 73-63,*,14,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,6,8,0,0,1,1,4,0,0.6,N,1,0,eric-mcknight-1,Eric McKnight,2013
+33,47,33,2013-03-08,Florida Gulf Coast,N,Stetson,CTOURN,W 72-58,*,25,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,1,3,4,0,0,1,0,1,10,9.0,N,1,0,eric-mcknight-1,Eric McKnight,2013
+34,48,34,2013-03-09,Florida Gulf Coast,N,Mercer,CTOURN,W 88-75,*,16,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,0,1,1,0,0,2,0,4,4,2.0,N,1,0,eric-mcknight-1,Eric McKnight,2013
+35,49,35,2013-03-22,Florida Gulf Coast,N,Georgetown,ROUND-64,W 78-68,*,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,N,1,0,eric-mcknight-1,Eric McKnight,2013
+36,50,36,2013-03-24,Florida Gulf Coast,N,San Diego State,ROUND-32,W 81-71,*,26,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,3,1,4,0,2,4,2,2,9,9.7,N,1,0,eric-mcknight-1,Eric McKnight,2013
+37,51,37,2013-03-29,Florida Gulf Coast,N,Florida,ROUND-16,L 50-62,*,22,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,1,0,1,0,0,1,1,1,2,-0.5,N,0,0,eric-mcknight-1,Eric McKnight,2013

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-15,Louisiana State,,Gardner-Webb,REG (Non-Conf),W 93-82,,14,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,3,2,5,0,0,0,1,1,5,2.9,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+2,2,2,2014-11-18,Louisiana State,,Texas Tech,REG (Non-Conf),W 69-64 (OT),,15,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,1,2,1,2,0,0,1,0,0.5,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+3,3,3,2014-11-21,Louisiana State,N,Old Dominion,REG (Non-Conf),L 61-70,,8,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,2,0,0,-1.4,N,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+4,4,4,2014-11-22,Louisiana State,N,Weber State,REG (Non-Conf),W 72-58,,10,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,1,0,0,3,0,1.2,N,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+5,5,5,2014-11-24,Louisiana State,N,Clemson,REG (Non-Conf),L 61-64,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,0,0,-0.4,N,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+6,6,6,2014-11-29,Louisiana State,,McNeese State,REG (Non-Conf),W 83-72,,14,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,0,1,2,0,6,2.7,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+7,7,7,2014-12-02,Louisiana State,,Massachusetts,REG (Non-Conf),W 82-60,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+8,8,8,2014-12-04,Louisiana State,@,West Virginia,REG (Non-Conf),W 74-73,,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,3,3,3,0,0,0,2,5,3.8,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+9,9,9,2014-12-13,Louisiana State,,Sam Houston State,REG (Non-Conf),W 76-67,,24,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,5,5,3,1,0,1,1,4,6.2,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+10,10,10,2014-12-18,Louisiana State,@,UAB,REG (Non-Conf),W 79-70,,33,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,2,2,3,3,0,0,0,11,12.7,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+11,11,11,2014-12-22,Louisiana State,,College of Charleston,REG (Non-Conf),W 71-47,,27,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,4,3,0,3,1,5,4.7,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+12,12,12,2014-12-29,Louisiana State,,Southern Mississippi,REG (Non-Conf),W 87-67,,22,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,1,3,4,2,2,0,1,0,10,11.4,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+13,13,13,2015-01-03,Louisiana State,,Savannah State,REG (Non-Conf),W 75-59,,25,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,4,2,0,0,1,2,5.3,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+14,14,14,2015-01-08,Louisiana State,@,Missouri,REG (Conf),L 67-74 (OT),,25,5,9,0.556,1,5,0.2,4,4,1.0,0.611,0,0,,0,0,0,1,1,0,0,0,11,8.4,A,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+15,15,15,2015-01-10,Louisiana State,,Georgia,REG (Conf),W 87-84 (2OT),,27,4,8,0.5,3,6,0.5,1,2,0.5,0.688,4,7,0.571,1,1,2,3,2,1,0,0,15,15.6,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+16,16,16,2015-01-14,Louisiana State,@,Ole Miss,REG (Conf),W 75-71,,14,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-2.1,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+17,17,17,2015-01-17,Louisiana State,,Texas A&M,REG (Conf),L 64-67,,25,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,0,,0,1,1,1,2,0,0,0,13,12.4,H,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+18,18,18,2015-01-20,Louisiana State,@,Florida,REG (Conf),W 79-61,,28,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,4,4,2,1,0,1,0,6,6.6,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+19,19,19,2015-01-24,Louisiana State,@,Vanderbilt,REG (Conf),W 79-75 (OT),,33,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,1,3,4,3,1,0,0,1,10,9.9,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+20,20,22,2015-02-05,Louisiana State,,Auburn,REG (Conf),L 77-81,,16,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,0,1,2,0,0,0,3,5,2.5,H,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+21,21,23,2015-02-07,Louisiana State,,Alabama,REG (Conf),W 71-60,*,35,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,7,7,4,2,0,3,0,6,6.5,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+22,22,24,2015-02-10,Louisiana State,,Kentucky,REG (Conf),L 69-71,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,3,3,1,3,0,0,1,6,6.5,H,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+23,23,25,2015-02-14,Louisiana State,@,Tennessee,REG (Conf),W 73-55,*,35,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,1,4,5,4,0,0,2,2,8,6.9,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+24,24,26,2015-02-17,Louisiana State,@,Texas A&M,REG (Conf),L 62-68,*,29,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,1,1,0,0,1,10,7.2,A,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+25,25,27,2015-02-21,Louisiana State,,Florida,REG (Conf),W 70-63,*,34,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,1,3,4,3,3,0,3,1,6,5.2,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+26,26,28,2015-02-24,Louisiana State,@,Auburn,REG (Conf),W 84-61,*,31,6,12,0.5,4,9,0.444,2,3,0.667,0.667,0,0,,0,3,3,7,1,0,1,3,16,14.6,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+27,27,29,2015-02-28,Louisiana State,,Ole Miss,REG (Conf),W 73-63,*,35,4,11,0.364,1,7,0.143,3,4,0.75,0.409,0,0,,0,4,4,5,1,0,1,2,9,6.8,H,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+28,28,30,2015-03-04,Louisiana State,,Tennessee,REG (Conf),L 63-78,*,33,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,3,3,3,1,0,2,0,0,-1.5,H,0,1,jalyn-patterson-1,Jalyn Patterson,2015
+29,29,31,2015-03-07,Louisiana State,@,Arkansas,REG (Conf),W 81-78,*,32,7,11,0.636,6,8,0.75,1,3,0.333,0.909,0,0,,3,3,6,1,2,0,1,1,20,19.4,A,1,1,jalyn-patterson-1,Jalyn Patterson,2015
+30,30,32,2015-03-13,Louisiana State,N,Auburn,CTOURN,L 70-73 (OT),*,42,3,10,0.3,3,8,0.375,0,2,0.0,0.45,4,4,1.0,0,1,1,3,2,1,1,1,13,10.9,N,0,0,jalyn-patterson-1,Jalyn Patterson,2015
+31,31,33,2015-03-19,Louisiana State,N,NC State,ROUND-64,L 65-66,*,32,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,0,0,1,0,0,1,1,8,3.6,N,0,0,jalyn-patterson-1,Jalyn Patterson,2015

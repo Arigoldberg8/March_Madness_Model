@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Utah State,,Westminster (UT),REG (Non-Conf),W 110-54,,21,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,3,3,8,2,0,3,3,10,12.4,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+2,2,2,2025-11-07,Utah State,N,VCU,REG (Non-Conf),W 80-77,,20,2,6,0.333,0,0,,2,6,0.333,0.333,2,4,0.5,0,1,1,3,1,0,3,2,6,1.4,N,1,1,elijah-perryman-1,Elijah Perryman,2026
+3,3,3,2025-11-12,Utah State,,Weber State,REG (Non-Conf),W 83-73,,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,3,3,3,3,0,1,2,6,8.9,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+4,4,4,2025-11-15,Utah State,,UTEP,REG (Non-Conf),W 75-51,*,30,3,8,0.375,1,5,0.2,2,3,0.667,0.438,4,5,0.8,0,2,2,5,1,2,5,3,11,6.5,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+5,5,5,2025-11-21,Utah State,N,Tulane,REG (Non-Conf),W 96-75,,14,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,3,3,3,1,0,1,0,1,2.9,N,1,1,elijah-perryman-1,Elijah Perryman,2026
+6,6,6,2025-11-23,Utah State,N,Davidson,REG (Non-Conf),W 94-60,,10,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,1,0,0,2,5,4.9,N,1,1,elijah-perryman-1,Elijah Perryman,2026
+7,7,7,2025-11-29,Utah State,,Montana State,REG (Non-Conf),W 84-81 (OT),,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,0,0,1,1,0,2,0,4,1.0,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+8,8,8,2025-12-04,Utah State,@,South Florida,REG (Non-Conf),L 61-74,,17,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,4,4,5,0,0,3,0,3,3.7,A,0,1,elijah-perryman-1,Elijah Perryman,2026
+9,9,9,2025-12-07,Utah State,@,Charlotte,REG (Non-Conf),W 79-53,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,4,0,1,2,2,2,1.0,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+10,10,10,2025-12-13,Utah State,N,Illinois State,REG (Non-Conf),W 83-78,,10,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,0,0,3,0,1,0,1,2,1.3,N,1,1,elijah-perryman-1,Elijah Perryman,2026
+11,11,11,2025-12-20,Utah State,,Colorado State,REG (Conf),W 100-58,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,0,1,1,5,1,0,1,3,5,5.2,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+12,12,12,2025-12-30,Utah State,@,Fresno State,REG (Conf),W 72-63,,17,2,6,0.333,1,3,0.333,1,3,0.333,0.417,4,4,1.0,0,0,0,3,2,0,3,1,9,6.3,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+13,13,13,2026-01-03,Utah State,,San Jose State,REG (Conf),W 96-78,,22,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,4,1.0,0,2,2,10,0,1,1,2,13,16.9,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+14,14,14,2026-01-06,Utah State,@,Air Force,REG (Conf),W 99-62,,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,2,3,5,0,1,2,1,4,3.7,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+15,15,15,2026-01-10,Utah State,@,Boise State,REG (Conf),W 93-68,,15,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,1,1,3,0,2,3,3,6,2.2,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+16,16,16,2026-01-14,Utah State,,Nevada,REG (Conf),W 71-62,,12,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,2,2,1,0,0,1,1,4,1.9,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+17,17,17,2026-01-17,Utah State,@,Grand Canyon,REG (Conf),L 74-84,,8,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,1,1,0,0,1,2,0.9,A,0,1,elijah-perryman-1,Elijah Perryman,2026
+18,18,18,2026-01-20,Utah State,,UNLV,REG (Conf),L 76-86,,8,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,H,0,1,elijah-perryman-1,Elijah Perryman,2026
+19,19,19,2026-01-23,Utah State,@,Colorado State,REG (Conf),W 65-61,,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,3,3,4,3,0,3,1,5,7.0,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+20,20,20,2026-01-28,Utah State,,Wyoming,REG (Conf),W 94-62,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,4,4,4,0,0,1,1,0,1.2,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+21,21,21,2026-01-31,Utah State,,San Diego State,REG (Conf),W 71-66,,13,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,1,2,3,2,0,0,1,1,6,3.6,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+22,22,22,2026-02-04,Utah State,@,New Mexico,REG (Conf),W 86-66,,9,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,1,0,0,0,4,5,3.4,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+23,23,23,2026-02-07,Utah State,@,Wyoming,REG (Conf),W 85-83,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,1,0,0,0.3,A,1,1,elijah-perryman-1,Elijah Perryman,2026
+24,24,24,2026-02-10,Utah State,,Fresno State,REG (Conf),W 91-78,,19,5,6,0.833,4,5,0.8,1,1,1.0,1.167,2,2,1.0,0,3,3,7,0,0,1,3,16,17.4,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+25,25,25,2026-02-14,Utah State,,Memphis,REG (Non-Conf),W 99-75,,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,0,1,1,9,4,0,1,1,10,16.5,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+26,26,26,2026-02-18,Utah State,,Boise State,REG (Conf),W 75-56,,12,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,3,3,3,0,0,1,0,2,2.3,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+27,27,27,2026-02-21,Utah State,@,Nevada,REG (Conf),L 77-80,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,1,1,3,0,0,1,1,5,4.3,A,0,1,elijah-perryman-1,Elijah Perryman,2026
+28,28,28,2026-02-25,Utah State,@,San Diego State,REG (Conf),L 72-89,,9,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,1,1,0,1,2,4,2.9,A,0,1,elijah-perryman-1,Elijah Perryman,2026
+29,29,29,2026-02-28,Utah State,,Grand Canyon,REG (Conf),W 74-69,,12,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,1,1,2,0,0,0,2,7,5.6,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+30,30,30,2026-03-03,Utah State,@,UNLV,REG (Conf),L 65-92,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,1,0,-2.5,A,0,1,elijah-perryman-1,Elijah Perryman,2026
+31,31,31,2026-03-07,Utah State,,New Mexico,REG (Conf),W 94-90,,3,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,1,0,2,0,2,0.0,H,1,1,elijah-perryman-1,Elijah Perryman,2026
+32,32,32,2026-03-12,Utah State,N,UNLV,CTOURN,W 80-60,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,3,0,0,2,0,0,-2.0,N,1,0,elijah-perryman-1,Elijah Perryman,2026
+33,33,33,2026-03-13,Utah State,N,Nevada,CTOURN,W 79-66,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,1,1,1,0,-1.4,N,1,0,elijah-perryman-1,Elijah Perryman,2026
+34,34,34,2026-03-14,Utah State,N,San Diego State,CTOURN,W 73-62,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,3,2,0,0,2,0,3.5,N,1,0,elijah-perryman-1,Elijah Perryman,2026

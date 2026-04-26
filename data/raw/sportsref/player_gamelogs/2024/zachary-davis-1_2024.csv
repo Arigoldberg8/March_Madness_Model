@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2023-11-06,South Carolina,,USC Upstate,REG (Non-Conf),W 82-53,,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,2,6,8,0,3,0,0,0,4,7.5,H,1,1,zachary-davis-1,Zachary Davis,2024
+2,32,2,2023-11-10,South Carolina,N,Virginia Tech,REG (Non-Conf),W 79-77,,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,1,0,1,0,0.6,N,1,1,zachary-davis-1,Zachary Davis,2024
+3,33,4,2023-11-17,South Carolina,N,DePaul,REG (Non-Conf),W 73-68,,19,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,4,0.5,1,2,3,0,1,0,2,1,10,6.1,N,1,1,zachary-davis-1,Zachary Davis,2024
+4,34,5,2023-11-19,South Carolina,N,Grand Canyon,REG (Non-Conf),W 75-68,,12,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,1,0,0,0,3,5,2.5,N,1,1,zachary-davis-1,Zachary Davis,2024
+5,35,6,2023-11-28,South Carolina,,Notre Dame,REG (Non-Conf),W 65-53,,29,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,4,4,2,1,1,0,2,0,2.8,H,1,1,zachary-davis-1,Zachary Davis,2024
+6,36,7,2023-12-01,South Carolina,,George Washington,REG (Non-Conf),W 89-67,,23,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,2,0.0,1,2,3,2,2,0,0,1,5,5.8,H,1,1,zachary-davis-1,Zachary Davis,2024
+7,37,8,2023-12-06,South Carolina,@,Clemson,REG (Non-Conf),L 67-72,,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,5,5,1,0,0,0,1,5,4.8,A,0,1,zachary-davis-1,Zachary Davis,2024
+8,38,9,2023-12-09,South Carolina,@,East Carolina,REG (Non-Conf),W 68-62,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,5,5,0,1,0,1,2,9,7.4,A,1,1,zachary-davis-1,Zachary Davis,2024
+9,39,10,2023-12-16,South Carolina,,Charleston Southern,REG (Non-Conf),W 73-69,,19,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,3,3,0,0,0,1,1,5,2.5,H,1,1,zachary-davis-1,Zachary Davis,2024
+10,40,11,2023-12-19,South Carolina,,Winthrop,REG (Non-Conf),W 72-62,,11,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,2,3,5,0,2,1,1,0,0,1.2,H,1,1,zachary-davis-1,Zachary Davis,2024
+11,41,12,2023-12-22,South Carolina,,Elon,REG (Non-Conf),W 70-43,,19,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,2,3,1,1,1,2,1,3,2.6,H,1,1,zachary-davis-1,Zachary Davis,2024
+12,42,13,2023-12-30,South Carolina,,Florida A&M,REG (Non-Conf),W 94-62,,17,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,0,6,6,1,0,0,0,0,9,8.5,H,1,1,zachary-davis-1,Zachary Davis,2024
+13,43,14,2024-01-06,South Carolina,,Mississippi State,REG (Conf),W 68-62,,25,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,3,1,4,1,0,0,2,2,9,7.7,H,1,1,zachary-davis-1,Zachary Davis,2024
+14,44,15,2024-01-09,South Carolina,@,Alabama,REG (Conf),L 47-74,,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,0,0,0,0,0,4,2.6,A,0,1,zachary-davis-1,Zachary Davis,2024
+15,45,16,2024-01-13,South Carolina,@,Missouri,REG (Conf),W 71-69 (OT),,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,3,4,7,0,0,0,1,2,2,1.1,A,1,1,zachary-davis-1,Zachary Davis,2024
+16,46,17,2024-01-16,South Carolina,,Georgia,REG (Conf),L 69-74,,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,1,2,0.5,1,2,3,3,0,0,0,3,1,-0.7,H,0,1,zachary-davis-1,Zachary Davis,2024
+17,47,18,2024-01-20,South Carolina,@,Arkansas,REG (Conf),W 77-64,*,26,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,3,4,0,0,0,1,4,12,7.4,A,1,1,zachary-davis-1,Zachary Davis,2024
+18,48,19,2024-01-23,South Carolina,,Kentucky,REG (Conf),W 79-62,*,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,3,2,0,3,1,5,5.0,H,1,1,zachary-davis-1,Zachary Davis,2024
+19,49,20,2024-01-27,South Carolina,,Missouri,REG (Conf),W 72-64,*,26,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,0,0,2,0,0,1,3,6,1.8,H,1,1,zachary-davis-1,Zachary Davis,2024
+20,50,21,2024-01-30,South Carolina,@,Tennessee,REG (Conf),W 63-59,*,19,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,0,0,3,2,0,-4.9,A,1,1,zachary-davis-1,Zachary Davis,2024
+21,51,22,2024-02-03,South Carolina,@,Georgia,REG (Conf),W 72-62,*,32,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,6,6,3,1,0,0,3,6,7.4,A,1,1,zachary-davis-1,Zachary Davis,2024
+22,52,23,2024-02-06,South Carolina,,Ole Miss,REG (Conf),W 68-65,*,20,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,2,2,1,1,0,0,0,5,5.3,H,1,1,zachary-davis-1,Zachary Davis,2024
+23,53,24,2024-02-10,South Carolina,,Vanderbilt,REG (Conf),W 75-60,*,22,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,0,2,3,2.5,H,1,1,zachary-davis-1,Zachary Davis,2024
+24,54,25,2024-02-14,South Carolina,@,Auburn,REG (Conf),L 61-101,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,2,3,1,1,0,1,1,1,0.8,A,0,1,zachary-davis-1,Zachary Davis,2024
+25,55,26,2024-02-17,South Carolina,,Louisiana State,REG (Conf),L 63-64,*,19,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,2,2,2,0,1,2,2,7,6.0,H,0,1,zachary-davis-1,Zachary Davis,2024
+26,56,27,2024-02-24,South Carolina,@,Ole Miss,REG (Conf),W 72-59,*,31,4,9,0.444,0,2,0.0,4,7,0.571,0.444,6,8,0.75,5,4,9,1,0,0,2,4,14,10.3,A,1,1,zachary-davis-1,Zachary Davis,2024
+27,57,28,2024-02-28,South Carolina,@,Texas A&M,REG (Conf),W 70-68,*,34,8,14,0.571,0,3,0.0,8,11,0.727,0.571,0,2,0.0,2,1,3,2,0,0,0,2,16,10.9,A,1,1,zachary-davis-1,Zachary Davis,2024
+28,58,29,2024-03-02,South Carolina,,Florida,REG (Conf),W 82-76,*,31,1,4,0.25,0,2,0.0,1,2,0.5,0.25,6,6,1.0,1,2,3,2,2,1,0,2,8,10.2,H,1,1,zachary-davis-1,Zachary Davis,2024
+29,59,30,2024-03-06,South Carolina,,Tennessee,REG (Conf),L 59-66,*,18,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,0,0,0,1,2,3,-1.6,H,0,1,zachary-davis-1,Zachary Davis,2024
+30,60,31,2024-03-09,South Carolina,@,Mississippi State,REG (Conf),W 93-89 (OT),*,30,4,5,0.8,1,1,1.0,3,4,0.75,0.9,4,6,0.667,1,3,4,2,0,0,1,2,13,11.5,A,1,1,zachary-davis-1,Zachary Davis,2024
+31,61,32,2024-03-14,South Carolina,N,Arkansas,CTOURN,W 80-66,*,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,3,0.0,1,1,2,4,2,0,2,3,8,6.1,N,1,0,zachary-davis-1,Zachary Davis,2024
+32,62,33,2024-03-15,South Carolina,N,Auburn,CTOURN,L 55-86,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,6,8,0.75,2,6,8,4,0,0,3,3,10,6.9,N,0,0,zachary-davis-1,Zachary Davis,2024
+33,63,34,2024-03-21,South Carolina,N,Oregon,ROUND-64,L 73-87,*,25,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,1,2,3,1,1,1,2,4,6,2.0,N,0,0,zachary-davis-1,Zachary Davis,2024

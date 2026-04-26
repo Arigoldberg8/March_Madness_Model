@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,134,1,2021-11-09,Kansas,N,Michigan State,REG (Non-Conf),W 87-74,,10,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,3,0.667,0,0,0,1,0,0,1,1,5,0.8,N,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+2,135,2,2021-11-12,Kansas,,Tarleton State,REG (Non-Conf),W 88-62,,12,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,0,0,0,1,0,1,0,10,8.8,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+3,136,3,2021-11-18,Kansas,,Stony Brook,REG (Non-Conf),W 88-59,,15,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,0,0,2,1,0,0,1,7,7.4,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+4,137,4,2021-11-25,Kansas,N,North Texas,REG (Non-Conf),W 71-59,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,N,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+5,138,5,2021-11-26,Kansas,N,Dayton,REG (Non-Conf),L 73-74,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.8,N,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+6,139,6,2021-11-28,Kansas,N,Iona,REG (Non-Conf),W 96-83,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,N,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+7,140,7,2021-12-03,Kansas,@,St. John's (NY),REG (Non-Conf),W 95-75,,5,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,0,0,0,0,0,0,1,3,-0.5,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+8,141,8,2021-12-07,Kansas,,UTEP,REG (Non-Conf),W 78-52,,10,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,2,0.5,0,0,0,0,1,0,1,0,6,3.6,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+9,142,9,2021-12-11,Kansas,,Missouri,REG (Non-Conf),W 102-65,,12,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,1,1,2,2,2,0,0,1,8,11.1,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+10,143,10,2021-12-18,Kansas,,Stephen F. Austin,REG (Non-Conf),W 80-72,,4,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,1,0,2,0.3,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+11,144,11,2021-12-29,Kansas,,Nevada,REG (Non-Conf),W 88-61,,6,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,0,0,0,1,0,2,-1.4,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+12,145,12,2022-01-01,Kansas,,George Mason,REG (Non-Conf),W 76-67,,25,7,9,0.778,5,7,0.714,2,2,1.0,1.056,1,2,0.5,0,2,2,3,0,2,1,5,20,17.2,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+13,146,13,2022-01-04,Kansas,@,Oklahoma State,REG (Conf),W 74-63,,14,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,1,1,6,2.9,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+14,147,14,2022-01-08,Kansas,@,Texas Tech,REG (Conf),L 67-75,,20,1,6,0.167,1,6,0.167,0,0,,0.25,2,2,1.0,0,0,0,1,0,0,1,4,5,-0.7,A,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+15,148,15,2022-01-11,Kansas,,Iowa State,REG (Conf),W 62-61,,14,0,2,0.0,0,2,0.0,0,0,,0.0,3,3,1.0,1,2,3,0,1,1,0,2,3,3.8,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+16,149,16,2022-01-15,Kansas,,West Virginia,REG (Conf),W 85-59,,9,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,1,1.0,0,1,1,0,0,0,1,2,6,2.5,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+17,150,17,2022-01-18,Kansas,@,Oklahoma,REG (Conf),W 67-64,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,3,1,2,-1.4,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+18,151,18,2022-01-22,Kansas,@,Kansas State,REG (Conf),W 78-75,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+19,152,19,2022-01-24,Kansas,,Texas Tech,REG (Conf),W 94-91 (2OT),,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+20,153,20,2022-01-29,Kansas,,Kentucky,REG (Non-Conf),L 62-80,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,H,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+21,154,21,2022-02-01,Kansas,@,Iowa State,REG (Conf),W 70-61,*,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,2,2,0,0,0,1,1,6,2.5,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+22,155,22,2022-02-05,Kansas,,Baylor,REG (Conf),W 83-59,,11,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,1,1,2,1,0,0,1,1,8,6.4,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+23,156,23,2022-02-07,Kansas,@,Texas,REG (Conf),L 76-79,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+24,157,24,2022-02-12,Kansas,,Oklahoma,REG (Conf),W 71-69,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+25,158,26,2022-02-19,Kansas,@,West Virginia,REG (Conf),W 71-58,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,0,0,1,0,1,2,1.6,A,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+26,159,27,2022-02-22,Kansas,,Kansas State,REG (Conf),W 102-83,,13,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,0,0,0,1,0,0,1,1,9,6.0,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+27,160,28,2022-02-26,Kansas,@,Baylor,REG (Conf),L 70-80,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,A,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+28,161,29,2022-03-01,Kansas,@,TCU,REG (Conf),L 64-74,,7,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,0,1,6,4.2,A,0,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+29,162,30,2022-03-03,Kansas,,TCU,REG (Conf),W 72-68,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,0,2,0,0,0,0,0,0,0.7,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+30,163,31,2022-03-05,Kansas,,Texas,REG (Conf),W 70-63 (OT),,7,1,2,0.5,1,2,0.5,0,0,,0.75,0,1,0.0,1,1,2,0,0,0,0,0,3,2.6,H,1,1,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+31,164,32,2022-03-10,Kansas,N,West Virginia,CTOURN,W 87-63,,10,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,1,0,1,0,1,0,1,0,7,5.4,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+32,165,33,2022-03-11,Kansas,N,TCU,CTOURN,W 75-62,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+33,166,34,2022-03-12,Kansas,N,Texas Tech,CTOURN,W 74-65,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+34,167,35,2022-03-17,Kansas,N,Texas Southern,ROUND-64,W 83-56,,7,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,2,0,2,0,0,0,2,2,6,2.6,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+35,168,36,2022-03-19,Kansas,N,Creighton,ROUND-32,W 79-72,,9,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,0,0,0,0,3,5,3.9,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+36,169,37,2022-03-25,Kansas,N,Providence,ROUND-16,W 66-61,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+37,170,38,2022-03-27,Kansas,N,Miami (FL),ROUND-8,W 76-50,,7,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,0,0,0,0,0,3,-0.1,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+38,171,39,2022-04-02,Kansas,N,Villanova,NATIONAL-SEMI,W 81-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022
+39,172,40,2022-04-04,Kansas,N,North Carolina,NATIONAL-FINAL,W 72-69,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,0,jalen-coleman-lands-1,Jalen Coleman-Lands,2022

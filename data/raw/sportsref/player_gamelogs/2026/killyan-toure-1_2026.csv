@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Iowa State,,FDU,REG (Non-Conf),W 88-50,*,28,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,1,1,2,2,1,0,1,3,9,6.9,H,1,1,killyan-toure-1,Killyan Toure,2026
+2,2,2,2025-11-06,Iowa State,,Grambling State,REG (Non-Conf),W 102-62,*,24,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,1,2,3,2,3,0,4,2,11,8.6,H,1,1,killyan-toure-1,Killyan Toure,2026
+3,3,3,2025-11-10,Iowa State,N,Mississippi State,REG (Non-Conf),W 96-80,*,23,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,1,1,2,1,1,1,0,2,6,4.2,N,1,1,killyan-toure-1,Killyan Toure,2026
+4,4,4,2025-11-17,Iowa State,,Stonehill,REG (Non-Conf),W 96-57,*,22,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,0,1,1,2,4,0,4,2,11,9.0,H,1,1,killyan-toure-1,Killyan Toure,2026
+5,5,5,2025-11-24,Iowa State,N,St. John's (NY),REG (Non-Conf),W 83-82,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,4,0.5,1,3,4,1,1,0,1,4,6,3.9,N,1,1,killyan-toure-1,Killyan Toure,2026
+6,6,6,2025-11-25,Iowa State,N,Creighton,REG (Non-Conf),W 78-60,*,31,8,14,0.571,1,3,0.333,7,11,0.636,0.607,3,4,0.75,2,2,4,1,1,1,2,1,20,15.0,N,1,1,killyan-toure-1,Killyan Toure,2026
+7,7,7,2025-11-26,Iowa State,N,Syracuse,REG (Non-Conf),W 95-64,*,31,7,9,0.778,2,3,0.667,5,6,0.833,0.889,3,3,1.0,1,1,2,6,3,0,3,2,19,19.9,N,1,1,killyan-toure-1,Killyan Toure,2026
+8,8,8,2025-12-03,Iowa State,,Alcorn State,REG (Non-Conf),W 132-68,*,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,7,8,0.875,1,2,3,6,4,0,2,2,13,16.3,H,1,1,killyan-toure-1,Killyan Toure,2026
+9,9,9,2025-12-06,Iowa State,@,Purdue,REG (Non-Conf),W 81-58,*,28,5,9,0.556,3,5,0.6,2,4,0.5,0.722,0,0,,0,5,5,1,2,0,1,4,13,10.3,A,1,1,killyan-toure-1,Killyan Toure,2026
+10,10,10,2025-12-11,Iowa State,,Iowa,REG (Non-Conf),W 66-62,*,30,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,6,0.5,2,3,5,2,2,0,1,2,7,6.3,H,1,1,killyan-toure-1,Killyan Toure,2026
+11,11,11,2025-12-14,Iowa State,,Eastern Illinois,REG (Non-Conf),W 78-53,*,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,1,3,4,2,1,0,4,3,10,5.5,H,1,1,killyan-toure-1,Killyan Toure,2026
+12,12,12,2025-12-21,Iowa State,,Long Beach State,REG (Non-Conf),W 91-60,*,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,1,2,3,6,0,0,2,1,7,5.3,H,1,1,killyan-toure-1,Killyan Toure,2026
+13,13,13,2025-12-29,Iowa State,,Houston Christian,REG (Non-Conf),W 89-61,*,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,4,4,1.0,1,3,4,4,0,0,1,2,11,8.5,H,1,1,killyan-toure-1,Killyan Toure,2026
+14,14,14,2026-01-02,Iowa State,,West Virginia,REG (Conf),W 80-59,*,22,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,3,1,4,2,1,0,2,0,0,-1.4,H,1,1,killyan-toure-1,Killyan Toure,2026
+15,15,15,2026-01-07,Iowa State,@,Baylor,REG (Conf),W 70-60,*,34,5,14,0.357,1,4,0.25,4,10,0.4,0.393,1,2,0.5,3,2,5,3,2,2,3,3,12,7.8,A,1,1,killyan-toure-1,Killyan Toure,2026
+16,16,16,2026-01-10,Iowa State,,Oklahoma State,REG (Conf),W 83-71,*,33,3,6,0.5,0,1,0.0,3,5,0.6,0.5,6,8,0.75,0,7,7,5,2,0,2,2,12,13.0,H,1,1,killyan-toure-1,Killyan Toure,2026
+17,17,17,2026-01-13,Iowa State,@,Kansas,REG (Conf),L 63-84,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,4,3,7,2,1,0,1,1,2,5.0,A,0,1,killyan-toure-1,Killyan Toure,2026
+18,18,18,2026-01-17,Iowa State,@,Cincinnati,REG (Conf),L 70-79,*,23,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,3,5,1,2,0,3,4,4,2.4,A,0,1,killyan-toure-1,Killyan Toure,2026
+19,19,19,2026-01-20,Iowa State,,UCF,REG (Conf),W 87-57,*,31,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,2,0.0,1,4,5,2,1,0,0,3,12,10.0,H,1,1,killyan-toure-1,Killyan Toure,2026
+20,20,20,2026-01-24,Iowa State,@,Oklahoma State,REG (Conf),W 84-71,*,30,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,0,3,3,3,2,0,3,1,10,7.9,A,1,1,killyan-toure-1,Killyan Toure,2026
+21,21,21,2026-01-29,Iowa State,,Colorado,REG (Conf),W 97-67,*,18,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,1,1.0,1,2,3,1,3,0,0,2,12,12.6,H,1,1,killyan-toure-1,Killyan Toure,2026
+22,22,22,2026-02-01,Iowa State,@,Kansas State,REG (Conf),W 95-61,*,23,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,2,3,5,3,2,0,0,2,13,14.3,A,1,1,killyan-toure-1,Killyan Toure,2026
+23,23,23,2026-02-07,Iowa State,,Baylor,REG (Conf),W 72-69,*,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,1,2,2,1,1,4,4,5,-0.3,H,1,1,killyan-toure-1,Killyan Toure,2026
+24,24,24,2026-02-10,Iowa State,@,TCU,REG (Conf),L 55-62,*,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,2,0.0,1,1,2,0,3,1,2,4,5,3.3,A,0,1,killyan-toure-1,Killyan Toure,2026
+25,25,25,2026-02-14,Iowa State,,Kansas,REG (Conf),W 74-56,*,23,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,0,,0,0,0,2,0,1,0,2,7,2.5,H,1,1,killyan-toure-1,Killyan Toure,2026
+26,26,26,2026-02-16,Iowa State,,Houston,REG (Conf),W 70-67,*,23,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,0,3,3,2,2,0,0,3,6,6.7,H,1,1,killyan-toure-1,Killyan Toure,2026
+27,27,27,2026-02-21,Iowa State,@,Brigham Young,REG (Conf),L 69-79,*,21,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,0,0,1,0,0,2,2,3,-1.2,A,0,1,killyan-toure-1,Killyan Toure,2026
+28,28,28,2026-02-24,Iowa State,@,Utah,REG (Conf),W 75-59,*,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,3,0,0,2,3,4,3.3,A,1,1,killyan-toure-1,Killyan Toure,2026
+29,29,29,2026-02-28,Iowa State,,Texas Tech,REG (Conf),L 73-82,*,18,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,1,1,2,1,0,0,0,2,0,-4.0,H,0,1,killyan-toure-1,Killyan Toure,2026
+30,30,30,2026-03-02,Iowa State,@,Arizona,REG (Conf),L 57-73,*,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,1,0,1,3,2,-0.9,A,0,1,killyan-toure-1,Killyan Toure,2026
+31,31,31,2026-03-07,Iowa State,,Arizona State,REG (Conf),W 86-65,*,16,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,1,1,2,1,2,0,1,2,4,2.1,H,1,1,killyan-toure-1,Killyan Toure,2026
+32,32,32,2026-03-11,Iowa State,N,Arizona State,CTOURN,W 91-42,*,21,1,5,0.2,1,2,0.5,0,3,0.0,0.3,1,2,0.5,3,2,5,2,1,0,1,3,4,3.4,N,1,0,killyan-toure-1,Killyan Toure,2026
+33,33,33,2026-03-12,Iowa State,N,Texas Tech,CTOURN,W 75-53,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,1,0,0,0,3,2,-0.3,N,1,0,killyan-toure-1,Killyan Toure,2026
+34,34,34,2026-03-13,Iowa State,N,Arizona,CTOURN,L 80-82,*,27,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,1,2,3,1,0,0,1,3,12,7.5,N,0,0,killyan-toure-1,Killyan Toure,2026

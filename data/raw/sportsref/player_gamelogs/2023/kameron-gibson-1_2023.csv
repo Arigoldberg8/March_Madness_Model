@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2022-11-07,Vermont,,Brown,REG (Non-Conf),W 80-65,,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,0,1,3,1.2,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+2,91,2,2022-11-10,Vermont,@,St. Mary's (CA),REG (Non-Conf),L 53-79,,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,0,0,0,0,1,5,1.9,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+3,92,3,2022-11-13,Vermont,@,Cal State Fullerton,REG (Non-Conf),L 85-94 (2OT),,28,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,2,1,0,1,5,6,4.4,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+4,93,4,2022-11-15,Vermont,@,Southern California,REG (Non-Conf),L 57-59,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,0,1,1,0,0,0,1,2,4,0.4,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+5,94,5,2022-11-18,Vermont,N,Iona,REG (Non-Conf),L 50-71,,30,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,3,3,0,1,0,0,1,7,4.8,N,0,1,kameron-gibson-1,Kameron Gibson,2023
+6,95,6,2022-11-22,Vermont,@,Yale,REG (Non-Conf),L 44-73,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,1,1,0,2,0,0,1,5,3.5,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+7,96,7,2022-11-25,Vermont,N,Ball State,REG (Non-Conf),W 78-73,*,33,6,9,0.667,3,6,0.5,3,3,1.0,0.833,4,5,0.8,1,2,3,0,1,0,0,2,19,16.2,N,1,1,kameron-gibson-1,Kameron Gibson,2023
+8,97,8,2022-11-26,Vermont,N,UNC Wilmington,REG (Non-Conf),L 66-68,*,35,2,9,0.222,1,5,0.2,1,4,0.25,0.278,1,2,0.5,0,0,0,2,0,1,1,0,6,1.2,N,0,1,kameron-gibson-1,Kameron Gibson,2023
+9,98,9,2022-11-27,Vermont,N,Long Beach State,REG (Non-Conf),L 58-78,*,24,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,1,0,1,0,1,0,1,3,10,4.8,N,0,1,kameron-gibson-1,Kameron Gibson,2023
+10,99,10,2022-12-01,Vermont,,Vermont St.–Lyndon,REG (Non-Conf),W 101-63,*,24,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,1,0.0,0,2,2,1,1,0,0,0,5,3.5,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+11,100,12,2022-12-06,Vermont,@,Dartmouth,REG (Non-Conf),W 68-52,*,23,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,1,1,2,0,0,1,0,7,6.1,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+12,101,13,2022-12-10,Vermont,@,Colgate,REG (Non-Conf),W 73-72,*,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,0,1,0,0,1,3,1.8,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+13,102,14,2022-12-20,Vermont,,Toledo,REG (Non-Conf),L 72-84,*,16,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,1,2,2,0,0,0,1,7,5.3,H,0,1,kameron-gibson-1,Kameron Gibson,2023
+14,103,16,2023-01-01,Vermont,@,UMBC,REG (Conf),W 74-61,*,14,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,5,6,2.7,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+15,104,17,2023-01-05,Vermont,,Bryant,REG (Conf),W 74-64,*,28,2,9,0.222,0,5,0.0,2,4,0.5,0.222,7,8,0.875,1,2,3,1,1,0,0,0,11,8.1,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+16,105,18,2023-01-08,Vermont,@,New Hampshire,REG (Conf),L 60-67,*,31,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,4,4,2,0,0,1,1,4,1.8,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+17,106,19,2023-01-11,Vermont,@,UMass Lowell,REG (Conf),L 65-80,*,23,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,0,0,0,0,2,0,0,0,3,0.8,A,0,1,kameron-gibson-1,Kameron Gibson,2023
+18,107,20,2023-01-19,Vermont,,Maine,REG (Conf),W 66-45,*,19,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,1,1,0,1,0,0,1,6,3.2,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+19,108,21,2023-01-22,Vermont,,NJIT,REG (Conf),W 85-69,*,23,7,11,0.636,4,7,0.571,3,4,0.75,0.818,0,0,,0,2,2,1,0,1,0,1,18,14.7,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+20,109,22,2023-01-25,Vermont,@,Binghamton,REG (Conf),W 80-55,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,1,0,0.3,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+21,110,23,2023-01-28,Vermont,,UMBC,REG (Conf),W 74-68,*,24,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,1,0.0,1,3,4,0,0,0,0,1,11,7.5,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+22,111,24,2023-02-04,Vermont,@,Albany (NY),REG (Conf),W 87-68,*,27,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,0,,1,1,2,0,0,0,0,2,13,8.9,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+23,112,25,2023-02-08,Vermont,@,Maine,REG (Conf),W 74-65,*,28,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,1,1,0,1,0,0,1,5,2.8,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+24,113,26,2023-02-11,Vermont,,UMass Lowell,REG (Conf),W 93-81,*,29,1,2,0.5,1,2,0.5,0,0,,0.75,0,2,0.0,0,1,1,2,1,0,0,3,3,2.7,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+25,114,27,2023-02-15,Vermont,,New Hampshire,REG (Conf),W 80-51,*,17,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,0,3,3,1,0,0,0,2,9,7.5,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+26,115,28,2023-02-18,Vermont,@,NJIT,REG (Conf),W 82-80 (OT),*,23,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,0,0,1,1,0,0,3,5,2.1,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+27,116,29,2023-02-22,Vermont,,Binghamton,REG (Conf),W 81-70,*,30,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,1,1,0,0,1,0,2,8,6.6,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+28,117,30,2023-02-25,Vermont,@,Bryant,REG (Conf),W 70-66,*,26,4,5,0.8,2,3,0.667,2,2,1.0,1.0,2,2,1.0,0,1,1,1,1,0,0,2,12,11.3,A,1,1,kameron-gibson-1,Kameron Gibson,2023
+29,118,31,2023-02-28,Vermont,,Albany (NY),REG (Conf),W 79-61,*,25,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,0,2,2,1,0,0,0,1,4,0.1,H,1,1,kameron-gibson-1,Kameron Gibson,2023
+30,119,32,2023-03-04,Vermont,,NJIT,CTOURN,W 84-57,*,21,2,5,0.4,2,5,0.4,0,0,,0.6,3,4,0.75,0,2,2,1,0,0,1,1,9,5.8,H,1,0,kameron-gibson-1,Kameron Gibson,2023
+31,120,33,2023-03-07,Vermont,,Binghamton,CTOURN,W 79-57,*,26,7,8,0.875,1,2,0.5,6,6,1.0,0.938,0,0,,0,2,2,0,1,0,1,1,15,12.4,H,1,0,kameron-gibson-1,Kameron Gibson,2023
+32,121,34,2023-03-11,Vermont,,UMass Lowell,CTOURN,W 72-59,*,27,1,5,0.2,0,3,0.0,1,2,0.5,0.2,3,3,1.0,0,3,3,1,0,0,1,1,5,2.1,H,1,0,kameron-gibson-1,Kameron Gibson,2023
+33,122,35,2023-03-17,Vermont,N,Marquette,ROUND-64,L 61-78,*,24,2,9,0.222,2,5,0.4,0,4,0.0,0.333,2,3,0.667,1,1,2,0,0,0,0,1,8,2.7,N,0,0,kameron-gibson-1,Kameron Gibson,2023

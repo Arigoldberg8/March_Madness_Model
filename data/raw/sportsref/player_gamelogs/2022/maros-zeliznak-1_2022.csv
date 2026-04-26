@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2021-11-09,Jacksonville State,@,Wichita State,REG (Non-Conf),L 57-60,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,1,3,0,0,0,1,0,2,1.7,A,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+2,73,2,2021-11-13,Jacksonville State,,Alabama A&M,REG (Non-Conf),W 70-47,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+3,74,3,2021-11-16,Jacksonville State,@,Troy,REG (Non-Conf),L 65-69 (3OT),,37,3,6,0.5,0,0,,3,6,0.5,0.5,0,4,0.0,4,3,7,1,1,1,1,3,6,5.3,A,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+4,75,4,2021-11-22,Jacksonville State,N,Valparaiso,REG (Non-Conf),L 70-78,,12,0,0,,0,0,,0,0,,,0,0,,1,2,3,0,0,0,1,2,0,-0.5,N,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+5,76,5,2021-11-24,Jacksonville State,N,Drexel,REG (Non-Conf),W 72-64,,16,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,2,0,2,0,0,0,1,2,5,2.5,N,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+6,77,6,2021-11-27,Jacksonville State,@,Elon,REG (Non-Conf),W 93-81,,11,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,2,0,-1.1,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+7,78,7,2021-12-04,Jacksonville State,,South Alabama,REG (Non-Conf),L 64-74,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,H,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+8,79,8,2021-12-08,Jacksonville State,@,VCU,REG (Non-Conf),L 52-66,,13,3,5,0.6,0,0,,3,5,0.6,0.6,0,4,0.0,2,2,4,0,0,0,0,2,6,3.3,A,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+9,80,9,2021-12-13,Jacksonville State,,LaGrange,REG (Non-Conf),W 110-80,,8,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,3,0,3,0,0,0,0,2,4,4.0,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+10,81,10,2021-12-15,Jacksonville State,,Florida International,REG (Non-Conf),W 66-59,,15,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,0,0,0,0,0,4,4.7,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+11,82,11,2021-12-18,Jacksonville State,@,Alabama,REG (Non-Conf),L 59-65,,15,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,1,5,0,-1.7,A,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+12,83,12,2021-12-21,Jacksonville State,@,Little Rock,REG (Non-Conf),W 87-67,,10,2,2,1.0,0,0,,2,2,1.0,1.0,2,4,0.5,1,2,3,0,0,0,1,2,6,4.1,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+13,84,13,2021-12-28,Jacksonville State,,Carver,REG (Non-Conf),W 123-59,,20,3,4,0.75,0,0,,3,4,0.75,0.75,0,2,0.0,3,0,3,1,1,0,1,1,6,6.0,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+14,85,14,2022-01-08,Jacksonville State,@,North Alabama,REG (Conf),W 65-55,,18,3,4,0.75,0,0,,3,4,0.75,0.75,1,4,0.25,0,6,6,0,1,1,3,0,7,4.7,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+15,86,15,2022-01-11,Jacksonville State,,Lipscomb,REG (Conf),W 88-83,,14,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,3,2,5,0,0,0,0,2,4,2.5,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+16,87,16,2022-01-15,Jacksonville State,@,Eastern Kentucky,REG (Conf),W 76-65,,16,5,5,1.0,0,0,,5,5,1.0,1.0,1,3,0.333,1,1,2,3,0,1,1,1,11,11.1,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+17,88,17,2022-01-18,Jacksonville State,@,Central Arkansas,REG (Conf),W 86-81,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,3,2,2,-1.1,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+18,89,18,2022-01-22,Jacksonville State,,Florida Gulf Coast,REG (Conf),W 79-71,,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,4,2,6,1,1,0,1,1,6,6.7,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+19,90,19,2022-01-24,Jacksonville State,,Bellarmine,REG (Conf),W 65-60,,6,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,0,0,1,0,-1.2,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+20,91,20,2022-01-27,Jacksonville State,@,Kennesaw State,REG (Conf),W 70-64,,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,5,6,1,0,0,1,4,4,3.7,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+21,92,21,2022-01-29,Jacksonville State,@,Liberty,REG (Conf),W 77-67,,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,4,7,0,0,1,1,2,0,1.5,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+22,93,22,2022-02-03,Jacksonville State,,North Florida,REG (Conf),L 76-88,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,1,2,-0.1,H,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+23,94,23,2022-02-05,Jacksonville State,,Jacksonville,REG (Conf),W 64-58,,15,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,0,2,1,0,1,0,3,0,-0.5,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+24,95,24,2022-02-09,Jacksonville State,@,Stetson,REG (Conf),L 57-63,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,A,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+25,96,25,2022-02-12,Jacksonville State,,Central Arkansas,REG (Conf),L 62-72,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,1,0.0,0,3,3,0,0,2,0,4,0,-1.1,H,0,1,maros-zeliznak-1,Maros Zeliznak,2022
+26,97,26,2022-02-16,Jacksonville State,@,Lipscomb,REG (Conf),W 78-67,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,0,1,1,3,2,1.1,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+27,98,27,2022-02-20,Jacksonville State,@,Bellarmine,REG (Conf),W 82-67,,19,0,0,,0,0,,0,0,,,0,0,,1,0,1,1,1,0,0,2,0,1.6,A,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+28,99,28,2022-02-23,Jacksonville State,,Eastern Kentucky,REG (Conf),W 81-68,,6,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,2,1,4,2.0,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+29,100,29,2022-02-26,Jacksonville State,,North Alabama,REG (Conf),W 69-52,,6,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,0,0,0,3,1,1,-2.5,H,1,1,maros-zeliznak-1,Maros Zeliznak,2022
+30,101,30,2022-03-03,Jacksonville State,,Kennesaw State,CTOURN,W 78-67,,17,6,6,1.0,0,0,,6,6,1.0,1.0,2,4,0.5,3,6,9,0,0,0,2,2,14,12.5,H,1,0,maros-zeliznak-1,Maros Zeliznak,2022
+31,102,31,2022-03-05,Jacksonville State,,Jacksonville,CTOURN,L 51-54,,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,5,2,7,0,1,2,0,3,4,7.6,H,0,0,maros-zeliznak-1,Maros Zeliznak,2022
+32,103,32,2022-03-18,Jacksonville State,N,Auburn,ROUND-64,L 61-80,,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,1,4,0,-2.0,N,0,0,maros-zeliznak-1,Maros Zeliznak,2022

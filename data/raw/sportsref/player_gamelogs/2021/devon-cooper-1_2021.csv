@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2020-11-25,Morehead State,@,Kentucky,REG (Non-Conf),L 45-81,*,27,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,2,2,1,1,0,2,3,4,-0.4,A,0,1,devon-cooper-1,DeVon Cooper,2021
+2,69,2,2020-11-27,Morehead State,N,Richmond,REG (Non-Conf),L 64-82,*,31,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,2,1.0,0,6,6,3,1,0,5,1,14,8.5,N,0,1,devon-cooper-1,DeVon Cooper,2021
+3,70,3,2020-11-29,Morehead State,,Arkansas State,REG (Non-Conf),W 69-61,*,34,4,11,0.364,1,4,0.25,3,7,0.429,0.409,5,7,0.714,1,11,12,4,0,0,4,1,14,9.5,H,1,1,devon-cooper-1,DeVon Cooper,2021
+4,71,4,2020-12-02,Morehead State,@,Ohio State,REG (Non-Conf),L 44-77,*,31,2,8,0.25,1,3,0.333,1,5,0.2,0.313,6,6,1.0,1,6,7,3,0,0,3,2,11,7.0,A,0,1,devon-cooper-1,DeVon Cooper,2021
+5,72,5,2020-12-07,Morehead State,@,Eastern Kentucky,REG (Conf),L 68-71,*,30,4,7,0.571,1,4,0.25,3,3,1.0,0.643,1,2,0.5,0,7,7,2,1,0,4,0,10,6.8,A,0,1,devon-cooper-1,DeVon Cooper,2021
+6,73,6,2020-12-09,Morehead State,,Transylvania,REG (Non-Conf),W 77-55,*,21,3,9,0.333,2,7,0.286,1,2,0.5,0.444,2,2,1.0,0,5,5,2,0,2,1,3,10,7.0,H,1,1,devon-cooper-1,DeVon Cooper,2021
+7,74,7,2020-12-10,Morehead State,,Transylvania,REG (Non-Conf),W 81-55,*,21,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,0,2,2,1,0,0,1,3,11,5.4,H,1,1,devon-cooper-1,DeVon Cooper,2021
+8,75,8,2020-12-14,Morehead State,,Eastern Kentucky,REG (Conf),W 75-62,*,29,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,4,0.5,0,7,7,1,0,1,0,3,8,6.8,H,1,1,devon-cooper-1,DeVon Cooper,2021
+9,76,9,2020-12-18,Morehead State,,SIU Edwardsville,REG (Conf),L 65-69,*,32,5,13,0.385,1,6,0.167,4,7,0.571,0.423,0,0,,3,3,6,1,1,1,0,1,11,8.9,H,0,1,devon-cooper-1,DeVon Cooper,2021
+10,77,10,2020-12-21,Morehead State,@,Clemson,REG (Non-Conf),L 51-66,*,28,2,6,0.333,0,4,0.0,2,2,1.0,0.333,3,6,0.5,0,4,4,1,1,0,1,5,7,2.3,A,0,1,devon-cooper-1,DeVon Cooper,2021
+11,78,11,2021-01-02,Morehead State,@,Murray State,REG (Conf),W 61-56,*,35,7,14,0.5,0,2,0.0,7,12,0.583,0.5,5,6,0.833,0,6,6,1,0,0,3,1,19,10.7,A,1,1,devon-cooper-1,DeVon Cooper,2021
+12,79,12,2021-01-07,Morehead State,,Tennessee Tech,REG (Conf),W 57-54,*,32,4,14,0.286,0,6,0.0,4,8,0.5,0.286,2,3,0.667,0,6,6,3,2,0,2,0,10,5.3,H,1,1,devon-cooper-1,DeVon Cooper,2021
+13,80,13,2021-01-09,Morehead State,,Jacksonville State,REG (Conf),W 56-55,*,30,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,1,5,6,1,0,0,3,0,11,5.5,H,1,1,devon-cooper-1,DeVon Cooper,2021
+14,81,14,2021-01-14,Morehead State,@,Eastern Illinois,REG (Conf),W 87-61,*,30,4,9,0.444,2,5,0.4,2,4,0.5,0.556,4,5,0.8,0,4,4,1,0,0,0,0,14,10.8,A,1,1,devon-cooper-1,DeVon Cooper,2021
+15,82,15,2021-01-16,Morehead State,@,Southeast Missouri State,REG (Conf),W 64-50,*,30,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,0,5,5,3,2,0,0,1,11,11.9,A,1,1,devon-cooper-1,DeVon Cooper,2021
+16,83,16,2021-01-21,Morehead State,,Southeast Missouri State,REG (Conf),W 76-65,*,32,5,8,0.625,2,3,0.667,3,5,0.6,0.75,5,8,0.625,0,4,4,4,2,2,1,2,17,17.8,H,1,1,devon-cooper-1,DeVon Cooper,2021
+17,84,17,2021-01-23,Morehead State,,UT Martin,REG (Conf),W 76-44,*,28,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,2,4,6,2,0,0,1,3,13,9.8,H,1,1,devon-cooper-1,DeVon Cooper,2021
+18,85,18,2021-01-28,Morehead State,@,Jacksonville State,REG (Conf),W 85-66,*,35,5,9,0.556,4,5,0.8,1,4,0.25,0.778,5,6,0.833,0,3,3,1,0,0,1,1,19,14.5,A,1,1,devon-cooper-1,DeVon Cooper,2021
+19,86,19,2021-01-30,Morehead State,@,Tennessee Tech,REG (Conf),W 74-55,*,30,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,3,0.667,0,5,5,3,3,0,4,1,9,8.5,A,1,1,devon-cooper-1,DeVon Cooper,2021
+20,87,20,2021-02-04,Morehead State,,Murray State,REG (Conf),W 66-56,*,36,6,9,0.667,0,2,0.0,6,7,0.857,0.667,0,0,,0,4,4,4,1,0,1,0,12,12.1,H,1,1,devon-cooper-1,DeVon Cooper,2021
+21,88,21,2021-02-06,Morehead State,,Austin Peay,REG (Conf),W 75-74 (OT),*,40,3,10,0.3,1,5,0.2,2,5,0.4,0.35,3,4,0.75,0,5,5,2,0,0,2,3,10,3.5,H,1,1,devon-cooper-1,DeVon Cooper,2021
+22,89,22,2021-02-11,Morehead State,@,Tennessee State,REG (Conf),W 79-66,*,36,2,5,0.4,2,5,0.4,0,0,,0.6,2,4,0.5,0,6,6,3,1,0,4,2,8,4.6,A,1,1,devon-cooper-1,DeVon Cooper,2021
+23,90,23,2021-02-13,Morehead State,@,Belmont,REG (Conf),L 58-73,*,33,4,14,0.286,3,10,0.3,1,4,0.25,0.393,0,0,,1,3,4,6,0,1,1,2,11,7.5,A,0,1,devon-cooper-1,DeVon Cooper,2021
+24,91,24,2021-02-20,Morehead State,@,UT Martin,REG (Conf),W 79-69,*,32,4,10,0.4,3,7,0.429,1,3,0.333,0.55,2,2,1.0,0,3,3,2,0,0,2,0,13,7.9,A,1,1,devon-cooper-1,DeVon Cooper,2021
+25,92,25,2021-02-22,Morehead State,@,SIU Edwardsville,REG (Conf),W 56-48,*,34,3,10,0.3,1,4,0.25,2,6,0.333,0.35,1,2,0.5,0,1,1,1,1,1,5,2,8,-1.3,A,1,1,devon-cooper-1,DeVon Cooper,2021
+26,93,26,2021-02-25,Morehead State,,Tennessee State,REG (Conf),W 74-60,*,31,4,8,0.5,2,2,1.0,2,6,0.333,0.625,4,6,0.667,0,3,3,2,0,1,5,1,14,6.8,H,1,1,devon-cooper-1,DeVon Cooper,2021
+27,94,27,2021-02-27,Morehead State,,Belmont,REG (Conf),W 89-82 (OT),*,36,3,10,0.3,0,2,0.0,3,8,0.375,0.3,10,10,1.0,0,8,8,4,1,1,4,3,16,11.9,H,1,1,devon-cooper-1,DeVon Cooper,2021
+28,95,28,2021-03-03,Morehead State,N,Southeast Missouri State,CTOURN,W 61-54,*,35,3,8,0.375,0,1,0.0,3,7,0.429,0.375,6,6,1.0,0,5,5,2,0,1,1,0,12,10.2,N,1,0,devon-cooper-1,DeVon Cooper,2021
+29,96,29,2021-03-05,Morehead State,N,Eastern Kentucky,CTOURN,W 67-64,*,35,7,11,0.636,3,4,0.75,4,7,0.571,0.773,8,8,1.0,1,5,6,4,0,0,5,3,25,18.9,N,1,0,devon-cooper-1,DeVon Cooper,2021
+30,97,30,2021-03-06,Morehead State,N,Belmont,CTOURN,W 86-71,*,31,5,12,0.417,2,6,0.333,3,6,0.5,0.5,2,2,1.0,0,1,1,3,0,0,3,1,14,6.6,N,1,0,devon-cooper-1,DeVon Cooper,2021
+31,98,31,2021-03-19,Morehead State,N,West Virginia,ROUND-64,L 67-84,*,36,7,11,0.636,5,8,0.625,2,3,0.667,0.864,2,2,1.0,0,4,4,4,0,0,6,2,21,13.3,N,0,0,devon-cooper-1,DeVon Cooper,2021

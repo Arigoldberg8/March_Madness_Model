@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,N,1,1,julian-strawther-1,Julian Strawther,2021
+2,2,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,julian-strawther-1,Julian Strawther,2021
+3,3,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,,12,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,0,1,0,1,0,1,1,8,5.7,H,1,1,julian-strawther-1,Julian Strawther,2021
+4,4,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,,9,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,3,0.667,1,0,1,0,0,0,1,1,6,3.6,H,1,1,julian-strawther-1,Julian Strawther,2021
+5,5,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,1,julian-strawther-1,Julian Strawther,2021
+6,6,8,2020-12-28,Gonzaga,,Northern Arizona,REG (Non-Conf),W 88-58,,21,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,4,0.5,2,3,5,0,1,0,0,1,2,1.3,H,1,1,julian-strawther-1,Julian Strawther,2021
+7,7,9,2020-12-29,Gonzaga,,Dixie State,REG (Non-Conf),W 112-67,,17,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,2,2,0,0,0,0,1,8,5.9,H,1,1,julian-strawther-1,Julian Strawther,2021
+8,8,10,2021-01-02,Gonzaga,,San Francisco,REG (Conf),W 85-62,,6,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,1,2,0,0,0,1,0,3,0.9,H,1,1,julian-strawther-1,Julian Strawther,2021
+9,9,11,2021-01-07,Gonzaga,,Brigham Young,REG (Conf),W 86-69,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,julian-strawther-1,Julian Strawther,2021
+10,10,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,,8,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,3,1.0,2,1,3,0,0,1,0,2,12,11.0,A,1,1,julian-strawther-1,Julian Strawther,2021
+11,11,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,julian-strawther-1,Julian Strawther,2021
+12,12,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,,14,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,0,3,3,0,0,0,0,2,3,0.3,H,1,1,julian-strawther-1,Julian Strawther,2021
+13,13,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,,10,4,5,0.8,2,3,0.667,2,2,1.0,1.0,1,2,0.5,1,0,1,0,1,0,1,2,11,8.6,A,1,1,julian-strawther-1,Julian Strawther,2021
+14,14,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,1,1,2,0,0,0,2,1,3,0.2,A,1,1,julian-strawther-1,Julian Strawther,2021
+15,15,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,,0,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,A,1,1,julian-strawther-1,Julian Strawther,2021
+16,16,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,A,1,1,julian-strawther-1,Julian Strawther,2021
+17,17,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,2,2,0,0,0,0,0,5,3.9,A,1,1,julian-strawther-1,Julian Strawther,2021
+18,18,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,,11,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,2,2,0,-2.8,H,1,1,julian-strawther-1,Julian Strawther,2021
+19,19,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,1,1.0,1,3,4,1,1,0,1,0,6,7.0,H,1,1,julian-strawther-1,Julian Strawther,2021
+20,20,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,julian-strawther-1,Julian Strawther,2021
+21,21,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,2,2,-0.2,N,1,0,julian-strawther-1,Julian Strawther,2021
+22,22,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,,9,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,2,2,0,0,0,0,2,9,7.2,N,1,0,julian-strawther-1,Julian Strawther,2021
+23,23,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,julian-strawther-1,Julian Strawther,2021
+24,24,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,julian-strawther-1,Julian Strawther,2021
+25,25,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,,1,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,N,0,0,julian-strawther-1,Julian Strawther,2021

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2025-11-03,Iowa State,,FDU,REG (Non-Conf),W 88-50,*,29,5,10,0.5,0,1,0.0,5,9,0.556,0.5,4,5,0.8,1,9,10,3,1,0,2,2,14,12.3,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+2,97,2,2025-11-06,Iowa State,,Grambling State,REG (Non-Conf),W 102-62,*,27,8,10,0.8,1,2,0.5,7,8,0.875,0.85,3,3,1.0,3,5,8,3,0,1,1,3,20,20.4,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+3,98,3,2025-11-10,Iowa State,N,Mississippi State,REG (Non-Conf),W 96-80,*,25,6,8,0.75,0,1,0.0,6,7,0.857,0.75,6,7,0.857,2,2,4,4,1,0,2,2,18,17.4,N,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+4,99,4,2025-11-17,Iowa State,,Stonehill,REG (Non-Conf),W 96-57,*,31,8,12,0.667,1,3,0.333,7,9,0.778,0.708,6,9,0.667,2,7,9,7,4,0,1,0,23,28.0,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+5,100,5,2025-11-24,Iowa State,N,St. John's (NY),REG (Non-Conf),W 83-82,*,36,5,14,0.357,1,2,0.5,4,12,0.333,0.393,6,8,0.75,1,7,8,3,0,1,3,4,17,9.4,N,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+6,101,6,2025-11-25,Iowa State,N,Creighton,REG (Non-Conf),W 78-60,*,36,8,17,0.471,1,3,0.333,7,14,0.5,0.5,1,2,0.5,4,6,10,5,1,1,2,0,18,16.7,N,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+7,102,7,2025-11-26,Iowa State,N,Syracuse,REG (Non-Conf),W 95-64,*,28,6,14,0.429,0,2,0.0,6,12,0.5,0.429,1,2,0.5,2,4,6,10,3,1,0,3,13,17.3,N,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+8,103,8,2025-12-03,Iowa State,,Alcorn State,REG (Non-Conf),W 132-68,*,31,10,13,0.769,2,2,1.0,8,11,0.727,0.846,2,2,1.0,0,3,3,10,2,0,0,1,24,28.4,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+9,104,9,2025-12-06,Iowa State,@,Purdue,REG (Non-Conf),W 81-58,*,22,4,8,0.5,3,4,0.75,1,4,0.25,0.688,0,0,,1,1,2,4,1,2,6,5,11,5.2,A,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+10,105,10,2025-12-11,Iowa State,,Iowa,REG (Non-Conf),W 66-62,*,35,7,14,0.5,3,6,0.5,4,8,0.5,0.607,7,9,0.778,2,3,5,1,2,2,3,2,24,18.8,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+11,106,11,2025-12-14,Iowa State,,Eastern Illinois,REG (Non-Conf),W 78-53,*,21,3,8,0.375,0,2,0.0,3,6,0.5,0.375,5,7,0.714,1,8,9,5,0,1,2,2,11,10.3,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+12,107,12,2025-12-21,Iowa State,,Long Beach State,REG (Non-Conf),W 91-60,*,31,8,13,0.615,1,2,0.5,7,11,0.636,0.654,2,4,0.5,1,9,10,5,2,0,3,1,19,17.8,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+13,108,13,2025-12-29,Iowa State,,Houston Christian,REG (Non-Conf),W 89-61,*,33,5,9,0.556,1,3,0.333,4,6,0.667,0.611,12,16,0.75,1,7,8,5,2,2,3,4,23,22.2,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+14,109,14,2026-01-02,Iowa State,,West Virginia,REG (Conf),W 80-59,*,34,2,6,0.333,0,3,0.0,2,3,0.667,0.333,6,7,0.857,2,8,10,10,3,2,3,0,10,18.4,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+15,110,15,2026-01-07,Iowa State,@,Baylor,REG (Conf),W 70-60,*,38,7,17,0.412,1,3,0.333,6,14,0.429,0.441,4,8,0.5,5,12,17,3,3,1,6,4,19,13.6,A,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+16,111,16,2026-01-10,Iowa State,,Oklahoma State,REG (Conf),W 83-71,*,36,4,14,0.286,1,5,0.2,3,9,0.333,0.321,10,12,0.833,1,4,5,5,1,1,3,4,19,12.5,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+17,112,17,2026-01-13,Iowa State,@,Kansas,REG (Conf),L 63-84,*,33,4,14,0.286,2,5,0.4,2,9,0.222,0.357,2,4,0.5,3,5,8,1,0,3,5,3,12,3.2,A,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+18,113,18,2026-01-17,Iowa State,@,Cincinnati,REG (Conf),L 70-79,*,35,4,12,0.333,0,1,0.0,4,11,0.364,0.333,8,10,0.8,4,5,9,5,0,0,3,2,16,12.4,A,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+19,114,19,2026-01-20,Iowa State,,UCF,REG (Conf),W 87-57,*,34,6,11,0.545,1,3,0.333,5,8,0.625,0.591,4,7,0.571,4,6,10,12,4,1,0,0,17,28.2,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+20,115,20,2026-01-24,Iowa State,@,Oklahoma State,REG (Conf),W 84-71,*,24,6,8,0.75,4,4,1.0,2,4,0.5,1.0,4,8,0.5,1,3,4,2,1,0,2,5,20,15.2,A,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+21,116,21,2026-01-29,Iowa State,,Colorado,REG (Conf),W 97-67,*,34,3,9,0.333,1,2,0.5,2,7,0.286,0.389,6,8,0.75,1,7,8,5,1,0,5,2,13,8.6,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+22,117,22,2026-02-01,Iowa State,@,Kansas State,REG (Conf),W 95-61,*,34,7,13,0.538,2,5,0.4,5,8,0.625,0.615,3,4,0.75,1,7,8,5,1,0,4,1,19,15.2,A,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+23,118,23,2026-02-07,Iowa State,,Baylor,REG (Conf),W 72-69,*,35,6,10,0.6,1,2,0.5,5,8,0.625,0.65,2,6,0.333,2,3,5,4,1,0,1,2,15,13.1,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+24,119,24,2026-02-10,Iowa State,@,TCU,REG (Conf),L 55-62,*,38,5,15,0.333,1,3,0.333,4,12,0.333,0.367,1,2,0.5,2,7,9,9,3,2,6,4,12,9.7,A,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+25,120,25,2026-02-14,Iowa State,,Kansas,REG (Conf),W 74-56,*,26,3,8,0.375,0,2,0.0,3,6,0.5,0.375,5,9,0.556,1,4,5,4,0,1,2,4,11,6.8,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+26,121,26,2026-02-16,Iowa State,,Houston,REG (Conf),W 70-67,*,33,4,10,0.4,1,5,0.2,3,5,0.6,0.45,3,4,0.75,4,2,6,5,0,1,0,1,12,13.4,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+27,122,27,2026-02-21,Iowa State,@,Brigham Young,REG (Conf),L 69-79,*,35,4,13,0.308,1,5,0.2,3,8,0.375,0.346,4,5,0.8,1,7,8,7,2,1,1,2,13,13.7,A,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+28,123,28,2026-02-24,Iowa State,@,Utah,REG (Conf),W 75-59,*,35,7,15,0.467,0,2,0.0,7,13,0.538,0.467,7,10,0.7,2,4,6,3,2,0,2,3,21,15.6,A,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+29,124,29,2026-02-28,Iowa State,,Texas Tech,REG (Conf),L 73-82,*,35,6,14,0.429,2,4,0.5,4,10,0.4,0.5,8,10,0.8,2,3,5,5,5,0,3,3,22,20.4,H,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+30,125,30,2026-03-02,Iowa State,@,Arizona,REG (Conf),L 57-73,*,28,2,17,0.118,0,5,0.0,2,12,0.167,0.118,8,8,1.0,3,5,8,2,2,1,4,4,12,3.0,A,0,1,joshua-jefferson-1,Joshua Jefferson,2026
+31,126,31,2026-03-07,Iowa State,,Arizona State,REG (Conf),W 86-65,*,30,5,12,0.417,2,5,0.4,3,7,0.429,0.5,4,6,0.667,2,5,7,3,2,1,1,4,16,13.9,H,1,1,joshua-jefferson-1,Joshua Jefferson,2026
+32,127,32,2026-03-11,Iowa State,N,Arizona State,CTOURN,W 91-42,*,31,8,13,0.615,1,4,0.25,7,9,0.778,0.654,3,4,0.75,2,10,12,4,3,0,3,1,20,20.5,N,1,0,joshua-jefferson-1,Joshua Jefferson,2026
+33,128,33,2026-03-12,Iowa State,N,Texas Tech,CTOURN,W 75-53,*,33,8,13,0.615,0,2,0.0,8,11,0.727,0.615,2,5,0.4,1,12,13,6,1,2,4,2,18,17.0,N,1,0,joshua-jefferson-1,Joshua Jefferson,2026
+34,129,34,2026-03-13,Iowa State,N,Arizona,CTOURN,L 80-82,*,33,9,17,0.529,3,7,0.429,6,10,0.6,0.618,0,2,0.0,1,3,4,2,3,1,3,2,21,14.8,N,0,0,joshua-jefferson-1,Joshua Jefferson,2026

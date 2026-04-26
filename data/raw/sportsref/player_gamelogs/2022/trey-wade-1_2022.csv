@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,79,1,2021-11-09,Arkansas,,Mercer,REG (Non-Conf),W 74-61,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,trey-wade-1,Trey Wade,2022
+2,80,2,2021-11-13,Arkansas,,Gardner-Webb,REG (Non-Conf),W 86-69,,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,3,0,1,0,1,5,6.4,H,1,1,trey-wade-1,Trey Wade,2022
+3,81,3,2021-11-17,Arkansas,,Northern Iowa,REG (Non-Conf),W 93-80,,11,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,1,0,0,1,4,4,0.8,H,1,1,trey-wade-1,Trey Wade,2022
+4,82,4,2021-11-22,Arkansas,N,Kansas State,REG (Non-Conf),W 72-64,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,N,1,1,trey-wade-1,Trey Wade,2022
+5,83,5,2021-11-23,Arkansas,N,Cincinnati,REG (Non-Conf),W 73-67,,4,0,0,,0,0,,0,0,,,1,2,0.5,1,2,3,0,0,0,0,0,1,1.9,N,1,1,trey-wade-1,Trey Wade,2022
+6,84,6,2021-11-28,Arkansas,,Pennsylvania,REG (Non-Conf),W 76-60,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,1,1,trey-wade-1,Trey Wade,2022
+7,85,7,2021-12-01,Arkansas,,Central Arkansas,REG (Non-Conf),W 97-60,,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,3,4,0,1,0,1,0,4,4.3,H,1,1,trey-wade-1,Trey Wade,2022
+8,86,8,2021-12-04,Arkansas,,Little Rock,REG (Non-Conf),W 93-78,,6,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,1,0,0,1,1,4,2.0,H,1,1,trey-wade-1,Trey Wade,2022
+9,87,9,2021-12-07,Arkansas,,Charlotte,REG (Non-Conf),W 86-66,,3,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,H,1,1,trey-wade-1,Trey Wade,2022
+10,88,10,2021-12-11,Arkansas,N,Oklahoma,REG (Non-Conf),L 66-88,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,1,trey-wade-1,Trey Wade,2022
+11,89,11,2021-12-18,Arkansas,N,Hofstra,REG (Non-Conf),L 81-89,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,0,1,trey-wade-1,Trey Wade,2022
+12,90,12,2021-12-21,Arkansas,,Elon,REG (Non-Conf),W 81-55,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,3,5,2,1,3,0,1,7,10.7,H,1,1,trey-wade-1,Trey Wade,2022
+13,91,13,2021-12-29,Arkansas,@,Mississippi State,REG (Conf),L 68-81,*,23,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,0,0,1,2,3,0.9,A,0,1,trey-wade-1,Trey Wade,2022
+14,92,14,2022-01-04,Arkansas,,Vanderbilt,REG (Conf),L 74-75,,5,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,H,0,1,trey-wade-1,Trey Wade,2022
+15,93,15,2022-01-08,Arkansas,@,Texas A&M,REG (Conf),L 81-86,,4,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,A,0,1,trey-wade-1,Trey Wade,2022
+16,94,16,2022-01-12,Arkansas,,Missouri,REG (Conf),W 87-43,*,32,7,10,0.7,1,1,1.0,6,9,0.667,0.75,2,3,0.667,3,2,5,3,3,2,1,0,17,20.6,H,1,1,trey-wade-1,Trey Wade,2022
+17,95,17,2022-01-15,Arkansas,@,Louisiana State,REG (Conf),W 65-58,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,0,2,0,1,0,0,1,2,3.0,A,1,1,trey-wade-1,Trey Wade,2022
+18,96,18,2022-01-18,Arkansas,,South Carolina,REG (Conf),W 75-59,*,31,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,3,1,4,0,0,0,2,1,5,3.0,H,1,1,trey-wade-1,Trey Wade,2022
+19,97,19,2022-01-22,Arkansas,,Texas A&M,REG (Conf),W 76-73 (OT),*,34,2,3,0.667,2,2,1.0,0,1,0.0,1.0,2,2,1.0,0,1,1,1,0,1,1,3,8,6.2,H,1,1,trey-wade-1,Trey Wade,2022
+20,98,20,2022-01-26,Arkansas,@,Ole Miss,REG (Conf),W 64-55,*,40,5,5,1.0,2,2,1.0,3,3,1.0,1.2,0,1,0.0,1,4,5,4,0,1,0,4,12,13.9,A,1,1,trey-wade-1,Trey Wade,2022
+21,99,21,2022-01-29,Arkansas,,West Virginia,REG (Non-Conf),W 77-68,*,38,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,4,1.0,1,1,2,1,0,1,1,1,6,6.0,H,1,1,trey-wade-1,Trey Wade,2022
+22,100,22,2022-02-02,Arkansas,@,Georgia,REG (Conf),W 99-73,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.1,A,1,1,trey-wade-1,Trey Wade,2022
+23,101,23,2022-02-05,Arkansas,,Mississippi State,REG (Conf),W 63-55,*,19,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,2,3,5,1,0,1,1,2,5,3.5,H,1,1,trey-wade-1,Trey Wade,2022
+24,102,24,2022-02-08,Arkansas,,Auburn,REG (Conf),W 80-76 (OT),*,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,1,1,trey-wade-1,Trey Wade,2022
+25,103,25,2022-02-12,Arkansas,@,Alabama,REG (Conf),L 67-68,*,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.7,A,0,1,trey-wade-1,Trey Wade,2022
+26,104,26,2022-02-15,Arkansas,@,Missouri,REG (Conf),W 76-57,*,36,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,2,1.0,4,7,11,1,1,0,0,1,12,15.3,A,1,1,trey-wade-1,Trey Wade,2022
+27,105,27,2022-02-19,Arkansas,,Tennessee,REG (Conf),W 58-48,*,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,2,4,6,0,0,1,0,2,4,3.4,H,1,1,trey-wade-1,Trey Wade,2022
+28,106,28,2022-02-22,Arkansas,@,Florida,REG (Conf),W 82-74,*,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.0,A,1,1,trey-wade-1,Trey Wade,2022
+29,107,29,2022-02-26,Arkansas,,Kentucky,REG (Conf),W 75-73,*,14,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,1,2,3,0,0,1,2,1,5,4.0,H,1,1,trey-wade-1,Trey Wade,2022
+30,108,30,2022-03-02,Arkansas,,Louisiana State,REG (Conf),W 77-76,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,trey-wade-1,Trey Wade,2022
+31,109,31,2022-03-05,Arkansas,@,Tennessee,REG (Conf),L 74-78,*,19,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,3,2,5,1,0,0,1,3,0,-0.2,A,0,1,trey-wade-1,Trey Wade,2022
+32,110,32,2022-03-11,Arkansas,N,Louisiana State,CTOURN,W 79-67,*,37,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,3,4,7,1,0,1,2,3,7,5.5,N,1,0,trey-wade-1,Trey Wade,2022
+33,111,33,2022-03-12,Arkansas,N,Texas A&M,CTOURN,L 64-82,*,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,0,1,0,0.2,N,0,0,trey-wade-1,Trey Wade,2022
+34,112,34,2022-03-17,Arkansas,N,Vermont,ROUND-64,W 75-71,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,1,0,0,0,0,2,2.4,N,1,0,trey-wade-1,Trey Wade,2022
+35,113,35,2022-03-19,Arkansas,N,New Mexico State,ROUND-32,W 53-48,*,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,0,0,0,0.6,N,1,0,trey-wade-1,Trey Wade,2022
+36,114,36,2022-03-24,Arkansas,N,Gonzaga,ROUND-16,W 74-68,*,34,6,10,0.6,3,4,0.75,3,6,0.5,0.75,0,0,,0,7,7,1,1,1,0,3,15,13.7,N,1,0,trey-wade-1,Trey Wade,2022
+37,115,37,2022-03-26,Arkansas,N,Duke,ROUND-8,L 69-78,*,29,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,3,0,3,0,1,0,1,0,7,5.4,N,0,0,trey-wade-1,Trey Wade,2022

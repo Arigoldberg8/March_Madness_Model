@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2022-11-07,Iona,,Pennsylvania,REG (Non-Conf),W 78-50,*,29,4,15,0.267,1,5,0.2,3,10,0.3,0.3,0,0,,0,4,4,7,2,1,0,1,9,8.5,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+2,34,2,2022-11-11,Iona,@,Hofstra,REG (Non-Conf),L 78-83,*,26,4,12,0.333,1,3,0.333,3,9,0.333,0.375,0,0,,1,4,5,3,0,0,1,2,9,4.4,A,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+3,35,3,2022-11-18,Iona,N,Vermont,REG (Non-Conf),W 71-50,*,35,6,13,0.462,1,7,0.143,5,6,0.833,0.5,1,1,1.0,3,4,7,3,3,1,1,1,14,15.0,N,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+4,36,4,2022-11-27,Iona,N,Santa Clara,REG (Non-Conf),L 76-86,*,33,8,10,0.8,6,6,1.0,2,4,0.5,1.1,4,4,1.0,0,1,1,0,2,1,2,4,26,21.6,N,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+5,37,5,2022-12-02,Iona,,Niagara,REG (Conf),W 78-56,*,21,5,8,0.625,0,2,0.0,5,6,0.833,0.625,3,3,1.0,0,3,3,0,2,1,2,4,13,9.4,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+6,38,6,2022-12-04,Iona,,Canisius,REG (Conf),W 90-60,*,22,7,10,0.7,3,4,0.75,4,6,0.667,0.85,4,4,1.0,0,1,1,4,4,1,1,2,21,22.8,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+7,39,7,2022-12-06,Iona,,Saint Louis,REG (Non-Conf),W 84-62,*,35,6,18,0.333,2,6,0.333,4,12,0.333,0.389,6,6,1.0,2,10,12,6,0,1,3,0,20,16.1,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+8,40,8,2022-12-11,Iona,N,St. Bonaventure,REG (Non-Conf),W 72-57,*,33,4,11,0.364,2,6,0.333,2,5,0.4,0.455,6,7,0.857,0,7,7,4,0,1,2,1,16,12.7,N,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+9,41,9,2022-12-13,Iona,N,Princeton,REG (Non-Conf),W 70-64,*,29,7,14,0.5,0,3,0.0,7,11,0.636,0.5,6,6,1.0,1,5,6,5,1,1,1,3,20,18.2,N,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+10,42,10,2022-12-18,Iona,@,New Mexico,REG (Non-Conf),L 74-82,*,34,3,12,0.25,3,8,0.375,0,4,0.0,0.375,5,5,1.0,0,4,4,3,1,0,1,3,14,8.9,A,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+11,43,11,2022-12-22,Iona,N,SMU,REG (Non-Conf),L 81-85,*,29,7,15,0.467,6,10,0.6,1,5,0.2,0.667,2,2,1.0,0,1,1,0,2,1,7,4,22,8.7,N,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+12,44,12,2022-12-23,Iona,N,Seattle,REG (Non-Conf),W 83-72,*,14,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,3,1.0,1,2,3,2,0,0,1,5,5,2.3,N,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+13,45,13,2022-12-25,Iona,N,Pepperdine,REG (Non-Conf),W 76-66,*,29,6,13,0.462,2,6,0.333,4,7,0.571,0.538,4,4,1.0,0,2,2,2,2,0,2,4,18,11.7,N,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+14,46,14,2023-01-01,Iona,,Saint Peter's,REG (Conf),W 73-55,*,31,7,9,0.778,4,6,0.667,3,3,1.0,1.0,0,0,,0,5,5,1,2,0,0,2,18,17.9,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+15,47,18,2023-01-15,Iona,,Rider,REG (Conf),L 67-70,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,1,0,1,1,1,3,1.6,H,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+16,48,19,2023-01-20,Iona,@,Manhattan,REG (Conf),W 84-76 (OT),*,40,8,17,0.471,2,8,0.25,6,9,0.667,0.529,3,3,1.0,1,5,6,6,4,1,2,1,21,21.0,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+17,49,20,2023-01-27,Iona,@,Siena,REG (Conf),L 53-70,*,28,4,13,0.308,2,5,0.4,2,8,0.25,0.385,0,0,,0,4,4,1,1,0,2,4,10,1.8,A,0,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+18,50,21,2023-01-29,Iona,,Quinnipiac,REG (Conf),W 78-72,*,23,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,6,1.0,1,5,6,2,2,0,2,3,17,15.1,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+19,51,22,2023-02-03,Iona,,Mount St. Mary's,REG (Conf),W 81-51,*,29,8,14,0.571,4,5,0.8,4,9,0.444,0.714,0,0,,1,1,2,2,3,0,0,3,20,17.6,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+20,52,23,2023-02-05,Iona,@,Fairfield,REG (Conf),W 70-61,*,34,4,10,0.4,0,3,0.0,4,7,0.571,0.4,5,6,0.833,0,4,4,3,2,1,2,3,13,10.0,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+21,53,24,2023-02-10,Iona,@,Canisius,REG (Conf),W 80-59,*,27,7,12,0.583,4,7,0.571,3,5,0.6,0.75,1,2,0.5,0,2,2,2,1,0,2,4,19,12.4,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+22,54,25,2023-02-12,Iona,@,Niagara,REG (Conf),W 72-55,*,38,12,23,0.522,4,8,0.5,8,15,0.533,0.609,2,2,1.0,0,3,3,4,1,0,3,0,30,20.4,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+23,55,26,2023-02-17,Iona,,Manhattan,REG (Conf),W 71-60,*,35,8,16,0.5,5,10,0.5,3,6,0.5,0.656,2,2,1.0,0,4,4,5,3,0,1,3,23,20.5,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+24,56,27,2023-02-19,Iona,@,Saint Peter's,REG (Conf),W 73-53,*,24,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,3,0,2,2,4,1,-2.3,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+25,57,28,2023-02-24,Iona,@,Mount St. Mary's,REG (Conf),W 80-68,*,35,9,15,0.6,1,3,0.333,8,12,0.667,0.633,9,9,1.0,0,6,6,4,4,0,5,2,28,23.9,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+26,58,29,2023-02-26,Iona,,Siena,REG (Conf),W 93-60,*,30,4,15,0.267,2,7,0.286,2,8,0.25,0.333,8,9,0.889,0,4,4,5,7,0,2,1,18,18.0,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+27,59,30,2023-03-02,Iona,,Marist,REG (Conf),W 93-74,*,34,6,16,0.375,3,5,0.6,3,11,0.273,0.469,3,3,1.0,0,4,4,9,5,0,1,1,18,20.3,H,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+28,60,31,2023-03-04,Iona,@,Rider,REG (Conf),W 80-78,*,38,7,17,0.412,3,5,0.6,4,12,0.333,0.5,0,0,,0,2,2,4,0,1,0,3,17,10.8,A,1,1,walter-claytonjr-1,Walter Clayton Jr.,2023
+29,61,32,2023-03-08,Iona,N,Mount St. Mary's,CTOURN,W 74-54,*,33,9,14,0.643,3,4,0.75,6,10,0.6,0.75,0,0,,2,9,11,1,2,1,0,3,21,21.1,N,1,0,walter-claytonjr-1,Walter Clayton Jr.,2023
+30,62,33,2023-03-10,Iona,N,Niagara,CTOURN,W 71-59,*,36,6,8,0.75,2,3,0.667,4,5,0.8,0.875,8,8,1.0,2,4,6,3,2,1,5,1,22,20.8,N,1,0,walter-claytonjr-1,Walter Clayton Jr.,2023
+31,63,34,2023-03-11,Iona,N,Marist,CTOURN,W 76-55,*,37,5,20,0.25,1,5,0.2,4,15,0.267,0.275,6,6,1.0,1,5,6,4,1,1,1,1,17,10.3,N,1,0,walter-claytonjr-1,Walter Clayton Jr.,2023
+32,64,35,2023-03-17,Iona,N,Connecticut,ROUND-64,L 63-87,*,31,4,10,0.4,3,6,0.5,1,4,0.25,0.55,4,4,1.0,2,2,4,4,0,1,2,3,15,11.9,N,0,0,walter-claytonjr-1,Walter Clayton Jr.,2023

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2023-11-06,Samford,@,Purdue,REG (Non-Conf),L 45-98,*,18,2,9,0.222,0,2,0.0,2,7,0.286,0.222,2,4,0.5,4,3,7,1,0,0,1,3,6,1.9,A,0,1,achor-achor-1,Achor Achor,2024
+2,32,2,2023-11-10,Samford,@,VCU,REG (Non-Conf),L 65-75,*,14,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,2,4,0,1,1,0,5,6,4.3,A,0,1,achor-achor-1,Achor Achor,2024
+3,33,3,2023-11-14,Samford,,Miss. Col.,REG (Non-Conf),W 96-52,*,14,8,13,0.615,1,2,0.5,7,11,0.636,0.654,0,0,,3,1,4,2,2,1,0,0,17,17.6,H,1,1,achor-achor-1,Achor Achor,2024
+4,34,4,2023-11-17,Samford,,South Carolina State,REG (Non-Conf),W 89-72,*,31,6,11,0.545,0,1,0.0,6,10,0.6,0.545,5,6,0.833,4,10,14,1,0,5,1,3,17,19.1,H,1,1,achor-achor-1,Achor Achor,2024
+5,35,5,2023-11-22,Samford,,Alabama State,REG (Non-Conf),W 99-67,*,18,4,7,0.571,0,2,0.0,4,5,0.8,0.571,5,6,0.833,1,3,4,1,1,0,1,0,13,11.6,H,1,1,achor-achor-1,Achor Achor,2024
+6,36,6,2023-11-24,Samford,,Merrimack,REG (Non-Conf),W 79-71,*,30,5,13,0.385,0,1,0.0,5,12,0.417,0.385,1,2,0.5,2,6,8,1,1,3,4,3,11,5.3,H,1,1,achor-achor-1,Achor Achor,2024
+7,37,7,2023-11-25,Samford,,North Carolina A&T,REG (Non-Conf),W 101-83,*,16,8,9,0.889,1,1,1.0,7,8,0.875,0.944,9,10,0.9,3,3,6,2,0,0,0,3,26,25.7,H,1,1,achor-achor-1,Achor Achor,2024
+8,38,8,2023-11-30,Samford,,Louisiana,REG (Non-Conf),W 88-65,*,23,9,11,0.818,1,2,0.5,8,9,0.889,0.864,6,8,0.75,2,6,8,1,2,2,3,4,25,22.8,H,1,1,achor-achor-1,Achor Achor,2024
+9,39,9,2023-12-03,Samford,,LaGrange,REG (Non-Conf),W 128-82,*,15,8,11,0.727,0,1,0.0,8,10,0.8,0.727,4,6,0.667,3,5,8,1,0,2,0,1,20,20.0,H,1,1,achor-achor-1,Achor Achor,2024
+10,40,10,2023-12-11,Samford,,Alabama A&M,REG (Non-Conf),W 118-91,*,16,2,6,0.333,1,1,1.0,1,5,0.2,0.417,0,0,,3,0,3,0,3,2,3,2,5,4.3,H,1,1,achor-achor-1,Achor Achor,2024
+11,41,11,2023-12-16,Samford,,Belmont,REG (Non-Conf),W 99-93,*,23,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,0,,2,4,6,1,3,2,1,4,14,15.9,H,1,1,achor-achor-1,Achor Achor,2024
+12,42,12,2023-12-19,Samford,@,Valparaiso,REG (Non-Conf),W 79-61,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,1,4,5,2,1,2,3,3,10,6.4,A,1,1,achor-achor-1,Achor Achor,2024
+13,43,13,2023-12-21,Samford,@,Texas Southern,REG (Non-Conf),W 87-65,*,18,6,10,0.6,2,3,0.667,4,7,0.571,0.7,1,4,0.25,1,6,7,1,0,1,4,4,15,7.5,A,1,1,achor-achor-1,Achor Achor,2024
+14,44,14,2024-01-03,Samford,,Chattanooga,REG (Conf),W 89-74,*,30,7,8,0.875,1,2,0.5,6,6,1.0,0.938,5,6,0.833,0,3,3,2,1,1,4,4,20,15.2,H,1,1,achor-achor-1,Achor Achor,2024
+15,45,15,2024-01-06,Samford,@,The Citadel,REG (Conf),W 80-64,*,12,8,10,0.8,1,1,1.0,7,9,0.778,0.85,2,2,1.0,1,2,3,1,2,2,2,2,19,17.8,A,1,1,achor-achor-1,Achor Achor,2024
+16,46,16,2024-01-11,Samford,,UNC Greensboro,REG (Conf),W 79-70,*,21,6,8,0.75,2,2,1.0,4,6,0.667,0.875,8,11,0.727,0,1,1,0,0,3,2,4,22,16.4,H,1,1,achor-achor-1,Achor Achor,2024
+17,47,17,2024-01-13,Samford,,VMI,REG (Conf),W 134-96,*,13,7,11,0.636,1,2,0.5,6,9,0.667,0.682,3,3,1.0,4,3,7,3,1,2,1,2,18,19.5,H,1,1,achor-achor-1,Achor Achor,2024
+18,48,18,2024-01-16,Samford,@,Western Carolina,REG (Conf),W 75-71,*,30,12,22,0.545,5,9,0.556,7,13,0.538,0.659,6,8,0.75,1,9,10,0,0,2,2,2,35,25.6,A,1,1,achor-achor-1,Achor Achor,2024
+19,49,19,2024-01-20,Samford,,Mercer,REG (Conf),W 87-80,*,29,7,12,0.583,0,0,,7,12,0.583,0.583,6,11,0.545,4,1,5,0,2,2,2,5,20,14.9,H,1,1,achor-achor-1,Achor Achor,2024
+20,50,20,2024-01-24,Samford,@,Furman,REG (Conf),L 68-78,*,33,9,12,0.75,0,2,0.0,9,10,0.9,0.75,1,4,0.25,2,4,6,1,1,3,3,2,19,15.6,A,0,1,achor-achor-1,Achor Achor,2024
+21,51,21,2024-01-27,Samford,@,East Tennessee State,REG (Conf),W 75-72,*,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,1,0.0,1,4,5,2,0,1,3,5,3,-0.1,A,1,1,achor-achor-1,Achor Achor,2024
+22,52,22,2024-01-31,Samford,,Wofford,REG (Conf),W 81-79,*,31,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,3,0.333,3,5,8,8,1,2,3,0,7,11.1,H,1,1,achor-achor-1,Achor Achor,2024
+23,53,23,2024-02-03,Samford,@,Chattanooga,REG (Conf),W 78-56,*,30,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,4,0.75,1,5,6,1,0,4,3,3,12,8.4,A,1,1,achor-achor-1,Achor Achor,2024
+24,54,24,2024-02-08,Samford,@,UNC Greensboro,REG (Conf),W 78-69,*,27,4,8,0.5,1,3,0.333,3,5,0.6,0.563,7,11,0.636,2,5,7,1,0,2,5,3,16,9.2,A,1,1,achor-achor-1,Achor Achor,2024
+25,55,25,2024-02-10,Samford,@,VMI,REG (Conf),W 102-63,*,11,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,1,2,3,5,0,1,1,2,7,8.4,A,1,1,achor-achor-1,Achor Achor,2024
+26,56,26,2024-02-14,Samford,,Western Carolina,REG (Conf),W 88-62,*,17,5,12,0.417,0,1,0.0,5,11,0.455,0.417,8,8,1.0,2,3,5,2,0,2,0,5,18,14.7,H,1,1,achor-achor-1,Achor Achor,2024
+27,57,27,2024-02-17,Samford,@,Mercer,REG (Conf),L 84-88,*,25,5,7,0.714,1,2,0.5,4,5,0.8,0.786,9,13,0.692,4,5,9,1,1,0,3,4,20,16.9,A,0,1,achor-achor-1,Achor Achor,2024
+28,58,28,2024-02-21,Samford,,Furman,REG (Conf),W 74-72,*,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,2,2,0,-1.8,H,1,1,achor-achor-1,Achor Achor,2024
+29,59,31,2024-03-02,Samford,,The Citadel,REG (Conf),W 92-80,*,25,7,12,0.583,0,2,0.0,7,10,0.7,0.583,7,7,1.0,3,1,4,4,1,1,1,3,21,20.1,H,1,1,achor-achor-1,Achor Achor,2024
+30,60,32,2024-03-09,Samford,N,Mercer,CTOURN,W 70-57,*,27,4,11,0.364,1,2,0.5,3,9,0.333,0.409,3,4,0.75,2,2,4,1,0,2,0,4,12,8.0,N,1,0,achor-achor-1,Achor Achor,2024
+31,61,33,2024-03-10,Samford,N,Furman,CTOURN,W 84-77,*,32,12,15,0.8,1,1,1.0,11,14,0.786,0.833,3,5,0.6,4,10,14,1,1,3,2,3,28,27.9,N,1,0,achor-achor-1,Achor Achor,2024
+32,62,34,2024-03-11,Samford,N,East Tennessee State,CTOURN,W 76-69,*,32,7,9,0.778,0,1,0.0,7,8,0.875,0.778,11,14,0.786,4,5,9,1,2,4,3,4,25,25.5,N,1,0,achor-achor-1,Achor Achor,2024
+33,63,35,2024-03-21,Samford,N,Kansas,ROUND-64,L 89-93,*,31,9,22,0.409,2,6,0.333,7,16,0.438,0.455,3,5,0.6,2,6,8,2,0,0,0,1,23,14.6,N,0,0,achor-achor-1,Achor Achor,2024

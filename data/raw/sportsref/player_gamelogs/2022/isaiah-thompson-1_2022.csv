@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2021-11-09,Purdue,,Bellarmine,REG (Non-Conf),W 96-67,*,24,5,9,0.556,5,8,0.625,0,1,0.0,0.833,0,0,,0,1,1,4,0,0,0,1,15,13.4,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+2,61,2,2021-11-12,Purdue,,Indiana State,REG (Non-Conf),W 92-67,*,21,1,3,0.333,1,3,0.333,0,0,,0.5,1,3,0.333,0,1,1,1,0,0,0,2,4,1.7,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+3,62,3,2021-11-16,Purdue,,Wright State,REG (Non-Conf),W 96-52,*,20,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,3,0,0,0,0,0,0.0,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+4,63,4,2021-11-20,Purdue,N,North Carolina,REG (Non-Conf),W 93-84,*,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,2,0,0,0,2,3,2.6,N,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+5,64,5,2021-11-21,Purdue,N,Villanova,REG (Non-Conf),W 80-74,*,21,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,0,0,0,0,0,0,2,2,12,7.3,N,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+6,65,6,2021-11-26,Purdue,,Omaha,REG (Non-Conf),W 97-40,,19,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,1,1.0,0,3,3,1,0,0,1,1,6,4.9,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+7,66,7,2021-11-30,Purdue,,Florida State,REG (Non-Conf),W 93-65,*,22,4,4,1.0,2,2,1.0,2,2,1.0,1.25,2,2,1.0,1,1,2,1,1,0,1,0,12,12.5,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+8,67,8,2021-12-03,Purdue,,Iowa,REG (Conf),W 77-70,*,16,0,0,,0,0,,0,0,,,5,6,0.833,1,0,1,1,0,0,1,0,5,5.0,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+9,68,9,2021-12-09,Purdue,@,Rutgers,REG (Conf),L 68-70,*,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,A,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+10,69,10,2021-12-12,Purdue,N,NC State,REG (Non-Conf),W 82-72 (OT),*,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,2,2,0,0,2,0,2.6,N,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+11,70,11,2021-12-18,Purdue,N,Butler,REG (Non-Conf),W 77-48,*,20,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,0,0,2,0,0,2,1,6,1.6,N,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+12,71,12,2021-12-20,Purdue,,Incarnate Word,REG (Non-Conf),W 79-59,*,20,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,2,0,2,0,0,0,0,1,8,5.6,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+13,72,13,2021-12-29,Purdue,,Nicholls State,REG (Non-Conf),W 104-90,*,22,5,7,0.714,3,5,0.6,2,2,1.0,0.929,2,2,1.0,0,2,2,1,0,0,0,2,15,12.6,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+14,73,14,2022-01-03,Purdue,,Wisconsin,REG (Conf),L 69-74,*,21,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,2,3,2,0,0,1,1,0,-0.1,H,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+15,74,15,2022-01-08,Purdue,@,Penn State,REG (Conf),W 74-67,*,25,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,0,1,0,0,0,0,0,3,1.3,A,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+16,75,16,2022-01-14,Purdue,,Nebraska,REG (Conf),W 92-65,*,21,0,6,0.0,0,6,0.0,0,0,,0.0,0,0,,0,2,2,2,1,0,2,1,0,-3.6,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+17,76,17,2022-01-17,Purdue,@,Illinois,REG (Conf),W 96-88 (2OT),*,19,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,0,0,3,0.6,A,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+18,77,18,2022-01-20,Purdue,@,Indiana,REG (Conf),L 65-68,*,26,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,2,0,1,0,2,8,6.2,A,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+19,78,19,2022-01-23,Purdue,,Northwestern,REG (Conf),W 80-60,*,15,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,0,0,1,0,0,0,2,8,4.5,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+20,79,20,2022-01-27,Purdue,@,Iowa,REG (Conf),W 83-73,*,29,6,8,0.75,4,6,0.667,2,2,1.0,1.0,2,2,1.0,0,1,1,2,0,1,2,2,18,14.4,A,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+21,80,21,2022-01-30,Purdue,,Ohio State,REG (Conf),W 81-78,*,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.8,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+22,81,22,2022-02-02,Purdue,@,Minnesota,REG (Conf),W 88-73,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,0,0,-0.7,A,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+23,82,23,2022-02-05,Purdue,,Michigan,REG (Conf),W 82-76,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,0,0,0,0,2,1.7,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+24,83,24,2022-02-08,Purdue,,Illinois,REG (Conf),W 84-68,,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,1,3,2.3,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+25,84,25,2022-02-10,Purdue,@,Michigan,REG (Conf),L 58-82,,18,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,0,0,0,2,0,0.9,A,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+26,85,26,2022-02-13,Purdue,,Maryland,REG (Conf),W 62-61,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,1,2,2,0.9,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+27,86,27,2022-02-16,Purdue,@,Northwestern,REG (Conf),W 70-64,,21,2,4,0.5,2,3,0.667,0,1,0.0,0.75,1,3,0.333,0,1,1,2,0,0,0,1,7,5.5,A,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+28,87,28,2022-02-20,Purdue,,Rutgers,REG (Conf),W 84-72,,9,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,0,1,3,3.3,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+29,88,29,2022-02-26,Purdue,@,Michigan State,REG (Conf),L 65-68,,15,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+30,89,30,2022-03-01,Purdue,@,Wisconsin,REG (Conf),L 67-70,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,isaiah-thompson-1,Isaiah Thompson,2022
+31,90,31,2022-03-05,Purdue,,Indiana,REG (Conf),W 69-67,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,isaiah-thompson-1,Isaiah Thompson,2022
+32,91,32,2022-03-11,Purdue,N,Penn State,CTOURN,W 69-61,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,0,isaiah-thompson-1,Isaiah Thompson,2022
+33,92,33,2022-03-12,Purdue,N,Michigan State,CTOURN,W 75-70,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,1,0,1,0,-0.4,N,1,0,isaiah-thompson-1,Isaiah Thompson,2022
+34,93,34,2022-03-13,Purdue,N,Iowa,CTOURN,L 66-75,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,2,1,0,-1.1,N,0,0,isaiah-thompson-1,Isaiah Thompson,2022
+35,94,35,2022-03-18,Purdue,N,Yale,ROUND-64,W 78-56,,13,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,0,0,0,0,2,6,4.2,N,1,0,isaiah-thompson-1,Isaiah Thompson,2022
+36,95,36,2022-03-20,Purdue,N,Texas,ROUND-32,W 81-71,,4,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,0,1,0,0,2,1,1.4,N,1,0,isaiah-thompson-1,Isaiah Thompson,2022
+37,96,37,2022-03-25,Purdue,N,Saint Peter's,ROUND-16,L 64-67,,13,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,1,0,1,0,0,0,1,1,5,4.0,N,0,0,isaiah-thompson-1,Isaiah Thompson,2022

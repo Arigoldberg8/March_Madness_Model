@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,6,1,2018-11-06,Utah State,@,Montana State,REG (Non-Conf),W 101-71,*,20,2,7,0.286,1,6,0.167,1,1,1.0,0.357,0,0,,0,3,3,2,0,0,1,0,5,2.2,A,1,1,brock-miller-1,Brock Miller,2019
+2,7,2,2018-11-09,Utah State,,Hartford,REG (Non-Conf),W 100-73,*,28,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,3,1,0,0,1,3,3.6,H,1,1,brock-miller-1,Brock Miller,2019
+3,8,3,2018-11-13,Utah State,,Mississippi Valley State,REG (Non-Conf),W 94-59,*,24,7,12,0.583,6,11,0.545,1,1,1.0,0.833,6,6,1.0,1,0,1,1,0,0,0,0,26,21.8,H,1,1,brock-miller-1,Brock Miller,2019
+4,9,4,2018-11-16,Utah State,,Utah Valley,REG (Non-Conf),W 65-46,*,25,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,2,2,1,1,1,1,4,5,1.3,H,1,1,brock-miller-1,Brock Miller,2019
+5,10,5,2018-11-19,Utah State,N,St. Mary's (CA),REG (Non-Conf),W 80-63,*,27,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,1,0,0,1,1,8,5.3,N,1,1,brock-miller-1,Brock Miller,2019
+6,11,6,2018-11-21,Utah State,N,Arizona State,REG (Non-Conf),L 82-87,*,30,4,12,0.333,2,8,0.25,2,4,0.5,0.417,0,0,,0,1,1,1,1,0,1,1,10,3.8,N,0,1,brock-miller-1,Brock Miller,2019
+7,12,7,2018-11-28,Utah State,,Northern Iowa,REG (Non-Conf),W 71-52,*,23,1,8,0.125,0,5,0.0,1,3,0.333,0.125,0,0,,0,4,4,0,0,0,0,2,2,-2.8,H,1,1,brock-miller-1,Brock Miller,2019
+8,13,8,2018-12-01,Utah State,@,UC Irvine,REG (Non-Conf),W 89-65,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,brock-miller-1,Brock Miller,2019
+9,14,9,2018-12-05,Utah State,@,Brigham Young,REG (Non-Conf),L 80-95,*,28,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,1,0,0,0,2,3,1.8,A,0,1,brock-miller-1,Brock Miller,2019
+10,15,10,2018-12-08,Utah State,N,Weber State,REG (Non-Conf),W 76-67,*,21,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,3,3,1,0,0,0,2,9,7.5,N,1,1,brock-miller-1,Brock Miller,2019
+11,16,11,2018-12-15,Utah State,,Alabama State,REG (Non-Conf),W 86-48,*,21,2,8,0.25,1,7,0.143,1,1,1.0,0.313,0,0,,0,0,0,2,0,0,0,2,5,0.8,H,1,1,brock-miller-1,Brock Miller,2019
+12,17,12,2018-12-20,Utah State,@,Houston,REG (Non-Conf),L 50-60,*,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,1,1,0,1,0,5,3.0,A,0,1,brock-miller-1,Brock Miller,2019
+13,18,13,2018-12-28,Utah State,,Eastern Ore.,REG (Non-Conf),W 84-57,*,24,3,8,0.375,2,7,0.286,1,1,1.0,0.5,1,2,0.5,0,2,2,0,0,0,1,2,9,3.0,H,1,1,brock-miller-1,Brock Miller,2019
+14,19,14,2019-01-02,Utah State,@,Nevada,REG (Conf),L 49-72,*,32,2,5,0.4,2,4,0.5,0,1,0.0,0.6,4,4,1.0,0,2,2,1,0,0,1,1,10,7.2,A,0,1,brock-miller-1,Brock Miller,2019
+15,20,15,2019-01-05,Utah State,,Air Force,REG (Conf),W 79-62,*,34,5,14,0.357,5,12,0.417,0,2,0.0,0.536,0,0,,0,4,4,1,0,0,0,3,15,7.9,H,1,1,brock-miller-1,Brock Miller,2019
+16,21,16,2019-01-09,Utah State,,Fresno State,REG (Conf),L 77-78,*,31,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,2,2,1,0,0,0,3,11,7.1,H,0,1,brock-miller-1,Brock Miller,2019
+17,22,17,2019-01-12,Utah State,@,Wyoming,REG (Conf),W 71-55,*,35,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,2,1,3,2,0,0,1,1,3,0.9,A,1,1,brock-miller-1,Brock Miller,2019
+18,23,18,2019-01-16,Utah State,@,San Jose State,REG (Conf),W 81-63,*,27,5,12,0.417,3,10,0.3,2,2,1.0,0.542,0,0,,0,0,0,4,1,0,0,3,13,9.2,A,1,1,brock-miller-1,Brock Miller,2019
+19,24,19,2019-01-19,Utah State,,Colorado State,REG (Conf),W 87-72,*,27,6,11,0.545,6,9,0.667,0,2,0.0,0.818,0,0,,1,0,1,1,0,0,2,3,18,10.9,H,1,1,brock-miller-1,Brock Miller,2019
+20,25,20,2019-01-26,Utah State,@,New Mexico,REG (Conf),W 68-66,*,35,5,6,0.833,4,5,0.8,1,1,1.0,1.167,2,2,1.0,1,0,1,2,0,0,1,1,16,14.5,A,1,1,brock-miller-1,Brock Miller,2019
+21,26,21,2019-01-30,Utah State,,San Jose State,REG (Conf),W 103-73,*,27,4,15,0.267,3,14,0.214,1,1,1.0,0.367,3,3,1.0,2,1,3,2,0,1,2,2,14,6.1,H,1,1,brock-miller-1,Brock Miller,2019
+22,27,22,2019-02-02,Utah State,,UNLV,REG (Conf),W 82-65,*,23,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,1,1,1,0,0,0,2,6,2.1,H,1,1,brock-miller-1,Brock Miller,2019
+23,28,23,2019-02-05,Utah State,@,Fresno State,REG (Conf),W 82-81,*,34,6,9,0.667,5,7,0.714,1,2,0.5,0.944,0,0,,0,0,0,2,1,0,0,1,17,15.1,A,1,1,brock-miller-1,Brock Miller,2019
+24,29,24,2019-02-09,Utah State,@,San Diego State,REG (Conf),L 63-68,*,23,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,3,4,1,0,0,1,2,3,-0.3,A,0,1,brock-miller-1,Brock Miller,2019
+25,30,25,2019-02-13,Utah State,,Wyoming,REG (Conf),W 76-59,*,22,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,1,0,0,0,0,2,0.6,H,1,1,brock-miller-1,Brock Miller,2019
+26,31,26,2019-02-16,Utah State,@,Air Force,REG (Conf),W 76-62,*,32,3,13,0.231,3,12,0.25,0,1,0.0,0.346,0,0,,0,1,1,1,0,0,1,2,9,0.3,A,1,1,brock-miller-1,Brock Miller,2019
+27,32,27,2019-02-20,Utah State,,New Mexico,REG (Conf),W 71-55,*,24,1,11,0.091,1,9,0.111,0,2,0.0,0.136,0,0,,0,1,1,1,1,0,0,1,3,-2.7,H,1,1,brock-miller-1,Brock Miller,2019
+28,33,28,2019-02-23,Utah State,@,Boise State,REG (Conf),W 78-71 (OT),*,39,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,3,2,5,1,0,0,0,2,11,9.6,A,1,1,brock-miller-1,Brock Miller,2019
+29,34,29,2019-02-26,Utah State,,San Diego State,REG (Conf),W 70-54,*,17,0,4,0.0,0,0,,0,4,0.0,0.0,0,2,0.0,0,2,2,0,1,1,0,1,0,-1.7,H,1,1,brock-miller-1,Brock Miller,2019
+30,35,30,2019-03-02,Utah State,,Nevada,REG (Conf),W 81-76,*,24,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,0,0,1,0,0,1,0,5,2.3,H,1,1,brock-miller-1,Brock Miller,2019
+31,36,31,2019-03-05,Utah State,@,Colorado State,REG (Conf),W 100-96 (OT),*,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,0,1,3,2.9,A,1,1,brock-miller-1,Brock Miller,2019
+32,37,32,2019-03-14,Utah State,N,New Mexico,CTOURN,W 91-83,*,22,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,1,0,1,0,1,0,3,1,6,1.6,N,1,0,brock-miller-1,Brock Miller,2019
+33,38,33,2019-03-15,Utah State,N,Fresno State,CTOURN,W 85-60,*,33,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,0,0,0,2,1,0,0,0,10,8.4,N,1,0,brock-miller-1,Brock Miller,2019
+34,39,34,2019-03-16,Utah State,N,San Diego State,CTOURN,W 64-57,*,24,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,2,3,1,1,0,1,2,6,3.8,N,1,0,brock-miller-1,Brock Miller,2019
+35,40,35,2019-03-22,Utah State,N,Washington,ROUND-64,L 61-78,*,27,4,11,0.364,3,6,0.5,1,5,0.2,0.5,2,2,1.0,1,4,5,1,0,0,3,3,13,5.3,N,0,0,brock-miller-1,Brock Miller,2019

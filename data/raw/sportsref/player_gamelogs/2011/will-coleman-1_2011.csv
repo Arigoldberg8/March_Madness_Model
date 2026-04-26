@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2010-11-12,Memphis,,Centenary (LA),REG (Non-Conf),W 104-40,*,16,1,3,0.333,0,0,1,3,0.333,0.333,2,5,0.4,1,7,8,1,0,0,2,2,4,1.8,H,1,1,will-coleman-1,Will Coleman,2011
+2,36,2,2010-11-15,Memphis,,Miami (FL),REG (Non-Conf),W 72-68,*,20,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,1,2,0,0,3,0,2,3,3.2,H,1,1,will-coleman-1,Will Coleman,2011
+3,37,3,2010-11-17,Memphis,,Northwestern State,REG (Non-Conf),W 94-79,*,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,1,2,-0.1,H,1,1,will-coleman-1,Will Coleman,2011
+4,38,4,2010-11-21,Memphis,N,Louisiana State,REG (Non-Conf),W 70-61,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,1,0,2,0,-1.6,N,1,1,will-coleman-1,Will Coleman,2011
+5,39,5,2010-11-23,Memphis,,UT Martin,REG (Non-Conf),W 102-80,,19,8,9,0.889,0,0,8,9,0.889,0.889,4,6,0.667,1,6,7,1,0,2,1,2,20,18.9,H,1,1,will-coleman-1,Will Coleman,2011
+6,40,6,2010-12-01,Memphis,,Arkansas State,REG (Non-Conf),W 78-71 (OT),,18,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,3,4,0,1,0,1,5,3,1.2,H,1,1,will-coleman-1,Will Coleman,2011
+7,41,7,2010-12-04,Memphis,,Western Kentucky,REG (Non-Conf),W 77-61,,6,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,1,2,3,0,0,1,0,3,7,6.9,H,1,1,will-coleman-1,Will Coleman,2011
+8,42,8,2010-12-07,Memphis,N,Kansas,REG (Non-Conf),L 68-81,,14,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,0,3,3,1,2,2,0,2,6,7.2,N,0,1,will-coleman-1,Will Coleman,2011
+9,43,9,2010-12-16,Memphis,,Austin Peay,REG (Non-Conf),W 70-68 (OT),*,22,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,0,4,4,1,0,4,3,2,5,4.2,H,1,1,will-coleman-1,Will Coleman,2011
+10,44,10,2010-12-20,Memphis,,Texas A&M–Corpus Christi,REG (Non-Conf),W 68-63,*,32,6,9,0.667,0,0,6,9,0.667,0.667,3,4,0.75,3,6,9,1,0,4,0,1,15,17.7,H,1,1,will-coleman-1,Will Coleman,2011
+11,45,11,2010-12-23,Memphis,,Georgetown,REG (Non-Conf),L 69-86,*,29,5,8,0.625,0,0,5,8,0.625,0.625,2,2,1.0,2,4,6,1,1,0,1,3,12,10.5,H,0,1,will-coleman-1,Will Coleman,2011
+12,46,12,2010-12-30,Memphis,,Lipscomb,REG (Non-Conf),W 88-70,*,24,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,3,4,7,0,1,0,1,3,6,5.8,H,1,1,will-coleman-1,Will Coleman,2011
+13,47,13,2011-01-02,Memphis,,Tennessee State,REG (Non-Conf),W 91-86,*,13,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,0,0,0,0,0,0,0,0,2,0.6,H,1,1,will-coleman-1,Will Coleman,2011
+14,48,14,2011-01-05,Memphis,@,Tennessee,REG (Non-Conf),L 84-104,*,33,6,9,0.667,0,0,6,9,0.667,0.667,5,8,0.625,4,5,9,0,1,3,1,2,17,17.5,A,0,1,will-coleman-1,Will Coleman,2011
+15,49,15,2011-01-08,Memphis,,East Carolina,REG (Conf),W 61-58,*,20,2,2,1.0,0,0,2,2,1.0,1.0,7,12,0.583,1,2,3,0,1,1,3,2,11,7.6,H,1,1,will-coleman-1,Will Coleman,2011
+16,50,16,2011-01-12,Memphis,@,SMU,REG (Conf),L 58-64,*,15,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,2,2,4,1,0,0,3,2,2,-1.5,A,0,1,will-coleman-1,Will Coleman,2011
+17,51,17,2011-01-15,Memphis,,Marshall,REG (Conf),W 77-61,,29,8,11,0.727,0,0,8,11,0.727,0.727,3,3,1.0,3,8,11,0,0,1,2,3,19,16.5,H,1,1,will-coleman-1,Will Coleman,2011
+18,52,18,2011-01-19,Memphis,@,Southern Mississippi,REG (Conf),W 76-75,,19,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,0,2,2,0,0,0,2,5,6,-0.4,A,1,1,will-coleman-1,Will Coleman,2011
+19,53,19,2011-01-22,Memphis,@,UAB,REG (Conf),W 76-73 (OT),,28,5,6,0.833,0,0,5,6,0.833,0.833,3,4,0.75,0,3,3,0,0,0,1,3,13,9.1,A,1,1,will-coleman-1,Will Coleman,2011
+20,54,20,2011-01-26,Memphis,,UCF,REG (Conf),W 77-61,,22,5,9,0.556,0,0,5,9,0.556,0.556,0,2,0.0,1,4,5,0,0,0,0,3,10,5.6,H,1,1,will-coleman-1,Will Coleman,2011
+21,55,21,2011-01-29,Memphis,@,Marshall,REG (Conf),L 70-85,,11,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,0,2,0,2,0,1,2,2,3.3,A,0,1,will-coleman-1,Will Coleman,2011
+22,56,22,2011-02-02,Memphis,,Tulsa,REG (Conf),L 65-68,*,33,3,8,0.375,0,0,3,8,0.375,0.375,5,8,0.625,0,10,10,1,0,2,0,5,11,8.5,H,0,1,will-coleman-1,Will Coleman,2011
+23,57,23,2011-02-05,Memphis,N,Gonzaga,REG (Non-Conf),W 62-58,,30,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,3,4,7,1,0,1,0,4,9,9.8,N,1,1,will-coleman-1,Will Coleman,2011
+24,58,24,2011-02-09,Memphis,@,UCF,REG (Conf),W 63-62,,25,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,1,4,5,1,1,0,1,2,10,8.9,A,1,1,will-coleman-1,Will Coleman,2011
+25,59,25,2011-02-12,Memphis,,Southern Mississippi,REG (Conf),W 67-61,,15,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,1,3,0,0,0,1,3,4,2.2,H,1,1,will-coleman-1,Will Coleman,2011
+26,60,26,2011-02-16,Memphis,,UAB,REG (Conf),W 62-58,,8,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,H,1,1,will-coleman-1,Will Coleman,2011
+27,61,27,2011-02-19,Memphis,@,Rice,REG (Conf),L 52-67,,4,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,3,0,0,-2.4,A,0,1,will-coleman-1,Will Coleman,2011
+28,62,28,2011-02-22,Memphis,,Houston,REG (Conf),W 69-58,*,18,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,3,4,0,0,1,0,3,2,1.4,H,1,1,will-coleman-1,Will Coleman,2011
+29,63,29,2011-02-26,Memphis,@,UTEP,REG (Conf),L 47-74,*,19,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,0,0,4,2,0.7,A,0,1,will-coleman-1,Will Coleman,2011
+30,64,30,2011-03-02,Memphis,@,East Carolina,REG (Conf),L 57-68,,20,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,5,6,0,1,1,0,2,8,9.2,A,0,1,will-coleman-1,Will Coleman,2011
+31,65,31,2011-03-05,Memphis,,Tulane,REG (Conf),W 66-61,*,6,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,2,3,0,0,0,0,0,3,3.6,H,1,1,will-coleman-1,Will Coleman,2011
+32,66,32,2011-03-10,Memphis,N,Southern Mississippi,CTOURN,W 66-63,,17,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,2,3,5,0,0,1,1,4,4,2.6,N,1,0,will-coleman-1,Will Coleman,2011
+33,67,33,2011-03-11,Memphis,N,East Carolina,CTOURN,W 76-56,,20,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,2,2,4,0,0,3,2,1,11,9.7,N,1,0,will-coleman-1,Will Coleman,2011
+34,68,34,2011-03-12,Memphis,N,UTEP,CTOURN,W 67-66,,16,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,1,0,1,0,0,1,4,2,8,3.0,N,1,0,will-coleman-1,Will Coleman,2011
+35,69,35,2011-03-18,Memphis,N,Arizona,ROUND-64,L 75-77,,28,4,7,0.571,0,0,4,7,0.571,0.571,1,4,0.25,4,7,11,0,0,0,2,0,9,7.4,N,0,0,will-coleman-1,Will Coleman,2011

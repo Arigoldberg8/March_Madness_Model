@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Kentucky,,Marist,REG (Non-Conf),W 108-58,*,27,7,12,0.583,0,1,0.0,7,11,0.636,0.583,2,3,0.667,2,2,4,4,3,0,3,4,16,13.2,H,1,1,marquis-teague-1,Marquis Teague,2012
+2,2,2,2011-11-15,Kentucky,N,Kansas,REG (Non-Conf),W 75-65,*,33,4,9,0.444,1,1,1.0,3,8,0.375,0.5,3,7,0.429,0,2,2,3,0,0,6,4,12,0.8,N,1,1,marquis-teague-1,Marquis Teague,2012
+3,3,3,2011-11-19,Kentucky,N,Penn State,REG (Non-Conf),W 85-47,*,23,3,6,0.5,3,3,1.0,0,3,0.0,0.75,0,0,,0,1,1,2,1,2,3,3,9,5.9,N,1,1,marquis-teague-1,Marquis Teague,2012
+4,4,4,2011-11-20,Kentucky,N,Old Dominion,REG (Non-Conf),W 62-52,*,32,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,1,0.0,1,1,2,2,2,0,6,1,6,1.3,N,1,1,marquis-teague-1,Marquis Teague,2012
+5,5,5,2011-11-23,Kentucky,,Radford,REG (Non-Conf),W 88-40,*,31,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,0,,0,3,3,5,2,1,2,2,13,14.1,H,1,1,marquis-teague-1,Marquis Teague,2012
+6,6,6,2011-11-26,Kentucky,,Portland,REG (Non-Conf),W 87-63,*,34,4,12,0.333,1,4,0.25,3,8,0.375,0.375,5,6,0.833,0,1,1,8,4,0,0,1,14,16.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+7,7,7,2011-12-01,Kentucky,,St. John's (NY),REG (Non-Conf),W 81-59,*,31,2,9,0.222,1,3,0.333,1,6,0.167,0.278,0,1,0.0,1,4,5,5,2,1,2,2,5,4.4,H,1,1,marquis-teague-1,Marquis Teague,2012
+8,8,8,2011-12-03,Kentucky,,North Carolina,REG (Non-Conf),W 73-72,*,30,3,11,0.273,0,4,0.0,3,7,0.429,0.273,1,3,0.333,0,2,2,4,0,0,1,2,7,1.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+9,9,9,2011-12-10,Kentucky,@,Indiana,REG (Non-Conf),L 72-73,*,31,6,11,0.545,0,1,0.0,6,10,0.6,0.545,3,3,1.0,0,1,1,5,1,0,3,2,15,10.7,A,0,1,marquis-teague-1,Marquis Teague,2012
+10,10,10,2011-12-17,Kentucky,,Chattanooga,REG (Non-Conf),W 87-62,*,30,5,13,0.385,1,5,0.2,4,8,0.5,0.423,0,0,,1,0,1,8,2,0,1,3,11,10.0,H,1,1,marquis-teague-1,Marquis Teague,2012
+11,11,11,2011-12-20,Kentucky,,Samford,REG (Non-Conf),W 82-50,*,33,6,11,0.545,1,2,0.5,5,9,0.556,0.591,1,3,0.333,2,2,4,5,1,0,4,2,14,9.6,H,1,1,marquis-teague-1,Marquis Teague,2012
+12,12,12,2011-12-22,Kentucky,,Loyola (MD),REG (Non-Conf),W 87-63,*,36,2,8,0.25,0,0,,2,8,0.25,0.25,5,6,0.833,0,3,3,3,0,1,4,3,9,2.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+13,13,13,2011-12-28,Kentucky,,Lamar,REG (Non-Conf),W 86-64,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,6,7,0.857,1,1,2,4,1,1,6,2,15,9.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+14,14,14,2011-12-31,Kentucky,,Louisville,REG (Non-Conf),W 69-62,*,29,1,8,0.125,0,3,0.0,1,5,0.2,0.125,2,2,1.0,0,3,3,5,0,1,4,5,4,-2.1,H,1,1,marquis-teague-1,Marquis Teague,2012
+15,15,15,2012-01-03,Kentucky,N,Little Rock,REG (Non-Conf),W 73-51,*,27,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,0,1,1,5,0,1,2,4,6,2.8,N,1,1,marquis-teague-1,Marquis Teague,2012
+16,16,16,2012-01-07,Kentucky,,South Carolina,REG (Conf),W 79-64,*,36,6,10,0.6,1,1,1.0,5,9,0.556,0.65,4,5,0.8,0,3,3,4,1,0,2,1,17,14.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+17,17,17,2012-01-11,Kentucky,@,Auburn,REG (Conf),W 68-53,*,35,4,11,0.364,2,3,0.667,2,8,0.25,0.455,2,2,1.0,2,2,4,3,0,0,3,4,12,5.4,A,1,1,marquis-teague-1,Marquis Teague,2012
+18,18,18,2012-01-14,Kentucky,@,Tennessee,REG (Conf),W 65-62,*,38,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,0,1,1,1,1,0,5,3,7,-2.0,A,1,1,marquis-teague-1,Marquis Teague,2012
+19,19,19,2012-01-17,Kentucky,,Arkansas,REG (Conf),W 86-63,*,36,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,0,4,4,9,2,0,3,2,7,10.3,H,1,1,marquis-teague-1,Marquis Teague,2012
+20,20,20,2012-01-21,Kentucky,,Alabama,REG (Conf),W 77-71,*,38,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,4,0.5,1,1,2,1,0,0,3,2,10,1.0,H,1,1,marquis-teague-1,Marquis Teague,2012
+21,21,21,2012-01-24,Kentucky,@,Georgia,REG (Conf),W 57-44,*,33,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,1,6,7,7,0,0,0,1,2,4.5,A,1,1,marquis-teague-1,Marquis Teague,2012
+22,22,22,2012-01-28,Kentucky,@,Louisiana State,REG (Conf),W 74-50,*,31,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,2,2,4,0,2,1,1,6,6.0,A,1,1,marquis-teague-1,Marquis Teague,2012
+23,23,23,2012-01-31,Kentucky,,Tennessee,REG (Conf),W 69-44,*,35,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,0,2,2,4,1,0,2,2,9,8.2,H,1,1,marquis-teague-1,Marquis Teague,2012
+24,24,24,2012-02-04,Kentucky,@,South Carolina,REG (Conf),W 86-52,*,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,0,0,3,1,1,2,1,4,2.0,A,1,1,marquis-teague-1,Marquis Teague,2012
+25,25,25,2012-02-07,Kentucky,,Florida,REG (Conf),W 78-58,*,36,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,0,3,3,10,1,0,5,3,12,12.1,H,1,1,marquis-teague-1,Marquis Teague,2012
+26,26,26,2012-02-11,Kentucky,@,Vanderbilt,REG (Conf),W 69-63,*,37,6,12,0.5,0,3,0.0,6,9,0.667,0.5,1,3,0.333,1,3,4,8,0,0,1,0,13,12.4,A,1,1,marquis-teague-1,Marquis Teague,2012
+27,27,27,2012-02-18,Kentucky,,Ole Miss,REG (Conf),W 77-62,*,31,2,9,0.222,0,1,0.0,2,8,0.25,0.222,1,2,0.5,0,2,2,8,1,0,3,3,5,2.1,H,1,1,marquis-teague-1,Marquis Teague,2012
+28,28,28,2012-02-21,Kentucky,@,Mississippi State,REG (Conf),W 73-64,*,23,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,0,,0,2,2,2,0,0,3,4,8,1.0,A,1,1,marquis-teague-1,Marquis Teague,2012
+29,29,29,2012-02-25,Kentucky,,Vanderbilt,REG (Conf),W 83-74,*,38,5,12,0.417,0,2,0.0,5,10,0.5,0.417,6,7,0.857,0,4,4,6,1,0,4,1,16,11.2,H,1,1,marquis-teague-1,Marquis Teague,2012
+30,30,30,2012-03-01,Kentucky,,Georgia,REG (Conf),W 79-49,*,30,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,0,2,2,4,1,0,2,1,8,4.9,H,1,1,marquis-teague-1,Marquis Teague,2012
+31,31,31,2012-03-04,Kentucky,@,Florida,REG (Conf),W 74-59,*,33,4,9,0.444,1,2,0.5,3,7,0.429,0.5,3,4,0.75,0,2,2,4,1,0,1,3,12,9.1,A,1,1,marquis-teague-1,Marquis Teague,2012
+32,32,32,2012-03-09,Kentucky,N,Louisiana State,CTOURN,W 60-51,*,34,0,5,0.0,0,0,,0,5,0.0,0.0,2,4,0.5,0,0,0,5,1,0,4,0,2,-1.8,N,1,0,marquis-teague-1,Marquis Teague,2012
+33,33,33,2012-03-10,Kentucky,N,Florida,CTOURN,W 74-71,*,35,6,9,0.667,0,1,0.0,6,8,0.75,0.667,3,4,0.75,1,2,3,5,1,0,3,1,15,13.1,N,1,0,marquis-teague-1,Marquis Teague,2012
+34,34,34,2012-03-11,Kentucky,N,Vanderbilt,CTOURN,L 64-71,*,37,0,7,0.0,0,2,0.0,0,5,0.0,0.0,0,0,,1,2,3,6,1,0,0,3,0,0.4,N,0,0,marquis-teague-1,Marquis Teague,2012
+35,35,35,2012-03-15,Kentucky,N,Western Kentucky,ROUND-64,W 81-66,*,32,3,7,0.429,0,1,0.0,3,6,0.5,0.429,6,8,0.75,0,2,2,4,0,0,3,1,12,7.5,N,1,0,marquis-teague-1,Marquis Teague,2012
+36,36,36,2012-03-17,Kentucky,N,Iowa State,ROUND-32,W 87-71,*,36,10,14,0.714,1,3,0.333,9,11,0.818,0.75,3,5,0.6,1,3,4,7,1,0,2,2,24,22.1,N,1,0,marquis-teague-1,Marquis Teague,2012
+37,37,37,2012-03-23,Kentucky,N,Indiana,ROUND-16,W 102-90,*,36,4,14,0.286,0,2,0.0,4,12,0.333,0.286,6,6,1.0,0,3,3,7,1,0,2,3,14,9.4,N,1,0,marquis-teague-1,Marquis Teague,2012
+38,38,38,2012-03-25,Kentucky,N,Baylor,ROUND-8,W 82-70,*,30,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,4,0.75,0,3,3,3,1,0,4,3,8,4.4,N,1,0,marquis-teague-1,Marquis Teague,2012
+39,39,39,2012-03-31,Kentucky,N,Louisville,NATIONAL-SEMI,W 69-61,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,0,2,2,5,1,0,2,4,8,5.5,N,1,0,marquis-teague-1,Marquis Teague,2012
+40,40,40,2012-04-02,Kentucky,N,Kansas,NATIONAL-FINAL,W 67-59,*,34,5,14,0.357,2,3,0.667,3,11,0.273,0.429,2,3,0.667,1,1,2,3,0,0,2,2,14,6.1,N,1,0,marquis-teague-1,Marquis Teague,2012

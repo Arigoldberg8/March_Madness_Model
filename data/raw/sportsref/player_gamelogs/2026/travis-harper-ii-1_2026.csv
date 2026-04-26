@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,25,1,2025-11-03,Tennessee State,,Fisk,REG (Non-Conf),W 101-50,*,25,6,11,0.545,2,6,0.333,4,5,0.8,0.636,1,2,0.5,3,12,15,2,0,0,2,2,15,13.6,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+2,26,2,2025-11-08,Tennessee State,@,Belmont,REG (Non-Conf),L 79-87,*,34,4,9,0.444,2,6,0.333,2,3,0.667,0.556,5,6,0.833,2,1,3,2,0,1,3,2,15,9.9,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+3,27,3,2025-11-11,Tennessee State,,Oakwood,REG (Non-Conf),W 114-76,*,28,6,13,0.462,2,7,0.286,4,6,0.667,0.538,4,5,0.8,0,7,7,7,1,1,2,1,18,17.2,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+4,28,4,2025-11-16,Tennessee State,@,Western Kentucky,REG (Non-Conf),L 82-95,*,33,6,11,0.545,3,6,0.5,3,5,0.6,0.682,3,4,0.75,0,2,2,1,0,1,1,2,18,12.5,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+5,29,5,2025-11-20,Tennessee State,@,Tennessee,REG (Non-Conf),L 60-89,*,33,7,15,0.467,3,10,0.3,4,5,0.8,0.567,0,2,0.0,2,3,5,2,2,1,4,2,17,10.1,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+6,30,6,2025-11-25,Tennessee State,@,UNC Asheville,REG (Non-Conf),W 75-73,*,27,4,12,0.333,0,4,0.0,4,8,0.5,0.333,4,5,0.8,1,2,3,2,2,0,2,1,12,7.1,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+7,31,7,2025-11-29,Tennessee State,N,Tennessee Wesleyan,REG (Non-Conf),W 98-77,*,29,7,14,0.5,0,4,0.0,7,10,0.7,0.5,5,5,1.0,1,4,5,0,1,0,1,3,19,12.7,N,1,1,travis-harper-ii-1,Travis Harper II,2026
+8,32,8,2025-11-30,Tennessee State,@,Chattanooga,REG (Non-Conf),W 70-64,*,33,6,10,0.6,3,5,0.6,3,5,0.6,0.75,2,2,1.0,0,6,6,1,0,0,1,3,17,12.7,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+9,33,9,2025-12-03,Tennessee State,@,Alabama A&M,REG (Non-Conf),L 53-80,*,29,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,4,0.5,3,0,3,1,2,1,2,2,7,4.1,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+10,34,10,2025-12-13,Tennessee State,@,UNLV,REG (Non-Conf),W 63-60,*,33,4,9,0.444,1,5,0.2,3,4,0.75,0.5,3,4,0.75,0,3,3,1,2,1,2,2,12,8.4,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+11,35,11,2025-12-18,Tennessee State,,UT Martin,REG (Conf),W 78-71,*,33,5,10,0.5,4,6,0.667,1,4,0.25,0.7,2,2,1.0,0,1,1,1,2,1,1,1,16,13.3,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+12,36,12,2025-12-20,Tennessee State,,Southeast Missouri State,REG (Conf),L 82-91,*,29,7,13,0.538,5,9,0.556,2,4,0.5,0.731,4,5,0.8,0,1,1,0,2,1,1,2,23,17.5,H,0,1,travis-harper-ii-1,Travis Harper II,2026
+13,37,13,2025-12-30,Tennessee State,@,Tennessee Tech,REG (Conf),W 88-76,*,32,9,15,0.6,9,14,0.643,0,1,0.0,0.9,2,2,1.0,0,1,1,1,0,0,2,1,29,20.7,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+14,38,14,2026-01-03,Tennessee State,@,Little Rock,REG (Conf),W 84-79,*,28,7,14,0.5,3,7,0.429,4,7,0.571,0.607,4,4,1.0,2,6,8,0,3,1,1,3,21,18.7,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+15,39,15,2026-01-08,Tennessee State,@,Western Illinois,REG (Conf),W 90-68,*,22,7,10,0.7,3,6,0.5,4,4,1.0,0.85,6,6,1.0,1,3,4,0,0,1,3,0,23,18.1,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+16,40,16,2026-01-10,Tennessee State,@,Eastern Illinois,REG (Conf),L 70-74,*,33,5,9,0.556,1,4,0.25,4,5,0.8,0.611,7,7,1.0,1,5,6,1,1,1,2,1,18,15.9,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+17,41,17,2026-01-15,Tennessee State,,Morehead State,REG (Conf),W 105-100 (OT),*,36,5,9,0.556,4,8,0.5,1,1,1.0,0.778,2,2,1.0,1,5,6,4,1,1,3,5,16,13.4,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+18,42,18,2026-01-17,Tennessee State,,Southern Indiana,REG (Conf),W 73-67,*,34,4,11,0.364,1,6,0.167,3,5,0.6,0.409,2,2,1.0,2,1,3,1,0,0,0,1,11,6.9,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+19,43,19,2026-01-22,Tennessee State,@,SIU Edwardsville,REG (Conf),L 66-74,*,31,3,13,0.231,2,7,0.286,1,6,0.167,0.308,9,9,1.0,4,0,4,1,0,0,0,3,17,11.4,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+20,44,20,2026-01-24,Tennessee State,@,Lindenwood,REG (Conf),W 96-86,*,35,13,21,0.619,2,5,0.4,11,16,0.688,0.667,2,2,1.0,2,1,3,0,2,0,1,0,30,23.2,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+21,45,21,2026-01-29,Tennessee State,,Little Rock,REG (Conf),W 70-63,*,30,7,11,0.636,2,5,0.4,5,6,0.833,0.727,0,0,,1,7,8,3,0,0,4,1,16,11.6,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+22,46,22,2026-02-02,Tennessee State,,Tennessee Tech,REG (Conf),L 85-90,*,30,6,13,0.462,3,8,0.375,3,5,0.6,0.577,4,5,0.8,1,1,2,1,1,0,0,0,19,14.6,H,0,1,travis-harper-ii-1,Travis Harper II,2026
+23,47,23,2026-02-05,Tennessee State,,Eastern Illinois,REG (Conf),W 77-68,*,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,3,0.667,1,2,3,0,0,0,1,0,4,0.8,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+24,48,24,2026-02-07,Tennessee State,,Western Illinois,REG (Conf),W 83-56,*,22,5,12,0.417,1,4,0.25,4,8,0.5,0.458,2,3,0.667,0,1,1,1,0,0,0,1,13,6.8,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+25,49,25,2026-02-12,Tennessee State,@,Southern Indiana,REG (Conf),W 73-71,*,35,5,12,0.417,3,5,0.6,2,7,0.286,0.542,9,10,0.9,1,6,7,1,2,0,2,1,22,18.0,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+26,50,26,2026-02-14,Tennessee State,@,Morehead State,REG (Conf),L 86-94,*,34,8,18,0.444,5,9,0.556,3,9,0.333,0.583,9,11,0.818,1,1,2,0,1,0,1,4,30,19.2,A,0,1,travis-harper-ii-1,Travis Harper II,2026
+27,51,27,2026-02-19,Tennessee State,,Lindenwood,REG (Conf),W 89-80,*,35,5,17,0.294,1,7,0.143,4,10,0.4,0.324,6,7,0.857,1,2,3,1,3,0,1,2,17,9.9,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+28,52,28,2026-02-21,Tennessee State,,SIU Edwardsville,REG (Conf),W 80-53,*,35,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,1,4,5,0,0,0,1,2,12,7.4,H,1,1,travis-harper-ii-1,Travis Harper II,2026
+29,53,29,2026-02-26,Tennessee State,@,Southeast Missouri State,REG (Conf),W 79-71,*,36,5,10,0.5,2,4,0.5,3,6,0.5,0.6,6,6,1.0,0,4,4,1,0,1,0,0,18,15.6,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+30,54,30,2026-02-28,Tennessee State,@,UT Martin,REG (Conf),W 67-42,*,31,7,13,0.538,2,6,0.333,5,7,0.714,0.615,0,0,,0,5,5,0,2,0,1,0,16,12.2,A,1,1,travis-harper-ii-1,Travis Harper II,2026
+31,55,31,2026-03-06,Tennessee State,N,UT Martin,CTOURN,W 68-55,*,34,5,14,0.357,4,11,0.364,1,3,0.333,0.5,0,0,,1,3,4,1,1,0,1,0,14,8.5,N,1,0,travis-harper-ii-1,Travis Harper II,2026
+32,56,32,2026-03-07,Tennessee State,N,Morehead State,CTOURN,W 93-67,*,35,6,9,0.667,5,7,0.714,1,2,0.5,0.944,0,0,,0,3,3,0,1,0,2,0,17,13.0,N,1,0,travis-harper-ii-1,Travis Harper II,2026

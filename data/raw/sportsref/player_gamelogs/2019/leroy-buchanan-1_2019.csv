@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-10,Murray State,,Wright State,REG (Non-Conf),W 73-54,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,3,2,5,1,1,0,3,3,4,2.5,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+2,34,2,2018-11-16,Murray State,,Spalding,REG (Non-Conf),W 106-36,*,12,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,1,1,3,1,1,0,0,7,8.4,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+3,35,3,2018-11-24,Murray State,,Missouri State,REG (Non-Conf),W 77-66,*,34,7,13,0.538,0,3,0.0,7,10,0.7,0.538,6,6,1.0,0,1,1,3,1,1,3,0,20,14.8,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+4,36,4,2018-11-26,Murray State,@,Alabama,REG (Non-Conf),L 72-78,*,32,4,10,0.4,1,5,0.2,3,5,0.6,0.45,0,0,,0,7,7,1,4,0,1,4,9,7.8,A,0,1,leroy-buchanan-1,Leroy Buchanan,2019
+5,37,5,2018-12-01,Murray State,,Prairie View A&M,REG (Non-Conf),W 83-67,*,35,3,11,0.273,2,8,0.25,1,3,0.333,0.364,6,8,0.75,1,2,3,3,2,2,2,0,14,11.5,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+6,38,6,2018-12-08,Murray State,@,Middle Tennessee,REG (Non-Conf),W 64-42,*,37,9,17,0.529,1,6,0.167,8,11,0.727,0.559,2,2,1.0,0,7,7,4,7,1,2,2,21,22.5,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+7,39,7,2018-12-12,Murray State,@,Southern Illinois,REG (Non-Conf),W 80-52,*,29,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,0,4,4,2,3,0,3,2,6,2.0,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+8,40,8,2018-12-15,Murray State,,Jackson State,REG (Non-Conf),W 74-57,*,33,6,12,0.5,3,5,0.6,3,7,0.429,0.625,4,4,1.0,0,5,5,1,1,3,1,3,19,16.1,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+9,41,9,2018-12-18,Murray State,,Evansville,REG (Non-Conf),W 66-64,*,36,3,12,0.25,1,6,0.167,2,6,0.333,0.292,3,4,0.75,2,6,8,0,1,0,0,3,10,5.4,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+10,42,10,2018-12-22,Murray State,@,Auburn,REG (Non-Conf),L 88-93,*,36,8,14,0.571,4,7,0.571,4,7,0.571,0.714,1,2,0.5,1,3,4,4,0,0,6,3,21,11.2,A,0,1,leroy-buchanan-1,Leroy Buchanan,2019
+11,43,11,2018-12-29,Murray State,,Bethel (TN),REG (Non-Conf),W 110-82,*,24,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,6,0.333,0,7,7,2,1,2,2,0,8,5.2,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+12,44,12,2019-01-03,Murray State,,Morehead State,REG (Conf),W 90-69,*,32,7,12,0.583,1,2,0.5,6,10,0.6,0.625,0,0,,2,5,7,3,2,2,1,1,15,16.4,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+13,45,13,2019-01-05,Murray State,,Eastern Kentucky,REG (Conf),W 97-85,*,38,7,13,0.538,1,4,0.25,6,9,0.667,0.577,1,2,0.5,1,3,4,2,6,1,2,0,16,17.0,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+14,46,14,2019-01-10,Murray State,@,UT Martin,REG (Conf),W 98-77,*,31,9,15,0.6,3,5,0.6,6,10,0.6,0.7,0,0,,1,3,4,1,4,0,0,2,21,19.6,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+15,47,15,2019-01-12,Murray State,@,Southeast Missouri State,REG (Conf),W 85-67,*,30,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,2,0.5,0,6,6,1,2,0,0,2,13,12.7,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+16,48,16,2019-01-17,Murray State,@,Eastern Illinois,REG (Conf),W 83-61,*,33,6,13,0.462,4,8,0.5,2,5,0.4,0.615,1,2,0.5,3,5,8,2,1,0,0,2,17,15.1,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+17,49,17,2019-01-19,Murray State,@,SIU Edwardsville,REG (Conf),W 82-72,*,40,5,9,0.556,2,3,0.667,3,6,0.5,0.667,2,4,0.5,2,5,7,4,3,0,3,2,14,13.8,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+18,50,18,2019-01-24,Murray State,,Belmont,REG (Conf),L 66-79,*,40,4,10,0.4,2,6,0.333,2,4,0.5,0.5,1,2,0.5,2,3,5,0,0,0,1,2,11,5.7,H,0,1,leroy-buchanan-1,Leroy Buchanan,2019
+19,51,19,2019-01-26,Murray State,,Tennessee State,REG (Conf),W 100-62,*,31,7,11,0.636,2,5,0.4,5,6,0.833,0.727,2,2,1.0,1,2,3,0,2,0,0,1,18,16.0,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+20,52,20,2019-01-31,Murray State,@,Jacksonville State,REG (Conf),L 68-88,*,36,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,2,0.5,1,2,3,0,1,0,0,3,10,5.3,A,0,1,leroy-buchanan-1,Leroy Buchanan,2019
+21,53,21,2019-02-02,Murray State,@,Tennessee Tech,REG (Conf),W 67-63,*,37,6,10,0.6,0,2,0.0,6,8,0.75,0.6,0,1,0.0,0,2,2,3,0,0,2,2,12,6.9,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+22,54,22,2019-02-07,Murray State,,Eastern Illinois,REG (Conf),W 86-75,*,36,6,14,0.429,4,10,0.4,2,4,0.5,0.571,2,3,0.667,1,2,3,0,0,0,0,0,18,11.5,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+23,55,23,2019-02-09,Murray State,,SIU Edwardsville,REG (Conf),W 86-55,*,37,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,1,2,3,2,3,1,1,0,8,8.3,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+24,56,24,2019-02-14,Murray State,@,Austin Peay,REG (Conf),W 73-71,*,37,3,10,0.3,1,7,0.143,2,3,0.667,0.35,0,0,,0,3,3,0,1,1,0,1,7,3.4,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+25,57,25,2019-02-16,Murray State,@,Eastern Kentucky,REG (Conf),W 102-70,*,29,5,6,0.833,2,3,0.667,3,3,1.0,1.0,4,4,1.0,1,0,1,1,2,0,1,2,16,15.4,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+26,58,26,2019-02-21,Murray State,,UT Martin,REG (Conf),W 85-75,*,37,3,11,0.273,1,5,0.2,2,6,0.333,0.318,4,4,1.0,2,1,3,2,2,0,0,1,11,9.2,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+27,59,27,2019-02-23,Murray State,,Southeast Missouri State,REG (Conf),W 103-67,*,26,7,12,0.583,2,5,0.4,5,7,0.714,0.667,0,0,,0,2,2,4,1,0,0,0,16,14.8,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+28,60,28,2019-02-28,Murray State,@,Morehead State,REG (Conf),W 71-52,*,25,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,2,3,1,2,0,0,0,5,5.6,A,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+29,61,29,2019-03-02,Murray State,,Austin Peay,REG (Conf),W 94-83,*,35,6,8,0.75,2,3,0.667,4,5,0.8,0.875,5,8,0.625,0,1,1,0,0,0,3,3,19,10.7,H,1,1,leroy-buchanan-1,Leroy Buchanan,2019
+30,62,30,2019-03-08,Murray State,N,Jacksonville State,CTOURN,W 76-74,*,40,5,9,0.556,3,5,0.6,2,4,0.5,0.722,0,0,,1,1,2,1,2,2,1,2,13,12.0,N,1,0,leroy-buchanan-1,Leroy Buchanan,2019
+31,63,31,2019-03-09,Murray State,N,Belmont,CTOURN,W 77-65,*,40,2,11,0.182,0,4,0.0,2,7,0.286,0.182,1,2,0.5,0,9,9,4,1,0,0,2,5,3.4,N,1,0,leroy-buchanan-1,Leroy Buchanan,2019
+32,64,32,2019-03-21,Murray State,N,Marquette,ROUND-64,W 83-64,*,39,6,12,0.5,1,5,0.2,5,7,0.714,0.542,1,3,0.333,0,6,6,2,3,1,0,3,14,12.9,N,1,0,leroy-buchanan-1,Leroy Buchanan,2019
+33,65,33,2019-03-23,Murray State,N,Florida State,ROUND-32,L 62-90,*,36,4,11,0.364,1,3,0.333,3,8,0.375,0.409,3,4,0.75,0,3,3,0,0,0,2,2,12,3.6,N,0,0,leroy-buchanan-1,Leroy Buchanan,2019

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2013-11-08,Western Michigan,N,New Mexico State,REG (Non-Conf),W 70-64,,19,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,2,2,1,0,0,0,0,9,7.7,N,1,1,jared-klein-1,Jared Klein,2014
+2,34,2,2013-11-10,Western Michigan,@,Hawaii,REG (Non-Conf),L 68-78,,23,4,8,0.5,1,2,0.5,3,6,0.5,0.563,4,4,1.0,0,0,0,1,1,0,1,1,13,9.3,A,0,1,jared-klein-1,Jared Klein,2014
+3,35,3,2013-11-11,Western Michigan,N,Tennessee State,REG (Non-Conf),W 63-52,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,2,0,-2.2,N,1,1,jared-klein-1,Jared Klein,2014
+4,36,4,2013-11-17,Western Michigan,,Alabama A&M,REG (Non-Conf),W 73-69,,13,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,0,0,0,3,0,5,0.3,H,1,1,jared-klein-1,Jared Klein,2014
+5,37,5,2013-11-20,Western Michigan,,North Dakota State,REG (Non-Conf),L 74-83,,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,1,0,0,0,2,3,1.5,H,0,1,jared-klein-1,Jared Klein,2014
+6,38,6,2013-11-26,Western Michigan,,Oakland,REG (Non-Conf),W 99-88,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,2,1,3,-0.1,H,1,1,jared-klein-1,Jared Klein,2014
+7,39,7,2013-11-29,Western Michigan,,Cornell,REG (Non-Conf),W 83-70,,24,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,3,3,0,0,0,2,0,9,5.3,H,1,1,jared-klein-1,Jared Klein,2014
+8,40,8,2013-12-07,Western Michigan,@,Northwestern,REG (Non-Conf),L 35-51,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,A,0,1,jared-klein-1,Jared Klein,2014
+9,41,9,2013-12-15,Western Michigan,@,Missouri,REG (Non-Conf),L 60-66,,14,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,0,0,0,0,1,0,2,2,6,0.8,A,0,1,jared-klein-1,Jared Klein,2014
+10,42,10,2013-12-18,Western Michigan,@,Drake,REG (Non-Conf),L 68-71,,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,1,0,0,0,0,3,3.4,A,0,1,jared-klein-1,Jared Klein,2014
+11,43,11,2013-12-21,Western Michigan,,Prairie View A&M,REG (Non-Conf),W 92-53,,21,4,6,0.667,2,3,0.667,2,3,0.667,0.833,4,4,1.0,1,2,3,3,0,0,0,1,14,14.4,H,1,1,jared-klein-1,Jared Klein,2014
+12,44,12,2014-01-02,Western Michigan,,Siena Heights,REG (Non-Conf),W 83-47,,21,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,2,1.0,0,3,3,2,2,0,1,0,8,8.6,H,1,1,jared-klein-1,Jared Klein,2014
+13,45,13,2014-01-08,Western Michigan,,Toledo,REG (Conf),W 87-76,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,0,0,0,0,2,7,3.9,H,1,1,jared-klein-1,Jared Klein,2014
+14,46,14,2014-01-11,Western Michigan,@,Miami (OH),REG (Conf),W 78-77 (OT),,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,3,3,2,1,0,3,1,4,2.2,A,1,1,jared-klein-1,Jared Klein,2014
+15,47,15,2014-01-14,Western Michigan,@,Eastern Michigan,REG (Conf),L 37-56,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,0,5,5,0,0,0,3,3,5,-0.1,A,0,1,jared-klein-1,Jared Klein,2014
+16,48,16,2014-01-19,Western Michigan,,Bowling Green,REG (Conf),L 64-69,,14,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,1,0,0,1,0,2,-0.4,H,0,1,jared-klein-1,Jared Klein,2014
+17,49,17,2014-01-23,Western Michigan,@,Kent State,REG (Conf),W 75-59,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,jared-klein-1,Jared Klein,2014
+18,50,18,2014-01-26,Western Michigan,,Ball State,REG (Conf),W 62-53,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,1,2,2.3,H,1,1,jared-klein-1,Jared Klein,2014
+19,51,19,2014-01-29,Western Michigan,@,Buffalo,REG (Conf),L 63-84,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,jared-klein-1,Jared Klein,2014
+20,52,20,2014-02-01,Western Michigan,,Central Michigan,REG (Conf),W 75-72,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,2,2,2,-1.5,H,1,1,jared-klein-1,Jared Klein,2014
+21,53,21,2014-02-05,Western Michigan,,Ohio,REG (Conf),W 90-74,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,1,0,2,2.0,H,1,1,jared-klein-1,Jared Klein,2014
+22,54,22,2014-02-09,Western Michigan,@,Northern Illinois,REG (Conf),W 74-71,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jared-klein-1,Jared Klein,2014
+23,55,23,2014-02-12,Western Michigan,,Akron,REG (Conf),W 57-54,,4,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,2,0,0,-1.4,H,1,1,jared-klein-1,Jared Klein,2014
+24,56,24,2014-02-15,Western Michigan,,Miami (OH),REG (Conf),W 68-57,,6,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,1,1,1,0,0,1,0,2,0.6,H,1,1,jared-klein-1,Jared Klein,2014
+25,57,25,2014-02-19,Western Michigan,@,Ohio,REG (Conf),W 73-63,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,A,1,1,jared-klein-1,Jared Klein,2014
+26,58,26,2014-02-23,Western Michigan,,Eastern Michigan,REG (Conf),W 75-67,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jared-klein-1,Jared Klein,2014
+27,59,27,2014-02-26,Western Michigan,@,Ball State,REG (Conf),W 88-81 (OT),,2,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,0,0,2,2.0,A,1,1,jared-klein-1,Jared Klein,2014
+28,60,28,2014-03-01,Western Michigan,@,Toledo,REG (Conf),L 85-96 (OT),,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,jared-klein-1,Jared Klein,2014
+29,61,29,2014-03-04,Western Michigan,,Northern Illinois,REG (Conf),W 61-56,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,1,0,5,3.0,H,1,1,jared-klein-1,Jared Klein,2014
+30,62,30,2014-03-07,Western Michigan,@,Central Michigan,REG (Conf),W 78-64,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,A,1,1,jared-klein-1,Jared Klein,2014
+31,63,31,2014-03-14,Western Michigan,N,Akron,CTOURN,W 64-60 (OT),,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jared-klein-1,Jared Klein,2014
+32,64,32,2014-03-15,Western Michigan,N,Toledo,CTOURN,W 98-77,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,jared-klein-1,Jared Klein,2014
+33,65,33,2014-03-20,Western Michigan,N,Syracuse,ROUND-64,L 53-77,,6,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,2,2,0,0,0,0,0,3,2.5,N,0,0,jared-klein-1,Jared Klein,2014

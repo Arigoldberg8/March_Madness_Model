@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2014-11-14,Wofford,@,Stanford,REG (Non-Conf),L 59-74,*,25,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,1,1,2,1,0,0,0,3,2,1.1,A,0,1,cj-neumann-1,C.J. Neumann,2015
+2,64,2,2014-11-18,Wofford,,Iona,REG (Non-Conf),W 86-73,*,15,0,0,,0,0,0,0,,,1,2,0.5,0,0,0,0,0,0,0,4,1,-1.0,H,1,1,cj-neumann-1,C.J. Neumann,2015
+3,65,3,2014-11-21,Wofford,@,Fairfield,REG (Non-Conf),W 54-36,*,13,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.9,A,1,1,cj-neumann-1,C.J. Neumann,2015
+4,66,4,2014-11-22,Wofford,N,South Dakota,REG (Non-Conf),W 72-68,,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,3,6,2,1,0,2,4,2,2.1,N,1,1,cj-neumann-1,C.J. Neumann,2015
+5,67,5,2014-11-23,Wofford,N,Sam Houston State,REG (Non-Conf),W 64-53,,20,0,0,,0,0,0,0,,,5,6,0.833,0,2,2,2,0,0,3,5,5,1.6,N,1,1,cj-neumann-1,C.J. Neumann,2015
+6,68,6,2014-11-25,Wofford,,Ohio Valley,REG (Non-Conf),W 82-54,,19,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,2,3,5,0,1,0,1,2,2,1.8,H,1,1,cj-neumann-1,C.J. Neumann,2015
+7,69,7,2014-11-29,Wofford,@,William & Mary,REG (Non-Conf),L 62-66,,18,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,5,0,-3.0,A,0,1,cj-neumann-1,C.J. Neumann,2015
+8,70,8,2014-12-03,Wofford,,Presbyterian,REG (Non-Conf),W 66-45,,13,0,0,,0,0,0,0,,,0,0,,2,1,3,0,0,0,1,2,0,-0.1,H,1,1,cj-neumann-1,C.J. Neumann,2015
+9,71,9,2014-12-06,Wofford,,Florida National,REG (Non-Conf),W 88-57,,16,2,2,1.0,0,0,2,2,1.0,1.0,3,4,0.75,1,3,4,1,3,0,2,0,7,9.3,H,1,1,cj-neumann-1,C.J. Neumann,2015
+10,72,10,2014-12-14,Wofford,@,NC State,REG (Non-Conf),W 55-54,,14,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,2,0,2,0,2,0,0,1,2,2.9,A,1,1,cj-neumann-1,C.J. Neumann,2015
+11,73,11,2014-12-17,Wofford,,Charleston Southern,REG (Non-Conf),W 64-58,,12,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,1,2,0,0,0,0,3,5,3.8,H,1,1,cj-neumann-1,C.J. Neumann,2015
+12,74,12,2014-12-22,Wofford,@,West Virginia,REG (Non-Conf),L 44-77,,20,0,0,,0,0,0,0,,,2,2,1.0,2,3,5,0,0,0,0,1,2,3.9,A,0,1,cj-neumann-1,C.J. Neumann,2015
+13,75,13,2014-12-31,Wofford,@,Duke,REG (Non-Conf),L 55-84,,19,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,1,4,1,0,0,2,3,2,0.2,A,0,1,cj-neumann-1,C.J. Neumann,2015
+14,76,14,2015-01-03,Wofford,@,Samford,REG (Conf),W 68-65,,22,3,3,1.0,0,0,3,3,1.0,1.0,0,3,0.0,0,5,5,0,0,0,0,1,6,5.0,A,1,1,cj-neumann-1,C.J. Neumann,2015
+15,77,15,2015-01-05,Wofford,@,Chattanooga,REG (Conf),W 68-64,,22,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,5,3,8,1,1,0,0,1,2,6.7,A,1,1,cj-neumann-1,C.J. Neumann,2015
+16,78,16,2015-01-08,Wofford,,VMI,REG (Conf),W 75-70,,25,4,5,0.8,0,0,4,5,0.8,0.8,4,5,0.8,0,6,6,1,0,0,1,0,12,11.2,H,1,1,cj-neumann-1,C.J. Neumann,2015
+17,79,17,2015-01-10,Wofford,,Samford,REG (Conf),W 72-62,,25,2,2,1.0,0,0,2,2,1.0,1.0,4,5,0.8,3,4,7,3,0,0,0,2,8,11.6,H,1,1,cj-neumann-1,C.J. Neumann,2015
+18,80,18,2015-01-15,Wofford,@,The Citadel,REG (Conf),L 66-69,,27,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,4,6,0,1,0,0,2,4,6.2,A,0,1,cj-neumann-1,C.J. Neumann,2015
+19,81,19,2015-01-17,Wofford,,Western Carolina,REG (Conf),W 62-43,,26,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,2,4,6,0,1,1,2,1,6,5.9,H,1,1,cj-neumann-1,C.J. Neumann,2015
+20,82,20,2015-01-22,Wofford,,Furman,REG (Conf),W 74-49,,24,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,2,2,4,2,0,1,0,2,2,2.2,H,1,1,cj-neumann-1,C.J. Neumann,2015
+21,83,21,2015-01-24,Wofford,,East Tennessee State,REG (Conf),W 72-64,,23,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,2,4,0,0,1,3,2,4,2.3,H,1,1,cj-neumann-1,C.J. Neumann,2015
+22,84,22,2015-01-29,Wofford,@,UNC Greensboro,REG (Conf),W 58-42,,23,1,2,0.5,0,0,1,2,0.5,0.5,0,3,0.0,1,4,5,1,1,0,0,1,2,3.0,A,1,1,cj-neumann-1,C.J. Neumann,2015
+23,85,23,2015-01-31,Wofford,,Mercer,REG (Conf),W 49-46,,17,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,4,4,8,1,0,0,0,0,2,3.6,H,1,1,cj-neumann-1,C.J. Neumann,2015
+24,86,24,2015-02-05,Wofford,@,East Tennessee State,REG (Conf),W 74-64,,24,1,2,0.5,0,0,1,2,0.5,0.5,9,14,0.643,2,5,7,2,0,0,1,2,11,10.5,A,1,1,cj-neumann-1,C.J. Neumann,2015
+25,87,25,2015-02-07,Wofford,@,VMI,REG (Conf),W 65-62,,13,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,2,3,0,0,0,2,4,6,3.1,A,1,1,cj-neumann-1,C.J. Neumann,2015
+26,88,26,2015-02-12,Wofford,,Chattanooga,REG (Conf),L 46-56,,23,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,3,4,7,1,0,0,1,1,0,0.5,H,0,1,cj-neumann-1,C.J. Neumann,2015
+27,89,27,2015-02-14,Wofford,@,Western Carolina,REG (Conf),W 75-55,,22,4,5,0.8,0,0,4,5,0.8,0.8,2,2,1.0,2,5,7,2,2,0,0,3,10,13.2,A,1,1,cj-neumann-1,C.J. Neumann,2015
+28,90,28,2015-02-19,Wofford,,UNC Greensboro,REG (Conf),W 77-62,,20,2,3,0.667,0,0,2,3,0.667,0.667,2,4,0.5,0,4,4,0,1,0,0,3,6,4.9,H,1,1,cj-neumann-1,C.J. Neumann,2015
+29,91,29,2015-02-21,Wofford,,The Citadel,REG (Conf),W 78-52,,18,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,0,0,0,0,0,0,0,2,6,3.2,H,1,1,cj-neumann-1,C.J. Neumann,2015
+30,92,30,2015-02-26,Wofford,@,Mercer,REG (Conf),W 76-72,,28,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,2,4,6,1,2,0,2,0,6,8.7,A,1,1,cj-neumann-1,C.J. Neumann,2015
+31,93,31,2015-02-28,Wofford,@,Furman,REG (Conf),W 62-60,,21,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,1,4,5,1,1,0,0,1,7,7.1,A,1,1,cj-neumann-1,C.J. Neumann,2015
+32,94,32,2015-03-07,Wofford,N,UNC Greensboro,CTOURN,W 70-52,,19,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,3,2,5,0,0,1,1,3,0,0.5,N,1,0,cj-neumann-1,C.J. Neumann,2015
+33,95,33,2015-03-08,Wofford,N,Western Carolina,CTOURN,W 73-61,,22,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,2,4,6,1,0,1,1,4,6,4.7,N,1,0,cj-neumann-1,C.J. Neumann,2015
+34,96,34,2015-03-09,Wofford,N,Furman,CTOURN,W 67-64,,28,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,4,4,8,0,1,2,1,2,2,5.6,N,1,0,cj-neumann-1,C.J. Neumann,2015
+35,97,35,2015-03-19,Wofford,N,Arkansas,ROUND-64,L 53-56,,26,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,4,1,5,1,0,0,0,3,2,2.2,N,0,0,cj-neumann-1,C.J. Neumann,2015

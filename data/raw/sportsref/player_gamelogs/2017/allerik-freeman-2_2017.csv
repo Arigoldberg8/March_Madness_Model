@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2016-11-11,Baylor,,Oral Roberts,REG (Non-Conf),W 76-61,*,30,6,9,0.667,3,4,0.75,3,5,0.6,0.833,1,1,1.0,2,3,5,1,0,0,4,2,16,10.3,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+2,70,2,2016-11-15,Baylor,,Oregon,REG (Non-Conf),W 66-49,*,26,2,8,0.25,1,4,0.25,1,4,0.25,0.313,3,3,1.0,1,2,3,1,0,0,2,0,8,3.2,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+3,71,3,2016-11-18,Baylor,,Florida Gulf Coast,REG (Non-Conf),W 81-72,*,31,5,9,0.556,2,5,0.4,3,4,0.75,0.667,6,6,1.0,1,5,6,1,0,0,1,2,18,14.8,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+4,72,4,2016-11-23,Baylor,N,VCU,REG (Non-Conf),W 71-63,*,33,6,11,0.545,1,3,0.333,5,8,0.625,0.591,2,4,0.5,0,0,0,0,1,0,1,0,15,8.9,N,1,1,allerik-freeman-2,Allerik Freeman,2017
+5,73,5,2016-11-24,Baylor,N,Michigan State,REG (Non-Conf),W 73-58,*,31,3,11,0.273,2,4,0.5,1,7,0.143,0.364,1,2,0.5,1,2,3,1,2,0,1,1,9,4.7,N,1,1,allerik-freeman-2,Allerik Freeman,2017
+6,74,6,2016-11-25,Baylor,N,Louisville,REG (Non-Conf),W 66-63,*,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,1,2,1,0,0,1,0,4,2.0,N,1,1,allerik-freeman-2,Allerik Freeman,2017
+7,75,7,2016-11-30,Baylor,,Sam Houston State,REG (Non-Conf),W 79-45,*,24,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,0,2,2,1,0,0,2,0,13,7.3,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+8,76,8,2016-12-03,Baylor,,Xavier,REG (Non-Conf),W 76-61,*,25,3,5,0.6,0,2,0.0,3,3,1.0,0.6,4,5,0.8,1,1,2,2,0,0,5,2,10,3.9,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+9,77,9,2016-12-14,Baylor,,Southern,REG (Non-Conf),W 89-59,*,25,5,6,0.833,1,2,0.5,4,4,1.0,0.917,3,3,1.0,0,2,2,1,0,0,2,1,14,10.7,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+10,78,10,2016-12-17,Baylor,N,Jackson State,REG (Non-Conf),W 82-57,*,28,5,8,0.625,5,8,0.625,0,0,,0.938,4,4,1.0,1,1,2,2,0,0,1,3,19,15.6,N,1,1,allerik-freeman-2,Allerik Freeman,2017
+11,79,11,2016-12-18,Baylor,,John Brown,REG (Non-Conf),W 107-53,*,19,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,0,,0,3,3,1,1,0,0,0,16,14.7,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+12,80,12,2016-12-21,Baylor,,Texas Southern,REG (Non-Conf),W 89-63,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,1,1,2,0,0,1,1,10,7.3,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+13,81,13,2016-12-30,Baylor,@,Oklahoma,REG (Conf),W 76-50,*,22,1,4,0.25,1,4,0.25,0,0,,0.375,4,6,0.667,1,2,3,2,0,0,0,1,7,6.1,A,1,1,allerik-freeman-2,Allerik Freeman,2017
+14,82,14,2017-01-04,Baylor,,Iowa State,REG (Conf),W 65-63,,22,0,5,0.0,0,2,0.0,0,3,0.0,0.0,4,4,1.0,0,1,1,0,0,0,1,1,4,-0.6,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+15,83,15,2017-01-07,Baylor,,Oklahoma State,REG (Conf),W 61-57,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,4,4,1.0,0,4,4,2,1,0,2,1,4,3.1,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+16,84,16,2017-01-10,Baylor,@,West Virginia,REG (Conf),L 68-89,*,19,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,3,1.0,0,0,0,1,0,0,2,2,10,2.8,A,0,1,allerik-freeman-2,Allerik Freeman,2017
+17,85,17,2017-01-14,Baylor,@,Kansas State,REG (Conf),W 77-68,*,28,4,6,0.667,2,3,0.667,2,3,0.667,0.833,5,7,0.714,0,1,1,5,1,0,2,1,15,14.0,A,1,1,allerik-freeman-2,Allerik Freeman,2017
+18,86,18,2017-01-17,Baylor,,Texas,REG (Conf),W 74-64,*,34,4,13,0.308,2,7,0.286,2,6,0.333,0.385,0,2,0.0,2,1,3,0,0,0,1,2,10,1.6,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+19,87,19,2017-01-21,Baylor,@,TCU,REG (Conf),W 62-53,*,30,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,1,1,4,2,0,0,2,5,5.5,A,1,1,allerik-freeman-2,Allerik Freeman,2017
+20,88,20,2017-01-25,Baylor,,Texas Tech,REG (Conf),W 65-61,*,27,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,1,4,5,0,0,0,3,3,7,0.6,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+21,89,21,2017-01-28,Baylor,@,Ole Miss,REG (Non-Conf),W 78-75,*,12,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,0,0,-4.5,A,1,1,allerik-freeman-2,Allerik Freeman,2017
+22,90,22,2017-02-01,Baylor,@,Kansas,REG (Conf),L 68-73,*,26,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,2,4,6,4,2,0,1,3,2,3.4,A,0,1,allerik-freeman-2,Allerik Freeman,2017
+23,91,23,2017-02-04,Baylor,,Kansas State,REG (Conf),L 54-56,*,17,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,1,0,0,2,2,3,-1.5,H,0,1,allerik-freeman-2,Allerik Freeman,2017
+24,92,25,2017-02-11,Baylor,,TCU,REG (Conf),W 70-52,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+25,93,28,2017-02-21,Baylor,,Oklahoma,REG (Conf),W 60-54,,21,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,0,1,1,0,0,0,1,1,6,2.5,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+26,94,29,2017-02-25,Baylor,@,Iowa State,REG (Conf),L 69-72,,24,6,7,0.857,5,5,1.0,1,2,0.5,1.214,0,0,,1,1,2,1,1,0,0,1,17,16.8,A,0,1,allerik-freeman-2,Allerik Freeman,2017
+27,95,30,2017-02-27,Baylor,,West Virginia,REG (Conf),W 71-62,,22,3,6,0.5,3,5,0.6,0,1,0.0,0.75,3,5,0.6,0,2,2,1,0,0,4,3,12,4.3,H,1,1,allerik-freeman-2,Allerik Freeman,2017
+28,96,31,2017-03-04,Baylor,@,Texas,REG (Conf),W 75-64,,19,2,5,0.4,0,2,0.0,2,3,0.667,0.4,4,4,1.0,2,3,5,1,1,0,2,1,8,6.9,A,1,1,allerik-freeman-2,Allerik Freeman,2017
+29,97,32,2017-03-09,Baylor,N,Kansas State,CTOURN,L 64-70,,18,5,12,0.417,2,6,0.333,3,6,0.5,0.5,4,4,1.0,0,1,1,0,1,0,0,2,16,10.1,N,0,0,allerik-freeman-2,Allerik Freeman,2017
+30,98,33,2017-03-17,Baylor,N,New Mexico State,ROUND-64,W 91-73,,25,6,10,0.6,3,3,1.0,3,7,0.429,0.75,6,6,1.0,1,4,5,0,1,0,1,1,21,17.9,N,1,0,allerik-freeman-2,Allerik Freeman,2017
+31,99,34,2017-03-19,Baylor,N,Southern California,ROUND-32,W 82-78,,10,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,1,1,0,-3.3,N,1,0,allerik-freeman-2,Allerik Freeman,2017
+32,100,35,2017-03-24,Baylor,N,South Carolina,ROUND-16,L 50-70,,23,0,4,0.0,0,1,0.0,0,3,0.0,0.0,4,5,0.8,1,1,2,1,0,0,1,1,4,1.1,N,0,0,allerik-freeman-2,Allerik Freeman,2017

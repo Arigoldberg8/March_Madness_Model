@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2010-11-13,San Diego State,@,Long Beach State,REG (Non-Conf),W 81-65,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+2,65,2,2010-11-16,San Diego State,@,Gonzaga,REG (Non-Conf),W 79-76,,14,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,3,0.667,0,2,2,2,1,0,0,2,8,6.1,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+3,66,3,2010-11-20,San Diego State,N,Green Bay,REG (Non-Conf),W 79-70,,8,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,1,3,0,0,1,0,1,5,5.3,N,1,1,brian-carlwell-1,Brian Carlwell,2011
+4,67,4,2010-11-21,San Diego State,N,IUPUI,REG (Non-Conf),W 61-46,,14,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,N,1,1,brian-carlwell-1,Brian Carlwell,2011
+5,68,5,2010-11-22,San Diego State,@,Miami (OH),REG (Non-Conf),W 77-56,,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,0,0,1,1,1,4,3.3,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+6,69,6,2010-11-26,San Diego State,,San Diego Christ,REG (Non-Conf),W 88-69,,17,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,1,1,0,0,2,1,0,6,5.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+7,70,7,2010-12-01,San Diego State,,St. Mary's (CA),REG (Non-Conf),W 69-55,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,1,2,0,0,2,1,0,5,5.8,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+8,71,8,2010-12-04,San Diego State,,Wichita State,REG (Non-Conf),W 83-69,,12,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,2,2,0,0,0,0,1,3,2.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+9,72,9,2010-12-08,San Diego State,@,California,REG (Non-Conf),W 77-57,,8,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,1,1,0,-1.8,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+10,73,10,2010-12-11,San Diego State,,San Diego,REG (Non-Conf),W 77-49,,11,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,2,1,3,0,0,0,1,1,8,6.0,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+11,74,11,2010-12-13,San Diego State,,Cal Poly,REG (Non-Conf),W 51-45,,4,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-0.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+12,75,12,2010-12-18,San Diego State,,UC Santa Barbara,REG (Non-Conf),W 90-64,,12,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,2,1,3,0,1,2,1,2,11,10.7,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+13,76,13,2010-12-21,San Diego State,N,San Francisco,REG (Non-Conf),W 62-56,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,brian-carlwell-1,Brian Carlwell,2011
+14,77,14,2010-12-22,San Diego State,N,IUPUI,REG (Non-Conf),W 56-54,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,1,0,2,1.7,N,1,1,brian-carlwell-1,Brian Carlwell,2011
+15,78,15,2010-12-31,San Diego State,,Occidental,REG (Non-Conf),W 93-50,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,1,5,0.2,3,3,6,1,0,0,3,1,7,2.7,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+16,79,16,2011-01-05,San Diego State,@,TCU,REG (Conf),W 66-53,,9,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,3,3,6,0,0,0,0,1,8,8.0,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+17,80,17,2011-01-08,San Diego State,@,Utah,REG (Conf),W 71-62,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,3,0,-0.9,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+18,81,18,2011-01-12,San Diego State,,UNLV,REG (Conf),W 55-49,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,1,0,1,0,1,2,3.0,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+19,82,19,2011-01-15,San Diego State,@,New Mexico,REG (Conf),W 87-77,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,2,2,1.2,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+20,83,20,2011-01-19,San Diego State,,Air Force,REG (Conf),W 68-55,,13,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,3,2,5,0,0,0,1,1,6,5.0,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+21,84,21,2011-01-26,San Diego State,@,Brigham Young,REG (Conf),L 58-71,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,A,0,1,brian-carlwell-1,Brian Carlwell,2011
+22,85,22,2011-01-29,San Diego State,,Wyoming,REG (Conf),W 96-57,,16,2,5,0.4,1,1,1.0,1,4,0.25,0.5,3,4,0.75,4,6,10,1,1,3,1,5,8,10.3,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+23,86,23,2011-02-02,San Diego State,@,Colorado State,REG (Conf),W 56-54,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,0,2,0,-0.2,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+24,87,24,2011-02-05,San Diego State,,TCU,REG (Conf),W 60-53,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,-1.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+25,88,25,2011-02-08,San Diego State,,Utah,REG (Conf),W 85-53,,22,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,1,2,3,0,0,2,0,3,10,6.4,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+26,89,26,2011-02-12,San Diego State,@,UNLV,REG (Conf),W 63-57,,16,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,2,3,5,0,0,1,3,3,4,1.8,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+27,90,27,2011-02-16,San Diego State,,New Mexico,REG (Conf),W 68-62,,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,5,1,6,0,1,2,1,4,3,4.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+28,91,28,2011-02-19,San Diego State,@,Air Force,REG (Conf),W 70-58,,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,1,3,0,0,0,2,2,3,0.5,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+29,92,29,2011-02-26,San Diego State,,Brigham Young,REG (Conf),L 67-80,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,0,0,4,4.4,H,0,1,brian-carlwell-1,Brian Carlwell,2011
+30,93,30,2011-03-01,San Diego State,@,Wyoming,REG (Conf),W 85-58,,17,6,9,0.667,0,0,,6,9,0.667,0.667,3,4,0.75,4,4,8,1,0,2,1,1,15,15.4,A,1,1,brian-carlwell-1,Brian Carlwell,2011
+31,94,31,2011-03-05,San Diego State,,Colorado State,REG (Conf),W 66-48,,15,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,2,4,0,0,2,1,0,4,6.1,H,1,1,brian-carlwell-1,Brian Carlwell,2011
+32,95,32,2011-03-10,San Diego State,N,Utah,CTOURN,W 64-50,,12,0,2,0.0,0,0,,0,2,0.0,0.0,3,4,0.75,1,0,1,0,0,0,3,0,3,-1.1,N,1,0,brian-carlwell-1,Brian Carlwell,2011
+33,96,33,2011-03-11,San Diego State,N,UNLV,CTOURN,W 74-72,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,2,0,-0.2,N,1,0,brian-carlwell-1,Brian Carlwell,2011
+34,97,34,2011-03-12,San Diego State,N,Brigham Young,CTOURN,W 72-54,,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,1,2,0,0,0,0,0,3,1.9,N,1,0,brian-carlwell-1,Brian Carlwell,2011
+35,98,35,2011-03-17,San Diego State,N,Northern Colorado,ROUND-64,W 68-50,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,3,4,0,0,1,0,1,0,0.5,N,1,0,brian-carlwell-1,Brian Carlwell,2011
+36,99,36,2011-03-19,San Diego State,N,Temple,ROUND-32,W 71-64 (2OT),,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,1,0,1,1,1,2,1.7,N,1,0,brian-carlwell-1,Brian Carlwell,2011
+37,100,37,2011-03-24,San Diego State,N,Connecticut,ROUND-16,L 67-74,,7,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,0,0,0,0,0,2,1.0,N,0,0,brian-carlwell-1,Brian Carlwell,2011

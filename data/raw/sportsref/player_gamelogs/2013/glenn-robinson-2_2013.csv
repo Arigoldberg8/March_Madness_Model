@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,Michigan,,Slippery Rock,REG (Non-Conf),W 100-62,*,32,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,2,6,8,2,0,0,1,0,10,10.7,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+2,2,2,2012-11-12,Michigan,,IUPUI,REG (Non-Conf),W 91-54,*,32,8,9,0.889,3,3,1.0,5,6,0.833,1.056,2,4,0.5,2,4,6,1,0,0,3,2,21,16.6,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+3,3,3,2012-11-13,Michigan,,Cleveland State,REG (Non-Conf),W 77-47,*,29,2,7,0.286,0,3,0.0,2,4,0.5,0.286,5,6,0.833,3,4,7,2,0,1,0,0,9,9.9,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+4,4,4,2012-11-21,Michigan,N,Pittsburgh,REG (Non-Conf),W 67-62,*,33,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,4,0.5,3,2,5,1,1,1,1,2,13,11.9,N,1,1,glenn-robinson-2,Glenn Robinson III,2013
+5,5,5,2012-11-23,Michigan,N,Kansas State,REG (Non-Conf),W 71-57,*,36,3,11,0.273,0,3,0.0,3,8,0.375,0.273,3,4,0.75,4,8,12,2,1,1,0,0,9,10.4,N,1,1,glenn-robinson-2,Glenn Robinson III,2013
+6,6,6,2012-11-27,Michigan,,NC State,REG (Non-Conf),W 79-72,*,32,3,5,0.6,1,2,0.5,2,3,0.667,0.7,4,4,1.0,2,5,7,0,0,0,2,2,11,8.8,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+7,7,7,2012-12-01,Michigan,@,Bradley,REG (Non-Conf),W 74-66,*,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,5,0.8,3,1,4,2,0,0,2,4,13,10.2,A,1,1,glenn-robinson-2,Glenn Robinson III,2013
+8,8,8,2012-12-04,Michigan,,Western Michigan,REG (Non-Conf),W 73-41,*,28,3,10,0.3,0,3,0.0,3,7,0.429,0.3,1,1,1.0,2,3,5,2,1,0,1,2,7,4.1,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+9,9,9,2012-12-08,Michigan,,Arkansas,REG (Non-Conf),W 80-67,*,29,7,11,0.636,2,3,0.667,5,8,0.625,0.727,1,1,1.0,3,3,6,0,1,0,2,1,17,13.7,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+10,10,10,2012-12-11,Michigan,,Binghamton,REG (Non-Conf),W 67-39,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,0,2,0.0,2,3,5,1,2,0,1,0,6,6.9,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+11,11,11,2012-12-15,Michigan,N,West Virginia,REG (Non-Conf),W 81-66,*,31,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,6,0.667,3,4,7,1,1,2,2,2,8,8.8,N,1,1,glenn-robinson-2,Glenn Robinson III,2013
+12,12,12,2012-12-20,Michigan,,Eastern Michigan,REG (Non-Conf),W 93-54,*,29,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,2,1.0,1,1,2,0,1,0,0,0,13,12.1,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+13,13,13,2012-12-29,Michigan,,Central Michigan,REG (Non-Conf),W 88-73,*,35,9,13,0.692,1,3,0.333,8,10,0.8,0.731,1,3,0.333,3,0,3,2,1,0,0,0,20,18.2,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+14,14,14,2013-01-03,Michigan,@,Northwestern,REG (Conf),W 94-66,*,29,4,4,1.0,0,0,,4,4,1.0,1.0,2,3,0.667,1,4,5,2,2,0,2,1,10,11.3,A,1,1,glenn-robinson-2,Glenn Robinson III,2013
+15,15,15,2013-01-06,Michigan,,Iowa,REG (Conf),W 95-67,*,32,8,13,0.615,1,2,0.5,7,11,0.636,0.654,3,4,0.75,4,6,10,3,1,0,1,1,20,20.0,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+16,16,16,2013-01-09,Michigan,,Nebraska,REG (Conf),W 62-47,*,39,5,6,0.833,0,0,,5,6,0.833,0.833,4,7,0.571,3,3,6,0,1,0,1,0,14,13.6,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+17,17,17,2013-01-13,Michigan,@,Ohio State,REG (Conf),L 53-56,*,38,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,0,1,1,2,1,0,2,1,8,3.9,A,0,1,glenn-robinson-2,Glenn Robinson III,2013
+18,18,18,2013-01-17,Michigan,@,Minnesota,REG (Conf),W 83-75,*,33,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,2,1.0,0,5,5,1,3,0,1,4,9,7.2,A,1,1,glenn-robinson-2,Glenn Robinson III,2013
+19,19,19,2013-01-24,Michigan,,Purdue,REG (Conf),W 68-53,*,37,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,2,7,9,1,0,0,0,1,12,13.2,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+20,20,20,2013-01-27,Michigan,@,Illinois,REG (Conf),W 74-60,*,38,6,8,0.75,0,1,0.0,6,7,0.857,0.75,0,0,,2,5,7,2,1,0,0,1,12,13.7,A,1,1,glenn-robinson-2,Glenn Robinson III,2013
+21,21,21,2013-01-30,Michigan,,Northwestern,REG (Conf),W 68-46,*,34,6,7,0.857,1,2,0.5,5,5,1.0,0.929,0,2,0.0,0,2,2,0,0,0,0,0,13,10.3,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+22,22,22,2013-02-02,Michigan,@,Indiana,REG (Conf),L 73-81,*,40,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,2,2,4,1,0,0,1,1,2,-0.5,A,0,1,glenn-robinson-2,Glenn Robinson III,2013
+23,23,23,2013-02-05,Michigan,,Ohio State,REG (Conf),W 76-74 (OT),*,41,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,5,0.6,3,1,4,4,2,0,1,1,10,10.6,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+24,24,24,2013-02-09,Michigan,@,Wisconsin,REG (Conf),L 62-65 (OT),*,33,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,2,3,0,2,0,0,2,4,3.1,A,0,1,glenn-robinson-2,Glenn Robinson III,2013
+25,25,25,2013-02-12,Michigan,@,Michigan State,REG (Conf),L 52-75,*,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,0,2,1,1,0,1,1,2,1.3,A,0,1,glenn-robinson-2,Glenn Robinson III,2013
+26,26,26,2013-02-17,Michigan,,Penn State,REG (Conf),W 79-71,*,33,6,6,1.0,0,0,,6,6,1.0,1.0,9,11,0.818,3,7,10,0,0,0,1,3,21,20.4,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+27,27,27,2013-02-24,Michigan,,Illinois,REG (Conf),W 71-58,*,36,5,9,0.556,0,3,0.0,5,6,0.833,0.556,0,0,,0,3,3,0,2,0,0,1,10,8.2,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+28,28,28,2013-02-27,Michigan,@,Penn State,REG (Conf),L 78-84,*,36,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,2,4,6,2,1,0,0,3,8,7.4,A,0,1,glenn-robinson-2,Glenn Robinson III,2013
+29,29,29,2013-03-03,Michigan,,Michigan State,REG (Conf),W 58-57,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,1,3,0,0,0,0,2,8,6.3,H,1,1,glenn-robinson-2,Glenn Robinson III,2013
+30,30,30,2013-03-06,Michigan,@,Purdue,REG (Conf),W 80-75,*,35,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,2,5,7,1,0,0,0,1,6,5.1,A,1,1,glenn-robinson-2,Glenn Robinson III,2013
+31,31,31,2013-03-10,Michigan,,Indiana,REG (Conf),L 71-72,*,37,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,4,0.5,1,4,5,1,1,1,0,0,13,13.6,H,0,1,glenn-robinson-2,Glenn Robinson III,2013
+32,32,32,2013-03-14,Michigan,N,Penn State,CTOURN,W 83-66,*,34,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,3,3,6,1,3,2,0,0,5,9.3,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+33,33,33,2013-03-15,Michigan,N,Wisconsin,CTOURN,L 59-68,*,32,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,4,0.0,1,2,3,0,2,0,0,0,8,5.7,N,0,0,glenn-robinson-2,Glenn Robinson III,2013
+34,34,34,2013-03-21,Michigan,N,South Dakota State,ROUND-64,W 71-56,*,37,8,9,0.889,3,3,1.0,5,6,0.833,1.056,2,2,1.0,2,4,6,0,1,0,0,2,21,20.7,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+35,35,35,2013-03-23,Michigan,N,VCU,ROUND-32,W 78-53,*,33,7,10,0.7,0,2,0.0,7,8,0.875,0.7,0,0,,2,7,9,2,2,0,0,1,14,16.3,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+36,36,36,2013-03-29,Michigan,N,Kansas,ROUND-16,W 87-85 (OT),*,42,5,11,0.455,1,4,0.25,4,7,0.571,0.5,2,3,0.667,5,3,8,1,3,0,2,0,13,13.0,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+37,37,37,2013-03-31,Michigan,N,Florida,ROUND-8,W 79-59,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,1,2,0,1,2,1,1,6,4.3,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+38,38,38,2013-04-06,Michigan,N,Syracuse,NATIONAL-SEMI,W 61-56,*,35,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,5,1,6,0,0,0,3,0,10,7.9,N,1,0,glenn-robinson-2,Glenn Robinson III,2013
+39,39,39,2013-04-08,Michigan,N,Louisville,NATIONAL-FINAL,L 76-82,*,38,3,4,0.75,0,1,0.0,3,3,1.0,0.75,6,8,0.75,1,1,2,2,0,0,0,1,12,11.6,N,0,0,glenn-robinson-2,Glenn Robinson III,2013

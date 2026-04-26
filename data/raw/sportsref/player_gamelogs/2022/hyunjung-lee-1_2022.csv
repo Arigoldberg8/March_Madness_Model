@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,51,1,2021-11-09,Davidson,,Delaware,REG (Non-Conf),W 93-71,*,29,5,9,0.556,3,3,1.0,2,6,0.333,0.722,2,3,0.667,0,5,5,5,0,1,0,1,15,15.6,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+2,52,2,2021-11-13,Davidson,@,San Francisco,REG (Non-Conf),L 60-65,*,37,3,9,0.333,1,4,0.25,2,5,0.4,0.389,4,4,1.0,2,7,9,2,2,0,4,1,11,8.4,A,0,1,hyunjung-lee-1,Hyunjung Lee,2022
+3,53,3,2021-11-18,Davidson,N,New Mexico State,REG (Non-Conf),L 64-75,*,36,6,15,0.4,2,9,0.222,4,6,0.667,0.467,0,0,,1,2,3,0,1,0,1,4,14,5.6,N,0,1,hyunjung-lee-1,Hyunjung Lee,2022
+4,54,4,2021-11-19,Davidson,N,Pennsylvania,REG (Non-Conf),W 72-60,*,26,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,0,4,4,2,0,0,2,2,12,8.2,N,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+5,55,5,2021-11-21,Davidson,N,East Carolina,REG (Non-Conf),W 76-67,*,34,8,15,0.533,5,10,0.5,3,5,0.6,0.7,4,5,0.8,0,10,10,1,0,0,1,3,25,18.8,N,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+6,56,6,2021-11-27,Davidson,,Robert Morris,REG (Non-Conf),W 88-70,*,27,10,15,0.667,2,6,0.333,8,9,0.889,0.733,1,1,1.0,0,3,3,4,1,0,0,2,23,20.4,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+7,57,7,2021-11-30,Davidson,@,Charlotte,REG (Non-Conf),W 75-58,*,35,9,17,0.529,6,12,0.5,3,5,0.6,0.706,8,8,1.0,1,13,14,0,0,0,2,1,32,25.9,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+8,58,8,2021-12-04,Davidson,,William & Mary,REG (Non-Conf),W 70-46,*,28,3,8,0.375,1,3,0.333,2,5,0.4,0.438,5,7,0.714,2,8,10,4,1,0,3,2,12,10.6,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+9,59,9,2021-12-12,Davidson,@,Northeastern,REG (Non-Conf),W 79-69,*,33,9,18,0.5,4,12,0.333,5,6,0.833,0.611,1,1,1.0,1,4,5,2,0,0,3,4,23,12.7,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+10,60,10,2021-12-18,Davidson,,Radford,REG (Non-Conf),W 74-54,*,28,5,9,0.556,1,4,0.25,4,5,0.8,0.611,3,4,0.75,0,6,6,3,1,0,0,2,14,13.4,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+11,61,11,2021-12-21,Davidson,N,Alabama,REG (Non-Conf),W 79-78,*,30,6,12,0.5,4,8,0.5,2,4,0.5,0.667,1,1,1.0,1,3,4,3,0,0,2,1,17,12.3,N,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+12,62,12,2021-12-22,Davidson,,Johnson/Wales-NC,REG (Non-Conf),W 106-64,*,16,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,2,2,4,1,1,0,1,1,12,10.6,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+13,63,13,2022-01-05,Davidson,@,Saint Joseph's,REG (Conf),W 88-73,*,31,5,11,0.455,2,4,0.5,3,7,0.429,0.545,5,7,0.714,1,9,10,2,1,0,0,2,17,15.5,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+14,64,14,2022-01-08,Davidson,,Rhode Island,REG (Conf),W 72-68,*,36,5,9,0.556,2,6,0.333,3,3,1.0,0.667,4,6,0.667,1,3,4,3,2,0,1,3,16,14.4,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+15,65,15,2022-01-11,Davidson,,Massachusetts,REG (Conf),W 77-67,*,33,7,15,0.467,4,8,0.5,3,7,0.429,0.6,0,1,0.0,0,7,7,1,0,0,1,4,18,10.1,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+16,66,16,2022-01-14,Davidson,@,Richmond,REG (Conf),W 87-84,*,36,7,12,0.583,2,5,0.4,5,7,0.714,0.667,3,3,1.0,2,6,8,2,2,0,6,1,19,13.6,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+17,67,17,2022-01-18,Davidson,@,VCU,REG (Conf),W 63-61,*,34,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,2,0.5,1,5,6,3,0,0,2,2,6,3.0,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+18,68,18,2022-01-22,Davidson,@,Fordham,REG (Conf),W 69-66,*,36,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,7,8,2,0,1,2,3,5,4.3,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+19,69,19,2022-01-26,Davidson,,VCU,REG (Conf),L 68-70,*,33,2,5,0.4,1,4,0.25,1,1,1.0,0.5,8,8,1.0,1,4,5,0,1,0,1,1,13,11.8,H,0,1,hyunjung-lee-1,Hyunjung Lee,2022
+20,70,20,2022-01-29,Davidson,,La Salle,REG (Conf),W 77-69,*,30,4,12,0.333,0,5,0.0,4,7,0.571,0.333,6,8,0.75,1,3,4,1,1,0,0,2,14,8.9,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+21,71,21,2022-02-01,Davidson,@,St. Bonaventure,REG (Conf),W 81-76,*,36,5,14,0.357,4,11,0.364,1,3,0.333,0.5,4,6,0.667,3,3,6,3,1,0,3,3,18,11.3,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+22,72,22,2022-02-05,Davidson,@,George Washington,REG (Conf),W 78-73,*,33,1,8,0.125,1,7,0.143,0,1,0.0,0.188,3,6,0.5,0,3,3,2,0,0,1,2,6,0.1,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+23,73,23,2022-02-09,Davidson,,Saint Joseph's,REG (Conf),W 73-67 (OT),*,40,6,16,0.375,1,5,0.2,5,11,0.455,0.406,2,2,1.0,1,7,8,0,2,1,1,3,15,9.5,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+24,74,24,2022-02-12,Davidson,@,Rhode Island,REG (Conf),L 65-72,*,30,6,15,0.4,0,5,0.0,6,10,0.6,0.4,5,5,1.0,1,2,3,1,1,1,1,4,17,10.0,A,0,1,hyunjung-lee-1,Hyunjung Lee,2022
+25,75,25,2022-02-14,Davidson,,Duquesne,REG (Conf),W 72-61,*,36,8,15,0.533,3,8,0.375,5,7,0.714,0.633,1,1,1.0,0,6,6,1,2,1,2,2,20,15.1,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+26,76,26,2022-02-19,Davidson,,Saint Louis,REG (Conf),W 79-58,*,30,8,12,0.667,4,6,0.667,4,6,0.667,0.833,9,10,0.9,0,4,4,2,2,1,1,2,29,26.9,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+27,77,27,2022-02-23,Davidson,@,Duquesne,REG (Conf),W 74-50,*,31,10,17,0.588,6,9,0.667,4,8,0.5,0.765,1,2,0.5,0,3,3,3,0,0,2,0,27,19.7,A,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+28,78,28,2022-02-26,Davidson,,Fordham,REG (Conf),W 66-45,*,29,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,1,1.0,1,3,4,2,2,0,0,1,10,10.6,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+29,79,29,2022-03-02,Davidson,,George Mason,REG (Conf),W 73-62,,33,7,12,0.583,3,6,0.5,4,6,0.667,0.708,1,4,0.25,0,8,8,1,0,0,1,1,18,12.9,H,1,1,hyunjung-lee-1,Hyunjung Lee,2022
+30,80,30,2022-03-05,Davidson,@,Dayton,REG (Conf),L 76-82,*,34,7,14,0.5,3,8,0.375,4,6,0.667,0.607,0,1,0.0,0,7,7,3,0,1,0,2,17,13.7,A,0,1,hyunjung-lee-1,Hyunjung Lee,2022
+31,81,31,2022-03-11,Davidson,N,Fordham,CTOURN,W 74-56,*,30,4,7,0.571,1,1,1.0,3,6,0.5,0.643,2,3,0.667,1,7,8,0,0,0,1,3,11,7.9,N,1,0,hyunjung-lee-1,Hyunjung Lee,2022
+32,82,32,2022-03-12,Davidson,N,Saint Louis,CTOURN,W 84-69,*,32,5,9,0.556,2,6,0.333,3,3,1.0,0.667,4,5,0.8,0,6,6,2,0,0,1,1,16,13.1,N,1,0,hyunjung-lee-1,Hyunjung Lee,2022
+33,83,33,2022-03-13,Davidson,N,Richmond,CTOURN,L 62-64,*,34,1,9,0.111,1,7,0.143,0,2,0.0,0.167,2,2,1.0,0,4,4,2,0,2,4,1,5,-1.3,N,0,0,hyunjung-lee-1,Hyunjung Lee,2022
+34,84,34,2022-03-18,Davidson,N,Michigan State,ROUND-64,L 73-74,*,35,4,11,0.364,3,7,0.429,1,4,0.25,0.5,0,0,,1,3,4,1,0,0,2,4,11,3.6,N,0,0,hyunjung-lee-1,Hyunjung Lee,2022

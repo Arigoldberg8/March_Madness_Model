@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,12,1,2017-11-10,Kansas,,Tennessee State,REG (Non-Conf),W 92-56,*,30,6,7,0.857,0,0,6,7,0.857,0.857,1,1,1.0,2,4,6,0,1,2,2,2,13,12.7,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+2,13,2,2017-11-14,Kansas,N,Kentucky,REG (Non-Conf),W 65-61,*,34,5,5,1.0,0,0,5,5,1.0,1.0,3,8,0.375,5,3,8,1,0,2,1,3,13,13.8,N,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+3,14,3,2017-11-17,Kansas,,South Dakota State,REG (Non-Conf),W 98-64,*,23,8,9,0.889,0,0,8,9,0.889,0.889,1,3,0.333,0,2,2,0,0,2,1,2,17,13.3,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+4,15,4,2017-11-21,Kansas,,Texas Southern,REG (Non-Conf),W 114-71,*,27,9,12,0.75,0,0,9,12,0.75,0.75,2,4,0.5,2,7,9,1,1,1,1,2,20,18.5,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+5,16,5,2017-11-24,Kansas,,Oakland,REG (Non-Conf),W 102-59,*,20,10,16,0.625,0,0,10,16,0.625,0.625,1,4,0.25,6,4,10,0,1,2,2,2,21,17.6,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+6,17,6,2017-11-28,Kansas,,Toledo,REG (Non-Conf),W 96-58,*,24,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,0,5,5,1,1,0,1,2,12,9.5,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+7,18,7,2017-12-02,Kansas,N,Syracuse,REG (Non-Conf),W 76-60,*,23,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,8,9,0,0,1,0,4,6,7.3,N,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+8,19,8,2017-12-06,Kansas,N,Washington,REG (Non-Conf),L 65-74,*,23,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,2,7,9,0,0,2,2,3,10,9.5,N,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+9,20,9,2017-12-10,Kansas,,Arizona State,REG (Non-Conf),L 85-95,*,22,6,7,0.857,0,0,6,7,0.857,0.857,1,1,1.0,3,6,9,1,0,2,2,2,13,13.7,H,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+10,21,10,2017-12-16,Kansas,@,Nebraska,REG (Non-Conf),W 73-72,*,26,13,17,0.765,0,0,13,17,0.765,0.765,0,0,,5,5,10,1,1,1,0,3,26,25.5,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+11,22,11,2017-12-18,Kansas,,Omaha,REG (Non-Conf),W 109-64,*,22,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,10,12,0,0,2,2,1,11,11.1,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+12,23,12,2017-12-21,Kansas,@,Stanford,REG (Non-Conf),W 75-54,*,26,12,15,0.8,0,0,12,15,0.8,0.8,0,2,0.0,4,3,7,1,0,2,2,3,24,20.1,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+13,24,13,2017-12-29,Kansas,@,Texas,REG (Conf),W 92-86,*,29,6,11,0.545,0,0,6,11,0.545,0.545,1,1,1.0,6,7,13,1,0,0,2,3,13,11.5,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+14,25,14,2018-01-02,Kansas,,Texas Tech,REG (Conf),L 73-85,*,28,4,6,0.667,0,0,4,6,0.667,0.667,3,7,0.429,3,4,7,1,0,1,2,3,11,8.3,H,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+15,26,15,2018-01-06,Kansas,@,TCU,REG (Conf),W 88-84,*,13,6,6,1.0,0,0,6,6,1.0,1.0,2,4,0.5,0,1,1,1,0,0,1,5,14,9.4,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+16,27,16,2018-01-09,Kansas,,Iowa State,REG (Conf),W 83-78,*,29,4,5,0.8,0,0,4,5,0.8,0.8,1,4,0.25,1,5,6,0,1,4,1,3,9,9.7,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+17,28,17,2018-01-13,Kansas,,Kansas State,REG (Conf),W 73-72,*,32,8,9,0.889,0,0,8,9,0.889,0.889,2,3,0.667,4,4,8,1,0,5,4,1,18,18.3,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+18,29,18,2018-01-15,Kansas,@,West Virginia,REG (Conf),W 71-66,*,20,5,5,1.0,0,0,5,5,1.0,1.0,0,1,0.0,2,7,9,1,1,1,0,5,10,12.0,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+19,30,19,2018-01-20,Kansas,,Baylor,REG (Conf),W 70-67,*,34,5,8,0.625,0,0,5,8,0.625,0.625,4,11,0.364,4,3,7,1,1,1,3,2,14,9.9,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+20,31,20,2018-01-23,Kansas,@,Oklahoma,REG (Conf),L 80-85,*,22,4,5,0.8,0,0,4,5,0.8,0.8,1,8,0.125,3,3,6,1,1,0,1,4,9,6.4,A,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+21,32,21,2018-01-27,Kansas,,Texas A&M,REG (Non-Conf),W 79-68,*,22,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,3,3,6,2,0,4,1,3,8,9.0,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+22,33,22,2018-01-29,Kansas,@,Kansas State,REG (Conf),W 70-56,*,18,2,2,1.0,0,0,2,2,1.0,1.0,2,5,0.4,1,2,3,1,0,0,3,3,6,2.0,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+23,34,23,2018-02-03,Kansas,,Oklahoma State,REG (Conf),L 79-84,*,21,8,11,0.727,0,0,8,11,0.727,0.727,4,7,0.571,3,2,5,0,2,0,2,4,20,15.4,H,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+24,35,24,2018-02-06,Kansas,,TCU,REG (Conf),W 71-64,*,25,6,10,0.6,0,0,6,10,0.6,0.6,4,7,0.571,3,8,11,0,0,2,2,3,16,12.9,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+25,36,25,2018-02-10,Kansas,@,Baylor,REG (Conf),L 64-80,*,19,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,2,2,4,1,0,1,3,4,8,5.6,A,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+26,37,26,2018-02-13,Kansas,@,Iowa State,REG (Conf),W 83-77,*,22,9,10,0.9,0,0,9,10,0.9,0.9,1,1,1.0,0,3,3,0,0,3,1,4,19,16.0,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+27,38,27,2018-02-17,Kansas,,West Virginia,REG (Conf),W 77-69,*,31,7,8,0.875,0,0,7,8,0.875,0.875,7,10,0.7,3,2,5,0,2,3,4,3,21,18.6,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+28,39,28,2018-02-19,Kansas,,Oklahoma,REG (Conf),W 104-74,*,18,5,6,0.833,0,0,5,6,0.833,0.833,0,1,0.0,2,6,8,0,3,3,1,3,10,13.5,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+29,40,29,2018-02-24,Kansas,@,Texas Tech,REG (Conf),W 74-72,*,29,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,6,7,0,0,3,2,3,6,5.8,A,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+30,41,30,2018-02-26,Kansas,,Texas,REG (Conf),W 80-70,*,21,10,11,0.909,0,0,10,11,0.909,0.909,0,4,0.0,2,6,8,1,0,5,2,2,20,19.3,H,1,1,udoka-azubuike-1,Udoka Azubuike,2018
+31,42,31,2018-03-03,Kansas,@,Oklahoma State,REG (Conf),L 64-82,*,20,4,6,0.667,0,0,4,6,0.667,0.667,0,2,0.0,2,5,7,1,0,0,4,4,8,2.6,A,0,1,udoka-azubuike-1,Udoka Azubuike,2018
+32,43,35,2018-03-15,Kansas,N,Pennsylvania,ROUND-64,W 76-60,,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,1,0,0,0,0,1.3,N,1,0,udoka-azubuike-1,Udoka Azubuike,2018
+33,44,36,2018-03-17,Kansas,N,Seton Hall,ROUND-32,W 83-79,,22,4,5,0.8,0,0,4,5,0.8,0.8,2,4,0.5,1,6,7,2,2,2,3,4,10,10.0,N,1,0,udoka-azubuike-1,Udoka Azubuike,2018
+34,45,37,2018-03-23,Kansas,N,Clemson,ROUND-16,W 80-76,*,25,7,9,0.778,0,0,7,9,0.778,0.778,0,2,0.0,4,7,11,1,0,2,3,5,14,11.7,N,1,0,udoka-azubuike-1,Udoka Azubuike,2018
+35,46,38,2018-03-25,Kansas,N,Duke,ROUND-8,W 85-81 (OT),*,19,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,5,3,8,2,1,0,1,5,9,9.8,N,1,0,udoka-azubuike-1,Udoka Azubuike,2018
+36,47,39,2018-03-31,Kansas,N,Villanova,NATIONAL-SEMI,L 79-95,*,26,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,0,5,5,0,0,1,1,3,8,5.4,N,0,0,udoka-azubuike-1,Udoka Azubuike,2018

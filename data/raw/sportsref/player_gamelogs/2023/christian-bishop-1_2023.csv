@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,125,1,2022-11-07,Texas,,UTEP,REG (Non-Conf),W 72-57,,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,3,0.0,0,3,3,0,1,1,0,1,2,2.7,H,1,1,christian-bishop-1,Christian Bishop,2023
+2,126,2,2022-11-10,Texas,,Houston Christian,REG (Non-Conf),W 82-31,,14,0,0,,0,0,,0,0,,,0,0,,2,1,3,0,1,2,0,0,0,4.1,H,1,1,christian-bishop-1,Christian Bishop,2023
+3,127,3,2022-11-16,Texas,,Gonzaga,REG (Non-Conf),W 93-74,,20,4,6,0.667,0,2,0.0,4,4,1.0,0.667,1,1,1.0,0,0,0,1,2,0,0,3,9,7.9,H,1,1,christian-bishop-1,Christian Bishop,2023
+4,128,4,2022-11-21,Texas,N,Northern Arizona,REG (Non-Conf),W 73-48,,19,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,0,0,0,0,0,0,2,0,4,-0.1,N,1,1,christian-bishop-1,Christian Bishop,2023
+5,129,5,2022-11-26,Texas,,Texas–Rio Grande Valley,REG (Non-Conf),W 91-54,,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,4,4,1,0,4,0,2,6,7.6,H,1,1,christian-bishop-1,Christian Bishop,2023
+6,130,6,2022-12-01,Texas,,Creighton,REG (Non-Conf),W 72-67,,16,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,4,4,1,0,0,0,1,6,4.5,H,1,1,christian-bishop-1,Christian Bishop,2023
+7,131,7,2022-12-06,Texas,N,Illinois,REG (Non-Conf),L 78-85 (OT),,17,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,4,0.25,1,2,3,1,2,0,2,3,7,2.9,N,0,1,christian-bishop-1,Christian Bishop,2023
+8,132,8,2022-12-10,Texas,,Arkansas–Pine Bluff,REG (Non-Conf),W 88-43,,20,7,10,0.7,0,2,0.0,7,8,0.875,0.7,2,2,1.0,4,5,9,4,0,0,2,2,16,16.1,H,1,1,christian-bishop-1,Christian Bishop,2023
+9,133,9,2022-12-12,Texas,,Rice,REG (Non-Conf),W 87-81 (OT),,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,0,0,0,0,4,6,3.8,H,1,1,christian-bishop-1,Christian Bishop,2023
+10,134,10,2022-12-18,Texas,N,Stanford,REG (Non-Conf),W 72-62,,14,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,1,1,2,1,1,0,1,0,4,2.9,N,1,1,christian-bishop-1,Christian Bishop,2023
+11,135,11,2022-12-21,Texas,,Louisiana,REG (Non-Conf),W 100-72,,20,5,6,0.833,0,0,,5,6,0.833,0.833,0,1,0.0,1,7,8,0,2,2,3,2,10,9.8,H,1,1,christian-bishop-1,Christian Bishop,2023
+12,136,12,2022-12-27,Texas,,Texas A&M–Commerce,REG (Non-Conf),W 97-72,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,2,2,4,2,1,1,0,3,9,9.6,H,1,1,christian-bishop-1,Christian Bishop,2023
+13,137,13,2022-12-31,Texas,@,Oklahoma,REG (Conf),W 70-69,,22,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,3,3,1,1,0,2,2,8,5.9,A,1,1,christian-bishop-1,Christian Bishop,2023
+14,138,14,2023-01-03,Texas,,Kansas State,REG (Conf),L 103-116,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,0,1,1,0,0,1,0,0,5,4.6,H,0,1,christian-bishop-1,Christian Bishop,2023
+15,139,15,2023-01-07,Texas,@,Oklahoma State,REG (Conf),W 56-46,,13,2,5,0.4,0,0,,2,5,0.4,0.4,2,3,0.667,1,2,3,0,0,0,0,4,6,2.6,A,1,1,christian-bishop-1,Christian Bishop,2023
+16,140,16,2023-01-11,Texas,,TCU,REG (Conf),W 79-75,,17,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,0,1,1,1,1,0,3,2,6,1.5,H,1,1,christian-bishop-1,Christian Bishop,2023
+17,141,17,2023-01-14,Texas,,Texas Tech,REG (Conf),W 72-70,,20,2,2,1.0,0,0,,2,2,1.0,1.0,3,4,0.75,2,4,6,0,3,0,2,4,7,8.0,H,1,1,christian-bishop-1,Christian Bishop,2023
+18,142,18,2023-01-17,Texas,@,Iowa State,REG (Conf),L 67-78,,19,4,7,0.571,0,0,,4,7,0.571,0.571,4,4,1.0,2,3,5,1,1,2,2,4,12,10.5,A,0,1,christian-bishop-1,Christian Bishop,2023
+19,143,19,2023-01-21,Texas,@,West Virginia,REG (Conf),W 69-61,,24,5,9,0.556,0,0,,5,9,0.556,0.556,1,2,0.5,4,3,7,1,1,0,2,2,11,8.9,A,1,1,christian-bishop-1,Christian Bishop,2023
+20,144,20,2023-01-24,Texas,,Oklahoma State,REG (Conf),W 89-75,,7,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,2,0,0,1,4,4,1.7,H,1,1,christian-bishop-1,Christian Bishop,2023
+21,145,21,2023-01-28,Texas,@,Tennessee,REG (Non-Conf),L 71-82,,19,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,3,2,5,2,0,0,1,1,7,4.9,A,0,1,christian-bishop-1,Christian Bishop,2023
+22,146,22,2023-01-30,Texas,,Baylor,REG (Conf),W 76-71,,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,1,2,1,0,0,0,3,3,1.4,H,1,1,christian-bishop-1,Christian Bishop,2023
+23,147,23,2023-02-04,Texas,@,Kansas State,REG (Conf),W 69-66,,26,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,3,0.667,5,1,6,0,2,2,3,3,14,11.3,A,1,1,christian-bishop-1,Christian Bishop,2023
+24,148,24,2023-02-06,Texas,@,Kansas,REG (Conf),L 80-88,,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,2,1,0,2,3,6,4.5,A,0,1,christian-bishop-1,Christian Bishop,2023
+25,149,25,2023-02-11,Texas,,West Virginia,REG (Conf),W 94-60,,23,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,1,4,5,1,1,0,0,3,6,5.0,H,1,1,christian-bishop-1,Christian Bishop,2023
+26,150,26,2023-02-13,Texas,@,Texas Tech,REG (Conf),L 67-74,,16,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,0,1,1,0,2,3,3.5,A,0,1,christian-bishop-1,Christian Bishop,2023
+27,151,27,2023-02-18,Texas,,Oklahoma,REG (Conf),W 85-83 (OT),,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,4,2,-1.6,H,1,1,christian-bishop-1,Christian Bishop,2023
+28,152,28,2023-02-21,Texas,,Iowa State,REG (Conf),W 72-54,,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,5,0.2,3,3,6,1,3,0,2,3,3,2.5,H,1,1,christian-bishop-1,Christian Bishop,2023
+29,153,29,2023-02-25,Texas,@,Baylor,REG (Conf),L 72-81,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,1,0,1,2,0,-2.2,A,0,1,christian-bishop-1,Christian Bishop,2023
+30,154,30,2023-03-01,Texas,@,TCU,REG (Conf),L 73-75,,20,2,3,0.667,0,0,,2,3,0.667,0.667,1,3,0.333,1,3,4,1,0,1,1,1,5,4.5,A,0,1,christian-bishop-1,Christian Bishop,2023
+31,155,31,2023-03-04,Texas,,Kansas,REG (Conf),W 75-59,,18,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,1,4,5,2,2,1,1,2,6,7.4,H,1,1,christian-bishop-1,Christian Bishop,2023
+32,156,32,2023-03-09,Texas,N,Oklahoma State,CTOURN,W 61-47,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,0,0,0,1,3,1,-2.4,N,1,0,christian-bishop-1,Christian Bishop,2023
+33,157,33,2023-03-10,Texas,N,TCU,CTOURN,W 66-60,,27,5,9,0.556,0,0,,5,9,0.556,0.556,5,6,0.833,4,3,7,0,1,3,0,3,15,15.9,N,1,0,christian-bishop-1,Christian Bishop,2023
+34,158,34,2023-03-11,Texas,N,Kansas,CTOURN,W 76-56,,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,5,5,3,0,0,0,0,4,4.9,N,1,0,christian-bishop-1,Christian Bishop,2023
+35,159,35,2023-03-16,Texas,N,Colgate,ROUND-64,W 81-61,,17,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,1,4,5,2,1,1,2,1,8,7.6,N,1,0,christian-bishop-1,Christian Bishop,2023
+36,160,36,2023-03-18,Texas,N,Penn State,ROUND-32,W 71-66,,9,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,0,1,0,0,0,1,1,3,0.2,N,1,0,christian-bishop-1,Christian Bishop,2023
+37,161,37,2023-03-24,Texas,N,Xavier,ROUND-16,W 83-71,,24,8,12,0.667,0,0,,8,12,0.667,0.667,2,2,1.0,3,6,9,0,0,0,1,3,18,14.5,N,1,0,christian-bishop-1,Christian Bishop,2023
+38,162,38,2023-03-26,Texas,N,Miami (FL),ROUND-8,L 81-88,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,3,5,3,0,0,2,3,7,5.8,N,0,0,christian-bishop-1,Christian Bishop,2023

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2021-11-09,Iowa,,Longwood,REG (Non-Conf),W 106-73,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,5,5,1,0,0,1,1,2,1.1,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+2,89,2,2021-11-12,Iowa,,Kansas City,REG (Non-Conf),W 89-57,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,3,10,13,1,1,1,0,1,9,13.8,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+3,90,3,2021-11-16,Iowa,,North Carolina Central,REG (Non-Conf),W 86-69,*,24,2,2,1.0,0,0,,2,2,1.0,1.0,4,7,0.571,4,2,6,0,0,0,1,4,8,7.0,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+4,91,4,2021-11-18,Iowa,,Alabama State,REG (Non-Conf),W 108-82,*,17,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,2,6,8,1,0,1,0,1,5,8.6,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+5,92,5,2021-11-22,Iowa,,Western Michigan,REG (Non-Conf),W 109-61,*,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,2,3,5,0,0,1,1,1,6,4.9,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+6,93,6,2021-11-26,Iowa,,Portland State,REG (Non-Conf),W 85-51,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,7,9,0,1,2,3,1,5,4.4,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+7,94,7,2021-11-29,Iowa,@,Virginia,REG (Non-Conf),W 75-74,*,28,4,4,1.0,0,0,,4,4,1.0,1.0,0,3,0.0,2,1,3,0,0,0,0,2,8,6.5,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+8,95,8,2021-12-03,Iowa,@,Purdue,REG (Conf),L 70-77,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,0,0,0,0,5,3,-0.1,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+9,96,9,2021-12-06,Iowa,,Illinois,REG (Conf),L 83-87,*,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,6,8,2,0,0,1,4,3,2.2,H,0,1,filip-rebraca-1,Filip Rebraca,2022
+10,97,10,2021-12-09,Iowa,@,Iowa State,REG (Non-Conf),L 53-73,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,1,3,4,1,0,0,2,3,7,4.4,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+11,98,11,2021-12-18,Iowa,N,Utah State,REG (Non-Conf),W 94-75,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,1,3,4,0,0,1,1,3,7,4.4,N,1,1,filip-rebraca-1,Filip Rebraca,2022
+12,99,12,2021-12-21,Iowa,,Southeastern Louisiana,REG (Non-Conf),W 93-62,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,1,8,9,2,0,2,2,2,5,3.6,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+13,100,13,2021-12-29,Iowa,,Western Illinois,REG (Non-Conf),W 92-71,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,4,4,0,0,0,1,0,5,3.5,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+14,101,14,2022-01-03,Iowa,,Maryland,REG (Conf),W 80-75,*,29,6,8,0.75,0,1,0.0,6,7,0.857,0.75,1,3,0.333,2,6,8,1,0,0,0,3,13,11.7,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+15,102,15,2022-01-06,Iowa,@,Wisconsin,REG (Conf),L 78-87,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,2,2,0.5,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+16,103,16,2022-01-13,Iowa,,Indiana,REG (Conf),W 83-74,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,3,4,1,0,2,0,4,4,4.8,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+17,104,17,2022-01-16,Iowa,@,Minnesota,REG (Conf),W 81-71,*,32,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,6,6,12,1,3,2,1,2,12,16.0,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+18,105,18,2022-01-19,Iowa,@,Rutgers,REG (Conf),L 46-48,*,34,4,10,0.4,0,0,,4,10,0.4,0.4,0,1,0.0,4,6,10,0,2,0,1,3,8,6.6,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+19,106,19,2022-01-22,Iowa,,Penn State,REG (Conf),W 68-51,*,20,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,5,5,0,0,0,1,2,8,5.8,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+20,107,20,2022-01-27,Iowa,,Purdue,REG (Conf),L 73-83,*,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,1,0,1,2,2.0,H,0,1,filip-rebraca-1,Filip Rebraca,2022
+21,108,21,2022-01-31,Iowa,@,Penn State,REG (Conf),L 86-90 (2OT),*,32,4,5,0.8,0,0,,4,5,0.8,0.8,3,3,1.0,3,3,6,0,1,1,1,3,11,11.6,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+22,109,22,2022-02-06,Iowa,,Minnesota,REG (Conf),W 71-59,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,1,1,0,0,1,4,5.0,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+23,110,23,2022-02-10,Iowa,@,Maryland,REG (Conf),W 110-87,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,3,4,7,1,1,0,2,2,6,6.9,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+24,111,24,2022-02-13,Iowa,,Nebraska,REG (Conf),W 98-75,*,21,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,6,6,1,1,0,1,1,4,2.0,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+25,112,25,2022-02-17,Iowa,,Michigan,REG (Conf),L 79-84,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,4,2,6,3,0,0,2,4,12,9.2,H,0,1,filip-rebraca-1,Filip Rebraca,2022
+26,113,26,2022-02-19,Iowa,@,Ohio State,REG (Conf),W 75-62,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,3,5,0,0,0,3,4,5,1.0,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+27,114,27,2022-02-22,Iowa,,Michigan State,REG (Conf),W 86-60,*,22,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,3,4,7,1,0,2,1,2,4,6.2,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+28,115,28,2022-02-25,Iowa,@,Nebraska,REG (Conf),W 88-78,*,24,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,3,0,3,0,0,1,2,1,6,2.3,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+29,116,29,2022-02-28,Iowa,,Northwestern,REG (Conf),W 82-61,*,18,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,4,1,5,1,0,1,0,1,1,1.9,H,1,1,filip-rebraca-1,Filip Rebraca,2022
+30,117,30,2022-03-03,Iowa,@,Michigan,REG (Conf),W 82-71,*,17,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,2,2,0,0,1,0,3,4,0.7,A,1,1,filip-rebraca-1,Filip Rebraca,2022
+31,118,31,2022-03-06,Iowa,@,Illinois,REG (Conf),L 72-74,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,0,3,0,1,0,2,2,6,4.0,A,0,1,filip-rebraca-1,Filip Rebraca,2022
+32,119,32,2022-03-10,Iowa,N,Northwestern,CTOURN,W 112-76,*,23,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,3,6,9,4,0,2,1,3,10,14.4,N,1,0,filip-rebraca-1,Filip Rebraca,2022
+33,120,33,2022-03-11,Iowa,N,Rutgers,CTOURN,W 84-74,*,26,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,1,5,6,1,0,1,0,3,5,6.1,N,1,0,filip-rebraca-1,Filip Rebraca,2022
+34,121,34,2022-03-12,Iowa,N,Indiana,CTOURN,W 80-77,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,0,1,0,0.5,N,1,0,filip-rebraca-1,Filip Rebraca,2022
+35,122,35,2022-03-13,Iowa,N,Purdue,CTOURN,W 75-66,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,1,1,2,1,1,0,0,4,3,2.3,N,1,0,filip-rebraca-1,Filip Rebraca,2022
+36,123,36,2022-03-17,Iowa,N,Richmond,ROUND-64,L 63-67,*,25,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,7,9,1,1,2,0,3,5,7.3,N,0,0,filip-rebraca-1,Filip Rebraca,2022

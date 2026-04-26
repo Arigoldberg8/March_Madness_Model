@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2011-11-13,Wichita State,,Charleston Southern,REG (Non-Conf),W 85-57,*,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,3,2,0,1,2,2,3.6,H,1,1,joe-ragland-1,Joe Ragland,2012
+2,39,2,2011-11-17,Wichita State,N,Colorado,REG (Non-Conf),W 67-58,*,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,4,4,4,2,0,1,4,4,4.7,N,1,1,joe-ragland-1,Joe Ragland,2012
+3,40,3,2011-11-18,Wichita State,N,Alabama,REG (Non-Conf),L 60-70,*,37,5,13,0.385,2,5,0.4,3,8,0.375,0.462,2,3,0.667,3,4,7,2,2,0,5,2,14,7.4,N,0,1,joe-ragland-1,Joe Ragland,2012
+4,41,4,2011-11-20,Wichita State,N,Temple,REG (Non-Conf),L 74-78 (OT),*,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,1,1,2,0,1,1,5,8,4.1,N,0,1,joe-ragland-1,Joe Ragland,2012
+5,42,5,2011-11-25,Wichita State,N,UAB,REG (Non-Conf),W 68-46,*,25,2,3,0.667,0,1,0.0,2,2,1.0,0.667,5,6,0.833,0,3,3,4,0,0,3,2,9,7.2,N,1,1,joe-ragland-1,Joe Ragland,2012
+6,43,6,2011-12-01,Wichita State,,Cal State Fullerton,REG (Non-Conf),W 75-60,*,23,5,6,0.833,3,4,0.75,2,2,1.0,1.083,2,2,1.0,0,1,1,3,1,0,2,1,15,13.8,H,1,1,joe-ragland-1,Joe Ragland,2012
+7,44,7,2011-12-04,Wichita State,,UNLV,REG (Non-Conf),W 89-70,*,35,9,12,0.75,8,9,0.889,1,3,0.333,1.083,5,6,0.833,0,5,5,3,1,0,0,1,31,30.0,H,1,1,joe-ragland-1,Joe Ragland,2012
+8,45,8,2011-12-07,Wichita State,@,Tulsa,REG (Non-Conf),W 77-67,*,36,4,9,0.444,0,2,0.0,4,7,0.571,0.444,3,4,0.75,1,3,4,4,0,0,2,2,11,7.5,A,1,1,joe-ragland-1,Joe Ragland,2012
+9,46,9,2011-12-10,Wichita State,,Utah State,REG (Non-Conf),W 83-76,*,33,6,10,0.6,4,7,0.571,2,3,0.667,0.8,3,3,1.0,2,4,6,3,0,0,1,1,19,17.7,H,1,1,joe-ragland-1,Joe Ragland,2012
+10,47,10,2011-12-14,Wichita State,,Chicago State,REG (Non-Conf),W 94-44,*,16,4,6,0.667,1,3,0.333,3,3,1.0,0.75,3,3,1.0,0,3,3,6,1,0,0,0,12,15.5,H,1,1,joe-ragland-1,Joe Ragland,2012
+11,48,11,2011-12-19,Wichita State,,Newman,REG (Non-Conf),W 102-53,*,22,5,7,0.714,0,2,0.0,5,5,1.0,0.714,1,2,0.5,0,4,4,6,1,0,2,2,11,11.3,H,1,1,joe-ragland-1,Joe Ragland,2012
+12,49,12,2011-12-28,Wichita State,@,Bradley,REG (Conf),W 90-51,*,16,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,2,1.0,0,0,0,3,1,0,2,2,12,9.0,A,1,1,joe-ragland-1,Joe Ragland,2012
+13,50,13,2011-12-31,Wichita State,,Creighton,REG (Conf),L 61-68,*,26,3,10,0.3,1,6,0.167,2,4,0.5,0.35,5,8,0.625,0,2,2,3,0,0,3,4,12,3.1,H,0,1,joe-ragland-1,Joe Ragland,2012
+14,51,14,2012-01-04,Wichita State,@,Evansville,REG (Conf),W 67-66,*,22,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,0,1,1,1,0,0,5,3,6,-0.9,A,1,1,joe-ragland-1,Joe Ragland,2012
+15,52,15,2012-01-07,Wichita State,@,Southern Illinois,REG (Conf),W 83-73,*,33,9,16,0.563,2,5,0.4,7,11,0.636,0.625,0,2,0.0,2,1,3,3,2,0,1,2,20,15.6,A,1,1,joe-ragland-1,Joe Ragland,2012
+16,53,16,2012-01-10,Wichita State,,Illinois State,REG (Conf),W 65-62,*,33,6,8,0.75,1,3,0.333,5,5,1.0,0.813,2,2,1.0,0,4,4,4,0,0,2,3,15,12.6,H,1,1,joe-ragland-1,Joe Ragland,2012
+17,54,18,2012-01-15,Wichita State,@,Indiana State,REG (Conf),W 75-65,*,31,1,7,0.143,1,4,0.25,0,3,0.0,0.214,5,5,1.0,0,0,0,3,2,0,1,2,8,5.8,A,1,1,joe-ragland-1,Joe Ragland,2012
+18,55,19,2012-01-18,Wichita State,@,Northern Iowa,REG (Conf),W 71-68,*,29,3,6,0.5,3,5,0.6,0,1,0.0,0.75,4,4,1.0,0,1,1,1,2,0,3,4,13,8.4,A,1,1,joe-ragland-1,Joe Ragland,2012
+19,56,20,2012-01-21,Wichita State,,Southern Illinois,REG (Conf),W 85-42,*,23,5,10,0.5,0,3,0.0,5,7,0.714,0.5,1,1,1.0,0,3,3,5,0,0,1,0,11,9.4,H,1,1,joe-ragland-1,Joe Ragland,2012
+20,57,21,2012-01-25,Wichita State,,Evansville,REG (Conf),W 86-74,*,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,5,6,0.833,0,1,1,2,0,0,0,4,8,6.7,H,1,1,joe-ragland-1,Joe Ragland,2012
+21,58,22,2012-01-28,Wichita State,@,Drake,REG (Conf),L 86-93 (3OT),*,35,8,15,0.533,4,6,0.667,4,9,0.444,0.667,5,5,1.0,0,6,6,6,2,0,3,4,25,21.1,A,0,1,joe-ragland-1,Joe Ragland,2012
+22,59,23,2012-02-01,Wichita State,@,Missouri State,REG (Conf),W 74-67,*,23,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,2,2,4,0,0,3,2,10,7.0,A,1,1,joe-ragland-1,Joe Ragland,2012
+23,60,24,2012-02-04,Wichita State,,Indiana State,REG (Conf),W 71-66,*,35,4,12,0.333,0,2,0.0,4,10,0.4,0.333,3,4,0.75,1,2,3,3,3,0,1,1,11,8.8,H,1,1,joe-ragland-1,Joe Ragland,2012
+24,61,25,2012-02-08,Wichita State,,Northern Iowa,REG (Conf),W 82-57,*,29,7,9,0.778,5,7,0.714,2,2,1.0,1.056,0,0,,0,3,3,3,0,0,4,2,19,13.7,H,1,1,joe-ragland-1,Joe Ragland,2012
+25,62,26,2012-02-11,Wichita State,@,Creighton,REG (Conf),W 89-68,*,32,9,12,0.75,2,4,0.5,7,8,0.875,0.833,4,4,1.0,1,3,4,6,0,1,1,2,24,23.9,A,1,1,joe-ragland-1,Joe Ragland,2012
+26,63,27,2012-02-15,Wichita State,,Missouri State,REG (Conf),W 73-58,*,31,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,4,4,5,2,0,4,3,9,5.8,H,1,1,joe-ragland-1,Joe Ragland,2012
+27,64,28,2012-02-18,Wichita State,@,Davidson,REG (Non-Conf),W 91-74,*,32,11,14,0.786,3,4,0.75,8,10,0.8,0.893,5,5,1.0,2,5,7,1,0,0,1,1,30,26.8,A,1,1,joe-ragland-1,Joe Ragland,2012
+28,65,29,2012-02-22,Wichita State,@,Illinois State,REG (Conf),W 68-55,*,32,5,10,0.5,4,7,0.571,1,3,0.333,0.7,0,0,,1,1,2,4,1,0,2,0,14,11.8,A,1,1,joe-ragland-1,Joe Ragland,2012
+29,66,30,2012-02-25,Wichita State,,Drake,REG (Conf),W 81-58,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,1,0.0,0,0,0,1,0,0,0,1,0,-0.8,H,1,1,joe-ragland-1,Joe Ragland,2012
+30,67,31,2012-03-02,Wichita State,N,Indiana State,CTOURN,W 72-48,*,27,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,0,,0,3,3,5,1,0,0,0,14,16.2,N,1,0,joe-ragland-1,Joe Ragland,2012
+31,68,32,2012-03-03,Wichita State,N,Illinois State,CTOURN,L 64-65,*,32,5,9,0.556,4,4,1.0,1,5,0.2,0.778,3,4,0.75,0,1,1,2,1,0,2,2,17,12.2,N,0,0,joe-ragland-1,Joe Ragland,2012
+32,69,33,2012-03-15,Wichita State,N,VCU,ROUND-64,L 59-62,*,38,6,10,0.6,2,3,0.667,4,7,0.571,0.7,1,2,0.5,2,3,5,0,1,1,3,1,15,10.6,N,0,0,joe-ragland-1,Joe Ragland,2012

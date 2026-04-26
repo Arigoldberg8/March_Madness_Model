@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2011-11-11,Colorado State,,Montana,REG (Non-Conf),W 64-58,*,19,0,3,0.0,0,0,0,3,0.0,0.0,5,6,0.833,0,2,2,0,0,1,2,4,5,0.2,H,1,1,will-bell-1,Will Bell,2012
+2,32,2,2011-11-14,Colorado State,N,SMU,REG (Non-Conf),W 75-56,*,28,4,6,0.667,0,0,4,6,0.667,0.667,2,3,0.667,2,3,5,0,1,0,1,3,10,8.1,N,1,1,will-bell-1,Will Bell,2012
+3,33,3,2011-11-15,Colorado State,@,Stanford,REG (Non-Conf),L 52-64,*,28,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,1,6,7,0,1,0,0,3,6,3.9,A,0,1,will-bell-1,Will Bell,2012
+4,34,4,2011-11-19,Colorado State,,Southern Mississippi,REG (Non-Conf),L 58-79,*,21,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,3,3,1,0,1,2,4,4,1.4,H,0,1,will-bell-1,Will Bell,2012
+5,35,5,2011-11-21,Colorado State,,UTSA,REG (Non-Conf),W 85-75,,28,4,6,0.667,0,0,4,6,0.667,0.667,2,2,1.0,2,6,8,0,0,1,2,4,10,7.7,H,1,1,will-bell-1,Will Bell,2012
+6,36,6,2011-11-22,Colorado State,,Manhattan,REG (Non-Conf),W 91-86 (OT),*,24,3,6,0.5,0,0,3,6,0.5,0.5,3,4,0.75,2,2,4,0,0,0,0,4,9,6.0,H,1,1,will-bell-1,Will Bell,2012
+7,37,7,2011-11-30,Colorado State,,Colorado,REG (Non-Conf),W 65-64,*,20,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,0,2,2,0,0,0,4,5,8,0.0,H,1,1,will-bell-1,Will Bell,2012
+8,38,8,2011-12-03,Colorado State,@,Northern Iowa,REG (Non-Conf),L 77-83,*,26,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,2,4,0,1,1,0,1,6,7.0,A,0,1,will-bell-1,Will Bell,2012
+9,39,9,2011-12-07,Colorado State,@,Duke,REG (Non-Conf),L 64-87,*,22,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,3,0,3,1,1,0,1,4,2,0.1,A,0,1,will-bell-1,Will Bell,2012
+10,40,10,2011-12-19,Colorado State,,Texas Southern,REG (Non-Conf),W 85-61,*,19,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,1,0,1,0,0,0,4,4,8,2.2,H,1,1,will-bell-1,Will Bell,2012
+11,41,11,2011-12-22,Colorado State,@,Northern Colorado,REG (Non-Conf),W 92-78,*,27,3,6,0.5,0,0,3,6,0.5,0.5,6,6,1.0,3,0,3,4,0,2,1,4,12,12.7,A,1,1,will-bell-1,Will Bell,2012
+12,42,12,2011-12-28,Colorado State,@,UTEP,REG (Non-Conf),W 56-53,*,32,6,10,0.6,0,0,6,10,0.6,0.6,0,1,0.0,2,2,4,1,0,0,1,1,12,8.3,A,1,1,will-bell-1,Will Bell,2012
+13,43,13,2011-12-29,Colorado State,N,Jacksonville State,REG (Non-Conf),W 79-56,*,22,5,8,0.625,0,0,5,8,0.625,0.625,2,3,0.667,1,0,1,0,0,0,1,4,12,6.1,N,1,1,will-bell-1,Will Bell,2012
+14,44,14,2012-01-07,Colorado State,,Omaha,REG (Non-Conf),W 87-63,*,19,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,0,3,3,0,1,3,2,3,9,6.8,H,1,1,will-bell-1,Will Bell,2012
+15,45,15,2012-01-11,Colorado State,,Denver,REG (Non-Conf),W 79-75,*,20,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,3,3,6,0,0,0,3,5,9,4.4,H,1,1,will-bell-1,Will Bell,2012
+16,46,16,2012-01-14,Colorado State,,TCU,REG (Conf),W 95-89 (2OT),*,43,9,14,0.643,0,0,9,14,0.643,0.643,5,7,0.714,1,7,8,1,2,4,1,1,23,22.9,H,1,1,will-bell-1,Will Bell,2012
+17,47,17,2012-01-17,Colorado State,,Boise State,REG (Conf),W 66-55,*,22,1,3,0.333,0,0,1,3,0.333,0.333,3,4,0.75,0,1,1,0,0,1,1,3,5,1.7,H,1,1,will-bell-1,Will Bell,2012
+18,48,18,2012-01-21,Colorado State,@,Wyoming,REG (Conf),L 51-70,*,18,0,2,0.0,0,0,0,2,0.0,0.0,4,4,1.0,0,2,2,0,1,0,3,3,4,0.0,A,0,1,will-bell-1,Will Bell,2012
+19,49,19,2012-01-25,Colorado State,@,New Mexico,REG (Conf),L 52-85,*,30,2,5,0.4,0,0,2,5,0.4,0.4,7,8,0.875,1,0,1,0,0,0,1,2,11,6.8,A,0,1,will-bell-1,Will Bell,2012
+20,50,20,2012-01-28,Colorado State,,San Diego State,REG (Conf),W 77-60,*,33,6,9,0.667,0,0,6,9,0.667,0.667,5,5,1.0,1,4,5,0,0,0,2,2,17,12.2,H,1,1,will-bell-1,Will Bell,2012
+21,51,21,2012-02-01,Colorado State,@,UNLV,REG (Conf),L 63-82,*,32,3,8,0.375,0,0,3,8,0.375,0.375,4,5,0.8,3,3,6,0,0,0,1,1,10,6.8,A,0,1,will-bell-1,Will Bell,2012
+22,52,22,2012-02-04,Colorado State,,Air Force,REG (Conf),W 67-49,*,21,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,0,6,6,1,0,0,1,3,2,-0.1,H,1,1,will-bell-1,Will Bell,2012
+23,53,23,2012-02-11,Colorado State,@,TCU,REG (Conf),L 71-75,*,34,4,9,0.444,0,0,4,9,0.444,0.444,3,4,0.75,2,3,5,1,0,0,1,4,11,6.3,A,0,1,will-bell-1,Will Bell,2012
+24,54,24,2012-02-15,Colorado State,@,Boise State,REG (Conf),L 69-70,*,16,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,4,5,2,1,0,1,2,3,3.4,A,0,1,will-bell-1,Will Bell,2012
+25,55,25,2012-02-18,Colorado State,,Wyoming,REG (Conf),W 54-46,,19,0,2,0.0,0,0,0,2,0.0,0.0,6,6,1.0,0,2,2,1,0,0,2,2,6,3.1,H,1,1,will-bell-1,Will Bell,2012
+26,56,27,2012-02-25,Colorado State,@,San Diego State,REG (Conf),L 66-74,,18,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,1,2,0,0,0,0,1,4,2.6,A,0,1,will-bell-1,Will Bell,2012
+27,57,28,2012-02-29,Colorado State,,UNLV,REG (Conf),W 66-59,*,27,2,4,0.5,0,0,2,4,0.5,0.5,5,6,0.833,1,2,3,1,0,1,2,5,9,5.3,H,1,1,will-bell-1,Will Bell,2012
+28,58,29,2012-03-03,Colorado State,@,Air Force,REG (Conf),W 75-65,*,25,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,3,2,5,0,0,0,0,0,6,7.4,A,1,1,will-bell-1,Will Bell,2012
+29,59,30,2012-03-08,Colorado State,N,TCU,CTOURN,W 81-60,*,27,6,8,0.75,0,0,6,8,0.75,0.75,2,2,1.0,0,3,3,0,0,0,0,3,14,10.5,N,1,0,will-bell-1,Will Bell,2012
+30,60,31,2012-03-09,Colorado State,N,San Diego State,CTOURN,L 69-79,*,28,1,7,0.143,0,0,1,7,0.143,0.143,4,5,0.8,1,7,8,1,0,0,2,3,6,1.4,N,0,0,will-bell-1,Will Bell,2012
+31,61,32,2012-03-15,Colorado State,N,Murray State,ROUND-64,L 41-58,*,21,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,0,1,1,0,1,2,3,4,1.9,N,0,0,will-bell-1,Will Bell,2012

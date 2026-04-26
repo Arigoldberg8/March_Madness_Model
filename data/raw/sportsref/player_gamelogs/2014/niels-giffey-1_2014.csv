@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2013-11-08,Connecticut,N,Maryland,REG (Non-Conf),W 78-77,,17,5,6,0.833,3,3,1.0,2,3,0.667,1.083,0,0,,1,3,4,0,0,0,1,2,13,10.6,N,1,1,niels-giffey-1,Niels Giffey,2014
+2,101,2,2013-11-11,Connecticut,,Yale,REG (Non-Conf),W 80-62,,20,5,6,0.833,5,6,0.833,0,0,,1.25,0,0,,0,2,2,0,1,1,0,4,15,13.5,H,1,1,niels-giffey-1,Niels Giffey,2014
+3,102,3,2013-11-14,Connecticut,,Detroit Mercy,REG (Non-Conf),W 101-55,,19,5,6,0.833,3,4,0.75,2,2,1.0,1.083,2,2,1.0,2,4,6,0,0,1,0,0,15,16.1,H,1,1,niels-giffey-1,Niels Giffey,2014
+4,103,4,2013-11-17,Connecticut,,Boston University,REG (Non-Conf),W 77-60,,20,1,2,0.5,1,2,0.5,0,0,,0.75,0,1,0.0,1,2,3,1,0,0,1,1,3,2.2,H,1,1,niels-giffey-1,Niels Giffey,2014
+5,104,5,2013-11-21,Connecticut,N,Boston College,REG (Non-Conf),W 72-70,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,1,1,0,1,0,0,4,5,3.0,N,1,1,niels-giffey-1,Niels Giffey,2014
+6,105,6,2013-11-22,Connecticut,N,Indiana,REG (Non-Conf),W 59-58,,30,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,4,2,6,0,2,0,3,1,6,4.9,N,1,1,niels-giffey-1,Niels Giffey,2014
+7,106,7,2013-11-26,Connecticut,,Loyola (MD),REG (Non-Conf),W 76-66,,21,4,5,0.8,1,2,0.5,3,3,1.0,0.9,2,2,1.0,1,2,3,1,0,0,0,1,11,10.7,H,1,1,niels-giffey-1,Niels Giffey,2014
+8,107,8,2013-12-02,Connecticut,,Florida,REG (Non-Conf),W 65-64,,22,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,0,0,0,1,1,8,4.6,H,1,1,niels-giffey-1,Niels Giffey,2014
+9,108,9,2013-12-06,Connecticut,,Maine,REG (Non-Conf),W 95-68,,14,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,7,0.429,2,4,6,1,2,0,1,1,12,12.4,H,1,1,niels-giffey-1,Niels Giffey,2014
+10,109,10,2013-12-18,Connecticut,,Stanford,REG (Non-Conf),L 51-53,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,0,0,0,1,4,5,1.7,H,0,1,niels-giffey-1,Niels Giffey,2014
+11,110,11,2013-12-22,Connecticut,@,Washington,REG (Non-Conf),W 82-70,,13,1,2,0.5,1,2,0.5,0,0,,0.75,2,3,0.667,0,0,0,1,0,0,3,5,5,-0.7,A,1,1,niels-giffey-1,Niels Giffey,2014
+12,111,12,2013-12-28,Connecticut,N,Eastern Washington,REG (Non-Conf),W 82-65,*,30,4,5,0.8,1,1,1.0,3,4,0.75,0.9,4,4,1.0,2,2,4,1,3,3,2,3,13,15.7,N,1,1,niels-giffey-1,Niels Giffey,2014
+13,112,13,2013-12-31,Connecticut,@,Houston,REG (Conf),L 71-75,*,28,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,4,4,0,1,3,0,1,6,8.6,A,0,1,niels-giffey-1,Niels Giffey,2014
+14,113,14,2014-01-04,Connecticut,@,SMU,REG (Conf),L 65-74,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,0,0,1,3,2,-0.2,A,0,1,niels-giffey-1,Niels Giffey,2014
+15,114,15,2014-01-08,Connecticut,,Harvard,REG (Non-Conf),W 61-56,,17,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,4,4,1,0,0,2,2,4,2.1,H,1,1,niels-giffey-1,Niels Giffey,2014
+16,115,16,2014-01-11,Connecticut,,UCF,REG (Conf),W 84-61,,22,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,1,0.0,2,3,5,1,1,2,0,2,7,7.5,H,1,1,niels-giffey-1,Niels Giffey,2014
+17,116,17,2014-01-16,Connecticut,@,Memphis,REG (Conf),W 83-73,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,2,4,2,1,0,1,2,4,4.6,A,1,1,niels-giffey-1,Niels Giffey,2014
+18,117,18,2014-01-18,Connecticut,,Louisville,REG (Conf),L 64-76,,18,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,2,2,4,0,0,0,2,2,7,3.2,H,0,1,niels-giffey-1,Niels Giffey,2014
+19,118,19,2014-01-21,Connecticut,,Temple,REG (Conf),W 90-66,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,3,4,0.75,1,4,5,2,3,0,0,2,11,12.4,H,1,1,niels-giffey-1,Niels Giffey,2014
+20,119,20,2014-01-25,Connecticut,@,Rutgers,REG (Conf),W 82-71,,33,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,1,2,3,1,0,1,3,9,7.9,A,1,1,niels-giffey-1,Niels Giffey,2014
+21,120,21,2014-01-30,Connecticut,,Houston,REG (Conf),W 80-43,*,23,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,2,4,6,1,1,0,0,2,10,11.6,H,1,1,niels-giffey-1,Niels Giffey,2014
+22,121,22,2014-02-06,Connecticut,@,Cincinnati,REG (Conf),L 58-63,*,38,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,4,0.5,0,4,4,0,0,0,1,3,10,5.2,A,0,1,niels-giffey-1,Niels Giffey,2014
+23,122,23,2014-02-09,Connecticut,@,UCF,REG (Conf),W 75-55,,22,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,2,1,3,0,0,0,1,2,2,-2.6,A,1,1,niels-giffey-1,Niels Giffey,2014
+24,123,24,2014-02-12,Connecticut,,South Florida,REG (Conf),W 83-40,,14,1,3,0.333,1,3,0.333,0,0,,0.5,4,4,1.0,2,1,3,3,1,1,0,2,7,10.0,H,1,1,niels-giffey-1,Niels Giffey,2014
+25,124,25,2014-02-15,Connecticut,,Memphis,REG (Conf),W 86-81 (OT),,21,2,6,0.333,1,4,0.25,1,2,0.5,0.417,3,4,0.75,1,1,2,0,1,0,0,2,8,5.4,H,1,1,niels-giffey-1,Niels Giffey,2014
+26,125,26,2014-02-20,Connecticut,@,Temple,REG (Conf),W 68-55,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,0,3,3,0,0,1,1,0,8,6.6,A,1,1,niels-giffey-1,Niels Giffey,2014
+27,126,27,2014-02-23,Connecticut,,SMU,REG (Conf),L 55-64,,29,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,1,1,2,1,0,0,1,4,11,7.1,H,0,1,niels-giffey-1,Niels Giffey,2014
+28,127,28,2014-02-26,Connecticut,@,South Florida,REG (Conf),W 61-56,,36,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,2,3,5,1,0,1,0,3,11,10.2,A,1,1,niels-giffey-1,Niels Giffey,2014
+29,128,29,2014-03-01,Connecticut,,Cincinnati,REG (Conf),W 51-45,,28,1,3,0.333,1,3,0.333,0,0,,0.5,0,3,0.0,1,2,3,1,0,1,0,3,3,1.6,H,1,1,niels-giffey-1,Niels Giffey,2014
+30,129,30,2014-03-05,Connecticut,,Rutgers,REG (Conf),W 69-63,*,36,6,9,0.667,4,7,0.571,2,2,1.0,0.889,0,0,,0,2,2,3,0,0,1,3,16,12.6,H,1,1,niels-giffey-1,Niels Giffey,2014
+31,130,31,2014-03-08,Connecticut,@,Louisville,REG (Conf),L 48-81,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,0,1,0,1,3,1,-2.0,A,0,1,niels-giffey-1,Niels Giffey,2014
+32,131,32,2014-03-13,Connecticut,N,Memphis,CTOURN,W 72-53,*,31,9,11,0.818,6,8,0.75,3,3,1.0,1.091,0,0,,1,8,9,0,1,2,2,2,24,22.6,N,1,0,niels-giffey-1,Niels Giffey,2014
+33,132,33,2014-03-14,Connecticut,N,Cincinnati,CTOURN,W 58-56,*,33,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,1,2,3,1,2,0,4,1,11,8.7,N,1,0,niels-giffey-1,Niels Giffey,2014
+34,133,34,2014-03-15,Connecticut,N,Louisville,CTOURN,L 61-71,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,1,3,4,1,1,1,1,4,7,4.3,N,0,0,niels-giffey-1,Niels Giffey,2014
+35,134,35,2014-03-20,Connecticut,N,Saint Joseph's,ROUND-64,W 89-81 (OT),*,31,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,2,2,4,1,1,0,0,4,10,7.4,N,1,0,niels-giffey-1,Niels Giffey,2014
+36,135,36,2014-03-22,Connecticut,N,Villanova,ROUND-32,W 77-65,*,37,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,9,11,2,2,1,2,2,4,7.7,N,1,0,niels-giffey-1,Niels Giffey,2014
+37,136,37,2014-03-28,Connecticut,N,Iowa State,ROUND-16,W 81-76,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,7,7,0,1,0,0,3,5,4.2,N,1,0,niels-giffey-1,Niels Giffey,2014
+38,137,38,2014-03-30,Connecticut,N,Michigan State,ROUND-8,W 60-54,*,35,2,10,0.2,0,5,0.0,2,5,0.4,0.2,2,2,1.0,1,4,5,2,0,0,1,0,6,2.1,N,1,0,niels-giffey-1,Niels Giffey,2014
+39,138,39,2014-04-05,Connecticut,N,Florida,NATIONAL-SEMI,W 63-53,*,23,4,7,0.571,0,2,0.0,4,5,0.8,0.571,3,3,1.0,3,1,4,0,0,0,0,3,11,8.9,N,1,0,niels-giffey-1,Niels Giffey,2014
+40,139,40,2014-04-07,Connecticut,N,Kentucky,NATIONAL-FINAL,W 60-54,*,37,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,2,3,5,0,0,1,0,2,10,8.5,N,1,0,niels-giffey-1,Niels Giffey,2014

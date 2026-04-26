@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2011-11-11,Colorado State,,Montana,REG (Non-Conf),W 64-58,,31,4,11,0.364,2,5,0.4,2,6,0.333,0.455,2,2,1.0,1,5,6,0,1,0,1,1,12,7.7,H,1,1,jesse-carr-1,Jesse Carr,2012
+2,62,2,2011-11-14,Colorado State,N,SMU,REG (Non-Conf),W 75-56,,24,4,5,0.8,1,1,1.0,3,4,0.75,0.9,0,0,,0,2,2,2,0,0,1,4,9,6.5,N,1,1,jesse-carr-1,Jesse Carr,2012
+3,63,3,2011-11-15,Colorado State,@,Stanford,REG (Non-Conf),L 52-64,,24,4,9,0.444,2,2,1.0,2,7,0.286,0.556,0,0,,2,2,4,2,0,0,1,4,10,6.1,A,0,1,jesse-carr-1,Jesse Carr,2012
+4,64,4,2011-11-19,Colorado State,,Southern Mississippi,REG (Non-Conf),L 58-79,*,32,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,0,1,1,1,0,0,0,1,13,10.0,H,0,1,jesse-carr-1,Jesse Carr,2012
+5,65,5,2011-11-21,Colorado State,,UTSA,REG (Non-Conf),W 85-75,*,36,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,3,0.667,0,7,7,4,1,0,1,3,4,3.5,H,1,1,jesse-carr-1,Jesse Carr,2012
+6,66,6,2011-11-22,Colorado State,,Manhattan,REG (Non-Conf),W 91-86 (OT),*,40,1,3,0.333,0,1,0.0,1,2,0.5,0.333,8,8,1.0,1,2,3,5,2,0,3,3,10,10.9,H,1,1,jesse-carr-1,Jesse Carr,2012
+7,67,7,2011-11-30,Colorado State,,Colorado,REG (Non-Conf),W 65-64,*,28,1,6,0.167,1,4,0.25,0,2,0.0,0.25,4,6,0.667,1,2,3,2,2,0,1,3,7,4.9,H,1,1,jesse-carr-1,Jesse Carr,2012
+8,68,8,2011-12-03,Colorado State,@,Northern Iowa,REG (Non-Conf),L 77-83,*,21,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,0,0,0,3,5,5,0.0,A,0,1,jesse-carr-1,Jesse Carr,2012
+9,69,9,2011-12-07,Colorado State,@,Duke,REG (Non-Conf),L 64-87,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,2,0,0,-1.7,A,0,1,jesse-carr-1,Jesse Carr,2012
+10,70,10,2011-12-19,Colorado State,,Texas Southern,REG (Non-Conf),W 85-61,,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,2,0.5,0,2,2,3,3,0,2,4,4,3.3,H,1,1,jesse-carr-1,Jesse Carr,2012
+11,71,11,2011-12-22,Colorado State,@,Northern Colorado,REG (Non-Conf),W 92-78,,30,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,4,4,6,2,0,1,2,4,6.5,A,1,1,jesse-carr-1,Jesse Carr,2012
+12,72,12,2011-12-28,Colorado State,@,UTEP,REG (Non-Conf),W 56-53,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,3,0,2,-1.0,A,1,1,jesse-carr-1,Jesse Carr,2012
+13,73,13,2011-12-29,Colorado State,N,Jacksonville State,REG (Non-Conf),W 79-56,,26,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,6,6,1,2,0,0,1,6,8.1,N,1,1,jesse-carr-1,Jesse Carr,2012
+14,74,14,2012-01-07,Colorado State,,Omaha,REG (Non-Conf),W 87-63,,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,0,0,0,7,0,0,2,1,6,5.1,H,1,1,jesse-carr-1,Jesse Carr,2012
+15,75,15,2012-01-11,Colorado State,,Denver,REG (Non-Conf),W 79-75,,32,0,1,0.0,0,0,,0,1,0.0,0.0,7,8,0.875,1,3,4,2,0,0,0,3,7,7.7,H,1,1,jesse-carr-1,Jesse Carr,2012
+16,76,16,2012-01-14,Colorado State,,TCU,REG (Conf),W 95-89 (2OT),,31,5,5,1.0,0,0,,5,5,1.0,1.0,2,4,0.5,0,6,6,5,0,0,4,2,12,10.2,H,1,1,jesse-carr-1,Jesse Carr,2012
+17,77,17,2012-01-17,Colorado State,,Boise State,REG (Conf),W 66-55,,23,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,0,1,1,4,0,0,0,1,8,7.3,H,1,1,jesse-carr-1,Jesse Carr,2012
+18,78,18,2012-01-21,Colorado State,@,Wyoming,REG (Conf),L 51-70,,25,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,2,1.0,0,1,1,4,1,0,2,3,12,8.9,A,0,1,jesse-carr-1,Jesse Carr,2012
+19,79,19,2012-01-25,Colorado State,@,New Mexico,REG (Conf),L 52-85,,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,1,0,0,1,0,4,3.0,A,0,1,jesse-carr-1,Jesse Carr,2012
+20,80,20,2012-01-28,Colorado State,,San Diego State,REG (Conf),W 77-60,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,4,0,-2.0,H,1,1,jesse-carr-1,Jesse Carr,2012
+21,81,21,2012-02-01,Colorado State,@,UNLV,REG (Conf),L 63-82,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,1,0,1,1,0,0,0,0,1,-0.1,A,0,1,jesse-carr-1,Jesse Carr,2012
+22,82,22,2012-02-04,Colorado State,,Air Force,REG (Conf),W 67-49,,26,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,1,0.0,1,7,8,4,1,1,2,2,8,10.5,H,1,1,jesse-carr-1,Jesse Carr,2012
+23,83,23,2012-02-11,Colorado State,@,TCU,REG (Conf),L 71-75,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,2,4,0,-2.6,A,0,1,jesse-carr-1,Jesse Carr,2012
+24,84,24,2012-02-15,Colorado State,@,Boise State,REG (Conf),L 69-70,,29,6,9,0.667,3,5,0.6,3,4,0.75,0.833,0,0,,0,4,4,2,0,0,1,4,15,11.1,A,0,1,jesse-carr-1,Jesse Carr,2012
+25,85,25,2012-02-18,Colorado State,,Wyoming,REG (Conf),W 54-46,,27,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,2,2,1,1,0,1,1,4,3.2,H,1,1,jesse-carr-1,Jesse Carr,2012
+26,86,26,2012-02-21,Colorado State,,New Mexico,REG (Conf),W 71-63,,33,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,0,2,2,5,2,0,1,3,9,11.3,H,1,1,jesse-carr-1,Jesse Carr,2012
+27,87,27,2012-02-25,Colorado State,@,San Diego State,REG (Conf),L 66-74,,28,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,1,3,4,2,0,1,1,5,7,4.3,A,0,1,jesse-carr-1,Jesse Carr,2012
+28,88,28,2012-02-29,Colorado State,,UNLV,REG (Conf),W 66-59,,27,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,0,6,6,1,0,0,3,1,6,1.3,H,1,1,jesse-carr-1,Jesse Carr,2012
+29,89,29,2012-03-03,Colorado State,@,Air Force,REG (Conf),W 75-65,,33,4,5,0.8,0,0,,4,5,0.8,0.8,0,3,0.0,0,2,2,1,2,0,3,1,8,4.8,A,1,1,jesse-carr-1,Jesse Carr,2012
+30,90,30,2012-03-08,Colorado State,N,TCU,CTOURN,W 81-60,,30,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,0,7,7,9,0,0,4,1,10,9.9,N,1,0,jesse-carr-1,Jesse Carr,2012
+31,91,31,2012-03-09,Colorado State,N,San Diego State,CTOURN,L 69-79,,33,7,15,0.467,2,6,0.333,5,9,0.556,0.533,1,1,1.0,0,5,5,2,0,0,2,2,17,9.4,N,0,0,jesse-carr-1,Jesse Carr,2012
+32,92,32,2012-03-15,Colorado State,N,Murray State,ROUND-64,L 41-58,,29,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,4,0.5,0,8,8,4,2,0,5,5,11,4.3,N,0,0,jesse-carr-1,Jesse Carr,2012

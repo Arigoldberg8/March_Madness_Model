@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2013-11-08,San Diego State,,UC Riverside,REG (Non-Conf),W 77-41,*,24,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,2,3,5,1,0,0,3,4,9,5.4,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+2,58,2,2013-11-14,San Diego State,,Arizona,REG (Non-Conf),L 60-69,*,36,6,12,0.5,0,3,0.0,6,9,0.667,0.5,7,11,0.636,2,4,6,1,1,1,2,2,19,13.6,H,0,1,jj-obrien-1,J.J. O'Brien,2014
+3,59,3,2013-11-20,San Diego State,,San Diego Christ,REG (Non-Conf),W 93-41,*,21,7,9,0.778,2,2,1.0,5,7,0.714,0.889,0,0,,2,4,6,2,0,0,0,3,16,15.3,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+4,60,4,2013-11-28,San Diego State,N,College of Charleston,REG (Non-Conf),W 72-52,*,26,5,6,0.833,0,0,,5,6,0.833,0.833,0,2,0.0,1,4,5,0,1,0,1,1,10,8.5,N,1,1,jj-obrien-1,J.J. O'Brien,2014
+5,61,5,2013-11-29,San Diego State,N,Creighton,REG (Non-Conf),W 86-80,*,35,4,9,0.444,0,0,,4,9,0.444,0.444,7,8,0.875,1,6,7,3,1,1,2,5,15,12.2,N,1,1,jj-obrien-1,J.J. O'Brien,2014
+6,62,6,2013-12-01,San Diego State,N,Marquette,REG (Non-Conf),W 67-59,*,28,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,4,6,3,0,0,1,4,5,5.4,N,1,1,jj-obrien-1,J.J. O'Brien,2014
+7,63,7,2013-12-05,San Diego State,@,San Diego,REG (Non-Conf),W 65-64,*,27,0,10,0.0,0,0,,0,10,0.0,0.0,1,2,0.5,1,3,4,0,0,2,2,2,1,-6.2,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+8,64,8,2013-12-08,San Diego State,,Washington,REG (Non-Conf),W 70-63,*,31,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,5,0.4,1,3,4,1,1,0,0,1,10,5.6,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+9,65,9,2013-12-18,San Diego State,,Southern Utah,REG (Non-Conf),W 76-39,*,9,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,2,3,2,0,0,1,0,6,7.1,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+10,66,11,2013-12-27,San Diego State,,St. Katherine,REG (Non-Conf),W 118-35,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,1,4,0.25,3,3,6,1,0,2,1,0,5,6.6,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+11,67,12,2014-01-01,San Diego State,@,Colorado State,REG (Conf),W 71-61,*,26,4,10,0.4,0,1,0.0,4,9,0.444,0.4,1,1,1.0,1,0,1,1,0,0,3,5,9,0.0,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+12,68,13,2014-01-05,San Diego State,@,Kansas,REG (Non-Conf),W 61-57,*,35,3,7,0.429,0,0,,3,7,0.429,0.429,1,3,0.333,4,5,9,0,0,0,2,1,7,4.4,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+13,69,14,2014-01-08,San Diego State,,Boise State,REG (Conf),W 69-66,*,29,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,2,3,1,0,1,3,4,5,0.7,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+14,70,15,2014-01-12,San Diego State,@,Air Force,REG (Conf),W 79-72,*,32,5,8,0.625,1,1,1.0,4,7,0.571,0.688,7,8,0.875,5,6,11,0,0,0,2,0,18,17.3,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+15,71,16,2014-01-15,San Diego State,,Fresno State,REG (Conf),W 68-60,*,34,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,4,0.5,2,6,8,2,2,0,1,1,7,7.3,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+16,72,17,2014-01-18,San Diego State,,UNLV,REG (Conf),W 63-52,*,26,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,0,2,0,0,0,2,2,6,0.2,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+17,73,18,2014-01-22,San Diego State,@,San Jose State,REG (Conf),W 75-50,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,4,2,6,2,2,0,2,1,4,6.7,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+18,74,19,2014-01-25,San Diego State,@,Utah State,REG (Conf),W 74-69 (OT),*,32,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,2,1.0,2,0,2,0,2,0,1,1,8,5.6,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+19,75,20,2014-02-01,San Diego State,,Colorado State,REG (Conf),W 65-56,*,30,0,2,0.0,0,0,,0,2,0.0,0.0,1,3,0.333,2,8,10,0,0,1,1,3,1,1.1,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+20,76,21,2014-02-05,San Diego State,@,Boise State,REG (Conf),W 67-65,*,34,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,2,4,6,0,2,0,2,0,9,8.6,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+21,77,22,2014-02-08,San Diego State,,Nevada,REG (Conf),W 73-58,*,31,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,3,2,5,3,1,0,0,2,8,9.6,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+22,78,23,2014-02-11,San Diego State,@,Wyoming,REG (Conf),L 62-68,*,29,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,4,2,6,1,0,0,1,2,11,10.4,A,0,1,jj-obrien-1,J.J. O'Brien,2014
+23,79,24,2014-02-15,San Diego State,,Air Force,REG (Conf),W 64-56,*,34,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,2,1,3,2,0,1,1,1,8,5.7,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+24,80,25,2014-02-18,San Diego State,,Utah State,REG (Conf),W 60-45,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,1,2,3,2,1,0,4,0,8,4.3,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+25,81,26,2014-02-22,San Diego State,@,New Mexico,REG (Conf),L 44-58,*,35,4,12,0.333,0,0,,4,12,0.333,0.333,0,1,0.0,4,1,5,0,3,1,0,2,8,6.8,A,0,1,jj-obrien-1,J.J. O'Brien,2014
+26,82,27,2014-02-25,San Diego State,,San Jose State,REG (Conf),W 90-64,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,6,7,0.857,1,2,3,1,3,0,1,1,12,12.2,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+27,83,28,2014-03-01,San Diego State,@,Fresno State,REG (Conf),W 82-67,*,31,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,3,2,5,2,0,0,1,4,8,5.1,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+28,84,29,2014-03-05,San Diego State,@,UNLV,REG (Conf),W 73-64,*,28,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,1,0,1,1,0,0,2,3,6,0.5,A,1,1,jj-obrien-1,J.J. O'Brien,2014
+29,85,30,2014-03-08,San Diego State,,New Mexico,REG (Conf),W 51-48,*,31,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,2,0,2,2,0,1,1,3,1,-0.2,H,1,1,jj-obrien-1,J.J. O'Brien,2014
+30,86,31,2014-03-13,San Diego State,N,Utah State,CTOURN,W 73-39,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,4,0,0,2,2,4,2.7,N,1,0,jj-obrien-1,J.J. O'Brien,2014
+31,87,32,2014-03-14,San Diego State,N,UNLV,CTOURN,W 59-51,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,2,4,0,2,0,1,2,5,5.2,N,1,0,jj-obrien-1,J.J. O'Brien,2014
+32,88,33,2014-03-15,San Diego State,N,New Mexico,CTOURN,L 58-64,*,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,9,0.444,3,0,3,0,2,0,0,4,8,6.5,N,0,0,jj-obrien-1,J.J. O'Brien,2014
+33,89,34,2014-03-20,San Diego State,N,New Mexico State,ROUND-64,W 73-69 (OT),*,23,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,1,3,4,0,0,1,0,4,7,4.7,N,1,0,jj-obrien-1,J.J. O'Brien,2014
+34,90,35,2014-03-22,San Diego State,N,North Dakota State,ROUND-32,W 63-44,*,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,4,5,0,0,0,1,1,4,3.5,N,1,0,jj-obrien-1,J.J. O'Brien,2014
+35,91,36,2014-03-27,San Diego State,N,Arizona,ROUND-16,L 64-70,*,34,1,5,0.2,0,0,,1,5,0.2,0.2,4,6,0.667,2,2,4,0,0,0,1,2,6,2.3,N,0,0,jj-obrien-1,J.J. O'Brien,2014

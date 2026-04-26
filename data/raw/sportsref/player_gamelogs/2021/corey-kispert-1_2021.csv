@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,*,38,8,13,0.615,3,8,0.375,5,5,1.0,0.731,4,4,1.0,0,4,4,0,0,0,0,3,23,17.1,N,1,1,corey-kispert-1,Corey Kispert,2021
+2,107,2,2020-11-27,Gonzaga,N,Auburn,REG (Non-Conf),W 90-67,*,29,9,14,0.643,4,8,0.5,5,6,0.833,0.786,3,3,1.0,2,4,6,2,2,0,2,1,25,22.4,N,1,1,corey-kispert-1,Corey Kispert,2021
+3,108,3,2020-12-02,Gonzaga,N,West Virginia,REG (Non-Conf),W 87-82,*,32,6,11,0.545,2,4,0.5,4,7,0.571,0.636,5,7,0.714,1,4,5,2,0,1,1,4,19,14.3,N,1,1,corey-kispert-1,Corey Kispert,2021
+4,109,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,*,25,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,0,2,2,6,1,0,1,5,13,10.8,N,1,1,corey-kispert-1,Corey Kispert,2021
+5,110,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,*,28,10,13,0.769,3,5,0.6,7,8,0.875,0.885,4,4,1.0,4,3,7,0,0,0,0,0,27,25.6,H,1,1,corey-kispert-1,Corey Kispert,2021
+6,111,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,*,28,7,12,0.583,2,5,0.4,5,7,0.714,0.667,2,2,1.0,1,5,6,3,1,1,0,2,18,17.6,H,1,1,corey-kispert-1,Corey Kispert,2021
+7,112,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,*,30,11,15,0.733,9,13,0.692,2,2,1.0,1.033,1,2,0.5,0,1,1,3,0,0,1,3,32,25.7,N,1,1,corey-kispert-1,Corey Kispert,2021
+8,113,8,2020-12-28,Gonzaga,,Northern Arizona,REG (Non-Conf),W 88-58,*,23,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,3,5,8,1,0,1,1,0,8,7.6,H,1,1,corey-kispert-1,Corey Kispert,2021
+9,114,9,2020-12-29,Gonzaga,,Dixie State,REG (Non-Conf),W 112-67,*,23,10,16,0.625,4,6,0.667,6,10,0.6,0.75,1,1,1.0,1,2,3,2,1,0,0,2,25,20.7,H,1,1,corey-kispert-1,Corey Kispert,2021
+10,115,10,2021-01-02,Gonzaga,,San Francisco,REG (Conf),W 85-62,*,35,9,11,0.818,1,3,0.333,8,8,1.0,0.864,7,8,0.875,0,3,3,3,0,0,3,1,26,21.1,H,1,1,corey-kispert-1,Corey Kispert,2021
+11,116,11,2021-01-07,Gonzaga,,Brigham Young,REG (Conf),W 86-69,*,35,9,16,0.563,2,5,0.4,7,11,0.636,0.625,3,4,0.75,0,3,3,2,2,0,1,2,23,17.5,H,1,1,corey-kispert-1,Corey Kispert,2021
+12,117,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,*,28,6,14,0.429,2,7,0.286,4,7,0.571,0.5,0,0,,2,4,6,4,0,0,0,0,14,12.0,A,1,1,corey-kispert-1,Corey Kispert,2021
+13,118,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,*,37,7,13,0.538,6,11,0.545,1,2,0.5,0.769,3,3,1.0,0,8,8,1,1,0,2,1,23,18.4,H,1,1,corey-kispert-1,Corey Kispert,2021
+14,119,14,2021-01-16,Gonzaga,@,St. Mary's (CA),REG (Conf),W 73-59,*,39,5,11,0.455,3,6,0.5,2,5,0.4,0.591,4,4,1.0,0,5,5,1,1,0,0,0,17,14.5,A,1,1,corey-kispert-1,Corey Kispert,2021
+15,120,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,*,23,5,12,0.417,3,6,0.5,2,6,0.333,0.542,3,3,1.0,1,6,7,0,0,0,2,2,16,9.3,H,1,1,corey-kispert-1,Corey Kispert,2021
+16,121,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,*,30,8,13,0.615,3,5,0.6,5,8,0.625,0.731,0,0,,0,8,8,2,1,1,4,1,19,14.2,A,1,1,corey-kispert-1,Corey Kispert,2021
+17,122,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,*,32,5,11,0.455,3,8,0.375,2,3,0.667,0.591,3,3,1.0,0,5,5,1,0,0,0,1,16,12.1,A,1,1,corey-kispert-1,Corey Kispert,2021
+18,123,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,*,30,3,7,0.429,2,5,0.4,1,2,0.5,0.571,6,7,0.857,0,2,2,1,2,1,3,4,14,9.3,A,1,1,corey-kispert-1,Corey Kispert,2021
+19,124,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,*,37,4,10,0.4,2,4,0.5,2,6,0.333,0.5,3,4,0.75,1,0,1,3,1,1,2,2,13,8.9,A,1,1,corey-kispert-1,Corey Kispert,2021
+20,125,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,*,29,4,10,0.4,1,3,0.333,3,7,0.429,0.45,3,3,1.0,1,3,4,1,2,1,2,1,12,9.2,A,1,1,corey-kispert-1,Corey Kispert,2021
+21,126,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,*,28,8,13,0.615,1,4,0.25,7,9,0.778,0.654,3,4,0.75,0,3,3,1,1,1,2,0,20,15.0,H,1,1,corey-kispert-1,Corey Kispert,2021
+22,127,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,*,27,6,13,0.462,0,4,0.0,6,9,0.667,0.462,4,5,0.8,3,5,8,3,3,1,1,2,16,16.5,H,1,1,corey-kispert-1,Corey Kispert,2021
+23,128,23,2021-02-25,Gonzaga,,Santa Clara,REG (Conf),W 89-75,*,39,10,17,0.588,3,8,0.375,7,9,0.778,0.676,2,2,1.0,1,6,7,0,2,1,2,1,25,19.9,H,1,1,corey-kispert-1,Corey Kispert,2021
+24,129,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,*,36,6,12,0.5,6,10,0.6,0,2,0.0,0.75,6,6,1.0,0,5,5,0,2,1,1,3,24,20.0,H,1,1,corey-kispert-1,Corey Kispert,2021
+25,130,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,*,31,5,12,0.417,0,5,0.0,5,7,0.714,0.417,4,4,1.0,1,5,6,2,0,0,3,0,14,8.2,N,1,0,corey-kispert-1,Corey Kispert,2021
+26,131,26,2021-03-09,Gonzaga,N,Brigham Young,CTOURN,W 88-78,*,37,5,13,0.385,4,10,0.4,1,3,0.333,0.538,3,3,1.0,0,5,5,2,0,0,1,2,17,11.0,N,1,0,corey-kispert-1,Corey Kispert,2021
+27,132,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,*,27,8,12,0.667,6,9,0.667,2,3,0.667,0.917,1,1,1.0,1,4,5,2,0,0,1,0,23,20.1,N,1,0,corey-kispert-1,Corey Kispert,2021
+28,133,28,2021-03-22,Gonzaga,N,Oklahoma,ROUND-32,W 87-71,*,30,5,11,0.455,4,8,0.5,1,3,0.333,0.636,2,2,1.0,0,3,3,0,1,0,2,3,16,9.0,N,1,0,corey-kispert-1,Corey Kispert,2021
+29,134,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,*,34,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,3,4,7,1,2,1,1,2,12,13.3,N,1,0,corey-kispert-1,Corey Kispert,2021
+30,135,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,*,37,6,19,0.316,3,10,0.3,3,9,0.333,0.395,3,5,0.6,3,5,8,2,0,0,1,1,18,9.9,N,1,0,corey-kispert-1,Corey Kispert,2021
+31,136,31,2021-04-03,Gonzaga,N,UCLA,NATIONAL-SEMI,W 93-90 (OT),*,44,6,13,0.462,2,8,0.25,4,5,0.8,0.538,1,2,0.5,1,4,5,5,2,1,1,2,15,14.2,N,1,0,corey-kispert-1,Corey Kispert,2021
+32,137,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,*,38,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,0,3,3,2,1,1,1,3,12,7.4,N,0,0,corey-kispert-1,Corey Kispert,2021

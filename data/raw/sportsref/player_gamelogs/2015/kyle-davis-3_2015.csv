@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2014-11-14,Dayton,,Alabama A&M,REG (Non-Conf),W 76-52,*,24,4,9,0.444,0,4,0.0,4,5,0.8,0.444,5,5,1.0,0,3,3,3,2,0,2,3,13,10.1,H,1,1,kyle-davis-3,Kyle Davis,2015
+2,37,2,2014-11-20,Dayton,N,Texas A&M,REG (Non-Conf),W 55-53,*,33,4,8,0.5,0,3,0.0,4,5,0.8,0.5,2,3,0.667,0,2,2,3,4,0,3,3,10,8.1,N,1,1,kyle-davis-3,Kyle Davis,2015
+3,38,3,2014-11-21,Dayton,N,Connecticut,REG (Non-Conf),L 64-75,*,19,0,0,,0,0,,0,0,,,1,2,0.5,0,3,3,1,0,1,1,5,1,-0.1,N,0,1,kyle-davis-3,Kyle Davis,2015
+4,39,4,2014-11-23,Dayton,N,Boston College,REG (Non-Conf),W 65-53,*,25,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,1,5,6,2,1,0,2,4,5,3.6,N,1,1,kyle-davis-3,Kyle Davis,2015
+5,40,5,2014-11-29,Dayton,,Illinois–Chicago,REG (Non-Conf),W 75-41,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,0,3,3,4,2,2,1,3,4,7.8,H,1,1,kyle-davis-3,Kyle Davis,2015
+6,41,6,2014-12-03,Dayton,@,Miami (OH),REG (Non-Conf),W 66-62,*,26,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,1,2,1,3,4,6,2.8,A,1,1,kyle-davis-3,Kyle Davis,2015
+7,42,7,2014-12-06,Dayton,,Eastern Michigan,REG (Non-Conf),W 73-64,*,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,4,0.5,0,2,2,1,0,0,0,4,6,3.6,H,1,1,kyle-davis-3,Kyle Davis,2015
+8,43,8,2014-12-09,Dayton,,Bowling Green,REG (Non-Conf),W 56-52,*,27,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,3,0.667,0,2,2,0,0,0,1,1,4,1.1,H,1,1,kyle-davis-3,Kyle Davis,2015
+9,44,9,2014-12-13,Dayton,@,Arkansas,REG (Non-Conf),L 55-69,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,3,1.0,0,1,1,4,3,0,0,2,7,10.3,A,0,1,kyle-davis-3,Kyle Davis,2015
+10,45,10,2014-12-20,Dayton,,Boston University,REG (Non-Conf),W 78-62,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,4,4,0,3,0,3,2,0,-1.1,H,1,1,kyle-davis-3,Kyle Davis,2015
+11,46,11,2014-12-23,Dayton,,Georgia Tech,REG (Non-Conf),W 75-61,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,7,10,0.7,0,2,2,6,0,1,1,1,9,9.5,H,1,1,kyle-davis-3,Kyle Davis,2015
+12,47,12,2014-12-30,Dayton,,Ole Miss,REG (Non-Conf),W 78-74,*,30,4,6,0.667,2,3,0.667,2,3,0.667,0.833,1,2,0.5,0,7,7,2,2,1,1,1,11,12.8,H,1,1,kyle-davis-3,Kyle Davis,2015
+13,48,13,2015-01-03,Dayton,,Duquesne,REG (Conf),W 81-55,*,29,6,11,0.545,2,6,0.333,4,5,0.8,0.636,3,3,1.0,0,5,5,4,0,1,2,1,17,14.3,H,1,1,kyle-davis-3,Kyle Davis,2015
+14,49,14,2015-01-08,Dayton,@,St. Bonaventure,REG (Conf),W 78-61,*,26,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,0,1,1,4,0,1,0,4,3,3.5,A,1,1,kyle-davis-3,Kyle Davis,2015
+15,50,15,2015-01-10,Dayton,@,Fordham,REG (Conf),W 76-58,*,28,3,4,0.75,2,2,1.0,1,2,0.5,1.0,4,4,1.0,0,2,2,2,0,0,1,2,12,10.6,A,1,1,kyle-davis-3,Kyle Davis,2015
+16,51,16,2015-01-14,Dayton,,La Salle,REG (Conf),W 61-50,*,34,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,1,0.0,0,0,0,3,1,0,0,1,5,6.0,H,1,1,kyle-davis-3,Kyle Davis,2015
+17,52,17,2015-01-17,Dayton,,Saint Louis,REG (Conf),W 61-45,*,20,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,1,1,4,1,0,1,4,1,0.0,H,1,1,kyle-davis-3,Kyle Davis,2015
+18,53,18,2015-01-20,Dayton,@,Davidson,REG (Conf),L 60-77,*,29,0,0,,0,0,,0,0,,,0,0,,0,4,4,0,3,0,2,3,0,1.0,A,0,1,kyle-davis-3,Kyle Davis,2015
+19,54,19,2015-01-24,Dayton,,Richmond,REG (Conf),W 63-60,*,39,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,1,4,5,1,0,2,2,3,8,6.8,H,1,1,kyle-davis-3,Kyle Davis,2015
+20,55,20,2015-01-29,Dayton,@,Massachusetts,REG (Conf),L 64-66,*,35,4,6,0.667,0,2,0.0,4,4,1.0,0.667,1,3,0.333,1,3,4,2,0,2,1,5,9,7.0,A,0,1,kyle-davis-3,Kyle Davis,2015
+21,56,21,2015-02-01,Dayton,,Fordham,REG (Conf),W 101-77,*,36,4,8,0.5,0,1,0.0,4,7,0.571,0.5,8,10,0.8,0,5,5,7,2,0,0,1,16,19.2,H,1,1,kyle-davis-3,Kyle Davis,2015
+22,57,22,2015-02-06,Dayton,@,George Washington,REG (Conf),L 64-65 (OT),*,34,3,7,0.429,3,5,0.6,0,2,0.0,0.643,4,4,1.0,0,1,1,2,1,1,1,4,13,10.1,A,0,1,kyle-davis-3,Kyle Davis,2015
+23,58,23,2015-02-10,Dayton,@,Saint Louis,REG (Conf),W 51-44,*,35,1,8,0.125,0,5,0.0,1,3,0.333,0.125,1,2,0.5,0,4,4,2,2,1,3,2,3,-1.1,A,1,1,kyle-davis-3,Kyle Davis,2015
+24,59,24,2015-02-14,Dayton,,St. Bonaventure,REG (Conf),W 75-61,*,37,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,5,0.6,0,1,1,2,2,0,0,2,13,12.2,H,1,1,kyle-davis-3,Kyle Davis,2015
+25,60,25,2015-02-19,Dayton,,Saint Joseph's,REG (Conf),W 68-64,*,38,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,0,0,0,4,1,0,1,0,11,9.1,H,1,1,kyle-davis-3,Kyle Davis,2015
+26,61,26,2015-02-21,Dayton,@,Duquesne,REG (Conf),L 73-83,*,25,1,9,0.111,1,6,0.167,0,3,0.0,0.167,2,2,1.0,0,2,2,3,0,0,2,4,5,-1.8,A,0,1,kyle-davis-3,Kyle Davis,2015
+27,62,27,2015-02-25,Dayton,,George Mason,REG (Conf),W 76-63,*,33,3,3,1.0,0,0,,3,3,1.0,1.0,7,12,0.583,1,3,4,3,0,0,2,1,13,11.4,H,1,1,kyle-davis-3,Kyle Davis,2015
+28,63,28,2015-02-28,Dayton,@,VCU,REG (Conf),W 59-55,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,0,1,4,2,-0.3,A,1,1,kyle-davis-3,Kyle Davis,2015
+29,64,29,2015-03-03,Dayton,,Rhode Island,REG (Conf),W 75-59,*,37,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,8,0.5,0,1,1,3,4,1,1,4,10,8.5,H,1,1,kyle-davis-3,Kyle Davis,2015
+30,65,30,2015-03-07,Dayton,@,La Salle,REG (Conf),L 53-55,*,35,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,3,3,2,3,1,1,2,4,6.5,A,0,1,kyle-davis-3,Kyle Davis,2015
+31,66,31,2015-03-13,Dayton,N,St. Bonaventure,CTOURN,W 75-71,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,1,1.0,0,1,1,3,2,0,2,3,7,4.5,N,1,0,kyle-davis-3,Kyle Davis,2015
+32,67,32,2015-03-14,Dayton,N,Rhode Island,CTOURN,W 56-52,*,35,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,4,1.0,0,3,3,1,0,0,0,1,8,7.9,N,1,0,kyle-davis-3,Kyle Davis,2015
+33,68,33,2015-03-15,Dayton,N,VCU,CTOURN,L 65-71,*,30,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,0,2,2,1,3,0,2,3,8,6.1,N,0,0,kyle-davis-3,Kyle Davis,2015
+34,69,34,2015-03-18,Dayton,N,Boise State,FIRST-FOUR,W 56-55,*,28,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,4,4,2,1,1,2,3,3,2.0,N,1,0,kyle-davis-3,Kyle Davis,2015
+35,70,35,2015-03-20,Dayton,N,Providence,ROUND-64,W 66-53,*,34,1,4,0.25,0,3,0.0,1,1,1.0,0.25,4,4,1.0,0,9,9,3,5,0,2,3,6,10.2,N,1,0,kyle-davis-3,Kyle Davis,2015
+36,71,36,2015-03-22,Dayton,N,Oklahoma,ROUND-32,L 66-72,*,22,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,2,3,0,1,1,2,3.2,N,0,0,kyle-davis-3,Kyle Davis,2015

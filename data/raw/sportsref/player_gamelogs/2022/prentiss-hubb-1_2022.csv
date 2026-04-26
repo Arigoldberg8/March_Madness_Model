@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2021-11-13,Notre Dame,,Cal State Northridge,REG (Non-Conf),W 68-52,*,29,0,6,0.0,0,5,0.0,0,1,0.0,0.0,0,0,,0,0,0,6,1,0,1,2,0,-0.8,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+2,93,2,2021-11-16,Notre Dame,,High Point,REG (Non-Conf),W 70-61,*,34,3,14,0.214,1,8,0.125,2,6,0.333,0.25,1,4,0.25,2,2,4,5,1,0,2,1,8,2.3,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+3,94,3,2021-11-22,Notre Dame,N,St. Mary's (CA),REG (Non-Conf),L 59-62,*,30,1,7,0.143,1,4,0.25,0,3,0.0,0.214,3,4,0.75,1,1,2,0,1,0,2,1,6,0.7,N,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+4,95,4,2021-11-23,Notre Dame,N,Chaminade,REG (Non-Conf),W 90-64,*,32,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,1,2,3,3,0,0,1,1,11,8.0,N,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+5,96,5,2021-11-24,Notre Dame,N,Texas A&M,REG (Non-Conf),L 67-73,*,31,2,7,0.286,1,5,0.2,1,2,0.5,0.357,6,9,0.667,2,2,4,3,1,0,8,4,11,1.2,N,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+6,97,6,2021-11-29,Notre Dame,@,Illinois,REG (Non-Conf),L 72-82,*,28,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,2,2,2,1,0,1,1,0,-1.9,A,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+7,98,7,2021-12-03,Notre Dame,@,Boston College,REG (Conf),L 57-73,,31,5,7,0.714,3,4,0.75,2,3,0.667,0.929,2,2,1.0,0,2,2,2,1,0,1,0,15,14.1,A,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+8,99,8,2021-12-11,Notre Dame,,Kentucky,REG (Non-Conf),W 66-62,,21,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,3,3,2,1,0,1,1,2,0.1,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+9,100,9,2021-12-18,Notre Dame,N,Indiana,REG (Non-Conf),L 56-64,,27,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,2,2,2,1,0,2,2,5,1.8,N,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+10,101,10,2021-12-20,Notre Dame,,Western Michigan,REG (Non-Conf),W 85-52,*,30,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,3,3,4,0,1,1,1,9,9.0,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+11,102,11,2021-12-22,Notre Dame,,Texas A&M–Corpus Christi,REG (Non-Conf),W 83-73,*,38,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,1,2,5,1,0,3,3,11,9.0,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+12,103,12,2021-12-28,Notre Dame,@,Pittsburgh,REG (Conf),W 68-67,*,33,4,9,0.444,3,5,0.6,1,4,0.25,0.611,4,4,1.0,0,2,2,2,0,0,1,0,15,11.3,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+13,104,13,2022-01-05,Notre Dame,,North Carolina,REG (Conf),W 78-73,*,35,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,6,0.333,0,1,1,6,0,0,0,1,7,4.0,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+14,105,14,2022-01-08,Notre Dame,@,Georgia Tech,REG (Conf),W 72-68 (OT),*,41,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,1,0.0,0,4,4,9,2,0,3,1,10,10.3,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+15,106,15,2022-01-12,Notre Dame,,Clemson,REG (Conf),W 72-56,*,32,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,3,2,5,3,1,0,0,2,5,4.5,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+16,107,16,2022-01-15,Notre Dame,@,Virginia Tech,REG (Conf),L 73-79,*,36,4,11,0.364,0,3,0.0,4,8,0.5,0.364,3,3,1.0,2,2,4,2,1,0,0,0,11,9.3,A,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+17,108,17,2022-01-17,Notre Dame,@,Howard,REG (Non-Conf),W 71-68,*,33,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,3,3,2,0,0,5,1,8,1.2,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+18,109,18,2022-01-22,Notre Dame,@,Louisville,REG (Conf),W 82-70,*,36,4,6,0.667,3,5,0.6,1,1,1.0,0.917,1,1,1.0,0,5,5,5,1,0,1,3,12,13.2,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+19,110,19,2022-01-26,Notre Dame,,NC State,REG (Conf),W 73-65,*,40,4,12,0.333,2,6,0.333,2,6,0.333,0.417,1,2,0.5,0,3,3,5,0,2,0,1,11,9.2,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+20,111,20,2022-01-29,Notre Dame,,Virginia,REG (Conf),W 69-65,*,36,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,3,1,2,0,2,7,8.3,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+21,112,21,2022-01-31,Notre Dame,,Duke,REG (Conf),L 43-57,*,31,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,2,1.0,0,2,2,2,0,0,1,0,7,2.5,H,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+22,113,22,2022-02-02,Notre Dame,@,Miami (FL),REG (Conf),W 68-64,*,37,6,12,0.5,3,8,0.375,3,4,0.75,0.625,0,0,,0,2,2,6,2,0,1,3,15,13.6,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+23,114,23,2022-02-05,Notre Dame,@,NC State,REG (Conf),W 69-57,*,37,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,0,2,2,4,2,0,0,1,13,13.0,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+24,115,24,2022-02-09,Notre Dame,,Louisville,REG (Conf),W 63-57,*,37,2,8,0.25,1,6,0.167,1,2,0.5,0.313,2,2,1.0,0,3,3,5,0,0,2,0,7,4.6,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+25,116,25,2022-02-12,Notre Dame,@,Clemson,REG (Conf),W 76-61,*,34,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,5,5,3,0,0,0,1,5,2.7,A,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+26,117,26,2022-02-16,Notre Dame,,Boston College,REG (Conf),W 99-95 (OT),*,39,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,4,1.0,1,6,7,0,2,0,0,2,13,13.4,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+27,118,27,2022-02-19,Notre Dame,@,Wake Forest,REG (Conf),L 74-79,*,39,4,10,0.4,2,7,0.286,2,3,0.667,0.5,0,0,,0,4,4,6,0,0,3,2,10,6.2,A,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+28,119,28,2022-02-23,Notre Dame,,Syracuse,REG (Conf),W 79-69,*,38,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,1,1.0,1,7,8,10,1,0,3,2,6,9.6,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+29,120,29,2022-02-26,Notre Dame,,Georgia Tech,REG (Conf),W 90-56,*,28,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,0,,0,1,1,6,0,1,1,2,13,14.2,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+30,121,30,2022-03-02,Notre Dame,@,Florida State,REG (Conf),L 70-74,*,34,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,2,0.5,1,6,7,3,0,0,1,2,10,5.6,A,0,1,prentiss-hubb-1,Prentiss Hubb,2022
+31,122,31,2022-03-05,Notre Dame,,Pittsburgh,REG (Conf),W 78-54,*,26,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,6,1,0,2,0,5,5.8,H,1,1,prentiss-hubb-1,Prentiss Hubb,2022
+32,123,32,2022-03-10,Notre Dame,N,Virginia Tech,CTOURN,L 80-87,*,32,8,12,0.667,3,6,0.5,5,6,0.833,0.792,4,5,0.8,0,1,1,5,0,0,4,3,23,16.0,N,0,0,prentiss-hubb-1,Prentiss Hubb,2022
+33,124,33,2022-03-16,Notre Dame,N,Rutgers,FIRST-FOUR,W 89-87 (2OT),*,44,3,12,0.25,0,4,0.0,3,8,0.375,0.25,3,4,0.75,1,4,5,7,0,0,0,0,9,8.2,N,1,0,prentiss-hubb-1,Prentiss Hubb,2022
+34,125,34,2022-03-18,Notre Dame,N,Alabama,ROUND-64,W 78-64,*,35,1,8,0.125,1,2,0.5,0,6,0.0,0.188,2,2,1.0,0,5,5,3,2,0,1,2,5,3.6,N,1,0,prentiss-hubb-1,Prentiss Hubb,2022
+35,126,35,2022-03-20,Notre Dame,N,Texas Tech,ROUND-32,L 53-59,*,35,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,3,4,3,1,0,2,2,5,2.8,N,0,0,prentiss-hubb-1,Prentiss Hubb,2022

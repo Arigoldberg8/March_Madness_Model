@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2011-11-11,Florida,,Jackson State,REG (Non-Conf),W 99-59,,20,7,12,0.583,5,8,0.625,2,4,0.5,0.792,0,0,,2,0,2,2,2,0,0,2,19,17.4,H,1,1,mike-rosario-1,Mike Rosario,2012
+2,66,2,2011-11-15,Florida,@,Ohio State,REG (Non-Conf),L 74-81,,19,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,2,0,0,2,2,5,2.5,A,0,1,mike-rosario-1,Mike Rosario,2012
+3,67,3,2011-11-17,Florida,,North Florida,REG (Non-Conf),W 91-55,,18,5,9,0.556,4,6,0.667,1,3,0.333,0.778,1,2,0.5,0,2,2,0,0,0,2,1,15,8.5,H,1,1,mike-rosario-1,Mike Rosario,2012
+4,68,4,2011-11-21,Florida,N,Wright State,REG (Non-Conf),W 78-65,,23,4,5,0.8,2,3,0.667,2,2,1.0,1.0,1,2,0.5,1,6,7,3,0,0,2,3,11,10.1,N,1,1,mike-rosario-1,Mike Rosario,2012
+5,69,5,2011-11-25,Florida,,Jacksonville,REG (Non-Conf),W 107-62,,22,4,11,0.364,3,9,0.333,1,2,0.5,0.5,1,2,0.5,1,1,2,1,0,0,0,3,12,6.0,H,1,1,mike-rosario-1,Mike Rosario,2012
+6,70,6,2011-11-28,Florida,N,Stetson,REG (Non-Conf),W 96-70,,19,4,10,0.4,2,7,0.286,2,3,0.667,0.5,0,0,,2,2,4,0,2,0,2,3,10,5.4,N,1,1,mike-rosario-1,Mike Rosario,2012
+7,71,7,2011-12-02,Florida,@,Syracuse,REG (Non-Conf),L 68-72,,6,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,1,1,2,-0.8,A,0,1,mike-rosario-1,Mike Rosario,2012
+8,72,8,2011-12-07,Florida,,Arizona,REG (Non-Conf),W 78-72 (OT),,14,3,7,0.429,3,4,0.75,0,3,0.0,0.643,1,2,0.5,0,0,0,1,1,0,0,1,10,7.2,H,1,1,mike-rosario-1,Mike Rosario,2012
+9,73,9,2011-12-09,Florida,N,Rider,REG (Non-Conf),W 90-69,,18,2,7,0.286,0,5,0.0,2,2,1.0,0.286,0,0,,0,0,0,4,1,0,0,0,4,3.7,N,1,1,mike-rosario-1,Mike Rosario,2012
+10,74,10,2011-12-17,Florida,N,Texas A&M,REG (Non-Conf),W 84-64,,12,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,2,3,0,1,0,1,0,6,4.3,N,1,1,mike-rosario-1,Mike Rosario,2012
+11,75,13,2011-12-29,Florida,@,Rutgers,REG (Non-Conf),L 83-85 (2OT),,14,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,1,1,0,0,0,1,2,5,0.1,A,0,1,mike-rosario-1,Mike Rosario,2012
+12,76,14,2011-12-31,Florida,,Yale,REG (Non-Conf),W 90-70,,23,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,0,3,3,2,0,0,1,0,9,5.9,H,1,1,mike-rosario-1,Mike Rosario,2012
+13,77,16,2012-01-07,Florida,@,Tennessee,REG (Conf),L 56-67,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,1,0,0.6,A,0,1,mike-rosario-1,Mike Rosario,2012
+14,78,17,2012-01-10,Florida,,Georgia,REG (Conf),W 70-48,,16,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,1,1.0,0,1,1,2,2,0,0,0,7,5.6,H,1,1,mike-rosario-1,Mike Rosario,2012
+15,79,18,2012-01-14,Florida,@,South Carolina,REG (Conf),W 79-65,,19,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,2,2,2,1,0,3,1,10,6.6,A,1,1,mike-rosario-1,Mike Rosario,2012
+16,80,19,2012-01-21,Florida,,Louisiana State,REG (Conf),W 76-64,,15,3,7,0.429,1,4,0.25,2,3,0.667,0.5,4,4,1.0,0,1,1,0,1,0,0,0,11,8.6,H,1,1,mike-rosario-1,Mike Rosario,2012
+17,81,20,2012-01-26,Florida,@,Ole Miss,REG (Conf),W 64-60,,16,2,5,0.4,2,5,0.4,0,0,,0.6,2,2,1.0,0,0,0,2,1,0,1,0,8,6.7,A,1,1,mike-rosario-1,Mike Rosario,2012
+18,82,21,2012-01-28,Florida,,Mississippi State,REG (Conf),W 69-57,,12,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,0,1,0,2,0,5,1.6,H,1,1,mike-rosario-1,Mike Rosario,2012
+19,83,22,2012-02-02,Florida,,South Carolina,REG (Conf),W 74-66,,8,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,1,0,1,0,0,0,1,0,4,0.6,H,1,1,mike-rosario-1,Mike Rosario,2012
+20,84,23,2012-02-04,Florida,,Vanderbilt,REG (Conf),W 73-65,,20,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,1,1,2,2,1,0,1,2,10,7.6,H,1,1,mike-rosario-1,Mike Rosario,2012
+21,85,24,2012-02-07,Florida,@,Kentucky,REG (Conf),L 58-78,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,1,1,1,0,0,3,1,3,-2.2,A,0,1,mike-rosario-1,Mike Rosario,2012
+22,86,28,2012-02-21,Florida,,Auburn,REG (Conf),W 63-47,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,mike-rosario-1,Mike Rosario,2012
+23,87,29,2012-02-25,Florida,@,Georgia,REG (Conf),L 62-76,,15,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,1,0.0,0,0,0,1,0,0,0,2,6,0.4,A,0,1,mike-rosario-1,Mike Rosario,2012
+24,88,30,2012-02-28,Florida,@,Vanderbilt,REG (Conf),L 67-77,,25,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,0,0,2,2,0,0,3,5,3.4,A,0,1,mike-rosario-1,Mike Rosario,2012
+25,89,31,2012-03-04,Florida,,Kentucky,REG (Conf),L 59-74,,7,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,0,0,0,1,0,4,2.3,H,0,1,mike-rosario-1,Mike Rosario,2012
+26,90,32,2012-03-09,Florida,N,Alabama,CTOURN,W 66-63,,10,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,1,0,2,-0.4,N,1,0,mike-rosario-1,Mike Rosario,2012
+27,91,33,2012-03-10,Florida,N,Kentucky,CTOURN,L 71-74,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,0,0,mike-rosario-1,Mike Rosario,2012
+28,92,34,2012-03-16,Florida,N,Virginia,ROUND-64,W 71-45,,12,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,0,1,1,2,0,0,1,0,3,0.9,N,1,0,mike-rosario-1,Mike Rosario,2012
+29,93,35,2012-03-18,Florida,N,Norfolk State,ROUND-32,W 84-50,,19,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,2,0,2,0,0,0,0,0,12,10.5,N,1,0,mike-rosario-1,Mike Rosario,2012
+30,94,36,2012-03-22,Florida,N,Marquette,ROUND-16,W 68-58,,11,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,1,1,0,0,2,2,0,4,1.7,N,1,0,mike-rosario-1,Mike Rosario,2012
+31,95,37,2012-03-24,Florida,N,Louisville,ROUND-8,L 68-72,,6,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,0,0,0,0,0,0,0,1,3,2.3,N,0,0,mike-rosario-1,Mike Rosario,2012

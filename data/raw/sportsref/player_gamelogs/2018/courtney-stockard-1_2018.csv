@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,St. Bonaventure,,Niagara,REG (Non-Conf),L 75-77,,26,3,8,0.375,1,5,0.2,2,3,0.667,0.438,2,5,0.4,0,4,4,1,0,2,2,5,9,2.7,H,0,1,courtney-stockard-1,Courtney Stockard,2018
+2,2,4,2017-11-24,St. Bonaventure,N,Maryland,REG (Non-Conf),W 63-61,,30,4,9,0.444,0,0,,4,9,0.444,0.444,6,7,0.857,1,4,5,0,1,0,2,3,14,8.6,N,1,1,courtney-stockard-1,Courtney Stockard,2018
+3,3,5,2017-11-25,St. Bonaventure,N,TCU,REG (Non-Conf),L 79-89,,28,4,5,0.8,0,1,0.0,4,4,1.0,0.8,8,9,0.889,3,4,7,1,1,0,2,3,16,15.5,N,0,1,courtney-stockard-1,Courtney Stockard,2018
+4,4,6,2017-11-29,St. Bonaventure,@,Siena,REG (Non-Conf),W 75-55,,22,1,4,0.25,0,0,,1,4,0.25,0.25,3,9,0.333,2,3,5,2,1,0,1,3,5,2.7,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+5,5,7,2017-12-02,St. Bonaventure,@,Buffalo,REG (Non-Conf),W 73-62,,30,5,15,0.333,0,3,0.0,5,12,0.417,0.333,3,3,1.0,1,8,9,1,1,1,1,2,13,8.2,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+6,6,8,2017-12-06,St. Bonaventure,@,Canisius,REG (Non-Conf),W 73-65,,30,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,1,2,3,2,1,0,0,2,9,5.8,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+7,7,9,2017-12-09,St. Bonaventure,,Yale,REG (Non-Conf),W 75-67,,23,5,9,0.556,1,1,1.0,4,8,0.5,0.611,2,4,0.5,2,4,6,0,1,0,5,3,13,5.3,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+8,8,10,2017-12-16,St. Bonaventure,N,Vermont,REG (Non-Conf),W 81-79,,31,6,9,0.667,1,1,1.0,5,8,0.625,0.722,1,1,1.0,1,3,4,2,2,1,3,4,14,11.2,N,1,1,courtney-stockard-1,Courtney Stockard,2018
+9,9,11,2017-12-20,St. Bonaventure,,Northeastern,REG (Non-Conf),W 84-65,,15,2,2,1.0,0,0,,2,2,1.0,1.0,2,4,0.5,1,3,4,2,2,0,1,4,6,7.0,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+10,10,12,2017-12-22,St. Bonaventure,@,Syracuse,REG (Non-Conf),W 60-57 (OT),,34,1,5,0.2,0,0,,1,5,0.2,0.2,5,6,0.833,0,6,6,5,0,0,5,4,7,2.2,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+11,11,13,2017-12-30,St. Bonaventure,,Massachusetts,REG (Conf),W 98-78,,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,3,4,7,2,0,0,3,3,10,7.8,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+12,12,14,2018-01-03,St. Bonaventure,@,Dayton,REG (Conf),L 72-82,,28,4,10,0.4,0,1,0.0,4,9,0.444,0.4,1,2,0.5,1,4,5,2,2,1,3,5,9,4.2,A,0,1,courtney-stockard-1,Courtney Stockard,2018
+13,13,15,2018-01-06,St. Bonaventure,@,Saint Joseph's,REG (Conf),L 78-85,,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,9,9,1.0,1,1,2,2,3,0,1,5,17,15.4,A,0,1,courtney-stockard-1,Courtney Stockard,2018
+14,14,16,2018-01-10,St. Bonaventure,,Fordham,REG (Conf),W 77-61,,22,5,12,0.417,0,0,,5,12,0.417,0.417,3,3,1.0,3,4,7,3,1,0,4,3,13,7.8,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+15,15,17,2018-01-13,St. Bonaventure,@,Rhode Island,REG (Conf),L 73-87,,32,4,10,0.4,0,2,0.0,4,8,0.5,0.4,6,8,0.75,1,8,9,2,2,0,2,4,14,10.7,A,0,1,courtney-stockard-1,Courtney Stockard,2018
+16,16,18,2018-01-19,St. Bonaventure,@,Davidson,REG (Conf),L 73-83,*,36,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,0,,2,2,4,1,2,1,2,5,8,4.0,A,0,1,courtney-stockard-1,Courtney Stockard,2018
+17,17,19,2018-01-24,St. Bonaventure,,Saint Joseph's,REG (Conf),W 70-67,*,37,6,12,0.5,0,1,0.0,6,11,0.545,0.5,3,4,0.75,2,11,13,4,1,1,7,4,15,9.2,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+18,18,20,2018-01-28,St. Bonaventure,,George Washington,REG (Conf),W 70-52,*,33,6,13,0.462,0,0,,6,13,0.462,0.462,0,0,,1,6,7,3,0,1,0,3,12,9.4,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+19,19,21,2018-01-31,St. Bonaventure,@,George Mason,REG (Conf),W 85-69,*,30,1,3,0.333,0,0,,1,3,0.333,0.333,3,6,0.5,1,4,5,3,1,1,4,5,5,1.8,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+20,20,22,2018-02-03,St. Bonaventure,@,Duquesne,REG (Conf),W 84-81,*,35,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,2,1.0,2,4,6,5,0,0,1,3,10,7.8,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+21,21,23,2018-02-07,St. Bonaventure,,Saint Louis,REG (Conf),W 79-56,*,38,4,11,0.364,0,1,0.0,4,10,0.4,0.364,6,7,0.857,0,6,6,3,3,0,0,3,14,13.2,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+22,22,24,2018-02-10,St. Bonaventure,,Richmond,REG (Conf),W 97-88,*,25,5,8,0.625,0,0,,5,8,0.625,0.625,2,2,1.0,4,7,11,6,1,1,1,3,12,17.0,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+23,23,25,2018-02-13,St. Bonaventure,@,La Salle,REG (Conf),W 79-68,*,38,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,2,4,6,1,1,0,1,3,10,8.5,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+24,24,26,2018-02-16,St. Bonaventure,,Rhode Island,REG (Conf),W 77-74,*,40,4,8,0.5,2,4,0.5,2,4,0.5,0.625,3,4,0.75,0,6,6,1,3,0,2,1,13,11.7,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+25,25,27,2018-02-21,St. Bonaventure,,Duquesne,REG (Conf),W 73-67,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,4,5,0.8,0,2,2,1,0,0,1,4,12,7.7,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+26,26,28,2018-02-24,St. Bonaventure,@,VCU,REG (Conf),W 68-63,*,38,6,11,0.545,2,3,0.667,4,8,0.5,0.636,7,8,0.875,0,14,14,3,2,0,7,1,21,16.2,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+27,27,29,2018-02-27,St. Bonaventure,,Davidson,REG (Conf),W 117-113 (3OT),*,44,11,17,0.647,4,7,0.571,7,10,0.7,0.765,5,5,1.0,1,6,7,3,2,2,3,5,31,26.5,H,1,1,courtney-stockard-1,Courtney Stockard,2018
+28,28,30,2018-03-03,St. Bonaventure,@,Saint Louis,REG (Conf),W 64-56,*,38,8,18,0.444,1,4,0.25,7,14,0.5,0.472,5,7,0.714,3,7,10,2,1,0,4,4,22,12.8,A,1,1,courtney-stockard-1,Courtney Stockard,2018
+29,29,31,2018-03-09,St. Bonaventure,N,Richmond,CTOURN,W 83-77,*,30,8,9,0.889,3,4,0.75,5,5,1.0,1.056,0,0,,0,4,4,5,3,0,2,1,19,21.2,N,1,0,courtney-stockard-1,Courtney Stockard,2018
+30,30,33,2018-03-13,St. Bonaventure,N,UCLA,FIRST-FOUR,W 65-58,*,40,9,20,0.45,2,7,0.286,7,13,0.538,0.5,6,8,0.75,0,4,4,0,4,0,2,4,26,16.4,N,1,0,courtney-stockard-1,Courtney Stockard,2018
+31,31,34,2018-03-15,St. Bonaventure,N,Florida,ROUND-64,L 62-77,*,38,5,12,0.417,0,3,0.0,5,9,0.556,0.417,4,5,0.8,0,6,6,1,0,0,4,5,14,3.7,N,0,0,courtney-stockard-1,Courtney Stockard,2018

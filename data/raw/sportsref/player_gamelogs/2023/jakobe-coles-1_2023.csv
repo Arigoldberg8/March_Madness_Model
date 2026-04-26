@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2022-11-07,TCU,,Arkansas–Pine Bluff,REG (Non-Conf),W 73-72,,11,0,5,0.0,0,3,0.0,0,2,0.0,0.0,4,4,1.0,1,2,3,0,0,0,0,0,4,1.8,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+2,42,2,2022-11-11,TCU,,Lamar,REG (Non-Conf),W 77-66,,11,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,2,3,1,0,0,1,2,5,4.6,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+3,43,3,2022-11-14,TCU,,Northwestern State,REG (Non-Conf),L 63-64,,16,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,2,4,6,2,1,0,1,0,8,8.7,H,0,1,jakobe-coles-1,JaKobe Coles,2023
+4,44,4,2022-11-17,TCU,,Louisiana–Monroe,REG (Non-Conf),W 95-60,,21,6,11,0.545,2,4,0.5,4,7,0.571,0.636,1,1,1.0,2,5,7,1,1,3,0,1,15,16.0,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+5,45,5,2022-11-25,TCU,N,California,REG (Non-Conf),W 59-48,*,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,2,1,0,0,2,4,4.2,N,1,1,jakobe-coles-1,JaKobe Coles,2023
+6,46,6,2022-11-26,TCU,N,Iowa,REG (Non-Conf),W 79-66,,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,4,3,7,4,3,0,2,1,4,8.4,N,1,1,jakobe-coles-1,JaKobe Coles,2023
+7,47,7,2022-11-30,TCU,,Providence,REG (Non-Conf),W 75-62,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,0,1,1,0,2,0,0.1,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+8,48,8,2022-12-06,TCU,,Jackson State,REG (Non-Conf),W 78-51,,26,7,11,0.636,3,5,0.6,4,6,0.667,0.773,4,4,1.0,2,5,7,2,1,3,0,2,21,22.7,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+9,49,9,2022-12-10,TCU,N,SMU,REG (Non-Conf),W 83-75,,9,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,1,1,0,1,0,1,1,6,2.5,N,1,1,jakobe-coles-1,JaKobe Coles,2023
+10,50,10,2022-12-18,TCU,,Mississippi Valley State,REG (Non-Conf),W 88-43,,18,5,11,0.455,1,2,0.5,4,9,0.444,0.5,1,2,0.5,3,6,9,2,0,0,1,2,12,9.4,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+11,51,11,2022-12-21,TCU,N,Utah,REG (Non-Conf),W 75-71,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,6,6,1.0,0,1,1,0,1,1,0,3,6,4.7,N,1,1,jakobe-coles-1,JaKobe Coles,2023
+12,52,12,2022-12-28,TCU,,Central Arkansas,REG (Non-Conf),W 103-57,,21,5,10,0.5,2,6,0.333,3,4,0.75,0.6,0,0,,3,4,7,1,0,1,0,1,12,11.3,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+13,53,13,2022-12-31,TCU,,Texas Tech,REG (Conf),W 67-61,,8,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,4,6,0,0,0,0,1,3,2.4,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+14,54,14,2023-01-04,TCU,@,Baylor,REG (Conf),W 88-87,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,0,0,2,2,0.1,A,1,1,jakobe-coles-1,JaKobe Coles,2023
+15,55,15,2023-01-07,TCU,,Iowa State,REG (Conf),L 67-69,,10,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,2,0.5,0,2,2,0,0,0,1,2,8,4.8,H,0,1,jakobe-coles-1,JaKobe Coles,2023
+16,56,16,2023-01-11,TCU,@,Texas,REG (Conf),L 75-79,,12,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,3,0.667,0,1,1,0,1,1,1,0,7,4.2,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+17,57,17,2023-01-14,TCU,,Kansas State,REG (Conf),W 82-68,,14,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,1,4,5,3,2,1,3,1,4,4.2,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+18,58,18,2023-01-18,TCU,@,West Virginia,REG (Conf),L 65-74,,18,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,1,2,0,0,1,0,4,6,3.1,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+19,59,19,2023-01-21,TCU,@,Kansas,REG (Conf),W 83-60,,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,1,2,3,2,0,0,0,1,9,9.7,A,1,1,jakobe-coles-1,JaKobe Coles,2023
+20,60,20,2023-01-24,TCU,,Oklahoma,REG (Conf),W 79-52,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,2,2,4,2,0,2,1,2,7,7.7,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+21,61,21,2023-01-28,TCU,@,Mississippi State,REG (Non-Conf),L 74-81 (OT),,28,3,8,0.375,1,4,0.25,2,4,0.5,0.438,5,6,0.833,3,5,8,1,0,0,2,4,12,7.9,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+22,62,22,2023-01-31,TCU,,West Virginia,REG (Conf),W 76-72,,18,6,10,0.6,0,1,0.0,6,9,0.667,0.6,5,6,0.833,0,2,2,0,1,0,0,2,17,12.8,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+23,63,23,2023-02-04,TCU,@,Oklahoma State,REG (Conf),L 73-79,,19,6,10,0.6,1,1,1.0,5,9,0.556,0.65,2,2,1.0,3,1,4,2,0,0,1,2,15,12.4,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+24,64,24,2023-02-07,TCU,@,Kansas State,REG (Conf),L 61-82,,22,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,3,3,0,1,1,0,1,11,8.2,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+25,65,25,2023-02-11,TCU,,Baylor,REG (Conf),L 68-72,,21,6,8,0.75,1,1,1.0,5,7,0.714,0.813,2,3,0.667,3,2,5,3,1,0,0,1,15,16.8,H,0,1,jakobe-coles-1,JaKobe Coles,2023
+26,66,26,2023-02-15,TCU,@,Iowa State,REG (Conf),L 59-70,,21,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,4,0.5,0,3,3,1,0,1,0,1,6,3.0,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+27,67,27,2023-02-18,TCU,,Oklahoma State,REG (Conf),W 100-75,,13,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,2,0.5,1,3,4,2,1,1,0,2,6,8.9,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+28,68,28,2023-02-20,TCU,,Kansas,REG (Conf),L 58-63,,17,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,2,0.5,1,2,3,0,2,0,0,1,12,10.9,H,0,1,jakobe-coles-1,JaKobe Coles,2023
+29,69,29,2023-02-25,TCU,@,Texas Tech,REG (Conf),W 83-82,,27,5,12,0.417,1,2,0.5,4,10,0.4,0.458,4,4,1.0,2,3,5,3,1,1,1,3,15,12.5,A,1,1,jakobe-coles-1,JaKobe Coles,2023
+30,70,30,2023-03-01,TCU,,Texas,REG (Conf),W 75-73,,16,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,2,2,0,1,1,4,2,8,2.2,H,1,1,jakobe-coles-1,JaKobe Coles,2023
+31,71,31,2023-03-04,TCU,@,Oklahoma,REG (Conf),L 60-74,,16,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,4,0.75,0,0,0,0,0,1,0,2,7,3.8,A,0,1,jakobe-coles-1,JaKobe Coles,2023
+32,72,32,2023-03-09,TCU,N,Kansas State,CTOURN,W 80-67,,17,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,2,2,4,2,0,0,0,4,8,6.1,N,1,0,jakobe-coles-1,JaKobe Coles,2023
+33,73,33,2023-03-10,TCU,N,Texas,CTOURN,L 60-66,,20,2,7,0.286,1,1,1.0,1,6,0.167,0.357,3,4,0.75,4,0,4,2,0,1,2,1,8,6.0,N,0,0,jakobe-coles-1,JaKobe Coles,2023
+34,74,34,2023-03-17,TCU,N,Arizona State,ROUND-64,W 72-70,,24,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,2,0.5,4,1,5,1,0,0,1,4,11,6.8,N,1,0,jakobe-coles-1,JaKobe Coles,2023
+35,75,35,2023-03-19,TCU,N,Gonzaga,ROUND-32,L 81-84,,14,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,1,6,7,4,0,0,1,5,6,5.2,N,0,0,jakobe-coles-1,JaKobe Coles,2023

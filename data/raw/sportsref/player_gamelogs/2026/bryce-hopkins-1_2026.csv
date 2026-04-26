@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,79,1,2025-11-03,St. John's (NY),,Quinnipiac,REG (Non-Conf),W 108-74,*,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,4,0.5,1,3,4,5,1,0,3,1,8,7.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+2,80,2,2025-11-08,St. John's (NY),,Alabama,REG (Non-Conf),L 96-103,*,28,5,12,0.417,0,3,0.0,5,9,0.556,0.417,9,13,0.692,1,3,4,1,0,0,2,1,19,10.9,H,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+3,81,3,2025-11-15,St. John's (NY),,William & Mary,REG (Non-Conf),W 93-60,*,20,6,11,0.545,1,4,0.25,5,7,0.714,0.591,2,4,0.5,1,3,4,2,0,0,0,0,15,11.9,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+4,82,4,2025-11-20,St. John's (NY),,Bucknell,REG (Non-Conf),W 97-49,*,17,7,9,0.778,3,4,0.75,4,5,0.8,0.944,3,5,0.6,2,1,3,3,3,1,0,1,20,22.8,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+5,83,5,2025-11-24,St. John's (NY),N,Iowa State,REG (Non-Conf),L 82-83,*,33,3,10,0.3,0,3,0.0,3,7,0.429,0.3,10,10,1.0,3,4,7,3,1,0,2,3,16,13.4,N,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+6,84,6,2025-11-25,St. John's (NY),N,Baylor,REG (Non-Conf),W 96-81,*,26,9,12,0.75,3,3,1.0,6,9,0.667,0.875,5,5,1.0,3,2,5,5,1,1,3,1,26,25.7,N,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+7,85,7,2025-11-26,St. John's (NY),N,Auburn,REG (Non-Conf),L 74-85,*,28,2,11,0.182,0,5,0.0,2,6,0.333,0.182,5,7,0.714,3,4,7,2,0,0,2,1,9,3.6,N,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+8,86,8,2025-12-06,St. John's (NY),,Ole Miss,REG (Non-Conf),W 63-58,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,3,0.667,2,4,6,2,0,1,3,2,8,5.5,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+9,87,9,2025-12-13,St. John's (NY),,Iona,REG (Non-Conf),W 91-64,*,18,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,1,0.0,2,3,5,1,2,0,2,1,13,12.0,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+10,88,10,2025-12-16,St. John's (NY),,DePaul,REG (Conf),W 79-66,*,23,1,4,0.25,1,1,1.0,0,3,0.0,0.375,3,4,0.75,0,0,0,0,3,0,3,1,6,2.8,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+11,89,11,2025-12-20,St. John's (NY),N,Kentucky,REG (Non-Conf),L 66-78,*,29,4,11,0.364,1,3,0.333,3,8,0.375,0.409,4,6,0.667,1,2,3,1,3,0,1,4,13,8.5,N,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+12,90,12,2025-12-23,St. John's (NY),,Harvard,REG (Non-Conf),W 85-59,*,25,6,12,0.5,1,3,0.333,5,9,0.556,0.542,1,1,1.0,1,2,3,4,0,0,1,2,14,10.3,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+13,91,13,2025-12-31,St. John's (NY),@,Georgetown,REG (Conf),W 95-83,*,29,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,4,1.0,3,7,10,6,1,2,4,3,8,9.5,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+14,92,14,2026-01-03,St. John's (NY),,Providence,REG (Conf),L 71-77,*,27,3,13,0.231,1,5,0.2,2,8,0.25,0.269,2,4,0.5,4,6,10,0,0,2,0,2,9,5.5,H,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+15,93,15,2026-01-06,St. John's (NY),@,Butler,REG (Conf),W 84-70,*,24,7,12,0.583,1,1,1.0,6,11,0.545,0.625,2,2,1.0,2,2,4,2,2,0,0,2,17,16.0,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+16,94,16,2026-01-10,St. John's (NY),@,Creighton,REG (Conf),W 90-73,*,30,5,9,0.556,1,3,0.333,4,6,0.667,0.611,1,2,0.5,1,3,4,1,1,0,0,0,12,10.6,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+17,95,17,2026-01-13,St. John's (NY),,Marquette,REG (Conf),W 92-68,*,19,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,4,1.0,3,5,8,3,0,0,1,4,12,11.1,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+18,96,18,2026-01-17,St. John's (NY),@,Villanova,REG (Conf),W 86-79,*,36,6,14,0.429,0,0,,6,14,0.429,0.429,8,10,0.8,3,3,6,2,1,1,0,2,20,17.1,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+19,97,19,2026-01-20,St. John's (NY),,Seton Hall,REG (Conf),W 65-60,*,38,4,13,0.308,0,2,0.0,4,11,0.364,0.308,5,6,0.833,2,6,8,4,0,0,0,1,13,10.7,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+20,98,20,2026-01-24,St. John's (NY),@,Xavier,REG (Conf),W 88-83,*,37,7,17,0.412,1,3,0.333,6,14,0.429,0.441,3,5,0.6,3,5,8,1,1,0,0,1,18,13.0,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+21,99,21,2026-01-28,St. John's (NY),,Butler,REG (Conf),W 92-70,*,23,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,2,3,5,1,1,0,1,2,8,7.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+22,100,22,2026-02-03,St. John's (NY),@,DePaul,REG (Conf),W 68-56,*,34,5,11,0.455,1,2,0.5,4,9,0.444,0.5,4,9,0.444,1,5,6,1,2,0,0,4,15,10.6,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+23,101,23,2026-02-06,St. John's (NY),,Connecticut,REG (Conf),W 81-72,*,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,5,9,0.556,1,5,6,2,1,0,1,3,14,11.5,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+24,102,24,2026-02-09,St. John's (NY),,Xavier,REG (Conf),W 87-82 (OT),*,36,5,11,0.455,0,1,0.0,5,10,0.5,0.455,9,11,0.818,2,7,9,2,2,0,1,2,19,17.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+25,103,25,2026-02-14,St. John's (NY),@,Providence,REG (Conf),W 79-69,*,35,3,14,0.214,0,2,0.0,3,12,0.25,0.214,3,4,0.75,2,7,9,1,2,0,1,2,9,4.4,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+26,104,26,2026-02-18,St. John's (NY),@,Marquette,REG (Conf),W 76-70,*,34,8,14,0.571,1,3,0.333,7,11,0.636,0.607,6,7,0.857,4,6,10,1,1,0,3,0,23,19.3,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+27,105,27,2026-02-21,St. John's (NY),,Creighton,REG (Conf),W 81-52,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,3,3,1.0,1,9,10,2,2,0,1,3,15,15.0,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+28,106,28,2026-02-25,St. John's (NY),@,Connecticut,REG (Conf),L 40-72,*,29,3,14,0.214,1,3,0.333,2,11,0.182,0.25,1,2,0.5,1,4,5,0,0,0,1,0,8,-0.1,A,0,1,bryce-hopkins-1,Bryce Hopkins,2026
+29,107,29,2026-02-28,St. John's (NY),,Villanova,REG (Conf),W 89-57,*,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,1,2,3,0,1,0,1,1,6,4.5,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+30,108,30,2026-03-03,St. John's (NY),,Georgetown,REG (Conf),W 72-69,*,29,2,11,0.182,0,3,0.0,2,8,0.25,0.182,5,6,0.833,1,5,6,2,0,0,0,1,9,4.9,H,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+31,109,31,2026-03-06,St. John's (NY),@,Seton Hall,REG (Conf),W 72-65,*,33,4,9,0.444,0,1,0.0,4,8,0.5,0.444,3,6,0.5,2,5,7,1,2,1,1,1,11,10.0,A,1,1,bryce-hopkins-1,Bryce Hopkins,2026
+32,110,32,2026-03-12,St. John's (NY),N,Providence,CTOURN,W 85-72,*,28,6,10,0.6,1,4,0.25,5,6,0.833,0.65,1,2,0.5,6,7,13,1,1,1,1,1,14,16.3,N,1,0,bryce-hopkins-1,Bryce Hopkins,2026
+33,111,33,2026-03-13,St. John's (NY),N,Seton Hall,CTOURN,W 78-68,*,34,3,4,0.75,0,0,,3,4,0.75,0.75,7,8,0.875,1,6,7,4,1,0,1,2,13,15.5,N,1,0,bryce-hopkins-1,Bryce Hopkins,2026
+34,112,34,2026-03-14,St. John's (NY),N,Connecticut,CTOURN,W 72-52,*,38,7,9,0.778,2,2,1.0,5,7,0.714,0.889,2,4,0.5,2,3,5,2,1,0,2,1,18,16.0,N,1,0,bryce-hopkins-1,Bryce Hopkins,2026

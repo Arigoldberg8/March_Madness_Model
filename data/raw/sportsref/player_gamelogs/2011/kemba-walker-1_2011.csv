@@ -1,0 +1,42 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2010-11-12,Connecticut,,Stony Brook,REG (Non-Conf),W 79-52,*,34,6,17,0.353,1,4,0.25,5,13,0.385,0.382,5,6,0.833,2,4,6,3,2,0,1,1,18,13.4,H,1,1,kemba-walker-1,Kemba Walker,2011
+2,71,2,2010-11-17,Connecticut,,Vermont,REG (Non-Conf),W 89-73,*,37,15,24,0.625,4,9,0.444,11,15,0.733,0.708,8,10,0.8,4,4,8,3,1,0,3,0,42,34.5,H,1,1,kemba-walker-1,Kemba Walker,2011
+3,72,3,2010-11-22,Connecticut,N,Wichita State,REG (Non-Conf),W 83-79,*,23,8,16,0.5,1,4,0.25,7,12,0.583,0.531,14,15,0.933,1,1,2,2,3,0,0,3,31,26.8,N,1,1,kemba-walker-1,Kemba Walker,2011
+4,73,4,2010-11-23,Connecticut,N,Michigan State,REG (Non-Conf),W 70-67,*,38,10,19,0.526,4,11,0.364,6,8,0.75,0.632,6,7,0.857,1,2,3,4,3,0,4,1,30,23.0,N,1,1,kemba-walker-1,Kemba Walker,2011
+5,74,5,2010-11-24,Connecticut,N,Kentucky,REG (Non-Conf),W 84-67,*,38,10,17,0.588,3,4,0.75,7,13,0.538,0.676,6,6,1.0,0,2,2,6,2,0,2,1,29,25.5,N,1,1,kemba-walker-1,Kemba Walker,2011
+6,75,6,2010-11-30,Connecticut,,New Hampshire,REG (Non-Conf),W 62-55,*,39,7,16,0.438,2,5,0.4,5,11,0.455,0.5,14,16,0.875,0,5,5,2,3,0,2,1,30,24.3,H,1,1,kemba-walker-1,Kemba Walker,2011
+7,76,7,2010-12-03,Connecticut,,UMBC,REG (Non-Conf),W 94-61,*,30,9,13,0.692,2,3,0.667,7,10,0.7,0.769,4,4,1.0,5,8,13,10,1,1,3,1,24,29.7,H,1,1,kemba-walker-1,Kemba Walker,2011
+8,77,8,2010-12-08,Connecticut,,Fairleigh Dickinson,REG (Non-Conf),W 78-54,*,32,7,13,0.538,3,7,0.429,4,6,0.667,0.654,4,5,0.8,0,4,4,2,3,2,1,1,21,19.9,H,1,1,kemba-walker-1,Kemba Walker,2011
+9,78,9,2010-12-20,Connecticut,,Coppin State,REG (Non-Conf),W 76-64,*,35,7,17,0.412,2,6,0.333,5,11,0.455,0.471,4,6,0.667,3,2,5,4,3,0,1,1,20,17.2,H,1,1,kemba-walker-1,Kemba Walker,2011
+10,79,10,2010-12-22,Connecticut,,Harvard,REG (Non-Conf),W 81-52,*,33,8,17,0.471,2,4,0.5,6,13,0.462,0.529,2,3,0.667,0,0,0,4,0,0,3,1,20,10.3,H,1,1,kemba-walker-1,Kemba Walker,2011
+11,80,11,2010-12-27,Connecticut,@,Pittsburgh,REG (Conf),L 63-78,*,35,10,27,0.37,3,11,0.273,7,16,0.438,0.426,8,11,0.727,2,2,4,2,5,0,3,2,31,19.5,A,0,1,kemba-walker-1,Kemba Walker,2011
+12,81,12,2010-12-31,Connecticut,,South Florida,REG (Conf),W 66-61 (OT),*,43,7,18,0.389,1,5,0.2,6,13,0.462,0.417,9,11,0.818,1,7,8,4,2,0,2,0,24,19.0,H,1,1,kemba-walker-1,Kemba Walker,2011
+13,82,13,2011-01-04,Connecticut,@,Notre Dame,REG (Conf),L 70-73,*,37,8,23,0.348,0,5,0.0,8,18,0.444,0.348,3,3,1.0,0,7,7,5,3,1,3,4,19,10.8,A,0,1,kemba-walker-1,Kemba Walker,2011
+14,83,14,2011-01-08,Connecticut,@,Texas,REG (Non-Conf),W 82-81 (OT),*,43,8,27,0.296,2,5,0.4,6,22,0.273,0.333,4,5,0.8,1,8,9,1,2,0,4,2,22,6.9,A,1,1,kemba-walker-1,Kemba Walker,2011
+15,84,15,2011-01-11,Connecticut,,Rutgers,REG (Conf),W 67-53,*,36,7,15,0.467,2,6,0.333,5,9,0.556,0.533,2,2,1.0,2,4,6,3,1,0,1,0,18,15.0,H,1,1,kemba-walker-1,Kemba Walker,2011
+16,85,16,2011-01-15,Connecticut,@,DePaul,REG (Conf),W 82-62,*,33,10,17,0.588,2,4,0.5,8,13,0.615,0.647,9,10,0.9,1,3,4,5,3,0,1,0,31,29.8,A,1,1,kemba-walker-1,Kemba Walker,2011
+17,86,17,2011-01-17,Connecticut,,Villanova,REG (Conf),W 61-59,*,39,6,18,0.333,3,6,0.5,3,12,0.25,0.417,9,12,0.75,2,4,6,5,0,0,3,2,24,14.9,H,1,1,kemba-walker-1,Kemba Walker,2011
+18,87,18,2011-01-22,Connecticut,,Tennessee,REG (Non-Conf),W 72-61,*,40,6,17,0.353,1,5,0.2,5,12,0.417,0.382,3,5,0.6,2,1,3,7,1,0,2,2,16,10.5,H,1,1,kemba-walker-1,Kemba Walker,2011
+19,88,19,2011-01-25,Connecticut,@,Marquette,REG (Conf),W 76-68,*,39,5,16,0.313,0,5,0.0,5,11,0.455,0.313,4,5,0.8,0,6,6,9,2,0,2,1,14,12.1,A,1,1,kemba-walker-1,Kemba Walker,2011
+20,89,20,2011-01-29,Connecticut,,Louisville,REG (Conf),L 78-79 (2OT),*,47,7,23,0.304,2,10,0.2,5,13,0.385,0.348,4,6,0.667,2,2,4,4,2,0,1,2,20,10.9,H,0,1,kemba-walker-1,Kemba Walker,2011
+21,90,21,2011-02-02,Connecticut,,Syracuse,REG (Conf),L 58-66,*,38,3,14,0.214,1,6,0.167,2,8,0.25,0.25,1,2,0.5,0,6,6,5,0,0,1,1,8,2.9,H,0,1,kemba-walker-1,Kemba Walker,2011
+22,91,22,2011-02-05,Connecticut,@,Seton Hall,REG (Conf),W 61-59,*,37,7,19,0.368,3,5,0.6,4,14,0.286,0.447,2,7,0.286,1,4,5,3,2,0,0,2,19,11.7,A,1,1,kemba-walker-1,Kemba Walker,2011
+23,92,23,2011-02-10,Connecticut,@,St. John's (NY),REG (Conf),L 72-89,*,36,4,16,0.25,4,7,0.571,0,9,0.0,0.375,3,6,0.5,0,4,4,7,1,0,1,2,15,9.5,A,0,1,kemba-walker-1,Kemba Walker,2011
+24,93,24,2011-02-13,Connecticut,,Providence,REG (Conf),W 75-57,*,40,7,10,0.7,3,4,0.75,4,6,0.667,0.85,5,6,0.833,2,4,6,7,1,0,1,1,22,24.5,H,1,1,kemba-walker-1,Kemba Walker,2011
+25,94,25,2011-02-16,Connecticut,,Georgetown,REG (Conf),W 78-70,*,40,13,23,0.565,1,5,0.2,12,18,0.667,0.587,4,8,0.5,2,5,7,10,2,1,2,1,31,28.7,H,1,1,kemba-walker-1,Kemba Walker,2011
+26,95,26,2011-02-18,Connecticut,@,Louisville,REG (Conf),L 58-71,*,39,3,10,0.3,1,3,0.333,2,7,0.286,0.35,9,11,0.818,0,6,6,3,1,0,3,2,16,10.5,A,0,1,kemba-walker-1,Kemba Walker,2011
+27,96,27,2011-02-24,Connecticut,,Marquette,REG (Conf),L 67-74 (OT),*,43,10,27,0.37,2,6,0.333,8,21,0.381,0.407,5,6,0.833,3,2,5,2,1,0,4,1,27,12.4,H,0,1,kemba-walker-1,Kemba Walker,2011
+28,97,28,2011-02-27,Connecticut,@,Cincinnati,REG (Conf),W 67-59,*,38,5,11,0.455,1,4,0.25,4,7,0.571,0.5,5,6,0.833,1,2,3,4,2,0,3,3,16,11.8,A,1,1,kemba-walker-1,Kemba Walker,2011
+29,98,29,2011-03-02,Connecticut,@,West Virginia,REG (Conf),L 56-65,*,40,8,23,0.348,4,7,0.571,4,16,0.25,0.435,2,2,1.0,2,0,2,2,1,0,1,1,22,11.5,A,0,1,kemba-walker-1,Kemba Walker,2011
+30,99,30,2011-03-05,Connecticut,,Notre Dame,REG (Conf),L 67-70,*,40,11,22,0.5,2,7,0.286,9,15,0.6,0.545,10,10,1.0,2,4,6,1,1,0,1,0,34,26.3,H,0,1,kemba-walker-1,Kemba Walker,2011
+31,100,31,2011-03-08,Connecticut,N,DePaul,CTOURN,W 97-71,*,36,8,15,0.533,0,3,0.0,8,12,0.667,0.533,10,12,0.833,1,6,7,5,1,0,4,1,26,20.5,N,1,0,kemba-walker-1,Kemba Walker,2011
+32,101,32,2011-03-09,Connecticut,N,Georgetown,CTOURN,W 79-62,*,36,10,18,0.556,0,2,0.0,10,16,0.625,0.556,8,10,0.8,3,3,6,3,2,1,2,2,28,23.6,N,1,0,kemba-walker-1,Kemba Walker,2011
+33,102,33,2011-03-10,Connecticut,N,Pittsburgh,CTOURN,W 76-74,*,40,8,22,0.364,0,2,0.0,8,20,0.4,0.364,8,9,0.889,1,4,5,5,2,0,3,2,24,15.0,N,1,0,kemba-walker-1,Kemba Walker,2011
+34,103,34,2011-03-11,Connecticut,N,Syracuse,CTOURN,W 76-71 (OT),*,45,9,18,0.5,2,6,0.333,7,12,0.583,0.556,13,14,0.929,1,11,12,5,6,0,4,1,33,32.7,N,1,0,kemba-walker-1,Kemba Walker,2011
+35,104,35,2011-03-12,Connecticut,N,Louisville,CTOURN,W 69-66,*,33,6,14,0.429,0,3,0.0,6,11,0.545,0.429,7,9,0.778,1,1,2,3,3,0,5,4,19,10.3,N,1,0,kemba-walker-1,Kemba Walker,2011
+36,105,36,2011-03-17,Connecticut,N,Bucknell,ROUND-64,W 81-52,*,35,5,11,0.455,2,5,0.4,3,6,0.5,0.545,6,6,1.0,1,7,8,12,2,0,2,2,18,22.7,N,1,0,kemba-walker-1,Kemba Walker,2011
+37,106,37,2011-03-19,Connecticut,N,Cincinnati,ROUND-32,W 69-58,*,39,8,20,0.4,3,9,0.333,5,11,0.455,0.475,14,14,1.0,1,5,6,5,1,0,2,0,33,26.9,N,1,0,kemba-walker-1,Kemba Walker,2011
+38,107,38,2011-03-24,Connecticut,N,San Diego State,ROUND-16,W 74-67,*,40,12,25,0.48,4,8,0.5,8,17,0.471,0.56,8,10,0.8,0,3,3,3,2,0,4,1,36,23.1,N,1,0,kemba-walker-1,Kemba Walker,2011
+39,108,39,2011-03-26,Connecticut,N,Arizona,ROUND-8,W 65-63,*,40,7,17,0.412,1,7,0.143,6,10,0.6,0.441,5,6,0.833,0,4,4,7,1,0,2,0,20,15.6,N,1,0,kemba-walker-1,Kemba Walker,2011
+40,109,40,2011-04-02,Connecticut,N,Kentucky,NATIONAL-SEMI,W 56-55,*,40,6,15,0.4,1,5,0.2,5,10,0.5,0.433,5,6,0.833,1,5,6,7,2,1,4,1,18,14.9,N,1,0,kemba-walker-1,Kemba Walker,2011
+41,110,41,2011-04-04,Connecticut,N,Butler,NATIONAL-FINAL,W 53-41,*,37,5,19,0.263,0,4,0.0,5,15,0.333,0.263,6,7,0.857,1,8,9,0,1,0,2,2,16,5.6,N,1,0,kemba-walker-1,Kemba Walker,2011

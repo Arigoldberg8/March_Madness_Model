@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2024-11-04,Akron,@,Arkansas State,REG (Non-Conf),L 75-80 (OT),*,31,4,15,0.267,1,4,0.25,3,11,0.273,0.3,2,2,1.0,1,1,2,2,3,0,2,1,11,5.1,A,0,1,nate-johnson-8,Nate Johnson,2025
+2,59,2,2024-11-08,Akron,,Ohio Wesleyan,REG (Non-Conf),W 88-57,*,20,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,2,2,7,4,0,1,2,11,14.7,H,1,1,nate-johnson-8,Nate Johnson,2025
+3,60,3,2024-11-12,Akron,@,St. Mary's (CA),REG (Non-Conf),L 68-87,*,27,3,9,0.333,2,3,0.667,1,6,0.167,0.444,0,0,,0,1,1,2,2,0,4,2,8,1.8,A,0,1,nate-johnson-8,Nate Johnson,2025
+4,61,4,2024-11-22,Akron,,Lamar,REG (Non-Conf),W 79-72,*,23,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,2,1.0,2,1,3,0,0,0,2,5,9,3.7,H,1,1,nate-johnson-8,Nate Johnson,2025
+5,62,5,2024-11-23,Akron,,Omaha,REG (Non-Conf),W 92-84,*,25,7,9,0.778,2,3,0.667,5,6,0.833,0.889,2,4,0.5,0,1,1,5,1,0,0,3,18,17.3,H,1,1,nate-johnson-8,Nate Johnson,2025
+6,63,6,2024-11-24,Akron,,Alabama State,REG (Non-Conf),W 97-78,*,31,7,12,0.583,3,5,0.6,4,7,0.571,0.708,8,8,1.0,1,4,5,3,1,0,2,2,25,21.6,H,1,1,nate-johnson-8,Nate Johnson,2025
+7,64,7,2024-12-03,Akron,,Northern Kentucky,REG (Non-Conf),W 86-73,*,27,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,5,0.6,2,2,4,4,0,0,0,4,5,5.0,H,1,1,nate-johnson-8,Nate Johnson,2025
+8,65,8,2024-12-07,Akron,,Brockport,REG (Non-Conf),W 101-48,*,19,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,1,0.0,1,5,6,4,2,0,2,0,12,13.0,H,1,1,nate-johnson-8,Nate Johnson,2025
+9,66,9,2024-12-15,Akron,N,Milwaukee,REG (Non-Conf),L 81-100,*,35,9,17,0.529,0,1,0.0,9,16,0.563,0.529,1,2,0.5,1,5,6,4,2,1,4,2,19,13.2,N,0,1,nate-johnson-8,Nate Johnson,2025
+10,67,10,2024-12-20,Akron,N,Yale,REG (Non-Conf),L 58-74,*,33,0,8,0.0,0,4,0.0,0,4,0.0,0.0,4,6,0.667,1,2,3,4,2,0,2,5,4,-0.3,N,0,1,nate-johnson-8,Nate Johnson,2025
+11,68,11,2024-12-21,Akron,N,Jackson State,REG (Non-Conf),W 68-50,*,32,1,8,0.125,1,7,0.143,0,1,0.0,0.188,1,2,0.5,1,3,4,6,0,0,3,1,4,0.8,N,1,1,nate-johnson-8,Nate Johnson,2025
+12,69,12,2024-12-30,Akron,@,Princeton,REG (Non-Conf),L 75-76,*,36,6,16,0.375,0,3,0.0,6,13,0.462,0.375,5,5,1.0,0,2,2,1,1,2,2,3,17,8.7,A,0,1,nate-johnson-8,Nate Johnson,2025
+13,70,13,2025-01-03,Akron,@,Bowling Green,REG (Conf),W 71-68,*,28,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,0,3,3,2,2,0,1,2,7,3.7,A,1,1,nate-johnson-8,Nate Johnson,2025
+14,71,14,2025-01-07,Akron,,Central Michigan,REG (Conf),W 87-71,*,32,5,14,0.357,1,6,0.167,4,8,0.5,0.393,2,2,1.0,2,4,6,4,0,0,2,1,13,8.2,H,1,1,nate-johnson-8,Nate Johnson,2025
+15,72,15,2025-01-11,Akron,@,Eastern Michigan,REG (Conf),W 105-81,*,28,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,2,1.0,1,5,6,4,4,1,0,4,12,17.2,A,1,1,nate-johnson-8,Nate Johnson,2025
+16,73,16,2025-01-14,Akron,,Toledo,REG (Conf),W 85-78,*,35,12,23,0.522,1,7,0.143,11,16,0.688,0.543,3,3,1.0,2,7,9,4,4,1,2,3,28,24.5,H,1,1,nate-johnson-8,Nate Johnson,2025
+17,74,17,2025-01-17,Akron,,Ohio,REG (Conf),W 92-80,*,34,6,16,0.375,2,6,0.333,4,10,0.4,0.438,0,1,0.0,1,7,8,4,3,2,1,3,14,12.6,H,1,1,nate-johnson-8,Nate Johnson,2025
+18,75,18,2025-01-21,Akron,@,Buffalo,REG (Conf),W 90-58,*,27,6,12,0.5,2,4,0.5,4,8,0.5,0.583,4,4,1.0,2,7,9,2,1,0,4,1,18,13.5,A,1,1,nate-johnson-8,Nate Johnson,2025
+19,76,19,2025-01-25,Akron,,Miami (OH),REG (Conf),W 102-75,*,25,6,9,0.667,2,2,1.0,4,7,0.571,0.778,0,0,,2,5,7,2,4,0,2,1,14,16.0,H,1,1,nate-johnson-8,Nate Johnson,2025
+20,77,20,2025-01-28,Akron,@,Northern Illinois,REG (Conf),W 80-70,*,36,6,12,0.5,1,4,0.25,5,8,0.625,0.542,6,8,0.75,1,5,6,3,3,2,2,3,19,17.7,A,1,1,nate-johnson-8,Nate Johnson,2025
+21,78,21,2025-01-31,Akron,@,Kent State,REG (Conf),W 85-71,*,36,7,15,0.467,1,3,0.333,6,12,0.5,0.5,5,8,0.625,2,3,5,3,2,0,0,1,20,17.1,A,1,1,nate-johnson-8,Nate Johnson,2025
+22,79,22,2025-02-04,Akron,,Ball State,REG (Conf),W 81-73,*,32,7,14,0.5,0,5,0.0,7,9,0.778,0.5,2,2,1.0,1,0,1,0,0,0,1,2,16,7.9,H,1,1,nate-johnson-8,Nate Johnson,2025
+23,80,23,2025-02-08,Akron,,South Alabama,REG (Non-Conf),W 80-67,*,30,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,6,6,10,3,2,2,1,7,15.1,H,1,1,nate-johnson-8,Nate Johnson,2025
+24,81,24,2025-02-11,Akron,,Western Michigan,REG (Conf),W 105-92,*,34,6,9,0.667,2,3,0.667,4,6,0.667,0.778,8,9,0.889,0,5,5,6,1,3,2,1,22,24.1,H,1,1,nate-johnson-8,Nate Johnson,2025
+25,82,25,2025-02-15,Akron,@,Central Michigan,REG (Conf),W 85-82,*,34,7,13,0.538,1,3,0.333,6,10,0.6,0.577,3,5,0.6,1,6,7,3,3,0,4,4,18,12.9,A,1,1,nate-johnson-8,Nate Johnson,2025
+26,83,26,2025-02-18,Akron,,Northern Illinois,REG (Conf),W 73-63,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,1,7,8,3,4,0,0,1,14,17.4,H,1,1,nate-johnson-8,Nate Johnson,2025
+27,84,27,2025-02-22,Akron,@,Ohio,REG (Conf),L 67-84,*,18,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,1,3,4,0,0,0,2,3,4,-1.1,A,0,1,nate-johnson-8,Nate Johnson,2025
+28,85,28,2025-02-25,Akron,@,Ball State,REG (Conf),W 87-82,*,36,4,11,0.364,1,3,0.333,3,8,0.375,0.409,1,2,0.5,3,6,9,3,1,0,2,1,10,8.1,A,1,1,nate-johnson-8,Nate Johnson,2025
+29,86,29,2025-02-28,Akron,,Kent State,REG (Conf),W 77-72,*,33,4,12,0.333,1,3,0.333,3,9,0.333,0.375,5,7,0.714,2,8,10,4,2,0,3,3,14,10.8,H,1,1,nate-johnson-8,Nate Johnson,2025
+30,87,30,2025-03-04,Akron,@,Toledo,REG (Conf),W 96-87,*,36,2,10,0.2,0,3,0.0,2,7,0.286,0.2,9,10,0.9,0,6,6,3,2,0,2,2,13,9.5,A,1,1,nate-johnson-8,Nate Johnson,2025
+31,88,31,2025-03-07,Akron,,Buffalo,REG (Conf),W 88-70,,23,5,12,0.417,2,4,0.5,3,8,0.375,0.5,2,3,0.667,0,2,2,0,1,1,1,1,14,8.1,H,1,1,nate-johnson-8,Nate Johnson,2025
+32,89,32,2025-03-13,Akron,N,Bowling Green,CTOURN,W 96-67,*,22,1,9,0.111,1,5,0.2,0,4,0.0,0.167,0,0,,1,7,8,5,1,1,1,2,3,3.3,N,1,0,nate-johnson-8,Nate Johnson,2025
+33,90,33,2025-03-14,Akron,N,Toledo,CTOURN,W 100-90,*,36,10,16,0.625,3,4,0.75,7,12,0.583,0.719,8,8,1.0,1,4,5,6,1,2,1,2,31,30.5,N,1,0,nate-johnson-8,Nate Johnson,2025
+34,91,34,2025-03-15,Akron,N,Miami (OH),CTOURN,W 76-74,*,33,8,13,0.615,1,3,0.333,7,10,0.7,0.654,5,6,0.833,1,1,2,5,0,0,3,0,22,17.2,N,1,0,nate-johnson-8,Nate Johnson,2025
+35,92,35,2025-03-21,Akron,N,Arizona,ROUND-64,L 65-93,*,36,1,9,0.111,0,2,0.0,1,7,0.143,0.111,11,12,0.917,0,0,0,2,1,0,1,0,13,8.1,N,0,0,nate-johnson-8,Nate Johnson,2025

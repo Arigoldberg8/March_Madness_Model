@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,1,2013-11-08,Michigan,,UMass Lowell,REG (Non-Conf),W 69-42,*,25,1,5,0.2,1,3,0.333,0,2,0.0,0.3,6,8,0.75,0,1,1,2,0,0,2,2,9,4.0,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+2,41,2,2013-11-12,Michigan,,South Carolina State,REG (Non-Conf),W 93-59,*,28,6,7,0.857,5,6,0.833,1,1,1.0,1.214,6,8,0.75,1,5,6,5,0,0,1,3,23,23.2,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+3,42,3,2013-11-17,Michigan,@,Iowa State,REG (Non-Conf),L 70-77,*,38,8,18,0.444,4,10,0.4,4,8,0.5,0.556,0,1,0.0,1,3,4,6,0,0,1,1,20,14.6,A,0,1,nik-stauskas-1,Nik Stauskas,2014
+4,43,4,2013-11-21,Michigan,N,Long Beach State,REG (Non-Conf),W 85-61,*,36,7,10,0.7,4,6,0.667,3,4,0.75,0.9,6,8,0.75,1,3,4,3,1,0,3,1,24,20.3,N,1,1,nik-stauskas-1,Nik Stauskas,2014
+5,44,5,2013-11-22,Michigan,N,Florida State,REG (Non-Conf),W 82-80 (OT),*,44,7,16,0.438,3,8,0.375,4,8,0.5,0.531,9,12,0.75,2,1,3,2,2,0,1,1,26,20.1,N,1,1,nik-stauskas-1,Nik Stauskas,2014
+6,45,6,2013-11-24,Michigan,N,Charlotte,REG (Non-Conf),L 61-63,*,38,6,13,0.462,1,5,0.2,5,8,0.625,0.5,7,9,0.778,0,5,5,0,3,0,1,1,20,15.6,N,0,1,nik-stauskas-1,Nik Stauskas,2014
+7,46,8,2013-12-03,Michigan,@,Duke,REG (Non-Conf),L 69-79,*,34,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,6,0.667,0,3,3,4,1,0,3,3,4,2.3,A,0,1,nik-stauskas-1,Nik Stauskas,2014
+8,47,9,2013-12-07,Michigan,,Houston Baptist,REG (Non-Conf),W 107-53,*,28,7,11,0.636,6,9,0.667,1,2,0.5,0.909,5,5,1.0,1,1,2,4,0,1,1,0,25,23.6,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+9,48,10,2013-12-14,Michigan,,Arizona,REG (Non-Conf),L 70-72,*,38,4,11,0.364,1,4,0.25,3,7,0.429,0.409,5,5,1.0,1,5,6,2,0,1,1,2,14,10.4,H,0,1,nik-stauskas-1,Nik Stauskas,2014
+10,49,11,2013-12-21,Michigan,N,Stanford,REG (Non-Conf),W 68-65,*,36,4,11,0.364,2,7,0.286,2,4,0.5,0.455,9,9,1.0,0,1,1,4,2,0,2,0,19,16.0,N,1,1,nik-stauskas-1,Nik Stauskas,2014
+11,50,12,2013-12-28,Michigan,,Holy Cross,REG (Non-Conf),W 88-66,*,32,6,11,0.545,2,2,1.0,4,9,0.444,0.636,2,3,0.667,1,5,6,4,0,0,1,1,16,13.9,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+12,51,13,2014-01-02,Michigan,@,Minnesota,REG (Conf),W 63-60,*,36,3,7,0.429,1,4,0.25,2,3,0.667,0.5,7,8,0.875,0,1,1,7,2,0,2,3,14,13.9,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+13,52,14,2014-01-05,Michigan,,Northwestern,REG (Conf),W 74-51,*,34,5,10,0.5,2,5,0.4,3,5,0.6,0.6,6,8,0.75,1,3,4,4,0,0,2,1,18,14.2,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+14,53,15,2014-01-09,Michigan,@,Nebraska,REG (Conf),W 71-70,*,35,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,2,0.0,0,3,3,4,2,0,1,0,12,11.6,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+15,54,16,2014-01-14,Michigan,,Penn State,REG (Conf),W 80-67,*,37,7,12,0.583,3,8,0.375,4,4,1.0,0.708,4,5,0.8,2,4,6,5,0,0,0,0,21,21.1,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+16,55,17,2014-01-18,Michigan,@,Wisconsin,REG (Conf),W 77-70,*,37,7,17,0.412,3,9,0.333,4,8,0.5,0.5,6,6,1.0,0,4,4,4,1,2,2,2,23,17.5,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+17,56,18,2014-01-22,Michigan,,Iowa,REG (Conf),W 75-67,*,37,8,14,0.571,4,9,0.444,4,5,0.8,0.714,6,7,0.857,1,4,5,5,1,1,2,3,26,22.9,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+18,57,19,2014-01-25,Michigan,@,Michigan State,REG (Conf),W 80-75,*,38,7,12,0.583,5,6,0.833,2,6,0.333,0.792,0,0,,0,2,2,4,1,0,1,2,19,16.0,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+19,58,20,2014-01-30,Michigan,,Purdue,REG (Conf),W 75-66,*,35,5,10,0.5,1,3,0.333,4,7,0.571,0.55,5,6,0.833,0,1,1,3,0,3,4,2,16,10.3,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+20,59,21,2014-02-02,Michigan,@,Indiana,REG (Conf),L 52-63,*,35,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,4,1.0,0,3,3,1,0,0,2,1,6,1.4,A,0,1,nik-stauskas-1,Nik Stauskas,2014
+21,60,22,2014-02-05,Michigan,,Nebraska,REG (Conf),W 79-50,*,34,1,3,0.333,1,3,0.333,0,0,,0.5,6,6,1.0,1,4,5,8,1,0,4,0,9,11.8,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+22,61,23,2014-02-08,Michigan,@,Iowa,REG (Conf),L 67-85,*,35,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,3,1.0,0,2,2,0,1,0,4,3,10,3.4,A,0,1,nik-stauskas-1,Nik Stauskas,2014
+23,62,24,2014-02-11,Michigan,@,Ohio State,REG (Conf),W 70-60,*,38,4,9,0.444,3,6,0.5,1,3,0.333,0.611,4,5,0.8,0,3,3,0,0,0,2,1,15,8.4,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+24,63,25,2014-02-16,Michigan,,Wisconsin,REG (Conf),L 62-75,*,32,4,11,0.364,0,2,0.0,4,9,0.444,0.364,3,4,0.75,0,3,3,2,0,0,3,2,11,3.0,H,0,1,nik-stauskas-1,Nik Stauskas,2014
+25,64,26,2014-02-23,Michigan,,Michigan State,REG (Conf),W 79-70,*,37,9,13,0.692,3,5,0.6,6,8,0.75,0.808,4,6,0.667,0,3,3,5,0,0,2,0,25,21.1,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+26,65,27,2014-02-26,Michigan,@,Purdue,REG (Conf),W 77-76 (OT),*,41,5,18,0.278,0,4,0.0,5,14,0.357,0.278,5,7,0.714,1,1,2,3,0,0,2,2,15,3.9,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+27,66,28,2014-03-01,Michigan,,Minnesota,REG (Conf),W 66-56,*,37,7,13,0.538,5,8,0.625,2,5,0.4,0.731,2,2,1.0,0,3,3,4,0,0,2,1,21,16.0,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+28,67,29,2014-03-04,Michigan,@,Illinois,REG (Conf),W 84-53,*,31,8,11,0.727,7,9,0.778,1,2,0.5,1.045,1,2,0.5,0,2,2,2,0,0,0,0,24,21.1,A,1,1,nik-stauskas-1,Nik Stauskas,2014
+29,68,30,2014-03-08,Michigan,,Indiana,REG (Conf),W 84-80,*,35,6,13,0.462,1,4,0.25,5,9,0.556,0.5,8,9,0.889,0,2,2,2,0,1,1,1,21,15.2,H,1,1,nik-stauskas-1,Nik Stauskas,2014
+30,69,31,2014-03-14,Michigan,N,Illinois,CTOURN,W 64-63,*,38,4,12,0.333,2,10,0.2,2,2,1.0,0.417,9,10,0.9,0,2,2,3,0,1,2,2,19,12.4,N,1,0,nik-stauskas-1,Nik Stauskas,2014
+31,70,32,2014-03-15,Michigan,N,Ohio State,CTOURN,W 72-69,*,34,6,12,0.5,4,8,0.5,2,4,0.5,0.667,2,3,0.667,0,1,1,1,1,0,2,0,18,11.6,N,1,0,nik-stauskas-1,Nik Stauskas,2014
+32,71,33,2014-03-16,Michigan,N,Michigan State,CTOURN,L 55-69,*,39,4,14,0.286,3,5,0.6,1,9,0.111,0.393,6,6,1.0,1,1,2,1,0,0,3,1,17,7.1,N,0,0,nik-stauskas-1,Nik Stauskas,2014
+33,72,34,2014-03-20,Michigan,N,Wofford,ROUND-64,W 57-40,*,35,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,2,2,1,1,0,3,3,15,8.8,N,1,0,nik-stauskas-1,Nik Stauskas,2014
+34,73,35,2014-03-22,Michigan,N,Texas,ROUND-32,W 79-65,*,38,4,12,0.333,4,9,0.444,0,3,0.0,0.5,5,6,0.833,0,2,2,8,0,1,0,1,17,16.3,N,1,0,nik-stauskas-1,Nik Stauskas,2014
+35,74,36,2014-03-28,Michigan,N,Tennessee,ROUND-16,W 73-71,*,37,5,12,0.417,3,8,0.375,2,4,0.5,0.542,1,2,0.5,0,0,0,2,0,0,1,1,14,7.2,N,1,0,nik-stauskas-1,Nik Stauskas,2014
+36,75,37,2014-03-30,Michigan,N,Kentucky,ROUND-8,L 72-75,*,39,6,14,0.429,2,7,0.286,4,7,0.571,0.5,10,11,0.909,0,1,1,3,0,0,3,0,24,15.6,N,0,0,nik-stauskas-1,Nik Stauskas,2014

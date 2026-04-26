@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2011-11-11,Belmont,@,Duke,REG (Non-Conf),L 76-77,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,5,6,0.833,1,6,7,1,0,1,1,2,11,9.7,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+2,101,2,2011-11-15,Belmont,@,Memphis,REG (Non-Conf),L 81-97,,23,3,7,0.429,0,0,,3,7,0.429,0.429,4,6,0.667,2,6,8,0,1,0,3,5,10,4.7,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+3,102,3,2011-11-19,Belmont,N,Towson,REG (Non-Conf),W 87-41,*,18,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,6,0.333,3,4,7,0,2,0,1,2,8,6.9,N,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+4,103,4,2011-11-20,Belmont,@,Middle Tennessee,REG (Non-Conf),W 87-84 (2OT),*,23,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,2,0.0,3,2,5,0,0,0,0,5,6,4.3,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+5,104,5,2011-11-28,Belmont,,Trevecca-Naz,REG (Non-Conf),W 86-61,*,21,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,3,6,9,1,0,2,3,3,15,12.9,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+6,105,6,2011-12-01,Belmont,,Kennesaw State,REG (Conf),W 98-52,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,0,2,0.0,6,6,12,0,0,0,0,1,8,9.5,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+7,106,7,2011-12-03,Belmont,,Mercer,REG (Conf),W 82-78,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,4,0.75,3,6,9,2,0,0,1,4,5,4.9,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+8,107,8,2011-12-06,Belmont,,Tennessee State,REG (Non-Conf),W 75-62,*,25,4,10,0.4,0,0,,4,10,0.4,0.4,5,7,0.714,2,4,6,1,0,0,1,2,13,8.3,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+9,108,9,2011-12-13,Belmont,@,Middle Tennessee,REG (Non-Conf),L 62-65,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,4,5,1,2,0,3,4,2,1.7,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+10,109,10,2011-12-15,Belmont,,Troy,REG (Non-Conf),W 78-55,,21,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,3,4,7,3,0,1,2,1,8,9.1,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+11,110,11,2011-12-17,Belmont,@,Miami (OH),REG (Non-Conf),L 61-66,*,21,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,1,2,0,0,0,1,4,4,-1.0,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+12,111,12,2011-12-19,Belmont,@,Marshall,REG (Non-Conf),L 86-87,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,2,6,0.333,1,5,6,0,0,0,1,2,10,6.2,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+13,112,13,2011-12-21,Belmont,@,Austin Peay,REG (Non-Conf),W 77-67,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,1,1,2,0,0,0,3,4,7,1.1,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+14,113,14,2011-12-29,Belmont,,Marshall,REG (Non-Conf),W 79-74,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,4,6,0.667,3,4,7,1,1,0,4,3,8,2.9,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+15,114,15,2012-01-02,Belmont,@,North Florida,REG (Conf),W 83-53,*,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,5,0.6,2,1,3,1,1,1,0,1,13,13.0,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+16,115,16,2012-01-04,Belmont,@,Jacksonville,REG (Conf),W 75-63,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,7,8,0.875,4,3,7,0,0,0,1,4,13,10.0,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+17,116,17,2012-01-06,Belmont,,Lipscomb,REG (Conf),L 74-85,*,30,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,3,1,4,0,0,0,2,5,4,0.7,H,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+18,117,18,2012-01-14,Belmont,,Stetson,REG (Conf),W 84-71,*,26,11,12,0.917,0,0,,11,12,0.917,0.917,2,2,1.0,4,3,7,0,0,1,1,1,24,23.0,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+19,118,19,2012-01-16,Belmont,,Florida Gulf Coast,REG (Conf),W 95-53,*,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,1,0,1,0,0,1,2,2,6,1.9,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+20,119,20,2012-01-21,Belmont,@,USC Upstate,REG (Conf),L 78-79,*,29,7,8,0.875,0,0,,7,8,0.875,0.875,2,2,1.0,2,5,7,1,1,0,2,2,16,15.0,A,0,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+21,120,21,2012-01-23,Belmont,@,East Tennessee State,REG (Conf),W 82-70,*,25,7,10,0.7,0,0,,7,10,0.7,0.7,3,6,0.5,4,3,7,0,1,0,1,5,17,13.3,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+22,121,22,2012-01-28,Belmont,,Jacksonville,REG (Conf),W 85-71,*,26,3,10,0.3,0,0,,3,10,0.3,0.3,0,6,0.0,0,5,5,0,1,0,1,2,6,-1.5,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+23,122,23,2012-01-30,Belmont,,North Florida,REG (Conf),W 83-69,*,28,6,11,0.545,0,0,,6,11,0.545,0.545,2,2,1.0,1,6,7,1,2,0,1,4,14,11.3,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+24,123,24,2012-02-03,Belmont,@,Lipscomb,REG (Conf),W 84-58,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,2,2,0,0,1,1,3,3,1.0,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+25,124,25,2012-02-06,Belmont,,Austin Peay,REG (Non-Conf),W 94-55,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,7,8,0.875,2,5,7,0,2,0,2,2,13,11.7,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+26,125,26,2012-02-11,Belmont,@,Florida Gulf Coast,REG (Conf),W 86-63,*,23,4,9,0.444,0,0,,4,9,0.444,0.444,3,4,0.75,0,4,4,0,1,1,0,2,11,8.0,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+27,126,27,2012-02-13,Belmont,@,Stetson,REG (Conf),W 106-93,*,23,7,12,0.583,0,0,,7,12,0.583,0.583,3,4,0.75,3,2,5,0,0,0,1,2,17,11.9,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+28,127,28,2012-02-18,Belmont,,East Tennessee State,REG (Conf),W 80-58,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,2,4,1,0,0,0,3,2,3.2,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+29,128,29,2012-02-20,Belmont,,USC Upstate,REG (Conf),W 88-79,*,24,4,10,0.4,0,0,,4,10,0.4,0.4,3,4,0.75,2,5,7,0,1,1,2,4,11,6.2,H,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+30,129,30,2012-02-23,Belmont,@,Kennesaw State,REG (Conf),W 90-50,*,17,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,0,3,3,1,0,1,2,2,12,8.3,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+31,130,31,2012-02-25,Belmont,@,Mercer,REG (Conf),W 62-61,*,28,2,9,0.222,0,0,,2,9,0.222,0.222,2,5,0.4,2,3,5,0,0,1,1,1,6,0.9,A,1,1,mick-hedgepeth-1,Mick Hedgepeth,2012
+32,131,32,2012-02-29,Belmont,N,Jacksonville,CTOURN,W 76-62,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,5,6,0.833,4,0,4,0,1,3,1,4,13,12.6,N,1,0,mick-hedgepeth-1,Mick Hedgepeth,2012
+33,132,33,2012-03-02,Belmont,N,East Tennessee State,CTOURN,W 69-61,*,27,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,2,3,5,0,2,2,0,3,4,7.1,N,1,0,mick-hedgepeth-1,Mick Hedgepeth,2012
+34,133,34,2012-03-03,Belmont,N,Florida Gulf Coast,CTOURN,W 83-69,*,26,3,10,0.3,0,0,,3,10,0.3,0.3,8,10,0.8,4,6,10,1,0,0,1,0,14,11.7,N,1,0,mick-hedgepeth-1,Mick Hedgepeth,2012
+35,134,35,2012-03-16,Belmont,N,Georgetown,ROUND-64,L 59-74,*,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,0,3,2,0.1,N,0,0,mick-hedgepeth-1,Mick Hedgepeth,2012

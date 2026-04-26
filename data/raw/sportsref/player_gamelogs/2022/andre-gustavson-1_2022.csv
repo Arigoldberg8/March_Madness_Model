@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,81,10,2021-12-11,Richmond,,Toledo,REG (Non-Conf),W 72-69,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+2,82,11,2021-12-17,Richmond,N,NC State,REG (Non-Conf),W 83-74,,6,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,1,1,2,-0.1,N,1,1,andre-gustavson-1,Andre Gustavson,2022
+3,83,12,2021-12-19,Richmond,,Old Dominion,REG (Non-Conf),W 67-61,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+4,84,13,2021-12-22,Richmond,,Bucknell,REG (Non-Conf),W 81-50,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,1,2,2.6,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+5,85,14,2021-12-30,Richmond,,Saint Joseph's,REG (Conf),L 56-83,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,0,2,1.3,H,0,1,andre-gustavson-1,Andre Gustavson,2022
+6,86,15,2022-01-02,Richmond,@,Saint Louis,REG (Conf),L 69-76,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,andre-gustavson-1,Andre Gustavson,2022
+7,87,16,2022-01-05,Richmond,,Massachusetts,REG (Conf),W 80-72,,15,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,2,2,1,2,0,1,0,6,7.0,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+8,88,17,2022-01-14,Richmond,,Davidson,REG (Conf),L 84-87,,30,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,0,1,1,1,2,1,0,3,5,5.1,H,0,1,andre-gustavson-1,Andre Gustavson,2022
+9,89,18,2022-01-18,Richmond,@,Fordham,REG (Conf),W 83-70,*,29,2,2,1.0,0,0,,2,2,1.0,1.0,7,8,0.875,1,6,7,1,2,1,2,2,11,13.1,A,1,1,andre-gustavson-1,Andre Gustavson,2022
+10,90,19,2022-01-22,Richmond,@,La Salle,REG (Conf),W 64-56,*,33,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,5,5,1,5,1,3,2,8,9.8,A,1,1,andre-gustavson-1,Andre Gustavson,2022
+11,91,20,2022-01-25,Richmond,@,Rhode Island,REG (Conf),W 70-63,*,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,2,1,3,1,1,0,0,3,2,0.4,A,1,1,andre-gustavson-1,Andre Gustavson,2022
+12,92,21,2022-01-29,Richmond,,VCU,REG (Conf),L 62-64,*,29,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,3,6,9,0,1,0,2,3,4,0.9,H,0,1,andre-gustavson-1,Andre Gustavson,2022
+13,93,22,2022-02-01,Richmond,@,Duquesne,REG (Conf),W 74-57,*,28,3,6,0.5,3,4,0.75,0,2,0.0,0.75,0,0,,0,0,0,1,0,0,1,1,9,5.3,A,1,1,andre-gustavson-1,Andre Gustavson,2022
+14,94,23,2022-02-04,Richmond,,St. Bonaventure,REG (Conf),W 71-61,*,34,2,6,0.333,1,5,0.2,1,1,1.0,0.417,4,4,1.0,0,3,3,0,3,0,0,1,9,9.1,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+15,95,24,2022-02-07,Richmond,,George Mason,REG (Conf),W 62-59,*,34,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,1,0.0,0,1,1,1,4,0,2,1,7,4.8,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+16,96,25,2022-02-09,Richmond,@,George Mason,REG (Conf),L 84-87 (OT),*,33,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,1,2,3,2,1,1,1,0,9,10.8,A,0,1,andre-gustavson-1,Andre Gustavson,2022
+17,97,26,2022-02-12,Richmond,,La Salle,REG (Conf),W 77-63,*,33,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,5,0.6,2,1,3,6,0,0,1,2,6,7.6,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+18,98,27,2022-02-18,Richmond,@,VCU,REG (Conf),L 57-77,*,37,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,2,0.0,0,1,1,3,0,0,0,4,10,6.0,A,0,1,andre-gustavson-1,Andre Gustavson,2022
+19,99,28,2022-02-22,Richmond,@,George Washington,REG (Conf),W 84-71,*,34,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,1,1,0,1,3,2,0.4,A,1,1,andre-gustavson-1,Andre Gustavson,2022
+20,100,29,2022-02-25,Richmond,,Saint Louis,REG (Conf),W 68-66,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,1,1,1,2,0,0,2,2,1.1,H,1,1,andre-gustavson-1,Andre Gustavson,2022
+21,101,30,2022-03-01,Richmond,,Dayton,REG (Conf),L 53-55,*,39,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,4,5,2,0,0,1,0,2,1.9,H,0,1,andre-gustavson-1,Andre Gustavson,2022
+22,102,31,2022-03-04,Richmond,@,St. Bonaventure,REG (Conf),L 65-72,*,24,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,0,0,1,2,0,-2.9,A,0,1,andre-gustavson-1,Andre Gustavson,2022
+23,103,32,2022-03-10,Richmond,N,Rhode Island,CTOURN,W 64-59,*,29,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,2,2,1,1,0,0,3,8,5.7,N,1,0,andre-gustavson-1,Andre Gustavson,2022
+24,104,33,2022-03-11,Richmond,N,VCU,CTOURN,W 75-64,*,32,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,5,0.6,0,3,3,1,2,0,1,3,10,9.0,N,1,0,andre-gustavson-1,Andre Gustavson,2022
+25,105,34,2022-03-12,Richmond,N,Dayton,CTOURN,W 68-64,*,33,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,4,0.5,1,3,4,3,2,1,1,4,2,3.6,N,1,0,andre-gustavson-1,Andre Gustavson,2022
+26,106,35,2022-03-13,Richmond,N,Davidson,CTOURN,W 64-62,*,28,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,1,0,1,4,0,-2.3,N,1,0,andre-gustavson-1,Andre Gustavson,2022
+27,107,36,2022-03-17,Richmond,N,Iowa,ROUND-64,W 67-63,*,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,3,5,1,0,0,0,3,2,1.4,N,1,0,andre-gustavson-1,Andre Gustavson,2022
+28,108,37,2022-03-19,Richmond,N,Providence,ROUND-32,L 51-79,*,30,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,1,2,0,0,0,0,0,5,4.3,N,0,0,andre-gustavson-1,Andre Gustavson,2022

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Liberty,N,Valparaiso,REG (Non-Conf),W 83-63,*,28,8,9,0.889,0,0,,8,9,0.889,0.889,0,0,,3,8,11,3,0,5,1,3,16,20.8,N,1,1,owen-aquino-1,Owen Aquino,2025
+2,2,2,2024-11-09,Liberty,@,Seattle,REG (Non-Conf),W 66-64,*,28,4,10,0.4,0,2,0.0,4,8,0.5,0.4,3,6,0.5,3,6,9,2,4,0,2,4,11,10.1,A,1,1,owen-aquino-1,Owen Aquino,2025
+3,3,3,2024-11-12,Liberty,,Carolina,REG (Non-Conf),W 81-45,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,2,2,0,0,0,2,4.7,H,1,1,owen-aquino-1,Owen Aquino,2025
+4,4,4,2024-11-16,Liberty,N,Florida Atlantic,REG (Non-Conf),L 74-77 (OT),*,35,6,8,0.75,0,0,,6,8,0.75,0.75,2,5,0.4,2,6,8,1,3,1,0,4,14,15.6,N,0,1,owen-aquino-1,Owen Aquino,2025
+5,5,5,2024-11-17,Liberty,@,College of Charleston,REG (Non-Conf),W 68-47,*,22,4,9,0.444,0,0,,4,9,0.444,0.444,1,1,1.0,0,4,4,1,0,4,1,3,9,6.8,A,1,1,owen-aquino-1,Owen Aquino,2025
+6,6,6,2024-11-22,Liberty,N,Louisiana,REG (Non-Conf),W 89-69,*,17,5,7,0.714,0,0,,5,7,0.714,0.714,2,5,0.4,2,1,3,3,0,0,1,0,12,10.7,N,1,1,owen-aquino-1,Owen Aquino,2025
+7,7,7,2024-11-24,Liberty,N,Kansas State,REG (Non-Conf),W 67-65,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,6,8,0.75,3,1,4,0,1,0,3,4,8,4.3,N,1,1,owen-aquino-1,Owen Aquino,2025
+8,8,8,2024-11-25,Liberty,N,McNeese State,REG (Non-Conf),W 62-58,*,34,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,5,6,4,2,1,3,2,8,10.7,N,1,1,owen-aquino-1,Owen Aquino,2025
+9,9,9,2024-11-29,Liberty,,Central Penn,REG (Non-Conf),W 93-36,*,16,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,3,4,3,0,0,0,0,6,7.4,H,1,1,owen-aquino-1,Owen Aquino,2025
+10,10,10,2024-12-07,Liberty,,Mississippi Valley State,REG (Non-Conf),W 89-52,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,6,8,4,0,2,1,0,7,11.0,H,1,1,owen-aquino-1,Owen Aquino,2025
+11,11,11,2024-12-14,Liberty,,North Carolina A&T,REG (Non-Conf),W 83-74,*,26,12,20,0.6,2,3,0.667,10,17,0.588,0.65,2,2,1.0,4,6,10,0,0,0,0,1,28,23.0,H,1,1,owen-aquino-1,Owen Aquino,2025
+12,12,12,2024-12-17,Liberty,,St. Andrews,REG (Non-Conf),W 124-50,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,4,2,6,2,3,1,0,0,4,11.9,H,1,1,owen-aquino-1,Owen Aquino,2025
+13,13,13,2024-12-21,Liberty,,UT Arlington,REG (Non-Conf),W 79-56,*,27,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,3,4,4,1,5,0,4,4,10.0,H,1,1,owen-aquino-1,Owen Aquino,2025
+14,14,14,2025-01-02,Liberty,,Western Kentucky,REG (Conf),L 70-71,*,34,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,5,0.4,3,7,10,6,1,0,1,3,12,14.4,H,0,1,owen-aquino-1,Owen Aquino,2025
+15,15,15,2025-01-04,Liberty,,Middle Tennessee,REG (Conf),W 73-63,*,35,4,10,0.4,0,1,0.0,4,9,0.444,0.4,1,2,0.5,6,7,13,1,0,2,2,1,9,9.2,H,1,1,owen-aquino-1,Owen Aquino,2025
+16,16,16,2025-01-09,Liberty,@,Sam Houston State,REG (Conf),W 76-68,*,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,6,0.333,1,11,12,2,0,0,3,4,10,5.9,A,1,1,owen-aquino-1,Owen Aquino,2025
+17,17,17,2025-01-11,Liberty,@,Louisiana Tech,REG (Conf),L 74-79,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,0,4,4,2,1,0,1,5,6,3.2,A,0,1,owen-aquino-1,Owen Aquino,2025
+18,18,18,2025-01-16,Liberty,,UTEP,REG (Conf),L 70-72,*,24,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,3,0.333,1,6,7,5,1,1,4,3,9,8.1,H,0,1,owen-aquino-1,Owen Aquino,2025
+19,19,19,2025-01-18,Liberty,,New Mexico State,REG (Conf),W 68-60,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,5,8,0.625,2,2,4,0,1,2,1,2,11,9.4,H,1,1,owen-aquino-1,Owen Aquino,2025
+20,20,20,2025-01-25,Liberty,@,Florida International,REG (Conf),W 82-59,*,22,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,0,4,4,2,0,0,2,3,9,6.8,A,1,1,owen-aquino-1,Owen Aquino,2025
+21,21,21,2025-01-30,Liberty,@,Kennesaw State,REG (Conf),W 76-68,*,17,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,1,2,1,0,0,1,3,6,4.6,A,1,1,owen-aquino-1,Owen Aquino,2025
+22,22,22,2025-02-01,Liberty,@,Jacksonville State,REG (Conf),L 61-72,*,26,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,2,3,3,0,0,0,3,9,8.6,A,0,1,owen-aquino-1,Owen Aquino,2025
+23,23,23,2025-02-06,Liberty,,Louisiana Tech,REG (Conf),W 77-53,*,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,2,0.0,0,2,2,1,0,0,0,2,2,-2.1,H,1,1,owen-aquino-1,Owen Aquino,2025
+24,24,24,2025-02-08,Liberty,,Sam Houston State,REG (Conf),W 64-61,*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,0,4,4,1,0,3,3,3,6,2.4,H,1,1,owen-aquino-1,Owen Aquino,2025
+25,25,25,2025-02-13,Liberty,@,New Mexico State,REG (Conf),W 64-54,*,27,2,2,1.0,1,1,1.0,1,1,1.0,1.25,6,6,1.0,0,3,3,3,0,0,2,3,11,10.2,A,1,1,owen-aquino-1,Owen Aquino,2025
+26,26,26,2025-02-15,Liberty,@,UTEP,REG (Conf),W 76-69,*,27,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,3,0.667,4,6,10,2,0,1,5,1,13,11.0,A,1,1,owen-aquino-1,Owen Aquino,2025
+27,27,27,2025-02-22,Liberty,,Florida International,REG (Conf),W 58-45,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,3,1,0,3,0,2,1.4,H,1,1,owen-aquino-1,Owen Aquino,2025
+28,28,28,2025-02-27,Liberty,,Jacksonville State,REG (Conf),W 59-55,*,28,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,3,3,6,1,1,2,1,2,8,9.0,H,1,1,owen-aquino-1,Owen Aquino,2025
+29,29,29,2025-03-02,Liberty,,Kennesaw State,REG (Conf),L 80-85,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,8,10,0.8,0,6,6,1,0,0,3,3,16,10.2,H,0,1,owen-aquino-1,Owen Aquino,2025
+30,30,30,2025-03-06,Liberty,@,Middle Tennessee,REG (Conf),W 86-81,*,32,5,9,0.556,0,3,0.0,5,6,0.833,0.556,2,2,1.0,1,6,7,1,0,2,2,4,12,8.7,A,1,1,owen-aquino-1,Owen Aquino,2025
+31,31,31,2025-03-08,Liberty,@,Western Kentucky,REG (Conf),W 90-61,*,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,2,1,1,0,3,0,1.8,A,1,1,owen-aquino-1,Owen Aquino,2025
+32,32,32,2025-03-12,Liberty,N,UTEP,CTOURN,W 81-60,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,2,4,6,0,2,1,3,6,9.8,N,1,0,owen-aquino-1,Owen Aquino,2025
+33,33,33,2025-03-14,Liberty,N,Kennesaw State,CTOURN,W 81-79,*,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,0,3,3,0,2,2,2,4,7,5.3,N,1,0,owen-aquino-1,Owen Aquino,2025
+34,34,34,2025-03-15,Liberty,N,Jacksonville State,CTOURN,W 79-67,*,27,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,4,4,0,0,1,1,4,6,4.0,N,1,0,owen-aquino-1,Owen Aquino,2025
+35,35,35,2025-03-21,Liberty,N,Oregon,ROUND-64,L 52-81,*,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,2,3,1,2,1,1,2,3,3.8,N,0,0,owen-aquino-1,Owen Aquino,2025

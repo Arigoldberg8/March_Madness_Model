@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2021-11-09,New Mexico State,,UC Irvine,REG (Non-Conf),W 62-51,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,yuat-alok-1,Yuat Alok,2022
+2,23,2,2021-11-13,New Mexico State,,UTEP,REG (Non-Conf),W 77-71,,15,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,0,,1,3,4,1,0,1,1,1,13,11.4,H,1,1,yuat-alok-1,Yuat Alok,2022
+3,24,3,2021-11-18,New Mexico State,N,Davidson,REG (Non-Conf),W 75-64,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,0,2,0,-1.2,N,1,1,yuat-alok-1,Yuat Alok,2022
+4,25,4,2021-11-19,New Mexico State,N,Utah State,REG (Non-Conf),L 58-85,,22,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,4,1,1,0,1,5,6.6,N,0,1,yuat-alok-1,Yuat Alok,2022
+5,26,5,2021-11-21,New Mexico State,N,Indiana State,REG (Non-Conf),W 80-66,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,0,1,0,2,2,1.6,N,1,1,yuat-alok-1,Yuat Alok,2022
+6,27,7,2021-11-30,New Mexico State,,New Mexico,REG (Non-Conf),L 94-101,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,H,0,1,yuat-alok-1,Yuat Alok,2022
+7,28,8,2021-12-03,New Mexico State,@,UTEP,REG (Non-Conf),W 72-69,,6,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,0,0,0,0,1,2,0.6,A,1,1,yuat-alok-1,Yuat Alok,2022
+8,29,9,2021-12-06,New Mexico State,@,New Mexico,REG (Non-Conf),W 78-76 (OT),,18,9,13,0.692,0,1,0.0,9,12,0.75,0.692,1,2,0.5,2,2,4,0,0,1,0,3,19,14.6,A,1,1,yuat-alok-1,Yuat Alok,2022
+9,30,10,2021-12-11,New Mexico State,@,Loyola Marymount,REG (Non-Conf),W 63-58,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,1,0,1,1,1,4,3.0,A,1,1,yuat-alok-1,Yuat Alok,2022
+10,31,11,2021-12-15,New Mexico State,@,Washington State,REG (Non-Conf),W 64-61,,6,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,0,1,0,0,0,1,3,4,1.2,A,1,1,yuat-alok-1,Yuat Alok,2022
+11,32,12,2021-12-18,New Mexico State,,N New Mexico,REG (Non-Conf),W 93-60,,21,6,8,0.75,1,1,1.0,5,7,0.714,0.813,3,4,0.75,4,1,5,1,0,0,1,1,16,14.8,H,1,1,yuat-alok-1,Yuat Alok,2022
+12,33,13,2021-12-20,New Mexico State,,Tx Permian Basin,REG (Non-Conf),W 84-59,,24,6,9,0.667,1,1,1.0,5,8,0.625,0.722,1,1,1.0,1,6,7,0,1,2,2,3,14,11.8,H,1,1,yuat-alok-1,Yuat Alok,2022
+13,34,16,2022-01-08,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 85-73,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,A,1,1,yuat-alok-1,Yuat Alok,2022
+14,35,18,2022-01-15,New Mexico State,,Abilene Christian,REG (Conf),W 77-63,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,yuat-alok-1,Yuat Alok,2022
+15,36,19,2022-01-20,New Mexico State,@,Sam Houston State,REG (Conf),L 46-71,,16,1,5,0.2,1,1,1.0,0,4,0.0,0.3,3,5,0.6,2,0,2,1,0,0,0,1,6,3.8,A,0,1,yuat-alok-1,Yuat Alok,2022
+16,37,20,2022-01-22,New Mexico State,@,Stephen F. Austin,REG (Conf),W 72-58,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,0,2,0,0,1,0,1,2,2.7,A,1,1,yuat-alok-1,Yuat Alok,2022
+17,38,21,2022-01-29,New Mexico State,,Grand Canyon,REG (Conf),W 71-61,,12,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,0,3,0,0,1,2,0,4,2.1,H,1,1,yuat-alok-1,Yuat Alok,2022
+18,39,22,2022-02-03,New Mexico State,,California Baptist,REG (Conf),W 68-57,*,11,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,1,2,3,0,0,0,1,3,10,6.2,H,1,1,yuat-alok-1,Yuat Alok,2022
+19,40,23,2022-02-05,New Mexico State,,Seattle,REG (Conf),W 79-64,*,18,5,10,0.5,1,1,1.0,4,9,0.444,0.55,0,0,,1,2,3,0,0,1,1,4,11,5.4,H,1,1,yuat-alok-1,Yuat Alok,2022
+20,41,24,2022-02-10,New Mexico State,@,Dixie State,REG (Conf),W 77-69,*,19,3,9,0.333,0,0,,3,9,0.333,0.333,0,0,,0,3,3,0,0,1,1,1,6,1.1,A,1,1,yuat-alok-1,Yuat Alok,2022
+21,42,25,2022-02-12,New Mexico State,@,Utah Valley,REG (Conf),L 68-72,*,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-3.3,A,0,1,yuat-alok-1,Yuat Alok,2022
+22,43,26,2022-02-16,New Mexico State,,Dixie State,REG (Conf),W 75-64,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,0,1,1,2,2,-0.5,H,1,1,yuat-alok-1,Yuat Alok,2022
+23,44,27,2022-02-19,New Mexico State,@,Grand Canyon,REG (Conf),W 82-66,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,2,2,-0.9,A,1,1,yuat-alok-1,Yuat Alok,2022
+24,45,28,2022-02-21,New Mexico State,@,Seattle,REG (Conf),W 68-55,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,A,1,1,yuat-alok-1,Yuat Alok,2022
+25,46,30,2022-03-02,New Mexico State,,Stephen F. Austin,REG (Conf),L 71-73,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,yuat-alok-1,Yuat Alok,2022
+26,47,31,2022-03-05,New Mexico State,,Utah Valley,REG (Conf),W 62-46,,8,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,0,0,2,0,0,2,0,7,4.8,H,1,1,yuat-alok-1,Yuat Alok,2022
+27,48,32,2022-03-11,New Mexico State,N,Grand Canyon,CTOURN,W 75-70,*,9,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,0,0,0,0,0,0,2,6,2.2,N,1,0,yuat-alok-1,Yuat Alok,2022
+28,49,33,2022-03-12,New Mexico State,N,Abilene Christian,CTOURN,W 66-52,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,1,0,0,1,1,2,0.6,N,1,0,yuat-alok-1,Yuat Alok,2022
+29,50,34,2022-03-17,New Mexico State,N,Connecticut,ROUND-64,W 70-63,,4,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,N,1,0,yuat-alok-1,Yuat Alok,2022
+30,51,35,2022-03-19,New Mexico State,N,Arkansas,ROUND-32,L 48-53,,6,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,0.2,N,0,0,yuat-alok-1,Yuat Alok,2022

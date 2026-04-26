@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2016-11-11,New Mexico State,,Arizona Christian,REG (Non-Conf),W 100-52,*,9,2,10,0.2,1,4,0.25,1,6,0.167,0.25,7,8,0.875,2,4,6,2,1,0,2,2,12,7.6,H,1,1,ian-baker-1,Ian Baker,2017
+2,89,2,2016-11-13,New Mexico State,@,Colorado State,REG (Non-Conf),L 61-64,*,35,6,19,0.316,1,9,0.111,5,10,0.5,0.342,3,3,1.0,0,2,2,2,2,0,5,3,16,2.9,A,0,1,ian-baker-1,Ian Baker,2017
+3,90,3,2016-11-16,New Mexico State,,Samford,REG (Non-Conf),W 58-48,*,33,3,12,0.25,1,8,0.125,2,4,0.5,0.292,2,2,1.0,1,4,5,3,3,0,1,1,9,7.4,H,1,1,ian-baker-1,Ian Baker,2017
+4,91,4,2016-11-18,New Mexico State,@,New Mexico,REG (Non-Conf),L 59-72,*,33,8,17,0.471,4,8,0.5,4,9,0.444,0.588,5,8,0.625,0,1,1,1,3,0,3,2,25,15.3,A,0,1,ian-baker-1,Ian Baker,2017
+5,92,5,2016-11-20,New Mexico State,,Bethune-Cookman,REG (Non-Conf),W 89-73,*,4,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,2,3,1.5,H,1,1,ian-baker-1,Ian Baker,2017
+6,93,7,2016-11-26,New Mexico State,@,San Diego,REG (Non-Conf),W 56-51,*,29,3,9,0.333,2,6,0.333,1,3,0.333,0.444,7,8,0.875,0,5,5,0,1,0,1,0,15,11.0,A,1,1,ian-baker-1,Ian Baker,2017
+7,94,8,2016-11-30,New Mexico State,,Air Force,REG (Non-Conf),W 78-70,*,33,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,4,4,7,2,1,2,2,5,4.8,H,1,1,ian-baker-1,Ian Baker,2017
+8,95,9,2016-12-03,New Mexico State,,Long Beach State,REG (Non-Conf),W 93-85,*,28,3,8,0.375,0,1,0.0,3,7,0.429,0.375,9,9,1.0,0,3,3,2,0,0,1,3,15,10.7,H,1,1,ian-baker-1,Ian Baker,2017
+9,96,10,2016-12-10,New Mexico State,,New Mexico,REG (Non-Conf),W 84-71,*,34,8,16,0.5,4,10,0.4,4,6,0.667,0.625,6,7,0.857,0,3,3,3,4,0,2,1,26,22.2,H,1,1,ian-baker-1,Ian Baker,2017
+10,97,11,2016-12-13,New Mexico State,@,UTEP,REG (Non-Conf),W 79-68,*,36,7,13,0.538,3,7,0.429,4,6,0.667,0.654,3,4,0.75,0,5,5,1,2,0,5,1,20,12.1,A,1,1,ian-baker-1,Ian Baker,2017
+11,98,12,2016-12-17,New Mexico State,@,Arizona State,REG (Non-Conf),W 81-70,*,37,6,15,0.4,1,7,0.143,5,8,0.625,0.433,6,9,0.667,1,7,8,7,1,0,4,1,19,14.0,A,1,1,ian-baker-1,Ian Baker,2017
+12,99,13,2016-12-19,New Mexico State,,UC Irvine,REG (Non-Conf),W 85-79 (OT),*,39,3,17,0.176,0,7,0.0,3,10,0.3,0.176,2,2,1.0,2,3,5,8,1,0,1,3,8,4.0,H,1,1,ian-baker-1,Ian Baker,2017
+13,100,14,2016-12-27,New Mexico State,,Eastern N.M.,REG (Non-Conf),W 84-50,*,27,5,9,0.556,4,5,0.8,1,4,0.25,0.778,4,5,0.8,1,4,5,3,2,1,4,1,18,15.6,H,1,1,ian-baker-1,Ian Baker,2017
+14,101,15,2016-12-30,New Mexico State,,UTEP,REG (Non-Conf),W 79-70,*,36,8,14,0.571,6,10,0.6,2,4,0.5,0.786,2,2,1.0,0,2,2,4,0,0,2,0,24,18.8,H,1,1,ian-baker-1,Ian Baker,2017
+15,102,16,2017-01-05,New Mexico State,@,Kansas City,REG (Conf),W 77-64,*,36,4,11,0.364,0,1,0.0,4,10,0.4,0.364,4,4,1.0,0,5,5,10,3,0,2,1,12,15.0,A,1,1,ian-baker-1,Ian Baker,2017
+16,103,17,2017-01-07,New Mexico State,@,Chicago State,REG (Conf),W 78-62,*,26,4,9,0.444,2,6,0.333,2,3,0.667,0.556,4,4,1.0,1,4,5,6,2,0,3,1,14,14.0,A,1,1,ian-baker-1,Ian Baker,2017
+17,104,18,2017-01-12,New Mexico State,,Grand Canyon,REG (Conf),W 81-69,*,38,4,16,0.25,1,8,0.125,3,8,0.375,0.281,2,4,0.5,0,5,5,5,0,1,1,2,11,4.5,H,1,1,ian-baker-1,Ian Baker,2017
+18,105,19,2017-01-14,New Mexico State,,Cal State Bakersfield,REG (Conf),W 63-58,*,39,2,6,0.333,1,3,0.333,1,3,0.333,0.417,8,9,0.889,0,4,4,4,0,0,6,0,13,7.2,H,1,1,ian-baker-1,Ian Baker,2017
+19,106,20,2017-01-21,New Mexico State,,Kansas City,REG (Conf),W 94-71,*,32,5,12,0.417,3,6,0.5,2,6,0.333,0.542,7,9,0.778,0,4,4,3,1,0,2,1,20,14.7,H,1,1,ian-baker-1,Ian Baker,2017
+20,107,21,2017-01-26,New Mexico State,@,Seattle,REG (Conf),W 71-56,*,39,4,17,0.235,2,8,0.25,2,9,0.222,0.294,9,10,0.9,2,9,11,4,1,0,3,2,19,12.4,A,1,1,ian-baker-1,Ian Baker,2017
+21,108,22,2017-01-28,New Mexico State,@,Utah Valley,REG (Conf),W 74-69,*,39,8,15,0.533,4,9,0.444,4,6,0.667,0.667,4,6,0.667,0,6,6,5,2,0,5,2,24,17.4,A,1,1,ian-baker-1,Ian Baker,2017
+22,109,23,2017-01-30,New Mexico State,,N New Mexico,REG (Non-Conf),W 98-75,*,26,9,16,0.563,3,7,0.429,6,9,0.667,0.656,6,6,1.0,0,3,3,3,0,0,1,1,27,21.0,H,1,1,ian-baker-1,Ian Baker,2017
+23,110,24,2017-02-04,New Mexico State,,Chicago State,REG (Conf),W 86-51,*,24,6,11,0.545,1,5,0.2,5,6,0.833,0.591,0,0,,1,2,3,2,0,0,0,0,13,10.4,H,1,1,ian-baker-1,Ian Baker,2017
+24,111,25,2017-02-09,New Mexico State,@,Cal State Bakersfield,REG (Conf),L 53-72,*,40,4,20,0.2,1,10,0.1,3,10,0.3,0.225,10,11,0.909,1,4,5,3,1,0,2,4,19,7.6,A,0,1,ian-baker-1,Ian Baker,2017
+25,112,26,2017-02-11,New Mexico State,@,Grand Canyon,REG (Conf),L 71-83,*,36,5,14,0.357,3,8,0.375,2,6,0.333,0.464,6,6,1.0,1,7,8,6,1,0,1,2,19,17.4,A,0,1,ian-baker-1,Ian Baker,2017
+26,113,27,2017-02-18,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 107-101,*,39,11,18,0.611,3,7,0.429,8,11,0.727,0.694,11,13,0.846,1,3,4,7,1,0,0,3,36,33.3,A,1,1,ian-baker-1,Ian Baker,2017
+27,114,28,2017-02-23,New Mexico State,,Utah Valley,REG (Conf),L 72-84,*,40,8,18,0.444,2,7,0.286,6,11,0.545,0.5,3,6,0.5,0,3,3,1,0,0,2,3,21,8.8,H,0,1,ian-baker-1,Ian Baker,2017
+28,115,29,2017-02-25,New Mexico State,,Seattle,REG (Conf),W 86-53,*,26,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,2,2,9,2,0,1,2,0,3.6,H,1,1,ian-baker-1,Ian Baker,2017
+29,116,30,2017-03-04,New Mexico State,,Texas–Rio Grande Valley,REG (Conf),W 107-81,*,31,5,12,0.417,2,6,0.333,3,6,0.5,0.5,9,11,0.818,1,2,3,7,0,0,1,0,21,19.0,H,1,1,ian-baker-1,Ian Baker,2017
+30,117,31,2017-03-09,New Mexico State,N,Chicago State,CTOURN,W 67-53,*,37,3,11,0.273,1,7,0.143,2,4,0.5,0.318,8,10,0.8,0,3,3,5,0,0,1,2,15,10.3,N,1,0,ian-baker-1,Ian Baker,2017
+31,118,32,2017-03-10,New Mexico State,N,Kansas City,CTOURN,W 78-60,*,39,6,12,0.5,1,6,0.167,5,6,0.833,0.542,5,6,0.833,0,5,5,3,2,1,3,0,18,14.9,N,1,0,ian-baker-1,Ian Baker,2017
+32,119,33,2017-03-11,New Mexico State,N,Cal State Bakersfield,CTOURN,W 70-60,*,40,5,9,0.556,3,4,0.75,2,5,0.4,0.722,2,4,0.5,1,3,4,6,1,0,4,3,15,11.5,N,1,0,ian-baker-1,Ian Baker,2017
+33,120,34,2017-03-17,New Mexico State,N,Baylor,ROUND-64,L 73-91,*,39,6,18,0.333,1,4,0.25,5,14,0.357,0.361,6,7,0.857,1,1,2,5,3,0,3,4,19,11.3,N,0,0,ian-baker-1,Ian Baker,2017

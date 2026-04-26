@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,83,1,2012-11-11,Marquette,,Colgate,REG (Non-Conf),W 84-63,*,22,2,8,0.25,2,4,0.5,0,4,0.0,0.375,3,4,0.75,0,1,1,3,0,0,0,1,9,5.8,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+2,84,2,2012-11-13,Marquette,,Southeastern Louisiana,REG (Non-Conf),W 64-53,*,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,0,3,3,5,2,0,1,0,6,8.0,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+3,85,3,2012-11-19,Marquette,N,Butler,REG (Non-Conf),L 71-72,*,32,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,4,0.75,0,1,1,3,1,0,3,1,14,9.3,N,0,1,junior-cadougan-1,Junior Cadougan,2013
+4,86,4,2012-11-20,Marquette,N,Mississippi State,REG (Non-Conf),W 89-62,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,0,0,5,2,0,4,2,2,-0.4,N,1,1,junior-cadougan-1,Junior Cadougan,2013
+5,87,5,2012-11-21,Marquette,N,Southern California,REG (Non-Conf),W 72-64,*,32,3,7,0.429,0,2,0.0,3,5,0.6,0.429,5,6,0.833,1,4,5,6,0,0,5,0,11,8.0,N,1,1,junior-cadougan-1,Junior Cadougan,2013
+6,88,6,2012-11-26,Marquette,,UMBC,REG (Non-Conf),W 79-46,*,23,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,5,6,8,1,0,0,0,0,6.0,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+7,89,7,2012-11-29,Marquette,@,Florida,REG (Non-Conf),L 49-82,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,2,0,0,2,2,2,-1.5,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+8,90,8,2012-12-08,Marquette,,Wisconsin,REG (Non-Conf),W 60-50,*,26,7,10,0.7,0,1,0.0,7,9,0.778,0.7,4,5,0.8,0,4,4,6,1,0,1,1,18,18.4,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+9,91,9,2012-12-15,Marquette,,Savannah State,REG (Non-Conf),W 71-51,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,5,5,1.0,1,2,3,3,1,0,4,1,11,7.3,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+10,92,10,2012-12-19,Marquette,@,Green Bay,REG (Non-Conf),L 47-49,*,35,4,12,0.333,0,3,0.0,4,9,0.444,0.333,0,1,0.0,0,4,4,6,0,0,5,4,8,-0.4,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+11,93,11,2012-12-22,Marquette,,Louisiana State,REG (Non-Conf),W 84-80,*,32,6,10,0.6,1,4,0.25,5,6,0.833,0.65,4,4,1.0,1,3,4,6,0,0,4,2,17,13.4,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+12,94,12,2012-12-29,Marquette,,North Carolina Central,REG (Non-Conf),W 75-66,*,24,5,8,0.625,0,2,0.0,5,6,0.833,0.625,6,7,0.857,0,3,3,2,3,0,5,0,16,12.3,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+13,95,13,2013-01-01,Marquette,,Connecticut,REG (Conf),W 82-76 (OT),*,35,7,13,0.538,1,3,0.333,6,10,0.6,0.577,3,5,0.6,0,3,3,5,0,0,1,3,18,13.1,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+14,96,14,2013-01-05,Marquette,,Georgetown,REG (Conf),W 49-48,*,31,1,10,0.1,0,2,0.0,1,8,0.125,0.1,0,0,,2,1,3,6,3,0,3,2,2,0.5,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+15,97,15,2013-01-12,Marquette,@,Pittsburgh,REG (Conf),W 74-67 (OT),*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,2,0,0,1,1,2,1.9,A,1,1,junior-cadougan-1,Junior Cadougan,2013
+16,98,16,2013-01-16,Marquette,,Seton Hall,REG (Conf),W 69-62,*,25,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,4,0.5,0,2,2,2,0,0,2,4,9,3.6,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+17,99,17,2013-01-19,Marquette,@,Cincinnati,REG (Conf),L 69-71 (OT),*,32,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,3,3,0,2,2,7,6.9,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+18,100,18,2013-01-26,Marquette,,Providence,REG (Conf),W 81-71,*,33,6,11,0.545,0,1,0.0,6,10,0.6,0.545,3,4,0.75,0,3,3,3,1,2,1,2,15,12.9,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+19,101,19,2013-01-28,Marquette,,South Florida,REG (Conf),W 63-50,*,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,6,1,0,2,1,2,2.3,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+20,102,20,2013-02-03,Marquette,@,Louisville,REG (Conf),L 51-70,*,19,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,0,1,1,0,0,4,1,2,-4.1,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+21,103,21,2013-02-06,Marquette,@,South Florida,REG (Conf),W 70-47,*,29,4,7,0.571,2,3,0.667,2,4,0.5,0.714,1,1,1.0,1,3,4,5,2,0,3,1,11,11.4,A,1,1,junior-cadougan-1,Junior Cadougan,2013
+22,104,22,2013-02-09,Marquette,,DePaul,REG (Conf),W 89-78,*,33,8,13,0.615,0,2,0.0,8,11,0.727,0.615,1,2,0.5,0,5,5,6,1,0,2,2,17,14.6,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+23,105,23,2013-02-11,Marquette,@,Georgetown,REG (Conf),L 55-63,*,31,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,4,5,5,3,0,4,1,4,6.0,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+24,106,24,2013-02-16,Marquette,,Pittsburgh,REG (Conf),W 79-69,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,0,2,2,6,0,1,2,2,6,5.9,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+25,107,25,2013-02-19,Marquette,@,Seton Hall,REG (Conf),W 67-46,*,26,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,0,2,2,4,2,0,2,2,0,-0.9,A,1,1,junior-cadougan-1,Junior Cadougan,2013
+26,108,26,2013-02-23,Marquette,@,Villanova,REG (Conf),L 56-60,*,32,5,10,0.5,1,2,0.5,4,8,0.5,0.55,1,2,0.5,0,3,3,4,1,0,5,1,12,5.9,A,0,1,junior-cadougan-1,Junior Cadougan,2013
+27,109,27,2013-02-25,Marquette,,Syracuse,REG (Conf),W 74-71,*,38,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,4,1.0,1,2,3,3,4,0,1,3,12,12.5,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+28,110,28,2013-03-02,Marquette,,Notre Dame,REG (Conf),W 72-64,*,32,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,1,0.0,0,2,2,4,2,0,2,3,7,5.1,H,1,1,junior-cadougan-1,Junior Cadougan,2013
+29,111,29,2013-03-05,Marquette,@,Rutgers,REG (Conf),W 60-54,*,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,7,0.571,0,1,1,3,1,0,3,2,10,6.8,A,1,1,junior-cadougan-1,Junior Cadougan,2013
+30,112,30,2013-03-09,Marquette,@,St. John's (NY),REG (Conf),W 69-67 (OT),*,33,3,9,0.333,1,1,1.0,2,8,0.25,0.389,0,0,,2,3,5,4,0,0,1,3,7,4.8,A,1,1,junior-cadougan-1,Junior Cadougan,2013
+31,113,31,2013-03-14,Marquette,N,Notre Dame,CTOURN,L 65-73,*,33,6,9,0.667,2,4,0.5,4,5,0.8,0.778,0,0,,0,3,3,1,0,0,3,2,14,7.9,N,0,0,junior-cadougan-1,Junior Cadougan,2013
+32,114,32,2013-03-21,Marquette,N,Davidson,ROUND-64,W 59-58,*,27,2,9,0.222,0,1,0.0,2,8,0.25,0.222,0,0,,0,5,5,0,2,0,0,0,4,2.0,N,1,0,junior-cadougan-1,Junior Cadougan,2013
+33,115,33,2013-03-23,Marquette,N,Butler,ROUND-32,W 74-72,*,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,2,0.5,0,1,1,2,0,0,3,1,9,2.9,N,1,0,junior-cadougan-1,Junior Cadougan,2013
+34,116,34,2013-03-28,Marquette,N,Miami (FL),ROUND-16,W 71-61,*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,7,0.571,3,2,5,1,1,0,3,3,8,3.6,N,1,0,junior-cadougan-1,Junior Cadougan,2013
+35,117,35,2013-03-30,Marquette,N,Syracuse,ROUND-8,L 39-55,*,30,1,8,0.125,0,4,0.0,1,4,0.25,0.125,4,4,1.0,1,1,2,2,0,0,3,2,6,-0.6,N,0,0,junior-cadougan-1,Junior Cadougan,2013

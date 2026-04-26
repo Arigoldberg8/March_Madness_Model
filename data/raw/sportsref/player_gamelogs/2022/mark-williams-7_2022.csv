@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,24,1,2021-11-09,Duke,N,Kentucky,REG (Non-Conf),W 79-71,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,4,6,0,2,3,0,3,5,8.8,N,1,1,mark-williams-7,Mark Williams,2022
+2,25,2,2021-11-12,Duke,,Army,REG (Non-Conf),W 82-56,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,1,3,4,1,0,1,1,1,6,3.9,H,1,1,mark-williams-7,Mark Williams,2022
+3,26,3,2021-11-13,Duke,,Campbell,REG (Non-Conf),W 67-56,*,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,1,0,0,0,1.0,H,1,1,mark-williams-7,Mark Williams,2022
+4,27,4,2021-11-16,Duke,,Gardner-Webb,REG (Non-Conf),W 92-52,*,21,6,9,0.667,0,0,,6,9,0.667,0.667,1,2,0.5,2,1,3,2,1,6,0,2,13,16.2,H,1,1,mark-williams-7,Mark Williams,2022
+5,28,5,2021-11-19,Duke,,Lafayette,REG (Non-Conf),W 88-55,*,22,7,13,0.538,0,0,,7,13,0.538,0.538,0,2,0.0,8,7,15,0,1,4,1,2,14,16.6,H,1,1,mark-williams-7,Mark Williams,2022
+6,29,6,2021-11-22,Duke,,The Citadel,REG (Non-Conf),W 107-81,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,4,3,7,3,0,2,1,3,14,16.5,H,1,1,mark-williams-7,Mark Williams,2022
+7,30,7,2021-11-26,Duke,N,Gonzaga,REG (Non-Conf),W 84-81,*,28,8,9,0.889,0,1,0.0,8,8,1.0,0.889,1,2,0.5,4,5,9,1,1,6,0,4,17,22.1,N,1,1,mark-williams-7,Mark Williams,2022
+8,31,8,2021-11-30,Duke,@,Ohio State,REG (Non-Conf),L 66-71,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,3,4,7,0,0,2,1,4,8,7.1,A,0,1,mark-williams-7,Mark Williams,2022
+9,32,9,2021-12-14,Duke,,South Carolina State,REG (Non-Conf),W 103-62,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,1,4,5,0,0,3,0,1,10,12.4,H,1,1,mark-williams-7,Mark Williams,2022
+10,33,10,2021-12-16,Duke,,Appalachian State,REG (Non-Conf),W 92-67,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,3,4,1,2,3,0,1,6,11.1,H,1,1,mark-williams-7,Mark Williams,2022
+11,34,11,2021-12-18,Duke,,Elon,REG (Non-Conf),W 87-56,*,14,2,2,1.0,0,0,,2,2,1.0,1.0,4,6,0.667,1,2,3,2,1,2,1,2,8,9.9,H,1,1,mark-williams-7,Mark Williams,2022
+12,35,12,2021-12-22,Duke,,Virginia Tech,REG (Conf),W 76-65,*,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,1,3,2,1,2,0,2,0,4.0,H,1,1,mark-williams-7,Mark Williams,2022
+13,36,13,2022-01-04,Duke,,Georgia Tech,REG (Conf),W 69-57,*,21,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,5,9,14,0,0,3,2,0,10,12.3,H,1,1,mark-williams-7,Mark Williams,2022
+14,37,14,2022-01-08,Duke,,Miami (FL),REG (Conf),L 74-76,*,27,6,8,0.75,0,0,,6,8,0.75,0.75,0,1,0.0,2,5,7,2,0,6,3,3,12,12.7,H,0,1,mark-williams-7,Mark Williams,2022
+15,38,15,2022-01-12,Duke,@,Wake Forest,REG (Conf),W 76-64,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,6,7,0,0,3,1,4,6,5.0,A,1,1,mark-williams-7,Mark Williams,2022
+16,39,16,2022-01-15,Duke,,NC State,REG (Conf),W 88-73,*,27,9,12,0.75,0,0,,9,12,0.75,0.75,1,3,0.333,6,5,11,2,1,8,1,0,19,26.1,H,1,1,mark-williams-7,Mark Williams,2022
+17,40,17,2022-01-18,Duke,@,Florida State,REG (Conf),L 78-79 (OT),*,34,6,8,0.75,0,0,,6,8,0.75,0.75,3,3,1.0,1,6,7,0,0,3,0,3,15,15.2,A,0,1,mark-williams-7,Mark Williams,2022
+18,41,18,2022-01-22,Duke,,Syracuse,REG (Conf),W 79-59,*,23,6,7,0.857,0,0,,6,7,0.857,0.857,3,3,1.0,2,5,7,0,0,1,4,1,15,11.7,H,1,1,mark-williams-7,Mark Williams,2022
+19,42,19,2022-01-25,Duke,,Clemson,REG (Conf),W 71-69,*,32,3,3,1.0,0,0,,3,3,1.0,1.0,4,5,0.8,0,10,10,2,1,3,2,1,10,13.8,H,1,1,mark-williams-7,Mark Williams,2022
+20,43,20,2022-01-29,Duke,@,Louisville,REG (Conf),W 74-65,*,23,7,11,0.636,0,0,,7,11,0.636,0.636,0,0,,5,6,11,0,0,2,1,3,14,13.6,A,1,1,mark-williams-7,Mark Williams,2022
+21,44,21,2022-01-31,Duke,@,Notre Dame,REG (Conf),W 57-43,*,23,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,4,4,8,1,0,3,3,1,7,8.8,A,1,1,mark-williams-7,Mark Williams,2022
+22,45,22,2022-02-05,Duke,@,North Carolina,REG (Conf),W 87-67,*,26,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,2,4,6,2,0,2,0,2,9,12.0,A,1,1,mark-williams-7,Mark Williams,2022
+23,46,23,2022-02-07,Duke,,Virginia,REG (Conf),L 68-69,*,19,5,7,0.714,0,0,,5,7,0.714,0.714,6,7,0.857,1,3,4,0,1,3,1,4,16,14.8,H,0,1,mark-williams-7,Mark Williams,2022
+24,47,24,2022-02-10,Duke,@,Clemson,REG (Conf),W 82-64,*,21,8,8,1.0,0,0,,8,8,1.0,1.0,0,0,,0,6,6,1,1,2,0,1,16,18.1,A,1,1,mark-williams-7,Mark Williams,2022
+25,48,25,2022-02-12,Duke,@,Boston College,REG (Conf),W 72-61,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,2,1,3,0,0,2,0,2,10,10.7,A,1,1,mark-williams-7,Mark Williams,2022
+26,49,26,2022-02-15,Duke,,Wake Forest,REG (Conf),W 76-74,*,26,8,11,0.727,0,0,,8,11,0.727,0.727,0,0,,4,6,10,1,0,1,1,3,16,15.3,H,1,1,mark-williams-7,Mark Williams,2022
+27,50,27,2022-02-19,Duke,,Florida State,REG (Conf),W 88-70,*,19,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,2,4,6,0,0,1,0,3,10,9.2,H,1,1,mark-williams-7,Mark Williams,2022
+28,51,28,2022-02-23,Duke,@,Virginia,REG (Conf),W 65-61,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,2,8,10,0,0,4,1,1,8,10.9,A,1,1,mark-williams-7,Mark Williams,2022
+29,52,29,2022-02-26,Duke,@,Syracuse,REG (Conf),W 97-72,*,27,11,14,0.786,0,0,,11,14,0.786,0.786,6,7,0.857,8,4,12,1,0,3,0,2,28,31.0,A,1,1,mark-williams-7,Mark Williams,2022
+30,53,30,2022-03-01,Duke,@,Pittsburgh,REG (Conf),W 86-56,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,2,0,1,2,1.2,A,1,1,mark-williams-7,Mark Williams,2022
+31,54,31,2022-03-05,Duke,,North Carolina,REG (Conf),L 81-94,*,26,8,11,0.727,0,0,,8,11,0.727,0.727,0,0,,3,10,13,0,0,0,1,2,16,14.8,H,0,1,mark-williams-7,Mark Williams,2022
+32,55,32,2022-03-10,Duke,N,Syracuse,CTOURN,W 88-79,*,33,7,11,0.636,0,0,,7,11,0.636,0.636,1,2,0.5,7,9,16,4,1,3,1,2,15,21.4,N,1,0,mark-williams-7,Mark Williams,2022
+33,56,33,2022-03-11,Duke,N,Miami (FL),CTOURN,W 80-76,*,32,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,2,8,10,0,0,3,1,1,9,9.1,N,1,0,mark-williams-7,Mark Williams,2022
+34,57,34,2022-03-12,Duke,N,Virginia Tech,CTOURN,L 67-82,*,19,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,2,3,1,0,1,0,4,8,8.2,N,0,0,mark-williams-7,Mark Williams,2022
+35,58,35,2022-03-18,Duke,N,Cal State Fullerton,ROUND-64,W 78-61,*,32,6,7,0.857,0,0,,6,7,0.857,0.857,3,3,1.0,3,4,7,5,1,5,2,0,15,21.8,N,1,0,mark-williams-7,Mark Williams,2022
+36,59,36,2022-03-20,Duke,N,Michigan State,ROUND-32,W 85-76,*,30,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,2,6,8,0,2,5,1,2,15,18.0,N,1,0,mark-williams-7,Mark Williams,2022
+37,60,37,2022-03-24,Duke,N,Texas Tech,ROUND-16,W 78-73,*,30,6,9,0.667,0,0,,6,9,0.667,0.667,4,4,1.0,2,6,8,0,0,3,2,2,16,14.6,N,1,0,mark-williams-7,Mark Williams,2022
+38,61,38,2022-03-26,Duke,N,Arkansas,ROUND-8,W 78-69,*,35,6,6,1.0,0,0,,6,6,1.0,1.0,0,1,0.0,3,9,12,0,0,3,2,3,12,13.5,N,1,0,mark-williams-7,Mark Williams,2022
+39,62,39,2022-04-02,Duke,N,North Carolina,NATIONAL-SEMI,L 77-81,*,17,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,2,2,4,0,2,0,1,4,8,6.7,N,0,0,mark-williams-7,Mark Williams,2022

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Oregon,,Coppin State,REG (Non-Conf),W 107-65,,23,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,5,7,12,2,1,2,0,2,8,12.6,H,1,1,jordan-bell-1,Jordan Bell,2015
+2,2,2,2014-11-17,Oregon,,Detroit Mercy,REG (Non-Conf),W 83-66,,27,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,4,5,9,4,1,1,1,3,6,11.7,H,1,1,jordan-bell-1,Jordan Bell,2015
+3,3,3,2014-11-21,Oregon,,Toledo,REG (Non-Conf),W 78-68,,24,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,4,6,1,0,4,1,4,6,8.6,H,1,1,jordan-bell-1,Jordan Bell,2015
+4,4,4,2014-11-24,Oregon,N,Michigan,REG (Non-Conf),L 63-70,,17,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,4,5,1,0,2,1,4,2,1.0,N,0,1,jordan-bell-1,Jordan Bell,2015
+5,5,5,2014-11-25,Oregon,N,VCU,REG (Non-Conf),L 63-77,,20,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,2,0,4,3,2,0,0.0,N,0,1,jordan-bell-1,Jordan Bell,2015
+6,6,6,2014-11-30,Oregon,,Portland State,REG (Non-Conf),W 81-59,,21,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,3,7,10,0,0,6,2,4,10,11.9,H,1,1,jordan-bell-1,Jordan Bell,2015
+7,7,7,2014-12-03,Oregon,,Concordia (OR),REG (Non-Conf),W 94-63,,15,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,6,5,11,1,2,5,1,0,10,17.3,H,1,1,jordan-bell-1,Jordan Bell,2015
+8,8,8,2014-12-07,Oregon,,Ole Miss,REG (Non-Conf),L 73-79,,21,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,2,4,1,1,2,1,1,2,4.7,H,0,1,jordan-bell-1,Jordan Bell,2015
+9,9,9,2014-12-13,Oregon,@,Illinois,REG (Non-Conf),W 77-70,,21,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,6,7,1,1,3,2,2,2,3.8,A,1,1,jordan-bell-1,Jordan Bell,2015
+10,10,10,2014-12-17,Oregon,,Cal State Northridge,REG (Non-Conf),W 79-56,,15,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,0,2,2,5,1,3,0,1,4,7.7,H,1,1,jordan-bell-1,Jordan Bell,2015
+11,11,11,2014-12-20,Oregon,,Delaware State,REG (Non-Conf),W 83-70,*,24,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,1,3,4,1,1,4,0,0,9,12.5,H,1,1,jordan-bell-1,Jordan Bell,2015
+12,12,12,2014-12-22,Oregon,,UC Santa Barbara,REG (Non-Conf),W 82-78 (OT),*,34,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,3,7,10,1,1,3,1,1,5,8.5,H,1,1,jordan-bell-1,Jordan Bell,2015
+13,13,13,2014-12-29,Oregon,,UC Irvine,REG (Non-Conf),W 69-67 (OT),,21,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,6,8,1,0,4,0,2,4,7.9,H,1,1,jordan-bell-1,Jordan Bell,2015
+14,14,14,2015-01-03,Oregon,,Oregon State,REG (Conf),W 71-59,,28,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,3,6,9,1,0,5,1,2,8,11.7,H,1,1,jordan-bell-1,Jordan Bell,2015
+15,15,15,2015-01-08,Oregon,,Arizona,REG (Conf),L 62-80,*,32,3,5,0.6,0,0,3,5,0.6,0.6,5,9,0.556,1,4,5,0,1,3,0,3,11,10.9,H,0,1,jordan-bell-1,Jordan Bell,2015
+16,16,16,2015-01-10,Oregon,,Arizona State,REG (Conf),W 59-56,*,27,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,2,4,6,2,0,8,1,5,8,12.7,H,1,1,jordan-bell-1,Jordan Bell,2015
+17,17,17,2015-01-15,Oregon,@,Washington State,REG (Conf),L 99-108 (OT),*,26,2,3,0.667,0,0,2,3,0.667,0.667,1,3,0.333,2,3,5,0,3,1,0,4,5,7.3,A,0,1,jordan-bell-1,Jordan Bell,2015
+18,18,18,2015-01-18,Oregon,@,Washington,REG (Conf),L 77-85,*,27,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,4,5,9,3,2,3,2,2,8,13.4,A,0,1,jordan-bell-1,Jordan Bell,2015
+19,19,19,2015-01-22,Oregon,,Southern California,REG (Conf),W 75-67,*,31,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,5,8,13,4,1,3,2,2,2,9.6,H,1,1,jordan-bell-1,Jordan Bell,2015
+20,20,20,2015-01-24,Oregon,,UCLA,REG (Conf),W 82-64,*,32,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,3,4,7,5,0,2,1,1,6,10.8,H,1,1,jordan-bell-1,Jordan Bell,2015
+21,21,21,2015-01-28,Oregon,@,Arizona,REG (Conf),L 56-90,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,4,4,0,1,1,1,4,6,4.7,A,0,1,jordan-bell-1,Jordan Bell,2015
+22,22,22,2015-01-30,Oregon,@,Arizona State,REG (Conf),W 68-67 (OT),*,27,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,0,6,6,0,0,2,2,4,6,3.3,A,1,1,jordan-bell-1,Jordan Bell,2015
+23,23,23,2015-02-04,Oregon,,Washington,REG (Conf),W 78-74,*,29,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,4,4,8,2,2,0,1,3,4,6.5,H,1,1,jordan-bell-1,Jordan Bell,2015
+24,24,25,2015-02-11,Oregon,@,Southern California,REG (Conf),W 80-75,,23,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,0,4,4,1,1,1,0,1,8,8.6,A,1,1,jordan-bell-1,Jordan Bell,2015
+25,25,26,2015-02-14,Oregon,@,UCLA,REG (Conf),L 63-72,,21,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,0,1,5,0,-2.0,A,0,1,jordan-bell-1,Jordan Bell,2015
+26,26,27,2015-02-18,Oregon,,Colorado,REG (Conf),W 73-60,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,2,3,0,0,3,2,3,6,4.6,H,1,1,jordan-bell-1,Jordan Bell,2015
+27,27,28,2015-02-22,Oregon,,Utah,REG (Conf),W 69-58,*,27,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,3,6,4,2,2,1,3,2,7.3,H,1,1,jordan-bell-1,Jordan Bell,2015
+28,28,29,2015-02-25,Oregon,@,California,REG (Conf),W 80-69,*,20,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,3,4,0,0,2,0,4,6,5.1,A,1,1,jordan-bell-1,Jordan Bell,2015
+29,29,30,2015-03-01,Oregon,@,Stanford,REG (Conf),W 73-70,*,23,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,3,4,0,1,2,2,2,2,2.2,A,1,1,jordan-bell-1,Jordan Bell,2015
+30,30,31,2015-03-04,Oregon,@,Oregon State,REG (Conf),W 65-62,*,25,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,7,9,1,3,2,0,3,1,7.3,A,1,1,jordan-bell-1,Jordan Bell,2015
+31,31,32,2015-03-12,Oregon,N,Colorado,CTOURN,W 93-85,,11,0,0,,0,0,0,0,,,0,0,,1,3,4,0,0,0,1,5,0,-1.4,N,1,0,jordan-bell-1,Jordan Bell,2015
+32,32,33,2015-03-13,Oregon,N,Utah,CTOURN,W 67-64,*,15,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,3,3,0,0,3,2,5,2,-0.7,N,1,0,jordan-bell-1,Jordan Bell,2015
+33,33,34,2015-03-14,Oregon,N,Arizona,CTOURN,L 52-80,*,26,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,2,2,2,1,0,1,3,4,2.8,N,0,0,jordan-bell-1,Jordan Bell,2015
+34,34,35,2015-03-20,Oregon,N,Oklahoma State,ROUND-64,W 79-73,*,26,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,5,5,0,0,4,2,4,6,5.8,N,1,0,jordan-bell-1,Jordan Bell,2015
+35,35,36,2015-03-22,Oregon,N,Wisconsin,ROUND-32,L 65-72,*,30,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,2,5,7,1,1,4,1,1,8,12.1,N,0,0,jordan-bell-1,Jordan Bell,2015

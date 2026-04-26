@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2010-11-18,Missouri,,Western Illinois,REG (Non-Conf),W 66-61,*,18,3,9,0.333,1,1,1.0,2,8,0.25,0.389,0,0,,2,1,3,0,0,0,2,1,7,1.2,H,1,1,justin-safford-1,Justin Safford,2011
+2,91,2,2010-11-20,Missouri,,North Florida,REG (Non-Conf),W 96-58,*,23,2,8,0.25,0,0,,2,8,0.25,0.25,2,4,0.5,2,4,6,0,1,0,0,1,6,3.6,H,1,1,justin-safford-1,Justin Safford,2011
+3,92,3,2010-11-23,Missouri,N,Wyoming,REG (Non-Conf),W 72-62,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,1,0,0,0,3,6,4.9,N,1,1,justin-safford-1,Justin Safford,2011
+4,93,4,2010-11-24,Missouri,N,La Salle,REG (Non-Conf),W 83-71,*,21,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,1,5,6,2,0,1,0,0,11,11.7,N,1,1,justin-safford-1,Justin Safford,2011
+5,94,5,2010-11-28,Missouri,,Arkansas–Pine Bluff,REG (Non-Conf),W 91-63,*,14,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,5,5,0,0,0,5,3,4,-2.7,H,1,1,justin-safford-1,Justin Safford,2011
+6,95,6,2010-11-30,Missouri,N,Georgetown,REG (Non-Conf),L 102-111 (OT),,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,4,1.0,0,3,3,1,1,0,1,2,6,5.8,N,0,1,justin-safford-1,Justin Safford,2011
+7,96,7,2010-12-02,Missouri,@,Oregon,REG (Non-Conf),W 83-80,,14,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,2,4,1,0,0,1,1,4,1.9,A,1,1,justin-safford-1,Justin Safford,2011
+8,97,8,2010-12-08,Missouri,,Vanderbilt,REG (Non-Conf),W 85-82 (OT),,18,2,6,0.333,1,2,0.5,1,4,0.25,0.417,3,4,0.75,3,0,3,1,0,0,3,2,8,3.2,H,1,1,justin-safford-1,Justin Safford,2011
+9,98,9,2010-12-11,Missouri,,Presbyterian,REG (Non-Conf),W 70-55,,19,6,9,0.667,1,1,1.0,5,8,0.625,0.722,1,1,1.0,1,5,6,0,0,0,1,3,14,10.1,H,1,1,justin-safford-1,Justin Safford,2011
+10,99,10,2010-12-16,Missouri,,Oral Roberts,REG (Non-Conf),W 81-62,,14,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,2,3,0,0,0,0,1,4,3.2,H,1,1,justin-safford-1,Justin Safford,2011
+11,100,11,2010-12-18,Missouri,,Central Arkansas,REG (Non-Conf),W 116-63,,23,4,9,0.444,0,2,0.0,4,7,0.571,0.444,3,3,1.0,0,2,2,1,2,0,1,1,11,8.2,H,1,1,justin-safford-1,Justin Safford,2011
+12,101,12,2010-12-22,Missouri,N,Illinois,REG (Non-Conf),W 75-64,,16,5,7,0.714,0,0,,5,7,0.714,0.714,1,3,0.333,1,2,3,2,0,0,2,3,11,6.8,N,1,1,justin-safford-1,Justin Safford,2011
+13,102,13,2010-12-27,Missouri,,Northern Illinois,REG (Non-Conf),W 97-61,,21,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,2,6,8,3,0,0,2,2,10,8.2,H,1,1,justin-safford-1,Justin Safford,2011
+14,103,14,2010-12-30,Missouri,,Old Dominion,REG (Non-Conf),W 81-58,,21,0,6,0.0,0,1,0.0,0,5,0.0,0.0,1,2,0.5,2,3,5,1,0,0,1,3,1,-2.8,H,1,1,justin-safford-1,Justin Safford,2011
+15,104,15,2011-01-05,Missouri,,North Ala.,REG (Non-Conf),W 98-58,,22,4,11,0.364,0,0,,4,11,0.364,0.364,8,10,0.8,3,5,8,3,0,1,1,1,16,14.1,H,1,1,justin-safford-1,Justin Safford,2011
+16,105,16,2011-01-08,Missouri,@,Colorado,REG (Conf),L 76-89,,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,2,2,1,0,0,0,1,4,1.8,A,0,1,justin-safford-1,Justin Safford,2011
+17,106,17,2011-01-12,Missouri,,Nebraska,REG (Conf),W 77-69,*,20,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,2,0,0,1,0,4,3.3,H,1,1,justin-safford-1,Justin Safford,2011
+18,107,18,2011-01-15,Missouri,@,Texas A&M,REG (Conf),L 89-91 (OT),*,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,1,1,2,0,0,0,0,3,2,0.4,A,0,1,justin-safford-1,Justin Safford,2011
+19,108,19,2011-01-17,Missouri,,Kansas State,REG (Conf),W 75-59,*,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,4,4,0,0,0,0,1,5,4.1,H,1,1,justin-safford-1,Justin Safford,2011
+20,109,20,2011-01-22,Missouri,,Iowa State,REG (Conf),W 87-54,*,14,4,8,0.5,2,3,0.667,2,5,0.4,0.625,1,2,0.5,2,4,6,1,0,1,3,4,11,6.0,H,1,1,justin-safford-1,Justin Safford,2011
+21,110,21,2011-01-29,Missouri,@,Texas,REG (Conf),L 58-71,*,27,1,10,0.1,0,3,0.0,1,7,0.143,0.1,2,2,1.0,4,7,11,0,1,0,4,2,4,-1.5,A,0,1,justin-safford-1,Justin Safford,2011
+22,111,22,2011-02-02,Missouri,@,Oklahoma State,REG (Conf),L 70-76,*,17,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,0,3,3,1,0,0,2,2,7,3.8,A,0,1,justin-safford-1,Justin Safford,2011
+23,112,23,2011-02-05,Missouri,,Colorado,REG (Conf),W 89-73,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,-0.5,H,1,1,justin-safford-1,Justin Safford,2011
+24,113,24,2011-02-07,Missouri,@,Kansas,REG (Conf),L 86-103,,13,1,5,0.2,0,3,0.0,1,2,0.5,0.2,3,4,0.75,0,0,0,1,1,0,0,1,5,2.8,A,0,1,justin-safford-1,Justin Safford,2011
+25,114,25,2011-02-12,Missouri,,Oklahoma,REG (Conf),W 84-61,,22,5,8,0.625,0,0,,5,8,0.625,0.625,1,2,0.5,4,2,6,0,0,0,0,1,11,10.0,H,1,1,justin-safford-1,Justin Safford,2011
+26,115,26,2011-02-15,Missouri,,Texas Tech,REG (Conf),W 92-84,,20,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,0,2,2,2,1,0,1,0,8,6.0,H,1,1,justin-safford-1,Justin Safford,2011
+27,116,27,2011-02-19,Missouri,@,Iowa State,REG (Conf),W 76-70,,18,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,2,1,3,1,0,0,2,0,8,4.4,A,1,1,justin-safford-1,Justin Safford,2011
+28,117,28,2011-02-23,Missouri,,Baylor,REG (Conf),W 77-59,,19,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,1,2,3,1,0,0,1,2,9,6.9,H,1,1,justin-safford-1,Justin Safford,2011
+29,118,29,2011-02-26,Missouri,@,Kansas State,REG (Conf),L 70-80,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,4,0,-1.6,A,0,1,justin-safford-1,Justin Safford,2011
+30,119,30,2011-03-01,Missouri,@,Nebraska,REG (Conf),L 58-69,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,3,0,-3.3,A,0,1,justin-safford-1,Justin Safford,2011
+31,120,31,2011-03-05,Missouri,,Kansas,REG (Conf),L 66-70,*,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,2,2,0,0,0,1,2,2,-1.3,H,0,1,justin-safford-1,Justin Safford,2011
+32,121,32,2011-03-09,Missouri,N,Texas Tech,CTOURN,W 88-84,,27,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,0,4,4,1,0,0,1,1,10,5.5,N,1,0,justin-safford-1,Justin Safford,2011
+33,122,33,2011-03-10,Missouri,N,Texas A&M,CTOURN,L 71-86,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,1,3,2,-2.3,N,0,0,justin-safford-1,Justin Safford,2011
+34,123,34,2011-03-17,Missouri,N,Cincinnati,ROUND-64,L 63-78,,16,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,0,0,1,0,0,0,1,6,3.3,N,0,0,justin-safford-1,Justin Safford,2011

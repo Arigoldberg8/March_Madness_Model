@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2020-11-27,Hartford,@,Connecticut,REG (Non-Conf),L 57-69,,19,1,5,0.2,0,0,,1,5,0.2,0.2,3,4,0.75,0,1,1,0,1,0,2,1,5,0.4,A,0,1,pj-henry-1,PJ Henry,2021
+2,31,2,2020-12-01,Hartford,N,Villanova,REG (Non-Conf),L 53-87,,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,2,0,-0.8,N,0,1,pj-henry-1,PJ Henry,2021
+3,32,3,2020-12-02,Hartford,@,Fairfield,REG (Non-Conf),W 66-61,,14,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,0,1,1,0,0,0,1,3,3.0,A,1,1,pj-henry-1,PJ Henry,2021
+4,33,4,2020-12-04,Hartford,,Central Connecticut State,REG (Non-Conf),W 80-65,,28,2,6,0.333,2,3,0.667,0,3,0.0,0.5,2,2,1.0,0,2,2,3,0,0,1,1,8,5.9,H,1,1,pj-henry-1,PJ Henry,2021
+5,34,5,2020-12-07,Hartford,,Fairfield,REG (Non-Conf),W 67-54,,5,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,2,0,0,0,0,2,3.4,H,1,1,pj-henry-1,PJ Henry,2021
+6,35,6,2020-12-19,Hartford,,Maine,REG (Conf),W 63-60,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,0,0,0,0,0,4,3.0,H,1,1,pj-henry-1,PJ Henry,2021
+7,36,7,2020-12-20,Hartford,,Maine,REG (Conf),W 65-50,,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,4,4,7,1,0,2,0,4,5.7,H,1,1,pj-henry-1,PJ Henry,2021
+8,37,8,2020-12-27,Hartford,@,New Hampshire,REG (Conf),L 69-77,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,0,0,0,1.3,A,0,1,pj-henry-1,PJ Henry,2021
+9,38,9,2020-12-28,Hartford,@,New Hampshire,REG (Conf),L 51-53,,6,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,2,0,2,1,0,0,0,2,2,1.2,A,0,1,pj-henry-1,PJ Henry,2021
+10,39,10,2021-01-02,Hartford,,Binghamton,REG (Conf),W 76-56,,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,4,4,4,2,0,1,0,4,7.0,H,1,1,pj-henry-1,PJ Henry,2021
+11,40,11,2021-01-03,Hartford,,Binghamton,REG (Conf),W 77-74,,32,4,7,0.571,3,4,0.75,1,3,0.333,0.786,2,2,1.0,0,4,4,1,0,0,2,2,13,8.8,H,1,1,pj-henry-1,PJ Henry,2021
+12,41,12,2021-01-09,Hartford,@,UMass Lowell,REG (Conf),L 62-71,,25,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,4,4,3,2,0,2,2,0,1.8,A,0,1,pj-henry-1,PJ Henry,2021
+13,42,13,2021-01-10,Hartford,@,UMass Lowell,REG (Conf),W 75-58,,9,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,1,2,0,0,0,0,2,2,1.5,A,1,1,pj-henry-1,PJ Henry,2021
+14,43,14,2021-01-16,Hartford,@,UMBC,REG (Conf),W 70-63,,11,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,1,1,0,1,0,2,1,7,5.3,A,1,1,pj-henry-1,PJ Henry,2021
+15,44,15,2021-01-17,Hartford,@,UMBC,REG (Conf),L 49-57,,15,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,0,1,1,1,1,0,2,4,5,1.0,A,0,1,pj-henry-1,PJ Henry,2021
+16,45,16,2021-01-30,Hartford,@,Stony Brook,REG (Conf),W 59-57,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,1,0,0,0,0,2,2.2,A,1,1,pj-henry-1,PJ Henry,2021
+17,46,17,2021-01-31,Hartford,@,Stony Brook,REG (Conf),L 49-63,,11,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,2,1,0,2,1,2,-0.4,A,0,1,pj-henry-1,PJ Henry,2021
+18,47,18,2021-02-13,Hartford,,NJIT,REG (Conf),L 57-67,,18,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,0,0,1,1,0,0,1,5,2.5,H,0,1,pj-henry-1,PJ Henry,2021
+19,48,19,2021-02-14,Hartford,,NJIT,REG (Conf),W 75-61,,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,2,4,0.5,0,3,3,1,1,0,2,3,10,7.7,H,1,1,pj-henry-1,PJ Henry,2021
+20,49,20,2021-02-27,Hartford,,Binghamton,CTOURN,W 77-60,,18,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,1,0,0,3,2,7,2.6,H,1,0,pj-henry-1,PJ Henry,2021
+21,50,21,2021-02-28,Hartford,,Albany (NY),CTOURN,W 83-77,,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,1,0,0,0,2,4,4.2,H,1,0,pj-henry-1,PJ Henry,2021
+22,51,22,2021-03-06,Hartford,@,Vermont,CTOURN,W 71-65,,18,1,1,1.0,1,1,1.0,0,0,,1.5,0,1,0.0,1,0,1,2,2,0,0,2,3,5.6,A,1,0,pj-henry-1,PJ Henry,2021
+23,52,23,2021-03-13,Hartford,,UMass Lowell,CTOURN,W 64-50,,16,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,3,0,-0.5,H,1,0,pj-henry-1,PJ Henry,2021
+24,53,24,2021-03-19,Hartford,N,Baylor,ROUND-64,L 55-79,,34,3,10,0.3,0,4,0.0,3,6,0.5,0.3,2,2,1.0,0,2,2,1,2,0,4,5,8,-0.5,N,0,0,pj-henry-1,PJ Henry,2021

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,2,2011-11-17,Temple,N,Western Michigan,REG (Non-Conf),W 69-55,*,33,3,12,0.25,2,6,0.333,1,6,0.167,0.333,3,4,0.75,3,4,7,2,4,1,4,3,11,7.6,N,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+2,46,3,2011-11-18,Temple,N,Purdue,REG (Non-Conf),L 77-85,*,27,4,6,0.667,1,3,0.333,3,3,1.0,0.75,3,4,0.75,0,3,3,2,3,0,2,4,12,10.7,N,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+3,47,4,2011-11-20,Temple,N,Wichita State,REG (Non-Conf),W 78-74 (OT),*,40,4,13,0.308,2,7,0.286,2,6,0.333,0.385,3,4,0.75,1,3,4,4,1,1,3,4,13,6.6,N,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+4,48,5,2011-11-27,Temple,@,Bowling Green,REG (Non-Conf),L 64-67,*,38,7,14,0.5,1,4,0.25,6,10,0.6,0.536,4,5,0.8,2,1,3,4,2,0,1,2,19,16.3,A,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+5,49,6,2011-12-03,Temple,,Central Michigan,REG (Non-Conf),W 86-74,*,31,5,6,0.833,3,4,0.75,2,2,1.0,1.083,10,10,1.0,0,3,3,7,1,0,2,2,23,24.8,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+6,50,7,2011-12-07,Temple,@,Toledo,REG (Non-Conf),W 77-58,,18,3,4,0.75,1,2,0.5,2,2,1.0,0.875,4,5,0.8,0,4,4,4,0,0,2,4,11,9.4,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+7,51,8,2011-12-10,Temple,,Villanova,REG (Non-Conf),W 78-67,*,32,6,14,0.429,1,5,0.2,5,9,0.556,0.464,0,0,,0,2,2,0,1,0,4,4,13,1.6,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+8,52,9,2011-12-17,Temple,@,Texas,REG (Non-Conf),L 65-77,*,38,8,14,0.571,4,7,0.571,4,7,0.571,0.714,4,7,0.571,0,1,1,1,2,1,2,3,24,16.7,A,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+9,53,10,2011-12-19,Temple,@,Rice,REG (Non-Conf),W 77-70,*,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,4,1.0,0,1,1,2,0,0,2,4,6,3.1,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+10,54,11,2011-12-28,Temple,,Buffalo,REG (Non-Conf),W 87-85 (OT),*,39,6,17,0.353,3,8,0.375,3,9,0.333,0.441,2,4,0.5,1,2,3,3,3,0,2,2,17,10.3,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+11,55,12,2011-12-30,Temple,@,Delaware,REG (Non-Conf),W 66-63,*,27,2,11,0.182,1,4,0.25,1,7,0.143,0.227,2,2,1.0,1,2,3,0,2,0,3,0,7,0.4,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+12,56,13,2012-01-04,Temple,N,Duke,REG (Non-Conf),W 78-73,*,30,8,12,0.667,3,5,0.6,5,7,0.714,0.792,3,6,0.5,2,2,4,3,5,0,2,4,22,21.1,N,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+13,57,14,2012-01-07,Temple,,Dayton,REG (Conf),L 77-87,*,36,9,21,0.429,5,10,0.5,4,11,0.364,0.548,5,6,0.833,1,3,4,3,2,1,0,4,28,21.3,H,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+14,58,15,2012-01-11,Temple,@,Saint Louis,REG (Conf),W 72-67,*,35,9,13,0.692,3,3,1.0,6,10,0.6,0.808,1,1,1.0,0,2,2,2,3,2,1,4,22,20.3,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+15,59,16,2012-01-14,Temple,@,Richmond,REG (Conf),L 65-76,*,35,7,14,0.5,2,5,0.4,5,9,0.556,0.571,6,6,1.0,2,2,4,3,2,1,2,3,22,18.6,A,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+16,60,17,2012-01-18,Temple,,La Salle,REG (Conf),W 76-70,*,36,3,6,0.5,0,2,0.0,3,4,0.75,0.5,6,6,1.0,1,1,2,4,1,1,4,2,12,9.7,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+17,61,18,2012-01-21,Temple,N,Maryland,REG (Non-Conf),W 73-60,*,39,8,16,0.5,2,7,0.286,6,9,0.667,0.563,2,2,1.0,1,4,5,7,1,0,1,3,20,17.6,N,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+18,62,19,2012-01-25,Temple,@,Charlotte,REG (Conf),W 79-57,*,30,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,3,0.667,0,2,2,6,5,0,5,0,12,13.1,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+19,63,20,2012-01-28,Temple,,Saint Joseph's,REG (Conf),W 78-60,*,34,1,5,0.2,1,3,0.333,0,2,0.0,0.3,7,7,1.0,0,2,2,8,4,0,3,3,10,12.9,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+20,64,21,2012-02-01,Temple,,Fordham,REG (Conf),W 78-60,*,34,8,14,0.571,1,5,0.2,7,9,0.778,0.607,7,8,0.875,1,3,4,1,1,0,4,1,24,15.9,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+21,65,22,2012-02-04,Temple,@,Rhode Island,REG (Conf),W 73-56,*,31,5,13,0.385,3,9,0.333,2,4,0.5,0.5,3,4,0.75,0,5,5,4,3,0,1,4,16,13.2,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+22,66,23,2012-02-08,Temple,,George Washington,REG (Conf),W 79-72,,28,5,9,0.556,0,2,0.0,5,7,0.714,0.556,12,13,0.923,1,3,4,2,2,1,1,2,22,21.2,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+23,67,24,2012-02-11,Temple,,Xavier,REG (Conf),W 85-72,*,36,5,12,0.417,2,6,0.333,3,6,0.5,0.5,6,8,0.75,0,2,2,4,3,0,4,1,18,12.8,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+24,68,25,2012-02-15,Temple,@,St. Bonaventure,REG (Conf),W 76-70,*,30,3,8,0.375,2,3,0.667,1,5,0.2,0.5,9,10,0.9,0,1,1,0,2,1,3,3,17,11.0,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+25,69,26,2012-02-18,Temple,,Duquesne,REG (Conf),W 78-59,*,39,11,17,0.647,1,4,0.25,10,13,0.769,0.676,1,1,1.0,1,4,5,3,0,1,4,2,24,16.4,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+26,70,27,2012-02-22,Temple,@,La Salle,REG (Conf),W 80-79 (OT),*,41,7,11,0.636,4,5,0.8,3,6,0.5,0.818,7,8,0.875,0,2,2,3,2,1,4,1,25,20.7,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+27,71,28,2012-02-25,Temple,@,Saint Joseph's,REG (Conf),L 72-82,*,27,3,8,0.375,1,2,0.5,2,6,0.333,0.438,4,6,0.667,2,1,3,2,1,0,0,4,11,8.3,A,0,1,khalif-wyatt-1,Khalif Wyatt,2012
+28,72,29,2012-02-29,Temple,,Massachusetts,REG (Conf),W 90-88 (OT),*,39,4,10,0.4,1,5,0.2,3,5,0.6,0.45,17,18,0.944,0,4,4,6,3,0,4,0,26,24.6,H,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+29,73,30,2012-03-03,Temple,@,Fordham,REG (Conf),W 80-60,*,36,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,4,1.0,2,3,5,7,2,0,2,0,10,12.8,A,1,1,khalif-wyatt-1,Khalif Wyatt,2012
+30,74,31,2012-03-09,Temple,N,Massachusetts,CTOURN,L 71-77,,27,5,8,0.625,0,2,0.0,5,6,0.833,0.625,5,5,1.0,0,2,2,4,5,0,3,3,15,15.6,N,0,0,khalif-wyatt-1,Khalif Wyatt,2012
+31,75,32,2012-03-16,Temple,N,South Florida,ROUND-64,L 44-58,*,39,5,13,0.385,1,6,0.167,4,7,0.571,0.423,8,9,0.889,0,2,2,2,3,1,1,4,19,14.6,N,0,0,khalif-wyatt-1,Khalif Wyatt,2012

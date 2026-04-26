@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Virginia Tech,,Radford,REG (Non-Conf),W 77-62,*,25,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,2,2,0,1,0,0,1,12,10.6,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+2,33,2,2020-11-28,Virginia Tech,N,Villanova,REG (Non-Conf),W 81-73 (OT),*,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,1,1,0,0,0,0,0,5,3.6,N,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+3,34,3,2020-11-29,Virginia Tech,N,South Florida,REG (Non-Conf),W 76-58,,21,3,5,0.6,1,3,0.333,2,2,1.0,0.7,6,8,0.75,0,1,1,2,0,0,2,1,13,9.2,N,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+4,35,4,2020-12-03,Virginia Tech,,VMI,REG (Non-Conf),W 64-57,,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,0,0,0,1,2,3,-1.3,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+5,36,5,2020-12-08,Virginia Tech,,Penn State,REG (Non-Conf),L 55-75,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,0,1,hunter-cattoor-1,Hunter Cattoor,2021
+6,37,6,2020-12-15,Virginia Tech,,Clemson,REG (Conf),W 66-60,,20,3,5,0.6,2,4,0.5,1,1,1.0,0.8,3,4,0.75,0,6,6,0,0,0,0,2,11,9.3,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+7,38,7,2020-12-19,Virginia Tech,,Coppin State,REG (Non-Conf),W 97-57,,19,3,4,0.75,2,3,0.667,1,1,1.0,1.0,3,4,0.75,0,1,1,5,1,0,0,4,11,12.2,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+8,39,8,2020-12-21,Virginia Tech,,Longwood,REG (Non-Conf),W 84-58,,24,3,7,0.429,1,5,0.2,2,2,1.0,0.5,1,1,1.0,0,3,3,3,2,0,1,1,8,7.9,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+9,40,9,2020-12-29,Virginia Tech,,Miami (FL),REG (Conf),W 80-78,,18,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,0,0,1,2,0,1,0,3,2.3,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+10,41,10,2021-01-06,Virginia Tech,@,Louisville,REG (Conf),L 71-73,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,3,1.0,0,2,2,1,0,0,1,0,7,6.0,A,0,1,hunter-cattoor-1,Hunter Cattoor,2021
+11,42,11,2021-01-10,Virginia Tech,,Notre Dame,REG (Conf),W 77-63,,26,5,10,0.5,3,5,0.6,2,5,0.4,0.65,2,2,1.0,1,3,4,0,2,1,1,2,15,12.5,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+12,43,12,2021-01-12,Virginia Tech,,Duke,REG (Conf),W 74-67,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,3,1,0,1,1,5,5.0,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+13,44,13,2021-01-17,Virginia Tech,@,Wake Forest,REG (Conf),W 64-60,,26,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,0,0,0,1,1,2,3,2,13,9.4,A,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+14,45,14,2021-01-23,Virginia Tech,@,Syracuse,REG (Conf),L 60-78,,28,1,5,0.2,1,5,0.2,0,0,,0.3,3,4,0.75,0,2,2,4,1,0,4,2,6,2.1,A,0,1,hunter-cattoor-1,Hunter Cattoor,2021
+15,46,15,2021-01-27,Virginia Tech,@,Notre Dame,REG (Conf),W 62-51,,24,4,9,0.444,4,7,0.571,0,2,0.0,0.667,1,2,0.5,0,3,3,1,3,0,1,0,13,11.5,A,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+16,47,16,2021-01-30,Virginia Tech,,Virginia,REG (Conf),W 65-51,,31,5,7,0.714,3,5,0.6,2,2,1.0,0.929,2,2,1.0,0,1,1,1,1,2,0,0,15,15.5,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+17,48,17,2021-02-03,Virginia Tech,@,Pittsburgh,REG (Conf),L 72-83,,24,4,10,0.4,2,7,0.286,2,3,0.667,0.5,2,2,1.0,0,2,2,2,0,1,1,5,12,6.3,A,0,1,hunter-cattoor-1,Hunter Cattoor,2021
+18,49,18,2021-02-06,Virginia Tech,@,Miami (FL),REG (Conf),W 80-76 (OT),,35,4,11,0.364,4,8,0.5,0,3,0.0,0.545,2,2,1.0,1,2,3,1,0,2,2,1,14,8.9,A,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+19,50,19,2021-02-23,Virginia Tech,,Georgia Tech,REG (Conf),L 53-69,,25,1,2,0.5,1,1,1.0,0,1,0.0,0.75,1,2,0.5,0,1,1,2,0,0,3,3,4,0.1,H,0,1,hunter-cattoor-1,Hunter Cattoor,2021
+20,51,20,2021-02-27,Virginia Tech,,Wake Forest,REG (Conf),W 84-46,,25,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,2,2,2,2,3,1,1,0,1.2,H,1,1,hunter-cattoor-1,Hunter Cattoor,2021
+21,52,21,2021-03-11,Virginia Tech,N,North Carolina,CTOURN,L 73-81,,20,1,2,0.5,1,2,0.5,0,0,,0.75,3,5,0.6,0,0,0,1,0,0,2,3,6,1.7,N,0,0,hunter-cattoor-1,Hunter Cattoor,2021
+22,53,22,2021-03-19,Virginia Tech,N,Florida,ROUND-64,L 70-75 (OT),,29,4,11,0.364,3,10,0.3,1,1,1.0,0.5,0,0,,0,3,3,0,3,0,1,3,11,6.6,N,0,0,hunter-cattoor-1,Hunter Cattoor,2021

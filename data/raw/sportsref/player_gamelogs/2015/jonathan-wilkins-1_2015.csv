@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,New Mexico State,@,Wichita State,REG (Non-Conf),L 54-71,,13,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,1,0,0,2,0,1.2,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+2,2,2,2014-11-18,New Mexico State,@,St. Mary's (CA),REG (Non-Conf),L 71-83,,4,0,0,,0,0,,0,0,,,0,1,0.0,0,0,0,0,1,0,1,1,0,-0.8,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+3,3,3,2014-11-19,New Mexico State,,Northern Colorado,REG (Non-Conf),W 86-65,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,0,0,0,0,0,0,3,2,0.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+4,4,4,2014-11-22,New Mexico State,@,UTEP,REG (Non-Conf),L 76-77,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,1,2,0,1,0,1,1,4,2.9,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+5,5,5,2014-11-24,New Mexico State,,Stetson,REG (Non-Conf),W 88-68,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,0,2,0,0,0,2,5,4,0.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+6,6,6,2014-11-26,New Mexico State,,Florida A&M,REG (Non-Conf),W 78-33,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,1,0,0,0,0,4,4.4,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+7,7,7,2014-11-29,New Mexico State,@,Wyoming,REG (Non-Conf),L 75-78,,10,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+8,8,8,2014-12-03,New Mexico State,@,New Mexico,REG (Non-Conf),L 47-62,,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,3,1,4,1,0,1,1,1,2,4.1,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+9,9,9,2014-12-06,New Mexico State,,UTEP,REG (Non-Conf),W 71-64,,13,0,1,0.0,0,0,,0,1,0.0,0.0,5,8,0.625,1,0,1,0,0,1,1,4,5,1.9,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+10,10,10,2014-12-13,New Mexico State,@,Oral Roberts,REG (Non-Conf),L 83-86,,21,1,5,0.2,0,0,,1,5,0.2,0.2,7,8,0.875,7,0,7,1,1,0,2,4,9,8.5,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+11,11,11,2014-12-17,New Mexico State,@,Baylor,REG (Non-Conf),L 55-66,*,33,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,4,5,2,1,1,1,2,8,9.3,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+12,12,12,2014-12-20,New Mexico State,,New Mexico,REG (Non-Conf),L 67-69,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,4,4,1.0,3,1,4,0,0,0,3,0,8,4.7,H,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+13,13,13,2014-12-22,New Mexico State,,N New Mexico,REG (Non-Conf),W 78-39,*,32,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,2,3,5,2,0,0,2,3,7,4.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+14,14,14,2014-12-27,New Mexico State,,Colorado State,REG (Non-Conf),L 57-58 (OT),*,35,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,4,6,0,0,0,4,4,6,-0.7,H,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+15,15,15,2014-12-30,New Mexico State,,Texas Southern,REG (Non-Conf),W 54-52,*,35,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,4,1,5,1,0,0,3,2,7,2.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+16,16,16,2015-01-03,New Mexico State,,UC Irvine,REG (Non-Conf),W 70-67,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,1,4,0.25,2,3,5,0,0,0,1,2,3,0.6,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+17,17,17,2015-01-06,New Mexico State,,N.M. Highlands,REG (Non-Conf),W 75-67,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,0,2,0.0,3,0,3,0,0,1,0,4,8,5.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+18,18,18,2015-01-10,New Mexico State,,Kansas City,REG (Conf),W 63-45,*,28,0,3,0.0,0,0,,0,3,0.0,0.0,1,4,0.25,3,0,3,0,0,2,2,3,1,-2.0,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+19,19,19,2015-01-15,New Mexico State,@,Cal State Bakersfield,REG (Conf),W 70-54,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,6,6,1,1,0,2,1,2,2.8,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+20,20,20,2015-01-17,New Mexico State,@,Seattle,REG (Conf),L 52-58,*,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,1,0,1,2,3.0,A,0,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+21,21,21,2015-01-22,New Mexico State,,Grand Canyon,REG (Conf),W 85-63,,20,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,1,0,0,0,3,4,3.5,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+22,22,22,2015-01-24,New Mexico State,,Utah Valley,REG (Conf),W 69-44,,18,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,0,2,2,1,0,1,0,2,1,-0.3,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+23,23,23,2015-01-31,New Mexico State,,Texas–Pan American,REG (Conf),W 53-48,,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,2,2,1,0,0.3,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+24,24,24,2015-02-05,New Mexico State,@,Chicago State,REG (Conf),W 69-61 (OT),,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,1,0,0,2,0,2,1.7,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+25,25,25,2015-02-07,New Mexico State,@,Kansas City,REG (Conf),W 77-63,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,1,0,0,1,0,1.3,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+26,26,26,2015-02-12,New Mexico State,,Seattle,REG (Conf),W 73-47,,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,1,3,1,2,0,1,3,0,1.5,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+27,27,27,2015-02-14,New Mexico State,,Cal State Bakersfield,REG (Conf),W 74-58,,18,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,0,0,1,2,2,0.1,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+28,28,28,2015-02-19,New Mexico State,@,Utah Valley,REG (Conf),W 51-38,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+29,29,29,2015-02-21,New Mexico State,@,Grand Canyon,REG (Conf),W 72-55,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,0,0,1.0,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+30,30,30,2015-03-04,New Mexico State,@,Texas–Pan American,REG (Conf),W 69-48,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,0,0,2,2.4,A,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+31,31,31,2015-03-07,New Mexico State,,Chicago State,REG (Conf),W 61-57,,12,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,1,0,0,0,0,2,1.0,H,1,1,jonathan-wilkins-1,Johnathon Wilkins,2015
+32,32,32,2015-03-13,New Mexico State,N,Cal State Bakersfield,CTOURN,W 57-53,,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,3,0,1,0,1,2,3.4,N,1,0,jonathan-wilkins-1,Johnathon Wilkins,2015
+33,33,33,2015-03-14,New Mexico State,N,Seattle,CTOURN,W 80-61,,13,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,0,0,0,0,1,4,1.9,N,1,0,jonathan-wilkins-1,Johnathon Wilkins,2015
+34,34,34,2015-03-20,New Mexico State,N,Kansas,ROUND-64,L 56-75,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,2,2,1.6,N,0,0,jonathan-wilkins-1,Johnathon Wilkins,2015

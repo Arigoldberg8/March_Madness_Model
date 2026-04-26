@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,107,1,2014-11-14,New Mexico State,@,Wichita State,REG (Non-Conf),L 54-71,*,30,4,7,0.571,1,2,0.5,3,5,0.6,0.643,5,6,0.833,0,6,6,0,2,1,4,2,14,10.0,A,0,1,daniel-mullings-1,Daniel Mullings,2015
+2,108,2,2014-11-18,New Mexico State,@,St. Mary's (CA),REG (Non-Conf),L 71-83,*,26,6,12,0.5,0,2,0.0,6,10,0.6,0.5,6,9,0.667,2,4,6,1,2,1,5,5,18,9.8,A,0,1,daniel-mullings-1,Daniel Mullings,2015
+3,109,3,2014-11-19,New Mexico State,,Northern Colorado,REG (Non-Conf),W 86-65,*,32,5,10,0.5,1,2,0.5,4,8,0.5,0.55,9,12,0.75,3,5,8,6,3,0,1,1,20,23.2,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+4,110,4,2014-11-22,New Mexico State,@,UTEP,REG (Non-Conf),L 76-77,*,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,2,3,5,4,0,0,2,4,6,3.3,A,0,1,daniel-mullings-1,Daniel Mullings,2015
+5,111,5,2014-11-24,New Mexico State,,Stetson,REG (Non-Conf),W 88-68,*,25,2,8,0.25,0,2,0.0,2,6,0.333,0.25,3,4,0.75,8,7,15,2,2,0,2,1,7,10.5,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+6,112,6,2014-11-26,New Mexico State,,Florida A&M,REG (Non-Conf),W 78-33,*,16,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,2,0.0,2,2,4,1,3,0,0,3,11,11.1,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+7,113,7,2014-11-29,New Mexico State,@,Wyoming,REG (Non-Conf),L 75-78,*,32,7,13,0.538,1,3,0.333,6,10,0.6,0.577,6,7,0.857,3,3,6,1,1,0,0,4,21,17.4,A,0,1,daniel-mullings-1,Daniel Mullings,2015
+8,114,8,2014-12-03,New Mexico State,@,New Mexico,REG (Non-Conf),L 47-62,*,36,3,10,0.3,1,1,1.0,2,9,0.222,0.35,3,6,0.5,3,6,9,1,3,1,6,3,10,4.1,A,0,1,daniel-mullings-1,Daniel Mullings,2015
+9,115,21,2015-01-22,New Mexico State,,Grand Canyon,REG (Conf),W 85-63,,21,4,5,0.8,1,1,1.0,3,4,0.75,0.9,8,10,0.8,1,2,3,5,0,0,1,3,17,16.9,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+10,116,22,2015-01-24,New Mexico State,,Utah Valley,REG (Conf),W 69-44,,20,1,11,0.091,1,1,1.0,0,10,0.0,0.136,7,8,0.875,4,1,5,2,1,0,1,0,10,6.8,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+11,117,23,2015-01-31,New Mexico State,,Texas–Pan American,REG (Conf),W 53-48,,27,4,6,0.667,3,3,1.0,1,3,0.333,0.917,3,6,0.5,0,2,2,0,1,1,4,1,14,8.1,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+12,118,24,2015-02-05,New Mexico State,@,Chicago State,REG (Conf),W 69-61 (OT),,27,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,5,0.4,1,2,3,1,2,1,2,2,12,8.7,A,1,1,daniel-mullings-1,Daniel Mullings,2015
+13,119,25,2015-02-07,New Mexico State,@,Kansas City,REG (Conf),W 77-63,*,35,3,10,0.3,0,2,0.0,3,8,0.375,0.3,12,13,0.923,5,6,11,6,1,0,6,2,18,15.5,A,1,1,daniel-mullings-1,Daniel Mullings,2015
+14,120,26,2015-02-12,New Mexico State,,Seattle,REG (Conf),W 73-47,*,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,3,4,0.75,0,3,3,2,1,0,1,3,5,1.9,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+15,121,27,2015-02-14,New Mexico State,,Cal State Bakersfield,REG (Conf),W 74-58,*,32,4,9,0.444,0,2,0.0,4,7,0.571,0.444,6,8,0.75,1,2,3,5,1,0,0,3,14,13.1,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+16,122,28,2015-02-19,New Mexico State,@,Utah Valley,REG (Conf),W 51-38,*,30,3,11,0.273,0,1,0.0,3,10,0.3,0.273,5,6,0.833,1,1,2,2,3,1,3,3,11,6.0,A,1,1,daniel-mullings-1,Daniel Mullings,2015
+17,123,29,2015-02-21,New Mexico State,@,Grand Canyon,REG (Conf),W 72-55,*,36,6,10,0.6,0,1,0.0,6,9,0.667,0.6,4,7,0.571,2,1,3,5,2,2,1,4,16,16.2,A,1,1,daniel-mullings-1,Daniel Mullings,2015
+18,124,30,2015-03-04,New Mexico State,@,Texas–Pan American,REG (Conf),W 69-48,*,23,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,3,0.667,3,0,3,2,3,0,2,4,12,9.5,A,1,1,daniel-mullings-1,Daniel Mullings,2015
+19,125,31,2015-03-07,New Mexico State,,Chicago State,REG (Conf),W 61-57,*,33,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,0,6,6,4,3,1,4,2,7,6.4,H,1,1,daniel-mullings-1,Daniel Mullings,2015
+20,126,32,2015-03-13,New Mexico State,N,Cal State Bakersfield,CTOURN,W 57-53,*,33,6,12,0.5,1,3,0.333,5,9,0.556,0.542,1,3,0.333,0,1,1,2,2,0,2,1,14,8.5,N,1,0,daniel-mullings-1,Daniel Mullings,2015
+21,127,33,2015-03-14,New Mexico State,N,Seattle,CTOURN,W 80-61,*,33,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,5,0.8,0,1,1,7,6,0,3,3,8,11.9,N,1,0,daniel-mullings-1,Daniel Mullings,2015
+22,128,34,2015-03-20,New Mexico State,N,Kansas,ROUND-64,L 56-75,*,35,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,1,2,3,0,5,0,1,4,7,5.9,N,0,0,daniel-mullings-1,Daniel Mullings,2015

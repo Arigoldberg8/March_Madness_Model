@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2015-11-13,VCU,,Prairie View A&M,REG (Non-Conf),W 75-50,,24,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,0,7,7,2,0,0,0,1,7,7.1,H,1,1,korey-billbury-1,Korey Billbury,2016
+2,98,2,2015-11-16,VCU,,Radford,REG (Non-Conf),W 92-74,,23,5,12,0.417,1,4,0.25,4,8,0.5,0.458,4,5,0.8,3,3,6,2,0,1,2,1,15,10.9,H,1,1,korey-billbury-1,Korey Billbury,2016
+3,99,3,2015-11-20,VCU,N,Duke,REG (Non-Conf),L 71-79,,23,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,0,,0,3,3,3,2,0,2,4,8,4.0,N,0,1,korey-billbury-1,Korey Billbury,2016
+4,100,4,2015-11-22,VCU,N,Wisconsin,REG (Non-Conf),L 73-74,,35,5,12,0.417,1,3,0.333,4,9,0.444,0.458,6,9,0.667,2,1,3,2,3,0,1,3,17,13.3,N,0,1,korey-billbury-1,Korey Billbury,2016
+5,101,5,2015-11-25,VCU,,American,REG (Non-Conf),W 72-44,*,24,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,6,0.667,6,2,8,2,2,0,0,3,12,13.5,H,1,1,korey-billbury-1,Korey Billbury,2016
+6,102,6,2015-11-28,VCU,,Old Dominion,REG (Non-Conf),W 76-67,*,26,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,2,0.0,0,5,5,3,1,0,3,3,7,5.0,H,1,1,korey-billbury-1,Korey Billbury,2016
+7,103,7,2015-12-02,VCU,@,Middle Tennessee,REG (Non-Conf),W 62-56,*,31,4,8,0.5,2,3,0.667,2,5,0.4,0.625,1,2,0.5,1,6,7,0,2,0,1,2,11,9.3,A,1,1,korey-billbury-1,Korey Billbury,2016
+8,104,8,2015-12-06,VCU,N,Florida State,REG (Non-Conf),L 71-76,*,31,4,13,0.308,1,3,0.333,3,10,0.3,0.346,2,2,1.0,0,5,5,2,1,1,3,3,11,3.9,N,0,1,korey-billbury-1,Korey Billbury,2016
+9,105,9,2015-12-15,VCU,@,Georgia Tech,REG (Non-Conf),L 64-77,,26,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,4,5,2,2,0,0,2,6,6.1,A,0,1,korey-billbury-1,Korey Billbury,2016
+10,106,10,2015-12-19,VCU,,Cincinnati,REG (Non-Conf),L 63-69,*,37,7,15,0.467,4,8,0.5,3,7,0.429,0.6,4,6,0.667,2,7,9,1,1,0,2,2,22,15.9,H,0,1,korey-billbury-1,Korey Billbury,2016
+11,107,11,2015-12-22,VCU,,Buffalo,REG (Non-Conf),W 90-69,*,27,7,13,0.538,1,4,0.25,6,9,0.667,0.577,0,0,,0,6,6,3,3,0,2,2,15,12.8,H,1,1,korey-billbury-1,Korey Billbury,2016
+12,108,12,2015-12-27,VCU,,Liberty,REG (Non-Conf),W 85-57,,15,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,0,0,0,0,0,0,0,2,9,5.9,H,1,1,korey-billbury-1,Korey Billbury,2016
+13,109,13,2015-12-30,VCU,,North Florida,REG (Non-Conf),W 80-68,,31,10,18,0.556,2,4,0.5,8,14,0.571,0.611,0,1,0.0,2,1,3,1,4,0,2,1,22,17.0,H,1,1,korey-billbury-1,Korey Billbury,2016
+14,110,14,2016-01-02,VCU,,George Mason,REG (Conf),W 71-47,,29,4,14,0.286,0,3,0.0,4,11,0.364,0.286,2,5,0.4,2,4,6,1,0,0,2,0,10,1.9,H,1,1,korey-billbury-1,Korey Billbury,2016
+15,111,15,2016-01-05,VCU,@,Saint Joseph's,REG (Conf),W 85-82,,28,2,9,0.222,0,2,0.0,2,7,0.286,0.222,1,2,0.5,5,3,8,0,0,0,0,3,5,2.3,A,1,1,korey-billbury-1,Korey Billbury,2016
+16,112,16,2016-01-10,VCU,@,Saint Louis,REG (Conf),W 72-56,*,29,5,8,0.625,4,6,0.667,1,2,0.5,0.875,0,2,0.0,1,2,3,2,1,0,2,2,14,10.5,A,1,1,korey-billbury-1,Korey Billbury,2016
+17,113,17,2016-01-13,VCU,,Fordham,REG (Conf),W 88-54,*,28,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,1,1,2,0,0,2,1,10,6.7,H,1,1,korey-billbury-1,Korey Billbury,2016
+18,114,18,2016-01-16,VCU,@,Richmond,REG (Conf),W 94-89 (OT),*,40,8,16,0.5,2,3,0.667,6,13,0.462,0.563,2,3,0.667,4,4,8,0,3,0,3,3,20,14.4,A,1,1,korey-billbury-1,Korey Billbury,2016
+19,115,19,2016-01-20,VCU,,Duquesne,REG (Conf),W 93-71,*,30,3,8,0.375,1,1,1.0,2,7,0.286,0.438,2,2,1.0,3,3,6,1,0,0,2,1,9,5.9,H,1,1,korey-billbury-1,Korey Billbury,2016
+20,116,20,2016-01-24,VCU,,St. Bonaventure,REG (Conf),W 84-76,*,17,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,1,0.0,0,2,2,2,1,0,0,3,0,-2.1,H,1,1,korey-billbury-1,Korey Billbury,2016
+21,117,21,2016-01-29,VCU,@,Davidson,REG (Conf),W 79-69,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,4,4,2,0,0,1,3,4,2.7,A,1,1,korey-billbury-1,Korey Billbury,2016
+22,118,22,2016-02-03,VCU,@,La Salle,REG (Conf),W 88-70,*,31,3,12,0.25,0,4,0.0,3,8,0.375,0.25,2,4,0.5,2,5,7,0,0,0,0,1,8,2.5,A,1,1,korey-billbury-1,Korey Billbury,2016
+23,119,23,2016-02-06,VCU,,George Washington,REG (Conf),L 69-72,*,26,3,10,0.3,1,3,0.333,2,7,0.286,0.35,0,0,,4,5,9,0,1,0,1,1,7,5.1,H,0,1,korey-billbury-1,Korey Billbury,2016
+24,120,24,2016-02-11,VCU,@,Massachusetts,REG (Conf),L 63-69,*,28,5,11,0.455,0,1,0.0,5,10,0.5,0.455,5,6,0.833,1,0,1,1,0,0,0,5,15,8.3,A,0,1,korey-billbury-1,Korey Billbury,2016
+25,121,25,2016-02-13,VCU,,Saint Louis,REG (Conf),W 85-52,*,26,8,11,0.727,4,6,0.667,4,5,0.8,0.909,0,1,0.0,2,1,3,1,4,0,3,1,20,18.1,H,1,1,korey-billbury-1,Korey Billbury,2016
+26,122,26,2016-02-16,VCU,,Rhode Island,REG (Conf),W 83-67,*,32,3,8,0.375,2,4,0.5,1,4,0.25,0.5,6,8,0.75,3,3,6,1,1,0,1,1,14,12.1,H,1,1,korey-billbury-1,Korey Billbury,2016
+27,123,27,2016-02-19,VCU,,Richmond,REG (Conf),W 87-74,*,24,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,6,6,1,0,0,1,1,2,-0.7,H,1,1,korey-billbury-1,Korey Billbury,2016
+28,124,28,2016-02-24,VCU,@,George Mason,REG (Conf),L 69-76,*,30,6,14,0.429,1,2,0.5,5,12,0.417,0.464,0,0,,2,2,4,1,2,0,0,4,13,8.7,A,0,1,korey-billbury-1,Korey Billbury,2016
+29,125,29,2016-02-27,VCU,@,George Washington,REG (Conf),W 69-65,*,20,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,4,5,0,0,0,2,3,6,1.7,A,1,1,korey-billbury-1,Korey Billbury,2016
+30,126,30,2016-03-02,VCU,,Davidson,REG (Conf),W 70-60,*,35,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,1,2,3,1,1,1,2,2,9,5.9,H,1,1,korey-billbury-1,Korey Billbury,2016
+31,127,31,2016-03-05,VCU,@,Dayton,REG (Conf),L 67-68 (OT),*,44,6,15,0.4,2,5,0.4,4,10,0.4,0.467,2,4,0.5,2,5,7,1,0,0,1,4,16,8.1,A,0,1,korey-billbury-1,Korey Billbury,2016
+32,128,32,2016-03-11,VCU,N,Massachusetts,CTOURN,W 85-70,*,29,2,11,0.182,1,4,0.25,1,7,0.143,0.227,7,8,0.875,2,3,5,0,1,0,2,2,12,5.2,N,1,0,korey-billbury-1,Korey Billbury,2016
+33,129,33,2016-03-12,VCU,N,Davidson,CTOURN,W 76-54,*,27,7,15,0.467,3,5,0.6,4,10,0.4,0.567,0,0,,1,6,7,1,1,0,0,3,17,12.3,N,1,0,korey-billbury-1,Korey Billbury,2016
+34,130,34,2016-03-13,VCU,N,Saint Joseph's,CTOURN,L 74-87,*,33,8,21,0.381,2,8,0.25,6,13,0.462,0.429,1,1,1.0,1,1,2,1,1,0,1,5,19,7.2,N,0,0,korey-billbury-1,Korey Billbury,2016
+35,131,35,2016-03-18,VCU,N,Oregon State,ROUND-64,W 75-67,*,30,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,3,0.667,2,0,2,0,0,0,3,1,6,0.2,N,1,0,korey-billbury-1,Korey Billbury,2016
+36,132,36,2016-03-20,VCU,N,Oklahoma,ROUND-32,L 81-85,*,18,0,6,0.0,0,1,0.0,0,5,0.0,0.0,3,4,0.75,2,1,3,2,0,0,1,4,3,-1.1,N,0,0,korey-billbury-1,Korey Billbury,2016

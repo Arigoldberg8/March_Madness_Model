@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,108,1,2022-11-07,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 80-57,*,23,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,1,5,6,0,1,1,0,3,10,10.5,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+2,109,2,2022-11-11,San Diego State,,Brigham Young,REG (Non-Conf),W 82-75,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,6,8,0.75,4,6,10,1,4,3,1,2,14,20.2,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+3,110,3,2022-11-15,San Diego State,@,Stanford,REG (Non-Conf),W 74-62,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,5,6,0,0,0,3,2,2,-1.0,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+4,111,4,2022-11-21,San Diego State,N,Ohio State,REG (Non-Conf),W 88-77,*,23,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,3,5,0,0,4,1,2,2,3.6,N,1,1,nathan-mensah-1,Nathan Mensah,2023
+5,112,5,2022-11-22,San Diego State,N,Arizona,REG (Non-Conf),L 70-87,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,3,4,7,0,2,1,0,2,9,12.9,N,0,1,nathan-mensah-1,Nathan Mensah,2023
+6,113,6,2022-11-23,San Diego State,N,Arkansas,REG (Non-Conf),L 74-78 (OT),*,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,1,1,0,2,5,2,0.3,N,0,1,nathan-mensah-1,Nathan Mensah,2023
+7,114,7,2022-11-29,San Diego State,,UC Irvine,REG (Non-Conf),W 72-69,*,26,7,11,0.636,0,0,,7,11,0.636,0.636,4,6,0.667,1,5,6,0,1,1,2,2,18,13.4,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+8,115,8,2022-12-02,San Diego State,,Occidental,REG (Non-Conf),W 95-57,*,9,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,1,1,1,0,0,4,5.4,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+9,116,9,2022-12-05,San Diego State,,Troy,REG (Non-Conf),W 60-55,*,31,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,4,5,9,2,1,1,1,0,7,10.7,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+10,117,10,2022-12-10,San Diego State,N,St. Mary's (CA),REG (Non-Conf),L 61-68,*,18,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,2,4,0,0,1,2,5,4,0.7,N,0,1,nathan-mensah-1,Nathan Mensah,2023
+11,118,11,2022-12-12,San Diego State,,Kennesaw State,REG (Non-Conf),W 88-54,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,8,9,0,0,3,0,1,6,8.8,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+12,119,12,2022-12-20,San Diego State,,UC San Diego,REG (Non-Conf),W 62-46,,17,2,7,0.286,1,1,1.0,1,6,0.167,0.357,1,2,0.5,0,3,3,0,1,2,4,1,6,0.4,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+13,120,13,2022-12-28,San Diego State,,Air Force,REG (Conf),W 71-55,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,5,7,0,0,2,1,1,2,2.5,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+14,121,14,2022-12-31,San Diego State,@,UNLV,REG (Conf),W 76-67,*,26,0,5,0.0,0,0,,0,5,0.0,0.0,3,4,0.75,4,7,11,1,1,3,1,1,3,6.4,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+15,122,15,2023-01-07,San Diego State,@,Wyoming,REG (Conf),W 80-75,*,18,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,2,1,3,2,1,1,0,2,7,8.0,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+16,123,16,2023-01-10,San Diego State,,Nevada,REG (Conf),W 74-65,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,2,3,5,2,1,0,0,0,8,11.1,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+17,124,17,2023-01-14,San Diego State,,New Mexico,REG (Conf),L 67-76,*,21,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,4,5,0,1,2,2,5,8,7.1,H,0,1,nathan-mensah-1,Nathan Mensah,2023
+18,125,18,2023-01-18,San Diego State,@,Colorado State,REG (Conf),W 82-76 (OT),*,25,2,6,0.333,0,0,,2,6,0.333,0.333,2,3,0.667,2,4,6,0,1,3,0,3,6,6.7,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+19,126,19,2023-01-21,San Diego State,@,Air Force,REG (Conf),W 70-60,*,14,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,4,2,6,0,0,2,1,3,4,3.2,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+20,127,20,2023-01-25,San Diego State,,Utah State,REG (Conf),W 85-75,*,20,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,2,2,4,0,1,0,0,1,10,9.2,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+21,128,21,2023-01-28,San Diego State,,San Jose State,REG (Conf),W 72-51,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,2,6,8,0,0,0,1,3,8,6.7,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+22,129,22,2023-01-31,San Diego State,@,Nevada,REG (Conf),L 66-75,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,3,1,4,0,0,0,3,3,4,0.5,A,0,1,nathan-mensah-1,Nathan Mensah,2023
+23,130,23,2023-02-03,San Diego State,,Boise State,REG (Conf),W 72-52,*,25,4,4,1.0,0,0,,4,4,1.0,1.0,9,12,0.75,1,5,6,0,0,2,1,1,17,16.8,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+24,131,24,2023-02-08,San Diego State,@,Utah State,REG (Conf),W 63-61,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,3,0,1,0,3.0,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+25,132,25,2023-02-11,San Diego State,,UNLV,REG (Conf),W 82-71,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,3,5,0.6,7,4,11,0,0,0,1,2,11,11.2,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+26,133,26,2023-02-15,San Diego State,@,Fresno State,REG (Conf),W 45-43,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,2,6,0.333,2,6,8,2,0,4,1,1,8,10.1,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+27,134,27,2023-02-21,San Diego State,,Colorado State,REG (Conf),W 77-58,*,16,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,2,3,0,2,1,1,3,6,6.2,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+28,135,28,2023-02-25,San Diego State,@,New Mexico,REG (Conf),W 73-71,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,3,6,1,2,1,1,4,6,8.9,A,1,1,nathan-mensah-1,Nathan Mensah,2023
+29,136,29,2023-02-28,San Diego State,@,Boise State,REG (Conf),L 60-66,*,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,1,3,2,0,2,1,2,2,3.0,A,0,1,nathan-mensah-1,Nathan Mensah,2023
+30,137,30,2023-03-04,San Diego State,,Wyoming,REG (Conf),W 67-50,*,20,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,2,1,3,1,0,1,2,1,4,3.3,H,1,1,nathan-mensah-1,Nathan Mensah,2023
+31,138,31,2023-03-09,San Diego State,N,Colorado State,CTOURN,W 64-61,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,2,2,4,0,1,1,2,3,4,2.7,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+32,139,32,2023-03-10,San Diego State,N,San Jose State,CTOURN,W 64-49,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,5,8,2,0,2,0,0,3,8.0,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+33,140,33,2023-03-11,San Diego State,N,Utah State,CTOURN,W 62-57,*,16,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,6,8,1,0,2,0,2,1,3.7,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+34,141,34,2023-03-16,San Diego State,N,College of Charleston,ROUND-64,W 63-57,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,3,4,0,0,2,1,3,2,1.0,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+35,142,35,2023-03-18,San Diego State,N,Furman,ROUND-32,W 75-52,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,6,9,1,0,2,0,2,6,10.3,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+36,143,36,2023-03-24,San Diego State,N,Alabama,ROUND-16,W 71-64,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,2,6,0.333,3,5,8,1,1,5,1,1,4,8.1,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+37,144,37,2023-03-26,San Diego State,N,Creighton,ROUND-8,W 57-56,*,19,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,1,5,6,0,0,3,0,0,8,7.9,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+38,145,38,2023-04-01,San Diego State,N,Florida Atlantic,NATIONAL-SEMI,W 72-71,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,0,6,6,0,0,1,2,4,7,2.9,N,1,0,nathan-mensah-1,Nathan Mensah,2023
+39,146,39,2023-04-03,San Diego State,N,Connecticut,NATIONAL-FINAL,L 59-76,*,23,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,4,2,6,0,2,1,1,3,1,1.7,N,0,0,nathan-mensah-1,Nathan Mensah,2023

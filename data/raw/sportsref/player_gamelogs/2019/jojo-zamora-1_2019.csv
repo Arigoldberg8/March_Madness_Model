@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-06,New Mexico State,,North Dakota State,REG (Non-Conf),W 73-56,*,19,7,14,0.5,1,5,0.2,6,9,0.667,0.536,1,1,1.0,2,3,5,0,0,0,0,1,16,10.9,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+2,34,2,2018-11-09,New Mexico State,,UTEP,REG (Non-Conf),W 96-69,*,17,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,0,1,1,1,0,0,2,3,6,-0.6,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+3,35,3,2018-11-14,New Mexico State,,St. Mary's (CA),REG (Non-Conf),L 58-73,*,19,1,7,0.143,0,3,0.0,1,4,0.25,0.143,1,2,0.5,1,1,2,0,0,0,1,1,3,-2.3,H,0,1,jojo-zamora-1,JoJo Zamora,2019
+4,36,4,2018-11-17,New Mexico State,@,New Mexico,REG (Non-Conf),W 98-94,*,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,2,0,-4.2,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+5,37,5,2018-11-21,New Mexico State,,Eastern N.M.,REG (Non-Conf),W 92-65,,21,3,11,0.273,1,4,0.25,2,7,0.286,0.318,0,0,,2,1,3,2,1,1,0,0,7,5.3,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+6,38,6,2018-11-28,New Mexico State,@,UTEP,REG (Non-Conf),W 62-58,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,2,1,2,-1.1,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+7,39,7,2018-12-01,New Mexico State,,Washington State,REG (Non-Conf),W 69-63,,13,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,1,1,1,1,0,0,1,5,3.9,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+8,40,8,2018-12-04,New Mexico State,,New Mexico,REG (Non-Conf),W 100-65,*,18,9,10,0.9,6,6,1.0,3,4,0.75,1.2,3,4,0.75,0,0,0,3,1,0,1,2,27,24.5,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+9,41,9,2018-12-08,New Mexico State,N,Kansas,REG (Non-Conf),L 60-63,*,29,5,9,0.556,4,7,0.571,1,2,0.5,0.778,1,3,0.333,0,3,3,0,2,1,4,0,15,9.5,N,0,1,jojo-zamora-1,JoJo Zamora,2019
+10,42,10,2018-12-17,New Mexico State,,Northern Colorado,REG (Non-Conf),W 74-62,*,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,1,2,0,0,0,0,0,2,-0.1,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+11,43,11,2018-12-19,New Mexico State,,Cal State Northridge,REG (Non-Conf),W 92-57,*,11,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,1,9,5.9,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+12,44,12,2018-12-22,New Mexico State,N,Drake,REG (Non-Conf),L 63-66,*,16,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,3,0.0,2,2,4,0,1,0,2,0,6,0.7,N,0,1,jojo-zamora-1,JoJo Zamora,2019
+13,45,13,2018-12-23,New Mexico State,N,Washington State,REG (Non-Conf),W 75-72,*,34,9,11,0.818,6,8,0.75,3,3,1.0,1.091,4,4,1.0,1,3,4,7,2,0,3,1,28,29.0,N,1,1,jojo-zamora-1,JoJo Zamora,2019
+14,46,14,2018-12-30,New Mexico State,@,Colorado State,REG (Non-Conf),W 88-68,*,26,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,2,3,5,4,0,0,0,2,7,6.5,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+15,47,15,2019-01-03,New Mexico State,@,California Baptist,REG (Conf),L 76-82,*,32,4,10,0.4,1,5,0.2,3,5,0.6,0.45,4,4,1.0,0,2,2,0,2,0,0,4,13,8.6,A,0,1,jojo-zamora-1,JoJo Zamora,2019
+16,48,16,2019-01-10,New Mexico State,,Grand Canyon,REG (Conf),W 77-75,*,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,2,3,0,0,1,2,0,2,-1.1,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+17,49,17,2019-01-12,New Mexico State,,Cal State Bakersfield,REG (Conf),W 73-62,*,12,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,3,3,1,0,0,0,1,2,-0.6,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+18,50,18,2019-01-17,New Mexico State,@,Seattle,REG (Conf),W 87-60,,11,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,0,,0,0,0,0,0,0,1,3,12,7.6,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+19,51,19,2019-01-19,New Mexico State,@,Utah Valley,REG (Conf),W 83-78,,23,4,7,0.571,2,2,1.0,2,5,0.4,0.714,3,3,1.0,1,0,1,0,0,0,0,4,13,8.8,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+20,52,20,2019-01-26,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 63-61,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.2,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+21,53,21,2019-01-31,New Mexico State,,Kansas City,REG (Conf),W 70-54,,12,1,6,0.167,0,4,0.0,1,2,0.5,0.167,5,5,1.0,2,3,5,0,0,0,1,0,7,4.5,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+22,54,22,2019-02-02,New Mexico State,,Chicago State,REG (Conf),W 83-39,,11,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,0,0,1,0,0,0,0,6,4.0,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+23,55,23,2019-02-07,New Mexico State,@,Cal State Bakersfield,REG (Conf),W 71-70 (OT),,4,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-1.5,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+24,56,24,2019-02-09,New Mexico State,@,Grand Canyon,REG (Conf),W 67-64,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,0,2,1.3,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+25,57,25,2019-02-14,New Mexico State,,Utah Valley,REG (Conf),W 84-77,,19,6,9,0.667,5,7,0.714,1,2,0.5,0.944,0,1,0.0,1,0,1,1,0,0,1,2,17,12.3,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+26,58,26,2019-02-16,New Mexico State,,Seattle,REG (Conf),W 59-53,,13,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,0,1,0,0,2,3,0.1,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+27,59,27,2019-02-19,New Mexico State,,Tex. A&M Int'l,REG (Non-Conf),W 80-42,,14,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,1,1,3,0,0,1,0,9,6.0,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+28,60,28,2019-02-23,New Mexico State,,Texas–Rio Grande Valley,REG (Conf),W 88-79,,13,4,7,0.571,3,5,0.6,1,2,0.5,0.786,3,4,0.75,0,0,0,0,0,0,1,3,14,8.1,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+29,61,29,2019-02-28,New Mexico State,@,Kansas City,REG (Conf),W 75-55,,16,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,1,0,0,2,1,5,0.2,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+30,62,30,2019-03-02,New Mexico State,@,Chicago State,REG (Conf),W 92-58,*,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,A,1,1,jojo-zamora-1,JoJo Zamora,2019
+31,63,31,2019-03-09,New Mexico State,,California Baptist,REG (Conf),W 75-63,*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,3,0.667,0,0,0,2,0,0,0,0,5,2.9,H,1,1,jojo-zamora-1,JoJo Zamora,2019
+32,64,32,2019-03-14,New Mexico State,N,Chicago State,CTOURN,W 86-49,,13,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,1,2,3,0,0,1,1,3,1.6,N,1,0,jojo-zamora-1,JoJo Zamora,2019
+33,65,33,2019-03-15,New Mexico State,N,Texas–Rio Grande Valley,CTOURN,W 79-72,,15,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,1,1,1,0,1,0,1,6,3.6,N,1,0,jojo-zamora-1,JoJo Zamora,2019
+34,66,34,2019-03-16,New Mexico State,N,Grand Canyon,CTOURN,W 89-57,,12,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,2,2,4,1,0,0,1,0,1,0.2,N,1,0,jojo-zamora-1,JoJo Zamora,2019
+35,67,35,2019-03-21,New Mexico State,N,Auburn,ROUND-64,L 77-78,,10,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,0,0,1,0,0,1,1,6,2.6,N,0,0,jojo-zamora-1,JoJo Zamora,2019

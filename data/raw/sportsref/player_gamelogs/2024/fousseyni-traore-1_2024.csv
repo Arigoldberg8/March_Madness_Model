@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2023-11-06,Brigham Young,,Houston Christian,REG (Non-Conf),W 110-63,*,16,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,7,9,2,1,1,2,2,6,6.8,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+2,68,2,2023-11-10,Brigham Young,,San Diego State,REG (Non-Conf),W 74-65,*,30,5,9,0.556,0,0,,5,9,0.556,0.556,2,2,1.0,4,4,8,4,0,1,2,1,12,12.8,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+3,69,3,2023-11-15,Brigham Young,,Southeastern Louisiana,REG (Non-Conf),W 105-48,*,17,6,7,0.857,2,2,1.0,4,5,0.8,1.0,4,4,1.0,1,2,3,1,2,0,1,4,18,16.9,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+4,70,4,2023-11-18,Brigham Young,,Morgan State,REG (Non-Conf),W 93-50,*,27,8,11,0.727,0,0,,8,11,0.727,0.727,1,1,1.0,1,3,4,0,1,1,2,0,17,13.8,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+5,71,5,2023-11-24,Brigham Young,N,Arizona State,REG (Non-Conf),W 77-49,*,25,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,4,5,9,5,1,0,3,2,6,8.3,N,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+6,72,5,2023-11-24,Brigham Young,N,NC State,REG (Non-Conf),W 95-86,*,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,1,2,2.3,N,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+7,73,14,2024-01-06,Brigham Young,,Cincinnati,REG (Conf),L 60-71,,8,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,1,1,0,2,2,1,-0.2,H,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+8,74,15,2024-01-09,Brigham Young,@,Baylor,REG (Conf),L 72-81,,10,2,2,1.0,0,0,,2,2,1.0,1.0,2,4,0.5,0,1,1,1,0,0,1,2,6,3.8,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+9,75,16,2024-01-13,Brigham Young,@,UCF,REG (Conf),W 63-58,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,3,2,2,-1.1,A,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+10,76,18,2024-01-20,Brigham Young,@,Texas Tech,REG (Conf),L 78-85,,12,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,3,5,8,1,0,0,4,1,8,3.9,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+11,77,19,2024-01-23,Brigham Young,,Houston,REG (Conf),L 68-75,,10,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,0,0,0,0,1,0,1,2,7,3.8,H,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+12,78,20,2024-01-27,Brigham Young,,Texas,REG (Conf),W 84-72,,17,6,7,0.857,0,0,,6,7,0.857,0.857,4,4,1.0,1,5,6,1,0,2,3,2,16,14.0,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+13,79,21,2024-02-03,Brigham Young,@,West Virginia,REG (Conf),W 86-73,*,31,10,15,0.667,0,0,,10,15,0.667,0.667,4,4,1.0,6,3,9,3,1,2,1,3,24,24.9,A,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+14,80,22,2024-02-06,Brigham Young,@,Oklahoma,REG (Conf),L 66-82,*,29,9,17,0.529,0,0,,9,17,0.529,0.529,3,4,0.75,2,3,5,1,0,0,1,1,21,13.9,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+15,81,23,2024-02-10,Brigham Young,,Kansas State,REG (Conf),W 72-66,,20,5,8,0.625,0,0,,5,8,0.625,0.625,4,9,0.444,3,5,8,0,1,2,1,1,14,13.0,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+16,82,24,2024-02-13,Brigham Young,,UCF,REG (Conf),W 90-88,,11,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,1,2,0,0,0,3,1,2,-1.8,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+17,83,25,2024-02-17,Brigham Young,@,Oklahoma State,REG (Conf),L 83-93,,21,7,10,0.7,0,0,,7,10,0.7,0.7,3,3,1.0,3,1,4,1,1,0,0,2,17,16.1,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+18,84,26,2024-02-20,Brigham Young,,Baylor,REG (Conf),W 78-71,,12,2,3,0.667,0,0,,2,3,0.667,0.667,1,3,0.333,1,4,5,1,0,0,1,1,5,4.1,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+19,85,27,2024-02-24,Brigham Young,@,Kansas State,REG (Conf),L 74-84,,12,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,4,1,5,2,0,0,0,2,10,11.1,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+20,86,28,2024-02-27,Brigham Young,@,Kansas,REG (Conf),W 76-68,,23,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,6,7,5,0,0,3,2,6,6.9,A,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+21,87,29,2024-03-02,Brigham Young,,TCU,REG (Conf),W 87-75,,23,8,11,0.727,0,0,,8,11,0.727,0.727,5,8,0.625,1,6,7,0,1,1,1,0,21,18.5,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+22,88,30,2024-03-06,Brigham Young,@,Iowa State,REG (Conf),L 63-68,,18,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,6,5,11,1,0,3,4,4,6,5.5,A,0,1,fousseyni-traore-1,Fousseyni Traore,2024
+23,89,31,2024-03-09,Brigham Young,,Oklahoma State,REG (Conf),W 85-71,,23,8,11,0.727,0,0,,8,11,0.727,0.727,3,6,0.5,1,4,5,1,1,2,1,2,19,16.5,H,1,1,fousseyni-traore-1,Fousseyni Traore,2024
+24,90,32,2024-03-13,Brigham Young,N,UCF,CTOURN,W 87-73,,20,4,5,0.8,0,0,,4,5,0.8,0.8,6,8,0.75,4,6,10,1,1,3,2,2,14,16.9,N,1,0,fousseyni-traore-1,Fousseyni Traore,2024
+25,91,33,2024-03-14,Brigham Young,N,Texas Tech,CTOURN,L 67-81,,25,6,8,0.75,0,0,,6,8,0.75,0.75,1,2,0.5,0,3,3,2,1,0,3,1,13,9.3,N,0,0,fousseyni-traore-1,Fousseyni Traore,2024
+26,92,34,2024-03-21,Brigham Young,N,Duquesne,ROUND-64,L 67-71,,23,4,12,0.333,0,0,,4,12,0.333,0.333,3,4,0.75,1,3,4,0,1,1,0,1,11,6.7,N,0,0,fousseyni-traore-1,Fousseyni Traore,2024

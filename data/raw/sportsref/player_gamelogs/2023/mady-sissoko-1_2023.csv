@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2022-11-07,Michigan State,,Northern Arizona,REG (Non-Conf),W 73-55,*,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,4,6,0,0,0,1,1,4,4.6,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+2,57,2,2022-11-11,Michigan State,N,Gonzaga,REG (Non-Conf),L 63-64,*,25,4,5,0.8,0,0,4,5,0.8,0.8,6,11,0.545,2,7,9,0,0,1,1,5,14,11.3,N,0,1,mady-sissoko-1,Mady Sissoko,2023
+3,58,3,2022-11-15,Michigan State,N,Kentucky,REG (Non-Conf),W 86-77 (2OT),*,33,5,10,0.5,0,0,5,10,0.5,0.5,6,8,0.75,4,4,8,2,3,0,3,4,16,14.0,N,1,1,mady-sissoko-1,Mady Sissoko,2023
+4,59,4,2022-11-18,Michigan State,,Villanova,REG (Non-Conf),W 73-71,*,26,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,1,2,3,1,0,0,0,2,1,0.4,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+5,60,5,2022-11-24,Michigan State,N,Alabama,REG (Non-Conf),L 70-81,*,17,1,3,0.333,0,0,1,3,0.333,0.333,2,3,0.667,0,4,4,1,0,1,0,2,4,3.7,N,0,1,mady-sissoko-1,Mady Sissoko,2023
+6,61,6,2022-11-26,Michigan State,N,Oregon,REG (Non-Conf),W 74-70,*,20,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,3,2,5,0,0,0,0,3,6,6.2,N,1,1,mady-sissoko-1,Mady Sissoko,2023
+7,62,7,2022-11-27,Michigan State,@,Portland,REG (Non-Conf),W 78-77,*,25,4,5,0.8,0,0,4,5,0.8,0.8,3,3,1.0,1,3,4,1,0,2,0,4,11,11.2,A,1,1,mady-sissoko-1,Mady Sissoko,2023
+8,63,8,2022-11-30,Michigan State,@,Notre Dame,REG (Non-Conf),L 52-70,*,22,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,6,8,1,0,0,1,2,4,3.4,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+9,64,9,2022-12-04,Michigan State,,Northwestern,REG (Conf),L 63-70,*,24,3,3,1.0,0,0,3,3,1.0,1.0,6,8,0.75,2,3,5,0,0,2,2,2,12,11.2,H,0,1,mady-sissoko-1,Mady Sissoko,2023
+10,65,10,2022-12-07,Michigan State,@,Penn State,REG (Conf),W 67-58,*,18,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,4,5,1,0,0,2,2,0,-0.9,A,1,1,mady-sissoko-1,Mady Sissoko,2023
+11,66,11,2022-12-10,Michigan State,,Brown,REG (Non-Conf),W 68-50,*,19,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,7,7,2,1,1,0,1,0,2.7,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+12,67,12,2022-12-21,Michigan State,,Oakland,REG (Non-Conf),W 67-54,*,23,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,3,9,12,0,1,2,3,2,9,10.4,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+13,68,13,2022-12-30,Michigan State,,Buffalo,REG (Non-Conf),W 89-68,*,22,3,5,0.6,0,0,3,5,0.6,0.6,0,3,0.0,1,8,9,1,0,1,2,2,6,4.2,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+14,69,14,2023-01-03,Michigan State,,Nebraska,REG (Conf),W 74-56,*,22,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,5,5,10,0,0,3,2,5,5,7.5,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+15,70,15,2023-01-07,Michigan State,,Michigan,REG (Conf),W 59-53,*,23,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,0,7,7,1,0,0,3,4,2,-2.2,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+16,71,16,2023-01-10,Michigan State,@,Wisconsin,REG (Conf),W 69-65,*,23,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,11,11,0,0,0,1,4,6,5.8,A,1,1,mady-sissoko-1,Mady Sissoko,2023
+17,72,17,2023-01-13,Michigan State,@,Illinois,REG (Conf),L 66-75,*,21,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,2,4,6,0,0,0,1,3,5,3.7,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+18,73,18,2023-01-16,Michigan State,,Purdue,REG (Conf),L 63-64,*,21,0,0,,0,0,0,0,,,0,0,,2,6,8,0,0,0,2,4,0,-0.4,H,0,1,mady-sissoko-1,Mady Sissoko,2023
+19,74,19,2023-01-19,Michigan State,,Rutgers,REG (Conf),W 70-57,*,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,3,4,0,0,1,0,2,2,1.8,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+20,75,20,2023-01-22,Michigan State,@,Indiana,REG (Conf),L 69-82,*,22,1,3,0.333,0,0,1,3,0.333,0.333,2,4,0.5,1,3,4,1,0,1,1,3,4,2.3,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+21,76,21,2023-01-26,Michigan State,,Iowa,REG (Conf),W 63-61,*,26,4,6,0.667,0,0,4,6,0.667,0.667,2,4,0.5,4,6,10,0,1,2,1,2,10,11.8,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+22,77,22,2023-01-29,Michigan State,@,Purdue,REG (Conf),L 61-77,*,16,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,1,1,2,3,4,2.2,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+23,78,23,2023-02-04,Michigan State,@,Rutgers,REG (Conf),L 55-61,*,19,1,1,1.0,0,0,1,1,1.0,1.0,3,5,0.6,0,5,5,0,0,1,1,3,5,3.9,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+24,79,24,2023-02-07,Michigan State,,Maryland,REG (Conf),W 63-58,*,26,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,0,5,5,0,0,0,1,3,4,3.0,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+25,80,25,2023-02-12,Michigan State,@,Ohio State,REG (Conf),W 62-41,*,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,1,4,1,0,1,3,3,2,-0.1,A,1,1,mady-sissoko-1,Mady Sissoko,2023
+26,81,27,2023-02-18,Michigan State,@,Michigan,REG (Conf),L 72-84,*,21,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,1,2,0,0,0,0,5,4,2.0,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+27,82,28,2023-02-21,Michigan State,,Indiana,REG (Conf),W 80-65,*,18,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,1,3,1,0,1,0,3,2,3.6,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+28,83,29,2023-02-25,Michigan State,@,Iowa,REG (Conf),L 106-112 (OT),*,20,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,5,6,1,0,0,1,3,2,2.4,A,0,1,mady-sissoko-1,Mady Sissoko,2023
+29,84,30,2023-02-28,Michigan State,@,Nebraska,REG (Conf),W 80-67,*,22,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,4,3,7,0,0,1,2,3,2,2.9,A,1,1,mady-sissoko-1,Mady Sissoko,2023
+30,85,31,2023-03-04,Michigan State,,Ohio State,REG (Conf),W 84-78,,22,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,3,4,7,1,0,1,3,1,4,3.5,H,1,1,mady-sissoko-1,Mady Sissoko,2023
+31,86,32,2023-03-10,Michigan State,N,Ohio State,CTOURN,L 58-68,*,25,3,3,1.0,0,0,3,3,1.0,1.0,0,2,0.0,2,1,3,2,0,1,1,3,6,5.9,N,0,0,mady-sissoko-1,Mady Sissoko,2023
+32,87,33,2023-03-17,Michigan State,N,Southern California,ROUND-64,W 72-62,*,21,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,1,4,5,0,0,2,1,1,4,3.5,N,1,0,mady-sissoko-1,Mady Sissoko,2023
+33,88,34,2023-03-19,Michigan State,N,Marquette,ROUND-32,W 69-60,*,22,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,3,7,10,0,2,2,1,4,8,12.1,N,1,0,mady-sissoko-1,Mady Sissoko,2023
+34,89,35,2023-03-23,Michigan State,N,Kansas State,ROUND-16,L 93-98 (OT),*,17,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,0,2,2,0,0,0,0,1,5,3.9,N,0,0,mady-sissoko-1,Mady Sissoko,2023

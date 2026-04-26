@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,78,1,2024-11-04,St. Mary's (CA),,Towson,REG (Non-Conf),W 76-69,*,38,4,10,0.4,2,5,0.4,2,5,0.4,0.5,4,6,0.667,6,5,11,0,0,1,1,3,14,12.0,H,1,1,luke-barrett-1,Luke Barrett,2025
+2,79,2,2024-11-07,St. Mary's (CA),,Chattanooga,REG (Non-Conf),W 86-74,*,38,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,3,1,4,1,0,0,3,2,11,7.7,H,1,1,luke-barrett-1,Luke Barrett,2025
+3,80,3,2024-11-12,St. Mary's (CA),,Akron,REG (Non-Conf),W 87-68,*,38,4,10,0.4,0,4,0.0,4,6,0.667,0.4,0,0,,3,6,9,3,1,1,2,3,8,7.1,H,1,1,luke-barrett-1,Luke Barrett,2025
+4,81,4,2024-11-17,St. Mary's (CA),N,Nebraska,REG (Non-Conf),W 77-74,*,34,5,9,0.556,3,5,0.6,2,4,0.5,0.722,2,4,0.5,2,2,4,0,2,1,0,5,15,12.6,N,1,1,luke-barrett-1,Luke Barrett,2025
+5,82,5,2024-11-20,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 78-38,*,29,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,4,0.5,2,5,7,0,2,0,1,2,7,5.2,H,1,1,luke-barrett-1,Luke Barrett,2025
+6,83,6,2024-11-23,St. Mary's (CA),,Cal Poly,REG (Non-Conf),W 80-66,*,39,8,15,0.533,3,6,0.5,5,9,0.556,0.633,0,0,,2,8,10,3,2,1,1,3,19,18.1,H,1,1,luke-barrett-1,Luke Barrett,2025
+7,84,7,2024-11-28,St. Mary's (CA),N,Southern California,REG (Non-Conf),W 71-36,*,34,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,6,7,1,2,0,0,1,6,7.4,N,1,1,luke-barrett-1,Luke Barrett,2025
+8,85,8,2024-11-29,St. Mary's (CA),N,Arizona State,REG (Non-Conf),L 64-68,*,40,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,8,9,1,0,1,0,2,5,6.0,N,0,1,luke-barrett-1,Luke Barrett,2025
+9,86,9,2024-12-03,St. Mary's (CA),,UTSA,REG (Non-Conf),W 82-74 (OT),*,44,4,13,0.308,0,5,0.0,4,8,0.5,0.308,4,6,0.667,4,7,11,2,1,0,0,2,12,10.2,H,1,1,luke-barrett-1,Luke Barrett,2025
+10,87,10,2024-12-07,St. Mary's (CA),@,Utah,REG (Non-Conf),W 72-63,*,40,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,0,5,5,1,0,1,1,1,9,7.5,A,1,1,luke-barrett-1,Luke Barrett,2025
+11,88,11,2024-12-14,St. Mary's (CA),N,Boise State,REG (Non-Conf),L 65-67 (OT),*,45,4,12,0.333,3,6,0.5,1,6,0.167,0.458,2,2,1.0,1,6,7,1,0,1,1,4,13,7.5,N,0,1,luke-barrett-1,Luke Barrett,2025
+12,89,12,2024-12-19,St. Mary's (CA),,Merrimack,REG (Non-Conf),W 73-68,*,35,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,3,0,3,2,0,0,1,2,9,7.4,H,1,1,luke-barrett-1,Luke Barrett,2025
+13,90,13,2024-12-22,St. Mary's (CA),,Utah State,REG (Non-Conf),L 68-75,*,40,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,3,0.667,4,3,7,2,1,0,0,2,8,10.9,H,0,1,luke-barrett-1,Luke Barrett,2025
+14,91,14,2024-12-28,St. Mary's (CA),,Pacific,REG (Conf),W 70-60,*,35,9,15,0.6,2,6,0.333,7,9,0.778,0.667,0,1,0.0,5,5,10,5,2,1,0,4,20,22.3,H,1,1,luke-barrett-1,Luke Barrett,2025
+15,92,15,2025-01-02,St. Mary's (CA),,Pepperdine,REG (Conf),W 71-41,*,34,6,11,0.545,1,4,0.25,5,7,0.714,0.591,3,4,0.75,4,3,7,0,2,0,1,3,16,13.8,H,1,1,luke-barrett-1,Luke Barrett,2025
+16,93,16,2025-01-04,St. Mary's (CA),@,Portland,REG (Conf),W 81-58,*,32,1,7,0.143,1,6,0.167,0,1,0.0,0.214,1,2,0.5,2,4,6,1,2,0,2,4,4,0.8,A,1,1,luke-barrett-1,Luke Barrett,2025
+17,94,17,2025-01-07,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 81-56,*,36,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,4,1.0,5,5,10,1,0,0,0,2,12,13.6,H,1,1,luke-barrett-1,Luke Barrett,2025
+18,95,18,2025-01-11,St. Mary's (CA),@,San Diego,REG (Conf),W 103-56,*,31,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,2,0.5,2,1,3,1,1,0,1,1,10,6.2,A,1,1,luke-barrett-1,Luke Barrett,2025
+19,96,19,2025-01-18,St. Mary's (CA),@,Pepperdine,REG (Conf),W 74-50,*,31,6,10,0.6,1,5,0.2,5,5,1.0,0.65,1,1,1.0,4,3,7,0,0,0,1,4,14,10.5,A,1,1,luke-barrett-1,Luke Barrett,2025
+20,97,20,2025-01-23,St. Mary's (CA),,San Francisco,REG (Conf),W 71-51,*,35,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,7,8,0,0,1,1,1,6,6.5,H,1,1,luke-barrett-1,Luke Barrett,2025
+21,98,21,2025-01-25,St. Mary's (CA),@,Washington State,REG (Conf),W 80-75,*,30,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,0,2,0,0,0,1,4,4,1.5,A,1,1,luke-barrett-1,Luke Barrett,2025
+22,99,22,2025-01-29,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-54,*,36,4,11,0.364,2,7,0.286,2,4,0.5,0.455,0,0,,2,0,2,1,2,1,1,1,10,7.3,A,1,1,luke-barrett-1,Luke Barrett,2025
+23,100,23,2025-02-01,St. Mary's (CA),,Gonzaga,REG (Conf),W 62-58,*,40,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,1,0.0,5,3,8,2,1,0,3,1,5,5.3,H,1,1,luke-barrett-1,Luke Barrett,2025
+24,101,24,2025-02-06,St. Mary's (CA),@,San Francisco,REG (Conf),L 64-65,*,39,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,2,3,5,0,0,0,1,4,4,1.0,A,0,1,luke-barrett-1,Luke Barrett,2025
+25,102,25,2025-02-08,St. Mary's (CA),@,Oregon State,REG (Conf),W 63-49,*,36,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,6,6,2,0,2,1,1,7,6.5,A,1,1,luke-barrett-1,Luke Barrett,2025
+26,103,26,2025-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-64,*,40,6,8,0.75,1,3,0.333,5,5,1.0,0.813,0,1,0.0,1,5,6,3,1,0,0,4,13,13.1,H,1,1,luke-barrett-1,Luke Barrett,2025
+27,104,27,2025-02-15,St. Mary's (CA),,Washington State,REG (Conf),W 77-56,*,26,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,2,0,2,3,0,0,0,4,2,1.5,H,1,1,luke-barrett-1,Luke Barrett,2025
+28,105,28,2025-02-19,St. Mary's (CA),,Portland,REG (Conf),W 79-66,*,33,3,12,0.25,0,7,0.0,3,5,0.6,0.25,1,1,1.0,2,2,4,0,1,0,1,2,7,1.0,H,1,1,luke-barrett-1,Luke Barrett,2025
+29,106,29,2025-02-22,St. Mary's (CA),@,Gonzaga,REG (Conf),W 74-67,*,40,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,4,4,8,0,0,0,0,1,14,12.3,A,1,1,luke-barrett-1,Luke Barrett,2025
+30,107,30,2025-02-27,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 58-55,*,40,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,5,6,2,0,1,0,0,5,5.9,A,1,1,luke-barrett-1,Luke Barrett,2025
+31,108,31,2025-03-01,St. Mary's (CA),,Oregon State,REG (Conf),W 74-64,*,40,4,10,0.4,2,5,0.4,2,5,0.4,0.5,3,3,1.0,5,5,10,3,0,0,2,2,13,11.9,H,1,1,luke-barrett-1,Luke Barrett,2025
+32,109,32,2025-03-10,St. Mary's (CA),N,Pepperdine,CTOURN,W 74-59,*,35,6,10,0.6,1,4,0.25,5,6,0.833,0.65,0,0,,2,6,8,1,0,0,0,1,13,11.9,N,1,0,luke-barrett-1,Luke Barrett,2025
+33,110,33,2025-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-58,*,40,4,7,0.571,0,3,0.0,4,4,1.0,0.571,1,2,0.5,2,7,9,3,0,0,4,2,9,6.1,N,0,0,luke-barrett-1,Luke Barrett,2025
+34,111,34,2025-03-21,St. Mary's (CA),N,Vanderbilt,ROUND-64,W 59-56,*,37,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,2,8,10,2,0,0,1,1,12,10.4,N,1,0,luke-barrett-1,Luke Barrett,2025
+35,112,35,2025-03-23,St. Mary's (CA),N,Alabama,ROUND-32,L 66-80,*,37,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,3,4,7,1,2,0,0,2,6,7.1,N,0,0,luke-barrett-1,Luke Barrett,2025

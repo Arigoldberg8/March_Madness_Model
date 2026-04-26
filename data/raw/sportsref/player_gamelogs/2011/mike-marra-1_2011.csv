@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2010-11-16,Louisville,,Butler,REG (Non-Conf),W 88-73,*,33,4,10,0.4,2,8,0.25,2,2,1.0,0.5,1,2,0.5,1,4,5,5,2,1,1,3,11,11.1,H,1,1,mike-marra-1,Mike Marra,2011
+2,29,2,2010-11-20,Louisville,,Jackson State,REG (Non-Conf),W 62-45,*,33,4,11,0.364,3,10,0.3,1,1,1.0,0.5,0,0,,0,1,1,4,1,0,1,0,11,8.0,H,1,1,mike-marra-1,Mike Marra,2011
+3,30,3,2010-11-22,Louisville,,Chattanooga,REG (Non-Conf),W 106-65,*,19,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,0,2,2,5,3,0,1,1,11,12.0,H,1,1,mike-marra-1,Mike Marra,2011
+4,31,4,2010-11-27,Louisville,,Marshall,REG (Non-Conf),W 80-66,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,4,4,1.0,0,5,5,5,1,1,1,2,12,13.2,H,1,1,mike-marra-1,Mike Marra,2011
+5,32,5,2010-12-01,Louisville,,Florida International,REG (Non-Conf),W 92-55,*,20,4,10,0.4,2,8,0.25,2,2,1.0,0.5,0,0,,2,2,4,1,1,0,4,3,10,3.1,H,1,1,mike-marra-1,Mike Marra,2011
+6,33,6,2010-12-04,Louisville,,South Alabama,REG (Non-Conf),W 97-70,*,33,8,18,0.444,5,14,0.357,3,4,0.75,0.583,2,2,1.0,0,3,3,3,1,0,1,4,23,15.0,H,1,1,mike-marra-1,Mike Marra,2011
+7,34,7,2010-12-08,Louisville,,San Francisco,REG (Non-Conf),W 61-35,*,22,1,10,0.1,1,9,0.111,0,1,0.0,0.15,0,0,,1,1,2,1,0,0,1,1,3,-3.3,H,1,1,mike-marra-1,Mike Marra,2011
+8,35,8,2010-12-11,Louisville,,UNLV,REG (Non-Conf),W 77-69,*,16,0,9,0.0,0,5,0.0,0,4,0.0,0.0,0,0,,2,2,4,0,0,0,1,1,0,-5.7,H,1,1,mike-marra-1,Mike Marra,2011
+9,36,9,2010-12-14,Louisville,,Drexel,REG (Non-Conf),L 46-52,*,17,0,2,0.0,0,2,0.0,0,0,,0.0,2,4,0.5,0,0,0,1,0,0,1,0,2,-0.5,H,0,1,mike-marra-1,Mike Marra,2011
+10,37,10,2010-12-18,Louisville,,Gardner-Webb,REG (Non-Conf),W 78-49,,22,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,0,2,2,2,3,2,4,0,10,8.4,H,1,1,mike-marra-1,Mike Marra,2011
+11,38,13,2010-12-31,Louisville,,Kentucky,REG (Non-Conf),L 63-78,,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,1,0,-1.5,H,0,1,mike-marra-1,Mike Marra,2011
+12,39,14,2011-01-05,Louisville,,Seton Hall,REG (Conf),W 73-54,,25,3,5,0.6,3,5,0.6,0,0,,0.9,5,5,1.0,0,2,2,4,1,0,1,1,14,14.7,H,1,1,mike-marra-1,Mike Marra,2011
+13,40,15,2011-01-09,Louisville,@,South Florida,REG (Conf),W 86-77,,24,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,0,0,0,4,1,0,1,1,11,8.7,A,1,1,mike-marra-1,Mike Marra,2011
+14,41,16,2011-01-12,Louisville,@,Villanova,REG (Conf),L 74-88,,5,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,0,1,mike-marra-1,Mike Marra,2011
+15,42,19,2011-01-22,Louisville,@,Providence,REG (Conf),L 67-72,,21,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,0,2,2,5,1,0,1,0,2,1.6,A,0,1,mike-marra-1,Mike Marra,2011
+16,43,20,2011-01-26,Louisville,,West Virginia,REG (Conf),W 55-54,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.8,H,1,1,mike-marra-1,Mike Marra,2011
+17,44,21,2011-01-29,Louisville,@,Connecticut,REG (Conf),W 79-78 (2OT),,28,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,3,3,2,0,0,2,1,6,3.2,A,1,1,mike-marra-1,Mike Marra,2011
+18,45,22,2011-01-31,Louisville,@,Georgetown,REG (Conf),L 59-62,,18,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,2,1,0,1,1,5,3.9,A,0,1,mike-marra-1,Mike Marra,2011
+19,46,23,2011-02-05,Louisville,,DePaul,REG (Conf),W 61-57,*,33,2,10,0.2,2,8,0.25,0,2,0.0,0.3,0,0,,3,5,8,2,2,1,3,2,6,3.7,H,1,1,mike-marra-1,Mike Marra,2011
+20,47,24,2011-02-09,Louisville,@,Notre Dame,REG (Conf),L 79-89 (OT),,16,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,1,0,0,0,1,3,3.9,A,0,1,mike-marra-1,Mike Marra,2011
+21,48,25,2011-02-12,Louisville,,Syracuse,REG (Conf),W 73-69,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,H,1,1,mike-marra-1,Mike Marra,2011
+22,49,26,2011-02-16,Louisville,@,Cincinnati,REG (Conf),L 54-63,,16,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,1,1,1,2,1,2,-0.1,A,0,1,mike-marra-1,Mike Marra,2011
+23,50,27,2011-02-18,Louisville,,Connecticut,REG (Conf),W 71-58,,6,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,0,1,2,0.9,H,1,1,mike-marra-1,Mike Marra,2011
+24,51,28,2011-02-22,Louisville,@,Rutgers,REG (Conf),W 55-37,,13,3,6,0.5,3,6,0.5,0,0,,0.75,0,2,0.0,0,1,1,1,3,0,0,2,9,8.4,A,1,1,mike-marra-1,Mike Marra,2011
+25,52,29,2011-02-27,Louisville,,Pittsburgh,REG (Conf),W 62-59 (OT),,26,3,9,0.333,3,8,0.375,0,1,0.0,0.5,2,3,0.667,1,2,3,3,1,0,1,2,11,8.1,H,1,1,mike-marra-1,Mike Marra,2011
+26,53,30,2011-03-02,Louisville,,Providence,REG (Conf),W 87-60,*,26,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,0,2,2,2,1,1,2,3,2,-2.0,H,1,1,mike-marra-1,Mike Marra,2011
+27,54,31,2011-03-05,Louisville,@,West Virginia,REG (Conf),L 70-72,,9,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,1,0,1,2,1,0,1,2,2,1.2,A,0,1,mike-marra-1,Mike Marra,2011
+28,55,32,2011-03-10,Louisville,N,Marquette,CTOURN,W 81-56,,24,7,11,0.636,6,10,0.6,1,1,1.0,0.909,2,2,1.0,1,1,2,3,1,2,0,2,22,21.8,N,1,0,mike-marra-1,Mike Marra,2011
+29,56,33,2011-03-11,Louisville,N,Notre Dame,CTOURN,W 83-77 (OT),,29,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,4,1,5,1,1,0,3,1,3,0.6,N,1,0,mike-marra-1,Mike Marra,2011
+30,57,34,2011-03-12,Louisville,N,Connecticut,CTOURN,L 66-69,,20,0,3,0.0,0,3,0.0,0,0,,0.0,2,3,0.667,0,1,1,0,0,0,1,3,2,-2.4,N,0,0,mike-marra-1,Mike Marra,2011
+31,58,35,2011-03-17,Louisville,N,Morehead State,ROUND-64,L 61-62,,23,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,1,0,2,1,2,-2.6,N,0,0,mike-marra-1,Mike Marra,2011

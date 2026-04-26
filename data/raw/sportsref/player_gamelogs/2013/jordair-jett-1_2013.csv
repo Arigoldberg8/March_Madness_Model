@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2012-11-09,Saint Louis,,USC Upstate,REG (Non-Conf),W 76-59,*,35,5,9,0.556,0,1,0.0,5,8,0.625,0.556,4,6,0.667,2,3,5,5,3,0,5,3,14,11.5,H,1,1,jordair-jett-1,Jordair Jett,2013
+2,67,2,2012-11-14,Saint Louis,,Santa Clara,REG (Non-Conf),L 62-74,*,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,2,0.0,0,1,1,2,2,0,1,5,8,4.6,H,0,1,jordair-jett-1,Jordair Jett,2013
+3,68,3,2012-11-19,Saint Louis,N,Texas A&M,REG (Non-Conf),W 70-49,*,38,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,5,5,8,3,2,4,2,3,6.6,N,1,1,jordair-jett-1,Jordair Jett,2013
+4,69,4,2012-11-20,Saint Louis,N,Kansas,REG (Non-Conf),L 59-73,*,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,1,1,0,1,3,0,-1.3,N,0,1,jordair-jett-1,Jordair Jett,2013
+5,70,5,2012-11-24,Saint Louis,,Southern Illinois,REG (Non-Conf),W 61-51,,26,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,3,3,0,0,1,1,2,4,-0.3,H,1,1,jordair-jett-1,Jordair Jett,2013
+6,71,6,2012-11-28,Saint Louis,@,Washington,REG (Non-Conf),L 61-66,,33,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,1,3,4,6,0,0,3,4,11,8.6,A,0,1,jordair-jett-1,Jordair Jett,2013
+7,72,7,2012-12-02,Saint Louis,,Valparaiso,REG (Non-Conf),W 62-49,*,35,5,7,0.714,0,1,0.0,5,6,0.833,0.714,4,8,0.5,0,6,6,7,3,0,3,1,14,15.8,H,1,1,jordair-jett-1,Jordair Jett,2013
+8,73,8,2012-12-05,Saint Louis,,North Texas,REG (Non-Conf),W 67-63,*,37,7,14,0.5,1,1,1.0,6,13,0.462,0.536,2,5,0.4,1,3,4,4,1,0,1,2,17,12.4,H,1,1,jordair-jett-1,Jordair Jett,2013
+9,74,9,2012-12-15,Saint Louis,,UT Martin,REG (Non-Conf),W 73-51,*,31,6,7,0.857,0,0,,6,7,0.857,0.857,5,6,0.833,0,0,0,4,3,0,0,1,17,19.5,H,1,1,jordair-jett-1,Jordair Jett,2013
+10,75,10,2012-12-19,Saint Louis,,Eastern Illinois,REG (Non-Conf),W 72-45,*,23,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,1,0.0,0,2,2,3,0,0,2,2,7,5.6,H,1,1,jordair-jett-1,Jordair Jett,2013
+11,76,11,2012-12-22,Saint Louis,,Loyola Marymount,REG (Non-Conf),W 65-44,*,26,4,7,0.571,0,0,,4,7,0.571,0.571,3,5,0.6,0,2,2,5,3,0,2,0,11,12.0,H,1,1,jordair-jett-1,Jordair Jett,2013
+12,77,12,2012-12-28,Saint Louis,,SIU Edwardsville,REG (Non-Conf),W 68-41,,23,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,0,1,1,5,1,0,1,2,5,4.9,H,1,1,jordair-jett-1,Jordair Jett,2013
+13,78,13,2012-12-31,Saint Louis,,New Mexico,REG (Non-Conf),W 60-46,,26,1,5,0.2,0,0,,1,5,0.2,0.2,2,4,0.5,1,3,4,5,0,0,3,0,4,2.2,H,1,1,jordair-jett-1,Jordair Jett,2013
+14,79,14,2013-01-04,Saint Louis,,Savannah State,REG (Non-Conf),W 67-59,,27,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,1,1.0,1,2,3,3,2,0,3,0,8,8.1,H,1,1,jordair-jett-1,Jordair Jett,2013
+15,80,15,2013-01-10,Saint Louis,,Massachusetts,REG (Conf),W 70-62,,29,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,7,0.714,0,2,2,2,3,1,5,2,15,10.5,H,1,1,jordair-jett-1,Jordair Jett,2013
+16,81,16,2013-01-12,Saint Louis,@,Temple,REG (Conf),L 54-64,,31,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,6,0.333,0,3,3,3,2,0,3,3,6,2.5,A,0,1,jordair-jett-1,Jordair Jett,2013
+17,82,17,2013-01-19,Saint Louis,,Rhode Island,REG (Conf),L 80-82 (OT),,35,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,2,3,2,0,1,3,2,3,0.5,H,0,1,jordair-jett-1,Jordair Jett,2013
+18,83,18,2013-01-23,Saint Louis,@,Duquesne,REG (Conf),W 73-64,,26,2,5,0.4,1,1,1.0,1,4,0.25,0.5,5,6,0.833,1,1,2,2,2,0,1,3,10,9.1,A,1,1,jordair-jett-1,Jordair Jett,2013
+19,84,19,2013-01-26,Saint Louis,@,St. Bonaventure,REG (Conf),W 67-57,,25,2,6,0.333,1,1,1.0,1,5,0.2,0.417,4,5,0.8,0,3,3,3,1,0,0,3,9,8.0,A,1,1,jordair-jett-1,Jordair Jett,2013
+20,85,20,2013-01-31,Saint Louis,,Butler,REG (Conf),W 75-58,,23,8,12,0.667,2,4,0.5,6,8,0.75,0.75,1,4,0.25,1,3,4,2,2,0,1,2,19,15.8,H,1,1,jordair-jett-1,Jordair Jett,2013
+21,86,21,2013-02-02,Saint Louis,,Dayton,REG (Conf),W 81-52,,19,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,3,1.0,1,4,5,6,2,0,1,2,11,14.7,H,1,1,jordair-jett-1,Jordair Jett,2013
+22,87,22,2013-02-06,Saint Louis,@,Fordham,REG (Conf),W 90-73,,31,6,8,0.75,0,1,0.0,6,7,0.857,0.75,2,4,0.5,2,3,5,4,1,0,1,1,14,14.7,A,1,1,jordair-jett-1,Jordair Jett,2013
+23,88,23,2013-02-09,Saint Louis,@,Richmond,REG (Conf),W 56-46,,28,3,6,0.5,0,0,,3,6,0.5,0.5,3,7,0.429,0,3,3,2,0,0,3,2,9,2.9,A,1,1,jordair-jett-1,Jordair Jett,2013
+24,89,24,2013-02-16,Saint Louis,,Charlotte,REG (Conf),W 76-58,,30,5,10,0.5,1,2,0.5,4,8,0.5,0.55,5,6,0.833,0,1,1,3,0,0,4,1,16,8.6,H,1,1,jordair-jett-1,Jordair Jett,2013
+25,90,25,2013-02-19,Saint Louis,,VCU,REG (Conf),W 76-62,,25,6,9,0.667,1,2,0.5,5,7,0.714,0.722,3,4,0.75,0,3,3,2,1,0,1,2,16,13.2,H,1,1,jordair-jett-1,Jordair Jett,2013
+26,91,26,2013-02-22,Saint Louis,@,Butler,REG (Conf),W 65-61,,24,3,10,0.3,0,2,0.0,3,8,0.375,0.3,1,2,0.5,1,2,3,3,0,0,2,4,7,0.6,A,1,1,jordair-jett-1,Jordair Jett,2013
+27,92,27,2013-02-27,Saint Louis,,Saint Joseph's,REG (Conf),W 70-53,,12,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,0,0,0,1,0,0,2,4,7,2.8,H,1,1,jordair-jett-1,Jordair Jett,2013
+28,93,28,2013-03-02,Saint Louis,@,George Washington,REG (Conf),W 66-58,,26,3,5,0.6,0,0,,3,5,0.6,0.6,5,5,1.0,0,2,2,3,1,1,4,1,11,8.7,A,1,1,jordair-jett-1,Jordair Jett,2013
+29,94,29,2013-03-06,Saint Louis,@,Xavier,REG (Conf),L 66-77 (OT),,31,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,1,6,7,1,1,0,2,3,10,6.3,A,0,1,jordair-jett-1,Jordair Jett,2013
+30,95,30,2013-03-09,Saint Louis,,La Salle,REG (Conf),W 78-54,,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,7,0.429,0,2,2,3,2,0,4,2,9,5.0,H,1,1,jordair-jett-1,Jordair Jett,2013
+31,96,31,2013-03-15,Saint Louis,N,Charlotte,CTOURN,W 72-55,,21,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,3,3,2,0,0,0,0,0,0.2,N,1,0,jordair-jett-1,Jordair Jett,2013
+32,97,32,2013-03-16,Saint Louis,N,Butler,CTOURN,W 67-56,,19,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,1,1,0,0,0,3,2,2,-2.9,N,1,0,jordair-jett-1,Jordair Jett,2013
+33,98,33,2013-03-17,Saint Louis,N,VCU,CTOURN,W 62-56,,24,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,0,2,2,3,0,0,2,1,4,1.8,N,1,0,jordair-jett-1,Jordair Jett,2013
+34,99,34,2013-03-21,Saint Louis,N,New Mexico State,ROUND-64,W 64-44,,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,7,0,0,2,1,2,2.4,N,1,0,jordair-jett-1,Jordair Jett,2013
+35,100,35,2013-03-23,Saint Louis,N,Oregon,ROUND-32,L 57-74,,25,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,3,0.667,1,3,4,0,0,0,1,2,11,6.4,N,0,0,jordair-jett-1,Jordair Jett,2013

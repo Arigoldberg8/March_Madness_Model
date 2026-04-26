@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2014-11-14,Eastern Washington,,Texas Southern,REG (Non-Conf),W 86-62,*,30,11,18,0.611,0,1,0.0,11,17,0.647,0.611,0,5,0.0,4,3,7,0,1,3,4,2,22,13.8,H,1,1,venky-jois-1,Venky Jois,2015
+2,61,2,2014-11-17,Eastern Washington,,Utah Valley,REG (Non-Conf),W 75-50,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,1,2,0.5,2,7,9,4,2,2,2,2,13,16.3,H,1,1,venky-jois-1,Venky Jois,2015
+3,62,3,2014-11-19,Eastern Washington,,Walla Walla,REG (Non-Conf),W 95-34,*,25,7,7,1.0,0,0,,7,7,1.0,1.0,3,5,0.6,1,4,5,7,1,0,0,1,17,21.5,H,1,1,venky-jois-1,Venky Jois,2015
+4,63,4,2014-11-22,Eastern Washington,@,SMU,REG (Non-Conf),L 68-77,*,37,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,7,0.286,3,7,10,1,3,1,4,1,13,11.6,A,0,1,venky-jois-1,Venky Jois,2015
+5,64,5,2014-11-24,Eastern Washington,@,Indiana,REG (Non-Conf),W 88-86,*,35,8,17,0.471,0,0,,8,17,0.471,0.471,4,9,0.444,8,6,14,0,2,5,2,3,20,19.0,A,1,1,venky-jois-1,Venky Jois,2015
+6,65,6,2014-11-26,Eastern Washington,,Northern Kentucky,REG (Non-Conf),W 81-60,*,26,6,7,0.857,0,0,,6,7,0.857,0.857,2,5,0.4,1,7,8,4,1,4,3,0,14,16.7,H,1,1,venky-jois-1,Venky Jois,2015
+7,66,7,2014-11-30,Eastern Washington,,Eastern Ore.,REG (Non-Conf),W 104-87,*,32,15,21,0.714,0,0,,15,21,0.714,0.714,8,8,1.0,2,3,5,1,0,4,2,1,38,32.7,H,1,1,venky-jois-1,Venky Jois,2015
+8,67,8,2014-12-06,Eastern Washington,@,Seattle,REG (Non-Conf),W 87-75,*,36,13,18,0.722,0,0,,13,18,0.722,0.722,12,15,0.8,2,5,7,0,2,3,2,1,38,34.0,A,1,1,venky-jois-1,Venky Jois,2015
+9,68,9,2014-12-11,Eastern Washington,@,San Francisco,REG (Non-Conf),W 81-76,*,32,6,11,0.545,0,0,,6,11,0.545,0.545,3,4,0.75,4,7,11,2,0,2,2,4,15,13.4,A,1,1,venky-jois-1,Venky Jois,2015
+10,69,10,2014-12-14,Eastern Washington,@,Washington,REG (Non-Conf),L 77-81,*,32,4,14,0.286,1,3,0.333,3,11,0.273,0.321,4,6,0.667,4,4,8,1,3,2,4,4,13,7.5,A,0,1,venky-jois-1,Venky Jois,2015
+11,70,11,2014-12-16,Eastern Washington,@,Sam Houston State,REG (Non-Conf),L 52-76,*,38,4,12,0.333,0,0,,4,12,0.333,0.333,5,12,0.417,3,4,7,3,2,1,2,1,13,9.1,A,0,1,venky-jois-1,Venky Jois,2015
+12,71,12,2014-12-19,Eastern Washington,@,California,REG (Non-Conf),L 67-78,*,34,9,14,0.643,1,1,1.0,8,13,0.615,0.679,4,5,0.8,1,5,6,0,1,1,1,1,23,18.9,A,0,1,venky-jois-1,Venky Jois,2015
+13,72,13,2014-12-22,Eastern Washington,,Lewis & Clark,REG (Non-Conf),W 87-81,*,33,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,3,4,7,4,1,2,2,3,13,13.3,H,1,1,venky-jois-1,Venky Jois,2015
+14,73,14,2015-01-01,Eastern Washington,,Weber State,REG (Conf),W 84-78,*,32,9,20,0.45,0,1,0.0,9,19,0.474,0.45,0,0,,4,4,8,1,1,5,2,2,18,14.0,H,1,1,venky-jois-1,Venky Jois,2015
+15,74,15,2015-01-03,Eastern Washington,,Idaho State,REG (Conf),W 65-57,*,37,5,7,0.714,0,0,,5,7,0.714,0.714,6,8,0.75,3,5,8,2,4,7,0,3,16,25.0,H,1,1,venky-jois-1,Venky Jois,2015
+16,75,16,2015-01-10,Eastern Washington,@,Idaho,REG (Conf),W 89-86,*,33,8,11,0.727,0,0,,8,11,0.727,0.727,0,1,0.0,0,5,5,3,0,6,1,3,16,16.7,A,1,1,venky-jois-1,Venky Jois,2015
+17,76,17,2015-01-15,Eastern Washington,@,Portland State,REG (Conf),W 92-85,*,9,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,1,0,0,0,0,4,3.0,A,1,1,venky-jois-1,Venky Jois,2015
+18,77,21,2015-01-31,Eastern Washington,,Idaho,REG (Conf),W 98-95 (OT),*,23,3,4,0.75,0,0,,3,4,0.75,0.75,1,7,0.143,1,1,2,1,0,2,0,2,7,5.3,H,1,1,venky-jois-1,Venky Jois,2015
+19,78,22,2015-02-05,Eastern Washington,@,Montana,REG (Conf),W 75-69,*,32,4,6,0.667,0,0,,4,6,0.667,0.667,4,6,0.667,5,4,9,7,4,2,3,4,12,19.0,A,1,1,venky-jois-1,Venky Jois,2015
+20,79,23,2015-02-07,Eastern Washington,@,Montana State,REG (Conf),W 61-51,*,28,4,11,0.364,0,0,,4,11,0.364,0.364,5,9,0.556,1,5,6,2,1,0,2,3,13,6.7,A,1,1,venky-jois-1,Venky Jois,2015
+21,80,24,2015-02-12,Eastern Washington,,Sacramento State,REG (Conf),W 64-61,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,1,4,0.25,3,3,6,5,0,2,3,3,7,7.2,H,1,1,venky-jois-1,Venky Jois,2015
+22,81,26,2015-02-19,Eastern Washington,@,Southern Utah,REG (Conf),W 78-75,*,27,8,12,0.667,0,1,0.0,8,11,0.727,0.667,6,8,0.75,1,3,4,0,2,2,2,3,22,17.8,A,1,1,venky-jois-1,Venky Jois,2015
+23,82,27,2015-02-21,Eastern Washington,@,Northern Arizona,REG (Conf),L 69-73,*,28,5,9,0.556,0,0,,5,9,0.556,0.556,5,7,0.714,0,3,3,1,0,1,2,5,15,8.2,A,0,1,venky-jois-1,Venky Jois,2015
+24,83,28,2015-02-26,Eastern Washington,,Montana State,REG (Conf),W 92-68,*,30,12,17,0.706,0,0,,12,17,0.706,0.706,3,6,0.5,3,8,11,2,1,1,3,2,27,22.5,H,1,1,venky-jois-1,Venky Jois,2015
+25,84,29,2015-02-28,Eastern Washington,,Montana,REG (Conf),L 76-77,*,38,4,7,0.571,0,0,,4,7,0.571,0.571,2,5,0.4,2,9,11,5,2,5,5,3,10,12.4,H,0,1,venky-jois-1,Venky Jois,2015
+26,85,30,2015-03-05,Eastern Washington,@,Idaho State,REG (Conf),W 85-81,*,37,8,10,0.8,0,0,,8,10,0.8,0.8,5,10,0.5,5,5,10,1,1,1,6,4,21,15.0,A,1,1,venky-jois-1,Venky Jois,2015
+27,86,31,2015-03-07,Eastern Washington,@,Weber State,REG (Conf),W 79-71 (OT),*,39,11,19,0.579,0,0,,11,19,0.579,0.579,0,0,,6,10,16,1,1,1,4,2,22,17.9,A,1,1,venky-jois-1,Venky Jois,2015
+28,87,32,2015-03-12,Eastern Washington,N,Idaho,CTOURN,W 91-83,*,35,4,7,0.571,0,0,,4,7,0.571,0.571,2,6,0.333,4,10,14,2,0,0,2,3,10,9.1,N,1,0,venky-jois-1,Venky Jois,2015
+29,88,33,2015-03-13,Eastern Washington,N,Sacramento State,CTOURN,W 91-83,*,29,9,12,0.75,0,0,,9,12,0.75,0.75,1,6,0.167,0,6,6,0,1,2,0,2,19,15.6,N,1,0,venky-jois-1,Venky Jois,2015
+30,89,34,2015-03-14,Eastern Washington,@,Montana,CTOURN,W 69-65,*,26,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,2,3,5,1,0,0,2,3,8,4.7,A,1,0,venky-jois-1,Venky Jois,2015
+31,90,35,2015-03-19,Eastern Washington,N,Georgetown,ROUND-64,L 74-84,*,37,8,12,0.667,0,1,0.0,8,11,0.727,0.667,3,4,0.75,3,5,8,1,0,2,4,4,19,13.5,N,0,0,venky-jois-1,Venky Jois,2015

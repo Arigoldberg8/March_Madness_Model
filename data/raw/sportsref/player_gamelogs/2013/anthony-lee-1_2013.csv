@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-13,Temple,@,Kent State,REG (Non-Conf),W 80-66,*,27,6,8,0.75,0,0,,6,8,0.75,0.75,4,7,0.571,0,8,8,1,2,0,0,4,16,15.1,A,1,1,anthony-lee-1,Anthony Lee,2013
+2,34,2,2012-11-17,Temple,,Rice,REG (Non-Conf),W 77-63,*,28,6,8,0.75,0,0,,6,8,0.75,0.75,4,4,1.0,3,10,13,0,0,0,1,3,16,15.7,H,1,1,anthony-lee-1,Anthony Lee,2013
+3,35,3,2012-11-25,Temple,,Delaware,REG (Non-Conf),W 80-75,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,4,6,0.667,1,6,7,0,1,0,2,4,6,4.8,H,1,1,anthony-lee-1,Anthony Lee,2013
+4,36,4,2012-11-28,Temple,@,Buffalo,REG (Non-Conf),W 54-39,*,26,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,2,5,7,0,1,1,2,2,10,8.2,A,1,1,anthony-lee-1,Anthony Lee,2013
+5,37,5,2012-12-01,Temple,,Wagner,REG (Non-Conf),W 70-62,*,12,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,0,1,3,0,3,4,3.5,H,1,1,anthony-lee-1,Anthony Lee,2013
+6,38,6,2012-12-05,Temple,@,Villanova,REG (Non-Conf),W 76-61,*,26,7,11,0.636,0,0,,7,11,0.636,0.636,2,5,0.4,0,2,2,1,0,1,0,2,16,11.1,A,1,1,anthony-lee-1,Anthony Lee,2013
+7,39,7,2012-12-08,Temple,N,Duke,REG (Non-Conf),L 67-90,*,17,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,7,9,1,0,0,1,3,6,3.6,N,0,1,anthony-lee-1,Anthony Lee,2013
+8,40,8,2012-12-12,Temple,,Towson,REG (Non-Conf),W 72-61,*,17,4,9,0.444,0,0,,4,9,0.444,0.444,2,2,1.0,0,5,5,0,1,1,0,3,10,7.3,H,1,1,anthony-lee-1,Anthony Lee,2013
+9,41,10,2012-12-19,Temple,,Canisius,REG (Non-Conf),L 62-72,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,4,8,0.5,2,5,7,0,0,2,0,3,10,7.8,H,0,1,anthony-lee-1,Anthony Lee,2013
+10,42,11,2012-12-22,Temple,N,Syracuse,REG (Non-Conf),W 83-79,*,38,5,10,0.5,0,1,0.0,5,9,0.556,0.5,11,14,0.786,5,4,9,2,0,2,2,3,21,19.1,N,1,1,anthony-lee-1,Anthony Lee,2013
+11,43,12,2012-12-31,Temple,,Bowling Green,REG (Non-Conf),W 75-57,*,27,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,2,8,10,2,0,1,2,1,10,8.5,H,1,1,anthony-lee-1,Anthony Lee,2013
+12,44,13,2013-01-06,Temple,@,Kansas,REG (Non-Conf),L 62-69,*,34,5,13,0.385,0,0,,5,13,0.385,0.385,1,3,0.333,1,6,7,0,0,0,2,3,11,2.4,A,0,1,anthony-lee-1,Anthony Lee,2013
+13,45,14,2013-01-10,Temple,@,Xavier,REG (Conf),L 52-57,*,36,6,11,0.545,0,0,,6,11,0.545,0.545,3,4,0.75,1,6,7,0,1,0,1,4,15,10.2,A,0,1,anthony-lee-1,Anthony Lee,2013
+14,46,15,2013-01-12,Temple,,Saint Louis,REG (Conf),W 64-54,*,33,8,13,0.615,0,0,,8,13,0.615,0.615,4,8,0.5,0,10,10,0,1,2,1,4,20,15.3,H,1,1,anthony-lee-1,Anthony Lee,2013
+15,47,16,2013-01-16,Temple,@,George Washington,REG (Conf),W 55-53,*,23,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,6,6,0,0,0,1,4,7,3.5,A,1,1,anthony-lee-1,Anthony Lee,2013
+16,48,17,2013-01-19,Temple,,St. Bonaventure,REG (Conf),L 78-81,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,7,9,0,1,2,1,4,6,6.3,H,0,1,anthony-lee-1,Anthony Lee,2013
+17,49,18,2013-01-23,Temple,,Pennsylvania,REG (Non-Conf),W 76-69,*,32,6,9,0.667,0,0,,6,9,0.667,0.667,4,7,0.571,4,5,9,0,0,0,2,4,16,11.6,H,1,1,anthony-lee-1,Anthony Lee,2013
+18,50,19,2013-01-26,Temple,@,Butler,REG (Conf),L 71-83,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,1,6,7,0,0,0,0,2,12,9.0,A,0,1,anthony-lee-1,Anthony Lee,2013
+19,51,20,2013-01-30,Temple,,Richmond,REG (Conf),W 71-64,*,30,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,3,10,13,0,0,1,4,3,12,10.4,H,1,1,anthony-lee-1,Anthony Lee,2013
+20,52,21,2013-02-02,Temple,@,Saint Joseph's,REG (Conf),L 69-70,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,4,6,10,0,0,1,1,4,3,2.9,A,0,1,anthony-lee-1,Anthony Lee,2013
+21,53,22,2013-02-06,Temple,,Charlotte,REG (Conf),W 89-88,*,20,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,1,4,5,0,2,0,0,4,9,6.2,H,1,1,anthony-lee-1,Anthony Lee,2013
+22,54,23,2013-02-09,Temple,@,Dayton,REG (Conf),W 72-71,*,29,6,12,0.5,0,0,,6,12,0.5,0.5,1,2,0.5,3,6,9,1,0,1,2,5,13,7.9,A,1,1,anthony-lee-1,Anthony Lee,2013
+23,55,24,2013-02-14,Temple,,Duquesne,REG (Conf),L 83-84,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,5,6,0.833,0,4,4,0,1,1,1,3,5,4.6,H,0,1,anthony-lee-1,Anthony Lee,2013
+24,56,25,2013-02-16,Temple,@,Massachusetts,REG (Conf),W 83-82,*,27,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,1,6,7,0,0,0,0,2,14,10.6,A,1,1,anthony-lee-1,Anthony Lee,2013
+25,57,26,2013-02-21,Temple,,La Salle,REG (Conf),W 82-74,*,13,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,0,2,2,0,0,0,0,3,10,7.5,H,1,1,anthony-lee-1,Anthony Lee,2013
+26,58,27,2013-02-24,Temple,@,Charlotte,REG (Conf),W 71-51,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,6,7,0,1,1,3,3,4,2.7,A,1,1,anthony-lee-1,Anthony Lee,2013
+27,59,28,2013-02-28,Temple,,Detroit Mercy,REG (Non-Conf),W 83-78,*,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,4,5,0,0,1,0,1,4,4.9,H,1,1,anthony-lee-1,Anthony Lee,2013
+28,60,30,2013-03-06,Temple,@,Fordham,REG (Conf),W 74-55,*,27,5,10,0.5,0,0,,5,10,0.5,0.5,2,4,0.5,4,6,10,0,0,0,3,2,12,7.0,A,1,1,anthony-lee-1,Anthony Lee,2013
+29,61,31,2013-03-10,Temple,,VCU,REG (Conf),W 84-76,,12,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,2,1,2,0,-1.5,H,1,1,anthony-lee-1,Anthony Lee,2013
+30,62,32,2013-03-15,Temple,N,Massachusetts,CTOURN,L 74-79,*,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,1,2,0,0,0,0,4,2,-1.0,N,0,0,anthony-lee-1,Anthony Lee,2013
+31,63,33,2013-03-22,Temple,N,NC State,ROUND-64,W 76-72,,8,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,2,2,0,0,1,0,1,3,1.8,N,1,0,anthony-lee-1,Anthony Lee,2013
+32,64,34,2013-03-24,Temple,N,Indiana,ROUND-32,L 52-58,,26,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,2,3,5,0,0,1,0,4,10,7.8,N,0,0,anthony-lee-1,Anthony Lee,2013

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2021-11-09,Gonzaga,,Dixie State,REG (Non-Conf),W 97-63,*,25,6,11,0.545,1,4,0.25,5,7,0.714,0.591,4,5,0.8,6,4,10,1,2,0,1,1,17,18.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+2,27,2,2021-11-13,Gonzaga,,Texas,REG (Non-Conf),W 86-74,*,25,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,1,2,3,1,1,0,0,2,5,4.1,H,1,1,julian-strawther-1,Julian Strawther,2022
+3,28,3,2021-11-15,Gonzaga,,Alcorn State,REG (Non-Conf),W 84-57,*,23,7,9,0.778,3,4,0.75,4,5,0.8,0.944,1,2,0.5,0,3,3,2,0,0,1,1,18,15.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+4,29,4,2021-11-19,Gonzaga,,Bellarmine,REG (Non-Conf),W 92-50,*,24,6,10,0.6,4,7,0.571,2,3,0.667,0.8,3,3,1.0,4,2,6,0,0,0,1,2,19,16.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+5,30,5,2021-11-22,Gonzaga,N,Central Michigan,REG (Non-Conf),W 107-54,*,25,6,8,0.75,3,5,0.6,3,3,1.0,0.938,0,1,0.0,0,5,5,1,0,0,2,3,15,10.4,N,1,1,julian-strawther-1,Julian Strawther,2022
+6,31,6,2021-11-23,Gonzaga,N,UCLA,REG (Non-Conf),W 83-63,*,31,3,9,0.333,2,6,0.333,1,3,0.333,0.444,4,6,0.667,2,7,9,1,0,0,1,3,12,8.1,N,1,1,julian-strawther-1,Julian Strawther,2022
+7,32,7,2021-11-26,Gonzaga,N,Duke,REG (Non-Conf),L 81-84,*,36,8,16,0.5,3,7,0.429,5,9,0.556,0.594,1,2,0.5,3,7,10,1,1,0,0,5,20,15.5,N,0,1,julian-strawther-1,Julian Strawther,2022
+8,33,8,2021-11-29,Gonzaga,,Tarleton State,REG (Non-Conf),W 64-55,*,29,2,7,0.286,0,4,0.0,2,3,0.667,0.286,2,2,1.0,3,9,12,1,1,0,2,1,6,6.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+9,34,9,2021-12-04,Gonzaga,N,Alabama,REG (Non-Conf),L 82-91,*,27,4,12,0.333,3,7,0.429,1,5,0.2,0.458,2,3,0.667,1,4,5,0,2,1,2,1,13,8.0,N,0,1,julian-strawther-1,Julian Strawther,2022
+10,35,10,2021-12-09,Gonzaga,,Merrimack,REG (Non-Conf),W 80-55,*,17,6,10,0.6,2,6,0.333,4,4,1.0,0.7,1,1,1.0,0,2,2,2,1,0,0,2,15,12.6,H,1,1,julian-strawther-1,Julian Strawther,2022
+11,36,11,2021-12-18,Gonzaga,N,Texas Tech,REG (Non-Conf),W 69-55,*,25,4,8,0.5,1,5,0.2,3,3,1.0,0.563,0,0,,1,4,5,0,0,0,0,2,9,6.1,N,1,1,julian-strawther-1,Julian Strawther,2022
+12,37,12,2021-12-20,Gonzaga,,Northern Arizona,REG (Non-Conf),W 95-49,*,20,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,1,3,4,1,1,1,0,2,7,5.8,H,1,1,julian-strawther-1,Julian Strawther,2022
+13,38,13,2021-12-28,Gonzaga,,North Alabama,REG (Non-Conf),W 93-63,*,24,6,10,0.6,1,4,0.25,5,6,0.833,0.65,2,3,0.667,1,3,4,2,1,0,0,1,15,13.6,H,1,1,julian-strawther-1,Julian Strawther,2022
+14,39,14,2022-01-08,Gonzaga,,Pepperdine,REG (Conf),W 117-83,*,25,5,11,0.455,2,7,0.286,3,4,0.75,0.545,0,1,0.0,1,6,7,3,2,0,0,1,12,12.1,H,1,1,julian-strawther-1,Julian Strawther,2022
+15,40,15,2022-01-13,Gonzaga,,Brigham Young,REG (Conf),W 110-84,*,24,7,10,0.7,3,5,0.6,4,5,0.8,0.85,3,4,0.75,0,2,2,0,0,0,1,0,20,15.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+16,41,16,2022-01-15,Gonzaga,@,Santa Clara,REG (Conf),W 115-83,*,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,1,5,6,1,1,0,1,4,4,2.2,A,1,1,julian-strawther-1,Julian Strawther,2022
+17,42,17,2022-01-20,Gonzaga,,San Francisco,REG (Conf),W 78-62,*,32,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,0,7,7,1,0,0,2,3,7,2.9,H,1,1,julian-strawther-1,Julian Strawther,2022
+18,43,18,2022-01-27,Gonzaga,,Loyola Marymount,REG (Conf),W 89-55,*,25,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,2,4,6,2,0,1,0,2,10,12.0,H,1,1,julian-strawther-1,Julian Strawther,2022
+19,44,19,2022-01-29,Gonzaga,,Portland,REG (Conf),W 104-72,*,24,5,10,0.5,3,7,0.429,2,3,0.667,0.65,1,2,0.5,0,8,8,1,0,0,2,3,14,8.5,H,1,1,julian-strawther-1,Julian Strawther,2022
+20,45,20,2022-02-03,Gonzaga,@,San Diego,REG (Conf),W 92-62,*,29,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,2,1.0,0,8,8,2,0,2,1,3,11,10.0,A,1,1,julian-strawther-1,Julian Strawther,2022
+21,46,21,2022-02-05,Gonzaga,@,Brigham Young,REG (Conf),W 90-57,*,25,5,10,0.5,2,3,0.667,3,7,0.429,0.6,7,9,0.778,0,5,5,2,0,1,1,2,19,15.0,A,1,1,julian-strawther-1,Julian Strawther,2022
+22,47,22,2022-02-10,Gonzaga,,Pacific,REG (Conf),W 89-51,*,24,5,8,0.625,2,5,0.4,3,3,1.0,0.75,3,4,0.75,0,5,5,1,1,0,0,0,15,14.2,H,1,1,julian-strawther-1,Julian Strawther,2022
+23,48,23,2022-02-12,Gonzaga,,St. Mary's (CA),REG (Conf),W 74-58,*,34,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,1,1,1,2,0,1,0,11,9.7,H,1,1,julian-strawther-1,Julian Strawther,2022
+24,49,24,2022-02-16,Gonzaga,@,Pepperdine,REG (Conf),W 86-66,*,25,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,2,3,5,0,0,0,1,2,8,5.1,A,1,1,julian-strawther-1,Julian Strawther,2022
+25,50,25,2022-02-19,Gonzaga,,Santa Clara,REG (Conf),W 81-69,,22,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,1,2,3,1,0,0,0,4,6,3.7,H,1,1,julian-strawther-1,Julian Strawther,2022
+26,51,26,2022-02-24,Gonzaga,@,San Francisco,REG (Conf),W 89-73,*,31,6,11,0.545,2,4,0.5,4,7,0.571,0.636,1,1,1.0,2,5,7,0,0,0,2,3,15,9.4,A,1,1,julian-strawther-1,Julian Strawther,2022
+27,52,27,2022-02-26,Gonzaga,@,St. Mary's (CA),REG (Conf),L 57-67,*,31,6,11,0.545,1,5,0.2,5,6,0.833,0.591,1,2,0.5,3,4,7,0,1,0,3,3,14,8.4,A,0,1,julian-strawther-1,Julian Strawther,2022
+28,53,28,2022-03-07,Gonzaga,N,San Francisco,CTOURN,W 81-71,*,26,0,3,0.0,0,1,0.0,0,2,0.0,0.0,5,6,0.833,1,1,2,0,0,0,1,2,5,1.7,N,1,0,julian-strawther-1,Julian Strawther,2022
+29,54,29,2022-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 82-69,*,36,5,6,0.833,3,3,1.0,2,3,0.667,1.083,3,4,0.75,0,2,2,1,0,0,0,2,16,13.9,N,1,0,julian-strawther-1,Julian Strawther,2022
+30,55,30,2022-03-17,Gonzaga,N,Georgia State,ROUND-64,W 93-72,*,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,1,2,3,1,0,0,0,2,3,0.7,N,1,0,julian-strawther-1,Julian Strawther,2022
+31,56,31,2022-03-19,Gonzaga,N,Memphis,ROUND-32,W 82-78,*,33,3,11,0.273,0,6,0.0,3,5,0.6,0.273,0,2,0.0,3,4,7,2,0,0,0,2,6,2.6,N,1,0,julian-strawther-1,Julian Strawther,2022
+32,57,32,2022-03-24,Gonzaga,N,Arkansas,ROUND-16,L 68-74,*,33,3,9,0.333,1,5,0.2,2,4,0.5,0.389,5,6,0.833,1,2,3,0,0,0,0,1,12,7.4,N,0,0,julian-strawther-1,Julian Strawther,2022

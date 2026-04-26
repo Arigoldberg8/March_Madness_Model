@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2023-11-06,Nebraska,,Lindenwood,REG (Non-Conf),W 84-52,*,24,4,5,0.8,1,1,1.0,3,4,0.75,0.9,2,2,1.0,2,6,8,2,2,1,0,1,11,16.0,H,1,1,josiah-allick-1,Josiah Allick,2024
+2,105,2,2023-11-09,Nebraska,,Florida A&M,REG (Non-Conf),W 81-54,*,29,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,3,2,5,0,0,1,2,1,5,3.9,H,1,1,josiah-allick-1,Josiah Allick,2024
+3,106,3,2023-11-13,Nebraska,,Rider,REG (Non-Conf),W 64-50,*,30,3,3,1.0,0,0,,3,3,1.0,1.0,4,6,0.667,4,2,6,0,0,0,3,1,10,8.3,H,1,1,josiah-allick-1,Josiah Allick,2024
+4,107,4,2023-11-15,Nebraska,,Stony Brook,REG (Non-Conf),W 84-63,*,24,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,4,3,7,1,0,0,0,1,0,0.5,H,1,1,josiah-allick-1,Josiah Allick,2024
+5,108,5,2023-11-18,Nebraska,N,Oregon State,REG (Non-Conf),W 84-63,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,4,6,0.667,2,2,4,0,2,0,1,3,8,5.6,N,1,1,josiah-allick-1,Josiah Allick,2024
+6,109,6,2023-11-22,Nebraska,,Duquesne,REG (Non-Conf),W 89-79,*,23,3,5,0.6,1,1,1.0,2,4,0.5,0.7,5,7,0.714,2,5,7,5,0,0,0,0,12,15.3,H,1,1,josiah-allick-1,Josiah Allick,2024
+7,110,7,2023-11-26,Nebraska,,Cal State Fullerton,REG (Non-Conf),W 85-72,*,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,1,3,4,1,0,1,1,0,6,6.3,H,1,1,josiah-allick-1,Josiah Allick,2024
+8,111,8,2023-12-03,Nebraska,,Creighton,REG (Non-Conf),L 60-89,*,25,2,10,0.2,0,4,0.0,2,6,0.333,0.2,2,2,1.0,4,2,6,0,1,0,4,1,6,-0.2,H,0,1,josiah-allick-1,Josiah Allick,2024
+9,112,9,2023-12-06,Nebraska,@,Minnesota,REG (Conf),L 65-76,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,3,3,1,0,0,2,0,3,1.2,A,0,1,josiah-allick-1,Josiah Allick,2024
+10,113,11,2023-12-17,Nebraska,@,Kansas State,REG (Non-Conf),W 62-46,,11,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,0,0,0,0,0,0,3,3,0.4,A,1,1,josiah-allick-1,Josiah Allick,2024
+11,114,12,2023-12-20,Nebraska,,North Dakota,REG (Non-Conf),W 83-75,*,33,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,2,0.0,2,4,6,2,1,0,2,1,10,8.9,H,1,1,josiah-allick-1,Josiah Allick,2024
+12,115,13,2023-12-29,Nebraska,,South Carolina State,REG (Non-Conf),W 91-62,*,19,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,1,6,7,4,2,1,1,1,10,15.4,H,1,1,josiah-allick-1,Josiah Allick,2024
+13,116,14,2024-01-03,Nebraska,,Indiana,REG (Conf),W 86-70,,29,0,0,,0,0,,0,0,,,2,5,0.4,1,7,8,2,2,0,1,3,2,4.8,H,1,1,josiah-allick-1,Josiah Allick,2024
+14,117,15,2024-01-06,Nebraska,@,Wisconsin,REG (Conf),L 72-88,,23,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,2,3,5,2,0,0,2,1,4,3.2,A,0,1,josiah-allick-1,Josiah Allick,2024
+15,118,16,2024-01-09,Nebraska,,Purdue,REG (Conf),W 88-72,,11,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,1,0,0,1,4,5,2.5,H,1,1,josiah-allick-1,Josiah Allick,2024
+16,119,17,2024-01-12,Nebraska,@,Iowa,REG (Conf),L 76-94,,21,5,6,0.833,0,0,,5,6,0.833,0.833,4,6,0.667,3,2,5,1,1,0,0,1,14,15.0,A,0,1,josiah-allick-1,Josiah Allick,2024
+17,120,18,2024-01-17,Nebraska,@,Rutgers,REG (Conf),L 82-87 (OT),,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,1,4,5,0,0,3,1,5,5,3.9,A,0,1,josiah-allick-1,Josiah Allick,2024
+18,121,19,2024-01-20,Nebraska,,Northwestern,REG (Conf),W 75-69,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,7,8,0.875,2,3,5,2,0,0,1,2,15,14.6,H,1,1,josiah-allick-1,Josiah Allick,2024
+19,122,20,2024-01-23,Nebraska,,Ohio State,REG (Conf),W 83-69,*,24,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,4,0.5,1,2,3,0,0,0,1,1,7,2.7,H,1,1,josiah-allick-1,Josiah Allick,2024
+20,123,21,2024-01-27,Nebraska,@,Maryland,REG (Conf),L 51-73,*,25,0,2,0.0,0,0,,0,2,0.0,0.0,3,6,0.5,1,3,4,2,0,1,1,3,3,1.9,A,0,1,josiah-allick-1,Josiah Allick,2024
+21,124,22,2024-02-01,Nebraska,,Wisconsin,REG (Conf),W 80-72 (OT),*,28,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,2,2,4,0,1,0,2,1,3,2.5,H,1,1,josiah-allick-1,Josiah Allick,2024
+22,125,23,2024-02-04,Nebraska,@,Illinois,REG (Conf),L 84-87 (OT),*,33,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,0,,1,3,4,1,3,0,0,4,5,6.0,A,0,1,josiah-allick-1,Josiah Allick,2024
+23,126,24,2024-02-07,Nebraska,@,Northwestern,REG (Conf),L 68-80,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,2,2,0,-3.5,A,0,1,josiah-allick-1,Josiah Allick,2024
+24,127,25,2024-02-10,Nebraska,,Michigan,REG (Conf),W 79-59,*,22,7,10,0.7,0,0,,7,10,0.7,0.7,2,4,0.5,4,4,8,1,1,1,1,2,16,15.6,H,1,1,josiah-allick-1,Josiah Allick,2024
+25,128,26,2024-02-17,Nebraska,,Penn State,REG (Conf),W 68-49,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,5,5,1,1,0,1,3,6,4.7,H,1,1,josiah-allick-1,Josiah Allick,2024
+26,129,27,2024-02-21,Nebraska,@,Indiana,REG (Conf),W 85-70,*,28,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,1,0.0,2,4,6,4,0,0,0,4,7,6.7,A,1,1,josiah-allick-1,Josiah Allick,2024
+27,130,28,2024-02-25,Nebraska,,Minnesota,REG (Conf),W 73-55,*,22,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,3,5,8,1,0,1,1,1,9,9.6,H,1,1,josiah-allick-1,Josiah Allick,2024
+28,131,29,2024-02-29,Nebraska,@,Ohio State,REG (Conf),L 69-78,*,20,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,2,1,0,1,3,4,4.2,A,0,1,josiah-allick-1,Josiah Allick,2024
+29,132,30,2024-03-03,Nebraska,,Rutgers,REG (Conf),W 67-56,*,24,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,4,0.25,6,6,12,2,0,0,0,4,10,11.3,H,1,1,josiah-allick-1,Josiah Allick,2024
+30,133,31,2024-03-10,Nebraska,@,Michigan,REG (Conf),W 85-70,*,26,6,6,1.0,0,0,,6,6,1.0,1.0,3,4,0.75,1,4,5,0,0,1,0,3,15,14.2,A,1,1,josiah-allick-1,Josiah Allick,2024
+31,134,32,2024-03-15,Nebraska,N,Indiana,CTOURN,W 93-66,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,5,8,0.625,2,7,9,1,1,0,0,1,7,8.9,N,1,0,josiah-allick-1,Josiah Allick,2024
+32,135,33,2024-03-16,Nebraska,N,Illinois,CTOURN,L 87-98,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,4,3,7,2,0,0,1,2,6,7.3,N,0,0,josiah-allick-1,Josiah Allick,2024
+33,136,34,2024-03-22,Nebraska,N,Texas A&M,ROUND-64,L 83-98,*,32,6,11,0.545,0,0,,6,11,0.545,0.545,2,2,1.0,4,7,11,3,0,0,1,3,14,13.5,N,0,0,josiah-allick-1,Josiah Allick,2024

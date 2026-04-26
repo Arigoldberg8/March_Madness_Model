@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2010-11-15,Cincinnati,,Mount St. Mary's,REG (Non-Conf),W 69-59,*,30,7,16,0.438,0,0,,7,16,0.438,0.438,1,3,0.333,4,6,10,2,0,1,3,5,15,7.5,H,1,1,yancy-gates-1,Yancy Gates,2011
+2,69,2,2010-11-20,Cincinnati,,IPFW,REG (Non-Conf),W 65-59,*,36,5,9,0.556,0,0,,5,9,0.556,0.556,3,4,0.75,3,4,7,3,0,1,2,2,13,11.6,H,1,1,yancy-gates-1,Yancy Gates,2011
+3,70,3,2010-11-22,Cincinnati,,Florida A&M,REG (Non-Conf),W 76-51,*,33,5,12,0.417,0,0,,5,12,0.417,0.417,1,2,0.5,4,7,11,1,2,4,3,2,11,10.8,H,1,1,yancy-gates-1,Yancy Gates,2011
+4,71,4,2010-11-24,Cincinnati,,Savannah State,REG (Non-Conf),W 54-41,*,32,6,14,0.429,0,0,,6,14,0.429,0.429,0,3,0.0,6,3,9,3,0,1,2,2,12,8.5,H,1,1,yancy-gates-1,Yancy Gates,2011
+5,72,5,2010-11-27,Cincinnati,N,Dayton,REG (Non-Conf),W 68-34,*,13,1,5,0.2,0,0,,1,5,0.2,0.2,3,5,0.6,0,2,2,1,1,1,1,3,5,1.9,N,1,1,yancy-gates-1,Yancy Gates,2011
+6,73,6,2010-12-01,Cincinnati,,Wright State,REG (Non-Conf),W 77-69,*,33,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,3,0.667,1,6,7,2,0,3,2,1,10,8.5,H,1,1,yancy-gates-1,Yancy Gates,2011
+7,74,7,2010-12-04,Cincinnati,@,Toledo,REG (Non-Conf),W 81-47,*,18,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,0,4,4,1,2,1,0,0,8,7.9,A,1,1,yancy-gates-1,Yancy Gates,2011
+8,75,8,2010-12-11,Cincinnati,,Utah Valley,REG (Non-Conf),W 92-72,*,22,5,13,0.385,1,2,0.5,4,11,0.364,0.423,3,4,0.75,1,2,3,2,0,2,0,1,14,10.2,H,1,1,yancy-gates-1,Yancy Gates,2011
+9,76,9,2010-12-14,Cincinnati,,Georgia Southern,REG (Non-Conf),W 99-54,*,18,6,8,0.75,0,0,,6,8,0.75,0.75,0,1,0.0,3,3,6,1,0,3,0,2,12,13.4,H,1,1,yancy-gates-1,Yancy Gates,2011
+10,77,10,2010-12-18,Cincinnati,N,Oklahoma,REG (Non-Conf),W 66-56,*,22,5,8,0.625,0,0,,5,8,0.625,0.625,1,2,0.5,2,5,7,0,0,0,3,4,11,5.3,N,1,1,yancy-gates-1,Yancy Gates,2011
+11,78,11,2010-12-21,Cincinnati,@,Miami (OH),REG (Non-Conf),W 64-48,*,33,2,9,0.222,0,1,0.0,2,8,0.25,0.222,4,8,0.5,3,5,8,0,0,2,2,0,8,3.9,A,1,1,yancy-gates-1,Yancy Gates,2011
+12,79,12,2010-12-23,Cincinnati,,Saint Francis (PA),REG (Non-Conf),W 94-58,,20,8,10,0.8,0,0,,8,10,0.8,0.8,2,3,0.667,4,2,6,3,4,1,3,1,18,20.6,H,1,1,yancy-gates-1,Yancy Gates,2011
+13,80,13,2010-12-28,Cincinnati,,DePaul,REG (Conf),W 76-60,*,31,7,13,0.538,0,1,0.0,7,12,0.583,0.538,1,2,0.5,2,4,6,2,2,2,2,2,15,12.9,H,1,1,yancy-gates-1,Yancy Gates,2011
+14,81,14,2010-12-31,Cincinnati,,Seton Hall,REG (Conf),W 70-53,*,32,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,1,5,6,1,1,2,1,4,9,8.7,H,1,1,yancy-gates-1,Yancy Gates,2011
+15,82,15,2011-01-06,Cincinnati,,Xavier,REG (Non-Conf),W 66-46,*,37,10,16,0.625,0,0,,10,16,0.625,0.625,2,2,1.0,5,9,14,2,1,2,1,1,22,23.4,H,1,1,yancy-gates-1,Yancy Gates,2011
+16,83,16,2011-01-09,Cincinnati,@,Villanova,REG (Conf),L 61-72,*,33,5,10,0.5,0,0,,5,10,0.5,0.5,1,3,0.333,4,5,9,0,0,0,1,2,11,7.7,A,0,1,yancy-gates-1,Yancy Gates,2011
+17,84,17,2011-01-12,Cincinnati,,South Florida,REG (Conf),W 74-66,*,30,3,6,0.5,0,0,,3,6,0.5,0.5,3,6,0.5,0,3,3,0,3,0,1,2,9,6.9,H,1,1,yancy-gates-1,Yancy Gates,2011
+18,85,18,2011-01-15,Cincinnati,@,Syracuse,REG (Conf),L 52-67,*,17,1,6,0.167,0,0,,1,6,0.167,0.167,1,3,0.333,1,2,3,1,1,0,2,1,3,-1.0,A,0,1,yancy-gates-1,Yancy Gates,2011
+19,86,19,2011-01-19,Cincinnati,@,Notre Dame,REG (Conf),L 58-66,*,32,6,16,0.375,0,1,0.0,6,15,0.4,0.375,1,2,0.5,1,4,5,1,1,1,1,2,13,6.3,A,0,1,yancy-gates-1,Yancy Gates,2011
+20,87,20,2011-01-22,Cincinnati,@,St. John's (NY),REG (Conf),W 53-51,*,21,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,3,1.0,2,6,8,0,1,0,0,4,13,11.3,A,1,1,yancy-gates-1,Yancy Gates,2011
+21,88,21,2011-01-26,Cincinnati,,Rutgers,REG (Conf),W 72-56,*,30,5,7,0.714,0,0,,5,7,0.714,0.714,1,4,0.25,1,11,12,0,1,1,1,4,11,10.0,H,1,1,yancy-gates-1,Yancy Gates,2011
+22,89,22,2011-01-29,Cincinnati,,West Virginia,REG (Conf),L 55-66,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,3,0.333,1,4,5,1,1,1,1,0,7,5.8,H,0,1,yancy-gates-1,Yancy Gates,2011
+23,90,24,2011-02-08,Cincinnati,@,DePaul,REG (Conf),W 71-68,,16,2,4,0.5,0,0,,2,4,0.5,0.5,1,4,0.25,0,3,3,0,1,1,1,5,5,1.4,A,1,1,yancy-gates-1,Yancy Gates,2011
+24,91,25,2011-02-13,Cincinnati,,St. John's (NY),REG (Conf),L 57-59,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,3,0,3,0,1,0,0,0,0,1.6,H,0,1,yancy-gates-1,Yancy Gates,2011
+25,92,26,2011-02-16,Cincinnati,,Louisville,REG (Conf),W 63-54,,30,2,8,0.25,0,0,,2,8,0.25,0.25,4,6,0.667,1,5,6,2,1,2,0,2,8,7.6,H,1,1,yancy-gates-1,Yancy Gates,2011
+26,93,27,2011-02-19,Cincinnati,@,Providence,REG (Conf),W 93-81 (OT),,35,8,14,0.571,0,0,,8,14,0.571,0.571,5,7,0.714,2,6,8,2,1,0,1,2,21,17.4,A,1,1,yancy-gates-1,Yancy Gates,2011
+27,94,28,2011-02-23,Cincinnati,@,Georgetown,REG (Conf),W 58-46,,31,7,12,0.583,0,1,0.0,7,11,0.636,0.583,3,5,0.6,4,7,11,1,0,2,1,2,17,15.8,A,1,1,yancy-gates-1,Yancy Gates,2011
+28,95,29,2011-02-27,Cincinnati,,Connecticut,REG (Conf),L 59-67,*,32,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,4,4,8,3,2,0,3,2,14,14.4,H,0,1,yancy-gates-1,Yancy Gates,2011
+29,96,30,2011-03-02,Cincinnati,@,Marquette,REG (Conf),W 67-60,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,3,8,11,2,0,2,3,4,11,10.7,A,1,1,yancy-gates-1,Yancy Gates,2011
+30,97,31,2011-03-05,Cincinnati,,Georgetown,REG (Conf),W 69-47,*,29,1,5,0.2,1,1,1.0,0,4,0.0,0.3,10,10,1.0,0,5,5,1,0,1,1,2,13,11.0,H,1,1,yancy-gates-1,Yancy Gates,2011
+31,98,32,2011-03-09,Cincinnati,N,South Florida,CTOURN,W 87-61,*,23,10,11,0.909,0,0,,10,11,0.909,0.909,5,8,0.625,1,3,4,1,0,2,0,3,25,22.6,N,1,0,yancy-gates-1,Yancy Gates,2011
+32,99,33,2011-03-10,Cincinnati,N,Notre Dame,CTOURN,L 51-89,*,34,4,10,0.4,0,0,,4,10,0.4,0.4,4,6,0.667,3,6,9,2,0,3,2,4,12,9.6,N,0,0,yancy-gates-1,Yancy Gates,2011
+33,100,34,2011-03-17,Cincinnati,N,Missouri,ROUND-64,W 78-63,*,35,7,8,0.875,2,2,1.0,5,6,0.833,1.0,2,6,0.333,2,9,11,1,0,1,0,3,18,17.9,N,1,0,yancy-gates-1,Yancy Gates,2011
+34,101,35,2011-03-19,Cincinnati,N,Connecticut,ROUND-32,L 58-69,*,36,4,11,0.364,0,0,,4,11,0.364,0.364,3,5,0.6,2,4,6,0,0,0,0,1,11,6.3,N,0,0,yancy-gates-1,Yancy Gates,2011

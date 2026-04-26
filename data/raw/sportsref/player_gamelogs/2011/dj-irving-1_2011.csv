@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Boston University,@,Northeastern,REG (Non-Conf),L 64-66,*,27,5,6,0.833,2,3,0.667,3,3,1.0,1.0,2,2,1.0,0,5,5,5,1,0,3,3,14,13.6,A,0,1,dj-irving-1,D.J. Irving,2011
+2,2,2,2010-11-16,Boston University,N,George Washington,REG (Non-Conf),W 76-67,*,32,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,4,0.75,0,3,3,2,4,0,1,3,7,6.6,N,1,1,dj-irving-1,D.J. Irving,2011
+3,3,3,2010-11-17,Boston University,@,Villanova,REG (Non-Conf),L 66-82,*,26,1,8,0.125,0,4,0.0,1,4,0.25,0.125,0,0,,0,1,1,4,0,0,3,3,2,-4.3,A,0,1,dj-irving-1,D.J. Irving,2011
+4,4,4,2010-11-19,Boston University,,Marist,REG (Non-Conf),W 58-37,*,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,1,0.0,0,3,3,1,0,0,2,4,7,2.3,H,1,1,dj-irving-1,D.J. Irving,2011
+5,5,5,2010-11-22,Boston University,N,Hampton,REG (Non-Conf),L 50-51,*,19,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,2,0,0,2,5,2,-3.4,N,0,1,dj-irving-1,D.J. Irving,2011
+6,6,6,2010-11-23,Boston University,N,Nevada,REG (Non-Conf),W 66-57,*,23,3,7,0.429,2,3,0.667,1,4,0.25,0.571,5,6,0.833,1,2,3,2,2,0,3,2,13,9.8,N,1,1,dj-irving-1,D.J. Irving,2011
+7,7,7,2010-11-27,Boston University,,Cornell,REG (Non-Conf),W 66-61,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,0,4,4,5,4,1,4,1,5,7.9,H,1,1,dj-irving-1,D.J. Irving,2011
+8,8,8,2010-11-30,Boston University,@,Kentucky,REG (Non-Conf),L 57-91,*,13,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,1,0,0,3,3,0,-5.0,A,0,1,dj-irving-1,D.J. Irving,2011
+9,9,9,2010-12-04,Boston University,@,Bucknell,REG (Non-Conf),L 49-52,,22,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,1,1,0,-0.1,A,0,1,dj-irving-1,D.J. Irving,2011
+10,10,10,2010-12-09,Boston University,,La Salle,REG (Non-Conf),L 81-84,,30,3,6,0.5,2,2,1.0,1,4,0.25,0.667,3,4,0.75,1,1,2,5,2,0,2,3,11,10.9,H,0,1,dj-irving-1,D.J. Irving,2011
+11,11,11,2010-12-11,Boston University,@,Harvard,REG (Non-Conf),L 71-87,,29,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,0,1,4,1,0,1,2,0,-0.1,A,0,1,dj-irving-1,D.J. Irving,2011
+12,12,12,2010-12-21,Boston University,,Saint Joseph's,REG (Non-Conf),W 85-79,*,24,1,5,0.2,0,1,0.0,1,4,0.25,0.2,7,8,0.875,1,0,1,4,0,0,0,3,9,7.8,H,1,1,dj-irving-1,D.J. Irving,2011
+13,13,13,2010-12-29,Boston University,,Quinnipiac,REG (Non-Conf),L 81-82,*,33,4,11,0.364,0,4,0.0,4,7,0.571,0.364,6,6,1.0,0,2,2,7,0,0,1,4,14,10.8,H,0,1,dj-irving-1,D.J. Irving,2011
+14,14,14,2010-12-31,Boston University,@,Massachusetts,REG (Non-Conf),L 54-71,*,28,4,7,0.571,1,1,1.0,3,6,0.5,0.643,3,4,0.75,0,1,1,3,1,0,1,3,12,9.5,A,0,1,dj-irving-1,D.J. Irving,2011
+15,15,15,2011-01-02,Boston University,@,Maine,REG (Conf),L 52-65,*,39,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,1,1,2,3,2,0,1,3,8,7.2,A,0,1,dj-irving-1,D.J. Irving,2011
+16,16,16,2011-01-04,Boston University,,New Hampshire,REG (Conf),W 61-54,*,32,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,3,3,2,1,0,4,3,4,1.8,H,1,1,dj-irving-1,D.J. Irving,2011
+17,17,17,2011-01-09,Boston University,,Vermont,REG (Conf),W 74-65,*,35,5,9,0.556,0,1,0.0,5,8,0.625,0.556,6,6,1.0,2,0,2,4,1,0,1,1,16,15.5,H,1,1,dj-irving-1,D.J. Irving,2011
+18,18,18,2011-01-15,Boston University,@,Albany (NY),REG (Conf),W 70-67,*,36,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,3,3,7,1,0,0,3,5,8.9,A,1,1,dj-irving-1,D.J. Irving,2011
+19,19,19,2011-01-17,Boston University,@,UMBC,REG (Conf),L 67-71,*,34,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,1,1,2,10,1,0,2,2,2,6.1,A,0,1,dj-irving-1,D.J. Irving,2011
+20,20,20,2011-01-20,Boston University,,Stony Brook,REG (Conf),W 67-62,*,36,4,8,0.5,0,1,0.0,4,7,0.571,0.5,5,6,0.833,0,2,2,6,1,0,2,3,13,11.2,H,1,1,dj-irving-1,D.J. Irving,2011
+21,21,21,2011-01-22,Boston University,@,Hartford,REG (Conf),L 55-59,*,36,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,4,1.0,3,1,4,4,0,0,7,1,13,7.5,A,0,1,dj-irving-1,D.J. Irving,2011
+22,22,22,2011-01-26,Boston University,,Binghamton,REG (Conf),W 71-66,*,34,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,2,1,3,5,2,0,1,2,7,7.6,H,1,1,dj-irving-1,D.J. Irving,2011
+23,23,23,2011-01-29,Boston University,@,New Hampshire,REG (Conf),L 48-60,*,37,1,7,0.143,0,2,0.0,1,5,0.2,0.143,4,4,1.0,1,5,6,2,1,0,5,4,6,-0.5,A,0,1,dj-irving-1,D.J. Irving,2011
+24,24,24,2011-02-01,Boston University,,Maine,REG (Conf),W 88-78,*,27,6,7,0.857,4,4,1.0,2,3,0.667,1.143,0,0,,0,2,2,1,0,0,0,5,16,12.8,H,1,1,dj-irving-1,D.J. Irving,2011
+25,25,25,2011-02-04,Boston University,@,Stony Brook,REG (Conf),W 62-49,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,4,4,4,1,0,1,3,4,5.8,A,1,1,dj-irving-1,D.J. Irving,2011
+26,26,26,2011-02-10,Boston University,N,Albany (NY),REG (Conf),W 63-44,*,33,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,3,3,4,0,0,2,5,3,-0.4,N,1,1,dj-irving-1,D.J. Irving,2011
+27,27,27,2011-02-12,Boston University,,Hartford,REG (Conf),W 61-50,*,29,1,5,0.2,0,0,,1,5,0.2,0.2,4,4,1.0,0,2,2,4,0,0,2,3,6,3.1,H,1,1,dj-irving-1,D.J. Irving,2011
+28,28,28,2011-02-15,Boston University,,UMBC,REG (Conf),W 85-53,*,28,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,2,2,4,6,0,0,1,2,6,7.0,H,1,1,dj-irving-1,D.J. Irving,2011
+29,29,29,2011-02-19,Boston University,,Canisius,REG (Non-Conf),W 70-62,*,36,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,4,1.0,1,4,5,4,0,0,2,2,9,8.2,H,1,1,dj-irving-1,D.J. Irving,2011
+30,30,30,2011-02-24,Boston University,@,Binghamton,REG (Conf),W 53-51,*,36,5,12,0.417,1,4,0.25,4,8,0.5,0.458,3,6,0.5,1,1,2,1,1,0,3,1,14,5.7,A,1,1,dj-irving-1,D.J. Irving,2011
+31,31,31,2011-02-27,Boston University,@,Vermont,REG (Conf),W 66-64 (OT),*,40,6,9,0.667,0,3,0.0,6,6,1.0,0.667,6,10,0.6,2,1,3,4,1,0,0,5,18,16.0,A,1,1,dj-irving-1,D.J. Irving,2011
+32,32,32,2011-03-05,Boston University,N,New Hampshire,CTOURN,W 69-60,*,36,3,11,0.273,1,6,0.167,2,5,0.4,0.318,4,5,0.8,1,2,3,0,0,0,1,2,11,3.6,N,1,0,dj-irving-1,D.J. Irving,2011
+33,33,33,2011-03-06,Boston University,N,Hartford,CTOURN,W 55-49,*,36,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,1,1,2,3,0,0,3,3,3,-0.6,N,1,0,dj-irving-1,D.J. Irving,2011
+34,34,34,2011-03-12,Boston University,,Stony Brook,CTOURN,W 56-54,*,40,1,8,0.125,0,3,0.0,1,5,0.2,0.125,6,6,1.0,0,2,2,1,1,0,2,0,8,3.1,H,1,0,dj-irving-1,D.J. Irving,2011
+35,35,35,2011-03-18,Boston University,N,Kansas,ROUND-64,L 53-72,*,35,3,6,0.5,0,0,,3,6,0.5,0.5,5,6,0.833,0,5,5,6,0,0,5,2,11,7.5,N,0,0,dj-irving-1,D.J. Irving,2011

@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,3,2012-11-16,Colorado,N,Baylor,REG (Non-Conf),W 60-58,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,jeremy-adams-1,Jeremy Adams,2013
+2,33,4,2012-11-18,Colorado,N,Murray State,REG (Non-Conf),W 81-74,,4,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,1,2,3,0,0,0,0,1,5,5.6,N,1,1,jeremy-adams-1,Jeremy Adams,2013
+3,34,5,2012-11-25,Colorado,,Air Force,REG (Non-Conf),W 89-74,,10,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,0,0,0,1,0,2,1.3,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+4,35,6,2012-11-27,Colorado,,Texas Southern,REG (Non-Conf),W 85-80 (2OT),,11,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,1,1,2,0.6,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+5,36,7,2012-12-01,Colorado,@,Wyoming,REG (Non-Conf),L 69-76,,11,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,1,0,0,1,2,2,-0.8,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+6,37,8,2012-12-05,Colorado,,Colorado State,REG (Non-Conf),W 70-61,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+7,38,9,2012-12-08,Colorado,@,Kansas,REG (Non-Conf),L 54-90,,6,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,1,0,0,2,0,1,-0.4,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+8,39,10,2012-12-12,Colorado,@,Fresno State,REG (Non-Conf),W 50-43,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,1,1,0,-0.1,A,1,1,jeremy-adams-1,Jeremy Adams,2013
+9,40,11,2012-12-21,Colorado,,Northern Arizona,REG (Non-Conf),W 98-51,,16,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,3,0.333,0,1,1,1,2,0,1,1,8,6.5,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+10,41,12,2012-12-29,Colorado,,Hartford,REG (Non-Conf),W 80-52,,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,2,0,2,0,1,0,1,2,3,1.9,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+11,42,13,2013-01-03,Colorado,@,Arizona,REG (Conf),L 83-92 (OT),,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,0,0,0,0,0,0,0,2,0.9,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+12,43,14,2013-01-06,Colorado,@,Arizona State,REG (Conf),L 56-65,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+13,44,15,2013-01-10,Colorado,,Southern California,REG (Conf),W 66-60,,4,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+14,45,16,2013-01-12,Colorado,,UCLA,REG (Conf),L 75-78,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,H,0,1,jeremy-adams-1,Jeremy Adams,2013
+15,46,17,2013-01-16,Colorado,@,Washington,REG (Conf),L 54-64,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+16,47,18,2013-01-19,Colorado,@,Washington State,REG (Conf),W 58-49,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,0,1,0,1,1,4,3.6,A,1,1,jeremy-adams-1,Jeremy Adams,2013
+17,48,19,2013-01-24,Colorado,,Stanford,REG (Conf),W 75-54,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,2,0.0,0,1,1,0,0,0,1,2,3,0.4,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+18,49,20,2013-01-27,Colorado,,California,REG (Conf),W 81-71,,12,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+19,50,22,2013-02-07,Colorado,@,Oregon,REG (Conf),W 48-47,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,2,3,0,0,0,1,0,5,3.6,A,1,1,jeremy-adams-1,Jeremy Adams,2013
+20,51,23,2013-02-10,Colorado,@,Oregon State,REG (Conf),W 72-68,,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,1,0.0,1,0,1,0,0,0,0,1,0,-1.5,A,1,1,jeremy-adams-1,Jeremy Adams,2013
+21,52,24,2013-02-14,Colorado,,Arizona,REG (Conf),W 71-58,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+22,53,25,2013-02-16,Colorado,,Arizona State,REG (Conf),L 62-63 (OT),,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,H,0,1,jeremy-adams-1,Jeremy Adams,2013
+23,54,26,2013-02-21,Colorado,,Utah,REG (Conf),W 60-50,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,4,0.75,1,2,3,0,2,1,0,1,9,9.9,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+24,55,27,2013-02-27,Colorado,@,Stanford,REG (Conf),W 65-63,,27,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,1,3,4,0,0,0,2,3,8,4.4,A,1,1,jeremy-adams-1,Jeremy Adams,2013
+25,56,28,2013-03-02,Colorado,@,California,REG (Conf),L 46-62,,11,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,0,2,0,0,0,0,2,1,-0.2,A,0,1,jeremy-adams-1,Jeremy Adams,2013
+26,57,29,2013-03-07,Colorado,,Oregon,REG (Conf),W 76-53,,23,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,2,2,0,0,0,2,3,7,2.8,H,1,1,jeremy-adams-1,Jeremy Adams,2013
+27,58,30,2013-03-09,Colorado,,Oregon State,REG (Conf),L 58-64,,15,1,5,0.2,1,1,1.0,0,4,0.0,0.3,0,0,,2,1,3,1,0,0,0,1,3,1.9,H,0,1,jeremy-adams-1,Jeremy Adams,2013
+28,59,31,2013-03-13,Colorado,N,Oregon State,CTOURN,W 74-68,,18,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,1,2,1,1,0,0,2,8,6.9,N,1,0,jeremy-adams-1,Jeremy Adams,2013
+29,60,32,2013-03-14,Colorado,N,Arizona,CTOURN,L 69-79,,23,1,4,0.25,1,1,1.0,0,3,0.0,0.375,1,2,0.5,0,2,2,0,0,0,1,2,4,0.0,N,0,0,jeremy-adams-1,Jeremy Adams,2013
+30,61,33,2013-03-22,Colorado,N,Illinois,ROUND-64,L 49-57,,19,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,1,0,0,1,0,1,-1.5,N,0,0,jeremy-adams-1,Jeremy Adams,2013

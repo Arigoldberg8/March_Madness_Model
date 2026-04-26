@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-12,Memphis,,North Florida,REG (Non-Conf),W 81-66,,21,1,5,0.2,0,0,,1,5,0.2,0.2,6,6,1.0,5,2,7,2,3,1,2,1,8,11.7,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+2,2,2,2012-11-17,Memphis,,Samford,REG (Non-Conf),W 65-54,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,0,0,2,3,2,-1.2,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+3,3,3,2012-11-22,Memphis,N,VCU,REG (Non-Conf),L 65-78,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,1,1,0,2,0,2,5,6,2.7,N,0,1,shaq-goodwin-1,Shaq Goodwin,2013
+4,4,4,2012-11-23,Memphis,N,Minnesota,REG (Non-Conf),L 75-84,*,25,4,10,0.4,0,0,,4,10,0.4,0.4,4,5,0.8,3,4,7,2,4,0,2,4,12,11.3,N,0,1,shaq-goodwin-1,Shaq Goodwin,2013
+5,5,5,2012-11-24,Memphis,N,Northern Iowa,REG (Non-Conf),W 52-47,*,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,2,3,0,0,1,1,2,0,-1.9,N,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+6,6,6,2012-11-29,Memphis,,UT Martin,REG (Non-Conf),W 93-65,*,29,5,7,0.714,0,0,,5,7,0.714,0.714,7,9,0.778,5,7,12,2,1,2,1,1,17,21.3,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+7,7,7,2012-12-05,Memphis,,Ohio,REG (Non-Conf),W 84-58,*,28,6,8,0.75,0,0,,6,8,0.75,0.75,8,10,0.8,5,4,9,3,0,1,2,3,20,20.3,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+8,8,8,2012-12-08,Memphis,,Austin Peay,REG (Non-Conf),W 83-65,*,24,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,5,3,8,5,4,1,4,4,4,8.6,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+9,9,9,2012-12-15,Memphis,,Louisville,REG (Non-Conf),L 78-87,*,27,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,3,5,2,0,1,2,5,4,2.0,H,0,1,shaq-goodwin-1,Shaq Goodwin,2013
+10,10,10,2012-12-20,Memphis,,Lipscomb,REG (Non-Conf),W 62-56,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,3,10,0.3,3,4,7,1,0,1,1,5,11,6.6,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+11,11,11,2012-12-28,Memphis,,Oral Roberts,REG (Non-Conf),W 72-57,*,20,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,3,2,5,1,0,0,1,5,8,3.7,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+12,12,12,2012-12-30,Memphis,,Loyola (MD),REG (Non-Conf),W 78-64,*,26,5,6,0.833,0,0,,5,6,0.833,0.833,5,9,0.556,1,2,3,1,3,1,3,2,15,13.1,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+13,13,13,2013-01-04,Memphis,@,Tennessee,REG (Non-Conf),W 85-80,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,1,1,2,1,3,1,0,4,7,7.8,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+14,14,14,2013-01-09,Memphis,,East Carolina,REG (Conf),W 67-54,*,25,5,10,0.5,0,0,,5,10,0.5,0.5,2,4,0.5,2,6,8,0,1,1,1,2,12,9.3,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+15,15,15,2013-01-12,Memphis,@,UAB,REG (Conf),W 69-53,*,18,4,6,0.667,0,0,,4,6,0.667,0.667,2,3,0.667,1,2,3,1,0,1,0,4,10,8.1,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+16,16,16,2013-01-16,Memphis,@,Rice,REG (Conf),W 77-51,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,6,12,0.5,3,1,4,2,0,2,4,1,10,6.4,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+17,17,17,2013-01-19,Memphis,,Harvard,REG (Non-Conf),W 60-50,*,22,4,11,0.364,0,0,,4,11,0.364,0.364,3,5,0.6,4,4,8,2,3,3,5,4,11,8.0,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+18,18,18,2013-01-22,Memphis,,Tulane,REG (Conf),W 71-60,*,18,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,2,3,1,1,2,1,2,3,3.5,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+19,19,19,2013-01-26,Memphis,,Marshall,REG (Conf),W 73-72,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,5,6,0.833,1,3,4,0,0,1,2,3,11,7.4,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+20,20,20,2013-01-30,Memphis,@,East Carolina,REG (Conf),W 75-68,*,27,2,9,0.222,0,0,,2,9,0.222,0.222,1,1,1.0,4,6,10,1,2,3,2,4,5,5.3,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+21,21,21,2013-02-02,Memphis,,Tulsa,REG (Conf),W 94-64,*,27,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,8,0.75,3,0,3,2,3,1,2,4,10,9.4,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+22,22,22,2013-02-06,Memphis,@,SMU,REG (Conf),W 60-52,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,1,4,0.25,3,2,5,0,0,2,2,3,3,1.0,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+23,23,23,2013-02-09,Memphis,@,Southern Mississippi,REG (Conf),W 89-76,*,20,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,0,4,4,4,0,2,4,3,9,7.2,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+24,24,24,2013-02-13,Memphis,,UCF,REG (Conf),W 93-71,*,15,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,2,1,3,2,1,1,1,3,4,3.9,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+25,25,25,2013-02-16,Memphis,@,Marshall,REG (Conf),W 71-59,*,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,1,1,1,1,4,4,2.1,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+26,26,26,2013-02-20,Memphis,,Houston,REG (Conf),W 81-74,*,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,0,0,0,0,1,1,2,3,2,-1.3,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+27,27,27,2013-02-23,Memphis,,Southern Mississippi,REG (Conf),W 89-73,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,7,9,0.778,1,4,5,5,1,2,2,4,19,19.9,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+28,28,28,2013-02-26,Memphis,@,Xavier,REG (Non-Conf),L 62-64,*,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,1,1,4,2,0.4,A,0,1,shaq-goodwin-1,Shaq Goodwin,2013
+29,29,29,2013-03-02,Memphis,@,UCF,REG (Conf),W 76-67,*,28,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,2,3,5,2,1,1,0,2,9,8.5,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+30,30,30,2013-03-05,Memphis,@,UTEP,REG (Conf),W 56-54,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,4,0.5,2,0,2,0,0,0,3,5,4,-2.8,A,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+31,31,31,2013-03-09,Memphis,,UAB,REG (Conf),W 86-71,*,15,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,3,0,3,0,1,1,0,4,4,2.1,H,1,1,shaq-goodwin-1,Shaq Goodwin,2013
+32,32,32,2013-03-14,Memphis,N,Tulane,CTOURN,W 81-68,*,14,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,0,2,2,0,0,1,3,2,6,1.5,N,1,0,shaq-goodwin-1,Shaq Goodwin,2013
+33,33,33,2013-03-15,Memphis,N,Tulsa,CTOURN,W 85-74,*,27,6,13,0.462,0,0,,6,13,0.462,0.462,0,1,0.0,3,1,4,3,0,0,1,2,12,7.6,N,1,0,shaq-goodwin-1,Shaq Goodwin,2013
+34,34,34,2013-03-16,Memphis,N,Southern Mississippi,CTOURN,W 91-79 (2OT),*,20,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,4,3,7,0,1,1,3,5,2,-2.1,N,1,0,shaq-goodwin-1,Shaq Goodwin,2013
+35,35,35,2013-03-21,Memphis,N,St. Mary's (CA),ROUND-64,W 54-52,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,1,1,2,0,-1.1,N,1,0,shaq-goodwin-1,Shaq Goodwin,2013
+36,36,36,2013-03-23,Memphis,N,Michigan State,ROUND-32,L 48-70,*,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,1,1,1,0,1,0,0.9,N,0,0,shaq-goodwin-1,Shaq Goodwin,2013

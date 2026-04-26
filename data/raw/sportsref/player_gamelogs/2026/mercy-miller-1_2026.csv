@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2025-11-03,Houston,,Lehigh,REG (Non-Conf),W 75-57,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,H,1,1,mercy-miller-1,Mercy Miller,2026
+2,24,2,2025-11-08,Houston,,Towson,REG (Non-Conf),W 65-48,,7,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,1,1,0,0,1,5,5.0,H,1,1,mercy-miller-1,Mercy Miller,2026
+3,25,3,2025-11-12,Houston,,Oakland,REG (Non-Conf),W 78-45,,19,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,2,2,4,0,1,0,0,1,7,5.2,H,1,1,mercy-miller-1,Mercy Miller,2026
+4,26,4,2025-11-16,Houston,N,Auburn,REG (Non-Conf),W 73-72,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,1,0,0,0,1.4,N,1,1,mercy-miller-1,Mercy Miller,2026
+5,27,5,2025-11-20,Houston,,Rider,REG (Non-Conf),W 91-45,,25,6,10,0.6,0,1,0.0,6,9,0.667,0.6,2,2,1.0,1,1,2,1,3,0,0,1,14,13.7,H,1,1,mercy-miller-1,Mercy Miller,2026
+6,28,6,2025-11-24,Houston,N,Syracuse,REG (Non-Conf),W 78-74 (OT),,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,0,2,2,0,0,0,0,1,0,-1.6,N,1,1,mercy-miller-1,Mercy Miller,2026
+7,29,7,2025-11-25,Houston,N,Tennessee,REG (Non-Conf),L 73-76,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,2,0,-1.2,N,0,1,mercy-miller-1,Mercy Miller,2026
+8,30,8,2025-11-26,Houston,N,Notre Dame,REG (Non-Conf),W 66-56,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,4,4,1.0,2,2,4,1,0,0,0,4,4,3.0,N,1,1,mercy-miller-1,Mercy Miller,2026
+9,31,9,2025-12-06,Houston,N,Florida State,REG (Non-Conf),W 82-67,,6,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,0,0,0,3,2.7,N,1,1,mercy-miller-1,Mercy Miller,2026
+10,32,10,2025-12-10,Houston,,Jackson State,REG (Non-Conf),W 80-38,,14,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,2,1,3,1,1,1,1,1,9,7.0,H,1,1,mercy-miller-1,Mercy Miller,2026
+11,33,11,2025-12-13,Houston,,New Orleans,REG (Non-Conf),W 99-57,,21,5,5,1.0,1,1,1.0,4,4,1.0,1.1,4,4,1.0,0,1,1,1,2,0,2,2,15,13.7,H,1,1,mercy-miller-1,Mercy Miller,2026
+12,34,12,2025-12-20,Houston,N,Arkansas,REG (Non-Conf),W 94-85,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,1,mercy-miller-1,Mercy Miller,2026
+13,35,13,2025-12-29,Houston,,Middle Tennessee,REG (Non-Conf),W 69-60,,13,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,1,1,2,2,0,1,0,0,9,9.1,H,1,1,mercy-miller-1,Mercy Miller,2026
+14,36,14,2026-01-03,Houston,@,Cincinnati,REG (Conf),W 67-60,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,mercy-miller-1,Mercy Miller,2026
+15,37,15,2026-01-06,Houston,,Texas Tech,REG (Conf),W 69-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,mercy-miller-1,Mercy Miller,2026
+16,38,16,2026-01-10,Houston,@,Baylor,REG (Conf),W 77-55,,7,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,1,0,0,2,5,4.6,A,1,1,mercy-miller-1,Mercy Miller,2026
+17,39,17,2026-01-13,Houston,,West Virginia,REG (Conf),W 77-48,,5,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,1,0,1,0,0,0,0,0,4,3.7,H,1,1,mercy-miller-1,Mercy Miller,2026
+18,40,18,2026-01-18,Houston,,Arizona State,REG (Conf),W 103-73,,7,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,0,1,0,0,0,0,0,4,3.4,H,1,1,mercy-miller-1,Mercy Miller,2026
+19,41,20,2026-01-28,Houston,@,TCU,REG (Conf),W 79-70,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,mercy-miller-1,Mercy Miller,2026
+20,42,21,2026-01-31,Houston,,Cincinnati,REG (Conf),W 76-54,,18,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,2,2,4,0,1,1,0,2,7,8.3,H,1,1,mercy-miller-1,Mercy Miller,2026
+21,43,22,2026-02-04,Houston,,UCF,REG (Conf),W 79-55,,16,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,2,3,1,0,0,0,2,9,6.9,H,1,1,mercy-miller-1,Mercy Miller,2026
+22,44,23,2026-02-07,Houston,@,Brigham Young,REG (Conf),W 77-66,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,0.3,A,1,1,mercy-miller-1,Mercy Miller,2026
+23,45,24,2026-02-10,Houston,@,Utah,REG (Conf),W 66-52,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,4,0.5,1,0,1,0,1,1,0,3,6,3.7,A,1,1,mercy-miller-1,Mercy Miller,2026
+24,46,25,2026-02-14,Houston,,Kansas State,REG (Conf),W 78-64,,9,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,1,1,0,0,1,4,3.2,H,1,1,mercy-miller-1,Mercy Miller,2026
+25,47,26,2026-02-16,Houston,@,Iowa State,REG (Conf),L 67-70,,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,0,0,1,2,0.5,A,0,1,mercy-miller-1,Mercy Miller,2026
+26,48,27,2026-02-21,Houston,,Arizona,REG (Conf),L 66-73,,3,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,2,1,-0.2,H,0,1,mercy-miller-1,Mercy Miller,2026
+27,49,28,2026-02-23,Houston,@,Kansas,REG (Conf),L 56-69,,17,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,1,4,5,0,1,0,1,1,9,6.1,A,0,1,mercy-miller-1,Mercy Miller,2026
+28,50,29,2026-02-28,Houston,,Colorado,REG (Conf),W 102-62,,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,5,6,0.833,1,7,8,0,4,0,0,0,10,13.7,H,1,1,mercy-miller-1,Mercy Miller,2026
+29,51,30,2026-03-04,Houston,,Baylor,REG (Conf),W 77-64,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,2,0,2,0,0,-0.8,H,1,1,mercy-miller-1,Mercy Miller,2026
+30,52,31,2026-03-07,Houston,@,Oklahoma State,REG (Conf),W 82-75,,18,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,1,0.0,0,3,3,0,0,0,1,1,7,4.5,A,1,1,mercy-miller-1,Mercy Miller,2026
+31,53,32,2026-03-12,Houston,N,Brigham Young,CTOURN,W 73-66,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,0,0,0,0,0,1,3,6,1.8,N,1,0,mercy-miller-1,Mercy Miller,2026
+32,54,33,2026-03-13,Houston,N,Kansas,CTOURN,W 69-47,,24,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,1,2,1,0,1,1,2,6,5.3,N,1,0,mercy-miller-1,Mercy Miller,2026
+33,55,34,2026-03-14,Houston,N,Arizona,CTOURN,L 74-79,,21,5,8,0.625,2,2,1.0,3,6,0.5,0.75,1,2,0.5,2,5,7,1,0,0,0,1,13,12.2,N,0,0,mercy-miller-1,Mercy Miller,2026

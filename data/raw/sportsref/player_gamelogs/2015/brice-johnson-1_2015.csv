@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2014-11-14,North Carolina,,North Carolina Central,REG (Non-Conf),W 76-60,*,18,4,6,0.667,0,0,4,6,0.667,0.667,4,6,0.667,2,6,8,0,1,2,0,4,12,12.6,H,1,1,brice-johnson-1,Brice Johnson,2015
+2,72,2,2014-11-16,North Carolina,,Robert Morris,REG (Non-Conf),W 103-59,*,21,10,15,0.667,0,0,10,15,0.667,0.667,3,3,1.0,2,6,8,3,2,1,0,1,23,24.1,H,1,1,brice-johnson-1,Brice Johnson,2015
+3,73,3,2014-11-22,North Carolina,N,Davidson,REG (Non-Conf),W 90-72,*,15,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,3,4,7,1,0,2,3,5,9,5.0,N,1,1,brice-johnson-1,Brice Johnson,2015
+4,74,4,2014-11-26,North Carolina,N,Butler,REG (Non-Conf),L 66-74,*,25,4,9,0.444,0,0,4,9,0.444,0.444,3,4,0.75,3,2,5,1,1,1,5,3,11,4.8,N,0,1,brice-johnson-1,Brice Johnson,2015
+5,75,5,2014-11-27,North Carolina,N,UCLA,REG (Non-Conf),W 78-56,,22,1,5,0.2,0,0,1,5,0.2,0.2,2,2,1.0,0,3,3,0,2,0,2,3,4,0.6,N,1,1,brice-johnson-1,Brice Johnson,2015
+6,76,6,2014-11-28,North Carolina,N,Florida,REG (Non-Conf),W 75-64,*,26,3,7,0.429,0,0,3,7,0.429,0.429,4,9,0.444,2,5,7,1,2,2,1,3,10,9.1,N,1,1,brice-johnson-1,Brice Johnson,2015
+7,77,7,2014-12-03,North Carolina,,Iowa,REG (Non-Conf),L 55-60,*,12,1,7,0.143,0,0,1,7,0.143,0.143,0,0,,3,1,4,0,0,0,1,4,2,-2.7,H,0,1,brice-johnson-1,Brice Johnson,2015
+8,78,8,2014-12-07,North Carolina,,East Carolina,REG (Non-Conf),W 108-64,*,23,9,15,0.6,0,0,9,15,0.6,0.6,1,2,0.5,6,11,17,0,1,1,3,2,19,17.1,H,1,1,brice-johnson-1,Brice Johnson,2015
+9,79,9,2014-12-13,North Carolina,@,Kentucky,REG (Non-Conf),L 70-84,*,24,7,12,0.583,0,0,7,12,0.583,0.583,1,2,0.5,3,1,4,0,1,0,1,2,15,10.6,A,0,1,brice-johnson-1,Brice Johnson,2015
+10,80,10,2014-12-16,North Carolina,@,UNC Greensboro,REG (Non-Conf),W 79-56,*,20,4,7,0.571,0,0,4,7,0.571,0.571,0,1,0.0,2,3,5,1,1,1,4,4,8,3.4,A,1,1,brice-johnson-1,Brice Johnson,2015
+11,81,11,2014-12-20,North Carolina,N,Ohio State,REG (Non-Conf),W 82-74,*,28,8,10,0.8,0,0,8,10,0.8,0.8,2,2,1.0,1,8,9,0,1,1,0,2,18,18.2,N,1,1,brice-johnson-1,Brice Johnson,2015
+12,82,12,2014-12-27,North Carolina,,UAB,REG (Non-Conf),W 89-58,*,21,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,3,4,7,0,0,2,3,4,11,7.8,H,1,1,brice-johnson-1,Brice Johnson,2015
+13,83,13,2014-12-30,North Carolina,,William & Mary,REG (Non-Conf),W 86-64,*,23,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,1,7,8,2,1,1,3,3,9,6.3,H,1,1,brice-johnson-1,Brice Johnson,2015
+14,84,14,2015-01-03,North Carolina,@,Clemson,REG (Conf),W 74-50,*,19,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,2,6,8,0,0,2,1,4,10,8.4,A,1,1,brice-johnson-1,Brice Johnson,2015
+15,85,15,2015-01-05,North Carolina,,Notre Dame,REG (Conf),L 70-71,*,27,3,11,0.273,0,0,3,11,0.273,0.273,3,4,0.75,3,2,5,1,0,0,1,2,9,3.7,H,0,1,brice-johnson-1,Brice Johnson,2015
+16,86,16,2015-01-10,North Carolina,,Louisville,REG (Conf),W 72-71,*,26,5,11,0.455,0,0,5,11,0.455,0.455,1,2,0.5,3,8,11,2,1,0,1,3,11,9.6,H,1,1,brice-johnson-1,Brice Johnson,2015
+17,87,17,2015-01-14,North Carolina,@,NC State,REG (Conf),W 81-79,*,18,4,7,0.571,0,0,4,7,0.571,0.571,2,2,1.0,2,5,7,0,1,1,1,5,10,8.3,A,1,1,brice-johnson-1,Brice Johnson,2015
+18,88,18,2015-01-18,North Carolina,,Virginia Tech,REG (Conf),W 68-53,*,25,5,9,0.556,0,0,5,9,0.556,0.556,2,4,0.5,6,5,11,1,2,1,1,1,12,14.6,H,1,1,brice-johnson-1,Brice Johnson,2015
+19,89,19,2015-01-21,North Carolina,@,Wake Forest,REG (Conf),W 87-71,*,31,8,11,0.727,0,0,8,11,0.727,0.727,3,4,0.75,0,6,6,3,2,0,3,3,19,15.8,A,1,1,brice-johnson-1,Brice Johnson,2015
+20,90,20,2015-01-24,North Carolina,,Florida State,REG (Conf),W 78-74,*,23,7,9,0.778,0,0,7,9,0.778,0.778,4,7,0.571,4,10,14,0,0,0,2,3,18,15.9,H,1,1,brice-johnson-1,Brice Johnson,2015
+21,91,21,2015-01-26,North Carolina,,Syracuse,REG (Conf),W 93-83,*,29,6,6,1.0,0,0,6,6,1.0,1.0,5,8,0.625,1,10,11,1,0,3,3,2,17,16.7,H,1,1,brice-johnson-1,Brice Johnson,2015
+22,92,22,2015-01-31,North Carolina,@,Louisville,REG (Conf),L 68-78 (OT),*,22,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,0,10,10,1,0,0,1,5,2,0.9,A,0,1,brice-johnson-1,Brice Johnson,2015
+23,93,23,2015-02-02,North Carolina,,Virginia,REG (Conf),L 64-75,*,26,7,14,0.5,0,0,7,14,0.5,0.5,0,0,,2,6,8,1,1,3,0,1,14,13.6,H,0,1,brice-johnson-1,Brice Johnson,2015
+24,94,24,2015-02-07,North Carolina,@,Boston College,REG (Conf),W 79-68,*,34,9,14,0.643,0,0,9,14,0.643,0.643,2,2,1.0,5,5,10,0,0,2,2,3,20,17.0,A,1,1,brice-johnson-1,Brice Johnson,2015
+25,95,25,2015-02-14,North Carolina,@,Pittsburgh,REG (Conf),L 76-89,*,28,7,11,0.636,0,0,7,11,0.636,0.636,5,7,0.714,1,2,3,1,0,0,1,3,19,13.1,A,0,1,brice-johnson-1,Brice Johnson,2015
+26,96,26,2015-02-18,North Carolina,@,Duke,REG (Conf),L 90-92 (OT),*,24,7,10,0.7,0,0,7,10,0.7,0.7,4,5,0.8,5,7,12,1,0,1,1,5,18,17.4,A,0,1,brice-johnson-1,Brice Johnson,2015
+27,97,27,2015-02-21,North Carolina,,Georgia Tech,REG (Conf),W 89-60,*,20,7,10,0.7,0,0,7,10,0.7,0.7,2,2,1.0,1,4,5,0,0,1,0,1,16,14.0,H,1,1,brice-johnson-1,Brice Johnson,2015
+28,98,28,2015-02-24,North Carolina,,NC State,REG (Conf),L 46-58,*,24,1,6,0.167,0,0,1,6,0.167,0.167,2,3,0.667,2,3,5,1,0,3,1,1,4,3.5,H,0,1,brice-johnson-1,Brice Johnson,2015
+29,99,29,2015-02-28,North Carolina,@,Miami (FL),REG (Conf),W 73-64,*,30,11,15,0.733,0,0,11,15,0.733,0.733,0,1,0.0,3,8,11,2,2,0,0,1,22,23.0,A,1,1,brice-johnson-1,Brice Johnson,2015
+30,100,30,2015-03-03,North Carolina,@,Georgia Tech,REG (Conf),W 81-49,*,29,1,9,0.111,0,0,1,9,0.111,0.111,0,0,,1,8,9,0,0,4,0,2,2,1.2,A,1,1,brice-johnson-1,Brice Johnson,2015
+31,101,31,2015-03-07,North Carolina,,Duke,REG (Conf),L 77-84,*,31,8,12,0.667,0,0,8,12,0.667,0.667,1,1,1.0,2,5,7,0,0,2,2,3,17,12.9,H,0,1,brice-johnson-1,Brice Johnson,2015
+32,102,32,2015-03-11,North Carolina,N,Boston College,CTOURN,W 81-63,*,34,8,17,0.471,0,0,8,17,0.471,0.471,1,1,1.0,2,7,9,1,1,0,0,2,17,12.7,N,1,0,brice-johnson-1,Brice Johnson,2015
+33,103,33,2015-03-12,North Carolina,N,Louisville,CTOURN,W 70-60,*,28,7,15,0.467,0,0,7,15,0.467,0.467,8,9,0.889,2,5,7,2,0,1,2,2,22,16.1,N,1,0,brice-johnson-1,Brice Johnson,2015
+34,104,34,2015-03-13,North Carolina,N,Virginia,CTOURN,W 71-67,*,29,5,7,0.714,0,0,5,7,0.714,0.714,3,4,0.75,1,5,6,3,1,0,3,3,13,10.8,N,1,0,brice-johnson-1,Brice Johnson,2015
+35,105,35,2015-03-14,North Carolina,N,Notre Dame,CTOURN,L 82-90,*,32,10,12,0.833,0,0,10,12,0.833,0.833,0,0,,3,1,4,2,0,0,2,4,20,15.8,N,0,0,brice-johnson-1,Brice Johnson,2015
+36,106,36,2015-03-19,North Carolina,N,Harvard,ROUND-64,W 67-65,*,22,2,7,0.286,0,0,2,7,0.286,0.286,3,4,0.75,2,5,7,0,0,1,3,4,7,1.5,N,1,0,brice-johnson-1,Brice Johnson,2015
+37,107,37,2015-03-21,North Carolina,N,Arkansas,ROUND-32,W 87-78,*,29,2,8,0.25,0,0,2,8,0.25,0.25,3,4,0.75,4,9,13,3,2,2,1,5,7,9.8,N,1,0,brice-johnson-1,Brice Johnson,2015
+38,108,38,2015-03-26,North Carolina,N,Wisconsin,ROUND-16,L 72-79,*,22,7,9,0.778,0,0,7,9,0.778,0.778,1,2,0.5,1,3,4,0,0,1,0,4,15,11.8,N,0,0,brice-johnson-1,Brice Johnson,2015

@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,110,1,2023-11-08,Texas Tech,,Texas A&M–Commerce,REG (Non-Conf),W 73-46,*,25,2,5,0.4,0,0,2,5,0.4,0.4,4,6,0.667,5,7,12,0,0,0,2,2,8,7.3,H,1,1,warren-washington-1,Warren Washington,2024
+2,111,2,2023-11-12,Texas Tech,,San Jose State,REG (Non-Conf),W 56-42,*,25,4,8,0.5,0,0,4,8,0.5,0.5,0,3,0.0,3,2,5,1,1,1,1,3,8,5.7,H,1,1,warren-washington-1,Warren Washington,2024
+3,112,3,2023-11-16,Texas Tech,,Texas A&M–Corpus Christi,REG (Non-Conf),W 73-64,*,27,4,7,0.571,0,0,4,7,0.571,0.571,5,7,0.714,3,5,8,3,2,1,4,3,13,12.1,H,1,1,warren-washington-1,Warren Washington,2024
+4,113,4,2023-11-22,Texas Tech,N,Villanova,REG (Non-Conf),L 69-85,*,24,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,7,8,1,1,4,3,3,6,7.1,N,0,1,warren-washington-1,Warren Washington,2024
+5,114,5,2023-11-23,Texas Tech,N,Northern Iowa,REG (Non-Conf),W 72-70,*,21,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,1,5,6,1,1,1,2,4,7,4.6,N,1,1,warren-washington-1,Warren Washington,2024
+6,115,6,2023-11-24,Texas Tech,N,Michigan,REG (Non-Conf),W 73-57,*,25,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,2,7,9,0,0,1,0,4,8,6.6,N,1,1,warren-washington-1,Warren Washington,2024
+7,116,7,2023-11-30,Texas Tech,@,Butler,REG (Non-Conf),L 95-103 (OT),*,27,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,2,4,6,2,2,1,0,0,10,14.5,A,0,1,warren-washington-1,Warren Washington,2024
+8,117,8,2023-12-06,Texas Tech,,Omaha,REG (Non-Conf),W 87-58,*,22,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,9,12,0,0,1,1,2,4,6.4,H,1,1,warren-washington-1,Warren Washington,2024
+9,118,9,2023-12-12,Texas Tech,,Oral Roberts,REG (Non-Conf),W 82-76,*,30,8,10,0.8,0,0,8,10,0.8,0.8,2,4,0.5,7,5,12,1,0,1,3,1,18,17.8,H,1,1,warren-washington-1,Warren Washington,2024
+10,119,10,2023-12-16,Texas Tech,N,Vanderbilt,REG (Non-Conf),W 76-54,*,26,4,9,0.444,0,0,4,9,0.444,0.444,1,2,0.5,3,4,7,3,1,1,1,2,9,9.2,N,1,1,warren-washington-1,Warren Washington,2024
+11,120,11,2023-12-21,Texas Tech,,UT Arlington,REG (Non-Conf),W 77-66,*,32,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,2,8,10,4,1,3,1,1,8,13.0,H,1,1,warren-washington-1,Warren Washington,2024
+12,121,12,2023-12-28,Texas Tech,,Sam Houston State,REG (Non-Conf),W 96-60,*,27,4,7,0.571,0,0,4,7,0.571,0.571,1,3,0.333,2,6,8,3,1,3,1,2,9,11.5,H,1,1,warren-washington-1,Warren Washington,2024
+13,122,13,2024-01-01,Texas Tech,,North Alabama,REG (Non-Conf),W 85-57,*,23,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,3,3,6,5,0,4,1,1,10,16.4,H,1,1,warren-washington-1,Warren Washington,2024
+14,123,14,2024-01-06,Texas Tech,@,Texas,REG (Conf),W 78-67,*,28,5,5,1.0,0,0,5,5,1.0,1.0,5,8,0.625,0,3,3,0,1,3,1,3,15,14.1,A,1,1,warren-washington-1,Warren Washington,2024
+15,124,15,2024-01-09,Texas Tech,,Oklahoma State,REG (Conf),W 90-73,*,33,7,10,0.7,0,0,7,10,0.7,0.7,2,2,1.0,0,3,3,5,1,2,1,2,16,16.8,H,1,1,warren-washington-1,Warren Washington,2024
+16,125,16,2024-01-13,Texas Tech,,Kansas State,REG (Conf),W 60-59,*,35,5,8,0.625,0,0,5,8,0.625,0.625,1,4,0.25,3,5,8,1,1,0,2,2,11,8.7,H,1,1,warren-washington-1,Warren Washington,2024
+17,126,17,2024-01-17,Texas Tech,@,Houston,REG (Conf),L 54-77,*,34,2,5,0.4,0,0,2,5,0.4,0.4,2,6,0.333,5,4,9,3,2,3,1,1,6,11.2,A,0,1,warren-washington-1,Warren Washington,2024
+18,127,18,2024-01-20,Texas Tech,,Brigham Young,REG (Conf),W 85-78,*,37,8,12,0.667,0,0,8,12,0.667,0.667,3,3,1.0,1,8,9,1,1,1,0,3,19,18.1,H,1,1,warren-washington-1,Warren Washington,2024
+19,128,19,2024-01-27,Texas Tech,@,Oklahoma,REG (Conf),W 85-84,*,35,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,0,7,7,2,1,3,0,3,10,13.2,A,1,1,warren-washington-1,Warren Washington,2024
+20,129,20,2024-01-30,Texas Tech,@,TCU,REG (Conf),L 78-85,*,31,6,7,0.857,0,0,6,7,0.857,0.857,2,2,1.0,0,6,6,1,0,0,2,4,14,10.4,A,0,1,warren-washington-1,Warren Washington,2024
+21,130,21,2024-02-03,Texas Tech,,Cincinnati,REG (Conf),L 72-75,*,23,2,9,0.222,0,0,2,9,0.222,0.222,3,4,0.75,3,2,5,1,1,0,2,3,7,2.3,H,0,1,warren-washington-1,Warren Washington,2024
+22,131,23,2024-02-10,Texas Tech,,UCF,REG (Conf),W 66-59,*,29,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,6,5,11,2,0,2,3,1,10,11.5,H,1,1,warren-washington-1,Warren Washington,2024
+23,132,24,2024-02-12,Texas Tech,,Kansas,REG (Conf),W 79-50,*,20,5,7,0.714,0,0,5,7,0.714,0.714,1,5,0.2,2,4,6,2,1,1,1,2,11,10.4,H,1,1,warren-washington-1,Warren Washington,2024
+24,133,27,2024-02-24,Texas Tech,@,UCF,REG (Conf),L 61-75,*,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,3,3,0,-3.6,A,0,1,warren-washington-1,Warren Washington,2024
+25,134,34,2024-03-21,Texas Tech,N,NC State,ROUND-64,L 67-80,,18,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,6,8,0,0,1,2,3,6,5.1,N,0,0,warren-washington-1,Warren Washington,2024

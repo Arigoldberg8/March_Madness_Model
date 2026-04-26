@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2021-11-09,Providence,,Fairfield,REG (Non-Conf),W 80-73,*,26,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,4,0.5,1,10,11,3,1,1,3,3,10,10.2,H,1,1,noah-horchler-1,Noah Horchler,2022
+2,89,2,2021-11-11,Providence,,Sacred Heart,REG (Non-Conf),W 92-64,*,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,2,5,7,0,1,1,2,2,11,10.2,H,1,1,noah-horchler-1,Noah Horchler,2022
+3,90,3,2021-11-15,Providence,@,Wisconsin,REG (Non-Conf),W 63-58,*,26,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,1,5,6,0,1,3,1,3,2,4.4,A,1,1,noah-horchler-1,Noah Horchler,2022
+4,91,4,2021-11-18,Providence,,New Hampshire,REG (Non-Conf),W 69-58,*,28,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,2,10,12,4,0,0,0,1,10,12.1,H,1,1,noah-horchler-1,Noah Horchler,2022
+5,92,5,2021-11-22,Providence,N,Northwestern,REG (Non-Conf),W 77-72,*,33,3,10,0.3,3,7,0.429,0,3,0.0,0.45,2,2,1.0,1,6,7,4,0,0,2,3,11,7.3,N,1,1,noah-horchler-1,Noah Horchler,2022
+6,93,6,2021-11-23,Providence,N,Virginia,REG (Non-Conf),L 40-58,*,37,4,8,0.5,1,4,0.25,3,4,0.75,0.563,5,5,1.0,2,5,7,2,1,1,0,4,14,14.4,N,0,1,noah-horchler-1,Noah Horchler,2022
+7,94,7,2021-11-27,Providence,,Saint Peter's,REG (Non-Conf),W 85-71,*,39,9,10,0.9,3,4,0.75,6,6,1.0,1.05,4,4,1.0,2,9,11,5,0,1,1,0,25,28.9,H,1,1,noah-horchler-1,Noah Horchler,2022
+8,95,8,2021-12-01,Providence,,Texas Tech,REG (Non-Conf),W 72-68,*,27,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,6,0.667,2,0,2,1,2,0,5,4,6,-1.1,H,1,1,noah-horchler-1,Noah Horchler,2022
+9,96,9,2021-12-04,Providence,,Rhode Island,REG (Non-Conf),W 66-52,*,32,5,11,0.455,4,8,0.5,1,3,0.333,0.636,2,2,1.0,1,6,7,2,0,0,0,2,16,13.4,H,1,1,noah-horchler-1,Noah Horchler,2022
+10,97,10,2021-12-07,Providence,,Vermont,REG (Non-Conf),W 68-58,*,25,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,1,0.0,2,8,10,4,0,0,2,1,0,0.3,H,1,1,noah-horchler-1,Noah Horchler,2022
+11,98,11,2021-12-11,Providence,,Central Connecticut State,REG (Non-Conf),W 68-53,*,27,5,12,0.417,1,4,0.25,4,8,0.5,0.458,1,2,0.5,4,6,10,2,0,2,3,2,12,8.8,H,1,1,noah-horchler-1,Noah Horchler,2022
+12,99,12,2021-12-18,Providence,@,Connecticut,REG (Conf),W 57-53,*,30,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,3,0.0,2,3,5,0,1,0,1,1,2,-1.8,A,1,1,noah-horchler-1,Noah Horchler,2022
+13,100,13,2021-12-29,Providence,,Seton Hall,REG (Conf),W 70-65,*,36,6,11,0.545,5,6,0.833,1,5,0.2,0.773,0,0,,3,10,13,3,2,3,2,1,17,20.6,H,1,1,noah-horchler-1,Noah Horchler,2022
+14,101,14,2022-01-01,Providence,@,DePaul,REG (Conf),W 70-53,*,34,4,9,0.444,2,3,0.667,2,6,0.333,0.556,1,2,0.5,3,5,8,1,0,0,1,3,11,8.0,A,1,1,noah-horchler-1,Noah Horchler,2022
+15,102,15,2022-01-04,Providence,@,Marquette,REG (Conf),L 56-88,*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,5,5,1,0,0,3,0,2,-1.9,A,0,1,noah-horchler-1,Noah Horchler,2022
+16,103,16,2022-01-08,Providence,,St. John's (NY),REG (Conf),W 83-73,*,38,2,7,0.286,0,5,0.0,2,2,1.0,0.286,4,4,1.0,4,9,13,1,1,0,2,3,8,7.9,H,1,1,noah-horchler-1,Noah Horchler,2022
+17,104,17,2022-01-20,Providence,,Georgetown,REG (Conf),W 83-75,*,36,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,7,7,2,2,1,2,2,14,13.8,H,1,1,noah-horchler-1,Noah Horchler,2022
+18,105,18,2022-01-23,Providence,,Butler,REG (Conf),W 69-62,*,40,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,7,8,1,0,1,2,1,8,7.5,H,1,1,noah-horchler-1,Noah Horchler,2022
+19,106,19,2022-01-26,Providence,@,Xavier,REG (Conf),W 65-62,*,37,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,2,9,11,1,0,1,1,3,6,6.6,A,1,1,noah-horchler-1,Noah Horchler,2022
+20,107,20,2022-01-30,Providence,,Marquette,REG (Conf),W 65-63,*,27,4,9,0.444,2,6,0.333,2,3,0.667,0.556,1,2,0.5,2,8,10,0,0,0,3,3,11,5.5,H,1,1,noah-horchler-1,Noah Horchler,2022
+21,108,21,2022-02-01,Providence,@,St. John's (NY),REG (Conf),W 86-82,*,36,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,7,7,1,4,1,1,4,14,15.3,A,1,1,noah-horchler-1,Noah Horchler,2022
+22,109,22,2022-02-06,Providence,@,Georgetown,REG (Conf),W 71-52,*,28,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,0,11,11,3,2,0,2,3,10,10.2,A,1,1,noah-horchler-1,Noah Horchler,2022
+23,110,23,2022-02-12,Providence,,DePaul,REG (Conf),W 76-73 (OT),*,31,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,6,7,1,1,1,3,1,7,4.8,H,1,1,noah-horchler-1,Noah Horchler,2022
+24,111,24,2022-02-15,Providence,,Villanova,REG (Conf),L 84-89,*,32,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,1,6,7,1,0,1,0,1,7,8.5,H,0,1,noah-horchler-1,Noah Horchler,2022
+25,112,25,2022-02-20,Providence,@,Butler,REG (Conf),W 71-70 (OT),*,40,5,11,0.455,3,8,0.375,2,3,0.667,0.591,2,2,1.0,3,8,11,2,0,3,2,3,15,14.1,A,1,1,noah-horchler-1,Noah Horchler,2022
+26,113,26,2022-02-23,Providence,,Xavier,REG (Conf),W 99-92 (3OT),*,49,3,7,0.429,2,6,0.333,1,1,1.0,0.571,2,2,1.0,4,5,9,1,1,0,1,0,10,11.3,H,1,1,noah-horchler-1,Noah Horchler,2022
+27,114,27,2022-02-26,Providence,,Creighton,REG (Conf),W 72-51,*,37,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,1,8,9,0,0,1,0,1,4,5.0,H,1,1,noah-horchler-1,Noah Horchler,2022
+28,115,28,2022-03-01,Providence,@,Villanova,REG (Conf),L 74-76,*,39,5,8,0.625,5,8,0.625,0,0,,0.938,0,0,,1,6,7,2,1,1,2,3,15,13.8,A,0,1,noah-horchler-1,Noah Horchler,2022
+29,116,29,2022-03-10,Providence,N,Butler,CTOURN,W 65-61,*,40,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,6,6,2,3,1,0,4,8,8.2,N,1,0,noah-horchler-1,Noah Horchler,2022
+30,117,30,2022-03-11,Providence,N,Creighton,CTOURN,L 58-85,*,30,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,3,2,5,0,0,0,1,3,2,0.4,N,0,0,noah-horchler-1,Noah Horchler,2022
+31,118,31,2022-03-17,Providence,N,South Dakota State,ROUND-64,W 66-57,*,33,5,12,0.417,1,3,0.333,4,9,0.444,0.458,2,2,1.0,0,9,9,0,2,1,1,3,13,9.8,N,1,0,noah-horchler-1,Noah Horchler,2022
+32,119,32,2022-03-19,Providence,N,Richmond,ROUND-32,W 79-51,*,32,6,10,0.6,4,6,0.667,2,4,0.5,0.8,0,0,,1,13,14,1,1,1,0,4,16,16.8,N,1,0,noah-horchler-1,Noah Horchler,2022
+33,120,33,2022-03-25,Providence,N,Kansas,ROUND-16,L 61-66,*,38,4,14,0.286,2,8,0.25,2,6,0.333,0.357,0,0,,1,7,8,0,1,1,1,2,10,4.5,N,0,0,noah-horchler-1,Noah Horchler,2022

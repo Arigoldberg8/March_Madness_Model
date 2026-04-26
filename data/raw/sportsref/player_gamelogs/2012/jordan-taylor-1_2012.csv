@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2011-11-12,Wisconsin,,Kennesaw State,REG (Non-Conf),W 85-31,*,28,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,1,3,4,7,2,0,0,0,11,15.9,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+2,102,2,2011-11-16,Wisconsin,,Colgate,REG (Non-Conf),W 68-41,*,35,3,10,0.3,3,4,0.75,0,6,0.0,0.45,0,2,0.0,2,5,7,4,1,0,1,2,9,7.3,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+3,103,3,2011-11-19,Wisconsin,,Wofford,REG (Non-Conf),W 69-33,*,33,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,4,4,4,0,0,0,2,4,5.9,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+4,104,4,2011-11-22,Wisconsin,,Kansas City,REG (Non-Conf),W 77-31,*,30,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,4,0.5,1,5,6,6,1,0,1,2,9,10.1,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+5,105,5,2011-11-25,Wisconsin,N,Bradley,REG (Non-Conf),W 66-43,*,34,5,16,0.313,2,4,0.5,3,12,0.25,0.375,3,3,1.0,2,2,4,6,3,0,4,2,15,10.2,N,1,1,jordan-taylor-1,Jordan Taylor,2012
+6,106,6,2011-11-26,Wisconsin,N,Brigham Young,REG (Non-Conf),W 73-56,*,38,7,15,0.467,2,6,0.333,5,9,0.556,0.533,2,2,1.0,0,5,5,8,1,0,1,1,18,17.0,N,1,1,jordan-taylor-1,Jordan Taylor,2012
+7,107,7,2011-11-30,Wisconsin,@,North Carolina,REG (Non-Conf),L 57-60,*,39,6,20,0.3,3,11,0.273,3,9,0.333,0.375,3,6,0.5,1,3,4,4,0,0,0,4,18,8.0,A,0,1,jordan-taylor-1,Jordan Taylor,2012
+8,108,8,2011-12-03,Wisconsin,,Marquette,REG (Non-Conf),L 54-61,*,30,4,10,0.4,0,2,0.0,4,8,0.5,0.4,5,6,0.833,3,2,5,2,0,0,5,4,13,4.7,H,0,1,jordan-taylor-1,Jordan Taylor,2012
+9,109,9,2011-12-07,Wisconsin,,Green Bay,REG (Non-Conf),W 70-42,*,34,5,12,0.417,1,4,0.25,4,8,0.5,0.458,4,6,0.667,1,3,4,10,1,0,0,0,15,17.4,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+10,110,10,2011-12-10,Wisconsin,,UNLV,REG (Non-Conf),W 62-51,*,39,0,10,0.0,0,6,0.0,0,4,0.0,0.0,4,5,0.8,0,1,1,6,1,0,3,0,4,-0.9,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+11,111,11,2011-12-13,Wisconsin,@,Milwaukee,REG (Non-Conf),W 60-54,*,39,5,14,0.357,2,3,0.667,3,11,0.273,0.429,2,2,1.0,0,3,3,3,0,0,3,1,14,5.8,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+12,112,12,2011-12-15,Wisconsin,,Savannah State,REG (Non-Conf),W 66-33,*,29,5,9,0.556,0,2,0.0,5,7,0.714,0.556,2,3,0.667,1,2,3,3,2,0,2,2,12,9.9,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+13,113,13,2011-12-23,Wisconsin,,Mississippi Valley State,REG (Non-Conf),W 79-45,*,27,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,7,0.857,0,1,1,2,1,0,0,3,17,13.8,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+14,114,14,2011-12-27,Wisconsin,@,Nebraska,REG (Conf),W 64-40,*,38,5,12,0.417,3,6,0.5,2,6,0.333,0.542,2,2,1.0,0,3,3,5,3,0,1,0,15,15.0,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+15,115,15,2011-12-31,Wisconsin,,Iowa,REG (Conf),L 65-72,*,40,7,19,0.368,2,7,0.286,5,12,0.417,0.421,1,1,1.0,1,5,6,4,0,0,1,3,17,9.3,H,0,1,jordan-taylor-1,Jordan Taylor,2012
+16,116,16,2012-01-03,Wisconsin,,Michigan State,REG (Conf),L 60-63 (OT),*,44,7,11,0.636,2,5,0.4,5,6,0.833,0.727,12,16,0.75,2,3,5,1,0,0,4,3,28,19.3,H,0,1,jordan-taylor-1,Jordan Taylor,2012
+17,117,17,2012-01-08,Wisconsin,@,Michigan,REG (Conf),L 41-59,*,39,5,15,0.333,2,7,0.286,3,8,0.375,0.4,0,0,,0,0,0,1,3,0,3,3,12,3.0,A,0,1,jordan-taylor-1,Jordan Taylor,2012
+18,118,18,2012-01-12,Wisconsin,@,Purdue,REG (Conf),W 67-62,*,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,8,10,0.8,0,5,5,5,0,0,2,3,12,10.3,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+19,119,19,2012-01-15,Wisconsin,,Nebraska,REG (Conf),W 50-45,*,38,4,11,0.364,0,4,0.0,4,7,0.571,0.364,11,15,0.733,3,3,6,0,0,0,0,0,19,14.3,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+20,120,20,2012-01-18,Wisconsin,,Northwestern,REG (Conf),W 77-57,*,37,5,9,0.556,4,6,0.667,1,3,0.333,0.778,1,1,1.0,1,2,3,6,1,0,1,2,15,15.4,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+21,121,21,2012-01-22,Wisconsin,@,Illinois,REG (Conf),W 67-63,*,39,5,15,0.333,2,7,0.286,3,8,0.375,0.4,7,11,0.636,2,7,9,5,1,0,0,0,19,16.9,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+22,122,22,2012-01-26,Wisconsin,,Indiana,REG (Conf),W 57-50,*,39,5,14,0.357,0,5,0.0,5,9,0.556,0.357,0,2,0.0,0,5,5,2,1,0,0,1,10,4.9,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+23,123,23,2012-01-31,Wisconsin,@,Penn State,REG (Conf),W 52-46,*,38,4,12,0.333,2,6,0.333,2,6,0.333,0.417,8,10,0.8,1,2,3,5,1,0,0,2,18,15.4,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+24,124,24,2012-02-04,Wisconsin,,Ohio State,REG (Conf),L 52-58,*,39,4,10,0.4,1,4,0.25,3,6,0.5,0.45,3,3,1.0,1,2,3,6,2,0,3,4,12,9.5,H,0,1,jordan-taylor-1,Jordan Taylor,2012
+25,125,25,2012-02-09,Wisconsin,@,Minnesota,REG (Conf),W 68-61 (OT),*,43,8,14,0.571,5,9,0.556,3,5,0.6,0.75,6,7,0.857,0,2,2,0,3,0,3,3,27,19.4,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+26,126,26,2012-02-16,Wisconsin,@,Michigan State,REG (Conf),L 55-69,*,39,3,13,0.231,1,6,0.167,2,7,0.286,0.269,6,6,1.0,0,4,4,5,2,0,0,2,13,11.0,A,0,1,jordan-taylor-1,Jordan Taylor,2012
+27,127,27,2012-02-19,Wisconsin,,Penn State,REG (Conf),W 65-55,*,31,4,12,0.333,3,6,0.5,1,6,0.167,0.458,0,0,,0,1,1,4,0,0,2,3,11,4.1,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+28,128,28,2012-02-23,Wisconsin,@,Iowa,REG (Conf),L 66-67,*,29,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,0,1,1,4,1,0,4,3,9,3.9,A,0,1,jordan-taylor-1,Jordan Taylor,2012
+29,129,29,2012-02-26,Wisconsin,@,Ohio State,REG (Conf),W 63-60,*,38,6,8,0.75,1,2,0.5,5,6,0.833,0.813,6,7,0.857,0,5,5,4,0,0,3,3,19,15.5,A,1,1,jordan-taylor-1,Jordan Taylor,2012
+30,130,30,2012-02-28,Wisconsin,,Minnesota,REG (Conf),W 52-45,*,32,4,9,0.444,3,6,0.5,1,3,0.333,0.611,11,12,0.917,0,2,2,1,1,0,1,4,22,16.6,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+31,131,31,2012-03-04,Wisconsin,,Illinois,REG (Conf),W 70-56,*,38,3,7,0.429,2,3,0.667,1,4,0.25,0.571,8,10,0.8,1,2,3,3,0,0,0,1,16,14.5,H,1,1,jordan-taylor-1,Jordan Taylor,2012
+32,132,32,2012-03-09,Wisconsin,N,Indiana,CTOURN,W 79-71,*,32,3,12,0.25,2,5,0.4,1,7,0.143,0.333,4,4,1.0,2,1,3,4,1,0,2,4,12,6.7,N,1,0,jordan-taylor-1,Jordan Taylor,2012
+33,133,33,2012-03-10,Wisconsin,N,Michigan State,CTOURN,L 52-65,*,39,6,14,0.429,2,5,0.4,4,9,0.444,0.5,5,6,0.833,1,2,3,2,1,0,3,4,19,10.3,N,0,0,jordan-taylor-1,Jordan Taylor,2012
+34,134,34,2012-03-15,Wisconsin,N,Montana,ROUND-64,W 73-49,*,36,6,10,0.6,3,5,0.6,3,5,0.6,0.75,2,2,1.0,3,5,8,6,2,0,0,1,17,21.8,N,1,0,jordan-taylor-1,Jordan Taylor,2012
+35,135,35,2012-03-17,Wisconsin,N,Vanderbilt,ROUND-32,W 60-57,*,39,5,15,0.333,3,10,0.3,2,5,0.4,0.433,1,1,1.0,0,2,2,3,0,0,2,1,14,5.8,N,1,0,jordan-taylor-1,Jordan Taylor,2012
+36,136,36,2012-03-22,Wisconsin,N,Syracuse,ROUND-16,L 63-64,*,40,6,15,0.4,5,9,0.556,1,6,0.167,0.567,0,0,,1,3,4,6,1,1,1,0,17,15.4,N,0,0,jordan-taylor-1,Jordan Taylor,2012

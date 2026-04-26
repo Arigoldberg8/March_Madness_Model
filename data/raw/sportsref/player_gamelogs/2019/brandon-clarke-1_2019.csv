@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2018-11-06,Gonzaga,,Idaho State,REG (Non-Conf),W 120-79,*,21,6,8,0.75,0,0,,6,8,0.75,0.75,3,5,0.6,2,7,9,2,2,0,0,4,15,16.3,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+2,63,2,2018-11-10,Gonzaga,,Texas Southern,REG (Non-Conf),W 104-67,*,27,9,13,0.692,0,0,,9,13,0.692,0.692,1,2,0.5,6,7,13,0,2,6,0,3,19,24.4,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+3,64,3,2018-11-15,Gonzaga,,Texas A&M,REG (Non-Conf),W 94-71,*,25,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,4,7,11,2,1,3,2,3,14,15.6,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+4,65,4,2018-11-19,Gonzaga,N,Illinois,REG (Non-Conf),W 84-78,*,24,4,4,1.0,0,0,,4,4,1.0,1.0,2,6,0.333,2,0,2,2,1,5,1,2,10,12.7,N,1,1,brandon-clarke-1,Brandon Clarke,2019
+5,66,5,2018-11-20,Gonzaga,N,Arizona,REG (Non-Conf),W 91-74,*,29,8,9,0.889,1,1,1.0,7,8,0.875,0.944,1,3,0.333,2,2,4,2,0,4,1,4,18,17.7,N,1,1,brandon-clarke-1,Brandon Clarke,2019
+6,67,6,2018-11-21,Gonzaga,N,Duke,REG (Non-Conf),W 89-87,*,23,7,10,0.7,1,1,1.0,6,9,0.667,0.75,2,5,0.4,1,4,5,1,0,6,3,4,17,13.8,N,1,1,brandon-clarke-1,Brandon Clarke,2019
+7,68,7,2018-11-26,Gonzaga,,North Dakota State,REG (Non-Conf),W 102-60,*,22,9,9,1.0,0,0,,9,9,1.0,1.0,0,0,,1,7,8,1,1,5,1,3,18,21.1,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+8,69,8,2018-12-01,Gonzaga,@,Creighton,REG (Non-Conf),W 103-92,*,35,9,12,0.75,0,0,,9,12,0.75,0.75,9,11,0.818,5,5,10,1,2,2,1,3,27,28.3,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+9,70,9,2018-12-05,Gonzaga,,Washington,REG (Non-Conf),W 81-79,*,27,4,11,0.364,0,0,,4,11,0.364,0.364,2,2,1.0,8,3,11,1,2,0,5,4,10,6.5,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+10,71,10,2018-12-09,Gonzaga,N,Tennessee,REG (Non-Conf),L 73-76,*,30,8,12,0.667,0,0,,8,12,0.667,0.667,5,9,0.556,6,3,9,1,3,2,0,3,21,23.2,N,0,1,brandon-clarke-1,Brandon Clarke,2019
+11,72,11,2018-12-15,Gonzaga,@,North Carolina,REG (Non-Conf),L 90-103,*,32,5,8,0.625,0,0,,5,8,0.625,0.625,5,6,0.833,1,2,3,2,3,3,3,2,15,15.0,A,0,1,brandon-clarke-1,Brandon Clarke,2019
+12,73,12,2018-12-18,Gonzaga,,UT Arlington,REG (Non-Conf),W 89-55,*,29,7,12,0.583,0,1,0.0,7,11,0.636,0.583,3,4,0.75,3,10,13,3,1,3,2,1,17,18.9,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+13,74,13,2018-12-21,Gonzaga,,Denver,REG (Non-Conf),W 101-40,*,29,10,12,0.833,0,1,0.0,10,11,0.909,0.833,3,4,0.75,2,5,7,2,1,3,1,1,23,24.2,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+14,75,14,2018-12-28,Gonzaga,,North Alabama,REG (Non-Conf),W 96-51,*,28,7,10,0.7,0,0,,7,10,0.7,0.7,2,3,0.667,5,7,12,2,3,4,2,1,16,21.8,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+15,76,15,2018-12-31,Gonzaga,,Cal State Bakersfield,REG (Non-Conf),W 89-54,*,33,6,11,0.545,0,1,0.0,6,10,0.6,0.545,4,6,0.667,4,3,7,4,2,1,4,2,16,14.3,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+16,77,16,2019-01-05,Gonzaga,,Santa Clara,REG (Conf),W 91-48,*,26,6,10,0.6,0,1,0.0,6,9,0.667,0.6,4,7,0.571,0,6,6,0,2,5,0,0,16,17.5,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+17,78,17,2019-01-10,Gonzaga,,Pacific,REG (Conf),W 67-36,*,28,4,5,0.8,0,0,,4,5,0.8,0.8,2,4,0.5,2,6,8,2,2,5,1,1,10,16.0,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+18,79,18,2019-01-12,Gonzaga,@,San Francisco,REG (Conf),W 96-83,*,29,9,15,0.6,0,1,0.0,9,14,0.643,0.6,6,7,0.857,5,4,9,2,0,4,1,4,24,23.0,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+19,80,19,2019-01-17,Gonzaga,,Loyola Marymount,REG (Conf),W 73-55,*,23,5,5,1.0,0,0,,5,5,1.0,1.0,3,5,0.6,1,2,3,4,0,3,2,1,13,14.5,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+20,81,20,2019-01-19,Gonzaga,@,Portland,REG (Conf),W 89-66,*,24,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,4,2,6,2,0,0,1,4,11,10.6,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+21,82,21,2019-01-24,Gonzaga,@,Santa Clara,REG (Conf),W 98-39,*,20,6,11,0.545,0,0,,6,11,0.545,0.545,0,0,,4,2,6,0,1,2,1,0,12,11.5,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+22,83,22,2019-01-31,Gonzaga,@,Brigham Young,REG (Conf),W 93-63,*,31,10,13,0.769,1,1,1.0,9,12,0.75,0.808,2,2,1.0,2,7,9,2,1,1,1,1,23,23.1,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+23,84,23,2019-02-02,Gonzaga,,San Diego,REG (Conf),W 85-69,*,28,5,9,0.556,0,0,,5,9,0.556,0.556,2,2,1.0,1,7,8,1,0,2,0,3,12,11.4,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+24,85,24,2019-02-07,Gonzaga,,San Francisco,REG (Conf),W 92-62,*,31,8,13,0.615,0,1,0.0,8,12,0.667,0.615,4,6,0.667,6,10,16,2,2,5,2,2,20,24.6,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+25,86,25,2019-02-09,Gonzaga,,St. Mary's (CA),REG (Conf),W 94-46,*,23,9,12,0.75,1,1,1.0,8,11,0.727,0.792,5,8,0.625,2,4,6,2,1,3,1,1,24,23.7,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+26,87,26,2019-02-14,Gonzaga,@,Loyola Marymount,REG (Conf),W 73-60,*,36,7,12,0.583,0,1,0.0,7,11,0.636,0.583,3,3,1.0,1,11,12,4,1,3,1,2,17,19.5,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+27,88,27,2019-02-16,Gonzaga,@,San Diego,REG (Conf),W 79-67,*,28,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,3,5,8,2,0,2,1,4,14,15.3,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+28,89,28,2019-02-21,Gonzaga,,Pepperdine,REG (Conf),W 92-64,*,28,8,10,0.8,0,0,,8,10,0.8,0.8,0,0,,3,8,11,0,0,5,1,1,16,18.8,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+29,90,29,2019-02-23,Gonzaga,,Brigham Young,REG (Conf),W 102-68,,24,4,9,0.444,0,1,0.0,4,8,0.5,0.444,3,3,1.0,3,7,10,1,1,3,1,3,11,12.1,H,1,1,brandon-clarke-1,Brandon Clarke,2019
+30,91,30,2019-02-28,Gonzaga,@,Pacific,REG (Conf),W 86-66,*,34,8,10,0.8,0,0,,8,10,0.8,0.8,5,6,0.833,4,9,13,4,1,5,1,1,21,28.2,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+31,92,31,2019-03-02,Gonzaga,@,St. Mary's (CA),REG (Conf),W 69-55,*,29,7,10,0.7,0,1,0.0,7,9,0.778,0.7,1,2,0.5,3,4,7,1,1,4,1,2,15,16.4,A,1,1,brandon-clarke-1,Brandon Clarke,2019
+32,93,32,2019-03-11,Gonzaga,N,Pepperdine,CTOURN,W 100-74,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,3,5,0.6,3,4,7,5,1,2,2,2,15,18.1,N,1,0,brandon-clarke-1,Brandon Clarke,2019
+33,94,33,2019-03-12,Gonzaga,N,St. Mary's (CA),CTOURN,L 47-60,*,34,6,8,0.75,0,1,0.0,6,7,0.857,0.75,4,4,1.0,2,6,8,0,0,1,2,1,16,14.3,N,0,0,brandon-clarke-1,Brandon Clarke,2019
+34,95,34,2019-03-21,Gonzaga,N,Fairleigh Dickinson,ROUND-64,W 87-49,*,23,5,8,0.625,0,0,,5,8,0.625,0.625,2,5,0.4,3,5,8,2,1,3,1,1,12,13.9,N,1,0,brandon-clarke-1,Brandon Clarke,2019
+35,96,35,2019-03-23,Gonzaga,N,Baylor,ROUND-32,W 83-71,*,36,15,18,0.833,0,0,,15,18,0.833,0.833,6,8,0.75,4,4,8,3,2,5,1,3,36,38.0,N,1,0,brandon-clarke-1,Brandon Clarke,2019
+36,97,36,2019-03-28,Gonzaga,N,Florida State,ROUND-16,W 72-58,*,34,6,15,0.4,0,1,0.0,6,14,0.429,0.4,3,4,0.75,3,9,12,2,1,5,3,2,15,13.4,N,1,0,brandon-clarke-1,Brandon Clarke,2019
+37,98,37,2019-03-30,Gonzaga,N,Texas Tech,ROUND-8,L 69-75,*,35,7,10,0.7,0,0,,7,10,0.7,0.7,4,4,1.0,3,9,12,3,1,2,6,0,18,17.1,N,0,0,brandon-clarke-1,Brandon Clarke,2019

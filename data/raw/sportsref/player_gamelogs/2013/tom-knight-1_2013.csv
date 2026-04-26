@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,2,2012-11-12,Notre Dame,,Monmouth,REG (Non-Conf),W 84-57,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,1,0,1,1,0,-0.4,H,1,1,tom-knight-1,Tom Knight,2013
+2,46,5,2012-11-21,Notre Dame,,George Washington,REG (Non-Conf),W 65-48,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,tom-knight-1,Tom Knight,2013
+3,47,6,2012-11-24,Notre Dame,,Saint Francis (PA),REG (Non-Conf),W 69-52,,4,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,H,1,1,tom-knight-1,Tom Knight,2013
+4,48,7,2012-11-26,Notre Dame,,Chicago State,REG (Non-Conf),W 92-65,,4,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,3,4,0,0,1,0,0,0,0.9,H,1,1,tom-knight-1,Tom Knight,2013
+5,49,9,2012-12-08,Notre Dame,,Brown,REG (Non-Conf),W 84-57,,16,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,4,3,7,1,0,1,0,2,4,7.0,H,1,1,tom-knight-1,Tom Knight,2013
+6,50,11,2012-12-17,Notre Dame,,IPFW,REG (Non-Conf),W 74-62,,6,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,2,2,2.2,H,1,1,tom-knight-1,Tom Knight,2013
+7,51,12,2012-12-19,Notre Dame,,Kennesaw State,REG (Non-Conf),W 85-57,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,tom-knight-1,Tom Knight,2013
+8,52,13,2012-12-21,Notre Dame,,Niagara,REG (Non-Conf),W 89-67,,3,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,1,1,2,0.2,H,1,1,tom-knight-1,Tom Knight,2013
+9,53,14,2013-01-05,Notre Dame,,Seton Hall,REG (Conf),W 93-74,,3,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,0,0,2,2.7,H,1,1,tom-knight-1,Tom Knight,2013
+10,54,17,2013-01-15,Notre Dame,@,St. John's (NY),REG (Conf),L 63-67,,17,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,0,3,3,0,0,4,0,2,6,6.9,A,0,1,tom-knight-1,Tom Knight,2013
+11,55,18,2013-01-19,Notre Dame,,Rutgers,REG (Conf),W 69-66,,9,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,0,0,0,0,0,0,0,1,6,4.3,H,1,1,tom-knight-1,Tom Knight,2013
+12,56,19,2013-01-21,Notre Dame,,Georgetown,REG (Conf),L 47-63,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,0,0,0,1,1,0,0,2,2,1.1,H,0,1,tom-knight-1,Tom Knight,2013
+13,57,20,2013-01-26,Notre Dame,@,South Florida,REG (Conf),W 73-65,*,32,8,10,0.8,0,0,8,10,0.8,0.8,1,2,0.5,4,3,7,0,0,2,1,4,17,15.3,A,1,1,tom-knight-1,Tom Knight,2013
+14,58,21,2013-01-30,Notre Dame,,Villanova,REG (Conf),W 65-60,*,33,5,9,0.556,0,0,5,9,0.556,0.556,0,0,,1,3,4,1,0,2,0,4,10,7.8,H,1,1,tom-knight-1,Tom Knight,2013
+15,59,22,2013-02-02,Notre Dame,@,DePaul,REG (Conf),W 79-71 (OT),*,30,2,7,0.286,0,0,2,7,0.286,0.286,2,2,1.0,2,5,7,1,1,1,1,4,6,4.6,A,1,1,tom-knight-1,Tom Knight,2013
+16,60,23,2013-02-04,Notre Dame,@,Syracuse,REG (Conf),L 47-63,*,24,1,8,0.125,0,0,1,8,0.125,0.125,0,0,,2,1,3,2,0,1,0,3,2,-0.6,A,0,1,tom-knight-1,Tom Knight,2013
+17,61,24,2013-02-09,Notre Dame,,Louisville,REG (Conf),W 104-101 (5OT),*,30,1,4,0.25,0,0,1,4,0.25,0.25,3,4,0.75,1,4,5,2,0,1,2,5,5,2.2,H,1,1,tom-knight-1,Tom Knight,2013
+18,62,25,2013-02-13,Notre Dame,,DePaul,REG (Conf),W 82-78 (OT),*,29,2,8,0.25,0,0,2,8,0.25,0.25,1,2,0.5,3,5,8,1,0,2,1,2,5,3.7,H,1,1,tom-knight-1,Tom Knight,2013
+19,63,26,2013-02-16,Notre Dame,@,Providence,REG (Conf),L 54-71,*,24,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,0,2,2,0,0,3,0,2,11,9.6,A,0,1,tom-knight-1,Tom Knight,2013
+20,64,27,2013-02-18,Notre Dame,@,Pittsburgh,REG (Conf),W 51-42,*,25,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,6,8,1,1,1,1,4,6,6.7,A,1,1,tom-knight-1,Tom Knight,2013
+21,65,28,2013-02-24,Notre Dame,,Cincinnati,REG (Conf),W 62-41,*,25,6,7,0.857,0,0,6,7,0.857,0.857,0,0,,2,5,7,3,2,1,0,1,12,16.8,H,1,1,tom-knight-1,Tom Knight,2013
+22,66,29,2013-03-02,Notre Dame,@,Marquette,REG (Conf),L 64-72,*,19,3,7,0.429,0,0,3,7,0.429,0.429,1,1,1.0,3,2,5,1,1,2,2,3,7,5.9,A,0,1,tom-knight-1,Tom Knight,2013
+23,67,30,2013-03-05,Notre Dame,,St. John's (NY),REG (Conf),W 66-40,*,28,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,4,5,1,1,1,3,2,7,5.5,H,1,1,tom-knight-1,Tom Knight,2013
+24,68,31,2013-03-09,Notre Dame,@,Louisville,REG (Conf),L 57-73,*,14,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,0,0,2,0,1,0,0,2,2.4,A,0,1,tom-knight-1,Tom Knight,2013
+25,69,32,2013-03-13,Notre Dame,N,Rutgers,CTOURN,W 69-61,*,29,6,14,0.429,0,0,6,14,0.429,0.429,6,7,0.857,4,5,9,0,0,1,1,4,18,12.6,N,1,0,tom-knight-1,Tom Knight,2013
+26,70,33,2013-03-14,Notre Dame,N,Marquette,CTOURN,W 73-65,*,21,3,7,0.429,0,0,3,7,0.429,0.429,2,2,1.0,2,2,4,0,0,0,2,2,8,3.5,N,1,0,tom-knight-1,Tom Knight,2013
+27,71,34,2013-03-15,Notre Dame,N,Louisville,CTOURN,L 57-69,*,13,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,1,0,1,0,0,0,1,1,0,-3.5,N,0,0,tom-knight-1,Tom Knight,2013
+28,72,35,2013-03-22,Notre Dame,N,Iowa State,ROUND-64,L 58-76,*,29,5,10,0.5,0,0,5,10,0.5,0.5,4,4,1.0,1,2,3,2,0,1,1,3,14,10.2,N,0,0,tom-knight-1,Tom Knight,2013

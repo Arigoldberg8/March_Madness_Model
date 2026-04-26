@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,2,2020-11-28,Oklahoma State,,Texas Southern,REG (Non-Conf),W 85-65,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,1,0,0.3,H,1,1,bryce-williams-1,Bryce Williams,2021
+2,31,3,2020-12-01,Oklahoma State,@,Marquette,REG (Non-Conf),W 70-62,,22,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,0,2,2,4,4,1,1,3,13,14.9,A,1,1,bryce-williams-1,Bryce Williams,2021
+3,32,4,2020-12-05,Oklahoma State,,Oakland,REG (Non-Conf),W 84-71,,21,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,2,0,1,1,0,10,7.0,H,1,1,bryce-williams-1,Bryce Williams,2021
+4,33,5,2020-12-08,Oklahoma State,,Oral Roberts,REG (Non-Conf),W 83-78,,25,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,3,3,1,4,0,4,2,5,1.7,H,1,1,bryce-williams-1,Bryce Williams,2021
+5,34,6,2020-12-12,Oklahoma State,@,Wichita State,REG (Non-Conf),W 67-64,,23,2,10,0.2,1,7,0.143,1,3,0.333,0.25,1,2,0.5,1,6,7,1,2,0,0,1,6,4.2,A,1,1,bryce-williams-1,Bryce Williams,2021
+6,35,7,2020-12-16,Oklahoma State,,TCU,REG (Conf),L 76-77,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,1,1,0,2,0,0,3,3,1.3,H,0,1,bryce-williams-1,Bryce Williams,2021
+7,36,8,2020-12-20,Oklahoma State,@,Texas,REG (Conf),L 74-77,,21,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,4,0.75,0,3,3,0,0,2,2,4,13,8.7,A,0,1,bryce-williams-1,Bryce Williams,2021
+8,37,9,2021-01-02,Oklahoma State,@,Texas Tech,REG (Conf),W 82-77 (OT),*,36,5,9,0.556,3,5,0.6,2,4,0.5,0.722,2,2,1.0,2,2,4,3,2,0,1,2,15,15.0,A,1,1,bryce-williams-1,Bryce Williams,2021
+9,38,10,2021-01-04,Oklahoma State,,West Virginia,REG (Conf),L 84-87,*,34,4,12,0.333,1,5,0.2,3,7,0.429,0.375,2,3,0.667,2,3,5,3,0,1,1,2,11,7.1,H,0,1,bryce-williams-1,Bryce Williams,2021
+10,39,11,2021-01-09,Oklahoma State,@,Kansas State,REG (Conf),W 70-54,*,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,bryce-williams-1,Bryce Williams,2021
+11,40,12,2021-01-12,Oklahoma State,,Kansas,REG (Conf),W 75-70,*,26,5,9,0.556,3,7,0.429,2,2,1.0,0.722,4,5,0.8,0,1,1,2,3,0,2,2,17,14.2,H,1,1,bryce-williams-1,Bryce Williams,2021
+12,41,13,2021-01-23,Oklahoma State,,Baylor,REG (Conf),L 66-81,*,36,3,11,0.273,3,7,0.429,0,4,0.0,0.409,2,2,1.0,0,1,1,3,2,3,4,1,11,6.6,H,0,1,bryce-williams-1,Bryce Williams,2021
+13,42,14,2021-01-25,Oklahoma State,@,Iowa State,REG (Conf),W 81-60,*,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,5,0.4,0,1,1,2,1,1,4,0,4,1.2,A,1,1,bryce-williams-1,Bryce Williams,2021
+14,43,15,2021-01-30,Oklahoma State,,Arkansas,REG (Non-Conf),W 81-77,*,24,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,2,2,2,0,2,0,1,6,7.0,H,1,1,bryce-williams-1,Bryce Williams,2021
+15,44,16,2021-02-03,Oklahoma State,@,TCU,REG (Conf),L 78-81,,26,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,4,0.5,0,2,2,6,1,2,1,4,11,10.8,A,0,1,bryce-williams-1,Bryce Williams,2021
+16,45,17,2021-02-06,Oklahoma State,,Texas,REG (Conf),W 75-67 (2OT),*,32,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,3,3,0,0,3,3,3,6,0.7,H,1,1,bryce-williams-1,Bryce Williams,2021
+17,46,18,2021-02-08,Oklahoma State,@,Kansas,REG (Conf),L 66-78,*,29,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,1,0,1,3,2,3,-3.2,A,0,1,bryce-williams-1,Bryce Williams,2021
+18,47,19,2021-02-13,Oklahoma State,,Kansas State,REG (Conf),W 67-60,*,25,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,1,2,3,2,1,0,1,2,10,8.2,H,1,1,bryce-williams-1,Bryce Williams,2021
+19,48,20,2021-02-16,Oklahoma State,,Iowa State,REG (Conf),W 76-58,*,14,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,0,0,3,0,0,3,0,1,-1.7,H,1,1,bryce-williams-1,Bryce Williams,2021
+20,49,21,2021-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 74-69 (OT),*,25,0,8,0.0,0,3,0.0,0,5,0.0,0.0,2,2,1.0,0,3,3,1,0,0,3,1,2,-5.4,H,1,1,bryce-williams-1,Bryce Williams,2021
+21,50,22,2021-02-27,Oklahoma State,@,Oklahoma,REG (Conf),W 94-90 (OT),*,35,4,10,0.4,4,10,0.4,0,0,,0.6,3,4,0.75,0,1,1,2,0,0,2,3,15,7.7,A,1,1,bryce-williams-1,Bryce Williams,2021
+22,51,23,2021-03-01,Oklahoma State,,Oklahoma,REG (Conf),W 79-75,*,38,4,11,0.364,3,6,0.5,1,5,0.2,0.5,3,4,0.75,0,2,2,3,2,1,1,4,14,10.3,H,1,1,bryce-williams-1,Bryce Williams,2021
+23,52,24,2021-03-04,Oklahoma State,@,Baylor,REG (Conf),L 70-81,*,38,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,1,1.0,1,1,2,4,0,0,3,0,6,3.4,A,0,1,bryce-williams-1,Bryce Williams,2021
+24,53,25,2021-03-06,Oklahoma State,@,West Virginia,REG (Conf),W 85-80,*,35,2,10,0.2,0,6,0.0,2,4,0.5,0.2,0,0,,0,2,2,6,1,0,8,1,4,-4.8,A,1,1,bryce-williams-1,Bryce Williams,2021
+25,54,26,2021-03-11,Oklahoma State,N,West Virginia,CTOURN,W 72-69,*,29,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,0,1,1,3,1,0,1,0,12,10.4,N,1,0,bryce-williams-1,Bryce Williams,2021
+26,55,27,2021-03-12,Oklahoma State,N,Baylor,CTOURN,W 83-74,*,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,bryce-williams-1,Bryce Williams,2021
+27,56,28,2021-03-13,Oklahoma State,N,Texas,CTOURN,L 86-91,*,6,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,2,0,1,0,2,1.3,N,0,0,bryce-williams-1,Bryce Williams,2021
+28,57,30,2021-03-21,Oklahoma State,N,Oregon State,ROUND-32,L 70-80,,11,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,0,0,0,0,0,0,5,4,-0.1,N,0,0,bryce-williams-1,Bryce Williams,2021

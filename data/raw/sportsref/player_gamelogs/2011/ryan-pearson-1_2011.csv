@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2010-11-13,George Mason,,Harvard,REG (Non-Conf),W 66-53,*,25,5,10,0.5,0,0,,5,10,0.5,0.5,3,7,0.429,4,2,6,2,2,0,4,3,13,8.0,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+2,62,2,2010-11-18,George Mason,N,Charlotte,REG (Non-Conf),W 78-56,*,30,5,12,0.417,0,2,0.0,5,10,0.5,0.417,1,2,0.5,1,1,2,3,3,0,1,1,11,8.9,N,1,1,ryan-pearson-1,Ryan Pearson,2011
+3,63,3,2010-11-19,George Mason,N,NC State,REG (Non-Conf),L 65-78,*,21,3,8,0.375,1,1,1.0,2,7,0.286,0.438,3,3,1.0,1,3,4,0,2,0,2,2,10,6.4,N,0,1,ryan-pearson-1,Ryan Pearson,2011
+4,64,4,2010-11-21,George Mason,N,Wofford,REG (Non-Conf),L 79-82 (OT),,34,5,10,0.5,0,1,0.0,5,9,0.556,0.5,4,7,0.571,3,8,11,2,1,2,2,3,14,12.9,N,0,1,ryan-pearson-1,Ryan Pearson,2011
+5,65,5,2010-11-24,George Mason,,Radford,REG (Non-Conf),W 81-55,*,18,6,7,0.857,1,2,0.5,5,5,1.0,0.929,0,0,,0,3,3,1,0,0,1,1,13,10.7,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+6,66,6,2010-11-27,George Mason,,Florida Atlantic,REG (Non-Conf),W 66-51,*,27,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,0,4,4,1,0,0,0,4,10,8.4,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+7,67,7,2010-12-01,George Mason,,George Washington,REG (Non-Conf),W 60-46,*,34,1,4,0.25,0,0,,1,4,0.25,0.25,4,8,0.5,1,3,4,0,3,0,0,2,6,5.8,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+8,68,8,2010-12-04,George Mason,,UNC Wilmington,REG (Conf),W 80-52,*,23,6,10,0.6,0,1,0.0,6,9,0.667,0.6,0,0,,4,1,5,2,0,0,3,1,12,8.5,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+9,69,9,2010-12-08,George Mason,,Loyola (MD),REG (Non-Conf),W 66-52,*,31,7,9,0.778,0,0,,7,9,0.778,0.778,4,5,0.8,0,4,4,0,2,0,1,2,18,15.5,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+10,70,10,2010-12-11,George Mason,@,Liberty,REG (Non-Conf),W 84-54,*,29,7,8,0.875,2,2,1.0,5,6,0.833,1.0,0,0,,0,5,5,2,2,2,0,4,16,17.9,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+11,71,11,2010-12-22,George Mason,@,Duquesne,REG (Non-Conf),W 85-79 (2OT),*,36,5,10,0.5,0,1,0.0,5,9,0.556,0.5,7,9,0.778,5,6,11,2,0,1,3,5,17,13.6,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+12,72,12,2010-12-29,George Mason,@,Dayton,REG (Non-Conf),L 67-73,*,33,3,10,0.3,0,1,0.0,3,9,0.333,0.3,7,8,0.875,4,3,7,0,0,0,1,2,13,8.7,A,0,1,ryan-pearson-1,Ryan Pearson,2011
+13,73,13,2011-01-03,George Mason,,Delaware,REG (Conf),W 75-66,*,33,7,11,0.636,0,2,0.0,7,9,0.778,0.636,5,10,0.5,1,4,5,2,2,0,3,2,19,13.6,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+14,74,14,2011-01-05,George Mason,@,Hofstra,REG (Conf),L 74-87,*,32,7,11,0.636,2,3,0.667,5,8,0.625,0.727,6,9,0.667,2,6,8,1,1,0,3,4,22,16.2,A,0,1,ryan-pearson-1,Ryan Pearson,2011
+15,75,15,2011-01-08,George Mason,@,Old Dominion,REG (Conf),L 65-69,*,33,4,12,0.333,1,2,0.5,3,10,0.3,0.375,4,5,0.8,2,3,5,0,0,2,2,4,13,5.9,A,0,1,ryan-pearson-1,Ryan Pearson,2011
+16,76,16,2011-01-12,George Mason,@,Northeastern,REG (Conf),W 86-60,*,28,10,14,0.714,2,2,1.0,8,12,0.667,0.786,2,3,0.667,2,4,6,0,2,0,1,3,24,20.2,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+17,77,17,2011-01-15,George Mason,,Georgia State,REG (Conf),W 66-51,*,32,3,6,0.5,0,0,,3,6,0.5,0.5,8,9,0.889,1,4,5,0,1,0,2,4,14,9.9,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+18,78,18,2011-01-19,George Mason,,Drexel,REG (Conf),W 71-47,*,29,1,4,0.25,1,2,0.5,0,2,0.0,0.375,9,13,0.692,1,4,5,0,0,2,2,3,12,8.1,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+19,79,19,2011-01-22,George Mason,@,James Madison,REG (Conf),W 75-73,*,32,4,10,0.4,1,2,0.5,3,8,0.375,0.45,5,6,0.833,0,6,6,0,2,1,2,3,14,9.5,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+20,80,20,2011-01-24,George Mason,@,Delaware,REG (Conf),W 69-49,*,24,4,10,0.4,1,3,0.333,3,7,0.429,0.45,4,5,0.8,1,6,7,1,1,0,1,2,13,9.6,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+21,81,21,2011-01-27,George Mason,,Towson,REG (Conf),W 84-58,*,31,4,10,0.4,0,0,,4,10,0.4,0.4,2,4,0.5,1,5,6,1,0,3,0,1,10,8.4,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+22,82,22,2011-01-29,George Mason,@,William & Mary,REG (Conf),W 85-69,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,7,8,0.875,2,5,7,2,0,2,0,2,15,15.5,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+23,83,23,2011-02-02,George Mason,,Hofstra,REG (Conf),W 87-68,*,31,7,13,0.538,1,2,0.5,6,11,0.545,0.577,4,5,0.8,4,8,12,3,1,1,4,1,19,16.9,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+24,84,24,2011-02-05,George Mason,,Old Dominion,REG (Conf),W 62-45,*,33,7,13,0.538,0,1,0.0,7,12,0.583,0.538,4,8,0.5,3,8,11,1,1,1,1,3,18,14.8,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+25,85,25,2011-02-08,George Mason,@,UNC Wilmington,REG (Conf),W 78-63,*,35,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,0,,2,7,9,2,1,0,3,1,13,12.3,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+26,86,26,2011-02-12,George Mason,,James Madison,REG (Conf),W 82-68,*,32,6,13,0.462,1,4,0.25,5,9,0.556,0.5,2,3,0.667,2,3,5,1,0,0,0,2,15,10.1,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+27,87,27,2011-02-15,George Mason,@,VCU,REG (Conf),W 71-51,*,35,7,12,0.583,2,2,1.0,5,10,0.5,0.667,2,3,0.667,2,6,8,3,0,0,1,2,18,15.5,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+28,88,28,2011-02-19,George Mason,@,Northern Iowa,REG (Non-Conf),W 77-71,*,35,4,7,0.571,0,1,0.0,4,6,0.667,0.571,13,13,1.0,3,12,15,0,1,0,2,4,21,20.8,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+29,89,29,2011-02-24,George Mason,,Northeastern,REG (Conf),W 67-61,*,32,6,12,0.5,0,1,0.0,6,11,0.545,0.5,6,11,0.545,2,13,15,1,1,1,1,3,18,15.5,H,1,1,ryan-pearson-1,Ryan Pearson,2011
+30,90,30,2011-02-26,George Mason,@,Georgia State,REG (Conf),W 65-58,*,36,3,10,0.3,0,0,,3,10,0.3,0.3,3,4,0.75,1,4,5,1,0,0,1,1,9,4.0,A,1,1,ryan-pearson-1,Ryan Pearson,2011
+31,91,31,2011-03-05,George Mason,N,Georgia State,CTOURN,W 68-45,*,29,2,5,0.4,0,1,0.0,2,4,0.5,0.4,7,9,0.778,1,5,6,1,0,0,1,2,11,8.6,N,1,0,ryan-pearson-1,Ryan Pearson,2011
+32,92,32,2011-03-06,George Mason,N,VCU,CTOURN,L 63-79,*,32,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,7,0.286,4,3,7,0,1,2,2,4,10,6.5,N,0,0,ryan-pearson-1,Ryan Pearson,2011
+33,93,33,2011-03-18,George Mason,N,Villanova,ROUND-64,W 61-57,*,26,2,9,0.222,0,1,0.0,2,8,0.25,0.222,4,5,0.8,0,5,5,1,0,0,2,4,8,0.7,N,1,0,ryan-pearson-1,Ryan Pearson,2011
+34,94,34,2011-03-20,George Mason,N,Ohio State,ROUND-32,L 66-98,*,28,4,10,0.4,1,1,1.0,3,9,0.333,0.45,4,4,1.0,4,1,5,4,2,0,1,3,13,13.3,N,0,0,ryan-pearson-1,Ryan Pearson,2011

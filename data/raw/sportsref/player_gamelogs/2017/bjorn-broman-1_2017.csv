@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2016-11-12,Winthrop,,Ferrum,REG (Non-Conf),W 66-47,*,31,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,0,1,0,0,3,3,0.0,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+2,34,2,2016-11-15,Winthrop,@,Manhattan,REG (Non-Conf),W 94-81,*,31,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,1,4,5,5,0,0,2,1,4,3.5,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+3,35,3,2016-11-18,Winthrop,@,Florida State,REG (Non-Conf),L 86-100,*,33,5,10,0.5,2,5,0.4,3,5,0.6,0.6,4,5,0.8,1,0,1,5,0,0,1,4,16,12.2,A,0,1,bjorn-broman-1,Bjorn Broman,2017
+4,36,4,2016-11-21,Winthrop,@,Illinois,REG (Non-Conf),W 84-80 (OT),*,41,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,3,0.667,0,2,2,2,2,0,5,2,5,0.4,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+5,37,5,2016-11-27,Winthrop,,New Hampshire,REG (Non-Conf),L 60-65,*,32,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,0,5,5,3,2,0,2,0,7,8.2,H,0,1,bjorn-broman-1,Bjorn Broman,2017
+6,38,6,2016-11-30,Winthrop,,Furman,REG (Non-Conf),W 58-57 (OT),*,25,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,0,0,0,2,0,1,1,3,0.5,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+7,39,7,2016-12-03,Winthrop,@,Dayton,REG (Non-Conf),L 67-83,*,26,0,4,0.0,0,4,0.0,0,0,,0.0,0,1,0.0,0,0,0,2,1,0,0,2,0,-1.6,A,0,1,bjorn-broman-1,Bjorn Broman,2017
+8,40,8,2016-12-06,Winthrop,,Greensboro,REG (Non-Conf),W 106-63,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,3,3,3,0,0,1,2,5,4.2,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+9,41,9,2016-12-17,Winthrop,@,Hampton,REG (Non-Conf),W 86-79,*,28,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,1,1,1,0,0,1,4,14,8.8,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+10,42,10,2016-12-20,Winthrop,,Georgia Southern,REG (Non-Conf),W 86-84,*,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-1.4,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+11,43,11,2016-12-22,Winthrop,@,Saint Louis,REG (Non-Conf),W 66-55,*,24,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,5,1,0,1,0,0,3.1,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+12,44,12,2016-12-29,Winthrop,@,Charleston Southern,REG (Conf),W 84-68,,21,5,8,0.625,5,8,0.625,0,0,,0.938,0,0,,0,0,0,0,1,0,0,2,15,11.6,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+13,45,13,2016-12-31,Winthrop,,Radford,REG (Conf),L 80-82,*,30,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,1,2,0,0,1,3,3.2,H,0,1,bjorn-broman-1,Bjorn Broman,2017
+14,46,14,2017-01-04,Winthrop,@,High Point,REG (Conf),W 80-74,*,33,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,1,0,1,5,0,0,1,2,15,14.5,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+15,47,15,2017-01-07,Winthrop,,Longwood,REG (Conf),W 83-65,*,19,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,1,0,1,1,0,1,0,0,2,1.0,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+16,48,16,2017-01-11,Winthrop,,Presbyterian,REG (Conf),W 75-52,*,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,3,0.667,0,2,2,3,0,0,0,3,5,3.0,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+17,49,17,2017-01-14,Winthrop,@,Campbell,REG (Conf),W 72-63,*,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,2,3,0,2,1,1,2,3,2.8,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+18,50,18,2017-01-19,Winthrop,,UNC Asheville,REG (Conf),W 76-73,,16,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,3,0,0,2,3,0,-3.2,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+19,51,19,2017-01-21,Winthrop,@,Liberty,REG (Conf),W 61-48,*,28,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,3,3,2,0,0,2,3,2,-1.0,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+20,52,20,2017-01-26,Winthrop,@,Gardner-Webb,REG (Conf),W 72-70,*,27,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,5,0,0,2,3,3,2.6,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+21,53,21,2017-01-28,Winthrop,,High Point,REG (Conf),L 80-83 (OT),*,31,0,3,0.0,0,3,0.0,0,0,,0.0,4,4,1.0,0,3,3,1,2,1,0,1,4,5.8,H,0,1,bjorn-broman-1,Bjorn Broman,2017
+22,54,22,2017-02-01,Winthrop,@,Radford,REG (Conf),W 81-65,*,33,5,10,0.5,4,8,0.5,1,2,0.5,0.7,0,0,,0,3,3,1,0,0,1,2,14,8.8,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+23,55,23,2017-02-04,Winthrop,,Campbell,REG (Conf),W 76-62,*,31,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,1,0,1,2,3,0.5,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+24,56,24,2017-02-09,Winthrop,@,UNC Asheville,REG (Conf),L 101-104 (2OT),*,45,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,0,0,4,2,2,1,3,12,12.7,A,0,1,bjorn-broman-1,Bjorn Broman,2017
+25,57,25,2017-02-11,Winthrop,,Gardner-Webb,REG (Conf),W 77-71,*,26,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,0,0,0,2,1,2,-0.9,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+26,58,26,2017-02-15,Winthrop,@,Longwood,REG (Conf),W 83-63,*,28,2,5,0.4,2,5,0.4,0,0,,0.6,0,1,0.0,1,1,2,4,2,0,1,1,6,7.3,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+27,59,27,2017-02-18,Winthrop,,Liberty,REG (Conf),W 84-67,*,34,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,0,0,0,2,1,0,2,1,8,4.6,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+28,60,28,2017-02-23,Winthrop,,Charleston Southern,REG (Conf),W 86-72,,27,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,1,1,2,0,0,0,3,9,7.2,H,1,1,bjorn-broman-1,Bjorn Broman,2017
+29,61,29,2017-02-25,Winthrop,@,Presbyterian,REG (Conf),W 93-56,*,20,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,4,4,2,1,0,0,2,3,3.4,A,1,1,bjorn-broman-1,Bjorn Broman,2017
+30,62,30,2017-03-02,Winthrop,N,Charleston Southern,CTOURN,W 92-78,*,22,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,2,0,-2.6,N,1,0,bjorn-broman-1,Bjorn Broman,2017
+31,63,31,2017-03-03,Winthrop,,Gardner-Webb,CTOURN,W 80-77 (OT),*,36,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,1,1,2,1,3,0,2,0,4,3.3,H,1,0,bjorn-broman-1,Bjorn Broman,2017
+32,64,32,2017-03-05,Winthrop,,Campbell,CTOURN,W 76-59,*,30,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,3,3,4,0,1,1,1,5,6.0,H,1,0,bjorn-broman-1,Bjorn Broman,2017
+33,65,33,2017-03-16,Winthrop,N,Butler,ROUND-64,L 64-76,*,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,3,0,0,1,1,2,0.6,N,0,0,bjorn-broman-1,Bjorn Broman,2017

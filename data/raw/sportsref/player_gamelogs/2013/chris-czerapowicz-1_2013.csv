@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,*,20,6,9,0.667,3,5,0.6,3,4,0.75,0.833,0,0,,1,4,5,2,1,0,1,2,15,13.6,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+2,56,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,*,21,4,6,0.667,4,5,0.8,0,1,0.0,1.0,0,0,,0,1,1,3,0,0,0,4,12,10.2,A,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+3,57,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,*,22,2,9,0.222,1,2,0.5,1,7,0.143,0.278,1,1,1.0,1,3,4,0,2,0,1,4,6,1.5,A,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+4,58,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,*,23,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,1,1,0,0,2,7,5.2,N,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+5,59,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,*,33,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,4,0.5,2,7,9,0,0,0,4,3,15,7.5,N,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+6,60,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,*,27,2,9,0.222,2,5,0.4,0,4,0.0,0.333,2,2,1.0,1,2,3,0,0,0,1,4,8,1.2,N,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+7,61,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,*,19,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,1,5,6,1,0,0,1,1,8,5.8,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+8,62,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,*,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,1,0,-0.5,H,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+9,63,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,*,22,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,2,0,2,0,1,0,0,1,8,7.7,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+10,64,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,*,28,5,9,0.556,4,6,0.667,1,3,0.333,0.778,0,0,,3,5,8,1,1,0,0,2,14,14.2,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+11,65,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,*,21,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,2,2,0,0,0,1,1,8,4.2,A,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+12,66,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,*,13,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,4,4,0,0,0,0,3,0,-2.1,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+13,67,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,*,23,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,2,2,0,0,0,0,1,5,0.4,N,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+14,68,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,*,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,3,0.667,1,9,10,0,0,0,1,1,4,3.2,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+15,69,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,*,31,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,1,0.0,2,1,3,1,0,0,0,2,13,11.3,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+16,70,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,*,36,4,11,0.364,3,7,0.429,1,4,0.25,0.5,2,3,0.667,2,4,6,1,0,1,0,3,13,9.3,A,0,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+17,71,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,*,21,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,4,2,6,1,0,0,0,3,8,5.8,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+18,72,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,*,19,3,9,0.333,0,4,0.0,3,5,0.6,0.333,0,0,,0,1,1,1,1,0,0,3,6,1.7,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+19,73,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,*,29,2,8,0.25,1,5,0.2,1,3,0.333,0.313,1,1,1.0,1,4,5,1,0,0,1,4,6,1.2,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+20,74,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,*,32,4,9,0.444,3,6,0.5,1,3,0.333,0.611,2,2,1.0,0,7,7,0,0,0,0,4,13,8.8,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+21,75,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,*,31,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,4,4,1,0,1,0,2,11,8.8,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+22,76,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,*,29,6,9,0.667,1,1,1.0,5,8,0.625,0.722,2,2,1.0,1,5,6,0,1,0,0,0,15,14.3,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+23,77,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,*,31,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,3,9,12,0,2,0,0,1,8,9.3,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+24,78,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,*,28,4,11,0.364,2,6,0.333,2,5,0.4,0.455,0,0,,0,11,11,1,0,1,0,2,10,7.8,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+25,79,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,*,36,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,4,4,0,0,0,1,3,3,-1.1,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+26,80,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,*,24,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,0,,0,4,4,0,1,0,0,3,14,11.8,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+27,81,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,*,26,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,5,5,0,0,2,0,1,9,7.5,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+28,82,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),*,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,4,4,1.0,1,5,6,0,0,0,1,4,11,8.3,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+29,83,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,*,31,8,18,0.444,4,11,0.364,4,7,0.571,0.556,0,0,,2,6,8,1,2,0,0,1,20,16.1,A,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+30,84,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,*,18,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,4,5,0,0,0,2,1,7,2.8,H,1,1,chris-czerapowicz-1,Chris Czerapowicz,2013
+31,85,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,*,18,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,1,1.0,0,4,4,0,0,0,1,4,10,6.7,N,1,0,chris-czerapowicz-1,Chris Czerapowicz,2013
+32,86,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,*,32,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,1,5,6,0,0,0,0,1,10,5.7,N,1,0,chris-czerapowicz-1,Chris Czerapowicz,2013
+33,87,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,*,34,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,1,5,6,0,0,0,0,1,7,4.4,N,1,0,chris-czerapowicz-1,Chris Czerapowicz,2013
+34,88,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,*,28,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,0,2,2,1,0,1,2,3,5,-1.7,N,0,0,chris-czerapowicz-1,Chris Czerapowicz,2013

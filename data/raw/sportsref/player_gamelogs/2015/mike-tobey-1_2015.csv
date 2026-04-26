@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2014-11-14,Virginia,@,James Madison,REG (Non-Conf),W 79-51,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,2,4,6,1,1,2,3,5,6,5.0,A,1,1,mike-tobey-1,Mike Tobey,2015
+2,69,2,2014-11-16,Virginia,,Norfolk State,REG (Non-Conf),W 67-39,*,20,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,0,7,7,2,0,2,1,2,10,9.7,H,1,1,mike-tobey-1,Mike Tobey,2015
+3,70,3,2014-11-18,Virginia,,South Carolina State,REG (Non-Conf),W 75-55,,16,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,3,2,5,0,0,1,0,2,10,9.3,H,1,1,mike-tobey-1,Mike Tobey,2015
+4,71,4,2014-11-21,Virginia,,George Washington,REG (Non-Conf),W 59-42,,17,3,9,0.333,0,0,,3,9,0.333,0.333,0,2,0.0,3,2,5,0,0,0,0,3,6,1.6,H,1,1,mike-tobey-1,Mike Tobey,2015
+5,72,5,2014-11-25,Virginia,,Tennessee State,REG (Non-Conf),W 79-36,,18,5,9,0.556,0,0,,5,9,0.556,0.556,3,3,1.0,4,12,16,1,0,0,0,1,13,15.4,H,1,1,mike-tobey-1,Mike Tobey,2015
+6,73,6,2014-11-28,Virginia,N,La Salle,REG (Non-Conf),W 64-56,,13,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,2,2,4,0,1,1,1,4,7,5.0,N,1,1,mike-tobey-1,Mike Tobey,2015
+7,74,7,2014-11-29,Virginia,N,Rutgers,REG (Non-Conf),W 45-26,,21,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,3,4,7,0,2,0,0,1,2,3.1,N,1,1,mike-tobey-1,Mike Tobey,2015
+8,75,8,2014-12-03,Virginia,@,Maryland,REG (Non-Conf),W 76-65,,22,4,7,0.571,0,0,,4,7,0.571,0.571,6,7,0.857,2,4,6,0,1,2,0,3,14,14.1,A,1,1,mike-tobey-1,Mike Tobey,2015
+9,76,9,2014-12-06,Virginia,@,VCU,REG (Non-Conf),W 74-57,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,4,4,8,1,0,0,2,2,8,7.3,A,1,1,mike-tobey-1,Mike Tobey,2015
+10,77,10,2014-12-18,Virginia,,Cleveland State,REG (Non-Conf),W 70-54,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,2,3,1,0,1,0,4,6,6.5,H,1,1,mike-tobey-1,Mike Tobey,2015
+11,78,11,2014-12-21,Virginia,,Harvard,REG (Non-Conf),W 76-27,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,3,3,1.0,1,9,10,1,0,2,1,1,15,16.6,H,1,1,mike-tobey-1,Mike Tobey,2015
+12,79,12,2014-12-30,Virginia,,Davidson,REG (Non-Conf),W 83-72,*,17,1,6,0.167,0,0,,1,6,0.167,0.167,2,2,1.0,4,3,7,0,0,0,0,1,4,3.5,H,1,1,mike-tobey-1,Mike Tobey,2015
+13,80,13,2015-01-03,Virginia,@,Miami (FL),REG (Conf),W 89-80 (2OT),*,33,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,2,4,6,0,0,1,0,2,14,12.6,A,1,1,mike-tobey-1,Mike Tobey,2015
+14,81,14,2015-01-07,Virginia,,NC State,REG (Conf),W 61-51,,24,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,3,2,5,0,0,1,0,1,11,10.3,H,1,1,mike-tobey-1,Mike Tobey,2015
+15,82,15,2015-01-10,Virginia,@,Notre Dame,REG (Conf),W 62-56,,16,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,2,5,7,0,0,1,0,0,8,8.3,A,1,1,mike-tobey-1,Mike Tobey,2015
+16,83,16,2015-01-13,Virginia,,Clemson,REG (Conf),W 65-42,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,1,0,2,0,3,4,3.6,H,1,1,mike-tobey-1,Mike Tobey,2015
+17,84,17,2015-01-17,Virginia,@,Boston College,REG (Conf),W 66-51,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,2,3,0,-2.5,A,1,1,mike-tobey-1,Mike Tobey,2015
+18,85,18,2015-01-22,Virginia,,Georgia Tech,REG (Conf),W 57-28,*,21,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,1,1,1,1,1,0,1,2,1.2,H,1,1,mike-tobey-1,Mike Tobey,2015
+19,86,19,2015-01-25,Virginia,@,Virginia Tech,REG (Conf),W 50-47,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,0,2,0,0,0,3,1,4,0.0,A,1,1,mike-tobey-1,Mike Tobey,2015
+20,87,20,2015-01-31,Virginia,,Duke,REG (Conf),L 63-69,,18,3,10,0.3,0,0,,3,10,0.3,0.3,2,3,0.667,4,1,5,0,1,0,0,1,8,5.5,H,0,1,mike-tobey-1,Mike Tobey,2015
+21,88,21,2015-02-02,Virginia,@,North Carolina,REG (Conf),W 75-64,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,2,1,3,0,0,2,2,2,8,4.9,A,1,1,mike-tobey-1,Mike Tobey,2015
+22,89,22,2015-02-07,Virginia,,Louisville,REG (Conf),W 52-47,*,13,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,2,2,4,0,0,0,0,4,9,7.8,H,1,1,mike-tobey-1,Mike Tobey,2015
+23,90,23,2015-02-11,Virginia,@,NC State,REG (Conf),W 51-47,*,29,4,10,0.4,0,0,,4,10,0.4,0.4,3,4,0.75,3,6,9,0,1,1,2,1,11,8.4,A,1,1,mike-tobey-1,Mike Tobey,2015
+24,91,24,2015-02-14,Virginia,,Wake Forest,REG (Conf),W 61-60,,14,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,1,2,0,0,0,0,2,8,6.6,H,1,1,mike-tobey-1,Mike Tobey,2015
+25,92,25,2015-02-16,Virginia,,Pittsburgh,REG (Conf),W 61-49,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,2,2,0,0,0,2,3,4,-0.6,H,1,1,mike-tobey-1,Mike Tobey,2015
+26,93,26,2015-02-22,Virginia,,Florida State,REG (Conf),W 51-41,,13,0,3,0.0,0,0,,0,3,0.0,0.0,3,4,0.75,1,4,5,1,0,0,0,0,3,3.1,H,1,1,mike-tobey-1,Mike Tobey,2015
+27,94,27,2015-02-25,Virginia,@,Wake Forest,REG (Conf),W 70-34,,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,1,3,4,1,1,1,2,2,7,5.9,A,1,1,mike-tobey-1,Mike Tobey,2015
+28,95,28,2015-02-28,Virginia,,Virginia Tech,REG (Conf),W 69-57,,4,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,0,2,0,0,1,1,2,0,-1.8,H,1,1,mike-tobey-1,Mike Tobey,2015
+29,96,29,2015-03-02,Virginia,@,Syracuse,REG (Conf),W 59-47,,16,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,4,4,8,0,0,0,1,1,10,9.3,A,1,1,mike-tobey-1,Mike Tobey,2015
+30,97,30,2015-03-07,Virginia,@,Louisville,REG (Conf),L 57-59,,23,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,5,6,1,0,0,1,0,5,5.2,A,0,1,mike-tobey-1,Mike Tobey,2015
+31,98,31,2015-03-12,Virginia,N,Florida State,CTOURN,W 58-44,,21,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,1,5,6,0,0,0,1,3,11,8.4,N,1,0,mike-tobey-1,Mike Tobey,2015
+32,99,32,2015-03-13,Virginia,N,North Carolina,CTOURN,L 67-71,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,1,4,0,-3.1,N,0,0,mike-tobey-1,Mike Tobey,2015
+33,100,33,2015-03-20,Virginia,N,Belmont,ROUND-64,W 79-67,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,0,0,2,2.0,N,1,0,mike-tobey-1,Mike Tobey,2015
+34,101,34,2015-03-22,Virginia,N,Michigan State,ROUND-32,L 54-60,,12,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,3,1,4,0,0,0,0,1,3,3.3,N,0,0,mike-tobey-1,Mike Tobey,2015

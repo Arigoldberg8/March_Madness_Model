@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2020-11-29,UC Santa Barbara,,St. Katherine,REG (Non-Conf),W 92-55,*,22,5,12,0.417,2,5,0.4,3,7,0.429,0.5,0,0,,1,5,6,1,0,0,0,0,12,8.5,H,1,1,miles-norris-1,Miles Norris,2021
+2,29,2,2020-12-03,UC Santa Barbara,,Bethesda CA,REG (Non-Conf),W 123-52,*,15,6,7,0.857,1,2,0.5,5,5,1.0,0.929,0,0,,2,6,8,2,2,2,2,2,13,15.7,H,1,1,miles-norris-1,Miles Norris,2021
+3,30,3,2020-12-07,UC Santa Barbara,,Loyola Marymount,REG (Non-Conf),W 69-58,*,33,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,1,5,6,4,2,4,1,3,10,15.7,H,1,1,miles-norris-1,Miles Norris,2021
+4,31,4,2020-12-12,UC Santa Barbara,@,Loyola Marymount,REG (Non-Conf),L 76-81,*,32,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,0,6,6,1,3,1,0,5,8,8.8,A,0,1,miles-norris-1,Miles Norris,2021
+5,32,5,2020-12-19,UC Santa Barbara,@,Pepperdine,REG (Non-Conf),W 75-63,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,5,5,3,0,0,1,3,4,2.7,A,1,1,miles-norris-1,Miles Norris,2021
+6,33,6,2020-12-27,UC Santa Barbara,@,UC Irvine,REG (Conf),L 56-75,*,27,2,8,0.25,1,6,0.167,1,2,0.5,0.313,1,2,0.5,0,4,4,1,0,0,1,1,6,1.3,A,0,1,miles-norris-1,Miles Norris,2021
+7,34,7,2020-12-28,UC Santa Barbara,@,UC Irvine,REG (Conf),L 69-73,,35,7,13,0.538,2,6,0.333,5,7,0.714,0.615,0,0,,0,3,3,0,1,0,0,0,16,11.6,A,0,1,miles-norris-1,Miles Norris,2021
+8,35,8,2021-01-01,UC Santa Barbara,,Cal State Fullerton,REG (Conf),W 81-63,*,26,6,9,0.667,1,2,0.5,5,7,0.714,0.722,0,1,0.0,1,2,3,3,1,3,2,1,13,12.8,H,1,1,miles-norris-1,Miles Norris,2021
+9,36,9,2021-01-02,UC Santa Barbara,,Cal State Fullerton,REG (Conf),W 65-61,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,1,3,4,2,1,0,1,0,7,6.6,H,1,1,miles-norris-1,Miles Norris,2021
+10,37,10,2021-01-15,UC Santa Barbara,,UC San Diego,REG (Conf),W 69-52,*,22,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,1,7,8,2,1,0,2,1,4,2.0,H,1,1,miles-norris-1,Miles Norris,2021
+11,38,11,2021-01-16,UC Santa Barbara,,UC San Diego,REG (Conf),W 84-53,*,20,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,0,2,2,1,0,0,0,2,10,5.8,H,1,1,miles-norris-1,Miles Norris,2021
+12,39,12,2021-01-22,UC Santa Barbara,@,Cal State Northridge,REG (Conf),W 105-58,*,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,1,0,0,0,0,7,5.3,A,1,1,miles-norris-1,Miles Norris,2021
+13,40,13,2021-01-23,UC Santa Barbara,@,Cal State Northridge,REG (Conf),W 80-66,*,28,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,1,2,3,3,0,0,0,1,9,7.3,A,1,1,miles-norris-1,Miles Norris,2021
+14,41,14,2021-01-29,UC Santa Barbara,@,UC Davis,REG (Conf),W 72-51,*,23,4,12,0.333,1,5,0.2,3,7,0.429,0.375,1,2,0.5,2,5,7,2,1,1,1,2,10,7.0,A,1,1,miles-norris-1,Miles Norris,2021
+15,42,15,2021-01-30,UC Santa Barbara,@,UC Davis,REG (Conf),W 89-86 (OT),*,17,5,7,0.714,3,4,0.75,2,3,0.667,0.929,4,4,1.0,0,0,0,0,0,0,2,3,17,10.9,A,1,1,miles-norris-1,Miles Norris,2021
+16,43,16,2021-02-12,UC Santa Barbara,@,Hawaii,REG (Conf),W 59-50,*,28,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,6,7,2,1,3,0,3,2,4.0,A,1,1,miles-norris-1,Miles Norris,2021
+17,44,17,2021-02-13,UC Santa Barbara,@,Hawaii,REG (Conf),W 81-74 (OT),*,29,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,0,4,4,1,0,1,2,4,11,7.0,A,1,1,miles-norris-1,Miles Norris,2021
+18,45,18,2021-02-19,UC Santa Barbara,,Cal State Bakersfield,REG (Conf),W 71-66,*,25,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,1,2,3,2,1,2,0,0,7,7.7,H,1,1,miles-norris-1,Miles Norris,2021
+19,46,19,2021-02-20,UC Santa Barbara,,Cal State Bakersfield,REG (Conf),W 63-44,*,23,9,11,0.818,4,5,0.8,5,6,0.833,1.0,5,6,0.833,0,1,1,1,1,1,1,1,27,23.8,H,1,1,miles-norris-1,Miles Norris,2021
+20,47,20,2021-02-26,UC Santa Barbara,@,UC Riverside,REG (Conf),W 72-68,*,31,4,10,0.4,3,7,0.429,1,3,0.333,0.55,0,0,,2,4,6,2,0,2,2,1,11,8.6,A,1,1,miles-norris-1,Miles Norris,2021
+21,48,21,2021-02-27,UC Santa Barbara,@,UC Riverside,REG (Conf),L 52-68,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,5,5,1,0,0,1,2,3,1.3,A,0,1,miles-norris-1,Miles Norris,2021
+22,49,22,2021-03-05,UC Santa Barbara,,Cal Poly,REG (Conf),W 71-57,*,27,4,6,0.667,0,2,0.0,4,4,1.0,0.667,3,3,1.0,0,7,7,5,1,1,3,2,11,11.9,H,1,1,miles-norris-1,Miles Norris,2021
+23,50,23,2021-03-06,UC Santa Barbara,,Cal Poly,REG (Conf),W 70-54,,22,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,4,2,6,4,0,1,1,1,2,4.4,H,1,1,miles-norris-1,Miles Norris,2021
+24,51,24,2021-03-11,UC Santa Barbara,N,Long Beach State,CTOURN,W 95-87,*,20,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,2,2,4,1,1,0,1,2,6,4.5,N,1,0,miles-norris-1,Miles Norris,2021
+25,52,25,2021-03-12,UC Santa Barbara,N,UC Davis,CTOURN,W 71-55,*,25,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,4,4,0,1,1,0,0,5,4.5,N,1,0,miles-norris-1,Miles Norris,2021
+26,53,26,2021-03-13,UC Santa Barbara,N,UC Irvine,CTOURN,W 79-63,*,30,8,14,0.571,3,7,0.429,5,7,0.714,0.679,0,1,0.0,0,3,3,2,1,0,0,1,19,14.9,N,1,0,miles-norris-1,Miles Norris,2021
+27,54,27,2021-03-20,UC Santa Barbara,N,Creighton,ROUND-64,L 62-63,*,33,3,9,0.333,1,4,0.25,2,5,0.4,0.389,6,6,1.0,0,6,6,1,1,1,0,1,13,11.7,N,0,0,miles-norris-1,Miles Norris,2021

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-06,Arkansas,,Lipscomb,REG (Non-Conf),W 76-60,,11,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,1,2,0,1,0,0,1,5,4.6,H,1,1,karter-knox-1,Karter Knox,2025
+2,2,2,2024-11-09,Arkansas,N,Baylor,REG (Non-Conf),L 67-72,,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,3,4,1,0,0,1,2,0,-1.6,N,0,1,karter-knox-1,Karter Knox,2025
+3,3,3,2024-11-13,Arkansas,,Troy,REG (Non-Conf),W 65-49,,16,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,2,0,2,0,1,0,1,2,0,-2.9,H,1,1,karter-knox-1,Karter Knox,2025
+4,4,4,2024-11-18,Arkansas,,Pacific,REG (Non-Conf),W 91-72,,22,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,3,3,2,0,0,0,3,2,1.7,H,1,1,karter-knox-1,Karter Knox,2025
+5,5,5,2024-11-22,Arkansas,,Little Rock,REG (Non-Conf),W 79-67,,18,2,11,0.182,0,6,0.0,2,5,0.4,0.182,2,4,0.5,0,4,4,1,0,0,2,2,6,-2.6,H,1,1,karter-knox-1,Karter Knox,2025
+6,6,6,2024-11-25,Arkansas,,Maryland Eastern Shore,REG (Non-Conf),W 109-35,,24,8,14,0.571,3,8,0.375,5,6,0.833,0.679,2,2,1.0,1,5,6,1,0,1,0,2,21,17.2,H,1,1,karter-knox-1,Karter Knox,2025
+7,7,7,2024-11-28,Arkansas,N,Illinois,REG (Non-Conf),L 77-90,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,N,0,1,karter-knox-1,Karter Knox,2025
+8,8,8,2024-12-03,Arkansas,@,Miami (FL),REG (Non-Conf),W 76-73,,8,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,0,0,0,1,1,2,-0.4,A,1,1,karter-knox-1,Karter Knox,2025
+9,9,9,2024-12-07,Arkansas,,UTSA,REG (Non-Conf),W 75-60,,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,3,0.667,0,2,2,0,1,0,1,0,7,5.2,H,1,1,karter-knox-1,Karter Knox,2025
+10,10,10,2024-12-10,Arkansas,N,Michigan,REG (Non-Conf),W 89-87,,13,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,1,0.0,0,3,3,0,0,0,0,1,5,4.5,N,1,1,karter-knox-1,Karter Knox,2025
+11,11,11,2024-12-14,Arkansas,,Central Arkansas,REG (Non-Conf),W 82-57,,22,5,8,0.625,1,2,0.5,4,6,0.667,0.688,3,3,1.0,1,3,4,3,0,0,2,1,14,11.7,H,1,1,karter-knox-1,Karter Knox,2025
+12,12,12,2024-12-21,Arkansas,,North Carolina A&T,REG (Non-Conf),W 95-67,*,22,3,9,0.333,1,5,0.2,2,4,0.5,0.389,4,4,1.0,0,4,4,2,0,1,0,2,11,8.4,H,1,1,karter-knox-1,Karter Knox,2025
+13,13,13,2024-12-30,Arkansas,,Oakland,REG (Non-Conf),W 92-62,*,28,6,8,0.75,3,5,0.6,3,3,1.0,0.938,2,2,1.0,0,3,3,2,1,0,1,1,17,15.7,H,1,1,karter-knox-1,Karter Knox,2025
+14,14,14,2025-01-04,Arkansas,@,Tennessee,REG (Conf),L 52-76,*,17,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,0,0,1,2,2,6,1.9,A,0,1,karter-knox-1,Karter Knox,2025
+15,15,15,2025-01-08,Arkansas,,Ole Miss,REG (Conf),L 66-73,*,18,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,1,1,1,0,1,1,2,4,2.5,H,0,1,karter-knox-1,Karter Knox,2025
+16,16,16,2025-01-11,Arkansas,,Florida,REG (Conf),L 63-71,*,18,1,7,0.143,0,2,0.0,1,5,0.2,0.143,2,2,1.0,2,2,4,1,0,1,0,3,4,1.7,H,0,1,karter-knox-1,Karter Knox,2025
+17,17,17,2025-01-14,Arkansas,@,Louisiana State,REG (Conf),L 74-78,*,11,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,3,4,0,1,0,1,0,2,-0.2,A,0,1,karter-knox-1,Karter Knox,2025
+18,18,18,2025-01-18,Arkansas,@,Missouri,REG (Conf),L 65-83,,20,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,1,1,2,1,1,0,0,2,7,5.2,A,0,1,karter-knox-1,Karter Knox,2025
+19,19,19,2025-01-22,Arkansas,,Georgia,REG (Conf),W 68-65,*,34,1,5,0.2,0,3,0.0,1,2,0.5,0.2,11,13,0.846,2,4,6,0,1,0,1,3,13,10.5,H,1,1,karter-knox-1,Karter Knox,2025
+20,20,20,2025-01-25,Arkansas,,Oklahoma,REG (Conf),L 62-65,*,35,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,4,4,1,0,1,0,1,8,6.5,H,0,1,karter-knox-1,Karter Knox,2025
+21,21,21,2025-02-01,Arkansas,@,Kentucky,REG (Conf),W 89-79,*,34,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,1,3,4,1,2,0,0,3,10,9.8,A,1,1,karter-knox-1,Karter Knox,2025
+22,22,22,2025-02-05,Arkansas,@,Texas,REG (Conf),W 78-70,*,36,1,2,0.5,1,1,1.0,0,1,0.0,0.75,6,6,1.0,1,3,4,2,2,1,2,4,9,10.1,A,1,1,karter-knox-1,Karter Knox,2025
+23,23,23,2025-02-08,Arkansas,,Alabama,REG (Conf),L 81-85,*,30,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,2,1,3,1,0,0,1,2,0,-2.2,H,0,1,karter-knox-1,Karter Knox,2025
+24,24,24,2025-02-12,Arkansas,,Louisiana State,REG (Conf),W 70-58,*,34,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,2,0.0,1,7,8,0,1,1,2,0,9,8.8,H,1,1,karter-knox-1,Karter Knox,2025
+25,25,25,2025-02-15,Arkansas,@,Texas A&M,REG (Conf),L 61-69,*,35,7,9,0.778,3,4,0.75,4,5,0.8,0.944,0,0,,1,4,5,0,1,1,1,2,17,15.3,A,0,1,karter-knox-1,Karter Knox,2025
+26,26,26,2025-02-19,Arkansas,@,Auburn,REG (Conf),L 60-67,*,29,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,2,0.0,0,4,4,0,2,1,2,1,11,9.5,A,0,1,karter-knox-1,Karter Knox,2025
+27,27,27,2025-02-22,Arkansas,,Missouri,REG (Conf),W 92-85,*,36,5,7,0.714,1,3,0.333,4,4,1.0,0.786,3,4,0.75,0,2,2,0,1,0,2,4,14,8.7,H,1,1,karter-knox-1,Karter Knox,2025
+28,28,28,2025-02-26,Arkansas,,Texas,REG (Conf),W 86-81 (OT),*,41,3,6,0.5,1,2,0.5,2,4,0.5,0.583,5,6,0.833,0,2,2,2,0,0,1,2,12,8.8,H,1,1,karter-knox-1,Karter Knox,2025
+29,29,29,2025-03-01,Arkansas,@,South Carolina,REG (Conf),L 53-72,*,35,2,6,0.333,1,3,0.333,1,3,0.333,0.417,6,6,1.0,0,0,0,5,2,0,1,2,11,11.3,A,0,1,karter-knox-1,Karter Knox,2025
+30,30,30,2025-03-04,Arkansas,@,Vanderbilt,REG (Conf),W 90-77,*,27,4,9,0.444,0,3,0.0,4,6,0.667,0.444,2,2,1.0,2,3,5,2,1,2,1,4,10,8.8,A,1,1,karter-knox-1,Karter Knox,2025
+31,31,31,2025-03-08,Arkansas,,Mississippi State,REG (Conf),W 93-92,*,23,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,1,2,3,1,0,0,1,3,6,2.1,H,1,1,karter-knox-1,Karter Knox,2025
+32,32,32,2025-03-12,Arkansas,N,South Carolina,CTOURN,W 72-68,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,0,1,1,2,-0.8,N,1,0,karter-knox-1,Karter Knox,2025
+33,33,33,2025-03-13,Arkansas,N,Ole Miss,CTOURN,L 80-83,*,27,3,9,0.333,3,7,0.429,0,2,0.0,0.5,5,6,0.833,0,3,3,4,1,1,3,3,14,9.7,N,0,0,karter-knox-1,Karter Knox,2025
+34,34,34,2025-03-20,Arkansas,N,Kansas,ROUND-64,W 79-72,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,0,3,3,1,0,0,3,3,6,1.7,N,1,0,karter-knox-1,Karter Knox,2025
+35,35,35,2025-03-22,Arkansas,N,St. John's (NY),ROUND-32,W 75-66,*,27,3,5,0.6,0,2,0.0,3,3,1.0,0.6,9,11,0.818,1,5,6,1,1,4,3,1,15,15.2,N,1,0,karter-knox-1,Karter Knox,2025
+36,36,36,2025-03-27,Arkansas,N,Texas Tech,ROUND-16,L 83-85 (OT),*,36,6,8,0.75,4,4,1.0,2,4,0.5,1.0,4,5,0.8,1,5,6,0,0,0,2,1,20,16.2,N,0,0,karter-knox-1,Karter Knox,2025

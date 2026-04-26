@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2015-11-13,Indiana,,Eastern Illinois,REG (Non-Conf),W 88-49,,22,4,8,0.5,4,6,0.667,0,2,0.0,0.75,0,0,,1,1,2,3,0,0,3,1,12,7.7,H,1,1,robert-johnson-5,Robert Johnson,2016
+2,36,2,2015-11-16,Indiana,,Austin Peay,REG (Non-Conf),W 102-76,,17,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,4,4,5,1,0,3,3,7,6.2,H,1,1,robert-johnson-5,Robert Johnson,2016
+3,37,3,2015-11-19,Indiana,,Creighton,REG (Non-Conf),W 86-65,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,2,0,0,2,4,2,-0.9,H,1,1,robert-johnson-5,Robert Johnson,2016
+4,38,4,2015-11-23,Indiana,N,Wake Forest,REG (Non-Conf),L 78-82,,25,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,0,2,2,3,0,0,0,2,14,10.9,N,0,1,robert-johnson-5,Robert Johnson,2016
+5,39,5,2015-11-24,Indiana,N,St. John's (NY),REG (Non-Conf),W 83-73,*,28,2,6,0.333,2,4,0.5,0,2,0.0,0.5,1,5,0.2,1,1,2,4,0,0,1,1,7,4.4,N,1,1,robert-johnson-5,Robert Johnson,2016
+6,40,6,2015-11-25,Indiana,N,UNLV,REG (Non-Conf),L 69-72,,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,2,0,0,2,1,0,-1.8,N,0,1,robert-johnson-5,Robert Johnson,2016
+7,41,7,2015-11-30,Indiana,,Alcorn State,REG (Non-Conf),W 112-70,*,22,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,0,3,3,6,3,0,1,2,12,15.4,H,1,1,robert-johnson-5,Robert Johnson,2016
+8,42,8,2015-12-02,Indiana,@,Duke,REG (Non-Conf),L 74-94,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,2,4,6,2,0,0,2,2,8,6.9,A,0,1,robert-johnson-5,Robert Johnson,2016
+9,43,9,2015-12-05,Indiana,,Morehead State,REG (Non-Conf),W 92-59,*,26,2,6,0.333,1,2,0.5,1,4,0.25,0.417,3,4,0.75,0,4,4,2,0,0,2,2,8,4.0,H,1,1,robert-johnson-5,Robert Johnson,2016
+10,44,10,2015-12-09,Indiana,,IPFW,REG (Non-Conf),W 90-65,*,22,5,6,0.833,5,5,1.0,0,1,0.0,1.25,1,2,0.5,1,1,2,2,1,0,2,3,16,13.6,H,1,1,robert-johnson-5,Robert Johnson,2016
+11,45,11,2015-12-12,Indiana,,McNeese State,REG (Non-Conf),W 105-60,*,23,2,5,0.4,2,5,0.4,0,0,,0.6,1,2,0.5,0,2,2,4,0,0,0,4,7,5.7,H,1,1,robert-johnson-5,Robert Johnson,2016
+12,46,12,2015-12-19,Indiana,N,Notre Dame,REG (Non-Conf),W 80-73,*,32,6,9,0.667,3,5,0.6,3,4,0.75,0.833,2,4,0.5,1,2,3,3,0,2,0,1,17,16.7,N,1,1,robert-johnson-5,Robert Johnson,2016
+13,47,13,2015-12-22,Indiana,,Kennesaw State,REG (Non-Conf),W 99-72,*,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,0,1,1,1,1,0,1,0,5,4.7,H,1,1,robert-johnson-5,Robert Johnson,2016
+14,48,14,2015-12-30,Indiana,@,Rutgers,REG (Conf),W 79-72,*,26,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,0,1,1,4,1,0,5,1,0,-5.5,A,1,1,robert-johnson-5,Robert Johnson,2016
+15,49,15,2016-01-02,Indiana,@,Nebraska,REG (Conf),W 79-69,*,24,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,2,0.0,0,4,4,4,0,0,3,2,3,0.0,A,1,1,robert-johnson-5,Robert Johnson,2016
+16,50,16,2016-01-05,Indiana,,Wisconsin,REG (Conf),W 59-58,*,29,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,3,2,0,5,1,3,-0.4,H,1,1,robert-johnson-5,Robert Johnson,2016
+17,51,17,2016-01-10,Indiana,,Ohio State,REG (Conf),W 85-60,*,33,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,5,6,6,1,0,1,2,11,11.9,H,1,1,robert-johnson-5,Robert Johnson,2016
+18,52,18,2016-01-16,Indiana,@,Minnesota,REG (Conf),W 70-63,*,21,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,1,3,4,3,1,0,3,4,2,-0.7,A,1,1,robert-johnson-5,Robert Johnson,2016
+19,53,19,2016-01-19,Indiana,,Illinois,REG (Conf),W 103-69,*,25,5,12,0.417,3,9,0.333,2,3,0.667,0.542,0,0,,0,7,7,6,1,0,2,3,13,10.7,H,1,1,robert-johnson-5,Robert Johnson,2016
+20,54,20,2016-01-23,Indiana,,Northwestern,REG (Conf),W 89-57,*,30,3,9,0.333,3,5,0.6,0,4,0.0,0.5,0,0,,1,5,6,3,2,0,0,2,9,9.4,H,1,1,robert-johnson-5,Robert Johnson,2016
+21,55,21,2016-01-26,Indiana,@,Wisconsin,REG (Conf),L 79-82 (OT),*,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,0,4,4,3,2,0,2,2,5,3.7,A,0,1,robert-johnson-5,Robert Johnson,2016
+22,56,22,2016-01-30,Indiana,,Minnesota,REG (Conf),W 74-68,*,28,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,8,8,1,0,1,1,0,3,2.0,H,1,1,robert-johnson-5,Robert Johnson,2016
+23,57,23,2016-02-02,Indiana,@,Michigan,REG (Conf),W 80-67,*,29,7,13,0.538,2,6,0.333,5,7,0.714,0.615,0,0,,1,5,6,0,1,0,2,1,16,10.5,A,1,1,robert-johnson-5,Robert Johnson,2016
+24,58,24,2016-02-06,Indiana,@,Penn State,REG (Conf),L 63-68,*,33,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,2,0.5,1,6,7,5,2,0,2,2,6,8.1,A,0,1,robert-johnson-5,Robert Johnson,2016
+25,59,25,2016-02-11,Indiana,,Iowa,REG (Conf),W 85-78,*,32,4,6,0.667,3,5,0.6,1,1,1.0,0.917,2,2,1.0,1,3,4,2,0,0,2,1,13,11.0,H,1,1,robert-johnson-5,Robert Johnson,2016
+26,60,26,2016-02-14,Indiana,@,Michigan State,REG (Conf),L 69-88,*,29,3,10,0.3,3,8,0.375,0,2,0.0,0.45,2,2,1.0,0,1,1,5,0,1,1,1,11,8.3,A,0,1,robert-johnson-5,Robert Johnson,2016
+27,61,27,2016-02-17,Indiana,,Nebraska,REG (Conf),W 80-64,*,31,4,9,0.444,2,5,0.4,2,4,0.5,0.556,3,3,1.0,0,3,3,3,0,0,1,1,13,9.9,H,1,1,robert-johnson-5,Robert Johnson,2016
+28,62,28,2016-02-20,Indiana,,Purdue,REG (Conf),W 77-73,*,27,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,1,0,0,1,2,6,4.5,H,1,1,robert-johnson-5,Robert Johnson,2016
+29,63,33,2016-03-17,Indiana,N,Chattanooga,ROUND-64,W 99-74,,24,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,1,1,6,0,1,0,1,7,10.9,N,1,0,robert-johnson-5,Robert Johnson,2016
+30,64,34,2016-03-19,Indiana,N,Kentucky,ROUND-32,W 73-67,,10,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,1,1,6,2.6,N,1,0,robert-johnson-5,Robert Johnson,2016

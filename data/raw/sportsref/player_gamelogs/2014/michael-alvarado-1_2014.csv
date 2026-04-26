@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,86,1,2013-11-09,Manhattan,@,La Salle,REG (Non-Conf),W 99-90 (2OT),*,39,5,8,0.625,1,2,0.5,4,6,0.667,0.688,5,6,0.833,2,6,8,6,1,0,3,2,16,16.6,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+2,87,2,2013-11-12,Manhattan,@,Columbia,REG (Non-Conf),W 71-70,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,3,11,0.273,0,2,2,4,0,0,2,4,9,4.0,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+3,88,3,2013-11-16,Manhattan,,George Washington,REG (Non-Conf),L 74-80,*,29,3,9,0.333,1,6,0.167,2,3,0.667,0.389,1,2,0.5,0,3,3,5,1,0,2,0,8,5.9,H,0,1,michael-alvarado-1,Michael Alvarado,2014
+4,89,4,2013-11-20,Manhattan,@,Illinois State,REG (Non-Conf),W 79-70,*,20,2,7,0.286,0,1,0.0,2,6,0.333,0.286,7,8,0.875,0,5,5,1,1,0,6,3,11,2.5,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+5,90,5,2013-11-26,Manhattan,,Fordham,REG (Non-Conf),L 75-79,*,19,2,10,0.2,0,2,0.0,2,8,0.25,0.2,0,0,,0,3,3,3,1,0,1,4,4,-0.8,H,0,1,michael-alvarado-1,Michael Alvarado,2014
+6,91,6,2013-11-30,Manhattan,@,Hofstra,REG (Non-Conf),W 66-59,*,30,8,13,0.615,0,0,,8,13,0.615,0.615,7,9,0.778,1,3,4,6,2,0,2,2,23,21.3,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+7,92,7,2013-12-06,Manhattan,@,Marist,REG (Conf),W 70-59,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,10,12,0.833,0,4,4,4,2,0,6,1,18,12.8,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+8,93,8,2013-12-08,Manhattan,,Monmouth,REG (Conf),W 75-66,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,0,5,5,4,2,0,2,3,4,5.3,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+9,94,9,2013-12-15,Manhattan,@,UNC Wilmington,REG (Non-Conf),W 77-72,*,19,1,2,0.5,1,1,1.0,0,1,0.0,0.75,3,4,0.75,0,1,1,2,1,0,0,4,6,5.7,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+10,95,10,2013-12-17,Manhattan,@,South Carolina,REG (Non-Conf),W 86-68,*,30,4,8,0.5,2,2,1.0,2,6,0.333,0.625,10,11,0.909,1,2,3,6,1,0,2,2,20,19.3,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+11,96,11,2013-12-21,Manhattan,N,Buffalo,REG (Non-Conf),W 84-81 (OT),*,4,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,1,1,0,1,0,0,0,2,1.9,N,1,1,michael-alvarado-1,Michael Alvarado,2014
+12,97,12,2014-01-02,Manhattan,@,Saint Peter's,REG (Conf),W 74-62,*,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,9,12,0.75,0,1,1,2,1,0,3,2,13,9.4,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+13,98,13,2014-01-04,Manhattan,,Fairfield,REG (Conf),W 83-57,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,6,6,1.0,0,2,2,6,4,0,3,4,8,11.2,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+14,99,14,2014-01-09,Manhattan,@,Quinnipiac,REG (Conf),L 76-81,*,35,8,20,0.4,0,2,0.0,8,18,0.444,0.4,7,17,0.412,3,7,10,3,1,0,1,2,23,13.7,A,0,1,michael-alvarado-1,Michael Alvarado,2014
+15,100,15,2014-01-12,Manhattan,,Marist,REG (Conf),W 86-79 (OT),*,34,13,17,0.765,0,0,,13,17,0.765,0.765,7,13,0.538,0,2,2,4,1,1,0,1,33,28.6,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+16,101,16,2014-01-16,Manhattan,,Siena,REG (Conf),W 90-68,*,31,6,12,0.5,0,1,0.0,6,11,0.545,0.5,9,12,0.75,0,1,1,5,7,0,1,1,21,23.2,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+17,102,17,2014-01-18,Manhattan,@,Fairfield,REG (Conf),L 67-71,*,27,6,16,0.375,0,2,0.0,6,14,0.429,0.375,10,15,0.667,1,0,1,3,2,0,2,4,22,12.4,A,0,1,michael-alvarado-1,Michael Alvarado,2014
+18,103,18,2014-01-24,Manhattan,,Rider,REG (Conf),W 67-51,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,6,8,0.75,0,2,2,7,1,0,3,1,12,9.2,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+19,104,19,2014-01-26,Manhattan,,Quinnipiac,REG (Conf),L 86-90 (OT),*,39,6,12,0.5,0,3,0.0,6,9,0.667,0.5,3,6,0.5,1,1,2,7,1,1,2,4,15,11.8,H,0,1,michael-alvarado-1,Michael Alvarado,2014
+20,105,20,2014-01-31,Manhattan,@,Iona,REG (Conf),L 73-85,*,30,5,18,0.278,1,2,0.5,4,16,0.25,0.306,0,0,,2,1,3,6,0,1,2,1,11,4.6,A,0,1,michael-alvarado-1,Michael Alvarado,2014
+21,106,21,2014-02-04,Manhattan,,Saint Peter's,REG (Conf),W 64-49,*,25,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,2,0.0,0,2,2,6,3,0,2,2,9,10.6,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+22,107,22,2014-02-07,Manhattan,@,Canisius,REG (Conf),W 84-73,*,27,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,4,0.5,1,2,3,5,2,0,4,3,11,9.2,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+23,108,23,2014-02-09,Manhattan,@,Niagara,REG (Conf),W 78-77,*,24,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,0,0,2,1,0,4,3,3,-2.6,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+24,109,24,2014-02-13,Manhattan,@,Rider,REG (Conf),W 86-69,*,30,6,13,0.462,2,4,0.5,4,9,0.444,0.538,4,7,0.571,0,4,4,5,1,0,6,1,18,9.4,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+25,110,25,2014-02-16,Manhattan,,Niagara,REG (Conf),W 90-72,*,26,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,3,0.333,0,2,2,5,0,0,1,1,8,6.2,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+26,111,26,2014-02-19,Manhattan,@,Monmouth,REG (Conf),W 75-61,*,30,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,2,0.0,2,3,5,8,0,1,2,3,6,7.6,A,1,1,michael-alvarado-1,Michael Alvarado,2014
+27,112,27,2014-02-21,Manhattan,@,Siena,REG (Conf),L 63-67,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,5,8,0.625,2,3,5,2,3,0,3,4,9,6.5,A,0,1,michael-alvarado-1,Michael Alvarado,2014
+28,113,28,2014-02-28,Manhattan,,Iona,REG (Conf),W 80-77 (OT),*,6,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,1,0,0,0,3,3.0,H,1,1,michael-alvarado-1,Michael Alvarado,2014
+29,114,30,2014-03-08,Manhattan,N,Saint Peter's,CTOURN,W 72-58,*,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,13,16,0.813,0,0,0,1,0,0,3,3,17,9.6,N,1,0,michael-alvarado-1,Michael Alvarado,2014
+30,115,31,2014-03-09,Manhattan,N,Quinnipiac,CTOURN,W 87-68,*,23,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,0,3,3,4,1,0,1,3,7,5.8,N,1,0,michael-alvarado-1,Michael Alvarado,2014
+31,116,32,2014-03-10,Manhattan,N,Iona,CTOURN,W 71-68,*,14,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,1,0,0,1,0,2,-2.1,N,1,0,michael-alvarado-1,Michael Alvarado,2014
+32,117,33,2014-03-20,Manhattan,N,Louisville,ROUND-64,L 64-71,*,28,4,10,0.4,2,2,1.0,2,8,0.25,0.5,0,0,,0,2,2,3,0,0,6,2,10,0.5,N,0,0,michael-alvarado-1,Michael Alvarado,2014

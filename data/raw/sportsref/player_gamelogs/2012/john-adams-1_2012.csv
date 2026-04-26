@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2011-11-09,Lehigh,@,St. John's (NY),REG (Non-Conf),L 73-78,,7,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,2,1.0,3,1,4,0,1,0,4,2,6,1.2,A,0,1,john-adams-1,John Adams,2012
+2,67,2,2011-11-12,Lehigh,@,Iowa State,REG (Non-Conf),L 77-86,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,1,1,0,-2.2,A,0,1,john-adams-1,John Adams,2012
+3,68,3,2011-11-15,Lehigh,@,Fairleigh Dickinson,REG (Non-Conf),W 72-61,,8,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,2,3,0,0,0,0,0,2,1.9,A,1,1,john-adams-1,John Adams,2012
+4,69,4,2011-11-18,Lehigh,N,William & Mary,REG (Non-Conf),W 82-57,,17,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,2,2,4,0,0,0,1,2,7,5.5,N,1,1,john-adams-1,John Adams,2012
+5,70,5,2011-11-19,Lehigh,@,Liberty,REG (Non-Conf),W 90-80,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,0,1,1,3,4,2.8,A,1,1,john-adams-1,John Adams,2012
+6,71,6,2011-11-20,Lehigh,N,Eastern Kentucky,REG (Non-Conf),W 76-51,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,2,3,0,0,1,0,2,2,1.8,N,1,1,john-adams-1,John Adams,2012
+7,72,7,2011-11-28,Lehigh,,Quinnipiac,REG (Non-Conf),W 86-75,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,2,0.0,0,3,3,1,1,0,0,4,3,2.9,H,1,1,john-adams-1,John Adams,2012
+8,73,8,2011-12-01,Lehigh,@,Fordham,REG (Non-Conf),W 78-60,,6,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,0,0,2,1.3,A,1,1,john-adams-1,John Adams,2012
+9,74,9,2011-12-03,Lehigh,@,Cornell,REG (Non-Conf),L 79-81 (OT),,9,0,0,,0,0,,0,0,,,2,2,1.0,0,2,2,1,0,0,2,0,2,1.3,A,0,1,john-adams-1,John Adams,2012
+10,75,13,2011-12-22,Lehigh,@,Michigan State,REG (Non-Conf),L 81-90,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,0,0,0,1,5,2,-1.7,A,0,1,john-adams-1,John Adams,2012
+11,76,14,2011-12-28,Lehigh,@,Saint Peter's,REG (Non-Conf),W 76-67,,13,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,3,3,0,1,0,0,1,1,1.4,A,1,1,john-adams-1,John Adams,2012
+12,77,15,2011-12-31,Lehigh,@,Bryant,REG (Non-Conf),W 72-55,,7,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,0,4,0,-0.7,A,1,1,john-adams-1,John Adams,2012
+13,78,16,2012-01-03,Lehigh,,Maryland Eastern Shore,REG (Non-Conf),W 82-55,,15,1,2,0.5,1,2,0.5,0,0,,0.75,3,4,0.75,1,5,6,0,1,0,4,1,6,3.4,H,1,1,john-adams-1,John Adams,2012
+14,79,17,2012-01-07,Lehigh,@,Holy Cross,REG (Conf),L 78-84,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,0,0,0,0,0,1,2,4,0.2,A,0,1,john-adams-1,John Adams,2012
+15,80,18,2012-01-11,Lehigh,,American,REG (Conf),W 71-60,,17,3,6,0.5,3,4,0.75,0,2,0.0,0.75,2,2,1.0,1,3,4,0,1,1,1,2,11,9.5,H,1,1,john-adams-1,John Adams,2012
+16,81,19,2012-01-14,Lehigh,@,Colgate,REG (Conf),W 78-56,,24,4,6,0.667,4,5,0.8,0,1,0.0,1.0,0,0,,2,6,8,0,0,2,1,2,12,12.2,A,1,1,john-adams-1,John Adams,2012
+17,82,20,2012-01-18,Lehigh,,Bucknell,REG (Conf),L 61-68,,21,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,1,1,0,0,0,1,4,10,5.1,H,0,1,john-adams-1,John Adams,2012
+18,83,21,2012-01-22,Lehigh,@,Lafayette,REG (Conf),W 90-76,,12,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,3,3,1,0,0,0,4,4,3.0,A,1,1,john-adams-1,John Adams,2012
+19,84,22,2012-01-26,Lehigh,,Navy,REG (Conf),W 71-60,,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,H,1,1,john-adams-1,John Adams,2012
+20,85,23,2012-01-29,Lehigh,,Army,REG (Conf),W 83-64,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,4,5,0,0,1,0,2,5,6.2,H,1,1,john-adams-1,John Adams,2012
+21,86,24,2012-02-04,Lehigh,,Holy Cross,REG (Conf),W 75-51,,21,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,8,8,0,1,0,0,2,8,8.6,H,1,1,john-adams-1,John Adams,2012
+22,87,25,2012-02-09,Lehigh,@,American,REG (Conf),L 62-71,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,2,3,5,0,1,1,0,3,2,2.7,A,0,1,john-adams-1,John Adams,2012
+23,88,26,2012-02-11,Lehigh,,Colgate,REG (Conf),W 89-69,*,26,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,1,2,3,3,1,0,0,2,10,12.0,H,1,1,john-adams-1,John Adams,2012
+24,89,27,2012-02-16,Lehigh,@,Bucknell,REG (Conf),W 56-53,*,28,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,1,1.0,0,0,0,1,0,0,1,3,9,5.2,A,1,1,john-adams-1,John Adams,2012
+25,90,28,2012-02-18,Lehigh,,Lafayette,REG (Conf),W 72-53,*,32,5,8,0.625,2,3,0.667,3,5,0.6,0.75,2,4,0.5,4,6,10,1,0,0,0,0,14,14.9,H,1,1,john-adams-1,John Adams,2012
+26,91,29,2012-02-22,Lehigh,@,Navy,REG (Conf),W 58-41,*,19,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,3,3,6,1,0,0,1,0,0,-0.1,A,1,1,john-adams-1,John Adams,2012
+27,92,30,2012-02-25,Lehigh,@,Army,REG (Conf),W 74-72 (OT),*,33,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,0,2,2,1,1,3,3,3,11,7.8,A,1,1,john-adams-1,John Adams,2012
+28,93,31,2012-02-29,Lehigh,,Colgate,CTOURN,W 70-57,*,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,1,0,1,4,0,-3.1,H,1,0,john-adams-1,John Adams,2012
+29,94,32,2012-03-03,Lehigh,,American,CTOURN,W 85-66,*,26,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,5,5,0,0,0,0,2,2,-0.4,H,1,0,john-adams-1,John Adams,2012
+30,95,33,2012-03-07,Lehigh,@,Bucknell,CTOURN,W 82-77,*,24,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,4,4,1,1,0,0,5,4,3.5,A,1,0,john-adams-1,John Adams,2012
+31,96,34,2012-03-16,Lehigh,N,Duke,ROUND-64,W 75-70,*,33,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,2,6,8,2,2,0,1,4,7,7.6,N,1,0,john-adams-1,John Adams,2012
+32,97,35,2012-03-18,Lehigh,N,Xavier,ROUND-32,L 58-70,*,29,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,3,3,0,0,1,2,3,4,-1.7,N,0,0,john-adams-1,John Adams,2012

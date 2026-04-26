@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2022-11-07,Iona,,Pennsylvania,REG (Non-Conf),W 78-50,*,30,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,1,3,4,3,1,1,0,2,12,13.7,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+2,67,2,2022-11-11,Iona,@,Hofstra,REG (Non-Conf),L 78-83,*,30,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,1,0.0,2,3,5,2,0,1,1,3,11,9.2,A,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+3,68,3,2022-11-18,Iona,N,Vermont,REG (Non-Conf),W 71-50,*,32,10,12,0.833,2,4,0.5,8,8,1.0,0.917,1,1,1.0,0,5,5,2,2,1,2,1,23,21.8,N,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+4,69,4,2022-11-27,Iona,N,Santa Clara,REG (Non-Conf),L 76-86,*,35,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,1,2,4,1,1,1,3,4,3.9,N,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+5,70,5,2022-12-02,Iona,,Niagara,REG (Conf),W 78-56,*,31,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,4,4,1,0,3,1,0,5,6.0,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+6,71,6,2022-12-04,Iona,,Canisius,REG (Conf),W 90-60,*,28,6,8,0.75,2,2,1.0,4,6,0.667,0.875,2,2,1.0,1,6,7,3,2,2,1,1,16,19.4,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+7,72,7,2022-12-06,Iona,,Saint Louis,REG (Non-Conf),W 84-62,*,31,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,1,3,4,4,1,4,0,4,8,11.3,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+8,73,8,2022-12-11,Iona,N,St. Bonaventure,REG (Non-Conf),W 72-57,*,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,2,1,3,2,2,1,0,2,4,6.3,N,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+9,74,9,2022-12-13,Iona,N,Princeton,REG (Non-Conf),W 70-64,*,32,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,2,0.0,1,3,4,1,1,0,1,2,0,-2.8,N,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+10,75,10,2022-12-18,Iona,@,New Mexico,REG (Non-Conf),L 74-82,*,27,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,1,0.0,3,2,5,2,2,0,2,5,8,7.1,A,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+11,76,11,2022-12-22,Iona,N,SMU,REG (Non-Conf),L 81-85,*,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,N,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+12,77,15,2023-01-06,Iona,@,Marist,REG (Conf),W 84-57,*,32,1,7,0.143,0,1,0.0,1,6,0.167,0.143,2,2,1.0,1,7,8,3,1,0,0,1,4,5.0,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+13,78,16,2023-01-08,Iona,@,Quinnipiac,REG (Conf),L 58-81,*,29,0,6,0.0,0,4,0.0,0,2,0.0,0.0,2,3,0.667,3,5,8,0,0,0,0,2,2,0.2,A,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+14,79,17,2023-01-13,Iona,,Fairfield,REG (Conf),W 75-69,*,30,5,9,0.556,1,1,1.0,4,8,0.5,0.611,0,0,,2,3,5,2,2,2,1,2,11,12.0,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+15,80,18,2023-01-15,Iona,,Rider,REG (Conf),L 67-70,*,37,6,10,0.6,0,1,0.0,6,9,0.667,0.6,1,1,1.0,3,2,5,9,2,3,2,2,13,18.7,H,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+16,81,19,2023-01-20,Iona,@,Manhattan,REG (Conf),W 84-76 (OT),*,33,6,10,0.6,2,2,1.0,4,8,0.5,0.7,4,4,1.0,1,5,6,2,2,2,1,4,18,17.8,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+17,82,20,2023-01-27,Iona,@,Siena,REG (Conf),L 53-70,*,37,5,12,0.417,1,4,0.25,4,8,0.5,0.458,2,4,0.5,1,3,4,2,0,3,2,2,13,8.1,A,0,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+18,83,21,2023-01-29,Iona,,Quinnipiac,REG (Conf),W 78-72,*,18,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,1,0.0,4,0,4,1,1,1,1,4,4,2.1,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+19,84,22,2023-02-03,Iona,,Mount St. Mary's,REG (Conf),W 81-51,*,26,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,3,4,1,2,0,3,3,12,8.5,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+20,85,23,2023-02-05,Iona,@,Fairfield,REG (Conf),W 70-61,*,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,0,3,3,1,0,1,1,3,8,4.8,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+21,86,24,2023-02-10,Iona,@,Canisius,REG (Conf),W 80-59,*,31,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,5,5,2,3,0,1,2,8,10.2,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+22,87,25,2023-02-12,Iona,@,Niagara,REG (Conf),W 72-55,*,27,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,1,2,1,0,2,0,3,0,-0.9,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+23,88,26,2023-02-17,Iona,,Manhattan,REG (Conf),W 71-60,,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,1,0,2,3,2,-0.3,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+24,89,27,2023-02-19,Iona,@,Saint Peter's,REG (Conf),W 73-53,,29,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,4,1,2,0,3,2,5.9,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+25,90,28,2023-02-24,Iona,@,Mount St. Mary's,REG (Conf),W 80-68,*,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,3,4,0,0,1,1,3,5,1.3,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+26,91,29,2023-02-26,Iona,,Siena,REG (Conf),W 93-60,*,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,1,2,3,1,0,0,0,1,10,7.6,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+27,92,30,2023-03-02,Iona,,Marist,REG (Conf),W 93-74,*,30,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,0,4,4,0,0,0,1,2,9,5.1,H,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+28,93,31,2023-03-04,Iona,@,Rider,REG (Conf),W 80-78,*,36,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,4,0.75,0,3,3,1,0,0,1,3,12,9.1,A,1,1,berrick-jeanlouis-1,Berrick JeanLouis,2023
+29,94,32,2023-03-08,Iona,N,Mount St. Mary's,CTOURN,W 74-54,*,31,3,13,0.231,0,6,0.0,3,7,0.429,0.231,0,0,,3,2,5,6,1,0,2,3,6,2.8,N,1,0,berrick-jeanlouis-1,Berrick JeanLouis,2023
+30,95,33,2023-03-10,Iona,N,Niagara,CTOURN,W 71-59,*,29,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,1,1.0,0,2,2,2,1,1,0,4,3,2.0,N,1,0,berrick-jeanlouis-1,Berrick JeanLouis,2023
+31,96,34,2023-03-11,Iona,N,Marist,CTOURN,W 76-55,*,33,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,2,0.5,4,2,6,0,2,1,0,2,8,8.5,N,1,0,berrick-jeanlouis-1,Berrick JeanLouis,2023
+32,97,35,2023-03-17,Iona,N,Connecticut,ROUND-64,L 63-87,*,31,5,10,0.5,2,3,0.667,3,7,0.429,0.6,1,2,0.5,0,3,3,0,0,0,0,2,13,7.7,N,0,0,berrick-jeanlouis-1,Berrick JeanLouis,2023

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2011-11-11,Michigan State,N,North Carolina,REG (Non-Conf),L 55-67,,17,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,5,4,9,0,0,0,1,4,6,4.4,N,0,1,derrick-nix-1,Derrick Nix,2012
+2,68,2,2011-11-15,Michigan State,N,Duke,REG (Non-Conf),L 69-74,,12,1,7,0.143,0,0,1,7,0.143,0.143,0,0,,1,0,1,1,1,0,2,5,2,-4.1,N,0,1,derrick-nix-1,Derrick Nix,2012
+3,69,3,2011-11-18,Michigan State,,Texas Southern,REG (Non-Conf),W 76-41,,12,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,2,1,3,2,0,0,1,3,8,7.2,H,1,1,derrick-nix-1,Derrick Nix,2012
+4,70,4,2011-11-20,Michigan State,,Little Rock,REG (Non-Conf),W 69-47,,20,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,1,1,1,1,2,2.6,H,1,1,derrick-nix-1,Derrick Nix,2012
+5,71,5,2011-11-23,Michigan State,,Milwaukee,REG (Non-Conf),W 68-55,,23,4,6,0.667,0,0,4,6,0.667,0.667,3,5,0.6,1,2,3,1,1,0,0,1,11,10.2,H,1,1,derrick-nix-1,Derrick Nix,2012
+6,72,6,2011-11-27,Michigan State,@,Eastern Michigan,REG (Non-Conf),W 72-40,*,20,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,3,4,0,0,1,4,2,6,1.2,A,1,1,derrick-nix-1,Derrick Nix,2012
+7,73,7,2011-11-30,Michigan State,,Florida State,REG (Non-Conf),W 65-49,,17,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,2,0,2,2,2,2,2,1,1,3.0,H,1,1,derrick-nix-1,Derrick Nix,2012
+8,74,8,2011-12-04,Michigan State,,Omaha,REG (Non-Conf),W 110-68,,20,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,1,4,5,3,2,0,3,2,10,8.6,H,1,1,derrick-nix-1,Derrick Nix,2012
+9,75,9,2011-12-07,Michigan State,,Central Connecticut State,REG (Non-Conf),W 89-69,,21,5,6,0.833,0,0,5,6,0.833,0.833,3,5,0.6,5,1,6,2,1,0,0,1,13,15.8,H,1,1,derrick-nix-1,Derrick Nix,2012
+10,76,10,2011-12-10,Michigan State,@,Gonzaga,REG (Non-Conf),W 74-67,,18,4,4,1.0,0,0,4,4,1.0,1.0,0,2,0.0,1,5,6,1,2,1,1,3,8,9.4,A,1,1,derrick-nix-1,Derrick Nix,2012
+11,77,11,2011-12-17,Michigan State,,Bowling Green,REG (Non-Conf),W 74-60,,20,5,13,0.385,0,0,5,13,0.385,0.385,4,6,0.667,3,4,7,1,1,0,1,0,14,10.1,H,1,1,derrick-nix-1,Derrick Nix,2012
+12,78,12,2011-12-19,Michigan State,,Kansas City,REG (Non-Conf),W 89-54,,11,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,2,3,1,0,2,1,0,6,7.5,H,1,1,derrick-nix-1,Derrick Nix,2012
+13,79,13,2011-12-22,Michigan State,,Lehigh,REG (Non-Conf),W 90-81,,16,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,1,2,1,1,0,2,2,6,2.9,H,1,1,derrick-nix-1,Derrick Nix,2012
+14,80,14,2011-12-28,Michigan State,,Indiana,REG (Conf),W 80-65,,23,6,9,0.667,0,0,6,9,0.667,0.667,2,2,1.0,2,3,5,0,1,0,2,3,14,10.2,H,1,1,derrick-nix-1,Derrick Nix,2012
+15,81,15,2011-12-31,Michigan State,@,Nebraska,REG (Conf),W 68-55,,20,4,7,0.571,0,0,4,7,0.571,0.571,0,1,0.0,3,4,7,1,1,0,1,0,8,8.3,A,1,1,derrick-nix-1,Derrick Nix,2012
+16,82,16,2012-01-03,Michigan State,@,Wisconsin,REG (Conf),W 63-60 (OT),,25,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,3,1,4,0,0,1,0,0,8,7.1,A,1,1,derrick-nix-1,Derrick Nix,2012
+17,83,17,2012-01-10,Michigan State,,Iowa,REG (Conf),W 95-61,,18,4,6,0.667,0,0,4,6,0.667,0.667,2,4,0.5,3,1,4,2,2,0,2,3,10,9.2,H,1,1,derrick-nix-1,Derrick Nix,2012
+18,84,18,2012-01-14,Michigan State,@,Northwestern,REG (Conf),L 74-81,,16,2,4,0.5,0,0,2,4,0.5,0.5,1,1,1.0,1,3,4,1,0,1,2,3,5,2.8,A,0,1,derrick-nix-1,Derrick Nix,2012
+19,85,19,2012-01-17,Michigan State,@,Michigan,REG (Conf),L 59-60,,24,6,9,0.667,0,0,6,9,0.667,0.667,1,1,1.0,2,1,3,1,1,0,1,0,13,11.5,A,0,1,derrick-nix-1,Derrick Nix,2012
+20,86,20,2012-01-21,Michigan State,,Purdue,REG (Conf),W 83-58,,17,5,7,0.714,0,0,5,7,0.714,0.714,2,4,0.5,1,3,4,2,0,0,0,1,12,10.9,H,1,1,derrick-nix-1,Derrick Nix,2012
+21,87,21,2012-01-25,Michigan State,,Minnesota,REG (Conf),W 68-52,,17,3,5,0.6,0,0,3,5,0.6,0.6,2,4,0.5,0,3,3,0,2,0,2,2,8,5.0,H,1,1,derrick-nix-1,Derrick Nix,2012
+22,88,22,2012-01-31,Michigan State,@,Illinois,REG (Conf),L 41-42,,24,1,6,0.167,0,0,1,6,0.167,0.167,1,2,0.5,1,2,3,1,1,0,1,3,3,-0.4,A,0,1,derrick-nix-1,Derrick Nix,2012
+23,89,23,2012-02-05,Michigan State,,Michigan,REG (Conf),W 64-54,,23,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,3,3,6,0,0,0,1,3,6,2.4,H,1,1,derrick-nix-1,Derrick Nix,2012
+24,90,24,2012-02-08,Michigan State,,Penn State,REG (Conf),W 77-57,,14,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,0,1,1,0,0,0,2,2,2,-1.9,H,1,1,derrick-nix-1,Derrick Nix,2012
+25,91,25,2012-02-11,Michigan State,@,Ohio State,REG (Conf),W 58-48,,19,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,0,1,1,2,0,0,2,2,6,0.5,A,1,1,derrick-nix-1,Derrick Nix,2012
+26,92,26,2012-02-16,Michigan State,,Wisconsin,REG (Conf),W 69-55,,19,5,7,0.714,0,0,5,7,0.714,0.714,2,2,1.0,2,0,2,0,2,0,2,0,12,10.5,H,1,1,derrick-nix-1,Derrick Nix,2012
+27,93,27,2012-02-19,Michigan State,@,Purdue,REG (Conf),W 76-62,,25,6,8,0.75,0,0,6,8,0.75,0.75,0,1,0.0,1,3,4,1,1,0,1,1,12,10.3,A,1,1,derrick-nix-1,Derrick Nix,2012
+28,94,28,2012-02-22,Michigan State,@,Minnesota,REG (Conf),W 66-61,,15,3,7,0.429,0,0,3,7,0.429,0.429,2,4,0.5,0,2,2,0,0,0,0,1,8,3.7,A,1,1,derrick-nix-1,Derrick Nix,2012
+29,95,29,2012-02-25,Michigan State,,Nebraska,REG (Conf),W 62-34,,18,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,1,2,3,5,2,0,1,1,5,9.1,H,1,1,derrick-nix-1,Derrick Nix,2012
+30,96,30,2012-02-28,Michigan State,@,Indiana,REG (Conf),L 55-70,,26,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,1,3,4,0,1,0,2,1,5,0.7,A,0,1,derrick-nix-1,Derrick Nix,2012
+31,97,31,2012-03-04,Michigan State,,Ohio State,REG (Conf),L 70-72,,21,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,1,1,2,1,0,2,1,3,11,8.9,H,0,1,derrick-nix-1,Derrick Nix,2012
+32,98,32,2012-03-09,Michigan State,N,Iowa,CTOURN,W 92-75,,14,3,7,0.429,0,0,3,7,0.429,0.429,3,6,0.5,1,3,4,1,0,0,1,2,9,4.6,N,1,0,derrick-nix-1,Derrick Nix,2012
+33,99,33,2012-03-10,Michigan State,N,Wisconsin,CTOURN,W 65-52,,21,4,7,0.571,0,0,4,7,0.571,0.571,1,1,1.0,2,3,5,0,1,0,0,1,9,8.6,N,1,0,derrick-nix-1,Derrick Nix,2012
+34,100,34,2012-03-11,Michigan State,N,Ohio State,CTOURN,W 68-64,,21,4,5,0.8,0,0,4,5,0.8,0.8,2,3,0.667,1,1,2,3,0,1,0,1,10,11.1,N,1,0,derrick-nix-1,Derrick Nix,2012
+35,101,35,2012-03-16,Michigan State,N,LIU Brooklyn,ROUND-64,W 89-67,,20,8,13,0.615,0,0,8,13,0.615,0.615,2,4,0.5,5,3,8,1,0,0,3,1,18,13.0,N,1,0,derrick-nix-1,Derrick Nix,2012
+36,102,36,2012-03-18,Michigan State,N,Saint Louis,ROUND-32,W 65-61,,15,4,5,0.8,0,0,4,5,0.8,0.8,2,2,1.0,0,1,1,1,0,0,3,2,10,5.3,N,1,0,derrick-nix-1,Derrick Nix,2012
+37,103,37,2012-03-22,Michigan State,N,Louisville,ROUND-16,L 44-57,,18,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,1,3,4,0,0,1,1,0,4,1.9,N,0,0,derrick-nix-1,Derrick Nix,2012

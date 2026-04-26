@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,10,2023-12-16,Grand Canyon,N,Portland,REG (Non-Conf),W 91-63,,20,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,1,0.0,1,1,2,2,1,0,0,2,3,1.4,N,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+2,99,11,2023-12-20,Grand Canyon,,Sam Houston State,REG (Non-Conf),W 76-64,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-2.1,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+3,100,12,2023-12-27,Grand Canyon,N,Bethesda CA,REG (Non-Conf),W 124-74,*,22,8,13,0.615,4,6,0.667,4,7,0.571,0.769,0,0,,1,1,2,7,3,0,2,1,20,20.6,N,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+4,101,13,2023-12-30,Grand Canyon,,Louisiana Tech,REG (Non-Conf),W 73-70,,9,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,0,0,0,0,0,1,1,6,3.3,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+5,102,14,2024-01-04,Grand Canyon,@,Southern Utah,REG (Conf),W 96-75,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+6,103,15,2024-01-06,Grand Canyon,@,Utah Tech,REG (Conf),W 75-65,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+7,104,16,2024-01-11,Grand Canyon,,Abilene Christian,REG (Conf),W 74-64,,15,0,1,0.0,0,0,,0,1,0.0,0.0,3,3,1.0,0,0,0,3,1,0,1,0,3,4.4,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+8,105,17,2024-01-13,Grand Canyon,,Tarleton State,REG (Conf),W 74-48,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,3,3,1,1,0,1,3,0,-1.7,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+9,106,18,2024-01-18,Grand Canyon,,Utah Valley,REG (Conf),W 78-65,,20,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,1,0.0,0,4,4,2,4,0,2,4,13,12.0,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+10,107,19,2024-01-20,Grand Canyon,@,Seattle,REG (Conf),L 79-86,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,0,0,1,1,3,1.9,A,0,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+11,108,20,2024-01-25,Grand Canyon,@,Stephen F. Austin,REG (Conf),W 53-51,,7,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-2.8,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+12,109,21,2024-01-27,Grand Canyon,@,UT Arlington,REG (Conf),W 67-61,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,-0.7,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+13,110,22,2024-02-01,Grand Canyon,,Seattle,REG (Conf),W 95-88 (OT),,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+14,111,23,2024-02-03,Grand Canyon,@,Utah Valley,REG (Conf),W 86-67,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,3,1,0,0,0,0,2.4,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+15,112,24,2024-02-10,Grand Canyon,,Southern Utah,REG (Conf),W 94-65,,18,6,7,0.857,3,4,0.75,3,3,1.0,1.071,3,3,1.0,0,1,1,1,3,0,2,1,18,17.1,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+16,113,25,2024-02-15,Grand Canyon,,Utah Tech,REG (Conf),W 73-61,,19,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,0,1,2,0,0,1,1,6,4.0,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+17,114,26,2024-02-17,Grand Canyon,,California Baptist,REG (Conf),W 79-76,,25,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,2,2,3,1,0,0,1,6,6.6,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+18,115,27,2024-02-22,Grand Canyon,@,Tarleton State,REG (Conf),L 74-77,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,A,0,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+19,116,28,2024-02-24,Grand Canyon,@,Abilene Christian,REG (Conf),L 73-79,,21,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,1,0,0,1,3,5,2.2,A,0,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+20,117,29,2024-02-29,Grand Canyon,,Texas–Rio Grande Valley,REG (Conf),W 72-43,,15,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,1,2,1,0,0,1,0,5,1.6,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+21,118,30,2024-03-02,Grand Canyon,,Stephen F. Austin,REG (Conf),W 80-58,,17,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,0,0,0,1,0,1,4,8,4.1,H,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+22,119,31,2024-03-09,Grand Canyon,@,California Baptist,REG (Conf),W 68-47,,23,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,1,1,3,0,0,0,0,3,1.6,A,1,1,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+23,120,32,2024-03-15,Grand Canyon,N,Seattle,CTOURN,W 80-72,,23,1,4,0.25,1,4,0.25,0,0,,0.375,3,4,0.75,0,0,0,2,1,0,0,2,6,4.8,N,1,0,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+24,121,33,2024-03-16,Grand Canyon,N,UT Arlington,CTOURN,W 89-74,,21,4,6,0.667,2,3,0.667,2,3,0.667,0.833,4,4,1.0,0,1,1,3,0,0,0,3,14,12.6,N,1,0,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+25,122,34,2024-03-22,Grand Canyon,N,St. Mary's (CA),ROUND-64,W 75-66,,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,0,0,0,1,0,4,2.0,N,1,0,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024
+26,123,35,2024-03-24,Grand Canyon,N,Alabama,ROUND-32,L 61-72,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,2,2,2,2,0,0,2.3,N,0,0,jovan-blacksherjr-1,Jovan Blacksher Jr.,2024

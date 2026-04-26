@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2017-11-10,Cal State Fullerton,@,Southern California,REG (Non-Conf),L 42-84,*,25,1,11,0.091,0,1,0.0,1,10,0.1,0.091,3,6,0.5,0,2,2,1,0,0,3,3,5,-6.4,A,0,1,kyle-allman-1,Kyle Allman,2018
+2,64,2,2017-11-15,Cal State Fullerton,@,St. Mary's (CA),REG (Non-Conf),L 57-76,*,29,5,12,0.417,0,1,0.0,5,11,0.455,0.417,3,4,0.75,0,3,3,2,0,1,0,3,13,8.0,A,0,1,kyle-allman-1,Kyle Allman,2018
+3,65,3,2017-11-18,Cal State Fullerton,,Bethesda CA,REG (Non-Conf),W 77-35,*,21,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,5,0.4,0,2,2,6,1,0,0,0,9,9.9,H,1,1,kyle-allman-1,Kyle Allman,2018
+4,66,4,2017-11-23,Cal State Fullerton,,Georgia,REG (Non-Conf),L 57-64,*,37,9,18,0.5,3,6,0.5,6,12,0.5,0.583,13,15,0.867,0,1,1,2,1,0,1,3,34,24.7,H,0,1,kyle-allman-1,Kyle Allman,2018
+5,67,5,2017-11-24,Cal State Fullerton,N,Sacramento State,REG (Non-Conf),W 68-63,*,35,4,6,0.667,0,1,0.0,4,5,0.8,0.667,5,6,0.833,0,6,6,1,2,0,3,3,13,10.3,N,1,1,kyle-allman-1,Kyle Allman,2018
+6,68,6,2017-11-26,Cal State Fullerton,,Harvard,REG (Non-Conf),W 70-61,*,37,4,7,0.571,0,3,0.0,4,4,1.0,0.571,8,13,0.615,0,2,2,1,3,0,3,2,16,11.2,H,1,1,kyle-allman-1,Kyle Allman,2018
+7,69,7,2017-12-02,Cal State Fullerton,,Cal Lutheran,REG (Non-Conf),W 86-58,*,24,9,14,0.643,2,5,0.4,7,9,0.778,0.714,2,2,1.0,0,4,4,3,0,0,0,0,22,19.1,H,1,1,kyle-allman-1,Kyle Allman,2018
+8,70,8,2017-12-06,Cal State Fullerton,@,Portland,REG (Non-Conf),W 76-66,*,37,6,10,0.6,0,0,,6,10,0.6,0.6,9,13,0.692,0,2,2,2,0,1,3,3,21,13.3,A,1,1,kyle-allman-1,Kyle Allman,2018
+9,71,9,2017-12-09,Cal State Fullerton,,Utah Valley,REG (Non-Conf),W 91-83,*,21,3,6,0.5,2,3,0.667,1,3,0.333,0.667,4,6,0.667,1,0,1,2,3,0,0,3,12,12.1,H,1,1,kyle-allman-1,Kyle Allman,2018
+10,72,10,2017-12-16,Cal State Fullerton,@,California,REG (Non-Conf),L 89-95 (OT),*,30,11,18,0.611,4,7,0.571,7,11,0.636,0.722,4,6,0.667,0,5,5,0,2,0,4,4,30,18.9,A,0,1,kyle-allman-1,Kyle Allman,2018
+11,73,11,2017-12-22,Cal State Fullerton,@,Loyola Marymount,REG (Non-Conf),W 88-80,*,35,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,3,0.667,0,5,5,8,3,0,3,2,9,9.8,A,1,1,kyle-allman-1,Kyle Allman,2018
+12,74,12,2017-12-30,Cal State Fullerton,@,Utah Valley,REG (Non-Conf),L 78-87,*,34,3,15,0.2,0,2,0.0,3,13,0.231,0.2,9,10,0.9,2,5,7,2,0,0,0,3,15,8.4,A,0,1,kyle-allman-1,Kyle Allman,2018
+13,75,13,2018-01-03,Cal State Fullerton,,UC Riverside,REG (Conf),W 68-65,*,35,6,12,0.5,1,4,0.25,5,8,0.625,0.542,3,3,1.0,1,5,6,2,1,0,5,3,16,8.4,H,1,1,kyle-allman-1,Kyle Allman,2018
+14,76,14,2018-01-06,Cal State Fullerton,@,Cal Poly,REG (Conf),W 101-97 (OT),*,43,10,17,0.588,0,0,,10,17,0.588,0.588,10,15,0.667,1,8,9,2,1,2,4,3,30,21.8,A,1,1,kyle-allman-1,Kyle Allman,2018
+15,77,15,2018-01-11,Cal State Fullerton,@,UC Irvine,REG (Conf),W 67-64,*,35,2,8,0.25,1,3,0.333,1,5,0.2,0.313,8,10,0.8,0,3,3,1,1,0,6,1,13,3.6,A,1,1,kyle-allman-1,Kyle Allman,2018
+16,78,16,2018-01-13,Cal State Fullerton,,UC Davis,REG (Conf),W 85-70,*,39,8,15,0.533,3,6,0.5,5,9,0.556,0.633,8,8,1.0,0,2,2,4,1,0,1,1,27,22.7,H,1,1,kyle-allman-1,Kyle Allman,2018
+17,79,17,2018-01-17,Cal State Fullerton,@,UC Santa Barbara,REG (Conf),L 64-83,*,28,3,7,0.429,3,3,1.0,0,4,0.0,0.643,5,6,0.833,0,2,2,5,0,0,3,1,14,10.6,A,0,1,kyle-allman-1,Kyle Allman,2018
+18,80,18,2018-01-20,Cal State Fullerton,@,Long Beach State,REG (Conf),L 73-81,*,33,5,13,0.385,2,3,0.667,3,10,0.3,0.462,1,2,0.5,0,2,2,0,3,0,2,2,13,6.3,A,0,1,kyle-allman-1,Kyle Allman,2018
+19,81,19,2018-01-25,Cal State Fullerton,,UC Santa Barbara,REG (Conf),L 65-70,*,36,9,17,0.529,1,4,0.25,8,13,0.615,0.559,5,6,0.833,0,3,3,2,1,0,3,3,24,14.4,H,0,1,kyle-allman-1,Kyle Allman,2018
+20,82,20,2018-01-28,Cal State Fullerton,@,Hawaii,REG (Conf),W 69-66,*,38,16,19,0.842,5,6,0.833,11,13,0.846,0.974,3,6,0.5,0,3,3,4,0,0,2,1,40,33.2,A,1,1,kyle-allman-1,Kyle Allman,2018
+21,83,21,2018-02-03,Cal State Fullerton,,UC Irvine,REG (Conf),L 58-63,*,37,6,14,0.429,2,6,0.333,4,8,0.5,0.5,6,8,0.75,0,2,2,0,1,0,0,2,20,12.6,H,0,1,kyle-allman-1,Kyle Allman,2018
+22,84,22,2018-02-08,Cal State Fullerton,,Cal Poly,REG (Conf),W 75-59,,32,4,13,0.308,2,4,0.5,2,9,0.222,0.385,4,6,0.667,0,2,2,2,3,0,1,1,14,9.3,H,1,1,kyle-allman-1,Kyle Allman,2018
+23,85,23,2018-02-10,Cal State Fullerton,@,UC Davis,REG (Conf),W 68-66,*,31,7,12,0.583,1,3,0.333,6,9,0.667,0.625,6,7,0.857,0,8,8,1,2,0,2,3,21,16.9,A,1,1,kyle-allman-1,Kyle Allman,2018
+24,86,24,2018-02-17,Cal State Fullerton,,Cal State Northridge,REG (Conf),W 88-70,*,38,8,14,0.571,1,3,0.333,7,11,0.636,0.607,10,13,0.769,0,0,0,2,1,0,2,1,27,19.2,H,1,1,kyle-allman-1,Kyle Allman,2018
+25,87,25,2018-02-21,Cal State Fullerton,@,UC Riverside,REG (Conf),L 65-69,,31,7,17,0.412,1,5,0.2,6,12,0.5,0.441,5,6,0.833,1,2,3,2,0,1,4,4,20,8.3,A,0,1,kyle-allman-1,Kyle Allman,2018
+26,88,26,2018-02-24,Cal State Fullerton,,Long Beach State,REG (Conf),W 81-71,*,32,8,13,0.615,1,2,0.5,7,11,0.636,0.654,8,9,0.889,0,1,1,1,1,1,2,2,25,18.6,H,1,1,kyle-allman-1,Kyle Allman,2018
+27,89,27,2018-02-28,Cal State Fullerton,@,Cal State Northridge,REG (Conf),W 102-76,*,28,7,12,0.583,1,2,0.5,6,10,0.6,0.625,8,9,0.889,2,2,4,1,0,0,0,1,23,19.3,A,1,1,kyle-allman-1,Kyle Allman,2018
+28,90,28,2018-03-03,Cal State Fullerton,,Hawaii,REG (Conf),L 60-68,*,35,5,14,0.357,1,3,0.333,4,11,0.364,0.393,7,10,0.7,0,1,1,2,0,0,2,3,18,7.5,H,0,1,kyle-allman-1,Kyle Allman,2018
+29,91,29,2018-03-08,Cal State Fullerton,N,Long Beach State,CTOURN,W 76-74,*,40,7,15,0.467,0,1,0.0,7,14,0.5,0.467,10,14,0.714,0,3,3,8,2,0,5,2,24,17.4,N,1,0,kyle-allman-1,Kyle Allman,2018
+30,92,30,2018-03-09,Cal State Fullerton,N,UC Davis,CTOURN,W 55-52,*,29,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,4,0.5,2,4,6,1,0,0,4,4,8,0.5,N,1,0,kyle-allman-1,Kyle Allman,2018
+31,93,31,2018-03-10,Cal State Fullerton,N,UC Irvine,CTOURN,W 71-55,*,33,8,16,0.5,4,6,0.667,4,10,0.4,0.625,6,8,0.75,0,6,6,3,3,0,2,0,26,22.1,N,1,0,kyle-allman-1,Kyle Allman,2018
+32,94,32,2018-03-16,Cal State Fullerton,N,Purdue,ROUND-64,L 48-74,*,35,8,16,0.5,2,5,0.4,6,11,0.545,0.563,3,5,0.6,1,4,5,2,0,0,4,1,21,11.1,N,0,0,kyle-allman-1,Kyle Allman,2018

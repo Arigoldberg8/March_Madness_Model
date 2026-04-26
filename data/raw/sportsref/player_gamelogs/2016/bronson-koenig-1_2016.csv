@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,78,1,2015-11-13,Wisconsin,,Western Illinois,REG (Non-Conf),L 67-69,*,37,7,15,0.467,3,8,0.375,4,7,0.571,0.567,0,0,,1,3,4,2,0,0,0,1,17,11.9,H,0,1,bronson-koenig-1,Bronson Koenig,2016
+2,79,2,2015-11-15,Wisconsin,,Siena,REG (Non-Conf),W 92-65,*,34,8,14,0.571,3,6,0.5,5,8,0.625,0.679,4,4,1.0,1,4,5,4,0,0,3,0,23,18.1,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+3,80,3,2015-11-17,Wisconsin,,North Dakota,REG (Non-Conf),W 78-64,*,33,7,13,0.538,3,6,0.5,4,7,0.571,0.654,0,0,,0,5,5,4,0,0,1,1,17,13.6,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+4,81,4,2015-11-20,Wisconsin,N,Georgetown,REG (Non-Conf),L 61-71,*,40,2,12,0.167,1,6,0.167,1,6,0.167,0.208,4,5,0.8,0,1,1,3,0,2,2,3,9,1.6,N,0,1,bronson-koenig-1,Bronson Koenig,2016
+5,82,5,2015-11-22,Wisconsin,N,VCU,REG (Non-Conf),W 74-73,*,33,9,14,0.643,2,5,0.4,7,9,0.778,0.714,2,3,0.667,1,2,3,3,0,0,3,3,22,14.6,N,1,1,bronson-koenig-1,Bronson Koenig,2016
+6,83,6,2015-11-25,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 85-67,*,33,4,6,0.667,3,5,0.6,1,1,1.0,0.917,5,5,1.0,0,0,0,3,0,0,1,4,16,12.9,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+7,84,7,2015-11-29,Wisconsin,@,Oklahoma,REG (Non-Conf),L 48-65,*,39,3,18,0.167,3,14,0.214,0,4,0.0,0.25,0,0,,2,2,4,1,0,0,2,2,9,-2.5,A,0,1,bronson-koenig-1,Bronson Koenig,2016
+8,85,8,2015-12-02,Wisconsin,@,Syracuse,REG (Non-Conf),W 66-58 (OT),*,42,3,9,0.333,2,7,0.286,1,2,0.5,0.444,4,4,1.0,2,4,6,1,0,0,0,4,12,8.6,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+9,86,9,2015-12-05,Wisconsin,,Temple,REG (Non-Conf),W 76-60,*,39,7,14,0.5,3,5,0.6,4,9,0.444,0.607,0,0,,0,1,1,3,1,0,1,2,17,11.6,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+10,87,10,2015-12-09,Wisconsin,,Milwaukee,REG (Non-Conf),L 67-68,*,35,5,16,0.313,2,5,0.4,3,11,0.273,0.375,4,4,1.0,0,3,3,1,0,1,1,4,16,6.5,H,0,1,bronson-koenig-1,Bronson Koenig,2016
+11,88,11,2015-12-12,Wisconsin,,Marquette,REG (Non-Conf),L 55-57,*,36,3,11,0.273,2,4,0.5,1,7,0.143,0.364,0,0,,0,0,0,2,0,1,1,3,8,1.4,H,0,1,bronson-koenig-1,Bronson Koenig,2016
+12,89,12,2015-12-15,Wisconsin,,Texas A&M–Corpus Christi,REG (Non-Conf),W 64-49,*,38,5,11,0.455,2,7,0.286,3,4,0.75,0.545,3,7,0.429,0,2,2,3,1,1,2,0,15,10.1,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+13,90,13,2015-12-23,Wisconsin,,Green Bay,REG (Non-Conf),W 84-79,*,20,2,8,0.25,2,5,0.4,0,3,0.0,0.375,0,1,0.0,1,0,1,1,0,0,8,3,6,-7.0,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+14,91,14,2015-12-29,Wisconsin,,Purdue,REG (Conf),L 55-61,*,36,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,4,4,3,1,0,0,2,7,6.1,H,0,1,bronson-koenig-1,Bronson Koenig,2016
+15,92,15,2016-01-02,Wisconsin,,Rutgers,REG (Conf),W 79-57,*,32,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,0,,0,1,1,4,1,0,1,1,14,10.7,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+16,93,16,2016-01-05,Wisconsin,@,Indiana,REG (Conf),L 58-59,*,36,4,12,0.333,2,6,0.333,2,6,0.333,0.417,5,6,0.833,0,2,2,2,0,0,2,3,15,6.6,A,0,1,bronson-koenig-1,Bronson Koenig,2016
+17,94,17,2016-01-09,Wisconsin,,Maryland,REG (Conf),L 60-63,*,33,4,12,0.333,3,7,0.429,1,5,0.2,0.458,2,2,1.0,1,5,6,3,0,1,1,2,13,9.4,H,0,1,bronson-koenig-1,Bronson Koenig,2016
+18,95,18,2016-01-12,Wisconsin,@,Northwestern,REG (Conf),L 65-70,*,36,3,9,0.333,3,8,0.375,0,1,0.0,0.5,0,0,,0,1,1,0,1,0,3,5,9,0.2,A,0,1,bronson-koenig-1,Bronson Koenig,2016
+19,96,19,2016-01-17,Wisconsin,,Michigan State,REG (Conf),W 77-76,*,38,8,15,0.533,4,8,0.5,4,7,0.571,0.667,7,7,1.0,0,0,0,4,1,0,1,0,27,22.5,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+20,97,20,2016-01-21,Wisconsin,@,Penn State,REG (Conf),W 66-60,*,35,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,5,0.4,0,2,2,0,0,0,1,1,8,2.6,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+21,98,21,2016-01-26,Wisconsin,,Indiana,REG (Conf),W 82-79 (OT),*,39,1,9,0.111,1,4,0.25,0,5,0.0,0.167,1,2,0.5,0,0,0,0,0,0,3,3,4,-6.5,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+22,99,22,2016-01-31,Wisconsin,@,Illinois,REG (Conf),W 63-55,*,23,4,10,0.4,1,3,0.333,3,7,0.429,0.45,2,2,1.0,0,3,3,1,1,0,1,5,11,5.2,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+23,100,23,2016-02-04,Wisconsin,,Ohio State,REG (Conf),W 79-68,*,28,4,9,0.444,3,7,0.429,1,2,0.5,0.611,2,2,1.0,0,0,0,2,0,0,0,2,13,8.9,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+24,101,24,2016-02-10,Wisconsin,,Nebraska,REG (Conf),W 72-61,*,34,4,7,0.571,3,4,0.75,1,3,0.333,0.786,1,2,0.5,0,3,3,2,1,0,1,3,12,9.4,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+25,102,25,2016-02-13,Wisconsin,@,Maryland,REG (Conf),W 70-57,*,36,4,13,0.308,3,9,0.333,1,4,0.25,0.423,5,7,0.714,0,6,6,5,0,0,2,2,16,10.2,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+26,103,26,2016-02-18,Wisconsin,@,Michigan State,REG (Conf),L 57-69,*,31,4,9,0.444,3,5,0.6,1,4,0.25,0.611,1,2,0.5,1,3,4,2,0,0,2,2,12,7.1,A,0,1,bronson-koenig-1,Bronson Koenig,2016
+27,104,27,2016-02-21,Wisconsin,,Illinois,REG (Conf),W 69-60,*,34,4,11,0.364,2,6,0.333,2,5,0.4,0.455,4,6,0.667,0,5,5,2,0,0,1,0,14,9.0,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+28,105,28,2016-02-24,Wisconsin,@,Iowa,REG (Conf),W 67-59,*,36,4,6,0.667,4,6,0.667,0,0,,1.0,3,5,0.6,0,0,0,4,0,0,1,2,15,12.6,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+29,106,29,2016-02-28,Wisconsin,,Michigan,REG (Conf),W 68-57,*,36,6,10,0.6,3,6,0.5,3,4,0.75,0.75,4,4,1.0,0,3,3,2,0,0,0,1,19,16.3,H,1,1,bronson-koenig-1,Bronson Koenig,2016
+30,107,30,2016-03-02,Wisconsin,@,Minnesota,REG (Conf),W 62-49,*,35,5,7,0.714,2,3,0.667,3,4,0.75,0.857,2,4,0.5,0,1,1,6,0,0,1,3,14,12.6,A,1,1,bronson-koenig-1,Bronson Koenig,2016
+31,108,31,2016-03-06,Wisconsin,@,Purdue,REG (Conf),L 80-91,*,37,3,12,0.25,2,9,0.222,1,3,0.333,0.333,0,0,,0,1,1,4,2,0,0,4,8,4.3,A,0,1,bronson-koenig-1,Bronson Koenig,2016
+32,109,32,2016-03-10,Wisconsin,N,Nebraska,CTOURN,L 58-70,*,37,3,12,0.25,1,6,0.167,2,6,0.333,0.292,4,4,1.0,1,2,3,4,0,0,2,2,11,5.1,N,0,0,bronson-koenig-1,Bronson Koenig,2016
+33,110,33,2016-03-18,Wisconsin,N,Pittsburgh,ROUND-64,W 47-43,*,36,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,0,,1,6,7,1,2,0,0,1,2,1.6,N,1,0,bronson-koenig-1,Bronson Koenig,2016
+34,111,34,2016-03-20,Wisconsin,N,Xavier,ROUND-32,W 66-63,*,38,6,15,0.4,6,12,0.5,0,3,0.0,0.6,2,2,1.0,1,6,7,1,0,0,2,1,20,12.7,N,1,0,bronson-koenig-1,Bronson Koenig,2016
+35,112,35,2016-03-25,Wisconsin,N,Notre Dame,ROUND-16,L 56-61,*,37,3,12,0.25,1,6,0.167,2,6,0.333,0.292,1,2,0.5,0,3,3,1,2,0,2,1,8,1.6,N,0,0,bronson-koenig-1,Bronson Koenig,2016

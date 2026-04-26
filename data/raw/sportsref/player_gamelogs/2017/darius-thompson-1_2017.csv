@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,75,1,2016-11-11,Virginia,@,UNC Greensboro,REG (Non-Conf),W 76-51,*,23,4,6,0.667,3,4,0.75,1,2,0.5,0.917,1,2,0.5,0,1,1,1,1,0,1,2,12,9.2,A,1,1,darius-thompson-1,Darius Thompson,2017
+2,76,2,2016-11-15,Virginia,,St. Francis Brooklyn,REG (Non-Conf),W 72-32,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,6,6,3,0,1,3,0,4,3.6,H,1,1,darius-thompson-1,Darius Thompson,2017
+3,77,3,2016-11-20,Virginia,,Yale,REG (Non-Conf),W 62-38,*,23,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,0,0,0,3,1,0,4,1,11,6.1,H,1,1,darius-thompson-1,Darius Thompson,2017
+4,78,4,2016-11-22,Virginia,,Grambling State,REG (Non-Conf),W 90-34,*,16,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,1,3,4,1,0,0,0,0,12,11.0,H,1,1,darius-thompson-1,Darius Thompson,2017
+5,79,5,2016-11-25,Virginia,N,Iowa,REG (Non-Conf),W 74-41,*,22,2,6,0.333,2,4,0.5,0,2,0.0,0.5,4,4,1.0,1,2,3,4,0,0,0,0,10,10.7,N,1,1,darius-thompson-1,Darius Thompson,2017
+6,80,6,2016-11-26,Virginia,N,Providence,REG (Non-Conf),W 63-52,*,23,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,6,0.5,0,2,2,2,1,0,0,2,11,9.4,N,1,1,darius-thompson-1,Darius Thompson,2017
+7,81,7,2016-11-30,Virginia,,Ohio State,REG (Non-Conf),W 63-61,*,30,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,2,3,3,2,3,1,1,4,6.7,H,1,1,darius-thompson-1,Darius Thompson,2017
+8,82,8,2016-12-03,Virginia,,West Virginia,REG (Non-Conf),L 57-66,*,32,5,10,0.5,3,6,0.5,2,4,0.5,0.65,1,2,0.5,0,1,1,1,2,0,3,2,14,7.8,H,0,1,darius-thompson-1,Darius Thompson,2017
+9,83,9,2016-12-06,Virginia,,East Carolina,REG (Non-Conf),W 76-53,*,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,6,1,1,2,0,2,4.5,H,1,1,darius-thompson-1,Darius Thompson,2017
+10,84,10,2016-12-17,Virginia,,Robert Morris,REG (Non-Conf),W 79-39,*,25,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,3,3,2,0,0,1,1,4,1.5,H,1,1,darius-thompson-1,Darius Thompson,2017
+11,85,11,2016-12-21,Virginia,@,California,REG (Non-Conf),W 56-52,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,5,0,0,1,0,2,3.4,A,1,1,darius-thompson-1,Darius Thompson,2017
+12,86,12,2016-12-28,Virginia,@,Louisville,REG (Conf),W 61-53,*,18,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,0,0,2,0,0,3,4,7,0.8,A,1,1,darius-thompson-1,Darius Thompson,2017
+13,87,13,2016-12-31,Virginia,,Florida State,REG (Conf),L 58-60,*,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,1,1,0,2,2,2,-1.5,H,0,1,darius-thompson-1,Darius Thompson,2017
+14,88,14,2017-01-04,Virginia,@,Pittsburgh,REG (Conf),L 76-88 (OT),,26,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,2,0.0,0,1,1,2,1,0,1,0,11,8.3,A,0,1,darius-thompson-1,Darius Thompson,2017
+15,89,15,2017-01-08,Virginia,,Wake Forest,REG (Conf),W 79-62,,16,2,7,0.286,2,4,0.5,0,3,0.0,0.429,1,2,0.5,1,1,2,2,1,0,1,0,7,4.9,H,1,1,darius-thompson-1,Darius Thompson,2017
+16,90,16,2017-01-14,Virginia,@,Clemson,REG (Conf),W 77-73,,25,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,4,4,2,0,1,1,0,7,7.7,A,1,1,darius-thompson-1,Darius Thompson,2017
+17,91,17,2017-01-18,Virginia,@,Boston College,REG (Conf),W 71-54,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,0,0,4,2,0,0,0,10,11.8,A,1,1,darius-thompson-1,Darius Thompson,2017
+18,92,18,2017-01-21,Virginia,,Georgia Tech,REG (Conf),W 62-49,,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,0,4,4,2,3,1,0,3,4,6.0,H,1,1,darius-thompson-1,Darius Thompson,2017
+19,93,19,2017-01-24,Virginia,@,Notre Dame,REG (Conf),W 71-54,,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,5,3,0,1,1,0,4.3,A,1,1,darius-thompson-1,Darius Thompson,2017
+20,94,20,2017-01-29,Virginia,@,Villanova,REG (Non-Conf),L 59-61,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,2,1,0,1,0,3,3.4,A,0,1,darius-thompson-1,Darius Thompson,2017
+21,95,21,2017-02-01,Virginia,,Virginia Tech,REG (Conf),W 71-48,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,1,1,2,-0.1,H,1,1,darius-thompson-1,Darius Thompson,2017
+22,96,22,2017-02-04,Virginia,@,Syracuse,REG (Conf),L 62-66,,10,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,2,0,0,0,0,2,1.7,A,0,1,darius-thompson-1,Darius Thompson,2017
+23,97,23,2017-02-06,Virginia,,Louisville,REG (Conf),W 71-55,,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,0,4,4,4,0,0,1,2,10,8.9,H,1,1,darius-thompson-1,Darius Thompson,2017
+24,98,24,2017-02-12,Virginia,@,Virginia Tech,REG (Conf),L 78-80 (2OT),,27,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,3,3,0,0,2,4,7.3,A,0,1,darius-thompson-1,Darius Thompson,2017
+25,99,25,2017-02-15,Virginia,,Duke,REG (Conf),L 55-65,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,H,0,1,darius-thompson-1,Darius Thompson,2017
+26,100,26,2017-02-18,Virginia,@,North Carolina,REG (Conf),L 41-65,,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,0,0,1,0,1,1,1,3,0.2,A,0,1,darius-thompson-1,Darius Thompson,2017
+27,101,27,2017-02-20,Virginia,,Miami (FL),REG (Conf),L 48-54 (OT),,19,1,7,0.143,0,0,,1,7,0.143,0.143,2,2,1.0,0,0,0,4,1,0,1,2,4,1.5,H,0,1,darius-thompson-1,Darius Thompson,2017
+28,102,29,2017-02-27,Virginia,,North Carolina,REG (Conf),W 53-43,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,0,0,-0.8,H,1,1,darius-thompson-1,Darius Thompson,2017
+29,103,30,2017-03-04,Virginia,,Pittsburgh,REG (Conf),W 67-42,,24,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,1,2,1,1,0,1,1,8,6.3,H,1,1,darius-thompson-1,Darius Thompson,2017
+30,104,31,2017-03-08,Virginia,N,Pittsburgh,CTOURN,W 75-63,,16,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,1,0,0,0,1,6,4.3,N,1,0,darius-thompson-1,Darius Thompson,2017
+31,105,32,2017-03-09,Virginia,N,Notre Dame,CTOURN,L 58-71,,28,4,7,0.571,3,5,0.6,1,2,0.5,0.786,1,2,0.5,0,0,0,0,0,0,1,1,12,6.9,N,0,0,darius-thompson-1,Darius Thompson,2017
+32,106,33,2017-03-16,Virginia,N,UNC Wilmington,ROUND-64,W 76-71,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,12,0.5,0,4,4,1,1,4,0,1,10,9.5,N,1,0,darius-thompson-1,Darius Thompson,2017
+33,107,34,2017-03-18,Virginia,N,Florida,ROUND-32,L 39-65,,35,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,1,1,2,3,1,0,1,2,6,4.6,N,0,0,darius-thompson-1,Darius Thompson,2017

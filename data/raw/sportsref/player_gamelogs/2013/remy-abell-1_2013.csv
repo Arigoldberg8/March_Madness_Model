@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-09,Indiana,,Bryant,REG (Non-Conf),W 97-54,,18,2,2,1.0,2,2,1.0,0,0,,1.5,6,6,1.0,1,0,1,1,0,0,0,0,12,12.8,H,1,1,remy-abell-1,Remy Abell,2013
+2,34,2,2012-11-12,Indiana,,North Dakota State,REG (Non-Conf),W 87-61,,17,5,5,1.0,3,3,1.0,2,2,1.0,1.3,1,2,0.5,3,2,5,1,0,0,1,0,14,14.5,H,1,1,remy-abell-1,Remy Abell,2013
+3,35,3,2012-11-15,Indiana,,Sam Houston State,REG (Non-Conf),W 99-45,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,0,1,2,0,0,0,1,3,2.6,H,1,1,remy-abell-1,Remy Abell,2013
+4,36,4,2012-11-19,Indiana,N,Georgia,REG (Non-Conf),W 66-53,,12,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,1,3,4,1,1,0,2,2,8,7.9,N,1,1,remy-abell-1,Remy Abell,2013
+5,37,5,2012-11-20,Indiana,N,Georgetown,REG (Non-Conf),W 82-72 (OT),,12,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,1,1,1,0,0,0,1,6,4.6,N,1,1,remy-abell-1,Remy Abell,2013
+6,38,6,2012-11-25,Indiana,,Ball State,REG (Non-Conf),W 101-53,,21,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,0,1,0,1,3,4,2.1,H,1,1,remy-abell-1,Remy Abell,2013
+7,39,7,2012-11-27,Indiana,,North Carolina,REG (Non-Conf),W 83-59,,15,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,2,2,4,1,0,0,1,2,3,0.1,H,1,1,remy-abell-1,Remy Abell,2013
+8,40,8,2012-12-01,Indiana,,Coppin State,REG (Non-Conf),W 87-51,,12,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,0,0,3,1,0,1,1,10,10.5,H,1,1,remy-abell-1,Remy Abell,2013
+9,41,9,2012-12-08,Indiana,,Central Connecticut State,REG (Non-Conf),W 100-69,,17,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,1,1,2,3,0,0,0,1,4,4.0,H,1,1,remy-abell-1,Remy Abell,2013
+10,42,10,2012-12-15,Indiana,N,Butler,REG (Non-Conf),L 86-88 (OT),,15,1,6,0.167,0,1,0.0,1,5,0.2,0.167,4,5,0.8,1,3,4,0,1,0,1,1,6,3.0,N,0,1,remy-abell-1,Remy Abell,2013
+11,43,11,2012-12-19,Indiana,,Mount St. Mary's,REG (Non-Conf),W 93-54,,22,5,5,1.0,1,1,1.0,4,4,1.0,1.1,1,3,0.333,4,2,6,4,0,0,1,0,12,14.9,H,1,1,remy-abell-1,Remy Abell,2013
+12,44,12,2012-12-21,Indiana,,Florida Atlantic,REG (Non-Conf),W 88-52,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,1,1,0,3,4,2,-2.6,H,1,1,remy-abell-1,Remy Abell,2013
+13,45,13,2012-12-28,Indiana,,Jacksonville,REG (Non-Conf),W 93-59,,20,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,1,1,2,3,0,0,1,3,4,1.8,H,1,1,remy-abell-1,Remy Abell,2013
+14,46,14,2012-12-31,Indiana,@,Iowa,REG (Conf),W 69-65,,12,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,0,1,1,0,0,0,0,3,2.3,A,1,1,remy-abell-1,Remy Abell,2013
+15,47,15,2013-01-07,Indiana,@,Penn State,REG (Conf),W 74-51,,14,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,0,0,2,1,0,0,2,7,8.0,A,1,1,remy-abell-1,Remy Abell,2013
+16,48,16,2013-01-12,Indiana,,Minnesota,REG (Conf),W 88-81,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,0,0,0,2,2,1,-4.3,H,1,1,remy-abell-1,Remy Abell,2013
+17,49,17,2013-01-15,Indiana,,Wisconsin,REG (Conf),L 59-64,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,1,2,0,-1.2,H,0,1,remy-abell-1,Remy Abell,2013
+18,50,18,2013-01-20,Indiana,@,Northwestern,REG (Conf),W 67-59,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,1,0,0,0,2,0,-1.6,A,1,1,remy-abell-1,Remy Abell,2013
+19,51,19,2013-01-23,Indiana,,Penn State,REG (Conf),W 72-49,,9,0,2,0.0,0,0,,0,2,0.0,0.0,2,4,0.5,1,0,1,1,0,0,3,1,2,-2.2,H,1,1,remy-abell-1,Remy Abell,2013
+20,52,20,2013-01-27,Indiana,,Michigan State,REG (Conf),W 75-70,,6,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,4,3.4,H,1,1,remy-abell-1,Remy Abell,2013
+21,53,21,2013-01-30,Indiana,@,Purdue,REG (Conf),W 97-60,,18,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,2,3,5,1,1,0,0,1,6,7.6,A,1,1,remy-abell-1,Remy Abell,2013
+22,54,22,2013-02-02,Indiana,,Michigan,REG (Conf),W 81-73,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,2,0,2,-1.4,H,1,1,remy-abell-1,Remy Abell,2013
+23,55,23,2013-02-07,Indiana,@,Illinois,REG (Conf),L 72-74,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,remy-abell-1,Remy Abell,2013
+24,56,24,2013-02-10,Indiana,@,Ohio State,REG (Conf),W 81-68,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,remy-abell-1,Remy Abell,2013
+25,57,25,2013-02-13,Indiana,,Nebraska,REG (Conf),W 76-47,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,1,1.0,0,0,0,0,1,0,0,0,6,5.7,H,1,1,remy-abell-1,Remy Abell,2013
+26,58,26,2013-02-16,Indiana,,Purdue,REG (Conf),W 83-55,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,0,2,1.0,H,1,1,remy-abell-1,Remy Abell,2013
+27,59,27,2013-02-19,Indiana,@,Michigan State,REG (Conf),W 72-68,,5,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-0.1,A,1,1,remy-abell-1,Remy Abell,2013
+28,60,28,2013-02-26,Indiana,@,Minnesota,REG (Conf),L 73-77,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,A,0,1,remy-abell-1,Remy Abell,2013
+29,61,29,2013-03-02,Indiana,,Iowa,REG (Conf),W 73-60,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,0,1,2,1.6,H,1,1,remy-abell-1,Remy Abell,2013
+30,62,30,2013-03-05,Indiana,,Ohio State,REG (Conf),L 58-67,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,1,0,0,0,0,1.0,H,0,1,remy-abell-1,Remy Abell,2013
+31,63,31,2013-03-10,Indiana,@,Michigan,REG (Conf),W 72-71,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,0,1,1,0,0,1,0,0,-1.7,A,1,1,remy-abell-1,Remy Abell,2013
+32,64,32,2013-03-15,Indiana,N,Illinois,CTOURN,W 80-64,,12,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,2,0,0,2,2,5,2.9,N,1,0,remy-abell-1,Remy Abell,2013
+33,65,33,2013-03-16,Indiana,N,Wisconsin,CTOURN,L 56-68,,15,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,2,0.5,0,2,2,0,1,0,0,0,6,6.6,N,0,0,remy-abell-1,Remy Abell,2013
+34,66,34,2013-03-22,Indiana,N,James Madison,ROUND-64,W 83-62,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,1,0,1,0,0,0,1,0,7,5.4,N,1,0,remy-abell-1,Remy Abell,2013
+35,67,35,2013-03-24,Indiana,N,Temple,ROUND-32,W 58-52,,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,1,0,remy-abell-1,Remy Abell,2013
+36,68,36,2013-03-28,Indiana,N,Syracuse,ROUND-16,L 50-61,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,0,0,1,2,1.2,N,0,0,remy-abell-1,Remy Abell,2013

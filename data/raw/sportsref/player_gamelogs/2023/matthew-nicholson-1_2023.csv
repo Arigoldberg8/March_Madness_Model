@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,25,1,2022-11-07,Northwestern,,Chicago State,REG (Non-Conf),W 85-54,,14,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,0,4,4,0,1,1,0,1,9,9.2,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+2,26,2,2022-11-11,Northwestern,,Northern Illinois,REG (Non-Conf),W 63-46,,15,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,6,7,0,0,2,2,2,8,7.2,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+3,27,3,2022-11-15,Northwestern,@,Georgetown,REG (Non-Conf),W 75-63,,19,3,5,0.6,0,0,3,5,0.6,0.6,3,6,0.5,5,4,9,1,1,2,2,1,9,10.9,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+4,28,4,2022-11-18,Northwestern,,Purdue Fort Wayne,REG (Non-Conf),W 60-52,,21,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,0,5,5,3,0,2,1,1,2,4.2,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+5,29,5,2022-11-22,Northwestern,N,Liberty,REG (Non-Conf),W 66-52,,21,3,4,0.75,0,0,3,4,0.75,0.75,0,3,0.0,2,3,5,0,0,1,3,0,6,3.2,N,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+6,30,6,2022-11-23,Northwestern,N,Auburn,REG (Non-Conf),L 42-43,,19,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,2,2,4,0,1,2,2,3,7,6.5,N,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+7,31,7,2022-11-28,Northwestern,,Pittsburgh,REG (Non-Conf),L 58-87,,14,1,3,0.333,0,0,1,3,0.333,0.333,1,4,0.25,1,0,1,2,0,2,0,1,3,3.2,H,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+8,32,8,2022-12-04,Northwestern,@,Michigan State,REG (Conf),W 70-63,,18,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,2,2,4,0,1,1,1,2,7,6.5,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+9,33,9,2022-12-11,Northwestern,,Prairie View A&M,REG (Non-Conf),W 61-51,,21,2,4,0.5,0,0,2,4,0.5,0.5,5,6,0.833,2,8,10,1,0,0,0,3,9,9.9,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+10,34,10,2022-12-17,Northwestern,,DePaul,REG (Non-Conf),W 83-45,*,20,3,7,0.429,0,0,3,7,0.429,0.429,3,4,0.75,3,5,8,3,2,1,1,1,9,11.9,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+11,35,11,2022-12-20,Northwestern,,Illinois–Chicago,REG (Non-Conf),W 92-54,*,17,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,5,7,2,0,1,1,1,7,7.9,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+12,36,12,2022-12-29,Northwestern,,Brown,REG (Non-Conf),W 63-58,*,28,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,6,5,11,3,1,2,0,4,5,10.5,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+13,37,13,2023-01-01,Northwestern,,Ohio State,REG (Conf),L 57-73,*,21,0,7,0.0,0,0,0,7,0.0,0.0,0,4,0.0,8,5,13,1,0,2,1,4,0,0.1,H,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+14,38,14,2023-01-04,Northwestern,,Illinois,REG (Conf),W 73-60,*,25,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,3,3,6,1,2,0,1,2,7,8.6,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+15,39,15,2023-01-08,Northwestern,@,Indiana,REG (Conf),W 84-83,*,32,4,7,0.571,0,0,4,7,0.571,0.571,0,2,0.0,2,3,5,1,2,2,0,1,8,9.9,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+16,40,16,2023-01-11,Northwestern,,Rutgers,REG (Conf),L 62-65,*,30,1,4,0.25,0,0,1,4,0.25,0.25,1,6,0.167,3,4,7,3,0,2,1,1,3,4.0,H,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+17,41,17,2023-01-15,Northwestern,@,Michigan,REG (Conf),L 78-85,*,20,5,5,1.0,0,0,5,5,1.0,1.0,3,6,0.5,3,2,5,0,0,1,0,4,13,12.1,A,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+18,42,18,2023-01-23,Northwestern,,Wisconsin,REG (Conf),W 66-63,*,24,1,3,0.333,0,0,1,3,0.333,0.333,5,6,0.833,1,5,6,1,0,0,2,4,7,4.2,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+19,43,19,2023-01-25,Northwestern,@,Nebraska,REG (Conf),W 78-63,*,20,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,1,4,5,1,0,2,1,1,8,8.9,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+20,44,20,2023-01-28,Northwestern,,Minnesota,REG (Conf),W 81-61,*,14,2,5,0.4,0,0,2,5,0.4,0.4,2,3,0.667,1,1,2,0,0,2,1,3,6,3.1,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+21,45,21,2023-01-31,Northwestern,@,Iowa,REG (Conf),L 70-86,*,22,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,2,3,5,1,1,0,1,3,5,5.8,A,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+22,46,22,2023-02-02,Northwestern,,Michigan,REG (Conf),L 51-68,*,20,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,3,4,7,2,0,1,0,3,4,5.4,H,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+23,47,23,2023-02-05,Northwestern,@,Wisconsin,REG (Conf),W 54-52,*,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,3,3,1,2,1,1,4,4,5.1,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+24,48,24,2023-02-09,Northwestern,@,Ohio State,REG (Conf),W 69-63,*,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,3,3,2,0,0,1,2,4,3.9,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+25,49,25,2023-02-12,Northwestern,,Purdue,REG (Conf),W 64-58,*,27,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,3,1,4,3,1,0,2,2,6,6.0,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+26,50,26,2023-02-15,Northwestern,,Indiana,REG (Conf),W 64-62,*,24,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,1,0,2,0,1,2,4.0,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+27,51,27,2023-02-19,Northwestern,,Iowa,REG (Conf),W 80-60,*,18,4,5,0.8,0,0,4,5,0.8,0.8,1,4,0.25,1,2,3,1,1,1,1,3,9,7.4,H,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+28,52,28,2023-02-23,Northwestern,@,Illinois,REG (Conf),L 62-66,*,26,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,2,3,5,2,1,1,0,2,2,5.1,A,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+29,53,29,2023-02-26,Northwestern,@,Maryland,REG (Conf),L 59-75,*,23,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,2,3,5,0,0,1,1,2,10,9.7,A,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+30,54,30,2023-03-01,Northwestern,,Penn State,REG (Conf),L 65-68 (OT),*,10,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,2,0,2,2,0,0,0,0,0,1.4,H,0,1,matthew-nicholson-1,Matthew Nicholson,2023
+31,55,31,2023-03-05,Northwestern,@,Rutgers,REG (Conf),W 65-53,*,28,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,3,3,6,2,1,4,1,1,10,14.6,A,1,1,matthew-nicholson-1,Matthew Nicholson,2023
+32,56,32,2023-03-10,Northwestern,N,Penn State,CTOURN,L 65-67 (OT),*,21,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,2,3,5,1,2,1,0,1,4,6.5,N,0,0,matthew-nicholson-1,Matthew Nicholson,2023
+33,57,33,2023-03-16,Northwestern,N,Boise State,ROUND-64,W 75-67,*,18,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,0,1,1,0,1,0,1,3,5,3.5,N,1,0,matthew-nicholson-1,Matthew Nicholson,2023
+34,58,34,2023-03-18,Northwestern,N,UCLA,ROUND-32,L 63-68,*,31,7,7,1.0,0,0,7,7,1.0,1.0,3,4,0.75,5,4,9,0,1,0,1,1,17,18.8,N,0,0,matthew-nicholson-1,Matthew Nicholson,2023

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,142,1,2025-11-03,UCF,,Hofstra,REG (Non-Conf),W 82-78,,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,6,0.333,3,3,6,1,0,1,1,3,7,5.6,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+2,143,2,2025-11-08,UCF,,Vanderbilt,REG (Non-Conf),L 93-105,*,31,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,6,0.667,0,5,5,2,0,0,2,4,12,7.2,H,0,1,devan-cambridge-1,Devan Cambridge,2026
+3,144,3,2025-11-11,UCF,,Florida A&M,REG (Non-Conf),W 97-60,,20,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,1,1.0,1,4,5,4,0,0,0,0,8,11.8,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+4,145,4,2025-11-14,UCF,@,Texas A&M,REG (Non-Conf),W 86-74,,12,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,1,1,0,-2.2,A,1,1,devan-cambridge-1,Devan Cambridge,2026
+5,146,5,2025-11-17,UCF,,Oakland,REG (Non-Conf),W 87-83,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,2,0,1,1,3,2,1.2,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+6,147,6,2025-11-20,UCF,N,Pittsburgh,REG (Non-Conf),W 77-67,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,3,4,1,1,0,0,1,5,5.5,N,1,1,devan-cambridge-1,Devan Cambridge,2026
+7,148,7,2025-11-25,UCF,,Quinnipiac,REG (Non-Conf),W 102-91,,24,1,4,0.25,1,2,0.5,0,2,0.0,0.375,5,6,0.833,0,5,5,1,1,2,1,1,8,8.4,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+8,149,8,2025-11-29,UCF,,VMI,REG (Non-Conf),W 82-57,,21,3,8,0.375,0,3,0.0,3,5,0.6,0.375,2,2,1.0,3,4,7,2,1,2,1,3,8,8.5,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+9,150,9,2025-12-07,UCF,,Towson,REG (Non-Conf),W 86-61,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+10,151,10,2025-12-17,UCF,,Mercer,REG (Non-Conf),W 81-63,,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,2,1,3,1,1,1,1,1,2,3.7,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+11,152,11,2025-12-20,UCF,,Florida Gulf Coast,REG (Non-Conf),W 102-80,,19,6,7,0.857,4,4,1.0,2,3,0.667,1.143,0,0,,1,2,3,0,1,0,0,2,16,15.0,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+12,153,12,2025-12-23,UCF,N,Florida Atlantic,REG (Non-Conf),W 85-80,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,3,4,0,0,0,0,4,0,-0.7,N,1,1,devan-cambridge-1,Devan Cambridge,2026
+13,154,13,2026-01-03,UCF,,Kansas,REG (Conf),W 81-75,,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,6,7,0.857,3,5,8,1,1,0,0,1,8,10.1,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+14,155,14,2026-01-06,UCF,@,Oklahoma State,REG (Conf),L 76-87,,26,3,8,0.375,0,2,0.0,3,6,0.5,0.375,5,5,1.0,5,6,11,2,2,2,1,4,11,14.1,A,0,1,devan-cambridge-1,Devan Cambridge,2026
+15,156,15,2026-01-11,UCF,,Cincinnati,REG (Conf),W 73-72,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,1,2,4,2,-1.3,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+16,157,16,2026-01-14,UCF,@,Kansas State,REG (Conf),W 82-73,,25,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,3,0.667,1,5,6,2,1,1,0,0,11,14.7,A,1,1,devan-cambridge-1,Devan Cambridge,2026
+17,158,17,2026-01-17,UCF,,Arizona,REG (Conf),L 77-84,,16,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,1,1,2,0,0,0,2,4,2,-2.0,H,0,1,devan-cambridge-1,Devan Cambridge,2026
+18,159,18,2026-01-20,UCF,@,Iowa State,REG (Conf),L 57-87,*,27,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,2,3,1,0,3,1,3,8,8.3,A,0,1,devan-cambridge-1,Devan Cambridge,2026
+19,160,19,2026-01-24,UCF,@,Colorado,REG (Conf),W 95-86,,25,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,1,1.0,0,1,1,2,0,0,0,2,11,9.3,A,1,1,devan-cambridge-1,Devan Cambridge,2026
+20,161,20,2026-01-27,UCF,,Arizona State,REG (Conf),W 79-76,,10,0,6,0.0,0,3,0.0,0,3,0.0,0.0,1,2,0.5,0,0,0,0,0,1,1,4,1,-5.5,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+21,162,21,2026-01-31,UCF,,Texas Tech,REG (Conf),W 88-80,,5,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,1,0,0,0,4,4,2.8,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+22,163,22,2026-02-04,UCF,@,Houston,REG (Conf),L 55-79,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,0,0,0,0,1,1,-0.6,A,0,1,devan-cambridge-1,Devan Cambridge,2026
+23,164,23,2026-02-08,UCF,@,Cincinnati,REG (Conf),L 72-92,,20,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,2,3,0,0,1,0,1,5,4.6,A,0,1,devan-cambridge-1,Devan Cambridge,2026
+24,165,24,2026-02-14,UCF,,West Virginia,REG (Conf),L 67-74,*,25,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,1,1.0,2,1,3,2,2,1,1,1,5,6.7,H,0,1,devan-cambridge-1,Devan Cambridge,2026
+25,166,25,2026-02-17,UCF,,TCU,REG (Conf),W 82-71,,18,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,6,6,1,1,0,1,3,6,5.0,H,1,1,devan-cambridge-1,Devan Cambridge,2026
+26,167,26,2026-02-21,UCF,@,Utah,REG (Conf),W 73-71,,13,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,0,1,0,0,1,7,7.0,A,1,1,devan-cambridge-1,Devan Cambridge,2026
+27,168,27,2026-02-24,UCF,@,Brigham Young,REG (Conf),W 97-84,,20,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,2,2,1,0,0,0,1,2,1.5,A,1,1,devan-cambridge-1,Devan Cambridge,2026
+28,169,28,2026-02-28,UCF,,Baylor,REG (Conf),L 86-87,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,1,1,2,0,1,2,0,2,8,7.9,H,0,1,devan-cambridge-1,Devan Cambridge,2026
+29,170,29,2026-03-03,UCF,,Oklahoma State,REG (Conf),L 104-111 (OT),,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,1,0.0,1,0,1,0,1,0,0,1,3,1.5,H,0,1,devan-cambridge-1,Devan Cambridge,2026
+30,171,30,2026-03-06,UCF,@,West Virginia,REG (Conf),L 62-77,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,4,4,0,0,0,0,0,3,2.1,A,0,1,devan-cambridge-1,Devan Cambridge,2026
+31,172,31,2026-03-11,UCF,N,Cincinnati,CTOURN,W 66-65 (OT),,12,0,2,0.0,0,2,0.0,0,0,,0.0,2,5,0.4,1,2,3,0,1,0,0,3,2,0.5,N,1,0,devan-cambridge-1,Devan Cambridge,2026
+32,173,32,2026-03-12,UCF,N,Arizona,CTOURN,L 59-81,,11,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,1,1,2,0,1,0,0,0,2,0.5,N,0,0,devan-cambridge-1,Devan Cambridge,2026

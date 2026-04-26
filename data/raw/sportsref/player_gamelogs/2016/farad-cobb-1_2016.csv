@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2015-11-13,Cincinnati,,Western Carolina,REG (Non-Conf),W 97-72,*,20,3,6,0.5,3,3,1.0,0,3,0.0,0.75,2,2,1.0,0,1,1,2,0,1,1,0,11,9.4,H,1,1,farad-cobb-1,Farad Cobb,2016
+2,62,2,2015-11-15,Cincinnati,,Robert Morris,REG (Non-Conf),W 106-44,*,17,6,9,0.667,3,6,0.5,3,3,1.0,0.833,0,0,,0,1,1,2,0,0,1,1,15,11.4,H,1,1,farad-cobb-1,Farad Cobb,2016
+3,63,3,2015-11-18,Cincinnati,@,Bowling Green,REG (Non-Conf),W 83-50,*,22,7,14,0.5,6,11,0.545,1,3,0.333,0.714,0,0,,0,2,2,1,1,0,2,2,20,12.5,A,1,1,farad-cobb-1,Farad Cobb,2016
+4,64,4,2015-11-22,Cincinnati,,Arkansas–Pine Bluff,REG (Non-Conf),W 99-50,*,25,7,11,0.636,4,6,0.667,3,5,0.6,0.818,2,2,1.0,1,1,2,3,4,0,1,0,20,21.2,H,1,1,farad-cobb-1,Farad Cobb,2016
+5,65,5,2015-11-24,Cincinnati,,Southeastern Louisiana,REG (Non-Conf),W 64-49,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,1,2,3,2,0,2,2,2,1.9,H,1,1,farad-cobb-1,Farad Cobb,2016
+6,66,6,2015-11-27,Cincinnati,N,Nebraska,REG (Non-Conf),W 65-61,*,16,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,2,2,1,1,0,0,0,2,0.5,N,1,1,farad-cobb-1,Farad Cobb,2016
+7,67,7,2015-11-28,Cincinnati,N,George Washington,REG (Non-Conf),W 61-56,*,24,4,10,0.4,3,7,0.429,1,3,0.333,0.55,0,0,,0,1,1,0,0,0,0,1,11,5.5,N,1,1,farad-cobb-1,Farad Cobb,2016
+8,68,8,2015-12-02,Cincinnati,,Butler,REG (Non-Conf),L 76-78,*,20,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,0,0,0,0,0,0,1,0,6,0.6,H,0,1,farad-cobb-1,Farad Cobb,2016
+9,69,9,2015-12-06,Cincinnati,,Morgan State,REG (Non-Conf),W 87-66,*,28,4,14,0.286,2,9,0.222,2,5,0.4,0.357,1,2,0.5,0,1,1,3,2,0,2,1,11,4.4,H,1,1,farad-cobb-1,Farad Cobb,2016
+10,70,10,2015-12-12,Cincinnati,@,Xavier,REG (Non-Conf),L 55-65,*,25,3,9,0.333,3,8,0.375,0,1,0.0,0.5,2,2,1.0,2,2,4,1,1,0,0,1,11,9.2,A,0,1,farad-cobb-1,Farad Cobb,2016
+11,71,11,2015-12-15,Cincinnati,,Norfolk State,REG (Non-Conf),W 75-59,*,27,7,14,0.5,5,8,0.625,2,6,0.333,0.679,1,2,0.5,0,3,3,2,2,0,1,0,20,15.9,H,1,1,farad-cobb-1,Farad Cobb,2016
+12,72,12,2015-12-19,Cincinnati,@,VCU,REG (Non-Conf),W 69-63,*,26,4,8,0.5,3,4,0.75,1,4,0.25,0.688,4,4,1.0,2,1,3,0,2,0,1,1,15,13.3,A,1,1,farad-cobb-1,Farad Cobb,2016
+13,73,13,2015-12-22,Cincinnati,,Iowa State,REG (Non-Conf),L 79-81,*,27,4,13,0.308,2,6,0.333,2,7,0.286,0.385,0,0,,0,1,1,3,0,0,3,1,10,1.5,H,0,1,farad-cobb-1,Farad Cobb,2016
+14,74,14,2015-12-29,Cincinnati,,Temple,REG (Conf),L 70-77,*,27,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,0,,0,2,2,1,0,0,1,1,10,4.5,H,0,1,farad-cobb-1,Farad Cobb,2016
+15,75,15,2016-01-02,Cincinnati,,Tulsa,REG (Conf),W 76-57,*,27,8,14,0.571,5,7,0.714,3,7,0.429,0.75,0,0,,1,3,4,2,2,0,1,0,21,18.4,H,1,1,farad-cobb-1,Farad Cobb,2016
+16,76,16,2016-01-07,Cincinnati,@,SMU,REG (Conf),L 57-59,*,31,6,13,0.462,6,11,0.545,0,2,0.0,0.692,0,0,,0,0,0,2,4,0,2,1,18,14.3,A,0,1,farad-cobb-1,Farad Cobb,2016
+17,77,17,2016-01-10,Cincinnati,@,South Florida,REG (Conf),W 54-51,*,23,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,1,2,0,0,1,3,2.2,A,1,1,farad-cobb-1,Farad Cobb,2016
+18,78,18,2016-01-13,Cincinnati,,Houston,REG (Conf),W 70-59,*,31,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,0,,1,1,2,1,3,0,0,0,14,12.7,H,1,1,farad-cobb-1,Farad Cobb,2016
+19,79,19,2016-01-16,Cincinnati,@,Temple,REG (Conf),L 65-67 (2OT),*,38,3,11,0.273,1,6,0.167,2,5,0.4,0.318,0,0,,0,1,1,3,2,0,1,0,7,3.9,A,0,1,farad-cobb-1,Farad Cobb,2016
+20,80,20,2016-01-21,Cincinnati,,Memphis,REG (Conf),W 76-72,*,24,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,4,0,0,0,0,3,4.7,H,1,1,farad-cobb-1,Farad Cobb,2016
+21,81,21,2016-01-24,Cincinnati,,Tulane,REG (Conf),W 97-75,*,22,6,9,0.667,2,5,0.4,4,4,1.0,0.778,2,3,0.667,1,0,1,3,3,0,0,2,16,16.7,H,1,1,farad-cobb-1,Farad Cobb,2016
+22,82,22,2016-01-28,Cincinnati,@,Connecticut,REG (Conf),W 58-57,*,33,4,12,0.333,3,8,0.375,1,4,0.25,0.458,2,2,1.0,2,4,6,1,1,0,1,1,13,9.1,A,1,1,farad-cobb-1,Farad Cobb,2016
+23,83,23,2016-02-04,Cincinnati,,South Florida,REG (Conf),W 88-57,*,23,4,14,0.286,2,9,0.222,2,5,0.4,0.357,0,0,,0,1,1,0,2,0,0,3,10,2.9,H,1,1,farad-cobb-1,Farad Cobb,2016
+24,84,24,2016-02-06,Cincinnati,@,Memphis,REG (Conf),L 59-63,*,30,2,10,0.2,1,6,0.167,1,4,0.25,0.25,0,0,,1,2,3,2,2,0,1,2,5,1.7,A,0,1,farad-cobb-1,Farad Cobb,2016
+25,85,25,2016-02-09,Cincinnati,@,UCF,REG (Conf),W 69-51,*,37,4,10,0.4,3,9,0.333,1,1,1.0,0.55,1,2,0.5,0,3,3,1,1,0,0,3,12,7.6,A,1,1,farad-cobb-1,Farad Cobb,2016
+26,86,26,2016-02-13,Cincinnati,,East Carolina,REG (Conf),W 75-60,*,26,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,2,1,0,1,1,3,1.6,H,1,1,farad-cobb-1,Farad Cobb,2016
+27,87,27,2016-02-18,Cincinnati,@,Tulsa,REG (Conf),L 68-70 (OT),*,24,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,0,0,1,0,0,0,2,8,4.9,A,0,1,farad-cobb-1,Farad Cobb,2016
+28,88,28,2016-02-20,Cincinnati,,Connecticut,REG (Conf),W 65-60,*,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,0,0,3,1,0,1,2,4,1.2,H,1,1,farad-cobb-1,Farad Cobb,2016
+29,89,31,2016-03-06,Cincinnati,,SMU,REG (Conf),W 61-54,*,23,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,0,0,0,1,0,0,1,6,2.5,H,1,1,farad-cobb-1,Farad Cobb,2016
+30,90,32,2016-03-11,Cincinnati,N,Connecticut,CTOURN,L 97-104 (4OT),*,51,4,11,0.364,4,11,0.364,0,0,,0.545,2,2,1.0,1,5,6,0,1,0,4,4,14,5.5,N,0,0,farad-cobb-1,Farad Cobb,2016
+31,91,33,2016-03-18,Cincinnati,N,Saint Joseph's,ROUND-64,L 76-78,*,34,4,11,0.364,4,10,0.4,0,1,0.0,0.545,0,0,,1,1,2,0,1,0,0,0,12,7.9,N,0,0,farad-cobb-1,Farad Cobb,2016

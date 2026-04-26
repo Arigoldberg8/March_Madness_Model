@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,Duke,,Georgia State,REG (Non-Conf),W 74-55,,13,1,1,1.0,0,0,1,1,1.0,1.0,3,5,0.6,1,1,2,1,1,0,0,0,5,6.6,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+2,2,2,2012-11-13,Duke,N,Kentucky,REG (Non-Conf),W 75-68,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,1,0,0.3,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+3,3,3,2012-11-18,Duke,,Florida Gulf Coast,REG (Non-Conf),W 88-67,,13,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,1,1,2,0,2,2,1,2,4,4.2,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+4,4,4,2012-11-22,Duke,N,Minnesota,REG (Non-Conf),W 89-71,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+5,5,5,2012-11-23,Duke,N,VCU,REG (Non-Conf),W 67-58,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+6,6,6,2012-11-24,Duke,N,Louisville,REG (Non-Conf),W 76-71,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+7,7,7,2012-11-28,Duke,,Ohio State,REG (Non-Conf),W 73-68,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+8,8,8,2012-12-01,Duke,,Delaware,REG (Non-Conf),W 88-50,,21,5,9,0.556,0,0,5,9,0.556,0.556,2,4,0.5,3,3,6,0,0,0,1,2,12,8.1,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+9,9,9,2012-12-08,Duke,N,Temple,REG (Non-Conf),W 90-67,,9,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,1,1,2,1,0,1,0,2,7,6.3,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+10,10,10,2012-12-19,Duke,,Cornell,REG (Non-Conf),W 88-47,,16,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,2,1,3,0,0,0,3,2,8,2.9,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+11,11,11,2012-12-20,Duke,,Elon,REG (Non-Conf),W 76-54,,12,0,0,,0,0,0,0,,,0,2,0.0,0,3,3,0,1,1,2,1,0,-0.6,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+12,12,13,2013-01-02,Duke,N,Davidson,REG (Non-Conf),W 67-50,,3,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,N,1,1,amile-jefferson-1,Amile Jefferson,2013
+13,13,14,2013-01-05,Duke,,Wake Forest,REG (Conf),W 80-62,,4,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,0,0,1,0,0.6,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+14,14,15,2013-01-08,Duke,,Clemson,REG (Conf),W 68-40,,9,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,1,2,3,0,1,0,0,1,5,5.6,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+15,15,16,2013-01-12,Duke,@,NC State,REG (Conf),L 76-84,,12,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,2,2,4,0,0,2,0,5,10,8.5,A,0,1,amile-jefferson-1,Amile Jefferson,2013
+16,16,17,2013-01-17,Duke,,Georgia Tech,REG (Conf),W 73-57,,28,3,7,0.429,0,0,3,7,0.429,0.429,0,1,0.0,6,4,10,0,2,1,1,4,6,7.4,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+17,17,18,2013-01-23,Duke,@,Miami (FL),REG (Conf),L 63-90,*,28,6,11,0.545,0,0,6,11,0.545,0.545,1,2,0.5,3,2,5,1,1,1,0,3,13,11.2,A,0,1,amile-jefferson-1,Amile Jefferson,2013
+18,18,19,2013-01-26,Duke,,Maryland,REG (Conf),W 84-64,*,24,3,8,0.375,0,0,3,8,0.375,0.375,5,9,0.556,5,4,9,1,0,3,0,3,11,11.3,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+19,19,20,2013-01-30,Duke,@,Wake Forest,REG (Conf),W 75-70,*,19,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,1,0,1,4,0,-1.0,A,1,1,amile-jefferson-1,Amile Jefferson,2013
+20,20,21,2013-02-02,Duke,@,Florida State,REG (Conf),W 79-60,*,29,4,4,1.0,0,0,4,4,1.0,1.0,3,4,0.75,1,3,4,1,1,1,1,0,11,12.4,A,1,1,amile-jefferson-1,Amile Jefferson,2013
+21,21,22,2013-02-07,Duke,,NC State,REG (Conf),W 98-85,*,25,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,3,5,0,0,1,1,3,4,3.5,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+22,22,23,2013-02-10,Duke,@,Boston College,REG (Conf),W 62-61,*,11,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,3,4,0,0,1,0,1,3,3.5,A,1,1,amile-jefferson-1,Amile Jefferson,2013
+23,23,24,2013-02-13,Duke,,North Carolina,REG (Conf),W 73-68,,20,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,3,5,8,0,1,0,0,2,2,3.4,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+24,24,25,2013-02-16,Duke,@,Maryland,REG (Conf),L 81-83,*,8,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,0,2,0,-0.2,A,0,1,amile-jefferson-1,Amile Jefferson,2013
+25,25,26,2013-02-21,Duke,@,Virginia Tech,REG (Conf),W 88-56,,17,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,2,3,5,0,0,0,0,1,4,3.5,A,1,1,amile-jefferson-1,Amile Jefferson,2013
+26,26,27,2013-02-24,Duke,,Boston College,REG (Conf),W 89-68,,21,5,7,0.714,0,0,5,7,0.714,0.714,4,5,0.8,1,0,1,1,1,1,0,5,14,11.8,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+27,27,28,2013-02-28,Duke,@,Virginia,REG (Conf),L 68-73,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,0,4,2,0.0,A,0,1,amile-jefferson-1,Amile Jefferson,2013
+28,28,30,2013-03-05,Duke,,Virginia Tech,REG (Conf),W 85-57,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,H,1,1,amile-jefferson-1,Amile Jefferson,2013
+29,29,31,2013-03-09,Duke,@,North Carolina,REG (Conf),W 69-53,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,amile-jefferson-1,Amile Jefferson,2013
+30,30,33,2013-03-22,Duke,N,Albany (NY),ROUND-64,W 73-61,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,amile-jefferson-1,Amile Jefferson,2013
+31,31,34,2013-03-24,Duke,N,Creighton,ROUND-32,W 66-50,,11,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,1,0,3,2,2.2,N,1,0,amile-jefferson-1,Amile Jefferson,2013
+32,32,36,2013-03-31,Duke,N,Louisville,ROUND-8,L 63-85,,5,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,amile-jefferson-1,Amile Jefferson,2013

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2014-11-14,Ohio State,,UMass Lowell,REG (Non-Conf),W 92-55,*,24,4,6,0.667,2,4,0.5,2,2,1.0,0.833,4,4,1.0,0,1,1,0,2,0,0,1,14,13.3,H,1,1,marc-loving-1,Marc Loving,2015
+2,37,2,2014-11-18,Ohio State,,Marquette,REG (Non-Conf),W 74-63,*,15,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,1,1.0,0,0,0,1,0,0,1,4,10,4.8,H,1,1,marc-loving-1,Marc Loving,2015
+3,38,3,2014-11-23,Ohio State,,Sacred Heart,REG (Non-Conf),W 106-48,*,22,3,5,0.6,3,5,0.6,0,0,,0.9,1,2,0.5,0,0,0,0,2,2,1,0,10,9.7,H,1,1,marc-loving-1,Marc Loving,2015
+4,39,4,2014-11-26,Ohio State,,Campbell,REG (Non-Conf),W 91-64,*,25,5,7,0.714,1,3,0.333,4,4,1.0,0.786,7,9,0.778,1,2,3,1,1,2,2,0,18,16.7,H,1,1,marc-loving-1,Marc Loving,2015
+5,40,5,2014-11-28,Ohio State,,James Madison,REG (Non-Conf),W 73-56,*,24,2,6,0.333,2,3,0.667,0,3,0.0,0.5,2,2,1.0,1,2,3,0,0,0,0,2,8,5.1,H,1,1,marc-loving-1,Marc Loving,2015
+6,41,6,2014-12-02,Ohio State,@,Louisville,REG (Non-Conf),L 55-64,*,26,4,7,0.571,2,3,0.667,2,4,0.5,0.714,3,4,0.75,3,3,6,0,1,0,1,5,13,10.3,A,0,1,marc-loving-1,Marc Loving,2015
+7,42,7,2014-12-06,Ohio State,,Colgate,REG (Non-Conf),W 70-50,*,29,5,8,0.625,3,6,0.5,2,2,1.0,0.813,4,4,1.0,3,2,5,3,1,1,2,0,17,17.9,H,1,1,marc-loving-1,Marc Loving,2015
+8,43,8,2014-12-10,Ohio State,,High Point,REG (Non-Conf),W 97-43,*,21,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,2,2,0,1,0,0,1,2,2.5,H,1,1,marc-loving-1,Marc Loving,2015
+9,44,9,2014-12-13,Ohio State,,Morehead State,REG (Non-Conf),W 87-71,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,4,1.0,0,1,1,1,1,1,0,2,6,5.5,H,1,1,marc-loving-1,Marc Loving,2015
+10,45,10,2014-12-17,Ohio State,,North Carolina A&T,REG (Non-Conf),W 97-55,*,15,4,5,0.8,3,4,0.75,1,1,1.0,1.1,4,4,1.0,0,2,2,1,1,0,1,2,15,13.6,H,1,1,marc-loving-1,Marc Loving,2015
+11,46,11,2014-12-20,Ohio State,N,North Carolina,REG (Non-Conf),L 74-82,*,32,6,15,0.4,5,8,0.625,1,7,0.143,0.567,2,2,1.0,2,2,4,0,0,1,4,4,19,8.0,N,0,1,marc-loving-1,Marc Loving,2015
+12,47,12,2014-12-22,Ohio State,,Miami (OH),REG (Non-Conf),W 93-55,*,23,4,7,0.571,2,3,0.667,2,4,0.5,0.714,6,6,1.0,1,7,8,4,1,0,1,3,16,17.1,H,1,1,marc-loving-1,Marc Loving,2015
+13,48,13,2014-12-27,Ohio State,,Wright State,REG (Non-Conf),W 100-55,*,25,4,9,0.444,2,4,0.5,2,5,0.4,0.556,3,4,0.75,1,4,5,0,0,0,5,2,13,4.0,H,1,1,marc-loving-1,Marc Loving,2015
+14,49,14,2014-12-30,Ohio State,,Iowa,REG (Conf),L 65-71,*,31,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,1,0.0,3,3,6,1,1,0,2,3,10,5.7,H,0,1,marc-loving-1,Marc Loving,2015
+15,50,15,2015-01-03,Ohio State,,Illinois,REG (Conf),W 77-61,*,34,5,8,0.625,2,3,0.667,3,5,0.6,0.75,1,2,0.5,1,7,8,1,1,0,2,2,13,10.7,H,1,1,marc-loving-1,Marc Loving,2015
+16,51,16,2015-01-06,Ohio State,@,Minnesota,REG (Conf),W 74-72 (OT),*,34,6,12,0.5,0,1,0.0,6,11,0.545,0.5,1,3,0.333,3,4,7,2,0,0,1,3,13,8.7,A,1,1,marc-loving-1,Marc Loving,2015
+17,52,17,2015-01-10,Ohio State,@,Indiana,REG (Conf),L 66-69,*,26,3,11,0.273,0,5,0.0,3,6,0.5,0.273,1,4,0.25,4,2,6,0,0,0,1,3,7,0.5,A,0,1,marc-loving-1,Marc Loving,2015
+18,53,18,2015-01-13,Ohio State,,Michigan,REG (Conf),W 71-52,*,26,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,6,7,1,0,0,1,2,6,4.0,H,1,1,marc-loving-1,Marc Loving,2015
+19,54,19,2015-01-17,Ohio State,@,Iowa,REG (Conf),L 67-76,*,31,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,0,0,0,0,0,0,0,3,10,4.1,A,0,1,marc-loving-1,Marc Loving,2015
+20,55,20,2015-01-22,Ohio State,@,Northwestern,REG (Conf),W 69-67,,19,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,1,0.0,1,0,1,0,1,0,2,3,6,1.4,A,1,1,marc-loving-1,Marc Loving,2015
+21,56,21,2015-01-25,Ohio State,,Indiana,REG (Conf),W 82-70,,32,3,8,0.375,1,3,0.333,2,5,0.4,0.438,5,5,1.0,2,3,5,1,0,0,1,2,12,8.8,H,1,1,marc-loving-1,Marc Loving,2015
+22,57,22,2015-01-29,Ohio State,,Maryland,REG (Conf),W 80-56,,31,7,11,0.636,5,5,1.0,2,6,0.333,0.864,0,0,,3,3,6,1,0,0,1,3,19,15.6,H,1,1,marc-loving-1,Marc Loving,2015
+23,58,26,2015-02-14,Ohio State,@,Michigan State,REG (Conf),L 56-59,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,marc-loving-1,Marc Loving,2015
+24,59,27,2015-02-22,Ohio State,@,Michigan,REG (Conf),L 57-64,,17,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,1,3,4,0,1,1,2,1,4,2.5,A,0,1,marc-loving-1,Marc Loving,2015
+25,60,28,2015-02-26,Ohio State,,Nebraska,REG (Conf),W 81-57,,19,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,2,1,3,2,0,0,0,2,6,4.9,H,1,1,marc-loving-1,Marc Loving,2015
+26,61,29,2015-03-01,Ohio State,,Purdue,REG (Conf),W 65-61,,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,4,6,0.667,2,1,3,0,0,0,0,1,6,4.1,H,1,1,marc-loving-1,Marc Loving,2015
+27,62,30,2015-03-04,Ohio State,@,Penn State,REG (Conf),W 77-67,,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,3,4,0.75,2,7,9,0,0,0,2,2,3,0.5,A,1,1,marc-loving-1,Marc Loving,2015
+28,63,31,2015-03-08,Ohio State,,Wisconsin,REG (Conf),L 48-72,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,1,1,0,-2.1,H,0,1,marc-loving-1,Marc Loving,2015
+29,64,32,2015-03-12,Ohio State,N,Minnesota,CTOURN,W 79-73,,25,5,8,0.625,1,3,0.333,4,5,0.8,0.688,1,2,0.5,1,4,5,0,1,0,1,2,12,9.1,N,1,0,marc-loving-1,Marc Loving,2015
+30,65,33,2015-03-13,Ohio State,N,Michigan State,CTOURN,L 67-76,,22,1,3,0.333,1,3,0.333,0,0,,0.5,0,2,0.0,0,1,1,0,0,1,0,3,3,0.3,N,0,0,marc-loving-1,Marc Loving,2015
+31,66,34,2015-03-19,Ohio State,N,VCU,ROUND-64,W 75-72 (OT),,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,2,2,0,0,0,0,3,3,1.4,N,1,0,marc-loving-1,Marc Loving,2015
+32,67,35,2015-03-21,Ohio State,N,Arizona,ROUND-32,L 58-73,,18,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,1,1.0,2,1,3,0,0,0,2,2,8,2.5,N,0,0,marc-loving-1,Marc Loving,2015

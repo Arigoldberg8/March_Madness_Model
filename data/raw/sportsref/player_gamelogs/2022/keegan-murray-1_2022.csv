@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2021-11-09,Iowa,,Longwood,REG (Non-Conf),W 106-73,*,17,8,10,0.8,3,4,0.75,5,6,0.833,0.95,5,5,1.0,2,5,7,1,0,5,0,3,24,26.1,H,1,1,keegan-murray-1,Keegan Murray,2022
+2,33,2,2021-11-12,Iowa,,Kansas City,REG (Non-Conf),W 89-57,*,23,9,15,0.6,1,3,0.333,8,12,0.667,0.633,6,6,1.0,0,4,4,1,3,1,2,2,25,20.9,H,1,1,keegan-murray-1,Keegan Murray,2022
+3,34,3,2021-11-16,Iowa,,North Carolina Central,REG (Non-Conf),W 86-69,*,37,9,19,0.474,0,4,0.0,9,15,0.6,0.474,9,10,0.9,9,12,21,2,0,4,2,2,27,28.2,H,1,1,keegan-murray-1,Keegan Murray,2022
+4,35,4,2021-11-18,Iowa,,Alabama State,REG (Non-Conf),W 108-82,*,22,10,16,0.625,2,5,0.4,8,11,0.727,0.688,4,5,0.8,2,4,6,4,1,1,2,1,26,23.1,H,1,1,keegan-murray-1,Keegan Murray,2022
+5,36,5,2021-11-22,Iowa,,Western Michigan,REG (Non-Conf),W 109-61,*,21,10,14,0.714,2,4,0.5,8,10,0.8,0.786,7,9,0.778,3,3,6,0,2,3,0,0,29,29.5,H,1,1,keegan-murray-1,Keegan Murray,2022
+6,37,6,2021-11-26,Iowa,,Portland State,REG (Non-Conf),W 85-51,*,27,10,16,0.625,1,5,0.2,9,11,0.818,0.656,2,2,1.0,3,6,9,0,2,1,0,1,23,22.0,H,1,1,keegan-murray-1,Keegan Murray,2022
+7,38,7,2021-11-29,Iowa,@,Virginia,REG (Non-Conf),W 75-74,*,36,7,13,0.538,1,4,0.25,6,9,0.667,0.577,3,5,0.6,2,7,9,3,0,1,2,1,18,14.8,A,1,1,keegan-murray-1,Keegan Murray,2022
+8,39,9,2021-12-06,Iowa,,Illinois,REG (Conf),L 83-87,*,30,7,15,0.467,1,4,0.25,6,11,0.545,0.5,4,7,0.571,1,1,2,0,3,2,1,1,19,14.1,H,0,1,keegan-murray-1,Keegan Murray,2022
+9,40,10,2021-12-09,Iowa,@,Iowa State,REG (Non-Conf),L 53-73,*,37,4,17,0.235,1,6,0.167,3,11,0.273,0.265,0,0,,6,1,7,1,3,2,1,3,9,6.1,A,0,1,keegan-murray-1,Keegan Murray,2022
+10,41,11,2021-12-18,Iowa,N,Utah State,REG (Non-Conf),W 94-75,*,29,13,17,0.765,2,5,0.4,11,12,0.917,0.824,7,8,0.875,3,4,7,1,2,1,1,1,35,33.2,N,1,1,keegan-murray-1,Keegan Murray,2022
+11,42,12,2021-12-21,Iowa,,Southeastern Louisiana,REG (Non-Conf),W 93-62,*,24,8,13,0.615,1,5,0.2,7,8,0.875,0.654,3,3,1.0,3,7,10,1,0,0,1,2,20,17.2,H,1,1,keegan-murray-1,Keegan Murray,2022
+12,43,13,2021-12-29,Iowa,,Western Illinois,REG (Non-Conf),W 92-71,*,35,13,20,0.65,1,4,0.25,12,16,0.75,0.675,2,3,0.667,2,8,10,3,3,3,1,1,29,29.4,H,1,1,keegan-murray-1,Keegan Murray,2022
+13,44,14,2022-01-03,Iowa,,Maryland,REG (Conf),W 80-75,*,38,14,21,0.667,5,6,0.833,9,15,0.6,0.786,2,3,0.667,4,4,8,1,1,3,1,1,35,31.9,H,1,1,keegan-murray-1,Keegan Murray,2022
+14,45,15,2022-01-06,Iowa,@,Wisconsin,REG (Conf),L 78-87,*,35,10,16,0.625,2,4,0.5,8,12,0.667,0.688,5,9,0.556,1,4,5,0,1,3,3,0,27,20.2,A,0,1,keegan-murray-1,Keegan Murray,2022
+15,46,16,2022-01-13,Iowa,,Indiana,REG (Conf),W 83-74,*,22,5,9,0.556,1,3,0.333,4,6,0.667,0.611,1,2,0.5,3,6,9,0,1,2,1,4,12,11.0,H,1,1,keegan-murray-1,Keegan Murray,2022
+16,47,17,2022-01-16,Iowa,@,Minnesota,REG (Conf),W 81-71,*,36,11,17,0.647,1,3,0.333,10,14,0.714,0.676,2,3,0.667,4,6,10,0,2,2,0,2,25,24.3,A,1,1,keegan-murray-1,Keegan Murray,2022
+17,48,18,2022-01-19,Iowa,@,Rutgers,REG (Conf),L 46-48,*,35,5,14,0.357,2,6,0.333,3,8,0.375,0.429,1,2,0.5,3,10,13,1,1,2,2,4,13,9.4,A,0,1,keegan-murray-1,Keegan Murray,2022
+18,49,19,2022-01-22,Iowa,,Penn State,REG (Conf),W 68-51,*,40,4,12,0.333,1,7,0.143,3,5,0.6,0.375,6,8,0.75,2,6,8,2,1,3,1,1,15,13.7,H,1,1,keegan-murray-1,Keegan Murray,2022
+19,50,20,2022-01-27,Iowa,,Purdue,REG (Conf),L 73-83,*,29,4,11,0.364,2,5,0.4,2,6,0.333,0.455,4,4,1.0,2,7,9,1,1,1,1,3,14,11.6,H,0,1,keegan-murray-1,Keegan Murray,2022
+20,51,21,2022-01-31,Iowa,@,Penn State,REG (Conf),L 86-90 (2OT),*,31,6,18,0.333,2,7,0.286,4,11,0.364,0.389,7,10,0.7,4,2,6,0,1,1,1,4,21,12.1,A,0,1,keegan-murray-1,Keegan Murray,2022
+21,52,22,2022-02-06,Iowa,,Minnesota,REG (Conf),W 71-59,*,39,9,18,0.5,2,4,0.5,7,14,0.5,0.556,4,7,0.571,2,13,15,3,1,2,1,1,24,22.2,H,1,1,keegan-murray-1,Keegan Murray,2022
+22,53,23,2022-02-10,Iowa,@,Maryland,REG (Conf),W 110-87,*,30,12,14,0.857,2,3,0.667,10,11,0.909,0.929,4,7,0.571,1,6,7,1,0,2,2,1,30,26.0,A,1,1,keegan-murray-1,Keegan Murray,2022
+23,54,24,2022-02-13,Iowa,,Nebraska,REG (Conf),W 98-75,*,29,15,21,0.714,3,4,0.75,12,17,0.706,0.786,4,5,0.8,3,3,6,0,3,2,0,0,37,35.3,H,1,1,keegan-murray-1,Keegan Murray,2022
+24,55,25,2022-02-17,Iowa,,Michigan,REG (Conf),L 79-84,*,32,9,23,0.391,1,4,0.25,8,19,0.421,0.413,4,9,0.444,5,2,7,1,1,4,3,2,23,13.3,H,0,1,keegan-murray-1,Keegan Murray,2022
+25,56,26,2022-02-19,Iowa,@,Ohio State,REG (Conf),W 75-62,*,36,10,17,0.588,2,5,0.4,8,12,0.667,0.647,2,3,0.667,3,2,5,2,0,1,0,3,24,19.3,A,1,1,keegan-murray-1,Keegan Murray,2022
+26,57,27,2022-02-22,Iowa,,Michigan State,REG (Conf),W 86-60,*,30,10,15,0.667,2,5,0.4,8,10,0.8,0.733,6,7,0.857,2,3,5,2,2,1,0,3,28,26.3,H,1,1,keegan-murray-1,Keegan Murray,2022
+27,58,28,2022-02-25,Iowa,@,Nebraska,REG (Conf),W 88-78,*,36,6,13,0.462,0,3,0.0,6,10,0.6,0.462,3,7,0.429,4,7,11,2,0,1,0,2,15,12.9,A,1,1,keegan-murray-1,Keegan Murray,2022
+28,59,29,2022-02-28,Iowa,,Northwestern,REG (Conf),W 82-61,*,31,9,16,0.563,2,4,0.5,7,12,0.583,0.625,6,8,0.75,4,14,18,3,2,2,1,3,26,27.9,H,1,1,keegan-murray-1,Keegan Murray,2022
+29,60,30,2022-03-03,Iowa,@,Michigan,REG (Conf),W 82-71,*,36,7,9,0.778,4,4,1.0,3,5,0.6,1.0,5,6,0.833,0,7,7,3,1,3,1,2,23,24.6,A,1,1,keegan-murray-1,Keegan Murray,2022
+30,61,31,2022-03-06,Iowa,@,Illinois,REG (Conf),L 72-74,*,39,7,22,0.318,2,7,0.286,5,15,0.333,0.364,6,8,0.75,1,10,11,1,0,4,1,2,22,14.0,A,0,1,keegan-murray-1,Keegan Murray,2022
+31,62,32,2022-03-10,Iowa,N,Northwestern,CTOURN,W 112-76,*,21,11,16,0.688,3,3,1.0,8,13,0.615,0.781,1,1,1.0,3,5,8,2,1,0,0,1,26,24.8,N,1,0,keegan-murray-1,Keegan Murray,2022
+32,63,33,2022-03-11,Iowa,N,Rutgers,CTOURN,W 84-74,*,36,10,19,0.526,0,5,0.0,10,14,0.714,0.526,6,6,1.0,4,4,8,2,1,1,0,1,26,23.4,N,1,0,keegan-murray-1,Keegan Murray,2022
+33,64,34,2022-03-12,Iowa,N,Indiana,CTOURN,W 80-77,*,39,11,17,0.647,8,10,0.8,3,7,0.429,0.882,2,3,0.667,3,6,9,3,2,2,3,3,32,29.3,N,1,0,keegan-murray-1,Keegan Murray,2022
+34,65,35,2022-03-13,Iowa,N,Purdue,CTOURN,W 75-66,*,40,6,16,0.375,3,8,0.375,3,8,0.375,0.469,4,4,1.0,4,7,11,3,2,1,2,1,19,17.5,N,1,0,keegan-murray-1,Keegan Murray,2022
+35,66,36,2022-03-17,Iowa,N,Richmond,ROUND-64,L 63-67,*,38,8,15,0.533,0,3,0.0,8,12,0.667,0.533,5,5,1.0,2,7,9,2,1,1,2,3,21,17.1,N,0,0,keegan-murray-1,Keegan Murray,2022

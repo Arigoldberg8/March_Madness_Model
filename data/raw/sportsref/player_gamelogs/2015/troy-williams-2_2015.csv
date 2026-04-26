@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,3,2014-11-20,Indiana,,SMU,REG (Non-Conf),W 74-68,,23,3,5,0.6,0,0,,3,5,0.6,0.6,5,8,0.625,2,2,4,1,2,0,1,3,11,10.0,H,1,1,troy-williams-2,Troy Williams,2015
+2,34,4,2014-11-22,Indiana,,Lamar,REG (Non-Conf),W 85-72,,22,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,1,4,5,3,2,0,2,3,10,9.9,H,1,1,troy-williams-2,Troy Williams,2015
+3,35,5,2014-11-24,Indiana,,Eastern Washington,REG (Non-Conf),L 86-88,,31,8,14,0.571,0,0,,8,14,0.571,0.571,3,3,1.0,4,5,9,1,1,0,2,2,19,15.6,H,0,1,troy-williams-2,Troy Williams,2015
+4,36,6,2014-11-28,Indiana,,UNC Greensboro,REG (Non-Conf),W 87-79,*,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,4,0.75,1,3,4,1,1,0,2,0,11,9.3,H,1,1,troy-williams-2,Troy Williams,2015
+5,37,7,2014-12-02,Indiana,,Pittsburgh,REG (Non-Conf),W 81-69,*,24,5,10,0.5,0,0,,5,10,0.5,0.5,0,1,0.0,1,4,5,1,2,0,2,3,10,6.0,H,1,1,troy-williams-2,Troy Williams,2015
+6,38,8,2014-12-06,Indiana,,Savannah State,REG (Non-Conf),W 95-49,*,21,5,7,0.714,0,0,,5,7,0.714,0.714,2,3,0.667,2,3,5,1,0,0,1,2,12,9.9,H,1,1,troy-williams-2,Troy Williams,2015
+7,39,9,2014-12-09,Indiana,N,Louisville,REG (Non-Conf),L 74-94,*,24,3,8,0.375,0,0,,3,8,0.375,0.375,4,4,1.0,0,1,1,3,1,0,3,2,10,5.2,N,0,1,troy-williams-2,Troy Williams,2015
+8,40,10,2014-12-13,Indiana,,Grand Canyon,REG (Non-Conf),W 94-66,*,21,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,3,5,8,2,1,0,0,1,14,14.5,H,1,1,troy-williams-2,Troy Williams,2015
+9,41,11,2014-12-20,Indiana,N,Butler,REG (Non-Conf),W 82-73,*,29,9,17,0.529,1,1,1.0,8,16,0.5,0.559,3,3,1.0,3,8,11,3,2,2,2,2,22,20.9,N,1,1,troy-williams-2,Troy Williams,2015
+10,42,12,2014-12-22,Indiana,,New Orleans,REG (Non-Conf),W 79-59,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,3,3,6,3,0,0,2,2,8,7.6,H,1,1,troy-williams-2,Troy Williams,2015
+11,43,13,2014-12-27,Indiana,N,Georgetown,REG (Non-Conf),L 87-91 (OT),*,33,8,12,0.667,0,1,0.0,8,11,0.727,0.667,7,8,0.875,2,6,8,4,2,1,3,2,23,22.3,N,0,1,troy-williams-2,Troy Williams,2015
+12,44,14,2014-12-31,Indiana,@,Nebraska,REG (Conf),W 70-65,*,23,6,10,0.6,0,1,0.0,6,9,0.667,0.6,1,2,0.5,3,3,6,1,0,0,2,3,13,8.5,A,1,1,troy-williams-2,Troy Williams,2015
+13,45,15,2015-01-05,Indiana,@,Michigan State,REG (Conf),L 50-70,*,17,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,1,0,1,2,0,-1.2,A,0,1,troy-williams-2,Troy Williams,2015
+14,46,16,2015-01-10,Indiana,,Ohio State,REG (Conf),W 69-66,*,31,6,13,0.462,0,0,,6,13,0.462,0.462,3,5,0.6,3,9,12,3,0,1,2,2,15,12.3,H,1,1,troy-williams-2,Troy Williams,2015
+15,47,17,2015-01-13,Indiana,,Penn State,REG (Conf),W 76-73,*,32,7,12,0.583,0,0,,7,12,0.583,0.583,1,1,1.0,0,4,4,2,0,0,2,2,15,9.2,H,1,1,troy-williams-2,Troy Williams,2015
+16,48,18,2015-01-18,Indiana,@,Illinois,REG (Conf),W 80-74,*,31,8,10,0.8,0,0,,8,10,0.8,0.8,5,6,0.833,3,6,9,1,2,0,3,1,21,20.0,A,1,1,troy-williams-2,Troy Williams,2015
+17,49,19,2015-01-22,Indiana,,Maryland,REG (Conf),W 89-70,*,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,6,7,0.857,2,5,7,2,2,0,3,3,16,13.4,H,1,1,troy-williams-2,Troy Williams,2015
+18,50,20,2015-01-25,Indiana,@,Ohio State,REG (Conf),L 70-82,*,27,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,1,2,3,0,0,5,2,8,4.1,A,0,1,troy-williams-2,Troy Williams,2015
+19,51,21,2015-01-28,Indiana,@,Purdue,REG (Conf),L 67-83,*,23,4,12,0.333,0,0,,4,12,0.333,0.333,0,0,,3,3,6,0,3,1,2,3,8,4.7,A,0,1,troy-williams-2,Troy Williams,2015
+20,52,22,2015-01-31,Indiana,,Rutgers,REG (Conf),W 72-64,,34,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,2,10,12,2,2,1,4,0,14,13.4,H,1,1,troy-williams-2,Troy Williams,2015
+21,53,23,2015-02-03,Indiana,@,Wisconsin,REG (Conf),L 78-92,*,25,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,5,0.8,0,7,7,1,0,1,2,5,12,7.1,A,0,1,troy-williams-2,Troy Williams,2015
+22,54,24,2015-02-08,Indiana,,Michigan,REG (Conf),W 70-67,*,31,6,9,0.667,0,0,,6,9,0.667,0.667,8,8,1.0,4,4,8,3,2,0,4,2,20,19.4,H,1,1,troy-williams-2,Troy Williams,2015
+23,55,25,2015-02-11,Indiana,@,Maryland,REG (Conf),L 66-68,*,33,7,13,0.538,0,0,,7,13,0.538,0.538,3,6,0.5,3,7,10,1,1,0,2,1,17,13.0,A,0,1,troy-williams-2,Troy Williams,2015
+24,56,26,2015-02-15,Indiana,,Minnesota,REG (Conf),W 90-71,*,29,8,10,0.8,2,2,1.0,6,8,0.75,0.9,1,1,1.0,3,6,9,2,1,1,5,3,19,16.0,H,1,1,troy-williams-2,Troy Williams,2015
+25,57,27,2015-02-19,Indiana,,Purdue,REG (Conf),L 63-67,*,36,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,2,1.0,1,6,7,3,0,0,2,1,14,10.9,H,0,1,troy-williams-2,Troy Williams,2015
+26,58,28,2015-02-22,Indiana,@,Rutgers,REG (Conf),W 84-54,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,3,6,0.5,0,9,9,1,0,0,2,3,7,3.3,A,1,1,troy-williams-2,Troy Williams,2015
+27,59,29,2015-02-25,Indiana,@,Northwestern,REG (Conf),L 65-72,*,31,9,16,0.563,1,1,1.0,8,15,0.533,0.594,2,5,0.4,5,9,14,2,2,0,1,1,21,20.4,A,0,1,troy-williams-2,Troy Williams,2015
+28,60,30,2015-03-03,Indiana,,Iowa,REG (Conf),L 63-77,*,32,3,13,0.231,0,0,,3,13,0.231,0.231,2,4,0.5,5,8,13,4,1,0,0,4,8,7.4,H,0,1,troy-williams-2,Troy Williams,2015
+29,61,31,2015-03-07,Indiana,,Michigan State,REG (Conf),L 72-74,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,2,0,0,2,2,4,1.5,H,0,1,troy-williams-2,Troy Williams,2015
+30,62,32,2015-03-12,Indiana,N,Northwestern,CTOURN,W 71-56,*,33,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,2,0.5,5,7,12,1,1,3,2,4,7,7.3,N,1,0,troy-williams-2,Troy Williams,2015
+31,63,33,2015-03-13,Indiana,N,Maryland,CTOURN,L 69-75,*,29,5,9,0.556,1,1,1.0,4,8,0.5,0.611,6,6,1.0,5,4,9,2,0,2,3,3,17,16.0,N,0,0,troy-williams-2,Troy Williams,2015
+32,64,34,2015-03-20,Indiana,N,Wichita State,ROUND-64,L 76-81,*,35,2,10,0.2,1,1,1.0,1,9,0.111,0.25,6,6,1.0,1,11,12,4,0,2,2,3,11,9.8,N,0,0,troy-williams-2,Troy Williams,2015

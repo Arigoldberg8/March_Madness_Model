@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2011-11-11,Florida State,,Jacksonville,REG (Non-Conf),W 79-67,*,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,6,0,0,2,2,5,5.0,H,1,1,luke-loucks-1,Luke Loucks,2012
+2,102,2,2011-11-14,Florida State,,UCF,REG (Non-Conf),W 73-50,*,20,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,1,0,2,0,0,-1.4,H,1,1,luke-loucks-1,Luke Loucks,2012
+3,103,3,2011-11-16,Florida State,,Stetson,REG (Non-Conf),W 79-66,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,2,4,0.5,1,1,2,3,2,2,0,1,4,6.9,H,1,1,luke-loucks-1,Luke Loucks,2012
+4,104,4,2011-11-20,Florida State,,South Alabama,REG (Non-Conf),W 80-39,*,32,5,13,0.385,2,7,0.286,3,6,0.5,0.462,6,7,0.857,1,4,5,2,2,0,1,1,18,14.4,H,1,1,luke-loucks-1,Luke Loucks,2012
+5,105,5,2011-11-24,Florida State,N,Massachusetts,REG (Non-Conf),W 73-53,*,34,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,4,1.0,0,3,3,3,4,0,6,3,12,9.2,N,1,1,luke-loucks-1,Luke Loucks,2012
+6,106,6,2011-11-25,Florida State,N,Harvard,REG (Non-Conf),L 41-46,*,35,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,0,0,0,4,1,0,4,3,8,3.3,N,0,1,luke-loucks-1,Luke Loucks,2012
+7,107,7,2011-11-26,Florida State,N,Connecticut,REG (Non-Conf),L 76-78 (OT),*,32,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,2,0.0,0,3,3,3,3,0,3,4,7,3.9,N,0,1,luke-loucks-1,Luke Loucks,2012
+8,108,8,2011-11-30,Florida State,@,Michigan State,REG (Non-Conf),L 49-65,*,20,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,2,0.0,1,1,2,2,0,0,2,4,5,0.3,A,0,1,luke-loucks-1,Luke Loucks,2012
+9,109,9,2011-12-05,Florida State,,Charleston Southern,REG (Non-Conf),W 76-51,*,21,0,1,0.0,0,1,0.0,0,0,,0.0,0,1,0.0,0,7,7,3,0,1,1,1,0,2.4,H,1,1,luke-loucks-1,Luke Loucks,2012
+10,110,10,2011-12-11,Florida State,,UNC Greensboro,REG (Non-Conf),W 75-60,*,23,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,4,4,3,2,0,3,3,8,8.2,H,1,1,luke-loucks-1,Luke Loucks,2012
+11,111,11,2011-12-18,Florida State,,Loyola Marymount,REG (Non-Conf),W 77-61,*,22,1,8,0.125,1,5,0.2,0,3,0.0,0.188,1,2,0.5,0,1,1,8,0,0,3,1,4,0.9,H,1,1,luke-loucks-1,Luke Loucks,2012
+12,112,12,2011-12-22,Florida State,@,Florida,REG (Non-Conf),L 64-82,*,34,6,11,0.545,3,8,0.375,3,3,1.0,0.682,0,0,,0,4,4,4,2,1,3,3,15,12.2,A,0,1,luke-loucks-1,Luke Loucks,2012
+13,113,13,2011-12-30,Florida State,,Princeton,REG (Non-Conf),L 73-75 (3OT),*,40,4,11,0.364,2,3,0.667,2,8,0.25,0.455,0,0,,2,5,7,5,1,0,3,3,10,7.1,H,0,1,luke-loucks-1,Luke Loucks,2012
+14,114,14,2012-01-04,Florida State,,Auburn,REG (Non-Conf),W 85-56,*,26,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,4,4,6,1,0,2,0,8,9.1,H,1,1,luke-loucks-1,Luke Loucks,2012
+15,115,15,2012-01-07,Florida State,@,Clemson,REG (Conf),L 59-79,*,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,1,2,3,3,0,0,2,1,4,1.2,A,0,1,luke-loucks-1,Luke Loucks,2012
+16,116,16,2012-01-10,Florida State,@,Virginia Tech,REG (Conf),W 63-59,*,32,2,5,0.4,2,5,0.4,0,0,,0.6,1,2,0.5,1,2,3,5,0,0,2,2,7,5.9,A,1,1,luke-loucks-1,Luke Loucks,2012
+17,117,17,2012-01-14,Florida State,,North Carolina,REG (Conf),W 90-57,*,33,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,1,0.0,0,2,2,6,4,0,6,2,6,3.5,H,1,1,luke-loucks-1,Luke Loucks,2012
+18,118,18,2012-01-17,Florida State,,Maryland,REG (Conf),W 84-70,*,26,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,1,2,3,6,0,0,2,1,9,7.4,H,1,1,luke-loucks-1,Luke Loucks,2012
+19,119,19,2012-01-21,Florida State,@,Duke,REG (Conf),W 76-73,*,29,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,1,2,3,4,2,0,1,2,8,8.1,A,1,1,luke-loucks-1,Luke Loucks,2012
+20,120,20,2012-01-25,Florida State,@,Wake Forest,REG (Conf),W 75-52,*,13,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,1,0,1,1,3,5,3.5,A,1,1,luke-loucks-1,Luke Loucks,2012
+21,121,21,2012-02-01,Florida State,,Georgia Tech,REG (Conf),W 68-54,*,26,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,0,4,4,7,1,0,3,2,9,9.3,H,1,1,luke-loucks-1,Luke Loucks,2012
+22,122,22,2012-02-04,Florida State,,Virginia,REG (Conf),W 58-55,*,25,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,1,1,2,1,2,0,3,1,6,2.1,H,1,1,luke-loucks-1,Luke Loucks,2012
+23,123,23,2012-02-08,Florida State,@,Boston College,REG (Conf),L 60-64,*,29,1,8,0.125,0,4,0.0,1,4,0.25,0.125,0,0,,0,1,1,4,1,0,0,1,2,0.5,A,0,1,luke-loucks-1,Luke Loucks,2012
+24,124,24,2012-02-11,Florida State,,Miami (FL),REG (Conf),W 64-59,*,31,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,3,0.0,2,4,6,6,2,0,0,1,7,10.5,H,1,1,luke-loucks-1,Luke Loucks,2012
+25,125,25,2012-02-16,Florida State,,Virginia Tech,REG (Conf),W 48-47,*,22,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,4,4,4,0,2,6,3,4,0.2,H,1,1,luke-loucks-1,Luke Loucks,2012
+26,126,26,2012-02-18,Florida State,@,NC State,REG (Conf),W 76-62,*,29,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,4,4,4,3,0,0,1,3,5.8,A,1,1,luke-loucks-1,Luke Loucks,2012
+27,127,27,2012-02-23,Florida State,,Duke,REG (Conf),L 66-74,*,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,3,0,0,2,2,2,-0.8,H,0,1,luke-loucks-1,Luke Loucks,2012
+28,128,28,2012-02-26,Florida State,@,Miami (FL),REG (Conf),L 62-78,*,26,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,3,3,4,0,0,3,4,0,-3.7,A,0,1,luke-loucks-1,Luke Loucks,2012
+29,129,29,2012-03-01,Florida State,@,Virginia,REG (Conf),W 63-60,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,1,1,4,2,0,3,1,1,0.2,A,1,1,luke-loucks-1,Luke Loucks,2012
+30,130,30,2012-03-04,Florida State,,Clemson,REG (Conf),W 80-72,*,23,2,4,0.5,1,3,0.333,1,1,1.0,0.625,5,6,0.833,0,2,2,4,1,1,1,4,10,10.1,H,1,1,luke-loucks-1,Luke Loucks,2012
+31,131,31,2012-03-09,Florida State,N,Miami (FL),CTOURN,W 82-71,*,28,2,3,0.667,2,2,1.0,0,1,0.0,1.0,8,8,1.0,0,5,5,5,2,2,1,1,14,19.7,N,1,0,luke-loucks-1,Luke Loucks,2012
+32,132,32,2012-03-10,Florida State,N,Duke,CTOURN,W 62-59,*,31,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,2,4,6,4,0,0,4,2,9,6.6,N,1,0,luke-loucks-1,Luke Loucks,2012
+33,133,33,2012-03-11,Florida State,N,North Carolina,CTOURN,W 85-82,*,34,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,1,5,6,13,0,0,6,2,10,10.5,N,1,0,luke-loucks-1,Luke Loucks,2012
+34,134,34,2012-03-16,Florida State,N,St. Bonaventure,ROUND-64,W 66-63,*,32,3,5,0.6,2,3,0.667,1,2,0.5,0.8,5,6,0.833,0,7,7,6,3,2,4,1,13,16.6,N,1,0,luke-loucks-1,Luke Loucks,2012
+35,135,35,2012-03-18,Florida State,N,Cincinnati,ROUND-32,L 56-62,*,29,3,5,0.6,2,3,0.667,1,2,0.5,0.8,6,6,1.0,0,2,2,4,0,0,4,3,14,9.9,N,0,0,luke-loucks-1,Luke Loucks,2012

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,St. Mary's (CA),,Towson,REG (Non-Conf),W 76-69,,12,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,4,0.75,0,0,0,1,0,0,1,1,10,5.9,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+2,2,2,2024-11-07,St. Mary's (CA),,Chattanooga,REG (Non-Conf),W 86-74,,19,5,10,0.5,2,7,0.286,3,3,1.0,0.6,2,5,0.4,0,2,2,0,1,0,0,3,14,8.2,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+3,3,3,2024-11-12,St. Mary's (CA),,Akron,REG (Non-Conf),W 87-68,,20,6,11,0.545,4,6,0.667,2,5,0.4,0.727,2,2,1.0,0,1,1,0,1,0,3,1,18,10.6,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+4,4,4,2024-11-17,St. Mary's (CA),N,Nebraska,REG (Non-Conf),W 77-74,,29,8,14,0.571,5,7,0.714,3,7,0.429,0.75,2,2,1.0,2,2,4,3,4,0,2,1,23,22.1,N,1,1,mikey-lewis-1,Mikey Lewis,2025
+5,5,5,2024-11-20,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 78-38,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,2,4,0,0,1,2,0,4,3.0,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+6,6,6,2024-11-23,St. Mary's (CA),,Cal Poly,REG (Non-Conf),W 80-66,,14,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,3,3,0,1,0,1,1,9,5.5,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+7,7,7,2024-11-28,St. Mary's (CA),N,Southern California,REG (Non-Conf),W 71-36,,21,4,12,0.333,0,4,0.0,4,8,0.5,0.333,0,0,,3,3,6,3,0,1,0,0,8,7.0,N,1,1,mikey-lewis-1,Mikey Lewis,2025
+8,8,8,2024-11-29,St. Mary's (CA),N,Arizona State,REG (Non-Conf),L 64-68,,13,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,1,1,0,3,1,5,1.9,N,0,1,mikey-lewis-1,Mikey Lewis,2025
+9,9,9,2024-12-03,St. Mary's (CA),,UTSA,REG (Non-Conf),W 82-74 (OT),,12,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,0,0,0,0,1,1,0,6,3.0,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+10,10,10,2024-12-07,St. Mary's (CA),@,Utah,REG (Non-Conf),W 72-63,,15,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,2,2,0,1,2,2,1,4,1.2,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+11,11,11,2024-12-14,St. Mary's (CA),N,Boise State,REG (Non-Conf),L 65-67 (OT),,15,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,1,0,1,0,0,1,0,1,8,4.6,N,0,1,mikey-lewis-1,Mikey Lewis,2025
+12,12,12,2024-12-19,St. Mary's (CA),,Merrimack,REG (Non-Conf),W 73-68,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.1,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+13,13,13,2024-12-22,St. Mary's (CA),,Utah State,REG (Non-Conf),L 68-75,,16,4,8,0.5,3,5,0.6,1,3,0.333,0.688,1,3,0.333,0,1,1,1,2,0,1,1,12,8.8,H,0,1,mikey-lewis-1,Mikey Lewis,2025
+14,14,14,2024-12-28,St. Mary's (CA),,Pacific,REG (Conf),W 70-60,,15,1,8,0.125,1,4,0.25,0,4,0.0,0.188,0,0,,0,2,2,2,0,0,0,2,3,-1.0,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+15,15,15,2025-01-02,St. Mary's (CA),,Pepperdine,REG (Conf),W 71-41,,21,6,13,0.462,2,8,0.25,4,5,0.8,0.538,0,1,0.0,1,1,2,3,1,0,1,0,14,10.0,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+16,16,16,2025-01-04,St. Mary's (CA),@,Portland,REG (Conf),W 81-58,,15,3,8,0.375,1,3,0.333,2,5,0.4,0.438,5,5,1.0,0,2,2,0,3,0,0,1,12,10.8,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+17,17,17,2025-01-07,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 81-56,,17,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,0,3,3,1,0,0,0,2,9,3.7,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+18,18,18,2025-01-11,St. Mary's (CA),@,San Diego,REG (Conf),W 103-56,,18,7,8,0.875,4,5,0.8,3,3,1.0,1.125,0,0,,0,1,1,1,0,0,0,2,18,15.4,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+19,19,19,2025-01-18,St. Mary's (CA),@,Pepperdine,REG (Conf),W 74-50,,16,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,2,2,0,0,1,0,0,7,3.9,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+20,20,20,2025-01-23,St. Mary's (CA),,San Francisco,REG (Conf),W 71-51,,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,0,0,0,1,0,5,2.6,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+21,21,21,2025-01-25,St. Mary's (CA),@,Washington State,REG (Conf),W 80-75,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,1,0,1,2,3,1.2,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+22,22,22,2025-01-29,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-54,,13,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,0,0,-2.5,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+23,23,23,2025-02-01,St. Mary's (CA),,Gonzaga,REG (Conf),W 62-58,,22,6,18,0.333,4,12,0.333,2,6,0.333,0.444,0,0,,0,1,1,1,0,0,1,0,16,5.8,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+24,24,24,2025-02-06,St. Mary's (CA),@,San Francisco,REG (Conf),L 64-65,,6,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,-1.8,A,0,1,mikey-lewis-1,Mikey Lewis,2025
+25,25,25,2025-02-08,St. Mary's (CA),@,Oregon State,REG (Conf),W 63-49,,15,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,0,0,0,0,0,0,0,1,9,4.9,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+26,26,26,2025-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-64,,15,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,0,1,1,0,1,0,1,0,9,7.0,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+27,27,27,2025-02-15,St. Mary's (CA),,Washington State,REG (Conf),W 77-56,,11,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,0,0,0,0,0,3,0.2,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+28,28,28,2025-02-19,St. Mary's (CA),,Portland,REG (Conf),W 79-66,,21,4,7,0.571,4,6,0.667,0,1,0.0,0.857,0,0,,0,1,1,1,2,0,0,1,12,11.3,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+29,29,29,2025-02-22,St. Mary's (CA),@,Gonzaga,REG (Conf),W 74-67,,18,5,9,0.556,5,7,0.714,0,2,0.0,0.833,3,3,1.0,0,2,2,0,0,0,2,1,18,11.9,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+30,30,30,2025-02-27,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 58-55,,16,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,1,0.0,0,0,0,0,1,0,1,3,6,2.4,A,1,1,mikey-lewis-1,Mikey Lewis,2025
+31,31,31,2025-03-01,St. Mary's (CA),,Oregon State,REG (Conf),W 74-64,,15,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,1,2,0,0,0,0,1,3,-0.2,H,1,1,mikey-lewis-1,Mikey Lewis,2025
+32,32,32,2025-03-10,St. Mary's (CA),N,Pepperdine,CTOURN,W 74-59,,15,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,2,2,0,1,0,1,1,7,4.2,N,1,0,mikey-lewis-1,Mikey Lewis,2025
+33,33,33,2025-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-58,,20,2,10,0.2,0,7,0.0,2,3,0.667,0.2,1,1,1.0,0,1,1,1,1,0,0,2,5,0.0,N,0,0,mikey-lewis-1,Mikey Lewis,2025
+34,34,34,2025-03-21,St. Mary's (CA),N,Vanderbilt,ROUND-64,W 59-56,,16,0,7,0.0,0,5,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,1,0,0,-4.9,N,1,0,mikey-lewis-1,Mikey Lewis,2025
+35,35,35,2025-03-23,St. Mary's (CA),N,Alabama,ROUND-32,L 66-80,,11,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,0,0,0,1,1,0,2,7,3.5,N,0,0,mikey-lewis-1,Mikey Lewis,2025

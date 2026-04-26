@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2015-11-13,Michigan,,Northern Mich.,REG (Non-Conf),W 70-44,*,10,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,1,1,0,0,2,0,3,6,5.9,H,1,1,mark-donnal-1,Mark Donnal,2016
+2,31,2,2015-11-16,Michigan,,Elon,REG (Non-Conf),W 88-68,*,15,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,1,2,0,0,0,0,1,6,4.6,H,1,1,mark-donnal-1,Mark Donnal,2016
+3,32,3,2015-11-20,Michigan,,Xavier,REG (Non-Conf),L 70-86,*,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,4,0,-2.3,H,0,1,mark-donnal-1,Mark Donnal,2016
+4,33,5,2015-11-26,Michigan,N,Charlotte,REG (Non-Conf),W 102-47,,7,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,3,3,0,0,0,0,3,7,4.4,N,1,1,mark-donnal-1,Mark Donnal,2016
+5,34,6,2015-11-27,Michigan,N,Texas,REG (Non-Conf),W 78-72,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,4,0.5,0,3,3,0,0,0,0,0,4,3.1,N,1,1,mark-donnal-1,Mark Donnal,2016
+6,35,8,2015-12-05,Michigan,,Houston Baptist,REG (Non-Conf),W 82-57,,7,0,2,0.0,0,0,,0,2,0.0,0.0,2,4,0.5,0,0,0,0,0,0,0,0,2,-0.2,H,1,1,mark-donnal-1,Mark Donnal,2016
+7,36,9,2015-12-08,Michigan,@,SMU,REG (Non-Conf),L 58-82,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,1,0,-0.1,A,0,1,mark-donnal-1,Mark Donnal,2016
+8,37,10,2015-12-12,Michigan,,Delaware State,REG (Non-Conf),W 80-33,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,0,0,0,-0.1,H,1,1,mark-donnal-1,Mark Donnal,2016
+9,38,11,2015-12-15,Michigan,,Northern Kentucky,REG (Non-Conf),W 77-62,,14,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,2,0,2,1,0,1,1,3,11,9.4,H,1,1,mark-donnal-1,Mark Donnal,2016
+10,39,12,2015-12-19,Michigan,,Youngstown State,REG (Non-Conf),W 105-46,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,mark-donnal-1,Mark Donnal,2016
+11,40,13,2015-12-23,Michigan,,Bryant,REG (Non-Conf),W 96-60,,12,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,3,3,6,0,0,0,0,0,7,8.4,H,1,1,mark-donnal-1,Mark Donnal,2016
+12,41,14,2015-12-30,Michigan,@,Illinois,REG (Conf),W 78-68,,28,11,15,0.733,1,2,0.5,10,13,0.769,0.767,3,4,0.75,6,3,9,0,2,3,2,3,26,25.5,A,1,1,mark-donnal-1,Mark Donnal,2016
+13,42,15,2016-01-02,Michigan,,Penn State,REG (Conf),W 79-56,*,23,7,10,0.7,0,1,0.0,7,9,0.778,0.7,2,4,0.5,2,6,8,1,0,1,1,2,16,13.8,H,1,1,mark-donnal-1,Mark Donnal,2016
+14,43,16,2016-01-07,Michigan,@,Purdue,REG (Conf),L 70-87,*,13,2,6,0.333,2,2,1.0,0,4,0.0,0.5,1,2,0.5,3,2,5,0,1,0,1,3,7,4.7,A,0,1,mark-donnal-1,Mark Donnal,2016
+15,44,17,2016-01-12,Michigan,,Maryland,REG (Conf),W 70-67,*,33,3,7,0.429,0,3,0.0,3,4,0.75,0.429,2,3,0.667,3,6,9,0,2,2,0,4,8,9.6,H,1,1,mark-donnal-1,Mark Donnal,2016
+16,45,18,2016-01-17,Michigan,@,Iowa,REG (Conf),L 71-82,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,4,3,7,0,0,0,3,2,8,4.6,A,0,1,mark-donnal-1,Mark Donnal,2016
+17,46,19,2016-01-20,Michigan,,Minnesota,REG (Conf),W 74-69,*,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,2,1,3,2,0,1,3,4,5,1.8,H,1,1,mark-donnal-1,Mark Donnal,2016
+18,47,20,2016-01-23,Michigan,@,Nebraska,REG (Conf),W 81-68,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,6,8,0.75,4,0,4,0,0,2,0,1,14,13.0,A,1,1,mark-donnal-1,Mark Donnal,2016
+19,48,21,2016-01-27,Michigan,,Rutgers,REG (Conf),W 68-57,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,0,4,4,1,1,1,2,2,10,8.2,H,1,1,mark-donnal-1,Mark Donnal,2016
+20,49,22,2016-01-30,Michigan,N,Penn State,REG (Conf),W 79-72,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,6,8,0.75,4,2,6,1,0,1,1,3,10,9.8,N,1,1,mark-donnal-1,Mark Donnal,2016
+21,50,23,2016-02-02,Michigan,,Indiana,REG (Conf),L 67-80,*,30,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,1,2,3,1,0,1,1,3,2,1.8,H,0,1,mark-donnal-1,Mark Donnal,2016
+22,51,24,2016-02-06,Michigan,,Michigan State,REG (Conf),L 73-89,*,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,2,3,0,1,0,1,3,4,1.4,H,0,1,mark-donnal-1,Mark Donnal,2016
+23,52,25,2016-02-10,Michigan,@,Minnesota,REG (Conf),W 82-74,*,19,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,1,0,1,1,0,1,0,4,8,4.5,A,1,1,mark-donnal-1,Mark Donnal,2016
+24,53,26,2016-02-13,Michigan,,Purdue,REG (Conf),W 61-56,*,20,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,4,1.0,1,0,1,0,0,0,1,4,8,2.7,H,1,1,mark-donnal-1,Mark Donnal,2016
+25,54,27,2016-02-16,Michigan,@,Ohio State,REG (Conf),L 66-76,*,32,6,10,0.6,0,1,0.0,6,9,0.667,0.6,5,6,0.833,3,4,7,1,0,0,1,2,17,14.2,A,0,1,mark-donnal-1,Mark Donnal,2016
+26,55,28,2016-02-21,Michigan,@,Maryland,REG (Conf),L 82-86,*,29,10,13,0.769,3,4,0.75,7,9,0.778,0.885,2,2,1.0,2,3,5,0,0,5,1,3,25,23.5,A,0,1,mark-donnal-1,Mark Donnal,2016
+27,56,29,2016-02-24,Michigan,,Northwestern,REG (Conf),W 72-63,*,30,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,2,2,4,0,1,0,1,4,7,5.7,H,1,1,mark-donnal-1,Mark Donnal,2016
+28,57,30,2016-02-28,Michigan,@,Wisconsin,REG (Conf),L 57-68,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,0,1,0,0,0,0,4,6,3.5,A,0,1,mark-donnal-1,Mark Donnal,2016
+29,58,31,2016-03-05,Michigan,,Iowa,REG (Conf),L 61-71,*,28,4,10,0.4,1,3,0.333,3,7,0.429,0.45,0,0,,4,6,10,0,1,0,0,0,9,9.2,H,0,1,mark-donnal-1,Mark Donnal,2016
+30,59,32,2016-03-10,Michigan,N,Northwestern,CTOURN,W 72-70 (OT),*,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,2,1,3,1,0,1,1,5,2,0.4,N,1,0,mark-donnal-1,Mark Donnal,2016
+31,60,33,2016-03-11,Michigan,N,Indiana,CTOURN,W 72-69,*,20,6,6,1.0,0,0,,6,6,1.0,1.0,0,1,0.0,1,3,4,0,1,2,2,4,12,10.2,N,1,0,mark-donnal-1,Mark Donnal,2016
+32,61,34,2016-03-12,Michigan,N,Purdue,CTOURN,L 59-76,*,15,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,1,1,1,2,0,0,4,7,5.4,N,0,0,mark-donnal-1,Mark Donnal,2016
+33,62,35,2016-03-16,Michigan,N,Tulsa,FIRST-FOUR,W 67-62,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,2,2,1.9,N,1,0,mark-donnal-1,Mark Donnal,2016
+34,63,36,2016-03-18,Michigan,N,Notre Dame,ROUND-64,L 63-70,*,29,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,3,0,3,1,0,1,0,3,9,6.2,N,0,0,mark-donnal-1,Mark Donnal,2016

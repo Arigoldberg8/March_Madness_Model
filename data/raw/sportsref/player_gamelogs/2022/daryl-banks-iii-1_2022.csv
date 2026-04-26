@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2021-11-09,Saint Peter's,@,VCU,REG (Non-Conf),L 54-57,*,31,1,5,0.2,1,4,0.25,0,1,0.0,0.3,4,5,0.8,1,3,4,2,3,0,5,2,7,3.7,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+2,57,2,2021-11-13,Saint Peter's,@,St. John's (NY),REG (Non-Conf),L 70-91,*,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,1,1.0,1,1,2,0,0,0,1,2,3,-0.2,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+3,58,3,2021-11-23,Saint Peter's,,LIU,REG (Non-Conf),W 64-62,*,18,3,8,0.375,1,4,0.25,2,4,0.5,0.438,3,4,0.75,1,3,4,0,1,0,6,4,10,0.2,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+4,59,4,2021-11-27,Saint Peter's,@,Providence,REG (Non-Conf),L 71-85,*,34,9,16,0.563,3,7,0.429,6,9,0.667,0.656,5,6,0.833,0,0,0,1,1,0,1,2,26,17.9,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+5,60,5,2021-12-03,Saint Peter's,@,Quinnipiac,REG (Conf),W 69-59,*,29,4,10,0.4,3,6,0.5,1,4,0.25,0.55,4,4,1.0,1,3,4,1,2,0,1,2,15,12.1,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+6,61,6,2021-12-05,Saint Peter's,,Siena,REG (Conf),L 58-60,*,32,5,9,0.556,1,1,1.0,4,8,0.5,0.611,3,3,1.0,2,3,5,1,1,0,4,2,14,8.9,H,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+7,62,7,2021-12-08,Saint Peter's,,St. Francis Brooklyn,REG (Non-Conf),L 60-71,*,34,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,2,4,6,3,1,0,1,5,9,6.6,H,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+8,63,8,2021-12-12,Saint Peter's,,Nyack,REG (Non-Conf),W 87-48,*,22,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,2,1.0,0,1,1,1,0,0,0,1,15,10.6,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+9,64,9,2021-12-18,Saint Peter's,@,Stony Brook,REG (Non-Conf),L 63-64,*,33,5,12,0.417,1,4,0.25,4,8,0.5,0.458,1,1,1.0,0,4,4,3,2,0,4,0,12,6.9,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+10,65,10,2022-01-14,Saint Peter's,,Monmouth,REG (Conf),W 67-62,,21,3,8,0.375,2,3,0.667,1,5,0.2,0.5,5,5,1.0,0,2,2,0,2,0,0,1,13,10.8,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+11,66,11,2022-01-16,Saint Peter's,@,Rider,REG (Conf),W 58-51,,27,1,8,0.125,0,4,0.0,1,4,0.25,0.125,0,0,,1,0,1,2,0,0,2,2,2,-3.9,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+12,67,12,2022-01-18,Saint Peter's,,Canisius,REG (Conf),W 65-57,,14,0,6,0.0,0,3,0.0,0,3,0.0,0.0,2,2,1.0,0,3,3,0,1,0,0,1,2,-0.7,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+13,68,13,2022-01-21,Saint Peter's,@,Niagara,REG (Conf),W 74-68 (OT),*,36,5,10,0.5,3,6,0.5,2,4,0.5,0.65,4,4,1.0,2,3,5,5,3,0,2,1,17,18.4,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+14,69,14,2022-01-23,Saint Peter's,@,Canisius,REG (Conf),L 60-63,*,29,4,13,0.308,2,5,0.4,2,8,0.25,0.385,3,3,1.0,1,2,3,0,0,0,2,0,13,4.8,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+15,70,15,2022-01-26,Saint Peter's,@,Marist,REG (Conf),W 69-62,*,27,4,7,0.571,3,4,0.75,1,3,0.333,0.786,5,6,0.833,0,2,2,2,1,0,2,0,16,13.3,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+16,71,16,2022-01-28,Saint Peter's,,Manhattan,REG (Conf),W 77-51,*,20,4,10,0.4,1,5,0.2,3,5,0.6,0.45,0,0,,0,1,1,2,3,0,0,0,9,8.3,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+17,72,17,2022-01-30,Saint Peter's,@,Iona,REG (Conf),L 77-85,*,22,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,1,1,1,2,0,2,5,5,0.9,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+18,73,18,2022-02-04,Saint Peter's,,Quinnipiac,REG (Conf),W 83-74,*,33,5,9,0.556,3,3,1.0,2,6,0.333,0.722,3,4,0.75,0,4,4,3,0,0,0,0,16,14.6,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+19,74,19,2022-02-06,Saint Peter's,,Marist,REG (Conf),W 66-50,*,11,4,4,1.0,2,2,1.0,2,2,1.0,1.25,3,3,1.0,0,0,0,1,0,0,0,2,13,11.7,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+20,75,20,2022-02-11,Saint Peter's,,Rider,REG (Conf),L 49-58,*,29,3,13,0.231,2,7,0.286,1,6,0.167,0.308,0,0,,0,2,2,0,0,0,0,0,8,0.7,H,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+21,76,21,2022-02-15,Saint Peter's,,Iona,REG (Conf),L 61-70,*,27,1,5,0.2,0,1,0.0,1,4,0.25,0.2,4,6,0.667,0,1,1,1,0,0,1,2,6,1.3,H,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+22,77,22,2022-02-18,Saint Peter's,@,Fairfield,REG (Conf),W 70-59,*,27,3,9,0.333,3,5,0.6,0,4,0.0,0.5,0,0,,2,3,5,0,0,0,2,2,9,3.4,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+23,78,23,2022-02-20,Saint Peter's,@,Siena,REG (Conf),L 70-84,*,29,7,16,0.438,2,7,0.286,5,9,0.556,0.5,0,0,,1,1,2,0,1,0,0,2,16,8.8,A,0,1,daryl-banks-iii-1,Daryl Banks III,2022
+24,79,24,2022-02-25,Saint Peter's,@,Monmouth,REG (Conf),W 70-65,*,27,3,10,0.3,1,6,0.167,2,4,0.5,0.35,3,3,1.0,2,2,4,3,1,0,2,4,10,5.7,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+25,80,25,2022-02-27,Saint Peter's,,Niagara,REG (Conf),W 63-36,*,18,5,12,0.417,3,8,0.375,2,4,0.5,0.542,0,0,,0,0,0,3,1,0,1,2,13,7.9,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+26,81,26,2022-03-01,Saint Peter's,@,Manhattan,REG (Conf),W 73-51,*,22,4,9,0.444,1,5,0.2,3,4,0.75,0.5,4,4,1.0,1,1,2,1,2,1,0,2,13,11.9,A,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+27,82,27,2022-03-05,Saint Peter's,,Fairfield,REG (Conf),W 57-41,*,29,4,13,0.308,1,4,0.25,3,9,0.333,0.346,2,4,0.5,2,3,5,2,0,1,1,2,11,5.3,H,1,1,daryl-banks-iii-1,Daryl Banks III,2022
+28,83,28,2022-03-09,Saint Peter's,N,Fairfield,CTOURN,W 77-63,*,30,5,10,0.5,1,3,0.333,4,7,0.571,0.55,3,6,0.5,2,2,4,2,2,0,0,1,14,12.8,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+29,84,29,2022-03-11,Saint Peter's,N,Quinnipiac,CTOURN,W 64-52,*,30,1,8,0.125,0,3,0.0,1,5,0.2,0.125,4,5,0.8,0,0,0,2,4,1,2,3,6,3.3,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+30,85,30,2022-03-12,Saint Peter's,N,Monmouth,CTOURN,W 60-54,*,25,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,2,1.0,0,0,0,2,0,0,3,3,8,2.5,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+31,86,31,2022-03-17,Saint Peter's,N,Kentucky,ROUND-64,W 85-79 (OT),*,37,9,19,0.474,5,8,0.625,4,11,0.364,0.605,4,4,1.0,0,4,4,2,1,0,3,2,27,17.1,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+32,87,32,2022-03-19,Saint Peter's,N,Murray State,ROUND-32,W 70-60,*,27,1,7,0.143,1,3,0.333,0,4,0.0,0.214,3,4,0.75,0,1,1,1,1,0,2,4,6,-0.5,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+33,88,33,2022-03-25,Saint Peter's,N,Purdue,ROUND-16,W 67-64,*,28,6,14,0.429,0,4,0.0,6,10,0.6,0.429,2,2,1.0,0,3,3,0,0,1,0,1,14,7.8,N,1,0,daryl-banks-iii-1,Daryl Banks III,2022
+34,89,34,2022-03-27,Saint Peter's,N,North Carolina,ROUND-8,L 49-69,*,32,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,0,2,2,2,1,0,0,1,7,4.8,N,0,0,daryl-banks-iii-1,Daryl Banks III,2022

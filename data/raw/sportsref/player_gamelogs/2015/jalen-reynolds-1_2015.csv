@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2014-11-14,Xavier,,Northern Arizona,REG (Non-Conf),W 93-60,,23,8,9,0.889,0,0,,8,9,0.889,0.889,0,1,0.0,0,5,5,1,0,2,1,2,16,14.3,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+2,33,2,2014-11-18,Xavier,,Long Beach State,REG (Non-Conf),W 97-74,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,6,6,0,0,0,0,4,4,2.9,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+3,34,3,2014-11-21,Xavier,,Stephen F. Austin,REG (Non-Conf),W 81-63,,19,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,6,8,0,0,2,0,4,4,4.6,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+4,35,4,2014-11-24,Xavier,,Murray State,REG (Non-Conf),W 89-62,,18,6,10,0.6,0,1,0.0,6,9,0.667,0.6,0,2,0.0,4,7,11,1,0,2,1,3,12,11.4,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+5,36,5,2014-11-27,Xavier,N,San Diego,REG (Non-Conf),W 82-71,,16,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,0,1,1,0,0,0,0,4,9,5.8,N,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+6,37,6,2014-11-28,Xavier,N,UTEP,REG (Non-Conf),L 73-77,,26,4,5,0.8,0,0,,4,5,0.8,0.8,1,3,0.333,1,6,7,1,1,0,0,1,9,10.1,N,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+7,38,7,2014-11-30,Xavier,N,Long Beach State,REG (Non-Conf),L 70-73,,13,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,1,4,5,1,0,0,3,4,8,2.3,N,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+8,39,8,2014-12-06,Xavier,,Alabama,REG (Non-Conf),W 97-84,,21,5,8,0.625,0,0,,5,8,0.625,0.625,2,3,0.667,5,2,7,0,1,1,1,2,12,12.0,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+9,40,9,2014-12-09,Xavier,,IUPUI,REG (Non-Conf),W 66-43,,12,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,3,2,5,0,0,1,2,2,3,2.5,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+10,41,10,2014-12-13,Xavier,@,Missouri,REG (Non-Conf),W 74-58,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,3,2,-0.2,A,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+11,42,11,2014-12-20,Xavier,@,Auburn,REG (Non-Conf),L 88-89 (2OT),,25,7,9,0.778,0,0,,7,9,0.778,0.778,2,3,0.667,3,3,6,0,2,1,2,2,16,15.0,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+12,43,12,2014-12-28,Xavier,,Florida Gulf Coast,REG (Non-Conf),W 71-57,,17,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,1,2,3,0,0,3,0,3,7,5.8,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+13,44,13,2014-12-31,Xavier,,Georgetown,REG (Conf),W 70-53,,24,6,10,0.6,0,0,,6,10,0.6,0.6,5,6,0.833,1,3,4,1,0,0,1,3,17,12.1,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+14,45,14,2015-01-03,Xavier,@,DePaul,REG (Conf),L 68-71,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,3,4,0,1,2,3,2,6,4.6,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+15,46,15,2015-01-07,Xavier,,Seton Hall,REG (Conf),W 69-58,,18,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,6,7,0,0,0,2,2,6,2.7,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+16,47,16,2015-01-10,Xavier,@,Butler,REG (Conf),L 76-88,,18,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,1,4,5,0,1,0,0,5,11,9.6,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+17,48,17,2015-01-14,Xavier,@,Villanova,REG (Conf),L 75-88,,21,7,10,0.7,0,0,,7,10,0.7,0.7,0,0,,2,3,5,0,0,3,0,2,14,13.4,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+18,49,18,2015-01-17,Xavier,,Marquette,REG (Conf),W 62-58,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,2,6,8,0,0,0,0,0,4,5.8,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+19,50,19,2015-01-22,Xavier,@,Providence,REG (Conf),L 66-69 (OT),,25,5,8,0.625,0,0,,5,8,0.625,0.625,4,7,0.571,3,10,13,2,1,1,1,3,14,15.2,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+20,51,20,2015-01-24,Xavier,,DePaul,REG (Conf),W 89-76,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,0,0,1,3,2,0.1,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+21,52,21,2015-01-27,Xavier,@,Georgetown,REG (Conf),W 66-53,,14,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,4,5,0,1,1,1,4,2,1.6,A,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+22,53,22,2015-01-31,Xavier,@,Seton Hall,REG (Conf),L 82-90,,15,8,10,0.8,0,0,,8,10,0.8,0.8,1,2,0.5,2,6,8,0,0,2,2,3,17,14.2,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+23,54,23,2015-02-04,Xavier,,Creighton,REG (Conf),L 72-79 (OT),,30,5,9,0.556,0,0,,5,9,0.556,0.556,7,10,0.7,3,5,8,1,3,3,2,5,17,16.9,H,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+24,55,24,2015-02-07,Xavier,,Providence,REG (Conf),W 78-69,,28,9,10,0.9,0,0,,9,10,0.9,0.9,1,1,1.0,2,5,7,1,2,0,1,3,19,19.0,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+25,56,25,2015-02-10,Xavier,@,Marquette,REG (Conf),W 64-44,,24,3,11,0.273,0,0,,3,11,0.273,0.273,0,0,,4,5,9,1,1,2,1,4,6,4.3,A,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+26,57,26,2015-02-14,Xavier,,St. John's (NY),REG (Conf),L 70-78,,19,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,3,4,7,0,0,2,2,5,12,8.0,H,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+27,58,27,2015-02-18,Xavier,@,Cincinnati,REG (Non-Conf),W 59-57,,24,2,5,0.4,0,0,,2,5,0.4,0.4,3,5,0.6,1,4,5,0,0,0,1,4,7,2.8,A,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+28,59,28,2015-02-21,Xavier,,Butler,REG (Conf),W 73-56,,23,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,9,11,0,2,1,2,2,9,10.7,H,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+29,60,29,2015-02-23,Xavier,@,St. John's (NY),REG (Conf),L 57-58,,21,4,8,0.5,0,0,,4,8,0.5,0.5,1,1,1.0,4,3,7,0,0,1,3,4,9,4.8,A,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+30,61,30,2015-02-28,Xavier,,Villanova,REG (Conf),L 66-78,,24,6,6,1.0,0,0,,6,6,1.0,1.0,3,4,0.75,2,4,6,0,2,0,3,4,15,12.8,H,0,1,jalen-reynolds-1,Jalen Reynolds,2015
+31,62,31,2015-03-07,Xavier,@,Creighton,REG (Conf),W 74-73,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,2,4,0.5,1,6,7,1,0,0,3,2,6,4.0,A,1,1,jalen-reynolds-1,Jalen Reynolds,2015
+32,63,32,2015-03-12,Xavier,N,Butler,CTOURN,W 67-61 (OT),,20,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,1,5,6,0,2,1,2,5,12,10.3,N,1,0,jalen-reynolds-1,Jalen Reynolds,2015
+33,64,33,2015-03-13,Xavier,N,Georgetown,CTOURN,W 65-63,,18,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,3,2,5,0,0,1,0,4,8,6.4,N,1,0,jalen-reynolds-1,Jalen Reynolds,2015
+34,65,34,2015-03-14,Xavier,N,Villanova,CTOURN,L 52-69,,24,6,11,0.545,0,0,,6,11,0.545,0.545,1,2,0.5,1,3,4,0,0,1,0,3,13,8.4,N,0,0,jalen-reynolds-1,Jalen Reynolds,2015
+35,66,35,2015-03-19,Xavier,N,Ole Miss,ROUND-64,W 76-57,,27,2,12,0.167,0,0,,2,12,0.167,0.167,2,4,0.5,3,2,5,2,1,2,0,1,6,3.7,N,1,0,jalen-reynolds-1,Jalen Reynolds,2015
+36,67,36,2015-03-21,Xavier,N,Georgia State,ROUND-32,W 75-67,,26,8,9,0.889,0,0,,8,9,0.889,0.889,5,5,1.0,1,5,6,0,0,0,2,4,21,16.5,N,1,0,jalen-reynolds-1,Jalen Reynolds,2015
+37,68,37,2015-03-26,Xavier,N,Arizona,ROUND-16,L 60-68,,28,5,9,0.556,0,0,,5,9,0.556,0.556,2,2,1.0,2,1,3,0,0,1,0,4,12,8.5,N,0,0,jalen-reynolds-1,Jalen Reynolds,2015

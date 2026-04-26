@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2010-11-12,Brigham Young,,Fresno State,REG (Non-Conf),W 83-56,*,25,2,7,0.286,2,6,0.333,0,1,0.0,0.429,1,2,0.5,0,4,4,3,1,0,0,3,7,5.6,H,1,1,jackson-emery-1,Jackson Emery,2011
+2,70,2,2010-11-17,Brigham Young,,Utah State,REG (Non-Conf),W 78-72,*,24,4,11,0.364,1,5,0.2,3,6,0.5,0.409,1,1,1.0,1,2,3,0,1,0,0,4,10,4.6,H,1,1,jackson-emery-1,Jackson Emery,2011
+3,71,3,2010-11-20,Brigham Young,,Chicago State,REG (Non-Conf),W 109-60,*,24,3,8,0.375,2,7,0.286,1,1,1.0,0.5,2,4,0.5,0,2,2,1,4,0,0,2,10,9.3,H,1,1,jackson-emery-1,Jackson Emery,2011
+4,72,4,2010-11-23,Brigham Young,,Mississippi Valley State,REG (Non-Conf),W 86-36,*,26,4,12,0.333,3,10,0.3,1,2,0.5,0.458,4,5,0.8,2,4,6,2,5,0,2,2,15,14.0,H,1,1,jackson-emery-1,Jackson Emery,2011
+5,73,5,2010-11-26,Brigham Young,N,South Florida,REG (Non-Conf),W 77-75 (2OT),*,37,6,15,0.4,5,13,0.385,1,2,0.5,0.567,3,4,0.75,1,2,3,2,3,0,0,3,20,16.0,N,1,1,jackson-emery-1,Jackson Emery,2011
+6,74,6,2010-11-27,Brigham Young,N,St. Mary's (CA),REG (Non-Conf),W 74-73,*,38,6,11,0.545,3,6,0.5,3,5,0.6,0.682,0,0,,0,3,3,1,5,1,2,2,15,14.2,N,1,1,jackson-emery-1,Jackson Emery,2011
+7,75,7,2010-12-01,Brigham Young,@,Creighton,REG (Non-Conf),W 77-65,,30,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,0,6,6,3,1,0,0,1,13,14.6,A,1,1,jackson-emery-1,Jackson Emery,2011
+8,76,8,2010-12-04,Brigham Young,N,Hawaii,REG (Non-Conf),W 78-57,*,31,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,3,3,4,0,0,0,2,6,6.2,N,1,1,jackson-emery-1,Jackson Emery,2011
+9,77,9,2010-12-08,Brigham Young,N,Vermont,REG (Non-Conf),W 86-58,*,29,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,1,4,5,4,5,0,2,4,11,13.5,N,1,1,jackson-emery-1,Jackson Emery,2011
+10,78,10,2010-12-11,Brigham Young,N,Arizona,REG (Non-Conf),W 87-65,*,28,2,7,0.286,0,4,0.0,2,3,0.667,0.286,3,4,0.75,0,3,3,4,4,0,2,3,7,7.0,N,1,1,jackson-emery-1,Jackson Emery,2011
+11,79,11,2010-12-18,Brigham Young,N,UCLA,REG (Non-Conf),L 79-86,*,32,4,8,0.5,1,5,0.2,3,3,1.0,0.563,6,7,0.857,0,4,4,1,1,0,1,4,15,10.9,N,0,1,jackson-emery-1,Jackson Emery,2011
+12,80,12,2010-12-21,Brigham Young,@,Weber State,REG (Non-Conf),W 72-66,,25,3,10,0.3,1,6,0.167,2,4,0.5,0.35,1,2,0.5,0,2,2,1,3,0,0,3,8,4.9,A,1,1,jackson-emery-1,Jackson Emery,2011
+13,81,13,2010-12-23,Brigham Young,,UTEP,REG (Non-Conf),W 89-68,,36,6,11,0.545,6,9,0.667,0,2,0.0,0.818,5,6,0.833,0,6,6,4,6,1,0,3,23,27.4,H,1,1,jackson-emery-1,Jackson Emery,2011
+14,82,14,2010-12-30,Brigham Young,@,Buffalo,REG (Non-Conf),W 90-82,,36,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,4,0.75,1,3,4,5,4,0,0,4,5,9.7,A,1,1,jackson-emery-1,Jackson Emery,2011
+15,83,15,2011-01-01,Brigham Young,,Fresno Pacific,REG (Non-Conf),W 93-57,,22,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,1,4,5,4,1,0,3,1,12,11.0,H,1,1,jackson-emery-1,Jackson Emery,2011
+16,84,16,2011-01-05,Brigham Young,@,UNLV,REG (Conf),W 89-77,*,34,8,13,0.615,6,9,0.667,2,4,0.5,0.846,0,0,,0,4,4,0,2,0,0,4,22,17.7,A,1,1,jackson-emery-1,Jackson Emery,2011
+17,85,17,2011-01-08,Brigham Young,,Air Force,REG (Conf),W 76-66,*,37,2,11,0.182,2,11,0.182,0,0,,0.273,2,2,1.0,1,2,3,5,1,0,3,1,8,3.5,H,1,1,jackson-emery-1,Jackson Emery,2011
+18,86,18,2011-01-11,Brigham Young,@,Utah,REG (Conf),W 104-79,*,35,6,11,0.545,5,7,0.714,1,4,0.25,0.773,3,3,1.0,0,3,3,3,2,1,1,2,20,18.6,A,1,1,jackson-emery-1,Jackson Emery,2011
+19,87,19,2011-01-18,Brigham Young,,TCU,REG (Conf),W 83-67,*,31,6,8,0.75,5,7,0.714,1,1,1.0,1.063,0,0,,0,2,2,1,2,1,0,4,17,16.2,H,1,1,jackson-emery-1,Jackson Emery,2011
+20,88,20,2011-01-22,Brigham Young,@,Colorado State,REG (Conf),W 94-85,*,38,6,12,0.5,4,10,0.4,2,2,1.0,0.667,0,0,,0,1,1,3,1,0,0,1,16,13.0,A,1,1,jackson-emery-1,Jackson Emery,2011
+21,89,21,2011-01-26,Brigham Young,,San Diego State,REG (Conf),W 71-58,*,39,1,7,0.143,0,5,0.0,1,2,0.5,0.143,2,2,1.0,1,5,6,2,4,1,0,2,4,7.0,H,1,1,jackson-emery-1,Jackson Emery,2011
+22,90,22,2011-01-29,Brigham Young,@,New Mexico,REG (Conf),L 77-86,*,26,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,1,3,4,3,3,0,2,4,6,4.3,A,0,1,jackson-emery-1,Jackson Emery,2011
+23,91,23,2011-02-02,Brigham Young,@,Wyoming,REG (Conf),W 69-62,*,33,3,9,0.333,2,8,0.25,1,1,1.0,0.444,4,4,1.0,0,2,2,1,3,0,2,3,12,8.0,A,1,1,jackson-emery-1,Jackson Emery,2011
+24,92,24,2011-02-05,Brigham Young,,UNLV,REG (Conf),W 78-64,*,37,6,12,0.5,3,9,0.333,3,3,1.0,0.625,0,0,,0,5,5,4,4,0,1,4,15,14.7,H,1,1,jackson-emery-1,Jackson Emery,2011
+25,93,25,2011-02-09,Brigham Young,@,Air Force,REG (Conf),W 90-52,*,29,6,12,0.5,5,11,0.455,1,1,1.0,0.708,0,0,,0,1,1,5,2,0,2,3,17,13.6,A,1,1,jackson-emery-1,Jackson Emery,2011
+26,94,26,2011-02-12,Brigham Young,,Utah,REG (Conf),W 72-59,*,39,6,12,0.5,0,2,0.0,6,10,0.6,0.5,5,5,1.0,1,3,4,5,6,0,0,2,17,21.3,H,1,1,jackson-emery-1,Jackson Emery,2011
+27,95,27,2011-02-19,Brigham Young,@,TCU,REG (Conf),W 79-56,*,26,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,2,0.5,0,3,3,2,1,0,1,3,11,8.4,A,1,1,jackson-emery-1,Jackson Emery,2011
+28,96,28,2011-02-23,Brigham Young,,Colorado State,REG (Conf),W 84-76,*,34,3,9,0.333,2,8,0.25,1,1,1.0,0.444,3,4,0.75,1,2,3,2,4,1,2,3,11,9.7,H,1,1,jackson-emery-1,Jackson Emery,2011
+29,97,29,2011-02-26,Brigham Young,@,San Diego State,REG (Conf),W 80-67,*,40,4,10,0.4,2,6,0.333,2,4,0.5,0.5,3,3,1.0,0,3,3,2,3,1,3,1,13,10.2,A,1,1,jackson-emery-1,Jackson Emery,2011
+30,98,30,2011-03-02,Brigham Young,,New Mexico,REG (Conf),L 64-82,*,30,4,12,0.333,3,9,0.333,1,3,0.333,0.458,0,0,,0,3,3,2,4,0,2,4,11,6.9,H,0,1,jackson-emery-1,Jackson Emery,2011
+31,99,31,2011-03-05,Brigham Young,,Wyoming,REG (Conf),W 102-78,*,26,6,8,0.75,4,5,0.8,2,3,0.667,1.0,2,2,1.0,0,1,1,2,1,0,0,3,18,16.3,H,1,1,jackson-emery-1,Jackson Emery,2011
+32,100,32,2011-03-10,Brigham Young,N,TCU,CTOURN,W 64-58,*,40,3,13,0.231,1,8,0.125,2,5,0.4,0.269,2,2,1.0,0,3,3,3,1,1,2,2,9,3.0,N,1,0,jackson-emery-1,Jackson Emery,2011
+33,101,33,2011-03-11,Brigham Young,N,New Mexico,CTOURN,W 87-76,*,39,3,11,0.273,1,7,0.143,2,4,0.5,0.318,7,8,0.875,0,5,5,5,5,0,0,2,14,16.3,N,1,0,jackson-emery-1,Jackson Emery,2011
+34,102,34,2011-03-12,Brigham Young,N,San Diego State,CTOURN,L 54-72,*,36,4,11,0.364,3,8,0.375,1,3,0.333,0.5,0,0,,0,5,5,0,1,0,0,2,11,6.6,N,0,0,jackson-emery-1,Jackson Emery,2011
+35,103,35,2011-03-17,Brigham Young,N,Wofford,ROUND-64,W 74-66,*,40,2,8,0.25,0,4,0.0,2,4,0.5,0.25,4,4,1.0,2,3,5,3,2,0,1,1,8,8.2,N,1,0,jackson-emery-1,Jackson Emery,2011
+36,104,36,2011-03-19,Brigham Young,N,Gonzaga,ROUND-32,W 89-67,*,37,6,11,0.545,3,8,0.375,3,3,1.0,0.682,1,2,0.5,0,3,3,4,3,0,0,3,16,15.8,N,1,0,jackson-emery-1,Jackson Emery,2011
+37,105,37,2011-03-24,Brigham Young,N,Florida,ROUND-16,L 74-83 (OT),*,33,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,1,2,3,1,2,0,1,3,9,6.4,N,0,0,jackson-emery-1,Jackson Emery,2011

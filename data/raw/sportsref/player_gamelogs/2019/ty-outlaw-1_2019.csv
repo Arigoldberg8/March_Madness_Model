@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2018-11-09,Virginia Tech,,Gardner-Webb,REG (Non-Conf),W 87-59,*,23,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,2,0.0,1,5,6,1,1,0,1,4,5,2.8,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+2,65,2,2018-11-15,Virginia Tech,N,Ball State,REG (Non-Conf),W 73-64,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,1,0,2,1,1,2,1.6,N,1,1,ty-outlaw-1,Ty Outlaw,2019
+3,66,3,2018-11-16,Virginia Tech,N,Northeastern,REG (Non-Conf),W 88-60,,22,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,3,4,7,2,0,0,2,3,6,4.8,N,1,1,ty-outlaw-1,Ty Outlaw,2019
+4,67,4,2018-11-18,Virginia Tech,N,Purdue,REG (Non-Conf),W 89-83,,21,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,0,0,0,1,3,1.5,N,1,1,ty-outlaw-1,Ty Outlaw,2019
+5,68,5,2018-11-24,Virginia Tech,,Saint Francis (PA),REG (Non-Conf),W 75-37,,27,5,9,0.556,5,9,0.556,0,0,,0.833,0,0,,1,6,7,1,1,1,2,1,15,13.2,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+6,69,6,2018-11-27,Virginia Tech,@,Penn State,REG (Non-Conf),L 62-63,,32,6,9,0.667,4,5,0.8,2,4,0.5,0.889,0,0,,0,4,4,1,0,1,2,3,16,11.5,A,0,1,ty-outlaw-1,Ty Outlaw,2019
+7,70,7,2018-12-01,Virginia Tech,,Central Connecticut State,REG (Non-Conf),W 94-40,,23,5,8,0.625,3,5,0.6,2,3,0.667,0.813,2,4,0.5,2,4,6,1,1,1,0,5,15,13.6,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+8,71,8,2018-12-05,Virginia Tech,,VMI,REG (Non-Conf),W 89-68,,30,3,8,0.375,3,6,0.5,0,2,0.0,0.563,0,0,,2,9,11,1,0,0,0,3,9,8.2,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+9,72,9,2018-12-09,Virginia Tech,,South Carolina State,REG (Non-Conf),W 81-44,*,30,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,1,5,6,1,1,1,0,1,9,10.2,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+10,73,10,2018-12-15,Virginia Tech,N,Washington,REG (Non-Conf),W 73-61,*,31,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,6,6,3,2,0,0,3,8,11.8,N,1,1,ty-outlaw-1,Ty Outlaw,2019
+11,74,11,2018-12-19,Virginia Tech,,North Carolina A&T,REG (Non-Conf),W 82-60,*,21,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,2,3,5,0,0,0,0,1,3,1.8,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+12,75,12,2018-12-28,Virginia Tech,,Maryland Eastern Shore,REG (Non-Conf),W 85-40,,28,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,4,5,2,0,0,0,1,6,6.2,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+13,76,13,2019-01-01,Virginia Tech,,Notre Dame,REG (Conf),W 81-66,,28,5,9,0.556,4,7,0.571,1,2,0.5,0.778,0,0,,0,5,5,0,0,0,0,1,14,10.8,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+14,77,14,2019-01-05,Virginia Tech,,Boston College,REG (Conf),W 77-66,,18,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,2,0,0,1,1,6,2.9,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+15,78,15,2019-01-09,Virginia Tech,@,Georgia Tech,REG (Conf),W 52-49,*,30,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,3,4,0,0,1,0,0,2,0.5,A,1,1,ty-outlaw-1,Ty Outlaw,2019
+16,79,16,2019-01-15,Virginia Tech,@,Virginia,REG (Conf),L 59-81,,25,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,1,2,3,0,1,0,0,0,7,6.6,A,0,1,ty-outlaw-1,Ty Outlaw,2019
+17,80,17,2019-01-19,Virginia Tech,,Wake Forest,REG (Conf),W 87-71,,23,4,6,0.667,4,5,0.8,0,1,0.0,1.0,2,2,1.0,1,2,3,1,2,0,0,3,14,14.2,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+18,81,18,2019-01-21,Virginia Tech,@,North Carolina,REG (Conf),L 82-103,,30,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,3,3,3,0,0,1,3,3,0.0,A,0,1,ty-outlaw-1,Ty Outlaw,2019
+19,82,19,2019-01-26,Virginia Tech,,Syracuse,REG (Conf),W 78-56,,32,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,1,6,7,2,0,2,0,3,9,10.8,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+20,83,20,2019-01-30,Virginia Tech,@,Miami (FL),REG (Conf),W 82-70,,32,3,5,0.6,3,4,0.75,0,1,0.0,0.9,2,2,1.0,0,3,3,0,1,0,0,4,11,9.0,A,1,1,ty-outlaw-1,Ty Outlaw,2019
+21,84,21,2019-02-02,Virginia Tech,@,NC State,REG (Conf),W 47-24,*,26,0,3,0.0,0,3,0.0,0,0,,0.0,0,1,0.0,1,5,6,0,0,0,1,3,0,-2.5,A,1,1,ty-outlaw-1,Ty Outlaw,2019
+22,85,22,2019-02-04,Virginia Tech,,Louisville,REG (Conf),L 64-72,*,31,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,7,7,0,0,1,1,1,12,10.1,H,0,1,ty-outlaw-1,Ty Outlaw,2019
+23,86,23,2019-02-09,Virginia Tech,@,Clemson,REG (Conf),L 51-59,*,38,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,4,4,8,3,1,0,2,2,10,12.0,A,0,1,ty-outlaw-1,Ty Outlaw,2019
+24,87,24,2019-02-13,Virginia Tech,,Georgia Tech,REG (Conf),W 76-68,*,38,6,12,0.5,6,12,0.5,0,0,,0.75,2,3,0.667,0,3,3,1,1,3,0,1,20,17.9,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+25,88,25,2019-02-16,Virginia Tech,@,Pittsburgh,REG (Conf),W 70-64,*,37,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,9,9,0,1,0,1,2,7,5.9,A,1,1,ty-outlaw-1,Ty Outlaw,2019
+26,89,26,2019-02-18,Virginia Tech,,Virginia,REG (Conf),L 58-64,*,40,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,5,0,5,0,0,1,1,3,3,0.5,H,0,1,ty-outlaw-1,Ty Outlaw,2019
+27,90,27,2019-02-23,Virginia Tech,@,Notre Dame,REG (Conf),W 67-59,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,6,0.667,3,3,6,0,0,0,2,4,9,4.2,A,1,1,ty-outlaw-1,Ty Outlaw,2019
+28,91,28,2019-02-26,Virginia Tech,,Duke,REG (Conf),W 77-72,*,28,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,2,2,1,0,0,0,4,11,6.7,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+29,92,29,2019-03-05,Virginia Tech,@,Florida State,REG (Conf),L 64-73 (OT),*,44,3,7,0.429,3,7,0.429,0,0,,0.643,1,3,0.333,0,6,6,0,0,0,0,2,10,6.5,A,0,1,ty-outlaw-1,Ty Outlaw,2019
+30,93,30,2019-03-08,Virginia Tech,,Miami (FL),REG (Conf),W 84-70,*,31,5,10,0.5,5,9,0.556,0,1,0.0,0.75,4,5,0.8,0,4,4,2,0,0,0,3,19,15.0,H,1,1,ty-outlaw-1,Ty Outlaw,2019
+31,94,31,2019-03-13,Virginia Tech,N,Miami (FL),CTOURN,W 71-56,*,34,5,9,0.556,4,8,0.5,1,1,1.0,0.778,0,0,,1,7,8,0,1,0,0,4,14,11.9,N,1,0,ty-outlaw-1,Ty Outlaw,2019
+32,95,32,2019-03-14,Virginia Tech,N,Florida State,CTOURN,L 63-65 (OT),*,38,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,2,3,5,1,3,0,0,2,0,3.8,N,0,0,ty-outlaw-1,Ty Outlaw,2019
+33,96,33,2019-03-22,Virginia Tech,N,Saint Louis,ROUND-64,W 66-52,*,27,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,1,6,7,1,0,0,0,3,7,7.7,N,1,0,ty-outlaw-1,Ty Outlaw,2019
+34,97,34,2019-03-24,Virginia Tech,N,Liberty,ROUND-32,W 67-58,*,39,3,9,0.333,2,6,0.333,1,3,0.333,0.444,2,2,1.0,0,11,11,0,1,0,1,3,10,7.0,N,1,0,ty-outlaw-1,Ty Outlaw,2019
+35,98,35,2019-03-29,Virginia Tech,N,Duke,ROUND-16,L 73-75,*,30,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,0,0,0,0,0,1,3,5,-1.3,N,0,0,ty-outlaw-1,Ty Outlaw,2019

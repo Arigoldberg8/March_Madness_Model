@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,West Virginia,,Monmouth,REG (Non-Conf),W 64-54,,11,2,4,0.5,0,0,2,4,0.5,0.5,1,3,0.333,2,1,3,2,0,0,0,0,5,5.3,H,1,1,elijah-macon-1,Elijah Macon,2015
+2,2,3,2014-11-20,West Virginia,N,George Mason,REG (Non-Conf),W 91-65,,15,3,5,0.6,0,0,3,5,0.6,0.6,3,4,0.75,0,3,3,1,1,0,1,4,9,6.3,N,1,1,elijah-macon-1,Elijah Macon,2015
+3,3,4,2014-11-21,West Virginia,N,Boston College,REG (Non-Conf),W 70-66,,18,1,8,0.125,0,0,1,8,0.125,0.125,0,0,,4,0,4,0,0,0,2,1,2,-2.8,N,1,1,elijah-macon-1,Elijah Macon,2015
+4,4,5,2014-11-23,West Virginia,N,Connecticut,REG (Non-Conf),W 78-68,,20,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,4,3,7,1,0,2,2,3,6,4.2,N,1,1,elijah-macon-1,Elijah Macon,2015
+5,5,6,2014-11-26,West Virginia,N,VMI,REG (Non-Conf),W 103-72,,17,1,5,0.2,0,0,1,5,0.2,0.2,1,4,0.25,2,2,4,2,0,0,1,2,3,0.3,N,1,1,elijah-macon-1,Elijah Macon,2015
+6,6,7,2014-11-29,West Virginia,,College of Charleston,REG (Non-Conf),W 86-57,,13,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,4,5,2,0,1,1,3,6,5.8,H,1,1,elijah-macon-1,Elijah Macon,2015
+7,7,8,2014-12-04,West Virginia,,Louisiana State,REG (Non-Conf),L 73-74,,13,1,5,0.2,0,0,1,5,0.2,0.2,2,5,0.4,1,0,1,0,0,2,2,1,4,-0.6,H,0,1,elijah-macon-1,Elijah Macon,2015
+8,8,9,2014-12-07,West Virginia,@,Northern Kentucky,REG (Non-Conf),W 67-42,,14,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,2,5,0,0,1,2,2,6,5.0,A,1,1,elijah-macon-1,Elijah Macon,2015
+9,9,10,2014-12-14,West Virginia,N,Marshall,REG (Non-Conf),W 69-66,,12,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,0,3,1,0,0,1,0,2,2.1,N,1,1,elijah-macon-1,Elijah Macon,2015
+10,10,11,2014-12-20,West Virginia,N,NC State,REG (Non-Conf),W 83-69,,15,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,0,0,0,1,0,0,0,2,4,3.6,N,1,1,elijah-macon-1,Elijah Macon,2015
+11,11,12,2014-12-22,West Virginia,,Wofford,REG (Non-Conf),W 77-44,,12,3,4,0.75,0,0,3,4,0.75,0.75,5,5,1.0,0,4,4,0,1,2,2,1,11,10.6,H,1,1,elijah-macon-1,Elijah Macon,2015
+12,12,13,2014-12-30,West Virginia,,Virginia Tech,REG (Non-Conf),W 82-51,,12,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,1,0,1,2,0,0,1,1,4,3.0,H,1,1,elijah-macon-1,Elijah Macon,2015
+13,13,14,2015-01-03,West Virginia,@,TCU,REG (Conf),W 78-67,,8,0,0,,0,0,0,0,,,2,2,1.0,2,1,3,0,0,0,2,5,2,-0.3,A,1,1,elijah-macon-1,Elijah Macon,2015
+14,14,16,2015-01-10,West Virginia,,Iowa State,REG (Conf),L 72-74,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,elijah-macon-1,Elijah Macon,2015
+15,15,17,2015-01-13,West Virginia,,Oklahoma,REG (Conf),W 86-65,,9,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,2,1,3,0,0,0,2,2,9,5.3,H,1,1,elijah-macon-1,Elijah Macon,2015
+16,16,18,2015-01-17,West Virginia,@,Texas,REG (Conf),L 50-77,,24,0,3,0.0,0,0,0,3,0.0,0.0,4,6,0.667,2,1,3,1,0,1,3,3,4,0.0,A,0,1,elijah-macon-1,Elijah Macon,2015
+17,17,19,2015-01-24,West Virginia,,TCU,REG (Conf),W 86-85 (OT),,14,2,5,0.4,0,0,2,5,0.4,0.4,0,3,0.0,1,1,2,1,0,1,1,2,4,0.7,H,1,1,elijah-macon-1,Elijah Macon,2015
+18,18,20,2015-01-27,West Virginia,@,Kansas State,REG (Conf),W 65-59,,13,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,1,1,2,0,0,3,0,0,2,2.0,A,1,1,elijah-macon-1,Elijah Macon,2015
+19,19,21,2015-01-31,West Virginia,,Texas Tech,REG (Conf),W 77-58,,15,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,1,2,1,0,4,2,2.8,H,1,1,elijah-macon-1,Elijah Macon,2015
+20,20,22,2015-02-03,West Virginia,@,Oklahoma,REG (Conf),L 52-71,*,16,4,7,0.571,0,0,4,7,0.571,0.571,0,2,0.0,2,2,4,0,2,0,3,3,8,3.7,A,0,1,elijah-macon-1,Elijah Macon,2015
+21,21,23,2015-02-07,West Virginia,,Baylor,REG (Conf),L 69-87,,17,2,3,0.667,0,0,2,3,0.667,0.667,3,8,0.375,0,1,1,2,2,0,2,2,7,4.6,H,0,1,elijah-macon-1,Elijah Macon,2015
+22,22,24,2015-02-11,West Virginia,,Kansas State,REG (Conf),W 76-72,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,2,2,2,-0.4,H,1,1,elijah-macon-1,Elijah Macon,2015
+23,23,25,2015-02-14,West Virginia,@,Iowa State,REG (Conf),L 59-79,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,0,0,0,0,0,3,1,4,-0.7,A,0,1,elijah-macon-1,Elijah Macon,2015
+24,24,26,2015-02-16,West Virginia,,Kansas,REG (Conf),W 62-61,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,0,1,1,0,-2.9,H,1,1,elijah-macon-1,Elijah Macon,2015
+25,25,27,2015-02-21,West Virginia,@,Oklahoma State,REG (Conf),W 73-63,,11,2,2,1.0,0,0,2,2,1.0,1.0,1,4,0.25,2,2,4,0,0,0,1,3,5,3.0,A,1,1,elijah-macon-1,Elijah Macon,2015
+26,26,28,2015-02-24,West Virginia,,Texas,REG (Conf),W 71-64,,8,1,2,0.5,0,0,1,2,0.5,0.5,1,1,1.0,0,1,1,1,1,0,0,1,3,3.6,H,1,1,elijah-macon-1,Elijah Macon,2015
+27,27,29,2015-02-28,West Virginia,@,Baylor,REG (Conf),L 66-78,,17,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,0,5,5,3,0,1,0,2,9,9.5,A,0,1,elijah-macon-1,Elijah Macon,2015
+28,28,30,2015-03-03,West Virginia,@,Kansas,REG (Conf),L 69-76 (OT),,17,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,3,4,1,0,0,3,1,4,1.6,A,0,1,elijah-macon-1,Elijah Macon,2015
+29,29,31,2015-03-07,West Virginia,,Oklahoma State,REG (Conf),W 81-72,,12,4,6,0.667,0,0,4,6,0.667,0.667,0,1,0.0,3,1,4,0,0,0,0,0,8,7.4,H,1,1,elijah-macon-1,Elijah Macon,2015
+30,30,32,2015-03-12,West Virginia,N,Baylor,CTOURN,L 70-80,,16,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,3,2,5,2,0,1,0,4,4,4.1,N,0,0,elijah-macon-1,Elijah Macon,2015
+31,31,33,2015-03-20,West Virginia,N,Buffalo,ROUND-64,W 68-62,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,2,4,2,-2.3,N,1,0,elijah-macon-1,Elijah Macon,2015
+32,32,34,2015-03-22,West Virginia,N,Maryland,ROUND-32,W 69-59,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,N,1,0,elijah-macon-1,Elijah Macon,2015
+33,33,35,2015-03-26,West Virginia,N,Kentucky,ROUND-16,L 39-78,,19,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,2,3,5,0,1,0,0,1,0,0.1,N,0,0,elijah-macon-1,Elijah Macon,2015

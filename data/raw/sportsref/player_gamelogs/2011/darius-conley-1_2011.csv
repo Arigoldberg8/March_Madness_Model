@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2010-11-13,Saint Peter's,@,Robert Morris,REG (Non-Conf),L 30-55,,22,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,2,4,1,0,0,1,3,3,2.1,A,0,1,darius-conley-1,Darius Conley,2011
+2,32,2,2010-11-19,Saint Peter's,N,Old Dominion,REG (Non-Conf),L 52-59,,17,0,6,0.0,0,0,,0,6,0.0,0.0,0,2,0.0,1,5,6,0,0,0,2,4,0,-6.4,N,0,1,darius-conley-1,Darius Conley,2011
+3,33,3,2010-11-20,Saint Peter's,N,Long Beach State,REG (Non-Conf),L 56-68,,26,5,10,0.5,0,1,0.0,5,9,0.556,0.5,3,6,0.5,1,4,5,1,3,0,1,4,13,9.8,N,0,1,darius-conley-1,Darius Conley,2011
+4,34,4,2010-11-22,Saint Peter's,N,Alabama,REG (Non-Conf),W 50-49,,18,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,2,3,0,1,1,0,3,0,-1.0,N,1,1,darius-conley-1,Darius Conley,2011
+5,35,5,2010-11-27,Saint Peter's,,LIU Brooklyn,REG (Non-Conf),W 65-62,,14,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,1,1,2,0,0,0,0,3,1,-2.4,H,1,1,darius-conley-1,Darius Conley,2011
+6,36,6,2010-11-29,Saint Peter's,@,Seton Hall,REG (Non-Conf),L 49-69,,26,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,2,3,5,0,0,2,0,0,8,8.7,A,0,1,darius-conley-1,Darius Conley,2011
+7,37,7,2010-12-02,Saint Peter's,@,Loyola (MD),REG (Conf),W 55-52,*,19,2,8,0.25,0,0,,2,8,0.25,0.25,1,2,0.5,1,2,3,1,2,1,2,2,5,1.7,A,1,1,darius-conley-1,Darius Conley,2011
+8,38,8,2010-12-04,Saint Peter's,,Manhattan,REG (Conf),W 66-49,*,20,5,7,0.714,0,0,,5,7,0.714,0.714,1,4,0.25,2,3,5,2,1,1,2,3,11,9.1,H,1,1,darius-conley-1,Darius Conley,2011
+9,39,9,2010-12-11,Saint Peter's,@,Wagner,REG (Non-Conf),W 51-50,,19,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,1,4,5,0,3,0,3,4,6,4.6,A,1,1,darius-conley-1,Darius Conley,2011
+10,40,10,2010-12-18,Saint Peter's,,Fairleigh Dickinson,REG (Non-Conf),W 60-57,*,23,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,5,5,1,3,1,2,4,6,7.0,H,1,1,darius-conley-1,Darius Conley,2011
+11,41,11,2010-12-21,Saint Peter's,@,Binghamton,REG (Non-Conf),W 61-56,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,3,7,0.429,4,4,8,0,0,2,1,2,7,7.7,A,1,1,darius-conley-1,Darius Conley,2011
+12,42,12,2010-12-23,Saint Peter's,@,Rutgers,REG (Non-Conf),L 52-55,*,26,5,7,0.714,0,0,,5,7,0.714,0.714,2,4,0.5,3,3,6,0,2,0,0,4,12,11.7,A,0,1,darius-conley-1,Darius Conley,2011
+13,43,13,2010-12-29,Saint Peter's,@,Lehigh,REG (Non-Conf),L 64-77,*,32,2,10,0.2,0,0,,2,10,0.2,0.2,3,4,0.75,7,3,10,3,1,3,4,4,7,5.8,A,0,1,darius-conley-1,Darius Conley,2011
+14,44,14,2011-01-03,Saint Peter's,,Canisius,REG (Conf),W 63-55,,19,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,3,3,1,1,0,1,2,3,1.7,H,1,1,darius-conley-1,Darius Conley,2011
+15,45,15,2011-01-07,Saint Peter's,@,Iona,REG (Conf),L 52-70,,27,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,5,6,1,0,1,2,3,3,1.3,A,0,1,darius-conley-1,Darius Conley,2011
+16,46,16,2011-01-09,Saint Peter's,@,Fairfield,REG (Conf),L 43-70,*,18,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,2,3,5,1,0,0,2,2,0,-2.6,A,0,1,darius-conley-1,Darius Conley,2011
+17,47,17,2011-01-15,Saint Peter's,,Niagara,REG (Conf),W 77-57,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,4,5,0.8,4,3,7,0,0,0,0,4,12,11.8,H,1,1,darius-conley-1,Darius Conley,2011
+18,48,18,2011-01-17,Saint Peter's,,Loyola (MD),REG (Conf),L 63-65,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,4,6,0,0,1,0,5,4,4.0,H,0,1,darius-conley-1,Darius Conley,2011
+19,49,19,2011-01-21,Saint Peter's,,Siena,REG (Conf),W 77-69,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,1,4,5,0,0,0,1,4,7,5.0,H,1,1,darius-conley-1,Darius Conley,2011
+20,50,20,2011-01-23,Saint Peter's,@,Manhattan,REG (Conf),W 62-53,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,8,12,0.667,5,4,9,0,0,1,1,3,12,10.9,A,1,1,darius-conley-1,Darius Conley,2011
+21,51,21,2011-01-27,Saint Peter's,,Marist,REG (Conf),W 85-53,*,23,4,7,0.571,0,0,,4,7,0.571,0.571,2,3,0.667,4,12,16,2,2,0,2,3,10,12.9,H,1,1,darius-conley-1,Darius Conley,2011
+22,52,22,2011-01-29,Saint Peter's,,Rider,REG (Conf),W 80-60,*,14,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,2,1,3,0,2,1,0,4,8,7.1,H,1,1,darius-conley-1,Darius Conley,2011
+23,53,23,2011-02-04,Saint Peter's,@,Niagara,REG (Conf),W 70-47,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,1,1,1.0,1,4,5,1,0,0,2,3,3,0.0,A,1,1,darius-conley-1,Darius Conley,2011
+24,54,24,2011-02-06,Saint Peter's,@,Canisius,REG (Conf),L 45-59,*,19,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,2,2,4,1,1,2,1,2,8,10.1,A,0,1,darius-conley-1,Darius Conley,2011
+25,55,25,2011-02-11,Saint Peter's,@,Marist,REG (Conf),W 66-54,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,2,2,4,2,0,3,0,2,11,13.4,A,1,1,darius-conley-1,Darius Conley,2011
+26,56,26,2011-02-13,Saint Peter's,,Fairfield,REG (Conf),L 69-70 (OT),*,21,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,3,5,8,0,0,1,3,1,1,0.1,H,0,1,darius-conley-1,Darius Conley,2011
+27,57,27,2011-02-16,Saint Peter's,@,Siena,REG (Conf),W 67-57,*,16,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,0,0,0,1,3,0,1,3,9,7.2,A,1,1,darius-conley-1,Darius Conley,2011
+28,58,28,2011-02-19,Saint Peter's,@,Loyola Chicago,REG (Non-Conf),W 71-67,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,1,0,1,0,0,0,1,1,0,-2.2,A,1,1,darius-conley-1,Darius Conley,2011
+29,59,29,2011-02-25,Saint Peter's,,Iona,REG (Conf),L 59-73,*,18,5,7,0.714,0,0,,5,7,0.714,0.714,3,4,0.75,2,3,5,0,1,1,0,3,13,12.5,H,0,1,darius-conley-1,Darius Conley,2011
+30,60,30,2011-02-27,Saint Peter's,@,Rider,REG (Conf),L 72-75,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,3,3,1.0,2,5,7,0,1,1,2,4,9,7.0,A,0,1,darius-conley-1,Darius Conley,2011
+31,61,31,2011-03-05,Saint Peter's,N,Loyola (MD),CTOURN,W 70-60,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,1,1,1.0,0,3,3,0,0,1,2,4,11,5.4,N,1,0,darius-conley-1,Darius Conley,2011
+32,62,32,2011-03-06,Saint Peter's,N,Fairfield,CTOURN,W 62-48,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,2,2,0,1,0,0,3,6,4.8,N,1,0,darius-conley-1,Darius Conley,2011
+33,63,33,2011-03-07,Saint Peter's,N,Iona,CTOURN,W 62-57,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,1,1,0,2,2,2,-0.2,N,1,0,darius-conley-1,Darius Conley,2011
+34,64,34,2011-03-18,Saint Peter's,N,Purdue,ROUND-64,L 43-65,*,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,1,1,0,3,0,-0.9,N,0,0,darius-conley-1,Darius Conley,2011

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2010-11-12,Notre Dame,,Georgia Southern,REG (Non-Conf),W 98-61,,16,4,5,0.8,0,0,4,5,0.8,0.8,3,3,1.0,4,2,6,1,1,1,0,2,11,14.1,H,1,1,jack-cooley-1,Jack Cooley,2011
+2,23,2,2010-11-14,Notre Dame,,Liberty,REG (Non-Conf),W 72-51,,12,0,0,,0,0,0,0,,,0,0,,2,2,4,0,0,0,2,2,0,-0.8,H,1,1,jack-cooley-1,Jack Cooley,2011
+3,24,3,2010-11-17,Notre Dame,,Chicago State,REG (Non-Conf),W 102-62,,13,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,3,2,5,0,0,1,0,1,6,6.6,H,1,1,jack-cooley-1,Jack Cooley,2011
+4,25,4,2010-11-22,Notre Dame,,Maine,REG (Non-Conf),W 97-72,,14,6,7,0.857,0,0,6,7,0.857,0.857,1,1,1.0,1,4,5,0,0,2,2,2,13,11.0,H,1,1,jack-cooley-1,Jack Cooley,2011
+5,26,5,2010-11-25,Notre Dame,N,Georgia,REG (Non-Conf),W 89-83 (2OT),,18,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,3,1,4,2,0,0,0,0,7,7.7,N,1,1,jack-cooley-1,Jack Cooley,2011
+6,27,6,2010-11-26,Notre Dame,N,California,REG (Non-Conf),W 57-44,,8,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,1,1,2,1,0,1,0,2,1,0.1,N,1,1,jack-cooley-1,Jack Cooley,2011
+7,28,7,2010-11-28,Notre Dame,N,Wisconsin,REG (Non-Conf),W 58-51,,7,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,0,0,0,0,1.0,N,1,1,jack-cooley-1,Jack Cooley,2011
+8,29,8,2010-11-30,Notre Dame,,Indiana State,REG (Non-Conf),W 81-72,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,jack-cooley-1,Jack Cooley,2011
+9,30,9,2010-12-08,Notre Dame,N,Kentucky,REG (Non-Conf),L 58-72,,13,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,1,4,5,2,0,0,1,3,4,3.0,N,0,1,jack-cooley-1,Jack Cooley,2011
+10,31,10,2010-12-11,Notre Dame,,Gonzaga,REG (Non-Conf),W 83-79,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,0,1,0,2,1,0,3,2,3.2,H,1,1,jack-cooley-1,Jack Cooley,2011
+11,32,11,2010-12-19,Notre Dame,,Stony Brook,REG (Non-Conf),W 88-62,,10,3,4,0.75,0,0,3,4,0.75,0.75,1,1,1.0,1,2,3,0,0,1,0,1,7,7.0,H,1,1,jack-cooley-1,Jack Cooley,2011
+12,33,12,2010-12-22,Notre Dame,,UMBC,REG (Non-Conf),W 93-53,,13,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,3,1,4,0,0,0,0,3,8,8.3,H,1,1,jack-cooley-1,Jack Cooley,2011
+13,34,13,2010-12-29,Notre Dame,,Georgetown,REG (Conf),W 69-55,,5,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,H,1,1,jack-cooley-1,Jack Cooley,2011
+14,35,14,2011-01-01,Notre Dame,@,Syracuse,REG (Conf),L 58-70,,12,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,0,1,0,2,4,3.6,A,0,1,jack-cooley-1,Jack Cooley,2011
+15,36,15,2011-01-04,Notre Dame,,Connecticut,REG (Conf),W 73-70,,18,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,4,6,0,1,0,0,2,2,3.8,H,1,1,jack-cooley-1,Jack Cooley,2011
+16,37,16,2011-01-08,Notre Dame,,St. John's (NY),REG (Conf),W 76-61,,18,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,5,6,0,1,1,1,2,5,5.4,H,1,1,jack-cooley-1,Jack Cooley,2011
+17,38,17,2011-01-10,Notre Dame,@,Marquette,REG (Conf),L 57-79,,9,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,0,0,0,-0.1,A,0,1,jack-cooley-1,Jack Cooley,2011
+18,39,18,2011-01-16,Notre Dame,@,St. John's (NY),REG (Conf),L 54-72,,10,0,2,0.0,0,0,0,2,0.0,0.0,2,4,0.5,1,1,2,0,0,1,0,2,2,0.7,A,0,1,jack-cooley-1,Jack Cooley,2011
+19,40,19,2011-01-19,Notre Dame,,Cincinnati,REG (Conf),W 66-58,,9,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,H,1,1,jack-cooley-1,Jack Cooley,2011
+20,41,20,2011-01-22,Notre Dame,,Marquette,REG (Conf),W 80-75,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,H,1,1,jack-cooley-1,Jack Cooley,2011
+21,42,21,2011-01-24,Notre Dame,@,Pittsburgh,REG (Conf),W 56-51,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,0,2,2,1.9,A,1,1,jack-cooley-1,Jack Cooley,2011
+22,43,22,2011-02-03,Notre Dame,@,DePaul,REG (Conf),W 83-58,,7,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,0,1,1,1,0,0,0,3,3,1.4,A,1,1,jack-cooley-1,Jack Cooley,2011
+23,44,23,2011-02-06,Notre Dame,,Rutgers,REG (Conf),W 76-69,,4,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,0,1,0,0,1,0,0,2,2.4,H,1,1,jack-cooley-1,Jack Cooley,2011
+24,45,24,2011-02-09,Notre Dame,,Louisville,REG (Conf),W 89-79 (OT),,13,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,3,0,3,0,0,0,0,2,10,9.8,H,1,1,jack-cooley-1,Jack Cooley,2011
+25,46,25,2011-02-12,Notre Dame,@,South Florida,REG (Conf),W 78-55,,16,9,10,0.9,0,0,9,10,0.9,0.9,0,1,0.0,6,2,8,0,1,1,0,1,18,20.3,A,1,1,jack-cooley-1,Jack Cooley,2011
+26,47,26,2011-02-19,Notre Dame,@,West Virginia,REG (Conf),L 58-72,,9,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,3,3,1,0,0,0,1,0,-0.2,A,0,1,jack-cooley-1,Jack Cooley,2011
+27,48,27,2011-02-23,Notre Dame,@,Providence,REG (Conf),W 94-93,,8,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,2,0,0,0,0,2,3.4,A,1,1,jack-cooley-1,Jack Cooley,2011
+28,49,28,2011-02-26,Notre Dame,,Seton Hall,REG (Conf),W 60-48,,3,0,0,,0,0,0,0,,,0,2,0.0,0,1,1,0,0,0,1,1,0,-1.9,H,1,1,jack-cooley-1,Jack Cooley,2011
+29,50,29,2011-02-28,Notre Dame,,Villanova,REG (Conf),W 93-72,,11,0,0,,0,0,0,0,,,0,0,,3,2,5,1,0,1,0,1,0,3.7,H,1,1,jack-cooley-1,Jack Cooley,2011
+30,51,30,2011-03-05,Notre Dame,@,Connecticut,REG (Conf),W 70-67,,13,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,2,3,5,0,0,0,0,1,2,2.2,A,1,1,jack-cooley-1,Jack Cooley,2011
+31,52,31,2011-03-10,Notre Dame,N,Cincinnati,CTOURN,W 89-51,,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,4,7,0,0,1,0,1,4,6.3,N,1,0,jack-cooley-1,Jack Cooley,2011
+32,53,32,2011-03-11,Notre Dame,N,Louisville,CTOURN,L 77-83 (OT),,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,4,2,6,0,1,2,0,3,4,8.0,N,0,0,jack-cooley-1,Jack Cooley,2011
+33,54,33,2011-03-18,Notre Dame,N,Akron,ROUND-64,W 69-56,,4,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,0,1,0,1,0,0,1,4,4.3,N,1,0,jack-cooley-1,Jack Cooley,2011
+34,55,34,2011-03-20,Notre Dame,N,Florida State,ROUND-32,L 57-71,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,2,3,0,-3.2,N,0,0,jack-cooley-1,Jack Cooley,2011

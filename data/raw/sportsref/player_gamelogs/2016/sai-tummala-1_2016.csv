@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2015-11-13,Hawaii,,Montana State,REG (Non-Conf),W 87-76,,22,6,9,0.667,5,6,0.833,1,3,0.333,0.944,0,0,,0,3,3,0,0,2,0,2,17,14.6,H,1,1,sai-tummala-1,Sai Tummala,2016
+2,31,2,2015-11-15,Hawaii,N,Coastal Carolina,REG (Non-Conf),W 74-63,,18,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,2,1,3,0,1,0,1,4,6,4.1,N,1,1,sai-tummala-1,Sai Tummala,2016
+3,32,3,2015-11-16,Hawaii,,Nevada,REG (Non-Conf),W 76-75,,20,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,1,0.0,2,3,5,0,0,0,2,2,10,5.8,H,1,1,sai-tummala-1,Sai Tummala,2016
+4,33,4,2015-11-22,Hawaii,,Nicholls State,REG (Non-Conf),W 99-74,,10,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,1,1.0,1,2,3,2,0,0,2,4,6,3.8,H,1,1,sai-tummala-1,Sai Tummala,2016
+5,34,5,2015-11-28,Hawaii,@,Texas Tech,REG (Non-Conf),L 74-82,,24,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,1,0.0,0,0,0,1,1,0,0,4,0,-3.8,A,0,1,sai-tummala-1,Sai Tummala,2016
+6,35,6,2015-12-02,Hawaii,,Arkansas–Pine Bluff,REG (Non-Conf),W 75-47,,25,6,13,0.462,0,3,0.0,6,10,0.6,0.462,0,0,,2,3,5,2,0,0,4,3,12,3.8,H,1,1,sai-tummala-1,Sai Tummala,2016
+7,36,7,2015-12-08,Hawaii,,Hawaii Hilo,REG (Non-Conf),W 86-67,*,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,1,0,0,2,2,2,-1.2,H,1,1,sai-tummala-1,Sai Tummala,2016
+8,37,8,2015-12-12,Hawaii,,Hawaii Pacific,REG (Non-Conf),W 83-71,,14,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,2,3,0,2,0,1,1,2,0.8,H,1,1,sai-tummala-1,Sai Tummala,2016
+9,38,9,2015-12-22,Hawaii,,Northern Iowa,REG (Non-Conf),W 68-52,,28,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,2,2,4,2,0,0,0,0,12,11.7,H,1,1,sai-tummala-1,Sai Tummala,2016
+10,39,10,2015-12-23,Hawaii,,Oklahoma,REG (Non-Conf),L 81-84,,28,3,10,0.3,1,7,0.143,2,3,0.667,0.35,0,2,0.0,0,5,5,0,0,1,0,4,7,1.0,H,0,1,sai-tummala-1,Sai Tummala,2016
+11,40,11,2015-12-25,Hawaii,,Auburn,REG (Non-Conf),W 79-67,,11,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,1,1.0,1,2,3,0,0,0,0,4,6,3.7,H,1,1,sai-tummala-1,Sai Tummala,2016
+12,41,12,2015-12-29,Hawaii,,Mississippi Valley State,REG (Non-Conf),W 77-48,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,5,6,1,0,0,2,2,5,3.8,H,1,1,sai-tummala-1,Sai Tummala,2016
+13,42,13,2016-01-02,Hawaii,,Howard,REG (Non-Conf),W 94-59,,20,0,5,0.0,0,2,0.0,0,3,0.0,0.0,2,2,1.0,1,1,2,1,0,0,1,2,2,-1.6,H,1,1,sai-tummala-1,Sai Tummala,2016
+14,43,14,2016-01-06,Hawaii,,Cal Poly,REG (Conf),W 86-73,,9,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,1,2,3,1,0,0,1,3,6,5.2,H,1,1,sai-tummala-1,Sai Tummala,2016
+15,44,15,2016-01-09,Hawaii,,UC Santa Barbara,REG (Conf),W 65-57,,19,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,0,1,1,0,0,0,1,3,1.6,H,1,1,sai-tummala-1,Sai Tummala,2016
+16,45,16,2016-01-14,Hawaii,@,UC Riverside,REG (Conf),W 80-71,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,1,0,2,2,1.9,A,1,1,sai-tummala-1,Sai Tummala,2016
+17,46,17,2016-01-16,Hawaii,@,Cal State Fullerton,REG (Conf),W 86-79 (OT),,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,4,1.0,2,3,5,3,0,0,0,3,9,9.5,A,1,1,sai-tummala-1,Sai Tummala,2016
+18,47,18,2016-01-23,Hawaii,,UC Davis,REG (Conf),W 78-62,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,1,0,0,1,3,3,1.2,H,1,1,sai-tummala-1,Sai Tummala,2016
+19,48,19,2016-01-30,Hawaii,,Long Beach State,REG (Conf),L 64-78,,15,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,1,2,3,1,1,1,2,3,4,1.7,H,0,1,sai-tummala-1,Sai Tummala,2016
+20,49,20,2016-02-04,Hawaii,@,UC Santa Barbara,REG (Conf),W 76-64,,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,4,3,1.4,A,1,1,sai-tummala-1,Sai Tummala,2016
+21,50,21,2016-02-06,Hawaii,@,Cal Poly,REG (Conf),W 75-60,,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,4,0.5,0,2,2,0,0,0,0,1,7,4.4,A,1,1,sai-tummala-1,Sai Tummala,2016
+22,51,22,2016-02-11,Hawaii,,UC Irvine,REG (Conf),W 74-52,,19,4,10,0.4,4,7,0.571,0,3,0.0,0.6,0,0,,2,2,4,3,1,0,0,0,12,11.7,H,1,1,sai-tummala-1,Sai Tummala,2016
+23,52,23,2016-02-13,Hawaii,,Cal State Fullerton,REG (Conf),W 76-59,,28,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,3,0.333,4,6,10,0,1,2,2,5,11,9.9,H,1,1,sai-tummala-1,Sai Tummala,2016
+24,53,24,2016-02-18,Hawaii,@,Cal State Northridge,REG (Conf),W 69-63,,13,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,4,4,1,0,0,0,2,6,5.8,A,1,1,sai-tummala-1,Sai Tummala,2016
+25,54,25,2016-02-20,Hawaii,@,UC Irvine,REG (Conf),W 75-71,,18,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,0,0,0,0,0,0,0,5,11,7.1,A,1,1,sai-tummala-1,Sai Tummala,2016
+26,55,26,2016-02-25,Hawaii,,UC Riverside,REG (Conf),L 71-77,,12,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,0,1,0,0,0,0,4,2,-2.0,H,0,1,sai-tummala-1,Sai Tummala,2016
+27,56,27,2016-02-27,Hawaii,,Cal State Northridge,REG (Conf),W 89-78,,27,5,8,0.625,2,4,0.5,3,4,0.75,0.75,4,4,1.0,3,3,6,0,1,0,1,3,16,14.2,H,1,1,sai-tummala-1,Sai Tummala,2016
+28,57,28,2016-03-03,Hawaii,@,UC Davis,REG (Conf),W 67-65,,23,5,9,0.556,3,6,0.5,2,3,0.667,0.722,1,1,1.0,2,1,3,1,0,0,1,3,14,9.9,A,1,1,sai-tummala-1,Sai Tummala,2016
+29,58,29,2016-03-05,Hawaii,@,Long Beach State,REG (Conf),L 72-74,,28,2,8,0.25,0,5,0.0,2,3,0.667,0.25,0,0,,1,3,4,0,1,0,1,5,4,-1.2,A,0,1,sai-tummala-1,Sai Tummala,2016
+30,59,30,2016-03-10,Hawaii,N,Cal State Fullerton,CTOURN,W 75-44,,13,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,2,3,1,0,1,0,0,5,5.0,N,1,0,sai-tummala-1,Sai Tummala,2016
+31,60,31,2016-03-11,Hawaii,N,UC Santa Barbara,CTOURN,W 88-76,,17,1,5,0.2,1,5,0.2,0,0,,0.3,1,2,0.5,0,1,1,3,0,0,0,1,4,2.5,N,1,0,sai-tummala-1,Sai Tummala,2016
+32,61,32,2016-03-12,Hawaii,N,Long Beach State,CTOURN,W 64-60,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,1,0,-3.1,N,1,0,sai-tummala-1,Sai Tummala,2016
+33,62,33,2016-03-18,Hawaii,N,California,ROUND-64,W 77-66,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,1,0,2,4,5,1.4,N,1,0,sai-tummala-1,Sai Tummala,2016
+34,63,34,2016-03-20,Hawaii,N,Maryland,ROUND-32,L 60-73,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.2,N,0,0,sai-tummala-1,Sai Tummala,2016

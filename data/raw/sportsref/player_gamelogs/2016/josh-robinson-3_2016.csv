@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2015-11-13,Austin Peay,@,Vanderbilt,REG (Non-Conf),L 41-80,*,26,2,13,0.154,0,4,0.0,2,9,0.222,0.154,3,4,0.75,1,1,2,0,0,0,1,1,7,-2.1,A,0,1,josh-robinson-3,Josh Robinson,2016
+2,32,2,2015-11-16,Austin Peay,@,Indiana,REG (Non-Conf),L 76-102,*,27,5,15,0.333,2,4,0.5,3,11,0.273,0.4,1,1,1.0,0,0,0,4,1,0,2,1,13,5.9,A,0,1,josh-robinson-3,Josh Robinson,2016
+3,33,3,2015-11-18,Austin Peay,,IPFW,REG (Non-Conf),L 77-80,*,34,6,17,0.353,4,9,0.444,2,8,0.25,0.471,9,9,1.0,0,2,2,3,0,0,2,4,25,14.6,H,0,1,josh-robinson-3,Josh Robinson,2016
+4,34,4,2015-11-21,Austin Peay,N,Cal Poly,REG (Non-Conf),L 64-73,*,36,5,18,0.278,1,6,0.167,4,12,0.333,0.306,3,3,1.0,0,4,4,2,0,0,6,1,14,-0.4,N,0,1,josh-robinson-3,Josh Robinson,2016
+5,35,5,2015-11-22,Austin Peay,@,Northern Colorado,REG (Non-Conf),W 91-76,*,33,6,9,0.667,3,6,0.5,3,3,1.0,0.833,2,3,0.667,0,1,1,3,0,0,1,0,17,14.1,A,1,1,josh-robinson-3,Josh Robinson,2016
+6,36,6,2015-11-25,Austin Peay,,Oakland City,REG (Non-Conf),W 83-55,*,26,7,14,0.5,0,5,0.0,7,9,0.778,0.5,2,2,1.0,0,1,1,2,3,0,1,0,16,12.7,H,1,1,josh-robinson-3,Josh Robinson,2016
+7,37,7,2015-11-28,Austin Peay,,Samford,REG (Non-Conf),W 74-73,*,35,4,12,0.333,2,6,0.333,2,6,0.333,0.417,5,6,0.833,0,5,5,2,0,0,4,2,15,5.9,H,1,1,josh-robinson-3,Josh Robinson,2016
+8,38,8,2015-12-02,Austin Peay,@,Texas A&M–Corpus Christi,REG (Non-Conf),L 48-61,*,30,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,2,2,1,2,0,0,0,4,2.5,A,0,1,josh-robinson-3,Josh Robinson,2016
+9,39,9,2015-12-05,Austin Peay,@,Troy,REG (Non-Conf),W 80-71,*,37,7,16,0.438,1,7,0.143,6,9,0.667,0.469,2,4,0.5,2,1,3,2,1,0,2,1,17,9.5,A,1,1,josh-robinson-3,Josh Robinson,2016
+10,40,10,2015-12-12,Austin Peay,@,IPFW,REG (Non-Conf),L 68-85,*,32,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,0,2,2,1,0,0,1,2,14,8.5,A,0,1,josh-robinson-3,Josh Robinson,2016
+11,41,11,2015-12-16,Austin Peay,@,North Florida,REG (Non-Conf),L 70-80,*,27,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,0,,1,3,4,1,1,0,2,0,2,-1.9,A,0,1,josh-robinson-3,Josh Robinson,2016
+12,42,12,2015-12-20,Austin Peay,@,Lipscomb,REG (Non-Conf),W 92-84,*,25,8,15,0.533,4,9,0.444,4,6,0.667,0.667,1,1,1.0,0,5,5,1,0,0,3,2,21,12.1,A,1,1,josh-robinson-3,Josh Robinson,2016
+13,43,13,2015-12-22,Austin Peay,,Wofford,REG (Non-Conf),W 84-77,*,33,7,9,0.778,2,2,1.0,5,7,0.714,0.889,14,14,1.0,1,1,2,3,1,0,3,1,30,27.2,H,1,1,josh-robinson-3,Josh Robinson,2016
+14,44,14,2015-12-28,Austin Peay,,Texas A&M–Corpus Christi,REG (Non-Conf),L 70-74,*,38,4,17,0.235,1,6,0.167,3,11,0.273,0.265,7,8,0.875,1,3,4,4,0,0,4,1,16,5.3,H,0,1,josh-robinson-3,Josh Robinson,2016
+15,45,15,2015-12-30,Austin Peay,,Westminster (MO),REG (Non-Conf),W 112-61,*,25,5,10,0.5,1,2,0.5,4,8,0.5,0.55,2,2,1.0,1,5,6,4,2,0,1,2,13,13.2,H,1,1,josh-robinson-3,Josh Robinson,2016
+16,46,16,2016-01-02,Austin Peay,,Eastern Kentucky,REG (Conf),L 70-79,*,31,5,13,0.385,1,6,0.167,4,7,0.571,0.423,0,0,,0,2,2,0,2,0,3,3,11,2.3,H,0,1,josh-robinson-3,Josh Robinson,2016
+17,47,17,2016-01-07,Austin Peay,,Jacksonville State,REG (Conf),W 73-54,*,31,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,0,,0,4,4,4,1,0,0,1,13,14.0,H,1,1,josh-robinson-3,Josh Robinson,2016
+18,48,18,2016-01-09,Austin Peay,,Tennessee Tech,REG (Conf),L 66-72,*,39,6,11,0.545,4,7,0.571,2,4,0.5,0.727,0,0,,0,8,8,4,2,0,1,0,16,16.9,H,0,1,josh-robinson-3,Josh Robinson,2016
+19,49,19,2016-01-14,Austin Peay,@,Tennessee State,REG (Conf),L 52-66,*,33,3,13,0.231,0,3,0.0,3,10,0.3,0.231,2,2,1.0,0,1,1,1,3,0,2,1,8,1.7,A,0,1,josh-robinson-3,Josh Robinson,2016
+20,50,20,2016-01-16,Austin Peay,@,Belmont,REG (Conf),L 58-76,*,23,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,0,0,0,0,0,2,0,4,-2.8,A,0,1,josh-robinson-3,Josh Robinson,2016
+21,51,21,2016-01-21,Austin Peay,,SIU Edwardsville,REG (Conf),W 90-86 (OT),*,44,9,21,0.429,4,9,0.444,5,12,0.417,0.524,17,18,0.944,1,4,5,2,4,0,3,3,39,30.6,H,1,1,josh-robinson-3,Josh Robinson,2016
+22,52,22,2016-01-23,Austin Peay,,Eastern Illinois,REG (Conf),L 86-87 (OT),*,43,4,18,0.222,1,9,0.111,3,9,0.333,0.25,11,14,0.786,2,2,4,4,2,0,5,2,20,8.8,H,0,1,josh-robinson-3,Josh Robinson,2016
+23,53,23,2016-01-27,Austin Peay,@,Morehead State,REG (Conf),L 65-75,*,36,4,13,0.308,3,8,0.375,1,5,0.2,0.423,2,4,0.5,1,2,3,2,1,0,4,2,13,3.6,A,0,1,josh-robinson-3,Josh Robinson,2016
+24,54,24,2016-01-30,Austin Peay,@,Southeast Missouri State,REG (Conf),W 86-80,*,36,9,16,0.563,7,12,0.583,2,4,0.5,0.781,5,7,0.714,0,5,5,2,0,0,4,1,30,20.1,A,1,1,josh-robinson-3,Josh Robinson,2016
+25,55,25,2016-02-04,Austin Peay,@,UT Martin,REG (Conf),L 77-86,*,35,4,13,0.308,4,12,0.333,0,1,0.0,0.462,4,5,0.8,0,1,1,3,1,0,2,1,16,9.1,A,0,1,josh-robinson-3,Josh Robinson,2016
+26,56,26,2016-02-06,Austin Peay,@,Murray State,REG (Conf),W 76-73,*,33,4,8,0.5,2,4,0.5,2,4,0.5,0.625,11,12,0.917,0,2,2,2,0,0,2,2,21,15.8,A,1,1,josh-robinson-3,Josh Robinson,2016
+27,57,27,2016-02-10,Austin Peay,@,Eastern Illinois,REG (Conf),W 79-70,*,34,3,7,0.429,3,6,0.5,0,1,0.0,0.643,12,15,0.8,1,2,3,1,1,0,1,1,21,17.7,A,1,1,josh-robinson-3,Josh Robinson,2016
+28,58,28,2016-02-13,Austin Peay,,UT Martin,REG (Conf),L 84-85 (OT),*,42,5,17,0.294,2,7,0.286,3,10,0.3,0.353,6,6,1.0,0,5,5,4,1,0,5,3,18,7.2,H,0,1,josh-robinson-3,Josh Robinson,2016
+29,59,29,2016-02-20,Austin Peay,,Murray State,REG (Conf),L 60-76,*,38,6,12,0.5,3,5,0.6,3,7,0.429,0.625,2,3,0.667,1,3,4,3,0,0,5,2,17,8.5,H,0,1,josh-robinson-3,Josh Robinson,2016
+30,60,30,2016-02-25,Austin Peay,@,SIU Edwardsville,REG (Conf),W 80-75,*,39,8,13,0.615,3,5,0.6,5,8,0.625,0.731,3,3,1.0,0,3,3,3,0,0,6,1,22,12.7,A,1,1,josh-robinson-3,Josh Robinson,2016
+31,61,31,2016-02-27,Austin Peay,,Southeast Missouri State,REG (Conf),W 83-75,*,37,6,13,0.462,0,4,0.0,6,9,0.667,0.462,6,9,0.667,0,4,4,5,0,0,6,0,18,8.8,H,1,1,josh-robinson-3,Josh Robinson,2016
+32,62,32,2016-03-02,Austin Peay,N,Tennessee Tech,CTOURN,W 92-72,*,32,3,12,0.25,0,8,0.0,3,4,0.75,0.25,5,6,0.833,1,2,3,6,2,0,4,1,11,6.5,N,1,0,josh-robinson-3,Josh Robinson,2016
+33,63,33,2016-03-03,Austin Peay,N,Tennessee State,CTOURN,W 74-72,*,36,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,10,0.6,0,4,4,3,0,0,4,4,17,8.8,N,1,0,josh-robinson-3,Josh Robinson,2016
+34,64,34,2016-03-04,Austin Peay,N,Belmont,CTOURN,W 97-96 (OT),*,45,9,16,0.563,3,6,0.5,6,10,0.6,0.656,4,6,0.667,0,2,2,5,2,0,1,1,25,21.3,N,1,0,josh-robinson-3,Josh Robinson,2016
+35,65,35,2016-03-05,Austin Peay,N,UT Martin,CTOURN,W 83-73,*,40,4,14,0.286,2,8,0.25,2,6,0.333,0.357,10,12,0.833,0,5,5,4,2,0,2,0,20,15.3,N,1,0,josh-robinson-3,Josh Robinson,2016
+36,66,36,2016-03-17,Austin Peay,N,Kansas,ROUND-64,L 79-105,*,37,7,16,0.438,3,7,0.429,4,9,0.444,0.531,7,8,0.875,0,1,1,1,1,0,2,2,24,14.4,N,0,0,josh-robinson-3,Josh Robinson,2016

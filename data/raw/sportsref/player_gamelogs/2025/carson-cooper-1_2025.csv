@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2024-11-04,Michigan State,,Monmouth,REG (Non-Conf),W 81-57,,11,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,1,3,2,1,0,1,1,4,5.0,H,1,1,carson-cooper-1,Carson Cooper,2025
+2,67,2,2024-11-07,Michigan State,,Niagara,REG (Non-Conf),W 96-60,,14,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,2,4,2,0,0,0,2,4,4.9,H,1,1,carson-cooper-1,Carson Cooper,2025
+3,68,3,2024-11-12,Michigan State,N,Kansas,REG (Non-Conf),L 69-77,,16,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,0,5,5,0,1,0,1,1,6,6.1,N,0,1,carson-cooper-1,Carson Cooper,2025
+4,69,4,2024-11-16,Michigan State,,Bowling Green,REG (Non-Conf),W 86-72,,19,4,5,0.8,0,0,,4,5,0.8,0.8,4,4,1.0,1,1,2,0,0,1,0,0,12,11.8,H,1,1,carson-cooper-1,Carson Cooper,2025
+5,70,5,2024-11-19,Michigan State,,Samford,REG (Non-Conf),W 83-75,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,4,5,0,0,0,1,0,2,1.1,H,1,1,carson-cooper-1,Carson Cooper,2025
+6,71,6,2024-11-25,Michigan State,N,Colorado,REG (Non-Conf),W 72-56,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,5,6,0,0,1,1,2,6,6.2,N,1,1,carson-cooper-1,Carson Cooper,2025
+7,72,7,2024-11-26,Michigan State,N,Memphis,REG (Non-Conf),L 63-71,,8,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,0,0,1,2,0,-0.1,N,0,1,carson-cooper-1,Carson Cooper,2025
+8,73,8,2024-11-27,Michigan State,N,North Carolina,REG (Non-Conf),W 94-91 (OT),,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,1,2,1,0,1,0,1,6,6.7,N,1,1,carson-cooper-1,Carson Cooper,2025
+9,74,9,2024-12-04,Michigan State,@,Minnesota,REG (Conf),W 90-72,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,0,1,1,3,2,0.8,A,1,1,carson-cooper-1,Carson Cooper,2025
+10,75,10,2024-12-07,Michigan State,,Nebraska,REG (Conf),W 89-52,,17,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,5,5,1,0,0,0,3,4,4.7,H,1,1,carson-cooper-1,Carson Cooper,2025
+11,76,11,2024-12-17,Michigan State,N,Oakland,REG (Non-Conf),W 77-58,,12,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,1,0,0,1,3,2,-1.3,N,1,1,carson-cooper-1,Carson Cooper,2025
+12,77,12,2024-12-21,Michigan State,,Florida Atlantic,REG (Non-Conf),W 86-69,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,2,2,0,2,1.4,H,1,1,carson-cooper-1,Carson Cooper,2025
+13,78,13,2024-12-30,Michigan State,,Western Michigan,REG (Non-Conf),W 80-62,,18,5,6,0.833,0,0,,5,6,0.833,0.833,3,3,1.0,2,4,6,0,0,2,2,2,13,12.0,H,1,1,carson-cooper-1,Carson Cooper,2025
+14,79,14,2025-01-03,Michigan State,@,Ohio State,REG (Conf),W 69-62,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,A,1,1,carson-cooper-1,Carson Cooper,2025
+15,80,15,2025-01-09,Michigan State,,Washington,REG (Conf),W 88-54,,12,0,0,,0,0,,0,0,,,6,6,1.0,0,7,7,1,0,2,0,3,6,9.0,H,1,1,carson-cooper-1,Carson Cooper,2025
+16,81,16,2025-01-12,Michigan State,@,Northwestern,REG (Conf),W 78-68,,14,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,1,4,5,2,0,0,0,5,4,2.9,A,1,1,carson-cooper-1,Carson Cooper,2025
+17,82,17,2025-01-15,Michigan State,,Penn State,REG (Conf),W 90-85,,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,3,5,1,0,1,0,1,4,6.0,H,1,1,carson-cooper-1,Carson Cooper,2025
+18,83,18,2025-01-19,Michigan State,,Illinois,REG (Conf),W 80-78,,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,7,8,0,0,1,0,2,4,5.4,H,1,1,carson-cooper-1,Carson Cooper,2025
+19,84,19,2025-01-25,Michigan State,@,Rutgers,REG (Conf),W 81-74,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,5,5,0,0,1,0,4,3,2.2,A,1,1,carson-cooper-1,Carson Cooper,2025
+20,85,20,2025-01-28,Michigan State,,Minnesota,REG (Conf),W 73-51,,21,3,4,0.75,0,0,,3,4,0.75,0.75,3,6,0.5,5,6,11,0,0,3,0,0,9,13.6,H,1,1,carson-cooper-1,Carson Cooper,2025
+21,86,21,2025-02-01,Michigan State,@,Southern California,REG (Conf),L 64-70,,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,1,3,1,0,1,1,4,6,4.9,A,0,1,carson-cooper-1,Carson Cooper,2025
+22,87,22,2025-02-04,Michigan State,@,UCLA,REG (Conf),L 61-63,,30,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,3,6,9,0,0,0,3,3,6,4.0,A,0,1,carson-cooper-1,Carson Cooper,2025
+23,88,23,2025-02-08,Michigan State,,Oregon,REG (Conf),W 86-74,,23,1,2,0.5,0,0,,1,2,0.5,0.5,7,8,0.875,2,4,6,2,1,0,1,3,9,10.4,H,1,1,carson-cooper-1,Carson Cooper,2025
+24,89,24,2025-02-11,Michigan State,,Indiana,REG (Conf),L 67-71,,16,1,1,1.0,0,0,,1,1,1.0,1.0,5,8,0.625,3,3,6,0,1,0,1,5,7,6.5,H,0,1,carson-cooper-1,Carson Cooper,2025
+25,90,25,2025-02-15,Michigan State,@,Illinois,REG (Conf),W 79-65,,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,2,6,8,0,2,1,0,4,4,6.2,A,1,1,carson-cooper-1,Carson Cooper,2025
+26,91,26,2025-02-18,Michigan State,,Purdue,REG (Conf),W 75-66,,15,3,3,1.0,0,0,,3,3,1.0,1.0,1,4,0.25,1,1,2,0,0,0,1,3,7,3.7,H,1,1,carson-cooper-1,Carson Cooper,2025
+27,92,27,2025-02-21,Michigan State,@,Michigan,REG (Conf),W 75-62,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,5,8,1,0,0,1,3,6,6.5,A,1,1,carson-cooper-1,Carson Cooper,2025
+28,93,28,2025-02-26,Michigan State,@,Maryland,REG (Conf),W 58-55,,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,4,5,0,0,0,0,2,2,0.7,A,1,1,carson-cooper-1,Carson Cooper,2025
+29,94,29,2025-03-02,Michigan State,,Wisconsin,REG (Conf),W 71-62,,22,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,4,4,1,0,2,1,2,8,6.9,H,1,1,carson-cooper-1,Carson Cooper,2025
+30,95,30,2025-03-06,Michigan State,@,Iowa,REG (Conf),W 91-84,,14,0,0,,0,0,,0,0,,,2,4,0.5,0,4,4,0,0,1,0,1,2,2.7,A,1,1,carson-cooper-1,Carson Cooper,2025
+31,96,31,2025-03-09,Michigan State,,Michigan,REG (Conf),W 79-62,,20,0,3,0.0,0,0,,0,3,0.0,0.0,4,4,1.0,2,6,8,0,0,1,0,1,4,5.4,H,1,1,carson-cooper-1,Carson Cooper,2025
+32,97,32,2025-03-14,Michigan State,N,Oregon,CTOURN,W 74-64,,19,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,2,5,1,0,0,0,3,6,5.9,N,1,0,carson-cooper-1,Carson Cooper,2025
+33,98,33,2025-03-15,Michigan State,N,Wisconsin,CTOURN,L 74-77,,28,2,3,0.667,0,0,,2,3,0.667,0.667,4,4,1.0,3,7,10,3,0,0,1,1,8,11.6,N,0,0,carson-cooper-1,Carson Cooper,2025
+34,99,34,2025-03-21,Michigan State,N,Bryant,ROUND-64,W 87-62,,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,4,5,9,0,0,0,2,3,6,4.8,N,1,0,carson-cooper-1,Carson Cooper,2025
+35,100,35,2025-03-23,Michigan State,N,New Mexico,ROUND-32,W 71-63,,17,1,2,0.5,0,0,,1,2,0.5,0.5,2,3,0.667,2,6,8,0,0,1,2,3,4,3.3,N,1,0,carson-cooper-1,Carson Cooper,2025
+36,101,36,2025-03-28,Michigan State,N,Ole Miss,ROUND-16,W 73-70,,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,5,7,1,0,1,0,2,6,8.2,N,1,0,carson-cooper-1,Carson Cooper,2025
+37,102,37,2025-03-30,Michigan State,N,Auburn,ROUND-8,L 64-70,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,0,0,3,2,2,-1.9,N,0,0,carson-cooper-1,Carson Cooper,2025

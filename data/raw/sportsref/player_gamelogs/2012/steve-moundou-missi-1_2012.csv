@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Harvard,,MIT,REG (Non-Conf),W 76-49,,25,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,3,5,0,2,1,1,2,6,5.5,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+2,2,2,2011-11-15,Harvard,@,Holy Cross,REG (Non-Conf),W 73-64,,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,2,0.0,0,2,2,0,0,0,1,0,6,3.2,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+3,3,3,2011-11-19,Harvard,@,Loyola Marymount,REG (Non-Conf),W 77-67,,12,0,0,,0,0,,0,0,,,1,2,0.5,2,1,3,1,0,0,1,1,1,1.6,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+4,4,4,2011-11-24,Harvard,N,Utah,REG (Non-Conf),W 75-47,,18,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,3,4,7,2,1,0,0,1,4,5.2,N,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+5,5,5,2011-11-25,Harvard,N,Florida State,REG (Non-Conf),W 46-41,,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,6,0.333,1,4,5,0,0,0,0,3,6,3.8,N,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+6,6,6,2011-11-26,Harvard,N,UCF,REG (Non-Conf),W 59-49,,10,1,1,1.0,0,0,,1,1,1.0,1.0,4,6,0.667,0,4,4,0,0,0,0,2,6,5.3,N,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+7,7,7,2011-12-01,Harvard,@,Vermont,REG (Non-Conf),W 55-48,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+8,8,8,2011-12-04,Harvard,,Seattle,REG (Non-Conf),W 80-70,,27,2,6,0.333,0,0,,2,6,0.333,0.333,4,5,0.8,3,3,6,0,0,1,1,3,8,5.7,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+9,9,9,2011-12-08,Harvard,@,Connecticut,REG (Non-Conf),L 53-67,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,A,0,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+10,10,10,2011-12-10,Harvard,@,Boston University,REG (Non-Conf),W 76-52,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,2,1,0,-2.1,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+11,11,11,2011-12-22,Harvard,,Florida Atlantic,REG (Non-Conf),W 63-51,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,2,2,0,0,0,0,1,4,3.2,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+12,12,12,2011-12-29,Harvard,@,Boston College,REG (Non-Conf),W 67-46,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,0,0,-0.7,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+13,13,13,2011-12-31,Harvard,,Saint Joseph's,REG (Non-Conf),W 74-69,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+14,14,14,2012-01-03,Harvard,@,Fordham,REG (Non-Conf),L 54-60,,10,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,0,1,0,0,1,2,1.5,A,0,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+15,15,15,2012-01-07,Harvard,,Dartmouth,REG (Conf),W 63-47,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,1,0,-0.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+16,16,16,2012-01-10,Harvard,@,Monmouth,REG (Non-Conf),W 70-61,,8,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,2,0,2,0,0,0,0,0,6,5.7,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+17,17,17,2012-01-14,Harvard,,George Washington,REG (Non-Conf),W 69-48,,19,7,7,1.0,1,1,1.0,6,6,1.0,1.071,1,1,1.0,0,3,3,0,2,0,0,1,16,16.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+18,18,18,2012-01-21,Harvard,@,Dartmouth,REG (Conf),W 54-38,,24,4,7,0.571,0,0,,4,7,0.571,0.571,1,3,0.333,1,3,4,0,3,2,3,3,9,6.7,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+19,19,19,2012-01-27,Harvard,@,Yale,REG (Conf),W 65-35,,17,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,4,5,0,3,1,1,2,10,10.2,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+20,20,20,2012-01-28,Harvard,@,Brown,REG (Conf),W 68-59,,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,7,10,0,0,2,1,2,6,6.8,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+21,21,21,2012-02-03,Harvard,,Cornell,REG (Conf),W 71-60,,23,1,2,0.5,0,0,,1,2,0.5,0.5,7,7,1.0,1,3,4,0,1,1,0,1,9,10.9,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+22,22,22,2012-02-04,Harvard,,Columbia,REG (Conf),W 57-52,,12,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,4,4,0,0,1,3,3,1,-2.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+23,23,23,2012-02-10,Harvard,@,Pennsylvania,REG (Conf),W 56-50,,20,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,6,2,8,1,1,0,1,0,9,11.1,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+24,24,24,2012-02-11,Harvard,@,Princeton,REG (Conf),L 62-70,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,3,0,-2.9,A,0,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+25,25,25,2012-02-17,Harvard,,Brown,REG (Conf),W 69-42,,18,4,5,0.8,0,0,,4,5,0.8,0.8,6,8,0.75,3,3,6,1,1,4,1,1,14,17.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+26,26,26,2012-02-18,Harvard,,Yale,REG (Conf),W 66-51,,21,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,0,0,0,0,3,4,1.4,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+27,27,27,2012-02-24,Harvard,,Princeton,REG (Conf),W 67-64,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,3,0.0,3,3,6,0,0,1,2,1,4,2.1,H,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+28,28,28,2012-02-25,Harvard,,Pennsylvania,REG (Conf),L 54-55,,14,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,1,1,1,2,2,4,2.9,H,0,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+29,29,29,2012-03-02,Harvard,@,Columbia,REG (Conf),W 77-70 (OT),,14,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,2,3,0,0,0,2,1,6,2.9,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+30,30,30,2012-03-03,Harvard,@,Cornell,REG (Conf),W 67-63,,9,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,3,4,0,1,0,1,0,2,2.9,A,1,1,steve-moundou-missi-1,Steve Moundou-Missi,2012
+31,31,31,2012-03-15,Harvard,N,Vanderbilt,ROUND-64,L 70-79,,6,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,0,0,2,4,2.6,N,0,0,steve-moundou-missi-1,Steve Moundou-Missi,2012

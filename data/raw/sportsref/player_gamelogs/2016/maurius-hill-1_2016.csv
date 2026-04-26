@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2015-11-14,Little Rock,,Central Baptist,REG (Non-Conf),W 76-57,*,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,1,2,3,0,1,1,2,3,3,0.0,H,1,1,maurius-hill-1,Maurius Hill,2016
+2,56,2,2015-11-18,Little Rock,,Centenary (LA),REG (Non-Conf),W 95-49,*,17,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,4,3,7,0,1,0,2,1,2,3.6,H,1,1,maurius-hill-1,Maurius Hill,2016
+3,57,3,2015-11-21,Little Rock,@,San Diego State,REG (Non-Conf),W 49-43,*,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,1,0,1,0,3,3.6,A,1,1,maurius-hill-1,Maurius Hill,2016
+4,58,4,2015-11-26,Little Rock,N,East Carolina,REG (Non-Conf),W 54-46,*,11,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,0,0,0,0,2,0,0,0,4,4.6,N,1,1,maurius-hill-1,Maurius Hill,2016
+5,59,5,2015-11-28,Little Rock,@,Tulsa,REG (Non-Conf),W 64-60,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,1,1,2,-0.8,A,1,1,maurius-hill-1,Maurius Hill,2016
+6,60,6,2015-12-01,Little Rock,,Central Arkansas,REG (Non-Conf),W 79-73,*,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,1,0.0,2,2,4,1,0,0,0,1,3,4.6,H,1,1,maurius-hill-1,Maurius Hill,2016
+7,61,7,2015-12-05,Little Rock,@,Idaho,REG (Non-Conf),W 64-54,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,1,0,1,1,2,4,1.9,A,1,1,maurius-hill-1,Maurius Hill,2016
+8,62,8,2015-12-12,Little Rock,@,DePaul,REG (Non-Conf),W 66-44,*,22,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,2,1,3,0,1,0,3,0,7,4.7,A,1,1,maurius-hill-1,Maurius Hill,2016
+9,63,9,2015-12-16,Little Rock,@,Central Arkansas,REG (Non-Conf),W 77-54,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,1,1,1.0,1,8,9,0,1,1,3,1,11,9.5,A,1,1,maurius-hill-1,Maurius Hill,2016
+10,64,10,2015-12-20,Little Rock,,Northern Arizona,REG (Non-Conf),W 84-57,*,19,2,7,0.286,1,2,0.5,1,5,0.2,0.357,1,2,0.5,4,3,7,0,0,0,1,2,6,3.4,H,1,1,maurius-hill-1,Maurius Hill,2016
+11,65,11,2015-12-22,Little Rock,@,Texas Tech,REG (Non-Conf),L 53-65,*,24,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,3,3,0,0,1,0,3,5,4.8,A,0,1,maurius-hill-1,Maurius Hill,2016
+12,66,12,2015-12-30,Little Rock,@,South Alabama,REG (Conf),W 69-60,*,18,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,1,2,3,0,0,0,0,0,6,3.2,A,1,1,maurius-hill-1,Maurius Hill,2016
+13,67,13,2016-01-02,Little Rock,@,Troy,REG (Conf),W 67-61,*,26,4,9,0.444,0,0,,4,9,0.444,0.444,0,1,0.0,3,9,12,0,1,1,1,1,8,8.0,A,1,1,maurius-hill-1,Maurius Hill,2016
+14,68,14,2016-01-07,Little Rock,,Louisiana–Lafayette,REG (Conf),W 77-57,*,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,0,0,0,-1.1,H,1,1,maurius-hill-1,Maurius Hill,2016
+15,69,15,2016-01-09,Little Rock,,Louisiana–Monroe,REG (Conf),W 58-57,*,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,2,4,0,0,0,1,3,2,-0.6,H,1,1,maurius-hill-1,Maurius Hill,2016
+16,70,16,2016-01-14,Little Rock,,Appalachian State,REG (Conf),W 81-55,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,1,1,0,2,2,2,0.5,H,1,1,maurius-hill-1,Maurius Hill,2016
+17,71,17,2016-01-18,Little Rock,@,Arkansas State,REG (Conf),L 73-76,*,13,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,4,5,1,1,0,3,1,0,-1.9,A,0,1,maurius-hill-1,Maurius Hill,2016
+18,72,18,2016-01-21,Little Rock,@,Texas State,REG (Conf),W 77-74 (OT),,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,1,0,2,0.7,A,1,1,maurius-hill-1,Maurius Hill,2016
+19,73,19,2016-01-23,Little Rock,@,UT Arlington,REG (Conf),W 68-62,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,6,6,0,2,0,1,3,4,4.3,A,1,1,maurius-hill-1,Maurius Hill,2016
+20,74,20,2016-01-28,Little Rock,,Georgia Southern,REG (Conf),W 80-67,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,maurius-hill-1,Maurius Hill,2016
+21,75,21,2016-01-30,Little Rock,,Georgia State,REG (Conf),W 63-53,,15,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,2,0,0,1,1,1,0.5,H,1,1,maurius-hill-1,Maurius Hill,2016
+22,76,22,2016-02-04,Little Rock,,Troy,REG (Conf),W 72-49,,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,0,0,0,1,1,4,1.6,H,1,1,maurius-hill-1,Maurius Hill,2016
+23,77,23,2016-02-06,Little Rock,,South Alabama,REG (Conf),W 74-43,,15,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,3,1,4,1,0,0,3,1,8,6.5,H,1,1,maurius-hill-1,Maurius Hill,2016
+24,78,24,2016-02-11,Little Rock,@,Louisiana–Monroe,REG (Conf),L 82-86,,5,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,A,0,1,maurius-hill-1,Maurius Hill,2016
+25,79,25,2016-02-13,Little Rock,@,Louisiana–Lafayette,REG (Conf),W 68-64,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,1,1,0,1,0,2,3.4,A,1,1,maurius-hill-1,Maurius Hill,2016
+26,80,26,2016-02-18,Little Rock,@,Georgia State,REG (Conf),W 57-49,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,maurius-hill-1,Maurius Hill,2016
+27,81,27,2016-02-20,Little Rock,@,Georgia Southern,REG (Conf),W 75-61,,22,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,2,4,6,0,0,0,2,2,9,6.5,A,1,1,maurius-hill-1,Maurius Hill,2016
+28,82,28,2016-02-25,Little Rock,,UT Arlington,REG (Conf),W 72-60,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,1,0,1,0,0,-1.5,H,1,1,maurius-hill-1,Maurius Hill,2016
+29,83,29,2016-02-27,Little Rock,,Texas State,REG (Conf),W 73-68,,3,0,0,,0,0,,0,0,,,0,1,0.0,0,0,0,0,0,0,0,0,0,-0.4,H,1,1,maurius-hill-1,Maurius Hill,2016
+30,84,30,2016-03-01,Little Rock,,Arkansas State,REG (Conf),W 89-80,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,1,0,0,0,1,2,1.5,H,1,1,maurius-hill-1,Maurius Hill,2016
+31,85,31,2016-03-03,Little Rock,@,Appalachian State,REG (Conf),L 63-69,,4,0,0,,0,0,,0,0,,,2,2,1.0,1,1,2,0,0,0,0,1,2,2.6,A,0,1,maurius-hill-1,Maurius Hill,2016
+32,86,32,2016-03-12,Little Rock,N,Louisiana–Lafayette,CTOURN,W 72-65,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,0,1,2,2.0,N,1,0,maurius-hill-1,Maurius Hill,2016
+33,87,33,2016-03-13,Little Rock,N,Louisiana–Monroe,CTOURN,W 70-50,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,0,0,2,2.7,N,1,0,maurius-hill-1,Maurius Hill,2016
+34,88,34,2016-03-17,Little Rock,N,Purdue,ROUND-64,W 85-83 (2OT),,21,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,6,0.333,2,4,6,1,1,0,0,2,7,5.5,N,1,0,maurius-hill-1,Maurius Hill,2016
+35,89,35,2016-03-19,Little Rock,N,Iowa State,ROUND-32,L 61-78,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,0,1,2,1.2,N,0,0,maurius-hill-1,Maurius Hill,2016

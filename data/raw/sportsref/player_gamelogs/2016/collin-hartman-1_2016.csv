@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,49,1,2015-11-13,Indiana,,Eastern Illinois,REG (Non-Conf),W 88-49,*,17,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,3,0,3,1,1,0,1,3,0,-1.2,H,1,1,collin-hartman-1,Collin Hartman,2016
+2,50,2,2015-11-16,Indiana,,Austin Peay,REG (Non-Conf),W 102-76,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,3,0,0,2,2,3.9,H,1,1,collin-hartman-1,Collin Hartman,2016
+3,51,3,2015-11-19,Indiana,,Creighton,REG (Non-Conf),W 86-65,,19,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,1,5,6,1,1,0,1,3,6,5.4,H,1,1,collin-hartman-1,Collin Hartman,2016
+4,52,4,2015-11-23,Indiana,N,Wake Forest,REG (Non-Conf),L 78-82,,11,1,2,0.5,1,2,0.5,0,0,,0.75,1,1,1.0,0,1,1,0,0,1,1,4,4,1.4,N,0,1,collin-hartman-1,Collin Hartman,2016
+5,53,5,2015-11-24,Indiana,N,St. John's (NY),REG (Non-Conf),W 83-73,*,27,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,2,3,5,1,2,0,3,3,3,1.4,N,1,1,collin-hartman-1,Collin Hartman,2016
+6,54,6,2015-11-25,Indiana,N,UNLV,REG (Non-Conf),L 69-72,*,15,1,1,1.0,1,1,1.0,0,0,,1.5,1,1,1.0,0,2,2,1,0,1,0,4,4,4.1,N,0,1,collin-hartman-1,Collin Hartman,2016
+7,55,7,2015-11-30,Indiana,,Alcorn State,REG (Non-Conf),W 112-70,,19,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,4,0.5,0,4,4,3,0,0,0,3,10,9.7,H,1,1,collin-hartman-1,Collin Hartman,2016
+8,56,8,2015-12-02,Indiana,@,Duke,REG (Non-Conf),L 74-94,*,27,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,2,0,0,1,0,3,1.7,A,0,1,collin-hartman-1,Collin Hartman,2016
+9,57,9,2015-12-05,Indiana,,Morehead State,REG (Non-Conf),W 92-59,,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,1,3,0,3,1,1,4,4,4.8,H,1,1,collin-hartman-1,Collin Hartman,2016
+10,58,10,2015-12-09,Indiana,,IPFW,REG (Non-Conf),W 90-65,,24,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,3,0.667,1,3,4,3,0,1,2,2,2,0.4,H,1,1,collin-hartman-1,Collin Hartman,2016
+11,59,11,2015-12-12,Indiana,,McNeese State,REG (Non-Conf),W 105-60,,9,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,2,1,3,3,0,0,0,1,5,6.4,H,1,1,collin-hartman-1,Collin Hartman,2016
+12,60,12,2015-12-19,Indiana,N,Notre Dame,REG (Non-Conf),W 80-73,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,2,2,4,3,0,1,0,2,9,10.7,N,1,1,collin-hartman-1,Collin Hartman,2016
+13,61,13,2015-12-22,Indiana,,Kennesaw State,REG (Non-Conf),W 99-72,,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,2,0,0,2,3,2,0.8,H,1,1,collin-hartman-1,Collin Hartman,2016
+14,62,14,2015-12-30,Indiana,@,Rutgers,REG (Conf),W 79-72,*,29,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,0,2,2,0,1,1,2,3,9,6.5,A,1,1,collin-hartman-1,Collin Hartman,2016
+15,63,15,2016-01-02,Indiana,@,Nebraska,REG (Conf),W 79-69,*,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,1,0,1,1,4,3,1.0,A,1,1,collin-hartman-1,Collin Hartman,2016
+16,64,16,2016-01-05,Indiana,,Wisconsin,REG (Conf),W 59-58,*,10,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,1,1,0,0,4,4,4.1,H,1,1,collin-hartman-1,Collin Hartman,2016
+17,65,17,2016-01-10,Indiana,,Ohio State,REG (Conf),W 85-60,*,23,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,3,1,4,2,1,0,1,2,8,8.0,H,1,1,collin-hartman-1,Collin Hartman,2016
+18,66,18,2016-01-16,Indiana,@,Minnesota,REG (Conf),W 70-63,*,21,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,1,1,2,3,0,0,1,3,4,0.8,A,1,1,collin-hartman-1,Collin Hartman,2016
+19,67,19,2016-01-19,Indiana,,Illinois,REG (Conf),W 103-69,*,23,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,1,4,5,1,0,0,1,1,7,6.9,H,1,1,collin-hartman-1,Collin Hartman,2016
+20,68,20,2016-01-23,Indiana,,Northwestern,REG (Conf),W 89-57,*,24,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,5,5,2,1,0,0,1,11,11.9,H,1,1,collin-hartman-1,Collin Hartman,2016
+21,69,21,2016-01-26,Indiana,@,Wisconsin,REG (Conf),L 79-82 (OT),*,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,2,2,0,1,0,1,5,5,0.9,A,0,1,collin-hartman-1,Collin Hartman,2016
+22,70,22,2016-01-30,Indiana,,Minnesota,REG (Conf),W 74-68,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,3,0,0,1,5,2,-0.3,H,1,1,collin-hartman-1,Collin Hartman,2016
+23,71,23,2016-02-02,Indiana,@,Michigan,REG (Conf),W 80-67,*,20,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,4,1,5,3,1,0,3,3,5,2.9,A,1,1,collin-hartman-1,Collin Hartman,2016
+24,72,24,2016-02-06,Indiana,@,Penn State,REG (Conf),L 63-68,*,23,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,1,0,1,1,0,0,2,3,2,-2.6,A,0,1,collin-hartman-1,Collin Hartman,2016
+25,73,25,2016-02-11,Indiana,,Iowa,REG (Conf),W 85-78,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,2,5,7,2,1,1,2,4,7,7.1,H,1,1,collin-hartman-1,Collin Hartman,2016
+26,74,26,2016-02-14,Indiana,@,Michigan State,REG (Conf),L 69-88,,21,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,0,1,1,3,0,0,1,3,11,9.3,A,0,1,collin-hartman-1,Collin Hartman,2016
+27,75,27,2016-02-17,Indiana,,Nebraska,REG (Conf),W 80-64,*,32,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,5,5,1,1,1,1,2,8,6.4,H,1,1,collin-hartman-1,Collin Hartman,2016
+28,76,28,2016-02-20,Indiana,,Purdue,REG (Conf),W 77-73,,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,1,3,1,2,0,0,4,2,3.1,H,1,1,collin-hartman-1,Collin Hartman,2016
+29,77,29,2016-02-25,Indiana,@,Illinois,REG (Conf),W 74-47,*,30,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,1,4,5,0,1,0,2,1,5,0.7,A,1,1,collin-hartman-1,Collin Hartman,2016
+30,78,30,2016-03-01,Indiana,@,Iowa,REG (Conf),W 81-78,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,0,1,3,1,0,0,5,4,4.8,A,1,1,collin-hartman-1,Collin Hartman,2016
+31,79,31,2016-03-06,Indiana,,Maryland,REG (Conf),W 80-62,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,2,3,2,2,0,1,2,7,6.9,H,1,1,collin-hartman-1,Collin Hartman,2016
+32,80,32,2016-03-11,Indiana,N,Michigan,CTOURN,L 69-72,*,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,1,0,1,3,0,-1.7,N,0,0,collin-hartman-1,Collin Hartman,2016
+33,81,33,2016-03-17,Indiana,N,Chattanooga,ROUND-64,W 99-74,*,21,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,3,4,5,3,1,2,1,8,11.8,N,1,0,collin-hartman-1,Collin Hartman,2016
+34,82,34,2016-03-19,Indiana,N,Kentucky,ROUND-32,W 73-67,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,3,0,0,1,2,2,2.9,N,1,0,collin-hartman-1,Collin Hartman,2016
+35,83,35,2016-03-25,Indiana,N,North Carolina,ROUND-16,L 86-101,*,27,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,3,1,4,2,0,0,1,5,7,4.8,N,0,0,collin-hartman-1,Collin Hartman,2016

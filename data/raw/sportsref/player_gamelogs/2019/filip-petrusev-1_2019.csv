@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Gonzaga,,Idaho State,REG (Non-Conf),W 120-79,,16,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,4,1.0,0,5,5,0,1,1,0,1,12,12.2,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+2,2,2,2018-11-10,Gonzaga,,Texas Southern,REG (Non-Conf),W 104-67,,20,4,9,0.444,2,3,0.667,2,6,0.333,0.556,4,4,1.0,1,4,5,0,0,1,1,2,14,10.1,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+3,3,3,2018-11-15,Gonzaga,,Texas A&M,REG (Non-Conf),W 94-71,,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,6,6,1.0,3,3,6,0,0,2,2,2,10,8.9,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+4,4,4,2018-11-19,Gonzaga,N,Illinois,REG (Non-Conf),W 84-78,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,5,0.6,2,4,6,0,0,0,0,2,5,3.6,N,1,1,filip-petrusev-1,Filip Petrusev,2019
+5,5,5,2018-11-20,Gonzaga,N,Arizona,REG (Non-Conf),W 91-74,,8,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,1,2,3,0,1,0,1,1,4,3.1,N,1,1,filip-petrusev-1,Filip Petrusev,2019
+6,6,6,2018-11-21,Gonzaga,N,Duke,REG (Non-Conf),W 89-87,,13,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,3,1,4,1,0,1,0,0,11,11.9,N,1,1,filip-petrusev-1,Filip Petrusev,2019
+7,7,7,2018-11-26,Gonzaga,,North Dakota State,REG (Non-Conf),W 102-60,,18,4,7,0.571,2,4,0.5,2,3,0.667,0.714,1,2,0.5,0,3,3,1,0,0,1,3,11,6.7,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+8,8,8,2018-12-01,Gonzaga,@,Creighton,REG (Non-Conf),W 103-92,,8,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,0,1,0,0,2,2.3,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+9,9,9,2018-12-05,Gonzaga,,Washington,REG (Non-Conf),W 81-79,,14,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,1,2,3,0,0,1,0,3,9,7.9,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+10,10,10,2018-12-09,Gonzaga,N,Tennessee,REG (Non-Conf),L 73-76,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,3,4,0,0,0,2,2,5,1.4,N,0,1,filip-petrusev-1,Filip Petrusev,2019
+11,11,11,2018-12-15,Gonzaga,@,North Carolina,REG (Non-Conf),L 90-103,,11,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,0,0,0,0,0,0,0,7,4.7,A,0,1,filip-petrusev-1,Filip Petrusev,2019
+12,12,12,2018-12-18,Gonzaga,,UT Arlington,REG (Non-Conf),W 89-55,,17,3,6,0.5,0,2,0.0,3,4,0.75,0.5,8,9,0.889,0,3,3,2,0,3,1,1,14,13.6,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+13,13,13,2018-12-21,Gonzaga,,Denver,REG (Non-Conf),W 101-40,,16,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,0,4,4,1,0,1,1,4,10,8.8,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+14,14,14,2018-12-28,Gonzaga,,North Alabama,REG (Non-Conf),W 96-51,,19,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,4,1,5,0,1,1,2,3,9,8.2,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+15,15,15,2018-12-31,Gonzaga,,Cal State Bakersfield,REG (Non-Conf),W 89-54,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,4,0.5,0,2,2,0,0,1,1,4,4,0.2,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+16,16,16,2019-01-05,Gonzaga,,Santa Clara,REG (Conf),W 91-48,,13,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,0,4,4,0,0,0,2,1,8,4.2,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+17,17,17,2019-01-10,Gonzaga,,Pacific,REG (Conf),W 67-36,,8,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,1,4,5,0,0,1,0,1,6,6.5,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+18,18,19,2019-01-17,Gonzaga,,Loyola Marymount,REG (Conf),W 73-55,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+19,19,20,2019-01-19,Gonzaga,@,Portland,REG (Conf),W 89-66,,1,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,1,2,1.3,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+20,20,21,2019-01-24,Gonzaga,@,Santa Clara,REG (Conf),W 98-39,,14,3,5,0.6,0,0,,3,5,0.6,0.6,6,6,1.0,1,3,4,0,0,0,0,4,12,9.7,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+21,21,22,2019-01-31,Gonzaga,@,Brigham Young,REG (Conf),W 93-63,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,0,0,1.0,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+22,22,23,2019-02-02,Gonzaga,,San Diego,REG (Conf),W 85-69,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+23,23,24,2019-02-07,Gonzaga,,San Francisco,REG (Conf),W 92-62,,6,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,2,2,0,1,0,0,1,5,4.5,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+24,24,25,2019-02-09,Gonzaga,,St. Mary's (CA),REG (Conf),W 94-46,,21,5,7,0.714,1,2,0.5,4,5,0.8,0.786,4,4,1.0,1,4,5,1,0,0,1,2,15,12.9,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+25,25,26,2019-02-14,Gonzaga,@,Loyola Marymount,REG (Conf),W 73-60,,7,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,1,1.0,0,2,2,0,0,0,0,1,6,5.6,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+26,26,27,2019-02-16,Gonzaga,@,San Diego,REG (Conf),W 79-67,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+27,27,28,2019-02-21,Gonzaga,,Pepperdine,REG (Conf),W 92-64,,13,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,3,0.667,0,2,2,0,1,0,1,2,8,5.8,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+28,28,29,2019-02-23,Gonzaga,,Brigham Young,REG (Conf),W 102-68,,7,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,2,0,0,0,0,2,3.7,H,1,1,filip-petrusev-1,Filip Petrusev,2019
+29,29,30,2019-02-28,Gonzaga,@,Pacific,REG (Conf),W 86-66,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,2,0,0,-3.1,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+30,30,31,2019-03-02,Gonzaga,@,St. Mary's (CA),REG (Conf),W 69-55,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,4,2,0.1,A,1,1,filip-petrusev-1,Filip Petrusev,2019
+31,31,32,2019-03-11,Gonzaga,N,Pepperdine,CTOURN,W 100-74,,10,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,2,0,2,1,0,0,0,1,10,9.1,N,1,0,filip-petrusev-1,Filip Petrusev,2019
+32,32,34,2019-03-21,Gonzaga,N,Fairleigh Dickinson,ROUND-64,W 87-49,,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,0,2,2,4,1.2,N,1,0,filip-petrusev-1,Filip Petrusev,2019

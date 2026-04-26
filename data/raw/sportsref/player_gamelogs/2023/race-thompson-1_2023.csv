@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2022-11-07,Indiana,,Morehead State,REG (Non-Conf),W 88-53,*,17,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,2,2,2,1,0,1,0,9,7.0,H,1,1,race-thompson-1,Race Thompson,2023
+2,102,2,2022-11-10,Indiana,,Bethune-Cookman,REG (Non-Conf),W 101-49,*,19,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,3,4,0,1,1,0,0,2,2.2,H,1,1,race-thompson-1,Race Thompson,2023
+3,103,3,2022-11-18,Indiana,@,Xavier,REG (Non-Conf),W 81-79,*,22,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,2,0.5,3,5,8,2,1,3,0,2,5,7.8,A,1,1,race-thompson-1,Race Thompson,2023
+4,104,4,2022-11-20,Indiana,N,Miami (OH),REG (Non-Conf),W 86-56,*,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,2,3,5,0,0,0,2,1,6,3.2,N,1,1,race-thompson-1,Race Thompson,2023
+5,105,5,2022-11-23,Indiana,,Little Rock,REG (Non-Conf),W 87-68,*,30,7,8,0.875,0,1,0.0,7,7,1.0,0.875,6,6,1.0,2,6,8,0,0,2,0,2,20,21.0,H,1,1,race-thompson-1,Race Thompson,2023
+6,106,6,2022-11-25,Indiana,,Jackson State,REG (Non-Conf),W 90-51,*,18,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,3,4,3,2,2,0,2,7,11.7,H,1,1,race-thompson-1,Race Thompson,2023
+7,107,7,2022-11-30,Indiana,,North Carolina,REG (Non-Conf),W 77-65,*,27,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,0,0,2,0,3,2,0.1,H,1,1,race-thompson-1,Race Thompson,2023
+8,108,8,2022-12-03,Indiana,@,Rutgers,REG (Conf),L 48-63,*,17,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,5,6,0,0,0,2,2,0,-3.4,A,0,1,race-thompson-1,Race Thompson,2023
+9,109,9,2022-12-07,Indiana,,Nebraska,REG (Conf),W 81-65,*,25,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,5,6,1,1,1,0,1,9,9.9,H,1,1,race-thompson-1,Race Thompson,2023
+10,110,10,2022-12-10,Indiana,N,Arizona,REG (Non-Conf),L 75-89,*,28,6,14,0.429,4,7,0.571,2,7,0.286,0.571,0,0,,4,5,9,1,1,0,1,3,16,12.4,N,0,1,race-thompson-1,Race Thompson,2023
+11,111,11,2022-12-17,Indiana,@,Kansas,REG (Non-Conf),L 62-84,*,23,3,6,0.5,1,1,1.0,2,5,0.4,0.583,4,6,0.667,1,3,4,2,2,0,2,1,11,9.8,A,0,1,race-thompson-1,Race Thompson,2023
+12,112,12,2022-12-20,Indiana,,Elon,REG (Non-Conf),W 96-72,*,30,9,13,0.692,0,1,0.0,9,12,0.75,0.692,0,1,0.0,2,9,11,1,0,4,1,2,18,17.9,H,1,1,race-thompson-1,Race Thompson,2023
+13,113,13,2022-12-23,Indiana,,Kennesaw State,REG (Non-Conf),W 69-55,*,38,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,4,0.0,1,13,14,3,1,3,1,2,4,6.3,H,1,1,race-thompson-1,Race Thompson,2023
+14,114,14,2023-01-05,Indiana,@,Iowa,REG (Conf),L 89-91,*,10,4,4,1.0,0,0,,4,4,1.0,1.0,1,1,1.0,1,2,3,1,1,1,0,1,9,11.1,A,0,1,race-thompson-1,Race Thompson,2023
+15,115,19,2023-01-22,Indiana,,Michigan State,REG (Conf),W 82-69,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,3,0,-0.2,H,1,1,race-thompson-1,Race Thompson,2023
+16,116,20,2023-01-25,Indiana,@,Minnesota,REG (Conf),W 61-57,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,2,4,0.5,2,2,4,3,0,3,1,2,4,5.2,A,1,1,race-thompson-1,Race Thompson,2023
+17,117,21,2023-01-28,Indiana,,Ohio State,REG (Conf),W 86-70,*,21,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,3,1.0,1,3,4,2,0,0,2,3,5,1.0,H,1,1,race-thompson-1,Race Thompson,2023
+18,118,22,2023-01-31,Indiana,@,Maryland,REG (Conf),L 55-66,*,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,3,3,1.0,3,1,4,0,1,1,3,0,11,8.1,A,0,1,race-thompson-1,Race Thompson,2023
+19,119,23,2023-02-04,Indiana,,Purdue,REG (Conf),W 79-74,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,2,2,4,2,1,0,1,4,6,6.8,H,1,1,race-thompson-1,Race Thompson,2023
+20,120,24,2023-02-07,Indiana,,Rutgers,REG (Conf),W 66-60,*,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,4,1.0,1,2,3,0,2,0,2,2,6,2.7,H,1,1,race-thompson-1,Race Thompson,2023
+21,121,26,2023-02-15,Indiana,@,Northwestern,REG (Conf),L 62-64,*,25,4,4,1.0,0,0,,4,4,1.0,1.0,5,6,0.833,0,3,3,0,0,0,2,1,13,9.9,A,0,1,race-thompson-1,Race Thompson,2023
+22,122,27,2023-02-18,Indiana,,Illinois,REG (Conf),W 71-68,*,22,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,3,3,6,1,1,0,1,1,10,9.2,H,1,1,race-thompson-1,Race Thompson,2023
+23,123,28,2023-02-21,Indiana,@,Michigan State,REG (Conf),L 65-80,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,0,1,1,2,1,1,0,2,7,6.2,A,0,1,race-thompson-1,Race Thompson,2023
+24,124,29,2023-02-25,Indiana,@,Purdue,REG (Conf),W 79-71,*,27,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,2,1.0,2,3,5,0,1,1,1,4,6,2.6,A,1,1,race-thompson-1,Race Thompson,2023
+25,125,30,2023-02-28,Indiana,,Iowa,REG (Conf),L 68-90,*,14,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,0,1,0,1,4,4,1.4,H,0,1,race-thompson-1,Race Thompson,2023
+26,126,31,2023-03-05,Indiana,,Michigan,REG (Conf),W 75-73 (OT),*,35,7,10,0.7,1,1,1.0,6,9,0.667,0.75,1,6,0.167,3,7,10,0,4,0,2,2,16,15.2,H,1,1,race-thompson-1,Race Thompson,2023
+27,127,32,2023-03-10,Indiana,N,Maryland,CTOURN,W 70-60,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,2,0,1,3,4,4,1.8,N,1,0,race-thompson-1,Race Thompson,2023
+28,128,33,2023-03-11,Indiana,N,Penn State,CTOURN,L 73-77,*,30,4,10,0.4,0,0,,4,10,0.4,0.4,2,2,1.0,2,2,4,1,3,0,1,4,10,7.7,N,0,0,race-thompson-1,Race Thompson,2023
+29,129,34,2023-03-17,Indiana,N,Kent State,ROUND-64,W 71-60,*,29,8,11,0.727,2,3,0.667,6,8,0.75,0.818,2,3,0.667,3,6,9,0,1,1,0,3,20,19.5,N,1,0,race-thompson-1,Race Thompson,2023
+30,130,35,2023-03-19,Indiana,N,Miami (FL),ROUND-32,L 69-85,*,25,5,12,0.417,1,3,0.333,4,9,0.444,0.458,0,0,,4,3,7,1,1,0,2,2,11,7.2,N,0,0,race-thompson-1,Race Thompson,2023

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2024-11-04,Wisconsin,,Holy Cross,REG (Non-Conf),W 85-61,,11,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,4,4,1,0,0,2,1,2,-0.9,H,1,1,xavier-amos-1,Xavier Amos,2025
+2,34,2,2024-11-07,Wisconsin,,Montana State,REG (Non-Conf),W 79-67,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,xavier-amos-1,Xavier Amos,2025
+3,35,3,2024-11-10,Wisconsin,,Appalachian State,REG (Non-Conf),W 87-56,,12,2,8,0.25,2,4,0.5,0,4,0.0,0.375,4,4,1.0,2,4,6,0,1,0,1,0,10,7.8,H,1,1,xavier-amos-1,Xavier Amos,2025
+4,36,4,2024-11-15,Wisconsin,,Arizona,REG (Non-Conf),W 103-88,,14,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,3,0.667,0,2,2,0,1,0,0,3,8,4.6,H,1,1,xavier-amos-1,Xavier Amos,2025
+5,37,5,2024-11-18,Wisconsin,,Texas–Rio Grande Valley,REG (Non-Conf),W 87-84,,13,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,1,2,3,1,1,0,0,2,9,8.2,H,1,1,xavier-amos-1,Xavier Amos,2025
+6,38,6,2024-11-22,Wisconsin,N,UCF,REG (Non-Conf),W 86-70,,14,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,1,1.0,0,5,5,1,0,0,2,3,5,-0.1,N,1,1,xavier-amos-1,Xavier Amos,2025
+7,39,7,2024-11-24,Wisconsin,N,Pittsburgh,REG (Non-Conf),W 81-75,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,xavier-amos-1,Xavier Amos,2025
+8,40,8,2024-11-30,Wisconsin,,Chicago State,REG (Non-Conf),W 74-53,,13,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,0,1,0,0,0,0,0,8,4.3,H,1,1,xavier-amos-1,Xavier Amos,2025
+9,41,9,2024-12-03,Wisconsin,,Michigan,REG (Conf),L 64-67,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,1,2,0,0,0,0,0,1,0.2,H,0,1,xavier-amos-1,Xavier Amos,2025
+10,42,10,2024-12-07,Wisconsin,@,Marquette,REG (Non-Conf),L 74-88,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,A,0,1,xavier-amos-1,Xavier Amos,2025
+11,43,11,2024-12-10,Wisconsin,@,Illinois,REG (Conf),L 80-86,,11,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,2,2,0,0,1,0,0,5,5.3,A,0,1,xavier-amos-1,Xavier Amos,2025
+12,44,12,2024-12-14,Wisconsin,N,Butler,REG (Non-Conf),W 83-74,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.8,N,1,1,xavier-amos-1,Xavier Amos,2025
+13,45,13,2024-12-22,Wisconsin,,Detroit Mercy,REG (Non-Conf),W 76-53,,13,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,0,0,0,0,0,4,3.0,H,1,1,xavier-amos-1,Xavier Amos,2025
+14,46,14,2025-01-03,Wisconsin,,Iowa,REG (Conf),W 116-85,,9,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,1,0,6,5.4,H,1,1,xavier-amos-1,Xavier Amos,2025
+15,47,15,2025-01-06,Wisconsin,@,Rutgers,REG (Conf),W 75-63,,10,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,0,0,1,0,0,4,4.0,A,1,1,xavier-amos-1,Xavier Amos,2025
+16,48,16,2025-01-10,Wisconsin,,Minnesota,REG (Conf),W 80-59,,22,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,1,2,3,1,2,1,1,2,4,2.7,H,1,1,xavier-amos-1,Xavier Amos,2025
+17,49,17,2025-01-14,Wisconsin,,Ohio State,REG (Conf),W 70-68,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,3,2,-0.2,H,1,1,xavier-amos-1,Xavier Amos,2025
+18,50,18,2025-01-18,Wisconsin,@,Southern California,REG (Conf),W 84-69,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,0,0,0,1,0,1,0,4,1.9,A,1,1,xavier-amos-1,Xavier Amos,2025
+19,51,19,2025-01-21,Wisconsin,@,UCLA,REG (Conf),L 83-85,,6,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,2,2,0,0,0,0,2,4,2.1,A,0,1,xavier-amos-1,Xavier Amos,2025
+20,52,20,2025-01-26,Wisconsin,,Nebraska,REG (Conf),W 83-55,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,4,0,0,0,1,2,3.3,H,1,1,xavier-amos-1,Xavier Amos,2025
+21,53,21,2025-01-29,Wisconsin,@,Maryland,REG (Conf),L 68-76,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,1,1,1,0,-1.4,A,0,1,xavier-amos-1,Xavier Amos,2025
+22,54,22,2025-02-01,Wisconsin,@,Northwestern,REG (Conf),W 75-69,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,xavier-amos-1,Xavier Amos,2025
+23,55,23,2025-02-04,Wisconsin,,Indiana,REG (Conf),W 76-64,,13,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,4,0.5,1,2,3,0,0,0,1,2,6,2.7,H,1,1,xavier-amos-1,Xavier Amos,2025
+24,56,24,2025-02-08,Wisconsin,@,Iowa,REG (Conf),W 74-63,,6,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,0,2,1,0,0,0,0,2,2.4,A,1,1,xavier-amos-1,Xavier Amos,2025
+25,57,25,2025-02-15,Wisconsin,@,Purdue,REG (Conf),W 94-84,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,0,0,1,2,1.2,A,1,1,xavier-amos-1,Xavier Amos,2025
+26,58,26,2025-02-18,Wisconsin,,Illinois,REG (Conf),W 95-74,,13,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,1,1,1,0,0,2,1,5,1.6,H,1,1,xavier-amos-1,Xavier Amos,2025
+27,59,27,2025-02-22,Wisconsin,,Oregon,REG (Conf),L 73-77 (OT),,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,1,1,1,3,1.3,H,0,1,xavier-amos-1,Xavier Amos,2025
+28,60,28,2025-02-25,Wisconsin,,Washington,REG (Conf),W 88-62,,15,4,5,0.8,3,4,0.75,1,1,1.0,1.1,1,2,0.5,1,1,2,1,0,0,0,1,12,11.0,H,1,1,xavier-amos-1,Xavier Amos,2025
+29,61,29,2025-03-02,Wisconsin,@,Michigan State,REG (Conf),L 62-71,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,xavier-amos-1,Xavier Amos,2025
+30,62,30,2025-03-05,Wisconsin,@,Minnesota,REG (Conf),W 74-67,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,1,1,1,0,-1.4,A,1,1,xavier-amos-1,Xavier Amos,2025
+31,63,31,2025-03-08,Wisconsin,,Penn State,REG (Conf),L 75-86,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,1,0,1,0,2,1.6,H,0,1,xavier-amos-1,Xavier Amos,2025
+32,64,32,2025-03-13,Wisconsin,N,Northwestern,CTOURN,W 70-63,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,xavier-amos-1,Xavier Amos,2025
+33,65,33,2025-03-14,Wisconsin,N,UCLA,CTOURN,W 86-70,,19,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,1,2,3,2,0,3,1,2,8,7.3,N,1,0,xavier-amos-1,Xavier Amos,2025
+34,66,34,2025-03-15,Wisconsin,N,Michigan State,CTOURN,W 77-74,,7,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,1,0.0,0,1,1,1,0,0,1,2,2,-0.9,N,1,0,xavier-amos-1,Xavier Amos,2025
+35,67,35,2025-03-16,Wisconsin,N,Michigan,CTOURN,L 53-59,,8,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,4,5,0,0,1,0,0,0,0.5,N,0,0,xavier-amos-1,Xavier Amos,2025
+36,68,36,2025-03-20,Wisconsin,N,Montana,ROUND-64,W 85-66,,13,5,9,0.556,1,4,0.25,4,5,0.8,0.611,0,0,,1,3,4,0,0,2,0,0,11,9.7,N,1,0,xavier-amos-1,Xavier Amos,2025
+37,69,37,2025-03-22,Wisconsin,N,Brigham Young,ROUND-32,L 89-91,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,N,0,0,xavier-amos-1,Xavier Amos,2025

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2018-11-06,Northeastern,,Boston University,REG (Non-Conf),L 74-77,*,25,4,6,0.667,0,0,4,6,0.667,0.667,2,5,0.4,2,6,8,0,2,0,0,4,10,9.8,H,0,1,anthony-green-2,Anthony Green,2019
+2,86,2,2018-11-09,Northeastern,@,Harvard,REG (Non-Conf),W 81-71,*,22,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,6,8,0,1,0,2,3,6,4.7,A,1,1,anthony-green-2,Anthony Green,2019
+3,87,3,2018-11-15,Northeastern,N,Alabama,REG (Non-Conf),W 68-52,*,21,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,1,1,0,1,0,1,3,8,3.8,N,1,1,anthony-green-2,Anthony Green,2019
+4,88,4,2018-11-16,Northeastern,N,Virginia Tech,REG (Non-Conf),L 60-88,*,17,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,4,6,0,0,2,0,1,4,5.6,N,0,1,anthony-green-2,Anthony Green,2019
+5,89,5,2018-11-18,Northeastern,N,Davidson,REG (Non-Conf),L 59-71,*,11,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,0,1,0,0,0,1,0,8,5.8,N,0,1,anthony-green-2,Anthony Green,2019
+6,90,6,2018-11-24,Northeastern,@,Davidson,REG (Non-Conf),L 69-78,*,15,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,2,3,0,1,0,1,1,5,3.5,A,0,1,anthony-green-2,Anthony Green,2019
+7,91,7,2018-11-28,Northeastern,@,Bucknell,REG (Non-Conf),W 96-78,*,17,4,5,0.8,0,0,4,5,0.8,0.8,3,4,0.75,1,0,1,2,0,1,0,2,11,10.7,A,1,1,anthony-green-2,Anthony Green,2019
+8,92,8,2018-12-01,Northeastern,,Eastern Michigan,REG (Non-Conf),W 81-67,*,24,6,7,0.857,0,0,6,7,0.857,0.857,1,4,0.25,4,5,9,1,0,1,1,5,13,12.0,H,1,1,anthony-green-2,Anthony Green,2019
+9,93,9,2018-12-04,Northeastern,@,Syracuse,REG (Non-Conf),L 49-72,*,22,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,3,3,0,1,0,2,1,4,1.5,A,0,1,anthony-green-2,Anthony Green,2019
+10,94,10,2018-12-08,Northeastern,,Oakland,REG (Non-Conf),W 92-83,*,24,7,8,0.875,0,0,7,8,0.875,0.875,2,4,0.5,2,3,5,0,0,0,5,4,16,8.1,H,1,1,anthony-green-2,Anthony Green,2019
+11,95,11,2018-12-16,Northeastern,@,Vermont,REG (Non-Conf),L 70-75,*,16,1,2,0.5,0,0,1,2,0.5,0.5,4,6,0.667,1,1,2,0,0,1,2,2,6,3.1,A,0,1,anthony-green-2,Anthony Green,2019
+12,96,12,2018-12-21,Northeastern,,St. Bonaventure,REG (Non-Conf),W 64-59,*,26,5,5,1.0,0,0,5,5,1.0,1.0,1,4,0.25,1,5,6,0,0,2,1,1,11,10.5,H,1,1,anthony-green-2,Anthony Green,2019
+13,97,13,2018-12-28,Northeastern,,Drexel,REG (Conf),W 93-83,*,26,9,10,0.9,0,0,9,10,0.9,0.9,3,4,0.75,3,8,11,0,1,1,2,2,21,20.6,H,1,1,anthony-green-2,Anthony Green,2019
+14,98,14,2018-12-30,Northeastern,,Delaware,REG (Conf),L 80-82 (2OT),*,31,5,8,0.625,0,0,5,8,0.625,0.625,3,5,0.6,1,4,5,1,0,1,4,4,13,6.3,H,0,1,anthony-green-2,Anthony Green,2019
+15,99,15,2019-01-05,Northeastern,@,Hofstra,REG (Conf),L 72-75,*,29,2,7,0.286,0,0,2,7,0.286,0.286,2,2,1.0,5,4,9,3,0,1,3,3,6,5.2,A,0,1,anthony-green-2,Anthony Green,2019
+16,100,16,2019-01-10,Northeastern,@,Elon,REG (Conf),W 81-70 (OT),*,28,5,7,0.714,0,0,5,7,0.714,0.714,5,9,0.556,1,5,6,0,1,2,2,4,15,11.5,A,1,1,anthony-green-2,Anthony Green,2019
+17,101,17,2019-01-12,Northeastern,@,William & Mary,REG (Conf),W 90-70,*,20,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,0,2,2,0,0,0,2,3,8,3.5,A,1,1,anthony-green-2,Anthony Green,2019
+18,102,18,2019-01-17,Northeastern,,College of Charleston,REG (Conf),W 69-60,*,30,2,4,0.5,0,0,2,4,0.5,0.5,5,6,0.833,0,8,8,0,0,1,3,4,9,5.1,H,1,1,anthony-green-2,Anthony Green,2019
+19,103,19,2019-01-19,Northeastern,,UNC Wilmington,REG (Conf),W 88-71,*,22,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,1,1,2,0,1,0,0,4,7,5.0,H,1,1,anthony-green-2,Anthony Green,2019
+20,104,20,2019-01-24,Northeastern,@,Towson,REG (Conf),L 72-75,*,32,1,3,0.333,0,0,1,3,0.333,0.333,4,7,0.571,3,3,6,0,0,4,2,2,6,6.1,A,0,1,anthony-green-2,Anthony Green,2019
+21,105,21,2019-01-26,Northeastern,@,James Madison,REG (Conf),W 78-68,*,21,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,3,4,0,0,1,0,2,4,3.5,A,1,1,anthony-green-2,Anthony Green,2019
+22,106,22,2019-02-02,Northeastern,,Hofstra,REG (Conf),W 75-61,*,10,0,0,,0,0,0,0,,,0,0,,2,1,3,0,0,1,1,4,0,-0.2,H,1,1,anthony-green-2,Anthony Green,2019
+23,107,23,2019-02-07,Northeastern,,William & Mary,REG (Conf),W 72-60,*,20,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,0,1,1,0,2,0,2,2,9,4.8,H,1,1,anthony-green-2,Anthony Green,2019
+24,108,24,2019-02-09,Northeastern,,Elon,REG (Conf),W 72-60 (OT),*,26,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,8,9,0,0,1,3,2,0,-0.7,H,1,1,anthony-green-2,Anthony Green,2019
+25,109,25,2019-02-14,Northeastern,@,UNC Wilmington,REG (Conf),W 81-77,*,33,5,8,0.625,0,0,5,8,0.625,0.625,2,4,0.5,6,5,11,1,1,2,0,3,12,15.2,A,1,1,anthony-green-2,Anthony Green,2019
+26,110,26,2019-02-16,Northeastern,@,College of Charleston,REG (Conf),L 79-88 (OT),*,30,4,6,0.667,0,0,4,6,0.667,0.667,2,4,0.5,2,0,2,0,0,1,1,4,10,6.1,A,0,1,anthony-green-2,Anthony Green,2019
+27,111,27,2019-02-21,Northeastern,,James Madison,REG (Conf),W 76-60,*,30,7,8,0.875,0,0,7,8,0.875,0.875,3,5,0.6,4,7,11,0,0,1,3,1,17,15.6,H,1,1,anthony-green-2,Anthony Green,2019
+28,112,28,2019-02-23,Northeastern,,Towson,REG (Conf),W 73-58,*,19,3,4,0.75,0,0,3,4,0.75,0.75,3,6,0.5,0,2,2,0,0,1,0,4,9,5.9,H,1,1,anthony-green-2,Anthony Green,2019
+29,113,29,2019-02-28,Northeastern,@,Delaware,REG (Conf),W 75-64,*,26,4,5,0.8,0,0,4,5,0.8,0.8,1,3,0.333,0,4,4,3,1,0,2,3,9,7.4,A,1,1,anthony-green-2,Anthony Green,2019
+30,114,30,2019-03-02,Northeastern,@,Drexel,REG (Conf),W 90-66,*,28,7,9,0.778,0,0,7,9,0.778,0.778,0,2,0.0,3,6,9,2,0,1,2,2,14,12.9,A,1,1,anthony-green-2,Anthony Green,2019
+31,115,31,2019-03-10,Northeastern,N,UNC Wilmington,CTOURN,W 80-59,*,22,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,6,7,1,0,0,2,2,5,3.7,N,1,0,anthony-green-2,Anthony Green,2019
+32,116,32,2019-03-11,Northeastern,N,College of Charleston,CTOURN,W 70-67,*,24,4,6,0.667,0,0,4,6,0.667,0.667,1,4,0.25,3,3,6,0,1,0,0,0,9,9.2,N,1,0,anthony-green-2,Anthony Green,2019
+33,117,33,2019-03-12,Northeastern,N,Hofstra,CTOURN,W 82-74,*,21,3,3,1.0,0,0,3,3,1.0,1.0,3,4,0.75,2,5,7,0,0,0,0,3,9,9.4,N,1,0,anthony-green-2,Anthony Green,2019
+34,118,34,2019-03-21,Northeastern,N,Kansas,ROUND-64,L 53-87,*,20,1,2,0.5,0,0,1,2,0.5,0.5,3,6,0.5,1,1,2,0,2,0,2,0,5,3.8,N,0,0,anthony-green-2,Anthony Green,2019

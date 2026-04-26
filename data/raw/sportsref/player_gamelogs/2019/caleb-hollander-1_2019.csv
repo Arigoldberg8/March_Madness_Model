@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,8,1,2018-11-10,Belmont,,Illinois State,REG (Non-Conf),W 100-89,*,27,8,15,0.533,4,9,0.444,4,6,0.667,0.667,1,2,0.5,1,5,6,2,0,0,0,1,21,16.5,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+2,9,2,2018-11-12,Belmont,,Middle Tennessee,REG (Non-Conf),W 92-73,*,24,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,1,4,5,1,1,0,0,3,8,8.1,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+3,10,3,2018-11-15,Belmont,@,Lipscomb,REG (Non-Conf),W 87-83,*,31,8,10,0.8,4,5,0.8,4,5,0.8,1.0,1,3,0.333,2,9,11,1,1,0,1,3,21,20.0,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+4,11,4,2018-11-20,Belmont,,Trevecca-Naz,REG (Non-Conf),W 104-50,*,12,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,4,4,1,0,0,1,0,7,6.3,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+5,12,5,2018-11-24,Belmont,@,Kennesaw State,REG (Non-Conf),W 91-53,*,26,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,1,10,11,1,0,1,0,2,12,11.3,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+6,13,6,2018-11-29,Belmont,@,Samford,REG (Non-Conf),W 99-93 (OT),*,28,8,15,0.533,0,4,0.0,8,11,0.727,0.533,0,0,,2,6,8,0,4,0,1,4,16,13.3,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+7,14,7,2018-12-01,Belmont,@,Green Bay,REG (Non-Conf),L 92-100,*,27,4,13,0.308,1,6,0.167,3,7,0.429,0.346,0,0,,1,8,9,1,3,1,0,3,9,7.8,A,0,1,caleb-hollander-1,Caleb Hollander,2019
+8,15,8,2018-12-04,Belmont,,Lipscomb,REG (Non-Conf),W 76-74,*,28,3,9,0.333,2,6,0.333,1,3,0.333,0.444,0,0,,1,4,5,1,0,0,0,1,8,5.1,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+9,16,9,2018-12-15,Belmont,@,UCLA,REG (Non-Conf),W 74-72,*,24,1,10,0.1,1,7,0.143,0,3,0.0,0.15,3,4,0.75,3,4,7,1,1,1,2,3,6,1.5,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+10,17,10,2018-12-19,Belmont,,Western Kentucky,REG (Non-Conf),W 80-74,*,19,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,6,7,2,1,0,1,0,7,8.6,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+11,18,12,2019-01-03,Belmont,,Jacksonville State,REG (Conf),L 73-83,*,15,1,9,0.111,0,6,0.0,1,3,0.333,0.111,0,0,,1,4,5,1,0,0,0,3,2,-2.5,H,0,1,caleb-hollander-1,Caleb Hollander,2019
+12,19,13,2019-01-05,Belmont,,Tennessee Tech,REG (Conf),W 79-67,*,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,2,1,3,2,0,0,1,3,2,0.8,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+13,20,14,2019-01-10,Belmont,,Morehead State,REG (Conf),W 77-60,*,30,9,16,0.563,4,10,0.4,5,6,0.833,0.688,0,2,0.0,1,6,7,1,1,0,2,2,22,15.0,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+14,21,15,2019-01-12,Belmont,,Eastern Kentucky,REG (Conf),W 109-93,*,10,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,3,1,4,0,0,1,1,1,5,3.3,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+15,22,16,2019-01-17,Belmont,@,Jacksonville State,REG (Conf),L 80-91 (OT),*,23,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,2,2,1,0,0,0,1,3,0.1,A,0,1,caleb-hollander-1,Caleb Hollander,2019
+16,23,17,2019-01-19,Belmont,,Tennessee State,REG (Conf),W 92-74,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,5,5,1,0,0,0,1,0,-0.3,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+17,24,18,2019-01-24,Belmont,@,Murray State,REG (Conf),W 79-66,*,17,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,1,0.0,0,2,2,1,0,0,0,0,8,5.6,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+18,25,19,2019-01-26,Belmont,@,Austin Peay,REG (Conf),W 96-92,*,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,2,3,1,1,0,0,2,5,5.5,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+19,26,22,2019-02-07,Belmont,@,Eastern Kentucky,REG (Conf),W 83-65,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+20,27,23,2019-02-09,Belmont,@,Morehead State,REG (Conf),W 96-86,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+21,28,26,2019-02-21,Belmont,,Eastern Illinois,REG (Conf),W 99-58,,9,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,2,4,6,0,0,0,1,1,8,7.6,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+22,29,27,2019-02-23,Belmont,,SIU Edwardsville,REG (Conf),W 97-75,,6,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,3,1,4,0,0,0,0,1,6,6.0,H,1,1,caleb-hollander-1,Caleb Hollander,2019
+23,30,28,2019-02-28,Belmont,@,UT Martin,REG (Conf),W 112-67,,7,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,3,3,0,0,0,1,2,3,0.4,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+24,31,29,2019-03-02,Belmont,@,Southeast Missouri State,REG (Conf),W 84-66,,5,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,A,1,1,caleb-hollander-1,Caleb Hollander,2019
+25,32,30,2019-03-08,Belmont,N,Austin Peay,CTOURN,W 83-67,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,0,caleb-hollander-1,Caleb Hollander,2019
+26,33,31,2019-03-09,Belmont,N,Murray State,CTOURN,L 65-77,,13,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,0,0,1,1,0,1,2,3,-0.9,N,0,0,caleb-hollander-1,Caleb Hollander,2019

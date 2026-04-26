@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Western Kentucky,,Saint Joseph's,REG (Non-Conf),L 61-72,*,35,3,10,0.3,0,1,0.0,3,9,0.333,0.3,0,0,,1,7,8,0,1,1,6,3,6,-2.5,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+2,2,2,2011-11-14,Western Kentucky,,Tennessee State,REG (Non-Conf),W 52-49,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,1,3,4,0,0,1,1,4,3,-0.1,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+3,3,3,2011-11-17,Western Kentucky,N,Tulsa,REG (Non-Conf),L 49-65,,27,4,13,0.308,2,8,0.25,2,5,0.4,0.385,0,0,,0,1,1,2,0,0,3,2,10,0.4,N,0,1,nigel-snipes-1,Nigel Snipes,2012
+4,4,4,2011-11-18,Western Kentucky,N,Louisiana State,REG (Non-Conf),L 57-76,,27,3,8,0.375,1,4,0.25,2,4,0.5,0.438,6,6,1.0,1,0,1,0,0,0,1,4,13,6.7,N,0,1,nigel-snipes-1,Nigel Snipes,2012
+5,5,5,2011-11-20,Western Kentucky,N,VCU,REG (Non-Conf),L 64-69,*,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,3,5,0.1,N,0,1,nigel-snipes-1,Nigel Snipes,2012
+6,6,6,2011-11-23,Western Kentucky,,VCU,REG (Non-Conf),L 45-68,,12,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,1,0,3,1.0,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+7,7,7,2011-11-26,Western Kentucky,,Southeastern Louisiana,REG (Non-Conf),W 72-67,*,34,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,2,0.5,4,4,8,3,3,0,3,1,7,7.2,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+8,8,9,2011-12-04,Western Kentucky,,Bowling Green,REG (Non-Conf),W 60-53,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,0,1,1,2,0.9,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+9,9,10,2011-12-07,Western Kentucky,@,Southern Illinois,REG (Non-Conf),W 62-55,,9,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,0,0,0,1,2,3,0.8,A,1,1,nigel-snipes-1,Nigel Snipes,2012
+10,10,11,2011-12-10,Western Kentucky,@,IUPUI,REG (Non-Conf),L 76-84,,14,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,1,4,0,1,0,1,4,6,4.8,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+11,11,12,2011-12-17,Western Kentucky,,Furman,REG (Non-Conf),L 63-76,,27,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,1,1,1,2,0,3,5,6,0.3,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+12,12,13,2011-12-23,Western Kentucky,@,Louisville,REG (Non-Conf),L 60-70,,17,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,2,3,0,1,0,1,5,6,4.0,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+13,13,14,2011-12-29,Western Kentucky,@,Louisiana–Monroe,REG (Conf),W 76-71 (OT),,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,1,2,0,0,0,1,4,5,1.7,A,1,1,nigel-snipes-1,Nigel Snipes,2012
+14,14,15,2011-12-31,Western Kentucky,,Florida International,REG (Conf),L 63-81,,22,2,6,0.333,1,1,1.0,1,5,0.2,0.417,4,4,1.0,4,4,8,2,0,0,2,3,9,7.8,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+15,15,16,2012-01-05,Western Kentucky,,Louisiana–Lafayette,REG (Conf),L 70-72 (OT),,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,0,4,0,-1.0,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+16,16,17,2012-01-07,Western Kentucky,,Troy,REG (Conf),L 65-67,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,2,0,-0.5,H,0,1,nigel-snipes-1,Nigel Snipes,2012
+17,17,18,2012-01-12,Western Kentucky,@,North Texas,REG (Conf),L 67-84,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,1,0,0,-0.4,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+18,18,19,2012-01-15,Western Kentucky,@,Denver,REG (Conf),L 65-78,,25,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,2,1.0,1,4,5,0,1,2,0,0,10,10.3,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+19,19,20,2012-01-21,Western Kentucky,,Little Rock,REG (Conf),W 65-53,*,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+20,20,21,2012-01-26,Western Kentucky,@,Florida Atlantic,REG (Conf),L 66-67,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,0,0,0,0,2,2,0.7,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+21,21,22,2012-01-28,Western Kentucky,@,Florida International,REG (Conf),W 61-51,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,4,0,-1.3,A,1,1,nigel-snipes-1,Nigel Snipes,2012
+22,22,23,2012-02-04,Western Kentucky,,South Alabama,REG (Conf),W 75-66,,19,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,1,1,0,0,2,2,2.2,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+23,23,24,2012-02-09,Western Kentucky,@,Middle Tennessee,REG (Conf),L 64-72,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,0,0,0,1,5,2,-0.4,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+24,24,25,2012-02-11,Western Kentucky,@,Troy,REG (Conf),L 77-83,,25,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,1,0,1,1,0,0,2,4,12,7.2,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+25,25,26,2012-02-16,Western Kentucky,,Florida Atlantic,REG (Conf),W 64-57,,13,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+26,26,27,2012-02-18,Western Kentucky,@,South Alabama,REG (Conf),L 61-66,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,2,3,0,0,-1.7,A,0,1,nigel-snipes-1,Nigel Snipes,2012
+27,27,28,2012-02-23,Western Kentucky,,Arkansas State,REG (Conf),W 79-76,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+28,28,29,2012-02-25,Western Kentucky,,Middle Tennessee,REG (Conf),W 73-67,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,0,1,0,0,1,0,0,2,2.0,H,1,1,nigel-snipes-1,Nigel Snipes,2012
+29,29,30,2012-03-03,Western Kentucky,N,Florida International,CTOURN,W 67-63,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,N,1,0,nigel-snipes-1,Nigel Snipes,2012
+30,30,31,2012-03-04,Western Kentucky,N,Little Rock,CTOURN,W 68-63,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,1,3,4,1,0,0,0,2,3,3.1,N,1,0,nigel-snipes-1,Nigel Snipes,2012
+31,31,34,2012-03-13,Western Kentucky,N,Mississippi Valley State,FIRST-FOUR,W 59-58,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,N,1,0,nigel-snipes-1,Nigel Snipes,2012
+32,32,35,2012-03-15,Western Kentucky,N,Kentucky,ROUND-64,L 66-81,,4,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,1,0,1,0,0,0.7,N,0,0,nigel-snipes-1,Nigel Snipes,2012

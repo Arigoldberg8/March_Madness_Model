@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2024-11-06,Arkansas,,Lipscomb,REG (Non-Conf),W 76-60,,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,7,8,1,2,0,1,2,6,7.4,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+2,62,2,2024-11-09,Arkansas,N,Baylor,REG (Non-Conf),L 67-72,,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,1,2,3,1,1,1,1,3,4,3.8,N,0,1,trevon-brazile-1,Trevon Brazile,2025
+3,63,3,2024-11-13,Arkansas,,Troy,REG (Non-Conf),W 65-49,*,9,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,3,5,0,2,2,0,0,4,7.7,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+4,64,6,2024-11-25,Arkansas,,Maryland Eastern Shore,REG (Non-Conf),W 109-35,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,1,0,2,2,1.9,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+5,65,7,2024-11-28,Arkansas,N,Illinois,REG (Non-Conf),L 77-90,,7,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,1,2,1,0,0,0,2,5,5.3,N,0,1,trevon-brazile-1,Trevon Brazile,2025
+6,66,8,2024-12-03,Arkansas,@,Miami (FL),REG (Non-Conf),W 76-73,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,4,5,0,1,0,1,2,6,5.5,A,1,1,trevon-brazile-1,Trevon Brazile,2025
+7,67,9,2024-12-07,Arkansas,,UTSA,REG (Non-Conf),W 75-60,,16,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,4,4,0,1,1,0,1,6,6.9,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+8,68,10,2024-12-10,Arkansas,N,Michigan,REG (Non-Conf),W 89-87,,26,6,8,0.75,1,3,0.333,5,5,1.0,0.813,2,6,0.333,1,5,6,1,3,1,1,4,15,14.2,N,1,1,trevon-brazile-1,Trevon Brazile,2025
+9,69,11,2024-12-14,Arkansas,,Central Arkansas,REG (Non-Conf),W 82-57,*,21,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,4,0.75,3,4,7,1,0,5,3,3,11,11.3,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+10,70,12,2024-12-21,Arkansas,,North Carolina A&T,REG (Non-Conf),W 95-67,,27,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,0,,3,6,9,3,0,3,1,2,11,15.1,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+11,71,13,2024-12-30,Arkansas,,Oakland,REG (Non-Conf),W 92-62,,25,4,7,0.571,0,2,0.0,4,5,0.8,0.571,1,2,0.5,2,6,8,1,0,6,3,3,9,9.2,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+12,72,14,2025-01-04,Arkansas,@,Tennessee,REG (Conf),L 52-76,,13,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,0,0,1,1,4,2,-0.7,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+13,73,15,2025-01-08,Arkansas,,Ole Miss,REG (Conf),L 66-73,,21,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,2,5,7,2,0,1,0,1,3,6.9,H,0,1,trevon-brazile-1,Trevon Brazile,2025
+14,74,16,2025-01-11,Arkansas,,Florida,REG (Conf),L 63-71,,27,2,3,0.667,0,0,,2,3,0.667,0.667,3,6,0.5,3,3,6,0,3,2,1,3,7,9.7,H,0,1,trevon-brazile-1,Trevon Brazile,2025
+15,75,17,2025-01-14,Arkansas,@,Louisiana State,REG (Conf),L 74-78,,10,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,1,1,2,2,0,1,1,2,6,6.0,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+16,76,18,2025-01-18,Arkansas,@,Missouri,REG (Conf),L 65-83,*,18,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,2,0.0,1,3,4,1,1,0,3,1,7,4.5,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+17,77,19,2025-01-22,Arkansas,,Georgia,REG (Conf),W 68-65,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,3,0,3,0,0,0,0,4,7,6.2,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+18,78,20,2025-01-25,Arkansas,,Oklahoma,REG (Conf),L 62-65,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,1,1,2,0,0,0,1,2,3,1.2,H,0,1,trevon-brazile-1,Trevon Brazile,2025
+19,79,21,2025-02-01,Arkansas,@,Kentucky,REG (Conf),W 89-79,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,0,1,1,1,2,5,4.2,A,1,1,trevon-brazile-1,Trevon Brazile,2025
+20,80,22,2025-02-05,Arkansas,@,Texas,REG (Conf),W 78-70,,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,2,2,1,1,0,0,2,3,2.4,A,1,1,trevon-brazile-1,Trevon Brazile,2025
+21,81,23,2025-02-08,Arkansas,,Alabama,REG (Conf),L 81-85,,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,4,6,0,0,2,0,0,2,5.7,H,0,1,trevon-brazile-1,Trevon Brazile,2025
+22,82,24,2025-02-12,Arkansas,,Louisiana State,REG (Conf),W 70-58,,14,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,4,4,1,0,1,1,1,3,3.5,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+23,83,25,2025-02-15,Arkansas,@,Texas A&M,REG (Conf),L 61-69,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,1,0,0,0,0.6,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+24,84,26,2025-02-19,Arkansas,@,Auburn,REG (Conf),L 60-67,,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+25,85,27,2025-02-22,Arkansas,,Missouri,REG (Conf),W 92-85,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,0,1,2,2,-0.2,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+26,86,28,2025-02-26,Arkansas,,Texas,REG (Conf),W 86-81 (OT),*,40,5,6,0.833,2,3,0.667,3,3,1.0,1.0,0,1,0.0,1,7,8,2,1,0,1,3,12,12.4,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+27,87,29,2025-03-01,Arkansas,@,South Carolina,REG (Conf),L 53-72,*,26,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,1,5,6,0,0,1,3,5,2,-2.9,A,0,1,trevon-brazile-1,Trevon Brazile,2025
+28,88,30,2025-03-04,Arkansas,@,Vanderbilt,REG (Conf),W 90-77,*,36,6,8,0.75,3,5,0.6,3,3,1.0,0.938,1,2,0.5,4,10,14,2,2,2,2,2,16,20.2,A,1,1,trevon-brazile-1,Trevon Brazile,2025
+29,89,31,2025-03-08,Arkansas,,Mississippi State,REG (Conf),W 93-92,*,23,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,11,11,0,0,0,2,2,11,8.2,H,1,1,trevon-brazile-1,Trevon Brazile,2025
+30,90,32,2025-03-12,Arkansas,N,South Carolina,CTOURN,W 72-68,*,37,5,9,0.556,3,6,0.5,2,3,0.667,0.722,3,3,1.0,2,5,7,0,4,1,2,3,16,16.1,N,1,0,trevon-brazile-1,Trevon Brazile,2025
+31,91,33,2025-03-13,Arkansas,N,Ole Miss,CTOURN,L 80-83,*,35,6,8,0.75,2,4,0.5,4,4,1.0,0.875,1,4,0.25,6,5,11,2,1,0,2,1,15,16.3,N,0,0,trevon-brazile-1,Trevon Brazile,2025
+32,92,34,2025-03-20,Arkansas,N,Kansas,ROUND-64,W 79-72,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,4,0.5,5,7,12,0,1,2,1,2,11,11.7,N,1,0,trevon-brazile-1,Trevon Brazile,2025
+33,93,35,2025-03-22,Arkansas,N,St. John's (NY),ROUND-32,W 75-66,*,30,4,10,0.4,0,5,0.0,4,5,0.8,0.4,0,2,0.0,2,6,8,0,0,1,0,3,8,4.5,N,1,0,trevon-brazile-1,Trevon Brazile,2025
+34,94,36,2025-03-27,Arkansas,N,Texas Tech,ROUND-16,L 83-85 (OT),*,36,4,8,0.5,2,5,0.4,2,3,0.667,0.625,1,1,1.0,2,3,5,0,1,1,0,4,11,9.4,N,0,0,trevon-brazile-1,Trevon Brazile,2025

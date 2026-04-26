@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2014-11-14,Georgia,@,Georgia Tech,REG (Non-Conf),L 73-80,,18,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,1,0,1,2,2,1,2,4,11,6.8,A,0,1,kenny-gaines-1,Kenny Gaines,2015
+2,64,2,2014-11-18,Georgia,,Stony Brook,REG (Non-Conf),W 80-70,,27,3,7,0.429,2,6,0.333,1,1,1.0,0.571,5,8,0.625,1,1,2,2,2,2,1,2,13,12.1,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+3,65,3,2014-11-21,Georgia,,Troy,REG (Non-Conf),W 82-60,*,30,5,10,0.5,1,3,0.333,4,7,0.571,0.55,1,2,0.5,1,7,8,2,1,4,2,2,12,11.8,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+4,66,4,2014-11-23,Georgia,,Florida Atlantic,REG (Non-Conf),W 74-61,*,31,7,13,0.538,1,3,0.333,6,10,0.6,0.577,0,1,0.0,2,1,3,0,0,1,1,3,15,8.5,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+5,67,5,2014-11-26,Georgia,N,Gonzaga,REG (Non-Conf),L 76-88,*,25,1,5,0.2,0,3,0.0,1,2,0.5,0.2,4,6,0.667,0,1,1,3,0,0,0,5,6,2.5,N,0,1,kenny-gaines-1,Kenny Gaines,2015
+6,68,6,2014-11-28,Georgia,N,Minnesota,REG (Non-Conf),L 62-66,*,33,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,0,2,2,2,3,0,3,2,4,1.4,N,0,1,kenny-gaines-1,Kenny Gaines,2015
+7,69,7,2014-12-02,Georgia,@,Chattanooga,REG (Non-Conf),W 86-55,*,32,9,11,0.818,5,6,0.833,4,5,0.8,1.045,2,2,1.0,0,1,1,1,1,0,0,2,25,22.1,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+8,70,8,2014-12-07,Georgia,,Colorado,REG (Non-Conf),W 64-57,*,21,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,4,4,1,0,0,3,1,4,-0.2,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+9,71,9,2014-12-21,Georgia,,Seton Hall,REG (Non-Conf),W 65-47,*,22,5,8,0.625,2,5,0.4,3,3,1.0,0.75,3,3,1.0,0,1,1,3,2,1,1,2,15,14.7,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+10,72,10,2014-12-27,Georgia,,Mercer,REG (Non-Conf),W 86-77 (3OT),*,36,5,14,0.357,1,7,0.143,4,7,0.571,0.393,2,5,0.4,3,7,10,5,1,0,1,3,13,10.5,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+11,73,11,2014-12-31,Georgia,@,Kansas State,REG (Non-Conf),W 50-46,*,31,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,2,1.0,0,1,1,1,1,1,0,3,9,4.7,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+12,74,12,2015-01-03,Georgia,,Norfolk State,REG (Non-Conf),W 63-50,*,28,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,2,0.5,1,4,5,2,2,1,2,1,9,9.2,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+13,75,13,2015-01-06,Georgia,,Arkansas,REG (Conf),L 75-79,*,31,2,8,0.25,2,5,0.4,0,3,0.0,0.375,4,4,1.0,3,2,5,3,2,1,2,1,10,10.3,H,0,1,kenny-gaines-1,Kenny Gaines,2015
+14,76,14,2015-01-10,Georgia,@,Louisiana State,REG (Conf),L 84-87 (2OT),*,37,5,10,0.5,1,4,0.25,4,6,0.667,0.55,8,8,1.0,1,2,3,2,1,1,3,5,19,13.4,A,0,1,kenny-gaines-1,Kenny Gaines,2015
+15,77,15,2015-01-14,Georgia,@,Vanderbilt,REG (Conf),W 70-67,*,26,6,8,0.75,5,7,0.714,1,1,1.0,1.063,0,2,0.0,0,4,4,2,3,1,3,2,17,15.5,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+16,78,16,2015-01-17,Georgia,,Florida,REG (Conf),W 73-61,*,30,5,8,0.625,4,5,0.8,1,3,0.333,0.875,2,2,1.0,0,0,0,2,2,0,3,2,16,12.0,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+17,79,17,2015-01-20,Georgia,,Ole Miss,REG (Conf),W 69-64,*,35,1,7,0.143,1,6,0.167,0,1,0.0,0.214,2,2,1.0,1,3,4,3,0,0,0,3,5,3.0,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+18,80,18,2015-01-24,Georgia,@,Mississippi State,REG (Conf),W 72-66,*,32,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,0,3,3,0,2,2,0,3,10,8.4,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+19,81,19,2015-01-27,Georgia,,Vanderbilt,REG (Conf),W 70-62,*,32,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,2,1.0,0,1,1,3,2,3,2,1,13,13.8,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+20,82,20,2015-01-31,Georgia,@,South Carolina,REG (Conf),L 50-67,*,31,2,12,0.167,1,6,0.167,1,6,0.167,0.208,2,2,1.0,2,5,7,0,0,0,3,0,7,-0.7,A,0,1,kenny-gaines-1,Kenny Gaines,2015
+21,83,21,2015-02-03,Georgia,@,Kentucky,REG (Conf),L 58-69,*,35,2,13,0.154,0,3,0.0,2,10,0.2,0.154,1,2,0.5,1,4,5,1,1,1,3,3,5,-3.6,A,0,1,kenny-gaines-1,Kenny Gaines,2015
+22,84,22,2015-02-07,Georgia,,Tennessee,REG (Conf),W 56-53,*,35,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,7,7,1,0,2,5,0,7,1.1,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+23,85,23,2015-02-11,Georgia,@,Texas A&M,REG (Conf),W 62-53,*,26,6,12,0.5,3,7,0.429,3,5,0.6,0.625,0,0,,0,3,3,2,3,1,1,4,15,12.4,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+24,86,24,2015-02-14,Georgia,,Auburn,REG (Conf),L 68-69,*,35,6,16,0.375,2,7,0.286,4,9,0.444,0.438,4,5,0.8,1,3,4,0,0,1,0,2,18,10.3,H,0,1,kenny-gaines-1,Kenny Gaines,2015
+25,87,25,2015-02-17,Georgia,,South Carolina,REG (Conf),L 58-64,*,38,4,13,0.308,1,4,0.25,3,9,0.333,0.346,2,2,1.0,2,3,5,1,1,1,2,2,11,5.4,H,0,1,kenny-gaines-1,Kenny Gaines,2015
+26,88,26,2015-02-21,Georgia,@,Alabama,REG (Conf),W 66-65 (OT),*,37,3,13,0.231,2,7,0.286,1,6,0.167,0.308,1,4,0.25,0,4,4,1,0,0,1,3,9,-0.4,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+27,89,27,2015-02-25,Georgia,@,Ole Miss,REG (Conf),W 76-72,*,32,8,15,0.533,4,7,0.571,4,8,0.5,0.667,2,2,1.0,0,3,3,1,1,2,1,3,22,16.5,A,1,1,kenny-gaines-1,Kenny Gaines,2015
+28,90,28,2015-02-28,Georgia,,Missouri,REG (Conf),W 68-44,*,25,3,11,0.273,2,4,0.5,1,7,0.143,0.364,0,4,0.0,3,3,6,0,1,1,0,1,8,4.2,H,1,1,kenny-gaines-1,Kenny Gaines,2015
+29,91,29,2015-03-03,Georgia,,Kentucky,REG (Conf),L 64-72,*,32,5,12,0.417,1,4,0.25,4,8,0.5,0.458,0,1,0.0,0,1,1,2,0,0,1,5,11,2.9,H,0,1,kenny-gaines-1,Kenny Gaines,2015
+30,92,31,2015-03-13,Georgia,N,South Carolina,CTOURN,W 74-62,*,27,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,2,2,2,0,0,0,4,9,7.1,N,1,0,kenny-gaines-1,Kenny Gaines,2015
+31,93,33,2015-03-20,Georgia,N,Michigan State,ROUND-64,L 63-70,*,20,5,10,0.5,2,4,0.5,3,6,0.5,0.6,3,3,1.0,0,0,0,0,1,0,1,5,15,8.0,N,0,0,kenny-gaines-1,Kenny Gaines,2015

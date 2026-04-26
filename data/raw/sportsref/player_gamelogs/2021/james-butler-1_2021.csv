@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2020-11-28,Drexel,@,Pittsburgh,REG (Non-Conf),L 74-83,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,2,2,1.0,0,8,8,2,0,0,2,3,12,8.3,A,0,1,james-butler-1,James Butler,2021
+2,71,2,2020-12-02,Drexel,N,Quinnipiac,REG (Non-Conf),W 66-48,*,26,4,9,0.444,0,0,,4,9,0.444,0.444,0,1,0.0,3,9,12,2,1,2,2,3,8,8.3,N,1,1,james-butler-1,James Butler,2021
+3,72,3,2020-12-03,Drexel,N,Quinnipiac,REG (Non-Conf),W 70-58,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,9,10,0.9,3,5,8,0,1,0,0,3,15,15.0,N,1,1,james-butler-1,James Butler,2021
+4,73,4,2020-12-06,Drexel,,Coppin State,REG (Non-Conf),W 69-54,*,23,4,8,0.5,1,1,1.0,3,7,0.429,0.563,3,6,0.5,2,7,9,1,0,0,3,3,12,6.8,H,1,1,james-butler-1,James Butler,2021
+5,74,5,2020-12-12,Drexel,,La Salle,REG (Non-Conf),L 48-58,*,31,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,1,8,9,2,0,1,2,2,9,7.7,H,0,1,james-butler-1,James Butler,2021
+6,75,6,2020-12-17,Drexel,,Saint Joseph's,REG (Non-Conf),W 81-77,*,32,7,13,0.538,0,0,,7,13,0.538,0.538,7,7,1.0,5,11,16,2,0,0,1,2,21,21.1,H,1,1,james-butler-1,James Butler,2021
+7,76,7,2020-12-19,Drexel,@,Fairleigh Dickinson,REG (Non-Conf),W 85-68,*,24,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,3,4,7,2,0,2,1,1,15,15.8,A,1,1,james-butler-1,James Butler,2021
+8,77,8,2021-01-09,Drexel,@,College of Charleston,REG (Conf),L 60-61,*,32,7,11,0.636,0,0,,7,11,0.636,0.636,6,9,0.667,3,11,14,2,0,1,1,1,20,20.0,A,0,1,james-butler-1,James Butler,2021
+9,78,9,2021-01-10,Drexel,@,College of Charleston,REG (Conf),L 68-73,*,34,6,9,0.667,0,0,,6,9,0.667,0.667,4,4,1.0,4,6,10,1,0,1,1,0,16,17.1,A,0,1,james-butler-1,James Butler,2021
+10,79,10,2021-01-16,Drexel,,William & Mary,REG (Conf),W 82-58,*,23,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,4,4,8,1,0,1,1,2,12,12.4,H,1,1,james-butler-1,James Butler,2021
+11,80,11,2021-01-17,Drexel,,William & Mary,REG (Conf),L 64-69,*,33,6,12,0.5,0,1,0.0,6,11,0.545,0.5,0,0,,3,7,10,1,0,2,1,5,12,9.3,H,0,1,james-butler-1,James Butler,2021
+12,81,12,2021-01-23,Drexel,@,William & Mary,REG (Conf),W 79-64,*,30,7,8,0.875,0,0,,7,8,0.875,0.875,7,8,0.875,2,3,5,1,1,2,0,2,21,22.4,A,1,1,james-butler-1,James Butler,2021
+13,82,13,2021-01-31,Drexel,@,James Madison,REG (Conf),L 64-73,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,1,5,6,2,0,0,2,1,6,3.5,A,0,1,james-butler-1,James Butler,2021
+14,83,14,2021-02-06,Drexel,@,Hofstra,REG (Conf),W 73-71,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,0,1,1,2,1,1,1,3,7,5.2,A,1,1,james-butler-1,James Butler,2021
+15,84,15,2021-02-07,Drexel,@,Hofstra,REG (Conf),L 74-79,*,34,7,13,0.538,0,0,,7,13,0.538,0.538,2,4,0.5,2,11,13,1,1,0,2,3,16,12.1,A,0,1,james-butler-1,James Butler,2021
+16,85,16,2021-02-26,Drexel,@,James Madison,REG (Conf),W 84-78,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,5,5,1.0,3,6,9,3,0,0,1,1,13,14.3,A,1,1,james-butler-1,James Butler,2021
+17,86,17,2021-03-07,Drexel,N,College of Charleston,CTOURN,W 80-75,*,33,5,7,0.714,1,1,1.0,4,6,0.667,0.786,1,4,0.25,2,6,8,2,0,1,0,1,12,12.8,N,1,0,james-butler-1,James Butler,2021
+18,87,18,2021-03-08,Drexel,N,Northeastern,CTOURN,W 74-67,*,32,4,8,0.5,2,2,1.0,2,6,0.333,0.625,2,4,0.5,3,9,12,3,0,1,6,2,12,8.0,N,1,0,james-butler-1,James Butler,2021
+19,88,19,2021-03-09,Drexel,N,Elon,CTOURN,W 63-56,*,29,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,7,9,3,0,1,1,1,7,9.2,N,1,0,james-butler-1,James Butler,2021
+20,89,20,2021-03-19,Drexel,N,Illinois,ROUND-64,L 49-78,*,27,5,12,0.417,0,2,0.0,5,10,0.5,0.417,0,0,,4,6,10,2,0,2,1,2,10,9.2,N,0,0,james-butler-1,James Butler,2021

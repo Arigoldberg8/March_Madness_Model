@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2015-11-13,Yale,N,Fairfield,REG (Non-Conf),W 70-57,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,10,13,0.769,3,4,7,0,0,1,0,2,20,18.4,N,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+2,86,2,2015-11-16,Yale,,Sacred Heart,REG (Non-Conf),W 99-77,*,28,4,5,0.8,0,0,,4,5,0.8,0.8,4,10,0.4,4,4,8,2,1,1,0,4,12,13.2,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+3,87,3,2015-11-19,Yale,@,Lehigh,REG (Non-Conf),W 79-67,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,3,4,7,2,1,1,2,4,10,8.5,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+4,88,4,2015-11-22,Yale,@,SMU,REG (Non-Conf),L 69-71,*,30,1,8,0.125,0,0,,1,8,0.125,0.125,2,4,0.5,5,2,7,0,3,1,1,4,4,3.2,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+5,89,5,2015-11-25,Yale,@,Duke,REG (Non-Conf),L 61-80,*,17,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,3,5,8,0,0,0,1,5,8,5.3,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+6,90,6,2015-11-29,Yale,@,Albany (NY),REG (Non-Conf),L 54-88,*,29,6,11,0.545,0,0,,6,11,0.545,0.545,1,4,0.25,2,3,5,1,0,1,3,5,13,5.2,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+7,91,7,2015-12-02,Yale,,Bryant,REG (Non-Conf),W 79-40,*,24,0,4,0.0,0,0,,0,4,0.0,0.0,2,5,0.4,2,5,7,2,1,1,0,3,2,2.8,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+8,92,8,2015-12-05,Yale,,Vermont,REG (Non-Conf),W 72-54,*,27,2,3,0.667,0,0,,2,3,0.667,0.667,2,6,0.333,2,3,5,2,0,1,1,4,6,4.9,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+9,93,9,2015-12-09,Yale,@,Illinois,REG (Non-Conf),L 65-69,*,36,2,9,0.222,0,0,,2,9,0.222,0.222,2,2,1.0,6,8,14,0,0,0,1,2,6,5.3,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+10,94,10,2015-12-13,Yale,@,Southern California,REG (Non-Conf),L 56-68,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,1,1,1.0,2,2,4,1,1,0,2,2,9,5.9,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+11,95,11,2015-12-30,Yale,@,Central Connecticut State,REG (Non-Conf),W 62-42,*,24,5,11,0.455,0,0,,5,11,0.455,0.455,2,4,0.5,5,5,10,2,0,1,3,0,12,9.6,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+12,96,12,2016-01-02,Yale,@,Hartford,REG (Non-Conf),W 88-53,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,1,6,0.167,0,9,9,2,2,1,3,1,9,8.5,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+13,97,13,2016-01-06,Yale,,NJIT,REG (Non-Conf),W 83-65,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,3,2,5,1,1,0,0,2,6,7.5,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+14,98,14,2016-01-08,Yale,,Daniel Webster,REG (Non-Conf),W 94-53,*,18,4,12,0.333,0,0,,4,12,0.333,0.333,3,4,0.75,3,5,8,1,0,1,1,0,11,7.8,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+15,99,15,2016-01-16,Yale,,Brown,REG (Conf),W 77-68,*,28,4,9,0.444,0,0,,4,9,0.444,0.444,5,9,0.556,5,5,10,1,2,0,1,3,13,12.2,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+16,100,16,2016-01-22,Yale,@,Brown,REG (Conf),W 90-66,*,26,9,9,1.0,0,0,,9,9,1.0,1.0,6,8,0.75,2,5,7,2,1,1,0,3,24,25.3,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+17,101,17,2016-01-29,Yale,,Pennsylvania,REG (Conf),W 81-58,*,29,7,7,1.0,0,0,,7,7,1.0,1.0,5,11,0.455,5,3,8,0,0,0,2,2,19,16.1,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+18,102,18,2016-01-30,Yale,,Princeton,REG (Conf),W 79-75,*,26,8,8,1.0,0,0,,8,8,1.0,1.0,3,7,0.429,3,4,7,2,1,0,3,2,19,16.9,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+19,103,19,2016-02-05,Yale,,Columbia,REG (Conf),W 86-72,*,34,6,8,0.75,0,0,,6,8,0.75,0.75,13,18,0.722,0,8,8,0,0,1,1,1,25,21.5,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+20,104,20,2016-02-06,Yale,,Cornell,REG (Conf),W 83-52,*,21,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,3,4,7,3,1,0,1,2,10,10.6,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+21,105,21,2016-02-12,Yale,@,Dartmouth,REG (Conf),W 75-65,*,35,4,9,0.444,0,0,,4,9,0.444,0.444,6,10,0.6,1,6,7,1,2,0,1,3,14,10.7,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+22,106,22,2016-02-13,Yale,@,Harvard,REG (Conf),W 67-55,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,1,1,2,1,1,0,2,4,6,1.7,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+23,107,23,2016-02-19,Yale,@,Princeton,REG (Conf),L 63-75,*,35,7,13,0.538,0,1,0.0,7,12,0.583,0.538,4,4,1.0,3,3,6,1,0,1,1,1,18,14.7,A,0,1,brandon-sherrod-1,Brandon Sherrod,2016
+24,108,24,2016-02-20,Yale,@,Pennsylvania,REG (Conf),W 79-58,*,29,4,8,0.5,0,0,,4,8,0.5,0.5,7,10,0.7,1,3,4,1,0,1,0,2,15,12.0,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+25,109,25,2016-02-26,Yale,,Harvard,REG (Conf),W 59-50,*,31,5,11,0.455,0,0,,5,11,0.455,0.455,1,3,0.333,2,4,6,3,0,0,1,0,11,8.2,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+26,110,26,2016-02-27,Yale,,Dartmouth,REG (Conf),W 76-71 (OT),*,40,4,9,0.444,0,0,,4,9,0.444,0.444,8,11,0.727,5,2,7,1,1,2,1,1,16,15.9,H,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+27,111,27,2016-03-04,Yale,@,Cornell,REG (Conf),W 88-64,*,27,6,6,1.0,0,0,,6,6,1.0,1.0,6,10,0.6,4,5,9,1,0,2,1,2,18,19.2,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+28,112,28,2016-03-05,Yale,@,Columbia,REG (Conf),W 71-55,*,34,6,7,0.857,0,0,,6,7,0.857,0.857,1,4,0.25,1,5,6,1,0,1,3,2,13,9.1,A,1,1,brandon-sherrod-1,Brandon Sherrod,2016
+29,113,29,2016-03-17,Yale,N,Baylor,ROUND-64,W 79-75,*,27,3,3,1.0,0,0,,3,3,1.0,1.0,4,7,0.571,2,4,6,0,1,0,2,4,10,7.9,N,1,0,brandon-sherrod-1,Brandon Sherrod,2016
+30,114,30,2016-03-19,Yale,N,Duke,ROUND-32,L 64-71,*,36,10,17,0.588,0,0,,10,17,0.588,0.588,2,4,0.5,3,4,7,2,3,1,1,0,22,20.7,N,0,0,brandon-sherrod-1,Brandon Sherrod,2016

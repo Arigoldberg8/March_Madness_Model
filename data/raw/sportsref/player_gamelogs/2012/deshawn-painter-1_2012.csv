@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,53,1,2011-11-11,NC State,,UNC Asheville,REG (Non-Conf),W 84-75,,29,4,6,0.667,0,0,,4,6,0.667,0.667,4,8,0.5,4,8,12,1,0,4,2,2,12,13.7,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+2,54,2,2011-11-13,NC State,,Morehead State,REG (Non-Conf),W 91-61,*,27,6,6,1.0,0,0,,6,6,1.0,1.0,7,7,1.0,3,2,5,2,0,0,2,3,19,18.1,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+3,55,3,2011-11-16,NC State,,Princeton,REG (Non-Conf),W 60-58,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,3,5,0.6,2,2,4,0,0,1,2,1,11,6.5,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+4,56,4,2011-11-19,NC State,N,Vanderbilt,REG (Non-Conf),L 79-86,*,15,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,0,1,1,0,0,0,0,3,7,2.7,N,0,1,deshawn-painter-1,DeShawn Painter,2012
+5,57,5,2011-11-21,NC State,N,Texas,REG (Non-Conf),W 77-74,*,28,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,0,5,5,1,0,0,0,5,9,4.8,N,1,1,deshawn-painter-1,DeShawn Painter,2012
+6,58,6,2011-11-25,NC State,,Elon,REG (Non-Conf),W 82-67,*,22,3,10,0.3,0,0,,3,10,0.3,0.3,2,2,1.0,4,6,10,0,0,0,1,4,8,4.2,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+7,59,7,2011-11-30,NC State,,Indiana,REG (Non-Conf),L 75-86,*,27,5,13,0.385,0,0,,5,13,0.385,0.385,0,0,,3,3,6,1,1,2,1,2,10,7.2,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+8,60,8,2011-12-04,NC State,@,Stanford,REG (Non-Conf),L 72-76,,24,2,5,0.4,0,0,,2,5,0.4,0.4,3,5,0.6,1,3,4,1,1,0,1,4,7,4.2,A,0,1,deshawn-painter-1,DeShawn Painter,2012
+9,61,9,2011-12-11,NC State,,North Carolina Central,REG (Non-Conf),W 65-60,,21,1,7,0.143,0,0,,1,7,0.143,0.143,3,3,1.0,3,4,7,0,0,0,2,0,5,1.8,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+10,62,10,2011-12-17,NC State,,Syracuse,REG (Non-Conf),L 72-88,,10,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,0,1,0,0,0,0,2,2,-1.2,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+11,63,11,2011-12-20,NC State,N,St. Bonaventure,REG (Non-Conf),W 67-65,,17,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,2,3,5,1,1,2,1,4,8,6.8,N,1,1,deshawn-painter-1,DeShawn Painter,2012
+12,64,12,2011-12-22,NC State,,Northeastern,REG (Non-Conf),W 88-59,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,1,4,0,0,1,1,4,0,-0.2,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+13,65,13,2011-12-29,NC State,,Campbell,REG (Non-Conf),W 87-81,,16,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,3,0,3,0,0,1,2,1,8,6.1,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+14,66,14,2011-12-31,NC State,,Western Carolina,REG (Non-Conf),W 82-55,,19,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,2,3,1,2,0.0,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+15,67,15,2012-01-04,NC State,,Delaware State,REG (Non-Conf),W 78-44,,18,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,5,8,0,0,0,0,0,6,7.3,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+16,68,16,2012-01-08,NC State,,Maryland,REG (Conf),W 79-74,,15,2,5,0.4,0,0,,2,5,0.4,0.4,4,5,0.8,1,4,5,0,0,0,1,3,8,4.6,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+17,69,17,2012-01-11,NC State,,Georgia Tech,REG (Conf),L 71-82,,20,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,2,2,4,0,0,1,0,0,1,2.6,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+18,70,18,2012-01-14,NC State,@,Wake Forest,REG (Conf),W 76-40,*,28,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,2,10,12,0,0,0,0,2,7,5.8,A,1,1,deshawn-painter-1,DeShawn Painter,2012
+19,71,19,2012-01-19,NC State,,Boston College,REG (Conf),W 76-62,,18,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,0,3,3,1,0,1,1,2,8,5.4,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+20,72,20,2012-01-22,NC State,@,Miami (FL),REG (Conf),W 78-73,,33,5,12,0.417,0,0,,5,12,0.417,0.417,8,10,0.8,3,4,7,2,1,1,0,3,18,16.0,A,1,1,deshawn-painter-1,DeShawn Painter,2012
+21,73,21,2012-01-26,NC State,@,North Carolina,REG (Conf),L 55-74,,26,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,0,0,0,3,3,4,-1.9,A,0,1,deshawn-painter-1,DeShawn Painter,2012
+22,74,22,2012-01-28,NC State,,Virginia,REG (Conf),L 60-61,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,0,0,0,2,2,1.1,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+23,75,23,2012-02-01,NC State,@,Boston College,REG (Conf),W 56-51,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,1,2,0.2,A,1,1,deshawn-painter-1,DeShawn Painter,2012
+24,76,24,2012-02-04,NC State,,Wake Forest,REG (Conf),W 87-76,,13,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,0,1,0,2,0,2,2,2,1.2,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+25,77,25,2012-02-09,NC State,@,Georgia Tech,REG (Conf),W 61-52,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,1,2,0,-0.5,A,1,1,deshawn-painter-1,DeShawn Painter,2012
+26,78,26,2012-02-16,NC State,@,Duke,REG (Conf),L 73-78,,26,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,3,3,6,1,0,1,0,2,9,8.5,A,0,1,deshawn-painter-1,DeShawn Painter,2012
+27,79,27,2012-02-18,NC State,,Florida State,REG (Conf),L 62-76,,18,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,0,1,0,0,1,0,2,6,3.9,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+28,80,28,2012-02-21,NC State,,North Carolina,REG (Conf),L 74-86,,20,3,10,0.3,0,0,,3,10,0.3,0.3,1,3,0.333,3,3,6,0,0,1,0,2,7,3.3,H,0,1,deshawn-painter-1,DeShawn Painter,2012
+29,81,29,2012-02-25,NC State,@,Clemson,REG (Conf),L 69-72 (OT),,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,1,3,2,0.1,A,0,1,deshawn-painter-1,DeShawn Painter,2012
+30,82,30,2012-02-29,NC State,,Miami (FL),REG (Conf),W 77-73,,18,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,3,3,0,0,1,0,3,6,3.4,H,1,1,deshawn-painter-1,DeShawn Painter,2012
+31,83,31,2012-03-04,NC State,@,Virginia Tech,REG (Conf),W 70-58,,21,0,5,0.0,0,0,,0,5,0.0,0.0,1,2,0.5,1,4,5,0,0,0,1,4,1,-3.6,A,1,1,deshawn-painter-1,DeShawn Painter,2012
+32,84,32,2012-03-08,NC State,N,Boston College,CTOURN,W 78-57,,19,3,6,0.5,0,0,,3,6,0.5,0.5,4,4,1.0,1,0,1,0,0,0,0,3,10,6.5,N,1,0,deshawn-painter-1,DeShawn Painter,2012
+33,85,33,2012-03-09,NC State,N,Virginia,CTOURN,W 67-64,,21,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,2,3,1,0,0,0,2,4,3.2,N,1,0,deshawn-painter-1,DeShawn Painter,2012
+34,86,34,2012-03-10,NC State,N,North Carolina,CTOURN,L 67-69,,25,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,1,3,4,0,0,0,0,4,5,0.5,N,0,0,deshawn-painter-1,DeShawn Painter,2012
+35,87,35,2012-03-16,NC State,N,San Diego State,ROUND-64,W 79-65,,19,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,1,1,2,0,0,0,1,2,9,6.3,N,1,0,deshawn-painter-1,DeShawn Painter,2012
+36,88,36,2012-03-18,NC State,N,Georgetown,ROUND-32,W 66-63,,16,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,2,4,6,1,1,0,1,2,3,2.0,N,1,0,deshawn-painter-1,DeShawn Painter,2012
+37,89,37,2012-03-23,NC State,N,Kansas,ROUND-16,L 57-60,,17,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,2,3,0,0,0,2,4,3,-2.1,N,0,0,deshawn-painter-1,DeShawn Painter,2012

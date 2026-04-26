@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,1,2021-11-11,TCU,,McNeese State,REG (Non-Conf),W 77-61,,24,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,4,1.0,0,5,5,1,0,0,0,2,9,9.1,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+2,41,2,2021-11-15,TCU,,Southern Mississippi,REG (Non-Conf),W 83-51,*,25,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,1,6,7,3,0,0,0,0,8,10.6,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+3,42,3,2021-11-18,TCU,,Nicholls State,REG (Non-Conf),W 63-50,*,29,1,4,0.25,1,4,0.25,0,0,,0.375,5,5,1.0,0,3,3,1,0,0,0,0,8,7.2,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+4,43,4,2021-11-22,TCU,N,Santa Clara,REG (Non-Conf),L 66-85,*,17,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.8,N,0,1,francisco-farabello-1,Francisco Farabello,2022
+5,44,5,2021-11-24,TCU,N,Pepperdine,REG (Non-Conf),W 73-64,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,1,0,3,1.6,N,1,1,francisco-farabello-1,Francisco Farabello,2022
+6,45,6,2021-11-29,TCU,,Austin Peay,REG (Non-Conf),W 68-51,,18,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,3,3,1,1,0,0,1,3,2.8,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+7,46,7,2021-12-02,TCU,,Oral Roberts,REG (Non-Conf),W 71-63,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.1,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+8,47,8,2021-12-08,TCU,N,Utah,REG (Non-Conf),W 76-62,,15,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,1,1,2,0,0,0,1,2,1.9,N,1,1,francisco-farabello-1,Francisco Farabello,2022
+9,48,9,2021-12-11,TCU,N,Texas A&M,REG (Non-Conf),W 68-64,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,0,0,2,2,1.5,N,1,1,francisco-farabello-1,Francisco Farabello,2022
+10,49,10,2021-12-18,TCU,@,Georgetown,REG (Non-Conf),W 80-73,,18,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,0,0,2,0,0,1,0,6,2.3,A,1,1,francisco-farabello-1,Francisco Farabello,2022
+11,50,11,2021-12-21,TCU,,Grambling State,REG (Non-Conf),W 90-55,*,29,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,1,4,5,1,2,0,0,1,8,10.2,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+12,51,12,2022-01-08,TCU,,Baylor,REG (Conf),L 64-76,,16,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,1,1,0,0,1,3,1.5,H,0,1,francisco-farabello-1,Francisco Farabello,2022
+13,52,13,2022-01-12,TCU,@,Kansas State,REG (Conf),W 60-57,,16,1,5,0.2,1,5,0.2,0,0,,0.3,0,2,0.0,0,3,3,0,0,0,2,1,3,-2.4,A,1,1,francisco-farabello-1,Francisco Farabello,2022
+14,53,14,2022-01-15,TCU,,Oklahoma,REG (Conf),W 59-58 (OT),,17,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,1,2,3,2,2,0,2,2,8,7.9,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+15,54,15,2022-01-19,TCU,@,Oklahoma State,REG (Conf),L 56-57,,20,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,0,4,4,0,0,0,1,0,12,8.9,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+16,55,16,2022-01-22,TCU,@,Iowa State,REG (Conf),W 59-44,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,0,4,4,0,0,0,0,0,0,-0.6,A,1,1,francisco-farabello-1,Francisco Farabello,2022
+17,56,17,2022-01-25,TCU,,Texas,REG (Conf),L 50-73,,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,1,0,0,-2.4,H,0,1,francisco-farabello-1,Francisco Farabello,2022
+18,57,18,2022-01-29,TCU,,Louisiana State,REG (Non-Conf),W 77-68,,14,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,2,0,0,2,0,6,3.7,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+19,58,19,2022-01-31,TCU,@,Oklahoma,REG (Conf),W 72-63,,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,1,0,0,0,0,5,3.7,A,1,1,francisco-farabello-1,Francisco Farabello,2022
+20,59,20,2022-02-05,TCU,,Kansas State,REG (Conf),L 63-75,*,33,4,11,0.364,2,8,0.25,2,3,0.667,0.455,4,4,1.0,0,3,3,4,1,0,2,3,14,9.4,H,0,1,francisco-farabello-1,Francisco Farabello,2022
+21,60,21,2022-02-08,TCU,,Oklahoma State,REG (Conf),W 77-73,*,30,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,5,6,1,1,0,2,1,3,4.2,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+22,61,22,2022-02-12,TCU,@,Texas Tech,REG (Conf),L 69-82,,21,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,3,3,3,2,0,2,1,9,10.7,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+23,62,23,2022-02-15,TCU,,Iowa State,REG (Conf),L 51-54,,26,2,8,0.25,2,5,0.4,0,3,0.0,0.375,0,0,,2,1,3,2,0,0,1,0,6,3.3,H,0,1,francisco-farabello-1,Francisco Farabello,2022
+24,63,24,2022-02-19,TCU,@,Baylor,REG (Conf),L 62-72,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-1.4,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+25,64,25,2022-02-21,TCU,,West Virginia,REG (Conf),W 77-67,,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,1,1,0,1,1,1,0,5,4.0,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+26,65,26,2022-02-23,TCU,@,Texas,REG (Conf),L 66-75,,24,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,0,3,3,0,1,0,1,0,9,7.6,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+27,66,27,2022-02-26,TCU,,Texas Tech,REG (Conf),W 69-66,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,2,1,0,0,1,3,3.9,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+28,67,28,2022-03-01,TCU,,Kansas,REG (Conf),W 74-64,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,4,4,1,0,0,0,3,5,4.4,H,1,1,francisco-farabello-1,Francisco Farabello,2022
+29,68,29,2022-03-03,TCU,@,Kansas,REG (Conf),L 68-72,,20,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,2,2,3,0,0,2,0,5,4.7,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+30,69,30,2022-03-05,TCU,@,West Virginia,REG (Conf),L 64-70,,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,1,2,0,1,1,3,4.0,A,0,1,francisco-farabello-1,Francisco Farabello,2022
+31,70,31,2022-03-10,TCU,N,Texas,CTOURN,W 65-60,,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,2,2,1,2,0,1,0,2,3.6,N,1,0,francisco-farabello-1,Francisco Farabello,2022
+32,71,32,2022-03-11,TCU,N,Kansas,CTOURN,L 62-75,,17,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,1,1,0,0,1,6,7.0,N,0,0,francisco-farabello-1,Francisco Farabello,2022
+33,72,33,2022-03-18,TCU,N,Seton Hall,ROUND-64,W 69-42,,20,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,4,5,1,1,0,2,0,3,2.9,N,1,0,francisco-farabello-1,Francisco Farabello,2022
+34,73,34,2022-03-20,TCU,N,Arizona,ROUND-32,L 80-85 (OT),,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,1,1,0,-2.2,N,0,0,francisco-farabello-1,Francisco Farabello,2022

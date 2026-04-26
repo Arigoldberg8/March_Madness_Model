@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,VCU,,Bellarmine,REG (Non-Conf),W 84-65,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,1,0,0,0,1.0,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+2,2,2,2024-11-08,VCU,N,Boston College,REG (Non-Conf),W 80-55,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,4,0,-1.6,N,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+3,3,3,2024-11-13,VCU,,Merrimack,REG (Non-Conf),W 63-42,,10,0,0,,0,0,,0,0,,,2,2,1.0,0,3,3,0,0,3,1,2,2,3.2,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+4,4,4,2024-11-16,VCU,,Loyola (MD),REG (Non-Conf),W 83-57,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,1,2,1,0,2,2,4.3,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+5,5,5,2024-11-21,VCU,N,Seton Hall,REG (Non-Conf),L 66-69 (OT),,11,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,1,2,0,0,1,0,2,3,3.2,N,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+6,6,6,2024-11-22,VCU,N,Nevada,REG (Non-Conf),L 61-64,,19,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,2,1,3,0,0,3,1,4,2,2.5,N,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+7,7,7,2024-11-24,VCU,N,Miami (FL),REG (Non-Conf),W 77-70,,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,4,0,2,0,3.3,N,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+8,8,8,2024-11-29,VCU,,Elizabeth City St.,REG (Non-Conf),W 103-58,,15,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,3,4,7,1,0,2,1,3,6,7.6,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+9,9,9,2024-12-04,VCU,,Georgia Southern,REG (Non-Conf),W 89-54,,21,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,3,4,0,0,5,1,2,4,6.7,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+10,10,10,2024-12-09,VCU,,Pennsylvania,REG (Non-Conf),W 66-47,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,1,2,0,0,1,1,0,6,4.7,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+11,11,11,2024-12-14,VCU,N,Colorado State,REG (Non-Conf),W 76-68,,12,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,1,1,0,1,0,1.9,N,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+12,12,12,2024-12-18,VCU,@,New Mexico,REG (Non-Conf),L 71-78,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,3,1,3,0,0.2,A,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+13,13,13,2024-12-22,VCU,,William & Mary,REG (Non-Conf),W 90-70,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,4,1,5,0,0,4,1,1,9,9.8,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+14,14,14,2024-12-31,VCU,@,St. Bonaventure,REG (Conf),L 75-77,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,0,2,0,3,2,2.6,A,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+15,15,15,2025-01-04,VCU,@,Loyola Chicago,REG (Conf),W 84-65,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,2,1,1,0,1,2,4.4,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+16,16,16,2025-01-08,VCU,,Fordham,REG (Conf),W 73-61,*,18,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,2,5,7,0,1,3,3,0,8,8.3,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+17,17,17,2025-01-14,VCU,,Saint Louis,REG (Conf),W 78-62,*,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,4,0,4,0,0,0,1,3,0,-0.8,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+18,18,18,2025-01-17,VCU,@,Saint Joseph's,REG (Conf),W 78-69,*,8,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,1,1,0,0,-1.4,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+19,19,19,2025-01-21,VCU,@,Rhode Island,REG (Conf),W 81-57,*,30,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,3,6,9,0,4,3,2,0,6,12.3,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+20,20,20,2025-01-24,VCU,,St. Bonaventure,REG (Conf),W 75-61,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,2,2,4,3,2,4,1,2,1,7.0,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+21,21,21,2025-01-28,VCU,@,Saint Louis,REG (Conf),L 69-78,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,4,0,4,0,0,1,0,1,2,3.7,A,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+22,22,22,2025-02-01,VCU,,Richmond,REG (Conf),W 90-49,*,20,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,3,4,0,1,1,1,1,8,8.0,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+23,23,23,2025-02-04,VCU,,La Salle,REG (Conf),W 96-66,*,19,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,1,4,0,1,2,1,4,2,1.8,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+24,24,24,2025-02-07,VCU,@,Dayton,REG (Conf),W 73-68,*,14,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,2,3,1,1,1,0,2,5,5.5,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+25,25,25,2025-02-12,VCU,@,George Washington,REG (Conf),W 80-72,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,0,1,2,5,4,0.4,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+26,26,26,2025-02-19,VCU,,Massachusetts,REG (Conf),W 80-51,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,1,3,0,0,7,1,0,2,5.2,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+27,27,27,2025-02-22,VCU,,George Mason,REG (Conf),W 70-54,*,14,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,0,1,0,0,1,0,4,3,2.1,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+28,28,28,2025-02-25,VCU,@,Richmond,REG (Conf),W 78-60,*,18,4,4,1.0,0,0,,4,4,1.0,1.0,0,1,0.0,0,5,5,0,0,2,1,1,8,7.9,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+29,29,29,2025-02-28,VCU,,Davidson,REG (Conf),W 80-56,*,24,7,8,0.875,0,0,,7,8,0.875,0.875,3,3,1.0,3,1,4,1,1,1,1,2,17,17.2,H,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+30,30,30,2025-03-04,VCU,@,Duquesne,REG (Conf),W 71-62,*,15,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,2,2,4,1,1,2,1,4,3,4.8,A,1,1,luke-bamgboye-1,Luke Bamgboye,2025
+31,31,31,2025-03-07,VCU,,Dayton,REG (Conf),L 76-79,*,21,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,3,1,4,1,1,2,0,1,2,6.0,H,0,1,luke-bamgboye-1,Luke Bamgboye,2025
+32,32,32,2025-03-14,VCU,N,St. Bonaventure,CTOURN,W 76-59,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,3,2,5,0,0,1,1,4,8,5.5,N,1,0,luke-bamgboye-1,Luke Bamgboye,2025
+33,33,33,2025-03-15,VCU,N,Loyola Chicago,CTOURN,W 62-55,*,18,2,4,0.5,0,0,,2,4,0.5,0.5,2,6,0.333,1,1,2,0,0,4,0,0,6,6.2,N,1,0,luke-bamgboye-1,Luke Bamgboye,2025
+34,34,34,2025-03-16,VCU,N,George Mason,CTOURN,W 68-63,*,28,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,5,3,8,1,0,4,1,3,5,9.0,N,1,0,luke-bamgboye-1,Luke Bamgboye,2025
+35,35,35,2025-03-20,VCU,N,Brigham Young,ROUND-64,L 71-80,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,1,4,0,1,1,0,4,6,6.9,N,0,0,luke-bamgboye-1,Luke Bamgboye,2025

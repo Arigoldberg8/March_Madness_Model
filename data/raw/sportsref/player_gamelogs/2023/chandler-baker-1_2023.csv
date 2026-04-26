@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Colgate,@,Buffalo,REG (Non-Conf),L 87-88,,18,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,5,5,0,0,0,0,1,9,6.8,A,0,1,chandler-baker-1,Chandler Baker,2023
+2,2,2,2022-11-10,Colgate,@,Brown,REG (Non-Conf),W 77-68,,11,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.9,A,1,1,chandler-baker-1,Chandler Baker,2023
+3,3,3,2022-11-13,Colgate,,Wells,REG (Non-Conf),W 93-60,,16,4,12,0.333,2,4,0.5,2,8,0.25,0.417,0,0,,0,0,0,0,0,0,0,0,10,3.2,H,1,1,chandler-baker-1,Chandler Baker,2023
+4,4,4,2022-11-15,Colgate,@,Syracuse,REG (Non-Conf),W 80-68,,9,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,1,1,6,1.5,A,1,1,chandler-baker-1,Chandler Baker,2023
+5,5,5,2022-11-18,Colgate,N,Duquesne,REG (Non-Conf),L 80-85,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,N,0,1,chandler-baker-1,Chandler Baker,2023
+6,6,6,2022-11-21,Colgate,,Monmouth,REG (Non-Conf),W 85-66,,12,5,7,0.714,4,5,0.8,1,2,0.5,1.0,3,3,1.0,0,2,2,0,0,0,0,2,17,13.9,H,1,1,chandler-baker-1,Chandler Baker,2023
+7,7,7,2022-11-25,Colgate,N,Delaware,REG (Non-Conf),L 68-72,,16,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,1,0.0,0,3,3,1,1,0,0,0,5,3.8,N,0,1,chandler-baker-1,Chandler Baker,2023
+8,8,8,2022-11-26,Colgate,@,Pennsylvania,REG (Non-Conf),L 69-81,,15,6,6,1.0,2,2,1.0,4,4,1.0,1.167,0,0,,1,0,1,0,0,0,1,1,14,11.5,A,0,1,chandler-baker-1,Chandler Baker,2023
+9,9,9,2022-11-27,Colgate,N,Hartford,REG (Non-Conf),W 92-58,,14,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,0,3,3,1,1,0,0,0,9,6.9,N,1,1,chandler-baker-1,Chandler Baker,2023
+10,10,10,2022-12-02,Colgate,@,Auburn,REG (Non-Conf),L 66-93,,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,1,0,3,1,3,-0.8,A,0,1,chandler-baker-1,Chandler Baker,2023
+11,11,11,2022-12-07,Colgate,@,Binghamton,REG (Non-Conf),W 81-62,,18,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,0,1,0,2,1,3,-1.2,A,1,1,chandler-baker-1,Chandler Baker,2023
+12,12,12,2022-12-10,Colgate,,Vermont,REG (Non-Conf),L 72-73,,12,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,1,1,2,0,0,0,1,1,8,4.9,H,0,1,chandler-baker-1,Chandler Baker,2023
+13,13,13,2022-12-22,Colgate,,Cornell,REG (Non-Conf),L 80-91,,9,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,0,0,0,1,0,0,1,0,5,3.0,H,0,1,chandler-baker-1,Chandler Baker,2023
+14,14,14,2022-12-30,Colgate,@,Loyola (MD),REG (Conf),W 101-67,,16,5,8,0.625,3,4,0.75,2,4,0.5,0.813,1,1,1.0,0,1,1,0,0,0,1,1,14,9.3,A,1,1,chandler-baker-1,Chandler Baker,2023
+15,15,15,2023-01-02,Colgate,@,Lehigh,REG (Conf),W 76-60,,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-2.8,A,1,1,chandler-baker-1,Chandler Baker,2023
+16,16,16,2023-01-05,Colgate,,Navy,REG (Conf),W 87-73,,15,4,4,1.0,1,1,1.0,3,3,1.0,1.125,1,1,1.0,0,0,0,0,0,0,0,1,10,8.4,H,1,1,chandler-baker-1,Chandler Baker,2023
+17,17,17,2023-01-09,Colgate,@,Army,REG (Conf),W 77-75,,12,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,1,2,1,1,0,1,2,4,0.8,A,1,1,chandler-baker-1,Chandler Baker,2023
+18,18,18,2023-01-11,Colgate,,Boston University,REG (Conf),W 77-71,,9,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,1,0,1,2,-1.2,H,1,1,chandler-baker-1,Chandler Baker,2023
+19,19,19,2023-01-14,Colgate,,Bucknell,REG (Conf),W 71-65,,12,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,3,3,1,0,0,0,0,4,3.9,H,1,1,chandler-baker-1,Chandler Baker,2023
+20,20,20,2023-01-18,Colgate,@,Holy Cross,REG (Conf),W 77-71,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,chandler-baker-1,Chandler Baker,2023
+21,21,21,2023-01-21,Colgate,,American,REG (Conf),W 62-61,,10,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,0,0,0,0,0,7,6.1,H,1,1,chandler-baker-1,Chandler Baker,2023
+22,22,22,2023-01-23,Colgate,@,Boston University,REG (Conf),W 64-51,,7,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,1,1,1,2,0.6,A,1,1,chandler-baker-1,Chandler Baker,2023
+23,23,23,2023-01-28,Colgate,,Lafayette,REG (Conf),W 69-57,,14,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,2,2,0,1,0,1,1,5,2.5,H,1,1,chandler-baker-1,Chandler Baker,2023
+24,24,24,2023-01-30,Colgate,,Loyola (MD),REG (Conf),W 76-63,,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,2,0,0,-3.4,H,1,1,chandler-baker-1,Chandler Baker,2023
+25,25,25,2023-02-04,Colgate,@,American,REG (Conf),L 60-61,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,A,0,1,chandler-baker-1,Chandler Baker,2023
+26,26,26,2023-02-08,Colgate,,Lehigh,REG (Conf),W 81-53,,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,1,2,0,0,0,1,0,2,-1.8,H,1,1,chandler-baker-1,Chandler Baker,2023
+27,27,27,2023-02-11,Colgate,@,Bucknell,REG (Conf),W 76-56,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,1,1,0,0,0,3,4.0,A,1,1,chandler-baker-1,Chandler Baker,2023
+28,28,28,2023-02-15,Colgate,,Army,REG (Conf),W 93-86,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,1,0,0,0,3,2.6,H,1,1,chandler-baker-1,Chandler Baker,2023
+29,29,29,2023-02-18,Colgate,,Holy Cross,REG (Conf),W 96-73,,14,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,0,0,0,0,0,6,3.6,H,1,1,chandler-baker-1,Chandler Baker,2023
+30,30,30,2023-02-22,Colgate,@,Lafayette,REG (Conf),W 73-69,,14,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,0,4,4,0,0,0,0,0,9,8.6,A,1,1,chandler-baker-1,Chandler Baker,2023
+31,31,31,2023-02-25,Colgate,@,Navy,REG (Conf),W 64-60,,12,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,0,0,0,0,0,0,0,3,0.6,A,1,1,chandler-baker-1,Chandler Baker,2023
+32,32,32,2023-03-02,Colgate,,Loyola (MD),CTOURN,W 92-73,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,0,0,0,0,2,1.3,H,1,0,chandler-baker-1,Chandler Baker,2023
+33,33,33,2023-03-05,Colgate,,Army,CTOURN,W 91-74,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,3,0,0,0,0,3,3.7,H,1,0,chandler-baker-1,Chandler Baker,2023
+34,34,34,2023-03-08,Colgate,,Lafayette,CTOURN,W 79-61,,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,1,0,0,0,3,4.0,H,1,0,chandler-baker-1,Chandler Baker,2023
+35,35,35,2023-03-16,Colgate,N,Texas,ROUND-64,L 61-81,,9,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,1,1.0,0,0,0,0,0,0,0,1,5,1.2,N,0,0,chandler-baker-1,Chandler Baker,2023

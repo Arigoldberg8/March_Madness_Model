@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,1,2020-11-25,Missouri,,Oral Roberts,REG (Non-Conf),W 91-64,*,28,4,5,0.8,0,0,4,5,0.8,0.8,0,2,0.0,4,8,12,1,2,0,3,1,8,9.8,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+2,83,2,2020-12-02,Missouri,N,Oregon,REG (Non-Conf),W 83-75,*,30,5,10,0.5,0,0,5,10,0.5,0.5,1,2,0.5,4,5,9,2,0,1,0,3,11,10.8,N,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+3,84,3,2020-12-06,Missouri,@,Wichita State,REG (Non-Conf),W 72-62,*,18,3,4,0.75,0,0,3,4,0.75,0.75,1,5,0.2,1,4,5,1,0,0,1,3,7,4.2,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+4,85,4,2020-12-09,Missouri,,Liberty,REG (Non-Conf),W 69-60,*,22,3,3,1.0,0,0,3,3,1.0,1.0,2,6,0.333,4,5,9,2,0,0,1,2,8,9.4,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+5,86,5,2020-12-12,Missouri,,Illinois,REG (Non-Conf),W 81-78,*,18,0,2,0.0,0,0,0,2,0.0,0.0,3,4,0.75,0,2,2,0,1,0,4,5,3,-3.2,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+6,87,6,2020-12-22,Missouri,,Bradley,REG (Non-Conf),W 54-53,*,28,3,8,0.375,0,0,3,8,0.375,0.375,6,9,0.667,4,6,10,0,1,0,1,3,12,9.8,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+7,88,7,2020-12-30,Missouri,,Tennessee,REG (Conf),L 53-73,*,27,3,5,0.6,0,0,3,5,0.6,0.6,3,6,0.5,1,3,4,0,1,1,2,3,9,5.6,H,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+8,89,8,2021-01-02,Missouri,@,Arkansas,REG (Conf),W 81-68,*,28,9,13,0.692,0,0,9,13,0.692,0.692,7,10,0.7,3,8,11,0,0,0,1,3,25,20.6,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+9,90,9,2021-01-05,Missouri,@,Mississippi State,REG (Conf),L 63-78,*,29,8,10,0.8,0,0,8,10,0.8,0.8,0,0,,3,3,6,0,1,0,1,4,16,13.6,A,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+10,91,10,2021-01-16,Missouri,@,Texas A&M,REG (Conf),W 68-52,*,33,5,6,0.833,0,0,5,6,0.833,0.833,4,5,0.8,5,5,10,1,1,3,2,1,14,17.8,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+11,92,11,2021-01-19,Missouri,,South Carolina,REG (Conf),W 81-70,*,32,8,11,0.727,0,0,8,11,0.727,0.727,3,5,0.6,2,8,10,2,3,3,2,3,19,20.8,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+12,93,12,2021-01-23,Missouri,@,Tennessee,REG (Conf),W 73-64,*,30,3,8,0.375,0,0,3,8,0.375,0.375,3,6,0.5,3,2,5,1,1,2,1,4,9,6.6,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+13,94,13,2021-01-26,Missouri,@,Auburn,REG (Conf),L 82-88,*,35,9,14,0.643,0,0,9,14,0.643,0.643,3,11,0.273,6,4,10,1,2,6,3,3,21,19.7,A,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+14,95,14,2021-01-30,Missouri,,TCU,REG (Non-Conf),W 102-98 (OT),*,35,13,16,0.813,0,0,13,16,0.813,0.813,7,15,0.467,5,6,11,1,0,3,3,3,33,27.7,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+15,96,15,2021-02-03,Missouri,,Kentucky,REG (Conf),W 75-70,*,29,3,8,0.375,0,0,3,8,0.375,0.375,2,7,0.286,2,3,5,0,0,1,3,3,8,0.4,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+16,97,16,2021-02-06,Missouri,,Alabama,REG (Conf),W 68-65,*,27,3,7,0.429,0,0,3,7,0.429,0.429,3,3,1.0,3,5,8,2,0,2,1,3,9,9.5,H,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+17,98,17,2021-02-10,Missouri,@,Ole Miss,REG (Conf),L 59-80,*,25,2,4,0.5,0,0,2,4,0.5,0.5,2,6,0.333,1,5,6,2,0,1,3,3,6,2.5,A,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+18,99,20,2021-02-20,Missouri,@,South Carolina,REG (Conf),W 93-78,,21,5,5,1.0,0,0,5,5,1.0,1.0,7,7,1.0,1,3,4,0,0,1,1,0,17,16.8,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+19,100,21,2021-02-23,Missouri,,Ole Miss,REG (Conf),L 53-60,*,29,5,9,0.556,0,0,5,9,0.556,0.556,0,1,0.0,5,5,10,0,3,4,3,2,10,12.3,H,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+20,101,22,2021-03-03,Missouri,@,Florida,REG (Conf),W 72-70,*,30,6,8,0.75,0,0,6,8,0.75,0.75,0,2,0.0,2,3,5,1,1,0,4,5,12,6.0,A,1,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+21,102,23,2021-03-06,Missouri,,Louisiana State,REG (Conf),L 80-86,*,25,1,3,0.333,0,0,1,3,0.333,0.333,4,8,0.5,2,2,4,1,0,1,3,4,6,1.5,H,0,1,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+22,103,24,2021-03-11,Missouri,N,Georgia,CTOURN,W 73-70,*,28,3,8,0.375,0,0,3,8,0.375,0.375,4,4,1.0,4,2,6,2,0,3,3,2,10,8.7,N,1,0,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+23,104,25,2021-03-12,Missouri,N,Arkansas,CTOURN,L 64-70,*,26,3,6,0.5,0,0,3,6,0.5,0.5,3,7,0.429,0,0,0,0,1,0,3,5,9,0.4,N,0,0,jeremiah-tilmon-1,Jeremiah Tilmon,2021
+24,105,26,2021-03-20,Missouri,N,Oklahoma,ROUND-64,L 68-72,*,30,6,11,0.545,0,0,6,11,0.545,0.545,4,6,0.667,4,8,12,1,1,2,1,4,16,15.6,N,0,0,jeremiah-tilmon-1,Jeremiah Tilmon,2021

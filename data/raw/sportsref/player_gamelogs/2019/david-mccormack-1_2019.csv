@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Kansas,N,Michigan State,REG (Non-Conf),W 92-87,,5,1,2,0.5,0,0,1,2,0.5,0.5,1,4,0.25,1,2,3,1,0,0,0,1,3,2.4,N,1,1,david-mccormack-1,David McCormack,2019
+2,2,3,2018-11-16,Kansas,,Louisiana,REG (Non-Conf),W 89-76,,10,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,4,2,6,0,0,1,0,0,2,3.7,H,1,1,david-mccormack-1,David McCormack,2019
+3,3,4,2018-11-21,Kansas,N,Marquette,REG (Non-Conf),W 77-68,,2,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,N,1,1,david-mccormack-1,David McCormack,2019
+4,4,5,2018-11-23,Kansas,N,Tennessee,REG (Non-Conf),W 87-81 (OT),,4,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,2,1,0,-2.1,N,1,1,david-mccormack-1,David McCormack,2019
+5,5,6,2018-12-01,Kansas,,Stanford,REG (Non-Conf),W 90-84 (OT),,1,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,david-mccormack-1,David McCormack,2019
+6,6,7,2018-12-04,Kansas,,Wofford,REG (Non-Conf),W 72-47,,5,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,0,3,3,0,0,0,0,0,6,4.6,H,1,1,david-mccormack-1,David McCormack,2019
+7,7,8,2018-12-08,Kansas,N,New Mexico State,REG (Non-Conf),W 63-60,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,0,0,0.0,N,1,1,david-mccormack-1,David McCormack,2019
+8,8,9,2018-12-15,Kansas,,Villanova,REG (Non-Conf),W 74-71,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,david-mccormack-1,David McCormack,2019
+9,9,10,2018-12-18,Kansas,,South Dakota,REG (Non-Conf),W 89-53,,17,4,7,0.571,0,0,4,7,0.571,0.571,4,4,1.0,1,5,6,1,0,2,0,2,12,12.2,H,1,1,david-mccormack-1,David McCormack,2019
+10,10,11,2018-12-22,Kansas,@,Arizona State,REG (Non-Conf),L 76-80,,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,2,4,0,0,1,0,2,2,2.9,A,0,1,david-mccormack-1,David McCormack,2019
+11,11,12,2018-12-29,Kansas,,Eastern Michigan,REG (Non-Conf),W 87-63,,17,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,0,5,5,0,1,1,0,2,4,5.4,H,1,1,david-mccormack-1,David McCormack,2019
+12,12,13,2019-01-02,Kansas,,Oklahoma,REG (Conf),W 70-63,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,1,0,1,1,0,-0.4,H,1,1,david-mccormack-1,David McCormack,2019
+13,13,14,2019-01-05,Kansas,@,Iowa State,REG (Conf),L 60-77,,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,A,0,1,david-mccormack-1,David McCormack,2019
+14,14,15,2019-01-09,Kansas,,TCU,REG (Conf),W 77-68,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,david-mccormack-1,David McCormack,2019
+15,15,16,2019-01-12,Kansas,@,Baylor,REG (Conf),W 73-68,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,david-mccormack-1,David McCormack,2019
+16,16,17,2019-01-14,Kansas,,Texas,REG (Conf),W 80-78,,8,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,3,1,4,0,0,0,1,2,2,0.5,H,1,1,david-mccormack-1,David McCormack,2019
+17,17,18,2019-01-19,Kansas,@,West Virginia,REG (Conf),L 64-65,,8,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,3,4,0,0,0,0,0,2,3.3,A,0,1,david-mccormack-1,David McCormack,2019
+18,18,19,2019-01-21,Kansas,,Iowa State,REG (Conf),W 80-76,,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,david-mccormack-1,David McCormack,2019
+19,19,20,2019-01-26,Kansas,@,Kentucky,REG (Non-Conf),L 63-71,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,1,0.0,1,2,3,0,0,0,0,1,0,-0.2,A,0,1,david-mccormack-1,David McCormack,2019
+20,20,21,2019-01-29,Kansas,@,Texas,REG (Conf),L 63-73,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,2,0,0,1,1,2,1.7,A,0,1,david-mccormack-1,David McCormack,2019
+21,21,22,2019-02-02,Kansas,,Texas Tech,REG (Conf),W 79-63,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,H,1,1,david-mccormack-1,David McCormack,2019
+22,22,24,2019-02-09,Kansas,,Oklahoma State,REG (Conf),W 84-72,*,14,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,4,1,5,0,0,1,0,2,0,0.9,H,1,1,david-mccormack-1,David McCormack,2019
+23,23,25,2019-02-11,Kansas,@,TCU,REG (Conf),W 82-77 (OT),*,17,1,3,0.333,0,0,1,3,0.333,0.333,2,4,0.5,1,2,3,0,0,1,0,4,4,1.9,A,1,1,david-mccormack-1,David McCormack,2019
+24,24,26,2019-02-16,Kansas,,West Virginia,REG (Conf),W 78-53,*,24,4,4,1.0,0,0,4,4,1.0,1.0,2,4,0.5,3,1,4,1,2,2,4,4,10,8.9,H,1,1,david-mccormack-1,David McCormack,2019
+25,25,27,2019-02-23,Kansas,@,Texas Tech,REG (Conf),L 62-91,*,16,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,0,4,4,0,0,0,3,2,8,4.5,A,0,1,david-mccormack-1,David McCormack,2019
+26,26,28,2019-02-25,Kansas,,Kansas State,REG (Conf),W 64-49,*,7,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,2,0,0,-1.3,H,1,1,david-mccormack-1,David McCormack,2019
+27,27,29,2019-03-02,Kansas,@,Oklahoma State,REG (Conf),W 72-67,*,11,1,4,0.25,0,0,1,4,0.25,0.25,3,4,0.75,0,3,3,1,0,1,1,1,5,3.1,A,1,1,david-mccormack-1,David McCormack,2019
+28,28,30,2019-03-05,Kansas,@,Oklahoma,REG (Conf),L 68-81,*,21,8,11,0.727,0,0,8,11,0.727,0.727,2,3,0.667,2,3,5,1,2,0,0,4,18,16.5,A,0,1,david-mccormack-1,David McCormack,2019
+29,29,31,2019-03-09,Kansas,,Baylor,REG (Conf),W 78-70,*,18,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,1,4,5,0,0,1,0,2,12,9.9,H,1,1,david-mccormack-1,David McCormack,2019
+30,30,32,2019-03-14,Kansas,N,Texas,CTOURN,W 65-57,*,29,6,7,0.857,0,0,6,7,0.857,0.857,1,3,0.333,6,3,9,0,0,1,3,2,13,11.7,N,1,0,david-mccormack-1,David McCormack,2019
+31,31,33,2019-03-15,Kansas,N,West Virginia,CTOURN,W 88-74,*,25,2,3,0.667,0,0,2,3,0.667,0.667,3,3,1.0,5,3,8,2,1,0,3,0,7,9.5,N,1,0,david-mccormack-1,David McCormack,2019
+32,32,34,2019-03-16,Kansas,N,Iowa State,CTOURN,L 66-78,*,8,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,1,1,4,3.0,N,0,0,david-mccormack-1,David McCormack,2019
+33,33,35,2019-03-21,Kansas,N,Northeastern,ROUND-64,W 87-53,*,11,0,0,,0,0,0,0,,,0,0,,2,3,5,2,0,0,1,1,0,2.3,N,1,0,david-mccormack-1,David McCormack,2019
+34,34,36,2019-03-23,Kansas,N,Auburn,ROUND-32,L 75-89,*,21,5,6,0.833,0,0,5,6,0.833,0.833,1,1,1.0,2,4,6,2,0,0,2,1,11,10.4,N,0,0,david-mccormack-1,David McCormack,2019

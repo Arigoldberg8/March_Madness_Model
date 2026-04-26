@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-13,Texas,,Boston University,REG (Non-Conf),W 82-46,,14,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,0,0,0,0,3,4,1.7,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+2,2,2,2011-11-15,Texas,,Rhode Island,REG (Non-Conf),W 100-90,,17,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,2,4,6,0,0,0,1,2,6,6.2,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+3,3,3,2011-11-19,Texas,N,Oregon State,REG (Non-Conf),L 95-100 (OT),,22,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,2,2,0,0,1,1,5,5,1.9,N,0,1,jaylen-bond-1,Jaylen Bond,2012
+4,4,4,2011-11-21,Texas,N,NC State,REG (Non-Conf),L 74-77,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,1,0,1,1,3,2,1.8,N,0,1,jaylen-bond-1,Jaylen Bond,2012
+5,5,5,2011-11-26,Texas,,Sam Houston State,REG (Non-Conf),W 56-40,,7,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,3,0,3,0,0,0,0,0,0,-0.7,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+6,6,6,2011-11-29,Texas,,North Texas,REG (Non-Conf),W 73-57,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,3,4,0,1,1,0,0,2,3.5,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+7,7,7,2011-12-03,Texas,@,UCLA,REG (Non-Conf),W 69-59,,14,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,2,2,1,0,0,0,0,5,4.6,A,1,1,jaylen-bond-1,Jaylen Bond,2012
+8,8,8,2011-12-06,Texas,,UT Arlington,REG (Non-Conf),W 80-62,,10,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,4,4,1,0,1,0,1,3,4.5,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+9,9,9,2011-12-10,Texas,,Texas State San Marcos,REG (Non-Conf),W 86-52,,19,0,0,,0,0,,0,0,,,0,0,,0,3,3,1,1,1,1,1,0,1.9,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+10,10,10,2011-12-13,Texas,,Nicholls State,REG (Non-Conf),W 93-40,,24,9,12,0.75,0,0,,9,12,0.75,0.75,0,0,,8,4,12,2,1,0,0,1,18,22.0,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+11,11,11,2011-12-17,Texas,,Temple,REG (Non-Conf),W 77-65,,22,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,0,,4,4,8,0,1,0,2,2,12,11.7,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+12,12,12,2011-12-21,Texas,@,North Carolina,REG (Non-Conf),L 63-82,,16,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,4,5,9,0,1,0,0,3,6,6.4,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+13,13,13,2011-12-31,Texas,,Rice,REG (Non-Conf),W 73-59,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,1,2,3,1,1,0,1,2,4,2.7,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+14,14,14,2012-01-04,Texas,@,Iowa State,REG (Conf),L 71-77,*,11,0,0,,0,0,,0,0,,,0,0,,0,4,4,0,1,0,2,5,0,-1.8,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+15,15,15,2012-01-07,Texas,,Oklahoma State,REG (Conf),W 58-49,*,22,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,2,0.0,2,7,9,0,3,1,1,4,0,1.0,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+16,16,16,2012-01-11,Texas,,Texas A&M,REG (Conf),W 61-51,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,1,1,2,0.6,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+17,17,17,2012-01-14,Texas,@,Missouri,REG (Conf),L 73-84,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,1,1,1,0,2,0,1.6,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+18,18,18,2012-01-18,Texas,@,Kansas State,REG (Conf),L 80-84,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,2,3,0,0,0,1,4,4,1.0,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+19,19,19,2012-01-21,Texas,,Kansas,REG (Conf),L 66-69,,13,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,3,4,0,0,0,0,1,6,5.9,H,0,1,jaylen-bond-1,Jaylen Bond,2012
+20,20,20,2012-01-24,Texas,,Iowa State,REG (Conf),W 62-55,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,3,4,7,1,1,0,0,4,4,5.7,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+21,21,21,2012-01-28,Texas,@,Baylor,REG (Conf),L 71-76,,25,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,3,3,6,0,2,0,0,4,2,2.3,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+22,22,22,2012-01-30,Texas,,Missouri,REG (Conf),L 66-67,,14,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,3,4,7,0,0,0,0,0,5,6.6,H,0,1,jaylen-bond-1,Jaylen Bond,2012
+23,23,23,2012-02-04,Texas,,Texas Tech,REG (Conf),W 74-57,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,0,3,2,1.8,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+24,24,24,2012-02-06,Texas,@,Texas A&M,REG (Conf),W 70-68,,22,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,4,4,8,0,0,1,0,3,4,4.1,A,1,1,jaylen-bond-1,Jaylen Bond,2012
+25,25,25,2012-02-11,Texas,,Kansas State,REG (Conf),W 75-64,,8,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,1,3,0,-1.2,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+26,26,26,2012-02-14,Texas,@,Oklahoma,REG (Conf),W 69-58,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,2,3,1,1,1,0,0,2,4.6,A,1,1,jaylen-bond-1,Jaylen Bond,2012
+27,27,27,2012-02-18,Texas,@,Oklahoma State,REG (Conf),L 78-90,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,0,1,0,-0.2,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+28,28,28,2012-02-20,Texas,,Baylor,REG (Conf),L 72-77,,12,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,2,0,0.2,H,0,1,jaylen-bond-1,Jaylen Bond,2012
+29,29,29,2012-02-25,Texas,@,Texas Tech,REG (Conf),W 71-67 (OT),,15,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,2,5,7,1,2,0,0,4,4,5.2,A,1,1,jaylen-bond-1,Jaylen Bond,2012
+30,30,30,2012-02-29,Texas,,Oklahoma,REG (Conf),W 72-64,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,6,8,0,0,0,1,2,4,4.1,H,1,1,jaylen-bond-1,Jaylen Bond,2012
+31,31,31,2012-03-03,Texas,@,Kansas,REG (Conf),L 63-73,,20,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,2,3,0,0,1,1,5,1,-1.1,A,0,1,jaylen-bond-1,Jaylen Bond,2012
+32,32,32,2012-03-08,Texas,N,Iowa State,CTOURN,W 71-65,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,4,1,5,0,0,0,0,3,4,4.6,N,1,0,jaylen-bond-1,Jaylen Bond,2012
+33,33,33,2012-03-09,Texas,N,Missouri,CTOURN,L 67-81,,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,1,0.0,5,3,8,0,1,3,2,2,4,5.6,N,0,0,jaylen-bond-1,Jaylen Bond,2012
+34,34,34,2012-03-16,Texas,N,Cincinnati,ROUND-64,L 59-65,,9,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,2,2,4,0,0,0,0,0,0,-0.8,N,0,0,jaylen-bond-1,Jaylen Bond,2012

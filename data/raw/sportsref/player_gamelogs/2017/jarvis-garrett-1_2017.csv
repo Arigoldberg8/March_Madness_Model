@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2016-11-11,Rhode Island,,Dartmouth,REG (Non-Conf),W 84-61,*,23,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,2,2,2,0,0,2,3,5,0.4,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+2,66,2,2016-11-14,Rhode Island,,Marist,REG (Non-Conf),W 107-65,*,25,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,3,0.667,1,2,3,8,1,0,2,1,9,9.7,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+3,67,3,2016-11-16,Rhode Island,,Brown,REG (Non-Conf),W 79-72,*,29,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,3,0.333,0,2,2,5,1,0,4,5,9,5.0,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+4,68,4,2016-11-19,Rhode Island,N,Cincinnati,REG (Non-Conf),W 76-71,*,13,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,2,1,0,0,0,0,0.9,N,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+5,69,5,2016-11-20,Rhode Island,N,Duke,REG (Non-Conf),L 65-75,*,33,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,0,3,3,4,2,1,2,3,4,2.4,N,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+6,70,6,2016-11-25,Rhode Island,,Belmont,REG (Non-Conf),W 82-73,*,33,8,11,0.727,3,5,0.6,5,6,0.833,0.864,4,4,1.0,1,3,4,4,1,0,2,3,23,20.7,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+7,71,7,2016-11-29,Rhode Island,@,Valparaiso,REG (Non-Conf),L 62-65,*,28,3,9,0.333,0,4,0.0,3,5,0.6,0.333,4,4,1.0,0,2,2,4,3,0,1,4,10,8.7,A,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+8,72,8,2016-12-03,Rhode Island,@,Providence,REG (Non-Conf),L 60-63,*,30,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,0,1,1,3,0,0,3,1,8,2.3,A,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+9,73,9,2016-12-06,Rhode Island,,Old Dominion,REG (Non-Conf),W 51-39,*,20,2,6,0.333,1,1,1.0,1,5,0.2,0.417,1,5,0.2,0,1,1,1,1,0,2,3,6,-0.2,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+10,74,10,2016-12-10,Rhode Island,@,Houston,REG (Non-Conf),L 77-82,*,29,3,8,0.375,0,3,0.0,3,5,0.6,0.375,2,3,0.667,0,2,2,4,0,0,2,5,8,2.6,A,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+11,75,11,2016-12-18,Rhode Island,,Holy Cross,REG (Non-Conf),W 65-54,*,31,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,3,4,3,2,0,3,2,6,5.9,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+12,76,12,2016-12-22,Rhode Island,,William & Mary,REG (Non-Conf),W 73-62,*,33,2,11,0.182,0,4,0.0,2,7,0.286,0.182,4,4,1.0,1,1,2,5,3,0,0,1,8,8.2,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+13,77,13,2016-12-30,Rhode Island,@,Saint Louis,REG (Conf),W 90-56,*,23,6,9,0.667,3,4,0.75,3,5,0.6,0.833,0,1,0.0,0,1,1,4,1,0,1,3,15,12.6,A,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+14,78,14,2017-01-03,Rhode Island,,Saint Joseph's,REG (Conf),W 88-58,*,27,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,2,2,7,1,0,1,2,4,5.2,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+15,79,15,2017-01-06,Rhode Island,@,Dayton,REG (Conf),L 64-67,*,31,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,2,1,3,4,0,1,4,0,3,0.4,A,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+16,80,16,2017-01-12,Rhode Island,,La Salle,REG (Conf),L 75-87,*,23,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,1,1.0,0,1,1,3,0,0,0,2,9,7.6,H,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+17,81,25,2017-02-15,Rhode Island,,Fordham,REG (Conf),L 43-53,,17,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,0,1,0,2,0,5,2.0,H,0,1,jarvis-garrett-1,Jarvis Garrett,2017
+18,82,26,2017-02-18,Rhode Island,@,George Mason,REG (Conf),W 77-74,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,0,0,0,0,1,3,0.2,A,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+19,83,27,2017-02-21,Rhode Island,@,La Salle,REG (Conf),W 67-56,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,1,1,-1.2,A,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+20,84,28,2017-02-25,Rhode Island,,VCU,REG (Conf),W 69-59,,14,0,1,0.0,0,1,0.0,0,0,,0.0,12,12,1.0,0,0,0,1,0,1,2,1,12,10.3,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+21,85,29,2017-03-01,Rhode Island,@,Saint Joseph's,REG (Conf),W 68-49,,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,4,4,4,3,0,1,0,4,8.7,A,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+22,86,30,2017-03-04,Rhode Island,,Davidson,REG (Conf),W 73-70 (OT),,21,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,2,2,4,3,1,0,0,2,3,7.0,H,1,1,jarvis-garrett-1,Jarvis Garrett,2017
+23,87,31,2017-03-10,Rhode Island,N,St. Bonaventure,CTOURN,W 74-63,,16,0,0,,0,0,,0,0,,,2,4,0.5,0,1,1,3,0,0,3,0,2,0.6,N,1,0,jarvis-garrett-1,Jarvis Garrett,2017
+24,88,32,2017-03-11,Rhode Island,N,Davidson,CTOURN,W 84-60,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,1,0,0,0,3,4.3,N,1,0,jarvis-garrett-1,Jarvis Garrett,2017
+25,89,33,2017-03-12,Rhode Island,N,VCU,CTOURN,W 70-63,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,0,0,1,0,0,0,1,3,1.2,N,1,0,jarvis-garrett-1,Jarvis Garrett,2017
+26,90,34,2017-03-17,Rhode Island,N,Creighton,ROUND-64,W 84-72,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,1,0,0,-0.7,N,1,0,jarvis-garrett-1,Jarvis Garrett,2017
+27,91,35,2017-03-19,Rhode Island,N,Oregon,ROUND-32,L 72-75,,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,2,0,0,0,1,0,-0.4,N,0,0,jarvis-garrett-1,Jarvis Garrett,2017

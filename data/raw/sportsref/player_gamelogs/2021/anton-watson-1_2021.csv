@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,3,4,0,1,0,3,2,2,0.5,N,1,1,anton-watson-1,Anton Watson,2021
+2,17,2,2020-11-27,Gonzaga,N,Auburn,REG (Non-Conf),W 90-67,*,27,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,3,2,5,2,0,1,1,3,6,4.9,N,1,1,anton-watson-1,Anton Watson,2021
+3,18,3,2020-12-02,Gonzaga,N,West Virginia,REG (Non-Conf),W 87-82,*,23,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,4,4,2,0,0,2,5,1,-2.9,N,1,1,anton-watson-1,Anton Watson,2021
+4,19,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,*,16,2,4,0.5,0,0,,2,4,0.5,0.5,1,3,0.333,1,2,3,1,0,1,1,4,5,2.3,N,1,1,anton-watson-1,Anton Watson,2021
+5,20,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,*,22,4,10,0.4,1,3,0.333,3,7,0.429,0.45,6,6,1.0,3,4,7,4,4,3,2,4,15,18.2,H,1,1,anton-watson-1,Anton Watson,2021
+6,21,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,,21,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,3,0.667,0,4,4,0,3,1,0,1,10,12.2,H,1,1,anton-watson-1,Anton Watson,2021
+7,22,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,*,16,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,1,1,2,3,0,1,0,2,6,7.0,N,1,1,anton-watson-1,Anton Watson,2021
+8,23,8,2020-12-28,Gonzaga,,Northern Arizona,REG (Non-Conf),W 88-58,*,29,3,4,0.75,0,1,0.0,3,3,1.0,0.75,3,3,1.0,1,2,3,1,1,1,1,2,9,9.3,H,1,1,anton-watson-1,Anton Watson,2021
+9,24,9,2020-12-29,Gonzaga,,Dixie State,REG (Non-Conf),W 112-67,*,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,4,5,4,1,0,0,3,8,8.5,H,1,1,anton-watson-1,Anton Watson,2021
+10,25,10,2021-01-02,Gonzaga,,San Francisco,REG (Conf),W 85-62,*,21,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,5,0.8,2,2,4,3,0,2,3,1,8,7.7,H,1,1,anton-watson-1,Anton Watson,2021
+11,26,11,2021-01-07,Gonzaga,,Brigham Young,REG (Conf),W 86-69,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,4,6,0.667,3,5,8,0,2,1,0,3,8,9.6,H,1,1,anton-watson-1,Anton Watson,2021
+12,27,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,*,24,8,9,0.889,1,1,1.0,7,8,0.875,0.944,6,7,0.857,1,2,3,0,0,1,1,3,23,19.3,A,1,1,anton-watson-1,Anton Watson,2021
+13,28,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,*,28,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,8,10,1,2,0,2,3,6,8.4,H,1,1,anton-watson-1,Anton Watson,2021
+14,29,14,2021-01-16,Gonzaga,@,St. Mary's (CA),REG (Conf),W 73-59,*,22,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,2,0,1,2,0,0.2,A,1,1,anton-watson-1,Anton Watson,2021
+15,30,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,*,16,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,0,4,4,0,1,1,0,1,8,7.2,H,1,1,anton-watson-1,Anton Watson,2021
+16,31,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,*,16,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,1,4,5,1,0,0,0,4,10,9.5,A,1,1,anton-watson-1,Anton Watson,2021
+17,32,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,*,22,6,9,0.667,0,2,0.0,6,7,0.857,0.667,0,0,,1,4,5,3,1,1,0,4,12,12.2,A,1,1,anton-watson-1,Anton Watson,2021
+18,33,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,1,1,0,2,0,2,2,4,1.8,A,1,1,anton-watson-1,Anton Watson,2021
+19,34,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,,15,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,0,2,1,1,0,1,1,6,6.8,A,1,1,anton-watson-1,Anton Watson,2021
+20,35,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,2,1,1,1,2,4,4.0,A,1,1,anton-watson-1,Anton Watson,2021
+21,36,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,,15,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,0,4,4,0,0,1,0,2,8,6.7,H,1,1,anton-watson-1,Anton Watson,2021
+22,37,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,,13,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,0,0,0,1,2,1,1,1,7,6.7,H,1,1,anton-watson-1,Anton Watson,2021
+23,38,23,2021-02-25,Gonzaga,,Santa Clara,REG (Conf),W 89-75,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,0,1,3,4,1.2,H,1,1,anton-watson-1,Anton Watson,2021
+24,39,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,,22,5,6,0.833,0,0,,5,6,0.833,0.833,1,4,0.25,1,0,1,0,2,0,1,0,11,9.3,H,1,1,anton-watson-1,Anton Watson,2021
+25,40,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,,18,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,3,3,0,2,0,1,0,2,0.8,N,1,0,anton-watson-1,Anton Watson,2021
+26,41,26,2021-03-09,Gonzaga,N,Brigham Young,CTOURN,W 88-78,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,1,1,0,0,0,0,1,3,1.5,N,1,0,anton-watson-1,Anton Watson,2021
+27,42,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,,24,7,7,1.0,1,1,1.0,6,6,1.0,1.071,2,2,1.0,3,4,7,4,3,0,0,1,17,23.6,N,1,0,anton-watson-1,Anton Watson,2021
+28,43,28,2021-03-22,Gonzaga,N,Oklahoma,ROUND-32,W 87-71,,18,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,3,3,2,2,1,0,2,4,4.8,N,1,0,anton-watson-1,Anton Watson,2021
+29,44,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,,16,3,3,1.0,0,0,,3,3,1.0,1.0,1,4,0.25,1,1,2,2,1,0,1,2,7,6.5,N,1,0,anton-watson-1,Anton Watson,2021
+30,45,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,0,2,1,1,3,0,1.4,N,1,0,anton-watson-1,Anton Watson,2021
+31,46,31,2021-04-03,Gonzaga,N,UCLA,NATIONAL-SEMI,W 93-90 (OT),,10,0,0,,0,0,,0,0,,,2,4,0.5,0,1,1,0,1,1,2,3,2,0.0,N,1,0,anton-watson-1,Anton Watson,2021
+32,47,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,,13,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,1,1,0,0,3,4,2.8,N,0,0,anton-watson-1,Anton Watson,2021

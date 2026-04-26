@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2013-11-10,Iowa State,,UNC Wilmington,REG (Non-Conf),W 95-62,*,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,5,5,1.0,4,7,11,7,0,0,1,1,13,18.8,H,1,1,deandre-kane-1,DeAndre Kane,2014
+2,98,2,2013-11-12,Iowa State,,Texas A&M–Corpus Christi,REG (Non-Conf),W 80-50,*,30,5,9,0.556,1,2,0.5,4,7,0.571,0.611,4,7,0.571,1,6,7,4,0,0,2,2,15,12.0,H,1,1,deandre-kane-1,DeAndre Kane,2014
+3,99,3,2013-11-17,Iowa State,,Michigan,REG (Non-Conf),W 77-70,*,32,5,10,0.5,1,3,0.333,4,7,0.571,0.55,2,4,0.5,1,4,5,6,1,0,5,2,13,8.5,H,1,1,deandre-kane-1,DeAndre Kane,2014
+4,100,4,2013-11-20,Iowa State,@,Brigham Young,REG (Non-Conf),W 90-88,*,28,9,15,0.6,0,2,0.0,9,13,0.692,0.6,3,4,0.75,3,8,11,3,2,0,3,3,21,18.1,A,1,1,deandre-kane-1,DeAndre Kane,2014
+5,101,5,2013-11-25,Iowa State,,Kansas City,REG (Non-Conf),W 110-51,*,20,6,7,0.857,2,2,1.0,4,5,0.8,1.0,6,8,0.75,2,6,8,4,1,0,2,0,20,21.7,H,1,1,deandre-kane-1,DeAndre Kane,2014
+6,102,6,2013-12-02,Iowa State,,Auburn,REG (Non-Conf),W 99-70,*,25,2,9,0.222,0,1,0.0,2,8,0.25,0.222,4,6,0.667,0,3,3,7,1,1,0,2,8,8.4,H,1,1,deandre-kane-1,DeAndre Kane,2014
+7,103,7,2013-12-07,Iowa State,N,Northern Iowa,REG (Non-Conf),W 91-82 (OT),*,39,4,14,0.286,0,4,0.0,4,10,0.4,0.286,10,15,0.667,0,11,11,6,3,0,5,2,18,12.5,N,1,1,deandre-kane-1,DeAndre Kane,2014
+8,104,8,2013-12-13,Iowa State,,Iowa,REG (Non-Conf),W 85-82,*,28,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,5,0.6,0,3,3,9,1,0,1,2,5,6.8,H,1,1,deandre-kane-1,DeAndre Kane,2014
+9,105,9,2013-12-22,Iowa State,N,George Mason,REG (Non-Conf),W 79-67,*,35,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,4,0.5,1,6,7,8,1,0,2,2,13,14.9,N,1,1,deandre-kane-1,DeAndre Kane,2014
+10,106,10,2013-12-23,Iowa State,N,Akron,REG (Non-Conf),W 83-60,*,33,7,15,0.467,0,2,0.0,7,13,0.538,0.467,1,2,0.5,2,9,11,5,0,0,4,0,15,10.5,N,1,1,deandre-kane-1,DeAndre Kane,2014
+11,107,11,2013-12-25,Iowa State,N,Boise State,REG (Non-Conf),W 70-66,*,38,8,14,0.571,4,6,0.667,4,8,0.5,0.714,3,5,0.6,3,2,5,2,0,1,1,2,23,18.6,N,1,1,deandre-kane-1,DeAndre Kane,2014
+12,108,12,2013-12-31,Iowa State,,Northern Illinois,REG (Non-Conf),W 99-63,*,28,5,6,0.833,1,1,1.0,4,5,0.8,0.917,5,8,0.625,3,5,8,12,2,1,1,0,16,26.3,H,1,1,deandre-kane-1,DeAndre Kane,2014
+13,109,13,2014-01-04,Iowa State,@,Texas Tech,REG (Conf),W 73-62,*,35,3,7,0.429,0,2,0.0,3,5,0.6,0.429,9,13,0.692,0,2,2,6,4,0,3,3,15,14.3,A,1,1,deandre-kane-1,DeAndre Kane,2014
+14,110,14,2014-01-07,Iowa State,,Baylor,REG (Conf),W 87-72,*,37,11,18,0.611,2,4,0.5,9,14,0.643,0.667,6,9,0.667,2,6,8,9,5,0,6,2,30,28.3,H,1,1,deandre-kane-1,DeAndre Kane,2014
+15,111,15,2014-01-11,Iowa State,@,Oklahoma,REG (Conf),L 82-87,*,38,9,14,0.643,1,3,0.333,8,11,0.727,0.679,4,9,0.444,1,8,9,4,1,0,7,2,23,13.9,A,0,1,deandre-kane-1,DeAndre Kane,2014
+16,112,16,2014-01-13,Iowa State,,Kansas,REG (Conf),L 70-77,*,37,6,13,0.462,1,3,0.333,5,10,0.5,0.5,8,16,0.5,0,8,8,3,4,0,2,1,21,17.2,H,0,1,deandre-kane-1,DeAndre Kane,2014
+17,113,17,2014-01-18,Iowa State,@,Texas,REG (Conf),L 76-86,*,36,3,12,0.25,1,4,0.25,2,8,0.25,0.292,8,10,0.8,1,5,6,4,1,0,7,4,15,4.4,A,0,1,deandre-kane-1,DeAndre Kane,2014
+18,114,18,2014-01-25,Iowa State,,Kansas State,REG (Conf),W 81-75,*,35,3,12,0.25,1,3,0.333,2,9,0.222,0.292,3,5,0.6,0,5,5,5,1,0,3,2,10,4.2,H,1,1,deandre-kane-1,DeAndre Kane,2014
+19,115,19,2014-01-29,Iowa State,@,Kansas,REG (Conf),L 81-92,*,34,8,14,0.571,2,4,0.5,6,10,0.6,0.643,4,6,0.667,0,2,2,3,1,0,1,3,22,16.1,A,0,1,deandre-kane-1,DeAndre Kane,2014
+20,116,20,2014-02-01,Iowa State,,Oklahoma,REG (Conf),W 81-75,*,34,2,8,0.25,0,0,,2,8,0.25,0.25,1,2,0.5,0,1,1,9,2,1,1,2,5,7.3,H,1,1,deandre-kane-1,DeAndre Kane,2014
+21,117,21,2014-02-03,Iowa State,@,Oklahoma State,REG (Conf),W 98-97 (3OT),*,52,10,23,0.435,3,8,0.375,7,15,0.467,0.5,3,4,0.75,2,7,9,9,1,0,2,4,26,20.7,A,1,1,deandre-kane-1,DeAndre Kane,2014
+22,118,22,2014-02-08,Iowa State,,TCU,REG (Conf),W 84-69,*,37,0,4,0.0,0,1,0.0,0,3,0.0,0.0,4,6,0.667,0,4,4,10,0,0,3,4,4,4.0,H,1,1,deandre-kane-1,DeAndre Kane,2014
+23,119,23,2014-02-10,Iowa State,@,West Virginia,REG (Conf),L 77-102,*,32,6,15,0.4,0,3,0.0,6,12,0.5,0.4,2,6,0.333,3,3,6,2,0,0,5,2,14,2.9,A,0,1,deandre-kane-1,DeAndre Kane,2014
+24,120,24,2014-02-15,Iowa State,,Texas Tech,REG (Conf),W 70-64,*,36,6,12,0.5,0,1,0.0,6,11,0.545,0.5,5,8,0.625,2,6,8,9,2,0,3,1,17,17.9,H,1,1,deandre-kane-1,DeAndre Kane,2014
+25,121,25,2014-02-18,Iowa State,,Texas,REG (Conf),W 85-76,*,33,7,13,0.538,2,4,0.5,5,9,0.556,0.615,6,10,0.6,1,6,7,5,0,0,0,2,22,19.3,H,1,1,deandre-kane-1,DeAndre Kane,2014
+26,122,26,2014-02-22,Iowa State,@,TCU,REG (Conf),W 71-60,*,33,8,14,0.571,0,1,0.0,8,13,0.615,0.571,4,6,0.667,0,6,6,5,1,0,1,2,20,17.1,A,1,1,deandre-kane-1,DeAndre Kane,2014
+27,123,27,2014-02-26,Iowa State,,West Virginia,REG (Conf),W 83-66,*,34,8,15,0.533,1,3,0.333,7,12,0.583,0.567,0,0,,3,8,11,3,0,2,2,3,17,14.5,H,1,1,deandre-kane-1,DeAndre Kane,2014
+28,124,28,2014-03-01,Iowa State,@,Kansas State,REG (Conf),L 73-80,*,39,7,13,0.538,2,4,0.5,5,9,0.556,0.615,8,12,0.667,2,6,8,6,2,0,4,3,24,20.3,A,0,1,deandre-kane-1,DeAndre Kane,2014
+29,125,29,2014-03-04,Iowa State,@,Baylor,REG (Conf),L 61-74,*,35,7,12,0.583,5,9,0.556,2,3,0.667,0.792,1,1,1.0,1,4,5,4,0,0,4,1,20,14.7,A,0,1,deandre-kane-1,DeAndre Kane,2014
+30,126,30,2014-03-08,Iowa State,,Oklahoma State,REG (Conf),W 85-81 (OT),*,43,8,13,0.615,1,3,0.333,7,10,0.7,0.654,10,14,0.714,1,6,7,8,2,1,3,3,27,26.1,H,1,1,deandre-kane-1,DeAndre Kane,2014
+31,127,31,2014-03-13,Iowa State,N,Kansas State,CTOURN,W 91-85,*,31,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,4,0.5,0,5,5,2,1,0,5,5,11,2.4,N,1,0,deandre-kane-1,DeAndre Kane,2014
+32,128,32,2014-03-14,Iowa State,N,Kansas,CTOURN,W 94-83,*,35,7,15,0.467,5,6,0.833,2,9,0.222,0.633,1,1,1.0,2,4,6,6,2,1,1,2,20,20.0,N,1,0,deandre-kane-1,DeAndre Kane,2014
+33,129,33,2014-03-15,Iowa State,N,Baylor,CTOURN,W 74-65,*,38,4,8,0.5,1,3,0.333,3,5,0.6,0.563,8,8,1.0,0,7,7,7,0,0,3,2,17,16.2,N,1,0,deandre-kane-1,DeAndre Kane,2014
+34,130,34,2014-03-21,Iowa State,N,North Carolina Central,ROUND-64,W 93-75,*,36,5,12,0.417,1,2,0.5,4,10,0.4,0.458,3,5,0.6,2,5,7,5,2,1,2,2,14,13.1,N,1,0,deandre-kane-1,DeAndre Kane,2014
+35,131,35,2014-03-23,Iowa State,N,North Carolina,ROUND-32,W 85-83,*,39,9,18,0.5,1,4,0.25,8,14,0.571,0.528,5,7,0.714,1,9,10,7,0,0,7,3,24,14.3,N,1,0,deandre-kane-1,DeAndre Kane,2014
+36,132,36,2014-03-28,Iowa State,N,Connecticut,ROUND-16,L 76-81,*,40,6,18,0.333,2,4,0.5,4,14,0.286,0.389,2,9,0.222,5,3,8,9,0,1,2,3,16,11.2,N,0,0,deandre-kane-1,DeAndre Kane,2014

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2024-11-04,Liberty,N,Valparaiso,REG (Non-Conf),W 83-63,*,29,6,11,0.545,3,6,0.5,3,5,0.6,0.682,1,2,0.5,0,2,2,0,0,0,1,2,16,9.1,N,1,1,kaden-metheny-1,Kaden Metheny,2025
+2,98,2,2024-11-09,Liberty,@,Seattle,REG (Non-Conf),W 66-64,*,35,5,9,0.556,5,8,0.625,0,1,0.0,0.833,0,0,,0,1,1,1,1,0,5,2,15,6.9,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+3,99,4,2024-11-16,Liberty,N,Florida Atlantic,REG (Non-Conf),L 74-77 (OT),*,39,5,14,0.357,4,12,0.333,1,2,0.5,0.5,5,5,1.0,0,4,4,0,0,0,1,0,19,11.4,N,0,1,kaden-metheny-1,Kaden Metheny,2025
+4,100,5,2024-11-17,Liberty,@,College of Charleston,REG (Non-Conf),W 68-47,*,35,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,4,4,5,2,0,1,1,7,9.3,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+5,101,6,2024-11-22,Liberty,N,Louisiana,REG (Non-Conf),W 89-69,*,28,7,10,0.7,4,6,0.667,3,4,0.75,0.9,2,2,1.0,1,1,2,2,0,0,3,0,20,15.2,N,1,1,kaden-metheny-1,Kaden Metheny,2025
+6,102,7,2024-11-24,Liberty,N,Kansas State,REG (Non-Conf),W 67-65,*,38,5,13,0.385,3,8,0.375,2,5,0.4,0.5,0,0,,0,1,1,3,1,0,1,2,13,7.5,N,1,1,kaden-metheny-1,Kaden Metheny,2025
+7,103,8,2024-11-25,Liberty,N,McNeese State,REG (Non-Conf),W 62-58,*,28,2,10,0.2,2,9,0.222,0,1,0.0,0.3,0,0,,0,0,0,1,1,0,1,5,6,-1.5,N,1,1,kaden-metheny-1,Kaden Metheny,2025
+8,104,9,2024-11-29,Liberty,,Central Penn,REG (Non-Conf),W 93-36,*,19,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,1,1,4,1,0,0,0,5,5.0,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+9,105,10,2024-12-07,Liberty,,Mississippi Valley State,REG (Non-Conf),W 89-52,*,21,7,10,0.7,6,9,0.667,1,1,1.0,1.0,2,2,1.0,0,3,3,1,0,0,1,0,22,18.4,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+10,106,11,2024-12-14,Liberty,,North Carolina A&T,REG (Non-Conf),W 83-74,*,36,3,11,0.273,2,7,0.286,1,4,0.25,0.364,0,0,,0,3,3,7,0,0,2,1,8,4.9,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+11,107,12,2024-12-17,Liberty,,St. Andrews,REG (Non-Conf),W 124-50,*,18,5,9,0.556,4,8,0.5,1,1,1.0,0.778,0,0,,1,4,5,1,2,0,1,1,14,12.9,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+12,108,13,2024-12-21,Liberty,,UT Arlington,REG (Non-Conf),W 79-56,*,33,8,14,0.571,7,13,0.538,1,1,1.0,0.821,2,2,1.0,0,4,4,5,0,0,1,0,25,22.1,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+13,109,14,2025-01-02,Liberty,,Western Kentucky,REG (Conf),L 70-71,*,37,5,11,0.455,4,10,0.4,1,1,1.0,0.636,3,4,0.75,0,1,1,1,2,0,1,2,17,12.1,H,0,1,kaden-metheny-1,Kaden Metheny,2025
+14,110,15,2025-01-04,Liberty,,Middle Tennessee,REG (Conf),W 73-63,*,37,8,15,0.533,3,8,0.375,5,7,0.714,0.633,0,0,,0,4,4,2,1,0,3,1,19,11.9,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+15,111,16,2025-01-09,Liberty,@,Sam Houston State,REG (Conf),W 76-68,*,32,3,9,0.333,2,6,0.333,1,3,0.333,0.444,1,2,0.5,0,1,1,1,2,0,0,0,9,6.5,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+16,112,17,2025-01-11,Liberty,@,Louisiana Tech,REG (Conf),L 74-79,*,38,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,0,,0,3,3,2,2,0,0,1,3,1.7,A,0,1,kaden-metheny-1,Kaden Metheny,2025
+17,113,18,2025-01-16,Liberty,,UTEP,REG (Conf),L 70-72,*,35,6,8,0.75,3,4,0.75,3,4,0.75,0.938,2,4,0.5,0,2,2,0,0,0,1,0,17,12.6,H,0,1,kaden-metheny-1,Kaden Metheny,2025
+18,114,19,2025-01-18,Liberty,,New Mexico State,REG (Conf),W 68-60,*,36,3,9,0.333,0,4,0.0,3,5,0.6,0.333,1,2,0.5,0,6,6,1,2,0,3,0,7,3.0,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+19,115,20,2025-01-25,Liberty,@,Florida International,REG (Conf),W 82-59,*,30,4,9,0.444,3,7,0.429,1,2,0.5,0.611,2,2,1.0,0,1,1,1,0,0,4,1,13,4.9,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+20,116,21,2025-01-30,Liberty,@,Kennesaw State,REG (Conf),W 76-68,*,34,6,12,0.5,3,9,0.333,3,3,1.0,0.625,2,2,1.0,0,5,5,1,2,0,0,3,17,14.0,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+21,117,22,2025-02-01,Liberty,@,Jacksonville State,REG (Conf),L 61-72,*,32,0,9,0.0,0,7,0.0,0,2,0.0,0.0,1,2,0.5,1,3,4,2,2,0,1,0,1,-1.7,A,0,1,kaden-metheny-1,Kaden Metheny,2025
+22,118,23,2025-02-06,Liberty,,Louisiana Tech,REG (Conf),W 77-53,*,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,1,3,4,3,0,0,2,1,7,3.2,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+23,119,24,2025-02-08,Liberty,,Sam Houston State,REG (Conf),W 64-61,*,36,9,17,0.529,4,11,0.364,5,6,0.833,0.647,4,4,1.0,1,6,7,1,2,0,3,2,26,19.1,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+24,120,25,2025-02-13,Liberty,@,New Mexico State,REG (Conf),W 64-54,*,29,4,14,0.286,1,7,0.143,3,7,0.429,0.321,0,1,0.0,0,4,4,1,0,0,2,3,9,-0.9,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+25,121,26,2025-02-15,Liberty,@,UTEP,REG (Conf),W 76-69,*,37,4,9,0.444,3,5,0.6,1,4,0.25,0.611,2,2,1.0,0,3,3,5,1,0,1,0,13,12.7,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+26,122,27,2025-02-22,Liberty,,Florida International,REG (Conf),W 58-45,*,33,4,10,0.4,4,8,0.5,0,2,0.0,0.6,0,0,,0,1,1,2,0,0,1,0,12,7.3,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+27,123,28,2025-02-27,Liberty,,Jacksonville State,REG (Conf),W 59-55,*,32,4,13,0.308,3,11,0.273,1,2,0.5,0.423,2,3,0.667,0,4,4,2,1,0,1,1,13,7.3,H,1,1,kaden-metheny-1,Kaden Metheny,2025
+28,124,29,2025-03-02,Liberty,,Kennesaw State,REG (Conf),L 80-85,*,32,4,11,0.364,3,9,0.333,1,2,0.5,0.5,5,6,0.833,0,0,0,0,0,0,0,1,16,9.1,H,0,1,kaden-metheny-1,Kaden Metheny,2025
+29,125,30,2025-03-06,Liberty,@,Middle Tennessee,REG (Conf),W 86-81,*,37,3,9,0.333,3,7,0.429,0,2,0.0,0.5,1,2,0.5,0,4,4,2,0,0,1,0,10,6.1,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+30,126,31,2025-03-08,Liberty,@,Western Kentucky,REG (Conf),W 90-61,*,26,2,9,0.222,0,6,0.0,2,3,0.667,0.222,0,0,,0,4,4,1,0,0,0,1,4,0.0,A,1,1,kaden-metheny-1,Kaden Metheny,2025
+31,127,32,2025-03-12,Liberty,N,UTEP,CTOURN,W 81-60,*,29,5,10,0.5,4,8,0.5,1,2,0.5,0.7,2,2,1.0,0,3,3,3,1,0,0,1,16,14.6,N,1,0,kaden-metheny-1,Kaden Metheny,2025
+32,128,33,2025-03-14,Liberty,N,Kennesaw State,CTOURN,W 81-79,*,32,8,14,0.571,7,13,0.538,1,1,1.0,0.821,1,2,0.5,1,2,3,2,1,0,2,2,24,17.9,N,1,0,kaden-metheny-1,Kaden Metheny,2025
+33,129,34,2025-03-15,Liberty,N,Jacksonville State,CTOURN,W 79-67,*,33,7,15,0.467,5,10,0.5,2,5,0.4,0.633,2,2,1.0,0,1,1,3,1,0,1,3,21,14.5,N,1,0,kaden-metheny-1,Kaden Metheny,2025
+34,130,35,2025-03-21,Liberty,N,Oregon,ROUND-64,L 52-81,*,32,3,13,0.231,3,12,0.25,0,1,0.0,0.346,0,0,,0,5,5,2,0,0,2,2,9,1.2,N,0,0,kaden-metheny-1,Kaden Metheny,2025

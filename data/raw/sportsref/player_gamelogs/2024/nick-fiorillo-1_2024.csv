@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,7,2023-11-25,Vermont,@,Bradley,REG (Non-Conf),L 70-79,,16,1,7,0.143,1,1,1.0,0,6,0.0,0.214,0,0,,1,2,3,2,0,1,2,0,3,-0.1,A,0,1,nick-fiorillo-1,Nick Fiorillo,2024
+2,61,8,2023-11-29,Vermont,,Dartmouth,REG (Non-Conf),W 64-53,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,0,4,4,0,0,0,1,0,5,2.8,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+3,62,9,2023-12-02,Vermont,,Yale,REG (Non-Conf),W 66-65,,16,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,1,1.0,2,1,3,2,0,0,0,3,8,6.2,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+4,63,10,2023-12-06,Vermont,@,Northeastern,REG (Non-Conf),W 73-71,*,29,5,10,0.5,3,6,0.5,2,4,0.5,0.65,1,2,0.5,1,1,2,5,0,1,3,2,14,10.0,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+5,64,11,2023-12-09,Vermont,,Colgate,REG (Non-Conf),L 71-77,,25,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,2,2,3,0,1,2,2,8,6.6,H,0,1,nick-fiorillo-1,Nick Fiorillo,2024
+6,65,12,2023-12-16,Vermont,@,Virginia Tech,REG (Non-Conf),L 51-73,,23,5,10,0.5,1,4,0.25,4,6,0.667,0.55,2,3,0.667,0,2,2,0,0,0,1,2,13,6.4,A,0,1,nick-fiorillo-1,Nick Fiorillo,2024
+7,66,13,2023-12-20,Vermont,@,Toledo,REG (Non-Conf),W 86-60,,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,2,1,3,3,1,3,1,3,5,7.3,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+8,67,14,2023-12-22,Vermont,@,Miami (OH),REG (Non-Conf),L 69-70,,27,3,4,0.75,0,1,0.0,3,3,1.0,0.75,5,9,0.556,1,5,6,1,0,0,3,4,11,6.1,A,0,1,nick-fiorillo-1,Nick Fiorillo,2024
+9,68,15,2024-01-02,Vermont,@,Brown,REG (Non-Conf),W 71-70,,22,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,0,3,3,2,0,0,0,3,9,7.8,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+10,69,16,2024-01-06,Vermont,,Maine,REG (Conf),W 65-58,,21,5,6,0.833,1,2,0.5,4,4,1.0,0.917,2,3,0.667,1,1,2,1,1,1,2,2,13,11.0,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+11,70,17,2024-01-11,Vermont,,UMBC,REG (Conf),W 77-72,,17,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,4,4,2,0,2,2,3,3,0.7,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+12,71,18,2024-01-13,Vermont,,NJIT,REG (Conf),W 76-55,,16,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,1,1,1,1,0,2,0,4,0.6,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+13,72,19,2024-01-18,Vermont,@,Binghamton,REG (Conf),W 82-62,,20,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,1,3,4,1,1,0,0,1,12,12.3,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+14,73,20,2024-01-25,Vermont,@,UMass Lowell,REG (Conf),W 72-65 (OT),,22,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,0,1,6,4,0,1,1,6,10.5,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+15,74,21,2024-01-27,Vermont,@,Bryant,REG (Conf),W 67-57,,25,5,8,0.625,0,2,0.0,5,6,0.833,0.625,5,6,0.833,0,2,2,3,0,2,0,4,15,13.5,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+16,75,22,2024-02-01,Vermont,,Albany (NY),REG (Conf),W 81-59,,20,5,8,0.625,1,4,0.25,4,4,1.0,0.688,4,5,0.8,1,2,3,4,1,1,1,2,15,15.0,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+17,76,23,2024-02-03,Vermont,,Binghamton,REG (Conf),W 62-49,,20,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,3,4,2,1,1,0,3,8,7.5,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+18,77,24,2024-02-08,Vermont,@,NJIT,REG (Conf),L 61-63,,20,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,6,0.5,1,5,6,1,0,0,3,3,13,7.9,A,0,1,nick-fiorillo-1,Nick Fiorillo,2024
+19,78,25,2024-02-10,Vermont,@,UMBC,REG (Conf),W 72-70,,19,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,0,5,5,3,0,0,1,3,6,2.3,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+20,79,26,2024-02-15,Vermont,,New Hampshire,REG (Conf),W 70-54,*,19,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,2,0.5,0,2,2,3,0,0,3,4,6,-0.4,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+21,80,27,2024-02-17,Vermont,@,Maine,REG (Conf),W 68-57,*,34,3,8,0.375,2,5,0.4,1,3,0.333,0.5,4,4,1.0,0,5,5,1,0,2,1,3,12,9.0,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+22,81,28,2024-02-22,Vermont,@,Albany (NY),REG (Conf),W 94-80,*,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,1,2,3,1,1,0,2,0,10,7.7,A,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+23,82,29,2024-02-24,Vermont,,Bryant,REG (Conf),W 65-48,*,22,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,3,1,4,2,0,1,2,3,2,-0.5,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+24,83,30,2024-03-02,Vermont,,UMass Lowell,REG (Conf),W 74-62,*,20,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,0,2,2,1,0,0,0,3,7,3.3,H,1,1,nick-fiorillo-1,Nick Fiorillo,2024
+25,84,32,2024-03-09,Vermont,,Albany (NY),CTOURN,W 75-72,*,31,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,4,0.5,0,2,2,2,0,2,3,2,6,3.5,H,1,0,nick-fiorillo-1,Nick Fiorillo,2024
+26,85,33,2024-03-12,Vermont,,New Hampshire,CTOURN,W 66-59,*,34,4,9,0.444,3,7,0.429,1,2,0.5,0.611,2,2,1.0,0,5,5,4,0,0,5,1,13,7.2,H,1,0,nick-fiorillo-1,Nick Fiorillo,2024
+27,86,34,2024-03-16,Vermont,,UMass Lowell,CTOURN,W 66-61,*,33,3,8,0.375,2,3,0.667,1,5,0.2,0.5,3,5,0.6,3,1,4,1,1,0,2,4,11,6.3,H,1,0,nick-fiorillo-1,Nick Fiorillo,2024
+28,87,35,2024-03-22,Vermont,N,Duke,ROUND-64,L 47-64,*,25,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,4,0,-3.0,N,0,0,nick-fiorillo-1,Nick Fiorillo,2024

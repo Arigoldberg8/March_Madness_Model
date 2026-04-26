@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2020-11-28,Eastern Washington,@,Washington State,REG (Non-Conf),L 68-71,*,40,2,7,0.286,2,6,0.333,0,1,0.0,0.429,2,3,0.667,2,3,5,2,0,0,4,1,8,2.8,A,0,1,jack-perry-1,Jack Perry,2021
+2,95,2,2020-12-05,Eastern Washington,@,Arizona,REG (Non-Conf),L 67-70,*,32,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,2,2,4,0,0,1,2,5,4.9,A,0,1,jack-perry-1,Jack Perry,2021
+3,96,3,2020-12-07,Eastern Washington,@,Oregon,REG (Non-Conf),L 52-69,*,15,0,0,,0,0,,0,0,,,0,1,0.0,0,2,2,2,0,0,0,0,0,1.6,A,0,1,jack-perry-1,Jack Perry,2021
+4,97,4,2020-12-11,Eastern Washington,,Coll. of Idaho,REG (Non-Conf),W 80-56,,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,3,0,0,0,1,0,-0.4,H,1,1,jack-perry-1,Jack Perry,2021
+5,98,5,2020-12-15,Eastern Washington,@,St. Mary's (CA),REG (Non-Conf),L 75-80,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,jack-perry-1,Jack Perry,2021
+6,99,6,2020-12-19,Eastern Washington,@,Northern Arizona,REG (Conf),W 80-64,,23,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,0,0,1,0,0,1,0,6,3.7,A,1,1,jack-perry-1,Jack Perry,2021
+7,100,7,2021-01-14,Eastern Washington,,Southern Utah,REG (Conf),W 75-63,,29,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,2,2,2,3,0,3,1,5,5.6,H,1,1,jack-perry-1,Jack Perry,2021
+8,101,8,2021-01-16,Eastern Washington,,Southern Utah,REG (Conf),L 94-99,,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,1,1,2,1,0,0,1,0,2,1.3,H,0,1,jack-perry-1,Jack Perry,2021
+9,102,9,2021-01-21,Eastern Washington,@,Northern Colorado,REG (Conf),L 76-78,,10,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,0,0,0,1,3,1.2,A,0,1,jack-perry-1,Jack Perry,2021
+10,103,10,2021-01-23,Eastern Washington,@,Northern Colorado,REG (Conf),W 82-76,,19,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,1,3,0,1,2,8,9.3,A,1,1,jack-perry-1,Jack Perry,2021
+11,104,15,2021-02-11,Eastern Washington,@,Montana State,REG (Conf),W 93-77,,18,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,3,1,0,2,2,6,5.9,A,1,1,jack-perry-1,Jack Perry,2021
+12,105,16,2021-02-13,Eastern Washington,@,Montana State,REG (Conf),W 85-69,,12,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,1,0,0,0,0,2,1.0,A,1,1,jack-perry-1,Jack Perry,2021
+13,106,17,2021-02-18,Eastern Washington,,Montana,REG (Conf),W 90-76,,25,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,1,1,2,0,0,0,0,9,9.8,H,1,1,jack-perry-1,Jack Perry,2021
+14,107,18,2021-02-20,Eastern Washington,@,Montana,REG (Conf),W 90-76,,19,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,2,0,0,0,2,3,3.6,A,1,1,jack-perry-1,Jack Perry,2021
+15,108,19,2021-03-03,Eastern Washington,,Idaho State,REG (Conf),L 63-68,,22,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,0,1,0,0,2,6,5.9,H,0,1,jack-perry-1,Jack Perry,2021
+16,109,20,2021-03-05,Eastern Washington,,Idaho State,REG (Conf),W 75-62,*,33,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,1,3,4,3,3,0,0,0,11,15.1,H,1,1,jack-perry-1,Jack Perry,2021
+17,110,21,2021-03-11,Eastern Washington,N,Northern Arizona,CTOURN,W 66-60,*,26,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,0,1,1,3,0,0,2,0,2,-2.1,N,1,0,jack-perry-1,Jack Perry,2021
+18,111,22,2021-03-12,Eastern Washington,N,Montana,CTOURN,W 78-50,*,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,N,1,0,jack-perry-1,Jack Perry,2021
+19,112,23,2021-03-13,Eastern Washington,N,Montana State,CTOURN,W 65-55,*,32,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,2,0.5,0,1,1,1,0,0,0,3,9,6.8,N,1,0,jack-perry-1,Jack Perry,2021
+20,113,24,2021-03-20,Eastern Washington,N,Kansas,ROUND-64,L 84-93,*,23,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,1,2,0,-0.8,N,0,0,jack-perry-1,Jack Perry,2021

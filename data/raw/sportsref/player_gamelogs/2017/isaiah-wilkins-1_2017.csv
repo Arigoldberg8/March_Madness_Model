@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2016-11-11,Virginia,@,UNC Greensboro,REG (Non-Conf),W 76-51,*,29,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,1,1.0,3,6,9,2,0,0,0,1,10,11.6,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+2,67,2,2016-11-15,Virginia,,St. Francis Brooklyn,REG (Non-Conf),W 72-32,*,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,2,3,1,2,1,2,1,4,5.0,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+3,68,3,2016-11-20,Virginia,,Yale,REG (Non-Conf),W 62-38,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,5,4,9,3,2,1,0,1,5,11.4,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+4,69,4,2016-11-22,Virginia,,Grambling State,REG (Non-Conf),W 90-34,*,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,3,2,0,0,4,8.1,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+5,70,5,2016-11-25,Virginia,N,Iowa,REG (Non-Conf),W 74-41,*,26,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,2,1,3,3,1,2,1,1,11,13.5,N,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+6,71,6,2016-11-26,Virginia,N,Providence,REG (Non-Conf),W 63-52,*,27,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,1,1,2,1,3,2,3,2,9,9.7,N,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+7,72,7,2016-11-30,Virginia,,Ohio State,REG (Non-Conf),W 63-61,*,31,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,4,1,5,1,2,2,0,1,4,7.3,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+8,73,8,2016-12-03,Virginia,,West Virginia,REG (Non-Conf),L 57-66,*,26,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,2,0.0,2,6,8,1,0,1,2,0,7,6.5,H,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+9,74,9,2016-12-06,Virginia,,East Carolina,REG (Non-Conf),W 76-53,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,4,5,3,3,1,1,3,2,7.2,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+10,75,10,2016-12-17,Virginia,,Robert Morris,REG (Non-Conf),W 79-39,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,1,5,6,6,1,1,2,1,7,10.7,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+11,76,11,2016-12-21,Virginia,@,California,REG (Non-Conf),W 56-52,*,26,1,7,0.143,0,0,,1,7,0.143,0.143,3,3,1.0,1,2,3,1,0,1,1,3,5,1.0,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+12,77,12,2016-12-28,Virginia,@,Louisville,REG (Conf),W 61-53,*,30,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,1,2,0,1,1,4,6.0,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+13,78,13,2016-12-31,Virginia,,Florida State,REG (Conf),L 58-60,*,29,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,3,4,0,1,3,1,3,5,6.9,H,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+14,79,14,2017-01-04,Virginia,@,Pittsburgh,REG (Conf),L 76-88 (OT),*,31,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,3,4,7,1,0,1,1,3,8,7.9,A,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+15,80,15,2017-01-08,Virginia,,Wake Forest,REG (Conf),W 79-62,*,31,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,1,0.0,3,1,4,1,2,5,2,3,7,11.1,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+16,81,16,2017-01-14,Virginia,@,Clemson,REG (Conf),W 77-73,*,31,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,4,9,13,2,0,0,3,1,8,8.2,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+17,82,17,2017-01-18,Virginia,@,Boston College,REG (Conf),W 71-54,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,3,3,1.0,1,8,9,0,1,0,0,1,11,11.4,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+18,83,18,2017-01-21,Virginia,,Georgia Tech,REG (Conf),W 62-49,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,2,3,4,1,1,2,0,5,6.4,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+19,84,19,2017-01-24,Virginia,@,Notre Dame,REG (Conf),W 71-54,*,30,2,6,0.333,0,0,,2,6,0.333,0.333,9,10,0.9,2,7,9,1,0,0,0,2,13,12.6,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+20,85,20,2017-01-29,Virginia,@,Villanova,REG (Non-Conf),L 59-61,*,35,6,6,1.0,0,0,,6,6,1.0,1.0,0,0,,2,6,8,0,1,2,1,1,12,14.4,A,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+21,86,21,2017-02-01,Virginia,,Virginia Tech,REG (Conf),W 71-48,*,31,7,11,0.636,0,0,,7,11,0.636,0.636,1,1,1.0,5,4,9,2,1,1,1,2,15,16.1,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+22,87,22,2017-02-04,Virginia,@,Syracuse,REG (Conf),L 62-66,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,1,3,0.333,2,2,4,0,1,1,2,3,9,6.1,A,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+23,88,23,2017-02-06,Virginia,,Louisville,REG (Conf),W 71-55,*,37,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,6,5,11,1,0,5,2,2,13,17.2,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+24,89,24,2017-02-12,Virginia,@,Virginia Tech,REG (Conf),L 78-80 (2OT),*,41,2,8,0.25,0,0,,2,8,0.25,0.25,1,3,0.333,5,4,9,1,0,2,2,5,5,2.2,A,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+25,90,25,2017-02-15,Virginia,,Duke,REG (Conf),L 55-65,*,35,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,4,5,9,0,0,0,1,5,4,2.2,H,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+26,91,26,2017-02-18,Virginia,@,North Carolina,REG (Conf),L 41-65,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,2,2,4,0,0,0,0,3,7,4.1,A,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+27,92,27,2017-02-20,Virginia,,Miami (FL),REG (Conf),L 48-54 (OT),*,41,3,6,0.5,0,0,,3,6,0.5,0.5,4,5,0.8,3,7,10,0,4,0,1,4,10,12.2,H,0,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+28,93,28,2017-02-25,Virginia,@,NC State,REG (Conf),W 70-55,,20,2,2,1.0,0,0,,2,2,1.0,1.0,0,3,0.0,0,0,0,0,0,2,0,1,4,3.2,A,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+29,94,29,2017-02-27,Virginia,,North Carolina,REG (Conf),W 53-43,,22,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,4,5,9,0,0,4,0,4,4,5.4,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+30,95,30,2017-03-04,Virginia,,Pittsburgh,REG (Conf),W 67-42,,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,3,4,0,1,1,2,1,2,0.5,H,1,1,isaiah-wilkins-1,Isaiah Wilkins,2017
+31,96,31,2017-03-08,Virginia,N,Pittsburgh,CTOURN,W 75-63,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,3,5,8,1,0,0,0,0,8,11.4,N,1,0,isaiah-wilkins-1,Isaiah Wilkins,2017
+32,97,32,2017-03-09,Virginia,N,Notre Dame,CTOURN,L 58-71,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,0,1,1,0,1,2,3.6,N,0,0,isaiah-wilkins-1,Isaiah Wilkins,2017
+33,98,33,2017-03-16,Virginia,N,UNC Wilmington,ROUND-64,W 76-71,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,isaiah-wilkins-1,Isaiah Wilkins,2017

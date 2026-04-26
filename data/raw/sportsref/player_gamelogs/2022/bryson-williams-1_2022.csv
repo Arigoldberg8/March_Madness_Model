@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,122,1,2021-11-09,Texas Tech,,North Florida,REG (Non-Conf),W 89-74,*,17,9,11,0.818,1,2,0.5,8,9,0.889,0.864,3,3,1.0,3,4,7,0,1,1,1,4,22,20.3,H,1,1,bryson-williams-1,Bryson Williams,2022
+2,123,2,2021-11-12,Texas Tech,,Grambling State,REG (Non-Conf),W 88-62,*,30,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,6,0.667,4,5,9,2,0,1,1,3,16,15.5,H,1,1,bryson-williams-1,Bryson Williams,2022
+3,124,3,2021-11-15,Texas Tech,,Prairie View A&M,REG (Non-Conf),W 84-49,*,22,7,10,0.7,1,1,1.0,6,9,0.667,0.75,3,4,0.75,3,4,7,1,0,0,2,1,18,15.0,H,1,1,bryson-williams-1,Bryson Williams,2022
+4,125,4,2021-11-20,Texas Tech,N,Incarnate Word,REG (Non-Conf),W 84-62,*,19,5,8,0.625,0,0,,5,8,0.625,0.625,0,2,0.0,1,0,1,0,0,1,0,2,10,6.2,N,1,1,bryson-williams-1,Bryson Williams,2022
+5,126,5,2021-11-23,Texas Tech,,Omaha,REG (Non-Conf),W 96-40,*,18,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,1,1.0,2,7,9,1,0,0,1,4,5,3.2,H,1,1,bryson-williams-1,Bryson Williams,2022
+6,127,6,2021-11-27,Texas Tech,,Lamar,REG (Non-Conf),W 89-57,*,23,7,10,0.7,1,2,0.5,6,8,0.75,0.75,1,1,1.0,2,2,4,2,1,0,0,1,16,15.8,H,1,1,bryson-williams-1,Bryson Williams,2022
+7,128,7,2021-12-01,Texas Tech,@,Providence,REG (Non-Conf),L 68-72,*,27,1,9,0.111,0,2,0.0,1,7,0.143,0.111,2,2,1.0,1,1,2,1,0,0,2,5,4,-4.2,A,0,1,bryson-williams-1,Bryson Williams,2022
+8,129,8,2021-12-07,Texas Tech,N,Tennessee,REG (Non-Conf),W 57-52 (OT),*,19,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,1,2,3,0,0,1,1,2,7,2.1,N,1,1,bryson-williams-1,Bryson Williams,2022
+9,130,9,2021-12-14,Texas Tech,,Arkansas State,REG (Non-Conf),W 75-62,*,22,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,0,,0,4,4,0,0,0,2,2,12,8.2,H,1,1,bryson-williams-1,Bryson Williams,2022
+10,131,10,2021-12-18,Texas Tech,N,Gonzaga,REG (Non-Conf),L 55-69,*,15,2,10,0.2,1,3,0.333,1,7,0.143,0.25,0,0,,1,1,2,1,0,0,1,1,5,-0.9,N,0,1,bryson-williams-1,Bryson Williams,2022
+11,132,11,2021-12-22,Texas Tech,,Eastern Washington,REG (Non-Conf),W 78-46,*,18,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,1,2,3,2,0,1,0,3,12,10.6,H,1,1,bryson-williams-1,Bryson Williams,2022
+12,133,12,2021-12-28,Texas Tech,,Alabama State,REG (Non-Conf),W 75-53,*,18,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,2,0.5,2,4,6,1,1,0,1,0,8,7.9,H,1,1,bryson-williams-1,Bryson Williams,2022
+13,134,13,2022-01-05,Texas Tech,@,Iowa State,REG (Conf),L 47-51,*,28,4,12,0.333,1,4,0.25,3,8,0.375,0.375,1,2,0.5,2,1,3,1,0,1,2,2,10,3.1,A,0,1,bryson-williams-1,Bryson Williams,2022
+14,135,14,2022-01-08,Texas Tech,,Kansas,REG (Conf),W 75-67,*,31,9,13,0.692,1,3,0.333,8,10,0.8,0.731,3,7,0.429,4,4,8,3,1,0,0,2,22,21.2,H,1,1,bryson-williams-1,Bryson Williams,2022
+15,136,15,2022-01-11,Texas Tech,@,Baylor,REG (Conf),W 65-62,*,30,5,12,0.417,1,2,0.5,4,10,0.4,0.458,2,2,1.0,1,4,5,3,0,0,1,3,13,8.4,A,1,1,bryson-williams-1,Bryson Williams,2022
+16,137,16,2022-01-13,Texas Tech,,Oklahoma State,REG (Conf),W 78-57,*,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,4,1.0,2,4,6,1,0,0,3,1,11,7.2,H,1,1,bryson-williams-1,Bryson Williams,2022
+17,138,17,2022-01-15,Texas Tech,@,Kansas State,REG (Conf),L 51-62,*,33,9,15,0.6,2,5,0.4,7,10,0.7,0.667,0,0,,0,4,4,2,1,0,1,2,20,14.9,A,0,1,bryson-williams-1,Bryson Williams,2022
+18,139,18,2022-01-18,Texas Tech,,Iowa State,REG (Conf),W 72-60,*,23,4,10,0.4,1,3,0.333,3,7,0.429,0.45,7,8,0.875,0,3,3,1,0,0,0,2,16,11.0,H,1,1,bryson-williams-1,Bryson Williams,2022
+19,140,19,2022-01-22,Texas Tech,,West Virginia,REG (Conf),W 78-65,*,28,4,8,0.5,2,3,0.667,2,5,0.4,0.625,3,5,0.6,2,2,4,1,0,1,2,4,13,8.0,H,1,1,bryson-williams-1,Bryson Williams,2022
+20,141,20,2022-01-24,Texas Tech,@,Kansas,REG (Conf),L 91-94 (2OT),*,40,14,19,0.737,4,4,1.0,10,15,0.667,0.842,1,1,1.0,0,5,5,1,1,0,2,2,33,25.7,A,0,1,bryson-williams-1,Bryson Williams,2022
+21,142,21,2022-01-29,Texas Tech,,Mississippi State,REG (Non-Conf),W 76-50,*,21,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,2,1.0,1,1,2,2,0,0,1,2,10,8.0,H,1,1,bryson-williams-1,Bryson Williams,2022
+22,143,22,2022-02-01,Texas Tech,,Texas,REG (Conf),W 77-64,*,28,7,11,0.636,2,2,1.0,5,9,0.556,0.727,0,0,,3,1,4,0,1,1,1,1,16,13.8,H,1,1,bryson-williams-1,Bryson Williams,2022
+23,144,23,2022-02-05,Texas Tech,@,West Virginia,REG (Conf),W 60-53,*,33,5,15,0.333,1,4,0.25,4,11,0.364,0.367,4,4,1.0,1,4,5,0,3,2,2,4,15,9.2,A,1,1,bryson-williams-1,Bryson Williams,2022
+24,145,24,2022-02-09,Texas Tech,@,Oklahoma,REG (Conf),L 55-70,*,29,2,7,0.286,0,1,0.0,2,6,0.333,0.286,1,2,0.5,1,2,3,0,2,0,2,0,5,1.8,A,0,1,bryson-williams-1,Bryson Williams,2022
+25,146,25,2022-02-12,Texas Tech,,TCU,REG (Conf),W 82-69,*,20,5,7,0.714,1,2,0.5,4,5,0.8,0.786,5,5,1.0,2,2,4,0,0,1,2,2,16,13.0,H,1,1,bryson-williams-1,Bryson Williams,2022
+26,147,26,2022-02-16,Texas Tech,,Baylor,REG (Conf),W 83-73,*,34,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,7,0.857,0,4,4,0,0,0,0,1,17,13.1,H,1,1,bryson-williams-1,Bryson Williams,2022
+27,148,27,2022-02-19,Texas Tech,@,Texas,REG (Conf),W 61-55,*,33,6,13,0.462,0,1,0.0,6,12,0.5,0.462,5,6,0.833,2,4,6,0,1,0,1,3,17,11.3,A,1,1,bryson-williams-1,Bryson Williams,2022
+28,149,28,2022-02-22,Texas Tech,,Oklahoma,REG (Conf),W 66-42,*,24,6,9,0.667,1,4,0.25,5,5,1.0,0.722,0,0,,0,1,1,1,2,1,2,0,13,10.8,H,1,1,bryson-williams-1,Bryson Williams,2022
+29,150,29,2022-02-26,Texas Tech,@,TCU,REG (Conf),L 66-69,*,33,8,9,0.889,1,2,0.5,7,7,1.0,0.944,4,4,1.0,0,3,3,2,0,0,3,0,21,17.2,A,0,1,bryson-williams-1,Bryson Williams,2022
+30,151,30,2022-02-28,Texas Tech,,Kansas State,REG (Conf),W 73-68,*,28,7,12,0.583,1,3,0.333,6,9,0.667,0.625,4,5,0.8,0,4,4,1,0,1,0,3,19,14.4,H,1,1,bryson-williams-1,Bryson Williams,2022
+31,152,31,2022-03-05,Texas Tech,@,Oklahoma State,REG (Conf),L 51-52,*,24,6,13,0.462,1,4,0.25,5,9,0.556,0.5,0,0,,1,1,2,1,1,0,1,5,13,6.0,A,0,1,bryson-williams-1,Bryson Williams,2022
+32,153,32,2022-03-10,Texas Tech,N,Iowa State,CTOURN,W 72-41,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,3,2,5,2,0,0,0,1,6,5.5,N,1,0,bryson-williams-1,Bryson Williams,2022
+33,154,33,2022-03-11,Texas Tech,N,Oklahoma,CTOURN,W 56-55,*,29,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,2,1,3,0,0,0,2,1,9,3.6,N,1,0,bryson-williams-1,Bryson Williams,2022
+34,155,34,2022-03-12,Texas Tech,N,Kansas,CTOURN,L 65-74,*,31,8,17,0.471,1,5,0.2,7,12,0.583,0.5,0,2,0.0,0,4,4,0,0,0,1,5,17,5.7,N,0,0,bryson-williams-1,Bryson Williams,2022
+35,156,35,2022-03-18,Texas Tech,N,Montana State,ROUND-64,W 97-62,*,17,8,10,0.8,4,5,0.8,4,5,0.8,1.0,0,1,0.0,0,2,2,3,0,0,4,3,20,13.3,N,1,0,bryson-williams-1,Bryson Williams,2022
+36,157,36,2022-03-20,Texas Tech,N,Notre Dame,ROUND-32,W 59-53,*,23,6,14,0.429,0,4,0.0,6,10,0.6,0.429,2,2,1.0,0,3,3,1,2,0,1,4,14,7.6,N,1,0,bryson-williams-1,Bryson Williams,2022
+37,158,37,2022-03-24,Texas Tech,N,Duke,ROUND-16,L 73-78,*,34,8,16,0.5,2,3,0.667,6,13,0.462,0.563,3,4,0.75,4,1,5,2,0,1,1,2,21,16.0,N,0,0,bryson-williams-1,Bryson Williams,2022

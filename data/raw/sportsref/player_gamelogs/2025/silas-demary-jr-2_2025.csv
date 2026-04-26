@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2024-11-04,Georgia,,Tennessee Tech,REG (Non-Conf),W 83-78,*,24,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,6,0.667,1,2,3,1,1,0,2,4,6,0.8,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+2,39,2,2024-11-10,Georgia,,Texas Southern,REG (Non-Conf),W 92-64,*,24,3,9,0.333,2,5,0.4,1,4,0.25,0.444,9,11,0.818,1,5,6,6,1,0,4,4,17,12.9,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+3,40,3,2024-11-12,Georgia,,North Florida,REG (Non-Conf),W 90-77,*,30,4,6,0.667,1,2,0.5,3,4,0.75,0.75,8,8,1.0,0,6,6,5,1,1,1,2,17,19.6,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+4,41,4,2024-11-15,Georgia,@,Georgia Tech,REG (Non-Conf),W 77-69,*,34,6,10,0.6,1,4,0.25,5,6,0.833,0.65,5,5,1.0,0,7,7,3,1,0,2,4,18,15.0,A,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+5,42,5,2024-11-19,Georgia,,Alabama A&M,REG (Non-Conf),W 93-45,*,23,3,5,0.6,0,2,0.0,3,3,1.0,0.6,9,11,0.818,1,1,2,4,4,0,1,3,15,17.5,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+6,43,6,2024-11-23,Georgia,N,Marquette,REG (Non-Conf),L 69-80,*,32,3,10,0.3,0,2,0.0,3,8,0.375,0.3,4,7,0.571,2,5,7,4,1,0,8,3,10,0.5,N,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+7,44,7,2024-11-24,Georgia,N,St. John's (NY),REG (Non-Conf),W 66-63,*,37,5,11,0.455,2,3,0.667,3,8,0.375,0.545,3,4,0.75,0,4,4,2,1,0,10,3,15,1.3,N,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+8,45,8,2024-11-30,Georgia,,Jacksonville,REG (Non-Conf),W 102-56,*,25,4,7,0.571,2,5,0.4,2,2,1.0,0.714,4,4,1.0,0,1,1,2,3,0,1,3,14,13.2,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+9,46,9,2024-12-03,Georgia,,Notre Dame,REG (Non-Conf),W 69-48,*,36,5,7,0.714,1,3,0.333,4,4,1.0,0.786,0,0,,3,0,3,2,5,0,1,2,11,14.8,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+10,47,10,2024-12-14,Georgia,N,Grand Canyon,REG (Non-Conf),W 73-68,*,32,1,9,0.111,0,2,0.0,1,7,0.143,0.111,5,6,0.833,1,7,8,4,1,0,4,4,7,1.7,N,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+11,48,11,2024-12-19,Georgia,,Buffalo,REG (Non-Conf),W 100-49,*,25,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,0,2,2,3,1,0,1,3,13,11.6,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+12,49,12,2024-12-22,Georgia,,Charleston Southern,REG (Non-Conf),W 81-65,*,29,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,0,4,4,3,1,0,3,0,7,4.6,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+13,50,13,2024-12-29,Georgia,,South Carolina State,REG (Non-Conf),W 79-72,*,29,4,10,0.4,2,4,0.5,2,6,0.333,0.5,1,2,0.5,2,3,5,3,2,0,0,1,11,11.2,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+14,51,14,2025-01-04,Georgia,@,Ole Miss,REG (Conf),L 51-63,*,30,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,0,0,0,0,0,2,2,6,-0.9,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+15,52,15,2025-01-07,Georgia,,Kentucky,REG (Conf),W 82-69,*,34,2,5,0.4,2,3,0.667,0,2,0.0,0.6,8,8,1.0,1,3,4,2,1,1,1,4,14,13.4,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+16,53,16,2025-01-11,Georgia,,Oklahoma,REG (Conf),W 72-62,*,31,1,7,0.143,0,4,0.0,1,3,0.333,0.143,8,9,0.889,3,5,8,4,3,0,1,2,10,12.7,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+17,54,17,2025-01-15,Georgia,@,Tennessee,REG (Conf),L 56-74,*,29,4,9,0.444,4,7,0.571,0,2,0.0,0.667,0,0,,0,4,4,2,2,1,3,1,12,9.2,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+18,55,18,2025-01-18,Georgia,,Auburn,REG (Conf),L 68-70,*,30,3,10,0.3,1,5,0.2,2,5,0.4,0.35,1,2,0.5,1,2,3,2,1,0,3,4,8,0.9,H,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+19,56,19,2025-01-22,Georgia,@,Arkansas,REG (Conf),L 65-68,*,35,3,8,0.375,2,4,0.5,1,4,0.25,0.5,1,1,1.0,0,2,2,0,2,0,4,1,9,2.8,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+20,57,20,2025-01-25,Georgia,@,Florida,REG (Conf),L 59-89,*,23,1,8,0.125,1,3,0.333,0,5,0.0,0.188,2,2,1.0,1,1,2,3,3,1,1,3,5,4.4,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+21,58,21,2025-01-28,Georgia,,South Carolina,REG (Conf),W 71-60,*,33,4,8,0.5,2,2,1.0,2,6,0.333,0.625,2,3,0.667,0,4,4,4,2,0,1,0,12,12.6,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+22,59,22,2025-02-01,Georgia,@,Alabama,REG (Conf),L 69-90,*,30,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,2,0.5,1,1,2,4,1,1,0,3,7,5.8,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+23,60,23,2025-02-05,Georgia,,Louisiana State,REG (Conf),W 81-62,*,31,3,12,0.25,2,7,0.286,1,5,0.2,0.333,0,0,,1,5,6,5,3,0,1,1,8,8.1,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+24,61,24,2025-02-08,Georgia,,Mississippi State,REG (Conf),L 75-76,*,34,7,18,0.389,2,7,0.286,5,11,0.455,0.444,7,8,0.875,2,4,6,7,1,0,1,4,23,18.7,H,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+25,62,25,2025-02-11,Georgia,@,Texas A&M,REG (Conf),L 53-69,*,40,5,15,0.333,4,10,0.4,1,5,0.2,0.467,5,6,0.833,0,3,3,4,0,0,3,2,19,10.0,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+26,63,26,2025-02-15,Georgia,,Missouri,REG (Conf),L 74-87,*,40,5,14,0.357,3,8,0.375,2,6,0.333,0.464,3,4,0.75,0,2,2,4,0,0,2,1,16,8.8,H,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+27,64,27,2025-02-22,Georgia,@,Auburn,REG (Conf),L 70-82,*,38,4,16,0.25,2,9,0.222,2,7,0.286,0.313,8,10,0.8,0,3,3,4,3,0,4,4,18,8.7,A,0,1,silas-demary-jr-2,Silas Demary Jr.,2025
+28,65,28,2025-02-25,Georgia,,Florida,REG (Conf),W 88-83,*,35,7,12,0.583,4,6,0.667,3,6,0.5,0.75,3,4,0.75,0,3,3,3,2,0,3,2,21,16.2,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+29,66,29,2025-03-01,Georgia,@,Texas,REG (Conf),W 83-67,*,30,8,14,0.571,3,6,0.5,5,8,0.625,0.679,7,12,0.583,1,3,4,1,2,0,2,3,26,18.5,A,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+30,67,30,2025-03-04,Georgia,@,South Carolina,REG (Conf),W 73-64,*,34,7,13,0.538,2,7,0.286,5,6,0.833,0.615,0,0,,1,7,8,4,0,0,0,0,16,15.3,A,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+31,68,31,2025-03-08,Georgia,,Vanderbilt,REG (Conf),W 79-68,*,35,4,10,0.4,2,4,0.5,2,6,0.333,0.5,5,6,0.833,0,2,2,1,3,0,2,4,15,9.9,H,1,1,silas-demary-jr-2,Silas Demary Jr.,2025
+32,69,32,2025-03-12,Georgia,N,Oklahoma,CTOURN,L 75-81,*,34,7,15,0.467,5,12,0.417,2,3,0.667,0.633,5,6,0.833,0,3,3,3,2,1,2,4,24,18.0,N,0,0,silas-demary-jr-2,Silas Demary Jr.,2025
+33,70,33,2025-03-20,Georgia,N,Gonzaga,ROUND-64,L 68-89,*,36,3,14,0.214,2,6,0.333,1,8,0.125,0.286,7,9,0.778,1,1,2,4,2,0,1,0,15,10.4,N,0,0,silas-demary-jr-2,Silas Demary Jr.,2025

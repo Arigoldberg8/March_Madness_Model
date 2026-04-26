@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Oklahoma,N,Alabama,REG (Non-Conf),W 82-73,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,2,3,1.5,N,1,1,frank-booker-1,Frank Booker,2014
+2,2,2,2013-11-11,Oklahoma,,North Texas,REG (Non-Conf),W 95-82,,11,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,1,1.0,0,1,1,0,0,0,1,0,9,6.0,H,1,1,frank-booker-1,Frank Booker,2014
+3,3,3,2013-11-13,Oklahoma,,Idaho,REG (Non-Conf),W 85-65,,17,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,1,0.0,2,1,3,0,0,2,2,4,0,-4.4,H,1,1,frank-booker-1,Frank Booker,2014
+4,4,4,2013-11-22,Oklahoma,N,Seton Hall,REG (Non-Conf),W 86-85,,5,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,0,0,0,0,0,0,1,5,2.9,N,1,1,frank-booker-1,Frank Booker,2014
+5,5,6,2013-11-29,Oklahoma,,Little Rock,REG (Non-Conf),W 101-81,,12,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,3,3,0,1,0,0,2,3,1.0,H,1,1,frank-booker-1,Frank Booker,2014
+6,6,7,2013-12-02,Oklahoma,,Mercer,REG (Non-Conf),W 96-82,,15,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,1,1,0,0,1,5,5.6,H,1,1,frank-booker-1,Frank Booker,2014
+7,7,8,2013-12-05,Oklahoma,,Texas A&M–Corpus Christi,REG (Non-Conf),W 78-56,,15,3,7,0.429,2,6,0.333,1,1,1.0,0.571,1,2,0.5,1,2,3,0,0,0,2,2,9,3.4,H,1,1,frank-booker-1,Frank Booker,2014
+8,8,9,2013-12-08,Oklahoma,N,George Mason,REG (Non-Conf),W 81-66,,12,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,2,1,3,0,1,0,0,0,0,-0.8,N,1,1,frank-booker-1,Frank Booker,2014
+9,9,10,2013-12-14,Oklahoma,,Tulsa,REG (Non-Conf),W 101-91,,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,3,0.333,4,0,4,0,1,0,0,1,5,4.2,H,1,1,frank-booker-1,Frank Booker,2014
+10,10,11,2013-12-17,Oklahoma,,UT Arlington,REG (Non-Conf),W 91-89,,17,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,2,2,2,0,0,1,3,6,1.7,H,1,1,frank-booker-1,Frank Booker,2014
+11,11,12,2013-12-21,Oklahoma,N,Texas A&M,REG (Non-Conf),W 64-52,,20,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,1,1,2,1,1,0,0,2,9,8.6,N,1,1,frank-booker-1,Frank Booker,2014
+12,12,13,2013-12-30,Oklahoma,,Louisiana Tech,REG (Non-Conf),L 98-102 (OT),,30,3,5,0.6,1,3,0.333,2,2,1.0,0.7,5,5,1.0,1,0,1,2,1,0,1,4,12,10.2,H,0,1,frank-booker-1,Frank Booker,2014
+13,13,14,2014-01-04,Oklahoma,@,Texas,REG (Conf),W 88-85,,23,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,0,3,3,1,0,0,1,1,9,5.5,A,1,1,frank-booker-1,Frank Booker,2014
+14,14,15,2014-01-08,Oklahoma,,Kansas,REG (Conf),L 83-90,,10,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,0,0,0,0,0,0,0,4,2.6,H,0,1,frank-booker-1,Frank Booker,2014
+15,15,16,2014-01-11,Oklahoma,,Iowa State,REG (Conf),W 87-82,,13,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,2,0,0,1,1,3,0.5,H,1,1,frank-booker-1,Frank Booker,2014
+16,16,17,2014-01-14,Oklahoma,@,Kansas State,REG (Conf),L 66-72,,18,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,1,3,4,0,0,0,0,2,9,6.1,A,0,1,frank-booker-1,Frank Booker,2014
+17,17,18,2014-01-18,Oklahoma,@,Baylor,REG (Conf),W 66-64,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.1,A,1,1,frank-booker-1,Frank Booker,2014
+18,18,19,2014-01-22,Oklahoma,,TCU,REG (Conf),W 77-69,,9,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,0,0,0,0,1,1,0,5,3.0,H,1,1,frank-booker-1,Frank Booker,2014
+19,19,20,2014-01-25,Oklahoma,@,Texas Tech,REG (Conf),W 74-65,,12,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,4,0,-3.4,A,1,1,frank-booker-1,Frank Booker,2014
+20,20,21,2014-01-27,Oklahoma,,Oklahoma State,REG (Conf),W 88-76,,17,2,3,0.667,2,3,0.667,0,0,,1.0,2,4,0.5,0,2,2,1,0,1,1,2,8,6.1,H,1,1,frank-booker-1,Frank Booker,2014
+21,21,22,2014-02-01,Oklahoma,@,Iowa State,REG (Conf),L 75-81,,5,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,A,0,1,frank-booker-1,Frank Booker,2014
+22,22,23,2014-02-05,Oklahoma,@,West Virginia,REG (Conf),L 86-91 (OT),,7,0,1,0.0,0,0,,0,1,0.0,0.0,3,3,1.0,1,2,3,0,0,0,1,3,3,1.4,A,0,1,frank-booker-1,Frank Booker,2014
+23,23,24,2014-02-08,Oklahoma,,Baylor,REG (Conf),W 88-72,,9,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,0,3,3.0,H,1,1,frank-booker-1,Frank Booker,2014
+24,24,25,2014-02-12,Oklahoma,,Texas Tech,REG (Conf),L 60-68,,10,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,1,1,0,2,0,6,3.7,H,0,1,frank-booker-1,Frank Booker,2014
+25,25,26,2014-02-15,Oklahoma,@,Oklahoma State,REG (Conf),W 77-74,,20,5,7,0.714,4,6,0.667,1,1,1.0,1.0,1,2,0.5,0,2,2,0,2,0,0,3,15,13.1,A,1,1,frank-booker-1,Frank Booker,2014
+26,26,27,2014-02-22,Oklahoma,,Kansas State,REG (Conf),W 86-73,,18,2,6,0.333,2,6,0.333,0,0,,0.5,1,2,0.5,0,1,1,1,1,0,0,1,7,4.8,H,1,1,frank-booker-1,Frank Booker,2014
+27,27,28,2014-02-24,Oklahoma,@,Kansas,REG (Conf),L 75-83,,10,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,2,0,2,2,1,-0.6,A,0,1,frank-booker-1,Frank Booker,2014
+28,28,29,2014-03-01,Oklahoma,,Texas,REG (Conf),W 77-65,,15,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,1,1,0,0,2,6,4.9,H,1,1,frank-booker-1,Frank Booker,2014
+29,29,30,2014-03-05,Oklahoma,,West Virginia,REG (Conf),W 72-62,,16,2,7,0.286,2,7,0.286,0,0,,0.429,1,3,0.333,0,2,2,0,0,0,0,1,7,2.3,H,1,1,frank-booker-1,Frank Booker,2014
+30,30,31,2014-03-08,Oklahoma,@,TCU,REG (Conf),W 97-67,,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,1,0,1,0,2,3,2.2,A,1,1,frank-booker-1,Frank Booker,2014
+31,31,32,2014-03-13,Oklahoma,N,Baylor,CTOURN,L 73-78,,15,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,2,1,6,1.6,N,0,0,frank-booker-1,Frank Booker,2014
+32,32,33,2014-03-20,Oklahoma,N,North Dakota State,ROUND-64,L 75-80 (OT),,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,0,1,0,1,0,1,1,3,1.6,N,0,0,frank-booker-1,Frank Booker,2014

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,2,2013-11-13,Saint Joseph's,,Marist,REG (Non-Conf),W 81-62,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,-1.8,H,1,1,papa-ndao-1,Papa Ndao,2014
+2,56,3,2013-11-16,Saint Joseph's,,Creighton,REG (Non-Conf),L 79-83,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,2,2,1.2,H,0,1,papa-ndao-1,Papa Ndao,2014
+3,57,4,2013-11-28,Saint Joseph's,N,Louisiana State,REG (Non-Conf),L 65-82,,5,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,1,0,1,0,0,0,0,0,5,4.0,N,0,1,papa-ndao-1,Papa Ndao,2014
+4,58,5,2013-11-29,Saint Joseph's,N,Siena,REG (Non-Conf),W 78-66,,5,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,1,1,0,-0.4,N,1,1,papa-ndao-1,Papa Ndao,2014
+5,59,7,2013-12-04,Saint Joseph's,@,Temple,REG (Non-Conf),L 69-77,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,1,0,-0.7,A,0,1,papa-ndao-1,Papa Ndao,2014
+6,60,8,2013-12-07,Saint Joseph's,,Villanova,REG (Non-Conf),L 68-98,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,1,2,0,-1.1,H,0,1,papa-ndao-1,Papa Ndao,2014
+7,61,9,2013-12-18,Saint Joseph's,,Drexel,REG (Non-Conf),W 75-55,,12,0,0,,0,0,,0,0,,,0,0,,1,3,4,1,1,0,2,2,0,0.5,H,1,1,papa-ndao-1,Papa Ndao,2014
+8,62,10,2013-12-21,Saint Joseph's,@,Loyola (MD),REG (Non-Conf),W 88-77,,5,0,0,,0,0,,0,0,,,4,4,1.0,0,1,1,0,0,0,0,0,4,4.3,A,1,1,papa-ndao-1,Papa Ndao,2014
+9,63,11,2013-12-29,Saint Joseph's,,Boston University,REG (Non-Conf),W 73-67,,3,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,0,0,0,0,0,2,2.3,H,1,1,papa-ndao-1,Papa Ndao,2014
+10,64,12,2013-12-31,Saint Joseph's,,Binghamton,REG (Non-Conf),W 71-44,,17,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,1,0,0,1,3,3.9,H,1,1,papa-ndao-1,Papa Ndao,2014
+11,65,13,2014-01-04,Saint Joseph's,,Denver,REG (Non-Conf),W 53-52,,12,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,H,1,1,papa-ndao-1,Papa Ndao,2014
+12,66,14,2014-01-08,Saint Joseph's,@,Massachusetts,REG (Conf),L 62-66,,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,2,3,1,0,0,3,4,0,-4.0,A,0,1,papa-ndao-1,Papa Ndao,2014
+13,67,15,2014-01-11,Saint Joseph's,@,George Mason,REG (Conf),W 84-80,*,37,4,4,1.0,3,3,1.0,1,1,1.0,1.375,2,2,1.0,0,2,2,2,1,2,2,2,13,13.4,A,1,1,papa-ndao-1,Papa Ndao,2014
+14,68,16,2014-01-15,Saint Joseph's,,Duquesne,REG (Conf),W 84-75,*,26,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,7,7,1,0,1,1,2,5,5.4,H,1,1,papa-ndao-1,Papa Ndao,2014
+15,69,17,2014-01-18,Saint Joseph's,@,Pennsylvania,REG (Non-Conf),W 85-68,,18,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,2,2,2,0,0,0,0,9,10.1,A,1,1,papa-ndao-1,Papa Ndao,2014
+16,70,18,2014-01-22,Saint Joseph's,,Rhode Island,REG (Conf),W 61-57,,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,2,3,0,0,0,0,1,2,1.2,H,1,1,papa-ndao-1,Papa Ndao,2014
+17,71,19,2014-01-25,Saint Joseph's,@,Richmond,REG (Conf),L 62-77,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,1,0,0,0,4,2,0.1,A,0,1,papa-ndao-1,Papa Ndao,2014
+18,72,20,2014-01-29,Saint Joseph's,@,Dayton,REG (Conf),W 60-57,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,1,0,0,0,2,3.0,A,1,1,papa-ndao-1,Papa Ndao,2014
+19,73,21,2014-02-01,Saint Joseph's,,Massachusetts,REG (Conf),W 73-68,,16,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,0,0,0,2,0,0,0,1,5,4.3,H,1,1,papa-ndao-1,Papa Ndao,2014
+20,74,22,2014-02-05,Saint Joseph's,,Saint Louis,REG (Conf),L 49-65,,20,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,1,0,1,1,5,4.3,H,0,1,papa-ndao-1,Papa Ndao,2014
+21,75,24,2014-02-15,Saint Joseph's,@,La Salle,REG (Conf),W 75-64,,13,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,1,2,1,1,0,0,0,3,4.0,A,1,1,papa-ndao-1,Papa Ndao,2014
+22,76,25,2014-02-19,Saint Joseph's,@,Rhode Island,REG (Conf),W 57-54,,17,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,0,0,1,0,0,0,1,3,0.2,A,1,1,papa-ndao-1,Papa Ndao,2014
+23,77,26,2014-02-22,Saint Joseph's,,Fordham,REG (Conf),W 87-72,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,2,1,0,1,1,3,3.0,H,1,1,papa-ndao-1,Papa Ndao,2014
+24,78,27,2014-02-25,Saint Joseph's,,Dayton,REG (Conf),W 79-53,,16,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,1,0,0,0,1,6,4.3,H,1,1,papa-ndao-1,Papa Ndao,2014
+25,79,28,2014-03-01,Saint Joseph's,@,St. Bonaventure,REG (Conf),W 83-74,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,1,0,2,4,3,0.7,A,1,1,papa-ndao-1,Papa Ndao,2014
+26,80,29,2014-03-05,Saint Joseph's,@,George Washington,REG (Conf),L 71-76,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,2,0,-2.2,A,0,1,papa-ndao-1,Papa Ndao,2014
+27,81,30,2014-03-09,Saint Joseph's,,La Salle,REG (Conf),L 63-71,,5,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,1,0,0.3,H,0,1,papa-ndao-1,Papa Ndao,2014
+28,82,31,2014-03-14,Saint Joseph's,N,Dayton,CTOURN,W 70-67,,10,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,3,0,-3.3,N,1,0,papa-ndao-1,Papa Ndao,2014
+29,83,32,2014-03-15,Saint Joseph's,N,St. Bonaventure,CTOURN,W 67-48,,10,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,1,0,1,2,2,-0.2,N,1,0,papa-ndao-1,Papa Ndao,2014
+30,84,33,2014-03-16,Saint Joseph's,N,VCU,CTOURN,W 65-61,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,papa-ndao-1,Papa Ndao,2014
+31,85,34,2014-03-20,Saint Joseph's,N,Connecticut,ROUND-64,L 81-89 (OT),,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,4,0,-2.3,N,0,0,papa-ndao-1,Papa Ndao,2014

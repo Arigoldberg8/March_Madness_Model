@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,120,1,2024-11-04,Ole Miss,,LIU,REG (Non-Conf),W 90-60,,22,3,7,0.429,1,2,0.5,2,5,0.4,0.5,5,7,0.714,2,5,7,1,1,0,1,2,12,10.3,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+2,121,2,2024-11-08,Ole Miss,,Grambling State,REG (Non-Conf),W 66-64,,27,4,12,0.333,1,5,0.2,3,7,0.429,0.375,2,2,1.0,5,6,11,2,0,2,1,3,11,10.1,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+3,122,3,2024-11-12,Ole Miss,,South Alabama,REG (Non-Conf),W 64-54,,30,5,5,1.0,2,2,1.0,3,3,1.0,1.2,2,4,0.5,0,5,5,4,0,0,3,2,14,12.2,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+4,123,4,2024-11-16,Ole Miss,N,Colorado State,REG (Non-Conf),W 84-69,,20,2,7,0.286,1,2,0.5,1,5,0.2,0.357,1,2,0.5,0,4,4,2,0,0,0,1,6,3.7,N,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+5,124,5,2024-11-21,Ole Miss,,Oral Roberts,REG (Non-Conf),W 100-68,,18,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,3,0.667,0,3,3,5,1,0,1,0,13,13.4,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+6,125,6,2024-11-28,Ole Miss,N,Brigham Young,REG (Non-Conf),W 96-85 (OT),,21,1,7,0.143,0,1,0.0,1,6,0.167,0.143,2,3,0.667,2,4,6,2,0,0,1,2,4,1.3,N,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+7,126,7,2024-11-29,Ole Miss,N,Purdue,REG (Non-Conf),L 78-80,,24,7,11,0.636,1,5,0.2,6,6,1.0,0.682,3,3,1.0,2,3,5,0,1,1,0,3,18,15.9,N,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+8,127,8,2024-12-03,Ole Miss,@,Louisville,REG (Non-Conf),W 86-63,,19,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,4,5,1,1,1,2,3,1,1.0,A,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+9,128,9,2024-12-07,Ole Miss,,Lindenwood,REG (Non-Conf),W 86-53,,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,4,0.25,1,4,5,4,1,0,1,2,7,7.4,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+10,129,10,2024-12-14,Ole Miss,N,Southern Mississippi,REG (Non-Conf),W 77-46,,19,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,2,1.0,1,3,4,2,4,0,2,2,10,12.6,N,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+11,130,11,2024-12-17,Ole Miss,,Southern,REG (Non-Conf),W 74-61,,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,7,9,0.778,1,2,3,1,1,0,0,0,15,12.5,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+12,131,12,2024-12-21,Ole Miss,,Queens (NC),REG (Non-Conf),W 80-62,,14,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,1,1,2,3,0,1,0,0,4,3.7,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+13,132,13,2024-12-28,Ole Miss,@,Memphis,REG (Non-Conf),L 70-87,,12,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,2,2,4,0,0,0,0,0,2,-0.5,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+14,133,14,2025-01-04,Ole Miss,,Georgia,REG (Conf),W 63-51,,23,5,7,0.714,3,3,1.0,2,4,0.5,0.929,2,2,1.0,3,1,4,1,0,1,3,2,15,12.1,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+15,134,15,2025-01-08,Ole Miss,@,Arkansas,REG (Conf),W 73-66,,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,4,6,2,0,0,0,5,3,2.2,A,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+16,135,16,2025-01-11,Ole Miss,,Louisiana State,REG (Conf),W 77-65,,22,5,8,0.625,0,1,0.0,5,7,0.714,0.625,6,7,0.857,1,4,5,2,2,0,3,1,16,13.9,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+17,136,17,2025-01-14,Ole Miss,@,Alabama,REG (Conf),W 74-64,,21,3,7,0.429,0,2,0.0,3,5,0.6,0.429,7,7,1.0,2,2,4,1,0,0,3,3,13,7.8,A,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+18,137,18,2025-01-18,Ole Miss,@,Mississippi State,REG (Conf),L 81-84 (OT),,34,7,12,0.583,3,5,0.6,4,7,0.571,0.708,3,4,0.75,3,4,7,2,1,0,0,3,20,18.5,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+19,138,19,2025-01-22,Ole Miss,,Texas A&M,REG (Conf),L 62-63,,24,4,12,0.333,1,4,0.25,3,8,0.375,0.375,1,1,1.0,3,5,8,2,1,0,2,0,10,7.2,H,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+20,139,20,2025-01-25,Ole Miss,@,Missouri,REG (Conf),L 75-83,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,4,7,0.571,0,2,2,1,1,0,2,5,14,7.5,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+21,140,21,2025-01-29,Ole Miss,,Texas,REG (Conf),W 72-69,,31,6,14,0.429,0,3,0.0,6,11,0.545,0.429,6,7,0.857,2,3,5,3,1,1,0,1,18,15.9,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+22,141,22,2025-02-01,Ole Miss,,Auburn,REG (Conf),L 82-92,,30,5,10,0.5,1,1,1.0,4,9,0.444,0.55,1,4,0.25,3,2,5,1,1,0,4,1,12,5.8,H,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+23,142,23,2025-02-04,Ole Miss,,Kentucky,REG (Conf),W 98-84,,22,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,3,0.667,0,2,2,2,0,0,0,1,10,7.5,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+24,143,24,2025-02-08,Ole Miss,@,Louisiana State,REG (Conf),W 72-70,,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,4,0.5,3,5,8,4,0,1,1,4,11,12.1,A,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+25,144,25,2025-02-12,Ole Miss,@,South Carolina,REG (Conf),W 72-68,,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,5,6,0.833,0,3,3,3,1,1,2,3,14,12.5,A,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+26,145,26,2025-02-15,Ole Miss,,Mississippi State,REG (Conf),L 71-81,,21,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,5,0.8,1,1,2,1,2,0,0,3,10,7.7,H,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+27,146,27,2025-02-22,Ole Miss,@,Vanderbilt,REG (Conf),L 72-77,,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,2,4,6,0,0,0,1,3,8,5.4,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+28,147,28,2025-02-26,Ole Miss,@,Auburn,REG (Conf),L 76-106,,17,4,4,1.0,0,0,,4,4,1.0,1.0,5,7,0.714,1,1,2,1,0,0,1,3,13,10.5,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+29,148,29,2025-03-01,Ole Miss,,Oklahoma,REG (Conf),W 87-84,,27,5,9,0.556,0,4,0.0,5,5,1.0,0.556,6,10,0.6,0,0,0,3,1,0,1,2,16,11.4,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+30,149,30,2025-03-05,Ole Miss,,Tennessee,REG (Conf),W 78-76,,24,8,9,0.889,0,1,0.0,8,8,1.0,0.889,3,3,1.0,1,1,2,2,0,0,0,3,19,17.1,H,1,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+31,150,31,2025-03-08,Ole Miss,@,Florida,REG (Conf),L 71-90,,17,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,3,1.0,0,3,3,0,1,0,1,0,9,6.9,A,0,1,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+32,151,32,2025-03-13,Ole Miss,N,Arkansas,CTOURN,W 83-80,,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,3,3,0,3,0,1,4,4,4.0,N,1,0,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+33,152,33,2025-03-14,Ole Miss,N,Auburn,CTOURN,L 57-62,,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,3,3,1,0,0,1,1,6,3.8,N,0,0,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+34,153,34,2025-03-21,Ole Miss,N,North Carolina,ROUND-64,W 71-64,,27,3,8,0.375,2,5,0.4,1,3,0.333,0.5,4,6,0.667,2,1,3,4,0,0,3,1,12,7.9,N,1,0,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+35,154,35,2025-03-23,Ole Miss,N,Iowa State,ROUND-32,W 91-78,,26,6,8,0.75,2,2,1.0,4,6,0.667,0.875,5,5,1.0,0,2,2,0,2,0,3,2,19,14.6,N,1,0,jaemyn-brakefield-1,Jaemyn Brakefield,2025
+36,155,36,2025-03-28,Ole Miss,N,Michigan State,ROUND-16,L 70-73,,29,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,2,5,7,3,0,0,0,2,9,9.8,N,0,0,jaemyn-brakefield-1,Jaemyn Brakefield,2025

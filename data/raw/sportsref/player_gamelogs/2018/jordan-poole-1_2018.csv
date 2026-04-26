@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-11,Michigan,,North Florida,REG (Non-Conf),W 86-66,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,1,1,2,1.3,H,1,1,jordan-poole-1,Jordan Poole,2018
+2,2,4,2017-11-20,Michigan,N,Louisiana State,REG (Non-Conf),L 75-77,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,1,jordan-poole-1,Jordan Poole,2018
+3,3,5,2017-11-21,Michigan,N,Chaminade,REG (Non-Conf),W 102-64,,9,3,5,0.6,2,3,0.667,1,2,0.5,0.8,2,2,1.0,0,1,1,1,1,0,2,1,10,7.3,N,1,1,jordan-poole-1,Jordan Poole,2018
+4,4,7,2017-11-26,Michigan,,UC Riverside,REG (Non-Conf),W 87-42,,11,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,1,0.0,0,0,0,0,0,1,0,0,11,6.6,H,1,1,jordan-poole-1,Jordan Poole,2018
+5,5,8,2017-11-29,Michigan,@,North Carolina,REG (Non-Conf),L 71-86,,12,1,6,0.167,1,5,0.2,0,1,0.0,0.25,1,2,0.5,0,0,0,0,1,1,0,1,4,1.1,A,0,1,jordan-poole-1,Jordan Poole,2018
+6,6,9,2017-12-02,Michigan,,Indiana,REG (Conf),W 69-55,,27,7,12,0.583,5,10,0.5,2,2,1.0,0.792,0,0,,0,3,3,0,0,0,2,0,19,12.3,H,1,1,jordan-poole-1,Jordan Poole,2018
+7,7,10,2017-12-04,Michigan,@,Ohio State,REG (Conf),L 62-71,,8,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,3,0.333,0,0,0,0,0,0,0,1,5,1.1,A,0,1,jordan-poole-1,Jordan Poole,2018
+8,8,11,2017-12-09,Michigan,,UCLA,REG (Non-Conf),W 78-69 (OT),,11,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,0,0,1,0,1,-2.2,H,1,1,jordan-poole-1,Jordan Poole,2018
+9,9,12,2017-12-12,Michigan,@,Texas,REG (Non-Conf),W 59-52,,8,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,0,0,0,0,0,4,3.7,A,1,1,jordan-poole-1,Jordan Poole,2018
+10,10,13,2017-12-16,Michigan,N,Detroit Mercy,REG (Non-Conf),W 90-58,,15,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,2,2,1,1,0,1,3,12,7.1,N,1,1,jordan-poole-1,Jordan Poole,2018
+11,11,14,2017-12-21,Michigan,,Alabama A&M,REG (Non-Conf),W 97-47,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,1,1,1,1,0,1,0,4,3.3,H,1,1,jordan-poole-1,Jordan Poole,2018
+12,12,15,2017-12-30,Michigan,,Jacksonville,REG (Non-Conf),W 76-51,,12,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,1,1,2,0,1,0,1,1,10,8.3,H,1,1,jordan-poole-1,Jordan Poole,2018
+13,13,16,2018-01-02,Michigan,@,Iowa,REG (Conf),W 75-68,,5,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,1,0,0,1,3,2.6,A,1,1,jordan-poole-1,Jordan Poole,2018
+14,14,17,2018-01-06,Michigan,,Illinois,REG (Conf),W 79-69,,19,2,3,0.667,2,3,0.667,0,0,,1.0,5,5,1.0,1,1,2,1,2,0,0,0,11,13.4,H,1,1,jordan-poole-1,Jordan Poole,2018
+15,15,18,2018-01-09,Michigan,,Purdue,REG (Conf),L 69-70,,7,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,3,1.0,0,1,1,0,0,0,0,0,8,6.3,H,0,1,jordan-poole-1,Jordan Poole,2018
+16,16,19,2018-01-13,Michigan,@,Michigan State,REG (Conf),W 82-72,,7,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,3,3,1,0,0,0,1,2,1.1,A,1,1,jordan-poole-1,Jordan Poole,2018
+17,17,20,2018-01-15,Michigan,,Maryland,REG (Conf),W 68-67,,13,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,0,0,1,0,1,1,2,11,8.7,H,1,1,jordan-poole-1,Jordan Poole,2018
+18,18,21,2018-01-18,Michigan,@,Nebraska,REG (Conf),L 52-72,,16,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,1,1,0,0,0,2,3,5,-1.7,A,0,1,jordan-poole-1,Jordan Poole,2018
+19,19,22,2018-01-21,Michigan,,Rutgers,REG (Conf),W 62-47,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,1,0,1,2,0,4,3.1,H,1,1,jordan-poole-1,Jordan Poole,2018
+20,20,23,2018-01-25,Michigan,@,Purdue,REG (Conf),L 88-92,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,1,0,0,2,5,3.9,A,0,1,jordan-poole-1,Jordan Poole,2018
+21,21,24,2018-01-29,Michigan,,Northwestern,REG (Conf),W 58-47,,24,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,0,2,2,3,1,1,0,1,8,6.2,H,1,1,jordan-poole-1,Jordan Poole,2018
+22,22,25,2018-02-03,Michigan,,Minnesota,REG (Conf),W 76-73 (OT),,12,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.9,H,1,1,jordan-poole-1,Jordan Poole,2018
+23,23,26,2018-02-06,Michigan,@,Northwestern,REG (Conf),L 52-61,,18,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,3,3,2,0,1,1,4,5,1.6,A,0,1,jordan-poole-1,Jordan Poole,2018
+24,24,27,2018-02-11,Michigan,@,Wisconsin,REG (Conf),W 83-72,,13,2,4,0.5,1,2,0.5,1,2,0.5,0.625,3,4,0.75,0,2,2,0,0,0,1,2,8,4.4,A,1,1,jordan-poole-1,Jordan Poole,2018
+25,25,28,2018-02-14,Michigan,,Iowa,REG (Conf),W 74-59,,8,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,1,0,2,-1.8,H,1,1,jordan-poole-1,Jordan Poole,2018
+26,26,29,2018-02-18,Michigan,,Ohio State,REG (Conf),W 74-62,,19,5,8,0.625,4,5,0.8,1,3,0.333,0.875,1,1,1.0,0,1,1,1,0,0,0,1,15,12.0,H,1,1,jordan-poole-1,Jordan Poole,2018
+27,27,30,2018-02-21,Michigan,@,Penn State,REG (Conf),W 72-63,,26,4,8,0.5,2,2,1.0,2,6,0.333,0.625,3,3,1.0,0,4,4,1,1,0,1,3,13,9.7,A,1,1,jordan-poole-1,Jordan Poole,2018
+28,28,31,2018-02-24,Michigan,@,Maryland,REG (Conf),W 85-61,,22,3,5,0.6,3,5,0.6,0,0,,0.9,3,3,1.0,0,3,3,1,1,0,0,1,12,11.9,A,1,1,jordan-poole-1,Jordan Poole,2018
+29,29,32,2018-03-01,Michigan,N,Iowa,CTOURN,W 77-71 (OT),,27,3,7,0.429,0,4,0.0,3,3,1.0,0.429,0,0,,0,4,4,1,1,0,3,1,6,1.8,N,1,0,jordan-poole-1,Jordan Poole,2018
+30,30,33,2018-03-02,Michigan,N,Nebraska,CTOURN,W 77-58,,16,1,9,0.111,0,3,0.0,1,6,0.167,0.111,0,0,,1,0,1,2,1,0,1,1,2,-2.2,N,1,0,jordan-poole-1,Jordan Poole,2018
+31,31,34,2018-03-03,Michigan,N,Michigan State,CTOURN,W 75-64,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,1,0,2,0,2,1.3,N,1,0,jordan-poole-1,Jordan Poole,2018
+32,32,35,2018-03-04,Michigan,N,Purdue,CTOURN,W 75-66,,14,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,4,4,1,1,0,1,2,3,3.0,N,1,0,jordan-poole-1,Jordan Poole,2018
+33,33,36,2018-03-15,Michigan,N,Montana,ROUND-64,W 61-47,,8,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,0,3,2.3,N,1,0,jordan-poole-1,Jordan Poole,2018
+34,34,37,2018-03-17,Michigan,N,Houston,ROUND-32,W 64-63,,11,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,2,2,0,1,0,0,2,8,6.5,N,1,0,jordan-poole-1,Jordan Poole,2018
+35,35,38,2018-03-22,Michigan,N,Texas A&M,ROUND-16,W 99-72,,9,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,1,0,0,0,1,5,5.3,N,1,0,jordan-poole-1,Jordan Poole,2018
+36,36,39,2018-03-24,Michigan,N,Florida State,ROUND-8,W 58-54,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jordan-poole-1,Jordan Poole,2018
+37,37,40,2018-03-31,Michigan,N,Loyola Chicago,NATIONAL-SEMI,W 69-57,,12,2,5,0.4,0,3,0.0,2,2,1.0,0.4,3,4,0.75,0,2,2,0,1,0,0,1,7,5.1,N,1,0,jordan-poole-1,Jordan Poole,2018
+38,38,41,2018-04-02,Michigan,N,Villanova,NATIONAL-FINAL,L 62-79,,10,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,1,1.0,0,1,1,1,1,0,0,2,3,1.1,N,0,0,jordan-poole-1,Jordan Poole,2018

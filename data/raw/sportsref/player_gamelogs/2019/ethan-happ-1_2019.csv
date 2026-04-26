@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2018-11-06,Wisconsin,,Coppin State,REG (Non-Conf),W 85-63,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,4,1.0,5,6,11,12,0,4,2,0,10,20.8,H,1,1,ethan-happ-1,Ethan Happ,2019
+2,107,2,2018-11-13,Wisconsin,@,Xavier,REG (Non-Conf),W 77-68,*,35,15,23,0.652,0,0,,15,23,0.652,0.652,0,4,0.0,4,9,13,5,0,0,2,1,30,24.9,A,1,1,ethan-happ-1,Ethan Happ,2019
+3,108,3,2018-11-17,Wisconsin,,Houston Baptist,REG (Non-Conf),W 96-59,*,25,7,9,0.778,0,0,,7,9,0.778,0.778,1,3,0.333,1,11,12,6,2,0,2,1,15,18.5,H,1,1,ethan-happ-1,Ethan Happ,2019
+4,109,4,2018-11-21,Wisconsin,N,Stanford,REG (Non-Conf),W 62-46,*,31,7,15,0.467,0,1,0.0,7,14,0.5,0.467,2,3,0.667,3,9,12,0,1,2,2,5,16,11.1,N,1,1,ethan-happ-1,Ethan Happ,2019
+5,110,5,2018-11-22,Wisconsin,N,Oklahoma,REG (Non-Conf),W 78-58,*,32,6,13,0.462,0,0,,6,13,0.462,0.462,2,2,1.0,4,8,12,5,1,0,4,3,14,11.8,N,1,1,ethan-happ-1,Ethan Happ,2019
+6,111,6,2018-11-23,Wisconsin,N,Virginia,REG (Non-Conf),L 46-53,*,36,11,19,0.579,0,0,,11,19,0.579,0.579,0,0,,1,14,15,6,0,4,6,3,22,17.8,N,0,1,ethan-happ-1,Ethan Happ,2019
+7,112,7,2018-11-27,Wisconsin,,NC State,REG (Non-Conf),W 79-75,*,34,8,18,0.444,0,0,,8,18,0.444,0.444,3,8,0.375,4,7,11,3,0,4,5,3,19,11.2,H,1,1,ethan-happ-1,Ethan Happ,2019
+8,113,8,2018-11-30,Wisconsin,@,Iowa,REG (Conf),W 72-66,*,32,6,10,0.6,0,0,,6,10,0.6,0.6,1,4,0.25,0,7,7,5,2,1,2,5,13,11.5,A,1,1,ethan-happ-1,Ethan Happ,2019
+9,114,9,2018-12-03,Wisconsin,,Rutgers,REG (Conf),W 69-64,*,33,10,17,0.588,0,0,,10,17,0.588,0.588,0,3,0.0,1,3,4,3,1,0,2,1,20,13.2,H,1,1,ethan-happ-1,Ethan Happ,2019
+10,115,10,2018-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 69-74 (OT),*,41,16,21,0.762,0,0,,16,21,0.762,0.762,2,5,0.4,2,9,11,4,3,1,2,4,34,31.5,A,0,1,ethan-happ-1,Ethan Happ,2019
+11,116,11,2018-12-13,Wisconsin,,Savannah State,REG (Non-Conf),W 101-60,*,28,7,8,0.875,0,0,,7,8,0.875,0.875,4,5,0.8,2,9,11,6,1,0,0,1,18,23.7,H,1,1,ethan-happ-1,Ethan Happ,2019
+12,117,12,2018-12-22,Wisconsin,,Grambling State,REG (Non-Conf),W 84-53,*,25,6,12,0.5,0,1,0.0,6,11,0.545,0.5,7,10,0.7,0,8,8,5,0,0,3,1,19,14.3,H,1,1,ethan-happ-1,Ethan Happ,2019
+13,118,13,2018-12-29,Wisconsin,@,Western Kentucky,REG (Non-Conf),L 76-83,*,31,9,23,0.391,0,0,,9,23,0.391,0.391,2,3,0.667,3,9,12,3,0,0,3,5,20,9.0,A,0,1,ethan-happ-1,Ethan Happ,2019
+14,119,14,2019-01-03,Wisconsin,,Minnesota,REG (Conf),L 52-59,*,32,8,13,0.615,0,1,0.0,8,12,0.667,0.615,1,7,0.143,0,8,8,3,2,2,3,3,17,12.4,H,0,1,ethan-happ-1,Ethan Happ,2019
+15,120,15,2019-01-06,Wisconsin,@,Penn State,REG (Conf),W 71-52,*,34,10,24,0.417,0,0,,10,24,0.417,0.417,2,2,1.0,4,4,8,4,0,1,1,3,22,14.5,A,1,1,ethan-happ-1,Ethan Happ,2019
+16,121,16,2019-01-11,Wisconsin,,Purdue,REG (Conf),L 80-84 (OT),*,40,14,17,0.824,0,0,,14,17,0.824,0.824,3,6,0.5,3,10,13,6,0,2,9,3,31,24.0,H,0,1,ethan-happ-1,Ethan Happ,2019
+17,122,17,2019-01-14,Wisconsin,@,Maryland,REG (Conf),L 60-64,*,31,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,1,7,8,3,0,1,2,4,10,7.0,A,0,1,ethan-happ-1,Ethan Happ,2019
+18,123,18,2019-01-19,Wisconsin,,Michigan,REG (Conf),W 64-54,*,33,12,22,0.545,0,0,,12,22,0.545,0.545,2,4,0.5,2,8,10,7,2,0,1,2,26,23.5,H,1,1,ethan-happ-1,Ethan Happ,2019
+19,124,19,2019-01-23,Wisconsin,@,Illinois,REG (Conf),W 72-60,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,2,7,9,6,1,1,6,4,9,7.4,A,1,1,ethan-happ-1,Ethan Happ,2019
+20,125,20,2019-01-26,Wisconsin,,Northwestern,REG (Conf),W 62-46,*,33,6,15,0.4,0,1,0.0,6,14,0.429,0.4,1,5,0.2,1,11,12,11,2,2,2,1,13,16.0,H,1,1,ethan-happ-1,Ethan Happ,2019
+21,126,21,2019-01-29,Wisconsin,@,Nebraska,REG (Conf),W 62-51,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,0,3,0.0,1,8,9,4,1,0,2,3,10,8.9,A,1,1,ethan-happ-1,Ethan Happ,2019
+22,127,22,2019-02-01,Wisconsin,,Maryland,REG (Conf),W 69-61,*,37,6,14,0.429,0,0,,6,14,0.429,0.429,6,12,0.5,2,9,11,6,2,2,0,2,18,19.1,H,1,1,ethan-happ-1,Ethan Happ,2019
+23,128,23,2019-02-06,Wisconsin,@,Minnesota,REG (Conf),W 56-51,*,33,6,13,0.462,0,0,,6,13,0.462,0.462,3,6,0.5,3,10,13,4,1,1,2,2,15,13.9,A,1,1,ethan-happ-1,Ethan Happ,2019
+24,129,24,2019-02-09,Wisconsin,@,Michigan,REG (Conf),L 52-61,*,26,9,19,0.474,0,0,,9,19,0.474,0.474,0,1,0.0,3,8,11,1,1,2,5,3,18,9.3,A,0,1,ethan-happ-1,Ethan Happ,2019
+25,130,25,2019-02-12,Wisconsin,,Michigan State,REG (Conf),L 59-67,*,35,10,20,0.5,0,0,,10,20,0.5,0.5,0,6,0.0,4,8,12,3,2,1,6,2,20,10.8,H,0,1,ethan-happ-1,Ethan Happ,2019
+26,131,26,2019-02-18,Wisconsin,,Illinois,REG (Conf),W 64-58,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,0,3,0.0,1,2,3,2,2,0,3,1,6,2.4,H,1,1,ethan-happ-1,Ethan Happ,2019
+27,132,27,2019-02-23,Wisconsin,@,Northwestern,REG (Conf),W 69-64,*,35,6,11,0.545,0,0,,6,11,0.545,0.545,2,4,0.5,2,8,10,3,1,2,3,3,14,12.0,A,1,1,ethan-happ-1,Ethan Happ,2019
+28,133,28,2019-02-26,Wisconsin,@,Indiana,REG (Conf),L 73-75 (2OT),*,45,9,18,0.5,0,0,,9,18,0.5,0.5,5,10,0.5,1,10,11,4,0,1,3,5,23,14.2,A,0,1,ethan-happ-1,Ethan Happ,2019
+29,134,29,2019-03-02,Wisconsin,,Penn State,REG (Conf),W 61-57,*,27,6,14,0.429,0,0,,6,14,0.429,0.429,2,2,1.0,2,4,6,5,4,1,1,4,14,14.8,H,1,1,ethan-happ-1,Ethan Happ,2019
+30,135,30,2019-03-07,Wisconsin,,Iowa,REG (Conf),W 65-45,*,30,5,11,0.455,0,0,,5,11,0.455,0.455,11,18,0.611,8,6,14,3,2,2,3,2,21,21.6,H,1,1,ethan-happ-1,Ethan Happ,2019
+31,136,31,2019-03-10,Wisconsin,@,Ohio State,REG (Conf),W 73-67 (OT),*,39,6,14,0.429,0,0,,6,14,0.429,0.429,4,9,0.444,2,12,14,8,1,1,4,2,16,14.1,A,1,1,ethan-happ-1,Ethan Happ,2019
+32,137,32,2019-03-15,Wisconsin,N,Nebraska,CTOURN,W 66-62,*,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,5,7,4,0,2,7,0,4,2.1,N,1,0,ethan-happ-1,Ethan Happ,2019
+33,138,33,2019-03-16,Wisconsin,N,Michigan State,CTOURN,L 55-67,*,33,10,20,0.5,0,0,,10,20,0.5,0.5,0,1,0.0,1,5,6,3,2,4,1,3,20,16.5,N,0,0,ethan-happ-1,Ethan Happ,2019
+34,139,34,2019-03-22,Wisconsin,N,Oregon,ROUND-64,L 54-72,*,33,5,10,0.5,0,0,,5,10,0.5,0.5,2,4,0.5,2,6,8,0,1,0,5,2,12,4.6,N,0,0,ethan-happ-1,Ethan Happ,2019

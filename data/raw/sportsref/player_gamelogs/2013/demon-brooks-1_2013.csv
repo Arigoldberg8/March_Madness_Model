@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,*,25,8,12,0.667,2,2,1.0,6,10,0.6,0.75,6,6,1.0,1,3,4,1,0,1,1,2,24,20.0,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+2,66,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,*,28,7,14,0.5,1,3,0.333,6,11,0.545,0.536,7,8,0.875,2,2,4,1,2,1,3,4,22,15.4,A,0,1,demon-brooks-1,De'Mon Brooks,2013
+3,67,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,*,26,4,12,0.333,0,1,0.0,4,11,0.364,0.333,6,7,0.857,5,6,11,0,2,0,4,4,14,8.5,A,0,1,demon-brooks-1,De'Mon Brooks,2013
+4,68,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,*,24,7,13,0.538,0,2,0.0,7,11,0.636,0.538,5,6,0.833,4,2,6,1,0,1,2,0,19,15.1,N,1,1,demon-brooks-1,De'Mon Brooks,2013
+5,69,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,*,33,3,9,0.333,0,0,,3,9,0.333,0.333,6,7,0.857,0,3,3,0,5,0,3,4,12,7.8,N,1,1,demon-brooks-1,De'Mon Brooks,2013
+6,70,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,*,24,5,12,0.417,0,1,0.0,5,11,0.455,0.417,2,2,1.0,3,3,6,1,2,0,3,5,12,6.3,N,0,1,demon-brooks-1,De'Mon Brooks,2013
+7,71,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,*,22,6,9,0.667,1,1,1.0,5,8,0.625,0.722,1,1,1.0,4,4,8,2,2,0,1,3,14,15.3,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+8,72,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,*,31,6,15,0.4,0,1,0.0,6,14,0.429,0.4,1,2,0.5,4,4,8,0,1,0,0,3,13,8.3,H,0,1,demon-brooks-1,De'Mon Brooks,2013
+9,73,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,,21,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,3,0.667,3,3,6,0,0,2,3,2,8,4.5,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+10,74,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,*,29,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,4,0.5,4,5,9,1,2,2,2,1,14,13.9,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+11,75,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,*,30,5,9,0.556,2,5,0.4,3,4,0.75,0.667,4,4,1.0,1,2,3,1,1,2,3,4,16,11.5,A,0,1,demon-brooks-1,De'Mon Brooks,2013
+12,76,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,*,29,6,12,0.5,2,2,1.0,4,10,0.4,0.583,0,0,,1,4,5,1,0,1,3,1,14,7.9,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+13,77,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,*,30,4,13,0.308,0,1,0.0,4,12,0.333,0.308,0,0,,4,8,12,2,1,2,2,2,8,6.7,N,0,1,demon-brooks-1,De'Mon Brooks,2013
+14,78,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,*,22,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,4,1.0,3,4,7,1,0,1,1,3,14,12.2,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+15,79,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,*,18,3,9,0.333,0,2,0.0,3,7,0.429,0.333,0,1,0.0,3,4,7,1,0,0,2,3,6,1.3,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+16,80,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,*,33,2,8,0.25,0,0,,2,8,0.25,0.25,2,2,1.0,3,4,7,0,0,0,1,2,6,2.7,A,0,1,demon-brooks-1,De'Mon Brooks,2013
+17,81,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,*,25,5,12,0.417,0,2,0.0,5,10,0.5,0.417,5,6,0.833,0,3,3,0,0,0,0,4,15,7.5,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+18,82,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,*,26,6,11,0.545,0,0,,6,11,0.545,0.545,5,5,1.0,2,3,5,0,0,0,3,3,17,9.8,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+19,83,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,2,3,5,1,0,0,2,4,9,5.0,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+20,84,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,*,27,5,9,0.556,0,2,0.0,5,7,0.714,0.556,6,7,0.857,3,7,10,1,0,0,3,4,16,11.6,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+21,85,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,*,29,8,10,0.8,0,0,,8,10,0.8,0.8,6,8,0.75,2,3,5,1,2,0,1,1,22,21.0,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+22,86,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,*,34,5,10,0.5,0,1,0.0,5,9,0.556,0.5,3,3,1.0,1,3,4,0,1,2,2,2,13,9.2,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+23,87,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,*,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,1,0.0,2,5,7,0,0,1,2,4,5,1.9,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+24,88,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,*,29,4,8,0.5,0,1,0.0,4,7,0.571,0.5,5,8,0.625,1,7,8,0,1,0,2,2,13,8.8,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+25,89,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,*,12,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,5,0.6,2,3,5,1,1,0,2,5,7,2.8,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+26,90,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,*,31,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,1,1.0,0,3,3,0,2,0,2,2,7,3.4,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+27,91,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,*,25,5,12,0.417,0,1,0.0,5,11,0.455,0.417,5,5,1.0,6,4,10,1,1,0,2,3,15,12.5,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+28,92,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),*,30,8,13,0.615,0,0,,8,13,0.615,0.615,2,3,0.667,1,7,8,1,0,1,1,4,18,13.3,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+29,93,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,*,34,3,9,0.333,0,1,0.0,3,8,0.375,0.333,4,8,0.5,2,1,3,2,1,0,1,3,10,5.2,A,1,1,demon-brooks-1,De'Mon Brooks,2013
+30,94,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,*,25,8,11,0.727,0,0,,8,11,0.727,0.727,4,6,0.667,3,4,7,1,1,1,3,2,20,16.6,H,1,1,demon-brooks-1,De'Mon Brooks,2013
+31,95,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,*,29,4,5,0.8,0,1,0.0,4,4,1.0,0.8,5,8,0.625,2,1,3,0,1,0,1,3,13,10.4,N,1,0,demon-brooks-1,De'Mon Brooks,2013
+32,96,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,*,23,7,12,0.583,0,1,0.0,7,11,0.636,0.583,2,3,0.667,0,3,3,1,1,0,2,4,16,9.0,N,1,0,demon-brooks-1,De'Mon Brooks,2013
+33,97,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,*,35,9,14,0.643,0,1,0.0,9,13,0.692,0.643,6,9,0.667,1,7,8,2,0,1,0,3,24,20.3,N,1,0,demon-brooks-1,De'Mon Brooks,2013
+34,98,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,*,36,3,6,0.5,0,0,,3,6,0.5,0.5,5,11,0.455,1,7,8,1,0,2,3,2,11,6.7,N,0,0,demon-brooks-1,De'Mon Brooks,2013

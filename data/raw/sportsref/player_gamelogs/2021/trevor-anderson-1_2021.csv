@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2020-11-25,Wisconsin,,Eastern Illinois,REG (Non-Conf),W 77-67,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,3,3,3,0,0,0,1,0,1.1,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+2,61,2,2020-11-27,Wisconsin,,Arkansas–Pine Bluff,REG (Non-Conf),W 92-58,,21,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,0,4,4,1,2,0,2,3,9,8.1,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+3,62,3,2020-12-01,Wisconsin,,Green Bay,REG (Non-Conf),W 82-42,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,3,0,0,0,1,4,5.4,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+4,63,4,2020-12-04,Wisconsin,@,Marquette,REG (Non-Conf),L 65-67,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,0,2,2,0,0,1,1,0,0.7,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+5,64,5,2020-12-09,Wisconsin,,Rhode Island,REG (Non-Conf),W 73-62,,11,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,1,1,0,1,0,3,3.3,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+6,65,6,2020-12-15,Wisconsin,,Loyola Chicago,REG (Non-Conf),W 77-63,,15,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,0,0,1,0,5,3.7,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+7,66,7,2020-12-19,Wisconsin,,Louisville,REG (Non-Conf),W 85-48,,20,4,4,1.0,3,3,1.0,1,1,1.0,1.375,0,0,,0,0,0,3,0,0,0,2,11,11.1,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+8,67,8,2020-12-22,Wisconsin,,Nebraska,REG (Conf),W 67-53,,16,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,0,0,3,3.7,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+9,68,9,2020-12-25,Wisconsin,@,Michigan State,REG (Conf),W 85-76,,21,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,2,3,2,0,0,0,0,2,4.0,A,1,1,trevor-anderson-1,Trevor Anderson,2021
+10,69,10,2020-12-28,Wisconsin,,Maryland,REG (Conf),L 64-70,,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,1,0,0,1,0,6,5.1,H,0,1,trevor-anderson-1,Trevor Anderson,2021
+11,70,11,2020-12-31,Wisconsin,,Minnesota,REG (Conf),W 71-59,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,2,2,-0.5,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+12,71,12,2021-01-07,Wisconsin,,Indiana,REG (Conf),W 80-73 (2OT),,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,0.3,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+13,72,13,2021-01-12,Wisconsin,@,Michigan,REG (Conf),L 54-77,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,1,2,3,1,0,0,0,3,5.4,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+14,73,14,2021-01-15,Wisconsin,@,Rutgers,REG (Conf),W 60-54,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.0,A,1,1,trevor-anderson-1,Trevor Anderson,2021
+15,74,15,2021-01-20,Wisconsin,,Northwestern,REG (Conf),W 68-52,,10,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,0,0,0,0,0,4,3.3,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+16,75,16,2021-01-23,Wisconsin,,Ohio State,REG (Conf),L 62-74,,11,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,0,0,1,0,0,0,1,3,2.3,H,0,1,trevor-anderson-1,Trevor Anderson,2021
+17,76,17,2021-01-27,Wisconsin,@,Maryland,REG (Conf),W 61-55,,17,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,2,0,0,0,2,3,2.2,A,1,1,trevor-anderson-1,Trevor Anderson,2021
+18,77,18,2021-01-30,Wisconsin,@,Penn State,REG (Conf),L 71-81,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,2,0,0,0,0,0,1.3,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+19,78,19,2021-02-02,Wisconsin,,Penn State,REG (Conf),W 72-56,,12,3,5,0.6,0,0,,3,5,0.6,0.6,3,3,1.0,0,0,0,3,0,0,1,3,9,6.6,H,1,1,trevor-anderson-1,Trevor Anderson,2021
+20,79,20,2021-02-06,Wisconsin,@,Illinois,REG (Conf),L 60-75,,19,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,2,2,0,0,0,0,1,3,2.5,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+21,80,21,2021-02-10,Wisconsin,@,Nebraska,REG (Conf),W 61-48,,18,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,0,8,7.0,A,1,1,trevor-anderson-1,Trevor Anderson,2021
+22,81,22,2021-02-14,Wisconsin,,Michigan,REG (Conf),L 59-67,,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,4,1,0,1,2,0,2.2,H,0,1,trevor-anderson-1,Trevor Anderson,2021
+23,82,25,2021-02-27,Wisconsin,,Illinois,REG (Conf),L 69-74,,18,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,2,0.0,1,0,1,1,0,0,1,1,5,2.9,H,0,1,trevor-anderson-1,Trevor Anderson,2021
+24,83,26,2021-03-02,Wisconsin,@,Purdue,REG (Conf),L 69-73,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,1,2,-0.4,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+25,84,27,2021-03-07,Wisconsin,@,Iowa,REG (Conf),L 73-77,,17,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,2,2,0,0,0,0,1,2,-1.6,A,0,1,trevor-anderson-1,Trevor Anderson,2021
+26,85,28,2021-03-11,Wisconsin,N,Penn State,CTOURN,W 75-74,,15,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,1,2,0,0,0,1,1,4,3.3,N,1,0,trevor-anderson-1,Trevor Anderson,2021
+27,86,29,2021-03-12,Wisconsin,N,Iowa,CTOURN,L 57-62,,12,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,1,1,1,0,0,0,0,0,-1.1,N,0,0,trevor-anderson-1,Trevor Anderson,2021
+28,87,30,2021-03-19,Wisconsin,N,North Carolina,ROUND-64,W 85-62,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,1,0,0,0,0,2.0,N,1,0,trevor-anderson-1,Trevor Anderson,2021
+29,88,31,2021-03-21,Wisconsin,N,Baylor,ROUND-32,L 63-76,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,trevor-anderson-1,Trevor Anderson,2021

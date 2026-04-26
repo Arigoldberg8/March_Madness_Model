@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2023-11-08,Florida Atlantic,N,Loyola Chicago,REG (Non-Conf),W 75-62,,16,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,2,2,3,0,0,0,3,3,3.5,N,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+2,95,2,2023-11-14,Florida Atlantic,,Eastern Michigan,REG (Non-Conf),W 100-57,,20,6,8,0.75,0,0,,6,8,0.75,0.75,1,2,0.5,2,2,4,3,0,1,1,2,13,12.4,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+3,96,3,2023-11-18,Florida Atlantic,,Bryant,REG (Non-Conf),L 52-61,,15,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,1,4,5,0,0,1,3,2,11,6.1,H,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+4,97,6,2023-11-26,Florida Atlantic,N,Virginia Tech,REG (Non-Conf),W 84-50,,13,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,1,2,1,0,1,0,1,5,5.3,N,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+5,98,7,2023-11-30,Florida Atlantic,,Liberty,REG (Non-Conf),W 83-58,,15,3,5,0.6,0,0,,3,5,0.6,0.6,3,5,0.6,5,4,9,1,1,1,1,4,9,10.4,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+6,99,8,2023-12-02,Florida Atlantic,,College of Charleston,REG (Non-Conf),W 90-74,,15,4,4,1.0,0,0,,4,4,1.0,1.0,7,12,0.583,2,6,8,3,0,0,1,1,15,15.7,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+7,100,9,2023-12-05,Florida Atlantic,N,Illinois,REG (Non-Conf),L 89-98,,13,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,1,0,1,0,0,0,3,2,5,0.2,N,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+8,101,10,2023-12-13,Florida Atlantic,,Florida International,REG (Non-Conf),W 94-60,,14,3,3,1.0,0,0,,3,3,1.0,1.0,0,4,0.0,0,4,4,3,0,0,3,2,6,3.0,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+9,102,11,2023-12-16,Florida Atlantic,N,St. Bonaventure,REG (Non-Conf),W 64-54,,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,3,3,6,2,0,0,0,3,6,6.4,N,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+10,103,12,2023-12-23,Florida Atlantic,N,Arizona,REG (Non-Conf),W 96-95 (2OT),,22,2,4,0.5,0,0,,2,4,0.5,0.5,4,6,0.667,1,2,3,3,0,0,2,4,8,5.0,N,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+11,104,13,2023-12-30,Florida Atlantic,@,Florida Gulf Coast,REG (Non-Conf),L 68-72,,17,2,4,0.5,0,0,,2,4,0.5,0.5,3,6,0.5,0,5,5,1,0,0,2,0,7,4.0,A,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+12,105,14,2024-01-02,Florida Atlantic,,East Carolina,REG (Conf),W 79-64,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,2,0,1,0,2,4,5.0,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+13,106,15,2024-01-06,Florida Atlantic,@,Charlotte,REG (Conf),L 68-70,,16,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,1,4,5,0,1,0,2,0,6,4.1,A,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+14,107,16,2024-01-11,Florida Atlantic,@,Tulane,REG (Conf),W 85-84,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,1,1,0,0,1,1,0,0,-1.5,A,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+15,108,17,2024-01-14,Florida Atlantic,,UAB,REG (Conf),W 86-73,,2,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,2,0,-1.1,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+16,109,25,2024-02-15,Florida Atlantic,,Temple,REG (Conf),W 80-68,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,1,3,2,0,1,1,1,2,4.1,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+17,110,26,2024-02-18,Florida Atlantic,@,South Florida,REG (Conf),L 86-90,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,1,0,0,0,0,0,0.3,A,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+18,111,27,2024-02-22,Florida Atlantic,,SMU,REG (Conf),W 80-70,,12,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,2,0,2,2,0,0,1,2,5,3.3,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+19,112,28,2024-02-25,Florida Atlantic,@,Memphis,REG (Conf),L 74-78,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-0.5,A,0,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+20,113,29,2024-03-02,Florida Atlantic,,Tulane,REG (Conf),W 79-73,,7,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,1,0,0,0,2,2,0.2,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+21,114,30,2024-03-06,Florida Atlantic,@,North Texas,REG (Conf),W 80-76,,13,2,3,0.667,0,0,,2,3,0.667,0.667,5,5,1.0,1,0,1,0,0,0,2,2,9,5.6,A,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+22,115,31,2024-03-09,Florida Atlantic,,Memphis,REG (Conf),W 92-84,,11,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,2,0,0,3,1,0,-3.1,H,1,1,giancarlo-rosado-1,Giancarlo Rosado,2024
+23,116,32,2024-03-15,Florida Atlantic,N,North Texas,CTOURN,W 77-71,,9,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,2,1,-0.9,N,1,0,giancarlo-rosado-1,Giancarlo Rosado,2024
+24,117,33,2024-03-16,Florida Atlantic,N,Temple,CTOURN,L 73-74,,10,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,1,1,1,1,2,3,3.2,N,0,0,giancarlo-rosado-1,Giancarlo Rosado,2024
+25,118,34,2024-03-22,Florida Atlantic,N,Northwestern,ROUND-64,L 65-77 (OT),,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,1,0,0,1,0,0,-0.4,N,0,0,giancarlo-rosado-1,Giancarlo Rosado,2024

@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,1,2024-11-06,Auburn,,Vermont,REG (Non-Conf),W 94-43,*,17,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,3,3,2,0,1,2,3,11,6.8,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+2,83,2,2024-11-09,Auburn,N,Houston,REG (Non-Conf),W 74-69,*,18,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,2,2,2,1,0,2,4,7,5.1,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+3,84,3,2024-11-13,Auburn,,Kent State,REG (Non-Conf),W 79-56,*,19,3,7,0.429,0,2,0.0,3,5,0.6,0.429,6,8,0.75,0,2,2,1,2,0,1,2,12,9.0,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+4,85,4,2024-11-18,Auburn,,North Alabama,REG (Non-Conf),W 102-69,*,24,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,0,2,2,2,1,0,2,1,12,8.9,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+5,86,5,2024-11-25,Auburn,N,Iowa State,REG (Non-Conf),W 83-81,*,22,5,8,0.625,3,4,0.75,2,4,0.5,0.813,5,5,1.0,0,3,3,1,2,0,3,4,18,13.4,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+6,87,6,2024-11-26,Auburn,N,North Carolina,REG (Non-Conf),W 85-72,*,28,4,8,0.5,2,6,0.333,2,2,1.0,0.625,4,4,1.0,1,6,7,0,1,0,0,3,14,12.3,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+7,88,7,2024-11-27,Auburn,N,Memphis,REG (Non-Conf),W 90-76,*,25,5,6,0.833,1,2,0.5,4,4,1.0,0.917,3,3,1.0,2,1,3,5,0,0,3,2,14,13.2,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+8,89,8,2024-12-04,Auburn,@,Duke,REG (Non-Conf),L 78-84,*,30,5,8,0.625,2,2,1.0,3,6,0.5,0.75,5,5,1.0,1,1,2,3,0,1,2,0,17,15.2,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+9,90,9,2024-12-08,Auburn,,Richmond,REG (Non-Conf),W 98-54,*,19,5,8,0.625,1,3,0.333,4,5,0.8,0.688,2,2,1.0,1,5,6,5,1,1,1,1,13,15.4,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+10,91,10,2024-12-14,Auburn,N,Ohio State,REG (Non-Conf),W 91-53,*,22,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,4,1.0,1,3,4,0,0,0,0,2,8,4.7,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+11,92,11,2024-12-17,Auburn,,Georgia State,REG (Non-Conf),W 100-59,*,25,4,11,0.364,0,4,0.0,4,7,0.571,0.364,11,11,1.0,2,2,4,6,1,0,1,3,19,17.9,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+12,93,12,2024-12-21,Auburn,N,Purdue,REG (Non-Conf),W 87-69,*,23,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,1,4,5,6,4,2,1,3,8,14.0,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+13,94,13,2024-12-30,Auburn,,Monmouth,REG (Non-Conf),W 87-58,*,22,3,8,0.375,3,8,0.375,0,0,,0.563,4,4,1.0,1,2,3,4,1,0,0,1,13,13.3,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+14,95,14,2025-01-04,Auburn,,Missouri,REG (Conf),W 84-68,*,25,3,4,0.75,2,3,0.667,1,1,1.0,1.0,5,5,1.0,1,2,3,2,3,0,1,3,13,14.9,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+15,96,15,2025-01-07,Auburn,@,Texas,REG (Conf),W 87-82,*,28,4,8,0.5,1,3,0.333,3,5,0.6,0.563,7,8,0.875,0,5,5,3,1,2,2,2,16,14.8,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+16,97,16,2025-01-11,Auburn,@,South Carolina,REG (Conf),W 66-63,*,33,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,0,,1,4,5,1,2,1,1,2,8,6.8,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+17,98,17,2025-01-14,Auburn,,Mississippi State,REG (Conf),W 88-66,*,25,8,11,0.727,3,5,0.6,5,6,0.833,0.864,1,2,0.5,0,2,2,1,1,2,2,3,20,15.6,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+18,99,18,2025-01-18,Auburn,@,Georgia,REG (Conf),W 70-68,*,31,5,16,0.313,3,6,0.5,2,10,0.2,0.406,0,0,,1,5,6,1,1,0,0,2,13,6.9,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+19,100,19,2025-01-25,Auburn,,Tennessee,REG (Conf),W 53-51,*,33,0,5,0.0,0,2,0.0,0,3,0.0,0.0,7,7,1.0,0,5,5,1,2,2,1,4,7,6.5,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+20,101,20,2025-01-29,Auburn,@,Louisiana State,REG (Conf),W 87-74,*,31,3,12,0.25,1,4,0.25,2,8,0.25,0.292,4,6,0.667,1,1,2,7,3,1,2,1,11,10.2,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+21,102,21,2025-02-01,Auburn,@,Ole Miss,REG (Conf),W 92-82,*,30,6,10,0.6,4,6,0.667,2,4,0.5,0.8,2,3,0.667,0,2,2,3,1,0,2,4,18,13.1,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+22,103,22,2025-02-04,Auburn,,Oklahoma,REG (Conf),W 98-70,*,20,5,11,0.455,1,5,0.2,4,6,0.667,0.5,4,5,0.8,1,1,2,1,1,0,1,5,15,8.6,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+23,104,23,2025-02-08,Auburn,,Florida,REG (Conf),L 81-90,*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,1,1.0,0,1,1,2,0,0,1,3,6,2.1,H,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+24,105,24,2025-02-11,Auburn,@,Vanderbilt,REG (Conf),W 80-68,,28,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,1,1,2,4,2,0,2,3,0,-1.6,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+25,106,25,2025-02-15,Auburn,@,Alabama,REG (Conf),W 94-85,,24,4,7,0.571,2,3,0.667,2,4,0.5,0.714,5,5,1.0,0,5,5,3,1,1,0,5,15,15.0,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+26,107,26,2025-02-19,Auburn,,Arkansas,REG (Conf),W 67-60,,25,4,8,0.5,1,5,0.2,3,3,1.0,0.563,6,6,1.0,0,3,3,0,0,0,3,2,15,8.1,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+27,108,27,2025-02-22,Auburn,,Georgia,REG (Conf),W 82-70,*,33,3,10,0.3,2,5,0.4,1,5,0.2,0.4,3,3,1.0,1,2,3,4,0,0,1,2,11,7.5,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+28,109,28,2025-02-26,Auburn,,Ole Miss,REG (Conf),W 106-76,*,29,8,12,0.667,4,5,0.8,4,7,0.571,0.833,2,4,0.5,0,3,3,1,1,2,1,3,22,17.8,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+29,110,29,2025-03-01,Auburn,@,Kentucky,REG (Conf),W 94-78,*,29,6,12,0.5,1,3,0.333,5,9,0.556,0.542,9,10,0.9,1,1,2,1,3,1,2,4,22,17.4,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+30,111,30,2025-03-04,Auburn,@,Texas A&M,REG (Conf),L 72-83,*,34,5,10,0.5,3,6,0.5,2,4,0.5,0.65,2,2,1.0,0,3,3,5,0,2,3,3,15,11.6,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+31,112,31,2025-03-08,Auburn,,Alabama,REG (Conf),L 91-93 (OT),*,17,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,3,1.0,0,2,2,3,1,0,1,4,7,4.0,H,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2025
+32,113,32,2025-03-14,Auburn,N,Ole Miss,CTOURN,W 62-57,,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,3,0.667,0,0,0,6,1,0,1,4,7,6.5,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+33,114,33,2025-03-15,Auburn,N,Tennessee,CTOURN,L 65-70,*,32,4,9,0.444,1,2,0.5,3,7,0.429,0.5,0,0,,0,3,3,3,0,1,0,4,9,6.4,N,0,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+34,115,34,2025-03-20,Auburn,N,Alabama State,ROUND-64,W 83-63,*,24,1,9,0.111,1,5,0.2,0,4,0.0,0.167,2,3,0.667,1,1,2,3,1,1,2,2,5,0.7,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+35,116,35,2025-03-22,Auburn,N,Creighton,ROUND-32,W 82-70,*,21,6,12,0.5,2,4,0.5,4,8,0.5,0.583,3,4,0.75,0,2,2,1,0,0,0,0,17,11.9,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+36,117,36,2025-03-28,Auburn,N,Michigan,ROUND-16,W 78-65,*,25,2,9,0.222,0,3,0.0,2,6,0.333,0.222,2,2,1.0,1,1,2,2,2,1,3,4,6,1.0,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+37,118,37,2025-03-30,Auburn,N,Michigan State,ROUND-8,W 70-64,*,32,2,10,0.2,2,8,0.25,0,2,0.0,0.3,0,0,,0,2,2,5,1,0,0,0,6,4.9,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2025
+38,119,38,2025-04-05,Auburn,N,Florida,NATIONAL-SEMI,L 73-79,*,29,6,10,0.6,4,7,0.571,2,3,0.667,0.8,2,2,1.0,0,1,1,2,4,1,3,3,18,15.6,N,0,0,chad-baker-mazara-1,Chad Baker-Mazara,2025

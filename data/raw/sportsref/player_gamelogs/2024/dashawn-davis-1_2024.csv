@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,59,1,2023-11-08,Mississippi State,N,Arizona State,REG (Non-Conf),W 71-56,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,5,6,0.833,0,0,0,2,1,0,2,2,10,6.5,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+2,60,2,2023-11-11,Mississippi State,,UT Martin,REG (Non-Conf),W 87-63,*,21,3,10,0.3,2,7,0.286,1,3,0.333,0.4,1,2,0.5,0,2,2,4,1,0,1,1,9,5.8,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+3,61,3,2023-11-14,Mississippi State,,North Alabama,REG (Non-Conf),W 81-54,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,0,0,4,1,0,2,2,4,1.9,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+4,62,4,2023-11-18,Mississippi State,N,Washington State,REG (Non-Conf),W 76-64,*,28,5,9,0.556,0,2,0.0,5,7,0.714,0.556,2,2,1.0,0,2,2,4,3,0,1,0,12,13.1,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+5,63,5,2023-11-19,Mississippi State,N,Northwestern,REG (Non-Conf),W 66-57,*,16,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,0,0,0,1,0,0,3,2,11,4.6,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+6,64,6,2023-11-24,Mississippi State,,Nicholls State,REG (Non-Conf),W 74-61,*,24,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,0,2,2,4,1,0,2,1,5,2.2,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+7,65,7,2023-11-28,Mississippi State,@,Georgia Tech,REG (Non-Conf),L 59-67,*,22,3,10,0.3,1,4,0.25,2,6,0.333,0.35,5,6,0.833,1,2,3,1,3,0,4,3,12,5.6,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+8,66,8,2023-12-03,Mississippi State,,Southern,REG (Non-Conf),L 59-60,*,24,4,10,0.4,1,2,0.5,3,8,0.375,0.45,0,1,0.0,1,2,3,3,3,0,2,2,9,6.8,H,0,1,dashawn-davis-1,Dashawn Davis,2024
+9,67,9,2023-12-09,Mississippi State,N,Tulane,REG (Non-Conf),W 106-76,*,21,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,2,0.0,0,3,3,6,5,0,2,3,3,6.7,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+10,68,10,2023-12-13,Mississippi State,,Murray State,REG (Non-Conf),W 85-81,*,30,1,5,0.2,0,4,0.0,1,1,1.0,0.2,4,5,0.8,1,1,2,5,2,0,2,0,6,7.0,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+11,69,11,2023-12-17,Mississippi State,N,North Texas,REG (Non-Conf),W 72-54,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,4,4,4,2,1,1,1,4,5.8,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+12,70,12,2023-12-23,Mississippi State,N,Rutgers,REG (Non-Conf),W 70-60,*,32,4,10,0.4,2,4,0.5,2,6,0.333,0.5,3,4,0.75,0,1,1,7,4,0,0,1,13,16.0,N,1,1,dashawn-davis-1,Dashawn Davis,2024
+13,71,13,2023-12-31,Mississippi State,,Bethune-Cookman,REG (Non-Conf),W 85-62,*,22,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,0,0,2,1,0,2,1,12,8.4,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+14,72,14,2024-01-06,Mississippi State,@,South Carolina,REG (Conf),L 62-68,*,33,3,11,0.273,0,2,0.0,3,9,0.333,0.273,0,0,,0,5,5,1,0,0,1,1,6,0.3,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+15,73,15,2024-01-10,Mississippi State,,Tennessee,REG (Conf),W 77-72,*,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,5,5,4,1,0,2,0,5,4.5,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+16,74,16,2024-01-13,Mississippi State,,Alabama,REG (Conf),L 74-82,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,3,1,1,1,2,0,0.6,H,0,1,dashawn-davis-1,Dashawn Davis,2024
+17,75,17,2024-01-17,Mississippi State,@,Kentucky,REG (Conf),L 77-90,*,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,1,2,0,0,3,5,4.8,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+18,76,18,2024-01-20,Mississippi State,,Vanderbilt,REG (Conf),W 68-55,*,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,2,3,0,-2.9,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+19,77,19,2024-01-24,Mississippi State,@,Florida,REG (Conf),L 70-79,*,22,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,0,1,4,0,0,0,0,0,0.7,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+20,78,20,2024-01-27,Mississippi State,,Auburn,REG (Conf),W 64-58,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,0,0,2,1.3,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+21,79,21,2024-01-30,Mississippi State,@,Ole Miss,REG (Conf),L 82-86,,16,6,8,0.75,2,2,1.0,4,6,0.667,0.875,1,1,1.0,1,0,1,0,0,0,2,2,15,9.7,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+22,80,22,2024-02-03,Mississippi State,@,Alabama,REG (Conf),L 67-99,,26,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,3,3,3,0,0,2,1,2,-0.2,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+23,81,23,2024-02-07,Mississippi State,,Georgia,REG (Conf),W 75-62,,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,4,4,8,2,0,1,0,5,10.4,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+24,82,24,2024-02-10,Mississippi State,@,Missouri,REG (Conf),W 75-51,,24,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,1,2,0,2,2,3,0.1,A,1,1,dashawn-davis-1,Dashawn Davis,2024
+25,83,25,2024-02-17,Mississippi State,,Arkansas,REG (Conf),W 71-67,,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,3,3,0,2,0,1,0,4,2.8,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+26,84,26,2024-02-21,Mississippi State,,Ole Miss,REG (Conf),W 83-71,,25,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,0,1,1,3,3,0,1,3,4,5.5,H,1,1,dashawn-davis-1,Dashawn Davis,2024
+27,85,27,2024-02-24,Mississippi State,@,Louisiana State,REG (Conf),W 87-67,,18,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,1,0.0,1,2,3,3,0,0,1,1,6,4.9,A,1,1,dashawn-davis-1,Dashawn Davis,2024
+28,86,28,2024-02-27,Mississippi State,,Kentucky,REG (Conf),L 89-91,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,2,0,0,0,0,2,2.0,H,0,1,dashawn-davis-1,Dashawn Davis,2024
+29,87,29,2024-03-02,Mississippi State,@,Auburn,REG (Conf),L 63-78,,22,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,1,1,2,2,0,0,0,1,5,3.9,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+30,88,30,2024-03-06,Mississippi State,@,Texas A&M,REG (Conf),L 69-75,,33,5,8,0.625,4,5,0.8,1,3,0.333,0.875,1,2,0.5,1,0,1,2,4,0,1,1,15,15.7,A,0,1,dashawn-davis-1,Dashawn Davis,2024
+31,89,31,2024-03-09,Mississippi State,,South Carolina,REG (Conf),L 89-93 (OT),*,33,5,8,0.625,3,5,0.6,2,3,0.667,0.813,3,5,0.6,1,0,1,1,1,0,3,1,16,10.6,H,0,1,dashawn-davis-1,Dashawn Davis,2024
+32,90,32,2024-03-14,Mississippi State,N,Louisiana State,CTOURN,W 70-60,*,28,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,0,1,1,1,5,0,1,0,12,13.7,N,1,0,dashawn-davis-1,Dashawn Davis,2024
+33,91,33,2024-03-15,Mississippi State,N,Tennessee,CTOURN,W 73-56,*,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,1,1,1.0,0,2,2,2,3,0,0,1,7,6.5,N,1,0,dashawn-davis-1,Dashawn Davis,2024
+34,92,34,2024-03-16,Mississippi State,N,Auburn,CTOURN,L 66-73,*,20,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,0,2,2,0,2,0,0,4,4,1.5,N,0,0,dashawn-davis-1,Dashawn Davis,2024
+35,93,35,2024-03-21,Mississippi State,N,Michigan State,ROUND-64,L 51-69,*,25,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,0,1,1,3,0,0,2,0,4,1.0,N,0,0,dashawn-davis-1,Dashawn Davis,2024

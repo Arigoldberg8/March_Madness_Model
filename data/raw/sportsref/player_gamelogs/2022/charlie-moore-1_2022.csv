@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,118,1,2021-11-09,Miami (FL),,Canisius,REG (Non-Conf),W 77-67,*,36,5,11,0.455,0,3,0.0,5,8,0.625,0.455,3,4,0.75,1,3,4,4,3,0,5,2,13,8.5,H,1,1,charlie-moore-1,Charlie Moore,2022
+2,119,2,2021-11-13,Miami (FL),,UCF,REG (Non-Conf),L 89-95,*,27,1,8,0.125,1,6,0.167,0,2,0.0,0.188,1,2,0.5,0,1,1,3,0,0,2,3,4,-2.4,H,0,1,charlie-moore-1,Charlie Moore,2022
+3,120,3,2021-11-16,Miami (FL),@,Florida Atlantic,REG (Non-Conf),W 68-66,*,27,3,10,0.3,0,2,0.0,3,8,0.375,0.3,2,3,0.667,0,2,2,1,1,0,3,0,8,1.1,A,1,1,charlie-moore-1,Charlie Moore,2022
+4,121,4,2021-11-21,Miami (FL),,Florida A&M,REG (Non-Conf),W 86-59,*,29,6,10,0.6,5,7,0.714,1,3,0.333,0.85,3,4,0.75,0,1,1,4,3,0,2,2,20,18.3,H,1,1,charlie-moore-1,Charlie Moore,2022
+5,122,5,2021-11-25,Miami (FL),N,Dayton,REG (Non-Conf),L 60-76,*,27,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,0,2,2,2,3,0,1,3,2,0.3,N,0,1,charlie-moore-1,Charlie Moore,2022
+6,123,6,2021-11-26,Miami (FL),N,North Texas,REG (Non-Conf),W 69-63,*,34,6,9,0.667,2,3,0.667,4,6,0.667,0.778,2,2,1.0,0,1,1,3,1,1,3,3,16,12.0,N,1,1,charlie-moore-1,Charlie Moore,2022
+7,124,7,2021-11-28,Miami (FL),N,Alabama,REG (Non-Conf),L 64-96,*,29,5,11,0.455,2,4,0.5,3,7,0.429,0.545,0,0,,0,1,1,1,1,0,3,4,12,3.7,N,0,1,charlie-moore-1,Charlie Moore,2022
+8,125,8,2021-12-01,Miami (FL),@,Penn State,REG (Non-Conf),W 63-58,*,29,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,2,2,4,1,0,0,3,12,10.2,A,1,1,charlie-moore-1,Charlie Moore,2022
+9,126,9,2021-12-04,Miami (FL),,Clemson,REG (Conf),W 80-75,*,35,3,9,0.333,1,3,0.333,2,6,0.333,0.389,1,2,0.5,0,2,2,5,1,2,2,2,8,6.2,H,1,1,charlie-moore-1,Charlie Moore,2022
+10,127,10,2021-12-08,Miami (FL),,Lipscomb,REG (Non-Conf),W 76-59,*,29,4,12,0.333,0,3,0.0,4,9,0.444,0.333,0,0,,0,6,6,4,0,0,2,1,8,3.4,H,1,1,charlie-moore-1,Charlie Moore,2022
+11,128,11,2021-12-12,Miami (FL),N,Fordham,REG (Non-Conf),W 72-66,*,38,7,13,0.538,2,6,0.333,5,7,0.714,0.615,2,2,1.0,0,7,7,2,3,0,0,1,18,17.8,N,1,1,charlie-moore-1,Charlie Moore,2022
+12,129,12,2021-12-20,Miami (FL),,Stetson,REG (Non-Conf),W 82-72,*,31,3,10,0.3,2,6,0.333,1,4,0.25,0.4,1,2,0.5,1,3,4,8,3,0,0,5,9,11.0,H,1,1,charlie-moore-1,Charlie Moore,2022
+13,130,13,2021-12-29,Miami (FL),,NC State,REG (Conf),W 91-83,*,29,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,0,1,1,4,3,0,2,1,7,5.9,H,1,1,charlie-moore-1,Charlie Moore,2022
+14,131,14,2022-01-01,Miami (FL),,Wake Forest,REG (Conf),W 92-84,*,33,6,7,0.857,3,3,1.0,3,4,0.75,1.071,3,4,0.75,0,3,3,7,1,0,1,1,18,20.5,H,1,1,charlie-moore-1,Charlie Moore,2022
+15,132,15,2022-01-05,Miami (FL),,Syracuse,REG (Conf),W 88-87,*,37,8,14,0.571,6,10,0.6,2,4,0.5,0.786,3,4,0.75,0,5,5,6,1,1,1,4,25,22.8,H,1,1,charlie-moore-1,Charlie Moore,2022
+16,133,16,2022-01-08,Miami (FL),@,Duke,REG (Conf),W 76-74,*,34,7,13,0.538,1,4,0.25,6,9,0.667,0.577,3,4,0.75,0,3,3,2,7,0,1,4,18,18.0,A,1,1,charlie-moore-1,Charlie Moore,2022
+17,134,17,2022-01-11,Miami (FL),@,Florida State,REG (Conf),L 64-65,*,37,8,12,0.667,4,5,0.8,4,7,0.571,0.833,0,1,0.0,1,2,3,6,3,0,2,5,20,18.9,A,0,1,charlie-moore-1,Charlie Moore,2022
+18,135,18,2022-01-18,Miami (FL),,North Carolina,REG (Conf),W 85-57,*,26,2,8,0.25,0,3,0.0,2,5,0.4,0.25,3,4,0.75,0,3,3,4,1,0,1,3,7,4.3,H,1,1,charlie-moore-1,Charlie Moore,2022
+19,136,19,2022-01-22,Miami (FL),,Florida State,REG (Conf),L 60-61,*,37,5,13,0.385,0,3,0.0,5,10,0.5,0.385,2,3,0.667,1,2,3,2,0,1,4,2,12,3.1,H,0,1,charlie-moore-1,Charlie Moore,2022
+20,137,20,2022-01-26,Miami (FL),@,Virginia Tech,REG (Conf),W 78-75,*,38,5,12,0.417,3,6,0.5,2,6,0.333,0.542,0,0,,0,2,2,6,5,0,2,3,13,13.2,A,1,1,charlie-moore-1,Charlie Moore,2022
+21,138,21,2022-01-29,Miami (FL),@,Georgia Tech,REG (Conf),W 73-62,*,25,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,1,3,4,3,4,0,4,5,12,8.7,A,1,1,charlie-moore-1,Charlie Moore,2022
+22,139,22,2022-02-02,Miami (FL),,Notre Dame,REG (Conf),L 64-68,*,36,5,15,0.333,2,8,0.25,3,7,0.429,0.4,0,0,,0,4,4,7,3,0,2,2,12,9.8,H,0,1,charlie-moore-1,Charlie Moore,2022
+23,140,23,2022-02-05,Miami (FL),@,Virginia,REG (Conf),L 58-71,*,36,8,13,0.615,1,4,0.25,7,9,0.778,0.654,0,0,,1,0,1,2,1,0,4,2,17,9.4,A,0,1,charlie-moore-1,Charlie Moore,2022
+24,141,24,2022-02-09,Miami (FL),,Georgia Tech,REG (Conf),W 79-70,*,25,5,6,0.833,1,2,0.5,4,4,1.0,0.917,2,3,0.667,0,1,1,5,2,0,1,4,13,13.6,H,1,1,charlie-moore-1,Charlie Moore,2022
+25,142,25,2022-02-12,Miami (FL),@,Wake Forest,REG (Conf),W 76-72,*,26,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,0,1,1,3,2,0,1,3,3,1.4,A,1,1,charlie-moore-1,Charlie Moore,2022
+26,143,26,2022-02-16,Miami (FL),@,Louisville,REG (Conf),W 70-63,*,36,5,13,0.385,3,7,0.429,2,6,0.333,0.5,2,2,1.0,0,2,2,5,3,0,3,1,15,11.6,A,1,1,charlie-moore-1,Charlie Moore,2022
+27,144,27,2022-02-19,Miami (FL),,Virginia,REG (Conf),L 71-74,*,25,5,11,0.455,2,5,0.4,3,6,0.5,0.545,2,2,1.0,1,0,1,4,0,0,2,4,14,8.2,H,0,1,charlie-moore-1,Charlie Moore,2022
+28,145,28,2022-02-22,Miami (FL),@,Pittsburgh,REG (Conf),W 85-64,*,32,7,10,0.7,2,5,0.4,5,5,1.0,0.8,3,4,0.75,1,2,3,5,1,0,1,2,19,18.4,A,1,1,charlie-moore-1,Charlie Moore,2022
+29,146,29,2022-02-26,Miami (FL),,Virginia Tech,REG (Conf),L 70-71,*,37,4,10,0.4,1,3,0.333,3,7,0.429,0.45,3,4,0.75,0,1,1,9,3,0,4,4,12,10.2,H,0,1,charlie-moore-1,Charlie Moore,2022
+30,147,30,2022-03-02,Miami (FL),@,Boston College,REG (Conf),W 81-70,*,34,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,1,0,1,5,1,0,3,1,8,5.8,A,1,1,charlie-moore-1,Charlie Moore,2022
+31,148,31,2022-03-05,Miami (FL),@,Syracuse,REG (Conf),W 75-72,*,36,5,14,0.357,1,6,0.167,4,8,0.5,0.393,0,1,0.0,0,3,3,8,2,0,1,3,11,9.1,A,1,1,charlie-moore-1,Charlie Moore,2022
+32,149,32,2022-03-10,Miami (FL),N,Boston College,CTOURN,W 71-69 (OT),*,37,7,14,0.5,1,5,0.2,6,9,0.667,0.536,0,0,,1,3,4,6,1,0,3,4,15,10.2,N,1,0,charlie-moore-1,Charlie Moore,2022
+33,150,33,2022-03-11,Miami (FL),N,Duke,CTOURN,L 76-80,*,39,6,12,0.5,3,6,0.5,3,6,0.5,0.625,0,0,,0,1,1,8,1,0,1,3,15,13.7,N,0,0,charlie-moore-1,Charlie Moore,2022
+34,151,34,2022-03-18,Miami (FL),N,Southern California,ROUND-64,W 68-66,*,36,5,11,0.455,1,4,0.25,4,7,0.571,0.5,5,6,0.833,0,3,3,4,4,0,2,3,16,14.4,N,1,0,charlie-moore-1,Charlie Moore,2022
+35,152,35,2022-03-20,Miami (FL),N,Auburn,ROUND-32,W 79-61,*,36,4,8,0.5,2,3,0.667,2,5,0.4,0.625,5,7,0.714,1,8,9,8,3,0,2,2,15,19.1,N,1,0,charlie-moore-1,Charlie Moore,2022
+36,153,36,2022-03-25,Miami (FL),N,Iowa State,ROUND-16,W 70-56,*,38,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,1,1,2,9,1,0,3,3,7,6.3,N,1,0,charlie-moore-1,Charlie Moore,2022
+37,154,37,2022-03-27,Miami (FL),N,Kansas,ROUND-8,L 50-76,*,26,2,9,0.222,0,3,0.0,2,6,0.333,0.222,1,2,0.5,0,1,1,2,2,0,3,2,5,-1.0,N,0,0,charlie-moore-1,Charlie Moore,2022

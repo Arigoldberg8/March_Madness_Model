@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,48,1,2021-11-09,St. Mary's (CA),,Prairie View A&M,REG (Non-Conf),W 87-68,*,31,8,16,0.5,6,13,0.462,2,3,0.667,0.688,0,0,,1,5,6,0,3,0,2,3,22,16.0,H,1,1,alex-ducas-1,Alex Ducas,2022
+2,49,2,2021-11-12,St. Mary's (CA),,Texas Southern,REG (Non-Conf),W 67-58,*,33,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,5,5,0,1,0,3,2,5,-0.4,H,1,1,alex-ducas-1,Alex Ducas,2022
+3,50,3,2021-11-15,St. Mary's (CA),,Southern Utah,REG (Non-Conf),W 70-51,*,27,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,2,2,4,0,0,0,1,2,12,5.8,H,1,1,alex-ducas-1,Alex Ducas,2022
+4,51,4,2021-11-17,St. Mary's (CA),,Bellarmine,REG (Non-Conf),W 73-64,*,33,2,10,0.2,2,7,0.286,0,3,0.0,0.3,0,0,,1,2,3,0,0,0,0,1,6,0.7,H,1,1,alex-ducas-1,Alex Ducas,2022
+5,52,5,2021-11-22,St. Mary's (CA),N,Notre Dame,REG (Non-Conf),W 62-59,*,34,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,1,7,8,1,0,0,1,2,4,0.2,N,1,1,alex-ducas-1,Alex Ducas,2022
+6,53,6,2021-11-23,St. Mary's (CA),N,Oregon,REG (Non-Conf),W 62-50,*,35,4,9,0.444,4,9,0.444,0,0,,0.667,0,0,,0,5,5,1,1,0,1,2,12,8.7,N,1,1,alex-ducas-1,Alex Ducas,2022
+7,54,7,2021-11-24,St. Mary's (CA),N,Wisconsin,REG (Non-Conf),L 55-61,*,38,4,9,0.444,2,5,0.4,2,4,0.5,0.556,3,4,0.75,1,2,3,1,0,0,0,2,13,9.1,N,0,1,alex-ducas-1,Alex Ducas,2022
+8,55,8,2021-11-29,St. Mary's (CA),,UC Riverside,REG (Non-Conf),W 67-50,*,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,4,4,2,0,0,2,0,0,-1.5,H,1,1,alex-ducas-1,Alex Ducas,2022
+9,56,9,2021-12-02,St. Mary's (CA),@,Utah State,REG (Non-Conf),W 60-58,*,35,5,12,0.417,1,5,0.2,4,7,0.571,0.458,2,2,1.0,0,3,3,2,3,0,1,1,13,10.5,A,1,1,alex-ducas-1,Alex Ducas,2022
+10,57,10,2021-12-04,St. Mary's (CA),@,Colorado State,REG (Non-Conf),L 58-74,*,24,2,9,0.222,2,7,0.286,0,2,0.0,0.333,2,2,1.0,0,3,3,0,0,0,1,2,8,1.6,A,0,1,alex-ducas-1,Alex Ducas,2022
+11,58,11,2021-12-11,St. Mary's (CA),,UC Santa Barbara,REG (Non-Conf),W 80-59,*,30,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,1,3,4,1,1,1,0,1,12,12.3,H,1,1,alex-ducas-1,Alex Ducas,2022
+12,59,12,2021-12-14,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 76-39,*,24,2,7,0.286,2,6,0.333,0,1,0.0,0.429,2,2,1.0,0,2,2,1,1,2,0,1,8,7.2,H,1,1,alex-ducas-1,Alex Ducas,2022
+13,60,13,2021-12-17,St. Mary's (CA),N,San Diego State,REG (Non-Conf),L 53-63,*,30,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,1,5,6,0,0,0,1,3,5,1.2,N,0,1,alex-ducas-1,Alex Ducas,2022
+14,61,14,2021-12-22,St. Mary's (CA),,Missouri State,REG (Non-Conf),W 75-58,*,34,3,9,0.333,3,6,0.5,0,3,0.0,0.5,0,2,0.0,1,3,4,2,0,0,2,1,9,3.7,H,1,1,alex-ducas-1,Alex Ducas,2022
+15,62,15,2021-12-28,St. Mary's (CA),,Yale,REG (Non-Conf),W 87-60,*,23,4,7,0.571,2,5,0.4,2,2,1.0,0.714,2,2,1.0,1,1,2,0,1,0,3,1,12,7.3,H,1,1,alex-ducas-1,Alex Ducas,2022
+16,63,16,2022-01-08,St. Mary's (CA),@,Brigham Young,REG (Conf),L 43-52,*,23,4,7,0.571,2,2,1.0,2,5,0.4,0.714,0,0,,0,2,2,0,0,0,1,2,10,5.5,A,0,1,alex-ducas-1,Alex Ducas,2022
+17,64,17,2022-01-13,St. Mary's (CA),@,Pepperdine,REG (Conf),W 77-62,*,29,4,11,0.364,2,7,0.286,2,4,0.5,0.455,2,3,0.667,0,3,3,2,0,0,0,2,12,7.0,A,1,1,alex-ducas-1,Alex Ducas,2022
+18,65,18,2022-01-20,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-65,*,31,4,7,0.571,3,4,0.75,1,3,0.333,0.786,6,6,1.0,0,4,4,1,3,0,2,3,17,15.4,H,1,1,alex-ducas-1,Alex Ducas,2022
+19,66,19,2022-01-22,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 83-51,*,25,9,14,0.643,3,6,0.5,6,8,0.75,0.75,1,1,1.0,0,0,0,0,2,1,1,2,22,16.7,A,1,1,alex-ducas-1,Alex Ducas,2022
+20,67,20,2022-01-27,St. Mary's (CA),@,San Francisco,REG (Conf),W 72-70,*,36,6,12,0.5,1,2,0.5,5,10,0.5,0.542,0,0,,1,3,4,1,2,0,1,0,13,10.3,A,1,1,alex-ducas-1,Alex Ducas,2022
+21,68,21,2022-01-29,St. Mary's (CA),,Pepperdine,REG (Conf),W 81-57,*,16,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,0,1,1,0,1,0,2,3,10,5.5,H,1,1,alex-ducas-1,Alex Ducas,2022
+22,69,22,2022-02-03,St. Mary's (CA),@,Portland,REG (Conf),W 75-54,*,33,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,1,6,7,5,2,1,1,0,6,9.6,A,1,1,alex-ducas-1,Alex Ducas,2022
+23,70,23,2022-02-05,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 71-60,*,38,7,14,0.5,5,10,0.5,2,4,0.5,0.679,6,6,1.0,0,1,1,1,1,0,2,3,25,16.8,H,1,1,alex-ducas-1,Alex Ducas,2022
+24,71,24,2022-02-08,St. Mary's (CA),@,Santa Clara,REG (Conf),L 72-77,*,35,3,11,0.273,2,3,0.667,1,8,0.125,0.364,0,1,0.0,0,1,1,1,0,0,1,1,8,0.7,A,0,1,alex-ducas-1,Alex Ducas,2022
+25,72,25,2022-02-10,St. Mary's (CA),,San Diego,REG (Conf),W 86-57,*,22,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,0,,0,5,5,2,0,0,2,3,12,9.5,H,1,1,alex-ducas-1,Alex Ducas,2022
+26,73,26,2022-02-12,St. Mary's (CA),@,Gonzaga,REG (Conf),L 58-74,*,37,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,5,5,1,0,1,1,2,12,8.1,A,0,1,alex-ducas-1,Alex Ducas,2022
+27,74,27,2022-02-17,St. Mary's (CA),,San Francisco,REG (Conf),W 69-64,*,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-0.5,H,1,1,alex-ducas-1,Alex Ducas,2022
+28,75,28,2022-02-19,St. Mary's (CA),,Brigham Young,REG (Conf),W 69-64,*,36,3,12,0.25,1,8,0.125,2,4,0.5,0.292,2,4,0.5,1,4,5,2,2,0,1,2,9,4.5,H,1,1,alex-ducas-1,Alex Ducas,2022
+29,76,29,2022-02-24,St. Mary's (CA),@,San Diego,REG (Conf),W 60-46,*,31,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,1,4,5,0,2,0,2,2,4,2.0,A,1,1,alex-ducas-1,Alex Ducas,2022
+30,77,30,2022-02-26,St. Mary's (CA),,Gonzaga,REG (Conf),W 67-57,*,33,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,0,3,3,0,2,0,0,0,10,9.2,H,1,1,alex-ducas-1,Alex Ducas,2022
+31,78,31,2022-03-07,St. Mary's (CA),N,Santa Clara,CTOURN,W 75-72,*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,5,0.6,1,3,4,1,0,1,0,3,5,2.9,N,1,0,alex-ducas-1,Alex Ducas,2022
+32,79,32,2022-03-08,St. Mary's (CA),N,Gonzaga,CTOURN,L 69-82,*,35,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,0,3,3,1,1,0,2,1,10,6.5,N,0,0,alex-ducas-1,Alex Ducas,2022
+33,80,33,2022-03-17,St. Mary's (CA),N,Indiana,ROUND-64,W 82-53,*,30,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,0,4,4,1,2,0,1,0,13,10.9,N,1,0,alex-ducas-1,Alex Ducas,2022
+34,81,34,2022-03-19,St. Mary's (CA),N,UCLA,ROUND-32,L 56-72,*,37,4,12,0.333,3,9,0.333,1,3,0.333,0.458,0,0,,1,4,5,0,1,0,1,2,11,5.3,N,0,0,alex-ducas-1,Alex Ducas,2022

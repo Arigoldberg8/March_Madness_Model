@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2020-11-26,Louisiana State,N,SIU Edwardsville,REG (Non-Conf),W 94-81,*,13,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,2,2,0,-3.5,N,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+2,31,2,2020-11-28,Louisiana State,@,Saint Louis,REG (Non-Conf),L 81-85,*,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,0,0,0,1,0,0,0,1,4,2.2,A,0,1,aundre-hyatt-1,Aundre Hyatt,2021
+3,32,3,2020-11-30,Louisiana State,,Southeastern Louisiana,REG (Non-Conf),W 96-43,*,22,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,1,2,3,1,1,0,0,1,8,7.9,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+4,33,4,2020-12-06,Louisiana State,,Louisiana Tech,REG (Non-Conf),W 86-55,,6,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,1,2,0,0,0,0,0,4,4.7,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+5,34,5,2020-12-14,Louisiana State,,Sam Houston State,REG (Non-Conf),W 88-66,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,0,0,1,1,2,2,1.9,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+6,35,6,2020-12-26,Louisiana State,,Nicholls State,REG (Non-Conf),W 86-80,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,0,2,0.7,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+7,36,9,2021-01-06,Louisiana State,,Georgia,REG (Conf),W 94-92 (OT),,8,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,3,0,3,1,0,0,0,0,6,6.5,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+8,37,10,2021-01-09,Louisiana State,@,Ole Miss,REG (Conf),W 75-61,,17,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,1,0.0,0,5,5,0,0,0,0,0,4,3.1,A,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+9,38,11,2021-01-13,Louisiana State,,Arkansas,REG (Conf),W 92-76,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,3,4,0,1,0,0,1,5,5.9,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+10,39,12,2021-01-16,Louisiana State,,South Carolina,REG (Conf),W 85-80,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,2,3,0,0,0,0,0,2,1.5,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+11,40,13,2021-01-19,Louisiana State,,Alabama,REG (Conf),L 75-105,,12,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,0,0,0,0,0,6,5.0,H,0,1,aundre-hyatt-1,Aundre Hyatt,2021
+12,41,17,2021-02-03,Louisiana State,@,Alabama,REG (Conf),L 60-78,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,aundre-hyatt-1,Aundre Hyatt,2021
+13,42,18,2021-02-10,Louisiana State,@,Mississippi State,REG (Conf),W 94-80,*,18,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,1,0.0,1,2,3,0,0,0,0,1,7,5.2,A,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+14,43,19,2021-02-13,Louisiana State,,Tennessee,REG (Conf),W 78-65,*,27,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,8,8,1,0,0,0,3,8,7.9,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+15,44,20,2021-02-20,Louisiana State,,Auburn,REG (Conf),W 104-80,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,1,0.0,5,0,5,1,1,1,1,2,6,6.0,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+16,45,21,2021-02-23,Louisiana State,@,Georgia,REG (Conf),L 78-91,*,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,1,2,3,-0.2,A,0,1,aundre-hyatt-1,Aundre Hyatt,2021
+17,46,22,2021-02-27,Louisiana State,@,Arkansas,REG (Conf),L 75-83,*,24,2,9,0.222,2,7,0.286,0,2,0.0,0.333,0,0,,1,2,3,1,0,0,1,1,6,1.1,A,0,1,aundre-hyatt-1,Aundre Hyatt,2021
+18,47,23,2021-03-02,Louisiana State,,Vanderbilt,REG (Conf),W 83-68,*,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,2,4,0,0,0,0,0,4,4.7,H,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+19,48,24,2021-03-06,Louisiana State,@,Missouri,REG (Conf),W 86-80,*,11,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,1,2,0,-0.8,A,1,1,aundre-hyatt-1,Aundre Hyatt,2021
+20,49,25,2021-03-12,Louisiana State,N,Ole Miss,CTOURN,W 76-73,*,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,N,1,0,aundre-hyatt-1,Aundre Hyatt,2021
+21,50,26,2021-03-13,Louisiana State,N,Arkansas,CTOURN,W 78-71,*,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,aundre-hyatt-1,Aundre Hyatt,2021
+22,51,27,2021-03-14,Louisiana State,N,Alabama,CTOURN,L 79-80,*,33,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,4,4,8,0,0,1,0,1,8,8.6,N,0,0,aundre-hyatt-1,Aundre Hyatt,2021
+23,52,28,2021-03-20,Louisiana State,N,St. Bonaventure,ROUND-64,W 76-61,*,32,5,10,0.5,1,3,0.333,4,7,0.571,0.55,2,2,1.0,7,3,10,2,1,4,0,3,13,17.8,N,1,0,aundre-hyatt-1,Aundre Hyatt,2021
+24,53,29,2021-03-22,Louisiana State,N,Michigan,ROUND-32,L 78-86,*,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,1,3,2,3,0,0,2,2,5.6,N,0,0,aundre-hyatt-1,Aundre Hyatt,2021

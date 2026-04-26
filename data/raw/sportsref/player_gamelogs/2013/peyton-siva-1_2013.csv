@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2012-11-11,Louisville,,Manhattan,REG (Non-Conf),W 79-51,*,34,2,6,0.333,0,2,0.0,2,4,0.5,0.333,6,6,1.0,1,2,3,10,1,0,5,2,10,10.1,H,1,1,peyton-siva-1,Peyton Siva,2013
+2,106,2,2012-11-15,Louisville,,Samford,REG (Non-Conf),W 80-54,*,29,1,7,0.143,1,5,0.2,0,2,0.0,0.214,4,4,1.0,0,1,1,7,3,0,2,1,7,8.3,H,1,1,peyton-siva-1,Peyton Siva,2013
+3,107,3,2012-11-18,Louisville,,Miami (OH),REG (Non-Conf),W 80-39,*,23,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,10,4,0,2,1,6,13.3,H,1,1,peyton-siva-1,Peyton Siva,2013
+4,108,4,2012-11-22,Louisville,N,Northern Iowa,REG (Non-Conf),W 51-46,*,32,3,12,0.25,1,6,0.167,2,6,0.333,0.292,0,0,,0,3,3,1,2,1,4,1,7,-0.3,N,1,1,peyton-siva-1,Peyton Siva,2013
+5,109,5,2012-11-23,Louisville,N,Missouri,REG (Non-Conf),W 84-61,*,31,4,8,0.5,2,3,0.667,2,5,0.4,0.625,3,4,0.75,0,3,3,6,1,0,1,3,13,12.5,N,1,1,peyton-siva-1,Peyton Siva,2013
+6,110,6,2012-11-24,Louisville,N,Duke,REG (Non-Conf),L 71-76,*,34,8,15,0.533,1,2,0.5,7,13,0.538,0.567,2,3,0.667,0,2,2,4,6,0,6,2,19,13.9,N,0,1,peyton-siva-1,Peyton Siva,2013
+7,111,7,2012-12-01,Louisville,,Illinois State,REG (Non-Conf),W 69-66,*,30,7,13,0.538,4,9,0.444,3,4,0.75,0.692,2,3,0.667,0,1,1,4,1,0,2,4,20,13.8,H,1,1,peyton-siva-1,Peyton Siva,2013
+8,112,8,2012-12-04,Louisville,@,College of Charleston,REG (Non-Conf),W 80-38,*,26,5,10,0.5,0,2,0.0,5,8,0.625,0.5,2,2,1.0,1,1,2,3,5,0,2,0,12,13.1,A,1,1,peyton-siva-1,Peyton Siva,2013
+9,113,9,2012-12-08,Louisville,,Kansas City,REG (Non-Conf),W 99-47,*,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,0,0,6,1,0,1,3,4,5.3,H,1,1,peyton-siva-1,Peyton Siva,2013
+10,114,10,2012-12-15,Louisville,@,Memphis,REG (Non-Conf),W 87-78,*,34,5,10,0.5,0,1,0.0,5,9,0.556,0.5,9,12,0.75,1,3,4,7,0,1,3,4,19,15.4,A,1,1,peyton-siva-1,Peyton Siva,2013
+11,115,11,2012-12-19,Louisville,,Florida International,REG (Non-Conf),W 79-55,*,26,5,8,0.625,5,8,0.625,0,0,,0.938,0,0,,0,3,3,12,2,0,5,2,15,16.9,H,1,1,peyton-siva-1,Peyton Siva,2013
+12,116,12,2012-12-22,Louisville,N,Western Kentucky,REG (Non-Conf),W 78-55,*,29,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,1,1,2,5,2,0,1,5,5,4.7,N,1,1,peyton-siva-1,Peyton Siva,2013
+13,117,13,2012-12-29,Louisville,,Kentucky,REG (Non-Conf),W 80-77,*,31,6,11,0.545,2,4,0.5,4,7,0.571,0.636,5,5,1.0,1,1,2,1,1,0,3,5,19,11.4,H,1,1,peyton-siva-1,Peyton Siva,2013
+14,118,14,2013-01-02,Louisville,,Providence,REG (Conf),W 80-62,*,32,2,6,0.333,0,2,0.0,2,4,0.5,0.333,6,6,1.0,1,2,3,8,1,0,1,4,10,11.9,H,1,1,peyton-siva-1,Peyton Siva,2013
+15,119,15,2013-01-09,Louisville,@,Seton Hall,REG (Conf),W 73-58,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,3,1.0,0,4,4,7,4,0,3,3,7,9.5,A,1,1,peyton-siva-1,Peyton Siva,2013
+16,120,16,2013-01-12,Louisville,,South Florida,REG (Conf),W 64-38,*,32,7,11,0.636,3,5,0.6,4,6,0.667,0.773,0,0,,1,2,3,1,3,0,4,4,17,11.5,H,1,1,peyton-siva-1,Peyton Siva,2013
+17,121,17,2013-01-14,Louisville,@,Connecticut,REG (Conf),W 73-58,*,22,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,1,2,3,4,3,0,2,3,11,12.0,A,1,1,peyton-siva-1,Peyton Siva,2013
+18,122,18,2013-01-19,Louisville,,Syracuse,REG (Conf),L 68-70,*,37,1,9,0.111,1,7,0.143,0,2,0.0,0.167,0,0,,0,2,2,6,0,0,3,1,3,-1.5,H,0,1,peyton-siva-1,Peyton Siva,2013
+19,123,19,2013-01-22,Louisville,@,Villanova,REG (Conf),L 64-73,*,35,5,13,0.385,1,5,0.2,4,8,0.5,0.423,4,4,1.0,0,3,3,13,1,0,3,3,15,14.7,A,0,1,peyton-siva-1,Peyton Siva,2013
+20,124,20,2013-01-26,Louisville,@,Georgetown,REG (Conf),L 51-53,*,23,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,2,2,0,3,4,0,-2.6,A,0,1,peyton-siva-1,Peyton Siva,2013
+21,125,21,2013-01-28,Louisville,,Pittsburgh,REG (Conf),W 64-61,*,40,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,0,0,0,10,2,0,4,3,2,1.3,H,1,1,peyton-siva-1,Peyton Siva,2013
+22,126,22,2013-02-03,Louisville,,Marquette,REG (Conf),W 70-51,*,38,6,9,0.667,1,4,0.25,5,5,1.0,0.722,1,2,0.5,0,3,3,7,2,0,6,1,14,11.1,H,1,1,peyton-siva-1,Peyton Siva,2013
+23,127,23,2013-02-06,Louisville,@,Rutgers,REG (Conf),W 68-48,*,29,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,3,0.667,1,2,3,7,2,0,1,2,9,12.7,A,1,1,peyton-siva-1,Peyton Siva,2013
+24,128,24,2013-02-09,Louisville,@,Notre Dame,REG (Conf),L 101-104 (5OT),*,41,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,4,1,0,2,5,2,-1.7,A,0,1,peyton-siva-1,Peyton Siva,2013
+25,129,25,2013-02-14,Louisville,,St. John's (NY),REG (Conf),W 72-58,*,36,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,4,1.0,1,3,4,6,2,1,2,1,12,13.4,H,1,1,peyton-siva-1,Peyton Siva,2013
+26,130,26,2013-02-17,Louisville,@,South Florida,REG (Conf),W 59-41,*,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,7,2,0,4,3,2,3.3,A,1,1,peyton-siva-1,Peyton Siva,2013
+27,131,27,2013-02-23,Louisville,,Seton Hall,REG (Conf),W 79-61,*,32,3,8,0.375,1,1,1.0,2,7,0.286,0.438,0,0,,0,2,2,5,2,0,1,1,7,7.3,H,1,1,peyton-siva-1,Peyton Siva,2013
+28,132,28,2013-02-27,Louisville,@,DePaul,REG (Conf),W 79-58,*,32,5,12,0.417,0,2,0.0,5,10,0.5,0.417,6,6,1.0,1,3,4,6,2,1,4,4,16,12.5,A,1,1,peyton-siva-1,Peyton Siva,2013
+29,133,29,2013-03-02,Louisville,@,Syracuse,REG (Conf),W 58-53,*,27,0,9,0.0,0,8,0.0,0,1,0.0,0.0,0,0,,0,1,1,4,1,0,0,2,0,-3.0,A,1,1,peyton-siva-1,Peyton Siva,2013
+30,134,30,2013-03-04,Louisville,,Cincinnati,REG (Conf),W 67-51,*,29,5,13,0.385,1,3,0.333,4,10,0.4,0.423,0,0,,0,2,2,4,2,0,3,4,11,4.7,H,1,1,peyton-siva-1,Peyton Siva,2013
+31,135,31,2013-03-09,Louisville,,Notre Dame,REG (Conf),W 73-57,*,34,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,0,,0,4,4,5,1,0,2,2,13,11.6,H,1,1,peyton-siva-1,Peyton Siva,2013
+32,136,32,2013-03-14,Louisville,N,Villanova,CTOURN,W 74-55,*,31,3,7,0.429,3,6,0.5,0,1,0.0,0.643,1,2,0.5,0,2,2,4,3,0,4,2,10,7.5,N,1,0,peyton-siva-1,Peyton Siva,2013
+33,137,33,2013-03-15,Louisville,N,Notre Dame,CTOURN,W 69-57,*,37,5,14,0.357,2,4,0.5,3,10,0.3,0.429,0,1,0.0,0,3,3,6,7,0,2,3,12,12.7,N,1,0,peyton-siva-1,Peyton Siva,2013
+34,138,34,2013-03-16,Louisville,N,Syracuse,CTOURN,W 78-61,*,36,3,8,0.375,0,5,0.0,3,3,1.0,0.375,5,6,0.833,0,2,2,8,4,1,2,3,11,13.9,N,1,0,peyton-siva-1,Peyton Siva,2013
+35,139,35,2013-03-21,Louisville,N,North Carolina A&T,ROUND-64,W 79-48,*,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,1,2,8,4,0,3,1,6,9.5,N,1,0,peyton-siva-1,Peyton Siva,2013
+36,140,36,2013-03-23,Louisville,N,Colorado State,ROUND-32,W 82-56,*,32,5,14,0.357,0,1,0.0,5,13,0.385,0.357,0,0,,0,3,3,5,2,0,2,1,10,6.2,N,1,0,peyton-siva-1,Peyton Siva,2013
+37,141,37,2013-03-29,Louisville,N,Oregon,ROUND-16,W 77-69,*,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,3,3,3,1,0,4,3,4,-0.7,N,1,0,peyton-siva-1,Peyton Siva,2013
+38,142,38,2013-03-31,Louisville,N,Duke,ROUND-8,W 85-63,*,33,6,10,0.6,0,2,0.0,6,8,0.75,0.6,4,4,1.0,0,2,2,4,1,1,0,3,16,15.3,N,1,0,peyton-siva-1,Peyton Siva,2013
+39,143,39,2013-04-06,Louisville,N,Wichita State,NATIONAL-SEMI,W 72-68,*,34,1,9,0.111,0,5,0.0,1,4,0.25,0.111,5,6,0.833,0,1,1,3,2,0,2,1,7,2.7,N,1,0,peyton-siva-1,Peyton Siva,2013
+40,144,40,2013-04-08,Louisville,N,Michigan,NATIONAL-FINAL,W 82-76,*,36,6,15,0.4,0,2,0.0,6,13,0.462,0.4,6,6,1.0,0,6,6,5,4,0,2,3,18,16.0,N,1,0,peyton-siva-1,Peyton Siva,2013

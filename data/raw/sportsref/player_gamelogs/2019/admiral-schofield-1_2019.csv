@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2018-11-06,Tennessee,,Lenoir-Rhyne,REG (Non-Conf),W 86-41,*,30,6,12,0.5,1,4,0.25,5,8,0.625,0.542,0,0,,1,8,9,4,1,0,0,2,13,13.1,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+2,97,2,2018-11-09,Tennessee,,Louisiana,REG (Non-Conf),W 87-65,*,35,7,16,0.438,1,4,0.25,6,12,0.5,0.469,0,0,,0,7,7,7,0,0,4,2,15,8.8,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+3,98,3,2018-11-13,Tennessee,,Georgia Tech,REG (Non-Conf),W 66-53,*,36,3,13,0.231,1,4,0.25,2,9,0.222,0.269,1,4,0.25,1,6,7,4,0,1,3,3,8,0.7,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+4,99,4,2018-11-21,Tennessee,N,Louisville,REG (Non-Conf),W 92-81,*,36,7,15,0.467,4,8,0.5,3,7,0.429,0.6,2,2,1.0,0,6,6,4,0,1,3,1,20,14.2,N,1,1,admiral-schofield-1,Admiral Schofield,2019
+5,100,5,2018-11-23,Tennessee,N,Kansas,REG (Non-Conf),L 81-87 (OT),*,31,9,22,0.409,2,8,0.25,7,14,0.5,0.455,1,3,0.333,3,3,6,2,0,0,1,4,21,10.2,N,0,1,admiral-schofield-1,Admiral Schofield,2019
+6,101,6,2018-11-28,Tennessee,,Eastern Kentucky,REG (Non-Conf),W 95-67,*,26,8,9,0.889,2,2,1.0,6,7,0.857,1.0,2,3,0.667,1,3,4,1,0,0,2,3,20,15.6,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+7,102,7,2018-12-02,Tennessee,,Texas A&M–Corpus Christi,REG (Non-Conf),W 79-51,*,32,6,13,0.462,2,6,0.333,4,7,0.571,0.538,2,3,0.667,0,3,3,2,4,0,0,0,16,15.2,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+8,103,8,2018-12-09,Tennessee,N,Gonzaga,REG (Non-Conf),W 76-73,*,30,12,22,0.545,6,10,0.6,6,12,0.5,0.682,0,0,,4,2,6,1,1,0,2,4,30,20.9,N,1,1,admiral-schofield-1,Admiral Schofield,2019
+9,104,9,2018-12-15,Tennessee,@,Memphis,REG (Non-Conf),W 102-92,*,37,8,12,0.667,4,8,0.5,4,4,1.0,0.833,9,9,1.0,2,9,11,2,1,1,5,1,29,25.6,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+10,105,10,2018-12-19,Tennessee,,Samford,REG (Non-Conf),W 83-70,*,38,8,13,0.615,2,3,0.667,6,10,0.6,0.692,0,0,,0,7,7,2,4,0,1,0,18,18.6,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+11,106,11,2018-12-22,Tennessee,,Wake Forest,REG (Non-Conf),W 83-64,*,29,6,14,0.429,0,3,0.0,6,11,0.545,0.429,0,0,,0,3,3,3,0,0,1,3,12,5.4,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+12,107,12,2018-12-29,Tennessee,,Tennessee Tech,REG (Non-Conf),W 96-53,*,29,7,8,0.875,2,2,1.0,5,6,0.833,1.0,0,0,,1,2,3,1,1,3,1,0,16,17.3,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+13,108,13,2019-01-05,Tennessee,,Georgia,REG (Conf),W 96-50,*,26,6,11,0.545,3,4,0.75,3,7,0.429,0.682,3,3,1.0,2,4,6,3,0,0,2,3,18,14.2,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+14,109,14,2019-01-08,Tennessee,@,Missouri,REG (Conf),W 87-63,*,31,6,11,0.545,1,3,0.333,5,8,0.625,0.591,3,5,0.6,1,8,9,4,2,0,5,3,16,11.6,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+15,110,15,2019-01-12,Tennessee,@,Florida,REG (Conf),W 78-67,*,25,6,11,0.545,2,5,0.4,4,6,0.667,0.636,0,0,,0,8,8,2,0,1,2,4,14,9.6,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+16,111,16,2019-01-15,Tennessee,,Arkansas,REG (Conf),W 106-87,*,24,7,11,0.636,3,4,0.75,4,7,0.571,0.773,0,0,,2,3,5,2,0,0,4,2,17,11.0,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+17,112,17,2019-01-19,Tennessee,,Alabama,REG (Conf),W 71-68,*,34,4,17,0.235,1,4,0.25,3,13,0.231,0.265,3,3,1.0,2,9,11,4,2,0,1,3,12,8.4,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+18,113,18,2019-01-23,Tennessee,@,Vanderbilt,REG (Conf),W 88-83 (OT),*,30,2,9,0.222,0,6,0.0,2,3,0.667,0.222,2,4,0.5,0,4,4,0,2,0,1,4,6,0.3,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+19,114,19,2019-01-26,Tennessee,,West Virginia,REG (Non-Conf),W 83-66,*,31,5,16,0.313,1,5,0.2,4,11,0.364,0.344,3,4,0.75,2,8,10,2,1,1,5,1,14,5.9,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+20,115,20,2019-01-29,Tennessee,@,South Carolina,REG (Conf),W 92-70,*,36,9,17,0.529,1,5,0.2,8,12,0.667,0.559,5,5,1.0,2,7,9,4,1,2,2,3,24,21.2,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+21,116,21,2019-02-02,Tennessee,@,Texas A&M,REG (Conf),W 93-76,*,24,7,14,0.5,0,2,0.0,7,12,0.583,0.5,0,0,,1,2,3,1,0,1,1,3,14,7.5,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+22,117,22,2019-02-05,Tennessee,,Missouri,REG (Conf),W 72-60,*,32,5,10,0.5,3,5,0.6,2,5,0.4,0.65,0,0,,0,1,1,1,2,1,0,2,13,10.9,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+23,118,23,2019-02-09,Tennessee,,Florida,REG (Conf),W 73-61,*,33,6,11,0.545,1,2,0.5,5,9,0.556,0.591,1,1,1.0,1,5,6,2,1,0,1,2,14,11.5,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+24,119,24,2019-02-13,Tennessee,,South Carolina,REG (Conf),W 85-73,*,34,9,19,0.474,2,4,0.5,7,15,0.467,0.526,1,1,1.0,1,9,10,1,0,0,1,2,21,13.6,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+25,120,25,2019-02-16,Tennessee,@,Kentucky,REG (Conf),L 69-86,*,31,7,18,0.389,1,6,0.167,6,12,0.5,0.417,2,3,0.667,2,4,6,0,0,0,1,5,17,6.4,A,0,1,admiral-schofield-1,Admiral Schofield,2019
+26,121,26,2019-02-19,Tennessee,,Vanderbilt,REG (Conf),W 58-46,*,30,5,12,0.417,2,5,0.4,3,7,0.429,0.5,0,0,,0,5,5,0,3,0,5,2,12,4.3,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+27,122,27,2019-02-23,Tennessee,@,Louisiana State,REG (Conf),L 80-82 (OT),*,39,11,22,0.5,3,7,0.429,8,15,0.533,0.568,2,2,1.0,2,7,9,1,0,0,2,4,27,16.6,A,0,1,admiral-schofield-1,Admiral Schofield,2019
+28,123,28,2019-02-27,Tennessee,@,Ole Miss,REG (Conf),W 73-71,*,33,4,7,0.571,2,3,0.667,2,4,0.5,0.714,1,3,0.333,1,5,6,1,1,1,2,3,11,8.3,A,1,1,admiral-schofield-1,Admiral Schofield,2019
+29,124,29,2019-03-02,Tennessee,,Kentucky,REG (Conf),W 71-52,*,35,3,13,0.231,0,6,0.0,3,7,0.429,0.231,1,2,0.5,1,6,7,1,1,2,0,3,7,3.1,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+30,125,30,2019-03-05,Tennessee,,Mississippi State,REG (Conf),W 71-54,*,33,7,13,0.538,3,4,0.75,4,9,0.444,0.654,1,2,0.5,0,4,4,1,0,1,3,1,18,10.5,H,1,1,admiral-schofield-1,Admiral Schofield,2019
+31,126,31,2019-03-09,Tennessee,@,Auburn,REG (Conf),L 80-84,*,25,4,9,0.444,3,4,0.75,1,5,0.2,0.611,2,2,1.0,2,1,3,0,0,0,2,5,13,6.0,A,0,1,admiral-schofield-1,Admiral Schofield,2019
+32,127,32,2019-03-15,Tennessee,N,Mississippi State,CTOURN,W 83-76,*,31,9,12,0.75,2,2,1.0,7,10,0.7,0.833,0,2,0.0,1,6,7,2,0,1,0,2,20,18.2,N,1,0,admiral-schofield-1,Admiral Schofield,2019
+33,128,33,2019-03-16,Tennessee,N,Kentucky,CTOURN,W 82-78,*,35,8,18,0.444,4,8,0.5,4,10,0.4,0.556,1,2,0.5,1,2,3,5,1,0,0,3,21,15.8,N,1,0,admiral-schofield-1,Admiral Schofield,2019
+34,129,34,2019-03-17,Tennessee,N,Auburn,CTOURN,L 64-84,*,33,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,3,0.667,0,5,5,2,1,0,3,4,4,-2.3,N,0,0,admiral-schofield-1,Admiral Schofield,2019
+35,130,35,2019-03-22,Tennessee,N,Colgate,ROUND-64,W 77-70,*,35,6,14,0.429,3,7,0.429,3,7,0.429,0.536,4,4,1.0,1,3,4,1,0,0,0,0,19,13.9,N,1,0,admiral-schofield-1,Admiral Schofield,2019
+36,131,36,2019-03-24,Tennessee,N,Iowa,ROUND-32,W 83-77 (OT),*,24,7,15,0.467,3,6,0.5,4,9,0.444,0.567,2,3,0.667,3,2,5,0,2,0,1,4,19,13.0,N,1,0,admiral-schofield-1,Admiral Schofield,2019
+37,132,37,2019-03-28,Tennessee,N,Purdue,ROUND-16,L 94-99 (OT),*,42,7,15,0.467,3,6,0.5,4,9,0.444,0.567,4,8,0.5,2,7,9,2,1,0,3,3,21,13.4,N,0,0,admiral-schofield-1,Admiral Schofield,2019

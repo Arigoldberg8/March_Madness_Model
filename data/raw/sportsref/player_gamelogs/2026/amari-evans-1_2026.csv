@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Tennessee,,Mercer,REG (Non-Conf),W 76-61,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,1,0,0.6,H,1,1,amari-evans-1,Amari Evans,2026
+2,2,2,2025-11-08,Tennessee,,Northern Kentucky,REG (Non-Conf),W 95-56,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,1,0,0,0,0,0,1.4,H,1,1,amari-evans-1,Amari Evans,2026
+3,3,3,2025-11-12,Tennessee,,North Florida,REG (Non-Conf),W 99-66,,9,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,2,0,0,0,0,1,2.6,H,1,1,amari-evans-1,Amari Evans,2026
+4,4,4,2025-11-17,Tennessee,,Rice,REG (Non-Conf),W 91-66,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,amari-evans-1,Amari Evans,2026
+5,5,5,2025-11-20,Tennessee,,Tennessee State,REG (Non-Conf),W 89-60,,3,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,0,1,0,0,0,2,2.6,H,1,1,amari-evans-1,Amari Evans,2026
+6,6,6,2025-11-24,Tennessee,N,Rutgers,REG (Non-Conf),W 85-60,,12,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,0,4,4,1,0,0,2,2,0,-5.1,N,1,1,amari-evans-1,Amari Evans,2026
+7,7,9,2025-12-02,Tennessee,@,Syracuse,REG (Non-Conf),L 60-62,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,0,1,0,0,1,0,1.5,A,0,1,amari-evans-1,Amari Evans,2026
+8,8,10,2025-12-06,Tennessee,N,Illinois,REG (Non-Conf),L 62-75,,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,1,0,0,1,2,3.2,N,0,1,amari-evans-1,Amari Evans,2026
+9,9,11,2025-12-16,Tennessee,,Louisville,REG (Non-Conf),W 83-62,,7,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,0,0,0,1,5,7,3.1,H,1,1,amari-evans-1,Amari Evans,2026
+10,10,12,2025-12-21,Tennessee,,Gardner-Webb,REG (Non-Conf),W 94-52,,12,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,1,2,3,1,3,0,0,0,6,8.0,H,1,1,amari-evans-1,Amari Evans,2026
+11,11,13,2025-12-30,Tennessee,,South Carolina State,REG (Non-Conf),W 105-54,,13,5,6,0.833,2,3,0.667,3,3,1.0,1.0,2,5,0.4,2,3,5,2,0,1,0,2,14,14.2,H,1,1,amari-evans-1,Amari Evans,2026
+12,12,14,2026-01-03,Tennessee,@,Arkansas,REG (Conf),L 75-86,,23,7,7,1.0,1,1,1.0,6,6,1.0,1.071,1,2,0.5,1,2,3,1,3,0,1,0,16,17.5,A,0,1,amari-evans-1,Amari Evans,2026
+13,13,15,2026-01-06,Tennessee,,Texas,REG (Conf),W 85-71,,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,1,3,2,3,1,2,2,4,6.3,H,1,1,amari-evans-1,Amari Evans,2026
+14,14,16,2026-01-10,Tennessee,@,Florida,REG (Conf),L 67-91,,20,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,5,5,1,3,0,1,2,3,5.0,A,0,1,amari-evans-1,Amari Evans,2026
+15,15,17,2026-01-13,Tennessee,,Texas A&M,REG (Conf),W 87-82 (2OT),,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,4,5,1,0,0,0,3,0,0.7,H,1,1,amari-evans-1,Amari Evans,2026
+16,16,18,2026-01-17,Tennessee,,Kentucky,REG (Conf),L 78-80,,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,1,1,1.0,0,3,3,0,0,1,0,0,8,7.3,H,0,1,amari-evans-1,Amari Evans,2026
+17,17,19,2026-01-24,Tennessee,@,Alabama,REG (Conf),W 79-73,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,2,0,1,0,2,2.0,A,1,1,amari-evans-1,Amari Evans,2026
+18,18,20,2026-01-28,Tennessee,@,Georgia,REG (Conf),W 86-85 (OT),,12,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,1,0.0,0,2,2,0,2,1,1,3,5,3.0,A,1,1,amari-evans-1,Amari Evans,2026
+19,19,21,2026-01-31,Tennessee,,Auburn,REG (Conf),W 77-69,,24,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,4,4,8,1,2,0,1,0,6,7.6,H,1,1,amari-evans-1,Amari Evans,2026
+20,20,22,2026-02-03,Tennessee,,Ole Miss,REG (Conf),W 84-66,,17,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,1,0,0,0,1,2,1.5,H,1,1,amari-evans-1,Amari Evans,2026
+21,21,23,2026-02-07,Tennessee,@,Kentucky,REG (Conf),L 71-74,,14,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,1,2,3,2,1,0,2,3,1,-1.7,A,0,1,amari-evans-1,Amari Evans,2026
+22,22,24,2026-02-11,Tennessee,@,Mississippi State,REG (Conf),W 73-64,,12,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,1,1,2,0,2,1,0,0,4,5.6,A,1,1,amari-evans-1,Amari Evans,2026
+23,23,25,2026-02-14,Tennessee,,Louisiana State,REG (Conf),W 73-63,,7,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,0,0,0,1.3,H,1,1,amari-evans-1,Amari Evans,2026
+24,24,26,2026-02-18,Tennessee,,Oklahoma,REG (Conf),W 89-66,,16,0,0,,0,0,,0,0,,,0,0,,1,2,3,0,1,0,0,0,0,2.3,H,1,1,amari-evans-1,Amari Evans,2026
+25,25,27,2026-02-21,Tennessee,@,Vanderbilt,REG (Conf),W 69-65,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,4,0.25,0,3,3,0,0,1,0,1,5,1.6,A,1,1,amari-evans-1,Amari Evans,2026
+26,26,28,2026-02-24,Tennessee,@,Missouri,REG (Conf),L 69-73,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,1,0,2,1,0,-1.1,A,0,1,amari-evans-1,Amari Evans,2026
+27,27,29,2026-02-28,Tennessee,,Alabama,REG (Conf),L 69-71,,28,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,5,3,8,1,0,0,0,3,7,7.9,H,0,1,amari-evans-1,Amari Evans,2026
+28,28,30,2026-03-03,Tennessee,@,South Carolina,REG (Conf),W 78-59,*,32,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,1,2,3,2,3,1,0,0,7,10.0,A,1,1,amari-evans-1,Amari Evans,2026
+29,29,31,2026-03-07,Tennessee,,Vanderbilt,REG (Conf),L 82-86,*,32,9,18,0.5,2,6,0.333,7,12,0.583,0.556,4,7,0.571,3,3,6,0,3,0,1,0,24,18.8,H,0,1,amari-evans-1,Amari Evans,2026
+30,30,32,2026-03-12,Tennessee,N,Auburn,CTOURN,W 72-62,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,4,4,1,0,1,1,1,5,3.1,N,1,0,amari-evans-1,Amari Evans,2026
+31,31,33,2026-03-13,Tennessee,N,Vanderbilt,CTOURN,L 68-75,,13,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,3,4,0,0,0,0,0,0,-1.2,N,0,0,amari-evans-1,Amari Evans,2026

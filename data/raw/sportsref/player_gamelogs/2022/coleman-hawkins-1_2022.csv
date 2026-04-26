@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2021-11-09,Illinois,,Jackson State,REG (Non-Conf),W 71-47,*,29,4,10,0.4,2,6,0.333,2,4,0.5,0.5,3,4,0.75,1,7,8,3,4,1,4,2,13,12.0,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+2,27,2,2021-11-12,Illinois,,Arkansas State,REG (Non-Conf),W 92-53,*,27,5,7,0.714,0,1,0.0,5,6,0.833,0.714,7,13,0.538,6,6,12,4,1,4,3,1,17,20.9,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+3,28,3,2021-11-15,Illinois,@,Marquette,REG (Non-Conf),L 66-67,*,32,6,12,0.5,1,4,0.25,5,8,0.625,0.542,0,1,0.0,2,6,8,1,0,0,5,3,13,4.3,A,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+4,29,4,2021-11-22,Illinois,N,Cincinnati,REG (Non-Conf),L 51-71,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,1,2,1,1,4,2,1.1,N,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+5,30,5,2021-11-23,Illinois,N,Kansas State,REG (Non-Conf),W 72-64,*,25,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,4,4,3,1,0,3,3,6,3.4,N,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+6,31,6,2021-11-26,Illinois,,Texas–Rio Grande Valley,REG (Non-Conf),W 94-85,*,26,4,5,0.8,1,2,0.5,3,3,1.0,0.9,4,4,1.0,0,4,4,4,1,2,2,1,13,15.1,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+7,32,7,2021-11-29,Illinois,,Notre Dame,REG (Non-Conf),W 82-72,*,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,5,7,0,0,0,3,3,4,1.4,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+8,33,8,2021-12-03,Illinois,,Rutgers,REG (Conf),W 86-51,*,28,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,2,1,3,2,3,2,2,1,9,10.1,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+9,34,9,2021-12-06,Illinois,@,Iowa,REG (Conf),W 87-83,*,24,2,8,0.25,0,2,0.0,2,6,0.333,0.25,3,4,0.75,2,5,7,5,1,0,3,5,7,4.2,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+10,35,10,2021-12-11,Illinois,,Arizona,REG (Non-Conf),L 79-83,*,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,0,0,2,3,0,-2.6,H,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+11,36,11,2021-12-18,Illinois,,Saint Francis (PA),REG (Non-Conf),W 106-48,,9,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,0,8,7.7,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+12,37,12,2021-12-22,Illinois,N,Missouri,REG (Non-Conf),W 88-63,,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,3,4,2,1,0,2,3,5,3.8,N,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+13,38,13,2022-01-04,Illinois,@,Minnesota,REG (Conf),W 76-53,,18,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,5,8,1,0,0,3,1,6,3.9,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+14,39,14,2022-01-06,Illinois,,Maryland,REG (Conf),W 76-64,,19,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,3,0.667,6,2,8,0,1,0,1,1,8,9.0,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+15,40,15,2022-01-11,Illinois,@,Nebraska,REG (Conf),W 81-71,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,4,4,8,0,0,1,0,2,4,5.9,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+16,41,16,2022-01-14,Illinois,,Michigan,REG (Conf),W 68-53,,26,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,1,1,1,1,2,1,1.5,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+17,42,17,2022-01-17,Illinois,,Purdue,REG (Conf),L 88-96 (2OT),,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+18,43,18,2022-01-21,Illinois,@,Maryland,REG (Conf),L 65-81,,11,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,2,0,2,0,0,0,2,0,5,1.3,A,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+19,44,19,2022-01-25,Illinois,,Michigan State,REG (Conf),W 56-55,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-0.9,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+20,45,20,2022-01-29,Illinois,@,Northwestern,REG (Conf),W 59-56,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,0,1,1,1,1,0,0,1,2,2.2,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+21,46,21,2022-02-02,Illinois,,Wisconsin,REG (Conf),W 80-67,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+22,47,22,2022-02-05,Illinois,@,Indiana,REG (Conf),W 74-57,,9,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,0,1,2,1.6,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+23,48,23,2022-02-08,Illinois,@,Purdue,REG (Conf),L 68-84,,7,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,0,2,0,0.5,A,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+24,49,24,2022-02-13,Illinois,,Northwestern,REG (Conf),W 73-66,,13,0,0,,0,0,,0,0,,,0,0,,0,3,3,3,1,0,1,2,0,2.2,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+25,50,25,2022-02-16,Illinois,@,Rutgers,REG (Conf),L 59-70,,17,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,0,,2,1,3,1,1,1,1,3,5,4.2,A,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+26,51,26,2022-02-19,Illinois,@,Michigan State,REG (Conf),W 79-74,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,3,4,2,1,1,0,1,2,3.9,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+27,52,27,2022-02-24,Illinois,,Ohio State,REG (Conf),L 83-86,,26,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,7,0.571,2,2,4,2,3,0,1,5,10,9.9,H,0,1,coleman-hawkins-1,Coleman Hawkins,2022
+28,53,28,2022-02-27,Illinois,@,Michigan,REG (Conf),W 93-85,,27,2,7,0.286,1,2,0.5,1,5,0.2,0.357,1,3,0.333,3,1,4,1,1,0,1,2,6,3.4,A,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+29,54,29,2022-03-03,Illinois,,Penn State,REG (Conf),W 60-55,,12,1,6,0.167,0,4,0.0,1,2,0.5,0.167,4,4,1.0,2,0,2,1,0,0,0,0,6,4.3,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+30,55,30,2022-03-06,Illinois,,Iowa,REG (Conf),W 74-72,*,37,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,1,10,11,2,0,2,2,2,9,10.4,H,1,1,coleman-hawkins-1,Coleman Hawkins,2022
+31,56,31,2022-03-11,Illinois,N,Indiana,CTOURN,L 63-65,*,32,5,10,0.5,4,7,0.571,1,3,0.333,0.7,4,7,0.571,2,2,4,2,2,0,1,0,18,16.2,N,0,0,coleman-hawkins-1,Coleman Hawkins,2022
+32,57,32,2022-03-18,Illinois,N,Chattanooga,ROUND-64,W 54-53,*,32,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,1,0.0,2,6,8,2,0,1,0,3,10,10.1,N,1,0,coleman-hawkins-1,Coleman Hawkins,2022
+33,58,33,2022-03-20,Illinois,N,Houston,ROUND-32,L 53-68,*,19,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,4,4,1,0,0,1,3,3,-0.4,N,0,0,coleman-hawkins-1,Coleman Hawkins,2022

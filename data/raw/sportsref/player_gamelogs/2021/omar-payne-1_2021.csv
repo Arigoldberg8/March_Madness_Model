@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2020-12-02,Florida,N,Army,REG (Non-Conf),W 76-69,,18,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,0,4,4,0,1,1,0,3,2,2.6,N,1,1,omar-payne-1,Omar Payne,2021
+2,32,2,2020-12-03,Florida,N,Boston College,REG (Non-Conf),W 90-70,,17,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,1,0,1,1,1,1,2,3,10,7.7,N,1,1,omar-payne-1,Omar Payne,2021
+3,33,3,2020-12-06,Florida,,Stetson,REG (Non-Conf),W 86-40,,20,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,3,5,2,0,3,3,2,4,4.0,H,1,1,omar-payne-1,Omar Payne,2021
+4,34,4,2020-12-12,Florida,@,Florida State,REG (Non-Conf),L 71-83,,16,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,3,0,3,2,2.9,A,0,1,omar-payne-1,Omar Payne,2021
+5,35,5,2020-12-30,Florida,@,Vanderbilt,REG (Conf),W 91-72,,10,1,1,1.0,0,0,1,1,1.0,1.0,2,4,0.5,1,0,1,0,0,0,1,1,4,2.2,A,1,1,omar-payne-1,Omar Payne,2021
+6,36,6,2021-01-02,Florida,,Louisiana State,REG (Conf),W 83-79,,18,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,1,3,4,0,0,1,0,4,2,2.0,H,1,1,omar-payne-1,Omar Payne,2021
+7,37,7,2021-01-05,Florida,@,Alabama,REG (Conf),L 71-86,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,1,1,1,3,2,1.5,A,0,1,omar-payne-1,Omar Payne,2021
+8,38,8,2021-01-09,Florida,,Kentucky,REG (Conf),L 58-76,,16,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,3,3,6,1,0,1,2,4,2,1.3,H,0,1,omar-payne-1,Omar Payne,2021
+9,39,9,2021-01-12,Florida,,Ole Miss,REG (Conf),W 72-63,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,0,0,2,2.7,H,1,1,omar-payne-1,Omar Payne,2021
+10,40,10,2021-01-16,Florida,@,Mississippi State,REG (Conf),L 69-72,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,1,3,0,0,1,1,3,4,2.9,A,0,1,omar-payne-1,Omar Payne,2021
+11,41,11,2021-01-19,Florida,,Tennessee,REG (Conf),W 75-49,*,27,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,5,4,9,1,0,5,0,1,9,15.2,H,1,1,omar-payne-1,Omar Payne,2021
+12,42,12,2021-01-23,Florida,@,Georgia,REG (Conf),W 92-84,*,26,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,4,5,9,0,1,2,0,3,10,14.0,A,1,1,omar-payne-1,Omar Payne,2021
+13,43,13,2021-01-27,Florida,,Vanderbilt,REG (Conf),W 78-71,*,21,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,0,1,2,4,0,-2.3,H,1,1,omar-payne-1,Omar Payne,2021
+14,44,14,2021-01-30,Florida,@,West Virginia,REG (Non-Conf),W 85-80,*,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,1,3,0,0,0,0,3,4,3.2,A,1,1,omar-payne-1,Omar Payne,2021
+15,45,15,2021-02-03,Florida,,South Carolina,REG (Conf),L 66-72,*,24,5,5,1.0,0,0,5,5,1.0,1.0,0,2,0.0,1,3,4,0,0,2,0,4,10,9.1,H,0,1,omar-payne-1,Omar Payne,2021
+16,46,16,2021-02-16,Florida,@,Arkansas,REG (Conf),L 64-75,*,17,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,2,3,1,1,3,0,0,2,6.8,A,0,1,omar-payne-1,Omar Payne,2021
+17,47,17,2021-02-20,Florida,,Georgia,REG (Conf),W 70-63,*,18,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,H,1,1,omar-payne-1,Omar Payne,2021
+18,48,18,2021-02-23,Florida,@,Auburn,REG (Conf),W 74-57,,19,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,3,4,2,1,2,0,2,4,7.3,A,1,1,omar-payne-1,Omar Payne,2021
+19,49,19,2021-02-27,Florida,@,Kentucky,REG (Conf),W 71-67,,6,0,0,,0,0,0,0,,,2,2,1.0,0,0,0,0,0,0,0,3,2,0.8,A,1,1,omar-payne-1,Omar Payne,2021
+20,50,20,2021-03-03,Florida,,Missouri,REG (Conf),L 70-72,,14,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,1,3,4,0,1,0,0,1,4,5.9,H,0,1,omar-payne-1,Omar Payne,2021
+21,51,21,2021-03-07,Florida,@,Tennessee,REG (Conf),L 54-65,,15,0,0,,0,0,0,0,,,0,0,,0,2,2,0,1,1,0,2,0,1.5,A,0,1,omar-payne-1,Omar Payne,2021
+22,52,22,2021-03-11,Florida,N,Vanderbilt,CTOURN,W 69-63,,10,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,1,1,2,0,0,0,0,3,5,4.2,N,1,0,omar-payne-1,Omar Payne,2021
+23,53,23,2021-03-12,Florida,N,Tennessee,CTOURN,L 66-78,*,15,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,2,0,1,2,2,2.5,N,0,0,omar-payne-1,Omar Payne,2021
+24,54,25,2021-03-21,Florida,N,Oral Roberts,ROUND-32,L 78-81,,11,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,1,2,1,0,0,1,2,4,1.9,N,0,0,omar-payne-1,Omar Payne,2021

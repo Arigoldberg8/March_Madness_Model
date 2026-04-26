@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2020-11-25,Liberty,N,Purdue,REG (Non-Conf),L 64-77,*,36,7,19,0.368,4,14,0.286,3,5,0.6,0.474,3,4,0.75,1,5,6,4,3,1,4,2,21,14.0,N,0,1,darius-mcghee-1,Darius McGhee,2021
+2,72,2,2020-11-26,Liberty,N,Mississippi State,REG (Non-Conf),W 84-73,*,35,8,12,0.667,7,11,0.636,1,1,1.0,0.958,0,0,,0,3,3,1,1,0,0,0,23,20.4,N,1,1,darius-mcghee-1,Darius McGhee,2021
+3,73,3,2020-11-28,Liberty,N,South Carolina,REG (Non-Conf),W 78-62,*,28,4,11,0.364,2,8,0.25,2,3,0.667,0.455,0,2,0.0,0,3,3,3,0,0,2,2,10,3.3,N,1,1,darius-mcghee-1,Darius McGhee,2021
+4,74,4,2020-11-29,Liberty,N,TCU,REG (Non-Conf),L 52-56,*,33,6,16,0.375,2,10,0.2,4,6,0.667,0.438,1,1,1.0,1,8,9,1,2,1,1,0,15,11.7,N,0,1,darius-mcghee-1,Darius McGhee,2021
+5,75,5,2020-12-03,Liberty,,Saint Francis (PA),REG (Non-Conf),W 78-62,*,28,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,0,2,2,2,0,1,2,2,8,2.1,H,1,1,darius-mcghee-1,Darius McGhee,2021
+6,76,6,2020-12-05,Liberty,,Bluefield Univ.,REG (Non-Conf),W 86-64,*,22,8,14,0.571,5,11,0.455,3,3,1.0,0.75,0,0,,0,5,5,2,0,0,1,1,21,15.9,H,1,1,darius-mcghee-1,Darius McGhee,2021
+7,77,7,2020-12-09,Liberty,@,Missouri,REG (Non-Conf),L 60-69,*,32,1,9,0.111,1,8,0.125,0,1,0.0,0.167,6,6,1.0,2,3,5,1,0,0,0,3,9,4.9,A,0,1,darius-mcghee-1,Darius McGhee,2021
+8,78,8,2020-12-12,Liberty,,Columbia Intl,REG (Non-Conf),W 73-26,*,18,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,1,5,6,0,2,0,0,0,10,12.3,H,1,1,darius-mcghee-1,Darius McGhee,2021
+9,79,9,2020-12-15,Liberty,,South Carolina State,REG (Non-Conf),W 82-52,*,24,6,10,0.6,4,8,0.5,2,2,1.0,0.8,0,0,,1,2,3,1,0,1,0,2,16,13.3,H,1,1,darius-mcghee-1,Darius McGhee,2021
+10,80,10,2020-12-16,Liberty,,Carver,REG (Non-Conf),W 91-38,*,12,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,1,0,1,1,0,6,4.4,H,1,1,darius-mcghee-1,Darius McGhee,2021
+11,81,11,2020-12-22,Liberty,,Alcorn State,REG (Non-Conf),W 108-65,*,25,7,11,0.636,6,9,0.667,1,2,0.5,0.909,0,0,,0,2,2,1,2,1,1,1,20,17.7,H,1,1,darius-mcghee-1,Darius McGhee,2021
+12,82,12,2021-01-01,Liberty,@,Lipscomb,REG (Conf),L 70-77,*,35,6,15,0.4,2,9,0.222,4,6,0.667,0.467,2,2,1.0,1,1,2,4,0,0,1,1,16,10.3,A,0,1,darius-mcghee-1,Darius McGhee,2021
+13,83,13,2021-01-02,Liberty,@,Lipscomb,REG (Conf),W 66-50,*,34,8,17,0.471,4,10,0.4,4,7,0.571,0.588,0,0,,1,6,7,3,2,0,3,2,20,14.1,A,1,1,darius-mcghee-1,Darius McGhee,2021
+14,84,14,2021-01-08,Liberty,,Kennesaw State,REG (Conf),W 69-63,*,33,2,8,0.25,2,6,0.333,0,2,0.0,0.375,4,4,1.0,0,7,7,1,0,1,2,3,10,5.5,H,1,1,darius-mcghee-1,Darius McGhee,2021
+15,85,15,2021-01-09,Liberty,,Kennesaw State,REG (Conf),W 76-47,*,22,5,12,0.417,2,5,0.4,3,7,0.429,0.5,0,0,,0,2,2,0,1,0,0,3,12,6.0,H,1,1,darius-mcghee-1,Darius McGhee,2021
+16,86,16,2021-01-15,Liberty,@,Stetson,REG (Conf),L 59-65,*,35,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,6,6,1,0,0,1,2,7,1.9,A,0,1,darius-mcghee-1,Darius McGhee,2021
+17,87,17,2021-01-16,Liberty,@,Stetson,REG (Conf),W 68-58,*,32,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,10,11,3,1,0,0,2,4,7.3,A,1,1,darius-mcghee-1,Darius McGhee,2021
+18,88,18,2021-01-29,Liberty,@,Jacksonville,REG (Conf),W 59-54,*,34,5,14,0.357,2,10,0.2,3,4,0.75,0.429,0,2,0.0,0,5,5,0,0,0,4,0,12,0.9,A,1,1,darius-mcghee-1,Darius McGhee,2021
+19,89,19,2021-01-30,Liberty,@,Jacksonville,REG (Conf),W 64-58,*,35,8,14,0.571,3,6,0.5,5,8,0.625,0.679,6,6,1.0,1,2,3,3,2,0,1,3,25,21.6,A,1,1,darius-mcghee-1,Darius McGhee,2021
+20,90,20,2021-02-05,Liberty,,Lancaster Bible,REG (Non-Conf),W 90-49,*,23,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,2,2,4,1,0,1,0,9,8.0,H,1,1,darius-mcghee-1,Darius McGhee,2021
+21,91,21,2021-02-12,Liberty,,North Florida,REG (Conf),W 73-61,*,31,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,7,7,4,4,0,1,1,5,8.7,H,1,1,darius-mcghee-1,Darius McGhee,2021
+22,92,22,2021-02-13,Liberty,,North Florida,REG (Conf),W 80-60,*,30,8,15,0.533,6,11,0.545,2,4,0.5,0.733,0,0,,0,2,2,3,0,0,0,2,22,16.6,H,1,1,darius-mcghee-1,Darius McGhee,2021
+23,93,23,2021-02-22,Liberty,,North Alabama,REG (Conf),W 74-54,*,30,11,19,0.579,7,12,0.583,4,7,0.571,0.763,0,0,,1,0,1,1,0,0,0,1,29,21.1,H,1,1,darius-mcghee-1,Darius McGhee,2021
+24,94,24,2021-02-23,Liberty,,North Alabama,REG (Conf),W 74-54,*,31,7,13,0.538,6,11,0.545,1,2,0.5,0.769,4,4,1.0,1,3,4,2,0,1,2,0,24,19.4,H,1,1,darius-mcghee-1,Darius McGhee,2021
+25,95,25,2021-02-27,Liberty,@,Bellarmine,REG (Conf),W 94-78,*,37,12,18,0.667,8,11,0.727,4,7,0.571,0.889,2,3,0.667,0,3,3,0,0,0,3,2,34,22.9,A,1,1,darius-mcghee-1,Darius McGhee,2021
+26,96,26,2021-03-04,Liberty,N,Kennesaw State,CTOURN,W 69-59,*,32,4,11,0.364,3,7,0.429,1,4,0.25,0.5,5,6,0.833,0,3,3,3,0,0,1,1,16,11.1,N,1,0,darius-mcghee-1,Darius McGhee,2021
+27,97,27,2021-03-05,Liberty,N,Stetson,CTOURN,W 77-64,*,38,5,14,0.357,2,7,0.286,3,7,0.429,0.429,1,1,1.0,0,5,5,9,1,1,4,1,13,10.3,N,1,0,darius-mcghee-1,Darius McGhee,2021
+28,98,28,2021-03-07,Liberty,N,North Alabama,CTOURN,W 79-75,*,36,7,14,0.5,4,8,0.5,3,6,0.5,0.643,3,3,1.0,0,8,8,2,1,1,0,1,21,19.1,N,1,0,darius-mcghee-1,Darius McGhee,2021
+29,99,29,2021-03-19,Liberty,N,Oklahoma State,ROUND-64,L 60-69,*,35,4,13,0.308,2,8,0.25,2,5,0.4,0.385,2,2,1.0,0,5,5,1,1,2,2,3,12,5.9,N,0,0,darius-mcghee-1,Darius McGhee,2021

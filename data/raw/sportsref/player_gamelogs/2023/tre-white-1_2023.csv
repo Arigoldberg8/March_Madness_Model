@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Southern California,,Florida Gulf Coast,REG (Non-Conf),L 61-74,,21,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,0,2,2,2,0,0,1,1,6,2.9,H,0,1,tre-white-1,Tre White,2023
+2,2,2,2022-11-10,Southern California,,Alabama State,REG (Non-Conf),W 96-58,,22,2,8,0.25,1,4,0.25,1,4,0.25,0.313,3,4,0.75,3,9,12,0,0,0,2,2,8,4.8,H,1,1,tre-white-1,Tre White,2023
+3,3,3,2022-11-15,Southern California,,Vermont,REG (Non-Conf),W 59-57,,30,2,5,0.4,0,0,,2,5,0.4,0.4,0,2,0.0,1,9,10,0,0,1,0,0,4,4.6,H,1,1,tre-white-1,Tre White,2023
+4,4,4,2022-11-18,Southern California,,Mount St. Mary's,REG (Non-Conf),W 83-74,*,23,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,2,1.0,0,2,2,1,1,0,0,1,10,8.6,H,1,1,tre-white-1,Tre White,2023
+5,5,5,2022-11-23,Southern California,N,Brigham Young,REG (Non-Conf),W 82-76,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,1,2,3,3,2,1,1,2,9,9.6,N,1,1,tre-white-1,Tre White,2023
+6,6,6,2022-11-24,Southern California,N,Tennessee,REG (Non-Conf),L 66-73 (OT),*,33,5,11,0.455,1,3,0.333,4,8,0.5,0.5,0,0,,0,4,4,0,0,1,2,1,11,4.8,N,0,1,tre-white-1,Tre White,2023
+7,7,7,2022-11-25,Southern California,N,Wisconsin,REG (Non-Conf),L 59-64,*,26,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,0,5,5,0,1,0,0,1,7,5.7,N,0,1,tre-white-1,Tre White,2023
+8,8,8,2022-11-30,Southern California,@,California,REG (Conf),W 66-51,*,27,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,0,7,7,1,0,0,0,1,8,6.4,A,1,1,tre-white-1,Tre White,2023
+9,9,9,2022-12-04,Southern California,,Oregon State,REG (Conf),W 63-62,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,1,2,0,1,0,0,0,4,5.0,H,1,1,tre-white-1,Tre White,2023
+10,10,10,2022-12-07,Southern California,,Cal State Fullerton,REG (Non-Conf),W 64-50,*,31,6,9,0.667,0,2,0.0,6,7,0.857,0.667,3,4,0.75,2,4,6,2,2,0,1,0,15,15.7,H,1,1,tre-white-1,Tre White,2023
+11,11,11,2022-12-14,Southern California,,Long Beach State,REG (Non-Conf),W 88-78,*,28,9,14,0.643,2,3,0.667,7,11,0.636,0.714,0,1,0.0,3,2,5,1,0,1,3,1,20,14.1,H,1,1,tre-white-1,Tre White,2023
+12,12,12,2022-12-18,Southern California,,Auburn,REG (Non-Conf),W 74-71,*,26,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,2,1.0,3,1,4,1,1,1,1,5,7,4.7,H,1,1,tre-white-1,Tre White,2023
+13,13,13,2022-12-21,Southern California,N,Colorado State,REG (Non-Conf),W 73-64,*,33,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,3,0.333,0,6,6,3,2,0,2,0,10,10.5,N,1,1,tre-white-1,Tre White,2023
+14,14,14,2022-12-30,Southern California,@,Washington,REG (Conf),W 80-67,*,31,3,4,0.75,0,0,,3,4,0.75,0.75,6,7,0.857,5,3,8,0,1,1,1,2,12,14.3,A,1,1,tre-white-1,Tre White,2023
+15,15,15,2023-01-01,Southern California,@,Washington State,REG (Conf),L 71-81,*,27,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,2,0.5,3,1,4,0,0,0,1,4,9,3.0,A,0,1,tre-white-1,Tre White,2023
+16,16,16,2023-01-05,Southern California,@,UCLA,REG (Conf),L 58-60,*,25,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,4,4,2,0,0,0,2,7,3.0,A,0,1,tre-white-1,Tre White,2023
+17,17,17,2023-01-12,Southern California,,Colorado,REG (Conf),W 68-61,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,3,0.667,0,1,1,1,0,1,2,2,8,2.8,H,1,1,tre-white-1,Tre White,2023
+18,18,18,2023-01-14,Southern California,,Utah,REG (Conf),W 71-56,*,27,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,0,,2,1,3,2,1,0,0,3,13,10.6,H,1,1,tre-white-1,Tre White,2023
+19,19,19,2023-01-19,Southern California,@,Arizona,REG (Conf),L 66-81,*,22,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,1,4,5,0,0,0,1,4,7,1.2,A,0,1,tre-white-1,Tre White,2023
+20,20,20,2023-01-21,Southern California,@,Arizona State,REG (Conf),W 77-69,*,32,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,2,5,7,1,0,0,3,5,12,5.6,A,1,1,tre-white-1,Tre White,2023
+21,21,21,2023-01-26,Southern California,,UCLA,REG (Conf),W 77-64,*,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,2,2,4,0,0,0,0,4,7,5.1,H,1,1,tre-white-1,Tre White,2023
+22,22,22,2023-02-02,Southern California,,Washington State,REG (Conf),W 80-70,*,30,6,9,0.667,0,1,0.0,6,8,0.75,0.667,2,4,0.5,0,2,2,1,0,0,0,2,14,9.8,H,1,1,tre-white-1,Tre White,2023
+23,23,23,2023-02-04,Southern California,,Washington,REG (Conf),W 80-74,*,33,10,16,0.625,0,1,0.0,10,15,0.667,0.625,2,3,0.667,3,5,8,4,1,0,1,2,22,20.0,H,1,1,tre-white-1,Tre White,2023
+24,24,24,2023-02-09,Southern California,@,Oregon,REG (Conf),L 60-78,*,23,2,8,0.25,0,1,0.0,2,7,0.286,0.25,1,2,0.5,1,5,6,0,0,0,1,5,5,-1.0,A,0,1,tre-white-1,Tre White,2023
+25,25,25,2023-02-11,Southern California,@,Oregon State,REG (Conf),L 58-61,*,34,1,8,0.125,0,0,,1,8,0.125,0.125,5,8,0.625,3,5,8,3,0,0,2,2,7,3.5,A,0,1,tre-white-1,Tre White,2023
+26,26,26,2023-02-16,Southern California,,California,REG (Conf),W 97-60,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,0,6,6,3,0,0,1,4,5,3.2,H,1,1,tre-white-1,Tre White,2023
+27,27,27,2023-02-18,Southern California,,Stanford,REG (Conf),W 85-75,*,22,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,2,4,6,1,1,0,0,2,2,1.0,H,1,1,tre-white-1,Tre White,2023
+28,28,28,2023-02-23,Southern California,@,Colorado,REG (Conf),W 84-65,*,26,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,2,0.5,2,4,6,0,1,1,1,3,10,9.8,A,1,1,tre-white-1,Tre White,2023
+29,29,29,2023-02-25,Southern California,@,Utah,REG (Conf),W 62-49,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,4,4,0,0,0,2,2,2,-0.3,A,1,1,tre-white-1,Tre White,2023
+30,30,30,2023-03-02,Southern California,,Arizona,REG (Conf),L 81-87,*,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,1,2,0,0,0,2,1,2,-3.2,H,0,1,tre-white-1,Tre White,2023
+31,31,31,2023-03-04,Southern California,,Arizona State,REG (Conf),W 68-65,,31,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,4,0.75,2,5,7,2,0,0,2,3,13,10.8,H,1,1,tre-white-1,Tre White,2023
+32,32,32,2023-03-09,Southern California,N,Arizona State,CTOURN,L 72-77,*,27,6,9,0.667,2,3,0.667,4,6,0.667,0.778,2,2,1.0,2,3,5,0,0,0,5,2,16,8.6,N,0,0,tre-white-1,Tre White,2023
+33,33,33,2023-03-17,Southern California,N,Michigan State,ROUND-64,L 62-72,*,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,4,4,1.0,0,3,3,0,0,1,2,2,4,0.7,N,0,0,tre-white-1,Tre White,2023

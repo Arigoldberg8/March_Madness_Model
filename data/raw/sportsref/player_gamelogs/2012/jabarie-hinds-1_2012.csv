@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,West Virginia,,Oral Roberts,REG (Non-Conf),W 78-71,*,24,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,1,1,5,4,0,3,1,9,10.4,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+2,2,2,2011-11-15,West Virginia,,Kent State,REG (Non-Conf),L 60-70,*,30,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,2,1.0,0,2,2,3,3,0,3,0,13,12.1,H,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+3,3,3,2011-11-17,West Virginia,,Alcorn State,REG (Non-Conf),W 97-62,*,23,3,4,0.75,1,1,1.0,2,3,0.667,0.875,3,4,0.75,2,4,6,4,2,1,5,3,10,9.9,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+4,4,4,2011-11-22,West Virginia,N,Morehead State,REG (Non-Conf),W 83-48,*,28,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,1,1.0,0,3,3,5,2,1,3,2,8,6.9,N,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+5,5,5,2011-11-28,West Virginia,,Akron,REG (Non-Conf),W 77-56,*,30,8,12,0.667,1,2,0.5,7,10,0.7,0.708,2,5,0.4,1,3,4,4,5,0,0,0,19,22.0,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+6,6,6,2011-12-03,West Virginia,@,Mississippi State,REG (Non-Conf),L 62-75,*,33,3,9,0.333,0,1,0.0,3,8,0.375,0.333,4,6,0.667,0,4,4,3,1,0,1,5,10,5.4,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+7,7,7,2011-12-08,West Virginia,N,Kansas State,REG (Non-Conf),W 85-80 (2OT),*,24,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,0,1,5,0,0,4,2,2,-1.7,N,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+8,8,8,2011-12-10,West Virginia,,Miami (FL),REG (Non-Conf),W 77-66,*,19,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.8,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+9,9,9,2011-12-17,West Virginia,,Texas A&M–Corpus Christi,REG (Non-Conf),W 84-64,*,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,0,0,4,3,0,1,3,6,6.2,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+10,10,10,2011-12-19,West Virginia,,Tennessee Tech,REG (Non-Conf),W 72-53,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,3,0,0,2,2,2,-0.1,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+11,11,11,2011-12-22,West Virginia,N,Missouri State,REG (Non-Conf),W 70-68 (OT),*,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,2,3,3,-0.2,N,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+12,12,12,2011-12-23,West Virginia,N,Baylor,REG (Non-Conf),L 81-83 (OT),*,38,7,11,0.636,4,5,0.8,3,6,0.5,0.818,0,1,0.0,1,2,3,7,0,1,2,2,18,16.8,N,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+13,13,13,2011-12-28,West Virginia,,Villanova,REG (Conf),W 83-69,*,32,2,10,0.2,1,3,0.333,1,7,0.143,0.25,1,1,1.0,1,3,4,5,1,0,1,3,6,3.7,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+14,14,14,2011-12-30,West Virginia,@,Seton Hall,REG (Conf),L 48-67,*,29,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,1,1,3,1,0,4,2,6,1.6,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+15,15,15,2012-01-04,West Virginia,@,Rutgers,REG (Conf),W 85-64,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,6,6,1.0,0,3,3,7,0,0,3,1,11,10.7,A,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+16,16,16,2012-01-07,West Virginia,,Georgetown,REG (Conf),W 74-62,*,29,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,2,2,3,0,0,4,0,1,-2.1,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+17,17,17,2012-01-09,West Virginia,@,Connecticut,REG (Conf),L 57-64,*,37,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,2,0.5,1,2,3,1,0,0,1,3,8,3.0,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+18,18,18,2012-01-14,West Virginia,,Rutgers,REG (Conf),W 84-60,*,27,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,2,0.0,1,1,2,2,2,0,3,1,11,6.5,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+19,19,19,2012-01-18,West Virginia,N,Marshall,REG (Non-Conf),W 78-62,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,0,5,5,3,2,0,1,0,10,12.4,N,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+20,20,20,2012-01-21,West Virginia,,Cincinnati,REG (Conf),W 77-74 (OT),*,40,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,3,0.667,0,5,5,4,3,0,2,4,12,11.3,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+21,21,21,2012-01-25,West Virginia,@,St. John's (NY),REG (Conf),L 62-78,*,35,3,12,0.25,2,6,0.333,1,6,0.167,0.333,0,0,,0,1,1,2,1,0,3,4,8,-1.1,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+22,22,22,2012-01-28,West Virginia,@,Syracuse,REG (Conf),L 61-63,*,30,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,3,2,5,3,1,0,0,1,6,9.1,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+23,23,23,2012-01-30,West Virginia,,Pittsburgh,REG (Conf),L 66-72,*,30,4,11,0.364,1,5,0.2,3,6,0.5,0.409,1,2,0.5,0,0,0,3,1,0,1,3,10,4.4,H,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+24,24,24,2012-02-05,West Virginia,@,Providence,REG (Conf),W 87-84 (OT),*,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,2,1,0,0,5,2,1.7,A,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+25,25,25,2012-02-08,West Virginia,,Notre Dame,REG (Conf),L 51-55,*,31,8,12,0.667,1,3,0.333,7,9,0.778,0.708,0,0,,1,3,4,1,1,0,1,1,17,13.7,H,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+26,26,26,2012-02-11,West Virginia,,Louisville,REG (Conf),L 74-77,*,38,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,2,2,6,3,0,1,2,7,8.6,H,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+27,27,27,2012-02-16,West Virginia,@,Pittsburgh,REG (Conf),W 66-48,*,36,2,9,0.222,1,2,0.5,1,7,0.143,0.278,0,0,,0,3,3,3,3,0,0,1,5,5.1,A,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+28,28,28,2012-02-22,West Virginia,@,Notre Dame,REG (Conf),L 44-71,*,30,1,9,0.111,1,2,0.5,0,7,0.0,0.167,0,0,,0,2,2,3,0,0,2,1,3,-2.6,A,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+29,29,29,2012-02-24,West Virginia,,Marquette,REG (Conf),L 60-61,*,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,4,4,3,0,0,4,1,0,-3.9,H,0,1,jabarie-hinds-1,Jabarie Hinds,2012
+30,30,30,2012-02-28,West Virginia,,DePaul,REG (Conf),W 92-75,*,23,6,8,0.75,1,1,1.0,5,7,0.714,0.813,1,1,1.0,0,1,1,4,3,0,1,1,14,15.5,H,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+31,31,31,2012-03-03,West Virginia,@,South Florida,REG (Conf),W 50-44,*,32,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,2,1,0,4,3,1,-5.0,A,1,1,jabarie-hinds-1,Jabarie Hinds,2012
+32,32,32,2012-03-07,West Virginia,N,Connecticut,CTOURN,L 67-71 (OT),*,33,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,1,2,1,1,0,1,4,6,1.7,N,0,0,jabarie-hinds-1,Jabarie Hinds,2012
+33,33,33,2012-03-15,West Virginia,N,Gonzaga,ROUND-64,L 54-77,*,26,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,5,0.2,0,3,3,2,1,0,1,0,1,-1.1,N,0,0,jabarie-hinds-1,Jabarie Hinds,2012

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2023-11-06,Duquesne,,Cleveland State,REG (Non-Conf),W 79-77,,13,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,3,3,6,1,0,1,1,3,4,4.4,H,1,1,david-dixon-2,David Dixon,2024
+2,29,2,2023-11-10,Duquesne,N,College of Charleston,REG (Non-Conf),W 90-72,,14,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,1,2,3,0,-1.5,N,1,1,david-dixon-2,David Dixon,2024
+3,30,3,2023-11-13,Duquesne,,Stony Brook,REG (Non-Conf),W 85-63,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,2,4,6,1,3,2,1,4,0,3.0,H,1,1,david-dixon-2,David Dixon,2024
+4,31,4,2023-11-15,Duquesne,,Princeton,REG (Non-Conf),L 67-70,,24,0,2,0.0,0,0,,0,2,0.0,0.0,2,3,0.667,1,2,3,0,0,3,2,0,2,1.6,H,0,1,david-dixon-2,David Dixon,2024
+5,32,5,2023-11-17,Duquesne,,Rider,REG (Non-Conf),W 77-58,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,1,0.0,1,5,6,1,1,4,5,3,4,2.1,H,1,1,david-dixon-2,David Dixon,2024
+6,33,6,2023-11-22,Duquesne,@,Nebraska,REG (Non-Conf),L 79-89,,12,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,4,2,6,0,0,1,0,5,7,7.8,A,0,1,david-dixon-2,David Dixon,2024
+7,34,7,2023-11-29,Duquesne,,UC Irvine,REG (Non-Conf),W 66-62,,24,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,3,0.667,3,2,5,2,2,5,1,0,12,15.9,H,1,1,david-dixon-2,David Dixon,2024
+8,35,8,2023-12-06,Duquesne,@,Marshall,REG (Non-Conf),W 85-72,,20,1,5,0.2,0,0,,1,5,0.2,0.2,9,14,0.643,3,4,7,1,3,1,5,3,11,7.4,A,1,1,david-dixon-2,David Dixon,2024
+9,36,9,2023-12-08,Duquesne,,Saint Peter's,REG (Non-Conf),W 68-59,,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,3,3,0,0,5,0,2,6,8.7,H,1,1,david-dixon-2,David Dixon,2024
+10,37,10,2023-12-18,Duquesne,N,Bradley,REG (Non-Conf),W 69-67,,18,2,8,0.25,0,0,,2,8,0.25,0.25,3,4,0.75,3,0,3,0,1,0,2,4,7,1.3,N,1,1,david-dixon-2,David Dixon,2024
+11,38,11,2023-12-23,Duquesne,N,Santa Clara,REG (Non-Conf),L 73-81,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,1,0,1,1,0,0,1,5,4,1.0,N,0,1,david-dixon-2,David Dixon,2024
+12,39,12,2023-12-30,Duquesne,,Cleary,REG (Non-Conf),W 95-47,*,11,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,3,2,5,1,1,0,2,0,12,11.2,H,1,1,david-dixon-2,David Dixon,2024
+13,40,13,2024-01-03,Duquesne,@,Massachusetts,REG (Conf),L 61-80,*,10,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,4,0,-2.6,A,0,1,david-dixon-2,David Dixon,2024
+14,41,14,2024-01-06,Duquesne,@,Loyola Chicago,REG (Conf),L 67-72,,26,8,14,0.571,1,2,0.5,7,12,0.583,0.607,2,2,1.0,2,5,7,0,2,1,2,4,19,14.4,A,0,1,david-dixon-2,David Dixon,2024
+15,42,15,2024-01-12,Duquesne,,Dayton,REG (Conf),L 62-72,,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,3,4,7,0,0,3,3,3,4,1.8,H,0,1,david-dixon-2,David Dixon,2024
+16,43,16,2024-01-16,Duquesne,,Richmond,REG (Conf),L 61-63,,23,5,9,0.556,0,0,,5,9,0.556,0.556,2,2,1.0,1,5,6,1,1,0,1,1,12,10.2,H,0,1,david-dixon-2,David Dixon,2024
+17,44,17,2024-01-20,Duquesne,@,Saint Joseph's,REG (Conf),L 69-71,,16,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,2,4,6,1,0,2,1,3,6,7.5,A,0,1,david-dixon-2,David Dixon,2024
+18,45,18,2024-01-23,Duquesne,,St. Bonaventure,REG (Conf),W 54-50,,22,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,3,4,7,0,2,1,0,4,6,6.9,H,1,1,david-dixon-2,David Dixon,2024
+19,46,19,2024-01-27,Duquesne,,Fordham,REG (Conf),W 68-59,,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,3,0.667,0,6,6,0,3,3,2,5,12,11.6,H,1,1,david-dixon-2,David Dixon,2024
+20,47,20,2024-01-31,Duquesne,,Chicago State,REG (Non-Conf),W 65-60,,21,4,6,0.667,0,0,,4,6,0.667,0.667,2,5,0.4,3,3,6,0,2,2,1,3,10,10.4,H,1,1,david-dixon-2,David Dixon,2024
+21,48,21,2024-02-03,Duquesne,@,Rhode Island,REG (Conf),W 85-71,,23,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,1,0,5,3,2,4,3.3,A,1,1,david-dixon-2,David Dixon,2024
+22,49,22,2024-02-07,Duquesne,,Davidson,REG (Conf),L 59-72,,26,3,6,0.5,0,0,,3,6,0.5,0.5,4,4,1.0,1,3,4,0,0,1,1,2,10,7.5,H,0,1,david-dixon-2,David Dixon,2024
+23,50,23,2024-02-10,Duquesne,@,St. Bonaventure,REG (Conf),W 75-69,,20,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,2,3,5,0,0,0,0,5,9,4.9,A,1,1,david-dixon-2,David Dixon,2024
+24,51,24,2024-02-13,Duquesne,@,Dayton,REG (Conf),L 59-75,,24,5,7,0.714,0,2,0.0,5,5,1.0,0.714,1,2,0.5,0,3,3,1,0,2,1,2,11,8.9,A,0,1,david-dixon-2,David Dixon,2024
+25,52,25,2024-02-17,Duquesne,,Saint Joseph's,REG (Conf),W 66-56,*,29,6,9,0.667,1,1,1.0,5,8,0.625,0.722,4,4,1.0,3,7,10,2,3,2,0,2,17,22.3,H,1,1,david-dixon-2,David Dixon,2024
+26,53,26,2024-02-20,Duquesne,,Saint Louis,REG (Conf),W 81-66,*,28,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,2,2,3,2,2,1.5,H,1,1,david-dixon-2,David Dixon,2024
+27,54,27,2024-02-23,Duquesne,@,Fordham,REG (Conf),L 67-79,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,1,2,1,0,1,1,1,3,2.6,A,0,1,david-dixon-2,David Dixon,2024
+28,55,28,2024-02-28,Duquesne,,La Salle,REG (Conf),W 75-63,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,3,6,0.5,3,2,5,1,1,2,1,1,9,8.5,H,1,1,david-dixon-2,David Dixon,2024
+29,56,29,2024-03-02,Duquesne,@,George Mason,REG (Conf),W 59-51,,19,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,3,3,0,1,0,3,4,8,4.1,A,1,1,david-dixon-2,David Dixon,2024
+30,57,30,2024-03-05,Duquesne,@,VCU,REG (Conf),W 69-59,,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,5,6,1,0,0,1,5,2,0.9,A,1,1,david-dixon-2,David Dixon,2024
+31,58,31,2024-03-09,Duquesne,,George Washington,REG (Conf),W 67-65,,27,4,6,0.667,0,0,,4,6,0.667,0.667,3,3,1.0,1,6,7,0,0,4,1,0,11,12.7,H,1,1,david-dixon-2,David Dixon,2024
+32,59,32,2024-03-13,Duquesne,N,Saint Louis,CTOURN,W 83-73,,24,5,8,0.625,0,1,0.0,5,7,0.714,0.625,3,4,0.75,1,5,6,1,1,1,1,5,13,10.6,N,1,0,david-dixon-2,David Dixon,2024
+33,60,33,2024-03-14,Duquesne,N,Dayton,CTOURN,W 65-57,,10,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,3,0,3,1,0,1,0,5,7,6.2,N,1,0,david-dixon-2,David Dixon,2024
+34,61,34,2024-03-16,Duquesne,N,St. Bonaventure,CTOURN,W 70-60,,19,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,3,3,1,0,0,4,1,0,-5.6,N,1,0,david-dixon-2,David Dixon,2024
+35,62,35,2024-03-17,Duquesne,N,VCU,CTOURN,W 57-51,,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,3,4,7,3,1,1,1,3,6,9.2,N,1,0,david-dixon-2,David Dixon,2024
+36,63,36,2024-03-21,Duquesne,N,Brigham Young,ROUND-64,W 71-67,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,1,3,4,2,1,3,2,2,7,8.0,N,1,0,david-dixon-2,David Dixon,2024
+37,64,37,2024-03-23,Duquesne,N,Illinois,ROUND-32,L 63-89,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,2,4,6,1,1,0,4,2,8,3.8,N,0,0,david-dixon-2,David Dixon,2024

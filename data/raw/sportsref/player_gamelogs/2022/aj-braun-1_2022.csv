@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,4,2021-11-22,Wright State,N,George Washington,REG (Non-Conf),L 63-74,,14,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,0,2,0,0,0,0,0,8,7.5,N,0,1,aj-braun-1,AJ Braun,2022
+2,2,5,2021-11-23,Wright State,N,James Madison,REG (Non-Conf),L 76-78,,16,3,3,1.0,0,0,,3,3,1.0,1.0,3,5,0.6,0,4,4,0,2,0,0,0,9,10.5,N,0,1,aj-braun-1,AJ Braun,2022
+3,3,6,2021-11-24,Wright State,N,Long Beach State,REG (Non-Conf),L 76-85,,18,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,3,3,6,2,0,1,0,3,5,6.2,N,0,1,aj-braun-1,AJ Braun,2022
+4,4,7,2021-12-02,Wright State,@,Purdue Fort Wayne,REG (Conf),W 86-73,*,25,8,9,0.889,0,0,,8,9,0.889,0.889,1,2,0.5,0,2,2,1,0,0,0,1,17,14.4,A,1,1,aj-braun-1,AJ Braun,2022
+5,5,8,2021-12-04,Wright State,@,Cleveland State,REG (Conf),L 75-85,*,23,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,1,0,1,2,1,4,2.7,A,0,1,aj-braun-1,AJ Braun,2022
+6,6,9,2021-12-15,Wright State,,Akron,REG (Non-Conf),L 48-66,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,1,2,0.2,H,0,1,aj-braun-1,AJ Braun,2022
+7,7,10,2021-12-18,Wright State,,Tennessee Tech,REG (Non-Conf),W 72-63,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,0,1,1,1,0,0,1,1,3,0.1,H,1,1,aj-braun-1,AJ Braun,2022
+8,8,11,2021-12-21,Wright State,@,NC State,REG (Non-Conf),W 84-70,*,18,6,10,0.6,0,0,,6,10,0.6,0.6,1,1,1.0,4,3,7,2,0,2,1,2,13,13.1,A,1,1,aj-braun-1,AJ Braun,2022
+9,9,14,2022-01-06,Wright State,,Illinois–Chicago,REG (Conf),W 90-72,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,1,1,2,0,0,0,1,0,7,5.0,H,1,1,aj-braun-1,AJ Braun,2022
+10,10,15,2022-01-08,Wright State,,IUPUI,REG (Conf),W 72-58,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,3,1,4,0,0,0,2,0,6,2.9,H,1,1,aj-braun-1,AJ Braun,2022
+11,11,18,2022-01-20,Wright State,@,IUPUI,REG (Conf),W 73-45,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,2,0,2,0,0,1,3,5,7,0.7,A,1,1,aj-braun-1,AJ Braun,2022
+12,12,19,2022-01-22,Wright State,@,Illinois–Chicago,REG (Conf),W 97-81,*,19,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,2,3,5,1,0,0,2,2,10,6.9,A,1,1,aj-braun-1,AJ Braun,2022
+13,13,20,2022-01-25,Wright State,@,Northern Kentucky,REG (Conf),L 63-73,*,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,1,0,1,2,1,4,1.6,A,0,1,aj-braun-1,AJ Braun,2022
+14,14,21,2022-01-28,Wright State,,Cleveland State,REG (Conf),L 67-71,*,18,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,4,3,7,1,1,0,3,1,6,5.3,H,0,1,aj-braun-1,AJ Braun,2022
+15,15,22,2022-01-30,Wright State,,Purdue Fort Wayne,REG (Conf),W 75-63,*,15,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,3,4,7,0,0,1,0,0,4,4.6,H,1,1,aj-braun-1,AJ Braun,2022
+16,16,23,2022-02-04,Wright State,,Detroit Mercy,REG (Conf),W 90-59,*,23,4,7,0.571,0,0,,4,7,0.571,0.571,3,6,0.5,1,5,6,0,1,0,0,2,11,8.9,H,1,1,aj-braun-1,AJ Braun,2022
+17,17,24,2022-02-05,Wright State,,Oakland,REG (Conf),W 75-64,*,7,0,4,0.0,0,0,,0,4,0.0,0.0,0,2,0.0,2,1,3,0,0,1,0,2,0,-2.0,H,1,1,aj-braun-1,AJ Braun,2022
+18,18,25,2022-02-09,Wright State,@,Green Bay,REG (Conf),W 79-62,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,0,0,2,0,0,4,4.7,A,1,1,aj-braun-1,AJ Braun,2022
+19,19,26,2022-02-11,Wright State,@,Milwaukee,REG (Conf),L 57-60,*,10,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,3,0,3,0,0,0,0,0,0,-0.7,A,0,1,aj-braun-1,AJ Braun,2022
+20,20,27,2022-02-13,Wright State,,Northern Kentucky,REG (Conf),L 71-75,,12,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,0,1,0,0,0,0,1,4,3.3,H,0,1,aj-braun-1,AJ Braun,2022
+21,21,29,2022-02-20,Wright State,@,Detroit Mercy,REG (Conf),L 75-80,,9,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,0,0,0,1,1,4,1.9,A,0,1,aj-braun-1,AJ Braun,2022
+22,22,30,2022-02-24,Wright State,,Youngstown State,REG (Conf),W 84-71,*,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,0,0,0,0,0,0,0,1,6,2.9,H,1,1,aj-braun-1,AJ Braun,2022
+23,23,31,2022-02-26,Wright State,,Robert Morris,REG (Conf),W 71-61,*,10,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,0,1,1,0,0,0,3,2,7,1.5,H,1,1,aj-braun-1,AJ Braun,2022
+24,24,32,2022-03-03,Wright State,,Oakland,CTOURN,W 75-63,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,0,2,0,0.2,H,1,0,aj-braun-1,AJ Braun,2022
+25,25,33,2022-03-07,Wright State,N,Cleveland State,CTOURN,W 82-67,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,2,2,1,0,0,2,2,4,0.8,N,1,0,aj-braun-1,AJ Braun,2022
+26,26,34,2022-03-08,Wright State,N,Northern Kentucky,CTOURN,W 72-71,*,13,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,1,0,0,1,1,2,-0.4,N,1,0,aj-braun-1,AJ Braun,2022
+27,27,35,2022-03-16,Wright State,N,Bryant,FIRST-FOUR,W 93-82,*,13,0,2,0.0,0,0,,0,2,0.0,0.0,4,6,0.667,3,1,4,1,0,0,1,2,4,3.1,N,1,0,aj-braun-1,AJ Braun,2022
+28,28,36,2022-03-18,Wright State,N,Arizona,ROUND-64,L 70-87,*,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,0,0,1,0,-1.9,N,0,0,aj-braun-1,AJ Braun,2022

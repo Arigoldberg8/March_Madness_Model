@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,114,1,2013-11-09,Ohio State,,Morgan State,REG (Non-Conf),W 89-50,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,3,1.0,0,6,6,6,1,0,3,1,5,5.5,H,1,1,aaron-craft-1,Aaron Craft,2014
+2,115,2,2013-11-12,Ohio State,,Ohio,REG (Non-Conf),W 79-69,*,37,2,6,0.333,0,0,,2,6,0.333,0.333,14,18,0.778,0,4,4,4,3,0,4,4,18,14.4,H,1,1,aaron-craft-1,Aaron Craft,2014
+3,116,3,2013-11-16,Ohio State,@,Marquette,REG (Non-Conf),W 52-35,*,39,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,4,0.0,0,7,7,10,2,0,3,3,10,11.0,A,1,1,aaron-craft-1,Aaron Craft,2014
+4,117,4,2013-11-20,Ohio State,,American,REG (Non-Conf),W 63-52,*,34,2,9,0.222,0,2,0.0,2,7,0.286,0.222,5,6,0.833,1,1,2,4,7,0,1,1,9,12.5,H,1,1,aaron-craft-1,Aaron Craft,2014
+5,118,5,2013-11-25,Ohio State,,Wyoming,REG (Non-Conf),W 65-50,*,34,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,0,4,4,3,1,0,1,3,10,8.1,H,1,1,aaron-craft-1,Aaron Craft,2014
+6,119,6,2013-11-29,Ohio State,,North Florida,REG (Non-Conf),W 99-64,*,28,7,8,0.875,1,1,1.0,6,7,0.857,0.938,1,1,1.0,0,0,0,5,1,0,1,2,16,15.9,H,1,1,aaron-craft-1,Aaron Craft,2014
+7,120,7,2013-12-04,Ohio State,,Maryland,REG (Non-Conf),W 76-60,*,38,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,4,1.0,0,2,2,6,5,0,3,3,10,13.3,H,1,1,aaron-craft-1,Aaron Craft,2014
+8,121,8,2013-12-07,Ohio State,,Central Connecticut State,REG (Non-Conf),W 74-56,*,36,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,3,4,2,1,0,2,2,7,5.9,H,1,1,aaron-craft-1,Aaron Craft,2014
+9,122,9,2013-12-11,Ohio State,,Bryant,REG (Non-Conf),W 86-48,*,28,2,4,0.5,2,3,0.667,0,1,0.0,0.75,1,1,1.0,0,2,2,4,2,0,0,2,7,9.6,H,1,1,aaron-craft-1,Aaron Craft,2014
+10,123,10,2013-12-14,Ohio State,,North Dakota State,REG (Non-Conf),W 79-62,*,32,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,1,1,7,1,0,2,2,6,6.7,H,1,1,aaron-craft-1,Aaron Craft,2014
+11,124,11,2013-12-18,Ohio State,,Delaware,REG (Non-Conf),W 76-64,*,31,3,10,0.3,1,3,0.333,2,7,0.286,0.35,5,7,0.714,1,2,3,2,4,0,4,3,12,6.9,H,1,1,aaron-craft-1,Aaron Craft,2014
+12,125,12,2013-12-21,Ohio State,N,Notre Dame,REG (Non-Conf),W 64-61,*,37,3,5,0.6,0,0,,3,5,0.6,0.6,4,6,0.667,0,3,3,3,3,0,2,3,10,9.7,N,1,1,aaron-craft-1,Aaron Craft,2014
+13,126,13,2013-12-27,Ohio State,,Louisiana–Monroe,REG (Non-Conf),W 71-31,*,24,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,4,0,0,1,1,4,5.7,H,1,1,aaron-craft-1,Aaron Craft,2014
+14,127,14,2013-12-31,Ohio State,@,Purdue,REG (Conf),W 78-69,*,40,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,3,0.333,0,8,8,10,4,1,0,2,7,15.1,A,1,1,aaron-craft-1,Aaron Craft,2014
+15,128,15,2014-01-04,Ohio State,,Nebraska,REG (Conf),W 84-53,*,30,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,2,0.0,0,3,3,4,3,0,0,1,9,11.9,H,1,1,aaron-craft-1,Aaron Craft,2014
+16,129,16,2014-01-07,Ohio State,@,Michigan State,REG (Conf),L 68-72 (OT),*,45,3,8,0.375,0,2,0.0,3,6,0.5,0.375,3,3,1.0,0,2,2,6,1,0,4,4,9,4.8,A,0,1,aaron-craft-1,Aaron Craft,2014
+17,130,17,2014-01-12,Ohio State,,Iowa,REG (Conf),L 74-84,*,36,2,5,0.4,1,1,1.0,1,4,0.25,0.5,1,3,0.333,0,3,3,6,3,0,6,5,6,2.6,H,0,1,aaron-craft-1,Aaron Craft,2014
+18,131,18,2014-01-16,Ohio State,@,Minnesota,REG (Conf),L 53-63,*,35,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,0,0,4,1,0,5,2,7,1.6,A,0,1,aaron-craft-1,Aaron Craft,2014
+19,132,19,2014-01-20,Ohio State,@,Nebraska,REG (Conf),L 62-68,*,36,2,5,0.4,0,0,,2,5,0.4,0.4,8,10,0.8,1,6,7,3,2,0,4,4,12,9.5,A,0,1,aaron-craft-1,Aaron Craft,2014
+20,133,20,2014-01-23,Ohio State,,Illinois,REG (Conf),W 62-55,*,36,3,8,0.375,1,2,0.5,2,6,0.333,0.438,4,4,1.0,1,5,6,5,2,0,2,2,11,11.5,H,1,1,aaron-craft-1,Aaron Craft,2014
+21,134,21,2014-01-29,Ohio State,,Penn State,REG (Conf),L 70-71 (OT),*,41,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,0,2,2,4,4,0,1,1,8,10.6,H,0,1,aaron-craft-1,Aaron Craft,2014
+22,135,22,2014-02-01,Ohio State,@,Wisconsin,REG (Conf),W 59-58,*,30,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,0,4,4,4,2,0,1,2,7,9.2,A,1,1,aaron-craft-1,Aaron Craft,2014
+23,136,23,2014-02-04,Ohio State,@,Iowa,REG (Conf),W 76-69,*,39,6,7,0.857,2,2,1.0,4,5,0.8,1.0,3,4,0.75,0,3,3,6,6,0,4,2,17,20.4,A,1,1,aaron-craft-1,Aaron Craft,2014
+24,137,24,2014-02-08,Ohio State,,Purdue,REG (Conf),W 67-49,*,36,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,2,0.5,0,3,3,4,3,0,3,1,7,6.2,H,1,1,aaron-craft-1,Aaron Craft,2014
+25,138,25,2014-02-11,Ohio State,,Michigan,REG (Conf),L 60-70,*,37,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,1,1,2,0,0,2,3,8,3.5,H,0,1,aaron-craft-1,Aaron Craft,2014
+26,139,26,2014-02-15,Ohio State,@,Illinois,REG (Conf),W 48-39,*,25,5,6,0.833,1,1,1.0,4,5,0.8,0.917,3,5,0.6,0,3,3,2,3,0,5,4,14,9.7,A,1,1,aaron-craft-1,Aaron Craft,2014
+27,140,27,2014-02-19,Ohio State,,Northwestern,REG (Conf),W 76-60,*,34,4,7,0.571,0,1,0.0,4,6,0.667,0.571,6,7,0.857,0,3,3,3,4,0,2,0,14,15.3,H,1,1,aaron-craft-1,Aaron Craft,2014
+28,141,28,2014-02-22,Ohio State,,Minnesota,REG (Conf),W 64-46,*,34,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,0,6,6,5,4,0,2,2,6,8.4,H,1,1,aaron-craft-1,Aaron Craft,2014
+29,142,29,2014-02-27,Ohio State,@,Penn State,REG (Conf),L 63-65,*,19,3,3,1.0,1,1,1.0,2,2,1.0,1.167,3,3,1.0,1,2,3,4,0,0,5,4,10,6.6,A,0,1,aaron-craft-1,Aaron Craft,2014
+30,143,30,2014-03-02,Ohio State,@,Indiana,REG (Conf),L 64-72,*,40,2,11,0.182,0,3,0.0,2,8,0.25,0.182,3,4,0.75,0,6,6,4,3,0,3,3,7,3.1,A,0,1,aaron-craft-1,Aaron Craft,2014
+31,144,31,2014-03-09,Ohio State,,Michigan State,REG (Conf),W 69-67,*,37,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,6,0.667,0,3,3,7,4,0,2,1,12,13.9,H,1,1,aaron-craft-1,Aaron Craft,2014
+32,145,32,2014-03-13,Ohio State,N,Purdue,CTOURN,W 63-61,*,38,6,16,0.375,0,4,0.0,6,12,0.5,0.375,4,6,0.667,2,0,2,5,3,1,3,2,16,11.2,N,1,0,aaron-craft-1,Aaron Craft,2014
+33,146,33,2014-03-14,Ohio State,N,Nebraska,CTOURN,W 71-67,*,37,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,3,3,6,6,1,1,0,3,6,9.6,N,1,0,aaron-craft-1,Aaron Craft,2014
+34,147,34,2014-03-15,Ohio State,N,Michigan,CTOURN,L 69-72,*,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,2,0.0,0,7,7,6,1,0,4,4,9,6.6,N,0,0,aaron-craft-1,Aaron Craft,2014
+35,148,35,2014-03-20,Ohio State,N,Dayton,ROUND-64,L 59-60,*,38,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,5,0.8,0,5,5,4,4,0,5,3,16,13.8,N,0,0,aaron-craft-1,Aaron Craft,2014

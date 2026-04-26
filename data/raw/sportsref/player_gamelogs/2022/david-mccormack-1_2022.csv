@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2021-11-09,Kansas,N,Michigan State,REG (Non-Conf),W 87-74,*,22,4,11,0.364,0,0,,4,11,0.364,0.364,2,5,0.4,2,0,2,0,0,2,2,4,10,1.9,N,1,1,david-mccormack-1,David McCormack,2022
+2,94,2,2021-11-12,Kansas,,Tarleton State,REG (Non-Conf),W 88-62,*,23,3,5,0.6,0,0,,3,5,0.6,0.6,0,2,0.0,2,6,8,0,0,5,0,0,6,9.6,H,1,1,david-mccormack-1,David McCormack,2022
+3,95,3,2021-11-18,Kansas,,Stony Brook,REG (Non-Conf),W 88-59,*,15,5,8,0.625,0,0,,5,8,0.625,0.625,2,3,0.667,3,5,8,0,1,1,2,1,12,10.9,H,1,1,david-mccormack-1,David McCormack,2022
+4,96,4,2021-11-25,Kansas,N,North Texas,REG (Non-Conf),W 71-59,*,13,1,6,0.167,0,0,,1,6,0.167,0.167,1,2,0.5,1,2,3,0,0,0,0,1,3,-0.3,N,1,1,david-mccormack-1,David McCormack,2022
+5,97,5,2021-11-26,Kansas,N,Dayton,REG (Non-Conf),L 73-74,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,4,1,5,1,5,2,2,4,5,7.8,N,0,1,david-mccormack-1,David McCormack,2022
+6,98,6,2021-11-28,Kansas,N,Iona,REG (Non-Conf),W 96-83,*,14,4,6,0.667,0,0,,4,6,0.667,0.667,5,5,1.0,2,3,5,0,2,0,1,4,13,12.1,N,1,1,david-mccormack-1,David McCormack,2022
+7,99,7,2021-12-03,Kansas,@,St. John's (NY),REG (Non-Conf),W 95-75,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,5,8,0.625,8,5,13,1,1,1,3,3,15,15.5,A,1,1,david-mccormack-1,David McCormack,2022
+8,100,8,2021-12-07,Kansas,,UTEP,REG (Non-Conf),W 78-52,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,0,3,3,1,1,3,1,1,8,8.3,H,1,1,david-mccormack-1,David McCormack,2022
+9,101,9,2021-12-11,Kansas,,Missouri,REG (Non-Conf),W 102-65,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,5,7,0.714,4,3,7,3,1,1,2,3,11,11.5,H,1,1,david-mccormack-1,David McCormack,2022
+10,102,10,2021-12-18,Kansas,,Stephen F. Austin,REG (Non-Conf),W 80-72,*,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,0,0,0,2,0,2,3,2,-0.3,H,1,1,david-mccormack-1,David McCormack,2022
+11,103,11,2021-12-29,Kansas,,Nevada,REG (Non-Conf),W 88-61,*,23,6,10,0.6,0,0,,6,10,0.6,0.6,2,4,0.5,3,3,6,1,1,0,1,4,14,10.7,H,1,1,david-mccormack-1,David McCormack,2022
+12,104,12,2022-01-01,Kansas,,George Mason,REG (Non-Conf),W 76-67,*,10,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,4,0,4,0,1,0,1,0,1,1.3,H,1,1,david-mccormack-1,David McCormack,2022
+13,105,13,2022-01-04,Kansas,@,Oklahoma State,REG (Conf),W 74-63,,23,7,13,0.538,0,1,0.0,7,12,0.583,0.538,3,3,1.0,7,8,15,1,0,0,2,2,17,15.9,A,1,1,david-mccormack-1,David McCormack,2022
+14,106,14,2022-01-08,Kansas,@,Texas Tech,REG (Conf),L 67-75,,14,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,6,6,1,0,1,1,1,4,4.1,A,0,1,david-mccormack-1,David McCormack,2022
+15,107,15,2022-01-11,Kansas,,Iowa State,REG (Conf),W 62-61,,10,0,0,,0,0,,0,0,,,1,2,0.5,1,3,4,0,0,1,1,1,1,1.5,H,1,1,david-mccormack-1,David McCormack,2022
+16,108,16,2022-01-15,Kansas,,West Virginia,REG (Conf),W 85-59,*,29,9,13,0.692,0,0,,9,13,0.692,0.692,1,1,1.0,10,5,15,3,0,1,2,3,19,21.6,H,1,1,david-mccormack-1,David McCormack,2022
+17,109,17,2022-01-18,Kansas,@,Oklahoma,REG (Conf),W 67-64,*,26,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,1,3,4,3,0,1,0,1,6,6.3,A,1,1,david-mccormack-1,David McCormack,2022
+18,110,18,2022-01-22,Kansas,@,Kansas State,REG (Conf),W 78-75,*,26,4,10,0.4,0,0,,4,10,0.4,0.4,3,4,0.75,8,7,15,1,0,0,4,2,11,8.8,A,1,1,david-mccormack-1,David McCormack,2022
+19,111,19,2022-01-24,Kansas,,Texas Tech,REG (Conf),W 94-91 (2OT),*,23,3,5,0.6,0,0,,3,5,0.6,0.6,7,8,0.875,3,2,5,1,0,0,0,1,13,13.3,H,1,1,david-mccormack-1,David McCormack,2022
+20,112,20,2022-01-29,Kansas,,Kentucky,REG (Non-Conf),L 62-80,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,0,0,0,2,1,3,-0.5,H,0,1,david-mccormack-1,David McCormack,2022
+21,113,21,2022-02-01,Kansas,@,Iowa State,REG (Conf),W 70-61,*,31,7,7,1.0,0,0,,7,7,1.0,1.0,0,0,,5,9,14,2,1,2,4,0,14,17.9,A,1,1,david-mccormack-1,David McCormack,2022
+22,114,22,2022-02-05,Kansas,,Baylor,REG (Conf),W 83-59,*,21,1,6,0.167,0,0,,1,6,0.167,0.167,7,8,0.875,4,4,8,1,0,1,2,2,9,7.4,H,1,1,david-mccormack-1,David McCormack,2022
+23,115,23,2022-02-07,Kansas,@,Texas,REG (Conf),L 76-79,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,4,6,0.667,2,5,7,0,0,2,2,3,16,11.7,A,0,1,david-mccormack-1,David McCormack,2022
+24,116,24,2022-02-12,Kansas,,Oklahoma,REG (Conf),W 71-69,*,18,5,8,0.625,0,0,,5,8,0.625,0.625,1,2,0.5,3,1,4,0,0,1,2,2,11,7.3,H,1,1,david-mccormack-1,David McCormack,2022
+25,117,25,2022-02-14,Kansas,,Oklahoma State,REG (Conf),W 76-62,*,29,4,10,0.4,0,0,,4,10,0.4,0.4,4,4,1.0,5,7,12,3,0,2,2,1,12,13.3,H,1,1,david-mccormack-1,David McCormack,2022
+26,118,26,2022-02-19,Kansas,@,West Virginia,REG (Conf),W 71-58,*,25,7,12,0.583,0,0,,7,12,0.583,0.583,5,7,0.714,5,6,11,2,0,0,3,4,19,14.7,A,1,1,david-mccormack-1,David McCormack,2022
+27,119,27,2022-02-22,Kansas,,Kansas State,REG (Conf),W 102-83,*,19,2,6,0.333,0,0,,2,6,0.333,0.333,1,1,1.0,2,1,3,2,1,0,1,2,5,3.9,H,1,1,david-mccormack-1,David McCormack,2022
+28,120,28,2022-02-26,Kansas,@,Baylor,REG (Conf),L 70-80,*,31,4,11,0.364,0,0,,4,11,0.364,0.364,2,3,0.667,7,6,13,2,2,0,0,3,10,12.4,A,0,1,david-mccormack-1,David McCormack,2022
+29,121,29,2022-03-01,Kansas,@,TCU,REG (Conf),L 64-74,*,21,2,6,0.333,0,0,,2,6,0.333,0.333,7,9,0.778,6,2,8,0,0,0,1,2,11,9.8,A,0,1,david-mccormack-1,David McCormack,2022
+30,122,30,2022-03-03,Kansas,,TCU,REG (Conf),W 72-68,*,27,2,7,0.286,0,0,,2,7,0.286,0.286,6,6,1.0,1,3,4,1,0,0,1,3,10,6.0,H,1,1,david-mccormack-1,David McCormack,2022
+31,123,31,2022-03-05,Kansas,,Texas,REG (Conf),W 70-63 (OT),*,36,6,13,0.462,0,0,,6,13,0.462,0.462,10,10,1.0,2,8,10,1,1,1,1,4,22,18.9,H,1,1,david-mccormack-1,David McCormack,2022
+32,124,32,2022-03-10,Kansas,N,West Virginia,CTOURN,W 87-63,*,10,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,3,2,5,0,0,0,3,2,9,5.5,N,1,0,david-mccormack-1,David McCormack,2022
+33,125,33,2022-03-11,Kansas,N,TCU,CTOURN,W 75-62,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,1,2,1,0,1,0,3,5,4.1,N,1,0,david-mccormack-1,David McCormack,2022
+34,126,34,2022-03-12,Kansas,N,Texas Tech,CTOURN,W 74-65,*,29,5,10,0.5,0,1,0.0,5,9,0.556,0.5,8,9,0.889,4,7,11,1,0,0,4,1,18,13.8,N,1,0,david-mccormack-1,David McCormack,2022
+35,127,35,2022-03-17,Kansas,N,Texas Southern,ROUND-64,W 83-56,*,23,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,7,7,1,1,0,2,3,9,6.6,N,1,0,david-mccormack-1,David McCormack,2022
+36,128,36,2022-03-19,Kansas,N,Creighton,ROUND-32,W 79-72,*,25,2,8,0.25,0,0,,2,8,0.25,0.25,3,3,1.0,3,3,6,1,2,2,1,2,7,7.5,N,1,0,david-mccormack-1,David McCormack,2022
+37,129,37,2022-03-25,Kansas,N,Providence,ROUND-16,W 66-61,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,4,6,0.667,1,1,2,0,0,1,3,4,8,1.6,N,1,0,david-mccormack-1,David McCormack,2022
+38,130,38,2022-03-27,Kansas,N,Miami (FL),ROUND-8,W 76-50,*,18,6,7,0.857,0,0,,6,7,0.857,0.857,3,4,0.75,1,3,4,0,0,0,2,1,15,11.3,N,1,0,david-mccormack-1,David McCormack,2022
+39,131,39,2022-04-02,Kansas,N,Villanova,NATIONAL-SEMI,W 81-65,*,29,10,12,0.833,0,0,,10,12,0.833,0.833,5,6,0.833,2,7,9,1,1,0,1,2,25,23.6,N,1,0,david-mccormack-1,David McCormack,2022
+40,132,40,2022-04-04,Kansas,N,North Carolina,NATIONAL-FINAL,W 72-69,*,29,7,15,0.467,0,0,,7,15,0.467,0.467,1,2,0.5,3,7,10,0,1,1,1,4,15,10.2,N,1,0,david-mccormack-1,David McCormack,2022

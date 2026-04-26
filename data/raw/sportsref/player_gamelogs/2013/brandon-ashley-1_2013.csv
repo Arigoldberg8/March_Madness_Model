@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-11,Arizona,,Charleston Southern,REG (Non-Conf),W 82-73,,24,2,3,0.667,0,0,,2,3,0.667,0.667,8,12,0.667,3,5,8,1,1,2,2,1,12,13.4,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+2,2,2,2012-11-15,Arizona,,UTEP,REG (Non-Conf),W 72-51,,20,3,8,0.375,0,0,,3,8,0.375,0.375,3,4,0.75,4,1,5,0,0,1,1,3,9,5.8,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+3,3,3,2012-11-19,Arizona,,Long Beach State,REG (Non-Conf),W 94-72,*,24,6,6,1.0,0,0,,6,6,1.0,1.0,8,9,0.889,3,7,10,0,1,2,3,3,20,20.2,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+4,4,4,2012-11-28,Arizona,,Northern Arizona,REG (Non-Conf),W 93-50,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,10,11,3,0,3,1,2,2,5.7,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+5,5,5,2012-12-01,Arizona,@,Texas Tech,REG (Non-Conf),W 85-57,*,22,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,1,2,3,0,0,1,2,1,12,8.9,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+6,6,6,2012-12-04,Arizona,,Southern Mississippi,REG (Non-Conf),W 63-55,*,18,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,1,1,0,2,0,1,0.2,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+7,7,7,2012-12-08,Arizona,@,Clemson,REG (Non-Conf),W 66-54,*,22,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,5,6,0,0,1,1,3,9,7.4,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+8,8,8,2012-12-15,Arizona,,Florida,REG (Non-Conf),W 65-64,*,22,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,3,3,1,1,0,0,3,0,0.0,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+9,9,9,2012-12-18,Arizona,,Oral Roberts,REG (Non-Conf),W 89-64,*,28,5,6,0.833,0,0,,5,6,0.833,0.833,4,6,0.667,1,5,6,1,0,3,3,2,14,12.2,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+10,10,10,2012-12-22,Arizona,N,East Tennessee State,REG (Non-Conf),W 73-53,*,22,5,8,0.625,0,0,,5,8,0.625,0.625,6,7,0.857,2,8,10,0,0,0,3,3,16,11.6,N,1,1,brandon-ashley-1,Brandon Ashley,2013
+11,11,11,2012-12-23,Arizona,N,Miami (FL),REG (Non-Conf),W 69-50,*,19,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,6,7,1,0,0,3,3,0,-2.4,N,1,1,brandon-ashley-1,Brandon Ashley,2013
+12,12,12,2012-12-25,Arizona,N,San Diego State,REG (Non-Conf),W 68-67,*,26,3,7,0.429,0,0,,3,7,0.429,0.429,3,5,0.6,2,5,7,1,0,0,2,2,9,5.3,N,1,1,brandon-ashley-1,Brandon Ashley,2013
+13,13,13,2013-01-03,Arizona,,Colorado,REG (Conf),W 92-83 (OT),*,19,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,3,3,1,0,0,1,3,1,-0.7,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+14,14,14,2013-01-05,Arizona,,Utah,REG (Conf),W 60-57,*,19,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,2,2,4,0,1,0,0,1,11,10.7,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+15,15,15,2013-01-10,Arizona,@,Oregon,REG (Conf),L 66-70,,17,1,5,0.2,0,0,,1,5,0.2,0.2,1,1,1.0,0,1,1,0,0,0,1,3,3,-2.0,A,0,1,brandon-ashley-1,Brandon Ashley,2013
+16,16,16,2013-01-12,Arizona,@,Oregon State,REG (Conf),W 80-70,*,22,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,3,4,7,1,1,0,2,4,12,10.2,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+17,17,17,2013-01-19,Arizona,@,Arizona State,REG (Conf),W 71-54,*,17,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,3,3,1,0,0,1,3,2,-1.7,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+18,18,18,2013-01-24,Arizona,,UCLA,REG (Conf),L 73-84,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,3,6,0.5,3,5,8,0,2,0,1,4,9,7.8,H,0,1,brandon-ashley-1,Brandon Ashley,2013
+19,19,19,2013-01-26,Arizona,,Southern California,REG (Conf),W 74-50,*,25,3,6,0.5,1,1,1.0,2,5,0.4,0.583,4,4,1.0,0,7,7,0,1,0,1,2,11,9.3,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+20,20,20,2013-01-31,Arizona,@,Washington,REG (Conf),W 57-53,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,3,3,6,0,0,0,2,2,3,1.1,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+21,21,21,2013-02-02,Arizona,@,Washington State,REG (Conf),W 79-65,*,18,4,5,0.8,0,0,,4,5,0.8,0.8,2,3,0.667,2,3,5,1,0,0,2,5,10,6.7,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+22,22,22,2013-02-06,Arizona,,Stanford,REG (Conf),W 73-66,*,13,2,8,0.25,0,0,,2,8,0.25,0.25,2,3,0.667,0,3,3,0,0,0,0,5,6,-0.3,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+23,23,23,2013-02-10,Arizona,,California,REG (Conf),L 69-77,*,29,4,10,0.4,0,0,,4,10,0.4,0.4,4,5,0.8,5,4,9,0,2,0,1,2,12,11.1,H,0,1,brandon-ashley-1,Brandon Ashley,2013
+24,24,24,2013-02-14,Arizona,@,Colorado,REG (Conf),L 58-71,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,2,2,0,0,0,3,3,3,-2.0,A,0,1,brandon-ashley-1,Brandon Ashley,2013
+25,25,25,2013-02-17,Arizona,@,Utah,REG (Conf),W 68-64,,22,4,5,0.8,0,0,,4,5,0.8,0.8,2,3,0.667,2,2,4,1,3,0,0,4,10,11.8,A,1,1,brandon-ashley-1,Brandon Ashley,2013
+26,26,26,2013-02-20,Arizona,,Washington,REG (Conf),W 70-52,,20,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,2,3,5,1,0,0,0,4,10,9.1,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+27,27,27,2013-02-23,Arizona,,Washington State,REG (Conf),W 73-56,,16,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,3,3,1,0,1,3,5,7,2.3,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+28,28,28,2013-02-27,Arizona,@,Southern California,REG (Conf),L 78-89,,19,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,0,0,0,2,0,2,-0.8,A,0,1,brandon-ashley-1,Brandon Ashley,2013
+29,29,29,2013-03-02,Arizona,@,UCLA,REG (Conf),L 69-74,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,2,4,2,1,1,0,3,0,3.2,A,0,1,brandon-ashley-1,Brandon Ashley,2013
+30,30,30,2013-03-09,Arizona,,Arizona State,REG (Conf),W 73-58,,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,4,2,6,0,0,1,0,2,6,7.6,H,1,1,brandon-ashley-1,Brandon Ashley,2013
+31,31,31,2013-03-14,Arizona,N,Colorado,CTOURN,W 79-69,,17,3,9,0.333,0,0,,3,9,0.333,0.333,2,2,1.0,2,3,5,3,1,2,1,4,8,7.1,N,1,0,brandon-ashley-1,Brandon Ashley,2013
+32,32,32,2013-03-15,Arizona,N,UCLA,CTOURN,L 64-66,,25,7,8,0.875,0,0,,7,8,0.875,0.875,1,1,1.0,1,2,3,1,1,0,4,2,15,10.4,N,0,0,brandon-ashley-1,Brandon Ashley,2013
+33,33,33,2013-03-21,Arizona,N,Belmont,ROUND-64,W 81-64,,22,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,5,7,1,0,0,4,2,6,1.1,N,1,0,brandon-ashley-1,Brandon Ashley,2013
+34,34,34,2013-03-23,Arizona,N,Harvard,ROUND-32,W 74-51,,16,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,7,8,0,0,0,2,5,6,2.1,N,1,0,brandon-ashley-1,Brandon Ashley,2013
+35,35,35,2013-03-28,Arizona,N,Ohio State,ROUND-16,L 70-73,,18,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,1,1,0,0,1,4,4.3,N,0,0,brandon-ashley-1,Brandon Ashley,2013

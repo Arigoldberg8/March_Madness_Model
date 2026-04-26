@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Colorado,N,Baylor,REG (Non-Conf),L 60-72,,14,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,3,0,3,0,0,0,0,4,3,1.1,N,0,1,dustin-thomas-1,Dustin Thomas,2014
+2,2,2,2013-11-10,Colorado,,UT Martin,REG (Non-Conf),W 91-65,,19,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,2,1.0,0,2,2,2,1,0,2,2,9,8.3,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+3,3,3,2013-11-13,Colorado,,Wyoming,REG (Non-Conf),W 63-58,,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,2,2,2,-1.5,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+4,4,4,2013-11-16,Colorado,,Jackson State,REG (Non-Conf),W 94-70,,17,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,4,0.5,1,3,4,2,1,0,3,2,13,8.8,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+5,5,5,2013-11-18,Colorado,,Arkansas State,REG (Non-Conf),W 93-70,,18,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,1,4,5,1,0,0,0,4,2,-1.5,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+6,6,6,2013-11-21,Colorado,,UC Santa Barbara,REG (Non-Conf),W 76-68,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,2,2,0,0,0,0,0,4,3.6,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+7,7,7,2013-11-24,Colorado,,Harvard,REG (Non-Conf),W 70-62,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,1,2,0,-2.3,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+8,8,8,2013-11-30,Colorado,@,Air Force,REG (Non-Conf),W 81-57,,13,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,1,2,3,1,0,0,3,3,7,3.5,A,1,1,dustin-thomas-1,Dustin Thomas,2014
+9,9,9,2013-12-03,Colorado,@,Colorado State,REG (Non-Conf),W 67-62,,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,2,0.0,5,0,5,0,0,0,2,3,4,0.8,A,1,1,dustin-thomas-1,Dustin Thomas,2014
+10,10,10,2013-12-07,Colorado,,Kansas,REG (Non-Conf),W 75-72,,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,3,6,0.5,3,1,4,1,0,0,1,1,3,1.4,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+11,11,11,2013-12-13,Colorado,,Elon,REG (Non-Conf),W 80-63,,10,2,2,1.0,0,0,,2,2,1.0,1.0,5,8,0.625,1,0,1,0,0,0,1,2,9,6.1,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+12,12,12,2013-12-21,Colorado,N,Oklahoma State,REG (Non-Conf),L 73-78,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,1,3,0,-4.3,N,0,1,dustin-thomas-1,Dustin Thomas,2014
+13,13,13,2013-12-28,Colorado,,Georgia,REG (Non-Conf),W 84-70,,10,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,2,4,1,0,1,1,1,4,5.7,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+14,14,14,2014-01-02,Colorado,,Oregon State,REG (Conf),W 64-58,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,1,1,2,2,0,0,0,2,0,0.1,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+15,15,15,2014-01-05,Colorado,,Oregon,REG (Conf),W 100-91,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+16,16,16,2014-01-08,Colorado,@,Washington State,REG (Conf),W 71-70 (OT),,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,A,1,1,dustin-thomas-1,Dustin Thomas,2014
+17,17,17,2014-01-12,Colorado,@,Washington,REG (Conf),L 54-71,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,2,1,3,0,0,0,1,2,0,-1.6,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+18,18,18,2014-01-16,Colorado,,UCLA,REG (Conf),L 56-69,,16,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,3,4,1,0,0,0,2,3,3.1,H,0,1,dustin-thomas-1,Dustin Thomas,2014
+19,19,19,2014-01-18,Colorado,,Southern California,REG (Conf),W 83-62,,18,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,3,0.333,1,1,2,0,0,0,3,4,7,1.0,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+20,20,20,2014-01-23,Colorado,@,Arizona,REG (Conf),L 57-69,,23,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,4,4,0,0,0,0,2,4,2.4,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+21,21,21,2014-01-25,Colorado,@,Arizona State,REG (Conf),L 51-72,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,0,1,0,1,0,0,3,4,3.9,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+22,22,22,2014-02-01,Colorado,,Utah,REG (Conf),W 79-75 (OT),,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,0,3,0,-0.5,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+23,23,23,2014-02-05,Colorado,,Washington State,REG (Conf),W 68-63,,17,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,0,1,0,1,0,2,1,3,1.3,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+24,24,24,2014-02-09,Colorado,,Washington,REG (Conf),W 91-65,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,3,4,0,0,0,2,5,3,-1.8,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+25,25,25,2014-02-13,Colorado,@,UCLA,REG (Conf),L 74-92,*,27,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,2,2,4,1,2,0,3,4,4,1.0,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+26,26,26,2014-02-16,Colorado,@,Southern California,REG (Conf),W 83-74,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,3,3,2,0,1,5,4,3,-2.0,A,1,1,dustin-thomas-1,Dustin Thomas,2014
+27,27,27,2014-02-19,Colorado,,Arizona State,REG (Conf),W 61-52,*,20,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,1,5,6,0,1,1,2,4,8,5.3,H,1,1,dustin-thomas-1,Dustin Thomas,2014
+28,28,28,2014-02-22,Colorado,,Arizona,REG (Conf),L 61-88,*,18,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,2,1,3,1,0,0,2,2,7,3.5,H,0,1,dustin-thomas-1,Dustin Thomas,2014
+29,29,29,2014-03-01,Colorado,@,Utah,REG (Conf),L 64-75,*,15,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,0,1,1,0,0,0,2,4,8,1.3,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+30,30,30,2014-03-05,Colorado,@,Stanford,REG (Conf),W 59-56,,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,2,0.0,0,3,3,1,0,0,2,2,0,-4.1,A,1,1,dustin-thomas-1,Dustin Thomas,2014
+31,31,31,2014-03-08,Colorado,@,California,REG (Conf),L 65-66 (OT),,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,0,0,0,1,2,2,-2.6,A,0,1,dustin-thomas-1,Dustin Thomas,2014
+32,32,32,2014-03-12,Colorado,N,Southern California,CTOURN,W 59-56,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,3,1,2,-2.1,N,1,0,dustin-thomas-1,Dustin Thomas,2014
+33,33,33,2014-03-13,Colorado,N,California,CTOURN,W 59-56,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,1,0,0,2,1,2,-0.7,N,1,0,dustin-thomas-1,Dustin Thomas,2014
+34,34,34,2014-03-14,Colorado,N,Arizona,CTOURN,L 43-63,,21,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,0,0,0,1,3,4,-0.6,N,0,0,dustin-thomas-1,Dustin Thomas,2014
+35,35,35,2014-03-20,Colorado,N,Pittsburgh,ROUND-64,L 48-77,,18,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,1,0,0,1,1,1,-0.2,N,0,0,dustin-thomas-1,Dustin Thomas,2014

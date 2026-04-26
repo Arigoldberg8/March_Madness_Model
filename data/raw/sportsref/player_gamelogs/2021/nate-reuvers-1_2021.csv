@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2020-11-25,Wisconsin,,Eastern Illinois,REG (Non-Conf),W 77-67,*,30,6,10,0.6,2,3,0.667,4,7,0.571,0.7,4,5,0.8,2,7,9,1,1,5,0,2,18,20.9,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+2,95,2,2020-11-27,Wisconsin,,Arkansas–Pine Bluff,REG (Non-Conf),W 92-58,*,21,5,7,0.714,0,0,,5,7,0.714,0.714,4,6,0.667,2,0,2,1,1,1,1,4,14,11.5,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+3,96,3,2020-12-01,Wisconsin,,Green Bay,REG (Non-Conf),W 82-42,*,19,5,9,0.556,3,4,0.75,2,5,0.4,0.722,0,0,,0,4,4,0,0,2,1,3,13,9.1,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+4,97,4,2020-12-04,Wisconsin,@,Marquette,REG (Non-Conf),L 65-67,*,25,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,0,3,3,1,0,2,1,4,11,6.0,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+5,98,5,2020-12-09,Wisconsin,,Rhode Island,REG (Non-Conf),W 73-62,*,19,2,8,0.25,0,1,0.0,2,7,0.286,0.25,1,2,0.5,2,3,5,0,0,3,2,4,5,0.6,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+6,99,6,2020-12-15,Wisconsin,,Loyola Chicago,REG (Non-Conf),W 77-63,*,25,3,10,0.3,2,3,0.667,1,7,0.143,0.4,0,0,,0,3,3,1,0,0,1,4,8,1.2,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+7,100,7,2020-12-19,Wisconsin,,Louisville,REG (Non-Conf),W 85-48,*,24,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,1,1.0,0,1,1,3,0,1,2,1,8,5.0,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+8,101,8,2020-12-22,Wisconsin,,Nebraska,REG (Conf),W 67-53,*,21,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,4,1.0,1,3,4,1,0,0,3,2,10,5.5,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+9,102,9,2020-12-25,Wisconsin,@,Michigan State,REG (Conf),W 85-76,*,25,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,0,2,2,0,0,1,1,1,8,4.2,A,1,1,nate-reuvers-1,Nate Reuvers,2021
+10,103,10,2020-12-28,Wisconsin,,Maryland,REG (Conf),L 64-70,*,25,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,0,,1,5,6,0,0,0,0,1,8,4.4,H,0,1,nate-reuvers-1,Nate Reuvers,2021
+11,104,11,2020-12-31,Wisconsin,,Minnesota,REG (Conf),W 71-59,*,19,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,3,3,6,0,0,1,1,2,7,4.8,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+12,105,12,2021-01-07,Wisconsin,,Indiana,REG (Conf),W 80-73 (2OT),*,35,4,12,0.333,0,0,,4,12,0.333,0.333,6,6,1.0,2,4,6,3,0,0,2,4,14,8.3,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+13,106,13,2021-01-12,Wisconsin,@,Michigan,REG (Conf),L 54-77,*,19,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,1,1,2,0,0,0,1,0,4,-1.5,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+14,107,14,2021-01-15,Wisconsin,@,Rutgers,REG (Conf),W 60-54,,17,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,0,0,1,0,1,3,0.2,A,1,1,nate-reuvers-1,Nate Reuvers,2021
+15,108,15,2021-01-20,Wisconsin,,Northwestern,REG (Conf),W 68-52,,22,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,1,4,5,1,2,1,3,2,6,2.7,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+16,109,16,2021-01-23,Wisconsin,,Ohio State,REG (Conf),L 62-74,,20,5,9,0.556,0,3,0.0,5,6,0.833,0.556,1,1,1.0,0,3,3,0,0,1,0,1,11,7.9,H,0,1,nate-reuvers-1,Nate Reuvers,2021
+17,110,17,2021-01-27,Wisconsin,@,Maryland,REG (Conf),W 61-55,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,3,3,0,1,0,1,0,5,4.6,A,1,1,nate-reuvers-1,Nate Reuvers,2021
+18,111,18,2021-01-30,Wisconsin,@,Penn State,REG (Conf),L 71-81,,23,7,12,0.583,1,2,0.5,6,10,0.6,0.625,3,4,0.75,2,3,5,0,0,1,1,1,18,13.6,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+19,112,19,2021-02-02,Wisconsin,,Penn State,REG (Conf),W 72-56,,18,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,1,1,2,0,0,1,2,1,9,6.0,H,1,1,nate-reuvers-1,Nate Reuvers,2021
+20,113,20,2021-02-06,Wisconsin,@,Illinois,REG (Conf),L 60-75,,21,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,2,2,0,2,2,0,4,11,8.4,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+21,114,21,2021-02-10,Wisconsin,@,Nebraska,REG (Conf),W 61-48,*,24,2,8,0.25,0,3,0.0,2,5,0.4,0.25,4,4,1.0,3,2,5,2,0,1,0,2,8,7.2,A,1,1,nate-reuvers-1,Nate Reuvers,2021
+22,115,22,2021-02-14,Wisconsin,,Michigan,REG (Conf),L 59-67,*,22,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,0,0,0,1,0,1,1,2,3,-1.9,H,0,1,nate-reuvers-1,Nate Reuvers,2021
+23,116,23,2021-02-18,Wisconsin,,Iowa,REG (Conf),L 62-77,*,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,0,1,1,0,0,2,0,3,4,1.7,H,0,1,nate-reuvers-1,Nate Reuvers,2021
+24,117,24,2021-02-21,Wisconsin,@,Northwestern,REG (Conf),W 68-51,*,17,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,0,1,0,0,1,0,2,2,-1.2,A,1,1,nate-reuvers-1,Nate Reuvers,2021
+25,118,25,2021-02-27,Wisconsin,,Illinois,REG (Conf),L 69-74,*,16,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,3,1,4,1,0,2,0,3,6,3.5,H,0,1,nate-reuvers-1,Nate Reuvers,2021
+26,119,26,2021-03-02,Wisconsin,@,Purdue,REG (Conf),L 69-73,*,25,5,10,0.5,0,3,0.0,5,7,0.714,0.5,1,3,0.333,0,2,2,0,0,2,2,3,11,4.0,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+27,120,27,2021-03-07,Wisconsin,@,Iowa,REG (Conf),L 73-77,*,14,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,2,2,1,0,1,0,1,4,2.9,A,0,1,nate-reuvers-1,Nate Reuvers,2021
+28,121,28,2021-03-11,Wisconsin,N,Penn State,CTOURN,W 75-74,*,22,3,7,0.429,2,2,1.0,1,5,0.2,0.571,0,0,,0,3,3,3,1,2,2,3,8,6.5,N,1,0,nate-reuvers-1,Nate Reuvers,2021
+29,122,29,2021-03-12,Wisconsin,N,Iowa,CTOURN,L 57-62,*,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,1,2,2,-0.1,N,0,0,nate-reuvers-1,Nate Reuvers,2021
+30,123,30,2021-03-19,Wisconsin,N,North Carolina,ROUND-64,W 85-62,*,26,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,2,3,5,1,0,4,1,2,7,6.2,N,1,0,nate-reuvers-1,Nate Reuvers,2021
+31,124,31,2021-03-21,Wisconsin,N,Baylor,ROUND-32,L 63-76,*,18,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,2,2,4,1,0,1,1,2,11,9.7,N,0,0,nate-reuvers-1,Nate Reuvers,2021

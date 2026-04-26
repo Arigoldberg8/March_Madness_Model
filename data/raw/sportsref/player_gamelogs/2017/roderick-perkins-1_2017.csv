@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2016-11-12,Winthrop,,Ferrum,REG (Non-Conf),W 66-47,,16,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,1,2,3,0,1,0,0,0,8,6.6,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+2,17,2,2016-11-15,Winthrop,@,Manhattan,REG (Non-Conf),W 94-81,,23,4,6,0.667,3,5,0.6,1,1,1.0,0.917,1,2,0.5,1,0,1,3,1,0,1,3,12,10.6,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+3,18,3,2016-11-18,Winthrop,@,Florida State,REG (Non-Conf),L 86-100,,23,3,8,0.375,3,7,0.429,0,1,0.0,0.563,2,4,0.5,1,3,4,2,0,0,0,5,11,6.8,A,0,1,roderick-perkins-1,Roderick Perkins,2017
+4,19,4,2016-11-21,Winthrop,@,Illinois,REG (Non-Conf),W 84-80 (OT),,23,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,2,0,0,1,4,6,3.5,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+5,20,5,2016-11-27,Winthrop,,New Hampshire,REG (Non-Conf),L 60-65,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,3,0.0,1,3,4,0,0,0,1,2,5,3.0,H,0,1,roderick-perkins-1,Roderick Perkins,2017
+6,21,6,2016-11-30,Winthrop,,Furman,REG (Non-Conf),W 58-57 (OT),*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,0,0,0,0,0,2,0,5,-0.1,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+7,22,7,2016-12-03,Winthrop,@,Dayton,REG (Non-Conf),L 67-83,*,26,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,1,3,4,0,0,0,2,1,9,3.8,A,0,1,roderick-perkins-1,Roderick Perkins,2017
+8,23,8,2016-12-06,Winthrop,,Greensboro,REG (Non-Conf),W 106-63,*,20,4,10,0.4,1,4,0.25,3,6,0.5,0.45,0,0,,1,4,5,1,2,1,1,0,9,7.9,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+9,24,9,2016-12-17,Winthrop,@,Hampton,REG (Non-Conf),W 86-79,*,14,2,4,0.5,1,3,0.333,1,1,1.0,0.625,4,6,0.667,0,2,2,0,2,1,2,2,9,6.7,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+10,25,10,2016-12-20,Winthrop,,Georgia Southern,REG (Non-Conf),W 86-84,*,26,3,5,0.6,3,4,0.75,0,1,0.0,0.9,2,2,1.0,2,3,5,1,0,0,0,1,11,11.3,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+11,26,11,2016-12-22,Winthrop,@,Saint Louis,REG (Non-Conf),W 66-55,*,21,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,1,1,0,0,0,1,2,5,-0.6,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+12,27,12,2016-12-29,Winthrop,@,Charleston Southern,REG (Conf),W 84-68,,15,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,0,1,3,0,0,2,2,6,2.6,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+13,28,13,2016-12-31,Winthrop,,Radford,REG (Conf),L 80-82,*,22,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,3,1,4,1,2,0,2,1,5,3.9,H,0,1,roderick-perkins-1,Roderick Perkins,2017
+14,29,14,2017-01-04,Winthrop,@,High Point,REG (Conf),W 80-74,*,12,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,0,0,2,1,0,0,0,0,-0.4,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+15,30,15,2017-01-07,Winthrop,,Longwood,REG (Conf),W 83-65,*,17,4,7,0.571,3,6,0.5,1,1,1.0,0.786,2,2,1.0,1,0,1,0,1,0,0,0,13,11.4,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+16,31,16,2017-01-11,Winthrop,,Presbyterian,REG (Conf),W 75-52,*,20,1,7,0.143,0,6,0.0,1,1,1.0,0.143,1,3,0.333,1,0,1,1,0,0,2,0,3,-2.9,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+17,32,17,2017-01-14,Winthrop,@,Campbell,REG (Conf),W 72-63,*,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+18,33,18,2017-01-19,Winthrop,,UNC Asheville,REG (Conf),W 76-73,*,25,6,13,0.462,4,11,0.364,2,2,1.0,0.615,1,4,0.25,1,1,2,0,1,0,1,1,17,9.7,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+19,34,19,2017-01-21,Winthrop,@,Liberty,REG (Conf),W 61-48,*,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,0,1,1,0,2,1.0,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+20,35,20,2017-01-26,Winthrop,@,Gardner-Webb,REG (Conf),W 72-70,*,22,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,2,1,0,2,1,6,4.0,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+21,36,21,2017-01-28,Winthrop,,High Point,REG (Conf),L 80-83 (OT),*,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,3,0.333,1,2,3,0,0,0,0,0,4,2.1,H,0,1,roderick-perkins-1,Roderick Perkins,2017
+22,37,22,2017-02-01,Winthrop,@,Radford,REG (Conf),W 81-65,*,11,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,3,3,1,1,0,2,3,4,0.7,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+23,38,23,2017-02-04,Winthrop,,Campbell,REG (Conf),W 76-62,*,22,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,1,5,6,0,0,0,1,1,6,2.4,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+24,39,24,2017-02-09,Winthrop,@,UNC Asheville,REG (Conf),L 101-104 (2OT),*,21,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,3,2,0,0,2,2,2.5,A,0,1,roderick-perkins-1,Roderick Perkins,2017
+25,40,25,2017-02-11,Winthrop,,Gardner-Webb,REG (Conf),W 77-71,*,21,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,3,1,4,1,2,1,0,3,10,9.9,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+26,41,26,2017-02-15,Winthrop,@,Longwood,REG (Conf),W 83-63,*,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,4,1,3,-2.8,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+27,42,27,2017-02-18,Winthrop,,Liberty,REG (Conf),W 84-67,*,14,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,1,1,0,1,0,6,6.0,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+28,43,28,2017-02-23,Winthrop,,Charleston Southern,REG (Conf),W 86-72,*,21,4,9,0.444,1,6,0.167,3,3,1.0,0.5,0,0,,3,3,6,2,0,1,0,1,9,9.0,H,1,1,roderick-perkins-1,Roderick Perkins,2017
+29,44,29,2017-02-25,Winthrop,@,Presbyterian,REG (Conf),W 93-56,*,22,6,8,0.75,6,7,0.857,0,1,0.0,1.125,0,0,,0,3,3,2,2,0,1,0,18,18.1,A,1,1,roderick-perkins-1,Roderick Perkins,2017
+30,45,30,2017-03-02,Winthrop,N,Charleston Southern,CTOURN,W 92-78,*,21,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,0,4,4,1,0,2,0,1,12,11.2,N,1,0,roderick-perkins-1,Roderick Perkins,2017
+31,46,31,2017-03-03,Winthrop,,Gardner-Webb,CTOURN,W 80-77 (OT),*,29,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,1,4,5,1,0,0,1,2,9,5.0,H,1,0,roderick-perkins-1,Roderick Perkins,2017
+32,47,32,2017-03-05,Winthrop,,Campbell,CTOURN,W 76-59,*,22,6,11,0.545,3,6,0.5,3,5,0.6,0.682,0,0,,1,0,1,3,2,0,1,0,15,13.5,H,1,0,roderick-perkins-1,Roderick Perkins,2017
+33,48,33,2017-03-16,Winthrop,N,Butler,ROUND-64,L 64-76,*,28,4,6,0.667,2,4,0.5,2,2,1.0,0.833,3,4,0.75,0,5,5,0,1,0,0,2,13,11.7,N,0,0,roderick-perkins-1,Roderick Perkins,2017

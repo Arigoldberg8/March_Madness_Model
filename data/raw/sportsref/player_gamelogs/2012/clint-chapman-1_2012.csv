@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,83,1,2011-11-13,Texas,,Boston University,REG (Non-Conf),W 82-46,,19,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,3,4,1,1,3,0,0,6,8.4,H,1,1,clint-chapman-1,Clint Chapman,2012
+2,84,2,2011-11-15,Texas,,Rhode Island,REG (Non-Conf),W 100-90,,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,3,5,8,1,0,1,1,3,7,7.8,H,1,1,clint-chapman-1,Clint Chapman,2012
+3,85,3,2011-11-19,Texas,N,Oregon State,REG (Non-Conf),L 95-100 (OT),,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,1,0,1,1,5,6,3.8,N,0,1,clint-chapman-1,Clint Chapman,2012
+4,86,4,2011-11-21,Texas,N,NC State,REG (Non-Conf),L 74-77,,9,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,0,1,1,0,3,6,5.5,N,0,1,clint-chapman-1,Clint Chapman,2012
+5,87,5,2011-11-26,Texas,,Sam Houston State,REG (Non-Conf),W 56-40,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,1,2,0,0,-2.1,H,1,1,clint-chapman-1,Clint Chapman,2012
+6,88,6,2011-11-29,Texas,,North Texas,REG (Non-Conf),W 73-57,,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,3,1.0,2,2,4,0,0,1,0,1,9,9.0,H,1,1,clint-chapman-1,Clint Chapman,2012
+7,89,7,2011-12-03,Texas,@,UCLA,REG (Non-Conf),W 69-59,,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,4,3,7,0,1,2,4,3,6,3.9,A,1,1,clint-chapman-1,Clint Chapman,2012
+8,90,8,2011-12-06,Texas,,UT Arlington,REG (Non-Conf),W 80-62,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,2,2,0,-2.2,H,1,1,clint-chapman-1,Clint Chapman,2012
+9,91,9,2011-12-10,Texas,,Texas State San Marcos,REG (Non-Conf),W 86-52,,25,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,6,0.5,1,6,7,1,0,2,0,3,7,7.9,H,1,1,clint-chapman-1,Clint Chapman,2012
+10,92,10,2011-12-13,Texas,,Nicholls State,REG (Non-Conf),W 93-40,,22,2,7,0.286,0,1,0.0,2,6,0.333,0.286,3,3,1.0,4,6,10,0,0,5,1,3,7,8.8,H,1,1,clint-chapman-1,Clint Chapman,2012
+11,93,11,2011-12-17,Texas,,Temple,REG (Non-Conf),W 77-65,,27,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,5,0.6,4,9,13,1,0,2,1,4,7,8.5,H,1,1,clint-chapman-1,Clint Chapman,2012
+12,94,12,2011-12-21,Texas,@,North Carolina,REG (Non-Conf),L 63-82,,19,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,3,2,5,1,1,3,0,4,2,3.1,A,0,1,clint-chapman-1,Clint Chapman,2012
+13,95,13,2011-12-31,Texas,,Rice,REG (Non-Conf),W 73-59,*,9,0,0,,0,0,,0,0,,,2,2,1.0,0,3,3,0,0,2,1,4,2,1.7,H,1,1,clint-chapman-1,Clint Chapman,2012
+14,96,14,2012-01-04,Texas,@,Iowa State,REG (Conf),L 71-77,*,34,7,9,0.778,0,0,,7,9,0.778,0.778,5,7,0.714,4,10,14,0,0,1,2,2,19,18.4,A,0,1,clint-chapman-1,Clint Chapman,2012
+15,97,15,2012-01-07,Texas,,Oklahoma State,REG (Conf),W 58-49,*,22,1,6,0.167,0,0,,1,6,0.167,0.167,1,1,1.0,1,2,3,0,0,1,1,3,3,-1.0,H,1,1,clint-chapman-1,Clint Chapman,2012
+16,98,16,2012-01-11,Texas,,Texas A&M,REG (Conf),W 61-51,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,2,5,7,0,0,1,1,3,11,8.0,H,1,1,clint-chapman-1,Clint Chapman,2012
+17,99,17,2012-01-14,Texas,@,Missouri,REG (Conf),L 73-84,*,16,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,2,2,4,0,1,0,1,4,6,4.4,A,0,1,clint-chapman-1,Clint Chapman,2012
+18,100,18,2012-01-18,Texas,@,Kansas State,REG (Conf),L 80-84,,27,2,2,1.0,0,0,,2,2,1.0,1.0,7,7,1.0,1,3,4,0,1,1,2,5,11,9.7,A,0,1,clint-chapman-1,Clint Chapman,2012
+19,101,19,2012-01-21,Texas,,Kansas,REG (Conf),L 66-69,*,34,4,9,0.444,0,0,,4,9,0.444,0.444,7,7,1.0,2,7,9,1,0,4,0,4,15,15.7,H,0,1,clint-chapman-1,Clint Chapman,2012
+20,102,20,2012-01-24,Texas,,Iowa State,REG (Conf),W 62-55,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,2,3,5,0,0,3,2,3,8,5.5,H,1,1,clint-chapman-1,Clint Chapman,2012
+21,103,21,2012-01-28,Texas,@,Baylor,REG (Conf),L 71-76,*,13,2,3,0.667,0,0,,2,3,0.667,0.667,4,4,1.0,1,0,1,1,0,0,0,5,8,6.1,A,0,1,clint-chapman-1,Clint Chapman,2012
+22,104,22,2012-01-30,Texas,,Missouri,REG (Conf),L 66-67,,23,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,4,7,0,0,2,1,3,6,6.2,H,0,1,clint-chapman-1,Clint Chapman,2012
+23,105,23,2012-02-04,Texas,,Texas Tech,REG (Conf),W 74-57,*,32,6,10,0.6,0,0,,6,10,0.6,0.6,8,8,1.0,4,5,9,0,0,5,2,2,20,20.4,H,1,1,clint-chapman-1,Clint Chapman,2012
+24,106,24,2012-02-06,Texas,@,Texas A&M,REG (Conf),W 70-68,*,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,0,0,0,0,4,4,0.7,A,1,1,clint-chapman-1,Clint Chapman,2012
+25,107,25,2012-02-11,Texas,,Kansas State,REG (Conf),W 75-64,*,12,0,0,,0,0,,0,0,,,3,4,0.75,1,0,1,0,0,3,0,2,3,4.6,H,1,1,clint-chapman-1,Clint Chapman,2012
+26,108,26,2012-02-14,Texas,@,Oklahoma,REG (Conf),W 69-58,*,24,2,9,0.222,0,0,,2,9,0.222,0.222,2,4,0.5,1,4,5,0,0,1,0,1,6,1.9,A,1,1,clint-chapman-1,Clint Chapman,2012
+27,109,27,2012-02-18,Texas,@,Oklahoma State,REG (Conf),L 78-90,*,19,3,9,0.333,0,0,,3,9,0.333,0.333,1,1,1.0,4,4,8,0,0,0,0,5,7,3.9,A,0,1,clint-chapman-1,Clint Chapman,2012
+28,110,28,2012-02-20,Texas,,Baylor,REG (Conf),L 72-77,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,0,0,1,2,0,2,4,6,3.5,H,0,1,clint-chapman-1,Clint Chapman,2012
+29,111,29,2012-02-25,Texas,@,Texas Tech,REG (Conf),W 71-67 (OT),*,30,4,5,0.8,0,0,,4,5,0.8,0.8,4,5,0.8,2,5,7,0,0,1,2,4,12,9.7,A,1,1,clint-chapman-1,Clint Chapman,2012
+30,112,30,2012-02-29,Texas,,Oklahoma,REG (Conf),W 72-64,*,11,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,3,4,0,0,0,0,1,3,3.5,H,1,1,clint-chapman-1,Clint Chapman,2012
+31,113,31,2012-03-03,Texas,@,Kansas,REG (Conf),L 63-73,*,28,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,3,4,7,0,1,1,1,2,10,8.9,A,0,1,clint-chapman-1,Clint Chapman,2012
+32,114,32,2012-03-08,Texas,N,Iowa State,CTOURN,W 71-65,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,2,2,1.0,5,3,8,0,2,1,1,3,10,10.2,N,1,0,clint-chapman-1,Clint Chapman,2012
+33,115,33,2012-03-09,Texas,N,Missouri,CTOURN,L 67-81,*,24,4,13,0.308,0,0,,4,13,0.308,0.308,1,3,0.333,6,2,8,0,0,0,2,4,9,1.9,N,0,0,clint-chapman-1,Clint Chapman,2012
+34,116,34,2012-03-16,Texas,N,Cincinnati,ROUND-64,L 59-65,*,31,3,7,0.429,0,0,,3,7,0.429,0.429,4,6,0.667,3,11,14,0,0,4,1,5,10,10.7,N,0,0,clint-chapman-1,Clint Chapman,2012

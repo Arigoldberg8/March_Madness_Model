@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2018-11-06,North Carolina,@,Wofford,REG (Non-Conf),W 78-67,*,25,9,15,0.6,0,0,9,15,0.6,0.6,2,3,0.667,3,2,5,0,1,0,2,1,20,14.0,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+2,39,2,2018-11-09,North Carolina,@,Elon,REG (Non-Conf),W 116-67,*,16,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,5,1,6,1,3,0,1,0,7,10.8,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+3,40,3,2018-11-12,North Carolina,,Stanford,REG (Non-Conf),W 90-72,*,16,5,8,0.625,0,0,5,8,0.625,0.625,2,2,1.0,2,6,8,1,0,1,1,3,12,10.8,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+4,41,4,2018-11-16,North Carolina,,Tennessee Tech,REG (Non-Conf),W 108-58,*,17,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,1,6,7,0,1,1,1,2,7,6.7,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+5,42,5,2018-11-19,North Carolina,,Saint Francis (PA),REG (Non-Conf),W 101-76,*,12,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,2,3,0,0,1,1,4,7,4.4,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+6,43,6,2018-11-22,North Carolina,N,Texas,REG (Non-Conf),L 89-92,*,21,3,5,0.6,0,0,3,5,0.6,0.6,3,5,0.6,5,3,8,1,1,0,2,5,9,8.0,N,0,1,garrison-brooks-1,Garrison Brooks,2019
+7,44,7,2018-11-23,North Carolina,N,UCLA,REG (Non-Conf),W 94-78,*,20,0,3,0.0,0,0,0,3,0.0,0.0,2,2,1.0,0,1,1,0,1,2,0,4,2,1.0,N,1,1,garrison-brooks-1,Garrison Brooks,2019
+8,45,8,2018-11-28,North Carolina,@,Michigan,REG (Non-Conf),L 67-84,*,22,4,7,0.571,0,0,4,7,0.571,0.571,2,3,0.667,2,5,7,0,0,0,1,3,10,7.0,A,0,1,garrison-brooks-1,Garrison Brooks,2019
+9,46,9,2018-12-05,North Carolina,,UNC Wilmington,REG (Non-Conf),W 97-69,*,21,3,7,0.429,0,0,3,7,0.429,0.429,1,4,0.25,4,2,6,3,0,1,0,3,7,7.1,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+10,47,10,2018-12-15,North Carolina,,Gonzaga,REG (Non-Conf),W 103-90,*,23,2,3,0.667,0,0,2,3,0.667,0.667,5,6,0.833,5,4,9,2,0,2,2,4,9,11.2,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+11,48,11,2018-12-22,North Carolina,N,Kentucky,REG (Non-Conf),L 72-80,*,19,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,2,6,8,2,1,0,3,4,7,7.1,N,0,1,garrison-brooks-1,Garrison Brooks,2019
+12,49,12,2018-12-29,North Carolina,,Davidson,REG (Non-Conf),W 82-60,*,16,5,10,0.5,0,0,5,10,0.5,0.5,1,1,1.0,1,2,3,0,0,0,3,2,11,3.5,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+13,50,13,2019-01-02,North Carolina,,Harvard,REG (Non-Conf),W 77-57,*,17,2,6,0.333,0,0,2,6,0.333,0.333,3,4,0.75,1,2,3,0,0,0,0,2,7,3.7,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+14,51,14,2019-01-05,North Carolina,@,Pittsburgh,REG (Conf),W 85-60,*,28,4,8,0.5,0,0,4,8,0.5,0.5,1,1,1.0,3,5,8,5,2,2,0,4,9,13.9,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+15,52,15,2019-01-08,North Carolina,@,NC State,REG (Conf),W 90-82,*,24,3,4,0.75,0,0,3,4,0.75,0.75,5,5,1.0,1,6,7,5,0,1,0,4,11,14.5,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+16,53,16,2019-01-12,North Carolina,,Louisville,REG (Conf),L 62-83,*,13,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,0,0,0,1,0,0,2,4,5,0.8,H,0,1,garrison-brooks-1,Garrison Brooks,2019
+17,54,17,2019-01-15,North Carolina,,Notre Dame,REG (Conf),W 75-69,*,26,2,8,0.25,0,0,2,8,0.25,0.25,0,3,0.0,5,3,8,2,0,0,1,0,4,2.8,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+18,55,18,2019-01-19,North Carolina,@,Miami (FL),REG (Conf),W 85-76,*,28,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,5,7,1,0,0,2,3,4,1.7,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+19,56,19,2019-01-21,North Carolina,,Virginia Tech,REG (Conf),W 103-82,*,29,5,7,0.714,0,0,5,7,0.714,0.714,2,3,0.667,3,2,5,0,0,0,0,2,12,10.6,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+20,57,20,2019-01-29,North Carolina,@,Georgia Tech,REG (Conf),W 77-54,*,26,1,5,0.2,0,0,1,5,0.2,0.2,1,4,0.25,2,7,9,1,2,1,0,3,3,4.4,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+21,58,21,2019-02-02,North Carolina,@,Louisville,REG (Conf),W 79-69,*,23,6,9,0.667,0,0,6,9,0.667,0.667,0,1,0.0,2,2,4,0,1,0,0,3,12,9.5,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+22,59,22,2019-02-05,North Carolina,,NC State,REG (Conf),W 113-96,*,22,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,5,5,10,6,0,0,0,3,8,14.8,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+23,60,23,2019-02-09,North Carolina,,Miami (FL),REG (Conf),W 88-85 (OT),*,32,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,5,6,2,1,0,0,1,6,7.2,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+24,61,24,2019-02-11,North Carolina,,Virginia,REG (Conf),L 61-69,*,32,5,8,0.625,0,0,5,8,0.625,0.625,2,2,1.0,5,3,8,3,1,0,1,3,12,13.7,H,0,1,garrison-brooks-1,Garrison Brooks,2019
+25,62,25,2019-02-16,North Carolina,@,Wake Forest,REG (Conf),W 95-57,*,27,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,6,7,2,0,1,1,4,4,4.7,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+26,63,26,2019-02-20,North Carolina,@,Duke,REG (Conf),W 88-72,*,30,6,7,0.857,0,0,6,7,0.857,0.857,2,2,1.0,3,5,8,0,2,0,0,1,14,16.7,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+27,64,27,2019-02-23,North Carolina,,Florida State,REG (Conf),W 77-59,*,22,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,3,3,0,0,1,1,2,4,2.8,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+28,65,28,2019-02-26,North Carolina,,Syracuse,REG (Conf),W 93-85,*,19,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,1,2,1,0,0,1,5,8,4.8,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+29,66,29,2019-03-02,North Carolina,@,Clemson,REG (Conf),W 81-79,*,26,3,7,0.429,0,0,3,7,0.429,0.429,0,1,0.0,2,1,3,1,0,0,1,4,6,1.7,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+30,67,30,2019-03-05,North Carolina,@,Boston College,REG (Conf),W 79-66,*,26,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,4,5,0,1,0,0,2,4,3.4,A,1,1,garrison-brooks-1,Garrison Brooks,2019
+31,68,31,2019-03-09,North Carolina,,Duke,REG (Conf),W 79-70,*,29,3,5,0.6,0,0,3,5,0.6,0.6,4,10,0.4,3,2,5,1,0,2,0,3,10,8.9,H,1,1,garrison-brooks-1,Garrison Brooks,2019
+32,69,32,2019-03-14,North Carolina,N,Louisville,CTOURN,W 83-70,*,23,4,5,0.8,0,0,4,5,0.8,0.8,3,5,0.6,0,1,1,0,0,1,2,4,11,5.7,N,1,0,garrison-brooks-1,Garrison Brooks,2019
+33,70,33,2019-03-15,North Carolina,N,Duke,CTOURN,L 73-74,*,22,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,3,5,0,0,0,0,5,2,2.0,N,0,0,garrison-brooks-1,Garrison Brooks,2019
+34,71,34,2019-03-22,North Carolina,N,Iona,ROUND-64,W 88-73,*,27,4,8,0.5,0,0,4,8,0.5,0.5,2,2,1.0,3,5,8,0,1,0,0,4,10,9.0,N,1,0,garrison-brooks-1,Garrison Brooks,2019
+35,72,35,2019-03-24,North Carolina,N,Washington,ROUND-32,W 81-59,*,21,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,3,2,5,3,1,0,1,0,5,7.4,N,1,0,garrison-brooks-1,Garrison Brooks,2019
+36,73,36,2019-03-29,North Carolina,N,Auburn,ROUND-16,L 80-97,*,28,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,2,2,4,1,0,1,0,3,6,7.6,N,0,0,garrison-brooks-1,Garrison Brooks,2019

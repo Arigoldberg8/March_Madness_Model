@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2025-11-03,Texas A&M,,Northwestern State,REG (Non-Conf),W 98-68,,18,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,1,1,2,0,0,3,3,8,1.1,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+2,69,2,2025-11-06,Texas A&M,,Texas Southern,REG (Non-Conf),W 104-70,*,20,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,1,1,1,2,1,1,3,6,4.1,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+3,70,3,2025-11-09,Texas A&M,@,Oklahoma State,REG (Non-Conf),L 63-87,*,21,2,11,0.182,1,8,0.125,1,3,0.333,0.227,3,4,0.75,0,1,1,0,0,0,0,1,8,0.6,A,0,1,pop-isaacs-1,Pop Isaacs,2026
+4,71,4,2025-11-14,Texas A&M,,UCF,REG (Non-Conf),L 74-86,*,25,2,6,0.333,2,5,0.4,0,1,0.0,0.5,5,6,0.833,0,2,2,0,0,0,4,1,11,3.4,H,0,1,pop-isaacs-1,Pop Isaacs,2026
+5,72,5,2025-11-18,Texas A&M,,Montana,REG (Non-Conf),W 86-81,,23,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,2,1.0,0,2,2,4,1,0,2,3,10,7.9,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+6,73,7,2025-11-25,Texas A&M,,Mississippi Valley State,REG (Non-Conf),W 120-84,,19,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,1,0.0,0,3,3,4,1,0,1,2,8,8.2,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+7,74,8,2025-11-28,Texas A&M,N,Florida State,REG (Non-Conf),W 95-59,,21,4,9,0.444,3,6,0.5,1,3,0.333,0.611,4,4,1.0,1,2,3,3,1,0,2,2,15,11.9,N,1,1,pop-isaacs-1,Pop Isaacs,2026
+8,75,9,2025-12-02,Texas A&M,@,Pittsburgh,REG (Non-Conf),W 81-73,,9,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,0,1,0,3,1.7,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+9,76,10,2025-12-07,Texas A&M,N,SMU,REG (Non-Conf),L 80-93 (OT),,24,3,10,0.3,2,6,0.333,1,4,0.25,0.4,1,1,1.0,0,1,1,2,0,0,3,2,9,1.1,N,0,1,pop-isaacs-1,Pop Isaacs,2026
+10,77,11,2025-12-14,Texas A&M,,Jacksonville,REG (Non-Conf),W 112-75,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,2,2,0,1,2,4,3.8,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+11,78,12,2025-12-21,Texas A&M,,East Texas A&M,REG (Non-Conf),W 118-77,,19,5,8,0.625,5,7,0.714,0,1,0.0,0.938,0,1,0.0,0,1,1,6,0,0,2,0,15,13.5,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+12,79,13,2025-12-29,Texas A&M,,Prairie View A&M,REG (Non-Conf),W 111-82,,21,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,1,0.0,0,2,2,3,0,0,2,4,13,7.4,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+13,80,14,2026-01-03,Texas A&M,,Louisiana State,REG (Conf),W 75-72,,23,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,3,0.667,1,1,2,4,1,0,0,1,11,10.3,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+14,81,15,2026-01-06,Texas A&M,@,Auburn,REG (Conf),W 90-88,,29,7,12,0.583,4,8,0.5,3,4,0.75,0.75,3,5,0.6,0,2,2,5,0,1,3,2,21,15.6,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+15,82,16,2026-01-10,Texas A&M,,Oklahoma,REG (Conf),W 83-76,,20,3,9,0.333,1,4,0.25,2,5,0.4,0.389,6,6,1.0,0,2,2,3,1,0,1,2,13,9.8,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+16,83,17,2026-01-13,Texas A&M,@,Tennessee,REG (Conf),L 82-87 (2OT),,34,5,13,0.385,4,11,0.364,1,2,0.5,0.538,2,5,0.4,1,5,6,4,3,0,4,2,16,10.9,A,0,1,pop-isaacs-1,Pop Isaacs,2026
+17,84,18,2026-01-17,Texas A&M,@,Texas,REG (Conf),W 74-70,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,0,0,0,1,3,5,1.7,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+18,85,19,2026-01-21,Texas A&M,,Mississippi State,REG (Conf),W 88-68,,19,3,9,0.333,2,5,0.4,1,4,0.25,0.444,2,2,1.0,0,1,1,2,0,0,1,2,10,4.8,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+19,86,20,2026-01-24,Texas A&M,,South Carolina,REG (Conf),W 92-69,,24,4,9,0.444,2,7,0.286,2,2,1.0,0.556,1,2,0.5,2,2,4,3,0,0,1,0,11,9.0,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+20,87,21,2026-01-31,Texas A&M,@,Georgia,REG (Conf),W 92-77,,25,3,8,0.375,3,6,0.5,0,2,0.0,0.563,2,2,1.0,1,5,6,0,1,0,1,0,11,8.8,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+21,88,22,2026-02-04,Texas A&M,@,Alabama,REG (Conf),L 97-100,,15,3,9,0.333,1,3,0.333,2,6,0.333,0.389,0,0,,0,4,4,2,0,0,1,1,7,3.1,A,0,1,pop-isaacs-1,Pop Isaacs,2026
+22,89,23,2026-02-07,Texas A&M,,Florida,REG (Conf),L 67-86,,26,5,8,0.625,3,5,0.6,2,3,0.667,0.813,4,4,1.0,1,1,2,4,0,1,3,1,17,14.5,H,0,1,pop-isaacs-1,Pop Isaacs,2026
+23,90,24,2026-02-11,Texas A&M,,Missouri,REG (Conf),L 85-86,,13,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,0,0,3,0,0,0,2,3,1.2,H,0,1,pop-isaacs-1,Pop Isaacs,2026
+24,91,25,2026-02-14,Texas A&M,@,Vanderbilt,REG (Conf),L 69-82,,24,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,1,1,2,2,1,0,0,4,8,5.4,A,0,1,pop-isaacs-1,Pop Isaacs,2026
+25,92,26,2026-02-18,Texas A&M,,Ole Miss,REG (Conf),W 80-77,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,2,2,1,0,0,3,2,3,-0.9,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+26,93,27,2026-02-21,Texas A&M,@,Oklahoma,REG (Conf),W 75-71,,15,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,2,2,0,0,0,1,2,6,3.5,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+27,94,28,2026-02-25,Texas A&M,@,Arkansas,REG (Conf),L 84-99,,24,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,2,1,0,2,1,5,2.6,A,0,1,pop-isaacs-1,Pop Isaacs,2026
+28,95,29,2026-02-28,Texas A&M,,Texas,REG (Conf),L 70-76,,26,4,7,0.571,2,3,0.667,2,4,0.5,0.714,4,4,1.0,0,2,2,4,0,0,0,3,14,12.9,H,0,1,pop-isaacs-1,Pop Isaacs,2026
+29,96,30,2026-03-03,Texas A&M,,Kentucky,REG (Conf),W 96-85,*,29,3,7,0.429,1,4,0.25,2,3,0.667,0.5,5,6,0.833,0,6,6,8,2,0,3,1,12,13.9,H,1,1,pop-isaacs-1,Pop Isaacs,2026
+30,97,31,2026-03-07,Texas A&M,@,Louisiana State,REG (Conf),W 94-91 (3OT),*,45,6,12,0.5,1,6,0.167,5,6,0.833,0.542,5,8,0.625,1,6,7,3,3,0,1,3,18,16.2,A,1,1,pop-isaacs-1,Pop Isaacs,2026
+31,98,32,2026-03-12,Texas A&M,N,Oklahoma,CTOURN,L 63-83,*,26,4,9,0.444,4,9,0.444,0,0,,0.667,0,0,,0,6,6,3,0,0,3,1,12,7.8,N,0,0,pop-isaacs-1,Pop Isaacs,2026

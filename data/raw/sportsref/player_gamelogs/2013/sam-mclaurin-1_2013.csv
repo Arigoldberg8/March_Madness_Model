@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2012-11-09,Illinois,,Colgate,REG (Non-Conf),W 75-55,,20,2,7,0.286,0,0,,2,7,0.286,0.286,0,1,0.0,5,2,7,1,0,0,0,1,4,3.9,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+2,106,2,2012-11-12,Illinois,,St. Francis Brooklyn,REG (Non-Conf),W 89-64,,13,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,2,1,3,1,0,1,1,3,4,3.8,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+3,107,3,2012-11-17,Illinois,@,Hawaii,REG (Non-Conf),W 78-77 (OT),,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,2,3,0,0,0,0,4,5,3.0,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+4,108,4,2012-11-19,Illinois,N,Southern California,REG (Non-Conf),W 94-64,,15,2,4,0.5,0,0,,2,4,0.5,0.5,3,3,1.0,4,2,6,1,0,1,1,2,7,8.0,N,1,1,sam-mclaurin-1,Sam McLaurin,2013
+5,109,5,2012-11-20,Illinois,@,Chaminade,REG (Non-Conf),W 84-61,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,2,3,1,0,1,1,2,6,6.0,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+6,110,6,2012-11-21,Illinois,N,Butler,REG (Non-Conf),W 78-61,,25,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,2,1,3,1,0,2,1,2,4,3.2,N,1,1,sam-mclaurin-1,Sam McLaurin,2013
+7,111,7,2012-11-25,Illinois,,Gardner-Webb,REG (Non-Conf),W 63-62,,18,0,0,,0,0,,0,0,,,3,4,0.75,1,1,2,0,0,0,3,2,3,-0.2,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+8,112,8,2012-11-28,Illinois,,Georgia Tech,REG (Non-Conf),W 75-62,,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,4,1,5,0,0,2,2,2,2,0.5,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+9,113,9,2012-12-04,Illinois,,Western Carolina,REG (Non-Conf),W 72-64,,25,2,4,0.5,0,0,,2,4,0.5,0.5,1,3,0.333,4,1,5,1,2,1,2,2,5,5.9,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+10,114,10,2012-12-08,Illinois,@,Gonzaga,REG (Non-Conf),W 85-74,,22,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,1,4,0,1,0,0,4,4,3.1,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+11,115,11,2012-12-11,Illinois,,Norfolk State,REG (Non-Conf),W 64-54,,26,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,5,1,6,0,1,3,0,2,6,8.6,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+12,116,12,2012-12-16,Illinois,,Eastern Kentucky,REG (Non-Conf),W 66-53,,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,2,2,0,0,0,2,3,4,0.4,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+13,117,13,2012-12-22,Illinois,N,Missouri,REG (Non-Conf),L 73-82,,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,0,0,2,0,-1.9,N,0,1,sam-mclaurin-1,Sam McLaurin,2013
+14,118,14,2012-12-29,Illinois,N,Auburn,REG (Non-Conf),W 81-79,,25,2,2,1.0,0,0,,2,2,1.0,1.0,2,4,0.5,2,1,3,1,1,1,0,4,6,7.1,N,1,1,sam-mclaurin-1,Sam McLaurin,2013
+15,119,15,2013-01-02,Illinois,@,Purdue,REG (Conf),L 61-68,,21,0,4,0.0,0,0,,0,4,0.0,0.0,2,4,0.5,1,2,3,1,0,0,0,3,2,-0.8,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+16,120,16,2013-01-05,Illinois,,Ohio State,REG (Conf),W 74-55,,16,0,0,,0,0,,0,0,,,0,0,,0,3,3,1,0,1,0,2,0,1.5,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+17,121,17,2013-01-09,Illinois,,Minnesota,REG (Conf),L 67-84,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,0,1,1,0,1,2,2.3,H,0,1,sam-mclaurin-1,Sam McLaurin,2013
+18,122,18,2013-01-12,Illinois,@,Wisconsin,REG (Conf),L 51-74,,24,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,1,1,0,2,0,0.9,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+19,123,19,2013-01-17,Illinois,,Northwestern,REG (Conf),L 54-68,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,5,0,5,0,0,0,1,3,6,4.9,H,0,1,sam-mclaurin-1,Sam McLaurin,2013
+20,124,20,2013-01-22,Illinois,@,Nebraska,REG (Conf),W 71-51,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,3,1,4,1,1,1,0,2,7,9.0,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+21,125,21,2013-01-27,Illinois,,Michigan,REG (Conf),L 60-74,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,5,1,6,0,0,0,4,0,7,4.5,H,0,1,sam-mclaurin-1,Sam McLaurin,2013
+22,126,22,2013-01-31,Illinois,@,Michigan State,REG (Conf),L 75-80,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,3,0,3,0,2,0,1,3,7,7.6,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+23,127,23,2013-02-03,Illinois,,Wisconsin,REG (Conf),L 68-74,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,1,1,0,0,5,2,2.0,H,0,1,sam-mclaurin-1,Sam McLaurin,2013
+24,128,24,2013-02-07,Illinois,,Indiana,REG (Conf),W 74-72,*,28,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,1,0,1,2,0,0,0,1,5,6.1,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+25,129,25,2013-02-10,Illinois,@,Minnesota,REG (Conf),W 57-53,*,24,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,1,1,2,0,0,1,0,2,5,3.5,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+26,130,26,2013-02-13,Illinois,,Purdue,REG (Conf),W 79-59,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,3,2,5,0,0,0,0,1,8,6.3,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+27,131,27,2013-02-17,Illinois,@,Northwestern,REG (Conf),W 62-41,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,2,0,2,2,0,1,0,2,6,6.0,A,1,1,sam-mclaurin-1,Sam McLaurin,2013
+28,132,28,2013-02-21,Illinois,,Penn State,REG (Conf),W 64-59,*,28,1,3,0.333,0,0,,1,3,0.333,0.333,4,7,0.571,3,2,5,0,0,1,0,3,6,5.3,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+29,133,29,2013-02-24,Illinois,@,Michigan,REG (Conf),L 58-71,*,22,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,2,0,2,0,0,0,1,1,3,2.3,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+30,134,30,2013-03-02,Illinois,,Nebraska,REG (Conf),W 72-65,*,8,0,0,,0,0,,0,0,,,2,4,0.5,1,1,2,0,0,0,0,0,2,2.2,H,1,1,sam-mclaurin-1,Sam McLaurin,2013
+31,135,31,2013-03-05,Illinois,@,Iowa,REG (Conf),L 55-63,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,1,4,0,0,0,1,1,3,2.6,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+32,136,32,2013-03-10,Illinois,@,Ohio State,REG (Conf),L 55-68,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,3,0,-2.6,A,0,1,sam-mclaurin-1,Sam McLaurin,2013
+33,137,33,2013-03-14,Illinois,N,Minnesota,CTOURN,W 51-49,,16,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,2,1,3,1,0,1,0,3,2,1.8,N,1,0,sam-mclaurin-1,Sam McLaurin,2013
+34,138,34,2013-03-15,Illinois,N,Indiana,CTOURN,L 64-80,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,5,2,7,0,0,0,3,4,2,-0.2,N,0,0,sam-mclaurin-1,Sam McLaurin,2013
+35,139,35,2013-03-22,Illinois,N,Colorado,ROUND-64,W 57-49,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,2,1,3,0,-1.2,N,1,0,sam-mclaurin-1,Sam McLaurin,2013
+36,140,36,2013-03-24,Illinois,N,Miami (FL),ROUND-32,L 59-63,*,20,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,3,5,0,0,2,4,1,0,-2.1,N,0,0,sam-mclaurin-1,Sam McLaurin,2013

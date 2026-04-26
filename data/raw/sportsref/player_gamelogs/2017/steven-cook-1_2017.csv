@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,81,1,2016-11-14,Princeton,@,Brigham Young,REG (Non-Conf),L 73-82,*,35,4,9,0.444,0,3,0.0,4,6,0.667,0.444,4,5,0.8,0,4,4,3,2,0,1,3,12,10.0,A,0,1,steven-cook-1,Steven Cook,2017
+2,82,2,2016-11-20,Princeton,@,Lehigh,REG (Non-Conf),L 67-76,*,29,6,9,0.667,1,1,1.0,5,8,0.625,0.722,2,3,0.667,1,3,4,2,2,0,2,3,15,12.5,A,0,1,steven-cook-1,Steven Cook,2017
+3,83,3,2016-11-23,Princeton,@,Lafayette,REG (Non-Conf),W 71-55,*,25,6,8,0.75,2,4,0.5,4,4,1.0,0.875,0,0,,1,2,3,1,1,0,2,2,14,11.0,A,1,1,steven-cook-1,Steven Cook,2017
+4,84,4,2016-11-25,Princeton,,Rowan,REG (Non-Conf),W 108-46,*,8,5,6,0.833,2,3,0.667,3,3,1.0,1.0,2,4,0.5,0,3,3,1,1,0,0,1,14,13.2,H,1,1,steven-cook-1,Steven Cook,2017
+5,85,5,2016-11-29,Princeton,@,VCU,REG (Non-Conf),L 70-81,*,28,4,10,0.4,0,2,0.0,4,8,0.5,0.4,2,5,0.4,3,2,5,2,3,0,2,4,10,6.9,A,0,1,steven-cook-1,Steven Cook,2017
+6,86,6,2016-12-06,Princeton,N,California,REG (Non-Conf),L 51-62,*,36,2,8,0.25,0,2,0.0,2,6,0.333,0.25,3,6,0.5,1,3,4,0,1,0,2,2,7,0.8,N,0,1,steven-cook-1,Steven Cook,2017
+7,87,7,2016-12-07,Princeton,N,Hawaii,REG (Non-Conf),W 75-62,*,31,7,14,0.5,5,7,0.714,2,7,0.286,0.679,2,2,1.0,1,8,9,1,2,0,1,2,21,18.0,N,1,1,steven-cook-1,Steven Cook,2017
+8,88,8,2016-12-10,Princeton,@,Liberty,REG (Non-Conf),W 67-64,*,34,5,8,0.625,4,7,0.571,1,1,1.0,0.875,1,4,0.25,0,4,4,3,1,0,1,1,15,13.1,A,1,1,steven-cook-1,Steven Cook,2017
+9,89,9,2016-12-14,Princeton,,Saint Joseph's,REG (Non-Conf),L 68-76,*,33,4,11,0.364,0,2,0.0,4,9,0.444,0.364,5,9,0.556,1,1,2,1,3,1,0,5,13,8.7,H,0,1,steven-cook-1,Steven Cook,2017
+10,90,10,2016-12-20,Princeton,@,Monmouth,REG (Non-Conf),L 90-96,*,37,12,18,0.667,4,7,0.571,8,11,0.727,0.778,2,3,0.667,1,4,5,2,2,1,1,2,30,26.0,A,0,1,steven-cook-1,Steven Cook,2017
+11,91,11,2016-12-22,Princeton,@,Bucknell,REG (Non-Conf),W 72-70,*,36,5,12,0.417,3,4,0.75,2,8,0.25,0.542,4,6,0.667,2,5,7,0,1,1,0,1,17,14.0,A,1,1,steven-cook-1,Steven Cook,2017
+12,92,12,2016-12-28,Princeton,,Hampton,REG (Non-Conf),W 77-49,*,32,1,4,0.25,1,3,0.333,0,1,0.0,0.375,10,12,0.833,3,5,8,3,1,0,2,3,13,13.3,H,1,1,steven-cook-1,Steven Cook,2017
+13,93,13,2016-12-31,Princeton,,Cal Poly,REG (Non-Conf),W 81-52,*,27,8,11,0.727,6,9,0.667,2,2,1.0,1.0,2,3,0.667,2,4,6,2,1,0,1,0,24,23.1,H,1,1,steven-cook-1,Steven Cook,2017
+14,94,14,2017-01-07,Princeton,,Pennsylvania,REG (Conf),W 61-52,*,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,4,5,0,1,0,2,4,5,0.8,H,1,1,steven-cook-1,Steven Cook,2017
+15,95,15,2017-01-13,Princeton,,Brown,REG (Conf),W 97-66,*,17,5,7,0.714,0,2,0.0,5,5,1.0,0.714,1,1,1.0,2,2,4,3,0,0,0,3,11,11.0,H,1,1,steven-cook-1,Steven Cook,2017
+16,96,16,2017-01-14,Princeton,,Yale,REG (Conf),W 66-58,*,32,4,11,0.364,0,3,0.0,4,8,0.5,0.364,3,4,0.75,1,7,8,1,2,3,3,1,11,8.7,H,1,1,steven-cook-1,Steven Cook,2017
+17,97,17,2017-02-03,Princeton,@,Dartmouth,REG (Conf),W 69-64,*,38,1,7,0.143,0,1,0.0,1,6,0.167,0.143,5,6,0.833,3,7,10,1,1,0,1,2,7,6.2,A,1,1,steven-cook-1,Steven Cook,2017
+18,98,18,2017-02-04,Princeton,@,Harvard,REG (Conf),W 57-56,*,34,8,12,0.667,2,5,0.4,6,7,0.857,0.75,1,2,0.5,2,7,9,3,5,1,4,2,19,19.9,A,1,1,steven-cook-1,Steven Cook,2017
+19,99,19,2017-02-07,Princeton,@,Pennsylvania,REG (Conf),W 64-49,*,32,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,3,4,4,2,0,3,1,0,-0.5,A,1,1,steven-cook-1,Steven Cook,2017
+20,100,20,2017-02-10,Princeton,,Cornell,REG (Conf),W 69-60,*,29,4,10,0.4,1,2,0.5,3,8,0.375,0.45,0,0,,2,2,4,1,1,0,1,3,9,5.1,H,1,1,steven-cook-1,Steven Cook,2017
+21,101,21,2017-02-11,Princeton,,Columbia,REG (Conf),W 61-59,*,34,6,12,0.5,5,7,0.714,1,5,0.2,0.708,2,2,1.0,2,6,8,2,1,0,2,3,19,15.4,H,1,1,steven-cook-1,Steven Cook,2017
+22,102,22,2017-02-17,Princeton,@,Yale,REG (Conf),W 71-52,*,32,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,0,2,2,1,1,0,2,1,8,4.5,A,1,1,steven-cook-1,Steven Cook,2017
+23,103,23,2017-02-18,Princeton,@,Brown,REG (Conf),W 66-51,*,33,5,10,0.5,4,7,0.571,1,3,0.333,0.7,3,4,0.75,2,3,5,0,3,0,0,2,17,16.1,A,1,1,steven-cook-1,Steven Cook,2017
+24,104,24,2017-02-24,Princeton,@,Columbia,REG (Conf),W 64-45,*,27,3,10,0.3,0,5,0.0,3,5,0.6,0.3,0,0,,2,3,5,3,1,0,0,1,6,5.2,A,1,1,steven-cook-1,Steven Cook,2017
+25,105,25,2017-02-25,Princeton,@,Cornell,REG (Conf),W 75-60,*,29,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,5,0.6,1,3,4,2,2,0,2,3,14,12.1,A,1,1,steven-cook-1,Steven Cook,2017
+26,106,26,2017-03-03,Princeton,,Harvard,REG (Conf),W 73-69,*,33,13,16,0.813,2,3,0.667,11,13,0.846,0.875,2,3,0.667,1,3,4,1,2,0,1,0,30,26.9,H,1,1,steven-cook-1,Steven Cook,2017
+27,107,27,2017-03-04,Princeton,,Dartmouth,REG (Conf),W 85-48,*,23,5,14,0.357,1,6,0.167,4,8,0.5,0.393,0,0,,4,1,5,3,1,1,0,0,11,10.1,H,1,1,steven-cook-1,Steven Cook,2017
+28,108,28,2017-03-11,Princeton,N,Pennsylvania,CTOURN,W 72-64 (OT),*,40,3,12,0.25,0,5,0.0,3,7,0.429,0.25,3,6,0.5,1,2,3,3,1,0,3,1,9,1.6,N,1,0,steven-cook-1,Steven Cook,2017
+29,109,29,2017-03-12,Princeton,N,Yale,CTOURN,W 71-59,*,31,5,11,0.455,3,5,0.6,2,6,0.333,0.591,2,3,0.667,1,2,3,3,1,0,0,5,15,11.3,N,1,0,steven-cook-1,Steven Cook,2017
+30,110,30,2017-03-16,Princeton,N,Notre Dame,ROUND-64,L 58-60,*,34,4,11,0.364,3,6,0.5,1,5,0.2,0.5,0,0,,2,5,7,0,1,0,3,1,11,5.4,N,0,0,steven-cook-1,Steven Cook,2017

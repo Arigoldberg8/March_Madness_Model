@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2020-11-28,Eastern Washington,@,Washington State,REG (Non-Conf),L 68-71,*,22,4,10,0.4,2,6,0.333,2,4,0.5,0.5,2,2,1.0,0,3,3,3,0,0,5,4,12,3.0,A,0,1,jacob-davison-1,Jacob Davison,2021
+2,89,2,2020-12-05,Eastern Washington,@,Arizona,REG (Non-Conf),L 67-70,*,27,3,11,0.273,0,5,0.0,3,6,0.5,0.273,0,1,0.0,0,2,2,3,1,1,4,2,6,-1.3,A,0,1,jacob-davison-1,Jacob Davison,2021
+3,90,3,2020-12-07,Eastern Washington,@,Oregon,REG (Non-Conf),L 52-69,*,32,5,16,0.313,0,6,0.0,5,10,0.5,0.313,5,6,0.833,0,3,3,3,0,1,2,0,15,7.1,A,0,1,jacob-davison-1,Jacob Davison,2021
+4,91,4,2020-12-11,Eastern Washington,,Coll. of Idaho,REG (Non-Conf),W 80-56,*,22,5,7,0.714,3,5,0.6,2,2,1.0,0.929,2,4,0.5,0,2,2,3,1,2,0,1,15,16.0,H,1,1,jacob-davison-1,Jacob Davison,2021
+5,92,5,2020-12-15,Eastern Washington,@,St. Mary's (CA),REG (Non-Conf),L 75-80,*,32,6,19,0.316,1,4,0.25,5,15,0.333,0.342,2,2,1.0,1,2,3,2,1,1,3,3,15,4.3,A,0,1,jacob-davison-1,Jacob Davison,2021
+6,93,6,2020-12-19,Eastern Washington,@,Northern Arizona,REG (Conf),W 80-64,*,21,4,8,0.5,0,3,0.0,4,5,0.8,0.5,0,0,,0,3,3,1,1,0,2,3,8,3.4,A,1,1,jacob-davison-1,Jacob Davison,2021
+7,94,7,2021-01-14,Eastern Washington,,Southern Utah,REG (Conf),W 75-63,*,24,4,8,0.5,3,5,0.6,1,3,0.333,0.688,4,5,0.8,0,4,4,0,1,0,0,4,15,11.2,H,1,1,jacob-davison-1,Jacob Davison,2021
+8,95,8,2021-01-16,Eastern Washington,,Southern Utah,REG (Conf),L 94-99,*,34,11,27,0.407,9,18,0.5,2,9,0.222,0.574,0,0,,1,1,2,1,0,0,2,4,31,14.6,H,0,1,jacob-davison-1,Jacob Davison,2021
+9,96,9,2021-01-21,Eastern Washington,@,Northern Colorado,REG (Conf),L 76-78,*,32,4,11,0.364,1,4,0.25,3,7,0.429,0.409,2,2,1.0,1,1,2,0,0,1,1,4,11,4.0,A,0,1,jacob-davison-1,Jacob Davison,2021
+10,97,10,2021-01-23,Eastern Washington,@,Northern Colorado,REG (Conf),W 82-76,,21,4,10,0.4,1,3,0.333,3,7,0.429,0.45,2,2,1.0,1,4,5,1,2,0,2,2,11,7.4,A,1,1,jacob-davison-1,Jacob Davison,2021
+11,98,11,2021-01-31,Eastern Washington,,Sacramento State,REG (Conf),W 68-60,,23,3,10,0.3,1,6,0.167,2,4,0.5,0.35,2,2,1.0,0,4,4,3,0,0,1,1,9,5.1,H,1,1,jacob-davison-1,Jacob Davison,2021
+12,99,12,2021-02-01,Eastern Washington,,Sacramento State,REG (Conf),W 94-79,,20,4,10,0.4,4,6,0.667,0,4,0.0,0.6,2,2,1.0,1,1,2,2,1,0,1,1,14,10.6,H,1,1,jacob-davison-1,Jacob Davison,2021
+13,100,13,2021-02-04,Eastern Washington,@,Idaho,REG (Conf),W 89-75,,16,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,0,2,2,0,1,0,2,1,5,2.5,A,1,1,jacob-davison-1,Jacob Davison,2021
+14,101,14,2021-02-06,Eastern Washington,,Idaho,REG (Conf),W 90-64,,26,3,4,0.75,2,2,1.0,1,2,0.5,1.0,1,2,0.5,1,4,5,3,1,1,2,2,9,9.9,H,1,1,jacob-davison-1,Jacob Davison,2021
+15,102,17,2021-02-18,Eastern Washington,,Montana,REG (Conf),W 90-76,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jacob-davison-1,Jacob Davison,2021
+16,103,18,2021-02-20,Eastern Washington,@,Montana,REG (Conf),W 90-76,,7,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,0,0,0,0,0,0,0,2,4,2.5,A,1,1,jacob-davison-1,Jacob Davison,2021
+17,104,19,2021-03-03,Eastern Washington,,Idaho State,REG (Conf),L 63-68,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,2,0,-0.9,H,0,1,jacob-davison-1,Jacob Davison,2021
+18,105,20,2021-03-05,Eastern Washington,,Idaho State,REG (Conf),W 75-62,*,29,6,11,0.545,2,3,0.667,4,8,0.5,0.636,4,4,1.0,1,0,1,1,2,1,2,3,18,13.6,H,1,1,jacob-davison-1,Jacob Davison,2021
+19,106,21,2021-03-11,Eastern Washington,N,Northern Arizona,CTOURN,W 66-60,*,24,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,1,1,3,0,0,2,3,5,0.1,N,1,0,jacob-davison-1,Jacob Davison,2021
+20,107,22,2021-03-12,Eastern Washington,N,Montana,CTOURN,W 78-50,,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,7,8,0,0,0,0,0,5,5.1,N,1,0,jacob-davison-1,Jacob Davison,2021
+21,108,23,2021-03-13,Eastern Washington,N,Montana State,CTOURN,W 65-55,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,4,0.5,1,0,1,1,1,0,1,0,2,0.5,N,1,0,jacob-davison-1,Jacob Davison,2021
+22,109,24,2021-03-20,Eastern Washington,N,Kansas,ROUND-64,L 84-93,,16,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,0,3,3,2,0,0,1,1,5,2.1,N,0,0,jacob-davison-1,Jacob Davison,2021

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Maryland,,Mount St. Mary's,REG (Non-Conf),W 80-56,,16,0,0,,0,0,,0,0,,,0,1,0.0,0,3,3,1,1,0,1,4,0,-0.4,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+2,2,2,2015-11-17,Maryland,,Georgetown,REG (Non-Conf),W 75-71,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+3,3,3,2015-11-20,Maryland,,Rider,REG (Non-Conf),W 65-58,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+4,4,4,2015-11-24,Maryland,N,Illinois State,REG (Non-Conf),W 77-66,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,0,1,0,0.6,N,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+5,5,5,2015-11-25,Maryland,N,Rhode Island,REG (Non-Conf),W 86-63,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,3,3,3,0,0,0,3,0,0.4,N,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+6,6,6,2015-11-28,Maryland,,Cleveland State,REG (Non-Conf),W 80-63,,11,0,0,,0,0,,0,0,,,1,3,0.333,0,1,1,1,0,0,1,0,1,0.2,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+7,7,7,2015-12-01,Maryland,@,North Carolina,REG (Non-Conf),L 81-89,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+8,8,8,2015-12-04,Maryland,,Saint Francis (PA),REG (Non-Conf),W 96-55,,14,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,1,1,1,0,0,1,2,7,4.2,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+9,9,9,2015-12-08,Maryland,N,Connecticut,REG (Non-Conf),W 76-66,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+10,10,10,2015-12-12,Maryland,,Maryland Eastern Shore,REG (Non-Conf),W 77-56,,7,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,0,0,0,0,3,1.3,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+11,11,11,2015-12-19,Maryland,N,Princeton,REG (Non-Conf),W 82-61,,12,6,7,0.857,2,3,0.667,4,4,1.0,1.0,0,1,0.0,1,1,2,2,0,0,0,0,14,13.5,N,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+12,12,12,2015-12-27,Maryland,,Marshall,REG (Non-Conf),W 87-67,,14,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,6,6,1,0,0,1,1,8,7.5,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+13,13,13,2015-12-30,Maryland,,Penn State,REG (Conf),W 70-64,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+14,14,14,2016-01-02,Maryland,@,Northwestern,REG (Conf),W 72-59,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,1,2,0.3,A,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+15,15,15,2016-01-06,Maryland,,Rutgers,REG (Conf),W 88-63,,15,1,6,0.167,0,4,0.0,1,2,0.5,0.167,1,1,1.0,0,3,3,2,1,0,1,1,3,1.1,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+16,16,17,2016-01-12,Maryland,@,Michigan,REG (Conf),L 67-70,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+17,17,18,2016-01-16,Maryland,,Ohio State,REG (Conf),W 100-65,,7,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,2,0,0,0,1,4,3.3,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+18,18,21,2016-01-28,Maryland,,Iowa,REG (Conf),W 74-68,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+19,19,23,2016-02-03,Maryland,@,Nebraska,REG (Conf),W 70-65,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+20,20,24,2016-02-06,Maryland,,Purdue,REG (Conf),W 72-61,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+21,21,25,2016-02-09,Maryland,,Bowie St.,REG (Non-Conf),W 93-62,,21,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,0,0,1,0,1,1,1,10,6.0,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+22,22,26,2016-02-13,Maryland,,Wisconsin,REG (Conf),L 57-70,,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,0,1,0,0,2,4,3.5,H,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+23,23,27,2016-02-18,Maryland,@,Minnesota,REG (Conf),L 63-68,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,1,1,0,0,2,0,-0.5,A,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+24,24,28,2016-02-21,Maryland,,Michigan,REG (Conf),W 86-82,,10,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,1,3,0,0,0,5,7.7,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+25,25,29,2016-02-27,Maryland,@,Purdue,REG (Conf),L 79-83,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+26,26,30,2016-03-03,Maryland,,Illinois,REG (Conf),W 81-55,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,1,1,0,0,0,1,0,7,5.0,H,1,1,jaylen-brantley-1,Jaylen Brantley,2016
+27,27,31,2016-03-06,Maryland,@,Indiana,REG (Conf),L 62-80,,12,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,0,0,6,4.7,A,0,1,jaylen-brantley-1,Jaylen Brantley,2016
+28,28,32,2016-03-11,Maryland,N,Nebraska,CTOURN,W 97-86,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,N,1,0,jaylen-brantley-1,Jaylen Brantley,2016
+29,29,33,2016-03-12,Maryland,N,Michigan State,CTOURN,L 61-64,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,jaylen-brantley-1,Jaylen Brantley,2016
+30,30,34,2016-03-18,Maryland,N,South Dakota State,ROUND-64,W 79-74,,10,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,N,1,0,jaylen-brantley-1,Jaylen Brantley,2016
+31,31,35,2016-03-20,Maryland,N,Hawaii,ROUND-32,W 73-60,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,0,jaylen-brantley-1,Jaylen Brantley,2016
+32,32,36,2016-03-24,Maryland,N,Kansas,ROUND-16,L 63-79,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,0,0,jaylen-brantley-1,Jaylen Brantley,2016

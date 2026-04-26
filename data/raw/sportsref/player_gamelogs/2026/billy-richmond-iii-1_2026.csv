@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2025-11-03,Arkansas,,Southern,REG (Non-Conf),W 109-77,*,16,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,3,3,1,0,1,1,5,6,3.3,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+2,38,2,2025-11-08,Arkansas,@,Michigan State,REG (Non-Conf),L 66-69,*,29,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,2,0.5,2,4,6,0,0,1,2,1,8,4.1,A,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+3,39,3,2025-11-11,Arkansas,,Central Arkansas,REG (Non-Conf),W 93-56,,21,1,2,0.5,1,1,1.0,0,1,0.0,0.75,1,2,0.5,1,3,4,0,0,0,1,0,4,3.2,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+4,40,4,2025-11-14,Arkansas,,Samford,REG (Non-Conf),W 79-75,,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,4,1,5,0,1,1,1,2,10,9.3,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+5,41,5,2025-11-18,Arkansas,,Winthrop,REG (Non-Conf),W 84-83,,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,1,0,1,1,0,0,0,1,6,5.7,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+6,42,6,2025-11-21,Arkansas,,Jackson State,REG (Non-Conf),W 115-61,,24,6,9,0.667,0,1,0.0,6,8,0.75,0.667,2,4,0.5,3,2,5,2,2,1,0,2,14,15.3,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+7,43,7,2025-11-27,Arkansas,N,Duke,REG (Non-Conf),L 71-80,,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,2,3,5,2,1,2,5,2,11,8.7,N,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+8,44,8,2025-12-03,Arkansas,,Louisville,REG (Non-Conf),W 89-80,,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,6,6,1.0,1,3,4,2,0,1,2,4,10,8.1,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+9,45,9,2025-12-06,Arkansas,,Fresno State,REG (Non-Conf),W 82-58,,12,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,0,1,4,0,0,1,1,6,5.8,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+10,46,10,2025-12-13,Arkansas,N,Texas Tech,REG (Non-Conf),W 93-86,,17,1,5,0.2,0,0,,1,5,0.2,0.2,4,4,1.0,2,1,3,4,2,0,0,4,6,7.8,N,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+11,47,11,2025-12-16,Arkansas,,Queens (NC),REG (Non-Conf),W 108-80,,25,6,10,0.6,1,2,0.5,5,8,0.625,0.65,2,3,0.667,2,3,5,0,0,0,2,1,15,9.9,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+12,48,12,2025-12-20,Arkansas,N,Houston,REG (Non-Conf),L 85-94,,24,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,1,0.0,0,2,2,1,2,0,0,3,12,11.5,N,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+13,49,13,2025-12-29,Arkansas,,James Madison,REG (Non-Conf),W 103-74,,21,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,0,4,4,6,1,0,2,0,8,9.8,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+14,50,14,2026-01-03,Arkansas,,Tennessee,REG (Conf),W 86-75,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,0,0,0,0,0,0,4,5,0.3,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+15,51,15,2026-01-07,Arkansas,@,Ole Miss,REG (Conf),W 94-87,,24,5,5,1.0,1,1,1.0,4,4,1.0,1.1,2,2,1.0,3,3,6,1,0,0,0,2,13,14.4,A,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+16,52,16,2026-01-10,Arkansas,@,Auburn,REG (Conf),L 73-95,,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,1,1.0,1,0,1,0,2,0,1,4,3,0.7,A,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+17,53,17,2026-01-14,Arkansas,,South Carolina,REG (Conf),W 108-74,*,26,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,1,1.0,0,5,5,4,3,2,1,0,3,8.3,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+18,54,18,2026-01-17,Arkansas,@,Georgia,REG (Conf),L 76-90,*,26,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,4,4,8,1,1,3,4,0,12,10.5,A,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+19,55,19,2026-01-20,Arkansas,,Vanderbilt,REG (Conf),W 93-68,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,3,0,1,0,4,2,1.4,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+20,56,20,2026-01-24,Arkansas,,Louisiana State,REG (Conf),W 85-81,,28,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,0,2,2,3,0,0,1,2,11,8.2,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+21,57,21,2026-01-27,Arkansas,@,Oklahoma,REG (Conf),W 83-79,,18,4,7,0.571,0,2,0.0,4,5,0.8,0.571,1,2,0.5,1,2,3,0,2,0,0,1,9,8.2,A,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+22,58,22,2026-01-31,Arkansas,,Kentucky,REG (Conf),L 77-85,,28,6,8,0.75,0,1,0.0,6,7,0.857,0.75,2,3,0.667,1,4,5,1,1,0,0,4,14,12.4,H,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+23,59,23,2026-02-07,Arkansas,@,Mississippi State,REG (Conf),W 88-68,*,25,7,11,0.636,0,2,0.0,7,9,0.778,0.636,0,0,,2,2,4,3,0,1,1,2,14,12.1,A,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+24,60,24,2026-02-10,Arkansas,@,Louisiana State,REG (Conf),W 91-62,*,36,5,9,0.556,0,0,,5,9,0.556,0.556,3,4,0.75,2,3,5,1,0,2,1,2,13,10.9,A,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+25,61,25,2026-02-14,Arkansas,,Auburn,REG (Conf),W 88-75,*,38,12,15,0.8,0,1,0.0,12,14,0.857,0.8,1,1,1.0,0,3,3,4,3,2,1,3,25,25.2,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+26,62,26,2026-02-18,Arkansas,@,Alabama,REG (Conf),L 115-117 (2OT),*,34,10,19,0.526,0,0,,10,19,0.526,0.526,0,0,,5,1,6,2,0,0,0,5,20,13.9,A,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+27,63,27,2026-02-21,Arkansas,,Missouri,REG (Conf),W 94-86,*,35,9,14,0.643,2,3,0.667,7,11,0.636,0.714,1,2,0.5,1,0,1,4,3,2,3,1,21,18.9,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+28,64,28,2026-02-25,Arkansas,,Texas A&M,REG (Conf),W 99-84,*,34,8,13,0.615,1,2,0.5,7,11,0.636,0.654,6,6,1.0,1,1,2,3,2,1,2,3,23,19.7,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+29,65,29,2026-02-28,Arkansas,@,Florida,REG (Conf),L 77-111,*,39,9,17,0.529,0,2,0.0,9,15,0.6,0.529,4,4,1.0,2,4,6,3,2,1,2,2,22,18.3,A,0,1,billy-richmond-iii-1,Billy Richmond III,2026
+30,66,30,2026-03-04,Arkansas,,Texas,REG (Conf),W 105-85,*,37,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,2,1.0,0,9,9,3,3,3,1,2,8,11.0,H,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+31,67,31,2026-03-07,Arkansas,@,Missouri,REG (Conf),W 88-84 (OT),*,39,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,0,6,6,4,2,1,2,5,10,10.0,A,1,1,billy-richmond-iii-1,Billy Richmond III,2026
+32,68,32,2026-03-13,Arkansas,N,Oklahoma,CTOURN,W 82-79,*,35,4,11,0.364,0,2,0.0,4,9,0.444,0.364,1,2,0.5,1,4,5,1,1,2,0,1,9,7.1,N,1,0,billy-richmond-iii-1,Billy Richmond III,2026
+33,69,33,2026-03-14,Arkansas,N,Ole Miss,CTOURN,W 93-90 (OT),*,41,1,7,0.143,0,2,0.0,1,5,0.2,0.143,2,2,1.0,2,3,5,1,2,0,1,4,4,1.9,N,1,0,billy-richmond-iii-1,Billy Richmond III,2026
+34,70,34,2026-03-15,Arkansas,N,Vanderbilt,CTOURN,W 86-75,*,39,8,13,0.615,2,4,0.5,6,9,0.667,0.692,0,0,,1,4,5,3,0,1,2,2,18,14.0,N,1,0,billy-richmond-iii-1,Billy Richmond III,2026

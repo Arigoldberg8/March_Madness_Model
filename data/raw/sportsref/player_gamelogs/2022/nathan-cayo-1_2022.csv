@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,119,1,2021-11-09,Richmond,,North Carolina Central,REG (Non-Conf),W 70-60,*,28,4,8,0.5,0,0,4,8,0.5,0.5,0,1,0.0,1,3,4,2,1,1,0,0,8,8.3,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+2,120,2,2021-11-12,Richmond,N,Utah State,REG (Non-Conf),L 74-85,*,19,1,4,0.25,0,0,1,4,0.25,0.25,1,4,0.25,0,1,1,2,0,1,0,3,3,0.6,N,0,1,nathan-cayo-1,Nathan Cayo,2022
+3,121,3,2021-11-16,Richmond,,Georgia State,REG (Non-Conf),W 94-78,*,20,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,7,8,6,0,0,4,3,2,2.8,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+4,122,4,2021-11-20,Richmond,@,Drake,REG (Non-Conf),L 70-73,*,23,0,5,0.0,0,0,0,5,0.0,0.0,4,6,0.667,3,1,4,0,0,1,1,3,4,0.6,A,0,1,nathan-cayo-1,Nathan Cayo,2022
+5,123,5,2021-11-22,Richmond,,Hofstra,REG (Non-Conf),W 81-68,*,30,9,11,0.818,0,0,9,11,0.818,0.818,0,2,0.0,0,5,5,5,0,2,3,1,18,16.1,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+6,124,6,2021-11-25,Richmond,N,Maryland,REG (Non-Conf),L 80-86,*,22,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,4,4,8,1,0,0,2,4,8,4.4,N,0,1,nathan-cayo-1,Nathan Cayo,2022
+7,125,7,2021-11-27,Richmond,N,Mississippi State,REG (Non-Conf),L 71-82 (OT),*,33,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,2,2,4,2,0,0,1,2,5,4.2,N,0,1,nathan-cayo-1,Nathan Cayo,2022
+8,126,8,2021-12-01,Richmond,@,Wofford,REG (Non-Conf),W 73-64,*,33,3,4,0.75,0,0,3,4,0.75,0.75,3,5,0.6,0,4,4,3,0,0,0,3,9,8.7,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+9,127,9,2021-12-05,Richmond,@,Northern Iowa,REG (Non-Conf),W 60-52,*,26,3,8,0.375,0,0,3,8,0.375,0.375,1,2,0.5,3,3,6,3,1,0,1,3,7,6.1,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+10,128,10,2021-12-11,Richmond,,Toledo,REG (Non-Conf),W 72-69,*,28,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,1,1,2,0,0,0,0,2,6,3.5,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+11,129,11,2021-12-17,Richmond,N,NC State,REG (Non-Conf),W 83-74,*,30,7,12,0.583,0,0,7,12,0.583,0.583,0,0,,2,2,4,4,1,1,0,5,14,12.9,N,1,1,nathan-cayo-1,Nathan Cayo,2022
+12,130,12,2021-12-19,Richmond,,Old Dominion,REG (Non-Conf),W 67-61,*,26,2,2,1.0,0,0,2,2,1.0,1.0,7,10,0.7,1,5,6,1,0,0,1,0,11,11.1,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+13,131,13,2021-12-22,Richmond,,Bucknell,REG (Non-Conf),W 81-50,*,15,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,0,1,1,0,2,0,3,0,9,4.6,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+14,132,14,2021-12-30,Richmond,,Saint Joseph's,REG (Conf),L 56-83,*,20,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,0,2,1,0,1,0,1,4,3.7,H,0,1,nathan-cayo-1,Nathan Cayo,2022
+15,133,15,2022-01-02,Richmond,@,Saint Louis,REG (Conf),L 69-76,*,32,3,9,0.333,0,0,3,9,0.333,0.333,0,0,,5,6,11,4,1,0,0,1,6,9.6,A,0,1,nathan-cayo-1,Nathan Cayo,2022
+16,134,16,2022-01-05,Richmond,,Massachusetts,REG (Conf),W 80-72,*,27,7,9,0.778,0,0,7,9,0.778,0.778,0,2,0.0,1,1,2,1,1,0,2,2,14,9.6,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+17,135,17,2022-01-14,Richmond,,Davidson,REG (Conf),L 84-87,*,23,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,3,1,4,0,1,0,0,2,8,8.7,H,0,1,nathan-cayo-1,Nathan Cayo,2022
+18,136,18,2022-01-18,Richmond,@,Fordham,REG (Conf),W 83-70,*,22,6,9,0.667,0,0,6,9,0.667,0.667,1,5,0.2,4,2,6,2,2,1,0,1,13,14.6,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+19,137,19,2022-01-22,Richmond,@,La Salle,REG (Conf),W 64-56,*,30,9,11,0.818,0,0,9,11,0.818,0.818,0,1,0.0,1,3,4,1,1,0,0,2,18,16.0,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+20,138,20,2022-01-25,Richmond,@,Rhode Island,REG (Conf),W 70-63,*,24,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,0,4,4,2,0,0,1,3,5,0.9,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+21,139,21,2022-01-29,Richmond,,VCU,REG (Conf),L 62-64,*,21,4,5,0.8,0,0,4,5,0.8,0.8,1,3,0.333,3,1,4,0,0,0,3,3,9,4.5,H,0,1,nathan-cayo-1,Nathan Cayo,2022
+22,140,22,2022-02-01,Richmond,@,Duquesne,REG (Conf),W 74-57,*,26,5,8,0.625,0,0,5,8,0.625,0.625,0,1,0.0,2,0,2,1,0,0,0,2,10,7.3,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+23,141,23,2022-02-04,Richmond,,St. Bonaventure,REG (Conf),W 71-61,*,33,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,0,3,3,3,1,0,0,1,6,5.9,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+24,142,24,2022-02-07,Richmond,,George Mason,REG (Conf),W 62-59,*,18,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,4,5,1,1,1,0,4,2,3.0,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+25,143,25,2022-02-09,Richmond,@,George Mason,REG (Conf),L 84-87 (OT),*,29,3,5,0.6,0,0,3,5,0.6,0.6,4,8,0.5,3,3,6,1,0,0,3,4,10,5.2,A,0,1,nathan-cayo-1,Nathan Cayo,2022
+26,144,26,2022-02-12,Richmond,,La Salle,REG (Conf),W 77-63,*,19,4,6,0.667,0,0,4,6,0.667,0.667,4,6,0.667,0,1,1,1,1,0,0,4,12,9.0,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+27,145,27,2022-02-18,Richmond,@,VCU,REG (Conf),L 57-77,*,25,3,8,0.375,0,0,3,8,0.375,0.375,3,4,0.75,2,3,5,2,1,0,2,4,9,5.3,A,0,1,nathan-cayo-1,Nathan Cayo,2022
+28,146,28,2022-02-22,Richmond,@,George Washington,REG (Conf),W 84-71,*,34,9,11,0.818,0,0,9,11,0.818,0.818,1,4,0.25,1,7,8,3,0,1,4,4,19,13.7,A,1,1,nathan-cayo-1,Nathan Cayo,2022
+29,147,29,2022-02-25,Richmond,,Saint Louis,REG (Conf),W 68-66,*,25,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,1,2,3,1,0,1,3,4,5,-1.4,H,1,1,nathan-cayo-1,Nathan Cayo,2022
+30,148,30,2022-03-01,Richmond,,Dayton,REG (Conf),L 53-55,*,27,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,1,1,2,0,1,0,1,4,9,4.0,H,0,1,nathan-cayo-1,Nathan Cayo,2022
+31,149,31,2022-03-04,Richmond,@,St. Bonaventure,REG (Conf),L 65-72,*,32,5,10,0.5,0,0,5,10,0.5,0.5,1,2,0.5,2,5,7,4,2,0,2,1,11,10.9,A,0,1,nathan-cayo-1,Nathan Cayo,2022
+32,150,32,2022-03-10,Richmond,N,Rhode Island,CTOURN,W 64-59,*,34,4,6,0.667,0,0,4,6,0.667,0.667,1,6,0.167,1,5,6,3,0,1,2,2,9,6.6,N,1,0,nathan-cayo-1,Nathan Cayo,2022
+33,151,33,2022-03-11,Richmond,N,VCU,CTOURN,W 75-64,*,33,3,7,0.429,0,0,3,7,0.429,0.429,5,6,0.833,2,1,3,1,1,1,2,3,11,7.8,N,1,0,nathan-cayo-1,Nathan Cayo,2022
+34,152,34,2022-03-12,Richmond,N,Dayton,CTOURN,W 68-64,*,22,1,7,0.143,0,0,1,7,0.143,0.143,0,0,,1,1,2,1,0,0,0,3,2,-2.0,N,1,0,nathan-cayo-1,Nathan Cayo,2022
+35,153,35,2022-03-13,Richmond,N,Davidson,CTOURN,W 64-62,*,33,3,6,0.5,0,0,3,6,0.5,0.5,3,4,0.75,0,7,7,3,0,0,1,3,9,7.6,N,1,0,nathan-cayo-1,Nathan Cayo,2022
+36,154,36,2022-03-17,Richmond,N,Iowa,ROUND-64,W 67-63,*,31,7,11,0.636,0,0,7,11,0.636,0.636,1,2,0.5,1,1,2,1,0,1,0,4,15,10.5,N,1,0,nathan-cayo-1,Nathan Cayo,2022
+37,155,37,2022-03-19,Richmond,N,Providence,ROUND-32,L 51-79,*,32,9,11,0.818,0,0,9,11,0.818,0.818,0,4,0.0,2,3,5,1,0,1,2,4,18,12.4,N,0,0,nathan-cayo-1,Nathan Cayo,2022

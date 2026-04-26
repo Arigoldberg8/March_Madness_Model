@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,59,1,2024-11-04,Vanderbilt,,Maryland Eastern Shore,REG (Non-Conf),W 102-63,*,22,4,8,0.5,3,7,0.429,1,1,1.0,0.688,3,4,0.75,0,1,1,1,1,1,0,0,14,12.3,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+2,60,2,2024-11-10,Vanderbilt,,Southeast Missouri State,REG (Non-Conf),W 85-76,*,25,3,10,0.3,2,7,0.286,1,3,0.333,0.4,3,3,1.0,2,6,8,0,0,0,0,2,11,7.6,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+3,61,3,2024-11-13,Vanderbilt,,California,REG (Non-Conf),W 85-69,*,24,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,1,1,2,1,1,1,0,0,8,8.0,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+4,62,4,2024-11-16,Vanderbilt,,Jackson State,REG (Non-Conf),W 94-81,*,23,5,10,0.5,4,8,0.5,1,2,0.5,0.7,1,2,0.5,1,3,4,2,0,1,0,0,15,13.3,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+5,63,5,2024-11-21,Vanderbilt,N,Nevada,REG (Non-Conf),W 73-71,*,20,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,2,1.0,1,1,2,0,0,0,1,1,4,-0.2,N,1,1,tyler-nickel-1,Tyler Nickel,2025
+6,64,6,2024-11-22,Vanderbilt,N,Seton Hall,REG (Non-Conf),W 76-60,*,26,8,16,0.5,6,13,0.462,2,3,0.667,0.688,2,2,1.0,0,4,4,0,1,1,0,0,24,18.9,N,1,1,tyler-nickel-1,Tyler Nickel,2025
+7,65,7,2024-11-24,Vanderbilt,N,Drake,REG (Non-Conf),L 70-81,*,22,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,0,1,1,1,1,2,0,0,-1.0,N,0,1,tyler-nickel-1,Tyler Nickel,2025
+8,66,8,2024-11-29,Vanderbilt,,Tennessee Tech,REG (Non-Conf),W 87-56,*,21,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,1,0,1,2,0,0,2,2,6,3.3,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+9,67,9,2024-12-04,Vanderbilt,@,Virginia Tech,REG (Non-Conf),W 80-64,*,26,2,7,0.286,0,4,0.0,2,3,0.667,0.286,2,3,0.667,0,0,0,2,0,1,0,0,6,3.6,A,1,1,tyler-nickel-1,Tyler Nickel,2025
+10,68,10,2024-12-08,Vanderbilt,N,TCU,REG (Non-Conf),W 83-74,*,19,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,2,2,0,2,0,0,3,9,7.4,N,1,1,tyler-nickel-1,Tyler Nickel,2025
+11,69,11,2024-12-18,Vanderbilt,,The Citadel,REG (Non-Conf),W 105-53,*,22,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,2,0,2,0,0,0,0,1,11,8.0,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+12,70,12,2024-12-21,Vanderbilt,,Austin Peay,REG (Non-Conf),W 85-55,*,18,3,8,0.375,1,5,0.2,2,3,0.667,0.438,5,5,1.0,0,0,0,1,1,0,1,1,12,7.9,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+13,71,13,2024-12-30,Vanderbilt,,New Orleans,REG (Non-Conf),W 100-56,*,26,7,14,0.5,5,10,0.5,2,4,0.5,0.679,0,0,,1,3,4,2,1,0,0,1,19,15.6,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+14,72,14,2025-01-04,Vanderbilt,@,Louisiana State,REG (Conf),W 80-72,*,23,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,1,1,2,1,1,1,0,2,11,9.6,A,1,1,tyler-nickel-1,Tyler Nickel,2025
+15,73,15,2025-01-07,Vanderbilt,,Mississippi State,REG (Conf),L 64-76,*,26,2,8,0.25,2,8,0.25,0,0,,0.375,4,4,1.0,0,3,3,1,0,1,0,1,10,7.1,H,0,1,tyler-nickel-1,Tyler Nickel,2025
+16,74,16,2025-01-11,Vanderbilt,@,Missouri,REG (Conf),L 66-75,*,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,1,2,3,1.5,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+17,75,17,2025-01-15,Vanderbilt,,South Carolina,REG (Conf),W 66-63,*,26,2,8,0.25,0,4,0.0,2,4,0.5,0.25,2,2,1.0,1,0,1,2,0,1,1,1,6,2.6,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+18,76,18,2025-01-18,Vanderbilt,,Tennessee,REG (Conf),W 76-75,*,23,4,8,0.5,4,7,0.571,0,1,0.0,0.75,1,1,1.0,0,0,0,1,0,0,0,1,13,9.3,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+19,77,19,2025-01-21,Vanderbilt,@,Alabama,REG (Conf),L 87-103,*,28,6,12,0.5,5,9,0.556,1,3,0.333,0.708,2,3,0.667,0,4,4,2,1,1,1,3,19,14.7,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+20,78,20,2025-01-25,Vanderbilt,,Kentucky,REG (Conf),W 74-69,*,28,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,1,3,4,1,1,0,1,0,11,10.0,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+21,79,21,2025-02-01,Vanderbilt,@,Oklahoma,REG (Conf),L 67-97,*,23,1,8,0.125,0,4,0.0,1,4,0.25,0.125,0,0,,0,0,0,0,0,1,1,2,2,-4.3,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+22,80,22,2025-02-04,Vanderbilt,@,Florida,REG (Conf),L 75-86,*,23,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,4,5,1,0,0,1,1,5,3.5,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+23,81,23,2025-02-08,Vanderbilt,,Texas,REG (Conf),W 86-78,*,28,5,9,0.556,4,7,0.571,1,2,0.5,0.778,3,5,0.6,1,3,4,0,0,0,0,1,17,13.1,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+24,82,24,2025-02-11,Vanderbilt,,Auburn,REG (Conf),L 68-80,*,17,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,0,0,0,0,0,0,0,5,1.2,H,0,1,tyler-nickel-1,Tyler Nickel,2025
+25,83,25,2025-02-15,Vanderbilt,@,Tennessee,REG (Conf),L 76-81,*,31,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,3,3,0,0,1,0,1,9,7.2,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+26,84,26,2025-02-19,Vanderbilt,@,Kentucky,REG (Conf),L 61-82,*,22,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,0,,2,1,3,2,0,1,0,1,3,1.2,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+27,85,27,2025-02-22,Vanderbilt,,Ole Miss,REG (Conf),W 77-72,*,26,4,7,0.571,3,6,0.5,1,1,1.0,0.786,2,2,1.0,1,2,3,2,0,1,0,2,13,12.3,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+28,86,28,2025-02-26,Vanderbilt,@,Texas A&M,REG (Conf),W 86-84,*,31,7,13,0.538,7,10,0.7,0,3,0.0,0.808,0,0,,0,1,1,1,1,1,0,1,21,17.0,A,1,1,tyler-nickel-1,Tyler Nickel,2025
+29,87,29,2025-03-01,Vanderbilt,,Missouri,REG (Conf),W 97-93 (OT),*,33,3,7,0.429,3,6,0.5,0,1,0.0,0.643,3,4,0.75,1,0,1,1,1,0,0,1,12,9.9,H,1,1,tyler-nickel-1,Tyler Nickel,2025
+30,88,30,2025-03-04,Vanderbilt,,Arkansas,REG (Conf),L 77-90,*,30,5,8,0.625,4,7,0.571,1,1,1.0,0.875,2,2,1.0,1,2,3,0,2,0,1,2,16,13.9,H,0,1,tyler-nickel-1,Tyler Nickel,2025
+31,89,31,2025-03-08,Vanderbilt,@,Georgia,REG (Conf),L 68-79,*,32,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,2,3,1,1,1,0,2,6,6.2,A,0,1,tyler-nickel-1,Tyler Nickel,2025
+32,90,32,2025-03-12,Vanderbilt,N,Texas,CTOURN,L 72-79,*,32,5,13,0.385,1,7,0.143,4,6,0.667,0.423,3,3,1.0,1,2,3,1,1,1,1,2,14,8.8,N,0,0,tyler-nickel-1,Tyler Nickel,2025
+33,91,33,2025-03-21,Vanderbilt,N,St. Mary's (CA),ROUND-64,L 56-59,*,34,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,2,2,1,0,0,0,2,9,5.1,N,0,0,tyler-nickel-1,Tyler Nickel,2025

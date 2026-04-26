@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2012-11-11,Florida,,Alabama State,REG (Non-Conf),W 84-35,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,6,7,5,2,0,3,1,3,5.5,H,1,1,will-yeguete-1,Will Yeguete,2013
+2,59,2,2012-11-14,Florida,,Wisconsin,REG (Non-Conf),W 74-56,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,5,8,0.625,3,5,8,0,0,0,4,2,9,4.6,H,1,1,will-yeguete-1,Will Yeguete,2013
+3,60,3,2012-11-18,Florida,N,Middle Tennessee,REG (Non-Conf),W 66-45,*,33,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,6,0.333,5,8,13,1,1,0,0,3,11,13.2,N,1,1,will-yeguete-1,Will Yeguete,2013
+4,61,4,2012-11-20,Florida,,Savannah State,REG (Non-Conf),W 58-40,*,28,2,2,1.0,0,0,,2,2,1.0,1.0,3,5,0.6,2,4,6,0,2,0,5,4,7,3.6,H,1,1,will-yeguete-1,Will Yeguete,2013
+5,62,5,2012-11-23,Florida,,UCF,REG (Non-Conf),W 79-66,*,24,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,4,5,4,1,1,1,2,4,6.2,H,1,1,will-yeguete-1,Will Yeguete,2013
+6,63,6,2012-11-29,Florida,,Marquette,REG (Non-Conf),W 82-49,*,25,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,2,0.5,3,4,7,0,1,1,0,2,11,12.6,H,1,1,will-yeguete-1,Will Yeguete,2013
+7,64,7,2012-12-05,Florida,@,Florida State,REG (Non-Conf),W 72-47,*,27,1,3,0.333,0,0,,1,3,0.333,0.333,4,5,0.8,2,4,6,2,2,1,2,2,6,7.8,A,1,1,will-yeguete-1,Will Yeguete,2013
+8,65,8,2012-12-15,Florida,@,Arizona,REG (Non-Conf),L 64-65,*,28,3,8,0.375,0,0,,3,8,0.375,0.375,0,1,0.0,3,2,5,2,2,0,0,1,6,6.9,A,0,1,will-yeguete-1,Will Yeguete,2013
+9,66,9,2012-12-19,Florida,,Southeastern Louisiana,REG (Non-Conf),W 82-43,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,6,6,1.0,0,4,4,0,0,0,1,0,8,7.2,H,1,1,will-yeguete-1,Will Yeguete,2013
+10,67,10,2012-12-22,Florida,N,Kansas State,REG (Non-Conf),L 61-67,,14,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,1,1,2,0,0,0,3,2,2,-2.9,N,0,1,will-yeguete-1,Will Yeguete,2013
+11,68,11,2012-12-29,Florida,N,Air Force,REG (Non-Conf),W 78-61,,17,0,2,0.0,0,0,,0,2,0.0,0.0,0,2,0.0,2,4,6,0,1,1,3,2,0,-1.7,N,1,1,will-yeguete-1,Will Yeguete,2013
+12,69,12,2013-01-06,Florida,@,Yale,REG (Non-Conf),W 79-58,*,27,6,8,0.75,0,0,,6,8,0.75,0.75,2,3,0.667,1,8,9,1,1,0,0,3,14,14.0,A,1,1,will-yeguete-1,Will Yeguete,2013
+13,70,13,2013-01-09,Florida,,Georgia,REG (Conf),W 77-44,,14,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,1,1,2,2,0,-0.4,H,1,1,will-yeguete-1,Will Yeguete,2013
+14,71,14,2013-01-12,Florida,@,Louisiana State,REG (Conf),W 74-52,,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,3,0.667,6,7,13,0,0,0,2,1,10,10.9,A,1,1,will-yeguete-1,Will Yeguete,2013
+15,72,15,2013-01-17,Florida,@,Texas A&M,REG (Conf),W 68-47,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,1,0,0,1,2,2,1.9,A,1,1,will-yeguete-1,Will Yeguete,2013
+16,73,16,2013-01-19,Florida,,Missouri,REG (Conf),W 83-52,,22,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,2,4,6,0,2,1,1,3,13,13.6,H,1,1,will-yeguete-1,Will Yeguete,2013
+17,74,17,2013-01-23,Florida,@,Georgia,REG (Conf),W 64-47,,23,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,3,8,11,1,4,0,1,2,7,11.0,A,1,1,will-yeguete-1,Will Yeguete,2013
+18,75,18,2013-01-26,Florida,@,Mississippi State,REG (Conf),W 82-47,,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,2,6,8,4,2,0,2,2,4,7.5,A,1,1,will-yeguete-1,Will Yeguete,2013
+19,76,19,2013-01-30,Florida,,South Carolina,REG (Conf),W 75-36,,22,1,2,0.5,0,0,,1,2,0.5,0.5,1,4,0.25,3,4,7,2,2,1,2,1,3,5.8,H,1,1,will-yeguete-1,Will Yeguete,2013
+20,77,20,2013-02-02,Florida,,Ole Miss,REG (Conf),W 78-64,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,4,6,1,0,0,1,3,4,3.8,H,1,1,will-yeguete-1,Will Yeguete,2013
+21,78,21,2013-02-05,Florida,@,Arkansas,REG (Conf),L 69-80,,1,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,A,0,1,will-yeguete-1,Will Yeguete,2013
+22,79,28,2013-03-02,Florida,,Alabama,REG (Conf),W 64-52,,11,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.7,H,1,1,will-yeguete-1,Will Yeguete,2013
+23,80,29,2013-03-06,Florida,,Vanderbilt,REG (Conf),W 66-40,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,2,4,1,0,0,2,1,4,2.3,H,1,1,will-yeguete-1,Will Yeguete,2013
+24,81,30,2013-03-09,Florida,@,Kentucky,REG (Conf),L 57-61,,19,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,1,5,6,2,1,0,0,1,4,6.4,A,0,1,will-yeguete-1,Will Yeguete,2013
+25,82,31,2013-03-15,Florida,N,Louisiana State,CTOURN,W 80-58,,21,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,4,4,1,0,0,1,1,3,2.1,N,1,0,will-yeguete-1,Will Yeguete,2013
+26,83,32,2013-03-16,Florida,N,Alabama,CTOURN,W 61-51,,19,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,4,2,6,0,0,0,0,3,6,4.8,N,1,0,will-yeguete-1,Will Yeguete,2013
+27,84,33,2013-03-17,Florida,N,Ole Miss,CTOURN,L 63-66,,18,0,3,0.0,0,0,,0,3,0.0,0.0,3,4,0.75,2,1,3,0,3,0,0,1,3,4.8,N,0,0,will-yeguete-1,Will Yeguete,2013
+28,85,34,2013-03-22,Florida,N,Northwestern State,ROUND-64,W 79-47,,20,1,6,0.167,0,0,,1,6,0.167,0.167,1,2,0.5,2,6,8,0,1,0,0,4,3,1.4,N,1,0,will-yeguete-1,Will Yeguete,2013
+29,86,35,2013-03-24,Florida,N,Minnesota,ROUND-32,W 78-64,,25,1,1,1.0,0,0,,1,1,1.0,1.0,5,9,0.556,1,4,5,2,2,0,3,3,7,6.2,N,1,0,will-yeguete-1,Will Yeguete,2013
+30,87,36,2013-03-29,Florida,N,Florida Gulf Coast,ROUND-16,W 62-50,,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,1,3,4,1,4,2,0,3,2,6.0,N,1,0,will-yeguete-1,Will Yeguete,2013
+31,88,37,2013-03-31,Florida,N,Michigan,ROUND-8,L 59-79,,23,5,5,1.0,0,0,,5,5,1.0,1.0,3,5,0.6,2,5,7,0,1,0,0,1,13,14.2,N,0,0,will-yeguete-1,Will Yeguete,2013

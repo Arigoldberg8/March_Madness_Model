@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2011-11-11,Xavier,,Morgan State,REG (Non-Conf),W 74-63,,19,0,3,0.0,0,0,0,3,0.0,0.0,2,4,0.5,2,2,4,2,0,3,2,3,2,1.4,H,1,1,travis-taylor-1,Travis Taylor,2012
+2,57,2,2011-11-15,Xavier,,IPFW,REG (Non-Conf),W 86-63,*,23,1,2,0.5,0,0,1,2,0.5,0.5,0,4,0.0,0,5,5,0,1,0,1,2,2,0.1,H,1,1,travis-taylor-1,Travis Taylor,2012
+3,58,3,2011-11-18,Xavier,,Miami (OH),REG (Non-Conf),W 66-60,,22,3,7,0.429,0,0,3,7,0.429,0.429,3,5,0.6,3,3,6,0,2,0,1,1,9,8.1,H,1,1,travis-taylor-1,Travis Taylor,2012
+4,59,4,2011-11-25,Xavier,,Georgia,REG (Non-Conf),W 70-56,,19,4,8,0.5,0,0,4,8,0.5,0.5,2,2,1.0,4,8,12,0,0,0,1,0,10,10.2,H,1,1,travis-taylor-1,Travis Taylor,2012
+5,60,5,2011-11-28,Xavier,@,Vanderbilt,REG (Non-Conf),W 82-70 (OT),,25,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,5,2,7,0,0,1,0,2,11,11.3,A,1,1,travis-taylor-1,Travis Taylor,2012
+6,61,6,2011-12-03,Xavier,,Purdue,REG (Non-Conf),W 66-63,,24,0,2,0.0,0,0,0,2,0.0,0.0,3,6,0.5,1,5,6,1,0,0,3,1,3,-0.1,H,1,1,travis-taylor-1,Travis Taylor,2012
+7,62,7,2011-12-07,Xavier,@,Butler,REG (Non-Conf),W 73-61,,27,3,7,0.429,0,0,3,7,0.429,0.429,3,4,0.75,2,6,8,0,0,0,1,2,9,6.3,A,1,1,travis-taylor-1,Travis Taylor,2012
+8,63,8,2011-12-10,Xavier,,Cincinnati,REG (Non-Conf),W 76-53,,13,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,1,1,2,0,0,1,1,4,1,-2.4,H,1,1,travis-taylor-1,Travis Taylor,2012
+9,64,9,2011-12-18,Xavier,,Oral Roberts,REG (Non-Conf),L 42-64,*,24,5,13,0.385,0,0,5,13,0.385,0.385,1,1,1.0,3,6,9,0,0,1,5,1,11,3.1,H,0,1,travis-taylor-1,Travis Taylor,2012
+10,65,10,2011-12-22,Xavier,N,Long Beach State,REG (Non-Conf),L 58-68,,23,1,5,0.2,0,0,1,5,0.2,0.2,3,4,0.75,2,4,6,0,0,0,2,2,5,1.3,N,0,1,travis-taylor-1,Travis Taylor,2012
+11,66,11,2011-12-24,Xavier,N,Hawaii,REG (Non-Conf),L 82-84 (OT),,19,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,5,2,7,0,1,0,1,3,8,7.1,N,0,1,travis-taylor-1,Travis Taylor,2012
+12,67,12,2011-12-25,Xavier,N,Southern Illinois,REG (Non-Conf),W 87-77,,23,4,7,0.571,0,0,4,7,0.571,0.571,5,8,0.625,1,2,3,1,0,1,2,3,13,8.0,N,1,1,travis-taylor-1,Travis Taylor,2012
+13,68,13,2011-12-31,Xavier,,Gonzaga,REG (Non-Conf),L 65-72,,18,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,2,3,1,0,0,1,3,6,5.2,H,0,1,travis-taylor-1,Travis Taylor,2012
+14,69,14,2012-01-04,Xavier,@,La Salle,REG (Conf),L 70-80,,7,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,0,0,1,0,1,2,1.2,A,0,1,travis-taylor-1,Travis Taylor,2012
+15,70,15,2012-01-07,Xavier,@,Fordham,REG (Conf),W 67-59,,15,2,4,0.5,0,0,2,4,0.5,0.5,2,6,0.333,2,3,5,0,0,1,0,0,6,5.4,A,1,1,travis-taylor-1,Travis Taylor,2012
+16,71,16,2012-01-11,Xavier,,Duquesne,REG (Conf),W 78-50,,14,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,0,0,1,0,1,4,4.7,H,1,1,travis-taylor-1,Travis Taylor,2012
+17,72,17,2012-01-14,Xavier,,St. Bonaventure,REG (Conf),W 77-64,,13,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,2,3,1,1,0,1,1,6,5.6,H,1,1,travis-taylor-1,Travis Taylor,2012
+18,73,18,2012-01-18,Xavier,,Saint Joseph's,REG (Conf),W 68-55,,9,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,0,0,0,4,3.0,H,1,1,travis-taylor-1,Travis Taylor,2012
+19,74,19,2012-01-21,Xavier,@,Dayton,REG (Conf),L 72-87,,13,1,1,1.0,0,0,1,1,1.0,1.0,1,3,0.333,0,2,2,0,0,0,0,1,3,2.1,A,0,1,travis-taylor-1,Travis Taylor,2012
+20,75,20,2012-01-25,Xavier,,Saint Louis,REG (Conf),L 68-73,,11,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,0,1,travis-taylor-1,Travis Taylor,2012
+21,76,21,2012-01-28,Xavier,@,Charlotte,REG (Conf),W 74-70,,13,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,2,1,3,1,0,0,1,2,8,6.2,A,1,1,travis-taylor-1,Travis Taylor,2012
+22,77,22,2012-02-01,Xavier,@,George Washington,REG (Conf),W 59-58,,17,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,4,5,0,0,1,0,1,2,2.5,A,1,1,travis-taylor-1,Travis Taylor,2012
+23,78,23,2012-02-04,Xavier,@,Memphis,REG (Non-Conf),L 68-72,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,4,0,-4.3,A,0,1,travis-taylor-1,Travis Taylor,2012
+24,79,24,2012-02-08,Xavier,,Rhode Island,REG (Conf),W 84-66,,18,4,6,0.667,0,0,4,6,0.667,0.667,4,5,0.8,1,2,3,2,0,0,2,1,12,9.3,H,1,1,travis-taylor-1,Travis Taylor,2012
+25,80,25,2012-02-11,Xavier,@,Temple,REG (Conf),L 72-85,,21,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,2,5,0,0,1,1,1,4,4.7,A,0,1,travis-taylor-1,Travis Taylor,2012
+26,81,26,2012-02-18,Xavier,,Dayton,REG (Conf),W 86-83 (OT),*,15,1,3,0.333,0,0,1,3,0.333,0.333,3,6,0.5,2,4,6,0,0,1,0,4,5,3.8,H,1,1,travis-taylor-1,Travis Taylor,2012
+27,82,27,2012-02-21,Xavier,@,Massachusetts,REG (Conf),L 73-80,*,12,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,1,4,5,0,0,1,2,3,2,0.7,A,0,1,travis-taylor-1,Travis Taylor,2012
+28,83,28,2012-02-25,Xavier,,Richmond,REG (Conf),W 65-57,,9,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,0,1,0,0,3,4,2.4,H,1,1,travis-taylor-1,Travis Taylor,2012
+29,84,29,2012-02-28,Xavier,@,Saint Louis,REG (Conf),L 59-70,,8,1,4,0.25,0,0,1,4,0.25,0.25,1,1,1.0,1,0,1,0,0,0,0,2,3,0.5,A,0,1,travis-taylor-1,Travis Taylor,2012
+30,85,30,2012-03-03,Xavier,,Charlotte,REG (Conf),W 72-63,,7,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,1,0,1,0,1.0,H,1,1,travis-taylor-1,Travis Taylor,2012
+31,86,31,2012-03-09,Xavier,N,Dayton,CTOURN,W 70-69,,6,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,N,1,0,travis-taylor-1,Travis Taylor,2012
+32,87,32,2012-03-10,Xavier,N,Saint Louis,CTOURN,W 71-64,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,3,5,0,0,0,0,3,2,2.8,N,1,0,travis-taylor-1,Travis Taylor,2012
+33,88,33,2012-03-11,Xavier,N,St. Bonaventure,CTOURN,L 56-67,,12,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,1,0,2,1.0,N,0,0,travis-taylor-1,Travis Taylor,2012
+34,89,34,2012-03-16,Xavier,N,Notre Dame,ROUND-64,W 67-63,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,0,travis-taylor-1,Travis Taylor,2012
+35,90,35,2012-03-18,Xavier,N,Lehigh,ROUND-32,W 70-58,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,N,1,0,travis-taylor-1,Travis Taylor,2012
+36,91,36,2012-03-23,Xavier,N,Baylor,ROUND-16,L 70-75,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,travis-taylor-1,Travis Taylor,2012

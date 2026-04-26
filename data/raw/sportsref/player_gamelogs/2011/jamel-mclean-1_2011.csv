@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,2,2010-11-16,Xavier,,IPFW,REG (Non-Conf),W 76-66 (OT),*,29,5,8,0.625,0,0,,5,8,0.625,0.625,1,4,0.25,5,5,10,1,3,3,3,3,11,12.8,H,1,1,jamel-mclean-1,Jamel McLean,2011
+2,102,3,2010-11-19,Xavier,N,Iowa,REG (Non-Conf),W 86-73,*,34,1,2,0.5,0,0,,1,2,0.5,0.5,5,9,0.556,1,10,11,2,0,1,1,3,7,8.0,N,1,1,jamel-mclean-1,Jamel McLean,2011
+3,103,4,2010-11-21,Xavier,N,Seton Hall,REG (Non-Conf),W 57-52,*,34,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,4,0.5,1,11,12,1,2,1,1,0,4,7.9,N,1,1,jamel-mclean-1,Jamel McLean,2011
+4,104,5,2010-11-22,Xavier,N,Old Dominion,REG (Non-Conf),L 58-67,*,27,2,6,0.333,0,0,,2,6,0.333,0.333,5,7,0.714,2,3,5,0,0,0,2,3,9,3.9,N,0,1,jamel-mclean-1,Jamel McLean,2011
+5,105,6,2010-11-27,Xavier,,Wofford,REG (Non-Conf),W 94-90 (3OT),*,40,8,13,0.615,0,0,,8,13,0.615,0.615,6,11,0.545,6,6,12,1,0,2,0,4,22,20.6,H,1,1,jamel-mclean-1,Jamel McLean,2011
+6,106,7,2010-12-01,Xavier,@,Miami (OH),REG (Non-Conf),L 64-75,*,35,5,10,0.5,0,0,,5,10,0.5,0.5,3,3,1.0,5,6,11,0,1,0,3,4,13,9.7,A,0,1,jamel-mclean-1,Jamel McLean,2011
+7,107,8,2010-12-09,Xavier,,Butler,REG (Non-Conf),W 51-49,*,30,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,3,5,8,0,2,2,3,1,7,7.9,H,1,1,jamel-mclean-1,Jamel McLean,2011
+8,108,9,2010-12-18,Xavier,,Wake Forest,REG (Non-Conf),W 83-75,*,24,5,10,0.5,0,0,,5,10,0.5,0.5,1,7,0.143,1,7,8,1,0,0,1,4,11,4.5,H,1,1,jamel-mclean-1,Jamel McLean,2011
+9,109,10,2010-12-22,Xavier,@,Gonzaga,REG (Non-Conf),L 54-64,*,25,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,5,2,7,1,1,0,1,5,6,8.2,A,0,1,jamel-mclean-1,Jamel McLean,2011
+10,110,11,2010-12-28,Xavier,,Albany (NY),REG (Non-Conf),W 88-64,*,32,5,7,0.714,0,0,,5,7,0.714,0.714,5,9,0.556,6,5,11,1,0,0,1,0,15,15.9,H,1,1,jamel-mclean-1,Jamel McLean,2011
+11,111,12,2010-12-31,Xavier,,Florida,REG (Non-Conf),L 67-71,*,34,2,7,0.286,0,0,,2,7,0.286,0.286,2,5,0.4,3,7,10,2,0,1,0,2,6,6.2,H,0,1,jamel-mclean-1,Jamel McLean,2011
+12,112,13,2011-01-06,Xavier,@,Cincinnati,REG (Non-Conf),L 46-66,*,34,6,7,0.857,0,0,,6,7,0.857,0.857,6,9,0.667,4,2,6,0,1,3,0,3,18,19.6,A,0,1,jamel-mclean-1,Jamel McLean,2011
+13,113,14,2011-01-09,Xavier,@,Rhode Island,REG (Conf),W 72-45,*,31,7,12,0.583,0,0,,7,12,0.583,0.583,5,6,0.833,6,6,12,0,0,2,1,1,19,19.0,A,1,1,jamel-mclean-1,Jamel McLean,2011
+14,114,15,2011-01-12,Xavier,,Massachusetts,REG (Conf),W 79-50,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,3,7,10,0,0,1,0,2,10,10.0,H,1,1,jamel-mclean-1,Jamel McLean,2011
+15,115,16,2011-01-15,Xavier,,Dayton,REG (Conf),W 81-76,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,7,8,0.875,3,2,5,1,3,0,0,1,15,17.3,H,1,1,jamel-mclean-1,Jamel McLean,2011
+16,116,17,2011-01-19,Xavier,@,St. Bonaventure,REG (Conf),W 79-65,*,28,4,4,1.0,0,0,,4,4,1.0,1.0,2,4,0.5,4,2,6,1,0,1,2,3,10,9.6,A,1,1,jamel-mclean-1,Jamel McLean,2011
+17,117,18,2011-01-22,Xavier,,Temple,REG (Conf),W 88-77,*,26,6,12,0.5,0,0,,6,12,0.5,0.5,4,5,0.8,3,4,7,2,0,0,3,4,16,9.7,H,1,1,jamel-mclean-1,Jamel McLean,2011
+18,118,19,2011-01-26,Xavier,,George Washington,REG (Conf),W 81-74,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,1,4,2,0,1,0,4,6,6.9,H,1,1,jamel-mclean-1,Jamel McLean,2011
+19,119,20,2011-01-29,Xavier,@,Richmond,REG (Conf),W 85-62,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,6,6,12,2,0,0,1,1,7,9.3,A,1,1,jamel-mclean-1,Jamel McLean,2011
+20,120,21,2011-02-02,Xavier,@,Charlotte,REG (Conf),L 62-66,*,30,8,12,0.667,0,0,,8,12,0.667,0.667,1,3,0.333,5,5,10,0,0,0,0,4,17,14.4,A,0,1,jamel-mclean-1,Jamel McLean,2011
+21,121,22,2011-02-05,Xavier,,Saint Louis,REG (Conf),W 76-68,*,29,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,4,4,8,1,0,1,1,2,11,10.2,H,1,1,jamel-mclean-1,Jamel McLean,2011
+22,122,23,2011-02-08,Xavier,@,Georgia,REG (Non-Conf),W 65-57,*,36,3,10,0.3,0,0,,3,10,0.3,0.3,6,9,0.667,5,5,10,1,1,0,3,3,12,7.5,A,1,1,jamel-mclean-1,Jamel McLean,2011
+23,123,24,2011-02-13,Xavier,N,Duquesne,REG (Conf),W 71-63,*,37,3,5,0.6,0,0,,3,5,0.6,0.6,4,7,0.571,4,5,9,0,1,0,3,3,10,7.6,N,1,1,jamel-mclean-1,Jamel McLean,2011
+24,124,25,2011-02-16,Xavier,@,Saint Joseph's,REG (Conf),W 74-54,*,29,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,2,3,5,1,0,1,1,1,7,5.2,A,1,1,jamel-mclean-1,Jamel McLean,2011
+25,125,26,2011-02-19,Xavier,,Fordham,REG (Conf),W 79-72,*,25,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,0,0,0,1,2,4,0.8,H,1,1,jamel-mclean-1,Jamel McLean,2011
+26,126,27,2011-02-22,Xavier,,La Salle,REG (Conf),W 100-62,*,18,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,3,2,5,1,2,1,2,1,12,12.8,H,1,1,jamel-mclean-1,Jamel McLean,2011
+27,127,28,2011-02-27,Xavier,@,Dayton,REG (Conf),W 66-62,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,1,3,0.333,2,2,4,1,0,0,2,3,11,7.5,A,1,1,jamel-mclean-1,Jamel McLean,2011
+28,128,29,2011-03-02,Xavier,,Charlotte,REG (Conf),W 68-48,*,31,5,9,0.556,0,1,0.0,5,8,0.625,0.556,1,3,0.333,6,7,13,0,0,1,5,2,11,7.1,H,1,1,jamel-mclean-1,Jamel McLean,2011
+29,129,30,2011-03-05,Xavier,@,Saint Louis,REG (Conf),W 66-55,*,33,1,5,0.2,0,1,0.0,1,4,0.25,0.2,5,6,0.833,3,9,12,0,1,3,0,1,7,11.0,A,1,1,jamel-mclean-1,Jamel McLean,2011
+30,130,31,2011-03-11,Xavier,N,Dayton,CTOURN,L 67-68,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,3,5,0.6,4,2,6,0,1,0,4,3,11,6.8,N,0,0,jamel-mclean-1,Jamel McLean,2011
+31,131,32,2011-03-18,Xavier,N,Marquette,ROUND-64,L 55-66,*,23,1,6,0.167,0,0,,1,6,0.167,0.167,2,5,0.4,4,5,9,1,0,0,2,4,4,0.4,N,0,0,jamel-mclean-1,Jamel McLean,2011

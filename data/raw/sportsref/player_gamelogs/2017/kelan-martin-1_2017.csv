@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2016-11-12,Butler,,Northern Colorado,REG (Non-Conf),W 89-52,*,26,6,14,0.429,1,7,0.143,5,7,0.714,0.464,8,8,1.0,1,5,6,1,1,1,3,0,21,15.2,H,1,1,kelan-martin-1,Kelan Martin,2017
+2,69,2,2016-11-16,Butler,,Northwestern,REG (Non-Conf),W 70-68,*,33,6,16,0.375,4,11,0.364,2,5,0.4,0.5,6,6,1.0,2,2,4,0,0,1,2,2,22,13.1,H,1,1,kelan-martin-1,Kelan Martin,2017
+3,70,3,2016-11-19,Butler,,Bucknell,REG (Non-Conf),W 86-60,*,22,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,1,5,6,2,1,1,1,4,13,11.4,H,1,1,kelan-martin-1,Kelan Martin,2017
+4,71,4,2016-11-21,Butler,,Norfolk State,REG (Non-Conf),W 91-55,*,22,4,9,0.444,2,4,0.5,2,5,0.4,0.556,1,2,0.5,1,2,3,2,1,0,2,0,11,7.6,H,1,1,kelan-martin-1,Kelan Martin,2017
+5,72,5,2016-11-24,Butler,N,Vanderbilt,REG (Non-Conf),W 76-66,*,30,3,12,0.25,1,5,0.2,2,7,0.286,0.292,7,10,0.7,0,3,3,2,3,0,2,4,14,7.3,N,1,1,kelan-martin-1,Kelan Martin,2017
+6,73,6,2016-11-25,Butler,N,Arizona,REG (Non-Conf),W 69-65,*,37,7,13,0.538,1,6,0.167,6,7,0.857,0.577,1,2,0.5,0,3,3,1,0,0,6,3,16,3.7,N,1,1,kelan-martin-1,Kelan Martin,2017
+7,74,7,2016-11-28,Butler,@,Utah,REG (Non-Conf),W 68-59,*,32,7,15,0.467,2,5,0.4,5,10,0.5,0.533,2,4,0.5,0,3,3,2,0,0,4,1,18,7.4,A,1,1,kelan-martin-1,Kelan Martin,2017
+8,75,8,2016-12-03,Butler,,Central Arkansas,REG (Non-Conf),W 82-58,*,29,11,22,0.5,5,11,0.455,6,11,0.545,0.614,3,4,0.75,1,5,6,1,1,0,1,3,30,20.3,H,1,1,kelan-martin-1,Kelan Martin,2017
+9,76,9,2016-12-07,Butler,@,Indiana State,REG (Non-Conf),L 71-72,*,27,4,15,0.267,2,5,0.4,2,10,0.2,0.333,2,2,1.0,2,3,5,1,1,0,2,3,12,3.9,A,0,1,kelan-martin-1,Kelan Martin,2017
+10,77,10,2016-12-10,Butler,,Cincinnati,REG (Non-Conf),W 75-65,,31,6,14,0.429,3,7,0.429,3,7,0.429,0.536,5,6,0.833,1,3,4,2,0,0,0,1,20,14.8,H,1,1,kelan-martin-1,Kelan Martin,2017
+11,78,11,2016-12-17,Butler,N,Indiana,REG (Non-Conf),W 83-78,*,35,9,16,0.563,5,9,0.556,4,7,0.571,0.719,5,5,1.0,1,3,4,2,1,0,5,1,28,19.0,N,1,1,kelan-martin-1,Kelan Martin,2017
+12,79,12,2016-12-21,Butler,,Vermont,REG (Non-Conf),W 81-69,*,31,6,11,0.545,3,3,1.0,3,8,0.375,0.682,6,6,1.0,1,7,8,0,1,3,4,4,21,16.0,H,1,1,kelan-martin-1,Kelan Martin,2017
+13,80,13,2016-12-29,Butler,@,St. John's (NY),REG (Conf),L 73-76,*,35,6,16,0.375,1,7,0.143,5,9,0.556,0.406,0,0,,3,6,9,1,1,0,3,4,13,5.2,A,0,1,kelan-martin-1,Kelan Martin,2017
+14,81,14,2017-01-01,Butler,,Providence,REG (Conf),W 78-61,*,35,4,13,0.308,2,4,0.5,2,9,0.222,0.385,5,6,0.833,1,7,8,3,1,0,2,1,15,10.6,H,1,1,kelan-martin-1,Kelan Martin,2017
+15,82,15,2017-01-04,Butler,,Villanova,REG (Conf),W 66-58,*,36,4,10,0.4,2,7,0.286,2,3,0.667,0.5,2,2,1.0,0,6,6,1,0,0,3,2,12,5.3,H,1,1,kelan-martin-1,Kelan Martin,2017
+16,83,16,2017-01-07,Butler,@,Georgetown,REG (Conf),W 85-76 (OT),*,30,3,13,0.231,0,4,0.0,3,9,0.333,0.231,7,9,0.778,0,10,10,2,0,0,1,2,13,6.9,A,1,1,kelan-martin-1,Kelan Martin,2017
+17,84,17,2017-01-11,Butler,@,Creighton,REG (Conf),L 64-75,*,27,3,14,0.214,1,5,0.2,2,9,0.222,0.25,0,0,,0,5,5,0,1,0,1,1,7,-0.5,A,0,1,kelan-martin-1,Kelan Martin,2017
+18,85,18,2017-01-14,Butler,,Xavier,REG (Conf),W 83-78,*,20,4,8,0.5,1,3,0.333,3,5,0.6,0.563,4,4,1.0,1,1,2,1,1,0,2,4,13,8.1,H,1,1,kelan-martin-1,Kelan Martin,2017
+19,86,19,2017-01-16,Butler,,Marquette,REG (Conf),W 88-80,*,32,9,14,0.643,0,3,0.0,9,11,0.818,0.643,4,7,0.571,1,6,7,0,0,1,1,2,22,16.0,H,1,1,kelan-martin-1,Kelan Martin,2017
+20,87,20,2017-01-21,Butler,@,DePaul,REG (Conf),W 70-69 (OT),*,33,3,13,0.231,1,6,0.167,2,7,0.286,0.269,5,6,0.833,1,4,5,0,0,0,1,3,12,3.4,A,1,1,kelan-martin-1,Kelan Martin,2017
+21,88,21,2017-01-25,Butler,@,Seton Hall,REG (Conf),W 61-54,*,35,2,10,0.2,2,5,0.4,0,5,0.0,0.3,4,8,0.5,0,11,11,2,1,1,2,2,10,5.8,A,1,1,kelan-martin-1,Kelan Martin,2017
+22,89,22,2017-01-28,Butler,,Georgetown,REG (Conf),L 81-85,*,32,8,15,0.533,3,6,0.5,5,9,0.556,0.633,3,4,0.75,0,4,4,2,1,0,3,4,22,13.3,H,0,1,kelan-martin-1,Kelan Martin,2017
+23,90,23,2017-01-31,Butler,,Creighton,REG (Conf),L 67-76,*,33,5,12,0.417,1,5,0.2,4,7,0.571,0.458,0,0,,2,6,8,1,0,1,4,1,11,4.8,H,0,1,kelan-martin-1,Kelan Martin,2017
+24,91,24,2017-02-07,Butler,@,Marquette,REG (Conf),W 68-65,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,3,0.333,1,0,1,0,0,0,0,0,1,-1.2,A,1,1,kelan-martin-1,Kelan Martin,2017
+25,92,25,2017-02-11,Butler,@,Providence,REG (Conf),L 65-71,,26,3,11,0.273,0,4,0.0,3,7,0.429,0.273,2,2,1.0,3,2,5,0,1,0,3,0,8,2.2,A,0,1,kelan-martin-1,Kelan Martin,2017
+26,93,26,2017-02-15,Butler,,St. John's (NY),REG (Conf),W 110-86,,25,5,11,0.455,1,2,0.5,4,9,0.444,0.5,8,12,0.667,3,6,9,0,1,0,2,2,19,13.8,H,1,1,kelan-martin-1,Kelan Martin,2017
+27,94,27,2017-02-19,Butler,,DePaul,REG (Conf),W 82-66,,24,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,4,0.5,1,7,8,1,1,1,0,2,14,13.3,H,1,1,kelan-martin-1,Kelan Martin,2017
+28,95,28,2017-02-22,Butler,@,Villanova,REG (Conf),W 74-66,,28,7,11,0.636,3,6,0.5,4,5,0.8,0.773,5,6,0.833,0,8,8,2,0,0,2,3,22,17.3,A,1,1,kelan-martin-1,Kelan Martin,2017
+29,96,29,2017-02-26,Butler,@,Xavier,REG (Conf),W 88-79,,29,9,15,0.6,3,6,0.5,6,9,0.667,0.7,4,5,0.8,2,5,7,0,0,1,1,3,25,19.1,A,1,1,kelan-martin-1,Kelan Martin,2017
+30,97,30,2017-03-04,Butler,,Seton Hall,REG (Conf),L 64-70,,29,7,15,0.467,3,7,0.429,4,8,0.5,0.567,2,2,1.0,0,6,6,1,1,2,0,2,19,15.4,H,0,1,kelan-martin-1,Kelan Martin,2017
+31,98,31,2017-03-09,Butler,N,Xavier,CTOURN,L 57-62,,30,5,13,0.385,2,6,0.333,3,7,0.429,0.462,3,4,0.75,1,2,3,2,2,0,0,4,15,10.6,N,0,0,kelan-martin-1,Kelan Martin,2017
+32,99,32,2017-03-16,Butler,N,Winthrop,ROUND-64,W 76-64,,17,3,8,0.375,1,4,0.25,2,4,0.5,0.438,3,4,0.75,2,6,8,0,0,1,1,2,10,7.3,N,1,0,kelan-martin-1,Kelan Martin,2017
+33,100,33,2017-03-18,Butler,N,Middle Tennessee,ROUND-32,W 74-65,,28,6,9,0.667,3,6,0.5,3,3,1.0,0.833,4,4,1.0,0,6,6,4,1,0,0,2,19,19.9,N,1,0,kelan-martin-1,Kelan Martin,2017
+34,101,34,2017-03-24,Butler,N,North Carolina,ROUND-16,L 80-92,,28,5,12,0.417,2,8,0.25,3,4,0.75,0.5,4,4,1.0,1,4,5,1,0,0,2,2,16,9.4,N,0,0,kelan-martin-1,Kelan Martin,2017

@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,3,1,2014-11-14,Georgia State,,Tennessee Temple,REG (Non-Conf),W 115-55,,7,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,0,0,0,2,0,0,0,1,5,5.0,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+2,4,2,2014-11-17,Georgia State,@,Iowa State,REG (Non-Conf),L 58-81,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,isaiah-dennis-1,Isaiah Dennis,2015
+3,5,3,2014-11-21,Georgia State,@,Colorado State,REG (Non-Conf),L 70-80,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,isaiah-dennis-1,Isaiah Dennis,2015
+4,6,4,2014-11-24,Georgia State,N,Chicago State,REG (Non-Conf),W 69-46,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,1,0,1,1,1,0,1,0,0,-0.1,N,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+5,7,5,2014-11-25,Georgia State,N,Western Carolina,REG (Non-Conf),W 85-70,,1,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,0,0,0,0,-0.8,N,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+6,8,8,2014-12-04,Georgia State,,Green Bay,REG (Non-Conf),W 72-48,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+7,9,10,2014-12-21,Georgia State,,Southern Mississippi,REG (Non-Conf),W 68-55,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+8,10,12,2014-12-30,Georgia State,,Louisiana–Monroe,REG (Conf),W 65-45,,1,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+9,11,13,2015-01-03,Georgia State,,Little Rock,REG (Conf),W 82-69,,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,4,0.5,0,1,1,0,0,0,0,0,2,0.8,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+10,12,16,2015-01-10,Georgia State,,Troy,REG (Conf),W 77-72,,18,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,2,0.5,1,1,2,0,0,0,0,1,9,5.9,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+11,13,17,2015-01-15,Georgia State,,UT Arlington,REG (Conf),W 83-62,,9,0,1,0.0,0,0,,0,1,0.0,0.0,1,4,0.25,0,1,1,3,0,0,0,1,1,1.1,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+12,14,18,2015-01-17,Georgia State,@,Appalachian State,REG (Conf),L 69-74,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,0,2,2.7,A,0,1,isaiah-dennis-1,Isaiah Dennis,2015
+13,15,19,2015-01-19,Georgia State,@,Arkansas State,REG (Conf),W 60-54,,14,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,3,1,4,1,0,0,0,3,7,4.8,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+14,16,20,2015-01-24,Georgia State,,Louisiana–Lafayette,REG (Conf),W 75-64,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+15,17,21,2015-01-29,Georgia State,@,UT Arlington,REG (Conf),W 88-74,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,2,2,0.9,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+16,18,22,2015-01-31,Georgia State,,Arkansas State,REG (Conf),W 74-43,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,0,0,1.0,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+17,19,24,2015-02-07,Georgia State,@,South Alabama,REG (Conf),W 65-54,,9,0,0,,0,0,,0,0,,,0,0,,2,1,3,1,0,1,1,2,0,1.3,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+18,20,25,2015-02-14,Georgia State,@,Texas State,REG (Conf),W 53-41,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,4,1,1,0,3,0,3.2,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+19,21,26,2015-02-19,Georgia State,,South Alabama,REG (Conf),W 79-51,,18,2,4,0.5,0,0,,2,4,0.5,0.5,3,3,1.0,1,3,4,1,2,0,1,1,7,7.9,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+20,22,27,2015-02-21,Georgia State,,Appalachian State,REG (Conf),W 87-43,,20,4,5,0.8,0,0,,4,5,0.8,0.8,1,4,0.25,0,1,1,1,2,1,0,2,9,8.8,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+21,23,28,2015-02-26,Georgia State,@,Little Rock,REG (Conf),L 83-92,,8,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,1,0,1,1,2,4,4.3,A,0,1,isaiah-dennis-1,Isaiah Dennis,2015
+22,24,29,2015-02-28,Georgia State,@,Troy,REG (Conf),W 75-64,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,2,0,0,0,0,2,4.1,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+23,25,30,2015-03-05,Georgia State,@,Louisiana–Monroe,REG (Conf),W 58-50,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,0,1,1,0,0,0,2.3,A,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+24,26,31,2015-03-07,Georgia State,,Georgia Southern,REG (Conf),W 72-55,,11,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,0,1,1,1,0,0,2,4,5,1.1,H,1,1,isaiah-dennis-1,Isaiah Dennis,2015
+25,27,32,2015-03-14,Georgia State,N,Louisiana–Lafayette,CTOURN,W 83-79,,18,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,0,1,0,2,0,0,2,10,8.3,N,1,0,isaiah-dennis-1,Isaiah Dennis,2015
+26,28,33,2015-03-15,Georgia State,N,Georgia Southern,CTOURN,W 38-36,,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,N,1,0,isaiah-dennis-1,Isaiah Dennis,2015
+27,29,34,2015-03-19,Georgia State,N,Baylor,ROUND-64,W 57-56,,21,3,7,0.429,0,0,,3,7,0.429,0.429,2,4,0.5,0,0,0,2,3,0,1,2,8,6.1,N,1,0,isaiah-dennis-1,Isaiah Dennis,2015
+28,30,35,2015-03-21,Georgia State,N,Xavier,ROUND-32,L 67-75,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,3,0,2,2,0,0.5,N,0,0,isaiah-dennis-1,Isaiah Dennis,2015

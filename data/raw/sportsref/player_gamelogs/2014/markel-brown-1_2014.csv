@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2013-11-08,Oklahoma State,,Mississippi Valley State,REG (Non-Conf),W 117-62,*,20,5,8,0.625,3,5,0.6,2,3,0.667,0.813,1,2,0.5,0,2,2,4,1,0,2,5,14,10.4,H,1,1,markel-brown-1,Markel Brown,2014
+2,102,2,2013-11-12,Oklahoma State,,Utah Valley,REG (Non-Conf),W 93-40,*,27,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,3,3,6,3,2,1,1,1,10,11.7,H,1,1,markel-brown-1,Markel Brown,2014
+3,103,3,2013-11-15,Oklahoma State,,Arkansas–Pine Bluff,REG (Non-Conf),W 97-63,*,31,9,13,0.692,3,7,0.429,6,6,1.0,0.808,1,2,0.5,0,0,0,4,0,2,1,2,22,18.5,H,1,1,markel-brown-1,Markel Brown,2014
+4,104,4,2013-11-19,Oklahoma State,,Memphis,REG (Non-Conf),W 101-80,*,35,5,12,0.417,2,6,0.333,3,6,0.5,0.5,8,10,0.8,0,0,0,4,1,3,2,3,20,15.5,H,1,1,markel-brown-1,Markel Brown,2014
+5,105,5,2013-11-25,Oklahoma State,@,South Florida,REG (Non-Conf),W 93-67,*,35,9,15,0.6,5,6,0.833,4,9,0.444,0.767,2,2,1.0,3,5,8,7,2,3,0,0,25,30.7,A,1,1,markel-brown-1,Markel Brown,2014
+6,106,6,2013-11-28,Oklahoma State,N,Purdue,REG (Non-Conf),W 97-87,*,37,8,13,0.615,1,2,0.5,7,11,0.636,0.654,8,8,1.0,0,6,6,1,1,1,1,4,25,20.7,N,1,1,markel-brown-1,Markel Brown,2014
+7,107,7,2013-11-29,Oklahoma State,N,Butler,REG (Non-Conf),W 69-67,*,36,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,4,0.75,2,3,5,3,0,0,1,3,9,6.4,N,1,1,markel-brown-1,Markel Brown,2014
+8,108,8,2013-12-01,Oklahoma State,N,Memphis,REG (Non-Conf),L 68-73,*,37,4,13,0.308,0,2,0.0,4,11,0.364,0.308,2,3,0.667,2,5,7,1,0,2,1,4,10,4.5,N,0,1,markel-brown-1,Markel Brown,2014
+9,109,9,2013-12-06,Oklahoma State,,South Carolina,REG (Non-Conf),W 79-52,*,30,3,8,0.375,0,3,0.0,3,5,0.6,0.375,5,6,0.833,2,2,4,2,0,1,1,3,11,8.1,H,1,1,markel-brown-1,Markel Brown,2014
+10,110,10,2013-12-14,Oklahoma State,N,Louisiana Tech,REG (Non-Conf),W 70-55,*,33,5,13,0.385,1,2,0.5,4,11,0.364,0.423,2,4,0.5,0,6,6,4,1,0,1,3,13,8.5,N,1,1,markel-brown-1,Markel Brown,2014
+11,111,11,2013-12-17,Oklahoma State,,Delaware State,REG (Non-Conf),W 75-43,*,24,5,8,0.625,1,3,0.333,4,5,0.8,0.688,3,4,0.75,1,1,2,1,2,1,0,1,14,14.0,H,1,1,markel-brown-1,Markel Brown,2014
+12,112,12,2013-12-21,Oklahoma State,N,Colorado,REG (Non-Conf),W 78-73,*,35,6,10,0.6,0,1,0.0,6,9,0.667,0.6,11,13,0.846,3,8,11,3,1,0,2,2,23,22.4,N,1,1,markel-brown-1,Markel Brown,2014
+13,113,13,2013-12-30,Oklahoma State,,Robert Morris,REG (Non-Conf),W 92-66,*,30,7,14,0.5,0,4,0.0,7,10,0.7,0.5,4,4,1.0,1,2,3,3,0,1,1,1,18,13.7,H,1,1,markel-brown-1,Markel Brown,2014
+14,114,14,2014-01-04,Oklahoma State,@,Kansas State,REG (Conf),L 71-74,*,37,2,8,0.25,0,2,0.0,2,6,0.333,0.25,12,14,0.857,1,8,9,2,0,1,2,1,16,13.2,A,0,1,markel-brown-1,Markel Brown,2014
+15,115,15,2014-01-08,Oklahoma State,,Texas,REG (Conf),W 87-74,*,37,8,13,0.615,0,2,0.0,8,11,0.727,0.615,11,14,0.786,2,3,5,4,0,2,1,2,27,24.6,H,1,1,markel-brown-1,Markel Brown,2014
+16,116,16,2014-01-11,Oklahoma State,@,West Virginia,REG (Conf),W 73-72,*,35,5,12,0.417,1,4,0.25,4,8,0.5,0.458,1,2,0.5,2,5,7,1,2,1,2,3,12,8.3,A,1,1,markel-brown-1,Markel Brown,2014
+17,117,17,2014-01-15,Oklahoma State,,TCU,REG (Conf),W 82-50,*,28,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,4,0.5,0,8,8,3,0,2,2,3,14,11.6,H,1,1,markel-brown-1,Markel Brown,2014
+18,118,18,2014-01-18,Oklahoma State,@,Kansas,REG (Conf),L 78-80,*,28,5,13,0.385,5,9,0.556,0,4,0.0,0.577,0,0,,2,1,3,1,0,0,1,5,15,7.3,A,0,1,markel-brown-1,Markel Brown,2014
+19,119,19,2014-01-25,Oklahoma State,,West Virginia,REG (Conf),W 81-75,*,39,5,13,0.385,1,7,0.143,4,6,0.667,0.423,4,7,0.571,1,9,10,3,0,2,0,2,15,12.8,H,1,1,markel-brown-1,Markel Brown,2014
+20,120,20,2014-01-27,Oklahoma State,@,Oklahoma,REG (Conf),L 76-88,*,39,7,17,0.412,0,5,0.0,7,12,0.583,0.412,4,5,0.8,1,6,7,1,0,1,2,2,18,9.6,A,0,1,markel-brown-1,Markel Brown,2014
+21,121,21,2014-02-01,Oklahoma State,,Baylor,REG (Conf),L 70-76,*,38,9,12,0.75,6,8,0.75,3,4,0.75,1.0,0,2,0.0,1,1,2,1,4,0,2,1,24,21.7,H,0,1,markel-brown-1,Markel Brown,2014
+22,122,22,2014-02-03,Oklahoma State,,Iowa State,REG (Conf),L 97-98 (3OT),*,54,5,14,0.357,2,5,0.4,3,9,0.333,0.429,7,8,0.875,1,9,10,1,0,0,1,2,19,13.1,H,0,1,markel-brown-1,Markel Brown,2014
+23,123,23,2014-02-08,Oklahoma State,@,Texas Tech,REG (Conf),L 61-65,*,37,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,1,1.0,0,6,6,2,0,0,4,2,8,2.0,A,0,1,markel-brown-1,Markel Brown,2014
+24,124,24,2014-02-11,Oklahoma State,@,Texas,REG (Conf),L 68-87,*,39,4,14,0.286,1,6,0.167,3,8,0.375,0.321,9,11,0.818,1,2,3,2,3,0,2,3,18,11.5,A,0,1,markel-brown-1,Markel Brown,2014
+25,125,25,2014-02-15,Oklahoma State,,Oklahoma,REG (Conf),L 74-77,*,37,8,16,0.5,3,6,0.5,5,10,0.5,0.594,7,10,0.7,1,8,9,3,1,2,3,3,26,20.2,H,0,1,markel-brown-1,Markel Brown,2014
+26,126,26,2014-02-17,Oklahoma State,@,Baylor,REG (Conf),L 64-70 (OT),*,45,10,19,0.526,2,6,0.333,8,13,0.615,0.579,4,5,0.8,1,3,4,6,0,1,0,2,26,22.0,A,0,1,markel-brown-1,Markel Brown,2014
+27,127,27,2014-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 84-62,*,37,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,0,6,6,5,1,1,2,1,11,11.3,H,1,1,markel-brown-1,Markel Brown,2014
+28,128,28,2014-02-24,Oklahoma State,@,TCU,REG (Conf),W 76-54,*,31,3,13,0.231,1,5,0.2,2,8,0.25,0.269,0,0,,1,4,5,6,1,0,3,4,7,1.6,A,1,1,markel-brown-1,Markel Brown,2014
+29,129,29,2014-03-01,Oklahoma State,,Kansas,REG (Conf),W 72-65,*,38,4,7,0.571,3,5,0.6,1,2,0.5,0.786,10,10,1.0,0,2,2,4,3,2,2,3,21,22.3,H,1,1,markel-brown-1,Markel Brown,2014
+30,130,30,2014-03-03,Oklahoma State,,Kansas State,REG (Conf),W 77-61,*,36,2,5,0.4,0,2,0.0,2,3,0.667,0.4,11,13,0.846,0,5,5,5,3,2,3,3,15,16.7,H,1,1,markel-brown-1,Markel Brown,2014
+31,131,31,2014-03-08,Oklahoma State,@,Iowa State,REG (Conf),L 81-85 (OT),*,44,8,18,0.444,4,7,0.571,4,11,0.364,0.556,6,10,0.6,2,10,12,4,0,2,5,4,26,17.0,A,0,1,markel-brown-1,Markel Brown,2014
+32,132,32,2014-03-12,Oklahoma State,N,Texas Tech,CTOURN,W 80-62,*,33,5,9,0.556,3,6,0.5,2,3,0.667,0.722,7,12,0.583,1,1,2,1,0,1,1,1,20,14.7,N,1,0,markel-brown-1,Markel Brown,2014
+33,133,33,2014-03-13,Oklahoma State,N,Kansas,CTOURN,L 70-77 (OT),*,43,5,13,0.385,1,4,0.25,4,9,0.444,0.423,1,2,0.5,0,1,1,2,3,0,2,3,12,6.0,N,0,0,markel-brown-1,Markel Brown,2014
+34,134,34,2014-03-21,Oklahoma State,N,Gonzaga,ROUND-64,L 77-85,*,36,9,16,0.563,0,1,0.0,9,15,0.6,0.563,2,2,1.0,1,2,3,2,2,0,1,4,20,14.5,N,0,0,markel-brown-1,Markel Brown,2014

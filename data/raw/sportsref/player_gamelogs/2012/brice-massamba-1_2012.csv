@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2011-11-11,UNLV,,Grand Canyon,REG (Non-Conf),W 83-66,*,19,4,8,0.5,0,0,,4,8,0.5,0.5,2,5,0.4,2,2,4,3,0,0,1,3,10,6.7,H,1,1,brice-massamba-1,Brice Massamba,2012
+2,95,2,2011-11-14,UNLV,,Nevada,REG (Non-Conf),W 71-67,*,12,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,3,1,4,1,0,0,1,5,7,5.1,H,1,1,brice-massamba-1,Brice Massamba,2012
+3,96,3,2011-11-17,UNLV,,Canisius,REG (Non-Conf),W 95-70,*,14,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,0,0,0,0,0,6,5.0,H,1,1,brice-massamba-1,Brice Massamba,2012
+4,97,4,2011-11-20,UNLV,,Morgan State,REG (Non-Conf),W 92-55,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,1,4,0.25,1,0,1,1,0,1,1,2,1,-0.6,H,1,1,brice-massamba-1,Brice Massamba,2012
+5,98,5,2011-11-22,UNLV,,Cal Poly,REG (Non-Conf),W 75-52,*,25,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,1,8,9,2,1,1,1,1,10,13.2,H,1,1,brice-massamba-1,Brice Massamba,2012
+6,99,6,2011-11-25,UNLV,N,Southern California,REG (Non-Conf),W 66-55,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,5,1,6,0,0,1,2,4,4,3.6,N,1,1,brice-massamba-1,Brice Massamba,2012
+7,100,7,2011-11-26,UNLV,N,North Carolina,REG (Non-Conf),W 90-80,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,3,0,3,1,0,1,2,5,2,0.1,N,1,1,brice-massamba-1,Brice Massamba,2012
+8,101,8,2011-11-30,UNLV,@,UC Santa Barbara,REG (Non-Conf),W 94-88 (2OT),*,38,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,4,4,8,1,0,0,3,4,3,1.0,A,1,1,brice-massamba-1,Brice Massamba,2012
+9,102,9,2011-12-04,UNLV,@,Wichita State,REG (Non-Conf),L 70-89,*,18,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,2,0,2,0,0,0,1,4,11,6.1,A,0,1,brice-massamba-1,Brice Massamba,2012
+10,103,10,2011-12-07,UNLV,N,Cal St San Marcos,REG (Non-Conf),W 94-50,*,12,4,4,1.0,0,0,,4,4,1.0,1.0,2,3,0.667,0,1,1,0,2,0,0,2,10,9.9,N,1,1,brice-massamba-1,Brice Massamba,2012
+11,104,11,2011-12-10,UNLV,@,Wisconsin,REG (Non-Conf),L 51-62,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,3,6,0.5,0,3,3,1,0,0,2,2,5,2.3,A,0,1,brice-massamba-1,Brice Massamba,2012
+12,105,12,2011-12-14,UNLV,,UTEP,REG (Non-Conf),W 65-54,*,10,0,3,0.0,0,0,,0,3,0.0,0.0,3,5,0.6,1,1,2,0,1,0,2,1,3,-0.3,H,1,1,brice-massamba-1,Brice Massamba,2012
+13,106,13,2011-12-17,UNLV,N,Illinois,REG (Non-Conf),W 64-48,*,9,3,3,1.0,0,0,,3,3,1.0,1.0,2,3,0.667,0,2,2,0,0,0,0,2,8,6.5,N,1,1,brice-massamba-1,Brice Massamba,2012
+14,107,14,2011-12-19,UNLV,,Louisiana–Monroe,REG (Non-Conf),W 81-63,*,18,0,0,,0,0,,0,0,,,0,1,0.0,0,0,0,0,2,1,0,2,0,1.5,H,1,1,brice-massamba-1,Brice Massamba,2012
+15,108,15,2011-12-23,UNLV,,California,REG (Non-Conf),W 85-68,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,5,0.4,1,4,5,2,1,1,0,3,8,9.0,H,1,1,brice-massamba-1,Brice Massamba,2012
+16,109,16,2011-12-28,UNLV,,Central Arkansas,REG (Non-Conf),W 124-75,*,5,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,0,0,1,0,0,1,0,4,3.4,H,1,1,brice-massamba-1,Brice Massamba,2012
+17,110,17,2011-12-31,UNLV,@,Hawaii,REG (Non-Conf),W 74-69,*,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,2,2,0.9,A,1,1,brice-massamba-1,Brice Massamba,2012
+18,111,19,2012-01-14,UNLV,@,San Diego State,REG (Conf),L 67-69,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,3,3,6,0,0,1,0,3,9,9.2,A,0,1,brice-massamba-1,Brice Massamba,2012
+19,112,20,2012-01-18,UNLV,,TCU,REG (Conf),W 101-78,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,3,5,2,0,1,0,1,3,4.9,H,1,1,brice-massamba-1,Brice Massamba,2012
+20,113,21,2012-01-21,UNLV,,New Mexico,REG (Conf),W 80-63,*,22,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,3,5,2,0,1,2,3,6,6.3,H,1,1,brice-massamba-1,Brice Massamba,2012
+21,114,22,2012-01-25,UNLV,@,Boise State,REG (Conf),W 77-72 (OT),*,27,3,4,0.75,0,0,,3,4,0.75,0.75,1,4,0.25,1,3,4,0,0,0,1,4,7,3.2,A,1,1,brice-massamba-1,Brice Massamba,2012
+22,115,23,2012-01-28,UNLV,@,Air Force,REG (Conf),W 65-63 (OT),*,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,1,0,0,1,5,4,1.4,A,1,1,brice-massamba-1,Brice Massamba,2012
+23,116,24,2012-02-01,UNLV,,Colorado State,REG (Conf),W 82-63,*,23,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,0,6,6,1,1,1,2,3,4,2.9,H,1,1,brice-massamba-1,Brice Massamba,2012
+24,117,25,2012-02-04,UNLV,@,Wyoming,REG (Conf),L 66-68,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,0,0,1,0,0,3,5,6,-0.6,A,0,1,brice-massamba-1,Brice Massamba,2012
+25,118,26,2012-02-11,UNLV,,San Diego State,REG (Conf),W 65-63,*,26,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,3,1,4,1,0,0,2,3,12,9.4,H,1,1,brice-massamba-1,Brice Massamba,2012
+26,119,27,2012-02-14,UNLV,@,TCU,REG (Conf),L 97-102 (OT),*,15,4,7,0.571,0,0,,4,7,0.571,0.571,4,6,0.667,2,1,3,3,0,1,0,4,12,10.8,A,0,1,brice-massamba-1,Brice Massamba,2012
+27,120,28,2012-02-18,UNLV,@,New Mexico,REG (Conf),L 45-65,*,24,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,1,1,2,2,0,0,2,2,7,5.3,A,0,1,brice-massamba-1,Brice Massamba,2012
+28,121,29,2012-02-22,UNLV,,Boise State,REG (Conf),W 75-58,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,4,4,1.0,1,0,1,2,2,0,2,4,14,10.9,H,1,1,brice-massamba-1,Brice Massamba,2012
+29,122,30,2012-02-25,UNLV,,Air Force,REG (Conf),W 68-58,*,24,0,5,0.0,0,0,,0,5,0.0,0.0,2,4,0.5,4,1,5,2,1,0,3,4,2,-1.4,H,1,1,brice-massamba-1,Brice Massamba,2012
+30,123,31,2012-02-29,UNLV,@,Colorado State,REG (Conf),L 59-66,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,1,4,0.25,1,0,1,1,0,0,1,3,5,1.7,A,0,1,brice-massamba-1,Brice Massamba,2012
+31,124,32,2012-03-03,UNLV,,Wyoming,REG (Conf),W 74-63,*,31,6,8,0.75,0,1,0.0,6,7,0.857,0.75,3,4,0.75,1,2,3,2,2,1,3,4,15,12.2,H,1,1,brice-massamba-1,Brice Massamba,2012
+32,125,33,2012-03-08,UNLV,,Wyoming,CTOURN,W 56-48,*,29,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,3,3,6,0,0,2,1,1,8,8.3,H,1,0,brice-massamba-1,Brice Massamba,2012
+33,126,34,2012-03-09,UNLV,N,New Mexico,CTOURN,L 67-72,*,34,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,7,9,0,0,0,1,5,6,2.1,N,0,0,brice-massamba-1,Brice Massamba,2012
+34,127,35,2012-03-15,UNLV,N,Colorado,ROUND-64,L 64-68,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,1,3,0.333,1,2,3,0,0,0,0,2,5,3.4,N,0,0,brice-massamba-1,Brice Massamba,2012

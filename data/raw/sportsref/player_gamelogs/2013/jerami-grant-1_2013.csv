@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-11,Syracuse,N,San Diego State,REG (Non-Conf),W 62-49,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,1,1,jerami-grant-1,Jerami Grant,2013
+2,2,2,2012-11-18,Syracuse,,Wagner,REG (Non-Conf),W 88-57,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,0,4,4,2,0,0,0,1,5,3.7,H,1,1,jerami-grant-1,Jerami Grant,2013
+3,3,3,2012-11-21,Syracuse,,Princeton,REG (Non-Conf),W 73-53,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jerami-grant-1,Jerami Grant,2013
+4,4,4,2012-11-25,Syracuse,,Colgate,REG (Non-Conf),W 87-51,,15,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,0,2,1,0,0,5,7.8,H,1,1,jerami-grant-1,Jerami Grant,2013
+5,5,5,2012-11-30,Syracuse,@,Arkansas,REG (Non-Conf),W 91-82,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jerami-grant-1,Jerami Grant,2013
+6,6,6,2012-12-03,Syracuse,,Eastern Michigan,REG (Non-Conf),W 84-48,,15,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,5,0.4,2,0,2,1,2,2,1,2,11,12.3,H,1,1,jerami-grant-1,Jerami Grant,2013
+7,7,7,2012-12-06,Syracuse,,Long Beach State,REG (Non-Conf),W 84-53,,21,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,1,4,5,1,0,1,1,2,9,7.2,H,1,1,jerami-grant-1,Jerami Grant,2013
+8,8,8,2012-12-08,Syracuse,,Monmouth,REG (Non-Conf),W 108-56,,15,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,4,0.0,1,2,3,0,1,0,2,2,6,1.6,H,1,1,jerami-grant-1,Jerami Grant,2013
+9,9,9,2012-12-15,Syracuse,,Canisius,REG (Non-Conf),W 85-61,,7,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,2,0,2,0,0,0,2,1,3,0.3,H,1,1,jerami-grant-1,Jerami Grant,2013
+10,10,10,2012-12-17,Syracuse,,Detroit Mercy,REG (Non-Conf),W 72-68,,12,1,1,1.0,0,0,,1,1,1.0,1.0,3,5,0.6,1,0,1,0,0,1,1,1,5,3.9,H,1,1,jerami-grant-1,Jerami Grant,2013
+11,11,11,2012-12-22,Syracuse,N,Temple,REG (Non-Conf),L 79-83,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,1,jerami-grant-1,Jerami Grant,2013
+12,12,12,2012-12-29,Syracuse,,Alcorn State,REG (Non-Conf),W 57-36,,16,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,7,0.429,2,2,4,1,1,0,2,1,5,2.3,H,1,1,jerami-grant-1,Jerami Grant,2013
+13,13,13,2012-12-31,Syracuse,,Central Connecticut State,REG (Non-Conf),W 96-62,,20,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,2,4,6,1,0,0,1,1,7,5.9,H,1,1,jerami-grant-1,Jerami Grant,2013
+14,14,14,2013-01-02,Syracuse,,Rutgers,REG (Conf),W 78-53,,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,4,0.25,2,3,5,0,0,1,0,1,3,2.7,H,1,1,jerami-grant-1,Jerami Grant,2013
+15,15,15,2013-01-06,Syracuse,@,South Florida,REG (Conf),W 55-44,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,A,1,1,jerami-grant-1,Jerami Grant,2013
+16,16,16,2013-01-09,Syracuse,@,Providence,REG (Conf),W 72-66,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,jerami-grant-1,Jerami Grant,2013
+17,17,17,2013-01-12,Syracuse,,Villanova,REG (Conf),W 72-61,,29,4,7,0.571,0,0,,4,7,0.571,0.571,5,6,0.833,3,2,5,1,1,2,0,3,13,13.9,H,1,1,jerami-grant-1,Jerami Grant,2013
+18,18,18,2013-01-19,Syracuse,@,Louisville,REG (Conf),W 70-68,,35,4,10,0.4,0,1,0.0,4,9,0.444,0.4,2,2,1.0,3,2,5,1,0,1,1,4,10,6.1,A,1,1,jerami-grant-1,Jerami Grant,2013
+19,19,19,2013-01-21,Syracuse,,Cincinnati,REG (Conf),W 57-55,,28,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,1,6,7,0,0,1,1,2,5,3.3,H,1,1,jerami-grant-1,Jerami Grant,2013
+20,20,20,2013-01-26,Syracuse,@,Villanova,REG (Conf),L 71-75 (OT),,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,5,5,1.0,4,1,5,1,2,0,0,5,12,12.1,A,0,1,jerami-grant-1,Jerami Grant,2013
+21,21,21,2013-02-02,Syracuse,@,Pittsburgh,REG (Conf),L 55-65,*,40,1,8,0.125,0,0,,1,8,0.125,0.125,3,4,0.75,2,3,5,0,2,2,3,3,5,0.9,A,0,1,jerami-grant-1,Jerami Grant,2013
+22,22,22,2013-02-04,Syracuse,,Notre Dame,REG (Conf),W 63-47,*,40,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,0,6,6,2,0,1,1,4,14,12.1,H,1,1,jerami-grant-1,Jerami Grant,2013
+23,23,23,2013-02-10,Syracuse,,St. John's (NY),REG (Conf),W 77-58,*,15,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,1,0,0,1,2,4,0.5,H,1,1,jerami-grant-1,Jerami Grant,2013
+24,24,24,2013-02-13,Syracuse,@,Connecticut,REG (Conf),L 58-66,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,6,3,9,0,2,0,1,1,6,9.6,A,0,1,jerami-grant-1,Jerami Grant,2013
+25,25,25,2013-02-16,Syracuse,@,Seton Hall,REG (Conf),W 76-65,*,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,1,0,1,0,0,0,0,1,0,-1.9,A,1,1,jerami-grant-1,Jerami Grant,2013
+26,26,26,2013-02-20,Syracuse,,Providence,REG (Conf),W 84-59,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,5,5,1,0,0,0,1,3,2.7,H,1,1,jerami-grant-1,Jerami Grant,2013
+27,27,27,2013-02-23,Syracuse,,Georgetown,REG (Conf),L 46-57,*,8,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,1,1,0,1,0,1,2,1,-0.6,H,0,1,jerami-grant-1,Jerami Grant,2013
+28,28,28,2013-02-25,Syracuse,@,Marquette,REG (Conf),L 71-74,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,1,3,2,0.9,A,0,1,jerami-grant-1,Jerami Grant,2013
+29,29,29,2013-03-02,Syracuse,,Louisville,REG (Conf),L 53-58,*,9,0,0,,0,0,,0,0,,,0,2,0.0,0,2,2,1,0,0,0,0,0,0.5,H,0,1,jerami-grant-1,Jerami Grant,2013
+30,30,30,2013-03-06,Syracuse,,DePaul,REG (Conf),W 78-57,,8,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,2,1,3,0,0,1,1,0,1,-0.1,H,1,1,jerami-grant-1,Jerami Grant,2013
+31,31,31,2013-03-09,Syracuse,@,Georgetown,REG (Conf),L 39-61,,13,0,0,,0,0,,0,0,,,2,2,1.0,1,2,3,0,0,1,1,3,2,1.8,A,0,1,jerami-grant-1,Jerami Grant,2013
+32,32,32,2013-03-13,Syracuse,N,Seton Hall,CTOURN,W 75-63,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,N,1,0,jerami-grant-1,Jerami Grant,2013
+33,33,33,2013-03-14,Syracuse,N,Pittsburgh,CTOURN,W 62-59,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,0,0,0,1.3,N,1,0,jerami-grant-1,Jerami Grant,2013
+34,34,34,2013-03-15,Syracuse,N,Georgetown,CTOURN,W 58-55 (OT),,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,0,jerami-grant-1,Jerami Grant,2013
+35,35,35,2013-03-16,Syracuse,N,Louisville,CTOURN,L 61-78,,14,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,1,2,0,-0.8,N,0,0,jerami-grant-1,Jerami Grant,2013
+36,36,36,2013-03-21,Syracuse,N,Montana,ROUND-64,W 81-34,,22,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,7,8,2,0,0,1,2,5,5.3,N,1,0,jerami-grant-1,Jerami Grant,2013
+37,37,37,2013-03-23,Syracuse,N,California,ROUND-32,W 66-60,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,1,1,0,-0.7,N,1,0,jerami-grant-1,Jerami Grant,2013
+38,38,38,2013-03-28,Syracuse,N,Indiana,ROUND-16,W 61-50,,9,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,3,3,0,0,2,0,2,4,4.5,N,1,0,jerami-grant-1,Jerami Grant,2013
+39,39,39,2013-03-30,Syracuse,N,Marquette,ROUND-8,W 55-39,,3,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,0,1,0,1,0,0,0,1,1.6,N,1,0,jerami-grant-1,Jerami Grant,2013
+40,40,40,2013-04-06,Syracuse,N,Michigan,NATIONAL-SEMI,L 56-61,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,5,7,1,0,1,0,0,4,7.0,N,0,0,jerami-grant-1,Jerami Grant,2013

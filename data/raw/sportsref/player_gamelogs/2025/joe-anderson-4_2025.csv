@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2024-11-04,Lipscomb,@,Duquesne,REG (Non-Conf),W 77-72,*,35,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,6,6,8,1,1,3,2,5,4.8,A,1,1,joe-anderson-4,Joe Anderson,2025
+2,106,2,2024-11-06,Lipscomb,@,Arkansas,REG (Non-Conf),L 60-76,*,33,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,5,5,3,3,0,3,2,6,6.1,A,0,1,joe-anderson-4,Joe Anderson,2025
+3,107,3,2024-11-09,Lipscomb,,Wofford,REG (Non-Conf),W 78-69,*,35,8,13,0.615,3,5,0.6,5,8,0.625,0.731,0,0,,0,4,4,4,5,0,3,1,19,18.7,H,1,1,joe-anderson-4,Joe Anderson,2025
+4,108,4,2024-11-12,Lipscomb,,Belmont,REG (Non-Conf),L 79-80,*,31,3,10,0.3,3,5,0.6,0,5,0.0,0.45,0,0,,0,3,3,2,0,0,1,1,9,4.1,H,0,1,joe-anderson-4,Joe Anderson,2025
+5,109,5,2024-11-17,Lipscomb,@,Western Kentucky,REG (Non-Conf),L 61-66,*,29,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,0,,0,7,7,3,0,0,1,2,9,5.3,A,0,1,joe-anderson-4,Joe Anderson,2025
+6,110,6,2024-11-19,Lipscomb,@,Kentucky,REG (Non-Conf),L 68-97,*,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,2,2,4,0,0,1,2,4,2.9,A,0,1,joe-anderson-4,Joe Anderson,2025
+7,111,7,2024-11-24,Lipscomb,,Jackson State,REG (Non-Conf),W 77-53,*,28,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,3,4,5,3,0,0,1,3,6.9,H,1,1,joe-anderson-4,Joe Anderson,2025
+8,112,8,2024-11-30,Lipscomb,@,Alabama A&M,REG (Non-Conf),W 82-44,*,25,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,1,2,3,3,2,0,3,0,8,8.4,A,1,1,joe-anderson-4,Joe Anderson,2025
+9,113,9,2024-12-03,Lipscomb,@,Chattanooga,REG (Non-Conf),W 80-62,*,33,7,12,0.583,2,5,0.4,5,7,0.714,0.667,0,0,,0,7,7,2,1,0,0,0,16,14.9,A,1,1,joe-anderson-4,Joe Anderson,2025
+10,114,10,2024-12-05,Lipscomb,,Southeast Missouri State,REG (Non-Conf),W 78-60,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,6,0,0,3,1,2,0.4,H,1,1,joe-anderson-4,Joe Anderson,2025
+11,115,11,2024-12-16,Lipscomb,,Truett McConnell,REG (Non-Conf),W 99-67,*,16,3,9,0.333,0,5,0.0,3,4,0.75,0.333,0,0,,0,2,2,4,5,0,2,1,6,6.9,H,1,1,joe-anderson-4,Joe Anderson,2025
+12,116,12,2024-12-19,Lipscomb,@,Middle Tennessee,REG (Non-Conf),L 65-67,*,37,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,4,4,4,2,0,3,1,7,6.6,A,0,1,joe-anderson-4,Joe Anderson,2025
+13,117,13,2024-12-29,Lipscomb,,Asbury,REG (Non-Conf),W 112-54,*,18,3,8,0.375,1,6,0.167,2,2,1.0,0.438,2,2,1.0,1,3,4,2,1,0,0,0,9,8.6,H,1,1,joe-anderson-4,Joe Anderson,2025
+14,118,14,2025-01-02,Lipscomb,@,Jacksonville,REG (Conf),W 70-65,*,32,7,9,0.778,3,4,0.75,4,5,0.8,0.944,1,2,0.5,0,0,0,1,7,0,2,1,18,19.4,A,1,1,joe-anderson-4,Joe Anderson,2025
+15,119,15,2025-01-04,Lipscomb,@,North Florida,REG (Conf),W 96-64,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,4,4,2,3,0,0,1,10,12.2,A,1,1,joe-anderson-4,Joe Anderson,2025
+16,120,16,2025-01-09,Lipscomb,,Queens (NC),REG (Conf),L 73-75,*,33,3,8,0.375,1,6,0.167,2,2,1.0,0.438,2,2,1.0,0,1,1,4,1,0,1,2,9,6.9,H,0,1,joe-anderson-4,Joe Anderson,2025
+17,121,17,2025-01-11,Lipscomb,,West Georgia,REG (Conf),W 86-67,*,30,6,10,0.6,3,4,0.75,3,6,0.5,0.75,2,2,1.0,0,4,4,3,1,1,3,3,17,13.2,H,1,1,joe-anderson-4,Joe Anderson,2025
+18,122,18,2025-01-16,Lipscomb,@,Bellarmine,REG (Conf),W 87-53,*,26,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,0,4,4,5,3,0,0,0,10,13.0,A,1,1,joe-anderson-4,Joe Anderson,2025
+19,123,19,2025-01-18,Lipscomb,,Austin Peay,REG (Conf),W 88-60,*,27,3,8,0.375,3,6,0.5,0,2,0.0,0.563,0,0,,0,5,5,8,1,0,2,0,9,10.7,H,1,1,joe-anderson-4,Joe Anderson,2025
+20,124,20,2025-01-23,Lipscomb,@,North Alabama,REG (Conf),L 64-74,*,36,9,13,0.692,2,5,0.4,7,8,0.875,0.769,1,2,0.5,0,2,2,4,3,0,1,1,21,20.1,A,0,1,joe-anderson-4,Joe Anderson,2025
+21,125,21,2025-01-25,Lipscomb,@,Central Arkansas,REG (Conf),W 68-55,*,34,6,13,0.462,4,10,0.4,2,3,0.667,0.615,1,2,0.5,0,2,2,3,7,0,0,1,17,19.2,A,1,1,joe-anderson-4,Joe Anderson,2025
+22,126,22,2025-01-30,Lipscomb,,Eastern Kentucky,REG (Conf),L 71-80,*,37,6,12,0.5,3,7,0.429,3,5,0.6,0.625,2,2,1.0,0,6,6,5,1,0,3,1,17,13.9,H,0,1,joe-anderson-4,Joe Anderson,2025
+23,127,23,2025-02-01,Lipscomb,,Bellarmine,REG (Conf),W 87-80,*,32,3,8,0.375,2,6,0.333,1,2,0.5,0.5,4,6,0.667,0,6,6,2,2,0,2,0,12,10.0,H,1,1,joe-anderson-4,Joe Anderson,2025
+24,128,24,2025-02-05,Lipscomb,@,West Georgia,REG (Conf),W 76-67,*,37,3,12,0.25,1,6,0.167,2,6,0.333,0.292,0,0,,0,4,4,6,2,0,0,0,7,7.2,A,1,1,joe-anderson-4,Joe Anderson,2025
+25,129,25,2025-02-08,Lipscomb,@,Queens (NC),REG (Conf),W 94-81,*,33,8,11,0.727,3,5,0.6,5,6,0.833,0.864,2,2,1.0,0,5,5,3,1,0,2,2,21,18.3,A,1,1,joe-anderson-4,Joe Anderson,2025
+26,130,26,2025-02-13,Lipscomb,,Stetson,REG (Conf),W 93-60,*,31,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,8,1,0,2,1,5,6.7,H,1,1,joe-anderson-4,Joe Anderson,2025
+27,131,27,2025-02-15,Lipscomb,,Florida Gulf Coast,REG (Conf),W 82-68,*,36,6,15,0.4,3,8,0.375,3,7,0.429,0.5,0,0,,0,0,0,3,1,0,0,1,15,9.6,H,1,1,joe-anderson-4,Joe Anderson,2025
+28,132,28,2025-02-18,Lipscomb,@,Eastern Kentucky,REG (Conf),L 57-66,*,33,3,10,0.3,0,6,0.0,3,4,0.75,0.3,2,2,1.0,0,6,6,5,3,0,1,2,8,8.7,A,0,1,joe-anderson-4,Joe Anderson,2025
+29,133,29,2025-02-20,Lipscomb,,North Alabama,REG (Conf),W 75-63,*,37,6,11,0.545,3,7,0.429,3,4,0.75,0.682,0,0,,0,1,1,3,4,1,3,0,15,13.8,H,1,1,joe-anderson-4,Joe Anderson,2025
+30,134,30,2025-02-24,Lipscomb,@,Austin Peay,REG (Conf),W 95-78,*,36,6,8,0.75,5,6,0.833,1,2,0.5,1.063,4,4,1.0,0,2,2,2,0,0,1,2,21,18.0,A,1,1,joe-anderson-4,Joe Anderson,2025
+31,135,31,2025-02-26,Lipscomb,,Central Arkansas,REG (Conf),W 78-60,*,36,4,11,0.364,3,9,0.333,1,2,0.5,0.5,2,3,0.667,0,1,1,6,4,0,2,1,13,12.6,H,1,1,joe-anderson-4,Joe Anderson,2025
+32,136,32,2025-03-03,Lipscomb,,Central Arkansas,CTOURN,W 84-66,*,39,10,15,0.667,8,12,0.667,2,3,0.667,0.933,0,0,,0,7,7,2,4,0,3,1,28,25.6,H,1,0,joe-anderson-4,Joe Anderson,2025
+33,137,33,2025-03-06,Lipscomb,,Queens (NC),CTOURN,W 81-75 (OT),*,45,7,13,0.538,4,8,0.5,3,5,0.6,0.692,7,9,0.778,0,1,1,4,5,1,0,1,25,26.3,H,1,0,joe-anderson-4,Joe Anderson,2025
+34,138,34,2025-03-09,Lipscomb,,North Alabama,CTOURN,W 76-65,*,40,6,9,0.667,4,7,0.571,2,2,1.0,0.889,7,8,0.875,0,5,5,4,2,3,2,1,23,24.7,H,1,0,joe-anderson-4,Joe Anderson,2025
+35,139,35,2025-03-21,Lipscomb,N,Iowa State,ROUND-64,L 55-82,*,38,1,9,0.111,1,6,0.167,0,3,0.0,0.167,0,1,0.0,1,4,5,4,3,0,0,1,3,4.0,N,0,0,joe-anderson-4,Joe Anderson,2025

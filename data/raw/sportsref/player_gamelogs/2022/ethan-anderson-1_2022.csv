@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2021-11-09,Southern California,,Cal State Northridge,REG (Non-Conf),W 89-49,*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,2,3,2,0,0,0,0,5,4.3,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+2,58,2,2021-11-13,Southern California,@,Temple,REG (Non-Conf),W 76-71,,19,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,2,2,2,0,0,1,2,6,4.2,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+3,59,3,2021-11-16,Southern California,@,Florida Gulf Coast,REG (Non-Conf),W 78-61,,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,1,0.0,0,0,0,2,0,0,0,0,5,3.3,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+4,60,4,2021-11-22,Southern California,,Dixie State,REG (Non-Conf),W 98-71,*,24,5,8,0.625,2,5,0.4,3,3,1.0,0.75,1,2,0.5,0,3,3,3,1,0,1,3,13,10.8,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+5,61,5,2021-11-25,Southern California,N,Saint Joseph's,REG (Non-Conf),W 70-55,,19,2,7,0.286,1,1,1.0,1,6,0.167,0.357,1,2,0.5,0,0,0,0,0,0,0,1,6,1.1,N,1,1,ethan-anderson-1,Ethan Anderson,2022
+6,62,6,2021-11-26,Southern California,N,San Diego State,REG (Non-Conf),W 58-43,*,30,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,0,,1,5,6,4,1,0,1,1,8,8.2,N,1,1,ethan-anderson-1,Ethan Anderson,2022
+7,63,7,2021-12-01,Southern California,,Utah,REG (Conf),W 93-73,,21,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,1,1.0,0,1,1,2,1,0,1,3,10,6.5,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+8,64,8,2021-12-04,Southern California,@,Washington State,REG (Conf),W 63-61,*,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,4,4,4,0,1,1,0,4,5.0,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+9,65,9,2021-12-07,Southern California,,Eastern Kentucky,REG (Non-Conf),W 80-68,,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,3,0,0,3,4,2,-1.2,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+10,66,10,2021-12-12,Southern California,,Long Beach State,REG (Non-Conf),W 73-62,*,24,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,2,2,4,0,0,0,0,2,1.6,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+11,67,11,2021-12-15,Southern California,,UC Irvine,REG (Non-Conf),W 66-61,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,0,4,4,2,1,0,2,0,2,1.1,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+12,68,12,2021-12-18,Southern California,N,Georgia Tech,REG (Non-Conf),W 67-53,*,32,4,8,0.5,3,4,0.75,1,4,0.25,0.688,0,0,,0,3,3,2,1,0,0,1,11,9.9,N,1,1,ethan-anderson-1,Ethan Anderson,2022
+13,69,13,2022-01-06,Southern California,@,California,REG (Conf),W 77-63,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,2,4,3,0,0,2,1,2,1.3,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+14,70,14,2022-01-11,Southern California,@,Stanford,REG (Conf),L 69-75,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,4,4,2,0,0,2,1,4,0.4,A,0,1,ethan-anderson-1,Ethan Anderson,2022
+15,71,15,2022-01-13,Southern California,,Oregon State,REG (Conf),W 81-71,*,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,2,0,2,2,1,0,1,5,5,3.1,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+16,72,16,2022-01-15,Southern California,,Oregon,REG (Conf),L 69-79,,18,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,3,0.667,1,3,4,1,0,0,1,1,8,4.8,H,0,1,ethan-anderson-1,Ethan Anderson,2022
+17,73,17,2022-01-20,Southern California,@,Colorado,REG (Conf),W 61-58,*,26,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,0,,2,0,2,0,0,0,1,1,5,2.3,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+18,74,18,2022-01-22,Southern California,@,Utah,REG (Conf),W 79-67,,16,1,5,0.2,0,0,,1,5,0.2,0.2,0,2,0.0,0,2,2,0,1,0,1,0,2,-1.3,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+19,75,19,2022-01-24,Southern California,,Arizona State,REG (Conf),W 78-56,*,18,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,1,0,1,3,1,0,-1.4,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+20,76,20,2022-01-27,Southern California,,Stanford,REG (Conf),L 61-64,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,0,1,ethan-anderson-1,Ethan Anderson,2022
+21,77,21,2022-01-29,Southern California,,California,REG (Conf),W 79-72,*,30,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,0,0,0,5,0,0,0,3,4,4.6,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+22,78,22,2022-02-03,Southern California,@,Arizona State,REG (Conf),W 58-53,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,0,0,0,0,2,0,-3.0,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+23,79,23,2022-02-05,Southern California,@,Arizona,REG (Conf),L 63-72,*,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,2,1,3,2,0,0,0,2,8,6.3,A,0,1,ethan-anderson-1,Ethan Anderson,2022
+24,80,24,2022-02-08,Southern California,,Pacific,REG (Non-Conf),W 74-68,,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,1,1.0,0,3,3,4,1,2,1,2,7,8.3,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+25,81,25,2022-02-12,Southern California,,UCLA,REG (Conf),W 67-64,*,30,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,1,2,3,2,1,2,0,2,7,6.9,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+26,82,26,2022-02-17,Southern California,,Washington,REG (Conf),W 79-69,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,3,1,1,2,1,2,2.0,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+27,83,27,2022-02-20,Southern California,,Washington State,REG (Conf),W 62-60,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-0.5,H,1,1,ethan-anderson-1,Ethan Anderson,2022
+28,84,28,2022-02-24,Southern California,@,Oregon State,REG (Conf),W 94-91 (2OT),*,38,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,1,2,3,6,5,0,3,1,12,14.1,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+29,85,29,2022-02-26,Southern California,@,Oregon,REG (Conf),W 70-69,,25,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,4,1,0,2,2,2,3.6,A,1,1,ethan-anderson-1,Ethan Anderson,2022
+30,86,30,2022-03-01,Southern California,,Arizona,REG (Conf),L 71-91,*,21,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,2,2,1,0,1,0,2.3,H,0,1,ethan-anderson-1,Ethan Anderson,2022
+31,87,31,2022-03-05,Southern California,@,UCLA,REG (Conf),L 68-75,,10,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,A,0,1,ethan-anderson-1,Ethan Anderson,2022
+32,88,32,2022-03-10,Southern California,N,Washington,CTOURN,W 65-61,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,3,0,1,2,0,4,2.4,N,1,0,ethan-anderson-1,Ethan Anderson,2022
+33,89,33,2022-03-11,Southern California,N,UCLA,CTOURN,L 59-69,,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,2,0.0,0,2,2,1,0,0,0,1,0,-2.0,N,0,0,ethan-anderson-1,Ethan Anderson,2022
+34,90,34,2022-03-18,Southern California,N,Miami (FL),ROUND-64,L 66-68,,31,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,5,5,4,0,0,0,4,4,6.1,N,0,0,ethan-anderson-1,Ethan Anderson,2022

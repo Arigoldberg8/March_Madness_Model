@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,7,2012-12-01,Michigan,@,Bradley,REG (Non-Conf),W 74-66,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,0,0,1.0,A,1,1,caris-levert-1,Caris LeVert,2013
+2,2,8,2012-12-04,Michigan,,Western Michigan,REG (Non-Conf),W 73-41,,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,0,1,0,0,0,0,3,3,0.1,H,1,1,caris-levert-1,Caris LeVert,2013
+3,3,9,2012-12-08,Michigan,,Arkansas,REG (Non-Conf),W 80-67,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,1,1,caris-levert-1,Caris LeVert,2013
+4,4,10,2012-12-11,Michigan,,Binghamton,REG (Non-Conf),W 67-39,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,4,0,0,0,1,2,3.7,H,1,1,caris-levert-1,Caris LeVert,2013
+5,5,11,2012-12-15,Michigan,N,West Virginia,REG (Non-Conf),W 81-66,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,N,1,1,caris-levert-1,Caris LeVert,2013
+6,6,12,2012-12-20,Michigan,,Eastern Michigan,REG (Non-Conf),W 93-54,,16,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,1,1,2,2,0,1,0,0,8,8.8,H,1,1,caris-levert-1,Caris LeVert,2013
+7,7,13,2012-12-29,Michigan,,Central Michigan,REG (Non-Conf),W 88-73,*,32,4,11,0.364,1,4,0.25,3,7,0.429,0.409,0,0,,1,1,2,5,0,0,1,1,9,6.0,H,1,1,caris-levert-1,Caris LeVert,2013
+8,8,14,2013-01-03,Michigan,@,Northwestern,REG (Conf),W 94-66,,15,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,2,2,2,0,0,0,1,6,6.3,A,1,1,caris-levert-1,Caris LeVert,2013
+9,9,15,2013-01-06,Michigan,,Iowa,REG (Conf),W 95-67,,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,2,0.5,0,1,1,0,1,0,1,4,9,5.0,H,1,1,caris-levert-1,Caris LeVert,2013
+10,10,16,2013-01-09,Michigan,,Nebraska,REG (Conf),W 62-47,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.8,H,1,1,caris-levert-1,Caris LeVert,2013
+11,11,17,2013-01-13,Michigan,@,Ohio State,REG (Conf),L 53-56,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,0,1,1,0,-2.9,A,0,1,caris-levert-1,Caris LeVert,2013
+12,12,18,2013-01-17,Michigan,@,Minnesota,REG (Conf),W 83-75,,5,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,0,0,0,0,0,1,1,5,2.6,A,1,1,caris-levert-1,Caris LeVert,2013
+13,13,19,2013-01-24,Michigan,,Purdue,REG (Conf),W 68-53,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,0,2,0.6,H,1,1,caris-levert-1,Caris LeVert,2013
+14,14,20,2013-01-27,Michigan,@,Illinois,REG (Conf),W 74-60,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,A,1,1,caris-levert-1,Caris LeVert,2013
+15,15,21,2013-01-30,Michigan,,Northwestern,REG (Conf),W 68-46,,9,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,1,1,0.2,H,1,1,caris-levert-1,Caris LeVert,2013
+16,16,22,2013-02-02,Michigan,@,Indiana,REG (Conf),L 73-81,,10,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,1,1,0,0,2,4,3.2,A,0,1,caris-levert-1,Caris LeVert,2013
+17,17,23,2013-02-05,Michigan,,Ohio State,REG (Conf),W 76-74 (OT),,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,caris-levert-1,Caris LeVert,2013
+18,18,24,2013-02-09,Michigan,@,Wisconsin,REG (Conf),L 62-65 (OT),,8,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.9,A,0,1,caris-levert-1,Caris LeVert,2013
+19,19,25,2013-02-12,Michigan,@,Michigan State,REG (Conf),L 52-75,,9,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,0,0,0,0,3,2,-1.0,A,0,1,caris-levert-1,Caris LeVert,2013
+20,20,26,2013-02-17,Michigan,,Penn State,REG (Conf),W 79-71,,9,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-0.8,H,1,1,caris-levert-1,Caris LeVert,2013
+21,21,27,2013-02-24,Michigan,,Illinois,REG (Conf),W 71-58,,16,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,2,2,1,1,0,0,3,8,7.8,H,1,1,caris-levert-1,Caris LeVert,2013
+22,22,28,2013-02-27,Michigan,@,Penn State,REG (Conf),L 78-84,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,4,0,-3.1,A,0,1,caris-levert-1,Caris LeVert,2013
+23,23,29,2013-03-03,Michigan,,Michigan State,REG (Conf),W 58-57,,30,4,11,0.364,0,3,0.0,4,8,0.5,0.364,0,0,,1,0,1,0,2,0,0,2,8,3.8,H,1,1,caris-levert-1,Caris LeVert,2013
+24,24,30,2013-03-06,Michigan,@,Purdue,REG (Conf),W 80-75,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,2,0,0,1,0,0,-0.4,A,1,1,caris-levert-1,Caris LeVert,2013
+25,25,31,2013-03-10,Michigan,,Indiana,REG (Conf),L 71-72,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,0,1,caris-levert-1,Caris LeVert,2013
+26,26,32,2013-03-14,Michigan,N,Penn State,CTOURN,W 83-66,,11,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.8,N,1,0,caris-levert-1,Caris LeVert,2013
+27,27,33,2013-03-15,Michigan,N,Wisconsin,CTOURN,L 59-68,,4,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,0,0,2,0,-1.6,N,0,0,caris-levert-1,Caris LeVert,2013
+28,28,34,2013-03-21,Michigan,N,South Dakota State,ROUND-64,W 71-56,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,1,0,-2.1,N,1,0,caris-levert-1,Caris LeVert,2013
+29,29,35,2013-03-23,Michigan,N,VCU,ROUND-32,W 78-53,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-0.7,N,1,0,caris-levert-1,Caris LeVert,2013
+30,30,36,2013-03-29,Michigan,N,Kansas,ROUND-16,W 87-85 (OT),,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,0,caris-levert-1,Caris LeVert,2013
+31,31,37,2013-03-31,Michigan,N,Florida,ROUND-8,W 79-59,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,1,1,0,0,0.0,N,1,0,caris-levert-1,Caris LeVert,2013
+32,32,38,2013-04-06,Michigan,N,Syracuse,NATIONAL-SEMI,W 61-56,,21,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,4,4,2,0,0,1,1,8,7.6,N,1,0,caris-levert-1,Caris LeVert,2013
+33,33,39,2013-04-08,Michigan,N,Louisville,NATIONAL-FINAL,L 76-82,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,1,0,1,1,0,0.2,N,0,0,caris-levert-1,Caris LeVert,2013

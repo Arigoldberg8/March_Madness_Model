@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2011-11-11,Montana,@,Colorado State,REG (Non-Conf),L 58-64,*,37,2,14,0.143,1,5,0.2,1,9,0.111,0.179,6,6,1.0,0,1,1,3,0,0,3,2,11,0.6,A,0,1,will-cherry-1,Will Cherry,2012
+2,64,2,2011-11-14,Montana,,Providence (MT),REG (Non-Conf),W 60-59,*,29,2,5,0.4,0,1,0.0,2,4,0.5,0.4,7,9,0.778,1,1,2,2,4,1,3,4,11,10.0,H,1,1,will-cherry-1,Will Cherry,2012
+3,65,3,2011-11-17,Montana,,Idaho,REG (Non-Conf),W 57-52,*,38,9,19,0.474,4,6,0.667,5,13,0.385,0.579,2,6,0.333,2,9,11,4,2,0,1,1,24,20.2,H,1,1,will-cherry-1,Will Cherry,2012
+4,66,4,2011-11-20,Montana,@,San Diego,REG (Non-Conf),W 73-60,*,36,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,0,2,2,5,1,0,7,1,13,7.8,A,1,1,will-cherry-1,Will Cherry,2012
+5,67,5,2011-11-23,Montana,@,North Dakota,REG (Non-Conf),L 81-88 (OT),*,43,10,20,0.5,2,8,0.25,8,12,0.667,0.55,6,7,0.857,2,5,7,2,5,0,4,4,28,21.3,A,0,1,will-cherry-1,Will Cherry,2012
+6,68,6,2011-11-26,Montana,,Long Beach State,REG (Non-Conf),W 73-71,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,6,6,1.0,0,1,1,2,2,1,3,4,13,9.8,H,1,1,will-cherry-1,Will Cherry,2012
+7,69,7,2011-12-01,Montana,,San Francisco,REG (Non-Conf),L 62-65,*,32,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,2,3,3,0,0,1,3,5,2.8,H,0,1,will-cherry-1,Will Cherry,2012
+8,70,8,2011-12-04,Montana,@,Oregon State,REG (Non-Conf),L 46-71,*,31,5,15,0.333,1,4,0.25,4,11,0.364,0.367,2,4,0.5,0,3,3,4,2,0,4,3,13,4.2,A,0,1,will-cherry-1,Will Cherry,2012
+9,71,9,2011-12-07,Montana,,Montana Tech,REG (Non-Conf),W 64-49,*,37,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,3,0.333,0,3,3,8,1,0,4,1,5,2.5,H,1,1,will-cherry-1,Will Cherry,2012
+10,72,10,2011-12-10,Montana,,Nevada,REG (Non-Conf),L 64-70,*,39,4,14,0.286,3,5,0.6,1,9,0.111,0.393,7,10,0.7,2,5,7,4,3,0,3,2,18,13.5,H,0,1,will-cherry-1,Will Cherry,2012
+11,73,11,2011-12-17,Montana,@,Portland,REG (Non-Conf),W 80-65,*,34,4,12,0.333,2,5,0.4,2,7,0.286,0.417,10,12,0.833,1,8,9,4,3,0,3,2,20,17.5,A,1,1,will-cherry-1,Will Cherry,2012
+12,74,12,2011-12-22,Montana,,Utah Valley,REG (Non-Conf),W 65-52,*,25,2,10,0.2,0,5,0.0,2,5,0.4,0.2,3,4,0.75,0,1,1,1,3,0,3,1,7,1.0,H,1,1,will-cherry-1,Will Cherry,2012
+13,75,13,2011-12-28,Montana,,Portland State,REG (Conf),W 75-64,*,37,6,11,0.545,3,5,0.6,3,6,0.5,0.682,0,0,,1,3,4,3,2,1,3,2,15,12.3,H,1,1,will-cherry-1,Will Cherry,2012
+14,76,14,2011-12-30,Montana,,Eastern Washington,REG (Conf),W 79-71,*,38,4,9,0.444,3,5,0.6,1,4,0.25,0.611,11,13,0.846,1,5,6,6,2,0,3,5,22,19.9,H,1,1,will-cherry-1,Will Cherry,2012
+15,77,15,2012-01-07,Montana,@,Idaho State,REG (Conf),W 68-44,*,35,5,8,0.625,2,4,0.5,3,4,0.75,0.75,3,4,0.75,0,0,0,3,4,0,3,3,15,12.9,A,1,1,will-cherry-1,Will Cherry,2012
+16,78,16,2012-01-12,Montana,@,Northern Arizona,REG (Conf),W 78-53,*,31,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,3,3,3,3,0,3,3,12,8.8,A,1,1,will-cherry-1,Will Cherry,2012
+17,79,17,2012-01-14,Montana,@,Weber State,REG (Conf),L 64-80,*,37,5,14,0.357,2,4,0.5,3,10,0.3,0.429,3,4,0.75,1,5,6,2,1,0,3,3,15,7.2,A,0,1,will-cherry-1,Will Cherry,2012
+18,80,18,2012-01-19,Montana,,Northern Colorado,REG (Conf),W 76-58,*,35,10,19,0.526,3,8,0.375,7,11,0.636,0.605,4,6,0.667,2,0,2,6,4,0,3,3,27,22.3,H,1,1,will-cherry-1,Will Cherry,2012
+19,81,19,2012-01-21,Montana,,Sacramento State,REG (Conf),W 85-56,*,26,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,0,3,3,2,1,0,2,1,12,9.6,H,1,1,will-cherry-1,Will Cherry,2012
+20,82,20,2012-01-26,Montana,@,Eastern Washington,REG (Conf),W 74-60,*,35,1,7,0.143,0,2,0.0,1,5,0.2,0.143,9,11,0.818,0,8,8,5,2,0,4,2,11,8.8,A,1,1,will-cherry-1,Will Cherry,2012
+21,83,21,2012-01-29,Montana,@,Portland State,REG (Conf),W 69-67,*,34,6,10,0.6,1,5,0.2,5,5,1.0,0.65,7,8,0.875,0,3,3,3,5,0,3,4,20,18.4,A,1,1,will-cherry-1,Will Cherry,2012
+22,84,22,2012-02-04,Montana,@,Montana State,REG (Conf),W 67-58,*,21,3,8,0.375,1,4,0.25,2,4,0.5,0.438,4,4,1.0,0,6,6,1,0,0,0,4,11,7.5,A,1,1,will-cherry-1,Will Cherry,2012
+23,85,23,2012-02-06,Montana,,Idaho State,REG (Conf),W 76-40,*,25,8,10,0.8,2,3,0.667,6,7,0.857,0.9,3,3,1.0,1,2,3,1,3,1,0,3,21,21.7,H,1,1,will-cherry-1,Will Cherry,2012
+24,86,24,2012-02-09,Montana,@,Northern Colorado,REG (Conf),W 75-68,*,38,12,20,0.6,3,6,0.5,9,14,0.643,0.675,3,4,0.75,1,3,4,4,8,0,4,3,30,27.6,A,1,1,will-cherry-1,Will Cherry,2012
+25,87,25,2012-02-11,Montana,@,Sacramento State,REG (Conf),W 67-58,*,31,2,8,0.25,1,3,0.333,1,5,0.2,0.313,12,15,0.8,0,4,4,4,2,1,2,2,17,14.9,A,1,1,will-cherry-1,Will Cherry,2012
+26,88,26,2012-02-18,Montana,,Hawaii,REG (Non-Conf),W 94-79,*,33,10,13,0.769,3,5,0.6,7,8,0.875,0.885,1,2,0.5,0,2,2,2,5,1,2,3,24,23.0,H,1,1,will-cherry-1,Will Cherry,2012
+27,89,27,2012-02-23,Montana,,Northern Arizona,REG (Conf),W 78-60,*,34,4,11,0.364,2,7,0.286,2,4,0.5,0.455,1,1,1.0,1,4,5,3,4,1,2,1,11,11.2,H,1,1,will-cherry-1,Will Cherry,2012
+28,90,28,2012-02-25,Montana,,Montana State,REG (Conf),W 57-47,*,33,5,9,0.556,2,5,0.4,3,4,0.75,0.667,1,1,1.0,0,4,4,3,2,1,5,3,13,8.5,H,1,1,will-cherry-1,Will Cherry,2012
+29,91,29,2012-02-28,Montana,,Weber State,REG (Conf),W 66-51,*,37,7,14,0.5,1,4,0.25,6,10,0.6,0.536,8,10,0.8,0,2,2,4,1,1,3,1,23,16.9,H,1,1,will-cherry-1,Will Cherry,2012
+30,92,30,2012-03-06,Montana,,Eastern Washington,CTOURN,W 74-66,*,40,7,13,0.538,0,2,0.0,7,11,0.636,0.538,2,3,0.667,2,1,3,2,3,1,2,2,16,13.3,H,1,0,will-cherry-1,Will Cherry,2012
+31,93,31,2012-03-07,Montana,,Weber State,CTOURN,W 85-66,*,40,4,11,0.364,2,7,0.286,2,4,0.5,0.455,3,4,0.75,1,3,4,6,3,0,2,1,13,12.9,H,1,0,will-cherry-1,Will Cherry,2012
+32,94,32,2012-03-15,Montana,N,Wisconsin,ROUND-64,L 49-73,*,33,3,14,0.214,1,3,0.333,2,11,0.182,0.25,2,4,0.5,0,2,2,0,2,1,2,3,9,-0.3,N,0,0,will-cherry-1,Will Cherry,2012

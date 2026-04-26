@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2021-11-09,Jacksonville State,@,Wichita State,REG (Non-Conf),L 57-60,*,33,5,7,0.714,4,5,0.8,1,2,0.5,1.0,1,2,0.5,2,3,5,0,1,2,2,2,15,13.6,A,0,1,kayne-henry-1,Kayne Henry,2022
+2,59,2,2021-11-13,Jacksonville State,,Alabama A&M,REG (Non-Conf),W 70-47,*,32,4,8,0.5,3,6,0.5,1,2,0.5,0.688,1,2,0.5,4,3,7,2,1,1,1,0,12,13.4,H,1,1,kayne-henry-1,Kayne Henry,2022
+3,60,3,2021-11-16,Jacksonville State,@,Troy,REG (Non-Conf),L 65-69 (3OT),*,38,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,2,0.5,2,8,10,0,4,0,0,2,3,5.8,A,0,1,kayne-henry-1,Kayne Henry,2022
+4,61,4,2021-11-22,Jacksonville State,N,Valparaiso,REG (Non-Conf),L 70-78,*,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,5,6,0,1,1,2,2,5,4.1,N,0,1,kayne-henry-1,Kayne Henry,2022
+5,62,5,2021-11-24,Jacksonville State,N,Drexel,REG (Non-Conf),W 72-64,*,29,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,5,0.6,2,4,6,0,1,2,1,2,7,6.0,N,1,1,kayne-henry-1,Kayne Henry,2022
+6,63,6,2021-11-27,Jacksonville State,@,Elon,REG (Non-Conf),W 93-81,*,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,3,4,0.75,2,4,6,0,0,0,2,2,8,5.4,A,1,1,kayne-henry-1,Kayne Henry,2022
+7,64,7,2021-12-04,Jacksonville State,,South Alabama,REG (Non-Conf),L 64-74,*,32,3,9,0.333,0,3,0.0,3,6,0.5,0.333,5,6,0.833,5,1,6,2,0,0,1,2,11,8.9,H,0,1,kayne-henry-1,Kayne Henry,2022
+8,65,8,2021-12-08,Jacksonville State,@,VCU,REG (Non-Conf),L 52-66,*,10,0,0,,0,0,,0,0,,,2,4,0.5,1,0,1,1,1,0,1,3,2,1.4,A,0,1,kayne-henry-1,Kayne Henry,2022
+9,66,9,2021-12-13,Jacksonville State,,LaGrange,REG (Non-Conf),W 110-80,*,21,6,10,0.6,2,4,0.5,4,6,0.667,0.7,0,0,,1,2,3,2,0,0,0,2,14,11.3,H,1,1,kayne-henry-1,Kayne Henry,2022
+10,67,10,2021-12-15,Jacksonville State,,Florida International,REG (Non-Conf),W 66-59,*,22,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,3,1,4,1,0,0,0,3,4,3.9,H,1,1,kayne-henry-1,Kayne Henry,2022
+11,68,11,2021-12-18,Jacksonville State,@,Alabama,REG (Non-Conf),L 59-65,*,25,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,1,2,3,1,0,1,1,1,10,8.0,A,0,1,kayne-henry-1,Kayne Henry,2022
+12,69,12,2021-12-21,Jacksonville State,@,Little Rock,REG (Non-Conf),W 87-67,*,27,3,4,0.75,2,3,0.667,1,1,1.0,1.0,5,6,0.833,3,5,8,0,0,1,1,0,13,14.3,A,1,1,kayne-henry-1,Kayne Henry,2022
+13,70,13,2021-12-28,Jacksonville State,,Carver,REG (Non-Conf),W 123-59,*,23,6,11,0.545,4,7,0.571,2,4,0.5,0.727,0,0,,3,5,8,0,1,0,1,1,16,13.9,H,1,1,kayne-henry-1,Kayne Henry,2022
+14,71,14,2022-01-08,Jacksonville State,@,North Alabama,REG (Conf),W 65-55,*,31,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,4,0.5,1,5,6,0,0,2,3,0,11,6.1,A,1,1,kayne-henry-1,Kayne Henry,2022
+15,72,15,2022-01-11,Jacksonville State,,Lipscomb,REG (Conf),W 88-83,*,28,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,0,,1,2,3,0,0,0,0,3,3,-2.1,H,1,1,kayne-henry-1,Kayne Henry,2022
+16,73,16,2022-01-15,Jacksonville State,@,Eastern Kentucky,REG (Conf),W 76-65,*,14,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,0,0,2,0,0,2,2,8,3.6,A,1,1,kayne-henry-1,Kayne Henry,2022
+17,74,17,2022-01-18,Jacksonville State,@,Central Arkansas,REG (Conf),W 86-81,*,23,6,9,0.667,0,0,,6,9,0.667,0.667,4,4,1.0,2,1,3,1,0,1,3,0,16,12.2,A,1,1,kayne-henry-1,Kayne Henry,2022
+18,75,18,2022-01-22,Jacksonville State,,Florida Gulf Coast,REG (Conf),W 79-71,*,22,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,2,0.5,1,2,3,1,1,0,0,1,5,3.1,H,1,1,kayne-henry-1,Kayne Henry,2022
+19,76,19,2022-01-24,Jacksonville State,,Bellarmine,REG (Conf),W 65-60,*,29,8,9,0.889,4,5,0.8,4,4,1.0,1.111,4,7,0.571,2,6,8,1,0,2,1,3,24,22.8,H,1,1,kayne-henry-1,Kayne Henry,2022
+20,77,20,2022-01-27,Jacksonville State,@,Kennesaw State,REG (Conf),W 70-64,*,26,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,2,4,6,1,0,0,0,2,6,3.4,A,1,1,kayne-henry-1,Kayne Henry,2022
+21,78,21,2022-01-29,Jacksonville State,@,Liberty,REG (Conf),W 77-67,*,26,4,6,0.667,3,4,0.75,1,2,0.5,0.917,2,4,0.5,0,3,3,0,1,0,3,3,13,7.3,A,1,1,kayne-henry-1,Kayne Henry,2022
+22,79,22,2022-02-03,Jacksonville State,,North Florida,REG (Conf),L 76-88,*,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,6,2,8,4,0,0,0,1,6,10.5,H,0,1,kayne-henry-1,Kayne Henry,2022
+23,80,23,2022-02-05,Jacksonville State,,Jacksonville,REG (Conf),W 64-58,*,33,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,4,0.5,3,10,13,3,0,1,1,0,10,12.8,H,1,1,kayne-henry-1,Kayne Henry,2022
+24,81,24,2022-02-09,Jacksonville State,@,Stetson,REG (Conf),L 57-63,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,0,3,3,1,2,0,3,4,3,-2.2,A,0,1,kayne-henry-1,Kayne Henry,2022
+25,82,25,2022-02-12,Jacksonville State,,Central Arkansas,REG (Conf),L 62-72,*,33,6,11,0.545,0,3,0.0,6,8,0.75,0.545,0,0,,4,6,10,1,0,0,3,2,12,8.2,H,0,1,kayne-henry-1,Kayne Henry,2022
+26,83,26,2022-02-16,Jacksonville State,@,Lipscomb,REG (Conf),W 78-67,*,20,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,1,1.0,0,6,6,0,2,0,2,4,3,0.1,A,1,1,kayne-henry-1,Kayne Henry,2022
+27,84,27,2022-02-20,Jacksonville State,@,Bellarmine,REG (Conf),W 82-67,*,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,5,6,0,0,0,0,4,6,3.6,A,1,1,kayne-henry-1,Kayne Henry,2022
+28,85,28,2022-02-23,Jacksonville State,,Eastern Kentucky,REG (Conf),W 81-68,*,32,6,8,0.75,2,3,0.667,4,5,0.8,0.875,1,1,1.0,3,3,6,2,0,0,0,2,15,15.4,H,1,1,kayne-henry-1,Kayne Henry,2022
+29,86,29,2022-02-26,Jacksonville State,,North Alabama,REG (Conf),W 69-52,*,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,4,1.0,1,4,5,0,1,0,2,2,10,7.8,H,1,1,kayne-henry-1,Kayne Henry,2022
+30,87,30,2022-03-03,Jacksonville State,,Kennesaw State,CTOURN,W 78-67,*,28,3,6,0.5,0,1,0.0,3,5,0.6,0.5,6,6,1.0,1,5,6,1,0,1,1,3,12,10.4,H,1,0,kayne-henry-1,Kayne Henry,2022
+31,88,31,2022-03-05,Jacksonville State,,Jacksonville,CTOURN,L 51-54,*,27,6,15,0.4,2,9,0.222,4,6,0.667,0.467,0,0,,2,3,5,0,3,0,1,2,14,9.4,H,0,0,kayne-henry-1,Kayne Henry,2022
+32,89,32,2022-03-18,Jacksonville State,N,Auburn,ROUND-64,L 61-80,*,21,0,9,0.0,0,3,0.0,0,6,0.0,0.0,0,0,,1,3,4,0,2,0,2,2,0,-5.5,N,0,0,kayne-henry-1,Kayne Henry,2022

@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2020-11-25,Clemson,N,Mississippi State,REG (Non-Conf),W 53-42,,18,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,2,3,1,0,0,0,2,0,-1.6,N,1,1,john-newmaniii-1,John Newman III,2021
+2,67,2,2020-11-26,Clemson,N,Purdue,REG (Non-Conf),W 81-70,,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,0,1,1,1,0,2,4,2,-2.3,N,1,1,john-newmaniii-1,John Newman III,2021
+3,68,3,2020-12-02,Clemson,,South Carolina State,REG (Non-Conf),W 75-38,*,22,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,3,2,1,1,0,8,9.8,H,1,1,john-newmaniii-1,John Newman III,2021
+4,69,4,2020-12-09,Clemson,,Maryland,REG (Non-Conf),W 67-51,*,24,6,13,0.462,0,3,0.0,6,10,0.6,0.462,0,0,,2,1,3,1,1,0,1,3,12,6.5,H,1,1,john-newmaniii-1,John Newman III,2021
+5,70,5,2020-12-12,Clemson,N,Alabama,REG (Non-Conf),W 64-56,*,27,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,5,5,0,1,1,5,3,5,-0.7,N,1,1,john-newmaniii-1,John Newman III,2021
+6,71,6,2020-12-15,Clemson,@,Virginia Tech,REG (Conf),L 60-66,,19,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,3,3,0,1,0,0,2,2,2.4,A,0,1,john-newmaniii-1,John Newman III,2021
+7,72,7,2020-12-21,Clemson,,Morehead State,REG (Non-Conf),W 66-51,,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,1,1,2,2,0,0,1,0,-0.2,H,1,1,john-newmaniii-1,John Newman III,2021
+8,73,8,2020-12-29,Clemson,,Florida State,REG (Conf),W 77-67,*,24,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,2,5,7,4,1,0,3,2,6,4.8,H,1,1,john-newmaniii-1,John Newman III,2021
+9,74,10,2021-01-05,Clemson,,NC State,REG (Conf),W 74-70 (OT),,13,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,1,1,1,0,0,1,2,0,-2.9,H,1,1,john-newmaniii-1,John Newman III,2021
+10,75,11,2021-01-16,Clemson,,Virginia,REG (Conf),L 50-85,,10,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,1,1,0,0,0,1,0,7,4.0,H,0,1,john-newmaniii-1,John Newman III,2021
+11,76,12,2021-01-20,Clemson,@,Georgia Tech,REG (Conf),L 65-83,*,29,5,8,0.625,2,2,1.0,3,6,0.5,0.75,0,0,,3,1,4,2,0,0,1,3,12,10.0,A,0,1,john-newmaniii-1,John Newman III,2021
+12,77,13,2021-01-23,Clemson,@,Florida State,REG (Conf),L 61-80,*,23,3,5,0.6,1,3,0.333,2,2,1.0,0.7,5,5,1.0,1,3,4,1,0,0,2,2,12,9.2,A,0,1,john-newmaniii-1,John Newman III,2021
+13,78,14,2021-01-27,Clemson,,Louisville,REG (Conf),W 54-50,*,22,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,3,3,2,0,0,4,1,2,-1.8,H,1,1,john-newmaniii-1,John Newman III,2021
+14,79,15,2021-01-30,Clemson,@,Duke,REG (Conf),L 53-79,*,12,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,0,2,2,0,0,0,1,0,2,-2.9,A,0,1,john-newmaniii-1,John Newman III,2021
+15,80,17,2021-02-06,Clemson,,Syracuse,REG (Conf),W 78-61,,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,3,3,5,1,1,0,1,5,7.9,H,1,1,john-newmaniii-1,John Newman III,2021
+16,81,18,2021-02-12,Clemson,,Georgia Tech,REG (Conf),W 74-72,,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,H,1,1,john-newmaniii-1,John Newman III,2021
+17,82,19,2021-02-24,Clemson,@,Wake Forest,REG (Conf),W 60-39,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,2,0,-1.5,A,1,1,john-newmaniii-1,John Newman III,2021
+18,83,20,2021-02-27,Clemson,,Miami (FL),REG (Conf),W 66-58,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,john-newmaniii-1,John Newman III,2021
+19,84,21,2021-03-03,Clemson,@,Syracuse,REG (Conf),L 54-64,,7,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,1,0,1,0,0,0,0,0,3,1.3,A,0,1,john-newmaniii-1,John Newman III,2021
+20,85,22,2021-03-06,Clemson,,Pittsburgh,REG (Conf),W 77-62,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,1,2,2.3,H,1,1,john-newmaniii-1,John Newman III,2021
+21,86,23,2021-03-10,Clemson,N,Miami (FL),CTOURN,L 64-67,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,N,0,0,john-newmaniii-1,John Newman III,2021
+22,87,24,2021-03-19,Clemson,N,Rutgers,ROUND-64,L 56-60,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,0,0,john-newmaniii-1,John Newman III,2021

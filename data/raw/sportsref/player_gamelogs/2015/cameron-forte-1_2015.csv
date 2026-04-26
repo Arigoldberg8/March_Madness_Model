@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2014-11-14,Georgia,@,Georgia Tech,REG (Non-Conf),L 73-80,,4,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,2,1,3,0,1,1,0,1,5,7.0,A,0,1,cameron-forte-1,Cameron Forte,2015
+2,35,2,2014-11-18,Georgia,,Stony Brook,REG (Non-Conf),W 80-70,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,H,1,1,cameron-forte-1,Cameron Forte,2015
+3,36,3,2014-11-21,Georgia,,Troy,REG (Non-Conf),W 82-60,,2,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,1,0,1,0,2,1.3,H,1,1,cameron-forte-1,Cameron Forte,2015
+4,37,4,2014-11-23,Georgia,,Florida Atlantic,REG (Non-Conf),W 74-61,,3,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,0,0,0,0,0,1,0.9,H,1,1,cameron-forte-1,Cameron Forte,2015
+5,38,5,2014-11-26,Georgia,N,Gonzaga,REG (Non-Conf),L 76-88,,2,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,1,1,0,0,0,0,0,2,1.6,N,0,1,cameron-forte-1,Cameron Forte,2015
+6,39,6,2014-11-28,Georgia,N,Minnesota,REG (Non-Conf),L 62-66,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,0,1,cameron-forte-1,Cameron Forte,2015
+7,40,7,2014-12-02,Georgia,@,Chattanooga,REG (Non-Conf),W 86-55,,1,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,0,2,2.0,A,1,1,cameron-forte-1,Cameron Forte,2015
+8,41,8,2014-12-07,Georgia,,Colorado,REG (Non-Conf),W 64-57,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,cameron-forte-1,Cameron Forte,2015
+9,42,9,2014-12-21,Georgia,,Seton Hall,REG (Non-Conf),W 65-47,,3,0,0,,0,0,,0,0,,,0,2,0.0,1,0,1,0,0,0,0,0,0,-0.1,H,1,1,cameron-forte-1,Cameron Forte,2015
+10,43,12,2015-01-03,Georgia,,Norfolk State,REG (Non-Conf),W 63-50,,6,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,0,0,0,4,4.0,H,1,1,cameron-forte-1,Cameron Forte,2015
+11,44,13,2015-01-06,Georgia,,Arkansas,REG (Conf),L 75-79,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,cameron-forte-1,Cameron Forte,2015
+12,45,14,2015-01-10,Georgia,@,Louisiana State,REG (Conf),L 84-87 (2OT),,24,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,3,3,6,0,1,0,0,0,10,10.4,A,0,1,cameron-forte-1,Cameron Forte,2015
+13,46,15,2015-01-14,Georgia,@,Vanderbilt,REG (Conf),W 70-67,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,0,2,2,1.9,A,1,1,cameron-forte-1,Cameron Forte,2015
+14,47,16,2015-01-17,Georgia,,Florida,REG (Conf),W 73-61,,23,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,1,3,0,1,1,3,1,4,2.0,H,1,1,cameron-forte-1,Cameron Forte,2015
+15,48,17,2015-01-20,Georgia,,Ole Miss,REG (Conf),W 69-64,,20,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,2,1,3,2,2,0,1,0,9,11.1,H,1,1,cameron-forte-1,Cameron Forte,2015
+16,49,18,2015-01-24,Georgia,@,Mississippi State,REG (Conf),W 72-66,,20,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,1,0,1,1,0,0,1,0,5,4.0,A,1,1,cameron-forte-1,Cameron Forte,2015
+17,50,19,2015-01-27,Georgia,,Vanderbilt,REG (Conf),W 70-62,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,2,0,1,2,1,4,4.1,H,1,1,cameron-forte-1,Cameron Forte,2015
+18,51,20,2015-01-31,Georgia,@,South Carolina,REG (Conf),L 50-67,,8,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,0,1,0,0,0,0,0,1,-0.1,A,0,1,cameron-forte-1,Cameron Forte,2015
+19,52,21,2015-02-03,Georgia,@,Kentucky,REG (Conf),L 58-69,,12,0,0,,0,0,,0,0,,,1,3,0.333,0,1,1,1,0,0,1,3,1,-1.0,A,0,1,cameron-forte-1,Cameron Forte,2015
+20,53,22,2015-02-07,Georgia,,Tennessee,REG (Conf),W 56-53,,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,0,0,4,0,0,2,1,2,1.7,H,1,1,cameron-forte-1,Cameron Forte,2015
+21,54,23,2015-02-11,Georgia,@,Texas A&M,REG (Conf),W 62-53,,18,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,3,3,2,0,1,0,1,3,3.5,A,1,1,cameron-forte-1,Cameron Forte,2015
+22,55,24,2015-02-14,Georgia,,Auburn,REG (Conf),L 68-69,,16,3,7,0.429,0,0,,3,7,0.429,0.429,3,3,1.0,2,4,6,2,1,0,1,1,9,8.9,H,0,1,cameron-forte-1,Cameron Forte,2015
+23,56,25,2015-02-17,Georgia,,South Carolina,REG (Conf),L 58-64,*,28,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,2,4,6,0,0,0,0,2,8,6.5,H,0,1,cameron-forte-1,Cameron Forte,2015
+24,57,26,2015-02-21,Georgia,@,Alabama,REG (Conf),W 66-65 (OT),,22,3,6,0.5,0,0,,3,6,0.5,0.5,2,4,0.5,2,8,10,1,0,0,1,1,8,7.3,A,1,1,cameron-forte-1,Cameron Forte,2015
+25,58,27,2015-02-25,Georgia,@,Ole Miss,REG (Conf),W 76-72,,19,2,6,0.333,0,0,,2,6,0.333,0.333,0,1,0.0,4,4,8,2,1,0,2,2,4,3.8,A,1,1,cameron-forte-1,Cameron Forte,2015
+26,59,28,2015-02-28,Georgia,,Missouri,REG (Conf),W 68-44,,18,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,4,2,6,2,0,0,0,1,10,12.9,H,1,1,cameron-forte-1,Cameron Forte,2015
+27,60,29,2015-03-03,Georgia,,Kentucky,REG (Conf),L 64-72,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,0,1,2,1.6,H,0,1,cameron-forte-1,Cameron Forte,2015
+28,61,30,2015-03-07,Georgia,@,Auburn,REG (Conf),W 64-61,,26,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,4,4,1,0,0,2,1,0,-1.9,A,1,1,cameron-forte-1,Cameron Forte,2015
+29,62,31,2015-03-13,Georgia,N,South Carolina,CTOURN,W 74-62,,14,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,1,3,1,0,1,0,0,5,6.1,N,1,0,cameron-forte-1,Cameron Forte,2015
+30,63,32,2015-03-14,Georgia,N,Arkansas,CTOURN,L 49-60,,25,5,9,0.556,0,0,,5,9,0.556,0.556,3,5,0.6,2,2,4,0,1,2,2,1,13,9.9,N,0,0,cameron-forte-1,Cameron Forte,2015
+31,64,33,2015-03-20,Georgia,N,Michigan State,ROUND-64,L 63-70,,19,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,3,2,5,0,1,0,3,1,8,6.0,N,0,0,cameron-forte-1,Cameron Forte,2015

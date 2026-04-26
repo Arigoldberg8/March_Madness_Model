@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2011-11-11,Colorado State,,Montana,REG (Non-Conf),W 64-58,*,34,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,4,0.75,5,7,12,0,2,1,1,1,10,13.5,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+2,65,2,2011-11-14,Colorado State,N,SMU,REG (Non-Conf),W 75-56,*,32,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,4,2,6,3,0,2,1,2,6,9.5,N,1,1,pierce-hornung-1,Pierce Hornung,2012
+3,66,3,2011-11-15,Colorado State,@,Stanford,REG (Non-Conf),L 52-64,*,28,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,3,4,2,4,0,0,4,5,9.1,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+4,67,10,2011-12-19,Colorado State,,Texas Southern,REG (Non-Conf),W 85-61,,21,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,5,6,11,3,3,1,2,1,7,14.4,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+5,68,11,2011-12-22,Colorado State,@,Northern Colorado,REG (Non-Conf),W 92-78,,28,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,4,0.0,1,0,1,3,2,0,0,4,11,11.1,A,1,1,pierce-hornung-1,Pierce Hornung,2012
+6,69,12,2011-12-28,Colorado State,@,UTEP,REG (Non-Conf),W 56-53,,28,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,5,0.8,2,6,8,2,3,1,3,3,8,10.4,A,1,1,pierce-hornung-1,Pierce Hornung,2012
+7,70,13,2011-12-29,Colorado State,N,Jacksonville State,REG (Non-Conf),W 79-56,,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,5,7,12,2,2,1,1,4,6,11.5,N,1,1,pierce-hornung-1,Pierce Hornung,2012
+8,71,14,2012-01-07,Colorado State,,Omaha,REG (Non-Conf),W 87-63,,16,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,3,4,7,2,1,0,0,3,5,8.5,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+9,72,15,2012-01-11,Colorado State,,Denver,REG (Non-Conf),W 79-75,,20,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,1,3,1,1,0,0,5,6,5.8,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+10,73,16,2012-01-14,Colorado State,,TCU,REG (Conf),W 95-89 (2OT),,19,5,7,0.714,0,0,,5,7,0.714,0.714,1,3,0.333,1,5,6,4,2,0,2,5,11,10.3,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+11,74,17,2012-01-17,Colorado State,,Boise State,REG (Conf),W 66-55,,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,3,0.333,3,7,10,3,2,1,0,1,5,10.8,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+12,75,18,2012-01-21,Colorado State,@,Wyoming,REG (Conf),L 51-70,,29,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,2,5,7,0,0,1,0,3,10,8.4,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+13,76,19,2012-01-25,Colorado State,@,New Mexico,REG (Conf),L 52-85,*,30,4,4,1.0,1,1,1.0,3,3,1.0,1.125,1,2,0.5,2,5,7,0,4,0,1,4,10,12.7,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+14,77,20,2012-01-28,Colorado State,,San Diego State,REG (Conf),W 77-60,*,29,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,11,13,2,0,0,4,4,8,6.6,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+15,78,21,2012-02-01,Colorado State,@,UNLV,REG (Conf),L 63-82,*,31,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,2,1,0,3,5,4,0.3,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+16,79,22,2012-02-04,Colorado State,,Air Force,REG (Conf),W 67-49,*,32,8,10,0.8,0,1,0.0,8,9,0.889,0.8,7,10,0.7,9,8,17,2,2,1,1,1,23,29.4,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+17,80,23,2012-02-11,Colorado State,@,TCU,REG (Conf),L 71-75,*,35,6,7,0.857,0,0,,6,7,0.857,0.857,2,4,0.5,3,6,9,4,1,0,3,2,14,14.6,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+18,81,24,2012-02-15,Colorado State,@,Boise State,REG (Conf),L 69-70,*,29,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,3,0.667,6,5,11,1,1,0,3,1,2,3.5,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+19,82,25,2012-02-18,Colorado State,,Wyoming,REG (Conf),W 54-46,*,29,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,1,6,7,1,1,0,1,3,7,5.6,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+20,83,26,2012-02-21,Colorado State,,New Mexico,REG (Conf),W 71-63,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,3,6,0.5,5,10,15,0,4,0,3,3,13,13.8,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+21,84,27,2012-02-25,Colorado State,@,San Diego State,REG (Conf),L 66-74,*,26,5,12,0.417,0,0,,5,12,0.417,0.417,1,1,1.0,5,4,9,2,2,1,1,5,11,10.4,A,0,1,pierce-hornung-1,Pierce Hornung,2012
+22,85,28,2012-02-29,Colorado State,,UNLV,REG (Conf),W 66-59,*,21,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,5,3,8,0,4,2,0,1,6,11.7,H,1,1,pierce-hornung-1,Pierce Hornung,2012
+23,86,29,2012-03-03,Colorado State,@,Air Force,REG (Conf),W 75-65,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,2,1,3,2,1,0,3,5,6,3.1,A,1,1,pierce-hornung-1,Pierce Hornung,2012
+24,87,30,2012-03-08,Colorado State,N,TCU,CTOURN,W 81-60,*,30,8,11,0.727,0,0,,8,11,0.727,0.727,0,2,0.0,9,5,14,3,4,0,0,2,16,23.8,N,1,0,pierce-hornung-1,Pierce Hornung,2012
+25,88,31,2012-03-09,Colorado State,N,San Diego State,CTOURN,L 69-79,*,33,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,2,4,6,1,0,0,0,2,7,7.5,N,0,0,pierce-hornung-1,Pierce Hornung,2012
+26,89,32,2012-03-15,Colorado State,N,Murray State,ROUND-64,L 41-58,*,31,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,0,,7,10,17,0,2,0,3,5,12,14.4,N,0,0,pierce-hornung-1,Pierce Hornung,2012

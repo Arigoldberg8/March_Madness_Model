@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2011-11-11,NC State,,UNC Asheville,REG (Non-Conf),W 84-75,,33,2,12,0.167,1,6,0.167,1,6,0.167,0.208,4,6,0.667,1,4,5,1,1,0,5,2,9,-1.6,H,1,1,alex-johnson-1,Alex Johnson,2012
+2,34,2,2011-11-13,NC State,,Morehead State,REG (Non-Conf),W 91-61,,23,1,5,0.2,1,4,0.25,0,1,0.0,0.3,3,4,0.75,0,1,1,5,2,0,0,0,6,8.3,H,1,1,alex-johnson-1,Alex Johnson,2012
+3,35,3,2011-11-16,NC State,,Princeton,REG (Non-Conf),W 60-58,,37,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,1,2,3,4,2,0,3,3,5,3.5,H,1,1,alex-johnson-1,Alex Johnson,2012
+4,36,4,2011-11-19,NC State,N,Vanderbilt,REG (Non-Conf),L 79-86,,29,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,1,0,1,3,1,0,3,2,7,4.6,N,0,1,alex-johnson-1,Alex Johnson,2012
+5,37,5,2011-11-21,NC State,N,Texas,REG (Non-Conf),W 77-74,,20,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,0,0,2,0,0,2,1,5,3.0,N,1,1,alex-johnson-1,Alex Johnson,2012
+6,38,6,2011-11-25,NC State,,Elon,REG (Non-Conf),W 82-67,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,4,1,0,1,3,2,3.1,H,1,1,alex-johnson-1,Alex Johnson,2012
+7,39,7,2011-11-30,NC State,,Indiana,REG (Non-Conf),L 75-86,,10,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,0,1,1,2,0,0,1,0,4,2.3,H,0,1,alex-johnson-1,Alex Johnson,2012
+8,40,8,2011-12-04,NC State,@,Stanford,REG (Non-Conf),L 72-76,,15,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,1,1.0,1,1,2,2,0,0,2,2,5,-0.2,A,0,1,alex-johnson-1,Alex Johnson,2012
+9,41,9,2011-12-11,NC State,,North Carolina Central,REG (Non-Conf),W 65-60,,7,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,2,0,0,2,0,3,1.7,H,1,1,alex-johnson-1,Alex Johnson,2012
+10,42,10,2011-12-17,NC State,,Syracuse,REG (Non-Conf),L 72-88,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,H,0,1,alex-johnson-1,Alex Johnson,2012
+11,43,11,2011-12-20,NC State,N,St. Bonaventure,REG (Non-Conf),W 67-65,,26,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,1,0.0,0,3,3,7,1,0,0,3,9,12.6,N,1,1,alex-johnson-1,Alex Johnson,2012
+12,44,12,2011-12-22,NC State,,Northeastern,REG (Non-Conf),W 88-59,,17,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,0,1,1,2,0,0,1,1,9,7.0,H,1,1,alex-johnson-1,Alex Johnson,2012
+13,45,13,2011-12-29,NC State,,Campbell,REG (Non-Conf),W 87-81,,20,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,0,2,2,3,1,0,2,1,7,5.6,H,1,1,alex-johnson-1,Alex Johnson,2012
+14,46,14,2011-12-31,NC State,,Western Carolina,REG (Non-Conf),W 82-55,,18,1,2,0.5,1,2,0.5,0,0,,0.75,2,3,0.667,0,0,0,6,1,0,1,0,5,7.8,H,1,1,alex-johnson-1,Alex Johnson,2012
+15,47,15,2012-01-04,NC State,,Delaware State,REG (Non-Conf),W 78-44,,23,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,1,2,3,5,2,0,2,0,7,8.1,H,1,1,alex-johnson-1,Alex Johnson,2012
+16,48,16,2012-01-08,NC State,,Maryland,REG (Conf),W 79-74,,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,3,2,0,1,3,4,4.5,H,1,1,alex-johnson-1,Alex Johnson,2012
+17,49,17,2012-01-11,NC State,,Georgia Tech,REG (Conf),L 71-82,,18,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,3,3,3,0,0,1,3,4,2.7,H,0,1,alex-johnson-1,Alex Johnson,2012
+18,50,18,2012-01-14,NC State,@,Wake Forest,REG (Conf),W 76-40,,22,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,3,3,4,2,0,1,2,3,4.5,A,1,1,alex-johnson-1,Alex Johnson,2012
+19,51,19,2012-01-19,NC State,,Boston College,REG (Conf),W 76-62,,21,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,3,3,2,1,0,2,0,4,2.6,H,1,1,alex-johnson-1,Alex Johnson,2012
+20,52,20,2012-01-22,NC State,@,Miami (FL),REG (Conf),W 78-73,,17,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,2,2,0,3,0,4,4.7,A,1,1,alex-johnson-1,Alex Johnson,2012
+21,53,21,2012-01-26,NC State,@,North Carolina,REG (Conf),L 55-74,,18,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,2,0,3,0,3,1.3,A,0,1,alex-johnson-1,Alex Johnson,2012
+22,54,22,2012-01-28,NC State,,Virginia,REG (Conf),L 60-61,,15,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,2,0,1,1,0,-0.9,H,0,1,alex-johnson-1,Alex Johnson,2012
+23,55,23,2012-02-01,NC State,@,Boston College,REG (Conf),W 56-51,,14,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,3,1,0,0,0,0,1.3,A,1,1,alex-johnson-1,Alex Johnson,2012
+24,56,24,2012-02-04,NC State,,Wake Forest,REG (Conf),W 87-76,,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,5,0,0,1,0,0,2.1,H,1,1,alex-johnson-1,Alex Johnson,2012
+25,57,25,2012-02-09,NC State,@,Georgia Tech,REG (Conf),W 61-52,,18,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,2,0,0,2,0,5,4.1,A,1,1,alex-johnson-1,Alex Johnson,2012
+26,58,26,2012-02-16,NC State,@,Duke,REG (Conf),L 73-78,,33,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,0,3,3,4,0,0,1,3,13,10.9,A,0,1,alex-johnson-1,Alex Johnson,2012
+27,59,27,2012-02-18,NC State,,Florida State,REG (Conf),L 62-76,,18,0,5,0.0,0,1,0.0,0,4,0.0,0.0,2,2,1.0,0,1,1,4,1,0,2,2,2,-0.2,H,0,1,alex-johnson-1,Alex Johnson,2012
+28,60,28,2012-02-21,NC State,,North Carolina,REG (Conf),L 74-86,,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,2,2,0,0,0,5,6.4,H,0,1,alex-johnson-1,Alex Johnson,2012
+29,61,29,2012-02-25,NC State,@,Clemson,REG (Conf),L 69-72 (OT),,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,1,2,0,0,2,5,5.6,A,0,1,alex-johnson-1,Alex Johnson,2012
+30,62,30,2012-02-29,NC State,,Miami (FL),REG (Conf),W 77-73,,28,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,1,1,8,0,0,0,1,5,7.4,H,1,1,alex-johnson-1,Alex Johnson,2012
+31,63,31,2012-03-04,NC State,@,Virginia Tech,REG (Conf),W 70-58,,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,0,2,2,1,0,0,2,4,5,1.3,A,1,1,alex-johnson-1,Alex Johnson,2012
+32,64,32,2012-03-08,NC State,N,Boston College,CTOURN,W 78-57,,17,1,5,0.2,1,5,0.2,0,0,,0.3,1,2,0.5,0,1,1,2,1,0,2,0,4,1.2,N,1,0,alex-johnson-1,Alex Johnson,2012
+33,65,33,2012-03-09,NC State,N,Virginia,CTOURN,W 67-64,,16,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,3,0,0,2,0,5,2.0,N,1,0,alex-johnson-1,Alex Johnson,2012
+34,66,34,2012-03-10,NC State,N,North Carolina,CTOURN,L 67-69,,28,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,1,0.0,0,3,3,2,1,0,4,0,8,3.9,N,0,0,alex-johnson-1,Alex Johnson,2012
+35,67,35,2012-03-16,NC State,N,San Diego State,ROUND-64,W 79-65,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,1,0,0,-1.5,N,1,0,alex-johnson-1,Alex Johnson,2012
+36,68,36,2012-03-18,NC State,N,Georgetown,ROUND-32,W 66-63,,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,1,0,-2.5,N,1,0,alex-johnson-1,Alex Johnson,2012
+37,69,37,2012-03-23,NC State,N,Kansas,ROUND-16,L 57-60,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,2,0,0,-2.0,N,0,0,alex-johnson-1,Alex Johnson,2012

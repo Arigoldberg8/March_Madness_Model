@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,112,1,2010-11-12,West Virginia,,Oakland,REG (Non-Conf),W 95-71,,21,5,6,0.833,0,1,0.0,5,5,1.0,0.833,5,6,0.833,0,5,5,7,2,0,0,4,15,19.2,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+2,113,2,2010-11-18,West Virginia,N,Davidson,REG (Non-Conf),W 84-70,,25,1,1,1.0,0,0,,1,1,1.0,1.0,6,12,0.5,1,4,5,2,1,0,2,2,8,6.8,N,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+3,114,3,2010-11-19,West Virginia,N,Vanderbilt,REG (Non-Conf),W 74-71,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,1,0,0,0,2,1,-0.3,N,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+4,115,4,2010-11-21,West Virginia,N,Minnesota,REG (Non-Conf),L 70-74,,31,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,1,0,1,10,0,1,1,1,2,6.5,N,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+5,116,5,2010-11-27,West Virginia,N,VMI,REG (Non-Conf),W 82-66,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,0,3,3,4,0,0,1,2,6,5.2,N,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+6,117,6,2010-12-01,West Virginia,,American,REG (Non-Conf),W 71-50,,17,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,0,0,2,0,0,2,1,2,-1.4,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+7,118,7,2010-12-04,West Virginia,@,Miami (FL),REG (Non-Conf),L 76-79,,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,2,3,3,2,0,2,2,4,5.3,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+8,119,8,2010-12-07,West Virginia,,Robert Morris,REG (Non-Conf),W 82-49,,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,3,4,3,0,0,3,4,6,4.2,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+9,120,9,2010-12-12,West Virginia,N,Duquesne,REG (Non-Conf),W 64-61,,23,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,0,1,1,1,0,0,2,3,5,1.5,N,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+10,121,10,2010-12-18,West Virginia,,Cleveland State,REG (Non-Conf),W 74-63,,20,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,5,0.6,1,0,1,3,1,0,0,3,8,8.5,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+11,122,11,2010-12-29,West Virginia,,St. John's (NY),REG (Conf),L 71-81,,34,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,4,5,3,2,0,1,3,4,6.1,H,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+12,123,12,2011-01-01,West Virginia,@,Marquette,REG (Conf),L 74-79,,27,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,2,2,5,0,0,0,1,4,4.3,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+13,124,13,2011-01-04,West Virginia,@,DePaul,REG (Conf),W 67-65,,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,1,1,2,4,1,0,3,4,6,2.0,A,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+14,125,14,2011-01-08,West Virginia,@,Georgetown,REG (Conf),W 65-59,,30,0,0,,0,0,,0,0,,,5,6,0.833,1,1,2,3,2,0,2,2,5,6.9,A,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+15,126,15,2011-01-13,West Virginia,,Providence,REG (Conf),W 93-63,,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,0,4,4,2,1,0,0,1,4,4.1,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+16,127,16,2011-01-16,West Virginia,,Purdue,REG (Non-Conf),W 68-64,,26,3,7,0.429,0,0,,3,7,0.429,0.429,4,10,0.4,0,4,4,4,2,0,1,0,10,8.9,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+17,128,17,2011-01-19,West Virginia,N,Marshall,REG (Non-Conf),L 71-75,,33,2,7,0.286,0,3,0.0,2,4,0.5,0.286,6,7,0.857,4,4,8,0,0,0,1,4,10,6.9,N,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+18,129,18,2011-01-23,West Virginia,,South Florida,REG (Conf),W 56-46,,13,0,0,,0,0,,0,0,,,3,4,0.75,0,0,0,1,1,0,1,2,3,2.5,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+19,130,19,2011-01-26,West Virginia,@,Louisville,REG (Conf),L 54-55,*,38,8,12,0.667,2,3,0.667,6,9,0.667,0.75,0,0,,0,5,5,1,1,0,4,2,18,11.2,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+20,131,20,2011-01-29,West Virginia,@,Cincinnati,REG (Conf),W 66-55,*,37,3,8,0.375,0,1,0.0,3,7,0.429,0.375,10,12,0.833,2,5,7,8,2,0,4,3,16,16.1,A,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+21,132,21,2011-02-02,West Virginia,,Seton Hall,REG (Conf),W 56-44,*,36,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,3,7,10,5,0,0,5,2,4,2.4,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+22,133,22,2011-02-05,West Virginia,@,Villanova,REG (Conf),L 50-66,*,34,0,4,0.0,0,0,,0,4,0.0,0.0,0,1,0.0,0,5,5,7,1,1,1,3,0,2.7,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+23,134,23,2011-02-07,West Virginia,,Pittsburgh,REG (Conf),L 66-71,*,29,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,4,4,2,1,0,0,4,4,4.3,H,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+24,135,24,2011-02-12,West Virginia,,DePaul,REG (Conf),W 82-71,*,31,3,4,0.75,0,0,,3,4,0.75,0.75,6,6,1.0,0,6,6,6,1,0,2,0,12,15.4,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+25,136,25,2011-02-14,West Virginia,@,Syracuse,REG (Conf),L 52-63,*,31,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,4,4,7,0,0,2,2,2,3.9,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+26,137,26,2011-02-19,West Virginia,,Notre Dame,REG (Conf),W 72-58,*,40,6,10,0.6,1,2,0.5,5,8,0.625,0.65,3,7,0.429,0,5,5,7,0,0,1,1,16,14.8,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+27,138,27,2011-02-24,West Virginia,@,Pittsburgh,REG (Conf),L 58-71,*,34,3,7,0.429,0,0,,3,7,0.429,0.429,3,6,0.5,2,4,6,3,1,0,1,1,9,8.4,A,0,1,joe-mazzulla-1,Joe Mazzulla,2011
+28,139,28,2011-02-27,West Virginia,@,Rutgers,REG (Conf),W 65-54,*,32,1,3,0.333,0,0,,1,3,0.333,0.333,5,8,0.625,0,4,4,9,0,0,2,3,7,8.4,A,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+29,140,29,2011-03-02,West Virginia,,Connecticut,REG (Conf),W 65-56,*,39,7,10,0.7,2,2,1.0,5,8,0.625,0.8,2,4,0.5,0,4,4,5,1,0,1,2,18,16.9,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+30,141,30,2011-03-05,West Virginia,,Louisville,REG (Conf),W 72-70,*,35,0,4,0.0,0,1,0.0,0,3,0.0,0.0,5,8,0.625,0,5,5,5,2,0,5,5,5,1.0,H,1,1,joe-mazzulla-1,Joe Mazzulla,2011
+31,142,31,2011-03-09,West Virginia,N,Marquette,CTOURN,L 61-67,*,40,3,7,0.429,2,3,0.667,1,4,0.25,0.571,0,0,,0,3,3,5,1,0,6,2,8,2.9,N,0,0,joe-mazzulla-1,Joe Mazzulla,2011
+32,143,32,2011-03-17,West Virginia,N,Clemson,ROUND-64,W 84-76,*,33,1,5,0.2,0,0,,1,5,0.2,0.2,10,12,0.833,0,4,4,7,0,1,3,4,12,10.3,N,1,0,joe-mazzulla-1,Joe Mazzulla,2011
+33,144,33,2011-03-19,West Virginia,N,Kentucky,ROUND-32,L 63-71,*,37,7,12,0.583,1,3,0.333,6,9,0.667,0.625,5,7,0.714,1,2,3,4,1,1,3,4,20,14.8,N,0,0,joe-mazzulla-1,Joe Mazzulla,2011

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2018-11-06,Seton Hall,,Wagner,REG (Non-Conf),W 89-49,*,24,10,13,0.769,5,7,0.714,5,6,0.833,0.962,5,5,1.0,0,3,3,3,2,0,2,2,30,27.1,H,1,1,myles-powell-1,Myles Powell,2019
+2,69,2,2018-11-14,Seton Hall,@,Nebraska,REG (Non-Conf),L 57-80,*,38,7,21,0.333,1,9,0.111,6,12,0.5,0.357,9,9,1.0,1,2,3,0,0,0,1,2,24,11.6,A,0,1,myles-powell-1,Myles Powell,2019
+3,70,3,2018-11-17,Seton Hall,,Saint Louis,REG (Non-Conf),L 64-66,*,37,4,13,0.308,2,7,0.286,2,6,0.333,0.385,6,7,0.857,0,1,1,0,4,0,4,4,16,6.8,H,0,1,myles-powell-1,Myles Powell,2019
+4,71,4,2018-11-22,Seton Hall,N,Grand Canyon,REG (Non-Conf),W 82-75,*,38,12,16,0.75,5,7,0.714,7,9,0.778,0.906,11,14,0.786,0,7,7,4,2,0,1,0,40,38.3,N,1,1,myles-powell-1,Myles Powell,2019
+5,72,5,2018-11-23,Seton Hall,N,Hawaii,REG (Non-Conf),W 64-54,*,38,6,13,0.462,3,8,0.375,3,5,0.6,0.577,4,4,1.0,0,4,4,3,1,0,3,1,19,13.2,N,1,1,myles-powell-1,Myles Powell,2019
+6,73,6,2018-11-25,Seton Hall,N,Miami (FL),REG (Non-Conf),W 83-81,*,37,6,15,0.4,4,12,0.333,2,3,0.667,0.533,1,1,1.0,1,2,3,2,0,0,4,2,17,6.8,N,1,1,myles-powell-1,Myles Powell,2019
+7,74,7,2018-12-01,Seton Hall,,Louisville,REG (Non-Conf),L 65-70,*,38,6,19,0.316,2,12,0.167,4,7,0.571,0.368,9,11,0.818,0,4,4,2,4,0,1,2,23,16.1,H,0,1,myles-powell-1,Myles Powell,2019
+8,75,8,2018-12-04,Seton Hall,,New Hampshire,REG (Non-Conf),W 77-57,*,28,3,9,0.333,2,6,0.333,1,3,0.333,0.444,2,2,1.0,0,3,3,4,1,1,2,3,10,7.1,H,1,1,myles-powell-1,Myles Powell,2019
+9,76,9,2018-12-08,Seton Hall,N,Kentucky,REG (Non-Conf),W 84-83 (OT),*,43,9,16,0.563,6,11,0.545,3,5,0.6,0.75,4,8,0.5,0,1,1,4,1,0,4,1,28,18.5,N,1,1,myles-powell-1,Myles Powell,2019
+10,77,10,2018-12-15,Seton Hall,,Rutgers,REG (Non-Conf),W 72-66,*,37,8,17,0.471,6,13,0.462,2,4,0.5,0.647,6,6,1.0,0,3,3,2,3,0,2,1,28,22.2,H,1,1,myles-powell-1,Myles Powell,2019
+11,78,11,2018-12-19,Seton Hall,,Sacred Heart,REG (Non-Conf),W 90-76,*,25,7,14,0.5,1,5,0.2,6,9,0.667,0.536,0,0,,0,4,4,3,4,1,3,1,15,12.6,H,1,1,myles-powell-1,Myles Powell,2019
+12,79,12,2018-12-22,Seton Hall,@,Maryland,REG (Non-Conf),W 78-74,*,37,8,14,0.571,3,8,0.375,5,6,0.833,0.679,8,8,1.0,0,2,2,2,2,0,1,3,27,22.2,A,1,1,myles-powell-1,Myles Powell,2019
+13,80,13,2018-12-29,Seton Hall,,St. John's (NY),REG (Conf),W 76-74,*,39,5,15,0.333,1,4,0.25,4,11,0.364,0.367,4,4,1.0,2,2,4,1,0,2,5,1,15,5.2,H,1,1,myles-powell-1,Myles Powell,2019
+14,81,14,2019-01-02,Seton Hall,@,Xavier,REG (Conf),W 80-70,*,37,9,15,0.6,3,7,0.429,6,8,0.75,0.7,4,6,0.667,2,4,6,8,1,0,3,4,25,21.9,A,1,1,myles-powell-1,Myles Powell,2019
+15,82,15,2019-01-06,Seton Hall,@,DePaul,REG (Conf),L 74-75,*,36,4,13,0.308,2,8,0.25,2,5,0.4,0.385,6,6,1.0,1,3,4,3,2,0,1,4,16,11.6,A,0,1,myles-powell-1,Myles Powell,2019
+16,83,16,2019-01-09,Seton Hall,,Butler,REG (Conf),W 76-75,*,38,8,15,0.533,2,8,0.25,6,7,0.857,0.6,13,15,0.867,1,2,3,1,1,0,2,2,31,23.1,H,1,1,myles-powell-1,Myles Powell,2019
+17,84,17,2019-01-12,Seton Hall,@,Marquette,REG (Conf),L 66-70,*,36,8,19,0.421,3,9,0.333,5,10,0.5,0.5,2,3,0.667,1,8,9,3,2,0,5,3,21,11.5,A,0,1,myles-powell-1,Myles Powell,2019
+18,85,18,2019-01-15,Seton Hall,@,Providence,REG (Conf),L 63-72,*,36,4,15,0.267,1,6,0.167,3,9,0.333,0.3,3,3,1.0,1,1,2,2,2,0,4,4,12,1.9,A,0,1,myles-powell-1,Myles Powell,2019
+19,86,19,2019-01-19,Seton Hall,,DePaul,REG (Conf),L 93-97,*,37,7,16,0.438,4,9,0.444,3,7,0.429,0.563,6,9,0.667,1,1,2,6,3,0,3,1,24,19.2,H,0,1,myles-powell-1,Myles Powell,2019
+20,87,20,2019-01-27,Seton Hall,@,Villanova,REG (Conf),L 52-80,*,26,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,0,1,1,0,0,0,7,1,3,-7.6,A,0,1,myles-powell-1,Myles Powell,2019
+21,88,21,2019-01-30,Seton Hall,,Providence,REG (Conf),W 65-63,*,38,12,23,0.522,3,7,0.429,9,16,0.563,0.587,4,5,0.8,0,4,4,2,4,0,5,2,31,20.1,H,1,1,myles-powell-1,Myles Powell,2019
+22,89,22,2019-02-02,Seton Hall,@,Butler,REG (Conf),L 68-70,*,33,8,18,0.444,4,10,0.4,4,8,0.5,0.556,1,1,1.0,0,4,4,3,2,0,1,2,21,15.1,A,0,1,myles-powell-1,Myles Powell,2019
+23,90,23,2019-02-09,Seton Hall,,Creighton,REG (Conf),W 63-58,*,33,5,14,0.357,2,9,0.222,3,5,0.6,0.429,10,10,1.0,1,6,7,1,4,1,4,4,22,16.5,H,1,1,myles-powell-1,Myles Powell,2019
+24,91,24,2019-02-13,Seton Hall,,Georgetown,REG (Conf),W 90-75,*,35,8,20,0.4,4,12,0.333,4,8,0.5,0.5,10,10,1.0,3,2,5,2,1,0,2,3,30,21.1,H,1,1,myles-powell-1,Myles Powell,2019
+25,92,25,2019-02-17,Seton Hall,@,Creighton,REG (Conf),W 81-75,*,38,5,12,0.417,5,10,0.5,0,2,0.0,0.625,4,4,1.0,0,6,6,4,3,1,6,3,19,13.7,A,1,1,myles-powell-1,Myles Powell,2019
+26,93,26,2019-02-20,Seton Hall,,Xavier,REG (Conf),L 69-70,*,40,6,16,0.375,2,7,0.286,4,9,0.444,0.438,3,5,0.6,2,6,8,2,4,0,1,0,17,15.0,H,0,1,myles-powell-1,Myles Powell,2019
+27,94,27,2019-02-23,Seton Hall,@,St. John's (NY),REG (Conf),L 70-78,*,37,9,21,0.429,2,8,0.25,7,13,0.538,0.476,6,7,0.857,1,2,3,3,2,0,6,3,26,12.7,A,0,1,myles-powell-1,Myles Powell,2019
+28,95,28,2019-03-02,Seton Hall,@,Georgetown,REG (Conf),L 71-77 (2OT),*,45,14,27,0.519,4,12,0.333,10,15,0.667,0.593,3,4,0.75,2,3,5,2,1,0,5,3,35,19.8,A,0,1,myles-powell-1,Myles Powell,2019
+29,96,29,2019-03-06,Seton Hall,,Marquette,REG (Conf),W 73-64,*,38,11,25,0.44,4,11,0.364,7,14,0.5,0.52,8,9,0.889,1,4,5,5,0,0,1,2,34,24.1,H,1,1,myles-powell-1,Myles Powell,2019
+30,97,30,2019-03-09,Seton Hall,,Villanova,REG (Conf),W 79-75,*,37,5,14,0.357,4,10,0.4,1,4,0.25,0.5,6,8,0.75,2,5,7,5,3,0,2,3,20,17.6,H,1,1,myles-powell-1,Myles Powell,2019
+31,98,31,2019-03-14,Seton Hall,N,Georgetown,CTOURN,W 73-57,*,34,11,21,0.524,4,10,0.4,7,11,0.636,0.619,5,7,0.714,1,2,3,3,4,0,3,3,31,23.1,N,1,0,myles-powell-1,Myles Powell,2019
+32,99,32,2019-03-15,Seton Hall,N,Marquette,CTOURN,W 81-79,*,37,7,16,0.438,5,10,0.5,2,6,0.333,0.594,3,5,0.6,1,1,2,7,1,0,3,4,22,15.1,N,1,0,myles-powell-1,Myles Powell,2019
+33,100,33,2019-03-16,Seton Hall,N,Villanova,CTOURN,L 72-74,*,38,9,19,0.474,4,9,0.444,5,10,0.5,0.579,3,3,1.0,1,4,5,4,3,0,1,1,25,21.6,N,0,0,myles-powell-1,Myles Powell,2019
+34,101,34,2019-03-21,Seton Hall,N,Wofford,ROUND-64,L 68-84,*,37,10,25,0.4,4,11,0.364,6,14,0.429,0.48,3,5,0.6,0,3,3,3,1,0,3,1,27,13.3,N,0,0,myles-powell-1,Myles Powell,2019

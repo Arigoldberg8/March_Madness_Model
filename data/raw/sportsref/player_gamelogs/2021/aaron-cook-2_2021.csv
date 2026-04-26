@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,3,1,0,0,0,2,4.1,N,1,1,aaron-cook-2,Aaron Cook,2021
+2,105,2,2020-11-27,Gonzaga,N,Auburn,REG (Non-Conf),W 90-67,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,3,0.333,1,3,4,3,1,1,0,2,5,6.8,N,1,1,aaron-cook-2,Aaron Cook,2021
+3,106,3,2020-12-02,Gonzaga,N,West Virginia,REG (Non-Conf),W 87-82,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,0,3,0,-0.9,N,1,1,aaron-cook-2,Aaron Cook,2021
+4,107,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,,19,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,2,0.5,2,1,3,2,1,0,1,0,9,9.4,N,1,1,aaron-cook-2,Aaron Cook,2021
+5,108,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,2,0,2,0,0,0,2,1,2,-0.7,H,1,1,aaron-cook-2,Aaron Cook,2021
+6,109,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,2,1,0,1,2,2.6,H,1,1,aaron-cook-2,Aaron Cook,2021
+7,110,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,,13,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,1,2,1,1,0,1,4,6,4.8,N,1,1,aaron-cook-2,Aaron Cook,2021
+8,111,8,2020-12-28,Gonzaga,,Northern Arizona,REG (Non-Conf),W 88-58,,16,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,2,2,1,1,0,2,2,7,2.1,H,1,1,aaron-cook-2,Aaron Cook,2021
+9,112,9,2020-12-29,Gonzaga,,Dixie State,REG (Non-Conf),W 112-67,,11,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,3,1,0,2,1,4,4.0,H,1,1,aaron-cook-2,Aaron Cook,2021
+10,113,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,1,0.0,0,1,1,1,1,0,2,2,0,-1.9,A,1,1,aaron-cook-2,Aaron Cook,2021
+11,114,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,3,0,0,4,1,2,-1.4,H,1,1,aaron-cook-2,Aaron Cook,2021
+12,115,14,2021-01-16,Gonzaga,@,St. Mary's (CA),REG (Conf),W 73-59,,15,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,2,0.5,0,3,3,1,1,0,1,1,8,7.2,A,1,1,aaron-cook-2,Aaron Cook,2021
+13,116,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,,11,0,1,0.0,0,0,,0,1,0.0,0.0,2,4,0.5,0,2,2,1,1,0,0,1,2,2.4,H,1,1,aaron-cook-2,Aaron Cook,2021
+14,117,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,,10,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,2,1,0,0,1,1,3.2,A,1,1,aaron-cook-2,Aaron Cook,2021
+15,118,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,,21,6,8,0.75,2,3,0.667,4,5,0.8,0.875,1,2,0.5,0,1,1,2,3,1,0,2,15,16.0,A,1,1,aaron-cook-2,Aaron Cook,2021
+16,119,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,1,1,2,0,0,0,1,6,5.3,A,1,1,aaron-cook-2,Aaron Cook,2021
+17,120,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,aaron-cook-2,Aaron Cook,2021
+18,121,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,,14,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,3,1.0,0,0,0,4,3,0,1,1,12,14.5,A,1,1,aaron-cook-2,Aaron Cook,2021
+19,122,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,,16,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,0,0,0,1,2,0,1,1,4,3.2,H,1,1,aaron-cook-2,Aaron Cook,2021
+20,123,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,3,0.667,0,6,6,0,3,0,2,2,6,5.6,H,1,1,aaron-cook-2,Aaron Cook,2021
+21,124,23,2021-02-25,Gonzaga,,Santa Clara,REG (Conf),W 89-75,,13,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,5,0.8,0,1,1,2,0,0,3,1,10,5.6,H,1,1,aaron-cook-2,Aaron Cook,2021
+22,125,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,*,11,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,2,0,1,2,3,2.9,H,1,1,aaron-cook-2,Aaron Cook,2021
+23,126,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,,20,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,1,0,0,1,4,0,-3.0,N,1,0,aaron-cook-2,Aaron Cook,2021
+24,127,26,2021-03-09,Gonzaga,N,Brigham Young,CTOURN,W 88-78,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,N,1,0,aaron-cook-2,Aaron Cook,2021
+25,128,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,,21,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,1,1,7,1,0,3,2,6,7.1,N,1,0,aaron-cook-2,Aaron Cook,2021
+26,129,28,2021-03-22,Gonzaga,N,Oklahoma,ROUND-32,W 87-71,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,0,0,1,0,2,1.0,N,1,0,aaron-cook-2,Aaron Cook,2021
+27,130,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,,11,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,1,0,0,1,0,3,1.6,N,1,0,aaron-cook-2,Aaron Cook,2021
+28,131,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,,10,2,2,1.0,2,2,1.0,0,0,,1.5,2,2,1.0,0,2,2,0,0,1,1,0,8,7.7,N,1,0,aaron-cook-2,Aaron Cook,2021
+29,132,31,2021-04-03,Gonzaga,N,UCLA,NATIONAL-SEMI,W 93-90 (OT),,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,3,0,0,1,0,2,2.4,N,1,0,aaron-cook-2,Aaron Cook,2021
+30,133,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,,10,0,0,,0,0,,0,0,,,0,0,,0,2,2,2,0,0,3,0,0,-1.0,N,0,0,aaron-cook-2,Aaron Cook,2021

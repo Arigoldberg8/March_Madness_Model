@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,1,2018-11-09,Kansas State,,Kennesaw State,REG (Non-Conf),W 56-41,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,1,0.0,0,2,2,5,3,0,4,2,2,0.1,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+2,88,2,2018-11-12,Kansas State,,Denver,REG (Non-Conf),W 64-56,*,29,1,8,0.125,1,6,0.167,0,2,0.0,0.188,3,4,0.75,0,4,4,3,3,0,2,2,6,3.9,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+3,89,3,2018-11-16,Kansas State,N,Eastern Kentucky,REG (Non-Conf),W 95-68,*,28,3,6,0.5,0,3,0.0,3,3,1.0,0.5,4,5,0.8,1,2,3,5,1,0,3,1,10,9.0,N,1,1,kamau-stokes-1,Kamau Stokes,2019
+4,90,4,2018-11-18,Kansas State,N,Pennsylvania,REG (Non-Conf),W 64-48,*,38,6,11,0.545,2,3,0.667,4,8,0.5,0.636,2,2,1.0,0,2,2,2,0,0,0,3,16,11.5,N,1,1,kamau-stokes-1,Kamau Stokes,2019
+5,91,5,2018-11-19,Kansas State,N,Missouri,REG (Non-Conf),W 82-67,*,28,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,0,1,1,3,1,0,1,3,10,6.5,N,1,1,kamau-stokes-1,Kamau Stokes,2019
+6,92,6,2018-11-24,Kansas State,,Lehigh,REG (Non-Conf),W 77-58,*,35,4,10,0.4,2,5,0.4,2,5,0.4,0.5,0,0,,0,3,3,2,1,0,1,1,10,6.5,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+7,93,7,2018-12-01,Kansas State,@,Marquette,REG (Non-Conf),L 71-83,*,31,3,10,0.3,2,7,0.286,1,3,0.333,0.4,2,2,1.0,0,2,2,3,0,0,1,4,10,4.3,A,0,1,kamau-stokes-1,Kamau Stokes,2019
+8,94,8,2018-12-08,Kansas State,@,Tulsa,REG (Non-Conf),L 46-47,*,38,1,12,0.083,0,4,0.0,1,8,0.125,0.083,2,2,1.0,1,4,5,4,1,0,2,0,4,-0.3,A,0,1,kamau-stokes-1,Kamau Stokes,2019
+9,95,9,2018-12-15,Kansas State,,Georgia State,REG (Non-Conf),W 71-59,*,29,5,9,0.556,4,6,0.667,1,3,0.333,0.778,1,1,1.0,0,5,5,4,4,0,3,1,15,15.6,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+10,96,10,2018-12-19,Kansas State,,Southern Mississippi,REG (Non-Conf),W 55-51,*,37,6,8,0.75,4,6,0.667,2,2,1.0,1.0,2,4,0.5,0,2,2,0,1,0,4,1,18,11.2,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+11,97,11,2018-12-22,Kansas State,N,Vanderbilt,REG (Non-Conf),W 69-58,*,35,2,8,0.25,0,4,0.0,2,4,0.5,0.25,8,12,0.667,0,2,2,5,0,0,4,2,12,4.9,N,1,1,kamau-stokes-1,Kamau Stokes,2019
+12,98,12,2018-12-29,Kansas State,,George Mason,REG (Non-Conf),W 59-58,*,35,7,13,0.538,5,7,0.714,2,6,0.333,0.731,1,2,0.5,0,4,4,3,1,0,3,2,20,13.8,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+13,99,14,2019-01-05,Kansas State,@,Texas Tech,REG (Conf),L 57-63,,21,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,1,0.0,1,0,1,2,0,0,1,1,7,2.9,A,0,1,kamau-stokes-1,Kamau Stokes,2019
+14,100,15,2019-01-09,Kansas State,,West Virginia,REG (Conf),W 71-69,*,27,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,0,1,1,6,3,0,0,2,12,12.3,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+15,101,16,2019-01-12,Kansas State,@,Iowa State,REG (Conf),W 58-57,*,29,3,13,0.231,3,9,0.333,0,4,0.0,0.346,3,3,1.0,1,1,2,4,0,0,1,0,12,6.9,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+16,102,17,2019-01-16,Kansas State,@,Oklahoma,REG (Conf),W 74-61,*,30,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,2,2,4,1,0,2,2,6,3.5,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+17,103,18,2019-01-19,Kansas State,,TCU,REG (Conf),W 65-55,*,34,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,2,2,4,3,3,1,1,2,8,10.3,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+18,104,19,2019-01-22,Kansas State,,Texas Tech,REG (Conf),W 58-45,*,31,1,6,0.167,1,2,0.5,0,4,0.0,0.25,5,5,1.0,0,3,3,3,1,0,2,3,8,5.0,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+19,105,20,2019-01-26,Kansas State,@,Texas A&M,REG (Non-Conf),L 53-65,*,35,3,11,0.273,2,9,0.222,1,2,0.5,0.364,0,0,,0,2,2,6,1,1,1,2,8,6.2,A,0,1,kamau-stokes-1,Kamau Stokes,2019
+20,106,21,2019-02-02,Kansas State,@,Oklahoma State,REG (Conf),W 75-57,*,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,2,2,4,3,0,0,2,3,3,2.2,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+21,107,22,2019-02-05,Kansas State,,Kansas,REG (Conf),W 74-67,*,37,3,9,0.333,2,7,0.286,1,2,0.5,0.444,1,3,0.333,1,2,3,4,3,0,2,0,9,8.2,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+22,108,23,2019-02-09,Kansas State,@,Baylor,REG (Conf),W 70-63,*,36,5,10,0.5,3,6,0.5,2,4,0.5,0.65,7,7,1.0,0,6,6,4,1,0,2,0,20,18.6,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+23,109,24,2019-02-12,Kansas State,@,Texas,REG (Conf),W 71-64,*,33,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,0,1,1,2,1,0,2,3,11,7.2,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+24,110,25,2019-02-16,Kansas State,,Iowa State,REG (Conf),L 64-78,*,29,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,4,0.5,0,1,1,0,2,0,1,4,7,1.1,H,0,1,kamau-stokes-1,Kamau Stokes,2019
+25,111,26,2019-02-18,Kansas State,@,West Virginia,REG (Conf),W 65-51,*,36,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,2,2,3,1,0,3,1,7,2.2,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+26,112,27,2019-02-23,Kansas State,,Oklahoma State,REG (Conf),W 85-46,*,18,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,4,4,2,0,0,2,1,11,8.6,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+27,113,28,2019-02-25,Kansas State,@,Kansas,REG (Conf),L 49-64,*,35,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,1,3,4,4,0,0,1,0,12,10.4,A,0,1,kamau-stokes-1,Kamau Stokes,2019
+28,114,29,2019-03-02,Kansas State,,Baylor,REG (Conf),W 66-60,*,33,6,12,0.5,2,6,0.333,4,6,0.667,0.583,2,3,0.667,0,4,4,5,1,1,1,3,16,13.8,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+29,115,30,2019-03-04,Kansas State,@,TCU,REG (Conf),W 64-52,*,35,4,13,0.308,3,7,0.429,1,6,0.167,0.423,4,5,0.8,2,3,5,2,0,1,1,3,15,9.3,A,1,1,kamau-stokes-1,Kamau Stokes,2019
+30,116,31,2019-03-09,Kansas State,,Oklahoma,REG (Conf),W 68-53,*,34,7,15,0.467,4,10,0.4,3,5,0.6,0.6,1,2,0.5,0,2,2,6,1,0,0,1,19,16.3,H,1,1,kamau-stokes-1,Kamau Stokes,2019
+31,117,32,2019-03-14,Kansas State,N,TCU,CTOURN,W 70-61,*,36,4,13,0.308,2,7,0.286,2,6,0.333,0.385,1,2,0.5,0,3,3,2,2,1,0,2,11,7.3,N,1,0,kamau-stokes-1,Kamau Stokes,2019
+32,118,33,2019-03-15,Kansas State,N,Iowa State,CTOURN,L 59-63,*,39,3,10,0.3,2,7,0.286,1,3,0.333,0.4,2,2,1.0,0,1,1,2,4,0,4,0,10,5.9,N,0,0,kamau-stokes-1,Kamau Stokes,2019
+33,119,34,2019-03-22,Kansas State,N,UC Irvine,ROUND-64,L 64-70,*,39,4,12,0.333,3,9,0.333,1,3,0.333,0.458,7,9,0.778,0,4,4,4,1,0,1,1,18,14.0,N,0,0,kamau-stokes-1,Kamau Stokes,2019

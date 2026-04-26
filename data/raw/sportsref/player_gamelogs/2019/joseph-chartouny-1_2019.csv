@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2018-11-06,Marquette,,UMBC,REG (Non-Conf),W 67-42,,16,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,5,5,2,0,0,1,0,2,1.8,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+2,86,2,2018-11-10,Marquette,,Bethune-Cookman,REG (Non-Conf),W 92-59,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,0,1,1,1,0,4,0,2,-1.0,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+3,87,3,2018-11-14,Marquette,@,Indiana,REG (Non-Conf),L 73-96,,17,0,0,,0,0,,0,0,,,0,0,,1,2,3,1,0,0,0,2,0,1.2,A,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+4,88,4,2018-11-17,Marquette,,Presbyterian,REG (Non-Conf),W 74-55,,23,6,7,0.857,3,4,0.75,3,3,1.0,1.071,1,1,1.0,1,4,5,5,0,0,1,1,16,17.5,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+5,89,5,2018-11-21,Marquette,N,Kansas,REG (Non-Conf),L 68-77,,28,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,8,0,0,3,2,3,4.8,N,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+6,90,6,2018-11-23,Marquette,N,Louisville,REG (Non-Conf),W 77-74 (OT),,22,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,4,4,1,0,0,1,3,0,-2.4,N,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+7,91,7,2018-11-27,Marquette,,Charleston Southern,REG (Non-Conf),W 76-55,,32,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,1,0.0,0,2,2,6,7,0,4,2,13,16.7,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+8,92,8,2018-12-01,Marquette,,Kansas State,REG (Non-Conf),W 83-71,,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,7,7,5,2,0,4,4,2,2.3,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+9,93,9,2018-12-04,Marquette,,UTEP,REG (Non-Conf),W 76-69,,26,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,5,5,4,1,0,2,2,0,-0.3,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+10,94,10,2018-12-08,Marquette,,Wisconsin,REG (Non-Conf),W 74-69 (OT),,17,0,3,0.0,0,0,,0,3,0.0,0.0,0,2,0.0,0,4,4,3,0,0,0,0,0,0.4,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+11,95,11,2018-12-18,Marquette,,North Dakota,REG (Non-Conf),W 92-66,,27,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,0,8,8,4,2,0,4,2,5,6.8,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+12,96,12,2018-12-21,Marquette,,Buffalo,REG (Non-Conf),W 103-85,,17,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,5,0.6,0,1,1,2,0,0,1,1,11,7.5,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+13,97,13,2018-12-28,Marquette,,Southern,REG (Non-Conf),W 84-41,,24,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,0,2,2,3,1,0,4,1,8,5.6,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+14,98,14,2019-01-01,Marquette,@,St. John's (NY),REG (Conf),L 69-89,,31,5,9,0.556,1,4,0.25,4,5,0.8,0.611,0,0,,0,3,3,3,1,0,1,2,11,8.9,A,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+15,99,15,2019-01-06,Marquette,,Xavier,REG (Conf),W 70-52,,15,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+16,100,16,2019-01-09,Marquette,@,Creighton,REG (Conf),W 106-104 (OT),,16,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,2,3,5,1,1,0,1,3,7,7.1,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+17,101,17,2019-01-12,Marquette,,Seton Hall,REG (Conf),W 70-66,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,0,1,0,4,1,2,-1.5,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+18,102,18,2019-01-15,Marquette,@,Georgetown,REG (Conf),W 74-71,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,1,2,0,-1.8,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+19,103,19,2019-01-20,Marquette,,Providence,REG (Conf),W 79-68,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,3,1,0,0,1,0,1.6,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+20,104,20,2019-01-23,Marquette,,DePaul,REG (Conf),W 79-69,,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,1,1,0,1,0,3,4.0,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+21,105,21,2019-01-26,Marquette,@,Xavier,REG (Conf),W 87-82,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,1,0,1,0,2,2.0,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+22,106,22,2019-01-30,Marquette,@,Butler,REG (Conf),W 76-58,,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,2,0,0,1,1,3,3.0,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+23,107,23,2019-02-05,Marquette,,St. John's (NY),REG (Conf),L 69-70,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,5,2,0,0,2,2,5.7,H,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+24,108,24,2019-02-09,Marquette,,Villanova,REG (Conf),W 66-65,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+25,109,25,2019-02-12,Marquette,@,DePaul,REG (Conf),W 92-73,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+26,110,26,2019-02-20,Marquette,,Butler,REG (Conf),W 79-69,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+27,111,27,2019-02-23,Marquette,@,Providence,REG (Conf),W 76-58,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,joseph-chartouny-1,Joseph Chartouny,2019
+28,112,28,2019-02-27,Marquette,@,Villanova,REG (Conf),L 61-67,,10,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,3,3,2,0,0,1,0,3,3.3,A,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+29,113,29,2019-03-03,Marquette,,Creighton,REG (Conf),L 60-66,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,1,1,0,-0.1,H,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+30,114,30,2019-03-06,Marquette,@,Seton Hall,REG (Conf),L 64-73,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,2,0,0,-1.0,A,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+31,115,31,2019-03-09,Marquette,,Georgetown,REG (Conf),L 84-86,,3,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,H,0,1,joseph-chartouny-1,Joseph Chartouny,2019
+32,116,32,2019-03-14,Marquette,N,St. John's (NY),CTOURN,W 86-54,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,1,0.0,0,3,3,0,0,0,0,2,5,3.4,N,1,0,joseph-chartouny-1,Joseph Chartouny,2019
+33,117,33,2019-03-15,Marquette,N,Seton Hall,CTOURN,L 79-81,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,1,0.0,0,1,1,1,0,0,0,1,0,-1.9,N,0,0,joseph-chartouny-1,Joseph Chartouny,2019
+34,118,34,2019-03-21,Marquette,N,Murray State,ROUND-64,L 64-83,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,2,0,1,0,0,0.3,N,0,0,joseph-chartouny-1,Joseph Chartouny,2019

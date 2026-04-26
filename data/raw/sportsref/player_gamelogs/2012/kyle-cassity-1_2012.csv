@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2011-11-11,Saint Louis,,Tennessee State,REG (Non-Conf),W 71-37,*,23,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,3,3,1,1,0,0,1,6,5.5,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+2,98,2,2011-11-15,Saint Louis,@,Southern Illinois,REG (Non-Conf),W 61-42,*,23,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,1,1,1,3,0,0,3,10,11.6,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+3,99,3,2011-11-20,Saint Louis,,Washington,REG (Non-Conf),W 77-64,*,32,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,7,0,0,0,0,6,10.5,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+4,100,4,2011-11-24,Saint Louis,N,Boston College,REG (Non-Conf),W 62-51,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,2,2,2,2,0,0,0,7,8.0,N,1,1,kyle-cassity-1,Kyle Cassity,2012
+5,101,5,2011-11-25,Saint Louis,N,Villanova,REG (Non-Conf),W 80-68,*,33,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,3,3,1,1,1,2,3,12,8.8,N,1,1,kyle-cassity-1,Kyle Cassity,2012
+6,102,6,2011-11-27,Saint Louis,N,Oklahoma,REG (Non-Conf),W 83-63,*,20,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,1,1,2,0,0,1,3,8,5.2,N,1,1,kyle-cassity-1,Kyle Cassity,2012
+7,103,7,2011-11-29,Saint Louis,@,Loyola Marymount,REG (Non-Conf),L 68-75,*,26,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,3,0.667,0,0,0,3,1,0,3,1,2,-0.1,A,0,1,kyle-cassity-1,Kyle Cassity,2012
+8,104,8,2011-12-03,Saint Louis,,Portland,REG (Non-Conf),W 73-53,*,30,3,6,0.5,3,5,0.6,0,1,0.0,0.75,1,1,1.0,0,4,4,3,0,1,1,0,10,10.0,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+9,105,9,2011-12-07,Saint Louis,,Vermont,REG (Non-Conf),W 62-43,*,22,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,4,0,0,0,0,5,7.5,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+10,106,10,2011-12-10,Saint Louis,,Ill.-Springfield,REG (Non-Conf),W 72-62,*,19,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-4.5,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+11,107,11,2011-12-17,Saint Louis,,Alabama State,REG (Non-Conf),W 65-35,*,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,1,0,0,0,0,1.0,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+12,108,12,2011-12-22,Saint Louis,,Arkansas State,REG (Non-Conf),W 70-46,*,22,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,7,1,0,1,0,0,2.1,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+13,109,13,2011-12-27,Saint Louis,,Texas Southern,REG (Non-Conf),W 71-39,*,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,4,4,3,1,0,0,1,6,7.6,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+14,110,14,2011-12-31,Saint Louis,@,New Mexico,REG (Non-Conf),L 60-64,*,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,1,0,0,0,5,4,2.0,A,0,1,kyle-cassity-1,Kyle Cassity,2012
+15,111,15,2012-01-04,Saint Louis,@,Dayton,REG (Conf),L 72-79 (OT),*,27,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,2,0,1,2,0,-0.2,A,0,1,kyle-cassity-1,Kyle Cassity,2012
+16,112,16,2012-01-07,Saint Louis,,George Washington,REG (Conf),W 78-56,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,2,2,3,1,0,0,3,4,4.8,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+17,113,17,2012-01-11,Saint Louis,,Temple,REG (Conf),L 67-72,*,25,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,4,5,3,3,0,1,2,2,4.1,H,0,1,kyle-cassity-1,Kyle Cassity,2012
+18,114,18,2012-01-14,Saint Louis,@,Charlotte,REG (Conf),W 68-67,*,19,3,8,0.375,0,4,0.0,3,4,0.75,0.375,0,0,,0,3,3,3,2,0,4,3,6,1.4,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+19,115,19,2012-01-21,Saint Louis,,Duquesne,REG (Conf),W 68-41,*,19,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,3,3,3,1,0,0,1,10,11.0,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+20,116,20,2012-01-25,Saint Louis,@,Xavier,REG (Conf),W 73-68,*,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,0,0,-0.1,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+21,117,21,2012-01-28,Saint Louis,@,Massachusetts,REG (Conf),L 59-72,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,0,1,kyle-cassity-1,Kyle Cassity,2012
+22,118,22,2012-02-01,Saint Louis,,St. Bonaventure,REG (Conf),W 86-62,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,2,2,2,1,0,0,0,4,4.9,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+23,119,23,2012-02-04,Saint Louis,,Dayton,REG (Conf),W 58-50,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+24,120,24,2012-02-08,Saint Louis,@,Saint Joseph's,REG (Conf),W 72-60,,13,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,1,0,0,0,0,4,2.7,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+25,121,25,2012-02-11,Saint Louis,@,La Salle,REG (Conf),W 59-51,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+26,122,26,2012-02-15,Saint Louis,,Richmond,REG (Conf),W 64-50,,15,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,2,2,1,0,0,2,0,5,3.3,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+27,123,27,2012-02-18,Saint Louis,,Fordham,REG (Conf),W 66-46,,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,6,1,0,0,1,0,4.1,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+28,124,28,2012-02-25,Saint Louis,@,Rhode Island,REG (Conf),L 62-64,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,1,0,1,0,-1.8,A,0,1,kyle-cassity-1,Kyle Cassity,2012
+29,125,29,2012-02-28,Saint Louis,,Xavier,REG (Conf),W 70-59,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,kyle-cassity-1,Kyle Cassity,2012
+30,126,30,2012-03-03,Saint Louis,@,Duquesne,REG (Conf),W 75-60,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,3,1,0,0,0,0,2.7,A,1,1,kyle-cassity-1,Kyle Cassity,2012
+31,127,31,2012-03-09,Saint Louis,N,La Salle,CTOURN,W 78-71,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,0,kyle-cassity-1,Kyle Cassity,2012
+32,128,32,2012-03-10,Saint Louis,N,Xavier,CTOURN,L 64-71,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,kyle-cassity-1,Kyle Cassity,2012
+33,129,33,2012-03-16,Saint Louis,N,Memphis,ROUND-64,W 61-54,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,kyle-cassity-1,Kyle Cassity,2012
+34,130,34,2012-03-18,Saint Louis,N,Michigan State,ROUND-32,L 61-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,0,0,kyle-cassity-1,Kyle Cassity,2012

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,84,1,2025-11-03,High Point,N,Furman,REG (Non-Conf),W 97-71,,15,6,6,1.0,0,0,,6,6,1.0,1.0,0,1,0.0,1,3,4,1,2,0,0,3,12,12.9,N,1,1,terry-anderson-2,Terry Anderson,2026
+2,85,2,2025-11-08,High Point,,Averett,REG (Non-Conf),W 127-52,,17,3,3,1.0,0,0,,3,3,1.0,1.0,10,11,0.909,2,1,3,3,4,1,2,2,16,20.4,H,1,1,terry-anderson-2,Terry Anderson,2026
+3,86,3,2025-11-11,High Point,,Jacksonville,REG (Non-Conf),W 85-64,,25,7,11,0.636,0,1,0.0,7,10,0.7,0.636,3,6,0.5,2,4,6,1,0,0,0,2,17,13.4,H,1,1,terry-anderson-2,Terry Anderson,2026
+4,87,4,2025-11-14,High Point,@,UAB,REG (Non-Conf),L 74-91,,22,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,3,4,7,0,0,1,4,1,4,0.5,A,0,1,terry-anderson-2,Terry Anderson,2026
+5,88,5,2025-11-17,High Point,,Canisius,REG (Non-Conf),W 93-50,*,16,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,1,0,0,1,4,2,-0.3,H,1,1,terry-anderson-2,Terry Anderson,2026
+6,89,6,2025-11-20,High Point,N,Illinois–Chicago,REG (Non-Conf),W 90-80,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,4,8,0.5,4,3,7,1,0,0,1,4,8,5.5,N,1,1,terry-anderson-2,Terry Anderson,2026
+7,90,7,2025-11-22,High Point,N,Incarnate Word,REG (Non-Conf),W 91-80,*,23,10,12,0.833,1,2,0.5,9,10,0.9,0.875,2,2,1.0,3,1,4,1,0,0,1,3,23,19.5,N,1,1,terry-anderson-2,Terry Anderson,2026
+8,91,8,2025-11-29,High Point,,Western Carolina,REG (Non-Conf),W 93-73,*,27,5,5,1.0,1,1,1.0,4,4,1.0,1.1,5,7,0.714,1,5,6,2,3,0,1,0,16,19.3,H,1,1,terry-anderson-2,Terry Anderson,2026
+9,92,9,2025-12-03,High Point,,Southern Illinois,REG (Non-Conf),L 84-86,*,33,6,13,0.462,2,2,1.0,4,11,0.364,0.538,7,9,0.778,3,7,10,3,1,0,1,3,21,18.6,H,0,1,terry-anderson-2,Terry Anderson,2026
+10,93,10,2025-12-05,High Point,,NJIT,REG (Non-Conf),W 89-72,*,29,5,9,0.556,2,3,0.667,3,6,0.5,0.667,4,5,0.8,2,3,5,0,0,0,0,2,16,12.8,H,1,1,terry-anderson-2,Terry Anderson,2026
+11,94,11,2025-12-14,High Point,N,Appalachian State,REG (Non-Conf),L 78-86 (OT),*,41,6,13,0.462,3,7,0.429,3,6,0.5,0.577,2,4,0.5,3,3,6,2,0,0,2,5,17,9.9,N,0,1,terry-anderson-2,Terry Anderson,2026
+12,95,12,2025-12-16,High Point,,Mary Baldwin,REG (Non-Conf),W 129-47,*,12,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,2,3,0,0,0,0,1,9,7.3,H,1,1,terry-anderson-2,Terry Anderson,2026
+13,96,13,2025-12-19,High Point,,La Salle,REG (Non-Conf),W 84-72,*,35,3,10,0.3,0,2,0.0,3,8,0.375,0.3,3,3,1.0,1,7,8,2,1,0,1,2,9,6.6,H,1,1,terry-anderson-2,Terry Anderson,2026
+14,97,14,2025-12-22,High Point,,Bryant,REG (Non-Conf),W 93-47,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,4,2,6,0,3,0,4,2,9,8.2,H,1,1,terry-anderson-2,Terry Anderson,2026
+15,98,15,2025-12-28,High Point,,Pfeiffer,REG (Non-Conf),W 123-64,*,15,6,11,0.545,0,0,,6,11,0.545,0.545,2,2,1.0,0,1,1,1,1,0,0,2,14,9.9,H,1,1,terry-anderson-2,Terry Anderson,2026
+16,99,16,2025-12-31,High Point,@,UNC Asheville,REG (Conf),W 87-69,*,23,4,6,0.667,0,0,,4,6,0.667,0.667,4,6,0.667,2,3,5,2,0,0,0,1,12,11.9,A,1,1,terry-anderson-2,Terry Anderson,2026
+17,100,17,2026-01-03,High Point,,Longwood,REG (Conf),W 80-67,*,34,10,14,0.714,1,2,0.5,9,12,0.75,0.75,8,8,1.0,3,5,8,2,3,0,3,3,29,27.0,H,1,1,terry-anderson-2,Terry Anderson,2026
+18,101,18,2026-01-07,High Point,,Gardner-Webb,REG (Conf),W 104-49,*,15,4,5,0.8,0,0,,4,5,0.8,0.8,5,6,0.833,3,3,6,1,0,0,2,0,13,12.4,H,1,1,terry-anderson-2,Terry Anderson,2026
+19,102,19,2026-01-10,High Point,@,Charleston Southern,REG (Conf),W 84-82 (OT),*,30,4,11,0.364,0,0,,4,11,0.364,0.364,8,12,0.667,5,3,8,2,1,0,1,5,16,12.1,A,1,1,terry-anderson-2,Terry Anderson,2026
+20,103,20,2026-01-14,High Point,@,Winthrop,REG (Conf),L 75-92,*,25,7,12,0.583,1,4,0.25,6,8,0.75,0.625,2,3,0.667,2,1,3,0,1,0,1,3,17,11.5,A,0,1,terry-anderson-2,Terry Anderson,2026
+21,104,21,2026-01-17,High Point,,USC Upstate,REG (Conf),W 89-69,*,37,8,16,0.5,0,2,0.0,8,14,0.571,0.5,6,10,0.6,5,7,12,2,3,0,2,1,22,20.0,H,1,1,terry-anderson-2,Terry Anderson,2026
+22,105,22,2026-01-23,High Point,@,Radford,REG (Conf),W 93-83,*,38,10,14,0.714,0,1,0.0,10,13,0.769,0.714,11,14,0.786,3,8,11,5,3,2,1,2,31,34.6,A,1,1,terry-anderson-2,Terry Anderson,2026
+23,106,23,2026-01-29,High Point,,Presbyterian,REG (Conf),W 84-81,*,33,8,13,0.615,1,3,0.333,7,10,0.7,0.654,1,3,0.333,2,4,6,1,1,0,0,4,18,14.0,H,1,1,terry-anderson-2,Terry Anderson,2026
+24,107,24,2026-01-31,High Point,@,Longwood,REG (Conf),W 71-59,*,37,6,13,0.462,1,5,0.2,5,8,0.625,0.5,9,9,1.0,0,5,5,1,3,0,2,2,22,17.7,A,1,1,terry-anderson-2,Terry Anderson,2026
+25,108,25,2026-02-04,High Point,,Charleston Southern,REG (Conf),W 80-55,*,15,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,0,2,0,1,1,2,2,9,7.0,H,1,1,terry-anderson-2,Terry Anderson,2026
+26,109,26,2026-02-07,High Point,,Radford,REG (Conf),W 86-77,*,31,7,11,0.636,0,3,0.0,7,8,0.875,0.636,10,12,0.833,2,4,6,4,3,1,3,2,24,23.6,H,1,1,terry-anderson-2,Terry Anderson,2026
+27,110,27,2026-02-12,High Point,@,USC Upstate,REG (Conf),W 95-70,*,27,3,10,0.3,0,2,0.0,3,8,0.375,0.3,8,9,0.889,1,1,2,1,3,2,1,2,14,12.1,A,1,1,terry-anderson-2,Terry Anderson,2026
+28,111,28,2026-02-14,High Point,@,Gardner-Webb,REG (Conf),W 112-87,*,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,9,9,1.0,0,4,4,1,1,1,0,1,17,16.9,A,1,1,terry-anderson-2,Terry Anderson,2026
+29,112,29,2026-02-19,High Point,,UNC Asheville,REG (Conf),W 74-48,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,6,9,0.667,3,0,3,2,3,0,1,2,16,15.2,H,1,1,terry-anderson-2,Terry Anderson,2026
+30,113,30,2026-02-21,High Point,,Winthrop,REG (Conf),W 89-87,*,31,6,12,0.5,1,4,0.25,5,8,0.625,0.542,10,13,0.769,3,8,11,1,0,0,2,4,23,17.4,H,1,1,terry-anderson-2,Terry Anderson,2026
+31,114,31,2026-02-26,High Point,@,Presbyterian,REG (Conf),W 79-73,*,32,5,14,0.357,0,3,0.0,5,11,0.455,0.357,3,7,0.429,3,3,6,1,3,2,4,1,13,7.3,A,1,1,terry-anderson-2,Terry Anderson,2026
+32,115,32,2026-03-06,High Point,N,Gardner-Webb,CTOURN,W 81-59,*,35,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,5,0.6,6,8,14,6,1,1,5,2,13,14.6,N,1,0,terry-anderson-2,Terry Anderson,2026
+33,116,33,2026-03-07,High Point,N,UNC Asheville,CTOURN,W 75-71,*,35,9,16,0.563,2,5,0.4,7,11,0.636,0.625,5,7,0.714,5,7,12,3,1,0,2,3,25,22.1,N,1,0,terry-anderson-2,Terry Anderson,2026
+34,117,34,2026-03-08,High Point,N,Winthrop,CTOURN,W 91-76,*,33,6,10,0.6,1,2,0.5,5,8,0.625,0.65,5,6,0.833,0,3,3,2,2,1,2,4,18,14.4,N,1,0,terry-anderson-2,Terry Anderson,2026

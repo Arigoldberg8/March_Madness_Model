@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2010-11-12,Kansas State,,James Madison,REG (Non-Conf),W 75-61,*,24,5,10,0.5,3,5,0.6,2,5,0.4,0.65,7,11,0.636,1,2,3,5,3,0,1,3,20,19.0,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+2,106,2,2010-11-16,Kansas State,,Virginia Tech,REG (Non-Conf),W 73-57,*,14,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,7,0.714,0,1,1,3,2,0,4,3,13,8.1,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+3,107,3,2010-11-18,Kansas State,,Presbyterian,REG (Non-Conf),W 76-67,*,32,4,12,0.333,2,8,0.25,2,4,0.5,0.417,5,6,0.833,1,2,3,4,3,0,2,0,15,12.9,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+4,108,4,2010-11-22,Kansas State,N,Gonzaga,REG (Non-Conf),W 81-64,*,26,6,12,0.5,4,8,0.5,2,4,0.5,0.667,2,4,0.5,1,1,2,4,1,0,3,0,18,13.0,N,1,1,jacob-pullen-1,Jacob Pullen,2011
+5,109,5,2010-11-23,Kansas State,N,Duke,REG (Non-Conf),L 68-82,*,30,1,12,0.083,1,8,0.125,0,4,0.0,0.125,1,2,0.5,0,3,3,1,1,0,4,2,4,-6.6,N,0,1,jacob-pullen-1,Jacob Pullen,2011
+6,110,6,2010-11-26,Kansas State,,Texas Southern,REG (Non-Conf),W 84-60,*,30,6,14,0.429,2,5,0.4,4,9,0.444,0.5,2,2,1.0,0,3,3,7,4,0,1,0,16,17.4,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+7,111,7,2010-11-29,Kansas State,,Emporia St.,REG (Non-Conf),W 85-61,*,33,10,18,0.556,4,7,0.571,6,11,0.545,0.667,2,3,0.667,0,2,2,5,3,1,2,1,26,22.4,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+8,112,8,2010-12-03,Kansas State,@,Washington State,REG (Non-Conf),W 63-58,*,35,2,11,0.182,1,6,0.167,1,5,0.2,0.227,3,4,0.75,2,4,6,5,2,0,6,1,8,2.4,A,1,1,jacob-pullen-1,Jacob Pullen,2011
+9,113,9,2010-12-06,Kansas State,,Alcorn State,REG (Non-Conf),W 89-55,*,28,9,15,0.6,3,8,0.375,6,7,0.857,0.7,3,4,0.75,1,4,5,2,0,0,6,3,24,12.8,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+10,114,10,2010-12-11,Kansas State,@,Loyola Chicago,REG (Non-Conf),W 68-60,*,39,5,17,0.294,0,4,0.0,5,13,0.385,0.294,9,12,0.75,1,8,9,4,1,0,4,0,19,10.8,A,1,1,jacob-pullen-1,Jacob Pullen,2011
+11,115,11,2010-12-18,Kansas State,N,Florida,REG (Non-Conf),L 44-57,*,37,6,17,0.353,1,7,0.143,5,10,0.5,0.382,6,8,0.75,1,3,4,2,1,0,0,1,19,12.3,N,0,1,jacob-pullen-1,Jacob Pullen,2011
+12,116,15,2011-01-03,Kansas State,,Savannah State,REG (Non-Conf),W 92-61,*,30,9,11,0.818,4,6,0.667,5,5,1.0,1.0,2,2,1.0,0,3,3,5,1,0,1,3,24,23.1,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+13,117,16,2011-01-08,Kansas State,@,Oklahoma State,REG (Conf),L 62-76,*,35,4,11,0.364,1,5,0.2,3,6,0.5,0.409,11,14,0.786,1,4,5,2,0,0,2,1,20,13.6,A,0,1,jacob-pullen-1,Jacob Pullen,2011
+14,118,17,2011-01-12,Kansas State,,Colorado,REG (Conf),L 66-74,*,33,7,16,0.438,1,6,0.167,6,10,0.6,0.469,7,9,0.778,3,2,5,6,4,0,5,4,22,17.1,H,0,1,jacob-pullen-1,Jacob Pullen,2011
+15,119,18,2011-01-15,Kansas State,,Texas Tech,REG (Conf),W 94-60,*,31,7,15,0.467,4,9,0.444,3,6,0.5,0.6,3,4,0.75,0,2,2,5,1,1,0,0,21,18.7,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+16,120,19,2011-01-17,Kansas State,@,Missouri,REG (Conf),L 59-75,*,34,4,11,0.364,1,5,0.2,3,6,0.5,0.409,7,8,0.875,1,1,2,1,0,0,3,4,16,6.6,A,0,1,jacob-pullen-1,Jacob Pullen,2011
+17,121,20,2011-01-22,Kansas State,@,Texas A&M,REG (Conf),L 56-64,*,33,7,19,0.368,3,9,0.333,4,10,0.4,0.447,4,4,1.0,0,0,0,0,1,0,1,4,21,8.9,A,0,1,jacob-pullen-1,Jacob Pullen,2011
+18,122,21,2011-01-24,Kansas State,,Baylor,REG (Conf),W 69-61,*,38,4,13,0.308,2,7,0.286,2,6,0.333,0.385,7,9,0.778,1,3,4,2,1,0,5,1,17,7.3,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+19,123,22,2011-01-29,Kansas State,@,Kansas,REG (Conf),L 66-90,*,34,8,22,0.364,4,10,0.4,4,12,0.333,0.455,1,4,0.25,2,1,3,1,1,0,2,2,21,8.2,A,0,1,jacob-pullen-1,Jacob Pullen,2011
+20,124,23,2011-02-02,Kansas State,,Nebraska,REG (Conf),W 69-53,*,39,6,15,0.4,1,5,0.2,5,10,0.5,0.433,5,7,0.714,0,1,1,6,2,1,3,0,18,13.3,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+21,125,24,2011-02-05,Kansas State,@,Iowa State,REG (Conf),W 86-85,*,36,8,16,0.5,2,5,0.4,6,11,0.545,0.563,3,4,0.75,0,3,3,8,2,0,5,0,21,16.1,A,1,1,jacob-pullen-1,Jacob Pullen,2011
+22,126,25,2011-02-12,Kansas State,@,Colorado,REG (Conf),L 56-58,*,31,4,12,0.333,2,5,0.4,2,7,0.286,0.417,2,5,0.4,0,1,1,4,1,0,3,3,12,3.9,A,0,1,jacob-pullen-1,Jacob Pullen,2011
+23,127,26,2011-02-14,Kansas State,,Kansas,REG (Conf),W 84-68,*,37,9,17,0.529,5,6,0.833,4,11,0.364,0.676,15,19,0.789,0,3,3,5,2,1,4,1,38,30.8,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+24,128,27,2011-02-19,Kansas State,,Oklahoma,REG (Conf),W 77-62,*,37,8,18,0.444,3,6,0.5,5,12,0.417,0.528,8,8,1.0,1,1,2,3,5,0,4,2,27,20.9,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+25,129,28,2011-02-23,Kansas State,@,Nebraska,REG (Conf),W 61-57,*,35,7,17,0.412,3,7,0.429,4,10,0.4,0.5,10,11,0.909,0,2,2,2,2,0,3,2,27,17.7,A,1,1,jacob-pullen-1,Jacob Pullen,2011
+26,130,29,2011-02-26,Kansas State,,Missouri,REG (Conf),W 80-70,*,24,6,10,0.6,4,4,1.0,2,6,0.333,0.8,8,9,0.889,0,2,2,3,0,0,5,4,24,15.1,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+27,131,30,2011-02-28,Kansas State,@,Texas,REG (Conf),W 75-70,*,36,6,14,0.429,1,4,0.25,5,10,0.5,0.464,7,9,0.778,0,1,1,2,2,0,1,1,20,14.1,A,1,1,jacob-pullen-1,Jacob Pullen,2011
+28,132,31,2011-03-05,Kansas State,,Iowa State,REG (Conf),W 67-55,*,34,4,12,0.333,2,4,0.5,2,8,0.25,0.417,7,8,0.875,1,3,4,4,0,0,5,1,17,8.8,H,1,1,jacob-pullen-1,Jacob Pullen,2011
+29,133,32,2011-03-10,Kansas State,N,Colorado,CTOURN,L 75-87,*,38,6,19,0.316,3,11,0.273,3,8,0.375,0.395,3,3,1.0,1,2,3,7,2,0,4,3,18,10.1,N,0,0,jacob-pullen-1,Jacob Pullen,2011
+30,134,33,2011-03-17,Kansas State,N,Utah State,ROUND-64,W 73-68,*,37,6,13,0.462,1,5,0.2,5,8,0.625,0.5,9,12,0.75,0,1,1,5,1,0,3,1,22,15.5,N,1,0,jacob-pullen-1,Jacob Pullen,2011
+31,135,34,2011-03-19,Kansas State,N,Wisconsin,ROUND-32,L 65-70,*,32,13,22,0.591,6,8,0.75,7,14,0.5,0.727,6,8,0.75,1,1,2,2,0,0,3,4,38,24.8,N,0,0,jacob-pullen-1,Jacob Pullen,2011

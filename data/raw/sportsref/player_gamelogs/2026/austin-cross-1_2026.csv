@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Troy,@,Kent State,REG (Non-Conf),W 103-97 (OT),,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,0,0,0,1,1,3,-1.5,A,1,1,austin-cross-1,Austin Cross,2026
+2,2,2,2025-11-07,Troy,@,Furman,REG (Non-Conf),W 64-61,,16,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,0,1,6,4.3,A,1,1,austin-cross-1,Austin Cross,2026
+3,3,3,2025-11-11,Troy,,Pensa. Christian,REG (Non-Conf),W 121-56,,17,5,9,0.556,1,5,0.2,4,4,1.0,0.611,2,2,1.0,0,1,1,2,4,0,1,2,13,12.6,H,1,1,austin-cross-1,Austin Cross,2026
+4,4,4,2025-11-14,Troy,@,Loyola Marymount,REG (Non-Conf),L 63-74,,14,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,2,0,0,0,1,0,-0.9,A,0,1,austin-cross-1,Austin Cross,2026
+5,5,5,2025-11-16,Troy,@,Cal State Northridge,REG (Non-Conf),L 85-94,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.9,A,0,1,austin-cross-1,Austin Cross,2026
+6,6,6,2025-11-18,Troy,@,San Diego State,REG (Non-Conf),W 108-107 (2OT),,21,1,4,0.25,1,3,0.333,0,1,0.0,0.375,4,4,1.0,0,0,0,1,1,0,0,1,7,5.9,A,1,1,austin-cross-1,Austin Cross,2026
+7,7,7,2025-11-20,Troy,@,Southern California,REG (Non-Conf),L 106-107 (3OT),,21,0,3,0.0,0,3,0.0,0,0,,0.0,0,2,0.0,0,2,2,1,0,0,1,1,0,-3.0,A,0,1,austin-cross-1,Austin Cross,2026
+8,8,8,2025-11-24,Troy,N,Toledo,REG (Non-Conf),L 68-75,,16,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,1,0,5,1.3,N,0,1,austin-cross-1,Austin Cross,2026
+9,9,9,2025-11-26,Troy,N,Saint Francis (PA),REG (Non-Conf),W 74-64,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,2,0.0,1,2,3,1,0,0,0,0,3,3.2,N,1,1,austin-cross-1,Austin Cross,2026
+10,10,10,2025-12-01,Troy,,West Georgia,REG (Non-Conf),L 89-93 (2OT),,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.8,H,0,1,austin-cross-1,Austin Cross,2026
+11,11,11,2025-12-06,Troy,,LaGrange,REG (Non-Conf),W 101-47,,20,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,3,0.667,2,2,4,2,2,1,2,2,10,8.5,H,1,1,austin-cross-1,Austin Cross,2026
+12,12,12,2025-12-14,Troy,@,UAB,REG (Non-Conf),W 86-85,,15,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,1,1,2,0,0,0,0,2,5,3.2,A,1,1,austin-cross-1,Austin Cross,2026
+13,13,13,2025-12-20,Troy,,Marshall,REG (Conf),W 70-63,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,1,2,0,0,0,0,2,3,2.9,H,1,1,austin-cross-1,Austin Cross,2026
+14,14,14,2025-12-31,Troy,,Texas State,REG (Conf),W 100-80,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,1,0,0,1,3,3.3,H,1,1,austin-cross-1,Austin Cross,2026
+15,15,15,2026-01-03,Troy,,South Alabama,REG (Conf),W 59-49,,14,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,1,1,0,-2.2,H,1,1,austin-cross-1,Austin Cross,2026
+16,16,16,2026-01-07,Troy,@,Arkansas State,REG (Conf),L 74-86,,12,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,0,2,2,6,2.2,A,0,1,austin-cross-1,Austin Cross,2026
+17,17,17,2026-01-10,Troy,@,Louisiana,REG (Conf),W 90-70,,12,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,0,0,0,6,5.0,A,1,1,austin-cross-1,Austin Cross,2026
+18,18,18,2026-01-14,Troy,,Southern Mississippi,REG (Conf),W 91-65,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,1,2,3,0,2,1,0,0,3,5.2,H,1,1,austin-cross-1,Austin Cross,2026
+19,19,19,2026-01-17,Troy,,Arkansas State,REG (Conf),W 99-74,,12,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,1,0,0,1,2,2.6,H,1,1,austin-cross-1,Austin Cross,2026
+20,20,20,2026-01-21,Troy,@,Old Dominion,REG (Conf),W 83-77 (2OT),,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,A,1,1,austin-cross-1,Austin Cross,2026
+21,21,21,2026-01-24,Troy,@,Georgia Southern,REG (Conf),W 83-78,,13,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,0,1,0,0,0,0,1,5,4.0,A,1,1,austin-cross-1,Austin Cross,2026
+22,22,22,2026-01-29,Troy,,James Madison,REG (Conf),L 64-73,,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,3,2,1.8,H,0,1,austin-cross-1,Austin Cross,2026
+23,23,23,2026-01-31,Troy,,Appalachian State,REG (Conf),L 44-66,*,17,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,3,1,4,0,0,0,2,1,3,0.6,H,0,1,austin-cross-1,Austin Cross,2026
+24,24,24,2026-02-04,Troy,@,Georgia State,REG (Conf),W 74-63,,12,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-3.2,A,1,1,austin-cross-1,Austin Cross,2026
+25,25,25,2026-02-07,Troy,,Akron,REG (Non-Conf),W 79-69,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,0,1,3,1.2,H,1,1,austin-cross-1,Austin Cross,2026
+26,26,26,2026-02-11,Troy,@,Texas State,REG (Conf),L 62-74,,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,0,0,0,2,0,0,1,5,3.8,A,0,1,austin-cross-1,Austin Cross,2026
+27,27,27,2026-02-14,Troy,@,Southern Mississippi,REG (Conf),L 65-69,,22,3,7,0.429,3,7,0.429,0,0,,0.643,0,2,0.0,3,3,6,1,0,0,0,1,9,7.8,A,0,1,austin-cross-1,Austin Cross,2026
+28,28,28,2026-02-18,Troy,@,Louisiana–Monroe,REG (Conf),W 77-76,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.8,A,1,1,austin-cross-1,Austin Cross,2026
+29,29,29,2026-02-21,Troy,@,South Alabama,REG (Conf),L 54-65,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,1,2,0,0,0,0,2,3,2.2,A,0,1,austin-cross-1,Austin Cross,2026
+30,30,30,2026-02-24,Troy,,Louisiana,REG (Conf),W 78-59,,19,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,0,0,0,0,3,3.6,H,1,1,austin-cross-1,Austin Cross,2026
+31,31,31,2026-02-27,Troy,,Louisiana–Monroe,REG (Conf),W 80-65,,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,1,0,0,2,3,5,0.5,H,1,1,austin-cross-1,Austin Cross,2026
+32,32,32,2026-03-08,Troy,N,Southern Mississippi,CTOURN,W 78-70,,15,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,1,1,2,0,1,0,0,1,4,2.9,N,1,0,austin-cross-1,Austin Cross,2026
+33,33,33,2026-03-09,Troy,N,Georgia Southern,CTOURN,W 77-61,,16,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,0,1,0,0,0,0,0,5,3.0,N,1,0,austin-cross-1,Austin Cross,2026

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,11,1,2018-11-06,Wisconsin,,Coppin State,REG (Non-Conf),W 85-63,,25,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,1,3,4,0,1,1,0,1,8,7.9,H,1,1,kobe-king-1,Kobe King,2019
+2,12,2,2018-11-13,Wisconsin,@,Xavier,REG (Non-Conf),W 77-68,,13,0,1,0.0,0,0,,0,1,0.0,0.0,2,3,0.667,0,2,2,0,0,0,0,3,2,0.3,A,1,1,kobe-king-1,Kobe King,2019
+3,13,3,2018-11-17,Wisconsin,,Houston Baptist,REG (Non-Conf),W 96-59,,23,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,2,2,0,0,0,1,0,6,3.3,H,1,1,kobe-king-1,Kobe King,2019
+4,14,4,2018-11-21,Wisconsin,N,Stanford,REG (Non-Conf),W 62-46,,15,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,0,0,0,0,3,3.3,N,1,1,kobe-king-1,Kobe King,2019
+5,15,5,2018-11-22,Wisconsin,N,Oklahoma,REG (Non-Conf),W 78-58,,26,5,8,0.625,3,5,0.6,2,3,0.667,0.813,1,2,0.5,0,0,0,0,0,0,0,1,14,9.6,N,1,1,kobe-king-1,Kobe King,2019
+6,16,6,2018-11-23,Wisconsin,N,Virginia,REG (Non-Conf),L 46-53,,27,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,0,1,0,1,1,5,2.6,N,0,1,kobe-king-1,Kobe King,2019
+7,17,7,2018-11-27,Wisconsin,,NC State,REG (Non-Conf),W 79-75,,30,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,2,4,6,2,0,0,0,0,5,6.6,H,1,1,kobe-king-1,Kobe King,2019
+8,18,8,2018-11-30,Wisconsin,@,Iowa,REG (Conf),W 72-66,,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,3,0,0,0,0,3,3.3,A,1,1,kobe-king-1,Kobe King,2019
+9,19,9,2018-12-03,Wisconsin,,Rutgers,REG (Conf),W 69-64,,10,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,0,0,1,0,4,2.7,H,1,1,kobe-king-1,Kobe King,2019
+10,20,10,2018-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 69-74 (OT),,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,1,3,2,-1.9,A,0,1,kobe-king-1,Kobe King,2019
+11,21,11,2018-12-13,Wisconsin,,Savannah State,REG (Non-Conf),W 101-60,*,23,4,8,0.5,0,3,0.0,4,5,0.8,0.5,2,3,0.667,1,2,3,1,0,0,0,0,10,7.6,H,1,1,kobe-king-1,Kobe King,2019
+12,22,12,2018-12-22,Wisconsin,,Grambling State,REG (Non-Conf),W 84-53,,28,2,4,0.5,2,3,0.667,0,1,0.0,0.75,4,6,0.667,2,2,4,0,0,0,0,0,10,9.2,H,1,1,kobe-king-1,Kobe King,2019
+13,23,13,2018-12-29,Wisconsin,@,Western Kentucky,REG (Non-Conf),L 76-83,,12,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,0,1,0,1,0,0,0,3,3.7,A,0,1,kobe-king-1,Kobe King,2019
+14,24,14,2019-01-03,Wisconsin,,Minnesota,REG (Conf),L 52-59,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,1,2,0,0,0,0,1,3,1.9,H,0,1,kobe-king-1,Kobe King,2019
+15,25,15,2019-01-06,Wisconsin,@,Penn State,REG (Conf),W 71-52,,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,0,2,0,1,0,4,4.3,A,1,1,kobe-king-1,Kobe King,2019
+16,26,16,2019-01-11,Wisconsin,,Purdue,REG (Conf),L 80-84 (OT),,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,3,0,-2.3,H,0,1,kobe-king-1,Kobe King,2019
+17,27,17,2019-01-14,Wisconsin,@,Maryland,REG (Conf),L 60-64,,27,1,6,0.167,1,2,0.5,0,4,0.0,0.25,2,2,1.0,1,2,3,0,0,0,0,0,5,2.5,A,0,1,kobe-king-1,Kobe King,2019
+18,28,18,2019-01-19,Wisconsin,,Michigan,REG (Conf),W 64-54,,31,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,1,4,5,1,1,1,1,2,6,6.5,H,1,1,kobe-king-1,Kobe King,2019
+19,29,19,2019-01-23,Wisconsin,@,Illinois,REG (Conf),W 72-60,,15,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,0,0,2,1,0,-0.7,A,1,1,kobe-king-1,Kobe King,2019
+20,30,20,2019-01-26,Wisconsin,,Northwestern,REG (Conf),W 62-46,,21,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,0,0,0,1,2,2.2,H,1,1,kobe-king-1,Kobe King,2019
+21,31,21,2019-01-29,Wisconsin,@,Nebraska,REG (Conf),W 62-51,,14,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,0,2,0,0.5,A,1,1,kobe-king-1,Kobe King,2019
+22,32,22,2019-02-01,Wisconsin,,Maryland,REG (Conf),W 69-61,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,1,2,1.3,H,1,1,kobe-king-1,Kobe King,2019
+23,33,23,2019-02-06,Wisconsin,@,Minnesota,REG (Conf),W 56-51,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,0,0,0,0.7,A,1,1,kobe-king-1,Kobe King,2019
+24,34,24,2019-02-09,Wisconsin,@,Michigan,REG (Conf),L 52-61,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,1,0,0,1,1,4,2.9,A,0,1,kobe-king-1,Kobe King,2019
+25,35,25,2019-02-12,Wisconsin,,Michigan State,REG (Conf),L 59-67,,28,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,0,0,0,1,0,0,0,6,4.7,H,0,1,kobe-king-1,Kobe King,2019
+26,36,26,2019-02-18,Wisconsin,,Illinois,REG (Conf),W 64-58,,20,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,0,0,1,1,2,-1.2,H,1,1,kobe-king-1,Kobe King,2019
+27,37,27,2019-02-23,Wisconsin,@,Northwestern,REG (Conf),W 69-64,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,1,1,kobe-king-1,Kobe King,2019
+28,38,28,2019-02-26,Wisconsin,@,Indiana,REG (Conf),L 73-75 (2OT),,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,2,0,0,0,1,4,4.3,A,0,1,kobe-king-1,Kobe King,2019
+29,39,29,2019-03-02,Wisconsin,,Penn State,REG (Conf),W 61-57,,20,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,1,1,0,0,1,1,1,9,4.6,H,1,1,kobe-king-1,Kobe King,2019
+30,40,30,2019-03-07,Wisconsin,,Iowa,REG (Conf),W 65-45,,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,3,4,0.75,0,2,2,0,1,0,1,0,3,1.1,H,1,1,kobe-king-1,Kobe King,2019
+31,41,31,2019-03-10,Wisconsin,@,Ohio State,REG (Conf),W 73-67 (OT),,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,1,2,2,0,0,0,1,2,0.2,A,1,1,kobe-king-1,Kobe King,2019
+32,42,32,2019-03-15,Wisconsin,N,Nebraska,CTOURN,W 66-62,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,0,0,2,3.1,N,1,0,kobe-king-1,Kobe King,2019
+33,43,33,2019-03-16,Wisconsin,N,Michigan State,CTOURN,L 55-67,,26,5,10,0.5,1,3,0.333,4,7,0.571,0.55,2,3,0.667,1,2,3,0,0,0,2,1,13,6.5,N,0,0,kobe-king-1,Kobe King,2019
+34,44,34,2019-03-22,Wisconsin,N,Oregon,ROUND-64,L 54-72,,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,2,0.0,2,2,4,1,1,0,2,1,2,0.1,N,0,0,kobe-king-1,Kobe King,2019

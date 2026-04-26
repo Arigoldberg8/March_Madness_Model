@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Ohio State,,UMass Lowell,REG (Non-Conf),W 92-55,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,0,0,0,0,2,4,1.5,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+2,2,2,2014-11-18,Ohio State,,Marquette,REG (Non-Conf),W 74-63,,13,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,0,0,3,4.0,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+3,3,3,2014-11-23,Ohio State,,Sacred Heart,REG (Non-Conf),W 106-48,,18,2,5,0.4,2,3,0.667,0,2,0.0,0.6,5,6,0.833,1,2,3,0,0,2,0,2,11,9.8,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+4,4,4,2014-11-26,Ohio State,,Campbell,REG (Non-Conf),W 91-64,,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,4,4,0,0,0,1,0,3,2.9,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+5,5,5,2014-11-28,Ohio State,,James Madison,REG (Non-Conf),W 73-56,,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,0,0,1,1,0,2,-1.1,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+6,6,6,2014-12-02,Ohio State,@,Louisville,REG (Non-Conf),L 55-64,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+7,7,7,2014-12-06,Ohio State,,Colgate,REG (Non-Conf),W 70-50,,8,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,0,0,3,2.6,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+8,8,8,2014-12-10,Ohio State,,High Point,REG (Non-Conf),W 97-43,,21,3,7,0.429,1,1,1.0,2,6,0.333,0.5,2,2,1.0,1,4,5,2,0,1,1,2,9,7.5,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+9,9,9,2014-12-13,Ohio State,,Morehead State,REG (Non-Conf),W 87-71,,14,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,1,2,3,1,1,2,0,0,8,9.7,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+10,10,10,2014-12-17,Ohio State,,North Carolina A&T,REG (Non-Conf),W 97-55,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,5,5,1,0,0,1,0,3,1.4,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+11,11,11,2014-12-20,Ohio State,N,North Carolina,REG (Non-Conf),L 74-82,,5,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,1,0,1,5,4.3,N,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+12,12,12,2014-12-22,Ohio State,,Miami (OH),REG (Non-Conf),W 93-55,,18,5,9,0.556,0,2,0.0,5,7,0.714,0.556,2,5,0.4,5,2,7,1,1,1,1,1,12,11.6,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+13,13,13,2014-12-27,Ohio State,,Wright State,REG (Non-Conf),W 100-55,,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,0,4,4,3,1,0,0,1,6,6.8,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+14,14,15,2015-01-03,Ohio State,,Illinois,REG (Conf),W 77-61,,3,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,2,2,0,1,0,2,1,4,2.5,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+15,15,16,2015-01-06,Ohio State,@,Minnesota,REG (Conf),W 74-72 (OT),,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,1,0,1,0,0,2,4.4,A,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+16,16,17,2015-01-10,Ohio State,@,Indiana,REG (Conf),L 66-69,,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,1,2,3,0,1,2,0,2,4,3.1,A,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+17,17,18,2015-01-13,Ohio State,,Michigan,REG (Conf),W 71-52,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+18,18,20,2015-01-22,Ohio State,@,Northwestern,REG (Conf),W 69-67,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+19,19,21,2015-01-25,Ohio State,,Indiana,REG (Conf),W 82-70,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+20,20,22,2015-01-29,Ohio State,,Maryland,REG (Conf),W 80-56,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+21,21,23,2015-02-04,Ohio State,@,Purdue,REG (Conf),L 58-60,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+22,22,24,2015-02-08,Ohio State,@,Rutgers,REG (Conf),W 79-60,,19,4,7,0.571,3,4,0.75,1,3,0.333,0.786,3,4,0.75,1,8,9,3,2,3,1,1,14,18.2,A,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+23,23,25,2015-02-11,Ohio State,,Penn State,REG (Conf),W 75-55,,18,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,1,1.0,1,4,5,0,2,3,2,2,7,5.8,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+24,24,26,2015-02-14,Ohio State,@,Michigan State,REG (Conf),L 56-59,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,0,0,0.3,A,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+25,25,27,2015-02-22,Ohio State,@,Michigan,REG (Conf),L 57-64,,19,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,1,2,3,2,0,1,0,3,12,11.3,A,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+26,26,28,2015-02-26,Ohio State,,Nebraska,REG (Conf),W 81-57,,5,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,0,0,1,3,3,-0.9,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+27,27,29,2015-03-01,Ohio State,,Purdue,REG (Conf),W 65-61,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+28,28,30,2015-03-04,Ohio State,@,Penn State,REG (Conf),W 77-67,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,keita-bates-diop-1,Keita Bates-Diop,2015
+29,29,31,2015-03-08,Ohio State,,Wisconsin,REG (Conf),L 48-72,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,H,0,1,keita-bates-diop-1,Keita Bates-Diop,2015
+30,30,32,2015-03-12,Ohio State,N,Minnesota,CTOURN,W 79-73,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,N,1,0,keita-bates-diop-1,Keita Bates-Diop,2015
+31,31,33,2015-03-13,Ohio State,N,Michigan State,CTOURN,L 67-76,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,0,2,0.7,N,0,0,keita-bates-diop-1,Keita Bates-Diop,2015
+32,32,34,2015-03-19,Ohio State,N,VCU,ROUND-64,W 75-72 (OT),,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,0,0,6,6.4,N,1,0,keita-bates-diop-1,Keita Bates-Diop,2015
+33,33,35,2015-03-21,Ohio State,N,Arizona,ROUND-32,L 58-73,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,0,0,1.0,N,0,0,keita-bates-diop-1,Keita Bates-Diop,2015

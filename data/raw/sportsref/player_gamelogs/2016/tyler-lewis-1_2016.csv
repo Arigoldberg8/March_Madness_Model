@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2015-11-14,Butler,,The Citadel,REG (Non-Conf),W 144-71,*,23,5,11,0.455,1,4,0.25,4,7,0.571,0.5,6,7,0.857,0,2,2,3,2,0,0,1,17,15.2,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+2,72,2,2015-11-19,Butler,N,Missouri State,REG (Non-Conf),W 93-59,*,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,0,3,3,10,2,0,0,1,9,15.5,N,1,1,tyler-lewis-1,Tyler Lewis,2016
+3,73,3,2015-11-20,Butler,N,Temple,REG (Non-Conf),W 74-69,*,33,3,7,0.429,2,4,0.5,1,3,0.333,0.571,8,8,1.0,1,3,4,0,0,0,1,3,16,11.7,N,1,1,tyler-lewis-1,Tyler Lewis,2016
+4,74,4,2015-11-22,Butler,N,Miami (FL),REG (Non-Conf),L 75-85,*,25,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,0,0,1,0,0,2,1,3,-1.8,N,0,1,tyler-lewis-1,Tyler Lewis,2016
+5,75,5,2015-11-28,Butler,,SIU Edwardsville,REG (Non-Conf),W 89-73,*,25,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,5,0.8,0,2,2,4,2,0,1,4,12,11.1,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+6,76,6,2015-12-02,Butler,@,Cincinnati,REG (Non-Conf),W 78-76,*,28,0,9,0.0,0,3,0.0,0,6,0.0,0.0,0,0,,0,2,2,4,0,0,1,2,0,-4.7,A,1,1,tyler-lewis-1,Tyler Lewis,2016
+7,77,7,2015-12-05,Butler,,Indiana State,REG (Non-Conf),W 85-71,*,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,4,4,1,0,0,1,2,3,2.1,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+8,78,8,2015-12-07,Butler,,VMI,REG (Non-Conf),W 93-66,*,31,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,3,1.0,0,3,3,5,2,0,3,1,12,10.3,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+9,79,9,2015-12-12,Butler,,Tennessee,REG (Non-Conf),W 94-86,*,21,1,3,0.333,1,3,0.333,0,0,,0.5,2,3,0.667,0,1,1,5,0,0,2,0,5,4.7,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+10,80,10,2015-12-19,Butler,N,Purdue,REG (Non-Conf),W 74-68,*,32,5,7,0.714,2,3,0.667,3,4,0.75,0.857,5,6,0.833,4,2,6,4,4,0,1,1,17,22.5,N,1,1,tyler-lewis-1,Tyler Lewis,2016
+11,81,11,2015-12-22,Butler,,Southern Utah,REG (Non-Conf),W 88-52,*,24,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,0,1,8,1,0,1,2,9,11.2,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+12,82,12,2015-12-28,Butler,,IUPUI,REG (Non-Conf),W 92-54,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,7,0,0,1,1,4,5.4,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+13,83,13,2015-12-31,Butler,,Providence,REG (Conf),L 73-81,*,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,2,2,1,0,0,0,5,1,-2.2,H,0,1,tyler-lewis-1,Tyler Lewis,2016
+14,84,14,2016-01-02,Butler,@,Xavier,REG (Conf),L 69-88,,24,3,7,0.429,1,2,0.5,2,5,0.4,0.5,3,3,1.0,0,2,2,4,0,0,0,1,10,9.3,A,0,1,tyler-lewis-1,Tyler Lewis,2016
+15,85,15,2016-01-05,Butler,@,DePaul,REG (Conf),W 77-72,*,23,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,0,0,7,0,0,1,4,4,4.2,A,1,1,tyler-lewis-1,Tyler Lewis,2016
+16,86,16,2016-01-10,Butler,,Villanova,REG (Conf),L 55-60,*,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,2,2,1,0,0,1,1,2,-0.5,H,0,1,tyler-lewis-1,Tyler Lewis,2016
+17,87,17,2016-01-16,Butler,,St. John's (NY),REG (Conf),W 78-58,*,17,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,0,0,1,1,0,1,1,2,-0.8,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+18,88,18,2016-01-19,Butler,@,Providence,REG (Conf),L 68-71,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,3,0,-1.9,A,0,1,tyler-lewis-1,Tyler Lewis,2016
+19,89,23,2016-02-06,Butler,@,St. John's (NY),REG (Conf),W 89-56,,20,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,5,4,0,0,1,7,11.7,A,1,1,tyler-lewis-1,Tyler Lewis,2016
+20,90,24,2016-02-10,Butler,@,Seton Hall,REG (Conf),W 81-75,,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,0,0,0,0,2,5,3.2,A,1,1,tyler-lewis-1,Tyler Lewis,2016
+21,91,25,2016-02-13,Butler,,Xavier,REG (Conf),L 57-74,,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,1,0,0,1,0,3,0.3,H,0,1,tyler-lewis-1,Tyler Lewis,2016
+22,92,26,2016-02-16,Butler,,Creighton,REG (Conf),W 88-75,,15,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,1,1,3,2,0,0,1,2,3.9,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+23,93,27,2016-02-20,Butler,@,Villanova,REG (Conf),L 67-77,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,1,0,0,2,0,-0.5,A,0,1,tyler-lewis-1,Tyler Lewis,2016
+24,94,28,2016-02-27,Butler,@,Georgetown,REG (Conf),W 90-87 (OT),,15,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,4,0.75,0,1,1,1,0,0,2,2,8,3.8,A,1,1,tyler-lewis-1,Tyler Lewis,2016
+25,95,29,2016-03-02,Butler,,Seton Hall,REG (Conf),W 85-78,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,2,0,0,1,0,4,3.4,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+26,96,30,2016-03-05,Butler,,Marquette,REG (Conf),W 95-74,,10,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,0,0,0,2,0,0,1,2,5,2.2,H,1,1,tyler-lewis-1,Tyler Lewis,2016
+27,97,31,2016-03-10,Butler,N,Providence,CTOURN,L 60-74,,9,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,0,1,0,0,0,0,0,7,4.7,N,0,0,tyler-lewis-1,Tyler Lewis,2016
+28,98,32,2016-03-17,Butler,N,Texas Tech,ROUND-64,W 71-61,,4,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,0,2,0.3,N,1,0,tyler-lewis-1,Tyler Lewis,2016
+29,99,33,2016-03-19,Butler,N,Virginia,ROUND-32,L 69-77,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,1,2,1.9,N,0,0,tyler-lewis-1,Tyler Lewis,2016

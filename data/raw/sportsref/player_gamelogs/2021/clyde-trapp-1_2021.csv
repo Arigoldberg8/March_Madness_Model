@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2020-11-25,Clemson,N,Mississippi State,REG (Non-Conf),W 53-42,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,3,4,4,0,0,2,1,5,5.0,N,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+2,86,2,2020-11-26,Clemson,N,Purdue,REG (Non-Conf),W 81-70,*,29,4,8,0.5,0,1,0.0,4,7,0.571,0.5,1,2,0.5,1,3,4,2,0,0,0,0,9,7.6,N,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+3,87,3,2020-12-02,Clemson,,South Carolina State,REG (Non-Conf),W 75-38,*,17,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,2,3,5,1,2,0,3,2,7,6.2,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+4,88,4,2020-12-09,Clemson,,Maryland,REG (Non-Conf),W 67-51,*,25,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,6,7,2,1,1,2,1,0,2.5,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+5,89,5,2020-12-12,Clemson,N,Alabama,REG (Non-Conf),W 64-56,*,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,2,0.0,1,4,5,2,1,0,3,1,4,1.4,N,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+6,90,6,2020-12-15,Clemson,@,Virginia Tech,REG (Conf),L 60-66,*,24,3,7,0.429,2,3,0.667,1,4,0.25,0.571,1,2,0.5,0,3,3,1,0,1,1,4,9,4.6,A,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+7,91,7,2020-12-21,Clemson,,Morehead State,REG (Non-Conf),W 66-51,*,25,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,4,1.0,0,5,5,2,2,0,2,2,8,6.0,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+8,92,8,2020-12-29,Clemson,,Florida State,REG (Conf),W 77-67,*,23,4,10,0.4,1,3,0.333,3,7,0.429,0.45,6,8,0.75,1,5,6,0,3,0,1,1,15,12.6,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+9,93,9,2021-01-02,Clemson,@,Miami (FL),REG (Conf),W 66-65,*,35,2,9,0.222,1,2,0.5,1,7,0.143,0.278,0,0,,0,5,5,5,0,0,1,2,5,2.7,A,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+10,94,10,2021-01-05,Clemson,,NC State,REG (Conf),W 74-70 (OT),*,33,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,3,0.0,0,7,7,0,0,0,2,2,11,4.1,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+11,95,11,2021-01-16,Clemson,,Virginia,REG (Conf),L 50-85,*,28,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,5,5,1,0,0,0,1,6,5.4,H,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+12,96,12,2021-01-20,Clemson,@,Georgia Tech,REG (Conf),L 65-83,*,32,6,9,0.667,2,2,1.0,4,7,0.571,0.778,0,0,,1,6,7,1,0,2,2,0,14,12.7,A,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+13,97,13,2021-01-23,Clemson,@,Florida State,REG (Conf),L 61-80,*,27,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,1,0.0,0,5,5,0,0,0,1,1,7,3.0,A,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+14,98,14,2021-01-27,Clemson,,Louisville,REG (Conf),W 54-50,*,36,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,4,0.5,0,7,7,2,0,0,2,3,6,2.8,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+15,99,15,2021-01-30,Clemson,@,Duke,REG (Conf),L 53-79,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,4,4,3,0,1,0,1,2,4.6,A,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+16,100,16,2021-02-02,Clemson,,North Carolina,REG (Conf),W 63-50,*,35,6,13,0.462,1,3,0.333,5,10,0.5,0.5,1,3,0.333,0,9,9,2,1,1,0,0,14,12.3,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+17,101,17,2021-02-06,Clemson,,Syracuse,REG (Conf),W 78-61,*,36,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,6,8,11,2,0,5,2,2,6.7,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+18,102,18,2021-02-12,Clemson,,Georgia Tech,REG (Conf),W 74-72,*,32,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,8,8,3,1,0,3,4,6,2.8,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+19,103,19,2021-02-24,Clemson,@,Wake Forest,REG (Conf),W 60-39,*,32,1,8,0.125,0,4,0.0,1,4,0.25,0.125,2,2,1.0,1,3,4,2,0,1,1,0,4,1.5,A,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+20,104,20,2021-02-27,Clemson,,Miami (FL),REG (Conf),W 66-58,*,33,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,1,1.0,0,4,4,4,1,0,2,0,5,3.9,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+21,105,21,2021-03-03,Clemson,@,Syracuse,REG (Conf),L 54-64,*,27,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,0,5,5,5,0,0,5,2,3,-2.3,A,0,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+22,106,22,2021-03-06,Clemson,,Pittsburgh,REG (Conf),W 77-62,*,32,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,5,6,3,1,1,3,2,8,7.2,H,1,1,clyde-trapp-1,Clyde Trapp Jr.,2021
+23,107,23,2021-03-10,Clemson,N,Miami (FL),CTOURN,L 64-67,*,30,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,0,1,1,3,0,0,4,2,10,5.7,N,0,0,clyde-trapp-1,Clyde Trapp Jr.,2021
+24,108,24,2021-03-19,Clemson,N,Rutgers,ROUND-64,L 56-60,*,30,5,6,0.833,1,2,0.5,4,4,1.0,0.917,3,3,1.0,1,2,3,2,0,1,2,4,14,11.6,N,0,0,clyde-trapp-1,Clyde Trapp Jr.,2021

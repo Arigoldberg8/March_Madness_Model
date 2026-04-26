@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2024-11-04,Vanderbilt,,Maryland Eastern Shore,REG (Non-Conf),W 102-63,*,23,10,10,1.0,0,0,,10,10,1.0,1.0,4,5,0.8,6,7,13,0,0,2,0,2,24,27.5,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+2,71,2,2024-11-10,Vanderbilt,,Southeast Missouri State,REG (Non-Conf),W 85-76,*,26,4,9,0.444,0,0,,4,9,0.444,0.444,6,9,0.667,11,8,19,2,0,4,1,1,14,21.0,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+3,72,3,2024-11-13,Vanderbilt,,California,REG (Non-Conf),W 85-69,*,23,8,12,0.667,1,4,0.25,7,8,0.875,0.708,1,1,1.0,2,3,5,0,0,3,1,4,18,14.6,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+4,73,4,2024-11-16,Vanderbilt,,Jackson State,REG (Non-Conf),W 94-81,*,19,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,4,4,2,1,3,0,5,10,12.5,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+5,74,5,2024-11-21,Vanderbilt,N,Nevada,REG (Non-Conf),W 73-71,*,30,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,3,5,8,1,0,1,0,2,9,9.5,N,1,1,devin-mcglockton-1,Devin McGlockton,2025
+6,75,6,2024-11-22,Vanderbilt,N,Seton Hall,REG (Non-Conf),W 76-60,*,20,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,3,0.667,2,2,4,0,1,0,0,1,13,12.3,N,1,1,devin-mcglockton-1,Devin McGlockton,2025
+7,76,7,2024-11-24,Vanderbilt,N,Drake,REG (Non-Conf),L 70-81,*,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,0,2,1,1,1,1,3,4,3.6,N,0,1,devin-mcglockton-1,Devin McGlockton,2025
+8,77,8,2024-11-29,Vanderbilt,,Tennessee Tech,REG (Non-Conf),W 87-56,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,5,9,14,2,2,0,0,1,3,9.4,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+9,78,9,2024-12-04,Vanderbilt,@,Virginia Tech,REG (Non-Conf),W 80-64,*,22,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,3,4,2,1,1,1,1,6,8.0,A,1,1,devin-mcglockton-1,Devin McGlockton,2025
+10,79,10,2024-12-08,Vanderbilt,N,TCU,REG (Non-Conf),W 83-74,*,28,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,2,0.5,1,6,7,0,0,2,1,2,10,7.7,N,1,1,devin-mcglockton-1,Devin McGlockton,2025
+11,80,11,2024-12-18,Vanderbilt,,The Citadel,REG (Non-Conf),W 105-53,*,23,9,13,0.692,1,2,0.5,8,11,0.727,0.731,0,1,0.0,5,3,8,1,0,0,0,1,19,17.8,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+12,81,12,2024-12-21,Vanderbilt,,Austin Peay,REG (Non-Conf),W 85-55,*,19,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,4,0.5,3,6,9,1,1,2,3,2,11,10.1,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+13,82,13,2024-12-30,Vanderbilt,,New Orleans,REG (Non-Conf),W 100-56,*,22,6,6,1.0,2,2,1.0,4,4,1.0,1.167,0,0,,3,7,10,0,0,0,2,3,14,13.2,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+14,83,14,2025-01-04,Vanderbilt,@,Louisiana State,REG (Conf),W 80-72,*,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,5,5,10,2,0,1,1,4,7,8.5,A,1,1,devin-mcglockton-1,Devin McGlockton,2025
+15,84,15,2025-01-07,Vanderbilt,,Mississippi State,REG (Conf),L 64-76,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,3,3,6,1,1,3,1,1,6,8.7,H,0,1,devin-mcglockton-1,Devin McGlockton,2025
+16,85,16,2025-01-11,Vanderbilt,@,Missouri,REG (Conf),L 66-75,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,4,6,10,0,1,1,3,3,6,5.1,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+17,86,17,2025-01-15,Vanderbilt,,South Carolina,REG (Conf),W 66-63,*,30,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,3,4,7,0,1,1,0,3,11,11.9,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+18,87,18,2025-01-18,Vanderbilt,,Tennessee,REG (Conf),W 76-75,*,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,2,0,2,1,0,1,1,2,8,7.0,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+19,88,19,2025-01-21,Vanderbilt,@,Alabama,REG (Conf),L 87-103,*,29,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,5,9,14,1,1,0,2,4,10,8.2,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+20,89,20,2025-01-25,Vanderbilt,,Kentucky,REG (Conf),W 74-69,*,27,6,10,0.6,2,5,0.4,4,5,0.8,0.7,0,0,,2,4,6,2,2,1,0,3,14,14.9,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+21,90,21,2025-02-01,Vanderbilt,@,Oklahoma,REG (Conf),L 67-97,*,25,8,13,0.615,3,5,0.6,5,8,0.625,0.731,3,4,0.75,2,1,3,0,0,0,0,3,22,16.2,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+22,91,22,2025-02-04,Vanderbilt,@,Florida,REG (Conf),L 75-86,*,28,6,9,0.667,1,2,0.5,5,7,0.714,0.722,1,2,0.5,4,4,8,0,1,0,0,5,14,12.7,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+23,92,23,2025-02-08,Vanderbilt,,Texas,REG (Conf),W 86-78,*,24,2,6,0.333,1,5,0.2,1,1,1.0,0.417,1,1,1.0,3,5,8,0,1,0,0,5,6,5.2,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+24,93,24,2025-02-11,Vanderbilt,,Auburn,REG (Conf),L 68-80,*,30,4,8,0.5,1,1,1.0,3,7,0.429,0.563,1,1,1.0,5,8,13,1,1,2,1,4,10,12.4,H,0,1,devin-mcglockton-1,Devin McGlockton,2025
+25,94,25,2025-02-15,Vanderbilt,@,Tennessee,REG (Conf),L 76-81,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,0,1,0,5,0,-0.3,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+26,95,26,2025-02-19,Vanderbilt,@,Kentucky,REG (Conf),L 61-82,*,30,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,4,0.5,3,7,10,2,3,0,1,2,14,15.0,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+27,96,27,2025-02-22,Vanderbilt,,Ole Miss,REG (Conf),W 77-72,*,34,3,7,0.429,0,2,0.0,3,5,0.6,0.429,4,6,0.667,3,5,8,2,1,0,0,1,10,11.1,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+28,97,28,2025-02-26,Vanderbilt,@,Texas A&M,REG (Conf),W 86-84,*,23,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,8,10,2,2,2,0,5,4,8.6,A,1,1,devin-mcglockton-1,Devin McGlockton,2025
+29,98,29,2025-03-01,Vanderbilt,,Missouri,REG (Conf),W 97-93 (OT),*,29,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,3,5,8,1,2,1,3,4,7,6.7,H,1,1,devin-mcglockton-1,Devin McGlockton,2025
+30,99,30,2025-03-04,Vanderbilt,,Arkansas,REG (Conf),L 77-90,*,19,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,0,,2,1,3,1,1,1,1,5,12,8.8,H,0,1,devin-mcglockton-1,Devin McGlockton,2025
+31,100,31,2025-03-08,Vanderbilt,@,Georgia,REG (Conf),L 68-79,*,20,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,3,5,8,0,0,0,3,5,7,-0.2,A,0,1,devin-mcglockton-1,Devin McGlockton,2025
+32,101,32,2025-03-12,Vanderbilt,N,Texas,CTOURN,L 72-79,*,35,5,9,0.556,0,2,0.0,5,7,0.714,0.556,0,0,,2,8,10,1,0,1,0,4,10,9.3,N,0,0,devin-mcglockton-1,Devin McGlockton,2025
+33,102,33,2025-03-21,Vanderbilt,N,St. Mary's (CA),ROUND-64,L 56-59,*,30,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,2,5,7,1,0,1,1,4,7,4.3,N,0,0,devin-mcglockton-1,Devin McGlockton,2025

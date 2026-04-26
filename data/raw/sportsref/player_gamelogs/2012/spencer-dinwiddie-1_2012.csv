@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Colorado,,Fort Lewis,REG (Non-Conf),W 85-57,*,22,2,9,0.222,0,1,0.0,2,8,0.25,0.222,3,4,0.75,3,4,7,3,0,0,2,5,7,2.5,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+2,2,2,2011-11-17,Colorado,N,Wichita State,REG (Non-Conf),L 58-67,*,27,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,2,1.0,0,0,0,1,1,0,2,1,7,2.2,N,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+3,3,3,2011-11-18,Colorado,N,Maryland,REG (Non-Conf),L 71-78,*,12,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,0,0,1,0,0,0,5,3,-1.4,N,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+4,4,4,2011-11-20,Colorado,N,Western Michigan,REG (Non-Conf),W 81-76,*,23,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,1,3,4,2,0,2,0,0,5,6.3,N,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+5,5,5,2011-11-23,Colorado,@,Air Force,REG (Non-Conf),W 76-73 (OT),*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,4,5,0,0,0,2,4,2,-2.1,A,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+6,6,6,2011-11-28,Colorado,,Georgia,REG (Non-Conf),W 70-68,*,27,4,8,0.5,1,4,0.25,3,4,0.75,0.563,7,8,0.875,0,7,7,1,1,0,0,1,16,15.0,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+7,7,7,2011-11-30,Colorado,@,Colorado State,REG (Non-Conf),L 64-65,*,30,6,10,0.6,2,3,0.667,4,7,0.571,0.7,2,6,0.333,3,5,8,1,0,1,1,2,16,13.0,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+8,8,8,2011-12-07,Colorado,,Fresno State,REG (Non-Conf),W 71-64,*,28,4,6,0.667,2,3,0.667,2,3,0.667,0.833,5,6,0.833,1,1,2,1,0,0,2,2,15,10.9,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+9,9,9,2011-12-09,Colorado,,Wyoming,REG (Non-Conf),L 54-65,*,33,5,9,0.556,2,3,0.667,3,6,0.5,0.667,4,4,1.0,1,3,4,0,0,0,0,3,16,12.1,H,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+10,10,10,2011-12-19,Colorado,,Cal State Bakersfield,REG (Non-Conf),W 70-64,*,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,9,10,0.9,1,3,4,1,0,0,1,1,13,10.1,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+11,11,11,2011-12-22,Colorado,,Texas Southern,REG (Non-Conf),W 56-51,*,32,5,7,0.714,5,6,0.833,0,1,0.0,1.071,3,4,0.75,1,2,3,1,0,0,3,2,18,12.9,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+12,12,12,2011-12-28,Colorado,,New Orleans,REG (Non-Conf),W 92-34,*,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,6,6,1.0,0,5,5,6,1,0,1,2,12,14.6,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+13,13,13,2011-12-31,Colorado,,Utah,REG (Conf),W 73-33,*,26,6,12,0.5,4,7,0.571,2,5,0.4,0.667,3,3,1.0,0,3,3,2,2,1,0,1,19,17.6,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+14,14,14,2012-01-05,Colorado,,Washington,REG (Conf),W 87-69,*,30,2,8,0.25,1,2,0.5,1,6,0.167,0.313,8,9,0.889,0,2,2,5,1,0,1,3,13,10.7,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+15,15,15,2012-01-07,Colorado,,Washington State,REG (Conf),W 71-60,*,26,1,6,0.167,1,4,0.25,0,2,0.0,0.25,2,4,0.5,0,2,2,3,0,0,3,4,5,-1.5,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+16,16,16,2012-01-12,Colorado,@,California,REG (Conf),L 50-57,*,17,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,2,0.0,0,1,1,1,0,0,2,5,2,-4.9,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+17,17,17,2012-01-14,Colorado,@,Stanford,REG (Conf),L 64-84,*,32,3,10,0.3,2,3,0.667,1,7,0.143,0.4,3,3,1.0,2,4,6,2,0,0,5,4,11,2.6,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+18,18,18,2012-01-19,Colorado,,Arizona State,REG (Conf),W 69-54,*,25,3,9,0.333,1,4,0.25,2,5,0.4,0.389,5,6,0.833,1,5,6,0,1,0,0,0,12,9.7,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+19,19,19,2012-01-21,Colorado,,Arizona,REG (Conf),W 64-63,*,32,4,8,0.5,1,3,0.333,3,5,0.6,0.563,4,5,0.8,0,4,4,1,2,1,0,1,13,12.8,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+20,20,20,2012-01-26,Colorado,@,Southern California,REG (Conf),W 74-50,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,0,9,9,1,1,1,2,0,8,7.4,A,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+21,21,21,2012-01-28,Colorado,@,UCLA,REG (Conf),L 60-77,*,29,4,10,0.4,0,3,0.0,4,7,0.571,0.4,1,2,0.5,1,3,4,3,1,0,0,0,9,7.9,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+22,22,22,2012-02-02,Colorado,,Oregon State,REG (Conf),W 82-60,*,23,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,4,0.75,0,0,0,4,1,0,1,2,10,9.3,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+23,23,23,2012-02-04,Colorado,,Oregon,REG (Conf),W 72-71,*,29,5,9,0.556,3,4,0.75,2,5,0.4,0.722,3,3,1.0,0,2,2,1,2,0,2,4,16,11.4,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+24,24,24,2012-02-09,Colorado,@,Arizona,REG (Conf),L 57-71,*,33,4,10,0.4,1,3,0.333,3,7,0.429,0.45,1,2,0.5,0,2,2,3,3,0,2,0,10,7.9,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+25,25,25,2012-02-11,Colorado,@,Arizona State,REG (Conf),W 63-49,*,34,4,6,0.667,3,5,0.6,1,1,1.0,0.917,4,4,1.0,0,5,5,1,0,2,2,1,15,13.6,A,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+26,26,26,2012-02-18,Colorado,@,Utah,REG (Conf),W 55-48,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,1,5,6,2,1,0,0,2,9,10.4,A,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+27,27,27,2012-02-23,Colorado,,Stanford,REG (Conf),L 50-74,*,13,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,2,0,2,2,0,0,1,5,1,-2.4,H,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+28,28,28,2012-02-26,Colorado,,California,REG (Conf),W 70-57,*,30,4,9,0.444,3,5,0.6,1,4,0.25,0.611,4,4,1.0,1,2,3,2,0,0,3,1,15,9.6,H,1,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+29,29,29,2012-03-01,Colorado,@,Oregon,REG (Conf),L 81-90,*,34,2,7,0.286,0,4,0.0,2,3,0.667,0.286,8,9,0.889,0,2,2,2,2,0,1,2,12,9.7,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+30,30,30,2012-03-03,Colorado,@,Oregon State,REG (Conf),L 69-83,*,27,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,3,3,3,0,0,3,5,0,-4.8,A,0,1,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+31,31,31,2012-03-07,Colorado,N,Utah,CTOURN,W 53-41,*,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,8,8,1.0,0,0,0,1,2,0,1,4,10,7.7,N,1,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+32,32,32,2012-03-08,Colorado,N,Oregon,CTOURN,W 63-62,*,31,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,1,3,4,1,0,0,1,2,8,3.7,N,1,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+33,33,33,2012-03-09,Colorado,N,California,CTOURN,W 70-59,*,36,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,1,2,3,3,4,0,2,4,6,6.0,N,1,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+34,34,34,2012-03-10,Colorado,N,Arizona,CTOURN,W 53-51,*,37,5,9,0.556,4,4,1.0,1,5,0.2,0.778,0,0,,1,3,4,0,0,0,0,0,14,11.3,N,1,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+35,35,35,2012-03-15,Colorado,N,UNLV,ROUND-64,W 68-64,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,7,11,0.636,1,5,6,1,1,1,4,3,9,5.8,N,1,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012
+36,36,36,2012-03-17,Colorado,N,Baylor,ROUND-32,L 63-80,*,28,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,2,0,0,0,3,3,2.8,N,0,0,spencer-dinwiddie-1,Spencer Dinwiddie,2012

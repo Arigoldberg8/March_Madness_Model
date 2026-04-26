@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,129,1,2021-11-09,Wisconsin,,St. Francis Brooklyn,REG (Non-Conf),W 81-58,*,23,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,1,0.0,0,6,6,2,2,0,1,2,8,6.6,H,1,1,brad-davison-1,Brad Davison,2022
+2,130,2,2021-11-12,Wisconsin,,Green Bay,REG (Non-Conf),W 72-34,*,24,5,8,0.625,1,4,0.25,4,4,1.0,0.688,4,4,1.0,2,1,3,2,1,0,1,2,15,13.7,H,1,1,brad-davison-1,Brad Davison,2022
+3,131,3,2021-11-15,Wisconsin,,Providence,REG (Non-Conf),L 58-63,*,39,7,17,0.412,3,11,0.273,4,6,0.667,0.5,8,10,0.8,1,6,7,0,3,0,2,4,25,17.0,H,0,1,brad-davison-1,Brad Davison,2022
+4,132,4,2021-11-22,Wisconsin,N,Texas A&M,REG (Non-Conf),W 69-58,*,35,5,16,0.313,3,11,0.273,2,5,0.4,0.406,6,6,1.0,0,7,7,3,0,0,1,2,19,12.2,N,1,1,brad-davison-1,Brad Davison,2022
+5,133,5,2021-11-23,Wisconsin,N,Houston,REG (Non-Conf),W 65-63,*,28,2,6,0.333,1,5,0.2,1,1,1.0,0.417,4,4,1.0,0,4,4,2,1,0,1,4,9,6.6,N,1,1,brad-davison-1,Brad Davison,2022
+6,134,6,2021-11-24,Wisconsin,N,St. Mary's (CA),REG (Non-Conf),W 61-55,*,35,1,10,0.1,1,7,0.143,0,3,0.0,0.15,1,2,0.5,1,2,3,1,0,0,0,3,4,-2.2,N,1,1,brad-davison-1,Brad Davison,2022
+7,135,7,2021-12-01,Wisconsin,@,Georgia Tech,REG (Non-Conf),W 70-66,*,37,9,16,0.563,5,9,0.556,4,7,0.571,0.719,4,5,0.8,0,1,1,3,0,0,1,2,27,19.6,A,1,1,brad-davison-1,Brad Davison,2022
+8,136,8,2021-12-04,Wisconsin,,Marquette,REG (Non-Conf),W 89-76,*,33,6,12,0.5,4,8,0.5,2,4,0.5,0.667,4,5,0.8,0,4,4,1,0,0,0,1,20,15.1,H,1,1,brad-davison-1,Brad Davison,2022
+9,137,9,2021-12-08,Wisconsin,,Indiana,REG (Conf),W 64-59,*,34,3,12,0.25,2,7,0.286,1,5,0.2,0.333,0,0,,0,4,4,3,1,0,1,1,8,3.7,H,1,1,brad-davison-1,Brad Davison,2022
+10,138,10,2021-12-11,Wisconsin,@,Ohio State,REG (Conf),L 55-73,*,28,4,12,0.333,3,6,0.5,1,6,0.167,0.458,2,2,1.0,0,5,5,0,0,0,1,3,13,5.5,A,0,1,brad-davison-1,Brad Davison,2022
+11,139,11,2021-12-15,Wisconsin,,Nicholls State,REG (Non-Conf),W 71-68,*,35,5,12,0.417,4,9,0.444,1,3,0.333,0.583,5,6,0.833,0,1,1,2,1,0,1,5,19,11.9,H,1,1,brad-davison-1,Brad Davison,2022
+12,140,12,2021-12-29,Wisconsin,,Illinois State,REG (Non-Conf),W 89-85,*,33,1,9,0.111,1,8,0.125,0,1,0.0,0.167,4,4,1.0,1,4,5,3,0,0,1,2,7,3.3,H,1,1,brad-davison-1,Brad Davison,2022
+13,141,13,2022-01-03,Wisconsin,@,Purdue,REG (Conf),W 74-69,*,38,5,11,0.455,3,6,0.5,2,5,0.4,0.591,2,2,1.0,0,3,3,3,0,0,0,1,15,11.9,A,1,1,brad-davison-1,Brad Davison,2022
+14,142,14,2022-01-06,Wisconsin,,Iowa,REG (Conf),W 87-78,*,32,6,11,0.545,1,3,0.333,5,8,0.625,0.591,5,5,1.0,3,4,7,2,1,0,1,1,18,17.0,H,1,1,brad-davison-1,Brad Davison,2022
+15,143,15,2022-01-09,Wisconsin,@,Maryland,REG (Conf),W 70-69,*,38,3,10,0.3,1,7,0.143,2,3,0.667,0.35,4,6,0.667,1,2,3,2,1,0,1,1,11,6.7,A,1,1,brad-davison-1,Brad Davison,2022
+16,144,16,2022-01-13,Wisconsin,,Ohio State,REG (Conf),W 78-68,*,37,7,12,0.583,4,6,0.667,3,6,0.5,0.75,7,8,0.875,0,3,3,1,0,0,1,2,25,18.8,H,1,1,brad-davison-1,Brad Davison,2022
+17,145,17,2022-01-18,Wisconsin,@,Northwestern,REG (Conf),W 82-76,*,37,4,8,0.5,2,6,0.333,2,2,1.0,0.625,3,3,1.0,0,4,4,4,0,0,1,1,13,11.6,A,1,1,brad-davison-1,Brad Davison,2022
+18,146,18,2022-01-21,Wisconsin,,Michigan State,REG (Conf),L 74-86,*,35,8,12,0.667,6,10,0.6,2,2,1.0,0.917,0,0,,0,2,2,3,1,0,2,3,22,17.3,H,0,1,brad-davison-1,Brad Davison,2022
+19,147,19,2022-01-27,Wisconsin,@,Nebraska,REG (Conf),W 73-65,*,35,6,14,0.429,5,8,0.625,1,6,0.167,0.607,4,5,0.8,0,7,7,4,3,0,2,3,21,17.9,A,1,1,brad-davison-1,Brad Davison,2022
+20,148,20,2022-01-30,Wisconsin,,Minnesota,REG (Conf),W 66-60,*,38,5,13,0.385,4,9,0.444,1,4,0.25,0.538,0,0,,0,4,4,2,1,0,1,2,14,8.7,H,1,1,brad-davison-1,Brad Davison,2022
+21,149,21,2022-02-02,Wisconsin,@,Illinois,REG (Conf),L 67-80,*,36,3,12,0.25,0,6,0.0,3,6,0.5,0.25,1,1,1.0,0,6,6,0,0,0,0,3,7,0.4,A,0,1,brad-davison-1,Brad Davison,2022
+22,150,22,2022-02-05,Wisconsin,,Penn State,REG (Conf),W 51-49,*,35,3,10,0.3,1,6,0.167,2,4,0.5,0.35,2,2,1.0,1,3,4,1,0,0,1,3,9,3.3,H,1,1,brad-davison-1,Brad Davison,2022
+23,151,23,2022-02-08,Wisconsin,@,Michigan State,REG (Conf),W 70-62,*,35,2,10,0.2,2,7,0.286,0,3,0.0,0.3,2,2,1.0,1,1,2,1,0,0,1,1,8,2.1,A,1,1,brad-davison-1,Brad Davison,2022
+24,152,24,2022-02-12,Wisconsin,,Rutgers,REG (Conf),L 65-73,*,37,3,13,0.231,1,9,0.111,2,4,0.5,0.269,2,2,1.0,0,4,4,3,1,0,1,4,9,2.8,H,0,1,brad-davison-1,Brad Davison,2022
+25,153,25,2022-02-15,Wisconsin,@,Indiana,REG (Conf),W 74-69,*,35,4,11,0.364,3,8,0.375,1,3,0.333,0.5,10,10,1.0,0,7,7,2,2,0,1,2,21,18.6,A,1,1,brad-davison-1,Brad Davison,2022
+26,154,26,2022-02-20,Wisconsin,,Michigan,REG (Conf),W 77-63,*,33,2,9,0.222,2,7,0.286,0,2,0.0,0.333,4,4,1.0,0,2,2,0,2,0,0,3,10,5.9,H,1,1,brad-davison-1,Brad Davison,2022
+27,155,27,2022-02-23,Wisconsin,@,Minnesota,REG (Conf),W 68-67,*,36,2,8,0.25,1,6,0.167,1,2,0.5,0.313,2,2,1.0,0,3,3,3,0,0,2,2,7,2.4,A,1,1,brad-davison-1,Brad Davison,2022
+28,156,28,2022-02-26,Wisconsin,@,Rutgers,REG (Conf),W 66-61,*,36,5,11,0.455,4,8,0.5,1,3,0.333,0.636,0,0,,0,4,4,2,2,0,0,2,14,12.1,A,1,1,brad-davison-1,Brad Davison,2022
+29,157,29,2022-03-01,Wisconsin,,Purdue,REG (Conf),W 70-67,*,32,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,1,0.0,0,4,4,0,0,0,0,2,7,3.3,H,1,1,brad-davison-1,Brad Davison,2022
+30,158,30,2022-03-06,Wisconsin,,Nebraska,REG (Conf),L 73-74,*,38,5,15,0.333,3,9,0.333,2,6,0.333,0.433,7,9,0.778,0,4,4,3,1,0,0,1,20,14.6,H,0,1,brad-davison-1,Brad Davison,2022
+31,159,31,2022-03-11,Wisconsin,N,Michigan State,CTOURN,L 63-69,*,35,8,15,0.533,3,8,0.375,5,7,0.714,0.633,4,5,0.8,0,3,3,3,0,0,0,5,23,16.3,N,0,0,brad-davison-1,Brad Davison,2022
+32,160,32,2022-03-18,Wisconsin,N,Colgate,ROUND-64,W 67-60,*,37,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,2,2,4,0,0,1,2,4,2.5,N,1,0,brad-davison-1,Brad Davison,2022
+33,161,33,2022-03-20,Wisconsin,N,Iowa State,ROUND-32,L 49-54,*,37,3,7,0.429,1,3,0.333,2,4,0.5,0.5,5,7,0.714,0,4,4,4,4,0,2,4,12,11.9,N,0,0,brad-davison-1,Brad Davison,2022

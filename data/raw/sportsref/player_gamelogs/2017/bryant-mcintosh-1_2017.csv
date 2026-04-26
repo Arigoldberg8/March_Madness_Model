@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2016-11-11,Northwestern,,Mississippi Valley State,REG (Non-Conf),W 94-63,*,29,4,10,0.4,1,6,0.167,3,4,0.75,0.45,2,2,1.0,0,2,2,4,1,0,2,4,11,6.4,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+2,66,2,2016-11-14,Northwestern,,Eastern Washington,REG (Non-Conf),W 86-72,*,37,8,17,0.471,0,1,0.0,8,16,0.5,0.471,2,2,1.0,0,1,1,7,0,0,1,1,18,13.1,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+3,67,3,2016-11-16,Northwestern,@,Butler,REG (Non-Conf),L 68-70,*,36,4,9,0.444,1,2,0.5,3,7,0.429,0.5,3,4,0.75,0,0,0,5,1,0,5,2,12,5.6,A,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+4,68,4,2016-11-21,Northwestern,N,Texas,REG (Non-Conf),W 77-58,*,37,7,18,0.389,2,7,0.286,5,11,0.455,0.444,4,4,1.0,0,1,1,5,2,0,1,2,20,14.2,N,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+5,69,5,2016-11-22,Northwestern,N,Notre Dame,REG (Non-Conf),L 66-70,*,35,3,18,0.167,1,3,0.333,2,15,0.133,0.194,0,0,,1,1,2,4,0,0,4,0,7,-4.6,N,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+6,70,6,2016-11-25,Northwestern,,Bryant,REG (Non-Conf),W 86-66,*,33,3,11,0.273,0,5,0.0,3,6,0.5,0.273,2,2,1.0,0,1,1,5,1,1,4,1,8,2.6,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+7,71,7,2016-11-28,Northwestern,,Wake Forest,REG (Non-Conf),W 65-58,*,34,10,16,0.625,2,3,0.667,8,13,0.615,0.688,1,2,0.5,1,3,4,2,0,0,2,3,23,15.2,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+8,72,8,2016-12-03,Northwestern,,DePaul,REG (Non-Conf),W 80-64,*,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,6,6,5,0,0,4,4,4,1.3,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+9,73,9,2016-12-11,Northwestern,,New Orleans,REG (Non-Conf),W 83-49,*,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,0,1,1,7,2,0,1,1,9,11.1,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+10,74,10,2016-12-14,Northwestern,,Chicago State,REG (Non-Conf),W 68-64,*,37,4,14,0.286,2,8,0.25,2,6,0.333,0.357,4,4,1.0,0,2,2,7,0,0,0,2,14,10.5,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+11,75,11,2016-12-17,Northwestern,N,Dayton,REG (Non-Conf),W 67-64,*,36,5,12,0.417,1,5,0.2,4,7,0.571,0.458,2,2,1.0,0,4,4,5,0,1,8,2,13,3.2,N,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+12,76,12,2016-12-20,Northwestern,,IUPUI,REG (Non-Conf),W 87-65,*,34,3,10,0.3,2,5,0.4,1,5,0.2,0.4,2,2,1.0,0,5,5,9,0,0,2,3,10,8.8,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+13,77,13,2016-12-22,Northwestern,,Houston Baptist,REG (Non-Conf),W 72-63,*,35,3,15,0.2,1,4,0.25,2,11,0.182,0.233,2,4,0.5,1,2,3,6,1,0,5,2,9,-0.4,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+14,78,14,2016-12-27,Northwestern,@,Penn State,REG (Conf),W 87-77,*,36,5,13,0.385,1,4,0.25,4,9,0.444,0.423,0,0,,2,3,5,8,0,0,2,3,11,8.6,A,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+15,79,15,2016-12-30,Northwestern,@,Michigan State,REG (Conf),L 52-61,*,37,3,14,0.214,0,3,0.0,3,11,0.273,0.214,1,1,1.0,0,0,0,5,1,0,2,5,7,-1.1,A,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+16,80,16,2017-01-05,Northwestern,,Minnesota,REG (Conf),L 66-70,*,31,7,15,0.467,2,5,0.4,5,10,0.5,0.533,5,5,1.0,0,2,2,5,1,0,3,2,21,14.6,H,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+17,81,17,2017-01-08,Northwestern,@,Nebraska,REG (Conf),W 74-66,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,4,4,1.0,1,3,4,4,1,0,1,3,11,8.4,A,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+18,82,18,2017-01-12,Northwestern,@,Rutgers,REG (Conf),W 69-60,*,31,2,10,0.2,0,2,0.0,2,8,0.25,0.2,2,2,1.0,0,2,2,4,1,1,3,1,6,1.5,A,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+19,83,19,2017-01-15,Northwestern,,Iowa,REG (Conf),W 89-54,*,32,9,11,0.818,2,3,0.667,7,8,0.875,0.909,0,0,,0,1,1,10,1,0,1,1,20,22.8,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+20,84,20,2017-01-22,Northwestern,@,Ohio State,REG (Conf),W 74-72,*,30,4,12,0.333,2,7,0.286,2,5,0.4,0.417,7,8,0.875,1,2,3,1,1,0,2,3,17,9.6,A,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+21,85,21,2017-01-26,Northwestern,,Nebraska,REG (Conf),W 73-61,*,32,3,13,0.231,1,3,0.333,2,10,0.2,0.269,2,2,1.0,0,3,3,9,2,1,1,2,9,9.2,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+22,86,22,2017-01-29,Northwestern,,Indiana,REG (Conf),W 68-55,*,37,7,13,0.538,2,4,0.5,5,9,0.556,0.615,5,6,0.833,0,4,4,8,1,0,4,3,21,16.9,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+23,87,23,2017-02-01,Northwestern,@,Purdue,REG (Conf),L 59-80,*,37,9,19,0.474,1,4,0.25,8,15,0.533,0.5,3,3,1.0,0,4,4,4,0,0,1,1,22,14.9,A,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+24,88,24,2017-02-07,Northwestern,,Illinois,REG (Conf),L 61-68,*,39,8,20,0.4,1,3,0.333,7,17,0.412,0.425,4,6,0.667,0,3,3,4,1,0,6,2,21,7.3,H,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+25,89,25,2017-02-12,Northwestern,@,Wisconsin,REG (Conf),W 66-59,*,40,10,23,0.435,1,2,0.5,9,21,0.429,0.457,4,4,1.0,0,7,7,7,0,0,2,1,25,17.5,A,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+26,90,26,2017-02-15,Northwestern,,Maryland,REG (Conf),L 64-74,*,31,3,13,0.231,0,5,0.0,3,8,0.375,0.231,3,4,0.75,1,3,4,6,0,0,2,4,9,2.9,H,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+27,91,27,2017-02-18,Northwestern,,Rutgers,REG (Conf),W 69-65,*,36,6,11,0.545,1,3,0.333,5,8,0.625,0.591,5,6,0.833,1,1,2,6,1,0,2,2,18,15.7,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+28,92,28,2017-02-21,Northwestern,@,Illinois,REG (Conf),L 50-66,*,31,6,17,0.353,0,4,0.0,6,13,0.462,0.353,4,5,0.8,0,5,5,3,0,0,3,3,16,5.5,A,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+29,93,29,2017-02-25,Northwestern,@,Indiana,REG (Conf),L 62-63,*,37,8,18,0.444,3,5,0.6,5,13,0.385,0.528,3,4,0.75,0,5,5,2,1,0,1,1,22,14.7,A,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+30,94,30,2017-03-01,Northwestern,,Michigan,REG (Conf),W 67-65,*,38,6,16,0.375,1,3,0.333,5,13,0.385,0.406,0,0,,0,1,1,5,0,0,4,2,13,3.2,H,1,1,bryant-mcintosh-1,Bryant McIntosh,2017
+31,95,31,2017-03-05,Northwestern,,Purdue,REG (Conf),L 65-69,*,37,10,17,0.588,2,4,0.5,8,13,0.615,0.647,3,4,0.75,0,2,2,6,0,0,2,0,25,19.5,H,0,1,bryant-mcintosh-1,Bryant McIntosh,2017
+32,96,32,2017-03-09,Northwestern,N,Rutgers,CTOURN,W 83-61,*,32,6,9,0.667,1,2,0.5,5,7,0.714,0.722,0,0,,0,2,2,3,0,0,3,2,13,8.0,N,1,0,bryant-mcintosh-1,Bryant McIntosh,2017
+33,97,33,2017-03-10,Northwestern,N,Maryland,CTOURN,W 72-64,*,36,5,10,0.5,2,2,1.0,3,8,0.375,0.6,4,5,0.8,0,0,0,6,2,0,3,1,16,13.4,N,1,0,bryant-mcintosh-1,Bryant McIntosh,2017
+34,98,34,2017-03-11,Northwestern,N,Wisconsin,CTOURN,L 48-76,*,31,4,12,0.333,0,2,0.0,4,10,0.4,0.333,0,0,,0,2,2,1,0,0,1,1,8,1.1,N,0,0,bryant-mcintosh-1,Bryant McIntosh,2017
+35,99,35,2017-03-16,Northwestern,N,Vanderbilt,ROUND-64,W 68-66,*,34,10,16,0.625,3,5,0.6,7,11,0.636,0.719,2,2,1.0,0,4,4,3,2,0,3,3,25,18.9,N,1,0,bryant-mcintosh-1,Bryant McIntosh,2017
+36,100,36,2017-03-18,Northwestern,N,Gonzaga,ROUND-32,L 73-79,*,38,7,20,0.35,1,4,0.25,6,16,0.375,0.375,5,5,1.0,0,3,3,7,2,0,5,1,20,11.2,N,0,0,bryant-mcintosh-1,Bryant McIntosh,2017

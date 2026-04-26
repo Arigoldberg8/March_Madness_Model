@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2014-11-14,Arizona,,Mount St. Mary's,REG (Non-Conf),W 78-55,*,28,9,10,0.9,0,0,,9,10,0.9,0.9,3,6,0.5,4,2,6,1,2,0,2,1,21,20.1,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+2,59,2,2014-11-16,Arizona,,Cal State Northridge,REG (Non-Conf),W 86-68,*,28,4,6,0.667,0,1,0.0,4,5,0.8,0.667,5,7,0.714,3,0,3,1,2,0,1,1,13,13.0,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+3,60,3,2014-11-19,Arizona,,UC Irvine,REG (Non-Conf),W 71-54,*,33,3,10,0.3,0,1,0.0,3,9,0.333,0.3,5,6,0.833,2,4,6,2,2,0,3,2,11,7.0,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+4,61,4,2014-11-24,Arizona,N,Missouri,REG (Non-Conf),W 72-53,*,25,5,9,0.556,0,1,0.0,5,8,0.625,0.556,5,7,0.714,0,2,2,0,0,0,1,4,15,7.9,N,1,1,brandon-ashley-1,Brandon Ashley,2015
+5,62,5,2014-11-25,Arizona,N,Kansas State,REG (Non-Conf),W 72-68,*,34,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,5,0.8,1,4,5,1,1,1,6,2,10,2.7,N,1,1,brandon-ashley-1,Brandon Ashley,2015
+6,63,6,2014-11-26,Arizona,N,San Diego State,REG (Non-Conf),W 61-59,*,35,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,5,5,0,2,2,3,4,6,3.3,N,1,1,brandon-ashley-1,Brandon Ashley,2015
+7,64,7,2014-12-02,Arizona,,Gardner-Webb,REG (Non-Conf),W 91-65,*,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,1,7,8,0,2,0,1,5,7,4.0,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+8,65,8,2014-12-06,Arizona,,Gonzaga,REG (Non-Conf),W 66-63 (OT),*,38,6,11,0.545,2,2,1.0,4,9,0.444,0.636,0,0,,1,4,5,2,0,1,0,4,14,11.1,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+9,66,9,2014-12-09,Arizona,,Utah Valley,REG (Non-Conf),W 87-56,*,21,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,3,0.667,0,4,4,0,1,1,3,1,7,3.4,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+10,67,10,2014-12-13,Arizona,,Michigan,REG (Non-Conf),W 80-53,*,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,3,0.333,2,4,6,0,1,1,0,3,10,9.7,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+11,68,11,2014-12-16,Arizona,,Oakland,REG (Non-Conf),W 101-64,*,27,5,7,0.714,2,3,0.667,3,4,0.75,0.857,3,5,0.6,4,4,8,1,0,0,1,3,15,13.8,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+12,69,12,2014-12-19,Arizona,@,UTEP,REG (Non-Conf),W 60-55,*,32,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,4,0.25,2,4,6,0,0,1,1,4,10,6.2,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+13,70,13,2014-12-23,Arizona,@,UNLV,REG (Non-Conf),L 67-71,*,36,4,11,0.364,0,3,0.0,4,8,0.5,0.364,5,7,0.714,1,8,9,3,0,0,2,2,13,8.5,A,0,1,brandon-ashley-1,Brandon Ashley,2015
+14,71,14,2015-01-04,Arizona,,Arizona State,REG (Conf),W 73-49,*,24,4,10,0.4,3,4,0.75,1,6,0.167,0.55,2,2,1.0,1,2,3,1,1,0,2,2,13,7.8,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+15,72,15,2015-01-08,Arizona,@,Oregon,REG (Conf),W 80-62,*,29,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,6,0.667,1,1,2,0,1,1,1,4,10,4.9,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+16,73,16,2015-01-11,Arizona,@,Oregon State,REG (Conf),L 56-58,*,29,2,8,0.25,0,1,0.0,2,7,0.286,0.25,1,2,0.5,2,1,3,0,0,1,1,2,5,0.4,A,0,1,brandon-ashley-1,Brandon Ashley,2015
+17,74,17,2015-01-15,Arizona,,Colorado,REG (Conf),W 68-54,*,30,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,1,1.0,4,7,11,0,0,0,0,2,7,6.0,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+18,75,18,2015-01-17,Arizona,,Utah,REG (Conf),W 69-51,*,31,6,9,0.667,0,1,0.0,6,8,0.75,0.667,2,3,0.667,3,5,8,0,0,1,1,1,14,12.6,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+19,76,19,2015-01-22,Arizona,@,Stanford,REG (Conf),W 89-82,*,16,5,7,0.714,1,1,1.0,4,6,0.667,0.786,6,8,0.75,2,1,3,0,0,0,1,4,17,12.4,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+20,77,20,2015-01-24,Arizona,@,California,REG (Conf),W 73-50,*,19,1,5,0.2,0,0,,1,5,0.2,0.2,4,4,1.0,0,2,2,0,0,0,0,5,6,1.5,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+21,78,21,2015-01-28,Arizona,,Oregon,REG (Conf),W 90-56,*,24,5,9,0.556,0,2,0.0,5,7,0.714,0.556,3,4,0.75,1,3,4,2,0,0,2,2,13,8.5,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+22,79,22,2015-01-30,Arizona,,Oregon State,REG (Conf),W 57-34,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,3,3,6,0,0,1,2,1,12,8.6,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+23,80,23,2015-02-07,Arizona,@,Arizona State,REG (Conf),L 78-81,*,30,5,12,0.417,0,3,0.0,5,9,0.556,0.417,3,6,0.5,3,3,6,0,0,1,2,2,13,6.3,A,0,1,brandon-ashley-1,Brandon Ashley,2015
+24,81,24,2015-02-13,Arizona,@,Washington,REG (Conf),W 86-62,*,20,4,9,0.444,0,0,,4,9,0.444,0.444,3,7,0.429,0,3,3,2,1,1,0,3,11,7.5,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+25,82,25,2015-02-15,Arizona,@,Washington State,REG (Conf),W 86-59,*,33,8,17,0.471,0,1,0.0,8,16,0.5,0.471,1,3,0.333,6,2,8,0,0,2,1,3,17,11.5,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+26,83,26,2015-02-19,Arizona,,Southern California,REG (Conf),W 87-57,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,4,3,7,1,0,1,0,2,11,11.6,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+27,84,27,2015-02-21,Arizona,,UCLA,REG (Conf),W 57-47,*,19,2,10,0.2,0,0,,2,10,0.2,0.2,1,4,0.25,1,2,3,0,1,0,1,3,5,-2.3,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+28,85,28,2015-02-26,Arizona,@,Colorado,REG (Conf),W 82-54,*,25,3,8,0.375,1,1,1.0,2,7,0.286,0.438,4,4,1.0,1,5,6,1,1,0,1,3,11,8.3,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+29,86,29,2015-02-28,Arizona,@,Utah,REG (Conf),W 63-57,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,1,2,3,0,1,3,2,3,7,5.1,A,1,1,brandon-ashley-1,Brandon Ashley,2015
+30,87,30,2015-03-05,Arizona,,California,REG (Conf),W 99-60,*,26,8,12,0.667,0,1,0.0,8,11,0.727,0.667,5,6,0.833,2,4,6,2,1,1,1,2,21,19.3,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+31,88,31,2015-03-07,Arizona,,Stanford,REG (Conf),W 91-69,*,29,5,7,0.714,0,0,,5,7,0.714,0.714,5,6,0.833,3,6,9,1,1,0,3,2,15,13.5,H,1,1,brandon-ashley-1,Brandon Ashley,2015
+32,89,32,2015-03-12,Arizona,N,California,CTOURN,W 73-51,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,7,7,1.0,0,7,7,0,0,2,2,3,15,12.0,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+33,90,33,2015-03-13,Arizona,N,UCLA,CTOURN,W 70-64,*,34,9,11,0.818,0,0,,9,11,0.818,0.818,6,7,0.857,3,4,7,0,0,1,0,3,24,22.3,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+34,91,34,2015-03-14,Arizona,N,Oregon,CTOURN,W 80-52,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,8,10,0.8,1,4,5,1,0,1,2,3,20,16.1,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+35,92,35,2015-03-19,Arizona,N,Texas Southern,ROUND-64,W 93-72,*,29,5,9,0.556,0,0,,5,9,0.556,0.556,4,5,0.8,2,2,4,1,1,0,2,4,14,9.4,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+36,93,36,2015-03-21,Arizona,N,Ohio State,ROUND-32,W 73-58,*,19,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,1,1,2,1,0,1,2,5,7,0.6,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+37,94,37,2015-03-26,Arizona,N,Xavier,ROUND-16,W 68-60,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,3,0.667,2,0,2,1,1,0,2,3,8,3.8,N,1,0,brandon-ashley-1,Brandon Ashley,2015
+38,95,38,2015-03-28,Arizona,N,Wisconsin,ROUND-8,L 78-85,*,21,5,8,0.625,0,0,,5,8,0.625,0.625,7,7,1.0,1,3,4,0,0,0,0,4,17,13.4,N,0,0,brandon-ashley-1,Brandon Ashley,2015

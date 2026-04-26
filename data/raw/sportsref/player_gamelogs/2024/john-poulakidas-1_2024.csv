@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,51,1,2023-11-06,Yale,,Vassar,REG (Non-Conf),W 102-53,*,21,3,6,0.5,2,4,0.5,1,2,0.5,0.667,4,4,1.0,0,0,0,2,1,0,1,0,12,10.4,H,1,1,john-poulakidas-1,John Poulakidas,2024
+2,52,2,2023-11-10,Yale,@,Gonzaga,REG (Non-Conf),L 71-86,*,26,7,11,0.636,4,5,0.8,3,6,0.5,0.818,0,0,,0,1,1,1,1,0,1,4,18,12.5,A,0,1,john-poulakidas-1,John Poulakidas,2024
+3,53,3,2023-11-12,Yale,@,Loyola Marymount,REG (Non-Conf),W 83-80,*,33,2,4,0.5,2,3,0.667,0,1,0.0,0.75,4,7,0.571,0,0,0,0,0,0,3,0,10,3.8,A,1,1,john-poulakidas-1,John Poulakidas,2024
+4,54,4,2023-11-17,Yale,N,Colgate,REG (Non-Conf),W 68-50,*,27,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,1,1,2,3,0,0,0,1,10,7.3,N,1,1,john-poulakidas-1,John Poulakidas,2024
+5,55,5,2023-11-18,Yale,N,Weber State,REG (Non-Conf),L 65-75 (OT),*,35,5,15,0.333,2,8,0.25,3,7,0.429,0.4,2,2,1.0,0,0,0,3,0,0,1,4,14,5.0,N,0,1,john-poulakidas-1,John Poulakidas,2024
+6,56,6,2023-11-19,Yale,N,Gardner-Webb,REG (Non-Conf),W 71-70 (OT),*,33,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,2,2,4,3,1,0,1,3,4,4.8,N,1,1,john-poulakidas-1,John Poulakidas,2024
+7,57,7,2023-11-26,Yale,@,Rhode Island,REG (Non-Conf),L 72-76,*,27,6,12,0.5,3,7,0.429,3,5,0.6,0.625,1,2,0.5,3,0,3,1,0,0,0,3,16,11.2,A,0,1,john-poulakidas-1,John Poulakidas,2024
+8,58,8,2023-11-29,Yale,,Stony Brook,REG (Non-Conf),W 79-71,*,33,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,0,1,1,3,1,1,4,1,10,4.3,H,1,1,john-poulakidas-1,John Poulakidas,2024
+9,59,9,2023-12-02,Yale,@,Vermont,REG (Non-Conf),L 65-66,*,32,1,8,0.125,1,5,0.2,0,3,0.0,0.188,2,2,1.0,0,2,2,1,1,1,0,0,5,2.8,A,0,1,john-poulakidas-1,John Poulakidas,2024
+10,60,10,2023-12-06,Yale,,Fairfield,REG (Non-Conf),L 71-75,*,32,5,13,0.385,3,11,0.273,2,2,1.0,0.5,0,0,,0,2,2,2,0,1,1,2,13,6.8,H,0,1,john-poulakidas-1,John Poulakidas,2024
+11,61,11,2023-12-08,Yale,,Colby-Sawyer,REG (Non-Conf),W 95-36,*,16,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,3,3,2,0,1,0,0,8,10.1,H,1,1,john-poulakidas-1,John Poulakidas,2024
+12,62,12,2023-12-11,Yale,@,Quinnipiac,REG (Non-Conf),W 73-66,*,28,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,2,1.0,1,4,5,1,0,1,1,0,12,9.6,A,1,1,john-poulakidas-1,John Poulakidas,2024
+13,63,13,2023-12-22,Yale,@,Kansas,REG (Non-Conf),L 60-75,*,31,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,0,0,1,0,0,1,2,8,2.5,A,0,1,john-poulakidas-1,John Poulakidas,2024
+14,64,14,2023-12-30,Yale,@,Santa Clara,REG (Non-Conf),W 66-58,*,34,4,9,0.444,2,6,0.333,2,3,0.667,0.556,4,6,0.667,0,7,7,0,0,0,1,1,14,9.2,A,1,1,john-poulakidas-1,John Poulakidas,2024
+15,65,15,2024-01-03,Yale,@,Howard,REG (Non-Conf),W 86-78 (OT),*,36,8,14,0.571,5,8,0.625,3,6,0.5,0.75,2,2,1.0,1,4,5,4,0,0,1,2,23,19.3,A,1,1,john-poulakidas-1,John Poulakidas,2024
+16,66,16,2024-01-09,Yale,@,Brown,REG (Conf),W 80-70,*,33,4,9,0.444,2,7,0.286,2,2,1.0,0.556,1,1,1.0,0,2,2,1,0,0,1,2,11,5.8,A,1,1,john-poulakidas-1,John Poulakidas,2024
+17,67,17,2024-01-15,Yale,,Columbia,REG (Conf),W 89-70,*,33,9,12,0.75,7,9,0.778,2,3,0.667,1.042,1,2,0.5,0,1,1,4,0,0,0,3,26,22.7,H,1,1,john-poulakidas-1,John Poulakidas,2024
+18,68,18,2024-01-20,Yale,@,Dartmouth,REG (Conf),W 76-51,*,23,4,10,0.4,3,6,0.5,1,4,0.25,0.55,1,2,0.5,1,2,3,2,0,0,0,2,12,8.1,A,1,1,john-poulakidas-1,John Poulakidas,2024
+19,69,19,2024-01-27,Yale,@,Harvard,REG (Conf),W 78-65,*,33,8,13,0.615,4,7,0.571,4,6,0.667,0.769,2,2,1.0,1,3,4,3,0,1,0,0,22,20.5,A,1,1,john-poulakidas-1,John Poulakidas,2024
+20,70,20,2024-02-02,Yale,,Princeton,REG (Conf),W 70-64,*,34,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,1,0,1,1,1,0,0,1,7,3.9,H,1,1,john-poulakidas-1,John Poulakidas,2024
+21,71,21,2024-02-03,Yale,,Pennsylvania,REG (Conf),W 74-58,*,30,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,0,2,2,3,0,0,0,2,11,8.2,H,1,1,john-poulakidas-1,John Poulakidas,2024
+22,72,22,2024-02-10,Yale,,Cornell,REG (Conf),W 80-78,*,35,4,10,0.4,2,5,0.4,2,5,0.4,0.5,3,3,1.0,1,1,2,2,0,1,2,2,13,7.9,H,1,1,john-poulakidas-1,John Poulakidas,2024
+23,73,23,2024-02-16,Yale,@,Pennsylvania,REG (Conf),W 76-62,*,32,6,13,0.462,2,6,0.333,4,7,0.571,0.538,3,3,1.0,1,2,3,0,0,0,0,1,17,11.2,A,1,1,john-poulakidas-1,John Poulakidas,2024
+24,74,24,2024-02-17,Yale,@,Princeton,REG (Conf),L 62-73,*,31,5,14,0.357,3,9,0.333,2,5,0.4,0.464,3,3,1.0,0,0,0,0,0,0,0,3,16,7.0,A,0,1,john-poulakidas-1,John Poulakidas,2024
+25,75,25,2024-02-23,Yale,@,Cornell,REG (Conf),L 62-65,*,35,1,11,0.091,1,8,0.125,0,3,0.0,0.136,1,3,0.333,0,0,0,1,0,2,3,2,4,-5.8,A,0,1,john-poulakidas-1,John Poulakidas,2024
+26,76,26,2024-02-24,Yale,@,Columbia,REG (Conf),W 84-76,*,34,7,13,0.538,1,6,0.167,6,7,0.857,0.577,3,3,1.0,0,4,4,1,1,0,0,2,18,13.8,A,1,1,john-poulakidas-1,John Poulakidas,2024
+27,77,27,2024-03-01,Yale,,Dartmouth,REG (Conf),W 80-56,*,30,6,12,0.5,3,6,0.5,3,6,0.5,0.625,1,2,0.5,2,3,5,2,2,1,0,2,16,15.2,H,1,1,john-poulakidas-1,John Poulakidas,2024
+28,78,28,2024-03-02,Yale,,Harvard,REG (Conf),W 80-60,*,26,5,11,0.455,2,6,0.333,3,5,0.6,0.545,0,0,,1,5,6,2,0,1,2,3,12,7.4,H,1,1,john-poulakidas-1,John Poulakidas,2024
+29,79,29,2024-03-09,Yale,,Brown,REG (Conf),L 81-84 (OT),*,35,6,13,0.462,2,7,0.286,4,6,0.667,0.538,0,0,,0,2,2,4,2,0,0,2,14,11.9,H,0,1,john-poulakidas-1,John Poulakidas,2024
+30,80,30,2024-03-16,Yale,N,Cornell,CTOURN,W 69-57,*,34,4,13,0.308,1,8,0.125,3,5,0.6,0.346,2,2,1.0,1,2,3,4,2,0,2,1,11,7.2,N,1,0,john-poulakidas-1,John Poulakidas,2024
+31,81,31,2024-03-17,Yale,N,Brown,CTOURN,W 62-61,*,35,7,16,0.438,4,9,0.444,3,7,0.429,0.563,0,0,,1,1,2,2,0,1,1,3,18,10.5,N,1,0,john-poulakidas-1,John Poulakidas,2024
+32,82,32,2024-03-22,Yale,N,Auburn,ROUND-64,W 78-76,*,36,10,15,0.667,6,9,0.667,4,6,0.667,0.867,2,5,0.4,1,1,2,2,2,1,1,3,28,23.2,N,1,0,john-poulakidas-1,John Poulakidas,2024
+33,83,33,2024-03-24,Yale,N,San Diego State,ROUND-32,L 57-85,*,29,2,9,0.222,2,5,0.4,0,4,0.0,0.333,3,3,1.0,0,0,0,2,0,0,1,0,9,3.9,N,0,0,john-poulakidas-1,John Poulakidas,2024

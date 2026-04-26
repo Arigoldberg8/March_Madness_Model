@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-09,New Mexico,,Alabama A&M,REG (Non-Conf),W 88-52,,20,2,6,0.333,1,2,0.5,1,4,0.25,0.417,7,9,0.778,0,3,3,2,1,0,4,1,12,6.7,H,1,1,cullen-neal-1,Cullen Neal,2014
+2,2,2,2013-11-17,New Mexico,,Charleston Southern,REG (Non-Conf),W 109-93,,26,3,9,0.333,2,5,0.4,1,4,0.25,0.444,3,4,0.75,0,4,4,7,1,0,6,4,11,5.0,H,1,1,cullen-neal-1,Cullen Neal,2014
+3,3,3,2013-11-21,New Mexico,N,UAB,REG (Non-Conf),W 97-94 (2OT),,20,0,8,0.0,0,4,0.0,0,4,0.0,0.0,4,4,1.0,0,1,1,0,1,0,1,4,4,-2.9,N,1,1,cullen-neal-1,Cullen Neal,2014
+4,4,4,2013-11-22,New Mexico,N,Massachusetts,REG (Non-Conf),L 65-81,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,3,0,0,6,1,3,-2.4,N,0,1,cullen-neal-1,Cullen Neal,2014
+5,5,5,2013-11-24,New Mexico,N,Davidson,REG (Non-Conf),W 79-58,,14,6,9,0.667,3,5,0.6,3,4,0.75,0.833,0,0,,0,2,2,0,0,0,2,2,15,8.9,N,1,1,cullen-neal-1,Cullen Neal,2014
+6,6,6,2013-11-30,New Mexico,,San Diego,REG (Non-Conf),W 73-66,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,2,2,0,-3.2,H,1,1,cullen-neal-1,Cullen Neal,2014
+7,7,7,2013-12-04,New Mexico,@,New Mexico State,REG (Non-Conf),W 79-70,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,3,1.0,0,1,1,1,0,0,2,1,6,2.9,A,1,1,cullen-neal-1,Cullen Neal,2014
+8,8,8,2013-12-07,New Mexico,,Cincinnati,REG (Non-Conf),W 63-54,,24,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,2,0.0,0,0,0,1,0,0,2,2,5,-0.6,H,1,1,cullen-neal-1,Cullen Neal,2014
+9,9,9,2013-12-14,New Mexico,N,Kansas,REG (Non-Conf),L 63-80,,18,1,7,0.143,0,2,0.0,1,5,0.2,0.143,2,2,1.0,2,0,2,0,0,0,1,2,4,-0.9,N,0,1,cullen-neal-1,Cullen Neal,2014
+10,10,10,2013-12-17,New Mexico,,New Mexico State,REG (Non-Conf),L 61-67,*,27,1,7,0.143,0,1,0.0,1,6,0.167,0.143,2,2,1.0,0,1,1,2,0,0,1,4,4,-1.4,H,0,1,cullen-neal-1,Cullen Neal,2014
+11,11,11,2013-12-21,New Mexico,N,Marquette,REG (Non-Conf),W 75-68,*,32,8,12,0.667,6,8,0.75,2,4,0.5,0.917,2,2,1.0,0,3,3,2,1,0,3,4,24,17.5,N,1,1,cullen-neal-1,Cullen Neal,2014
+12,12,12,2013-12-23,New Mexico,,Grand Canyon,REG (Non-Conf),W 80-68,*,35,5,10,0.5,3,5,0.6,2,5,0.4,0.65,5,7,0.714,0,2,2,7,0,0,2,3,18,14.5,H,1,1,cullen-neal-1,Cullen Neal,2014
+13,13,13,2014-01-04,New Mexico,,Colorado State,REG (Conf),W 80-73,,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,1,0,0,2,5,5,-1.4,H,1,1,cullen-neal-1,Cullen Neal,2014
+14,14,14,2014-01-08,New Mexico,@,Wyoming,REG (Conf),W 72-69 (OT),,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,4,0.25,1,1,2,3,1,0,3,4,6,1.6,A,1,1,cullen-neal-1,Cullen Neal,2014
+15,15,15,2014-01-11,New Mexico,@,San Jose State,REG (Conf),W 69-65,,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,2,0.0,1,1,2,2,0,0,0,2,2,-0.3,A,1,1,cullen-neal-1,Cullen Neal,2014
+16,16,16,2014-01-15,New Mexico,,UNLV,REG (Conf),L 73-76,,11,0,3,0.0,0,3,0.0,0,0,,0.0,3,3,1.0,0,1,1,0,0,0,0,3,3,0.0,H,0,1,cullen-neal-1,Cullen Neal,2014
+17,17,17,2014-01-18,New Mexico,@,Fresno State,REG (Conf),W 89-78,,22,6,10,0.6,2,6,0.333,4,4,1.0,0.7,3,4,0.75,1,1,2,1,1,0,3,2,17,10.9,A,1,1,cullen-neal-1,Cullen Neal,2014
+18,18,18,2014-01-21,New Mexico,,Boise State,REG (Conf),W 84-75,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,0,0,2,3,2,-0.8,H,1,1,cullen-neal-1,Cullen Neal,2014
+19,19,19,2014-01-25,New Mexico,@,Colorado State,REG (Conf),W 68-66,,26,3,7,0.429,0,4,0.0,3,3,1.0,0.429,2,2,1.0,0,2,2,1,0,0,2,3,8,2.4,A,1,1,cullen-neal-1,Cullen Neal,2014
+20,20,20,2014-01-28,New Mexico,@,Utah State,REG (Conf),W 78-65,,23,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,1,3,4,2,0,0,1,1,13,10.6,A,1,1,cullen-neal-1,Cullen Neal,2014
+21,21,21,2014-02-01,New Mexico,,San Jose State,REG (Conf),W 72-47,,26,2,5,0.4,1,4,0.25,1,1,1.0,0.5,3,7,0.429,0,4,4,4,0,0,0,2,8,6.9,H,1,1,cullen-neal-1,Cullen Neal,2014
+22,22,22,2014-02-05,New Mexico,,Wyoming,REG (Conf),W 66-61 (OT),,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,2,0,0,1,4,5,2.7,H,1,1,cullen-neal-1,Cullen Neal,2014
+23,23,23,2014-02-12,New Mexico,@,Boise State,REG (Conf),L 70-71,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,1,0,2,1,2,-0.5,A,0,1,cullen-neal-1,Cullen Neal,2014
+24,24,24,2014-02-15,New Mexico,,Nevada,REG (Conf),W 90-72,,20,3,7,0.429,3,5,0.6,0,2,0.0,0.643,1,1,1.0,0,1,1,3,1,0,1,4,10,7.1,H,1,1,cullen-neal-1,Cullen Neal,2014
+25,25,25,2014-02-19,New Mexico,@,UNLV,REG (Conf),W 68-56,,17,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,0,0,0,0,0,3,-0.8,A,1,1,cullen-neal-1,Cullen Neal,2014
+26,26,26,2014-02-22,New Mexico,,San Diego State,REG (Conf),W 58-44,,15,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,1,1,0,0,0,2,0,8,4.0,H,1,1,cullen-neal-1,Cullen Neal,2014
+27,27,27,2014-02-25,New Mexico,,Utah State,REG (Conf),W 67-58,,17,4,6,0.667,3,4,0.75,1,2,0.5,0.917,1,2,0.5,1,0,1,2,0,0,0,2,12,10.3,H,1,1,cullen-neal-1,Cullen Neal,2014
+28,28,28,2014-03-02,New Mexico,@,Nevada,REG (Conf),W 72-58,,17,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,0,1,1,1,1,0,2,2,8,5.2,A,1,1,cullen-neal-1,Cullen Neal,2014
+29,29,29,2014-03-05,New Mexico,,Air Force,REG (Conf),W 80-52,,23,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,1,3,4,6,1,0,1,1,8,7.6,H,1,1,cullen-neal-1,Cullen Neal,2014
+30,30,30,2014-03-08,New Mexico,@,San Diego State,REG (Conf),L 48-51,,22,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,3,3,2,0,0,4,2,2,-3.6,A,0,1,cullen-neal-1,Cullen Neal,2014
+31,31,31,2014-03-13,New Mexico,N,Fresno State,CTOURN,W 93-77,,29,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,3,0.667,0,1,1,4,2,0,2,2,7,6.9,N,1,0,cullen-neal-1,Cullen Neal,2014
+32,32,32,2014-03-14,New Mexico,N,Boise State,CTOURN,W 70-67,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,3,3,0,-5.6,N,1,0,cullen-neal-1,Cullen Neal,2014
+33,33,33,2014-03-15,New Mexico,N,San Diego State,CTOURN,W 64-58,,13,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,1,1.0,0,1,1,0,0,0,1,3,4,-1.0,N,1,0,cullen-neal-1,Cullen Neal,2014
+34,34,34,2014-03-21,New Mexico,N,Stanford,ROUND-64,L 53-58,,13,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,1,0.0,0,0,0,2,0,0,1,1,4,-0.5,N,0,0,cullen-neal-1,Cullen Neal,2014

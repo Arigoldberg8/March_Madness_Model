@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2021-11-09,Texas Tech,,North Florida,REG (Non-Conf),W 89-74,,16,6,9,0.667,0,0,6,9,0.667,0.667,1,1,1.0,4,0,4,0,3,0,1,2,13,13.1,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+2,128,2,2021-11-12,Texas Tech,,Grambling State,REG (Non-Conf),W 88-62,,15,0,2,0.0,0,0,0,2,0.0,0.0,2,4,0.5,3,0,3,2,0,0,1,2,2,1.5,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+3,129,3,2021-11-15,Texas Tech,,Prairie View A&M,REG (Non-Conf),W 84-49,,13,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,2,1,3,0,1,0,3,3,4,-0.2,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+4,130,4,2021-11-20,Texas Tech,N,Incarnate Word,REG (Non-Conf),W 84-62,,22,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,4,1,5,2,2,1,2,3,6,7.6,N,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+5,131,5,2021-11-23,Texas Tech,,Omaha,REG (Non-Conf),W 96-40,,15,4,7,0.571,0,0,4,7,0.571,0.571,1,4,0.25,3,4,7,0,0,0,0,1,9,7.4,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+6,132,6,2021-11-27,Texas Tech,,Lamar,REG (Non-Conf),W 89-57,,16,2,3,0.667,0,0,2,3,0.667,0.667,5,8,0.625,5,7,12,3,1,1,4,2,9,11.1,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+7,133,7,2021-12-01,Texas Tech,@,Providence,REG (Non-Conf),L 68-72,,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,0,2,1,0,1,2,4,4,2.6,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+8,134,8,2021-12-07,Texas Tech,N,Tennessee,REG (Non-Conf),W 57-52 (OT),,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+9,135,9,2021-12-14,Texas Tech,,Arkansas State,REG (Non-Conf),W 75-62,,17,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,1,3,4,2,0,0,0,0,6,7.0,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+10,136,10,2021-12-18,Texas Tech,N,Gonzaga,REG (Non-Conf),L 55-69,,12,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,1,1,2,0,0,0,3,3,1,-3.3,N,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+11,137,11,2021-12-22,Texas Tech,,Eastern Washington,REG (Non-Conf),W 78-46,,11,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,1,1,2,0,0,0,1,2,8,6.0,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+12,138,12,2021-12-28,Texas Tech,,Alabama State,REG (Non-Conf),W 75-53,,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,0,3,2,0.8,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+13,139,13,2022-01-05,Texas Tech,@,Iowa State,REG (Conf),L 47-51,,18,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,3,5,3,0,1,3,2,4,4.7,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+14,140,14,2022-01-08,Texas Tech,,Kansas,REG (Conf),W 75-67,,20,3,6,0.5,0,0,3,6,0.5,0.5,1,3,0.333,2,2,4,2,2,2,1,1,7,8.6,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+15,141,15,2022-01-11,Texas Tech,@,Baylor,REG (Conf),W 65-62,,11,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,0,1,2,1,3,0,-1.2,A,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+16,142,16,2022-01-13,Texas Tech,,Oklahoma State,REG (Conf),W 78-57,,17,5,7,0.714,0,0,5,7,0.714,0.714,0,1,0.0,3,7,10,1,0,1,1,2,10,10.5,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+17,143,17,2022-01-15,Texas Tech,@,Kansas State,REG (Conf),L 51-62,,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,2,0,2,0,0,0,1,0,0,-1.0,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+18,144,18,2022-01-18,Texas Tech,,Iowa State,REG (Conf),W 72-60,,14,1,1,1.0,0,0,1,1,1.0,1.0,2,4,0.5,1,3,4,1,0,0,1,3,4,3.0,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+19,145,19,2022-01-22,Texas Tech,,West Virginia,REG (Conf),W 78-65,,12,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,1,1,2,1,0,2,0,2,4,4.6,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+20,146,20,2022-01-24,Texas Tech,@,Kansas,REG (Conf),L 91-94 (2OT),,15,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,5,6,1,2,1,0,1,5,8.5,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+21,147,21,2022-01-29,Texas Tech,,Mississippi State,REG (Non-Conf),W 76-50,,17,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,7,9,2,1,0,5,2,6,4.5,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+22,148,22,2022-02-01,Texas Tech,,Texas,REG (Conf),W 77-64,,15,3,3,1.0,0,0,3,3,1.0,1.0,1,4,0.25,4,2,6,2,0,3,1,4,7,9.2,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+23,149,23,2022-02-05,Texas Tech,@,West Virginia,REG (Conf),W 60-53,,11,0,0,,0,0,0,0,,,1,2,0.5,0,4,4,1,1,0,1,1,1,2.1,A,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+24,150,24,2022-02-09,Texas Tech,@,Oklahoma,REG (Conf),L 55-70,,18,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,2,0,2,1,0,1,1,1,7,5.0,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+25,151,25,2022-02-12,Texas Tech,,TCU,REG (Conf),W 82-69,,13,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,1,1,2,0,2,0,1,0,9,9.0,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+26,152,26,2022-02-16,Texas Tech,,Baylor,REG (Conf),W 83-73,,14,0,0,,0,0,0,0,,,0,0,,3,1,4,0,3,0,2,2,0,2.6,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+27,153,27,2022-02-19,Texas Tech,@,Texas,REG (Conf),W 61-55,,20,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,5,8,1,1,1,3,3,6,6.2,A,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+28,154,28,2022-02-22,Texas Tech,,Oklahoma,REG (Conf),W 66-42,,20,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,1,5,6,0,0,2,0,0,9,9.6,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+29,155,29,2022-02-26,Texas Tech,@,TCU,REG (Conf),L 66-69,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,2,1,0,2,1,2,2.3,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+30,156,30,2022-02-28,Texas Tech,,Kansas State,REG (Conf),W 73-68,*,14,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,1,3,4,0,0,1,0,2,0,-1.3,H,1,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+31,157,31,2022-03-05,Texas Tech,@,Oklahoma State,REG (Conf),L 51-52,,11,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,0,3,3,1,1,0,2,1,1,-1.3,A,0,1,marcus-santos-silva-1,Marcus Santos-Silva,2022
+32,158,32,2022-03-10,Texas Tech,N,Iowa State,CTOURN,W 72-41,,15,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,1,4,5,1,0,1,0,1,5,4.8,N,1,0,marcus-santos-silva-1,Marcus Santos-Silva,2022
+33,159,33,2022-03-11,Texas Tech,N,Oklahoma,CTOURN,W 56-55,,15,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,5,6,0,0,1,1,1,6,5.2,N,1,0,marcus-santos-silva-1,Marcus Santos-Silva,2022
+34,160,34,2022-03-12,Texas Tech,N,Kansas,CTOURN,L 65-74,,16,4,5,0.8,0,0,4,5,0.8,0.8,0,2,0.0,3,3,6,0,2,2,1,3,8,9.5,N,0,0,marcus-santos-silva-1,Marcus Santos-Silva,2022
+35,161,35,2022-03-18,Texas Tech,N,Montana State,ROUND-64,W 97-62,,17,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,1,0,2,1,4,2,1.5,N,1,0,marcus-santos-silva-1,Marcus Santos-Silva,2022
+36,162,36,2022-03-20,Texas Tech,N,Notre Dame,ROUND-32,W 59-53,,17,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,1,4,5,1,0,2,1,1,4,4.2,N,1,0,marcus-santos-silva-1,Marcus Santos-Silva,2022
+37,163,37,2022-03-24,Texas Tech,N,Duke,ROUND-16,L 73-78,,8,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,0,0,0,0,1,0,0,4,2.7,N,0,0,marcus-santos-silva-1,Marcus Santos-Silva,2022

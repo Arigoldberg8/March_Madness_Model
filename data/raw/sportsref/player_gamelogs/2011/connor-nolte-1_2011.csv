@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2010-11-12,Georgia,,Mississippi Valley State,REG (Non-Conf),W 72-70,*,30,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,1,1,2,1,1,0,1,3,6,4.8,H,1,1,connor-nolte-1,Connor Nolte,2011
+2,62,2,2010-11-16,Georgia,,Colorado,REG (Non-Conf),W 83-74,*,34,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,1,3,4,1,2,0,1,2,5,4.3,H,1,1,connor-nolte-1,Connor Nolte,2011
+3,63,3,2010-11-20,Georgia,@,Saint Louis,REG (Non-Conf),W 61-59,*,32,0,2,0.0,0,0,,0,2,0.0,0.0,0,2,0.0,2,1,3,0,3,2,3,3,0,-0.3,A,1,1,connor-nolte-1,Connor Nolte,2011
+4,64,4,2010-11-25,Georgia,N,Notre Dame,REG (Non-Conf),L 83-89 (2OT),,24,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,1,1.0,0,2,2,2,1,0,0,5,7,6.4,N,0,1,connor-nolte-1,Connor Nolte,2011
+5,65,5,2010-11-26,Georgia,N,Temple,REG (Non-Conf),L 58-65,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,0,2,1,0,0,0,0,0,0.7,N,0,1,connor-nolte-1,Connor Nolte,2011
+6,66,6,2010-11-28,Georgia,N,Manhattan,REG (Non-Conf),W 61-58,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,N,1,1,connor-nolte-1,Connor Nolte,2011
+7,67,7,2010-12-03,Georgia,,UAB,REG (Non-Conf),W 66-64,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,1,1,connor-nolte-1,Connor Nolte,2011
+8,68,8,2010-12-07,Georgia,@,Georgia Tech,REG (Non-Conf),W 73-72,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,2,1,1,0,4,2,3.8,A,1,1,connor-nolte-1,Connor Nolte,2011
+9,69,9,2010-12-18,Georgia,,Arkansas State,REG (Non-Conf),W 68-59,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,1,0,0.3,H,1,1,connor-nolte-1,Connor Nolte,2011
+10,70,10,2010-12-21,Georgia,,High Point,REG (Non-Conf),W 85-38,,16,4,4,1.0,2,2,1.0,2,2,1.0,1.25,1,2,0.5,1,3,4,0,0,1,0,4,11,10.1,H,1,1,connor-nolte-1,Connor Nolte,2011
+11,71,11,2010-12-23,Georgia,@,Mercer,REG (Non-Conf),W 56-53,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,connor-nolte-1,Connor Nolte,2011
+12,72,12,2010-12-28,Georgia,,Charleston Southern,REG (Non-Conf),W 70-55,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,5,6,1,0,0,1,2,2,2.1,H,1,1,connor-nolte-1,Connor Nolte,2011
+13,73,13,2010-12-31,Georgia,,Eastern Kentucky,REG (Non-Conf),W 64-57,,1,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,connor-nolte-1,Connor Nolte,2011
+14,74,15,2011-01-12,Georgia,@,Vanderbilt,REG (Conf),L 66-73,,11,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,2,3,0,0,0,0,2,3,2.1,A,0,1,connor-nolte-1,Connor Nolte,2011
+15,75,16,2011-01-15,Georgia,@,Ole Miss,REG (Conf),W 98-76,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,1,0,0,1,0,1.6,A,1,1,connor-nolte-1,Connor Nolte,2011
+16,76,18,2011-01-22,Georgia,,Mississippi State,REG (Conf),W 86-64,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,connor-nolte-1,Connor Nolte,2011
+17,77,19,2011-01-25,Georgia,,Florida,REG (Conf),L 91-104 (2OT),,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,connor-nolte-1,Connor Nolte,2011
+18,78,21,2011-02-02,Georgia,@,Arkansas,REG (Conf),W 60-59,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,3,3,6,0,0,1,0,1,0,1.2,A,1,1,connor-nolte-1,Connor Nolte,2011
+19,79,24,2011-02-12,Georgia,@,South Carolina,REG (Conf),W 60-56,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,A,1,1,connor-nolte-1,Connor Nolte,2011
+20,80,28,2011-02-26,Georgia,,South Carolina,REG (Conf),W 64-48,,2,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,1,1,connor-nolte-1,Connor Nolte,2011
+21,81,29,2011-03-02,Georgia,,Louisiana State,REG (Conf),W 73-53,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,H,1,1,connor-nolte-1,Connor Nolte,2011
+22,82,30,2011-03-05,Georgia,@,Alabama,REG (Conf),L 57-65,,2,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,A,0,1,connor-nolte-1,Connor Nolte,2011
+23,83,31,2011-03-10,Georgia,N,Auburn,CTOURN,W 69-51,,1,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,0,0,2,2.0,N,1,0,connor-nolte-1,Connor Nolte,2011

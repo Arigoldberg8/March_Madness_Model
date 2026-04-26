@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Seton Hall,,Wagner,REG (Non-Conf),W 89-49,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,1,3,4,0,0,1,0,0,6,5.2,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+2,2,2,2018-11-14,Seton Hall,@,Nebraska,REG (Non-Conf),L 57-80,,10,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,2,0,2,0,0,0,0,1,3,1.6,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+3,3,3,2018-11-17,Seton Hall,,Saint Louis,REG (Non-Conf),L 64-66,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,jared-rhoden-1,Jared Rhoden,2019
+4,4,4,2018-11-22,Seton Hall,N,Grand Canyon,REG (Non-Conf),W 82-75,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,N,1,1,jared-rhoden-1,Jared Rhoden,2019
+5,5,5,2018-11-23,Seton Hall,N,Hawaii,REG (Non-Conf),W 64-54,,12,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,2,0,1,1,0,0.9,N,1,1,jared-rhoden-1,Jared Rhoden,2019
+6,6,6,2018-11-25,Seton Hall,N,Miami (FL),REG (Non-Conf),W 83-81,,24,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,2,2,4,1,1,0,1,2,8,6.6,N,1,1,jared-rhoden-1,Jared Rhoden,2019
+7,7,7,2018-12-01,Seton Hall,,Louisville,REG (Non-Conf),L 65-70,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,0,1,jared-rhoden-1,Jared Rhoden,2019
+8,8,8,2018-12-04,Seton Hall,,New Hampshire,REG (Non-Conf),W 77-57,,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,4,0.75,2,2,4,0,1,0,0,0,5,5.2,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+9,9,9,2018-12-08,Seton Hall,N,Kentucky,REG (Non-Conf),W 84-83 (OT),,12,0,0,,0,0,,0,0,,,0,0,,1,3,4,1,1,0,0,5,0,1.3,N,1,1,jared-rhoden-1,Jared Rhoden,2019
+10,10,10,2018-12-15,Seton Hall,,Rutgers,REG (Non-Conf),W 72-66,,8,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,1,2,1,0,0,1,1,1,0.2,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+11,11,11,2018-12-19,Seton Hall,,Sacred Heart,REG (Non-Conf),W 90-76,,17,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,1,2,1,0,1,0,1,5,4.6,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+12,12,12,2018-12-22,Seton Hall,@,Maryland,REG (Non-Conf),W 78-74,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,jared-rhoden-1,Jared Rhoden,2019
+13,13,13,2018-12-29,Seton Hall,,St. John's (NY),REG (Conf),W 76-74,,17,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,3,1,4,2,0,0,1,1,4,3.0,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+14,14,14,2019-01-02,Seton Hall,@,Xavier,REG (Conf),W 80-70,,8,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,1,1.0,3,0,3,0,0,0,0,1,5,3.3,A,1,1,jared-rhoden-1,Jared Rhoden,2019
+15,15,15,2019-01-06,Seton Hall,@,DePaul,REG (Conf),L 74-75,,17,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,2,1,3,0,1,0,0,4,7,4.4,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+16,16,16,2019-01-09,Seton Hall,,Butler,REG (Conf),W 76-75,,10,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,1,0,1,0,0,0,0,0,4,3.3,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+17,17,17,2019-01-12,Seton Hall,@,Marquette,REG (Conf),L 66-70,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+18,18,18,2019-01-15,Seton Hall,@,Providence,REG (Conf),L 63-72,,11,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,0,1,0,0,2,2,1.4,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+19,19,19,2019-01-19,Seton Hall,,DePaul,REG (Conf),L 93-97,,13,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,0,2,0,2,1,0.1,H,0,1,jared-rhoden-1,Jared Rhoden,2019
+20,20,20,2019-01-27,Seton Hall,@,Villanova,REG (Conf),L 52-80,,18,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,1,0.0,0,3,3,0,2,0,0,0,5,4.1,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+21,21,21,2019-01-30,Seton Hall,,Providence,REG (Conf),W 65-63,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-1.6,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+22,22,22,2019-02-02,Seton Hall,@,Butler,REG (Conf),L 68-70,,5,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,0,1,0,0,0,0,0,3,3.4,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+23,23,23,2019-02-09,Seton Hall,,Creighton,REG (Conf),W 63-58,,8,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,0,1,0,0,0,1,0,3,-0.4,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+24,24,24,2019-02-13,Seton Hall,,Georgetown,REG (Conf),W 90-75,,10,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,0,1,0,1,1,1,0.5,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+25,25,25,2019-02-17,Seton Hall,@,Creighton,REG (Conf),W 81-75,,21,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,1,3,0,0,0,2,4,2,-2.3,A,1,1,jared-rhoden-1,Jared Rhoden,2019
+26,26,26,2019-02-20,Seton Hall,,Xavier,REG (Conf),L 69-70,,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,2,1,0,0,1,0,0.5,H,0,1,jared-rhoden-1,Jared Rhoden,2019
+27,27,27,2019-02-23,Seton Hall,@,St. John's (NY),REG (Conf),L 70-78,,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,3,3,0,0,0,0,2,6,5.5,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+28,28,28,2019-03-02,Seton Hall,@,Georgetown,REG (Conf),L 71-77 (2OT),,33,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,2,0.0,5,4,9,1,3,1,2,1,9,11.6,A,0,1,jared-rhoden-1,Jared Rhoden,2019
+29,29,29,2019-03-06,Seton Hall,,Marquette,REG (Conf),W 73-64,,18,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,1,3,4,2,2,0,0,2,6,6.1,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+30,30,30,2019-03-09,Seton Hall,,Villanova,REG (Conf),W 79-75,,13,4,7,0.571,3,4,0.75,1,3,0.333,0.786,4,4,1.0,2,1,3,0,0,0,0,0,15,13.4,H,1,1,jared-rhoden-1,Jared Rhoden,2019
+31,31,31,2019-03-14,Seton Hall,N,Georgetown,CTOURN,W 73-57,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,1,0,0,1,2,1.5,N,1,0,jared-rhoden-1,Jared Rhoden,2019
+32,32,32,2019-03-15,Seton Hall,N,Marquette,CTOURN,W 81-79,,23,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,5,0.4,2,3,5,0,0,1,1,2,2,-0.8,N,1,0,jared-rhoden-1,Jared Rhoden,2019
+33,33,33,2019-03-16,Seton Hall,N,Villanova,CTOURN,L 72-74,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,3,4,0,1,1,0,3,0,1.4,N,0,0,jared-rhoden-1,Jared Rhoden,2019
+34,34,34,2019-03-21,Seton Hall,N,Wofford,ROUND-64,L 68-84,,16,3,8,0.375,2,4,0.5,1,4,0.25,0.5,1,4,0.25,3,2,5,1,0,2,0,1,9,7.8,N,0,0,jared-rhoden-1,Jared Rhoden,2019

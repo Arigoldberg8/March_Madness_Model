@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,121,1,2021-11-09,Montana State,@,Colorado,REG (Non-Conf),L 90-94 (OT),*,35,3,12,0.25,3,9,0.333,0,3,0.0,0.375,2,3,0.667,0,5,5,3,1,0,3,5,11,3.0,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+2,122,2,2021-11-14,Montana State,,Rocky Mountain,REG (Non-Conf),W 81-52,*,27,2,11,0.182,0,4,0.0,2,7,0.286,0.182,3,4,0.75,0,3,3,4,1,0,0,2,7,3.6,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+3,123,3,2021-11-17,Montana State,@,South Dakota State,REG (Non-Conf),L 74-91,*,21,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,1,2,2,0,0,4,2,6,-0.8,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+4,124,4,2021-11-20,Montana State,@,New Mexico,REG (Non-Conf),L 78-81,*,24,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,1,4,5,5,0,0,5,3,10,6.2,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+5,125,5,2021-11-26,Montana State,N,Portland,REG (Non-Conf),W 69-66,*,35,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,4,0.75,0,1,1,3,0,0,1,1,10,5.5,N,1,1,xavier-bishop-1,Xavier Bishop,2022
+6,126,6,2021-11-27,Montana State,@,Incarnate Word,REG (Non-Conf),W 83-64,*,33,7,11,0.636,5,8,0.625,2,3,0.667,0.864,0,0,,0,2,2,7,1,0,5,1,19,15.2,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+7,127,7,2021-11-28,Montana State,N,Southeast Missouri State,REG (Non-Conf),W 75-68,*,29,4,12,0.333,2,6,0.333,2,6,0.333,0.417,4,6,0.667,1,3,4,5,0,0,6,4,14,3.9,N,1,1,xavier-bishop-1,Xavier Bishop,2022
+8,128,8,2021-12-02,Montana State,@,Northern Colorado,REG (Conf),L 75-77 (OT),*,42,5,15,0.333,3,4,0.75,2,11,0.182,0.433,4,6,0.667,1,4,5,3,3,0,3,3,17,10.5,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+9,129,9,2021-12-04,Montana State,@,Sacramento State,REG (Conf),W 68-66,*,38,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,0,2,2,4,0,0,3,3,10,4.5,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+10,130,10,2021-12-07,Montana State,,North Dakota State,REG (Non-Conf),W 68-49,*,34,4,12,0.333,0,5,0.0,4,7,0.571,0.333,1,1,1.0,0,1,1,5,0,0,1,1,9,4.6,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+11,131,11,2021-12-11,Montana State,@,St. Thomas,REG (Non-Conf),W 72-65,*,37,7,13,0.538,2,5,0.4,5,8,0.625,0.615,4,6,0.667,0,5,5,5,1,0,1,1,20,17.5,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+12,132,12,2021-12-19,Montana State,,Portland,REG (Non-Conf),W 61-59,*,34,3,11,0.273,0,2,0.0,3,9,0.333,0.273,7,8,0.875,2,4,6,5,3,0,2,2,13,12.4,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+13,133,13,2021-12-22,Montana State,,Nelson AIC,REG (Non-Conf),W 124-73,*,22,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,2,0,2,10,2,0,0,0,11,17.1,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+14,134,14,2021-12-30,Montana State,,Weber State,REG (Conf),L 75-85,*,38,4,9,0.444,1,2,0.5,3,7,0.429,0.5,3,8,0.375,0,2,2,4,1,0,4,3,12,4.5,H,0,1,xavier-bishop-1,Xavier Bishop,2022
+15,135,15,2022-01-01,Montana State,,Idaho State,REG (Conf),W 60-40,*,31,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,3,1.0,0,4,4,5,3,0,3,2,7,6.8,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+16,136,16,2022-01-06,Montana State,@,Idaho,REG (Conf),W 92-72,*,33,6,9,0.667,2,4,0.5,4,5,0.8,0.778,6,7,0.857,0,3,3,5,0,0,0,3,20,18.9,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+17,137,17,2022-01-09,Montana State,,Montana,REG (Conf),W 66-59,*,40,4,13,0.308,0,4,0.0,4,9,0.444,0.308,3,3,1.0,0,3,3,3,0,0,0,3,11,5.3,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+18,138,18,2022-01-20,Montana State,@,Northern Arizona,REG (Conf),W 89-84,*,40,7,14,0.5,1,3,0.333,6,11,0.545,0.536,11,12,0.917,1,2,3,6,0,0,3,2,26,20.3,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+19,139,19,2022-01-22,Montana State,@,Portland State,REG (Conf),W 73-60,*,37,6,14,0.429,0,3,0.0,6,11,0.545,0.429,3,6,0.5,0,6,6,7,2,0,4,4,15,9.5,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+20,140,20,2022-01-27,Montana State,,Eastern Washington,REG (Conf),W 69-65,*,35,4,13,0.308,4,8,0.5,0,5,0.0,0.462,3,4,0.75,0,5,5,3,0,0,3,4,15,6.1,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+21,141,21,2022-01-29,Montana State,,Idaho,REG (Conf),W 70-64,*,31,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,2,1.0,0,2,2,5,2,0,2,4,9,7.1,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+22,142,22,2022-02-05,Montana State,@,Weber State,REG (Conf),W 78-57,*,38,7,11,0.636,4,7,0.571,3,4,0.75,0.818,0,0,,1,7,8,2,1,0,3,3,18,14.1,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+23,143,23,2022-02-07,Montana State,@,Idaho State,REG (Conf),W 72-54,*,25,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,4,0.25,0,2,2,1,1,0,1,3,3,-1.9,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+24,144,24,2022-02-10,Montana State,,Portland State,REG (Conf),W 77-74,*,40,1,9,0.111,1,4,0.25,0,5,0.0,0.167,0,1,0.0,1,1,2,7,2,0,2,1,3,2.2,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+25,145,25,2022-02-12,Montana State,,Northern Arizona,REG (Conf),W 72-70,*,36,9,15,0.6,3,6,0.5,6,9,0.667,0.7,2,4,0.5,1,5,6,4,1,0,2,4,23,17.7,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+26,146,26,2022-02-17,Montana State,@,Eastern Washington,REG (Conf),L 86-88 (OT),*,44,3,14,0.214,3,10,0.3,0,4,0.0,0.321,4,4,1.0,1,2,3,2,3,0,1,3,13,7.9,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+27,147,27,2022-02-19,Montana State,@,Southern Utah,REG (Conf),W 76-71,*,40,8,16,0.5,2,4,0.5,6,12,0.5,0.563,1,1,1.0,2,2,4,1,1,0,1,1,19,13.3,A,1,1,xavier-bishop-1,Xavier Bishop,2022
+28,148,28,2022-02-27,Montana State,@,Montana,REG (Conf),L 74-80,*,40,8,14,0.571,1,3,0.333,7,11,0.636,0.607,10,11,0.909,0,1,1,4,0,0,1,3,27,20.9,A,0,1,xavier-bishop-1,Xavier Bishop,2022
+29,149,29,2022-03-01,Montana State,,Southern Utah,REG (Conf),W 69-53,*,40,9,14,0.643,1,4,0.25,8,10,0.8,0.679,9,9,1.0,0,1,1,2,0,0,5,2,28,17.7,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+30,150,30,2022-03-03,Montana State,,Sacramento State,REG (Conf),W 75-69,*,39,7,14,0.5,1,6,0.167,6,8,0.75,0.536,3,4,0.75,0,1,1,7,0,0,2,1,18,13.4,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+31,151,31,2022-03-05,Montana State,,Northern Colorado,REG (Conf),W 87-85,*,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,3,0,0,3,1,2,-0.7,H,1,1,xavier-bishop-1,Xavier Bishop,2022
+32,152,32,2022-03-10,Montana State,N,Sacramento State,CTOURN,W 83-61,*,31,6,13,0.462,2,5,0.4,4,8,0.5,0.538,0,0,,0,3,3,3,1,0,0,1,14,10.9,N,1,0,xavier-bishop-1,Xavier Bishop,2022
+33,153,33,2022-03-11,Montana State,N,Weber State,CTOURN,W 69-66,*,37,5,14,0.357,3,9,0.333,2,5,0.4,0.464,1,2,0.5,0,5,5,2,1,0,2,4,14,6.1,N,1,0,xavier-bishop-1,Xavier Bishop,2022
+34,154,34,2022-03-12,Montana State,N,Northern Colorado,CTOURN,W 87-66,*,38,5,15,0.333,2,6,0.333,3,9,0.333,0.4,7,8,0.875,0,4,4,8,0,0,3,1,19,13.5,N,1,0,xavier-bishop-1,Xavier Bishop,2022
+35,155,35,2022-03-18,Montana State,N,Texas Tech,ROUND-64,L 62-97,*,27,3,8,0.375,2,4,0.5,1,4,0.25,0.5,4,4,1.0,1,0,1,2,1,0,3,3,12,6.5,N,0,0,xavier-bishop-1,Xavier Bishop,2022

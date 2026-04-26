@@ -1,0 +1,22 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2020-12-02,Florida State,,North Florida,REG (Non-Conf),W 86-58,*,25,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,2,3,2,1,1,1,2,7,5.9,H,1,1,anthony-polite-1,Anthony Polite,2021
+2,64,2,2020-12-09,Florida State,,Indiana,REG (Non-Conf),W 69-67 (OT),*,33,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,4,0.25,4,4,8,0,0,1,0,3,9,6.9,H,1,1,anthony-polite-1,Anthony Polite,2021
+3,65,3,2020-12-12,Florida State,,Florida,REG (Non-Conf),W 83-71,*,28,4,7,0.571,3,4,0.75,1,3,0.333,0.786,3,4,0.75,2,3,5,2,1,1,1,1,14,14.3,H,1,1,anthony-polite-1,Anthony Polite,2021
+4,66,4,2020-12-15,Florida State,,Georgia Tech,REG (Conf),W 74-61,*,34,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,0,2,2,3,3,0,1,1,10,11.0,H,1,1,anthony-polite-1,Anthony Polite,2021
+5,67,5,2020-12-19,Florida State,,UCF,REG (Non-Conf),L 74-86,*,31,5,8,0.625,3,4,0.75,2,4,0.5,0.813,1,2,0.5,4,2,6,1,0,0,3,3,14,9.9,H,0,1,anthony-polite-1,Anthony Polite,2021
+6,68,6,2020-12-21,Florida State,,Gardner-Webb,REG (Non-Conf),W 72-59,*,28,5,8,0.625,1,3,0.333,4,5,0.8,0.688,4,7,0.571,2,7,9,1,2,1,0,2,15,16.3,H,1,1,anthony-polite-1,Anthony Polite,2021
+7,69,7,2020-12-29,Florida State,@,Clemson,REG (Conf),L 67-77,*,27,2,7,0.286,2,4,0.5,0,3,0.0,0.429,1,2,0.5,0,3,3,2,1,0,3,4,7,1.2,A,0,1,anthony-polite-1,Anthony Polite,2021
+8,70,8,2021-01-13,Florida State,,NC State,REG (Conf),W 105-73,*,21,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,2,2,4,4,1,1,1,2,5,7.7,H,1,1,anthony-polite-1,Anthony Polite,2021
+9,71,9,2021-01-16,Florida State,,North Carolina,REG (Conf),W 82-75,*,27,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,0,0,0,2,3,5,1.1,H,1,1,anthony-polite-1,Anthony Polite,2021
+10,72,14,2021-02-13,Florida State,,Wake Forest,REG (Conf),W 92-85 (OT),,30,4,8,0.5,3,7,0.429,1,1,1.0,0.688,1,2,0.5,0,5,5,2,2,1,2,3,12,10.0,H,1,1,anthony-polite-1,Anthony Polite,2021
+11,73,15,2021-02-15,Florida State,,Virginia,REG (Conf),W 81-60,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,0,0,0,2,2,0,1,1,8,7.7,H,1,1,anthony-polite-1,Anthony Polite,2021
+12,74,16,2021-02-20,Florida State,@,Pittsburgh,REG (Conf),W 79-72,,20,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,1,1,2,4,0,1,2,0,5,5.1,A,1,1,anthony-polite-1,Anthony Polite,2021
+13,75,17,2021-02-24,Florida State,@,Miami (FL),REG (Conf),W 88-71,*,24,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,2,1.0,0,3,3,0,0,0,2,1,12,5.8,A,1,1,anthony-polite-1,Anthony Polite,2021
+14,76,18,2021-02-27,Florida State,@,North Carolina,REG (Conf),L 70-78,,26,4,12,0.333,2,6,0.333,2,6,0.333,0.417,0,0,,1,3,4,1,1,0,0,3,10,5.3,A,0,1,anthony-polite-1,Anthony Polite,2021
+15,77,19,2021-03-03,Florida State,,Boston College,REG (Conf),W 93-64,,25,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,5,0.8,0,6,6,2,4,0,0,1,13,16.1,H,1,1,anthony-polite-1,Anthony Polite,2021
+16,78,20,2021-03-06,Florida State,@,Notre Dame,REG (Conf),L 73-83,*,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,2,0.5,3,3,6,0,1,1,1,4,8,6.0,A,0,1,anthony-polite-1,Anthony Polite,2021
+17,79,21,2021-03-12,Florida State,N,North Carolina,CTOURN,W 69-66,*,24,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,1,0.0,3,4,7,0,2,0,4,0,5,1.8,N,1,0,anthony-polite-1,Anthony Polite,2021
+18,80,22,2021-03-13,Florida State,N,Georgia Tech,CTOURN,L 75-80,*,32,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,1,1.0,1,6,7,4,1,1,1,3,10,10.8,N,0,0,anthony-polite-1,Anthony Polite,2021
+19,81,23,2021-03-20,Florida State,N,UNC Greensboro,ROUND-64,W 64-54,*,30,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,0,4,4,2,1,0,0,1,12,11.6,N,1,0,anthony-polite-1,Anthony Polite,2021
+20,82,24,2021-03-22,Florida State,N,Colorado,ROUND-32,W 71-53,*,28,8,12,0.667,4,7,0.571,4,5,0.8,0.833,2,2,1.0,1,4,5,4,4,0,1,1,22,24.1,N,1,0,anthony-polite-1,Anthony Polite,2021
+21,83,25,2021-03-28,Florida State,N,Michigan,ROUND-16,L 58-76,*,25,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,2,2,4,1,3,0,0,2,9,11.6,N,0,0,anthony-polite-1,Anthony Polite,2021

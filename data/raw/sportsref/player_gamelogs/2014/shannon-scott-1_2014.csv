@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,74,1,2013-11-09,Ohio State,,Morgan State,REG (Non-Conf),W 89-50,*,26,5,8,0.625,4,7,0.571,1,1,1.0,0.875,2,2,1.0,2,2,4,7,1,0,3,2,16,16.5,H,1,1,shannon-scott-1,Shannon Scott,2014
+2,75,2,2013-11-12,Ohio State,,Ohio,REG (Non-Conf),W 79-69,*,24,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,1,2,3,3,1,0,3,2,8,6.3,H,1,1,shannon-scott-1,Shannon Scott,2014
+3,76,3,2013-11-16,Ohio State,@,Marquette,REG (Non-Conf),W 52-35,*,21,6,12,0.5,0,5,0.0,6,7,0.857,0.5,1,3,0.333,1,2,3,1,5,0,2,2,13,10.4,A,1,1,shannon-scott-1,Shannon Scott,2014
+4,77,4,2013-11-20,Ohio State,,American,REG (Non-Conf),W 63-52,*,32,5,10,0.5,0,2,0.0,5,8,0.625,0.5,3,4,0.75,3,6,9,4,3,0,3,2,13,13.5,H,1,1,shannon-scott-1,Shannon Scott,2014
+5,78,5,2013-11-25,Ohio State,,Wyoming,REG (Non-Conf),W 65-50,*,26,2,7,0.286,2,3,0.667,0,4,0.0,0.429,1,2,0.5,0,4,4,3,0,0,1,3,7,3.6,H,1,1,shannon-scott-1,Shannon Scott,2014
+6,79,6,2013-11-29,Ohio State,,North Florida,REG (Non-Conf),W 99-64,*,31,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,4,0.5,1,3,4,4,3,0,3,1,9,10.6,H,1,1,shannon-scott-1,Shannon Scott,2014
+7,80,7,2013-12-04,Ohio State,,Maryland,REG (Non-Conf),W 76-60,*,28,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,1,1.0,0,3,3,5,0,0,1,2,3,1.8,H,1,1,shannon-scott-1,Shannon Scott,2014
+8,81,8,2013-12-07,Ohio State,,Central Connecticut State,REG (Non-Conf),W 74-56,*,33,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,4,0.25,1,3,4,4,3,0,2,2,7,8.8,H,1,1,shannon-scott-1,Shannon Scott,2014
+9,82,9,2013-12-11,Ohio State,,Bryant,REG (Non-Conf),W 86-48,*,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,4,4,3,5,0,1,3,6,8.7,H,1,1,shannon-scott-1,Shannon Scott,2014
+10,83,10,2013-12-14,Ohio State,,North Dakota State,REG (Non-Conf),W 79-62,*,25,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,1,0.0,0,4,4,4,3,0,2,3,4,5.4,H,1,1,shannon-scott-1,Shannon Scott,2014
+11,84,11,2013-12-18,Ohio State,,Delaware,REG (Non-Conf),W 76-64,*,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,4,5,3,1,0,2,2,0,-0.6,H,1,1,shannon-scott-1,Shannon Scott,2014
+12,85,12,2013-12-21,Ohio State,N,Notre Dame,REG (Non-Conf),W 64-61,*,32,3,8,0.375,2,7,0.286,1,1,1.0,0.5,2,2,1.0,0,3,3,6,2,0,1,2,10,10.9,N,1,1,shannon-scott-1,Shannon Scott,2014
+13,86,13,2013-12-27,Ohio State,,Louisiana–Monroe,REG (Non-Conf),W 71-31,*,28,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,3,4,5,3,0,3,1,3,6.7,H,1,1,shannon-scott-1,Shannon Scott,2014
+14,87,14,2013-12-31,Ohio State,@,Purdue,REG (Conf),W 78-69,*,33,6,11,0.545,2,6,0.333,4,5,0.8,0.636,4,5,0.8,1,4,5,3,1,1,2,1,18,15.6,A,1,1,shannon-scott-1,Shannon Scott,2014
+15,88,15,2014-01-04,Ohio State,,Nebraska,REG (Conf),W 84-53,*,30,4,7,0.571,2,4,0.5,2,3,0.667,0.714,3,3,1.0,0,4,4,5,1,0,2,2,13,12.6,H,1,1,shannon-scott-1,Shannon Scott,2014
+16,89,16,2014-01-07,Ohio State,@,Michigan State,REG (Conf),L 68-72 (OT),*,34,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,1,5,6,4,3,0,6,4,9,5.4,A,0,1,shannon-scott-1,Shannon Scott,2014
+17,90,17,2014-01-12,Ohio State,,Iowa,REG (Conf),L 74-84,*,25,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,1,2,5,2,1,1,4,2,3.5,H,0,1,shannon-scott-1,Shannon Scott,2014
+18,91,18,2014-01-16,Ohio State,@,Minnesota,REG (Conf),L 53-63,*,23,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,1,1,2,1,2,1,4,4,1,-2.7,A,0,1,shannon-scott-1,Shannon Scott,2014
+19,92,19,2014-01-20,Ohio State,@,Nebraska,REG (Conf),L 62-68,*,32,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,1,2,3,2,2,0,1,5,4,2.3,A,0,1,shannon-scott-1,Shannon Scott,2014
+20,93,20,2014-01-23,Ohio State,,Illinois,REG (Conf),W 62-55,*,30,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,0,1,4,2,0,2,2,6,4.3,H,1,1,shannon-scott-1,Shannon Scott,2014
+21,94,21,2014-01-29,Ohio State,,Penn State,REG (Conf),L 70-71 (OT),*,29,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,1,0,1,2,1,0,0,2,6,3.5,H,0,1,shannon-scott-1,Shannon Scott,2014
+22,95,22,2014-02-01,Ohio State,@,Wisconsin,REG (Conf),W 59-58,,29,4,10,0.4,1,1,1.0,3,9,0.333,0.45,0,0,,0,4,4,3,1,0,1,1,9,6.5,A,1,1,shannon-scott-1,Shannon Scott,2014
+23,96,23,2014-02-04,Ohio State,@,Iowa,REG (Conf),W 76-69,,21,3,4,0.75,0,1,0.0,3,3,1.0,0.75,5,6,0.833,0,3,3,1,2,0,2,0,11,10.6,A,1,1,shannon-scott-1,Shannon Scott,2014
+24,97,24,2014-02-08,Ohio State,,Purdue,REG (Conf),W 67-49,,24,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,0,0,5,2,1,0,0,9,11.2,H,1,1,shannon-scott-1,Shannon Scott,2014
+25,98,25,2014-02-11,Ohio State,,Michigan,REG (Conf),L 60-70,,27,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,3,4,2,3,0,1,4,4,4.0,H,0,1,shannon-scott-1,Shannon Scott,2014
+26,99,26,2014-02-15,Ohio State,@,Illinois,REG (Conf),W 48-39,,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,2,0.0,0,4,4,3,5,0,0,1,2,5.3,A,1,1,shannon-scott-1,Shannon Scott,2014
+27,100,27,2014-02-19,Ohio State,,Northwestern,REG (Conf),W 76-60,,22,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,4,0.5,0,3,3,2,1,0,2,2,9,5.7,H,1,1,shannon-scott-1,Shannon Scott,2014
+28,101,28,2014-02-22,Ohio State,,Minnesota,REG (Conf),W 64-46,,21,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,4,1.0,3,1,4,3,0,0,0,1,10,11.1,H,1,1,shannon-scott-1,Shannon Scott,2014
+29,102,29,2014-02-27,Ohio State,@,Penn State,REG (Conf),L 63-65,,28,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,3,3,5,2,1,2,4,3,4.1,A,0,1,shannon-scott-1,Shannon Scott,2014
+30,103,30,2014-03-02,Ohio State,@,Indiana,REG (Conf),L 64-72,,22,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,0,1,1,0,2,0,0,5,7,3.6,A,0,1,shannon-scott-1,Shannon Scott,2014
+31,104,31,2014-03-09,Ohio State,,Michigan State,REG (Conf),W 69-67,,27,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,0,1,1,0,2,0,1,1,7,4.5,H,1,1,shannon-scott-1,Shannon Scott,2014
+32,105,32,2014-03-13,Ohio State,N,Purdue,CTOURN,W 63-61,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,2,1,0,2,2,2,-0.1,N,1,0,shannon-scott-1,Shannon Scott,2014
+33,106,33,2014-03-14,Ohio State,N,Nebraska,CTOURN,W 71-67,,30,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,4,0.5,2,2,4,5,1,0,5,2,9,7.3,N,1,0,shannon-scott-1,Shannon Scott,2014
+34,107,34,2014-03-15,Ohio State,N,Michigan,CTOURN,L 69-72,,32,7,10,0.7,4,6,0.667,3,4,0.75,0.9,0,0,,0,5,5,6,3,0,2,2,18,19.7,N,0,0,shannon-scott-1,Shannon Scott,2014
+35,108,35,2014-03-20,Ohio State,N,Dayton,ROUND-64,L 59-60,,27,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,2,0.5,0,4,4,4,2,0,2,2,3,2.0,N,0,0,shannon-scott-1,Shannon Scott,2014

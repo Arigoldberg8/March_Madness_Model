@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,135,1,2022-11-07,Iowa,,Bethune-Cookman,REG (Non-Conf),W 89-58,,16,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,1,1,0,1,4,6,3.8,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+2,136,2,2022-11-11,Iowa,,North Carolina A&T,REG (Non-Conf),W 112-71,,16,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,3,0,3,3,1,0,0,1,5,7.1,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+3,137,3,2022-11-16,Iowa,@,Seton Hall,REG (Non-Conf),W 83-67,,23,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,3,3,0,2,0,2,1,5,5.2,A,1,1,connor-mccaffery-1,Connor McCaffery,2023
+4,138,4,2022-11-21,Iowa,,Omaha,REG (Non-Conf),W 100-64,,23,4,5,0.8,2,3,0.667,2,2,1.0,1.0,2,2,1.0,0,2,2,4,1,0,3,1,12,11.1,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+5,139,5,2022-11-25,Iowa,N,Clemson,REG (Non-Conf),W 74-71,,17,0,0,,0,0,,0,0,,,0,0,,2,4,6,1,0,0,1,3,0,1.1,N,1,1,connor-mccaffery-1,Connor McCaffery,2023
+6,140,6,2022-11-26,Iowa,N,TCU,REG (Non-Conf),L 66-79,,22,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,2,0,0,1,0,1.2,N,0,1,connor-mccaffery-1,Connor McCaffery,2023
+7,141,7,2022-11-29,Iowa,,Georgia Tech,REG (Non-Conf),W 81-65,,31,3,4,0.75,3,4,0.75,0,0,,1.125,1,2,0.5,4,6,10,3,1,0,0,2,10,14.9,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+8,142,8,2022-12-06,Iowa,N,Duke,REG (Non-Conf),L 62-74,,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,1,1,1,1,0,0,4,4,3.4,N,0,1,connor-mccaffery-1,Connor McCaffery,2023
+9,143,9,2022-12-08,Iowa,,Iowa State,REG (Non-Conf),W 75-56,*,36,2,7,0.286,2,7,0.286,0,0,,0.429,8,8,1.0,0,3,3,4,2,0,0,2,14,14.8,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+10,144,10,2022-12-11,Iowa,,Wisconsin,REG (Conf),L 75-78 (OT),*,41,6,14,0.429,2,8,0.25,4,6,0.667,0.5,3,3,1.0,2,8,10,5,3,0,3,2,17,16.1,H,0,1,connor-mccaffery-1,Connor McCaffery,2023
+11,145,11,2022-12-17,Iowa,,Southeast Missouri State,REG (Non-Conf),W 106-75,*,25,2,4,0.5,0,2,0.0,2,2,1.0,0.5,5,5,1.0,1,4,5,3,1,0,1,2,9,10.2,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+12,146,13,2022-12-29,Iowa,@,Nebraska,REG (Conf),L 50-66,,25,2,8,0.25,1,6,0.167,1,2,0.5,0.313,0,0,,0,4,4,2,3,0,0,4,5,4.2,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+13,147,14,2023-01-01,Iowa,@,Penn State,REG (Conf),L 79-83,,26,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,1,0.0,0,3,3,2,0,0,2,4,8,3.3,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+14,148,15,2023-01-05,Iowa,,Indiana,REG (Conf),W 91-89,*,36,4,9,0.444,2,6,0.333,2,3,0.667,0.556,6,6,1.0,0,2,2,3,1,0,1,2,16,13.2,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+15,149,16,2023-01-08,Iowa,@,Rutgers,REG (Conf),W 76-65,*,32,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,0,0,8,1,0,1,2,6,7.4,A,1,1,connor-mccaffery-1,Connor McCaffery,2023
+16,150,17,2023-01-12,Iowa,,Michigan,REG (Conf),W 93-84 (OT),*,37,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,3,3,3,1,0,0,3,3,4.1,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+17,151,18,2023-01-15,Iowa,,Maryland,REG (Conf),W 81-67,*,40,4,5,0.8,2,3,0.667,2,2,1.0,1.0,2,2,1.0,0,2,2,4,3,0,2,4,12,12.9,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+18,152,19,2023-01-21,Iowa,@,Ohio State,REG (Conf),L 77-93,*,28,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,2,2,2,1,0,0,4,6,3.3,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+19,153,20,2023-01-26,Iowa,@,Michigan State,REG (Conf),L 61-63,*,38,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,2,6,8,2,2,0,1,3,5,6.7,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+20,154,21,2023-01-29,Iowa,,Rutgers,REG (Conf),W 93-82,*,36,3,8,0.375,2,6,0.333,1,2,0.5,0.5,3,3,1.0,1,2,3,6,1,0,0,2,11,12.3,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+21,155,22,2023-01-31,Iowa,,Northwestern,REG (Conf),W 86-70,*,37,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,0,3,3,3,1,0,0,2,11,10.8,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+22,156,23,2023-02-04,Iowa,,Illinois,REG (Conf),W 81-79,*,29,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,0,4,0,-2.7,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+23,157,24,2023-02-09,Iowa,@,Purdue,REG (Conf),L 73-87,*,31,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,1,2,3,8,3,0,1,1,3,7.7,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+24,158,25,2023-02-12,Iowa,@,Minnesota,REG (Conf),W 68-56,*,32,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,2,8,10,4,3,0,1,3,3,8.0,A,1,1,connor-mccaffery-1,Connor McCaffery,2023
+25,159,26,2023-02-16,Iowa,,Ohio State,REG (Conf),W 92-75,*,35,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,6,6,13,2,0,0,2,7,17.1,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+26,160,27,2023-02-19,Iowa,@,Northwestern,REG (Conf),L 60-80,*,33,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,1,3,4,5,1,0,0,3,2,4.5,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+27,161,28,2023-02-22,Iowa,@,Wisconsin,REG (Conf),L 52-64,*,35,1,6,0.167,0,5,0.0,1,1,1.0,0.167,0,0,,4,4,8,1,1,0,3,3,2,-0.3,A,0,1,connor-mccaffery-1,Connor McCaffery,2023
+28,162,29,2023-02-25,Iowa,,Michigan State,REG (Conf),W 112-106 (OT),*,37,3,9,0.333,3,7,0.429,0,2,0.0,0.5,1,3,0.333,0,3,3,6,0,0,1,5,10,6.2,H,1,1,connor-mccaffery-1,Connor McCaffery,2023
+29,163,30,2023-02-28,Iowa,@,Indiana,REG (Conf),W 90-68,*,31,0,1,0.0,0,1,0.0,0,0,,0.0,0,1,0.0,1,4,5,3,0,0,2,3,0,-0.3,A,1,1,connor-mccaffery-1,Connor McCaffery,2023
+30,164,31,2023-03-05,Iowa,,Nebraska,REG (Conf),L 77-81,*,36,1,5,0.2,1,4,0.25,0,1,0.0,0.3,5,6,0.833,2,6,8,9,3,0,1,4,8,14.4,H,0,1,connor-mccaffery-1,Connor McCaffery,2023
+31,165,32,2023-03-09,Iowa,N,Ohio State,CTOURN,L 69-73,*,30,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,2,3,0,-3.6,N,0,0,connor-mccaffery-1,Connor McCaffery,2023
+32,166,33,2023-03-16,Iowa,N,Auburn,ROUND-64,L 75-83,*,28,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,4,1.0,2,6,8,3,0,0,1,5,9,10.0,N,0,0,connor-mccaffery-1,Connor McCaffery,2023

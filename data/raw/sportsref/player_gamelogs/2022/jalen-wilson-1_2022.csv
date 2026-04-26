@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,4,2021-11-25,Kansas,N,North Texas,REG (Non-Conf),W 71-59,,18,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,3,0.333,2,3,5,4,0,0,1,1,7,8.3,N,1,1,jalen-wilson-1,Jalen Wilson,2022
+2,33,5,2021-11-26,Kansas,N,Dayton,REG (Non-Conf),L 73-74,,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,4,0.25,1,1,2,1,1,0,2,0,1,-2.3,N,0,1,jalen-wilson-1,Jalen Wilson,2022
+3,34,6,2021-11-28,Kansas,N,Iona,REG (Non-Conf),W 96-83,,12,2,6,0.333,0,0,,2,6,0.333,0.333,1,3,0.333,1,4,5,1,1,0,0,1,5,4.0,N,1,1,jalen-wilson-1,Jalen Wilson,2022
+4,35,7,2021-12-03,Kansas,@,St. John's (NY),REG (Non-Conf),W 95-75,,16,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,2,0.5,1,8,9,0,0,0,0,3,5,1.7,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+5,36,8,2021-12-07,Kansas,,UTEP,REG (Non-Conf),W 78-52,,21,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,7,7,3,2,0,1,3,3,3.9,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+6,37,9,2021-12-11,Kansas,,Missouri,REG (Non-Conf),W 102-65,,18,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,1,3,4,0,0,0,1,1,7,3.8,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+7,38,10,2021-12-18,Kansas,,Stephen F. Austin,REG (Non-Conf),W 80-72,,20,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,1,3,4,1,1,0,0,0,10,8.3,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+8,39,11,2021-12-29,Kansas,,Nevada,REG (Non-Conf),W 88-61,,21,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,9,10,0,1,1,1,0,7,8.8,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+9,40,12,2022-01-01,Kansas,,George Mason,REG (Non-Conf),W 76-67,*,26,3,9,0.333,0,5,0.0,3,4,0.75,0.333,2,3,0.667,1,6,7,2,0,0,2,2,8,3.6,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+10,41,13,2022-01-04,Kansas,@,Oklahoma State,REG (Conf),W 74-63,,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,1,0.0,4,11,15,1,0,0,2,2,2,1.8,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+11,42,14,2022-01-08,Kansas,@,Texas Tech,REG (Conf),L 67-75,*,32,6,8,0.75,3,5,0.6,3,3,1.0,0.938,5,6,0.833,1,1,2,0,3,1,4,1,20,16.7,A,0,1,jalen-wilson-1,Jalen Wilson,2022
+12,43,15,2022-01-11,Kansas,,Iowa State,REG (Conf),W 62-61,*,24,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,1,0.0,0,2,2,5,0,0,2,1,4,1.9,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+13,44,16,2022-01-15,Kansas,,West Virginia,REG (Conf),W 85-59,*,31,10,13,0.769,3,6,0.5,7,7,1.0,0.885,0,0,,2,6,8,5,2,1,1,3,23,25.1,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+14,45,17,2022-01-18,Kansas,@,Oklahoma,REG (Conf),W 67-64,*,35,6,10,0.6,2,5,0.4,4,5,0.8,0.7,2,2,1.0,1,7,8,2,0,0,1,4,16,13.0,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+15,46,18,2022-01-22,Kansas,@,Kansas State,REG (Conf),W 78-75,*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,5,6,0.833,4,6,10,0,0,0,0,3,16,14.7,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+16,47,19,2022-01-24,Kansas,,Texas Tech,REG (Conf),W 94-91 (2OT),*,48,3,10,0.3,0,3,0.0,3,7,0.429,0.3,3,4,0.75,1,10,11,2,3,0,2,4,9,7.3,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+17,48,20,2022-01-29,Kansas,,Kentucky,REG (Non-Conf),L 62-80,*,31,3,10,0.3,2,5,0.4,1,5,0.2,0.4,0,0,,0,8,8,1,0,0,2,2,8,2.5,H,0,1,jalen-wilson-1,Jalen Wilson,2022
+18,49,21,2022-02-01,Kansas,@,Iowa State,REG (Conf),W 70-61,*,36,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,3,0.667,0,6,6,4,2,0,5,1,13,10.2,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+19,50,22,2022-02-05,Kansas,,Baylor,REG (Conf),W 83-59,*,29,7,10,0.7,1,4,0.25,6,6,1.0,0.75,0,0,,2,5,7,4,2,1,1,1,15,17.8,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+20,51,23,2022-02-07,Kansas,@,Texas,REG (Conf),L 76-79,*,32,6,10,0.6,0,0,,6,10,0.6,0.6,6,8,0.75,2,9,11,2,1,1,3,4,18,15.2,A,0,1,jalen-wilson-1,Jalen Wilson,2022
+21,52,24,2022-02-12,Kansas,,Oklahoma,REG (Conf),W 71-69,*,38,8,12,0.667,1,2,0.5,7,10,0.7,0.708,5,6,0.833,3,6,9,2,0,0,0,2,22,20.9,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+22,53,25,2022-02-14,Kansas,,Oklahoma State,REG (Conf),W 76-62,*,25,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,3,0.667,2,5,7,0,1,0,1,3,11,6.2,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+23,54,26,2022-02-19,Kansas,@,West Virginia,REG (Conf),W 71-58,*,35,1,5,0.2,0,1,0.0,1,4,0.25,0.2,8,9,0.889,0,11,11,0,1,0,1,3,10,8.6,A,1,1,jalen-wilson-1,Jalen Wilson,2022
+24,55,27,2022-02-22,Kansas,,Kansas State,REG (Conf),W 102-83,*,29,7,9,0.778,3,4,0.75,4,5,0.8,0.944,0,0,,1,3,4,0,2,0,0,0,17,17.1,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+25,56,28,2022-02-26,Kansas,@,Baylor,REG (Conf),L 70-80,*,38,2,10,0.2,0,5,0.0,2,5,0.4,0.2,3,4,0.75,2,1,3,3,0,0,1,3,7,2.0,A,0,1,jalen-wilson-1,Jalen Wilson,2022
+26,57,29,2022-03-01,Kansas,@,TCU,REG (Conf),L 64-74,*,34,6,11,0.545,1,3,0.333,5,8,0.625,0.591,0,1,0.0,2,5,7,1,0,0,1,4,13,8.3,A,0,1,jalen-wilson-1,Jalen Wilson,2022
+27,58,30,2022-03-03,Kansas,,TCU,REG (Conf),W 72-68,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,7,0.714,1,9,10,3,2,1,0,2,9,13.6,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+28,59,31,2022-03-05,Kansas,,Texas,REG (Conf),W 70-63 (OT),,37,5,9,0.556,2,5,0.4,3,4,0.75,0.667,5,6,0.833,4,9,13,0,2,2,1,2,17,19.4,H,1,1,jalen-wilson-1,Jalen Wilson,2022
+29,60,32,2022-03-10,Kansas,N,West Virginia,CTOURN,W 87-63,*,27,4,9,0.444,2,4,0.5,2,5,0.4,0.556,5,6,0.833,0,5,5,0,0,1,3,4,15,7.5,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+30,61,33,2022-03-11,Kansas,N,TCU,CTOURN,W 75-62,*,32,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,1,2,5,1,1,1,1,9,11.2,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+31,62,34,2022-03-12,Kansas,N,Texas Tech,CTOURN,W 74-65,*,35,5,9,0.556,0,3,0.0,5,6,0.833,0.556,2,4,0.5,0,5,5,2,2,1,2,5,12,8.5,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+32,63,35,2022-03-17,Kansas,N,Texas Southern,ROUND-64,W 83-56,*,20,5,9,0.556,1,4,0.25,4,5,0.8,0.611,0,0,,2,4,6,3,1,0,2,4,11,8.8,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+33,64,36,2022-03-19,Kansas,N,Creighton,ROUND-32,W 79-72,*,32,5,14,0.357,0,3,0.0,5,11,0.455,0.357,4,4,1.0,4,10,14,0,0,1,0,4,14,11.1,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+34,65,37,2022-03-25,Kansas,N,Providence,ROUND-16,W 66-61,*,38,5,16,0.313,1,3,0.333,4,13,0.308,0.344,5,5,1.0,4,7,11,0,1,1,1,2,16,11.6,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+35,66,38,2022-03-27,Kansas,N,Miami (FL),ROUND-8,W 76-50,*,31,1,8,0.125,0,4,0.0,1,4,0.25,0.125,3,6,0.5,1,10,11,3,1,0,2,3,5,2.2,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+36,67,39,2022-04-02,Kansas,N,Villanova,NATIONAL-SEMI,W 81-65,*,37,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,2,1.0,5,7,12,5,0,1,1,1,11,13.3,N,1,0,jalen-wilson-1,Jalen Wilson,2022
+37,68,40,2022-04-04,Kansas,N,North Carolina,NATIONAL-FINAL,W 72-69,*,34,5,13,0.385,1,5,0.2,4,8,0.5,0.423,4,4,1.0,1,3,4,2,0,1,0,1,15,11.2,N,1,0,jalen-wilson-1,Jalen Wilson,2022

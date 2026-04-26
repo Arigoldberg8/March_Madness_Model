@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-06,Saint Louis,,Southeast Missouri State,REG (Non-Conf),W 75-65,*,34,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,10,12,4,0,3,0,2,2,10.2,H,1,1,hasahn-french-1,Hasahn French,2019
+2,34,2,2018-11-10,Saint Louis,,Troy,REG (Non-Conf),W 62-58,*,26,2,5,0.4,0,0,2,5,0.4,0.4,0,4,0.0,2,5,7,3,0,0,2,4,4,1.1,H,1,1,hasahn-french-1,Hasahn French,2019
+3,35,3,2018-11-13,Saint Louis,,North Alabama,REG (Non-Conf),W 69-58,*,20,5,8,0.625,0,0,5,8,0.625,0.625,1,3,0.333,0,5,5,1,2,1,1,4,11,8.9,H,1,1,hasahn-french-1,Hasahn French,2019
+4,36,4,2018-11-17,Saint Louis,@,Seton Hall,REG (Non-Conf),W 66-64,*,14,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,0,2,2,0,1,1,2,4,2,-0.7,A,1,1,hasahn-french-1,Hasahn French,2019
+5,37,5,2018-11-21,Saint Louis,N,Pittsburgh,REG (Non-Conf),L 73-75,*,29,6,12,0.5,0,0,6,12,0.5,0.5,1,3,0.333,2,8,10,2,0,6,4,3,13,10.4,N,0,1,hasahn-french-1,Hasahn French,2019
+6,38,6,2018-11-24,Saint Louis,,Central Arkansas,REG (Non-Conf),W 73-61,*,28,3,9,0.333,0,0,3,9,0.333,0.333,3,8,0.375,4,4,8,1,1,1,4,4,9,2.7,H,1,1,hasahn-french-1,Hasahn French,2019
+7,39,7,2018-12-01,Saint Louis,,Butler,REG (Non-Conf),W 64-52,*,27,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,1,7,8,3,0,2,6,2,9,6.2,H,1,1,hasahn-french-1,Hasahn French,2019
+8,40,8,2018-12-05,Saint Louis,@,Southern Illinois,REG (Non-Conf),L 56-61,*,29,6,12,0.5,0,0,6,12,0.5,0.5,1,2,0.5,4,5,9,1,1,0,2,4,13,9.0,A,0,1,hasahn-french-1,Hasahn French,2019
+9,41,9,2018-12-09,Saint Louis,,Oregon State,REG (Non-Conf),W 65-61,*,34,1,6,0.167,0,0,1,6,0.167,0.167,0,0,,2,2,4,3,1,0,2,4,2,-0.3,H,1,1,hasahn-french-1,Hasahn French,2019
+10,42,10,2018-12-16,Saint Louis,@,Houston,REG (Non-Conf),L 64-68,*,28,2,5,0.4,0,0,2,5,0.4,0.4,2,4,0.5,3,5,8,1,1,0,0,5,6,5.8,A,0,1,hasahn-french-1,Hasahn French,2019
+11,43,11,2018-12-19,Saint Louis,,North Carolina Central,REG (Non-Conf),W 74-65,*,36,3,10,0.3,0,0,3,10,0.3,0.3,0,0,,3,4,7,3,0,2,1,1,6,5.6,H,1,1,hasahn-french-1,Hasahn French,2019
+12,44,12,2018-12-22,Saint Louis,N,Florida State,REG (Non-Conf),L 59-81,*,25,0,5,0.0,0,0,0,5,0.0,0.0,1,2,0.5,4,3,7,1,1,1,2,2,1,0.4,N,0,1,hasahn-french-1,Hasahn French,2019
+13,45,13,2018-12-30,Saint Louis,,Appalachian State,REG (Non-Conf),W 83-55,*,31,5,14,0.357,0,0,5,14,0.357,0.357,1,3,0.333,4,8,12,1,2,1,0,4,11,9.4,H,1,1,hasahn-french-1,Hasahn French,2019
+14,46,14,2019-01-06,Saint Louis,,Rhode Island,REG (Conf),W 60-53,*,37,5,12,0.417,0,0,5,12,0.417,0.417,0,4,0.0,3,8,11,1,3,3,0,4,10,10.7,H,1,1,hasahn-french-1,Hasahn French,2019
+15,47,15,2019-01-09,Saint Louis,,Massachusetts,REG (Conf),W 65-62,*,32,9,14,0.643,0,0,9,14,0.643,0.643,7,10,0.7,2,4,6,1,3,3,0,4,25,24.4,H,1,1,hasahn-french-1,Hasahn French,2019
+16,48,16,2019-01-12,Saint Louis,@,La Salle,REG (Conf),W 71-64,*,33,5,10,0.5,0,0,5,10,0.5,0.5,2,7,0.286,3,7,10,4,2,2,4,3,12,10.2,A,1,1,hasahn-french-1,Hasahn French,2019
+17,49,17,2019-01-15,Saint Louis,@,Fordham,REG (Conf),W 63-60,*,35,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,4,4,8,0,2,1,1,2,9,10.9,A,1,1,hasahn-french-1,Hasahn French,2019
+18,50,18,2019-01-18,Saint Louis,,Saint Joseph's,REG (Conf),W 68-57,*,37,5,10,0.5,0,0,5,10,0.5,0.5,0,2,0.0,4,7,11,0,1,0,2,2,10,7.3,H,1,1,hasahn-french-1,Hasahn French,2019
+19,51,19,2019-01-23,Saint Louis,@,Duquesne,REG (Conf),L 73-77,*,23,5,10,0.5,0,0,5,10,0.5,0.5,0,1,0.0,5,3,8,0,0,3,2,5,10,7.1,A,0,1,hasahn-french-1,Hasahn French,2019
+20,52,20,2019-01-26,Saint Louis,,Davidson,REG (Conf),L 53-54,*,37,5,12,0.417,0,0,5,12,0.417,0.417,2,5,0.4,4,8,12,1,3,2,1,3,12,12.5,H,0,1,hasahn-french-1,Hasahn French,2019
+21,53,21,2019-01-30,Saint Louis,,Richmond,REG (Conf),L 81-84,*,33,6,14,0.429,0,0,6,14,0.429,0.429,1,3,0.333,7,5,12,3,1,3,4,4,13,10.8,H,0,1,hasahn-french-1,Hasahn French,2019
+22,54,22,2019-02-02,Saint Louis,@,Rhode Island,REG (Conf),L 54-65,*,37,7,13,0.538,0,0,7,13,0.538,0.538,1,8,0.125,4,6,10,0,0,2,3,2,15,8.1,A,0,1,hasahn-french-1,Hasahn French,2019
+23,55,23,2019-02-05,Saint Louis,,Dayton,REG (Conf),W 73-60,*,19,4,4,1.0,0,0,4,4,1.0,1.0,2,6,0.333,4,4,8,0,0,2,2,5,10,8.6,H,1,1,hasahn-french-1,Hasahn French,2019
+24,56,24,2019-02-08,Saint Louis,@,Saint Joseph's,REG (Conf),L 61-91,*,30,1,6,0.167,0,0,1,6,0.167,0.167,4,6,0.667,2,5,7,2,0,1,2,2,6,3.6,A,0,1,hasahn-french-1,Hasahn French,2019
+25,57,25,2019-02-13,Saint Louis,@,George Washington,REG (Conf),W 73-58,*,36,2,8,0.25,0,0,2,8,0.25,0.25,1,1,1.0,0,13,13,1,1,2,1,2,5,5.4,A,1,1,hasahn-french-1,Hasahn French,2019
+26,58,26,2019-02-16,Saint Louis,,La Salle,REG (Conf),W 62-49,*,36,5,8,0.625,0,0,5,8,0.625,0.625,0,4,0.0,2,9,11,2,1,3,2,2,10,10.6,H,1,1,hasahn-french-1,Hasahn French,2019
+27,59,27,2019-02-23,Saint Louis,@,Dayton,REG (Conf),L 62-70,*,21,3,5,0.6,0,0,3,5,0.6,0.6,2,6,0.333,0,3,3,1,0,0,3,5,8,0.7,A,0,1,hasahn-french-1,Hasahn French,2019
+28,60,28,2019-02-26,Saint Louis,@,VCU,REG (Conf),L 65-71,*,35,8,10,0.8,0,0,8,10,0.8,0.8,0,0,,3,5,8,1,1,3,4,5,16,13.6,A,0,1,hasahn-french-1,Hasahn French,2019
+29,61,29,2019-03-02,Saint Louis,,George Mason,REG (Conf),W 81-71,*,28,2,6,0.333,0,0,2,6,0.333,0.333,1,2,0.5,1,6,7,3,1,3,3,5,5,3.9,H,1,1,hasahn-french-1,Hasahn French,2019
+30,62,30,2019-03-06,Saint Louis,,Duquesne,REG (Conf),W 85-75,,27,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,6,6,12,0,0,3,2,4,6,7.5,H,1,1,hasahn-french-1,Hasahn French,2019
+31,63,31,2019-03-09,Saint Louis,@,St. Bonaventure,REG (Conf),L 57-66,*,37,7,10,0.7,0,0,7,10,0.7,0.7,0,2,0.0,1,3,4,1,1,1,4,2,14,8.2,A,0,1,hasahn-french-1,Hasahn French,2019
+32,64,32,2019-03-14,Saint Louis,N,Richmond,CTOURN,W 71-68,*,30,11,16,0.688,0,0,11,16,0.688,0.688,0,2,0.0,5,7,12,1,0,2,1,3,22,19.9,N,1,0,hasahn-french-1,Hasahn French,2019
+33,65,33,2019-03-15,Saint Louis,N,Dayton,CTOURN,W 64-55,*,26,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,1,4,5,0,3,3,0,3,4,6.4,N,1,0,hasahn-french-1,Hasahn French,2019
+34,66,34,2019-03-16,Saint Louis,N,Davidson,CTOURN,W 67-44,*,37,3,9,0.333,0,0,3,9,0.333,0.333,1,1,1.0,2,8,10,4,1,1,3,3,7,6.0,N,1,0,hasahn-french-1,Hasahn French,2019
+35,67,35,2019-03-17,Saint Louis,N,St. Bonaventure,CTOURN,W 55-53,*,38,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,4,3,7,1,1,3,2,3,8,8.3,N,1,0,hasahn-french-1,Hasahn French,2019
+36,68,36,2019-03-22,Saint Louis,N,Virginia Tech,ROUND-64,L 52-66,*,36,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,3,5,8,3,0,0,3,4,9,7.1,N,0,0,hasahn-french-1,Hasahn French,2019

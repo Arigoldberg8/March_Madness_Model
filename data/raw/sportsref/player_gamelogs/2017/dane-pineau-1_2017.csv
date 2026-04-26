@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2016-11-11,St. Mary's (CA),,Nevada,REG (Non-Conf),W 81-63,,12,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,2,4,6,1,0,0,2,1,6,5.6,H,1,1,dane-pineau-1,Dane Pineau,2017
+2,95,2,2016-11-16,St. Mary's (CA),,Prairie View A&M,REG (Non-Conf),W 110-72,,11,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,2,4,6,1,0,0,0,1,5,5.5,H,1,1,dane-pineau-1,Dane Pineau,2017
+3,96,3,2016-11-19,St. Mary's (CA),@,Dayton,REG (Non-Conf),W 61-57,,10,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,1,2,3,1,0,0,0,0,5,6.4,A,1,1,dane-pineau-1,Dane Pineau,2017
+4,97,5,2016-11-27,St. Mary's (CA),N,UAB,REG (Non-Conf),W 76-63,,7,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,0,0,1,1,2,0.9,N,1,1,dane-pineau-1,Dane Pineau,2017
+5,98,6,2016-11-30,St. Mary's (CA),@,Stanford,REG (Non-Conf),W 66-51,,28,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,3,3,1,1,1,1,2,8,8.3,A,1,1,dane-pineau-1,Dane Pineau,2017
+6,99,7,2016-12-08,St. Mary's (CA),,UT Arlington,REG (Non-Conf),L 51-65,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,1,3,4,1,0,0,1,3,4,1.3,H,0,1,dane-pineau-1,Dane Pineau,2017
+7,100,8,2016-12-11,St. Mary's (CA),,UC Irvine,REG (Non-Conf),W 84-53,,15,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,4,1,5,0,2,0,2,3,7,6.5,H,1,1,dane-pineau-1,Dane Pineau,2017
+8,101,9,2016-12-14,St. Mary's (CA),,Western Kentucky,REG (Non-Conf),W 73-51,,20,5,7,0.714,0,0,,5,7,0.714,0.714,0,1,0.0,2,2,4,0,2,2,0,2,10,11.3,H,1,1,dane-pineau-1,Dane Pineau,2017
+9,102,10,2016-12-20,St. Mary's (CA),,Texas A&M–Corpus Christi,REG (Non-Conf),W 67-46,,27,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,4,7,11,0,3,0,1,4,4,8.3,H,1,1,dane-pineau-1,Dane Pineau,2017
+10,103,11,2016-12-22,St. Mary's (CA),,South Carolina State,REG (Non-Conf),W 74-47,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,2,4,3,0,1,0,2,6,8.4,H,1,1,dane-pineau-1,Dane Pineau,2017
+11,104,12,2016-12-29,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 72-60,,26,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,0,8,8,0,0,1,2,5,9,5.1,A,1,1,dane-pineau-1,Dane Pineau,2017
+12,105,13,2016-12-31,St. Mary's (CA),,San Diego,REG (Conf),W 72-60,,33,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,3,3,6,0,0,2,1,5,9,7.4,H,1,1,dane-pineau-1,Dane Pineau,2017
+13,106,14,2017-01-05,St. Mary's (CA),,Brigham Young,REG (Conf),W 81-68,,27,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,3,3,6,1,1,4,1,3,4,8.2,H,1,1,dane-pineau-1,Dane Pineau,2017
+14,107,15,2017-01-07,St. Mary's (CA),@,San Francisco,REG (Conf),W 63-52,,35,6,8,0.75,1,2,0.5,5,6,0.833,0.813,1,2,0.5,4,8,12,2,1,3,2,3,14,16.9,A,1,1,dane-pineau-1,Dane Pineau,2017
+15,108,16,2017-01-12,St. Mary's (CA),@,Portland,REG (Conf),W 74-33,,18,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,6,4,10,1,0,0,2,3,4,2.8,A,1,1,dane-pineau-1,Dane Pineau,2017
+16,109,17,2017-01-14,St. Mary's (CA),@,Gonzaga,REG (Conf),L 56-79,,34,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,3,2,5,2,3,0,2,3,10,10.2,A,0,1,dane-pineau-1,Dane Pineau,2017
+17,110,18,2017-01-19,St. Mary's (CA),,Pacific,REG (Conf),W 62-50,,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,1,3,0,0,1,1,4,6,3.5,H,1,1,dane-pineau-1,Dane Pineau,2017
+18,111,19,2017-01-21,St. Mary's (CA),,Pepperdine,REG (Conf),W 85-65,,31,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,4,2,6,2,1,1,1,3,10,12.8,H,1,1,dane-pineau-1,Dane Pineau,2017
+19,112,20,2017-01-26,St. Mary's (CA),,San Francisco,REG (Conf),W 66-46,,36,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,4,6,0,4,3,2,2,6,8.9,H,1,1,dane-pineau-1,Dane Pineau,2017
+20,113,21,2017-01-28,St. Mary's (CA),@,Santa Clara,REG (Conf),W 72-59,,33,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,7,8,3,1,0,0,2,4,7.8,A,1,1,dane-pineau-1,Dane Pineau,2017
+21,114,22,2017-02-02,St. Mary's (CA),@,Pacific,REG (Conf),W 74-70,,33,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,5,0.6,3,7,10,0,2,1,2,4,12,11.9,A,1,1,dane-pineau-1,Dane Pineau,2017
+22,115,23,2017-02-04,St. Mary's (CA),@,San Diego,REG (Conf),W 71-27,,28,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,2,6,8,0,0,2,0,4,2,3.2,A,1,1,dane-pineau-1,Dane Pineau,2017
+23,116,24,2017-02-09,St. Mary's (CA),,Portland,REG (Conf),W 51-41,,25,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,3,4,7,3,1,2,3,4,1,1.7,H,1,1,dane-pineau-1,Dane Pineau,2017
+24,117,25,2017-02-11,St. Mary's (CA),,Gonzaga,REG (Conf),L 64-74,,31,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,1,0.0,1,5,6,0,2,2,0,4,7,7.6,H,0,1,dane-pineau-1,Dane Pineau,2017
+25,118,26,2017-02-16,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 81-48,,17,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,1,5,6,0,1,1,0,3,8,10.1,H,1,1,dane-pineau-1,Dane Pineau,2017
+26,119,27,2017-02-18,St. Mary's (CA),@,Brigham Young,REG (Conf),W 70-57,,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,1,3,4,0,0,0,1,3,6,2.7,A,1,1,dane-pineau-1,Dane Pineau,2017
+27,120,28,2017-02-23,St. Mary's (CA),@,Pepperdine,REG (Conf),W 78-49,,16,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,1,2,3,1,0,0,0,4,9,6.8,A,1,1,dane-pineau-1,Dane Pineau,2017
+28,121,29,2017-02-25,St. Mary's (CA),,Santa Clara,REG (Conf),W 70-56,,28,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,2,0.0,1,5,6,0,2,1,4,3,10,5.3,H,1,1,dane-pineau-1,Dane Pineau,2017
+29,122,30,2017-03-04,St. Mary's (CA),N,Portland,CTOURN,W 81-58,,27,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,3,3,6,1,1,1,1,3,11,11.6,N,1,0,dane-pineau-1,Dane Pineau,2017
+30,123,31,2017-03-06,St. Mary's (CA),N,Brigham Young,CTOURN,W 81-50,,24,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,1,5,6,1,1,3,0,4,6,7.4,N,1,0,dane-pineau-1,Dane Pineau,2017
+31,124,32,2017-03-07,St. Mary's (CA),N,Gonzaga,CTOURN,L 56-74,,22,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,3,6,9,0,0,1,1,2,2,1.7,N,0,0,dane-pineau-1,Dane Pineau,2017
+32,125,33,2017-03-16,St. Mary's (CA),N,VCU,ROUND-64,W 85-77,,25,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,4,0.75,1,3,4,0,0,2,1,5,7,4.6,N,1,0,dane-pineau-1,Dane Pineau,2017
+33,126,34,2017-03-18,St. Mary's (CA),N,Arizona,ROUND-32,L 60-69,,26,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,2,4,0,1,1,1,5,5,4.0,N,0,0,dane-pineau-1,Dane Pineau,2017

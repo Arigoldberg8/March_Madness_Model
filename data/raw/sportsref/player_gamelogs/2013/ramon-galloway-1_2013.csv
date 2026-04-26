@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2012-11-10,La Salle,,Delaware,REG (Non-Conf),W 73-66,*,19,1,6,0.167,1,4,0.25,0,2,0.0,0.25,4,4,1.0,0,1,1,4,2,0,1,5,7,5.3,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+2,94,2,2012-11-18,La Salle,,Central Connecticut State,REG (Non-Conf),L 74-81,*,34,6,17,0.353,3,10,0.3,3,7,0.429,0.441,0,1,0.0,2,3,5,3,1,3,4,3,15,7.4,H,0,1,ramon-galloway-1,Ramon Galloway,2013
+3,95,3,2012-11-20,La Salle,@,Hartford,REG (Non-Conf),W 64-51,*,32,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,2,0.0,0,7,7,1,2,0,6,3,13,6.2,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+4,96,4,2012-11-25,La Salle,,Villanova,REG (Non-Conf),W 77-74 (OT),*,41,9,22,0.409,4,10,0.4,5,12,0.417,0.5,4,6,0.667,1,3,4,4,5,1,2,4,26,19.9,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+5,97,5,2012-11-29,La Salle,@,Rider,REG (Non-Conf),W 63-52,*,38,7,14,0.5,3,9,0.333,4,5,0.8,0.607,0,1,0.0,0,3,3,2,4,0,1,0,17,14.9,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+6,98,6,2012-12-05,La Salle,,Penn State,REG (Non-Conf),W 82-57,*,23,5,14,0.357,3,8,0.375,2,6,0.333,0.464,1,3,0.333,2,0,2,4,2,0,0,3,14,10.4,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+7,99,7,2012-12-08,La Salle,@,Northeastern,REG (Non-Conf),W 66-64,*,36,9,18,0.5,4,9,0.444,5,9,0.556,0.611,2,2,1.0,2,3,5,2,2,0,4,4,24,15.1,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+8,100,8,2012-12-15,La Salle,@,Bucknell,REG (Non-Conf),L 66-74,*,38,7,19,0.368,3,6,0.5,4,13,0.308,0.447,4,4,1.0,1,6,7,0,1,1,1,0,21,13.7,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+9,101,9,2012-12-20,La Salle,,Iona,REG (Non-Conf),W 88-74,*,36,8,10,0.8,3,4,0.75,5,6,0.833,0.95,2,3,0.667,0,6,6,10,2,0,3,1,21,24.2,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+10,102,10,2012-12-22,La Salle,,Sacred Heart,REG (Non-Conf),W 100-71,,30,6,11,0.545,3,5,0.6,3,6,0.5,0.682,7,7,1.0,1,4,5,7,4,0,2,0,22,25.5,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+11,103,11,2012-12-29,La Salle,@,Siena,REG (Non-Conf),W 80-52,*,28,8,15,0.533,6,10,0.6,2,5,0.4,0.733,0,0,,2,3,5,4,2,0,1,2,22,20.0,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+12,104,12,2013-01-02,La Salle,@,Miami (FL),REG (Non-Conf),L 59-76,*,38,4,11,0.364,4,5,0.8,0,6,0.0,0.545,0,0,,1,7,8,4,2,0,6,4,12,5.9,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+13,105,13,2013-01-05,La Salle,,Pennsylvania,REG (Non-Conf),W 74-57,*,30,3,11,0.273,2,6,0.333,1,5,0.2,0.364,9,13,0.692,0,7,7,3,4,0,4,2,17,12.3,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+14,106,14,2013-01-09,La Salle,@,Charlotte,REG (Conf),L 65-74,*,36,7,29,0.241,3,14,0.214,4,15,0.267,0.293,6,7,0.857,3,6,9,0,1,0,1,4,23,7.4,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+15,107,15,2013-01-12,La Salle,,Richmond,REG (Conf),W 71-59,*,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,0,4,4,2,-5.0,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+16,108,16,2013-01-16,La Salle,,Dayton,REG (Conf),W 72-70,*,36,6,10,0.6,2,5,0.4,4,5,0.8,0.7,4,4,1.0,0,1,1,5,4,1,5,1,18,16.5,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+17,109,17,2013-01-19,La Salle,@,Xavier,REG (Conf),L 63-70,*,34,5,16,0.313,3,7,0.429,2,9,0.222,0.406,2,3,0.667,1,5,6,2,4,0,5,0,15,8.0,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+18,110,18,2013-01-23,La Salle,,Butler,REG (Conf),W 54-53,,34,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,0,,0,3,3,2,2,0,4,3,6,-0.7,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+19,111,19,2013-01-26,La Salle,@,VCU,REG (Conf),W 69-61,*,38,9,18,0.5,4,8,0.5,5,10,0.5,0.611,9,10,0.9,0,2,2,1,2,1,2,2,31,22.8,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+20,112,20,2013-01-30,La Salle,,Massachusetts,REG (Conf),L 60-61,*,36,7,18,0.389,2,5,0.4,5,13,0.385,0.444,0,0,,2,4,6,6,3,0,1,1,16,14.6,H,0,1,ramon-galloway-1,Ramon Galloway,2013
+21,113,21,2013-02-02,La Salle,@,George Washington,REG (Conf),W 80-71,*,26,2,14,0.143,1,8,0.125,1,6,0.167,0.179,10,10,1.0,2,2,4,4,0,0,2,4,15,7.2,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+22,114,22,2013-02-09,La Salle,,Fordham,REG (Conf),W 89-53,*,24,6,9,0.667,5,7,0.714,1,2,0.5,0.944,2,2,1.0,0,3,3,6,1,0,1,1,19,19.8,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+23,115,23,2013-02-13,La Salle,@,St. Bonaventure,REG (Conf),W 69-66 (OT),*,40,6,16,0.375,4,9,0.444,2,7,0.286,0.5,7,8,0.875,4,2,6,5,2,1,6,3,23,16.2,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+24,116,24,2013-02-16,La Salle,,Saint Joseph's,REG (Conf),W 76-64,*,38,5,8,0.625,2,3,0.667,3,5,0.6,0.75,4,4,1.0,0,3,3,12,2,0,4,2,16,18.9,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+25,117,25,2013-02-21,La Salle,@,Temple,REG (Conf),L 74-82,*,36,4,15,0.267,2,6,0.333,2,9,0.222,0.333,8,11,0.727,1,9,10,4,1,0,2,2,18,12.3,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+26,118,26,2013-02-24,La Salle,@,Rhode Island,REG (Conf),W 72-65,*,23,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,0,7,7,1,0,0,4,5,13,4.8,A,1,1,ramon-galloway-1,Ramon Galloway,2013
+27,119,27,2013-03-02,La Salle,,Duquesne,REG (Conf),W 97-64,*,37,8,13,0.615,3,7,0.429,5,6,0.833,0.731,4,4,1.0,0,3,3,6,1,1,5,3,23,17.7,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+28,120,28,2013-03-06,La Salle,,George Washington,REG (Conf),W 84-70,*,36,11,17,0.647,4,7,0.571,7,10,0.7,0.765,3,3,1.0,0,3,3,3,3,2,3,1,29,25.5,H,1,1,ramon-galloway-1,Ramon Galloway,2013
+29,121,29,2013-03-09,La Salle,@,Saint Louis,REG (Conf),L 54-78,*,33,3,12,0.25,0,4,0.0,3,8,0.375,0.25,2,2,1.0,0,3,3,1,1,0,4,5,8,-2.6,A,0,1,ramon-galloway-1,Ramon Galloway,2013
+30,122,30,2013-03-15,La Salle,N,Butler,CTOURN,L 58-69,*,37,1,10,0.1,0,7,0.0,1,3,0.333,0.1,2,3,0.667,0,2,2,6,0,3,4,1,4,-0.5,N,0,0,ramon-galloway-1,Ramon Galloway,2013
+31,123,31,2013-03-20,La Salle,N,Boise State,FIRST-FOUR,W 80-71,*,35,8,13,0.615,3,6,0.5,5,7,0.714,0.731,2,2,1.0,0,4,4,4,1,1,3,2,21,17.0,N,1,0,ramon-galloway-1,Ramon Galloway,2013
+32,124,32,2013-03-22,La Salle,N,Kansas State,ROUND-64,W 63-61,*,40,6,15,0.4,3,7,0.429,3,8,0.375,0.5,4,4,1.0,0,4,4,4,1,1,5,1,19,11.2,N,1,0,ramon-galloway-1,Ramon Galloway,2013
+33,125,33,2013-03-24,La Salle,N,Ole Miss,ROUND-32,W 76-74,*,39,8,13,0.615,6,10,0.6,2,3,0.667,0.846,2,2,1.0,0,4,4,3,1,1,3,3,24,18.9,N,1,0,ramon-galloway-1,Ramon Galloway,2013
+34,126,34,2013-03-28,La Salle,N,Wichita State,ROUND-16,L 58-72,*,38,4,15,0.267,2,6,0.333,2,9,0.222,0.333,1,2,0.5,0,8,8,3,2,0,4,2,11,3.4,N,0,0,ramon-galloway-1,Ramon Galloway,2013

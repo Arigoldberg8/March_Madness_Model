@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,128,1,2021-11-09,Kansas,N,Michigan State,REG (Non-Conf),W 87-74,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,0,0,1,0,4,4,3.8,N,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+2,129,2,2021-11-12,Kansas,,Tarleton State,REG (Non-Conf),W 88-62,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,1,0,0,2,2,2,0.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+3,130,3,2021-11-18,Kansas,,Stony Brook,REG (Non-Conf),W 88-59,,11,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,0,0,2,0,1,6,5.0,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+4,131,4,2021-11-25,Kansas,N,North Texas,REG (Non-Conf),W 71-59,,14,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,0,3,3,0,0,0,1,3,8,4.4,N,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+5,132,5,2021-11-26,Kansas,N,Dayton,REG (Non-Conf),L 73-74,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,0,1,0,1,3,2,1.1,N,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+6,133,6,2021-11-28,Kansas,N,Iona,REG (Non-Conf),W 96-83,,15,4,8,0.5,0,0,,4,8,0.5,0.5,2,4,0.5,3,3,6,1,0,0,0,2,10,8.1,N,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+7,134,7,2021-12-03,Kansas,@,St. John's (NY),REG (Non-Conf),W 95-75,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,1,4,0,-2.3,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+8,135,8,2021-12-07,Kansas,,UTEP,REG (Non-Conf),W 78-52,,13,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,0,4,4,0,0,0,1,2,8,6.5,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+9,136,9,2021-12-11,Kansas,,Missouri,REG (Non-Conf),W 102-65,,12,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,2,0,2,1,0,2,2,5,9,5.8,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+10,137,10,2021-12-18,Kansas,,Stephen F. Austin,REG (Non-Conf),W 80-72,,26,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,4,2,6,1,1,2,3,3,6,6.3,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+11,138,11,2021-12-29,Kansas,,Nevada,REG (Non-Conf),W 88-61,,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,3,2,2,-2.5,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+12,139,12,2022-01-01,Kansas,,George Mason,REG (Non-Conf),W 76-67,,22,7,7,1.0,0,0,,7,7,1.0,1.0,0,2,0.0,3,1,4,1,0,0,1,0,14,13.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+13,140,13,2022-01-04,Kansas,@,Oklahoma State,REG (Conf),W 74-63,*,15,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,4,4,0,0,4,1,2,6,5.9,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+14,141,14,2022-01-08,Kansas,@,Texas Tech,REG (Conf),L 67-75,*,10,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,3,0,-1.5,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+15,142,15,2022-01-11,Kansas,,Iowa State,REG (Conf),W 62-61,,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,2,4,1,1,3,1,2,4,6.0,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+16,143,16,2022-01-15,Kansas,,West Virginia,REG (Conf),W 85-59,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,1,2,0,0,0,0,1,2,1.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+17,144,17,2022-01-18,Kansas,@,Oklahoma,REG (Conf),W 67-64,,14,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,4,6,0,0,0,0,0,9,9.3,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+18,145,18,2022-01-22,Kansas,@,Kansas State,REG (Conf),W 78-75,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,1,3,1,0,0,0,3,2,2.9,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+19,146,19,2022-01-24,Kansas,,Texas Tech,REG (Conf),W 94-91 (2OT),,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,1,2,4,4,1.5,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+20,147,20,2022-01-29,Kansas,,Kentucky,REG (Non-Conf),L 62-80,,13,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,4,3,7,0,0,0,0,1,6,6.6,H,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+21,148,21,2022-02-01,Kansas,@,Iowa State,REG (Conf),W 70-61,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,3,2,2,-2.5,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+22,149,22,2022-02-05,Kansas,,Baylor,REG (Conf),W 83-59,,15,4,4,1.0,0,0,,4,4,1.0,1.0,0,2,0.0,1,4,5,0,0,2,0,3,8,8.1,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+23,150,23,2022-02-07,Kansas,@,Texas,REG (Conf),L 76-79,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,2,2,0,0,0,0,2,0,-1.7,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+24,151,24,2022-02-12,Kansas,,Oklahoma,REG (Conf),W 71-69,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,2,0,-0.8,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+25,152,25,2022-02-14,Kansas,,Oklahoma State,REG (Conf),W 76-62,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+26,153,26,2022-02-19,Kansas,@,West Virginia,REG (Conf),W 71-58,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,1,0,0,2,3,2,0.5,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+27,154,27,2022-02-22,Kansas,,Kansas State,REG (Conf),W 102-83,,16,6,7,0.857,0,0,,6,7,0.857,0.857,1,2,0.5,0,3,3,0,1,0,2,2,13,9.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+28,155,28,2022-02-26,Kansas,@,Baylor,REG (Conf),L 70-80,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,4,0,-1.6,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+29,156,29,2022-03-01,Kansas,@,TCU,REG (Conf),L 64-74,,13,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,0,1,1,1,0,0,0,2,5,4.2,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+30,157,30,2022-03-03,Kansas,,TCU,REG (Conf),W 72-68,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,2,0,1,3,4,4.1,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+31,158,31,2022-03-05,Kansas,,Texas,REG (Conf),W 70-63 (OT),*,9,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,0,1,0,1,1,1,2,1,-0.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2022
+32,159,32,2022-03-10,Kansas,N,West Virginia,CTOURN,W 87-63,,23,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,1,4,5,1,0,5,0,1,10,13.5,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+33,160,33,2022-03-11,Kansas,N,TCU,CTOURN,W 75-62,,25,6,8,0.75,1,2,0.5,5,6,0.833,0.813,2,2,1.0,1,4,5,1,2,2,1,3,15,15.6,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+34,161,34,2022-03-12,Kansas,N,Texas Tech,CTOURN,W 74-65,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,0,0,0,0,0,0,1,2,0.5,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+35,162,35,2022-03-17,Kansas,N,Texas Southern,ROUND-64,W 83-56,,7,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,1,3,4,1,0,0,0,1,3,4.6,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+36,163,36,2022-03-19,Kansas,N,Creighton,ROUND-32,W 79-72,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,1,0,0.6,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+37,164,37,2022-03-25,Kansas,N,Providence,ROUND-16,W 66-61,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,4,0,2,2,3.3,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+38,165,38,2022-03-27,Kansas,N,Miami (FL),ROUND-8,W 76-50,,17,3,4,0.75,0,0,,3,4,0.75,0.75,3,8,0.375,2,1,3,1,1,1,0,2,9,8.7,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+39,166,39,2022-04-02,Kansas,N,Villanova,NATIONAL-SEMI,W 81-65,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,0,1,1,1,2,1.6,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022
+40,167,40,2022-04-04,Kansas,N,North Carolina,NATIONAL-FINAL,W 72-69,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,0,4,2,1.5,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2022

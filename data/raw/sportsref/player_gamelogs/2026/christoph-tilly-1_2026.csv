@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,1,2025-11-03,Ohio State,,IU Indy,REG (Non-Conf),W 118-102,*,29,8,10,0.8,1,2,0.5,7,8,0.875,0.85,9,13,0.692,3,6,9,3,1,1,1,4,26,25.7,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+2,88,2,2025-11-07,Ohio State,,Purdue Fort Wayne,REG (Non-Conf),W 94-68,*,23,7,11,0.636,1,5,0.2,6,6,1.0,0.682,0,0,,1,5,6,4,1,0,4,4,15,10.5,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+3,89,3,2025-11-11,Ohio State,,Appalachian State,REG (Non-Conf),W 75-53,*,30,2,9,0.222,0,6,0.0,2,3,0.667,0.222,5,5,1.0,2,3,5,4,0,0,0,1,9,8.2,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+4,90,4,2025-11-16,Ohio State,,Notre Dame,REG (Non-Conf),W 64-63,*,28,4,8,0.5,0,3,0.0,4,5,0.8,0.5,10,13,0.769,0,4,4,1,0,2,1,4,18,13.5,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+5,91,5,2025-11-20,Ohio State,,Western Michigan,REG (Non-Conf),W 91-58,*,24,5,11,0.455,1,4,0.25,4,7,0.571,0.5,6,6,1.0,1,1,2,7,1,1,0,2,17,18.1,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+6,92,6,2025-11-25,Ohio State,,Mount St. Mary's,REG (Non-Conf),W 113-60,*,14,3,6,0.5,1,3,0.333,2,3,0.667,0.583,5,5,1.0,0,5,5,3,0,0,3,1,12,9.2,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+7,93,7,2025-11-28,Ohio State,@,Pittsburgh,REG (Non-Conf),L 66-67,*,32,1,8,0.125,0,2,0.0,1,6,0.167,0.125,8,8,1.0,2,4,6,0,1,0,3,3,10,4.2,A,0,1,christoph-tilly-1,Christoph Tilly,2026
+8,94,8,2025-12-06,Ohio State,@,Northwestern,REG (Conf),W 86-82,*,18,1,5,0.2,0,0,,1,5,0.2,0.2,2,4,0.5,1,2,3,1,0,0,2,3,4,-1.1,A,1,1,christoph-tilly-1,Christoph Tilly,2026
+9,95,9,2025-12-09,Ohio State,,Illinois,REG (Conf),L 80-88,*,31,4,10,0.4,0,4,0.0,4,6,0.667,0.4,5,7,0.714,2,6,8,1,1,1,1,5,13,9.4,H,0,1,christoph-tilly-1,Christoph Tilly,2026
+10,96,10,2025-12-13,Ohio State,N,West Virginia,REG (Non-Conf),W 89-88 (2OT),*,42,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,3,0.667,2,9,11,4,0,1,3,2,14,10.7,N,1,1,christoph-tilly-1,Christoph Tilly,2026
+11,97,11,2025-12-20,Ohio State,N,North Carolina,REG (Non-Conf),L 70-71,*,28,4,9,0.444,0,3,0.0,4,6,0.667,0.444,4,4,1.0,5,5,10,3,0,0,1,3,12,12.2,N,0,1,christoph-tilly-1,Christoph Tilly,2026
+12,98,12,2025-12-23,Ohio State,,Grambling State,REG (Non-Conf),W 89-63,*,23,2,3,0.667,0,0,,2,3,0.667,0.667,6,6,1.0,1,1,2,3,0,2,3,4,10,8.6,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+13,99,13,2026-01-02,Ohio State,@,Rutgers,REG (Conf),W 80-73,*,20,3,4,0.75,0,0,,3,4,0.75,0.75,3,5,0.6,2,1,3,1,0,1,2,4,9,6.1,A,1,1,christoph-tilly-1,Christoph Tilly,2026
+14,100,14,2026-01-05,Ohio State,,Nebraska,REG (Conf),L 69-72,*,33,3,9,0.333,1,3,0.333,2,6,0.333,0.389,1,4,0.25,2,1,3,2,1,0,2,4,8,2.2,H,0,1,christoph-tilly-1,Christoph Tilly,2026
+15,101,15,2026-01-08,Ohio State,@,Oregon,REG (Conf),W 72-62,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,6,9,0.667,1,4,5,2,1,1,1,3,14,13.0,A,1,1,christoph-tilly-1,Christoph Tilly,2026
+16,102,16,2026-01-11,Ohio State,@,Washington,REG (Conf),L 74-81,*,15,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,2,2,4,1,0,0,1,2,8,5.2,A,0,1,christoph-tilly-1,Christoph Tilly,2026
+17,103,17,2026-01-17,Ohio State,,UCLA,REG (Conf),W 86-74,*,32,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,1,3,4,5,0,0,1,3,6,6.8,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+18,104,18,2026-01-20,Ohio State,,Minnesota,REG (Conf),W 82-74 (OT),*,28,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,2,0.5,0,5,5,2,1,0,1,5,11,6.5,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+19,105,19,2026-01-23,Ohio State,@,Michigan,REG (Conf),L 62-74,*,30,6,12,0.5,2,4,0.5,4,8,0.5,0.583,3,5,0.6,3,1,4,2,2,0,3,3,17,11.8,A,0,1,christoph-tilly-1,Christoph Tilly,2026
+20,106,21,2026-01-31,Ohio State,@,Wisconsin,REG (Conf),L 82-92,*,19,0,8,0.0,0,0,,0,8,0.0,0.0,0,0,,2,1,3,1,1,0,0,1,0,-2.6,A,0,1,christoph-tilly-1,Christoph Tilly,2026
+21,107,22,2026-02-05,Ohio State,@,Maryland,REG (Conf),W 82-62,*,27,7,10,0.7,1,1,1.0,6,9,0.667,0.75,4,7,0.571,2,1,3,1,1,1,2,4,19,14.1,A,1,1,christoph-tilly-1,Christoph Tilly,2026
+22,108,23,2026-02-08,Ohio State,,Michigan,REG (Conf),L 61-82,*,31,3,8,0.375,2,3,0.667,1,5,0.2,0.5,2,2,1.0,1,2,3,3,1,0,2,4,10,6.4,H,0,1,christoph-tilly-1,Christoph Tilly,2026
+23,109,24,2026-02-11,Ohio State,,Southern California,REG (Conf),W 89-82,*,22,2,3,0.667,1,1,1.0,1,2,0.5,0.833,4,4,1.0,0,2,2,1,0,2,2,3,9,7.2,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+24,110,25,2026-02-14,Ohio State,N,Virginia,REG (Non-Conf),L 66-70,*,26,4,12,0.333,1,3,0.333,3,9,0.333,0.375,2,3,0.667,1,2,3,2,1,2,0,2,11,8.1,N,0,1,christoph-tilly-1,Christoph Tilly,2026
+25,111,26,2026-02-17,Ohio State,,Wisconsin,REG (Conf),W 86-69,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,3,0,0,1,5,2,1.4,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+26,112,27,2026-02-22,Ohio State,@,Michigan State,REG (Conf),L 60-66,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,0,3,0.0,0,7,7,1,2,1,0,2,10,11.3,A,0,1,christoph-tilly-1,Christoph Tilly,2026
+27,113,29,2026-03-01,Ohio State,,Purdue,REG (Conf),W 82-74,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,5,8,0.625,1,4,5,0,0,0,1,5,7,3.0,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+28,114,30,2026-03-04,Ohio State,@,Penn State,REG (Conf),W 94-62,*,20,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,0,6,6,3,1,0,1,2,10,10.1,A,1,1,christoph-tilly-1,Christoph Tilly,2026
+29,115,31,2026-03-07,Ohio State,,Indiana,REG (Conf),W 91-78,*,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,1,1.0,1,0,1,1,0,0,1,4,7,4.2,H,1,1,christoph-tilly-1,Christoph Tilly,2026
+30,116,32,2026-03-12,Ohio State,N,Iowa,CTOURN,W 72-69,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,6,9,0.667,0,4,4,2,1,0,3,4,16,11.6,N,1,0,christoph-tilly-1,Christoph Tilly,2026
+31,117,33,2026-03-13,Ohio State,N,Michigan,CTOURN,L 67-71,*,30,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,1,4,5,1,1,0,1,3,8,5.2,N,0,0,christoph-tilly-1,Christoph Tilly,2026

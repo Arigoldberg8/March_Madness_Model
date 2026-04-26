@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Memphis,,Tennessee Tech,REG (Non-Conf),W 89-65,,12,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,0,1,0,1,1,0,1,7,7.4,H,1,1,josh-minott-1,Josh Minott,2022
+2,2,2,2021-11-13,Memphis,,North Carolina Central,REG (Non-Conf),W 90-51,,18,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,4,5,9,1,1,2,4,5,9,8.4,H,1,1,josh-minott-1,Josh Minott,2022
+3,3,3,2021-11-16,Memphis,,Saint Louis,REG (Non-Conf),W 90-74,,14,5,5,1.0,0,0,,5,5,1.0,1.0,2,3,0.667,0,2,2,2,0,1,0,5,12,10.8,H,1,1,josh-minott-1,Josh Minott,2022
+4,4,4,2021-11-19,Memphis,,Western Kentucky,REG (Non-Conf),W 74-62,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,H,1,1,josh-minott-1,Josh Minott,2022
+5,5,5,2021-11-24,Memphis,N,Virginia Tech,REG (Non-Conf),W 69-61,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,1,josh-minott-1,Josh Minott,2022
+6,6,6,2021-11-26,Memphis,N,Iowa State,REG (Non-Conf),L 59-78,,12,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,0,2,2,1,2,1,2.1,N,0,1,josh-minott-1,Josh Minott,2022
+7,7,7,2021-12-01,Memphis,@,Georgia,REG (Non-Conf),L 79-82,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,josh-minott-1,Josh Minott,2022
+8,8,8,2021-12-04,Memphis,@,Ole Miss,REG (Non-Conf),L 63-67,,17,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,3,2,5,1,0,0,0,1,5,5.6,A,0,1,josh-minott-1,Josh Minott,2022
+9,9,9,2021-12-10,Memphis,,Murray State,REG (Non-Conf),L 72-74,,6,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,1,1,3,1.3,H,0,1,josh-minott-1,Josh Minott,2022
+10,10,10,2021-12-14,Memphis,,Alabama,REG (Non-Conf),W 92-78,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,1,2,2.0,H,1,1,josh-minott-1,Josh Minott,2022
+11,11,11,2021-12-29,Memphis,@,Tulane,REG (Conf),L 84-85,,16,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,3,2,5,1,3,1,1,2,8,9.3,A,0,1,josh-minott-1,Josh Minott,2022
+12,12,12,2022-01-01,Memphis,@,Wichita State,REG (Conf),W 82-64,,20,6,10,0.6,0,1,0.0,6,9,0.667,0.6,3,4,0.75,3,3,6,1,2,0,1,1,15,14.3,A,1,1,josh-minott-1,Josh Minott,2022
+13,13,13,2022-01-04,Memphis,,Tulsa,REG (Conf),W 67-64,*,33,2,7,0.286,0,1,0.0,2,6,0.333,0.286,3,5,0.6,2,9,11,5,2,0,2,5,7,7.7,H,1,1,josh-minott-1,Josh Minott,2022
+14,14,14,2022-01-09,Memphis,,Cincinnati,REG (Conf),W 87-80,*,25,7,12,0.583,0,1,0.0,7,11,0.636,0.583,0,0,,7,3,10,1,1,1,2,2,14,13.8,H,1,1,josh-minott-1,Josh Minott,2022
+15,15,15,2022-01-12,Memphis,@,UCF,REG (Conf),L 64-74,*,29,2,10,0.2,0,0,,2,10,0.2,0.2,2,3,0.667,1,4,5,3,0,0,0,4,6,1.8,A,0,1,josh-minott-1,Josh Minott,2022
+16,16,16,2022-01-15,Memphis,@,East Carolina,REG (Conf),L 71-72,*,18,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,2,1.0,0,4,4,4,2,3,1,4,12,13.2,A,0,1,josh-minott-1,Josh Minott,2022
+17,17,17,2022-01-20,Memphis,,SMU,REG (Conf),L 62-70,*,25,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,1,2,3,1,1,0,1,3,4,1.3,H,0,1,josh-minott-1,Josh Minott,2022
+18,18,18,2022-01-23,Memphis,@,Tulsa,REG (Conf),W 83-81,,30,4,8,0.5,0,1,0.0,4,7,0.571,0.5,10,10,1.0,4,5,9,2,2,0,1,4,18,19.1,A,1,1,josh-minott-1,Josh Minott,2022
+19,19,19,2022-01-27,Memphis,,East Carolina,REG (Conf),W 71-54,,31,5,10,0.5,0,0,,5,10,0.5,0.5,3,4,0.75,5,7,12,2,1,2,3,0,13,14.0,H,1,1,josh-minott-1,Josh Minott,2022
+20,20,20,2022-02-05,Memphis,,UCF,REG (Conf),W 88-60,,14,7,9,0.778,0,0,,7,9,0.778,0.778,2,2,1.0,2,1,3,1,2,2,0,1,16,17.9,H,1,1,josh-minott-1,Josh Minott,2022
+21,21,21,2022-02-09,Memphis,,Tulane,REG (Conf),W 80-69,,14,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,4,0.75,4,0,4,2,0,2,1,0,7,7.1,H,1,1,josh-minott-1,Josh Minott,2022
+22,22,22,2022-02-12,Memphis,@,Houston,REG (Conf),W 69-59,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,1,2,1,-2.3,A,1,1,josh-minott-1,Josh Minott,2022
+23,23,23,2022-02-15,Memphis,@,Cincinnati,REG (Conf),W 81-74,,15,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,2,4,6,0,2,2,2,2,10,11.0,A,1,1,josh-minott-1,Josh Minott,2022
+24,24,24,2022-02-20,Memphis,@,SMU,REG (Conf),L 57-73,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,1,1,1,2,1,2,2,2,0.1,A,0,1,josh-minott-1,Josh Minott,2022
+25,25,25,2022-02-24,Memphis,,Temple,REG (Conf),W 78-64,,8,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,0,0,0,1,1,4,2.9,H,1,1,josh-minott-1,Josh Minott,2022
+26,26,26,2022-02-27,Memphis,,Wichita State,REG (Conf),W 81-57,,19,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,2,3,5,1,0,0,2,4,9,5.1,H,1,1,josh-minott-1,Josh Minott,2022
+27,27,27,2022-03-03,Memphis,@,South Florida,REG (Conf),W 73-64,,15,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,0,1,1,0,0,2,0.9,A,1,1,josh-minott-1,Josh Minott,2022
+28,28,28,2022-03-06,Memphis,,Houston,REG (Conf),W 75-61,,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,0,1,0,1,1,6,5.0,H,1,1,josh-minott-1,Josh Minott,2022
+29,29,29,2022-03-11,Memphis,N,UCF,CTOURN,W 85-69,,17,3,5,0.6,0,0,,3,5,0.6,0.6,6,7,0.857,3,4,7,2,1,1,0,0,12,15.7,N,1,0,josh-minott-1,Josh Minott,2022
+30,30,30,2022-03-12,Memphis,N,SMU,CTOURN,W 70-63,,9,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,0,0,0,0,0,1,1,1,-2.2,N,1,0,josh-minott-1,Josh Minott,2022
+31,31,31,2022-03-13,Memphis,N,Houston,CTOURN,L 53-71,,5,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,0,1,0,0,0,0,1,5,3.6,N,0,0,josh-minott-1,Josh Minott,2022
+32,32,32,2022-03-17,Memphis,N,Boise State,ROUND-64,W 64-53,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,1,0,2,0.3,N,1,0,josh-minott-1,Josh Minott,2022
+33,33,33,2022-03-19,Memphis,N,Gonzaga,ROUND-32,L 78-82,,8,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,2,4,0,0,0,0,2,4,4.6,N,0,0,josh-minott-1,Josh Minott,2022

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2014-11-14,Stephen F. Austin,,Miss. Col.,REG (Non-Conf),W 75-49,*,24,3,9,0.333,3,5,0.6,0,4,0.0,0.5,2,4,0.5,2,1,3,1,2,0,2,1,11,7.1,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+2,36,2,2014-11-18,Stephen F. Austin,,Northern Iowa,REG (Non-Conf),L 77-79 (OT),*,21,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,1,1,5,0,-3.0,H,0,1,dallas-cameron-1,Dallas Cameron,2015
+3,37,3,2014-11-21,Stephen F. Austin,@,Xavier,REG (Non-Conf),L 63-81,*,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,1,0,1,1,2,0,-0.9,A,0,1,dallas-cameron-1,Dallas Cameron,2015
+4,38,4,2014-11-24,Stephen F. Austin,@,Baylor,REG (Non-Conf),L 51-67,*,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,3,1,0,-3.5,A,0,1,dallas-cameron-1,Dallas Cameron,2015
+5,39,5,2014-11-27,Stephen F. Austin,N,Prairie View A&M,REG (Non-Conf),W 73-61,,10,0,0,,0,0,,0,0,,,2,2,1.0,0,3,3,0,0,0,0,2,2,2.1,N,1,1,dallas-cameron-1,Dallas Cameron,2015
+6,40,6,2014-11-28,Stephen F. Austin,N,Austin Peay,REG (Non-Conf),W 83-62,,13,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,2,1,1,2,1,2,2.0,N,1,1,dallas-cameron-1,Dallas Cameron,2015
+7,41,7,2014-12-02,Stephen F. Austin,@,Memphis,REG (Non-Conf),W 64-52,,19,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,2,2,0,1,1,5,5.9,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+8,42,8,2014-12-05,Stephen F. Austin,,Long Beach State,REG (Non-Conf),W 74-45,,20,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,2,0.5,0,1,1,1,1,0,1,1,6,2.1,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+9,43,9,2014-12-07,Stephen F. Austin,,Ouachita Baptist,REG (Non-Conf),W 84-60,,22,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,1,1,4,0,0,0,1,4,5.3,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+10,44,10,2014-12-14,Stephen F. Austin,,North Texas,REG (Non-Conf),W 59-48,,13,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,1,0,1,2,1,0,3,1,3,1.6,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+11,45,11,2014-12-17,Stephen F. Austin,,Texas State,REG (Non-Conf),W 66-60,,14,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+12,46,12,2014-12-20,Stephen F. Austin,,Arkansas Tech,REG (Non-Conf),W 94-57,,17,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,2,2,2,0,0,1,4,8,5.8,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+13,47,13,2014-12-29,Stephen F. Austin,@,Cal State Northridge,REG (Non-Conf),W 61-57,,22,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,4,0.5,1,1,2,1,0,0,0,1,4,0.7,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+14,48,14,2015-01-03,Stephen F. Austin,@,McNeese State,REG (Conf),W 80-75,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+15,49,15,2015-01-05,Stephen F. Austin,,Southeastern Louisiana,REG (Conf),W 81-66,,12,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,0,1,1,2,1,0,2,5,6,4.4,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+16,50,16,2015-01-13,Stephen F. Austin,@,Central Arkansas,REG (Conf),W 109-58,,10,1,4,0.25,1,1,1.0,0,3,0.0,0.375,1,2,0.5,0,1,1,0,0,0,0,1,4,1.1,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+17,51,17,2015-01-17,Stephen F. Austin,@,Abilene Christian,REG (Conf),W 82-64,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,0,0,1,2,0,1,0,2,0.9,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+18,52,18,2015-01-19,Stephen F. Austin,,New Orleans,REG (Conf),W 79-54,,19,5,5,1.0,1,1,1.0,4,4,1.0,1.1,1,2,0.5,0,2,2,1,1,0,2,2,12,9.6,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+19,53,19,2015-01-24,Stephen F. Austin,@,Sam Houston State,REG (Conf),W 79-68,,19,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,2,0.0,0,0,0,0,0,0,0,2,6,1.4,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+20,54,20,2015-01-26,Stephen F. Austin,@,Lamar,REG (Conf),W 82-65,,22,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,0,2,2,3,1,0,0,0,13,12.7,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+21,55,21,2015-01-31,Stephen F. Austin,,Texas A&M–Corpus Christi,REG (Conf),W 61-51,,22,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,1,0.0,0,0,0,2,0,0,3,0,7,4.1,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+22,56,22,2015-02-07,Stephen F. Austin,,Houston Baptist,REG (Conf),W 95-59,,17,0,1,0.0,0,1,0.0,0,0,,0.0,4,6,0.667,1,2,3,1,0,0,0,0,4,4.5,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+23,57,23,2015-02-09,Stephen F. Austin,@,Northwestern State,REG (Conf),W 93-82,,15,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,0,6,4.7,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+24,58,24,2015-02-14,Stephen F. Austin,@,Texas A&M–Corpus Christi,REG (Conf),L 63-71,,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,1,0,0,0,2,2,-0.2,A,0,1,dallas-cameron-1,Dallas Cameron,2015
+25,59,25,2015-02-16,Stephen F. Austin,@,Incarnate Word,REG (Conf),W 90-76,*,24,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,1,0,1,3,0,-0.9,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+26,60,26,2015-02-21,Stephen F. Austin,,Nicholls State,REG (Conf),W 86-71,*,19,0,0,,0,0,,0,0,,,3,4,0.75,0,1,1,0,0,1,3,1,3,0.2,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+27,61,27,2015-02-23,Stephen F. Austin,,Lamar,REG (Conf),W 103-74,*,24,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,0,0,2,0,0,1,0,11,8.1,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+28,62,28,2015-02-28,Stephen F. Austin,@,Houston Baptist,REG (Conf),W 102-87,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,5,6,0.833,0,1,1,2,0,0,2,3,7,4.1,A,1,1,dallas-cameron-1,Dallas Cameron,2015
+29,63,29,2015-03-02,Stephen F. Austin,,Incarnate Word,REG (Conf),W 83-62,*,16,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,1,2,3,0,0,0,3,3,6,0.7,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+30,64,30,2015-03-05,Stephen F. Austin,,Northwestern State,REG (Conf),W 92-66,*,30,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,8,1,0,3,0,2,5.3,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+31,65,31,2015-03-07,Stephen F. Austin,,Sam Houston State,REG (Conf),W 64-55,*,31,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,0,2,2,3,0,1,1,2,5,4.9,H,1,1,dallas-cameron-1,Dallas Cameron,2015
+32,66,32,2015-03-13,Stephen F. Austin,N,Northwestern State,CTOURN,W 91-79,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,0,1,2,0,0,2,2,4,0.6,N,1,0,dallas-cameron-1,Dallas Cameron,2015
+33,67,33,2015-03-14,Stephen F. Austin,N,Sam Houston State,CTOURN,W 83-70,*,35,3,7,0.429,2,4,0.5,1,3,0.333,0.571,6,7,0.857,1,3,4,1,2,0,2,1,14,11.8,N,1,0,dallas-cameron-1,Dallas Cameron,2015
+34,68,34,2015-03-19,Stephen F. Austin,N,Utah,ROUND-64,L 50-57,*,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,0,0,0,2,0,1,3,6,3.4,N,0,0,dallas-cameron-1,Dallas Cameron,2015

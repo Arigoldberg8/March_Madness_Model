@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Morehead State,@,Alabama,REG (Non-Conf),L 73-105,,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,2,3,5,1,1,2,2,3,6,5.5,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+2,2,2,2023-11-08,Morehead State,,Shawnee St,REG (Non-Conf),W 96-40,,27,8,13,0.615,2,5,0.4,6,8,0.75,0.692,0,1,0.0,4,4,8,1,1,2,0,2,18,18.0,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+3,3,3,2023-11-10,Morehead State,@,Purdue,REG (Non-Conf),L 57-87,,26,3,7,0.429,0,3,0.0,3,4,0.75,0.429,1,2,0.5,2,5,7,0,1,0,2,2,7,4.0,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+4,4,4,2023-11-14,Morehead State,,Mercer,REG (Non-Conf),W 74-66,,22,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,4,4,1,1,0,2,4,6,4.7,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+5,5,5,2023-11-17,Morehead State,@,Penn State,REG (Non-Conf),L 51-74,,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,8,10,0.8,0,6,6,1,0,0,4,3,10,3.4,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+6,6,6,2023-11-20,Morehead State,@,Bellarmine,REG (Non-Conf),W 64-51,,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,2,4,6,2,0,4,0,0,0,4.7,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+7,7,7,2023-11-22,Morehead State,,Midway,REG (Non-Conf),W 94-53,,26,5,8,0.625,3,5,0.6,2,3,0.667,0.813,1,2,0.5,7,4,11,4,1,4,1,1,14,21.3,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+8,8,8,2023-11-29,Morehead State,@,Austin Peay,REG (Non-Conf),W 61-50,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,4,0.5,1,3,4,1,0,0,6,3,4,-2.7,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+9,9,9,2023-12-03,Morehead State,,Chattanooga,REG (Non-Conf),W 87-80,,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,2,0,2,3,0,0,2,3,1,-0.5,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+10,10,10,2023-12-10,Morehead State,@,North Alabama,REG (Non-Conf),W 86-77,,19,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,1,2,3,1,0,1,0,2,9,9.3,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+11,11,11,2023-12-14,Morehead State,,SMWC,REG (Non-Conf),W 102-33,,21,5,12,0.417,2,5,0.4,3,7,0.429,0.5,1,1,1.0,1,8,9,2,1,2,0,3,13,12.3,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+12,12,12,2023-12-19,Morehead State,@,Indiana,REG (Non-Conf),L 68-69,,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,5,7,0,3,0,0,1,5,7.8,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+13,13,13,2023-12-21,Morehead State,,Alice Lloyd,REG (Non-Conf),W 101-39,,23,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,1,10,11,0,1,1,2,2,10,9.3,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+14,14,14,2023-12-31,Morehead State,@,Southeast Missouri State,REG (Conf),W 83-64,,31,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,4,5,3,2,1,2,2,5,6.9,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+15,15,15,2024-01-04,Morehead State,,Tennessee Tech,REG (Conf),W 82-57,,18,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,2,0.0,1,4,5,1,1,1,1,2,4,0.2,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+16,16,16,2024-01-06,Morehead State,,Tennessee State,REG (Conf),W 78-68,,24,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,3,4,3,1,3,0,1,3,7.3,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+17,17,17,2024-01-11,Morehead State,@,Eastern Illinois,REG (Conf),W 78-52,,25,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,2,2,4,0,0,0,1,3,9,4.1,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+18,18,18,2024-01-13,Morehead State,@,SIU Edwardsville,REG (Conf),L 48-61,,17,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,2,0.0,1,1,2,0,0,0,1,0,2,-0.5,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+19,19,19,2024-01-18,Morehead State,,UT Martin,REG (Conf),W 84-66,,25,5,6,0.833,2,3,0.667,3,3,1.0,1.0,3,4,0.75,1,3,4,1,2,1,1,2,15,15.6,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+20,20,20,2024-01-20,Morehead State,@,Southern Indiana,REG (Conf),W 81-70,,24,3,7,0.429,1,2,0.5,2,5,0.4,0.5,4,7,0.571,3,0,3,0,1,0,2,4,11,5.6,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+21,21,21,2024-01-27,Morehead State,,Western Illinois,REG (Conf),W 64-50,,25,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,2,1.0,1,4,5,0,1,2,1,1,4,3.1,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+22,22,22,2024-02-01,Morehead State,@,Tennessee State,REG (Conf),W 68-49,,26,4,8,0.5,0,3,0.0,4,5,0.8,0.5,0,0,,1,1,2,0,1,0,1,4,8,3.4,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+23,23,23,2024-02-03,Morehead State,@,Tennessee Tech,REG (Conf),W 67-60,,29,4,8,0.5,1,4,0.25,3,4,0.75,0.563,3,3,1.0,1,5,6,2,0,2,2,1,12,10.6,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+24,24,24,2024-02-08,Morehead State,,SIU Edwardsville,REG (Conf),W 79-68,*,32,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,3,0.667,1,3,4,0,1,2,2,1,7,5.5,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+25,25,25,2024-02-10,Morehead State,,Eastern Illinois,REG (Conf),W 69-57,*,35,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,2,6,8,2,0,2,1,2,3,2.7,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+26,26,26,2024-02-15,Morehead State,@,Little Rock,REG (Conf),L 68-69,*,33,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,3,4,4,0,1,0,3,5,5.5,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+27,27,27,2024-02-17,Morehead State,@,UT Martin,REG (Conf),L 82-88,*,38,8,11,0.727,4,6,0.667,4,5,0.8,0.909,1,1,1.0,2,5,7,3,0,1,0,0,21,22.2,A,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+28,28,28,2024-02-20,Morehead State,,Southern Indiana,REG (Conf),L 73-80,,25,2,7,0.286,1,4,0.25,1,3,0.333,0.357,4,4,1.0,0,0,0,0,0,1,1,4,9,3.0,H,0,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+29,29,29,2024-02-22,Morehead State,@,Western Illinois,REG (Conf),W 78-57,,22,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,1,0.0,1,7,8,1,0,0,1,0,5,1.6,A,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+30,30,30,2024-02-29,Morehead State,,Southeast Missouri State,REG (Conf),W 72-50,,30,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,5,5,2,3,2,3,3,8,8.4,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+31,31,31,2024-03-02,Morehead State,,Lindenwood,REG (Conf),W 67-49,,24,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,1,2,1,0,1,7,7.3,H,1,1,eddie-ricks-iii-1,Eddie Ricks III,2024
+32,32,32,2024-03-07,Morehead State,N,SIU Edwardsville,CTOURN,W 78-63,,28,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,1,0.0,1,5,6,1,0,1,2,1,11,8.2,N,1,0,eddie-ricks-iii-1,Eddie Ricks III,2024
+33,33,33,2024-03-08,Morehead State,N,UT Martin,CTOURN,W 84-78,,26,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,1,0.0,2,7,9,4,0,2,0,2,4,6.4,N,1,0,eddie-ricks-iii-1,Eddie Ricks III,2024
+34,34,34,2024-03-09,Morehead State,N,Little Rock,CTOURN,W 69-55,,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,0,5,5,3,0,0,0,2,3,1.6,N,1,0,eddie-ricks-iii-1,Eddie Ricks III,2024
+35,35,35,2024-03-21,Morehead State,N,Illinois,ROUND-64,L 69-85,,17,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,4,4,1,1,0,2,0,3,1.8,N,0,0,eddie-ricks-iii-1,Eddie Ricks III,2024

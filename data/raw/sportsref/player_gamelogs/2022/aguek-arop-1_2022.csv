@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,74,2,2021-11-12,San Diego State,@,Brigham Young,REG (Non-Conf),L 60-66,,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,1,2,0,0,3,4,6.2,A,0,1,aguek-arop-1,Aguek Arop,2022
+2,75,3,2021-11-18,San Diego State,,Arizona State,REG (Non-Conf),W 65-63,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,0,2,0,0,0,2,0,0,-1.3,H,1,1,aguek-arop-1,Aguek Arop,2022
+3,76,5,2021-11-25,San Diego State,N,Georgetown,REG (Non-Conf),W 73-56,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,3,0.0,2,1,3,0,1,0,1,0,4,3.2,N,1,1,aguek-arop-1,Aguek Arop,2022
+4,77,6,2021-11-26,San Diego State,N,Southern California,REG (Non-Conf),L 43-58,,21,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,3,3,6,0,2,0,0,4,9,9.1,N,0,1,aguek-arop-1,Aguek Arop,2022
+5,78,7,2021-11-30,San Diego State,,Long Beach State,REG (Non-Conf),W 72-47,,10,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,0,1,0,0,0,0,1,3,1.6,H,1,1,aguek-arop-1,Aguek Arop,2022
+6,79,8,2021-12-04,San Diego State,@,Michigan,REG (Non-Conf),L 58-72,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,1,0,0,-0.1,A,0,1,aguek-arop-1,Aguek Arop,2022
+7,80,10,2021-12-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 63-53,,12,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,3,2,5,1,2,0,2,1,3,2.5,N,1,1,aguek-arop-1,Aguek Arop,2022
+8,81,11,2021-12-22,San Diego State,,UC San Diego,REG (Non-Conf),W 78-57,,8,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,0,0,0,2,0,1,2,3,2.2,H,1,1,aguek-arop-1,Aguek Arop,2022
+9,82,12,2022-01-01,San Diego State,@,UNLV,REG (Conf),W 62-55,,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,1,3,0.333,2,6,8,0,4,0,1,3,9,9.2,A,1,1,aguek-arop-1,Aguek Arop,2022
+10,83,13,2022-01-08,San Diego State,,Colorado State,REG (Conf),W 79-49,,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,4,0.5,5,3,8,3,1,2,2,2,10,11.3,H,1,1,aguek-arop-1,Aguek Arop,2022
+11,84,14,2022-01-22,San Diego State,,Boise State,REG (Conf),L 37-42,,22,0,1,0.0,0,1,0.0,0,0,,0.0,1,4,0.25,1,1,2,2,3,0,0,4,1,2.9,H,0,1,aguek-arop-1,Aguek Arop,2022
+12,85,15,2022-01-24,San Diego State,,UNLV,REG (Conf),W 80-55,,11,0,0,,0,0,,0,0,,,2,2,1.0,1,2,3,1,0,0,1,0,2,3.0,H,1,1,aguek-arop-1,Aguek Arop,2022
+13,86,16,2022-01-26,San Diego State,@,Utah State,REG (Conf),L 57-75,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,0,1,aguek-arop-1,Aguek Arop,2022
+14,87,18,2022-02-04,San Diego State,@,Colorado State,REG (Conf),L 57-58,,22,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,4,4,8,0,0,1,2,4,4,3.1,A,0,1,aguek-arop-1,Aguek Arop,2022
+15,88,21,2022-02-12,San Diego State,,Air Force,REG (Conf),W 76-64,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,1,1,0,-0.4,H,1,1,aguek-arop-1,Aguek Arop,2022
+16,89,22,2022-02-15,San Diego State,,Utah State,REG (Conf),W 75-56,,16,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,2,3,5,1,0,0,0,2,8,9.3,H,1,1,aguek-arop-1,Aguek Arop,2022
+17,90,23,2022-02-19,San Diego State,@,Fresno State,REG (Conf),W 61-44,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,aguek-arop-1,Aguek Arop,2022
+18,91,24,2022-02-22,San Diego State,@,Boise State,REG (Conf),L 57-58,,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,3,4,0,2,0,0,0,2,3.2,A,0,1,aguek-arop-1,Aguek Arop,2022
+19,92,25,2022-02-25,San Diego State,,San Jose State,REG (Conf),W 77-52,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,2,0,2,2,0,0,0,0,0,1.7,H,1,1,aguek-arop-1,Aguek Arop,2022
+20,93,26,2022-02-28,San Diego State,@,Wyoming,REG (Conf),W 73-66,,20,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,3,4,0,1,2,1,1,0,0.5,A,1,1,aguek-arop-1,Aguek Arop,2022
+21,94,27,2022-03-03,San Diego State,,Fresno State,REG (Conf),W 65-64 (2OT),,7,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,1,2,0,1,0,1,0,5,4.3,H,1,1,aguek-arop-1,Aguek Arop,2022
+22,95,29,2022-03-10,San Diego State,N,Fresno State,CTOURN,W 53-46,,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,3,2,5,0,1,0,2,1,0,-0.8,N,1,0,aguek-arop-1,Aguek Arop,2022
+23,96,30,2022-03-11,San Diego State,N,Colorado State,CTOURN,W 63-58,,18,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,0,0,0,0,0,0,1,2,9,3.9,N,1,0,aguek-arop-1,Aguek Arop,2022
+24,97,31,2022-03-12,San Diego State,N,Boise State,CTOURN,L 52-53,,21,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,3,4,0,0,0,2,3,6,2.1,N,0,0,aguek-arop-1,Aguek Arop,2022
+25,98,32,2022-03-17,San Diego State,N,Creighton,ROUND-64,L 69-72 (OT),,31,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,1,0.0,2,0,2,2,3,1,0,1,6,8.0,N,0,0,aguek-arop-1,Aguek Arop,2022

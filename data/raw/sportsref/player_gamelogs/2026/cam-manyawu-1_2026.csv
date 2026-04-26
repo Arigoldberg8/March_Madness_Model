@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2025-11-04,Iowa,,Robert Morris,REG (Non-Conf),W 101-69,*,13,3,7,0.429,0,0,3,7,0.429,0.429,4,5,0.8,1,0,1,0,1,0,0,2,10,6.8,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+2,69,2,2025-11-07,Iowa,,Western Illinois,REG (Non-Conf),W 77-58,*,12,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,4,4,0,0,1,0,2,4,4.1,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+3,70,3,2025-11-14,Iowa,,Xavier,REG (Non-Conf),W 81-62,*,18,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,3,6,9,0,0,1,0,0,9,9.2,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+4,71,4,2025-11-18,Iowa,,Southeast Missouri State,REG (Non-Conf),W 99-70,*,17,4,4,1.0,0,0,4,4,1.0,1.0,4,6,0.667,0,3,3,1,1,0,0,1,12,12.2,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+5,72,5,2025-11-20,Iowa,,Chicago State,REG (Non-Conf),W 93-54,*,13,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,2,0,2,2,1,0,0,3,5,6.6,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+6,73,6,2025-11-25,Iowa,N,Ole Miss,REG (Non-Conf),W 74-69,*,16,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,2,2,4,1,2,0,0,4,6,7.1,N,1,1,cam-manyawu-1,Cam Manyawu,2026
+7,74,7,2025-11-26,Iowa,N,Grand Canyon,REG (Non-Conf),W 59-46,*,23,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,3,0,3,1,0,1,1,4,7,6.2,N,1,1,cam-manyawu-1,Cam Manyawu,2026
+8,75,8,2025-12-02,Iowa,@,Michigan State,REG (Conf),L 52-71,*,22,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,3,3,6,0,0,0,0,1,6,6.3,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+9,76,9,2025-12-06,Iowa,,Maryland,REG (Conf),W 83-64,*,23,5,7,0.714,0,0,5,7,0.714,0.714,2,3,0.667,2,5,7,3,2,1,3,4,12,11.8,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+10,77,10,2025-12-11,Iowa,@,Iowa State,REG (Non-Conf),L 62-66,*,21,5,10,0.5,0,0,5,10,0.5,0.5,0,0,,3,3,6,2,0,1,3,2,10,6.3,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+11,78,11,2025-12-14,Iowa,,Western Michigan,REG (Non-Conf),W 91-51,*,13,5,5,1.0,0,0,5,5,1.0,1.0,1,2,0.5,1,2,3,2,0,1,0,2,11,11.7,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+12,79,12,2025-12-20,Iowa,N,Bucknell,REG (Non-Conf),W 94-39,*,10,3,5,0.6,0,0,3,5,0.6,0.6,2,3,0.667,1,2,3,0,0,1,0,0,8,7.3,N,1,1,cam-manyawu-1,Cam Manyawu,2026
+13,80,13,2025-12-29,Iowa,,UMass Lowell,REG (Non-Conf),W 90-62,*,21,6,8,0.75,0,0,6,8,0.75,0.75,2,2,1.0,2,7,9,2,0,3,1,3,14,15.6,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+14,81,14,2026-01-03,Iowa,,UCLA,REG (Conf),W 74-61,*,13,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,3,3,6,0,1,0,1,1,3,4.9,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+15,82,15,2026-01-06,Iowa,@,Minnesota,REG (Conf),L 67-70,*,19,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,5,3,8,0,0,3,0,3,0,4.6,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+16,83,16,2026-01-11,Iowa,,Illinois,REG (Conf),L 69-75,*,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,H,0,1,cam-manyawu-1,Cam Manyawu,2026
+17,84,17,2026-01-14,Iowa,@,Purdue,REG (Conf),L 72-79,*,31,5,8,0.625,0,0,5,8,0.625,0.625,3,5,0.6,2,1,3,1,3,1,1,3,13,12.5,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+18,85,18,2026-01-17,Iowa,@,Indiana,REG (Conf),W 74-57,*,24,3,3,1.0,0,0,3,3,1.0,1.0,0,1,0.0,1,5,6,3,1,1,0,2,6,9.9,A,1,1,cam-manyawu-1,Cam Manyawu,2026
+19,86,19,2026-01-20,Iowa,,Rutgers,REG (Conf),W 68-62,*,25,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,1,2,1,1,1,2,2,4,3.6,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+20,87,20,2026-01-28,Iowa,,Southern California,REG (Conf),W 73-72,*,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,0,2,0,1,0,2,3,2,0.2,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+21,88,21,2026-02-01,Iowa,@,Oregon,REG (Conf),W 84-66,*,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,2,0,0,0,2,0,1.2,A,1,1,cam-manyawu-1,Cam Manyawu,2026
+22,89,22,2026-02-04,Iowa,@,Washington,REG (Conf),W 84-74,*,22,3,3,1.0,0,0,3,3,1.0,1.0,0,4,0.0,0,5,5,0,3,0,0,1,6,7.6,A,1,1,cam-manyawu-1,Cam Manyawu,2026
+23,90,23,2026-02-08,Iowa,,Northwestern,REG (Conf),W 76-70,*,17,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,0,3,3,2,1,0,0,3,4,3.3,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+24,91,24,2026-02-11,Iowa,@,Maryland,REG (Conf),L 70-77,*,22,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,2,3,1,0,0,0,4,8,6.5,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+25,92,25,2026-02-14,Iowa,,Purdue,REG (Conf),L 57-78,*,24,3,6,0.5,0,0,3,6,0.5,0.5,2,3,0.667,2,6,8,0,0,0,1,5,8,4.8,H,0,1,cam-manyawu-1,Cam Manyawu,2026
+26,93,26,2026-02-17,Iowa,,Nebraska,REG (Conf),W 57-52,*,19,0,0,,0,0,0,0,,,2,2,1.0,2,2,4,1,0,0,1,3,2,2.5,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+27,94,27,2026-02-22,Iowa,@,Wisconsin,REG (Conf),L 71-84,*,19,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,4,3,7,0,0,0,0,2,4,4.2,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+28,95,28,2026-02-25,Iowa,,Ohio State,REG (Conf),W 74-57,*,22,5,7,0.714,0,0,5,7,0.714,0.714,2,2,1.0,2,5,7,1,1,0,0,1,12,13.3,H,1,1,cam-manyawu-1,Cam Manyawu,2026
+29,96,29,2026-02-28,Iowa,@,Penn State,REG (Conf),L 69-71,*,24,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,1,6,7,2,3,0,0,3,8,12.1,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+30,97,30,2026-03-05,Iowa,,Michigan,REG (Conf),L 68-71,*,28,7,13,0.538,0,0,7,13,0.538,0.538,0,0,,5,3,8,0,1,2,1,5,14,11.5,H,0,1,cam-manyawu-1,Cam Manyawu,2026
+31,98,31,2026-03-08,Iowa,@,Nebraska,REG (Conf),L 75-84 (OT),*,15,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,1,1,1,2,0,4,1,6,3.0,A,0,1,cam-manyawu-1,Cam Manyawu,2026
+32,99,32,2026-03-11,Iowa,N,Maryland,CTOURN,W 75-64,*,26,4,5,0.8,0,0,4,5,0.8,0.8,2,8,0.25,3,1,4,3,2,0,1,3,10,10.0,N,1,0,cam-manyawu-1,Cam Manyawu,2026
+33,100,33,2026-03-12,Iowa,N,Ohio State,CTOURN,L 69-72,*,22,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,0,1,1,1,2,0,2,3,9,6.5,N,0,0,cam-manyawu-1,Cam Manyawu,2026

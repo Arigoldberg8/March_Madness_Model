@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2018-11-09,Kansas State,,Kennesaw State,REG (Non-Conf),W 56-41,*,36,7,15,0.467,0,1,0.0,7,14,0.5,0.467,1,1,1.0,0,6,6,3,4,0,3,2,15,11.4,H,1,1,barry-brown-1,Barry Brown,2019
+2,107,2,2018-11-12,Kansas State,,Denver,REG (Non-Conf),W 64-56,*,37,9,17,0.529,4,8,0.5,5,9,0.556,0.647,3,5,0.6,0,2,2,1,2,0,0,2,25,18.4,H,1,1,barry-brown-1,Barry Brown,2019
+3,108,3,2018-11-16,Kansas State,N,Eastern Kentucky,REG (Non-Conf),W 95-68,*,21,2,7,0.286,0,2,0.0,2,5,0.4,0.286,6,6,1.0,0,6,6,1,1,0,2,3,10,6.2,N,1,1,barry-brown-1,Barry Brown,2019
+4,109,4,2018-11-18,Kansas State,N,Pennsylvania,REG (Non-Conf),W 64-48,*,34,3,11,0.273,0,1,0.0,3,10,0.3,0.273,3,4,0.75,0,4,4,1,1,0,2,2,9,2.2,N,1,1,barry-brown-1,Barry Brown,2019
+5,110,5,2018-11-19,Kansas State,N,Missouri,REG (Non-Conf),W 82-67,*,37,7,14,0.5,1,3,0.333,6,11,0.545,0.536,4,4,1.0,0,6,6,6,1,1,2,3,19,16.5,N,1,1,barry-brown-1,Barry Brown,2019
+6,111,6,2018-11-24,Kansas State,,Lehigh,REG (Non-Conf),W 77-58,*,30,7,18,0.389,0,5,0.0,7,13,0.538,0.389,2,3,0.667,2,4,6,2,4,0,1,3,16,11.6,H,1,1,barry-brown-1,Barry Brown,2019
+7,112,7,2018-12-01,Kansas State,@,Marquette,REG (Non-Conf),L 71-83,*,25,3,10,0.3,0,2,0.0,3,8,0.375,0.3,1,2,0.5,0,4,4,1,0,0,3,3,7,-1.5,A,0,1,barry-brown-1,Barry Brown,2019
+8,113,8,2018-12-08,Kansas State,@,Tulsa,REG (Non-Conf),L 46-47,*,34,3,12,0.25,0,3,0.0,3,9,0.333,0.25,0,0,,0,1,1,0,3,0,3,2,6,-1.7,A,0,1,barry-brown-1,Barry Brown,2019
+9,114,9,2018-12-15,Kansas State,,Georgia State,REG (Non-Conf),W 71-59,*,25,8,10,0.8,4,5,0.8,4,5,0.8,1.0,1,1,1.0,0,1,1,1,1,0,2,4,21,15.6,H,1,1,barry-brown-1,Barry Brown,2019
+10,115,10,2018-12-19,Kansas State,,Southern Mississippi,REG (Non-Conf),W 55-51,*,38,6,16,0.375,0,3,0.0,6,13,0.462,0.375,3,5,0.6,0,7,7,2,2,0,2,2,15,8.1,H,1,1,barry-brown-1,Barry Brown,2019
+11,116,11,2018-12-22,Kansas State,N,Vanderbilt,REG (Non-Conf),W 69-58,*,34,5,12,0.417,1,3,0.333,4,9,0.444,0.458,1,2,0.5,0,5,5,2,3,0,1,5,12,8.1,N,1,1,barry-brown-1,Barry Brown,2019
+12,117,12,2018-12-29,Kansas State,,George Mason,REG (Non-Conf),W 59-58,*,37,5,13,0.385,1,4,0.25,4,9,0.444,0.423,1,2,0.5,1,5,6,7,0,1,2,1,12,9.9,H,1,1,barry-brown-1,Barry Brown,2019
+13,118,13,2019-01-02,Kansas State,,Texas,REG (Conf),L 47-67,*,37,3,10,0.3,1,4,0.25,2,6,0.333,0.35,1,2,0.5,1,4,5,5,0,0,6,1,8,0.8,H,0,1,barry-brown-1,Barry Brown,2019
+14,119,14,2019-01-05,Kansas State,@,Texas Tech,REG (Conf),L 57-63,*,40,5,17,0.294,2,6,0.333,3,11,0.273,0.353,4,6,0.667,1,1,2,1,3,1,2,4,16,7.1,A,0,1,barry-brown-1,Barry Brown,2019
+15,120,15,2019-01-09,Kansas State,,West Virginia,REG (Conf),W 71-69,*,38,9,14,0.643,1,4,0.25,8,10,0.8,0.679,10,12,0.833,0,1,1,1,6,1,2,2,29,26.9,H,1,1,barry-brown-1,Barry Brown,2019
+16,121,16,2019-01-12,Kansas State,@,Iowa State,REG (Conf),W 58-57,*,36,9,20,0.45,2,6,0.333,7,14,0.5,0.5,3,4,0.75,0,3,3,4,0,0,1,1,23,14.5,A,1,1,barry-brown-1,Barry Brown,2019
+17,122,17,2019-01-16,Kansas State,@,Oklahoma,REG (Conf),W 74-61,*,37,11,19,0.579,3,4,0.75,8,15,0.533,0.658,0,0,,1,2,3,5,1,0,3,2,25,18.1,A,1,1,barry-brown-1,Barry Brown,2019
+18,123,18,2019-01-19,Kansas State,,TCU,REG (Conf),W 65-55,*,36,5,12,0.417,0,3,0.0,5,9,0.556,0.417,0,0,,0,5,5,3,1,0,2,3,10,5.0,H,1,1,barry-brown-1,Barry Brown,2019
+19,124,19,2019-01-22,Kansas State,,Texas Tech,REG (Conf),W 58-45,*,38,6,11,0.545,2,7,0.286,4,4,1.0,0.636,1,5,0.2,2,5,7,1,3,0,2,1,15,12.3,H,1,1,barry-brown-1,Barry Brown,2019
+20,125,20,2019-01-26,Kansas State,@,Texas A&M,REG (Non-Conf),L 53-65,*,33,3,9,0.333,0,3,0.0,3,6,0.5,0.333,5,5,1.0,1,2,3,3,4,0,0,3,11,12.1,A,0,1,barry-brown-1,Barry Brown,2019
+21,126,21,2019-02-02,Kansas State,@,Oklahoma State,REG (Conf),W 75-57,*,30,6,11,0.545,5,9,0.556,1,2,0.5,0.773,1,2,0.5,0,4,4,3,2,0,0,0,18,17.6,A,1,1,barry-brown-1,Barry Brown,2019
+22,127,22,2019-02-05,Kansas State,,Kansas,REG (Conf),W 74-67,*,40,5,10,0.5,1,5,0.2,4,5,0.8,0.55,7,11,0.636,0,4,4,5,2,0,3,2,18,14.3,H,1,1,barry-brown-1,Barry Brown,2019
+23,128,23,2019-02-09,Kansas State,@,Baylor,REG (Conf),W 70-63,*,39,4,8,0.5,3,7,0.429,1,1,1.0,0.688,2,4,0.5,2,1,3,6,0,0,1,2,13,12.3,A,1,1,barry-brown-1,Barry Brown,2019
+24,129,24,2019-02-12,Kansas State,@,Texas,REG (Conf),W 71-64,*,36,6,9,0.667,1,2,0.5,5,7,0.714,0.722,3,5,0.6,1,4,5,2,3,0,2,2,16,14.8,A,1,1,barry-brown-1,Barry Brown,2019
+25,130,25,2019-02-16,Kansas State,,Iowa State,REG (Conf),L 64-78,*,40,10,16,0.625,3,6,0.5,7,10,0.7,0.719,0,3,0.0,2,3,5,1,0,0,3,2,23,13.8,H,0,1,barry-brown-1,Barry Brown,2019
+26,131,26,2019-02-18,Kansas State,@,West Virginia,REG (Conf),W 65-51,*,39,7,14,0.5,1,5,0.2,6,9,0.667,0.536,6,6,1.0,0,3,3,4,4,0,2,3,21,18.5,A,1,1,barry-brown-1,Barry Brown,2019
+27,132,27,2019-02-23,Kansas State,,Oklahoma State,REG (Conf),W 85-46,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,0,7,7,3,3,0,2,1,10,11.4,H,1,1,barry-brown-1,Barry Brown,2019
+28,133,28,2019-02-25,Kansas State,@,Kansas,REG (Conf),L 49-64,*,35,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,2,1.0,0,1,1,1,2,0,2,1,4,-0.6,A,0,1,barry-brown-1,Barry Brown,2019
+29,134,29,2019-03-02,Kansas State,,Baylor,REG (Conf),W 66-60,*,40,2,10,0.2,0,4,0.0,2,6,0.333,0.2,6,9,0.667,0,7,7,4,2,0,1,2,10,7.7,H,1,1,barry-brown-1,Barry Brown,2019
+30,135,30,2019-03-04,Kansas State,@,TCU,REG (Conf),W 64-52,*,39,7,15,0.467,0,3,0.0,7,12,0.583,0.467,2,2,1.0,0,3,3,3,2,1,2,0,16,12.0,A,1,1,barry-brown-1,Barry Brown,2019
+31,136,31,2019-03-09,Kansas State,,Oklahoma,REG (Conf),W 68-53,*,39,5,12,0.417,2,5,0.4,3,7,0.429,0.5,3,4,0.75,0,1,1,4,3,0,0,2,15,13.5,H,1,1,barry-brown-1,Barry Brown,2019
+32,137,32,2019-03-14,Kansas State,N,TCU,CTOURN,W 70-61,*,39,5,16,0.313,2,7,0.286,3,9,0.333,0.375,0,0,,0,4,4,6,1,0,3,3,12,5.0,N,1,0,barry-brown-1,Barry Brown,2019
+33,138,33,2019-03-15,Kansas State,N,Iowa State,CTOURN,L 59-63,*,38,5,14,0.357,1,4,0.25,4,10,0.4,0.393,2,2,1.0,0,4,4,3,0,0,1,2,13,6.7,N,0,0,barry-brown-1,Barry Brown,2019
+34,139,34,2019-03-22,Kansas State,N,UC Irvine,ROUND-64,L 64-70,*,26,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,0,5,5,1,1,0,2,2,5,-0.1,N,0,0,barry-brown-1,Barry Brown,2019

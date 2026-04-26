@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2016-11-11,Kansas,N,Indiana,REG (Non-Conf),L 99-103 (OT),*,35,3,4,0.75,0,0,3,4,0.75,0.75,5,8,0.625,1,6,7,0,2,0,3,5,11,7.7,N,0,1,landen-lucas-1,Landen Lucas,2017
+2,92,2,2016-11-15,Kansas,N,Duke,REG (Non-Conf),W 77-75,*,14,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,0,1,1,0,0,1,4,2,-1.6,N,1,1,landen-lucas-1,Landen Lucas,2017
+3,93,3,2016-11-18,Kansas,,Siena,REG (Non-Conf),W 86-65,*,21,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,4,5,0,0,5,2,2,6,5.6,H,1,1,landen-lucas-1,Landen Lucas,2017
+4,94,4,2016-11-21,Kansas,N,UAB,REG (Non-Conf),W 83-63,*,15,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,4,2,6,0,0,0,0,4,2,3.5,N,1,1,landen-lucas-1,Landen Lucas,2017
+5,95,5,2016-11-22,Kansas,N,Georgia,REG (Non-Conf),W 65-54,*,10,0,0,,0,0,0,0,,,0,0,,0,2,2,1,0,0,3,5,0,-3.7,N,1,1,landen-lucas-1,Landen Lucas,2017
+6,96,6,2016-11-25,Kansas,,UNC Asheville,REG (Non-Conf),W 95-57,,12,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,3,4,0,0,0,2,2,6,1.8,H,1,1,landen-lucas-1,Landen Lucas,2017
+7,97,8,2016-12-03,Kansas,,Stanford,REG (Non-Conf),W 89-74,,18,2,5,0.4,0,0,2,5,0.4,0.4,4,7,0.571,2,3,5,1,0,3,2,4,8,5.6,H,1,1,landen-lucas-1,Landen Lucas,2017
+8,98,9,2016-12-06,Kansas,,Kansas City,REG (Non-Conf),W 105-62,,14,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,1,4,5,1,0,0,1,2,4,4.5,H,1,1,landen-lucas-1,Landen Lucas,2017
+9,99,10,2016-12-10,Kansas,,Nebraska,REG (Non-Conf),W 89-72,,19,5,5,1.0,0,0,5,5,1.0,1.0,2,2,1.0,3,4,7,2,2,1,2,2,12,15.1,H,1,1,landen-lucas-1,Landen Lucas,2017
+10,100,11,2016-12-17,Kansas,N,Davidson,REG (Non-Conf),W 89-71,,21,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,4,4,8,1,0,1,0,2,8,10.0,N,1,1,landen-lucas-1,Landen Lucas,2017
+11,101,12,2016-12-22,Kansas,@,UNLV,REG (Non-Conf),W 71-53,*,27,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,4,8,12,2,1,0,1,4,4,7.3,A,1,1,landen-lucas-1,Landen Lucas,2017
+12,102,13,2016-12-30,Kansas,@,TCU,REG (Conf),W 86-80,*,30,7,9,0.778,0,0,7,9,0.778,0.778,1,3,0.333,7,10,17,1,0,0,1,4,15,16.7,A,1,1,landen-lucas-1,Landen Lucas,2017
+13,103,14,2017-01-03,Kansas,,Kansas State,REG (Conf),W 90-88,*,28,8,10,0.8,0,0,8,10,0.8,0.8,2,4,0.5,6,6,12,1,0,1,1,4,18,18.2,H,1,1,landen-lucas-1,Landen Lucas,2017
+14,104,15,2017-01-07,Kansas,,Texas Tech,REG (Conf),W 85-68,*,31,3,6,0.5,0,0,3,6,0.5,0.5,2,3,0.667,2,4,6,1,0,2,1,2,8,7.5,H,1,1,landen-lucas-1,Landen Lucas,2017
+15,105,16,2017-01-10,Kansas,@,Oklahoma,REG (Conf),W 81-70,*,31,3,6,0.5,0,0,3,6,0.5,0.5,4,4,1.0,2,11,13,3,0,0,2,3,10,10.6,A,1,1,landen-lucas-1,Landen Lucas,2017
+16,106,17,2017-01-14,Kansas,,Oklahoma State,REG (Conf),W 87-80,*,30,2,2,1.0,0,0,2,2,1.0,1.0,3,4,0.75,4,8,12,1,0,1,1,3,7,10.4,H,1,1,landen-lucas-1,Landen Lucas,2017
+17,107,18,2017-01-16,Kansas,@,Iowa State,REG (Conf),W 76-72,*,28,7,9,0.778,0,0,7,9,0.778,0.778,0,0,,3,3,6,1,0,1,4,3,14,9.7,A,1,1,landen-lucas-1,Landen Lucas,2017
+18,108,19,2017-01-21,Kansas,,Texas,REG (Conf),W 79-67,*,31,0,4,0.0,0,0,0,4,0.0,0.0,2,2,1.0,3,11,14,1,1,2,2,2,2,4.9,H,1,1,landen-lucas-1,Landen Lucas,2017
+19,109,20,2017-01-24,Kansas,@,West Virginia,REG (Conf),L 69-85,*,24,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,5,5,10,0,0,0,1,4,2,2.6,A,0,1,landen-lucas-1,Landen Lucas,2017
+20,110,21,2017-01-28,Kansas,@,Kentucky,REG (Non-Conf),W 79-73,*,27,6,6,1.0,0,0,6,6,1.0,1.0,1,1,1.0,3,2,5,0,1,1,0,5,13,13.6,A,1,1,landen-lucas-1,Landen Lucas,2017
+21,111,22,2017-02-01,Kansas,,Baylor,REG (Conf),W 73-68,*,30,2,6,0.333,0,0,2,6,0.333,0.333,1,2,0.5,4,7,11,0,2,0,2,3,5,4.9,H,1,1,landen-lucas-1,Landen Lucas,2017
+22,112,23,2017-02-04,Kansas,,Iowa State,REG (Conf),L 89-92 (OT),*,41,2,3,0.667,0,0,2,3,0.667,0.667,2,4,0.5,6,12,18,1,0,1,5,4,6,6.5,H,0,1,landen-lucas-1,Landen Lucas,2017
+23,113,24,2017-02-06,Kansas,@,Kansas State,REG (Conf),W 74-71,*,26,3,5,0.6,0,0,3,5,0.6,0.6,1,3,0.333,1,6,7,2,1,2,1,4,7,7.6,A,1,1,landen-lucas-1,Landen Lucas,2017
+24,114,25,2017-02-11,Kansas,@,Texas Tech,REG (Conf),W 80-79,*,30,5,7,0.714,0,0,5,7,0.714,0.714,3,6,0.5,3,2,5,1,2,1,0,4,13,13.4,A,1,1,landen-lucas-1,Landen Lucas,2017
+25,115,26,2017-02-13,Kansas,,West Virginia,REG (Conf),W 84-80 (OT),*,32,3,6,0.5,0,0,3,6,0.5,0.5,2,7,0.286,5,8,13,0,2,2,1,4,8,9.7,H,1,1,landen-lucas-1,Landen Lucas,2017
+26,116,27,2017-02-18,Kansas,@,Baylor,REG (Conf),W 67-65,*,31,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,6,1,7,1,1,3,3,4,8,9.3,A,1,1,landen-lucas-1,Landen Lucas,2017
+27,117,28,2017-02-22,Kansas,,TCU,REG (Conf),W 87-68,*,17,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,2,4,6,1,0,0,3,4,7,2.6,H,1,1,landen-lucas-1,Landen Lucas,2017
+28,118,29,2017-02-25,Kansas,@,Texas,REG (Conf),W 77-67,*,27,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,5,3,8,2,1,0,2,3,8,10.4,A,1,1,landen-lucas-1,Landen Lucas,2017
+29,119,30,2017-02-27,Kansas,,Oklahoma,REG (Conf),W 73-63,*,28,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,0,8,8,3,0,2,2,3,8,9.8,H,1,1,landen-lucas-1,Landen Lucas,2017
+30,120,31,2017-03-04,Kansas,@,Oklahoma State,REG (Conf),W 90-85,*,29,4,6,0.667,0,0,4,6,0.667,0.667,2,2,1.0,2,5,7,0,1,1,2,3,10,8.8,A,1,1,landen-lucas-1,Landen Lucas,2017
+31,121,32,2017-03-09,Kansas,N,TCU,CTOURN,L 82-85,*,36,5,7,0.714,0,0,5,7,0.714,0.714,3,4,0.75,6,8,14,3,1,2,4,4,13,15.2,N,0,0,landen-lucas-1,Landen Lucas,2017
+32,122,33,2017-03-17,Kansas,N,UC Davis,ROUND-64,W 100-62,*,24,6,10,0.6,0,0,6,10,0.6,0.6,1,1,1.0,5,6,11,2,0,0,2,1,13,12.7,N,1,0,landen-lucas-1,Landen Lucas,2017
+33,123,34,2017-03-19,Kansas,N,Michigan State,ROUND-32,W 90-70,*,25,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,2,9,11,0,0,1,2,4,10,8.3,N,1,0,landen-lucas-1,Landen Lucas,2017
+34,124,35,2017-03-23,Kansas,N,Purdue,ROUND-16,W 98-66,*,20,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,2,4,2,0,0,2,4,2,0.8,N,1,0,landen-lucas-1,Landen Lucas,2017
+35,125,36,2017-03-25,Kansas,N,Oregon,ROUND-8,L 60-74,*,33,4,9,0.444,0,0,4,9,0.444,0.444,1,2,0.5,0,3,3,1,0,1,1,2,9,4.4,N,0,0,landen-lucas-1,Landen Lucas,2017

@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2023-11-06,Saint Peter's,@,Seton Hall,REG (Non-Conf),L 59-70,*,27,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,2,2,4,0,2,1,2,3,6,2.7,A,0,1,corey-washington-1,Corey Washington,2024
+2,30,2,2023-11-11,Saint Peter's,@,NJIT,REG (Non-Conf),W 75-48,*,26,7,13,0.538,3,5,0.6,4,8,0.5,0.654,6,7,0.857,5,5,10,0,2,0,2,3,23,20.1,A,1,1,corey-washington-1,Corey Washington,2024
+3,31,3,2023-11-15,Saint Peter's,@,FDU,REG (Non-Conf),L 70-71,*,14,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,2,2,4,0,1,0,0,0,3,2.9,A,0,1,corey-washington-1,Corey Washington,2024
+4,32,6,2023-12-01,Saint Peter's,@,Niagara,REG (Conf),W 72-67,,26,3,11,0.273,0,6,0.0,3,5,0.6,0.273,0,0,,0,3,3,1,1,0,2,2,6,-0.7,A,1,1,corey-washington-1,Corey Washington,2024
+5,33,7,2023-12-03,Saint Peter's,@,Canisius,REG (Conf),W 54-52,,28,3,11,0.273,0,3,0.0,3,8,0.375,0.273,2,2,1.0,1,1,2,1,1,2,0,4,8,4.0,A,1,1,corey-washington-1,Corey Washington,2024
+6,34,8,2023-12-08,Saint Peter's,@,Duquesne,REG (Non-Conf),L 59-68,*,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,5,6,0.833,0,4,4,0,0,0,0,3,12,9.3,A,0,1,corey-washington-1,Corey Washington,2024
+7,35,9,2023-12-12,Saint Peter's,,UMBC,REG (Non-Conf),W 66-60,,24,3,7,0.429,0,2,0.0,3,5,0.6,0.429,6,6,1.0,2,2,4,0,0,0,0,2,12,9.5,H,1,1,corey-washington-1,Corey Washington,2024
+8,36,10,2023-12-22,Saint Peter's,,Kean,REG (Non-Conf),W 73-70,*,30,8,12,0.667,2,3,0.667,6,9,0.667,0.75,8,13,0.615,3,7,10,1,4,1,0,4,26,26.8,H,1,1,corey-washington-1,Corey Washington,2024
+9,37,11,2023-12-30,Saint Peter's,@,Bucknell,REG (Non-Conf),W 67-58,*,21,2,8,0.25,1,2,0.5,1,6,0.167,0.313,3,4,0.75,2,5,7,0,0,1,0,4,8,4.8,A,1,1,corey-washington-1,Corey Washington,2024
+10,38,12,2024-01-05,Saint Peter's,,Iona,REG (Conf),W 69-57,*,32,4,10,0.4,1,1,1.0,3,9,0.333,0.45,11,12,0.917,3,6,9,1,1,1,2,3,20,17.3,H,1,1,corey-washington-1,Corey Washington,2024
+11,39,13,2024-01-07,Saint Peter's,,Mount St. Mary's,REG (Conf),W 70-64,*,35,10,16,0.625,2,4,0.5,8,12,0.667,0.688,3,3,1.0,0,2,2,0,2,0,1,2,25,18.6,H,1,1,corey-washington-1,Corey Washington,2024
+12,40,14,2024-01-14,Saint Peter's,@,Manhattan,REG (Conf),W 81-68,*,27,5,13,0.385,2,4,0.5,3,9,0.333,0.462,5,6,0.833,3,4,7,1,1,1,0,4,17,13.6,A,1,1,corey-washington-1,Corey Washington,2024
+13,41,15,2024-01-19,Saint Peter's,@,Fairfield,REG (Conf),L 67-76,*,32,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,6,0.667,2,6,8,0,1,0,2,2,16,12.7,A,0,1,corey-washington-1,Corey Washington,2024
+14,42,16,2024-01-21,Saint Peter's,,Canisius,REG (Conf),W 70-59,*,36,9,20,0.45,2,4,0.5,7,16,0.438,0.5,4,5,0.8,2,7,9,1,2,0,2,3,24,16.2,H,1,1,corey-washington-1,Corey Washington,2024
+15,43,17,2024-01-25,Saint Peter's,,Rider,REG (Conf),L 57-62,*,15,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,2,1.0,2,3,5,0,0,1,0,2,11,8.5,H,0,1,corey-washington-1,Corey Washington,2024
+16,44,23,2024-02-16,Saint Peter's,,Siena,REG (Conf),W 75-53,*,30,10,20,0.5,2,7,0.286,8,13,0.615,0.55,7,8,0.875,3,3,6,2,2,2,1,1,29,25.0,H,1,1,corey-washington-1,Corey Washington,2024
+17,45,24,2024-02-18,Saint Peter's,@,Iona,REG (Conf),W 59-53,*,36,4,9,0.444,1,3,0.333,3,6,0.5,0.5,9,9,1.0,1,9,10,0,3,1,1,4,18,17.8,A,1,1,corey-washington-1,Corey Washington,2024
+18,46,25,2024-02-23,Saint Peter's,@,Mount St. Mary's,REG (Conf),W 70-65,*,31,10,15,0.667,1,2,0.5,9,13,0.692,0.7,4,6,0.667,2,6,8,1,1,1,2,2,25,20.5,A,1,1,corey-washington-1,Corey Washington,2024
+19,47,26,2024-02-25,Saint Peter's,,Marist,REG (Conf),W 69-60,*,25,4,9,0.444,2,4,0.5,2,5,0.4,0.556,9,11,0.818,1,4,5,0,1,0,2,5,19,12.4,H,1,1,corey-washington-1,Corey Washington,2024
+20,48,27,2024-03-03,Saint Peter's,,Manhattan,REG (Conf),W 89-57,*,21,7,11,0.636,1,2,0.5,6,9,0.667,0.682,3,4,0.75,2,3,5,0,2,2,1,3,18,16.2,H,1,1,corey-washington-1,Corey Washington,2024
+21,49,28,2024-03-07,Saint Peter's,@,Rider,REG (Conf),L 56-61,*,35,6,19,0.316,0,3,0.0,6,16,0.375,0.316,10,11,0.909,3,9,12,1,2,1,1,4,22,16.3,A,0,1,corey-washington-1,Corey Washington,2024
+22,50,29,2024-03-09,Saint Peter's,,Quinnipiac,REG (Conf),L 74-89,*,33,8,16,0.5,0,2,0.0,8,14,0.571,0.5,5,7,0.714,3,4,7,0,0,0,3,1,21,12.1,H,0,1,corey-washington-1,Corey Washington,2024
+23,51,30,2024-03-14,Saint Peter's,N,Rider,CTOURN,W 50-48,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,3,0.0,1,6,7,0,0,1,1,4,6,0.3,N,1,0,corey-washington-1,Corey Washington,2024
+24,52,31,2024-03-15,Saint Peter's,N,Quinnipiac,CTOURN,W 62-60,*,34,5,13,0.385,1,5,0.2,4,8,0.5,0.423,2,2,1.0,3,4,7,2,1,0,3,2,13,7.8,N,1,0,corey-washington-1,Corey Washington,2024
+25,53,32,2024-03-16,Saint Peter's,N,Fairfield,CTOURN,W 68-63,*,37,9,14,0.643,0,2,0.0,9,12,0.75,0.643,6,13,0.462,3,6,9,1,0,4,1,0,24,21.4,N,1,0,corey-washington-1,Corey Washington,2024
+26,54,33,2024-03-21,Saint Peter's,N,Tennessee,ROUND-64,L 49-83,*,25,1,9,0.111,0,3,0.0,1,6,0.167,0.111,0,2,0.0,0,1,1,0,2,0,0,4,2,-4.0,N,0,0,corey-washington-1,Corey Washington,2024

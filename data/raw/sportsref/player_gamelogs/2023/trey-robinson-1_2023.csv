@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2022-11-07,Northern Kentucky,,Kent State,REG (Non-Conf),L 57-79,,17,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,2,0,2,1,0,0,3,3,3,-1.9,H,0,1,trey-robinson-1,Trey Robinson,2023
+2,57,2,2022-11-12,Northern Kentucky,,Cinci-Clermont,REG (Non-Conf),W 89-49,*,27,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,3,4,7,4,2,1,2,2,8,11.7,H,1,1,trey-robinson-1,Trey Robinson,2023
+3,58,3,2022-11-16,Northern Kentucky,,Cincinnati,REG (Non-Conf),W 64-51,,21,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,4,5,3,0,1,0,0,5,9.1,H,1,1,trey-robinson-1,Trey Robinson,2023
+4,59,4,2022-11-21,Northern Kentucky,N,Florida Gulf Coast,REG (Non-Conf),L 61-82,,25,3,7,0.429,1,1,1.0,2,6,0.333,0.5,3,4,0.75,5,7,12,3,0,0,3,3,10,9.4,N,0,1,trey-robinson-1,Trey Robinson,2023
+5,60,5,2022-11-22,Northern Kentucky,N,UT Arlington,REG (Non-Conf),L 56-60,,14,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,0,0,3,1,0,2,0,1,0.3,N,0,1,trey-robinson-1,Trey Robinson,2023
+6,61,6,2022-11-23,Northern Kentucky,N,Toledo,REG (Non-Conf),L 69-82,*,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,N,0,1,trey-robinson-1,Trey Robinson,2023
+7,62,7,2022-11-27,Northern Kentucky,,Tennessee Tech,REG (Non-Conf),W 85-77 (2OT),,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,0,3,2,1,0,1,3,4,4.3,H,1,1,trey-robinson-1,Trey Robinson,2023
+8,63,8,2022-12-01,Northern Kentucky,,Youngstown State,REG (Conf),W 77-73 (2OT),,7,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,1,4,0,-1.7,H,1,1,trey-robinson-1,Trey Robinson,2023
+9,64,9,2022-12-03,Northern Kentucky,,Robert Morris,REG (Conf),W 60-56,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,H,1,1,trey-robinson-1,Trey Robinson,2023
+10,65,10,2022-12-07,Northern Kentucky,@,Washington State,REG (Non-Conf),L 47-68,,21,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,4,0.5,0,2,2,1,3,0,0,1,7,8.8,A,0,1,trey-robinson-1,Trey Robinson,2023
+11,66,11,2022-12-14,Northern Kentucky,,Eastern Kentucky,REG (Non-Conf),W 64-61,*,19,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,2,3,1,0,0,1,3,9,5.5,H,1,1,trey-robinson-1,Trey Robinson,2023
+12,67,12,2022-12-18,Northern Kentucky,,MU-Hamilton,REG (Non-Conf),W 81-41,*,22,0,3,0.0,0,3,0.0,0,0,,0.0,3,4,0.75,0,2,2,3,1,0,1,2,3,2.4,H,1,1,trey-robinson-1,Trey Robinson,2023
+13,68,13,2022-12-21,Northern Kentucky,@,Florida Atlantic,REG (Non-Conf),L 52-67,*,30,3,10,0.3,2,5,0.4,1,5,0.2,0.4,0,0,,0,4,4,0,2,0,2,1,8,3.0,A,0,1,trey-robinson-1,Trey Robinson,2023
+14,69,14,2022-12-29,Northern Kentucky,,Wright State,REG (Conf),W 78-64,*,29,2,7,0.286,1,4,0.25,1,3,0.333,0.357,3,4,0.75,1,2,3,4,3,0,3,1,8,7.2,H,1,1,trey-robinson-1,Trey Robinson,2023
+15,70,15,2022-12-31,Northern Kentucky,@,IUPUI,REG (Conf),W 55-42,*,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,1,1,2,1,2,0,0,2,8,7.2,A,1,1,trey-robinson-1,Trey Robinson,2023
+16,71,16,2023-01-06,Northern Kentucky,,Oakland,REG (Conf),L 63-64,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,4,4,1.0,1,1,2,1,1,1,2,3,11,8.2,H,0,1,trey-robinson-1,Trey Robinson,2023
+17,72,17,2023-01-08,Northern Kentucky,,Detroit Mercy,REG (Conf),W 78-76 (OT),*,24,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,1,1.0,2,4,6,0,0,0,0,5,8,4.2,H,1,1,trey-robinson-1,Trey Robinson,2023
+18,73,18,2023-01-12,Northern Kentucky,@,Milwaukee,REG (Conf),L 75-80,*,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,0,0,0,1,0,4,1.0,A,0,1,trey-robinson-1,Trey Robinson,2023
+19,74,20,2023-01-19,Northern Kentucky,,Cleveland State,REG (Conf),W 57-56,*,15,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,1,2,3,2,0,0,2,1,2,-0.5,H,1,1,trey-robinson-1,Trey Robinson,2023
+20,75,21,2023-01-21,Northern Kentucky,,Purdue Fort Wayne,REG (Conf),W 74-54,*,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,5,5,1,0,0,0,2,11,9.1,H,1,1,trey-robinson-1,Trey Robinson,2023
+21,76,22,2023-01-26,Northern Kentucky,,Green Bay,REG (Conf),W 68-50,*,23,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,1,0.0,3,3,6,2,1,0,0,1,8,8.9,H,1,1,trey-robinson-1,Trey Robinson,2023
+22,77,23,2023-01-28,Northern Kentucky,,Milwaukee,REG (Conf),L 74-75,*,32,5,11,0.455,3,7,0.429,2,4,0.5,0.591,5,7,0.714,1,3,4,2,4,1,3,2,18,15.4,H,0,1,trey-robinson-1,Trey Robinson,2023
+23,78,24,2023-02-02,Northern Kentucky,@,Robert Morris,REG (Conf),W 65-52,*,30,4,8,0.5,3,7,0.429,1,1,1.0,0.688,2,2,1.0,1,4,5,1,2,1,4,3,13,9.1,A,1,1,trey-robinson-1,Trey Robinson,2023
+24,79,25,2023-02-04,Northern Kentucky,@,Youngstown State,REG (Conf),L 56-74,*,27,5,14,0.357,1,5,0.2,4,9,0.444,0.393,0,0,,2,0,2,0,1,0,0,2,11,4.8,A,0,1,trey-robinson-1,Trey Robinson,2023
+25,80,26,2023-02-10,Northern Kentucky,@,Wright State,REG (Conf),L 65-83,*,25,1,9,0.111,1,4,0.25,0,5,0.0,0.167,0,1,0.0,5,2,7,1,1,1,1,3,3,1.0,A,0,1,trey-robinson-1,Trey Robinson,2023
+26,81,27,2023-02-12,Northern Kentucky,,IUPUI,REG (Conf),W 86-47,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,3,1.0,1,1,2,2,0,0,1,0,7,6.4,H,1,1,trey-robinson-1,Trey Robinson,2023
+27,82,28,2023-02-17,Northern Kentucky,@,Purdue Fort Wayne,REG (Conf),W 63-50,*,25,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,5,6,1,1,1,1,1,8,6.8,A,1,1,trey-robinson-1,Trey Robinson,2023
+28,83,29,2023-02-19,Northern Kentucky,@,Cleveland State,REG (Conf),L 63-64,*,29,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,1,2,3,5,1,0,1,3,4,2.8,A,0,1,trey-robinson-1,Trey Robinson,2023
+29,84,30,2023-02-23,Northern Kentucky,@,Detroit Mercy,REG (Conf),W 67-64,*,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,1,1,0,2,2,4,2.2,A,1,1,trey-robinson-1,Trey Robinson,2023
+30,85,31,2023-02-25,Northern Kentucky,@,Oakland,REG (Conf),W 78-69,*,26,4,8,0.5,3,4,0.75,1,4,0.25,0.688,1,1,1.0,1,8,9,5,1,0,2,2,12,12.8,A,1,1,trey-robinson-1,Trey Robinson,2023
+31,86,32,2023-03-02,Northern Kentucky,,Oakland,CTOURN,W 81-74,*,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,0,5,5,1,0,0,1,0,11,8.8,H,1,0,trey-robinson-1,Trey Robinson,2023
+32,87,33,2023-03-06,Northern Kentucky,N,Youngstown State,CTOURN,W 75-63,*,29,1,10,0.1,0,3,0.0,1,7,0.143,0.1,5,6,0.833,2,2,4,1,1,2,1,2,7,3.3,N,1,0,trey-robinson-1,Trey Robinson,2023
+33,88,34,2023-03-07,Northern Kentucky,N,Cleveland State,CTOURN,W 63-61,*,27,5,10,0.5,2,6,0.333,3,4,0.75,0.6,0,0,,0,2,2,0,2,3,1,5,12,8.7,N,1,0,trey-robinson-1,Trey Robinson,2023
+34,89,35,2023-03-16,Northern Kentucky,N,Houston,ROUND-64,L 52-63,*,29,3,14,0.214,2,8,0.25,1,6,0.167,0.286,3,4,0.75,3,0,3,1,1,0,0,0,11,5.8,N,0,0,trey-robinson-1,Trey Robinson,2023

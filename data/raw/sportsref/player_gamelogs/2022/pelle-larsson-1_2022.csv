@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2021-11-09,Arizona,,Northern Arizona,REG (Non-Conf),W 81-52,,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,0,0,1,0,0,0,2,7,5.3,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+2,27,2,2021-11-12,Arizona,,Texas–Rio Grande Valley,REG (Non-Conf),W 104-50,,17,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,2,1.0,0,3,3,5,0,0,1,2,4,2.8,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+3,28,3,2021-11-16,Arizona,,North Dakota State,REG (Non-Conf),W 97-45,,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,3,4,0.75,1,4,5,0,0,0,0,4,6,4.9,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+4,29,4,2021-11-19,Arizona,N,Wichita State,REG (Non-Conf),W 82-78 (OT),,26,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,3,4,2,0,0,2,2,2,-0.9,N,1,1,pelle-larsson-1,Pelle Larsson,2022
+5,30,5,2021-11-21,Arizona,N,Michigan,REG (Non-Conf),W 80-62,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,2,0,0,4,2,2,-2.8,N,1,1,pelle-larsson-1,Pelle Larsson,2022
+6,31,6,2021-11-27,Arizona,,Sacramento State,REG (Non-Conf),W 105-59,,21,6,7,0.857,3,4,0.75,3,3,1.0,1.071,2,3,0.667,1,2,3,1,3,0,0,2,17,18.3,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+7,32,7,2021-12-05,Arizona,@,Oregon State,REG (Conf),W 90-65,,20,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,1,1.0,2,3,5,3,1,0,1,3,5,4.1,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+8,33,8,2021-12-08,Arizona,,Wyoming,REG (Non-Conf),W 94-65,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,2,2,1,2,1,1,0,4,6.0,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+9,34,9,2021-12-11,Arizona,@,Illinois,REG (Non-Conf),W 83-79,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,0,2,0,2,3,2,1.8,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+10,35,10,2021-12-15,Arizona,,Northern Colorado,REG (Non-Conf),W 101-76,,13,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,2,1,3,1,0,0,1,3,7,3.8,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+11,36,11,2021-12-18,Arizona,,California Baptist,REG (Non-Conf),W 84-60,,20,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,2,2,2,0,0,1,3,9,7.9,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+12,37,12,2021-12-22,Arizona,@,Tennessee,REG (Non-Conf),L 73-77,,25,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,1,2,3,2,0,0,2,1,4,0.2,A,0,1,pelle-larsson-1,Pelle Larsson,2022
+13,38,13,2022-01-03,Arizona,,Washington,REG (Conf),W 95-79,,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,4,4,8,4,1,0,2,3,3,5.5,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+14,39,14,2022-01-13,Arizona,,Colorado,REG (Conf),W 76-55,,25,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,3,0.667,1,4,5,1,1,0,1,1,12,10.5,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+15,40,15,2022-01-15,Arizona,,Utah,REG (Conf),W 82-64,,26,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,1,1.0,0,2,2,1,3,0,3,4,5,2.0,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+16,41,16,2022-01-20,Arizona,@,Stanford,REG (Conf),W 85-57,,33,5,8,0.625,1,4,0.25,4,4,1.0,0.688,2,4,0.5,1,1,2,6,1,3,0,2,13,16.1,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+17,42,17,2022-01-23,Arizona,@,California,REG (Conf),W 96-71,*,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,5,0.8,2,1,3,2,0,0,1,4,9,6.4,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+18,43,18,2022-01-25,Arizona,@,UCLA,REG (Conf),L 59-75,*,33,4,10,0.4,2,7,0.286,2,3,0.667,0.5,0,0,,1,4,5,0,0,0,0,1,10,6.1,A,0,1,pelle-larsson-1,Pelle Larsson,2022
+19,44,19,2022-01-29,Arizona,,Arizona State,REG (Conf),W 67-56,,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,5,6,0.833,1,4,5,2,0,0,4,2,8,4.4,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+20,45,20,2022-02-03,Arizona,,UCLA,REG (Conf),W 76-66,,24,3,5,0.6,1,3,0.333,2,2,1.0,0.7,5,6,0.833,0,8,8,1,1,0,3,2,12,9.6,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+21,46,21,2022-02-05,Arizona,,Southern California,REG (Conf),W 72-63,,22,1,1,1.0,0,0,,1,1,1.0,1.0,5,5,1.0,1,0,1,0,1,0,1,1,7,7.0,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+22,47,22,2022-02-07,Arizona,@,Arizona State,REG (Conf),W 91-79,,19,5,5,1.0,3,3,1.0,2,2,1.0,1.3,1,2,0.5,0,2,2,2,2,1,1,1,14,15.4,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+23,48,23,2022-02-10,Arizona,@,Washington State,REG (Conf),W 72-60,,27,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,2,1,3,2,0,0,3,3,7,2.2,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+24,49,24,2022-02-12,Arizona,@,Washington,REG (Conf),W 92-68,,20,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,1,1,1,0,0,2,4,6,1.7,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+25,50,25,2022-02-17,Arizona,,Oregon State,REG (Conf),W 83-69,,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,4,4,3,0,0,2,2,0,-0.9,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+26,51,26,2022-02-19,Arizona,,Oregon,REG (Conf),W 84-81,,19,2,5,0.4,2,5,0.4,0,0,,0.6,5,6,0.833,0,1,1,2,0,0,1,3,11,7.4,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+27,52,27,2022-02-24,Arizona,@,Utah,REG (Conf),W 97-77,,18,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,7,7,2,2,0,3,4,2,-0.2,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+28,53,28,2022-02-26,Arizona,@,Colorado,REG (Conf),L 63-79,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,1,1.0,1,2,3,0,0,1,1,3,7,4.5,A,0,1,pelle-larsson-1,Pelle Larsson,2022
+29,54,29,2022-03-01,Arizona,@,Southern California,REG (Conf),W 91-71,,13,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,0,0,2,1,0,1,3,5,3.2,A,1,1,pelle-larsson-1,Pelle Larsson,2022
+30,55,30,2022-03-03,Arizona,,Stanford,REG (Conf),W 81-69,,21,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,0,0,0,1,2,0,1,0,6,3.9,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+31,56,31,2022-03-05,Arizona,,California,REG (Conf),W 89-61,,17,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,1,1.0,0,4,4,1,1,0,0,4,13,10.7,H,1,1,pelle-larsson-1,Pelle Larsson,2022
+32,57,32,2022-03-10,Arizona,N,Stanford,CTOURN,W 84-80,,18,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,1,1,2,0,0,1,3,5,2.8,N,1,0,pelle-larsson-1,Pelle Larsson,2022
+33,58,33,2022-03-11,Arizona,N,Colorado,CTOURN,W 82-72,,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,3,4,0.75,1,3,4,3,0,2,3,1,9,8.0,N,1,0,pelle-larsson-1,Pelle Larsson,2022
+34,59,34,2022-03-12,Arizona,N,UCLA,CTOURN,W 84-76,,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,1,5,6,3,1,0,2,4,8,7.0,N,1,0,pelle-larsson-1,Pelle Larsson,2022
+35,60,35,2022-03-18,Arizona,N,Wright State,ROUND-64,W 87-70,,20,3,7,0.429,3,4,0.75,0,3,0.0,0.643,2,2,1.0,1,4,5,3,0,0,3,4,11,6.7,N,1,0,pelle-larsson-1,Pelle Larsson,2022
+36,61,36,2022-03-20,Arizona,N,TCU,ROUND-32,W 85-80 (OT),,30,2,5,0.4,0,3,0.0,2,2,1.0,0.4,2,2,1.0,1,5,6,1,2,0,2,3,6,5.0,N,1,0,pelle-larsson-1,Pelle Larsson,2022
+37,62,37,2022-03-24,Arizona,N,Houston,ROUND-16,L 60-72,,22,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,1,1.0,2,4,6,1,1,0,1,4,8,8.1,N,0,0,pelle-larsson-1,Pelle Larsson,2022

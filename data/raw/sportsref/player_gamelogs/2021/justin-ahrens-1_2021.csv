@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2020-11-25,Ohio State,,Illinois State,REG (Non-Conf),W 94-67,,14,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,6,4.0,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+2,53,2,2020-11-29,Ohio State,,UMass Lowell,REG (Non-Conf),W 74-64,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+3,54,3,2020-12-02,Ohio State,,Morehead State,REG (Non-Conf),W 77-44,,15,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,1,2,1,0,0,0,0,9,7.7,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+4,55,4,2020-12-08,Ohio State,@,Notre Dame,REG (Non-Conf),W 90-85,,20,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,1,1,0,1,1,0,0,12,11.4,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+5,56,5,2020-12-13,Ohio State,,Cleveland State,REG (Non-Conf),W 67-61,*,23,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,2,3,0,0,0,1,0,6,5.0,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+6,57,6,2020-12-16,Ohio State,@,Purdue,REG (Conf),L 60-67,,17,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,2,2,0,0,0,0,1,3,0.8,A,0,1,justin-ahrens-1,Justin Ahrens,2021
+7,58,7,2020-12-19,Ohio State,N,UCLA,REG (Non-Conf),W 77-70,,10,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,1,0,1,3,3.0,N,1,1,justin-ahrens-1,Justin Ahrens,2021
+8,59,8,2020-12-23,Ohio State,,Rutgers,REG (Conf),W 80-68,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,2,2,0,-1.5,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+9,60,9,2020-12-26,Ohio State,@,Northwestern,REG (Conf),L 70-71,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,justin-ahrens-1,Justin Ahrens,2021
+10,61,10,2020-12-30,Ohio State,,Nebraska,REG (Conf),W 90-54,,20,6,10,0.6,6,9,0.667,0,1,0.0,0.9,0,0,,0,2,2,0,1,0,1,0,18,14.0,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+11,62,11,2021-01-03,Ohio State,@,Minnesota,REG (Conf),L 60-77,,21,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,1,6,7,0,0,0,1,1,4,2.3,A,0,1,justin-ahrens-1,Justin Ahrens,2021
+12,63,12,2021-01-09,Ohio State,@,Rutgers,REG (Conf),W 79-68,,11,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,1,0,3,-0.4,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+13,64,13,2021-01-13,Ohio State,,Northwestern,REG (Conf),W 81-71,*,23,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,0,2,2,0,0,0,0,3,12,9.5,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+14,65,14,2021-01-16,Ohio State,@,Illinois,REG (Conf),W 87-81,*,29,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,1,1,0,1,0,1,5,11,6.7,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+15,66,15,2021-01-19,Ohio State,,Purdue,REG (Conf),L 65-67,*,34,3,9,0.333,3,9,0.333,0,0,,0.5,3,3,1.0,0,4,4,0,0,0,0,3,12,6.9,H,0,1,justin-ahrens-1,Justin Ahrens,2021
+16,67,16,2021-01-23,Ohio State,@,Wisconsin,REG (Conf),W 74-62,*,26,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,5,5,0,1,0,0,3,9,8.0,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+17,68,17,2021-01-27,Ohio State,,Penn State,REG (Conf),W 83-79,*,22,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,0,1,1,0,0,1,0,9,6.4,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+18,69,18,2021-01-31,Ohio State,,Michigan State,REG (Conf),W 79-62,*,23,2,5,0.4,2,5,0.4,0,0,,0.6,1,3,0.333,0,3,3,0,0,0,1,4,7,1.8,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+19,70,19,2021-02-04,Ohio State,@,Iowa,REG (Conf),W 89-85,*,19,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,2,2,1,1,0,1,2,9,5.1,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+20,71,20,2021-02-08,Ohio State,@,Maryland,REG (Conf),W 73-65,*,30,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,0,4,4,1,1,0,0,2,11,8.4,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+21,72,21,2021-02-13,Ohio State,,Indiana,REG (Conf),W 78-59,*,20,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,0,0,0,1,0,0,4,5,2.0,H,1,1,justin-ahrens-1,Justin Ahrens,2021
+22,73,22,2021-02-18,Ohio State,@,Penn State,REG (Conf),W 92-82,*,20,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,4,4,2,0,0,1,0,9,6.9,A,1,1,justin-ahrens-1,Justin Ahrens,2021
+23,74,23,2021-02-21,Ohio State,,Michigan,REG (Conf),L 87-92,*,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,H,0,1,justin-ahrens-1,Justin Ahrens,2021
+24,75,24,2021-02-25,Ohio State,@,Michigan State,REG (Conf),L 67-71,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,2,2,1,0,2,0,2.6,A,0,1,justin-ahrens-1,Justin Ahrens,2021
+25,76,25,2021-02-28,Ohio State,,Iowa,REG (Conf),L 57-73,,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,1,0,0,0,3,3.6,H,0,1,justin-ahrens-1,Justin Ahrens,2021
+26,77,26,2021-03-06,Ohio State,,Illinois,REG (Conf),L 68-73,,22,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,1,1,0,1,1,0,2,6,3.1,H,0,1,justin-ahrens-1,Justin Ahrens,2021
+27,78,27,2021-03-11,Ohio State,N,Minnesota,CTOURN,W 79-75,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,0,2,0,0,0,2,3.9,N,1,0,justin-ahrens-1,Justin Ahrens,2021
+28,79,28,2021-03-12,Ohio State,N,Purdue,CTOURN,W 87-78 (OT),*,11,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-3.2,N,1,0,justin-ahrens-1,Justin Ahrens,2021
+29,80,29,2021-03-13,Ohio State,N,Michigan,CTOURN,W 68-67,*,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,1,2,0,0,0,0,0,3,3.0,N,1,0,justin-ahrens-1,Justin Ahrens,2021
+30,81,30,2021-03-14,Ohio State,N,Illinois,CTOURN,L 88-91 (OT),*,12,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,1,0,3,0,0.5,N,0,0,justin-ahrens-1,Justin Ahrens,2021
+31,82,31,2021-03-19,Ohio State,N,Oral Roberts,ROUND-64,L 72-75 (OT),*,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,3,3,1,2,2,0,0,5,7.3,N,0,0,justin-ahrens-1,Justin Ahrens,2021

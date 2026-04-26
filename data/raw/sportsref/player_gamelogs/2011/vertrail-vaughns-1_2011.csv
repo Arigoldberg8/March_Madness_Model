@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,7,1,2010-11-13,George Mason,,Harvard,REG (Non-Conf),W 66-53,,5,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,0,0,0,1,3,5,0.8,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+2,8,2,2010-11-18,George Mason,N,Charlotte,REG (Non-Conf),W 78-56,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,0,1,0,1,3,5,3.5,N,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+3,9,3,2010-11-19,George Mason,N,NC State,REG (Non-Conf),L 65-78,,10,1,1,1.0,1,1,1.0,0,0,,1.5,0,1,0.0,0,1,1,0,0,1,1,2,3,1.5,N,0,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+4,10,4,2010-11-21,George Mason,N,Wofford,REG (Non-Conf),L 79-82 (OT),,10,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,3,6,4.2,N,0,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+5,11,5,2010-11-24,George Mason,,Radford,REG (Non-Conf),W 81-55,,16,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,1,1,2,0,1,0,0,0,7,4.6,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+6,12,6,2010-11-27,George Mason,,Florida Atlantic,REG (Non-Conf),W 66-51,,5,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,0,0,0,1,0,4,1.7,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+7,13,7,2010-12-01,George Mason,,George Washington,REG (Non-Conf),W 60-46,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+8,14,8,2010-12-04,George Mason,,UNC Wilmington,REG (Conf),W 80-52,,21,5,8,0.625,4,5,0.8,1,3,0.333,0.875,0,0,,3,2,5,1,0,0,1,1,14,12.4,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+9,15,9,2010-12-08,George Mason,,Loyola (MD),REG (Non-Conf),W 66-52,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+10,16,10,2010-12-11,George Mason,@,Liberty,REG (Non-Conf),W 84-54,,18,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,2,0.5,0,1,1,3,0,0,0,0,9,8.7,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+11,17,11,2010-12-22,George Mason,@,Duquesne,REG (Non-Conf),W 85-79 (2OT),,14,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,1,1,1,1,0,1,1,6,3.9,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+12,18,12,2010-12-29,George Mason,@,Dayton,REG (Non-Conf),L 67-73,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-0.5,A,0,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+13,19,13,2011-01-03,George Mason,,Delaware,REG (Conf),W 75-66,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,2,0.0,0,1,1,0,0,0,1,2,0,-3.7,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+14,20,14,2011-01-05,George Mason,@,Hofstra,REG (Conf),L 74-87,,9,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,0,1,1,0,0,0,0,2,1.0,A,0,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+15,21,16,2011-01-12,George Mason,@,Northeastern,REG (Conf),W 86-60,,3,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,0,0,0,1,0,5,4.1,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+16,22,18,2011-01-19,George Mason,,Drexel,REG (Conf),W 71-47,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+17,23,19,2011-01-22,George Mason,@,James Madison,REG (Conf),W 75-73,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,1,0,1,0,0,0.7,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+18,24,20,2011-01-24,George Mason,@,Delaware,REG (Conf),W 69-49,,6,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,1,0,0,0,3,5,3.5,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+19,25,21,2011-01-27,George Mason,,Towson,REG (Conf),W 84-58,,14,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,1,1,0,1,0,0,0,9,6.3,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+20,26,22,2011-01-29,George Mason,@,William & Mary,REG (Conf),W 85-69,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,2,0,1,2,0,0.2,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+21,27,23,2011-02-02,George Mason,,Hofstra,REG (Conf),W 87-68,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+22,28,24,2011-02-05,George Mason,,Old Dominion,REG (Conf),W 62-45,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+23,29,25,2011-02-08,George Mason,@,UNC Wilmington,REG (Conf),W 78-63,,7,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,0,1,0,1,0,2,0.9,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+24,30,26,2011-02-12,George Mason,,James Madison,REG (Conf),W 82-68,,16,3,6,0.5,3,4,0.75,0,2,0.0,0.75,3,4,0.75,0,1,1,0,1,0,0,1,12,9.5,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+25,31,27,2011-02-15,George Mason,@,VCU,REG (Conf),W 71-51,,11,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,0,0,0,0,0,0,1,1,12,8.7,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+26,32,28,2011-02-19,George Mason,@,Northern Iowa,REG (Non-Conf),W 77-71,,12,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,3,4,1,0,0,0,0,3,2.9,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+27,33,29,2011-02-24,George Mason,,Northeastern,REG (Conf),W 67-61,,25,3,7,0.429,3,4,0.75,0,3,0.0,0.643,2,2,1.0,0,1,1,0,1,0,0,2,11,7.8,H,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+28,34,30,2011-02-26,George Mason,@,Georgia State,REG (Conf),W 65-58,,14,3,5,0.6,3,3,1.0,0,2,0.0,0.9,3,4,0.75,1,1,2,0,0,0,1,1,12,8.9,A,1,1,vertrail-vaughns-1,Vertrail Vaughns,2011
+29,35,31,2011-03-05,George Mason,N,Georgia State,CTOURN,W 68-45,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,3,1.0,0,1,1,0,1,0,0,0,7,7.0,N,1,0,vertrail-vaughns-1,Vertrail Vaughns,2011
+30,36,32,2011-03-06,George Mason,N,VCU,CTOURN,L 63-79,,11,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,2,1,3,0,0,0,2,5,6,1.7,N,0,0,vertrail-vaughns-1,Vertrail Vaughns,2011
+31,37,33,2011-03-18,George Mason,N,Villanova,ROUND-64,W 61-57,,3,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,N,1,0,vertrail-vaughns-1,Vertrail Vaughns,2011
+32,38,34,2011-03-20,George Mason,N,Ohio State,ROUND-32,L 66-98,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,0,0,0,0.0,N,0,0,vertrail-vaughns-1,Vertrail Vaughns,2011

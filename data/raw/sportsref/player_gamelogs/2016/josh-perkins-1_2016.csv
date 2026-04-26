@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,6,1,2015-11-18,Gonzaga,,Northern Arizona,REG (Non-Conf),W 91-52,*,29,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,2,2,4,6,4,0,6,3,5,3.2,H,1,1,josh-perkins-1,Josh Perkins,2016
+2,7,2,2015-11-21,Gonzaga,,Mount St. Mary's,REG (Non-Conf),W 101-56,*,26,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,2,2,3,1,0,3,4,11,6.1,H,1,1,josh-perkins-1,Josh Perkins,2016
+3,8,3,2015-11-25,Gonzaga,N,Washington,REG (Non-Conf),W 80-64,*,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,4,0.5,0,2,2,1,2,0,3,5,7,3.9,N,1,1,josh-perkins-1,Josh Perkins,2016
+4,9,4,2015-11-26,Gonzaga,N,Texas A&M,REG (Non-Conf),L 61-62,*,36,6,11,0.545,2,6,0.333,4,5,0.8,0.636,1,5,0.2,1,4,5,4,1,0,2,1,15,11.4,N,0,1,josh-perkins-1,Josh Perkins,2016
+5,10,5,2015-11-27,Gonzaga,N,Connecticut,REG (Non-Conf),W 73-70,*,17,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,3,0.667,0,2,2,2,0,0,2,4,5,1.3,N,1,1,josh-perkins-1,Josh Perkins,2016
+6,11,6,2015-12-02,Gonzaga,@,Washington State,REG (Non-Conf),W 69-60,*,34,6,12,0.5,3,5,0.6,3,7,0.429,0.625,1,2,0.5,0,5,5,2,0,0,2,1,16,10.1,A,1,1,josh-perkins-1,Josh Perkins,2016
+7,12,7,2015-12-05,Gonzaga,,Arizona,REG (Non-Conf),L 63-68,*,37,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,3,0.667,0,4,4,5,2,0,5,5,6,-0.2,H,0,1,josh-perkins-1,Josh Perkins,2016
+8,13,8,2015-12-08,Gonzaga,,Montana,REG (Non-Conf),W 61-58,*,35,5,11,0.455,1,4,0.25,4,7,0.571,0.5,2,4,0.5,0,6,6,3,2,1,5,1,13,7.7,H,1,1,josh-perkins-1,Josh Perkins,2016
+9,14,9,2015-12-12,Gonzaga,,UCLA,REG (Non-Conf),L 66-71,*,36,4,12,0.333,0,5,0.0,4,7,0.571,0.333,2,4,0.5,1,4,5,1,0,1,2,3,10,2.5,H,0,1,josh-perkins-1,Josh Perkins,2016
+10,15,10,2015-12-14,Gonzaga,,St. Martin's,REG (Non-Conf),W 86-50,*,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,3,3,8,0,1,1,1,3,6.4,H,1,1,josh-perkins-1,Josh Perkins,2016
+11,16,11,2015-12-19,Gonzaga,N,Tennessee,REG (Non-Conf),W 86-79,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,2,0,0,0,4,2,2.8,N,1,1,josh-perkins-1,Josh Perkins,2016
+12,17,12,2015-12-21,Gonzaga,,Pepperdine,REG (Conf),W 99-73,*,29,6,8,0.75,5,6,0.833,1,2,0.5,1.063,0,0,,0,2,2,2,1,0,0,3,17,15.6,H,1,1,josh-perkins-1,Josh Perkins,2016
+13,18,13,2015-12-23,Gonzaga,,Loyola Marymount,REG (Conf),W 85-62,*,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,3,4,3,0,0,1,3,5,4.5,H,1,1,josh-perkins-1,Josh Perkins,2016
+14,19,14,2015-12-31,Gonzaga,@,Santa Clara,REG (Conf),W 79-77,*,37,10,12,0.833,2,3,0.667,8,9,0.889,0.917,4,8,0.5,1,3,4,4,0,1,1,1,26,23.7,A,1,1,josh-perkins-1,Josh Perkins,2016
+15,20,15,2016-01-02,Gonzaga,@,San Francisco,REG (Conf),W 102-94 (OT),*,43,6,13,0.462,2,5,0.4,4,8,0.5,0.538,1,2,0.5,2,4,6,3,4,0,4,3,15,11.4,A,1,1,josh-perkins-1,Josh Perkins,2016
+16,21,16,2016-01-09,Gonzaga,,Portland,REG (Conf),W 85-74,*,34,2,7,0.286,0,0,,2,7,0.286,0.286,6,6,1.0,1,1,2,7,0,0,1,5,10,8.8,H,1,1,josh-perkins-1,Josh Perkins,2016
+17,22,17,2016-01-14,Gonzaga,,Brigham Young,REG (Conf),L 68-69,*,39,2,8,0.25,1,3,0.333,1,5,0.2,0.313,6,6,1.0,0,6,6,7,3,0,2,3,11,12.7,H,0,1,josh-perkins-1,Josh Perkins,2016
+18,23,18,2016-01-16,Gonzaga,,San Diego,REG (Conf),W 88-52,*,28,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,1,1,5,0,2,0,3,8,10.4,H,1,1,josh-perkins-1,Josh Perkins,2016
+19,24,19,2016-01-21,Gonzaga,@,St. Mary's (CA),REG (Conf),L 67-70,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,1,1,3,0,0,1,2,6,2.9,A,0,1,josh-perkins-1,Josh Perkins,2016
+20,25,20,2016-01-23,Gonzaga,@,Pacific,REG (Conf),W 71-61,*,30,2,8,0.25,1,2,0.5,1,6,0.167,0.313,2,6,0.333,0,6,6,2,0,0,0,2,7,3.0,A,1,1,josh-perkins-1,Josh Perkins,2016
+21,26,21,2016-01-28,Gonzaga,,Santa Clara,REG (Conf),W 84-67,*,35,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,5,0.8,1,2,3,2,1,0,5,3,9,3.4,H,1,1,josh-perkins-1,Josh Perkins,2016
+22,27,22,2016-01-30,Gonzaga,,San Francisco,REG (Conf),W 86-48,*,31,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,0,6,6,5,1,0,0,0,13,15.3,H,1,1,josh-perkins-1,Josh Perkins,2016
+23,28,23,2016-02-04,Gonzaga,@,Loyola Marymount,REG (Conf),W 92-63,*,20,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,4,4,5,2,0,4,2,4,1.8,A,1,1,josh-perkins-1,Josh Perkins,2016
+24,29,24,2016-02-06,Gonzaga,@,Pepperdine,REG (Conf),W 69-66,*,33,3,11,0.273,1,5,0.2,2,6,0.333,0.318,3,4,0.75,2,4,6,5,1,2,1,3,10,9.4,A,1,1,josh-perkins-1,Josh Perkins,2016
+25,30,25,2016-02-11,Gonzaga,@,Portland,REG (Conf),W 92-66,*,32,2,5,0.4,2,2,1.0,0,3,0.0,0.6,2,2,1.0,0,2,2,9,2,0,2,3,8,11.0,A,1,1,josh-perkins-1,Josh Perkins,2016
+26,31,26,2016-02-13,Gonzaga,@,SMU,REG (Non-Conf),L 60-69,*,35,3,11,0.273,3,9,0.333,0,2,0.0,0.409,0,0,,0,1,1,7,0,2,1,3,9,6.9,A,0,1,josh-perkins-1,Josh Perkins,2016
+27,32,27,2016-02-18,Gonzaga,,Pacific,REG (Conf),W 90-68,*,27,2,5,0.4,1,3,0.333,1,2,0.5,0.5,3,4,0.75,0,3,3,6,2,0,2,3,8,8.8,H,1,1,josh-perkins-1,Josh Perkins,2016
+28,33,28,2016-02-20,Gonzaga,,St. Mary's (CA),REG (Conf),L 58-63,*,34,9,18,0.5,3,7,0.429,6,11,0.545,0.583,0,0,,2,0,2,2,2,1,3,3,21,13.3,H,0,1,josh-perkins-1,Josh Perkins,2016
+29,34,29,2016-02-25,Gonzaga,@,San Diego,REG (Conf),W 82-60,*,31,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,0,,1,1,2,0,0,0,1,3,10,3.8,A,1,1,josh-perkins-1,Josh Perkins,2016
+30,35,30,2016-02-27,Gonzaga,@,Brigham Young,REG (Conf),W 71-68,*,38,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,2,2,5,2,0,0,2,8,10.3,A,1,1,josh-perkins-1,Josh Perkins,2016
+31,36,31,2016-03-05,Gonzaga,N,Portland,CTOURN,W 92-67,*,19,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,1,1,2,2,2,0,0,5,9,5.3,N,1,0,josh-perkins-1,Josh Perkins,2016
+32,37,32,2016-03-07,Gonzaga,N,Brigham Young,CTOURN,W 88-84,*,37,5,11,0.455,3,8,0.375,2,3,0.667,0.591,4,4,1.0,2,1,3,5,2,0,3,3,17,14.3,N,1,0,josh-perkins-1,Josh Perkins,2016
+33,38,33,2016-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 85-75,*,36,5,11,0.455,2,5,0.4,3,6,0.5,0.545,4,4,1.0,1,2,3,5,1,0,3,3,16,11.9,N,1,0,josh-perkins-1,Josh Perkins,2016
+34,39,34,2016-03-17,Gonzaga,N,Seton Hall,ROUND-64,W 68-52,*,35,1,5,0.2,0,4,0.0,1,1,1.0,0.2,5,6,0.833,1,2,3,7,3,0,4,3,7,7.5,N,1,0,josh-perkins-1,Josh Perkins,2016
+35,40,35,2016-03-19,Gonzaga,N,Utah,ROUND-32,W 82-59,*,26,4,9,0.444,1,4,0.25,3,5,0.6,0.5,1,2,0.5,0,2,2,2,1,0,1,2,10,6.1,N,1,0,josh-perkins-1,Josh Perkins,2016
+36,41,36,2016-03-25,Gonzaga,N,Syracuse,ROUND-16,L 60-63,*,39,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,1,2,3,6,1,0,2,3,8,6.9,N,0,0,josh-perkins-1,Josh Perkins,2016

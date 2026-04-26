@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,121,1,2022-11-07,College of Charleston,,Chattanooga,REG (Non-Conf),W 85-78,*,29,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,4,0.5,0,3,3,4,3,0,2,1,9,8.8,H,1,1,ryan-larson-1,Ryan Larson,2023
+2,122,2,2022-11-11,College of Charleston,@,North Carolina,REG (Non-Conf),L 86-102,*,26,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,2,1,3,2,1,0,4,1,4,-1.8,A,0,1,ryan-larson-1,Ryan Larson,2023
+3,123,3,2022-11-14,College of Charleston,,Richmond,REG (Non-Conf),W 92-90 (OT),*,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,3,0.667,1,3,4,4,0,1,1,3,6,5.8,H,1,1,ryan-larson-1,Ryan Larson,2023
+4,124,4,2022-11-17,College of Charleston,,Davidson,REG (Non-Conf),W 89-66,*,29,7,11,0.636,5,7,0.714,2,4,0.5,0.864,2,2,1.0,0,0,0,5,1,0,0,1,21,20.2,H,1,1,ryan-larson-1,Ryan Larson,2023
+5,125,5,2022-11-18,College of Charleston,,Colorado State,REG (Non-Conf),W 74-64,*,27,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,0,5,5,1,2,0,2,1,10,7.1,H,1,1,ryan-larson-1,Ryan Larson,2023
+6,126,6,2022-11-20,College of Charleston,,Virginia Tech,REG (Non-Conf),W 77-75,*,32,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,1,1,2,3,1,0,3,3,12,7.6,H,1,1,ryan-larson-1,Ryan Larson,2023
+7,127,7,2022-11-23,College of Charleston,,Kent State,REG (Non-Conf),W 74-72,*,29,5,6,0.833,3,4,0.75,2,2,1.0,1.083,3,3,1.0,0,2,2,5,1,0,6,3,16,11.7,H,1,1,ryan-larson-1,Ryan Larson,2023
+8,128,8,2022-11-29,College of Charleston,,Old Dominion,REG (Non-Conf),W 75-60,*,29,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,2,1.0,0,2,2,7,3,0,4,1,17,17.2,H,1,1,ryan-larson-1,Ryan Larson,2023
+9,129,9,2022-12-03,College of Charleston,@,The Citadel,REG (Non-Conf),W 79-57,*,32,3,9,0.333,2,6,0.333,1,3,0.333,0.444,2,3,0.667,2,5,7,1,0,0,1,1,10,6.7,A,1,1,ryan-larson-1,Ryan Larson,2023
+10,130,10,2022-12-06,College of Charleston,@,Presbyterian,REG (Non-Conf),W 67-62,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,6,6,1.0,2,4,6,1,2,0,4,1,15,11.9,A,1,1,ryan-larson-1,Ryan Larson,2023
+11,131,11,2022-12-11,College of Charleston,,North Greenville,REG (Non-Conf),W 96-67,*,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,1,2,8,0,0,1,0,4,7.6,H,1,1,ryan-larson-1,Ryan Larson,2023
+12,132,12,2022-12-14,College of Charleston,,Stetson,REG (Non-Conf),W 65-60,*,28,3,6,0.5,1,4,0.25,2,2,1.0,0.583,7,8,0.875,2,1,3,1,0,0,2,0,14,11.0,H,1,1,ryan-larson-1,Ryan Larson,2023
+13,133,13,2022-12-19,College of Charleston,@,Coastal Carolina,REG (Non-Conf),W 83-69,*,31,2,8,0.25,1,6,0.167,1,2,0.5,0.313,2,2,1.0,2,4,6,7,2,0,4,1,7,7.3,A,1,1,ryan-larson-1,Ryan Larson,2023
+14,134,14,2022-12-29,College of Charleston,,Hampton,REG (Conf),W 89-61,*,25,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,2,1.0,2,2,4,4,3,0,2,1,11,11.7,H,1,1,ryan-larson-1,Ryan Larson,2023
+15,135,15,2022-12-31,College of Charleston,@,Towson,REG (Conf),W 76-74 (OT),*,35,4,8,0.5,4,7,0.571,0,1,0.0,0.75,0,0,,0,1,1,5,1,0,4,1,12,8.4,A,1,1,ryan-larson-1,Ryan Larson,2023
+16,136,16,2023-01-04,College of Charleston,@,North Carolina A&T,REG (Conf),W 92-79,*,28,3,9,0.333,2,6,0.333,1,3,0.333,0.444,0,0,,1,0,1,4,0,0,0,0,8,6.4,A,1,1,ryan-larson-1,Ryan Larson,2023
+17,137,17,2023-01-07,College of Charleston,,Delaware,REG (Conf),W 75-64,*,25,4,9,0.444,1,5,0.2,3,4,0.75,0.5,3,5,0.6,0,0,0,6,0,0,1,2,12,8.9,H,1,1,ryan-larson-1,Ryan Larson,2023
+18,138,18,2023-01-11,College of Charleston,@,UNC Wilmington,REG (Conf),W 71-69,*,28,3,12,0.25,1,8,0.125,2,4,0.5,0.292,6,7,0.857,3,1,4,7,1,0,0,3,13,12.5,A,1,1,ryan-larson-1,Ryan Larson,2023
+19,139,19,2023-01-14,College of Charleston,,Elon,REG (Conf),W 78-60,*,31,4,12,0.333,3,10,0.3,1,2,0.5,0.458,1,2,0.5,1,1,2,3,1,0,2,1,12,6.5,H,1,1,ryan-larson-1,Ryan Larson,2023
+20,140,20,2023-01-16,College of Charleston,,William & Mary,REG (Conf),W 82-54,*,24,1,8,0.125,0,7,0.0,1,1,1.0,0.125,1,2,0.5,3,4,7,5,2,1,2,0,3,4.9,H,1,1,ryan-larson-1,Ryan Larson,2023
+21,141,21,2023-01-19,College of Charleston,@,Monmouth,REG (Conf),W 69-55,*,29,1,9,0.111,1,8,0.125,0,1,0.0,0.167,0,2,0.0,1,4,5,5,3,0,2,1,3,2.3,A,1,1,ryan-larson-1,Ryan Larson,2023
+22,142,22,2023-01-21,College of Charleston,@,Northeastern,REG (Conf),W 87-61,*,25,5,8,0.625,2,5,0.4,3,3,1.0,0.75,0,0,,1,3,4,4,3,0,2,1,12,13.4,A,1,1,ryan-larson-1,Ryan Larson,2023
+23,143,23,2023-01-28,College of Charleston,,Hofstra,REG (Conf),L 81-85,*,30,5,14,0.357,1,7,0.143,4,7,0.571,0.393,4,5,0.8,2,3,5,6,1,0,0,5,15,12.3,H,0,1,ryan-larson-1,Ryan Larson,2023
+24,144,24,2023-02-02,College of Charleston,@,Drexel,REG (Conf),L 69-70,*,31,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,1,0,1,2,1,0,3,2,10,3.2,A,0,1,ryan-larson-1,Ryan Larson,2023
+25,145,25,2023-02-04,College of Charleston,@,Delaware,REG (Conf),W 84-67,*,29,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,1,3,4,5,4,0,3,0,6,7.3,A,1,1,ryan-larson-1,Ryan Larson,2023
+26,146,26,2023-02-08,College of Charleston,,UNC Wilmington,REG (Conf),W 93-61,*,27,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,2,2,3,1,1,1,2,6,5.2,H,1,1,ryan-larson-1,Ryan Larson,2023
+27,147,27,2023-02-11,College of Charleston,@,Hampton,REG (Conf),W 83-70,*,29,7,12,0.583,3,6,0.5,4,6,0.667,0.708,0,0,,2,1,3,6,1,0,1,2,17,16.5,A,1,1,ryan-larson-1,Ryan Larson,2023
+28,148,28,2023-02-13,College of Charleston,,Northeastern,REG (Conf),W 99-63,*,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,4,5,4,2,1,2,1,2,6.0,H,1,1,ryan-larson-1,Ryan Larson,2023
+29,149,29,2023-02-16,College of Charleston,@,Elon,REG (Conf),W 88-66,*,26,4,8,0.5,3,7,0.429,1,1,1.0,0.688,2,4,0.5,2,3,5,5,4,0,0,0,13,18.0,A,1,1,ryan-larson-1,Ryan Larson,2023
+30,150,30,2023-02-23,College of Charleston,,Towson,REG (Conf),W 83-75,*,28,3,5,0.6,1,3,0.333,2,2,1.0,0.7,5,6,0.833,2,3,5,4,2,0,3,2,12,12.6,H,1,1,ryan-larson-1,Ryan Larson,2023
+31,151,31,2023-02-25,College of Charleston,,Stony Brook,REG (Conf),W 92-52,*,23,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,5,1,0,2,0,2,2.4,H,1,1,ryan-larson-1,Ryan Larson,2023
+32,152,32,2023-03-05,College of Charleston,N,Stony Brook,CTOURN,W 74-52,*,27,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,1,2,5,1,0,2,2,11,9.0,N,1,0,ryan-larson-1,Ryan Larson,2023
+33,153,33,2023-03-06,College of Charleston,N,Towson,CTOURN,W 77-72,*,30,3,9,0.333,0,4,0.0,3,5,0.6,0.333,6,7,0.857,0,2,2,1,2,0,0,0,12,9.8,N,1,0,ryan-larson-1,Ryan Larson,2023
+34,154,34,2023-03-07,College of Charleston,N,UNC Wilmington,CTOURN,W 63-58,*,34,9,16,0.563,4,9,0.444,5,7,0.714,0.688,1,2,0.5,3,0,3,1,4,0,3,2,23,18.0,N,1,0,ryan-larson-1,Ryan Larson,2023
+35,155,35,2023-03-16,College of Charleston,N,San Diego State,ROUND-64,L 57-63,*,29,4,12,0.333,1,6,0.167,3,6,0.5,0.375,2,2,1.0,1,2,3,1,1,0,1,3,11,5.0,N,0,0,ryan-larson-1,Ryan Larson,2023

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,1,2016-11-12,Notre Dame,,Bryant,REG (Non-Conf),W 89-64,*,31,6,14,0.429,1,5,0.2,5,9,0.556,0.464,3,4,0.75,1,1,2,2,0,0,0,4,16,9.0,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+2,103,2,2016-11-16,Notre Dame,,Seattle,REG (Non-Conf),W 92-49,*,24,4,6,0.667,3,4,0.75,1,2,0.5,0.917,2,2,1.0,0,2,2,4,0,0,2,2,13,11.0,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+3,104,3,2016-11-18,Notre Dame,,Loyola (MD),REG (Non-Conf),W 83-48,*,27,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,2,0,2,4,3,0,1,1,9,10.1,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+4,105,4,2016-11-21,Notre Dame,N,Colorado,REG (Non-Conf),W 89-83,*,33,6,14,0.429,0,3,0.0,6,11,0.545,0.429,5,5,1.0,0,0,0,3,1,0,1,1,17,11.3,N,1,1,steve-vasturia-1,Steve Vasturia,2017
+5,106,5,2016-11-22,Notre Dame,N,Northwestern,REG (Non-Conf),W 70-66,*,35,6,11,0.545,3,5,0.6,3,6,0.5,0.682,3,3,1.0,1,7,8,3,4,0,3,2,18,17.8,N,1,1,steve-vasturia-1,Steve Vasturia,2017
+6,107,6,2016-11-26,Notre Dame,,Chicago State,REG (Non-Conf),W 91-60,*,29,8,13,0.615,3,5,0.6,5,8,0.625,0.731,0,0,,2,1,3,3,3,0,1,1,19,18.5,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+7,108,7,2016-11-29,Notre Dame,,Iowa,REG (Non-Conf),W 92-78,*,38,6,12,0.5,3,5,0.6,3,7,0.429,0.625,7,7,1.0,2,7,9,3,1,0,2,3,22,19.4,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+8,109,8,2016-12-04,Notre Dame,,North Carolina A&T,REG (Non-Conf),W 107-53,*,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,2,1.0,1,0,1,4,1,0,2,0,13,12.2,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+9,110,9,2016-12-06,Notre Dame,,IPFW,REG (Non-Conf),W 87-72,*,29,6,11,0.545,1,4,0.25,5,7,0.714,0.591,8,8,1.0,0,4,4,2,1,0,0,2,21,18.5,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+10,111,10,2016-12-10,Notre Dame,N,Villanova,REG (Non-Conf),L 66-74,*,37,7,15,0.467,2,6,0.333,5,9,0.556,0.533,2,2,1.0,0,0,0,3,2,0,2,2,18,11.6,N,0,1,steve-vasturia-1,Steve Vasturia,2017
+11,112,11,2016-12-17,Notre Dame,N,Purdue,REG (Non-Conf),L 81-86,*,33,1,8,0.125,1,3,0.333,0,5,0.0,0.188,0,0,,0,2,2,3,0,0,3,5,3,-4.5,N,0,1,steve-vasturia-1,Steve Vasturia,2017
+12,113,12,2016-12-19,Notre Dame,,Colgate,REG (Non-Conf),W 77-62,*,35,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,2,0.5,1,5,6,4,1,0,1,2,7,8.1,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+13,114,13,2016-12-28,Notre Dame,,Saint Peter's,REG (Non-Conf),W 63-55,*,36,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,0,4,4,3,0,0,1,0,11,10.3,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+14,115,14,2016-12-31,Notre Dame,@,Pittsburgh,REG (Conf),W 78-77 (OT),*,36,4,12,0.333,3,8,0.375,1,4,0.25,0.458,4,4,1.0,1,1,2,5,2,0,3,4,15,10.1,A,1,1,steve-vasturia-1,Steve Vasturia,2017
+15,116,15,2017-01-04,Notre Dame,,Louisville,REG (Conf),W 77-70,*,37,9,15,0.6,2,4,0.5,7,11,0.636,0.667,4,4,1.0,0,6,6,1,1,1,3,2,24,17.5,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+16,117,16,2017-01-07,Notre Dame,,Clemson,REG (Conf),W 75-70,*,39,6,15,0.4,2,6,0.333,4,9,0.444,0.467,0,0,,0,3,3,2,2,0,0,1,14,9.8,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+17,118,17,2017-01-12,Notre Dame,@,Miami (FL),REG (Conf),W 67-62,*,35,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,1,5,6,6,2,0,1,1,10,12.0,A,1,1,steve-vasturia-1,Steve Vasturia,2017
+18,119,18,2017-01-14,Notre Dame,@,Virginia Tech,REG (Conf),W 76-71,*,36,8,14,0.571,3,4,0.75,5,10,0.5,0.679,1,2,0.5,1,3,4,4,1,0,2,3,20,15.2,A,1,1,steve-vasturia-1,Steve Vasturia,2017
+19,120,19,2017-01-18,Notre Dame,@,Florida State,REG (Conf),L 80-83,*,33,6,15,0.4,4,6,0.667,2,9,0.222,0.533,2,2,1.0,0,3,3,1,1,1,4,2,18,8.4,A,0,1,steve-vasturia-1,Steve Vasturia,2017
+20,121,20,2017-01-21,Notre Dame,,Syracuse,REG (Conf),W 84-66,*,36,3,9,0.333,1,6,0.167,2,3,0.667,0.389,4,4,1.0,0,3,3,4,1,0,2,3,11,7.4,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+21,122,21,2017-01-24,Notre Dame,,Virginia,REG (Conf),L 54-71,*,37,4,10,0.4,2,5,0.4,2,5,0.4,0.5,4,4,1.0,0,5,5,4,0,0,2,0,14,10.9,H,0,1,steve-vasturia-1,Steve Vasturia,2017
+22,123,22,2017-01-28,Notre Dame,@,Georgia Tech,REG (Conf),L 60-62,*,39,1,7,0.143,1,4,0.25,0,3,0.0,0.214,2,2,1.0,1,3,4,3,3,0,3,3,5,3.0,A,0,1,steve-vasturia-1,Steve Vasturia,2017
+23,124,23,2017-01-30,Notre Dame,,Duke,REG (Conf),L 74-84,*,36,1,9,0.111,0,5,0.0,1,4,0.25,0.111,5,6,0.833,0,2,2,4,0,0,1,3,7,1.9,H,0,1,steve-vasturia-1,Steve Vasturia,2017
+24,125,24,2017-02-05,Notre Dame,@,North Carolina,REG (Conf),L 76-83,*,38,4,11,0.364,0,4,0.0,4,7,0.571,0.364,1,2,0.5,1,1,2,4,0,1,3,4,9,2.4,A,0,1,steve-vasturia-1,Steve Vasturia,2017
+25,126,25,2017-02-07,Notre Dame,,Wake Forest,REG (Conf),W 88-81,*,35,4,7,0.571,3,5,0.6,1,2,0.5,0.786,6,7,0.857,1,6,7,3,0,0,1,2,17,16.1,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+26,127,26,2017-02-11,Notre Dame,,Florida State,REG (Conf),W 84-72,*,38,6,10,0.6,0,4,0.0,6,6,1.0,0.6,3,3,1.0,0,7,7,2,2,0,2,2,15,13.1,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+27,128,27,2017-02-14,Notre Dame,@,Boston College,REG (Conf),W 84-76,*,34,4,13,0.308,1,7,0.143,3,6,0.5,0.346,6,6,1.0,1,5,6,7,1,0,1,3,15,13.4,A,1,1,steve-vasturia-1,Steve Vasturia,2017
+28,129,28,2017-02-18,Notre Dame,@,NC State,REG (Conf),W 81-72,*,35,3,8,0.375,1,4,0.25,2,4,0.5,0.438,4,4,1.0,1,4,5,2,4,0,1,2,11,12.1,A,1,1,steve-vasturia-1,Steve Vasturia,2017
+29,130,29,2017-02-26,Notre Dame,,Georgia Tech,REG (Conf),W 64-60,*,36,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,1,0.0,0,5,5,5,1,0,2,2,7,4.7,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+30,131,30,2017-03-01,Notre Dame,,Boston College,REG (Conf),W 82-66,*,35,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,0,,1,4,5,3,0,0,0,0,10,8.6,H,1,1,steve-vasturia-1,Steve Vasturia,2017
+31,132,31,2017-03-04,Notre Dame,@,Louisville,REG (Conf),L 64-71,*,37,3,10,0.3,0,4,0.0,3,6,0.5,0.3,2,2,1.0,0,2,2,4,0,0,2,3,8,2.4,A,0,1,steve-vasturia-1,Steve Vasturia,2017
+32,133,32,2017-03-09,Notre Dame,N,Virginia,CTOURN,W 71-58,*,37,4,6,0.667,0,2,0.0,4,4,1.0,0.667,4,4,1.0,1,4,5,5,1,0,0,2,12,15.0,N,1,0,steve-vasturia-1,Steve Vasturia,2017
+33,134,33,2017-03-10,Notre Dame,N,Florida State,CTOURN,W 77-73,*,34,7,13,0.538,4,5,0.8,3,8,0.375,0.692,0,0,,1,1,2,2,3,1,3,4,18,13.2,N,1,0,steve-vasturia-1,Steve Vasturia,2017
+34,135,34,2017-03-11,Notre Dame,N,Duke,CTOURN,L 69-75,*,38,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,2,2,4,1,0,2,2,5,1.1,N,0,0,steve-vasturia-1,Steve Vasturia,2017
+35,136,35,2017-03-16,Notre Dame,N,Princeton,ROUND-64,W 60-58,*,37,3,12,0.25,1,2,0.5,2,10,0.2,0.292,3,4,0.75,3,5,8,1,0,0,0,0,10,6.7,N,1,0,steve-vasturia-1,Steve Vasturia,2017
+36,137,36,2017-03-18,Notre Dame,N,West Virginia,ROUND-32,L 71-83,*,34,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,2,1.0,1,3,4,2,0,0,1,2,11,7.5,N,0,0,steve-vasturia-1,Steve Vasturia,2017

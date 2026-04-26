@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2023-11-06,Colgate,,Brown,REG (Non-Conf),W 72-70,,22,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,1,5,6,0,0,0,0,2,9,7.4,H,1,1,brady-cummins-1,Brady Cummins,2024
+2,17,2,2023-11-14,Colgate,@,Syracuse,REG (Non-Conf),L 75-79,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,0,0,0,1,2,2.2,A,0,1,brady-cummins-1,Brady Cummins,2024
+3,18,7,2023-11-29,Colgate,,Binghamton,REG (Non-Conf),W 84-49,,15,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,3,2,6,0.2,H,1,1,brady-cummins-1,Brady Cummins,2024
+4,19,8,2023-12-02,Colgate,@,Arizona,REG (Non-Conf),L 55-82,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,1,1,1,0,0,0,0,3,1.9,A,0,1,brady-cummins-1,Brady Cummins,2024
+5,20,9,2023-12-06,Colgate,,Vermont St.–Lyndon,REG (Non-Conf),W 115-37,,16,6,10,0.6,1,2,0.5,5,8,0.625,0.65,1,1,1.0,1,2,3,2,4,0,0,0,14,16.1,H,1,1,brady-cummins-1,Brady Cummins,2024
+6,21,10,2023-12-09,Colgate,@,Vermont,REG (Non-Conf),W 77-71,,22,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,1,0.0,0,2,2,0,0,0,2,3,11,5.1,A,1,1,brady-cummins-1,Brady Cummins,2024
+7,22,11,2023-12-17,Colgate,@,Illinois,REG (Non-Conf),L 57-74,,21,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,0,0,2,0,0,1,2,6,2.6,A,0,1,brady-cummins-1,Brady Cummins,2024
+8,23,12,2023-12-21,Colgate,@,Iona,REG (Non-Conf),L 65-85,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,4,0.5,0,0,0,0,0,0,1,1,4,0.1,A,0,1,brady-cummins-1,Brady Cummins,2024
+9,24,13,2023-12-30,Colgate,@,Cornell,REG (Non-Conf),L 64-77,,19,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,3,0.333,2,2,4,0,0,0,1,1,7,1.7,A,0,1,brady-cummins-1,Brady Cummins,2024
+10,25,14,2024-01-03,Colgate,,Loyola (MD),REG (Conf),W 78-55,*,26,3,7,0.429,0,2,0.0,3,5,0.6,0.429,3,4,0.75,2,5,7,4,0,0,1,0,9,9.6,H,1,1,brady-cummins-1,Brady Cummins,2024
+11,26,15,2024-01-06,Colgate,@,Navy,REG (Conf),W 80-72,,21,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,3,3,3,1,0,1,0,8,9.4,A,1,1,brady-cummins-1,Brady Cummins,2024
+12,27,16,2024-01-10,Colgate,,Lafayette,REG (Conf),L 64-69,,18,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,1,0.0,0,0,0,1,1,0,2,1,2,-2.2,H,0,1,brady-cummins-1,Brady Cummins,2024
+13,28,17,2024-01-13,Colgate,@,Bucknell,REG (Conf),W 84-73,*,29,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,6,0.667,2,3,5,1,0,0,1,3,11,7.3,A,1,1,brady-cummins-1,Brady Cummins,2024
+14,29,18,2024-01-17,Colgate,@,Army,REG (Conf),W 64-56,*,24,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,1,5,6,1,0,0,0,0,2,0.4,A,1,1,brady-cummins-1,Brady Cummins,2024
+15,30,19,2024-01-20,Colgate,,Boston University,REG (Conf),W 75-59,*,20,4,6,0.667,2,3,0.667,2,3,0.667,0.833,1,2,0.5,0,4,4,0,0,1,0,1,11,9.5,H,1,1,brady-cummins-1,Brady Cummins,2024
+16,31,20,2024-01-22,Colgate,,Lehigh,REG (Conf),W 60-57,*,18,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,2,2,1,0,0,1,4,7,3.4,H,1,1,brady-cummins-1,Brady Cummins,2024
+17,32,21,2024-01-27,Colgate,@,American,REG (Conf),W 73-54,*,29,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,4,0.5,0,2,2,0,0,0,1,3,11,3.9,A,1,1,brady-cummins-1,Brady Cummins,2024
+18,33,22,2024-01-31,Colgate,,Army,REG (Conf),W 74-55,*,23,6,11,0.545,4,7,0.571,2,4,0.5,0.727,0,2,0.0,0,3,3,1,0,0,1,0,16,10.5,H,1,1,brady-cummins-1,Brady Cummins,2024
+19,34,23,2024-02-03,Colgate,,Navy,REG (Conf),W 88-64,*,25,4,8,0.5,4,7,0.571,0,1,0.0,0.75,0,0,,0,3,3,3,1,0,1,1,12,10.6,H,1,1,brady-cummins-1,Brady Cummins,2024
+20,35,24,2024-02-07,Colgate,@,Boston University,REG (Conf),W 74-64,*,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,0,3,3,0,0,0,2,3,5,0.3,A,1,1,brady-cummins-1,Brady Cummins,2024
+21,36,26,2024-02-14,Colgate,,Holy Cross,REG (Conf),W 85-55,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,3,0,0,2,0,4,2.3,H,1,1,brady-cummins-1,Brady Cummins,2024
+22,37,27,2024-02-17,Colgate,,Bucknell,REG (Conf),W 62-50,*,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,6,8,0.75,1,2,3,1,0,1,0,1,10,8.8,H,1,1,brady-cummins-1,Brady Cummins,2024
+23,38,28,2024-02-19,Colgate,@,Lafayette,REG (Conf),W 67-62,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,0,0,0,2,0,1,1,5,5,1.4,A,1,1,brady-cummins-1,Brady Cummins,2024
+24,39,29,2024-02-25,Colgate,,American,REG (Conf),L 64-66,,25,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,0,0,1,1,0,2,1,5,2.3,H,0,1,brady-cummins-1,Brady Cummins,2024
+25,40,30,2024-02-28,Colgate,@,Holy Cross,REG (Conf),W 77-58,*,21,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,0,0,2,0,0,0,1,6,4.0,A,1,1,brady-cummins-1,Brady Cummins,2024
+26,41,31,2024-03-02,Colgate,@,Lehigh,REG (Conf),W 63-60,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,5,0.4,0,4,4,0,0,0,1,1,8,3.6,A,1,1,brady-cummins-1,Brady Cummins,2024
+27,42,32,2024-03-07,Colgate,,Holy Cross,CTOURN,W 81-64,*,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,0,0,1,0,0,4,3.0,H,1,0,brady-cummins-1,Brady Cummins,2024
+28,43,33,2024-03-10,Colgate,,Bucknell,CTOURN,W 68-65,*,21,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-3.3,H,1,0,brady-cummins-1,Brady Cummins,2024
+29,44,34,2024-03-13,Colgate,,Lehigh,CTOURN,W 74-55,*,20,8,9,0.889,1,1,1.0,7,8,0.875,0.944,2,2,1.0,1,3,4,0,1,0,0,1,19,18.1,H,1,0,brady-cummins-1,Brady Cummins,2024
+30,45,35,2024-03-22,Colgate,N,Baylor,ROUND-64,L 67-92,*,23,1,5,0.2,0,0,,1,5,0.2,0.2,0,1,0.0,1,2,3,0,1,0,0,3,2,-0.4,N,0,0,brady-cummins-1,Brady Cummins,2024

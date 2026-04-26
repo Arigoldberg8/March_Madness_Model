@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,25,1,2017-11-10,St. Bonaventure,,Niagara,REG (Non-Conf),L 75-77,,11,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,2,0,2,0,0,0,1,4,4,2.5,H,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+2,26,2,2017-11-18,St. Bonaventure,,Jackson State,REG (Non-Conf),W 72-58,,14,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,2,3,0,0,0,1,4,4,2.1,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+3,27,3,2017-11-20,St. Bonaventure,,Maryland Eastern Shore,REG (Non-Conf),W 96-48,*,25,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,4,6,1,1,2,0,0,4,7.7,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+4,28,4,2017-11-24,St. Bonaventure,N,Maryland,REG (Non-Conf),W 63-61,,16,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,0,1,0,1,0,0,3,4,1.8,N,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+5,29,5,2017-11-25,St. Bonaventure,N,TCU,REG (Non-Conf),L 79-89,,9,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,1,2,2,-0.2,N,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+6,30,6,2017-11-29,St. Bonaventure,@,Siena,REG (Non-Conf),W 75-55,,17,4,6,0.667,0,0,4,6,0.667,0.667,0,2,0.0,1,2,3,0,1,0,1,1,8,5.5,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+7,31,7,2017-12-02,St. Bonaventure,@,Buffalo,REG (Non-Conf),W 73-62,,13,2,6,0.333,0,0,2,6,0.333,0.333,0,1,0.0,2,2,4,1,0,0,0,4,4,1.3,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+8,32,8,2017-12-06,St. Bonaventure,@,Canisius,REG (Non-Conf),W 73-65,,13,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,2,4,0,0,0,0,2,6,5.6,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+9,33,9,2017-12-09,St. Bonaventure,,Yale,REG (Non-Conf),W 75-67,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,0,3,2,-0.3,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+10,34,10,2017-12-16,St. Bonaventure,N,Vermont,REG (Non-Conf),W 81-79,,16,6,6,1.0,0,0,6,6,1.0,1.0,1,2,0.5,0,1,1,0,0,1,0,1,13,11.4,N,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+11,35,11,2017-12-20,St. Bonaventure,,Northeastern,REG (Non-Conf),W 84-65,,15,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,0,1,0,0,0,2,5,4,-0.3,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+12,36,12,2017-12-22,St. Bonaventure,@,Syracuse,REG (Non-Conf),W 60-57 (OT),,10,1,4,0.25,0,0,1,4,0.25,0.25,0,1,0.0,1,1,2,0,0,0,0,5,2,-1.8,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+13,37,13,2017-12-30,St. Bonaventure,,Massachusetts,REG (Conf),W 98-78,,13,3,7,0.429,0,0,3,7,0.429,0.429,3,3,1.0,2,1,3,0,0,0,1,2,9,5.2,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+14,38,14,2018-01-03,St. Bonaventure,@,Dayton,REG (Conf),L 72-82,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,A,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+15,39,15,2018-01-06,St. Bonaventure,@,Saint Joseph's,REG (Conf),L 78-85,,2,0,0,,0,0,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,A,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+16,40,16,2018-01-10,St. Bonaventure,,Fordham,REG (Conf),W 77-61,,9,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,1,2,0,0,0,0,1,6,4.3,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+17,41,17,2018-01-13,St. Bonaventure,@,Rhode Island,REG (Conf),L 73-87,,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,1,0,3,1,2,2,2.6,A,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+18,42,18,2018-01-19,St. Bonaventure,@,Davidson,REG (Conf),L 73-83,,10,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,2,3,0,0,0,1,1,4,1.9,A,0,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+19,43,19,2018-01-24,St. Bonaventure,,Saint Joseph's,REG (Conf),W 70-67,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,2,4,1,0,1,1,3,2,2.9,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+20,44,20,2018-01-28,St. Bonaventure,,George Washington,REG (Conf),W 70-52,,15,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,3,3,6,2,1,2,1,2,1,4.2,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+21,45,21,2018-01-31,St. Bonaventure,@,George Mason,REG (Conf),W 85-69,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+22,46,22,2018-02-03,St. Bonaventure,@,Duquesne,REG (Conf),W 84-81,,8,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+23,47,23,2018-02-07,St. Bonaventure,,Saint Louis,REG (Conf),W 79-56,,24,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,2,2,0,1,1,0,5,8,5.0,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+24,48,24,2018-02-10,St. Bonaventure,,Richmond,REG (Conf),W 97-88,*,26,4,8,0.5,0,0,4,8,0.5,0.5,4,4,1.0,3,5,8,0,0,1,0,5,12,10.3,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+25,49,25,2018-02-13,St. Bonaventure,@,La Salle,REG (Conf),W 79-68,,8,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,1,0,0,1,2,2.2,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+26,50,26,2018-02-16,St. Bonaventure,,Rhode Island,REG (Conf),W 77-74,*,13,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,1,1,0,1,1,0,3,4,3.8,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+27,51,27,2018-02-21,St. Bonaventure,,Duquesne,REG (Conf),W 73-67,*,26,3,6,0.5,0,0,3,6,0.5,0.5,7,7,1.0,1,9,10,0,0,1,0,4,13,12.5,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+28,52,28,2018-02-24,St. Bonaventure,@,VCU,REG (Conf),W 68-63,*,15,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,3,2,5,0,0,0,2,4,4,-0.3,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+29,53,29,2018-02-27,St. Bonaventure,,Davidson,REG (Conf),W 117-113 (3OT),*,20,0,5,0.0,0,0,0,5,0.0,0.0,0,4,0.0,1,4,5,0,0,1,1,2,0,-4.3,H,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+30,54,30,2018-03-03,St. Bonaventure,@,Saint Louis,REG (Conf),W 64-56,*,14,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,0,3,3,0,0,0,0,3,1,-1.1,A,1,1,amadi-ikpeze-1,Amadi Ikpeze,2018
+31,55,31,2018-03-09,St. Bonaventure,N,Richmond,CTOURN,W 83-77,*,20,4,8,0.5,0,0,4,8,0.5,0.5,1,3,0.333,0,3,3,0,1,1,0,2,9,6.0,N,1,0,amadi-ikpeze-1,Amadi Ikpeze,2018
+32,56,32,2018-03-10,St. Bonaventure,N,Davidson,CTOURN,L 70-82,*,31,6,9,0.667,0,0,6,9,0.667,0.667,0,4,0.0,5,3,8,0,0,0,0,3,12,9.7,N,0,0,amadi-ikpeze-1,Amadi Ikpeze,2018
+33,57,33,2018-03-13,St. Bonaventure,N,UCLA,FIRST-FOUR,W 65-58,*,15,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,1,2,0,-1.2,N,1,0,amadi-ikpeze-1,Amadi Ikpeze,2018
+34,58,34,2018-03-15,St. Bonaventure,N,Florida,ROUND-64,L 62-77,*,15,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,0,4,4,1,0,1,1,0,3,3.2,N,0,0,amadi-ikpeze-1,Amadi Ikpeze,2018

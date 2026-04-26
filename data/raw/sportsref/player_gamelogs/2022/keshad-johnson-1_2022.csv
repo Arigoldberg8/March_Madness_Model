@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,43,1,2021-11-09,San Diego State,,UC Riverside,REG (Non-Conf),W 66-53,*,17,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,3,0.0,2,0,2,0,1,0,2,2,4,0.4,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+2,44,2,2021-11-12,San Diego State,@,Brigham Young,REG (Non-Conf),L 60-66,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,4,6,0,0,0,3,1,3,-0.6,A,0,1,keshad-johnson-1,Keshad Johnson,2022
+3,45,3,2021-11-18,San Diego State,,Arizona State,REG (Non-Conf),W 65-63,*,23,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,2,1.0,1,2,3,2,1,1,1,3,10,9.6,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+4,46,4,2021-11-20,San Diego State,,UT Arlington,REG (Non-Conf),W 68-62,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,2,5,7,3,0,1,0,2,8,10.9,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+5,47,5,2021-11-25,San Diego State,N,Georgetown,REG (Non-Conf),W 73-56,*,20,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,0,4,4,0,0,0,1,2,8,5.4,N,1,1,keshad-johnson-1,Keshad Johnson,2022
+6,48,6,2021-11-26,San Diego State,N,Southern California,REG (Non-Conf),L 43-58,*,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,3,0.333,1,2,3,1,0,0,0,1,3,2.1,N,0,1,keshad-johnson-1,Keshad Johnson,2022
+7,49,7,2021-11-30,San Diego State,,Long Beach State,REG (Non-Conf),W 72-47,*,18,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,3,3,1,2,0,1,4,8,6.4,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+8,50,8,2021-12-04,San Diego State,@,Michigan,REG (Non-Conf),L 58-72,*,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,3,4,7,0,0,1,1,0,5,4.2,A,0,1,keshad-johnson-1,Keshad Johnson,2022
+9,51,9,2021-12-08,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 66-56,*,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,3,1,1,2,4,2,1.1,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+10,52,10,2021-12-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 63-53,*,30,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,0,2,2,0,2,0,1,0,6,5.9,N,1,1,keshad-johnson-1,Keshad Johnson,2022
+11,53,11,2021-12-22,San Diego State,,UC San Diego,REG (Non-Conf),W 78-57,*,27,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,2,0.0,1,6,7,4,0,3,1,0,13,15.4,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+12,54,12,2022-01-01,San Diego State,@,UNLV,REG (Conf),W 62-55,*,30,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,3,0.667,3,8,11,0,0,1,1,3,10,8.6,A,1,1,keshad-johnson-1,Keshad Johnson,2022
+13,55,13,2022-01-08,San Diego State,,Colorado State,REG (Conf),W 79-49,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,4,6,0.667,2,1,3,1,1,1,2,2,10,8.9,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+14,56,14,2022-01-22,San Diego State,,Boise State,REG (Conf),L 37-42,*,16,0,6,0.0,0,1,0.0,0,5,0.0,0.0,0,0,,2,3,5,0,0,0,2,1,0,-4.3,H,0,1,keshad-johnson-1,Keshad Johnson,2022
+15,57,15,2022-01-24,San Diego State,,UNLV,REG (Conf),W 80-55,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,6,7,1,2,0,0,0,4,8.2,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+16,58,16,2022-01-26,San Diego State,@,Utah State,REG (Conf),L 57-75,*,21,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,0,2,2,0,0,0,0,0,7,4.9,A,0,1,keshad-johnson-1,Keshad Johnson,2022
+17,59,17,2022-01-31,San Diego State,,New Mexico,REG (Conf),W 72-47,*,26,6,10,0.6,0,1,0.0,6,9,0.667,0.6,2,3,0.667,4,6,10,2,1,0,1,1,14,14.6,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+18,60,18,2022-02-04,San Diego State,@,Colorado State,REG (Conf),L 57-58,*,20,1,6,0.167,0,3,0.0,1,3,0.333,0.167,3,5,0.6,3,3,6,1,3,0,3,1,5,3.7,A,0,1,keshad-johnson-1,Keshad Johnson,2022
+19,61,19,2022-02-06,San Diego State,,Nevada,REG (Conf),W 65-63,*,31,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,1,1.0,1,4,5,1,1,2,0,0,7,9.0,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+20,62,20,2022-02-09,San Diego State,@,San Jose State,REG (Conf),W 72-62,*,33,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,2,0.0,1,5,6,0,2,1,2,1,8,7.1,A,1,1,keshad-johnson-1,Keshad Johnson,2022
+21,63,21,2022-02-12,San Diego State,,Air Force,REG (Conf),W 76-64,*,30,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,0,4,4,3,0,0,2,2,11,9.9,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+22,64,22,2022-02-15,San Diego State,,Utah State,REG (Conf),W 75-56,*,19,5,6,0.833,0,0,,5,6,0.833,0.833,4,4,1.0,2,2,4,0,0,0,0,2,14,13.0,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+23,65,23,2022-02-19,San Diego State,@,Fresno State,REG (Conf),W 61-44,*,31,6,10,0.6,1,4,0.25,5,6,0.833,0.65,0,0,,1,4,5,1,0,1,1,0,13,10.7,A,1,1,keshad-johnson-1,Keshad Johnson,2022
+24,66,24,2022-02-22,San Diego State,@,Boise State,REG (Conf),L 57-58,*,25,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,3,3,0,0,0,1,2,5,2.8,A,0,1,keshad-johnson-1,Keshad Johnson,2022
+25,67,25,2022-02-25,San Diego State,,San Jose State,REG (Conf),W 77-52,*,24,4,5,0.8,0,0,,4,5,0.8,0.8,6,6,1.0,2,3,5,3,0,1,2,1,14,14.8,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+26,68,26,2022-02-28,San Diego State,@,Wyoming,REG (Conf),W 73-66,*,19,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,3,3,0,1,0,0,2,6,5.1,A,1,1,keshad-johnson-1,Keshad Johnson,2022
+27,69,27,2022-03-03,San Diego State,,Fresno State,REG (Conf),W 65-64 (2OT),*,42,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,1,1,2,0,0,1,2,0,9,6.0,H,1,1,keshad-johnson-1,Keshad Johnson,2022
+28,70,28,2022-03-05,San Diego State,@,Nevada,REG (Conf),W 79-78,*,29,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,3,3,6,0,1,3,3,1,10,9.7,A,1,1,keshad-johnson-1,Keshad Johnson,2022
+29,71,29,2022-03-10,San Diego State,N,Fresno State,CTOURN,W 53-46,*,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,0,3,3,1,0,1,1,0,3,2.6,N,1,0,keshad-johnson-1,Keshad Johnson,2022
+30,72,30,2022-03-11,San Diego State,N,Colorado State,CTOURN,W 63-58,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,2,5,1,1,0,0,0,3,6.0,N,1,0,keshad-johnson-1,Keshad Johnson,2022
+31,73,31,2022-03-12,San Diego State,N,Boise State,CTOURN,L 52-53,*,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,1,0,0,0,0,0,-1.2,N,0,0,keshad-johnson-1,Keshad Johnson,2022
+32,74,32,2022-03-17,San Diego State,N,Creighton,ROUND-64,L 69-72 (OT),*,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,2,0,2,2,1,1,1,1,6,6.8,N,0,0,keshad-johnson-1,Keshad Johnson,2022

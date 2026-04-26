@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,2,2020-12-03,UC Santa Barbara,,Bethesda CA,REG (Non-Conf),W 123-52,*,16,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,3,3,7,1,0,0,0,9,13.5,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+2,102,3,2020-12-07,UC Santa Barbara,,Loyola Marymount,REG (Non-Conf),W 69-58,*,37,5,13,0.385,3,7,0.429,2,6,0.333,0.5,6,6,1.0,0,4,4,5,1,0,2,1,19,15.2,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+3,103,4,2020-12-12,UC Santa Barbara,@,Loyola Marymount,REG (Non-Conf),L 76-81,*,30,6,9,0.667,3,6,0.5,3,3,1.0,0.833,6,8,0.75,0,3,3,4,1,0,0,2,21,20.2,A,0,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+4,104,5,2020-12-19,UC Santa Barbara,@,Pepperdine,REG (Non-Conf),W 75-63,*,36,7,11,0.636,1,3,0.333,6,8,0.75,0.682,8,9,0.889,1,3,4,8,1,0,3,1,23,22.5,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+5,105,6,2020-12-27,UC Santa Barbara,@,UC Irvine,REG (Conf),L 56-75,*,30,4,10,0.4,1,4,0.25,3,6,0.5,0.45,0,0,,1,0,1,2,1,0,0,2,9,5.9,A,0,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+6,106,7,2020-12-28,UC Santa Barbara,@,UC Irvine,REG (Conf),L 69-73,*,38,5,12,0.417,0,3,0.0,5,9,0.556,0.417,12,12,1.0,2,1,3,5,2,0,4,3,22,17.6,A,0,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+7,107,8,2021-01-01,UC Santa Barbara,,Cal State Fullerton,REG (Conf),W 81-63,*,27,5,12,0.417,1,2,0.5,4,10,0.4,0.458,2,3,0.667,1,0,1,6,2,0,0,1,13,12.7,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+8,108,9,2021-01-02,UC Santa Barbara,,Cal State Fullerton,REG (Conf),W 65-61,*,34,4,10,0.4,1,3,0.333,3,7,0.429,0.45,10,12,0.833,1,2,3,10,5,0,1,3,19,23.9,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+9,109,10,2021-01-15,UC Santa Barbara,,UC San Diego,REG (Conf),W 69-52,*,36,5,14,0.357,1,5,0.2,4,9,0.444,0.393,0,0,,3,4,7,7,4,0,1,1,11,14.0,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+10,110,11,2021-01-16,UC Santa Barbara,,UC San Diego,REG (Conf),W 84-53,*,24,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,0,5,5,6,0,0,2,0,11,12.5,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+11,111,12,2021-01-22,UC Santa Barbara,@,Cal State Northridge,REG (Conf),W 105-58,*,26,6,10,0.6,5,8,0.625,1,2,0.5,0.85,4,4,1.0,0,4,4,3,4,1,1,1,21,23.0,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+12,112,13,2021-01-23,UC Santa Barbara,@,Cal State Northridge,REG (Conf),W 80-66,*,25,10,11,0.909,1,1,1.0,9,10,0.9,0.955,4,4,1.0,0,4,4,1,0,0,3,2,25,19.4,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+13,113,14,2021-01-29,UC Santa Barbara,@,UC Davis,REG (Conf),W 72-51,*,30,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,1,2,3,5,1,1,3,1,11,9.1,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+14,114,15,2021-01-30,UC Santa Barbara,@,UC Davis,REG (Conf),W 89-86 (OT),*,40,8,17,0.471,1,4,0.25,7,13,0.538,0.5,1,1,1.0,0,4,4,4,1,0,2,3,18,11.1,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+15,115,16,2021-02-12,UC Santa Barbara,@,Hawaii,REG (Conf),W 59-50,*,35,4,16,0.25,2,6,0.333,2,10,0.2,0.313,4,5,0.8,0,3,3,4,0,0,1,1,14,6.3,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+16,116,17,2021-02-13,UC Santa Barbara,@,Hawaii,REG (Conf),W 81-74 (OT),*,38,7,13,0.538,2,4,0.5,5,9,0.556,0.615,3,4,0.75,0,4,4,5,2,0,7,4,19,10.4,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+17,117,18,2021-02-19,UC Santa Barbara,,Cal State Bakersfield,REG (Conf),W 71-66,*,33,5,9,0.556,4,5,0.8,1,4,0.25,0.778,6,6,1.0,2,4,6,8,1,0,2,1,20,22.5,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+18,118,19,2021-02-20,UC Santa Barbara,,Cal State Bakersfield,REG (Conf),W 63-44,*,28,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,5,5,7,3,0,2,1,2,7.6,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+19,119,20,2021-02-26,UC Santa Barbara,@,UC Riverside,REG (Conf),W 72-68,*,39,6,14,0.429,0,1,0.0,6,13,0.462,0.429,3,4,0.75,1,2,3,7,0,0,2,0,15,11.4,A,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+20,120,21,2021-02-27,UC Santa Barbara,@,UC Riverside,REG (Conf),L 52-68,*,37,7,15,0.467,1,3,0.333,6,12,0.5,0.5,2,3,0.667,1,0,1,4,1,1,6,5,17,6.1,A,0,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+21,121,22,2021-03-05,UC Santa Barbara,,Cal Poly,REG (Conf),W 71-57,*,31,4,10,0.4,1,5,0.2,3,5,0.6,0.45,6,8,0.75,0,2,2,7,3,0,3,1,15,13.9,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+22,122,23,2021-03-06,UC Santa Barbara,,Cal Poly,REG (Conf),W 70-54,*,29,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,0,2,2,4,2,0,1,1,9,8.3,H,1,1,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+23,123,24,2021-03-11,UC Santa Barbara,N,Long Beach State,CTOURN,W 95-87,*,30,6,12,0.5,2,5,0.4,4,7,0.571,0.583,8,11,0.727,2,3,5,3,2,0,1,2,22,19.4,N,1,0,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+24,124,25,2021-03-12,UC Santa Barbara,N,UC Davis,CTOURN,W 71-55,*,33,6,11,0.545,0,3,0.0,6,8,0.75,0.545,5,7,0.714,0,3,3,4,0,0,1,0,17,13.6,N,1,0,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+25,125,26,2021-03-13,UC Santa Barbara,N,UC Irvine,CTOURN,W 79-63,*,39,7,13,0.538,4,7,0.571,3,6,0.5,0.692,4,5,0.8,0,1,1,3,1,0,1,1,22,17.3,N,1,0,jaquori-mclaughlin-1,Jaquori McLaughlin,2021
+26,126,27,2021-03-20,UC Santa Barbara,N,Creighton,ROUND-64,L 62-63,*,39,4,9,0.444,2,4,0.5,2,5,0.4,0.556,3,5,0.6,2,4,6,7,0,1,2,1,13,13.3,N,0,0,jaquori-mclaughlin-1,Jaquori McLaughlin,2021

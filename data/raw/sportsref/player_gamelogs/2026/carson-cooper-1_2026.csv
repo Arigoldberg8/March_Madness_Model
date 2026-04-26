@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,103,1,2025-11-03,Michigan State,,Colgate,REG (Non-Conf),W 80-69,*,28,4,10,0.4,0,0,,4,10,0.4,0.4,2,4,0.5,3,3,6,0,0,0,2,2,10,4.0,H,1,1,carson-cooper-1,Carson Cooper,2026
+2,104,2,2025-11-08,Michigan State,,Arkansas,REG (Non-Conf),W 69-66,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,1,1,2,2,1,2,0,3,9,9.9,H,1,1,carson-cooper-1,Carson Cooper,2026
+3,105,3,2025-11-13,Michigan State,,San Jose State,REG (Non-Conf),W 79-60,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,5,10,0.5,3,4,7,2,4,1,1,3,17,19.7,H,1,1,carson-cooper-1,Carson Cooper,2026
+4,106,4,2025-11-18,Michigan State,N,Kentucky,REG (Non-Conf),W 83-66,*,23,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,2,5,7,2,0,1,0,2,2,1.7,N,1,1,carson-cooper-1,Carson Cooper,2026
+5,107,5,2025-11-21,Michigan State,,Detroit Mercy,REG (Non-Conf),W 84-56,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,4,4,1.0,2,4,6,0,1,0,2,3,12,11.2,H,1,1,carson-cooper-1,Carson Cooper,2026
+6,108,6,2025-11-25,Michigan State,N,East Carolina,REG (Non-Conf),W 89-56,*,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,4,1.0,3,6,9,2,1,1,1,2,10,13.6,N,1,1,carson-cooper-1,Carson Cooper,2026
+7,109,7,2025-11-27,Michigan State,N,North Carolina,REG (Non-Conf),W 74-58,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,1,5,6,1,0,0,4,3,14,7.1,N,1,1,carson-cooper-1,Carson Cooper,2026
+8,110,8,2025-12-02,Michigan State,,Iowa,REG (Conf),W 71-52,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,4,5,2,0,1,5,2,3,-0.9,H,1,1,carson-cooper-1,Carson Cooper,2026
+9,111,9,2025-12-06,Michigan State,,Duke,REG (Non-Conf),L 60-66,*,32,7,13,0.538,0,0,,7,13,0.538,0.538,2,3,0.667,5,11,16,1,0,1,0,1,16,17.1,H,0,1,carson-cooper-1,Carson Cooper,2026
+10,112,10,2025-12-13,Michigan State,@,Penn State,REG (Conf),W 76-72,*,30,2,8,0.25,0,0,,2,8,0.25,0.25,6,6,1.0,1,5,6,0,0,1,1,1,10,6.7,A,1,1,carson-cooper-1,Carson Cooper,2026
+11,113,11,2025-12-16,Michigan State,,Toledo,REG (Non-Conf),W 92-69,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,6,0.667,0,9,9,3,1,2,3,1,8,8.3,H,1,1,carson-cooper-1,Carson Cooper,2026
+12,114,12,2025-12-20,Michigan State,N,Oakland,REG (Non-Conf),W 79-70,*,24,5,7,0.714,0,0,,5,7,0.714,0.714,5,5,1.0,2,3,5,2,0,3,1,2,15,16.1,N,1,1,carson-cooper-1,Carson Cooper,2026
+13,115,13,2025-12-29,Michigan State,,Cornell,REG (Non-Conf),W 114-97,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,5,7,0.714,5,1,6,2,0,0,1,1,9,10.7,H,1,1,carson-cooper-1,Carson Cooper,2026
+14,116,14,2026-01-02,Michigan State,@,Nebraska,REG (Conf),L 56-58,*,31,2,6,0.333,0,0,,2,6,0.333,0.333,2,5,0.4,6,7,13,1,0,0,4,2,6,3.6,A,0,1,carson-cooper-1,Carson Cooper,2026
+15,117,15,2026-01-05,Michigan State,,Southern California,REG (Conf),W 80-51,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,3,4,0.75,0,4,4,2,1,2,0,2,5,8.5,H,1,1,carson-cooper-1,Carson Cooper,2026
+16,118,16,2026-01-08,Michigan State,,Northwestern,REG (Conf),W 76-66,*,33,6,6,1.0,0,0,,6,6,1.0,1.0,6,8,0.75,1,8,9,0,0,1,1,3,18,17.0,H,1,1,carson-cooper-1,Carson Cooper,2026
+17,119,17,2026-01-13,Michigan State,,Indiana,REG (Conf),W 81-60,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,5,6,0.833,3,4,7,3,1,1,2,4,7,9.1,H,1,1,carson-cooper-1,Carson Cooper,2026
+18,120,18,2026-01-17,Michigan State,@,Washington,REG (Conf),W 80-63,*,28,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,1,5,6,3,2,0,0,1,10,10.9,A,1,1,carson-cooper-1,Carson Cooper,2026
+19,121,19,2026-01-20,Michigan State,@,Oregon,REG (Conf),W 68-52,*,33,8,10,0.8,0,0,,8,10,0.8,0.8,3,4,0.75,2,5,7,1,1,4,2,2,19,19.4,A,1,1,carson-cooper-1,Carson Cooper,2026
+20,122,20,2026-01-24,Michigan State,,Maryland,REG (Conf),W 91-48,*,24,4,8,0.5,1,1,1.0,3,7,0.429,0.563,5,5,1.0,2,6,8,1,3,0,0,0,14,16.9,H,1,1,carson-cooper-1,Carson Cooper,2026
+21,123,21,2026-01-27,Michigan State,@,Rutgers,REG (Conf),W 88-79 (OT),*,37,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,3,11,14,2,0,2,4,1,12,10.8,A,1,1,carson-cooper-1,Carson Cooper,2026
+22,124,22,2026-01-30,Michigan State,,Michigan,REG (Conf),L 71-83,*,26,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,2,2,1,0,1,3,3,6,1.5,H,0,1,carson-cooper-1,Carson Cooper,2026
+23,125,23,2026-02-04,Michigan State,@,Minnesota,REG (Conf),L 73-76,*,20,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,3,5,1,0,0,1,0,0,-0.1,A,0,1,carson-cooper-1,Carson Cooper,2026
+24,126,24,2026-02-07,Michigan State,,Illinois,REG (Conf),W 85-82 (OT),*,37,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,2,7,9,1,0,1,0,1,9,11.5,H,1,1,carson-cooper-1,Carson Cooper,2026
+25,127,25,2026-02-13,Michigan State,@,Wisconsin,REG (Conf),L 71-92,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,6,8,0,0,0,1,4,6,3.6,A,0,1,carson-cooper-1,Carson Cooper,2026
+26,128,26,2026-02-17,Michigan State,,UCLA,REG (Conf),W 82-59,*,25,2,2,1.0,0,0,,2,2,1.0,1.0,8,9,0.889,0,7,7,0,1,2,4,2,12,10.7,H,1,1,carson-cooper-1,Carson Cooper,2026
+27,129,27,2026-02-22,Michigan State,,Ohio State,REG (Conf),W 66-60,*,34,7,10,0.7,0,0,,7,10,0.7,0.7,6,6,1.0,3,8,11,3,0,0,1,1,20,21.0,H,1,1,carson-cooper-1,Carson Cooper,2026
+28,130,28,2026-02-26,Michigan State,@,Purdue,REG (Conf),W 76-74,*,30,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,1,5,6,1,1,1,0,2,15,14.9,A,1,1,carson-cooper-1,Carson Cooper,2026
+29,131,29,2026-03-01,Michigan State,@,Indiana,REG (Conf),W 77-64,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,0,3,3,2,0,0,0,3,4,2.6,A,1,1,carson-cooper-1,Carson Cooper,2026
+30,132,30,2026-03-05,Michigan State,,Rutgers,REG (Conf),W 91-87,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,6,8,0.75,2,4,6,0,0,2,2,2,14,11.8,H,1,1,carson-cooper-1,Carson Cooper,2026
+31,133,31,2026-03-08,Michigan State,@,Michigan,REG (Conf),L 80-90,*,29,8,14,0.571,0,0,,8,14,0.571,0.571,3,4,0.75,3,3,6,2,1,0,2,4,19,13.8,A,0,1,carson-cooper-1,Carson Cooper,2026
+32,134,32,2026-03-13,Michigan State,N,UCLA,CTOURN,L 84-88,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,5,6,0.833,1,4,5,1,1,0,0,2,13,12.1,N,0,0,carson-cooper-1,Carson Cooper,2026

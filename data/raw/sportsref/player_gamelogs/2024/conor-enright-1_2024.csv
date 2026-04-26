@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2023-11-08,Drake,,Lipscomb,REG (Non-Conf),W 85-70,*,27,5,7,0.714,2,2,1.0,3,5,0.6,0.857,1,2,0.5,0,4,4,0,2,0,3,2,13,9.1,H,1,1,conor-enright-1,Conor Enright,2024
+2,37,2,2023-11-14,Drake,,SW Minn. St.,REG (Non-Conf),W 87-67,*,21,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,0,2,3,2.5,H,1,1,conor-enright-1,Conor Enright,2024
+3,38,3,2023-11-19,Drake,N,Oakland,REG (Non-Conf),W 85-77,*,27,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,2,0.5,0,2,2,5,1,0,3,1,7,5.6,N,1,1,conor-enright-1,Conor Enright,2024
+4,39,4,2023-11-20,Drake,N,Stephen F. Austin,REG (Non-Conf),L 68-92,*,20,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,1,2,3,4,1,0,3,3,5,5.6,N,0,1,conor-enright-1,Conor Enright,2024
+5,40,5,2023-11-21,Drake,N,Akron,REG (Non-Conf),W 79-59,*,24,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,5,5,3,1,0,1,2,5,5.1,N,1,1,conor-enright-1,Conor Enright,2024
+6,41,6,2023-11-25,Drake,,Texas Southern,REG (Non-Conf),W 77-71,*,17,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,2,2,4,0,0,0,1,4,5,1.0,H,1,1,conor-enright-1,Conor Enright,2024
+7,42,7,2023-11-29,Drake,@,Valparaiso,REG (Conf),W 83-65,*,20,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,3,3,3,1,0,1,1,8,6.9,A,1,1,conor-enright-1,Conor Enright,2024
+8,43,8,2023-12-02,Drake,,Missouri State,REG (Conf),W 74-57,*,21,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,6,6,5,1,0,0,2,8,9.8,H,1,1,conor-enright-1,Conor Enright,2024
+9,44,9,2023-12-06,Drake,,Saint Louis,REG (Non-Conf),W 75-69,*,19,2,6,0.333,2,5,0.4,0,1,0.0,0.5,1,2,0.5,0,2,2,2,1,1,3,5,7,1.9,H,1,1,conor-enright-1,Conor Enright,2024
+10,45,10,2023-12-09,Drake,N,Nevada,REG (Non-Conf),W 72-53,*,30,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,3,3,2,0,0,1,0,5,3.6,N,1,1,conor-enright-1,Conor Enright,2024
+11,46,11,2023-12-14,Drake,,Grambling State,REG (Non-Conf),W 68-56,*,30,6,8,0.75,4,6,0.667,2,2,1.0,1.0,2,2,1.0,0,5,5,1,3,0,1,3,18,17.8,H,1,1,conor-enright-1,Conor Enright,2024
+12,47,12,2023-12-19,Drake,,Alcorn State,REG (Non-Conf),W 92-55,*,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,1,0,1,0,1,2,3.7,H,1,1,conor-enright-1,Conor Enright,2024
+13,48,14,2024-01-02,Drake,,Illinois State,REG (Conf),W 88-71,*,25,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,3,3,2,0,0,2,2,10,7.6,H,1,1,conor-enright-1,Conor Enright,2024
+14,49,15,2024-01-07,Drake,@,Belmont,REG (Conf),L 65-87,*,22,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,1,0,0,3,2,2,-2.2,A,0,1,conor-enright-1,Conor Enright,2024
+15,50,16,2024-01-10,Drake,,Indiana State,REG (Conf),W 89-78,*,32,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,0,3,3,3,3,0,1,3,3,4.3,H,1,1,conor-enright-1,Conor Enright,2024
+16,51,17,2024-01-13,Drake,@,Southern Illinois,REG (Conf),W 76-58,*,29,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,4,0.5,1,3,4,4,0,0,1,2,8,7.5,A,1,1,conor-enright-1,Conor Enright,2024
+17,52,18,2024-01-17,Drake,@,Illinois State,REG (Conf),W 77-56,*,26,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,2,1.0,0,2,2,3,1,0,0,1,9,11.4,A,1,1,conor-enright-1,Conor Enright,2024
+18,53,19,2024-01-20,Drake,,Evansville,REG (Conf),W 97-48,*,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,4,4,3,2,0,1,0,2,4.6,H,1,1,conor-enright-1,Conor Enright,2024
+19,54,20,2024-01-24,Drake,@,Missouri State,REG (Conf),L 80-83 (2OT),*,38,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,2,1.0,0,1,1,6,0,0,2,3,12,10.0,A,0,1,conor-enright-1,Conor Enright,2024
+20,55,21,2024-01-27,Drake,,Northern Iowa,REG (Conf),W 77-63,*,38,4,12,0.333,4,10,0.4,0,2,0.0,0.5,2,2,1.0,0,3,3,1,4,0,1,3,14,10.6,H,1,1,conor-enright-1,Conor Enright,2024
+21,56,22,2024-01-31,Drake,,Valparaiso,REG (Conf),W 81-70,*,29,0,6,0.0,0,2,0.0,0,4,0.0,0.0,3,4,0.75,0,5,5,4,0,0,1,4,3,0.1,H,1,1,conor-enright-1,Conor Enright,2024
+22,57,23,2024-02-03,Drake,@,Indiana State,REG (Conf),L 67-75,*,35,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,2,2,2,1,0,1,4,5,1.6,A,0,1,conor-enright-1,Conor Enright,2024
+23,58,25,2024-02-10,Drake,@,Bradley,REG (Conf),W 74-67,*,28,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,2,8,10,8,0,0,1,1,3,7.2,A,1,1,conor-enright-1,Conor Enright,2024
+24,59,26,2024-02-13,Drake,@,Evansville,REG (Conf),W 78-75,*,26,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,1,1,2,3,1,0,1,2,6,4.2,A,1,1,conor-enright-1,Conor Enright,2024
+25,60,27,2024-02-18,Drake,,Murray State,REG (Conf),W 95-72,*,24,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,0,1,1,6,0,0,2,3,10,6.9,H,1,1,conor-enright-1,Conor Enright,2024
+26,61,28,2024-02-21,Drake,,Belmont,REG (Conf),W 84-69,*,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,3,0.667,0,1,1,7,1,0,2,1,9,10.1,H,1,1,conor-enright-1,Conor Enright,2024
+27,62,29,2024-02-24,Drake,@,Northern Iowa,REG (Conf),L 77-91,*,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,1,3,0,1,3,5,4.8,A,0,1,conor-enright-1,Conor Enright,2024
+28,63,30,2024-02-28,Drake,@,Illinois–Chicago,REG (Conf),W 107-105 (3OT),*,41,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,3,4,3,1,2,1,4,8,7.1,A,1,1,conor-enright-1,Conor Enright,2024
+29,64,31,2024-03-03,Drake,,Bradley,REG (Conf),W 74-66,*,28,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,5,1,0,0,2,3,6.0,H,1,1,conor-enright-1,Conor Enright,2024
+30,65,32,2024-03-08,Drake,N,Evansville,CTOURN,W 79-58,*,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,4,5,4,1,0,0,1,7,10.0,N,1,0,conor-enright-1,Conor Enright,2024
+31,66,33,2024-03-09,Drake,N,Bradley,CTOURN,W 72-67,*,33,2,6,0.333,2,4,0.5,0,2,0.0,0.5,4,5,0.8,1,5,6,4,1,0,1,3,10,10.0,N,1,0,conor-enright-1,Conor Enright,2024
+32,67,34,2024-03-10,Drake,N,Indiana State,CTOURN,W 84-80,*,29,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,3,3,3,1,1,4,4,9,6.5,N,1,0,conor-enright-1,Conor Enright,2024
+33,68,35,2024-03-21,Drake,N,Washington State,ROUND-64,L 61-66,*,33,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,5,1,0,0,5,4,4.8,N,0,0,conor-enright-1,Conor Enright,2024

@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2017-11-10,Creighton,,Yale,REG (Non-Conf),W 92-76,,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,1,1.0,2,5,7,2,0,0,2,1,7,6.6,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+2,57,2,2017-11-12,Creighton,,Alcorn State,REG (Non-Conf),W 109-72,,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,3,4,0.75,0,6,6,3,1,0,1,1,8,9.1,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+3,58,3,2017-11-15,Creighton,@,Northwestern,REG (Non-Conf),W 92-88,,21,2,4,0.5,0,0,,2,4,0.5,0.5,1,3,0.333,1,3,4,2,0,0,1,3,5,3.0,A,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+4,59,4,2017-11-20,Creighton,N,UCLA,REG (Non-Conf),W 100-89,*,32,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,1,14,15,2,0,0,1,1,3,5.1,N,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+5,60,5,2017-11-21,Creighton,N,Baylor,REG (Non-Conf),L 59-65,*,29,2,8,0.25,0,0,,2,8,0.25,0.25,2,3,0.667,2,3,5,2,1,1,1,2,6,4.4,N,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+6,61,6,2017-11-25,Creighton,,SIU Edwardsville,REG (Non-Conf),W 103-66,*,25,3,5,0.6,1,1,1.0,2,4,0.5,0.7,4,5,0.8,3,5,8,3,0,0,3,1,11,10.6,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+7,62,7,2017-12-01,Creighton,@,Gonzaga,REG (Non-Conf),L 74-91,*,32,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,1,7,8,0,2,0,2,2,6,6.4,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+8,63,8,2017-12-05,Creighton,,North Dakota,REG (Non-Conf),W 111-68,*,21,2,3,0.667,2,2,1.0,0,1,0.0,1.0,1,2,0.5,0,6,6,5,1,0,0,2,7,10.8,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+9,64,9,2017-12-09,Creighton,,Nebraska,REG (Non-Conf),W 75-65,,30,4,7,0.571,1,3,0.333,3,4,0.75,0.643,3,4,0.75,3,8,11,1,0,1,2,2,12,11.4,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+10,65,10,2017-12-15,Creighton,,Maryland Eastern Shore,REG (Non-Conf),W 87-36,,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,8,10,4,0,0,0,1,4,6.8,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+11,66,11,2017-12-18,Creighton,,UT Arlington,REG (Non-Conf),W 90-81,,26,2,4,0.5,1,1,1.0,1,3,0.333,0.625,4,5,0.8,2,5,7,2,0,1,3,2,9,7.8,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+12,67,12,2017-12-20,Creighton,,USC Upstate,REG (Non-Conf),W 116-62,,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,3,0,0,1,0,4,4.4,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+13,68,13,2017-12-28,Creighton,@,Seton Hall,REG (Conf),L 84-90,,28,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,4,1.0,2,8,10,3,0,0,1,3,9,10.0,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+14,69,14,2017-12-31,Creighton,,Providence,REG (Conf),W 83-64,,18,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,7,7,3,2,0,1,4,8,10.3,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+15,70,15,2018-01-03,Creighton,,St. John's (NY),REG (Conf),W 78-71,,28,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,4,0.75,0,7,7,2,0,0,1,2,13,11.7,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+16,71,16,2018-01-06,Creighton,@,Georgetown,REG (Conf),W 90-66,,20,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,2,4,2,0,0,1,1,4,4.3,A,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+17,72,17,2018-01-09,Creighton,,Butler,REG (Conf),W 85-74,,31,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,1,2,3,4,1,1,1,2,6,7.0,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+18,73,18,2018-01-13,Creighton,@,Xavier,REG (Conf),L 70-92,,26,4,5,0.8,1,2,0.5,3,3,1.0,0.9,4,4,1.0,3,3,6,2,2,0,3,1,13,14.1,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+19,74,19,2018-01-17,Creighton,,Seton Hall,REG (Conf),W 80-63,,28,8,11,0.727,2,3,0.667,6,8,0.75,0.818,0,0,,0,5,5,4,2,0,1,1,18,18.4,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+20,75,20,2018-01-20,Creighton,@,Providence,REG (Conf),L 71-85,*,30,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,4,4,8,4,0,0,1,1,7,8.0,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+21,76,21,2018-01-23,Creighton,@,St. John's (NY),REG (Conf),W 68-63,*,31,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,4,4,2,0,1,1,3,3,2.0,A,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+22,77,22,2018-01-27,Creighton,,Georgetown,REG (Conf),W 85-77,*,38,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,1,1.0,1,2,3,2,1,0,3,2,5,2.9,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+23,78,23,2018-02-01,Creighton,@,Villanova,REG (Conf),L 78-98,*,19,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,0,2,2,1,0,0,1,0,1,-1.9,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+24,79,24,2018-02-07,Creighton,@,DePaul,REG (Conf),W 76-75,*,31,4,9,0.444,2,3,0.667,2,6,0.333,0.556,0,0,,1,7,8,5,0,1,1,3,10,10.1,A,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+25,80,25,2018-02-10,Creighton,,Xavier,REG (Conf),L 71-72,*,36,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,3,1.0,2,3,5,1,0,0,2,2,7,3.8,H,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+26,81,26,2018-02-13,Creighton,,Bemidji St.,REG (Non-Conf),W 94-46,*,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,7,8,5,1,0,0,1,7,10.9,H,1,1,ronnie-harrell-1,Ronnie Harrell,2018
+27,82,27,2018-02-17,Creighton,,Marquette,REG (Conf),L 86-90,*,30,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,0,6,6,6,0,0,0,1,6,7.5,H,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+28,83,28,2018-02-20,Creighton,@,Butler,REG (Conf),L 70-93,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,4,4,1.0,1,6,7,3,2,0,3,1,8,8.5,A,0,1,ronnie-harrell-1,Ronnie Harrell,2018
+29,84,32,2018-03-08,Creighton,N,Providence,CTOURN,L 68-72 (OT),,11,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,4,4,1,0,0,0,0,0,-0.9,N,0,0,ronnie-harrell-1,Ronnie Harrell,2018
+30,85,33,2018-03-16,Creighton,N,Kansas State,ROUND-64,L 59-69,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,1,2,1,0,2,2.3,N,0,0,ronnie-harrell-1,Ronnie Harrell,2018

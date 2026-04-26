@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-11,Michigan,,North Florida,REG (Non-Conf),W 86-66,,10,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,2,1,0,1,1,3,3.0,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+2,2,2,2017-11-13,Michigan,,Central Michigan,REG (Non-Conf),W 72-65,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,0,0,0,0.0,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+3,3,3,2017-11-16,Michigan,,Southern Mississippi,REG (Non-Conf),W 61-47,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+4,4,4,2017-11-20,Michigan,N,Louisiana State,REG (Non-Conf),L 75-77,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,1,0,0,0,2,3.0,N,0,1,isaiah-livers-1,Isaiah Livers,2018
+5,5,5,2017-11-21,Michigan,N,Chaminade,REG (Non-Conf),W 102-64,,11,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,0,0,1,1,1,8,6.7,N,1,1,isaiah-livers-1,Isaiah Livers,2018
+6,6,6,2017-11-22,Michigan,N,VCU,REG (Non-Conf),W 68-60,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,N,1,1,isaiah-livers-1,Isaiah Livers,2018
+7,7,7,2017-11-26,Michigan,,UC Riverside,REG (Non-Conf),W 87-42,,11,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,2,3,0,0,1,1,1,6,3.6,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+8,8,8,2017-11-29,Michigan,@,North Carolina,REG (Non-Conf),L 71-86,,18,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,3,2,5,1,1,0,0,3,9,8.9,A,0,1,isaiah-livers-1,Isaiah Livers,2018
+9,9,9,2017-12-02,Michigan,,Indiana,REG (Conf),W 69-55,,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,0,1,0,0,0,2,1,4,0.3,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+10,10,10,2017-12-04,Michigan,@,Ohio State,REG (Conf),L 62-71,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,1,0,0,0,0,1.6,A,0,1,isaiah-livers-1,Isaiah Livers,2018
+11,11,11,2017-12-09,Michigan,,UCLA,REG (Non-Conf),W 78-69 (OT),,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,6,7,1,0,0,0,2,0,1.0,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+12,12,12,2017-12-12,Michigan,@,Texas,REG (Non-Conf),W 59-52,,22,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,2,3,0,0,0,1,3,2,-2.0,A,1,1,isaiah-livers-1,Isaiah Livers,2018
+13,13,13,2017-12-16,Michigan,N,Detroit Mercy,REG (Non-Conf),W 90-58,,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,5,1,6,3,0,2,2,2,0,2.4,N,1,1,isaiah-livers-1,Isaiah Livers,2018
+14,14,14,2017-12-21,Michigan,,Alabama A&M,REG (Non-Conf),W 97-47,,17,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,3,0.333,2,5,7,2,1,1,1,1,9,10.5,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+15,15,15,2017-12-30,Michigan,,Jacksonville,REG (Non-Conf),W 76-51,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+16,16,16,2018-01-02,Michigan,@,Iowa,REG (Conf),W 75-68,,27,5,6,0.833,3,3,1.0,2,3,0.667,1.083,0,0,,1,1,2,3,2,0,1,1,13,14.5,A,1,1,isaiah-livers-1,Isaiah Livers,2018
+17,17,17,2018-01-06,Michigan,,Illinois,REG (Conf),W 79-69,,18,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,1,0,1,0,0,0,0,0,12,9.8,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+18,18,18,2018-01-09,Michigan,,Purdue,REG (Conf),L 69-70,,27,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,3,3,1,0,0,0,1,10,10.0,H,0,1,isaiah-livers-1,Isaiah Livers,2018
+19,19,19,2018-01-13,Michigan,@,Michigan State,REG (Conf),W 82-72,*,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,1,2,0,0,0,3,4,6,0.1,A,1,1,isaiah-livers-1,Isaiah Livers,2018
+20,20,20,2018-01-15,Michigan,,Maryland,REG (Conf),W 68-67,*,20,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,2,1,3,1,0,1,1,2,7,6.0,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+21,21,21,2018-01-18,Michigan,@,Nebraska,REG (Conf),L 52-72,*,29,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,2,3,0,1,0,2,2,8,3.1,A,0,1,isaiah-livers-1,Isaiah Livers,2018
+22,22,22,2018-01-21,Michigan,,Rutgers,REG (Conf),W 62-47,*,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,0,2,0,-1.2,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+23,23,23,2018-01-25,Michigan,@,Purdue,REG (Conf),L 88-92,*,32,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,3,4,0,0,1,0,2,3,2.8,A,0,1,isaiah-livers-1,Isaiah Livers,2018
+24,24,24,2018-01-29,Michigan,,Northwestern,REG (Conf),W 58-47,*,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+25,25,25,2018-02-03,Michigan,,Minnesota,REG (Conf),W 76-73 (OT),*,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,1,0.0,2,3,5,0,0,2,0,2,5,6.2,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+26,26,26,2018-02-06,Michigan,@,Northwestern,REG (Conf),L 52-61,*,2,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,0,1,2,1.6,A,0,1,isaiah-livers-1,Isaiah Livers,2018
+27,27,28,2018-02-14,Michigan,,Iowa,REG (Conf),W 74-59,*,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,1,0,1,0,0,3,3.3,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+28,28,29,2018-02-18,Michigan,,Ohio State,REG (Conf),W 74-62,*,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,0,0,0,1,3,0,-3.7,H,1,1,isaiah-livers-1,Isaiah Livers,2018
+29,29,30,2018-02-21,Michigan,@,Penn State,REG (Conf),W 72-63,*,9,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,1,0,0,0,0,2,2.7,A,1,1,isaiah-livers-1,Isaiah Livers,2018
+30,30,31,2018-02-24,Michigan,@,Maryland,REG (Conf),W 85-61,*,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,isaiah-livers-1,Isaiah Livers,2018
+31,31,32,2018-03-01,Michigan,N,Iowa,CTOURN,W 77-71 (OT),*,20,3,5,0.6,0,2,0.0,3,3,1.0,0.6,3,3,1.0,0,2,2,0,1,0,1,2,9,6.5,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+32,32,33,2018-03-02,Michigan,N,Nebraska,CTOURN,W 77-58,*,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,1,2,0,-1.5,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+33,33,34,2018-03-03,Michigan,N,Michigan State,CTOURN,W 75-64,*,19,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,1,2,0,0,0,1,1,3,2.3,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+34,34,35,2018-03-04,Michigan,N,Purdue,CTOURN,W 75-66,*,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,0,2,2.0,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+35,35,36,2018-03-15,Michigan,N,Montana,ROUND-64,W 61-47,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,0,0,0,0.2,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+36,36,37,2018-03-17,Michigan,N,Houston,ROUND-32,W 64-63,*,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,2,0,-0.5,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+37,37,38,2018-03-22,Michigan,N,Texas A&M,ROUND-16,W 99-72,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,0,1,0,1,1,2,-0.8,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+38,38,39,2018-03-24,Michigan,N,Florida State,ROUND-8,W 58-54,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,2,2,4,0,0,0,0,0,2,3.3,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+39,39,40,2018-03-31,Michigan,N,Loyola Chicago,NATIONAL-SEMI,W 69-57,*,12,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,N,1,0,isaiah-livers-1,Isaiah Livers,2018
+40,40,41,2018-04-02,Michigan,N,Villanova,NATIONAL-FINAL,L 62-79,*,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,3,4,0,1,0,0,1,0,0.8,N,0,0,isaiah-livers-1,Isaiah Livers,2018

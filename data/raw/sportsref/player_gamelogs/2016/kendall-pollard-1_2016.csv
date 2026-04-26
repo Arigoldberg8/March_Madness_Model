@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,73,1,2015-11-13,Dayton,,Southeast Missouri State,REG (Non-Conf),W 84-53,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,5,0.4,0,10,10,2,1,0,0,0,8,9.2,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+2,74,2,2015-11-17,Dayton,,Alabama,REG (Non-Conf),W 80-48,*,17,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,1,7,8,0,1,1,2,3,2,0.1,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+3,75,3,2015-11-21,Dayton,,William & Mary,REG (Non-Conf),W 69-66,*,19,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,4,0.5,2,4,6,0,1,0,4,4,11,4.2,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+4,76,4,2015-11-26,Dayton,N,Iowa,REG (Non-Conf),W 82-77,*,35,6,11,0.545,0,0,,6,11,0.545,0.545,4,6,0.667,2,3,5,1,1,1,2,2,16,11.8,N,1,1,kendall-pollard-1,Kendall Pollard,2016
+5,77,5,2015-11-27,Dayton,N,Monmouth,REG (Non-Conf),W 73-70,*,19,6,11,0.545,0,0,,6,11,0.545,0.545,0,2,0.0,2,0,2,0,1,0,2,4,12,4.7,N,1,1,kendall-pollard-1,Kendall Pollard,2016
+6,78,6,2015-11-29,Dayton,N,Xavier,REG (Non-Conf),L 61-90,*,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,7,14,0.5,0,3,3,1,0,1,5,4,15,4.6,N,0,1,kendall-pollard-1,Kendall Pollard,2016
+7,79,7,2015-12-05,Dayton,,North Florida,REG (Non-Conf),W 86-71,*,31,5,13,0.385,0,0,,5,13,0.385,0.385,1,2,0.5,1,4,5,8,1,0,1,2,11,10.2,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+8,80,8,2015-12-09,Dayton,@,Vanderbilt,REG (Non-Conf),W 72-67,*,24,7,10,0.7,1,1,1.0,6,9,0.667,0.75,6,9,0.667,2,1,3,0,1,0,1,4,21,15.7,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+9,81,9,2015-12-12,Dayton,,Chattanooga,REG (Non-Conf),L 59-61,*,37,6,10,0.6,0,1,0.0,6,9,0.667,0.6,8,16,0.5,1,2,3,3,1,0,3,2,20,12.8,H,0,1,kendall-pollard-1,Kendall Pollard,2016
+10,82,10,2015-12-19,Dayton,,Furman,REG (Non-Conf),W 70-50,*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,4,6,0.667,2,3,5,3,1,1,4,3,6,3.0,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+11,83,11,2015-12-22,Dayton,,Miami (OH),REG (Non-Conf),W 64-63,*,37,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,5,0.6,3,3,6,3,0,1,2,1,8,9.3,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+12,84,12,2015-12-30,Dayton,,Arkansas,REG (Non-Conf),W 85-81 (OT),*,36,4,10,0.4,0,1,0.0,4,9,0.444,0.4,7,8,0.875,3,6,9,3,3,1,3,4,15,14.3,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+13,85,13,2016-01-02,Dayton,@,Duquesne,REG (Conf),W 66-58,*,15,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,0,3,3,1,1,1,1,3,4,1.0,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+14,86,16,2016-01-12,Dayton,,Davidson,REG (Conf),W 80-74,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,2,4,0.5,1,4,5,2,0,0,2,2,14,9.8,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+15,87,17,2016-01-15,Dayton,,George Washington,REG (Conf),W 77-70,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,4,0,-1.3,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+16,88,18,2016-01-19,Dayton,@,St. Bonaventure,REG (Conf),W 85-79,*,35,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,0,6,6,4,1,0,2,2,11,10.5,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+17,89,19,2016-01-24,Dayton,@,Fordham,REG (Conf),W 64-50,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,2,2,0,1,2,3,0,3,0.9,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+18,90,20,2016-01-27,Dayton,,Saint Louis,REG (Conf),W 73-37,*,25,8,9,0.889,0,0,,8,9,0.889,0.889,2,2,1.0,3,5,8,2,0,0,2,1,18,17.5,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+19,91,21,2016-01-30,Dayton,,La Salle,REG (Conf),W 59-44,*,30,5,9,0.556,0,0,,5,9,0.556,0.556,8,12,0.667,4,4,8,1,0,1,5,1,18,12.1,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+20,92,22,2016-02-06,Dayton,@,George Mason,REG (Conf),W 98-64,*,24,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,1,2,3,0,0,0,0,3,13,8.1,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+21,93,23,2016-02-09,Dayton,,Duquesne,REG (Conf),W 76-74,*,16,3,10,0.3,0,0,,3,10,0.3,0.3,0,1,0.0,1,3,4,1,1,0,1,4,6,0.5,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+22,94,28,2016-02-27,Dayton,,Rhode Island,REG (Conf),L 66-75,,24,2,10,0.2,0,0,,2,10,0.2,0.2,4,8,0.5,1,3,4,1,0,0,0,2,8,1.7,H,0,1,kendall-pollard-1,Kendall Pollard,2016
+23,95,29,2016-03-01,Dayton,@,Richmond,REG (Conf),W 85-84,*,28,3,7,0.429,0,0,,3,7,0.429,0.429,2,4,0.5,2,3,5,0,0,0,1,3,8,3.6,A,1,1,kendall-pollard-1,Kendall Pollard,2016
+24,96,30,2016-03-05,Dayton,,VCU,REG (Conf),W 68-67 (OT),*,30,4,11,0.364,0,0,,4,11,0.364,0.364,4,4,1.0,1,3,4,0,1,0,1,5,12,5.5,H,1,1,kendall-pollard-1,Kendall Pollard,2016
+25,97,31,2016-03-11,Dayton,N,Richmond,CTOURN,W 69-54,*,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,2,2,0,0,0,0,2,4,1.8,N,1,0,kendall-pollard-1,Kendall Pollard,2016
+26,98,32,2016-03-12,Dayton,N,Saint Joseph's,CTOURN,L 79-82,*,22,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,3,0.333,0,5,5,0,0,1,6,4,11,1.9,N,0,0,kendall-pollard-1,Kendall Pollard,2016
+27,99,33,2016-03-18,Dayton,N,Syracuse,ROUND-64,L 51-70,*,24,2,7,0.286,0,0,,2,7,0.286,0.286,0,4,0.0,0,6,6,1,0,0,0,2,4,0.0,N,0,0,kendall-pollard-1,Kendall Pollard,2016

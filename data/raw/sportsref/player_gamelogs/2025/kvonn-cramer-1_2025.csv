@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2024-11-04,Bryant,,Dean,REG (Non-Conf),W 105-63,,17,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,0,2,2,2,2,2,1,1,10,12.8,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+2,67,2,2024-11-08,Bryant,,Siena,REG (Non-Conf),L 88-90 (OT),,16,3,6,0.5,0,0,,3,6,0.5,0.5,1,3,0.333,1,1,2,0,0,2,1,5,7,2.6,H,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+3,68,3,2024-11-14,Bryant,@,Buffalo,REG (Non-Conf),W 87-64,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,5,2,7,1,0,1,1,5,5,4.4,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+4,69,4,2024-11-18,Bryant,@,Delaware,REG (Non-Conf),W 85-84,,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,1,6,7,1,0,1,0,1,7,8.5,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+5,70,6,2024-11-24,Bryant,@,St. Bonaventure,REG (Non-Conf),L 70-85,,21,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,4,3,7,0,0,0,1,2,8,6.8,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+6,71,7,2024-11-26,Bryant,N,Tennessee State,REG (Non-Conf),W 97-85,,18,5,5,1.0,0,0,,5,5,1.0,1.0,2,2,1.0,3,2,5,2,0,3,1,2,12,14.9,N,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+7,72,8,2024-11-27,Bryant,@,Chattanooga,REG (Non-Conf),L 76-84,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,4,1.0,2,1,3,0,4,0,0,4,8,10.8,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+8,73,9,2024-12-02,Bryant,@,Drexel,REG (Non-Conf),W 78-73,*,30,4,10,0.4,0,1,0.0,4,9,0.444,0.4,3,5,0.6,2,4,6,1,1,0,1,3,11,6.9,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+9,74,10,2024-12-06,Bryant,,Brown,REG (Non-Conf),L 75-76,,2,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,4,2,0.8,H,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+10,75,11,2024-12-08,Bryant,,Vermont St.–Johnson,REG (Non-Conf),W 122-63,,12,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,2,0.5,4,1,5,1,0,2,0,3,8,9.3,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+11,76,12,2024-12-11,Bryant,@,St. John's (NY),REG (Non-Conf),L 77-99,,10,2,2,1.0,0,0,,2,2,1.0,1.0,1,4,0.25,0,0,0,0,0,1,1,4,5,1.3,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+12,77,13,2024-12-14,Bryant,N,Fordham,REG (Non-Conf),L 84-86,,25,8,12,0.667,2,2,1.0,6,10,0.6,0.75,5,7,0.714,1,3,4,0,1,1,4,3,23,15.1,N,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+13,78,14,2024-12-22,Bryant,@,Towson,REG (Non-Conf),L 65-70,,21,2,5,0.4,0,0,,2,5,0.4,0.4,3,4,0.75,2,2,4,1,1,0,0,3,7,6.4,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+14,79,15,2024-12-30,Bryant,@,Grand Canyon,REG (Non-Conf),L 66-112,,8,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,3,3,0,1,0,0,1,3,1.7,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+15,80,16,2025-01-04,Bryant,,Maine,REG (Conf),W 81-55,,17,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,5,3,8,0,1,3,1,0,11,13.2,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+16,81,17,2025-01-11,Bryant,,Vermont,REG (Conf),W 73-53,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,3,2,5,0,3,0,1,2,5,5.8,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+17,82,18,2025-01-16,Bryant,@,Albany (NY),REG (Conf),W 89-79,,18,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,3,0.333,1,3,4,0,2,2,2,1,11,10.6,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+18,83,19,2025-01-18,Bryant,,UMass Lowell,REG (Conf),W 85-62,,24,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,5,6,11,2,2,1,3,2,2,5.2,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+19,84,20,2025-01-23,Bryant,@,New Hampshire,REG (Conf),W 95-76,,19,2,5,0.4,1,1,1.0,1,4,0.25,0.5,4,4,1.0,1,1,2,0,0,1,1,4,9,5.4,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+20,85,21,2025-01-25,Bryant,,Binghamton,REG (Conf),W 83-69,,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,2,0,3,0,4,2,3.9,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+21,86,22,2025-01-30,Bryant,@,UMBC,REG (Conf),W 92-86,,16,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,2,0,2,0,0,0,1,5,7,2.7,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+22,87,23,2025-02-01,Bryant,@,NJIT,REG (Conf),W 92-70,,11,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,2,1,3,2,0,0,1,1,4,4.3,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+23,88,24,2025-02-06,Bryant,,Albany (NY),REG (Conf),L 63-68,,21,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,2,1,3,0,1,2,2,2,5,2.5,H,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+24,89,25,2025-02-08,Bryant,@,Binghamton,REG (Conf),W 78-71,,17,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,4,2,6,1,0,1,0,4,6,5.7,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+25,90,26,2025-02-13,Bryant,,NJIT,REG (Conf),W 88-66,,18,6,9,0.667,0,1,0.0,6,8,0.75,0.667,0,1,0.0,0,3,3,0,0,1,0,2,12,8.5,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+26,91,27,2025-02-15,Bryant,,UMBC,REG (Conf),W 81-79,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,2,3,0,1,0,1,4,6,4.8,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+27,92,28,2025-02-20,Bryant,@,Vermont,REG (Conf),L 55-59,,21,2,2,1.0,0,0,,2,2,1.0,1.0,1,3,0.333,2,2,4,0,1,0,1,3,5,4.4,A,0,1,kvonn-cramer-1,Kvonn Cramer,2025
+28,93,29,2025-02-27,Bryant,@,UMass Lowell,REG (Conf),W 79-78,,23,6,10,0.6,0,0,,6,10,0.6,0.6,2,3,0.667,3,2,5,1,0,1,1,3,14,10.9,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+29,94,30,2025-03-01,Bryant,@,Maine,REG (Conf),W 80-72,,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,1,0,1,1,0,0,1,4,2,-2.4,A,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+30,95,31,2025-03-04,Bryant,,New Hampshire,REG (Conf),W 90-56,,19,5,5,1.0,0,0,,5,5,1.0,1.0,3,5,0.6,3,1,4,0,0,2,0,1,13,14.1,H,1,1,kvonn-cramer-1,Kvonn Cramer,2025
+31,96,32,2025-03-08,Bryant,,UMBC,CTOURN,W 85-74,,25,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,3,9,12,1,0,2,0,3,12,15.5,H,1,0,kvonn-cramer-1,Kvonn Cramer,2025
+32,97,33,2025-03-11,Bryant,,Albany (NY),CTOURN,W 91-78,,14,3,6,0.5,0,0,,3,6,0.5,0.5,4,5,0.8,2,3,5,1,0,1,0,4,10,8.7,H,1,0,kvonn-cramer-1,Kvonn Cramer,2025
+33,98,34,2025-03-15,Bryant,,Maine,CTOURN,W 79-59,,20,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,4,6,10,0,0,1,1,2,7,8.9,H,1,0,kvonn-cramer-1,Kvonn Cramer,2025
+34,99,35,2025-03-21,Bryant,N,Michigan State,ROUND-64,L 62-87,,11,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,1,1,4,4,1.8,N,0,0,kvonn-cramer-1,Kvonn Cramer,2025

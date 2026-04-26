@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,47,1,2021-11-09,Murray State,,Cumberland (TN),REG (Non-Conf),W 109-77,,16,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,5,6,4,0,0,3,3,8,7.2,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+2,48,2,2021-11-13,Murray State,,Bellarmine,REG (Non-Conf),W 78-59,,20,2,5,0.4,0,0,,2,5,0.4,0.4,8,9,0.889,1,5,6,2,1,0,1,3,12,11.3,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+3,49,3,2021-11-16,Murray State,@,Illinois State,REG (Non-Conf),W 77-65,,25,5,12,0.417,0,0,,5,12,0.417,0.417,0,1,0.0,3,5,8,3,2,0,2,1,10,8.5,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+4,50,4,2021-11-22,Murray State,N,East Tennessee State,REG (Non-Conf),L 58-66,,23,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,1,1,2,3,0,0,3,3,10,5.5,N,0,1,trae-hannibal-1,Trae Hannibal,2022
+5,51,5,2021-11-23,Murray State,N,Long Beach State,REG (Non-Conf),W 80-43,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,3,5,2,4,0,2,2,3,6.5,N,1,1,trae-hannibal-1,Trae Hannibal,2022
+6,52,6,2021-11-24,Murray State,N,James Madison,REG (Non-Conf),W 74-62,,32,6,12,0.5,0,2,0.0,6,10,0.6,0.5,3,5,0.6,1,7,8,1,1,0,1,1,15,11.3,N,1,1,trae-hannibal-1,Trae Hannibal,2022
+7,53,7,2021-11-29,Murray State,,Campbellsville,REG (Non-Conf),W 98-61,,17,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,0,5,5,5,2,0,0,1,10,15.0,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+8,54,8,2021-12-04,Murray State,,Middle Tennessee,REG (Non-Conf),W 93-87,,21,6,12,0.5,0,1,0.0,6,11,0.545,0.5,7,9,0.778,1,2,3,2,2,0,2,0,19,14.9,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+9,55,9,2021-12-10,Murray State,@,Memphis,REG (Non-Conf),W 74-72,,20,1,4,0.25,0,0,,1,4,0.25,0.25,0,3,0.0,1,1,2,3,2,0,5,1,2,-1.9,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+10,56,10,2021-12-15,Murray State,,Tennessee Wesleyan,REG (Non-Conf),W 118-48,,15,7,8,0.875,0,0,,7,8,0.875,0.875,4,6,0.667,1,1,2,2,1,0,1,0,18,16.8,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+11,57,11,2021-12-18,Murray State,,Chattanooga,REG (Non-Conf),W 87-76,,24,3,7,0.429,0,0,,3,7,0.429,0.429,5,5,1.0,1,3,4,1,2,0,3,1,11,8.2,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+12,58,12,2021-12-22,Murray State,@,Auburn,REG (Non-Conf),L 58-71,,19,0,5,0.0,0,0,,0,5,0.0,0.0,2,3,0.667,1,2,3,2,2,0,3,5,2,-2.2,A,0,1,trae-hannibal-1,Trae Hannibal,2022
+13,59,13,2021-12-30,Murray State,,Southeast Missouri State,REG (Conf),W 106-81,,17,6,8,0.75,0,0,,6,8,0.75,0.75,3,4,0.75,1,1,2,2,1,0,3,2,15,11.0,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+14,60,14,2022-01-08,Murray State,@,SIU Edwardsville,REG (Conf),W 74-69,,12,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,1,1,2,2,2,0,0,0,1,2.2,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+15,61,15,2022-01-13,Murray State,,Tennessee State,REG (Conf),W 67-44,,18,3,3,1.0,2,2,1.0,1,1,1.0,1.333,3,6,0.5,1,3,4,2,1,0,1,1,11,11.5,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+16,62,16,2022-01-15,Murray State,@,Belmont,REG (Conf),W 82-60,,24,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,3,0.333,0,4,4,1,2,0,1,2,6,5.3,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+17,63,17,2022-01-17,Murray State,@,Eastern Illinois,REG (Conf),W 72-46,,26,3,3,1.0,0,0,,3,3,1.0,1.0,2,4,0.5,0,8,8,4,2,1,4,2,8,9.4,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+18,64,18,2022-01-20,Murray State,,Eastern Illinois,REG (Conf),W 91-51,,18,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,7,8,12,0,0,1,1,8,15.5,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+19,65,19,2022-01-22,Murray State,,UT Martin,REG (Conf),W 74-66,,26,0,3,0.0,0,1,0.0,0,2,0.0,0.0,5,8,0.625,3,7,10,4,0,0,1,3,5,6.5,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+20,66,20,2022-01-24,Murray State,,Tennessee Tech,REG (Conf),W 79-53,,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,0,5,5,3,1,0,0,2,8,7.8,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+21,67,21,2022-01-27,Murray State,@,Tennessee Tech,REG (Conf),W 80-75,,22,5,6,0.833,1,1,1.0,4,5,0.8,0.917,1,2,0.5,3,3,6,2,0,0,4,1,12,9.4,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+22,68,22,2022-01-29,Murray State,,Morehead State,REG (Conf),W 77-66,,29,4,7,0.571,0,0,,4,7,0.571,0.571,6,7,0.857,0,8,8,2,2,0,1,1,14,14.7,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+23,69,23,2022-02-03,Murray State,@,Austin Peay,REG (Conf),W 65-53,,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,4,1.0,1,1,2,3,1,0,1,1,8,8.7,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+24,70,24,2022-02-05,Murray State,,SIU Edwardsville,REG (Conf),W 79-59,,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,0,1,0,0,0,1,1,2,-1.8,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+25,71,25,2022-02-10,Murray State,@,Tennessee State,REG (Conf),W 73-62,,25,2,10,0.2,0,0,,2,10,0.2,0.2,0,0,,1,5,6,2,0,0,0,0,4,1.4,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+26,72,26,2022-02-12,Murray State,@,Morehead State,REG (Conf),W 57-53,,19,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,1,5,6,1,0,0,4,2,7,3.1,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+27,73,27,2022-02-17,Murray State,,Austin Peay,REG (Conf),W 91-56,,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,1,0.0,0,5,5,3,1,0,1,0,10,10.3,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+28,74,28,2022-02-19,Murray State,@,UT Martin,REG (Conf),W 62-60,,23,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,1,4,5,3,0,1,3,2,7,6.3,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+29,75,29,2022-02-24,Murray State,,Belmont,REG (Conf),W 76-43,,25,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,7,7,6,2,1,3,1,4,7.6,H,1,1,trae-hannibal-1,Trae Hannibal,2022
+30,76,30,2022-02-26,Murray State,@,Southeast Missouri State,REG (Conf),W 70-68,,28,6,10,0.6,0,0,,6,10,0.6,0.6,8,10,0.8,2,3,5,0,2,0,2,1,20,16.5,A,1,1,trae-hannibal-1,Trae Hannibal,2022
+31,77,31,2022-03-04,Murray State,N,Southeast Missouri State,CTOURN,W 88-74,,25,2,4,0.5,0,0,,2,4,0.5,0.5,4,6,0.667,0,5,5,0,0,0,2,0,8,4.7,N,1,0,trae-hannibal-1,Trae Hannibal,2022
+32,78,32,2022-03-05,Murray State,N,Morehead State,CTOURN,W 71-67,,25,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,0,6,6,1,0,0,2,1,8,3.7,N,1,0,trae-hannibal-1,Trae Hannibal,2022
+33,79,33,2022-03-17,Murray State,N,San Francisco,ROUND-64,W 92-87 (OT),,27,6,12,0.5,0,0,,6,12,0.5,0.5,6,7,0.857,1,5,6,0,0,0,1,5,18,10.8,N,1,0,trae-hannibal-1,Trae Hannibal,2022
+34,80,34,2022-03-19,Murray State,N,Saint Peter's,ROUND-32,L 60-70,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,6,7,0.857,2,6,8,1,4,0,3,3,10,11.3,N,0,0,trae-hannibal-1,Trae Hannibal,2022

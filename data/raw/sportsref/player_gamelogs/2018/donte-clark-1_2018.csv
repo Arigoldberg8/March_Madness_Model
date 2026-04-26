@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2017-11-10,Texas Southern,@,Gonzaga,REG (Non-Conf),L 69-97,*,40,5,15,0.333,0,4,0.0,5,11,0.455,0.333,3,8,0.375,1,7,8,0,2,1,1,3,13,5.8,A,0,1,donte-clark-1,Donte Clark,2018
+2,99,2,2017-11-12,Texas Southern,@,Washington State,REG (Non-Conf),L 84-86 (OT),*,45,8,13,0.615,3,5,0.6,5,8,0.625,0.731,3,4,0.75,1,13,14,5,3,0,6,5,22,18.8,A,0,1,donte-clark-1,Donte Clark,2018
+3,100,3,2017-11-16,Texas Southern,@,Ohio State,REG (Non-Conf),L 64-82,*,36,4,14,0.286,1,7,0.143,3,7,0.429,0.321,8,9,0.889,1,6,7,4,1,1,3,1,17,12.0,A,0,1,donte-clark-1,Donte Clark,2018
+4,101,4,2017-11-18,Texas Southern,@,Syracuse,REG (Non-Conf),L 67-80,*,39,5,13,0.385,3,7,0.429,2,6,0.333,0.5,7,7,1.0,0,3,3,5,0,1,3,5,20,13.0,A,0,1,donte-clark-1,Donte Clark,2018
+5,102,5,2017-11-21,Texas Southern,@,Kansas,REG (Non-Conf),L 71-114,*,31,2,11,0.182,1,4,0.25,1,7,0.143,0.227,1,3,0.333,1,1,2,0,0,0,2,3,6,-3.9,A,0,1,donte-clark-1,Donte Clark,2018
+6,103,6,2017-11-24,Texas Southern,@,Clemson,REG (Non-Conf),L 77-84,*,37,5,14,0.357,0,4,0.0,5,10,0.5,0.357,0,0,,1,2,3,1,0,0,0,1,10,3.8,A,0,1,donte-clark-1,Donte Clark,2018
+7,104,7,2017-11-30,Texas Southern,@,Oakland,REG (Non-Conf),L 87-97,*,38,8,23,0.348,2,8,0.25,6,15,0.4,0.391,6,6,1.0,0,5,5,2,3,1,3,2,24,13.9,A,0,1,donte-clark-1,Donte Clark,2018
+8,105,8,2017-12-02,Texas Southern,@,Toledo,REG (Non-Conf),L 69-71,*,38,8,20,0.4,3,4,0.75,5,16,0.313,0.475,8,8,1.0,1,8,9,3,1,1,3,3,27,18.9,A,0,1,donte-clark-1,Donte Clark,2018
+9,106,9,2017-12-11,Texas Southern,@,Oregon,REG (Non-Conf),L 68-74,*,37,5,13,0.385,2,7,0.286,3,6,0.5,0.462,5,5,1.0,0,4,4,0,1,0,0,1,17,11.7,A,0,1,donte-clark-1,Donte Clark,2018
+10,107,10,2017-12-14,Texas Southern,@,Baylor,REG (Non-Conf),L 68-99,*,23,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,2,0,2,4,0,0,1,3,10,8.7,A,0,1,donte-clark-1,Donte Clark,2018
+11,108,11,2017-12-16,Texas Southern,@,Wyoming,REG (Non-Conf),L 66-72,*,25,4,14,0.286,1,4,0.25,3,10,0.3,0.321,2,2,1.0,0,1,1,3,0,0,3,5,11,0.2,A,0,1,donte-clark-1,Donte Clark,2018
+12,109,12,2017-12-18,Texas Southern,@,TCU,REG (Non-Conf),L 72-91,*,28,1,7,0.143,0,1,0.0,1,6,0.167,0.143,3,6,0.5,0,4,4,3,1,0,1,4,5,1.0,A,0,1,donte-clark-1,Donte Clark,2018
+13,110,13,2017-12-23,Texas Southern,@,Brigham Young,REG (Non-Conf),L 52-73,*,34,5,17,0.294,1,5,0.2,4,12,0.333,0.324,4,6,0.667,0,4,4,1,0,0,6,5,15,-1.8,A,0,1,donte-clark-1,Donte Clark,2018
+14,111,14,2018-01-01,Texas Southern,,Southern,REG (Conf),W 78-66,*,33,2,15,0.133,1,10,0.1,1,5,0.2,0.167,2,2,1.0,2,5,7,2,1,0,2,1,7,0.2,H,1,1,donte-clark-1,Donte Clark,2018
+15,112,15,2018-01-03,Texas Southern,,Alcorn State,REG (Conf),W 85-70,*,40,5,14,0.357,1,5,0.2,4,9,0.444,0.393,2,2,1.0,1,5,6,2,2,0,5,2,13,5.0,H,1,1,donte-clark-1,Donte Clark,2018
+16,113,16,2018-01-06,Texas Southern,,Prairie View A&M,REG (Conf),W 100-94,*,36,4,8,0.5,0,1,0.0,4,7,0.571,0.5,6,7,0.857,3,4,7,3,2,0,4,4,14,11.4,H,1,1,donte-clark-1,Donte Clark,2018
+17,114,17,2018-01-13,Texas Southern,@,Jackson State,REG (Conf),L 80-85 (OT),*,42,6,19,0.316,1,6,0.167,5,13,0.385,0.342,5,11,0.455,1,6,7,1,0,0,3,5,18,2.9,A,0,1,donte-clark-1,Donte Clark,2018
+18,115,18,2018-01-15,Texas Southern,@,Grambling State,REG (Conf),L 78-79,*,35,6,17,0.353,0,4,0.0,6,13,0.462,0.353,15,18,0.833,2,1,3,3,1,1,3,3,27,17.6,A,0,1,donte-clark-1,Donte Clark,2018
+19,116,19,2018-01-20,Texas Southern,,Mississippi Valley State,REG (Conf),W 91-77,*,40,16,26,0.615,2,4,0.5,14,22,0.636,0.654,7,12,0.583,1,7,8,3,2,0,4,2,41,29.3,H,1,1,donte-clark-1,Donte Clark,2018
+20,117,20,2018-01-22,Texas Southern,,Arkansas–Pine Bluff,REG (Conf),L 72-74,*,40,6,17,0.353,0,2,0.0,6,15,0.4,0.353,9,12,0.75,4,3,7,3,2,0,8,3,21,8.9,H,0,1,donte-clark-1,Donte Clark,2018
+21,118,21,2018-01-27,Texas Southern,@,Alabama A&M,REG (Conf),W 58-56,*,19,4,9,0.444,0,1,0.0,4,8,0.5,0.444,6,6,1.0,0,1,1,1,1,0,2,2,14,8.5,A,1,1,donte-clark-1,Donte Clark,2018
+22,119,22,2018-01-29,Texas Southern,@,Alabama State,REG (Conf),W 97-82,*,35,8,16,0.5,3,4,0.75,5,12,0.417,0.594,11,11,1.0,0,5,5,1,1,1,3,4,30,21.3,A,1,1,donte-clark-1,Donte Clark,2018
+23,120,23,2018-02-03,Texas Southern,@,Prairie View A&M,REG (Conf),L 82-96,*,34,5,7,0.714,1,1,1.0,4,6,0.667,0.786,16,19,0.842,0,1,1,2,1,0,1,5,27,22.6,A,0,1,donte-clark-1,Donte Clark,2018
+24,121,24,2018-02-10,Texas Southern,,Jackson State,REG (Conf),W 86-75,*,40,9,17,0.529,2,5,0.4,7,12,0.583,0.588,6,13,0.462,1,8,9,5,3,0,0,3,26,23.3,H,1,1,donte-clark-1,Donte Clark,2018
+25,122,25,2018-02-12,Texas Southern,,Grambling State,REG (Conf),L 55-78,*,36,7,15,0.467,1,3,0.333,6,12,0.5,0.5,4,5,0.8,3,3,6,5,3,1,3,5,19,16.1,H,0,1,donte-clark-1,Donte Clark,2018
+26,123,26,2018-02-17,Texas Southern,@,Mississippi Valley State,REG (Conf),W 72-71,*,29,5,10,0.5,1,5,0.2,4,5,0.8,0.55,7,7,1.0,1,4,5,1,1,0,1,2,18,14.8,A,1,1,donte-clark-1,Donte Clark,2018
+27,124,27,2018-02-19,Texas Southern,@,Arkansas–Pine Bluff,REG (Conf),L 61-62,*,31,6,17,0.353,0,4,0.0,6,13,0.462,0.353,2,7,0.286,5,4,9,1,1,0,1,1,14,7.5,A,0,1,donte-clark-1,Donte Clark,2018
+28,125,28,2018-02-24,Texas Southern,,Alabama A&M,REG (Conf),W 106-71,*,36,6,10,0.6,2,3,0.667,4,7,0.571,0.7,7,9,0.778,0,4,4,4,1,3,2,3,21,19.5,H,1,1,donte-clark-1,Donte Clark,2018
+29,126,29,2018-02-26,Texas Southern,,Alabama State,REG (Conf),W 95-77,*,36,4,12,0.333,0,5,0.0,4,7,0.571,0.333,1,4,0.25,0,5,5,4,0,1,3,2,9,2.2,H,1,1,donte-clark-1,Donte Clark,2018
+30,127,30,2018-03-01,Texas Southern,@,Southern,REG (Conf),W 90-88,*,40,10,24,0.417,0,1,0.0,10,23,0.435,0.417,8,10,0.8,4,4,8,3,1,0,3,4,28,16.9,A,1,1,donte-clark-1,Donte Clark,2018
+31,128,31,2018-03-03,Texas Southern,@,Alcorn State,REG (Conf),W 78-71,*,36,6,15,0.4,1,4,0.25,5,11,0.455,0.433,11,12,0.917,0,5,5,2,1,0,2,2,24,16.6,A,1,1,donte-clark-1,Donte Clark,2018
+32,129,32,2018-03-06,Texas Southern,,Alabama State,CTOURN,W 90-76,*,40,7,11,0.636,3,3,1.0,4,8,0.5,0.773,13,16,0.813,1,4,5,2,0,0,5,1,30,21.8,H,1,0,donte-clark-1,Donte Clark,2018
+33,130,33,2018-03-09,Texas Southern,N,Prairie View A&M,CTOURN,W 88-74,*,35,6,14,0.429,2,4,0.5,4,10,0.4,0.5,8,10,0.8,1,4,5,5,2,0,3,5,22,16.2,N,1,0,donte-clark-1,Donte Clark,2018
+34,131,34,2018-03-10,Texas Southern,N,Arkansas–Pine Bluff,CTOURN,W 84-69,*,23,4,9,0.444,1,3,0.333,3,6,0.5,0.5,5,6,0.833,0,0,0,6,0,0,4,5,14,7.1,N,1,0,donte-clark-1,Donte Clark,2018
+35,132,35,2018-03-14,Texas Southern,N,North Carolina Central,FIRST-FOUR,W 64-46,*,37,5,16,0.313,1,5,0.2,4,11,0.364,0.344,7,7,1.0,0,7,7,2,0,0,5,3,18,6.1,N,1,0,donte-clark-1,Donte Clark,2018
+36,133,36,2018-03-16,Texas Southern,N,Xavier,ROUND-64,L 83-102,*,28,2,7,0.286,0,2,0.0,2,5,0.4,0.286,8,9,0.889,1,0,1,1,1,0,3,5,12,4.9,N,0,0,donte-clark-1,Donte Clark,2018

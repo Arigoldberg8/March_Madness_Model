@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2010-11-12,North Carolina,,Lipscomb,REG (Non-Conf),W 80-66,*,25,5,10,0.5,0,0,,5,10,0.5,0.5,0,2,0.0,3,14,17,0,1,7,3,3,10,12.2,H,1,1,john-henson-1,John Henson,2011
+2,38,2,2010-11-18,North Carolina,N,Hofstra,REG (Non-Conf),W 107-63,*,20,5,12,0.417,0,0,,5,12,0.417,0.417,2,5,0.4,7,4,11,1,0,2,0,0,12,12.6,N,1,1,john-henson-1,John Henson,2011
+3,39,3,2010-11-19,North Carolina,N,Minnesota,REG (Non-Conf),L 67-72,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,1,6,0.167,5,7,12,0,0,3,3,2,9,6.9,N,0,1,john-henson-1,John Henson,2011
+4,40,4,2010-11-21,North Carolina,N,Vanderbilt,REG (Non-Conf),L 65-72,*,16,0,2,0.0,0,0,,0,2,0.0,0.0,2,6,0.333,4,4,8,0,1,0,6,3,2,-3.2,N,0,1,john-henson-1,John Henson,2011
+5,41,5,2010-11-23,North Carolina,,UNC Asheville,REG (Non-Conf),W 80-69,*,22,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,3,8,11,0,0,5,2,2,10,9.7,H,1,1,john-henson-1,John Henson,2011
+6,42,6,2010-11-28,North Carolina,,College of Charleston,REG (Non-Conf),W 74-69,*,29,8,11,0.727,0,0,,8,11,0.727,0.727,3,4,0.75,2,5,7,2,1,2,1,0,19,19.8,H,1,1,john-henson-1,John Henson,2011
+7,43,7,2010-11-30,North Carolina,@,Illinois,REG (Non-Conf),L 67-79,*,28,8,11,0.727,0,0,,8,11,0.727,0.727,0,3,0.0,4,2,6,1,0,1,1,0,16,14.1,A,0,1,john-henson-1,John Henson,2011
+8,44,8,2010-12-04,North Carolina,,Kentucky,REG (Non-Conf),W 75-73,*,31,5,10,0.5,0,0,,5,10,0.5,0.5,3,7,0.429,3,9,12,2,1,3,2,2,13,12.9,H,1,1,john-henson-1,John Henson,2011
+9,45,9,2010-12-08,North Carolina,@,Evansville,REG (Non-Conf),W 76-49,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,1,3,0.333,0,6,6,0,0,4,4,0,7,3.1,A,1,1,john-henson-1,John Henson,2011
+10,46,10,2010-12-11,North Carolina,,Long Beach State,REG (Non-Conf),W 96-91,*,19,3,5,0.6,0,0,,3,5,0.6,0.6,1,4,0.25,2,7,9,1,1,0,3,3,7,4.5,H,1,1,john-henson-1,John Henson,2011
+11,47,11,2010-12-18,North Carolina,N,Texas,REG (Non-Conf),L 76-78,*,25,5,12,0.417,0,0,,5,12,0.417,0.417,0,0,,5,3,8,0,0,0,0,1,10,7.6,N,0,1,john-henson-1,John Henson,2011
+12,48,12,2010-12-21,North Carolina,,William & Mary,REG (Non-Conf),W 85-60,*,11,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,2,5,0,0,3,0,0,6,7.8,H,1,1,john-henson-1,John Henson,2011
+13,49,13,2010-12-28,North Carolina,N,Rutgers,REG (Non-Conf),W 78-55,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,1,2,3,0,2,4,3,1,7,4.8,N,1,1,john-henson-1,John Henson,2011
+14,50,14,2011-01-02,North Carolina,,Saint Francis (PA),REG (Non-Conf),W 103-54,*,23,5,6,0.833,0,0,,5,6,0.833,0.833,3,6,0.5,1,5,6,1,2,6,2,2,13,15.9,H,1,1,john-henson-1,John Henson,2011
+15,51,15,2011-01-08,North Carolina,@,Virginia,REG (Conf),W 62-56,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,0,2,0.0,1,4,5,0,2,0,0,1,8,7.4,A,1,1,john-henson-1,John Henson,2011
+16,52,16,2011-01-13,North Carolina,,Virginia Tech,REG (Conf),W 64-61,*,29,8,10,0.8,0,0,,8,10,0.8,0.8,1,4,0.25,3,5,8,2,0,4,4,1,17,15.4,H,1,1,john-henson-1,John Henson,2011
+17,53,17,2011-01-16,North Carolina,@,Georgia Tech,REG (Conf),L 58-78,*,25,3,9,0.333,0,0,,3,9,0.333,0.333,5,8,0.625,2,3,5,0,1,2,2,3,11,6.2,A,0,1,john-henson-1,John Henson,2011
+18,54,18,2011-01-18,North Carolina,,Clemson,REG (Conf),W 75-65,*,23,7,12,0.583,0,0,,7,12,0.583,0.583,0,0,,4,4,8,2,1,5,0,3,14,17.1,H,1,1,john-henson-1,John Henson,2011
+19,55,19,2011-01-26,North Carolina,@,Miami (FL),REG (Conf),W 74-71,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,2,5,7,1,0,4,3,3,8,5.5,A,1,1,john-henson-1,John Henson,2011
+20,56,20,2011-01-29,North Carolina,,NC State,REG (Conf),W 84-64,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,4,8,0.5,4,12,16,3,0,7,2,2,16,20.4,H,1,1,john-henson-1,John Henson,2011
+21,57,21,2011-02-01,North Carolina,@,Boston College,REG (Conf),W 106-74,*,26,6,10,0.6,0,0,,6,10,0.6,0.6,1,1,1.0,1,6,7,1,0,2,2,2,13,10.2,A,1,1,john-henson-1,John Henson,2011
+22,58,22,2011-02-06,North Carolina,,Florida State,REG (Conf),W 89-69,*,25,7,10,0.7,0,0,,7,10,0.7,0.7,2,3,0.667,1,9,10,0,0,1,2,3,16,12.3,H,1,1,john-henson-1,John Henson,2011
+23,59,23,2011-02-09,North Carolina,@,Duke,REG (Conf),L 73-79,*,29,7,15,0.467,0,1,0.0,7,14,0.5,0.467,0,2,0.0,5,7,12,1,0,1,4,3,14,7.3,A,0,1,john-henson-1,John Henson,2011
+24,60,24,2011-02-12,North Carolina,@,Clemson,REG (Conf),W 64-62,*,32,6,12,0.5,1,1,1.0,5,11,0.455,0.542,1,2,0.5,3,9,12,2,1,4,1,1,14,16.2,A,1,1,john-henson-1,John Henson,2011
+25,61,25,2011-02-15,North Carolina,,Wake Forest,REG (Conf),W 78-64,*,28,5,11,0.455,0,0,,5,11,0.455,0.455,4,10,0.4,5,8,13,2,1,5,1,2,14,15.9,H,1,1,john-henson-1,John Henson,2011
+26,62,26,2011-02-19,North Carolina,,Boston College,REG (Conf),W 48-46,*,30,3,11,0.273,0,1,0.0,3,10,0.3,0.273,0,0,,3,9,12,1,0,2,1,1,6,5.0,H,1,1,john-henson-1,John Henson,2011
+27,63,27,2011-02-23,North Carolina,@,NC State,REG (Conf),W 75-63,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,4,11,15,0,0,6,2,1,8,12.2,A,1,1,john-henson-1,John Henson,2011
+28,64,28,2011-02-27,North Carolina,,Maryland,REG (Conf),W 87-76,*,31,3,10,0.3,0,0,,3,10,0.3,0.3,4,4,1.0,5,10,15,2,0,7,2,1,10,14.6,H,1,1,john-henson-1,John Henson,2011
+29,65,29,2011-03-02,North Carolina,@,Florida State,REG (Conf),W 72-70,*,35,7,11,0.636,0,0,,7,11,0.636,0.636,5,6,0.833,3,9,12,2,0,3,2,1,19,19.6,A,1,1,john-henson-1,John Henson,2011
+30,66,30,2011-03-05,North Carolina,,Duke,REG (Conf),W 81-67,,27,4,10,0.4,0,0,,4,10,0.4,0.4,2,4,0.5,2,10,12,0,1,1,2,3,10,6.7,H,1,1,john-henson-1,John Henson,2011
+31,67,31,2011-03-11,North Carolina,N,Miami (FL),CTOURN,W 61-59,*,33,3,8,0.375,0,0,,3,8,0.375,0.375,4,6,0.667,6,7,13,0,0,5,4,1,10,10.2,N,1,0,john-henson-1,John Henson,2011
+32,68,32,2011-03-12,North Carolina,N,Clemson,CTOURN,W 92-87 (OT),*,38,8,13,0.615,0,1,0.0,8,12,0.667,0.615,2,4,0.5,4,7,11,0,2,2,5,2,18,13.8,N,1,0,john-henson-1,John Henson,2011
+33,69,33,2011-03-13,North Carolina,N,Duke,CTOURN,L 58-75,*,33,4,15,0.267,0,0,,4,15,0.267,0.267,2,3,0.667,7,11,18,2,0,2,1,2,10,9.9,N,0,0,john-henson-1,John Henson,2011
+34,70,34,2011-03-18,North Carolina,N,LIU Brooklyn,ROUND-64,W 102-87,*,28,10,16,0.625,0,0,,10,16,0.625,0.625,8,10,0.8,4,7,11,1,0,6,3,3,28,25.6,N,1,0,john-henson-1,John Henson,2011
+35,71,35,2011-03-20,North Carolina,N,Washington,ROUND-32,W 86-83,*,36,4,12,0.333,0,0,,4,12,0.333,0.333,2,5,0.4,4,6,10,0,2,4,1,1,10,10.0,N,1,0,john-henson-1,John Henson,2011
+36,72,36,2011-03-25,North Carolina,N,Marquette,ROUND-16,W 81-63,*,32,7,16,0.438,0,1,0.0,7,15,0.467,0.438,0,3,0.0,3,9,12,0,1,5,0,1,14,13.3,N,1,0,john-henson-1,John Henson,2011
+37,73,37,2011-03-27,North Carolina,N,Kentucky,ROUND-8,L 69-76,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,8,9,0,1,0,2,5,4,2.1,N,0,0,john-henson-1,John Henson,2011

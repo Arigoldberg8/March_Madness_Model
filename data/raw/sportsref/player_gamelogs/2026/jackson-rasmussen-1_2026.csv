@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Idaho,@,Washington State,REG (Non-Conf),W 83-81,*,36,5,10,0.5,2,3,0.667,3,7,0.429,0.6,0,1,0.0,1,1,2,2,0,0,3,2,12,5.2,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+2,2,2,2025-11-07,Idaho,,Whitman,REG (Non-Conf),W 94-49,*,26,8,10,0.8,1,1,1.0,7,9,0.778,0.85,2,3,0.667,1,3,4,1,0,0,2,3,19,13.9,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+3,3,3,2025-11-12,Idaho,@,San Diego,REG (Non-Conf),L 74-78,*,28,6,10,0.6,1,4,0.25,5,6,0.833,0.65,10,12,0.833,2,3,5,1,0,1,0,2,23,20.5,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+4,4,4,2025-11-15,Idaho,@,UC San Diego,REG (Non-Conf),L 67-75,*,38,3,10,0.3,0,2,0.0,3,8,0.375,0.3,1,2,0.5,3,5,8,1,0,1,2,1,7,3.4,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+5,5,5,2025-11-22,Idaho,,Eastern Ore.,REG (Non-Conf),W 97-68,*,25,9,12,0.75,0,1,0.0,9,11,0.818,0.75,4,5,0.8,1,3,4,1,0,0,2,1,22,16.7,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+6,6,6,2025-11-26,Idaho,N,Cal State Northridge,REG (Non-Conf),W 78-64,*,37,3,6,0.5,2,5,0.4,1,1,1.0,0.667,6,6,1.0,1,2,3,0,2,0,4,2,14,9.5,N,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+7,7,7,2025-11-28,Idaho,N,Sam Houston State,REG (Non-Conf),L 68-94,*,33,5,7,0.714,0,2,0.0,5,5,1.0,0.714,2,7,0.286,1,0,1,0,0,0,1,3,12,5.6,N,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+8,8,8,2025-12-03,Idaho,,North Dakota,REG (Non-Conf),W 90-58,*,26,3,4,0.75,0,1,0.0,3,3,1.0,0.75,3,4,0.75,2,4,6,3,0,0,3,1,9,8.3,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+9,9,9,2025-12-06,Idaho,@,South Dakota State,REG (Non-Conf),W 84-81,*,34,5,10,0.5,2,5,0.4,3,5,0.6,0.6,3,5,0.6,0,4,4,4,0,0,2,1,15,10.8,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+10,10,10,2025-12-10,Idaho,@,Notre Dame,REG (Non-Conf),L 65-80,*,37,7,17,0.412,2,4,0.5,5,13,0.385,0.471,0,0,,1,3,4,2,1,0,1,0,16,9.9,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+11,11,11,2025-12-14,Idaho,,Evergreen St.,REG (Non-Conf),W 109-55,*,14,7,9,0.778,2,4,0.5,5,5,1.0,0.889,4,4,1.0,2,3,5,1,0,1,1,0,20,19.2,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+12,12,12,2025-12-21,Idaho,@,Cal Poly,REG (Non-Conf),W 83-80 (OT),*,42,2,7,0.286,1,1,1.0,1,6,0.167,0.357,3,6,0.5,0,1,1,2,1,0,3,3,8,1.2,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+13,13,13,2025-12-23,Idaho,@,Cal State Bakersfield,REG (Non-Conf),L 63-64,*,28,3,9,0.333,0,3,0.0,3,6,0.5,0.333,2,2,1.0,2,6,8,2,2,0,1,3,8,7.3,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+14,14,14,2026-01-03,Idaho,,Eastern Washington,REG (Conf),W 84-81,*,33,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,2,2,4,1,0,0,3,2,7,2.9,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+15,15,15,2026-01-08,Idaho,,Montana,REG (Conf),L 73-79,*,33,6,10,0.6,0,2,0.0,6,8,0.75,0.6,4,5,0.8,1,6,7,2,0,1,1,3,16,13.4,H,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+16,16,16,2026-01-10,Idaho,,Montana State,REG (Conf),W 92-89,*,24,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,4,0.75,1,7,8,0,0,0,1,5,13,8.1,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+17,17,18,2026-01-15,Idaho,@,Idaho State,REG (Conf),L 68-76,*,34,7,11,0.636,1,3,0.333,6,8,0.75,0.682,4,6,0.667,0,5,5,0,1,0,2,2,19,13.0,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+18,18,19,2026-01-17,Idaho,@,Weber State,REG (Conf),W 75-67,*,38,6,15,0.4,1,5,0.2,5,10,0.5,0.433,3,7,0.429,0,5,5,1,3,2,6,3,16,5.7,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+19,19,21,2026-01-24,Idaho,,Portland State,REG (Conf),L 66-69,*,33,5,13,0.385,0,3,0.0,5,10,0.5,0.385,1,2,0.5,1,4,5,2,0,0,3,0,11,3.8,H,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+20,20,22,2026-01-29,Idaho,@,Northern Colorado,REG (Conf),L 83-91,*,34,8,17,0.471,2,6,0.333,6,11,0.545,0.529,11,13,0.846,2,4,6,1,0,1,0,0,29,23.5,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+21,21,23,2026-01-31,Idaho,@,Northern Arizona,REG (Conf),W 79-62,*,22,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,2,2,0,2,2,2,0.1,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+22,22,24,2026-02-05,Idaho,@,Montana State,REG (Conf),L 66-73,*,33,3,11,0.273,0,1,0.0,3,10,0.3,0.273,0,0,,3,3,6,1,0,0,3,2,6,-0.6,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+23,23,25,2026-02-07,Idaho,@,Montana,REG (Conf),L 68-73,*,25,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,0,,1,2,3,1,1,0,4,2,7,-0.6,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+24,24,26,2026-02-12,Idaho,,Weber State,REG (Conf),L 72-83,*,22,2,11,0.182,0,5,0.0,2,6,0.333,0.182,2,4,0.5,0,3,3,0,0,0,1,1,6,-2.2,H,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+25,25,27,2026-02-14,Idaho,,Idaho State,REG (Conf),W 99-69,*,27,9,16,0.563,3,7,0.429,6,9,0.667,0.656,0,1,0.0,0,1,1,1,1,0,0,1,21,14.6,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+26,26,28,2026-02-19,Idaho,@,Portland State,REG (Conf),L 67-77,*,36,8,17,0.471,2,6,0.333,6,11,0.545,0.529,0,0,,1,3,4,0,0,0,1,2,18,9.1,A,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+27,27,29,2026-02-21,Idaho,@,Sacramento State,REG (Conf),W 86-80,*,36,6,7,0.857,1,1,1.0,5,6,0.833,0.929,5,6,0.833,3,3,6,2,1,0,1,1,18,19.1,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+28,28,30,2026-02-26,Idaho,,Northern Arizona,REG (Conf),W 78-58,*,30,8,15,0.533,3,5,0.6,5,10,0.5,0.633,0,0,,3,4,7,1,0,2,1,4,19,14.5,H,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+29,29,31,2026-02-28,Idaho,,Northern Colorado,REG (Conf),L 67-76,*,34,6,13,0.462,1,6,0.167,5,7,0.714,0.5,2,2,1.0,1,4,5,2,2,0,1,1,15,12.2,H,0,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+30,30,32,2026-03-02,Idaho,@,Eastern Washington,REG (Conf),W 85-81,*,34,5,13,0.385,1,3,0.333,4,10,0.4,0.423,3,4,0.75,5,3,8,4,0,1,0,1,14,14.0,A,1,1,jackson-rasmussen-1,Jackson Rasmussen,2026
+31,31,33,2026-03-07,Idaho,N,Sacramento State,CTOURN,W 68-45,*,32,7,18,0.389,1,4,0.25,6,14,0.429,0.417,4,4,1.0,1,2,3,1,0,2,3,0,19,9.6,N,1,0,jackson-rasmussen-1,Jackson Rasmussen,2026
+32,32,34,2026-03-08,Idaho,N,Montana State,CTOURN,W 78-74,*,32,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,1,4,5,1,0,0,4,1,11,6.3,N,1,0,jackson-rasmussen-1,Jackson Rasmussen,2026
+33,33,35,2026-03-10,Idaho,N,Eastern Washington,CTOURN,W 81-68,*,35,6,9,0.667,3,3,1.0,3,6,0.5,0.833,1,5,0.2,2,4,6,0,2,0,2,1,16,12.7,N,1,0,jackson-rasmussen-1,Jackson Rasmussen,2026
+34,34,36,2026-03-11,Idaho,N,Montana,CTOURN,W 77-66,*,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,5,5,0,1,0,2,4,4,-0.5,N,1,0,jackson-rasmussen-1,Jackson Rasmussen,2026

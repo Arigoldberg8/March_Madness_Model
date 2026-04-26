@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2015-11-13,Fresno State,,Pepperdine,REG (Non-Conf),W 69-66,*,28,3,8,0.375,0,4,0.0,3,4,0.75,0.375,0,0,,0,3,3,0,1,0,2,3,6,0.3,H,1,1,paul-watson-1,Paul Watson,2016
+2,73,2,2015-11-16,Fresno State,,Lamar,REG (Non-Conf),W 80-72,*,32,3,11,0.273,1,3,0.333,2,8,0.25,0.318,1,2,0.5,2,5,7,1,0,1,1,2,8,3.6,H,1,1,paul-watson-1,Paul Watson,2016
+3,74,3,2015-11-19,Fresno State,,San Francisco,REG (Non-Conf),W 78-71,*,15,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,1,1,0,0,0,1,4,3,-2.4,H,1,1,paul-watson-1,Paul Watson,2016
+4,75,4,2015-11-22,Fresno State,@,Rice,REG (Non-Conf),W 82-65,*,29,5,10,0.5,2,4,0.5,3,6,0.5,0.6,3,4,0.75,2,3,5,0,3,0,1,1,15,13.5,A,1,1,paul-watson-1,Paul Watson,2016
+5,76,5,2015-11-27,Fresno State,,Delaware State,REG (Non-Conf),W 80-59,*,24,4,12,0.333,2,6,0.333,2,6,0.333,0.417,3,4,0.75,1,2,3,0,0,1,2,2,13,5.0,H,1,1,paul-watson-1,Paul Watson,2016
+6,77,6,2015-11-30,Fresno State,@,Oregon,REG (Non-Conf),L 73-78,*,30,4,7,0.571,2,4,0.5,2,3,0.667,0.714,1,2,0.5,2,4,6,1,0,1,4,0,11,7.3,A,0,1,paul-watson-1,Paul Watson,2016
+7,78,7,2015-12-03,Fresno State,,The Master's,REG (Non-Conf),W 84-72,*,23,4,7,0.571,2,3,0.667,2,4,0.5,0.714,3,5,0.6,1,4,5,1,1,1,1,1,13,11.8,H,1,1,paul-watson-1,Paul Watson,2016
+8,79,8,2015-12-05,Fresno State,@,Cal Poly,REG (Non-Conf),L 65-77,*,27,1,6,0.167,1,2,0.5,0,4,0.0,0.25,1,2,0.5,1,8,9,2,1,0,0,4,4,3.7,A,0,1,paul-watson-1,Paul Watson,2016
+9,80,9,2015-12-09,Fresno State,@,Arizona,REG (Non-Conf),L 72-85,*,35,6,11,0.545,1,2,0.5,5,9,0.556,0.591,1,2,0.5,2,3,5,2,3,2,1,3,14,14.2,A,0,1,paul-watson-1,Paul Watson,2016
+10,81,10,2015-12-12,Fresno State,,Pacific,REG (Non-Conf),W 71-52,*,23,4,8,0.5,2,3,0.667,2,5,0.4,0.625,5,6,0.833,0,2,2,1,1,1,0,1,15,13.2,H,1,1,paul-watson-1,Paul Watson,2016
+11,82,11,2015-12-16,Fresno State,,Cal State Bakersfield,REG (Non-Conf),W 76-68,*,23,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,0,0,3,1,1,7,5.0,H,1,1,paul-watson-1,Paul Watson,2016
+12,83,12,2015-12-20,Fresno State,,Evansville,REG (Non-Conf),L 77-85,*,35,2,9,0.222,1,3,0.333,1,6,0.167,0.278,2,2,1.0,1,3,4,1,0,0,1,4,7,1.2,H,0,1,paul-watson-1,Paul Watson,2016
+13,84,13,2015-12-27,Fresno State,,Pacific Union,REG (Non-Conf),W 89-46,*,26,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,2,0.5,1,1,2,0,0,0,0,2,11,7.5,H,1,1,paul-watson-1,Paul Watson,2016
+14,85,14,2015-12-30,Fresno State,@,UNLV,REG (Conf),W 69-66,*,33,4,13,0.308,1,5,0.2,3,8,0.375,0.346,2,3,0.667,1,4,5,3,2,0,2,4,11,5.5,A,1,1,paul-watson-1,Paul Watson,2016
+15,86,15,2016-01-02,Fresno State,,New Mexico,REG (Conf),L 62-77,*,25,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,2,1,3,0,1,1,1,0,4,3.0,H,0,1,paul-watson-1,Paul Watson,2016
+16,87,16,2016-01-06,Fresno State,,Nevada,REG (Conf),W 85-63,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,6,6,4,1,2,2,3,6,6.8,H,1,1,paul-watson-1,Paul Watson,2016
+17,88,17,2016-01-09,Fresno State,@,Boise State,REG (Conf),L 70-81,*,24,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,1,0,1,1,0,0,4,5,11,2.1,A,0,1,paul-watson-1,Paul Watson,2016
+18,89,18,2016-01-16,Fresno State,,San Jose State,REG (Conf),W 81-74,*,32,3,5,0.6,2,2,1.0,1,3,0.333,0.8,2,4,0.5,0,4,4,0,0,0,2,2,10,5.3,H,1,1,paul-watson-1,Paul Watson,2016
+19,90,19,2016-01-19,Fresno State,@,San Diego State,REG (Conf),L 67-73 (OT),*,45,5,13,0.385,2,5,0.4,3,8,0.375,0.462,0,0,,1,3,4,0,1,0,2,4,12,3.9,A,0,1,paul-watson-1,Paul Watson,2016
+20,91,20,2016-01-23,Fresno State,@,Air Force,REG (Conf),W 56-55,*,35,1,8,0.125,1,6,0.167,0,2,0.0,0.188,3,4,0.75,1,1,2,0,0,1,2,1,6,-0.3,A,1,1,paul-watson-1,Paul Watson,2016
+21,92,21,2016-01-26,Fresno State,,Wyoming,REG (Conf),W 71-60,*,33,3,8,0.375,1,2,0.5,2,6,0.333,0.438,5,6,0.833,0,5,5,2,0,0,0,5,12,8.1,H,1,1,paul-watson-1,Paul Watson,2016
+22,93,22,2016-02-03,Fresno State,@,San Jose State,REG (Conf),L 53-65,*,34,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,2,1.0,1,1,2,0,3,1,3,2,9,4.8,A,0,1,paul-watson-1,Paul Watson,2016
+23,94,23,2016-02-06,Fresno State,,UNLV,REG (Conf),W 111-104 (2OT),*,16,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,3,1.0,1,0,1,0,0,0,0,4,7,2.7,H,1,1,paul-watson-1,Paul Watson,2016
+24,95,24,2016-02-10,Fresno State,,San Diego State,REG (Conf),W 58-57,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,2,0,0,0,3,2,1.2,H,1,1,paul-watson-1,Paul Watson,2016
+25,96,28,2016-02-24,Fresno State,,Air Force,REG (Conf),W 64-63,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,H,1,1,paul-watson-1,Paul Watson,2016
+26,97,29,2016-02-27,Fresno State,@,New Mexico,REG (Conf),W 92-82,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,paul-watson-1,Paul Watson,2016
+27,98,31,2016-03-05,Fresno State,@,Utah State,REG (Conf),W 86-85,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,A,1,1,paul-watson-1,Paul Watson,2016
+28,99,32,2016-03-10,Fresno State,N,UNLV,CTOURN,W 95-82,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,paul-watson-1,Paul Watson,2016
+29,100,33,2016-03-11,Fresno State,N,Colorado State,CTOURN,W 64-56,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,0,1,1,0,1,2,4.3,N,1,0,paul-watson-1,Paul Watson,2016
+30,101,34,2016-03-12,Fresno State,N,San Diego State,CTOURN,W 68-63,,26,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,5,5,0,1,0,0,2,8,8.1,N,1,0,paul-watson-1,Paul Watson,2016
+31,102,35,2016-03-17,Fresno State,N,Utah,ROUND-64,L 69-80,,23,4,7,0.571,2,2,1.0,2,5,0.4,0.714,1,1,1.0,2,0,2,0,1,0,1,4,11,7.5,N,0,0,paul-watson-1,Paul Watson,2016

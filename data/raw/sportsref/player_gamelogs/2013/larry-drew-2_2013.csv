@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2012-11-09,UCLA,,Indiana State,REG (Non-Conf),W 86-59,*,33,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,2,2,5,0,1,0,1,1,4.3,H,1,1,larry-drew-2,Larry Drew II,2013
+2,97,2,2012-11-13,UCLA,,UC Irvine,REG (Non-Conf),W 80-79 (OT),*,43,4,13,0.308,2,4,0.5,2,9,0.222,0.385,0,0,,1,4,5,8,1,1,2,1,10,9.3,H,1,1,larry-drew-2,Larry Drew II,2013
+3,98,3,2012-11-15,UCLA,,James Madison,REG (Non-Conf),W 100-70,*,32,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,2,2,12,2,0,3,1,7,12.6,H,1,1,larry-drew-2,Larry Drew II,2013
+4,99,4,2012-11-19,UCLA,N,Georgetown,REG (Non-Conf),L 70-78,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,8,0,0,1,4,4,5.6,N,0,1,larry-drew-2,Larry Drew II,2013
+5,100,5,2012-11-20,UCLA,N,Georgia,REG (Non-Conf),W 60-56,*,38,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,1,1.0,0,2,2,2,2,0,1,0,5,6.0,N,1,1,larry-drew-2,Larry Drew II,2013
+6,101,6,2012-11-25,UCLA,,Cal Poly,REG (Non-Conf),L 68-70,*,34,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,2,2,9,0,0,0,0,5,8.1,H,0,1,larry-drew-2,Larry Drew II,2013
+7,102,7,2012-11-28,UCLA,,Cal State Northridge,REG (Non-Conf),W 82-56,*,32,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,13,2,0,2,1,4,12.0,H,1,1,larry-drew-2,Larry Drew II,2013
+8,103,8,2012-12-01,UCLA,N,San Diego State,REG (Non-Conf),L 69-78,*,39,3,10,0.3,0,2,0.0,3,8,0.375,0.3,0,0,,1,3,4,11,1,0,2,3,6,7.3,N,0,1,larry-drew-2,Larry Drew II,2013
+9,104,9,2012-12-08,UCLA,N,Texas,REG (Non-Conf),W 65-63,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,3,3,6,1,0,5,2,6,2.6,N,1,1,larry-drew-2,Larry Drew II,2013
+10,105,10,2012-12-15,UCLA,,Prairie View A&M,REG (Non-Conf),W 95-53,*,27,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,4,4,9,1,0,1,1,5,11.5,H,1,1,larry-drew-2,Larry Drew II,2013
+11,106,11,2012-12-18,UCLA,,Long Beach State,REG (Non-Conf),W 89-70,*,31,6,7,0.857,2,2,1.0,4,5,0.8,1.0,0,1,0.0,0,4,4,9,2,0,1,1,14,19.2,H,1,1,larry-drew-2,Larry Drew II,2013
+12,107,12,2012-12-22,UCLA,,Fresno State,REG (Non-Conf),W 91-78,*,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,10,0,0,1,3,4,7.4,H,1,1,larry-drew-2,Larry Drew II,2013
+13,108,13,2012-12-28,UCLA,,Missouri,REG (Non-Conf),W 97-94 (OT),*,40,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,1,2,3,10,2,1,3,3,8,11.1,H,1,1,larry-drew-2,Larry Drew II,2013
+14,109,14,2013-01-03,UCLA,,California,REG (Conf),W 79-65,*,37,1,3,0.333,0,0,,1,3,0.333,0.333,3,6,0.5,0,3,3,9,2,0,0,2,5,10.5,H,1,1,larry-drew-2,Larry Drew II,2013
+15,110,15,2013-01-05,UCLA,,Stanford,REG (Conf),W 68-60,*,37,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,3,4,7,3,0,1,4,5,9.5,H,1,1,larry-drew-2,Larry Drew II,2013
+16,111,16,2013-01-10,UCLA,@,Utah,REG (Conf),W 57-53,*,34,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,2,0.0,0,5,5,4,1,0,3,1,12,10.2,A,1,1,larry-drew-2,Larry Drew II,2013
+17,112,17,2013-01-12,UCLA,@,Colorado,REG (Conf),W 78-75,*,35,0,4,0.0,0,0,,0,4,0.0,0.0,0,1,0.0,0,1,1,5,4,0,2,0,0,2.6,A,1,1,larry-drew-2,Larry Drew II,2013
+18,113,18,2013-01-17,UCLA,,Oregon State,REG (Conf),W 74-64,*,38,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,3,3,9,1,1,3,0,2,4.1,H,1,1,larry-drew-2,Larry Drew II,2013
+19,114,19,2013-01-19,UCLA,,Oregon,REG (Conf),L 67-76,*,33,4,9,0.444,0,0,,4,9,0.444,0.444,0,1,0.0,1,0,1,8,1,0,2,3,8,7.0,H,0,1,larry-drew-2,Larry Drew II,2013
+20,115,20,2013-01-24,UCLA,@,Arizona,REG (Conf),W 84-73,*,35,2,8,0.25,0,0,,2,8,0.25,0.25,3,4,0.75,0,3,3,9,1,0,2,0,7,8.0,A,1,1,larry-drew-2,Larry Drew II,2013
+21,116,21,2013-01-26,UCLA,@,Arizona State,REG (Conf),L 60-78,*,37,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,0,,0,2,2,4,0,0,1,1,12,9.7,A,0,1,larry-drew-2,Larry Drew II,2013
+22,117,22,2013-01-30,UCLA,,Southern California,REG (Conf),L 71-75 (OT),*,39,3,11,0.273,0,3,0.0,3,8,0.375,0.273,2,2,1.0,0,3,3,8,1,0,0,1,8,8.6,H,0,1,larry-drew-2,Larry Drew II,2013
+23,118,23,2013-02-07,UCLA,,Washington,REG (Conf),W 59-57,*,36,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,2,0.5,0,2,2,6,5,0,2,2,9,12.3,H,1,1,larry-drew-2,Larry Drew II,2013
+24,119,24,2013-02-09,UCLA,,Washington State,REG (Conf),W 76-62,*,32,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,5,0.8,0,0,0,8,4,0,5,4,9,9.6,H,1,1,larry-drew-2,Larry Drew II,2013
+25,120,25,2013-02-14,UCLA,@,California,REG (Conf),L 63-76,*,33,4,7,0.571,4,5,0.8,0,2,0.0,0.857,0,0,,0,1,1,3,0,0,3,2,12,7.3,A,0,1,larry-drew-2,Larry Drew II,2013
+26,121,26,2013-02-16,UCLA,@,Stanford,REG (Conf),W 88-80,*,37,5,9,0.556,2,2,1.0,3,7,0.429,0.667,2,2,1.0,0,2,2,7,0,1,5,0,14,10.9,A,1,1,larry-drew-2,Larry Drew II,2013
+27,122,27,2013-02-24,UCLA,@,Southern California,REG (Conf),W 75-59,*,37,4,6,0.667,2,3,0.667,2,3,0.667,0.833,1,3,0.333,0,3,3,6,3,0,5,2,11,9.9,A,1,1,larry-drew-2,Larry Drew II,2013
+28,123,28,2013-02-27,UCLA,,Arizona State,REG (Conf),W 79-74 (OT),*,41,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,2,3,13,3,0,7,2,5,6.5,H,1,1,larry-drew-2,Larry Drew II,2013
+29,124,29,2013-03-02,UCLA,,Arizona,REG (Conf),W 74-69,*,38,6,12,0.5,2,3,0.667,4,9,0.444,0.583,0,0,,0,1,1,9,1,0,4,1,14,11.2,H,1,1,larry-drew-2,Larry Drew II,2013
+30,125,30,2013-03-06,UCLA,@,Washington State,REG (Conf),L 61-73,*,34,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,1,1,6,1,0,2,1,6,5.3,A,0,1,larry-drew-2,Larry Drew II,2013
+31,126,31,2013-03-09,UCLA,@,Washington,REG (Conf),W 61-54,*,36,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,0,2,2,6,1,1,3,2,7,6.3,A,1,1,larry-drew-2,Larry Drew II,2013
+32,127,32,2013-03-14,UCLA,N,Arizona State,CTOURN,W 80-75,*,34,8,10,0.8,4,4,1.0,4,6,0.667,1.0,0,0,,0,4,4,4,1,0,2,4,20,17.6,N,1,0,larry-drew-2,Larry Drew II,2013
+33,128,33,2013-03-15,UCLA,N,Arizona,CTOURN,W 66-64,*,37,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,1,1,4,0,1,2,3,0,-2.9,N,1,0,larry-drew-2,Larry Drew II,2013
+34,129,34,2013-03-16,UCLA,N,Oregon,CTOURN,L 69-78,*,39,6,11,0.545,2,3,0.667,4,8,0.5,0.636,0,0,,0,0,0,6,2,0,5,1,14,9.5,N,0,0,larry-drew-2,Larry Drew II,2013
+35,130,35,2013-03-22,UCLA,N,Minnesota,ROUND-64,L 63-83,*,39,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,1,0,1,3,0,0,5,2,4,-2.8,N,0,0,larry-drew-2,Larry Drew II,2013

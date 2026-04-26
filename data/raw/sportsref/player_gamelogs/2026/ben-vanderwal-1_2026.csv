@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2025-11-03,Furman,N,High Point,REG (Non-Conf),L 71-97,*,34,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,1,4,5,2,0,1,1,1,11,10.6,N,0,1,ben-vanderwal-1,Ben VanderWal,2026
+2,102,2,2025-11-07,Furman,,Troy,REG (Non-Conf),L 61-64,*,32,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,1,1,2,3,1,0,2,1,2,0.5,H,0,1,ben-vanderwal-1,Ben VanderWal,2026
+3,103,3,2025-11-10,Furman,,Columbia Intl,REG (Non-Conf),W 89-59,*,21,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,3,3,6,1,2,1,2,1,6,9.4,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+4,104,4,2025-11-14,Furman,@,Northern Iowa,REG (Non-Conf),L 54-70,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,0,2,0.0,1,3,4,3,2,1,1,4,6,7.4,A,0,1,ben-vanderwal-1,Ben VanderWal,2026
+5,105,6,2025-11-23,Furman,,Queens (NC),REG (Non-Conf),W 90-79,*,30,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,2,0.0,0,5,5,3,1,2,0,4,6,8.0,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+6,106,7,2025-11-27,Furman,N,Richmond,REG (Non-Conf),W 73-72,*,31,2,2,1.0,0,0,,2,2,1.0,1.0,1,5,0.2,3,2,5,2,2,2,1,2,5,8.5,N,1,1,ben-vanderwal-1,Ben VanderWal,2026
+7,107,8,2025-11-28,Furman,N,Illinois State,REG (Non-Conf),L 65-72,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,1,4,5,1,0,1,2,2,3,1.7,N,0,1,ben-vanderwal-1,Ben VanderWal,2026
+8,108,9,2025-12-03,Furman,@,Elon,REG (Non-Conf),W 97-88,*,31,6,7,0.857,1,2,0.5,5,5,1.0,0.929,0,1,0.0,3,5,8,2,1,0,3,4,13,11.5,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+9,109,10,2025-12-06,Furman,,Harvard,REG (Non-Conf),W 79-69,*,26,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,3,3,6,2,1,0,2,4,7,7.5,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+10,110,11,2025-12-09,Furman,,Bob Jones,REG (Non-Conf),W 105-57,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,3,4,0.75,3,3,6,0,0,0,1,2,15,13.3,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+11,111,12,2025-12-18,Furman,@,Manhattan,REG (Non-Conf),W 75-68,*,31,3,6,0.5,0,0,,3,6,0.5,0.5,1,8,0.125,4,5,9,5,3,1,1,3,7,10.5,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+12,112,13,2025-12-21,Furman,,Charleston Southern,REG (Non-Conf),W 84-76,*,28,4,8,0.5,0,0,,4,8,0.5,0.5,5,7,0.714,1,5,6,2,3,0,1,3,13,12.6,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+13,113,14,2025-12-31,Furman,,Mercer,REG (Conf),W 74-72,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,1,3,0.333,1,6,7,2,0,0,3,2,11,6.0,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+14,114,15,2026-01-03,Furman,,Western Carolina,REG (Conf),L 77-80 (OT),*,38,5,6,0.833,0,0,,5,6,0.833,0.833,1,5,0.2,4,4,8,6,2,0,0,1,11,17.0,H,0,1,ben-vanderwal-1,Ben VanderWal,2026
+15,115,16,2026-01-07,Furman,@,Chattanooga,REG (Conf),W 78-67,*,31,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,4,2,6,2,1,1,2,2,4,4.9,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+16,116,17,2026-01-10,Furman,,VMI,REG (Conf),W 69-48,*,29,4,5,0.8,0,0,,4,5,0.8,0.8,3,8,0.375,4,2,6,2,1,0,2,2,11,10.1,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+17,117,18,2026-01-14,Furman,@,Samford,REG (Conf),W 77-73,*,33,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,2,2,4,1,0,2,1,3,8,7.6,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+18,118,19,2026-01-17,Furman,,Wofford,REG (Conf),L 70-74,*,30,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,4,1,5,2,0,0,1,4,10,8.9,H,0,1,ben-vanderwal-1,Ben VanderWal,2026
+19,119,20,2026-01-21,Furman,@,The Citadel,REG (Conf),L 75-77 (OT),*,34,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,4,2,6,1,0,1,0,3,12,12.4,A,0,1,ben-vanderwal-1,Ben VanderWal,2026
+20,120,21,2026-01-23,Furman,@,UNC Greensboro,REG (Conf),W 89-66,*,34,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,1,2,3,8,0,0,0,1,10,14.3,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+21,121,22,2026-01-29,Furman,,Samford,REG (Conf),W 78-73,*,34,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,2,4,6,3,0,0,0,5,11,12.1,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+22,122,23,2026-02-01,Furman,,Chattanooga,REG (Conf),W 75-70,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,1,6,7,4,2,2,0,1,7,12.9,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+23,123,24,2026-02-04,Furman,@,East Tennessee State,REG (Conf),L 71-75 (OT),*,29,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,2,6,8,1,0,0,1,5,9,6.9,A,0,1,ben-vanderwal-1,Ben VanderWal,2026
+24,124,25,2026-02-08,Furman,,UNC Greensboro,REG (Conf),L 64-67,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,3,4,1,0,0,1,1,6,4.6,H,0,1,ben-vanderwal-1,Ben VanderWal,2026
+25,125,26,2026-02-11,Furman,@,Mercer,REG (Conf),L 64-69,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,5,5,0,0,0,0,2,0,-0.7,A,0,1,ben-vanderwal-1,Ben VanderWal,2026
+26,126,27,2026-02-14,Furman,@,VMI,REG (Conf),W 90-72,*,30,1,1,1.0,0,0,,1,1,1.0,1.0,6,8,0.75,3,4,7,5,1,1,1,1,8,14.0,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+27,127,28,2026-02-18,Furman,,East Tennessee State,REG (Conf),L 69-78,*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,4,0.25,4,7,11,1,0,0,1,2,3,2.5,H,0,1,ben-vanderwal-1,Ben VanderWal,2026
+28,128,29,2026-02-21,Furman,@,Wofford,REG (Conf),W 76-67,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,1,4,3,0,0,0,3,4,4.6,A,1,1,ben-vanderwal-1,Ben VanderWal,2026
+29,129,30,2026-02-25,Furman,,The Citadel,REG (Conf),W 72-51,*,33,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,5,2,7,0,1,1,2,2,6,6.7,H,1,1,ben-vanderwal-1,Ben VanderWal,2026
+30,130,31,2026-02-28,Furman,@,Western Carolina,REG (Conf),L 67-86,*,22,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,2,2,4,2,0,0,0,0,6,7.7,A,0,1,ben-vanderwal-1,Ben VanderWal,2026
+31,131,32,2026-03-07,Furman,N,Samford,CTOURN,W 86-81,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,2,4,1,0,0,0,0,4,3.3,N,1,0,ben-vanderwal-1,Ben VanderWal,2026
+32,132,33,2026-03-08,Furman,N,UNC Greensboro,CTOURN,W 81-75,,22,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,2,1,0,3,3,0,-1.5,N,1,0,ben-vanderwal-1,Ben VanderWal,2026
+33,133,34,2026-03-09,Furman,N,East Tennessee State,CTOURN,W 76-61,,16,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,1,1,2,2,0,0,2,1,5,4.0,N,1,0,ben-vanderwal-1,Ben VanderWal,2026

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,99,1,2018-11-06,Tennessee,,Lenoir-Rhyne,REG (Non-Conf),W 86-41,*,24,5,8,0.625,0,1,0.0,5,7,0.714,0.625,6,8,0.75,2,3,5,0,1,4,4,1,16,13.3,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+2,100,2,2018-11-09,Tennessee,,Louisiana,REG (Non-Conf),W 87-65,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,3,2,5,1,0,3,0,0,10,12.9,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+3,101,3,2018-11-13,Tennessee,,Georgia Tech,REG (Non-Conf),W 66-53,*,32,3,4,0.75,1,1,1.0,2,3,0.667,0.875,5,6,0.833,4,5,9,1,0,1,0,4,12,14.1,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+4,102,4,2018-11-21,Tennessee,N,Louisville,REG (Non-Conf),W 92-81,*,29,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,2,4,6,1,0,3,3,3,7,6.9,N,1,1,kyle-alexander-1,Kyle Alexander,2019
+5,103,5,2018-11-23,Tennessee,N,Kansas,REG (Non-Conf),L 81-87 (OT),*,34,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,3,0.667,3,4,7,0,1,1,1,4,10,8.7,N,0,1,kyle-alexander-1,Kyle Alexander,2019
+6,104,6,2018-11-28,Tennessee,,Eastern Kentucky,REG (Non-Conf),W 95-67,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,4,3,7,1,1,0,2,2,7,5.9,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+7,105,7,2018-12-02,Tennessee,,Texas A&M–Corpus Christi,REG (Non-Conf),W 79-51,*,26,4,4,1.0,0,0,,4,4,1.0,1.0,4,5,0.8,0,10,10,1,0,2,3,2,12,11.7,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+8,106,8,2018-12-09,Tennessee,N,Gonzaga,REG (Non-Conf),W 76-73,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,3,3,6,0,0,0,0,4,2,1.3,N,1,1,kyle-alexander-1,Kyle Alexander,2019
+9,107,9,2018-12-15,Tennessee,@,Memphis,REG (Non-Conf),W 102-92,*,26,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,5,0.6,3,6,9,1,0,4,1,4,10,11.0,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+10,108,10,2018-12-19,Tennessee,,Samford,REG (Non-Conf),W 83-70,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,4,7,0.571,1,4,5,0,0,1,3,3,10,4.9,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+11,109,11,2018-12-22,Tennessee,,Wake Forest,REG (Non-Conf),W 83-64,*,30,9,10,0.9,0,0,,9,10,0.9,0.9,1,4,0.25,4,4,8,0,1,1,1,2,19,18.3,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+12,110,12,2018-12-29,Tennessee,,Tennessee Tech,REG (Non-Conf),W 96-53,*,22,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,4,5,1,1,3,3,1,8,8.4,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+13,111,13,2019-01-05,Tennessee,,Georgia,REG (Conf),W 96-50,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,0,1,0.0,3,11,14,2,0,1,0,1,12,15.5,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+14,112,14,2019-01-08,Tennessee,@,Missouri,REG (Conf),W 87-63,*,32,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,7,10,17,1,1,3,2,0,14,20.5,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+15,113,15,2019-01-12,Tennessee,@,Florida,REG (Conf),W 78-67,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,2,5,0,1,0,0,4,2,3.1,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+16,114,16,2019-01-15,Tennessee,,Arkansas,REG (Conf),W 106-87,*,26,4,6,0.667,0,0,,4,6,0.667,0.667,4,5,0.8,3,2,5,0,2,0,3,4,12,9.1,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+17,115,17,2019-01-19,Tennessee,,Alabama,REG (Conf),W 71-68,*,29,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,7,9,0,0,5,0,0,6,10.7,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+18,116,18,2019-01-23,Tennessee,@,Vanderbilt,REG (Conf),W 88-83 (OT),*,35,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,4,5,0,0,3,2,1,6,6.7,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+19,117,19,2019-01-26,Tennessee,,West Virginia,REG (Non-Conf),W 83-66,*,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,3,1,4,0,0,2,1,5,2,1.1,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+20,118,20,2019-01-29,Tennessee,@,South Carolina,REG (Conf),W 92-70,*,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,1,0,0,0,5,2,0.7,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+21,119,21,2019-02-02,Tennessee,@,Texas A&M,REG (Conf),W 93-76,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,6,8,2,0,1,0,3,4,7.5,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+22,120,22,2019-02-05,Tennessee,,Missouri,REG (Conf),W 72-60,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,0,2,0.0,2,6,8,1,1,4,1,0,6,9.6,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+23,121,23,2019-02-09,Tennessee,,Florida,REG (Conf),W 73-61,*,19,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,1,2,3,0,0,2,2,3,6,2.0,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+24,122,24,2019-02-13,Tennessee,,South Carolina,REG (Conf),W 85-73,*,20,5,11,0.455,0,0,,5,11,0.455,0.455,0,0,,2,1,3,1,1,2,0,3,10,7.9,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+25,123,25,2019-02-16,Tennessee,@,Kentucky,REG (Conf),L 69-86,*,18,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,1,3,0,0,0,0,5,4,2.0,A,0,1,kyle-alexander-1,Kyle Alexander,2019
+26,124,26,2019-02-19,Tennessee,,Vanderbilt,REG (Conf),W 58-46,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,1,2,3,0,0,1,0,1,3,3.5,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+27,125,27,2019-02-23,Tennessee,@,Louisiana State,REG (Conf),L 80-82 (OT),*,27,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,2,4,6,0,1,3,1,2,7,10.0,A,0,1,kyle-alexander-1,Kyle Alexander,2019
+28,126,28,2019-02-27,Tennessee,@,Ole Miss,REG (Conf),W 73-71,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,4,4,0,0,0,0,0,3,2.1,A,1,1,kyle-alexander-1,Kyle Alexander,2019
+29,127,29,2019-03-02,Tennessee,,Kentucky,REG (Conf),W 71-52,*,12,0,0,,0,0,,0,0,,,0,1,0.0,2,4,6,1,0,1,1,5,0,0.6,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+30,128,30,2019-03-05,Tennessee,,Mississippi State,REG (Conf),W 71-54,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,7,10,0,0,4,1,2,6,8.9,H,1,1,kyle-alexander-1,Kyle Alexander,2019
+31,129,31,2019-03-09,Tennessee,@,Auburn,REG (Conf),L 80-84,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,5,4,9,0,0,0,1,3,6,6.2,A,0,1,kyle-alexander-1,Kyle Alexander,2019
+32,130,32,2019-03-15,Tennessee,N,Mississippi State,CTOURN,W 83-76,*,28,8,11,0.727,0,0,,8,11,0.727,0.727,0,1,0.0,7,2,9,1,3,2,0,4,16,20.1,N,1,0,kyle-alexander-1,Kyle Alexander,2019
+33,131,33,2019-03-16,Tennessee,N,Kentucky,CTOURN,W 82-78,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,1,3,0,1,1,3,5,2,-0.6,N,1,0,kyle-alexander-1,Kyle Alexander,2019
+34,132,34,2019-03-17,Tennessee,N,Auburn,CTOURN,L 64-84,*,14,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,4,5,1,0,1,1,1,2,2.5,N,0,0,kyle-alexander-1,Kyle Alexander,2019
+35,133,35,2019-03-22,Tennessee,N,Colgate,ROUND-64,W 77-70,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,4,6,0,0,1,0,3,2,2.4,N,1,0,kyle-alexander-1,Kyle Alexander,2019
+36,134,36,2019-03-24,Tennessee,N,Iowa,ROUND-32,W 83-77 (OT),*,33,2,2,1.0,0,0,,2,2,1.0,1.0,4,5,0.8,3,6,9,0,0,1,2,4,8,8.0,N,1,0,kyle-alexander-1,Kyle Alexander,2019
+37,135,37,2019-03-28,Tennessee,N,Purdue,ROUND-16,L 94-99 (OT),*,25,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,6,2,8,0,1,3,1,5,9,9.8,N,0,0,kyle-alexander-1,Kyle Alexander,2019

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-09,Kansas State,,North Dakota,REG (Non-Conf),W 85-52,*,15,5,11,0.455,3,7,0.429,2,4,0.5,0.591,0,0,,0,2,2,2,2,0,0,4,13,9.7,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+2,34,2,2012-11-12,Kansas State,,Lamar,REG (Non-Conf),W 79-55,*,20,6,14,0.429,4,6,0.667,2,8,0.25,0.571,3,4,0.75,2,0,2,4,0,0,3,0,19,12.4,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+3,35,3,2012-11-13,Kansas State,N,Ala.-Huntsville,REG (Non-Conf),W 87-26,*,19,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,1,4,5,6,2,0,1,1,10,12.3,N,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+4,36,4,2012-11-18,Kansas State,,North Florida,REG (Non-Conf),W 74-55,*,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,6,0,0,2,2,2,1.6,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+5,37,5,2012-11-21,Kansas State,N,Delaware,REG (Non-Conf),W 66-63,*,33,3,9,0.333,0,4,0.0,3,5,0.6,0.333,6,7,0.857,1,3,4,5,0,0,4,2,12,6.8,N,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+6,38,6,2012-11-23,Kansas State,N,Michigan,REG (Non-Conf),L 57-71,*,26,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,0,3,3,6,1,0,2,1,10,10.0,N,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+7,39,7,2012-12-02,Kansas State,,USC Upstate,REG (Non-Conf),W 72-53,*,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,2,0,0,2,1,1,-1.8,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+8,40,8,2012-12-08,Kansas State,@,George Washington,REG (Non-Conf),W 65-62,*,31,6,18,0.333,1,6,0.167,5,12,0.417,0.361,4,6,0.667,0,0,0,5,3,0,3,3,17,8.3,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+9,41,9,2012-12-15,Kansas State,N,Gonzaga,REG (Non-Conf),L 52-68,*,30,4,11,0.364,3,7,0.429,1,4,0.25,0.5,3,3,1.0,0,0,0,3,2,0,2,3,14,8.8,N,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+10,42,10,2012-12-18,Kansas State,,Texas Southern,REG (Non-Conf),W 78-69,*,29,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,1,1,5,0,0,3,2,9,5.6,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+11,43,11,2012-12-22,Kansas State,N,Florida,REG (Non-Conf),W 67-61,*,19,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,1,1,3,0,0,2,4,4,1.4,N,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+12,44,14,2013-01-05,Kansas State,,Oklahoma State,REG (Conf),W 73-67,*,25,0,5,0.0,0,3,0.0,0,2,0.0,0.0,3,4,0.75,0,3,3,8,2,0,3,5,3,2.6,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+13,45,15,2013-01-12,Kansas State,@,West Virginia,REG (Conf),W 65-64,*,25,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,0,0,2,2,0,4,3,9,3.2,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+14,46,16,2013-01-16,Kansas State,@,TCU,REG (Conf),W 67-54,*,21,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,1,2,3,2,0,0,0,3,4.3,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+15,47,17,2013-01-19,Kansas State,,Oklahoma,REG (Conf),W 69-60,*,32,4,14,0.286,1,4,0.25,3,10,0.3,0.321,3,6,0.5,1,1,2,9,3,0,1,2,12,11.1,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+16,48,18,2013-01-22,Kansas State,,Kansas,REG (Conf),L 55-59,*,36,4,10,0.4,1,5,0.2,3,5,0.6,0.45,3,4,0.75,1,4,5,8,2,0,2,1,12,13.3,H,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+17,49,19,2013-01-26,Kansas State,@,Iowa State,REG (Conf),L 67-73,*,18,3,9,0.333,0,4,0.0,3,5,0.6,0.333,3,3,1.0,0,1,1,6,2,0,0,4,9,8.8,A,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+18,50,20,2013-01-30,Kansas State,,Texas,REG (Conf),W 83-57,*,34,3,12,0.25,1,5,0.2,2,7,0.286,0.292,4,5,0.8,1,1,2,8,1,0,1,2,11,9.2,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+19,51,21,2013-02-02,Kansas State,@,Oklahoma,REG (Conf),W 52-50,*,31,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,0,0,0,3,1,0,2,3,4,0.1,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+20,52,22,2013-02-05,Kansas State,@,Texas Tech,REG (Conf),W 68-59,*,23,3,9,0.333,3,6,0.5,0,3,0.0,0.5,4,4,1.0,0,0,0,2,0,0,2,1,13,6.9,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+21,53,23,2013-02-09,Kansas State,,Iowa State,REG (Conf),W 79-70,*,34,6,14,0.429,1,3,0.333,5,11,0.455,0.464,7,7,1.0,1,1,2,3,2,0,3,1,20,14.3,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+22,54,24,2013-02-11,Kansas State,@,Kansas,REG (Conf),L 62-83,*,31,6,12,0.5,3,6,0.5,3,6,0.5,0.625,2,4,0.5,1,1,2,6,3,0,3,0,17,15.4,A,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+23,55,25,2013-02-16,Kansas State,,Baylor,REG (Conf),W 81-61,*,38,7,15,0.467,3,8,0.375,4,7,0.571,0.567,5,5,1.0,3,2,5,10,3,0,2,1,22,24.6,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+24,56,26,2013-02-18,Kansas State,,West Virginia,REG (Conf),W 71-61,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,3,3,1.0,0,0,0,7,2,0,6,1,11,7.8,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+25,57,27,2013-02-23,Kansas State,@,Texas,REG (Conf),W 81-69,*,27,3,8,0.375,2,5,0.4,1,3,0.333,0.5,8,8,1.0,0,2,2,6,1,0,3,4,16,12.8,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+26,58,28,2013-02-25,Kansas State,,Texas Tech,REG (Conf),W 75-55,*,29,6,12,0.5,2,6,0.333,4,6,0.667,0.583,2,3,0.667,1,3,4,7,4,0,3,1,16,16.7,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+27,59,29,2013-03-02,Kansas State,@,Baylor,REG (Conf),W 64-61,*,36,4,10,0.4,3,5,0.6,1,5,0.2,0.55,2,3,0.667,2,1,3,8,1,0,3,1,13,12.1,A,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+28,60,30,2013-03-05,Kansas State,,TCU,REG (Conf),W 79-68,*,38,8,13,0.615,5,10,0.5,3,3,1.0,0.808,0,0,,0,0,0,10,1,0,3,3,21,18.9,H,1,1,angel-rodriguez-1,Angel Rodriguez,2013
+29,61,31,2013-03-09,Kansas State,@,Oklahoma State,REG (Conf),L 70-76,*,37,3,16,0.188,0,4,0.0,3,12,0.25,0.188,4,5,0.8,1,4,5,6,1,0,4,3,10,1.5,A,0,1,angel-rodriguez-1,Angel Rodriguez,2013
+30,62,32,2013-03-14,Kansas State,N,Texas,CTOURN,W 66-49,*,24,4,9,0.444,3,6,0.5,1,3,0.333,0.611,2,2,1.0,0,3,3,5,1,0,1,3,13,11.5,N,1,0,angel-rodriguez-1,Angel Rodriguez,2013
+31,63,33,2013-03-15,Kansas State,N,Oklahoma State,CTOURN,W 68-57,*,37,5,14,0.357,3,7,0.429,2,7,0.286,0.464,4,4,1.0,1,5,6,4,3,0,3,3,17,13.0,N,1,0,angel-rodriguez-1,Angel Rodriguez,2013
+32,64,34,2013-03-16,Kansas State,N,Kansas,CTOURN,L 54-70,*,34,3,12,0.25,3,8,0.375,0,4,0.0,0.375,1,2,0.5,0,1,1,1,1,0,2,1,10,2.0,N,0,0,angel-rodriguez-1,Angel Rodriguez,2013
+33,65,35,2013-03-22,Kansas State,N,La Salle,ROUND-64,L 61-63,*,36,0,6,0.0,0,2,0.0,0,4,0.0,0.0,2,3,0.667,0,1,1,4,2,0,3,4,2,-2.1,N,0,0,angel-rodriguez-1,Angel Rodriguez,2013

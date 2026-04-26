@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2015-11-13,Seton Hall,,Dartmouth,REG (Non-Conf),W 84-67,*,26,4,7,0.571,1,1,1.0,3,6,0.5,0.643,3,5,0.6,3,2,5,2,2,0,4,2,12,9.2,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+2,33,2,2015-11-15,Seton Hall,,Wagner,REG (Non-Conf),W 69-59,*,26,4,5,0.8,2,3,0.667,2,2,1.0,1.0,5,6,0.833,1,7,8,3,3,0,4,1,15,16.2,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+3,34,3,2015-11-19,Seton Hall,N,Long Beach State,REG (Non-Conf),L 77-80,*,29,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,1,5,6,2,1,0,1,3,11,9.4,N,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+4,35,4,2015-11-20,Seton Hall,N,Bradley,REG (Non-Conf),W 67-59,*,29,7,12,0.583,1,3,0.333,6,9,0.667,0.625,3,4,0.75,3,5,8,1,1,0,0,2,18,16.5,N,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+5,36,5,2015-11-22,Seton Hall,N,Ole Miss,REG (Non-Conf),W 75-63,*,24,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,1,1,2,2,2,0,1,2,12,9.2,N,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+6,37,6,2015-11-28,Seton Hall,,Georgia,REG (Non-Conf),W 69-62,*,18,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,1,0.0,0,0,0,2,2,0,1,5,11,7.4,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+7,38,7,2015-12-02,Seton Hall,@,George Washington,REG (Non-Conf),L 64-72,*,33,4,8,0.5,0,3,0.0,4,5,0.8,0.5,1,1,1.0,1,2,3,2,2,0,4,1,9,5.3,A,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+8,39,8,2015-12-05,Seton Hall,@,Rutgers,REG (Non-Conf),W 84-55,,22,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,0,5,5,0,1,0,2,1,8,3.3,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+9,40,9,2015-12-10,Seton Hall,,Troy,REG (Non-Conf),W 78-69,*,34,7,12,0.583,2,4,0.5,5,8,0.625,0.667,2,4,0.5,5,6,11,2,2,0,0,2,18,19.5,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+10,41,10,2015-12-13,Seton Hall,,Saint Peter's,REG (Non-Conf),W 72-46,*,19,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,1,1.0,0,1,1,2,1,0,2,0,9,6.7,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+11,42,11,2015-12-19,Seton Hall,,Wichita State,REG (Non-Conf),W 80-76 (OT),*,26,5,9,0.556,1,3,0.333,4,6,0.667,0.611,7,9,0.778,2,2,4,0,2,1,1,3,18,15.4,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+12,43,12,2015-12-22,Seton Hall,,South Florida,REG (Non-Conf),W 66-49,*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,1,1,2,2,1,0,2,1,6,3.2,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+13,44,13,2015-12-30,Seton Hall,@,Marquette,REG (Conf),W 83-63,*,20,5,11,0.455,0,1,0.0,5,10,0.5,0.455,9,10,0.9,4,1,5,1,1,0,2,4,19,14.1,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+14,45,14,2016-01-02,Seton Hall,,DePaul,REG (Conf),W 78-74,*,12,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,2,0.0,3,0,3,0,2,1,0,1,7,7.6,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+15,46,15,2016-01-06,Seton Hall,@,Villanova,REG (Conf),L 63-72,*,26,1,8,0.125,0,3,0.0,1,5,0.2,0.125,5,8,0.625,2,2,4,0,2,1,2,1,7,2.9,A,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+16,47,16,2016-01-09,Seton Hall,,Creighton,REG (Conf),L 67-82,*,21,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,4,0.25,2,3,5,0,2,1,1,2,8,6.3,H,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+17,48,17,2016-01-16,Seton Hall,@,Providence,REG (Conf),W 81-72,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,2,4,6,0,1,1,1,3,10,7.8,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+18,49,18,2016-01-20,Seton Hall,,Villanova,REG (Conf),L 71-72,*,34,5,8,0.625,3,4,0.75,2,4,0.5,0.813,1,2,0.5,1,3,4,1,3,0,1,1,14,13.9,H,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+19,50,19,2016-01-23,Seton Hall,@,Xavier,REG (Conf),L 76-84,*,31,10,14,0.714,0,3,0.0,10,11,0.909,0.714,1,2,0.5,3,5,8,2,1,0,1,2,21,19.0,A,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+20,51,20,2016-01-27,Seton Hall,,St. John's (NY),REG (Conf),W 79-60,*,20,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,2,0.0,3,3,6,0,1,0,2,1,8,3.4,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+21,52,21,2016-01-30,Seton Hall,@,Creighton,REG (Conf),W 75-65,*,36,6,11,0.545,2,5,0.4,4,6,0.667,0.636,0,0,,2,8,10,3,1,1,1,3,14,14.1,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+22,53,22,2016-02-03,Seton Hall,,Marquette,REG (Conf),W 79-62,*,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,4,4,8,1,2,0,2,0,5,5.9,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+23,54,23,2016-02-06,Seton Hall,,Georgetown,REG (Conf),W 69-61,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,1,0,0,0,4,4,2.4,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+24,55,24,2016-02-10,Seton Hall,,Butler,REG (Conf),L 75-81,*,31,8,17,0.471,0,2,0.0,8,15,0.533,0.471,2,3,0.667,3,4,7,1,0,1,1,1,18,12.2,H,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+25,56,25,2016-02-17,Seton Hall,@,Georgetown,REG (Conf),W 72-64,*,31,5,10,0.5,1,1,1.0,4,9,0.444,0.55,6,7,0.857,0,5,5,3,3,0,0,2,17,17.4,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+26,57,26,2016-02-21,Seton Hall,@,St. John's (NY),REG (Conf),W 62-61,*,32,8,10,0.8,4,4,1.0,4,6,0.667,1.0,4,5,0.8,1,1,2,1,1,0,4,2,24,17.7,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+27,58,27,2016-02-25,Seton Hall,,Providence,REG (Conf),W 70-52,*,32,3,8,0.375,0,3,0.0,3,5,0.6,0.375,5,7,0.714,0,8,8,0,1,0,6,2,11,2.4,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+28,59,28,2016-02-28,Seton Hall,,Xavier,REG (Conf),W 90-81,*,36,9,16,0.563,1,2,0.5,8,14,0.571,0.594,8,10,0.8,2,10,12,3,1,0,1,1,27,24.7,H,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+29,60,29,2016-03-02,Seton Hall,@,Butler,REG (Conf),L 78-85,*,32,3,8,0.375,0,2,0.0,3,6,0.5,0.375,6,7,0.857,0,4,4,3,1,0,2,3,12,8.3,A,0,1,desi-rodriguez-1,Desi Rodriguez,2016
+30,61,30,2016-03-05,Seton Hall,@,DePaul,REG (Conf),W 80-66,*,27,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,3,0.667,0,1,1,3,2,0,1,3,11,9.5,A,1,1,desi-rodriguez-1,Desi Rodriguez,2016
+31,62,31,2016-03-10,Seton Hall,N,Creighton,CTOURN,W 81-73,*,21,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,0,6,6,1,1,0,3,0,9,4.4,N,1,0,desi-rodriguez-1,Desi Rodriguez,2016
+32,63,32,2016-03-11,Seton Hall,N,Xavier,CTOURN,W 87-83,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,1,6,7,2,3,0,2,3,8,7.9,N,1,0,desi-rodriguez-1,Desi Rodriguez,2016
+33,64,33,2016-03-12,Seton Hall,N,Villanova,CTOURN,W 69-67,*,26,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,0,3,3,1,4,0,1,1,12,10.8,N,1,0,desi-rodriguez-1,Desi Rodriguez,2016
+34,65,34,2016-03-17,Seton Hall,N,Gonzaga,ROUND-64,L 52-68,*,24,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,3,0.333,0,1,1,0,1,0,3,2,8,0.3,N,0,0,desi-rodriguez-1,Desi Rodriguez,2016

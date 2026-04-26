@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Robert Morris,@,West Virginia,REG (Non-Conf),L 59-87,,23,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,2,2,4,0,0,0,1,1,7,3.2,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+2,2,2,2024-11-07,Robert Morris,@,Delaware,REG (Non-Conf),L 77-81,,19,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,3,2,5,1,1,3,2,5,10,10.9,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+3,3,3,2024-11-10,Robert Morris,,Chatham,REG (Non-Conf),W 79-51,,26,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,1,6,7,1,0,4,2,3,7,7.1,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+4,4,4,2024-11-14,Robert Morris,,Stonehill,REG (Non-Conf),W 63-51,*,31,2,4,0.5,0,1,0.0,2,3,0.667,0.5,6,11,0.545,2,5,7,1,2,7,1,2,10,14.7,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+5,5,5,2024-11-15,Robert Morris,,Lindenwood,REG (Non-Conf),W 67-53,*,28,5,12,0.417,0,2,0.0,5,10,0.5,0.417,0,0,,1,4,5,1,1,3,0,3,10,8.1,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+6,6,6,2024-11-17,Robert Morris,,New Orleans,REG (Non-Conf),W 73-62,*,31,2,7,0.286,0,1,0.0,2,6,0.333,0.286,1,5,0.2,2,4,6,3,0,3,2,2,5,3.3,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+7,7,7,2024-11-21,Robert Morris,@,Cornell,REG (Non-Conf),W 86-76,*,23,7,12,0.583,1,3,0.333,6,9,0.667,0.625,0,0,,0,2,2,0,0,1,1,4,15,8.1,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+8,8,8,2024-11-27,Robert Morris,,Canisius,REG (Non-Conf),W 72-64,*,29,7,9,0.778,0,0,,7,9,0.778,0.778,5,7,0.714,4,9,13,4,1,2,1,3,19,23.2,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+9,9,9,2024-11-30,Robert Morris,@,Ohio,REG (Non-Conf),L 68-84,*,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,6,0.667,2,2,4,0,0,0,2,3,8,4.0,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+10,10,10,2024-12-04,Robert Morris,,Youngstown State,REG (Conf),L 58-72,*,27,4,9,0.444,0,3,0.0,4,6,0.667,0.444,3,3,1.0,1,4,5,1,0,4,2,5,11,7.7,H,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+11,11,11,2024-12-08,Robert Morris,@,Purdue Fort Wayne,REG (Conf),L 77-82,*,29,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,3,9,12,0,1,2,2,5,10,8.5,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+12,12,12,2024-12-17,Robert Morris,,Towson,REG (Non-Conf),W 68-67,*,33,5,8,0.625,2,3,0.667,3,5,0.6,0.75,6,7,0.857,0,5,5,1,2,2,4,1,18,15.2,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+13,13,13,2024-12-21,Robert Morris,,Saint Francis (PA),REG (Non-Conf),W 90-77,*,27,5,8,0.625,1,2,0.5,4,6,0.667,0.688,5,7,0.714,2,4,6,1,0,3,3,4,16,12.4,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+14,14,14,2024-12-29,Robert Morris,,Northern Kentucky,REG (Conf),W 97-93 (3OT),*,47,11,20,0.55,0,3,0.0,11,17,0.647,0.55,5,7,0.714,8,7,15,0,3,5,1,4,27,28.2,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+15,15,15,2025-01-02,Robert Morris,@,Detroit Mercy,REG (Conf),L 76-78 (OT),*,35,7,16,0.438,1,4,0.25,6,12,0.5,0.469,5,8,0.625,3,3,6,0,1,1,0,4,20,13.5,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+16,16,16,2025-01-04,Robert Morris,@,Oakland,REG (Conf),W 79-71,*,32,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,5,5,10,4,1,3,1,1,8,13.8,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+17,17,17,2025-01-08,Robert Morris,,Cleveland State,REG (Conf),L 69-80,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,3,4,7,1,2,4,0,4,3,6.7,H,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+18,18,18,2025-01-12,Robert Morris,,Wright State,REG (Conf),W 75-72,,21,4,8,0.5,0,2,0.0,4,6,0.667,0.5,5,8,0.625,1,4,5,0,0,2,1,4,13,8.5,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+19,19,19,2025-01-17,Robert Morris,@,Green Bay,REG (Conf),W 89-67,*,30,8,11,0.727,2,3,0.667,6,8,0.75,0.818,4,5,0.8,0,2,2,2,1,2,1,2,22,19.7,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+20,20,20,2025-01-19,Robert Morris,@,Milwaukee,REG (Conf),W 81-79,*,20,3,8,0.375,0,2,0.0,3,6,0.5,0.375,6,6,1.0,3,2,5,1,0,1,0,4,12,10.1,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+21,21,21,2025-01-22,Robert Morris,@,Youngstown State,REG (Conf),W 72-70,*,34,4,9,0.444,0,1,0.0,4,8,0.5,0.444,7,8,0.875,4,3,7,1,4,1,1,0,15,18.0,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+22,22,22,2025-01-25,Robert Morris,,Oakland,REG (Conf),W 73-71,*,27,6,9,0.667,1,1,1.0,5,8,0.625,0.722,4,9,0.444,1,1,2,1,0,1,2,3,17,10.3,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+23,23,23,2025-01-30,Robert Morris,,IU Indy,REG (Conf),W 106-53,*,18,6,8,0.75,1,1,1.0,5,7,0.714,0.813,5,6,0.833,1,5,6,2,2,3,1,3,18,19.9,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+24,24,24,2025-02-02,Robert Morris,@,Wright State,REG (Conf),L 64-66,*,28,6,11,0.545,2,4,0.5,4,7,0.571,0.636,3,5,0.6,0,7,7,0,2,2,1,5,17,13.4,A,0,1,amarion-dickerson-1,Amarion Dickerson,2025
+25,25,25,2025-02-05,Robert Morris,,Detroit Mercy,REG (Conf),W 71-56,*,37,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,2,5,7,3,1,8,6,2,12,13.2,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+26,26,26,2025-02-08,Robert Morris,@,Northern Kentucky,REG (Conf),W 81-76,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,3,3,1.0,0,1,1,1,0,1,1,5,5,2.0,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+27,27,27,2025-02-12,Robert Morris,@,Cleveland State,REG (Conf),W 68-59,*,35,7,14,0.5,1,4,0.25,6,10,0.6,0.536,6,6,1.0,6,0,6,2,3,2,0,3,21,22.8,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+28,28,28,2025-02-15,Robert Morris,,Purdue Fort Wayne,REG (Conf),W 76-69,*,34,7,11,0.636,1,1,1.0,6,10,0.6,0.682,1,4,0.25,2,3,5,1,0,1,0,4,16,12.0,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+29,29,29,2025-02-21,Robert Morris,,Green Bay,REG (Conf),W 94-85,*,37,9,13,0.692,1,4,0.25,8,9,0.889,0.731,3,4,0.75,1,7,8,3,0,2,2,1,22,20.0,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+30,30,30,2025-02-23,Robert Morris,,Milwaukee,REG (Conf),W 72-59,*,36,6,11,0.545,1,3,0.333,5,8,0.625,0.591,3,5,0.6,4,0,4,1,1,2,3,4,16,11.2,H,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+31,31,31,2025-02-27,Robert Morris,@,IU Indy,REG (Conf),W 82-68,*,30,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,1,0.0,2,3,5,4,0,1,1,5,6,6.1,A,1,1,amarion-dickerson-1,Amarion Dickerson,2025
+32,32,32,2025-03-06,Robert Morris,,Wright State,CTOURN,W 83-62,*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,0,1,1,0,2,0,1,4,5,0.9,H,1,0,amarion-dickerson-1,Amarion Dickerson,2025
+33,33,33,2025-03-10,Robert Morris,N,Oakland,CTOURN,W 79-76 (OT),*,35,2,8,0.25,1,4,0.25,1,4,0.25,0.313,1,2,0.5,1,3,4,3,1,2,2,3,6,3.7,N,1,0,amarion-dickerson-1,Amarion Dickerson,2025
+34,34,34,2025-03-11,Robert Morris,N,Youngstown State,CTOURN,W 89-78,*,26,5,6,0.833,1,1,1.0,4,5,0.8,0.917,2,3,0.667,2,3,5,2,1,2,0,4,13,14.9,N,1,0,amarion-dickerson-1,Amarion Dickerson,2025
+35,35,35,2025-03-21,Robert Morris,N,Alabama,ROUND-64,L 81-90,*,37,11,22,0.5,1,8,0.125,10,14,0.714,0.523,2,4,0.5,6,3,9,0,3,2,0,5,25,20.7,N,0,0,amarion-dickerson-1,Amarion Dickerson,2025

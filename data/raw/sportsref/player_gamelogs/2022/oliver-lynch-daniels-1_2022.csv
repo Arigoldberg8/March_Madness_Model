@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,77,1,2021-11-09,Colgate,,Northeastern,REG (Non-Conf),W 65-58,,21,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,0,3,3,0,1,0,0,2,7,4.7,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+2,78,2,2021-11-13,Colgate,@,NC State,REG (Non-Conf),L 74-77,,20,4,8,0.5,3,5,0.6,1,3,0.333,0.688,0,0,,0,3,3,4,0,0,0,3,11,9.5,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+3,79,3,2021-11-16,Colgate,@,Cornell,REG (Non-Conf),L 68-78,,27,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,3,5,5,1,2,2,3,4,5.6,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+4,80,4,2021-11-18,Colgate,,SUNY Polytechnic,REG (Non-Conf),W 97-50,,20,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,4,4,3,1,0,3,0,9,7.3,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+5,81,5,2021-11-20,Colgate,@,Syracuse,REG (Non-Conf),W 100-85,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,4,4,1.0,2,2,4,2,1,0,3,2,12,9.6,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+6,82,6,2021-11-24,Colgate,@,Harvard,REG (Non-Conf),L 84-89 (OT),,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,0,0,0,3,0,0,2,2,2,-0.8,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+7,83,7,2021-11-29,Colgate,,Niagara,REG (Non-Conf),L 59-70,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,4,5,2,1,0,0,1,3,5.9,H,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+8,84,8,2021-12-03,Colgate,@,Northeastern,REG (Non-Conf),L 69-74,,24,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,2,2,1,0,0,1,3,11,6.1,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+9,85,9,2021-12-06,Colgate,,Columbia,REG (Non-Conf),W 89-61,,24,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,1,3,4,5,1,0,1,0,6,7.7,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+10,86,10,2021-12-09,Colgate,@,Pittsburgh,REG (Non-Conf),L 68-71,,20,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,1,3,4,0,0,0,1,3,8,6.5,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+11,87,11,2021-12-12,Colgate,@,St. John's (NY),REG (Non-Conf),L 64-82,*,33,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,2,4,6,2,0,0,5,1,10,3.9,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+12,88,15,2022-01-10,Colgate,,Army,REG (Conf),W 76-57,,21,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,3,3,2,0,0,3,2,6,1.1,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+13,89,16,2022-01-13,Colgate,@,Navy,REG (Conf),W 69-50,,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,2,0,2,1,2,1.2,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+14,90,17,2022-01-19,Colgate,@,Bucknell,REG (Conf),W 75-56,,22,5,9,0.556,3,4,0.75,2,5,0.4,0.722,0,0,,1,4,5,1,3,0,0,1,13,13.9,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+15,91,18,2022-01-24,Colgate,,Loyola (MD),REG (Conf),W 65-52,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,4,4,3,0,1,1,1,5,5.6,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+16,92,19,2022-01-28,Colgate,@,Boston University,REG (Conf),L 72-76,,20,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,1,1.0,1,2,3,0,1,0,2,2,8,4.5,A,0,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+17,93,20,2022-01-31,Colgate,@,Lafayette,REG (Conf),W 72-61,,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,4,5,1,0,0,1,0,4,2.2,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+18,94,21,2022-02-02,Colgate,,Bucknell,REG (Conf),W 83-69,,24,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,3,4,5,1,0,0,1,8,12.1,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+19,95,22,2022-02-05,Colgate,@,American,REG (Conf),W 86-68,,27,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,1,2,0,0,1,2,4.2,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+20,96,23,2022-02-07,Colgate,,Holy Cross,REG (Conf),W 87-60,,22,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,2,2,2,0,0,2,1,8,6.7,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+21,97,24,2022-02-09,Colgate,,Lehigh,REG (Conf),W 78-62,,23,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,0,0,1,2,3,1.8,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+22,98,25,2022-02-12,Colgate,@,Loyola (MD),REG (Conf),W 64-56,,22,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,1,1,0,1,0,2,0,9,5.3,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+23,99,26,2022-02-14,Colgate,,Lafayette,REG (Conf),W 69-61,,24,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,0,3,3,2,0,0,0,0,9,9.4,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+24,100,27,2022-02-16,Colgate,@,Army,REG (Conf),W 100-90,,22,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,3,3,1,0,0,2,0,10,7.0,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+25,101,28,2022-02-19,Colgate,,Boston University,REG (Conf),W 72-53,,20,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,1,1,2,2,1,1,0,3,6,6.9,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+26,102,29,2022-02-21,Colgate,,American,REG (Conf),W 63-49,,25,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,3,4,2,1,0,1,0,5,5.3,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+27,103,30,2022-02-23,Colgate,@,Holy Cross,REG (Conf),W 78-71,,18,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,1,0.0,0,2,2,1,1,0,1,4,6,3.3,A,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+28,104,31,2022-02-26,Colgate,,Navy,REG (Conf),W 74-69,,20,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,3,3,3,1,0,3,2,6,3.5,H,1,1,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+29,105,32,2022-03-03,Colgate,,Bucknell,CTOURN,W 96-68,,20,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,2,2,0,2,0,6,7.1,H,1,0,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+30,106,33,2022-03-06,Colgate,,Lehigh,CTOURN,W 81-61,,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,3,1,0,0,0,2,3.6,H,1,0,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+31,107,34,2022-03-09,Colgate,,Navy,CTOURN,W 74-58,,21,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,1,1,1,1,1,3,2,10,7.7,H,1,0,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022
+32,108,35,2022-03-18,Colgate,N,Wisconsin,ROUND-64,L 60-67,,20,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,1,0,1,0,0,0,3,3,5,-0.5,N,0,0,oliver-lynch-daniels-1,Oliver Lynch-Daniels,2022

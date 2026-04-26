@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Pittsburgh,,UT Martin,REG (Non-Conf),W 80-58,,13,0,1,0.0,0,1,0.0,0,0,,0.0,4,6,0.667,3,5,8,2,0,1,2,2,4,5.4,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+2,2,2,2022-11-11,Pittsburgh,,West Virginia,REG (Non-Conf),L 56-81,,5,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,1,1,0.2,H,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+3,3,3,2022-11-16,Pittsburgh,N,Michigan,REG (Non-Conf),L 60-91,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,2,0,0,1,0,0,1.1,N,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+4,4,4,2022-11-17,Pittsburgh,N,VCU,REG (Non-Conf),L 67-71,,30,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,3,0.333,2,5,7,1,3,0,1,5,7,5.4,N,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+5,5,5,2022-11-20,Pittsburgh,,Alabama State,REG (Non-Conf),W 73-54,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,0,3,0,2,-0.7,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+6,6,6,2022-11-22,Pittsburgh,,Fairleigh Dickinson,REG (Non-Conf),W 83-61,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+7,7,7,2022-11-25,Pittsburgh,,William & Mary,REG (Non-Conf),W 80-64,,3,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,1,0,0,0,3,3.7,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+8,8,8,2022-11-28,Pittsburgh,@,Northwestern,REG (Non-Conf),W 87-58,,6,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,1,2,0,-0.8,A,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+9,9,11,2022-12-10,Pittsburgh,,Sacred Heart,REG (Non-Conf),W 91-66,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,1,0,0,0.3,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+10,10,12,2022-12-17,Pittsburgh,,North Florida,REG (Non-Conf),W 82-56,,10,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,3,4,1,1,0,0,1,1,2.1,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+11,11,14,2022-12-30,Pittsburgh,,North Carolina,REG (Conf),W 76-74,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,1,2,2.3,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+12,12,15,2023-01-03,Pittsburgh,,Virginia,REG (Conf),W 68-65,,5,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,1,0,0,0,2,2.3,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+13,13,16,2023-01-07,Pittsburgh,,Clemson,REG (Conf),L 74-75,,12,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,4,1,5,1,2,0,0,4,4,7.5,H,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+14,14,17,2023-01-11,Pittsburgh,@,Duke,REG (Conf),L 69-77,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,2,2,1,5,2,3.1,A,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+15,15,18,2023-01-14,Pittsburgh,@,Georgia Tech,REG (Conf),W 71-60,,5,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,1,0,0.3,A,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+16,16,19,2023-01-18,Pittsburgh,@,Louisville,REG (Conf),W 75-54,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,3,0.333,4,4,8,0,0,1,2,3,6,4.7,A,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+17,17,20,2023-01-21,Pittsburgh,,Florida State,REG (Conf),L 64-71,,6,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+18,18,21,2023-01-25,Pittsburgh,,Wake Forest,REG (Conf),W 81-79,,12,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,2,0,2,0,0,0,0,1,5,3.6,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+19,19,22,2023-01-28,Pittsburgh,,Miami (FL),REG (Conf),W 71-68,,3,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,1,2,3,0,0,0,1,1,3,2.6,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+20,20,23,2023-02-01,Pittsburgh,@,North Carolina,REG (Conf),W 65-64,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,2,1,0,-4.5,A,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+21,21,24,2023-02-07,Pittsburgh,,Louisville,REG (Conf),W 91-57,,23,3,5,0.6,2,3,0.667,1,2,0.5,0.8,3,4,0.75,2,3,5,2,0,5,2,3,11,12.3,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+22,22,25,2023-02-11,Pittsburgh,@,Florida State,REG (Conf),W 83-75,,11,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,3,2,5,0,0,0,1,2,6,4.6,A,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+23,23,26,2023-02-14,Pittsburgh,,Boston College,REG (Conf),W 77-58,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,4,5,1,0,2,0,3,2,3.4,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+24,24,27,2023-02-18,Pittsburgh,@,Virginia Tech,REG (Conf),L 72-79,,14,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,4,2,6,1,2,2,0,1,8,12.8,A,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+25,25,28,2023-02-21,Pittsburgh,,Georgia Tech,REG (Conf),W 76-68,,4,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.1,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+26,26,29,2023-02-25,Pittsburgh,,Syracuse,REG (Conf),W 99-82,,13,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,3,3,1,1,2,1,3,4,4.5,H,1,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+27,27,30,2023-03-01,Pittsburgh,@,Notre Dame,REG (Conf),L 81-88,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,A,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+28,28,31,2023-03-04,Pittsburgh,@,Miami (FL),REG (Conf),L 76-78,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,0,3,2,1.5,A,0,1,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+29,29,32,2023-03-08,Pittsburgh,N,Georgia Tech,CTOURN,W 89-81,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,2,0,2,1,0,2,0,3,5,5.2,N,1,0,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+30,30,33,2023-03-09,Pittsburgh,N,Duke,CTOURN,L 69-96,,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,6,6,1.0,4,4,8,2,0,0,1,2,14,13.6,N,0,0,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+31,31,34,2023-03-14,Pittsburgh,N,Mississippi State,FIRST-FOUR,W 60-59,*,37,1,8,0.125,1,3,0.333,0,5,0.0,0.188,0,1,0.0,0,5,5,1,2,2,0,2,3,2.2,N,1,0,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+32,32,35,2023-03-17,Pittsburgh,N,Iowa State,ROUND-64,W 59-41,*,25,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,1,7,8,2,1,3,0,4,9,12.4,N,1,0,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023
+33,33,36,2023-03-19,Pittsburgh,N,Xavier,ROUND-32,L 73-84,*,34,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,6,0.5,5,3,8,2,1,3,1,4,11,12.8,N,0,0,guillermo-diaz-graham-1,Guillermo Diaz Graham,2023

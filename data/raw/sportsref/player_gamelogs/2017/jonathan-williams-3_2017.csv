@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2016-11-11,VCU,,UNC Asheville,REG (Non-Conf),W 80-65,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,0,4,4,3,0,1,1,1,10,7.5,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+2,69,2,2016-11-15,VCU,@,Liberty,REG (Non-Conf),W 64-59,*,16,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,0,0,3,1,0,2,4,4,3.2,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+3,70,3,2016-11-18,VCU,,Binghamton,REG (Non-Conf),W 81-42,*,15,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,0,2,2,5,2,0,3,1,8,8.4,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+4,71,4,2016-11-23,VCU,N,Baylor,REG (Non-Conf),L 63-71,*,35,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,0,3,3,3,2,0,1,2,12,11.3,N,0,1,jonathan-williams-3,Jonathan Williams,2017
+5,72,5,2016-11-24,VCU,N,St. John's (NY),REG (Non-Conf),W 75-69,*,34,8,15,0.533,0,0,,8,15,0.533,0.533,6,7,0.857,1,3,4,6,1,0,1,2,22,19.3,N,1,1,jonathan-williams-3,Jonathan Williams,2017
+6,73,6,2016-11-25,VCU,N,Louisiana State,REG (Non-Conf),W 85-74,*,33,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,0,2,2,4,3,0,0,1,6,7.6,N,1,1,jonathan-williams-3,Jonathan Williams,2017
+7,74,8,2016-12-03,VCU,N,Illinois,REG (Non-Conf),L 46-64,*,29,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,2,2,3,0,0,2,2,4,-0.2,N,0,1,jonathan-williams-3,Jonathan Williams,2017
+8,75,9,2016-12-07,VCU,,Georgia Tech,REG (Non-Conf),L 73-76 (OT),*,20,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,3,3,4,0,0,2,1,0,-0.8,H,0,1,jonathan-williams-3,Jonathan Williams,2017
+9,76,10,2016-12-10,VCU,@,Old Dominion,REG (Non-Conf),W 67-64,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,0,1,1,3,0,2,3,1,7,5.0,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+10,77,11,2016-12-17,VCU,,Middle Tennessee,REG (Non-Conf),W 80-77,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,1,1,1,0,0,0,2,4,2.5,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+11,78,12,2016-12-22,VCU,,Louisiana–Monroe,REG (Non-Conf),W 78-65,*,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,2,0.0,0,1,1,2,1,0,3,1,4,-0.2,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+12,79,13,2016-12-27,VCU,,Howard,REG (Non-Conf),W 85-51,*,22,5,8,0.625,1,2,0.5,4,6,0.667,0.688,3,3,1.0,0,3,3,6,2,0,1,0,14,16.5,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+13,80,14,2016-12-30,VCU,@,George Mason,REG (Conf),W 73-64,*,33,6,12,0.5,0,0,,6,12,0.5,0.5,0,1,0.0,0,4,4,5,1,1,2,2,12,9.2,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+14,81,15,2017-01-04,VCU,@,Duquesne,REG (Conf),W 94-87,*,23,6,12,0.5,0,0,,6,12,0.5,0.5,1,1,1.0,0,2,2,4,0,0,0,2,13,9.6,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+15,82,16,2017-01-07,VCU,,Massachusetts,REG (Conf),W 81-64,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,2,4,0.5,0,3,3,4,0,0,3,3,12,7.8,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+16,83,17,2017-01-11,VCU,,George Washington,REG (Conf),W 85-55,*,27,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,1,1.0,0,4,4,5,0,0,1,1,11,10.7,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+17,84,18,2017-01-14,VCU,@,Davidson,REG (Conf),L 63-69,*,32,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,0,1,1,1,0,0,1,2,8,3.5,A,0,1,jonathan-williams-3,Jonathan Williams,2017
+18,85,19,2017-01-18,VCU,@,Fordham,REG (Conf),L 67-69 (OT),*,28,3,7,0.429,0,0,,3,7,0.429,0.429,2,3,0.667,0,3,3,6,2,1,7,1,8,4.3,A,0,1,jonathan-williams-3,Jonathan Williams,2017
+19,86,20,2017-01-22,VCU,,La Salle,REG (Conf),W 90-52,,23,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,2,0.0,1,1,2,5,0,0,2,0,8,3.6,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+20,87,21,2017-01-27,VCU,,Dayton,REG (Conf),W 73-68,,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,0,0,1,0,0,1,0,6,3.0,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+21,88,22,2017-02-01,VCU,,Richmond,REG (Conf),W 81-74,,20,1,3,0.333,0,0,,1,3,0.333,0.333,4,6,0.667,0,1,1,4,0,0,1,2,6,4.8,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+22,89,23,2017-02-04,VCU,@,St. Bonaventure,REG (Conf),W 83-77 (OT),,27,1,5,0.2,0,2,0.0,1,3,0.333,0.2,5,5,1.0,0,1,1,0,0,1,1,0,7,3.9,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+23,90,24,2017-02-08,VCU,@,George Washington,REG (Conf),W 54-53,,18,2,9,0.222,0,1,0.0,2,8,0.25,0.222,0,0,,0,2,2,1,0,0,0,0,4,-0.2,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+24,91,25,2017-02-11,VCU,,Davidson,REG (Conf),W 74-60,,27,0,5,0.0,0,1,0.0,0,4,0.0,0.0,2,2,1.0,0,4,4,2,1,0,1,2,2,0.3,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+25,92,26,2017-02-14,VCU,,Saint Joseph's,REG (Conf),W 91-81,,20,1,4,0.25,0,0,,1,4,0.25,0.25,4,6,0.667,0,1,1,0,0,0,1,1,6,1.7,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+26,93,27,2017-02-17,VCU,@,Richmond,REG (Conf),W 84-73,,27,5,10,0.5,0,1,0.0,5,9,0.556,0.5,5,5,1.0,0,3,3,4,0,0,4,1,15,9.3,A,1,1,jonathan-williams-3,Jonathan Williams,2017
+27,94,28,2017-02-22,VCU,,Saint Louis,REG (Conf),W 64-50,,26,6,11,0.545,0,2,0.0,6,9,0.667,0.545,5,6,0.833,0,2,2,1,0,0,0,2,17,11.8,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+28,95,29,2017-02-25,VCU,@,Rhode Island,REG (Conf),L 59-69,,29,5,11,0.455,0,1,0.0,5,10,0.5,0.455,4,4,1.0,0,4,4,1,0,0,0,2,14,9.4,A,0,1,jonathan-williams-3,Jonathan Williams,2017
+29,96,30,2017-03-01,VCU,@,Dayton,REG (Conf),L 72-79,,18,3,7,0.429,0,0,,3,7,0.429,0.429,0,1,0.0,1,1,2,2,1,0,2,2,6,2.5,A,0,1,jonathan-williams-3,Jonathan Williams,2017
+30,97,31,2017-03-04,VCU,,George Mason,REG (Conf),W 72-60,,22,4,10,0.4,0,0,,4,10,0.4,0.4,2,4,0.5,0,2,2,3,0,0,0,0,10,6.5,H,1,1,jonathan-williams-3,Jonathan Williams,2017
+31,98,32,2017-03-10,VCU,N,George Mason,CTOURN,W 71-60,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,0,3,3,1,2,0,1,1,7,6.8,N,1,0,jonathan-williams-3,Jonathan Williams,2017
+32,99,33,2017-03-11,VCU,N,Richmond,CTOURN,W 87-77 (OT),,29,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,0,1,1,7,1,0,1,2,6,6.0,N,1,0,jonathan-williams-3,Jonathan Williams,2017
+33,100,34,2017-03-12,VCU,N,Rhode Island,CTOURN,L 63-70,,23,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,1,0,1,3,1,0,0,2,4,2.9,N,0,0,jonathan-williams-3,Jonathan Williams,2017
+34,101,35,2017-03-16,VCU,N,St. Mary's (CA),ROUND-64,L 77-85,,19,1,5,0.2,0,0,,1,5,0.2,0.2,3,3,1.0,1,3,4,2,0,0,0,2,5,4.1,N,0,0,jonathan-williams-3,Jonathan Williams,2017

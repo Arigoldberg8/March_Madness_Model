@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,39,1,2023-11-06,Texas,,Incarnate Word,REG (Non-Conf),W 88-56,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,0,3,0.0,1,5,6,3,2,2,1,2,8,10.1,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+2,40,2,2023-11-10,Texas,,Delaware State,REG (Non-Conf),W 86-59,*,26,5,7,0.714,0,0,,5,7,0.714,0.714,4,4,1.0,2,9,11,4,1,1,4,1,14,15.3,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+3,41,3,2023-11-15,Texas,,Rice,REG (Non-Conf),W 80-64,*,34,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,2,0.0,2,11,13,3,1,2,5,2,6,5.6,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+4,42,4,2023-11-19,Texas,N,Louisville,REG (Non-Conf),W 81-80,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,5,6,0.833,2,2,4,0,1,0,1,4,9,6.3,N,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+5,43,5,2023-11-20,Texas,N,Connecticut,REG (Non-Conf),L 71-81,*,37,9,12,0.75,0,1,0.0,9,11,0.818,0.75,3,5,0.6,4,4,8,2,1,2,1,2,21,21.4,N,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+6,44,6,2023-11-26,Texas,,Wyoming,REG (Non-Conf),W 86-63,*,24,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,2,7,9,1,0,1,0,3,12,10.4,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+7,45,7,2023-11-30,Texas,,Texas State,REG (Non-Conf),W 77-58,*,38,5,9,0.556,0,1,0.0,5,8,0.625,0.556,1,4,0.25,3,8,11,2,1,4,1,1,11,13.8,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+8,46,8,2023-12-06,Texas,@,Marquette,REG (Non-Conf),L 65-86,*,37,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,2,8,10,3,1,2,1,1,8,10.2,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+9,47,9,2023-12-09,Texas,,Houston Christian,REG (Non-Conf),W 77-50,*,31,5,8,0.625,0,1,0.0,5,7,0.714,0.625,3,4,0.75,1,11,12,3,2,1,1,0,13,16.8,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+10,48,10,2023-12-16,Texas,N,Louisiana State,REG (Non-Conf),W 96-85,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,3,7,10,1,2,0,2,3,12,13.0,N,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+11,49,11,2023-12-22,Texas,,Texas A&M–Corpus Christi,REG (Non-Conf),W 71-55,*,30,5,7,0.714,0,0,,5,7,0.714,0.714,4,5,0.8,2,11,13,1,1,0,2,3,14,13.9,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+12,50,12,2023-12-29,Texas,,UNC Greensboro,REG (Non-Conf),W 72-37,*,25,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,2,4,6,0,0,4,0,1,7,10.0,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+13,51,13,2024-01-01,Texas,,UT Arlington,REG (Non-Conf),W 79-62,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,2,5,0.4,5,3,8,0,0,0,0,2,8,7.4,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+14,52,14,2024-01-06,Texas,,Texas Tech,REG (Conf),L 67-78,*,34,7,14,0.5,0,0,,7,14,0.5,0.5,2,4,0.5,4,7,11,4,0,0,2,2,16,13.1,H,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+15,53,15,2024-01-09,Texas,@,Cincinnati,REG (Conf),W 74-73,*,37,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,2,1.0,0,4,4,1,0,1,1,2,10,8.2,A,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+16,54,16,2024-01-13,Texas,@,West Virginia,REG (Conf),L 73-76,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,0,4,4,0,1,0,2,3,8,3.7,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+17,55,17,2024-01-17,Texas,,UCF,REG (Conf),L 71-77,*,35,6,9,0.667,0,0,,6,9,0.667,0.667,3,4,0.75,0,9,9,1,2,0,3,2,15,12.3,H,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+18,56,18,2024-01-20,Texas,,Baylor,REG (Conf),W 75-73,*,35,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,3,6,1,0,0,0,2,6,5.9,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+19,57,19,2024-01-23,Texas,@,Oklahoma,REG (Conf),W 75-60,*,34,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,12,13,2,0,2,3,0,8,9.8,A,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+20,58,20,2024-01-27,Texas,@,Brigham Young,REG (Conf),L 72-84,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,0,5,5,3,1,0,0,1,6,7.4,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+21,59,21,2024-01-29,Texas,,Houston,REG (Conf),L 72-76 (OT),*,33,7,13,0.538,0,0,,7,13,0.538,0.538,2,4,0.5,3,7,10,0,1,0,1,2,16,12.3,H,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+22,60,22,2024-02-03,Texas,@,TCU,REG (Conf),W 77-66,*,35,6,9,0.667,0,0,,6,9,0.667,0.667,1,1,1.0,4,7,11,0,2,1,4,0,13,12.7,A,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+23,61,23,2024-02-06,Texas,,Iowa State,REG (Conf),L 65-70,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,0,5,5,1,0,1,2,1,10,7.2,H,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+24,62,24,2024-02-10,Texas,,West Virginia,REG (Conf),W 94-58,*,28,6,13,0.462,0,0,,6,13,0.462,0.462,0,0,,1,7,8,4,2,2,0,1,12,13.9,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+25,63,25,2024-02-17,Texas,@,Houston,REG (Conf),L 61-82,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,2,5,0,2,0,1,1,3,4.9,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+26,64,26,2024-02-19,Texas,,Kansas State,REG (Conf),W 62-56,*,31,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,2,0.0,1,9,10,0,2,2,3,2,8,4.8,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+27,65,27,2024-02-24,Texas,@,Kansas,REG (Conf),L 67-86,*,20,6,10,0.6,0,0,,6,10,0.6,0.6,0,0,,1,3,4,2,2,0,2,2,12,9.6,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+28,66,28,2024-02-27,Texas,@,Texas Tech,REG (Conf),W 81-69,*,22,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,4,4,8,1,1,2,2,1,2,5.3,A,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+29,67,29,2024-03-02,Texas,,Oklahoma State,REG (Conf),W 81-65,*,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,2,0,1,1,2,3.2,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+30,68,30,2024-03-04,Texas,@,Baylor,REG (Conf),L 85-93,*,28,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,0,1,2,1,0,0,3,5,5.2,A,0,1,dillon-mitchell-1,Dillon Mitchell,2024
+31,69,31,2024-03-09,Texas,,Oklahoma,REG (Conf),W 94-80,,22,5,7,0.714,0,0,,5,7,0.714,0.714,4,4,1.0,0,2,2,2,1,0,0,2,14,13.3,H,1,1,dillon-mitchell-1,Dillon Mitchell,2024
+32,70,32,2024-03-13,Texas,N,Kansas State,CTOURN,L 74-78,*,30,6,6,1.0,0,0,,6,6,1.0,1.0,1,5,0.2,1,5,6,2,0,0,0,1,13,12.8,N,0,0,dillon-mitchell-1,Dillon Mitchell,2024
+33,71,33,2024-03-21,Texas,N,Colorado State,ROUND-64,W 56-44,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,5,6,0,1,0,1,2,4,3.0,N,1,0,dillon-mitchell-1,Dillon Mitchell,2024
+34,72,34,2024-03-23,Texas,N,Tennessee,ROUND-32,L 58-62,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,0,0,1,1,2,0.9,N,0,0,dillon-mitchell-1,Dillon Mitchell,2024

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2023-11-06,Dayton,,SIU Edwardsville,REG (Non-Conf),W 63-47,,23,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,1,1,6,0,0,0,3,5,5.9,H,1,1,javon-bennett-1,Javon Bennett,2024
+2,36,2,2023-11-10,Dayton,@,Northwestern,REG (Non-Conf),L 66-71,*,36,4,8,0.5,3,6,0.5,1,2,0.5,0.688,1,2,0.5,1,0,1,5,1,0,3,2,12,9.0,A,0,1,javon-bennett-1,Javon Bennett,2024
+3,37,3,2023-11-16,Dayton,N,Louisiana State,REG (Non-Conf),W 70-67,*,35,5,15,0.333,4,13,0.308,1,2,0.5,0.467,2,2,1.0,1,1,2,3,1,0,2,1,16,9.2,N,1,1,javon-bennett-1,Javon Bennett,2024
+4,38,4,2023-11-17,Dayton,N,St. John's (NY),REG (Non-Conf),W 88-81,*,31,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,4,0.75,0,1,1,1,4,1,4,2,5,3.1,N,1,1,javon-bennett-1,Javon Bennett,2024
+5,39,5,2023-11-19,Dayton,N,Houston,REG (Non-Conf),L 55-69,*,27,1,10,0.1,0,7,0.0,1,3,0.333,0.1,0,0,,0,1,1,1,1,0,0,2,2,-3.4,N,0,1,javon-bennett-1,Javon Bennett,2024
+6,40,6,2023-11-24,Dayton,,Youngstown State,REG (Non-Conf),W 77-69,*,33,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,0,1,1,2,0,0,0,1,10,6.6,H,1,1,javon-bennett-1,Javon Bennett,2024
+7,41,7,2023-11-29,Dayton,@,SMU,REG (Non-Conf),W 65-63,*,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,1,2,1,0,0,2,1,2,-1.8,A,1,1,javon-bennett-1,Javon Bennett,2024
+8,42,8,2023-12-02,Dayton,,Grambling State,REG (Non-Conf),W 76-46,*,29,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,2,2,8,3,0,0,0,2,6.7,H,1,1,javon-bennett-1,Javon Bennett,2024
+9,43,10,2023-12-09,Dayton,,Troy,REG (Non-Conf),W 82-70,*,29,2,6,0.333,2,4,0.5,0,2,0.0,0.5,5,6,0.833,1,0,1,3,1,1,2,4,11,8.1,H,1,1,javon-bennett-1,Javon Bennett,2024
+10,44,11,2023-12-16,Dayton,N,Cincinnati,REG (Non-Conf),W 82-68,*,24,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,2,2,0,3,0,2,-0.1,N,1,1,javon-bennett-1,Javon Bennett,2024
+11,45,12,2023-12-20,Dayton,,Oakland,REG (Non-Conf),W 91-67,*,30,7,10,0.7,5,8,0.625,2,2,1.0,0.95,0,0,,1,3,4,9,1,0,0,0,19,23.7,H,1,1,javon-bennett-1,Javon Bennett,2024
+12,46,13,2023-12-30,Dayton,,Longwood,REG (Non-Conf),W 78-69,*,29,3,6,0.5,2,5,0.4,1,1,1.0,0.667,3,4,0.75,1,1,2,4,1,0,0,3,11,11.2,H,1,1,javon-bennett-1,Javon Bennett,2024
+13,47,14,2024-01-03,Dayton,@,Davidson,REG (Conf),W 72-59,*,32,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,1,0.0,0,2,2,6,3,0,1,0,2,5.3,A,1,1,javon-bennett-1,Javon Bennett,2024
+14,48,15,2024-01-07,Dayton,,Massachusetts,REG (Conf),W 64-60,*,37,0,5,0.0,0,3,0.0,0,2,0.0,0.0,4,4,1.0,0,1,1,2,2,0,2,2,4,1.4,H,1,1,javon-bennett-1,Javon Bennett,2024
+15,49,16,2024-01-12,Dayton,@,Duquesne,REG (Conf),W 72-62,*,31,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,1,0,1,6,2,0,1,5,9,9.9,A,1,1,javon-bennett-1,Javon Bennett,2024
+16,50,17,2024-01-16,Dayton,,Saint Louis,REG (Conf),W 70-65,*,32,2,10,0.2,1,8,0.125,1,2,0.5,0.25,1,2,0.5,1,4,5,2,0,0,0,4,6,1.1,H,1,1,javon-bennett-1,Javon Bennett,2024
+17,51,18,2024-01-20,Dayton,,Rhode Island,REG (Conf),W 96-62,*,26,8,9,0.889,4,5,0.8,4,4,1.0,1.111,2,2,1.0,0,1,1,5,2,0,0,3,22,23.5,H,1,1,javon-bennett-1,Javon Bennett,2024
+18,52,19,2024-01-23,Dayton,@,La Salle,REG (Conf),W 66-54,*,30,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,2,1.0,0,4,4,3,0,0,1,3,13,10.8,A,1,1,javon-bennett-1,Javon Bennett,2024
+19,53,20,2024-01-27,Dayton,@,Richmond,REG (Conf),L 64-69,*,38,6,12,0.5,2,6,0.333,4,6,0.667,0.583,4,4,1.0,1,3,4,1,2,0,1,3,18,14.1,A,0,1,javon-bennett-1,Javon Bennett,2024
+20,54,21,2024-01-30,Dayton,,George Washington,REG (Conf),W 83-61,*,28,3,10,0.3,1,4,0.25,2,6,0.333,0.35,1,2,0.5,0,5,5,3,2,0,1,1,8,6.0,H,1,1,javon-bennett-1,Javon Bennett,2024
+21,55,22,2024-02-02,Dayton,,St. Bonaventure,REG (Conf),W 76-71,*,34,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,5,0.8,1,1,2,4,0,1,2,2,6,4.9,H,1,1,javon-bennett-1,Javon Bennett,2024
+22,56,23,2024-02-06,Dayton,@,Saint Joseph's,REG (Conf),W 94-79,*,30,5,6,0.833,2,2,1.0,3,4,0.75,1.0,6,8,0.75,1,3,4,4,0,0,3,3,18,15.2,A,1,1,javon-bennett-1,Javon Bennett,2024
+23,57,24,2024-02-09,Dayton,@,VCU,REG (Conf),L 47-49,*,32,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,1,2,4,2,0,0,2,2,3.2,A,0,1,javon-bennett-1,Javon Bennett,2024
+24,58,25,2024-02-13,Dayton,,Duquesne,REG (Conf),W 75-59,*,29,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,3,0.667,0,1,1,4,0,0,0,0,6,4.6,H,1,1,javon-bennett-1,Javon Bennett,2024
+25,59,26,2024-02-17,Dayton,,Fordham,REG (Conf),W 78-70,*,29,6,10,0.6,2,4,0.5,4,6,0.667,0.7,0,0,,1,2,3,2,0,0,0,2,14,11.3,H,1,1,javon-bennett-1,Javon Bennett,2024
+26,60,27,2024-02-21,Dayton,@,George Mason,REG (Conf),L 67-71,*,26,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,1,0,1,5,1,0,0,5,6,7.2,A,0,1,javon-bennett-1,Javon Bennett,2024
+27,61,28,2024-02-27,Dayton,,Davidson,REG (Conf),W 80-66,*,29,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,1,2,3,2,1,0,0,2,10,11.0,H,1,1,javon-bennett-1,Javon Bennett,2024
+28,62,29,2024-03-01,Dayton,@,Loyola Chicago,REG (Conf),L 72-77,*,17,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,1,3,4,0,3,0,1,2,7,7.8,A,0,1,javon-bennett-1,Javon Bennett,2024
+29,63,32,2024-03-14,Dayton,N,Duquesne,CTOURN,L 57-65,*,24,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,1,2,2,1,0,0,2,5,4.2,N,0,0,javon-bennett-1,Javon Bennett,2024
+30,64,33,2024-03-21,Dayton,N,Nevada,ROUND-64,W 63-60,,18,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,2,2,1,0,0,1,0,5,2.6,N,1,0,javon-bennett-1,Javon Bennett,2024
+31,65,34,2024-03-23,Dayton,N,Arizona,ROUND-32,L 68-78,,22,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,1,2,0,1,0,2,0.2,N,0,0,javon-bennett-1,Javon Bennett,2024

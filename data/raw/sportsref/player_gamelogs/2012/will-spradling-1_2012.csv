@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2011-11-11,Kansas State,,Charleston Southern,REG (Non-Conf),W 72-67,*,25,3,7,0.429,1,4,0.25,2,3,0.667,0.5,8,9,0.889,0,2,2,3,1,0,3,3,15,10.4,H,1,1,will-spradling-1,Will Spradling,2012
+2,36,2,2011-11-14,Kansas State,,Loyola Chicago,REG (Non-Conf),W 74-61,*,35,4,7,0.571,2,3,0.667,2,4,0.5,0.714,5,6,0.833,0,2,2,2,0,0,0,0,15,13.3,H,1,1,will-spradling-1,Will Spradling,2012
+3,37,3,2011-11-22,Kansas State,,Maryland Eastern Shore,REG (Non-Conf),W 92-50,*,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,3,0.667,1,1,2,3,0,0,1,2,7,4.5,H,1,1,will-spradling-1,Will Spradling,2012
+4,38,4,2011-12-01,Kansas State,,George Washington,REG (Non-Conf),W 69-56,*,28,5,12,0.417,2,6,0.333,3,6,0.5,0.5,2,3,0.667,2,2,4,0,0,0,1,1,14,7.8,H,1,1,will-spradling-1,Will Spradling,2012
+5,39,5,2011-12-04,Kansas State,@,Virginia Tech,REG (Non-Conf),W 69-61,*,38,2,8,0.25,2,4,0.5,0,4,0.0,0.375,3,4,0.75,0,3,3,3,2,0,0,4,9,7.2,A,1,1,will-spradling-1,Will Spradling,2012
+6,40,6,2011-12-08,Kansas State,N,West Virginia,REG (Non-Conf),L 80-85 (2OT),*,39,6,11,0.545,4,8,0.5,2,3,0.667,0.727,0,0,,0,4,4,1,1,0,2,5,16,9.6,N,0,1,will-spradling-1,Will Spradling,2012
+7,41,7,2011-12-11,Kansas State,,North Florida,REG (Non-Conf),W 79-68 (OT),*,41,3,12,0.25,2,5,0.4,1,7,0.143,0.333,4,5,0.8,1,4,5,9,2,3,1,0,12,15.7,H,1,1,will-spradling-1,Will Spradling,2012
+8,42,8,2011-12-17,Kansas State,N,Alabama,REG (Non-Conf),W 71-58,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,0,0,0,5,3,0,1,2,8,9.3,N,1,1,will-spradling-1,Will Spradling,2012
+9,43,9,2011-12-22,Kansas State,N,Southern Illinois,REG (Non-Conf),W 83-58,*,21,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,1,2,0,3,4,5,2.8,N,1,1,will-spradling-1,Will Spradling,2012
+10,44,10,2011-12-23,Kansas State,N,UTEP,REG (Non-Conf),W 78-70,*,29,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,0,2,2,2,0,0,2,2,11,7.6,N,1,1,will-spradling-1,Will Spradling,2012
+11,45,11,2011-12-25,Kansas State,N,Long Beach State,REG (Non-Conf),W 77-60,*,32,4,7,0.571,3,5,0.6,1,2,0.5,0.786,6,7,0.857,1,1,2,2,1,0,2,2,17,13.9,N,1,1,will-spradling-1,Will Spradling,2012
+12,46,12,2011-12-31,Kansas State,,Howard,REG (Non-Conf),W 82-46,*,18,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,0,,0,1,1,1,0,1,1,2,13,9.3,H,1,1,will-spradling-1,Will Spradling,2012
+13,47,13,2012-01-04,Kansas State,@,Kansas,REG (Conf),L 49-67,*,33,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,1,2,5,1,0,4,3,5,1.2,A,0,1,will-spradling-1,Will Spradling,2012
+14,48,14,2012-01-07,Kansas State,,Missouri,REG (Conf),W 75-59,*,31,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,4,0.75,0,3,3,2,1,0,0,3,14,11.7,H,1,1,will-spradling-1,Will Spradling,2012
+15,49,15,2012-01-10,Kansas State,,Baylor,REG (Conf),L 73-75,*,35,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,0,1,1,4,1,0,4,4,5,0.4,H,0,1,will-spradling-1,Will Spradling,2012
+16,50,16,2012-01-14,Kansas State,@,Oklahoma,REG (Conf),L 73-82,*,32,4,15,0.267,3,12,0.25,1,3,0.333,0.367,0,0,,0,1,1,4,1,0,4,5,11,0.2,A,0,1,will-spradling-1,Will Spradling,2012
+17,51,17,2012-01-18,Kansas State,,Texas,REG (Conf),W 84-80,*,35,3,9,0.333,1,1,1.0,2,8,0.25,0.389,4,6,0.667,0,1,1,3,0,0,1,3,11,5.3,H,1,1,will-spradling-1,Will Spradling,2012
+18,52,18,2012-01-21,Kansas State,@,Oklahoma State,REG (Conf),W 66-58,*,24,1,5,0.2,0,2,0.0,1,3,0.333,0.2,6,8,0.75,2,3,5,0,0,0,3,3,8,2.2,A,1,1,will-spradling-1,Will Spradling,2012
+19,53,19,2012-01-25,Kansas State,@,Texas Tech,REG (Conf),W 69-47,*,22,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,1,2,3,1,1,0,0,3,2,0.3,A,1,1,will-spradling-1,Will Spradling,2012
+20,54,20,2012-01-28,Kansas State,,Oklahoma,REG (Conf),L 60-63,*,34,2,10,0.2,0,5,0.0,2,5,0.4,0.2,2,2,1.0,1,2,3,2,0,0,2,1,6,0.1,H,0,1,will-spradling-1,Will Spradling,2012
+21,55,21,2012-01-31,Kansas State,@,Iowa State,REG (Conf),L 70-72,*,37,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,1,1,5,0,0,1,2,6,4.2,A,0,1,will-spradling-1,Will Spradling,2012
+22,56,22,2012-02-04,Kansas State,,Texas A&M,REG (Conf),W 64-53,*,36,5,8,0.625,4,5,0.8,1,3,0.333,0.875,5,5,1.0,0,1,1,3,1,1,3,1,19,16.1,H,1,1,will-spradling-1,Will Spradling,2012
+23,57,23,2012-02-07,Kansas State,,Texas Tech,REG (Conf),W 65-46,*,38,0,5,0.0,0,2,0.0,0,3,0.0,0.0,10,10,1.0,1,2,3,1,2,0,1,3,10,8.3,H,1,1,will-spradling-1,Will Spradling,2012
+24,58,24,2012-02-11,Kansas State,@,Texas,REG (Conf),L 64-75,*,24,3,8,0.375,3,7,0.429,0,1,0.0,0.563,2,2,1.0,2,2,4,0,1,0,0,4,11,8.0,A,0,1,will-spradling-1,Will Spradling,2012
+25,59,25,2012-02-13,Kansas State,,Kansas,REG (Conf),L 53-59,*,35,4,13,0.308,0,5,0.0,4,8,0.5,0.308,2,3,0.667,0,1,1,4,0,0,0,4,10,3.6,H,0,1,will-spradling-1,Will Spradling,2012
+26,60,26,2012-02-18,Kansas State,@,Baylor,REG (Conf),W 57-56,*,35,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,4,4,4,1,0,1,3,5,1.6,A,1,1,will-spradling-1,Will Spradling,2012
+27,61,27,2012-02-21,Kansas State,@,Missouri,REG (Conf),W 78-68,*,33,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,2,0.5,0,1,1,2,1,0,3,4,8,2.7,A,1,1,will-spradling-1,Will Spradling,2012
+28,62,28,2012-02-25,Kansas State,,Iowa State,REG (Conf),L 61-65,*,29,2,9,0.222,0,5,0.0,2,4,0.5,0.222,0,0,,0,0,0,2,0,0,2,1,4,-2.5,H,0,1,will-spradling-1,Will Spradling,2012
+29,63,29,2012-02-28,Kansas State,@,Texas A&M,REG (Conf),W 76-70,*,39,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,4,4,3,1,1,4,1,6,3.9,A,1,1,will-spradling-1,Will Spradling,2012
+30,64,30,2012-03-03,Kansas State,,Oklahoma State,REG (Conf),W 77-58,*,22,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,1,1,7,1,0,0,3,7,8.3,H,1,1,will-spradling-1,Will Spradling,2012
+31,65,31,2012-03-08,Kansas State,N,Baylor,CTOURN,L 74-82,*,33,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,0,0,0,5,1,0,3,3,4,-1.2,N,0,0,will-spradling-1,Will Spradling,2012
+32,66,32,2012-03-15,Kansas State,N,Southern Mississippi,ROUND-64,W 70-64,*,37,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,0,0,1,0,0,0,2,2,-0.5,N,1,0,will-spradling-1,Will Spradling,2012
+33,67,33,2012-03-17,Kansas State,N,Syracuse,ROUND-32,L 59-75,*,33,4,11,0.364,2,6,0.333,2,5,0.4,0.455,0,0,,1,2,3,1,0,0,1,5,10,2.9,N,0,0,will-spradling-1,Will Spradling,2012

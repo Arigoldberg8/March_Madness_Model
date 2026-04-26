@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,*,26,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,3,3,7,0,0,1,1,2,4.3,H,1,1,nik-cochran-1,Nik Cochran,2013
+2,96,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,*,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,1,2,2,1,0,0,4,0,-1.0,A,0,1,nik-cochran-1,Nik Cochran,2013
+3,97,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,*,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,4,1.0,1,2,3,2,0,0,1,4,8,6.8,A,0,1,nik-cochran-1,Nik Cochran,2013
+4,98,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,*,26,4,5,0.8,4,4,1.0,0,1,0.0,1.2,2,2,1.0,0,0,0,2,0,0,5,4,14,6.9,N,1,1,nik-cochran-1,Nik Cochran,2013
+5,99,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,*,38,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,0,3,3,7,0,0,4,2,6,5.3,N,1,1,nik-cochran-1,Nik Cochran,2013
+6,100,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,*,38,6,12,0.5,3,6,0.5,3,6,0.5,0.625,2,2,1.0,1,1,2,1,0,0,3,1,17,9.3,N,0,1,nik-cochran-1,Nik Cochran,2013
+7,101,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,*,29,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,2,1.0,0,0,0,3,0,0,2,3,8,2.8,A,1,1,nik-cochran-1,Nik Cochran,2013
+8,102,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,*,27,3,6,0.5,1,2,0.5,2,4,0.5,0.583,5,6,0.833,0,4,4,2,0,0,6,2,12,4.4,H,0,1,nik-cochran-1,Nik Cochran,2013
+9,103,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,*,37,2,4,0.5,1,3,0.333,1,1,1.0,0.625,10,11,0.909,1,9,10,3,3,0,4,2,15,16.3,H,1,1,nik-cochran-1,Nik Cochran,2013
+10,104,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,*,34,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,3,1.0,0,2,2,2,1,0,2,1,7,4.2,H,1,1,nik-cochran-1,Nik Cochran,2013
+11,105,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,*,32,3,6,0.5,0,2,0.0,3,4,0.75,0.5,4,4,1.0,1,2,3,4,0,0,2,1,10,8.7,A,0,1,nik-cochran-1,Nik Cochran,2013
+12,106,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,*,21,1,2,0.5,1,2,0.5,0,0,,0.75,6,6,1.0,1,2,3,4,0,0,3,3,9,7.9,A,1,1,nik-cochran-1,Nik Cochran,2013
+13,107,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,*,32,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,2,1,0,3,3,2,-1.5,N,0,1,nik-cochran-1,Nik Cochran,2013
+14,108,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,*,24,2,7,0.286,2,5,0.4,0,2,0.0,0.429,6,6,1.0,0,0,0,4,2,0,1,2,12,10.9,H,1,1,nik-cochran-1,Nik Cochran,2013
+15,109,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,*,35,4,7,0.571,3,3,1.0,1,4,0.25,0.786,6,6,1.0,1,4,5,4,2,0,2,3,17,17.2,A,1,1,nik-cochran-1,Nik Cochran,2013
+16,110,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,*,35,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,1,3,4,6,0,0,1,2,6,6.6,A,0,1,nik-cochran-1,Nik Cochran,2013
+17,111,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,*,23,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,1,2,3,4,1,0,1,1,4,6.3,H,1,1,nik-cochran-1,Nik Cochran,2013
+18,112,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,*,36,4,8,0.5,2,3,0.667,2,5,0.4,0.625,5,5,1.0,3,2,5,3,2,0,0,2,15,17.0,H,1,1,nik-cochran-1,Nik Cochran,2013
+19,113,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,*,36,10,13,0.769,6,8,0.75,4,5,0.8,1.0,6,6,1.0,1,2,3,1,0,0,2,2,32,26.1,A,1,1,nik-cochran-1,Nik Cochran,2013
+20,114,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,*,36,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,2,2,1,3,0,3,2,3,2.1,A,1,1,nik-cochran-1,Nik Cochran,2013
+21,115,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,*,33,2,4,0.5,2,4,0.5,0,0,,0.75,4,4,1.0,0,1,1,2,0,0,1,3,10,7.5,H,1,1,nik-cochran-1,Nik Cochran,2013
+22,116,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,*,36,0,1,0.0,0,0,,0,1,0.0,0.0,6,7,0.857,0,2,2,4,0,0,2,0,6,6.3,A,1,1,nik-cochran-1,Nik Cochran,2013
+23,117,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,*,37,1,5,0.2,0,3,0.0,1,2,0.5,0.2,8,8,1.0,0,0,0,4,0,0,3,0,10,6.7,H,1,1,nik-cochran-1,Nik Cochran,2013
+24,118,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,*,19,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,3,1,0,2,4,8,6.9,H,1,1,nik-cochran-1,Nik Cochran,2013
+25,119,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,*,35,4,6,0.667,3,4,0.75,1,2,0.5,0.917,3,3,1.0,0,2,2,5,1,0,2,1,14,14.1,A,1,1,nik-cochran-1,Nik Cochran,2013
+26,120,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,*,30,5,9,0.556,3,4,0.75,2,5,0.4,0.722,5,5,1.0,0,2,2,4,1,0,0,1,18,17.7,A,1,1,nik-cochran-1,Nik Cochran,2013
+27,121,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,*,27,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,2,2,1,1,0,0,0,9,8.3,H,1,1,nik-cochran-1,Nik Cochran,2013
+28,122,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),*,41,1,7,0.143,1,4,0.25,0,3,0.0,0.214,6,6,1.0,1,0,1,5,3,0,0,2,9,10.9,H,1,1,nik-cochran-1,Nik Cochran,2013
+29,123,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,*,33,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,1,0,0,2,3,7,2.1,A,1,1,nik-cochran-1,Nik Cochran,2013
+30,124,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,*,22,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,2,0,0,1,3,5,4.2,H,1,1,nik-cochran-1,Nik Cochran,2013
+31,125,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,*,27,5,7,0.714,5,7,0.714,0,0,,1.071,3,4,0.75,0,1,1,7,1,0,2,0,18,18.9,N,1,0,nik-cochran-1,Nik Cochran,2013
+32,126,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,*,34,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,1,0.0,0,2,2,5,2,0,1,3,2,3.8,N,1,0,nik-cochran-1,Nik Cochran,2013
+33,127,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,0,4,4,4,0,0,0,2,10,10.9,N,1,0,nik-cochran-1,Nik Cochran,2013
+34,128,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,*,38,3,3,1.0,1,1,1.0,2,2,1.0,1.167,4,5,0.8,1,4,5,2,1,0,2,3,11,10.8,N,0,0,nik-cochran-1,Nik Cochran,2013

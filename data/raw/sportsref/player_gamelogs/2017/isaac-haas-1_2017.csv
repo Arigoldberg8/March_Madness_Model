@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2016-11-11,Purdue,,McNeese State,REG (Non-Conf),W 109-65,*,25,9,11,0.818,0,0,9,11,0.818,0.818,4,6,0.667,3,3,6,1,1,3,1,1,22,22.5,H,1,1,isaac-haas-1,Isaac Haas,2017
+2,71,2,2016-11-14,Purdue,,Villanova,REG (Non-Conf),L 76-79,*,20,8,10,0.8,0,0,8,10,0.8,0.8,6,9,0.667,0,3,3,0,0,1,1,3,22,16.4,H,0,1,isaac-haas-1,Isaac Haas,2017
+3,72,3,2016-11-18,Purdue,,Georgia State,REG (Non-Conf),W 64-56,*,20,2,5,0.4,0,0,2,5,0.4,0.4,7,11,0.636,0,0,0,0,1,1,4,2,11,3.6,H,1,1,isaac-haas-1,Isaac Haas,2017
+4,73,4,2016-11-22,Purdue,N,Utah State,REG (Non-Conf),W 85-64,*,26,9,10,0.9,0,0,9,10,0.9,0.9,8,11,0.727,2,3,5,1,0,0,1,3,26,22.2,N,1,1,isaac-haas-1,Isaac Haas,2017
+5,74,5,2016-11-23,Purdue,N,Auburn,REG (Non-Conf),W 96-71,*,23,4,6,0.667,0,0,4,6,0.667,0.667,2,4,0.5,3,7,10,2,0,0,8,4,10,2.6,N,1,1,isaac-haas-1,Isaac Haas,2017
+6,75,6,2016-11-26,Purdue,,NJIT,REG (Non-Conf),W 79-68,*,24,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,1,4,5,2,1,0,4,3,8,3.3,H,1,1,isaac-haas-1,Isaac Haas,2017
+7,76,7,2016-11-30,Purdue,@,Louisville,REG (Non-Conf),L 64-71,*,24,2,9,0.222,0,0,2,9,0.222,0.222,4,6,0.667,3,2,5,0,0,0,1,2,8,2.6,A,0,1,isaac-haas-1,Isaac Haas,2017
+8,77,8,2016-12-03,Purdue,,Morehead State,REG (Non-Conf),W 90-56,*,24,3,4,0.75,0,0,3,4,0.75,0.75,5,8,0.625,2,3,5,0,0,0,2,1,11,8.1,H,1,1,isaac-haas-1,Isaac Haas,2017
+9,78,9,2016-12-06,Purdue,N,Arizona State,REG (Non-Conf),W 97-64,*,27,6,9,0.667,0,0,6,9,0.667,0.667,4,4,1.0,3,4,7,1,0,1,2,0,16,14.8,N,1,1,isaac-haas-1,Isaac Haas,2017
+10,79,10,2016-12-10,Purdue,,Cleveland State,REG (Non-Conf),W 77-53,*,23,5,10,0.5,0,0,5,10,0.5,0.5,4,5,0.8,4,3,7,0,0,3,1,0,14,13.4,H,1,1,isaac-haas-1,Isaac Haas,2017
+11,80,11,2016-12-17,Purdue,N,Notre Dame,REG (Non-Conf),W 86-81,*,14,2,8,0.25,0,0,2,8,0.25,0.25,2,2,1.0,1,1,2,0,0,0,2,2,6,-0.6,N,1,1,isaac-haas-1,Isaac Haas,2017
+12,81,12,2016-12-19,Purdue,,Western Illinois,REG (Non-Conf),W 82-50,*,21,3,7,0.429,0,0,3,7,0.429,0.429,12,13,0.923,2,4,6,0,0,0,1,2,18,14.7,H,1,1,isaac-haas-1,Isaac Haas,2017
+13,82,13,2016-12-21,Purdue,,Norfolk State,REG (Non-Conf),W 91-45,*,24,7,8,0.875,0,0,7,8,0.875,0.875,0,2,0.0,4,3,7,0,0,3,1,2,14,14.4,H,1,1,isaac-haas-1,Isaac Haas,2017
+14,83,14,2016-12-28,Purdue,,Iowa,REG (Conf),W 89-67,*,16,7,9,0.778,0,0,7,9,0.778,0.778,2,3,0.667,1,6,7,2,1,1,1,2,16,15.9,H,1,1,isaac-haas-1,Isaac Haas,2017
+15,84,15,2017-01-01,Purdue,,Minnesota,REG (Conf),L 82-91 (OT),*,19,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,0,3,3,1,0,0,4,2,6,0.1,H,0,1,isaac-haas-1,Isaac Haas,2017
+16,85,16,2017-01-05,Purdue,@,Ohio State,REG (Conf),W 76-75,,20,2,5,0.4,0,0,2,5,0.4,0.4,2,5,0.4,2,8,10,0,0,1,3,3,6,2.4,A,1,1,isaac-haas-1,Isaac Haas,2017
+17,86,17,2017-01-08,Purdue,,Wisconsin,REG (Conf),W 66-55,,18,4,6,0.667,0,0,4,6,0.667,0.667,5,6,0.833,4,1,5,1,0,1,1,3,13,12.3,H,1,1,isaac-haas-1,Isaac Haas,2017
+18,87,18,2017-01-12,Purdue,@,Iowa,REG (Conf),L 78-83,,25,4,8,0.5,0,0,4,8,0.5,0.5,5,6,0.833,2,4,6,1,1,0,2,4,13,9.3,A,0,1,isaac-haas-1,Isaac Haas,2017
+19,88,19,2017-01-17,Purdue,,Illinois,REG (Conf),W 91-68,,22,9,12,0.75,0,0,9,12,0.75,0.75,6,7,0.857,0,6,6,2,0,3,3,1,24,20.7,H,1,1,isaac-haas-1,Isaac Haas,2017
+20,89,20,2017-01-21,Purdue,,Penn State,REG (Conf),W 77-52,,14,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,1,1,2,0,0,3,3,2,8,5.6,H,1,1,isaac-haas-1,Isaac Haas,2017
+21,90,21,2017-01-24,Purdue,@,Michigan State,REG (Conf),W 84-73,,15,3,4,0.75,0,0,3,4,0.75,0.75,5,6,0.833,1,1,2,2,0,0,4,2,11,6.6,A,1,1,isaac-haas-1,Isaac Haas,2017
+22,91,22,2017-01-29,Purdue,@,Nebraska,REG (Conf),L 80-83,,13,4,7,0.571,0,0,4,7,0.571,0.571,3,3,1.0,1,4,5,0,1,1,2,2,11,8.5,A,0,1,isaac-haas-1,Isaac Haas,2017
+23,92,23,2017-02-01,Purdue,,Northwestern,REG (Conf),W 80-59,,24,3,9,0.333,0,0,3,9,0.333,0.333,5,8,0.625,2,2,4,1,0,2,3,3,11,4.6,H,1,1,isaac-haas-1,Isaac Haas,2017
+24,93,24,2017-02-04,Purdue,@,Maryland,REG (Conf),W 73-72,,17,3,10,0.3,0,0,3,10,0.3,0.3,3,5,0.6,2,2,4,0,1,0,3,4,9,0.8,A,1,1,isaac-haas-1,Isaac Haas,2017
+25,94,25,2017-02-09,Purdue,@,Indiana,REG (Conf),W 69-64,,18,2,8,0.25,0,0,2,8,0.25,0.25,2,2,1.0,2,4,6,0,1,0,1,2,6,3.0,A,1,1,isaac-haas-1,Isaac Haas,2017
+26,95,26,2017-02-14,Purdue,,Rutgers,REG (Conf),W 74-55,,26,9,11,0.818,0,0,9,11,0.818,0.818,6,10,0.6,5,6,11,1,0,0,1,0,24,23.3,H,1,1,isaac-haas-1,Isaac Haas,2017
+27,96,27,2017-02-18,Purdue,,Michigan State,REG (Conf),W 80-63,,19,8,11,0.727,0,0,8,11,0.727,0.727,2,2,1.0,0,5,5,0,0,0,4,4,18,9.4,H,1,1,isaac-haas-1,Isaac Haas,2017
+28,97,28,2017-02-21,Purdue,@,Penn State,REG (Conf),W 74-70 (OT),,25,5,9,0.556,0,0,5,9,0.556,0.556,3,4,0.75,0,7,7,2,0,0,2,0,13,9.8,A,1,1,isaac-haas-1,Isaac Haas,2017
+29,98,29,2017-02-25,Purdue,@,Michigan,REG (Conf),L 70-82,,11,4,10,0.4,0,0,4,10,0.4,0.4,0,0,,3,3,6,0,0,0,1,2,8,3.8,A,0,1,isaac-haas-1,Isaac Haas,2017
+30,99,30,2017-02-28,Purdue,,Indiana,REG (Conf),W 86-75,,6,1,2,0.5,0,0,1,2,0.5,0.5,4,4,1.0,0,0,0,0,0,0,3,4,6,0.4,H,1,1,isaac-haas-1,Isaac Haas,2017
+31,100,31,2017-03-05,Purdue,@,Northwestern,REG (Conf),W 69-65,,14,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,0,1,0,1,0,3,1,2,-2.1,A,1,1,isaac-haas-1,Isaac Haas,2017
+32,101,32,2017-03-10,Purdue,N,Michigan,CTOURN,L 70-74 (OT),,15,8,10,0.8,0,0,8,10,0.8,0.8,1,4,0.25,3,2,5,0,0,1,1,1,17,14.0,N,0,0,isaac-haas-1,Isaac Haas,2017
+33,102,33,2017-03-16,Purdue,N,Vermont,ROUND-64,W 80-70,,16,3,8,0.375,0,0,3,8,0.375,0.375,2,2,1.0,2,4,6,0,0,2,2,2,8,4.8,N,1,0,isaac-haas-1,Isaac Haas,2017
+34,103,34,2017-03-18,Purdue,N,Iowa State,ROUND-32,W 80-76,,15,6,8,0.75,0,0,6,8,0.75,0.75,2,3,0.667,1,2,3,0,0,0,0,1,14,11.3,N,1,0,isaac-haas-1,Isaac Haas,2017
+35,104,35,2017-03-23,Purdue,N,Kansas,ROUND-16,L 66-98,,19,5,9,0.556,0,0,5,9,0.556,0.556,1,2,0.5,1,1,2,0,0,0,2,3,11,4.1,N,0,0,isaac-haas-1,Isaac Haas,2017

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,89,1,2023-11-06,Nebraska,,Lindenwood,REG (Non-Conf),W 84-52,*,23,4,11,0.364,2,6,0.333,2,5,0.4,0.455,3,4,0.75,0,1,1,2,0,1,1,1,13,7.5,H,1,1,brice-williams-1,Brice Williams,2024
+2,90,2,2023-11-09,Nebraska,,Florida A&M,REG (Non-Conf),W 81-54,*,22,3,9,0.333,2,4,0.5,1,5,0.2,0.444,7,7,1.0,2,4,6,2,0,1,1,3,15,12.4,H,1,1,brice-williams-1,Brice Williams,2024
+3,91,3,2023-11-13,Nebraska,,Rider,REG (Non-Conf),W 64-50,*,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,4,5,0.8,0,8,8,3,1,0,1,1,7,6.9,H,1,1,brice-williams-1,Brice Williams,2024
+4,92,4,2023-11-15,Nebraska,,Stony Brook,REG (Non-Conf),W 84-63,*,23,6,9,0.667,2,3,0.667,4,6,0.667,0.778,3,4,0.75,2,7,9,4,0,0,3,3,17,14.8,H,1,1,brice-williams-1,Brice Williams,2024
+5,93,5,2023-11-18,Nebraska,N,Oregon State,REG (Non-Conf),W 84-63,*,28,9,17,0.529,3,7,0.429,6,10,0.6,0.618,4,4,1.0,3,0,3,2,2,1,0,0,25,22.9,N,1,1,brice-williams-1,Brice Williams,2024
+6,94,6,2023-11-22,Nebraska,,Duquesne,REG (Non-Conf),W 89-79,*,30,3,6,0.5,1,3,0.333,2,3,0.667,0.583,4,4,1.0,0,1,1,1,0,0,0,3,11,7.8,H,1,1,brice-williams-1,Brice Williams,2024
+7,95,7,2023-11-26,Nebraska,,Cal State Fullerton,REG (Non-Conf),W 85-72,*,30,4,9,0.444,2,5,0.4,2,4,0.5,0.556,4,4,1.0,0,2,2,3,0,2,1,3,14,11.2,H,1,1,brice-williams-1,Brice Williams,2024
+8,96,8,2023-12-03,Nebraska,,Creighton,REG (Non-Conf),L 60-89,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,5,7,2,1,0,1,1,6,6.2,H,0,1,brice-williams-1,Brice Williams,2024
+9,97,9,2023-12-06,Nebraska,@,Minnesota,REG (Conf),L 65-76,*,30,8,16,0.5,1,3,0.333,7,13,0.538,0.531,1,2,0.5,3,3,6,4,3,1,4,5,18,13.1,A,0,1,brice-williams-1,Brice Williams,2024
+10,98,10,2023-12-10,Nebraska,,Michigan State,REG (Conf),W 77-70,*,30,4,7,0.571,1,2,0.5,3,5,0.6,0.643,5,6,0.833,0,3,3,0,0,1,2,2,14,9.1,H,1,1,brice-williams-1,Brice Williams,2024
+11,99,11,2023-12-17,Nebraska,@,Kansas State,REG (Non-Conf),W 62-46,*,32,4,12,0.333,2,7,0.286,2,5,0.4,0.417,0,1,0.0,1,8,9,2,0,2,2,3,10,5.5,A,1,1,brice-williams-1,Brice Williams,2024
+12,100,12,2023-12-20,Nebraska,,North Dakota,REG (Non-Conf),W 83-75,*,30,4,12,0.333,0,5,0.0,4,7,0.571,0.333,4,4,1.0,3,4,7,3,1,0,2,2,12,8.8,H,1,1,brice-williams-1,Brice Williams,2024
+13,101,13,2023-12-29,Nebraska,,South Carolina State,REG (Non-Conf),W 91-62,*,20,5,10,0.5,1,4,0.25,4,6,0.667,0.55,5,5,1.0,0,7,7,1,0,2,3,2,16,11.4,H,1,1,brice-williams-1,Brice Williams,2024
+14,102,14,2024-01-03,Nebraska,,Indiana,REG (Conf),W 86-70,*,24,5,10,0.5,3,4,0.75,2,6,0.333,0.65,2,3,0.667,3,3,6,1,4,0,3,2,15,13.5,H,1,1,brice-williams-1,Brice Williams,2024
+15,103,15,2024-01-06,Nebraska,@,Wisconsin,REG (Conf),L 72-88,*,32,3,9,0.333,1,3,0.333,2,6,0.333,0.389,3,3,1.0,0,4,4,6,0,0,1,1,10,8.9,A,0,1,brice-williams-1,Brice Williams,2024
+16,104,16,2024-01-09,Nebraska,,Purdue,REG (Conf),W 88-72,*,30,2,6,0.333,1,1,1.0,1,5,0.2,0.417,4,4,1.0,0,11,11,9,2,2,2,3,9,15.4,H,1,1,brice-williams-1,Brice Williams,2024
+17,105,17,2024-01-12,Nebraska,@,Iowa,REG (Conf),L 76-94,*,30,3,11,0.273,0,6,0.0,3,5,0.6,0.273,0,0,,0,4,4,2,1,0,2,2,6,0.3,A,0,1,brice-williams-1,Brice Williams,2024
+18,106,18,2024-01-17,Nebraska,@,Rutgers,REG (Conf),L 82-87 (OT),*,39,6,13,0.462,4,8,0.5,2,5,0.4,0.615,6,8,0.75,0,6,6,2,3,0,2,4,22,17.1,A,0,1,brice-williams-1,Brice Williams,2024
+19,107,19,2024-01-20,Nebraska,,Northwestern,REG (Conf),W 75-69,*,31,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,5,0.6,0,4,4,2,0,0,3,3,12,7.0,H,1,1,brice-williams-1,Brice Williams,2024
+20,108,20,2024-01-23,Nebraska,,Ohio State,REG (Conf),W 83-69,*,27,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,2,1.0,2,5,7,4,1,0,2,1,14,14.0,H,1,1,brice-williams-1,Brice Williams,2024
+21,109,21,2024-01-27,Nebraska,@,Maryland,REG (Conf),L 51-73,*,28,2,7,0.286,2,3,0.667,0,4,0.0,0.429,3,4,0.75,0,3,3,1,2,1,2,3,9,5.6,A,0,1,brice-williams-1,Brice Williams,2024
+22,110,22,2024-02-01,Nebraska,,Wisconsin,REG (Conf),W 80-72 (OT),*,39,4,9,0.444,2,3,0.667,2,6,0.333,0.556,7,8,0.875,2,7,9,2,2,1,5,4,17,12.9,H,1,1,brice-williams-1,Brice Williams,2024
+23,111,23,2024-02-04,Nebraska,@,Illinois,REG (Conf),L 84-87 (OT),*,34,3,12,0.25,1,5,0.2,2,7,0.286,0.292,0,0,,0,3,3,1,0,1,1,5,7,-0.9,A,0,1,brice-williams-1,Brice Williams,2024
+24,112,24,2024-02-07,Nebraska,@,Northwestern,REG (Conf),L 68-80,*,35,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,2,1.0,0,10,10,4,1,0,3,2,13,13.1,A,0,1,brice-williams-1,Brice Williams,2024
+25,113,25,2024-02-10,Nebraska,,Michigan,REG (Conf),W 79-59,*,26,5,9,0.556,1,1,1.0,4,8,0.5,0.611,2,4,0.5,1,3,4,0,0,0,1,3,13,7.3,H,1,1,brice-williams-1,Brice Williams,2024
+26,114,26,2024-02-17,Nebraska,,Penn State,REG (Conf),W 68-49,*,28,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,2,5,7,2,1,0,2,1,2,1.1,H,1,1,brice-williams-1,Brice Williams,2024
+27,115,27,2024-02-21,Nebraska,@,Indiana,REG (Conf),W 85-70,*,33,6,10,0.6,2,6,0.333,4,4,1.0,0.7,4,4,1.0,1,5,6,2,1,1,1,2,18,16.9,A,1,1,brice-williams-1,Brice Williams,2024
+28,116,28,2024-02-25,Nebraska,,Minnesota,REG (Conf),W 73-55,*,35,4,9,0.444,2,5,0.4,2,4,0.5,0.556,5,6,0.833,1,7,8,1,3,0,1,3,15,14.2,H,1,1,brice-williams-1,Brice Williams,2024
+29,117,29,2024-02-29,Nebraska,@,Ohio State,REG (Conf),L 69-78,*,23,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,1,2,1,2,0,1,5,7,4.0,A,0,1,brice-williams-1,Brice Williams,2024
+30,118,30,2024-03-03,Nebraska,,Rutgers,REG (Conf),W 67-56,*,37,1,5,0.2,1,3,0.333,0,2,0.0,0.3,5,6,0.833,1,6,7,3,1,1,3,4,8,6.2,H,1,1,brice-williams-1,Brice Williams,2024
+31,119,31,2024-03-10,Nebraska,@,Michigan,REG (Conf),W 85-70,*,34,3,6,0.5,0,2,0.0,3,4,0.75,0.5,4,6,0.667,0,3,3,4,1,0,0,3,10,9.7,A,1,1,brice-williams-1,Brice Williams,2024
+32,120,32,2024-03-15,Nebraska,N,Indiana,CTOURN,W 93-66,*,28,5,8,0.625,4,6,0.667,1,2,0.5,0.875,9,9,1.0,0,4,4,1,3,1,2,2,23,22.2,N,1,0,brice-williams-1,Brice Williams,2024
+33,121,33,2024-03-16,Nebraska,N,Illinois,CTOURN,L 87-98,*,35,8,17,0.471,2,5,0.4,6,12,0.5,0.529,5,7,0.714,0,5,5,3,0,1,2,2,23,15.0,N,0,0,brice-williams-1,Brice Williams,2024
+34,122,34,2024-03-22,Nebraska,N,Texas A&M,ROUND-64,L 83-98,*,33,7,15,0.467,1,4,0.25,6,11,0.545,0.5,9,10,0.9,0,4,4,4,1,1,1,3,24,19.4,N,0,0,brice-williams-1,Brice Williams,2024

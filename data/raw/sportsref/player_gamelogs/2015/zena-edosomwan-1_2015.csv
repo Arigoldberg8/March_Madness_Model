@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2014-11-14,Harvard,,MIT,REG (Non-Conf),W 73-52,,13,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,0,3,3,0,0,1,2,1,6,3.9,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+2,24,3,2014-11-20,Harvard,,Florida Atlantic,REG (Non-Conf),W 71-49,*,8,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,0,1,0,0,0,3,2,3,-2.9,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+3,25,4,2014-11-25,Harvard,,Houston,REG (Non-Conf),W 84-63,,8,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,1,2,0,0,1,0,0,6,5.7,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+4,26,5,2014-11-29,Harvard,,Massachusetts,REG (Non-Conf),W 75-73,,14,4,8,0.5,0,0,4,8,0.5,0.5,0,1,0.0,2,3,5,0,0,1,1,2,8,4.8,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+5,27,6,2014-12-03,Harvard,,Northeastern,REG (Non-Conf),W 60-46,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,0,0,0,0,0,0,3,4,1.5,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+6,28,7,2014-12-06,Harvard,@,Vermont,REG (Non-Conf),W 64-52 (2OT),,7,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+7,29,8,2014-12-08,Harvard,,Boston University,REG (Non-Conf),W 70-56,,13,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,2,1,3,0,0,1,1,1,8,6.0,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+8,30,9,2014-12-21,Harvard,@,Virginia,REG (Non-Conf),L 27-76,,18,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,2,2,4,0,2,0,0,2,4,4.4,A,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+9,31,10,2014-12-28,Harvard,@,Arizona State,REG (Non-Conf),L 46-56,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,1,1,0,0,1,1,2,4,1.9,A,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+10,32,11,2014-12-30,Harvard,@,Grand Canyon,REG (Non-Conf),W 72-59,,7,0,2,0.0,0,0,0,2,0.0,0.0,1,6,0.167,2,4,6,0,0,1,0,1,1,0.5,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+11,33,12,2015-01-05,Harvard,,St. Rose,REG (Non-Conf),W 84-38,,16,5,9,0.556,0,0,5,9,0.556,0.556,4,6,0.667,3,4,7,0,1,1,2,2,14,11.1,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+12,34,13,2015-01-10,Harvard,@,Dartmouth,REG (Conf),W 57-46,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+13,35,14,2015-01-14,Harvard,@,Boston College,REG (Non-Conf),L 57-64 (OT),,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+14,36,15,2015-01-20,Harvard,@,Bryant,REG (Non-Conf),W 66-57,*,24,3,6,0.5,0,0,3,6,0.5,0.5,7,10,0.7,2,6,8,1,0,1,2,3,13,10.2,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+15,37,16,2015-01-24,Harvard,,Dartmouth,REG (Conf),L 61-70,*,23,2,7,0.286,0,0,2,7,0.286,0.286,0,1,0.0,3,3,6,1,0,1,0,3,4,2.7,H,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+16,38,17,2015-01-30,Harvard,@,Princeton,REG (Conf),W 75-72,*,5,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,1,2,0,0,0,1,3,0,-3.3,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+17,39,18,2015-01-31,Harvard,@,Pennsylvania,REG (Conf),W 63-38,*,14,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,3,3,2,0,2,2,3,4,2.5,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+18,40,19,2015-02-06,Harvard,@,Brown,REG (Conf),W 76-74 (OT),*,15,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,0,1,0,3,1,4,0.2,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+19,41,20,2015-02-07,Harvard,@,Yale,REG (Conf),W 52-50,*,21,3,6,0.5,0,0,3,6,0.5,0.5,0,1,0.0,3,6,9,1,0,2,3,4,6,4.0,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+20,42,21,2015-02-13,Harvard,,Columbia,REG (Conf),W 72-68,*,12,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,3,6,0,0,1,0,3,4,4.5,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+21,43,22,2015-02-14,Harvard,,Cornell,REG (Conf),W 61-40,*,17,0,1,0.0,0,0,0,1,0.0,0.0,3,4,0.75,3,2,5,0,0,2,1,2,3,4.2,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+22,44,23,2015-02-20,Harvard,,Pennsylvania,REG (Conf),W 69-46,*,21,2,7,0.286,0,0,2,7,0.286,0.286,3,3,1.0,1,3,4,0,0,1,0,1,7,4.8,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+23,45,24,2015-02-21,Harvard,,Princeton,REG (Conf),W 63-55,*,10,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,1,0,1,0,1,0,0,2,2,-0.2,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+24,46,25,2015-02-27,Harvard,@,Cornell,REG (Conf),L 49-57,*,9,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,1,2,3,1,-1.9,A,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+25,47,26,2015-02-28,Harvard,@,Columbia,REG (Conf),W 80-70,*,16,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,0,2,2,1,0,0,1,2,4,1.1,A,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+26,48,27,2015-03-06,Harvard,,Yale,REG (Conf),L 52-62,*,9,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,1,1,2,1,0,0,1,0,0,-2.1,H,0,1,zena-edosomwan-1,Zena Edosomwan,2015
+27,49,28,2015-03-07,Harvard,,Brown,REG (Conf),W 72-62,,6,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,1,1,1,0,0.3,H,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+28,50,29,2015-03-14,Harvard,N,Yale,REG (Conf),W 53-51,*,8,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,1,0,0,2,1,0.4,N,1,1,zena-edosomwan-1,Zena Edosomwan,2015
+29,51,30,2015-03-19,Harvard,N,North Carolina,ROUND-64,L 65-67,*,8,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,0,1,0,0,0,1,2,4,0.9,N,0,0,zena-edosomwan-1,Zena Edosomwan,2015

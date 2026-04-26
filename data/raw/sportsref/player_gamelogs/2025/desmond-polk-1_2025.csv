@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,111,1,2024-11-04,SIU Edwardsville,,Westminster (MO),REG (Non-Conf),W 95-42,*,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,0,0,0,1,0,0,0,3,1.2,H,1,1,desmond-polk-1,Desmond Polk,2025
+2,112,2,2024-11-06,SIU Edwardsville,@,Indiana,REG (Non-Conf),L 61-80,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,2,0.0,0,1,1,1,2,0,2,1,2,-0.6,A,0,1,desmond-polk-1,Desmond Polk,2025
+3,113,3,2024-11-08,SIU Edwardsville,@,Illinois,REG (Non-Conf),L 58-90,*,25,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,0,2,2,0,0,0,0,1,3,-1.3,A,0,1,desmond-polk-1,Desmond Polk,2025
+4,114,4,2024-11-12,SIU Edwardsville,@,Indiana State,REG (Non-Conf),W 77-72,*,35,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,1,0.0,0,3,3,2,2,1,2,1,9,6.5,A,1,1,desmond-polk-1,Desmond Polk,2025
+5,115,5,2024-11-15,SIU Edwardsville,@,Western Michigan,REG (Non-Conf),W 79-60,*,33,7,14,0.5,2,7,0.286,5,7,0.714,0.571,0,0,,0,3,3,1,1,1,2,1,16,9.9,A,1,1,desmond-polk-1,Desmond Polk,2025
+6,116,6,2024-11-16,SIU Edwardsville,N,Canisius,REG (Non-Conf),W 76-58,*,30,5,10,0.5,5,10,0.5,0,0,,0.75,0,0,,0,1,1,3,0,0,4,1,15,8.0,N,1,1,desmond-polk-1,Desmond Polk,2025
+7,117,7,2024-11-19,SIU Edwardsville,@,Green Bay,REG (Non-Conf),L 57-82,*,32,1,9,0.111,1,7,0.143,0,2,0.0,0.167,1,2,0.5,3,2,5,1,1,2,2,4,4,-0.1,A,0,1,desmond-polk-1,Desmond Polk,2025
+8,118,8,2024-11-23,SIU Edwardsville,,St. Ambrose,REG (Non-Conf),W 83-49,*,25,4,13,0.308,1,6,0.167,3,7,0.429,0.346,2,2,1.0,3,0,3,1,1,1,1,2,11,6.2,H,1,1,desmond-polk-1,Desmond Polk,2025
+9,119,9,2024-11-29,SIU Edwardsville,,North Florida,REG (Non-Conf),L 73-78,*,36,8,15,0.533,2,6,0.333,6,9,0.667,0.6,1,4,0.25,1,3,4,0,0,0,0,4,19,10.5,H,0,1,desmond-polk-1,Desmond Polk,2025
+10,120,10,2024-12-08,SIU Edwardsville,,Ball State,REG (Non-Conf),W 82-69,*,33,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,1,2,3,2,0,0,0,1,6,5.6,H,1,1,desmond-polk-1,Desmond Polk,2025
+11,121,11,2024-12-15,SIU Edwardsville,,Eureka,REG (Non-Conf),W 100-52,*,19,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,1,5,6,0,1,0,2,1,9,6.5,H,1,1,desmond-polk-1,Desmond Polk,2025
+12,122,12,2024-12-19,SIU Edwardsville,@,Little Rock,REG (Conf),L 56-60,*,32,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,2,2,1,2,0,1,4,7,3.3,A,0,1,desmond-polk-1,Desmond Polk,2025
+13,123,13,2024-12-21,SIU Edwardsville,@,Southeast Missouri State,REG (Conf),L 64-80,*,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,0,0,0,0,4,4,0.3,A,0,1,desmond-polk-1,Desmond Polk,2025
+14,124,14,2025-01-02,SIU Edwardsville,,Western Illinois,REG (Conf),W 77-66,*,34,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,4,0.5,1,5,6,3,1,1,2,1,6,6.1,H,1,1,desmond-polk-1,Desmond Polk,2025
+15,125,15,2025-01-04,SIU Edwardsville,,Lindenwood,REG (Conf),W 58-47,*,34,6,8,0.75,2,3,0.667,4,5,0.8,0.875,1,2,0.5,1,3,4,2,2,2,2,1,15,15.4,H,1,1,desmond-polk-1,Desmond Polk,2025
+16,126,16,2025-01-07,SIU Edwardsville,@,Eastern Illinois,REG (Conf),W 60-57,*,31,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,2,2,0,2,1,1,1,7,5.9,A,1,1,desmond-polk-1,Desmond Polk,2025
+17,127,17,2025-01-11,SIU Edwardsville,,Tennessee Tech,REG (Conf),W 67-59,*,34,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,3,4,2,0,0,2,1,2,0.2,H,1,1,desmond-polk-1,Desmond Polk,2025
+18,128,18,2025-01-16,SIU Edwardsville,@,Tennessee State,REG (Conf),W 87-80 (2OT),*,33,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,1,4,5,2,1,0,1,2,2,2.4,A,1,1,desmond-polk-1,Desmond Polk,2025
+19,129,19,2025-01-18,SIU Edwardsville,@,UT Martin,REG (Conf),L 82-85,*,26,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,0,1,0,1,0,1,2,0,-3.6,A,0,1,desmond-polk-1,Desmond Polk,2025
+20,130,20,2025-01-23,SIU Edwardsville,,Southern Indiana,REG (Conf),W 82-76,*,35,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,1,0.0,0,5,5,1,1,0,0,0,10,10.2,H,1,1,desmond-polk-1,Desmond Polk,2025
+21,131,21,2025-01-25,SIU Edwardsville,,Morehead State,REG (Conf),W 65-54,*,26,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,4,5,0,1,0,0,3,6,5.4,H,1,1,desmond-polk-1,Desmond Polk,2025
+22,132,22,2025-01-30,SIU Edwardsville,@,Lindenwood,REG (Conf),L 63-65,*,34,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,4,2,0,0,1,0,3.3,A,0,1,desmond-polk-1,Desmond Polk,2025
+23,133,23,2025-02-01,SIU Edwardsville,@,Western Illinois,REG (Conf),W 69-65,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,2,2,0,1,0,0,1,5,2.8,A,1,1,desmond-polk-1,Desmond Polk,2025
+24,134,24,2025-02-04,SIU Edwardsville,,Eastern Illinois,REG (Conf),W 66-41,*,28,4,11,0.364,3,7,0.429,1,4,0.25,0.5,0,0,,1,5,6,1,0,0,1,2,11,6.0,H,1,1,desmond-polk-1,Desmond Polk,2025
+25,135,25,2025-02-06,SIU Edwardsville,@,Tennessee Tech,REG (Conf),W 75-58,*,35,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,3,4,1,0,0,1,0,2,0.2,A,1,1,desmond-polk-1,Desmond Polk,2025
+26,136,26,2025-02-13,SIU Edwardsville,,UT Martin,REG (Conf),L 71-76,*,34,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,1,3,4,4,2,0,1,2,3,3.1,H,0,1,desmond-polk-1,Desmond Polk,2025
+27,137,27,2025-02-15,SIU Edwardsville,,Tennessee State,REG (Conf),W 84-72,*,24,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,1,2,3,2,2,1,1,2,5,4.8,H,1,1,desmond-polk-1,Desmond Polk,2025
+28,138,28,2025-02-20,SIU Edwardsville,@,Morehead State,REG (Conf),W 80-62,*,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,0,2,2,0,0,0,0,1,3,-0.3,A,1,1,desmond-polk-1,Desmond Polk,2025
+29,139,29,2025-02-22,SIU Edwardsville,@,Southern Indiana,REG (Conf),L 68-82,*,35,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,1,3,4,0,1,0,1,0,6,4.2,A,0,1,desmond-polk-1,Desmond Polk,2025
+30,140,30,2025-02-27,SIU Edwardsville,,Southeast Missouri State,REG (Conf),L 68-83,*,27,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,3,4,7,0,0,0,2,3,2,-1.7,H,0,1,desmond-polk-1,Desmond Polk,2025
+31,141,31,2025-03-01,SIU Edwardsville,,Little Rock,REG (Conf),W 73-65,*,30,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,3,2,5,0,1,1,3,0,7,2.6,H,1,1,desmond-polk-1,Desmond Polk,2025
+32,142,32,2025-03-07,SIU Edwardsville,N,Tennessee State,CTOURN,W 71-69,*,31,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,1,1,0,0,0,0,1,6,3.2,N,1,0,desmond-polk-1,Desmond Polk,2025
+33,143,33,2025-03-08,SIU Edwardsville,N,Southeast Missouri State,CTOURN,W 69-48,*,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.8,N,1,0,desmond-polk-1,Desmond Polk,2025
+34,144,34,2025-03-20,SIU Edwardsville,N,Houston,ROUND-64,L 40-78,*,22,2,8,0.25,1,6,0.167,1,2,0.5,0.313,0,1,0.0,2,1,3,2,0,0,0,0,5,2.9,N,0,0,desmond-polk-1,Desmond Polk,2025

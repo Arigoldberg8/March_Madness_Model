@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2020-12-03,Oklahoma,,UTSA,REG (Non-Conf),W 105-66,*,18,2,7,0.286,2,4,0.5,0,3,0.0,0.429,2,2,1.0,0,0,0,3,0,0,0,3,8,4.8,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+2,68,2,2020-12-06,Oklahoma,@,TCU,REG (Conf),W 82-78,*,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,1,2,0,1,2,2,0.8,A,1,1,umoja-gibson-1,Umoja Gibson,2021
+3,69,3,2020-12-09,Oklahoma,@,Xavier,REG (Non-Conf),L 77-99,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,0,0,-1.1,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+4,70,4,2020-12-12,Oklahoma,,Florida A&M,REG (Non-Conf),W 85-54,,17,3,9,0.333,3,7,0.429,0,2,0.0,0.5,0,0,,0,2,2,1,1,0,1,2,9,4.4,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+5,71,5,2020-12-16,Oklahoma,,Oral Roberts,REG (Non-Conf),W 79-65,,16,5,9,0.556,4,7,0.571,1,2,0.5,0.778,0,0,,1,3,4,0,1,1,0,0,14,13.0,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+6,72,6,2020-12-19,Oklahoma,,Houston Baptist,REG (Non-Conf),W 84-65,,14,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,1,2,0,1,0,0,0,6,5.3,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+7,73,7,2020-12-22,Oklahoma,,Texas Tech,REG (Conf),L 67-69,,21,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,1,1,0,0,0,1,0,11,6.3,H,0,1,umoja-gibson-1,Umoja Gibson,2021
+8,74,8,2021-01-02,Oklahoma,,West Virginia,REG (Conf),W 75-71,,30,10,14,0.714,8,11,0.727,2,3,0.667,1.0,1,3,0.333,0,5,5,2,2,0,1,1,29,25.9,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+9,75,9,2021-01-06,Oklahoma,@,Baylor,REG (Conf),L 61-76,,23,0,7,0.0,0,4,0.0,0,3,0.0,0.0,5,5,1.0,1,1,2,4,2,0,1,2,5,4.1,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+10,76,10,2021-01-09,Oklahoma,@,Kansas,REG (Conf),L 59-63,,27,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,1,1,0,0,1,3,2.2,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+11,77,11,2021-01-12,Oklahoma,,TCU,REG (Conf),W 82-46,,22,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,0,2,2,3,3,0,0,3,11,10.1,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+12,78,12,2021-01-19,Oklahoma,,Kansas State,REG (Conf),W 76-50,,20,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,2,1,3,0,0,0,2,1,5,0.9,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+13,79,13,2021-01-23,Oklahoma,,Kansas,REG (Conf),W 75-68,,25,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,1,0.0,1,2,3,2,1,0,1,0,10,9.0,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+14,80,14,2021-01-26,Oklahoma,@,Texas,REG (Conf),W 80-79,,33,4,11,0.364,0,5,0.0,4,6,0.667,0.364,4,6,0.667,2,2,4,1,2,0,0,2,12,9.0,A,1,1,umoja-gibson-1,Umoja Gibson,2021
+15,81,15,2021-01-30,Oklahoma,,Alabama,REG (Non-Conf),W 66-61,*,34,4,10,0.4,3,4,0.75,1,6,0.167,0.55,1,3,0.333,0,5,5,2,2,0,2,1,12,8.3,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+16,82,16,2021-02-01,Oklahoma,@,Texas Tech,REG (Conf),L 52-57,*,34,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,3,1.0,2,5,7,1,4,0,2,1,14,15.2,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+17,83,17,2021-02-06,Oklahoma,,Iowa State,REG (Conf),W 79-72,*,38,6,11,0.545,4,9,0.444,2,2,1.0,0.727,2,2,1.0,1,4,5,0,1,0,1,1,18,14.2,H,1,1,umoja-gibson-1,Umoja Gibson,2021
+18,84,18,2021-02-13,Oklahoma,@,West Virginia,REG (Conf),W 91-90 (2OT),*,49,7,15,0.467,5,10,0.5,2,5,0.4,0.633,0,0,,1,1,2,0,0,0,0,0,19,12.3,A,1,1,umoja-gibson-1,Umoja Gibson,2021
+19,85,19,2021-02-20,Oklahoma,@,Iowa State,REG (Conf),W 66-56,*,31,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,2,1,3,1,1,0,0,2,10,7.9,A,1,1,umoja-gibson-1,Umoja Gibson,2021
+20,86,20,2021-02-23,Oklahoma,@,Kansas State,REG (Conf),L 57-62,*,35,2,11,0.182,2,6,0.333,0,5,0.0,0.273,1,2,0.5,2,9,11,1,4,0,2,1,7,6.1,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+21,87,21,2021-02-27,Oklahoma,,Oklahoma State,REG (Conf),L 90-94 (OT),*,36,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,3,1.0,0,4,4,1,0,0,0,2,14,11.1,H,0,1,umoja-gibson-1,Umoja Gibson,2021
+22,88,22,2021-03-01,Oklahoma,@,Oklahoma State,REG (Conf),L 75-79,*,39,5,12,0.417,3,8,0.375,2,4,0.5,0.542,0,0,,0,2,2,0,1,0,2,2,13,5.4,A,0,1,umoja-gibson-1,Umoja Gibson,2021
+23,89,23,2021-03-04,Oklahoma,,Texas,REG (Conf),L 65-69,*,25,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,3,3,0,1,0,0,2,3,1.0,H,0,1,umoja-gibson-1,Umoja Gibson,2021
+24,90,24,2021-03-10,Oklahoma,N,Iowa State,CTOURN,W 79-73,*,32,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,4,4,2,0,0,1,2,3,0.0,N,1,0,umoja-gibson-1,Umoja Gibson,2021
+25,91,25,2021-03-11,Oklahoma,@,Kansas,CTOURN,L 62-69,*,28,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,3,2,0,0,0,0,3.3,A,0,0,umoja-gibson-1,Umoja Gibson,2021
+26,92,26,2021-03-20,Oklahoma,N,Missouri,ROUND-64,W 72-68,*,24,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,3,3,2,0,0,0,2,2,0.4,N,1,0,umoja-gibson-1,Umoja Gibson,2021
+27,93,27,2021-03-22,Oklahoma,N,Gonzaga,ROUND-32,L 71-87,*,21,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,1,0,0,1,2,6,2.5,N,0,0,umoja-gibson-1,Umoja Gibson,2021

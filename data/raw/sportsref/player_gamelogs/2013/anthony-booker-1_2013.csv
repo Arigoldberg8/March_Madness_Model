@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2012-11-09,Iowa State,,Southern,REG (Non-Conf),W 82-59,*,20,5,11,0.455,0,2,0.0,5,9,0.556,0.455,1,3,0.333,2,3,5,0,1,3,1,3,11,7.7,H,1,1,anthony-booker-1,Anthony Booker,2013
+2,93,2,2012-11-12,Iowa State,,Alabama A&M,REG (Non-Conf),W 98-40,*,17,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,5,7,1,0,0,0,1,2,2.1,H,1,1,anthony-booker-1,Anthony Booker,2013
+3,94,3,2012-11-18,Iowa State,,Campbell,REG (Non-Conf),W 88-68,*,14,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,1,1.0,1,2,3,0,0,2,1,2,8,7.3,H,1,1,anthony-booker-1,Anthony Booker,2013
+4,95,4,2012-11-20,Iowa State,,North Carolina A&T,REG (Non-Conf),W 86-57,*,18,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,2,4,6,1,0,2,0,1,7,7.9,H,1,1,anthony-booker-1,Anthony Booker,2013
+5,96,5,2012-11-23,Iowa State,N,Cincinnati,REG (Non-Conf),L 70-78,*,13,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,1,3,4,0,0,0,0,1,7,5.2,N,0,1,anthony-booker-1,Anthony Booker,2013
+6,97,6,2012-11-24,Iowa State,N,UNLV,REG (Non-Conf),L 70-82,*,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,2,0,2,0,1,2,2,4,2,-1.6,N,0,1,anthony-booker-1,Anthony Booker,2013
+7,98,7,2012-12-01,Iowa State,,Brigham Young,REG (Non-Conf),W 83-62,*,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,0,1,0,0,3,2,2.8,H,1,1,anthony-booker-1,Anthony Booker,2013
+8,99,8,2012-12-04,Iowa State,,Florida Gulf Coast,REG (Non-Conf),W 83-72,*,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,1,0,1,1,0,1,1,2,2,-0.5,H,1,1,anthony-booker-1,Anthony Booker,2013
+9,100,9,2012-12-07,Iowa State,@,Iowa,REG (Non-Conf),L 71-80,*,5,0,0,,0,0,,0,0,,,0,0,,2,0,2,0,1,0,0,3,0,1.2,A,0,1,anthony-booker-1,Anthony Booker,2013
+10,101,10,2012-12-09,Iowa State,,Omaha,REG (Non-Conf),W 93-65,,19,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,4,0.75,3,3,6,1,1,0,0,2,11,11.9,H,1,1,anthony-booker-1,Anthony Booker,2013
+11,102,11,2012-12-15,Iowa State,N,Drake,REG (Non-Conf),W 86-77,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,3,5,0,1,1,0,4,4,4.4,N,1,1,anthony-booker-1,Anthony Booker,2013
+12,103,12,2012-12-19,Iowa State,@,Kansas City,REG (Non-Conf),W 76-61,,25,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,1,1.0,3,4,7,0,1,0,1,1,11,11.7,A,1,1,anthony-booker-1,Anthony Booker,2013
+13,104,13,2013-01-01,Iowa State,,Yale,REG (Non-Conf),W 80-70,,15,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,3,3,6,0,0,0,0,4,3,1.9,H,1,1,anthony-booker-1,Anthony Booker,2013
+14,105,14,2013-01-09,Iowa State,@,Kansas,REG (Conf),L 89-97 (OT),,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,2,3,0,-2.5,A,0,1,anthony-booker-1,Anthony Booker,2013
+15,106,15,2013-01-12,Iowa State,,Texas,REG (Conf),W 82-62,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,1,0,1,0,-0.5,H,1,1,anthony-booker-1,Anthony Booker,2013
+16,107,16,2013-01-16,Iowa State,,West Virginia,REG (Conf),W 69-67,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,1,3,2.6,H,1,1,anthony-booker-1,Anthony Booker,2013
+17,108,17,2013-01-19,Iowa State,@,TCU,REG (Conf),W 63-50,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,2,0,-0.8,A,1,1,anthony-booker-1,Anthony Booker,2013
+18,109,18,2013-01-23,Iowa State,@,Texas Tech,REG (Conf),L 51-56,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,A,0,1,anthony-booker-1,Anthony Booker,2013
+19,110,22,2013-02-04,Iowa State,,Oklahoma,REG (Conf),W 83-64,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,1,3,0,1,2,3.3,H,1,1,anthony-booker-1,Anthony Booker,2013
+20,111,25,2013-02-16,Iowa State,,TCU,REG (Conf),W 87-53,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,3,0,-1.3,H,1,1,anthony-booker-1,Anthony Booker,2013
+21,112,26,2013-02-20,Iowa State,@,Baylor,REG (Conf),W 87-82,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,anthony-booker-1,Anthony Booker,2013
+22,113,27,2013-02-23,Iowa State,,Texas Tech,REG (Conf),W 86-66,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,anthony-booker-1,Anthony Booker,2013
+23,114,28,2013-02-25,Iowa State,,Kansas,REG (Conf),L 96-108 (OT),,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,2,3,5,0,0,0,1,2,5,3.1,H,0,1,anthony-booker-1,Anthony Booker,2013
+24,115,29,2013-03-02,Iowa State,@,Oklahoma,REG (Conf),L 69-86,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,0,1,anthony-booker-1,Anthony Booker,2013
+25,116,30,2013-03-06,Iowa State,,Oklahoma State,REG (Conf),W 87-76,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,5,6,0,0,2,2,1,0,0.5,H,1,1,anthony-booker-1,Anthony Booker,2013
+26,117,31,2013-03-09,Iowa State,@,West Virginia,REG (Conf),W 83-74,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,1,2,1,0,0,1,2,3,1.2,A,1,1,anthony-booker-1,Anthony Booker,2013
+27,118,32,2013-03-14,Iowa State,N,Oklahoma,CTOURN,W 73-66,,8,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,1,2,0,0,0,1,1,4,3.3,N,1,0,anthony-booker-1,Anthony Booker,2013
+28,119,33,2013-03-15,Iowa State,N,Kansas,CTOURN,L 73-88,,7,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,0,1,0,0,0,0,3,4,1.5,N,0,0,anthony-booker-1,Anthony Booker,2013
+29,120,34,2013-03-22,Iowa State,N,Notre Dame,ROUND-64,W 76-58,,11,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,1,1,0,0,0,1,2,6,2.9,N,1,0,anthony-booker-1,Anthony Booker,2013
+30,121,35,2013-03-24,Iowa State,N,Ohio State,ROUND-32,L 75-78,,6,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,1,2,0.2,N,0,0,anthony-booker-1,Anthony Booker,2013

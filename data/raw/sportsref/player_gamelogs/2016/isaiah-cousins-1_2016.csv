@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2015-11-17,Oklahoma,@,Memphis,REG (Non-Conf),W 84-78,*,37,5,13,0.385,3,9,0.333,2,4,0.5,0.5,0,2,0.0,0,1,1,6,2,0,4,4,13,6.0,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+2,102,2,2015-11-20,Oklahoma,,McNeese State,REG (Non-Conf),W 85-56,*,23,5,10,0.5,2,5,0.4,3,5,0.6,0.6,3,6,0.5,0,3,3,2,0,0,1,1,15,9.7,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+3,103,3,2015-11-24,Oklahoma,,Incarnate Word,REG (Non-Conf),W 96-63,*,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,1,2,3,2,0,0,3,2,8,3.6,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+4,104,4,2015-11-29,Oklahoma,,Wisconsin,REG (Non-Conf),W 65-48,*,33,6,14,0.429,2,4,0.5,4,10,0.4,0.5,0,0,,0,3,3,3,0,1,1,2,14,8.5,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+5,105,5,2015-12-03,Oklahoma,,Central Arkansas,REG (Non-Conf),W 111-68,*,25,6,11,0.545,3,3,1.0,3,8,0.375,0.682,1,2,0.5,2,9,11,4,1,2,0,1,16,19.2,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+6,106,6,2015-12-07,Oklahoma,N,Villanova,REG (Non-Conf),W 78-55,*,35,7,14,0.5,4,4,1.0,3,10,0.3,0.643,1,3,0.333,0,6,6,10,1,0,2,2,19,18.2,N,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+7,107,7,2015-12-12,Oklahoma,,Oral Roberts,REG (Non-Conf),W 96-73,*,33,6,12,0.5,3,5,0.6,3,7,0.429,0.625,0,0,,3,2,5,5,2,0,2,3,15,14.0,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+8,108,8,2015-12-19,Oklahoma,,Creighton,REG (Non-Conf),W 87-74,*,33,3,7,0.429,1,2,0.5,2,5,0.4,0.5,3,5,0.6,0,7,7,7,1,1,2,0,10,12.2,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+9,109,9,2015-12-22,Oklahoma,N,Washington State,REG (Non-Conf),W 88-60,*,26,5,12,0.417,2,5,0.4,3,7,0.429,0.5,1,2,0.5,0,3,3,5,0,0,1,2,13,8.8,N,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+10,110,10,2015-12-23,Oklahoma,@,Hawaii,REG (Non-Conf),W 84-81,*,36,4,11,0.364,1,3,0.333,3,8,0.375,0.409,5,7,0.714,1,2,3,6,1,0,0,2,14,12.8,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+11,111,11,2015-12-25,Oklahoma,N,Harvard,REG (Non-Conf),W 83-71,*,36,2,11,0.182,0,5,0.0,2,6,0.333,0.182,3,4,0.75,1,5,6,4,1,0,4,2,7,0.9,N,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+12,112,12,2016-01-02,Oklahoma,,Iowa State,REG (Conf),W 87-83,*,37,5,14,0.357,3,6,0.5,2,8,0.25,0.464,2,2,1.0,1,2,3,4,1,0,1,0,15,11.3,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+13,113,13,2016-01-04,Oklahoma,@,Kansas,REG (Conf),L 106-109 (3OT),*,39,2,14,0.143,0,3,0.0,2,11,0.182,0.143,0,0,,0,2,2,4,1,1,1,2,4,-1.7,A,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+14,114,14,2016-01-09,Oklahoma,,Kansas State,REG (Conf),W 86-76,*,28,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,6,0.333,0,4,4,6,5,0,1,0,6,9.0,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+15,115,15,2016-01-13,Oklahoma,@,Oklahoma State,REG (Conf),W 74-72,*,33,4,11,0.364,2,6,0.333,2,5,0.4,0.455,2,2,1.0,1,4,5,2,3,0,3,1,12,8.8,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+16,116,16,2016-01-16,Oklahoma,,West Virginia,REG (Conf),W 70-68,*,34,2,10,0.2,0,4,0.0,2,6,0.333,0.2,5,6,0.833,1,2,3,0,2,0,3,2,9,1.9,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+17,117,17,2016-01-18,Oklahoma,@,Iowa State,REG (Conf),L 77-82,*,37,10,15,0.667,4,5,0.8,6,10,0.6,0.8,2,2,1.0,1,6,7,4,0,0,3,3,26,20.6,A,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+18,118,18,2016-01-23,Oklahoma,@,Baylor,REG (Conf),W 82-72,*,35,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,2,0.0,0,1,1,9,2,1,2,2,13,16.5,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+19,119,19,2016-01-26,Oklahoma,,Texas Tech,REG (Conf),W 91-67,*,35,7,11,0.636,2,3,0.667,5,8,0.625,0.727,3,4,0.75,1,5,6,3,2,1,0,0,19,20.7,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+20,120,20,2016-01-30,Oklahoma,@,Louisiana State,REG (Non-Conf),W 77-75,*,38,8,14,0.571,2,3,0.667,6,11,0.545,0.643,0,0,,1,3,4,7,4,1,3,0,18,19.6,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+21,121,21,2016-02-02,Oklahoma,,TCU,REG (Conf),W 95-72,*,30,5,11,0.455,2,3,0.667,3,8,0.375,0.545,1,1,1.0,1,9,10,7,2,0,2,1,13,15.2,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+22,122,22,2016-02-06,Oklahoma,@,Kansas State,REG (Conf),L 69-80,*,37,5,9,0.556,2,5,0.4,3,4,0.75,0.667,4,4,1.0,0,4,4,2,0,0,3,5,16,9.3,A,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+23,123,23,2016-02-08,Oklahoma,,Texas,REG (Conf),W 63-60,*,37,6,14,0.429,3,5,0.6,3,9,0.333,0.536,2,4,0.5,1,5,6,3,1,0,1,0,17,13.1,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+24,124,24,2016-02-13,Oklahoma,,Kansas,REG (Conf),L 72-76,*,37,8,19,0.421,3,9,0.333,5,10,0.5,0.5,2,2,1.0,1,4,5,5,3,0,4,1,21,14.9,H,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+25,125,25,2016-02-17,Oklahoma,@,Texas Tech,REG (Conf),L 63-65,*,35,3,9,0.333,0,2,0.0,3,7,0.429,0.333,4,5,0.8,1,5,6,2,2,0,1,0,10,9.1,A,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+26,126,26,2016-02-20,Oklahoma,@,West Virginia,REG (Conf),W 76-62,*,37,5,12,0.417,2,6,0.333,3,6,0.5,0.5,0,2,0.0,3,5,8,5,0,0,1,4,12,9.3,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+27,127,27,2016-02-24,Oklahoma,,Oklahoma State,REG (Conf),W 71-49,*,29,3,11,0.273,1,4,0.25,2,7,0.286,0.318,0,0,,1,5,6,7,2,0,4,1,7,5.2,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+28,128,28,2016-02-27,Oklahoma,@,Texas,REG (Conf),L 63-76,*,35,3,13,0.231,1,5,0.2,2,8,0.25,0.269,2,2,1.0,0,4,4,3,1,0,3,3,9,1.2,A,0,1,isaiah-cousins-1,Isaiah Cousins,2016
+29,129,29,2016-03-01,Oklahoma,,Baylor,REG (Conf),W 73-71,*,39,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,0,5,5,4,2,0,4,1,10,5.8,H,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+30,130,30,2016-03-05,Oklahoma,@,TCU,REG (Conf),W 75-67,*,32,1,3,0.333,1,1,1.0,0,2,0.0,0.5,7,8,0.875,0,2,2,6,0,0,2,2,10,9.9,A,1,1,isaiah-cousins-1,Isaiah Cousins,2016
+31,131,31,2016-03-10,Oklahoma,N,Iowa State,CTOURN,W 79-76,*,34,4,11,0.364,0,3,0.0,4,8,0.5,0.364,2,3,0.667,1,5,6,5,2,0,2,3,10,8.0,N,1,0,isaiah-cousins-1,Isaiah Cousins,2016
+32,132,32,2016-03-11,Oklahoma,N,West Virginia,CTOURN,L 67-69,*,36,5,10,0.5,3,5,0.6,2,5,0.4,0.65,2,2,1.0,0,0,0,4,2,0,7,2,15,7.0,N,0,0,isaiah-cousins-1,Isaiah Cousins,2016
+33,133,33,2016-03-18,Oklahoma,N,Cal State Bakersfield,ROUND-64,W 82-68,*,37,5,10,0.5,3,3,1.0,2,7,0.286,0.65,3,4,0.75,0,3,3,5,1,0,2,1,16,13.6,N,1,0,isaiah-cousins-1,Isaiah Cousins,2016
+34,134,34,2016-03-20,Oklahoma,N,VCU,ROUND-32,W 85-81,*,34,6,13,0.462,1,5,0.2,5,8,0.625,0.5,2,3,0.667,0,4,4,1,2,1,6,3,15,5.3,N,1,0,isaiah-cousins-1,Isaiah Cousins,2016
+35,135,35,2016-03-24,Oklahoma,N,Texas A&M,ROUND-16,W 77-63,*,27,1,8,0.125,0,3,0.0,1,5,0.2,0.125,0,0,,0,4,4,8,1,1,2,1,2,2.9,N,1,0,isaiah-cousins-1,Isaiah Cousins,2016
+36,136,36,2016-03-26,Oklahoma,N,Oregon,ROUND-8,W 80-68,*,34,4,13,0.308,2,5,0.4,2,8,0.25,0.385,1,2,0.5,0,5,5,7,1,0,3,2,11,6.7,N,1,0,isaiah-cousins-1,Isaiah Cousins,2016
+37,137,37,2016-04-02,Oklahoma,N,Villanova,NATIONAL-SEMI,L 51-95,*,30,3,14,0.214,2,8,0.25,1,6,0.167,0.286,0,0,,0,1,1,1,0,0,4,2,8,-4.4,N,0,0,isaiah-cousins-1,Isaiah Cousins,2016

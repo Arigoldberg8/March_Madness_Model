@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,99,1,2020-11-25,Clemson,N,Mississippi State,REG (Non-Conf),W 53-42,*,8,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,1,1,0,1,0,2,5,4,-1.8,N,1,1,aamir-simms-1,Aamir Simms,2021
+2,100,2,2020-11-26,Clemson,N,Purdue,REG (Non-Conf),W 81-70,*,27,8,13,0.615,2,4,0.5,6,9,0.667,0.692,6,7,0.857,1,2,3,4,2,0,1,3,24,21.6,N,1,1,aamir-simms-1,Aamir Simms,2021
+3,101,3,2020-12-02,Clemson,,South Carolina State,REG (Non-Conf),W 75-38,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,2,4,4,1,0,1,1,8,10.5,H,1,1,aamir-simms-1,Aamir Simms,2021
+4,102,4,2020-12-09,Clemson,,Maryland,REG (Non-Conf),W 67-51,*,31,7,13,0.538,2,3,0.667,5,10,0.5,0.615,0,2,0.0,5,2,7,1,2,1,3,3,16,12.2,H,1,1,aamir-simms-1,Aamir Simms,2021
+5,103,5,2020-12-12,Clemson,N,Alabama,REG (Non-Conf),W 64-56,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,5,5,3,0,0,6,3,6,0.8,N,1,1,aamir-simms-1,Aamir Simms,2021
+6,104,6,2020-12-15,Clemson,@,Virginia Tech,REG (Conf),L 60-66,*,31,4,6,0.667,1,1,1.0,3,5,0.6,0.75,6,6,1.0,1,2,3,1,2,2,2,4,15,14.2,A,0,1,aamir-simms-1,Aamir Simms,2021
+7,105,7,2020-12-21,Clemson,,Morehead State,REG (Non-Conf),W 66-51,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,4,4,1.0,5,5,10,0,2,0,5,5,12,9.4,H,1,1,aamir-simms-1,Aamir Simms,2021
+8,106,8,2020-12-29,Clemson,,Florida State,REG (Conf),W 77-67,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,5,0.8,3,8,11,3,0,0,3,2,8,7.7,H,1,1,aamir-simms-1,Aamir Simms,2021
+9,107,9,2021-01-02,Clemson,@,Miami (FL),REG (Conf),W 66-65,*,33,10,14,0.714,2,2,1.0,8,12,0.667,0.786,3,4,0.75,4,3,7,4,0,4,2,3,25,24.9,A,1,1,aamir-simms-1,Aamir Simms,2021
+10,108,10,2021-01-05,Clemson,,NC State,REG (Conf),W 74-70 (OT),*,33,3,11,0.273,0,6,0.0,3,5,0.6,0.273,2,2,1.0,4,3,7,4,2,0,1,4,8,7.4,H,1,1,aamir-simms-1,Aamir Simms,2021
+11,109,11,2021-01-16,Clemson,,Virginia,REG (Conf),L 50-85,*,25,1,9,0.111,0,4,0.0,1,5,0.2,0.111,0,0,,2,3,5,2,0,2,0,1,2,0.8,H,0,1,aamir-simms-1,Aamir Simms,2021
+12,110,12,2021-01-20,Clemson,@,Georgia Tech,REG (Conf),L 65-83,*,32,9,13,0.692,0,0,,9,13,0.692,0.692,1,1,1.0,3,2,5,3,2,0,4,3,19,15.1,A,0,1,aamir-simms-1,Aamir Simms,2021
+13,111,13,2021-01-23,Clemson,@,Florida State,REG (Conf),L 61-80,*,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,3,2,5,1,0,0,2,3,5,3.1,A,0,1,aamir-simms-1,Aamir Simms,2021
+14,112,14,2021-01-27,Clemson,,Louisville,REG (Conf),W 54-50,*,34,6,12,0.5,1,4,0.25,5,8,0.625,0.542,3,3,1.0,5,4,9,4,0,1,1,2,16,16.4,H,1,1,aamir-simms-1,Aamir Simms,2021
+15,113,15,2021-01-30,Clemson,@,Duke,REG (Conf),L 53-79,*,27,7,13,0.538,1,2,0.5,6,11,0.545,0.577,4,5,0.8,3,3,6,4,2,0,2,4,19,16.5,A,0,1,aamir-simms-1,Aamir Simms,2021
+16,114,16,2021-02-02,Clemson,,North Carolina,REG (Conf),W 63-50,*,36,4,10,0.4,1,3,0.333,3,7,0.429,0.45,1,1,1.0,4,2,6,6,0,0,1,3,10,10.0,H,1,1,aamir-simms-1,Aamir Simms,2021
+17,115,17,2021-02-06,Clemson,,Syracuse,REG (Conf),W 78-61,*,31,7,9,0.778,1,2,0.5,6,7,0.857,0.833,3,4,0.75,2,9,11,0,0,1,5,3,18,12.7,H,1,1,aamir-simms-1,Aamir Simms,2021
+18,116,18,2021-02-12,Clemson,,Georgia Tech,REG (Conf),W 74-72,*,33,9,16,0.563,3,4,0.75,6,12,0.5,0.656,4,5,0.8,1,2,3,3,1,1,2,3,25,18.9,H,1,1,aamir-simms-1,Aamir Simms,2021
+19,117,19,2021-02-24,Clemson,@,Wake Forest,REG (Conf),W 60-39,*,34,6,9,0.667,1,2,0.5,5,7,0.714,0.722,0,0,,1,9,10,2,1,0,5,1,13,9.5,A,1,1,aamir-simms-1,Aamir Simms,2021
+20,118,20,2021-02-27,Clemson,,Miami (FL),REG (Conf),W 66-58,*,40,8,12,0.667,3,4,0.75,5,8,0.625,0.792,0,0,,2,4,6,1,1,2,4,3,19,14.3,H,1,1,aamir-simms-1,Aamir Simms,2021
+21,119,21,2021-03-03,Clemson,@,Syracuse,REG (Conf),L 54-64,*,37,3,10,0.3,0,1,0.0,3,9,0.333,0.3,0,0,,3,5,8,3,0,1,0,4,6,5.0,A,0,1,aamir-simms-1,Aamir Simms,2021
+22,120,22,2021-03-06,Clemson,,Pittsburgh,REG (Conf),W 77-62,*,27,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,2,0.5,0,3,3,5,0,0,1,3,12,10.2,H,1,1,aamir-simms-1,Aamir Simms,2021
+23,121,23,2021-03-10,Clemson,N,Miami (FL),CTOURN,L 64-67,*,34,7,13,0.538,3,5,0.6,4,8,0.5,0.654,0,0,,2,6,8,4,1,2,4,2,17,14.3,N,0,0,aamir-simms-1,Aamir Simms,2021
+24,122,24,2021-03-19,Clemson,N,Rutgers,ROUND-64,L 56-60,*,38,5,14,0.357,0,1,0.0,5,13,0.385,0.357,5,6,0.833,3,8,11,3,1,0,1,1,15,13.0,N,0,0,aamir-simms-1,Aamir Simms,2021

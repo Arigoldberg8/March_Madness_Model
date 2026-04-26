@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,2,2024-11-09,Houston,N,Auburn,REG (Non-Conf),L 69-74,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,0,0,0,1,2,4,2.2,N,0,1,javier-francis-1,Ja'Vier Francis,2025
+2,92,3,2024-11-13,Houston,,Louisiana,REG (Non-Conf),W 91-45,*,13,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,2,2,4,0,0,3,0,1,9,10.0,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+3,93,4,2024-11-22,Houston,,Hofstra,REG (Non-Conf),W 80-44,*,15,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,2,1,3,0,1,1,0,0,4,4.7,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+4,94,5,2024-11-26,Houston,N,Alabama,REG (Non-Conf),L 80-85 (OT),*,12,0,1,0.0,0,0,,0,1,0.0,0.0,2,3,0.667,1,1,2,0,2,0,2,4,2,0.3,N,0,1,javier-francis-1,Ja'Vier Francis,2025
+5,95,6,2024-11-28,Houston,N,Notre Dame,REG (Non-Conf),W 65-54,*,11,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,0,0,1,0,3,4,2.8,N,1,1,javier-francis-1,Ja'Vier Francis,2025
+6,96,7,2024-11-30,Houston,N,San Diego State,REG (Non-Conf),L 70-73 (OT),*,20,2,5,0.4,0,0,,2,5,0.4,0.4,1,3,0.333,3,3,6,1,0,1,0,2,5,5.1,N,0,1,javier-francis-1,Ja'Vier Francis,2025
+7,97,8,2024-12-07,Houston,,Butler,REG (Non-Conf),W 79-51,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,0,1,1,3,2,1.1,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+8,98,9,2024-12-10,Houston,,Troy,REG (Non-Conf),W 62-42,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,1,3,4,1,0,1,2,0,2,1.6,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+9,99,10,2024-12-18,Houston,,Toledo,REG (Non-Conf),W 78-49,,13,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,4,5,0,0,0,3,4,3,-1.1,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+10,100,11,2024-12-21,Houston,,Texas A&M–Corpus Christi,REG (Non-Conf),W 87-51,,19,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,0,0,0,0,2,4,2,3,9,7.9,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+11,101,12,2024-12-30,Houston,@,Oklahoma State,REG (Conf),W 60-47,,19,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,5,5,0,0,1,2,2,2,-1.0,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+12,102,13,2025-01-04,Houston,,Brigham Young,REG (Conf),W 86-55,,19,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,3,2,5,0,1,3,1,2,9,10.0,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+13,103,14,2025-01-06,Houston,,TCU,REG (Conf),W 65-46,,16,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,4,1,5,1,0,1,0,1,4,6.4,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+14,104,15,2025-01-11,Houston,@,Kansas State,REG (Conf),W 87-57,,14,5,9,0.556,0,0,,5,9,0.556,0.556,1,3,0.333,6,3,9,0,1,1,0,3,11,11.5,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+15,105,16,2025-01-15,Houston,,West Virginia,REG (Conf),W 70-54,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,0,1,0,0,2,2,3.2,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+16,106,17,2025-01-18,Houston,@,UCF,REG (Conf),W 69-68,,25,5,6,0.833,0,0,,5,6,0.833,0.833,6,6,1.0,7,3,10,0,0,1,1,2,16,18.5,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+17,107,18,2025-01-22,Houston,,Utah,REG (Conf),W 70-36,,17,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,1,2,1,1,1,6,7.4,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+18,108,19,2025-01-25,Houston,@,Kansas,REG (Conf),W 92-86 (2OT),,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,1,2,0,1,0,0,2,4,3.5,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+19,109,20,2025-01-29,Houston,@,West Virginia,REG (Conf),W 63-49,,11,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,3,5,0,1,0,1,0,6,7.4,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+20,110,21,2025-02-01,Houston,,Texas Tech,REG (Conf),L 81-82 (OT),,13,2,2,1.0,0,0,,2,2,1.0,1.0,3,4,0.75,2,1,3,0,0,1,1,4,7,5.8,H,0,1,javier-francis-1,Ja'Vier Francis,2025
+21,111,23,2025-02-08,Houston,@,Colorado,REG (Conf),W 69-59,,4,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,4,0,-0.6,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+22,112,24,2025-02-10,Houston,,Baylor,REG (Conf),W 76-65,,13,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,1,3,1,1,0,1,3,4,4.9,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+23,113,25,2025-02-15,Houston,@,Arizona,REG (Conf),W 62-58,,15,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,5,7,0,0,1,2,3,2,0.0,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+24,114,26,2025-02-18,Houston,@,Arizona State,REG (Conf),W 80-65,,12,1,4,0.25,0,0,,1,4,0.25,0.25,6,6,1.0,4,1,5,0,0,0,1,4,8,6.1,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+25,115,27,2025-02-22,Houston,,Iowa State,REG (Conf),W 68-59,,24,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,1,5,6,0,0,2,1,0,2,2.5,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+26,116,28,2025-02-24,Houston,@,Texas Tech,REG (Conf),W 69-61,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,5,6,1,0,1,2,1,2,2.9,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+27,117,29,2025-03-01,Houston,,Cincinnati,REG (Conf),W 73-64,,19,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,3,3,6,0,0,0,2,1,6,5.6,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+28,118,30,2025-03-03,Houston,,Kansas,REG (Conf),W 65-59,*,15,0,0,,0,0,,0,0,,,0,3,0.0,1,2,3,0,1,2,0,0,0,2.5,H,1,1,javier-francis-1,Ja'Vier Francis,2025
+29,119,31,2025-03-08,Houston,@,Baylor,REG (Conf),W 65-61,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,3,4,0,0,0,0,3,4,3.8,A,1,1,javier-francis-1,Ja'Vier Francis,2025
+30,120,32,2025-03-13,Houston,N,Colorado,CTOURN,W 77-68,,12,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,1,2,3,0,0,0,1,4,6,3.7,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+31,121,33,2025-03-14,Houston,N,Brigham Young,CTOURN,W 74-54,,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,3,1,4,0,0,3,2,2,4,5.1,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+32,122,34,2025-03-15,Houston,N,Arizona,CTOURN,W 72-64,,29,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,5,2,7,0,0,0,3,1,8,7.1,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+33,123,35,2025-03-20,Houston,N,SIU Edwardsville,ROUND-64,W 78-40,,15,4,4,1.0,0,0,,4,4,1.0,1.0,5,6,0.833,4,4,8,0,1,0,0,1,13,16.0,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+34,124,36,2025-03-22,Houston,N,Gonzaga,ROUND-32,W 81-76,,19,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,0,1,1,0,0,2,0,4,1,-1.4,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+35,125,37,2025-03-28,Houston,N,Purdue,ROUND-16,W 62-60,,16,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,3,5,0,0,0,0,3,8,6.5,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+36,126,38,2025-03-30,Houston,N,Tennessee,ROUND-8,W 69-50,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,6,8,0,1,2,1,1,4,6.9,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+37,127,39,2025-04-05,Houston,N,Duke,NATIONAL-SEMI,W 70-67,,15,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,0,0,1,0,3,4,3.5,N,1,0,javier-francis-1,Ja'Vier Francis,2025
+38,128,40,2025-04-07,Houston,N,Florida,NATIONAL-FINAL,L 63-65,,21,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,4,6,0,0,2,0,4,8,8.5,N,0,0,javier-francis-1,Ja'Vier Francis,2025

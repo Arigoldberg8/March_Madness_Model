@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2010-11-13,Saint Peter's,@,Robert Morris,REG (Non-Conf),L 30-55,*,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,1,2,3,0,0,0,3,3,3,-3.4,A,0,1,steven-samuels-1,Steven Samuels,2011
+2,31,2,2010-11-19,Saint Peter's,N,Old Dominion,REG (Non-Conf),L 52-59,*,33,5,6,0.833,2,3,0.667,3,3,1.0,1.0,1,2,0.5,1,4,5,1,0,0,2,3,13,9.8,N,0,1,steven-samuels-1,Steven Samuels,2011
+3,32,3,2010-11-20,Saint Peter's,N,Long Beach State,REG (Non-Conf),L 56-68,*,31,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,1,1,2,3,1,0,0,3,12,9.9,N,0,1,steven-samuels-1,Steven Samuels,2011
+4,33,4,2010-11-22,Saint Peter's,N,Alabama,REG (Non-Conf),W 50-49,*,31,6,9,0.667,2,5,0.4,4,4,1.0,0.778,0,0,,0,2,2,1,2,1,4,1,14,9.7,N,1,1,steven-samuels-1,Steven Samuels,2011
+5,34,5,2010-11-27,Saint Peter's,,LIU Brooklyn,REG (Non-Conf),W 65-62,*,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,steven-samuels-1,Steven Samuels,2011
+6,35,6,2010-11-29,Saint Peter's,@,Seton Hall,REG (Non-Conf),L 49-69,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,3,4,1,0,0,3,2,6,1.5,A,0,1,steven-samuels-1,Steven Samuels,2011
+7,36,7,2010-12-02,Saint Peter's,@,Loyola (MD),REG (Conf),W 55-52,*,22,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,1,2,0,0,0,1,0,8,5.7,A,1,1,steven-samuels-1,Steven Samuels,2011
+8,37,8,2010-12-04,Saint Peter's,,Manhattan,REG (Conf),W 66-49,*,24,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,3,3,1,1,0,1,3,7,5.1,H,1,1,steven-samuels-1,Steven Samuels,2011
+9,38,9,2010-12-11,Saint Peter's,@,Wagner,REG (Non-Conf),W 51-50,*,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,3,0,-1.5,A,1,1,steven-samuels-1,Steven Samuels,2011
+10,39,10,2010-12-18,Saint Peter's,,Fairleigh Dickinson,REG (Non-Conf),W 60-57,*,24,5,11,0.455,3,7,0.429,2,4,0.5,0.591,0,1,0.0,1,3,4,1,1,0,1,3,13,8.0,H,1,1,steven-samuels-1,Steven Samuels,2011
+11,40,11,2010-12-21,Saint Peter's,@,Binghamton,REG (Non-Conf),W 61-56,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,1,2,0,1,0,3,3,7,2.8,A,1,1,steven-samuels-1,Steven Samuels,2011
+12,41,12,2010-12-23,Saint Peter's,@,Rutgers,REG (Non-Conf),L 52-55,*,26,5,9,0.556,4,7,0.571,1,2,0.5,0.778,0,0,,1,0,1,1,2,1,4,5,14,7.8,A,0,1,steven-samuels-1,Steven Samuels,2011
+13,42,13,2010-12-29,Saint Peter's,@,Lehigh,REG (Non-Conf),L 64-77,,35,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,3,3,2,2,1,2,4,5,0.2,A,0,1,steven-samuels-1,Steven Samuels,2011
+14,43,14,2011-01-03,Saint Peter's,,Canisius,REG (Conf),W 63-55,*,35,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,1,6,7,1,2,1,1,0,11,11.9,H,1,1,steven-samuels-1,Steven Samuels,2011
+15,44,15,2011-01-07,Saint Peter's,@,Iona,REG (Conf),L 52-70,*,21,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,2,0.5,1,3,4,0,1,0,0,3,10,7.0,A,0,1,steven-samuels-1,Steven Samuels,2011
+16,45,16,2011-01-09,Saint Peter's,@,Fairfield,REG (Conf),L 43-70,*,31,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,4,0.5,4,2,6,0,0,0,2,3,6,-0.1,A,0,1,steven-samuels-1,Steven Samuels,2011
+17,46,17,2011-01-15,Saint Peter's,,Niagara,REG (Conf),W 77-57,*,25,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,1,1,2,3,1,0,3,1,9,6.4,H,1,1,steven-samuels-1,Steven Samuels,2011
+18,47,18,2011-01-17,Saint Peter's,,Loyola (MD),REG (Conf),L 63-65,*,26,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,1,0,1,0,1,0,3,1,4,0.2,H,0,1,steven-samuels-1,Steven Samuels,2011
+19,48,19,2011-01-21,Saint Peter's,,Siena,REG (Conf),W 77-69,*,22,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,3,0.333,0,4,4,3,0,1,2,4,5,1.2,H,1,1,steven-samuels-1,Steven Samuels,2011
+20,49,20,2011-01-23,Saint Peter's,@,Manhattan,REG (Conf),W 62-53,*,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,3,3,1,1,0,3,3,6,1.7,A,1,1,steven-samuels-1,Steven Samuels,2011
+21,50,21,2011-01-27,Saint Peter's,,Marist,REG (Conf),W 85-53,*,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,3,6,0.5,0,5,5,3,1,0,1,1,8,8.0,H,1,1,steven-samuels-1,Steven Samuels,2011
+22,51,22,2011-01-29,Saint Peter's,,Rider,REG (Conf),W 80-60,*,33,4,12,0.333,1,4,0.25,3,8,0.375,0.375,4,5,0.8,2,5,7,4,2,0,0,3,13,12.3,H,1,1,steven-samuels-1,Steven Samuels,2011
+23,52,23,2011-02-04,Saint Peter's,@,Niagara,REG (Conf),W 70-47,*,26,2,10,0.2,1,6,0.167,1,4,0.25,0.25,0,0,,0,4,4,5,0,0,5,0,5,-1.5,A,1,1,steven-samuels-1,Steven Samuels,2011
+24,53,24,2011-02-06,Saint Peter's,@,Canisius,REG (Conf),L 45-59,*,16,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,1,0,1,0,0,0,2,2,1,-4.3,A,0,1,steven-samuels-1,Steven Samuels,2011
+25,54,25,2011-02-11,Saint Peter's,@,Marist,REG (Conf),W 66-54,*,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,1,1,1,2,4,7,4.5,A,1,1,steven-samuels-1,Steven Samuels,2011
+26,55,26,2011-02-13,Saint Peter's,,Fairfield,REG (Conf),L 69-70 (OT),*,34,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,0,2,2,0,5,1,5,2,8,3.7,H,0,1,steven-samuels-1,Steven Samuels,2011
+27,56,27,2011-02-16,Saint Peter's,@,Siena,REG (Conf),W 67-57,*,17,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,2,1,3,1,0,0,2,2,3,-1.2,A,1,1,steven-samuels-1,Steven Samuels,2011
+28,57,28,2011-02-19,Saint Peter's,@,Loyola Chicago,REG (Non-Conf),W 71-67,*,18,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,7,0.429,2,3,5,1,1,0,1,3,7,3.8,A,1,1,steven-samuels-1,Steven Samuels,2011
+29,58,29,2011-02-25,Saint Peter's,,Iona,REG (Conf),L 59-73,,25,2,9,0.222,1,4,0.25,1,5,0.2,0.278,1,4,0.25,0,1,1,2,1,0,3,4,6,-2.6,H,0,1,steven-samuels-1,Steven Samuels,2011
+30,59,30,2011-02-27,Saint Peter's,@,Rider,REG (Conf),L 72-75,*,28,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,0,6,6,3,0,0,2,3,9,4.9,A,0,1,steven-samuels-1,Steven Samuels,2011
+31,60,31,2011-03-05,Saint Peter's,N,Loyola (MD),CTOURN,W 70-60,*,32,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,2,3,5,4,2,0,3,3,10,9.9,N,1,0,steven-samuels-1,Steven Samuels,2011
+32,61,32,2011-03-06,Saint Peter's,N,Fairfield,CTOURN,W 62-48,*,33,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,2,6,0,1,2,4,8.5,N,1,0,steven-samuels-1,Steven Samuels,2011
+33,62,33,2011-03-07,Saint Peter's,N,Iona,CTOURN,W 62-57,*,29,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,0,2,4,4,2,-1.5,N,1,0,steven-samuels-1,Steven Samuels,2011
+34,63,34,2011-03-18,Saint Peter's,N,Purdue,ROUND-64,L 43-65,*,27,1,5,0.2,1,1,1.0,0,4,0.0,0.3,3,4,0.75,2,4,6,0,1,0,0,3,6,4.9,N,0,0,steven-samuels-1,Steven Samuels,2011

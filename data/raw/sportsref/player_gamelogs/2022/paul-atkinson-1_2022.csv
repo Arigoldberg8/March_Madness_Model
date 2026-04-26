@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2021-11-13,Notre Dame,,Cal State Northridge,REG (Non-Conf),W 68-52,*,26,6,8,0.75,0,0,,6,8,0.75,0.75,4,6,0.667,4,2,6,1,1,0,3,3,16,12.9,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+2,93,2,2021-11-16,Notre Dame,,High Point,REG (Non-Conf),W 70-61,*,30,7,11,0.636,0,0,,7,11,0.636,0.636,5,9,0.556,5,6,11,1,0,2,2,1,19,17.5,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+3,94,3,2021-11-22,Notre Dame,N,St. Mary's (CA),REG (Non-Conf),L 59-62,*,31,6,9,0.667,0,0,,6,9,0.667,0.667,1,1,1.0,1,4,5,1,1,2,2,2,13,11.3,N,0,1,paul-atkinson-1,Paul Atkinson,2022
+4,95,4,2021-11-23,Notre Dame,N,Chaminade,REG (Non-Conf),W 90-64,*,20,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,3,3,6,1,2,0,3,0,12,10.0,N,1,1,paul-atkinson-1,Paul Atkinson,2022
+5,96,5,2021-11-24,Notre Dame,N,Texas A&M,REG (Non-Conf),L 67-73,*,33,4,5,0.8,0,0,,4,5,0.8,0.8,3,5,0.6,1,4,5,2,2,2,2,4,11,11.4,N,0,1,paul-atkinson-1,Paul Atkinson,2022
+6,97,6,2021-11-29,Notre Dame,@,Illinois,REG (Non-Conf),L 72-82,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,2,5,2,1,0,1,2,3,4.9,A,0,1,paul-atkinson-1,Paul Atkinson,2022
+7,98,7,2021-12-03,Notre Dame,@,Boston College,REG (Conf),L 57-73,*,16,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,0,1,0,0,1,4,3.5,A,0,1,paul-atkinson-1,Paul Atkinson,2022
+8,99,8,2021-12-11,Notre Dame,,Kentucky,REG (Non-Conf),W 66-62,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,3,3,6,3,0,0,1,3,10,9.3,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+9,100,9,2021-12-18,Notre Dame,N,Indiana,REG (Non-Conf),L 56-64,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,2,9,11,0,4,0,1,3,11,13.9,N,0,1,paul-atkinson-1,Paul Atkinson,2022
+10,101,10,2021-12-20,Notre Dame,,Western Michigan,REG (Non-Conf),W 85-52,*,29,5,10,0.5,0,0,,5,10,0.5,0.5,7,9,0.778,2,3,5,3,0,1,0,2,17,15.5,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+11,102,11,2021-12-22,Notre Dame,,Texas A&M–Corpus Christi,REG (Non-Conf),W 83-73,*,30,5,8,0.625,0,0,,5,8,0.625,0.625,4,4,1.0,1,5,6,4,0,1,3,1,14,12.7,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+12,103,12,2021-12-28,Notre Dame,@,Pittsburgh,REG (Conf),W 68-67,*,26,4,10,0.4,0,1,0.0,4,9,0.444,0.4,8,8,1.0,2,6,8,1,0,0,1,5,16,11.5,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+13,104,13,2022-01-05,Notre Dame,,North Carolina,REG (Conf),W 78-73,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,6,6,0,0,1,1,3,2,-0.1,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+14,105,14,2022-01-08,Notre Dame,@,Georgia Tech,REG (Conf),W 72-68 (OT),,36,8,9,0.889,0,0,,8,9,0.889,0.889,0,0,,2,5,7,3,0,2,1,1,16,17.9,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+15,106,15,2022-01-12,Notre Dame,,Clemson,REG (Conf),W 72-56,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,1,3,4,0,0,0,0,0,7,5.6,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+16,107,16,2022-01-15,Notre Dame,@,Virginia Tech,REG (Conf),L 73-79,*,34,8,12,0.667,0,0,,8,12,0.667,0.667,3,4,0.75,3,6,9,3,0,0,0,5,19,17.4,A,0,1,paul-atkinson-1,Paul Atkinson,2022
+17,108,17,2022-01-17,Notre Dame,@,Howard,REG (Non-Conf),W 71-68,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,3,5,1,0,1,4,0,6,2.7,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+18,109,18,2022-01-22,Notre Dame,@,Louisville,REG (Conf),W 82-70,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,1,4,5,1,0,1,1,1,13,12.4,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+19,110,19,2022-01-26,Notre Dame,,NC State,REG (Conf),W 73-65,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,3,0,3,2,1,0,3,1,8,7.5,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+20,111,20,2022-01-29,Notre Dame,,Virginia,REG (Conf),W 69-65,*,34,7,12,0.583,0,0,,7,12,0.583,0.583,0,1,0.0,1,8,9,3,1,2,1,1,14,14.2,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+21,112,21,2022-01-31,Notre Dame,,Duke,REG (Conf),L 43-57,*,29,7,15,0.467,0,0,,7,15,0.467,0.467,0,0,,5,4,9,0,1,2,1,2,14,11.6,H,0,1,paul-atkinson-1,Paul Atkinson,2022
+22,113,22,2022-02-02,Notre Dame,@,Miami (FL),REG (Conf),W 68-64,*,35,11,16,0.688,0,0,,11,16,0.688,0.688,1,1,1.0,5,6,11,0,1,0,0,1,23,22.1,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+23,114,23,2022-02-05,Notre Dame,@,NC State,REG (Conf),W 69-57,*,36,5,10,0.5,0,0,,5,10,0.5,0.5,5,7,0.714,1,9,10,0,0,0,6,4,15,5.0,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+24,115,24,2022-02-09,Notre Dame,,Louisville,REG (Conf),W 63-57,*,38,6,12,0.5,0,0,,6,12,0.5,0.5,5,7,0.714,4,11,15,0,1,0,2,2,17,14.5,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+25,116,25,2022-02-12,Notre Dame,@,Clemson,REG (Conf),W 76-61,*,26,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,1,3,4,4,1,0,0,3,9,10.2,A,1,1,paul-atkinson-1,Paul Atkinson,2022
+26,117,26,2022-02-16,Notre Dame,,Boston College,REG (Conf),W 99-95 (OT),*,21,2,5,0.4,0,0,,2,5,0.4,0.4,9,11,0.818,2,3,5,2,0,0,3,4,13,8.6,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+27,118,27,2022-02-19,Notre Dame,@,Wake Forest,REG (Conf),L 74-79,*,21,5,8,0.625,0,0,,5,8,0.625,0.625,1,1,1.0,2,3,5,0,0,0,2,3,11,6.5,A,0,1,paul-atkinson-1,Paul Atkinson,2022
+28,119,28,2022-02-23,Notre Dame,,Syracuse,REG (Conf),W 79-69,*,34,5,10,0.5,0,0,,5,10,0.5,0.5,10,12,0.833,8,9,17,4,1,0,1,1,20,24.9,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+29,120,29,2022-02-26,Notre Dame,,Georgia Tech,REG (Conf),W 90-56,*,26,5,13,0.385,0,0,,5,13,0.385,0.385,0,0,,2,4,6,2,0,1,2,1,10,5.2,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+30,121,30,2022-03-02,Notre Dame,@,Florida State,REG (Conf),L 70-74,*,30,7,13,0.538,0,0,,7,13,0.538,0.538,3,5,0.6,6,4,10,1,0,0,1,2,17,14.2,A,0,1,paul-atkinson-1,Paul Atkinson,2022
+31,122,31,2022-03-05,Notre Dame,,Pittsburgh,REG (Conf),W 78-54,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,0,2,2,5,0,0,5,3,10,5.7,H,1,1,paul-atkinson-1,Paul Atkinson,2022
+32,123,32,2022-03-10,Notre Dame,N,Virginia Tech,CTOURN,L 80-87,*,28,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,1,3,3,0,1,3,2,5,2.6,N,0,0,paul-atkinson-1,Paul Atkinson,2022
+33,124,33,2022-03-16,Notre Dame,N,Rutgers,FIRST-FOUR,W 89-87 (2OT),*,33,13,15,0.867,0,0,,13,15,0.867,0.867,0,2,0.0,4,2,6,1,0,2,2,1,26,23.0,N,1,0,paul-atkinson-1,Paul Atkinson,2022
+34,125,34,2022-03-18,Notre Dame,N,Alabama,ROUND-64,W 78-64,*,35,6,11,0.545,0,0,,6,11,0.545,0.545,1,1,1.0,4,4,8,3,4,1,5,2,13,12.7,N,1,0,paul-atkinson-1,Paul Atkinson,2022
+35,126,35,2022-03-20,Notre Dame,N,Texas Tech,ROUND-32,L 53-59,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,3,4,0.75,1,3,4,1,0,2,1,2,5,4.1,N,0,0,paul-atkinson-1,Paul Atkinson,2022

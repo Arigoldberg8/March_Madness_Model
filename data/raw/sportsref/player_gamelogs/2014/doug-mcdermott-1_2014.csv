@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,111,1,2013-11-08,Creighton,,Alcorn State,REG (Non-Conf),W 107-61,*,20,7,13,0.538,2,3,0.667,5,10,0.5,0.615,4,5,0.8,1,4,5,0,0,0,2,4,20,11.6,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+2,112,2,2013-11-11,Creighton,,Kansas City,REG (Non-Conf),W 96-70,*,31,15,25,0.6,5,10,0.5,10,15,0.667,0.7,2,2,1.0,2,5,7,0,0,0,1,1,37,27.0,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+3,113,3,2013-11-16,Creighton,@,Saint Joseph's,REG (Non-Conf),W 83-79,*,34,7,14,0.5,1,2,0.5,6,12,0.5,0.536,5,7,0.714,1,4,5,2,0,0,3,2,20,11.7,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+4,114,4,2013-11-23,Creighton,,Tulsa,REG (Non-Conf),W 82-72,*,36,9,17,0.529,3,7,0.429,6,10,0.6,0.618,12,15,0.8,2,13,15,2,2,0,2,2,33,29.4,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+5,115,5,2013-11-28,Creighton,N,Arizona State,REG (Non-Conf),W 88-60,*,26,8,18,0.444,1,5,0.2,7,13,0.538,0.472,10,10,1.0,1,5,6,1,0,0,2,2,27,17.7,N,1,1,doug-mcdermott-1,Doug McDermott,2014
+6,116,6,2013-11-29,Creighton,N,San Diego State,REG (Non-Conf),L 80-86,*,39,11,18,0.611,5,8,0.625,6,10,0.6,0.75,3,4,0.75,0,4,4,1,0,0,2,3,30,20.1,N,0,1,doug-mcdermott-1,Doug McDermott,2014
+7,117,7,2013-12-01,Creighton,N,George Washington,REG (Non-Conf),L 53-60,*,37,2,12,0.167,0,5,0.0,2,7,0.286,0.167,3,4,0.75,1,7,8,0,0,0,2,1,7,-0.6,N,0,1,doug-mcdermott-1,Doug McDermott,2014
+8,118,8,2013-12-03,Creighton,@,Long Beach State,REG (Non-Conf),W 78-61,*,22,5,11,0.455,2,3,0.667,3,8,0.375,0.545,9,9,1.0,0,4,4,1,0,0,2,0,21,15.2,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+9,119,9,2013-12-08,Creighton,,Nebraska,REG (Non-Conf),W 82-67,*,37,12,23,0.522,5,10,0.5,7,13,0.538,0.63,4,4,1.0,2,6,8,1,1,0,1,0,33,25.6,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+10,120,10,2013-12-17,Creighton,,Arkansas–Pine Bluff,REG (Non-Conf),W 88-51,*,29,5,11,0.455,2,6,0.333,3,5,0.6,0.545,13,13,1.0,3,6,9,1,0,0,4,0,25,19.9,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+11,121,11,2013-12-22,Creighton,,California,REG (Non-Conf),W 68-54,*,35,9,21,0.429,0,5,0.0,9,16,0.563,0.429,2,2,1.0,2,9,11,1,0,0,1,1,20,12.3,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+12,122,12,2013-12-29,Creighton,,Chicago State,REG (Non-Conf),W 90-58,*,30,6,13,0.462,4,7,0.571,2,6,0.333,0.615,8,8,1.0,1,5,6,4,0,0,1,2,24,20.5,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+13,123,13,2013-12-31,Creighton,,Marquette,REG (Conf),W 67-49,*,35,7,15,0.467,3,6,0.5,4,9,0.444,0.567,2,2,1.0,4,3,7,2,0,0,4,3,19,11.2,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+14,124,14,2014-01-04,Creighton,@,Seton Hall,REG (Conf),W 79-66,*,35,12,23,0.522,2,5,0.4,10,18,0.556,0.565,4,5,0.8,3,7,10,5,1,0,2,1,30,24.6,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+15,125,15,2014-01-07,Creighton,@,DePaul,REG (Conf),W 81-62,*,35,6,16,0.375,1,2,0.5,5,14,0.357,0.406,6,6,1.0,2,3,5,4,0,2,4,4,19,11.1,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+16,126,16,2014-01-12,Creighton,,Xavier,REG (Conf),W 95-89,*,33,13,24,0.542,4,10,0.4,9,14,0.643,0.625,5,6,0.833,2,5,7,3,1,0,2,4,35,25.4,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+17,127,17,2014-01-14,Creighton,,Butler,REG (Conf),W 88-60,*,27,11,19,0.579,3,5,0.6,8,14,0.571,0.658,3,4,0.75,0,5,5,2,0,1,0,0,28,22.3,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+18,128,18,2014-01-18,Creighton,@,Providence,REG (Conf),L 68-81,*,30,8,15,0.533,0,2,0.0,8,13,0.615,0.533,5,5,1.0,2,5,7,1,0,0,2,3,21,14.1,A,0,1,doug-mcdermott-1,Doug McDermott,2014
+19,129,19,2014-01-20,Creighton,@,Villanova,REG (Conf),W 96-68,*,28,8,13,0.615,5,8,0.625,3,5,0.6,0.808,2,2,1.0,1,4,5,3,1,0,2,2,23,19.3,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+20,130,20,2014-01-25,Creighton,,Georgetown,REG (Conf),W 76-63,*,34,5,15,0.333,1,5,0.2,4,10,0.4,0.367,3,4,0.75,3,7,10,0,0,0,1,1,14,7.9,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+21,131,21,2014-01-28,Creighton,,St. John's (NY),REG (Conf),W 63-60,*,37,15,26,0.577,5,9,0.556,10,17,0.588,0.673,4,5,0.8,0,6,6,2,0,0,2,2,39,26.8,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+22,132,22,2014-02-07,Creighton,,DePaul,REG (Conf),W 78-66,*,36,9,21,0.429,1,6,0.167,8,15,0.533,0.452,13,14,0.929,2,7,9,1,0,0,1,2,32,22.9,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+23,133,23,2014-02-09,Creighton,@,St. John's (NY),REG (Conf),L 65-70,*,37,10,18,0.556,1,2,0.5,9,16,0.563,0.583,4,5,0.8,1,4,5,0,1,0,0,2,25,18.1,A,0,1,doug-mcdermott-1,Doug McDermott,2014
+24,134,24,2014-02-13,Creighton,@,Butler,REG (Conf),W 68-63,*,37,11,19,0.579,3,5,0.6,8,14,0.571,0.658,1,1,1.0,1,4,5,1,0,0,0,1,26,19.3,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+25,135,25,2014-02-16,Creighton,,Villanova,REG (Conf),W 101-80,*,35,13,17,0.765,4,6,0.667,9,11,0.818,0.882,9,9,1.0,2,5,7,1,0,0,3,1,39,32.5,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+26,136,26,2014-02-19,Creighton,@,Marquette,REG (Conf),W 85-70,*,37,9,12,0.75,2,3,0.667,7,9,0.778,0.833,5,6,0.833,0,8,8,3,0,0,2,2,25,21.5,A,1,1,doug-mcdermott-1,Doug McDermott,2014
+27,137,27,2014-02-23,Creighton,,Seton Hall,REG (Conf),W 72-71,*,36,8,14,0.571,1,4,0.25,7,10,0.7,0.607,12,16,0.75,1,2,3,0,0,1,1,2,29,21.0,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+28,138,28,2014-03-01,Creighton,@,Xavier,REG (Conf),L 69-75,*,37,9,18,0.5,5,12,0.417,4,6,0.667,0.639,4,4,1.0,3,7,10,2,0,0,5,3,27,17.4,A,0,1,doug-mcdermott-1,Doug McDermott,2014
+29,139,29,2014-03-04,Creighton,@,Georgetown,REG (Conf),L 63-75,*,38,9,23,0.391,4,11,0.364,5,12,0.417,0.478,0,2,0.0,4,8,12,1,0,0,0,2,22,13.8,A,0,1,doug-mcdermott-1,Doug McDermott,2014
+30,140,30,2014-03-08,Creighton,,Providence,REG (Conf),W 88-73,*,36,17,25,0.68,5,7,0.714,12,18,0.667,0.78,6,9,0.667,2,5,7,2,0,0,3,1,45,34.0,H,1,1,doug-mcdermott-1,Doug McDermott,2014
+31,141,31,2014-03-13,Creighton,N,DePaul,CTOURN,W 84-62,*,32,14,22,0.636,7,10,0.7,7,12,0.583,0.795,0,2,0.0,1,4,5,3,1,0,0,2,35,28.6,N,1,0,doug-mcdermott-1,Doug McDermott,2014
+32,142,32,2014-03-14,Creighton,N,Xavier,CTOURN,W 86-78,*,39,10,20,0.5,2,6,0.333,8,14,0.571,0.55,10,10,1.0,2,2,4,1,0,0,2,3,32,21.5,N,1,0,doug-mcdermott-1,Doug McDermott,2014
+33,143,33,2014-03-15,Creighton,N,Providence,CTOURN,L 58-65,*,39,10,19,0.526,5,12,0.417,5,7,0.714,0.658,2,2,1.0,2,3,5,1,0,0,2,2,27,17.9,N,0,0,doug-mcdermott-1,Doug McDermott,2014
+34,144,34,2014-03-21,Creighton,N,Louisiana–Lafayette,ROUND-64,W 76-66,*,39,13,23,0.565,2,4,0.5,11,19,0.579,0.609,2,2,1.0,3,9,12,2,0,1,0,2,30,25.2,N,1,0,doug-mcdermott-1,Doug McDermott,2014
+35,145,35,2014-03-23,Creighton,N,Baylor,ROUND-32,L 55-85,*,33,7,14,0.5,0,3,0.0,7,11,0.636,0.5,1,2,0.5,0,2,2,1,0,0,1,4,15,6.3,N,0,0,doug-mcdermott-1,Doug McDermott,2014

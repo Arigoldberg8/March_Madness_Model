@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2010-11-12,Kentucky,,East Tennessee State,REG (Non-Conf),W 88-65,*,37,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,3,0.667,0,3,3,6,0,0,3,1,14,10.3,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+2,64,2,2010-11-19,Kentucky,N,Portland,REG (Non-Conf),W 79-48,*,31,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,4,1.0,0,2,2,2,1,0,1,1,6,5.2,N,1,1,deandre-liggins-1,DeAndre Liggins,2011
+3,65,3,2010-11-22,Kentucky,N,Oklahoma,REG (Non-Conf),W 76-64,*,35,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,2,0.0,0,5,5,4,3,0,1,2,12,12.4,N,1,1,deandre-liggins-1,DeAndre Liggins,2011
+4,66,4,2010-11-23,Kentucky,N,Washington,REG (Non-Conf),W 74-67,*,26,2,7,0.286,0,0,,2,7,0.286,0.286,3,6,0.5,0,4,4,2,3,1,1,3,7,5.8,N,1,1,deandre-liggins-1,DeAndre Liggins,2011
+5,67,5,2010-11-24,Kentucky,N,Connecticut,REG (Non-Conf),L 67-84,*,38,3,10,0.3,0,2,0.0,3,8,0.375,0.3,2,3,0.667,1,2,3,1,1,0,4,2,8,0.0,N,0,1,deandre-liggins-1,DeAndre Liggins,2011
+6,68,6,2010-11-30,Kentucky,,Boston University,REG (Non-Conf),W 91-57,*,28,2,6,0.333,1,1,1.0,1,5,0.2,0.417,4,6,0.667,1,3,4,4,1,3,0,1,9,11.9,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+7,69,7,2010-12-04,Kentucky,@,North Carolina,REG (Non-Conf),L 73-75,*,37,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,0,6,6,4,2,1,0,3,8,9.0,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+8,70,8,2010-12-08,Kentucky,N,Notre Dame,REG (Non-Conf),W 72-58,*,26,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,3,2,6,0.9,N,1,1,deandre-liggins-1,DeAndre Liggins,2011
+9,71,9,2010-12-11,Kentucky,,Indiana,REG (Non-Conf),W 81-62,*,37,5,14,0.357,1,2,0.5,4,12,0.333,0.393,8,16,0.5,3,6,9,1,2,0,0,2,19,13.8,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+10,72,10,2010-12-18,Kentucky,,Mississippi Valley State,REG (Non-Conf),W 85-60,*,38,6,11,0.545,2,5,0.4,4,6,0.667,0.636,2,4,0.5,1,4,5,0,1,0,1,1,16,11.4,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+11,73,11,2010-12-22,Kentucky,,Winthrop,REG (Non-Conf),W 89-52,*,30,2,3,0.667,2,3,0.667,0,0,,1.0,3,3,1.0,1,2,3,9,1,0,2,1,9,13.9,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+12,74,12,2010-12-28,Kentucky,,Coppin State,REG (Non-Conf),W 91-61,*,27,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,1,1.0,2,6,8,6,0,0,2,2,10,10.6,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+13,75,13,2010-12-31,Kentucky,@,Louisville,REG (Non-Conf),W 78-63,*,39,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,0,4,4,2,4,2,4,2,2,0.7,A,1,1,deandre-liggins-1,DeAndre Liggins,2011
+14,76,14,2011-01-03,Kentucky,,Pennsylvania,REG (Non-Conf),W 86-62,*,35,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,1,1,2,4,2,1,3,2,7,5.6,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+15,77,15,2011-01-08,Kentucky,@,Georgia,REG (Conf),L 70-77,*,31,2,9,0.222,1,3,0.333,1,6,0.167,0.278,2,4,0.5,0,1,1,0,0,0,2,5,7,-3.0,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+16,78,16,2011-01-11,Kentucky,,Auburn,REG (Conf),W 78-54,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,1,4,5,4,1,0,2,3,4,5.1,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+17,79,17,2011-01-15,Kentucky,,Louisiana State,REG (Conf),W 82-44,*,32,6,10,0.6,3,3,1.0,3,7,0.429,0.75,0,0,,0,1,1,3,2,1,0,1,15,15.1,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+18,80,18,2011-01-18,Kentucky,@,Alabama,REG (Conf),L 66-68,*,31,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,4,0.5,1,0,1,4,1,2,0,3,4,5.5,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+19,81,19,2011-01-22,Kentucky,@,South Carolina,REG (Conf),W 67-58,*,36,0,7,0.0,0,4,0.0,0,3,0.0,0.0,1,2,0.5,1,6,7,3,1,0,0,3,1,0.1,A,1,1,deandre-liggins-1,DeAndre Liggins,2011
+20,82,20,2011-01-29,Kentucky,,Georgia,REG (Conf),W 66-60,*,36,3,10,0.3,0,0,,3,10,0.3,0.3,5,8,0.625,0,2,2,1,2,1,1,2,11,6.2,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+21,83,21,2011-02-01,Kentucky,@,Ole Miss,REG (Conf),L 69-71,*,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,4,4,0,1,1,1,4,5,3.3,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+22,84,22,2011-02-05,Kentucky,@,Florida,REG (Conf),L 68-70,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,2,2,1,0,1,2,4,4,1.8,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+23,85,23,2011-02-08,Kentucky,,Tennessee,REG (Conf),W 73-61,*,37,5,6,0.833,2,2,1.0,3,4,0.75,1.0,7,8,0.875,0,5,5,3,5,0,2,2,19,22.2,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+24,86,24,2011-02-12,Kentucky,@,Vanderbilt,REG (Conf),L 77-81,*,33,4,12,0.333,1,5,0.2,3,7,0.429,0.375,1,2,0.5,1,3,4,3,1,0,3,4,10,2.9,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+25,87,25,2011-02-15,Kentucky,,Mississippi State,REG (Conf),W 85-79,*,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,3,3,0,1,0,2,2,2,-2.0,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+26,88,26,2011-02-19,Kentucky,,South Carolina,REG (Conf),W 90-59,,28,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,0,3,3,2,1,0,0,3,11,9.5,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+27,89,27,2011-02-23,Kentucky,@,Arkansas,REG (Conf),L 76-77 (OT),,39,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,0,,1,4,5,1,1,1,1,3,13,9.8,A,0,1,deandre-liggins-1,DeAndre Liggins,2011
+28,90,28,2011-02-26,Kentucky,,Florida,REG (Conf),W 76-68,,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,1,2,0.5,0,2,2,1,0,0,1,2,8,3.4,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+29,91,29,2011-03-01,Kentucky,,Vanderbilt,REG (Conf),W 68-66,,28,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,3,4,0,0,1,0,0,5,3.9,H,1,1,deandre-liggins-1,DeAndre Liggins,2011
+30,92,30,2011-03-06,Kentucky,@,Tennessee,REG (Conf),W 64-58,,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,5,6,3,0,0,0,5,6,6.0,A,1,1,deandre-liggins-1,DeAndre Liggins,2011
+31,93,31,2011-03-11,Kentucky,N,Ole Miss,CTOURN,W 75-66,,26,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,5,6,1,1,2,2,4,4,4.4,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+32,94,32,2011-03-12,Kentucky,N,Alabama,CTOURN,W 72-58,,34,5,6,0.833,3,3,1.0,2,3,0.667,1.083,1,2,0.5,2,7,9,3,0,0,1,3,14,14.8,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+33,95,33,2011-03-13,Kentucky,N,Florida,CTOURN,W 70-54,*,27,1,5,0.2,1,1,1.0,0,4,0.0,0.3,7,8,0.875,0,5,5,3,2,1,2,3,10,9.6,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+34,96,34,2011-03-17,Kentucky,N,Princeton,ROUND-64,W 59-57,,31,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,2,2,2,0,1,1,2,8,6.6,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+35,97,35,2011-03-19,Kentucky,N,West Virginia,ROUND-32,W 71-63,,39,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,8,9,4,0,2,2,2,3,6.5,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+36,98,36,2011-03-25,Kentucky,N,Ohio State,ROUND-16,W 62-60,,34,5,8,0.625,0,2,0.0,5,6,0.833,0.625,5,7,0.714,0,6,6,3,0,3,1,3,15,14.4,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+37,99,37,2011-03-27,Kentucky,N,North Carolina,ROUND-8,W 76-69,*,35,4,11,0.364,2,4,0.5,2,7,0.286,0.455,2,2,1.0,0,2,2,4,3,1,3,2,12,9.2,N,1,0,deandre-liggins-1,DeAndre Liggins,2011
+38,100,38,2011-04-02,Kentucky,N,Connecticut,NATIONAL-SEMI,L 55-56,*,34,1,7,0.143,1,5,0.2,0,2,0.0,0.214,1,2,0.5,0,0,0,2,2,2,1,4,4,1.3,N,0,0,deandre-liggins-1,DeAndre Liggins,2011

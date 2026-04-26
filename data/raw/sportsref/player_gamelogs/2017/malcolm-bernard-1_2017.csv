@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,1,2016-11-11,Xavier,,Lehigh,REG (Non-Conf),W 84-81,*,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,0,3,3,1,0,1,2,3,5,1.7,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+2,88,2,2016-11-14,Xavier,,Buffalo,REG (Non-Conf),W 86-53,*,27,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,2,2,4,3,2,0,3,4,7,6.2,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+3,89,3,2016-11-17,Xavier,N,Missouri,REG (Non-Conf),W 83-82 (OT),*,32,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,4,5,2,2,2,1,4,5,6.4,N,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+4,90,4,2016-11-18,Xavier,N,Clemson,REG (Non-Conf),W 83-77,*,34,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,1,6,7,0,1,0,1,4,9,6.9,N,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+5,91,5,2016-11-20,Xavier,N,Northern Iowa,REG (Non-Conf),W 67-59,*,35,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,0,1,0,2,3,3,-1.0,N,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+6,92,6,2016-11-26,Xavier,,Northern Iowa,REG (Non-Conf),W 64-42,*,32,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,1,3,4,1,0,0,1,1,1,-1.3,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+7,93,7,2016-11-29,Xavier,,North Dakota State,REG (Non-Conf),W 85-55,*,27,3,7,0.429,3,4,0.75,0,3,0.0,0.643,1,4,0.25,4,4,8,3,3,1,1,1,10,13.5,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+8,94,8,2016-12-03,Xavier,@,Baylor,REG (Non-Conf),L 61-76,*,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,2,3,0,-5.1,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+9,95,9,2016-12-07,Xavier,@,Colorado,REG (Non-Conf),L 66-68,*,27,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,3,3,6,0,0,0,2,3,1,-1.7,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+10,96,10,2016-12-10,Xavier,,Utah,REG (Non-Conf),W 77-69,*,29,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,1,3,4,1,1,0,0,2,8,5.4,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+11,97,11,2016-12-17,Xavier,,Wake Forest,REG (Non-Conf),W 69-65,*,24,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,2,2,4,3,1,0,0,3,3,5.2,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+12,98,12,2016-12-20,Xavier,,Eastern Washington,REG (Non-Conf),W 85-56,*,24,3,8,0.375,2,4,0.5,1,4,0.25,0.5,2,3,0.667,1,2,3,2,1,0,2,2,10,6.1,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+13,99,13,2016-12-28,Xavier,,Providence,REG (Conf),W 82-56,*,30,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,3,3,4,3,0,1,2,7,7.5,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+14,100,14,2016-12-31,Xavier,@,Georgetown,REG (Conf),W 81-76,*,28,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,0,3,3,3,2,0,0,5,9,10.4,A,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+15,101,15,2017-01-07,Xavier,,St. John's (NY),REG (Conf),W 97-82,*,21,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,1,2,3,3,0,0,1,4,10,9.6,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+16,102,16,2017-01-10,Xavier,@,Villanova,REG (Conf),L 54-79,*,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,0,1,1,1,0,1,1,1,6,4.6,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+17,103,17,2017-01-14,Xavier,@,Butler,REG (Conf),L 78-83,,34,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,1,7,8,1,0,0,1,3,10,8.6,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+18,104,18,2017-01-16,Xavier,,Creighton,REG (Conf),L 67-72,*,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,3,0.333,2,0,2,1,0,0,3,2,3,-1.2,H,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+19,105,19,2017-01-22,Xavier,,Georgetown,REG (Conf),W 86-75,*,31,3,6,0.5,2,4,0.5,1,2,0.5,0.667,4,4,1.0,0,3,3,2,0,0,3,2,12,7.5,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+20,106,20,2017-01-26,Xavier,@,Cincinnati,REG (Non-Conf),L 78-86,,27,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,1,2,3,1,0,1,0,4,3,1.0,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+21,107,21,2017-01-29,Xavier,@,St. John's (NY),REG (Conf),W 82-77,*,25,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,3,0,3,1,0,0,4,4,4,-3.6,A,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+22,108,22,2017-02-01,Xavier,,Seton Hall,REG (Conf),W 72-70,*,23,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,1,0,0,1,0,1.2,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+23,109,23,2017-02-04,Xavier,@,Creighton,REG (Conf),W 82-80,*,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,2,3,5,3,1,0,0,3,4,4.4,A,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+24,110,24,2017-02-08,Xavier,,DePaul,REG (Conf),W 72-61,*,29,3,4,0.75,3,4,0.75,0,0,,1.125,0,1,0.0,1,0,1,3,2,0,4,1,9,7.4,H,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+25,111,25,2017-02-11,Xavier,,Villanova,REG (Conf),L 57-73,*,29,2,6,0.333,2,4,0.5,0,2,0.0,0.5,1,2,0.5,3,1,4,3,1,0,1,4,7,6.1,H,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+26,112,26,2017-02-15,Xavier,@,Providence,REG (Conf),L 63-75,*,34,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,0,1,1,2,2,2,1,1,6,4.9,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+27,113,27,2017-02-18,Xavier,@,Marquette,REG (Conf),L 61-83,*,19,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,2,0,2,0,0,0,4,1,1,-3.8,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+28,114,28,2017-02-22,Xavier,@,Seton Hall,REG (Conf),L 64-71,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,0,0,2,3,1,-3.0,A,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+29,115,29,2017-02-26,Xavier,,Butler,REG (Conf),L 79-88,,30,5,9,0.556,2,5,0.4,3,4,0.75,0.667,1,1,1.0,1,3,4,0,3,1,1,0,13,13.0,H,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+30,116,30,2017-03-01,Xavier,,Marquette,REG (Conf),L 84-95,,30,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,3,0.667,3,2,5,1,0,1,1,5,13,9.7,H,0,1,malcolm-bernard-1,Malcolm Bernard,2017
+31,117,31,2017-03-04,Xavier,@,DePaul,REG (Conf),W 79-65,*,31,4,8,0.5,3,7,0.429,1,1,1.0,0.688,2,3,0.667,2,3,5,2,2,0,0,3,13,13.1,A,1,1,malcolm-bernard-1,Malcolm Bernard,2017
+32,118,32,2017-03-08,Xavier,N,DePaul,CTOURN,W 75-64,*,30,3,8,0.375,0,4,0.0,3,4,0.75,0.375,1,2,0.5,1,5,6,2,1,0,2,4,7,3.2,N,1,0,malcolm-bernard-1,Malcolm Bernard,2017
+33,119,33,2017-03-09,Xavier,N,Butler,CTOURN,W 62-57,*,38,4,7,0.571,3,4,0.75,1,3,0.333,0.786,1,2,0.5,2,8,10,4,1,0,2,3,12,12.7,N,1,0,malcolm-bernard-1,Malcolm Bernard,2017
+34,120,34,2017-03-10,Xavier,N,Creighton,CTOURN,L 72-75,*,34,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,4,5,0,3,0,4,3,5,2.3,N,0,0,malcolm-bernard-1,Malcolm Bernard,2017
+35,121,35,2017-03-16,Xavier,N,Maryland,ROUND-64,W 76-65,*,27,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,1,5,6,2,2,1,2,4,6,6.3,N,1,0,malcolm-bernard-1,Malcolm Bernard,2017
+36,122,36,2017-03-18,Xavier,N,Florida State,ROUND-32,W 91-66,*,25,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,1,1.0,0,5,5,1,0,0,1,3,6,4.7,N,1,0,malcolm-bernard-1,Malcolm Bernard,2017
+37,123,37,2017-03-23,Xavier,N,Arizona,ROUND-16,W 73-71,*,29,5,6,0.833,3,3,1.0,2,3,0.667,1.083,2,3,0.667,3,3,6,0,0,0,0,2,15,14.6,N,1,0,malcolm-bernard-1,Malcolm Bernard,2017
+38,124,38,2017-03-25,Xavier,N,Gonzaga,ROUND-8,L 59-83,*,30,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,4,0.25,1,3,4,1,1,1,0,3,5,1.8,N,0,0,malcolm-bernard-1,Malcolm Bernard,2017

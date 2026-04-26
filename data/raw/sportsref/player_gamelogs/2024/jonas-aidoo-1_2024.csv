@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2023-11-06,Tennessee,,Tennessee Tech,REG (Non-Conf),W 80-42,*,18,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,7,8,2,1,4,0,0,4,8.6,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+2,56,2,2023-11-10,Tennessee,@,Wisconsin,REG (Non-Conf),W 80-70,*,28,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,2,5,7,1,0,2,1,3,10,9.2,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+3,57,3,2023-11-14,Tennessee,,Wofford,REG (Non-Conf),W 82-61,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,2,5,7,3,1,2,1,0,7,10.0,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+4,58,4,2023-11-20,Tennessee,N,Syracuse,REG (Non-Conf),W 73-56,*,27,6,13,0.462,0,1,0.0,6,12,0.5,0.462,2,3,0.667,2,9,11,0,0,1,2,2,14,8.9,N,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+5,59,5,2023-11-21,Tennessee,N,Purdue,REG (Non-Conf),L 67-71,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,0,1,1,0,0,0,0,5,5,1.2,N,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+6,60,6,2023-11-22,Tennessee,N,Kansas,REG (Non-Conf),L 60-69,*,26,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,0,,5,6,11,0,3,3,0,2,8,12.2,N,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+7,61,7,2023-11-29,Tennessee,@,North Carolina,REG (Non-Conf),L 92-100,*,21,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,0,4,4,0,0,1,0,5,13,10.0,A,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+8,62,8,2023-12-05,Tennessee,,George Mason,REG (Non-Conf),W 87-66,*,27,7,11,0.636,2,2,1.0,5,9,0.556,0.727,1,1,1.0,1,7,8,4,0,1,0,0,17,18.4,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+9,63,9,2023-12-09,Tennessee,,Illinois,REG (Non-Conf),W 86-79,*,31,6,12,0.5,0,1,0.0,6,11,0.545,0.5,2,4,0.5,4,3,7,1,1,2,0,3,14,12.8,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+10,64,10,2023-12-12,Tennessee,,Georgia Southern,REG (Non-Conf),W 74-56,*,27,10,16,0.625,1,3,0.333,9,13,0.692,0.656,8,11,0.727,6,5,11,1,2,2,2,0,29,28.4,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+11,65,11,2023-12-16,Tennessee,N,NC State,REG (Non-Conf),W 79-70,*,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,1,0,0,4,0,4,0.3,N,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+12,66,12,2023-12-21,Tennessee,,Tarleton State,REG (Non-Conf),W 65-46,*,16,3,6,0.5,0,0,,3,6,0.5,0.5,1,3,0.333,3,1,4,0,0,0,1,3,7,3.4,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+13,67,13,2024-01-02,Tennessee,,Norfolk State,REG (Non-Conf),W 87-50,*,11,2,8,0.25,0,0,,2,8,0.25,0.25,0,0,,3,2,5,0,2,2,2,0,4,3.3,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+14,68,14,2024-01-06,Tennessee,,Ole Miss,REG (Conf),W 90-64,*,32,10,19,0.526,0,0,,10,19,0.526,0.526,4,5,0.8,5,5,10,2,0,0,0,3,24,19.5,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+15,69,15,2024-01-10,Tennessee,@,Mississippi State,REG (Conf),L 72-77,*,20,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,3,5,0,1,1,2,5,9,6.7,A,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+16,70,16,2024-01-13,Tennessee,@,Georgia,REG (Conf),W 85-79,*,35,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,7,8,15,3,1,5,1,2,10,18.1,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+17,71,17,2024-01-16,Tennessee,,Florida,REG (Conf),W 85-66,*,21,9,16,0.563,0,2,0.0,9,14,0.643,0.563,1,2,0.5,5,5,10,2,1,2,1,3,19,17.6,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+18,72,18,2024-01-20,Tennessee,,Alabama,REG (Conf),W 91-71,*,25,9,14,0.643,0,1,0.0,9,13,0.692,0.643,1,2,0.5,1,3,4,1,1,4,1,3,19,16.3,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+19,73,19,2024-01-27,Tennessee,@,Vanderbilt,REG (Conf),W 75-62,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,1,4,0.25,2,8,10,1,2,2,1,1,9,9.6,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+20,74,20,2024-01-30,Tennessee,,South Carolina,REG (Conf),L 59-63,*,21,2,8,0.25,0,0,,2,8,0.25,0.25,2,4,0.5,1,4,5,0,0,2,0,4,6,2.1,H,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+21,75,21,2024-02-03,Tennessee,@,Kentucky,REG (Conf),W 103-92,*,28,5,13,0.385,0,0,,5,13,0.385,0.385,1,1,1.0,4,7,11,1,0,3,0,2,11,10.8,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+22,76,22,2024-02-07,Tennessee,,Louisiana State,REG (Conf),W 88-68,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,2,3,0.667,0,5,5,1,0,3,0,3,10,10.1,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+23,77,23,2024-02-10,Tennessee,@,Texas A&M,REG (Conf),L 69-85,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,3,5,0,1,0,0,2,6,6.2,A,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+24,78,24,2024-02-14,Tennessee,@,Arkansas,REG (Conf),W 92-63,*,30,11,14,0.786,0,0,,11,14,0.786,0.786,1,1,1.0,3,9,12,0,0,0,3,1,23,19.0,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+25,79,25,2024-02-17,Tennessee,,Vanderbilt,REG (Conf),W 88-53,*,20,5,10,0.5,0,0,,5,10,0.5,0.5,1,2,0.5,4,4,8,2,0,3,1,3,11,10.9,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+26,80,26,2024-02-20,Tennessee,@,Missouri,REG (Conf),W 72-67,*,31,6,9,0.667,0,0,,6,9,0.667,0.667,2,4,0.5,4,0,4,2,1,4,1,2,14,15.5,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+27,81,27,2024-02-24,Tennessee,,Texas A&M,REG (Conf),W 86-51,*,31,9,14,0.643,0,0,,9,14,0.643,0.643,0,2,0.0,6,8,14,0,0,3,3,3,18,15.5,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+28,82,28,2024-02-28,Tennessee,,Auburn,REG (Conf),W 92-84,*,28,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,3,4,7,1,0,1,1,5,14,11.1,H,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+29,83,29,2024-03-02,Tennessee,@,Alabama,REG (Conf),W 81-74,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,6,9,0.667,3,4,7,0,1,2,1,3,12,11.3,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+30,84,30,2024-03-06,Tennessee,@,South Carolina,REG (Conf),W 66-59,*,31,6,13,0.462,0,0,,6,13,0.462,0.462,2,5,0.4,5,4,9,0,2,0,0,1,14,12.4,A,1,1,jonas-aidoo-1,Jonas Aidoo,2024
+31,85,31,2024-03-09,Tennessee,,Kentucky,REG (Conf),L 81-85,*,36,4,11,0.364,0,0,,4,11,0.364,0.364,3,3,1.0,3,5,8,0,1,5,1,2,11,11.2,H,0,1,jonas-aidoo-1,Jonas Aidoo,2024
+32,86,32,2024-03-15,Tennessee,N,Mississippi State,CTOURN,L 56-73,*,26,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,7,3,10,0,1,1,2,2,5,5.9,N,0,0,jonas-aidoo-1,Jonas Aidoo,2024
+33,87,33,2024-03-21,Tennessee,N,Saint Peter's,ROUND-64,W 83-49,*,20,5,6,0.833,0,0,,5,6,0.833,0.833,5,9,0.556,1,5,6,1,0,3,1,0,15,15.2,N,1,0,jonas-aidoo-1,Jonas Aidoo,2024
+34,88,34,2024-03-23,Tennessee,N,Texas,ROUND-32,W 62-58,*,32,4,12,0.333,0,0,,4,12,0.333,0.333,3,4,0.75,0,4,4,3,1,2,2,1,11,7.1,N,1,0,jonas-aidoo-1,Jonas Aidoo,2024
+35,89,35,2024-03-29,Tennessee,N,Creighton,ROUND-16,W 82-75,*,17,2,8,0.25,0,0,,2,8,0.25,0.25,0,0,,1,3,4,0,1,0,0,1,4,1.4,N,1,0,jonas-aidoo-1,Jonas Aidoo,2024
+36,90,36,2024-03-31,Tennessee,N,Purdue,ROUND-8,L 66-72,*,10,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,2,1,0,1,3,0,-1.6,N,0,0,jonas-aidoo-1,Jonas Aidoo,2024

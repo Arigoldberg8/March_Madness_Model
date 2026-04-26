@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2024-11-04,St. John's (NY),,Fordham,REG (Non-Conf),W 92-60,*,26,7,9,0.778,1,2,0.5,6,7,0.857,0.833,2,2,1.0,0,3,3,0,2,0,2,1,17,14.0,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+2,30,2,2024-11-09,St. John's (NY),,Quinnipiac,REG (Non-Conf),W 96-73,*,25,5,11,0.455,1,4,0.25,4,7,0.571,0.5,3,4,0.75,0,3,3,1,1,0,0,5,14,8.5,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+3,31,3,2024-11-13,St. John's (NY),,Wagner,REG (Non-Conf),W 66-45,*,30,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,1,3,4,2,1,1,3,2,9,7.6,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+4,32,4,2024-11-17,St. John's (NY),,New Mexico,REG (Non-Conf),W 85-71,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,3,3,1,0,0,0,3,4,2.4,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+5,33,5,2024-11-21,St. John's (NY),N,Baylor,REG (Non-Conf),L 98-99 (2OT),*,27,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,1,2,0,4,4,6,1.1,N,0,1,simeon-wilcher-2,Simeon Wilcher,2025
+6,34,6,2024-11-22,St. John's (NY),N,Virginia,REG (Non-Conf),W 80-55,,16,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,1,1,3,2,0,1,1,7,8.4,N,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+7,35,7,2024-11-24,St. John's (NY),N,Georgia,REG (Non-Conf),L 63-66,,21,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,2,1.0,2,1,3,1,1,0,1,3,4,1.4,N,0,1,simeon-wilcher-2,Simeon Wilcher,2025
+8,36,8,2024-11-30,St. John's (NY),,Harvard,REG (Non-Conf),W 77-64,*,27,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,0,3,3,1,2,0,2,4,12,8.0,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+9,37,9,2024-12-07,St. John's (NY),,Kansas State,REG (Non-Conf),W 88-71,,23,5,8,0.625,0,2,0.0,5,6,0.833,0.625,1,1,1.0,0,4,4,1,0,0,1,3,11,7.1,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+10,38,10,2024-12-11,St. John's (NY),,Bryant,REG (Non-Conf),W 99-77,*,25,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,0,,0,1,1,2,2,1,0,3,14,11.2,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+11,39,11,2024-12-17,St. John's (NY),,DePaul,REG (Conf),W 89-61,*,23,7,9,0.778,2,3,0.667,5,6,0.833,0.889,0,0,,0,4,4,1,3,1,1,1,16,16.7,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+12,40,12,2024-12-20,St. John's (NY),@,Providence,REG (Conf),W 72-70,*,31,1,10,0.1,1,3,0.333,0,7,0.0,0.15,0,0,,2,4,6,2,2,2,1,1,3,2.4,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+13,41,13,2024-12-28,St. John's (NY),,Delaware,REG (Non-Conf),W 97-76,*,27,4,9,0.444,2,3,0.667,2,6,0.333,0.556,2,2,1.0,0,1,1,0,2,0,3,3,12,5.4,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+14,42,14,2024-12-31,St. John's (NY),@,Creighton,REG (Conf),L 56-57,*,34,3,11,0.273,0,0,,3,11,0.273,0.273,0,0,,1,0,1,1,0,0,3,2,6,-2.9,A,0,1,simeon-wilcher-2,Simeon Wilcher,2025
+15,43,15,2025-01-04,St. John's (NY),,Butler,REG (Conf),W 70-62,,18,1,8,0.125,0,3,0.0,1,5,0.2,0.125,2,2,1.0,0,0,0,1,0,0,1,2,4,-2.3,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+16,44,16,2025-01-07,St. John's (NY),@,Xavier,REG (Conf),W 82-72,,28,7,15,0.467,1,5,0.2,6,10,0.6,0.5,0,0,,1,0,1,3,0,0,0,2,15,9.3,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+17,45,17,2025-01-11,St. John's (NY),,Villanova,REG (Conf),W 80-68,,28,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,0,,0,1,1,1,1,0,0,5,6,0.2,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+18,46,18,2025-01-14,St. John's (NY),,Georgetown,REG (Conf),W 63-58,*,29,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,0,2,2,1,2,2,2,2,5,2.1,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+19,47,19,2025-01-18,St. John's (NY),@,Seton Hall,REG (Conf),W 79-51,*,25,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,2,0.5,0,2,2,0,1,0,2,2,5,-1.4,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+20,48,20,2025-01-22,St. John's (NY),,Xavier,REG (Conf),W 79-71 (OT),*,39,5,10,0.5,1,4,0.25,4,6,0.667,0.55,5,6,0.833,1,1,2,3,1,2,4,3,16,10.9,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+21,49,21,2025-01-28,St. John's (NY),@,Georgetown,REG (Conf),W 66-41,*,34,2,10,0.2,1,6,0.167,1,4,0.25,0.25,2,2,1.0,0,2,2,5,5,0,2,4,7,6.3,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+22,50,22,2025-02-01,St. John's (NY),,Providence,REG (Conf),W 68-66,*,35,2,10,0.2,1,6,0.167,1,4,0.25,0.25,0,0,,0,1,1,3,0,0,1,2,5,-0.6,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+23,51,23,2025-02-04,St. John's (NY),,Marquette,REG (Conf),W 70-64,*,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,1,0,1,1,0,0,2,4,5,0.4,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+24,52,24,2025-02-07,St. John's (NY),@,Connecticut,REG (Conf),W 68-62,*,29,4,13,0.308,2,6,0.333,2,7,0.286,0.385,1,2,0.5,1,1,2,0,1,0,2,3,11,1.9,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+25,53,25,2025-02-12,St. John's (NY),@,Villanova,REG (Conf),L 71-73,*,37,4,11,0.364,3,9,0.333,1,2,0.5,0.5,1,2,0.5,0,2,2,2,2,0,1,2,12,7.7,A,0,1,simeon-wilcher-2,Simeon Wilcher,2025
+26,54,26,2025-02-16,St. John's (NY),,Creighton,REG (Conf),W 79-73,*,21,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,2,1,1,0,4,1,2.4,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+27,55,27,2025-02-19,St. John's (NY),@,DePaul,REG (Conf),W 82-58,,20,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,2,2,1,1,0,2,3,8,4.1,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+28,56,28,2025-02-23,St. John's (NY),,Connecticut,REG (Conf),W 89-75,,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,3,0.333,0,0,0,0,0,1,0,3,7,3.4,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+29,57,29,2025-02-26,St. John's (NY),@,Butler,REG (Conf),W 76-70,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,1,1,1,2,0.3,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+30,58,30,2025-03-01,St. John's (NY),,Seton Hall,REG (Conf),W 71-61,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,1,3,2,-1.9,H,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+31,59,31,2025-03-08,St. John's (NY),@,Marquette,REG (Conf),W 86-84 (OT),*,41,6,12,0.5,1,4,0.25,5,8,0.625,0.542,0,1,0.0,0,2,2,3,0,1,1,3,13,7.8,A,1,1,simeon-wilcher-2,Simeon Wilcher,2025
+32,60,32,2025-03-13,St. John's (NY),N,Butler,CTOURN,W 78-57,*,30,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,1,3,4,1,1,0,1,0,4,1.5,N,1,0,simeon-wilcher-2,Simeon Wilcher,2025
+33,61,33,2025-03-14,St. John's (NY),N,Marquette,CTOURN,W 79-63,*,23,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,1,1,1,2,0,3,3,7,2.8,N,1,0,simeon-wilcher-2,Simeon Wilcher,2025
+34,62,34,2025-03-15,St. John's (NY),N,Creighton,CTOURN,W 82-66,*,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,1,1,2,0,2,1,3,4,1.5,N,1,0,simeon-wilcher-2,Simeon Wilcher,2025
+35,63,35,2025-03-20,St. John's (NY),N,Omaha,ROUND-64,W 83-53,*,26,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,0,,0,0,0,2,0,0,1,2,13,8.3,N,1,0,simeon-wilcher-2,Simeon Wilcher,2025
+36,64,36,2025-03-22,St. John's (NY),N,Arkansas,ROUND-32,L 66-75,*,15,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,0,2,0,1,0,1,4,2,-1.3,N,0,0,simeon-wilcher-2,Simeon Wilcher,2025

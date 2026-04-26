@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,122,1,2022-11-07,Furman,,North Greenville,REG (Non-Conf),W 91-55,*,22,6,8,0.75,2,3,0.667,4,5,0.8,0.875,2,2,1.0,0,2,2,2,0,0,1,0,16,13.8,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+2,123,2,2022-11-11,Furman,,Belmont,REG (Non-Conf),W 89-74,*,33,10,17,0.588,0,4,0.0,10,13,0.769,0.588,5,6,0.833,4,2,6,3,1,0,3,2,25,19.4,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+3,124,3,2022-11-17,Furman,N,Penn State,REG (Non-Conf),L 68-73,*,36,10,20,0.5,3,10,0.3,7,10,0.7,0.575,3,4,0.75,4,2,6,4,1,0,0,0,26,22.8,N,0,1,mike-bothwell-1,Mike Bothwell,2023
+4,125,4,2022-11-18,Furman,N,Old Dominion,REG (Non-Conf),L 77-82,*,37,9,15,0.6,4,7,0.571,5,8,0.625,0.733,1,1,1.0,1,1,2,5,2,0,0,2,23,21.8,N,0,1,mike-bothwell-1,Mike Bothwell,2023
+5,126,5,2022-11-20,Furman,N,South Carolina,REG (Non-Conf),W 79-60,*,36,4,10,0.4,2,5,0.4,2,5,0.4,0.5,1,1,1.0,2,3,5,8,2,0,3,1,11,12.1,N,1,1,mike-bothwell-1,Mike Bothwell,2023
+6,127,6,2022-11-25,Furman,,Tusculum,REG (Non-Conf),W 102-74,*,28,8,12,0.667,1,2,0.5,7,10,0.7,0.708,1,1,1.0,0,4,4,5,1,0,2,2,18,15.7,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+7,128,7,2022-11-29,Furman,@,Appalachian State,REG (Non-Conf),W 65-61,*,35,6,14,0.429,1,5,0.2,5,9,0.556,0.464,10,10,1.0,1,1,2,3,1,1,2,1,23,18.0,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+8,129,8,2022-12-03,Furman,,South Carolina State,REG (Non-Conf),W 88-76,*,32,5,8,0.625,1,2,0.5,4,6,0.667,0.688,5,6,0.833,2,1,3,6,2,0,1,3,16,17.7,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+9,130,9,2022-12-06,Furman,,High Point,REG (Non-Conf),L 82-85,*,38,10,19,0.526,5,11,0.455,5,8,0.625,0.658,4,6,0.667,3,4,7,3,1,0,0,2,29,24.5,H,0,1,mike-bothwell-1,Mike Bothwell,2023
+10,131,10,2022-12-10,Furman,,Winthrop,REG (Non-Conf),W 82-67,*,34,8,17,0.471,0,4,0.0,8,13,0.615,0.471,0,2,0.0,2,1,3,7,2,0,4,4,16,9.5,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+11,132,11,2022-12-13,Furman,@,NC State,REG (Non-Conf),L 73-92,*,36,4,11,0.364,0,5,0.0,4,6,0.667,0.364,6,8,0.75,1,1,2,2,2,0,3,1,14,8.1,A,0,1,mike-bothwell-1,Mike Bothwell,2023
+12,133,12,2022-12-17,Furman,N,Stephen F. Austin,REG (Non-Conf),W 72-70,*,39,12,14,0.857,1,2,0.5,11,12,0.917,0.893,11,11,1.0,1,2,3,3,0,0,7,3,36,26.2,N,1,1,mike-bothwell-1,Mike Bothwell,2023
+13,134,13,2022-12-19,Furman,,Anderson (SC),REG (Non-Conf),W 106-79,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,5,6,0.833,1,4,5,8,1,1,0,2,9,16.4,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+14,135,14,2022-12-29,Furman,,VMI,REG (Conf),W 85-62,*,35,5,10,0.5,2,3,0.667,3,7,0.429,0.6,0,2,0.0,0,2,2,3,3,0,3,1,12,8.5,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+15,136,15,2022-12-31,Furman,@,Western Carolina,REG (Conf),L 67-79,*,39,6,11,0.545,1,3,0.333,5,8,0.625,0.591,5,6,0.833,0,0,0,2,1,0,3,2,18,10.9,A,0,1,mike-bothwell-1,Mike Bothwell,2023
+16,137,16,2023-01-04,Furman,,The Citadel,REG (Conf),W 97-72,*,35,10,14,0.714,4,7,0.571,6,7,0.857,0.857,3,3,1.0,1,4,5,6,0,0,3,1,27,23.9,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+17,138,17,2023-01-07,Furman,@,East Tennessee State,REG (Conf),W 70-56,*,33,4,14,0.286,0,7,0.0,4,7,0.571,0.286,5,6,0.833,0,2,2,1,0,0,3,4,13,1.1,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+18,139,18,2023-01-11,Furman,@,Mercer,REG (Conf),W 84-66,*,33,7,12,0.583,1,2,0.5,6,10,0.6,0.625,2,4,0.5,2,0,2,1,0,0,0,3,17,11.5,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+19,140,19,2023-01-14,Furman,,UNC Greensboro,REG (Conf),L 80-88 (OT),*,43,8,19,0.421,1,5,0.2,7,14,0.5,0.447,5,5,1.0,0,6,6,3,1,0,0,1,22,16.4,H,0,1,mike-bothwell-1,Mike Bothwell,2023
+20,141,20,2023-01-18,Furman,@,Chattanooga,REG (Conf),W 77-69,*,34,7,11,0.636,2,4,0.5,5,7,0.714,0.727,6,7,0.857,0,1,1,0,0,0,2,0,22,15.0,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+21,142,21,2023-01-22,Furman,@,Wofford,REG (Conf),W 96-82,*,36,3,7,0.429,1,2,0.5,2,5,0.4,0.5,13,14,0.929,0,3,3,1,0,0,1,1,20,16.1,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+22,143,22,2023-01-25,Furman,,Samford,REG (Conf),W 91-84 (OT),*,39,6,12,0.5,1,4,0.25,5,8,0.625,0.542,4,5,0.8,0,4,4,0,0,0,0,0,17,11.8,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+23,144,23,2023-01-29,Furman,@,UNC Greensboro,REG (Conf),W 69-57,*,34,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,1,3,4,3,1,0,0,1,10,10.6,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+24,145,24,2023-02-01,Furman,,Chattanooga,REG (Conf),W 79-58,*,32,5,12,0.417,1,4,0.25,4,8,0.5,0.458,6,6,1.0,6,3,9,3,0,0,1,1,17,16.4,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+25,146,25,2023-02-04,Furman,,Wofford,REG (Conf),W 80-67,*,31,4,13,0.308,0,4,0.0,4,9,0.444,0.308,2,2,1.0,4,1,5,2,2,1,0,1,10,9.3,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+26,147,26,2023-02-08,Furman,@,VMI,REG (Conf),W 94-63,*,27,5,10,0.5,3,8,0.375,2,2,1.0,0.65,1,1,1.0,1,2,3,1,0,1,3,3,14,7.5,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+27,148,27,2023-02-11,Furman,,Western Carolina,REG (Conf),W 93-59,*,29,6,11,0.545,0,2,0.0,6,9,0.667,0.545,4,5,0.8,1,2,3,3,1,0,0,2,16,13.9,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+28,149,28,2023-02-15,Furman,@,The Citadel,REG (Conf),L 65-69,*,34,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,4,4,4,1,0,3,5,6,2.9,A,0,1,mike-bothwell-1,Mike Bothwell,2023
+29,150,29,2023-02-19,Furman,,East Tennessee State,REG (Conf),W 83-79,*,35,2,6,0.333,0,1,0.0,2,5,0.4,0.333,5,6,0.833,1,2,3,4,0,0,1,1,9,7.9,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+30,151,30,2023-02-22,Furman,,Mercer,REG (Conf),W 70-67,*,33,2,6,0.333,1,1,1.0,1,5,0.2,0.417,4,4,1.0,2,1,3,1,1,1,3,2,9,5.9,H,1,1,mike-bothwell-1,Mike Bothwell,2023
+31,152,31,2023-02-25,Furman,@,Samford,REG (Conf),W 93-79,*,30,10,15,0.667,5,8,0.625,5,7,0.714,0.833,10,11,0.909,2,0,2,0,1,0,2,3,35,27.3,A,1,1,mike-bothwell-1,Mike Bothwell,2023
+32,153,32,2023-03-04,Furman,N,Mercer,REG (Non-Conf),W 73-58,*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,3,0.667,0,1,1,0,1,0,0,2,13,8.8,N,1,1,mike-bothwell-1,Mike Bothwell,2023
+33,154,33,2023-03-05,Furman,N,Western Carolina,REG (Non-Conf),W 83-80 (OT),*,39,7,15,0.467,2,7,0.286,5,8,0.625,0.533,10,16,0.625,2,1,3,4,3,0,1,1,26,22.0,N,1,1,mike-bothwell-1,Mike Bothwell,2023
+34,155,34,2023-03-06,Furman,N,Chattanooga,REG (Non-Conf),W 88-79,*,33,2,7,0.286,0,3,0.0,2,4,0.5,0.286,12,13,0.923,0,4,4,1,0,0,1,4,16,10.8,N,1,1,mike-bothwell-1,Mike Bothwell,2023
+35,156,35,2023-03-16,Furman,N,Virginia,ROUND-64,W 68-67,*,21,4,8,0.5,2,3,0.667,2,5,0.4,0.625,1,1,1.0,0,0,0,0,1,0,0,5,11,6.0,N,1,0,mike-bothwell-1,Mike Bothwell,2023
+36,157,36,2023-03-18,Furman,N,San Diego State,ROUND-32,L 52-75,*,38,4,9,0.444,1,4,0.25,3,5,0.6,0.5,6,9,0.667,0,2,2,0,1,0,1,0,15,9.7,N,0,0,mike-bothwell-1,Mike Bothwell,2023

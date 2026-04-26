@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Duke,,Maine,REG (Non-Conf),W 96-62,*,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,2,4,6,1,0,3,1,2,6,8.3,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+2,2,2,2024-11-08,Duke,,Army,REG (Non-Conf),W 100-58,*,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,6,8,14,0,0,0,0,1,11,13.5,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+3,3,3,2024-11-12,Duke,N,Kentucky,REG (Non-Conf),L 72-77,*,23,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,3,4,7,0,0,3,0,3,10,12.7,N,0,1,khaman-maluach-1,Khaman Maluach,2025
+4,4,4,2024-11-16,Duke,,Wofford,REG (Non-Conf),W 86-35,*,13,5,7,0.714,0,0,,5,7,0.714,0.714,1,1,1.0,0,1,1,0,0,0,0,2,11,7.6,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+5,5,5,2024-11-22,Duke,@,Arizona,REG (Non-Conf),W 69-55,*,17,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,1,1.0,2,1,3,0,0,1,0,3,8,7.6,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+6,6,6,2024-11-26,Duke,N,Kansas,REG (Non-Conf),L 72-75,*,23,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,0,2,1,1,2,4,4.2,N,0,1,khaman-maluach-1,Khaman Maluach,2025
+7,7,7,2024-11-29,Duke,,Seattle,REG (Non-Conf),W 70-48,*,15,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,1,1.0,1,2,3,0,0,0,1,3,9,6.2,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+8,8,8,2024-12-04,Duke,,Auburn,REG (Non-Conf),W 84-78,*,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,0,0,0,0,1,2,2.6,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+9,9,9,2024-12-08,Duke,@,Louisville,REG (Conf),W 76-65,*,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,0,2,0,0,0,0,0,2,3.1,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+10,10,10,2024-12-10,Duke,,Incarnate Word,REG (Non-Conf),W 72-46,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,5,6,0.833,4,3,7,0,0,0,0,0,17,17.8,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+11,11,11,2024-12-17,Duke,,George Mason,REG (Non-Conf),W 68-47,*,24,0,1,0.0,0,0,,0,1,0.0,0.0,6,8,0.75,3,6,9,0,1,2,1,3,6,8.6,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+12,12,12,2024-12-21,Duke,@,Georgia Tech,REG (Conf),W 82-56,*,21,5,5,1.0,0,0,,5,5,1.0,1.0,5,6,0.833,6,2,8,2,0,1,3,2,15,16.2,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+13,13,13,2024-12-31,Duke,,Virginia Tech,REG (Conf),W 88-65,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,0,0,3,2,2,2,1.9,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+14,14,14,2025-01-04,Duke,@,SMU,REG (Conf),W 89-62,*,26,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,1,7,8,2,0,1,0,3,8,9.0,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+15,15,15,2025-01-07,Duke,,Pittsburgh,REG (Conf),W 76-47,*,25,4,5,0.8,0,1,0.0,4,4,1.0,0.8,3,4,0.75,2,6,8,0,0,1,2,2,11,9.8,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+16,16,16,2025-01-11,Duke,,Notre Dame,REG (Conf),W 86-78,*,32,6,7,0.857,0,0,,6,7,0.857,0.857,7,8,0.875,2,8,10,0,0,1,1,3,19,18.4,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+17,17,17,2025-01-14,Duke,,Miami (FL),REG (Conf),W 89-54,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,6,9,15,0,0,1,0,1,12,16.7,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+18,18,18,2025-01-18,Duke,@,Boston College,REG (Conf),W 88-63,*,17,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,2,2,4,1,0,1,1,4,8,6.2,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+19,19,19,2025-01-25,Duke,@,Wake Forest,REG (Conf),W 63-56,*,18,0,0,,0,0,,0,0,,,0,0,,2,1,3,0,0,2,1,4,0,0.5,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+20,20,20,2025-01-27,Duke,,NC State,REG (Conf),W 74-64,*,27,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,3,5,8,0,1,2,0,1,4,6.2,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+21,21,21,2025-02-01,Duke,,North Carolina,REG (Conf),W 87-70,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,4,2,6,0,0,0,0,1,6,6.7,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+22,22,22,2025-02-05,Duke,@,Syracuse,REG (Conf),W 83-54,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,1,3,0,0,2,1,1,6,5.4,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+23,23,23,2025-02-08,Duke,@,Clemson,REG (Conf),L 71-77,*,20,0,2,0.0,0,0,,0,2,0.0,0.0,3,4,0.75,3,2,5,0,0,1,1,5,3,1.6,A,0,1,khaman-maluach-1,Khaman Maluach,2025
+24,24,24,2025-02-12,Duke,,California,REG (Conf),W 78-57,*,22,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,4,0.25,7,5,12,3,0,1,1,1,10,12.6,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+25,25,25,2025-02-15,Duke,,Stanford,REG (Conf),W 106-70,*,21,8,9,0.889,0,1,0.0,8,8,1.0,0.889,1,1,1.0,4,2,6,0,0,1,0,1,17,17.6,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+26,26,26,2025-02-17,Duke,@,Virginia,REG (Conf),W 80-62,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,1,0,0,1,2,2,1.9,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+27,27,27,2025-02-22,Duke,N,Illinois,REG (Non-Conf),W 110-67,*,23,6,9,0.667,0,1,0.0,6,8,0.75,0.667,1,1,1.0,2,5,7,2,0,1,0,1,13,13.7,N,1,1,khaman-maluach-1,Khaman Maluach,2025
+28,28,28,2025-02-25,Duke,@,Miami (FL),REG (Conf),W 97-60,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,1,3,4,2,1,2,0,1,6,8.2,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+29,29,29,2025-03-01,Duke,,Florida State,REG (Conf),W 100-65,*,22,4,5,0.8,0,0,,4,5,0.8,0.8,6,6,1.0,4,6,10,0,0,2,1,2,14,16.3,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+30,30,30,2025-03-03,Duke,,Wake Forest,REG (Conf),W 93-60,*,24,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,6,8,14,2,0,1,1,2,4,6.8,H,1,1,khaman-maluach-1,Khaman Maluach,2025
+31,31,31,2025-03-08,Duke,@,North Carolina,REG (Conf),W 82-69,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,3,6,9,0,1,0,1,0,2,4.2,A,1,1,khaman-maluach-1,Khaman Maluach,2025
+32,32,32,2025-03-13,Duke,N,Georgia Tech,CTOURN,W 78-70,*,24,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,4,5,9,0,0,4,2,3,14,14.7,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+33,33,33,2025-03-14,Duke,N,North Carolina,CTOURN,W 74-71,*,23,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,1,0.0,5,4,9,0,0,2,2,5,13,11.5,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+34,34,34,2025-03-15,Duke,N,Louisville,CTOURN,W 73-62,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,5,5,10,0,0,2,1,0,8,11.5,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+35,35,35,2025-03-21,Duke,N,Mount St. Mary's,ROUND-64,W 93-49,*,16,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,0,,1,4,5,2,1,0,0,3,11,12.6,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+36,36,36,2025-03-23,Duke,N,Baylor,ROUND-32,W 89-66,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,4,5,0,0,2,0,1,8,10.0,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+37,37,37,2025-03-27,Duke,N,Arizona,ROUND-16,W 100-93,*,24,6,8,0.75,0,0,,6,8,0.75,0.75,1,1,1.0,1,5,6,0,0,4,0,4,13,13.2,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+38,38,38,2025-03-29,Duke,N,Alabama,ROUND-8,W 85-65,*,31,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,3,6,9,1,1,2,4,1,14,14.1,N,1,0,khaman-maluach-1,Khaman Maluach,2025
+39,39,39,2025-04-05,Duke,N,Houston,NATIONAL-SEMI,L 67-70,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,4,5,0.8,0,0,0,1,0,1,0,4,6,4.4,N,0,0,khaman-maluach-1,Khaman Maluach,2025

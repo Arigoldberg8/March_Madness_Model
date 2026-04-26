@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2010-11-08,Texas,,Navy,REG (Non-Conf),W 83-52,,23,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,4,0.5,0,4,4,6,1,0,5,1,7,5.2,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+2,35,2,2010-11-10,Texas,,Louisiana Tech,REG (Non-Conf),W 89-58,,17,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,1,1.0,1,0,1,2,0,0,3,4,5,-2.3,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+3,36,3,2010-11-18,Texas,N,Illinois,REG (Non-Conf),W 90-84 (OT),,16,3,8,0.375,1,3,0.333,2,5,0.4,0.438,1,2,0.5,1,1,2,0,0,1,0,4,8,3.3,N,1,1,jcovan-brown-1,J'Covan Brown,2011
+4,37,4,2010-11-19,Texas,N,Pittsburgh,REG (Non-Conf),L 66-68,,22,4,9,0.444,1,4,0.25,3,5,0.6,0.5,5,6,0.833,0,1,1,1,0,0,1,1,14,8.5,N,0,1,jcovan-brown-1,J'Covan Brown,2011
+5,38,5,2010-11-23,Texas,,Sam Houston State,REG (Non-Conf),W 84-50,,21,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,3,1.0,0,3,3,1,2,1,3,2,12,7.8,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+6,39,6,2010-11-27,Texas,,Rice,REG (Non-Conf),W 62-59,,15,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,0,2,2,0,0,0,1,0,5,1.2,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+7,40,7,2010-12-01,Texas,,Lamar,REG (Non-Conf),W 76-55,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,1,1,1,0,0,4,3,3,-3.3,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+8,41,8,2010-12-05,Texas,@,Southern California,REG (Non-Conf),L 56-73,,29,5,15,0.333,2,6,0.333,3,9,0.333,0.4,5,5,1.0,0,2,2,3,1,0,3,1,17,8.8,A,0,1,jcovan-brown-1,J'Covan Brown,2011
+9,42,9,2010-12-11,Texas,,Texas State San Marcos,REG (Non-Conf),W 101-65,,24,5,8,0.625,4,5,0.8,1,3,0.333,0.875,4,4,1.0,1,2,3,1,3,0,2,2,18,16.6,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+10,43,10,2010-12-14,Texas,,North Florida,REG (Non-Conf),W 70-48,,12,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,2,2,1,0,1,3,5,1,-3.1,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+11,44,11,2010-12-18,Texas,N,North Carolina,REG (Non-Conf),W 78-76,,25,3,9,0.333,0,4,0.0,3,5,0.6,0.333,4,4,1.0,0,3,3,1,1,0,2,2,10,4.7,N,1,1,jcovan-brown-1,J'Covan Brown,2011
+12,45,12,2010-12-22,Texas,@,Michigan State,REG (Non-Conf),W 67-55,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,2,0,1,1,1,0,-0.4,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+13,46,13,2010-12-31,Texas,,Coppin State,REG (Non-Conf),W 95-75,,32,5,8,0.625,5,7,0.714,0,1,0.0,0.938,2,2,1.0,0,2,2,6,1,0,3,4,17,14.6,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+14,47,14,2011-01-04,Texas,,Arkansas,REG (Non-Conf),W 79-46,,20,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,0,1,1,5,1,0,2,0,9,6.7,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+15,48,15,2011-01-08,Texas,,Connecticut,REG (Non-Conf),L 81-82 (OT),,29,7,14,0.5,2,3,0.667,5,11,0.455,0.571,4,4,1.0,2,1,3,2,1,0,1,2,20,15.3,H,0,1,jcovan-brown-1,J'Covan Brown,2011
+16,49,16,2011-01-11,Texas,@,Texas Tech,REG (Conf),W 83-52,,19,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,0,0,3,0,0,1,0,6,5.1,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+17,50,17,2011-01-15,Texas,,Oklahoma,REG (Conf),W 66-46,,26,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,0,3,3,2,1,0,1,0,4,2.2,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+18,51,18,2011-01-19,Texas,,Texas A&M,REG (Conf),W 81-60,,24,2,5,0.4,0,0,,2,5,0.4,0.4,4,4,1.0,1,5,6,6,1,0,1,3,8,10.5,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+19,52,19,2011-01-22,Texas,@,Kansas,REG (Conf),W 74-63,,29,6,10,0.6,3,6,0.5,3,4,0.75,0.75,8,10,0.8,0,3,3,1,1,0,2,2,23,17.4,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+20,53,20,2011-01-26,Texas,@,Oklahoma State,REG (Conf),W 61-46,,16,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,0,2,0,1,1,3,0.8,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+21,54,21,2011-01-29,Texas,,Missouri,REG (Conf),W 71-58,,14,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,0,1,1,0,0,0,1,3,7,3.4,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+22,55,22,2011-01-31,Texas,@,Texas A&M,REG (Conf),W 69-49,,24,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,0,3,3,3,3,0,2,1,8,8.6,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+23,56,23,2011-02-05,Texas,,Texas Tech,REG (Conf),W 76-60,,26,3,6,0.5,3,4,0.75,0,2,0.0,0.75,1,2,0.5,0,2,2,3,0,0,1,3,10,7.1,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+24,57,24,2011-02-09,Texas,@,Oklahoma,REG (Conf),W 68-52,,16,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,2,2,1,0,0,1,1,0,-3.6,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+25,58,25,2011-02-12,Texas,,Baylor,REG (Conf),W 69-60,,24,3,10,0.3,1,3,0.333,2,7,0.286,0.35,4,7,0.571,1,2,3,1,3,0,2,1,11,6.6,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+26,59,26,2011-02-16,Texas,,Oklahoma State,REG (Conf),W 73-55,,19,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,1,1,1,3,0,1,0,4,3.6,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+27,60,27,2011-02-19,Texas,@,Nebraska,REG (Conf),L 67-70,,25,7,13,0.538,2,3,0.667,5,10,0.5,0.615,2,3,0.667,0,1,1,2,0,0,3,0,18,10.0,A,0,1,jcovan-brown-1,J'Covan Brown,2011
+28,61,28,2011-02-22,Texas,,Iowa State,REG (Conf),W 76-53,,21,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,1,1,0,2,0,2,4,7,2.3,H,1,1,jcovan-brown-1,J'Covan Brown,2011
+29,62,29,2011-02-26,Texas,@,Colorado,REG (Conf),L 89-91,,27,6,12,0.5,4,6,0.667,2,6,0.333,0.667,5,5,1.0,1,3,4,5,2,0,2,4,21,18.5,A,0,1,jcovan-brown-1,J'Covan Brown,2011
+30,63,30,2011-02-28,Texas,,Kansas State,REG (Conf),L 70-75,,18,2,10,0.2,2,6,0.333,0,4,0.0,0.3,5,6,0.833,0,0,0,1,0,1,1,3,11,3.6,H,0,1,jcovan-brown-1,J'Covan Brown,2011
+31,64,31,2011-03-05,Texas,@,Baylor,REG (Conf),W 60-54,,16,0,5,0.0,0,2,0.0,0,3,0.0,0.0,2,3,0.667,0,1,1,0,0,0,0,2,2,-2.4,A,1,1,jcovan-brown-1,J'Covan Brown,2011
+32,65,32,2011-03-10,Texas,N,Oklahoma,CTOURN,W 74-54,,23,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,0,1,1,5,1,0,1,3,11,10.0,N,1,0,jcovan-brown-1,J'Covan Brown,2011
+33,66,33,2011-03-11,Texas,N,Texas A&M,CTOURN,W 70-58,,24,5,8,0.625,3,5,0.6,2,3,0.667,0.813,2,2,1.0,1,1,2,1,0,1,1,2,15,12.0,N,1,0,jcovan-brown-1,J'Covan Brown,2011
+34,67,34,2011-03-12,Texas,N,Kansas,CTOURN,L 73-85,,22,5,12,0.417,4,8,0.5,1,4,0.25,0.583,3,4,0.75,0,4,4,1,0,0,1,1,17,10.7,N,0,0,jcovan-brown-1,J'Covan Brown,2011
+35,68,35,2011-03-18,Texas,N,Oakland,ROUND-64,W 85-81,,24,4,11,0.364,1,2,0.5,3,9,0.333,0.409,12,12,1.0,1,5,6,3,0,1,0,0,21,19.9,N,1,0,jcovan-brown-1,J'Covan Brown,2011
+36,69,36,2011-03-20,Texas,N,Arizona,ROUND-32,L 69-70,,25,5,13,0.385,0,3,0.0,5,10,0.5,0.385,13,13,1.0,0,3,3,3,1,1,2,3,23,17.4,N,0,0,jcovan-brown-1,J'Covan Brown,2011

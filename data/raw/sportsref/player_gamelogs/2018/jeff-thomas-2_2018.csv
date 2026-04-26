@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2017-11-10,Georgia State,,Carver,REG (Non-Conf),W 90-50,*,21,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,2,3,1,1,0,1,1,2,-0.2,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+2,65,2,2017-11-14,Georgia State,@,Rice,REG (Non-Conf),W 75-54,*,29,7,15,0.467,3,10,0.3,4,5,0.8,0.567,1,1,1.0,1,1,2,2,1,0,2,1,18,11.3,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+3,66,3,2017-11-17,Georgia State,@,Ole Miss,REG (Non-Conf),L 72-77,*,39,5,9,0.556,3,6,0.5,2,3,0.667,0.722,1,2,0.5,3,6,9,1,1,0,1,4,14,12.3,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+4,67,4,2017-11-20,Georgia State,N,Eastern Washington,REG (Non-Conf),W 68-50,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,1,1,1,0,1,4,5.6,N,1,1,jeff-thomas-2,Jeff Thomas,2018
+5,68,5,2017-11-22,Georgia State,N,Prairie View A&M,REG (Non-Conf),L 56-71,*,38,3,9,0.333,0,4,0.0,3,5,0.6,0.333,0,0,,1,3,4,0,1,2,2,4,6,1.3,N,0,1,jeff-thomas-2,Jeff Thomas,2018
+6,69,6,2017-11-26,Georgia State,,Tulane,REG (Non-Conf),W 70-59,*,32,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,2,0.0,0,6,6,2,0,0,2,3,3,-2.3,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+7,70,7,2017-11-29,Georgia State,@,Alabama A&M,REG (Non-Conf),W 63-53,*,21,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,2,2,0,1,0,1,4,2,-2.1,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+8,71,8,2017-12-04,Georgia State,,Liberty,REG (Non-Conf),L 74-77 (OT),*,39,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,7,7,1,0,1,0,0,5,6.5,H,0,1,jeff-thomas-2,Jeff Thomas,2018
+9,72,9,2017-12-09,Georgia State,,Montana,REG (Non-Conf),W 71-68,*,37,5,10,0.5,1,4,0.25,4,6,0.667,0.55,4,5,0.8,3,5,8,3,1,1,2,1,15,14.6,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+10,73,10,2017-12-12,Georgia State,,Point,REG (Non-Conf),W 90-70,*,29,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,0,4,4,0,1,2,0,1,9,9.2,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+11,74,11,2017-12-16,Georgia State,@,Dayton,REG (Non-Conf),L 83-88 (OT),*,25,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,0,2,2,0,0,0,1,4,7,1.3,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+12,75,12,2017-12-20,Georgia State,@,Massachusetts,REG (Non-Conf),W 71-63,,31,4,8,0.5,4,6,0.667,0,2,0.0,0.75,0,0,,1,1,2,1,1,1,0,1,12,11.0,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+13,76,13,2017-12-23,Georgia State,@,Chattanooga,REG (Non-Conf),W 71-48,*,28,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,1,3,4,2,1,0,0,1,11,9.6,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+14,77,14,2017-12-29,Georgia State,@,South Alabama,REG (Conf),L 64-86,*,29,4,11,0.364,3,8,0.375,1,3,0.333,0.5,0,0,,1,3,4,1,2,1,1,2,11,8.1,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+15,78,15,2017-12-31,Georgia State,@,Troy,REG (Conf),L 66-68,*,37,6,9,0.667,3,6,0.5,3,3,1.0,0.833,0,0,,1,3,4,2,1,1,1,2,15,14.0,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+16,79,16,2018-01-04,Georgia State,,Little Rock,REG (Conf),W 73-64,,28,4,7,0.571,2,5,0.4,2,2,1.0,0.714,6,7,0.857,0,4,4,1,1,0,2,0,16,13.2,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+17,80,17,2018-01-06,Georgia State,,Arkansas State,REG (Conf),W 79-75,,32,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,0,5,5,2,0,1,0,1,10,8.5,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+18,81,18,2018-01-11,Georgia State,@,Appalachian State,REG (Conf),W 71-58,*,36,9,15,0.6,3,5,0.6,6,10,0.6,0.7,1,1,1.0,1,7,8,0,2,0,0,0,22,19.9,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+19,82,19,2018-01-13,Georgia State,@,Coastal Carolina,REG (Conf),W 72-58,*,35,4,12,0.333,3,8,0.375,1,4,0.25,0.458,0,0,,1,4,5,2,2,1,0,2,11,9.4,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+20,83,20,2018-01-20,Georgia State,,Georgia Southern,REG (Conf),W 83-66,*,31,5,5,1.0,5,5,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,2,3,15,11.3,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+21,84,21,2018-01-25,Georgia State,,UT Arlington,REG (Conf),W 81-75,*,35,4,8,0.5,0,4,0.0,4,4,1.0,0.5,5,5,1.0,1,0,1,4,1,2,1,2,13,13.1,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+22,85,22,2018-01-27,Georgia State,,Texas State,REG (Conf),W 54-50,*,34,6,12,0.5,2,6,0.333,4,6,0.667,0.583,0,0,,0,8,8,0,1,2,1,0,14,11.8,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+23,86,23,2018-02-01,Georgia State,@,Arkansas State,REG (Conf),W 77-66,*,33,5,9,0.556,3,7,0.429,2,2,1.0,0.722,0,0,,0,3,3,0,0,0,1,2,13,7.8,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+24,87,24,2018-02-03,Georgia State,@,Little Rock,REG (Conf),W 81-51,*,25,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,1,4,5,1,0,1,0,1,8,7.2,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+25,88,25,2018-02-08,Georgia State,,Louisiana,REG (Conf),W 106-92,*,36,4,12,0.333,3,7,0.429,1,5,0.2,0.458,7,7,1.0,1,3,4,2,2,2,1,2,18,15.8,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+26,89,26,2018-02-10,Georgia State,,Louisiana–Monroe,REG (Conf),L 82-90 (OT),*,36,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,0,0,-1.5,H,0,1,jeff-thomas-2,Jeff Thomas,2018
+27,90,27,2018-02-16,Georgia State,@,Georgia Southern,REG (Conf),L 80-85,*,36,5,10,0.5,3,6,0.5,2,4,0.5,0.65,4,4,1.0,2,3,5,1,1,1,1,4,17,14.1,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+28,91,28,2018-02-22,Georgia State,@,Texas State,REG (Conf),W 77-50,*,32,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,0,5,5,1,0,0,0,3,13,10.4,A,1,1,jeff-thomas-2,Jeff Thomas,2018
+29,92,29,2018-02-24,Georgia State,@,UT Arlington,REG (Conf),L 81-89,*,39,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,1,6,7,2,3,1,1,4,10,11.3,A,0,1,jeff-thomas-2,Jeff Thomas,2018
+30,93,30,2018-03-01,Georgia State,,Troy,REG (Conf),L 70-83,,33,3,8,0.375,2,7,0.286,1,1,1.0,0.5,2,2,1.0,0,6,6,2,2,4,2,3,10,10.4,H,0,1,jeff-thomas-2,Jeff Thomas,2018
+31,94,31,2018-03-03,Georgia State,,South Alabama,REG (Conf),W 90-75,,19,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,2,0,2,0,0,0,1,4,5,2.8,H,1,1,jeff-thomas-2,Jeff Thomas,2018
+32,95,32,2018-03-09,Georgia State,N,Troy,CTOURN,W 73-51,*,26,8,12,0.667,1,2,0.5,7,10,0.7,0.708,2,2,1.0,0,2,2,0,2,0,0,5,19,14.4,N,1,0,jeff-thomas-2,Jeff Thomas,2018
+33,96,33,2018-03-10,Georgia State,N,Georgia Southern,CTOURN,W 73-67,*,33,3,5,0.6,3,4,0.75,0,1,0.0,0.9,4,6,0.667,1,3,4,3,1,0,4,4,13,9.0,N,1,0,jeff-thomas-2,Jeff Thomas,2018
+34,97,34,2018-03-11,Georgia State,N,UT Arlington,CTOURN,W 74-61,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,3,3,0,3,0,1,3,4,3.7,N,1,0,jeff-thomas-2,Jeff Thomas,2018
+35,98,35,2018-03-16,Georgia State,N,Cincinnati,ROUND-64,L 53-68,*,34,4,10,0.4,1,4,0.25,3,6,0.5,0.45,0,0,,0,4,4,1,1,2,0,1,9,7.5,N,0,0,jeff-thomas-2,Jeff Thomas,2018

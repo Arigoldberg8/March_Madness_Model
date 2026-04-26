@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2015-11-13,Michigan,,Northern Mich.,REG (Non-Conf),W 70-44,*,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,3,0.667,0,2,2,1,1,0,2,2,4,0.7,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+2,58,2,2015-11-16,Michigan,,Elon,REG (Non-Conf),W 88-68,*,30,8,10,0.8,6,7,0.857,2,3,0.667,1.1,2,2,1.0,0,6,6,7,1,0,2,3,24,24.7,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+3,59,3,2015-11-20,Michigan,,Xavier,REG (Non-Conf),L 70-86,*,31,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,5,5,2,4,1,2,1,4,6.1,H,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+4,60,4,2015-11-25,Michigan,N,Connecticut,REG (Non-Conf),L 60-74,*,31,3,6,0.5,3,3,1.0,0,3,0.0,0.75,1,2,0.5,0,4,4,2,1,0,1,4,10,7.6,N,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+5,61,5,2015-11-26,Michigan,N,Charlotte,REG (Non-Conf),W 102-47,*,22,2,4,0.5,2,2,1.0,0,2,0.0,0.75,2,2,1.0,0,8,8,4,2,0,1,2,8,11.4,N,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+6,62,6,2015-11-27,Michigan,N,Texas,REG (Non-Conf),W 78-72,*,36,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,4,0.5,0,5,5,7,3,0,3,3,13,13.4,N,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+7,63,7,2015-12-01,Michigan,@,NC State,REG (Non-Conf),W 66-59,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,2,1,0,2,0,4,4.7,A,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+8,64,11,2015-12-15,Michigan,,Northern Kentucky,REG (Non-Conf),W 77-62,*,34,5,10,0.5,2,5,0.4,3,5,0.6,0.6,4,5,0.8,0,3,3,0,1,0,1,2,16,10.7,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+9,65,12,2015-12-19,Michigan,,Youngstown State,REG (Non-Conf),W 105-46,*,29,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,2,0.5,0,11,11,13,4,1,2,0,10,19.3,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+10,66,13,2015-12-23,Michigan,,Bryant,REG (Non-Conf),W 96-60,*,25,3,8,0.375,2,5,0.4,1,3,0.333,0.5,3,4,0.75,0,1,1,5,0,0,0,2,11,9.2,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+11,67,14,2015-12-30,Michigan,@,Illinois,REG (Conf),W 78-68,*,37,3,10,0.3,1,3,0.333,2,7,0.286,0.35,2,2,1.0,1,8,9,1,1,0,3,1,9,4.6,A,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+12,68,15,2016-01-02,Michigan,,Penn State,REG (Conf),W 79-56,*,32,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,5,5,3,2,0,6,2,6,1.4,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+13,69,16,2016-01-07,Michigan,@,Purdue,REG (Conf),L 70-87,*,33,3,9,0.333,2,3,0.667,1,6,0.167,0.444,4,6,0.667,1,5,6,1,0,0,1,3,12,6.8,A,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+14,70,17,2016-01-12,Michigan,,Maryland,REG (Conf),W 70-67,*,38,4,13,0.308,3,7,0.429,1,6,0.167,0.423,1,2,0.5,1,9,10,4,1,0,2,1,12,8.9,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+15,71,18,2016-01-17,Michigan,@,Iowa,REG (Conf),L 71-82,*,36,5,14,0.357,3,11,0.273,2,3,0.667,0.464,3,4,0.75,1,4,5,6,0,0,1,2,16,12.1,A,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+16,72,19,2016-01-20,Michigan,,Minnesota,REG (Conf),W 74-69,*,39,5,13,0.385,1,6,0.167,4,7,0.571,0.423,11,12,0.917,0,6,6,1,1,0,1,2,22,16.2,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+17,73,20,2016-01-23,Michigan,@,Nebraska,REG (Conf),W 81-68,*,37,5,8,0.625,4,6,0.667,1,2,0.5,0.875,5,6,0.833,2,10,12,6,2,0,4,3,19,20.4,A,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+18,74,21,2016-01-27,Michigan,,Rutgers,REG (Conf),W 68-57,*,38,3,10,0.3,3,6,0.5,0,4,0.0,0.45,5,5,1.0,2,1,3,4,1,0,2,1,14,11.3,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+19,75,22,2016-01-30,Michigan,N,Penn State,REG (Conf),W 79-72,*,39,3,9,0.333,1,4,0.25,2,5,0.4,0.389,6,6,1.0,1,9,10,7,3,0,0,2,13,18.4,N,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+20,76,23,2016-02-02,Michigan,,Indiana,REG (Conf),L 67-80,*,28,3,10,0.3,1,3,0.333,2,7,0.286,0.35,0,0,,0,3,3,3,2,0,2,1,7,3.8,H,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+21,77,24,2016-02-06,Michigan,,Michigan State,REG (Conf),L 73-89,*,35,3,10,0.3,3,7,0.429,0,3,0.0,0.45,2,2,1.0,0,2,2,2,3,0,1,4,11,7.6,H,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+22,78,25,2016-02-10,Michigan,@,Minnesota,REG (Conf),W 82-74,*,37,9,15,0.6,5,8,0.625,4,7,0.571,0.767,3,5,0.6,1,7,8,7,2,0,3,1,26,24.6,A,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+23,79,26,2016-02-13,Michigan,,Purdue,REG (Conf),W 61-56,*,36,1,10,0.1,0,6,0.0,1,4,0.25,0.1,4,5,0.8,0,7,7,1,2,0,2,1,6,1.4,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+24,80,27,2016-02-16,Michigan,@,Ohio State,REG (Conf),L 66-76,*,37,5,14,0.357,1,7,0.143,4,7,0.571,0.393,2,2,1.0,1,4,5,5,1,0,1,2,13,9.8,A,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+25,81,28,2016-02-21,Michigan,@,Maryland,REG (Conf),L 82-86,*,37,5,12,0.417,3,7,0.429,2,5,0.4,0.542,1,3,0.333,3,3,6,5,3,0,5,5,14,9.3,A,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+26,82,29,2016-02-24,Michigan,,Northwestern,REG (Conf),W 72-63,*,39,4,9,0.444,0,2,0.0,4,7,0.571,0.444,8,8,1.0,0,6,6,3,0,0,1,0,16,14.2,H,1,1,derrick-walton-1,Derrick Walton Jr.,2016
+27,83,30,2016-02-28,Michigan,@,Wisconsin,REG (Conf),L 57-68,*,38,3,13,0.231,1,4,0.25,2,9,0.222,0.269,3,4,0.75,0,5,5,8,2,0,2,2,10,8.0,A,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+28,84,31,2016-03-05,Michigan,,Iowa,REG (Conf),L 61-71,*,38,5,11,0.455,4,9,0.444,1,2,0.5,0.636,0,0,,1,4,5,6,0,0,1,3,14,12.2,H,0,1,derrick-walton-1,Derrick Walton Jr.,2016
+29,85,32,2016-03-10,Michigan,N,Northwestern,CTOURN,W 72-70 (OT),*,41,0,7,0.0,0,3,0.0,0,4,0.0,0.0,2,2,1.0,0,7,7,5,1,0,3,1,2,0.3,N,1,0,derrick-walton-1,Derrick Walton Jr.,2016
+30,86,33,2016-03-11,Michigan,N,Indiana,CTOURN,W 72-69,*,36,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,1,2,3,12,2,0,2,1,2,9.2,N,1,0,derrick-walton-1,Derrick Walton Jr.,2016
+31,87,34,2016-03-12,Michigan,N,Purdue,CTOURN,L 59-76,*,37,4,10,0.4,2,5,0.4,2,5,0.4,0.5,4,5,0.8,0,6,6,5,4,1,3,2,14,14.4,N,0,0,derrick-walton-1,Derrick Walton Jr.,2016
+32,88,35,2016-03-16,Michigan,N,Tulsa,FIRST-FOUR,W 67-62,*,29,4,10,0.4,2,7,0.286,2,3,0.667,0.5,2,2,1.0,0,0,0,1,2,0,3,4,12,4.7,N,1,0,derrick-walton-1,Derrick Walton Jr.,2016
+33,89,36,2016-03-18,Michigan,N,Notre Dame,ROUND-64,L 63-70,*,38,4,13,0.308,2,6,0.333,2,7,0.286,0.385,0,1,0.0,1,3,4,8,6,0,2,1,10,12.9,N,0,0,derrick-walton-1,Derrick Walton Jr.,2016

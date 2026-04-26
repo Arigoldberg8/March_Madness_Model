@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Purdue,,Northern Illinois,REG (Non-Conf),W 96-34,,22,3,9,0.333,3,4,0.75,0,5,0.0,0.5,3,5,0.6,0,2,2,2,1,0,1,2,12,7.3,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+2,2,2,2011-11-14,Purdue,,High Point,REG (Non-Conf),W 67-65,*,25,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,4,0.25,2,2,4,3,1,0,2,3,13,10.1,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+3,3,3,2011-11-17,Purdue,N,Iona,REG (Non-Conf),W 91-90,,16,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,3,3,1,0,1,0,1,8,7.6,N,1,1,anthony-johnson-6,Anthony Johnson,2012
+4,4,4,2011-11-18,Purdue,N,Temple,REG (Non-Conf),W 85-77,,13,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,5,0.4,3,0,3,0,1,0,2,2,6,1.7,N,1,1,anthony-johnson-6,Anthony Johnson,2012
+5,5,5,2011-11-20,Purdue,N,Alabama,REG (Non-Conf),L 56-65,,15,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,5,0.4,2,0,2,1,0,0,1,3,8,2.3,N,0,1,anthony-johnson-6,Anthony Johnson,2012
+6,6,6,2011-11-23,Purdue,,Western Michigan,REG (Non-Conf),W 80-37,,19,1,7,0.143,1,2,0.5,0,5,0.0,0.214,2,2,1.0,0,3,3,1,0,0,0,2,5,1.3,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+7,7,7,2011-11-26,Purdue,,Coppin State,REG (Non-Conf),W 78-57,,14,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,5,0.4,2,2,4,1,0,0,0,0,10,8.2,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+8,8,8,2011-11-29,Purdue,,Miami (FL),REG (Non-Conf),W 76-65,,23,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,0,3,3,2,1,0,0,1,8,7.6,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+9,9,9,2011-12-03,Purdue,@,Xavier,REG (Non-Conf),L 63-66,,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,0,1,0,2,0,4,1.0,A,0,1,anthony-johnson-6,Anthony Johnson,2012
+10,10,10,2011-12-07,Purdue,,Western Carolina,REG (Non-Conf),W 65-60,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,3,0.333,2,1,3,0,0,0,1,1,3,0.8,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+11,11,11,2011-12-10,Purdue,,Eastern Michigan,REG (Non-Conf),W 61-36,,20,3,10,0.3,0,3,0.0,3,7,0.429,0.3,1,2,0.5,2,2,4,0,0,0,0,1,7,2.4,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+12,12,12,2011-12-17,Purdue,N,Butler,REG (Non-Conf),L 65-67,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,0,1,anthony-johnson-6,Anthony Johnson,2012
+13,13,13,2011-12-20,Purdue,,IPFW,REG (Non-Conf),W 81-56,,25,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,1,1,2,3,0,0,3,3,11,5.6,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+14,14,14,2011-12-28,Purdue,@,Iowa,REG (Conf),W 79-76,,8,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,1,0,0,1,1,4,2.6,A,1,1,anthony-johnson-6,Anthony Johnson,2012
+15,15,15,2011-12-31,Purdue,,Illinois,REG (Conf),W 75-60,,18,2,3,0.667,0,0,,2,3,0.667,0.667,3,6,0.5,0,2,2,0,1,0,2,2,7,3.3,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+16,16,16,2012-01-05,Purdue,@,Penn State,REG (Conf),L 45-65,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,0,0,-0.7,A,0,1,anthony-johnson-6,Anthony Johnson,2012
+17,17,17,2012-01-08,Purdue,@,Minnesota,REG (Conf),W 79-66,,11,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,1,1,2,1,0,0,0,0,0.6,A,1,1,anthony-johnson-6,Anthony Johnson,2012
+18,18,18,2012-01-12,Purdue,,Wisconsin,REG (Conf),L 62-67,,8,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,1,2,0,0,0,0,3,3,0.0,H,0,1,anthony-johnson-6,Anthony Johnson,2012
+19,19,19,2012-01-17,Purdue,,Iowa,REG (Conf),W 75-68,,11,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,1,4,1,0,0,2,3,2,-0.5,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+20,20,20,2012-01-21,Purdue,@,Michigan State,REG (Conf),L 58-83,,18,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,1,1.0,1,1,2,1,0,0,1,1,3,-1.2,A,0,1,anthony-johnson-6,Anthony Johnson,2012
+21,21,21,2012-01-24,Purdue,,Michigan,REG (Conf),L 64-66,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,2,2,0,0,0,0,2,5,2.8,H,0,1,anthony-johnson-6,Anthony Johnson,2012
+22,22,22,2012-01-28,Purdue,@,Northwestern,REG (Conf),W 58-56,,11,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,0,1,0,1,2,6,3.5,A,1,1,anthony-johnson-6,Anthony Johnson,2012
+23,23,23,2012-02-04,Purdue,,Indiana,REG (Conf),L 61-78,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,1,0,0,0,1,0,-1.6,H,0,1,anthony-johnson-6,Anthony Johnson,2012
+24,24,24,2012-02-07,Purdue,@,Ohio State,REG (Conf),L 84-87,*,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,1,0,0,1,3,2,-1.2,A,0,1,anthony-johnson-6,Anthony Johnson,2012
+25,25,25,2012-02-12,Purdue,,Northwestern,REG (Conf),W 87-77,*,9,0,5,0.0,0,0,,0,5,0.0,0.0,0,2,0.0,0,2,2,1,1,0,0,2,0,-2.8,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+26,26,27,2012-02-19,Purdue,,Michigan State,REG (Conf),L 62-76,,24,4,8,0.5,2,3,0.667,2,5,0.4,0.625,0,0,,0,2,2,1,1,0,0,0,10,8.3,H,0,1,anthony-johnson-6,Anthony Johnson,2012
+27,27,28,2012-02-22,Purdue,,Nebraska,REG (Conf),W 83-65,,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,0,1,1,4,2,0,0,1,1,2.5,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+28,28,29,2012-02-25,Purdue,@,Michigan,REG (Conf),W 75-61,,17,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,4,0.5,0,2,2,2,0,0,1,1,5,1.7,A,1,1,anthony-johnson-6,Anthony Johnson,2012
+29,29,30,2012-02-29,Purdue,,Penn State,REG (Conf),W 80-56,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,2,2,1,0,0,2,3,4,1.1,H,1,1,anthony-johnson-6,Anthony Johnson,2012
+30,30,31,2012-03-04,Purdue,@,Indiana,REG (Conf),L 74-85,,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,1,3,2,-1.3,A,0,1,anthony-johnson-6,Anthony Johnson,2012
+31,31,32,2012-03-08,Purdue,N,Nebraska,CTOURN,W 79-61,,26,7,10,0.7,1,2,0.5,6,8,0.75,0.75,2,4,0.5,0,6,6,4,1,0,2,1,17,15.2,N,1,0,anthony-johnson-6,Anthony Johnson,2012
+32,32,33,2012-03-09,Purdue,N,Ohio State,CTOURN,L 71-88,*,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,4,0.25,0,1,1,0,0,0,0,2,4,0.6,N,0,0,anthony-johnson-6,Anthony Johnson,2012
+33,33,34,2012-03-16,Purdue,N,St. Mary's (CA),ROUND-64,W 72-69,,20,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,2,1.0,1,1,2,1,0,0,1,0,10,6.0,N,1,0,anthony-johnson-6,Anthony Johnson,2012
+34,34,35,2012-03-18,Purdue,N,Kansas,ROUND-32,L 60-63,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,4,0.5,0,0,0,0,0,0,0,0,4,0.8,N,0,0,anthony-johnson-6,Anthony Johnson,2012

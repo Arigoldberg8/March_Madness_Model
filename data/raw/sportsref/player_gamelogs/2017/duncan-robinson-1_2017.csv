@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2016-11-11,Michigan,,Howard,REG (Non-Conf),W 76-58,*,29,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,0,2,2,2,0,1,0,3,3,0.7,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+2,38,2,2016-11-13,Michigan,,IUPUI,REG (Non-Conf),W 77-65,*,12,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,2,1,3,0,1,0,0,2,7,5.9,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+3,39,3,2016-11-17,Michigan,N,Marquette,REG (Non-Conf),W 79-61,,7,3,5,0.6,3,4,0.75,0,1,0.0,0.9,1,2,0.5,0,1,1,0,0,0,1,3,10,5.4,N,1,1,duncan-robinson-1,Duncan Robinson,2017
+4,40,4,2016-11-18,Michigan,N,SMU,REG (Non-Conf),W 76-54,,16,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,1,1,1,0,0,1,2,2,-0.2,N,1,1,duncan-robinson-1,Duncan Robinson,2017
+5,41,5,2016-11-23,Michigan,@,South Carolina,REG (Non-Conf),L 46-61,,16,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,1,2,3,0,0,0,2,1,2,-2.2,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+6,42,6,2016-11-26,Michigan,,Mount St. Mary's,REG (Non-Conf),W 64-47,,23,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,2,3,5,1,1,0,1,0,8,5.9,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+7,43,7,2016-11-30,Michigan,,Virginia Tech,REG (Non-Conf),L 70-73,,30,6,11,0.545,3,8,0.375,3,3,1.0,0.682,0,0,,0,0,0,1,0,0,0,3,15,9.2,H,0,1,duncan-robinson-1,Duncan Robinson,2017
+8,44,8,2016-12-03,Michigan,,Kennesaw State,REG (Non-Conf),W 82-55,,19,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,1,2,6,2.2,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+9,45,9,2016-12-06,Michigan,,Texas,REG (Non-Conf),W 53-50,,21,4,10,0.4,2,6,0.333,2,4,0.5,0.5,2,2,1.0,0,4,4,0,0,0,1,0,12,6.8,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+10,46,10,2016-12-10,Michigan,@,UCLA,REG (Non-Conf),L 84-102,,22,4,8,0.5,2,4,0.5,2,4,0.5,0.625,3,4,0.75,1,3,4,2,1,0,0,2,13,11.8,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+11,47,11,2016-12-13,Michigan,,Central Arkansas,REG (Non-Conf),W 97-53,,14,4,9,0.444,4,9,0.444,0,0,,0.667,0,0,,0,1,1,2,0,0,2,3,12,5.8,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+12,48,12,2016-12-17,Michigan,,Maryland Eastern Shore,REG (Non-Conf),W 98-49,*,21,5,9,0.556,3,6,0.5,2,3,0.667,0.722,4,4,1.0,1,0,1,3,1,1,0,0,17,17.2,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+13,49,13,2016-12-22,Michigan,,Furman,REG (Non-Conf),W 68-62,,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,1,1.0,0,2,2,4,1,0,0,3,8,8.2,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+14,50,14,2017-01-01,Michigan,@,Iowa,REG (Conf),L 83-86 (OT),,36,6,12,0.5,3,9,0.333,3,3,1.0,0.625,0,0,,0,4,4,3,2,0,0,1,15,13.9,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+15,51,15,2017-01-04,Michigan,,Penn State,REG (Conf),W 72-69,,15,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,1,1,0,0,0,1,4,8,2.7,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+16,52,16,2017-01-07,Michigan,,Maryland,REG (Conf),L 70-77,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,0,0,0,0,3,2.0,H,0,1,duncan-robinson-1,Duncan Robinson,2017
+17,53,17,2017-01-11,Michigan,@,Illinois,REG (Conf),L 69-85,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,5,2,-1.7,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+18,54,18,2017-01-14,Michigan,,Nebraska,REG (Conf),W 91-85,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,0,1,1,1,1,1,1,3,6,4.8,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+19,55,19,2017-01-17,Michigan,@,Wisconsin,REG (Conf),L 64-68,,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,2,2,1,1,0,0,0,11,10.0,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+20,56,20,2017-01-21,Michigan,,Illinois,REG (Conf),W 66-57,,15,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,1,1,0,1,1,2,3,5,1.4,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+21,57,21,2017-01-26,Michigan,,Indiana,REG (Conf),W 90-60,,20,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,0,0,0,2,0,0,1,1,13,10.1,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+22,58,22,2017-01-29,Michigan,@,Michigan State,REG (Conf),L 62-70,,30,3,9,0.333,2,6,0.333,1,3,0.333,0.444,0,0,,0,0,0,0,1,1,0,2,8,3.8,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+23,59,23,2017-02-04,Michigan,,Ohio State,REG (Conf),L 66-70,,24,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,1,1,0,0,0,1,3,8,2.7,H,0,1,duncan-robinson-1,Duncan Robinson,2017
+24,60,24,2017-02-07,Michigan,,Michigan State,REG (Conf),W 86-57,,21,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,1,0,0,0,0,10,8.7,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+25,61,25,2017-02-12,Michigan,@,Indiana,REG (Conf),W 75-63,,13,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,1,1,0,0,0,0,0,8,6.0,A,1,1,duncan-robinson-1,Duncan Robinson,2017
+26,62,26,2017-02-16,Michigan,,Wisconsin,REG (Conf),W 64-58,,20,2,4,0.5,2,4,0.5,0,0,,0.75,0,1,0.0,0,3,3,0,0,0,0,0,6,4.5,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+27,63,27,2017-02-19,Michigan,@,Minnesota,REG (Conf),L 78-83 (OT),,15,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,3,3,5,1,0,1,5,5,4.6,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+28,64,28,2017-02-22,Michigan,@,Rutgers,REG (Conf),W 68-64,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,1,0,1,1,3,1.2,A,1,1,duncan-robinson-1,Duncan Robinson,2017
+29,65,29,2017-02-25,Michigan,,Purdue,REG (Conf),W 82-70,,22,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,3,3,0,0,1,0,1,11,10.3,H,1,1,duncan-robinson-1,Duncan Robinson,2017
+30,66,30,2017-03-01,Michigan,@,Northwestern,REG (Conf),L 65-67,,24,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,2,3,1,0,1,0,2,8,8.3,A,0,1,duncan-robinson-1,Duncan Robinson,2017
+31,67,31,2017-03-05,Michigan,@,Nebraska,REG (Conf),W 93-57,,17,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,2,2,0,0,0,0,1,10,8.3,A,1,1,duncan-robinson-1,Duncan Robinson,2017
+32,68,32,2017-03-09,Michigan,N,Illinois,CTOURN,W 75-55,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,1,3,2,0.2,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+33,69,33,2017-03-10,Michigan,N,Purdue,CTOURN,W 74-70 (OT),,26,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,2,2,4,0,0,0,0,0,5,6.0,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+34,70,34,2017-03-11,Michigan,N,Minnesota,CTOURN,W 84-77,,22,4,7,0.571,2,5,0.4,2,2,1.0,0.714,0,0,,0,1,1,0,0,1,0,2,10,6.9,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+35,71,35,2017-03-12,Michigan,N,Wisconsin,CTOURN,W 71-56,,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,0,1,0,2,3,2.2,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+36,72,36,2017-03-17,Michigan,N,Oklahoma State,ROUND-64,W 92-91,,19,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,4,0.5,0,2,2,0,0,0,0,3,8,3.9,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+37,73,37,2017-03-19,Michigan,N,Louisville,ROUND-32,W 73-69,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,1,1,0,-1.5,N,1,0,duncan-robinson-1,Duncan Robinson,2017
+38,74,38,2017-03-23,Michigan,N,Oregon,ROUND-16,L 68-69,,28,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,1,1,0,0,0,0,3,8,2.7,N,0,0,duncan-robinson-1,Duncan Robinson,2017

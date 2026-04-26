@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-06,North Dakota State,@,New Mexico State,REG (Non-Conf),L 56-73,,20,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,3,3,0,0,0,1,1,5,0.7,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+2,34,2,2018-11-11,North Dakota State,,UC Santa Barbara,REG (Non-Conf),W 82-63,,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,4,4,1.0,0,5,5,1,0,1,1,3,11,9.4,H,1,1,cameron-hunter-1,Cameron Hunter,2019
+3,35,3,2018-11-16,North Dakota State,N,Miami (OH),REG (Non-Conf),L 78-89,,20,2,7,0.286,2,6,0.333,0,1,0.0,0.429,3,7,0.429,2,1,3,1,1,0,1,3,9,4.5,N,0,1,cameron-hunter-1,Cameron Hunter,2019
+4,36,4,2018-11-17,North Dakota State,N,Incarnate Word,REG (Non-Conf),L 78-80 (OT),,16,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,3,1,0,1,1,2,4.0,N,0,1,cameron-hunter-1,Cameron Hunter,2019
+5,37,6,2018-11-24,North Dakota State,@,East Tennessee State,REG (Non-Conf),L 61-79,,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,2,2,3,2,0,2,3,5,3.1,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+6,38,7,2018-11-26,North Dakota State,@,Gonzaga,REG (Non-Conf),L 60-102,,21,5,10,0.5,2,6,0.333,3,4,0.75,0.6,0,1,0.0,0,1,1,0,1,0,1,2,12,6.1,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+7,39,19,2019-01-16,North Dakota State,@,Denver,REG (Conf),L 65-80,,19,3,8,0.375,1,5,0.2,2,3,0.667,0.438,5,7,0.714,0,2,2,1,1,0,1,0,12,8.1,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+8,40,20,2019-01-19,North Dakota State,,North Dakota,REG (Conf),W 67-65,,24,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,0,0,0,2,1,0,3,1,3,-1.8,H,1,1,cameron-hunter-1,Cameron Hunter,2019
+9,41,21,2019-01-24,North Dakota State,@,South Dakota State,REG (Conf),L 69-87,,22,4,9,0.444,3,5,0.6,1,4,0.25,0.611,0,0,,0,1,1,4,0,0,2,2,11,6.6,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+10,42,22,2019-01-26,North Dakota State,@,Oral Roberts,REG (Conf),W 67-57,,25,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,1,0.0,0,3,3,0,0,1,1,0,8,3.8,A,1,1,cameron-hunter-1,Cameron Hunter,2019
+11,43,23,2019-02-02,North Dakota State,@,Western Illinois,REG (Conf),W 78-76,,26,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,4,0.5,0,3,3,0,1,1,2,3,10,7.0,A,1,1,cameron-hunter-1,Cameron Hunter,2019
+12,44,24,2019-02-06,North Dakota State,@,North Dakota,REG (Conf),W 74-70,,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,4,4,1.0,0,1,1,1,1,0,2,2,8,4.5,A,1,1,cameron-hunter-1,Cameron Hunter,2019
+13,45,25,2019-02-09,North Dakota State,,Denver,REG (Conf),W 81-71,,10,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,1,0,0,1,2,1,-0.5,H,1,1,cameron-hunter-1,Cameron Hunter,2019
+14,46,26,2019-02-14,North Dakota State,,Oral Roberts,REG (Conf),W 85-73,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,0,1,2,2,-0.2,H,1,1,cameron-hunter-1,Cameron Hunter,2019
+15,47,27,2019-02-16,North Dakota State,,South Dakota State,REG (Conf),L 77-78,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,1,0,0,0,2,3,0.1,H,0,1,cameron-hunter-1,Cameron Hunter,2019
+16,48,28,2019-02-23,North Dakota State,,Omaha,REG (Conf),L 50-58,,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,1,0,3,1.3,H,0,1,cameron-hunter-1,Cameron Hunter,2019
+17,49,29,2019-02-28,North Dakota State,@,South Dakota,REG (Conf),L 65-75,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-0.7,A,0,1,cameron-hunter-1,Cameron Hunter,2019
+18,50,30,2019-03-02,North Dakota State,@,Purdue Fort Wayne,REG (Conf),W 69-66,,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,7,7,1.0,1,1,2,2,1,0,2,1,10,7.9,A,1,1,cameron-hunter-1,Cameron Hunter,2019
+19,51,31,2019-03-10,North Dakota State,N,Oral Roberts,CTOURN,W 86-73,,18,4,5,0.8,4,5,0.8,0,0,,1.2,1,2,0.5,0,1,1,0,0,0,1,1,13,9.6,N,1,0,cameron-hunter-1,Cameron Hunter,2019
+20,52,32,2019-03-11,North Dakota State,N,Western Illinois,CTOURN,W 76-73,,19,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,0,0,1,1,3,6,2.8,N,1,0,cameron-hunter-1,Cameron Hunter,2019
+21,53,33,2019-03-12,North Dakota State,N,Omaha,CTOURN,W 73-63,,13,3,3,1.0,3,3,1.0,0,0,,1.5,3,3,1.0,0,1,1,2,0,0,0,0,12,12.8,N,1,0,cameron-hunter-1,Cameron Hunter,2019
+22,54,34,2019-03-20,North Dakota State,N,North Carolina Central,FIRST-FOUR,W 78-74,,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,3,1.0,0,4,4,2,0,0,1,1,7,5.5,N,1,0,cameron-hunter-1,Cameron Hunter,2019
+23,55,35,2019-03-22,North Dakota State,N,Duke,ROUND-64,L 62-85,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,3,5,0.6,1,1,2,0,0,0,0,3,3,-0.1,N,0,0,cameron-hunter-1,Cameron Hunter,2019

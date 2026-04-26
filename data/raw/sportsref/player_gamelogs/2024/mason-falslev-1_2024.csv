@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Utah State,,S.D. Mines,REG (Non-Conf),W 101-48,*,24,7,9,0.778,1,1,1.0,6,8,0.75,0.833,2,3,0.667,0,5,5,5,4,0,2,0,17,20.1,H,1,1,mason-falslev-1,Mason Falslev,2024
+2,2,2,2023-11-11,Utah State,@,Bradley,REG (Non-Conf),L 66-72 (OT),*,17,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,1,1,2,0,1,0,3,0,-1.6,A,0,1,mason-falslev-1,Mason Falslev,2024
+3,3,3,2023-11-14,Utah State,,Southern Utah,REG (Non-Conf),W 93-84,*,34,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,3,0.333,2,7,9,4,1,0,0,1,11,13.5,H,1,1,mason-falslev-1,Mason Falslev,2024
+4,4,4,2023-11-19,Utah State,N,Marshall,REG (Non-Conf),W 83-60,*,16,5,7,0.714,1,3,0.333,4,4,1.0,0.786,0,0,,1,1,2,4,2,0,1,3,11,11.7,N,1,1,mason-falslev-1,Mason Falslev,2024
+5,5,5,2023-11-20,Utah State,N,Akron,REG (Non-Conf),W 65-62,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,6,0.5,0,3,3,2,3,0,3,3,9,5.9,N,1,1,mason-falslev-1,Mason Falslev,2024
+6,6,6,2023-11-21,Utah State,N,Stephen F. Austin,REG (Non-Conf),W 79-49,*,32,8,10,0.8,1,3,0.333,7,7,1.0,0.85,2,3,0.667,1,8,9,6,2,1,1,3,19,22.6,N,1,1,mason-falslev-1,Mason Falslev,2024
+7,7,7,2023-11-28,Utah State,@,Saint Louis,REG (Non-Conf),W 81-76,*,32,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,2,3,5,2,2,0,2,2,11,10.3,A,1,1,mason-falslev-1,Mason Falslev,2024
+8,8,8,2023-12-02,Utah State,,UC Irvine,REG (Non-Conf),W 79-69,*,33,8,12,0.667,3,4,0.75,5,8,0.625,0.792,0,0,,3,2,5,1,1,1,0,3,19,17.7,H,1,1,mason-falslev-1,Mason Falslev,2024
+9,9,9,2023-12-06,Utah State,,San Diego,REG (Non-Conf),W 108-81,*,24,7,10,0.7,1,3,0.333,6,7,0.857,0.75,2,3,0.667,1,3,4,3,1,0,2,4,17,13.5,H,1,1,mason-falslev-1,Mason Falslev,2024
+10,10,10,2023-12-09,Utah State,,NW Nazarene,REG (Non-Conf),W 84-53,*,29,7,11,0.636,0,1,0.0,7,10,0.7,0.636,0,0,,0,3,3,5,4,0,2,0,14,15.5,H,1,1,mason-falslev-1,Mason Falslev,2024
+11,11,11,2023-12-13,Utah State,@,Santa Clara,REG (Non-Conf),W 84-82,*,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,2,0.0,0,2,2,1,0,0,0,2,3,1.0,A,1,1,mason-falslev-1,Mason Falslev,2024
+12,12,12,2023-12-16,Utah State,N,San Francisco,REG (Non-Conf),W 54-53,*,24,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,2,0.0,2,0,2,1,2,0,2,0,4,1.2,N,1,1,mason-falslev-1,Mason Falslev,2024
+13,13,13,2023-12-22,Utah State,,East Tennessee State,REG (Non-Conf),W 80-65,*,33,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,3,0.667,1,9,10,4,3,0,1,2,9,10.9,H,1,1,mason-falslev-1,Mason Falslev,2024
+14,14,14,2024-01-02,Utah State,@,Air Force,REG (Conf),W 88-60,*,31,6,9,0.667,1,3,0.333,5,6,0.833,0.722,5,6,0.833,1,3,4,1,3,0,1,2,18,17.2,A,1,1,mason-falslev-1,Mason Falslev,2024
+15,15,15,2024-01-06,Utah State,,Colorado State,REG (Conf),W 77-72,*,34,8,13,0.615,0,2,0.0,8,11,0.727,0.615,2,3,0.667,1,5,6,3,1,0,1,3,18,14.8,H,1,1,mason-falslev-1,Mason Falslev,2024
+16,16,16,2024-01-09,Utah State,,Wyoming,REG (Conf),W 83-59,*,29,4,8,0.5,0,4,0.0,4,4,1.0,0.5,1,2,0.5,1,2,3,3,2,0,2,3,9,6.8,H,1,1,mason-falslev-1,Mason Falslev,2024
+17,17,17,2024-01-13,Utah State,@,UNLV,REG (Conf),W 87-86,*,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,1,1,2,1,1,0,0,3,6,4.8,A,1,1,mason-falslev-1,Mason Falslev,2024
+18,18,18,2024-01-16,Utah State,@,New Mexico,REG (Conf),L 86-99,*,36,8,13,0.615,0,2,0.0,8,11,0.727,0.615,3,4,0.75,3,6,9,2,1,0,2,1,19,16.6,A,0,1,mason-falslev-1,Mason Falslev,2024
+19,19,19,2024-01-20,Utah State,,Fresno State,REG (Conf),W 83-62,*,34,3,8,0.375,1,1,1.0,2,7,0.286,0.438,0,0,,5,2,7,3,1,0,3,1,7,6.4,H,1,1,mason-falslev-1,Mason Falslev,2024
+20,20,20,2024-01-27,Utah State,@,Boise State,REG (Conf),W 90-84 (OT),*,21,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,0,0,0,0,1,0,0,4,8,3.4,A,1,1,mason-falslev-1,Mason Falslev,2024
+21,21,21,2024-01-30,Utah State,,San Jose State,REG (Conf),W 82-61,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,7,8,3,0,1,2,1,4,6.6,H,1,1,mason-falslev-1,Mason Falslev,2024
+22,22,22,2024-02-03,Utah State,@,San Diego State,REG (Conf),L 67-81,*,26,7,11,0.636,2,3,0.667,5,8,0.625,0.727,0,0,,2,3,5,1,1,0,1,5,16,12.1,A,0,1,mason-falslev-1,Mason Falslev,2024
+23,23,23,2024-02-06,Utah State,,Nevada,REG (Conf),L 63-77,*,39,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,2,3,5,1,0,0,2,2,14,9.2,H,0,1,mason-falslev-1,Mason Falslev,2024
+24,24,24,2024-02-10,Utah State,,Boise State,REG (Conf),W 80-61,*,36,10,13,0.769,3,5,0.6,7,8,0.875,0.885,2,5,0.4,1,3,4,3,1,0,1,2,25,21.6,H,1,1,mason-falslev-1,Mason Falslev,2024
+25,25,25,2024-02-14,Utah State,@,Wyoming,REG (Conf),W 84-76,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,2,2,2,0,0,3,1,4,0.2,A,1,1,mason-falslev-1,Mason Falslev,2024
+26,26,26,2024-02-17,Utah State,@,Colorado State,REG (Conf),L 55-75,*,31,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,1,0,1,2,1,1,1,3,3,0.1,A,0,1,mason-falslev-1,Mason Falslev,2024
+27,27,27,2024-02-20,Utah State,,San Diego State,REG (Conf),W 68-63,*,31,3,9,0.333,1,5,0.2,2,4,0.5,0.389,3,4,0.75,1,2,3,2,0,0,4,2,10,2.4,H,1,1,mason-falslev-1,Mason Falslev,2024
+28,28,28,2024-02-27,Utah State,@,Fresno State,REG (Conf),W 77-73 (OT),*,34,5,7,0.714,0,1,0.0,5,6,0.833,0.714,5,7,0.714,0,3,3,1,0,0,4,2,15,8.1,A,1,1,mason-falslev-1,Mason Falslev,2024
+29,29,29,2024-03-01,Utah State,,Air Force,REG (Conf),W 72-60,*,33,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,2,4,6,5,2,0,1,2,10,11.6,H,1,1,mason-falslev-1,Mason Falslev,2024
+30,30,30,2024-03-06,Utah State,@,San Jose State,REG (Conf),W 90-70,*,34,8,11,0.727,2,3,0.667,6,8,0.75,0.818,2,2,1.0,2,4,6,3,0,1,0,2,20,20.1,A,1,1,mason-falslev-1,Mason Falslev,2024
+31,31,31,2024-03-09,Utah State,,New Mexico,REG (Conf),W 87-85,*,22,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,1,2,3,2,0,0,0,4,10,9.6,H,1,1,mason-falslev-1,Mason Falslev,2024
+32,32,33,2024-03-15,Utah State,N,San Diego State,CTOURN,L 70-86,*,20,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,1,0.0,0,2,2,0,0,0,1,3,6,-0.4,N,0,0,mason-falslev-1,Mason Falslev,2024
+33,33,34,2024-03-22,Utah State,N,TCU,ROUND-64,W 88-72,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,0,5,5,2,3,1,2,2,8,7.8,N,1,0,mason-falslev-1,Mason Falslev,2024
+34,34,35,2024-03-24,Utah State,N,Purdue,ROUND-32,L 67-106,*,26,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,1,4,5,0,0,2,1,2,10,6.8,N,0,0,mason-falslev-1,Mason Falslev,2024

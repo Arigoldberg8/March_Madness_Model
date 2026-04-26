@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2012-11-09,Gonzaga,,Southern Utah,REG (Non-Conf),W 103-65,*,25,7,14,0.5,1,1,1.0,6,13,0.462,0.536,0,0,,1,2,3,0,0,0,2,1,15,6.9,H,1,1,sam-dower-1,Sam Dower,2013
+2,70,2,2012-11-12,Gonzaga,,West Virginia,REG (Non-Conf),W 84-50,*,30,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,4,0.5,2,4,6,2,1,0,2,1,8,5.4,H,1,1,sam-dower-1,Sam Dower,2013
+3,71,3,2012-11-18,Gonzaga,,South Dakota,REG (Non-Conf),W 96-58,*,21,6,8,0.75,0,0,,6,8,0.75,0.75,0,2,0.0,4,5,9,1,1,1,0,0,12,14.7,H,1,1,sam-dower-1,Sam Dower,2013
+4,72,4,2012-11-22,Gonzaga,N,Clemson,REG (Non-Conf),W 57-49,,20,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,0,2,2,0,0,0,2,0,11,6.6,N,1,1,sam-dower-1,Sam Dower,2013
+5,73,5,2012-11-23,Gonzaga,N,Oklahoma,REG (Non-Conf),W 72-47,*,23,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,6,6,1,0,0,1,2,4,4.1,N,1,1,sam-dower-1,Sam Dower,2013
+6,74,6,2012-11-25,Gonzaga,N,Davidson,REG (Non-Conf),W 81-67,*,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,1,3,0,-2.0,N,1,1,sam-dower-1,Sam Dower,2013
+7,75,7,2012-11-29,Gonzaga,,Lewis-Clark St.,REG (Non-Conf),W 104-57,*,18,6,7,0.857,0,0,,6,7,0.857,0.857,1,2,0.5,1,4,5,0,1,0,0,0,13,13.0,H,1,1,sam-dower-1,Sam Dower,2013
+8,76,8,2012-12-01,Gonzaga,,Pacific,REG (Non-Conf),W 85-67,,24,6,8,0.75,0,0,,6,8,0.75,0.75,6,8,0.75,3,6,9,1,1,0,0,1,18,19.2,H,1,1,sam-dower-1,Sam Dower,2013
+9,77,9,2012-12-05,Gonzaga,@,Washington State,REG (Non-Conf),W 71-69,*,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,A,1,1,sam-dower-1,Sam Dower,2013
+10,78,10,2012-12-08,Gonzaga,,Illinois,REG (Non-Conf),L 74-85,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,1,2,0.3,H,0,1,sam-dower-1,Sam Dower,2013
+11,79,11,2012-12-15,Gonzaga,N,Kansas State,REG (Non-Conf),W 68-52,,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,1,2,1,1,2,1,1,6,5.7,N,1,1,sam-dower-1,Sam Dower,2013
+12,80,12,2012-12-19,Gonzaga,,Campbell,REG (Non-Conf),W 74-52,,19,1,4,0.25,0,0,,1,4,0.25,0.25,4,6,0.667,0,3,3,1,1,1,2,3,6,2.9,H,1,1,sam-dower-1,Sam Dower,2013
+13,81,13,2012-12-28,Gonzaga,,Baylor,REG (Non-Conf),W 94-87,,21,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,3,5,0,2,0,1,1,7,7.5,H,1,1,sam-dower-1,Sam Dower,2013
+14,82,14,2012-12-31,Gonzaga,@,Oklahoma State,REG (Non-Conf),W 69-68,,17,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,2,1,4,2.0,A,1,1,sam-dower-1,Sam Dower,2013
+15,83,15,2013-01-03,Gonzaga,@,Pepperdine,REG (Conf),W 78-62,,14,1,4,0.25,0,0,,1,4,0.25,0.25,4,4,1.0,0,2,2,0,0,0,0,1,6,3.8,A,1,1,sam-dower-1,Sam Dower,2013
+16,84,16,2013-01-05,Gonzaga,@,Santa Clara,REG (Conf),W 81-74,,15,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,0,3,3,0,1,0,1,3,8,5.7,A,1,1,sam-dower-1,Sam Dower,2013
+17,85,17,2013-01-10,Gonzaga,,St. Mary's (CA),REG (Conf),W 83-78,,15,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,0,0,0,0,0,0,1,2,8,3.6,H,1,1,sam-dower-1,Sam Dower,2013
+18,86,18,2013-01-17,Gonzaga,@,Portland,REG (Conf),W 71-49,,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,1,1,0,0,0,2,1.6,A,1,1,sam-dower-1,Sam Dower,2013
+19,87,19,2013-01-19,Gonzaga,@,Butler,REG (Non-Conf),L 63-64,,24,8,11,0.727,2,2,1.0,6,9,0.667,0.818,2,2,1.0,0,1,1,0,1,1,2,0,20,15.5,A,0,1,sam-dower-1,Sam Dower,2013
+20,88,20,2013-01-24,Gonzaga,,Brigham Young,REG (Conf),W 83-63,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,1,3,0,0,2,1,2,0,-0.1,H,1,1,sam-dower-1,Sam Dower,2013
+21,89,21,2013-01-26,Gonzaga,,San Francisco,REG (Conf),W 66-52,,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,2,3,0,1,0,0,1,6,5.6,H,1,1,sam-dower-1,Sam Dower,2013
+22,90,22,2013-01-31,Gonzaga,@,Loyola Marymount,REG (Conf),W 88-43,,15,5,6,0.833,0,0,,5,6,0.833,0.833,3,5,0.6,4,2,6,0,0,2,1,1,13,13.4,A,1,1,sam-dower-1,Sam Dower,2013
+23,91,23,2013-02-02,Gonzaga,@,San Diego,REG (Conf),W 65-63,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,3,0.667,0,0,0,0,0,1,1,1,6,2.2,A,1,1,sam-dower-1,Sam Dower,2013
+24,92,24,2013-02-07,Gonzaga,,Pepperdine,REG (Conf),W 82-56,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,1,2,0,0,0,1,3,6,2.8,H,1,1,sam-dower-1,Sam Dower,2013
+25,93,25,2013-02-09,Gonzaga,,Loyola Marymount,REG (Conf),W 74-55,,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,0,1,0,1,1,1,4,6,3.5,H,1,1,sam-dower-1,Sam Dower,2013
+26,94,26,2013-02-14,Gonzaga,@,St. Mary's (CA),REG (Conf),W 77-60,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,0,1,0,1,2,4,1.9,A,1,1,sam-dower-1,Sam Dower,2013
+27,95,27,2013-02-16,Gonzaga,@,San Francisco,REG (Conf),W 71-61,,13,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,0,0,0,0,1,0,1,2,0.9,A,1,1,sam-dower-1,Sam Dower,2013
+28,96,28,2013-02-20,Gonzaga,,Santa Clara,REG (Conf),W 85-42,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,5,5,1.0,1,2,3,2,1,1,1,2,11,11.3,H,1,1,sam-dower-1,Sam Dower,2013
+29,97,29,2013-02-23,Gonzaga,,San Diego,REG (Conf),W 81-50,,18,4,10,0.4,0,0,,4,10,0.4,0.4,1,1,1.0,2,0,2,0,1,0,2,1,9,3.6,H,1,1,sam-dower-1,Sam Dower,2013
+30,98,30,2013-02-28,Gonzaga,@,Brigham Young,REG (Conf),W 70-65,,11,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,1,2,1,0,0,0,3,8,7.6,A,1,1,sam-dower-1,Sam Dower,2013
+31,99,31,2013-03-02,Gonzaga,,Portland,REG (Conf),W 81-52,,14,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,0,0,1,0,1,4,1.9,H,1,1,sam-dower-1,Sam Dower,2013
+32,100,32,2013-03-09,Gonzaga,N,Loyola Marymount,CTOURN,W 66-48,,14,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,1,3,0,0,0,0,3,6,2.8,N,1,0,sam-dower-1,Sam Dower,2013
+33,101,33,2013-03-11,Gonzaga,N,St. Mary's (CA),CTOURN,W 65-51,,10,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,2,2,0,0,0,0,0,6,4.3,N,1,0,sam-dower-1,Sam Dower,2013
+34,102,34,2013-03-21,Gonzaga,N,Southern,ROUND-64,W 64-58,,7,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,1,0.0,1,0,1,0,0,0,0,1,5,4.3,N,1,0,sam-dower-1,Sam Dower,2013
+35,103,35,2013-03-23,Gonzaga,N,Wichita State,ROUND-32,L 70-76,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,1,3,0,-2.9,N,0,0,sam-dower-1,Sam Dower,2013

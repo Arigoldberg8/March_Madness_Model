@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2017-11-10,Purdue,,SIU Edwardsville,REG (Non-Conf),W 105-74,*,26,5,8,0.625,2,2,1.0,3,6,0.5,0.75,6,6,1.0,0,4,4,3,1,0,0,1,18,18.3,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+2,106,2,2017-11-12,Purdue,,Chicago State,REG (Non-Conf),W 111-42,*,20,6,8,0.75,4,5,0.8,2,3,0.667,1.0,2,2,1.0,0,3,3,6,2,0,0,1,18,21.5,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+3,107,3,2017-11-14,Purdue,@,Marquette,REG (Non-Conf),W 86-71,*,29,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,2,0.5,1,4,5,4,1,1,1,2,10,10.2,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+4,108,4,2017-11-18,Purdue,,Fairfield,REG (Non-Conf),W 106-64,*,22,8,8,1.0,6,6,1.0,2,2,1.0,1.375,1,2,0.5,1,3,4,4,2,0,0,0,23,26.6,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+5,109,5,2017-11-22,Purdue,N,Tennessee,REG (Non-Conf),L 75-78 (OT),*,41,5,11,0.455,3,7,0.429,2,4,0.5,0.591,2,4,0.5,1,7,8,3,3,1,4,1,15,12.7,N,0,1,dakota-mathias-1,Dakota Mathias,2018
+6,110,6,2017-11-23,Purdue,N,Western Kentucky,REG (Non-Conf),L 73-77,*,35,1,8,0.125,1,6,0.167,0,2,0.0,0.188,2,2,1.0,1,3,4,7,1,0,0,4,5,5.7,N,0,1,dakota-mathias-1,Dakota Mathias,2018
+7,111,7,2017-11-24,Purdue,N,Arizona,REG (Non-Conf),W 89-64,*,35,9,13,0.692,3,6,0.5,6,7,0.857,0.808,3,3,1.0,0,5,5,6,1,0,1,1,24,23.8,N,1,1,dakota-mathias-1,Dakota Mathias,2018
+8,112,8,2017-11-28,Purdue,,Louisville,REG (Non-Conf),W 66-57,*,38,4,11,0.364,3,8,0.375,1,3,0.333,0.5,2,2,1.0,0,3,3,2,2,1,1,2,13,10.1,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+9,113,9,2017-12-01,Purdue,@,Maryland,REG (Conf),W 80-75,*,33,7,10,0.7,4,6,0.667,3,4,0.75,0.9,2,2,1.0,0,5,5,9,0,0,2,3,20,20.4,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+10,114,10,2017-12-03,Purdue,,Northwestern,REG (Conf),W 74-69,*,34,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,2,0.5,0,5,5,5,0,0,2,2,9,6.4,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+11,115,11,2017-12-07,Purdue,,Valparaiso,REG (Non-Conf),W 80-50,*,25,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,1,1,3,1,0,1,2,8,5.2,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+12,116,12,2017-12-10,Purdue,,IUPUI,REG (Non-Conf),W 86-61,*,28,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,0,0,3,1,1,3,2,3,-0.8,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+13,117,13,2017-12-16,Purdue,N,Butler,REG (Non-Conf),W 82-67,*,31,5,11,0.455,1,4,0.25,4,7,0.571,0.5,3,4,0.75,0,4,4,5,1,0,2,2,14,10.8,N,1,1,dakota-mathias-1,Dakota Mathias,2018
+14,118,14,2017-12-21,Purdue,,Tennessee State,REG (Non-Conf),W 97-48,*,29,2,10,0.2,2,8,0.25,0,2,0.0,0.3,1,1,1.0,0,2,2,10,2,0,2,1,7,8.0,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+15,119,15,2017-12-30,Purdue,,Lipscomb,REG (Non-Conf),W 98-66,*,28,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,4,4,4,0,1,2,3,15,12.2,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+16,120,16,2018-01-03,Purdue,,Rutgers,REG (Conf),W 82-51,*,28,3,8,0.375,3,6,0.5,0,2,0.0,0.563,4,6,0.667,1,4,5,2,2,1,4,3,13,8.6,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+17,121,17,2018-01-06,Purdue,,Nebraska,REG (Conf),W 74-62,*,35,4,9,0.444,2,4,0.5,2,5,0.4,0.556,1,1,1.0,0,4,4,2,4,0,2,2,11,10.1,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+18,122,18,2018-01-09,Purdue,@,Michigan,REG (Conf),W 70-69,*,35,5,9,0.556,4,7,0.571,1,2,0.5,0.778,0,0,,0,3,3,4,2,0,1,3,14,13.2,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+19,123,19,2018-01-13,Purdue,@,Minnesota,REG (Conf),W 81-47,*,30,4,11,0.364,3,8,0.375,1,3,0.333,0.5,1,1,1.0,0,6,6,4,1,1,0,0,12,12.2,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+20,124,20,2018-01-16,Purdue,,Wisconsin,REG (Conf),W 78-50,*,27,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,4,4,5,0,0,2,0,2,1.6,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+21,125,21,2018-01-20,Purdue,@,Iowa,REG (Conf),W 87-64,*,30,4,8,0.5,4,6,0.667,0,2,0.0,0.75,0,0,,0,5,5,5,2,0,1,0,12,14.0,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+22,126,22,2018-01-25,Purdue,,Michigan,REG (Conf),W 92-88,*,35,3,9,0.333,3,7,0.429,0,2,0.0,0.5,0,1,0.0,0,2,2,5,0,0,0,1,9,7.2,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+23,127,23,2018-01-28,Purdue,@,Indiana,REG (Conf),W 74-67,*,34,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,0,5,5,5,0,0,1,3,9,8.1,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+24,128,24,2018-01-31,Purdue,,Maryland,REG (Conf),W 75-67,*,29,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,2,2,4,1,0,1,2,11,10.3,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+25,129,25,2018-02-03,Purdue,@,Rutgers,REG (Conf),W 78-76,*,30,4,9,0.444,4,7,0.571,0,2,0.0,0.667,4,4,1.0,0,2,2,1,2,0,1,1,16,13.2,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+26,130,26,2018-02-07,Purdue,,Ohio State,REG (Conf),L 63-64,*,33,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,4,4,4,3,0,5,2,6,4.5,H,0,1,dakota-mathias-1,Dakota Mathias,2018
+27,131,27,2018-02-10,Purdue,@,Michigan State,REG (Conf),L 65-68,*,30,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,0,3,3,6,0,0,0,1,8,7.6,A,0,1,dakota-mathias-1,Dakota Mathias,2018
+28,132,28,2018-02-15,Purdue,@,Wisconsin,REG (Conf),L 53-57,*,33,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,7,7,1,0,0,2,3,2,-2.9,A,0,1,dakota-mathias-1,Dakota Mathias,2018
+29,133,29,2018-02-18,Purdue,,Penn State,REG (Conf),W 76-73,*,34,7,11,0.636,2,5,0.4,5,6,0.833,0.727,2,2,1.0,0,3,3,3,2,0,2,2,18,15.3,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+30,134,30,2018-02-22,Purdue,@,Illinois,REG (Conf),W 93-86,*,37,7,11,0.636,4,8,0.5,3,3,1.0,0.818,0,0,,0,8,8,1,1,0,1,1,18,15.8,A,1,1,dakota-mathias-1,Dakota Mathias,2018
+31,135,31,2018-02-25,Purdue,,Minnesota,REG (Conf),W 84-60,*,29,9,11,0.818,7,9,0.778,2,2,1.0,1.136,0,0,,0,7,7,4,2,2,0,1,25,28.8,H,1,1,dakota-mathias-1,Dakota Mathias,2018
+32,136,32,2018-03-02,Purdue,N,Rutgers,CTOURN,W 82-75,*,32,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,2,2,7,2,0,1,1,9,11.4,N,1,0,dakota-mathias-1,Dakota Mathias,2018
+33,137,33,2018-03-03,Purdue,N,Penn State,CTOURN,W 78-70,*,31,5,7,0.714,2,4,0.5,3,3,1.0,0.857,3,4,0.75,0,6,6,1,1,0,2,3,15,12.0,N,1,0,dakota-mathias-1,Dakota Mathias,2018
+34,138,34,2018-03-04,Purdue,N,Michigan,CTOURN,L 66-75,*,35,4,11,0.364,1,5,0.2,3,6,0.5,0.409,2,2,1.0,0,3,3,1,0,0,2,2,11,3.7,N,0,0,dakota-mathias-1,Dakota Mathias,2018
+35,139,35,2018-03-16,Purdue,N,Cal State Fullerton,ROUND-64,W 74-48,*,26,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,2,1.0,0,4,4,2,2,0,1,2,8,6.7,N,1,0,dakota-mathias-1,Dakota Mathias,2018
+36,140,36,2018-03-18,Purdue,N,Butler,ROUND-32,W 76-73,*,37,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,5,5,4,0,0,2,3,11,8.1,N,1,0,dakota-mathias-1,Dakota Mathias,2018
+37,141,37,2018-03-23,Purdue,N,Texas Tech,ROUND-16,L 65-78,*,34,1,7,0.143,1,1,1.0,0,6,0.0,0.214,0,0,,0,3,3,1,1,0,2,1,3,-1.3,N,0,0,dakota-mathias-1,Dakota Mathias,2018

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,North Dakota State,@,New Mexico State,REG (Non-Conf),L 56-73,,21,3,10,0.3,2,6,0.333,1,4,0.25,0.4,1,1,1.0,0,3,3,1,1,0,0,1,9,5.4,A,0,1,tyree-eady-1,Tyree Eady,2019
+2,2,2,2018-11-11,North Dakota State,,UC Santa Barbara,REG (Non-Conf),W 82-63,,19,3,4,0.75,3,4,0.75,0,0,,1.125,0,1,0.0,1,2,3,0,1,0,0,0,9,9.3,H,1,1,tyree-eady-1,Tyree Eady,2019
+3,3,3,2018-11-16,North Dakota State,N,Miami (OH),REG (Non-Conf),L 78-89,,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,6,6,1.0,2,2,4,1,0,0,0,2,12,11.2,N,0,1,tyree-eady-1,Tyree Eady,2019
+4,4,4,2018-11-17,North Dakota State,N,Incarnate Word,REG (Non-Conf),L 78-80 (OT),,24,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,1,1,0,0,1,1,2,7,2.5,N,0,1,tyree-eady-1,Tyree Eady,2019
+5,5,5,2018-11-18,North Dakota State,N,Towson,REG (Non-Conf),W 76-51,*,36,6,10,0.6,2,5,0.4,4,5,0.8,0.7,0,0,,0,1,1,2,0,0,3,1,14,7.7,N,1,1,tyree-eady-1,Tyree Eady,2019
+6,6,6,2018-11-24,North Dakota State,@,East Tennessee State,REG (Non-Conf),L 61-79,*,29,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,1,1,0,1,1,7,4.9,A,0,1,tyree-eady-1,Tyree Eady,2019
+7,7,7,2018-11-26,North Dakota State,@,Gonzaga,REG (Non-Conf),L 60-102,*,25,0,9,0.0,0,4,0.0,0,5,0.0,0.0,3,4,0.75,1,2,3,1,0,0,0,0,3,-1.7,A,0,1,tyree-eady-1,Tyree Eady,2019
+8,8,8,2018-12-01,North Dakota State,N,Drake,REG (Non-Conf),L 88-95,*,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.1,N,0,1,tyree-eady-1,Tyree Eady,2019
+9,9,9,2018-12-03,North Dakota State,@,Iowa State,REG (Non-Conf),L 59-81,*,21,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,3,1,4,0,1,0,3,1,6,2.3,A,0,1,tyree-eady-1,Tyree Eady,2019
+10,10,10,2018-12-08,North Dakota State,,Eastern Washington,REG (Non-Conf),W 74-67,*,29,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,2,3,5,2,0,0,0,0,4,3.6,H,1,1,tyree-eady-1,Tyree Eady,2019
+11,11,11,2018-12-15,North Dakota State,,Missouri State,REG (Non-Conf),W 74-67,*,28,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,1,1.0,0,4,4,1,0,0,3,3,8,4.8,H,1,1,tyree-eady-1,Tyree Eady,2019
+12,12,12,2018-12-17,North Dakota State,@,Montana,REG (Non-Conf),L 53-60,*,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,1,0,0,0.3,A,0,1,tyree-eady-1,Tyree Eady,2019
+13,13,13,2018-12-19,North Dakota State,,Northland,REG (Non-Conf),W 90-43,*,22,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,3,5,2,0,0,1,1,6,5.3,H,1,1,tyree-eady-1,Tyree Eady,2019
+14,14,14,2018-12-29,North Dakota State,,South Dakota,REG (Conf),W 71-65,*,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,0,2,-0.1,H,1,1,tyree-eady-1,Tyree Eady,2019
+15,15,15,2018-12-30,North Dakota State,,Purdue Fort Wayne,REG (Conf),L 87-90 (OT),*,37,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,0,,0,4,4,3,1,1,2,0,12,10.7,H,0,1,tyree-eady-1,Tyree Eady,2019
+16,16,16,2019-01-02,North Dakota State,@,Omaha,REG (Conf),L 77-90,*,22,5,9,0.556,3,3,1.0,2,6,0.333,0.722,0,0,,2,1,3,2,0,0,0,0,13,11.8,A,0,1,tyree-eady-1,Tyree Eady,2019
+17,17,17,2019-01-06,North Dakota State,,Dickinson St,REG (Non-Conf),W 85-53,*,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,1,1,0,0,0,5,5.6,H,1,1,tyree-eady-1,Tyree Eady,2019
+18,18,18,2019-01-10,North Dakota State,,Western Illinois,REG (Conf),W 85-69,,21,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,4,4,1,0,0,1,1,3,2.5,H,1,1,tyree-eady-1,Tyree Eady,2019
+19,19,19,2019-01-16,North Dakota State,@,Denver,REG (Conf),L 65-80,,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,2,3,0,0,0,0,1,2,1.2,A,0,1,tyree-eady-1,Tyree Eady,2019
+20,20,20,2019-01-19,North Dakota State,,North Dakota,REG (Conf),W 67-65,,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,0,1,0,1,0,1,2,8,5.6,H,1,1,tyree-eady-1,Tyree Eady,2019
+21,21,21,2019-01-24,North Dakota State,@,South Dakota State,REG (Conf),L 69-87,,18,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,1,2,3,1,0,0,0,0,7,6.7,A,0,1,tyree-eady-1,Tyree Eady,2019
+22,22,22,2019-01-26,North Dakota State,@,Oral Roberts,REG (Conf),W 67-57,,18,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,2,0,0,1,0,-1.6,A,1,1,tyree-eady-1,Tyree Eady,2019
+23,23,23,2019-02-02,North Dakota State,@,Western Illinois,REG (Conf),W 78-76,,20,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,3,1.0,1,3,4,0,0,0,2,1,10,7.6,A,1,1,tyree-eady-1,Tyree Eady,2019
+24,24,24,2019-02-06,North Dakota State,@,North Dakota,REG (Conf),W 74-70,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,2,2,-0.1,A,1,1,tyree-eady-1,Tyree Eady,2019
+25,25,25,2019-02-09,North Dakota State,,Denver,REG (Conf),W 81-71,,28,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,0,,0,2,2,0,1,0,0,2,16,12.9,H,1,1,tyree-eady-1,Tyree Eady,2019
+26,26,26,2019-02-14,North Dakota State,,Oral Roberts,REG (Conf),W 85-73,,15,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,1,1,2,1,0,0,0,2,10,9.0,H,1,1,tyree-eady-1,Tyree Eady,2019
+27,27,27,2019-02-16,North Dakota State,,South Dakota State,REG (Conf),L 77-78,,21,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,1,2,3,2,2,0,0,0,11,12.4,H,0,1,tyree-eady-1,Tyree Eady,2019
+28,28,28,2019-02-23,North Dakota State,,Omaha,REG (Conf),L 50-58,,22,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,5,5,0,0,0,1,1,3,2.1,H,0,1,tyree-eady-1,Tyree Eady,2019
+29,29,29,2019-02-28,North Dakota State,@,South Dakota,REG (Conf),L 65-75,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,1,0,1,0,3,2.0,A,0,1,tyree-eady-1,Tyree Eady,2019
+30,30,30,2019-03-02,North Dakota State,@,Purdue Fort Wayne,REG (Conf),W 69-66,,13,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,0,1,0,1,0,1,0,7,4.0,A,1,1,tyree-eady-1,Tyree Eady,2019
+31,31,31,2019-03-10,North Dakota State,N,Oral Roberts,CTOURN,W 86-73,,11,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,3,1,0,0,1,5,7.4,N,1,0,tyree-eady-1,Tyree Eady,2019
+32,32,32,2019-03-11,North Dakota State,N,Western Illinois,CTOURN,W 76-73,,10,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,1,1,0,0,0,0,1,8,4.2,N,1,0,tyree-eady-1,Tyree Eady,2019
+33,33,33,2019-03-12,North Dakota State,N,Omaha,CTOURN,W 73-63,,15,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,2,2,1,0,0,0,0,5,6.0,N,1,0,tyree-eady-1,Tyree Eady,2019
+34,34,34,2019-03-20,North Dakota State,N,North Carolina Central,FIRST-FOUR,W 78-74,,11,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,1,0,0,0,0,7,6.8,N,1,0,tyree-eady-1,Tyree Eady,2019
+35,35,35,2019-03-22,North Dakota State,N,Duke,ROUND-64,L 62-85,,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,0,0,0,0,1,4,2.3,N,0,0,tyree-eady-1,Tyree Eady,2019

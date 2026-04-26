@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,Butler,,Kennesaw State,REG (Non-Conf),W 82-64,,24,3,7,0.429,0,0,,3,7,0.429,0.429,1,5,0.2,0,3,3,5,2,0,2,3,7,4.9,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+2,2,2,2017-11-12,Butler,,Princeton,REG (Non-Conf),W 85-75,,31,5,6,0.833,0,0,,5,6,0.833,0.833,5,7,0.714,0,4,4,2,0,0,2,2,15,11.8,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+3,3,3,2017-11-15,Butler,@,Maryland,REG (Non-Conf),L 65-79,,29,1,5,0.2,0,0,,1,5,0.2,0.2,4,4,1.0,1,0,1,6,2,0,2,4,6,6.2,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+4,4,4,2017-11-18,Butler,,Furman,REG (Non-Conf),W 82-65,*,27,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,0,2,2,4,0,0,4,2,0,-2.5,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+5,5,5,2017-11-23,Butler,N,Texas,REG (Non-Conf),L 48-61,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,3,1,1,1,2,4,3.9,N,0,1,aaron-thompson-3,Aaron Thompson,2018
+6,6,6,2017-11-24,Butler,N,Portland State,REG (Non-Conf),W 71-69,*,32,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,0,0,4,1,0,1,1,3,2.6,N,1,1,aaron-thompson-3,Aaron Thompson,2018
+7,7,7,2017-11-26,Butler,N,Ohio State,REG (Non-Conf),W 67-66 (OT),*,29,3,6,0.5,0,0,,3,6,0.5,0.5,1,6,0.167,1,1,2,2,0,1,1,5,7,2.1,N,1,1,aaron-thompson-3,Aaron Thompson,2018
+8,8,8,2017-12-02,Butler,,Saint Louis,REG (Non-Conf),W 75-45,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,0,1,1,5,1,1,2,4,6,4.5,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+9,9,9,2017-12-05,Butler,,Utah,REG (Non-Conf),W 81-69,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,0,1,1,1,0,0,2,3,7,2.4,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+10,10,10,2017-12-09,Butler,,Youngstown State,REG (Non-Conf),W 95-67,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,0,2,0.0,0,1,1,6,3,0,3,2,6,5.2,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+11,11,11,2017-12-16,Butler,N,Purdue,REG (Non-Conf),L 67-82,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,0,0,0,4,1,0,5,5,10,3.5,N,0,1,aaron-thompson-3,Aaron Thompson,2018
+12,12,12,2017-12-19,Butler,,Morehead State,REG (Non-Conf),W 85-69,*,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,5,1,0,0,2,0,3.0,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+13,13,13,2017-12-21,Butler,,Western Illinois,REG (Non-Conf),W 107-46,*,25,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,2,2,4,2,2,2,2,3,5.9,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+14,14,14,2017-12-27,Butler,@,Georgetown,REG (Conf),W 91-89 (2OT),*,22,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,0,0,2,1,1,4,4,3,-1.6,A,1,1,aaron-thompson-3,Aaron Thompson,2018
+15,15,15,2017-12-30,Butler,,Villanova,REG (Conf),W 101-93,*,17,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,1,1,4,0,1,3,4,3,1.5,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+16,16,16,2018-01-02,Butler,@,Xavier,REG (Conf),L 79-86,*,21,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,0,0,0,2,1,0,1,3,1,-2.0,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+17,17,17,2018-01-06,Butler,,Seton Hall,REG (Conf),L 87-90,*,17,0,5,0.0,0,0,,0,5,0.0,0.0,2,2,1.0,0,0,0,3,0,0,1,4,2,-2.0,H,0,1,aaron-thompson-3,Aaron Thompson,2018
+18,18,18,2018-01-09,Butler,@,Creighton,REG (Conf),L 74-85,*,22,5,8,0.625,0,0,,5,8,0.625,0.625,2,3,0.667,0,2,2,3,2,0,0,3,12,11.5,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+19,19,19,2018-01-12,Butler,,Marquette,REG (Conf),W 94-83,*,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,4,1,0,1,4,2,0.8,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+20,20,20,2018-01-15,Butler,@,Providence,REG (Conf),L 60-70,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,2,0,1,2,2,2.6,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+21,21,21,2018-01-20,Butler,@,DePaul,REG (Conf),W 79-67,*,26,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,1,1,8,2,0,3,3,3,5.3,A,1,1,aaron-thompson-3,Aaron Thompson,2018
+22,22,22,2018-01-27,Butler,,St. John's (NY),REG (Conf),W 70-45,*,27,2,5,0.4,1,3,0.333,1,2,0.5,0.5,3,4,0.75,1,1,2,3,2,2,0,3,8,10.2,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+23,23,23,2018-01-31,Butler,@,Marquette,REG (Conf),W 92-72,*,21,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,2,0.0,0,1,1,2,1,0,2,3,11,6.1,A,1,1,aaron-thompson-3,Aaron Thompson,2018
+24,24,24,2018-02-03,Butler,,DePaul,REG (Conf),W 80-57,*,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,1,2,3,2,2,0,2,1,2,2.2,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+25,25,25,2018-02-06,Butler,,Xavier,REG (Conf),L 93-98 (OT),*,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,4,0,0,1,4,0,-1.2,H,0,1,aaron-thompson-3,Aaron Thompson,2018
+26,26,26,2018-02-10,Butler,@,Villanova,REG (Conf),L 75-86,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,2,0,0,2,3,2,-0.2,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+27,27,27,2018-02-13,Butler,,Georgetown,REG (Conf),L 83-87,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,2,0,0,1,5,1,-1.7,H,0,1,aaron-thompson-3,Aaron Thompson,2018
+28,28,28,2018-02-17,Butler,,Providence,REG (Conf),W 69-54,*,33,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,6,0.5,1,7,8,2,2,0,1,3,7,7.1,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+29,29,29,2018-02-20,Butler,,Creighton,REG (Conf),W 93-70,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,0,2,2,1,0,0,0,4,2,-0.8,H,1,1,aaron-thompson-3,Aaron Thompson,2018
+30,30,30,2018-02-28,Butler,@,St. John's (NY),REG (Conf),L 68-75 (2OT),*,27,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,5,3,0,1,3,0,2.8,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+31,31,31,2018-03-03,Butler,@,Seton Hall,REG (Conf),L 70-77,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,0,2,2,2,3,3,0,3,3,6.4,A,0,1,aaron-thompson-3,Aaron Thompson,2018
+32,32,32,2018-03-08,Butler,N,Seton Hall,CTOURN,W 75-74,*,19,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-0.7,N,1,0,aaron-thompson-3,Aaron Thompson,2018
+33,33,33,2018-03-09,Butler,N,Villanova,CTOURN,L 68-87,*,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,2,0,1,1,2,4,3.3,N,0,0,aaron-thompson-3,Aaron Thompson,2018
+34,34,34,2018-03-16,Butler,N,Arkansas,ROUND-64,W 79-62,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,0,2,2,7,3,0,5,3,5,4.9,N,1,0,aaron-thompson-3,Aaron Thompson,2018
+35,35,35,2018-03-18,Butler,N,Purdue,ROUND-32,L 73-76,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,4,0,0,1,2,2,2.7,N,0,0,aaron-thompson-3,Aaron Thompson,2018

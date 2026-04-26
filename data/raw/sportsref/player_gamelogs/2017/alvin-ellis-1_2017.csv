@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,1,2016-11-11,Michigan State,N,Arizona,REG (Non-Conf),L 63-65,,13,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,3,0,0,0,2,3,3.2,N,0,1,alvin-ellis-1,Alvin Ellis III,2017
+2,103,2,2016-11-15,Michigan State,N,Kentucky,REG (Non-Conf),L 48-69,,18,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,2,2,0,0,0,1,1,4,-0.3,N,0,1,alvin-ellis-1,Alvin Ellis III,2017
+3,104,3,2016-11-18,Michigan State,,Mississippi Valley State,REG (Non-Conf),W 100-53,,13,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,1,1,3,1.9,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+4,105,4,2016-11-20,Michigan State,,Florida Gulf Coast,REG (Non-Conf),W 78-77,,5,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,2,1,3,0.3,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+5,106,5,2016-11-23,Michigan State,N,St. John's (NY),REG (Non-Conf),W 73-62,,9,0,2,0.0,0,2,0.0,0,0,,0.0,4,5,0.8,0,3,3,1,0,0,0,0,4,3.8,N,1,1,alvin-ellis-1,Alvin Ellis III,2017
+6,107,6,2016-11-24,Michigan State,N,Baylor,REG (Non-Conf),L 58-73,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,N,0,1,alvin-ellis-1,Alvin Ellis III,2017
+7,108,7,2016-11-25,Michigan State,N,Wichita State,REG (Non-Conf),W 77-72,,12,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,1,0.0,0,3,3,2,1,0,1,2,7,5.8,N,1,1,alvin-ellis-1,Alvin Ellis III,2017
+8,109,8,2016-11-29,Michigan State,@,Duke,REG (Non-Conf),L 69-78,,5,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,0,2,0,0.5,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+9,110,9,2016-12-03,Michigan State,,Oral Roberts,REG (Non-Conf),W 80-76,,13,2,7,0.286,2,6,0.333,0,1,0.0,0.429,2,2,1.0,3,1,4,1,0,0,2,3,8,3.8,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+10,111,10,2016-12-06,Michigan State,,Youngstown State,REG (Non-Conf),W 77-57,,11,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,3,0,0,1,1,3,2.3,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+11,112,11,2016-12-10,Michigan State,,Tennessee Tech,REG (Non-Conf),W 71-63,,20,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,0,2,2,0,2,0,0,1,7,6.8,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+12,113,12,2016-12-18,Michigan State,,Northeastern,REG (Non-Conf),L 73-81,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,2,2,0.2,H,0,1,alvin-ellis-1,Alvin Ellis III,2017
+13,114,13,2016-12-21,Michigan State,,Oakland,REG (Non-Conf),W 77-65,,25,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,1,3,4,1,1,1,1,2,8,8.9,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+14,115,14,2016-12-27,Michigan State,@,Minnesota,REG (Conf),W 75-74 (OT),,36,7,13,0.538,3,7,0.429,4,6,0.667,0.654,3,4,0.75,1,5,6,1,0,2,1,4,20,15.0,A,1,1,alvin-ellis-1,Alvin Ellis III,2017
+15,116,15,2016-12-30,Michigan State,,Northwestern,REG (Conf),W 61-52,,29,4,10,0.4,1,4,0.25,3,6,0.5,0.45,7,10,0.7,1,7,8,0,2,1,2,1,16,12.5,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+16,117,16,2017-01-04,Michigan State,,Rutgers,REG (Conf),W 93-65,,15,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,0,2,1,1,1,5,3.9,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+17,118,17,2017-01-07,Michigan State,N,Penn State,REG (Conf),L 63-72,,14,2,8,0.25,2,4,0.5,0,4,0.0,0.375,0,0,,0,2,2,0,1,0,2,5,6,-1.2,N,0,1,alvin-ellis-1,Alvin Ellis III,2017
+18,119,18,2017-01-11,Michigan State,,Minnesota,REG (Conf),W 65-47,,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,2,1,1,2,1,5,2.6,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+19,120,19,2017-01-15,Michigan State,@,Ohio State,REG (Conf),L 67-72,,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,3,0.667,0,3,3,1,0,0,1,2,7,3.7,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+20,121,20,2017-01-21,Michigan State,@,Indiana,REG (Conf),L 75-82,,12,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,1,1,1,1,0,1,2,5,3.8,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+21,122,21,2017-01-24,Michigan State,,Purdue,REG (Conf),L 73-84,,21,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,1,2,3,2,0,1,0,4,6,3.7,H,0,1,alvin-ellis-1,Alvin Ellis III,2017
+22,123,22,2017-01-29,Michigan State,,Michigan,REG (Conf),W 70-62,,25,1,2,0.5,1,2,0.5,0,0,,0.75,3,4,0.75,1,2,3,3,1,0,2,3,6,5.8,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+23,124,23,2017-02-02,Michigan State,@,Nebraska,REG (Conf),W 72-61,,18,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,1,3,4,1,1,0,3,2,11,8.6,A,1,1,alvin-ellis-1,Alvin Ellis III,2017
+24,125,24,2017-02-07,Michigan State,@,Michigan,REG (Conf),L 57-86,,22,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,4,0.5,1,4,5,2,0,0,0,2,9,7.7,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+25,126,25,2017-02-11,Michigan State,,Iowa,REG (Conf),W 77-66,,23,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,1,0.0,2,1,3,3,1,0,2,2,3,1.5,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+26,127,26,2017-02-14,Michigan State,,Ohio State,REG (Conf),W 74-66,,27,6,11,0.545,6,9,0.667,0,2,0.0,0.818,0,0,,1,6,7,1,2,0,2,1,18,15.5,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+27,128,27,2017-02-18,Michigan State,@,Purdue,REG (Conf),L 63-80,,27,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,2,3,5,1,2,0,2,2,10,8.2,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+28,129,28,2017-02-23,Michigan State,,Nebraska,REG (Conf),W 88-72,*,28,1,6,0.167,0,3,0.0,1,3,0.333,0.167,5,6,0.833,0,6,6,2,1,1,3,3,7,3.5,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+29,130,29,2017-02-26,Michigan State,,Wisconsin,REG (Conf),W 84-74,*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,1,0,2,4,2,-1.0,H,1,1,alvin-ellis-1,Alvin Ellis III,2017
+30,131,30,2017-03-01,Michigan State,@,Illinois,REG (Conf),L 70-73,*,35,6,10,0.6,3,6,0.5,3,4,0.75,0.75,0,0,,1,2,3,1,1,1,3,2,15,10.3,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+31,132,31,2017-03-04,Michigan State,@,Maryland,REG (Conf),L 60-63,*,36,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,1,2,3,4,0,1,0,0,4,5.7,A,0,1,alvin-ellis-1,Alvin Ellis III,2017
+32,133,32,2017-03-09,Michigan State,N,Penn State,CTOURN,W 78-51,*,19,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,4,4,1,0,2,1,4,5,0.2,N,1,0,alvin-ellis-1,Alvin Ellis III,2017
+33,134,33,2017-03-10,Michigan State,N,Minnesota,CTOURN,L 58-63,*,29,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,3,0.667,4,0,4,1,0,1,4,1,4,2.4,N,0,0,alvin-ellis-1,Alvin Ellis III,2017
+34,135,34,2017-03-17,Michigan State,N,Miami (FL),ROUND-64,W 78-58,*,30,3,9,0.333,0,5,0.0,3,4,0.75,0.333,1,1,1.0,1,6,7,1,0,0,3,1,7,1.7,N,1,0,alvin-ellis-1,Alvin Ellis III,2017
+35,136,35,2017-03-19,Michigan State,N,Kansas,ROUND-32,L 70-90,*,17,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,1,1,0,2,2,2,-2.6,N,0,0,alvin-ellis-1,Alvin Ellis III,2017

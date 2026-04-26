@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,1,2015-11-13,Hawaii,,Montana State,REG (Non-Conf),W 87-76,,11,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,0,3,3,0,0,0,2,4,5,1.3,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+2,46,2,2015-11-15,Hawaii,N,Coastal Carolina,REG (Non-Conf),W 74-63,,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,1,2,2,-0.2,N,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+3,47,3,2015-11-16,Hawaii,,Nevada,REG (Non-Conf),W 76-75,,23,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,1,1,2,0,0,3,0,3,2,0.8,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+4,48,4,2015-11-22,Hawaii,,Nicholls State,REG (Non-Conf),W 99-74,,19,6,6,1.0,0,0,6,6,1.0,1.0,1,2,0.5,1,1,2,0,0,0,0,3,13,10.6,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+5,49,5,2015-11-28,Hawaii,@,Texas Tech,REG (Non-Conf),L 74-82,,22,0,6,0.0,0,0,0,6,0.0,0.0,0,0,,1,8,9,0,0,2,0,3,0,-0.9,A,0,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+6,50,6,2015-12-02,Hawaii,,Arkansas–Pine Bluff,REG (Non-Conf),W 75-47,,8,3,3,1.0,0,0,3,3,1.0,1.0,0,1,0.0,0,2,2,0,0,2,1,1,6,5.3,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+7,51,7,2015-12-08,Hawaii,,Hawaii Hilo,REG (Non-Conf),W 86-67,,21,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,1,2,3,1,0,0,2,2,10,7.7,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+8,52,8,2015-12-12,Hawaii,,Hawaii Pacific,REG (Non-Conf),W 83-71,,12,0,3,0.0,0,0,0,3,0.0,0.0,2,2,1.0,0,3,3,0,0,1,1,1,2,0.1,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+9,53,9,2015-12-22,Hawaii,,Northern Iowa,REG (Non-Conf),W 68-52,,28,5,8,0.625,0,0,5,8,0.625,0.625,1,1,1.0,1,8,9,0,0,4,2,0,11,11.3,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+10,54,10,2015-12-23,Hawaii,,Oklahoma,REG (Non-Conf),L 81-84,,13,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,2,1,3,0,2,0,0,2,8,8.6,H,0,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+11,55,11,2015-12-25,Hawaii,,Auburn,REG (Non-Conf),W 79-67,,17,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,3,3,6,0,0,2,3,3,4,0.1,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+12,56,12,2015-12-29,Hawaii,,Mississippi Valley State,REG (Non-Conf),W 77-48,,20,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,5,6,1,1,3,1,2,6,7.9,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+13,57,13,2016-01-02,Hawaii,,Howard,REG (Non-Conf),W 94-59,,18,2,3,0.667,0,0,2,3,0.667,0.667,5,7,0.714,1,2,3,1,0,1,1,0,9,8.6,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+14,58,14,2016-01-06,Hawaii,,Cal Poly,REG (Conf),W 86-73,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,0,4,4,1,0,0,0,3,2,2.0,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+15,59,15,2016-01-09,Hawaii,,UC Santa Barbara,REG (Conf),W 65-57,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,0,0,2,1,1,2,2.6,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+16,60,16,2016-01-14,Hawaii,@,UC Riverside,REG (Conf),W 80-71,,19,3,8,0.375,0,0,3,8,0.375,0.375,1,2,0.5,3,4,7,0,1,1,2,3,7,4.0,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+17,61,17,2016-01-16,Hawaii,@,Cal State Fullerton,REG (Conf),W 86-79 (OT),,16,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,4,5,0,0,0,1,2,4,2.8,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+18,62,18,2016-01-23,Hawaii,,UC Davis,REG (Conf),W 78-62,,14,1,1,1.0,0,0,1,1,1.0,1.0,4,4,1.0,0,4,4,1,0,1,1,1,6,6.9,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+19,63,19,2016-01-30,Hawaii,,Long Beach State,REG (Conf),L 64-78,,13,1,2,0.5,0,0,1,2,0.5,0.5,4,4,1.0,1,3,4,0,0,2,1,1,6,6.6,H,0,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+20,64,20,2016-02-04,Hawaii,@,UC Santa Barbara,REG (Conf),W 76-64,,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,2,2,1,1,0,2,3,4,2.5,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+21,65,21,2016-02-06,Hawaii,@,Cal Poly,REG (Conf),W 75-60,,11,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,4,4,0,0,0,1,2,2,1.1,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+22,66,22,2016-02-11,Hawaii,,UC Irvine,REG (Conf),W 74-52,,27,3,8,0.375,0,0,3,8,0.375,0.375,0,2,0.0,1,5,6,0,1,2,2,3,6,2.2,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+23,67,23,2016-02-13,Hawaii,,Cal State Fullerton,REG (Conf),W 76-59,,13,1,2,0.5,0,0,1,2,0.5,0.5,4,4,1.0,0,4,4,0,1,0,1,2,6,5.4,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+24,68,24,2016-02-18,Hawaii,@,Cal State Northridge,REG (Conf),W 69-63,,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+25,69,25,2016-02-20,Hawaii,@,UC Irvine,REG (Conf),W 75-71,,11,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,3,2,5,1,0,0,2,1,0,-1.1,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+26,70,26,2016-02-25,Hawaii,,UC Riverside,REG (Conf),L 71-77,,12,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,2,1,1,0,1.0,H,0,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+27,71,27,2016-02-27,Hawaii,,Cal State Northridge,REG (Conf),W 89-78,,8,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,0,3,3,0,0,0,1,1,6,4.2,H,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+28,72,28,2016-03-03,Hawaii,@,UC Davis,REG (Conf),W 67-65,,22,3,8,0.375,0,0,3,8,0.375,0.375,1,1,1.0,1,5,6,1,0,1,0,0,7,6.2,A,1,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+29,73,29,2016-03-05,Hawaii,@,Long Beach State,REG (Conf),L 72-74,,11,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,3,3,0,0,0,3,3,4,0.1,A,0,1,stefan-jovanovic-1,Stefan Jovanovic,2016
+30,74,30,2016-03-10,Hawaii,N,Cal State Fullerton,CTOURN,W 75-44,,20,3,6,0.5,0,0,3,6,0.5,0.5,1,3,0.333,1,5,6,0,1,2,0,2,7,7.0,N,1,0,stefan-jovanovic-1,Stefan Jovanovic,2016
+31,75,31,2016-03-11,Hawaii,N,UC Santa Barbara,CTOURN,W 88-76,,9,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,1,2,0,0,1,0,0,5,5.0,N,1,0,stefan-jovanovic-1,Stefan Jovanovic,2016
+32,76,32,2016-03-12,Hawaii,N,Long Beach State,CTOURN,W 64-60,,17,3,5,0.6,0,0,3,5,0.6,0.6,3,3,1.0,1,5,6,0,0,2,0,0,9,10.3,N,1,0,stefan-jovanovic-1,Stefan Jovanovic,2016
+33,77,33,2016-03-18,Hawaii,N,California,ROUND-64,W 77-66,,28,1,5,0.2,0,0,1,5,0.2,0.2,1,2,0.5,0,1,1,1,0,1,1,4,3,-1.4,N,1,0,stefan-jovanovic-1,Stefan Jovanovic,2016
+34,78,34,2016-03-20,Hawaii,N,Maryland,ROUND-32,L 60-73,,10,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,3,2,5,0,0,0,2,0,2,0.3,N,0,0,stefan-jovanovic-1,Stefan Jovanovic,2016

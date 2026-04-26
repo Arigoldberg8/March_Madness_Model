@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2022-11-07,UCLA,,Sacramento State,REG (Non-Conf),W 76-50,*,27,6,14,0.429,2,4,0.5,4,10,0.4,0.5,0,0,,0,1,1,4,1,0,0,2,14,9.9,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+2,98,2,2022-11-11,UCLA,,Long Beach State,REG (Non-Conf),W 93-69,*,26,7,14,0.5,2,6,0.333,5,8,0.625,0.571,2,2,1.0,0,1,1,2,0,0,2,3,18,9.5,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+3,99,3,2022-11-14,UCLA,,Norfolk State,REG (Non-Conf),W 86-56,*,28,5,11,0.455,1,5,0.2,4,6,0.667,0.5,0,0,,1,0,1,7,3,0,0,0,11,13.9,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+4,100,4,2022-11-18,UCLA,N,Illinois,REG (Non-Conf),L 70-79,*,37,9,23,0.391,4,9,0.444,5,14,0.357,0.478,0,0,,2,0,2,4,3,0,5,1,22,11.3,N,0,1,tyger-campbell-1,Tyger Campbell,2023
+5,101,5,2022-11-20,UCLA,N,Baylor,REG (Non-Conf),L 75-80,*,34,5,15,0.333,0,3,0.0,5,12,0.417,0.333,2,2,1.0,0,4,4,6,1,0,2,2,12,7.1,N,0,1,tyger-campbell-1,Tyger Campbell,2023
+6,102,6,2022-11-23,UCLA,,Pepperdine,REG (Non-Conf),W 100-53,*,23,4,10,0.4,1,6,0.167,3,4,0.75,0.45,2,2,1.0,1,1,2,1,0,0,2,2,11,4.5,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+7,103,7,2022-11-27,UCLA,,Bellarmine,REG (Non-Conf),W 81-60,*,28,2,8,0.25,1,4,0.25,1,4,0.25,0.313,5,6,0.833,0,2,2,10,2,0,2,3,10,11.2,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+8,104,8,2022-12-01,UCLA,@,Stanford,REG (Conf),W 80-66,*,37,6,13,0.462,3,4,0.75,3,9,0.333,0.577,2,2,1.0,0,2,2,8,1,0,4,1,17,13.1,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+9,105,9,2022-12-04,UCLA,,Oregon,REG (Conf),W 65-56,*,36,4,15,0.267,2,4,0.5,2,11,0.182,0.333,0,0,,2,3,5,2,0,0,3,0,10,1.8,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+10,106,10,2022-12-10,UCLA,,Denver,REG (Non-Conf),W 87-64,*,23,3,10,0.3,0,5,0.0,3,5,0.6,0.3,1,2,0.5,1,3,4,4,0,0,0,1,7,4.8,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+11,107,11,2022-12-14,UCLA,@,Maryland,REG (Non-Conf),W 87-60,*,16,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,0,1,1,1,2,0,0,3,9,8.5,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+12,108,12,2022-12-17,UCLA,N,Kentucky,REG (Non-Conf),W 63-53,*,35,7,17,0.412,0,2,0.0,7,15,0.467,0.412,1,1,1.0,0,3,3,2,1,0,2,1,15,6.8,N,1,1,tyger-campbell-1,Tyger Campbell,2023
+13,109,13,2022-12-21,UCLA,,UC Davis,REG (Non-Conf),W 81-54,*,31,6,10,0.6,1,2,0.5,5,8,0.625,0.65,4,6,0.667,0,2,2,5,1,0,1,1,17,15.3,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+14,110,14,2022-12-30,UCLA,@,Washington State,REG (Conf),W 67-66,*,37,5,15,0.333,2,3,0.667,3,12,0.25,0.4,4,4,1.0,1,1,2,2,2,0,2,2,16,9.1,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+15,111,15,2023-01-01,UCLA,@,Washington,REG (Conf),W 74-49,*,32,5,11,0.455,4,7,0.571,1,4,0.25,0.636,1,1,1.0,0,3,3,11,0,0,2,0,15,15.9,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+16,112,16,2023-01-05,UCLA,,Southern California,REG (Conf),W 60-58,*,31,3,14,0.214,2,7,0.286,1,7,0.143,0.286,0,0,,2,2,4,5,1,0,0,3,8,4.7,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+17,113,17,2023-01-12,UCLA,,Utah,REG (Conf),W 68-49,*,36,7,14,0.5,3,6,0.5,4,8,0.5,0.607,0,2,0.0,1,1,2,7,0,0,2,1,17,12.7,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+18,114,18,2023-01-14,UCLA,,Colorado,REG (Conf),W 68-54,*,38,4,15,0.267,1,6,0.167,3,9,0.333,0.3,2,2,1.0,1,4,5,3,2,0,2,1,11,5.7,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+19,115,19,2023-01-19,UCLA,@,Arizona State,REG (Conf),W 74-62,*,34,7,11,0.636,0,1,0.0,7,10,0.7,0.636,8,9,0.889,2,1,3,1,1,0,2,1,22,17.7,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+20,116,20,2023-01-21,UCLA,@,Arizona,REG (Conf),L 52-58,*,37,5,18,0.278,2,4,0.5,3,14,0.214,0.333,1,2,0.5,1,1,2,7,0,0,2,2,13,5.1,A,0,1,tyger-campbell-1,Tyger Campbell,2023
+21,117,21,2023-01-26,UCLA,@,Southern California,REG (Conf),L 64-77,*,38,4,10,0.4,2,3,0.667,2,7,0.286,0.5,4,4,1.0,0,1,1,7,2,0,4,1,14,11.4,A,0,1,tyger-campbell-1,Tyger Campbell,2023
+22,118,22,2023-02-02,UCLA,,Washington,REG (Conf),W 70-61,*,32,4,8,0.5,1,5,0.2,3,3,1.0,0.563,2,2,1.0,0,1,1,5,2,0,5,2,11,7.0,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+23,119,23,2023-02-04,UCLA,,Washington State,REG (Conf),W 76-52,*,30,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,1,0.0,0,3,3,9,0,0,2,1,4,3.6,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+24,120,24,2023-02-09,UCLA,@,Oregon State,REG (Conf),W 62-47,*,27,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,2,2,5,1,0,1,0,3,3.3,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+25,121,25,2023-02-11,UCLA,@,Oregon,REG (Conf),W 70-63,*,39,4,15,0.267,1,4,0.25,3,11,0.273,0.3,0,1,0.0,0,1,1,4,1,0,0,0,9,3.8,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+26,122,26,2023-02-16,UCLA,,Stanford,REG (Conf),W 73-64,*,24,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,2,1.0,0,2,2,2,0,0,1,1,7,3.5,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+27,123,27,2023-02-18,UCLA,,California,REG (Conf),W 78-43,*,24,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,1,2,5,1,0,1,1,7,7.4,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+28,124,28,2023-02-23,UCLA,@,Utah,REG (Conf),W 78-71,*,30,6,12,0.5,3,4,0.75,3,8,0.375,0.625,3,4,0.75,0,2,2,5,2,0,1,2,18,15.9,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+29,125,29,2023-02-26,UCLA,@,Colorado,REG (Conf),W 60-56,*,37,5,12,0.417,1,3,0.333,4,9,0.444,0.458,3,4,0.75,0,6,6,3,3,0,1,1,14,12.7,A,1,1,tyger-campbell-1,Tyger Campbell,2023
+30,126,30,2023-03-02,UCLA,,Arizona State,REG (Conf),W 79-61,*,35,5,11,0.455,2,5,0.4,3,6,0.5,0.545,6,6,1.0,0,3,3,4,3,0,1,2,18,17.2,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+31,127,31,2023-03-04,UCLA,,Arizona,REG (Conf),W 82-73,*,37,5,15,0.333,0,3,0.0,5,12,0.417,0.333,11,12,0.917,1,4,5,4,1,0,2,0,21,15.8,H,1,1,tyger-campbell-1,Tyger Campbell,2023
+32,128,32,2023-03-09,UCLA,N,Colorado,CTOURN,W 80-69,*,33,4,11,0.364,1,4,0.25,3,7,0.429,0.409,9,10,0.9,0,2,2,7,3,0,1,1,18,18.6,N,1,0,tyger-campbell-1,Tyger Campbell,2023
+33,129,33,2023-03-10,UCLA,N,Oregon,CTOURN,W 75-56,*,35,11,21,0.524,4,8,0.5,7,13,0.538,0.619,2,2,1.0,0,3,3,6,1,0,0,0,28,23.8,N,1,0,tyger-campbell-1,Tyger Campbell,2023
+34,130,34,2023-03-11,UCLA,N,Arizona,CTOURN,L 59-61,*,37,5,14,0.357,1,4,0.25,4,10,0.4,0.393,5,7,0.714,0,4,4,2,0,0,0,0,16,10.0,N,0,0,tyger-campbell-1,Tyger Campbell,2023
+35,131,35,2023-03-16,UCLA,N,UNC Asheville,ROUND-64,W 86-53,*,26,2,9,0.222,1,3,0.333,1,6,0.167,0.278,2,2,1.0,0,3,3,10,1,0,2,0,7,8.4,N,1,0,tyger-campbell-1,Tyger Campbell,2023
+36,132,36,2023-03-18,UCLA,N,Northwestern,ROUND-32,W 68-63,*,39,0,7,0.0,0,2,0.0,0,5,0.0,0.0,12,12,1.0,0,3,3,7,2,0,0,1,12,14.5,N,1,0,tyger-campbell-1,Tyger Campbell,2023
+37,133,37,2023-03-23,UCLA,N,Gonzaga,ROUND-16,L 76-79,*,38,5,16,0.313,1,5,0.2,4,11,0.364,0.344,3,4,0.75,0,2,2,9,2,0,1,0,14,12.3,N,0,0,tyger-campbell-1,Tyger Campbell,2023

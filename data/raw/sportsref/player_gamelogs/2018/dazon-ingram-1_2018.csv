@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,42,1,2017-11-10,Alabama,N,Memphis,REG (Non-Conf),W 82-70,*,33,4,10,0.4,1,3,0.333,3,7,0.429,0.45,11,15,0.733,0,5,5,5,1,0,3,4,20,14.4,N,1,1,dazon-ingram-1,Dazon Ingram,2018
+2,43,2,2017-11-14,Alabama,,Lipscomb,REG (Non-Conf),W 86-64,*,27,6,8,0.75,0,0,,6,8,0.75,0.75,1,3,0.333,0,7,7,5,1,1,4,2,13,11.5,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+3,44,3,2017-11-17,Alabama,,Alabama A&M,REG (Non-Conf),W 104-67,*,22,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,3,0.333,1,5,6,4,1,1,3,3,10,9.1,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+4,45,4,2017-11-21,Alabama,,UT Arlington,REG (Non-Conf),W 77-76,*,29,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,8,0.5,1,3,4,1,1,1,2,1,6,3.6,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+5,46,5,2017-11-24,Alabama,N,Brigham Young,REG (Non-Conf),W 71-59,*,31,5,9,0.556,0,2,0.0,5,7,0.714,0.556,3,4,0.75,1,2,3,3,0,0,1,2,13,9.9,N,1,1,dazon-ingram-1,Dazon Ingram,2018
+6,47,6,2017-11-25,Alabama,N,Minnesota,REG (Non-Conf),L 84-89,,25,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,2,2,3,1,1,2,5,4,1.3,N,0,1,dazon-ingram-1,Dazon Ingram,2018
+7,48,7,2017-11-29,Alabama,,Louisiana Tech,REG (Non-Conf),W 77-74,*,32,4,7,0.571,1,1,1.0,3,6,0.5,0.643,13,17,0.765,1,8,9,0,0,0,3,2,22,16.4,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+8,49,8,2017-12-03,Alabama,,UCF,REG (Non-Conf),L 62-65,*,33,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,5,7,4,0,0,3,3,6,4.1,H,0,1,dazon-ingram-1,Dazon Ingram,2018
+9,50,9,2017-12-06,Alabama,,Rhode Island,REG (Non-Conf),W 68-64,*,37,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,11,0.545,3,11,14,2,0,0,4,3,10,6.2,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+10,51,10,2017-12-09,Alabama,@,Arizona,REG (Non-Conf),L 82-88,*,34,2,10,0.2,1,2,0.5,1,8,0.125,0.25,5,6,0.833,0,7,7,6,2,0,0,4,10,10.1,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+11,52,11,2017-12-19,Alabama,N,Mercer,REG (Non-Conf),W 80-79,*,30,3,10,0.3,0,4,0.0,3,6,0.5,0.3,5,6,0.833,3,5,8,1,2,0,2,5,11,7.1,N,1,1,dazon-ingram-1,Dazon Ingram,2018
+12,53,12,2017-12-22,Alabama,N,Texas,REG (Non-Conf),L 50-66,*,34,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,2,1.0,0,8,8,3,1,0,2,0,6,4.7,N,0,1,dazon-ingram-1,Dazon Ingram,2018
+13,54,13,2017-12-30,Alabama,,Texas A&M,REG (Conf),W 79-57,*,30,5,12,0.417,1,6,0.167,4,6,0.667,0.458,5,6,0.833,0,6,6,3,3,0,3,3,16,11.9,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+14,55,14,2018-01-02,Alabama,@,Vanderbilt,REG (Conf),L 75-76,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,6,0.833,0,6,6,2,0,3,2,1,9,9.5,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+15,56,16,2018-01-09,Alabama,,South Carolina,REG (Conf),W 76-62,,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,3,3,2,0,0,1,1,4,2.5,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+16,57,17,2018-01-13,Alabama,@,Louisiana State,REG (Conf),W 74-66,*,32,4,5,0.8,0,1,0.0,4,4,1.0,0.8,10,10,1.0,0,10,10,3,3,1,1,2,18,23.1,A,1,1,dazon-ingram-1,Dazon Ingram,2018
+17,58,18,2018-01-17,Alabama,,Auburn,REG (Conf),W 76-71,*,35,3,10,0.3,0,1,0.0,3,9,0.333,0.3,10,13,0.769,0,3,3,2,2,0,5,3,16,7.1,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+18,59,19,2018-01-20,Alabama,,Mississippi State,REG (Conf),W 68-62,*,29,0,2,0.0,0,0,,0,2,0.0,0.0,7,10,0.7,1,7,8,6,1,0,3,4,7,7.8,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+19,60,20,2018-01-23,Alabama,@,Ole Miss,REG (Conf),L 66-78,*,26,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,4,1.0,2,6,8,5,0,0,2,3,10,9.1,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+20,61,21,2018-01-27,Alabama,,Oklahoma,REG (Non-Conf),W 80-73,*,25,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,4,0.75,0,3,3,3,1,0,1,3,8,7.4,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+21,62,22,2018-01-31,Alabama,,Missouri,REG (Conf),L 60-69,*,33,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,5,0.6,0,4,4,1,1,1,0,3,10,8.6,H,0,1,dazon-ingram-1,Dazon Ingram,2018
+22,63,23,2018-02-03,Alabama,@,Florida,REG (Conf),W 68-50,*,32,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,3,0.0,0,7,7,1,1,0,4,1,8,2.9,A,1,1,dazon-ingram-1,Dazon Ingram,2018
+23,64,24,2018-02-06,Alabama,@,Mississippi State,REG (Conf),L 63-67,*,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,4,2,0,-5.2,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+24,65,25,2018-02-10,Alabama,,Tennessee,REG (Conf),W 78-50,*,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,4,4,2,1,0,1,2,6,5.5,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+25,66,26,2018-02-13,Alabama,,Louisiana State,REG (Conf),W 80-65,*,25,2,5,0.4,2,3,0.667,0,2,0.0,0.6,1,2,0.5,0,2,2,3,0,0,0,0,7,6.6,H,1,1,dazon-ingram-1,Dazon Ingram,2018
+26,67,27,2018-02-17,Alabama,@,Kentucky,REG (Conf),L 71-81,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,2,1,3,2,0,0,1,3,9,6.6,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+27,68,28,2018-02-21,Alabama,@,Auburn,REG (Conf),L 71-90,*,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,6,0.667,1,5,6,2,1,0,2,4,9,6.5,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+28,69,29,2018-02-24,Alabama,,Arkansas,REG (Conf),L 73-76,*,30,4,7,0.571,2,5,0.4,2,2,1.0,0.714,3,4,0.75,0,2,2,2,1,2,3,4,13,9.1,H,0,1,dazon-ingram-1,Dazon Ingram,2018
+29,70,30,2018-02-27,Alabama,,Florida,REG (Conf),L 52-73,*,26,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,2,3,5,0,2,0,3,2,8,5.1,H,0,1,dazon-ingram-1,Dazon Ingram,2018
+30,71,31,2018-03-03,Alabama,@,Texas A&M,REG (Conf),L 66-68,*,27,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,3,1,4,2,0,0,1,5,8,4.4,A,0,1,dazon-ingram-1,Dazon Ingram,2018
+31,72,32,2018-03-08,Alabama,N,Texas A&M,CTOURN,W 71-70,*,29,5,12,0.417,1,3,0.333,4,9,0.444,0.458,2,5,0.4,4,5,9,3,2,0,4,3,13,8.6,N,1,0,dazon-ingram-1,Dazon Ingram,2018
+32,73,33,2018-03-09,Alabama,N,Auburn,CTOURN,W 81-63,*,32,4,7,0.571,1,2,0.5,3,5,0.6,0.643,5,8,0.625,1,6,7,5,0,0,3,4,14,10.9,N,1,0,dazon-ingram-1,Dazon Ingram,2018
+33,74,34,2018-03-10,Alabama,N,Kentucky,CTOURN,L 63-86,*,30,2,10,0.2,0,3,0.0,2,7,0.286,0.2,0,1,0.0,1,4,5,0,0,0,0,2,4,-1.5,N,0,0,dazon-ingram-1,Dazon Ingram,2018
+34,75,35,2018-03-15,Alabama,N,Virginia Tech,ROUND-64,W 86-83,*,26,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,8,0.5,2,5,7,4,1,1,3,4,9,7.5,N,1,0,dazon-ingram-1,Dazon Ingram,2018
+35,76,36,2018-03-17,Alabama,N,Villanova,ROUND-32,L 58-81,*,29,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,5,7,2,0,0,3,0,4,1.9,N,0,0,dazon-ingram-1,Dazon Ingram,2018

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2016-11-11,Oklahoma State,,Campbell,REG (Non-Conf),W 102-65,*,27,11,18,0.611,2,2,1.0,9,16,0.563,0.667,10,11,0.909,2,4,6,3,5,0,2,2,34,32.3,H,1,1,jawun-evans-1,Jawun Evans,2017
+2,24,2,2016-11-14,Oklahoma State,,Central Arkansas,REG (Non-Conf),W 102-90,*,30,8,11,0.727,0,0,,8,11,0.727,0.727,7,10,0.7,1,4,5,8,3,1,3,3,23,24.3,H,1,1,jawun-evans-1,Jawun Evans,2017
+3,25,3,2016-11-16,Oklahoma State,,New Orleans,REG (Non-Conf),W 117-72,*,20,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,0,1,1,8,1,0,1,1,13,14.2,H,1,1,jawun-evans-1,Jawun Evans,2017
+4,26,4,2016-11-21,Oklahoma State,N,Connecticut,REG (Non-Conf),W 98-90,*,31,10,26,0.385,3,5,0.6,7,21,0.333,0.442,12,17,0.706,1,3,4,6,5,0,1,4,35,27.0,N,1,1,jawun-evans-1,Jawun Evans,2017
+5,27,5,2016-11-22,Oklahoma State,N,North Carolina,REG (Non-Conf),L 75-107,*,27,13,25,0.52,2,5,0.4,11,20,0.55,0.56,2,4,0.5,1,1,2,1,1,0,3,1,30,16.2,N,0,1,jawun-evans-1,Jawun Evans,2017
+6,28,6,2016-11-23,Oklahoma State,N,Georgetown,REG (Non-Conf),W 97-70,*,28,5,15,0.333,1,2,0.5,4,13,0.308,0.367,2,2,1.0,0,0,0,6,2,0,1,0,13,9.7,N,1,1,jawun-evans-1,Jawun Evans,2017
+7,29,7,2016-11-30,Oklahoma State,,Rogers St.,REG (Non-Conf),W 101-85,*,27,7,16,0.438,1,2,0.5,6,14,0.429,0.469,10,11,0.909,1,3,4,4,5,0,3,3,25,21.4,H,1,1,jawun-evans-1,Jawun Evans,2017
+8,30,8,2016-12-03,Oklahoma State,@,Maryland,REG (Non-Conf),L 70-71,*,33,7,17,0.412,0,1,0.0,7,16,0.438,0.412,2,3,0.667,2,3,5,5,2,0,2,2,16,11.5,A,0,1,jawun-evans-1,Jawun Evans,2017
+9,31,10,2016-12-14,Oklahoma State,,Arkansas–Pine Bluff,REG (Non-Conf),W 102-66,*,22,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,0,,0,1,1,2,0,1,4,1,5,0.3,H,1,1,jawun-evans-1,Jawun Evans,2017
+10,32,11,2016-12-17,Oklahoma State,@,Wichita State,REG (Non-Conf),W 93-76,*,24,9,16,0.563,3,5,0.6,6,11,0.545,0.656,1,2,0.5,3,2,5,4,3,1,4,2,22,18.4,A,1,1,jawun-evans-1,Jawun Evans,2017
+11,33,12,2016-12-22,Oklahoma State,,Texas A&M–Corpus Christi,REG (Non-Conf),W 92-70,*,17,1,6,0.167,0,0,,1,6,0.167,0.167,4,4,1.0,0,1,1,4,1,0,3,4,6,1.7,H,1,1,jawun-evans-1,Jawun Evans,2017
+12,34,13,2016-12-30,Oklahoma State,,West Virginia,REG (Conf),L 75-92,*,32,3,9,0.333,0,2,0.0,3,7,0.429,0.333,9,14,0.643,1,1,2,11,0,0,5,3,15,10.4,H,0,1,jawun-evans-1,Jawun Evans,2017
+13,35,14,2017-01-04,Oklahoma State,@,Texas,REG (Conf),L 79-82,*,30,5,10,0.5,2,3,0.667,3,7,0.429,0.6,7,7,1.0,0,3,3,4,1,0,5,5,19,11.7,A,0,1,jawun-evans-1,Jawun Evans,2017
+14,36,15,2017-01-07,Oklahoma State,@,Baylor,REG (Conf),L 57-61,*,24,2,12,0.167,1,3,0.333,1,9,0.111,0.208,3,5,0.6,2,1,3,5,1,0,3,4,8,1.2,A,0,1,jawun-evans-1,Jawun Evans,2017
+15,37,16,2017-01-11,Oklahoma State,,Iowa State,REG (Conf),L 86-96,*,26,4,14,0.286,0,3,0.0,4,11,0.364,0.286,4,4,1.0,0,1,1,7,1,0,3,3,12,5.8,H,0,1,jawun-evans-1,Jawun Evans,2017
+16,38,17,2017-01-14,Oklahoma State,@,Kansas,REG (Conf),L 80-87,*,34,6,22,0.273,0,2,0.0,6,20,0.3,0.273,3,3,1.0,0,1,1,6,2,1,4,4,15,3.6,A,0,1,jawun-evans-1,Jawun Evans,2017
+17,39,18,2017-01-18,Oklahoma State,,Kansas State,REG (Conf),L 88-96,*,26,7,17,0.412,1,4,0.25,6,13,0.462,0.441,5,5,1.0,0,0,0,7,3,0,3,4,20,14.2,H,0,1,jawun-evans-1,Jawun Evans,2017
+18,40,19,2017-01-21,Oklahoma State,@,Texas Tech,REG (Conf),W 83-64,*,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,0,2,2,3,2,0,2,4,7,5.0,A,1,1,jawun-evans-1,Jawun Evans,2017
+19,41,20,2017-01-23,Oklahoma State,,TCU,REG (Conf),W 89-76,*,35,11,17,0.647,2,4,0.5,9,13,0.692,0.706,3,3,1.0,0,2,2,8,1,0,1,1,27,25.3,H,1,1,jawun-evans-1,Jawun Evans,2017
+20,42,21,2017-01-28,Oklahoma State,,Arkansas,REG (Non-Conf),W 99-71,*,29,4,8,0.5,1,2,0.5,3,6,0.5,0.563,7,8,0.875,2,5,7,8,1,0,1,1,16,19.7,H,1,1,jawun-evans-1,Jawun Evans,2017
+21,43,22,2017-01-30,Oklahoma State,@,Oklahoma,REG (Conf),W 68-66,*,35,5,20,0.25,3,7,0.429,2,13,0.154,0.325,11,16,0.688,1,4,5,4,3,0,5,0,24,12.7,A,1,1,jawun-evans-1,Jawun Evans,2017
+22,44,23,2017-02-04,Oklahoma State,@,West Virginia,REG (Conf),W 82-75,*,33,6,7,0.857,0,0,,6,7,0.857,0.857,6,7,0.857,1,3,4,5,2,0,4,3,18,17.0,A,1,1,jawun-evans-1,Jawun Evans,2017
+23,45,24,2017-02-08,Oklahoma State,,Baylor,REG (Conf),L 69-72,*,30,7,17,0.412,0,4,0.0,7,13,0.538,0.412,2,2,1.0,1,4,5,6,2,0,3,2,16,11.2,H,0,1,jawun-evans-1,Jawun Evans,2017
+24,46,25,2017-02-11,Oklahoma State,,Texas,REG (Conf),W 84-71,*,33,6,15,0.4,0,0,,6,15,0.4,0.4,0,1,0.0,1,6,7,6,0,0,2,2,12,7.4,H,1,1,jawun-evans-1,Jawun Evans,2017
+25,47,26,2017-02-15,Oklahoma State,@,TCU,REG (Conf),W 71-68,*,35,8,17,0.471,0,3,0.0,8,14,0.571,0.471,0,0,,0,4,4,12,1,0,3,1,16,14.5,A,1,1,jawun-evans-1,Jawun Evans,2017
+26,48,27,2017-02-18,Oklahoma State,,Oklahoma,REG (Conf),W 96-92,*,33,11,23,0.478,2,7,0.286,9,16,0.563,0.522,3,6,0.5,3,1,4,9,4,0,1,0,27,25.8,H,1,1,jawun-evans-1,Jawun Evans,2017
+27,49,28,2017-02-22,Oklahoma State,@,Kansas State,REG (Conf),W 80-68,*,27,4,16,0.25,2,5,0.4,2,11,0.182,0.313,11,12,0.917,0,4,4,9,1,0,2,2,21,16.7,A,1,1,jawun-evans-1,Jawun Evans,2017
+28,50,29,2017-02-25,Oklahoma State,,Texas Tech,REG (Conf),W 80-63,*,29,5,9,0.556,0,2,0.0,5,7,0.714,0.556,5,5,1.0,0,3,3,6,2,0,4,2,15,13.0,H,1,1,jawun-evans-1,Jawun Evans,2017
+29,51,30,2017-02-28,Oklahoma State,@,Iowa State,REG (Conf),L 83-86,*,34,8,15,0.533,4,6,0.667,4,9,0.444,0.667,9,9,1.0,0,4,4,6,0,0,4,1,29,22.7,A,0,1,jawun-evans-1,Jawun Evans,2017
+30,52,31,2017-03-04,Oklahoma State,,Kansas,REG (Conf),L 85-90,*,36,7,18,0.389,1,6,0.167,6,12,0.5,0.417,7,7,1.0,0,4,4,15,1,0,3,4,22,20.3,H,0,1,jawun-evans-1,Jawun Evans,2017
+31,53,32,2017-03-09,Oklahoma State,N,Iowa State,CTOURN,L 83-92,*,36,12,21,0.571,2,3,0.667,10,18,0.556,0.619,3,4,0.75,1,3,4,4,1,0,1,2,29,22.3,N,0,0,jawun-evans-1,Jawun Evans,2017
+32,54,33,2017-03-17,Oklahoma State,N,Michigan,ROUND-64,L 91-92,*,36,10,26,0.385,1,3,0.333,9,23,0.391,0.404,2,3,0.667,0,7,7,12,0,0,4,3,23,13.7,N,0,0,jawun-evans-1,Jawun Evans,2017

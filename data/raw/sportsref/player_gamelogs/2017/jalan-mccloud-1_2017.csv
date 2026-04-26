@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-12,Texas Southern,@,UT Arlington,REG (Non-Conf),L 82-89,*,27,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,1,2,3,2,1,0,0,2,3,1.7,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+2,2,2,2016-11-13,Texas Southern,@,Delaware State,REG (Non-Conf),W 74-61,,28,6,16,0.375,2,8,0.25,4,8,0.5,0.438,0,0,,2,2,4,6,0,0,3,2,14,7.6,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+3,3,3,2016-11-16,Texas Southern,@,Rice,REG (Non-Conf),W 71-68,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,1,2,0,1,2,0,-0.9,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+4,4,4,2016-11-19,Texas Southern,@,La Salle,REG (Non-Conf),W 77-76,,6,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,0,1,2,0.2,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+5,5,5,2016-11-21,Texas Southern,@,James Madison,REG (Non-Conf),W 67-56,,2,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,1,1,2,0,1,0,0,2,0.6,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+6,6,6,2016-11-27,Texas Southern,@,Louisiana,REG (Non-Conf),L 73-84,,3,0,0,,0,0,,0,0,,,0,2,0.0,0,2,2,0,0,0,0,0,0,-0.2,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+7,7,7,2016-11-30,Texas Southern,@,Arizona,REG (Non-Conf),L 63-85,,27,5,9,0.556,3,4,0.75,2,5,0.4,0.722,1,2,0.5,0,2,2,2,0,0,2,0,14,9.3,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+8,8,8,2016-12-03,Texas Southern,@,Southern Illinois,REG (Non-Conf),L 70-74,,23,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,2,3,2,0,1,1,4,8,6.5,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+9,9,9,2016-12-10,Texas Southern,@,Louisville,REG (Non-Conf),L 71-102,,12,0,1,0.0,0,1,0.0,0,0,,0.0,5,5,1.0,0,0,0,0,1,0,0,1,5,4.9,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+10,10,10,2016-12-13,Texas Southern,@,Cincinnati,REG (Non-Conf),L 58-96,,23,2,9,0.222,0,2,0.0,2,7,0.286,0.222,5,5,1.0,1,1,2,0,0,0,0,0,9,4.5,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+11,11,11,2016-12-17,Texas Southern,@,Louisiana State,REG (Non-Conf),L 80-88,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+12,12,12,2016-12-18,Texas Southern,@,TCU,REG (Non-Conf),L 59-96,,25,5,10,0.5,0,3,0.0,5,7,0.714,0.5,3,4,0.75,0,1,1,0,2,0,1,0,13,8.9,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+13,13,13,2016-12-21,Texas Southern,@,Baylor,REG (Non-Conf),L 63-89,,3,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+14,14,14,2017-01-02,Texas Southern,@,Alcorn State,REG (Conf),W 67-65,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,2,1,3,0,0,0,0,1,2,1.2,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+15,15,15,2017-01-04,Texas Southern,@,Southern,REG (Conf),W 82-74,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,0,2,0,2,2,4,2.5,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+16,16,16,2017-01-07,Texas Southern,@,Prairie View A&M,REG (Conf),W 87-82,,29,2,4,0.5,0,2,0.0,2,2,1.0,0.5,12,12,1.0,1,4,5,2,1,1,1,4,16,16.4,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+17,17,17,2017-01-14,Texas Southern,,Grambling State,REG (Conf),W 76-55,*,33,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,3,0.667,0,2,2,2,3,0,2,1,10,8.2,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+18,18,18,2017-01-16,Texas Southern,,Jackson State,REG (Conf),W 67-44,*,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,2,2,1,1,0,0,0,4,3.9,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+19,19,19,2017-01-21,Texas Southern,@,Arkansas–Pine Bluff,REG (Conf),W 70-63,*,27,4,6,0.667,0,0,,4,6,0.667,0.667,7,9,0.778,2,4,6,2,0,0,1,1,15,14.2,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+20,20,20,2017-01-23,Texas Southern,@,Mississippi Valley State,REG (Conf),L 89-103 (OT),*,25,2,7,0.286,0,3,0.0,2,4,0.5,0.286,8,8,1.0,1,2,3,0,0,1,0,5,12,7.9,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+21,21,21,2017-01-28,Texas Southern,,Alabama State,REG (Conf),W 70-68,*,26,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,1,1,2,2,0,0,0,1,6,3.6,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+22,22,22,2017-01-30,Texas Southern,,Alabama A&M,REG (Conf),W 92-47,*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,1,1,2,1,0,0,0,1,5,3.2,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+23,23,23,2017-02-04,Texas Southern,,Prairie View A&M,REG (Conf),W 74-61,*,27,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,0,0,0,2,1,0,1,2,8,4.6,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+24,24,24,2017-02-11,Texas Southern,@,Grambling State,REG (Conf),W 77-70,,23,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,1,3,4,1,0,0,1,2,10,8.9,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+25,25,25,2017-02-13,Texas Southern,@,Jackson State,REG (Conf),L 62-71,*,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,5,1.0,0,2,2,2,1,0,0,2,10,10.2,A,0,1,jalan-mccloud-1,Jalan McCloud,2017
+26,26,26,2017-02-18,Texas Southern,,Arkansas–Pine Bluff,REG (Conf),W 78-40,,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,7,7,1.0,1,2,3,1,0,1,1,0,11,9.3,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+27,27,27,2017-02-20,Texas Southern,,Mississippi Valley State,REG (Conf),W 92-61,,26,9,15,0.6,6,10,0.6,3,5,0.6,0.8,1,2,0.5,1,1,2,1,4,2,1,2,25,23.0,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+28,28,28,2017-02-25,Texas Southern,@,Alabama State,REG (Conf),W 86-73,*,39,7,12,0.583,2,6,0.333,5,6,0.833,0.667,6,7,0.857,0,3,3,0,2,0,1,2,22,17.1,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+29,29,29,2017-02-27,Texas Southern,@,Alabama A&M,REG (Conf),W 74-64,*,30,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,0,3,3,0,1,0,1,2,7,2.3,A,1,1,jalan-mccloud-1,Jalan McCloud,2017
+30,30,30,2017-03-02,Texas Southern,,Alcorn State,REG (Conf),W 94-88 (OT),*,36,4,9,0.444,2,5,0.4,2,4,0.5,0.556,5,6,0.833,1,3,4,2,0,1,0,2,15,12.8,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+31,31,31,2017-03-04,Texas Southern,,Southern,REG (Conf),W 82-69,*,34,8,11,0.727,5,6,0.833,3,5,0.6,0.955,2,2,1.0,0,4,4,2,2,1,2,3,23,20.6,H,1,1,jalan-mccloud-1,Jalan McCloud,2017
+32,32,32,2017-03-07,Texas Southern,,Alabama State,CTOURN,W 87-72,*,27,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,2,1,3,2,2,0,0,2,5,4.5,H,1,0,jalan-mccloud-1,Jalan McCloud,2017
+33,33,33,2017-03-10,Texas Southern,N,Grambling State,CTOURN,W 62-57,*,33,6,9,0.667,1,2,0.5,5,7,0.714,0.722,4,6,0.667,0,6,6,0,4,0,4,2,17,13.3,N,1,0,jalan-mccloud-1,Jalan McCloud,2017
+34,34,34,2017-03-11,Texas Southern,N,Alcorn State,CTOURN,W 53-50,*,27,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,1,2,3,2,2,0,2,0,0,-1.5,N,1,0,jalan-mccloud-1,Jalan McCloud,2017
+35,35,35,2017-03-17,Texas Southern,N,North Carolina,ROUND-64,L 64-103,*,8,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,3,0,-2.6,N,0,0,jalan-mccloud-1,Jalan McCloud,2017

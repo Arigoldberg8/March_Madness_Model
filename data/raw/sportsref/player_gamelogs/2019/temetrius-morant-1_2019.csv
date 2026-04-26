@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2018-11-10,Murray State,,Wright State,REG (Non-Conf),W 73-54,*,37,10,17,0.588,2,6,0.333,8,11,0.727,0.647,4,5,0.8,1,4,5,11,1,1,7,2,26,21.2,H,1,1,temetrius-morant-1,Ja Morant,2019
+2,34,2,2018-11-16,Murray State,,Spalding,REG (Non-Conf),W 106-36,*,16,7,9,0.778,0,1,0.0,7,8,0.875,0.778,4,4,1.0,0,3,3,8,5,1,2,1,18,24.3,H,1,1,temetrius-morant-1,Ja Morant,2019
+3,35,3,2018-11-24,Murray State,,Missouri State,REG (Non-Conf),W 77-66,*,40,9,18,0.5,6,12,0.5,3,6,0.5,0.667,5,6,0.833,1,12,13,12,1,1,7,3,29,25.8,H,1,1,temetrius-morant-1,Ja Morant,2019
+4,36,4,2018-11-26,Murray State,@,Alabama,REG (Non-Conf),L 72-78,*,40,16,29,0.552,0,4,0.0,16,25,0.64,0.552,6,8,0.75,4,5,9,5,1,0,10,2,38,21.3,A,0,1,temetrius-morant-1,Ja Morant,2019
+5,37,5,2018-12-01,Murray State,,Prairie View A&M,REG (Non-Conf),W 83-67,*,39,6,12,0.5,1,4,0.25,5,8,0.625,0.542,12,14,0.857,3,8,11,6,1,0,4,1,25,23.5,H,1,1,temetrius-morant-1,Ja Morant,2019
+6,38,6,2018-12-08,Murray State,@,Middle Tennessee,REG (Non-Conf),W 64-42,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,1,2,3,7,2,0,4,0,9,8.8,A,1,1,temetrius-morant-1,Ja Morant,2019
+7,39,7,2018-12-12,Murray State,@,Southern Illinois,REG (Non-Conf),W 80-52,*,36,8,12,0.667,2,3,0.667,6,9,0.667,0.75,5,5,1.0,1,4,5,13,3,0,3,1,23,28.4,A,1,1,temetrius-morant-1,Ja Morant,2019
+8,40,8,2018-12-15,Murray State,,Jackson State,REG (Non-Conf),W 74-57,*,36,4,11,0.364,0,2,0.0,4,9,0.444,0.364,2,4,0.5,1,4,5,14,2,0,4,3,10,11.6,H,1,1,temetrius-morant-1,Ja Morant,2019
+9,41,9,2018-12-18,Murray State,,Evansville,REG (Non-Conf),W 66-64,*,40,10,25,0.4,0,4,0.0,10,21,0.476,0.4,7,11,0.636,3,5,8,10,1,2,3,2,27,21.1,H,1,1,temetrius-morant-1,Ja Morant,2019
+10,42,10,2018-12-22,Murray State,@,Auburn,REG (Non-Conf),L 88-93,*,39,7,14,0.5,1,6,0.167,6,8,0.75,0.536,10,11,0.909,2,6,8,7,1,1,5,0,25,22.4,A,0,1,temetrius-morant-1,Ja Morant,2019
+11,43,11,2018-12-29,Murray State,,Bethel (TN),REG (Non-Conf),W 110-82,*,31,8,14,0.571,1,4,0.25,7,10,0.7,0.607,6,9,0.667,0,4,4,13,4,1,4,1,23,25.8,H,1,1,temetrius-morant-1,Ja Morant,2019
+12,44,12,2019-01-03,Murray State,,Morehead State,REG (Conf),W 90-69,*,33,6,8,0.75,2,2,1.0,4,6,0.667,0.875,2,3,0.667,0,6,6,13,1,1,5,1,16,19.6,H,1,1,temetrius-morant-1,Ja Morant,2019
+13,45,13,2019-01-05,Murray State,,Eastern Kentucky,REG (Conf),W 97-85,*,40,12,24,0.5,2,6,0.333,10,18,0.556,0.542,8,12,0.667,2,6,8,10,2,1,10,3,34,22.1,H,1,1,temetrius-morant-1,Ja Morant,2019
+14,46,14,2019-01-10,Murray State,@,UT Martin,REG (Conf),W 98-77,*,39,9,14,0.643,2,6,0.333,7,8,0.875,0.714,6,7,0.857,2,2,4,18,0,0,5,2,26,28.2,A,1,1,temetrius-morant-1,Ja Morant,2019
+15,47,15,2019-01-12,Murray State,@,Southeast Missouri State,REG (Conf),W 85-67,*,37,6,11,0.545,0,2,0.0,6,9,0.667,0.545,5,6,0.833,1,2,3,14,0,1,6,1,17,16.7,A,1,1,temetrius-morant-1,Ja Morant,2019
+16,48,16,2019-01-17,Murray State,@,Eastern Illinois,REG (Conf),W 83-61,*,37,11,16,0.688,4,5,0.8,7,11,0.636,0.813,1,2,0.5,0,3,3,10,1,1,3,3,27,25.2,A,1,1,temetrius-morant-1,Ja Morant,2019
+17,49,17,2019-01-19,Murray State,@,SIU Edwardsville,REG (Conf),W 82-72,*,40,8,17,0.471,3,9,0.333,5,8,0.625,0.559,21,21,1.0,1,2,3,11,5,0,3,3,40,41.1,A,1,1,temetrius-morant-1,Ja Morant,2019
+18,50,18,2019-01-24,Murray State,,Belmont,REG (Conf),L 66-79,*,37,5,19,0.263,2,7,0.286,3,12,0.25,0.316,8,12,0.667,0,4,4,9,2,1,5,3,20,11.1,H,0,1,temetrius-morant-1,Ja Morant,2019
+19,51,19,2019-01-26,Murray State,,Tennessee State,REG (Conf),W 100-62,*,28,6,15,0.4,1,4,0.25,5,11,0.455,0.433,11,14,0.786,1,1,2,9,4,0,2,1,24,23.6,H,1,1,temetrius-morant-1,Ja Morant,2019
+20,52,20,2019-01-31,Murray State,@,Jacksonville State,REG (Conf),L 68-88,*,38,7,18,0.389,1,7,0.143,6,11,0.545,0.417,7,7,1.0,1,5,6,11,0,1,7,4,22,14.2,A,0,1,temetrius-morant-1,Ja Morant,2019
+21,53,21,2019-02-02,Murray State,@,Tennessee Tech,REG (Conf),W 67-63,*,40,9,17,0.529,1,2,0.5,8,15,0.533,0.559,9,11,0.818,2,2,4,7,5,0,9,1,28,21.4,A,1,1,temetrius-morant-1,Ja Morant,2019
+22,54,22,2019-02-07,Murray State,,Eastern Illinois,REG (Conf),W 86-75,*,40,7,19,0.368,4,9,0.444,3,10,0.3,0.474,5,6,0.833,0,2,2,11,3,0,6,1,23,17.0,H,1,1,temetrius-morant-1,Ja Morant,2019
+23,55,23,2019-02-09,Murray State,,SIU Edwardsville,REG (Conf),W 86-55,*,36,7,15,0.467,1,5,0.2,6,10,0.6,0.5,5,6,0.833,1,4,5,6,1,1,4,2,20,14.9,H,1,1,temetrius-morant-1,Ja Morant,2019
+24,56,24,2019-02-14,Murray State,@,Austin Peay,REG (Conf),W 73-71,*,40,10,24,0.417,1,4,0.25,9,20,0.45,0.438,11,13,0.846,2,4,6,7,1,2,6,1,32,21.9,A,1,1,temetrius-morant-1,Ja Morant,2019
+25,57,25,2019-02-16,Murray State,@,Eastern Kentucky,REG (Conf),W 102-70,*,38,9,17,0.529,2,5,0.4,7,12,0.583,0.588,5,6,0.833,1,7,8,14,3,1,9,0,25,23.6,A,1,1,temetrius-morant-1,Ja Morant,2019
+26,58,26,2019-02-21,Murray State,,UT Martin,REG (Conf),W 85-75,*,40,9,14,0.643,3,6,0.5,6,8,0.75,0.75,9,11,0.818,0,1,1,9,2,1,3,1,30,28.9,H,1,1,temetrius-morant-1,Ja Morant,2019
+27,59,27,2019-02-23,Murray State,,Southeast Missouri State,REG (Conf),W 103-67,*,32,9,12,0.75,1,2,0.5,8,10,0.8,0.792,4,5,0.8,2,2,4,12,2,3,3,0,23,29.3,H,1,1,temetrius-morant-1,Ja Morant,2019
+28,60,28,2019-02-28,Murray State,@,Morehead State,REG (Conf),W 71-52,*,30,3,11,0.273,2,6,0.333,1,5,0.2,0.364,3,4,0.75,1,9,10,10,0,1,5,1,11,9.8,A,1,1,temetrius-morant-1,Ja Morant,2019
+29,61,29,2019-03-02,Murray State,,Austin Peay,REG (Conf),W 94-83,*,40,8,22,0.364,2,5,0.4,6,17,0.353,0.409,9,10,0.9,1,5,6,13,0,2,3,2,27,23.3,H,1,1,temetrius-morant-1,Ja Morant,2019
+30,62,30,2019-03-08,Murray State,N,Jacksonville State,CTOURN,W 76-74,*,40,9,14,0.643,1,4,0.25,8,10,0.8,0.679,10,15,0.667,0,6,6,8,1,0,7,1,29,21.8,N,1,0,temetrius-morant-1,Ja Morant,2019
+31,63,31,2019-03-09,Murray State,N,Belmont,CTOURN,W 77-65,*,40,13,25,0.52,1,4,0.25,12,21,0.571,0.54,9,9,1.0,3,4,7,3,1,2,7,1,36,24.1,N,1,0,temetrius-morant-1,Ja Morant,2019
+32,64,32,2019-03-21,Murray State,N,Marquette,ROUND-64,W 83-64,*,39,5,9,0.556,2,2,1.0,3,7,0.429,0.667,5,5,1.0,0,11,11,16,0,0,7,0,17,20.2,N,1,0,temetrius-morant-1,Ja Morant,2019
+33,65,33,2019-03-23,Murray State,N,Florida State,ROUND-32,L 62-90,*,38,8,21,0.381,5,6,0.833,3,15,0.2,0.5,7,9,0.778,2,3,5,4,2,1,2,0,28,21.5,N,0,0,temetrius-morant-1,Ja Morant,2019

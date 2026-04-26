@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2010-11-12,VCU,,UNC Greensboro,REG (Non-Conf),W 101-86,*,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,3,0.333,0,1,1,4,2,0,1,2,5,6.2,H,1,1,darius-theus-1,Darius Theus,2011
+2,36,2,2010-11-15,VCU,N,Winthrop,REG (Non-Conf),W 67-54,,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,2,2,2,0,0,0,2,5,4.9,N,1,1,darius-theus-1,Darius Theus,2011
+3,37,3,2010-11-16,VCU,@,Wake Forest,REG (Non-Conf),W 90-69,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,0,3,3,4,3,0,0,2,5,8.8,A,1,1,darius-theus-1,Darius Theus,2011
+4,38,4,2010-11-24,VCU,N,Tennessee,REG (Non-Conf),L 72-77,,11,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,2,1,0,3,4,4,1.5,N,0,1,darius-theus-1,Darius Theus,2011
+5,39,5,2010-11-26,VCU,N,UCLA,REG (Non-Conf),W 89-85,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,1,1,1,1,0,0,2,4,3.5,N,1,1,darius-theus-1,Darius Theus,2011
+6,40,6,2010-12-01,VCU,@,South Florida,REG (Non-Conf),L 59-60 (OT),,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,2,0,0,0,1,0,-0.4,A,0,1,darius-theus-1,Darius Theus,2011
+7,41,7,2010-12-04,VCU,,William & Mary,REG (Conf),W 59-55,,14,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,0,0,1,3,0,-0.8,H,1,1,darius-theus-1,Darius Theus,2011
+8,42,8,2010-12-08,VCU,,VMI,REG (Non-Conf),W 86-80,,25,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,1,1,6,3,0,3,2,3,3.9,H,1,1,darius-theus-1,Darius Theus,2011
+9,43,9,2010-12-11,VCU,@,Richmond,REG (Non-Conf),L 60-72,,17,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,0,1,1,0,2,0,2,5,7,3.3,A,0,1,darius-theus-1,Darius Theus,2011
+10,44,10,2010-12-18,VCU,,Tulane,REG (Non-Conf),W 70-67,*,24,0,0,,0,0,,0,0,,,5,6,0.833,1,1,2,5,2,0,1,2,5,9.3,H,1,1,darius-theus-1,Darius Theus,2011
+11,45,11,2010-12-21,VCU,@,UAB,REG (Non-Conf),L 65-68,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,2,2,4,2,0,3,5,2,-0.7,A,0,1,darius-theus-1,Darius Theus,2011
+12,46,12,2010-12-29,VCU,,Wofford,REG (Non-Conf),W 75-66,*,30,2,6,0.333,2,2,1.0,0,4,0.0,0.5,1,2,0.5,0,4,4,4,3,1,2,3,7,7.7,H,1,1,darius-theus-1,Darius Theus,2011
+13,47,13,2010-12-30,VCU,,New Hampshire,REG (Non-Conf),W 78-65,*,15,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,2,0,1,4,0,0.7,H,1,1,darius-theus-1,Darius Theus,2011
+14,48,14,2011-01-03,VCU,@,Georgia State,REG (Conf),L 66-76,*,27,1,6,0.167,0,3,0.0,1,3,0.333,0.167,8,8,1.0,2,1,3,3,1,0,4,3,10,5.8,A,0,1,darius-theus-1,Darius Theus,2011
+15,49,15,2011-01-05,VCU,,Drexel,REG (Conf),W 52-48,*,14,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,1,0,1,0,1,1,0,1,1,-0.2,H,1,1,darius-theus-1,Darius Theus,2011
+16,50,16,2011-01-08,VCU,@,UNC Wilmington,REG (Conf),W 82-64,*,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,1,2,3,3,1,1,1,4,3,2.3,A,1,1,darius-theus-1,Darius Theus,2011
+17,51,17,2011-01-12,VCU,@,William & Mary,REG (Conf),W 70-52,*,28,1,6,0.167,0,1,0.0,1,5,0.2,0.167,5,7,0.714,0,3,3,6,5,2,1,2,7,12.1,A,1,1,darius-theus-1,Darius Theus,2011
+18,52,18,2011-01-15,VCU,,Northeastern,REG (Conf),W 73-64,,20,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,5,2,0,1,1,4,6.4,H,1,1,darius-theus-1,Darius Theus,2011
+19,53,19,2011-01-19,VCU,,Georgia State,REG (Conf),W 71-54,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,3,0.0,1,3,4,2,2,0,3,5,4,0.8,H,1,1,darius-theus-1,Darius Theus,2011
+20,54,20,2011-01-22,VCU,@,Old Dominion,REG (Conf),W 59-50,,11,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,1,1,0,1,1,1,0,0,-1.8,A,1,1,darius-theus-1,Darius Theus,2011
+21,55,21,2011-01-24,VCU,@,Towson,REG (Conf),W 80-76,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,1,2,1,0,0,2,3,3,-0.2,A,1,1,darius-theus-1,Darius Theus,2011
+22,56,22,2011-01-27,VCU,,Hofstra,REG (Conf),W 82-67,,15,1,2,0.5,0,0,,1,2,0.5,0.5,3,3,1.0,0,1,1,2,0,0,1,4,5,3.1,H,1,1,darius-theus-1,Darius Theus,2011
+23,57,23,2011-01-29,VCU,,UNC Wilmington,REG (Conf),W 79-70,,31,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,2,1,3,7,3,0,1,3,5,7.9,H,1,1,darius-theus-1,Darius Theus,2011
+24,58,24,2011-02-02,VCU,@,Northeastern,REG (Conf),L 80-91,,22,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,3,0,0,4,1,4,-0.7,A,0,1,darius-theus-1,Darius Theus,2011
+25,59,25,2011-02-05,VCU,@,James Madison,REG (Conf),W 70-66,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,2,0,2,2,2,0.9,A,1,1,darius-theus-1,Darius Theus,2011
+26,60,26,2011-02-09,VCU,@,Delaware,REG (Conf),W 84-74 (2OT),,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,1,0,2,1,1,0,1.6,A,1,1,darius-theus-1,Darius Theus,2011
+27,61,27,2011-02-12,VCU,,Old Dominion,REG (Conf),L 59-70,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,1,0,0,1,2,3,0.5,H,0,1,darius-theus-1,Darius Theus,2011
+28,62,28,2011-02-15,VCU,,George Mason,REG (Conf),L 51-71,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,1,0,2,2,4,1.9,H,0,1,darius-theus-1,Darius Theus,2011
+29,63,29,2011-02-18,VCU,@,Wichita State,REG (Non-Conf),W 68-67,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,0,0,-2.4,A,1,1,darius-theus-1,Darius Theus,2011
+30,64,30,2011-02-23,VCU,@,Drexel,REG (Conf),L 60-64,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,A,0,1,darius-theus-1,Darius Theus,2011
+31,65,31,2011-02-26,VCU,,James Madison,REG (Conf),L 69-72,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,3,0,-1.2,H,0,1,darius-theus-1,Darius Theus,2011
+32,66,32,2011-03-05,VCU,N,Drexel,CTOURN,W 62-60,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.1,N,1,0,darius-theus-1,Darius Theus,2011
+33,67,33,2011-03-06,VCU,N,George Mason,CTOURN,W 79-63,,12,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,1,0,0,0,1,4,4.6,N,1,0,darius-theus-1,Darius Theus,2011
+34,68,34,2011-03-07,VCU,N,Old Dominion,CTOURN,L 65-70,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,N,0,0,darius-theus-1,Darius Theus,2011
+35,69,35,2011-03-16,VCU,N,Southern California,FIRST-FOUR,W 59-46,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,1,0,-0.4,N,1,0,darius-theus-1,Darius Theus,2011
+36,70,36,2011-03-18,VCU,N,Georgetown,ROUND-64,W 74-56,,12,0,0,,0,0,,0,0,,,1,6,0.167,0,0,0,0,0,0,0,2,1,-1.8,N,1,0,darius-theus-1,Darius Theus,2011
+37,71,37,2011-03-20,VCU,N,Purdue,ROUND-32,W 94-76,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,3,0,0,1,1,2,2.7,N,1,0,darius-theus-1,Darius Theus,2011
+38,72,38,2011-03-25,VCU,N,Florida State,ROUND-16,W 72-71 (OT),,22,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,1,5,6,2,0,0,6,3,8,2.5,N,1,0,darius-theus-1,Darius Theus,2011
+39,73,39,2011-03-27,VCU,N,Kansas,ROUND-8,W 71-61,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,2,0,0,1,2,2,1.6,N,1,0,darius-theus-1,Darius Theus,2011
+40,74,40,2011-04-02,VCU,N,Butler,NATIONAL-SEMI,L 62-70,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,1,0,0,1,4,2,-0.7,N,0,0,darius-theus-1,Darius Theus,2011

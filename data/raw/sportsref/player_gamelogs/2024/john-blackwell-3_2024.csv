@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Wisconsin,,Arkansas State,REG (Non-Conf),W 105-76,,15,3,3,1.0,1,1,1.0,2,2,1.0,1.167,5,7,0.714,1,3,4,0,1,0,1,0,12,11.9,H,1,1,john-blackwell-3,John Blackwell,2024
+2,2,2,2023-11-10,Wisconsin,,Tennessee,REG (Non-Conf),L 70-80,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,0,1,john-blackwell-3,John Blackwell,2024
+3,3,3,2023-11-14,Wisconsin,@,Providence,REG (Non-Conf),L 59-72,,25,5,10,0.5,1,3,0.333,4,7,0.571,0.55,0,0,,2,3,5,0,0,0,0,1,11,7.9,A,0,1,john-blackwell-3,John Blackwell,2024
+4,4,4,2023-11-17,Wisconsin,,Robert Morris,REG (Non-Conf),W 78-68,,18,4,5,0.8,2,3,0.667,2,2,1.0,1.0,8,10,0.8,0,2,2,1,2,0,0,2,18,17.8,H,1,1,john-blackwell-3,John Blackwell,2024
+5,5,5,2023-11-20,Wisconsin,N,Virginia,REG (Non-Conf),W 65-41,,18,2,7,0.286,2,3,0.667,0,4,0.0,0.429,4,4,1.0,1,3,4,0,0,0,0,2,10,6.7,N,1,1,john-blackwell-3,John Blackwell,2024
+6,6,6,2023-11-22,Wisconsin,N,SMU,REG (Non-Conf),W 69-61,,22,3,8,0.375,0,3,0.0,3,5,0.6,0.375,4,4,1.0,3,6,9,2,1,0,2,1,10,9.5,N,1,1,john-blackwell-3,John Blackwell,2024
+7,7,7,2023-11-27,Wisconsin,,Western Illinois,REG (Non-Conf),W 71-49,,18,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,0,0,0,0,2,5,2.9,H,1,1,john-blackwell-3,John Blackwell,2024
+8,8,8,2023-12-02,Wisconsin,,Marquette,REG (Non-Conf),W 75-64,,11,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,0,1,1,0,0,0,1,2,6,3.5,H,1,1,john-blackwell-3,John Blackwell,2024
+9,9,9,2023-12-05,Wisconsin,@,Michigan State,REG (Conf),W 70-57,,20,2,4,0.5,0,2,0.0,2,2,1.0,0.5,6,6,1.0,3,1,4,1,0,0,1,0,10,10.1,A,1,1,john-blackwell-3,John Blackwell,2024
+10,10,10,2023-12-09,Wisconsin,@,Arizona,REG (Non-Conf),L 73-98,,26,6,12,0.5,4,5,0.8,2,7,0.286,0.667,1,2,0.5,1,6,7,2,0,0,0,2,17,13.7,A,0,1,john-blackwell-3,John Blackwell,2024
+11,11,11,2023-12-14,Wisconsin,,Jacksonville State,REG (Non-Conf),W 75-60,,25,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,1,1,2,2,1,0,1,3,7,4.5,H,1,1,john-blackwell-3,John Blackwell,2024
+12,12,12,2023-12-22,Wisconsin,,Chicago State,REG (Non-Conf),W 80-53,,14,1,5,0.2,0,3,0.0,1,2,0.5,0.2,4,4,1.0,0,9,9,0,1,1,1,3,6,5.1,H,1,1,john-blackwell-3,John Blackwell,2024
+13,13,13,2024-01-02,Wisconsin,,Iowa,REG (Conf),W 83-72,,24,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,6,0.5,1,3,4,1,1,0,3,2,5,0.2,H,1,1,john-blackwell-3,John Blackwell,2024
+14,14,14,2024-01-06,Wisconsin,,Nebraska,REG (Conf),W 88-72,,19,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,1,1.0,0,3,3,0,0,0,2,0,12,7.3,H,1,1,john-blackwell-3,John Blackwell,2024
+15,15,15,2024-01-10,Wisconsin,@,Ohio State,REG (Conf),W 71-60,,11,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,1,0,0,0,0,3,2.3,A,1,1,john-blackwell-3,John Blackwell,2024
+16,16,16,2024-01-13,Wisconsin,,Northwestern,REG (Conf),W 71-63,,17,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,0,3,3,1,0,0,1,2,5,2.7,H,1,1,john-blackwell-3,John Blackwell,2024
+17,17,17,2024-01-16,Wisconsin,@,Penn State,REG (Conf),L 83-87,,23,3,8,0.375,1,2,0.5,2,6,0.333,0.438,7,8,0.875,1,1,2,0,0,0,0,3,14,9.0,A,0,1,john-blackwell-3,John Blackwell,2024
+18,18,18,2024-01-19,Wisconsin,,Indiana,REG (Conf),W 91-79,,20,4,6,0.667,2,2,1.0,2,4,0.5,0.833,2,2,1.0,0,4,4,0,0,0,2,3,12,7.4,H,1,1,john-blackwell-3,John Blackwell,2024
+19,19,19,2024-01-23,Wisconsin,@,Minnesota,REG (Conf),W 61-59,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,1,2,-0.5,A,1,1,john-blackwell-3,John Blackwell,2024
+20,20,20,2024-01-26,Wisconsin,,Michigan State,REG (Conf),W 81-66,,12,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,1,1,2,2,0,0,1,3,5,3.2,H,1,1,john-blackwell-3,John Blackwell,2024
+21,21,21,2024-02-01,Wisconsin,@,Nebraska,REG (Conf),L 72-80 (OT),,18,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,3,3,1,0,0,2,1,3,1.2,A,0,1,john-blackwell-3,John Blackwell,2024
+22,22,22,2024-02-04,Wisconsin,,Purdue,REG (Conf),L 69-75,,14,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,1,0,0,1,1,5,3.2,H,0,1,john-blackwell-3,John Blackwell,2024
+23,23,23,2024-02-07,Wisconsin,@,Michigan,REG (Conf),L 68-72,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,1,1,0,1,0,0,1,3,1.8,A,0,1,john-blackwell-3,John Blackwell,2024
+24,24,26,2024-02-17,Wisconsin,@,Iowa,REG (Conf),L 86-88 (OT),,13,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,1,0,0,1,1,4,2.0,A,0,1,john-blackwell-3,John Blackwell,2024
+25,25,27,2024-02-20,Wisconsin,,Maryland,REG (Conf),W 74-70,,14,1,2,0.5,0,0,,1,2,0.5,0.5,7,8,0.875,0,2,2,0,0,1,1,5,9,5.9,H,1,1,john-blackwell-3,John Blackwell,2024
+26,26,28,2024-02-27,Wisconsin,@,Indiana,REG (Conf),L 70-74,,23,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,1,2,3,1,1,0,0,2,11,9.6,A,0,1,john-blackwell-3,John Blackwell,2024
+27,27,29,2024-03-02,Wisconsin,,Illinois,REG (Conf),L 83-91,,24,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,3,3,0,0,0,0,5,7,1.5,H,0,1,john-blackwell-3,John Blackwell,2024
+28,28,30,2024-03-07,Wisconsin,,Rutgers,REG (Conf),W 78-66,,26,3,6,0.5,2,3,0.667,1,3,0.333,0.667,9,10,0.9,1,7,8,0,2,0,1,0,17,17.4,H,1,1,john-blackwell-3,John Blackwell,2024
+29,29,31,2024-03-10,Wisconsin,@,Purdue,REG (Conf),L 70-78,,28,7,10,0.7,2,3,0.667,5,7,0.714,0.8,2,4,0.5,2,2,4,0,1,0,2,1,18,13.6,A,0,1,john-blackwell-3,John Blackwell,2024
+30,30,32,2024-03-14,Wisconsin,N,Maryland,CTOURN,W 87-56,,23,6,11,0.545,4,6,0.667,2,5,0.4,0.727,2,2,1.0,1,4,5,0,0,0,0,1,18,14.2,N,1,0,john-blackwell-3,John Blackwell,2024
+31,31,33,2024-03-15,Wisconsin,N,Northwestern,CTOURN,W 70-61,*,24,1,8,0.125,1,4,0.25,0,4,0.0,0.188,0,0,,1,2,3,2,2,0,1,5,3,-0.5,N,1,0,john-blackwell-3,John Blackwell,2024
+32,32,34,2024-03-16,Wisconsin,N,Purdue,CTOURN,W 76-75 (OT),,16,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,1,0.0,1,2,3,0,1,0,1,2,0,-2.7,N,1,0,john-blackwell-3,John Blackwell,2024
+33,33,35,2024-03-17,Wisconsin,N,Illinois,CTOURN,L 87-93,,11,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,1,0,0,0,2,0,-0.8,N,0,0,john-blackwell-3,John Blackwell,2024
+34,34,36,2024-03-22,Wisconsin,N,James Madison,ROUND-64,L 61-72,,23,0,4,0.0,0,2,0.0,0,2,0.0,0.0,4,5,0.8,0,2,2,1,0,0,1,4,4,-0.5,N,0,0,john-blackwell-3,John Blackwell,2024

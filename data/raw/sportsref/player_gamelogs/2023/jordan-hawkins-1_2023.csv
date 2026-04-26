@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2022-11-07,Connecticut,,Stonehill,REG (Non-Conf),W 85-54,*,9,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,2,1,3,2,0,1,1,0,0,0.0,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+2,29,4,2022-11-18,Connecticut,,UNC Wilmington,REG (Non-Conf),W 86-50,*,25,7,13,0.538,5,8,0.625,2,5,0.4,0.731,1,2,0.5,0,1,1,2,2,0,2,0,20,15.0,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+3,30,5,2022-11-20,Connecticut,,Delaware State,REG (Non-Conf),W 95-60,*,28,4,13,0.308,3,10,0.3,1,3,0.333,0.423,0,0,,0,9,9,3,0,2,1,1,11,8.3,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+4,31,6,2022-11-24,Connecticut,N,Oregon,REG (Non-Conf),W 83-59,*,27,6,16,0.375,5,14,0.357,1,2,0.5,0.531,1,1,1.0,1,1,2,1,1,1,1,2,18,10.8,N,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+5,32,7,2022-11-25,Connecticut,N,Alabama,REG (Non-Conf),W 82-67,*,26,5,10,0.5,3,6,0.5,2,4,0.5,0.65,3,4,0.75,0,2,2,1,0,0,2,4,16,8.3,N,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+6,33,8,2022-11-27,Connecticut,N,Iowa State,REG (Non-Conf),W 71-53,*,6,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,0,0,0,1,0,1,4,2,-2.0,N,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+7,34,9,2022-12-01,Connecticut,,Oklahoma State,REG (Non-Conf),W 74-64,*,36,6,13,0.462,5,9,0.556,1,4,0.25,0.654,9,12,0.75,1,1,2,1,0,1,0,2,26,19.7,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+8,35,10,2022-12-07,Connecticut,@,Florida,REG (Non-Conf),W 75-54,*,34,5,12,0.417,2,6,0.333,3,6,0.5,0.5,3,3,1.0,0,4,4,3,2,0,2,2,15,11.1,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+9,36,11,2022-12-10,Connecticut,,LIU,REG (Non-Conf),W 114-61,*,23,7,11,0.636,6,9,0.667,1,2,0.5,0.909,2,2,1.0,1,2,3,2,1,0,0,3,22,19.6,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+10,37,12,2022-12-17,Connecticut,@,Butler,REG (Conf),W 68-46,*,26,5,13,0.385,2,5,0.4,3,8,0.375,0.462,0,1,0.0,1,2,3,0,0,0,0,3,12,4.6,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+11,38,13,2022-12-20,Connecticut,,Georgetown,REG (Conf),W 84-73,*,33,5,15,0.333,3,9,0.333,2,6,0.333,0.433,2,2,1.0,1,2,3,3,1,0,0,2,15,10.1,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+12,39,14,2022-12-28,Connecticut,,Villanova,REG (Conf),W 74-66,*,33,6,14,0.429,4,11,0.364,2,3,0.667,0.571,6,7,0.857,1,6,7,0,2,1,2,4,22,15.8,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+13,40,15,2022-12-31,Connecticut,@,Xavier,REG (Conf),L 73-83,*,33,3,9,0.333,1,5,0.2,2,4,0.5,0.389,4,7,0.571,0,5,5,2,2,0,3,4,11,5.0,A,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+14,41,16,2023-01-04,Connecticut,@,Providence,REG (Conf),L 61-73,*,33,5,14,0.357,2,7,0.286,3,7,0.429,0.429,3,3,1.0,5,1,6,2,1,0,0,3,15,12.2,A,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+15,42,17,2023-01-07,Connecticut,,Creighton,REG (Conf),W 69-60,*,35,4,13,0.308,3,7,0.429,1,6,0.167,0.423,6,6,1.0,0,1,1,1,2,2,0,3,17,12.7,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+16,43,18,2023-01-11,Connecticut,@,Marquette,REG (Conf),L 76-82,*,30,1,8,0.125,1,4,0.25,0,4,0.0,0.188,5,5,1.0,2,4,6,1,1,1,2,0,8,5.8,A,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+17,44,19,2023-01-15,Connecticut,,St. John's (NY),REG (Conf),L 74-85,*,37,9,16,0.563,4,9,0.444,5,7,0.714,0.688,9,9,1.0,3,2,5,2,1,0,7,3,31,20.3,H,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+18,45,20,2023-01-18,Connecticut,@,Seton Hall,REG (Conf),L 66-67,*,34,4,8,0.5,3,6,0.5,1,2,0.5,0.688,2,2,1.0,0,6,6,2,2,0,1,1,13,12.8,A,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+19,46,21,2023-01-22,Connecticut,,Butler,REG (Conf),W 86-56,*,28,7,14,0.5,2,8,0.25,5,6,0.833,0.571,4,5,0.8,0,6,6,0,0,0,0,0,20,14.4,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+20,47,22,2023-01-25,Connecticut,,Xavier,REG (Conf),L 79-82,*,37,8,16,0.5,5,10,0.5,3,6,0.5,0.656,7,7,1.0,2,2,4,1,0,1,3,5,28,18.4,H,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+21,48,23,2023-01-31,Connecticut,@,DePaul,REG (Conf),W 90-76,*,38,6,11,0.545,2,4,0.5,4,7,0.571,0.636,12,14,0.857,1,4,5,1,0,1,1,2,26,21.4,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+22,49,24,2023-02-04,Connecticut,@,Georgetown,REG (Conf),W 68-62,*,35,4,13,0.308,2,7,0.286,2,6,0.333,0.385,0,0,,2,0,2,0,0,2,3,3,10,1.1,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+23,50,25,2023-02-07,Connecticut,,Marquette,REG (Conf),W 87-72,*,29,6,11,0.545,5,8,0.625,1,3,0.333,0.773,3,3,1.0,0,6,6,0,0,2,2,4,20,14.3,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+24,51,26,2023-02-11,Connecticut,@,Creighton,REG (Conf),L 53-56,*,26,4,13,0.308,2,7,0.286,2,6,0.333,0.385,1,1,1.0,4,0,4,1,1,0,0,4,11,6.4,A,0,1,jordan-hawkins-1,Jordan Hawkins,2023
+25,52,27,2023-02-18,Connecticut,,Seton Hall,REG (Conf),W 64-55,*,35,7,17,0.412,3,11,0.273,4,6,0.667,0.5,3,3,1.0,1,4,5,2,0,0,1,2,20,12.4,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+26,53,28,2023-02-22,Connecticut,,Providence,REG (Conf),W 87-69,*,30,7,14,0.5,3,9,0.333,4,5,0.8,0.607,3,3,1.0,1,5,6,2,0,0,4,1,20,12.2,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+27,54,29,2023-02-25,Connecticut,@,St. John's (NY),REG (Conf),W 95-86,*,34,6,18,0.333,4,10,0.4,2,8,0.25,0.444,4,4,1.0,0,2,2,3,3,1,2,3,20,13.0,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+28,55,30,2023-03-01,Connecticut,,DePaul,REG (Conf),W 88-59,*,29,1,9,0.111,1,6,0.167,0,3,0.0,0.167,0,0,,1,1,2,0,0,1,0,0,3,-1.2,H,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+29,56,31,2023-03-04,Connecticut,@,Villanova,REG (Conf),W 71-59,*,32,7,17,0.412,3,11,0.273,4,6,0.667,0.5,7,8,0.875,1,3,4,1,1,0,1,2,24,16.0,A,1,1,jordan-hawkins-1,Jordan Hawkins,2023
+30,57,32,2023-03-09,Connecticut,N,Providence,CTOURN,W 73-66,*,33,7,13,0.538,3,9,0.333,4,4,1.0,0.654,2,2,1.0,1,3,4,1,0,0,1,2,19,13.2,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+31,58,33,2023-03-10,Connecticut,N,Marquette,CTOURN,L 68-70,*,30,2,11,0.182,1,8,0.125,1,3,0.333,0.227,0,0,,0,3,3,2,0,0,0,0,5,0.4,N,0,0,jordan-hawkins-1,Jordan Hawkins,2023
+32,59,34,2023-03-17,Connecticut,N,Iona,ROUND-64,W 87-63,*,28,3,11,0.273,3,7,0.429,0,4,0.0,0.409,4,4,1.0,2,2,4,1,0,0,0,3,13,8.0,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+33,60,35,2023-03-19,Connecticut,N,St. Mary's (CA),ROUND-32,W 70-55,*,20,4,6,0.667,4,5,0.8,0,1,0.0,1.0,0,0,,0,0,0,0,0,0,2,4,12,5.8,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+34,61,36,2023-03-23,Connecticut,N,Arkansas,ROUND-16,W 88-65,*,28,6,13,0.462,3,9,0.333,3,4,0.75,0.577,9,9,1.0,0,2,2,3,1,0,1,2,24,19.2,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+35,62,37,2023-03-25,Connecticut,N,Gonzaga,ROUND-8,W 82-54,*,33,6,15,0.4,6,10,0.6,0,5,0.0,0.6,2,3,0.667,1,5,6,1,0,0,2,1,20,12.0,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+36,63,38,2023-04-01,Connecticut,N,Miami (FL),NATIONAL-SEMI,W 72-59,*,25,3,8,0.375,3,7,0.429,0,1,0.0,0.563,4,5,0.8,1,2,3,0,0,1,1,1,13,8.8,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023
+37,64,39,2023-04-03,Connecticut,N,San Diego State,NATIONAL-FINAL,W 76-59,*,29,5,9,0.556,2,4,0.5,3,5,0.6,0.667,4,4,1.0,0,4,4,0,1,1,1,2,16,12.8,N,1,0,jordan-hawkins-1,Jordan Hawkins,2023

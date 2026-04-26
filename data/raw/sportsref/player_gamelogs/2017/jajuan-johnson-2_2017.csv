@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2016-11-11,Marquette,N,Vanderbilt,REG (Non-Conf),W 95-71,*,29,9,13,0.692,3,5,0.6,6,8,0.75,0.808,0,0,,1,3,4,3,6,1,1,3,21,23.7,N,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+2,86,2,2016-11-14,Marquette,,Howard,REG (Non-Conf),W 81-49,*,23,5,10,0.5,0,3,0.0,5,7,0.714,0.5,4,5,0.8,1,2,3,3,1,1,0,1,14,13.3,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+3,87,3,2016-11-17,Marquette,N,Michigan,REG (Non-Conf),L 61-79,*,28,5,10,0.5,1,1,1.0,4,9,0.444,0.55,0,0,,0,5,5,2,2,1,2,3,11,8.4,N,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+4,88,4,2016-11-18,Marquette,N,Pittsburgh,REG (Non-Conf),L 75-78,*,32,3,13,0.231,0,3,0.0,3,10,0.3,0.231,2,2,1.0,0,4,4,2,2,1,3,1,8,2.0,N,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+5,89,5,2016-11-22,Marquette,,IUPUI,REG (Non-Conf),W 104-79,,20,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,0,5,5,4,1,0,2,1,11,11.0,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+6,90,6,2016-11-26,Marquette,,Houston Baptist,REG (Non-Conf),W 101-79,,20,9,13,0.692,2,6,0.333,7,7,1.0,0.769,2,2,1.0,1,4,5,2,2,2,0,0,22,23.2,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+7,91,7,2016-11-30,Marquette,,Western Carolina,REG (Non-Conf),W 90-44,*,20,5,8,0.625,1,3,0.333,4,5,0.8,0.688,2,2,1.0,0,2,2,4,2,0,4,0,13,10.8,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+8,92,8,2016-12-04,Marquette,@,Georgia,REG (Non-Conf),W 89-79,*,30,5,14,0.357,1,2,0.5,4,12,0.333,0.393,5,6,0.833,4,5,9,3,5,1,1,1,16,18.5,A,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+9,93,9,2016-12-06,Marquette,,Fresno State,REG (Non-Conf),W 84-81,*,34,6,12,0.5,0,3,0.0,6,9,0.667,0.5,2,2,1.0,1,7,8,2,1,0,4,0,14,9.2,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+10,94,10,2016-12-10,Marquette,,Wisconsin,REG (Non-Conf),L 84-93,*,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,1,1,0,2,0,3,3,4,-0.6,H,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+11,95,11,2016-12-19,Marquette,,Saint Francis (PA),REG (Non-Conf),W 78-65,*,33,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,2,0.5,3,8,11,6,0,4,5,1,11,12.0,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+12,96,12,2016-12-21,Marquette,,SIU Edwardsville,REG (Non-Conf),W 89-56,*,29,5,7,0.714,1,1,1.0,4,6,0.667,0.786,3,4,0.75,0,2,2,5,2,0,1,1,14,15.4,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+13,97,13,2016-12-28,Marquette,,Georgetown,REG (Conf),W 76-66,*,32,8,15,0.533,1,1,1.0,7,14,0.5,0.567,3,4,0.75,0,5,5,5,4,1,3,1,20,18.6,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+14,98,14,2017-01-01,Marquette,@,Seton Hall,REG (Conf),L 66-69,*,33,4,13,0.308,0,3,0.0,4,10,0.4,0.308,0,0,,2,6,8,2,6,0,5,2,8,5.3,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+15,99,15,2017-01-07,Marquette,@,Villanova,REG (Conf),L 81-93,*,20,4,11,0.364,0,2,0.0,4,9,0.444,0.364,4,4,1.0,1,2,3,3,2,0,2,4,12,7.7,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+16,100,16,2017-01-11,Marquette,,Seton Hall,REG (Conf),W 89-86 (OT),*,21,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,0,1,1,2,4,0,4,2,12,8.6,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+17,101,17,2017-01-14,Marquette,,DePaul,REG (Conf),W 83-58,*,22,2,5,0.4,0,3,0.0,2,2,1.0,0.4,4,5,0.8,0,4,4,1,1,0,3,2,8,4.0,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+18,102,18,2017-01-16,Marquette,@,Butler,REG (Conf),L 80-88,*,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,4,1.0,1,4,5,2,1,0,2,2,10,7.1,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+19,103,19,2017-01-21,Marquette,@,Creighton,REG (Conf),W 102-94,*,27,6,13,0.462,3,5,0.6,3,8,0.375,0.577,3,5,0.6,1,4,5,2,1,0,4,1,18,10.4,A,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+20,104,20,2017-01-24,Marquette,,Villanova,REG (Conf),W 74-72,*,29,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,0,4,4,4,0,0,5,1,8,2.6,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+21,105,21,2017-01-28,Marquette,,Providence,REG (Conf),L 78-79,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,5,0.8,0,3,3,3,1,0,1,3,10,7.7,H,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+22,106,22,2017-02-01,Marquette,@,St. John's (NY),REG (Conf),L 72-86,*,19,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,2,1.0,2,2,4,1,0,0,0,2,4,2.1,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+23,107,23,2017-02-04,Marquette,@,DePaul,REG (Conf),W 92-79,*,26,1,1,1.0,1,1,1.0,0,0,,1.5,5,5,1.0,0,2,2,1,0,1,2,1,8,7.3,A,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+24,108,24,2017-02-07,Marquette,,Butler,REG (Conf),L 65-68,*,27,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,0,3,3,1,1,0,2,3,3,-1.4,H,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+25,109,25,2017-02-11,Marquette,@,Georgetown,REG (Conf),L 62-80,*,36,6,12,0.5,1,3,0.333,5,9,0.556,0.542,1,1,1.0,0,2,2,3,1,1,2,3,14,9.2,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+26,110,27,2017-02-21,Marquette,,St. John's (NY),REG (Conf),W 93-71,,23,3,7,0.429,0,0,,3,7,0.429,0.429,5,8,0.625,0,1,1,2,1,0,0,1,11,8.4,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+27,111,28,2017-02-25,Marquette,@,Providence,REG (Conf),L 69-73,,30,2,8,0.25,0,0,,2,8,0.25,0.25,1,2,0.5,1,1,2,2,2,0,1,1,5,2.8,A,0,1,jajuan-johnson-2,JaJuan Johnson,2017
+28,112,29,2017-03-01,Marquette,@,Xavier,REG (Conf),W 95-84,,27,7,10,0.7,2,4,0.5,5,6,0.833,0.8,3,5,0.6,0,2,2,4,4,0,3,3,19,17.2,A,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+29,113,30,2017-03-04,Marquette,,Creighton,REG (Conf),W 91-83,*,22,7,13,0.538,4,7,0.571,3,6,0.5,0.692,2,3,0.667,1,3,4,3,2,0,3,1,20,15.6,H,1,1,jajuan-johnson-2,JaJuan Johnson,2017
+30,114,31,2017-03-09,Marquette,N,Seton Hall,CTOURN,L 76-82,,18,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,3,3,3,0,0,1,0,6,4.6,N,0,0,jajuan-johnson-2,JaJuan Johnson,2017
+31,115,32,2017-03-17,Marquette,N,South Carolina,ROUND-64,L 73-93,,25,5,9,0.556,3,5,0.6,2,4,0.5,0.722,3,4,0.75,0,6,6,3,2,0,2,2,16,14.4,N,0,0,jajuan-johnson-2,JaJuan Johnson,2017

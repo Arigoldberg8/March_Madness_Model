@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2015-11-13,Virginia,,Morgan State,REG (Non-Conf),W 86-48,*,21,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,2,0.5,0,4,4,1,0,0,1,3,5,0.2,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+2,101,2,2015-11-16,Virginia,@,George Washington,REG (Non-Conf),L 68-73,*,38,9,18,0.5,1,5,0.2,8,13,0.615,0.528,9,10,0.9,1,7,8,4,2,0,1,2,28,24.4,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+3,102,3,2015-11-19,Virginia,N,Bradley,REG (Non-Conf),W 82-57,*,27,5,13,0.385,2,6,0.333,3,7,0.429,0.462,1,2,0.5,0,4,4,1,0,1,0,1,13,7.7,N,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+4,103,4,2015-11-20,Virginia,N,Long Beach State,REG (Non-Conf),W 87-52,*,29,3,11,0.273,2,5,0.4,1,6,0.167,0.364,2,2,1.0,1,3,4,7,1,0,2,3,10,7.8,N,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+5,104,5,2015-11-22,Virginia,N,George Mason,REG (Non-Conf),W 83-66,*,33,9,16,0.563,2,4,0.5,7,12,0.583,0.625,1,2,0.5,0,3,3,3,1,0,2,1,21,14.6,N,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+6,105,6,2015-11-25,Virginia,,Lehigh,REG (Non-Conf),W 80-54,*,29,10,15,0.667,3,5,0.6,7,10,0.7,0.767,0,2,0.0,1,3,4,3,2,0,1,1,23,20.0,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+7,106,7,2015-12-01,Virginia,@,Ohio State,REG (Non-Conf),W 64-58,*,34,7,16,0.438,6,10,0.6,1,6,0.167,0.625,2,2,1.0,0,6,6,2,0,0,1,3,22,14.6,A,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+8,107,8,2015-12-05,Virginia,,William & Mary,REG (Non-Conf),W 67-52,*,37,6,12,0.5,2,5,0.4,4,7,0.571,0.583,2,2,1.0,0,3,3,1,0,1,1,1,16,10.9,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+9,108,9,2015-12-08,Virginia,N,West Virginia,REG (Non-Conf),W 70-54,*,32,5,10,0.5,0,3,0.0,5,7,0.714,0.5,4,4,1.0,0,3,3,2,0,0,2,4,14,7.7,N,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+10,109,10,2015-12-19,Virginia,,Villanova,REG (Non-Conf),W 86-75,*,38,3,8,0.375,2,3,0.667,1,5,0.2,0.5,12,12,1.0,1,6,7,6,0,0,2,1,20,19.9,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+11,110,11,2015-12-22,Virginia,,California,REG (Non-Conf),W 63-62 (OT),*,39,3,12,0.25,3,5,0.6,0,7,0.0,0.375,1,2,0.5,1,3,4,3,2,0,1,2,10,6.3,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+12,111,12,2015-12-30,Virginia,,Oakland,REG (Non-Conf),W 71-58,*,33,3,14,0.214,3,8,0.375,0,6,0.0,0.321,3,4,0.75,1,2,3,5,1,0,0,2,12,8.0,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+13,112,13,2016-01-02,Virginia,,Notre Dame,REG (Conf),W 77-66,*,34,9,14,0.643,2,5,0.4,7,9,0.778,0.714,4,6,0.667,0,3,3,1,0,0,1,0,24,17.6,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+14,113,14,2016-01-04,Virginia,@,Virginia Tech,REG (Conf),L 68-70,*,38,4,11,0.364,1,5,0.2,3,6,0.5,0.409,6,6,1.0,1,6,7,4,1,0,4,5,15,9.2,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+15,114,15,2016-01-09,Virginia,@,Georgia Tech,REG (Conf),L 64-68,*,31,8,20,0.4,1,9,0.111,7,11,0.636,0.425,2,4,0.5,1,4,5,0,1,0,2,2,19,7.5,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+16,115,16,2016-01-12,Virginia,,Miami (FL),REG (Conf),W 66-58,*,34,7,15,0.467,1,3,0.333,6,12,0.5,0.5,5,5,1.0,0,2,2,2,0,0,2,4,20,10.7,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+17,116,17,2016-01-17,Virginia,@,Florida State,REG (Conf),L 62-69,*,33,4,17,0.235,1,4,0.25,3,13,0.231,0.265,1,1,1.0,1,4,5,5,1,0,1,2,10,4.3,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+18,117,18,2016-01-19,Virginia,,Clemson,REG (Conf),W 69-62,*,35,7,11,0.636,2,2,1.0,5,9,0.556,0.727,4,4,1.0,0,3,3,4,0,0,3,2,20,15.0,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+19,118,19,2016-01-24,Virginia,,Syracuse,REG (Conf),W 73-65,*,38,6,13,0.462,3,7,0.429,3,6,0.5,0.577,6,7,0.857,1,4,5,3,1,0,2,1,21,16.5,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+20,119,20,2016-01-26,Virginia,@,Wake Forest,REG (Conf),W 72-71,*,38,10,16,0.625,2,6,0.333,8,10,0.8,0.688,6,6,1.0,0,7,7,1,3,0,1,2,28,24.8,A,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+21,120,21,2016-01-30,Virginia,@,Louisville,REG (Conf),W 63-47,*,34,6,13,0.462,1,4,0.25,5,9,0.556,0.5,0,0,,2,2,4,3,2,1,1,3,13,10.9,A,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+22,121,22,2016-02-03,Virginia,,Boston College,REG (Conf),W 61-47,*,30,7,10,0.7,5,5,1.0,2,5,0.4,0.95,8,8,1.0,0,6,6,0,1,0,1,2,27,23.8,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+23,122,23,2016-02-06,Virginia,@,Pittsburgh,REG (Conf),W 64-50,*,33,6,9,0.667,3,5,0.6,3,4,0.75,0.833,6,6,1.0,0,2,2,4,1,0,2,3,21,18.3,A,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+24,123,24,2016-02-09,Virginia,,Virginia Tech,REG (Conf),W 67-49,*,31,4,12,0.333,1,4,0.25,3,8,0.375,0.375,3,3,1.0,1,2,3,3,0,0,2,2,12,5.8,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+25,124,25,2016-02-13,Virginia,@,Duke,REG (Conf),L 62-63,*,33,7,16,0.438,1,6,0.167,6,10,0.6,0.469,3,3,1.0,0,5,5,3,0,0,2,1,18,10.8,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+26,125,26,2016-02-15,Virginia,,NC State,REG (Conf),W 73-53,*,35,9,13,0.692,4,7,0.571,5,6,0.833,0.846,0,0,,0,1,1,5,1,0,1,2,22,19.5,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+27,126,27,2016-02-22,Virginia,@,Miami (FL),REG (Conf),L 61-64,*,35,12,18,0.667,4,7,0.571,8,11,0.727,0.778,0,0,,1,2,3,0,2,0,2,4,28,19.9,A,0,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+28,127,28,2016-02-27,Virginia,,North Carolina,REG (Conf),W 79-74,*,38,9,16,0.563,3,5,0.6,6,11,0.545,0.656,5,5,1.0,0,6,6,3,2,1,1,1,26,23.6,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+29,128,29,2016-03-01,Virginia,@,Clemson,REG (Conf),W 64-57,*,39,6,14,0.429,4,7,0.571,2,7,0.286,0.571,2,2,1.0,0,4,4,3,1,1,1,1,18,14.2,A,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+30,129,30,2016-03-05,Virginia,,Louisville,REG (Conf),W 68-46,*,37,4,11,0.364,0,4,0.0,4,7,0.571,0.364,9,11,0.818,0,2,2,2,0,0,3,2,17,8.3,H,1,1,malcolm-brogdon-1,Malcolm Brogdon,2016
+31,130,31,2016-03-10,Virginia,N,Georgia Tech,CTOURN,W 72-52,*,33,10,15,0.667,3,6,0.5,7,9,0.778,0.767,3,3,1.0,1,2,3,2,1,1,0,1,26,23.5,N,1,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+32,131,32,2016-03-11,Virginia,N,Miami (FL),CTOURN,W 73-68,*,37,6,15,0.4,2,3,0.667,4,12,0.333,0.467,10,11,0.909,1,2,3,4,0,0,1,2,24,17.8,N,1,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+33,132,33,2016-03-12,Virginia,N,North Carolina,CTOURN,L 57-61,*,36,6,22,0.273,2,9,0.222,4,13,0.308,0.318,1,1,1.0,0,2,2,4,2,0,1,2,15,5.6,N,0,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+34,133,34,2016-03-17,Virginia,N,Hampton,ROUND-64,W 81-45,*,28,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,1,1.0,1,1,2,4,1,0,0,1,11,10.7,N,1,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+35,134,35,2016-03-19,Virginia,N,Butler,ROUND-32,W 77-69,*,39,8,14,0.571,0,3,0.0,8,11,0.727,0.571,6,6,1.0,1,4,5,5,2,1,2,2,22,20.7,N,1,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+36,135,36,2016-03-25,Virginia,N,Iowa State,ROUND-16,W 84-71,*,37,4,13,0.308,0,2,0.0,4,11,0.364,0.308,4,4,1.0,0,2,2,5,2,1,0,2,12,10.5,N,1,0,malcolm-brogdon-1,Malcolm Brogdon,2016
+37,136,37,2016-03-27,Virginia,N,Syracuse,ROUND-8,L 62-68,*,37,2,14,0.143,1,6,0.167,1,8,0.125,0.179,7,7,1.0,1,6,7,7,1,1,2,3,12,8.9,N,0,0,malcolm-brogdon-1,Malcolm Brogdon,2016

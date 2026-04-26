@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2020-11-25,Purdue,N,Liberty,REG (Non-Conf),W 77-64,*,25,3,7,0.429,0,0,,3,7,0.429,0.429,1,3,0.333,1,10,11,5,1,1,3,4,7,6.8,N,1,1,trevion-williams-1,Trevion Williams,2021
+2,67,2,2020-11-26,Purdue,N,Clemson,REG (Non-Conf),L 70-81,*,18,4,11,0.364,0,0,,4,11,0.364,0.364,2,2,1.0,3,5,8,2,1,0,2,5,10,5.9,N,0,1,trevion-williams-1,Trevion Williams,2021
+3,68,3,2020-12-01,Purdue,,Oakland,REG (Non-Conf),W 93-50,*,21,4,12,0.333,0,0,,4,12,0.333,0.333,0,0,,5,9,14,2,0,1,4,2,8,4.7,H,1,1,trevion-williams-1,Trevion Williams,2021
+4,69,4,2020-12-04,Purdue,,Valparaiso,REG (Non-Conf),W 68-61,*,28,7,15,0.467,0,1,0.0,7,14,0.5,0.467,3,9,0.333,4,7,11,2,0,0,3,4,17,8.6,H,1,1,trevion-williams-1,Trevion Williams,2021
+5,70,5,2020-12-08,Purdue,@,Miami (FL),REG (Non-Conf),L 54-58,*,23,4,10,0.4,0,0,,4,10,0.4,0.4,0,0,,3,4,7,0,2,0,2,5,8,3.9,A,0,1,trevion-williams-1,Trevion Williams,2021
+6,71,6,2020-12-12,Purdue,,Indiana State,REG (Non-Conf),W 80-68,,29,13,18,0.722,0,0,,13,18,0.722,0.722,4,7,0.571,6,5,11,2,1,1,2,1,30,27.8,H,1,1,trevion-williams-1,Trevion Williams,2021
+7,72,7,2020-12-16,Purdue,,Ohio State,REG (Conf),W 67-60,,27,6,12,0.5,0,0,,6,12,0.5,0.5,4,4,1.0,2,7,9,8,0,0,4,3,16,13.9,H,1,1,trevion-williams-1,Trevion Williams,2021
+8,73,8,2020-12-19,Purdue,N,Notre Dame,REG (Non-Conf),W 88-78,*,23,7,12,0.583,0,0,,7,12,0.583,0.583,0,3,0.0,4,3,7,2,1,0,2,2,14,10.5,N,1,1,trevion-williams-1,Trevion Williams,2021
+9,74,9,2020-12-22,Purdue,@,Iowa,REG (Conf),L 55-70,*,29,7,14,0.5,0,1,0.0,7,13,0.538,0.5,0,1,0.0,5,4,9,1,0,3,2,3,14,10.9,A,0,1,trevion-williams-1,Trevion Williams,2021
+10,75,10,2020-12-25,Purdue,,Maryland,REG (Conf),W 73-70,*,16,4,9,0.444,0,0,,4,9,0.444,0.444,2,3,0.667,3,5,8,2,0,0,2,3,10,6.7,H,1,1,trevion-williams-1,Trevion Williams,2021
+11,76,11,2020-12-29,Purdue,@,Rutgers,REG (Conf),L 76-81,*,29,10,12,0.833,0,0,,10,12,0.833,0.833,1,1,1.0,4,8,12,1,0,1,2,1,21,20.8,A,0,1,trevion-williams-1,Trevion Williams,2021
+12,77,12,2021-01-02,Purdue,@,Illinois,REG (Conf),L 58-66,*,27,7,14,0.5,0,0,,7,14,0.5,0.5,0,3,0.0,2,6,8,2,1,1,2,3,14,8.9,A,0,1,trevion-williams-1,Trevion Williams,2021
+13,78,13,2021-01-08,Purdue,@,Michigan State,REG (Conf),W 55-54,*,26,9,14,0.643,0,0,,9,14,0.643,0.643,8,12,0.667,3,6,9,2,0,1,3,2,26,20.4,A,1,1,trevion-williams-1,Trevion Williams,2021
+14,79,14,2021-01-14,Purdue,@,Indiana,REG (Conf),W 81-69,*,31,9,15,0.6,0,0,,9,15,0.6,0.6,4,9,0.444,3,7,10,2,0,0,2,4,22,15.1,A,1,1,trevion-williams-1,Trevion Williams,2021
+15,80,15,2021-01-17,Purdue,,Penn State,REG (Conf),W 80-72,*,19,6,10,0.6,0,0,,6,10,0.6,0.6,1,6,0.167,6,5,11,1,1,0,1,3,13,11.6,H,1,1,trevion-williams-1,Trevion Williams,2021
+16,81,16,2021-01-19,Purdue,@,Ohio State,REG (Conf),W 67-65,*,21,7,13,0.538,0,1,0.0,7,12,0.583,0.538,2,4,0.5,2,5,7,1,1,0,2,2,16,10.7,A,1,1,trevion-williams-1,Trevion Williams,2021
+17,82,17,2021-01-22,Purdue,,Michigan,REG (Conf),L 53-70,*,27,6,19,0.316,0,0,,6,19,0.316,0.316,2,4,0.5,8,3,11,2,1,0,1,4,14,8.6,H,0,1,trevion-williams-1,Trevion Williams,2021
+18,83,18,2021-01-30,Purdue,,Minnesota,REG (Conf),W 81-62,*,32,7,18,0.389,0,0,,7,18,0.389,0.389,3,4,0.75,6,8,14,3,2,0,2,4,17,13.9,H,1,1,trevion-williams-1,Trevion Williams,2021
+19,84,19,2021-02-02,Purdue,@,Maryland,REG (Conf),L 60-61,*,33,9,12,0.75,0,0,,9,12,0.75,0.75,5,6,0.833,3,8,11,1,0,0,3,2,23,19.2,A,0,1,trevion-williams-1,Trevion Williams,2021
+20,85,20,2021-02-06,Purdue,,Northwestern,REG (Conf),W 75-70,*,16,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,1,2,3,3,0,0,2,4,8,3.1,H,1,1,trevion-williams-1,Trevion Williams,2021
+21,86,21,2021-02-11,Purdue,@,Minnesota,REG (Conf),L 68-71,*,24,11,21,0.524,0,0,,11,21,0.524,0.524,2,2,1.0,5,5,10,0,1,2,2,3,24,17.9,A,0,1,trevion-williams-1,Trevion Williams,2021
+22,87,22,2021-02-16,Purdue,,Michigan State,REG (Conf),W 75-65,*,31,13,21,0.619,0,0,,13,21,0.619,0.619,2,6,0.333,1,5,6,3,1,1,2,3,28,19.7,H,1,1,trevion-williams-1,Trevion Williams,2021
+23,88,23,2021-02-20,Purdue,@,Nebraska,REG (Conf),W 75-58,*,21,4,8,0.5,0,0,,4,8,0.5,0.5,1,4,0.25,2,1,3,0,0,2,2,0,9,4.9,A,1,1,trevion-williams-1,Trevion Williams,2021
+24,89,24,2021-02-26,Purdue,@,Penn State,REG (Conf),W 73-52,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,3,6,0.5,0,5,5,4,1,0,2,3,11,7.9,A,1,1,trevion-williams-1,Trevion Williams,2021
+25,90,25,2021-03-02,Purdue,,Wisconsin,REG (Conf),W 73-69,*,22,4,8,0.5,0,0,,4,8,0.5,0.5,1,1,1.0,3,4,7,1,1,0,3,4,9,5.4,H,1,1,trevion-williams-1,Trevion Williams,2021
+26,91,26,2021-03-06,Purdue,,Indiana,REG (Conf),W 67-58,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,5,7,1,1,0,5,2,6,3.2,H,1,1,trevion-williams-1,Trevion Williams,2021
+27,92,27,2021-03-12,Purdue,N,Ohio State,CTOURN,L 78-87 (OT),*,30,12,23,0.522,0,0,,12,23,0.522,0.522,2,5,0.4,8,6,14,5,1,2,1,3,26,24.6,N,0,0,trevion-williams-1,Trevion Williams,2021
+28,93,28,2021-03-19,Purdue,N,North Texas,ROUND-64,L 69-78 (OT),*,30,7,15,0.467,0,0,,7,15,0.467,0.467,0,1,0.0,9,4,13,5,1,0,3,3,14,13.7,N,0,0,trevion-williams-1,Trevion Williams,2021

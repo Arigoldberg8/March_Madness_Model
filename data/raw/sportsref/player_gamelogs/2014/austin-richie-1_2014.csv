@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2013-11-08,Western Michigan,N,New Mexico State,REG (Non-Conf),W 70-64,*,31,3,3,1.0,3,3,1.0,0,0,,1.5,1,3,0.333,0,2,2,2,0,1,4,4,10,5.4,N,1,1,austin-richie-1,Austin Richie,2014
+2,71,2,2013-11-10,Western Michigan,@,Hawaii,REG (Non-Conf),L 68-78,*,38,2,7,0.286,1,6,0.167,1,1,1.0,0.357,2,2,1.0,0,4,4,2,1,0,1,4,7,3.9,A,0,1,austin-richie-1,Austin Richie,2014
+3,72,3,2013-11-11,Western Michigan,N,Tennessee State,REG (Non-Conf),W 63-52,*,32,2,5,0.4,1,2,0.5,1,3,0.333,0.5,6,7,0.857,1,2,3,2,0,0,1,2,11,8.8,N,1,1,austin-richie-1,Austin Richie,2014
+4,73,4,2013-11-17,Western Michigan,,Alabama A&M,REG (Non-Conf),W 73-69,*,34,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,3,0.667,0,2,2,8,2,0,1,2,7,9.6,H,1,1,austin-richie-1,Austin Richie,2014
+5,74,5,2013-11-20,Western Michigan,,North Dakota State,REG (Non-Conf),L 74-83,*,28,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,2,1,0,0,2,0,1.2,H,0,1,austin-richie-1,Austin Richie,2014
+6,75,6,2013-11-26,Western Michigan,,Oakland,REG (Non-Conf),W 99-88,*,36,2,5,0.4,2,3,0.667,0,2,0.0,0.6,7,8,0.875,0,3,3,3,0,0,3,3,13,8.7,H,1,1,austin-richie-1,Austin Richie,2014
+7,76,7,2013-11-29,Western Michigan,,Cornell,REG (Non-Conf),W 83-70,*,26,2,3,0.667,0,1,0.0,2,2,1.0,0.667,11,13,0.846,0,1,1,1,1,0,3,3,15,10.7,H,1,1,austin-richie-1,Austin Richie,2014
+8,77,8,2013-12-07,Western Michigan,@,Northwestern,REG (Non-Conf),L 35-51,*,36,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,0,0,2,1,0,3,1,5,0.6,A,0,1,austin-richie-1,Austin Richie,2014
+9,78,9,2013-12-15,Western Michigan,@,Missouri,REG (Non-Conf),L 60-66,*,35,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,2,2,1,0,0,1,3,5,0.0,A,0,1,austin-richie-1,Austin Richie,2014
+10,79,10,2013-12-18,Western Michigan,@,Drake,REG (Non-Conf),L 68-71,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,2,0,0,0,5,8,4.3,A,0,1,austin-richie-1,Austin Richie,2014
+11,80,11,2013-12-21,Western Michigan,,Prairie View A&M,REG (Non-Conf),W 92-53,*,26,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,3,0.333,1,0,1,2,1,0,0,1,6,5.2,H,1,1,austin-richie-1,Austin Richie,2014
+12,81,12,2014-01-02,Western Michigan,,Siena Heights,REG (Non-Conf),W 83-47,*,16,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,1,4,5,0,1,0,0,3,6,4.6,H,1,1,austin-richie-1,Austin Richie,2014
+13,82,13,2014-01-08,Western Michigan,,Toledo,REG (Conf),W 87-76,*,34,6,11,0.545,4,6,0.667,2,5,0.4,0.727,3,6,0.5,0,0,0,2,0,0,2,4,19,10.3,H,1,1,austin-richie-1,Austin Richie,2014
+14,83,14,2014-01-11,Western Michigan,@,Miami (OH),REG (Conf),W 78-77 (OT),*,43,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,4,4,2,0,0,3,4,5,1.3,A,1,1,austin-richie-1,Austin Richie,2014
+15,84,15,2014-01-14,Western Michigan,@,Eastern Michigan,REG (Conf),L 37-56,*,34,0,6,0.0,0,5,0.0,0,1,0.0,0.0,0,0,,0,1,1,4,1,0,2,1,0,-2.5,A,0,1,austin-richie-1,Austin Richie,2014
+16,85,16,2014-01-19,Western Michigan,,Bowling Green,REG (Conf),L 64-69,*,36,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,3,3,1,1,2,2,4.5,H,0,1,austin-richie-1,Austin Richie,2014
+17,86,17,2014-01-23,Western Michigan,@,Kent State,REG (Conf),W 75-59,*,34,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,0,2,2,2,3,1,0,1,11,12.9,A,1,1,austin-richie-1,Austin Richie,2014
+18,87,18,2014-01-26,Western Michigan,,Ball State,REG (Conf),W 62-53,*,26,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,3,0.333,0,1,1,1,1,0,1,3,1,-1.4,H,1,1,austin-richie-1,Austin Richie,2014
+19,88,19,2014-01-29,Western Michigan,@,Buffalo,REG (Conf),L 63-84,*,26,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,3,0,0,3,2,6,2.3,A,0,1,austin-richie-1,Austin Richie,2014
+20,89,20,2014-02-01,Western Michigan,,Central Michigan,REG (Conf),W 75-72,*,27,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,1,2,3,3,0,0,2,1,8,6.0,H,1,1,austin-richie-1,Austin Richie,2014
+21,90,21,2014-02-05,Western Michigan,,Ohio,REG (Conf),W 90-74,*,37,5,6,0.833,3,3,1.0,2,3,0.667,1.083,9,9,1.0,0,2,2,3,0,0,0,2,22,21.7,H,1,1,austin-richie-1,Austin Richie,2014
+22,91,22,2014-02-09,Western Michigan,@,Northern Illinois,REG (Conf),W 74-71,*,36,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,4,0.5,0,1,1,2,1,0,0,1,7,3.7,A,1,1,austin-richie-1,Austin Richie,2014
+23,92,23,2014-02-12,Western Michigan,,Akron,REG (Conf),W 57-54,*,38,0,5,0.0,0,4,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,4,0,0,4,1,1,-3.9,H,1,1,austin-richie-1,Austin Richie,2014
+24,93,24,2014-02-15,Western Michigan,,Miami (OH),REG (Conf),W 68-57,*,35,4,7,0.571,2,5,0.4,2,2,1.0,0.714,10,12,0.833,0,5,5,0,5,1,2,2,20,20.3,H,1,1,austin-richie-1,Austin Richie,2014
+25,94,25,2014-02-19,Western Michigan,@,Ohio,REG (Conf),W 73-63,*,35,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,3,0.667,0,2,2,1,2,0,0,1,10,9.5,A,1,1,austin-richie-1,Austin Richie,2014
+26,95,26,2014-02-23,Western Michigan,,Eastern Michigan,REG (Conf),W 75-67,*,23,2,3,0.667,1,2,0.5,1,1,1.0,0.833,5,7,0.714,1,2,3,2,1,0,1,4,10,9.0,H,1,1,austin-richie-1,Austin Richie,2014
+27,96,27,2014-02-26,Western Michigan,@,Ball State,REG (Conf),W 88-81 (OT),*,42,2,7,0.286,1,5,0.2,1,2,0.5,0.357,3,5,0.6,0,5,5,4,0,0,1,2,8,5.6,A,1,1,austin-richie-1,Austin Richie,2014
+28,97,28,2014-03-01,Western Michigan,@,Toledo,REG (Conf),L 85-96 (OT),*,42,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,5,3,0,1,1,6,10.7,A,0,1,austin-richie-1,Austin Richie,2014
+29,98,29,2014-03-04,Western Michigan,,Northern Illinois,REG (Conf),W 61-56,*,31,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,1,0,0,1,3,5,2.8,H,1,1,austin-richie-1,Austin Richie,2014
+30,99,30,2014-03-07,Western Michigan,@,Central Michigan,REG (Conf),W 78-64,*,36,5,6,0.833,3,3,1.0,2,3,0.667,1.083,0,1,0.0,0,2,2,4,1,0,1,2,13,13.0,A,1,1,austin-richie-1,Austin Richie,2014
+31,100,31,2014-03-14,Western Michigan,N,Akron,CTOURN,W 64-60 (OT),*,41,1,5,0.2,1,4,0.25,0,1,0.0,0.3,3,5,0.6,1,2,3,0,0,0,0,4,6,1.8,N,1,0,austin-richie-1,Austin Richie,2014
+32,101,32,2014-03-15,Western Michigan,N,Toledo,CTOURN,W 98-77,*,36,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,2,3,4,1,0,0,2,4,4.9,N,1,0,austin-richie-1,Austin Richie,2014
+33,102,33,2014-03-20,Western Michigan,N,Syracuse,ROUND-64,L 53-77,*,33,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,1,5,3,-0.4,N,0,0,austin-richie-1,Austin Richie,2014

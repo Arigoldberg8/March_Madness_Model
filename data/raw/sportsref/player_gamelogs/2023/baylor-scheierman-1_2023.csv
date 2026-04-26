@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2022-11-07,Creighton,,St. Thomas,REG (Non-Conf),W 72-60,*,34,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,3,7,10,3,1,1,2,2,11,11.5,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+2,92,2,2022-11-10,Creighton,,North Dakota,REG (Non-Conf),W 96-61,*,25,3,11,0.273,2,5,0.4,1,6,0.167,0.364,0,0,,4,6,10,4,2,0,1,2,8,9.1,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+3,93,3,2022-11-14,Creighton,,Holy Cross,REG (Non-Conf),W 94-65,*,19,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,0,9,9,1,0,0,0,1,6,4.2,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+4,94,4,2022-11-17,Creighton,,UC Riverside,REG (Non-Conf),W 80-51,*,27,7,10,0.7,3,4,0.75,4,6,0.667,0.85,0,0,,1,5,6,0,0,0,0,1,17,14.6,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+5,95,5,2022-11-21,Creighton,N,Texas Tech,REG (Non-Conf),W 76-65,*,30,4,10,0.4,3,7,0.429,1,3,0.333,0.55,0,0,,1,11,12,3,1,0,2,3,11,9.5,N,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+6,96,6,2022-11-22,Creighton,N,Arkansas,REG (Non-Conf),W 90-87,*,39,7,10,0.7,3,5,0.6,4,5,0.8,0.85,3,4,0.75,0,7,7,3,0,0,2,4,20,16.0,N,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+7,97,7,2022-11-23,Creighton,N,Arizona,REG (Non-Conf),L 79-81,*,32,4,10,0.4,3,7,0.429,1,3,0.333,0.55,0,0,,0,11,11,4,3,0,2,3,11,11.5,N,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+8,98,8,2022-12-01,Creighton,@,Texas,REG (Non-Conf),L 67-72,*,33,4,14,0.286,3,13,0.231,1,1,1.0,0.393,2,3,0.667,0,11,11,0,0,1,0,3,13,7.2,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+9,99,9,2022-12-04,Creighton,,Nebraska,REG (Non-Conf),L 53-63,*,32,4,12,0.333,2,9,0.222,2,3,0.667,0.417,0,1,0.0,1,10,11,5,4,0,3,2,10,10.2,H,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+10,100,10,2022-12-10,Creighton,N,Brigham Young,REG (Non-Conf),L 80-83,*,33,3,11,0.273,2,6,0.333,1,5,0.2,0.364,5,6,0.833,1,10,11,1,0,1,2,2,13,8.4,N,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+11,101,11,2022-12-12,Creighton,N,Arizona State,REG (Non-Conf),L 71-73,*,39,6,10,0.6,3,5,0.6,3,5,0.6,0.75,3,5,0.6,1,7,8,3,0,0,1,1,18,16.1,N,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+12,102,12,2022-12-16,Creighton,@,Marquette,REG (Conf),L 58-69,*,36,6,15,0.4,2,6,0.333,4,9,0.444,0.467,0,0,,0,11,11,4,2,0,3,1,14,10.6,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+13,103,13,2022-12-22,Creighton,,Butler,REG (Conf),W 78-56,*,36,6,9,0.667,2,5,0.4,4,4,1.0,0.778,0,0,,1,7,8,4,3,3,6,2,14,14.0,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+14,104,14,2022-12-25,Creighton,,DePaul,REG (Conf),W 80-65,*,31,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,4,0.75,2,8,10,3,1,0,2,2,14,13.7,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+15,105,15,2023-01-03,Creighton,,Seton Hall,REG (Conf),W 83-61,*,24,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,3,3,5,1,0,2,1,6,5.6,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+16,106,16,2023-01-07,Creighton,@,Connecticut,REG (Conf),L 60-69,*,36,4,10,0.4,1,7,0.143,3,3,1.0,0.45,2,2,1.0,1,8,9,3,0,0,1,2,11,9.0,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+17,107,17,2023-01-11,Creighton,@,Xavier,REG (Conf),L 87-90,*,37,10,18,0.556,4,7,0.571,6,11,0.545,0.667,1,1,1.0,0,4,4,5,2,0,3,4,25,18.5,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+18,108,18,2023-01-14,Creighton,,Providence,REG (Conf),W 73-67,*,32,8,13,0.615,3,6,0.5,5,7,0.714,0.731,0,0,,0,7,7,3,0,0,2,5,19,13.3,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+19,109,19,2023-01-17,Creighton,@,Butler,REG (Conf),W 73-52,*,32,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,2,1.0,1,2,3,5,0,0,0,2,12,12.0,A,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+20,110,20,2023-01-25,Creighton,,St. John's (NY),REG (Conf),W 104-76,*,30,5,12,0.417,3,7,0.429,2,5,0.4,0.542,4,4,1.0,2,8,10,6,2,0,2,0,17,18.6,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+21,111,21,2023-01-28,Creighton,,Xavier,REG (Conf),W 84-67,*,33,6,10,0.6,2,6,0.333,4,4,1.0,0.7,0,0,,0,4,4,2,1,0,4,1,14,8.6,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+22,112,22,2023-02-01,Creighton,@,Georgetown,REG (Conf),W 63-53,*,34,3,10,0.3,3,8,0.375,0,2,0.0,0.45,1,2,0.5,1,10,11,1,2,0,1,3,10,8.0,A,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+23,113,23,2023-02-04,Creighton,,Villanova,REG (Conf),W 66-61,*,38,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,4,4,3,3,0,1,2,5,5.7,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+24,114,24,2023-02-08,Creighton,@,Seton Hall,REG (Conf),W 75-62,*,39,6,12,0.5,5,10,0.5,1,2,0.5,0.708,2,2,1.0,0,9,9,1,1,0,6,3,19,10.2,A,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+25,115,25,2023-02-11,Creighton,,Connecticut,REG (Conf),W 56-53,*,37,4,10,0.4,1,3,0.333,3,7,0.429,0.45,2,2,1.0,1,8,9,1,1,0,2,2,11,7.6,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+26,116,26,2023-02-14,Creighton,@,Providence,REG (Conf),L 86-94 (2OT),*,47,4,15,0.267,2,12,0.167,2,3,0.667,0.333,2,2,1.0,1,4,5,6,0,1,4,4,12,4.3,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+27,117,27,2023-02-18,Creighton,@,St. John's (NY),REG (Conf),W 77-67,*,30,1,11,0.091,1,7,0.143,0,4,0.0,0.136,4,4,1.0,1,4,5,3,2,0,5,3,7,-0.5,A,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+28,118,28,2023-02-21,Creighton,,Marquette,REG (Conf),L 71-73,*,34,7,16,0.438,3,11,0.273,4,5,0.8,0.531,1,2,0.5,1,12,13,2,2,0,2,2,18,14.1,H,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+29,119,29,2023-02-25,Creighton,@,Villanova,REG (Conf),L 67-79,*,30,3,7,0.429,1,4,0.25,2,3,0.667,0.5,3,4,0.75,0,3,3,3,0,0,2,2,10,6.1,A,0,1,baylor-scheierman-1,Baylor Scheierman,2023
+30,120,30,2023-03-01,Creighton,,Georgetown,REG (Conf),W 99-59,*,23,4,6,0.667,3,5,0.6,1,1,1.0,0.917,2,3,0.667,1,12,13,5,0,0,0,0,13,17.8,H,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+31,121,31,2023-03-04,Creighton,@,DePaul,REG (Conf),W 84-70,*,30,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,4,6,10,4,3,0,4,3,5,7.8,A,1,1,baylor-scheierman-1,Baylor Scheierman,2023
+32,122,32,2023-03-09,Creighton,N,Villanova,CTOURN,W 87-74,*,33,3,8,0.375,2,6,0.333,1,2,0.5,0.5,4,5,0.8,1,11,12,9,0,0,1,3,12,15.3,N,1,0,baylor-scheierman-1,Baylor Scheierman,2023
+33,123,33,2023-03-10,Creighton,N,Xavier,CTOURN,L 60-82,*,29,4,10,0.4,1,5,0.2,3,5,0.6,0.45,6,6,1.0,1,6,7,2,0,1,3,1,15,10.8,N,0,0,baylor-scheierman-1,Baylor Scheierman,2023
+34,124,34,2023-03-17,Creighton,N,NC State,ROUND-64,W 72-63,*,27,4,12,0.333,2,8,0.25,2,4,0.5,0.417,0,0,,0,6,6,4,0,1,3,3,10,4.3,N,1,0,baylor-scheierman-1,Baylor Scheierman,2023
+35,125,35,2023-03-19,Creighton,N,Baylor,ROUND-32,W 85-76,*,37,2,8,0.25,2,7,0.286,0,1,0.0,0.375,2,2,1.0,1,5,6,3,0,0,3,1,8,4.1,N,1,0,baylor-scheierman-1,Baylor Scheierman,2023
+36,126,36,2023-03-24,Creighton,N,Princeton,ROUND-16,W 86-75,*,37,8,11,0.727,5,7,0.714,3,4,0.75,0.955,0,0,,1,8,9,4,0,0,2,2,21,19.6,N,1,0,baylor-scheierman-1,Baylor Scheierman,2023
+37,127,37,2023-03-26,Creighton,N,San Diego State,ROUND-8,L 56-57,*,38,3,10,0.3,1,4,0.25,2,6,0.333,0.35,5,5,1.0,2,7,9,4,1,0,1,0,12,12.5,N,0,0,baylor-scheierman-1,Baylor Scheierman,2023

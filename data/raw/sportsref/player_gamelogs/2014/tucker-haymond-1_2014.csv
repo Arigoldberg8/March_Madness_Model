@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Western Michigan,N,New Mexico State,REG (Non-Conf),W 70-64,*,18,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,0,0,0,0,2,2,-0.9,N,1,1,tucker-haymond-1,Tucker Haymond,2014
+2,2,2,2013-11-10,Western Michigan,@,Hawaii,REG (Non-Conf),L 68-78,*,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,2,0.0,1,4,5,0,0,0,1,3,5,1.9,A,0,1,tucker-haymond-1,Tucker Haymond,2014
+3,3,3,2013-11-11,Western Michigan,N,Tennessee State,REG (Non-Conf),W 63-52,*,18,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,4,5,0,0,0,1,1,0,-3.0,N,1,1,tucker-haymond-1,Tucker Haymond,2014
+4,4,4,2013-11-17,Western Michigan,,Alabama A&M,REG (Non-Conf),W 73-69,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,3,0.333,0,2,2,1,0,0,0,1,1,-0.3,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+5,5,5,2013-11-20,Western Michigan,,North Dakota State,REG (Non-Conf),L 74-83,*,29,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,2,0.5,1,3,4,0,1,0,3,3,6,1.3,H,0,1,tucker-haymond-1,Tucker Haymond,2014
+6,6,6,2013-11-26,Western Michigan,,Oakland,REG (Non-Conf),W 99-88,*,31,3,5,0.6,2,4,0.5,1,1,1.0,0.8,5,6,0.833,0,5,5,3,2,0,1,4,13,13.3,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+7,7,7,2013-11-29,Western Michigan,,Cornell,REG (Non-Conf),W 83-70,*,36,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,4,0.75,1,2,3,2,0,0,1,0,7,4.9,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+8,8,8,2013-12-07,Western Michigan,@,Northwestern,REG (Non-Conf),L 35-51,*,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,0,0,1,1,3,0,-3.4,A,0,1,tucker-haymond-1,Tucker Haymond,2014
+9,9,13,2014-01-08,Western Michigan,,Toledo,REG (Conf),W 87-76,,14,2,3,0.667,0,0,,2,3,0.667,0.667,3,5,0.6,2,0,2,0,0,0,0,0,7,6.3,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+10,10,14,2014-01-11,Western Michigan,@,Miami (OH),REG (Conf),W 78-77 (OT),,8,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,4,4,1,0,0,0,2,6,5.8,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+11,11,15,2014-01-14,Western Michigan,@,Eastern Michigan,REG (Conf),L 37-56,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,1,1,0,4,4,0,-4.7,A,0,1,tucker-haymond-1,Tucker Haymond,2014
+12,12,16,2014-01-19,Western Michigan,,Bowling Green,REG (Conf),L 64-69,,28,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,4,4,0,0,0,3,2,8,4.1,H,0,1,tucker-haymond-1,Tucker Haymond,2014
+13,13,17,2014-01-23,Western Michigan,@,Kent State,REG (Conf),W 75-59,,21,6,11,0.545,2,3,0.667,4,8,0.5,0.636,2,3,0.667,3,3,6,0,0,0,2,2,16,10.5,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+14,14,18,2014-01-26,Western Michigan,,Ball State,REG (Conf),W 62-53,*,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,2,4,6,0,0,0,1,4,6,4.3,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+15,15,19,2014-01-29,Western Michigan,@,Buffalo,REG (Conf),L 63-84,*,28,5,8,0.625,0,2,0.0,5,6,0.833,0.625,1,2,0.5,0,6,6,2,0,1,0,1,11,10.5,A,0,1,tucker-haymond-1,Tucker Haymond,2014
+16,16,20,2014-02-01,Western Michigan,,Central Michigan,REG (Conf),W 75-72,*,26,2,5,0.4,0,2,0.0,2,3,0.667,0.4,4,4,1.0,2,2,4,0,1,0,1,1,8,6.9,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+17,17,21,2014-02-05,Western Michigan,,Ohio,REG (Conf),W 90-74,*,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,1,0,1,3,0,-1.2,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+18,18,22,2014-02-09,Western Michigan,@,Northern Illinois,REG (Conf),W 74-71,*,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,1,1.0,1,3,4,0,1,0,2,0,5,2.9,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+19,19,23,2014-02-12,Western Michigan,,Akron,REG (Conf),W 57-54,*,29,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,2,1.0,3,2,5,0,0,0,2,0,12,8.7,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+20,20,24,2014-02-15,Western Michigan,,Miami (OH),REG (Conf),W 68-57,*,32,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,4,2,6,1,0,0,3,1,6,0.9,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+21,21,25,2014-02-19,Western Michigan,@,Ohio,REG (Conf),W 73-63,*,32,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,2,0.5,1,1,2,2,2,0,2,1,9,6.6,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+22,22,26,2014-02-23,Western Michigan,,Eastern Michigan,REG (Conf),W 75-67,*,30,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,5,0.6,1,1,2,2,1,0,3,3,5,0.3,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+23,23,27,2014-02-26,Western Michigan,@,Ball State,REG (Conf),W 88-81 (OT),*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,1,0,1,2,0,0,0,1,2,0.9,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+24,24,28,2014-03-01,Western Michigan,@,Toledo,REG (Conf),L 85-96 (OT),*,23,4,5,0.8,1,2,0.5,3,3,1.0,0.9,5,5,1.0,0,0,0,1,0,0,5,4,14,6.2,A,0,1,tucker-haymond-1,Tucker Haymond,2014
+25,25,29,2014-03-04,Western Michigan,,Northern Illinois,REG (Conf),W 61-56,*,24,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,2,0.0,1,2,3,1,1,0,0,3,4,0.9,H,1,1,tucker-haymond-1,Tucker Haymond,2014
+26,26,30,2014-03-07,Western Michigan,@,Central Michigan,REG (Conf),W 78-64,*,25,7,10,0.7,0,1,0.0,7,9,0.778,0.7,0,1,0.0,1,6,7,2,1,1,2,1,14,12.6,A,1,1,tucker-haymond-1,Tucker Haymond,2014
+27,27,31,2014-03-14,Western Michigan,N,Akron,CTOURN,W 64-60 (OT),*,39,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,2,2,0,2,0,3,2,8,4.5,N,1,0,tucker-haymond-1,Tucker Haymond,2014
+28,28,32,2014-03-15,Western Michigan,N,Toledo,CTOURN,W 98-77,*,32,7,13,0.538,4,6,0.667,3,7,0.429,0.692,3,4,0.75,4,5,9,2,0,0,0,3,21,18.8,N,1,0,tucker-haymond-1,Tucker Haymond,2014
+29,29,33,2014-03-20,Western Michigan,N,Syracuse,ROUND-64,L 53-77,*,33,5,11,0.455,0,2,0.0,5,9,0.556,0.455,1,2,0.5,2,2,4,1,1,0,1,2,11,6.8,N,0,0,tucker-haymond-1,Tucker Haymond,2014

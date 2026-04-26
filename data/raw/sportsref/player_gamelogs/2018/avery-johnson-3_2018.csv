@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,48,1,2017-11-10,Alabama,N,Memphis,REG (Non-Conf),W 82-70,,22,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,4,0.75,2,0,2,0,0,0,2,2,13,8.6,N,1,1,avery-johnson-3,Avery Johnson,2018
+2,49,2,2017-11-14,Alabama,,Lipscomb,REG (Non-Conf),W 86-64,,20,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,0,0,0,1,3,0,0,1,9,10.7,H,1,1,avery-johnson-3,Avery Johnson,2018
+3,50,3,2017-11-17,Alabama,,Alabama A&M,REG (Non-Conf),W 104-67,,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,4,4,5,2,0,0,3,0,2.7,H,1,1,avery-johnson-3,Avery Johnson,2018
+4,51,4,2017-11-21,Alabama,,UT Arlington,REG (Non-Conf),W 77-76,,13,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,1,1,1,0,0,1,1,8,3.9,H,1,1,avery-johnson-3,Avery Johnson,2018
+5,52,5,2017-11-24,Alabama,N,Brigham Young,REG (Non-Conf),W 71-59,,10,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,0,0,0,4,3,-0.3,N,1,1,avery-johnson-3,Avery Johnson,2018
+6,53,6,2017-11-25,Alabama,N,Minnesota,REG (Non-Conf),L 84-89,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,1,2,0,0,0,1,0,2,0.9,N,0,1,avery-johnson-3,Avery Johnson,2018
+7,54,7,2017-11-29,Alabama,,Louisiana Tech,REG (Non-Conf),W 77-74,,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,1,1,0,1,1,2,0.2,H,1,1,avery-johnson-3,Avery Johnson,2018
+8,55,8,2017-12-03,Alabama,,UCF,REG (Non-Conf),L 62-65,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,2,2,-0.5,H,0,1,avery-johnson-3,Avery Johnson,2018
+9,56,9,2017-12-06,Alabama,,Rhode Island,REG (Non-Conf),W 68-64,,13,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,0,0,0,0,1,0,2,3,4,-0.6,H,1,1,avery-johnson-3,Avery Johnson,2018
+10,57,10,2017-12-09,Alabama,@,Arizona,REG (Non-Conf),L 82-88,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.1,A,0,1,avery-johnson-3,Avery Johnson,2018
+11,58,11,2017-12-19,Alabama,N,Mercer,REG (Non-Conf),W 80-79,,12,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,1,0,1,0,0,0,0,1,2,-1.5,N,1,1,avery-johnson-3,Avery Johnson,2018
+12,59,12,2017-12-22,Alabama,N,Texas,REG (Non-Conf),L 50-66,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,1,2,0.2,N,0,1,avery-johnson-3,Avery Johnson,2018
+13,60,13,2017-12-30,Alabama,,Texas A&M,REG (Conf),W 79-57,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,1,2,3,0,1,0,1,2,2,0.4,H,1,1,avery-johnson-3,Avery Johnson,2018
+14,61,14,2018-01-02,Alabama,@,Vanderbilt,REG (Conf),L 75-76,,19,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,1,1,6,3.2,A,0,1,avery-johnson-3,Avery Johnson,2018
+15,62,15,2018-01-06,Alabama,@,Georgia,REG (Conf),L 46-65,,22,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,2,1.0,0,1,1,1,2,0,1,2,8,5.1,A,0,1,avery-johnson-3,Avery Johnson,2018
+16,63,16,2018-01-09,Alabama,,South Carolina,REG (Conf),W 76-62,,16,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,2,0,0,0,1,10,9.0,H,1,1,avery-johnson-3,Avery Johnson,2018
+17,64,17,2018-01-13,Alabama,@,Louisiana State,REG (Conf),W 74-66,,11,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,0,0,0,0,0,0,2,5,1.8,A,1,1,avery-johnson-3,Avery Johnson,2018
+18,65,18,2018-01-17,Alabama,,Auburn,REG (Conf),W 76-71,,15,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,1,0,1,1,3,2,-0.9,H,1,1,avery-johnson-3,Avery Johnson,2018
+19,66,19,2018-01-20,Alabama,,Mississippi State,REG (Conf),W 68-62,,16,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,1,1,5,2.6,H,1,1,avery-johnson-3,Avery Johnson,2018
+20,67,20,2018-01-23,Alabama,@,Ole Miss,REG (Conf),L 66-78,,23,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,1,0,0,0,2,2,-0.9,A,0,1,avery-johnson-3,Avery Johnson,2018
+21,68,21,2018-01-27,Alabama,,Oklahoma,REG (Non-Conf),W 80-73,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,0,0,0,1,0,4,2.0,H,1,1,avery-johnson-3,Avery Johnson,2018
+22,69,22,2018-01-31,Alabama,,Missouri,REG (Conf),L 60-69,,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,H,0,1,avery-johnson-3,Avery Johnson,2018
+23,70,23,2018-02-03,Alabama,@,Florida,REG (Conf),W 68-50,,21,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,3,0.333,2,0,2,2,2,0,0,1,10,9.6,A,1,1,avery-johnson-3,Avery Johnson,2018
+24,71,24,2018-02-06,Alabama,@,Mississippi State,REG (Conf),L 63-67,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,5,0.8,1,1,2,0,0,0,0,3,9,7.1,A,0,1,avery-johnson-3,Avery Johnson,2018
+25,72,25,2018-02-10,Alabama,,Tennessee,REG (Conf),W 78-50,,16,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,1,1,2,1,0,0,2,3,2,-2.3,H,1,1,avery-johnson-3,Avery Johnson,2018
+26,73,26,2018-02-13,Alabama,,Louisiana State,REG (Conf),W 80-65,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,2,0,0,1,2,2,0.2,H,1,1,avery-johnson-3,Avery Johnson,2018
+27,74,27,2018-02-17,Alabama,@,Kentucky,REG (Conf),L 71-81,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,0,0,0,0,2,2.4,A,0,1,avery-johnson-3,Avery Johnson,2018
+28,75,28,2018-02-21,Alabama,@,Auburn,REG (Conf),L 71-90,,24,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,2,2,2,3,0,1,5,10,8.0,A,0,1,avery-johnson-3,Avery Johnson,2018
+29,76,29,2018-02-24,Alabama,,Arkansas,REG (Conf),L 73-76,,10,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,1,1,2,1,0,0,0,1,5,3.9,H,0,1,avery-johnson-3,Avery Johnson,2018
+30,77,30,2018-02-27,Alabama,,Florida,REG (Conf),L 52-73,,20,1,8,0.125,0,1,0.0,1,7,0.143,0.125,2,3,0.667,2,1,3,0,0,0,0,1,4,-0.3,H,0,1,avery-johnson-3,Avery Johnson,2018
+31,78,31,2018-03-03,Alabama,@,Texas A&M,REG (Conf),L 66-68,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,3,0,-1.6,A,0,1,avery-johnson-3,Avery Johnson,2018
+32,79,32,2018-03-08,Alabama,N,Texas A&M,CTOURN,W 71-70,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,N,1,0,avery-johnson-3,Avery Johnson,2018
+33,80,33,2018-03-09,Alabama,N,Auburn,CTOURN,W 81-63,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,N,1,0,avery-johnson-3,Avery Johnson,2018
+34,81,34,2018-03-10,Alabama,N,Kentucky,CTOURN,L 63-86,,17,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,1,1,1,0,0,0,0,7,5.0,N,0,0,avery-johnson-3,Avery Johnson,2018
+35,82,35,2018-03-15,Alabama,N,Virginia Tech,ROUND-64,W 86-83,,10,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,3,0.667,0,0,0,1,0,0,0,0,8,6.0,N,1,0,avery-johnson-3,Avery Johnson,2018
+36,83,36,2018-03-17,Alabama,N,Villanova,ROUND-32,L 58-81,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,1,1,0,1,0,1,0,2,0.2,N,0,0,avery-johnson-3,Avery Johnson,2018

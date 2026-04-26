@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,21,1,2016-11-11,Northwestern,,Mississippi Valley State,REG (Non-Conf),W 94-63,*,21,2,6,0.333,0,0,2,6,0.333,0.333,0,1,0.0,3,4,7,0,0,0,0,2,4,2.7,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+2,22,2,2016-11-14,Northwestern,,Eastern Washington,REG (Non-Conf),W 86-72,*,31,4,5,0.8,0,0,4,5,0.8,0.8,4,5,0.8,3,2,5,0,1,5,1,3,12,14.7,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+3,23,3,2016-11-16,Northwestern,@,Butler,REG (Non-Conf),L 68-70,*,26,2,3,0.667,0,0,2,3,0.667,0.667,4,4,1.0,1,3,4,1,0,1,1,5,8,6.7,A,0,1,dererk-pardon-1,Dererk Pardon,2017
+4,24,4,2016-11-21,Northwestern,N,Texas,REG (Non-Conf),W 77-58,*,36,4,7,0.571,0,0,4,7,0.571,0.571,2,5,0.4,6,5,11,1,0,2,0,3,10,12.1,N,1,1,dererk-pardon-1,Dererk Pardon,2017
+5,25,5,2016-11-22,Northwestern,N,Notre Dame,REG (Non-Conf),L 66-70,*,35,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,4,7,3,2,7,0,2,6,15.9,N,0,1,dererk-pardon-1,Dererk Pardon,2017
+6,26,6,2016-11-25,Northwestern,,Bryant,REG (Non-Conf),W 86-66,*,27,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,2,8,10,1,0,2,0,1,6,8.5,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+7,27,7,2016-11-28,Northwestern,,Wake Forest,REG (Non-Conf),W 65-58,*,16,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,3,3,6,1,0,2,1,4,2,3.5,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+8,28,16,2017-01-05,Northwestern,,Minnesota,REG (Conf),L 66-70,*,32,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,1,7,8,2,1,1,0,0,9,11.9,H,0,1,dererk-pardon-1,Dererk Pardon,2017
+9,29,17,2017-01-08,Northwestern,@,Nebraska,REG (Conf),W 74-66,*,32,6,8,0.75,0,0,6,8,0.75,0.75,1,2,0.5,3,2,5,1,1,1,1,2,13,12.7,A,1,1,dererk-pardon-1,Dererk Pardon,2017
+10,30,18,2017-01-12,Northwestern,@,Rutgers,REG (Conf),W 69-60,*,32,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,8,3,11,1,0,8,1,2,8,15.7,A,1,1,dererk-pardon-1,Dererk Pardon,2017
+11,31,19,2017-01-15,Northwestern,,Iowa,REG (Conf),W 89-54,*,32,7,12,0.583,0,0,7,12,0.583,0.583,0,2,0.0,5,4,9,2,2,2,1,3,14,14.9,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+12,32,20,2017-01-22,Northwestern,@,Ohio State,REG (Conf),W 74-72,*,32,1,7,0.143,0,0,1,7,0.143,0.143,0,0,,4,4,8,4,0,2,2,4,2,2.1,A,1,1,dererk-pardon-1,Dererk Pardon,2017
+13,33,21,2017-01-26,Northwestern,,Nebraska,REG (Conf),W 73-61,*,34,8,11,0.727,0,0,8,11,0.727,0.727,3,6,0.5,6,16,22,0,1,3,1,1,19,24.0,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+14,34,22,2017-01-29,Northwestern,,Indiana,REG (Conf),W 68-55,*,24,0,0,,0,0,0,0,,,0,0,,2,5,7,0,0,3,0,3,0,3.8,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+15,35,23,2017-02-01,Northwestern,@,Purdue,REG (Conf),L 59-80,*,29,3,7,0.429,0,0,3,7,0.429,0.429,0,1,0.0,1,2,3,1,3,1,0,4,6,6.0,A,0,1,dererk-pardon-1,Dererk Pardon,2017
+16,36,24,2017-02-07,Northwestern,,Illinois,REG (Conf),L 61-68,*,35,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,2,4,6,2,0,0,2,0,6,5.3,H,0,1,dererk-pardon-1,Dererk Pardon,2017
+17,37,25,2017-02-12,Northwestern,@,Wisconsin,REG (Conf),W 66-59,*,35,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,4,4,8,1,2,1,1,4,11,12.5,A,1,1,dererk-pardon-1,Dererk Pardon,2017
+18,38,26,2017-02-15,Northwestern,,Maryland,REG (Conf),L 64-74,*,33,5,6,0.833,0,0,5,6,0.833,0.833,1,6,0.167,2,4,6,0,2,2,2,3,11,9.6,H,0,1,dererk-pardon-1,Dererk Pardon,2017
+19,39,27,2017-02-18,Northwestern,,Rutgers,REG (Conf),W 69-65,*,36,5,7,0.714,0,0,5,7,0.714,0.714,2,3,0.667,3,5,8,2,1,1,1,1,12,14.0,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+20,40,28,2017-02-21,Northwestern,@,Illinois,REG (Conf),L 50-66,*,32,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,4,8,12,1,0,0,2,2,6,8.2,A,0,1,dererk-pardon-1,Dererk Pardon,2017
+21,41,29,2017-02-25,Northwestern,@,Indiana,REG (Conf),L 62-63,*,35,4,10,0.4,0,0,4,10,0.4,0.4,4,7,0.571,7,3,10,0,1,2,1,3,12,11.4,A,0,1,dererk-pardon-1,Dererk Pardon,2017
+22,42,30,2017-03-01,Northwestern,,Michigan,REG (Conf),W 67-65,*,25,4,5,0.8,0,0,4,5,0.8,0.8,1,4,0.25,2,6,8,3,0,2,1,3,9,10.4,H,1,1,dererk-pardon-1,Dererk Pardon,2017
+23,43,31,2017-03-05,Northwestern,,Purdue,REG (Conf),L 65-69,*,34,5,6,0.833,0,0,5,6,0.833,0.833,1,2,0.5,2,2,4,4,0,0,0,3,11,12.0,H,0,1,dererk-pardon-1,Dererk Pardon,2017
+24,44,32,2017-03-09,Northwestern,N,Rutgers,CTOURN,W 83-61,*,29,5,6,0.833,0,0,5,6,0.833,0.833,3,4,0.75,3,5,8,0,1,1,1,2,13,13.9,N,1,0,dererk-pardon-1,Dererk Pardon,2017
+25,45,33,2017-03-10,Northwestern,N,Maryland,CTOURN,W 72-64,*,32,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,2,6,8,0,0,1,4,5,4,0.2,N,1,0,dererk-pardon-1,Dererk Pardon,2017
+26,46,34,2017-03-11,Northwestern,N,Wisconsin,CTOURN,L 48-76,*,32,3,7,0.429,0,0,3,7,0.429,0.429,1,1,1.0,3,4,7,0,0,0,1,2,7,4.8,N,0,0,dererk-pardon-1,Dererk Pardon,2017
+27,47,35,2017-03-16,Northwestern,N,Vanderbilt,ROUND-64,W 68-66,*,37,4,7,0.571,0,0,4,7,0.571,0.571,6,8,0.75,4,7,11,1,2,0,5,3,14,11.3,N,1,0,dererk-pardon-1,Dererk Pardon,2017
+28,48,36,2017-03-18,Northwestern,N,Gonzaga,ROUND-32,L 73-79,*,28,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,4,7,0,3,1,0,5,6,9.4,N,0,0,dererk-pardon-1,Dererk Pardon,2017

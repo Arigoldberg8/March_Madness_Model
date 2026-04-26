@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,73,1,2017-11-10,TCU,,Louisiana–Monroe,REG (Non-Conf),W 83-73,*,28,8,11,0.727,0,1,0.0,8,10,0.8,0.727,0,2,0.0,2,1,3,0,0,3,1,3,16,12.3,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+2,74,2,2017-11-13,TCU,,Tennessee Tech,REG (Non-Conf),W 100-63,*,20,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,2,0.0,0,3,3,3,1,3,0,1,11,13.7,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+3,75,3,2017-11-15,TCU,,South Dakota,REG (Non-Conf),W 76-71,*,31,8,15,0.533,1,5,0.2,7,10,0.7,0.567,6,7,0.857,0,5,5,2,0,3,3,0,23,17.3,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+4,76,4,2017-11-20,TCU,,Omaha,REG (Non-Conf),W 99-66,*,20,5,8,0.625,1,4,0.25,4,4,1.0,0.688,8,9,0.889,0,6,6,0,0,1,2,1,19,15.1,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+5,77,5,2017-11-24,TCU,N,New Mexico,REG (Non-Conf),W 69-67,*,27,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,2,1,3,0,0,1,4,1,8,4.0,N,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+6,78,6,2017-11-25,TCU,N,St. Bonaventure,REG (Non-Conf),W 89-79,*,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,3,1.0,2,2,4,0,0,1,1,4,11,8.5,N,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+7,79,7,2017-11-29,TCU,,Belmont,REG (Non-Conf),W 87-76,*,27,8,11,0.727,5,6,0.833,3,5,0.6,0.955,1,1,1.0,2,3,5,1,1,0,2,1,22,19.1,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+8,80,8,2017-12-02,TCU,,Yale,REG (Non-Conf),W 92-66,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,2,3,0,0,2,0,2,5,4.5,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+9,81,9,2017-12-05,TCU,,SMU,REG (Non-Conf),W 94-83,*,20,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,2,0,2,0,1,1,1,3,7,6.3,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+10,82,10,2017-12-09,TCU,N,Nevada,REG (Non-Conf),W 84-80,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,3,6,0.5,0,2,2,0,0,3,1,2,11,7.4,N,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+11,83,11,2017-12-18,TCU,,Texas Southern,REG (Non-Conf),W 91-72,*,27,6,10,0.6,0,0,,6,10,0.6,0.6,6,8,0.75,5,5,10,1,0,0,1,1,18,16.9,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+12,84,12,2017-12-22,TCU,,William & Mary,REG (Non-Conf),W 86-75,*,30,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,0,6,6,4,2,3,1,1,11,16.7,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+13,85,13,2017-12-30,TCU,,Oklahoma,REG (Conf),L 89-90,*,18,4,10,0.4,0,1,0.0,4,9,0.444,0.4,4,4,1.0,4,1,5,0,0,2,0,4,12,9.5,H,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+14,86,14,2018-01-02,TCU,@,Baylor,REG (Conf),W 81-78 (OT),*,33,6,12,0.5,2,3,0.667,4,9,0.444,0.583,4,4,1.0,1,4,5,2,2,1,4,3,18,12.8,A,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+15,87,15,2018-01-06,TCU,,Kansas,REG (Conf),L 84-88,*,25,5,10,0.5,0,0,,5,10,0.5,0.5,10,10,1.0,3,2,5,2,0,1,1,3,20,17.6,H,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+16,88,16,2018-01-10,TCU,@,Texas,REG (Conf),L 98-99 (2OT),*,34,6,14,0.429,0,1,0.0,6,13,0.462,0.429,7,8,0.875,4,2,6,1,0,0,1,4,19,12.7,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+17,89,17,2018-01-13,TCU,@,Oklahoma,REG (Conf),L 97-102 (OT),*,32,7,11,0.636,2,3,0.667,5,8,0.625,0.727,5,6,0.833,2,4,6,3,0,3,2,5,21,18.5,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+18,90,18,2018-01-17,TCU,,Iowa State,REG (Conf),W 96-73,*,28,11,13,0.846,0,2,0.0,11,11,1.0,0.846,4,4,1.0,1,3,4,2,0,3,1,2,26,24.6,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+19,91,19,2018-01-20,TCU,@,Kansas State,REG (Conf),L 68-73,*,30,5,12,0.417,2,5,0.4,3,7,0.429,0.5,3,5,0.6,3,2,5,0,0,0,1,1,15,9.1,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+20,92,20,2018-01-22,TCU,,West Virginia,REG (Conf),W 82-73,*,33,3,12,0.25,0,6,0.0,3,6,0.5,0.25,8,9,0.889,3,7,10,3,0,5,0,2,14,15.4,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+21,93,21,2018-01-27,TCU,@,Vanderbilt,REG (Non-Conf),L 78-81,*,35,7,12,0.583,1,4,0.25,6,8,0.75,0.625,0,0,,2,3,5,1,0,0,2,1,15,10.0,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+22,94,22,2018-01-30,TCU,@,Oklahoma State,REG (Conf),W 79-66,*,23,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,1,1.0,1,5,6,0,0,1,1,1,10,8.9,A,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+23,95,23,2018-02-03,TCU,,Texas Tech,REG (Conf),L 71-83,*,27,6,9,0.667,0,0,,6,9,0.667,0.667,6,8,0.75,1,2,3,1,0,3,2,4,18,13.8,H,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+24,96,24,2018-02-06,TCU,@,Kansas,REG (Conf),L 64-71,*,31,6,17,0.353,1,3,0.333,5,14,0.357,0.382,2,2,1.0,6,2,8,1,1,1,1,3,15,10.5,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+25,97,25,2018-02-10,TCU,,Texas,REG (Conf),W 87-71,*,33,11,19,0.579,1,4,0.25,10,15,0.667,0.605,2,2,1.0,4,2,6,3,0,0,0,3,25,20.4,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+26,98,26,2018-02-12,TCU,@,West Virginia,REG (Conf),L 66-82,*,29,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,2,3,5,0,1,1,2,1,15,12.7,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+27,99,27,2018-02-17,TCU,,Oklahoma State,REG (Conf),W 90-70,*,17,5,9,0.556,0,1,0.0,5,8,0.625,0.556,4,5,0.8,0,3,3,1,0,2,0,3,14,11.1,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+28,100,28,2018-02-21,TCU,@,Iowa State,REG (Conf),W 89-83,*,30,4,7,0.571,0,0,,4,7,0.571,0.571,6,6,1.0,1,2,3,1,1,2,0,3,14,13.9,A,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+29,101,29,2018-02-24,TCU,,Baylor,REG (Conf),W 82-72,*,27,4,6,0.667,0,0,,4,6,0.667,0.667,6,8,0.75,2,1,3,1,0,0,4,0,14,9.0,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+30,102,30,2018-02-27,TCU,,Kansas State,REG (Conf),W 66-59,*,24,1,3,0.333,1,1,1.0,0,2,0.0,0.5,4,4,1.0,2,4,6,0,0,3,1,2,7,8.2,H,1,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+31,103,31,2018-03-03,TCU,@,Texas Tech,REG (Conf),L 75-79,*,23,8,12,0.667,0,1,0.0,8,11,0.727,0.667,0,0,,6,4,10,2,0,1,0,3,16,17.1,A,0,1,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+32,104,32,2018-03-08,TCU,N,Kansas State,CTOURN,L 64-66 (OT),*,36,5,9,0.556,0,2,0.0,5,7,0.714,0.556,3,4,0.75,3,4,7,2,0,2,1,2,13,12.6,N,0,0,vladimir-brodziansky-1,Vladimir Brodziansky,2018
+33,105,33,2018-03-16,TCU,N,Syracuse,ROUND-64,L 52-57,*,29,5,7,0.714,0,0,,5,7,0.714,0.714,3,4,0.75,1,3,4,1,0,3,0,2,13,13.3,N,0,0,vladimir-brodziansky-1,Vladimir Brodziansky,2018

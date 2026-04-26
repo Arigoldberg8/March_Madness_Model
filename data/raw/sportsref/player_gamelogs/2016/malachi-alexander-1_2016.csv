@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2015-11-13,Holy Cross,@,Marist,REG (Non-Conf),W 67-64,*,34,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,2,1.0,0,2,2,3,0,0,1,4,10,6.4,A,1,1,malachi-alexander-1,Malachi Alexander,2016
+2,66,2,2015-11-16,Holy Cross,@,Brown,REG (Non-Conf),L 55-71,*,31,2,10,0.2,0,3,0.0,2,7,0.286,0.2,1,1,1.0,4,6,10,0,1,0,3,4,5,-0.2,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+3,67,3,2015-11-19,Holy Cross,,New Hampshire,REG (Non-Conf),L 69-73,*,38,5,7,0.714,3,3,1.0,2,4,0.5,0.929,0,0,,0,6,6,7,0,0,1,1,13,15.4,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+4,68,4,2015-11-22,Holy Cross,@,Quinnipiac,REG (Non-Conf),L 56-62,*,34,2,6,0.333,1,5,0.2,1,1,1.0,0.417,3,4,0.75,3,5,8,4,1,0,0,1,8,11.2,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+5,69,5,2015-11-25,Holy Cross,,Sacred Heart,REG (Non-Conf),W 69-60,*,29,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,4,0.5,3,2,5,3,1,0,1,4,11,10.1,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+6,70,6,2015-11-29,Holy Cross,,Harvard,REG (Non-Conf),W 50-49,*,39,5,9,0.556,2,4,0.5,3,5,0.6,0.667,5,7,0.714,1,4,5,1,0,0,0,1,17,14.1,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+7,71,7,2015-12-02,Holy Cross,@,Rhode Island,REG (Non-Conf),L 56-74,*,30,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,2,0.0,2,4,6,2,1,0,3,4,7,2.9,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+8,72,8,2015-12-05,Holy Cross,,Albany (NY),REG (Non-Conf),L 84-88 (OT),*,42,7,9,0.778,1,2,0.5,6,7,0.857,0.833,3,4,0.75,1,5,6,4,0,1,2,4,18,16.2,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+9,73,9,2015-12-09,Holy Cross,@,Kansas,REG (Non-Conf),L 59-92,*,29,3,6,0.5,2,5,0.4,1,1,1.0,0.667,3,3,1.0,1,1,2,1,2,0,1,4,11,9.1,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+10,74,10,2015-12-12,Holy Cross,@,Hartford,REG (Non-Conf),W 90-68,*,31,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,3,0.667,1,8,9,6,3,0,4,1,11,15.3,A,1,1,malachi-alexander-1,Malachi Alexander,2016
+11,75,11,2015-12-21,Holy Cross,,Maine,REG (Non-Conf),W 76-75,*,33,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,2,0.0,2,8,10,3,0,0,2,3,6,4.9,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+12,76,12,2015-12-30,Holy Cross,,Boston University,REG (Conf),W 80-64,*,32,7,8,0.875,3,4,0.75,4,4,1.0,1.063,0,0,,1,2,3,2,0,0,2,3,17,13.7,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+13,77,13,2016-01-02,Holy Cross,@,Navy,REG (Conf),L 60-65,*,35,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,7,0.571,2,2,4,1,0,0,1,4,10,5.9,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+14,78,14,2016-01-06,Holy Cross,,Colgate,REG (Conf),W 65-63,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,3,9,0.333,1,3,4,3,0,0,4,3,9,2.1,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+15,79,15,2016-01-09,Holy Cross,@,Bucknell,REG (Conf),L 71-98,*,30,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,7,0.571,0,1,1,5,2,1,3,4,8,4.6,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+16,80,16,2016-01-13,Holy Cross,@,Lafayette,REG (Conf),L 52-65,*,33,0,5,0.0,0,2,0.0,0,3,0.0,0.0,5,5,1.0,2,5,7,4,3,0,2,3,5,7.0,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+17,81,17,2016-01-16,Holy Cross,,Lehigh,REG (Conf),L 66-87,*,32,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,5,0.8,0,3,3,4,0,0,0,2,10,8.1,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+18,82,18,2016-01-20,Holy Cross,,Army,REG (Conf),W 69-65,*,31,7,12,0.583,1,3,0.333,6,9,0.667,0.625,5,6,0.833,3,3,6,1,3,0,1,1,20,19.3,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+19,83,19,2016-01-24,Holy Cross,@,Colgate,REG (Conf),L 61-76,*,32,3,6,0.5,0,0,,3,6,0.5,0.5,1,4,0.25,0,2,2,1,1,0,1,4,7,2.5,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+20,84,20,2016-01-27,Holy Cross,,Loyola (MD),REG (Conf),L 54-71,*,36,5,11,0.455,1,6,0.167,4,5,0.8,0.5,0,0,,2,2,4,2,3,0,2,1,11,9.3,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+21,85,21,2016-01-30,Holy Cross,,Navy,REG (Conf),W 87-80 (OT),*,44,6,15,0.4,2,4,0.5,4,11,0.364,0.467,12,13,0.923,3,5,8,3,0,2,3,1,26,21.2,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+22,86,22,2016-02-01,Holy Cross,@,American,REG (Conf),L 45-58,*,37,2,10,0.2,0,4,0.0,2,6,0.333,0.2,0,3,0.0,2,6,8,2,0,0,5,2,4,-4.6,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+23,87,23,2016-02-06,Holy Cross,,Bucknell,REG (Conf),L 52-77,*,18,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,2,3,1,0,0,4,2,1,-2.9,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+24,88,24,2016-02-10,Holy Cross,,Lafayette,REG (Conf),W 67-53,*,33,4,11,0.364,4,5,0.8,0,6,0.0,0.545,2,2,1.0,5,4,9,3,1,0,1,1,14,14.3,H,1,1,malachi-alexander-1,Malachi Alexander,2016
+25,89,25,2016-02-15,Holy Cross,@,Lehigh,REG (Conf),L 59-64,*,21,3,11,0.273,1,3,0.333,2,8,0.25,0.318,0,3,0.0,2,4,6,4,1,0,1,4,7,3.1,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+26,90,26,2016-02-17,Holy Cross,@,Army,REG (Conf),L 68-72,*,35,7,13,0.538,2,4,0.5,5,9,0.556,0.615,1,1,1.0,3,3,6,3,1,0,2,3,17,13.6,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+27,91,27,2016-02-21,Holy Cross,,American,REG (Conf),L 70-71 (OT),*,30,3,8,0.375,1,3,0.333,2,5,0.4,0.438,5,8,0.625,2,2,4,4,0,0,1,4,12,8.6,H,0,1,malachi-alexander-1,Malachi Alexander,2016
+28,92,28,2016-02-24,Holy Cross,@,Loyola (MD),REG (Conf),L 63-78,*,18,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,2,0.0,1,4,5,2,0,0,0,2,5,2.6,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+29,93,29,2016-02-27,Holy Cross,@,Boston University,REG (Conf),L 68-83,*,33,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,2,2,1,0,0,1,3,12,7.5,A,0,1,malachi-alexander-1,Malachi Alexander,2016
+30,94,30,2016-03-01,Holy Cross,@,Loyola (MD),CTOURN,W 72-67,*,39,9,13,0.692,4,7,0.571,5,6,0.833,0.846,2,3,0.667,0,6,6,2,1,0,1,2,24,20.5,A,1,0,malachi-alexander-1,Malachi Alexander,2016
+31,95,31,2016-03-03,Holy Cross,@,Bucknell,CTOURN,W 77-72 (2OT),*,41,6,15,0.4,2,3,0.667,4,12,0.333,0.467,6,8,0.75,2,6,8,3,2,0,2,4,20,14.8,A,1,0,malachi-alexander-1,Malachi Alexander,2016
+32,96,32,2016-03-06,Holy Cross,@,Army,CTOURN,W 60-38,*,35,5,10,0.5,2,6,0.333,3,4,0.75,0.6,1,2,0.5,2,5,7,1,1,0,0,1,13,11.8,A,1,0,malachi-alexander-1,Malachi Alexander,2016
+33,97,33,2016-03-09,Holy Cross,N,Lehigh,CTOURN,W 59-56,*,39,7,10,0.7,6,7,0.857,1,3,0.333,1.0,6,8,0.75,2,7,9,3,1,0,0,3,26,26.4,N,1,0,malachi-alexander-1,Malachi Alexander,2016
+34,98,34,2016-03-16,Holy Cross,N,Southern,FIRST-FOUR,W 59-55,*,39,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,3,0.333,0,8,8,9,1,1,3,1,7,10.5,N,1,0,malachi-alexander-1,Malachi Alexander,2016
+35,99,35,2016-03-18,Holy Cross,N,Oregon,ROUND-64,L 52-91,*,29,3,9,0.333,2,4,0.5,1,5,0.2,0.444,2,3,0.667,4,1,5,1,1,0,3,2,10,5.5,N,0,0,malachi-alexander-1,Malachi Alexander,2016

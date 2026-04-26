@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,79,1,2011-11-11,North Carolina,N,Michigan State,REG (Non-Conf),W 67-55,*,31,3,8,0.375,0,0,3,8,0.375,0.375,3,6,0.5,1,5,6,0,2,0,3,1,9,4.2,N,1,1,tyler-zeller-1,Tyler Zeller,2012
+2,80,2,2011-11-13,North Carolina,@,UNC Asheville,REG (Non-Conf),W 91-75,*,30,8,13,0.615,0,0,8,13,0.615,0.615,11,13,0.846,1,7,8,0,0,1,4,3,27,18.6,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+3,81,3,2011-11-20,North Carolina,,Mississippi Valley State,REG (Non-Conf),W 101-75,*,23,8,15,0.533,0,0,8,15,0.533,0.533,0,2,0.0,6,4,10,1,2,3,1,1,16,16.7,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+4,82,4,2011-11-22,North Carolina,,Tennessee State,REG (Non-Conf),W 102-69,*,27,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,3,4,7,0,2,1,0,2,12,13.3,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+5,83,5,2011-11-25,North Carolina,N,South Carolina,REG (Non-Conf),W 87-62,*,20,4,12,0.333,0,0,4,12,0.333,0.333,4,6,0.667,4,1,5,1,2,1,1,4,12,8.3,N,1,1,tyler-zeller-1,Tyler Zeller,2012
+6,84,6,2011-11-26,North Carolina,N,UNLV,REG (Non-Conf),L 80-90,*,24,1,6,0.167,0,0,1,6,0.167,0.167,3,5,0.6,0,7,7,0,0,0,1,4,5,-0.1,N,0,1,tyler-zeller-1,Tyler Zeller,2012
+7,85,7,2011-11-30,North Carolina,,Wisconsin,REG (Non-Conf),W 60-57,*,35,3,5,0.6,0,0,3,5,0.6,0.6,6,6,1.0,1,6,7,0,0,0,0,1,12,11.8,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+8,86,8,2011-12-03,North Carolina,@,Kentucky,REG (Non-Conf),L 72-73,*,28,4,9,0.444,0,0,4,9,0.444,0.444,6,6,1.0,5,3,8,2,1,1,4,1,14,12.4,A,0,1,tyler-zeller-1,Tyler Zeller,2012
+9,87,9,2011-12-06,North Carolina,,Evansville,REG (Non-Conf),W 97-48,*,22,5,9,0.556,0,0,5,9,0.556,0.556,2,2,1.0,5,5,10,4,1,1,1,2,12,15.4,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+10,88,10,2011-12-10,North Carolina,,Long Beach State,REG (Non-Conf),W 84-78,*,32,7,9,0.778,0,0,7,9,0.778,0.778,3,3,1.0,3,6,9,4,1,1,4,4,17,16.3,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+11,89,11,2011-12-17,North Carolina,,Appalachian State,REG (Non-Conf),W 97-82,*,26,11,15,0.733,0,0,11,15,0.733,0.733,9,10,0.9,5,5,10,1,1,0,0,1,31,30.8,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+12,90,12,2011-12-19,North Carolina,,Nicholls State,REG (Non-Conf),W 99-49,*,20,3,7,0.429,0,0,3,7,0.429,0.429,1,2,0.5,6,5,11,2,2,1,2,1,7,10.3,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+13,91,13,2011-12-21,North Carolina,,Texas,REG (Non-Conf),W 82-63,*,24,3,11,0.273,0,0,3,11,0.273,0.273,2,2,1.0,3,8,11,1,0,2,0,4,8,6.5,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+14,92,14,2011-12-29,North Carolina,,Elon,REG (Non-Conf),W 100-62,*,22,6,12,0.5,0,0,6,12,0.5,0.5,7,8,0.875,9,4,13,0,1,1,2,1,19,19.4,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+15,93,15,2012-01-01,North Carolina,,Monmouth,REG (Non-Conf),W 102-65,*,22,4,5,0.8,0,0,4,5,0.8,0.8,0,4,0.0,4,7,11,3,1,1,2,2,8,10.4,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+16,94,16,2012-01-07,North Carolina,,Boston College,REG (Conf),W 83-60,*,30,8,12,0.667,0,0,8,12,0.667,0.667,4,5,0.8,2,6,8,0,1,2,2,3,20,16.8,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+17,95,17,2012-01-10,North Carolina,,Miami (FL),REG (Conf),W 73-56,*,25,6,11,0.545,0,0,6,11,0.545,0.545,4,4,1.0,6,4,10,1,1,1,3,2,16,14.7,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+18,96,18,2012-01-14,North Carolina,@,Florida State,REG (Conf),L 57-90,*,33,6,8,0.75,0,0,6,8,0.75,0.75,2,4,0.5,7,7,14,0,1,4,3,4,14,16.2,A,0,1,tyler-zeller-1,Tyler Zeller,2012
+19,97,19,2012-01-19,North Carolina,@,Virginia Tech,REG (Conf),W 82-68,*,31,5,11,0.455,0,0,5,11,0.455,0.455,4,4,1.0,4,7,11,1,1,2,2,2,14,13.5,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+20,98,20,2012-01-26,North Carolina,,NC State,REG (Conf),W 74-55,*,27,8,11,0.727,0,0,8,11,0.727,0.727,5,5,1.0,6,11,17,1,2,1,2,0,21,25.4,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+21,99,21,2012-01-29,North Carolina,,Georgia Tech,REG (Conf),W 93-81,*,23,7,9,0.778,0,0,7,9,0.778,0.778,3,6,0.5,0,3,3,1,2,2,2,4,17,13.7,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+22,100,22,2012-01-31,North Carolina,@,Wake Forest,REG (Conf),W 68-53,*,31,5,13,0.385,0,0,5,13,0.385,0.385,8,8,1.0,9,9,18,0,0,3,0,3,18,20.8,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+23,101,23,2012-02-04,North Carolina,@,Maryland,REG (Conf),W 83-74,*,22,7,12,0.583,0,0,7,12,0.583,0.583,8,9,0.889,3,4,7,0,0,2,3,4,22,16.1,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+24,102,24,2012-02-08,North Carolina,,Duke,REG (Conf),L 84-85,*,33,8,15,0.533,0,0,8,15,0.533,0.533,7,11,0.636,4,7,11,0,0,2,2,4,23,16.8,H,0,1,tyler-zeller-1,Tyler Zeller,2012
+25,103,25,2012-02-11,North Carolina,,Virginia,REG (Conf),W 70-52,*,30,9,16,0.563,0,0,9,16,0.563,0.563,7,8,0.875,5,4,9,3,3,1,2,3,25,24.3,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+26,104,26,2012-02-15,North Carolina,@,Miami (FL),REG (Conf),W 73-64,*,29,4,13,0.308,0,0,4,13,0.308,0.308,1,4,0.25,4,4,8,2,3,1,0,4,9,7.8,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+27,105,27,2012-02-18,North Carolina,,Clemson,REG (Conf),W 74-52,*,30,6,9,0.667,0,0,6,9,0.667,0.667,2,2,1.0,2,5,7,0,1,1,3,2,14,10.9,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+28,106,28,2012-02-21,North Carolina,@,NC State,REG (Conf),W 86-74,*,31,3,7,0.429,0,0,3,7,0.429,0.429,8,8,1.0,1,7,8,1,0,4,4,4,14,11.0,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+29,107,29,2012-02-25,North Carolina,@,Virginia,REG (Conf),W 54-51,*,31,7,11,0.636,0,0,7,11,0.636,0.636,6,6,1.0,2,4,6,1,0,1,2,2,20,16.3,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+30,108,30,2012-02-29,North Carolina,,Maryland,REG (Conf),W 88-64,*,27,5,12,0.417,0,0,5,12,0.417,0.417,20,23,0.87,6,2,8,0,2,3,1,3,30,29.1,H,1,1,tyler-zeller-1,Tyler Zeller,2012
+31,109,31,2012-03-03,North Carolina,@,Duke,REG (Conf),W 88-70,*,26,9,11,0.818,0,0,9,11,0.818,0.818,1,1,1.0,3,7,10,0,0,0,2,5,19,15.1,A,1,1,tyler-zeller-1,Tyler Zeller,2012
+32,110,32,2012-03-09,North Carolina,N,Maryland,CTOURN,W 85-69,*,29,4,8,0.5,0,0,4,8,0.5,0.5,6,7,0.857,3,4,7,2,0,1,2,4,14,11.4,N,1,0,tyler-zeller-1,Tyler Zeller,2012
+33,111,33,2012-03-10,North Carolina,N,NC State,CTOURN,W 69-67,*,32,8,11,0.727,0,0,8,11,0.727,0.727,7,8,0.875,0,9,9,1,0,0,1,5,23,18.5,N,1,0,tyler-zeller-1,Tyler Zeller,2012
+34,112,34,2012-03-11,North Carolina,N,Florida State,CTOURN,L 82-85,*,36,7,12,0.583,0,0,7,12,0.583,0.583,5,6,0.833,7,5,12,0,0,0,1,2,19,17.6,N,0,0,tyler-zeller-1,Tyler Zeller,2012
+35,113,35,2012-03-16,North Carolina,N,Vermont,ROUND-64,W 77-58,*,29,4,9,0.444,0,0,4,9,0.444,0.444,9,10,0.9,6,9,15,2,1,4,3,1,17,20.6,N,1,0,tyler-zeller-1,Tyler Zeller,2012
+36,114,36,2012-03-18,North Carolina,N,Creighton,ROUND-32,W 87-73,*,25,4,7,0.571,0,0,4,7,0.571,0.571,3,3,1.0,0,6,6,0,0,1,0,3,11,9.0,N,1,0,tyler-zeller-1,Tyler Zeller,2012
+37,115,37,2012-03-23,North Carolina,N,Ohio,ROUND-16,W 73-65 (OT),*,40,8,14,0.571,0,0,8,14,0.571,0.571,4,7,0.571,8,14,22,0,0,4,6,4,20,17.2,N,1,0,tyler-zeller-1,Tyler Zeller,2012
+38,116,38,2012-03-25,North Carolina,N,Kansas,ROUND-8,L 67-80,*,34,6,11,0.545,0,0,6,11,0.545,0.545,0,0,,2,4,6,1,0,4,2,2,12,10.0,N,0,0,tyler-zeller-1,Tyler Zeller,2012

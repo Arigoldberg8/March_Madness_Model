@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,53,1,2023-11-06,Wagner,@,Fordham,REG (Non-Conf),L 64-68 (OT),,12,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,0,0,0,0,2,2,-0.9,A,0,1,tahron-allen-1,Tahron Allen,2024
+2,54,2,2023-11-09,Wagner,,Molloy,REG (Non-Conf),W 83-48,,27,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,4,8,12,3,1,0,2,1,8,10.5,H,1,1,tahron-allen-1,Tahron Allen,2024
+3,55,3,2023-11-14,Wagner,@,Rhode Island,REG (Non-Conf),L 53-69,,12,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,0,0,0,0,1,0,1,3,5,2.8,A,0,1,tahron-allen-1,Tahron Allen,2024
+4,56,4,2023-11-18,Wagner,@,Seton Hall,REG (Non-Conf),L 51-72,,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,1,1,0,0,0,1,2,1,-3.0,A,0,1,tahron-allen-1,Tahron Allen,2024
+5,57,5,2023-11-25,Wagner,,NJIT,REG (Non-Conf),W 64-51,,13,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,4,5,1,1,0,1,4,5,3.3,H,1,1,tahron-allen-1,Tahron Allen,2024
+6,58,6,2023-11-28,Wagner,@,Providence,REG (Non-Conf),L 52-86,,17,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,0,2,2,0,1,1,1,2,2,-1.3,A,0,1,tahron-allen-1,Tahron Allen,2024
+7,59,7,2023-12-02,Wagner,@,Stony Brook,REG (Non-Conf),W 60-59,,18,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,1,2,3,0,0,0,0,1,9,7.6,A,1,1,tahron-allen-1,Tahron Allen,2024
+8,60,9,2023-12-10,Wagner,,Boston University,REG (Non-Conf),L 59-73,,21,5,9,0.556,1,1,1.0,4,8,0.5,0.611,2,2,1.0,1,1,2,0,1,0,0,1,13,10.3,H,0,1,tahron-allen-1,Tahron Allen,2024
+9,61,10,2023-12-17,Wagner,@,Fairfield,REG (Non-Conf),L 51-63,*,33,3,9,0.333,0,1,0.0,3,8,0.375,0.333,6,8,0.75,3,4,7,0,0,0,2,2,12,6.6,A,0,1,tahron-allen-1,Tahron Allen,2024
+10,62,11,2023-12-22,Wagner,,Gwynedd-Mercy,REG (Non-Conf),W 98-49,*,31,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,4,4,8,3,1,0,3,1,4,2.9,H,1,1,tahron-allen-1,Tahron Allen,2024
+11,63,12,2023-12-30,Wagner,@,Manhattan,REG (Non-Conf),W 68-56,*,27,6,11,0.545,1,1,1.0,5,10,0.5,0.591,4,7,0.571,1,1,2,1,1,0,2,2,17,10.4,A,1,1,tahron-allen-1,Tahron Allen,2024
+12,64,13,2024-01-04,Wagner,@,LIU,REG (Conf),L 67-69,*,36,6,12,0.5,1,2,0.5,5,10,0.5,0.542,3,3,1.0,2,3,5,0,0,0,0,4,16,10.7,A,0,1,tahron-allen-1,Tahron Allen,2024
+13,65,14,2024-01-06,Wagner,,Saint Francis (PA),REG (Conf),W 71-56,*,38,5,10,0.5,3,4,0.75,2,6,0.333,0.65,4,4,1.0,2,3,5,1,4,1,2,3,17,16.5,H,1,1,tahron-allen-1,Tahron Allen,2024
+14,66,15,2024-01-15,Wagner,,Stonehill,REG (Conf),W 64-54,*,31,3,6,0.5,1,2,0.5,2,4,0.5,0.583,5,9,0.556,2,7,9,1,0,1,0,0,12,12.3,H,1,1,tahron-allen-1,Tahron Allen,2024
+15,67,16,2024-01-19,Wagner,@,Merrimack,REG (Conf),W 71-65,*,31,5,12,0.417,0,1,0.0,5,11,0.455,0.417,4,4,1.0,2,0,2,2,0,0,4,3,14,5.2,A,1,1,tahron-allen-1,Tahron Allen,2024
+16,68,17,2024-01-21,Wagner,@,Sacred Heart,REG (Conf),L 61-66,*,35,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,2,0.0,2,9,11,1,1,0,2,2,8,4.8,A,0,1,tahron-allen-1,Tahron Allen,2024
+17,69,18,2024-01-25,Wagner,,Merrimack,REG (Conf),L 44-60,*,25,2,9,0.222,0,1,0.0,2,8,0.25,0.222,3,6,0.5,3,1,4,1,0,0,2,3,7,0.2,H,0,1,tahron-allen-1,Tahron Allen,2024
+18,70,19,2024-01-27,Wagner,@,Central Connecticut State,REG (Conf),L 68-69 (OT),*,35,4,11,0.364,0,0,,4,11,0.364,0.364,1,2,0.5,3,2,5,0,0,1,2,2,9,3.1,A,0,1,tahron-allen-1,Tahron Allen,2024
+19,71,20,2024-02-01,Wagner,,Le Moyne,REG (Conf),W 80-57,*,33,6,12,0.5,2,2,1.0,4,10,0.4,0.583,1,1,1.0,2,8,10,3,0,0,2,3,15,11.7,H,1,1,tahron-allen-1,Tahron Allen,2024
+20,72,21,2024-02-03,Wagner,@,Stonehill,REG (Conf),L 61-71,*,34,5,12,0.417,1,3,0.333,4,9,0.444,0.458,3,4,0.75,1,5,6,3,1,0,2,4,14,8.9,A,0,1,tahron-allen-1,Tahron Allen,2024
+21,73,22,2024-02-08,Wagner,@,FDU,REG (Conf),W 66-62,*,26,7,13,0.538,3,4,0.75,4,9,0.444,0.654,5,6,0.833,2,2,4,1,1,1,1,4,22,17.1,A,1,1,tahron-allen-1,Tahron Allen,2024
+22,74,23,2024-02-15,Wagner,@,Saint Francis (PA),REG (Conf),W 65-63 (OT),*,27,5,18,0.278,1,4,0.25,4,14,0.286,0.306,1,2,0.5,3,1,4,0,0,0,1,2,12,1.6,A,1,1,tahron-allen-1,Tahron Allen,2024
+23,75,24,2024-02-17,Wagner,,Sacred Heart,REG (Conf),L 53-63,*,29,3,10,0.3,1,3,0.333,2,7,0.286,0.35,0,0,,3,3,6,1,0,0,1,3,7,2.7,H,0,1,tahron-allen-1,Tahron Allen,2024
+24,76,25,2024-02-22,Wagner,,Central Connecticut State,REG (Conf),L 72-73,*,33,3,11,0.273,1,3,0.333,2,8,0.25,0.318,4,5,0.8,3,3,6,2,2,0,1,3,11,8.3,H,0,1,tahron-allen-1,Tahron Allen,2024
+25,77,26,2024-02-25,Wagner,,LIU,REG (Conf),W 72-57,*,24,6,11,0.545,0,2,0.0,6,9,0.667,0.545,1,2,0.5,1,3,4,0,2,0,1,3,13,8.7,H,1,1,tahron-allen-1,Tahron Allen,2024
+26,78,27,2024-02-29,Wagner,@,Le Moyne,REG (Conf),L 56-70,*,31,1,8,0.125,1,1,1.0,0,7,0.0,0.188,2,2,1.0,1,3,4,0,0,0,0,1,5,1.0,A,0,1,tahron-allen-1,Tahron Allen,2024
+27,79,28,2024-03-02,Wagner,,FDU,REG (Conf),L 54-57,*,36,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,2,4,6,2,0,0,2,2,8,6.6,H,0,1,tahron-allen-1,Tahron Allen,2024
+28,80,29,2024-03-06,Wagner,@,Sacred Heart,CTOURN,W 60-57,*,36,10,20,0.5,2,4,0.5,8,16,0.5,0.55,0,2,0.0,3,3,6,2,1,0,3,2,22,12.8,A,1,0,tahron-allen-1,Tahron Allen,2024
+29,81,30,2024-03-09,Wagner,@,Central Connecticut State,CTOURN,W 66-56,*,35,3,11,0.273,1,2,0.5,2,9,0.222,0.318,4,5,0.8,2,3,5,0,0,0,0,1,11,6.0,A,1,0,tahron-allen-1,Tahron Allen,2024
+30,82,31,2024-03-12,Wagner,@,Merrimack,CTOURN,W 54-47,*,40,8,16,0.5,1,2,0.5,7,14,0.5,0.531,5,8,0.625,2,5,7,1,0,1,0,3,22,15.9,A,1,0,tahron-allen-1,Tahron Allen,2024
+31,83,32,2024-03-19,Wagner,N,Howard,FIRST-FOUR,W 71-68,*,21,5,10,0.5,0,3,0.0,5,7,0.714,0.5,0,0,,1,3,4,1,1,0,1,4,10,5.7,N,1,0,tahron-allen-1,Tahron Allen,2024
+32,84,33,2024-03-21,Wagner,N,North Carolina,ROUND-64,L 62-90,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,4,5,0,0,0,3,4,2,-3.1,N,0,0,tahron-allen-1,Tahron Allen,2024

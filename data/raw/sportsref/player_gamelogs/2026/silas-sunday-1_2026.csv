@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2025-11-03,Hofstra,@,UCF,REG (Non-Conf),L 78-82,*,23,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,3,3,6,2,0,1,3,4,10,7.9,A,0,1,silas-sunday-1,Silas Sunday,2026
+2,94,2,2025-11-07,Hofstra,@,Iona,REG (Non-Conf),L 73-81,*,17,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,0,4,4,2,0,0,1,0,10,8.7,A,0,1,silas-sunday-1,Silas Sunday,2026
+3,95,3,2025-11-10,Hofstra,,Molloy,REG (Non-Conf),W 95-61,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,1,0,0,0,0,2,3.3,H,1,1,silas-sunday-1,Silas Sunday,2026
+4,96,4,2025-11-14,Hofstra,@,Bucknell,REG (Non-Conf),W 83-77,,12,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,3,5,2,0,0,2,0,1,0.9,A,1,1,silas-sunday-1,Silas Sunday,2026
+5,97,5,2025-11-19,Hofstra,@,Temple,REG (Non-Conf),L 76-81,,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,5,7,1,0,0,2,3,2,2.1,A,0,1,silas-sunday-1,Silas Sunday,2026
+6,98,6,2025-11-28,Hofstra,N,La Salle,REG (Non-Conf),W 63-58,,21,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,5,6,0,1,2,2,4,1,0.2,N,1,1,silas-sunday-1,Silas Sunday,2026
+7,99,7,2025-11-29,Hofstra,N,Merrimack,REG (Non-Conf),W 78-58,,20,7,8,0.875,0,0,,7,8,0.875,0.875,1,1,1.0,2,5,7,0,0,3,0,0,15,17.2,N,1,1,silas-sunday-1,Silas Sunday,2026
+8,100,8,2025-11-30,Hofstra,@,Pennsylvania,REG (Non-Conf),W 77-60,,13,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,3,3,6,0,0,1,1,2,4,4.6,A,1,1,silas-sunday-1,Silas Sunday,2026
+9,101,9,2025-12-03,Hofstra,@,Columbia,REG (Non-Conf),L 70-72,,20,1,1,1.0,0,0,,1,1,1.0,1.0,3,5,0.6,3,6,9,2,0,2,1,4,5,8.0,A,0,1,silas-sunday-1,Silas Sunday,2026
+10,102,10,2025-12-07,Hofstra,@,Pittsburgh,REG (Non-Conf),W 80-73,,15,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,0,3,2,0,0,1,2,6,6.1,A,1,1,silas-sunday-1,Silas Sunday,2026
+11,103,11,2025-12-10,Hofstra,,Old Westbury,REG (Non-Conf),W 92-23,,10,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,4,1,5,0,0,0,2,1,4,4.4,H,1,1,silas-sunday-1,Silas Sunday,2026
+12,104,12,2025-12-13,Hofstra,@,Syracuse,REG (Non-Conf),W 70-69,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,0,1,0,0,0,2,3.3,A,1,1,silas-sunday-1,Silas Sunday,2026
+13,105,13,2025-12-21,Hofstra,,Quinnipiac,REG (Non-Conf),W 74-66,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,5,5,0,1,0,0,2,2,3.4,H,1,1,silas-sunday-1,Silas Sunday,2026
+14,106,14,2025-12-29,Hofstra,,Campbell,REG (Conf),W 86-72,,21,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,2,4,6,1,0,0,0,1,8,9.7,H,1,1,silas-sunday-1,Silas Sunday,2026
+15,107,15,2026-01-03,Hofstra,@,Drexel,REG (Conf),W 70-67,,15,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,4,1,5,2,0,0,0,3,8,10.4,A,1,1,silas-sunday-1,Silas Sunday,2026
+16,108,16,2026-01-08,Hofstra,@,Towson,REG (Conf),W 78-67,,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,5,4,9,0,0,0,1,5,2,2.7,A,1,1,silas-sunday-1,Silas Sunday,2026
+17,109,17,2026-01-10,Hofstra,,Monmouth,REG (Conf),W 67-64 (OT),,29,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,3,8,11,0,1,2,1,2,8,9.7,H,1,1,silas-sunday-1,Silas Sunday,2026
+18,110,18,2026-01-15,Hofstra,@,Stony Brook,REG (Conf),L 71-76,,11,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,0,1,0,0,1,0,2,4,3.3,A,0,1,silas-sunday-1,Silas Sunday,2026
+19,111,19,2026-01-17,Hofstra,,Elon,REG (Conf),L 85-89,,31,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,6,9,15,0,0,3,2,2,8,11.9,H,0,1,silas-sunday-1,Silas Sunday,2026
+20,112,20,2026-01-22,Hofstra,@,North Carolina A&T,REG (Conf),L 78-79,*,28,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,6,8,1,0,0,0,5,2,2.9,A,0,1,silas-sunday-1,Silas Sunday,2026
+21,113,21,2026-01-24,Hofstra,@,William & Mary,REG (Conf),L 82-89,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,1,3,0,0,2,0,1,2,4.4,A,0,1,silas-sunday-1,Silas Sunday,2026
+22,114,22,2026-01-29,Hofstra,,College of Charleston,REG (Conf),L 64-66,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,4,5,1,0,3,2,4,6,5.5,H,0,1,silas-sunday-1,Silas Sunday,2026
+23,115,23,2026-01-31,Hofstra,@,Monmouth,REG (Conf),W 73-57,*,23,6,6,1.0,0,0,,6,6,1.0,1.0,0,0,,3,7,10,1,0,0,3,1,12,11.7,A,1,1,silas-sunday-1,Silas Sunday,2026
+24,116,24,2026-02-05,Hofstra,,Northeastern,REG (Conf),W 80-63,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,0,0,3,3,4,2,-0.5,H,1,1,silas-sunday-1,Silas Sunday,2026
+25,117,25,2026-02-07,Hofstra,,Towson,REG (Conf),W 71-49,*,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,6,8,0,0,1,2,1,5,4.8,H,1,1,silas-sunday-1,Silas Sunday,2026
+26,118,26,2026-02-12,Hofstra,@,College of Charleston,REG (Conf),W 66-62,*,31,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,3,6,9,0,0,1,1,3,7,6.0,A,1,1,silas-sunday-1,Silas Sunday,2026
+27,119,27,2026-02-14,Hofstra,@,UNC Wilmington,REG (Conf),L 66-70,*,24,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,3,2,5,0,1,1,1,3,1,2.1,A,0,1,silas-sunday-1,Silas Sunday,2026
+28,120,28,2026-02-19,Hofstra,,Hampton,REG (Conf),W 79-43,*,21,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,2,4,6,1,0,1,0,0,12,12.1,H,1,1,silas-sunday-1,Silas Sunday,2026
+29,121,29,2026-02-21,Hofstra,@,Northeastern,REG (Conf),W 82-68,*,27,1,4,0.25,0,0,,1,4,0.25,0.25,1,3,0.333,2,9,11,0,0,3,1,4,3,3.4,A,1,1,silas-sunday-1,Silas Sunday,2026
+30,122,30,2026-02-28,Hofstra,,Stony Brook,REG (Conf),W 67-58,*,22,0,0,,0,0,,0,0,,,0,0,,0,8,8,0,1,4,4,3,0,1.0,H,1,1,silas-sunday-1,Silas Sunday,2026
+31,123,31,2026-03-03,Hofstra,,Drexel,REG (Conf),W 62-51,*,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,3,6,9,2,1,2,5,1,5,5.6,H,1,1,silas-sunday-1,Silas Sunday,2026
+32,124,32,2026-03-08,Hofstra,N,William & Mary,CTOURN,W 92-61,*,26,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,5,7,12,2,1,0,1,1,7,12.3,N,1,0,silas-sunday-1,Silas Sunday,2026
+33,125,33,2026-03-09,Hofstra,N,Towson,CTOURN,W 68-65 (OT),*,32,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,4,7,11,1,0,0,0,0,4,8.3,N,1,0,silas-sunday-1,Silas Sunday,2026
+34,126,34,2026-03-10,Hofstra,N,Monmouth,CTOURN,W 75-69,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,5,7,12,0,1,1,2,2,8,9.8,N,1,0,silas-sunday-1,Silas Sunday,2026

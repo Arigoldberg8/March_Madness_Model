@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,3,1,2020-11-25,Iowa,,North Carolina Central,REG (Non-Conf),W 97-67,,21,5,10,0.5,1,4,0.25,4,6,0.667,0.55,5,8,0.625,3,0,3,1,1,1,0,0,16,14.3,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+2,4,2,2020-11-27,Iowa,,Southern,REG (Non-Conf),W 103-76,,20,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,4,0.25,1,2,3,2,1,0,1,3,7,3.6,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+3,5,3,2020-12-03,Iowa,,Western Illinois,REG (Non-Conf),W 99-58,,15,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,4,0.75,1,5,6,3,0,0,0,2,10,8.0,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+4,6,4,2020-12-08,Iowa,,North Carolina,REG (Non-Conf),W 93-80,,11,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,3,4,2,1,0,0,0,0,1.9,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+5,7,5,2020-12-11,Iowa,,Iowa State,REG (Non-Conf),W 105-77,,17,1,4,0.25,1,1,1.0,0,3,0.0,0.375,3,4,0.75,2,3,5,0,2,1,1,0,6,7.2,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+6,8,6,2020-12-13,Iowa,,Northern Illinois,REG (Non-Conf),W 106-53,,21,4,9,0.444,2,5,0.4,2,4,0.5,0.556,4,4,1.0,1,3,4,2,0,1,0,2,14,12.2,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+7,9,7,2020-12-19,Iowa,N,Gonzaga,REG (Non-Conf),L 88-99,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+8,10,8,2020-12-22,Iowa,,Purdue,REG (Conf),W 70-55,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,2,0,3,1.0,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+9,11,9,2020-12-25,Iowa,@,Minnesota,REG (Conf),L 95-102 (OT),,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,4,0.75,3,1,4,0,0,0,1,1,5,2.5,A,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+10,12,10,2020-12-29,Iowa,,Northwestern,REG (Conf),W 87-72,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,2,4,2,0,1,2,1,4,4.4,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+11,13,11,2021-01-02,Iowa,@,Rutgers,REG (Conf),W 77-75,,10,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,3,3,0,0,0,0,1,2,0.1,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+12,14,12,2021-01-07,Iowa,@,Maryland,REG (Conf),W 89-67,,19,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,1,2,3,1,0,0,0,0,10,9.4,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+13,15,13,2021-01-10,Iowa,,Minnesota,REG (Conf),W 86-71,,14,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,0,0,0,0,1,4,2.5,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+14,16,14,2021-01-17,Iowa,@,Northwestern,REG (Conf),W 96-73,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,0,1,1,1,0,2,0,0,5,6.0,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+15,17,15,2021-01-21,Iowa,,Indiana,REG (Conf),L 69-81,,13,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,0,0,0,0,1,0,-2.2,H,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+16,18,16,2021-01-29,Iowa,@,Illinois,REG (Conf),L 75-80,,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,2,0,0,0,2,0,-0.5,A,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+17,19,17,2021-02-02,Iowa,,Michigan State,REG (Conf),W 84-78,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,1,3,4,0,0,1,0,0,4,5.3,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+18,20,18,2021-02-04,Iowa,,Ohio State,REG (Conf),L 85-89,,13,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,1,1,0,1,0,1,0,8,7.1,H,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+19,21,19,2021-02-07,Iowa,@,Indiana,REG (Conf),L 65-67,,11,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,1,1,1,0,0,0,2,0,-3.3,A,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+20,22,20,2021-02-10,Iowa,,Rutgers,REG (Conf),W 79-66,,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,3,2,1,0,0,5,8.8,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+21,23,21,2021-02-13,Iowa,@,Michigan State,REG (Conf),W 88-58,,19,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,4,5,1,1,0,0,0,6,5.9,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+22,24,22,2021-02-18,Iowa,@,Wisconsin,REG (Conf),W 77-62,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,1,1,0,2,1.0,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+23,25,23,2021-02-21,Iowa,,Penn State,REG (Conf),W 74-68,,14,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,1,1,1,0,0,0,1,4,3.9,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+24,26,24,2021-02-25,Iowa,@,Michigan,REG (Conf),L 57-79,,14,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,3,4,0,0,0,1,0,0,-2.2,A,0,1,patrick-mccaffery-1,Patrick McCaffery,2021
+25,27,25,2021-02-28,Iowa,@,Ohio State,REG (Conf),W 73-57,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,0,0,2,1,0,0,0,4,4.0,A,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+26,28,26,2021-03-04,Iowa,,Nebraska,REG (Conf),W 102-64,,20,8,13,0.615,3,6,0.5,5,7,0.714,0.731,0,0,,1,5,6,0,0,0,1,1,19,13.9,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+27,29,27,2021-03-07,Iowa,,Wisconsin,REG (Conf),W 77-73,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,1,0,2,0.3,H,1,1,patrick-mccaffery-1,Patrick McCaffery,2021
+28,30,28,2021-03-12,Iowa,N,Wisconsin,CTOURN,W 62-57,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,0,0,2,0,0,2,4.4,N,1,0,patrick-mccaffery-1,Patrick McCaffery,2021
+29,31,29,2021-03-13,Iowa,N,Illinois,CTOURN,L 71-82,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,2,0,0,1,1,4,3.7,N,0,0,patrick-mccaffery-1,Patrick McCaffery,2021
+30,32,30,2021-03-20,Iowa,N,Grand Canyon,ROUND-64,W 86-74,,15,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,0,2,0,0,0,0,0,6,6.1,N,1,0,patrick-mccaffery-1,Patrick McCaffery,2021
+31,33,31,2021-03-22,Iowa,N,Oregon,ROUND-32,L 80-95,,20,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,2,1.0,0,2,2,1,1,1,0,0,10,10.4,N,0,0,patrick-mccaffery-1,Patrick McCaffery,2021

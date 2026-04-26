@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,4,2018-11-21,Wisconsin,N,Stanford,REG (Non-Conf),W 62-46,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,aleem-ford-1,Aleem Ford,2019
+2,35,5,2018-11-22,Wisconsin,N,Oklahoma,REG (Non-Conf),W 78-58,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,1,1,0,-1.5,N,1,1,aleem-ford-1,Aleem Ford,2019
+3,36,6,2018-11-23,Wisconsin,N,Virginia,REG (Non-Conf),L 46-53,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,1,aleem-ford-1,Aleem Ford,2019
+4,37,7,2018-11-27,Wisconsin,,NC State,REG (Non-Conf),W 79-75,,21,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,1,2,3,1,0,0,2,3,12,7.5,H,1,1,aleem-ford-1,Aleem Ford,2019
+5,38,8,2018-11-30,Wisconsin,@,Iowa,REG (Conf),W 72-66,,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,0,1,1,0,0,0,4,4,1.8,A,1,1,aleem-ford-1,Aleem Ford,2019
+6,39,9,2018-12-03,Wisconsin,,Rutgers,REG (Conf),W 69-64,,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,4,4,0,0,0,1,1,3,-0.3,H,1,1,aleem-ford-1,Aleem Ford,2019
+7,40,10,2018-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 69-74 (OT),,18,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,1,1,0,0,0,0,1,8,4.9,A,0,1,aleem-ford-1,Aleem Ford,2019
+8,41,11,2018-12-13,Wisconsin,,Savannah State,REG (Non-Conf),W 101-60,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,2,0,1,0,0,0.9,H,1,1,aleem-ford-1,Aleem Ford,2019
+9,42,12,2018-12-22,Wisconsin,,Grambling State,REG (Non-Conf),W 84-53,,23,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,3,4,1,2,1,1,2,9,9.2,H,1,1,aleem-ford-1,Aleem Ford,2019
+10,43,13,2018-12-29,Wisconsin,@,Western Kentucky,REG (Non-Conf),L 76-83,,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,2,0,-0.9,A,0,1,aleem-ford-1,Aleem Ford,2019
+11,44,14,2019-01-03,Wisconsin,,Minnesota,REG (Conf),L 52-59,,14,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,2,3,0,1,0,2,1,0,-2.2,H,0,1,aleem-ford-1,Aleem Ford,2019
+12,45,15,2019-01-06,Wisconsin,@,Penn State,REG (Conf),W 71-52,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.1,A,1,1,aleem-ford-1,Aleem Ford,2019
+13,46,16,2019-01-11,Wisconsin,,Purdue,REG (Conf),L 80-84 (OT),,20,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,2,2,0,0,0,1,1,5,2.5,H,0,1,aleem-ford-1,Aleem Ford,2019
+14,47,17,2019-01-14,Wisconsin,@,Maryland,REG (Conf),L 60-64,,18,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,1,0,0,3,3,1.7,A,0,1,aleem-ford-1,Aleem Ford,2019
+15,48,18,2019-01-19,Wisconsin,,Michigan,REG (Conf),W 64-54,,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,1,1.0,1,1,2,0,0,0,0,2,9,6.9,H,1,1,aleem-ford-1,Aleem Ford,2019
+16,49,19,2019-01-23,Wisconsin,@,Illinois,REG (Conf),W 72-60,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,3,0,-0.5,A,1,1,aleem-ford-1,Aleem Ford,2019
+17,50,20,2019-01-26,Wisconsin,,Northwestern,REG (Conf),W 62-46,,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,1,1,1,2,0,-0.6,H,1,1,aleem-ford-1,Aleem Ford,2019
+18,51,21,2019-01-29,Wisconsin,@,Nebraska,REG (Conf),W 62-51,,19,0,7,0.0,0,5,0.0,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,1,4,0,-6.5,A,1,1,aleem-ford-1,Aleem Ford,2019
+19,52,22,2019-02-01,Wisconsin,,Maryland,REG (Conf),W 69-61,,19,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,1,2,3,0,0,0,0,2,10,7.9,H,1,1,aleem-ford-1,Aleem Ford,2019
+20,53,23,2019-02-06,Wisconsin,@,Minnesota,REG (Conf),W 56-51,,12,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,0,0,-1.5,A,1,1,aleem-ford-1,Aleem Ford,2019
+21,54,24,2019-02-09,Wisconsin,@,Michigan,REG (Conf),L 52-61,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,A,0,1,aleem-ford-1,Aleem Ford,2019
+22,55,25,2019-02-12,Wisconsin,,Michigan State,REG (Conf),L 59-67,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,aleem-ford-1,Aleem Ford,2019
+23,56,26,2019-02-18,Wisconsin,,Illinois,REG (Conf),W 64-58,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,aleem-ford-1,Aleem Ford,2019
+24,57,27,2019-02-23,Wisconsin,@,Northwestern,REG (Conf),W 69-64,,14,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,1,0,0,0,0,6,4.3,A,1,1,aleem-ford-1,Aleem Ford,2019
+25,58,28,2019-02-26,Wisconsin,@,Indiana,REG (Conf),L 73-75 (2OT),,10,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,3,4,0,0,0,0,1,3,2.5,A,0,1,aleem-ford-1,Aleem Ford,2019
+26,59,29,2019-03-02,Wisconsin,,Penn State,REG (Conf),W 61-57,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,H,1,1,aleem-ford-1,Aleem Ford,2019
+27,60,30,2019-03-07,Wisconsin,,Iowa,REG (Conf),W 65-45,,19,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,1,4,5,0,0,0,1,3,9,6.1,H,1,1,aleem-ford-1,Aleem Ford,2019
+28,61,31,2019-03-10,Wisconsin,@,Ohio State,REG (Conf),W 73-67 (OT),,9,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,0,3,1.3,A,1,1,aleem-ford-1,Aleem Ford,2019
+29,62,32,2019-03-15,Wisconsin,N,Nebraska,CTOURN,W 66-62,,29,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,1,1.0,1,5,6,1,0,1,1,3,11,9.1,N,1,0,aleem-ford-1,Aleem Ford,2019
+30,63,33,2019-03-16,Wisconsin,N,Michigan State,CTOURN,L 55-67,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-1.5,N,0,0,aleem-ford-1,Aleem Ford,2019
+31,64,34,2019-03-22,Wisconsin,N,Oregon,ROUND-64,L 54-72,,17,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,1,2,0,0,1,1,0,2,1.0,N,0,0,aleem-ford-1,Aleem Ford,2019

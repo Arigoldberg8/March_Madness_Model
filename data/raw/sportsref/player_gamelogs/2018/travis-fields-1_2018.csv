@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2017-11-10,Radford,,Ga. Southwestern,REG (Non-Conf),W 72-63,,18,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,1,3,4,1,1,0,2,1,6,1.1,H,1,1,travis-fields-1,Travis Fields,2018
+2,30,2,2017-11-12,Radford,@,Ohio State,REG (Non-Conf),L 72-82,*,18,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,3,4,2,1,0,1,1,3,1.8,A,0,1,travis-fields-1,Travis Fields,2018
+3,31,3,2017-11-15,Radford,@,East Carolina,REG (Non-Conf),W 73-66,,17,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,1,1,3,1,0,0,2,7,6.2,A,1,1,travis-fields-1,Travis Fields,2018
+4,32,4,2017-11-22,Radford,@,Elon,REG (Non-Conf),L 74-77,,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,0,2,0,0,3,5,3.8,A,0,1,travis-fields-1,Travis Fields,2018
+5,33,5,2017-11-25,Radford,,James Madison,REG (Non-Conf),W 69-68,,22,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,1,1,2,2,1,0,0,0,8,7.7,H,1,1,travis-fields-1,Travis Fields,2018
+6,34,6,2017-11-28,Radford,@,Vanderbilt,REG (Non-Conf),L 62-74,,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,6,0,0,1,3,0,0.9,A,0,1,travis-fields-1,Travis Fields,2018
+7,35,7,2017-12-02,Radford,@,VMI,REG (Non-Conf),W 63-50,,21,4,10,0.4,1,3,0.333,3,7,0.429,0.45,0,0,,3,1,4,2,2,0,1,0,9,8.4,A,1,1,travis-fields-1,Travis Fields,2018
+8,36,8,2017-12-06,Radford,@,Virginia Tech,REG (Non-Conf),L 68-95,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,0,0,1,0,0,1,1,4,0.6,A,0,1,travis-fields-1,Travis Fields,2018
+9,37,9,2017-12-09,Radford,,Erskine,REG (Non-Conf),W 76-49,,12,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,1,1,3,1,0,0,0,6,7.1,H,1,1,travis-fields-1,Travis Fields,2018
+10,38,10,2017-12-17,Radford,@,Nevada,REG (Non-Conf),L 62-77,,11,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,2,2,3,0,0,0,1,2,0.5,A,0,1,travis-fields-1,Travis Fields,2018
+11,39,11,2017-12-19,Radford,@,San Francisco,REG (Non-Conf),L 41-52,,22,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,1,1,2,1,1,3,1,7,1.9,A,0,1,travis-fields-1,Travis Fields,2018
+12,40,12,2017-12-22,Radford,N,North Carolina A&T,REG (Non-Conf),W 66-60,,25,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,4,0.5,0,0,0,5,1,0,3,1,8,3.9,N,1,1,travis-fields-1,Travis Fields,2018
+13,41,13,2017-12-23,Radford,N,UC Davis,REG (Non-Conf),W 72-62 (OT),,29,1,5,0.2,0,1,0.0,1,4,0.25,0.2,4,5,0.8,1,4,5,3,1,1,3,2,6,4.4,N,1,1,travis-fields-1,Travis Fields,2018
+14,42,15,2018-01-03,Radford,,Winthrop,REG (Conf),W 85-79,,21,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,1,0.0,0,3,3,4,1,0,2,0,3,3.6,H,1,1,travis-fields-1,Travis Fields,2018
+15,43,16,2018-01-06,Radford,,UNC Asheville,REG (Conf),W 90-70,,21,2,4,0.5,2,3,0.667,0,1,0.0,0.75,5,6,0.833,0,0,0,1,2,0,1,0,11,10.3,H,1,1,travis-fields-1,Travis Fields,2018
+16,44,17,2018-01-09,Radford,@,Charleston Southern,REG (Conf),W 64-61,,20,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,2,3,2,1,0,3,3,7,4.2,A,1,1,travis-fields-1,Travis Fields,2018
+17,45,18,2018-01-12,Radford,@,Gardner-Webb,REG (Conf),L 54-59,,23,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,2,2,4,4,0,0,3,1,7,3.3,A,0,1,travis-fields-1,Travis Fields,2018
+18,46,19,2018-01-15,Radford,,Liberty,REG (Conf),W 59-57 (OT),,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,1,2,2,1,4,3.7,H,1,1,travis-fields-1,Travis Fields,2018
+19,47,20,2018-01-18,Radford,,Longwood,REG (Conf),W 70-63,,24,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,0,2,2,4,1,0,3,1,6,4.3,H,1,1,travis-fields-1,Travis Fields,2018
+20,48,21,2018-01-21,Radford,@,Campbell,REG (Conf),L 56-59,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,1,2,3,1,0,0,0,2,6,4.1,A,0,1,travis-fields-1,Travis Fields,2018
+21,49,22,2018-01-24,Radford,@,High Point,REG (Conf),W 78-76 (OT),,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,0,1,0,0,1,2,-1.2,A,1,1,travis-fields-1,Travis Fields,2018
+22,50,23,2018-01-27,Radford,,Charleston Southern,REG (Conf),L 81-84 (OT),,27,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,1,1,6,3,0,1,3,5,6.9,H,0,1,travis-fields-1,Travis Fields,2018
+23,51,24,2018-02-01,Radford,,Gardner-Webb,REG (Conf),W 70-66,,19,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,3,0.667,0,0,0,0,2,0,2,3,4,-0.7,H,1,1,travis-fields-1,Travis Fields,2018
+24,52,25,2018-02-03,Radford,@,Winthrop,REG (Conf),L 57-75,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,1,0,0,2,0,7,3.4,A,0,1,travis-fields-1,Travis Fields,2018
+25,53,26,2018-02-07,Radford,,High Point,REG (Conf),L 60-61,,16,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,1,1,2,0,0,1,0,5,2.3,H,0,1,travis-fields-1,Travis Fields,2018
+26,54,27,2018-02-10,Radford,@,UNC Asheville,REG (Conf),L 64-66,,16,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,1,1,2,3,0,0,1,4,3,-1.0,A,0,1,travis-fields-1,Travis Fields,2018
+27,55,28,2018-02-15,Radford,,Campbell,REG (Conf),W 72-53,,23,4,7,0.571,1,4,0.25,3,3,1.0,0.643,4,4,1.0,1,4,5,3,2,0,2,1,13,13.3,H,1,1,travis-fields-1,Travis Fields,2018
+28,56,29,2018-02-18,Radford,,Presbyterian,REG (Conf),W 74-68 (OT),,17,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,4,0,0,1,1,3,1.6,H,1,1,travis-fields-1,Travis Fields,2018
+29,57,30,2018-02-22,Radford,@,Liberty,REG (Conf),W 63-50,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,5,5,1,2,0,2,2,4,3.4,A,1,1,travis-fields-1,Travis Fields,2018
+30,58,31,2018-02-24,Radford,@,Longwood,REG (Conf),W 70-47,,20,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,4,5,0,1,0,2,2,9,6.8,A,1,1,travis-fields-1,Travis Fields,2018
+31,59,32,2018-03-01,Radford,N,Longwood,CTOURN,W 59-53,,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,1,2,3,3,1,0,1,2,7,7.2,N,1,0,travis-fields-1,Travis Fields,2018
+32,60,33,2018-03-02,Radford,,Winthrop,CTOURN,W 61-52,,25,3,6,0.5,3,4,0.75,0,2,0.0,0.75,2,2,1.0,0,3,3,1,1,0,0,0,11,10.6,H,1,0,travis-fields-1,Travis Fields,2018
+33,61,34,2018-03-04,Radford,,Liberty,CTOURN,W 55-52,,22,4,6,0.667,4,4,1.0,0,2,0.0,1.0,0,0,,0,4,4,0,2,0,1,1,12,11.2,H,1,0,travis-fields-1,Travis Fields,2018
+34,62,35,2018-03-13,Radford,N,LIU Brooklyn,FIRST-FOUR,W 71-61,,24,5,6,0.833,3,3,1.0,2,3,0.667,1.083,0,0,,0,0,0,2,0,0,1,0,13,11.2,N,1,0,travis-fields-1,Travis Fields,2018
+35,63,36,2018-03-15,Radford,N,Villanova,ROUND-64,L 61-87,,26,4,11,0.364,1,4,0.25,3,7,0.429,0.409,0,0,,0,2,2,0,0,0,2,1,9,1.1,N,0,0,travis-fields-1,Travis Fields,2018

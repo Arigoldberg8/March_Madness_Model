@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2014-11-14,San Diego State,,Cal State Northridge,REG (Non-Conf),W 79-58,*,30,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,4,3,7,4,1,1,2,1,13,14.5,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+2,93,2,2014-11-18,San Diego State,,Utah,REG (Non-Conf),W 53-49,*,38,3,10,0.3,0,1,0.0,3,9,0.333,0.3,6,6,1.0,3,8,11,3,1,0,3,2,12,10.0,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+3,94,3,2014-11-20,San Diego State,,Cal State Bakersfield,REG (Non-Conf),W 51-27,*,25,0,4,0.0,0,2,0.0,0,2,0.0,0.0,5,8,0.625,1,3,4,0,0,0,0,1,5,2.2,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+4,95,4,2014-11-24,San Diego State,N,Brigham Young,REG (Non-Conf),W 92-87 (2OT),*,48,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,0,,4,5,9,6,1,1,2,2,13,15.1,N,1,1,jj-obrien-1,J.J. O'Brien,2015
+5,96,5,2014-11-25,San Diego State,N,Pittsburgh,REG (Non-Conf),W 74-57,*,19,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,1,2,1,2,0,1,2,8,8.0,N,1,1,jj-obrien-1,J.J. O'Brien,2015
+6,97,6,2014-11-26,San Diego State,N,Arizona,REG (Non-Conf),L 59-61,*,31,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,4,6,1,0,0,2,4,3,-0.1,N,0,1,jj-obrien-1,J.J. O'Brien,2015
+7,98,7,2014-12-04,San Diego State,,San Diego,REG (Non-Conf),W 57-48,*,31,4,8,0.5,2,2,1.0,2,6,0.333,0.625,3,6,0.5,2,2,4,1,2,0,2,0,13,10.5,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+8,99,8,2014-12-07,San Diego State,@,Washington,REG (Non-Conf),L 36-49,*,29,1,9,0.111,0,2,0.0,1,7,0.143,0.111,0,1,0.0,3,2,5,1,0,0,0,0,2,-0.9,A,0,1,jj-obrien-1,J.J. O'Brien,2015
+9,100,9,2014-12-10,San Diego State,,Long Beach State,REG (Non-Conf),W 60-59,*,35,4,4,1.0,0,0,,4,4,1.0,1.0,0,2,0.0,2,4,6,0,3,0,2,0,8,9.6,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+10,101,10,2014-12-17,San Diego State,@,Cincinnati,REG (Non-Conf),L 62-71 (OT),*,43,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,4,1,5,3,4,0,4,2,6,7.4,A,0,1,jj-obrien-1,J.J. O'Brien,2015
+11,102,11,2014-12-20,San Diego State,,Ball State,REG (Non-Conf),W 70-57,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,1,2,0.5,4,2,6,3,2,0,1,2,13,14.4,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+12,103,12,2014-12-22,San Diego State,,UC Riverside,REG (Non-Conf),W 61-33,*,31,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,3,0.333,5,3,8,4,2,1,1,1,12,16.8,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+13,104,13,2014-12-27,San Diego State,,San Diego Christ,REG (Non-Conf),W 72-50,*,17,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,1,2,3,3,3,0,0,0,9,12.4,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+14,105,14,2014-12-31,San Diego State,,Air Force,REG (Conf),W 53-49,*,35,5,10,0.5,0,0,,5,10,0.5,0.5,0,1,0.0,2,3,5,3,3,0,3,1,10,8.6,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+15,106,15,2015-01-03,San Diego State,@,Fresno State,REG (Conf),L 57-59,*,28,0,6,0.0,0,1,0.0,0,5,0.0,0.0,0,1,0.0,1,2,3,3,1,0,2,2,0,-3.0,A,0,1,jj-obrien-1,J.J. O'Brien,2015
+16,107,16,2015-01-06,San Diego State,,New Mexico,REG (Conf),W 56-42,*,34,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,3,0.667,1,3,4,5,0,0,1,1,2,3.9,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+17,108,17,2015-01-14,San Diego State,@,Wyoming,REG (Conf),W 60-52,*,32,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,1,2,3,1,0,0,3,0,8,3.0,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+18,109,18,2015-01-17,San Diego State,,UNLV,REG (Conf),W 53-47,*,38,4,8,0.5,1,1,1.0,3,7,0.429,0.563,2,2,1.0,3,7,10,2,1,0,0,1,11,13.2,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+19,110,19,2015-01-20,San Diego State,@,Air Force,REG (Conf),W 77-45,*,22,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,2,1,3,3,5,0,0,3,11,14.3,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+20,111,20,2015-01-24,San Diego State,@,Colorado State,REG (Conf),L 73-79,*,38,7,15,0.467,0,1,0.0,7,14,0.5,0.467,0,3,0.0,1,4,5,2,1,1,2,3,14,6.9,A,0,1,jj-obrien-1,J.J. O'Brien,2015
+21,112,21,2015-01-27,San Diego State,,Fresno State,REG (Conf),W 58-47,*,35,4,13,0.308,1,2,0.5,3,11,0.273,0.346,3,4,0.75,1,3,4,2,1,1,0,2,12,8.0,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+22,113,22,2015-01-31,San Diego State,,Utah State,REG (Conf),W 62-42,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,3,6,4,0,0,0,0,4,7.1,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+23,114,23,2015-02-04,San Diego State,@,Nevada,REG (Conf),W 65-63,*,33,7,14,0.5,1,2,0.5,6,12,0.5,0.536,3,5,0.6,3,1,4,3,2,0,4,2,18,11.9,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+24,115,24,2015-02-08,San Diego State,@,Boise State,REG (Conf),L 46-61,*,38,8,18,0.444,0,2,0.0,8,16,0.5,0.444,2,2,1.0,5,5,10,3,1,0,3,2,18,12.9,A,0,1,jj-obrien-1,J.J. O'Brien,2015
+25,116,25,2015-02-11,San Diego State,,Wyoming,REG (Conf),W 67-41,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,5,5,3,3,1,0,2,3,6.7,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+26,117,26,2015-02-14,San Diego State,,Colorado State,REG (Conf),W 72-63,*,37,6,11,0.545,0,2,0.0,6,9,0.667,0.545,6,7,0.857,0,4,4,2,1,0,4,0,18,11.9,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+27,118,27,2015-02-17,San Diego State,@,New Mexico,REG (Conf),W 63-46,*,38,3,8,0.375,0,0,,3,8,0.375,0.375,2,3,0.667,0,4,4,4,1,0,1,1,8,6.8,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+28,119,28,2015-02-21,San Diego State,@,San Jose State,REG (Conf),W 74-56,*,32,7,9,0.778,0,0,,7,9,0.778,0.778,1,4,0.25,2,4,6,2,4,0,0,1,15,17.9,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+29,120,29,2015-02-28,San Diego State,,Boise State,REG (Conf),L 46-56,*,36,4,8,0.5,0,0,,4,8,0.5,0.5,0,1,0.0,1,2,3,1,0,0,1,3,8,3.4,H,0,1,jj-obrien-1,J.J. O'Brien,2015
+30,121,30,2015-03-04,San Diego State,@,UNLV,REG (Conf),W 60-58,*,39,11,19,0.579,0,0,,11,19,0.579,0.579,0,2,0.0,5,1,6,2,2,0,0,1,22,19.1,A,1,1,jj-obrien-1,J.J. O'Brien,2015
+31,122,31,2015-03-07,San Diego State,,Nevada,REG (Conf),W 67-43,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,1,2,3,2,0,1,2,3,9,4.8,H,1,1,jj-obrien-1,J.J. O'Brien,2015
+32,123,32,2015-03-12,San Diego State,N,UNLV,CTOURN,W 67-64,*,37,4,9,0.444,1,3,0.333,3,6,0.5,0.5,6,6,1.0,1,3,4,2,1,0,0,0,15,14.3,N,1,0,jj-obrien-1,J.J. O'Brien,2015
+33,124,33,2015-03-13,San Diego State,N,Colorado State,CTOURN,W 56-43,*,37,4,13,0.308,0,1,0.0,4,12,0.333,0.308,0,0,,1,2,3,4,1,0,0,0,8,5.6,N,1,0,jj-obrien-1,J.J. O'Brien,2015
+34,125,34,2015-03-14,San Diego State,N,Wyoming,CTOURN,L 43-45,*,39,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,1,4,5,2,0,0,1,1,12,9.2,N,0,0,jj-obrien-1,J.J. O'Brien,2015
+35,126,35,2015-03-20,San Diego State,N,St. John's (NY),ROUND-64,W 76-64,*,34,8,12,0.667,0,0,,8,12,0.667,0.667,2,2,1.0,4,0,4,2,0,0,4,1,18,12.6,N,1,0,jj-obrien-1,J.J. O'Brien,2015
+36,127,36,2015-03-22,San Diego State,N,Duke,ROUND-32,L 49-68,*,37,2,10,0.2,0,1,0.0,2,9,0.222,0.2,4,5,0.8,4,3,7,1,2,0,3,0,8,4.8,N,0,0,jj-obrien-1,J.J. O'Brien,2015

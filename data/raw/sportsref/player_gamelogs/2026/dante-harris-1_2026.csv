@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2025-11-03,Tennessee State,,Fisk,REG (Non-Conf),W 101-50,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,5,6,0.833,1,3,4,3,1,0,1,1,13,12.6,H,1,1,dante-harris-1,Dante Harris,2026
+2,97,2,2025-11-08,Tennessee State,@,Belmont,REG (Non-Conf),L 79-87,*,32,8,21,0.381,3,6,0.5,5,15,0.333,0.452,2,2,1.0,0,7,7,1,2,0,1,2,21,12.5,A,0,1,dante-harris-1,Dante Harris,2026
+3,98,3,2025-11-11,Tennessee State,,Oakwood,REG (Non-Conf),W 114-76,*,25,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,3,4,7,5,3,0,1,3,12,16.0,H,1,1,dante-harris-1,Dante Harris,2026
+4,99,4,2025-11-16,Tennessee State,@,Western Kentucky,REG (Non-Conf),L 82-95,*,35,3,8,0.375,2,3,0.667,1,5,0.2,0.5,7,10,0.7,0,2,2,7,1,0,3,3,15,11.7,A,0,1,dante-harris-1,Dante Harris,2026
+5,100,5,2025-11-20,Tennessee State,@,Tennessee,REG (Non-Conf),L 60-89,*,36,0,6,0.0,0,2,0.0,0,4,0.0,0.0,6,8,0.75,0,2,2,3,3,0,2,3,6,3.5,A,0,1,dante-harris-1,Dante Harris,2026
+6,101,6,2025-11-25,Tennessee State,@,UNC Asheville,REG (Non-Conf),W 75-73,*,38,5,11,0.455,0,1,0.0,5,10,0.5,0.455,7,7,1.0,1,2,3,6,2,0,3,1,17,15.4,A,1,1,dante-harris-1,Dante Harris,2026
+7,102,7,2025-11-29,Tennessee State,N,Tennessee Wesleyan,REG (Non-Conf),W 98-77,*,29,5,11,0.455,0,0,,5,11,0.455,0.455,2,2,1.0,0,6,6,3,1,0,4,3,12,6.0,N,1,1,dante-harris-1,Dante Harris,2026
+8,103,8,2025-11-30,Tennessee State,@,Chattanooga,REG (Non-Conf),W 70-64,*,33,6,11,0.545,1,2,0.5,5,9,0.556,0.591,2,2,1.0,0,4,4,1,2,0,2,2,15,10.8,A,1,1,dante-harris-1,Dante Harris,2026
+9,104,9,2025-12-03,Tennessee State,@,Alabama A&M,REG (Non-Conf),L 53-80,*,33,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,2,0.0,1,1,2,1,2,0,1,2,10,6.1,A,0,1,dante-harris-1,Dante Harris,2026
+10,105,10,2025-12-13,Tennessee State,@,UNLV,REG (Non-Conf),W 63-60,*,32,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,5,0.0,0,2,2,5,3,0,4,2,8,3.6,A,1,1,dante-harris-1,Dante Harris,2026
+11,106,11,2025-12-18,Tennessee State,,UT Martin,REG (Conf),W 78-71,*,31,5,12,0.417,0,0,,5,12,0.417,0.417,3,4,0.75,1,3,4,3,1,0,1,1,13,9.5,H,1,1,dante-harris-1,Dante Harris,2026
+12,107,12,2025-12-20,Tennessee State,,Southeast Missouri State,REG (Conf),L 82-91,*,37,3,9,0.333,0,0,,3,9,0.333,0.333,3,4,0.75,0,1,1,5,3,0,4,1,9,5.9,H,0,1,dante-harris-1,Dante Harris,2026
+13,108,13,2025-12-30,Tennessee State,@,Tennessee Tech,REG (Conf),W 88-76,*,32,7,12,0.583,0,0,,7,12,0.583,0.583,0,0,,1,6,7,9,3,0,2,2,14,17.4,A,1,1,dante-harris-1,Dante Harris,2026
+14,109,14,2026-01-03,Tennessee State,@,Little Rock,REG (Conf),W 84-79,*,31,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,4,0.75,1,3,4,3,1,0,1,4,9,6.3,A,1,1,dante-harris-1,Dante Harris,2026
+15,110,15,2026-01-08,Tennessee State,@,Western Illinois,REG (Conf),W 90-68,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,0,1,1,4,3,0,3,1,7,7.3,A,1,1,dante-harris-1,Dante Harris,2026
+16,111,16,2026-01-10,Tennessee State,@,Eastern Illinois,REG (Conf),L 70-74,*,37,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,6,0.333,2,6,8,7,2,0,1,3,6,7.5,A,0,1,dante-harris-1,Dante Harris,2026
+17,112,17,2026-01-15,Tennessee State,,Morehead State,REG (Conf),W 105-100 (OT),*,35,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,0,1,1,10,1,0,2,3,6,6.7,H,1,1,dante-harris-1,Dante Harris,2026
+18,113,18,2026-01-17,Tennessee State,,Southern Indiana,REG (Conf),W 73-67,*,31,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,0,2,2,2,2,0,0,2,9,7.1,H,1,1,dante-harris-1,Dante Harris,2026
+19,114,19,2026-01-22,Tennessee State,@,SIU Edwardsville,REG (Conf),L 66-74,*,37,7,15,0.467,1,3,0.333,6,12,0.5,0.5,4,4,1.0,0,1,1,3,0,0,0,0,19,13.7,A,0,1,dante-harris-1,Dante Harris,2026
+20,115,20,2026-01-24,Tennessee State,@,Lindenwood,REG (Conf),W 96-86,*,37,9,14,0.643,2,3,0.667,7,11,0.636,0.714,0,0,,0,2,2,3,3,0,2,2,20,16.7,A,1,1,dante-harris-1,Dante Harris,2026
+21,116,21,2026-01-29,Tennessee State,,Little Rock,REG (Conf),W 70-63,*,34,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,2,0.5,1,3,4,6,0,0,1,2,5,3.8,H,1,1,dante-harris-1,Dante Harris,2026
+22,117,22,2026-02-02,Tennessee State,,Tennessee Tech,REG (Conf),L 85-90,*,30,8,13,0.615,0,1,0.0,8,12,0.667,0.615,0,1,0.0,2,2,4,5,1,0,1,3,16,14.0,H,0,1,dante-harris-1,Dante Harris,2026
+23,118,23,2026-02-05,Tennessee State,,Eastern Illinois,REG (Conf),W 77-68,*,36,2,7,0.286,0,0,,2,7,0.286,0.286,3,5,0.6,2,2,4,10,2,0,0,2,7,12.3,H,1,1,dante-harris-1,Dante Harris,2026
+24,119,24,2026-02-07,Tennessee State,,Western Illinois,REG (Conf),W 83-56,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,0,0,6,0,0,0,2,4,5.4,H,1,1,dante-harris-1,Dante Harris,2026
+25,120,25,2026-02-12,Tennessee State,@,Southern Indiana,REG (Conf),W 73-71,*,33,5,12,0.417,0,0,,5,12,0.417,0.417,4,4,1.0,0,1,1,0,0,0,2,4,14,4.3,A,1,1,dante-harris-1,Dante Harris,2026
+26,121,26,2026-02-14,Tennessee State,@,Morehead State,REG (Conf),L 86-94,*,36,2,12,0.167,0,3,0.0,2,9,0.222,0.167,8,8,1.0,1,0,1,7,0,0,2,1,12,7.6,A,0,1,dante-harris-1,Dante Harris,2026
+27,122,27,2026-02-19,Tennessee State,,Lindenwood,REG (Conf),W 89-80,*,35,7,16,0.438,2,3,0.667,5,13,0.385,0.5,5,8,0.625,4,4,8,2,1,0,4,3,21,12.6,H,1,1,dante-harris-1,Dante Harris,2026
+28,123,28,2026-02-21,Tennessee State,,SIU Edwardsville,REG (Conf),W 80-53,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,2,2,9,4,0,2,1,6,10.8,H,1,1,dante-harris-1,Dante Harris,2026
+29,124,29,2026-02-26,Tennessee State,@,Southeast Missouri State,REG (Conf),W 79-71,*,36,6,14,0.429,0,1,0.0,6,13,0.462,0.429,8,8,1.0,3,2,5,3,1,0,2,3,20,15.2,A,1,1,dante-harris-1,Dante Harris,2026
+30,125,30,2026-02-28,Tennessee State,@,UT Martin,REG (Conf),W 67-42,*,28,3,8,0.375,0,0,,3,8,0.375,0.375,0,1,0.0,2,3,5,5,2,0,3,1,6,5.6,A,1,1,dante-harris-1,Dante Harris,2026
+31,126,31,2026-03-06,Tennessee State,N,UT Martin,CTOURN,W 68-55,*,32,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,0,3,3,4,0,0,3,2,6,0.8,N,1,0,dante-harris-1,Dante Harris,2026
+32,127,32,2026-03-07,Tennessee State,N,Morehead State,CTOURN,W 93-67,*,36,6,20,0.3,4,8,0.5,2,12,0.167,0.4,0,0,,3,8,11,4,3,0,4,3,16,9.5,N,1,0,dante-harris-1,Dante Harris,2026

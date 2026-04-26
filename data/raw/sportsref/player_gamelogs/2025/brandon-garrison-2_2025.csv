@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2024-11-04,Kentucky,,Wright State,REG (Non-Conf),W 103-62,,19,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,2,4,5,2,0,0,4,6,8.5,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+2,34,2,2024-11-09,Kentucky,,Bucknell,REG (Non-Conf),W 100-72,,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,3,2,5,3,0,1,0,1,6,7.7,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+3,35,3,2024-11-12,Kentucky,N,Duke,REG (Non-Conf),W 77-72,,18,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,3,4,2,1,1,1,3,8,8.6,N,1,1,brandon-garrison-2,Brandon Garrison,2025
+4,36,4,2024-11-19,Kentucky,,Lipscomb,REG (Non-Conf),W 97-68,,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,2,3,5,1,0,2,1,3,8,6.9,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+5,37,5,2024-11-22,Kentucky,,Jackson State,REG (Non-Conf),W 108-59,,23,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,1,7,8,6,3,3,2,1,6,12.0,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+6,38,6,2024-11-26,Kentucky,,Western Kentucky,REG (Non-Conf),W 87-68,,12,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,2,0.0,0,5,5,1,1,0,1,2,4,2.6,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+7,39,8,2024-12-03,Kentucky,@,Clemson,REG (Non-Conf),L 66-70,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,2,2,2,-0.8,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+8,40,9,2024-12-07,Kentucky,N,Gonzaga,REG (Non-Conf),W 90-89 (OT),,17,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,1,1.0,3,6,9,1,0,1,3,2,10,8.2,N,1,1,brandon-garrison-2,Brandon Garrison,2025
+9,41,10,2024-12-11,Kentucky,,Colgate,REG (Non-Conf),W 78-67,,18,2,6,0.333,0,0,,2,6,0.333,0.333,0,2,0.0,1,4,5,2,2,0,0,2,4,4.3,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+10,42,11,2024-12-14,Kentucky,,Louisville,REG (Non-Conf),W 93-85,,24,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,1,3,4,4,0,0,3,3,5,3.8,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+11,43,12,2024-12-21,Kentucky,N,Ohio State,REG (Non-Conf),L 65-85,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,2,5,1,1,0,1,0,2,4.4,N,0,1,brandon-garrison-2,Brandon Garrison,2025
+12,44,13,2024-12-31,Kentucky,,Brown,REG (Non-Conf),W 88-54,,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,4,5,4,0,0,0,2,5,6.9,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+13,45,14,2025-01-04,Kentucky,,Florida,REG (Conf),W 106-100,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,3,3,3,0,0,1,5,2,0.6,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+14,46,15,2025-01-07,Kentucky,@,Georgia,REG (Conf),L 69-82,,27,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,2,1.0,2,3,5,2,2,2,4,2,13,11.7,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+15,47,16,2025-01-11,Kentucky,@,Mississippi State,REG (Conf),W 95-90,,10,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,2,1,3,1,0,0,0,2,3,2.8,A,1,1,brandon-garrison-2,Brandon Garrison,2025
+16,48,17,2025-01-14,Kentucky,,Texas A&M,REG (Conf),W 81-69,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,4,0.5,0,1,1,1,1,1,1,4,4,2.3,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+17,49,18,2025-01-18,Kentucky,,Alabama,REG (Conf),L 97-102,,19,5,7,0.714,1,3,0.333,4,4,1.0,0.786,0,0,,2,4,6,5,0,0,0,0,11,14.2,H,0,1,brandon-garrison-2,Brandon Garrison,2025
+18,50,19,2025-01-25,Kentucky,@,Vanderbilt,REG (Conf),L 69-74,,18,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,1,4,5,0,0,1,4,1,8,2.9,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+19,51,20,2025-01-28,Kentucky,@,Tennessee,REG (Conf),W 78-73,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,1,0,0,0,1,2,2.3,A,1,1,brandon-garrison-2,Brandon Garrison,2025
+20,52,21,2025-02-01,Kentucky,,Arkansas,REG (Conf),L 79-89,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,1,3,2,1,0,1,1,2,2.3,H,0,1,brandon-garrison-2,Brandon Garrison,2025
+21,53,22,2025-02-04,Kentucky,@,Ole Miss,REG (Conf),L 84-98,,14,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,1,4,5,3,0,0,0,1,5,5.5,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+22,54,23,2025-02-08,Kentucky,,South Carolina,REG (Conf),W 80-57,,21,7,8,0.875,1,2,0.5,6,6,1.0,0.938,0,0,,0,1,1,1,0,2,0,2,15,13.8,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+23,55,24,2025-02-11,Kentucky,,Tennessee,REG (Conf),W 75-64,,18,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,5,5,1,0,1,2,2,5,2.4,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+24,56,25,2025-02-15,Kentucky,@,Texas,REG (Conf),L 78-82,,14,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,3,4,2,0,0,2,1,6,4.3,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+25,57,26,2025-02-19,Kentucky,,Vanderbilt,REG (Conf),W 82-61,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,0,1,1,1,0,-0.4,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+26,58,27,2025-02-22,Kentucky,@,Alabama,REG (Conf),L 83-96,,13,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,1,3,4,0,1,0,2,1,8,5.1,A,0,1,brandon-garrison-2,Brandon Garrison,2025
+27,59,28,2025-02-26,Kentucky,@,Oklahoma,REG (Conf),W 83-82,,27,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,1,0.0,1,3,4,0,3,2,1,1,12,12.6,A,1,1,brandon-garrison-2,Brandon Garrison,2025
+28,60,29,2025-03-01,Kentucky,,Auburn,REG (Conf),L 78-94,,13,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,1,1,1,3,1,-0.6,H,0,1,brandon-garrison-2,Brandon Garrison,2025
+29,61,30,2025-03-04,Kentucky,,Louisiana State,REG (Conf),W 95-64,,21,6,12,0.5,2,5,0.4,4,7,0.571,0.583,1,1,1.0,0,2,2,4,3,1,1,2,15,14.3,H,1,1,brandon-garrison-2,Brandon Garrison,2025
+30,62,31,2025-03-08,Kentucky,@,Missouri,REG (Conf),W 91-83,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,1,3,4,0,0,0,1,4,0,-2.8,A,1,1,brandon-garrison-2,Brandon Garrison,2025
+31,63,32,2025-03-13,Kentucky,N,Oklahoma,CTOURN,W 85-84,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,1,2,3,1,2,0,1,3,5,4.8,N,1,0,brandon-garrison-2,Brandon Garrison,2025
+32,64,33,2025-03-14,Kentucky,N,Alabama,CTOURN,L 70-99,,16,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,2,2,1,1,0,1,2,1,0.4,N,0,0,brandon-garrison-2,Brandon Garrison,2025
+33,65,34,2025-03-21,Kentucky,N,Troy,ROUND-64,W 76-57,,16,5,7,0.714,1,3,0.333,4,4,1.0,0.786,2,3,0.667,1,5,6,2,2,0,1,1,13,13.9,N,1,0,brandon-garrison-2,Brandon Garrison,2025
+34,66,35,2025-03-23,Kentucky,N,Illinois,ROUND-32,W 84-75,,14,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,3,0.333,3,1,4,2,2,0,1,4,5,2.6,N,1,0,brandon-garrison-2,Brandon Garrison,2025
+35,67,36,2025-03-28,Kentucky,N,Tennessee,ROUND-16,L 65-78,,18,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,1,0,1,1,1,0,1,2,3,2.6,N,0,0,brandon-garrison-2,Brandon Garrison,2025

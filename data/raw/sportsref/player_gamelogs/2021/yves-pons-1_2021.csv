@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2020-12-08,Tennessee,,Colorado,REG (Non-Conf),W 56-47,*,33,1,9,0.111,0,2,0.0,1,7,0.143,0.111,0,0,,4,6,10,0,1,0,1,2,2,-0.1,H,1,1,yves-pons-1,Yves Pons,2021
+2,92,2,2020-12-12,Tennessee,,Cincinnati,REG (Non-Conf),W 65-56,*,29,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,2,2,4,0,0,2,1,0,8,5.7,H,1,1,yves-pons-1,Yves Pons,2021
+3,93,3,2020-12-15,Tennessee,,Appalachian State,REG (Non-Conf),W 79-38,*,22,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,1,5,6,1,2,1,2,1,7,5.8,H,1,1,yves-pons-1,Yves Pons,2021
+4,94,4,2020-12-18,Tennessee,,Tennessee Tech,REG (Non-Conf),W 103-49,*,24,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,3,2,5,4,1,2,1,0,10,12.6,H,1,1,yves-pons-1,Yves Pons,2021
+5,95,5,2020-12-21,Tennessee,,Saint Joseph's,REG (Non-Conf),W 102-66,*,28,5,8,0.625,1,3,0.333,4,5,0.8,0.688,2,2,1.0,0,9,9,0,0,0,3,2,13,8.3,H,1,1,yves-pons-1,Yves Pons,2021
+6,96,6,2020-12-23,Tennessee,,USC Upstate,REG (Non-Conf),W 80-60,*,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,2,2,1,1,2,1,0,5,4.6,H,1,1,yves-pons-1,Yves Pons,2021
+7,97,7,2020-12-30,Tennessee,@,Missouri,REG (Conf),W 73-53,*,30,5,9,0.556,0,0,,5,9,0.556,0.556,3,4,0.75,1,5,6,0,2,4,0,2,13,14.5,A,1,1,yves-pons-1,Yves Pons,2021
+8,98,8,2021-01-02,Tennessee,,Alabama,REG (Conf),L 63-71,*,21,1,6,0.167,1,2,0.5,0,4,0.0,0.25,3,4,0.75,0,2,2,0,0,5,0,4,6,4.3,H,0,1,yves-pons-1,Yves Pons,2021
+9,99,9,2021-01-06,Tennessee,,Arkansas,REG (Conf),W 79-74,*,33,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,2,1,3,1,0,4,0,0,6,8.2,H,1,1,yves-pons-1,Yves Pons,2021
+10,100,10,2021-01-09,Tennessee,@,Texas A&M,REG (Conf),W 68-54,*,33,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,3,4,3,0,2,1,2,8,8.7,A,1,1,yves-pons-1,Yves Pons,2021
+11,101,11,2021-01-16,Tennessee,,Vanderbilt,REG (Conf),W 81-61,*,25,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,1,4,5,4,1,1,1,2,5,5.8,H,1,1,yves-pons-1,Yves Pons,2021
+12,102,12,2021-01-19,Tennessee,@,Florida,REG (Conf),L 49-75,*,26,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,1,3,4,0,0,1,1,3,5,1.0,A,0,1,yves-pons-1,Yves Pons,2021
+13,103,13,2021-01-23,Tennessee,,Missouri,REG (Conf),L 64-73,*,35,6,11,0.545,3,8,0.375,3,3,1.0,0.682,5,5,1.0,2,3,5,0,0,2,1,4,20,15.8,H,0,1,yves-pons-1,Yves Pons,2021
+14,104,14,2021-01-26,Tennessee,,Mississippi State,REG (Conf),W 56-53,*,22,6,9,0.667,0,2,0.0,6,7,0.857,0.667,1,1,1.0,1,1,2,0,0,1,0,5,13,8.8,H,1,1,yves-pons-1,Yves Pons,2021
+15,105,15,2021-01-30,Tennessee,,Kansas,REG (Non-Conf),W 80-61,*,23,7,9,0.778,2,2,1.0,5,7,0.714,0.889,1,1,1.0,2,3,5,0,0,0,0,3,17,14.6,H,1,1,yves-pons-1,Yves Pons,2021
+16,106,16,2021-02-02,Tennessee,@,Ole Miss,REG (Conf),L 50-52,*,28,5,9,0.556,2,3,0.667,3,6,0.5,0.667,1,2,0.5,0,4,4,0,1,0,1,4,13,7.9,A,0,1,yves-pons-1,Yves Pons,2021
+17,107,17,2021-02-06,Tennessee,@,Kentucky,REG (Conf),W 82-71,*,32,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,2,3,5,0,1,1,1,2,6,3.8,A,1,1,yves-pons-1,Yves Pons,2021
+18,108,19,2021-02-13,Tennessee,@,Louisiana State,REG (Conf),L 65-78,*,24,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,3,1,4,0,0,1,1,1,3,1.2,A,0,1,yves-pons-1,Yves Pons,2021
+19,109,20,2021-02-17,Tennessee,,South Carolina,REG (Conf),W 93-73,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,3,6,9,1,2,1,3,3,10,10.9,H,1,1,yves-pons-1,Yves Pons,2021
+20,110,21,2021-02-20,Tennessee,,Kentucky,REG (Conf),L 55-70,*,34,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,1,1.0,0,2,2,0,2,3,0,2,10,10.6,H,0,1,yves-pons-1,Yves Pons,2021
+21,111,22,2021-02-24,Tennessee,@,Vanderbilt,REG (Conf),W 70-58,*,30,4,8,0.5,0,3,0.0,4,5,0.8,0.5,2,2,1.0,3,7,10,1,0,1,2,1,10,9.2,A,1,1,yves-pons-1,Yves Pons,2021
+22,112,23,2021-02-27,Tennessee,@,Auburn,REG (Conf),L 72-77,*,32,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,2,6,8,1,0,1,2,2,10,7.8,A,0,1,yves-pons-1,Yves Pons,2021
+23,113,24,2021-03-07,Tennessee,,Florida,REG (Conf),W 65-54,*,23,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,2,0.5,6,2,8,0,2,1,0,2,5,6.5,H,1,1,yves-pons-1,Yves Pons,2021
+24,114,25,2021-03-12,Tennessee,N,Florida,CTOURN,W 78-66,*,36,4,9,0.444,2,3,0.667,2,6,0.333,0.556,1,2,0.5,0,8,8,1,0,9,0,2,11,14.5,N,1,0,yves-pons-1,Yves Pons,2021
+25,115,26,2021-03-13,Tennessee,N,Alabama,CTOURN,L 68-73,*,39,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,2,3,5,1,1,2,1,2,7,7.2,N,0,0,yves-pons-1,Yves Pons,2021
+26,116,27,2021-03-19,Tennessee,N,Oregon State,ROUND-64,L 56-70,*,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,0,2,2,0,0,0,3,4,4,-1.4,N,0,0,yves-pons-1,Yves Pons,2021

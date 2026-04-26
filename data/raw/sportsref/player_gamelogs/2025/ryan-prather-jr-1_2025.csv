@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2024-11-04,Robert Morris,@,West Virginia,REG (Non-Conf),L 59-87,*,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,2,1,3,1,0,0,2,4,5,2.5,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+2,17,2,2024-11-07,Robert Morris,@,Delaware,REG (Non-Conf),L 77-81,*,29,4,7,0.571,3,5,0.6,1,2,0.5,0.786,3,3,1.0,0,1,1,0,0,0,1,1,14,9.6,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+3,18,3,2024-11-10,Robert Morris,,Chatham,REG (Non-Conf),W 79-51,*,27,5,8,0.625,4,6,0.667,1,2,0.5,0.875,5,5,1.0,0,2,2,0,0,1,0,1,19,16.3,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+4,19,4,2024-11-14,Robert Morris,,Stonehill,REG (Non-Conf),W 63-51,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,6,8,0.75,1,4,5,2,0,0,2,3,8,4.9,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+5,20,5,2024-11-15,Robert Morris,,Lindenwood,REG (Non-Conf),W 67-53,*,34,4,13,0.308,2,8,0.25,2,5,0.4,0.385,1,1,1.0,3,0,3,3,0,0,0,0,11,7.7,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+6,21,6,2024-11-17,Robert Morris,,New Orleans,REG (Non-Conf),W 73-62,*,33,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,2,0,2,1,1,0,1,2,7,3.9,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+7,22,7,2024-11-21,Robert Morris,@,Cornell,REG (Non-Conf),W 86-76,*,29,3,10,0.3,0,3,0.0,3,7,0.429,0.3,4,4,1.0,0,3,3,0,1,0,3,1,10,2.7,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+8,23,8,2024-11-27,Robert Morris,,Canisius,REG (Non-Conf),W 72-64,*,30,3,9,0.333,2,7,0.286,1,2,0.5,0.444,1,2,0.5,2,2,4,1,0,0,0,0,9,6.2,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+9,24,9,2024-11-30,Robert Morris,@,Ohio,REG (Non-Conf),L 68-84,*,28,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,1,1,3,2,0,1,0,3,2.6,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+10,25,10,2024-12-04,Robert Morris,,Youngstown State,REG (Conf),L 58-72,*,26,3,8,0.375,1,5,0.2,2,3,0.667,0.438,2,4,0.5,0,3,3,0,0,0,0,2,9,3.9,H,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+11,26,11,2024-12-08,Robert Morris,@,Purdue Fort Wayne,REG (Conf),L 77-82,,21,6,15,0.4,2,7,0.286,4,8,0.5,0.467,0,1,0.0,3,2,5,0,0,0,2,1,14,5.8,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+12,27,12,2024-12-17,Robert Morris,,Towson,REG (Non-Conf),W 68-67,,15,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,0,0,6,4.7,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+13,28,13,2024-12-21,Robert Morris,,Saint Francis (PA),REG (Non-Conf),W 90-77,,22,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,4,0.5,0,0,0,1,0,0,0,1,9,5.5,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+14,29,14,2024-12-29,Robert Morris,,Northern Kentucky,REG (Conf),W 97-93 (3OT),,41,3,10,0.3,3,7,0.429,0,3,0.0,0.45,0,0,,2,3,5,1,1,0,1,0,9,6.2,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+15,30,15,2025-01-02,Robert Morris,@,Detroit Mercy,REG (Conf),L 76-78 (OT),,26,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,0,1,0,1,3,4,2.1,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+16,31,16,2025-01-04,Robert Morris,@,Oakland,REG (Conf),W 79-71,,16,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,4,2,6,0,0,0,0,0,7,6.0,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+17,32,17,2025-01-08,Robert Morris,,Cleveland State,REG (Conf),L 69-80,,20,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,3,3,1,0,0,0,0,6,4.9,H,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+18,33,18,2025-01-12,Robert Morris,,Wright State,REG (Conf),W 75-72,,20,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,1,4,5,3,1,0,0,0,11,13.4,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+19,34,19,2025-01-17,Robert Morris,@,Green Bay,REG (Conf),W 89-67,,29,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,0,,3,3,6,4,0,0,1,3,11,12.4,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+20,35,20,2025-01-19,Robert Morris,@,Milwaukee,REG (Conf),W 81-79,,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,2,2,0,0,0,2,0,5,0.2,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+21,36,21,2025-01-22,Robert Morris,@,Youngstown State,REG (Conf),W 72-70,,24,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,5,6,2,0,0,1,2,8,6.8,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+22,37,22,2025-01-25,Robert Morris,,Oakland,REG (Conf),W 73-71,,18,5,7,0.714,4,6,0.667,1,1,1.0,1.0,0,0,,1,2,3,1,0,0,0,1,14,12.7,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+23,38,23,2025-01-30,Robert Morris,,IU Indy,REG (Conf),W 106-53,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,1,3,3,0.5,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+24,39,24,2025-02-02,Robert Morris,@,Wright State,REG (Conf),L 64-66,,30,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,3,3,6,1,0,1,0,1,5,8.4,A,0,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+25,40,25,2025-02-05,Robert Morris,,Detroit Mercy,REG (Conf),W 71-56,*,30,4,8,0.5,4,6,0.667,0,2,0.0,0.75,3,3,1.0,0,2,2,1,0,0,0,1,15,11.9,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+26,41,26,2025-02-08,Robert Morris,@,Northern Kentucky,REG (Conf),W 81-76,*,24,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,1,1,2,1,0,0,3,1,8,2.6,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+27,42,27,2025-02-12,Robert Morris,@,Cleveland State,REG (Conf),W 68-59,,21,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,2,0,2,0,0,0,0,1,3,-0.5,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+28,43,28,2025-02-15,Robert Morris,,Purdue Fort Wayne,REG (Conf),W 76-69,,22,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,0,1,1,0,2,2,1,3,9,6.8,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+29,44,29,2025-02-21,Robert Morris,,Green Bay,REG (Conf),W 94-85,,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,2,4,3,0,0,0,1,2,3.3,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+30,45,30,2025-02-23,Robert Morris,,Milwaukee,REG (Conf),W 72-59,,18,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,2,0,0,0,0,0,0.6,H,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+31,46,31,2025-02-27,Robert Morris,@,IU Indy,REG (Conf),W 82-68,,24,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,1,1.0,2,0,2,2,0,0,2,0,12,9.5,A,1,1,ryan-prather-jr-1,Ryan Prather Jr.,2025
+32,47,32,2025-03-06,Robert Morris,,Wright State,CTOURN,W 83-62,,23,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,0,,0,4,4,1,1,0,1,0,13,12.7,H,1,0,ryan-prather-jr-1,Ryan Prather Jr.,2025
+33,48,33,2025-03-10,Robert Morris,N,Oakland,CTOURN,W 79-76 (OT),,24,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,1,1,2,0,0,1,0,1,7,3.9,N,1,0,ryan-prather-jr-1,Ryan Prather Jr.,2025
+34,49,34,2025-03-11,Robert Morris,N,Youngstown State,CTOURN,W 89-78,,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,3,1,4,0,0,0,0,2,6,5.9,N,1,0,ryan-prather-jr-1,Ryan Prather Jr.,2025
+35,50,35,2025-03-21,Robert Morris,N,Alabama,ROUND-64,L 81-90,,20,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,0,1,0,0,0,0,2,7,3.9,N,0,0,ryan-prather-jr-1,Ryan Prather Jr.,2025

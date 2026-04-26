@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2023-11-06,Dayton,,SIU Edwardsville,REG (Non-Conf),W 63-47,,8,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,1,1,0,0,0,1,0,6,4.4,H,1,1,isaac-jack-1,Isaac Jack,2024
+2,33,2,2023-11-10,Dayton,@,Northwestern,REG (Non-Conf),L 66-71,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,isaac-jack-1,Isaac Jack,2024
+3,34,3,2023-11-16,Dayton,N,Louisiana State,REG (Non-Conf),W 70-67,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,0,2,0,1,0,0,1,2,3.7,N,1,1,isaac-jack-1,Isaac Jack,2024
+4,35,4,2023-11-17,Dayton,N,St. John's (NY),REG (Non-Conf),W 88-81,,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,0,3,4,2.5,N,1,1,isaac-jack-1,Isaac Jack,2024
+5,36,5,2023-11-19,Dayton,N,Houston,REG (Non-Conf),L 55-69,,8,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,0,0,0,0,0,0,1,1,8,5.4,N,0,1,isaac-jack-1,Isaac Jack,2024
+6,37,6,2023-11-24,Dayton,,Youngstown State,REG (Non-Conf),W 77-69,,13,1,1,1.0,0,0,1,1,1.0,1.0,4,6,0.667,2,1,3,0,0,3,2,2,6,5.9,H,1,1,isaac-jack-1,Isaac Jack,2024
+7,38,7,2023-11-29,Dayton,@,SMU,REG (Non-Conf),W 65-63,,17,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,1,0,1,2,2,4,3.0,A,1,1,isaac-jack-1,Isaac Jack,2024
+8,39,8,2023-12-02,Dayton,,Grambling State,REG (Non-Conf),W 76-46,,16,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,1,2,1,0,2,0,2,6,7.7,H,1,1,isaac-jack-1,Isaac Jack,2024
+9,40,10,2023-12-09,Dayton,,Troy,REG (Non-Conf),W 82-70,,7,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,1,2,1,0,-1.1,H,1,1,isaac-jack-1,Isaac Jack,2024
+10,41,11,2023-12-16,Dayton,N,Cincinnati,REG (Non-Conf),W 82-68,,5,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,N,1,1,isaac-jack-1,Isaac Jack,2024
+11,42,12,2023-12-20,Dayton,,Oakland,REG (Non-Conf),W 91-67,,14,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,1,1,2,0,0,0,2,4,4.3,H,1,1,isaac-jack-1,Isaac Jack,2024
+12,43,13,2023-12-30,Dayton,,Longwood,REG (Non-Conf),W 78-69,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,2,2,0,-2.8,H,1,1,isaac-jack-1,Isaac Jack,2024
+13,44,14,2024-01-03,Dayton,@,Davidson,REG (Conf),W 72-59,,7,3,4,0.75,0,0,3,4,0.75,0.75,1,3,0.333,2,2,4,0,0,0,2,2,7,3.8,A,1,1,isaac-jack-1,Isaac Jack,2024
+14,45,15,2024-01-07,Dayton,,Massachusetts,REG (Conf),W 64-60,,9,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,1,3,4,0,0,0,1,1,5,3.8,H,1,1,isaac-jack-1,Isaac Jack,2024
+15,46,16,2024-01-12,Dayton,@,Duquesne,REG (Conf),W 72-62,,15,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,2,3,0,2,2,1,0,6,8.1,A,1,1,isaac-jack-1,Isaac Jack,2024
+16,47,17,2024-01-16,Dayton,,Saint Louis,REG (Conf),W 70-65,,9,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,2,0,2,0,1,1,1,0,3,3.0,H,1,1,isaac-jack-1,Isaac Jack,2024
+17,48,18,2024-01-20,Dayton,,Rhode Island,REG (Conf),W 96-62,,16,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,2,3,5,0,0,0,0,4,8,7.5,H,1,1,isaac-jack-1,Isaac Jack,2024
+18,49,19,2024-01-23,Dayton,@,La Salle,REG (Conf),W 66-54,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,A,1,1,isaac-jack-1,Isaac Jack,2024
+19,50,20,2024-01-27,Dayton,@,Richmond,REG (Conf),L 64-69,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,0,2,0,0,0,1,1,2,1.7,A,0,1,isaac-jack-1,Isaac Jack,2024
+20,51,21,2024-01-30,Dayton,,George Washington,REG (Conf),W 83-61,,7,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,1,1,0,1,2,2.3,H,1,1,isaac-jack-1,Isaac Jack,2024
+21,52,22,2024-02-02,Dayton,,St. Bonaventure,REG (Conf),W 76-71,,11,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,4,6,0,0,0,0,2,8,8.9,H,1,1,isaac-jack-1,Isaac Jack,2024
+22,53,23,2024-02-06,Dayton,@,Saint Joseph's,REG (Conf),W 94-79,,6,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,1,0,-2.1,A,1,1,isaac-jack-1,Isaac Jack,2024
+23,54,24,2024-02-09,Dayton,@,VCU,REG (Conf),L 47-49,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,3,2,0.1,A,0,1,isaac-jack-1,Isaac Jack,2024
+24,55,25,2024-02-13,Dayton,,Duquesne,REG (Conf),W 75-59,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,isaac-jack-1,Isaac Jack,2024
+25,56,26,2024-02-17,Dayton,,Fordham,REG (Conf),W 78-70,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,isaac-jack-1,Isaac Jack,2024
+26,57,27,2024-02-21,Dayton,@,George Mason,REG (Conf),L 67-71,,14,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,0,0,0,0,0,0,1,3,6,2.5,A,0,1,isaac-jack-1,Isaac Jack,2024
+27,58,28,2024-02-27,Dayton,,Davidson,REG (Conf),W 80-66,,8,0,0,,0,0,0,0,,,0,0,,0,1,1,1,1,1,0,1,0,2.3,H,1,1,isaac-jack-1,Isaac Jack,2024
+28,59,29,2024-03-01,Dayton,@,Loyola Chicago,REG (Conf),L 72-77,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,1,2,2,2,0.2,A,0,1,isaac-jack-1,Isaac Jack,2024
+29,60,30,2024-03-05,Dayton,@,Saint Louis,REG (Conf),W 100-83,,6,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,1,0,2,-0.7,A,1,1,isaac-jack-1,Isaac Jack,2024
+30,61,31,2024-03-08,Dayton,,VCU,REG (Conf),W 91-86 (OT),,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,isaac-jack-1,Isaac Jack,2024
+31,62,32,2024-03-14,Dayton,N,Duquesne,CTOURN,L 57-65,,2,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,1,2,2.0,N,0,0,isaac-jack-1,Isaac Jack,2024
+32,63,33,2024-03-21,Dayton,N,Nevada,ROUND-64,W 63-60,,8,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,4,4,0,1,0,2,3,6,3.4,N,1,0,isaac-jack-1,Isaac Jack,2024
+33,64,34,2024-03-23,Dayton,N,Arizona,ROUND-32,L 68-78,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,isaac-jack-1,Isaac Jack,2024

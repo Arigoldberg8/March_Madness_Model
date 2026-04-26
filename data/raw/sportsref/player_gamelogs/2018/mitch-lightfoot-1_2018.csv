@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2017-11-10,Kansas,,Tennessee State,REG (Non-Conf),W 92-56,,17,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,2,3,5,0,1,3,4,4,6,3.8,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+2,27,2,2017-11-14,Kansas,N,Kentucky,REG (Non-Conf),W 65-61,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,N,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+3,28,3,2017-11-17,Kansas,,South Dakota State,REG (Non-Conf),W 98-64,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,0,4,2,5,2,1.4,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+4,29,4,2017-11-21,Kansas,,Texas Southern,REG (Non-Conf),W 114-71,,23,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,2,1,3,0,0,4,1,3,10,8.6,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+5,30,5,2017-11-24,Kansas,,Oakland,REG (Non-Conf),W 102-59,,24,3,3,1.0,1,1,1.0,2,2,1.0,1.167,4,4,1.0,2,6,8,0,0,2,1,2,11,12.9,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+6,31,6,2017-11-28,Kansas,,Toledo,REG (Non-Conf),W 96-58,,21,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,3,4,0,0,1,3,2,6,2.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+7,32,7,2017-12-02,Kansas,N,Syracuse,REG (Non-Conf),W 76-60,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,0,4,2,0.8,N,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+8,33,8,2017-12-06,Kansas,N,Washington,REG (Non-Conf),L 65-74,,8,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,4,6,0,0,0,0,3,4,4.1,N,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+9,34,9,2017-12-10,Kansas,,Arizona State,REG (Non-Conf),L 85-95,,18,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,2,3,5,0,0,2,3,0,1,0.6,H,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+10,35,10,2017-12-16,Kansas,@,Nebraska,REG (Non-Conf),W 73-72,,14,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,2,2,4,1,1,1,1,0,6,8.4,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+11,36,11,2017-12-18,Kansas,,Omaha,REG (Non-Conf),W 109-64,,15,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,2,3,1,0,1,1,2,6,4.2,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+12,37,12,2017-12-21,Kansas,@,Stanford,REG (Non-Conf),W 75-54,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,0,2,0,1,1,3,4,0,-2.2,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+13,38,13,2017-12-29,Kansas,@,Texas,REG (Conf),W 92-86,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,1,0,1,0,1.6,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+14,39,14,2018-01-02,Kansas,,Texas Tech,REG (Conf),L 73-85,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,1,0,1,0,1.3,H,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+15,40,15,2018-01-06,Kansas,@,TCU,REG (Conf),W 88-84,,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,3,0.667,6,1,7,1,0,6,0,2,9,14.9,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+16,41,16,2018-01-09,Kansas,,Iowa State,REG (Conf),W 83-78,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,1,0,1,0,-0.1,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+17,42,17,2018-01-13,Kansas,,Kansas State,REG (Conf),W 73-72,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,1,0,2,2,0.9,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+18,43,18,2018-01-15,Kansas,@,West Virginia,REG (Conf),W 71-66,,11,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,3,2,5,0,1,0,0,1,6,5.6,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+19,44,19,2018-01-20,Kansas,,Baylor,REG (Conf),W 70-67,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,1,0,2,0,-0.8,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+20,45,20,2018-01-23,Kansas,@,Oklahoma,REG (Conf),L 80-85,,17,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,4,5,1,0,2,0,2,8,8.6,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+21,46,21,2018-01-27,Kansas,,Texas A&M,REG (Non-Conf),W 79-68,,16,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,1,2,0,0,0,0,2,5,4.6,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+22,47,22,2018-01-29,Kansas,@,Kansas State,REG (Conf),W 70-56,,20,0,0,,0,0,,0,0,,,0,0,,3,2,5,0,0,3,1,2,0,3.0,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+23,48,23,2018-02-03,Kansas,,Oklahoma State,REG (Conf),L 79-84,,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,1,0,2,2,3.0,H,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+24,49,24,2018-02-06,Kansas,,TCU,REG (Conf),W 71-64,*,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,2,4,0,1,2,2,1,6,5.7,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+25,50,25,2018-02-10,Kansas,@,Baylor,REG (Conf),L 64-80,*,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,3,0,3,2,0,2,0,5,2,1.1,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+26,51,26,2018-02-13,Kansas,@,Iowa State,REG (Conf),W 83-77,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,2,1,0,3,2,4.2,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+27,52,27,2018-02-17,Kansas,,West Virginia,REG (Conf),W 77-69,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+28,53,28,2018-02-19,Kansas,,Oklahoma,REG (Conf),W 104-74,,7,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,3,2,3,4,2.3,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+29,54,29,2018-02-24,Kansas,@,Texas Tech,REG (Conf),W 74-72,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,1,0,1,0,1,4,5.0,A,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+30,55,30,2018-02-26,Kansas,,Texas,REG (Conf),W 80-70,,15,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,4,4,0,0,1,1,2,6,4.5,H,1,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+31,56,31,2018-03-03,Kansas,@,Oklahoma State,REG (Conf),L 64-82,,7,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,2,1,3,0,0,0,0,1,5,3.9,A,0,1,mitch-lightfoot-1,Mitch Lightfoot,2018
+32,57,32,2018-03-08,Kansas,N,Oklahoma State,CTOURN,W 82-68,*,23,4,6,0.667,0,0,,4,6,0.667,0.667,0,1,0.0,2,4,6,0,0,0,3,5,8,2.6,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+33,58,33,2018-03-09,Kansas,N,Kansas State,CTOURN,W 83-67,*,21,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,2,1,3,0,0,2,0,4,8,8.3,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+34,59,34,2018-03-10,Kansas,N,West Virginia,CTOURN,W 81-70,*,14,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,1,1,0,2,0,1.5,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+35,60,35,2018-03-15,Kansas,N,Pennsylvania,ROUND-64,W 76-60,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,2,9,11,0,0,3,0,4,9,10.9,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+36,61,36,2018-03-17,Kansas,N,Seton Hall,ROUND-32,W 83-79,*,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,2,3,1,0,1,1,3,4,2.8,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+37,62,37,2018-03-23,Kansas,N,Clemson,ROUND-16,W 80-76,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,mitch-lightfoot-1,Mitch Lightfoot,2018
+38,63,39,2018-03-31,Kansas,N,Villanova,NATIONAL-SEMI,L 79-95,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,mitch-lightfoot-1,Mitch Lightfoot,2018

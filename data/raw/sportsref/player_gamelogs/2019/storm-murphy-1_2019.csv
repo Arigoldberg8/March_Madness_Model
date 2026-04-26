@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2018-11-06,Wofford,,North Carolina,REG (Non-Conf),L 67-78,*,31,5,8,0.625,3,6,0.5,2,2,1.0,0.813,2,2,1.0,0,2,2,6,0,0,4,1,15,11.8,H,0,1,storm-murphy-1,Storm Murphy,2019
+2,36,2,2018-11-10,Wofford,@,High Point,REG (Non-Conf),W 68-60,*,33,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,0,,0,1,1,3,1,0,3,0,12,8.1,A,1,1,storm-murphy-1,Storm Murphy,2019
+3,37,3,2018-11-13,Wofford,,Carver,REG (Non-Conf),W 94-35,*,16,3,7,0.429,1,4,0.25,2,3,0.667,0.5,1,2,0.5,0,1,1,6,2,0,1,1,8,9.0,H,1,1,storm-murphy-1,Storm Murphy,2019
+4,38,4,2018-11-18,Wofford,@,Oklahoma,REG (Non-Conf),L 64-75,*,31,4,12,0.333,2,8,0.25,2,4,0.5,0.417,0,0,,0,7,7,1,0,0,2,3,10,2.8,A,0,1,storm-murphy-1,Storm Murphy,2019
+5,39,5,2018-11-21,Wofford,,Coppin State,REG (Non-Conf),W 99-65,*,22,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,0,2,2,5,1,0,1,0,8,9.8,H,1,1,storm-murphy-1,Storm Murphy,2019
+6,40,6,2018-11-23,Wofford,,Mars Hill,REG (Non-Conf),W 97-46,*,22,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,2,0,2,5,1,0,0,3,2,3.6,H,1,1,storm-murphy-1,Storm Murphy,2019
+7,41,8,2018-12-01,Wofford,,East Tennessee State,REG (Conf),W 79-62,*,21,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,1,1,3,0,0,1,4,6,5.2,H,1,1,storm-murphy-1,Storm Murphy,2019
+8,42,9,2018-12-04,Wofford,@,Kansas,REG (Non-Conf),L 47-72,*,23,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,2,2,2,0,0,0,1,5,2.5,A,0,1,storm-murphy-1,Storm Murphy,2019
+9,43,10,2018-12-06,Wofford,,Kentucky Christian,REG (Non-Conf),W 112-58,,15,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,1,1,4,2,0,0,1,7,8.7,H,1,1,storm-murphy-1,Storm Murphy,2019
+10,44,11,2018-12-09,Wofford,,Coastal Carolina,REG (Non-Conf),W 82-71,*,33,3,5,0.6,2,4,0.5,1,1,1.0,0.8,5,6,0.833,0,3,3,3,1,0,2,1,13,11.9,H,1,1,storm-murphy-1,Storm Murphy,2019
+11,45,12,2018-12-15,Wofford,,UNC Asheville,REG (Non-Conf),W 92-49,*,21,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,0,0,0,4,1,0,1,1,9,9.8,H,1,1,storm-murphy-1,Storm Murphy,2019
+12,46,13,2018-12-19,Wofford,@,Mississippi State,REG (Non-Conf),L 87-98,*,25,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,0,1,1,3,1,0,1,2,8,7.3,A,0,1,storm-murphy-1,Storm Murphy,2019
+13,47,14,2018-12-29,Wofford,@,Western Carolina,REG (Conf),W 74-54,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,3,4,2,0,0,0,2,5,4.8,A,1,1,storm-murphy-1,Storm Murphy,2019
+14,48,15,2019-01-03,Wofford,,The Citadel,REG (Conf),W 112-81,*,25,5,8,0.625,4,6,0.667,1,2,0.5,0.875,0,0,,1,2,3,4,0,0,3,3,14,10.3,H,1,1,storm-murphy-1,Storm Murphy,2019
+15,49,16,2019-01-05,Wofford,,Mercer,REG (Conf),W 78-74,*,26,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,1,1,6,1,0,0,3,10,11.7,H,1,1,storm-murphy-1,Storm Murphy,2019
+16,50,17,2019-01-10,Wofford,@,UNC Greensboro,REG (Conf),W 72-43,*,25,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,4,4,1,0,0,3,1,0,-3.6,A,1,1,storm-murphy-1,Storm Murphy,2019
+17,51,18,2019-01-12,Wofford,@,VMI,REG (Conf),W 90-76,*,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,3,2,0,2,1,7,6.4,A,1,1,storm-murphy-1,Storm Murphy,2019
+18,52,19,2019-01-19,Wofford,,Furman,REG (Conf),W 59-54,*,32,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,3,3,3,0,0,2,1,6,3.2,H,1,1,storm-murphy-1,Storm Murphy,2019
+19,53,20,2019-01-24,Wofford,,Samford,REG (Conf),W 107-106 (OT),*,33,4,4,1.0,3,3,1.0,1,1,1.0,1.375,0,1,0.0,0,0,0,2,1,0,3,2,11,8.0,H,1,1,storm-murphy-1,Storm Murphy,2019
+20,54,21,2019-01-26,Wofford,,Chattanooga,REG (Conf),W 80-69,*,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,3,1,0,0,1,0,0.2,H,1,1,storm-murphy-1,Storm Murphy,2019
+21,55,22,2019-01-31,Wofford,@,Mercer,REG (Conf),W 76-67,*,27,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,0,1,1,2,1,0,0,4,7,6.1,A,1,1,storm-murphy-1,Storm Murphy,2019
+22,56,23,2019-02-02,Wofford,@,The Citadel,REG (Conf),W 99-61,*,23,4,6,0.667,4,4,1.0,0,2,0.0,1.0,0,0,,0,1,1,3,0,0,0,2,12,11.0,A,1,1,storm-murphy-1,Storm Murphy,2019
+23,57,24,2019-02-07,Wofford,@,East Tennessee State,REG (Conf),W 78-76 (OT),*,39,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,0,2,2,1,1,0,3,1,12,8.0,A,1,1,storm-murphy-1,Storm Murphy,2019
+24,58,25,2019-02-09,Wofford,,Western Carolina,REG (Conf),W 83-56,*,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,1,0,0,0,2,2,0.2,H,1,1,storm-murphy-1,Storm Murphy,2019
+25,59,26,2019-02-14,Wofford,,VMI,REG (Conf),W 95-84,*,28,7,10,0.7,3,5,0.6,4,5,0.8,0.85,2,2,1.0,0,2,2,4,0,0,2,1,19,15.8,H,1,1,storm-murphy-1,Storm Murphy,2019
+26,60,27,2019-02-16,Wofford,,UNC Greensboro,REG (Conf),W 80-50,*,26,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,4,1.0,0,2,2,4,2,0,1,1,9,10.3,H,1,1,storm-murphy-1,Storm Murphy,2019
+27,61,28,2019-02-23,Wofford,@,Furman,REG (Conf),W 72-64,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,3,1,0,0,0,5,5.4,A,1,1,storm-murphy-1,Storm Murphy,2019
+28,62,29,2019-02-28,Wofford,@,Chattanooga,REG (Conf),W 80-54,*,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,0,0,3,0,0,0,1,6,5.4,A,1,1,storm-murphy-1,Storm Murphy,2019
+29,63,30,2019-03-02,Wofford,@,Samford,REG (Conf),W 85-64,*,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,1,1,2,1,1,0,4,4,4.1,A,1,1,storm-murphy-1,Storm Murphy,2019
+30,64,31,2019-03-09,Wofford,N,VMI,CTOURN,W 99-72,*,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,3,3,4,0,0,0,1,11,11.0,N,1,0,storm-murphy-1,Storm Murphy,2019
+31,65,32,2019-03-10,Wofford,N,East Tennessee State,CTOURN,W 81-72,*,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,4,0.75,0,3,3,4,2,0,4,3,6,4.4,N,1,0,storm-murphy-1,Storm Murphy,2019
+32,66,33,2019-03-11,Wofford,N,UNC Greensboro,CTOURN,W 70-58,*,36,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,1,1,3,0,0,1,3,7,3.8,N,1,0,storm-murphy-1,Storm Murphy,2019
+33,67,34,2019-03-21,Wofford,N,Seton Hall,ROUND-64,W 84-68,*,34,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,5,5,3,1,0,1,1,11,9.2,N,1,0,storm-murphy-1,Storm Murphy,2019
+34,68,35,2019-03-23,Wofford,N,Kentucky,ROUND-32,L 56-62,*,37,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,2,2,6,0,0,0,3,6,5.5,N,0,0,storm-murphy-1,Storm Murphy,2019

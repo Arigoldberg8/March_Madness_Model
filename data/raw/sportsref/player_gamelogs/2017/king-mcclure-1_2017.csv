@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2016-11-11,Baylor,,Oral Roberts,REG (Non-Conf),W 76-61,,16,0,3,0.0,0,3,0.0,0,0,,0.0,3,4,0.75,0,1,1,2,2,0,0,2,3,3.4,H,1,1,king-mcclure-1,King McClure,2017
+2,36,2,2016-11-15,Baylor,,Oregon,REG (Non-Conf),W 66-49,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,0,0,0.7,H,1,1,king-mcclure-1,King McClure,2017
+3,37,3,2016-11-18,Baylor,,Florida Gulf Coast,REG (Non-Conf),W 81-72,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,-0.7,H,1,1,king-mcclure-1,King McClure,2017
+4,38,4,2016-11-23,Baylor,N,VCU,REG (Non-Conf),W 71-63,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,N,1,1,king-mcclure-1,King McClure,2017
+5,39,5,2016-11-24,Baylor,N,Michigan State,REG (Non-Conf),W 73-58,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,N,1,1,king-mcclure-1,King McClure,2017
+6,40,6,2016-11-25,Baylor,N,Louisville,REG (Non-Conf),W 66-63,,19,5,8,0.625,2,4,0.5,3,4,0.75,0.75,3,4,0.75,1,0,1,1,1,0,0,0,15,13.4,N,1,1,king-mcclure-1,King McClure,2017
+7,41,7,2016-11-30,Baylor,,Sam Houston State,REG (Non-Conf),W 79-45,,19,5,9,0.556,4,7,0.571,1,2,0.5,0.778,0,0,,0,2,2,2,0,0,0,2,14,10.9,H,1,1,king-mcclure-1,King McClure,2017
+8,42,8,2016-12-03,Baylor,,Xavier,REG (Non-Conf),W 76-61,,10,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-3.9,H,1,1,king-mcclure-1,King McClure,2017
+9,43,9,2016-12-14,Baylor,,Southern,REG (Non-Conf),W 89-59,,19,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,2,0.5,1,1,2,2,0,1,1,0,10,9.8,H,1,1,king-mcclure-1,King McClure,2017
+10,44,10,2016-12-17,Baylor,N,Jackson State,REG (Non-Conf),W 82-57,,13,2,5,0.4,0,3,0.0,2,2,1.0,0.4,5,5,1.0,0,2,2,0,0,0,3,2,9,3.1,N,1,1,king-mcclure-1,King McClure,2017
+11,45,11,2016-12-18,Baylor,,John Brown,REG (Non-Conf),W 107-53,,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,1,4,5,1,1,0,1,2,9,7.8,H,1,1,king-mcclure-1,King McClure,2017
+12,46,12,2016-12-21,Baylor,,Texas Southern,REG (Non-Conf),W 89-63,,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,2,3,1.2,H,1,1,king-mcclure-1,King McClure,2017
+13,47,13,2016-12-30,Baylor,@,Oklahoma,REG (Conf),W 76-50,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,1,0,1,2,0,-0.8,A,1,1,king-mcclure-1,King McClure,2017
+14,48,14,2017-01-04,Baylor,,Iowa State,REG (Conf),W 65-63,*,11,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,3,3,1,1,0,0,2,7,7.2,H,1,1,king-mcclure-1,King McClure,2017
+15,49,15,2017-01-07,Baylor,,Oklahoma State,REG (Conf),W 61-57,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,king-mcclure-1,King McClure,2017
+16,50,16,2017-01-10,Baylor,@,West Virginia,REG (Conf),L 68-89,,2,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,1,1,-0.5,A,0,1,king-mcclure-1,King McClure,2017
+17,51,17,2017-01-14,Baylor,@,Kansas State,REG (Conf),W 77-68,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,1,0,0,-0.7,A,1,1,king-mcclure-1,King McClure,2017
+18,52,21,2017-01-28,Baylor,@,Ole Miss,REG (Non-Conf),W 78-75,,13,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,2,2,2,0,0,0,3,5,3.4,A,1,1,king-mcclure-1,King McClure,2017
+19,53,22,2017-02-01,Baylor,@,Kansas,REG (Conf),L 68-73,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,1,2,0,-1.2,A,0,1,king-mcclure-1,King McClure,2017
+20,54,23,2017-02-04,Baylor,,Kansas State,REG (Conf),L 54-56,,17,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,1,0.0,1,1,2,1,0,0,2,2,3,-0.2,H,0,1,king-mcclure-1,King McClure,2017
+21,55,24,2017-02-08,Baylor,@,Oklahoma State,REG (Conf),W 72-69,*,23,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,2,0,0,2,3,10,6.2,A,1,1,king-mcclure-1,King McClure,2017
+22,56,25,2017-02-11,Baylor,,TCU,REG (Conf),W 70-52,*,25,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,0,,0,0,0,1,0,0,0,0,13,11.5,H,1,1,king-mcclure-1,King McClure,2017
+23,57,26,2017-02-13,Baylor,@,Texas Tech,REG (Conf),L 78-84,*,23,2,9,0.222,1,7,0.143,1,2,0.5,0.278,0,1,0.0,0,3,3,2,1,0,0,3,5,1.2,A,0,1,king-mcclure-1,King McClure,2017
+24,58,27,2017-02-18,Baylor,,Kansas,REG (Conf),L 65-67,*,22,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,1,1,3,0,0,3,4,7,3.5,H,0,1,king-mcclure-1,King McClure,2017
+25,59,28,2017-02-21,Baylor,,Oklahoma,REG (Conf),W 60-54,*,14,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,3,3,0.1,H,1,1,king-mcclure-1,King McClure,2017
+26,60,29,2017-02-25,Baylor,@,Iowa State,REG (Conf),L 69-72,*,17,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,2,3,0,0,1,0,1,3,2.2,A,0,1,king-mcclure-1,King McClure,2017
+27,61,30,2017-02-27,Baylor,,West Virginia,REG (Conf),W 71-62,*,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,0,1,0,0,0,1,0,4,2.7,H,1,1,king-mcclure-1,King McClure,2017
+28,62,31,2017-03-04,Baylor,@,Texas,REG (Conf),W 75-64,*,28,5,10,0.5,1,3,0.333,4,7,0.571,0.55,1,3,0.333,1,1,2,1,2,0,2,1,12,7.5,A,1,1,king-mcclure-1,King McClure,2017
+29,63,32,2017-03-09,Baylor,N,Kansas State,CTOURN,L 64-70,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,2,0,0,-2.4,N,0,0,king-mcclure-1,King McClure,2017
+30,64,33,2017-03-17,Baylor,N,New Mexico State,ROUND-64,W 91-73,*,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,king-mcclure-1,King McClure,2017
+31,65,34,2017-03-19,Baylor,N,Southern California,ROUND-32,W 82-78,*,27,6,10,0.6,5,8,0.625,1,2,0.5,0.85,0,0,,0,1,1,1,2,0,1,1,17,14.0,N,1,0,king-mcclure-1,King McClure,2017
+32,66,35,2017-03-24,Baylor,N,South Carolina,ROUND-16,L 50-70,*,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,0,0,0,1,2,4,0.8,N,0,0,king-mcclure-1,King McClure,2017

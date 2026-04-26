@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,50,1,2012-11-09,Gonzaga,,Southern Utah,REG (Non-Conf),W 103-65,,8,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,1,2,1,0,0,2,2,4,2.6,H,1,1,drew-barham-1,Drew Barham,2013
+2,51,2,2012-11-12,Gonzaga,,West Virginia,REG (Non-Conf),W 84-50,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,-0.7,H,1,1,drew-barham-1,Drew Barham,2013
+3,52,3,2012-11-18,Gonzaga,,South Dakota,REG (Non-Conf),W 96-58,,5,0,1,0.0,0,1,0.0,0,0,,0.0,1,4,0.25,0,0,0,0,1,0,0,0,1,0.1,H,1,1,drew-barham-1,Drew Barham,2013
+4,53,5,2012-11-23,Gonzaga,N,Oklahoma,REG (Non-Conf),W 72-47,,2,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,1,drew-barham-1,Drew Barham,2013
+5,54,6,2012-11-25,Gonzaga,N,Davidson,REG (Non-Conf),W 81-67,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,drew-barham-1,Drew Barham,2013
+6,55,7,2012-11-29,Gonzaga,,Lewis-Clark St.,REG (Non-Conf),W 104-57,,16,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,4,4,2,0,1,3,2,11,8.6,H,1,1,drew-barham-1,Drew Barham,2013
+7,56,8,2012-12-01,Gonzaga,,Pacific,REG (Non-Conf),W 85-67,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,drew-barham-1,Drew Barham,2013
+8,57,11,2012-12-15,Gonzaga,N,Kansas State,REG (Non-Conf),W 68-52,,1,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,1,drew-barham-1,Drew Barham,2013
+9,58,12,2012-12-19,Gonzaga,,Campbell,REG (Non-Conf),W 74-52,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,drew-barham-1,Drew Barham,2013
+10,59,15,2013-01-03,Gonzaga,@,Pepperdine,REG (Conf),W 78-62,,5,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,0,0,1,3,2.3,A,1,1,drew-barham-1,Drew Barham,2013
+11,60,18,2013-01-17,Gonzaga,@,Portland,REG (Conf),W 71-49,,11,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,0,0,0,0,0,0,1,9,7.0,A,1,1,drew-barham-1,Drew Barham,2013
+12,61,19,2013-01-19,Gonzaga,@,Butler,REG (Non-Conf),L 63-64,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,0,1,drew-barham-1,Drew Barham,2013
+13,62,20,2013-01-24,Gonzaga,,Brigham Young,REG (Conf),W 83-63,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,H,1,1,drew-barham-1,Drew Barham,2013
+14,63,21,2013-01-26,Gonzaga,,San Francisco,REG (Conf),W 66-52,,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,3,3,0,2,1,0,1,6,8.6,H,1,1,drew-barham-1,Drew Barham,2013
+15,64,22,2013-01-31,Gonzaga,@,Loyola Marymount,REG (Conf),W 88-43,,14,4,5,0.8,4,5,0.8,0,0,,1.2,1,3,0.333,0,4,4,1,0,0,1,1,13,10.8,A,1,1,drew-barham-1,Drew Barham,2013
+16,65,23,2013-02-02,Gonzaga,@,San Diego,REG (Conf),W 65-63,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,drew-barham-1,Drew Barham,2013
+17,66,24,2013-02-07,Gonzaga,,Pepperdine,REG (Conf),W 82-56,*,24,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,1,2,0,0,1,0,2,9,6.9,H,1,1,drew-barham-1,Drew Barham,2013
+18,67,25,2013-02-09,Gonzaga,,Loyola Marymount,REG (Conf),W 74-55,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,1,0,0,0,0,1.7,H,1,1,drew-barham-1,Drew Barham,2013
+19,68,26,2013-02-14,Gonzaga,@,St. Mary's (CA),REG (Conf),W 77-60,,5,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,A,1,1,drew-barham-1,Drew Barham,2013
+20,69,27,2013-02-16,Gonzaga,@,San Francisco,REG (Conf),W 71-61,,23,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,3,2,5,0,0,2,1,2,7,6.6,A,1,1,drew-barham-1,Drew Barham,2013
+21,70,28,2013-02-20,Gonzaga,,Santa Clara,REG (Conf),W 85-42,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,0,0,0,0,1,3,2.2,H,1,1,drew-barham-1,Drew Barham,2013
+22,71,29,2013-02-23,Gonzaga,,San Diego,REG (Conf),W 81-50,,14,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,1,2,3,1,1,0,0,3,9,9.2,H,1,1,drew-barham-1,Drew Barham,2013
+23,72,30,2013-02-28,Gonzaga,@,Brigham Young,REG (Conf),W 70-65,,8,0,3,0.0,0,3,0.0,0,0,,0.0,3,3,1.0,0,4,4,1,0,0,0,0,3,2.8,A,1,1,drew-barham-1,Drew Barham,2013
+24,73,31,2013-03-02,Gonzaga,,Portland,REG (Conf),W 81-52,,11,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,3,3,2,0,0,0,1,3,3.2,H,1,1,drew-barham-1,Drew Barham,2013
+25,74,32,2013-03-09,Gonzaga,N,Loyola Marymount,CTOURN,W 66-48,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,N,1,0,drew-barham-1,Drew Barham,2013
+26,75,33,2013-03-11,Gonzaga,N,St. Mary's (CA),CTOURN,W 65-51,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,drew-barham-1,Drew Barham,2013
+27,76,34,2013-03-21,Gonzaga,N,Southern,ROUND-64,W 64-58,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,1,0,drew-barham-1,Drew Barham,2013
+28,77,35,2013-03-23,Gonzaga,N,Wichita State,ROUND-32,L 70-76,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,2,0.0,1,0,1,0,1,0,0,2,3,1.4,N,0,0,drew-barham-1,Drew Barham,2013

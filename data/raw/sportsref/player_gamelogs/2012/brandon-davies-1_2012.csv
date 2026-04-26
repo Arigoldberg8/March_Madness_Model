@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2011-11-11,Brigham Young,@,Utah State,REG (Non-Conf),L 62-69,*,24,4,10,0.4,0,0,,4,10,0.4,0.4,5,9,0.556,2,3,5,1,2,1,3,3,13,7.5,A,0,1,brandon-davies-1,Brandon Davies,2012
+2,66,2,2011-11-15,Brigham Young,,BYU-Hawaii,REG (Non-Conf),W 73-52,*,28,10,13,0.769,0,0,,10,13,0.769,0.769,5,6,0.833,3,6,9,3,1,2,5,3,25,21.7,H,1,1,brandon-davies-1,Brandon Davies,2012
+3,67,3,2011-11-18,Brigham Young,,Longwood,REG (Non-Conf),W 92-60,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,4,0,0,5,3,2,-1.1,H,1,1,brandon-davies-1,Brandon Davies,2012
+4,68,4,2011-11-22,Brigham Young,,Prairie View A&M,REG (Non-Conf),W 90-51,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,5,6,0.833,3,5,8,3,1,2,4,3,13,11.5,H,1,1,brandon-davies-1,Brandon Davies,2012
+5,69,5,2011-11-25,Brigham Young,N,Nevada,REG (Non-Conf),W 76-55,*,25,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,0,3,3,4,0,1,0,5,10,8.4,N,1,1,brandon-davies-1,Brandon Davies,2012
+6,70,6,2011-11-26,Brigham Young,N,Wisconsin,REG (Non-Conf),L 56-73,*,30,4,10,0.4,0,0,,4,10,0.4,0.4,1,1,1.0,0,4,4,1,3,0,4,2,9,3.7,N,0,1,brandon-davies-1,Brandon Davies,2012
+7,71,7,2011-11-30,Brigham Young,N,Northern Arizona,REG (Non-Conf),W 87-52,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,2,7,9,3,1,0,0,1,14,16.3,N,1,1,brandon-davies-1,Brandon Davies,2012
+8,72,8,2011-12-03,Brigham Young,N,Oregon,REG (Non-Conf),W 79-65,*,20,2,10,0.2,0,0,,2,10,0.2,0.2,2,2,1.0,1,4,5,2,0,1,1,5,6,0.8,N,1,1,brandon-davies-1,Brandon Davies,2012
+9,73,9,2011-12-07,Brigham Young,,Weber State,REG (Non-Conf),W 94-66,*,22,5,11,0.455,0,0,,5,11,0.455,0.455,1,1,1.0,3,6,9,0,1,3,2,4,11,8.7,H,1,1,brandon-davies-1,Brandon Davies,2012
+10,74,10,2011-12-10,Brigham Young,@,Utah,REG (Non-Conf),W 61-42,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,3,6,9,1,1,1,1,3,3,4.3,A,1,1,brandon-davies-1,Brandon Davies,2012
+11,75,11,2011-12-17,Brigham Young,,Baylor,REG (Non-Conf),L 83-86,*,36,6,15,0.4,0,1,0.0,6,14,0.429,0.4,6,9,0.667,5,8,13,1,1,1,1,3,18,14.8,H,0,1,brandon-davies-1,Brandon Davies,2012
+12,76,12,2011-12-20,Brigham Young,,Buffalo,REG (Non-Conf),W 93-78,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,3,1,4,1,1,2,0,3,2,3.8,H,1,1,brandon-davies-1,Brandon Davies,2012
+13,77,13,2011-12-22,Brigham Young,,UC Santa Barbara,REG (Non-Conf),W 89-75,*,32,7,16,0.438,0,0,,7,16,0.438,0.438,3,3,1.0,2,4,6,1,4,0,2,2,17,13.1,H,1,1,brandon-davies-1,Brandon Davies,2012
+14,78,14,2011-12-27,Brigham Young,,Cal St San Marcos,REG (Non-Conf),W 79-51,*,26,7,11,0.636,0,0,,7,11,0.636,0.636,0,0,,4,9,13,2,0,1,2,1,14,14.3,H,1,1,brandon-davies-1,Brandon Davies,2012
+15,79,15,2011-12-29,Brigham Young,@,St. Mary's (CA),REG (Conf),L 82-98,*,30,11,18,0.611,0,0,,11,18,0.611,0.611,6,8,0.75,3,4,7,0,5,1,3,4,28,23.4,A,0,1,brandon-davies-1,Brandon Davies,2012
+16,80,16,2011-12-31,Brigham Young,,San Diego,REG (Conf),W 88-52,*,35,8,13,0.615,0,0,,8,13,0.615,0.615,5,8,0.625,6,16,22,4,1,2,3,3,21,23.9,H,1,1,brandon-davies-1,Brandon Davies,2012
+17,81,17,2012-01-05,Brigham Young,@,Loyola Marymount,REG (Conf),W 73-65,*,29,6,12,0.5,0,0,,6,12,0.5,0.5,3,5,0.6,0,10,10,2,0,2,6,4,15,6.4,A,1,1,brandon-davies-1,Brandon Davies,2012
+18,82,18,2012-01-07,Brigham Young,,San Francisco,REG (Conf),W 81-56,*,22,5,9,0.556,0,0,,5,9,0.556,0.556,2,4,0.5,2,4,6,6,1,2,2,4,12,12.5,H,1,1,brandon-davies-1,Brandon Davies,2012
+19,83,19,2012-01-14,Brigham Young,,Santa Clara,REG (Conf),W 95-78,*,29,9,13,0.692,0,0,,9,13,0.692,0.692,5,7,0.714,0,5,5,2,2,1,2,4,23,18.7,H,1,1,brandon-davies-1,Brandon Davies,2012
+20,84,20,2012-01-16,Brigham Young,@,San Diego,REG (Conf),W 82-63,*,32,3,9,0.333,0,0,,3,9,0.333,0.333,6,10,0.6,6,6,12,2,1,2,2,2,12,12.3,A,1,1,brandon-davies-1,Brandon Davies,2012
+21,85,21,2012-01-19,Brigham Young,,Loyola Marymount,REG (Conf),L 68-82,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,6,8,0.75,2,7,9,2,0,2,2,5,14,11.5,H,0,1,brandon-davies-1,Brandon Davies,2012
+22,86,22,2012-01-21,Brigham Young,@,Pepperdine,REG (Conf),W 77-64,*,35,7,14,0.5,0,0,,7,14,0.5,0.5,15,18,0.833,0,6,6,4,0,2,3,3,29,22.6,A,1,1,brandon-davies-1,Brandon Davies,2012
+23,87,23,2012-01-25,Brigham Young,@,Virginia Tech,REG (Non-Conf),W 70-68,*,24,3,9,0.333,0,0,,3,9,0.333,0.333,11,12,0.917,2,3,5,4,1,1,3,4,17,13.7,A,1,1,brandon-davies-1,Brandon Davies,2012
+24,88,24,2012-01-28,Brigham Young,,St. Mary's (CA),REG (Conf),L 66-80,*,32,6,18,0.333,0,0,,6,18,0.333,0.333,2,4,0.5,4,3,7,1,2,1,6,4,14,2.5,H,0,1,brandon-davies-1,Brandon Davies,2012
+25,89,25,2012-02-02,Brigham Young,,Gonzaga,REG (Conf),W 83-73,*,31,7,12,0.583,0,0,,7,12,0.583,0.583,1,3,0.333,2,3,5,1,1,1,4,4,15,7.7,H,1,1,brandon-davies-1,Brandon Davies,2012
+26,90,26,2012-02-04,Brigham Young,@,Portland,REG (Conf),W 79-60,*,38,7,13,0.538,0,0,,7,13,0.538,0.538,4,10,0.4,5,8,13,4,8,1,4,2,18,21.9,A,1,1,brandon-davies-1,Brandon Davies,2012
+27,91,27,2012-02-11,Brigham Young,,Pepperdine,REG (Conf),W 86-48,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,7,8,0.875,2,5,7,2,0,2,4,0,13,10.6,H,1,1,brandon-davies-1,Brandon Davies,2012
+28,92,28,2012-02-16,Brigham Young,@,San Francisco,REG (Conf),W 85-84,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,0,5,5,2,1,2,2,4,6,4.0,A,1,1,brandon-davies-1,Brandon Davies,2012
+29,93,29,2012-02-18,Brigham Young,@,Santa Clara,REG (Conf),W 82-67,*,26,6,7,0.857,0,0,,6,7,0.857,0.857,8,11,0.727,0,3,3,0,0,2,4,4,20,13.0,A,1,1,brandon-davies-1,Brandon Davies,2012
+30,94,30,2012-02-23,Brigham Young,@,Gonzaga,REG (Conf),L 63-74,*,36,8,18,0.444,0,0,,8,18,0.444,0.444,7,10,0.7,4,6,10,1,6,2,4,5,23,19.1,A,0,1,brandon-davies-1,Brandon Davies,2012
+31,95,31,2012-02-25,Brigham Young,,Portland,REG (Conf),W 76-66,*,37,10,13,0.769,0,0,,10,13,0.769,0.769,5,7,0.714,1,1,2,2,1,0,4,2,25,17.7,H,1,1,brandon-davies-1,Brandon Davies,2012
+32,96,32,2012-03-02,Brigham Young,N,San Diego,CTOURN,W 73-68,*,25,6,9,0.667,1,1,1.0,5,8,0.625,0.722,3,8,0.375,0,5,5,1,1,0,1,4,16,10.7,N,1,0,brandon-davies-1,Brandon Davies,2012
+33,97,33,2012-03-03,Brigham Young,N,Gonzaga,CTOURN,L 58-77,*,30,7,11,0.636,0,0,,7,11,0.636,0.636,3,8,0.375,0,2,2,1,0,2,3,4,17,8.2,N,0,0,brandon-davies-1,Brandon Davies,2012
+34,98,34,2012-03-13,Brigham Young,N,Iona,FIRST-FOUR,W 78-72,*,35,8,14,0.571,0,0,,8,14,0.571,0.571,2,5,0.4,3,12,15,2,3,2,7,3,18,13.5,N,1,0,brandon-davies-1,Brandon Davies,2012
+35,99,35,2012-03-15,Brigham Young,N,Marquette,ROUND-64,L 68-88,*,33,7,15,0.467,0,1,0.0,7,14,0.5,0.467,5,11,0.455,4,8,12,3,1,2,1,4,19,16.0,N,0,0,brandon-davies-1,Brandon Davies,2012

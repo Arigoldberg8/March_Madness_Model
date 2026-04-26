@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2011-11-11,Vanderbilt,,Oregon,REG (Non-Conf),W 78-64,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,1,3,0,0,2,1,2,4,4.0,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+2,94,2,2011-11-13,Vanderbilt,,Cleveland State,REG (Non-Conf),L 58-71,*,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,3,1.0,6,4,10,2,2,1,1,4,5,8.8,H,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+3,95,3,2011-11-15,Vanderbilt,,Bucknell,REG (Non-Conf),W 80-68,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,3,3,0,0,0,0,1,7,5.5,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+4,96,4,2011-11-19,Vanderbilt,N,NC State,REG (Non-Conf),W 86-79,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,5,0.4,3,8,11,1,0,0,1,1,6,6.6,N,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+5,97,5,2011-11-21,Vanderbilt,N,Oregon State,REG (Non-Conf),W 64-62,*,24,2,2,1.0,1,1,1.0,1,1,1.0,1.25,4,4,1.0,1,4,5,1,0,0,1,3,9,8.8,N,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+6,98,7,2011-11-28,Vanderbilt,,Xavier,REG (Non-Conf),L 70-82 (OT),*,21,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,3,4,2,1,2,2,5,3,4.1,H,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+7,99,8,2011-12-02,Vanderbilt,@,Louisville,REG (Non-Conf),L 60-62 (OT),*,40,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,5,5,1,1,1,1,3,1,1.6,A,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+8,100,9,2011-12-07,Vanderbilt,@,Davidson,REG (Non-Conf),W 87-83,*,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,3,4,0,-5.3,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+9,101,10,2011-12-17,Vanderbilt,,Indiana State,REG (Non-Conf),L 55-61,,17,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,4,0.5,1,2,3,2,0,1,3,1,2,-0.9,H,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+10,102,11,2011-12-19,Vanderbilt,,Longwood,REG (Non-Conf),W 99-71,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,1,3,4,0,1,0,0,2,7,4.7,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+11,103,12,2011-12-21,Vanderbilt,,Lafayette,REG (Non-Conf),W 89-58,*,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,7,9,0,0,0,1,1,2,3.8,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+12,104,13,2011-12-29,Vanderbilt,@,Marquette,REG (Non-Conf),W 74-57,*,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,0,0,0,0,1,0,1,5,4,0.6,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+13,105,14,2012-01-02,Vanderbilt,,Miami (OH),REG (Non-Conf),W 69-62,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,3,4,0,0,0,0,1,6,5.9,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+14,106,15,2012-01-07,Vanderbilt,,Auburn,REG (Conf),W 65-35,,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,4,5,0,0,1,1,2,0,0.1,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+15,107,16,2012-01-10,Vanderbilt,@,South Carolina,REG (Conf),W 67-57,,19,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,0,1,1,0,1,0,1,3,10,7.2,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+16,108,17,2012-01-14,Vanderbilt,,Georgia,REG (Conf),W 77-66,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,1,3,2,-0.2,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+17,109,18,2012-01-19,Vanderbilt,@,Alabama,REG (Conf),W 69-59,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,3,5,0,0,0,0,1,2,1.5,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+18,110,19,2012-01-21,Vanderbilt,,Mississippi State,REG (Conf),L 77-78 (OT),,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,2,2,0,-2.8,H,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+19,111,20,2012-01-24,Vanderbilt,,Tennessee,REG (Conf),W 65-47,,17,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,0,0,1,2,1,1,4,3,0.7,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+20,112,21,2012-01-28,Vanderbilt,,Middle Tennessee,REG (Non-Conf),W 84-77,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,2,0,0,2,2,0,-1.4,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+21,113,22,2012-01-31,Vanderbilt,@,Arkansas,REG (Conf),L 74-82,,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,2,2,4,0,0,1,1,4,10,8.2,A,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+22,114,23,2012-02-04,Vanderbilt,@,Florida,REG (Conf),L 65-73,,12,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,0,0,1.0,A,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+23,115,24,2012-02-08,Vanderbilt,,Louisiana State,REG (Conf),W 76-61,,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,3,1,4,1,0,0,1,1,2,2.0,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+24,116,25,2012-02-11,Vanderbilt,,Kentucky,REG (Conf),L 63-69,,13,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,0,0,0,0,0,0,1,6,3.6,H,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+25,117,26,2012-02-16,Vanderbilt,@,Ole Miss,REG (Conf),W 102-76,,10,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,0,0,0,0,0,0,0,1,7,4.2,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+26,118,27,2012-02-19,Vanderbilt,@,Georgia,REG (Conf),W 61-52,,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,3,5,1,0,0,4,4,2,-1.6,A,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+27,119,28,2012-02-22,Vanderbilt,,South Carolina,REG (Conf),W 59-48,,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,3,5,1,0,0,1,0,0,1.3,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+28,120,29,2012-02-25,Vanderbilt,@,Kentucky,REG (Conf),L 74-83,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,4,0,-2.3,A,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+29,121,30,2012-02-28,Vanderbilt,,Florida,REG (Conf),W 77-67,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,0,0,0,0,0,2,1.6,H,1,1,steve-tchiengang-1,Steve Tchiengang,2012
+30,122,31,2012-03-03,Vanderbilt,@,Tennessee,REG (Conf),L 61-68,,16,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,2,0,2,0,0,0,0,3,8,5.9,A,0,1,steve-tchiengang-1,Steve Tchiengang,2012
+31,123,32,2012-03-09,Vanderbilt,N,Georgia,CTOURN,W 63-41,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,2,4,0,0,0,0,2,0,0.5,N,1,0,steve-tchiengang-1,Steve Tchiengang,2012
+32,124,33,2012-03-10,Vanderbilt,N,Ole Miss,CTOURN,W 65-53,,24,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,3,3,1,0,0,2,3,6,2.1,N,1,0,steve-tchiengang-1,Steve Tchiengang,2012
+33,125,34,2012-03-11,Vanderbilt,N,Kentucky,CTOURN,W 71-64,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,3,5,0,1,0,1,1,2,3.6,N,1,0,steve-tchiengang-1,Steve Tchiengang,2012
+34,126,35,2012-03-15,Vanderbilt,N,Harvard,ROUND-64,W 79-70,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,4,5,0,0,1,0,2,0,1.1,N,1,0,steve-tchiengang-1,Steve Tchiengang,2012
+35,127,36,2012-03-17,Vanderbilt,N,Wisconsin,ROUND-32,L 57-60,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,1,0,1,1,2,2,2.3,N,0,0,steve-tchiengang-1,Steve Tchiengang,2012

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,5,2011-11-20,Western Kentucky,N,VCU,REG (Non-Conf),L 64-69,,13,0,1,0.0,0,0,,0,1,0.0,0.0,4,4,1.0,2,1,3,0,1,0,3,3,4,1.8,N,0,1,george-fant-1,George Fant,2012
+2,2,6,2011-11-23,Western Kentucky,,VCU,REG (Non-Conf),L 45-68,*,25,2,7,0.286,0,0,,2,7,0.286,0.286,2,6,0.333,3,3,6,2,1,0,2,1,6,3.3,H,0,1,george-fant-1,George Fant,2012
+3,3,7,2011-11-26,Western Kentucky,,Southeastern Louisiana,REG (Non-Conf),W 72-67,*,31,5,12,0.417,0,0,,5,12,0.417,0.417,5,9,0.556,3,5,8,3,1,3,4,3,15,10.6,H,1,1,george-fant-1,George Fant,2012
+4,4,8,2011-12-01,Western Kentucky,,Murray State,REG (Non-Conf),L 59-70,*,29,4,12,0.333,0,1,0.0,4,11,0.364,0.333,0,0,,6,3,9,1,0,2,3,4,8,3.8,H,0,1,george-fant-1,George Fant,2012
+5,5,9,2011-12-04,Western Kentucky,,Bowling Green,REG (Non-Conf),W 60-53,*,28,5,6,0.833,0,0,,5,6,0.833,0.833,3,7,0.429,1,6,7,2,3,4,2,3,13,15.7,H,1,1,george-fant-1,George Fant,2012
+6,6,10,2011-12-07,Western Kentucky,@,Southern Illinois,REG (Non-Conf),W 62-55,*,28,3,3,1.0,0,0,,3,3,1.0,1.0,2,4,0.5,1,3,4,0,3,1,1,3,8,9.4,A,1,1,george-fant-1,George Fant,2012
+7,7,11,2011-12-10,Western Kentucky,@,IUPUI,REG (Non-Conf),L 76-84,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,3,5,0.6,1,5,6,1,0,0,3,4,7,1.1,A,0,1,george-fant-1,George Fant,2012
+8,8,12,2011-12-17,Western Kentucky,,Furman,REG (Non-Conf),L 63-76,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,1,3,0.333,4,3,7,0,3,1,0,5,7,8.6,H,0,1,george-fant-1,George Fant,2012
+9,9,13,2011-12-23,Western Kentucky,@,Louisville,REG (Non-Conf),L 60-70,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,2,5,1,1,1,3,4,6,3.5,A,0,1,george-fant-1,George Fant,2012
+10,10,14,2011-12-29,Western Kentucky,@,Louisiana–Monroe,REG (Conf),W 76-71 (OT),*,33,4,8,0.5,0,0,,4,8,0.5,0.5,9,12,0.75,5,4,9,1,0,0,2,3,17,14.0,A,1,1,george-fant-1,George Fant,2012
+11,11,15,2011-12-31,Western Kentucky,,Florida International,REG (Conf),L 63-81,*,23,2,6,0.333,0,0,,2,6,0.333,0.333,2,4,0.5,0,3,3,0,0,1,1,4,6,0.8,H,0,1,george-fant-1,George Fant,2012
+12,12,16,2012-01-05,Western Kentucky,,Louisiana–Lafayette,REG (Conf),L 70-72 (OT),*,39,2,10,0.2,0,0,,2,10,0.2,0.2,2,2,1.0,3,3,6,1,2,1,2,3,6,3.0,H,0,1,george-fant-1,George Fant,2012
+13,13,17,2012-01-07,Western Kentucky,,Troy,REG (Conf),L 65-67,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,5,5,0,1,2,1,1,6,7.2,H,0,1,george-fant-1,George Fant,2012
+14,14,18,2012-01-12,Western Kentucky,@,North Texas,REG (Conf),L 67-84,*,21,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,2,1.0,5,3,8,0,1,1,1,4,14,12.2,A,0,1,george-fant-1,George Fant,2012
+15,15,19,2012-01-15,Western Kentucky,@,Denver,REG (Conf),L 65-78,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,0,1,0,0,0,4,5,3,-4.4,A,0,1,george-fant-1,George Fant,2012
+16,16,20,2012-01-21,Western Kentucky,,Little Rock,REG (Conf),W 65-53,,31,4,11,0.364,0,0,,4,11,0.364,0.364,4,6,0.667,1,5,6,0,2,3,0,1,12,11.0,H,1,1,george-fant-1,George Fant,2012
+17,17,21,2012-01-26,Western Kentucky,@,Florida Atlantic,REG (Conf),L 66-67,,23,4,9,0.444,0,0,,4,9,0.444,0.444,5,6,0.833,4,3,7,1,0,0,3,3,13,8.1,A,0,1,george-fant-1,George Fant,2012
+18,18,22,2012-01-28,Western Kentucky,@,Florida International,REG (Conf),W 61-51,,26,2,9,0.222,0,0,,2,9,0.222,0.222,4,6,0.667,5,3,8,0,1,0,0,4,8,5.5,A,1,1,george-fant-1,George Fant,2012
+19,19,23,2012-02-04,Western Kentucky,,South Alabama,REG (Conf),W 75-66,,28,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,4,4,8,0,0,0,1,2,12,11.6,H,1,1,george-fant-1,George Fant,2012
+20,20,24,2012-02-09,Western Kentucky,@,Middle Tennessee,REG (Conf),L 64-72,,32,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,4,7,11,1,1,2,4,4,12,9.4,A,0,1,george-fant-1,George Fant,2012
+21,21,25,2012-02-11,Western Kentucky,@,Troy,REG (Conf),L 77-83,,23,3,8,0.375,0,0,,3,8,0.375,0.375,3,6,0.5,3,6,9,0,1,1,3,1,9,5.6,A,0,1,george-fant-1,George Fant,2012
+22,22,26,2012-02-16,Western Kentucky,,Florida Atlantic,REG (Conf),W 64-57,*,33,6,10,0.6,0,1,0.0,6,9,0.667,0.6,8,11,0.727,5,5,10,0,0,1,1,1,20,18.5,H,1,1,george-fant-1,George Fant,2012
+23,23,27,2012-02-18,Western Kentucky,@,South Alabama,REG (Conf),L 61-66,*,29,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,1,2,3,1,1,2,0,3,5,4.4,A,0,1,george-fant-1,George Fant,2012
+24,24,28,2012-02-23,Western Kentucky,,Arkansas State,REG (Conf),W 79-76,*,31,8,9,0.889,0,0,,8,9,0.889,0.889,3,3,1.0,1,3,4,2,2,3,1,5,19,20.0,H,1,1,george-fant-1,George Fant,2012
+25,25,29,2012-02-25,Western Kentucky,,Middle Tennessee,REG (Conf),W 73-67,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,2,3,0,0,1,0,4,4,3.4,H,1,1,george-fant-1,George Fant,2012
+26,26,30,2012-03-03,Western Kentucky,N,Florida International,CTOURN,W 67-63,*,26,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,3,2,5,0,0,3,1,2,10,7.5,N,1,0,george-fant-1,George Fant,2012
+27,27,31,2012-03-04,Western Kentucky,N,Little Rock,CTOURN,W 68-63,*,28,2,6,0.333,0,0,,2,6,0.333,0.333,9,16,0.563,4,0,4,1,0,2,4,1,13,7.3,N,1,0,george-fant-1,George Fant,2012
+28,28,32,2012-03-05,Western Kentucky,N,Denver,CTOURN,W 67-63,*,31,6,8,0.75,0,0,,6,8,0.75,0.75,7,9,0.778,1,1,2,1,0,0,5,1,19,11.3,N,1,0,george-fant-1,George Fant,2012
+29,29,33,2012-03-06,Western Kentucky,N,North Texas,CTOURN,W 74-70,*,32,6,10,0.6,0,0,,6,10,0.6,0.6,5,5,1.0,3,3,6,1,0,1,1,2,17,15.0,N,1,0,george-fant-1,George Fant,2012
+30,30,34,2012-03-13,Western Kentucky,N,Mississippi Valley State,FIRST-FOUR,W 59-58,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,5,8,0.625,6,5,11,2,1,1,3,4,9,10.0,N,1,0,george-fant-1,George Fant,2012
+31,31,35,2012-03-15,Western Kentucky,N,Kentucky,ROUND-64,L 66-81,*,32,6,14,0.429,0,0,,6,14,0.429,0.429,1,1,1.0,1,3,4,0,3,0,1,2,13,8.4,N,0,0,george-fant-1,George Fant,2012

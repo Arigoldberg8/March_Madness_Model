@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2013-11-09,Gonzaga,,Bryant,REG (Non-Conf),W 100-76,*,12,3,5,0.6,0,0,,3,5,0.6,0.6,4,7,0.571,0,1,1,0,1,1,2,4,10,4.9,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+2,36,2,2013-11-11,Gonzaga,,Colorado State,REG (Non-Conf),W 93-61,*,26,2,2,1.0,0,0,,2,2,1.0,1.0,4,5,0.8,1,9,10,1,0,0,4,3,8,5.9,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+3,37,3,2013-11-17,Gonzaga,,Oakland,REG (Non-Conf),W 82-67,*,19,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,4,2,6,0,0,1,4,4,12,7.6,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+4,38,4,2013-11-21,Gonzaga,,Washington State,REG (Non-Conf),W 90-74,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,2,8,0.25,3,3,6,0,0,2,1,0,12,9.4,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+5,39,5,2013-11-25,Gonzaga,N,Dayton,REG (Non-Conf),L 79-84,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,1,5,6,0,0,2,3,5,7,3.2,N,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+6,40,6,2013-11-26,Gonzaga,@,Chaminade,REG (Non-Conf),W 113-81,*,22,5,5,1.0,0,0,,5,5,1.0,1.0,0,1,0.0,3,10,13,0,0,2,2,3,10,11.4,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+7,41,7,2013-11-27,Gonzaga,N,Arkansas,REG (Non-Conf),W 91-81,*,25,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,1,8,9,1,0,2,1,5,7,6.8,N,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+8,42,8,2013-12-01,Gonzaga,,Coppin State,REG (Non-Conf),W 86-51,*,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,4,0.25,4,4,8,0,0,2,0,2,5,7.1,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+9,43,9,2013-12-07,Gonzaga,,New Mexico State,REG (Non-Conf),W 80-68,*,23,2,9,0.222,0,0,,2,9,0.222,0.222,5,9,0.556,5,4,9,0,0,0,0,4,9,5.0,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+10,44,10,2013-12-10,Gonzaga,@,West Virginia,REG (Non-Conf),W 80-76,*,32,6,11,0.545,0,0,,6,11,0.545,0.545,7,8,0.875,4,9,13,0,0,2,2,1,19,17.8,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+11,45,11,2013-12-14,Gonzaga,N,South Alabama,REG (Non-Conf),W 68-59,*,19,3,9,0.333,0,0,,3,9,0.333,0.333,3,6,0.5,2,6,8,0,0,3,6,3,9,0.8,N,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+12,46,12,2013-12-21,Gonzaga,N,Kansas State,REG (Non-Conf),L 62-72,*,30,5,6,0.833,0,0,,5,6,0.833,0.833,0,6,0.0,2,5,7,0,0,2,1,2,10,7.9,N,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+13,47,13,2013-12-28,Gonzaga,,Santa Clara,REG (Conf),W 74-60,*,28,2,8,0.25,0,0,,2,8,0.25,0.25,6,11,0.545,1,7,8,0,0,1,3,4,10,2.1,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+14,48,14,2013-12-30,Gonzaga,,San Francisco,REG (Conf),W 69-41,*,23,5,6,0.833,0,0,,5,6,0.833,0.833,1,4,0.25,4,4,8,2,0,2,1,3,11,12.2,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+15,49,15,2014-01-02,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-51,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,5,6,0.833,3,6,9,0,1,7,2,3,15,18.3,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+16,50,16,2014-01-04,Gonzaga,,Pacific,REG (Conf),W 86-64,*,29,2,4,0.5,0,0,,2,4,0.5,0.5,5,15,0.333,1,7,8,1,1,2,1,2,9,7.1,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+17,51,17,2014-01-09,Gonzaga,@,Portland,REG (Conf),L 73-82,*,26,3,5,0.6,0,0,,3,5,0.6,0.6,5,8,0.625,2,2,4,0,0,0,0,3,11,8.3,A,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+18,52,18,2014-01-16,Gonzaga,@,Pepperdine,REG (Conf),W 70-53,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,0,4,4,2,1,2,2,3,11,9.1,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+19,53,19,2014-01-18,Gonzaga,@,Loyola Marymount,REG (Conf),W 82-72,*,23,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,4,2,6,1,0,1,2,1,7,6.7,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+20,54,20,2014-01-23,Gonzaga,,San Diego,REG (Conf),W 59-56,*,31,6,10,0.6,0,0,,6,10,0.6,0.6,0,2,0.0,2,4,6,1,1,0,0,2,12,10.1,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+21,55,21,2014-01-25,Gonzaga,,Brigham Young,REG (Conf),W 84-69,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,4,5,0,0,1,2,3,6,2.4,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+22,56,22,2014-01-29,Gonzaga,@,Santa Clara,REG (Conf),W 54-52,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,2,6,8,0,0,4,2,3,11,10.8,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+23,57,23,2014-02-01,Gonzaga,@,San Francisco,REG (Conf),W 75-65,*,26,4,10,0.4,0,0,,4,10,0.4,0.4,4,6,0.667,0,8,8,0,1,3,1,3,12,9.1,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+24,58,24,2014-02-05,Gonzaga,,Portland,REG (Conf),W 71-66,*,31,1,5,0.2,0,0,,1,5,0.2,0.2,1,3,0.333,1,8,9,0,0,4,2,2,3,2.2,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+25,59,25,2014-02-08,Gonzaga,@,Memphis,REG (Non-Conf),L 54-60,*,33,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,6,0.333,1,3,4,1,0,3,2,3,12,7.3,A,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+26,60,26,2014-02-13,Gonzaga,,Pepperdine,REG (Conf),W 83-68,*,32,8,10,0.8,0,0,,8,10,0.8,0.8,1,2,0.5,2,5,7,4,1,2,2,2,17,18.1,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+27,61,27,2014-02-15,Gonzaga,,Loyola Marymount,REG (Conf),W 86-67,*,13,4,9,0.444,0,0,,4,9,0.444,0.444,3,4,0.75,4,2,6,2,0,0,0,1,11,10.3,H,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+28,62,28,2014-02-20,Gonzaga,@,Brigham Young,REG (Conf),L 65-73,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,7,0.286,0,1,1,0,0,2,1,4,8,3.5,A,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+29,63,29,2014-02-22,Gonzaga,@,San Diego,REG (Conf),L 66-69,*,30,8,10,0.8,0,0,,8,10,0.8,0.8,1,2,0.5,1,4,5,1,0,0,1,5,17,12.4,A,0,1,przemek-karnowski-1,Przemek Karnowski,2014
+30,64,30,2014-02-27,Gonzaga,@,Pacific,REG (Conf),W 70-53,*,18,4,5,0.8,0,0,,4,5,0.8,0.8,1,4,0.25,1,8,9,1,1,1,2,4,9,7.8,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+31,65,31,2014-03-01,Gonzaga,@,St. Mary's (CA),REG (Conf),W 75-47,*,22,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,2,4,6,2,0,2,2,2,10,8.6,A,1,1,przemek-karnowski-1,Przemek Karnowski,2014
+32,66,32,2014-03-08,Gonzaga,N,Santa Clara,CTOURN,W 77-75,*,31,5,7,0.714,0,0,,5,7,0.714,0.714,6,7,0.857,4,8,12,1,0,1,3,0,16,16.3,N,1,0,przemek-karnowski-1,Przemek Karnowski,2014
+33,67,33,2014-03-10,Gonzaga,N,St. Mary's (CA),CTOURN,W 70-54,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,0,4,4,0,1,1,4,4,2,-3.9,N,1,0,przemek-karnowski-1,Przemek Karnowski,2014
+34,68,34,2014-03-11,Gonzaga,N,Brigham Young,CTOURN,W 75-64,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,0,1,1,3,1,1,2,4,9,7.5,N,1,0,przemek-karnowski-1,Przemek Karnowski,2014
+35,69,35,2014-03-21,Gonzaga,N,Oklahoma State,ROUND-64,W 85-77,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,3,9,0.333,3,7,10,2,0,1,3,3,15,10.8,N,1,0,przemek-karnowski-1,Przemek Karnowski,2014
+36,70,36,2014-03-23,Gonzaga,N,Arizona,ROUND-32,L 61-84,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,2,4,0.5,2,8,10,0,0,2,2,3,14,10.6,N,0,0,przemek-karnowski-1,Przemek Karnowski,2014

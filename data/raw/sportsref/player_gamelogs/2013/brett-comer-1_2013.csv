@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-09,Florida Gulf Coast,@,VCU,REG (Non-Conf),L 57-80,*,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,2,3,5,2,0,6,1,5,3.0,A,0,1,brett-comer-1,Brett Comer,2013
+2,34,2,2012-11-13,Florida Gulf Coast,,Miami (FL),REG (Non-Conf),W 63-51,*,29,1,6,0.167,0,0,,1,6,0.167,0.167,4,4,1.0,0,7,7,8,1,0,0,1,6,10.5,H,1,1,brett-comer-1,Brett Comer,2013
+3,35,3,2012-11-15,Florida Gulf Coast,,Ave Maria,REG (Non-Conf),W 86-54,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,2,1,0,3,1,2,1.0,H,1,1,brett-comer-1,Brett Comer,2013
+4,36,4,2012-11-18,Florida Gulf Coast,@,Duke,REG (Non-Conf),L 67-88,*,23,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,2,3,3,1,0,5,2,2,-3.2,A,0,1,brett-comer-1,Brett Comer,2013
+5,37,5,2012-11-21,Florida Gulf Coast,,Alcorn State,REG (Non-Conf),W 50-48,*,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,0,2,2,4,1,0,4,4,2,-1.3,H,1,1,brett-comer-1,Brett Comer,2013
+6,38,6,2012-11-22,Florida Gulf Coast,,Toledo,REG (Non-Conf),W 72-66,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,4,0.25,0,4,4,7,2,0,7,2,7,2.4,H,1,1,brett-comer-1,Brett Comer,2013
+7,39,7,2012-11-24,Florida Gulf Coast,@,St. John's (NY),REG (Non-Conf),L 68-79,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,1,1,4,1,0,4,2,5,2.3,A,0,1,brett-comer-1,Brett Comer,2013
+8,40,8,2012-11-28,Florida Gulf Coast,@,Samford,REG (Non-Conf),W 86-62,*,24,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,2,2,10,1,0,3,2,3,6.8,A,1,1,brett-comer-1,Brett Comer,2013
+9,41,9,2012-12-01,Florida Gulf Coast,,Loyola (MD),REG (Non-Conf),W 65-50,*,27,4,7,0.571,0,0,,4,7,0.571,0.571,2,3,0.667,1,4,5,3,2,0,4,0,10,8.3,H,1,1,brett-comer-1,Brett Comer,2013
+10,42,10,2012-12-04,Florida Gulf Coast,@,Iowa State,REG (Non-Conf),L 72-83,*,31,5,8,0.625,3,4,0.75,2,4,0.5,0.813,2,2,1.0,0,3,3,8,3,0,4,1,15,16.5,A,0,1,brett-comer-1,Brett Comer,2013
+11,43,11,2012-12-13,Florida Gulf Coast,,Florida International,REG (Non-Conf),W 76-73,*,34,6,11,0.545,0,2,0.0,6,9,0.667,0.545,2,4,0.5,3,2,5,7,0,0,3,2,14,11.7,H,1,1,brett-comer-1,Brett Comer,2013
+12,44,12,2012-12-18,Florida Gulf Coast,,Southeastern (FL),REG (Non-Conf),W 86-60,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,3,3,10,2,0,3,1,2,7.1,H,1,1,brett-comer-1,Brett Comer,2013
+13,45,13,2012-12-22,Florida Gulf Coast,@,Maine,REG (Non-Conf),L 78-84,*,30,5,12,0.417,0,0,,5,12,0.417,0.417,4,6,0.667,1,1,2,8,3,1,5,2,14,11.3,A,0,1,brett-comer-1,Brett Comer,2013
+14,46,14,2012-12-31,Florida Gulf Coast,@,Kennesaw State,REG (Conf),W 68-59,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,3,3,1.0,1,2,3,5,0,0,2,1,11,9.4,A,1,1,brett-comer-1,Brett Comer,2013
+15,47,15,2013-01-02,Florida Gulf Coast,@,Mercer,REG (Conf),L 70-77 (OT),*,35,0,6,0.0,0,1,0.0,0,5,0.0,0.0,2,2,1.0,1,2,3,3,0,0,7,2,2,-6.6,A,0,1,brett-comer-1,Brett Comer,2013
+16,48,16,2013-01-05,Florida Gulf Coast,,Jacksonville,REG (Conf),W 78-55,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,2,4,7,2,0,4,2,3,4.3,H,1,1,brett-comer-1,Brett Comer,2013
+17,49,17,2013-01-07,Florida Gulf Coast,,North Florida,REG (Conf),W 75-73,*,23,1,7,0.143,0,1,0.0,1,6,0.167,0.143,3,6,0.5,1,6,7,7,4,0,1,0,5,9.7,H,1,1,brett-comer-1,Brett Comer,2013
+18,50,18,2013-01-10,Florida Gulf Coast,@,USC Upstate,REG (Conf),W 72-71 (OT),*,35,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,4,0.5,1,4,5,8,5,0,5,4,10,11.1,A,1,1,brett-comer-1,Brett Comer,2013
+19,51,19,2013-01-12,Florida Gulf Coast,@,East Tennessee State,REG (Conf),L 75-85,*,28,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,10,0,1,3,2,0,2.8,A,0,1,brett-comer-1,Brett Comer,2013
+20,52,20,2013-01-17,Florida Gulf Coast,,Lipscomb,REG (Conf),L 78-87 (OT),*,34,4,11,0.364,1,3,0.333,3,8,0.375,0.409,1,3,0.333,1,3,4,7,2,0,5,3,10,5.4,H,0,1,brett-comer-1,Brett Comer,2013
+21,53,21,2013-01-19,Florida Gulf Coast,,Northern Kentucky,REG (Conf),W 73-54,*,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,4,1.0,0,3,3,3,2,2,3,0,6,8.4,H,1,1,brett-comer-1,Brett Comer,2013
+22,54,22,2013-01-25,Florida Gulf Coast,,Stetson,REG (Conf),W 96-65,*,22,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,0,,1,2,3,6,1,0,0,0,13,16.3,H,1,1,brett-comer-1,Brett Comer,2013
+23,55,23,2013-01-31,Florida Gulf Coast,@,North Florida,REG (Conf),W 89-75,*,28,7,15,0.467,3,5,0.6,4,10,0.4,0.567,0,0,,1,3,4,6,1,1,3,1,17,13.4,A,1,1,brett-comer-1,Brett Comer,2013
+24,56,24,2013-02-02,Florida Gulf Coast,@,Jacksonville,REG (Conf),W 81-78,*,28,7,13,0.538,2,3,0.667,5,10,0.5,0.615,5,6,0.833,1,4,5,5,2,0,5,3,21,15.5,A,1,1,brett-comer-1,Brett Comer,2013
+25,57,25,2013-02-07,Florida Gulf Coast,,East Tennessee State,REG (Conf),W 67-43,*,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,1,2,12,3,1,3,3,5,10.1,H,1,1,brett-comer-1,Brett Comer,2013
+26,58,26,2013-02-09,Florida Gulf Coast,,USC Upstate,REG (Conf),W 74-49,*,25,4,12,0.333,0,1,0.0,4,11,0.364,0.333,0,0,,1,3,4,9,1,0,2,3,8,6.9,H,1,1,brett-comer-1,Brett Comer,2013
+27,59,27,2013-02-14,Florida Gulf Coast,@,Northern Kentucky,REG (Conf),W 60-53,*,29,1,8,0.125,0,3,0.0,1,5,0.2,0.125,2,2,1.0,2,2,4,4,1,0,3,2,4,0.8,A,1,1,brett-comer-1,Brett Comer,2013
+28,60,28,2013-02-16,Florida Gulf Coast,@,Lipscomb,REG (Conf),L 74-84,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,4,0.5,1,1,2,12,0,0,6,3,8,7.1,A,0,1,brett-comer-1,Brett Comer,2013
+29,61,29,2013-02-22,Florida Gulf Coast,@,Stetson,REG (Conf),L 71-80,*,32,4,15,0.267,1,3,0.333,3,12,0.25,0.3,1,3,0.333,1,0,1,6,2,0,4,1,10,2.8,A,0,1,brett-comer-1,Brett Comer,2013
+30,62,30,2013-02-28,Florida Gulf Coast,,Mercer,REG (Conf),W 60-57,*,26,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,0,3,3,4,0,0,5,2,6,-0.5,H,1,1,brett-comer-1,Brett Comer,2013
+31,63,31,2013-03-02,Florida Gulf Coast,,Kennesaw State,REG (Conf),W 67-49,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,6,0.333,0,0,0,3,2,0,1,2,4,2.3,H,1,1,brett-comer-1,Brett Comer,2013
+32,64,32,2013-03-06,Florida Gulf Coast,N,North Florida,CTOURN,W 73-63,*,27,4,11,0.364,0,2,0.0,4,9,0.444,0.364,1,1,1.0,1,0,1,6,1,0,4,3,9,3.6,N,1,0,brett-comer-1,Brett Comer,2013
+33,65,33,2013-03-08,Florida Gulf Coast,N,Stetson,CTOURN,W 72-58,*,26,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,3,0.333,0,3,3,6,1,0,3,2,9,5.8,N,1,0,brett-comer-1,Brett Comer,2013
+34,66,34,2013-03-09,Florida Gulf Coast,N,Mercer,CTOURN,W 88-75,*,29,9,17,0.529,1,3,0.333,8,14,0.571,0.559,2,2,1.0,0,2,2,5,3,0,2,1,21,17.4,N,1,0,brett-comer-1,Brett Comer,2013
+35,67,35,2013-03-22,Florida Gulf Coast,N,Georgetown,ROUND-64,W 78-68,*,33,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,1,5,6,10,1,0,2,3,12,14.3,N,1,0,brett-comer-1,Brett Comer,2013
+36,68,36,2013-03-24,Florida Gulf Coast,N,San Diego State,ROUND-32,W 81-71,*,31,5,14,0.357,0,2,0.0,5,12,0.417,0.357,0,0,,1,1,2,14,1,0,3,4,10,9.4,N,1,0,brett-comer-1,Brett Comer,2013
+37,69,37,2013-03-29,Florida Gulf Coast,N,Florida,ROUND-16,L 50-62,*,31,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,4,4,7,3,0,9,4,4,-0.6,N,0,0,brett-comer-1,Brett Comer,2013

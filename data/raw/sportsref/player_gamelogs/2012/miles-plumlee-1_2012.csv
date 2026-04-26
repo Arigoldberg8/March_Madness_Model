@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2011-11-11,Duke,,Belmont,REG (Non-Conf),W 77-76,*,17,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,3,3,6,0,0,0,2,1,4,1.5,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+2,102,2,2011-11-12,Duke,,Presbyterian,REG (Non-Conf),W 96-55,*,23,6,9,0.667,0,0,6,9,0.667,0.667,1,5,0.2,3,8,11,0,1,0,2,1,13,10.6,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+3,103,3,2011-11-15,Duke,N,Michigan State,REG (Non-Conf),W 74-69,*,14,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,2,4,0,0,0,2,3,1,-1.3,N,1,1,miles-plumlee-1,Miles Plumlee,2012
+4,104,4,2011-11-18,Duke,,Davidson,REG (Non-Conf),W 82-69,,17,2,4,0.5,0,0,2,4,0.5,0.5,6,6,1.0,3,1,4,1,1,1,1,4,10,10.2,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+5,105,5,2011-11-21,Duke,N,Tennessee,REG (Non-Conf),W 77-67,,17,2,5,0.4,0,0,2,5,0.4,0.4,1,4,0.25,3,3,6,1,0,1,1,1,5,4.1,N,1,1,miles-plumlee-1,Miles Plumlee,2012
+6,106,6,2011-11-22,Duke,N,Michigan,REG (Non-Conf),W 82-75,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,4,5,0,0,0,3,3,4,1.1,N,1,1,miles-plumlee-1,Miles Plumlee,2012
+7,107,7,2011-11-23,Duke,N,Kansas,REG (Non-Conf),W 68-61,,8,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,N,1,1,miles-plumlee-1,Miles Plumlee,2012
+8,108,8,2011-11-29,Duke,@,Ohio State,REG (Non-Conf),L 63-85,,17,2,2,1.0,0,0,2,2,1.0,1.0,2,3,0.667,1,2,3,1,0,0,0,1,6,6.6,A,0,1,miles-plumlee-1,Miles Plumlee,2012
+9,109,9,2011-12-07,Duke,,Colorado State,REG (Non-Conf),W 87-64,,19,5,6,0.833,0,0,5,6,0.833,0.833,4,4,1.0,2,3,5,1,0,3,0,2,14,16.1,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+10,110,10,2011-12-10,Duke,N,Washington,REG (Non-Conf),W 86-80,,20,3,3,1.0,0,0,3,3,1.0,1.0,3,4,0.75,3,4,7,0,1,3,0,2,9,13.3,N,1,1,miles-plumlee-1,Miles Plumlee,2012
+11,111,11,2011-12-19,Duke,,UNC Greensboro,REG (Non-Conf),W 90-63,,24,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,11,13,1,0,1,2,2,0,2.6,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+12,112,12,2011-12-30,Duke,,Western Michigan,REG (Non-Conf),W 110-70,,25,3,4,0.75,0,0,3,4,0.75,0.75,1,1,1.0,5,10,15,1,2,4,2,2,7,14.6,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+13,113,13,2012-01-01,Duke,,Pennsylvania,REG (Non-Conf),W 85-55,,17,4,6,0.667,0,0,4,6,0.667,0.667,2,2,1.0,4,3,7,1,1,4,2,0,10,13.6,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+14,114,14,2012-01-04,Duke,N,Temple,REG (Non-Conf),L 73-78,,19,8,11,0.727,0,0,8,11,0.727,0.727,1,2,0.5,3,1,4,1,0,2,0,0,17,16.6,N,0,1,miles-plumlee-1,Miles Plumlee,2012
+15,115,15,2012-01-07,Duke,@,Georgia Tech,REG (Conf),W 81-74,*,17,3,3,1.0,0,0,3,3,1.0,1.0,1,3,0.333,1,2,3,0,0,1,1,4,7,4.7,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+16,116,16,2012-01-12,Duke,,Virginia,REG (Conf),W 61-58,,15,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,2,2,0,1,1,2,5,4,1.7,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+17,117,17,2012-01-15,Duke,@,Clemson,REG (Conf),W 73-66,,23,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,6,8,14,0,1,1,4,3,6,6.8,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+18,118,18,2012-01-19,Duke,,Wake Forest,REG (Conf),W 91-73,*,20,0,0,,0,0,0,0,,,0,0,,1,3,4,1,0,0,0,3,0,1.1,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+19,119,19,2012-01-21,Duke,,Florida State,REG (Conf),L 73-76,*,26,2,5,0.4,0,0,2,5,0.4,0.4,3,3,1.0,6,2,8,1,0,0,1,1,7,8.4,H,0,1,miles-plumlee-1,Miles Plumlee,2012
+20,120,20,2012-01-25,Duke,@,Maryland,REG (Conf),W 74-61,*,18,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,3,4,1,0,1,1,2,7,6.2,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+21,121,21,2012-01-28,Duke,,St. John's (NY),REG (Non-Conf),W 83-76,,9,2,3,0.667,0,0,2,3,0.667,0.667,4,4,1.0,1,0,1,0,2,1,1,3,8,7.9,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+22,122,22,2012-02-02,Duke,@,Virginia Tech,REG (Conf),W 75-60,,9,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,5,0,5,0,0,0,1,2,4,3.0,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+23,123,23,2012-02-05,Duke,,Miami (FL),REG (Conf),L 74-78 (OT),,24,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,2,4,1,1,0,0,3,2,3.5,H,0,1,miles-plumlee-1,Miles Plumlee,2012
+24,124,24,2012-02-08,Duke,@,North Carolina,REG (Conf),W 85-84,,17,0,1,0.0,0,0,0,1,0.0,0.0,3,4,0.75,2,1,3,1,1,0,0,3,3,4.1,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+25,125,25,2012-02-11,Duke,,Maryland,REG (Conf),W 73-55,,28,6,11,0.545,0,0,6,11,0.545,0.545,1,3,0.333,9,13,22,0,2,1,1,1,13,18.4,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+26,126,26,2012-02-16,Duke,,NC State,REG (Conf),W 78-73,*,21,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,3,3,6,1,1,1,1,1,4,3.9,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+27,127,27,2012-02-19,Duke,@,Boston College,REG (Conf),W 75-50,*,24,3,5,0.6,0,0,3,5,0.6,0.6,3,7,0.429,4,6,10,2,0,0,4,3,9,5.9,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+28,128,28,2012-02-23,Duke,@,Florida State,REG (Conf),W 74-66,*,28,5,6,0.833,0,0,5,6,0.833,0.833,0,1,0.0,2,6,8,0,1,0,1,5,10,8.6,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+29,129,29,2012-02-25,Duke,,Virginia Tech,REG (Conf),W 70-65 (OT),*,33,1,3,0.333,0,0,1,3,0.333,0.333,3,4,0.75,4,11,15,0,0,0,1,3,5,6.8,H,1,1,miles-plumlee-1,Miles Plumlee,2012
+30,130,30,2012-02-28,Duke,@,Wake Forest,REG (Conf),W 79-71,*,26,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,5,6,11,1,0,2,2,1,3,5.9,A,1,1,miles-plumlee-1,Miles Plumlee,2012
+31,131,31,2012-03-03,Duke,,North Carolina,REG (Conf),L 70-88,*,26,7,9,0.778,0,0,7,9,0.778,0.778,2,3,0.667,6,5,11,0,1,0,0,5,16,16.8,H,0,1,miles-plumlee-1,Miles Plumlee,2012
+32,132,32,2012-03-09,Duke,N,Virginia Tech,CTOURN,W 60-56,*,21,1,2,0.5,0,0,1,2,0.5,0.5,1,1,1.0,1,2,3,0,0,0,0,3,3,2.1,N,1,0,miles-plumlee-1,Miles Plumlee,2012
+33,133,33,2012-03-10,Duke,N,Florida State,CTOURN,L 59-62,*,35,3,6,0.5,0,0,3,6,0.5,0.5,3,4,0.75,5,6,11,1,1,4,2,2,9,12.6,N,0,0,miles-plumlee-1,Miles Plumlee,2012
+34,134,34,2012-03-16,Duke,N,Lehigh,ROUND-64,L 70-75,*,27,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,0,6,6,0,0,0,1,2,4,1.6,N,0,0,miles-plumlee-1,Miles Plumlee,2012

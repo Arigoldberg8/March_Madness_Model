@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,47,1,2013-11-08,Oklahoma State,,Mississippi Valley State,REG (Non-Conf),W 117-62,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,2,3,0.667,3,4,7,1,2,0,1,0,14,16.1,H,1,1,brian-williams-9,Brian Williams,2014
+2,48,2,2013-11-12,Oklahoma State,,Utah Valley,REG (Non-Conf),W 93-40,*,19,3,5,0.6,1,3,0.333,2,2,1.0,0.7,3,4,0.75,1,3,4,2,2,1,0,0,10,13.0,H,1,1,brian-williams-9,Brian Williams,2014
+3,49,3,2013-11-15,Oklahoma State,,Arkansas–Pine Bluff,REG (Non-Conf),W 97-63,*,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,0,1,1,1,2,0,0,4,6,5.7,H,1,1,brian-williams-9,Brian Williams,2014
+4,50,4,2013-11-19,Oklahoma State,,Memphis,REG (Non-Conf),W 101-80,*,29,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,5,1.0,2,6,8,0,2,1,1,2,15,15.5,H,1,1,brian-williams-9,Brian Williams,2014
+5,51,5,2013-11-25,Oklahoma State,@,South Florida,REG (Non-Conf),W 93-67,*,33,5,9,0.556,0,0,,5,9,0.556,0.556,3,5,0.6,4,1,5,2,3,0,0,1,13,15.0,A,1,1,brian-williams-9,Brian Williams,2014
+6,52,6,2013-11-28,Oklahoma State,N,Purdue,REG (Non-Conf),W 97-87,*,37,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,0,3,3,1,1,2,2,2,10,9.0,N,1,1,brian-williams-9,Brian Williams,2014
+7,53,7,2013-11-29,Oklahoma State,N,Butler,REG (Non-Conf),W 69-67,*,32,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,1,1.0,0,1,1,0,0,2,2,2,8,3.9,N,1,1,brian-williams-9,Brian Williams,2014
+8,54,8,2013-12-01,Oklahoma State,N,Memphis,REG (Non-Conf),L 68-73,*,28,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,2,2,4,0,1,0,1,1,6,6.0,N,0,1,brian-williams-9,Brian Williams,2014
+9,55,9,2013-12-06,Oklahoma State,,South Carolina,REG (Non-Conf),W 79-52,*,19,2,9,0.222,0,0,,2,9,0.222,0.222,6,8,0.75,0,1,1,0,3,0,0,2,10,6.2,H,1,1,brian-williams-9,Brian Williams,2014
+10,56,10,2013-12-14,Oklahoma State,N,Louisiana Tech,REG (Non-Conf),W 70-55,*,22,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,1,4,5,1,0,1,1,1,9,6.5,N,1,1,brian-williams-9,Brian Williams,2014
+11,57,11,2013-12-17,Oklahoma State,,Delaware State,REG (Non-Conf),W 75-43,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,2,2,3,0,0,1,2,5,4.5,H,1,1,brian-williams-9,Brian Williams,2014
+12,58,12,2013-12-21,Oklahoma State,N,Colorado,REG (Non-Conf),W 78-73,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,1,1,1,2,1,0,0.2,N,1,1,brian-williams-9,Brian Williams,2014
+13,59,13,2013-12-30,Oklahoma State,,Robert Morris,REG (Non-Conf),W 92-66,*,27,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,1,5,6,2,0,1,1,1,12,12.7,H,1,1,brian-williams-9,Brian Williams,2014
+14,60,14,2014-01-04,Oklahoma State,@,Kansas State,REG (Conf),L 71-74,*,31,1,6,0.167,0,0,,1,6,0.167,0.167,2,2,1.0,3,6,9,2,2,0,1,3,4,5.3,A,0,1,brian-williams-9,Brian Williams,2014
+15,61,15,2014-01-08,Oklahoma State,,Texas,REG (Conf),W 87-74,*,27,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,5,0.4,0,2,2,0,1,1,1,2,9,6.7,H,1,1,brian-williams-9,Brian Williams,2014
+16,62,16,2014-01-11,Oklahoma State,@,West Virginia,REG (Conf),W 73-72,*,15,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,1,2,0,0,0,1,0,2,-0.4,A,1,1,brian-williams-9,Brian Williams,2014
+17,63,17,2014-01-15,Oklahoma State,,TCU,REG (Conf),W 82-50,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,1,1,2,1,1,0,2,2,10,8.0,H,1,1,brian-williams-9,Brian Williams,2014
+18,64,18,2014-01-18,Oklahoma State,@,Kansas,REG (Conf),L 78-80,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,1,3,0,1,0,0,2,2,0.8,A,0,1,brian-williams-9,Brian Williams,2014
+19,65,19,2014-01-25,Oklahoma State,,West Virginia,REG (Conf),W 81-75,*,29,4,5,0.8,0,0,,4,5,0.8,0.8,2,3,0.667,2,4,6,1,0,0,0,3,10,9.8,H,1,1,brian-williams-9,Brian Williams,2014
+20,66,20,2014-01-27,Oklahoma State,@,Oklahoma,REG (Conf),L 76-88,*,25,0,5,0.0,0,0,,0,5,0.0,0.0,0,0,,0,6,6,2,0,0,1,2,0,-2.1,A,0,1,brian-williams-9,Brian Williams,2014
+21,67,21,2014-02-01,Oklahoma State,,Baylor,REG (Conf),L 70-76,*,16,0,3,0.0,0,0,,0,3,0.0,0.0,2,4,0.5,0,2,2,2,1,1,0,0,2,2.8,H,0,1,brian-williams-9,Brian Williams,2014
+22,68,22,2014-02-03,Oklahoma State,,Iowa State,REG (Conf),L 97-98 (3OT),*,49,7,11,0.636,0,0,,7,11,0.636,0.636,1,3,0.333,2,4,6,0,2,0,3,3,15,9.7,H,0,1,brian-williams-9,Brian Williams,2014
+23,69,23,2014-02-08,Oklahoma State,@,Texas Tech,REG (Conf),L 61-65,*,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,0,1,brian-williams-9,Brian Williams,2014
+24,70,24,2014-02-11,Oklahoma State,@,Texas,REG (Conf),L 68-87,*,24,0,8,0.0,0,0,,0,8,0.0,0.0,0,0,,2,3,5,0,1,0,1,0,0,-3.3,A,0,1,brian-williams-9,Brian Williams,2014
+25,71,25,2014-02-15,Oklahoma State,,Oklahoma,REG (Conf),L 74-77,*,34,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,1,4,5,2,1,0,1,3,9,6.0,H,0,1,brian-williams-9,Brian Williams,2014
+26,72,26,2014-02-17,Oklahoma State,@,Baylor,REG (Conf),L 64-70 (OT),*,36,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,0,1,0,1,4,4,1.3,A,0,1,brian-williams-9,Brian Williams,2014
+27,73,27,2014-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 84-62,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,1,1,brian-williams-9,Brian Williams,2014
+28,74,28,2014-02-24,Oklahoma State,@,TCU,REG (Conf),W 76-54,,12,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,1,1,4,2.3,A,1,1,brian-williams-9,Brian Williams,2014
+29,75,29,2014-03-01,Oklahoma State,,Kansas,REG (Conf),W 72-65,,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,0,3,0,1,0,4,5.0,H,1,1,brian-williams-9,Brian Williams,2014
+30,76,30,2014-03-03,Oklahoma State,,Kansas State,REG (Conf),W 77-61,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,H,1,1,brian-williams-9,Brian Williams,2014
+31,77,31,2014-03-08,Oklahoma State,@,Iowa State,REG (Conf),L 81-85 (OT),,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,1,0,0,0,2,2.3,A,0,1,brian-williams-9,Brian Williams,2014
+32,78,32,2014-03-12,Oklahoma State,N,Texas Tech,CTOURN,W 80-62,,20,1,2,0.5,0,0,,1,2,0.5,0.5,4,5,0.8,1,2,3,0,3,0,0,1,6,8.5,N,1,0,brian-williams-9,Brian Williams,2014
+33,79,33,2014-03-13,Oklahoma State,N,Kansas,CTOURN,L 70-77 (OT),,25,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,0,1,0,0,2,3,2.1,N,0,0,brian-williams-9,Brian Williams,2014
+34,80,34,2014-03-21,Oklahoma State,N,Gonzaga,ROUND-64,L 77-85,,13,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,1,4,5,1,0,0,0,3,5,4.4,N,0,0,brian-williams-9,Brian Williams,2014

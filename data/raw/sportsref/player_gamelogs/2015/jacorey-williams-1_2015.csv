@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2014-11-16,Arkansas,,Alabama State,REG (Non-Conf),W 97-79,,16,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,0,2,2,1,2,1,2,0,2,0.9,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+2,62,2,2014-11-19,Arkansas,,Wake Forest,REG (Non-Conf),W 83-53,,17,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,0,5,5,4,0,0,1,1,10,10.0,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+3,63,3,2014-11-21,Arkansas,,Delaware State,REG (Non-Conf),W 99-71,,15,5,9,0.556,0,0,5,9,0.556,0.556,4,7,0.571,0,0,0,1,0,1,0,2,14,9.1,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+4,64,4,2014-11-25,Arkansas,@,SMU,REG (Non-Conf),W 78-72,,27,3,5,0.6,0,0,3,5,0.6,0.6,3,6,0.5,1,4,5,2,1,0,1,3,9,7.6,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+5,65,5,2014-11-28,Arkansas,,North Texas,REG (Non-Conf),W 89-73,,22,4,12,0.333,0,0,4,12,0.333,0.333,1,2,0.5,2,1,3,3,0,0,0,1,9,5.2,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+6,66,6,2014-11-30,Arkansas,,Iona,REG (Non-Conf),W 94-77,*,16,4,10,0.4,0,0,4,10,0.4,0.4,0,0,,1,3,4,2,1,0,4,3,8,1.4,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+7,67,7,2014-12-04,Arkansas,@,Iowa State,REG (Non-Conf),L 77-95,,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,1,0,1,0,4,4,3.1,A,0,1,jacorey-williams-1,Jacorey Williams,2015
+8,68,8,2014-12-07,Arkansas,@,Clemson,REG (Non-Conf),L 65-68 (OT),,10,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,0,1,1,0,0,0,2,0,4,0.6,A,0,1,jacorey-williams-1,Jacorey Williams,2015
+9,69,9,2014-12-13,Arkansas,,Dayton,REG (Non-Conf),W 69-55,*,20,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,3,3,6,4,3,0,2,3,6,7.9,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+10,70,10,2014-12-20,Arkansas,,Southeast Missouri State,REG (Non-Conf),W 84-67,*,17,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,1,0,1,0,0,0,1,1,5,1.2,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+11,71,11,2014-12-22,Arkansas,,Milwaukee,REG (Non-Conf),W 84-54,*,18,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,1,5,6,1,1,0,2,3,4,1.2,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+12,72,12,2014-12-28,Arkansas,,Northwestern State,REG (Non-Conf),W 100-92,*,25,5,9,0.556,0,0,5,9,0.556,0.556,2,6,0.333,4,3,7,3,0,0,2,2,12,9.1,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+13,73,13,2015-01-03,Arkansas,,Utah Valley,REG (Non-Conf),W 79-46,,19,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,0,4,4,1,1,1,1,0,4,3.9,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+14,74,14,2015-01-06,Arkansas,@,Georgia,REG (Conf),W 79-75,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,2,2,1.6,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+15,75,15,2015-01-10,Arkansas,,Vanderbilt,REG (Conf),W 82-70,,30,4,6,0.667,0,0,4,6,0.667,0.667,2,4,0.5,1,2,3,2,2,2,0,4,10,11.1,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+16,76,16,2015-01-13,Arkansas,@,Tennessee,REG (Conf),L 69-74,*,21,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,2,2,4,1,0,0,3,0,4,-0.4,A,0,1,jacorey-williams-1,Jacorey Williams,2015
+17,77,17,2015-01-17,Arkansas,,Ole Miss,REG (Conf),L 82-96,,16,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,0,0,0,0,1,0,0,3,3,0.7,H,0,1,jacorey-williams-1,Jacorey Williams,2015
+18,78,18,2015-01-22,Arkansas,,Alabama,REG (Conf),W 93-91 (OT),,21,1,8,0.125,0,0,1,8,0.125,0.125,3,4,0.75,2,3,5,1,1,0,0,2,5,2.6,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+19,79,19,2015-01-24,Arkansas,@,Missouri,REG (Conf),W 61-60,,9,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,1,1,1,1,0,1,1,0,-1.5,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+20,80,20,2015-01-27,Arkansas,,Tennessee,REG (Conf),W 69-64,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+21,81,21,2015-01-31,Arkansas,@,Florida,REG (Conf),L 56-57,,15,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,1,1,2,0,0,1,0,1,4,1.9,A,0,1,jacorey-williams-1,Jacorey Williams,2015
+22,82,22,2015-02-03,Arkansas,,South Carolina,REG (Conf),W 75-55,,14,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,2,4,0,1,2,0,2,7,7.9,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+23,83,23,2015-02-07,Arkansas,,Mississippi State,REG (Conf),W 61-41,,9,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,0,2,2,0,0,1,0,1,2,0.5,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+24,84,24,2015-02-10,Arkansas,@,Auburn,REG (Conf),W 101-87,,18,2,7,0.286,0,0,2,7,0.286,0.286,2,4,0.5,1,3,4,1,2,1,1,2,6,4.3,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+25,85,25,2015-02-14,Arkansas,@,Ole Miss,REG (Conf),W 71-70,,11,0,2,0.0,0,0,0,2,0.0,0.0,0,2,0.0,0,1,1,0,0,0,0,3,0,-3.1,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+26,86,26,2015-02-18,Arkansas,,Missouri,REG (Conf),W 84-69,,13,3,3,1.0,0,0,3,3,1.0,1.0,1,3,0.333,0,2,2,1,1,0,1,0,7,6.6,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+27,87,27,2015-02-21,Arkansas,@,Mississippi State,REG (Conf),W 65-61,,22,3,7,0.429,0,0,3,7,0.429,0.429,1,2,0.5,1,2,3,1,2,0,1,2,7,5.1,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+28,88,28,2015-02-24,Arkansas,,Texas A&M,REG (Conf),W 81-75,,10,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,0,1,1,1,0,0,2,2,4,-0.6,H,1,1,jacorey-williams-1,Jacorey Williams,2015
+29,89,29,2015-02-28,Arkansas,@,Kentucky,REG (Conf),L 67-84,,12,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,0,1,0,0,2,4,2.8,A,0,1,jacorey-williams-1,Jacorey Williams,2015
+30,90,30,2015-03-05,Arkansas,@,South Carolina,REG (Conf),W 78-74,,23,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,2,3,5,2,1,0,0,3,4,3.4,A,1,1,jacorey-williams-1,Jacorey Williams,2015
+31,91,31,2015-03-07,Arkansas,,Louisiana State,REG (Conf),L 78-81,,17,1,4,0.25,0,0,1,4,0.25,0.25,1,4,0.25,0,1,1,1,1,1,2,3,3,-1.1,H,0,1,jacorey-williams-1,Jacorey Williams,2015
+32,92,32,2015-03-13,Arkansas,N,Tennessee,CTOURN,W 80-72,,9,0,2,0.0,0,0,0,2,0.0,0.0,0,2,0.0,1,1,2,0,0,0,0,1,0,-1.6,N,1,0,jacorey-williams-1,Jacorey Williams,2015
+33,93,33,2015-03-14,Arkansas,N,Georgia,CTOURN,W 60-49,,12,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,2,3,1,0,0,2,0,4,3.0,N,1,0,jacorey-williams-1,Jacorey Williams,2015
+34,94,34,2015-03-15,Arkansas,N,Kentucky,CTOURN,L 63-78,*,23,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,1,1,1,2,3,2,1.5,N,0,0,jacorey-williams-1,Jacorey Williams,2015
+35,95,35,2015-03-19,Arkansas,N,Wofford,ROUND-64,W 56-53,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,1,0,2,0,2,2,2.2,N,1,0,jacorey-williams-1,Jacorey Williams,2015
+36,96,36,2015-03-21,Arkansas,N,North Carolina,ROUND-32,L 78-87,,18,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,2,1,3,1,0,0,0,2,0,0.2,N,0,0,jacorey-williams-1,Jacorey Williams,2015

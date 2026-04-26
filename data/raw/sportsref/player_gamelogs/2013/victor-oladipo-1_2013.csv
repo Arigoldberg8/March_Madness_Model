@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2012-11-09,Indiana,,Bryant,REG (Non-Conf),W 97-54,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,3,1,4,1,3,0,3,1,5,5.0,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+2,70,2,2012-11-12,Indiana,,North Dakota State,REG (Non-Conf),W 87-61,*,27,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,2,0.0,3,5,8,5,4,0,3,3,7,10.1,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+3,71,3,2012-11-15,Indiana,,Sam Houston State,REG (Non-Conf),W 99-45,*,22,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,6,0.5,1,6,7,1,4,0,4,3,14,11.9,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+4,72,4,2012-11-19,Indiana,N,Georgia,REG (Non-Conf),W 66-53,*,25,6,8,0.75,0,1,0.0,6,7,0.857,0.75,3,4,0.75,2,6,8,0,0,0,0,3,15,13.4,N,1,1,victor-oladipo-1,Victor Oladipo,2013
+5,73,5,2012-11-20,Indiana,N,Georgetown,REG (Non-Conf),W 82-72 (OT),*,37,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,4,0.75,1,1,2,1,1,1,1,4,12,10.5,N,1,1,victor-oladipo-1,Victor Oladipo,2013
+6,74,6,2012-11-25,Indiana,,Ball State,REG (Non-Conf),W 101-53,*,20,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,4,0.5,2,0,2,1,3,1,1,3,13,12.9,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+7,75,7,2012-11-27,Indiana,,North Carolina,REG (Non-Conf),W 83-59,*,25,8,13,0.615,0,2,0.0,8,11,0.727,0.615,3,4,0.75,2,2,4,1,0,1,0,2,19,15.3,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+8,76,8,2012-12-01,Indiana,,Coppin State,REG (Non-Conf),W 87-51,*,26,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,4,1.0,2,4,6,6,3,1,2,3,14,17.0,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+9,77,9,2012-12-08,Indiana,,Central Connecticut State,REG (Non-Conf),W 100-69,*,22,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,2,7,9,2,5,3,2,3,15,19.9,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+10,78,10,2012-12-15,Indiana,N,Butler,REG (Non-Conf),L 86-88 (OT),*,42,7,10,0.7,1,1,1.0,6,9,0.667,0.75,3,5,0.6,3,0,3,4,4,2,6,2,18,16.5,N,0,1,victor-oladipo-1,Victor Oladipo,2013
+11,79,11,2012-12-19,Indiana,,Mount St. Mary's,REG (Non-Conf),W 93-54,*,25,5,7,0.714,2,2,1.0,3,5,0.6,0.857,2,4,0.5,2,3,5,5,3,0,5,1,14,13.7,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+12,80,12,2012-12-21,Indiana,,Florida Atlantic,REG (Non-Conf),W 88-52,*,21,6,8,0.75,1,1,1.0,5,7,0.714,0.813,3,3,1.0,5,3,8,0,1,0,0,1,16,17.8,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+13,81,13,2012-12-28,Indiana,,Jacksonville,REG (Non-Conf),W 93-59,*,24,5,6,0.833,2,3,0.667,3,3,1.0,1.0,2,2,1.0,1,6,7,2,2,2,2,1,14,16.7,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+14,82,14,2012-12-31,Indiana,@,Iowa,REG (Conf),W 69-65,*,34,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,3,7,10,2,1,0,3,2,14,12.2,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+15,83,15,2013-01-07,Indiana,@,Penn State,REG (Conf),W 74-51,*,28,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,1,5,6,3,1,0,6,3,10,5.1,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+16,84,16,2013-01-12,Indiana,,Minnesota,REG (Conf),W 88-81,*,30,8,10,0.8,1,2,0.5,7,8,0.875,0.85,3,4,0.75,4,2,6,2,3,0,2,5,20,19.6,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+17,85,17,2013-01-15,Indiana,,Wisconsin,REG (Conf),L 59-64,*,28,3,7,0.429,1,1,1.0,2,6,0.333,0.5,3,3,1.0,4,1,5,0,1,0,1,4,10,7.8,H,0,1,victor-oladipo-1,Victor Oladipo,2013
+18,86,18,2013-01-20,Indiana,@,Northwestern,REG (Conf),W 67-59,*,24,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,5,1,6,5,1,1,1,2,7,12.2,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+19,87,19,2013-01-23,Indiana,,Penn State,REG (Conf),W 72-49,*,34,4,7,0.571,2,2,1.0,2,5,0.4,0.714,9,12,0.75,3,3,6,5,3,0,3,4,19,19.4,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+20,88,20,2013-01-27,Indiana,,Michigan State,REG (Conf),W 75-70,*,30,8,12,0.667,1,2,0.5,7,10,0.7,0.708,4,6,0.667,4,3,7,1,6,3,3,3,21,23.3,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+21,89,21,2013-01-30,Indiana,@,Purdue,REG (Conf),W 97-60,*,32,7,12,0.583,1,3,0.333,6,9,0.667,0.625,2,2,1.0,2,4,6,2,3,1,0,0,17,19.1,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+22,90,22,2013-02-02,Indiana,,Michigan,REG (Conf),W 81-73,*,34,6,12,0.5,1,3,0.333,5,9,0.556,0.542,2,3,0.667,0,2,2,2,2,0,3,2,15,8.8,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+23,91,23,2013-02-07,Indiana,@,Illinois,REG (Conf),L 72-74,*,31,3,7,0.429,1,1,1.0,2,6,0.333,0.5,2,2,1.0,0,4,4,5,0,2,1,3,9,9.2,A,0,1,victor-oladipo-1,Victor Oladipo,2013
+24,92,24,2013-02-10,Indiana,@,Ohio State,REG (Conf),W 81-68,*,33,8,10,0.8,1,1,1.0,7,9,0.778,0.85,9,10,0.9,3,5,8,3,2,0,3,1,26,26.1,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+25,93,25,2013-02-13,Indiana,,Nebraska,REG (Conf),W 76-47,*,27,5,8,0.625,1,3,0.333,4,5,0.8,0.688,2,2,1.0,4,4,8,1,3,1,1,2,13,16.0,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+26,94,26,2013-02-16,Indiana,,Purdue,REG (Conf),W 83-55,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,3,5,0,0,1,2,0,3,1.9,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+27,95,27,2013-02-19,Indiana,@,Michigan State,REG (Conf),W 72-68,*,30,7,11,0.636,1,3,0.333,6,8,0.75,0.682,4,4,1.0,2,7,9,0,5,1,1,2,19,21.5,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+28,96,28,2013-02-26,Indiana,@,Minnesota,REG (Conf),L 73-77,*,34,5,10,0.5,1,5,0.2,4,5,0.8,0.55,5,7,0.714,2,3,5,2,0,1,1,3,16,12.4,A,0,1,victor-oladipo-1,Victor Oladipo,2013
+29,97,29,2013-03-02,Indiana,,Iowa,REG (Conf),W 73-60,*,22,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,4,4,8,0,4,1,4,4,10,10.1,H,1,1,victor-oladipo-1,Victor Oladipo,2013
+30,98,30,2013-03-05,Indiana,,Ohio State,REG (Conf),L 58-67,*,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,1,5,6,1,0,2,4,5,7,2.3,H,0,1,victor-oladipo-1,Victor Oladipo,2013
+31,99,31,2013-03-10,Indiana,@,Michigan,REG (Conf),W 72-71,*,33,7,18,0.389,0,3,0.0,7,15,0.467,0.389,0,0,,7,6,13,3,1,1,2,2,14,11.9,A,1,1,victor-oladipo-1,Victor Oladipo,2013
+32,100,32,2013-03-15,Indiana,N,Illinois,CTOURN,W 80-64,*,31,4,8,0.5,0,2,0.0,4,6,0.667,0.5,4,4,1.0,2,9,11,1,1,0,3,3,12,9.6,N,1,0,victor-oladipo-1,Victor Oladipo,2013
+33,101,33,2013-03-16,Indiana,N,Wisconsin,CTOURN,L 56-68,*,34,4,12,0.333,1,3,0.333,3,9,0.333,0.375,1,2,0.5,5,2,7,3,4,1,4,3,10,8.5,N,0,0,victor-oladipo-1,Victor Oladipo,2013
+34,102,34,2013-03-22,Indiana,N,James Madison,ROUND-64,W 83-62,*,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,4,1.0,2,4,6,3,1,0,1,1,11,11.6,N,1,0,victor-oladipo-1,Victor Oladipo,2013
+35,103,35,2013-03-24,Indiana,N,Temple,ROUND-32,W 58-52,*,32,7,12,0.583,1,3,0.333,6,9,0.667,0.625,1,2,0.5,3,5,8,1,0,0,1,1,16,12.9,N,1,0,victor-oladipo-1,Victor Oladipo,2013
+36,104,36,2013-03-28,Indiana,N,Syracuse,ROUND-16,L 50-61,*,36,5,6,0.833,1,1,1.0,4,5,0.8,0.917,5,8,0.625,1,1,2,0,3,1,4,4,16,11.7,N,0,0,victor-oladipo-1,Victor Oladipo,2013

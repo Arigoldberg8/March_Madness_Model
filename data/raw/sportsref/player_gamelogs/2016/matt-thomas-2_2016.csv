@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2015-11-13,Iowa State,N,Colorado,REG (Non-Conf),W 68-62,,24,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,2,3,5,2,1,0,0,2,4,3.8,N,1,1,matt-thomas-2,Matt Thomas,2016
+2,70,2,2015-11-16,Iowa State,,Chicago State,REG (Non-Conf),W 106-64,,23,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,2,0.5,1,10,11,4,0,0,2,1,9,9.0,H,1,1,matt-thomas-2,Matt Thomas,2016
+3,71,3,2015-11-23,Iowa State,,Chattanooga,REG (Non-Conf),W 83-63,,25,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,1,5,6,2,0,1,1,2,6,3.7,H,1,1,matt-thomas-2,Matt Thomas,2016
+4,72,4,2015-11-27,Iowa State,N,Virginia Tech,REG (Non-Conf),W 99-77,,27,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,2,1,1,2,4,6,4.8,N,1,1,matt-thomas-2,Matt Thomas,2016
+5,73,5,2015-11-28,Iowa State,N,Illinois,REG (Non-Conf),W 84-73,,28,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,0,3,3,1,3,0,1,1,10,9.2,N,1,1,matt-thomas-2,Matt Thomas,2016
+6,74,6,2015-12-01,Iowa State,,North Dakota State,REG (Non-Conf),W 84-64,,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,3,4,1,0,0,0,1,0,0.5,H,1,1,matt-thomas-2,Matt Thomas,2016
+7,75,7,2015-12-07,Iowa State,,Buffalo,REG (Non-Conf),W 84-63,,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,6,6,1,1,0,0,3,3,2.2,H,1,1,matt-thomas-2,Matt Thomas,2016
+8,76,8,2015-12-10,Iowa State,,Iowa,REG (Non-Conf),W 83-82,,28,6,10,0.6,6,9,0.667,0,1,0.0,0.9,1,2,0.5,0,4,4,0,2,0,1,1,19,15.8,H,1,1,matt-thomas-2,Matt Thomas,2016
+9,77,9,2015-12-13,Iowa State,,Arkansas–Pine Bluff,REG (Non-Conf),W 78-64,*,37,6,11,0.545,5,8,0.625,1,3,0.333,0.773,0,0,,1,3,4,4,1,0,2,2,17,14.3,H,1,1,matt-thomas-2,Matt Thomas,2016
+10,78,10,2015-12-19,Iowa State,N,Northern Iowa,REG (Non-Conf),L 79-81,*,29,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,2,2,0,0,0,3,3,2,-4.7,N,0,1,matt-thomas-2,Matt Thomas,2016
+11,79,11,2015-12-22,Iowa State,@,Cincinnati,REG (Non-Conf),W 81-79,*,32,4,14,0.286,3,10,0.3,1,4,0.25,0.393,2,2,1.0,1,8,9,4,0,0,1,2,13,8.9,A,1,1,matt-thomas-2,Matt Thomas,2016
+12,80,12,2015-12-30,Iowa State,,Coppin State,REG (Non-Conf),W 104-84,*,32,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,2,1.0,0,5,5,2,0,1,1,1,13,11.9,H,1,1,matt-thomas-2,Matt Thomas,2016
+13,81,13,2016-01-02,Iowa State,@,Oklahoma,REG (Conf),L 83-87,*,34,3,11,0.273,3,8,0.375,0,3,0.0,0.409,0,0,,0,5,5,1,0,1,0,4,9,3.8,A,0,1,matt-thomas-2,Matt Thomas,2016
+14,82,14,2016-01-06,Iowa State,,Texas Tech,REG (Conf),W 76-69,*,38,7,13,0.538,6,10,0.6,1,3,0.333,0.769,2,2,1.0,0,1,1,2,0,0,1,0,22,16.4,H,1,1,matt-thomas-2,Matt Thomas,2016
+15,83,15,2016-01-09,Iowa State,,Baylor,REG (Conf),L 89-94,*,36,3,10,0.3,2,9,0.222,1,1,1.0,0.4,0,0,,1,6,7,2,0,0,0,5,8,4.1,H,0,1,matt-thomas-2,Matt Thomas,2016
+16,84,16,2016-01-12,Iowa State,@,Texas,REG (Conf),L 91-94 (OT),*,36,5,9,0.556,1,4,0.25,4,5,0.8,0.611,0,0,,0,2,2,0,1,1,1,2,11,7.2,A,0,1,matt-thomas-2,Matt Thomas,2016
+17,85,17,2016-01-16,Iowa State,@,Kansas State,REG (Conf),W 76-63,*,37,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,4,1.0,0,6,6,1,1,0,3,2,11,7.0,A,1,1,matt-thomas-2,Matt Thomas,2016
+18,86,18,2016-01-18,Iowa State,,Oklahoma,REG (Conf),W 82-77,*,38,4,13,0.308,3,8,0.375,1,5,0.2,0.423,1,1,1.0,3,6,9,3,0,1,1,1,12,9.8,H,1,1,matt-thomas-2,Matt Thomas,2016
+19,87,19,2016-01-23,Iowa State,@,TCU,REG (Conf),W 73-60,*,39,5,8,0.625,3,4,0.75,2,4,0.5,0.813,2,2,1.0,0,5,5,0,0,0,2,1,15,10.5,A,1,1,matt-thomas-2,Matt Thomas,2016
+20,88,20,2016-01-25,Iowa State,,Kansas,REG (Conf),W 85-72,*,37,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,1,5,6,1,4,0,3,0,13,11.9,H,1,1,matt-thomas-2,Matt Thomas,2016
+21,89,21,2016-01-30,Iowa State,@,Texas A&M,REG (Non-Conf),L 62-72,*,38,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,6,6,0,1,0,1,4,9,6.2,A,0,1,matt-thomas-2,Matt Thomas,2016
+22,90,22,2016-02-02,Iowa State,,West Virginia,REG (Conf),L 76-81,*,37,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,2,1.0,1,2,3,2,3,0,2,3,11,8.4,H,0,1,matt-thomas-2,Matt Thomas,2016
+23,91,23,2016-02-06,Iowa State,@,Oklahoma State,REG (Conf),W 64-59,*,37,5,8,0.625,4,6,0.667,1,2,0.5,0.875,2,2,1.0,0,6,6,1,0,0,2,1,16,12.5,A,1,1,matt-thomas-2,Matt Thomas,2016
+24,92,24,2016-02-10,Iowa State,@,Texas Tech,REG (Conf),L 82-85 (OT),*,44,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,6,6,1,0,0,0,1,5,4.4,A,0,1,matt-thomas-2,Matt Thomas,2016
+25,93,25,2016-02-13,Iowa State,,Texas,REG (Conf),W 85-75,*,34,4,5,0.8,1,2,0.5,3,3,1.0,0.9,4,5,0.8,1,0,1,1,1,0,0,4,13,11.5,H,1,1,matt-thomas-2,Matt Thomas,2016
+26,94,26,2016-02-16,Iowa State,@,Baylor,REG (Conf),L 91-100 (OT),*,44,3,9,0.333,1,6,0.167,2,3,0.667,0.389,0,0,,1,0,1,2,2,0,0,5,7,4.0,A,0,1,matt-thomas-2,Matt Thomas,2016
+27,95,27,2016-02-20,Iowa State,,TCU,REG (Conf),W 92-83,*,27,4,10,0.4,4,9,0.444,0,1,0.0,0.6,4,4,1.0,0,3,3,4,3,1,1,4,16,15.4,H,1,1,matt-thomas-2,Matt Thomas,2016
+28,96,28,2016-02-22,Iowa State,@,West Virginia,REG (Conf),L 87-97,*,39,4,11,0.364,4,10,0.4,0,1,0.0,0.545,2,2,1.0,0,3,3,1,1,0,2,3,14,7.3,A,0,1,matt-thomas-2,Matt Thomas,2016
+29,97,29,2016-02-27,Iowa State,,Kansas State,REG (Conf),W 80-61,*,37,7,11,0.636,5,8,0.625,2,3,0.667,0.864,1,1,1.0,0,4,4,3,0,1,0,1,20,18.7,H,1,1,matt-thomas-2,Matt Thomas,2016
+30,98,30,2016-02-29,Iowa State,,Oklahoma State,REG (Conf),W 58-50,*,32,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,0,1,1,1,1,0,2,1,6,0.8,H,1,1,matt-thomas-2,Matt Thomas,2016
+31,99,31,2016-03-05,Iowa State,@,Kansas,REG (Conf),L 78-85,*,32,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,3,3,2,0,0,2,2,9,6.2,A,0,1,matt-thomas-2,Matt Thomas,2016
+32,100,32,2016-03-10,Iowa State,N,Oklahoma,CTOURN,L 76-79,*,39,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,1,3,4,1,0,0,4,3,13,5.1,N,0,0,matt-thomas-2,Matt Thomas,2016
+33,101,33,2016-03-17,Iowa State,N,Iona,ROUND-64,W 94-81,*,40,4,10,0.4,3,7,0.429,1,3,0.333,0.55,3,4,0.75,1,5,6,3,0,0,1,1,14,11.1,N,1,0,matt-thomas-2,Matt Thomas,2016
+34,102,34,2016-03-19,Iowa State,N,Little Rock,ROUND-32,W 78-61,*,37,6,10,0.6,4,8,0.5,2,2,1.0,0.8,0,0,,0,4,4,4,2,0,0,0,16,17.4,N,1,0,matt-thomas-2,Matt Thomas,2016
+35,103,35,2016-03-25,Iowa State,N,Virginia,ROUND-16,L 71-84,*,37,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,0,2,2,2,0,0,0,2,12,9.2,N,0,0,matt-thomas-2,Matt Thomas,2016

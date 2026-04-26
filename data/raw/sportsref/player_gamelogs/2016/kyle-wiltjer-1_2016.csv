@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,112,1,2015-11-18,Gonzaga,,Northern Arizona,REG (Non-Conf),W 91-52,*,30,8,15,0.533,1,6,0.167,7,9,0.778,0.567,6,6,1.0,0,7,7,1,1,0,2,0,23,17.5,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+2,113,2,2015-11-21,Gonzaga,,Mount St. Mary's,REG (Non-Conf),W 101-56,*,25,4,12,0.333,0,2,0.0,4,10,0.4,0.333,4,5,0.8,3,6,9,3,1,1,3,1,12,9.1,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+3,114,3,2015-11-25,Gonzaga,N,Washington,REG (Non-Conf),W 80-64,*,28,7,13,0.538,0,2,0.0,7,11,0.636,0.538,10,12,0.833,3,8,11,2,1,0,3,4,24,19.2,N,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+4,115,4,2015-11-26,Gonzaga,N,Texas A&M,REG (Non-Conf),L 61-62,*,32,7,13,0.538,4,8,0.5,3,5,0.6,0.692,0,0,,2,5,7,2,0,0,4,2,18,11.2,N,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+5,116,5,2015-11-27,Gonzaga,N,Connecticut,REG (Non-Conf),W 73-70,*,32,7,16,0.438,3,9,0.333,4,7,0.571,0.531,0,0,,0,4,4,1,0,0,0,1,17,10.1,N,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+6,117,6,2015-12-02,Gonzaga,@,Washington State,REG (Non-Conf),W 69-60,*,37,8,15,0.533,4,7,0.571,4,8,0.5,0.667,2,2,1.0,1,2,3,1,0,3,6,1,22,12.4,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+7,118,7,2015-12-05,Gonzaga,,Arizona,REG (Non-Conf),L 63-68,*,39,14,27,0.519,3,7,0.429,11,20,0.55,0.574,2,2,1.0,2,7,9,0,0,2,1,1,33,23.2,H,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+8,119,8,2015-12-08,Gonzaga,,Montana,REG (Non-Conf),W 61-58,*,38,6,16,0.375,2,5,0.4,4,11,0.364,0.438,2,2,1.0,1,8,9,0,1,1,3,1,16,8.6,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+9,120,9,2015-12-12,Gonzaga,,UCLA,REG (Non-Conf),L 66-71,*,39,7,15,0.467,4,9,0.444,3,6,0.5,0.6,2,2,1.0,1,7,8,3,1,0,0,2,20,17.4,H,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+10,121,10,2015-12-14,Gonzaga,,St. Martin's,REG (Non-Conf),W 86-50,*,27,7,16,0.438,1,3,0.333,6,13,0.462,0.469,3,3,1.0,5,6,11,0,0,1,2,1,18,13.2,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+11,122,11,2015-12-19,Gonzaga,N,Tennessee,REG (Non-Conf),W 86-79,*,37,6,19,0.316,3,8,0.375,3,11,0.273,0.395,9,10,0.9,1,5,6,2,0,1,2,1,24,14.6,N,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+12,123,12,2015-12-21,Gonzaga,,Pepperdine,REG (Conf),W 99-73,*,27,1,6,0.167,1,2,0.5,0,4,0.0,0.25,6,6,1.0,3,8,11,3,0,0,1,3,9,9.6,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+13,124,13,2015-12-23,Gonzaga,,Loyola Marymount,REG (Conf),W 85-62,*,35,7,13,0.538,4,6,0.667,3,7,0.429,0.692,8,8,1.0,0,2,2,2,0,2,1,0,26,22.1,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+14,125,14,2015-12-31,Gonzaga,@,Santa Clara,REG (Conf),W 79-77,*,39,7,12,0.583,2,5,0.4,5,7,0.714,0.667,4,5,0.8,1,6,7,1,0,1,2,3,20,14.7,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+15,126,15,2016-01-02,Gonzaga,@,San Francisco,REG (Conf),W 102-94 (OT),*,42,13,22,0.591,1,5,0.2,12,17,0.706,0.614,3,5,0.6,5,6,11,2,0,2,2,1,30,24.7,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+16,127,16,2016-01-09,Gonzaga,,Portland,REG (Conf),W 85-74,*,31,12,21,0.571,6,9,0.667,6,12,0.5,0.714,2,2,1.0,2,2,4,0,2,0,3,2,32,22.3,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+17,128,17,2016-01-14,Gonzaga,,Brigham Young,REG (Conf),L 68-69,*,38,11,23,0.478,4,8,0.5,7,15,0.467,0.565,9,12,0.75,2,8,10,0,1,0,3,1,35,23.5,H,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+18,129,18,2016-01-16,Gonzaga,,San Diego,REG (Conf),W 88-52,*,27,10,15,0.667,2,2,1.0,8,13,0.615,0.733,3,4,0.75,2,1,3,0,1,0,0,0,25,20.8,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+19,130,19,2016-01-21,Gonzaga,@,St. Mary's (CA),REG (Conf),L 67-70,*,36,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,2,2,3,0,0,4,4,6,-0.6,A,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+20,131,20,2016-01-23,Gonzaga,@,Pacific,REG (Conf),W 71-61,*,36,8,13,0.615,2,5,0.4,6,8,0.75,0.692,5,7,0.714,3,3,6,0,0,1,4,3,23,14.8,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+21,132,21,2016-01-28,Gonzaga,,Santa Clara,REG (Conf),W 84-67,*,34,10,15,0.667,7,10,0.7,3,5,0.6,0.9,8,9,0.889,1,4,5,2,0,1,5,3,35,25.9,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+22,133,22,2016-01-30,Gonzaga,,San Francisco,REG (Conf),W 86-48,*,26,6,14,0.429,3,7,0.429,3,7,0.429,0.536,0,1,0.0,3,2,5,4,0,1,1,2,15,11.6,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+23,134,23,2016-02-04,Gonzaga,@,Loyola Marymount,REG (Conf),W 92-63,*,29,9,13,0.692,3,6,0.5,6,7,0.857,0.808,2,2,1.0,1,4,5,2,1,1,1,4,23,19.9,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+24,135,24,2016-02-06,Gonzaga,@,Pepperdine,REG (Conf),W 69-66,*,38,7,16,0.438,1,6,0.167,6,10,0.6,0.469,2,2,1.0,0,1,1,1,0,0,2,3,17,6.4,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+25,136,25,2016-02-11,Gonzaga,@,Portland,REG (Conf),W 92-66,*,35,8,15,0.533,5,9,0.556,3,6,0.5,0.7,0,0,,1,7,8,2,0,1,1,1,21,17.2,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+26,137,26,2016-02-13,Gonzaga,@,SMU,REG (Non-Conf),L 60-69,*,38,2,17,0.118,0,8,0.0,2,9,0.222,0.118,0,0,,1,3,4,2,0,0,1,0,4,-5.1,A,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+27,138,27,2016-02-18,Gonzaga,,Pacific,REG (Conf),W 90-68,*,26,8,14,0.571,4,7,0.571,4,7,0.571,0.714,6,6,1.0,1,3,4,2,0,0,1,3,26,20.2,H,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+28,139,28,2016-02-20,Gonzaga,,St. Mary's (CA),REG (Conf),L 58-63,*,38,5,16,0.313,1,7,0.143,4,9,0.444,0.344,2,2,1.0,3,4,7,0,1,1,1,1,13,7.4,H,0,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+29,140,29,2016-02-25,Gonzaga,@,San Diego,REG (Conf),W 82-60,*,27,5,8,0.625,0,1,0.0,5,7,0.714,0.625,6,6,1.0,2,5,7,1,0,0,1,2,16,14.2,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+30,141,30,2016-02-27,Gonzaga,@,Brigham Young,REG (Conf),W 71-68,*,35,6,14,0.429,2,7,0.286,4,7,0.571,0.5,7,8,0.875,1,6,7,0,0,1,2,2,21,13.6,A,1,1,kyle-wiltjer-1,Kyle Wiltjer,2016
+31,142,31,2016-03-05,Gonzaga,N,Portland,CTOURN,W 92-67,*,33,4,9,0.444,2,4,0.5,2,5,0.4,0.556,3,5,0.6,3,5,8,3,0,3,1,2,13,13.5,N,1,0,kyle-wiltjer-1,Kyle Wiltjer,2016
+32,143,32,2016-03-07,Gonzaga,N,Brigham Young,CTOURN,W 88-84,*,37,10,18,0.556,5,7,0.714,5,11,0.455,0.694,4,5,0.8,1,7,8,0,0,2,4,1,29,19.8,N,1,0,kyle-wiltjer-1,Kyle Wiltjer,2016
+33,144,33,2016-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 85-75,*,39,6,10,0.6,1,1,1.0,5,9,0.556,0.65,4,4,1.0,1,3,4,1,1,1,1,2,17,14.6,N,1,0,kyle-wiltjer-1,Kyle Wiltjer,2016
+34,145,34,2016-03-17,Gonzaga,N,Seton Hall,ROUND-64,W 68-52,*,28,5,14,0.357,2,4,0.5,3,10,0.3,0.429,1,3,0.333,2,5,7,0,0,0,2,3,13,4.1,N,1,0,kyle-wiltjer-1,Kyle Wiltjer,2016
+35,146,35,2016-03-19,Gonzaga,N,Utah,ROUND-32,W 82-59,*,33,7,10,0.7,3,4,0.75,4,6,0.667,0.85,0,0,,1,2,3,3,0,0,1,1,17,14.8,N,1,0,kyle-wiltjer-1,Kyle Wiltjer,2016
+36,147,36,2016-03-25,Gonzaga,N,Syracuse,ROUND-16,L 60-63,*,38,9,17,0.529,4,7,0.571,5,10,0.5,0.647,1,1,1.0,2,3,5,4,1,2,3,4,23,17.6,N,0,0,kyle-wiltjer-1,Kyle Wiltjer,2016

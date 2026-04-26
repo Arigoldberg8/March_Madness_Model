@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2015-11-13,Texas Tech,,High Point,REG (Non-Conf),W 77-73,*,29,0,6,0.0,0,5,0.0,0,1,0.0,0.0,7,8,0.875,3,3,6,2,2,1,2,3,7,6.3,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+2,106,2,2015-11-19,Texas Tech,N,Utah,REG (Non-Conf),L 63-73,*,29,4,9,0.444,1,6,0.167,3,3,1.0,0.5,3,4,0.75,2,3,5,5,1,0,1,3,12,11.5,N,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+3,107,3,2015-11-20,Texas Tech,N,Mississippi State,REG (Non-Conf),W 74-72,*,31,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,2,1.0,1,2,3,3,2,0,1,3,11,9.5,N,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+4,108,4,2015-11-22,Texas Tech,N,Minnesota,REG (Non-Conf),W 81-68,*,35,4,10,0.4,3,4,0.75,1,6,0.167,0.55,0,0,,1,3,4,2,0,0,0,3,11,7.4,N,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+5,109,5,2015-11-28,Texas Tech,,Hawaii,REG (Non-Conf),W 82-74,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,3,4,3,0,0,0,2,2,1.8,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+6,110,6,2015-12-02,Texas Tech,,Sam Houston State,REG (Non-Conf),W 71-56,*,32,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,1,7,8,2,0,2,1,0,11,10.9,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+7,111,7,2015-12-09,Texas Tech,,UT Martin,REG (Non-Conf),W 68-49,*,28,7,10,0.7,6,8,0.75,1,2,0.5,1.0,0,0,,3,3,6,1,2,0,1,1,20,20.1,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+8,112,8,2015-12-16,Texas Tech,,South Dakota State,REG (Non-Conf),W 79-67,*,26,6,11,0.545,3,6,0.5,3,5,0.6,0.682,2,2,1.0,0,5,5,1,2,1,2,2,17,13.8,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+9,113,9,2015-12-19,Texas Tech,,Arkansas–Pine Bluff,REG (Non-Conf),W 94-54,*,20,3,6,0.5,3,6,0.5,0,0,,0.75,2,2,1.0,0,2,2,3,2,0,1,0,11,11.7,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+10,114,10,2015-12-22,Texas Tech,,Little Rock,REG (Non-Conf),W 65-53,*,37,3,7,0.429,1,4,0.25,2,3,0.667,0.5,5,6,0.833,2,2,4,1,0,0,1,1,12,9.2,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+11,115,11,2015-12-29,Texas Tech,,Richmond,REG (Non-Conf),W 85-70,*,18,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,2,0.5,1,2,3,2,0,0,0,4,9,7.4,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+12,116,12,2016-01-02,Texas Tech,,Texas,REG (Conf),W 82-74,*,32,6,9,0.667,4,6,0.667,2,3,0.667,0.889,2,2,1.0,1,2,3,1,1,0,0,2,18,16.3,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+13,117,13,2016-01-06,Texas Tech,@,Iowa State,REG (Conf),L 69-76,*,37,6,13,0.462,0,4,0.0,6,9,0.667,0.462,0,0,,2,5,7,8,0,0,0,0,12,13.8,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+14,118,14,2016-01-09,Texas Tech,,Kansas,REG (Conf),L 59-69,*,32,5,12,0.417,2,7,0.286,3,5,0.6,0.5,1,2,0.5,1,1,2,2,1,0,0,1,13,9.2,H,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+15,119,15,2016-01-12,Texas Tech,@,Kansas State,REG (Conf),L 70-83,,30,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,3,4,2,1,0,1,1,5,4.9,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+16,120,16,2016-01-16,Texas Tech,,Baylor,REG (Conf),L 60-63,*,31,3,7,0.429,0,3,0.0,3,4,0.75,0.429,3,3,1.0,2,5,7,2,1,0,1,2,9,8.8,H,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+17,121,17,2016-01-18,Texas Tech,@,TCU,REG (Conf),W 76-69,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,0,3,3,3,1,0,0,3,5,4.6,A,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+18,122,18,2016-01-23,Texas Tech,,West Virginia,REG (Conf),L 76-80,*,23,2,7,0.286,2,4,0.5,0,3,0.0,0.429,6,6,1.0,2,1,3,1,4,0,0,3,12,13.1,H,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+19,123,19,2016-01-26,Texas Tech,@,Oklahoma,REG (Conf),L 67-91,*,17,3,8,0.375,1,6,0.167,2,2,1.0,0.438,0,0,,0,1,1,1,0,0,0,3,7,2.4,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+20,124,20,2016-01-30,Texas Tech,@,Arkansas,REG (Non-Conf),L 68-75 (OT),*,36,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,4,2,6,2,1,0,0,5,8,6.7,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+21,125,21,2016-02-03,Texas Tech,,Oklahoma State,REG (Conf),W 63-61 (OT),*,35,4,7,0.571,4,6,0.667,0,1,0.0,0.857,6,6,1.0,1,1,2,1,1,1,1,3,18,15.9,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+22,126,22,2016-02-06,Texas Tech,@,Texas,REG (Conf),L 59-69,*,20,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,0,0,0,1,0,0,1,3,8,4.5,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+23,127,23,2016-02-10,Texas Tech,,Iowa State,REG (Conf),W 85-82 (OT),*,25,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,0,1,1,7,2,0,1,0,0,1.3,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+24,128,24,2016-02-13,Texas Tech,@,Baylor,REG (Conf),W 84-66,*,26,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,0,2,2,2,1,0,0,4,7,5.0,A,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+25,129,25,2016-02-17,Texas Tech,,Oklahoma,REG (Conf),W 65-63,*,29,3,10,0.3,1,5,0.2,2,5,0.4,0.35,1,2,0.5,0,5,5,2,1,0,1,2,8,3.9,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+26,130,26,2016-02-20,Texas Tech,@,Oklahoma State,REG (Conf),W 71-61,*,38,7,10,0.7,5,7,0.714,2,3,0.667,0.95,5,5,1.0,0,3,3,2,1,1,2,1,24,21.4,A,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+27,131,27,2016-02-23,Texas Tech,,TCU,REG (Conf),W 83-79,*,33,4,9,0.444,4,9,0.444,0,0,,0.667,4,6,0.667,0,2,2,0,0,2,1,2,16,10.7,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+28,132,28,2016-02-27,Texas Tech,@,Kansas,REG (Conf),L 58-67,*,36,6,13,0.462,5,9,0.556,1,4,0.25,0.654,3,3,1.0,0,0,0,2,3,0,2,1,20,15.3,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+29,133,29,2016-03-02,Texas Tech,@,West Virginia,REG (Conf),L 68-90,*,29,2,6,0.333,1,5,0.2,1,1,1.0,0.417,4,4,1.0,0,3,3,2,1,1,1,4,9,7.0,A,0,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+30,134,30,2016-03-05,Texas Tech,,Kansas State,REG (Conf),W 80-71,*,37,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,2,4,6,2,0,1,1,2,13,10.9,H,1,1,toddrick-gotcher-1,Toddrick Gotcher,2016
+31,135,31,2016-03-09,Texas Tech,N,TCU,CTOURN,L 62-67,*,27,3,10,0.3,2,6,0.333,1,4,0.25,0.4,1,2,0.5,0,1,1,2,1,0,2,3,9,2.3,N,0,0,toddrick-gotcher-1,Toddrick Gotcher,2016
+32,136,32,2016-03-17,Texas Tech,N,Butler,ROUND-64,L 61-71,*,28,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,0,1,1,1,1,1,1,2,5,1.4,N,0,0,toddrick-gotcher-1,Toddrick Gotcher,2016

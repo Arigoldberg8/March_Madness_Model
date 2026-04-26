@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2015-11-13,Colorado,N,Iowa State,REG (Non-Conf),L 62-68,*,23,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,4,4,1,0,0,2,3,7,1.3,N,0,1,josh-fortune-1,Josh Fortune,2016
+2,71,2,2015-11-17,Colorado,@,Auburn,REG (Non-Conf),W 91-84,,23,3,8,0.375,3,7,0.429,0,1,0.0,0.563,2,3,0.667,1,4,5,1,0,0,2,2,11,6.0,A,1,1,josh-fortune-1,Josh Fortune,2016
+3,72,3,2015-11-20,Colorado,,Portland,REG (Non-Conf),W 85-63,*,27,5,12,0.417,0,3,0.0,5,9,0.556,0.417,7,9,0.778,3,11,14,6,3,1,2,1,17,20.7,H,1,1,josh-fortune-1,Josh Fortune,2016
+4,73,4,2015-11-22,Colorado,,Omaha,REG (Non-Conf),W 87-82,*,14,1,5,0.2,0,0,,1,5,0.2,0.2,0,2,0.0,2,3,5,1,0,0,2,5,2,-2.9,H,1,1,josh-fortune-1,Josh Fortune,2016
+5,74,5,2015-11-25,Colorado,,Air Force,REG (Non-Conf),W 81-70,,26,6,9,0.667,5,8,0.625,1,1,1.0,0.944,1,2,0.5,2,4,6,2,0,0,4,1,18,13.3,H,1,1,josh-fortune-1,Josh Fortune,2016
+6,75,6,2015-11-29,Colorado,,Northern Colorado,REG (Non-Conf),W 82-52,*,20,3,10,0.3,3,7,0.429,0,3,0.0,0.45,0,0,,0,1,1,2,0,0,2,0,9,2.9,H,1,1,josh-fortune-1,Josh Fortune,2016
+7,76,7,2015-12-02,Colorado,,Fort Lewis,REG (Non-Conf),W 95-71,*,28,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,2,1.0,1,1,2,6,1,0,0,0,17,19.3,H,1,1,josh-fortune-1,Josh Fortune,2016
+8,77,8,2015-12-06,Colorado,@,Colorado State,REG (Non-Conf),W 88-77,,32,5,11,0.455,0,5,0.0,5,6,0.833,0.455,6,6,1.0,1,1,2,6,1,0,1,2,16,14.7,A,1,1,josh-fortune-1,Josh Fortune,2016
+9,78,9,2015-12-12,Colorado,,Brigham Young,REG (Non-Conf),W 92-83,*,27,2,10,0.2,1,5,0.2,1,5,0.2,0.25,2,3,0.667,0,6,6,5,1,0,3,2,7,2.9,H,1,1,josh-fortune-1,Josh Fortune,2016
+10,79,10,2015-12-18,Colorado,,Nicholls State,REG (Non-Conf),W 85-68,*,26,7,12,0.583,3,6,0.5,4,6,0.667,0.708,0,1,0.0,0,5,5,4,1,1,1,1,17,15.6,H,1,1,josh-fortune-1,Josh Fortune,2016
+11,80,11,2015-12-19,Colorado,,Hampton,REG (Non-Conf),W 95-53,*,23,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,1,5,6,4,0,1,0,0,5,5.2,H,1,1,josh-fortune-1,Josh Fortune,2016
+12,81,12,2015-12-22,Colorado,N,Penn State,REG (Non-Conf),W 71-70,*,27,3,6,0.5,3,4,0.75,0,2,0.0,0.75,4,4,1.0,0,1,1,3,0,0,3,3,13,8.2,N,1,1,josh-fortune-1,Josh Fortune,2016
+13,82,13,2015-12-23,Colorado,N,SMU,REG (Non-Conf),L 66-70,,22,5,11,0.455,4,7,0.571,1,4,0.25,0.636,1,2,0.5,0,1,1,1,1,0,4,4,15,5.3,N,0,1,josh-fortune-1,Josh Fortune,2016
+14,83,14,2016-01-01,Colorado,@,California,REG (Conf),L 65-79,*,16,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,3,1,4,2,0,0,2,4,3,-0.6,A,0,1,josh-fortune-1,Josh Fortune,2016
+15,84,15,2016-01-03,Colorado,@,Stanford,REG (Conf),W 56-55,*,24,3,6,0.5,3,5,0.6,0,1,0.0,0.75,1,2,0.5,0,4,4,2,0,0,6,2,10,2.4,A,1,1,josh-fortune-1,Josh Fortune,2016
+16,85,16,2016-01-08,Colorado,,Utah,REG (Conf),L 54-56,,27,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,1,0.0,0,2,2,1,2,0,2,1,4,1.1,H,0,1,josh-fortune-1,Josh Fortune,2016
+17,86,17,2016-01-13,Colorado,,Oregon State,REG (Conf),W 71-54,*,25,4,9,0.444,2,3,0.667,2,6,0.333,0.556,2,3,0.667,0,6,6,1,3,0,4,2,12,7.6,H,1,1,josh-fortune-1,Josh Fortune,2016
+18,87,18,2016-01-17,Colorado,,Oregon,REG (Conf),W 91-87,*,16,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,0,3,3,0,0,0,3,1,7,0.8,H,1,1,josh-fortune-1,Josh Fortune,2016
+19,88,19,2016-01-20,Colorado,@,Washington,REG (Conf),L 83-95,,20,3,9,0.333,1,4,0.25,2,5,0.4,0.389,1,2,0.5,0,3,3,2,0,0,2,1,8,2.4,A,0,1,josh-fortune-1,Josh Fortune,2016
+20,89,20,2016-01-23,Colorado,@,Washington State,REG (Conf),W 75-70,*,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,4,0.75,0,6,6,3,0,0,0,3,7,6.6,A,1,1,josh-fortune-1,Josh Fortune,2016
+21,90,21,2016-01-27,Colorado,,Stanford,REG (Conf),W 91-75,*,25,6,9,0.667,5,7,0.714,1,2,0.5,0.944,4,4,1.0,0,3,3,4,0,0,3,2,21,17.0,H,1,1,josh-fortune-1,Josh Fortune,2016
+22,91,22,2016-01-31,Colorado,,California,REG (Conf),W 70-62,,14,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,3,0.333,1,2,3,1,0,0,1,2,8,4.4,H,1,1,josh-fortune-1,Josh Fortune,2016
+23,92,23,2016-02-04,Colorado,@,Oregon,REG (Conf),L 56-76,*,16,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,5,6,1,0,0,5,3,5,-1.7,A,0,1,josh-fortune-1,Josh Fortune,2016
+24,93,24,2016-02-06,Colorado,@,Oregon State,REG (Conf),L 56-60,,22,1,8,0.125,0,3,0.0,1,5,0.2,0.125,1,2,0.5,0,4,4,1,0,0,3,2,3,-4.5,A,0,1,josh-fortune-1,Josh Fortune,2016
+25,94,25,2016-02-11,Colorado,,Washington State,REG (Conf),W 88-81 (2OT),,32,2,13,0.154,0,5,0.0,2,8,0.25,0.154,7,9,0.778,1,0,1,4,2,0,2,1,11,5.0,H,1,1,josh-fortune-1,Josh Fortune,2016
+26,95,26,2016-02-13,Colorado,,Washington,REG (Conf),W 81-80,,30,6,17,0.353,1,5,0.2,5,12,0.417,0.382,0,0,,1,8,9,1,1,0,7,1,13,0.9,H,1,1,josh-fortune-1,Josh Fortune,2016
+27,96,27,2016-02-17,Colorado,@,Southern California,REG (Conf),L 72-79,,21,3,11,0.273,1,3,0.333,2,8,0.25,0.318,3,4,0.75,0,4,4,2,0,0,2,1,10,3.3,A,0,1,josh-fortune-1,Josh Fortune,2016
+28,97,28,2016-02-20,Colorado,@,UCLA,REG (Conf),L 53-77,*,14,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,0,2,2,0,1,0,0,0,10,8.3,A,0,1,josh-fortune-1,Josh Fortune,2016
+29,98,29,2016-02-24,Colorado,,Arizona,REG (Conf),W 75-72,,25,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,3,0.667,0,1,1,1,1,0,1,1,13,9.6,H,1,1,josh-fortune-1,Josh Fortune,2016
+30,99,30,2016-02-28,Colorado,,Arizona State,REG (Conf),W 79-69,,23,6,8,0.75,3,5,0.6,3,3,1.0,0.938,2,3,0.667,1,1,2,4,3,0,0,1,17,19.8,H,1,1,josh-fortune-1,Josh Fortune,2016
+31,100,31,2016-03-05,Colorado,@,Utah,REG (Conf),L 55-57,,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,1,1.0,1,0,1,0,0,1,2,1,5,0.6,A,0,1,josh-fortune-1,Josh Fortune,2016
+32,101,32,2016-03-09,Colorado,N,Washington State,CTOURN,W 80-56,,22,5,13,0.385,3,8,0.375,2,5,0.4,0.5,0,0,,0,2,2,1,0,0,0,2,13,6.4,N,1,0,josh-fortune-1,Josh Fortune,2016
+33,102,33,2016-03-10,Colorado,N,Arizona,CTOURN,L 78-82,,25,4,15,0.267,2,9,0.222,2,6,0.333,0.333,0,0,,2,6,8,1,3,2,0,5,10,7.4,N,0,0,josh-fortune-1,Josh Fortune,2016
+34,103,34,2016-03-17,Colorado,N,Connecticut,ROUND-64,L 67-74,,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,3,3,1,2,0,5,1,7,2.5,N,0,0,josh-fortune-1,Josh Fortune,2016

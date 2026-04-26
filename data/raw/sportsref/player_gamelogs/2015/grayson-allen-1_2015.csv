@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Duke,,Presbyterian,REG (Non-Conf),W 113-44,,18,5,7,0.714,2,3,0.667,3,4,0.75,0.857,6,7,0.857,0,1,1,3,3,1,1,1,18,19.4,H,1,1,grayson-allen-1,Grayson Allen,2015
+2,2,2,2014-11-15,Duke,,Fairfield,REG (Non-Conf),W 109-59,,13,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,1,1,1,2,0,1,5,9,6.7,H,1,1,grayson-allen-1,Grayson Allen,2015
+3,3,3,2014-11-18,Duke,N,Michigan State,REG (Non-Conf),W 81-71,,1,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,1,grayson-allen-1,Grayson Allen,2015
+4,4,4,2014-11-21,Duke,N,Temple,REG (Non-Conf),W 74-54,,6,1,1,1.0,1,1,1.0,0,0,,1.5,3,4,0.75,0,0,0,0,0,0,0,0,6,5.3,N,1,1,grayson-allen-1,Grayson Allen,2015
+5,5,6,2014-11-26,Duke,,Furman,REG (Non-Conf),W 93-54,,13,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,2,1,3,1,0,1,1,3,5,1.8,H,1,1,grayson-allen-1,Grayson Allen,2015
+6,6,7,2014-11-30,Duke,,Army,REG (Non-Conf),W 93-73,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.8,H,1,1,grayson-allen-1,Grayson Allen,2015
+7,7,9,2014-12-15,Duke,,Elon,REG (Non-Conf),W 75-62,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,1,0,0,0.3,H,1,1,grayson-allen-1,Grayson Allen,2015
+8,8,10,2014-12-18,Duke,N,Connecticut,REG (Non-Conf),W 66-56,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,grayson-allen-1,Grayson Allen,2015
+9,9,11,2014-12-29,Duke,,Toledo,REG (Non-Conf),W 86-69,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,grayson-allen-1,Grayson Allen,2015
+10,10,12,2014-12-31,Duke,,Wofford,REG (Non-Conf),W 84-55,,4,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,H,1,1,grayson-allen-1,Grayson Allen,2015
+11,11,13,2015-01-03,Duke,,Boston College,REG (Conf),W 85-62,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,H,1,1,grayson-allen-1,Grayson Allen,2015
+12,12,14,2015-01-07,Duke,@,Wake Forest,REG (Conf),W 73-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,grayson-allen-1,Grayson Allen,2015
+13,13,15,2015-01-11,Duke,@,NC State,REG (Conf),L 75-87,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,grayson-allen-1,Grayson Allen,2015
+14,14,16,2015-01-13,Duke,,Miami (FL),REG (Conf),L 74-90,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,0,1,0,0,0,1,0,4,2.7,H,0,1,grayson-allen-1,Grayson Allen,2015
+15,15,18,2015-01-19,Duke,,Pittsburgh,REG (Conf),W 79-65,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,grayson-allen-1,Grayson Allen,2015
+16,16,19,2015-01-25,Duke,@,St. John's (NY),REG (Non-Conf),W 77-68,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,0,0,-0.7,A,1,1,grayson-allen-1,Grayson Allen,2015
+17,17,21,2015-01-31,Duke,@,Virginia,REG (Conf),W 69-63,,11,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,0,0,1,2,1,-1.9,A,1,1,grayson-allen-1,Grayson Allen,2015
+18,18,22,2015-02-04,Duke,,Georgia Tech,REG (Conf),W 72-66,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,H,1,1,grayson-allen-1,Grayson Allen,2015
+19,19,23,2015-02-07,Duke,,Notre Dame,REG (Conf),W 90-60,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,2,2,1,0,1,0,0,5,5.3,H,1,1,grayson-allen-1,Grayson Allen,2015
+20,20,24,2015-02-09,Duke,@,Florida State,REG (Conf),W 73-70,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,0,0,0,0,1,2,-0.8,A,1,1,grayson-allen-1,Grayson Allen,2015
+21,21,25,2015-02-14,Duke,@,Syracuse,REG (Conf),W 80-72,,8,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,0,1,1,2,1,0,0,1,5,6.3,A,1,1,grayson-allen-1,Grayson Allen,2015
+22,22,26,2015-02-18,Duke,,North Carolina,REG (Conf),W 92-90 (OT),,4,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,0.6,H,1,1,grayson-allen-1,Grayson Allen,2015
+23,23,27,2015-02-21,Duke,,Clemson,REG (Conf),W 78-56,,18,3,5,0.6,1,3,0.333,2,2,1.0,0.7,3,3,1.0,0,2,2,1,0,0,1,3,10,6.8,H,1,1,grayson-allen-1,Grayson Allen,2015
+24,24,28,2015-02-25,Duke,@,Virginia Tech,REG (Conf),W 91-86 (OT),,7,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,0,0,0,0,0,0,1,4,2.2,A,1,1,grayson-allen-1,Grayson Allen,2015
+25,25,29,2015-02-28,Duke,,Syracuse,REG (Conf),W 73-54,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,1,1,0,-0.4,H,1,1,grayson-allen-1,Grayson Allen,2015
+26,26,30,2015-03-04,Duke,,Wake Forest,REG (Conf),W 94-51,,24,9,11,0.818,4,5,0.8,5,6,0.833,1.0,5,6,0.833,2,2,4,0,0,0,0,3,27,23.3,H,1,1,grayson-allen-1,Grayson Allen,2015
+27,27,31,2015-03-07,Duke,@,North Carolina,REG (Conf),W 84-77,,11,1,6,0.167,1,4,0.25,0,2,0.0,0.25,4,4,1.0,0,2,2,0,0,0,0,1,7,3.4,A,1,1,grayson-allen-1,Grayson Allen,2015
+28,28,32,2015-03-12,Duke,N,NC State,CTOURN,W 77-53,,21,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,1,2,3,3,0,2,1,5,11,7.8,N,1,0,grayson-allen-1,Grayson Allen,2015
+29,29,33,2015-03-13,Duke,N,Notre Dame,CTOURN,L 64-74,,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,2,4,0,-4.4,N,0,0,grayson-allen-1,Grayson Allen,2015
+30,30,34,2015-03-20,Duke,N,Robert Morris,ROUND-64,W 85-56,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,1,1,-1.9,N,1,0,grayson-allen-1,Grayson Allen,2015
+31,31,35,2015-03-22,Duke,N,San Diego State,ROUND-32,W 68-49,,9,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,0,0,0,4,5,3.1,N,1,0,grayson-allen-1,Grayson Allen,2015
+32,32,36,2015-03-27,Duke,N,Utah,ROUND-16,W 63-57,,9,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,0,0,0,0,0,0,0,3,0.2,N,1,0,grayson-allen-1,Grayson Allen,2015
+33,33,37,2015-03-29,Duke,N,Gonzaga,ROUND-8,W 66-52,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,grayson-allen-1,Grayson Allen,2015
+34,34,38,2015-04-04,Duke,N,Michigan State,NATIONAL-SEMI,W 81-61,,17,2,6,0.333,0,2,0.0,2,4,0.5,0.333,5,6,0.833,1,4,5,0,0,0,1,3,9,4.9,N,1,0,grayson-allen-1,Grayson Allen,2015
+35,35,39,2015-04-06,Duke,N,Wisconsin,NATIONAL-FINAL,W 68-63,,21,5,8,0.625,1,2,0.5,4,6,0.667,0.688,5,5,1.0,0,2,2,0,1,0,0,0,16,14.0,N,1,0,grayson-allen-1,Grayson Allen,2015

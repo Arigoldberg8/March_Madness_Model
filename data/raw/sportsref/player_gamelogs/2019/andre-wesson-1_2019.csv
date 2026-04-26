@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2018-11-07,Ohio State,@,Cincinnati,REG (Non-Conf),W 64-56,*,17,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,2,2,0,0,0,2,4,6,1.7,A,1,1,andre-wesson-1,Andre Wesson,2019
+2,65,2,2018-11-11,Ohio State,,Purdue Fort Wayne,REG (Non-Conf),W 107-61,*,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,2,0,0,3,4,2,-3.3,H,1,1,andre-wesson-1,Andre Wesson,2019
+3,66,3,2018-11-15,Ohio State,@,Creighton,REG (Non-Conf),W 69-60,*,32,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,2,1.0,0,4,4,1,0,0,0,1,8,6.1,A,1,1,andre-wesson-1,Andre Wesson,2019
+4,67,4,2018-11-18,Ohio State,,South Carolina State,REG (Non-Conf),W 89-61,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,3,5,0.6,1,5,6,1,0,0,1,2,11,9.4,H,1,1,andre-wesson-1,Andre Wesson,2019
+5,68,5,2018-11-20,Ohio State,,Samford,REG (Non-Conf),W 68-50,,31,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,2,0.0,0,5,5,3,0,1,3,2,7,4.4,H,1,1,andre-wesson-1,Andre Wesson,2019
+6,69,6,2018-11-23,Ohio State,,Cleveland State,REG (Non-Conf),W 89-62,*,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,0,3,3,2,0,1,2,1,11,8.3,H,1,1,andre-wesson-1,Andre Wesson,2019
+7,70,7,2018-11-28,Ohio State,,Syracuse,REG (Non-Conf),L 62-72,*,36,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,4,4,2,0,1,3,4,4,-1.4,H,0,1,andre-wesson-1,Andre Wesson,2019
+8,71,8,2018-12-02,Ohio State,,Minnesota,REG (Conf),W 79-59,*,34,6,10,0.6,2,5,0.4,4,5,0.8,0.7,2,2,1.0,0,4,4,2,0,0,1,2,16,12.2,H,1,1,andre-wesson-1,Andre Wesson,2019
+9,72,9,2018-12-05,Ohio State,N,Illinois,REG (Conf),W 77-67,*,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,1,2,3,1,1,0,1,4,4,3.0,N,1,1,andre-wesson-1,Andre Wesson,2019
+10,73,10,2018-12-15,Ohio State,,Bucknell,REG (Non-Conf),W 73-71,*,29,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,4,5,9,2,0,0,3,4,4,0.3,H,1,1,andre-wesson-1,Andre Wesson,2019
+11,74,11,2018-12-18,Ohio State,,Youngstown State,REG (Non-Conf),W 75-56,*,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,3,5,0,0,1,1,1,4,2.2,H,1,1,andre-wesson-1,Andre Wesson,2019
+12,75,12,2018-12-22,Ohio State,N,UCLA,REG (Non-Conf),W 80-66,*,34,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,6,0.667,0,2,2,3,1,5,1,2,9,11.6,N,1,1,andre-wesson-1,Andre Wesson,2019
+13,76,13,2018-12-29,Ohio State,,High Point,REG (Non-Conf),W 82-64,*,31,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,4,0.75,5,4,9,4,0,0,1,2,10,12.3,H,1,1,andre-wesson-1,Andre Wesson,2019
+14,77,14,2019-01-05,Ohio State,,Michigan State,REG (Conf),L 77-86,*,29,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,1,3,4,1,1,0,1,5,10,6.6,H,0,1,andre-wesson-1,Andre Wesson,2019
+15,78,15,2019-01-09,Ohio State,@,Rutgers,REG (Conf),L 61-64,*,36,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,4,0.5,2,4,6,2,1,0,4,1,4,0.7,A,0,1,andre-wesson-1,Andre Wesson,2019
+16,79,16,2019-01-12,Ohio State,@,Iowa,REG (Conf),L 62-72,*,19,4,7,0.571,2,3,0.667,2,4,0.5,0.714,3,4,0.75,3,0,3,4,1,1,1,4,13,13.3,A,0,1,andre-wesson-1,Andre Wesson,2019
+17,80,17,2019-01-18,Ohio State,,Maryland,REG (Conf),L 61-75,*,30,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,2,1,3,0,0,0,1,4,7,2.0,H,0,1,andre-wesson-1,Andre Wesson,2019
+18,81,18,2019-01-23,Ohio State,,Purdue,REG (Conf),L 67-79,*,37,9,10,0.9,4,5,0.8,5,5,1.0,1.1,0,1,0.0,1,2,3,0,1,0,1,4,22,17.9,H,0,1,andre-wesson-1,Andre Wesson,2019
+19,82,19,2019-01-26,Ohio State,@,Nebraska,REG (Conf),W 70-60,*,31,4,9,0.444,1,5,0.2,3,4,0.75,0.5,1,1,1.0,2,1,3,0,0,0,0,2,10,6.2,A,1,1,andre-wesson-1,Andre Wesson,2019
+20,83,20,2019-01-29,Ohio State,@,Michigan,REG (Conf),L 49-65,*,29,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,3,1.0,1,1,2,1,0,1,2,4,8,4.1,A,0,1,andre-wesson-1,Andre Wesson,2019
+21,84,21,2019-02-02,Ohio State,,Rutgers,REG (Conf),W 76-62,*,26,1,6,0.167,0,3,0.0,1,3,0.333,0.167,3,4,0.75,0,3,3,2,0,0,0,5,5,1.1,H,1,1,andre-wesson-1,Andre Wesson,2019
+22,85,22,2019-02-07,Ohio State,,Penn State,REG (Conf),W 74-70,*,35,4,7,0.571,1,2,0.5,3,5,0.6,0.643,6,8,0.75,2,8,10,2,1,1,3,2,15,14.0,H,1,1,andre-wesson-1,Andre Wesson,2019
+23,86,23,2019-02-10,Ohio State,@,Indiana,REG (Conf),W 55-52,*,27,7,11,0.636,1,4,0.25,6,7,0.857,0.682,0,0,,1,3,4,0,2,0,3,3,15,9.5,A,1,1,andre-wesson-1,Andre Wesson,2019
+24,87,24,2019-02-14,Ohio State,,Illinois,REG (Conf),L 56-63,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,5,0.8,2,3,5,1,1,0,3,2,10,6.1,H,0,1,andre-wesson-1,Andre Wesson,2019
+25,88,25,2019-02-17,Ohio State,@,Michigan State,REG (Conf),L 44-62,*,29,2,10,0.2,0,2,0.0,2,8,0.25,0.2,0,0,,2,6,8,4,3,0,3,2,4,3.0,A,0,1,andre-wesson-1,Andre Wesson,2019
+26,89,26,2019-02-20,Ohio State,,Northwestern,REG (Conf),W 63-49,*,31,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,0,5,5,1,0,0,2,1,7,3.4,H,1,1,andre-wesson-1,Andre Wesson,2019
+27,90,27,2019-02-23,Ohio State,@,Maryland,REG (Conf),L 62-72,*,37,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,0,,1,1,2,4,1,0,1,3,13,11.3,A,0,1,andre-wesson-1,Andre Wesson,2019
+28,91,28,2019-02-26,Ohio State,,Iowa,REG (Conf),W 90-70,*,40,4,9,0.444,2,6,0.333,2,3,0.667,0.556,1,1,1.0,4,1,5,3,0,2,0,1,11,12.5,H,1,1,andre-wesson-1,Andre Wesson,2019
+29,92,29,2019-03-02,Ohio State,@,Purdue,REG (Conf),L 51-86,*,26,2,8,0.25,1,4,0.25,1,4,0.25,0.313,1,2,0.5,1,1,2,3,0,0,1,4,6,1.3,A,0,1,andre-wesson-1,Andre Wesson,2019
+30,93,30,2019-03-06,Ohio State,@,Northwestern,REG (Conf),L 50-68,*,30,0,8,0.0,0,6,0.0,0,2,0.0,0.0,2,3,0.667,1,0,1,2,0,0,1,4,2,-4.5,A,0,1,andre-wesson-1,Andre Wesson,2019
+31,94,31,2019-03-10,Ohio State,,Wisconsin,REG (Conf),L 67-73 (OT),*,23,2,9,0.222,1,3,0.333,1,6,0.167,0.278,0,0,,2,1,3,0,0,0,2,5,5,-2.8,H,0,1,andre-wesson-1,Andre Wesson,2019
+32,95,32,2019-03-14,Ohio State,N,Indiana,CTOURN,W 79-75,*,38,3,5,0.6,2,3,0.667,1,2,0.5,0.8,5,6,0.833,0,0,0,1,3,0,4,4,13,8.4,N,1,0,andre-wesson-1,Andre Wesson,2019
+33,96,33,2019-03-15,Ohio State,N,Michigan State,CTOURN,L 70-77,*,35,5,8,0.625,4,5,0.8,1,3,0.333,0.875,0,0,,1,2,3,3,0,0,3,2,14,10.0,N,0,0,andre-wesson-1,Andre Wesson,2019
+34,97,34,2019-03-22,Ohio State,N,Iowa State,ROUND-64,W 62-59,*,39,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,4,0.75,3,2,5,3,1,1,2,2,5,3.8,N,1,0,andre-wesson-1,Andre Wesson,2019
+35,98,35,2019-03-24,Ohio State,N,Houston,ROUND-32,L 59-74,*,38,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,5,5,2,2,0,2,4,5,4.3,N,0,0,andre-wesson-1,Andre Wesson,2019

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,116,1,2022-11-07,Gonzaga,,North Florida,REG (Non-Conf),W 104-63,*,21,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,2,2,3,0,0,2,3,11,8.6,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+2,117,2,2022-11-11,Gonzaga,N,Michigan State,REG (Non-Conf),W 64-63,*,26,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,2,1.0,0,1,1,0,1,0,1,2,7,2.4,N,1,1,rasir-bolton-1,Rasir Bolton,2023
+3,118,3,2022-11-16,Gonzaga,@,Texas,REG (Non-Conf),L 74-93,*,30,3,9,0.333,1,3,0.333,2,6,0.333,0.389,4,4,1.0,1,2,3,2,0,0,0,2,11,7.8,A,0,1,rasir-bolton-1,Rasir Bolton,2023
+4,119,4,2022-11-20,Gonzaga,,Kentucky,REG (Non-Conf),W 88-72,*,31,8,14,0.571,4,8,0.5,4,6,0.667,0.714,4,4,1.0,1,0,1,0,0,0,2,1,24,15.7,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+5,120,5,2022-11-25,Gonzaga,N,Portland State,REG (Non-Conf),W 102-78,*,30,5,9,0.556,2,5,0.4,3,4,0.75,0.667,2,2,1.0,0,0,0,8,0,1,0,1,14,15.6,N,1,1,rasir-bolton-1,Rasir Bolton,2023
+6,121,5,2022-11-25,Gonzaga,N,Purdue,REG (Non-Conf),L 66-84,*,32,4,12,0.333,2,4,0.5,2,8,0.25,0.417,1,1,1.0,0,0,0,3,0,0,2,2,11,3.5,N,0,1,rasir-bolton-1,Rasir Bolton,2023
+7,122,7,2022-11-27,Gonzaga,N,Xavier,REG (Non-Conf),W 88-84,*,38,4,10,0.4,1,2,0.5,3,8,0.375,0.45,4,5,0.8,0,0,0,6,2,0,1,2,13,11.6,N,1,1,rasir-bolton-1,Rasir Bolton,2023
+8,123,8,2022-12-02,Gonzaga,N,Baylor,REG (Non-Conf),L 63-64,*,26,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,2,2,1,0,0,6,1,8,-0.8,N,0,1,rasir-bolton-1,Rasir Bolton,2023
+9,124,9,2022-12-05,Gonzaga,,Kent State,REG (Non-Conf),W 73-66,*,25,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,0,0,0,2,0,0,1,1,6,4.3,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+10,125,10,2022-12-09,Gonzaga,,Washington,REG (Non-Conf),W 77-60,*,26,2,9,0.222,1,5,0.2,1,4,0.25,0.278,3,4,0.75,1,3,4,6,3,0,1,3,8,8.7,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+11,126,11,2022-12-12,Gonzaga,,Northern Illinois,REG (Non-Conf),W 88-67,*,21,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,5,0.6,0,3,3,1,1,1,0,2,5,2.2,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+12,127,12,2022-12-17,Gonzaga,N,Alabama,REG (Non-Conf),W 100-90,*,34,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,2,1.0,0,0,0,2,1,0,1,3,11,5.1,N,1,1,rasir-bolton-1,Rasir Bolton,2023
+13,128,13,2022-12-20,Gonzaga,,Montana,REG (Non-Conf),W 85-75,*,16,0,3,0.0,0,1,0.0,0,2,0.0,0.0,5,6,0.833,1,0,1,1,0,0,1,4,5,1.3,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+14,129,14,2022-12-28,Gonzaga,,Eastern Ore.,REG (Non-Conf),W 120-42,*,19,4,7,0.571,1,4,0.25,3,3,1.0,0.643,5,5,1.0,0,2,2,1,2,0,1,1,14,12.6,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+15,130,15,2022-12-31,Gonzaga,,Pepperdine,REG (Conf),W 111-88,*,31,6,11,0.545,2,5,0.4,4,6,0.667,0.636,0,0,,0,2,2,5,0,0,1,2,14,11.0,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+16,131,16,2023-01-05,Gonzaga,@,San Francisco,REG (Conf),W 77-75,*,25,8,12,0.667,5,7,0.714,3,5,0.6,0.875,0,1,0.0,1,2,3,2,1,0,0,3,21,17.9,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+17,132,17,2023-01-07,Gonzaga,@,Santa Clara,REG (Conf),W 81-76,*,40,4,13,0.308,1,4,0.25,3,9,0.333,0.346,0,0,,1,5,6,3,1,0,2,2,9,4.0,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+18,133,18,2023-01-12,Gonzaga,@,Brigham Young,REG (Conf),W 75-74,*,25,0,7,0.0,0,1,0.0,0,6,0.0,0.0,2,2,1.0,0,1,1,5,1,0,3,2,2,-1.9,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+19,134,19,2023-01-14,Gonzaga,,Portland,REG (Conf),W 115-75,*,27,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,2,3,3,3,0,1,1,8,8.6,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+20,135,20,2023-01-19,Gonzaga,,Loyola Marymount,REG (Conf),L 67-68,*,21,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,0,1,1,1,1,0,2,3,10,4.1,H,0,1,rasir-bolton-1,Rasir Bolton,2023
+21,136,21,2023-01-21,Gonzaga,@,Pacific,REG (Conf),W 99-90,*,26,6,9,0.667,1,3,0.333,5,6,0.833,0.722,3,4,0.75,0,2,2,1,0,0,1,1,16,11.6,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+22,137,22,2023-01-28,Gonzaga,@,Portland,REG (Conf),W 82-67,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,0,3,3,1,1,0,2,3,4,0.3,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+23,138,23,2023-02-02,Gonzaga,,Santa Clara,REG (Conf),W 88-70,*,30,6,11,0.545,3,5,0.6,3,6,0.5,0.682,1,2,0.5,0,3,3,3,1,1,1,1,16,13.6,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+24,139,24,2023-02-04,Gonzaga,@,St. Mary's (CA),REG (Conf),L 70-78 (OT),*,26,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,0,1,1,0,2,0,0,5,4,1.9,A,0,1,rasir-bolton-1,Rasir Bolton,2023
+25,140,25,2023-02-09,Gonzaga,,San Francisco,REG (Conf),W 99-81,*,36,8,9,0.889,3,4,0.75,5,5,1.0,1.056,4,4,1.0,0,1,1,6,1,0,1,1,23,24.0,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+26,141,26,2023-02-11,Gonzaga,,Brigham Young,REG (Conf),W 88-81,*,29,3,9,0.333,1,4,0.25,2,5,0.4,0.389,6,6,1.0,0,2,2,1,1,0,0,2,13,9.4,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+27,142,27,2023-02-16,Gonzaga,@,Loyola Marymount,REG (Conf),W 108-65,*,23,6,9,0.667,0,2,0.0,6,7,0.857,0.667,0,0,,0,2,2,1,2,0,0,2,12,10.6,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+28,143,28,2023-02-18,Gonzaga,@,Pepperdine,REG (Conf),W 97-88,*,30,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,3,0.667,0,1,1,1,0,0,1,1,12,8.6,A,1,1,rasir-bolton-1,Rasir Bolton,2023
+29,144,29,2023-02-23,Gonzaga,,San Diego,REG (Conf),W 97-72,*,23,3,9,0.333,0,6,0.0,3,3,1.0,0.333,1,3,0.333,0,4,4,7,1,0,1,0,7,7.2,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+30,145,30,2023-02-25,Gonzaga,,St. Mary's (CA),REG (Conf),W 77-68,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,0,0,2,0,0,1,2,3,1.2,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+31,146,31,2023-03-01,Gonzaga,,Chicago State,REG (Non-Conf),W 104-65,*,24,5,10,0.5,4,7,0.571,1,3,0.333,0.7,1,2,0.5,0,1,1,2,1,0,0,1,15,11.9,H,1,1,rasir-bolton-1,Rasir Bolton,2023
+32,147,32,2023-03-06,Gonzaga,N,San Francisco,CTOURN,W 84-73,*,27,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,6,6,3,0,0,0,0,6,5.8,N,1,0,rasir-bolton-1,Rasir Bolton,2023
+33,148,33,2023-03-07,Gonzaga,N,St. Mary's (CA),CTOURN,W 77-51,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,3,0,1,0,1,0,1.9,N,1,0,rasir-bolton-1,Rasir Bolton,2023
+34,149,34,2023-03-17,Gonzaga,N,Grand Canyon,ROUND-64,W 82-70,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,1,1,2,2,0,3,0,6,3.6,N,1,0,rasir-bolton-1,Rasir Bolton,2023
+35,150,35,2023-03-19,Gonzaga,N,TCU,ROUND-32,W 84-81,*,28,5,12,0.417,2,7,0.286,3,5,0.6,0.5,5,7,0.714,0,1,1,3,1,0,1,4,17,10.6,N,1,0,rasir-bolton-1,Rasir Bolton,2023
+36,151,36,2023-03-23,Gonzaga,N,UCLA,ROUND-16,W 79-76,*,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,2,0,0,0,1,0,1.2,N,1,0,rasir-bolton-1,Rasir Bolton,2023
+37,152,37,2023-03-25,Gonzaga,N,Connecticut,ROUND-8,L 54-82,*,20,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,2,0.5,0,2,2,1,0,0,0,1,6,2.4,N,0,0,rasir-bolton-1,Rasir Bolton,2023

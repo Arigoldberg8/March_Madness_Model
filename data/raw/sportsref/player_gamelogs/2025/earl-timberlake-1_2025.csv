@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2024-11-04,Bryant,,Dean,REG (Non-Conf),W 105-63,*,29,6,12,0.5,0,0,,6,12,0.5,0.5,2,2,1.0,4,6,10,8,1,1,1,0,14,18.9,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+2,96,2,2024-11-08,Bryant,,Siena,REG (Non-Conf),L 88-90 (OT),*,34,3,9,0.333,0,0,,3,9,0.333,0.333,5,5,1.0,7,4,11,3,2,0,5,4,11,9.5,H,0,1,earl-timberlake-1,Earl Timberlake,2025
+3,97,3,2024-11-14,Bryant,@,Buffalo,REG (Non-Conf),W 87-64,*,31,4,11,0.364,0,1,0.0,4,10,0.4,0.364,5,6,0.833,0,8,8,8,2,0,2,4,13,12.9,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+4,98,4,2024-11-18,Bryant,@,Delaware,REG (Non-Conf),W 85-84,*,38,6,13,0.462,0,0,,6,13,0.462,0.462,2,5,0.4,1,5,6,6,1,1,3,3,14,10.0,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+5,99,5,2024-11-21,Bryant,@,Stonehill,REG (Non-Conf),L 66-67,*,33,5,14,0.357,0,1,0.0,5,13,0.385,0.357,4,7,0.571,2,4,6,2,0,3,2,3,14,7.9,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+6,100,6,2024-11-24,Bryant,@,St. Bonaventure,REG (Non-Conf),L 70-85,*,40,6,14,0.429,0,0,,6,14,0.429,0.429,5,6,0.833,3,4,7,3,0,1,3,1,17,11.9,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+7,101,7,2024-11-26,Bryant,N,Tennessee State,REG (Non-Conf),W 97-85,*,34,3,8,0.375,0,0,,3,8,0.375,0.375,3,4,0.75,2,3,5,5,0,0,2,5,9,6.0,N,1,1,earl-timberlake-1,Earl Timberlake,2025
+8,102,8,2024-11-27,Bryant,@,Chattanooga,REG (Non-Conf),L 76-84,*,38,6,14,0.429,1,1,1.0,5,13,0.385,0.464,5,9,0.556,2,4,6,6,1,1,1,4,18,14.9,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+9,103,9,2024-12-02,Bryant,@,Drexel,REG (Non-Conf),W 78-73,*,38,9,16,0.563,0,1,0.0,9,15,0.6,0.563,5,9,0.556,4,8,12,4,0,1,1,2,23,20.7,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+10,104,10,2024-12-06,Bryant,,Brown,REG (Non-Conf),L 75-76,*,38,7,12,0.583,0,1,0.0,7,11,0.636,0.583,5,7,0.714,1,5,6,2,0,2,3,1,19,14.2,H,0,1,earl-timberlake-1,Earl Timberlake,2025
+11,105,13,2024-12-14,Bryant,N,Fordham,REG (Non-Conf),L 84-86,*,40,7,15,0.467,0,2,0.0,7,13,0.538,0.467,7,10,0.7,5,5,10,8,2,0,4,2,21,19.9,N,0,1,earl-timberlake-1,Earl Timberlake,2025
+12,106,14,2024-12-22,Bryant,@,Towson,REG (Non-Conf),L 65-70,*,40,10,21,0.476,1,3,0.333,9,18,0.5,0.5,2,2,1.0,3,4,7,4,0,1,3,1,23,15.7,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+13,107,15,2024-12-30,Bryant,@,Grand Canyon,REG (Non-Conf),L 66-112,*,33,5,9,0.556,0,0,,5,9,0.556,0.556,6,8,0.75,1,3,4,1,1,3,4,3,16,11.1,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+14,108,16,2025-01-04,Bryant,,Maine,REG (Conf),W 81-55,*,35,7,14,0.5,4,6,0.667,3,8,0.375,0.643,0,0,,3,10,13,2,0,1,6,3,18,11.0,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+15,109,17,2025-01-11,Bryant,,Vermont,REG (Conf),W 73-53,*,36,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,3,3,6,4,4,1,1,4,12,14.9,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+16,110,18,2025-01-16,Bryant,@,Albany (NY),REG (Conf),W 89-79,*,36,7,9,0.778,0,0,,7,9,0.778,0.778,7,8,0.875,3,6,9,8,1,4,5,3,21,24.2,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+17,111,19,2025-01-18,Bryant,,UMass Lowell,REG (Conf),W 85-62,*,34,6,9,0.667,0,0,,6,9,0.667,0.667,2,3,0.667,4,14,18,5,2,4,2,2,14,22.2,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+18,112,20,2025-01-23,Bryant,@,New Hampshire,REG (Conf),W 95-76,*,36,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,2,1.0,1,3,4,5,0,3,2,1,8,7.7,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+19,113,21,2025-01-25,Bryant,,Binghamton,REG (Conf),W 83-69,*,37,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,3,9,12,6,1,3,1,3,10,14.4,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+20,114,22,2025-01-30,Bryant,@,UMBC,REG (Conf),W 92-86,*,40,7,15,0.467,1,1,1.0,6,14,0.429,0.5,1,3,0.333,6,6,12,5,1,2,1,4,16,16.8,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+21,115,23,2025-02-01,Bryant,@,NJIT,REG (Conf),W 92-70,*,32,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,2,1.0,2,10,12,3,0,1,0,2,14,15.1,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+22,116,24,2025-02-06,Bryant,,Albany (NY),REG (Conf),L 63-68,*,40,6,15,0.4,1,2,0.5,5,13,0.385,0.433,0,1,0.0,3,3,6,2,1,5,4,2,13,8.6,H,0,1,earl-timberlake-1,Earl Timberlake,2025
+23,117,25,2025-02-08,Bryant,@,Binghamton,REG (Conf),W 78-71,*,39,4,12,0.333,0,1,0.0,4,11,0.364,0.333,5,6,0.833,0,9,9,7,0,2,1,4,13,12.2,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+24,118,26,2025-02-13,Bryant,,NJIT,REG (Conf),W 88-66,*,32,10,11,0.909,0,0,,10,11,0.909,0.909,1,4,0.25,1,9,10,3,1,2,0,2,21,23.2,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+25,119,27,2025-02-15,Bryant,,UMBC,REG (Conf),W 81-79,*,37,6,13,0.462,0,0,,6,13,0.462,0.462,8,8,1.0,3,8,11,6,1,1,2,0,20,21.7,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+26,120,28,2025-02-20,Bryant,@,Vermont,REG (Conf),L 55-59,*,36,3,9,0.333,0,0,,3,9,0.333,0.333,2,4,0.5,1,7,8,3,1,1,3,5,8,3.7,A,0,1,earl-timberlake-1,Earl Timberlake,2025
+27,121,29,2025-02-27,Bryant,@,UMass Lowell,REG (Conf),W 79-78,*,37,5,9,0.556,1,3,0.333,4,6,0.667,0.611,6,7,0.857,0,9,9,7,4,3,2,3,17,22.8,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+28,122,30,2025-03-01,Bryant,@,Maine,REG (Conf),W 80-72,*,34,5,7,0.714,0,0,,5,7,0.714,0.714,5,8,0.625,2,3,5,6,0,2,3,4,15,14.2,A,1,1,earl-timberlake-1,Earl Timberlake,2025
+29,123,31,2025-03-04,Bryant,,New Hampshire,REG (Conf),W 90-56,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,1,6,7,2,0,0,3,4,8,3.3,H,1,1,earl-timberlake-1,Earl Timberlake,2025
+30,124,32,2025-03-08,Bryant,,UMBC,CTOURN,W 85-74,*,38,8,15,0.533,0,0,,8,15,0.533,0.533,2,2,1.0,3,4,7,8,1,2,1,3,18,19.8,H,1,0,earl-timberlake-1,Earl Timberlake,2025
+31,125,33,2025-03-11,Bryant,,Albany (NY),CTOURN,W 91-78,*,36,10,13,0.769,0,0,,10,13,0.769,0.769,1,1,1.0,0,3,3,3,1,4,3,4,21,18.1,H,1,0,earl-timberlake-1,Earl Timberlake,2025
+32,126,34,2025-03-15,Bryant,,Maine,CTOURN,W 79-59,*,37,8,14,0.571,0,0,,8,14,0.571,0.571,1,1,1.0,1,3,4,5,4,2,4,3,17,15.7,H,1,0,earl-timberlake-1,Earl Timberlake,2025
+33,127,35,2025-03-21,Bryant,N,Michigan State,ROUND-64,L 62-87,*,33,6,14,0.429,0,0,,6,14,0.429,0.429,2,4,0.5,1,3,4,5,1,2,2,2,14,10.5,N,0,0,earl-timberlake-1,Earl Timberlake,2025

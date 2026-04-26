@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2016-11-11,South Dakota State,@,California,REG (Non-Conf),L 53-82,*,24,2,5,0.4,2,5,0.4,0,0,,0.6,2,2,1.0,0,1,1,2,0,0,0,0,8,7.0,A,0,1,ian-theisen-1,Ian Theisen,2017
+2,71,2,2016-11-14,South Dakota State,@,UC Irvine,REG (Non-Conf),L 58-73,*,11,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,0,1,0,0,4,0,-2.1,A,0,1,ian-theisen-1,Ian Theisen,2017
+3,72,3,2016-11-16,South Dakota State,,Wayne St. (NE),REG (Non-Conf),W 80-72,,19,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,1,4,5,1,0,0,1,2,4,4.1,H,1,1,ian-theisen-1,Ian Theisen,2017
+4,73,4,2016-11-19,South Dakota State,@,Wyoming,REG (Non-Conf),L 67-77,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,4,0.25,2,4,6,1,0,1,1,2,4,3.3,A,0,1,ian-theisen-1,Ian Theisen,2017
+5,74,5,2016-11-21,South Dakota State,@,Idaho,REG (Non-Conf),L 89-96 (OT),,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,7,7,1,0,0,0,5,2,2.5,A,0,1,ian-theisen-1,Ian Theisen,2017
+6,75,6,2016-11-25,South Dakota State,N,UC Irvine,REG (Non-Conf),L 52-63,*,30,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,3,4,2,0,2,1,2,2,3.9,N,0,1,ian-theisen-1,Ian Theisen,2017
+7,76,7,2016-11-26,South Dakota State,N,East Tennessee State,REG (Non-Conf),L 59-71,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,1,0,0,0,3,0,0.2,N,0,1,ian-theisen-1,Ian Theisen,2017
+8,77,9,2016-11-30,South Dakota State,,Minn.-Crookston,REG (Non-Conf),W 90-58,,14,6,7,0.857,1,1,1.0,5,6,0.833,0.929,3,3,1.0,0,3,3,1,0,0,1,3,16,12.9,H,1,1,ian-theisen-1,Ian Theisen,2017
+9,78,10,2016-12-03,South Dakota State,,Kansas City,REG (Non-Conf),W 77-68,,14,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,0,0,0,0,0,2,1,5,1.2,H,1,1,ian-theisen-1,Ian Theisen,2017
+10,79,11,2016-12-07,South Dakota State,@,Northern Iowa,REG (Non-Conf),L 58-86,,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,1,0,0,1,3,2,0.5,A,0,1,ian-theisen-1,Ian Theisen,2017
+11,80,12,2016-12-10,South Dakota State,,Idaho,REG (Non-Conf),W 80-77,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,1,1,3,3,2,-0.8,H,1,1,ian-theisen-1,Ian Theisen,2017
+12,81,13,2016-12-17,South Dakota State,,Murray State,REG (Non-Conf),W 88-84 (OT),,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,0,2,1.3,H,1,1,ian-theisen-1,Ian Theisen,2017
+13,82,14,2016-12-19,South Dakota State,@,Drake,REG (Non-Conf),W 83-75,,15,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,5,1,6,1,1,0,2,0,8,8.9,A,1,1,ian-theisen-1,Ian Theisen,2017
+14,83,15,2016-12-22,South Dakota State,@,Wichita State,REG (Non-Conf),L 67-89,,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,3,3,1,1,0,0,3,6,5.0,A,0,1,ian-theisen-1,Ian Theisen,2017
+15,84,16,2016-12-28,South Dakota State,,North Dakota State,REG (Conf),L 69-80,,14,0,0,,0,0,,0,0,,,3,5,0.6,3,1,4,0,0,0,1,2,3,2.8,H,0,1,ian-theisen-1,Ian Theisen,2017
+16,85,17,2016-12-31,South Dakota State,,South Dakota,REG (Conf),W 73-72,,15,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,0,1,1,0,0,1,3,1,8,3.6,H,1,1,ian-theisen-1,Ian Theisen,2017
+17,86,18,2017-01-04,South Dakota State,@,Western Illinois,REG (Conf),L 74-82,,24,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,2,3,0,0,0,0,2,8,4.1,A,0,1,ian-theisen-1,Ian Theisen,2017
+18,87,19,2017-01-07,South Dakota State,,Omaha,REG (Conf),L 93-101,,19,6,8,0.75,1,2,0.5,5,6,0.833,0.813,2,2,1.0,1,1,2,2,0,0,1,1,15,12.8,H,0,1,ian-theisen-1,Ian Theisen,2017
+19,88,20,2017-01-12,South Dakota State,@,Oral Roberts,REG (Conf),L 88-94,,5,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,0,1,1,0,0,0,0,0,9,8.1,A,0,1,ian-theisen-1,Ian Theisen,2017
+20,89,21,2017-01-18,South Dakota State,@,IUPUI,REG (Conf),L 83-85 (OT),,21,4,4,1.0,0,0,,4,4,1.0,1.0,3,3,1.0,1,3,4,1,1,1,2,2,11,11.0,A,0,1,ian-theisen-1,Ian Theisen,2017
+21,90,22,2017-01-21,South Dakota State,,IPFW,REG (Conf),W 77-67,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,5,5,1,0,1,0,1,0,1.8,H,1,1,ian-theisen-1,Ian Theisen,2017
+22,91,23,2017-01-25,South Dakota State,@,Denver,REG (Conf),L 82-91,,20,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,1,4,5,1,0,0,1,2,10,8.2,A,0,1,ian-theisen-1,Ian Theisen,2017
+23,92,24,2017-01-28,South Dakota State,@,Omaha,REG (Conf),W 88-84,*,17,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,2,0,1,1,3,6,3.5,A,1,1,ian-theisen-1,Ian Theisen,2017
+24,93,31,2017-02-25,South Dakota State,,Denver,REG (Conf),W 88-64,,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,H,1,1,ian-theisen-1,Ian Theisen,2017
+25,94,32,2017-03-05,South Dakota State,N,Denver,CTOURN,W 83-73,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,N,1,0,ian-theisen-1,Ian Theisen,2017
+26,95,33,2017-03-06,South Dakota State,N,South Dakota,CTOURN,W 74-71,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,0,ian-theisen-1,Ian Theisen,2017
+27,96,34,2017-03-07,South Dakota State,N,Omaha,CTOURN,W 79-77,,6,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,2,3,0,0,0,0,1,5,4.6,N,1,0,ian-theisen-1,Ian Theisen,2017
+28,97,35,2017-03-16,South Dakota State,N,Gonzaga,ROUND-64,L 46-66,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,0,3,3,0,0,0,0,0,5,4.2,N,0,0,ian-theisen-1,Ian Theisen,2017

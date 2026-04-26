@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,1,2011-11-11,Ohio State,,Wright State,REG (Non-Conf),W 73-42,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,3,2,0.8,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+2,41,2,2011-11-15,Ohio State,,Florida,REG (Non-Conf),W 81-74,,14,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,1,0,1,0,1,0,0,2,7,6.6,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+3,42,3,2011-11-18,Ohio State,,Jackson State,REG (Non-Conf),W 85-41,,11,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,1,2,3,1,0,0,0,6,7.8,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+4,43,4,2011-11-21,Ohio State,,North Florida,REG (Non-Conf),W 85-50,,9,1,1,1.0,0,0,1,1,1.0,1.0,2,4,0.5,0,1,1,0,0,0,0,2,4,2.4,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+5,44,5,2011-11-23,Ohio State,,VMI,REG (Non-Conf),W 107-74,,14,4,5,0.8,0,0,4,5,0.8,0.8,0,1,0.0,1,1,2,1,0,0,0,2,8,6.6,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+6,45,6,2011-11-25,Ohio State,,Valparaiso,REG (Non-Conf),W 80-47,,11,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,4,5,0,1,0,0,2,5,5.4,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+7,46,7,2011-11-29,Ohio State,,Duke,REG (Non-Conf),W 85-63,,13,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,1,1,1,1,4,0,-1.3,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+8,47,8,2011-12-03,Ohio State,,Texas–Pan American,REG (Non-Conf),W 64-35,*,20,3,5,0.6,0,0,3,5,0.6,0.6,5,6,0.833,5,2,7,1,0,0,0,1,11,12.7,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+9,48,9,2011-12-10,Ohio State,@,Kansas,REG (Non-Conf),L 67-78,*,25,2,7,0.286,0,0,2,7,0.286,0.286,5,6,0.833,2,3,5,0,0,0,4,5,9,0.8,A,0,1,evan-ravenel-1,Evan Ravenel,2012
+10,49,10,2011-12-14,Ohio State,,USC Upstate,REG (Non-Conf),W 82-58,*,12,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,0,0,0,0,2,0,0,1,9,7.6,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+11,50,11,2011-12-17,Ohio State,@,South Carolina,REG (Non-Conf),W 74-66,,18,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,2,1,3,0,2,0,2,4,5,2.0,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+12,51,12,2011-12-20,Ohio State,,Lamar,REG (Non-Conf),W 70-50,,7,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,2,3,0,0,0,1,2,5,2.1,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+13,52,13,2011-12-22,Ohio State,N,Miami (OH),REG (Non-Conf),W 69-40,,14,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,0,2,2,0,1,0,0,0,4,3.9,N,1,1,evan-ravenel-1,Evan Ravenel,2012
+14,53,14,2011-12-28,Ohio State,,Northwestern,REG (Conf),W 87-54,,9,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,0,2,2,0,0,0,0,1,2,0.8,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+15,54,15,2011-12-31,Ohio State,@,Indiana,REG (Conf),L 70-74,,19,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,3,3,0,0,3,2,4,4,2.4,A,0,1,evan-ravenel-1,Evan Ravenel,2012
+16,55,16,2012-01-03,Ohio State,,Nebraska,REG (Conf),W 71-40,,11,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,1,2,0,0,0,3,1,5,1.6,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+17,56,17,2012-01-07,Ohio State,@,Iowa,REG (Conf),W 76-47,,4,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,1,1,1,0,0.3,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+18,57,18,2012-01-10,Ohio State,@,Illinois,REG (Conf),L 74-79,,2,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,0,1,evan-ravenel-1,Evan Ravenel,2012
+19,58,19,2012-01-15,Ohio State,,Indiana,REG (Conf),W 80-63,,9,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,2,1,3,0,0,0,2,3,5,2.1,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+20,59,20,2012-01-21,Ohio State,@,Nebraska,REG (Conf),W 79-45,,14,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,3,5,0,0,1,0,2,7,6.5,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+21,60,21,2012-01-25,Ohio State,,Penn State,REG (Conf),W 78-54,,9,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,0,0,0,0,0,0,2,2,4,0.9,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+22,61,22,2012-01-29,Ohio State,,Michigan,REG (Conf),W 64-49,,14,0,2,0.0,0,0,0,2,0.0,0.0,3,4,0.75,2,2,4,0,0,0,0,1,3,2.8,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+23,62,23,2012-02-04,Ohio State,@,Wisconsin,REG (Conf),W 58-52,,4,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+24,63,24,2012-02-07,Ohio State,,Purdue,REG (Conf),W 87-84,,12,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,0,0,2,2,1.5,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+25,64,25,2012-02-11,Ohio State,,Michigan State,REG (Conf),L 48-58,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,1,2,0,-0.8,H,0,1,evan-ravenel-1,Evan Ravenel,2012
+26,65,26,2012-02-14,Ohio State,@,Minnesota,REG (Conf),W 78-68,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+27,66,27,2012-02-18,Ohio State,@,Michigan,REG (Conf),L 51-56,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,evan-ravenel-1,Evan Ravenel,2012
+28,67,28,2012-02-21,Ohio State,,Illinois,REG (Conf),W 83-67,,9,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,1,2,1,0,0,0,2,6,6.3,H,1,1,evan-ravenel-1,Evan Ravenel,2012
+29,68,29,2012-02-26,Ohio State,,Wisconsin,REG (Conf),L 60-63,,10,0,0,,0,0,0,0,,,1,2,0.5,1,4,5,0,0,0,0,1,1,2.1,H,0,1,evan-ravenel-1,Evan Ravenel,2012
+30,69,30,2012-02-29,Ohio State,@,Northwestern,REG (Conf),W 75-73,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+31,70,31,2012-03-04,Ohio State,@,Michigan State,REG (Conf),W 72-70,,8,2,4,0.5,0,0,2,4,0.5,0.5,3,3,1.0,0,2,2,2,0,0,0,3,7,5.8,A,1,1,evan-ravenel-1,Evan Ravenel,2012
+32,71,32,2012-03-09,Ohio State,N,Purdue,CTOURN,W 88-71,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+33,72,33,2012-03-10,Ohio State,N,Michigan,CTOURN,W 77-55,,16,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,3,4,0,1,0,1,2,6,3.8,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+34,73,34,2012-03-11,Ohio State,N,Michigan State,CTOURN,L 64-68,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,2,2,0,-1.8,N,0,0,evan-ravenel-1,Evan Ravenel,2012
+35,74,35,2012-03-15,Ohio State,N,Loyola (MD),ROUND-64,W 78-59,,10,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,1,2,0,0,1,2,3,3,0.8,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+36,75,36,2012-03-17,Ohio State,N,Gonzaga,ROUND-32,W 73-66,,11,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,2,1,0,-1.8,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+37,76,37,2012-03-22,Ohio State,N,Cincinnati,ROUND-16,W 81-66,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+38,77,38,2012-03-24,Ohio State,N,Syracuse,ROUND-8,W 77-70,,5,0,0,,0,0,0,0,,,3,4,0.75,1,0,1,0,0,0,0,2,3,2.5,N,1,0,evan-ravenel-1,Evan Ravenel,2012
+39,78,39,2012-03-31,Ohio State,N,Kansas,NATIONAL-SEMI,L 62-64,,14,0,0,,0,0,0,0,,,0,0,,0,2,2,1,0,1,1,3,0,-0.2,N,0,0,evan-ravenel-1,Evan Ravenel,2012

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2015-11-13,Xavier,,Miami (OH),REG (Non-Conf),W 81-72,*,31,5,9,0.556,0,1,0.0,5,8,0.625,0.556,6,7,0.857,7,8,15,3,4,0,6,3,16,17.5,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+2,70,2,2015-11-17,Xavier,,Missouri,REG (Non-Conf),W 78-66,*,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,1,1,2,2,4,0,-1.3,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+3,71,3,2015-11-20,Xavier,@,Michigan,REG (Non-Conf),W 86-70,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,7,9,0.778,3,6,9,0,0,1,1,4,15,12.2,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+4,72,4,2015-11-23,Xavier,,Northern Kentucky,REG (Non-Conf),W 78-66,*,21,3,9,0.333,1,1,1.0,2,8,0.25,0.389,4,6,0.667,3,3,6,2,1,1,0,2,11,10.4,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+5,73,5,2015-11-26,Xavier,N,Alabama,REG (Non-Conf),W 64-45,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,4,5,9,0,0,1,3,4,10,6.3,N,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+6,74,6,2015-11-27,Xavier,N,Southern California,REG (Non-Conf),W 87-77,*,16,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,3,4,7,2,1,2,0,2,8,9.6,N,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+7,75,7,2015-11-29,Xavier,N,Dayton,REG (Non-Conf),W 90-61,*,15,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,1,4,5,1,1,0,0,4,11,8.6,N,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+8,76,8,2015-12-05,Xavier,,Western Kentucky,REG (Non-Conf),W 95-64,*,16,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,2,1,3,0,1,0,1,3,12,8.6,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+9,77,9,2015-12-08,Xavier,,Wright State,REG (Non-Conf),W 90-55,*,15,4,10,0.4,0,0,,4,10,0.4,0.4,2,3,0.667,2,2,4,0,1,2,0,1,10,8.2,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+10,78,10,2015-12-12,Xavier,,Cincinnati,REG (Non-Conf),W 65-55,*,18,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,2,4,6,0,3,1,0,4,8,9.0,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+11,79,11,2015-12-19,Xavier,,Auburn,REG (Non-Conf),W 85-61,*,21,7,9,0.778,0,0,,7,9,0.778,0.778,4,6,0.667,2,4,6,0,1,0,2,4,18,13.7,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+12,80,12,2015-12-22,Xavier,@,Wake Forest,REG (Non-Conf),W 78-70,*,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,2,2,0,0,0,3,4,4,-2.0,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+13,81,13,2015-12-31,Xavier,@,Villanova,REG (Conf),L 64-95,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,4,6,0.667,1,4,5,0,0,2,2,2,6,4.7,A,0,1,jalen-reynolds-1,Jalen Reynolds,2016
+14,82,14,2016-01-02,Xavier,,Butler,REG (Conf),W 88-69,*,28,5,6,0.833,1,1,1.0,4,5,0.8,0.917,2,4,0.5,1,7,8,1,1,1,2,1,13,12.8,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+15,83,15,2016-01-06,Xavier,@,St. John's (NY),REG (Conf),W 74-66,,22,4,8,0.5,0,0,,4,8,0.5,0.5,2,4,0.5,2,11,13,0,1,0,3,3,10,6.7,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+16,84,16,2016-01-12,Xavier,,DePaul,REG (Conf),W 84-64,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,3,0.667,1,6,7,1,1,0,2,3,6,3.2,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+17,85,17,2016-01-16,Xavier,@,Marquette,REG (Conf),W 74-66,*,14,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,5,7,0,1,0,1,3,5,3.6,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+18,86,18,2016-01-19,Xavier,,Georgetown,REG (Conf),L 72-81,,21,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,0,4,4,1,0,0,0,4,9,6.3,H,0,1,jalen-reynolds-1,Jalen Reynolds,2016
+19,87,19,2016-01-23,Xavier,,Seton Hall,REG (Conf),W 84-76,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,3,2,5,1,0,2,2,2,6,4.3,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+20,88,20,2016-01-26,Xavier,@,Providence,REG (Conf),W 75-68,*,31,7,10,0.7,0,0,,7,10,0.7,0.7,1,3,0.333,4,7,11,0,0,1,5,3,15,9.4,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+21,89,21,2016-01-30,Xavier,@,DePaul,REG (Conf),W 86-65,*,16,2,6,0.333,0,0,,2,6,0.333,0.333,6,7,0.857,2,4,6,2,0,0,1,1,10,8.8,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+22,90,22,2016-02-03,Xavier,,St. John's (NY),REG (Conf),W 90-83,*,14,4,6,0.667,0,0,,4,6,0.667,0.667,1,8,0.125,1,3,4,2,0,2,1,5,9,5.0,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+23,91,23,2016-02-06,Xavier,,Marquette,REG (Conf),W 90-82,*,30,3,9,0.333,0,0,,3,9,0.333,0.333,1,3,0.333,2,7,9,2,0,1,1,3,7,4.5,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+24,92,24,2016-02-09,Xavier,@,Creighton,REG (Conf),L 56-70,*,25,5,15,0.333,0,1,0.0,5,14,0.357,0.333,7,8,0.875,4,5,9,1,0,2,1,3,17,12.3,A,0,1,jalen-reynolds-1,Jalen Reynolds,2016
+25,93,25,2016-02-13,Xavier,@,Butler,REG (Conf),W 74-57,*,8,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,2,2,0,0,0,2,4,6,1.4,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+26,94,26,2016-02-17,Xavier,,Providence,REG (Conf),W 85-74,*,23,4,11,0.364,0,0,,4,11,0.364,0.364,2,3,0.667,4,11,15,0,1,1,2,2,10,8.5,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+27,95,27,2016-02-20,Xavier,@,Georgetown,REG (Conf),W 88-70,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,2,3,0,0,0,2,2,6,2.9,A,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+28,96,28,2016-02-24,Xavier,,Villanova,REG (Conf),W 90-83,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,1,3,4,1,1,0,2,2,11,9.2,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+29,97,29,2016-02-28,Xavier,@,Seton Hall,REG (Conf),L 81-90,*,16,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,3,0,3,1,2,0,0,3,7,6.9,A,0,1,jalen-reynolds-1,Jalen Reynolds,2016
+30,98,30,2016-03-05,Xavier,,Creighton,REG (Conf),W 98-93,*,17,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,0,4,4,0,0,0,1,4,8,3.2,H,1,1,jalen-reynolds-1,Jalen Reynolds,2016
+31,99,31,2016-03-10,Xavier,N,Marquette,CTOURN,W 90-72,*,18,5,9,0.556,0,0,,5,9,0.556,0.556,1,1,1.0,1,5,6,0,0,0,1,4,11,6.3,N,1,0,jalen-reynolds-1,Jalen Reynolds,2016
+32,100,32,2016-03-11,Xavier,N,Seton Hall,CTOURN,L 83-87,*,16,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,4,7,2,0,0,0,5,6,6.7,N,0,0,jalen-reynolds-1,Jalen Reynolds,2016
+33,101,33,2016-03-18,Xavier,N,Weber State,ROUND-64,W 71-53,*,18,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,1,4,5,0,0,0,1,3,12,7.8,N,1,0,jalen-reynolds-1,Jalen Reynolds,2016
+34,102,34,2016-03-20,Xavier,N,Wisconsin,ROUND-32,L 63-66,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,1,2,0.5,1,8,9,0,1,0,3,3,13,10.0,N,0,0,jalen-reynolds-1,Jalen Reynolds,2016

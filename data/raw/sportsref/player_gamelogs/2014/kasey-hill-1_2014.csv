@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Florida,,North Florida,REG (Non-Conf),W 77-69,*,27,5,9,0.556,0,1,0.0,5,8,0.625,0.556,5,6,0.833,0,0,0,4,2,1,2,2,15,13.0,H,1,1,kasey-hill-1,Kasey Hill,2014
+2,2,2,2013-11-12,Florida,@,Wisconsin,REG (Non-Conf),L 53-59,*,29,2,11,0.182,0,4,0.0,2,7,0.286,0.182,0,1,0.0,0,3,3,4,1,0,2,5,4,-2.6,A,0,1,kasey-hill-1,Kasey Hill,2014
+3,3,3,2013-11-16,Florida,,Little Rock,REG (Non-Conf),W 86-56,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,6,8,0.75,0,3,3,6,5,1,0,2,14,20.6,H,1,1,kasey-hill-1,Kasey Hill,2014
+4,4,4,2013-11-18,Florida,,Southern,REG (Non-Conf),W 67-53,*,20,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,0,0,0,3,1,0,0,1,8,8.1,H,1,1,kasey-hill-1,Kasey Hill,2014
+5,5,9,2013-12-10,Florida,,Kansas,REG (Non-Conf),W 67-61,,20,1,3,0.333,0,0,,1,3,0.333,0.333,4,6,0.667,0,2,2,3,0,0,0,2,6,5.4,H,1,1,kasey-hill-1,Kasey Hill,2014
+6,6,10,2013-12-17,Florida,N,Memphis,REG (Non-Conf),W 77-75,,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,2,2,3,0,0,3,3,5,0.8,N,1,1,kasey-hill-1,Kasey Hill,2014
+7,7,11,2013-12-21,Florida,N,Fresno State,REG (Non-Conf),W 66-49,,15,2,2,1.0,2,2,1.0,0,0,,1.5,1,2,0.5,0,1,1,1,1,0,3,1,7,4.6,N,1,1,kasey-hill-1,Kasey Hill,2014
+8,8,12,2013-12-29,Florida,,Savannah State,REG (Non-Conf),W 76-34,,27,2,8,0.25,0,3,0.0,2,5,0.4,0.25,3,5,0.6,0,2,2,5,0,0,0,0,7,5.5,H,1,1,kasey-hill-1,Kasey Hill,2014
+9,9,13,2014-01-04,Florida,,Richmond,REG (Non-Conf),W 67-58,,21,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,1,2,1,0,1,3,1,2,-2.1,H,1,1,kasey-hill-1,Kasey Hill,2014
+10,10,14,2014-01-08,Florida,,South Carolina,REG (Conf),W 74-58,,20,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,4,0.75,0,2,2,2,2,0,2,3,5,3.0,H,1,1,kasey-hill-1,Kasey Hill,2014
+11,11,15,2014-01-11,Florida,@,Arkansas,REG (Conf),W 84-82 (OT),*,37,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,2,3,5,1,0,5,3,6,1.9,A,1,1,kasey-hill-1,Kasey Hill,2014
+12,12,16,2014-01-14,Florida,,Georgia,REG (Conf),W 72-50,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,2,0.0,0,0,0,5,2,0,0,3,3,3.4,H,1,1,kasey-hill-1,Kasey Hill,2014
+13,13,17,2014-01-18,Florida,@,Auburn,REG (Conf),W 68-61,*,26,0,2,0.0,0,1,0.0,0,1,0.0,0.0,7,8,0.875,0,2,2,3,3,0,2,2,7,8.1,A,1,1,kasey-hill-1,Kasey Hill,2014
+14,14,18,2014-01-23,Florida,@,Alabama,REG (Conf),W 68-62,,19,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,1,1,2,1,1,2,3,6,4.5,A,1,1,kasey-hill-1,Kasey Hill,2014
+15,15,19,2014-01-25,Florida,,Tennessee,REG (Conf),W 67-41,,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,3,3,3,1,0,0,1,2,1.8,H,1,1,kasey-hill-1,Kasey Hill,2014
+16,16,20,2014-01-30,Florida,@,Mississippi State,REG (Conf),W 62-51,,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,0,3,3,3,0,0,0,1,7,7.6,A,1,1,kasey-hill-1,Kasey Hill,2014
+17,17,21,2014-02-01,Florida,,Texas A&M,REG (Conf),W 69-36,*,25,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,5,0.4,0,3,3,2,2,0,2,5,4,0.0,H,1,1,kasey-hill-1,Kasey Hill,2014
+18,18,22,2014-02-04,Florida,,Missouri,REG (Conf),W 68-58,,21,0,0,,0,0,,0,0,,,4,6,0.667,1,2,3,6,0,0,1,3,4,6.5,H,1,1,kasey-hill-1,Kasey Hill,2014
+19,19,23,2014-02-08,Florida,,Alabama,REG (Conf),W 78-69,,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,3,0,0,3,1,2,-0.7,H,1,1,kasey-hill-1,Kasey Hill,2014
+20,20,24,2014-02-11,Florida,@,Tennessee,REG (Conf),W 67-58,,20,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,0,0,0,2,0,2,1,4,-0.2,A,1,1,kasey-hill-1,Kasey Hill,2014
+21,21,25,2014-02-15,Florida,@,Kentucky,REG (Conf),W 69-59,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,1,1,0,-0.7,A,1,1,kasey-hill-1,Kasey Hill,2014
+22,22,29,2014-03-01,Florida,,Louisiana State,REG (Conf),W 79-61,,21,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,5,2,0,2,2,4,5.0,H,1,1,kasey-hill-1,Kasey Hill,2014
+23,23,30,2014-03-04,Florida,@,South Carolina,REG (Conf),W 72-46,,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,4,0.0,1,2,3,0,4,0,1,1,4,3.6,A,1,1,kasey-hill-1,Kasey Hill,2014
+24,24,31,2014-03-08,Florida,,Kentucky,REG (Conf),W 84-65,,21,1,1,1.0,0,0,,1,1,1.0,1.0,6,6,1.0,0,1,1,7,1,0,1,4,8,11.3,H,1,1,kasey-hill-1,Kasey Hill,2014
+25,25,32,2014-03-14,Florida,N,Missouri,CTOURN,W 72-49,,23,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,0,5,5,5,1,0,2,2,7,8.2,N,1,0,kasey-hill-1,Kasey Hill,2014
+26,26,33,2014-03-15,Florida,N,Tennessee,CTOURN,W 56-49,,13,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,0,1,1,0,0,0,2,0,5,0.9,N,1,0,kasey-hill-1,Kasey Hill,2014
+27,27,34,2014-03-16,Florida,N,Kentucky,CTOURN,W 61-60,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,3,1,0,1,4,2,1.5,N,1,0,kasey-hill-1,Kasey Hill,2014
+28,28,35,2014-03-20,Florida,N,Albany (NY),ROUND-64,W 67-55,,17,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,0,1,1,0,2,1,0,2,10,10.6,N,1,0,kasey-hill-1,Kasey Hill,2014
+29,29,36,2014-03-22,Florida,N,Pittsburgh,ROUND-32,W 61-45,,24,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,2,2,2,2,0,1,1,3,3.5,N,1,0,kasey-hill-1,Kasey Hill,2014
+30,30,37,2014-03-27,Florida,N,UCLA,ROUND-16,W 79-68,,28,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,5,6,10,0,0,2,1,6,10.8,N,1,0,kasey-hill-1,Kasey Hill,2014
+31,31,38,2014-03-29,Florida,N,Dayton,ROUND-8,W 62-52,,13,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,2,3,3,0,0,1,2,2,2.2,N,1,0,kasey-hill-1,Kasey Hill,2014
+32,32,39,2014-04-05,Florida,N,Connecticut,NATIONAL-SEMI,L 53-63,,15,2,6,0.333,0,0,,2,6,0.333,0.333,3,4,0.75,2,0,2,0,0,0,4,4,7,-1.0,N,0,0,kasey-hill-1,Kasey Hill,2014

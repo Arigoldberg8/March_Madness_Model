@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2015-11-13,Yale,N,Fairfield,REG (Non-Conf),W 70-57,*,29,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,3,3,6,2,0,0,1,1,6,6.3,N,1,1,nick-victor-1,Nick Victor,2016
+2,63,2,2015-11-16,Yale,,Sacred Heart,REG (Non-Conf),W 99-77,*,22,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,8,11,1,0,1,1,4,0,2.6,H,1,1,nick-victor-1,Nick Victor,2016
+3,64,3,2015-11-19,Yale,@,Lehigh,REG (Non-Conf),W 79-67,*,30,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,4,0.75,1,10,11,2,0,2,2,4,9,9.2,A,1,1,nick-victor-1,Nick Victor,2016
+4,65,4,2015-11-22,Yale,@,SMU,REG (Non-Conf),L 69-71,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,4,5,1,0,3,4,5,2,-1.0,A,0,1,nick-victor-1,Nick Victor,2016
+5,66,5,2015-11-25,Yale,@,Duke,REG (Non-Conf),L 61-80,*,23,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,2,5,7,3,0,0,1,3,3,2.7,A,0,1,nick-victor-1,Nick Victor,2016
+6,67,6,2015-11-29,Yale,@,Albany (NY),REG (Non-Conf),L 54-88,*,26,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,1,0.0,1,3,4,1,0,2,1,2,10,6.8,A,0,1,nick-victor-1,Nick Victor,2016
+7,68,7,2015-12-02,Yale,,Bryant,REG (Non-Conf),W 79-40,*,22,6,7,0.857,1,2,0.5,5,5,1.0,0.929,1,2,0.5,1,7,8,1,1,2,1,1,14,15.6,H,1,1,nick-victor-1,Nick Victor,2016
+8,69,8,2015-12-05,Yale,,Vermont,REG (Non-Conf),W 72-54,*,31,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,2,8,10,4,1,2,1,3,5,8.4,H,1,1,nick-victor-1,Nick Victor,2016
+9,70,9,2015-12-09,Yale,@,Illinois,REG (Non-Conf),L 65-69,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,3,5,8,4,0,0,5,3,7,4.9,A,0,1,nick-victor-1,Nick Victor,2016
+10,71,10,2015-12-13,Yale,@,Southern California,REG (Non-Conf),L 56-68,*,26,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,2,2,4,1,0,0,2,4,1,-1.7,A,0,1,nick-victor-1,Nick Victor,2016
+11,72,11,2015-12-30,Yale,@,Central Connecticut State,REG (Non-Conf),W 62-42,*,26,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,1,4,5,0,2,2,1,1,9,11.3,A,1,1,nick-victor-1,Nick Victor,2016
+12,73,12,2016-01-02,Yale,@,Hartford,REG (Non-Conf),W 88-53,*,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,1,2,0.5,1,3,4,1,0,0,2,4,9,6.4,A,1,1,nick-victor-1,Nick Victor,2016
+13,74,13,2016-01-06,Yale,,NJIT,REG (Non-Conf),W 83-65,*,23,4,7,0.571,4,5,0.8,0,2,0.0,0.857,4,6,0.667,2,4,6,4,1,0,0,5,16,16.3,H,1,1,nick-victor-1,Nick Victor,2016
+14,75,14,2016-01-08,Yale,,Daniel Webster,REG (Non-Conf),W 94-53,*,18,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,3,0.333,0,3,3,1,4,2,1,0,8,12.3,H,1,1,nick-victor-1,Nick Victor,2016
+15,76,15,2016-01-16,Yale,,Brown,REG (Conf),W 77-68,*,36,5,10,0.5,1,2,0.5,4,8,0.5,0.55,4,4,1.0,3,8,11,4,2,4,5,2,15,16.3,H,1,1,nick-victor-1,Nick Victor,2016
+16,77,16,2016-01-22,Yale,@,Brown,REG (Conf),W 90-66,*,27,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,2,4,6,3,2,2,2,1,5,6.9,A,1,1,nick-victor-1,Nick Victor,2016
+17,78,17,2016-01-29,Yale,,Pennsylvania,REG (Conf),W 81-58,*,29,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,2,0.0,3,6,9,2,1,3,2,5,6,7.6,H,1,1,nick-victor-1,Nick Victor,2016
+18,79,18,2016-01-30,Yale,,Princeton,REG (Conf),W 79-75,*,28,3,5,0.6,3,5,0.6,0,0,,0.9,1,2,0.5,0,4,4,1,0,0,0,5,10,7.2,H,1,1,nick-victor-1,Nick Victor,2016
+19,80,19,2016-02-05,Yale,,Columbia,REG (Conf),W 86-72,*,34,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,9,9,2,0,1,6,3,6,1.6,H,1,1,nick-victor-1,Nick Victor,2016
+20,81,20,2016-02-06,Yale,,Cornell,REG (Conf),W 83-52,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,8,9,6,0,2,1,1,2,6.9,H,1,1,nick-victor-1,Nick Victor,2016
+21,82,21,2016-02-12,Yale,@,Dartmouth,REG (Conf),W 75-65,*,19,0,0,,0,0,,0,0,,,0,2,0.0,0,1,1,2,0,0,3,4,0,-3.7,A,1,1,nick-victor-1,Nick Victor,2016
+22,83,22,2016-02-13,Yale,@,Harvard,REG (Conf),W 67-55,*,34,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,3,9,12,6,0,0,1,5,7,9.3,A,1,1,nick-victor-1,Nick Victor,2016
+23,84,23,2016-02-19,Yale,@,Princeton,REG (Conf),L 63-75,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,6,7,2,0,1,2,5,2,1.6,A,0,1,nick-victor-1,Nick Victor,2016
+24,85,24,2016-02-20,Yale,@,Pennsylvania,REG (Conf),W 79-58,*,35,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,2,0.0,2,5,7,7,1,3,1,3,4,7.1,A,1,1,nick-victor-1,Nick Victor,2016
+25,86,25,2016-02-26,Yale,,Harvard,REG (Conf),W 59-50,*,32,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,4,0.5,2,9,11,2,1,0,1,1,9,9.6,H,1,1,nick-victor-1,Nick Victor,2016
+26,87,26,2016-02-27,Yale,,Dartmouth,REG (Conf),W 76-71 (OT),*,38,6,8,0.75,3,5,0.6,3,3,1.0,0.938,0,0,,2,6,8,0,2,1,2,4,15,14.1,H,1,1,nick-victor-1,Nick Victor,2016
+27,88,27,2016-03-04,Yale,@,Cornell,REG (Conf),W 88-64,*,24,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,5,5,4,1,1,1,3,3,5.1,A,1,1,nick-victor-1,Nick Victor,2016
+28,89,28,2016-03-05,Yale,@,Columbia,REG (Conf),W 71-55,*,38,4,7,0.571,2,5,0.4,2,2,1.0,0.714,2,3,0.667,1,11,12,5,1,1,2,2,12,14.7,A,1,1,nick-victor-1,Nick Victor,2016
+29,90,29,2016-03-17,Yale,N,Baylor,ROUND-64,W 79-75,*,39,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,4,0.5,1,5,6,1,1,2,4,4,2,-1.9,N,1,0,nick-victor-1,Nick Victor,2016
+30,91,30,2016-03-19,Yale,N,Duke,ROUND-32,L 64-71,*,38,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,1,0.0,3,5,8,0,1,2,2,3,5,2.6,N,0,0,nick-victor-1,Nick Victor,2016

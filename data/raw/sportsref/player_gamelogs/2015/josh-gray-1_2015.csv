@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2014-11-15,Louisiana State,,Gardner-Webb,REG (Non-Conf),W 93-82,*,32,7,11,0.636,2,2,1.0,5,9,0.556,0.727,2,3,0.667,1,5,6,3,1,0,4,1,18,13.6,H,1,1,josh-gray-1,Josh Gray,2015
+2,33,2,2014-11-18,Louisiana State,,Texas Tech,REG (Non-Conf),W 69-64 (OT),*,41,3,10,0.3,0,2,0.0,3,8,0.375,0.3,8,11,0.727,0,4,4,4,1,0,3,3,14,7.8,H,1,1,josh-gray-1,Josh Gray,2015
+3,34,3,2014-11-21,Louisiana State,N,Old Dominion,REG (Non-Conf),L 61-70,*,32,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,4,0.5,1,0,1,4,3,0,4,3,8,4.1,N,0,1,josh-gray-1,Josh Gray,2015
+4,35,4,2014-11-22,Louisiana State,N,Weber State,REG (Non-Conf),W 72-58,*,33,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,2,2,4,1,0,3,1,4,1.6,N,1,1,josh-gray-1,Josh Gray,2015
+5,36,5,2014-11-24,Louisiana State,N,Clemson,REG (Non-Conf),L 61-64,*,29,3,10,0.3,0,2,0.0,3,8,0.375,0.3,1,2,0.5,2,2,4,5,2,0,1,0,7,7.3,N,0,1,josh-gray-1,Josh Gray,2015
+6,37,6,2014-11-29,Louisiana State,,McNeese State,REG (Non-Conf),W 83-72,*,34,5,11,0.455,2,5,0.4,3,6,0.5,0.545,1,2,0.5,0,2,2,7,0,0,2,2,13,9.6,H,1,1,josh-gray-1,Josh Gray,2015
+7,38,7,2014-12-02,Louisiana State,,Massachusetts,REG (Non-Conf),W 82-60,*,35,11,15,0.733,3,4,0.75,8,11,0.727,0.833,0,1,0.0,0,4,4,5,3,0,7,1,25,18.8,H,1,1,josh-gray-1,Josh Gray,2015
+8,39,8,2014-12-04,Louisiana State,@,West Virginia,REG (Non-Conf),W 74-73,*,32,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,0,4,4,7,3,0,8,2,7,3.6,A,1,1,josh-gray-1,Josh Gray,2015
+9,40,9,2014-12-13,Louisiana State,,Sam Houston State,REG (Non-Conf),W 76-67,*,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,0,0,3,0,0,1,1,4,2.0,H,1,1,josh-gray-1,Josh Gray,2015
+10,41,12,2014-12-29,Louisiana State,,Southern Mississippi,REG (Non-Conf),W 87-67,*,27,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,2,1.0,0,1,1,4,2,0,1,1,6,4.2,H,1,1,josh-gray-1,Josh Gray,2015
+11,42,13,2015-01-03,Louisiana State,,Savannah State,REG (Non-Conf),W 75-59,*,29,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,3,3,8,1,0,5,3,2,0.9,H,1,1,josh-gray-1,Josh Gray,2015
+12,43,14,2015-01-08,Louisiana State,@,Missouri,REG (Conf),L 67-74 (OT),*,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,1,1,3,2,0,4,2,2,-1.5,A,0,1,josh-gray-1,Josh Gray,2015
+13,44,15,2015-01-10,Louisiana State,,Georgia,REG (Conf),W 87-84 (2OT),*,35,5,13,0.385,1,4,0.25,4,9,0.444,0.423,4,5,0.8,0,1,1,6,3,0,2,5,15,11.0,H,1,1,josh-gray-1,Josh Gray,2015
+14,45,16,2015-01-14,Louisiana State,@,Ole Miss,REG (Conf),W 75-71,*,30,5,10,0.5,0,2,0.0,5,8,0.625,0.5,4,6,0.667,1,2,3,10,2,1,3,2,14,15.4,A,1,1,josh-gray-1,Josh Gray,2015
+15,46,17,2015-01-17,Louisiana State,,Texas A&M,REG (Conf),L 64-67,*,31,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,1,0.0,2,5,7,5,1,0,4,3,9,4.7,H,0,1,josh-gray-1,Josh Gray,2015
+16,47,18,2015-01-20,Louisiana State,@,Florida,REG (Conf),W 79-61,*,17,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,1,0,0,4,1,5,0.0,A,1,1,josh-gray-1,Josh Gray,2015
+17,48,19,2015-01-24,Louisiana State,@,Vanderbilt,REG (Conf),W 79-75 (OT),*,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,3,0,0,3,1,0,-0.7,A,1,1,josh-gray-1,Josh Gray,2015
+18,49,20,2015-01-28,Louisiana State,,South Carolina,REG (Conf),W 64-58,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,4,0.5,0,3,3,3,0,0,2,2,7,3.0,H,1,1,josh-gray-1,Josh Gray,2015
+19,50,21,2015-01-31,Louisiana State,@,Mississippi State,REG (Conf),L 67-73,*,33,6,14,0.429,1,6,0.167,5,8,0.625,0.464,0,1,0.0,0,0,0,2,1,0,4,5,13,1.6,A,0,1,josh-gray-1,Josh Gray,2015
+20,51,22,2015-02-05,Louisiana State,,Auburn,REG (Conf),L 77-81,*,29,1,7,0.143,0,2,0.0,1,5,0.2,0.143,5,10,0.5,0,1,1,6,0,0,1,2,7,3.2,H,0,1,josh-gray-1,Josh Gray,2015
+21,52,23,2015-02-07,Louisiana State,,Alabama,REG (Conf),W 71-60,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,H,1,1,josh-gray-1,Josh Gray,2015
+22,53,24,2015-02-10,Louisiana State,,Kentucky,REG (Conf),L 69-71,,24,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,0,4,4,2,0,0,1,2,7,2.7,H,0,1,josh-gray-1,Josh Gray,2015
+23,54,25,2015-02-14,Louisiana State,@,Tennessee,REG (Conf),W 73-55,,9,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,1,0,1,1,0,0,0,0,3,2.7,A,1,1,josh-gray-1,Josh Gray,2015
+24,55,26,2015-02-17,Louisiana State,@,Texas A&M,REG (Conf),L 62-68,,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,0,0,4,1,0,2,3,4,1.9,A,0,1,josh-gray-1,Josh Gray,2015
+25,56,27,2015-02-21,Louisiana State,,Florida,REG (Conf),W 70-63,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,2,4,2,0,0,1,0,0,1.0,H,1,1,josh-gray-1,Josh Gray,2015
+26,57,28,2015-02-24,Louisiana State,@,Auburn,REG (Conf),W 84-61,,18,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,1,0.0,0,3,3,6,1,0,1,3,6,6.5,A,1,1,josh-gray-1,Josh Gray,2015
+27,58,29,2015-02-28,Louisiana State,,Ole Miss,REG (Conf),W 73-63,,8,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,0,0,0,1,1,0,1,3,1,-2.0,H,1,1,josh-gray-1,Josh Gray,2015
+28,59,30,2015-03-04,Louisiana State,,Tennessee,REG (Conf),L 63-78,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,1,0,0,1,1,3,0.9,H,0,1,josh-gray-1,Josh Gray,2015
+29,60,31,2015-03-07,Louisiana State,@,Arkansas,REG (Conf),W 81-78,,25,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,1,0,1,6,0,0,1,2,10,8.8,A,1,1,josh-gray-1,Josh Gray,2015
+30,61,32,2015-03-13,Louisiana State,N,Auburn,CTOURN,L 70-73 (OT),,24,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,1,0,1,2,1,0,5,4,3,-4.0,N,0,0,josh-gray-1,Josh Gray,2015
+31,62,33,2015-03-19,Louisiana State,N,NC State,ROUND-64,L 65-66,,13,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,1,1,0,1,0,1,0,4,0.2,N,0,0,josh-gray-1,Josh Gray,2015

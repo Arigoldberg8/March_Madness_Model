@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-11,VCU,,UNC Asheville,REG (Non-Conf),W 80-65,,19,3,5,0.6,1,3,0.333,2,2,1.0,0.7,3,4,0.75,2,1,3,0,0,0,3,0,10,6.0,H,1,1,samir-doughty-1,Samir Doughty,2017
+2,2,2,2016-11-15,VCU,@,Liberty,REG (Non-Conf),W 64-59,,21,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,0,,1,4,5,1,0,0,1,3,8,3.0,A,1,1,samir-doughty-1,Samir Doughty,2017
+3,3,3,2016-11-18,VCU,,Binghamton,REG (Non-Conf),W 81-42,,24,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,4,0.25,0,3,3,1,1,1,0,2,10,8.7,H,1,1,samir-doughty-1,Samir Doughty,2017
+4,4,4,2016-11-23,VCU,N,Baylor,REG (Non-Conf),L 63-71,,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,6,8,0.75,3,4,7,0,0,0,2,3,8,3.5,N,0,1,samir-doughty-1,Samir Doughty,2017
+5,5,5,2016-11-24,VCU,N,St. John's (NY),REG (Non-Conf),W 75-69,,21,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,2,0.5,1,3,4,2,1,0,0,3,3,0.9,N,1,1,samir-doughty-1,Samir Doughty,2017
+6,6,6,2016-11-25,VCU,N,Louisiana State,REG (Non-Conf),W 85-74,,27,5,13,0.385,0,4,0.0,5,9,0.556,0.385,2,4,0.5,1,6,7,2,2,0,2,1,12,7.6,N,1,1,samir-doughty-1,Samir Doughty,2017
+7,7,7,2016-11-29,VCU,,Princeton,REG (Non-Conf),W 81-70,*,25,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,4,2,6,1,1,0,5,3,11,5.9,H,1,1,samir-doughty-1,Samir Doughty,2017
+8,8,8,2016-12-03,VCU,N,Illinois,REG (Non-Conf),L 46-64,,27,3,11,0.273,1,5,0.2,2,6,0.333,0.318,2,2,1.0,0,3,3,1,0,0,1,2,9,2.3,N,0,1,samir-doughty-1,Samir Doughty,2017
+9,9,9,2016-12-07,VCU,,Georgia Tech,REG (Non-Conf),L 73-76 (OT),,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,3,3,1,0,0,4,1,0,-4.2,H,0,1,samir-doughty-1,Samir Doughty,2017
+10,10,10,2016-12-10,VCU,@,Old Dominion,REG (Non-Conf),W 67-64,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,2,2,1,1,0,3,0,4,1.6,A,1,1,samir-doughty-1,Samir Doughty,2017
+11,11,11,2016-12-17,VCU,,Middle Tennessee,REG (Non-Conf),W 80-77,,31,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,5,0.8,0,2,2,4,0,0,1,3,14,10.5,H,1,1,samir-doughty-1,Samir Doughty,2017
+12,12,12,2016-12-22,VCU,,Louisiana–Monroe,REG (Non-Conf),W 78-65,,27,4,10,0.4,0,4,0.0,4,6,0.667,0.4,2,2,1.0,1,7,8,1,1,0,2,1,10,6.7,H,1,1,samir-doughty-1,Samir Doughty,2017
+13,13,13,2016-12-27,VCU,,Howard,REG (Non-Conf),W 85-51,*,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,4,4,3,0,0,2,2,8,6.2,H,1,1,samir-doughty-1,Samir Doughty,2017
+14,14,14,2016-12-30,VCU,@,George Mason,REG (Conf),W 73-64,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,2,1,0,4,1,4,1.7,A,1,1,samir-doughty-1,Samir Doughty,2017
+15,15,15,2017-01-04,VCU,@,Duquesne,REG (Conf),W 94-87,*,34,9,15,0.6,2,2,1.0,7,13,0.538,0.667,3,4,0.75,1,6,7,9,3,0,2,2,23,24.7,A,1,1,samir-doughty-1,Samir Doughty,2017
+16,16,16,2017-01-07,VCU,,Massachusetts,REG (Conf),W 81-64,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,2,3,0,0,0,1,3,6,1.7,H,1,1,samir-doughty-1,Samir Doughty,2017
+17,17,17,2017-01-11,VCU,,George Washington,REG (Conf),W 85-55,,24,2,9,0.222,2,5,0.4,0,4,0.0,0.333,2,3,0.667,1,1,2,3,1,0,2,3,8,3.0,H,1,1,samir-doughty-1,Samir Doughty,2017
+18,18,18,2017-01-14,VCU,@,Davidson,REG (Conf),L 63-69,,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,1,3,4,1,0,0,1,2,3,0.3,A,0,1,samir-doughty-1,Samir Doughty,2017
+19,19,19,2017-01-18,VCU,@,Fordham,REG (Conf),L 67-69 (OT),,21,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,2,2,1,1,0,2,3,8,3.4,A,0,1,samir-doughty-1,Samir Doughty,2017
+20,20,20,2017-01-22,VCU,,La Salle,REG (Conf),W 90-52,*,25,5,8,0.625,1,3,0.333,4,5,0.8,0.688,4,6,0.667,0,3,3,4,2,0,1,0,15,15.3,H,1,1,samir-doughty-1,Samir Doughty,2017
+21,21,21,2017-01-27,VCU,,Dayton,REG (Conf),W 73-68,*,30,3,7,0.429,0,1,0.0,3,6,0.5,0.429,5,6,0.833,2,3,5,5,1,0,3,3,11,9.5,H,1,1,samir-doughty-1,Samir Doughty,2017
+22,22,22,2017-02-01,VCU,,Richmond,REG (Conf),W 81-74,*,25,5,9,0.556,1,2,0.5,4,7,0.571,0.611,5,6,0.833,0,1,1,6,2,0,2,3,16,14.6,H,1,1,samir-doughty-1,Samir Doughty,2017
+23,23,23,2017-02-04,VCU,@,St. Bonaventure,REG (Conf),W 83-77 (OT),*,32,3,11,0.273,0,3,0.0,3,8,0.375,0.273,0,0,,0,2,2,4,1,0,2,5,6,-0.1,A,1,1,samir-doughty-1,Samir Doughty,2017
+24,24,24,2017-02-08,VCU,@,George Washington,REG (Conf),W 54-53,*,30,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,2,3,5,2,1,0,3,3,10,6.5,A,1,1,samir-doughty-1,Samir Doughty,2017
+25,25,25,2017-02-11,VCU,,Davidson,REG (Conf),W 74-60,*,23,2,6,0.333,1,2,0.5,1,4,0.25,0.417,4,6,0.667,1,2,3,1,1,0,0,3,9,6.6,H,1,1,samir-doughty-1,Samir Doughty,2017
+26,26,26,2017-02-14,VCU,,Saint Joseph's,REG (Conf),W 91-81,*,33,1,6,0.167,1,5,0.2,0,1,0.0,0.25,7,8,0.875,1,7,8,10,1,0,3,1,10,13.2,H,1,1,samir-doughty-1,Samir Doughty,2017
+27,27,27,2017-02-17,VCU,@,Richmond,REG (Conf),W 84-73,*,23,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,2,0.5,1,3,4,2,0,0,2,1,9,6.2,A,1,1,samir-doughty-1,Samir Doughty,2017
+28,28,28,2017-02-22,VCU,,Saint Louis,REG (Conf),W 64-50,*,24,4,8,0.5,2,5,0.4,2,3,0.667,0.625,3,3,1.0,1,2,3,1,2,0,5,2,13,7.2,H,1,1,samir-doughty-1,Samir Doughty,2017
+29,29,29,2017-02-25,VCU,@,Rhode Island,REG (Conf),L 59-69,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,2,2,0,1,0,1,5,4,0.9,A,0,1,samir-doughty-1,Samir Doughty,2017
+30,30,30,2017-03-01,VCU,@,Dayton,REG (Conf),L 72-79,*,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,1,2,0,-0.5,A,0,1,samir-doughty-1,Samir Doughty,2017
+31,31,31,2017-03-04,VCU,,George Mason,REG (Conf),W 72-60,,22,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,4,1.0,0,2,2,1,1,0,1,1,8,4.8,H,1,1,samir-doughty-1,Samir Doughty,2017
+32,32,32,2017-03-10,VCU,N,George Mason,CTOURN,W 71-60,,19,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,7,0.571,0,3,3,1,0,1,1,2,10,4.9,N,1,0,samir-doughty-1,Samir Doughty,2017
+33,33,33,2017-03-11,VCU,N,Richmond,CTOURN,W 87-77 (OT),,30,6,10,0.6,2,3,0.667,4,7,0.571,0.7,3,3,1.0,0,3,3,3,3,0,1,1,17,17.0,N,1,0,samir-doughty-1,Samir Doughty,2017
+34,34,34,2017-03-12,VCU,N,Rhode Island,CTOURN,L 63-70,,16,3,10,0.3,1,2,0.5,2,8,0.25,0.35,1,2,0.5,3,1,4,0,1,0,1,1,8,3.8,N,0,0,samir-doughty-1,Samir Doughty,2017
+35,35,35,2017-03-16,VCU,N,St. Mary's (CA),ROUND-64,L 77-85,,17,2,6,0.333,0,1,0.0,2,5,0.4,0.333,5,6,0.833,0,1,1,1,2,0,1,5,9,5.2,N,0,0,samir-doughty-1,Samir Doughty,2017

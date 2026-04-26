@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,49,1,2022-11-09,Boise State,,South Dakota State,REG (Non-Conf),L 66-68,*,15,0,3,0.0,0,0,,0,3,0.0,0.0,0,1,0.0,1,4,5,0,1,0,0,0,0,0.4,H,0,1,lukas-milner-1,Lukas Milner,2023
+2,50,2,2022-11-12,Boise State,N,Washington State,REG (Non-Conf),W 71-61,*,21,5,10,0.5,0,0,,5,10,0.5,0.5,0,2,0.0,3,0,3,1,0,0,1,5,10,4.0,N,1,1,lukas-milner-1,Lukas Milner,2023
+3,51,3,2022-11-17,Boise State,N,Charlotte,REG (Non-Conf),L 42-54,*,13,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,2,0,-0.1,N,0,1,lukas-milner-1,Lukas Milner,2023
+4,52,4,2022-11-18,Boise State,N,Loyola Chicago,REG (Non-Conf),W 70-48,,19,0,3,0.0,0,0,,0,3,0.0,0.0,2,4,0.5,2,5,7,0,1,4,2,1,2,3.4,N,1,1,lukas-milner-1,Lukas Milner,2023
+5,53,5,2022-11-20,Boise State,N,Colorado,REG (Non-Conf),W 68-55,,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,3,2,5,2,1,1,2,4,6,6.9,N,1,1,lukas-milner-1,Lukas Milner,2023
+6,54,6,2022-11-26,Boise State,,Utah Valley,REG (Non-Conf),W 87-69,,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,0,0,2,1,3,2,2.2,H,1,1,lukas-milner-1,Lukas Milner,2023
+7,55,7,2022-11-29,Boise State,,Cal State Northridge,REG (Non-Conf),W 55-46,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,1,2,2,1.2,H,1,1,lukas-milner-1,Lukas Milner,2023
+8,56,8,2022-12-03,Boise State,N,Texas A&M,REG (Non-Conf),W 86-71,,12,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,3,0,-0.6,N,1,1,lukas-milner-1,Lukas Milner,2023
+9,57,9,2022-12-06,Boise State,,Eastern Ore.,REG (Non-Conf),W 90-54,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,0,0,3,1,3,4,4.6,H,1,1,lukas-milner-1,Lukas Milner,2023
+10,58,10,2022-12-10,Boise State,@,Saint Louis,REG (Non-Conf),W 57-52,,4,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,0,2,0,0,0,0,2,0,-0.8,A,1,1,lukas-milner-1,Lukas Milner,2023
+11,59,11,2022-12-13,Boise State,,New Orleans,REG (Non-Conf),W 91-50,,10,0,0,,0,0,,0,0,,,2,4,0.5,0,3,3,0,1,1,0,3,2,2.6,H,1,1,lukas-milner-1,Lukas Milner,2023
+12,60,12,2022-12-18,Boise State,,Oakland,REG (Non-Conf),W 77-57,,21,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,5,0.8,2,5,7,1,0,1,0,3,10,11.1,H,1,1,lukas-milner-1,Lukas Milner,2023
+13,61,13,2022-12-22,Boise State,@,Santa Clara,REG (Non-Conf),L 58-73,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,0,3,0,0,0,0,4,0,-0.2,A,0,1,lukas-milner-1,Lukas Milner,2023
+14,62,14,2022-12-28,Boise State,@,Nevada,REG (Conf),L 72-74,,12,0,0,,0,0,,0,0,,,1,4,0.25,0,2,2,1,0,1,0,1,1,1.4,A,0,1,lukas-milner-1,Lukas Milner,2023
+15,63,15,2023-01-03,Boise State,,San Jose State,REG (Conf),W 67-64,,9,0,0,,0,0,,0,0,,,0,0,,2,0,2,0,0,1,1,2,0,0.3,H,1,1,lukas-milner-1,Lukas Milner,2023
+16,64,16,2023-01-07,Boise State,,Utah State,REG (Conf),W 82-59,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,0,1,2,0,1,0,2,4,4.0,H,1,1,lukas-milner-1,Lukas Milner,2023
+17,65,17,2023-01-11,Boise State,@,UNLV,REG (Conf),W 84-66,,9,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,0,1,1,1,1,0,1,5,5,3.0,A,1,1,lukas-milner-1,Lukas Milner,2023
+18,66,18,2023-01-14,Boise State,@,Wyoming,REG (Conf),W 85-68,,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,3,6,1,0,0,1,2,6,7.0,A,1,1,lukas-milner-1,Lukas Milner,2023
+19,67,19,2023-01-17,Boise State,,Nevada,REG (Conf),W 77-62,,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,1,1,0,0,0,0,4,4,1.7,H,1,1,lukas-milner-1,Lukas Milner,2023
+20,68,20,2023-01-20,Boise State,@,New Mexico,REG (Conf),L 79-81 (OT),,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,lukas-milner-1,Lukas Milner,2023
+21,69,21,2023-01-24,Boise State,,Fresno State,REG (Conf),W 63-53,,10,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,H,1,1,lukas-milner-1,Lukas Milner,2023
+22,70,23,2023-01-31,Boise State,@,Air Force,REG (Conf),W 59-52,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,4,2,0,-4.8,A,1,1,lukas-milner-1,Lukas Milner,2023
+23,71,24,2023-02-03,Boise State,@,San Diego State,REG (Conf),L 52-72,,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,0,3,4,2.5,A,0,1,lukas-milner-1,Lukas Milner,2023
+24,72,25,2023-02-11,Boise State,,Wyoming,REG (Conf),W 75-63,,12,0,0,,0,0,,0,0,,,0,2,0.0,1,2,3,0,0,0,2,4,0,-3.1,H,1,1,lukas-milner-1,Lukas Milner,2023
+25,73,26,2023-02-15,Boise State,@,Colorado State,REG (Conf),W 80-78,,22,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,3,5,0,0,1,0,2,5,5.2,A,1,1,lukas-milner-1,Lukas Milner,2023
+26,74,27,2023-02-19,Boise State,,UNLV,REG (Conf),W 73-69,,16,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,1,1,2,1,0,2,1,1,9,9.4,H,1,1,lukas-milner-1,Lukas Milner,2023
+27,75,28,2023-02-22,Boise State,,New Mexico,REG (Conf),W 82-77,,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,3,5,1,0,0,1,4,6,4.1,H,1,1,lukas-milner-1,Lukas Milner,2023
+28,76,29,2023-02-25,Boise State,@,San Jose State,REG (Conf),L 68-74 (OT),,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,1,1,0,0,2,0,2,2,1.5,A,0,1,lukas-milner-1,Lukas Milner,2023
+29,77,30,2023-02-28,Boise State,,San Diego State,REG (Conf),W 66-60,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,0,2,2,4,2,-0.3,H,1,1,lukas-milner-1,Lukas Milner,2023
+30,78,31,2023-03-04,Boise State,@,Utah State,REG (Conf),L 73-86,,17,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,3,0,3,1,0,1,0,3,6,7.7,A,0,1,lukas-milner-1,Lukas Milner,2023
+31,79,32,2023-03-09,Boise State,@,UNLV,CTOURN,W 87-76 (OT),,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,1,0,1,1,2,2.6,A,1,0,lukas-milner-1,Lukas Milner,2023
+32,80,33,2023-03-10,Boise State,N,Utah State,CTOURN,L 62-72,,15,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,2,3,0,0,1,3,4,6,1.1,N,0,0,lukas-milner-1,Lukas Milner,2023
+33,81,34,2023-03-16,Boise State,N,Northwestern,ROUND-64,L 67-75,,7,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,0,0,0,1,0,4,2.7,N,0,0,lukas-milner-1,Lukas Milner,2023

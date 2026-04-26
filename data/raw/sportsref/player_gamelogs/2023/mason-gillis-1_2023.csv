@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2022-11-08,Purdue,,Milwaukee,REG (Non-Conf),W 84-53,*,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,2,4,6,2,3,1,0,2,7,11.9,H,1,1,mason-gillis-1,Mason Gillis,2023
+2,63,2,2022-11-11,Purdue,,Austin Peay,REG (Non-Conf),W 63-44,*,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,4,0,0,0,2,0,1.2,H,1,1,mason-gillis-1,Mason Gillis,2023
+3,64,3,2022-11-15,Purdue,,Marquette,REG (Non-Conf),W 75-70,*,19,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,2,1,0,0,0,0,1.0,H,1,1,mason-gillis-1,Mason Gillis,2023
+4,65,4,2022-11-24,Purdue,N,West Virginia,REG (Non-Conf),W 80-68,*,24,4,5,0.8,2,3,0.667,2,2,1.0,1.0,4,5,0.8,1,4,5,0,2,0,2,1,14,13.2,N,1,1,mason-gillis-1,Mason Gillis,2023
+5,66,5,2022-11-25,Purdue,N,Gonzaga,REG (Non-Conf),W 84-66,*,22,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,1,6,7,2,0,0,1,4,6,3.9,N,1,1,mason-gillis-1,Mason Gillis,2023
+6,67,6,2022-11-27,Purdue,N,Duke,REG (Non-Conf),W 75-56,*,14,2,3,0.667,2,2,1.0,0,1,0.0,1.0,2,2,1.0,1,0,1,0,0,0,3,1,8,4.0,N,1,1,mason-gillis-1,Mason Gillis,2023
+7,68,7,2022-11-30,Purdue,@,Florida State,REG (Non-Conf),W 79-69,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,6,7,0,0,0,1,0,5,3.8,A,1,1,mason-gillis-1,Mason Gillis,2023
+8,69,11,2022-12-17,Purdue,N,Davidson,REG (Non-Conf),W 69-61,,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,1,1,0,-0.8,N,1,1,mason-gillis-1,Mason Gillis,2023
+9,70,12,2022-12-21,Purdue,,New Orleans,REG (Non-Conf),W 74-53,*,31,3,7,0.429,1,5,0.2,2,2,1.0,0.5,4,4,1.0,2,1,3,3,2,0,0,2,11,12.3,H,1,1,mason-gillis-1,Mason Gillis,2023
+10,71,13,2022-12-29,Purdue,,Florida A&M,REG (Non-Conf),W 82-49,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,3,2,5,2,1,0,0,1,5,7.0,H,1,1,mason-gillis-1,Mason Gillis,2023
+11,72,14,2023-01-02,Purdue,,Rutgers,REG (Conf),L 64-65,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,2,2,4,1,0,0,1,2,7,5.5,H,0,1,mason-gillis-1,Mason Gillis,2023
+12,73,15,2023-01-05,Purdue,@,Ohio State,REG (Conf),W 71-69,,24,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,3,3,0,0,0,0,3,6,1.6,A,1,1,mason-gillis-1,Mason Gillis,2023
+13,74,16,2023-01-08,Purdue,@,Penn State,REG (Conf),W 76-63,,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,1,1.0,1,1,2,1,1,0,2,0,5,3.0,A,1,1,mason-gillis-1,Mason Gillis,2023
+14,75,17,2023-01-13,Purdue,,Nebraska,REG (Conf),W 73-55,,20,3,5,0.6,1,3,0.333,2,2,1.0,0.7,3,4,0.75,2,3,5,0,0,0,0,1,10,9.2,H,1,1,mason-gillis-1,Mason Gillis,2023
+15,76,18,2023-01-16,Purdue,@,Michigan State,REG (Conf),W 64-63,,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,1,0,0,1,3,3.9,A,1,1,mason-gillis-1,Mason Gillis,2023
+16,77,19,2023-01-19,Purdue,@,Minnesota,REG (Conf),W 61-39,,19,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,2,2,1,1,0,0,2,7,5.5,A,1,1,mason-gillis-1,Mason Gillis,2023
+17,78,20,2023-01-22,Purdue,,Maryland,REG (Conf),W 58-55,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,0,1,1,0,0,2,1,2,-0.7,H,1,1,mason-gillis-1,Mason Gillis,2023
+18,79,21,2023-01-26,Purdue,@,Michigan,REG (Conf),W 75-70,,22,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,3,4,2,1,1,0,2,3,4.5,A,1,1,mason-gillis-1,Mason Gillis,2023
+19,80,22,2023-01-29,Purdue,,Michigan State,REG (Conf),W 77-61,,21,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,1,2,4,0,0,0,2,3,5.0,H,1,1,mason-gillis-1,Mason Gillis,2023
+20,81,23,2023-02-01,Purdue,,Penn State,REG (Conf),W 80-60,,25,10,14,0.714,9,12,0.75,1,2,0.5,1.036,0,1,0.0,0,3,3,0,0,0,1,0,29,22.7,H,1,1,mason-gillis-1,Mason Gillis,2023
+21,82,24,2023-02-04,Purdue,@,Indiana,REG (Conf),L 74-79,,15,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,4,4,0,0,0,3,2,5,-0.3,A,0,1,mason-gillis-1,Mason Gillis,2023
+22,83,25,2023-02-09,Purdue,,Iowa,REG (Conf),W 87-73,,16,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,0,4,4,0,0,0,2,0,10,5.9,H,1,1,mason-gillis-1,Mason Gillis,2023
+23,84,26,2023-02-12,Purdue,@,Northwestern,REG (Conf),L 58-64,,20,3,7,0.429,3,7,0.429,0,0,,0.643,0,1,0.0,0,3,3,3,0,0,1,2,9,6.1,A,0,1,mason-gillis-1,Mason Gillis,2023
+24,85,27,2023-02-16,Purdue,@,Maryland,REG (Conf),L 54-68,,18,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,3,3,1,0,0,0,4,4,2.3,A,0,1,mason-gillis-1,Mason Gillis,2023
+25,86,28,2023-02-19,Purdue,,Ohio State,REG (Conf),W 82-55,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,5,6,0.833,3,7,10,1,0,0,1,2,7,8.7,H,1,1,mason-gillis-1,Mason Gillis,2023
+26,87,29,2023-02-25,Purdue,,Indiana,REG (Conf),L 71-79,,19,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,4,1,5,0,0,0,0,3,3,1.4,H,0,1,mason-gillis-1,Mason Gillis,2023
+27,88,30,2023-03-02,Purdue,@,Wisconsin,REG (Conf),W 63-61,*,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,2,2,0,-3.9,A,1,1,mason-gillis-1,Mason Gillis,2023
+28,89,31,2023-03-05,Purdue,,Illinois,REG (Conf),W 76-71,*,17,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,4,0.75,2,1,3,1,1,0,1,0,7,7.0,H,1,1,mason-gillis-1,Mason Gillis,2023
+29,90,32,2023-03-10,Purdue,N,Rutgers,CTOURN,W 70-65,*,32,7,8,0.875,2,3,0.667,5,5,1.0,1.0,4,6,0.667,5,4,9,1,0,0,3,2,20,18.0,N,1,0,mason-gillis-1,Mason Gillis,2023
+30,91,33,2023-03-11,Purdue,N,Ohio State,CTOURN,W 80-66,*,27,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,2,0,0,0,2,2,2.2,N,1,0,mason-gillis-1,Mason Gillis,2023
+31,92,34,2023-03-12,Purdue,N,Penn State,CTOURN,W 67-65,*,28,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,4,2,6,3,0,0,3,3,10,7.3,N,1,0,mason-gillis-1,Mason Gillis,2023
+32,93,35,2023-03-17,Purdue,N,Fairleigh Dickinson,ROUND-64,L 58-63,*,31,3,10,0.3,1,7,0.143,2,3,0.667,0.35,3,3,1.0,3,4,7,3,0,1,1,3,10,8.1,N,0,0,mason-gillis-1,Mason Gillis,2023

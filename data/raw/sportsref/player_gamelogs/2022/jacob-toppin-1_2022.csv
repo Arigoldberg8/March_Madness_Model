@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2021-11-09,Kentucky,N,Duke,REG (Non-Conf),L 71-79,,23,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,4,6,1,0,0,0,4,4,2.3,N,0,1,jacob-toppin-1,Jacob Toppin,2022
+2,56,6,2021-11-26,Kentucky,,North Florida,REG (Non-Conf),W 86-52,,10,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,2,2,1,1,1,3,0,3,0.9,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+3,57,7,2021-11-29,Kentucky,,Central Michigan,REG (Non-Conf),W 85-57,,14,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,0,1,1,1,0,0,0,1,7,6.3,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+4,58,8,2021-12-07,Kentucky,,Southern,REG (Non-Conf),W 76-64,,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,4,6,1,0,4,2,0,2,3.7,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+5,59,9,2021-12-11,Kentucky,@,Notre Dame,REG (Non-Conf),L 62-66,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,0,1,0,0,0,2,2.7,A,0,1,jacob-toppin-1,Jacob Toppin,2022
+6,60,10,2021-12-18,Kentucky,N,North Carolina,REG (Non-Conf),W 98-69,,20,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,3,5,3,0,0,0,0,7,9.0,N,1,1,jacob-toppin-1,Jacob Toppin,2022
+7,61,11,2021-12-22,Kentucky,,Western Kentucky,REG (Non-Conf),W 95-60,,24,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,2,1,3,6,1,0,0,2,12,13.4,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+8,62,12,2021-12-29,Kentucky,,Missouri,REG (Conf),W 83-56,,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,0,1,0,2,2,4,1.5,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+9,63,13,2021-12-31,Kentucky,,High Point,REG (Non-Conf),W 92-48,,10,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,3,3,0,0,1,0,1,6,6.6,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+10,64,14,2022-01-04,Kentucky,@,Louisiana State,REG (Conf),L 60-65,,27,6,9,0.667,0,0,,6,9,0.667,0.667,2,3,0.667,2,6,8,2,2,1,0,2,14,16.2,A,0,1,jacob-toppin-1,Jacob Toppin,2022
+11,65,15,2022-01-08,Kentucky,,Georgia,REG (Conf),W 92-77,*,17,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,0,1,0,2,-0.8,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+12,66,16,2022-01-11,Kentucky,@,Vanderbilt,REG (Conf),W 78-66,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,4,5,3,0,0,0,1,4,5.6,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+13,67,17,2022-01-15,Kentucky,,Tennessee,REG (Conf),W 107-79,,15,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,1,0,1,1,0,1,0,1,7,7.4,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+14,68,18,2022-01-19,Kentucky,@,Texas A&M,REG (Conf),W 64-58,,23,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,3,3,6,2,1,1,0,2,9,10.9,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+15,69,19,2022-01-22,Kentucky,@,Auburn,REG (Conf),L 71-80,,18,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,1,0,1,1,2,0,0,5,6,4.7,A,0,1,jacob-toppin-1,Jacob Toppin,2022
+16,70,20,2022-01-25,Kentucky,,Mississippi State,REG (Conf),W 82-74 (OT),,15,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,1,2,3,0.8,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+17,71,21,2022-01-29,Kentucky,@,Kansas,REG (Non-Conf),W 80-62,,11,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,1,2,3,0,0,0,1,0,11,10.1,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+18,72,22,2022-02-02,Kentucky,,Vanderbilt,REG (Conf),W 77-70,,6,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,0,1,0,0,1,1,0,2,1.7,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+19,73,23,2022-02-05,Kentucky,@,Alabama,REG (Conf),W 66-55,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,1,0,2,2,2.9,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+20,74,24,2022-02-08,Kentucky,@,South Carolina,REG (Conf),W 86-76,,6,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,2,1,3,0,0,0,0,0,10,9.8,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+21,75,26,2022-02-15,Kentucky,@,Tennessee,REG (Conf),L 63-76,,20,5,9,0.556,0,1,0.0,5,8,0.625,0.556,1,2,0.5,3,3,6,0,0,0,1,2,11,7.5,A,0,1,jacob-toppin-1,Jacob Toppin,2022
+22,76,27,2022-02-19,Kentucky,,Alabama,REG (Conf),W 90-81,*,40,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,2,4,6,3,0,0,0,2,13,12.6,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+23,77,28,2022-02-23,Kentucky,,Louisiana State,REG (Conf),W 71-66,*,39,2,7,0.286,1,2,0.5,1,5,0.2,0.357,3,4,0.75,1,5,6,0,1,1,0,1,8,7.0,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+24,78,29,2022-02-26,Kentucky,@,Arkansas,REG (Conf),L 73-75,*,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,2,0,0,1,2,2,0.6,A,0,1,jacob-toppin-1,Jacob Toppin,2022
+25,79,30,2022-03-01,Kentucky,,Ole Miss,REG (Conf),W 83-72,,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,1,1,1,0,0,0,1,7,4.9,H,1,1,jacob-toppin-1,Jacob Toppin,2022
+26,80,31,2022-03-05,Kentucky,@,Florida,REG (Conf),W 71-63,,26,1,4,0.25,0,0,,1,4,0.25,0.25,0,1,0.0,1,6,7,1,0,0,1,0,2,1.4,A,1,1,jacob-toppin-1,Jacob Toppin,2022
+27,81,32,2022-03-11,Kentucky,N,Vanderbilt,CTOURN,W 77-71,,20,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,0,,0,2,2,1,0,3,1,1,10,9.8,N,1,0,jacob-toppin-1,Jacob Toppin,2022
+28,82,33,2022-03-12,Kentucky,N,Tennessee,CTOURN,L 62-69,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.8,N,0,0,jacob-toppin-1,Jacob Toppin,2022
+29,83,34,2022-03-17,Kentucky,N,Saint Peter's,ROUND-64,L 79-85 (OT),,16,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,0,1,1,1,0,1,1,0,9,8.4,N,0,0,jacob-toppin-1,Jacob Toppin,2022

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,21,1,2011-11-11,St. Bonaventure,,Cornell,REG (Non-Conf),W 79-58,*,23,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,2,3,1,0,0,2,2,8,4.9,H,1,1,eric-mosley-1,Eric Mosley,2012
+2,22,2,2011-11-18,St. Bonaventure,@,Cleveland State,REG (Non-Conf),L 64-67,*,21,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,2,2,1,0,0,7,4,11,1.8,A,0,1,eric-mosley-1,Eric Mosley,2012
+3,23,3,2011-11-21,St. Bonaventure,@,Siena,REG (Non-Conf),W 64-58,*,26,4,7,0.571,3,6,0.5,1,1,1.0,0.786,6,6,1.0,0,2,2,2,1,0,2,1,17,14.3,A,1,1,eric-mosley-1,Eric Mosley,2012
+4,24,4,2011-11-27,St. Bonaventure,@,Virginia Tech,REG (Non-Conf),L 64-73,*,12,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,3,0,3,2,1,0,2,1,0,-1.4,A,0,1,eric-mosley-1,Eric Mosley,2012
+5,25,5,2011-12-01,St. Bonaventure,,Arkansas State,REG (Non-Conf),L 52-58,*,13,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,2,1,0,2,3,3,-0.2,H,0,1,eric-mosley-1,Eric Mosley,2012
+6,26,6,2011-12-03,St. Bonaventure,@,Buffalo,REG (Non-Conf),W 66-60,,15,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,0,0,4,2,0,1,1,9,10.1,A,1,1,eric-mosley-1,Eric Mosley,2012
+7,27,7,2011-12-07,St. Bonaventure,@,Illinois,REG (Non-Conf),L 43-48,,12,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,1,2,1,0,0,0,1,3,0.5,A,0,1,eric-mosley-1,Eric Mosley,2012
+8,28,8,2011-12-10,St. Bonaventure,,Canisius,REG (Non-Conf),W 81-62,,15,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,4,4,2,1,0,1,1,8,8.6,H,1,1,eric-mosley-1,Eric Mosley,2012
+9,29,9,2011-12-18,St. Bonaventure,,Loyola (MD),REG (Non-Conf),W 76-66,,23,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,4,0.5,0,4,4,3,0,1,2,2,9,7.8,H,1,1,eric-mosley-1,Eric Mosley,2012
+10,30,10,2011-12-20,St. Bonaventure,N,NC State,REG (Non-Conf),L 65-67,,25,5,14,0.357,1,8,0.125,4,6,0.667,0.393,4,4,1.0,1,5,6,2,3,0,2,0,15,11.8,N,0,1,eric-mosley-1,Eric Mosley,2012
+11,31,11,2011-12-23,St. Bonaventure,,Saint Francis (PA),REG (Non-Conf),W 82-58,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,3,1.0,0,4,4,2,0,0,3,1,5,2.5,H,1,1,eric-mosley-1,Eric Mosley,2012
+12,32,12,2011-12-30,St. Bonaventure,@,Niagara,REG (Non-Conf),W 72-70,,28,2,7,0.286,2,7,0.286,0,0,,0.429,4,6,0.667,0,2,2,5,1,0,3,2,10,6.4,A,1,1,eric-mosley-1,Eric Mosley,2012
+13,33,13,2012-01-04,St. Bonaventure,,George Washington,REG (Conf),W 66-56,,27,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,0,5,5,3,1,1,4,4,10,6.7,H,1,1,eric-mosley-1,Eric Mosley,2012
+14,34,14,2012-01-07,St. Bonaventure,@,Duquesne,REG (Conf),L 52-66,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,5,7,0.714,2,2,4,0,0,0,1,4,9,4.2,A,0,1,eric-mosley-1,Eric Mosley,2012
+15,35,15,2012-01-11,St. Bonaventure,,Dayton,REG (Conf),W 81-73,,10,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,1,0,0,0,0,3,2.6,H,1,1,eric-mosley-1,Eric Mosley,2012
+16,36,16,2012-01-14,St. Bonaventure,@,Xavier,REG (Conf),L 64-77,,19,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,1,1,4,2,0,2,3,7,3.1,A,0,1,eric-mosley-1,Eric Mosley,2012
+17,37,17,2012-01-21,St. Bonaventure,,Fordham,REG (Conf),W 95-51,,14,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,0,0,2,2,1,2,2,6,4.6,H,1,1,eric-mosley-1,Eric Mosley,2012
+18,38,18,2012-01-25,St. Bonaventure,@,Rhode Island,REG (Conf),W 72-66 (OT),,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,eric-mosley-1,Eric Mosley,2012
+19,39,19,2012-01-28,St. Bonaventure,,Richmond,REG (Conf),W 62-47,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,4,4,0,0,0,0,0,1,0.4,H,1,1,eric-mosley-1,Eric Mosley,2012
+20,40,20,2012-02-01,St. Bonaventure,@,Saint Louis,REG (Conf),L 62-86,,24,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,4,1.0,0,3,3,4,0,0,0,3,8,6.4,A,0,1,eric-mosley-1,Eric Mosley,2012
+21,41,21,2012-02-08,St. Bonaventure,@,Massachusetts,REG (Conf),L 67-76,,11,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,2,0,0,0,1,2,0.9,A,0,1,eric-mosley-1,Eric Mosley,2012
+22,42,22,2012-02-11,St. Bonaventure,,Duquesne,REG (Conf),W 69-48,,19,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,0,2,2,1,2,0,2,2,12,9.6,H,1,1,eric-mosley-1,Eric Mosley,2012
+23,43,23,2012-02-15,St. Bonaventure,,Temple,REG (Conf),L 70-76,,23,6,11,0.545,4,7,0.571,2,4,0.5,0.727,2,2,1.0,0,4,4,2,0,0,1,3,18,13.1,H,0,1,eric-mosley-1,Eric Mosley,2012
+24,44,24,2012-02-18,St. Bonaventure,,Rhode Island,REG (Conf),W 81-61,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,3,1.0,0,2,2,3,2,0,1,3,6,6.8,H,1,1,eric-mosley-1,Eric Mosley,2012
+25,45,25,2012-02-22,St. Bonaventure,@,Fordham,REG (Conf),W 89-63,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,1,0,0,1,2,2.2,A,1,1,eric-mosley-1,Eric Mosley,2012
+26,46,26,2012-02-25,St. Bonaventure,@,Charlotte,REG (Conf),W 72-56,,14,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,3,0.667,0,1,1,0,1,1,1,0,5,3.2,A,1,1,eric-mosley-1,Eric Mosley,2012
+27,47,27,2012-02-29,St. Bonaventure,,Saint Joseph's,REG (Conf),W 98-93 (2OT),,9,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,0,0,0,1,0,0,0,2,5,0.8,H,1,1,eric-mosley-1,Eric Mosley,2012
+28,48,28,2012-03-03,St. Bonaventure,@,La Salle,REG (Conf),L 61-71,,16,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,1,2,3,1,0,0,0,0,3,1.2,A,0,1,eric-mosley-1,Eric Mosley,2012
+29,49,29,2012-03-09,St. Bonaventure,N,Saint Joseph's,CTOURN,W 71-68,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,N,1,0,eric-mosley-1,Eric Mosley,2012
+30,50,30,2012-03-10,St. Bonaventure,N,Massachusetts,CTOURN,W 84-80,,10,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,2,2,1,0,0,0,2,5,1.4,N,1,0,eric-mosley-1,Eric Mosley,2012
+31,51,31,2012-03-11,St. Bonaventure,N,Xavier,CTOURN,W 67-56,,16,2,8,0.25,2,5,0.4,0,3,0.0,0.375,1,1,1.0,0,0,0,0,0,0,0,2,7,1.4,N,1,0,eric-mosley-1,Eric Mosley,2012
+32,52,32,2012-03-16,St. Bonaventure,N,Florida State,ROUND-64,L 63-66,,7,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,0,0,0,0,0,1,0,3,0.3,N,0,0,eric-mosley-1,Eric Mosley,2012

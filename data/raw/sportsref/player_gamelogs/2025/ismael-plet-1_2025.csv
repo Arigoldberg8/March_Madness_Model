@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2024-11-04,Robert Morris,@,West Virginia,REG (Non-Conf),L 59-87,*,21,4,8,0.5,0,0,,4,8,0.5,0.5,0,1,0.0,2,2,4,1,0,0,1,1,8,4.9,A,0,1,ismael-plet-1,Ismael Plet,2025
+2,93,2,2024-11-07,Robert Morris,@,Delaware,REG (Non-Conf),L 77-81,*,25,4,10,0.4,0,1,0.0,4,9,0.444,0.4,2,4,0.5,2,3,5,1,0,0,1,3,10,4.6,A,0,1,ismael-plet-1,Ismael Plet,2025
+3,94,3,2024-11-10,Robert Morris,,Chatham,REG (Non-Conf),W 79-51,*,19,1,6,0.167,0,0,,1,6,0.167,0.167,1,2,0.5,3,3,6,0,1,0,1,0,3,1.8,H,1,1,ismael-plet-1,Ismael Plet,2025
+4,95,4,2024-11-14,Robert Morris,,Stonehill,REG (Non-Conf),W 63-51,,20,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,2,4,6,1,0,1,1,4,11,10.1,H,1,1,ismael-plet-1,Ismael Plet,2025
+5,96,5,2024-11-15,Robert Morris,,Lindenwood,REG (Non-Conf),W 67-53,,17,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,0,4,4,1,0,0,3,0,8,6.3,H,1,1,ismael-plet-1,Ismael Plet,2025
+6,97,6,2024-11-17,Robert Morris,,New Orleans,REG (Non-Conf),W 73-62,,16,2,2,1.0,0,0,,2,2,1.0,1.0,3,4,0.75,1,1,2,2,0,0,0,3,7,7.2,H,1,1,ismael-plet-1,Ismael Plet,2025
+7,98,7,2024-11-21,Robert Morris,@,Cornell,REG (Non-Conf),W 86-76,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,0,0,0,1,0,0,0,0,4,1.9,A,1,1,ismael-plet-1,Ismael Plet,2025
+8,99,8,2024-11-27,Robert Morris,,Canisius,REG (Non-Conf),W 72-64,,16,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,1,1,3,4,1.5,H,1,1,ismael-plet-1,Ismael Plet,2025
+9,100,9,2024-11-30,Robert Morris,@,Ohio,REG (Non-Conf),L 68-84,,17,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,5,7,1,0,0,0,1,1,2.4,A,0,1,ismael-plet-1,Ismael Plet,2025
+10,101,10,2024-12-04,Robert Morris,,Youngstown State,REG (Conf),L 58-72,,13,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,0,0,0,1,0,0,2,0,3,-0.1,H,0,1,ismael-plet-1,Ismael Plet,2025
+11,102,11,2024-12-08,Robert Morris,@,Purdue Fort Wayne,REG (Conf),L 77-82,,12,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,2,3,5,0,0,0,1,2,3,1.8,A,0,1,ismael-plet-1,Ismael Plet,2025
+12,103,12,2024-12-17,Robert Morris,,Towson,REG (Non-Conf),W 68-67,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,1,1,ismael-plet-1,Ismael Plet,2025
+13,104,13,2024-12-21,Robert Morris,,Saint Francis (PA),REG (Non-Conf),W 90-77,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,4,0,-1.3,H,1,1,ismael-plet-1,Ismael Plet,2025
+14,105,14,2024-12-29,Robert Morris,,Northern Kentucky,REG (Conf),W 97-93 (3OT),,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,1,2,2,0.6,H,1,1,ismael-plet-1,Ismael Plet,2025
+15,106,15,2025-01-02,Robert Morris,@,Detroit Mercy,REG (Conf),L 76-78 (OT),,14,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,3,1,4,0,0,0,1,1,7,6.3,A,0,1,ismael-plet-1,Ismael Plet,2025
+16,107,16,2025-01-04,Robert Morris,@,Oakland,REG (Conf),W 79-71,,18,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,1,1,0,2,4,4,2.8,A,1,1,ismael-plet-1,Ismael Plet,2025
+17,108,17,2025-01-08,Robert Morris,,Cleveland State,REG (Conf),L 69-80,,20,6,8,0.75,0,0,,6,8,0.75,0.75,0,3,0.0,1,2,3,0,0,1,1,4,12,7.0,H,0,1,ismael-plet-1,Ismael Plet,2025
+18,109,18,2025-01-12,Robert Morris,,Wright State,REG (Conf),W 75-72,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,1,4,0.25,2,0,2,0,0,0,1,5,3,-0.8,H,1,1,ismael-plet-1,Ismael Plet,2025
+19,110,19,2025-01-17,Robert Morris,@,Green Bay,REG (Conf),W 89-67,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,A,1,1,ismael-plet-1,Ismael Plet,2025
+20,111,20,2025-01-19,Robert Morris,@,Milwaukee,REG (Conf),W 81-79,,14,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,1,1,2,0,1,1,0,4,9,8.2,A,1,1,ismael-plet-1,Ismael Plet,2025
+21,112,21,2025-01-22,Robert Morris,@,Youngstown State,REG (Conf),W 72-70,,14,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,5,3,8,0,0,1,0,1,2,2.2,A,1,1,ismael-plet-1,Ismael Plet,2025
+22,113,22,2025-01-25,Robert Morris,,Oakland,REG (Conf),W 73-71,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,2,3,1,0,0,0,1,4,3.6,H,1,1,ismael-plet-1,Ismael Plet,2025
+23,114,23,2025-01-30,Robert Morris,,IU Indy,REG (Conf),W 106-53,,21,4,9,0.444,0,0,,4,9,0.444,0.444,5,7,0.714,7,4,11,0,1,0,0,3,13,13.4,H,1,1,ismael-plet-1,Ismael Plet,2025
+24,115,24,2025-02-02,Robert Morris,@,Wright State,REG (Conf),L 64-66,,25,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,3,1,4,0,1,1,2,2,7,5.6,A,0,1,ismael-plet-1,Ismael Plet,2025
+25,116,25,2025-02-05,Robert Morris,,Detroit Mercy,REG (Conf),W 71-56,,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,3,0.0,3,2,5,1,0,1,0,0,6,8.0,H,1,1,ismael-plet-1,Ismael Plet,2025
+26,117,26,2025-02-08,Robert Morris,@,Northern Kentucky,REG (Conf),W 81-76,,18,0,0,,0,0,,0,0,,,0,0,,1,3,4,2,0,1,1,1,0,2.3,A,1,1,ismael-plet-1,Ismael Plet,2025
+27,118,27,2025-02-12,Robert Morris,@,Cleveland State,REG (Conf),W 68-59,,10,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,0,0,0,1,0,2,-1.1,A,1,1,ismael-plet-1,Ismael Plet,2025
+28,119,28,2025-02-15,Robert Morris,,Purdue Fort Wayne,REG (Conf),W 76-69,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,6,7,1,0,0,2,0,2,2.9,H,1,1,ismael-plet-1,Ismael Plet,2025
+29,120,30,2025-02-23,Robert Morris,,Milwaukee,REG (Conf),W 72-59,,13,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,3,1,4,1,0,2,0,2,2,2.6,H,1,1,ismael-plet-1,Ismael Plet,2025
+30,121,31,2025-02-27,Robert Morris,@,IU Indy,REG (Conf),W 82-68,,17,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,0,0,0,0,4,0,-1.0,A,1,1,ismael-plet-1,Ismael Plet,2025
+31,122,32,2025-03-06,Robert Morris,,Wright State,CTOURN,W 83-62,,21,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,5,1,6,3,1,1,0,1,5,10.8,H,1,0,ismael-plet-1,Ismael Plet,2025
+32,123,33,2025-03-10,Robert Morris,N,Oakland,CTOURN,W 79-76 (OT),,23,5,6,0.833,0,0,,5,6,0.833,0.833,0,1,0.0,3,2,5,1,1,0,0,1,10,11.4,N,1,0,ismael-plet-1,Ismael Plet,2025
+33,124,34,2025-03-11,Robert Morris,N,Youngstown State,CTOURN,W 89-78,,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,4,0,4,1,0,0,0,1,4,5.1,N,1,0,ismael-plet-1,Ismael Plet,2025
+34,125,35,2025-03-21,Robert Morris,N,Alabama,ROUND-64,L 81-90,,9,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,1,1,0,0,0,1,2,4,1.8,N,0,0,ismael-plet-1,Ismael Plet,2025

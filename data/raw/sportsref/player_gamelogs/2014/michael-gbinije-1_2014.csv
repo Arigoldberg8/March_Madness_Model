@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,20,1,2013-11-08,Syracuse,,Cornell,REG (Non-Conf),W 82-60,,20,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,1,1,2,5,2,1,0,1,6,11.1,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+2,21,2,2013-11-12,Syracuse,,Fordham,REG (Non-Conf),W 89-74,,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,2,0,0,4,3,3.4,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+3,22,3,2013-11-16,Syracuse,,Colgate,REG (Non-Conf),W 69-50,,18,3,7,0.429,0,2,0.0,3,5,0.6,0.429,5,12,0.417,4,2,6,3,1,0,0,0,11,11.0,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+4,23,4,2013-11-18,Syracuse,,St. Francis Brooklyn,REG (Non-Conf),W 56-50,,22,2,6,0.333,0,0,,2,6,0.333,0.333,2,3,0.667,3,1,4,2,1,0,1,2,6,5.2,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+5,24,5,2013-11-25,Syracuse,N,Minnesota,REG (Non-Conf),W 75-67,,14,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,0,2,1,4,0.6,N,1,1,michael-gbinije-1,Michael Gbinije,2014
+6,25,6,2013-11-26,Syracuse,N,California,REG (Non-Conf),W 92-81,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,1,1,michael-gbinije-1,Michael Gbinije,2014
+7,26,7,2013-11-27,Syracuse,N,Baylor,REG (Non-Conf),W 74-67,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,1,0,1,1,1,0,-0.1,N,1,1,michael-gbinije-1,Michael Gbinije,2014
+8,27,8,2013-12-03,Syracuse,,Indiana,REG (Non-Conf),W 69-52,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,0,0,4,2,0.7,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+9,28,9,2013-12-07,Syracuse,,Binghamton,REG (Non-Conf),W 93-65,,15,2,5,0.4,2,3,0.667,0,2,0.0,0.6,1,2,0.5,1,1,2,5,2,1,1,1,7,9.7,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+10,29,10,2013-12-15,Syracuse,@,St. John's (NY),REG (Non-Conf),W 68-63,,15,0,0,,0,0,,0,0,,,0,1,0.0,0,3,3,0,1,0,0,0,0,1.5,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+11,30,11,2013-12-20,Syracuse,,High Point,REG (Non-Conf),W 75-54,,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,3,3,1,2,0,0,0,5,7.3,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+12,31,12,2013-12-28,Syracuse,,Villanova,REG (Non-Conf),W 78-62,,11,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,1,2,0,1,0,0,3,4,4.5,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+13,32,13,2013-12-31,Syracuse,,Eastern Michigan,REG (Non-Conf),W 70-48,,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,4,1.0,0,3,3,2,2,0,0,4,6,6.3,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+14,33,14,2014-01-04,Syracuse,,Miami (FL),REG (Conf),W 49-44,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,1,0,2,0,0.6,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+15,34,15,2014-01-07,Syracuse,@,Virginia Tech,REG (Conf),W 72-52,,11,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,0,0,1,0,0,1,0,8,5.4,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+16,35,16,2014-01-11,Syracuse,,North Carolina,REG (Conf),W 57-45,,10,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,2,0,0,0,1,3,3.6,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+17,36,17,2014-01-13,Syracuse,@,Boston College,REG (Conf),W 69-59,,5,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,0,1,1,1,-0.8,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+18,37,18,2014-01-18,Syracuse,,Pittsburgh,REG (Conf),W 59-54,,8,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,1,0,1,1,2,1.2,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+19,38,19,2014-01-25,Syracuse,@,Miami (FL),REG (Conf),W 64-52,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+20,39,20,2014-01-29,Syracuse,@,Wake Forest,REG (Conf),W 67-57,,12,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,1,3,4,0,0,0,2,1,3,-0.2,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+21,40,21,2014-02-01,Syracuse,,Duke,REG (Conf),W 91-89 (OT),,12,0,0,,0,0,,0,0,,,0,0,,0,0,0,3,0,0,0,0,0,2.1,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+22,41,22,2014-02-03,Syracuse,,Notre Dame,REG (Conf),W 61-55,,6,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,1,1,3,2.3,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+23,42,23,2014-02-09,Syracuse,,Clemson,REG (Conf),W 57-44,,16,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,3,0,0,0,0,1,3.0,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+24,43,24,2014-02-12,Syracuse,@,Pittsburgh,REG (Conf),W 58-56,,22,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,4,1.0,1,3,4,1,0,0,0,2,7,6.8,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+25,44,25,2014-02-15,Syracuse,,NC State,REG (Conf),W 56-55,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,0,1,0,1,1,2,0.8,H,1,1,michael-gbinije-1,Michael Gbinije,2014
+26,45,26,2014-02-19,Syracuse,,Boston College,REG (Conf),L 59-62 (OT),,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,3,2,0,0,3,0,1.5,H,0,1,michael-gbinije-1,Michael Gbinije,2014
+27,46,27,2014-02-22,Syracuse,@,Duke,REG (Conf),L 60-66,,20,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,1,1,2,0,2,0,0,3,8,7.1,A,0,1,michael-gbinije-1,Michael Gbinije,2014
+28,47,28,2014-02-24,Syracuse,@,Maryland,REG (Conf),W 57-55,,27,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,0,0,1,1,1,2,5,4,-1.1,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+29,48,29,2014-03-01,Syracuse,@,Virginia,REG (Conf),L 56-75,,30,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,3,5,1.4,A,0,1,michael-gbinije-1,Michael Gbinije,2014
+30,49,30,2014-03-04,Syracuse,,Georgia Tech,REG (Conf),L 62-67,,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,1,1,2,0,3,1,0,4,3,3.3,H,0,1,michael-gbinije-1,Michael Gbinije,2014
+31,50,31,2014-03-09,Syracuse,@,Florida State,REG (Conf),W 74-58,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,1,1,2,1,0,0,0,0,0,-0.5,A,1,1,michael-gbinije-1,Michael Gbinije,2014
+32,51,32,2014-03-14,Syracuse,N,NC State,CTOURN,L 63-66,,11,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,0,0,1,1,4,2.3,N,0,0,michael-gbinije-1,Michael Gbinije,2014
+33,52,33,2014-03-20,Syracuse,N,Western Michigan,ROUND-64,W 77-53,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,4,0,1,1,4,0,0.2,N,1,0,michael-gbinije-1,Michael Gbinije,2014
+34,53,34,2014-03-22,Syracuse,N,Dayton,ROUND-32,L 53-55,,22,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,1,1,0,0,0,0,2,8,5.6,N,0,0,michael-gbinije-1,Michael Gbinije,2014

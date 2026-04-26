@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,121,1,2025-11-03,Nebraska,,West Georgia,REG (Non-Conf),W 86-53,*,25,3,7,0.429,0,2,0.0,3,5,0.6,0.429,4,6,0.667,5,6,11,1,0,0,3,1,10,8.1,H,1,1,rienk-mast-1,Rienk Mast,2026
+2,122,2,2025-11-08,Nebraska,,Florida International,REG (Non-Conf),W 96-66,*,25,8,10,0.8,2,3,0.667,6,7,0.857,0.9,0,0,,3,9,12,10,1,0,2,0,18,25.0,H,1,1,rienk-mast-1,Rienk Mast,2026
+3,123,3,2025-11-11,Nebraska,,Maryland Eastern Shore,REG (Non-Conf),W 69-50,*,18,2,8,0.25,1,3,0.333,1,5,0.2,0.313,1,2,0.5,0,2,2,1,0,1,0,0,6,2.8,H,1,1,rienk-mast-1,Rienk Mast,2026
+4,124,4,2025-11-15,Nebraska,N,Oklahoma,REG (Non-Conf),W 105-99,*,34,9,16,0.563,5,7,0.714,4,9,0.444,0.719,3,4,0.75,2,4,6,3,1,0,0,3,26,22.5,N,1,1,rienk-mast-1,Rienk Mast,2026
+5,125,5,2025-11-20,Nebraska,N,New Mexico,REG (Non-Conf),W 84-72,*,30,6,12,0.5,1,5,0.2,5,7,0.714,0.542,4,5,0.8,1,3,4,2,1,0,5,3,17,8.4,N,1,1,rienk-mast-1,Rienk Mast,2026
+6,126,6,2025-11-21,Nebraska,N,Kansas State,REG (Non-Conf),W 86-85,*,32,6,11,0.545,0,3,0.0,6,8,0.75,0.545,8,10,0.8,1,3,4,3,0,0,2,2,20,14.8,N,1,1,rienk-mast-1,Rienk Mast,2026
+7,127,7,2025-11-25,Nebraska,,Winthrop,REG (Non-Conf),W 80-73,*,33,11,18,0.611,7,10,0.7,4,8,0.5,0.806,2,2,1.0,3,2,5,4,1,1,2,2,31,27.2,H,1,1,rienk-mast-1,Rienk Mast,2026
+8,128,8,2025-11-29,Nebraska,,USC Upstate,REG (Non-Conf),W 72-63,*,30,6,10,0.6,0,4,0.0,6,6,1.0,0.6,3,4,0.75,1,5,6,3,1,0,5,1,15,9.9,H,1,1,rienk-mast-1,Rienk Mast,2026
+9,129,9,2025-12-07,Nebraska,,Creighton,REG (Non-Conf),W 71-50,*,31,6,12,0.5,3,5,0.6,3,7,0.429,0.625,5,5,1.0,3,2,5,2,1,0,0,2,20,18.3,H,1,1,rienk-mast-1,Rienk Mast,2026
+10,130,10,2025-12-10,Nebraska,,Wisconsin,REG (Conf),W 90-60,*,26,8,15,0.533,1,6,0.167,7,9,0.778,0.567,0,0,,3,7,10,2,0,0,1,0,17,14.3,H,1,1,rienk-mast-1,Rienk Mast,2026
+11,131,11,2025-12-13,Nebraska,@,Illinois,REG (Conf),W 83-80,*,34,7,15,0.467,3,6,0.5,4,9,0.444,0.567,0,0,,4,3,7,2,1,0,2,2,17,12.6,A,1,1,rienk-mast-1,Rienk Mast,2026
+12,132,12,2025-12-21,Nebraska,,North Dakota,REG (Non-Conf),W 78-55,*,21,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,3,1.0,4,5,9,2,1,0,2,1,7,7.9,H,1,1,rienk-mast-1,Rienk Mast,2026
+13,133,13,2025-12-30,Nebraska,,New Hampshire,REG (Non-Conf),W 86-55,*,24,3,11,0.273,0,4,0.0,3,7,0.429,0.273,4,4,1.0,3,4,7,5,1,0,2,1,10,8.9,H,1,1,rienk-mast-1,Rienk Mast,2026
+14,134,14,2026-01-02,Nebraska,,Michigan State,REG (Conf),W 58-56,*,36,6,15,0.4,6,13,0.462,0,2,0.0,0.6,1,2,0.5,4,3,7,3,0,3,3,3,19,14.2,H,1,1,rienk-mast-1,Rienk Mast,2026
+15,135,15,2026-01-05,Nebraska,@,Ohio State,REG (Conf),W 72-69,*,35,5,14,0.357,1,6,0.167,4,8,0.5,0.393,1,1,1.0,0,4,4,2,0,1,3,1,12,4.1,A,1,1,rienk-mast-1,Rienk Mast,2026
+16,136,16,2026-01-10,Nebraska,@,Indiana,REG (Conf),W 83-77,*,32,6,14,0.429,1,7,0.143,5,7,0.714,0.464,0,0,,1,5,6,2,0,0,1,4,13,6.6,A,1,1,rienk-mast-1,Rienk Mast,2026
+17,137,17,2026-01-13,Nebraska,,Oregon,REG (Conf),W 90-55,*,17,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,4,4,3,0,0,1,3,5,4.1,H,1,1,rienk-mast-1,Rienk Mast,2026
+18,138,18,2026-01-17,Nebraska,@,Northwestern,REG (Conf),W 77-58,*,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,1,1,2,2,0,0,1,1,9,7.0,A,1,1,rienk-mast-1,Rienk Mast,2026
+19,139,19,2026-01-21,Nebraska,,Washington,REG (Conf),W 76-66,*,33,4,13,0.308,2,8,0.25,2,5,0.4,0.385,2,2,1.0,0,3,3,4,0,1,1,0,12,7.9,H,1,1,rienk-mast-1,Rienk Mast,2026
+20,140,20,2026-01-24,Nebraska,@,Minnesota,REG (Conf),W 76-57,*,33,3,11,0.273,0,3,0.0,3,8,0.375,0.273,2,2,1.0,4,2,6,3,1,0,0,2,8,7.2,A,1,1,rienk-mast-1,Rienk Mast,2026
+21,141,22,2026-02-01,Nebraska,,Illinois,REG (Conf),L 69-78,*,26,2,10,0.2,0,3,0.0,2,7,0.286,0.2,1,1,1.0,1,3,4,5,0,0,1,1,5,2.5,H,0,1,rienk-mast-1,Rienk Mast,2026
+22,142,23,2026-02-07,Nebraska,@,Rutgers,REG (Conf),W 80-68,*,32,11,20,0.55,1,4,0.25,10,16,0.625,0.575,3,4,0.75,4,4,8,2,1,1,0,1,26,22.7,A,1,1,rienk-mast-1,Rienk Mast,2026
+23,143,24,2026-02-10,Nebraska,,Purdue,REG (Conf),L 77-80 (OT),*,34,6,13,0.462,4,7,0.571,2,6,0.333,0.615,2,4,0.5,2,4,6,7,0,0,0,5,18,16.0,H,0,1,rienk-mast-1,Rienk Mast,2026
+24,144,25,2026-02-14,Nebraska,,Northwestern,REG (Conf),W 68-49,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,1,1.0,4,5,9,4,0,0,6,1,3,1.3,H,1,1,rienk-mast-1,Rienk Mast,2026
+25,145,26,2026-02-17,Nebraska,@,Iowa,REG (Conf),L 52-57,*,32,4,10,0.4,0,3,0.0,4,7,0.571,0.4,0,0,,1,7,8,1,1,0,3,4,8,2.5,A,0,1,rienk-mast-1,Rienk Mast,2026
+26,146,27,2026-02-21,Nebraska,,Penn State,REG (Conf),W 87-64,*,28,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,0,,2,4,6,3,0,0,0,0,8,7.3,H,1,1,rienk-mast-1,Rienk Mast,2026
+27,147,28,2026-02-25,Nebraska,,Maryland,REG (Conf),W 74-61,*,25,5,13,0.385,1,2,0.5,4,11,0.364,0.423,2,2,1.0,2,2,4,2,0,0,3,3,13,5.1,H,1,1,rienk-mast-1,Rienk Mast,2026
+28,148,29,2026-02-28,Nebraska,@,Southern California,REG (Conf),W 82-67,*,32,4,12,0.333,1,4,0.25,3,8,0.375,0.375,2,2,1.0,5,1,6,3,0,0,1,2,11,8.3,A,1,1,rienk-mast-1,Rienk Mast,2026
+29,149,30,2026-03-03,Nebraska,@,UCLA,REG (Conf),L 52-72,*,29,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,5,0.6,2,1,3,1,1,0,1,1,11,8.9,A,0,1,rienk-mast-1,Rienk Mast,2026
+30,150,31,2026-03-08,Nebraska,,Iowa,REG (Conf),W 84-75 (OT),*,35,4,9,0.444,2,6,0.333,2,3,0.667,0.556,4,4,1.0,1,2,3,0,0,0,2,2,14,7.8,H,1,1,rienk-mast-1,Rienk Mast,2026
+31,151,32,2026-03-13,Nebraska,N,Purdue,CTOURN,L 58-74,*,31,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,2,0,2,3,0,0,1,2,11,8.0,N,0,0,rienk-mast-1,Rienk Mast,2026

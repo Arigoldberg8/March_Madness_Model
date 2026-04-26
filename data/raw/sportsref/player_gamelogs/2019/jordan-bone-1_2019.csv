@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,59,1,2018-11-06,Tennessee,,Lenoir-Rhyne,REG (Non-Conf),W 86-41,*,26,8,12,0.667,0,2,0.0,8,10,0.8,0.667,2,2,1.0,0,6,6,3,2,0,1,0,18,17.7,H,1,1,jordan-bone-1,Jordan Bone,2019
+2,60,2,2018-11-09,Tennessee,,Louisiana,REG (Non-Conf),W 87-65,*,28,4,13,0.308,2,7,0.286,2,6,0.333,0.385,0,0,,0,2,2,8,0,0,3,3,10,4.5,H,1,1,jordan-bone-1,Jordan Bone,2019
+3,61,3,2018-11-13,Tennessee,,Georgia Tech,REG (Non-Conf),W 66-53,*,34,5,11,0.455,0,2,0.0,5,9,0.556,0.455,5,8,0.625,0,1,1,1,2,0,3,0,15,8.1,H,1,1,jordan-bone-1,Jordan Bone,2019
+4,62,4,2018-11-21,Tennessee,N,Louisville,REG (Non-Conf),W 92-81,*,29,4,11,0.364,1,4,0.25,3,7,0.429,0.409,2,2,1.0,0,2,2,6,1,1,1,2,11,9.6,N,1,1,jordan-bone-1,Jordan Bone,2019
+5,63,5,2018-11-23,Tennessee,N,Kansas,REG (Non-Conf),L 81-87 (OT),*,40,6,10,0.6,2,3,0.667,4,7,0.571,0.7,2,2,1.0,2,4,6,5,1,1,1,1,16,17.8,N,0,1,jordan-bone-1,Jordan Bone,2019
+6,64,6,2018-11-28,Tennessee,,Eastern Kentucky,REG (Non-Conf),W 95-67,*,29,6,15,0.4,0,6,0.0,6,9,0.667,0.4,2,3,0.667,0,2,2,7,0,0,2,3,14,7.8,H,1,1,jordan-bone-1,Jordan Bone,2019
+7,65,7,2018-12-02,Tennessee,,Texas A&M–Corpus Christi,REG (Non-Conf),W 79-51,*,33,1,6,0.167,1,3,0.333,0,3,0.0,0.25,4,4,1.0,0,2,2,10,2,0,1,1,7,11.4,H,1,1,jordan-bone-1,Jordan Bone,2019
+8,66,8,2018-12-09,Tennessee,N,Gonzaga,REG (Non-Conf),W 76-73,*,36,2,13,0.154,1,6,0.167,1,7,0.143,0.192,0,0,,1,1,2,9,0,0,3,0,5,1.0,N,1,1,jordan-bone-1,Jordan Bone,2019
+9,67,9,2018-12-15,Tennessee,@,Memphis,REG (Non-Conf),W 102-92,*,30,3,8,0.375,0,3,0.0,3,5,0.6,0.375,11,12,0.917,1,0,1,3,0,0,5,3,17,8.8,A,1,1,jordan-bone-1,Jordan Bone,2019
+10,68,10,2018-12-19,Tennessee,,Samford,REG (Non-Conf),W 83-70,*,37,11,16,0.688,2,4,0.5,9,12,0.75,0.75,0,0,,1,0,1,11,0,0,2,1,24,23.2,H,1,1,jordan-bone-1,Jordan Bone,2019
+11,69,11,2018-12-22,Tennessee,,Wake Forest,REG (Non-Conf),W 83-64,*,34,8,15,0.533,1,4,0.25,7,11,0.636,0.567,1,2,0.5,1,3,4,5,0,0,1,3,18,13.2,H,1,1,jordan-bone-1,Jordan Bone,2019
+12,70,12,2018-12-29,Tennessee,,Tennessee Tech,REG (Non-Conf),W 96-53,*,26,6,11,0.545,1,2,0.5,5,9,0.556,0.591,3,3,1.0,0,0,0,10,0,0,1,0,16,16.7,H,1,1,jordan-bone-1,Jordan Bone,2019
+13,71,13,2019-01-05,Tennessee,,Georgia,REG (Conf),W 96-50,*,28,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,1,1,2,5,1,0,1,1,11,9.7,H,1,1,jordan-bone-1,Jordan Bone,2019
+14,72,14,2019-01-08,Tennessee,@,Missouri,REG (Conf),W 87-63,*,35,5,10,0.5,2,5,0.4,3,5,0.6,0.6,5,6,0.833,1,4,5,5,1,1,0,0,17,18.7,A,1,1,jordan-bone-1,Jordan Bone,2019
+15,73,15,2019-01-12,Tennessee,@,Florida,REG (Conf),W 78-67,*,37,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,1,4,5,5,1,0,2,2,8,7.2,A,1,1,jordan-bone-1,Jordan Bone,2019
+16,74,16,2019-01-15,Tennessee,,Arkansas,REG (Conf),W 106-87,*,30,2,10,0.2,0,1,0.0,2,9,0.222,0.2,4,4,1.0,1,1,2,8,2,0,2,1,8,8.0,H,1,1,jordan-bone-1,Jordan Bone,2019
+17,75,17,2019-01-19,Tennessee,,Alabama,REG (Conf),W 71-68,*,31,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,1,0.0,0,2,2,7,0,0,1,1,10,8.7,H,1,1,jordan-bone-1,Jordan Bone,2019
+18,76,18,2019-01-23,Tennessee,@,Vanderbilt,REG (Conf),W 88-83 (OT),*,36,5,10,0.5,2,3,0.667,3,7,0.429,0.6,2,3,0.667,1,1,2,7,1,0,0,2,14,14.7,A,1,1,jordan-bone-1,Jordan Bone,2019
+19,77,19,2019-01-26,Tennessee,,West Virginia,REG (Non-Conf),W 83-66,*,33,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,1,1.0,0,5,5,5,1,0,4,0,9,6.3,H,1,1,jordan-bone-1,Jordan Bone,2019
+20,78,20,2019-01-29,Tennessee,@,South Carolina,REG (Conf),W 92-70,*,36,7,13,0.538,3,5,0.6,4,8,0.5,0.654,2,2,1.0,0,5,5,9,0,1,3,0,19,18.2,A,1,1,jordan-bone-1,Jordan Bone,2019
+21,79,21,2019-02-02,Tennessee,@,Texas A&M,REG (Conf),W 93-76,*,34,7,7,1.0,4,4,1.0,3,3,1.0,1.286,0,0,,0,5,5,10,0,0,2,2,18,21.6,A,1,1,jordan-bone-1,Jordan Bone,2019
+22,80,22,2019-02-05,Tennessee,,Missouri,REG (Conf),W 72-60,*,34,5,13,0.385,1,4,0.25,4,9,0.444,0.423,0,2,0.0,0,4,4,7,1,0,3,3,11,6.0,H,1,1,jordan-bone-1,Jordan Bone,2019
+23,81,23,2019-02-09,Tennessee,,Florida,REG (Conf),W 73-61,*,30,5,11,0.455,0,3,0.0,5,8,0.625,0.455,0,0,,1,4,5,5,0,0,4,1,10,5.3,H,1,1,jordan-bone-1,Jordan Bone,2019
+24,82,24,2019-02-13,Tennessee,,South Carolina,REG (Conf),W 85-73,*,31,3,7,0.429,0,3,0.0,3,4,0.75,0.429,4,4,1.0,0,5,5,6,0,0,4,0,10,8.0,H,1,1,jordan-bone-1,Jordan Bone,2019
+25,83,25,2019-02-16,Tennessee,@,Kentucky,REG (Conf),L 69-86,*,34,8,13,0.615,3,4,0.75,5,9,0.556,0.731,0,0,,0,1,1,6,0,0,3,4,19,13.0,A,0,1,jordan-bone-1,Jordan Bone,2019
+26,84,26,2019-02-19,Tennessee,,Vanderbilt,REG (Conf),W 58-46,*,32,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,3,3,6,0,0,2,0,9,8.8,H,1,1,jordan-bone-1,Jordan Bone,2019
+27,85,27,2019-02-23,Tennessee,@,Louisiana State,REG (Conf),L 80-82 (OT),*,31,5,10,0.5,3,5,0.6,2,5,0.4,0.65,0,0,,1,2,3,0,3,0,3,4,13,7.7,A,0,1,jordan-bone-1,Jordan Bone,2019
+28,86,28,2019-02-27,Tennessee,@,Ole Miss,REG (Conf),W 73-71,*,32,4,9,0.444,0,2,0.0,4,7,0.571,0.444,1,1,1.0,0,5,5,4,0,0,2,1,9,6.2,A,1,1,jordan-bone-1,Jordan Bone,2019
+29,87,29,2019-03-02,Tennessee,,Kentucky,REG (Conf),W 71-52,*,35,11,15,0.733,5,5,1.0,6,10,0.6,0.9,0,0,,0,3,3,3,2,0,0,2,27,25.1,H,1,1,jordan-bone-1,Jordan Bone,2019
+30,88,30,2019-03-05,Tennessee,,Mississippi State,REG (Conf),W 71-54,*,30,1,7,0.143,0,4,0.0,1,3,0.333,0.143,3,5,0.6,1,3,4,6,2,0,2,2,5,4.7,H,1,1,jordan-bone-1,Jordan Bone,2019
+31,89,31,2019-03-09,Tennessee,@,Auburn,REG (Conf),L 80-84,*,37,7,15,0.467,2,8,0.25,5,7,0.714,0.533,1,2,0.5,1,2,3,7,0,0,1,0,17,14.1,A,0,1,jordan-bone-1,Jordan Bone,2019
+32,90,32,2019-03-15,Tennessee,N,Mississippi State,CTOURN,W 83-76,*,31,3,8,0.375,1,2,0.5,2,6,0.333,0.438,7,8,0.875,0,4,4,9,1,0,1,1,14,16.3,N,1,0,jordan-bone-1,Jordan Bone,2019
+33,91,33,2019-03-16,Tennessee,N,Kentucky,CTOURN,W 82-78,*,36,4,8,0.5,2,4,0.5,2,4,0.5,0.625,8,8,1.0,0,1,1,5,0,0,1,0,18,16.8,N,1,0,jordan-bone-1,Jordan Bone,2019
+34,92,34,2019-03-17,Tennessee,N,Auburn,CTOURN,L 64-84,*,33,5,12,0.417,1,3,0.333,4,9,0.444,0.458,0,0,,1,2,3,2,0,0,3,1,11,3.9,N,0,0,jordan-bone-1,Jordan Bone,2019
+35,93,35,2019-03-22,Tennessee,N,Colgate,ROUND-64,W 77-70,*,34,6,15,0.4,2,6,0.333,4,9,0.444,0.467,2,2,1.0,3,2,5,3,1,0,2,2,16,10.9,N,1,0,jordan-bone-1,Jordan Bone,2019
+36,94,36,2019-03-24,Tennessee,N,Iowa,ROUND-32,W 83-77 (OT),*,38,5,12,0.417,2,5,0.4,3,7,0.429,0.5,2,2,1.0,0,3,3,3,0,0,3,2,14,6.8,N,1,0,jordan-bone-1,Jordan Bone,2019
+37,95,37,2019-03-28,Tennessee,N,Purdue,ROUND-16,L 94-99 (OT),*,39,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,0,4,4,4,1,0,1,0,10,8.6,N,0,0,jordan-bone-1,Jordan Bone,2019

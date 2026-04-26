@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,99,1,2011-11-11,Saint Louis,,Tennessee State,REG (Non-Conf),W 71-37,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,3,3,1.0,1,3,4,1,0,0,1,2,11,8.2,H,1,1,brian-conklin-2,Brian Conklin,2012
+2,100,2,2011-11-15,Saint Louis,@,Southern Illinois,REG (Non-Conf),W 61-42,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,6,6,1.0,2,3,5,0,1,1,0,4,14,14.5,A,1,1,brian-conklin-2,Brian Conklin,2012
+3,101,3,2011-11-20,Saint Louis,,Washington,REG (Non-Conf),W 77-64,*,34,9,15,0.6,0,0,,9,15,0.6,0.6,7,8,0.875,0,4,4,1,1,0,1,0,25,19.6,H,1,1,brian-conklin-2,Brian Conklin,2012
+4,102,4,2011-11-24,Saint Louis,N,Boston College,REG (Non-Conf),W 62-51,*,31,7,11,0.636,0,0,,7,11,0.636,0.636,4,8,0.5,2,2,4,1,3,0,3,3,18,13.0,N,1,1,brian-conklin-2,Brian Conklin,2012
+5,103,5,2011-11-25,Saint Louis,N,Villanova,REG (Non-Conf),W 80-68,*,35,3,8,0.375,0,0,,3,8,0.375,0.375,3,4,0.75,2,5,7,2,0,0,1,0,9,7.5,N,1,1,brian-conklin-2,Brian Conklin,2012
+6,104,6,2011-11-27,Saint Louis,N,Oklahoma,REG (Non-Conf),W 83-63,*,29,9,11,0.818,0,0,,9,11,0.818,0.818,7,7,1.0,2,2,4,0,0,0,1,3,25,20.7,N,1,1,brian-conklin-2,Brian Conklin,2012
+7,105,7,2011-11-29,Saint Louis,@,Loyola Marymount,REG (Non-Conf),L 68-75,*,35,3,5,0.6,0,0,,3,5,0.6,0.6,7,8,0.875,2,3,5,0,0,0,3,5,13,7.6,A,0,1,brian-conklin-2,Brian Conklin,2012
+8,106,8,2011-12-03,Saint Louis,,Portland,REG (Non-Conf),W 73-53,*,25,7,7,1.0,0,0,,7,7,1.0,1.0,5,6,0.833,4,1,5,0,2,0,3,4,19,17.0,H,1,1,brian-conklin-2,Brian Conklin,2012
+9,107,9,2011-12-07,Saint Louis,,Vermont,REG (Non-Conf),W 62-43,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,1,4,5,1,0,0,4,3,10,4.8,H,1,1,brian-conklin-2,Brian Conklin,2012
+10,108,10,2011-12-10,Saint Louis,,Ill.-Springfield,REG (Non-Conf),W 72-62,*,34,4,9,0.444,0,0,,4,9,0.444,0.444,8,8,1.0,4,3,7,2,3,0,1,3,16,17.2,H,1,1,brian-conklin-2,Brian Conklin,2012
+11,109,11,2011-12-17,Saint Louis,,Alabama State,REG (Non-Conf),W 65-35,*,15,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,2,4,6,0,1,1,2,1,8,9.0,H,1,1,brian-conklin-2,Brian Conklin,2012
+12,110,12,2011-12-22,Saint Louis,,Arkansas State,REG (Non-Conf),W 70-46,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,2,3,5,0,1,1,3,1,12,8.7,H,1,1,brian-conklin-2,Brian Conklin,2012
+13,111,13,2011-12-27,Saint Louis,,Texas Southern,REG (Non-Conf),W 71-39,*,21,5,7,0.714,0,0,,5,7,0.714,0.714,5,7,0.714,0,4,4,1,0,0,3,1,15,9.8,H,1,1,brian-conklin-2,Brian Conklin,2012
+14,112,14,2011-12-31,Saint Louis,@,New Mexico,REG (Non-Conf),L 60-64,*,35,8,12,0.667,0,0,,8,12,0.667,0.667,4,4,1.0,4,5,9,0,0,0,0,2,20,18.3,A,0,1,brian-conklin-2,Brian Conklin,2012
+15,113,15,2012-01-04,Saint Louis,@,Dayton,REG (Conf),L 72-79 (OT),*,33,4,10,0.4,1,1,1.0,3,9,0.333,0.45,5,5,1.0,1,2,3,0,2,0,3,5,14,6.9,A,0,1,brian-conklin-2,Brian Conklin,2012
+16,114,16,2012-01-07,Saint Louis,,George Washington,REG (Conf),W 78-56,*,31,1,9,0.111,0,0,,1,9,0.111,0.111,4,4,1.0,4,3,7,2,0,1,3,3,6,1.7,H,1,1,brian-conklin-2,Brian Conklin,2012
+17,115,17,2012-01-11,Saint Louis,,Temple,REG (Conf),L 67-72,*,29,5,9,0.556,0,0,,5,9,0.556,0.556,2,4,0.5,5,1,6,2,1,0,1,3,12,10.9,H,0,1,brian-conklin-2,Brian Conklin,2012
+18,116,18,2012-01-14,Saint Louis,@,Charlotte,REG (Conf),W 68-67,*,36,6,13,0.462,0,0,,6,13,0.462,0.462,2,3,0.667,4,2,6,1,1,0,3,3,14,7.8,A,1,1,brian-conklin-2,Brian Conklin,2012
+19,117,19,2012-01-21,Saint Louis,,Duquesne,REG (Conf),W 68-41,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,5,6,0.833,3,3,6,4,0,0,1,1,11,12.0,H,1,1,brian-conklin-2,Brian Conklin,2012
+20,118,20,2012-01-25,Saint Louis,@,Xavier,REG (Conf),W 73-68,*,25,6,10,0.6,0,0,,6,10,0.6,0.6,7,9,0.778,2,2,4,1,0,0,2,4,19,12.7,A,1,1,brian-conklin-2,Brian Conklin,2012
+21,119,21,2012-01-28,Saint Louis,@,Massachusetts,REG (Conf),L 59-72,,34,7,16,0.438,0,1,0.0,7,15,0.467,0.438,3,7,0.429,4,4,8,0,0,0,3,2,17,7.2,A,0,1,brian-conklin-2,Brian Conklin,2012
+22,120,22,2012-02-01,Saint Louis,,St. Bonaventure,REG (Conf),W 86-62,*,19,6,6,1.0,0,0,,6,6,1.0,1.0,7,9,0.778,2,0,2,0,0,0,3,3,19,13.6,H,1,1,brian-conklin-2,Brian Conklin,2012
+23,121,23,2012-02-04,Saint Louis,,Dayton,REG (Conf),W 58-50,*,37,6,12,0.5,0,0,,6,12,0.5,0.5,4,8,0.5,3,5,8,2,2,1,1,1,16,14.7,H,1,1,brian-conklin-2,Brian Conklin,2012
+24,122,24,2012-02-08,Saint Louis,@,Saint Joseph's,REG (Conf),W 72-60,*,31,3,9,0.333,0,0,,3,9,0.333,0.333,7,9,0.778,0,3,3,0,1,0,0,2,13,8.2,A,1,1,brian-conklin-2,Brian Conklin,2012
+25,123,25,2012-02-11,Saint Louis,@,La Salle,REG (Conf),W 59-51,*,33,4,12,0.333,0,0,,4,12,0.333,0.333,2,2,1.0,1,2,3,2,1,1,3,1,10,4.2,A,1,1,brian-conklin-2,Brian Conklin,2012
+26,124,26,2012-02-15,Saint Louis,,Richmond,REG (Conf),W 64-50,*,28,1,6,0.167,0,0,,1,6,0.167,0.167,3,4,0.75,1,3,4,2,1,1,1,5,5,2.5,H,1,1,brian-conklin-2,Brian Conklin,2012
+27,125,27,2012-02-18,Saint Louis,,Fordham,REG (Conf),W 66-46,*,22,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,1,2,3,2,0,1,2,1,3,0.5,H,1,1,brian-conklin-2,Brian Conklin,2012
+28,126,28,2012-02-25,Saint Louis,@,Rhode Island,REG (Conf),L 62-64,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,2,2,4,2,0,0,1,4,10,7.5,A,0,1,brian-conklin-2,Brian Conklin,2012
+29,127,29,2012-02-28,Saint Louis,,Xavier,REG (Conf),W 70-59,*,36,7,14,0.5,0,0,,7,14,0.5,0.5,9,10,0.9,1,5,6,2,0,1,1,2,23,18.1,H,1,1,brian-conklin-2,Brian Conklin,2012
+30,128,30,2012-03-03,Saint Louis,@,Duquesne,REG (Conf),W 75-60,*,32,4,8,0.5,0,0,,4,8,0.5,0.5,3,6,0.5,1,1,2,5,0,0,3,4,11,5.7,A,1,1,brian-conklin-2,Brian Conklin,2012
+31,129,31,2012-03-09,Saint Louis,N,La Salle,CTOURN,W 78-71,*,31,4,9,0.444,0,0,,4,9,0.444,0.444,6,6,1.0,2,1,3,4,2,0,2,3,14,12.6,N,1,0,brian-conklin-2,Brian Conklin,2012
+32,130,32,2012-03-10,Saint Louis,N,Xavier,CTOURN,L 64-71,*,29,4,9,0.444,0,0,,4,9,0.444,0.444,6,9,0.667,0,0,0,0,1,0,3,5,14,4.1,N,0,0,brian-conklin-2,Brian Conklin,2012
+33,131,33,2012-03-16,Saint Louis,N,Memphis,ROUND-64,W 61-54,*,37,3,9,0.333,0,0,,3,9,0.333,0.333,10,11,0.909,1,1,2,0,0,1,8,3,16,3.0,N,1,0,brian-conklin-2,Brian Conklin,2012
+34,132,34,2012-03-18,Saint Louis,N,Michigan State,ROUND-32,L 61-65,*,30,3,9,0.333,0,0,,3,9,0.333,0.333,5,6,0.833,1,1,2,2,0,1,1,3,11,6.4,N,0,0,brian-conklin-2,Brian Conklin,2012

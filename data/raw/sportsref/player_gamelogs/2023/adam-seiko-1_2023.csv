@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,118,1,2022-11-07,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 80-57,,16,1,1,1.0,1,1,1.0,0,0,,1.5,3,3,1.0,0,1,1,1,0,0,0,1,6,6.3,H,1,1,adam-seiko-1,Adam Seiko,2023
+2,119,2,2022-11-11,San Diego State,,Brigham Young,REG (Non-Conf),W 82-75,,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,0,3,0,-0.2,H,1,1,adam-seiko-1,Adam Seiko,2023
+3,120,3,2022-11-15,San Diego State,@,Stanford,REG (Non-Conf),W 74-62,,22,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,1,2,3,1,0,0,1,1,8,7.3,A,1,1,adam-seiko-1,Adam Seiko,2023
+4,121,4,2022-11-21,San Diego State,N,Ohio State,REG (Non-Conf),W 88-77,,22,5,6,0.833,2,3,0.667,3,3,1.0,1.0,2,2,1.0,0,5,5,0,0,0,1,1,14,11.9,N,1,1,adam-seiko-1,Adam Seiko,2023
+5,122,5,2022-11-22,San Diego State,N,Arizona,REG (Non-Conf),L 70-87,,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,1,0,0,0,2,2.3,N,0,1,adam-seiko-1,Adam Seiko,2023
+6,123,6,2022-11-23,San Diego State,N,Arkansas,REG (Non-Conf),L 74-78 (OT),,16,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,2,2,1,1,0,3,1,2,0.2,N,0,1,adam-seiko-1,Adam Seiko,2023
+7,124,7,2022-11-29,San Diego State,,UC Irvine,REG (Non-Conf),W 72-69,,17,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,2,0.5,0,0,0,1,1,0,0,0,6,5.3,H,1,1,adam-seiko-1,Adam Seiko,2023
+8,125,8,2022-12-02,San Diego State,,Occidental,REG (Non-Conf),W 95-57,,18,7,11,0.636,6,9,0.667,1,2,0.5,0.909,0,0,,1,0,1,1,0,0,0,0,20,16.5,H,1,1,adam-seiko-1,Adam Seiko,2023
+9,126,9,2022-12-05,San Diego State,,Troy,REG (Non-Conf),W 60-55,,19,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,1,2,0,2,0,0,0,3,2.2,H,1,1,adam-seiko-1,Adam Seiko,2023
+10,127,10,2022-12-10,San Diego State,N,St. Mary's (CA),REG (Non-Conf),L 61-68,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,1,0.0,0,1,1,0,0,0,1,2,0,-3.3,N,0,1,adam-seiko-1,Adam Seiko,2023
+11,128,12,2022-12-20,San Diego State,,UC San Diego,REG (Non-Conf),W 62-46,,17,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,2,2,0,0,0,0,1,6,2.8,H,1,1,adam-seiko-1,Adam Seiko,2023
+12,129,13,2022-12-28,San Diego State,,Air Force,REG (Conf),W 71-55,,25,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,1,3,4,0,1,0,1,1,9,6.5,H,1,1,adam-seiko-1,Adam Seiko,2023
+13,130,14,2022-12-31,San Diego State,@,UNLV,REG (Conf),W 76-67,,20,1,2,0.5,1,2,0.5,0,0,,0.75,1,4,0.25,0,0,0,0,0,0,0,0,4,1.8,A,1,1,adam-seiko-1,Adam Seiko,2023
+14,131,15,2023-01-07,San Diego State,@,Wyoming,REG (Conf),W 80-75,,29,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,3,1,0,2,3,6,5.2,A,1,1,adam-seiko-1,Adam Seiko,2023
+15,132,16,2023-01-10,San Diego State,,Nevada,REG (Conf),W 74-65,,20,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,1,0,0,2,0,5,3.7,H,1,1,adam-seiko-1,Adam Seiko,2023
+16,133,17,2023-01-14,San Diego State,,New Mexico,REG (Conf),L 67-76,,21,4,6,0.667,3,5,0.6,1,1,1.0,0.917,2,2,1.0,1,2,3,1,1,0,1,1,13,12.0,H,0,1,adam-seiko-1,Adam Seiko,2023
+17,134,18,2023-01-18,San Diego State,@,Colorado State,REG (Conf),W 82-76 (OT),,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,0,0,0,0,3,3,-0.6,A,1,1,adam-seiko-1,Adam Seiko,2023
+18,135,20,2023-01-25,San Diego State,,Utah State,REG (Conf),W 85-75,,27,7,10,0.7,7,9,0.778,0,1,0.0,1.05,4,4,1.0,1,2,3,1,0,0,2,1,25,20.4,H,1,1,adam-seiko-1,Adam Seiko,2023
+19,136,21,2023-01-28,San Diego State,,San Jose State,REG (Conf),W 72-51,,25,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,0,0,0,0,0,0,0,3,-0.1,H,1,1,adam-seiko-1,Adam Seiko,2023
+20,137,22,2023-01-31,San Diego State,@,Nevada,REG (Conf),L 66-75,,25,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,1,2,6,4.2,A,0,1,adam-seiko-1,Adam Seiko,2023
+21,138,23,2023-02-03,San Diego State,,Boise State,REG (Conf),W 72-52,,19,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,0,0,1,0,0,1,0,9,5.0,H,1,1,adam-seiko-1,Adam Seiko,2023
+22,139,24,2023-02-08,San Diego State,@,Utah State,REG (Conf),W 63-61,,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,4,0,-3.0,A,1,1,adam-seiko-1,Adam Seiko,2023
+23,140,25,2023-02-11,San Diego State,,UNLV,REG (Conf),W 82-71,,25,6,11,0.545,6,10,0.6,0,1,0.0,0.818,0,0,,0,2,2,1,0,0,1,2,18,12.2,H,1,1,adam-seiko-1,Adam Seiko,2023
+24,141,26,2023-02-15,San Diego State,@,Fresno State,REG (Conf),W 45-43,,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,A,1,1,adam-seiko-1,Adam Seiko,2023
+25,142,27,2023-02-21,San Diego State,,Colorado State,REG (Conf),W 77-58,,20,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,1,0,-2.9,H,1,1,adam-seiko-1,Adam Seiko,2023
+26,143,28,2023-02-25,San Diego State,@,New Mexico,REG (Conf),W 73-71,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,1,2,1,0,0,1,1,2,-0.1,A,1,1,adam-seiko-1,Adam Seiko,2023
+27,144,29,2023-02-28,San Diego State,@,Boise State,REG (Conf),L 60-66,,18,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,0,3,3.0,A,0,1,adam-seiko-1,Adam Seiko,2023
+28,145,30,2023-03-04,San Diego State,,Wyoming,REG (Conf),W 67-50,*,21,5,7,0.714,4,5,0.8,1,2,0.5,1.0,0,0,,0,1,1,2,2,0,0,1,14,14.4,H,1,1,adam-seiko-1,Adam Seiko,2023
+29,146,31,2023-03-09,San Diego State,N,Colorado State,CTOURN,W 64-61,,26,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,1,1,1,0,1,1,1,7,4.3,N,1,0,adam-seiko-1,Adam Seiko,2023
+30,147,32,2023-03-10,San Diego State,N,San Jose State,CTOURN,W 64-49,,20,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,0,0,2,0,0,0,1,1,-0.5,N,1,0,adam-seiko-1,Adam Seiko,2023
+31,148,33,2023-03-11,San Diego State,N,Utah State,CTOURN,W 62-57,,19,1,5,0.2,1,4,0.25,0,1,0.0,0.3,4,4,1.0,0,2,2,0,0,0,1,1,7,3.1,N,1,0,adam-seiko-1,Adam Seiko,2023
+32,149,34,2023-03-16,San Diego State,N,College of Charleston,ROUND-64,W 63-57,,15,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,1,1,0.2,N,1,0,adam-seiko-1,Adam Seiko,2023
+33,150,35,2023-03-18,San Diego State,N,Furman,ROUND-32,W 75-52,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,N,1,0,adam-seiko-1,Adam Seiko,2023
+34,151,36,2023-03-24,San Diego State,N,Alabama,ROUND-16,W 71-64,,21,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,1,1,1,0,0,2,0,7,4.4,N,1,0,adam-seiko-1,Adam Seiko,2023
+35,152,37,2023-03-26,San Diego State,N,Creighton,ROUND-8,W 57-56,,23,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,1,0,0,0.0,N,1,0,adam-seiko-1,Adam Seiko,2023
+36,153,38,2023-04-01,San Diego State,N,Florida Atlantic,NATIONAL-SEMI,W 72-71,,12,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,N,1,0,adam-seiko-1,Adam Seiko,2023
+37,154,39,2023-04-03,San Diego State,N,Connecticut,NATIONAL-FINAL,L 59-76,,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,0,0,0,1,3,3,-1.0,N,0,0,adam-seiko-1,Adam Seiko,2023

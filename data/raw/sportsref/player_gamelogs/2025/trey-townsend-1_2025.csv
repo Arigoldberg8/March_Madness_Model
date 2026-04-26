@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,130,1,2024-11-04,Arizona,,Canisius,REG (Non-Conf),W 93-64,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,2,0.0,3,3,6,1,0,0,2,1,2,0.1,H,1,1,trey-townsend-1,Trey Townsend,2025
+2,131,2,2024-11-09,Arizona,,Old Dominion,REG (Non-Conf),W 102-44,*,18,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,2,0.5,2,1,3,2,1,1,0,0,9,10.8,H,1,1,trey-townsend-1,Trey Townsend,2025
+3,132,3,2024-11-15,Arizona,@,Wisconsin,REG (Non-Conf),L 88-103,*,27,6,10,0.6,0,2,0.0,6,8,0.75,0.6,5,6,0.833,2,2,4,0,0,0,2,4,17,10.4,A,0,1,trey-townsend-1,Trey Townsend,2025
+4,133,4,2024-11-22,Arizona,,Duke,REG (Non-Conf),L 55-69,*,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,4,7,1,0,1,2,1,4,4.3,H,0,1,trey-townsend-1,Trey Townsend,2025
+5,134,5,2024-11-27,Arizona,N,Davidson,REG (Non-Conf),W 104-71,*,28,6,11,0.545,2,4,0.5,4,7,0.571,0.636,3,3,1.0,0,4,4,1,0,0,3,1,17,10.2,N,1,1,trey-townsend-1,Trey Townsend,2025
+6,135,6,2024-11-28,Arizona,N,Oklahoma,REG (Non-Conf),L 77-82,*,33,5,8,0.625,0,0,,5,8,0.625,0.625,0,2,0.0,3,2,5,2,0,0,3,1,10,6.3,N,0,1,trey-townsend-1,Trey Townsend,2025
+7,136,7,2024-11-29,Arizona,N,West Virginia,REG (Non-Conf),L 76-83 (OT),*,41,7,12,0.583,1,3,0.333,6,9,0.667,0.625,4,4,1.0,0,4,4,2,0,0,3,0,19,13.0,N,0,1,trey-townsend-1,Trey Townsend,2025
+8,137,8,2024-12-07,Arizona,,Southern Utah,REG (Non-Conf),W 102-66,*,20,4,8,0.5,0,0,,4,8,0.5,0.5,4,4,1.0,1,1,2,1,0,0,1,0,12,8.7,H,1,1,trey-townsend-1,Trey Townsend,2025
+9,138,9,2024-12-14,Arizona,N,UCLA,REG (Non-Conf),L 54-57,*,35,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,1,1,2,1,0,0,4,1,10,3.3,N,0,1,trey-townsend-1,Trey Townsend,2025
+10,139,10,2024-12-18,Arizona,,Samford,REG (Non-Conf),W 96-64,*,26,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,2,6,8,4,1,0,1,2,14,16.0,H,1,1,trey-townsend-1,Trey Townsend,2025
+11,140,11,2024-12-21,Arizona,,Central Michigan,REG (Non-Conf),W 94-41,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,3,0,0,3,1,2,1.7,H,1,1,trey-townsend-1,Trey Townsend,2025
+12,141,12,2024-12-30,Arizona,,TCU,REG (Conf),W 90-81,*,16,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,3,1,4,0,0,0,1,2,8,4.9,H,1,1,trey-townsend-1,Trey Townsend,2025
+13,142,13,2025-01-04,Arizona,@,Cincinnati,REG (Conf),W 72-67,*,24,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,0,4,4,0,0,0,0,2,6,2.3,A,1,1,trey-townsend-1,Trey Townsend,2025
+14,143,14,2025-01-07,Arizona,@,West Virginia,REG (Conf),W 75-56,*,25,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,5,5,0,0,0,0,0,5,3.8,A,1,1,trey-townsend-1,Trey Townsend,2025
+15,144,15,2025-01-11,Arizona,,UCF,REG (Conf),W 88-80,*,22,2,8,0.25,1,3,0.333,1,5,0.2,0.313,4,5,0.8,0,3,3,1,0,0,0,0,9,5.4,H,1,1,trey-townsend-1,Trey Townsend,2025
+16,145,16,2025-01-14,Arizona,,Baylor,REG (Conf),W 81-70,*,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,2,0.0,3,1,4,3,0,0,2,1,8,6.0,H,1,1,trey-townsend-1,Trey Townsend,2025
+17,146,17,2025-01-18,Arizona,@,Texas Tech,REG (Conf),L 54-70,*,23,2,9,0.222,0,1,0.0,2,8,0.25,0.222,2,2,1.0,1,1,2,0,1,1,1,2,6,1.4,A,0,1,trey-townsend-1,Trey Townsend,2025
+18,147,18,2025-01-21,Arizona,@,Oklahoma State,REG (Conf),W 92-78,*,21,7,8,0.875,1,1,1.0,6,7,0.857,0.938,4,4,1.0,1,1,2,0,0,0,0,3,19,16.0,A,1,1,trey-townsend-1,Trey Townsend,2025
+19,148,19,2025-01-25,Arizona,,Colorado,REG (Conf),W 78-63,*,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,2,2,4,1,0,0,2,0,8,5.4,H,1,1,trey-townsend-1,Trey Townsend,2025
+20,149,20,2025-01-27,Arizona,,Iowa State,REG (Conf),W 86-75 (OT),*,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,1,3,4,0,0,0,0,1,7,5.2,H,1,1,trey-townsend-1,Trey Townsend,2025
+21,150,21,2025-02-01,Arizona,@,Arizona State,REG (Conf),W 81-72,*,20,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,3,3,6,0,0,0,1,2,4,0.4,A,1,1,trey-townsend-1,Trey Townsend,2025
+22,151,22,2025-02-04,Arizona,@,Brigham Young,REG (Conf),W 85-74,*,11,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,2,1,3,2,0,0,1,0,3,2.0,A,1,1,trey-townsend-1,Trey Townsend,2025
+23,152,25,2025-02-15,Arizona,,Houston,REG (Conf),L 58-62,*,16,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,3,3,1,0,0,1,0,3,0.5,H,0,1,trey-townsend-1,Trey Townsend,2025
+24,153,26,2025-02-17,Arizona,@,Baylor,REG (Conf),W 74-67,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,2,0,1,1,2,1.9,A,1,1,trey-townsend-1,Trey Townsend,2025
+25,154,27,2025-02-22,Arizona,,Brigham Young,REG (Conf),L 95-96,,10,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,3,2,5,1,0,0,2,2,5,2.9,H,0,1,trey-townsend-1,Trey Townsend,2025
+26,155,28,2025-02-26,Arizona,,Utah,REG (Conf),W 83-66,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,3,1,4,0,1,0,0,2,2,2.5,H,1,1,trey-townsend-1,Trey Townsend,2025
+27,156,29,2025-03-01,Arizona,@,Iowa State,REG (Conf),L 67-84,,13,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,2,1,3,1,4,0,1,1,5,8.7,A,0,1,trey-townsend-1,Trey Townsend,2025
+28,157,30,2025-03-04,Arizona,,Arizona State,REG (Conf),W 113-100,*,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,3,4,0.75,0,3,3,0,0,1,0,2,8,7.8,H,1,1,trey-townsend-1,Trey Townsend,2025
+29,158,31,2025-03-08,Arizona,@,Kansas,REG (Conf),L 76-83,,27,5,9,0.556,3,4,0.75,2,5,0.4,0.722,0,0,,1,6,7,2,0,0,0,1,13,12.2,A,0,1,trey-townsend-1,Trey Townsend,2025
+30,159,32,2025-03-13,Arizona,N,Kansas,CTOURN,W 88-77,*,23,6,8,0.75,0,1,0.0,6,7,0.857,0.75,4,5,0.8,1,2,3,1,0,0,1,2,16,12.6,N,1,0,trey-townsend-1,Trey Townsend,2025
+31,160,33,2025-03-14,Arizona,N,Texas Tech,CTOURN,W 86-80,*,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,4,1.0,2,3,5,0,0,0,0,2,12,9.5,N,1,0,trey-townsend-1,Trey Townsend,2025
+32,161,34,2025-03-15,Arizona,N,Houston,CTOURN,L 64-72,*,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,0,0,0,0.3,N,0,0,trey-townsend-1,Trey Townsend,2025
+33,162,35,2025-03-21,Arizona,N,Akron,ROUND-64,W 93-65,*,23,7,8,0.875,1,1,1.0,6,7,0.857,0.938,1,4,0.25,4,4,8,0,0,2,1,0,16,16.4,N,1,0,trey-townsend-1,Trey Townsend,2025
+34,163,36,2025-03-23,Arizona,N,Oregon,ROUND-32,W 87-83,*,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,2,1,3,2,0,0,0,2,2,2.9,N,1,0,trey-townsend-1,Trey Townsend,2025
+35,164,37,2025-03-27,Arizona,N,Duke,ROUND-16,L 93-100,*,19,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,1,0,1,1,0,0,0,2,5,3.2,N,0,0,trey-townsend-1,Trey Townsend,2025

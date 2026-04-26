@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2015-11-15,Iona,@,Valparaiso,REG (Non-Conf),L 58-83,,24,3,11,0.273,2,6,0.333,1,5,0.2,0.364,4,4,1.0,1,4,5,2,3,1,1,4,12,9.9,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+2,24,2,2015-11-17,Iona,@,Oregon State,REG (Non-Conf),L 73-93,*,23,5,9,0.556,3,5,0.6,2,4,0.5,0.722,2,2,1.0,1,2,3,2,4,1,0,4,15,16.5,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+3,25,3,2015-11-20,Iona,,Delaware,REG (Non-Conf),W 92-77,*,33,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,1,2,3,1,1,0,1,2,12,10.6,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+4,26,4,2015-12-01,Iona,,Fairfield,REG (Conf),W 101-77,*,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,0,1,5,2,0,1,2,5,6.7,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+5,27,5,2015-12-04,Iona,@,Marist,REG (Conf),W 101-66,*,28,8,11,0.727,3,5,0.6,5,6,0.833,0.864,0,0,,0,2,2,2,0,0,0,1,19,16.1,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+6,28,6,2015-12-08,Iona,@,Tulsa,REG (Non-Conf),L 81-90,*,38,4,11,0.364,3,6,0.5,1,5,0.2,0.5,3,4,0.75,2,0,2,1,3,0,2,1,14,10.2,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+7,29,7,2015-12-16,Iona,,Texas Southern,REG (Non-Conf),W 83-73,*,30,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,0,3,3,2,0,0,0,2,7,5.1,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+8,30,8,2015-12-19,Iona,@,Rhode Island,REG (Non-Conf),L 74-79 (OT),*,40,7,14,0.5,4,7,0.571,3,7,0.429,0.643,7,8,0.875,0,2,2,6,3,0,1,2,25,23.6,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+9,31,9,2015-12-22,Iona,N,UC Santa Barbara,REG (Non-Conf),L 76-80,*,22,4,9,0.444,4,8,0.5,0,1,0.0,0.667,4,4,1.0,1,3,4,1,1,0,3,4,16,10.0,N,0,1,deyshonee-much-1,Deyshonee Much,2016
+10,32,10,2015-12-23,Iona,N,Akron,REG (Non-Conf),L 64-78,*,30,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,3,3,1,1,1,2,0,7,5.3,N,0,1,deyshonee-much-1,Deyshonee Much,2016
+11,33,11,2015-12-28,Iona,,Drexel,REG (Non-Conf),W 77-70,*,30,4,8,0.5,2,5,0.4,2,3,0.667,0.625,1,2,0.5,0,4,4,2,2,0,3,2,11,7.4,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+12,34,15,2016-01-09,Iona,,Marist,REG (Conf),W 90-80,,26,7,12,0.583,5,9,0.556,2,3,0.667,0.792,2,2,1.0,1,5,6,0,0,0,0,0,21,17.6,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+13,35,16,2016-01-15,Iona,,Monmouth,REG (Conf),L 102-110,*,22,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,3,3,1,0,0,1,2,3,-1.0,H,0,1,deyshonee-much-1,Deyshonee Much,2016
+14,36,17,2016-01-17,Iona,@,Rider,REG (Conf),L 75-79,,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,3,4,0.75,0,5,5,0,0,0,2,2,14,9.0,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+15,37,18,2016-01-22,Iona,,Saint Peter's,REG (Conf),W 64-58,*,37,6,9,0.667,5,6,0.833,1,3,0.333,0.944,0,0,,1,4,5,3,1,0,2,1,17,15.7,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+16,38,19,2016-01-24,Iona,@,Fairfield,REG (Conf),L 91-98,*,23,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,2,2,2,1,0,7,5,6,-3.4,A,0,1,deyshonee-much-1,Deyshonee Much,2016
+17,39,20,2016-01-29,Iona,,Manhattan,REG (Conf),W 70-56,*,24,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,4,0.5,0,3,3,1,1,0,2,1,9,5.4,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+18,40,21,2016-02-01,Iona,@,Saint Peter's,REG (Conf),W 75-67,*,27,5,8,0.625,2,4,0.5,3,4,0.75,0.75,2,2,1.0,1,4,5,0,2,0,2,2,14,11.5,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+19,41,22,2016-02-05,Iona,@,Canisius,REG (Conf),W 84-66,*,30,10,15,0.667,8,12,0.667,2,3,0.667,0.933,2,2,1.0,0,3,3,2,2,0,2,2,30,25.0,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+20,42,23,2016-02-07,Iona,@,Niagara,REG (Conf),W 75-61,*,31,6,14,0.429,3,9,0.333,3,5,0.6,0.536,0,0,,1,5,6,1,0,0,1,2,15,8.7,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+21,43,24,2016-02-13,Iona,,Siena,REG (Conf),L 78-81,*,34,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,2,0.5,2,2,4,2,4,0,1,2,6,7.1,H,0,1,deyshonee-much-1,Deyshonee Much,2016
+22,44,25,2016-02-15,Iona,,Quinnipiac,REG (Conf),W 78-59,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,2,2,2,0,0,1,5,6,2.6,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+23,45,26,2016-02-19,Iona,@,Monmouth,REG (Conf),W 83-67,*,29,4,14,0.286,3,11,0.273,1,3,0.333,0.393,0,0,,0,5,5,1,1,0,2,3,11,2.8,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+24,46,27,2016-02-22,Iona,@,Siena,REG (Conf),W 87-81,*,37,8,12,0.667,4,8,0.5,4,4,1.0,0.833,3,3,1.0,0,1,1,3,1,1,2,1,23,19.5,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+25,47,28,2016-02-26,Iona,@,Manhattan,REG (Conf),W 86-73,*,34,4,13,0.308,2,10,0.2,2,3,0.667,0.385,5,6,0.833,2,2,4,2,0,0,3,3,15,6.3,A,1,1,deyshonee-much-1,Deyshonee Much,2016
+26,48,29,2016-02-28,Iona,,Canisius,REG (Conf),W 86-78,*,34,7,10,0.7,4,6,0.667,3,4,0.75,0.9,4,6,0.667,2,7,9,1,0,0,1,2,22,19.4,H,1,1,deyshonee-much-1,Deyshonee Much,2016
+27,49,30,2016-03-04,Iona,N,Canisius,CTOURN,W 73-55,*,20,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,3,0.667,2,2,4,0,0,0,2,0,2,-1.9,N,1,0,deyshonee-much-1,Deyshonee Much,2016
+28,50,31,2016-03-06,Iona,N,Siena,CTOURN,W 81-70,*,24,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,2,2,2,0,1,1,2,9,8.3,N,1,0,deyshonee-much-1,Deyshonee Much,2016
+29,51,32,2016-03-07,Iona,N,Monmouth,CTOURN,W 79-76,*,34,5,11,0.455,3,6,0.5,2,5,0.4,0.591,2,3,0.667,1,1,2,2,1,0,2,3,15,9.1,N,1,0,deyshonee-much-1,Deyshonee Much,2016
+30,52,33,2016-03-17,Iona,N,Iowa State,ROUND-64,L 81-94,*,38,3,11,0.273,3,8,0.375,0,3,0.0,0.409,0,0,,1,1,2,4,0,1,1,5,9,4.0,N,0,0,deyshonee-much-1,Deyshonee Much,2016

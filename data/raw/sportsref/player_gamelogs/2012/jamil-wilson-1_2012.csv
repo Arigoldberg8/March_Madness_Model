@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,27,1,2011-11-11,Marquette,,Mount St. Mary's,REG (Non-Conf),W 91-37,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,2,3,5,0,2,1,3,0,2,3.0,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+2,28,2,2011-11-14,Marquette,,Norfolk State,REG (Non-Conf),W 99-68,,16,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,4,5,2,1,1,1,4,8,8.1,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+3,29,3,2011-11-18,Marquette,N,Winthrop,REG (Non-Conf),W 95-73,,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,1,0,0,2,3.0,N,1,1,jamil-wilson-1,Jamil Wilson,2012
+4,30,4,2011-11-20,Marquette,N,Ole Miss,REG (Non-Conf),W 96-66,,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,0,0,0,1,2,2,0.1,N,1,1,jamil-wilson-1,Jamil Wilson,2012
+5,31,5,2011-11-21,Marquette,N,Norfolk State,REG (Non-Conf),W 59-57,,10,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,1,0,2,1,3,1,0.8,N,1,1,jamil-wilson-1,Jamil Wilson,2012
+6,32,6,2011-11-28,Marquette,,Jacksonville,REG (Non-Conf),W 88-56,,24,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,0,2,3,0,2,0,2,6,5.7,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+7,33,7,2011-12-03,Marquette,@,Wisconsin,REG (Non-Conf),W 61-54,,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,2,3,0,0,1,1,3,5,3.1,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+8,34,8,2011-12-06,Marquette,N,Washington,REG (Non-Conf),W 79-77,,29,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,1,3,4,1,1,1,0,2,6,6.1,N,1,1,jamil-wilson-1,Jamil Wilson,2012
+9,35,10,2011-12-17,Marquette,,Northern Colorado,REG (Non-Conf),W 93-72,,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,3,1.0,3,1,4,2,0,2,0,4,11,11.3,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+10,36,11,2011-12-19,Marquette,@,Louisiana State,REG (Non-Conf),L 59-67,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,0,0,3,2,-0.3,A,0,1,jamil-wilson-1,Jamil Wilson,2012
+11,37,12,2011-12-22,Marquette,,Milwaukee,REG (Non-Conf),W 64-50,,24,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,4,0,4,0,0,0,2,2,8,5.7,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+12,38,13,2011-12-29,Marquette,,Vanderbilt,REG (Non-Conf),L 57-74,,24,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,2,3,1,1,1,0,2,5,4.5,H,0,1,jamil-wilson-1,Jamil Wilson,2012
+13,39,14,2012-01-01,Marquette,,Villanova,REG (Conf),W 81-77,*,31,3,8,0.375,0,1,0.0,3,7,0.429,0.375,5,8,0.625,2,1,3,1,3,1,2,3,11,8.3,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+14,40,15,2012-01-04,Marquette,@,Georgetown,REG (Conf),L 70-73,*,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,2,2,1,0,0,1,4,4,1.0,A,0,1,jamil-wilson-1,Jamil Wilson,2012
+15,41,16,2012-01-07,Marquette,@,Syracuse,REG (Conf),L 66-73,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,0,0,0,0,2,0,-0.2,A,0,1,jamil-wilson-1,Jamil Wilson,2012
+16,42,17,2012-01-11,Marquette,,St. John's (NY),REG (Conf),W 83-64,,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,4,4,0,0,1,0,4,2,-0.1,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+17,43,18,2012-01-14,Marquette,,Pittsburgh,REG (Conf),W 62-57,,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,4,0,4,2,0,2,1,1,7,9.2,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+18,44,19,2012-01-16,Marquette,,Louisville,REG (Conf),W 74-63,,26,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,1,1,2,2,1,1,0,2,4,4.2,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+19,45,20,2012-01-21,Marquette,@,Providence,REG (Conf),W 79-72,,33,7,13,0.538,2,2,1.0,5,11,0.455,0.615,0,0,,4,3,7,1,0,3,0,3,16,15.0,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+20,46,21,2012-01-24,Marquette,,South Florida,REG (Conf),W 67-47,,20,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,3,0.333,1,2,3,2,2,3,0,3,8,8.4,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+21,47,22,2012-01-28,Marquette,@,Villanova,REG (Conf),W 82-78,,30,4,12,0.333,0,0,,4,12,0.333,0.333,4,4,1.0,3,1,4,0,1,3,1,4,12,8.1,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+22,48,23,2012-01-31,Marquette,,Seton Hall,REG (Conf),W 66-59,*,36,4,12,0.333,0,0,,4,12,0.333,0.333,1,3,0.333,3,1,4,3,1,1,2,3,9,4.4,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+23,49,24,2012-02-04,Marquette,@,Notre Dame,REG (Conf),L 59-76,*,21,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,2,4,2,0,1,0,3,6,4.5,A,0,1,jamil-wilson-1,Jamil Wilson,2012
+24,50,25,2012-02-06,Marquette,@,DePaul,REG (Conf),W 89-76,*,39,8,11,0.727,0,0,,8,11,0.727,0.727,2,2,1.0,3,7,10,2,2,2,1,3,18,20.3,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+25,51,26,2012-02-11,Marquette,,Cincinnati,REG (Conf),W 95-78,*,28,5,9,0.556,0,1,0.0,5,8,0.625,0.556,5,6,0.833,3,1,4,2,2,1,2,4,15,13.2,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+26,52,27,2012-02-18,Marquette,@,Connecticut,REG (Conf),W 79-64,*,39,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,2,0.5,0,6,6,2,1,1,2,3,9,4.9,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+27,53,28,2012-02-22,Marquette,,Rutgers,REG (Conf),W 82-65,*,28,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,0,3,3,3,3,3,2,3,7,10.6,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+28,54,29,2012-02-24,Marquette,@,West Virginia,REG (Conf),W 61-60,*,35,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,0,4,4,1,2,1,2,4,8,5.7,A,1,1,jamil-wilson-1,Jamil Wilson,2012
+29,55,30,2012-02-29,Marquette,@,Cincinnati,REG (Conf),L 61-72,*,27,4,9,0.444,1,1,1.0,3,8,0.375,0.5,0,0,,1,3,4,0,0,0,4,4,9,0.3,A,0,1,jamil-wilson-1,Jamil Wilson,2012
+30,56,31,2012-03-03,Marquette,,Georgetown,REG (Conf),W 83-69,*,27,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,2,1.0,2,3,5,1,1,1,2,4,11,7.4,H,1,1,jamil-wilson-1,Jamil Wilson,2012
+31,57,32,2012-03-08,Marquette,N,Louisville,CTOURN,L 71-84,*,28,6,10,0.6,0,1,0.0,6,9,0.667,0.6,1,2,0.5,5,3,8,1,0,3,1,4,13,12.6,N,0,0,jamil-wilson-1,Jamil Wilson,2012
+32,58,33,2012-03-15,Marquette,N,Brigham Young,ROUND-64,W 88-68,*,19,1,4,0.25,0,0,,1,4,0.25,0.25,3,6,0.5,3,2,5,1,0,2,1,3,5,4.0,N,1,0,jamil-wilson-1,Jamil Wilson,2012
+33,59,34,2012-03-17,Marquette,N,Murray State,ROUND-32,W 62-53,*,29,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,6,7,0,0,2,2,3,2,-0.4,N,1,0,jamil-wilson-1,Jamil Wilson,2012
+34,60,35,2012-03-22,Marquette,N,Florida,ROUND-16,L 58-68,*,34,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,2,3,5,1,1,3,2,2,7,6.6,N,0,0,jamil-wilson-1,Jamil Wilson,2012

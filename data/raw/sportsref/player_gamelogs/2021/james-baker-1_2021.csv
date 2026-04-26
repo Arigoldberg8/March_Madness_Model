@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2020-11-25,Morehead State,@,Kentucky,REG (Non-Conf),L 45-81,*,26,3,12,0.25,0,3,0.0,3,9,0.333,0.25,4,4,1.0,2,0,2,0,1,1,3,2,10,2.1,A,0,1,james-baker-1,James Baker,2021
+2,91,2,2020-11-27,Morehead State,N,Richmond,REG (Non-Conf),L 64-82,*,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,1,2,0,0,0,1,4,4,-0.3,N,0,1,james-baker-1,James Baker,2021
+3,92,3,2020-11-29,Morehead State,,Arkansas State,REG (Non-Conf),W 69-61,*,20,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,2,0,2,1,0,1,1,4,5,3.2,H,1,1,james-baker-1,James Baker,2021
+4,93,4,2020-12-02,Morehead State,@,Ohio State,REG (Non-Conf),L 44-77,*,25,1,8,0.125,1,1,1.0,0,7,0.0,0.188,0,0,,1,3,4,0,1,0,2,1,3,-2.0,A,0,1,james-baker-1,James Baker,2021
+5,94,5,2020-12-07,Morehead State,@,Eastern Kentucky,REG (Conf),L 68-71,*,27,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,2,0.0,0,1,1,1,0,2,3,2,11,6.6,A,0,1,james-baker-1,James Baker,2021
+6,95,6,2020-12-09,Morehead State,,Transylvania,REG (Non-Conf),W 77-55,*,13,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,1,4,5,2,0,1,2,2,5,4.8,H,1,1,james-baker-1,James Baker,2021
+7,96,7,2020-12-10,Morehead State,,Transylvania,REG (Non-Conf),W 81-55,,13,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,1,0.0,2,0,2,1,0,0,1,0,6,4.4,H,1,1,james-baker-1,James Baker,2021
+8,97,8,2020-12-14,Morehead State,,Eastern Kentucky,REG (Conf),W 75-62,,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,6,8,0.75,1,5,6,1,0,1,4,1,12,7.4,H,1,1,james-baker-1,James Baker,2021
+9,98,9,2020-12-18,Morehead State,,SIU Edwardsville,REG (Conf),L 65-69,,26,2,5,0.4,1,1,1.0,1,4,0.25,0.5,1,2,0.5,3,0,3,1,0,1,1,5,6,3.4,H,0,1,james-baker-1,James Baker,2021
+10,99,10,2020-12-21,Morehead State,@,Clemson,REG (Non-Conf),L 51-66,,23,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,2,1,3,0,0,1,2,4,0,-4.0,A,0,1,james-baker-1,James Baker,2021
+11,100,11,2021-01-02,Morehead State,@,Murray State,REG (Conf),W 61-56,*,25,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,1,6,7,0,0,1,3,3,7,1.2,A,1,1,james-baker-1,James Baker,2021
+12,101,12,2021-01-07,Morehead State,,Tennessee Tech,REG (Conf),W 57-54,*,28,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,5,5,10,2,0,0,2,2,8,6.5,H,1,1,james-baker-1,James Baker,2021
+13,102,13,2021-01-09,Morehead State,,Jacksonville State,REG (Conf),W 56-55,*,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,1,0.0,1,2,3,1,0,1,2,4,7,2.7,H,1,1,james-baker-1,James Baker,2021
+14,103,14,2021-01-14,Morehead State,@,Eastern Illinois,REG (Conf),W 87-61,*,25,6,8,0.75,3,3,1.0,3,5,0.6,0.938,0,0,,3,3,6,1,0,0,1,1,15,14.1,A,1,1,james-baker-1,James Baker,2021
+15,104,15,2021-01-16,Morehead State,@,Southeast Missouri State,REG (Conf),W 64-50,*,31,6,6,1.0,2,2,1.0,4,4,1.0,1.167,0,1,0.0,2,4,6,0,0,0,1,2,14,12.6,A,1,1,james-baker-1,James Baker,2021
+16,105,16,2021-01-21,Morehead State,,Southeast Missouri State,REG (Conf),W 76-65,*,33,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,5,0.2,1,4,5,3,0,0,1,3,11,7.6,H,1,1,james-baker-1,James Baker,2021
+17,106,17,2021-01-23,Morehead State,,UT Martin,REG (Conf),W 76-44,*,27,4,10,0.4,0,2,0.0,4,8,0.5,0.4,4,6,0.667,3,1,4,2,0,1,3,3,12,6.1,H,1,1,james-baker-1,James Baker,2021
+18,107,18,2021-01-28,Morehead State,@,Jacksonville State,REG (Conf),W 85-66,*,28,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,6,0.667,3,3,6,0,1,0,1,4,11,7.9,A,1,1,james-baker-1,James Baker,2021
+19,108,19,2021-01-30,Morehead State,@,Tennessee Tech,REG (Conf),W 74-55,*,26,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,3,3,6,1,0,0,3,3,10,7.3,A,1,1,james-baker-1,James Baker,2021
+20,109,20,2021-02-04,Morehead State,,Murray State,REG (Conf),W 66-56,*,31,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,4,0.5,1,5,6,1,0,1,2,0,9,8.2,H,1,1,james-baker-1,James Baker,2021
+21,110,21,2021-02-06,Morehead State,,Austin Peay,REG (Conf),W 75-74 (OT),*,32,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,1,2,3,1,0,0,2,2,2,-0.2,H,1,1,james-baker-1,James Baker,2021
+22,111,22,2021-02-11,Morehead State,@,Tennessee State,REG (Conf),W 79-66,*,31,3,9,0.333,0,1,0.0,3,8,0.375,0.333,3,7,0.429,3,2,5,1,0,1,1,4,9,3.8,A,1,1,james-baker-1,James Baker,2021
+23,112,23,2021-02-13,Morehead State,@,Belmont,REG (Conf),L 58-73,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,0,0,1,3,2,-0.2,A,0,1,james-baker-1,James Baker,2021
+24,113,24,2021-02-20,Morehead State,@,UT Martin,REG (Conf),W 79-69,*,29,6,9,0.667,1,2,0.5,5,7,0.714,0.722,0,0,,1,2,3,1,1,0,4,4,13,6.5,A,1,1,james-baker-1,James Baker,2021
+25,114,25,2021-02-22,Morehead State,@,SIU Edwardsville,REG (Conf),W 56-48,*,30,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,2,0,2,2,2,2,1.2,A,1,1,james-baker-1,James Baker,2021
+26,115,26,2021-02-25,Morehead State,,Tennessee State,REG (Conf),W 74-60,*,29,5,7,0.714,1,1,1.0,4,6,0.667,0.786,4,7,0.571,1,5,6,1,0,4,0,2,15,15.8,H,1,1,james-baker-1,James Baker,2021
+27,116,27,2021-02-27,Morehead State,,Belmont,REG (Conf),W 89-82 (OT),*,36,5,11,0.455,0,1,0.0,5,10,0.5,0.455,5,6,0.833,3,3,6,1,0,3,2,3,15,11.5,H,1,1,james-baker-1,James Baker,2021
+28,117,28,2021-03-03,Morehead State,N,Southeast Missouri State,CTOURN,W 61-54,*,31,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,3,3,6,1,0,0,0,2,4,3.8,N,1,0,james-baker-1,James Baker,2021
+29,118,29,2021-03-05,Morehead State,N,Eastern Kentucky,CTOURN,W 67-64,*,34,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,5,0.6,1,6,7,0,0,0,1,1,8,5.6,N,1,0,james-baker-1,James Baker,2021
+30,119,30,2021-03-06,Morehead State,N,Belmont,CTOURN,W 86-71,*,28,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,0,1,3,2,1,2,3.0,N,1,0,james-baker-1,James Baker,2021
+31,120,31,2021-03-19,Morehead State,N,West Virginia,ROUND-64,L 67-84,*,34,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,0,3,3,2,0,1,2,3,2,-0.3,N,0,0,james-baker-1,James Baker,2021

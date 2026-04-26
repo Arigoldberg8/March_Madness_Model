@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2021-11-09,Iowa,,Longwood,REG (Non-Conf),W 106-73,*,17,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,2,1.0,0,0,0,4,4,0,0,2,9,14.1,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+2,64,2,2021-11-12,Iowa,,Kansas City,REG (Non-Conf),W 89-57,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,6,2,0,2,0,4,6.5,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+3,65,3,2021-11-16,Iowa,,North Carolina Central,REG (Non-Conf),W 86-69,*,18,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,2,0,0,0,1,2,0.9,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+4,66,4,2021-11-18,Iowa,,Alabama State,REG (Non-Conf),W 108-82,*,24,4,6,0.667,2,2,1.0,2,4,0.5,0.833,1,1,1.0,2,1,3,11,2,0,2,0,11,17.8,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+5,67,5,2021-11-22,Iowa,,Western Michigan,REG (Non-Conf),W 109-61,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,1,1,4,3,0,1,2,6,7.3,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+6,68,6,2021-11-26,Iowa,,Portland State,REG (Non-Conf),W 85-51,*,13,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,0,0,3,1,0,3,2,2,-1.1,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+7,69,7,2021-11-29,Iowa,@,Virginia,REG (Non-Conf),W 75-74,*,26,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,2,1.0,0,3,3,0,0,0,0,2,10,6.8,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+8,70,8,2021-12-03,Iowa,@,Purdue,REG (Conf),L 70-77,*,16,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,2,2,4,1,0,1,3,7,7.6,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+9,71,9,2021-12-06,Iowa,,Illinois,REG (Conf),L 83-87,*,16,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,2,0,2,3,1,0,1,1,2,0.6,H,0,1,joe-toussaint-1,Joe Toussaint,2022
+10,72,10,2021-12-09,Iowa,@,Iowa State,REG (Non-Conf),L 53-73,*,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+11,73,11,2021-12-18,Iowa,N,Utah State,REG (Non-Conf),W 94-75,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,0,1,2,0,0,3,2,4,1.7,N,1,1,joe-toussaint-1,Joe Toussaint,2022
+12,74,12,2021-12-21,Iowa,,Southeastern Louisiana,REG (Non-Conf),W 93-62,*,17,1,1,1.0,0,0,,1,1,1.0,1.0,3,4,0.75,1,3,4,5,3,0,2,3,5,9.2,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+13,75,13,2021-12-29,Iowa,,Western Illinois,REG (Non-Conf),W 92-71,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,4,5,1,0,0,1,1,2,2.5,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+14,76,14,2022-01-03,Iowa,,Maryland,REG (Conf),W 80-75,*,25,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,1,3,4,9,3,0,3,2,9,12.1,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+15,77,15,2022-01-06,Iowa,@,Wisconsin,REG (Conf),L 78-87,*,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,0,0,4,0,0,2,1,6,4.1,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+16,78,16,2022-01-13,Iowa,,Indiana,REG (Conf),W 83-74,*,21,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,0,,0,0,0,1,3,0,2,2,5,3.2,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+17,79,17,2022-01-16,Iowa,@,Minnesota,REG (Conf),W 81-71,*,26,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,1,0.0,0,2,2,7,1,0,3,1,8,6.7,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+18,80,18,2022-01-19,Iowa,@,Rutgers,REG (Conf),L 46-48,*,34,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,1,4,5,5,3,0,3,1,8,11.3,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+19,81,19,2022-01-22,Iowa,,Penn State,REG (Conf),W 68-51,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,2,3,4,3,0,2,2,4,5.9,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+20,82,20,2022-01-27,Iowa,,Purdue,REG (Conf),L 73-83,*,26,2,6,0.333,0,0,,2,6,0.333,0.333,4,5,0.8,0,1,1,3,4,0,1,2,8,8.8,H,0,1,joe-toussaint-1,Joe Toussaint,2022
+21,83,21,2022-01-31,Iowa,@,Penn State,REG (Conf),L 86-90 (2OT),*,19,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,4,5,2,0,0,1,2,0,-1.3,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+22,84,22,2022-02-06,Iowa,,Minnesota,REG (Conf),W 71-59,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,2,0,0,1,0,1.6,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+23,85,23,2022-02-10,Iowa,@,Maryland,REG (Conf),W 110-87,,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,1,1,2,5,1,0,0,0,5,7.4,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+24,86,24,2022-02-13,Iowa,,Nebraska,REG (Conf),W 98-75,,17,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,4,3,0,2,1,2,1.6,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+25,87,25,2022-02-17,Iowa,,Michigan,REG (Conf),L 79-84,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,2,0,0,1,0,2,2.3,H,0,1,joe-toussaint-1,Joe Toussaint,2022
+26,88,26,2022-02-19,Iowa,@,Ohio State,REG (Conf),W 75-62,,22,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,2,2,1,0,0,1,3,4,1.1,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+27,89,27,2022-02-22,Iowa,,Michigan State,REG (Conf),W 86-60,,18,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,2,2,4,0,0,1,2,4,3.6,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+28,90,28,2022-02-25,Iowa,@,Nebraska,REG (Conf),W 88-78,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,0,0,0,2,0,0.6,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+29,91,29,2022-02-28,Iowa,,Northwestern,REG (Conf),W 82-61,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,4,1,0,2,0,4,4.8,H,1,1,joe-toussaint-1,Joe Toussaint,2022
+30,92,30,2022-03-03,Iowa,@,Michigan,REG (Conf),W 82-71,,8,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,0,0,2,0,0,0,0,0,-1.4,A,1,1,joe-toussaint-1,Joe Toussaint,2022
+31,93,31,2022-03-06,Iowa,@,Illinois,REG (Conf),L 72-74,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,4,2,0,3,3,5,3.9,A,0,1,joe-toussaint-1,Joe Toussaint,2022
+32,94,32,2022-03-10,Iowa,N,Northwestern,CTOURN,W 112-76,,8,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,1,1,0,3,3,3,0.2,N,1,0,joe-toussaint-1,Joe Toussaint,2022
+33,95,33,2022-03-11,Iowa,N,Rutgers,CTOURN,W 84-74,,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,1,2,1,1,0,0,2,4,4.9,N,1,0,joe-toussaint-1,Joe Toussaint,2022
+34,96,34,2022-03-12,Iowa,N,Indiana,CTOURN,W 80-77,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,0,0,0,1,2,0,0,3,4,3.4,N,1,0,joe-toussaint-1,Joe Toussaint,2022
+35,97,35,2022-03-13,Iowa,N,Purdue,CTOURN,W 75-66,,10,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,1,1,1,4,1,1,0,4,6.0,N,1,0,joe-toussaint-1,Joe Toussaint,2022
+36,98,36,2022-03-17,Iowa,N,Richmond,ROUND-64,L 63-67,,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,1,0,0,1,2,2,-0.1,N,0,0,joe-toussaint-1,Joe Toussaint,2022

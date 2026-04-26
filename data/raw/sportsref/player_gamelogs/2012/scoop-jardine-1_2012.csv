@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2011-11-12,Syracuse,,Fordham,REG (Non-Conf),W 78-53,*,18,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,2,0.0,0,2,2,3,3,0,2,0,7,6.2,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+2,105,2,2011-11-14,Syracuse,,Manhattan,REG (Non-Conf),W 92-56,*,15,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,1,1,0,2,1,0,-2.2,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+3,106,3,2011-11-15,Syracuse,,Albany (NY),REG (Non-Conf),W 98-74,*,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,5,0.4,0,1,1,5,0,0,0,1,7,6.5,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+4,107,4,2011-11-19,Syracuse,,Colgate,REG (Non-Conf),W 92-47,*,16,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,0,1,1,6,3,0,0,1,11,15.5,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+5,108,5,2011-11-23,Syracuse,N,Virginia Tech,REG (Non-Conf),W 69-58,*,20,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,4,0,0,0,0,2,2.4,N,1,1,scoop-jardine-1,Scoop Jardine,2012
+6,109,6,2011-11-25,Syracuse,N,Stanford,REG (Non-Conf),W 69-63,*,27,5,9,0.556,2,2,1.0,3,7,0.429,0.667,2,5,0.4,0,0,0,3,4,0,6,0,14,8.6,N,1,1,scoop-jardine-1,Scoop Jardine,2012
+7,110,7,2011-11-29,Syracuse,,Eastern Michigan,REG (Non-Conf),W 84-48,*,17,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,1,1,2,7,1,0,2,0,8,10.3,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+8,111,8,2011-12-02,Syracuse,,Florida,REG (Non-Conf),W 72-68,*,31,6,10,0.6,1,3,0.333,5,7,0.714,0.65,3,5,0.6,1,3,4,7,4,1,4,1,16,17.4,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+9,112,9,2011-12-06,Syracuse,,Marshall,REG (Non-Conf),W 62-56,*,26,5,8,0.625,0,2,0.0,5,6,0.833,0.625,0,1,0.0,1,6,7,4,3,0,3,2,10,10.5,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+10,113,10,2011-12-10,Syracuse,,George Washington,REG (Non-Conf),W 85-50,*,18,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,1,1,1,1,0,1,1,8,5.3,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+11,114,11,2011-12-17,Syracuse,@,NC State,REG (Non-Conf),W 88-72,*,29,7,9,0.778,2,4,0.5,5,5,1.0,0.889,0,0,,2,2,4,3,1,0,4,1,16,13.2,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+12,115,12,2011-12-20,Syracuse,,Bucknell,REG (Non-Conf),W 80-61,*,29,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,1,2,3,4,3,0,1,0,14,14.8,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+13,116,13,2011-12-22,Syracuse,,Tulane,REG (Non-Conf),W 80-61,*,16,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,3,1.0,0,2,2,3,0,0,1,0,7,6.7,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+14,117,14,2011-12-28,Syracuse,,Seton Hall,REG (Conf),W 75-49,*,20,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,3,3,6,4,2,0,3,2,5,5.6,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+15,118,15,2012-01-01,Syracuse,@,DePaul,REG (Conf),W 87-68,*,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,2,0.0,0,4,4,3,0,0,2,0,4,3.2,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+16,119,16,2012-01-04,Syracuse,@,Providence,REG (Conf),W 87-73,*,25,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,2,1.0,1,0,1,11,0,0,1,1,10,13.7,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+17,120,17,2012-01-07,Syracuse,,Marquette,REG (Conf),W 73-66,*,24,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,0,0,0,3,0,0,6,1,3,-4.8,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+18,121,18,2012-01-11,Syracuse,@,Villanova,REG (Conf),W 79-66,*,21,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,2,0.5,1,1,2,5,1,0,2,1,8,7.0,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+19,122,19,2012-01-14,Syracuse,,Providence,REG (Conf),W 78-55,*,17,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,2,0.5,0,0,0,9,1,0,0,0,10,15.0,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+20,123,20,2012-01-16,Syracuse,,Pittsburgh,REG (Conf),W 71-63,*,37,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,0,2,2,10,2,1,2,1,12,15.2,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+21,124,21,2012-01-21,Syracuse,@,Notre Dame,REG (Conf),L 58-67,*,28,0,5,0.0,0,2,0.0,0,3,0.0,0.0,2,4,0.5,0,2,2,7,1,0,2,3,2,1.0,A,0,1,scoop-jardine-1,Scoop Jardine,2012
+22,125,22,2012-01-23,Syracuse,@,Cincinnati,REG (Conf),W 60-53,*,30,5,9,0.556,2,4,0.5,3,5,0.6,0.667,1,4,0.25,0,2,2,6,0,0,0,0,13,12.3,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+23,126,23,2012-01-28,Syracuse,,West Virginia,REG (Conf),W 63-61,*,27,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,0,1,1,5,1,0,2,1,9,6.6,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+24,127,24,2012-02-04,Syracuse,@,St. John's (NY),REG (Conf),W 95-70,*,15,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,3,3,0,1,0,3,0,7,2.9,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+25,128,25,2012-02-08,Syracuse,,Georgetown,REG (Conf),W 64-61 (OT),*,32,1,7,0.143,0,3,0.0,1,4,0.25,0.143,1,1,1.0,1,0,1,8,2,1,4,1,3,3.1,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+26,129,26,2012-02-11,Syracuse,,Connecticut,REG (Conf),W 85-67,*,30,8,9,0.889,4,4,1.0,4,5,0.8,1.111,1,2,0.5,0,2,2,6,1,0,1,0,21,22.3,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+27,130,27,2012-02-13,Syracuse,@,Louisville,REG (Conf),W 52-51,*,26,0,8,0.0,0,1,0.0,0,7,0.0,0.0,0,0,,2,3,5,5,1,0,2,2,0,-1.6,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+28,131,28,2012-02-19,Syracuse,@,Rutgers,REG (Conf),W 74-64,*,37,7,13,0.538,2,4,0.5,5,9,0.556,0.615,1,5,0.2,1,3,4,7,3,0,3,1,17,15.2,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+29,132,29,2012-02-22,Syracuse,,South Florida,REG (Conf),W 56-48,*,37,6,10,0.6,2,4,0.5,4,6,0.667,0.7,1,1,1.0,0,2,2,4,2,0,3,1,15,12.4,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+30,133,30,2012-02-25,Syracuse,@,Connecticut,REG (Conf),W 71-69,*,31,3,10,0.3,0,3,0.0,3,7,0.429,0.3,1,2,0.5,0,5,5,6,3,0,3,2,7,5.7,A,1,1,scoop-jardine-1,Scoop Jardine,2012
+31,134,31,2012-03-03,Syracuse,,Louisville,REG (Conf),W 58-49,*,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,1,0.0,0,1,1,3,0,1,3,1,0,-3.5,H,1,1,scoop-jardine-1,Scoop Jardine,2012
+32,135,32,2012-03-08,Syracuse,N,Connecticut,CTOURN,W 58-55,*,18,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,2,2,1,0,0,0,1,2,-0.9,N,1,0,scoop-jardine-1,Scoop Jardine,2012
+33,136,33,2012-03-09,Syracuse,N,Cincinnati,CTOURN,L 68-71,*,26,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,2,1,0,5,5,6,1.0,N,0,0,scoop-jardine-1,Scoop Jardine,2012
+34,137,34,2012-03-15,Syracuse,N,UNC Asheville,ROUND-64,W 72-65,*,33,3,8,0.375,1,4,0.25,2,4,0.5,0.438,4,4,1.0,0,2,2,7,2,0,3,0,11,11.1,N,1,0,scoop-jardine-1,Scoop Jardine,2012
+35,138,35,2012-03-17,Syracuse,N,Kansas State,ROUND-32,W 75-59,*,34,5,9,0.556,3,3,1.0,2,6,0.333,0.722,3,4,0.75,0,5,5,8,1,0,6,3,16,12.2,N,1,0,scoop-jardine-1,Scoop Jardine,2012
+36,139,36,2012-03-22,Syracuse,N,Wisconsin,ROUND-16,W 64-63,*,35,5,8,0.625,2,3,0.667,3,5,0.6,0.75,2,2,1.0,0,2,2,4,0,0,1,1,14,12.4,N,1,0,scoop-jardine-1,Scoop Jardine,2012
+37,140,37,2012-03-24,Syracuse,N,Ohio State,ROUND-8,L 70-77,*,33,5,12,0.417,3,7,0.429,2,5,0.4,0.542,1,2,0.5,0,1,1,6,1,0,2,3,14,9.5,N,0,0,scoop-jardine-1,Scoop Jardine,2012

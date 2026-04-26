@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2014-11-14,North Carolina,,North Carolina Central,REG (Non-Conf),W 76-60,,13,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,0,1,0,2,0,5,1.6,H,1,1,nate-britt-1,Nate Britt,2015
+2,36,2,2014-11-16,North Carolina,,Robert Morris,REG (Non-Conf),W 103-59,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,5,0.8,0,2,2,1,1,0,2,1,4,2.1,H,1,1,nate-britt-1,Nate Britt,2015
+3,37,3,2014-11-22,North Carolina,N,Davidson,REG (Non-Conf),W 90-72,,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,0,0,0,0,0,0,1,5,2.2,N,1,1,nate-britt-1,Nate Britt,2015
+4,38,4,2014-11-26,North Carolina,N,Butler,REG (Non-Conf),L 66-74,,15,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,1,0,0,1,5,5,1.3,N,0,1,nate-britt-1,Nate Britt,2015
+5,39,5,2014-11-27,North Carolina,N,UCLA,REG (Non-Conf),W 78-56,*,13,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,3,3,2,2,0,1,3,7,6.4,N,1,1,nate-britt-1,Nate Britt,2015
+6,40,6,2014-11-28,North Carolina,N,Florida,REG (Non-Conf),W 75-64,,14,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,1,0,0,0,3,5,2.8,N,1,1,nate-britt-1,Nate Britt,2015
+7,41,7,2014-12-03,North Carolina,,Iowa,REG (Non-Conf),L 55-60,,19,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,0,1,1,2,0,0,0,2,5,1.1,H,0,1,nate-britt-1,Nate Britt,2015
+8,42,8,2014-12-07,North Carolina,,East Carolina,REG (Non-Conf),W 108-64,,15,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,0,0,0,2,0,0,0,1,10,9.4,H,1,1,nate-britt-1,Nate Britt,2015
+9,43,9,2014-12-13,North Carolina,@,Kentucky,REG (Non-Conf),L 70-84,,17,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,1,3,4,2,0,0,1,3,4,1.0,A,0,1,nate-britt-1,Nate Britt,2015
+10,44,10,2014-12-16,North Carolina,@,UNC Greensboro,REG (Non-Conf),W 79-56,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,1,0,0,0,0,1.3,A,1,1,nate-britt-1,Nate Britt,2015
+11,45,11,2014-12-20,North Carolina,N,Ohio State,REG (Non-Conf),W 82-74,,14,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,1,2,3,1,1,1,1,1,6,8.0,N,1,1,nate-britt-1,Nate Britt,2015
+12,46,12,2014-12-27,North Carolina,,UAB,REG (Non-Conf),W 89-58,,12,2,5,0.4,2,5,0.4,0,0,,0.6,4,4,1.0,2,1,3,3,1,0,1,3,10,9.9,H,1,1,nate-britt-1,Nate Britt,2015
+13,47,13,2014-12-30,North Carolina,,William & Mary,REG (Non-Conf),W 86-64,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,4,0.75,0,1,1,4,1,0,0,1,11,11.3,H,1,1,nate-britt-1,Nate Britt,2015
+14,48,14,2015-01-03,North Carolina,@,Clemson,REG (Conf),W 74-50,,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,0,1,1,3,1,0,1,1,8,6.9,A,1,1,nate-britt-1,Nate Britt,2015
+15,49,15,2015-01-05,North Carolina,,Notre Dame,REG (Conf),L 70-71,,14,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,1,1,1,1,0,0,1,2,0.8,H,0,1,nate-britt-1,Nate Britt,2015
+16,50,16,2015-01-10,North Carolina,,Louisville,REG (Conf),W 72-71,,21,2,5,0.4,2,2,1.0,0,3,0.0,0.6,2,2,1.0,0,0,0,1,2,0,2,0,8,6.0,H,1,1,nate-britt-1,Nate Britt,2015
+17,51,17,2015-01-14,North Carolina,@,NC State,REG (Conf),W 81-79,,18,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,0,0,0,1,0,0,2,2,4,-0.5,A,1,1,nate-britt-1,Nate Britt,2015
+18,52,18,2015-01-18,North Carolina,,Virginia Tech,REG (Conf),W 68-53,,15,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,3,0,0,2,2,2,-2.2,H,1,1,nate-britt-1,Nate Britt,2015
+19,53,19,2015-01-21,North Carolina,@,Wake Forest,REG (Conf),W 87-71,,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,4,0.75,1,3,4,0,0,0,2,1,5,0.7,A,1,1,nate-britt-1,Nate Britt,2015
+20,54,20,2015-01-24,North Carolina,,Florida State,REG (Conf),W 78-74,,14,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,0,0,3,0,0,1,3,4,1.9,H,1,1,nate-britt-1,Nate Britt,2015
+21,55,21,2015-01-26,North Carolina,,Syracuse,REG (Conf),W 93-83,,26,5,7,0.714,4,5,0.8,1,2,0.5,1.0,3,4,0.75,0,2,2,2,1,0,3,3,17,12.5,H,1,1,nate-britt-1,Nate Britt,2015
+22,56,22,2015-01-31,North Carolina,@,Louisville,REG (Conf),L 68-78 (OT),,25,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,2,1.0,2,0,2,1,1,0,3,5,10,5.1,A,0,1,nate-britt-1,Nate Britt,2015
+23,57,23,2015-02-02,North Carolina,,Virginia,REG (Conf),L 64-75,,28,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,1,1,2,2,0,0,3,2,9,3.9,H,0,1,nate-britt-1,Nate Britt,2015
+24,58,24,2015-02-07,North Carolina,@,Boston College,REG (Conf),W 79-68,*,20,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,4,0,0,1,4,4,3.6,A,1,1,nate-britt-1,Nate Britt,2015
+25,59,25,2015-02-14,North Carolina,@,Pittsburgh,REG (Conf),L 76-89,*,16,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,2,0,0,0,3,7,5.9,A,0,1,nate-britt-1,Nate Britt,2015
+26,60,26,2015-02-18,North Carolina,@,Duke,REG (Conf),L 90-92 (OT),,23,4,10,0.4,0,2,0.0,4,8,0.5,0.4,3,6,0.5,0,1,1,1,1,0,2,3,11,3.2,A,0,1,nate-britt-1,Nate Britt,2015
+27,61,27,2015-02-21,North Carolina,,Georgia Tech,REG (Conf),W 89-60,,23,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,4,1,0,3,0,3,3.1,H,1,1,nate-britt-1,Nate Britt,2015
+28,62,28,2015-02-24,North Carolina,,NC State,REG (Conf),L 46-58,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,H,0,1,nate-britt-1,Nate Britt,2015
+29,63,29,2015-02-28,North Carolina,@,Miami (FL),REG (Conf),W 73-64,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,A,1,1,nate-britt-1,Nate Britt,2015
+30,64,30,2015-03-03,North Carolina,@,Georgia Tech,REG (Conf),W 81-49,,14,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,2,1.0,0,2,2,2,1,0,0,3,9,7.8,A,1,1,nate-britt-1,Nate Britt,2015
+31,65,31,2015-03-07,North Carolina,,Duke,REG (Conf),L 77-84,,12,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,2,2,2,0,0,1,0,3,2.3,H,0,1,nate-britt-1,Nate Britt,2015
+32,66,32,2015-03-11,North Carolina,N,Boston College,CTOURN,W 81-63,,13,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,2,2,1,0,0,0,1,7,5.6,N,1,0,nate-britt-1,Nate Britt,2015
+33,67,33,2015-03-12,North Carolina,N,Louisville,CTOURN,W 70-60,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,2,2,1,0,0,0,1,2,0.8,N,1,0,nate-britt-1,Nate Britt,2015
+34,68,34,2015-03-13,North Carolina,N,Virginia,CTOURN,W 71-67,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,nate-britt-1,Nate Britt,2015
+35,69,35,2015-03-14,North Carolina,N,Notre Dame,CTOURN,L 82-90,,8,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-4.3,N,0,0,nate-britt-1,Nate Britt,2015
+36,70,36,2015-03-19,North Carolina,N,Harvard,ROUND-64,W 67-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,nate-britt-1,Nate Britt,2015
+37,71,37,2015-03-21,North Carolina,N,Arkansas,ROUND-32,W 87-78,,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,5,1.0,2,2,4,1,1,0,1,3,10,9.5,N,1,0,nate-britt-1,Nate Britt,2015
+38,72,38,2015-03-26,North Carolina,N,Wisconsin,ROUND-16,L 72-79,,9,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,2,2,0,0,0,1,2,4,0.4,N,0,0,nate-britt-1,Nate Britt,2015

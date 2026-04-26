@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2011-11-11,Harvard,,MIT,REG (Non-Conf),W 76-49,*,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,3,3,2,0,1,4,7.7,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+2,61,2,2011-11-15,Harvard,@,Holy Cross,REG (Non-Conf),W 73-64,*,36,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,0,2,2,5,4,1,1,2,10,13.6,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+3,62,3,2011-11-19,Harvard,@,Loyola Marymount,REG (Non-Conf),W 77-67,*,25,0,4,0.0,0,2,0.0,0,2,0.0,0.0,4,4,1.0,0,3,3,4,0,0,3,4,4,0.3,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+4,63,4,2011-11-24,Harvard,N,Utah,REG (Non-Conf),W 75-47,*,20,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,1,1,2,3,1,0,2,1,9,7.4,N,1,1,brandyn-curry-1,Brandyn Curry,2012
+5,64,5,2011-11-25,Harvard,N,Florida State,REG (Non-Conf),W 46-41,*,31,1,8,0.125,1,2,0.5,0,6,0.0,0.188,3,5,0.6,0,3,3,5,5,0,1,1,6,8.0,N,1,1,brandyn-curry-1,Brandyn Curry,2012
+6,65,6,2011-11-26,Harvard,N,UCF,REG (Non-Conf),W 59-49,*,34,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,0,3,3,2,1,1,4,3,6,2.1,N,1,1,brandyn-curry-1,Brandyn Curry,2012
+7,66,7,2011-12-01,Harvard,@,Vermont,REG (Non-Conf),W 55-48,*,35,2,6,0.333,1,1,1.0,1,5,0.2,0.417,1,2,0.5,0,2,2,7,1,2,2,3,6,6.9,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+8,67,8,2011-12-04,Harvard,,Seattle,REG (Non-Conf),W 80-70,*,27,2,6,0.333,1,2,0.5,1,4,0.25,0.417,3,4,0.75,0,1,1,4,3,1,1,1,8,9.6,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+9,68,9,2011-12-08,Harvard,@,Connecticut,REG (Non-Conf),L 53-67,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,4,0.5,0,2,2,6,1,0,2,3,4,2.0,A,0,1,brandyn-curry-1,Brandyn Curry,2012
+10,69,10,2011-12-10,Harvard,@,Boston University,REG (Non-Conf),W 76-52,*,33,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,2,0.5,0,0,0,7,2,1,1,2,5,6.3,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+11,70,11,2011-12-22,Harvard,,Florida Atlantic,REG (Non-Conf),W 63-51,*,33,3,7,0.429,0,0,,3,7,0.429,0.429,6,6,1.0,0,2,2,7,4,0,6,4,12,10.2,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+12,71,12,2011-12-29,Harvard,@,Boston College,REG (Non-Conf),W 67-46,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,7,8,0.875,0,2,2,5,5,0,1,3,11,15.5,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+13,72,13,2011-12-31,Harvard,,Saint Joseph's,REG (Non-Conf),W 74-69,*,32,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,0,3,3,6,2,0,2,2,8,7.9,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+14,73,14,2012-01-03,Harvard,@,Fordham,REG (Non-Conf),L 54-60,*,26,6,14,0.429,3,6,0.5,3,8,0.375,0.536,0,0,,0,2,2,3,2,0,4,4,15,6.7,A,0,1,brandyn-curry-1,Brandyn Curry,2012
+15,74,15,2012-01-07,Harvard,,Dartmouth,REG (Conf),W 63-47,*,32,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,1,1.0,0,5,5,7,1,0,2,3,3,3.4,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+16,75,16,2012-01-10,Harvard,@,Monmouth,REG (Non-Conf),W 70-61,*,33,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,3,0.333,0,3,3,5,1,0,2,3,8,6.4,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+17,76,17,2012-01-14,Harvard,,George Washington,REG (Non-Conf),W 69-48,*,26,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,1,0,1,7,2,0,0,2,6,8.4,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+18,77,18,2012-01-21,Harvard,@,Dartmouth,REG (Conf),W 54-38,*,29,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,0,1,5,0,0,1,1,0,0.0,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+19,78,19,2012-01-27,Harvard,@,Yale,REG (Conf),W 65-35,*,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,0,1,6,1,0,1,3,4,4.3,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+20,79,20,2012-01-28,Harvard,@,Brown,REG (Conf),W 68-59,*,34,3,8,0.375,1,3,0.333,2,5,0.4,0.438,8,9,0.889,0,2,2,4,1,1,5,1,15,9.9,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+21,80,21,2012-02-03,Harvard,,Cornell,REG (Conf),W 71-60,*,27,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,4,0.75,0,2,2,4,0,1,1,2,5,3.8,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+22,81,22,2012-02-04,Harvard,,Columbia,REG (Conf),W 57-52,*,36,4,10,0.4,2,4,0.5,2,6,0.333,0.5,2,4,0.5,0,3,3,4,0,1,2,2,12,7.4,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+23,82,23,2012-02-10,Harvard,@,Pennsylvania,REG (Conf),W 56-50,*,33,0,5,0.0,0,1,0.0,0,4,0.0,0.0,1,2,0.5,0,1,1,4,0,1,2,2,1,-1.9,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+24,83,24,2012-02-11,Harvard,@,Princeton,REG (Conf),L 62-70,*,35,5,10,0.5,1,2,0.5,4,8,0.5,0.55,4,4,1.0,0,1,1,4,0,1,0,0,15,13.8,A,0,1,brandyn-curry-1,Brandyn Curry,2012
+25,84,25,2012-02-17,Harvard,,Brown,REG (Conf),W 69-42,*,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,9,0,3,1,0,0,4.5,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+26,85,26,2012-02-18,Harvard,,Yale,REG (Conf),W 66-51,*,28,6,9,0.667,1,2,0.5,5,7,0.714,0.722,5,6,0.833,0,1,1,5,0,0,2,4,18,13.9,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+27,86,27,2012-02-24,Harvard,,Princeton,REG (Conf),W 67-64,*,35,6,9,0.667,2,3,0.667,4,6,0.667,0.778,1,1,1.0,0,3,3,6,3,1,0,1,15,19.5,H,1,1,brandyn-curry-1,Brandyn Curry,2012
+28,87,28,2012-02-25,Harvard,,Pennsylvania,REG (Conf),L 54-55,*,35,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,0,1,1,5,2,1,2,1,5,5.3,H,0,1,brandyn-curry-1,Brandyn Curry,2012
+29,88,29,2012-03-02,Harvard,@,Columbia,REG (Conf),W 77-70 (OT),*,37,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,3,3,8,2,0,4,2,7,8.4,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+30,89,30,2012-03-03,Harvard,@,Cornell,REG (Conf),W 67-63,*,28,4,8,0.5,4,7,0.571,0,1,0.0,0.75,0,0,,0,4,4,0,2,0,1,4,12,8.6,A,1,1,brandyn-curry-1,Brandyn Curry,2012
+31,90,31,2012-03-15,Harvard,N,Vanderbilt,ROUND-64,L 70-79,*,36,5,13,0.385,1,5,0.2,4,8,0.5,0.423,1,2,0.5,0,1,1,3,0,0,4,4,12,1.3,N,0,0,brandyn-curry-1,Brandyn Curry,2012

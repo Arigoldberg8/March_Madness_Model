@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2010-11-12,Morehead State,,Asbury,REG (Non-Conf),W 90-49,*,26,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,3,0.667,0,3,3,3,1,0,2,1,6,1.7,H,1,1,terrance-hill-1,Terrance Hill,2011
+2,67,2,2010-11-14,Morehead State,,North Carolina A&T,REG (Non-Conf),W 84-61,*,29,6,13,0.462,4,7,0.571,2,6,0.333,0.615,3,4,0.75,0,2,2,3,4,0,0,2,19,17.8,H,1,1,terrance-hill-1,Terrance Hill,2011
+3,68,3,2010-11-18,Morehead State,@,UNC Wilmington,REG (Non-Conf),L 58-60,*,32,4,13,0.308,4,12,0.333,0,1,0.0,0.462,0,0,,0,2,2,3,2,0,1,4,12,6.6,A,0,1,terrance-hill-1,Terrance Hill,2011
+4,69,4,2010-11-21,Morehead State,@,Florida,REG (Non-Conf),L 55-61,*,28,2,10,0.2,0,5,0.0,2,5,0.4,0.2,2,2,1.0,0,2,2,5,1,0,2,5,6,0.9,A,0,1,terrance-hill-1,Terrance Hill,2011
+5,70,5,2010-11-23,Morehead State,@,Ohio State,REG (Non-Conf),L 45-64,*,27,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,6,6,0,0,0,4,2,0,-6.5,A,0,1,terrance-hill-1,Terrance Hill,2011
+6,71,6,2010-11-28,Morehead State,@,SIU Edwardsville,REG (Non-Conf),W 83-64,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,4,0.75,0,4,4,2,3,1,1,1,7,8.1,A,1,1,terrance-hill-1,Terrance Hill,2011
+7,72,7,2010-12-02,Morehead State,,UT Martin,REG (Conf),W 70-49,*,30,4,13,0.308,1,6,0.167,3,7,0.429,0.346,2,3,0.667,0,2,2,2,0,0,2,4,11,1.5,H,1,1,terrance-hill-1,Terrance Hill,2011
+8,73,8,2010-12-04,Morehead State,,Murray State,REG (Conf),W 75-65,*,31,3,6,0.5,3,6,0.5,0,0,,0.75,6,6,1.0,0,2,2,0,1,0,1,4,15,11.0,H,1,1,terrance-hill-1,Terrance Hill,2011
+9,74,9,2010-12-07,Morehead State,,St. Catharine,REG (Non-Conf),W 77-64,*,27,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,1,0,0,4,2,0,-6.3,H,1,1,terrance-hill-1,Terrance Hill,2011
+10,75,10,2010-12-11,Morehead State,@,Northern Iowa,REG (Non-Conf),L 53-69,*,30,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,1,1,2,1,0,0,4,1,3,-4.2,A,0,1,terrance-hill-1,Terrance Hill,2011
+11,76,11,2010-12-19,Morehead State,@,Tennessee State,REG (Conf),L 64-70 (OT),*,36,4,15,0.267,4,12,0.333,0,3,0.0,0.4,0,0,,3,4,7,3,3,0,1,2,12,9.7,A,0,1,terrance-hill-1,Terrance Hill,2011
+12,77,12,2010-12-21,Morehead State,@,Austin Peay,REG (Conf),L 85-86 (OT),*,38,5,7,0.714,5,6,0.833,0,1,0.0,1.071,0,0,,0,0,0,0,1,0,2,3,15,9.9,A,0,1,terrance-hill-1,Terrance Hill,2011
+13,78,13,2010-12-28,Morehead State,,Kent State,REG (Non-Conf),W 76-59,*,30,5,6,0.833,4,5,0.8,1,1,1.0,1.167,2,2,1.0,0,2,2,1,1,0,2,1,16,13.7,H,1,1,terrance-hill-1,Terrance Hill,2011
+14,79,14,2010-12-30,Morehead State,,Binghamton,REG (Non-Conf),W 80-74,*,32,6,7,0.857,2,3,0.667,4,4,1.0,1.0,3,3,1.0,1,1,2,2,1,0,1,1,17,16.5,H,1,1,terrance-hill-1,Terrance Hill,2011
+15,80,15,2011-01-02,Morehead State,,College of Charleston,REG (Non-Conf),W 69-49,*,34,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,2,2,3,0,0,3,2,8,1.8,H,1,1,terrance-hill-1,Terrance Hill,2011
+16,81,16,2011-01-06,Morehead State,,Tennessee Tech,REG (Conf),W 76-64,*,30,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,1,3,4,0,1,0,1,4,13,9.0,H,1,1,terrance-hill-1,Terrance Hill,2011
+17,82,17,2011-01-08,Morehead State,,Jacksonville State,REG (Conf),W 73-52,*,26,6,10,0.6,4,5,0.8,2,5,0.4,0.8,3,4,0.75,0,0,0,2,5,0,1,0,19,19.4,H,1,1,terrance-hill-1,Terrance Hill,2011
+18,83,18,2011-01-13,Morehead State,@,Southeast Missouri State,REG (Conf),W 76-63,*,32,3,7,0.429,1,3,0.333,2,4,0.5,0.5,5,6,0.833,0,0,0,3,1,0,3,2,12,7.2,A,1,1,terrance-hill-1,Terrance Hill,2011
+19,84,19,2011-01-15,Morehead State,@,Eastern Illinois,REG (Conf),L 40-47,*,36,3,11,0.273,0,6,0.0,3,5,0.6,0.273,2,2,1.0,0,1,1,0,2,0,2,3,8,0.6,A,0,1,terrance-hill-1,Terrance Hill,2011
+20,85,20,2011-01-22,Morehead State,,Eastern Kentucky,REG (Conf),L 49-59,*,32,1,10,0.1,1,8,0.125,0,2,0.0,0.15,2,4,0.5,2,0,2,1,1,0,2,2,5,-2.1,H,0,1,terrance-hill-1,Terrance Hill,2011
+21,86,21,2011-01-24,Morehead State,@,Ball State,REG (Non-Conf),W 50-48,*,33,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,0,0,0,0,0,0,2,3,8,-1.0,A,1,1,terrance-hill-1,Terrance Hill,2011
+22,87,22,2011-01-27,Morehead State,,Tennessee State,REG (Conf),W 72-65,*,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,H,1,1,terrance-hill-1,Terrance Hill,2011
+23,88,23,2011-01-29,Morehead State,,Austin Peay,REG (Conf),W 69-56,*,27,4,7,0.571,2,4,0.5,2,3,0.667,0.714,4,4,1.0,1,2,3,2,1,0,2,0,14,12.4,H,1,1,terrance-hill-1,Terrance Hill,2011
+24,89,24,2011-02-03,Morehead State,@,Jacksonville State,REG (Conf),W 78-72,*,35,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,0,0,0,1,1,0,2,1,10,4.5,A,1,1,terrance-hill-1,Terrance Hill,2011
+25,90,25,2011-02-05,Morehead State,@,Tennessee Tech,REG (Conf),W 76-60,*,27,5,12,0.417,1,4,0.25,4,8,0.5,0.458,6,8,0.75,1,2,3,1,2,0,1,1,17,12.4,A,1,1,terrance-hill-1,Terrance Hill,2011
+26,91,26,2011-02-10,Morehead State,,Eastern Illinois,REG (Conf),W 81-65,*,25,5,9,0.556,2,6,0.333,3,3,1.0,0.667,1,2,0.5,0,1,1,1,1,0,0,1,13,9.9,H,1,1,terrance-hill-1,Terrance Hill,2011
+27,92,27,2011-02-12,Morehead State,,Southeast Missouri State,REG (Conf),W 64-52,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,3,4,1,1,0,1,4,3,0.6,H,1,1,terrance-hill-1,Terrance Hill,2011
+28,93,28,2011-02-16,Morehead State,@,Eastern Kentucky,REG (Conf),W 76-68 (OT),*,26,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,1,1,2,1,0,0,6,2,6,0.3,A,1,1,terrance-hill-1,Terrance Hill,2011
+29,94,29,2011-02-19,Morehead State,@,Indiana State,REG (Non-Conf),W 71-65,*,26,3,7,0.429,3,7,0.429,0,0,,0.643,6,7,0.857,0,1,1,3,1,0,1,2,15,12.5,A,1,1,terrance-hill-1,Terrance Hill,2011
+30,95,30,2011-02-24,Morehead State,@,Murray State,REG (Conf),L 62-70,*,33,5,12,0.417,0,6,0.0,5,6,0.833,0.417,3,6,0.5,0,4,4,0,3,0,2,3,13,6.4,A,0,1,terrance-hill-1,Terrance Hill,2011
+31,96,31,2011-02-26,Morehead State,@,UT Martin,REG (Conf),W 77-64,*,24,5,10,0.5,1,4,0.25,4,6,0.667,0.55,4,4,1.0,0,2,2,1,4,0,4,4,15,9.7,A,1,1,terrance-hill-1,Terrance Hill,2011
+32,97,32,2011-03-04,Morehead State,N,Austin Peay,CTOURN,W 68-49,*,32,3,13,0.231,1,5,0.2,2,8,0.25,0.269,2,2,1.0,1,1,2,1,1,0,1,3,9,1.6,N,1,0,terrance-hill-1,Terrance Hill,2011
+33,98,33,2011-03-05,Morehead State,N,Tennessee Tech,CTOURN,W 80-73,*,32,4,8,0.5,2,4,0.5,2,4,0.5,0.625,6,8,0.75,0,5,5,0,1,0,4,1,16,9.3,N,1,0,terrance-hill-1,Terrance Hill,2011
+34,99,34,2011-03-17,Morehead State,N,Louisville,ROUND-64,W 62-61,*,34,6,9,0.667,5,6,0.833,1,3,0.333,0.944,6,8,0.75,2,6,8,1,3,0,4,1,23,20.8,N,1,0,terrance-hill-1,Terrance Hill,2011
+35,100,35,2011-03-19,Morehead State,N,Richmond,ROUND-32,L 48-65,*,33,2,7,0.286,2,4,0.5,0,3,0.0,0.429,4,4,1.0,0,0,0,1,1,0,0,2,10,6.8,N,0,0,terrance-hill-1,Terrance Hill,2011

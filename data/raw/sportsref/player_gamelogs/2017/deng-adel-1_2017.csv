@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2016-11-11,Louisville,,Evansville,REG (Non-Conf),W 78-47,*,23,1,8,0.125,0,3,0.0,1,5,0.2,0.125,4,5,0.8,1,4,5,2,1,0,1,0,6,3.7,H,1,1,deng-adel-1,Deng Adel,2017
+2,24,2,2016-11-14,Louisville,,William & Mary,REG (Non-Conf),W 91-58,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,7,7,1.0,1,4,5,5,4,0,0,1,16,20.3,H,1,1,deng-adel-1,Deng Adel,2017
+3,25,3,2016-11-17,Louisville,,Long Beach State,REG (Non-Conf),W 88-56,*,24,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,0,3,3,3,0,1,0,1,11,10.0,H,1,1,deng-adel-1,Deng Adel,2017
+4,26,4,2016-11-23,Louisville,N,Old Dominion,REG (Non-Conf),W 68-62 (OT),*,40,2,13,0.154,1,3,0.333,1,10,0.1,0.192,0,1,0.0,0,2,2,3,2,0,1,2,5,-0.8,N,1,1,deng-adel-1,Deng Adel,2017
+5,27,5,2016-11-24,Louisville,N,Wichita State,REG (Non-Conf),W 62-52,*,21,3,6,0.5,3,4,0.75,0,2,0.0,0.75,2,2,1.0,0,2,2,1,0,0,1,5,11,6.3,N,1,1,deng-adel-1,Deng Adel,2017
+6,28,6,2016-11-25,Louisville,N,Baylor,REG (Non-Conf),L 63-66,*,30,1,9,0.111,0,2,0.0,1,7,0.143,0.111,2,2,1.0,1,4,5,1,1,0,1,4,4,-0.9,N,0,1,deng-adel-1,Deng Adel,2017
+7,29,7,2016-11-30,Louisville,,Purdue,REG (Non-Conf),W 71-64,*,31,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,2,0.5,1,4,5,2,1,0,3,1,9,5.8,H,1,1,deng-adel-1,Deng Adel,2017
+8,30,8,2016-12-03,Louisville,@,Grand Canyon,REG (Non-Conf),W 79-70,*,29,7,16,0.438,1,5,0.2,6,11,0.545,0.469,0,0,,2,1,3,0,1,0,1,3,15,7.1,A,1,1,deng-adel-1,Deng Adel,2017
+9,31,9,2016-12-07,Louisville,,Southern Illinois,REG (Non-Conf),W 74-51,*,26,6,12,0.5,0,2,0.0,6,10,0.6,0.5,0,1,0.0,2,10,12,2,0,0,1,2,12,9.6,H,1,1,deng-adel-1,Deng Adel,2017
+10,32,10,2016-12-10,Louisville,,Texas Southern,REG (Non-Conf),W 102-71,*,33,4,10,0.4,2,5,0.4,2,5,0.4,0.5,1,2,0.5,2,4,6,1,0,3,2,1,11,8.2,H,1,1,deng-adel-1,Deng Adel,2017
+11,33,11,2016-12-17,Louisville,,Eastern Kentucky,REG (Non-Conf),W 87-56,*,26,2,8,0.25,0,3,0.0,2,5,0.4,0.25,3,3,1.0,0,3,3,3,1,1,2,1,7,4.5,H,1,1,deng-adel-1,Deng Adel,2017
+12,34,12,2016-12-21,Louisville,,Kentucky,REG (Non-Conf),W 73-70,*,37,5,10,0.5,2,3,0.667,3,7,0.429,0.6,6,6,1.0,1,5,6,2,1,0,1,4,18,15.0,H,1,1,deng-adel-1,Deng Adel,2017
+13,35,13,2016-12-28,Louisville,,Virginia,REG (Conf),L 53-61,*,27,3,9,0.333,0,4,0.0,3,5,0.6,0.333,2,3,0.667,0,2,2,1,1,0,1,0,8,3.8,H,0,1,deng-adel-1,Deng Adel,2017
+14,36,14,2016-12-31,Louisville,N,Indiana,REG (Non-Conf),W 77-62,*,32,5,10,0.5,3,6,0.5,2,4,0.5,0.65,4,4,1.0,0,4,4,4,0,1,0,3,17,15.5,N,1,1,deng-adel-1,Deng Adel,2017
+15,37,15,2017-01-04,Louisville,@,Notre Dame,REG (Conf),L 70-77,*,28,4,13,0.308,1,6,0.167,3,7,0.429,0.346,1,2,0.5,2,2,4,2,0,0,2,4,10,1.9,A,0,1,deng-adel-1,Deng Adel,2017
+16,38,16,2017-01-07,Louisville,@,Georgia Tech,REG (Conf),W 65-50,*,12,2,7,0.286,2,3,0.667,0,4,0.0,0.429,0,0,,2,1,3,0,0,1,0,0,6,4.3,A,1,1,deng-adel-1,Deng Adel,2017
+17,39,17,2017-01-11,Louisville,,Pittsburgh,REG (Conf),W 85-80,,32,5,8,0.625,0,2,0.0,5,6,0.833,0.625,5,7,0.714,0,6,6,1,0,0,4,1,15,8.7,H,1,1,deng-adel-1,Deng Adel,2017
+18,40,18,2017-01-14,Louisville,,Duke,REG (Conf),W 78-69,*,19,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,3,0.667,0,1,1,4,0,0,1,4,6,2.0,H,1,1,deng-adel-1,Deng Adel,2017
+19,41,19,2017-01-19,Louisville,,Clemson,REG (Conf),W 92-60,*,34,6,9,0.667,3,5,0.6,3,4,0.75,0.833,3,4,0.75,0,6,6,2,0,0,2,0,18,14.9,H,1,1,deng-adel-1,Deng Adel,2017
+20,42,20,2017-01-21,Louisville,@,Florida State,REG (Conf),L 68-73,*,36,4,13,0.308,0,3,0.0,4,10,0.4,0.308,4,6,0.667,0,6,6,2,1,0,1,0,12,6.9,A,0,1,deng-adel-1,Deng Adel,2017
+21,43,21,2017-01-24,Louisville,@,Pittsburgh,REG (Conf),W 106-51,*,22,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,1,1.0,1,5,6,3,1,0,1,1,10,12.0,A,1,1,deng-adel-1,Deng Adel,2017
+22,44,22,2017-01-29,Louisville,,NC State,REG (Conf),W 85-60,*,30,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,0,3,3,3,0,0,2,1,10,4.5,H,1,1,deng-adel-1,Deng Adel,2017
+23,45,23,2017-02-04,Louisville,@,Boston College,REG (Conf),W 90-67,*,34,7,10,0.7,3,4,0.75,4,6,0.667,0.85,2,2,1.0,1,1,2,0,0,2,2,0,19,15.2,A,1,1,deng-adel-1,Deng Adel,2017
+24,46,25,2017-02-11,Louisville,,Miami (FL),REG (Conf),W 71-66,,36,6,14,0.429,4,10,0.4,2,4,0.5,0.571,2,3,0.667,2,3,5,3,0,1,0,0,18,15.3,H,1,1,deng-adel-1,Deng Adel,2017
+25,47,26,2017-02-13,Louisville,@,Syracuse,REG (Conf),W 76-72 (OT),*,38,3,9,0.333,2,5,0.4,1,4,0.25,0.444,3,6,0.5,0,7,7,2,1,0,5,1,11,3.8,A,1,1,deng-adel-1,Deng Adel,2017
+26,48,27,2017-02-18,Louisville,,Virginia Tech,REG (Conf),W 94-90,*,36,4,13,0.308,1,4,0.25,3,9,0.333,0.346,0,1,0.0,1,3,4,2,1,0,0,2,9,4.3,H,1,1,deng-adel-1,Deng Adel,2017
+27,49,28,2017-02-22,Louisville,@,North Carolina,REG (Conf),L 63-74,*,28,4,13,0.308,0,3,0.0,4,10,0.4,0.308,0,1,0.0,0,6,6,3,1,1,3,4,8,1.1,A,0,1,deng-adel-1,Deng Adel,2017
+28,50,29,2017-02-26,Louisville,,Syracuse,REG (Conf),W 88-68,,24,5,9,0.556,0,1,0.0,5,8,0.625,0.556,7,9,0.778,1,2,3,2,0,0,2,2,17,11.8,H,1,1,deng-adel-1,Deng Adel,2017
+29,51,30,2017-03-01,Louisville,@,Wake Forest,REG (Conf),L 81-88,*,40,9,16,0.563,1,3,0.333,8,13,0.615,0.594,3,3,1.0,1,4,5,3,1,0,1,4,22,16.8,A,0,1,deng-adel-1,Deng Adel,2017
+30,52,31,2017-03-04,Louisville,,Notre Dame,REG (Conf),W 71-64,*,34,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,1,5,6,4,0,0,0,2,6,5.4,H,1,1,deng-adel-1,Deng Adel,2017
+31,53,32,2017-03-09,Louisville,N,Duke,CTOURN,L 77-81,*,38,7,14,0.5,2,6,0.333,5,8,0.625,0.571,5,6,0.833,0,5,5,1,0,0,1,2,21,14.0,N,0,0,deng-adel-1,Deng Adel,2017
+32,54,33,2017-03-17,Louisville,N,Jacksonville State,ROUND-64,W 78-63,*,28,6,7,0.857,2,2,1.0,4,5,0.8,1.0,2,2,1.0,0,1,1,1,0,0,1,3,16,12.3,N,1,0,deng-adel-1,Deng Adel,2017
+33,55,34,2017-03-19,Louisville,N,Michigan,ROUND-32,L 69-73,*,38,6,11,0.545,2,4,0.5,4,7,0.571,0.636,2,2,1.0,0,5,5,2,1,1,2,2,16,12.5,N,0,0,deng-adel-1,Deng Adel,2017

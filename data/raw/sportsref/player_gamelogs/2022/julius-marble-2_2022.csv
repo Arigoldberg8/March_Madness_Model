@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2021-11-09,Michigan State,N,Kansas,REG (Non-Conf),L 74-87,,16,4,4,1.0,0,0,,4,4,1.0,1.0,5,6,0.833,2,5,7,0,0,1,2,2,13,12.2,N,0,1,julius-marble-2,Julius Marble,2022
+2,56,2,2021-11-12,Michigan State,,Western Michigan,REG (Non-Conf),W 90-46,,14,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,2,4,6,0,1,2,0,1,5,5.8,H,1,1,julius-marble-2,Julius Marble,2022
+3,57,3,2021-11-17,Michigan State,@,Butler,REG (Non-Conf),W 73-52,,12,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,2,1,3,0,1,0,2,2,6,3.9,A,1,1,julius-marble-2,Julius Marble,2022
+4,58,4,2021-11-20,Michigan State,,Eastern Michigan,REG (Non-Conf),W 83-59,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,3,4,1,0,1,0,2,6,6.2,H,1,1,julius-marble-2,Julius Marble,2022
+5,59,5,2021-11-24,Michigan State,N,Loyola Chicago,REG (Non-Conf),W 63-61,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,0,1,0,2,3,2,-1.0,N,1,1,julius-marble-2,Julius Marble,2022
+6,60,6,2021-11-25,Michigan State,N,Connecticut,REG (Non-Conf),W 64-60,,11,5,7,0.714,0,0,,5,7,0.714,0.714,5,8,0.625,1,3,4,0,0,1,0,4,15,11.6,N,1,1,julius-marble-2,Julius Marble,2022
+7,61,7,2021-11-26,Michigan State,N,Baylor,REG (Non-Conf),L 58-75,,13,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,0,1,1,0,1,0,1,1,5,2.2,N,0,1,julius-marble-2,Julius Marble,2022
+8,62,8,2021-12-01,Michigan State,,Louisville,REG (Non-Conf),W 73-64,,14,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,1,0,0,1,2,2,0.5,H,1,1,julius-marble-2,Julius Marble,2022
+9,63,9,2021-12-04,Michigan State,,Toledo,REG (Non-Conf),W 81-68,,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,0,1,2,1,1,4,5.7,H,1,1,julius-marble-2,Julius Marble,2022
+10,64,10,2021-12-08,Michigan State,@,Minnesota,REG (Conf),W 75-67,,13,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,0,0,0,0,0,1,3,1,-3.0,A,1,1,julius-marble-2,Julius Marble,2022
+11,65,11,2021-12-11,Michigan State,,Penn State,REG (Conf),W 80-64,,7,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,0,1,0,0,0,1,2,4,1.6,H,1,1,julius-marble-2,Julius Marble,2022
+12,66,12,2021-12-21,Michigan State,N,Oakland,REG (Non-Conf),W 90-78,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,4,3.3,N,1,1,julius-marble-2,Julius Marble,2022
+13,67,13,2021-12-29,Michigan State,,High Point,REG (Non-Conf),W 81-68,*,24,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,4,5,0,0,1,1,0,10,8.0,H,1,1,julius-marble-2,Julius Marble,2022
+14,68,14,2022-01-02,Michigan State,@,Northwestern,REG (Conf),W 73-67,,16,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,3,3,1,0,0,1,1,6,4.9,A,1,1,julius-marble-2,Julius Marble,2022
+15,69,15,2022-01-05,Michigan State,,Nebraska,REG (Conf),W 79-67,,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,2,3,0,0,0,2,2,3,0.1,H,1,1,julius-marble-2,Julius Marble,2022
+16,70,16,2022-01-12,Michigan State,,Minnesota,REG (Conf),W 71-69,,13,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,2,2,0,0,1,3,1,4,0.9,H,1,1,julius-marble-2,Julius Marble,2022
+17,71,17,2022-01-15,Michigan State,,Northwestern,REG (Conf),L 62-64,,19,7,7,1.0,0,0,,7,7,1.0,1.0,4,4,1.0,1,3,4,0,0,1,1,3,18,16.0,H,0,1,julius-marble-2,Julius Marble,2022
+18,72,18,2022-01-21,Michigan State,@,Wisconsin,REG (Conf),W 86-74,,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,1,1,0,0,0,2,5,6,0.7,A,1,1,julius-marble-2,Julius Marble,2022
+19,73,19,2022-01-25,Michigan State,@,Illinois,REG (Conf),L 55-56,,14,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,1,2,0,0,0,0,1,6,4.6,A,0,1,julius-marble-2,Julius Marble,2022
+20,74,20,2022-01-29,Michigan State,,Michigan,REG (Conf),W 83-67,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,1,0,0,1,4,4,2.1,H,1,1,julius-marble-2,Julius Marble,2022
+21,75,21,2022-02-01,Michigan State,@,Maryland,REG (Conf),W 65-63,,9,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,0,0,0,0,0,2,5,6,0.7,A,1,1,julius-marble-2,Julius Marble,2022
+22,76,22,2022-02-05,Michigan State,@,Rutgers,REG (Conf),L 63-84,,12,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,0,0,1,0,0,0,1,4,2.6,A,0,1,julius-marble-2,Julius Marble,2022
+23,77,23,2022-02-08,Michigan State,,Wisconsin,REG (Conf),L 62-70,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,5,5,0,0,1,3,2,2,0.1,H,0,1,julius-marble-2,Julius Marble,2022
+24,78,24,2022-02-12,Michigan State,,Indiana,REG (Conf),W 76-61,,24,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,9,9,0,1,0,2,2,6,5.3,H,1,1,julius-marble-2,Julius Marble,2022
+25,79,25,2022-02-15,Michigan State,@,Penn State,REG (Conf),L 58-62,,21,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,3,5,8,0,0,2,1,4,14,13.9,A,0,1,julius-marble-2,Julius Marble,2022
+26,80,26,2022-02-19,Michigan State,,Illinois,REG (Conf),L 74-79,,22,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,2,8,10,1,0,1,1,3,8,7.3,H,0,1,julius-marble-2,Julius Marble,2022
+27,81,27,2022-02-22,Michigan State,@,Iowa,REG (Conf),L 60-86,,21,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,3,5,8,1,1,1,0,4,9,9.7,A,0,1,julius-marble-2,Julius Marble,2022
+28,82,28,2022-02-26,Michigan State,,Purdue,REG (Conf),W 68-65,*,23,5,5,1.0,0,0,,5,5,1.0,1.0,2,4,0.5,2,1,3,0,1,0,2,3,12,9.2,H,1,1,julius-marble-2,Julius Marble,2022
+29,83,29,2022-03-01,Michigan State,@,Michigan,REG (Conf),L 70-87,*,16,2,8,0.25,0,0,,2,8,0.25,0.25,0,1,0.0,1,3,4,1,1,0,2,4,4,-1.5,A,0,1,julius-marble-2,Julius Marble,2022
+30,84,30,2022-03-03,Michigan State,@,Ohio State,REG (Conf),L 69-80,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,1,3,0,1,1,1,2,3,2.5,A,0,1,julius-marble-2,Julius Marble,2022
+31,85,31,2022-03-06,Michigan State,,Maryland,REG (Conf),W 77-67,,10,2,3,0.667,0,0,,2,3,0.667,0.667,4,6,0.667,0,2,2,0,0,1,1,2,8,5.4,H,1,1,julius-marble-2,Julius Marble,2022
+32,86,32,2022-03-10,Michigan State,N,Maryland,CTOURN,W 76-72,,12,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,0,2,2,0,0,1,2,0,8,5.0,N,1,0,julius-marble-2,Julius Marble,2022
+33,87,33,2022-03-11,Michigan State,N,Wisconsin,CTOURN,W 69-63,,17,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,0,4,4,0,2,0,2,2,8,7.5,N,1,0,julius-marble-2,Julius Marble,2022
+34,88,34,2022-03-12,Michigan State,N,Purdue,CTOURN,L 70-75,,9,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,0,0,0,0,5,4,-0.1,N,0,0,julius-marble-2,Julius Marble,2022
+35,89,35,2022-03-18,Michigan State,N,Davidson,ROUND-64,W 74-73,,11,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,0,1,1,1,0,1,0,3,5,4.2,N,1,0,julius-marble-2,Julius Marble,2022
+36,90,36,2022-03-20,Michigan State,N,Duke,ROUND-32,L 76-85,,13,2,9,0.222,0,0,,2,9,0.222,0.222,0,0,,2,0,2,0,0,0,0,2,4,-0.9,N,0,0,julius-marble-2,Julius Marble,2022

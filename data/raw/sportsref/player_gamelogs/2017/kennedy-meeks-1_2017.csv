@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2016-11-11,North Carolina,N,Tulane,REG (Non-Conf),W 95-75,*,22,4,13,0.308,0,0,,4,13,0.308,0.308,1,4,0.25,7,8,15,1,2,0,1,2,9,8.5,N,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+2,106,2,2016-11-13,North Carolina,,Chattanooga,REG (Non-Conf),W 97-57,*,22,6,12,0.5,0,0,,6,12,0.5,0.5,2,2,1.0,5,7,12,0,2,3,2,0,14,15.7,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+3,107,3,2016-11-15,North Carolina,,Long Beach State,REG (Non-Conf),W 93-67,*,22,7,14,0.5,0,0,,7,14,0.5,0.5,1,4,0.25,4,3,7,0,0,0,0,2,15,9.7,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+4,108,4,2016-11-18,North Carolina,@,Hawaii,REG (Non-Conf),W 83-68,*,20,6,12,0.5,0,0,,6,12,0.5,0.5,1,2,0.5,4,3,7,0,1,0,3,2,13,7.5,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+5,109,5,2016-11-21,North Carolina,N,Chaminade,REG (Non-Conf),W 104-61,*,20,7,7,1.0,0,0,,7,7,1.0,1.0,6,8,0.75,4,6,10,1,1,1,2,2,20,21.3,N,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+6,110,6,2016-11-22,North Carolina,N,Oklahoma State,REG (Non-Conf),W 107-75,*,27,3,9,0.333,0,0,,3,9,0.333,0.333,4,7,0.571,5,3,8,1,1,1,1,5,10,7.5,N,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+7,111,7,2016-11-23,North Carolina,N,Wisconsin,REG (Non-Conf),W 71-56,*,31,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,3,13,16,2,2,2,1,3,15,19.7,N,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+8,112,8,2016-11-30,North Carolina,@,Indiana,REG (Non-Conf),L 67-76,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,2,6,8,1,0,0,3,4,10,5.0,A,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+9,113,9,2016-12-04,North Carolina,,Radford,REG (Non-Conf),W 95-50,*,20,6,9,0.667,0,0,,6,9,0.667,0.667,1,5,0.2,1,8,9,1,2,1,0,1,13,13.6,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+10,114,10,2016-12-07,North Carolina,,Davidson,REG (Non-Conf),W 83-74,*,28,2,7,0.286,0,0,,2,7,0.286,0.286,5,6,0.833,3,4,7,2,1,1,3,1,9,7.5,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+11,115,11,2016-12-11,North Carolina,,Tennessee,REG (Non-Conf),W 73-71,*,16,4,7,0.571,0,0,,4,7,0.571,0.571,1,4,0.25,2,1,3,0,0,0,0,3,9,5.0,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+12,116,12,2016-12-17,North Carolina,N,Kentucky,REG (Non-Conf),L 100-103,*,20,5,7,0.714,0,0,,5,7,0.714,0.714,2,3,0.667,2,5,7,0,0,1,2,5,12,8.3,N,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+13,117,13,2016-12-21,North Carolina,,Northern Iowa,REG (Non-Conf),W 85-42,*,20,6,10,0.6,0,0,,6,10,0.6,0.6,6,9,0.667,4,4,8,2,0,0,0,1,18,17.2,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+14,118,14,2016-12-28,North Carolina,,Monmouth,REG (Non-Conf),W 102-74,*,24,7,12,0.583,0,0,,7,12,0.583,0.583,3,5,0.6,4,8,12,3,0,1,2,1,17,16.2,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+15,119,15,2016-12-31,North Carolina,@,Georgia Tech,REG (Conf),L 63-75,*,24,2,6,0.333,0,0,,2,6,0.333,0.333,3,4,0.75,5,9,14,2,0,1,0,0,7,11.5,A,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+16,120,16,2017-01-03,North Carolina,@,Clemson,REG (Conf),W 89-86 (OT),*,34,5,14,0.357,0,0,,5,14,0.357,0.357,4,5,0.8,10,6,16,4,2,2,2,2,14,18.0,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+17,121,17,2017-01-08,North Carolina,,NC State,REG (Conf),W 107-56,*,21,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,2,3,5,1,3,0,1,0,9,9.9,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+18,122,18,2017-01-11,North Carolina,@,Wake Forest,REG (Conf),W 93-87,*,33,9,18,0.5,0,0,,9,18,0.5,0.5,0,0,,3,8,11,1,3,3,2,4,18,15.7,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+19,123,19,2017-01-14,North Carolina,,Florida State,REG (Conf),W 96-83,*,13,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,4,2,6,0,1,0,1,4,6,4.1,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+20,124,20,2017-01-16,North Carolina,,Syracuse,REG (Conf),W 85-68,*,32,7,10,0.7,0,0,,7,10,0.7,0.7,1,2,0.5,6,6,12,1,2,0,3,2,15,15.3,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+21,125,21,2017-01-21,North Carolina,@,Boston College,REG (Conf),W 90-82,*,25,9,16,0.563,0,0,,9,16,0.563,0.563,2,2,1.0,2,7,9,1,1,1,0,1,20,17.9,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+22,126,22,2017-01-26,North Carolina,,Virginia Tech,REG (Conf),W 91-72,*,21,7,13,0.538,0,0,,7,13,0.538,0.538,1,1,1.0,7,7,14,3,0,1,1,4,15,15.9,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+23,127,23,2017-01-28,North Carolina,@,Miami (FL),REG (Conf),L 62-77,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,2,4,6,0,0,0,0,2,5,4.7,A,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+24,128,24,2017-01-31,North Carolina,,Pittsburgh,REG (Conf),W 80-78,*,29,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,3,2,5,0,1,3,1,2,10,9.0,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+25,129,25,2017-02-05,North Carolina,,Notre Dame,REG (Conf),W 83-76,*,16,4,6,0.667,0,0,,4,6,0.667,0.667,3,6,0.5,3,5,8,0,1,1,2,5,11,8.5,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+26,130,26,2017-02-09,North Carolina,@,Duke,REG (Conf),L 78-86,*,27,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,1,4,5,1,0,1,0,2,9,8.2,A,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+27,131,27,2017-02-15,North Carolina,@,NC State,REG (Conf),W 97-73,*,25,8,12,0.667,0,0,,8,12,0.667,0.667,1,3,0.333,2,6,8,3,0,0,2,2,17,13.5,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+28,132,28,2017-02-18,North Carolina,,Virginia,REG (Conf),W 65-41,*,25,6,10,0.6,0,0,,6,10,0.6,0.6,1,1,1.0,1,6,7,2,0,3,1,1,13,13.0,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+29,133,29,2017-02-22,North Carolina,,Louisville,REG (Conf),W 74-63,*,30,4,7,0.571,0,0,,4,7,0.571,0.571,6,7,0.857,4,6,10,1,0,2,2,3,14,13.8,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+30,134,30,2017-02-25,North Carolina,@,Pittsburgh,REG (Conf),W 85-67,*,25,9,11,0.818,0,0,,9,11,0.818,0.818,0,2,0.0,7,3,10,1,2,0,0,3,18,20.4,A,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+31,135,31,2017-02-27,North Carolina,@,Virginia,REG (Conf),L 43-53,*,25,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,2,5,7,1,0,1,3,2,6,2.1,A,0,1,kennedy-meeks-1,Kennedy Meeks,2017
+32,136,32,2017-03-04,North Carolina,,Duke,REG (Conf),W 90-83,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,2,4,0.5,3,5,8,1,1,2,3,4,8,5.6,H,1,1,kennedy-meeks-1,Kennedy Meeks,2017
+33,137,33,2017-03-09,North Carolina,N,Miami (FL),CTOURN,W 78-53,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,2,5,7,0,0,1,0,2,10,9.5,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+34,138,34,2017-03-10,North Carolina,N,Duke,CTOURN,L 83-93,*,27,9,14,0.643,0,0,,9,14,0.643,0.643,1,3,0.333,6,6,12,1,0,1,0,3,19,18.2,N,0,0,kennedy-meeks-1,Kennedy Meeks,2017
+35,139,35,2017-03-17,North Carolina,N,Texas Southern,ROUND-64,W 103-64,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,7,10,0.7,2,4,6,0,1,2,0,0,13,15.2,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+36,140,36,2017-03-19,North Carolina,N,Arkansas,ROUND-32,W 72-65,*,29,7,13,0.538,0,0,,7,13,0.538,0.538,2,2,1.0,7,4,11,0,1,3,2,1,16,16.5,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+37,141,37,2017-03-24,North Carolina,N,Butler,ROUND-16,W 92-80,*,27,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,10,11,0,1,1,0,3,5,7.1,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+38,142,38,2017-03-26,North Carolina,N,Kentucky,ROUND-8,W 75-73,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,5,12,17,2,1,4,2,2,7,14.1,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+39,143,39,2017-04-01,North Carolina,N,Oregon,NATIONAL-SEMI,W 77-76,*,30,11,13,0.846,0,0,,11,13,0.846,0.846,3,6,0.5,8,6,14,1,3,1,0,4,25,29.3,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017
+40,144,40,2017-04-03,North Carolina,N,Gonzaga,NATIONAL-FINAL,W 71-65,*,22,3,5,0.6,0,0,,3,5,0.6,0.6,1,4,0.25,4,6,10,0,2,2,0,4,7,9.9,N,1,0,kennedy-meeks-1,Kennedy Meeks,2017

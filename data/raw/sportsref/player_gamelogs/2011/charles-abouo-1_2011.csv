@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2010-11-12,Brigham Young,,Fresno State,REG (Non-Conf),W 83-56,*,25,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,4,1.0,3,3,6,1,1,0,0,2,13,14.3,H,1,1,charles-abouo-1,Charles Abouo,2011
+2,71,2,2010-11-17,Brigham Young,,Utah State,REG (Non-Conf),W 78-72,*,30,3,8,0.375,1,6,0.167,2,2,1.0,0.438,6,6,1.0,1,3,4,0,0,1,0,3,13,9.7,H,1,1,charles-abouo-1,Charles Abouo,2011
+3,72,3,2010-11-20,Brigham Young,,Chicago State,REG (Non-Conf),W 109-60,*,12,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,3,5,8,1,0,0,0,2,2,1.7,H,1,1,charles-abouo-1,Charles Abouo,2011
+4,73,4,2010-11-23,Brigham Young,,Mississippi Valley State,REG (Non-Conf),W 86-36,*,16,2,8,0.25,1,2,0.5,1,6,0.167,0.313,0,0,,3,7,10,0,1,0,4,0,5,1.4,H,1,1,charles-abouo-1,Charles Abouo,2011
+5,74,5,2010-11-26,Brigham Young,N,South Florida,REG (Non-Conf),W 77-75 (2OT),,31,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,6,0.167,4,4,8,0,0,0,1,3,8,3.4,N,1,1,charles-abouo-1,Charles Abouo,2011
+6,75,6,2010-11-27,Brigham Young,N,St. Mary's (CA),REG (Non-Conf),W 74-73,,9,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,0,4,4,1,0,0,1,1,4,3.8,N,1,1,charles-abouo-1,Charles Abouo,2011
+7,76,7,2010-12-01,Brigham Young,@,Creighton,REG (Non-Conf),W 77-65,*,22,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,2,5,7,4,1,0,0,1,5,6.5,A,1,1,charles-abouo-1,Charles Abouo,2011
+8,77,8,2010-12-04,Brigham Young,N,Hawaii,REG (Non-Conf),W 78-57,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,1,1,0,2,0.3,N,1,1,charles-abouo-1,Charles Abouo,2011
+9,78,9,2010-12-08,Brigham Young,N,Vermont,REG (Non-Conf),W 86-58,,22,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,1,5,6,2,1,1,1,1,11,11.6,N,1,1,charles-abouo-1,Charles Abouo,2011
+10,79,10,2010-12-11,Brigham Young,N,Arizona,REG (Non-Conf),W 87-65,,25,1,4,0.25,0,3,0.0,1,1,1.0,0.25,7,10,0.7,1,4,5,0,1,0,2,1,9,5.9,N,1,1,charles-abouo-1,Charles Abouo,2011
+11,80,11,2010-12-18,Brigham Young,N,UCLA,REG (Non-Conf),L 79-86,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,N,0,1,charles-abouo-1,Charles Abouo,2011
+12,81,12,2010-12-21,Brigham Young,@,Weber State,REG (Non-Conf),W 72-66,*,24,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,4,0.5,3,6,9,2,0,1,0,2,4,5.3,A,1,1,charles-abouo-1,Charles Abouo,2011
+13,82,13,2010-12-23,Brigham Young,,UTEP,REG (Non-Conf),W 89-68,*,3,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,2,2,2,-2.2,H,1,1,charles-abouo-1,Charles Abouo,2011
+14,83,14,2010-12-30,Brigham Young,@,Buffalo,REG (Non-Conf),W 90-82,*,20,0,0,,0,0,,0,0,,,4,4,1.0,1,4,5,2,2,0,3,3,4,5.1,A,1,1,charles-abouo-1,Charles Abouo,2011
+15,84,15,2011-01-01,Brigham Young,,Fresno Pacific,REG (Non-Conf),W 93-57,*,15,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,1,4,5,3,0,1,2,0,6,6.7,H,1,1,charles-abouo-1,Charles Abouo,2011
+16,85,16,2011-01-05,Brigham Young,@,UNLV,REG (Conf),W 89-77,,18,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,2,3,5,0,0,0,2,3,2,-0.3,A,1,1,charles-abouo-1,Charles Abouo,2011
+17,86,17,2011-01-08,Brigham Young,,Air Force,REG (Conf),W 76-66,,16,3,7,0.429,1,4,0.25,2,3,0.667,0.5,1,2,0.5,1,3,4,1,1,0,0,3,8,6.0,H,1,1,charles-abouo-1,Charles Abouo,2011
+18,87,18,2011-01-11,Brigham Young,@,Utah,REG (Conf),W 104-79,,9,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,2,0.0,1,2,3,1,3,0,0,2,0,0.6,A,1,1,charles-abouo-1,Charles Abouo,2011
+19,88,19,2011-01-18,Brigham Young,,TCU,REG (Conf),W 83-67,,9,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,3,3,0,0,0,0,0,2,1.2,H,1,1,charles-abouo-1,Charles Abouo,2011
+20,89,20,2011-01-22,Brigham Young,@,Colorado State,REG (Conf),W 94-85,,17,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,1,1,3,5,2.9,A,1,1,charles-abouo-1,Charles Abouo,2011
+21,90,21,2011-01-26,Brigham Young,,San Diego State,REG (Conf),W 71-58,,15,0,5,0.0,0,0,,0,5,0.0,0.0,2,2,1.0,2,2,4,0,0,0,0,2,2,-0.3,H,1,1,charles-abouo-1,Charles Abouo,2011
+22,91,22,2011-01-29,Brigham Young,@,New Mexico,REG (Conf),L 77-86,,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,2,0.5,0,2,2,0,1,0,1,2,9,4.4,A,0,1,charles-abouo-1,Charles Abouo,2011
+23,92,23,2011-02-02,Brigham Young,@,Wyoming,REG (Conf),W 69-62,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,3,4,1,0,0,0,4,3,2.7,A,1,1,charles-abouo-1,Charles Abouo,2011
+24,93,24,2011-02-05,Brigham Young,,UNLV,REG (Conf),W 78-64,,24,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,1,1.0,0,1,1,0,0,0,2,1,10,3.9,H,1,1,charles-abouo-1,Charles Abouo,2011
+25,94,25,2011-02-09,Brigham Young,@,Air Force,REG (Conf),W 90-52,*,29,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,3,4,2,2,0,1,2,7,7.9,A,1,1,charles-abouo-1,Charles Abouo,2011
+26,95,26,2011-02-12,Brigham Young,,Utah,REG (Conf),W 72-59,*,29,8,11,0.727,2,3,0.667,6,8,0.75,0.818,4,7,0.571,3,7,10,0,2,0,2,4,22,18.9,H,1,1,charles-abouo-1,Charles Abouo,2011
+27,96,27,2011-02-19,Brigham Young,@,TCU,REG (Conf),W 79-56,*,20,1,3,0.333,1,3,0.333,0,0,,0.5,2,4,0.5,1,6,7,0,0,0,0,2,5,4.2,A,1,1,charles-abouo-1,Charles Abouo,2011
+28,97,28,2011-02-23,Brigham Young,,Colorado State,REG (Conf),W 84-76,*,17,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,3,0.667,1,1,2,1,1,2,0,4,9,7.4,H,1,1,charles-abouo-1,Charles Abouo,2011
+29,98,29,2011-02-26,Brigham Young,@,San Diego State,REG (Conf),W 80-67,*,34,6,11,0.545,4,5,0.8,2,6,0.333,0.727,2,2,1.0,3,6,9,1,2,1,1,3,18,17.8,A,1,1,charles-abouo-1,Charles Abouo,2011
+30,99,30,2011-03-02,Brigham Young,,New Mexico,REG (Conf),L 64-82,*,26,1,6,0.167,0,3,0.0,1,3,0.333,0.167,6,7,0.857,0,3,3,1,1,1,1,3,8,4.9,H,0,1,charles-abouo-1,Charles Abouo,2011
+31,100,31,2011-03-05,Brigham Young,,Wyoming,REG (Conf),W 102-78,*,29,9,12,0.75,1,3,0.333,8,9,0.889,0.792,6,6,1.0,3,4,7,0,2,0,2,2,25,22.7,H,1,1,charles-abouo-1,Charles Abouo,2011
+32,101,32,2011-03-10,Brigham Young,N,TCU,CTOURN,W 64-58,*,32,6,8,0.75,1,2,0.5,5,6,0.833,0.813,1,2,0.5,3,5,8,2,2,0,2,4,14,13.8,N,1,0,charles-abouo-1,Charles Abouo,2011
+33,102,33,2011-03-11,Brigham Young,N,New Mexico,CTOURN,W 87-76,*,33,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,3,4,7,0,2,0,1,5,2,1.2,N,1,0,charles-abouo-1,Charles Abouo,2011
+34,103,34,2011-03-12,Brigham Young,N,San Diego State,CTOURN,L 54-72,*,32,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,3,5,0,0,0,1,1,5,3.2,N,0,0,charles-abouo-1,Charles Abouo,2011
+35,104,35,2011-03-17,Brigham Young,N,Wofford,ROUND-64,W 74-66,*,16,3,8,0.375,0,3,0.0,3,5,0.6,0.375,4,4,1.0,0,5,5,1,1,0,2,5,10,4.8,N,1,0,charles-abouo-1,Charles Abouo,2011
+36,105,36,2011-03-19,Brigham Young,N,Gonzaga,ROUND-32,W 89-67,*,26,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,0,4,4,1,2,1,2,3,8,5.7,N,1,0,charles-abouo-1,Charles Abouo,2011
+37,106,37,2011-03-24,Brigham Young,N,Florida,ROUND-16,L 74-83 (OT),*,27,2,9,0.222,0,3,0.0,2,6,0.333,0.222,2,2,1.0,2,0,2,1,0,0,0,3,6,1.4,N,0,0,charles-abouo-1,Charles Abouo,2011

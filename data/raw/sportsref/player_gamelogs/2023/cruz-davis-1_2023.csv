@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,2,2022-11-11,Iona,@,Hofstra,REG (Non-Conf),L 78-83,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,1,1,1,1,0,0,2,3,3.2,A,0,1,cruz-davis-1,Cruz Davis,2023
+2,2,3,2022-11-18,Iona,N,Vermont,REG (Non-Conf),W 71-50,*,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,0,0,0,1,3,5,0.1,N,1,1,cruz-davis-1,Cruz Davis,2023
+3,3,4,2022-11-27,Iona,N,Santa Clara,REG (Non-Conf),L 76-86,*,25,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,0,1,1,1,2,0,3,1,8,3.6,N,0,1,cruz-davis-1,Cruz Davis,2023
+4,4,5,2022-12-02,Iona,,Niagara,REG (Conf),W 78-56,,12,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,1,1,2,3,0,0,2,2,2,-0.8,H,1,1,cruz-davis-1,Cruz Davis,2023
+5,5,6,2022-12-04,Iona,,Canisius,REG (Conf),W 90-60,,16,2,4,0.5,0,0,,2,4,0.5,0.5,3,3,1.0,0,2,2,0,0,0,0,0,7,5.6,H,1,1,cruz-davis-1,Cruz Davis,2023
+6,6,7,2022-12-06,Iona,,Saint Louis,REG (Non-Conf),W 84-62,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,1,1,cruz-davis-1,Cruz Davis,2023
+7,7,8,2022-12-11,Iona,N,St. Bonaventure,REG (Non-Conf),W 72-57,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,2,1,0,3,2,2,0.6,N,1,1,cruz-davis-1,Cruz Davis,2023
+8,8,9,2022-12-13,Iona,N,Princeton,REG (Non-Conf),W 70-64,,10,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,0,0,0,0,0,0,1,7,4.3,N,1,1,cruz-davis-1,Cruz Davis,2023
+9,9,10,2022-12-18,Iona,@,New Mexico,REG (Non-Conf),L 74-82,,12,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,5,0.8,0,0,0,0,0,0,1,2,8,3.8,A,0,1,cruz-davis-1,Cruz Davis,2023
+10,10,11,2022-12-22,Iona,N,SMU,REG (Non-Conf),L 81-85,,16,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,2,0,2,1,0,0,1,1,8,4.3,N,0,1,cruz-davis-1,Cruz Davis,2023
+11,11,12,2022-12-23,Iona,N,Seattle,REG (Non-Conf),W 83-72,,26,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,3,3,1,1,0,0,3,6,3.7,N,1,1,cruz-davis-1,Cruz Davis,2023
+12,12,13,2022-12-25,Iona,N,Pepperdine,REG (Non-Conf),W 76-66,,15,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,1,0,0,0,0,1.7,N,1,1,cruz-davis-1,Cruz Davis,2023
+13,13,14,2023-01-01,Iona,,Saint Peter's,REG (Conf),W 73-55,*,25,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,1,1,2,2,0,1,0,1,5,4.2,H,1,1,cruz-davis-1,Cruz Davis,2023
+14,14,15,2023-01-06,Iona,@,Marist,REG (Conf),W 84-57,,27,8,13,0.615,0,2,0.0,8,11,0.727,0.615,0,1,0.0,1,1,2,0,1,1,1,1,16,11.0,A,1,1,cruz-davis-1,Cruz Davis,2023
+15,15,16,2023-01-08,Iona,@,Quinnipiac,REG (Conf),L 58-81,*,35,4,15,0.267,0,4,0.0,4,11,0.364,0.267,5,6,0.833,0,2,2,3,2,0,1,1,13,7.0,A,0,1,cruz-davis-1,Cruz Davis,2023
+16,16,17,2023-01-13,Iona,,Fairfield,REG (Conf),W 75-69,*,21,3,6,0.5,3,4,0.75,0,2,0.0,0.75,0,0,,0,1,1,2,1,0,1,2,9,6.9,H,1,1,cruz-davis-1,Cruz Davis,2023
+17,17,18,2023-01-15,Iona,,Rider,REG (Conf),L 67-70,*,29,3,11,0.273,1,6,0.167,2,5,0.4,0.318,3,5,0.6,1,2,3,1,3,1,1,0,10,7.4,H,0,1,cruz-davis-1,Cruz Davis,2023
+18,18,19,2023-01-20,Iona,@,Manhattan,REG (Conf),W 84-76 (OT),,30,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,2,1.0,1,2,3,1,0,0,2,3,4,-2.4,A,1,1,cruz-davis-1,Cruz Davis,2023
+19,19,20,2023-01-27,Iona,@,Siena,REG (Conf),L 53-70,,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,0,0,2,1,0,1,1,4,1.6,A,0,1,cruz-davis-1,Cruz Davis,2023
+20,20,21,2023-01-29,Iona,,Quinnipiac,REG (Conf),W 78-72,*,19,4,9,0.444,3,4,0.75,1,5,0.2,0.611,2,3,0.667,1,1,2,0,0,2,3,1,13,6.9,H,1,1,cruz-davis-1,Cruz Davis,2023
+21,21,22,2023-02-03,Iona,,Mount St. Mary's,REG (Conf),W 81-51,,23,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,3,1.0,0,3,3,0,0,1,2,2,12,8.9,H,1,1,cruz-davis-1,Cruz Davis,2023
+22,22,23,2023-02-05,Iona,@,Fairfield,REG (Conf),W 70-61,,17,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,0,0,0,0,1,1,0,1,6,6.3,A,1,1,cruz-davis-1,Cruz Davis,2023
+23,23,24,2023-02-10,Iona,@,Canisius,REG (Conf),W 80-59,,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,2,1,1,1,3,7,5.5,A,1,1,cruz-davis-1,Cruz Davis,2023
+24,24,35,2023-03-17,Iona,N,Connecticut,ROUND-64,L 63-87,,8,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,0,0,0,1,0,1,-0.1,N,0,0,cruz-davis-1,Cruz Davis,2023

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,77,1,2025-11-03,Florida,N,Arizona,REG (Non-Conf),L 87-93,*,38,7,13,0.538,1,4,0.25,6,9,0.667,0.577,12,14,0.857,2,2,4,2,2,1,3,3,27,21.8,N,0,1,thomas-haugh-1,Thomas Haugh,2026
+2,78,2,2025-11-06,Florida,,North Florida,REG (Non-Conf),W 104-64,*,26,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,4,0.5,2,6,8,4,1,0,3,2,12,9.7,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+3,79,3,2025-11-11,Florida,,Florida State,REG (Non-Conf),W 78-76,*,38,7,15,0.467,2,6,0.333,5,9,0.556,0.533,4,7,0.571,4,9,13,3,0,2,2,2,20,17.3,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+4,80,4,2025-11-16,Florida,N,Miami (FL),REG (Non-Conf),W 82-68,*,37,5,12,0.417,3,6,0.5,2,6,0.333,0.542,4,7,0.571,2,7,9,3,1,1,2,1,17,14.3,N,1,1,thomas-haugh-1,Thomas Haugh,2026
+5,81,5,2025-11-21,Florida,,Merrimack,REG (Non-Conf),W 80-45,*,30,5,10,0.5,0,4,0.0,5,6,0.833,0.5,3,4,0.75,2,2,4,2,0,0,1,2,13,9.2,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+6,82,6,2025-11-27,Florida,N,TCU,REG (Non-Conf),L 80-84,*,36,7,16,0.438,3,8,0.375,4,8,0.5,0.531,3,4,0.75,1,4,5,2,1,1,5,4,20,9.6,N,0,1,thomas-haugh-1,Thomas Haugh,2026
+7,83,7,2025-11-28,Florida,N,Providence,REG (Non-Conf),W 90-78,*,34,3,9,0.333,1,5,0.2,2,4,0.5,0.389,9,11,0.818,6,6,12,5,1,1,2,4,16,17.7,N,1,1,thomas-haugh-1,Thomas Haugh,2026
+8,84,8,2025-12-02,Florida,@,Duke,REG (Non-Conf),L 66-67,*,40,9,15,0.6,2,5,0.4,7,10,0.7,0.667,4,4,1.0,2,4,6,1,1,1,2,3,24,18.9,A,0,1,thomas-haugh-1,Thomas Haugh,2026
+9,85,9,2025-12-09,Florida,N,Connecticut,REG (Non-Conf),L 73-77,*,37,7,12,0.583,3,5,0.6,4,7,0.571,0.708,1,1,1.0,1,1,2,1,0,1,4,4,18,9.2,N,0,1,thomas-haugh-1,Thomas Haugh,2026
+10,86,10,2025-12-13,Florida,N,George Washington,REG (Non-Conf),W 80-70,*,36,8,15,0.533,2,7,0.286,6,8,0.75,0.6,1,2,0.5,2,5,7,1,0,0,1,0,19,13.9,N,1,1,thomas-haugh-1,Thomas Haugh,2026
+11,87,11,2025-12-17,Florida,,Saint Francis (PA),REG (Non-Conf),W 102-61,*,25,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,1,2,3,4,0,0,2,0,5,4.0,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+12,88,12,2025-12-21,Florida,,Colgate,REG (Non-Conf),W 90-60,*,26,5,9,0.556,2,5,0.4,3,4,0.75,0.667,5,8,0.625,1,1,2,0,0,1,0,1,17,12.8,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+13,89,13,2025-12-29,Florida,,Dartmouth,REG (Non-Conf),W 94-72,*,27,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,4,0.5,3,5,8,1,0,1,1,1,9,6.0,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+14,90,14,2026-01-03,Florida,@,Missouri,REG (Conf),L 74-76,*,39,9,20,0.45,2,6,0.333,7,14,0.5,0.5,4,5,0.8,2,5,7,1,0,0,0,4,24,15.2,A,0,1,thomas-haugh-1,Thomas Haugh,2026
+15,91,15,2026-01-06,Florida,,Georgia,REG (Conf),W 92-77,*,36,8,15,0.533,2,5,0.4,6,10,0.6,0.6,3,4,0.75,5,7,12,5,3,4,1,1,21,26.8,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+16,92,16,2026-01-10,Florida,,Tennessee,REG (Conf),W 91-67,*,37,2,7,0.286,1,5,0.2,1,2,0.5,0.357,8,8,1.0,0,3,3,2,5,0,1,3,13,14.0,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+17,93,17,2026-01-13,Florida,@,Oklahoma,REG (Conf),W 96-79,*,35,8,13,0.615,3,5,0.6,5,8,0.625,0.731,2,3,0.667,3,4,7,0,2,0,1,3,21,17.8,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+18,94,18,2026-01-17,Florida,@,Vanderbilt,REG (Conf),W 98-94,*,35,6,11,0.545,2,5,0.4,4,6,0.667,0.636,4,4,1.0,2,6,8,2,0,0,2,3,18,14.1,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+19,95,19,2026-01-20,Florida,,Louisiana State,REG (Conf),W 79-61,*,35,2,11,0.182,1,6,0.167,1,5,0.2,0.227,2,4,0.5,1,2,3,1,3,1,0,1,7,4.6,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+20,96,20,2026-01-24,Florida,,Auburn,REG (Conf),L 67-76,*,38,9,19,0.474,3,9,0.333,6,10,0.6,0.553,6,9,0.667,4,6,10,0,1,2,2,3,27,19.9,H,0,1,thomas-haugh-1,Thomas Haugh,2026
+21,97,21,2026-01-28,Florida,@,South Carolina,REG (Conf),W 95-48,*,26,7,12,0.583,3,5,0.6,4,7,0.571,0.708,1,2,0.5,2,1,3,1,0,1,1,0,18,14.1,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+22,98,22,2026-02-01,Florida,,Alabama,REG (Conf),W 100-77,*,35,9,16,0.563,2,6,0.333,7,10,0.7,0.625,2,3,0.667,2,3,5,1,1,1,1,2,22,16.9,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+23,99,23,2026-02-07,Florida,@,Texas A&M,REG (Conf),W 86-67,*,32,5,12,0.417,2,4,0.5,3,8,0.375,0.5,10,13,0.769,6,1,7,3,1,2,2,3,22,20.2,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+24,100,24,2026-02-11,Florida,@,Georgia,REG (Conf),W 86-66,*,35,2,8,0.25,1,6,0.167,1,2,0.5,0.313,6,6,1.0,0,2,2,5,2,1,1,2,11,11.2,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+25,101,25,2026-02-14,Florida,,Kentucky,REG (Conf),W 92-83,*,34,5,12,0.417,1,5,0.2,4,7,0.571,0.458,6,10,0.6,3,5,8,2,1,1,0,2,17,14.9,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+26,102,26,2026-02-17,Florida,,South Carolina,REG (Conf),W 76-62,*,32,3,6,0.5,3,5,0.6,0,1,0.0,0.75,1,2,0.5,0,1,1,0,0,0,0,1,10,6.5,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+27,103,27,2026-02-21,Florida,@,Ole Miss,REG (Conf),W 94-75,*,31,6,13,0.462,2,6,0.333,4,7,0.571,0.538,6,6,1.0,2,7,9,4,1,2,2,2,20,19.2,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+28,104,28,2026-02-25,Florida,@,Texas,REG (Conf),W 84-71,*,24,2,6,0.333,0,4,0.0,2,2,1.0,0.333,1,2,0.5,0,0,0,0,0,2,2,5,5,-1.4,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+29,105,29,2026-02-28,Florida,,Arkansas,REG (Conf),W 111-77,*,29,7,12,0.583,1,3,0.333,6,9,0.667,0.625,7,7,1.0,1,4,5,2,1,1,1,4,22,18.8,H,1,1,thomas-haugh-1,Thomas Haugh,2026
+30,106,31,2026-03-07,Florida,@,Kentucky,REG (Conf),W 84-77,*,37,7,14,0.5,3,6,0.5,4,8,0.5,0.607,3,4,0.75,3,6,9,3,3,0,0,3,20,20.4,A,1,1,thomas-haugh-1,Thomas Haugh,2026
+31,107,32,2026-03-13,Florida,N,Kentucky,CTOURN,W 71-63,*,35,2,9,0.222,0,5,0.0,2,4,0.5,0.222,9,10,0.9,1,7,8,0,2,3,2,3,13,10.8,N,1,0,thomas-haugh-1,Thomas Haugh,2026
+32,108,33,2026-03-14,Florida,N,Vanderbilt,CTOURN,L 74-91,*,35,5,14,0.357,1,4,0.25,4,10,0.4,0.393,8,10,0.8,5,4,9,3,1,1,1,4,19,16.3,N,0,0,thomas-haugh-1,Thomas Haugh,2026

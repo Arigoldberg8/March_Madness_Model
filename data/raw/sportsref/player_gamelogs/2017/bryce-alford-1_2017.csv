@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2016-11-11,UCLA,,Pacific,REG (Non-Conf),W 119-80,*,32,9,13,0.692,6,9,0.667,3,4,0.75,0.923,6,7,0.857,1,1,2,1,2,0,2,3,30,24.6,H,1,1,bryce-alford-1,Bryce Alford,2017
+2,107,2,2016-11-13,UCLA,,Cal State Northridge,REG (Non-Conf),W 102-87,*,34,5,13,0.385,2,4,0.5,3,9,0.333,0.462,8,8,1.0,0,0,0,3,1,0,2,2,20,13.2,H,1,1,bryce-alford-1,Bryce Alford,2017
+3,108,3,2016-11-17,UCLA,,San Diego,REG (Non-Conf),W 88-68,*,36,2,8,0.25,1,5,0.2,1,3,0.333,0.313,5,5,1.0,0,3,3,3,0,0,1,1,10,6.8,H,1,1,bryce-alford-1,Bryce Alford,2017
+4,109,4,2016-11-20,UCLA,,Long Beach State,REG (Non-Conf),W 114-77,*,31,5,8,0.625,5,6,0.833,0,2,0.0,0.938,0,0,,0,2,2,6,4,0,2,1,15,17.8,H,1,1,bryce-alford-1,Bryce Alford,2017
+5,110,5,2016-11-24,UCLA,N,Portland,REG (Non-Conf),W 99-77,*,34,4,10,0.4,3,8,0.375,1,2,0.5,0.55,2,2,1.0,0,1,1,2,1,1,0,3,13,9.8,N,1,1,bryce-alford-1,Bryce Alford,2017
+6,111,6,2016-11-25,UCLA,N,Nebraska,REG (Non-Conf),W 82-71,*,35,7,14,0.5,0,6,0.0,7,8,0.875,0.5,4,4,1.0,2,4,6,2,0,0,0,1,18,14.6,N,1,1,bryce-alford-1,Bryce Alford,2017
+7,112,7,2016-11-27,UCLA,N,Texas A&M,REG (Non-Conf),W 74-67,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,5,6,0.833,1,2,3,3,2,0,0,1,13,13.9,N,1,1,bryce-alford-1,Bryce Alford,2017
+8,113,8,2016-11-30,UCLA,,UC Riverside,REG (Non-Conf),W 98-56,*,33,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,5,5,4,0,0,1,3,5,3.3,H,1,1,bryce-alford-1,Bryce Alford,2017
+9,114,9,2016-12-03,UCLA,@,Kentucky,REG (Non-Conf),W 97-92,*,35,4,10,0.4,2,5,0.4,2,5,0.4,0.5,4,6,0.667,0,0,0,1,0,0,3,2,14,4.7,A,1,1,bryce-alford-1,Bryce Alford,2017
+10,115,10,2016-12-10,UCLA,,Michigan,REG (Non-Conf),W 102-84,*,32,6,10,0.6,3,6,0.5,3,4,0.75,0.75,3,3,1.0,0,4,4,3,0,0,2,1,18,14.3,H,1,1,bryce-alford-1,Bryce Alford,2017
+11,116,11,2016-12-14,UCLA,,UC Santa Barbara,REG (Non-Conf),W 102-62,*,29,5,12,0.417,3,10,0.3,2,2,1.0,0.542,2,3,0.667,0,2,2,2,1,0,0,1,15,10.8,H,1,1,bryce-alford-1,Bryce Alford,2017
+12,117,12,2016-12-17,UCLA,N,Ohio State,REG (Non-Conf),W 86-73,*,35,6,14,0.429,4,11,0.364,2,3,0.667,0.571,4,5,0.8,0,2,2,3,0,0,1,0,20,13.9,N,1,1,bryce-alford-1,Bryce Alford,2017
+13,118,13,2016-12-21,UCLA,,Western Michigan,REG (Non-Conf),W 82-68,*,32,8,17,0.471,4,11,0.364,4,6,0.667,0.588,2,3,0.667,0,2,2,2,0,0,4,1,22,10.5,H,1,1,bryce-alford-1,Bryce Alford,2017
+14,119,14,2016-12-28,UCLA,@,Oregon,REG (Conf),L 87-89,*,32,7,11,0.636,6,10,0.6,1,1,1.0,0.909,0,1,0.0,0,4,4,1,0,1,0,2,20,16.5,A,0,1,bryce-alford-1,Bryce Alford,2017
+15,120,15,2016-12-30,UCLA,@,Oregon State,REG (Conf),W 76-63,*,33,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,3,0.667,0,2,2,2,2,0,4,2,12,6.8,A,1,1,bryce-alford-1,Bryce Alford,2017
+16,121,16,2017-01-05,UCLA,,California,REG (Conf),W 81-71,*,35,8,13,0.615,5,7,0.714,3,6,0.5,0.808,3,4,0.75,1,2,3,2,0,0,0,0,24,20.4,H,1,1,bryce-alford-1,Bryce Alford,2017
+17,122,17,2017-01-08,UCLA,,Stanford,REG (Conf),W 89-75,*,33,4,6,0.667,4,5,0.8,0,1,0.0,1.0,5,8,0.625,0,3,3,2,0,0,1,0,17,14.5,H,1,1,bryce-alford-1,Bryce Alford,2017
+18,123,18,2017-01-12,UCLA,@,Colorado,REG (Conf),W 104-89,*,34,11,18,0.611,9,14,0.643,2,4,0.5,0.861,6,6,1.0,0,2,2,1,0,0,0,2,37,29.3,A,1,1,bryce-alford-1,Bryce Alford,2017
+19,124,19,2017-01-14,UCLA,@,Utah,REG (Conf),W 83-82,*,35,6,12,0.5,3,7,0.429,3,5,0.6,0.625,0,1,0.0,0,3,3,1,0,0,1,1,15,8.8,A,1,1,bryce-alford-1,Bryce Alford,2017
+20,125,20,2017-01-19,UCLA,,Arizona State,REG (Conf),W 102-80,*,32,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,2,0.5,0,2,2,1,0,0,1,2,9,5.1,H,1,1,bryce-alford-1,Bryce Alford,2017
+21,126,21,2017-01-21,UCLA,,Arizona,REG (Conf),L 85-96,*,33,5,12,0.417,4,10,0.4,1,2,0.5,0.583,1,2,0.5,1,2,3,1,0,0,0,3,15,9.0,H,0,1,bryce-alford-1,Bryce Alford,2017
+22,127,22,2017-01-25,UCLA,@,Southern California,REG (Conf),L 76-84,*,37,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,0,3,3,4,2,0,1,1,3,2.8,A,0,1,bryce-alford-1,Bryce Alford,2017
+23,128,23,2017-02-01,UCLA,@,Washington State,REG (Conf),W 95-79,*,30,1,6,0.167,1,4,0.25,0,2,0.0,0.25,4,5,0.8,0,0,0,1,0,1,0,0,7,4.2,A,1,1,bryce-alford-1,Bryce Alford,2017
+24,129,24,2017-02-04,UCLA,@,Washington,REG (Conf),W 107-66,*,31,8,12,0.667,5,8,0.625,3,4,0.75,0.875,0,0,,0,2,2,5,0,0,3,0,21,16.9,A,1,1,bryce-alford-1,Bryce Alford,2017
+25,130,25,2017-02-09,UCLA,,Oregon,REG (Conf),W 82-79,*,30,3,7,0.429,3,7,0.429,0,0,,0.643,3,3,1.0,0,1,1,4,0,0,0,2,12,10.6,H,1,1,bryce-alford-1,Bryce Alford,2017
+26,131,26,2017-02-12,UCLA,,Oregon State,REG (Conf),W 78-60,*,33,2,7,0.286,2,5,0.4,0,2,0.0,0.429,1,1,1.0,0,1,1,3,0,0,1,0,7,4.3,H,1,1,bryce-alford-1,Bryce Alford,2017
+27,132,27,2017-02-18,UCLA,,Southern California,REG (Conf),W 102-70,*,30,8,15,0.533,5,9,0.556,3,6,0.5,0.7,5,5,1.0,0,4,4,6,0,1,0,1,26,24.4,H,1,1,bryce-alford-1,Bryce Alford,2017
+28,133,28,2017-02-23,UCLA,@,Arizona State,REG (Conf),W 87-75,*,35,3,10,0.3,3,9,0.333,0,1,0.0,0.45,6,6,1.0,0,2,2,6,1,0,1,1,15,13.6,A,1,1,bryce-alford-1,Bryce Alford,2017
+29,134,29,2017-02-25,UCLA,@,Arizona,REG (Conf),W 77-72,*,34,4,12,0.333,3,7,0.429,1,5,0.2,0.458,4,6,0.667,2,4,6,3,0,0,0,1,15,11.7,A,1,1,bryce-alford-1,Bryce Alford,2017
+30,135,30,2017-03-01,UCLA,,Washington,REG (Conf),W 98-66,*,32,10,18,0.556,8,14,0.571,2,4,0.5,0.778,1,2,0.5,1,2,3,4,2,0,0,4,29,24.5,H,1,1,bryce-alford-1,Bryce Alford,2017
+31,136,31,2017-03-04,UCLA,,Washington State,REG (Conf),W 77-68,*,35,4,12,0.333,2,8,0.25,2,4,0.5,0.417,3,4,0.75,0,2,2,0,0,0,0,1,13,6.0,H,1,1,bryce-alford-1,Bryce Alford,2017
+32,137,32,2017-03-09,UCLA,N,Southern California,CTOURN,W 76-74,*,33,2,10,0.2,2,7,0.286,0,3,0.0,0.3,2,2,1.0,0,5,5,2,0,1,1,2,8,3.6,N,1,0,bryce-alford-1,Bryce Alford,2017
+33,138,33,2017-03-10,UCLA,N,Arizona,CTOURN,L 75-86,*,33,2,12,0.167,1,10,0.1,1,2,0.5,0.208,0,0,,0,1,1,1,0,0,2,1,5,-4.0,N,0,0,bryce-alford-1,Bryce Alford,2017
+34,139,34,2017-03-17,UCLA,N,Kent State,ROUND-64,W 97-80,*,34,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,2,2,2,0,0,0,0,6,4.6,N,1,0,bryce-alford-1,Bryce Alford,2017
+35,140,35,2017-03-19,UCLA,N,Cincinnati,ROUND-32,W 79-67,*,31,5,13,0.385,4,11,0.364,1,2,0.5,0.538,2,2,1.0,0,1,1,3,1,0,0,1,16,11.9,N,1,0,bryce-alford-1,Bryce Alford,2017
+36,141,36,2017-03-24,UCLA,N,Kentucky,ROUND-16,L 75-86,*,33,5,12,0.417,3,9,0.333,2,3,0.667,0.542,0,0,,2,0,2,2,0,0,1,4,13,6.8,N,0,0,bryce-alford-1,Bryce Alford,2017

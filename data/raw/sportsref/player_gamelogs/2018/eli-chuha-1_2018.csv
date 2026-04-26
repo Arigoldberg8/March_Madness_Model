@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2017-11-10,New Mexico State,,East Central,REG (Non-Conf),W 81-55,*,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,1,4,1,0,0,1,2,4,2.6,H,1,1,eli-chuha-1,Eli Chuha,2018
+2,57,2,2017-11-13,New Mexico State,@,St. Mary's (CA),REG (Non-Conf),L 74-92,,24,4,12,0.333,1,3,0.333,3,9,0.333,0.375,4,6,0.667,1,5,6,0,0,0,1,3,13,5.4,A,0,1,eli-chuha-1,Eli Chuha,2018
+3,58,3,2017-11-17,New Mexico State,,New Mexico,REG (Non-Conf),W 75-56,,16,4,9,0.444,0,1,0.0,4,8,0.5,0.444,5,8,0.625,5,2,7,0,0,0,2,4,13,7.6,H,1,1,eli-chuha-1,Eli Chuha,2018
+4,59,4,2017-11-22,New Mexico State,,Colorado State,REG (Non-Conf),W 89-76,,25,8,11,0.727,2,4,0.5,6,7,0.857,0.818,6,8,0.75,0,4,4,1,1,0,0,1,24,21.2,H,1,1,eli-chuha-1,Eli Chuha,2018
+5,60,5,2017-11-25,New Mexico State,,UTEP,REG (Non-Conf),W 72-63,,24,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,4,3,7,0,0,2,2,4,6,3.7,H,1,1,eli-chuha-1,Eli Chuha,2018
+6,61,6,2017-11-30,New Mexico State,@,UTEP,REG (Non-Conf),W 80-60,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,1,1,2,0,0,0,2,5,3,-2.5,A,1,1,eli-chuha-1,Eli Chuha,2018
+7,62,7,2017-12-03,New Mexico State,,Prairie View A&M,REG (Non-Conf),W 69-57,,17,1,2,0.5,0,0,,1,2,0.5,0.5,3,5,0.6,1,3,4,1,1,0,2,0,5,4.5,H,1,1,eli-chuha-1,Eli Chuha,2018
+8,63,8,2017-12-06,New Mexico State,,San Diego,REG (Non-Conf),L 60-65,,17,2,8,0.25,0,1,0.0,2,7,0.286,0.25,1,3,0.333,4,5,9,1,1,0,2,2,5,2.6,H,0,1,eli-chuha-1,Eli Chuha,2018
+9,64,9,2017-12-09,New Mexico State,@,New Mexico,REG (Non-Conf),W 65-62,,8,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,0,1,0,0,4,2,0.7,A,1,1,eli-chuha-1,Eli Chuha,2018
+10,65,11,2017-12-16,New Mexico State,N,Illinois,REG (Non-Conf),W 74-69,,23,4,8,0.5,1,1,1.0,3,7,0.429,0.563,2,2,1.0,2,3,5,3,0,2,2,2,11,10.0,N,1,1,eli-chuha-1,Eli Chuha,2018
+11,66,12,2017-12-22,New Mexico State,N,Davidson,REG (Non-Conf),W 69-68,,26,5,7,0.714,2,3,0.667,3,4,0.75,0.857,1,2,0.5,5,3,8,3,0,0,1,0,13,15.2,N,1,1,eli-chuha-1,Eli Chuha,2018
+12,67,13,2017-12-23,New Mexico State,N,Miami (FL),REG (Non-Conf),W 63-54,,30,3,14,0.214,1,6,0.167,2,8,0.25,0.25,1,2,0.5,1,7,8,0,0,0,2,4,8,-1.8,N,1,1,eli-chuha-1,Eli Chuha,2018
+13,68,14,2017-12-25,New Mexico State,N,Southern California,REG (Non-Conf),L 72-77,,23,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,3,6,1,3,0,0,3,6,9.9,N,0,1,eli-chuha-1,Eli Chuha,2018
+14,69,15,2017-12-28,New Mexico State,@,UC Irvine,REG (Non-Conf),W 65-60,,22,4,8,0.5,0,2,0.0,4,6,0.667,0.5,4,6,0.667,1,2,3,1,0,2,0,4,12,9.0,A,1,1,eli-chuha-1,Eli Chuha,2018
+15,70,16,2018-01-06,New Mexico State,@,Chicago State,REG (Conf),W 97-60,,19,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,6,7,0,0,0,0,0,8,8.6,A,1,1,eli-chuha-1,Eli Chuha,2018
+16,71,17,2018-01-11,New Mexico State,@,Grand Canyon,REG (Conf),W 70-59,,24,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,3,0.333,0,4,4,1,0,0,3,2,9,4.4,A,1,1,eli-chuha-1,Eli Chuha,2018
+17,72,18,2018-01-13,New Mexico State,@,Cal State Bakersfield,REG (Conf),W 66-53,,25,7,11,0.636,0,3,0.0,7,8,0.875,0.636,2,4,0.5,0,7,7,2,1,0,3,2,16,11.0,A,1,1,eli-chuha-1,Eli Chuha,2018
+18,73,19,2018-01-18,New Mexico State,,Seattle,REG (Conf),W 75-62,,19,3,4,0.75,0,1,0.0,3,3,1.0,0.75,8,8,1.0,1,2,3,2,0,0,0,3,14,13.9,H,1,1,eli-chuha-1,Eli Chuha,2018
+19,74,20,2018-01-20,New Mexico State,,Utah Valley,REG (Conf),W 86-59,,18,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,2,4,6,4,1,0,2,1,10,9.0,H,1,1,eli-chuha-1,Eli Chuha,2018
+20,75,21,2018-01-27,New Mexico State,@,Kansas City,REG (Conf),W 73-48,,17,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,2,0.0,4,2,6,1,0,0,0,0,10,8.3,A,1,1,eli-chuha-1,Eli Chuha,2018
+21,76,22,2018-01-30,New Mexico State,,N New Mexico,REG (Non-Conf),W 71-45,,14,3,3,1.0,0,0,,3,3,1.0,1.0,2,3,0.667,1,2,3,1,0,0,2,3,8,5.5,H,1,1,eli-chuha-1,Eli Chuha,2018
+22,77,23,2018-02-03,New Mexico State,,Texas–Rio Grande Valley,REG (Conf),W 90-67,,25,3,4,0.75,0,0,,3,4,0.75,0.75,3,8,0.375,1,3,4,1,0,0,3,0,9,4.7,H,1,1,eli-chuha-1,Eli Chuha,2018
+23,78,24,2018-02-08,New Mexico State,,Cal State Bakersfield,REG (Conf),W 69-43,,12,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,4,1,5,0,0,0,2,5,6,4.2,H,1,1,eli-chuha-1,Eli Chuha,2018
+24,79,25,2018-02-10,New Mexico State,,Grand Canyon,REG (Conf),W 74-70,,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,4,4,8,0,0,0,1,3,5,4.8,H,1,1,eli-chuha-1,Eli Chuha,2018
+25,80,26,2018-02-15,New Mexico State,@,Utah Valley,REG (Conf),L 79-86,,19,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,1,1,2,0,2,1,2,1,9,6.6,A,0,1,eli-chuha-1,Eli Chuha,2018
+26,81,27,2018-02-17,New Mexico State,@,Seattle,REG (Conf),L 63-73 (OT),,21,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,1,8,9,0,1,0,0,0,6,6.0,A,0,1,eli-chuha-1,Eli Chuha,2018
+27,82,28,2018-02-22,New Mexico State,,Chicago State,REG (Conf),W 78-67,,16,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,2,3,1,0,0,2,0,8,4.7,H,1,1,eli-chuha-1,Eli Chuha,2018
+28,83,29,2018-02-24,New Mexico State,,Kansas City,REG (Conf),W 82-58,,22,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,2,2,4,0,0,0,0,0,15,13.1,H,1,1,eli-chuha-1,Eli Chuha,2018
+29,84,30,2018-03-03,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 86-71,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,5,0.2,0,4,4,2,0,0,2,3,3,-0.2,A,1,1,eli-chuha-1,Eli Chuha,2018
+30,85,31,2018-03-08,New Mexico State,N,Chicago State,CTOURN,W 97-70,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,2,1,3,1,1,0,3,5,4,-0.4,N,1,0,eli-chuha-1,Eli Chuha,2018
+31,86,32,2018-03-09,New Mexico State,N,Seattle,CTOURN,W 84-79,,12,0,7,0.0,0,0,,0,7,0.0,0.0,0,0,,4,1,5,1,1,0,1,0,0,-1.1,N,1,0,eli-chuha-1,Eli Chuha,2018
+32,87,33,2018-03-10,New Mexico State,N,Grand Canyon,CTOURN,W 72-58,,5,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,0,0,1,1,4,2.0,N,1,0,eli-chuha-1,Eli Chuha,2018
+33,88,34,2018-03-16,New Mexico State,N,Clemson,ROUND-64,L 68-79,,14,2,6,0.333,0,0,,2,6,0.333,0.333,1,1,1.0,0,1,1,2,0,0,0,0,5,3.3,N,0,0,eli-chuha-1,Eli Chuha,2018

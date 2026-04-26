@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2022-11-07,NC State,,Austin Peay,REG (Non-Conf),W 99-50,*,28,6,11,0.545,3,6,0.5,3,5,0.6,0.682,0,0,,1,6,7,2,3,2,1,1,15,16.6,H,1,1,jack-clarke-1,Jack Clark,2023
+2,65,2,2022-11-11,NC State,,Campbell,REG (Non-Conf),W 73-67,*,31,2,7,0.286,0,3,0.0,2,4,0.5,0.286,6,7,0.857,2,8,10,2,5,1,0,2,10,15.6,H,1,1,jack-clarke-1,Jack Clark,2023
+3,66,3,2022-11-15,NC State,,Florida International,REG (Non-Conf),W 107-74,*,11,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,1,0,0,0,2,2,-0.5,H,1,1,jack-clarke-1,Jack Clark,2023
+4,67,4,2022-11-19,NC State,,Elon,REG (Non-Conf),W 74-63,*,35,9,18,0.5,3,10,0.3,6,8,0.75,0.583,0,0,,2,8,10,2,2,1,0,2,21,19.1,H,1,1,jack-clarke-1,Jack Clark,2023
+5,68,5,2022-11-23,NC State,N,Kansas,REG (Non-Conf),L 74-80,*,33,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,3,3,0,0,0,2,3,5,-0.7,N,0,1,jack-clarke-1,Jack Clark,2023
+6,69,6,2022-11-24,NC State,N,Dayton,REG (Non-Conf),W 76-64,*,35,5,9,0.556,0,3,0.0,5,6,0.833,0.556,0,0,,3,6,9,1,2,1,0,4,10,11.4,N,1,1,jack-clarke-1,Jack Clark,2023
+7,70,7,2022-11-25,NC State,N,Butler,REG (Non-Conf),W 76-61,*,27,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,2,6,8,0,3,0,2,1,10,9.1,N,1,1,jack-clarke-1,Jack Clark,2023
+8,71,8,2022-11-29,NC State,,William & Mary,REG (Non-Conf),W 85-64,*,26,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,1,5,6,1,3,1,1,3,12,12.8,H,1,1,jack-clarke-1,Jack Clark,2023
+9,72,9,2022-12-02,NC State,,Pittsburgh,REG (Conf),L 60-68,*,26,0,8,0.0,0,7,0.0,0,1,0.0,0.0,2,2,1.0,2,7,9,1,1,2,0,3,2,1.8,H,0,1,jack-clarke-1,Jack Clark,2023
+10,73,10,2022-12-06,NC State,,Coppin State,REG (Non-Conf),W 94-72,*,32,1,7,0.143,0,4,0.0,1,3,0.333,0.143,1,2,0.5,4,6,10,5,3,0,1,2,3,7.4,H,1,1,jack-clarke-1,Jack Clark,2023
+11,74,11,2022-12-10,NC State,@,Miami (FL),REG (Conf),L 73-80,*,11,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,5,5,1,1,0,1,5,3,2.9,A,0,1,jack-clarke-1,Jack Clark,2023
+12,75,12,2022-12-13,NC State,,Furman,REG (Non-Conf),W 92-73,*,25,5,8,0.625,2,5,0.4,3,3,1.0,0.75,3,3,1.0,1,3,4,2,3,0,1,0,15,16.4,H,1,1,jack-clarke-1,Jack Clark,2023
+13,76,13,2022-12-17,NC State,N,Vanderbilt,REG (Non-Conf),W 70-66,*,34,2,7,0.286,2,6,0.333,0,1,0.0,0.429,1,2,0.5,2,6,8,0,1,1,0,1,7,7.0,N,1,1,jack-clarke-1,Jack Clark,2023
+14,77,14,2022-12-22,NC State,,Louisville,REG (Conf),W 76-64,*,37,4,11,0.364,1,7,0.143,3,4,0.75,0.409,5,5,1.0,1,8,9,6,1,0,0,0,14,16.2,H,1,1,jack-clarke-1,Jack Clark,2023
+15,78,15,2022-12-30,NC State,@,Clemson,REG (Conf),L 64-78,*,33,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,3,0.667,5,6,11,3,1,0,0,2,7,10.1,A,0,1,jack-clarke-1,Jack Clark,2023
+16,79,26,2023-02-11,NC State,@,Boston College,REG (Conf),W 92-62,,9,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,2,2,4,1,0,0,0,1,6,7.7,A,1,1,jack-clarke-1,Jack Clark,2023
+17,80,27,2023-02-14,NC State,@,Syracuse,REG (Conf),L 72-75,,31,7,14,0.5,1,4,0.25,6,10,0.6,0.536,0,0,,5,4,9,1,2,0,0,3,15,14.2,A,0,1,jack-clarke-1,Jack Clark,2023
+18,81,28,2023-02-19,NC State,,North Carolina,REG (Conf),W 77-69,,25,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,3,5,8,2,0,0,0,3,6,6.4,H,1,1,jack-clarke-1,Jack Clark,2023
+19,82,29,2023-02-22,NC State,,Wake Forest,REG (Conf),W 90-74,,14,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,2,1,3,1,2,0,0,1,7,8.0,H,1,1,jack-clarke-1,Jack Clark,2023
+20,83,31,2023-02-28,NC State,@,Duke,REG (Conf),L 67-71,,25,6,10,0.6,0,3,0.0,6,7,0.857,0.6,1,1,1.0,5,2,7,0,1,0,0,3,13,12.3,A,0,1,jack-clarke-1,Jack Clark,2023
+21,84,32,2023-03-08,NC State,N,Virginia Tech,CTOURN,W 97-77,,19,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,0,1,1,0,0,0,0,5,11,5.7,N,1,0,jack-clarke-1,Jack Clark,2023
+22,85,33,2023-03-09,NC State,N,Clemson,CTOURN,L 54-80,*,30,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,2,5,7,3,4,0,2,1,10,12.6,N,0,0,jack-clarke-1,Jack Clark,2023
+23,86,34,2023-03-17,NC State,N,Creighton,ROUND-64,L 63-72,*,39,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,9,10,0,1,0,0,0,3,3.6,N,0,0,jack-clarke-1,Jack Clark,2023

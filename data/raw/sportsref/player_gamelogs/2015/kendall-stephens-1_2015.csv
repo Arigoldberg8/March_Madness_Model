@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2014-11-14,Purdue,,Samford,REG (Non-Conf),W 80-40,*,14,3,5,0.6,3,4,0.75,0,1,0.0,0.9,1,2,0.5,0,2,2,1,1,0,0,0,10,9.6,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+2,34,2,2014-11-16,Purdue,,IUPUI,REG (Non-Conf),W 77-57,*,32,6,11,0.545,6,9,0.667,0,2,0.0,0.818,6,6,1.0,0,4,4,1,2,0,2,2,24,19.8,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+3,35,3,2014-11-20,Purdue,,Grambling State,REG (Non-Conf),W 82-30,*,16,2,6,0.333,1,5,0.2,1,1,1.0,0.417,1,1,1.0,0,0,0,2,0,0,2,1,6,1.6,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+4,36,4,2014-11-24,Purdue,N,Kansas State,REG (Non-Conf),L 79-88,*,35,7,15,0.467,5,11,0.455,2,4,0.5,0.633,2,3,0.667,0,3,3,3,1,2,1,1,21,16.9,N,0,1,kendall-stephens-1,Kendall Stephens,2015
+5,37,5,2014-11-25,Purdue,N,Missouri,REG (Non-Conf),W 82-61,*,17,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,1,2,3,0,0,0,1,4,9,4.0,N,1,1,kendall-stephens-1,Kendall Stephens,2015
+6,38,6,2014-11-26,Purdue,N,Brigham Young,REG (Non-Conf),W 87-85 (OT),*,32,1,9,0.111,1,5,0.2,0,4,0.0,0.167,1,2,0.5,1,4,5,1,1,1,2,1,4,-0.4,N,1,1,kendall-stephens-1,Kendall Stephens,2015
+7,39,7,2014-12-02,Purdue,,NC State,REG (Non-Conf),W 66-61,*,26,2,11,0.182,1,4,0.25,1,7,0.143,0.227,4,6,0.667,0,2,2,2,0,0,1,2,9,1.5,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+8,40,8,2014-12-06,Purdue,,North Florida,REG (Non-Conf),L 70-73,*,26,2,7,0.286,2,6,0.333,0,1,0.0,0.429,4,4,1.0,0,4,4,4,2,0,3,0,10,8.9,H,0,1,kendall-stephens-1,Kendall Stephens,2015
+9,41,9,2014-12-08,Purdue,,IPFW,REG (Non-Conf),W 63-43,,22,5,11,0.455,3,7,0.429,2,4,0.5,0.591,0,0,,0,2,2,2,1,0,1,2,13,8.5,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+10,42,10,2014-12-10,Purdue,,Arkansas State,REG (Non-Conf),W 87-46,,19,6,9,0.667,6,7,0.857,0,2,0.0,1.0,0,0,,0,1,1,2,1,3,3,0,18,15.9,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+11,43,11,2014-12-13,Purdue,@,Vanderbilt,REG (Non-Conf),L 71-81,,24,2,8,0.25,1,5,0.2,1,3,0.333,0.313,6,6,1.0,0,3,3,1,1,0,2,2,11,6.0,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+12,44,12,2014-12-20,Purdue,N,Notre Dame,REG (Non-Conf),L 63-94,*,17,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,3,3,2,0,0,0,3,3,0.3,N,0,1,kendall-stephens-1,Kendall Stephens,2015
+13,45,13,2014-12-22,Purdue,,Gardner-Webb,REG (Non-Conf),L 84-89,*,20,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,4,4,0,0,0,1,1,0,-3.7,H,0,1,kendall-stephens-1,Kendall Stephens,2015
+14,46,14,2014-12-31,Purdue,,Minnesota,REG (Conf),W 72-68,*,37,7,15,0.467,4,8,0.5,3,7,0.429,0.6,1,2,0.5,2,0,2,4,0,1,1,0,19,14.8,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+15,47,15,2015-01-03,Purdue,,Michigan,REG (Conf),W 64-51,*,35,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,4,4,1,0,1,1,4,8,5.0,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+16,48,16,2015-01-07,Purdue,@,Wisconsin,REG (Conf),L 55-62,*,12,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,1,1,2,0,0,0,4,7,4.1,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+17,49,17,2015-01-10,Purdue,,Maryland,REG (Conf),L 60-69,*,30,5,14,0.357,2,8,0.25,3,6,0.5,0.429,2,2,1.0,2,5,7,3,2,0,3,4,14,8.6,H,0,1,kendall-stephens-1,Kendall Stephens,2015
+18,50,18,2015-01-17,Purdue,@,Penn State,REG (Conf),W 84-77 (OT),*,39,7,16,0.438,6,12,0.5,1,4,0.25,0.625,2,5,0.4,2,2,4,3,0,0,1,1,22,15.1,A,1,1,kendall-stephens-1,Kendall Stephens,2015
+19,51,19,2015-01-21,Purdue,@,Illinois,REG (Conf),L 57-66,*,12,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,-1.9,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+20,52,20,2015-01-24,Purdue,,Iowa,REG (Conf),W 67-63,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,4,0,0,1,0,0,-1.0,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+21,53,21,2015-01-28,Purdue,,Indiana,REG (Conf),W 83-67,,20,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,1,0.0,1,1,2,0,0,0,2,2,5,-1.3,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+22,54,22,2015-01-31,Purdue,@,Northwestern,REG (Conf),W 68-60,,23,1,6,0.167,1,6,0.167,0,0,,0.25,1,2,0.5,0,0,0,1,0,0,1,1,4,-0.9,A,1,1,kendall-stephens-1,Kendall Stephens,2015
+23,55,23,2015-02-04,Purdue,,Ohio State,REG (Conf),W 60-58,,11,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,0,0,0,1,0,0,3,4,0.3,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+24,56,24,2015-02-07,Purdue,@,Minnesota,REG (Conf),L 58-62,,23,3,9,0.333,3,8,0.375,0,1,0.0,0.5,0,0,,0,3,3,3,0,0,1,2,9,5.1,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+25,57,25,2015-02-12,Purdue,@,Rutgers,REG (Conf),W 61-51,,16,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,3,0.667,0,2,2,1,0,0,3,1,7,1.8,A,1,1,kendall-stephens-1,Kendall Stephens,2015
+26,58,26,2015-02-15,Purdue,,Nebraska,REG (Conf),W 66-54,,19,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,0,0,1,0,0,1,0,12,8.4,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+27,59,27,2015-02-19,Purdue,@,Indiana,REG (Conf),W 67-63,,28,1,8,0.125,1,7,0.143,0,1,0.0,0.188,0,0,,0,3,3,2,1,1,0,1,3,1.4,A,1,1,kendall-stephens-1,Kendall Stephens,2015
+28,60,28,2015-02-26,Purdue,,Rutgers,REG (Conf),W 92-85,,26,3,9,0.333,3,9,0.333,0,0,,0.5,2,2,1.0,2,1,3,3,0,0,1,2,11,7.9,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+29,61,29,2015-03-01,Purdue,@,Ohio State,REG (Conf),L 61-65,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,2,0,-2.5,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+30,62,30,2015-03-04,Purdue,@,Michigan State,REG (Conf),L 66-72,,29,5,9,0.556,5,8,0.625,0,1,0.0,0.833,1,1,1.0,0,3,3,2,0,2,1,1,16,14.0,A,0,1,kendall-stephens-1,Kendall Stephens,2015
+31,63,31,2015-03-07,Purdue,,Illinois,REG (Conf),W 63-58,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,3,2,0,-5.6,H,1,1,kendall-stephens-1,Kendall Stephens,2015
+32,64,32,2015-03-13,Purdue,N,Penn State,CTOURN,W 64-59,,17,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,1,2,1,0,0,1,2,3,-0.2,N,1,0,kendall-stephens-1,Kendall Stephens,2015
+33,65,33,2015-03-14,Purdue,N,Wisconsin,CTOURN,L 51-71,,23,3,6,0.5,3,3,1.0,0,3,0.0,0.75,0,0,,0,1,1,1,0,0,0,1,9,6.6,N,0,0,kendall-stephens-1,Kendall Stephens,2015
+34,66,34,2015-03-19,Purdue,N,Cincinnati,ROUND-64,L 65-66 (OT),,20,2,9,0.222,1,8,0.125,1,1,1.0,0.278,0,0,,1,0,1,1,0,0,0,1,5,0.5,N,0,0,kendall-stephens-1,Kendall Stephens,2015

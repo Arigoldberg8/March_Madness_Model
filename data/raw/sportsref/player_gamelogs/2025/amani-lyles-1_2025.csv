@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,48,1,2024-11-04,Akron,@,Arkansas State,REG (Non-Conf),L 75-80 (OT),,23,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,5,4,9,1,0,0,0,2,4,3.8,A,0,1,amani-lyles-1,Amani Lyles,2025
+2,49,2,2024-11-08,Akron,,Ohio Wesleyan,REG (Non-Conf),W 88-57,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,4,4,8,4,1,1,1,2,4,8.7,H,1,1,amani-lyles-1,Amani Lyles,2025
+3,50,3,2024-11-12,Akron,@,St. Mary's (CA),REG (Non-Conf),L 68-87,,17,5,7,0.714,5,6,0.833,0,1,0.0,1.071,0,0,,0,2,2,2,0,0,1,3,15,11.9,A,0,1,amani-lyles-1,Amani Lyles,2025
+4,51,4,2024-11-22,Akron,,Lamar,REG (Non-Conf),W 79-72,*,23,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,6,0.5,6,5,11,2,0,1,1,3,14,14.1,H,1,1,amani-lyles-1,Amani Lyles,2025
+5,52,5,2024-11-23,Akron,,Omaha,REG (Non-Conf),W 92-84,*,21,6,9,0.667,3,6,0.5,3,3,1.0,0.833,0,0,,3,3,6,1,1,2,1,2,15,15.4,H,1,1,amani-lyles-1,Amani Lyles,2025
+6,53,6,2024-11-24,Akron,,Alabama State,REG (Non-Conf),W 97-78,*,9,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,3,3,6,1,0,0,0,0,3,4.6,H,1,1,amani-lyles-1,Amani Lyles,2025
+7,54,7,2024-12-03,Akron,,Northern Kentucky,REG (Non-Conf),W 86-73,*,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,0,0,3,4,2,-2.0,H,1,1,amani-lyles-1,Amani Lyles,2025
+8,55,9,2024-12-15,Akron,N,Milwaukee,REG (Non-Conf),L 81-100,,17,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,2,2,1,1,1,1,2,3,1.1,N,0,1,amani-lyles-1,Amani Lyles,2025
+9,56,10,2024-12-20,Akron,N,Yale,REG (Non-Conf),L 58-74,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,6,6,0,1,1,2,5,3,0.8,N,0,1,amani-lyles-1,Amani Lyles,2025
+10,57,11,2024-12-21,Akron,N,Jackson State,REG (Non-Conf),W 68-50,*,19,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,4,0.5,3,0,3,0,4,2,2,2,7,6.8,N,1,1,amani-lyles-1,Amani Lyles,2025
+11,58,12,2024-12-30,Akron,@,Princeton,REG (Non-Conf),L 75-76,*,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,0,0,1,3,2,2,-0.9,A,0,1,amani-lyles-1,Amani Lyles,2025
+12,59,13,2025-01-03,Akron,@,Bowling Green,REG (Conf),W 71-68,*,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,3,0.667,1,5,6,1,0,2,2,2,4,2.7,A,1,1,amani-lyles-1,Amani Lyles,2025
+13,60,14,2025-01-07,Akron,,Central Michigan,REG (Conf),W 87-71,,15,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,3,0,0,1,3,5,3.8,H,1,1,amani-lyles-1,Amani Lyles,2025
+14,61,15,2025-01-11,Akron,@,Eastern Michigan,REG (Conf),W 105-81,,9,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,0,2,0,0,0,1,4,6,3.9,A,1,1,amani-lyles-1,Amani Lyles,2025
+15,62,16,2025-01-14,Akron,,Toledo,REG (Conf),W 85-78,,19,7,9,0.778,1,3,0.333,6,6,1.0,0.833,1,2,0.5,2,3,5,2,1,2,1,2,16,16.4,H,1,1,amani-lyles-1,Amani Lyles,2025
+16,63,17,2025-01-17,Akron,,Ohio,REG (Conf),W 92-80,,29,7,9,0.778,0,1,0.0,7,8,0.875,0.778,3,3,1.0,2,2,4,6,1,3,0,2,17,22.0,H,1,1,amani-lyles-1,Amani Lyles,2025
+17,64,18,2025-01-21,Akron,@,Buffalo,REG (Conf),W 90-58,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,4,5,2,0,4,0,0,2,7.1,A,1,1,amani-lyles-1,Amani Lyles,2025
+18,65,19,2025-01-25,Akron,,Miami (OH),REG (Conf),W 102-75,,23,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,2,1.0,2,3,5,1,3,0,4,3,10,8.2,H,1,1,amani-lyles-1,Amani Lyles,2025
+19,66,20,2025-01-28,Akron,@,Northern Illinois,REG (Conf),W 80-70,,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,1,1,0,3,0,0.7,A,1,1,amani-lyles-1,Amani Lyles,2025
+20,67,21,2025-01-31,Akron,@,Kent State,REG (Conf),W 85-71,,8,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,1,2,0,0,1,1,1,2,-0.1,A,1,1,amani-lyles-1,Amani Lyles,2025
+21,68,22,2025-02-04,Akron,,Ball State,REG (Conf),W 81-73,,18,5,8,0.625,2,5,0.4,3,3,1.0,0.75,0,0,,0,2,2,2,0,1,0,4,12,9.5,H,1,1,amani-lyles-1,Amani Lyles,2025
+22,69,23,2025-02-08,Akron,,South Alabama,REG (Non-Conf),W 80-67,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,3,3,6,1,0,1,0,0,5,7.0,H,1,1,amani-lyles-1,Amani Lyles,2025
+23,70,24,2025-02-11,Akron,,Western Michigan,REG (Conf),W 105-92,,12,7,8,0.875,1,2,0.5,6,6,1.0,0.938,0,2,0.0,0,1,1,0,2,1,1,5,15,11.4,H,1,1,amani-lyles-1,Amani Lyles,2025
+24,71,25,2025-02-15,Akron,@,Central Michigan,REG (Conf),W 85-82,,21,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,4,1.0,0,4,4,0,0,2,3,1,14,8.9,A,1,1,amani-lyles-1,Amani Lyles,2025
+25,72,26,2025-02-18,Akron,,Northern Illinois,REG (Conf),W 73-63,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,4,0.5,1,1,2,0,1,1,0,3,6,4.0,H,1,1,amani-lyles-1,Amani Lyles,2025
+26,73,27,2025-02-22,Akron,@,Ohio,REG (Conf),L 67-84,,20,7,8,0.875,0,0,,7,8,0.875,0.875,3,4,0.75,0,4,4,0,0,1,0,3,17,14.5,A,0,1,amani-lyles-1,Amani Lyles,2025
+27,74,28,2025-02-25,Akron,@,Ball State,REG (Conf),W 87-82,,23,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,1,0.0,2,6,8,3,0,2,1,4,11,10.4,A,1,1,amani-lyles-1,Amani Lyles,2025
+28,75,29,2025-02-28,Akron,,Kent State,REG (Conf),W 77-72,,23,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,3,2,5,3,0,3,1,1,7,10.5,H,1,1,amani-lyles-1,Amani Lyles,2025
+29,76,30,2025-03-04,Akron,@,Toledo,REG (Conf),W 96-87,,21,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,5,4,9,4,1,1,3,2,11,13.1,A,1,1,amani-lyles-1,Amani Lyles,2025
+30,77,31,2025-03-07,Akron,,Buffalo,REG (Conf),W 88-70,,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,5,5,10,3,0,1,0,1,2,7.0,H,1,1,amani-lyles-1,Amani Lyles,2025
+31,78,32,2025-03-13,Akron,N,Bowling Green,CTOURN,W 96-67,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,4,6,1,2,1,2,1,2,4.6,N,1,0,amani-lyles-1,Amani Lyles,2025
+32,79,33,2025-03-14,Akron,N,Toledo,CTOURN,W 100-90,,23,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,4,5,9,1,0,2,1,3,12,13.5,N,1,0,amani-lyles-1,Amani Lyles,2025
+33,80,34,2025-03-15,Akron,N,Miami (OH),CTOURN,W 76-74,,26,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,1,1.0,6,8,14,3,1,1,2,3,6,11.2,N,1,0,amani-lyles-1,Amani Lyles,2025
+34,81,35,2025-03-21,Akron,N,Arizona,ROUND-64,L 65-93,,19,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,2,3,4,0,2,2,2,5,4.3,N,0,0,amani-lyles-1,Amani Lyles,2025

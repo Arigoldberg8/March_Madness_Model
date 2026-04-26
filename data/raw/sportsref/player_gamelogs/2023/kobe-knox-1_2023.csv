@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Grand Canyon,,Montana State,REG (Non-Conf),W 60-54,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,1,0,0,0,0.0,H,1,1,kobe-knox-1,Kobe Knox,2023
+2,2,2,2022-11-09,Grand Canyon,,San Diego Christ,REG (Non-Conf),W 101-50,,16,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,0,,1,2,3,0,2,1,0,2,11,12.7,H,1,1,kobe-knox-1,Kobe Knox,2023
+3,3,4,2022-11-18,Grand Canyon,,Grambling State,REG (Non-Conf),W 81-48,,14,2,2,1.0,0,0,,2,2,1.0,1.0,2,5,0.4,0,2,2,1,3,0,2,2,6,5.7,H,1,1,kobe-knox-1,Kobe Knox,2023
+4,4,5,2022-11-21,Grand Canyon,N,Wichita State,REG (Non-Conf),L 43-55,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,0,1,kobe-knox-1,Kobe Knox,2023
+5,5,6,2022-11-22,Grand Canyon,N,Northern Iowa,REG (Non-Conf),W 69-67,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,N,1,1,kobe-knox-1,Kobe Knox,2023
+6,6,7,2022-11-26,Grand Canyon,,Benedictine,REG (Non-Conf),W 110-53,,25,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,2,1.0,0,2,2,7,2,0,2,0,14,14.5,H,1,1,kobe-knox-1,Kobe Knox,2023
+7,7,8,2022-11-29,Grand Canyon,,Alcorn State,REG (Non-Conf),W 80-72,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,kobe-knox-1,Kobe Knox,2023
+8,8,10,2022-12-07,Grand Canyon,,Loyola Marymount,REG (Non-Conf),L 65-69,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,0,0,0,1,1,2,0.3,H,0,1,kobe-knox-1,Kobe Knox,2023
+9,9,11,2022-12-10,Grand Canyon,N,North Texas,REG (Non-Conf),L 58-60,,8,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,0,0,0,0,0,1,2,3,-0.9,N,0,1,kobe-knox-1,Kobe Knox,2023
+10,10,12,2022-12-17,Grand Canyon,,Pepperdine,REG (Non-Conf),W 83-73 (OT),,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,1,0,0,1,3,2,0.1,H,1,1,kobe-knox-1,Kobe Knox,2023
+11,11,13,2022-12-20,Grand Canyon,,Idaho State,REG (Non-Conf),W 68-66,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,0,0,0,1,1,3,0.2,H,1,1,kobe-knox-1,Kobe Knox,2023
+12,12,14,2022-12-29,Grand Canyon,,California Baptist,REG (Conf),W 73-59,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,kobe-knox-1,Kobe Knox,2023
+13,13,15,2023-01-05,Grand Canyon,@,Sam Houston State,REG (Conf),W 72-68 (OT),,24,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,2,1,3,1,2,1,2,4,7,5.5,A,1,1,kobe-knox-1,Kobe Knox,2023
+14,14,16,2023-01-07,Grand Canyon,@,Stephen F. Austin,REG (Conf),L 68-73,,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,4,0.5,1,3,4,0,1,0,0,1,6,5.4,A,0,1,kobe-knox-1,Kobe Knox,2023
+15,15,17,2023-01-12,Grand Canyon,,UT Arlington,REG (Conf),W 80-48,,15,4,4,1.0,2,2,1.0,2,2,1.0,1.25,3,5,0.6,0,5,5,1,0,0,2,1,13,10.8,H,1,1,kobe-knox-1,Kobe Knox,2023
+16,16,18,2023-01-14,Grand Canyon,@,California Baptist,REG (Conf),L 74-79,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,0,1,0,0,1,0,3,4,2.2,A,0,1,kobe-knox-1,Kobe Knox,2023
+17,17,19,2023-01-18,Grand Canyon,,Utah Tech,REG (Conf),W 89-85,,14,0,0,,0,0,,0,0,,,2,2,1.0,1,0,1,0,0,0,0,1,2,2.3,H,1,1,kobe-knox-1,Kobe Knox,2023
+18,18,20,2023-01-21,Grand Canyon,,Utah Valley,REG (Conf),L 74-76,,25,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,3,1,4,1,1,2,1,2,11,11.1,H,0,1,kobe-knox-1,Kobe Knox,2023
+19,19,21,2023-01-26,Grand Canyon,@,Abilene Christian,REG (Conf),W 75-73,*,27,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,1,1,2,1,3,3,1.4,A,1,1,kobe-knox-1,Kobe Knox,2023
+20,20,22,2023-01-28,Grand Canyon,@,Tarleton State,REG (Conf),L 62-81,*,33,5,8,0.625,5,8,0.625,0,0,,0.938,2,4,0.5,1,2,3,2,0,1,1,2,17,14.2,A,0,1,kobe-knox-1,Kobe Knox,2023
+21,21,23,2023-02-04,Grand Canyon,,Stephen F. Austin,REG (Conf),W 86-83,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,2,2,4,1,0,2,1,3,6,4.1,H,1,1,kobe-knox-1,Kobe Knox,2023
+22,22,24,2023-02-08,Grand Canyon,,New Mexico State,REG (Conf),W 78-67,*,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,2,0,0,0,4,4,2.4,H,1,1,kobe-knox-1,Kobe Knox,2023
+23,23,25,2023-02-11,Grand Canyon,@,Seattle,REG (Conf),L 58-63,*,12,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,1,1,2,1,0,0,0,1,3,1.9,A,0,1,kobe-knox-1,Kobe Knox,2023
+24,24,26,2023-02-15,Grand Canyon,,Texas–Rio Grande Valley,REG (Conf),L 76-77,*,29,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,4,0.5,0,1,1,3,1,5,1,4,7,7.8,H,0,1,kobe-knox-1,Kobe Knox,2023
+25,25,27,2023-02-17,Grand Canyon,,Abilene Christian,REG (Conf),W 94-84,*,9,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,1,0,1,0,1.0,H,1,1,kobe-knox-1,Kobe Knox,2023
+26,26,28,2023-02-21,Grand Canyon,,Park (AZ),REG (Non-Conf),W 111-38,*,24,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,2,4,6,7,1,2,2,2,14,15.8,H,1,1,kobe-knox-1,Kobe Knox,2023
+27,27,30,2023-02-24,Grand Canyon,,Seattle,REG (Conf),L 54-65,*,13,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,3,3,0,1,2,1,1,4,3.5,H,0,1,kobe-knox-1,Kobe Knox,2023
+28,28,31,2023-03-01,Grand Canyon,@,Southern Utah,REG (Conf),W 83-78,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,0,1,1,1,0,1,2,4,1.2,A,1,1,kobe-knox-1,Kobe Knox,2023
+29,29,32,2023-03-03,Grand Canyon,@,Utah Tech,REG (Conf),W 71-61,*,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,1,2,0,0,-1.3,A,1,1,kobe-knox-1,Kobe Knox,2023
+30,30,33,2023-03-07,Grand Canyon,N,UT Arlington,CTOURN,W 82-77,*,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,2,0,1,0,0,2,3.4,N,1,0,kobe-knox-1,Kobe Knox,2023
+31,31,34,2023-03-09,Grand Canyon,N,Seattle,CTOURN,W 84-79,*,16,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,1,1,3,1,0,0,4,7,6.5,N,1,0,kobe-knox-1,Kobe Knox,2023
+32,32,35,2023-03-10,Grand Canyon,N,Sam Houston State,CTOURN,W 78-75,*,28,6,6,1.0,6,6,1.0,0,0,,1.5,3,3,1.0,0,1,1,0,0,0,2,5,21,15.5,N,1,0,kobe-knox-1,Kobe Knox,2023
+33,33,36,2023-03-11,Grand Canyon,N,Southern Utah,CTOURN,W 84-66,*,20,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,3,0,1,0,1,1,3.0,N,1,0,kobe-knox-1,Kobe Knox,2023
+34,34,37,2023-03-17,Grand Canyon,N,Gonzaga,ROUND-64,L 70-82,*,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,1,0,0,1,2,2,-0.1,N,0,0,kobe-knox-1,Kobe Knox,2023

@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,109,1,2014-11-14,Wisconsin,,Northern Kentucky,REG (Non-Conf),W 62-31,*,27,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,5,5,0,0,0,2,0,6,3.5,H,1,1,josh-gasser-1,Josh Gasser,2015
+2,110,2,2014-11-16,Wisconsin,,Chattanooga,REG (Non-Conf),W 89-45,*,29,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,2,1.0,0,5,5,4,0,0,1,1,9,11.0,H,1,1,josh-gasser-1,Josh Gasser,2015
+3,111,3,2014-11-19,Wisconsin,,Green Bay,REG (Non-Conf),W 84-60,*,29,2,4,0.5,2,3,0.667,0,1,0.0,0.75,1,2,0.5,0,2,2,2,0,0,0,4,7,5.0,H,1,1,josh-gasser-1,Josh Gasser,2015
+4,112,4,2014-11-22,Wisconsin,,Boise State,REG (Non-Conf),W 78-54,*,30,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,2,0,2,2,1,1,0,3,3,2.5,H,1,1,josh-gasser-1,Josh Gasser,2015
+5,113,5,2014-11-26,Wisconsin,N,UAB,REG (Non-Conf),W 72-43,*,24,3,3,1.0,2,2,1.0,1,1,1.0,1.333,2,2,1.0,3,0,3,2,0,0,0,1,10,12.2,N,1,1,josh-gasser-1,Josh Gasser,2015
+6,114,6,2014-11-27,Wisconsin,N,Georgetown,REG (Non-Conf),W 68-65,*,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,0,2,0,1,4,4,2.4,N,1,1,josh-gasser-1,Josh Gasser,2015
+7,115,7,2014-11-28,Wisconsin,N,Oklahoma,REG (Non-Conf),W 69-56,*,33,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,1,3,4,1,3,0,1,3,2,1.6,N,1,1,josh-gasser-1,Josh Gasser,2015
+8,116,8,2014-12-03,Wisconsin,,Duke,REG (Non-Conf),L 70-80,*,38,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,3,3,3,0,0,0,1,7,7.6,H,0,1,josh-gasser-1,Josh Gasser,2015
+9,117,9,2014-12-06,Wisconsin,@,Marquette,REG (Non-Conf),W 49-38,*,31,4,9,0.444,4,8,0.5,0,1,0.0,0.667,0,1,0.0,1,3,4,3,0,1,0,2,12,10.5,A,1,1,josh-gasser-1,Josh Gasser,2015
+10,118,10,2014-12-10,Wisconsin,@,Milwaukee,REG (Non-Conf),W 93-54,*,22,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,2,4,0,0,1,5,9.0,A,1,1,josh-gasser-1,Josh Gasser,2015
+11,119,11,2014-12-13,Wisconsin,,Nicholls State,REG (Non-Conf),W 86-43,*,26,3,5,0.6,1,3,0.333,2,2,1.0,0.7,7,7,1.0,1,3,4,1,2,0,1,2,14,14.2,H,1,1,josh-gasser-1,Josh Gasser,2015
+12,120,12,2014-12-22,Wisconsin,@,California,REG (Non-Conf),W 68-56,*,30,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,1,1,1,0,0,0,1,7,6.3,A,1,1,josh-gasser-1,Josh Gasser,2015
+13,121,13,2014-12-28,Wisconsin,,Buffalo,REG (Non-Conf),W 68-56,*,34,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,1,3,4,0,0,0,1,2,5,1.7,H,1,1,josh-gasser-1,Josh Gasser,2015
+14,122,14,2014-12-31,Wisconsin,,Penn State,REG (Conf),W 89-72,*,31,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,4,0.75,0,0,0,0,1,0,1,4,8,4.7,H,1,1,josh-gasser-1,Josh Gasser,2015
+15,123,15,2015-01-04,Wisconsin,@,Northwestern,REG (Conf),W 81-58,*,30,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,3,4,3,0,0,1,3,9,7.5,A,1,1,josh-gasser-1,Josh Gasser,2015
+16,124,16,2015-01-07,Wisconsin,,Purdue,REG (Conf),W 62-55,*,34,4,7,0.571,2,4,0.5,2,3,0.667,0.714,5,6,0.833,0,4,4,0,1,0,0,3,15,12.3,H,1,1,josh-gasser-1,Josh Gasser,2015
+17,125,17,2015-01-11,Wisconsin,@,Rutgers,REG (Conf),L 62-67,*,32,1,6,0.167,0,5,0.0,1,1,1.0,0.167,2,3,0.667,1,1,2,2,1,0,0,5,4,1.2,A,0,1,josh-gasser-1,Josh Gasser,2015
+18,126,18,2015-01-15,Wisconsin,,Nebraska,REG (Conf),W 70-55,*,31,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,2,2,0,0,0,1,2,3,0.7,H,1,1,josh-gasser-1,Josh Gasser,2015
+19,127,19,2015-01-20,Wisconsin,,Iowa,REG (Conf),W 82-50,*,26,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,2,0,0,0,1,6,4.6,H,1,1,josh-gasser-1,Josh Gasser,2015
+20,128,20,2015-01-24,Wisconsin,@,Michigan,REG (Conf),W 69-64 (OT),*,40,3,7,0.429,3,7,0.429,0,0,,0.643,0,1,0.0,0,3,3,0,2,0,0,3,9,6.6,A,1,1,josh-gasser-1,Josh Gasser,2015
+21,129,21,2015-01-31,Wisconsin,@,Iowa,REG (Conf),W 74-63,*,37,3,5,0.6,2,4,0.5,1,1,1.0,0.8,3,4,0.75,0,6,6,1,0,0,0,1,11,10.4,A,1,1,josh-gasser-1,Josh Gasser,2015
+22,130,22,2015-02-03,Wisconsin,,Indiana,REG (Conf),W 92-78,*,31,2,4,0.5,1,2,0.5,1,2,0.5,0.625,6,6,1.0,0,3,3,2,1,1,0,4,11,11.4,H,1,1,josh-gasser-1,Josh Gasser,2015
+23,131,23,2015-02-07,Wisconsin,,Northwestern,REG (Conf),W 65-50,*,35,2,7,0.286,2,7,0.286,0,0,,0.429,2,2,1.0,1,8,9,3,0,0,0,2,8,8.3,H,1,1,josh-gasser-1,Josh Gasser,2015
+24,132,24,2015-02-10,Wisconsin,@,Nebraska,REG (Conf),W 65-55,*,38,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,7,8,2,0,1,1,1,5,5.0,A,1,1,josh-gasser-1,Josh Gasser,2015
+25,133,25,2015-02-15,Wisconsin,,Illinois,REG (Conf),W 68-49,*,38,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,1,1.0,2,2,4,2,1,0,0,2,3,3.5,H,1,1,josh-gasser-1,Josh Gasser,2015
+26,134,26,2015-02-18,Wisconsin,@,Penn State,REG (Conf),W 55-47,*,34,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,3,3,3,0,0,1,3,3,0.7,A,1,1,josh-gasser-1,Josh Gasser,2015
+27,135,27,2015-02-21,Wisconsin,,Minnesota,REG (Conf),W 63-53,*,37,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,3,3,1,0,1,1,2,7,5.2,H,1,1,josh-gasser-1,Josh Gasser,2015
+28,136,28,2015-02-24,Wisconsin,@,Maryland,REG (Conf),L 53-59,*,38,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,2,5,7,0,1,0,0,3,3,2.6,A,0,1,josh-gasser-1,Josh Gasser,2015
+29,137,29,2015-03-01,Wisconsin,,Michigan State,REG (Conf),W 68-61,*,35,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,4,1.0,0,2,2,1,0,0,1,3,9,6.1,H,1,1,josh-gasser-1,Josh Gasser,2015
+30,138,30,2015-03-05,Wisconsin,@,Minnesota,REG (Conf),W 76-63,*,38,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,4,4,5,1,2,0,2,8,13.4,A,1,1,josh-gasser-1,Josh Gasser,2015
+31,139,31,2015-03-08,Wisconsin,@,Ohio State,REG (Conf),W 72-48,*,34,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,3,3,6,2,0,0,1,1,5,4.6,A,1,1,josh-gasser-1,Josh Gasser,2015
+32,140,32,2015-03-13,Wisconsin,N,Michigan,CTOURN,W 71-60,*,33,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,4,0.5,1,2,3,2,0,0,1,1,7,5.5,N,1,0,josh-gasser-1,Josh Gasser,2015
+33,141,33,2015-03-14,Wisconsin,N,Purdue,CTOURN,W 71-51,*,36,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,2,2,3,0,0,0,0,5,5.7,N,1,0,josh-gasser-1,Josh Gasser,2015
+34,142,34,2015-03-15,Wisconsin,N,Michigan State,CTOURN,W 80-69 (OT),*,44,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,2,3,2,2,0,1,3,3,4.5,N,1,0,josh-gasser-1,Josh Gasser,2015
+35,143,35,2015-03-20,Wisconsin,N,Coastal Carolina,ROUND-64,W 86-72,*,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,1,4,5,0,3,0,1,3,9,10.1,N,1,0,josh-gasser-1,Josh Gasser,2015
+36,144,36,2015-03-22,Wisconsin,N,Oregon,ROUND-32,W 72-65,*,36,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,0,1,1,4,1,1,0,1,4,6.0,N,1,0,josh-gasser-1,Josh Gasser,2015
+37,145,37,2015-03-26,Wisconsin,N,North Carolina,ROUND-16,W 79-72,*,40,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,2,2,4,4,1,0,0,3,6,8.6,N,1,0,josh-gasser-1,Josh Gasser,2015
+38,146,38,2015-03-28,Wisconsin,N,Arizona,ROUND-8,W 85-78,*,36,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,4,0.5,0,2,2,2,2,0,0,3,10,10.4,N,1,0,josh-gasser-1,Josh Gasser,2015
+39,147,39,2015-04-04,Wisconsin,N,Kentucky,NATIONAL-SEMI,W 71-64,*,32,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,3,4,0,0,0,3,3,3,-0.6,N,1,0,josh-gasser-1,Josh Gasser,2015
+40,148,40,2015-04-06,Wisconsin,N,Duke,NATIONAL-FINAL,L 63-68,*,36,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,3,6,3,0,0,0,3,0,3.2,N,0,0,josh-gasser-1,Josh Gasser,2015

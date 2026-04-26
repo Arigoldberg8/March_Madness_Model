@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2020-11-25,Southern California,,California Baptist,REG (Non-Conf),W 95-87 (OT),*,35,5,8,0.625,2,5,0.4,3,3,1.0,0.75,6,6,1.0,0,1,1,4,1,0,3,2,18,14.7,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+2,96,2,2020-11-28,Southern California,,Montana,REG (Non-Conf),W 76-62,*,23,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,2,2,2,0,0,0,3,4,2.7,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+3,97,3,2020-12-01,Southern California,N,Brigham Young,REG (Non-Conf),W 79-53,*,32,7,13,0.538,2,4,0.5,5,9,0.556,0.615,0,0,,0,2,2,4,0,0,3,2,16,9.3,N,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+4,98,4,2020-12-03,Southern California,N,Connecticut,REG (Non-Conf),L 58-61,*,32,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,1,1,1,0,0,2,1,5,-1.2,N,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+5,99,5,2020-12-08,Southern California,,UC Irvine,REG (Non-Conf),W 91-56,,22,4,9,0.444,3,4,0.75,1,5,0.2,0.611,1,1,1.0,0,1,1,3,1,0,2,1,12,8.3,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+6,100,6,2020-12-29,Southern California,,Santa Clara,REG (Non-Conf),W 86-63,*,29,5,13,0.385,1,3,0.333,4,10,0.4,0.423,2,3,0.667,1,5,6,2,0,0,1,3,13,6.9,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+7,101,7,2020-12-31,Southern California,,Colorado,REG (Conf),L 62-72,*,33,5,11,0.455,4,9,0.444,1,2,0.5,0.636,2,2,1.0,0,3,3,5,1,0,1,2,16,13.9,H,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+8,102,8,2021-01-02,Southern California,,Utah,REG (Conf),W 64-46,*,36,7,16,0.438,2,7,0.286,5,9,0.556,0.5,2,2,1.0,0,5,5,5,0,0,3,1,18,11.2,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+9,103,9,2021-01-07,Southern California,@,Arizona,REG (Conf),W 87-73,*,34,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,4,0.5,0,1,1,1,0,0,4,0,9,1.5,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+10,104,10,2021-01-09,Southern California,@,Arizona State,REG (Conf),W 73-64,*,34,4,12,0.333,0,6,0.0,4,6,0.667,0.333,8,9,0.889,2,7,9,4,1,0,1,2,16,14.3,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+11,105,11,2021-01-12,Southern California,,UC Riverside,REG (Non-Conf),W 67-62 (OT),*,36,3,11,0.273,2,6,0.333,1,5,0.2,0.364,2,2,1.0,1,3,4,1,2,0,2,2,10,5.0,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+12,106,12,2021-01-14,Southern California,,Washington,REG (Conf),W 95-68,*,26,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,1,2,3,3,2,0,0,1,10,12.4,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+13,107,13,2021-01-16,Southern California,,Washington State,REG (Conf),W 85-77,*,32,8,13,0.615,2,6,0.333,6,7,0.857,0.692,3,6,0.5,0,3,3,3,0,0,1,3,21,14.7,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+14,108,14,2021-01-19,Southern California,@,Oregon State,REG (Conf),L 56-58,*,32,3,9,0.333,1,3,0.333,2,6,0.333,0.389,0,0,,0,3,3,0,0,0,0,2,7,2.0,A,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+15,109,15,2021-01-23,Southern California,@,California,REG (Conf),W 76-68,*,33,5,8,0.625,3,4,0.75,2,4,0.5,0.813,5,6,0.833,2,1,3,1,1,0,0,0,18,17.4,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+16,110,16,2021-01-28,Southern California,,Oregon State,REG (Conf),W 75-62,*,33,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,3,3,4,1,0,1,1,7,5.9,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+17,111,17,2021-02-02,Southern California,@,Stanford,REG (Conf),W 72-66,*,35,7,13,0.538,0,4,0.0,7,9,0.778,0.538,0,0,,0,1,1,2,1,0,1,1,14,9.0,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+18,112,18,2021-02-06,Southern California,,UCLA,REG (Conf),W 66-48,*,30,6,16,0.375,3,8,0.375,3,8,0.375,0.469,1,2,0.5,1,1,2,1,0,0,1,1,16,7.1,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+19,113,19,2021-02-11,Southern California,@,Washington,REG (Conf),W 69-54,*,30,3,10,0.3,1,4,0.25,2,6,0.333,0.35,3,3,1.0,0,2,2,4,0,0,0,1,10,7.2,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+20,114,20,2021-02-13,Southern California,@,Washington State,REG (Conf),W 76-65,*,36,10,16,0.625,2,5,0.4,8,11,0.727,0.688,7,8,0.875,1,1,2,2,0,0,2,0,29,21.8,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+21,115,21,2021-02-17,Southern California,,Arizona State,REG (Conf),W 89-71,*,30,7,13,0.538,4,6,0.667,3,7,0.429,0.692,0,0,,0,3,3,4,1,0,1,0,18,15.4,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+22,116,22,2021-02-20,Southern California,,Arizona,REG (Conf),L 72-81,*,34,7,15,0.467,3,9,0.333,4,6,0.667,0.567,0,0,,0,2,2,2,0,0,2,5,17,7.3,H,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+23,117,23,2021-02-22,Southern California,,Oregon,REG (Conf),W 72-58,*,37,8,14,0.571,6,11,0.545,2,3,0.667,0.786,2,2,1.0,0,4,4,2,0,0,4,0,24,16.0,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+24,118,24,2021-02-25,Southern California,@,Colorado,REG (Conf),L 62-80,*,32,3,9,0.333,2,3,0.667,1,6,0.167,0.444,5,8,0.625,1,1,2,1,1,0,1,0,13,8.4,A,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+25,119,25,2021-02-27,Southern California,@,Utah,REG (Conf),L 61-71,*,34,2,10,0.2,0,3,0.0,2,7,0.286,0.2,0,1,0.0,1,1,2,2,1,0,2,1,4,-1.6,A,0,1,tahj-eaddy-1,Tahj Eaddy,2021
+26,120,26,2021-03-03,Southern California,,Stanford,REG (Conf),W 79-42,*,21,6,8,0.75,4,6,0.667,2,2,1.0,1.0,0,0,,0,1,1,2,0,0,1,2,16,12.7,H,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+27,121,27,2021-03-06,Southern California,@,UCLA,REG (Conf),W 64-63,*,37,5,14,0.357,2,7,0.286,3,7,0.429,0.429,0,0,,1,2,3,1,2,0,1,0,12,7.2,A,1,1,tahj-eaddy-1,Tahj Eaddy,2021
+28,122,28,2021-03-11,Southern California,N,Utah,CTOURN,W 91-85 (2OT),*,44,5,13,0.385,1,5,0.2,4,8,0.5,0.423,2,2,1.0,0,3,3,3,3,0,1,1,13,10.5,N,1,0,tahj-eaddy-1,Tahj Eaddy,2021
+29,123,29,2021-03-12,Southern California,N,Colorado,CTOURN,L 70-72,*,34,4,9,0.444,2,2,1.0,2,7,0.286,0.556,1,1,1.0,1,4,5,5,0,0,1,2,11,9.9,N,0,0,tahj-eaddy-1,Tahj Eaddy,2021
+30,124,30,2021-03-20,Southern California,N,Drake,ROUND-64,W 72-56,*,33,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,1,0.0,0,6,6,10,1,0,1,1,9,10.9,N,1,0,tahj-eaddy-1,Tahj Eaddy,2021
+31,125,31,2021-03-22,Southern California,N,Kansas,ROUND-32,W 85-51,*,27,5,12,0.417,2,5,0.4,3,7,0.429,0.5,0,0,,0,4,4,3,0,0,1,1,12,7.5,N,1,0,tahj-eaddy-1,Tahj Eaddy,2021
+32,126,32,2021-03-28,Southern California,N,Oregon,ROUND-16,W 82-68,*,34,7,11,0.636,3,6,0.5,4,5,0.8,0.773,3,3,1.0,0,2,2,3,0,0,3,0,20,14.8,N,1,0,tahj-eaddy-1,Tahj Eaddy,2021
+33,127,33,2021-03-30,Southern California,N,Gonzaga,ROUND-8,L 66-85,*,35,4,13,0.308,2,6,0.333,2,7,0.286,0.385,1,2,0.5,0,2,2,2,0,0,1,3,11,2.9,N,0,0,tahj-eaddy-1,Tahj Eaddy,2021

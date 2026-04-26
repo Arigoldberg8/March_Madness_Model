@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,44,1,2021-11-11,TCU,,McNeese State,REG (Non-Conf),W 77-61,,26,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,4,0.5,2,2,4,3,2,0,0,2,10,11.5,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+2,45,2,2021-11-15,TCU,,Southern Mississippi,REG (Non-Conf),W 83-51,,16,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,2,3,2,0,0,0,2,3,2.5,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+3,46,3,2021-11-18,TCU,,Nicholls State,REG (Non-Conf),W 63-50,,17,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,1,1.0,0,0,0,1,1,0,0,1,6,3.2,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+4,47,4,2021-11-22,TCU,N,Santa Clara,REG (Non-Conf),L 66-85,,16,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,4,0.5,1,1,2,2,0,0,0,4,6,4.0,N,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+5,48,5,2021-11-24,TCU,N,Pepperdine,REG (Non-Conf),W 73-64,,24,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,2,2,4,0,1,0,2,0,12,8.0,N,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+6,49,6,2021-11-29,TCU,,Austin Peay,REG (Non-Conf),W 68-51,,15,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,2,0,2,0,1,1,0,0,4,3.0,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+7,50,7,2021-12-02,TCU,,Oral Roberts,REG (Non-Conf),W 71-63,,25,5,8,0.625,2,2,1.0,3,6,0.5,0.75,0,0,,2,4,6,1,3,2,1,1,12,14.7,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+8,51,8,2021-12-08,TCU,N,Utah,REG (Non-Conf),W 76-62,,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,0,1,1,0,1,4,3.9,N,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+9,52,9,2021-12-11,TCU,N,Texas A&M,REG (Non-Conf),W 68-64,,24,6,11,0.545,1,3,0.333,5,8,0.625,0.591,5,6,0.833,0,3,3,1,1,2,3,2,18,12.5,N,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+10,53,10,2021-12-18,TCU,@,Georgetown,REG (Non-Conf),W 80-73,*,28,6,10,0.6,3,6,0.5,3,4,0.75,0.75,0,0,,3,4,7,2,0,0,0,2,15,14.3,A,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+11,54,11,2021-12-21,TCU,,Grambling State,REG (Non-Conf),W 90-55,*,28,5,12,0.417,4,8,0.5,1,4,0.25,0.583,5,7,0.714,1,7,8,3,1,0,2,1,19,15.3,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+12,55,12,2022-01-08,TCU,,Baylor,REG (Conf),L 64-76,*,31,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,2,4,6,3,1,1,3,1,12,10.0,H,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+13,56,13,2022-01-12,TCU,@,Kansas State,REG (Conf),W 60-57,*,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,6,0.333,0,2,2,1,2,0,1,4,5,1.0,A,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+14,57,14,2022-01-15,TCU,,Oklahoma,REG (Conf),W 59-58 (OT),*,24,4,9,0.444,1,6,0.167,3,3,1.0,0.5,2,3,0.667,0,4,4,0,1,0,1,2,11,6.3,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+15,58,15,2022-01-19,TCU,@,Oklahoma State,REG (Conf),L 56-57,*,25,4,5,0.8,2,2,1.0,2,3,0.667,1.0,3,5,0.6,5,1,6,0,0,2,1,2,13,13.7,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+16,59,16,2022-01-22,TCU,@,Iowa State,REG (Conf),W 59-44,*,28,3,7,0.429,1,3,0.333,2,4,0.5,0.5,3,3,1.0,1,3,4,0,0,0,0,2,10,7.1,A,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+17,60,17,2022-01-25,TCU,,Texas,REG (Conf),L 50-73,*,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,4,4,0,1,0,0,2,2,0.3,H,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+18,61,18,2022-01-29,TCU,,Louisiana State,REG (Non-Conf),W 77-68,*,26,6,9,0.667,3,4,0.75,3,5,0.6,0.833,4,4,1.0,2,4,6,0,2,0,1,1,19,18.3,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+19,62,19,2022-01-31,TCU,@,Oklahoma,REG (Conf),W 72-63,*,28,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,2,1,3,1,0,0,2,5,5,-0.7,A,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+20,63,20,2022-02-05,TCU,,Kansas State,REG (Conf),L 63-75,*,32,3,12,0.25,1,8,0.125,2,4,0.5,0.292,1,2,0.5,2,4,6,0,1,2,0,1,8,5.0,H,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+21,64,21,2022-02-08,TCU,,Oklahoma State,REG (Conf),W 77-73,*,30,6,9,0.667,3,6,0.5,3,3,1.0,0.833,4,4,1.0,1,2,3,1,0,0,3,1,19,13.7,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+22,65,22,2022-02-12,TCU,@,Texas Tech,REG (Conf),L 69-82,*,25,3,12,0.25,2,7,0.286,1,5,0.2,0.333,1,1,1.0,1,1,2,3,0,0,1,2,9,3.1,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+23,66,23,2022-02-15,TCU,,Iowa State,REG (Conf),L 51-54,*,26,3,10,0.3,0,4,0.0,3,6,0.5,0.3,1,2,0.5,2,7,9,0,0,1,0,2,7,4.2,H,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+24,67,24,2022-02-19,TCU,@,Baylor,REG (Conf),L 62-72,*,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,2,2,2,2,1,2,2,1,0.4,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+25,68,25,2022-02-21,TCU,,West Virginia,REG (Conf),W 77-67,*,29,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,4,0.5,0,6,6,1,2,2,2,2,11,8.2,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+26,69,26,2022-02-23,TCU,@,Texas,REG (Conf),L 66-75,*,23,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,3,3,0,0,0,3,3,9,2.3,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+27,70,27,2022-02-26,TCU,,Texas Tech,REG (Conf),W 69-66,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,3,0.333,0,1,1,1,2,0,1,1,5,3.8,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+28,71,28,2022-03-01,TCU,,Kansas,REG (Conf),W 74-64,*,21,2,10,0.2,0,6,0.0,2,4,0.5,0.2,2,3,0.667,2,4,6,0,0,1,0,1,6,2.3,H,1,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+29,72,29,2022-03-03,TCU,@,Kansas,REG (Conf),L 68-72,*,22,2,6,0.333,1,4,0.25,1,2,0.5,0.417,5,5,1.0,1,1,2,0,0,1,2,2,10,5.5,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+30,73,30,2022-03-05,TCU,@,West Virginia,REG (Conf),L 64-70,*,25,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,5,0.6,1,3,4,0,1,0,0,0,5,3.0,A,0,1,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+31,74,31,2022-03-10,TCU,N,Texas,CTOURN,W 65-60,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,2,1,3,0,1,1,0,0,4,4.6,N,1,0,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+32,75,32,2022-03-11,TCU,N,Kansas,CTOURN,L 62-75,*,28,6,8,0.75,3,5,0.6,3,3,1.0,0.938,0,0,,1,6,7,0,0,2,1,0,15,14.7,N,0,0,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+33,76,33,2022-03-18,TCU,N,Seton Hall,ROUND-64,W 69-42,*,21,0,2,0.0,0,0,,0,2,0.0,0.0,4,5,0.8,0,6,6,3,1,0,2,1,4,4.7,N,1,0,charles-obannonjr-1,Chuck O'Bannon Jr.,2022
+34,77,34,2022-03-20,TCU,N,Arizona,ROUND-32,L 80-85 (OT),*,39,7,18,0.389,5,13,0.385,2,5,0.4,0.528,4,5,0.8,3,2,5,1,4,0,0,2,23,19.4,N,0,0,charles-obannonjr-1,Chuck O'Bannon Jr.,2022

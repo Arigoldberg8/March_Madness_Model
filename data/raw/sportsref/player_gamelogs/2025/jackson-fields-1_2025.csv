@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2024-11-04,Troy,,Toledo,REG (Non-Conf),W 84-74,*,13,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,0,,1,3,4,0,0,0,0,4,10,7.8,H,1,1,jackson-fields-1,Jackson Fields,2025
+2,63,2,2024-11-09,Troy,@,New Orleans,REG (Non-Conf),W 78-61,*,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,7,8,0.875,5,5,10,2,1,0,0,0,15,18.0,A,1,1,jackson-fields-1,Jackson Fields,2025
+3,64,3,2024-11-13,Troy,@,Arkansas,REG (Non-Conf),L 49-65,*,30,6,8,0.75,0,1,0.0,6,7,0.857,0.75,1,2,0.5,4,2,6,1,0,1,2,1,13,11.8,A,0,1,jackson-fields-1,Jackson Fields,2025
+4,65,4,2024-11-17,Troy,@,Oregon,REG (Non-Conf),L 61-82,*,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,2,3,1,0,0,2,5,2,-2.4,A,0,1,jackson-fields-1,Jackson Fields,2025
+5,66,5,2024-11-19,Troy,@,West Georgia,REG (Non-Conf),W 84-65,*,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,11,12,0.917,3,4,7,1,1,0,0,1,15,17.2,A,1,1,jackson-fields-1,Jackson Fields,2025
+6,67,6,2024-11-25,Troy,,UTSA,REG (Non-Conf),W 86-72,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,1,4,0.25,0,1,1,2,0,1,2,3,3,-0.7,H,1,1,jackson-fields-1,Jackson Fields,2025
+7,68,7,2024-11-29,Troy,,Merrimack,REG (Non-Conf),L 68-72,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,4,5,0.8,1,3,4,1,0,0,2,1,10,7.9,H,0,1,jackson-fields-1,Jackson Fields,2025
+8,69,8,2024-12-01,Troy,,Eastern Kentucky,REG (Non-Conf),W 84-74,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,1,0,0,1,0,2,1.6,H,1,1,jackson-fields-1,Jackson Fields,2025
+9,70,9,2024-12-10,Troy,@,Houston,REG (Non-Conf),L 42-62,*,19,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,5,0.6,2,1,3,0,0,0,0,1,5,1.7,A,0,1,jackson-fields-1,Jackson Fields,2025
+10,71,10,2024-12-14,Troy,,Middle GA St,REG (Non-Conf),W 87-53,*,17,5,7,0.714,0,2,0.0,5,5,1.0,0.714,3,5,0.6,2,2,4,1,0,0,1,2,13,10.2,H,1,1,jackson-fields-1,Jackson Fields,2025
+11,72,11,2024-12-17,Troy,,LaGrange,REG (Non-Conf),W 105-60,*,12,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,3,6,9,0,2,1,2,0,6,7.2,H,1,1,jackson-fields-1,Jackson Fields,2025
+12,73,12,2024-12-21,Troy,,Georgia State,REG (Conf),W 77-57,*,21,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,1,2,3,1,1,0,0,3,7,6.8,H,1,1,jackson-fields-1,Jackson Fields,2025
+13,74,13,2025-01-02,Troy,@,Appalachian State,REG (Conf),W 69-61,*,19,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,2,3,5,0,0,0,1,3,3,0.7,A,1,1,jackson-fields-1,Jackson Fields,2025
+14,75,14,2025-01-04,Troy,@,Marshall,REG (Conf),W 58-57,*,24,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,1,1,2,0,0,1,3,3,5,0.1,A,1,1,jackson-fields-1,Jackson Fields,2025
+15,76,15,2025-01-09,Troy,,Texas State,REG (Conf),L 73-74,*,23,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,2,3,5,1,1,2,0,5,6,8.4,H,0,1,jackson-fields-1,Jackson Fields,2025
+16,77,16,2025-01-11,Troy,,Arkansas State,REG (Conf),L 78-84,*,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,1,2,1,0,0,0,5,5,1.2,H,0,1,jackson-fields-1,Jackson Fields,2025
+17,78,17,2025-01-15,Troy,@,Louisiana–Monroe,REG (Conf),W 77-58,*,16,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,4,4,8,1,0,1,0,0,4,6.0,A,1,1,jackson-fields-1,Jackson Fields,2025
+18,79,18,2025-01-18,Troy,@,South Alabama,REG (Conf),L 63-64,*,23,1,5,0.2,0,0,,1,5,0.2,0.2,4,4,1.0,3,3,6,1,0,0,3,2,6,2.8,A,0,1,jackson-fields-1,Jackson Fields,2025
+19,80,19,2025-01-25,Troy,,South Alabama,REG (Conf),W 65-55,*,24,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,5,5,10,0,1,0,2,4,7,7.4,H,1,1,jackson-fields-1,Jackson Fields,2025
+20,81,20,2025-01-27,Troy,,Southern Mississippi,REG (Conf),W 70-61,*,21,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,1,1,0,0,0,2,1,7,2.6,H,1,1,jackson-fields-1,Jackson Fields,2025
+21,82,21,2025-01-30,Troy,,Georgia Southern,REG (Conf),W 81-74,*,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,4,6,0.667,1,1,2,0,1,3,0,2,12,10.5,H,1,1,jackson-fields-1,Jackson Fields,2025
+22,83,22,2025-02-01,Troy,,Louisiana–Monroe,REG (Conf),W 87-50,*,13,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,2,2,0,1,0,0,1,4,2.5,H,1,1,jackson-fields-1,Jackson Fields,2025
+23,84,23,2025-02-05,Troy,@,James Madison,REG (Conf),L 61-64,*,27,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,3,3,6,0,0,0,1,3,4,0.7,A,0,1,jackson-fields-1,Jackson Fields,2025
+24,85,24,2025-02-08,Troy,@,Miami (OH),REG (Non-Conf),L 62-69,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,5,6,1,2,0,3,4,5,2.9,A,0,1,jackson-fields-1,Jackson Fields,2025
+25,86,25,2025-02-12,Troy,@,Louisiana,REG (Conf),W 74-56,*,26,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,4,4,8,0,2,1,2,2,7,7.8,A,1,1,jackson-fields-1,Jackson Fields,2025
+26,87,26,2025-02-15,Troy,@,Arkansas State,REG (Conf),W 71-70,*,23,6,9,0.667,5,7,0.714,1,2,0.5,0.944,3,4,0.75,3,5,8,0,3,1,1,2,20,21.2,A,1,1,jackson-fields-1,Jackson Fields,2025
+27,88,27,2025-02-20,Troy,,Louisiana,REG (Conf),L 69-72,*,27,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,2,3,5,1,0,2,2,2,11,8.3,H,0,1,jackson-fields-1,Jackson Fields,2025
+28,89,28,2025-02-22,Troy,,Coastal Carolina,REG (Conf),W 83-66,,25,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,1,3,4,0,1,2,2,1,8,5.9,H,1,1,jackson-fields-1,Jackson Fields,2025
+29,90,29,2025-02-25,Troy,@,Texas State,REG (Conf),W 74-69,*,14,3,7,0.429,2,3,0.667,1,4,0.25,0.571,0,0,,2,0,2,0,0,1,0,4,8,4.8,A,1,1,jackson-fields-1,Jackson Fields,2025
+30,91,30,2025-02-28,Troy,@,Southern Mississippi,REG (Conf),W 70-58,*,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,2,0.0,2,1,3,0,0,4,0,3,0,0.4,A,1,1,jackson-fields-1,Jackson Fields,2025
+31,92,31,2025-03-08,Troy,N,Old Dominion,CTOURN,W 75-59,*,32,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,2,3,5,1,0,2,0,2,6,8.3,N,1,0,jackson-fields-1,Jackson Fields,2025
+32,93,32,2025-03-09,Troy,N,James Madison,CTOURN,W 79-60,*,34,8,13,0.615,5,8,0.625,3,5,0.6,0.808,0,0,,0,6,6,3,2,2,1,1,21,21.0,N,1,0,jackson-fields-1,Jackson Fields,2025
+33,94,33,2025-03-10,Troy,N,Arkansas State,CTOURN,W 94-81,*,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,0,2,2,0,0,1,0,4,10,7.0,N,1,0,jackson-fields-1,Jackson Fields,2025
+34,95,34,2025-03-21,Troy,N,Kentucky,ROUND-64,L 57-76,*,28,2,7,0.286,2,6,0.333,0,1,0.0,0.429,1,2,0.5,2,5,7,2,1,0,2,2,7,5.0,N,0,0,jackson-fields-1,Jackson Fields,2025

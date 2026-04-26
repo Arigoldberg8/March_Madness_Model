@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-10,Butler,,Elon,REG (Non-Conf),W 74-59,,29,5,10,0.5,3,8,0.375,2,2,1.0,0.65,5,5,1.0,0,0,0,3,1,0,1,0,18,15.1,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+2,2,2,2012-11-13,Butler,@,Xavier,REG (Non-Conf),L 47-62,,32,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,3,0.667,0,2,2,1,1,0,0,3,11,8.4,A,0,1,kellen-dunham-1,Kellen Dunham,2013
+3,3,3,2012-11-19,Butler,N,Marquette,REG (Non-Conf),W 72-71,*,27,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,2,2,4,2,1,0,0,3,4,6.5,N,1,1,kellen-dunham-1,Kellen Dunham,2013
+4,4,4,2012-11-20,Butler,N,North Carolina,REG (Non-Conf),W 82-71,*,33,5,10,0.5,5,9,0.556,0,1,0.0,0.75,2,2,1.0,2,3,5,2,0,0,2,0,17,13.7,N,1,1,kellen-dunham-1,Kellen Dunham,2013
+5,5,5,2012-11-21,Butler,N,Illinois,REG (Non-Conf),L 61-78,*,30,1,11,0.091,0,9,0.0,1,2,0.5,0.091,2,2,1.0,0,0,0,1,0,0,0,0,4,-2.6,N,0,1,kellen-dunham-1,Kellen Dunham,2013
+6,6,6,2012-11-27,Butler,,Hanover,REG (Non-Conf),W 97-73,*,27,4,8,0.5,1,4,0.25,3,4,0.75,0.563,3,3,1.0,0,3,3,3,0,0,0,0,12,11.0,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+7,7,7,2012-12-01,Butler,,Ball State,REG (Non-Conf),W 67-53,*,24,1,7,0.143,0,2,0.0,1,5,0.2,0.143,3,3,1.0,0,0,0,0,1,0,0,0,5,1.5,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+8,8,8,2012-12-05,Butler,,IUPUI,REG (Non-Conf),W 87-55,,21,5,7,0.714,3,5,0.6,2,2,1.0,0.929,4,4,1.0,0,3,3,2,0,0,0,1,17,16.0,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+9,9,9,2012-12-08,Butler,@,Northwestern,REG (Non-Conf),W 74-65,,20,2,7,0.286,1,5,0.2,1,2,0.5,0.357,6,6,1.0,1,4,5,1,1,1,1,2,11,9.4,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+10,10,10,2012-12-15,Butler,N,Indiana,REG (Non-Conf),W 88-86 (OT),,34,2,4,0.5,1,2,0.5,1,2,0.5,0.625,3,4,0.75,0,1,1,1,0,0,4,3,8,1.4,N,1,1,kellen-dunham-1,Kellen Dunham,2013
+11,11,11,2012-12-22,Butler,,Evansville,REG (Non-Conf),W 75-67,,31,4,10,0.4,0,4,0.0,4,6,0.667,0.4,5,5,1.0,0,5,5,1,1,0,2,1,13,8.4,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+12,12,12,2012-12-29,Butler,@,Vanderbilt,REG (Non-Conf),W 68-49,,26,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,1,1,2,2,0,0,1,0,12,9.4,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+13,13,13,2013-01-02,Butler,,Pennsylvania,REG (Non-Conf),W 70-57,,23,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,1,1,2,0,1,0,4,1,10,3.9,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+14,14,14,2013-01-05,Butler,,New Orleans,REG (Non-Conf),W 57-44,,31,3,8,0.375,3,7,0.429,0,1,0.0,0.563,6,7,0.857,0,2,2,2,1,0,1,0,15,12.2,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+15,15,15,2013-01-09,Butler,@,Saint Joseph's,REG (Conf),W 72-66,,17,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,1,2,2,0,0,0,1,3,1.9,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+16,16,16,2013-01-12,Butler,@,Dayton,REG (Conf),W 79-73,,26,2,6,0.333,2,3,0.667,0,3,0.0,0.5,2,2,1.0,0,1,1,1,1,1,1,1,8,5.9,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+17,17,17,2013-01-16,Butler,,Richmond,REG (Conf),W 62-47,*,31,2,11,0.182,2,10,0.2,0,1,0.0,0.273,5,6,0.833,1,3,4,1,0,0,0,1,11,5.6,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+18,18,18,2013-01-19,Butler,,Gonzaga,REG (Non-Conf),W 64-63,*,36,4,9,0.444,4,8,0.5,0,1,0.0,0.667,2,3,0.667,0,2,2,1,1,0,0,1,14,10.8,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+19,19,19,2013-01-23,Butler,@,La Salle,REG (Conf),L 53-54,*,37,6,11,0.545,3,4,0.75,3,7,0.429,0.682,0,0,,1,3,4,3,1,0,0,2,15,13.6,A,0,1,kellen-dunham-1,Kellen Dunham,2013
+20,20,20,2013-01-26,Butler,,Temple,REG (Conf),W 83-71,,28,6,10,0.6,5,6,0.833,1,4,0.25,0.85,0,0,,1,3,4,1,1,0,2,2,17,12.9,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+21,21,21,2013-01-31,Butler,@,Saint Louis,REG (Conf),L 58-75,,28,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,2,5,7,1,1,0,0,2,4,3.7,A,0,1,kellen-dunham-1,Kellen Dunham,2013
+22,22,22,2013-02-02,Butler,,Rhode Island,REG (Conf),W 75-68,,26,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,0,0,0,2,1,4,0.9,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+23,23,23,2013-02-06,Butler,,St. Bonaventure,REG (Conf),W 77-58,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,1,1.0,0,4,4,1,0,0,1,0,9,6.9,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+24,24,24,2013-02-09,Butler,@,George Washington,REG (Conf),W 59-56,,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,6,0.833,0,3,3,0,1,1,3,1,10,6.8,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+25,25,25,2013-02-13,Butler,,Charlotte,REG (Conf),L 67-71,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,4,4,1.0,0,2,2,0,1,0,1,2,12,8.1,H,0,1,kellen-dunham-1,Kellen Dunham,2013
+26,26,26,2013-02-16,Butler,@,Fordham,REG (Conf),W 68-63,,21,2,8,0.25,2,7,0.286,0,1,0.0,0.375,3,7,0.429,0,3,3,1,0,0,1,1,9,2.8,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+27,27,27,2013-02-19,Butler,,Duquesne,REG (Conf),W 68-49,,16,4,8,0.5,3,5,0.6,1,3,0.333,0.688,0,0,,0,2,2,0,0,0,1,1,11,6.2,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+28,28,28,2013-02-22,Butler,,Saint Louis,REG (Conf),L 61-65,,24,4,10,0.4,2,7,0.286,2,3,0.667,0.5,4,4,1.0,0,5,5,2,1,0,0,2,14,11.7,H,0,1,kellen-dunham-1,Kellen Dunham,2013
+29,29,29,2013-03-02,Butler,@,VCU,REG (Conf),L 52-84,,21,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,1,0.0,0,1,1,0,1,1,0,0,7,4.9,A,0,1,kellen-dunham-1,Kellen Dunham,2013
+30,30,30,2013-03-07,Butler,@,Massachusetts,REG (Conf),W 73-62,*,18,1,7,0.143,0,6,0.0,1,1,1.0,0.143,0,0,,2,1,3,1,1,0,1,1,2,-0.5,A,1,1,kellen-dunham-1,Kellen Dunham,2013
+31,31,31,2013-03-09,Butler,,Xavier,REG (Conf),W 67-62,,24,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,1,1,1,0,0,2,1,8,4.6,H,1,1,kellen-dunham-1,Kellen Dunham,2013
+32,32,32,2013-03-14,Butler,N,Dayton,CTOURN,W 73-67,*,22,1,7,0.143,1,6,0.167,0,1,0.0,0.214,6,7,0.857,2,3,5,1,1,0,0,4,9,6.5,N,1,0,kellen-dunham-1,Kellen Dunham,2013
+33,33,33,2013-03-15,Butler,N,La Salle,CTOURN,W 69-58,*,27,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,0,2,2,0,1,0,0,2,9,4.7,N,1,0,kellen-dunham-1,Kellen Dunham,2013
+34,34,34,2013-03-16,Butler,N,Saint Louis,CTOURN,L 56-67,*,31,0,6,0.0,0,3,0.0,0,3,0.0,0.0,3,4,0.75,2,2,4,1,0,0,4,3,3,-4.1,N,0,0,kellen-dunham-1,Kellen Dunham,2013
+35,35,35,2013-03-21,Butler,N,Bucknell,ROUND-64,W 68-56,,15,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,-0.8,N,1,0,kellen-dunham-1,Kellen Dunham,2013
+36,36,36,2013-03-23,Butler,N,Marquette,ROUND-32,L 72-74,,25,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,1,2,3,1,1,0,1,1,4,2.8,N,0,0,kellen-dunham-1,Kellen Dunham,2013

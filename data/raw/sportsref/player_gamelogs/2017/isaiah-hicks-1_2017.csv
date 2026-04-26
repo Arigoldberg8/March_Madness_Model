@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,113,1,2016-11-11,North Carolina,N,Tulane,REG (Non-Conf),W 95-75,*,25,7,8,0.875,0,0,7,8,0.875,0.875,2,2,1.0,1,5,6,1,0,0,2,3,16,12.9,N,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+2,114,2,2016-11-13,North Carolina,,Chattanooga,REG (Non-Conf),W 97-57,*,27,5,10,0.5,0,0,5,10,0.5,0.5,3,4,0.75,1,4,5,2,1,1,4,3,13,7.4,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+3,115,3,2016-11-15,North Carolina,,Long Beach State,REG (Non-Conf),W 93-67,*,25,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,2,1,3,2,1,0,2,2,8,5.3,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+4,116,4,2016-11-18,North Carolina,@,Hawaii,REG (Non-Conf),W 83-68,*,28,7,8,0.875,0,0,7,8,0.875,0.875,2,3,0.667,2,3,5,2,0,0,1,4,16,13.9,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+5,117,5,2016-11-21,North Carolina,N,Chaminade,REG (Non-Conf),W 104-61,*,27,8,13,0.615,0,0,8,13,0.615,0.615,6,8,0.75,1,5,6,0,0,0,1,0,22,16.5,N,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+6,118,6,2016-11-22,North Carolina,N,Oklahoma State,REG (Non-Conf),W 107-75,*,25,6,9,0.667,0,0,6,9,0.667,0.667,1,1,1.0,1,7,8,0,0,1,4,3,13,7.4,N,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+7,119,7,2016-11-23,North Carolina,N,Wisconsin,REG (Non-Conf),W 71-56,*,30,6,10,0.6,0,0,6,10,0.6,0.6,2,2,1.0,1,4,5,2,0,0,2,3,14,9.5,N,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+8,120,8,2016-11-30,North Carolina,@,Indiana,REG (Non-Conf),L 67-76,*,27,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,2,4,6,0,1,2,3,5,7,4.6,A,0,1,isaiah-hicks-1,Isaiah Hicks,2017
+9,121,9,2016-12-04,North Carolina,,Radford,REG (Non-Conf),W 95-50,*,22,4,6,0.667,0,0,4,6,0.667,0.667,4,5,0.8,2,1,3,0,1,1,0,1,12,12.0,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+10,122,10,2016-12-07,North Carolina,,Davidson,REG (Non-Conf),W 83-74,*,17,4,7,0.571,0,0,4,7,0.571,0.571,5,6,0.833,2,1,3,0,0,0,0,4,13,9.4,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+11,123,11,2016-12-11,North Carolina,,Tennessee,REG (Non-Conf),W 73-71,*,14,2,7,0.286,0,0,2,7,0.286,0.286,2,2,1.0,3,3,6,0,0,2,0,5,6,4.3,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+12,124,12,2016-12-17,North Carolina,N,Kentucky,REG (Non-Conf),L 100-103,*,15,5,10,0.5,0,0,5,10,0.5,0.5,0,0,,1,2,3,1,0,1,0,4,10,6.1,N,0,1,isaiah-hicks-1,Isaiah Hicks,2017
+13,125,13,2016-12-21,North Carolina,,Northern Iowa,REG (Non-Conf),W 85-42,*,22,5,8,0.625,0,0,5,8,0.625,0.625,1,2,0.5,1,4,5,2,0,1,0,3,11,9.8,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+14,126,14,2016-12-28,North Carolina,,Monmouth,REG (Non-Conf),W 102-74,*,25,6,12,0.5,0,0,6,12,0.5,0.5,3,4,0.75,3,6,9,1,0,0,3,3,15,9.0,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+15,127,15,2016-12-31,North Carolina,@,Georgia Tech,REG (Conf),L 63-75,*,23,4,7,0.571,0,0,4,7,0.571,0.571,1,3,0.333,3,1,4,1,0,3,4,4,9,4.5,A,0,1,isaiah-hicks-1,Isaiah Hicks,2017
+16,128,16,2017-01-03,North Carolina,@,Clemson,REG (Conf),W 89-86 (OT),*,24,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,4,3,7,3,0,1,2,5,8,7.5,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+17,129,17,2017-01-08,North Carolina,,NC State,REG (Conf),W 107-56,*,17,5,9,0.556,0,0,5,9,0.556,0.556,1,1,1.0,3,1,4,0,1,1,2,1,11,8.4,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+18,130,18,2017-01-11,North Carolina,@,Wake Forest,REG (Conf),W 93-87,*,23,5,6,0.833,0,0,5,6,0.833,0.833,6,6,1.0,0,5,5,0,1,1,1,4,16,14.4,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+19,131,19,2017-01-14,North Carolina,,Florida State,REG (Conf),W 96-83,*,22,5,7,0.714,0,0,5,7,0.714,0.714,12,14,0.857,4,3,7,3,0,0,3,3,22,19.9,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+20,132,20,2017-01-16,North Carolina,,Syracuse,REG (Conf),W 85-68,*,30,8,13,0.615,0,0,8,13,0.615,0.615,4,4,1.0,2,6,8,1,0,1,2,0,20,16.7,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+21,133,21,2017-01-21,North Carolina,@,Boston College,REG (Conf),W 90-82,*,19,4,5,0.8,0,0,4,5,0.8,0.8,6,7,0.857,5,0,5,4,2,1,3,2,14,16.9,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+22,134,22,2017-01-26,North Carolina,,Virginia Tech,REG (Conf),W 91-72,*,26,2,4,0.5,0,0,2,4,0.5,0.5,2,3,0.667,3,3,6,2,0,0,0,4,6,6.4,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+23,135,23,2017-01-28,North Carolina,@,Miami (FL),REG (Conf),L 62-77,*,23,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,0,6,6,1,0,2,2,3,7,4.3,A,0,1,isaiah-hicks-1,Isaiah Hicks,2017
+24,136,24,2017-01-31,North Carolina,,Pittsburgh,REG (Conf),W 80-78,*,33,6,8,0.75,0,0,6,8,0.75,0.75,6,8,0.75,2,6,8,2,1,0,1,2,18,17.8,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+25,137,25,2017-02-05,North Carolina,,Notre Dame,REG (Conf),W 83-76,*,33,6,10,0.6,0,0,6,10,0.6,0.6,2,3,0.667,1,6,7,1,0,1,3,3,14,8.7,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+26,138,27,2017-02-15,North Carolina,@,NC State,REG (Conf),W 97-73,*,7,3,4,0.75,0,0,3,4,0.75,0.75,1,1,1.0,1,0,1,0,0,0,0,4,7,4.5,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+27,139,28,2017-02-18,North Carolina,,Virginia,REG (Conf),W 65-41,*,25,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,0,8,8,0,0,0,0,3,10,8.3,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+28,140,29,2017-02-22,North Carolina,,Louisville,REG (Conf),W 74-63,*,14,0,6,0.0,0,0,0,6,0.0,0.0,0,0,,3,4,7,0,2,0,1,4,0,-1.5,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+29,141,30,2017-02-25,North Carolina,@,Pittsburgh,REG (Conf),W 85-67,*,27,3,7,0.429,0,0,3,7,0.429,0.429,2,3,0.667,3,3,6,6,0,1,1,4,8,9.2,A,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+30,142,31,2017-02-27,North Carolina,@,Virginia,REG (Conf),L 43-53,*,19,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,3,3,0,0,0,3,5,2,-3.8,A,0,1,isaiah-hicks-1,Isaiah Hicks,2017
+31,143,32,2017-03-04,North Carolina,,Duke,REG (Conf),W 90-83,*,22,7,9,0.778,0,0,7,9,0.778,0.778,7,8,0.875,3,6,9,2,0,0,1,2,21,20.6,H,1,1,isaiah-hicks-1,Isaiah Hicks,2017
+32,144,33,2017-03-09,North Carolina,N,Miami (FL),CTOURN,W 78-53,*,25,5,7,0.714,0,0,5,7,0.714,0.714,9,9,1.0,2,4,6,2,1,0,1,1,19,19.7,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+33,145,34,2017-03-10,North Carolina,N,Duke,CTOURN,L 83-93,*,32,6,9,0.667,0,0,6,9,0.667,0.667,7,7,1.0,3,4,7,3,1,1,2,4,19,18.6,N,0,0,isaiah-hicks-1,Isaiah Hicks,2017
+34,146,35,2017-03-17,North Carolina,N,Texas Southern,ROUND-64,W 103-64,*,17,8,12,0.667,0,0,8,12,0.667,0.667,1,3,0.333,2,4,6,0,0,1,2,2,17,11.5,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+35,147,36,2017-03-19,North Carolina,N,Arkansas,ROUND-32,W 72-65,*,30,2,7,0.286,0,0,2,7,0.286,0.286,5,6,0.833,2,5,7,4,1,1,3,2,9,8.1,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+36,148,37,2017-03-24,North Carolina,N,Butler,ROUND-16,W 92-80,*,17,4,5,0.8,0,0,4,5,0.8,0.8,1,5,0.2,0,1,1,3,0,0,1,5,9,4.9,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+37,149,38,2017-03-26,North Carolina,N,Kentucky,ROUND-8,W 75-73,*,20,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,0,0,0,2,0,3,1,3,4,1.8,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+38,150,39,2017-04-01,North Carolina,N,Oregon,NATIONAL-SEMI,W 77-76,*,20,1,12,0.083,0,0,1,12,0.083,0.083,0,0,,0,3,3,1,1,0,2,2,2,-6.2,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017
+39,151,40,2017-04-03,North Carolina,N,Gonzaga,NATIONAL-FINAL,W 71-65,*,30,5,9,0.556,0,0,5,9,0.556,0.556,3,5,0.6,3,6,9,1,1,2,1,4,13,12.3,N,1,0,isaiah-hicks-1,Isaiah Hicks,2017

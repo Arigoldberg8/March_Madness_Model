@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2017-11-10,College of Charleston,,Siena,REG (Non-Conf),W 68-60 (OT),,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,H,1,1,evan-bailey-1,Evan Bailey,2018
+2,97,2,2017-11-13,College of Charleston,@,Wichita State,REG (Non-Conf),L 63-81,,16,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,0,2,2,0,0,0,2,2,5,-0.3,A,0,1,evan-bailey-1,Evan Bailey,2018
+3,98,3,2017-11-18,College of Charleston,@,Charlotte,REG (Non-Conf),W 81-72,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,A,1,1,evan-bailey-1,Evan Bailey,2018
+4,99,4,2017-11-22,College of Charleston,N,Cal Poly,REG (Non-Conf),L 68-73,,23,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,0,,0,3,3,0,0,0,1,1,13,10.3,N,0,1,evan-bailey-1,Evan Bailey,2018
+5,100,5,2017-11-23,College of Charleston,N,Sam Houston State,REG (Non-Conf),W 59-49,,21,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,0,0,1,1,0,1,2,6,2.5,N,1,1,evan-bailey-1,Evan Bailey,2018
+6,101,6,2017-11-25,College of Charleston,N,Ak. Anchorage,REG (Non-Conf),W 55-46,,12,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,0,1,0,0,0,0,0,3,2.0,N,1,1,evan-bailey-1,Evan Bailey,2018
+7,102,7,2017-11-30,College of Charleston,,Western Carolina,REG (Non-Conf),W 69-60,,13,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,1,0,0,1,2,0.8,H,1,1,evan-bailey-1,Evan Bailey,2018
+8,103,8,2017-12-04,College of Charleston,,High Point,REG (Non-Conf),W 70-58,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.1,H,1,1,evan-bailey-1,Evan Bailey,2018
+9,104,9,2017-12-10,College of Charleston,,North Greenville,REG (Non-Conf),W 92-60,,19,3,5,0.6,3,5,0.6,0,0,,0.9,0,1,0.0,1,3,4,2,0,0,0,1,9,8.9,H,1,1,evan-bailey-1,Evan Bailey,2018
+10,105,10,2017-12-16,College of Charleston,@,Rhode Island,REG (Non-Conf),L 62-68,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.1,A,0,1,evan-bailey-1,Evan Bailey,2018
+11,106,11,2017-12-19,College of Charleston,,South Carolina State,REG (Non-Conf),W 80-64,,10,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,1,1,0,0,0,0,1,9,5.9,H,1,1,evan-bailey-1,Evan Bailey,2018
+12,107,12,2017-12-22,College of Charleston,@,Coastal Carolina,REG (Non-Conf),W 67-65,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,evan-bailey-1,Evan Bailey,2018
+13,108,13,2017-12-30,College of Charleston,,Towson,REG (Conf),W 73-62,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,evan-bailey-1,Evan Bailey,2018
+14,109,15,2018-01-05,College of Charleston,@,Drexel,REG (Conf),L 82-87 (OT),,10,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,3,6,3.1,A,0,1,evan-bailey-1,Evan Bailey,2018
+15,110,16,2018-01-07,College of Charleston,@,Towson,REG (Conf),L 62-73,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,1,0,0,0,0,1.7,A,0,1,evan-bailey-1,Evan Bailey,2018
+16,111,17,2018-01-11,College of Charleston,,Northeastern,REG (Conf),W 82-66,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,evan-bailey-1,Evan Bailey,2018
+17,112,18,2018-01-13,College of Charleston,@,Elon,REG (Conf),L 58-63,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,0,1,evan-bailey-1,Evan Bailey,2018
+18,113,21,2018-01-25,College of Charleston,@,Delaware,REG (Conf),W 62-54,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,evan-bailey-1,Evan Bailey,2018
+19,114,23,2018-02-01,College of Charleston,@,Northeastern,REG (Conf),W 69-64,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,evan-bailey-1,Evan Bailey,2018
+20,115,24,2018-02-03,College of Charleston,@,Hofstra,REG (Conf),W 86-85,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,evan-bailey-1,Evan Bailey,2018
+21,116,25,2018-02-08,College of Charleston,,William & Mary,REG (Conf),W 82-77,,9,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,1,2,0,1,0,1,1,2,1.9,H,1,1,evan-bailey-1,Evan Bailey,2018
+22,117,26,2018-02-10,College of Charleston,,Drexel,REG (Conf),W 89-67,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,evan-bailey-1,Evan Bailey,2018
+23,118,27,2018-02-15,College of Charleston,@,James Madison,REG (Conf),W 81-78 (OT),,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,evan-bailey-1,Evan Bailey,2018
+24,119,29,2018-02-22,College of Charleston,,Elon,REG (Conf),W 79-58,*,19,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,1,2,6,2.8,H,1,1,evan-bailey-1,Evan Bailey,2018
+25,120,30,2018-02-24,College of Charleston,@,William & Mary,REG (Conf),L 104-114 (OT),,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,1,2,3,0,1,0,0,3,3,2.0,A,0,1,evan-bailey-1,Evan Bailey,2018
+26,121,34,2018-03-16,College of Charleston,N,Auburn,ROUND-64,L 58-62,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,0,0,evan-bailey-1,Evan Bailey,2018

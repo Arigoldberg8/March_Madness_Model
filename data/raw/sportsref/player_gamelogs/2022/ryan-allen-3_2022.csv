@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2021-11-09,Delaware,@,Davidson,REG (Non-Conf),L 71-93,*,29,3,13,0.231,1,6,0.167,2,7,0.286,0.269,2,2,1.0,0,3,3,3,2,1,5,0,9,1.8,A,0,1,ryan-allen-3,Ryan Allen,2022
+2,102,2,2021-11-13,Delaware,@,Siena,REG (Non-Conf),W 83-63,*,31,6,9,0.667,2,4,0.5,4,5,0.8,0.778,1,1,1.0,1,1,2,2,0,0,1,2,15,11.7,A,1,1,ryan-allen-3,Ryan Allen,2022
+3,103,3,2021-11-17,Delaware,,La Salle,REG (Non-Conf),W 85-82 (OT),*,43,11,17,0.647,5,10,0.5,6,7,0.857,0.794,8,12,0.667,1,3,4,1,2,0,3,0,35,27.2,H,1,1,ryan-allen-3,Ryan Allen,2022
+4,104,4,2021-11-22,Delaware,N,Appalachian State,REG (Non-Conf),W 75-68,*,31,8,11,0.727,6,9,0.667,2,2,1.0,1.0,0,1,0.0,0,2,2,0,1,0,2,5,22,14.7,N,1,1,ryan-allen-3,Ryan Allen,2022
+5,105,5,2021-11-23,Delaware,N,Fordham,REG (Non-Conf),W 81-71,*,36,1,2,0.5,1,2,0.5,0,0,,0.75,6,7,0.857,0,0,0,3,0,0,2,2,9,6.9,N,1,1,ryan-allen-3,Ryan Allen,2022
+6,106,6,2021-11-24,Delaware,N,Oakland,REG (Non-Conf),L 73-81,*,34,4,11,0.364,3,7,0.429,1,4,0.25,0.5,0,1,0.0,2,1,3,0,1,0,2,4,11,3.6,N,0,1,ryan-allen-3,Ryan Allen,2022
+7,107,7,2021-11-27,Delaware,@,Temple,REG (Non-Conf),L 74-75,*,36,2,10,0.2,1,6,0.167,1,4,0.25,0.25,0,0,,0,0,0,5,2,1,3,2,5,1.2,A,0,1,ryan-allen-3,Ryan Allen,2022
+8,108,8,2021-11-30,Delaware,,LIU,REG (Non-Conf),W 75-67,*,35,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,2,1.0,0,4,4,3,0,0,2,2,11,7.5,H,1,1,ryan-allen-3,Ryan Allen,2022
+9,109,9,2021-12-02,Delaware,@,Delaware State,REG (Non-Conf),W 59-48,*,34,5,13,0.385,4,11,0.364,1,2,0.5,0.538,0,0,,0,2,2,1,1,1,0,2,14,9.1,A,1,1,ryan-allen-3,Ryan Allen,2022
+10,110,11,2021-12-08,Delaware,,Lafayette,REG (Non-Conf),W 68-58,,23,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,2,2,0,0,0,0,1,3,0.1,H,1,1,ryan-allen-3,Ryan Allen,2022
+11,111,12,2021-12-10,Delaware,,Moravian,REG (Non-Conf),W 94-55,*,16,4,7,0.571,4,7,0.571,0,0,,0.857,1,2,0.5,0,2,2,0,1,0,0,0,13,10.9,H,1,1,ryan-allen-3,Ryan Allen,2022
+12,112,14,2021-12-29,Delaware,@,UNC Wilmington,REG (Conf),L 68-70,,33,6,12,0.5,3,7,0.429,3,5,0.6,0.625,2,5,0.4,0,3,3,1,0,0,3,2,17,7.6,A,0,1,ryan-allen-3,Ryan Allen,2022
+13,113,15,2021-12-31,Delaware,@,College of Charleston,REG (Conf),W 67-66,,29,6,15,0.4,2,7,0.286,4,8,0.5,0.467,0,0,,1,0,1,0,1,0,4,2,14,2.8,A,1,1,ryan-allen-3,Ryan Allen,2022
+14,114,16,2022-01-11,Delaware,@,Drexel,REG (Conf),W 81-77,,28,10,18,0.556,3,9,0.333,7,9,0.778,0.639,0,0,,1,0,1,1,3,1,2,2,23,16.7,A,1,1,ryan-allen-3,Ryan Allen,2022
+15,115,17,2022-01-15,Delaware,@,Hofstra,REG (Conf),L 77-82,,21,4,10,0.4,3,7,0.429,1,3,0.333,0.55,2,2,1.0,1,0,1,3,0,0,4,0,13,6.4,A,0,1,ryan-allen-3,Ryan Allen,2022
+16,116,18,2022-01-17,Delaware,@,Northeastern,REG (Conf),W 82-76 (OT),,14,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,1,1,2,1,5,3.7,A,1,1,ryan-allen-3,Ryan Allen,2022
+17,117,19,2022-01-20,Delaware,,William & Mary,REG (Conf),W 84-74,,28,4,11,0.364,3,7,0.429,1,4,0.25,0.5,1,5,0.2,0,4,4,3,0,1,2,3,12,5.1,H,1,1,ryan-allen-3,Ryan Allen,2022
+18,118,20,2022-01-22,Delaware,,Elon,REG (Conf),W 80-77,,26,4,9,0.444,2,5,0.4,2,4,0.5,0.556,3,4,0.75,1,2,3,2,0,1,1,2,13,9.5,H,1,1,ryan-allen-3,Ryan Allen,2022
+19,119,21,2022-01-24,Delaware,,Towson,REG (Conf),L 62-69,,26,3,13,0.231,0,7,0.0,3,6,0.5,0.231,0,0,,0,0,0,1,2,1,3,1,6,-1.9,H,0,1,ryan-allen-3,Ryan Allen,2022
+20,120,22,2022-01-27,Delaware,@,Towson,REG (Conf),L 57-69,,26,1,8,0.125,0,3,0.0,1,5,0.2,0.125,0,0,,0,1,1,0,1,0,5,1,2,-7.3,A,0,1,ryan-allen-3,Ryan Allen,2022
+21,121,23,2022-01-29,Delaware,@,James Madison,REG (Conf),W 85-69,*,35,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,2,0.5,0,2,2,3,2,1,0,0,6,6.9,A,1,1,ryan-allen-3,Ryan Allen,2022
+22,122,24,2022-02-03,Delaware,,Drexel,REG (Conf),L 68-76,*,33,2,10,0.2,0,4,0.0,2,6,0.333,0.2,2,3,0.667,2,1,3,2,0,0,1,1,6,1.1,H,0,1,ryan-allen-3,Ryan Allen,2022
+23,123,25,2022-02-10,Delaware,,Northeastern,REG (Conf),W 74-61,*,35,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,0,2,2,4,2,0,1,3,8,6.8,H,1,1,ryan-allen-3,Ryan Allen,2022
+24,124,26,2022-02-12,Delaware,,Hofstra,REG (Conf),L 66-80,*,30,4,12,0.333,2,7,0.286,2,5,0.4,0.417,2,3,0.667,0,4,4,2,0,0,1,3,12,5.2,H,0,1,ryan-allen-3,Ryan Allen,2022
+25,125,27,2022-02-14,Delaware,,James Madison,REG (Conf),W 81-60,*,22,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,1,2,1,0,0,0,2,5,2.5,H,1,1,ryan-allen-3,Ryan Allen,2022
+26,126,28,2022-02-17,Delaware,@,Elon,REG (Conf),W 71-62,*,34,2,8,0.25,1,6,0.167,1,2,0.5,0.313,8,9,0.889,0,2,2,3,3,0,0,2,13,12.7,A,1,1,ryan-allen-3,Ryan Allen,2022
+27,127,29,2022-02-19,Delaware,@,William & Mary,REG (Conf),W 73-69,*,37,3,12,0.25,3,9,0.333,0,3,0.0,0.375,3,4,0.75,0,3,3,3,0,1,3,0,12,5.1,A,1,1,ryan-allen-3,Ryan Allen,2022
+28,128,30,2022-02-24,Delaware,,College of Charleston,REG (Conf),L 96-99,*,33,8,15,0.533,4,8,0.5,4,7,0.571,0.667,8,10,0.8,1,2,3,4,0,0,1,3,28,21.8,H,0,1,ryan-allen-3,Ryan Allen,2022
+29,129,31,2022-02-26,Delaware,,UNC Wilmington,REG (Conf),L 62-69,*,34,3,11,0.273,1,6,0.167,2,5,0.4,0.318,2,2,1.0,0,1,1,1,0,0,2,0,9,1.5,H,0,1,ryan-allen-3,Ryan Allen,2022
+30,130,32,2022-03-06,Delaware,N,Drexel,CTOURN,W 66-56,,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,2,3,2,1,0,2,0,9,7.4,N,1,0,ryan-allen-3,Ryan Allen,2022
+31,131,33,2022-03-07,Delaware,N,Towson,CTOURN,W 69-56,,31,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,3,0.667,0,1,1,4,0,0,0,2,6,2.4,N,1,0,ryan-allen-3,Ryan Allen,2022
+32,132,34,2022-03-08,Delaware,N,UNC Wilmington,CTOURN,W 59-55,,27,4,11,0.364,0,2,0.0,4,9,0.444,0.364,2,4,0.5,0,2,2,2,1,0,0,0,10,6.1,N,1,0,ryan-allen-3,Ryan Allen,2022
+33,133,35,2022-03-18,Delaware,N,Villanova,ROUND-64,L 60-80,,31,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,0,2,2,1,1,0,1,2,4,1.1,N,0,0,ryan-allen-3,Ryan Allen,2022

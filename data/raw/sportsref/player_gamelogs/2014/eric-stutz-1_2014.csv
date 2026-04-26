@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2013-11-08,Eastern Kentucky,N,Florida International,REG (Non-Conf),W 83-61,,13,1,1,1.0,0,0,,1,1,1.0,1.0,4,5,0.8,1,1,2,0,0,0,0,1,6,5.9,N,1,1,eric-stutz-1,Eric Stutz,2014
+2,69,2,2013-11-09,Eastern Kentucky,@,Kennesaw State,REG (Non-Conf),W 68-60,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,2,1,2,-0.1,A,1,1,eric-stutz-1,Eric Stutz,2014
+3,70,3,2013-11-10,Eastern Kentucky,N,Youngstown State,REG (Non-Conf),L 67-75,,20,4,5,0.8,0,0,,4,5,0.8,0.8,2,3,0.667,1,4,5,0,2,0,1,5,10,8.6,N,0,1,eric-stutz-1,Eric Stutz,2014
+4,71,4,2013-11-13,Eastern Kentucky,,Warren Wilson,REG (Non-Conf),W 114-45,*,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,1,2,1,2,0,2,1,5,4.6,H,1,1,eric-stutz-1,Eric Stutz,2014
+5,72,5,2013-11-16,Eastern Kentucky,,High Point,REG (Non-Conf),W 74-67,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,4,3,7,0,0,1,1,4,4,3.7,H,1,1,eric-stutz-1,Eric Stutz,2014
+6,73,6,2013-11-19,Eastern Kentucky,,Alabama A&M,REG (Non-Conf),W 82-68,*,30,4,5,0.8,0,1,0.0,4,4,1.0,0.8,3,3,1.0,2,9,11,3,1,2,1,4,11,15.1,H,1,1,eric-stutz-1,Eric Stutz,2014
+7,74,7,2013-11-22,Eastern Kentucky,,Brescia,REG (Non-Conf),W 95-56,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,5,6,0.833,2,2,4,2,3,1,0,1,11,15.7,H,1,1,eric-stutz-1,Eric Stutz,2014
+8,75,8,2013-11-30,Eastern Kentucky,@,NC State,REG (Non-Conf),L 56-75,*,24,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,1,2,1,1,2,2,4,3,0.7,A,0,1,eric-stutz-1,Eric Stutz,2014
+9,76,9,2013-12-05,Eastern Kentucky,@,VCU,REG (Non-Conf),L 68-71 (OT),*,40,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,3,5,4,0,2,2,2,4,7.1,A,0,1,eric-stutz-1,Eric Stutz,2014
+10,77,10,2013-12-07,Eastern Kentucky,@,Longwood,REG (Non-Conf),W 76-67,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,1,2,1,0,0,1,4,6,4.5,A,1,1,eric-stutz-1,Eric Stutz,2014
+11,78,11,2013-12-14,Eastern Kentucky,@,Wisconsin,REG (Non-Conf),L 61-86,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,2,4,6,0,0,0,4,3,6,0.7,A,0,1,eric-stutz-1,Eric Stutz,2014
+12,79,12,2013-12-18,Eastern Kentucky,,North Carolina A&T,REG (Non-Conf),W 84-73,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,2,1,3,2,1,0,1,4,9,7.5,H,1,1,eric-stutz-1,Eric Stutz,2014
+13,80,13,2013-12-29,Eastern Kentucky,@,IPFW,REG (Non-Conf),W 90-68,*,26,8,10,0.8,0,0,,8,10,0.8,0.8,0,0,,3,6,9,4,2,0,1,3,16,18.7,A,1,1,eric-stutz-1,Eric Stutz,2014
+14,81,14,2014-01-02,Eastern Kentucky,@,Eastern Illinois,REG (Conf),W 100-81,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,4,5,2,0,1,0,4,6,7.8,A,1,1,eric-stutz-1,Eric Stutz,2014
+15,82,15,2014-01-04,Eastern Kentucky,@,SIU Edwardsville,REG (Conf),L 79-85,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,2,2,1,1,0,3,5,4,0.3,A,0,1,eric-stutz-1,Eric Stutz,2014
+16,83,16,2014-01-08,Eastern Kentucky,,Murray State,REG (Conf),L 64-77,*,33,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,3,3,3,0,1,0,3,4,2.4,H,0,1,eric-stutz-1,Eric Stutz,2014
+17,84,17,2014-01-11,Eastern Kentucky,@,Morehead State,REG (Conf),W 76-65,,22,1,1,1.0,0,0,,1,1,1.0,1.0,1,3,0.333,0,2,2,1,0,1,1,4,3,1.3,A,1,1,eric-stutz-1,Eric Stutz,2014
+18,85,18,2014-01-16,Eastern Kentucky,,Belmont,REG (Conf),W 74-63,*,31,5,7,0.714,0,0,,5,7,0.714,0.714,0,1,0.0,0,3,3,5,1,2,2,1,10,11.1,H,1,1,eric-stutz-1,Eric Stutz,2014
+19,86,19,2014-01-18,Eastern Kentucky,,Jacksonville State,REG (Conf),W 60-56,*,35,6,7,0.857,0,0,,6,7,0.857,0.857,8,8,1.0,3,6,9,1,1,0,3,4,20,18.5,H,1,1,eric-stutz-1,Eric Stutz,2014
+20,87,20,2014-01-23,Eastern Kentucky,@,Tennessee State,REG (Conf),W 94-78,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,1,2,3,0,3,1,1,3,10,8.7,A,1,1,eric-stutz-1,Eric Stutz,2014
+21,88,21,2014-01-25,Eastern Kentucky,@,Belmont,REG (Conf),L 81-84,*,34,6,10,0.6,0,0,,6,10,0.6,0.6,2,3,0.667,6,5,11,3,1,0,5,4,14,11.2,A,0,1,eric-stutz-1,Eric Stutz,2014
+22,89,22,2014-01-30,Eastern Kentucky,,UT Martin,REG (Conf),W 89-66,*,24,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,1,4,5,3,1,0,0,3,14,15.3,H,1,1,eric-stutz-1,Eric Stutz,2014
+23,90,23,2014-02-01,Eastern Kentucky,,Southeast Missouri State,REG (Conf),W 79-78,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,2,2,1,1,0,1,4,6,2.7,H,1,1,eric-stutz-1,Eric Stutz,2014
+24,91,24,2014-02-04,Eastern Kentucky,,Chattanooga,REG (Non-Conf),W 74-63,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,3,3,1.0,4,1,5,0,0,1,0,3,9,7.9,H,1,1,eric-stutz-1,Eric Stutz,2014
+25,92,25,2014-02-08,Eastern Kentucky,,Morehead State,REG (Conf),L 79-86,*,35,4,5,0.8,0,0,,4,5,0.8,0.8,4,4,1.0,2,2,4,3,1,0,1,5,12,12.2,H,0,1,eric-stutz-1,Eric Stutz,2014
+26,93,26,2014-02-13,Eastern Kentucky,@,Tennessee Tech,REG (Conf),L 66-72,*,25,3,7,0.429,0,0,,3,7,0.429,0.429,4,4,1.0,1,3,4,0,1,1,0,3,10,8.4,A,0,1,eric-stutz-1,Eric Stutz,2014
+27,94,27,2014-02-15,Eastern Kentucky,@,Jacksonville State,REG (Conf),W 86-65,*,28,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,5,5,7,0,1,1,2,4,7.6,A,1,1,eric-stutz-1,Eric Stutz,2014
+28,95,28,2014-02-22,Eastern Kentucky,@,Austin Peay,REG (Conf),W 96-75,*,28,6,6,1.0,0,0,,6,6,1.0,1.0,3,4,0.75,2,5,7,2,2,0,2,3,15,15.9,A,1,1,eric-stutz-1,Eric Stutz,2014
+29,96,29,2014-02-27,Eastern Kentucky,,Tennessee Tech,REG (Conf),W 74-67,*,34,4,7,0.571,0,1,0.0,4,6,0.667,0.571,4,5,0.8,1,5,6,1,1,1,2,5,12,8.9,H,1,1,eric-stutz-1,Eric Stutz,2014
+30,97,30,2014-03-01,Eastern Kentucky,,Tennessee State,REG (Conf),W 70-66,*,31,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,1,2,3,1,0,1,2,2,9,6.6,H,1,1,eric-stutz-1,Eric Stutz,2014
+31,98,31,2014-03-06,Eastern Kentucky,N,Southeast Missouri State,CTOURN,W 84-76,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,4,6,0.667,2,4,6,1,1,0,1,4,8,6.9,N,1,0,eric-stutz-1,Eric Stutz,2014
+32,99,32,2014-03-07,Eastern Kentucky,N,Murray State,CTOURN,W 86-83,*,28,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,1,4,5,4,0,1,4,5,10,7.9,N,1,0,eric-stutz-1,Eric Stutz,2014
+33,100,33,2014-03-08,Eastern Kentucky,N,Belmont,CTOURN,W 79-73,*,31,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,3,4,2,0,2,0,5,5,5.3,N,1,0,eric-stutz-1,Eric Stutz,2014
+34,101,34,2014-03-21,Eastern Kentucky,N,Kansas,ROUND-64,L 69-80,*,33,5,9,0.556,1,1,1.0,4,8,0.5,0.611,4,5,0.8,1,3,4,2,2,1,1,3,15,13.8,N,0,0,eric-stutz-1,Eric Stutz,2014

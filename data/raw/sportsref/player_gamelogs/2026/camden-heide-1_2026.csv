@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,76,1,2025-11-04,Texas,N,Duke,REG (Non-Conf),L 60-75,,9,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,2,0,0.2,N,0,1,camden-heide-1,Camden Heide,2026
+2,77,3,2025-11-12,Texas,,FDU,REG (Non-Conf),W 93-58,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,2,1,1,0,2,3,5.0,H,1,1,camden-heide-1,Camden Heide,2026
+3,78,4,2025-11-15,Texas,,Kansas City,REG (Non-Conf),W 71-55,,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,3,0,3,0,0,0,0,2,2,1.6,H,1,1,camden-heide-1,Camden Heide,2026
+4,79,5,2025-11-18,Texas,,Rider,REG (Non-Conf),W 99-65,*,25,7,11,0.636,6,9,0.667,1,2,0.5,0.909,0,0,,1,4,5,0,0,0,0,3,20,15.8,H,1,1,camden-heide-1,Camden Heide,2026
+5,80,6,2025-11-24,Texas,N,Arizona State,REG (Non-Conf),L 86-87,*,27,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,3,0.667,0,1,1,1,1,0,1,3,7,4.4,N,0,1,camden-heide-1,Camden Heide,2026
+6,81,7,2025-11-25,Texas,N,Chaminade,REG (Non-Conf),W 119-78,*,17,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,2,2,3,1,1,3,0,7,6.8,N,1,1,camden-heide-1,Camden Heide,2026
+7,82,8,2025-11-26,Texas,N,NC State,REG (Non-Conf),W 102-97,*,22,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,1,4,5,1,1,0,0,5,11,10.7,N,1,1,camden-heide-1,Camden Heide,2026
+8,83,9,2025-12-03,Texas,,Virginia,REG (Non-Conf),L 69-88,*,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,2,0,2,0,0,0,0,4,4,2.8,H,0,1,camden-heide-1,Camden Heide,2026
+9,84,10,2025-12-08,Texas,,Southern,REG (Non-Conf),W 95-69,,23,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,1,0.0,1,2,3,1,1,1,0,2,11,10.9,H,1,1,camden-heide-1,Camden Heide,2026
+10,85,11,2025-12-12,Texas,@,Connecticut,REG (Non-Conf),L 63-71,*,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,0,0,0,0.6,A,0,1,camden-heide-1,Camden Heide,2026
+11,86,12,2025-12-16,Texas,,Le Moyne,REG (Non-Conf),W 95-53,*,23,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,0,2,2,2,1,0,1,1,10,7.6,H,1,1,camden-heide-1,Camden Heide,2026
+12,87,13,2025-12-22,Texas,,Maryland Eastern Shore,REG (Non-Conf),W 94-71,*,21,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,2,2,0,1,0,1,2,6,2.4,H,1,1,camden-heide-1,Camden Heide,2026
+13,88,14,2026-01-03,Texas,,Mississippi State,REG (Conf),L 98-101 (OT),*,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,0,2,0,-0.2,H,0,1,camden-heide-1,Camden Heide,2026
+14,89,15,2026-01-06,Texas,@,Tennessee,REG (Conf),L 71-85,*,35,5,10,0.5,4,9,0.444,1,1,1.0,0.7,2,2,1.0,2,2,4,1,1,0,1,3,16,12.5,A,0,1,camden-heide-1,Camden Heide,2026
+15,90,16,2026-01-10,Texas,@,Alabama,REG (Conf),W 92-88,*,34,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,1,5,6,1,2,0,0,2,8,8.7,A,1,1,camden-heide-1,Camden Heide,2026
+16,91,17,2026-01-14,Texas,,Vanderbilt,REG (Conf),W 80-64,*,28,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,6,6,1,0,0,1,4,3,1.2,H,1,1,camden-heide-1,Camden Heide,2026
+17,92,18,2026-01-17,Texas,,Texas A&M,REG (Conf),L 70-74,*,27,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,3,2,5,0,1,0,1,3,3,3.5,H,0,1,camden-heide-1,Camden Heide,2026
+18,93,19,2026-01-21,Texas,@,Kentucky,REG (Conf),L 80-85,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,camden-heide-1,Camden Heide,2026
+19,94,20,2026-01-24,Texas,,Georgia,REG (Conf),W 87-67,*,19,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,0,2,6,3.9,H,1,1,camden-heide-1,Camden Heide,2026
+20,95,21,2026-01-28,Texas,@,Auburn,REG (Conf),L 82-88,*,38,6,7,0.857,5,6,0.833,1,1,1.0,1.214,0,0,,1,1,2,0,0,1,0,4,17,14.6,A,0,1,camden-heide-1,Camden Heide,2026
+21,96,22,2026-01-31,Texas,@,Oklahoma,REG (Conf),W 79-69,*,22,5,6,0.833,3,4,0.75,2,2,1.0,1.083,0,0,,0,1,1,1,0,0,1,4,13,9.2,A,1,1,camden-heide-1,Camden Heide,2026
+22,97,23,2026-02-03,Texas,,South Carolina,REG (Conf),W 84-75,*,35,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,1,4,5,2,0,0,0,1,12,11.2,H,1,1,camden-heide-1,Camden Heide,2026
+23,98,24,2026-02-07,Texas,,Ole Miss,REG (Conf),W 79-68,*,25,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,1,2,3,0,0,0,0,3,6,4.1,H,1,1,camden-heide-1,Camden Heide,2026
+24,99,25,2026-02-14,Texas,@,Missouri,REG (Conf),W 85-68,*,36,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,2,2,4,0,1,0,0,1,0,-1.6,A,1,1,camden-heide-1,Camden Heide,2026
+25,100,26,2026-02-17,Texas,,Louisiana State,REG (Conf),W 88-85,*,37,3,5,0.6,1,3,0.333,2,2,1.0,0.7,1,2,0.5,0,3,3,0,0,0,0,2,8,5.4,H,1,1,camden-heide-1,Camden Heide,2026
+26,101,27,2026-02-21,Texas,@,Georgia,REG (Conf),L 80-91,*,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,A,0,1,camden-heide-1,Camden Heide,2026
+27,102,28,2026-02-25,Texas,,Florida,REG (Conf),L 71-84,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,0,0,0,2,2,1.8,H,0,1,camden-heide-1,Camden Heide,2026
+28,103,29,2026-02-28,Texas,@,Texas A&M,REG (Conf),W 76-70,*,21,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,2,0,2,0,0,0,0,1,3,0.2,A,1,1,camden-heide-1,Camden Heide,2026
+29,104,30,2026-03-04,Texas,@,Arkansas,REG (Conf),L 85-105,*,27,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,2,0,0,1,2,6,3.2,A,0,1,camden-heide-1,Camden Heide,2026
+30,105,31,2026-03-07,Texas,,Oklahoma,REG (Conf),L 85-88 (OT),,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,0,0,0,1,4,2,-2.7,H,0,1,camden-heide-1,Camden Heide,2026
+31,106,32,2026-03-11,Texas,N,Ole Miss,CTOURN,L 66-76,*,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,3,1.0,1,2,3,1,0,0,0,4,5,3.0,N,0,0,camden-heide-1,Camden Heide,2026
+32,107,33,2026-03-17,Texas,N,NC State,FIRST-FOUR,W 68-66,*,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,1,2,1,0,1,0,4,3,2.8,N,1,0,camden-heide-1,Camden Heide,2026

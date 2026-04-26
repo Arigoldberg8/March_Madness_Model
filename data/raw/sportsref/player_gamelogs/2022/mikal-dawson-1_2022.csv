@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2021-11-09,Akron,@,Ohio State,REG (Non-Conf),L 66-67,,10,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,1,0.0,1,1,2,0,0,0,2,2,2,-3.3,A,0,1,mikal-dawson-1,Mikal Dawson,2022
+2,42,2,2021-11-13,Akron,,Point Park,REG (Non-Conf),W 102-46,,21,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,1,1,2,2,1,0,1,3,12,9.2,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+3,43,3,2021-11-18,Akron,,Wheeling Jesuit,REG (Non-Conf),W 99-38,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,2,0.0,1,2,3,1,1,0,2,1,5,2.8,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+4,44,4,2021-11-22,Akron,N,Fordham,REG (Non-Conf),L 43-63,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,2,2,0,0,2,0,2.9,N,0,1,mikal-dawson-1,Mikal Dawson,2022
+5,45,5,2021-11-23,Akron,N,Appalachian State,REG (Non-Conf),L 45-57,,14,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,3,3,0,1,0,0,2,8,5.4,N,0,1,mikal-dawson-1,Mikal Dawson,2022
+6,46,6,2021-11-24,Akron,N,Evansville,REG (Non-Conf),W 69-60,,25,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,2,2,4,1,1,0,1,2,3,3.2,N,1,1,mikal-dawson-1,Mikal Dawson,2022
+7,47,7,2021-12-01,Akron,,Marshall,REG (Non-Conf),W 88-86,,29,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,3,1,4,1,0,0,0,2,0,0.9,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+8,48,8,2021-12-04,Akron,,Southern,REG (Non-Conf),W 79-62,,23,2,6,0.333,2,6,0.333,0,0,,0.5,1,2,0.5,2,3,5,1,2,0,2,4,7,4.6,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+9,49,9,2021-12-12,Akron,,Florida A&M,REG (Non-Conf),W 73-66,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,3,0,-2.3,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+10,50,10,2021-12-15,Akron,@,Wright State,REG (Non-Conf),W 66-48,,28,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,1,1,0,0,2,3,1.1,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+11,51,11,2022-01-01,Akron,,Buffalo,REG (Conf),W 88-76,,27,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,3,4,0,1,0,0,0,9,8.6,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+12,52,12,2022-01-04,Akron,,Ohio,REG (Conf),L 63-69,,35,4,11,0.364,4,9,0.444,0,2,0.0,0.545,2,2,1.0,0,3,3,2,1,0,0,1,14,10.8,H,0,1,mikal-dawson-1,Mikal Dawson,2022
+13,53,13,2022-01-11,Akron,,Ball State,REG (Conf),W 84-74,,22,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,1,0.0,2,2,4,0,0,1,2,4,10,6.1,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+14,54,14,2022-01-14,Akron,@,Kent State,REG (Conf),L 55-67,,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.2,A,0,1,mikal-dawson-1,Mikal Dawson,2022
+15,55,15,2022-01-18,Akron,,Western Michigan,REG (Conf),W 74-73,,23,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,1,2,3,1,1,0,1,2,9,6.5,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+16,56,16,2022-01-20,Akron,@,Bowling Green,REG (Conf),W 91-66,,27,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,2,3,0,0,0,0,1,3,1.5,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+17,57,17,2022-01-22,Akron,,Eastern Michigan,REG (Conf),W 46-44,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,2,1,0,-3.2,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+18,58,18,2022-01-25,Akron,@,Central Michigan,REG (Conf),W 60-56,,20,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,1,3,1,0,0,0,1,0,1.3,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+19,59,19,2022-01-28,Akron,@,Toledo,REG (Conf),L 76-84,,28,4,9,0.444,3,8,0.375,1,1,1.0,0.611,3,3,1.0,3,4,7,0,0,0,1,2,14,10.8,A,0,1,mikal-dawson-1,Mikal Dawson,2022
+20,60,20,2022-02-04,Akron,,Miami (OH),REG (Conf),W 66-55,,26,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,2,3,5,1,0,0,0,1,2,1.8,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+21,61,21,2022-02-06,Akron,@,Miami (OH),REG (Conf),W 71-59,,18,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,0,1,2,2,0,0,2,1,3.2,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+22,62,22,2022-02-08,Akron,@,Northern Illinois,REG (Conf),W 70-64,,24,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,2,3,1,0,0,1,2,6,3.5,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+23,63,23,2022-02-11,Akron,,Kent State,REG (Conf),L 64-66,,20,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,1,2,3,1,1,0,1,1,4,3.5,H,0,1,mikal-dawson-1,Mikal Dawson,2022
+24,64,24,2022-02-15,Akron,@,Western Michigan,REG (Conf),L 57-61 (OT),,21,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,1,0,0,2,1,3,1.2,A,0,1,mikal-dawson-1,Mikal Dawson,2022
+25,65,25,2022-02-17,Akron,,Northern Illinois,REG (Conf),L 63-66,*,22,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,0,0,0,3,0,1,3,7,5.1,H,0,1,mikal-dawson-1,Mikal Dawson,2022
+26,66,26,2022-02-19,Akron,@,Eastern Michigan,REG (Conf),W 67-48,*,24,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,3,3,1,2,0,0,1,3,3.8,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+27,67,27,2022-02-22,Akron,,Bowling Green,REG (Conf),W 82-68,*,27,4,7,0.571,4,7,0.571,0,0,,0.857,5,6,0.833,0,4,4,0,2,0,0,3,17,15.3,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+28,68,28,2022-02-25,Akron,@,Ohio,REG (Conf),W 91-83,*,37,5,8,0.625,1,4,0.25,4,4,1.0,0.688,4,4,1.0,1,4,5,2,2,0,2,2,15,13.9,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+29,69,29,2022-03-01,Akron,@,Ball State,REG (Conf),W 79-60,*,34,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,1,3,4,1,4,0,0,2,11,11.8,A,1,1,mikal-dawson-1,Mikal Dawson,2022
+30,70,30,2022-03-04,Akron,,Central Michigan,REG (Conf),W 57-56,*,32,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,4,0.5,3,5,8,2,1,0,1,1,5,5.7,H,1,1,mikal-dawson-1,Mikal Dawson,2022
+31,71,31,2022-03-10,Akron,N,Buffalo,CTOURN,W 70-68,*,34,5,9,0.556,3,4,0.75,2,5,0.4,0.722,1,2,0.5,2,2,4,1,1,0,1,1,14,11.6,N,1,0,mikal-dawson-1,Mikal Dawson,2022
+32,72,32,2022-03-11,Akron,N,Toledo,CTOURN,W 70-62,*,28,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,5,5,0,0,1,0,3,9,7.0,N,1,0,mikal-dawson-1,Mikal Dawson,2022
+33,73,33,2022-03-12,Akron,N,Kent State,CTOURN,W 75-55,*,29,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,2,3,5,1,3,0,0,0,3,8.0,N,1,0,mikal-dawson-1,Mikal Dawson,2022
+34,74,34,2022-03-17,Akron,N,UCLA,ROUND-64,L 53-57,*,31,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,3,2,5,1,1,0,1,1,2,2.6,N,0,0,mikal-dawson-1,Mikal Dawson,2022

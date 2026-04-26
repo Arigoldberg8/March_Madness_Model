@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2012-11-09,Belmont,@,Lipscomb,REG (Non-Conf),W 89-60,*,29,5,12,0.417,1,4,0.25,4,8,0.5,0.458,11,13,0.846,0,3,3,7,2,0,6,4,22,15.0,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+2,101,2,2012-11-13,Belmont,,Maryville (MO),REG (Non-Conf),W 88-49,*,24,5,9,0.556,1,1,1.0,4,8,0.5,0.611,5,8,0.625,0,4,4,6,3,0,3,1,16,15.5,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+3,102,3,2012-11-18,Belmont,@,Stanford,REG (Non-Conf),W 70-62,*,28,6,14,0.429,0,1,0.0,6,13,0.462,0.429,2,3,0.667,1,1,2,3,1,0,3,5,14,5.3,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+4,103,4,2012-11-22,Belmont,@,Ak. Anchorage,REG (Non-Conf),W 74-60,*,18,1,7,0.143,0,0,,1,7,0.143,0.143,1,1,1.0,0,1,1,4,1,0,2,3,3,-0.6,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+5,104,5,2012-11-23,Belmont,N,Northeastern,REG (Non-Conf),L 71-74,*,35,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,1,0.0,0,1,1,4,2,0,4,3,8,1.4,N,0,1,kerron-johnson-1,Kerron Johnson,2013
+6,105,6,2012-11-24,Belmont,N,Oral Roberts,REG (Non-Conf),W 70-67,*,36,7,9,0.778,1,1,1.0,6,8,0.75,0.833,5,10,0.5,0,4,4,7,2,0,4,5,20,16.6,N,1,1,kerron-johnson-1,Kerron Johnson,2013
+7,106,7,2012-12-01,Belmont,@,VCU,REG (Non-Conf),L 65-75,*,32,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,4,0.5,0,4,4,6,3,0,5,4,11,7.3,A,0,1,kerron-johnson-1,Kerron Johnson,2013
+8,107,8,2012-12-04,Belmont,,Lipscomb,REG (Non-Conf),W 100-66,*,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,10,11,0.909,0,2,2,1,1,0,2,2,17,13.1,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+9,108,9,2012-12-13,Belmont,,Middle Tennessee,REG (Non-Conf),W 64-49,*,30,7,14,0.5,0,1,0.0,7,13,0.538,0.5,3,6,0.5,1,5,6,5,2,0,5,0,17,11.5,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+10,109,10,2012-12-15,Belmont,@,Kansas,REG (Non-Conf),L 60-89,*,28,3,8,0.375,1,2,0.5,2,6,0.333,0.438,2,2,1.0,1,1,2,4,0,0,3,2,9,4.6,A,0,1,kerron-johnson-1,Kerron Johnson,2013
+11,110,11,2012-12-19,Belmont,,South Dakota State,REG (Non-Conf),W 76-49,*,29,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,2,1.0,0,8,8,6,0,0,1,1,13,15.3,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+12,111,12,2012-12-28,Belmont,N,Boston University,REG (Non-Conf),W 64-48,*,33,6,17,0.353,0,5,0.0,6,12,0.5,0.353,0,0,,0,1,1,6,1,0,4,3,12,2.8,N,1,1,kerron-johnson-1,Kerron Johnson,2013
+13,112,13,2012-12-29,Belmont,N,UCF,REG (Non-Conf),L 63-66,*,36,7,19,0.368,1,2,0.5,6,17,0.353,0.395,3,4,0.75,2,6,8,3,0,0,1,2,18,10.6,N,0,1,kerron-johnson-1,Kerron Johnson,2013
+14,113,14,2013-01-03,Belmont,@,Jacksonville State,REG (Conf),W 73-62,*,34,3,10,0.3,0,1,0.0,3,9,0.333,0.3,5,5,1.0,0,4,4,6,3,0,7,4,11,5.0,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+15,114,15,2013-01-05,Belmont,@,Tennessee Tech,REG (Conf),W 83-52,*,32,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,1,0.0,0,3,3,10,3,0,0,1,8,15.5,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+16,115,16,2013-01-10,Belmont,,Southeast Missouri State,REG (Conf),W 107-72,*,26,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,8,0.625,0,2,2,3,2,0,5,1,13,7.8,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+17,116,17,2013-01-12,Belmont,,UT Martin,REG (Conf),W 90-53,*,21,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,4,1.0,0,1,1,5,3,0,1,2,8,9.6,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+18,117,18,2013-01-17,Belmont,,Eastern Kentucky,REG (Conf),W 83-76,*,33,4,13,0.308,0,2,0.0,4,11,0.364,0.308,7,8,0.875,1,2,3,3,1,0,8,1,15,3.1,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+19,118,19,2013-01-19,Belmont,,Tennessee State,REG (Conf),W 78-66,*,28,5,7,0.714,2,2,1.0,3,5,0.6,0.857,5,8,0.625,0,1,1,5,2,0,1,3,17,16.5,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+20,119,20,2013-01-24,Belmont,@,Morehead State,REG (Conf),W 64-63,*,31,2,8,0.25,0,2,0.0,2,6,0.333,0.25,5,8,0.625,0,5,5,4,1,0,5,3,9,2.1,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+21,120,21,2013-01-26,Belmont,@,Eastern Kentucky,REG (Conf),W 85-74,*,35,4,5,0.8,2,2,1.0,2,3,0.667,1.0,6,6,1.0,0,2,2,4,2,0,2,4,16,15.9,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+22,121,22,2013-01-31,Belmont,,Morehead State,REG (Conf),W 93-74,*,29,3,6,0.5,0,1,0.0,3,5,0.6,0.5,19,21,0.905,0,3,3,2,7,0,7,3,25,22.3,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+23,122,23,2013-02-02,Belmont,,Tennessee Tech,REG (Conf),W 74-52,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,7,9,0.778,0,2,2,3,1,1,5,3,13,6.7,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+24,123,24,2013-02-07,Belmont,@,Murray State,REG (Conf),L 74-79,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,4,6,0.667,2,3,5,4,0,0,2,2,12,10.9,A,0,1,kerron-johnson-1,Kerron Johnson,2013
+25,124,25,2013-02-09,Belmont,@,Austin Peay,REG (Conf),W 78-65,*,29,2,4,0.5,1,1,1.0,1,3,0.333,0.625,4,4,1.0,1,6,7,4,2,0,2,3,9,11.1,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+26,125,26,2013-02-14,Belmont,@,Tennessee State,REG (Conf),L 69-80,*,27,5,11,0.455,0,3,0.0,5,8,0.625,0.455,6,9,0.667,0,3,3,5,2,0,3,4,16,10.9,A,0,1,kerron-johnson-1,Kerron Johnson,2013
+27,126,27,2013-02-20,Belmont,@,Eastern Illinois,REG (Conf),W 80-49,*,24,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,1,2,3,8,3,0,0,2,1,6.9,A,1,1,kerron-johnson-1,Kerron Johnson,2013
+28,127,28,2013-02-23,Belmont,,Ohio,REG (Non-Conf),W 81-62,*,34,3,5,0.6,0,1,0.0,3,4,0.75,0.6,10,12,0.833,0,4,4,5,0,0,3,2,16,13.8,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+29,128,29,2013-02-27,Belmont,,SIU Edwardsville,REG (Conf),W 73-43,*,25,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,0,2,2,4,0,0,1,2,9,6.9,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+30,129,30,2013-03-02,Belmont,,Jacksonville State,REG (Conf),W 78-71,*,36,7,11,0.636,0,0,,7,11,0.636,0.636,12,12,1.0,1,3,4,5,0,0,0,3,26,25.0,H,1,1,kerron-johnson-1,Kerron Johnson,2013
+31,130,31,2013-03-08,Belmont,N,Tennessee State,CTOURN,W 82-73,*,34,6,13,0.462,0,2,0.0,6,11,0.545,0.462,11,16,0.688,0,2,2,7,3,0,4,1,23,18.4,N,1,0,kerron-johnson-1,Kerron Johnson,2013
+32,131,32,2013-03-09,Belmont,N,Murray State,CTOURN,W 70-68 (OT),*,36,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,4,1.0,0,0,0,6,3,0,3,4,12,9.9,N,1,0,kerron-johnson-1,Kerron Johnson,2013
+33,132,33,2013-03-21,Belmont,N,Arizona,ROUND-64,L 64-81,*,35,6,12,0.5,2,5,0.4,4,7,0.571,0.583,8,10,0.8,0,2,2,3,1,0,2,2,22,16.1,N,0,0,kerron-johnson-1,Kerron Johnson,2013

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,College of Charleston,,Iona,REG (Non-Conf),W 71-69,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+2,2,5,2023-11-19,College of Charleston,@,Coastal Carolina,REG (Non-Conf),W 80-72,,7,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,0,0,3,1.6,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+3,3,6,2023-11-26,College of Charleston,@,Kent State,REG (Non-Conf),W 84-78,,12,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,5,0.8,0,1,1,1,1,0,0,0,10,10.0,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+4,4,7,2023-12-01,College of Charleston,N,Liberty,REG (Non-Conf),W 76-67,,11,3,4,0.75,2,3,0.667,1,1,1.0,1.0,3,5,0.6,0,4,4,1,1,1,0,2,11,11.4,N,1,1,jordan-crawford-3,Jordan Crawford,2024
+5,5,8,2023-12-02,College of Charleston,@,Florida Atlantic,REG (Non-Conf),L 74-90,,20,4,10,0.4,3,6,0.5,1,4,0.25,0.55,2,3,0.667,0,0,0,0,1,0,0,1,13,7.8,A,0,1,jordan-crawford-3,Jordan Crawford,2024
+6,6,9,2023-12-10,College of Charleston,,Rhode Island,REG (Non-Conf),W 85-70,,15,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,0,0,0,0,1,0,0,0,11,10.1,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+7,7,10,2023-12-14,College of Charleston,,The Citadel,REG (Non-Conf),W 86-71,,11,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,1,1,0,2,0,1,1,8,5.2,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+8,8,11,2023-12-18,College of Charleston,,Coastal Carolina,REG (Non-Conf),W 84-81,,11,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,1,0,1,0,0,0,0,2,3,-1.6,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+9,9,12,2023-12-21,College of Charleston,,Saint Joseph's,REG (Non-Conf),W 89-82,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,0,0,0,0.3,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+10,10,13,2023-12-29,College of Charleston,,Montreat,REG (Non-Conf),W 96-59,,19,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,2,2,1,1,0,0,0,5,3.9,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+11,11,14,2024-01-04,College of Charleston,@,Hofstra,REG (Conf),W 73-61,,8,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,0,2,2,-0.9,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+12,12,15,2024-01-06,College of Charleston,@,Stony Brook,REG (Conf),W 93-87,,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-1.8,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+13,13,16,2024-01-11,College of Charleston,,Elon,REG (Conf),W 80-62,,11,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,1,0.0,1,1,2,0,0,0,0,0,2,-1.2,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+14,14,17,2024-01-13,College of Charleston,,Monmouth,REG (Conf),W 94-83,,10,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,0,1,0,0,0,2,0,3,0.0,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+15,15,18,2024-01-18,College of Charleston,,Towson,REG (Conf),L 78-82,,7,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,H,0,1,jordan-crawford-3,Jordan Crawford,2024
+16,16,19,2024-01-20,College of Charleston,@,UNC Wilmington,REG (Conf),L 69-78,,24,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,0,0,0,0,0,0,2,12,7.9,A,0,1,jordan-crawford-3,Jordan Crawford,2024
+17,17,20,2024-01-25,College of Charleston,@,Hampton,REG (Conf),W 107-86,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,0,3,3.0,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+18,18,21,2024-01-27,College of Charleston,@,Campbell,REG (Conf),W 90-67,,19,5,10,0.5,2,7,0.286,3,3,1.0,0.6,1,1,1.0,1,0,1,0,1,0,0,3,13,8.5,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+19,19,22,2024-02-01,College of Charleston,,UNC Wilmington,REG (Conf),L 74-80,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,0,1,jordan-crawford-3,Jordan Crawford,2024
+20,20,23,2024-02-03,College of Charleston,@,William & Mary,REG (Conf),W 84-83,,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,2,2,3,1,0,1,1,6,5.9,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+21,21,24,2024-02-08,College of Charleston,,North Carolina A&T,REG (Conf),W 80-58,,19,3,7,0.429,2,6,0.333,1,1,1.0,0.571,2,2,1.0,0,0,0,2,0,0,1,1,10,6.3,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+22,22,25,2024-02-10,College of Charleston,,Drexel,REG (Conf),W 80-70,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,-1.2,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+23,23,26,2024-02-15,College of Charleston,@,Northeastern,REG (Conf),W 77-73,,15,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,0,0,1,1,0,1,1,9,4.9,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+24,24,27,2024-02-19,College of Charleston,,William & Mary,REG (Conf),W 65-57,,15,1,5,0.2,1,5,0.2,0,0,,0.3,1,2,0.5,0,1,1,0,0,0,0,1,4,0.4,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+25,25,28,2024-02-22,College of Charleston,@,Delaware,REG (Conf),W 90-71,,16,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,1,0,0,0,0,3,0.9,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+26,26,29,2024-02-24,College of Charleston,@,Towson,REG (Conf),W 72-56,,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,2,0,0,0,1,3,2.9,A,1,1,jordan-crawford-3,Jordan Crawford,2024
+27,27,30,2024-02-29,College of Charleston,,Campbell,REG (Conf),W 96-73,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,1,1,0,1,2,2,0.2,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+28,28,31,2024-03-02,College of Charleston,,Hofstra,REG (Conf),W 87-76,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,H,1,1,jordan-crawford-3,Jordan Crawford,2024
+29,29,32,2024-03-10,College of Charleston,N,Monmouth,CTOURN,W 83-59,,6,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,1,0,0,1,1,4,2.0,N,1,0,jordan-crawford-3,Jordan Crawford,2024
+30,30,33,2024-03-11,College of Charleston,N,Towson,CTOURN,W 61-56,,6,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,1,0,3,1.0,N,1,0,jordan-crawford-3,Jordan Crawford,2024
+31,31,34,2024-03-12,College of Charleston,N,Stony Brook,CTOURN,W 82-79 (OT),,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jordan-crawford-3,Jordan Crawford,2024
+32,32,35,2024-03-22,College of Charleston,N,Alabama,ROUND-64,L 96-109,,4,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,0,2,5,3.6,N,0,0,jordan-crawford-3,Jordan Crawford,2024

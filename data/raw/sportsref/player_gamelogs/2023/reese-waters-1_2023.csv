@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,44,1,2022-11-07,Southern California,,Florida Gulf Coast,REG (Non-Conf),L 61-74,*,19,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,1,2,0,1,0,3,1,5,0.1,H,0,1,reese-waters-1,Reese Dixon-Waters,2023
+2,45,2,2022-11-10,Southern California,,Alabama State,REG (Non-Conf),W 96-58,*,20,5,9,0.556,3,4,0.75,2,5,0.4,0.722,0,1,0.0,1,2,3,0,0,0,0,1,13,9.2,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+3,46,3,2022-11-15,Southern California,,Vermont,REG (Non-Conf),W 59-57,*,30,4,12,0.333,1,5,0.2,3,7,0.429,0.375,4,6,0.667,1,3,4,0,0,0,2,2,13,4.2,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+4,47,4,2022-11-18,Southern California,,Mount St. Mary's,REG (Non-Conf),W 83-74,*,27,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,3,3,0,2,1,0,3,6,6.0,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+5,48,5,2022-11-23,Southern California,N,Brigham Young,REG (Non-Conf),W 82-76,*,34,6,11,0.545,1,4,0.25,5,7,0.714,0.591,0,0,,0,2,2,1,1,0,1,1,13,8.6,N,1,1,reese-waters-1,Reese Dixon-Waters,2023
+6,49,6,2022-11-24,Southern California,N,Tennessee,REG (Non-Conf),L 66-73 (OT),*,40,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,2,1.0,0,5,5,0,1,2,5,4,6,-1.5,N,0,1,reese-waters-1,Reese Dixon-Waters,2023
+7,50,7,2022-11-25,Southern California,N,Wisconsin,REG (Non-Conf),L 59-64,*,20,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,2,2,4,0,0,0,3,3,7,1.1,N,0,1,reese-waters-1,Reese Dixon-Waters,2023
+8,51,8,2022-11-30,Southern California,@,California,REG (Conf),W 66-51,,25,6,10,0.6,2,4,0.5,4,6,0.667,0.7,3,3,1.0,2,4,6,1,0,0,3,2,17,11.9,A,1,1,reese-waters-1,Reese Dixon-Waters,2023
+9,52,9,2022-12-04,Southern California,,Oregon State,REG (Conf),W 63-62,,30,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,5,0.8,0,1,1,2,1,0,1,0,8,5.9,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+10,53,10,2022-12-07,Southern California,,Cal State Fullerton,REG (Non-Conf),W 64-50,,27,3,9,0.333,0,2,0.0,3,7,0.429,0.333,3,4,0.75,0,1,1,1,2,0,2,1,9,4.1,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+11,54,11,2022-12-14,Southern California,,Long Beach State,REG (Non-Conf),W 88-78,,26,8,12,0.667,2,4,0.5,6,8,0.75,0.75,2,2,1.0,1,2,3,4,2,2,3,1,20,18.9,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+12,55,12,2022-12-18,Southern California,,Auburn,REG (Non-Conf),W 74-71,,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,0,1,1,2,0,0,1,4,3.6,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+13,56,13,2022-12-21,Southern California,N,Colorado State,REG (Non-Conf),W 73-64,,19,3,7,0.429,1,2,0.5,2,5,0.4,0.5,3,4,0.75,2,1,3,2,0,0,3,0,10,6.0,N,1,1,reese-waters-1,Reese Dixon-Waters,2023
+14,57,14,2022-12-30,Southern California,@,Washington,REG (Conf),W 80-67,,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,0,2,1,1,0,3,3,4,-0.5,A,1,1,reese-waters-1,Reese Dixon-Waters,2023
+15,58,15,2023-01-01,Southern California,@,Washington State,REG (Conf),L 71-81,,25,3,7,0.429,0,4,0.0,3,3,1.0,0.429,1,2,0.5,0,3,3,2,0,0,1,2,7,3.4,A,0,1,reese-waters-1,Reese Dixon-Waters,2023
+16,59,16,2023-01-05,Southern California,@,UCLA,REG (Conf),L 58-60,,27,7,7,1.0,0,0,,7,7,1.0,1.0,2,2,1.0,2,2,4,2,0,0,2,1,16,14.9,A,0,1,reese-waters-1,Reese Dixon-Waters,2023
+17,60,17,2023-01-12,Southern California,,Colorado,REG (Conf),W 68-61,,25,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,1,1,2,1,1,2,0,3,9,5.8,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+18,61,18,2023-01-14,Southern California,,Utah,REG (Conf),W 71-56,,28,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,1,5,6,4,0,2,3,2,11,8.2,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+19,62,19,2023-01-19,Southern California,@,Arizona,REG (Conf),L 66-81,,24,4,10,0.4,0,3,0.0,4,7,0.571,0.4,0,0,,1,3,4,0,0,0,1,3,8,2.0,A,0,1,reese-waters-1,Reese Dixon-Waters,2023
+20,63,20,2023-01-21,Southern California,@,Arizona State,REG (Conf),W 77-69,,15,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,0,0,2,1,0,4,3,2,-2.2,A,1,1,reese-waters-1,Reese Dixon-Waters,2023
+21,64,21,2023-01-26,Southern California,,UCLA,REG (Conf),W 77-64,,14,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,1,1,1,0,0,1,2,5,0.8,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+22,65,22,2023-02-02,Southern California,,Washington State,REG (Conf),W 80-70,,27,2,7,0.286,0,2,0.0,2,5,0.4,0.286,4,4,1.0,0,2,2,2,2,1,4,3,8,3.4,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+23,66,27,2023-02-18,Southern California,,Stanford,REG (Conf),W 85-75,,28,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,2,1.0,0,1,1,1,2,1,3,2,12,7.9,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+24,67,28,2023-02-23,Southern California,@,Colorado,REG (Conf),W 84-65,,23,5,8,0.625,2,3,0.667,3,5,0.6,0.75,3,5,0.6,0,5,5,2,0,0,0,4,15,11.9,A,1,1,reese-waters-1,Reese Dixon-Waters,2023
+25,68,29,2023-02-25,Southern California,@,Utah,REG (Conf),W 62-49,,28,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,3,0.667,1,5,6,0,0,0,1,2,9,5.3,A,1,1,reese-waters-1,Reese Dixon-Waters,2023
+26,69,30,2023-03-02,Southern California,,Arizona,REG (Conf),L 81-87,,35,7,15,0.467,2,4,0.5,5,11,0.455,0.533,1,2,0.5,0,6,6,0,1,1,2,3,17,9.2,H,0,1,reese-waters-1,Reese Dixon-Waters,2023
+27,70,31,2023-03-04,Southern California,,Arizona State,REG (Conf),W 68-65,*,24,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,1,3,4,0,1,0,2,3,3,-0.1,H,1,1,reese-waters-1,Reese Dixon-Waters,2023
+28,71,32,2023-03-09,Southern California,N,Arizona State,CTOURN,L 72-77,,26,5,9,0.556,1,4,0.25,4,5,0.8,0.611,5,8,0.625,1,4,5,1,0,0,1,4,16,10.5,N,0,0,reese-waters-1,Reese Dixon-Waters,2023
+29,72,33,2023-03-17,Southern California,N,Michigan State,ROUND-64,L 62-72,,30,4,11,0.364,2,4,0.5,2,7,0.286,0.455,0,0,,1,3,4,2,0,0,1,2,10,5.1,N,0,0,reese-waters-1,Reese Dixon-Waters,2023

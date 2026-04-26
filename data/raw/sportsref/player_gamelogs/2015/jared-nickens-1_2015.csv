@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Maryland,,Wagner,REG (Non-Conf),W 82-48,,22,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,1,0,1,1,0,1,1,2,5,3.6,H,1,1,jared-nickens-1,Jared Nickens,2015
+2,2,2,2014-11-17,Maryland,,Central Connecticut State,REG (Non-Conf),W 93-57,,18,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,0,2,2,1,2,0,1,1,5,4.5,H,1,1,jared-nickens-1,Jared Nickens,2015
+3,3,3,2014-11-20,Maryland,,Fordham,REG (Non-Conf),W 66-50,,20,4,12,0.333,2,7,0.286,2,5,0.4,0.417,3,4,0.75,4,2,6,0,1,0,0,2,13,9.4,H,1,1,jared-nickens-1,Jared Nickens,2015
+4,4,4,2014-11-24,Maryland,N,Arizona State,REG (Non-Conf),W 78-73,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,1,jared-nickens-1,Jared Nickens,2015
+5,5,5,2014-11-25,Maryland,N,Iowa State,REG (Non-Conf),W 72-63,,20,6,10,0.6,3,7,0.429,3,3,1.0,0.75,0,0,,0,1,1,1,0,0,0,2,15,10.6,N,1,1,jared-nickens-1,Jared Nickens,2015
+6,6,6,2014-11-28,Maryland,,Monmouth,REG (Non-Conf),W 61-56,,20,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,2,2,0,0,0,0,1,8,5.9,H,1,1,jared-nickens-1,Jared Nickens,2015
+7,7,7,2014-11-30,Maryland,,VMI,REG (Non-Conf),W 95-77,,27,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,2,0,1,1,1,2,-0.8,H,1,1,jared-nickens-1,Jared Nickens,2015
+8,8,8,2014-12-03,Maryland,,Virginia,REG (Non-Conf),L 65-76,,19,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,1,6,3.6,H,0,1,jared-nickens-1,Jared Nickens,2015
+9,9,9,2014-12-06,Maryland,,Winthrop,REG (Non-Conf),W 82-62,,24,4,8,0.5,3,6,0.5,1,2,0.5,0.688,1,2,0.5,1,1,2,1,1,0,1,1,12,8.9,H,1,1,jared-nickens-1,Jared Nickens,2015
+10,10,10,2014-12-10,Maryland,,North Carolina Central,REG (Non-Conf),W 67-56,,32,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,4,4,1,0,0,1,0,6,3.5,H,1,1,jared-nickens-1,Jared Nickens,2015
+11,11,11,2014-12-13,Maryland,,USC Upstate,REG (Non-Conf),W 67-57,*,30,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,1,6,2.2,H,1,1,jared-nickens-1,Jared Nickens,2015
+12,12,12,2014-12-21,Maryland,@,Oklahoma State,REG (Non-Conf),W 73-64,*,21,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,1,1,2,0,0,0,1,1,11,7.3,A,1,1,jared-nickens-1,Jared Nickens,2015
+13,13,13,2014-12-27,Maryland,,Oakland,REG (Non-Conf),W 72-56,*,19,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,0,0,1,0,0,3,1.6,H,1,1,jared-nickens-1,Jared Nickens,2015
+14,14,14,2014-12-30,Maryland,@,Michigan State,REG (Conf),W 68-66 (2OT),,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-1.1,A,1,1,jared-nickens-1,Jared Nickens,2015
+15,15,15,2015-01-03,Maryland,,Minnesota,REG (Conf),W 70-58,,7,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,0,0,1,0,3,0.6,H,1,1,jared-nickens-1,Jared Nickens,2015
+16,16,16,2015-01-07,Maryland,@,Illinois,REG (Conf),L 57-64,,18,2,5,0.4,2,5,0.4,0,0,,0.6,1,2,0.5,0,1,1,1,0,0,0,1,7,4.5,A,0,1,jared-nickens-1,Jared Nickens,2015
+17,17,17,2015-01-10,Maryland,@,Purdue,REG (Conf),W 69-60,*,15,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,0,2,3,-0.2,A,1,1,jared-nickens-1,Jared Nickens,2015
+18,18,18,2015-01-14,Maryland,,Rutgers,REG (Conf),W 73-65,*,21,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,1,1,1,0,1,0,0,12,10.4,H,1,1,jared-nickens-1,Jared Nickens,2015
+19,19,19,2015-01-17,Maryland,,Michigan State,REG (Conf),W 75-59,*,22,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,0,0,1,0,1,0,2,8,5.6,H,1,1,jared-nickens-1,Jared Nickens,2015
+20,20,20,2015-01-22,Maryland,@,Indiana,REG (Conf),L 70-89,*,19,4,8,0.5,4,7,0.571,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,1,3,12,5.8,A,0,1,jared-nickens-1,Jared Nickens,2015
+21,21,21,2015-01-25,Maryland,,Northwestern,REG (Conf),W 68-67,*,31,3,11,0.273,2,5,0.4,1,6,0.167,0.364,0,1,0.0,2,4,6,1,0,0,0,0,8,4.4,H,1,1,jared-nickens-1,Jared Nickens,2015
+22,22,22,2015-01-29,Maryland,@,Ohio State,REG (Conf),L 56-80,,17,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,0,0,0,1,0,0,2,6,2.1,A,0,1,jared-nickens-1,Jared Nickens,2015
+23,23,23,2015-02-04,Maryland,,Penn State,REG (Conf),W 64-58,*,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,jared-nickens-1,Jared Nickens,2015
+24,24,24,2015-02-08,Maryland,@,Iowa,REG (Conf),L 55-71,,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,0,0,-2.8,A,0,1,jared-nickens-1,Jared Nickens,2015
+25,25,25,2015-02-11,Maryland,,Indiana,REG (Conf),W 68-66,,19,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,0,1,6,3.6,H,1,1,jared-nickens-1,Jared Nickens,2015
+26,26,26,2015-02-14,Maryland,@,Penn State,REG (Conf),W 76-73,,20,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,0,0,1,0,1,0,0,6,3.3,A,1,1,jared-nickens-1,Jared Nickens,2015
+27,27,27,2015-02-19,Maryland,,Nebraska,REG (Conf),W 69-65,,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,0,0,0,0,0,3,2.9,H,1,1,jared-nickens-1,Jared Nickens,2015
+28,28,28,2015-02-24,Maryland,,Wisconsin,REG (Conf),W 59-53,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,0,0,1,0,0,5,5.7,H,1,1,jared-nickens-1,Jared Nickens,2015
+29,29,29,2015-02-28,Maryland,,Michigan,REG (Conf),W 66-56,,17,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,3,3,1,0,0,0,0,9,8.3,H,1,1,jared-nickens-1,Jared Nickens,2015
+30,30,30,2015-03-03,Maryland,@,Rutgers,REG (Conf),W 60-50,,9,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,1,0,1,1,0,-2.3,A,1,1,jared-nickens-1,Jared Nickens,2015
+31,31,31,2015-03-08,Maryland,@,Nebraska,REG (Conf),W 64-61,,19,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,1,0,2,3,1.2,A,1,1,jared-nickens-1,Jared Nickens,2015
+32,32,32,2015-03-13,Maryland,N,Indiana,CTOURN,W 75-69,,17,3,10,0.3,2,6,0.333,1,4,0.25,0.4,2,3,0.667,1,0,1,0,1,0,0,1,10,5.1,N,1,0,jared-nickens-1,Jared Nickens,2015
+33,33,33,2015-03-14,Maryland,N,Michigan State,CTOURN,L 58-62,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.8,N,0,0,jared-nickens-1,Jared Nickens,2015
+34,34,34,2015-03-20,Maryland,N,Valparaiso,ROUND-64,W 65-62,,21,4,7,0.571,4,7,0.571,0,0,,0.857,2,2,1.0,0,2,2,0,0,0,0,0,14,11.3,N,1,0,jared-nickens-1,Jared Nickens,2015
+35,35,35,2015-03-22,Maryland,N,West Virginia,ROUND-32,L 59-69,,22,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,1,1.0,2,0,2,0,0,0,1,0,6,2.3,N,0,0,jared-nickens-1,Jared Nickens,2015

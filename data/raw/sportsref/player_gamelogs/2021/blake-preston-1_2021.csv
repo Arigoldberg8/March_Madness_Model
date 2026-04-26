@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,15,1,2020-11-25,Liberty,N,Purdue,REG (Non-Conf),L 64-77,,13,2,3,0.667,0,0,,2,3,0.667,0.667,0,3,0.0,2,0,2,0,0,0,1,2,4,1.1,N,0,1,blake-preston-1,Blake Preston,2021
+2,16,2,2020-11-26,Liberty,N,Mississippi State,REG (Non-Conf),W 84-73,,23,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,4,1,5,0,0,2,1,3,11,11.0,N,1,1,blake-preston-1,Blake Preston,2021
+3,17,3,2020-11-28,Liberty,N,South Carolina,REG (Non-Conf),W 78-62,,12,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,0,4,4,4,0,2,0,1,6,8.6,N,1,1,blake-preston-1,Blake Preston,2021
+4,18,4,2020-11-29,Liberty,N,TCU,REG (Non-Conf),L 52-56,,18,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,4,4,2,0,0,1,2,5,4.1,N,0,1,blake-preston-1,Blake Preston,2021
+5,19,5,2020-12-03,Liberty,,Saint Francis (PA),REG (Non-Conf),W 78-62,,16,3,3,1.0,0,0,,3,3,1.0,1.0,1,1,1.0,1,6,7,1,0,0,1,3,7,7.1,H,1,1,blake-preston-1,Blake Preston,2021
+6,20,6,2020-12-05,Liberty,,Bluefield Univ.,REG (Non-Conf),W 86-64,,10,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,3,6,1,1,0,1,0,6,8.8,H,1,1,blake-preston-1,Blake Preston,2021
+7,21,7,2020-12-09,Liberty,@,Missouri,REG (Non-Conf),L 60-69,,15,4,7,0.571,0,0,,4,7,0.571,0.571,4,8,0.5,3,2,5,0,0,0,2,4,12,6.2,A,0,1,blake-preston-1,Blake Preston,2021
+8,22,8,2020-12-12,Liberty,,Columbia Intl,REG (Non-Conf),W 73-26,,12,5,5,1.0,0,0,,5,5,1.0,1.0,1,1,1.0,1,5,6,2,1,0,1,2,11,12.3,H,1,1,blake-preston-1,Blake Preston,2021
+9,23,9,2020-12-15,Liberty,,South Carolina State,REG (Non-Conf),W 82-52,*,17,5,7,0.714,0,0,,5,7,0.714,0.714,3,6,0.5,7,4,11,1,1,0,0,1,13,16.3,H,1,1,blake-preston-1,Blake Preston,2021
+10,24,10,2020-12-16,Liberty,,Carver,REG (Non-Conf),W 91-38,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,5,7,1,1,0,0,1,3,5.1,H,1,1,blake-preston-1,Blake Preston,2021
+11,25,11,2020-12-22,Liberty,,Alcorn State,REG (Non-Conf),W 108-65,*,20,7,7,1.0,0,0,,7,7,1.0,1.0,2,4,0.5,1,8,9,0,1,1,1,2,16,16.1,H,1,1,blake-preston-1,Blake Preston,2021
+12,26,12,2021-01-01,Liberty,@,Lipscomb,REG (Conf),L 70-77,*,27,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,2,9,11,0,1,1,2,1,12,10.7,A,0,1,blake-preston-1,Blake Preston,2021
+13,27,13,2021-01-02,Liberty,@,Lipscomb,REG (Conf),W 66-50,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,8,9,0,1,1,1,3,4,4.6,A,1,1,blake-preston-1,Blake Preston,2021
+14,28,14,2021-01-08,Liberty,,Kennesaw State,REG (Conf),W 69-63,*,22,7,11,0.636,0,1,0.0,7,10,0.7,0.636,3,6,0.5,1,3,4,2,0,2,1,1,17,13.9,H,1,1,blake-preston-1,Blake Preston,2021
+15,29,15,2021-01-09,Liberty,,Kennesaw State,REG (Conf),W 76-47,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,2,3,5,4,0,0,0,1,11,14.1,H,1,1,blake-preston-1,Blake Preston,2021
+16,30,16,2021-01-15,Liberty,@,Stetson,REG (Conf),L 59-65,*,21,5,8,0.625,0,0,,5,8,0.625,0.625,1,3,0.333,0,6,6,3,0,0,1,3,11,8.3,A,0,1,blake-preston-1,Blake Preston,2021
+17,31,17,2021-01-16,Liberty,@,Stetson,REG (Conf),W 68-58,*,18,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,2,7,9,3,0,1,2,0,8,9.3,A,1,1,blake-preston-1,Blake Preston,2021
+18,32,18,2021-01-29,Liberty,@,Jacksonville,REG (Conf),W 59-54,*,16,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,1,5,6,1,2,0,1,2,8,7.4,A,1,1,blake-preston-1,Blake Preston,2021
+19,33,19,2021-01-30,Liberty,@,Jacksonville,REG (Conf),W 64-58,*,15,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,3,3,0,0,1,1,4,0,-3.1,A,1,1,blake-preston-1,Blake Preston,2021
+20,34,20,2021-02-05,Liberty,,Lancaster Bible,REG (Non-Conf),W 90-49,*,18,7,8,0.875,0,0,,7,8,0.875,0.875,3,4,0.75,5,4,9,2,1,0,0,2,17,20.1,H,1,1,blake-preston-1,Blake Preston,2021
+21,35,21,2021-02-12,Liberty,,North Florida,REG (Conf),W 73-61,*,19,5,9,0.556,0,0,,5,9,0.556,0.556,4,5,0.8,4,6,10,2,0,0,2,1,14,12.9,H,1,1,blake-preston-1,Blake Preston,2021
+22,36,22,2021-02-13,Liberty,,North Florida,REG (Conf),W 80-60,*,19,1,5,0.2,0,0,,1,5,0.2,0.2,6,6,1.0,4,2,6,0,1,0,2,4,8,5.7,H,1,1,blake-preston-1,Blake Preston,2021
+23,37,23,2021-02-22,Liberty,,North Alabama,REG (Conf),W 74-54,*,18,2,4,0.5,0,0,,2,4,0.5,0.5,4,6,0.667,0,6,6,0,1,0,0,2,8,7.2,H,1,1,blake-preston-1,Blake Preston,2021
+24,38,24,2021-02-23,Liberty,,North Alabama,REG (Conf),W 74-54,*,15,0,0,,0,0,,0,0,,,2,2,1.0,0,3,3,3,0,0,1,1,2,3.6,H,1,1,blake-preston-1,Blake Preston,2021
+25,39,25,2021-02-27,Liberty,@,Bellarmine,REG (Conf),W 94-78,*,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,0,2,1,0,0,0,1,4,5.1,A,1,1,blake-preston-1,Blake Preston,2021
+26,40,26,2021-03-04,Liberty,N,Kennesaw State,CTOURN,W 69-59,*,16,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,4,5,1,1,0,1,1,8,6.9,N,1,0,blake-preston-1,Blake Preston,2021
+27,41,27,2021-03-05,Liberty,N,Stetson,CTOURN,W 77-64,*,18,6,8,0.75,0,0,,6,8,0.75,0.75,1,1,1.0,5,5,10,2,0,0,0,4,13,14.6,N,1,0,blake-preston-1,Blake Preston,2021
+28,42,28,2021-03-07,Liberty,N,North Alabama,CTOURN,W 79-75,*,22,2,7,0.286,0,0,,2,7,0.286,0.286,6,6,1.0,4,4,8,2,1,0,1,0,10,11.3,N,1,0,blake-preston-1,Blake Preston,2021
+29,43,29,2021-03-19,Liberty,N,Oklahoma State,ROUND-64,L 60-69,*,29,4,11,0.364,0,0,,4,11,0.364,0.364,3,5,0.6,1,6,7,1,2,1,3,1,11,6.6,N,0,0,blake-preston-1,Blake Preston,2021

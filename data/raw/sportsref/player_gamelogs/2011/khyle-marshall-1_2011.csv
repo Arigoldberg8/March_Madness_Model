@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-13,Butler,,Marian (IN),REG (Non-Conf),W 83-54,,14,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,0,3,3,0,1,2,0,1,9,10.0,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+2,2,2,2010-11-16,Butler,@,Louisville,REG (Non-Conf),L 73-88,,16,1,5,0.2,0,0,,1,5,0.2,0.2,1,1,1.0,2,2,4,0,1,0,0,2,3,2.1,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+3,3,3,2010-11-20,Butler,,Ball State,REG (Non-Conf),W 88-55,*,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,6,0.667,0,3,3,0,0,1,1,3,6,2.9,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+4,4,4,2010-11-23,Butler,@,Siena,REG (Non-Conf),W 70-57,*,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+5,5,5,2010-11-27,Butler,,Evansville,REG (Non-Conf),L 68-71 (OT),*,15,1,6,0.167,0,0,,1,6,0.167,0.167,1,2,0.5,2,4,6,0,0,0,2,2,3,-1.4,H,0,1,khyle-marshall-1,Khyle Marshall,2011
+6,6,6,2010-12-01,Butler,@,Loyola Chicago,REG (Conf),W 65-63,,9,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,4,2,6,1,0,0,0,2,9,7.9,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+7,7,7,2010-12-04,Butler,N,Duke,REG (Non-Conf),L 70-82,,12,0,2,0.0,0,0,,0,2,0.0,0.0,2,6,0.333,1,1,2,1,0,0,0,1,2,0.3,N,0,1,khyle-marshall-1,Khyle Marshall,2011
+8,8,8,2010-12-09,Butler,@,Xavier,REG (Non-Conf),L 49-51,,18,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,4,4,0,0,0,2,2,4,-0.3,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+9,9,9,2010-12-11,Butler,,Mississippi Valley State,REG (Non-Conf),W 91-71,,15,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,3,2,5,0,0,0,0,1,5,4.9,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+10,10,10,2010-12-18,Butler,,Stanford,REG (Non-Conf),W 83-50,,14,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,3,5,0,0,0,1,2,5,3.5,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+11,11,11,2010-12-22,Butler,N,Utah,REG (Non-Conf),W 74-62,,26,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,3,3,6,0,1,0,0,1,11,11.3,N,1,1,khyle-marshall-1,Khyle Marshall,2011
+12,12,12,2010-12-23,Butler,N,Florida State,REG (Non-Conf),W 67-64,,20,1,5,0.2,0,0,,1,5,0.2,0.2,1,3,0.333,2,0,2,1,0,0,1,3,3,-1.0,N,1,1,khyle-marshall-1,Khyle Marshall,2011
+13,13,13,2010-12-25,Butler,N,Washington State,REG (Non-Conf),W 84-68,,13,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,0,2,2,0,0,0,0,3,6,3.3,N,1,1,khyle-marshall-1,Khyle Marshall,2011
+14,14,14,2011-01-01,Butler,,Valparaiso,REG (Conf),W 76-59,,16,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,2,3,5,0,0,1,1,2,10,9.6,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+15,15,15,2011-01-03,Butler,@,Milwaukee,REG (Conf),L 52-76,,13,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,1,3,0,0,0,1,2,2,-1.2,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+16,16,16,2011-01-07,Butler,,Cleveland State,REG (Conf),W 79-56,,17,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,0,3,3,0,1,0,1,2,11,8.1,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+17,17,17,2011-01-09,Butler,,Youngstown State,REG (Conf),W 84-79,,12,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,0,2,2,0,0,1,0,0,7,7.0,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+18,18,18,2011-01-14,Butler,@,Detroit Mercy,REG (Conf),W 87-64,,20,7,10,0.7,0,0,,7,10,0.7,0.7,2,6,0.333,3,4,7,0,0,0,0,2,16,12.7,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+19,19,19,2011-01-16,Butler,@,Wright State,REG (Conf),L 64-69,,12,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,0,1,0,0,0,0,2,6,3.9,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+20,20,20,2011-01-21,Butler,,Green Bay,REG (Conf),W 81-75,,20,4,7,0.571,0,0,,4,7,0.571,0.571,0,3,0.0,0,3,3,3,1,1,0,4,8,6.6,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+21,21,21,2011-01-23,Butler,,Milwaukee,REG (Conf),L 80-86 (OT),,34,7,13,0.538,0,0,,7,13,0.538,0.538,0,1,0.0,6,4,10,0,0,1,2,5,14,9.4,H,0,1,khyle-marshall-1,Khyle Marshall,2011
+22,22,22,2011-01-29,Butler,@,Valparaiso,REG (Conf),L 79-85 (OT),,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,1,3,4,0,1,0,2,2,7,4.4,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+23,23,23,2011-02-03,Butler,@,Youngstown State,REG (Conf),L 60-62,,18,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,3,5,0,1,0,2,2,6,2.8,A,0,1,khyle-marshall-1,Khyle Marshall,2011
+24,24,24,2011-02-05,Butler,@,Cleveland State,REG (Conf),W 73-61,,15,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,2,1,3,0,0,0,0,4,12,8.9,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+25,25,25,2011-02-07,Butler,,Illinois–Chicago,REG (Conf),W 72-65,,26,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,3,0.333,1,3,4,1,2,0,1,1,11,9.5,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+26,26,26,2011-02-10,Butler,,Wright State,REG (Conf),W 71-63,,14,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,2,2,2,1,0,1,0,3,4.3,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+27,27,27,2011-02-12,Butler,,Detroit Mercy,REG (Conf),W 66-51,,6,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-2.5,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+28,28,28,2011-02-15,Butler,@,Green Bay,REG (Conf),W 64-62,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,5,2,-0.7,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+29,29,29,2011-02-19,Butler,@,Illinois–Chicago,REG (Conf),W 79-52,,13,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,1,2,0,0,0,0,2,5,2.8,A,1,1,khyle-marshall-1,Khyle Marshall,2011
+30,30,30,2011-02-26,Butler,,Loyola Chicago,REG (Conf),W 63-56,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,khyle-marshall-1,Khyle Marshall,2011
+31,31,31,2011-03-05,Butler,N,Cleveland State,CTOURN,W 76-68,,14,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,3,4,1,0,0,1,2,3,2.8,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+32,32,32,2011-03-08,Butler,@,Milwaukee,CTOURN,W 59-44,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,A,1,0,khyle-marshall-1,Khyle Marshall,2011
+33,33,33,2011-03-17,Butler,N,Old Dominion,ROUND-64,W 60-58,,7,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,3,0,3,0,1,0,1,0,0,0.0,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+34,34,34,2011-03-19,Butler,N,Pittsburgh,ROUND-32,W 71-70,,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,3,6,0,1,0,1,4,6,5.4,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+35,35,35,2011-03-24,Butler,N,Wisconsin,ROUND-16,W 61-54,,18,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,4,3,7,0,1,1,0,4,7,9.5,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+36,36,36,2011-03-26,Butler,N,Florida,ROUND-8,W 74-71 (OT),,21,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,7,0,7,0,0,0,0,3,10,10.3,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+37,37,37,2011-04-02,Butler,N,VCU,NATIONAL-SEMI,W 70-62,,25,3,8,0.375,0,0,,3,8,0.375,0.375,0,1,0.0,5,4,9,0,1,0,1,3,6,4.7,N,1,0,khyle-marshall-1,Khyle Marshall,2011
+38,38,38,2011-04-04,Butler,N,Connecticut,NATIONAL-FINAL,L 41-53,,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,2,0.0,1,1,2,0,0,0,0,2,0,-2.0,N,0,0,khyle-marshall-1,Khyle Marshall,2011

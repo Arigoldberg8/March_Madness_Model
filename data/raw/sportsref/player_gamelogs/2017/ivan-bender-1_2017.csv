@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,11,1,2016-11-11,Maryland,,American,REG (Non-Conf),W 62-56,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,1,0,0,0.0,H,1,1,ivan-bender-1,Ivan Bender,2017
+2,12,2,2016-11-15,Maryland,@,Georgetown,REG (Non-Conf),W 76-75,,11,3,3,1.0,0,0,3,3,1.0,1.0,3,6,0.5,3,3,6,0,0,0,1,3,9,7.7,A,1,1,ivan-bender-1,Ivan Bender,2017
+3,13,3,2016-11-17,Maryland,,St. Mary's (MD),REG (Non-Conf),W 93-45,,18,2,3,0.667,0,0,2,3,0.667,0.667,2,6,0.333,5,2,7,3,0,2,1,2,6,8.9,H,1,1,ivan-bender-1,Ivan Bender,2017
+4,14,4,2016-11-20,Maryland,,Towson,REG (Non-Conf),W 71-66,,10,0,0,,0,0,0,0,,,0,0,,1,1,2,2,0,0,1,3,0,0.2,H,1,1,ivan-bender-1,Ivan Bender,2017
+5,15,5,2016-11-22,Maryland,,Stony Brook,REG (Non-Conf),W 77-63,*,11,0,0,,0,0,0,0,,,3,4,0.75,1,0,1,2,0,0,2,4,3,1.1,H,1,1,ivan-bender-1,Ivan Bender,2017
+6,16,6,2016-11-25,Maryland,N,Richmond,REG (Non-Conf),W 88-82 (OT),*,25,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,2,2,4,2,0,1,2,2,7,5.2,N,1,1,ivan-bender-1,Ivan Bender,2017
+7,17,7,2016-11-26,Maryland,N,Kansas State,REG (Non-Conf),W 69-68,*,9,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,0,0,0,1,0,0,0,2,8,7.0,N,1,1,ivan-bender-1,Ivan Bender,2017
+8,18,8,2016-11-29,Maryland,,Pittsburgh,REG (Non-Conf),L 59-73,,10,0,0,,0,0,0,0,,,0,0,,0,3,3,0,0,0,0,1,0,0.5,H,0,1,ivan-bender-1,Ivan Bender,2017
+9,19,10,2016-12-07,Maryland,,Howard,REG (Non-Conf),W 79-56,,17,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,1,0,0,1,1,2,2.9,H,1,1,ivan-bender-1,Ivan Bender,2017
+10,20,11,2016-12-10,Maryland,,Saint Peter's,REG (Non-Conf),W 66-56,,17,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,3,3,1,0,0,1,2,2,0.8,H,1,1,ivan-bender-1,Ivan Bender,2017
+11,21,12,2016-12-12,Maryland,,Jacksonville State,REG (Non-Conf),W 92-66,,19,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,1,2,3,1,0,0,0,2,10,8.3,H,1,1,ivan-bender-1,Ivan Bender,2017
+12,22,13,2016-12-20,Maryland,N,Charlotte,REG (Non-Conf),W 88-72,,13,4,4,1.0,0,0,4,4,1.0,1.0,2,4,0.5,1,3,4,0,1,0,3,4,10,6.0,N,1,1,ivan-bender-1,Ivan Bender,2017
+13,23,14,2016-12-27,Maryland,,Illinois,REG (Conf),W 84-59,*,17,3,3,1.0,0,0,3,3,1.0,1.0,1,3,0.333,0,5,5,0,0,0,2,3,7,3.6,H,1,1,ivan-bender-1,Ivan Bender,2017
+14,24,15,2017-01-01,Maryland,,Nebraska,REG (Conf),L 65-67,*,16,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,3,2,5,0,0,0,2,4,0,-3.7,H,0,1,ivan-bender-1,Ivan Bender,2017
+15,25,16,2017-01-07,Maryland,@,Michigan,REG (Conf),W 77-70,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,1,2,2.3,A,1,1,ivan-bender-1,Ivan Bender,2017
+16,26,17,2017-01-10,Maryland,,Indiana,REG (Conf),W 75-72,,6,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,1,1,2,0.6,H,1,1,ivan-bender-1,Ivan Bender,2017
+17,27,18,2017-01-14,Maryland,@,Illinois,REG (Conf),W 62-56,,20,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,1,2,1,1,2,1,3,3,3.5,A,1,1,ivan-bender-1,Ivan Bender,2017
+18,28,19,2017-01-19,Maryland,@,Iowa,REG (Conf),W 84-76,,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,7,8,1,1,0,1,2,6,7.1,A,1,1,ivan-bender-1,Ivan Bender,2017
+19,29,20,2017-01-24,Maryland,,Rutgers,REG (Conf),W 67-55,,14,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,0,3,3,1,1,2,1,3,6,7.2,H,1,1,ivan-bender-1,Ivan Bender,2017
+20,30,21,2017-01-28,Maryland,@,Minnesota,REG (Conf),W 85-78,,18,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,1,2,0,0,1,1,5,8,4.8,A,1,1,ivan-bender-1,Ivan Bender,2017
+21,31,22,2017-01-31,Maryland,@,Ohio State,REG (Conf),W 77-71,,10,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,2,1,3,0,0,0,0,2,2,1.5,A,1,1,ivan-bender-1,Ivan Bender,2017
+22,32,23,2017-02-04,Maryland,,Purdue,REG (Conf),L 72-73,,6,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,1,2,1,0,0,0,1,2,1.6,H,0,1,ivan-bender-1,Ivan Bender,2017
+23,33,24,2017-02-07,Maryland,@,Penn State,REG (Conf),L 64-70,,8,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,0,2,2,0,0,0,1,2,6,2.8,A,0,1,ivan-bender-1,Ivan Bender,2017
+24,34,25,2017-02-11,Maryland,,Ohio State,REG (Conf),W 86-77,,15,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,0,2,2,3,0,0,1,3,6,5.9,H,1,1,ivan-bender-1,Ivan Bender,2017
+25,35,26,2017-02-15,Maryland,@,Northwestern,REG (Conf),W 74-64,,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,2,2,0,-2.9,A,1,1,ivan-bender-1,Ivan Bender,2017
+26,36,27,2017-02-19,Maryland,@,Wisconsin,REG (Conf),L 60-71,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,0,3,2,-0.3,A,0,1,ivan-bender-1,Ivan Bender,2017
+27,37,28,2017-02-22,Maryland,,Minnesota,REG (Conf),L 75-89,,16,7,10,0.7,0,0,7,10,0.7,0.7,1,2,0.5,1,4,5,2,0,0,0,1,15,13.3,H,0,1,ivan-bender-1,Ivan Bender,2017
+28,38,29,2017-02-25,Maryland,,Iowa,REG (Conf),L 69-83,,18,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,1,5,6,2,1,1,1,2,4,5.8,H,0,1,ivan-bender-1,Ivan Bender,2017
+29,39,30,2017-02-28,Maryland,@,Rutgers,REG (Conf),W 79-59,,22,5,6,0.833,0,0,5,6,0.833,0.833,0,1,0.0,0,1,1,3,0,1,1,3,10,8.3,A,1,1,ivan-bender-1,Ivan Bender,2017
+30,40,31,2017-03-04,Maryland,,Michigan State,REG (Conf),W 63-60,,13,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,0,2,2,0,0,2,1,2,6,5.6,H,1,1,ivan-bender-1,Ivan Bender,2017
+31,41,32,2017-03-10,Maryland,N,Northwestern,CTOURN,L 64-72,,18,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,3,2,1.8,N,0,0,ivan-bender-1,Ivan Bender,2017
+32,42,33,2017-03-16,Maryland,N,Xavier,ROUND-64,L 65-76,,17,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,1,3,0,0,0,0,3,8,5.9,N,0,0,ivan-bender-1,Ivan Bender,2017

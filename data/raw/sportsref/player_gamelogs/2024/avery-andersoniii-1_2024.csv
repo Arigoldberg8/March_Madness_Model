@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,110,1,2023-11-06,TCU,,Southern,REG (Non-Conf),W 108-75,,26,5,8,0.625,2,4,0.5,3,4,0.75,0.75,3,4,0.75,0,1,1,5,1,0,4,1,15,11.4,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+2,111,2,2023-11-09,TCU,,Omaha,REG (Non-Conf),W 82-60,,17,2,9,0.222,0,2,0.0,2,7,0.286,0.222,0,0,,0,1,1,5,2,0,1,3,4,2.1,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+3,112,3,2023-11-14,TCU,,Texas–Rio Grande Valley,REG (Non-Conf),W 88-55,,20,6,9,0.667,1,2,0.5,5,7,0.714,0.722,2,2,1.0,0,1,1,2,2,0,4,4,15,9.2,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+4,113,4,2023-11-17,TCU,,Mississippi Valley State,REG (Non-Conf),W 86-52,,18,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,2,0.5,0,0,0,3,4,1,0,3,12,14.3,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+5,114,5,2023-11-21,TCU,,Alcorn State,REG (Non-Conf),W 93-74,,23,1,6,0.167,0,3,0.0,1,3,0.333,0.167,5,5,1.0,0,4,4,5,1,0,2,1,7,6.5,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+6,115,6,2023-11-27,TCU,,Houston Christian,REG (Non-Conf),W 101-64,,24,4,8,0.5,0,1,0.0,4,7,0.571,0.5,1,2,0.5,0,2,2,5,4,0,0,1,9,12.3,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+7,116,7,2023-12-02,TCU,@,Georgetown,REG (Non-Conf),W 84-83,,27,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,2,5,7,2,0,0,2,2,11,8.8,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+8,117,8,2023-12-09,TCU,N,Clemson,REG (Non-Conf),L 66-74,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,1,0,1,3,2,1.2,N,0,1,avery-andersoniii-1,Avery Anderson III,2024
+9,118,9,2023-12-16,TCU,N,Arizona State,REG (Non-Conf),W 79-59,,21,2,9,0.222,0,3,0.0,2,6,0.333,0.222,2,2,1.0,1,1,2,7,1,0,2,0,6,5.4,N,1,1,avery-andersoniii-1,Avery Anderson III,2024
+10,119,10,2023-12-21,TCU,N,Old Dominion,REG (Non-Conf),W 111-87,,10,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,0,0,0,1,4,0,2,5,9,7.8,N,1,1,avery-andersoniii-1,Avery Anderson III,2024
+11,120,11,2023-12-22,TCU,N,Nevada,REG (Non-Conf),L 75-88,,24,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,3,3,2,0,0,2,4,11,5.7,N,0,1,avery-andersoniii-1,Avery Anderson III,2024
+12,121,12,2023-12-24,TCU,@,Hawaii,REG (Non-Conf),W 65-51,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,1,1,0,1,0,0,2,6,3.5,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+13,122,13,2024-01-01,TCU,,Texas A&M–Commerce,REG (Non-Conf),W 77-42,*,28,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,3,1.0,0,2,2,4,0,0,3,3,13,7.9,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+14,123,14,2024-01-06,TCU,@,Kansas,REG (Conf),L 81-83,*,20,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,3,1.0,1,1,2,4,6,0,2,4,7,9.1,A,0,1,avery-andersoniii-1,Avery Anderson III,2024
+15,124,15,2024-01-10,TCU,,Oklahoma,REG (Conf),W 80-71,*,30,5,15,0.333,2,4,0.5,3,11,0.273,0.4,3,4,0.75,0,1,1,5,2,1,1,3,15,10.4,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+16,125,16,2024-01-13,TCU,,Houston,REG (Conf),W 68-67,*,28,3,8,0.375,1,3,0.333,2,5,0.4,0.438,4,6,0.667,0,1,1,6,0,0,1,3,11,8.1,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+17,126,17,2024-01-16,TCU,@,Cincinnati,REG (Conf),L 77-81 (OT),*,25,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,6,0,1,6,4,3,-2.2,A,0,1,avery-andersoniii-1,Avery Anderson III,2024
+18,127,18,2024-01-20,TCU,,Iowa State,REG (Conf),L 72-73,*,26,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,5,5,2,0,2,7,1,7,1.6,H,0,1,avery-andersoniii-1,Avery Anderson III,2024
+19,128,19,2024-01-23,TCU,@,Oklahoma State,REG (Conf),W 74-69,*,28,6,9,0.667,1,3,0.333,5,6,0.833,0.722,2,2,1.0,1,2,3,4,1,1,1,4,15,14.3,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+20,129,20,2024-01-27,TCU,@,Baylor,REG (Conf),W 105-102 (3OT),*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,4,4,5,0,0,2,4,6,4.1,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+21,130,21,2024-01-30,TCU,,Texas Tech,REG (Conf),W 85-78,*,17,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,3,3,3,0,0,0,3,3,1.7,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+22,131,22,2024-02-03,TCU,,Texas,REG (Conf),L 66-77,*,28,6,10,0.6,1,1,1.0,5,9,0.556,0.65,0,0,,0,2,2,4,1,0,3,0,13,9.8,H,0,1,avery-andersoniii-1,Avery Anderson III,2024
+23,132,23,2024-02-10,TCU,@,Iowa State,REG (Conf),L 59-71,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,0,0,4,0,0,2,4,5,2.8,A,0,1,avery-andersoniii-1,Avery Anderson III,2024
+24,133,24,2024-02-12,TCU,,West Virginia,REG (Conf),W 81-65,,20,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,0,2,2,5,0,0,1,1,1,-0.2,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+25,134,25,2024-02-17,TCU,@,Kansas State,REG (Conf),W 75-72,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,1,1,1,0,0,1,3,4,0.1,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+26,135,26,2024-02-20,TCU,@,Texas Tech,REG (Conf),L 81-82,,27,6,13,0.462,2,4,0.5,4,9,0.444,0.538,1,1,1.0,0,5,5,4,2,0,2,4,15,11.0,A,0,1,avery-andersoniii-1,Avery Anderson III,2024
+27,136,27,2024-02-24,TCU,,Cincinnati,REG (Conf),W 75-57,*,29,3,11,0.273,2,3,0.667,1,8,0.125,0.364,1,2,0.5,0,1,1,1,4,2,1,2,9,6.7,H,1,1,avery-andersoniii-1,Avery Anderson III,2024
+28,137,28,2024-02-26,TCU,,Baylor,REG (Conf),L 54-62,*,28,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,2,2,3,2,0,5,1,7,2.9,H,0,1,avery-andersoniii-1,Avery Anderson III,2024
+29,138,29,2024-03-02,TCU,@,Brigham Young,REG (Conf),L 75-87,*,21,1,8,0.125,1,3,0.333,0,5,0.0,0.188,3,4,0.75,0,6,6,2,2,1,1,1,6,4.9,A,0,1,avery-andersoniii-1,Avery Anderson III,2024
+30,139,30,2024-03-06,TCU,@,West Virginia,REG (Conf),W 93-81,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,7,8,0.875,0,5,5,2,1,0,4,4,9,4.5,A,1,1,avery-andersoniii-1,Avery Anderson III,2024
+31,140,31,2024-03-09,TCU,,UCF,REG (Conf),L 77-79,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,3,0.333,1,3,4,1,0,0,3,2,1,-2.7,H,0,1,avery-andersoniii-1,Avery Anderson III,2024
+32,141,32,2024-03-13,TCU,N,Oklahoma,CTOURN,W 77-70,,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,2,1,2,1,0,-0.1,N,1,0,avery-andersoniii-1,Avery Anderson III,2024
+33,142,33,2024-03-14,TCU,N,Houston,CTOURN,L 45-60,,21,0,6,0.0,0,1,0.0,0,5,0.0,0.0,0,0,,0,2,2,1,3,0,1,2,0,-1.7,N,0,0,avery-andersoniii-1,Avery Anderson III,2024
+34,143,34,2024-03-22,TCU,N,Utah State,ROUND-64,L 72-88,,18,2,7,0.286,0,3,0.0,2,4,0.5,0.286,5,6,0.833,1,1,2,3,1,0,1,3,9,6.4,N,0,0,avery-andersoniii-1,Avery Anderson III,2024

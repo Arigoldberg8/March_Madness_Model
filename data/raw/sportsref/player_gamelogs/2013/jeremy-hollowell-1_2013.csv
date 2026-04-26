@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,Indiana,,Bryant,REG (Non-Conf),W 97-54,,17,4,9,0.444,0,3,0.0,4,6,0.667,0.444,4,4,1.0,2,0,2,0,1,1,3,1,12,7.0,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+2,2,2,2012-11-12,Indiana,,North Dakota State,REG (Non-Conf),W 87-61,,19,4,8,0.5,1,4,0.25,3,4,0.75,0.563,5,6,0.833,0,2,2,0,0,1,0,1,14,10.5,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+3,3,3,2012-11-15,Indiana,,Sam Houston State,REG (Non-Conf),W 99-45,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,6,0.333,4,2,6,0,0,0,1,2,4,2.3,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+4,4,4,2012-11-19,Indiana,N,Georgia,REG (Non-Conf),W 66-53,,13,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,3,5,0,0,0,3,4,3,-1.4,N,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+5,5,5,2012-11-20,Indiana,N,Georgetown,REG (Non-Conf),W 82-72 (OT),,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,4,2,0,-4.6,N,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+6,6,6,2012-11-25,Indiana,,Ball State,REG (Non-Conf),W 101-53,,16,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,0,0,0,0,3,6,2.4,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+7,7,7,2012-11-27,Indiana,,North Carolina,REG (Non-Conf),W 83-59,,13,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,1,3,0,0,0,3,3,5,-0.2,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+8,8,8,2012-12-01,Indiana,,Coppin State,REG (Non-Conf),W 87-51,,14,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,2,1,3,1,1,0,1,0,7,7.8,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+9,9,9,2012-12-08,Indiana,,Central Connecticut State,REG (Non-Conf),W 100-69,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,2,3,2,0,0,1,0,6,5.0,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+10,10,10,2012-12-15,Indiana,N,Butler,REG (Non-Conf),L 86-88 (OT),,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,0,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+11,11,14,2012-12-31,Indiana,@,Iowa,REG (Conf),W 69-65,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,2,1,1,0,-0.7,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+12,12,15,2013-01-07,Indiana,@,Penn State,REG (Conf),W 74-51,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,4,0.75,1,3,4,0,1,0,1,1,3,2.4,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+13,13,16,2013-01-12,Indiana,,Minnesota,REG (Conf),W 88-81,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,0,0,0,1,-0.1,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+14,14,17,2013-01-15,Indiana,,Wisconsin,REG (Conf),L 59-64,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,0,1,2,2.6,H,0,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+15,15,18,2013-01-20,Indiana,@,Northwestern,REG (Conf),W 67-59,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+16,16,19,2013-01-23,Indiana,,Penn State,REG (Conf),W 72-49,,9,0,1,0.0,0,1,0.0,0,0,,0.0,4,6,0.667,2,1,3,0,0,0,1,2,4,2.4,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+17,17,20,2013-01-27,Indiana,,Michigan State,REG (Conf),W 75-70,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,1,0,0,0,0,1.7,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+18,18,21,2013-01-30,Indiana,@,Purdue,REG (Conf),W 97-60,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,0,2,0,1,2,3.0,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+19,19,22,2013-02-02,Indiana,,Michigan,REG (Conf),W 81-73,,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,1,4,1,0,3,1,2,4,5.4,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+20,20,23,2013-02-07,Indiana,@,Illinois,REG (Conf),L 72-74,,9,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,2,0,0,0,2,6,6.0,A,0,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+21,21,24,2013-02-10,Indiana,@,Ohio State,REG (Conf),W 81-68,,7,0,0,,0,0,,0,0,,,0,1,0.0,0,0,0,0,0,0,0,2,0,-1.2,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+22,22,25,2013-02-13,Indiana,,Nebraska,REG (Conf),W 76-47,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,1,1,2,0,0,-0.7,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+23,23,26,2013-02-16,Indiana,,Purdue,REG (Conf),W 83-55,,14,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,0,0,1,1,2,2,-1.6,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+24,24,27,2013-02-19,Indiana,@,Michigan State,REG (Conf),W 72-68,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.0,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+25,25,28,2013-02-26,Indiana,@,Minnesota,REG (Conf),L 73-77,,5,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,0,1,0.6,A,0,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+26,26,29,2013-03-02,Indiana,,Iowa,REG (Conf),W 73-60,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,H,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+27,27,30,2013-03-05,Indiana,,Ohio State,REG (Conf),L 58-67,,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,1,0,0,1,1,2,2.3,H,0,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+28,28,31,2013-03-10,Indiana,@,Michigan,REG (Conf),W 72-71,,12,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,2,3,5,0,0,0,1,1,5,4.2,A,1,1,jeremy-hollowell-1,Jeremy Hollowell,2013
+29,29,32,2013-03-15,Indiana,N,Illinois,CTOURN,W 80-64,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,2,0,-0.8,N,1,0,jeremy-hollowell-1,Jeremy Hollowell,2013
+30,30,33,2013-03-16,Indiana,N,Wisconsin,CTOURN,L 56-68,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,0,0,jeremy-hollowell-1,Jeremy Hollowell,2013
+31,31,34,2013-03-22,Indiana,N,James Madison,ROUND-64,W 83-62,,10,0,0,,0,0,,0,0,,,1,2,0.5,0,4,4,0,0,0,1,1,1,0.4,N,1,0,jeremy-hollowell-1,Jeremy Hollowell,2013
+32,32,35,2013-03-24,Indiana,N,Temple,ROUND-32,W 58-52,,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,0,0,1,0,3,2.6,N,1,0,jeremy-hollowell-1,Jeremy Hollowell,2013
+33,33,36,2013-03-28,Indiana,N,Syracuse,ROUND-16,L 50-61,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,N,0,0,jeremy-hollowell-1,Jeremy Hollowell,2013

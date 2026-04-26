@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-15,Providence,,Albany (NY),REG (Non-Conf),W 64-60,,4,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,1,0,1,0,1.0,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+2,2,2,2014-11-17,Providence,,Binghamton,REG (Non-Conf),W 66-45,,14,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,3,1,4,0,0,1,3,3,6,2.2,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+3,3,3,2014-11-20,Providence,,Navy,REG (Non-Conf),W 88-51,,15,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,5,6,0,1,1,2,2,4,3.8,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+4,4,4,2014-11-22,Providence,N,Florida State,REG (Non-Conf),W 80-54,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,1,0,1,1,2,0,-1.1,N,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+5,5,5,2014-11-23,Providence,N,Notre Dame,REG (Non-Conf),W 75-74,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+6,6,6,2014-11-28,Providence,,Yale,REG (Non-Conf),W 72-66,,2,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+7,7,7,2014-11-30,Providence,@,Kentucky,REG (Non-Conf),L 38-58,,10,2,2,1.0,0,0,2,2,1.0,1.0,3,4,0.75,1,1,2,0,0,0,0,1,7,6.6,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+8,8,8,2014-12-05,Providence,@,Boston College,REG (Non-Conf),L 60-69,,7,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,1,1,0,0,0,2,3.7,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+9,9,9,2014-12-08,Providence,,Brown,REG (Non-Conf),L 67-77,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,H,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+10,10,10,2014-12-10,Providence,,Rhode Island,REG (Non-Conf),W 68-60,,10,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,0,1,1,0,1,1,0,1,9,9.0,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+11,11,11,2014-12-13,Providence,,Stony Brook,REG (Non-Conf),W 79-61,,14,0,3,0.0,0,0,0,3,0.0,0.0,5,8,0.625,3,3,6,0,0,1,0,2,5,4.6,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+12,12,12,2014-12-20,Providence,,Massachusetts,REG (Non-Conf),W 85-65,,12,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,1,1,0,0,1,0,2,4,3.6,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+13,13,13,2014-12-22,Providence,N,Miami (FL),REG (Non-Conf),W 76-62,,4,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,2,0,-1.2,N,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+14,14,14,2014-12-31,Providence,,Creighton,REG (Conf),W 65-53,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+15,15,15,2015-01-03,Providence,@,Marquette,REG (Conf),L 66-75,,12,1,1,1.0,0,0,1,1,1.0,1.0,3,5,0.6,1,1,2,0,1,4,0,0,5,8.7,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+16,16,16,2015-01-06,Providence,@,Butler,REG (Conf),W 66-62,,23,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,5,4,9,0,0,2,0,2,4,9.0,A,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+17,17,17,2015-01-10,Providence,,Georgetown,REG (Conf),W 60-57 (OT),,9,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,2,3,5,0,0,0,2,1,0,-1.6,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+18,18,18,2015-01-14,Providence,,St. John's (NY),REG (Conf),L 70-83,,9,0,0,,0,0,0,0,,,0,0,,1,3,4,1,0,0,0,2,0,1.5,H,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+19,19,19,2015-01-17,Providence,@,Creighton,REG (Conf),W 74-65,,6,0,0,,0,0,0,0,,,1,2,0.5,0,2,2,0,0,1,0,5,1,-0.1,A,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+20,20,20,2015-01-22,Providence,,Xavier,REG (Conf),W 69-66 (OT),,8,0,0,,0,0,0,0,,,0,2,0.0,0,1,1,0,0,1,0,2,0,-0.6,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+21,21,21,2015-01-29,Providence,,DePaul,REG (Conf),W 83-72,,11,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,3,3,6,0,0,0,1,0,4,5.0,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+22,22,22,2015-01-31,Providence,@,St. John's (NY),REG (Conf),L 66-75,,8,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,1,2,0,0,2,3.4,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+23,23,23,2015-02-04,Providence,@,Georgetown,REG (Conf),W 74-71,,8,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,2,2,0.5,A,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+24,24,24,2015-02-07,Providence,@,Xavier,REG (Conf),L 69-78,,10,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,0,0,0,0,0,1,0,2,4,2.9,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+25,25,25,2015-02-11,Providence,,Villanova,REG (Conf),L 68-74,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,1,1,0,0,0,1,3,4,1.5,H,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+26,26,26,2015-02-14,Providence,,Seton Hall,REG (Conf),W 69-62,,15,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,1,3,4,1,1,1,3,2,5,4.6,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+27,27,27,2015-02-18,Providence,@,DePaul,REG (Conf),W 84-57,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,3,2,1.5,A,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+28,28,28,2015-02-24,Providence,@,Villanova,REG (Conf),L 61-89,*,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,1,4,1,0,2,1,5,2,1.8,A,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+29,29,29,2015-03-01,Providence,,Marquette,REG (Conf),W 77-66,*,28,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,1,5,6,0,1,1,2,3,8,7.8,H,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+30,30,30,2015-03-04,Providence,@,Seton Hall,REG (Conf),W 79-66,*,19,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,4,2,6,0,0,0,1,2,4,5.3,A,1,1,paschal-chukwu-1,Paschal Chukwu,2015
+31,31,31,2015-03-07,Providence,,Butler,REG (Conf),L 64-68,,5,0,0,,0,0,0,0,,,1,2,0.5,0,1,1,0,0,1,1,2,1,-0.2,H,0,1,paschal-chukwu-1,Paschal Chukwu,2015
+32,32,32,2015-03-12,Providence,N,St. John's (NY),CTOURN,W 74-57,,10,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,0,3,3,0,1,0,0,4,1,-0.5,N,1,0,paschal-chukwu-1,Paschal Chukwu,2015
+33,33,33,2015-03-13,Providence,N,Villanova,CTOURN,L 61-63,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,3,2,1.5,N,0,0,paschal-chukwu-1,Paschal Chukwu,2015
+34,34,34,2015-03-20,Providence,N,Dayton,ROUND-64,L 53-66,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,0,0,paschal-chukwu-1,Paschal Chukwu,2015

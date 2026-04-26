@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Texas,N,Washington,REG (Non-Conf),L 71-77,*,21,2,12,0.167,0,3,0.0,2,9,0.222,0.167,3,4,0.75,2,3,5,1,3,0,1,0,7,4.0,N,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+2,2,2,2015-11-21,Texas,,Texas A&M–Corpus Christi,REG (Non-Conf),W 67-56,,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,1,0,0,0,0,4,2.3,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+3,3,3,2015-11-25,Texas,N,Texas A&M,REG (Non-Conf),L 73-84,,28,6,10,0.6,4,7,0.571,2,3,0.667,0.8,3,5,0.6,0,1,1,1,0,0,2,3,19,11.4,N,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+4,4,4,2015-11-26,Texas,N,Washington,REG (Non-Conf),W 82-70,,22,5,8,0.625,1,2,0.5,4,6,0.667,0.688,4,6,0.667,0,1,1,1,0,0,1,1,15,10.2,N,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+5,5,5,2015-11-27,Texas,N,Michigan,REG (Non-Conf),L 72-78,,17,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,3,0.667,0,0,0,1,1,0,2,1,12,8.3,N,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+6,6,6,2015-12-01,Texas,,UT Arlington,REG (Non-Conf),W 80-73 (OT),,18,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,0,0,0,0,0,2,3,6,0.1,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+7,7,7,2015-12-04,Texas,,Samford,REG (Non-Conf),W 59-49,,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,4,4,1.0,0,1,1,0,0,0,0,1,4,1.1,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+8,8,8,2015-12-08,Texas,,UTSA,REG (Non-Conf),W 116-50,,23,3,7,0.429,3,5,0.6,0,2,0.0,0.643,2,2,1.0,0,4,4,5,1,0,1,2,11,11.2,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+9,9,9,2015-12-12,Texas,,North Carolina,REG (Non-Conf),W 84-82,,29,6,10,0.6,4,5,0.8,2,5,0.4,0.8,0,0,,0,4,4,0,0,0,0,1,16,12.2,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+10,10,10,2015-12-15,Texas,,Appalachian State,REG (Non-Conf),W 67-55,,17,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,1,5,6,0,0,0,1,3,5,0.2,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+11,11,11,2015-12-19,Texas,@,Stanford,REG (Non-Conf),W 75-73,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,1,0.0,0,1,1,0,1,0,0,2,3,0.7,A,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+12,12,12,2015-12-29,Texas,,Connecticut,REG (Non-Conf),L 66-71,*,28,0,7,0.0,0,4,0.0,0,3,0.0,0.0,1,2,0.5,0,1,1,1,1,0,0,1,1,-2.7,H,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+13,13,13,2016-01-02,Texas,@,Texas Tech,REG (Conf),L 74-82,,27,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,3,3,0,0,0,1,1,5,1.1,A,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+14,14,14,2016-01-05,Texas,,Kansas State,REG (Conf),W 60-57,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,0,0,1,1,2,-0.1,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+15,15,15,2016-01-09,Texas,@,TCU,REG (Conf),L 57-58,,28,2,9,0.222,2,8,0.25,0,1,0.0,0.333,0,0,,0,3,3,1,0,0,0,3,6,0.9,A,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+16,16,16,2016-01-12,Texas,,Iowa State,REG (Conf),W 94-91 (OT),,25,5,9,0.556,2,5,0.4,3,4,0.75,0.667,2,2,1.0,1,3,4,1,0,0,0,0,14,12.0,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+17,17,17,2016-01-16,Texas,,Oklahoma State,REG (Conf),W 74-69,,21,3,8,0.375,2,6,0.333,1,2,0.5,0.5,4,4,1.0,1,4,5,0,0,0,0,1,12,9.1,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+18,18,18,2016-01-20,Texas,@,West Virginia,REG (Conf),W 56-49,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,0,0,2,1,3,-1.1,A,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+19,19,19,2016-01-23,Texas,@,Kansas,REG (Conf),L 67-76,,21,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,0,,2,3,5,0,1,0,0,0,13,11.0,A,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+20,20,20,2016-01-26,Texas,,TCU,REG (Conf),W 71-54,,22,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,5,5,1,0,0,3,2,4,-0.7,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+21,21,21,2016-01-30,Texas,,Vanderbilt,REG (Non-Conf),W 72-58,,23,3,9,0.333,2,5,0.4,1,4,0.25,0.444,5,6,0.833,1,0,1,1,2,0,0,0,13,10.9,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+22,22,22,2016-02-01,Texas,@,Baylor,REG (Conf),W 67-59,,15,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,1,0.0,0,4,4,0,0,0,1,1,3,0.0,A,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+23,23,23,2016-02-06,Texas,,Texas Tech,REG (Conf),W 69-59,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,0,0,2,2,2,-1.1,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+24,24,24,2016-02-08,Texas,@,Oklahoma,REG (Conf),L 60-63,,4,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,2,2,0,-4.0,A,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+25,25,25,2016-02-13,Texas,@,Iowa State,REG (Conf),L 75-85,,12,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,3,4,0,0,0,3,0,2,-3.2,A,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+26,26,26,2016-02-16,Texas,,West Virginia,REG (Conf),W 85-78,,20,5,7,0.714,4,4,1.0,1,3,0.333,1.0,1,2,0.5,0,2,2,0,1,0,0,1,15,12.9,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+27,27,27,2016-02-20,Texas,,Baylor,REG (Conf),L 64-78,,28,3,10,0.3,1,5,0.2,2,5,0.4,0.35,4,4,1.0,1,2,3,0,1,0,0,1,11,7.1,H,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+28,28,28,2016-02-22,Texas,@,Kansas State,REG (Conf),W 71-70,,27,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,1,1,2,1,0,0,1,1,10,7.3,A,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+29,29,29,2016-02-27,Texas,,Oklahoma,REG (Conf),W 76-63,,21,3,10,0.3,2,4,0.5,1,6,0.167,0.4,2,2,1.0,0,5,5,0,0,0,0,1,10,5.3,H,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+30,30,30,2016-02-29,Texas,,Kansas,REG (Conf),L 56-86,,17,1,6,0.167,0,0,,1,6,0.167,0.167,2,2,1.0,0,1,1,0,1,0,0,2,4,0.7,H,0,1,eric-davisjr-1,Eric Davis Jr.,2016
+31,31,31,2016-03-04,Texas,@,Oklahoma State,REG (Conf),W 62-50,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,A,1,1,eric-davisjr-1,Eric Davis Jr.,2016
+32,32,32,2016-03-10,Texas,N,Baylor,CTOURN,L 61-75,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,3,0,0,0,0,0,0.7,N,0,0,eric-davisjr-1,Eric Davis Jr.,2016
+33,33,33,2016-03-18,Texas,N,Northern Iowa,ROUND-64,L 72-75,,24,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,1,2,3,0,0,0,0,1,13,10.3,N,0,0,eric-davisjr-1,Eric Davis Jr.,2016

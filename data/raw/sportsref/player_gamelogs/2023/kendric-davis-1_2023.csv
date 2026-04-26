@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,113,1,2022-11-07,Memphis,@,Vanderbilt,REG (Non-Conf),W 76-67,*,33,4,11,0.364,2,6,0.333,2,5,0.4,0.455,6,6,1.0,0,3,3,6,2,0,4,2,16,12.2,A,1,1,kendric-davis-1,Kendric Davis,2023
+2,114,2,2022-11-15,Memphis,@,Saint Louis,REG (Non-Conf),L 84-90,*,37,6,15,0.4,2,7,0.286,4,8,0.5,0.467,4,5,0.8,1,2,3,4,1,1,1,4,18,12.7,A,0,1,kendric-davis-1,Kendric Davis,2023
+3,115,3,2022-11-20,Memphis,,VCU,REG (Non-Conf),W 62-47,*,33,8,16,0.5,2,6,0.333,6,10,0.6,0.563,8,8,1.0,2,2,4,7,2,0,5,2,26,21.1,H,1,1,kendric-davis-1,Kendric Davis,2023
+4,116,4,2022-11-24,Memphis,N,Seton Hall,REG (Non-Conf),L 69-70,*,36,7,14,0.5,1,2,0.5,6,12,0.5,0.536,7,8,0.875,0,7,7,6,1,0,5,2,22,16.1,N,0,1,kendric-davis-1,Kendric Davis,2023
+5,117,5,2022-11-25,Memphis,N,Nebraska,REG (Non-Conf),W 73-61,*,37,9,19,0.474,2,5,0.4,7,14,0.5,0.526,1,5,0.2,1,1,2,7,3,0,3,4,21,14.0,N,1,1,kendric-davis-1,Kendric Davis,2023
+6,118,6,2022-11-27,Memphis,N,Stanford,REG (Non-Conf),W 56-48,*,36,5,18,0.278,2,7,0.286,3,11,0.273,0.333,2,2,1.0,0,5,5,3,3,0,4,1,14,5.6,N,1,1,kendric-davis-1,Kendric Davis,2023
+7,119,7,2022-11-30,Memphis,,North Alabama,REG (Non-Conf),W 87-68,*,20,4,7,0.571,2,3,0.667,2,4,0.5,0.714,8,8,1.0,0,2,2,4,0,0,2,3,18,14.9,H,1,1,kendric-davis-1,Kendric Davis,2023
+8,120,8,2022-12-03,Memphis,,Ole Miss,REG (Non-Conf),W 68-57,*,33,4,18,0.222,1,7,0.143,3,11,0.273,0.25,5,5,1.0,0,3,3,2,1,1,2,0,14,5.0,H,1,1,kendric-davis-1,Kendric Davis,2023
+9,121,9,2022-12-06,Memphis,,Little Rock,REG (Non-Conf),W 87-71,*,24,3,15,0.2,0,2,0.0,3,13,0.231,0.2,2,2,1.0,1,3,4,4,2,0,3,2,8,1.3,H,1,1,kendric-davis-1,Kendric Davis,2023
+10,122,10,2022-12-10,Memphis,N,Auburn,REG (Non-Conf),W 82-73,*,38,9,19,0.474,2,6,0.333,7,13,0.538,0.526,7,7,1.0,0,9,9,6,2,0,5,2,27,20.4,N,1,1,kendric-davis-1,Kendric Davis,2023
+11,123,11,2022-12-13,Memphis,@,Alabama,REG (Non-Conf),L 88-91,*,37,11,22,0.5,0,4,0.0,11,18,0.611,0.5,8,8,1.0,0,2,2,5,4,0,2,3,30,23.9,A,0,1,kendric-davis-1,Kendric Davis,2023
+12,124,12,2022-12-17,Memphis,,Texas A&M,REG (Non-Conf),W 83-79,*,38,4,13,0.308,1,4,0.25,3,9,0.333,0.346,14,16,0.875,0,2,2,9,3,0,2,1,23,22.2,H,1,1,kendric-davis-1,Kendric Davis,2023
+13,125,13,2022-12-21,Memphis,,Alabama State,REG (Non-Conf),W 83-61,*,29,4,13,0.308,1,5,0.2,3,8,0.375,0.346,5,6,0.833,0,1,1,12,1,0,2,0,14,13.8,H,1,1,kendric-davis-1,Kendric Davis,2023
+14,126,14,2022-12-29,Memphis,,South Florida,REG (Conf),W 93-86,*,35,6,11,0.545,2,4,0.5,4,7,0.571,0.636,10,12,0.833,0,2,2,9,5,0,4,2,24,25.0,H,1,1,kendric-davis-1,Kendric Davis,2023
+15,127,15,2023-01-01,Memphis,@,Tulane,REG (Conf),L 89-96,*,38,7,18,0.389,3,8,0.375,4,10,0.4,0.472,14,17,0.824,2,4,6,7,3,0,4,3,31,25.3,A,0,1,kendric-davis-1,Kendric Davis,2023
+16,128,16,2023-01-07,Memphis,,East Carolina,REG (Conf),W 69-59,*,33,6,20,0.3,0,6,0.0,6,14,0.429,0.3,2,3,0.667,1,1,2,6,3,0,5,0,14,5.2,H,1,1,kendric-davis-1,Kendric Davis,2023
+17,129,17,2023-01-11,Memphis,@,UCF,REG (Conf),L 104-107 (2OT),*,47,10,23,0.435,1,7,0.143,9,16,0.563,0.457,21,23,0.913,1,4,5,4,2,0,4,2,42,31.0,A,0,1,kendric-davis-1,Kendric Davis,2023
+18,130,18,2023-01-15,Memphis,@,Temple,REG (Conf),W 61-59,*,39,9,16,0.563,2,5,0.4,7,11,0.636,0.625,0,2,0.0,0,4,4,3,3,0,2,3,20,14.7,A,1,1,kendric-davis-1,Kendric Davis,2023
+19,131,19,2023-01-19,Memphis,,Wichita State,REG (Conf),W 88-78,*,36,6,10,0.6,4,5,0.8,2,5,0.4,0.8,4,4,1.0,0,2,2,5,1,0,1,2,20,18.7,H,1,1,kendric-davis-1,Kendric Davis,2023
+20,132,20,2023-01-22,Memphis,@,Cincinnati,REG (Conf),W 75-68,*,35,4,10,0.4,1,4,0.25,3,6,0.5,0.45,12,14,0.857,3,2,5,6,0,0,4,3,21,16.5,A,1,1,kendric-davis-1,Kendric Davis,2023
+21,133,21,2023-01-26,Memphis,,SMU,REG (Conf),W 99-84,*,31,6,15,0.4,3,7,0.429,3,8,0.375,0.5,10,11,0.909,0,7,7,11,1,0,4,1,25,22.9,H,1,1,kendric-davis-1,Kendric Davis,2023
+22,134,22,2023-01-29,Memphis,@,Tulsa,REG (Conf),W 80-68,*,39,10,22,0.455,3,9,0.333,7,13,0.538,0.523,3,5,0.6,0,4,4,5,2,0,6,1,26,14.1,A,1,1,kendric-davis-1,Kendric Davis,2023
+23,135,23,2023-02-04,Memphis,,Tulane,REG (Conf),L 89-90 (OT),*,41,8,22,0.364,1,7,0.143,7,15,0.467,0.386,9,13,0.692,0,5,5,7,4,0,7,0,26,15.6,H,0,1,kendric-davis-1,Kendric Davis,2023
+24,136,24,2023-02-08,Memphis,@,South Florida,REG (Conf),W 99-81,*,37,9,16,0.563,3,3,1.0,6,13,0.462,0.656,2,2,1.0,0,5,5,8,2,0,2,4,23,20.9,A,1,1,kendric-davis-1,Kendric Davis,2023
+25,137,25,2023-02-12,Memphis,,Temple,REG (Conf),W 86-77,*,38,6,17,0.353,2,6,0.333,4,11,0.364,0.412,7,10,0.7,0,2,2,4,4,0,1,3,21,15.5,H,1,1,kendric-davis-1,Kendric Davis,2023
+26,138,26,2023-02-16,Memphis,,UCF,REG (Conf),W 64-63,*,14,5,9,0.556,0,2,0.0,5,7,0.714,0.556,0,0,,0,1,1,0,1,0,1,0,10,6.0,H,1,1,kendric-davis-1,Kendric Davis,2023
+27,139,28,2023-02-23,Memphis,@,Wichita State,REG (Conf),W 83-78,*,34,6,14,0.429,2,5,0.4,4,9,0.444,0.5,5,6,0.833,1,4,5,4,0,0,3,1,19,12.5,A,1,1,kendric-davis-1,Kendric Davis,2023
+28,140,29,2023-02-26,Memphis,,Cincinnati,REG (Conf),W 76-73,*,37,8,22,0.364,0,5,0.0,8,17,0.471,0.364,6,6,1.0,0,4,4,3,3,0,3,2,22,12.3,H,1,1,kendric-davis-1,Kendric Davis,2023
+29,141,30,2023-03-02,Memphis,@,SMU,REG (Conf),W 81-62,*,36,7,18,0.389,3,6,0.5,4,12,0.333,0.472,6,8,0.75,1,2,3,10,4,0,5,3,23,18.5,A,1,1,kendric-davis-1,Kendric Davis,2023
+30,142,31,2023-03-05,Memphis,,Houston,REG (Conf),L 65-67,*,38,6,18,0.333,3,7,0.429,3,11,0.273,0.417,11,12,0.917,1,2,3,1,1,0,5,3,26,12.2,H,0,1,kendric-davis-1,Kendric Davis,2023
+31,143,32,2023-03-10,Memphis,N,UCF,CTOURN,W 81-76,*,39,10,16,0.625,5,7,0.714,5,9,0.556,0.781,8,9,0.889,0,1,1,7,1,3,2,2,33,30.9,N,1,0,kendric-davis-1,Kendric Davis,2023
+32,144,33,2023-03-11,Memphis,N,Tulane,CTOURN,W 94-54,*,32,6,18,0.333,4,9,0.444,2,9,0.222,0.444,4,4,1.0,1,4,5,6,0,1,0,2,20,15.8,N,1,0,kendric-davis-1,Kendric Davis,2023
+33,145,34,2023-03-12,Memphis,N,Houston,CTOURN,W 75-65,*,38,10,21,0.476,3,6,0.5,7,15,0.467,0.548,8,8,1.0,1,4,5,3,1,0,0,1,31,24.9,N,1,0,kendric-davis-1,Kendric Davis,2023
+34,146,35,2023-03-17,Memphis,N,Florida Atlantic,ROUND-64,L 65-66,*,37,5,15,0.333,2,6,0.333,3,9,0.333,0.4,4,6,0.667,1,2,3,1,1,0,2,1,16,7.3,N,0,0,kendric-davis-1,Kendric Davis,2023

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2016-11-12,Kent State,N,Cleveland State,REG (Non-Conf),W 79-74 (OT),,26,1,9,0.111,0,7,0.0,1,2,0.5,0.111,3,3,1.0,0,0,0,0,0,0,1,2,5,-2.7,N,1,1,jaylin-walker-1,Jaylin Walker,2017
+2,24,2,2016-11-16,Kent State,,Mississippi Valley State,REG (Non-Conf),W 93-63,,16,5,11,0.455,4,8,0.5,1,3,0.333,0.636,0,0,,0,1,1,1,0,0,2,2,14,6.5,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+3,25,3,2016-11-18,Kent State,,Hiram,REG (Non-Conf),W 111-55,,13,5,10,0.5,2,4,0.5,3,6,0.5,0.6,1,1,1.0,0,2,2,1,0,0,1,0,13,8.3,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+4,26,4,2016-11-21,Kent State,N,South Dakota,REG (Non-Conf),L 77-80,,28,6,17,0.353,2,7,0.286,4,10,0.4,0.412,5,6,0.833,0,2,2,0,2,0,2,1,19,9.3,N,0,1,jaylin-walker-1,Jaylin Walker,2017
+5,27,5,2016-11-22,Kent State,N,George Mason,REG (Non-Conf),L 75-79,,24,2,6,0.333,2,3,0.667,0,3,0.0,0.5,2,4,0.5,1,3,4,2,0,0,0,1,8,6.4,N,0,1,jaylin-walker-1,Jaylin Walker,2017
+6,28,6,2016-11-23,Kent State,N,Wofford,REG (Non-Conf),W 66-59,,28,7,14,0.5,1,4,0.25,6,10,0.6,0.536,0,2,0.0,2,2,4,0,3,0,0,0,15,12.2,N,1,1,jaylin-walker-1,Jaylin Walker,2017
+7,29,7,2016-11-27,Kent State,@,Northeastern,REG (Non-Conf),L 70-73,,22,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,1,0,1,1,0,0,3,4,6,-0.6,A,0,1,jaylin-walker-1,Jaylin Walker,2017
+8,30,8,2016-12-02,Kent State,,Grambling State,REG (Non-Conf),W 86-57,*,23,5,9,0.556,1,4,0.25,4,5,0.8,0.611,1,2,0.5,2,6,8,2,0,0,4,0,12,7.9,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+9,31,9,2016-12-07,Kent State,,Niagara,REG (Non-Conf),W 100-72,*,29,7,15,0.467,2,6,0.333,5,9,0.556,0.533,1,1,1.0,0,2,2,0,0,0,0,1,17,9.5,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+10,32,10,2016-12-10,Kent State,,NJIT,REG (Non-Conf),W 87-71,*,32,10,16,0.625,6,10,0.6,4,6,0.667,0.813,3,3,1.0,3,2,5,0,0,0,1,4,29,21.9,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+11,33,11,2016-12-18,Kent State,,Wright State,REG (Non-Conf),L 63-68,*,35,6,18,0.333,1,10,0.1,5,8,0.625,0.361,4,4,1.0,2,2,4,0,0,0,3,2,17,5.0,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+12,34,12,2016-12-21,Kent State,@,Oregon State,REG (Non-Conf),L 50-69,*,29,4,18,0.222,1,13,0.077,3,5,0.6,0.25,1,2,0.5,5,1,6,1,2,0,4,0,10,1.1,A,0,1,jaylin-walker-1,Jaylin Walker,2017
+13,35,13,2016-12-27,Kent State,@,Texas,REG (Non-Conf),W 63-58,*,39,9,18,0.5,2,7,0.286,7,11,0.636,0.556,4,6,0.667,2,5,7,0,0,0,2,0,24,15.1,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+14,36,14,2017-01-03,Kent State,,Ball State,REG (Conf),W 100-90,*,36,5,13,0.385,3,6,0.5,2,7,0.286,0.5,8,8,1.0,1,1,2,1,2,0,5,4,21,11.0,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+15,37,15,2017-01-06,Kent State,@,Ohio,REG (Conf),L 67-85,*,27,5,12,0.417,2,6,0.333,3,6,0.5,0.5,0,0,,1,0,1,1,0,0,3,0,12,4.0,A,0,1,jaylin-walker-1,Jaylin Walker,2017
+16,38,16,2017-01-10,Kent State,,Northern Illinois,REG (Conf),L 70-74 (OT),*,41,6,15,0.4,6,10,0.6,0,5,0.0,0.6,4,4,1.0,0,5,5,2,2,0,5,3,22,12.6,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+17,39,17,2017-01-14,Kent State,@,Western Michigan,REG (Conf),L 88-92,*,37,6,11,0.545,3,6,0.5,3,5,0.6,0.682,2,3,0.667,0,3,3,2,0,0,2,2,17,10.8,A,0,1,jaylin-walker-1,Jaylin Walker,2017
+18,40,18,2017-01-17,Kent State,,Buffalo,REG (Conf),L 69-82,,37,3,14,0.214,2,9,0.222,1,5,0.2,0.286,0,0,,0,4,4,1,0,0,4,2,8,-3.5,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+19,41,21,2017-01-28,Kent State,,Central Michigan,REG (Conf),L 98-105 (OT),,23,3,10,0.3,3,8,0.375,0,2,0.0,0.45,4,6,0.667,2,1,3,1,0,0,1,2,13,7.0,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+20,42,22,2017-01-31,Kent State,@,Eastern Michigan,REG (Conf),W 70-64,,20,2,8,0.25,2,6,0.333,0,2,0.0,0.375,5,6,0.833,2,1,3,1,1,0,4,2,11,4.4,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+21,43,23,2017-02-04,Kent State,@,Miami (OH),REG (Conf),W 66-62,,26,3,13,0.231,2,9,0.222,1,4,0.25,0.308,1,2,0.5,2,3,5,1,2,0,2,1,9,3.3,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+22,44,24,2017-02-07,Kent State,,Bowling Green,REG (Conf),L 83-84 (OT),,31,6,11,0.545,4,6,0.667,2,5,0.4,0.727,2,2,1.0,1,5,6,0,1,0,1,4,18,13.3,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+23,45,25,2017-02-11,Kent State,@,Toledo,REG (Conf),L 58-78,,26,5,12,0.417,1,7,0.143,4,5,0.8,0.458,2,2,1.0,1,1,2,0,2,0,1,2,13,7.8,A,0,1,jaylin-walker-1,Jaylin Walker,2017
+24,46,26,2017-02-14,Kent State,,Miami (OH),REG (Conf),W 76-72,*,30,7,15,0.467,5,10,0.5,2,5,0.4,0.633,1,1,1.0,3,1,4,1,1,0,3,2,20,12.6,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+25,47,27,2017-02-17,Kent State,@,Akron,REG (Conf),W 70-67,*,37,6,15,0.4,3,10,0.3,3,5,0.6,0.5,1,2,0.5,3,3,6,2,1,0,2,2,16,10.1,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+26,48,28,2017-02-21,Kent State,@,Buffalo,REG (Conf),W 77-69,*,35,9,19,0.474,4,12,0.333,5,7,0.714,0.579,0,0,,0,0,0,1,1,0,1,0,22,13.0,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+27,49,29,2017-02-25,Kent State,,Ohio,REG (Conf),W 70-67,*,38,3,11,0.273,1,7,0.143,2,4,0.5,0.318,5,6,0.833,2,7,9,2,0,0,0,1,12,9.6,H,1,1,jaylin-walker-1,Jaylin Walker,2017
+28,50,30,2017-02-28,Kent State,@,Bowling Green,REG (Conf),W 74-67,*,38,7,17,0.412,4,11,0.364,3,6,0.5,0.529,0,0,,0,1,1,3,2,0,1,0,18,12.3,A,1,1,jaylin-walker-1,Jaylin Walker,2017
+29,51,31,2017-03-03,Kent State,,Akron,REG (Conf),L 56-66,*,36,5,15,0.333,2,7,0.286,3,8,0.375,0.4,1,2,0.5,2,7,9,0,2,0,1,1,13,8.2,H,0,1,jaylin-walker-1,Jaylin Walker,2017
+30,52,32,2017-03-06,Kent State,,Central Michigan,CTOURN,W 116-106 (OT),*,43,9,23,0.391,7,14,0.5,2,9,0.222,0.543,4,5,0.8,5,9,14,2,0,0,3,3,29,19.5,H,1,0,jaylin-walker-1,Jaylin Walker,2017
+31,53,33,2017-03-09,Kent State,N,Buffalo,CTOURN,W 68-65,*,33,3,14,0.214,1,6,0.167,2,8,0.25,0.25,5,6,0.833,1,3,4,1,0,0,3,5,12,0.3,N,1,0,jaylin-walker-1,Jaylin Walker,2017
+32,54,34,2017-03-10,Kent State,N,Ohio,CTOURN,W 68-66,*,39,3,11,0.273,0,6,0.0,3,5,0.6,0.273,3,6,0.5,2,7,9,0,1,0,1,2,9,4.0,N,1,0,jaylin-walker-1,Jaylin Walker,2017
+33,55,35,2017-03-11,Kent State,N,Akron,CTOURN,W 70-65,*,39,11,18,0.611,2,7,0.286,9,11,0.818,0.667,6,6,1.0,3,3,6,0,1,0,1,1,30,24.4,N,1,0,jaylin-walker-1,Jaylin Walker,2017
+34,56,36,2017-03-17,Kent State,N,UCLA,ROUND-64,L 80-97,*,39,9,23,0.391,5,13,0.385,4,10,0.4,0.5,0,0,,2,4,6,0,0,0,2,2,23,10.3,N,0,0,jaylin-walker-1,Jaylin Walker,2017

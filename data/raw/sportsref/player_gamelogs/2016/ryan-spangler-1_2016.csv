@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2015-11-17,Oklahoma,@,Memphis,REG (Non-Conf),W 84-78,*,38,5,10,0.5,0,2,0.0,5,8,0.625,0.5,1,2,0.5,4,8,12,0,0,2,4,4,11,6.6,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+2,92,2,2015-11-20,Oklahoma,,McNeese State,REG (Non-Conf),W 85-56,*,24,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,5,0.0,3,1,4,2,0,0,1,0,9,6.5,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+3,93,3,2015-11-24,Oklahoma,,Incarnate Word,REG (Non-Conf),W 96-63,*,29,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,2,0.5,2,8,10,3,0,2,0,3,12,14.8,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+4,94,4,2015-11-29,Oklahoma,,Wisconsin,REG (Non-Conf),W 65-48,*,35,7,9,0.778,2,3,0.667,5,6,0.833,0.889,4,4,1.0,5,9,14,1,0,1,0,2,20,23.3,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+5,95,5,2015-12-03,Oklahoma,,Central Arkansas,REG (Non-Conf),W 111-68,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,5,6,0.833,2,5,7,3,0,0,1,1,11,11.9,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+6,96,6,2015-12-07,Oklahoma,N,Villanova,REG (Non-Conf),W 78-55,*,37,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,1,9,10,4,0,0,3,3,11,9.7,N,1,1,ryan-spangler-1,Ryan Spangler,2016
+7,97,7,2015-12-12,Oklahoma,,Oral Roberts,REG (Non-Conf),W 96-73,*,34,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,1,7,8,3,0,0,1,1,13,12.9,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+8,98,8,2015-12-19,Oklahoma,,Creighton,REG (Non-Conf),W 87-74,*,34,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,6,9,15,4,1,1,2,1,5,9.9,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+9,99,9,2015-12-22,Oklahoma,N,Washington State,REG (Non-Conf),W 88-60,*,27,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,2,6,8,1,2,1,2,1,6,8.6,N,1,1,ryan-spangler-1,Ryan Spangler,2016
+10,100,10,2015-12-23,Oklahoma,@,Hawaii,REG (Non-Conf),W 84-81,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,5,7,1,0,1,1,4,7,6.0,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+11,101,11,2015-12-25,Oklahoma,N,Harvard,REG (Non-Conf),W 83-71,*,38,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,1,0.0,1,14,15,3,0,0,1,2,8,11.2,N,1,1,ryan-spangler-1,Ryan Spangler,2016
+12,102,12,2016-01-02,Oklahoma,,Iowa State,REG (Conf),W 87-83,*,34,8,13,0.615,2,6,0.333,6,7,0.857,0.692,2,3,0.667,4,8,12,1,0,0,2,1,20,17.2,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+13,103,13,2016-01-04,Oklahoma,@,Kansas,REG (Conf),L 106-109 (3OT),*,51,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,3,15,18,0,2,2,3,4,14,14.1,A,0,1,ryan-spangler-1,Ryan Spangler,2016
+14,104,14,2016-01-09,Oklahoma,,Kansas State,REG (Conf),W 86-76,*,35,6,9,0.667,2,4,0.5,4,5,0.8,0.778,0,1,0.0,0,7,7,4,0,1,5,1,14,9.9,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+15,105,15,2016-01-13,Oklahoma,@,Oklahoma State,REG (Conf),W 74-72,*,38,2,7,0.286,0,3,0.0,2,4,0.5,0.286,3,4,0.75,3,5,8,4,1,0,0,0,7,9.9,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+16,106,16,2016-01-16,Oklahoma,,West Virginia,REG (Conf),W 70-68,*,34,2,7,0.286,0,4,0.0,2,3,0.667,0.286,6,7,0.857,4,10,14,0,0,0,3,3,10,7.1,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+17,107,17,2016-01-18,Oklahoma,@,Iowa State,REG (Conf),L 77-82,*,34,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,2,4,6,0,0,0,1,1,2,-1.3,A,0,1,ryan-spangler-1,Ryan Spangler,2016
+18,108,18,2016-01-23,Oklahoma,@,Baylor,REG (Conf),W 82-72,*,34,4,8,0.5,2,4,0.5,2,4,0.5,0.625,1,2,0.5,0,3,3,4,1,0,3,3,11,7.1,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+19,109,19,2016-01-26,Oklahoma,,Texas Tech,REG (Conf),W 91-67,*,25,4,6,0.667,1,3,0.333,3,3,1.0,0.75,4,4,1.0,0,7,7,2,0,1,0,3,13,13.4,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+20,110,20,2016-01-30,Oklahoma,@,Louisiana State,REG (Non-Conf),W 77-75,*,36,6,10,0.6,2,3,0.667,4,7,0.571,0.7,2,2,1.0,4,6,10,1,0,0,2,4,16,13.1,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+21,111,21,2016-02-02,Oklahoma,,TCU,REG (Conf),W 95-72,*,29,5,8,0.625,0,3,0.0,5,5,1.0,0.625,1,1,1.0,2,9,11,4,0,0,3,0,11,11.3,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+22,112,22,2016-02-06,Oklahoma,@,Kansas State,REG (Conf),L 69-80,*,37,6,13,0.462,0,3,0.0,6,10,0.6,0.462,2,5,0.4,5,5,10,1,2,0,0,2,14,13.0,A,0,1,ryan-spangler-1,Ryan Spangler,2016
+23,113,23,2016-02-08,Oklahoma,,Texas,REG (Conf),W 63-60,*,38,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,1,0.0,1,9,10,1,0,0,1,2,8,8.0,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+24,114,24,2016-02-13,Oklahoma,,Kansas,REG (Conf),L 72-76,*,33,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,2,5,7,1,1,0,0,4,3,3.2,H,0,1,ryan-spangler-1,Ryan Spangler,2016
+25,115,25,2016-02-17,Oklahoma,@,Texas Tech,REG (Conf),L 63-65,*,35,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,3,0.333,1,8,9,0,2,0,2,4,5,1.6,A,0,1,ryan-spangler-1,Ryan Spangler,2016
+26,116,26,2016-02-20,Oklahoma,@,West Virginia,REG (Conf),W 76-62,*,27,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,2,4,6,0,0,1,2,3,8,7.2,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+27,117,27,2016-02-24,Oklahoma,,Oklahoma State,REG (Conf),W 71-49,*,29,10,13,0.769,4,6,0.667,6,7,0.857,0.923,2,4,0.5,4,10,14,0,1,2,2,1,26,25.9,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+28,118,28,2016-02-27,Oklahoma,@,Texas,REG (Conf),L 63-76,*,38,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,4,5,2,0,0,4,4,2,-3.4,A,0,1,ryan-spangler-1,Ryan Spangler,2016
+29,119,29,2016-03-01,Oklahoma,,Baylor,REG (Conf),W 73-71,*,36,7,11,0.636,1,4,0.25,6,7,0.857,0.682,0,0,,8,5,13,5,0,0,2,1,15,18.3,H,1,1,ryan-spangler-1,Ryan Spangler,2016
+30,120,30,2016-03-05,Oklahoma,@,TCU,REG (Conf),W 75-67,*,35,4,8,0.5,3,3,1.0,1,5,0.2,0.688,0,2,0.0,0,5,5,2,0,1,2,3,11,6.6,A,1,1,ryan-spangler-1,Ryan Spangler,2016
+31,121,31,2016-03-10,Oklahoma,N,Iowa State,CTOURN,W 79-76,*,30,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,5,0.8,4,8,12,1,1,0,0,3,10,10.9,N,1,0,ryan-spangler-1,Ryan Spangler,2016
+32,122,32,2016-03-11,Oklahoma,N,West Virginia,CTOURN,L 67-69,*,33,3,4,0.75,2,3,0.667,1,1,1.0,1.0,4,6,0.667,1,3,4,2,1,2,2,3,12,11.8,N,0,0,ryan-spangler-1,Ryan Spangler,2016
+33,123,33,2016-03-18,Oklahoma,N,Cal State Bakersfield,ROUND-64,W 82-68,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,5,0.2,2,4,6,2,0,1,2,3,5,2.2,N,1,0,ryan-spangler-1,Ryan Spangler,2016
+34,124,34,2016-03-20,Oklahoma,N,VCU,ROUND-32,W 85-81,*,31,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,5,4,9,2,0,1,3,2,6,7.0,N,1,0,ryan-spangler-1,Ryan Spangler,2016
+35,125,35,2016-03-24,Oklahoma,N,Texas A&M,ROUND-16,W 77-63,*,32,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,1,7,8,4,0,0,0,2,10,11.2,N,1,0,ryan-spangler-1,Ryan Spangler,2016
+36,126,36,2016-03-26,Oklahoma,N,Oregon,ROUND-8,W 80-68,*,35,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,4,6,3,0,0,2,2,4,3.9,N,1,0,ryan-spangler-1,Ryan Spangler,2016
+37,127,37,2016-04-02,Oklahoma,N,Villanova,NATIONAL-SEMI,L 51-95,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,0,2,0.0,3,1,4,1,1,0,0,1,6,5.9,N,0,0,ryan-spangler-1,Ryan Spangler,2016

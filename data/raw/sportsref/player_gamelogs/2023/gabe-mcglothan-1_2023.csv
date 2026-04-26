@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,1,2022-11-07,Grand Canyon,,Montana State,REG (Non-Conf),W 60-54,*,30,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,3,0.667,1,4,5,1,1,0,0,3,13,12.1,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+2,88,2,2022-11-09,Grand Canyon,,San Diego Christ,REG (Non-Conf),W 101-50,*,21,6,10,0.6,1,5,0.2,5,5,1.0,0.65,0,0,,2,8,10,0,1,2,1,0,13,13.6,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+3,89,3,2022-11-12,Grand Canyon,@,Nevada,REG (Non-Conf),L 46-59,*,32,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,7,8,1,0,0,1,2,2,-0.1,A,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+4,90,4,2022-11-18,Grand Canyon,,Grambling State,REG (Non-Conf),W 81-48,*,16,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,2,7,9,1,0,0,1,2,10,10.5,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+5,91,5,2022-11-21,Grand Canyon,N,Wichita State,REG (Non-Conf),L 43-55,*,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,4,4,8,1,1,0,1,2,6,4.8,N,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+6,92,6,2022-11-22,Grand Canyon,N,Northern Iowa,REG (Non-Conf),W 69-67,*,34,5,13,0.385,0,4,0.0,5,9,0.556,0.385,3,5,0.6,5,13,18,0,1,0,2,3,13,10.3,N,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+7,93,7,2022-11-26,Grand Canyon,,Benedictine,REG (Non-Conf),W 110-53,*,15,4,5,0.8,1,1,1.0,3,4,0.75,0.9,3,4,0.75,3,5,8,1,0,2,1,0,12,14.4,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+8,94,8,2022-11-29,Grand Canyon,,Alcorn State,REG (Non-Conf),W 80-72,*,28,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,1,0.0,3,4,7,1,0,3,2,3,6,4.8,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+9,95,9,2022-12-03,Grand Canyon,@,Wyoming,REG (Non-Conf),W 66-58,*,34,6,10,0.6,2,3,0.667,4,7,0.571,0.7,0,0,,1,4,5,1,1,1,1,2,14,11.9,A,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+10,96,10,2022-12-07,Grand Canyon,,Loyola Marymount,REG (Non-Conf),L 65-69,*,31,6,14,0.429,1,4,0.25,5,10,0.5,0.464,1,3,0.333,2,3,5,2,3,1,3,4,14,8.6,H,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+11,97,11,2022-12-10,Grand Canyon,N,North Texas,REG (Non-Conf),L 58-60,*,33,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,6,6,3,0,1,1,1,3,3.1,N,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+12,98,12,2022-12-17,Grand Canyon,,Pepperdine,REG (Non-Conf),W 83-73 (OT),*,30,4,9,0.444,0,2,0.0,4,7,0.571,0.444,12,14,0.857,2,11,13,0,0,1,2,3,20,16.7,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+13,99,13,2022-12-20,Grand Canyon,,Idaho State,REG (Non-Conf),W 68-66,*,33,6,10,0.6,0,1,0.0,6,9,0.667,0.6,2,6,0.333,8,3,11,0,1,0,2,3,14,12.1,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+14,100,14,2022-12-29,Grand Canyon,,California Baptist,REG (Conf),W 73-59,*,24,2,11,0.182,1,4,0.25,1,7,0.143,0.227,2,4,0.5,5,5,10,0,0,0,2,1,7,1.9,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+15,101,15,2023-01-05,Grand Canyon,@,Sam Houston State,REG (Conf),W 72-68 (OT),*,39,2,3,0.667,0,1,0.0,2,2,1.0,0.667,5,6,0.833,2,11,13,2,1,0,5,3,9,8.2,A,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+16,102,16,2023-01-07,Grand Canyon,@,Stephen F. Austin,REG (Conf),L 68-73,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,1,3,4,1,1,0,2,3,9,5.4,A,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+17,103,17,2023-01-12,Grand Canyon,,UT Arlington,REG (Conf),W 80-48,*,31,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,1,6,7,2,0,2,2,2,11,10.2,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+18,104,18,2023-01-14,Grand Canyon,@,California Baptist,REG (Conf),L 74-79,*,35,9,12,0.75,1,2,0.5,8,10,0.8,0.792,5,6,0.833,4,4,8,2,1,1,1,3,24,23.7,A,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+19,105,19,2023-01-18,Grand Canyon,,Utah Tech,REG (Conf),W 89-85,*,31,4,9,0.444,1,2,0.5,3,7,0.429,0.5,6,6,1.0,2,5,7,0,0,1,1,2,15,12.1,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+20,106,20,2023-01-21,Grand Canyon,,Utah Valley,REG (Conf),L 74-76,*,31,6,12,0.5,0,4,0.0,6,8,0.75,0.5,1,2,0.5,3,2,5,1,1,0,2,5,13,7.0,H,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+21,107,21,2023-01-26,Grand Canyon,@,Abilene Christian,REG (Conf),W 75-73,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,4,1,5,1,0,0,3,4,5,0.8,A,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+22,108,22,2023-01-28,Grand Canyon,@,Tarleton State,REG (Conf),L 62-81,*,26,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,1,1,0,1,0,1,2,5,2.8,A,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+23,109,23,2023-02-04,Grand Canyon,,Stephen F. Austin,REG (Conf),W 86-83,*,30,4,6,0.667,0,2,0.0,4,4,1.0,0.667,1,4,0.25,4,8,12,0,0,1,2,3,9,7.9,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+24,110,24,2023-02-08,Grand Canyon,,New Mexico State,REG (Conf),W 78-67,*,30,5,8,0.625,1,3,0.333,4,5,0.8,0.688,3,4,0.75,3,6,9,0,0,2,1,2,14,13.5,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+25,111,25,2023-02-11,Grand Canyon,@,Seattle,REG (Conf),L 58-63,*,29,3,14,0.214,0,3,0.0,3,11,0.273,0.214,2,2,1.0,3,4,7,1,1,1,2,2,8,2.3,A,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+26,112,26,2023-02-15,Grand Canyon,,Texas–Rio Grande Valley,REG (Conf),L 76-77,*,29,12,18,0.667,1,3,0.333,11,15,0.733,0.694,2,3,0.667,7,4,11,1,0,0,0,4,27,24.0,H,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+27,113,27,2023-02-17,Grand Canyon,,Abilene Christian,REG (Conf),W 94-84,*,36,7,8,0.875,1,2,0.5,6,6,1.0,0.938,5,6,0.833,2,6,8,1,0,1,3,2,20,17.6,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+28,114,28,2023-02-21,Grand Canyon,,Park (AZ),REG (Non-Conf),W 111-38,*,9,4,5,0.8,4,4,1.0,0,1,0.0,1.2,0,0,,0,4,4,0,1,0,0,1,12,11.9,H,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+29,115,30,2023-02-24,Grand Canyon,,Seattle,REG (Conf),L 54-65,*,33,3,11,0.273,0,3,0.0,3,8,0.375,0.273,6,7,0.857,3,7,10,1,1,0,3,3,12,6.8,H,0,1,gabe-mcglothan-1,Gabe McGlothan,2023
+30,116,31,2023-03-01,Grand Canyon,@,Southern Utah,REG (Conf),W 83-78,*,25,4,9,0.444,3,4,0.75,1,5,0.2,0.611,2,2,1.0,0,2,2,0,0,0,2,4,13,5.3,A,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+31,117,32,2023-03-03,Grand Canyon,@,Utah Tech,REG (Conf),W 71-61,*,30,6,9,0.667,2,4,0.5,4,5,0.8,0.778,2,4,0.5,3,6,9,1,1,0,2,4,16,13.3,A,1,1,gabe-mcglothan-1,Gabe McGlothan,2023
+32,118,33,2023-03-07,Grand Canyon,N,UT Arlington,CTOURN,W 82-77,*,31,5,7,0.714,1,2,0.5,4,5,0.8,0.786,4,4,1.0,1,6,7,1,0,0,0,2,15,14.5,N,1,0,gabe-mcglothan-1,Gabe McGlothan,2023
+33,119,34,2023-03-09,Grand Canyon,N,Seattle,CTOURN,W 84-79,*,37,13,20,0.65,5,9,0.556,8,11,0.727,0.775,4,8,0.5,4,6,10,1,1,0,4,4,35,25.3,N,1,0,gabe-mcglothan-1,Gabe McGlothan,2023
+34,120,35,2023-03-10,Grand Canyon,N,Sam Houston State,CTOURN,W 78-75,*,29,3,9,0.333,0,4,0.0,3,5,0.6,0.333,3,5,0.6,0,6,6,1,1,2,2,3,9,4.8,N,1,0,gabe-mcglothan-1,Gabe McGlothan,2023
+35,121,36,2023-03-11,Grand Canyon,N,Southern Utah,CTOURN,W 84-66,*,22,9,12,0.75,2,3,0.667,7,9,0.778,0.833,1,2,0.5,0,3,3,2,1,0,2,4,21,15.5,N,1,0,gabe-mcglothan-1,Gabe McGlothan,2023
+36,122,37,2023-03-17,Grand Canyon,N,Gonzaga,ROUND-64,L 70-82,*,26,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,0,3,3,0,0,0,1,2,11,6.1,N,0,0,gabe-mcglothan-1,Gabe McGlothan,2023

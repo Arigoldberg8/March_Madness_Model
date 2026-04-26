@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2011-11-12,Long Beach State,,Idaho,REG (Non-Conf),W 69-61,*,36,7,17,0.412,3,9,0.333,4,8,0.5,0.5,3,5,0.6,2,1,3,4,2,0,3,2,20,12.8,H,1,1,casper-ware-1,Casper Ware,2012
+2,99,2,2011-11-16,Long Beach State,@,Pittsburgh,REG (Non-Conf),W 86-76,*,39,10,18,0.556,4,11,0.364,6,7,0.857,0.667,4,4,1.0,0,2,2,6,0,0,1,3,28,22.0,A,1,1,casper-ware-1,Casper Ware,2012
+3,100,3,2011-11-19,Long Beach State,@,San Diego State,REG (Non-Conf),L 73-77 (OT),*,41,7,16,0.438,1,5,0.2,6,11,0.545,0.469,11,12,0.917,2,2,4,6,0,0,6,3,26,16.2,A,0,1,casper-ware-1,Casper Ware,2012
+4,101,4,2011-11-22,Long Beach State,,Boise State,REG (Non-Conf),W 72-62,*,34,1,9,0.111,1,4,0.25,0,5,0.0,0.167,2,2,1.0,0,1,1,2,1,1,4,2,5,-2.3,H,1,1,casper-ware-1,Casper Ware,2012
+5,102,5,2011-11-26,Long Beach State,@,Montana,REG (Non-Conf),L 71-73,*,37,4,12,0.333,3,8,0.375,1,4,0.25,0.458,4,6,0.667,0,1,1,2,1,1,0,2,15,10.0,A,0,1,casper-ware-1,Casper Ware,2012
+6,103,6,2011-11-28,Long Beach State,@,Louisville,REG (Non-Conf),L 66-79,*,39,5,12,0.417,1,4,0.25,4,8,0.5,0.458,2,2,1.0,0,3,3,8,0,0,4,2,13,8.3,A,0,1,casper-ware-1,Casper Ware,2012
+7,104,7,2011-12-02,Long Beach State,,BYU-Hawaii,REG (Non-Conf),W 79-43,*,28,4,8,0.5,1,5,0.2,3,3,1.0,0.563,4,4,1.0,0,1,1,4,5,0,3,0,13,14.1,H,1,1,casper-ware-1,Casper Ware,2012
+8,105,8,2011-12-06,Long Beach State,@,Kansas,REG (Non-Conf),L 80-88,*,36,3,11,0.273,3,7,0.429,0,4,0.0,0.409,7,8,0.875,0,0,0,1,4,0,2,5,16,9.8,A,0,1,casper-ware-1,Casper Ware,2012
+9,106,9,2011-12-10,Long Beach State,@,North Carolina,REG (Non-Conf),L 78-84,*,37,12,24,0.5,4,9,0.444,8,15,0.533,0.583,1,1,1.0,1,3,4,5,1,0,5,1,29,17.7,A,0,1,casper-ware-1,Casper Ware,2012
+10,107,10,2011-12-19,Long Beach State,,Eastern N.M.,REG (Non-Conf),W 76-54,*,30,4,12,0.333,2,7,0.286,2,5,0.4,0.417,0,0,,1,2,3,0,3,0,1,0,10,6.5,H,1,1,casper-ware-1,Casper Ware,2012
+11,108,11,2011-12-22,Long Beach State,N,Xavier,REG (Non-Conf),W 68-58,*,36,3,13,0.231,2,7,0.286,1,6,0.167,0.308,4,6,0.667,1,7,8,5,0,0,4,1,12,5.2,N,1,1,casper-ware-1,Casper Ware,2012
+12,109,12,2011-12-23,Long Beach State,N,Auburn,REG (Non-Conf),W 64-43,*,34,2,10,0.2,2,8,0.25,0,2,0.0,0.3,7,9,0.778,0,2,2,3,1,0,3,3,13,5.5,N,1,1,casper-ware-1,Casper Ware,2012
+13,110,13,2011-12-25,Long Beach State,N,Kansas State,REG (Non-Conf),L 60-77,*,30,5,18,0.278,2,6,0.333,3,12,0.25,0.333,5,7,0.714,0,0,0,1,1,0,4,4,17,1.7,N,0,1,casper-ware-1,Casper Ware,2012
+14,111,14,2012-01-02,Long Beach State,@,UC Irvine,REG (Conf),W 74-60,*,35,8,12,0.667,1,4,0.25,7,8,0.875,0.708,2,2,1.0,0,2,2,0,4,0,0,0,19,18.4,A,1,1,casper-ware-1,Casper Ware,2012
+15,112,15,2012-01-05,Long Beach State,,Cal Poly,REG (Conf),W 55-50,*,36,5,14,0.357,2,6,0.333,3,8,0.375,0.429,5,7,0.714,0,1,1,2,0,0,0,1,17,9.7,H,1,1,casper-ware-1,Casper Ware,2012
+16,113,16,2012-01-07,Long Beach State,@,Cal State Northridge,REG (Conf),W 81-68,*,26,4,12,0.333,3,9,0.333,1,3,0.333,0.458,1,1,1.0,0,1,1,3,0,0,2,3,12,4.4,A,1,1,casper-ware-1,Casper Ware,2012
+17,114,17,2012-01-12,Long Beach State,,UC Davis,REG (Conf),W 86-58,*,35,3,10,0.3,2,8,0.25,1,2,0.5,0.4,3,4,0.75,1,4,5,3,1,0,2,1,11,7.4,H,1,1,casper-ware-1,Casper Ware,2012
+18,115,18,2012-01-14,Long Beach State,,Pacific,REG (Conf),W 76-66,*,34,6,13,0.462,3,10,0.3,3,3,1.0,0.577,5,5,1.0,1,2,3,1,0,0,4,4,20,9.7,H,1,1,casper-ware-1,Casper Ware,2012
+19,116,19,2012-01-19,Long Beach State,@,Cal Poly,REG (Conf),W 78-69,*,37,9,12,0.75,5,6,0.833,4,6,0.667,0.958,7,9,0.778,0,3,3,3,2,0,3,1,30,26.0,A,1,1,casper-ware-1,Casper Ware,2012
+20,117,20,2012-01-21,Long Beach State,@,UC Santa Barbara,REG (Conf),W 71-48,*,29,5,10,0.5,4,7,0.571,1,3,0.333,0.7,0,2,0.0,0,2,2,5,0,0,1,4,14,9.7,A,1,1,casper-ware-1,Casper Ware,2012
+21,118,21,2012-01-26,Long Beach State,@,UC Riverside,REG (Conf),W 77-70 (OT),*,42,4,16,0.25,1,6,0.167,3,10,0.3,0.281,9,10,0.9,0,1,1,4,4,0,3,0,18,12.1,A,1,1,casper-ware-1,Casper Ware,2012
+22,119,22,2012-01-28,Long Beach State,,Cal State Fullerton,REG (Conf),W 75-61,*,38,4,10,0.4,3,8,0.375,1,2,0.5,0.55,0,0,,0,3,3,5,0,0,3,2,11,6.2,H,1,1,casper-ware-1,Casper Ware,2012
+23,120,23,2012-02-04,Long Beach State,,Cal State Northridge,REG (Conf),W 75-67,*,36,2,15,0.133,1,10,0.1,1,5,0.2,0.167,0,1,0.0,0,3,3,3,1,1,3,1,5,-3.8,H,1,1,casper-ware-1,Casper Ware,2012
+24,121,24,2012-02-09,Long Beach State,@,Pacific,REG (Conf),W 74-66,*,39,12,23,0.522,8,15,0.533,4,8,0.5,0.696,6,6,1.0,0,5,5,0,1,0,2,2,38,26.4,A,1,1,casper-ware-1,Casper Ware,2012
+25,122,25,2012-02-11,Long Beach State,@,UC Davis,REG (Conf),W 89-69,*,28,6,11,0.545,3,7,0.429,3,4,0.75,0.682,1,2,0.5,1,1,2,2,1,0,0,0,16,13.7,A,1,1,casper-ware-1,Casper Ware,2012
+26,123,26,2012-02-18,Long Beach State,@,Creighton,REG (Non-Conf),L 79-81,*,28,7,14,0.5,3,6,0.5,4,8,0.5,0.607,4,5,0.8,0,1,1,2,1,0,5,3,21,10.1,A,0,1,casper-ware-1,Casper Ware,2012
+27,124,27,2012-02-22,Long Beach State,,UC Santa Barbara,REG (Conf),W 70-58,*,33,6,13,0.462,3,8,0.375,3,5,0.6,0.577,1,2,0.5,0,2,2,2,2,0,1,2,16,11.1,H,1,1,casper-ware-1,Casper Ware,2012
+28,125,28,2012-02-25,Long Beach State,,UC Riverside,REG (Conf),W 64-40,*,26,7,14,0.5,2,6,0.333,5,8,0.625,0.571,1,2,0.5,0,2,2,4,3,0,1,0,17,15.0,H,1,1,casper-ware-1,Casper Ware,2012
+29,126,29,2012-02-29,Long Beach State,,UC Irvine,REG (Conf),W 77-50,*,23,6,11,0.545,4,9,0.444,2,2,1.0,0.727,0,0,,1,2,3,4,4,0,3,2,16,15.0,H,1,1,casper-ware-1,Casper Ware,2012
+30,127,30,2012-03-03,Long Beach State,@,Cal State Fullerton,REG (Conf),L 74-77,*,35,2,15,0.133,2,9,0.222,0,6,0.0,0.2,4,7,0.571,0,1,1,7,1,0,1,3,10,3.1,A,0,1,casper-ware-1,Casper Ware,2012
+31,128,31,2012-03-08,Long Beach State,N,UC Davis,CTOURN,W 80-46,*,26,4,10,0.4,2,6,0.333,2,4,0.5,0.5,1,2,0.5,0,1,1,3,1,0,0,1,11,8.2,N,1,0,casper-ware-1,Casper Ware,2012
+32,129,32,2012-03-09,Long Beach State,N,UC Irvine,CTOURN,W 68-57,*,36,7,14,0.5,3,9,0.333,4,5,0.8,0.607,5,5,1.0,0,3,3,2,1,0,1,1,22,16.9,N,1,0,casper-ware-1,Casper Ware,2012
+33,130,33,2012-03-10,Long Beach State,N,UC Santa Barbara,CTOURN,W 77-64,*,31,10,23,0.435,8,16,0.5,2,7,0.286,0.609,5,5,1.0,2,1,3,6,0,0,4,2,33,22.0,N,1,0,casper-ware-1,Casper Ware,2012
+34,131,34,2012-03-15,Long Beach State,N,New Mexico,ROUND-64,L 68-75,*,36,5,19,0.263,2,9,0.222,3,10,0.3,0.316,5,7,0.714,0,3,3,6,0,0,2,3,17,6.8,N,0,0,casper-ware-1,Casper Ware,2012

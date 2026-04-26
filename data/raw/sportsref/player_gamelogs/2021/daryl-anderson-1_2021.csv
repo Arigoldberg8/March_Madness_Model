@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2020-11-27,Norfolk State,@,James Madison,REG (Non-Conf),W 83-73,,16,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,1,1,2,1,0,0,2,2,9,6.3,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+2,23,2,2020-11-28,Norfolk State,N,Radford,REG (Non-Conf),W 57-54,,18,4,6,0.667,3,5,0.6,1,1,1.0,0.917,1,1,1.0,0,4,4,2,0,0,1,1,12,10.6,N,1,1,daryl-anderson-1,Daryl Anderson,2021
+3,24,3,2020-12-02,Norfolk State,,Old Dominion,REG (Non-Conf),L 66-80,,29,5,7,0.714,4,6,0.667,1,1,1.0,1.0,3,5,0.6,0,0,0,1,1,0,0,1,17,14.6,H,0,1,daryl-anderson-1,Daryl Anderson,2021
+4,25,4,2020-12-07,Norfolk State,,Hampton,REG (Non-Conf),W 76-64,,35,4,5,0.8,3,4,0.75,1,1,1.0,1.1,1,2,0.5,0,7,7,0,1,0,2,1,12,10.4,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+5,26,5,2020-12-13,Norfolk State,@,UNC Greensboro,REG (Non-Conf),L 47-64,,34,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,1,1,0,1,0,5,4.6,A,0,1,daryl-anderson-1,Daryl Anderson,2021
+6,27,6,2020-12-18,Norfolk State,,UNC Wilmington,REG (Non-Conf),L 72-80,,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,3,0,-1.3,H,0,1,daryl-anderson-1,Daryl Anderson,2021
+7,28,7,2020-12-26,Norfolk State,@,George Mason,REG (Non-Conf),W 68-65,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+8,29,8,2021-01-09,Norfolk State,,Morgan State,REG (Conf),L 74-78,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,0,1,daryl-anderson-1,Daryl Anderson,2021
+9,30,9,2021-01-10,Norfolk State,,Morgan State,REG (Conf),W 89-85,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,-0.7,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+10,31,10,2021-01-13,Norfolk State,,N.C. Wesleyan,REG (Non-Conf),W 80-58,,15,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,1,1,8,5.7,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+11,32,11,2021-01-16,Norfolk State,@,Delaware State,REG (Conf),W 87-76,,6,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,1,0,0,1,3,3.6,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+12,33,12,2021-01-17,Norfolk State,@,Delaware State,REG (Conf),W 83-79 (OT),,10,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,0,0,0,1,2,2,-1.9,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+13,34,13,2021-01-23,Norfolk State,@,Coppin State,REG (Conf),L 71-81,,8,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,0,1,3,3.6,A,0,1,daryl-anderson-1,Daryl Anderson,2021
+14,35,14,2021-01-24,Norfolk State,@,Coppin State,REG (Conf),L 77-81,,22,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,1,1.0,1,1,2,0,3,0,0,1,11,12.0,A,0,1,daryl-anderson-1,Daryl Anderson,2021
+15,36,15,2021-01-30,Norfolk State,,Delaware State,REG (Conf),W 94-66,,12,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,2,6,4.2,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+16,37,17,2021-02-08,Norfolk State,,Coppin State,REG (Conf),L 64-74,,25,3,7,0.429,3,7,0.429,0,0,,0.643,4,4,1.0,0,4,4,0,1,0,0,4,13,9.9,H,0,1,daryl-anderson-1,Daryl Anderson,2021
+17,38,18,2021-02-13,Norfolk State,@,Morgan State,REG (Conf),W 74-69,,11,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,0,0,0,1,2,0.5,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+18,39,19,2021-02-14,Norfolk State,@,Morgan State,REG (Conf),W 68-65,,7,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,0,0,3,2.7,A,1,1,daryl-anderson-1,Daryl Anderson,2021
+19,40,20,2021-02-24,Norfolk State,,Delaware State,REG (Conf),W 86-55,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,1,2,0,-1.8,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+20,41,21,2021-02-28,Norfolk State,,St. Mary's (MD),REG (Non-Conf),W 72-51,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,1,1,0,0,-1.4,H,1,1,daryl-anderson-1,Daryl Anderson,2021
+21,42,22,2021-03-11,Norfolk State,N,North Carolina Central,CTOURN,W 87-58,,3,0,1,0.0,0,1,0.0,0,0,,0.0,3,3,1.0,0,1,1,0,0,1,0,0,3,3.3,N,1,0,daryl-anderson-1,Daryl Anderson,2021
+22,43,24,2021-03-18,Norfolk State,N,Appalachian State,FIRST-FOUR,W 54-53,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,1,0,1,0,1.3,N,1,0,daryl-anderson-1,Daryl Anderson,2021
+23,44,25,2021-03-20,Norfolk State,N,Gonzaga,ROUND-64,L 55-98,,11,0,2,0.0,0,2,0.0,0,0,,0.0,2,3,0.667,1,1,2,0,0,0,1,0,2,0.2,N,0,0,daryl-anderson-1,Daryl Anderson,2021

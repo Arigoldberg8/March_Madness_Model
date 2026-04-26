@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2011-11-11,St. Mary's (CA),,Fresno Pacific,REG (Non-Conf),W 98-58,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,5,6,0.833,1,5,6,0,1,0,2,0,9,7.8,H,1,1,mitchell-young-1,Mitchell Young,2012
+2,70,2,2011-11-15,St. Mary's (CA),,Northern Iowa,REG (Non-Conf),W 57-41,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,0,1,1,0,2,2,1,3,5,2.0,H,1,1,mitchell-young-1,Mitchell Young,2012
+3,71,3,2011-11-23,St. Mary's (CA),@,Denver,REG (Non-Conf),L 58-70,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,3,3,0,1,0,2,3,6,3.4,A,0,1,mitchell-young-1,Mitchell Young,2012
+4,72,6,2011-12-03,St. Mary's (CA),@,Cal Poly,REG (Non-Conf),W 59-54,,0,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,A,1,1,mitchell-young-1,Mitchell Young,2012
+5,73,7,2011-12-13,St. Mary's (CA),,Jackson State,REG (Non-Conf),W 77-53,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,2,4,1,0,1,0,2,2,2.9,H,1,1,mitchell-young-1,Mitchell Young,2012
+6,74,8,2011-12-15,St. Mary's (CA),,North Carolina A&T,REG (Non-Conf),W 84-45,,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,2,2,4,0,1,2,0,1,3,6.0,H,1,1,mitchell-young-1,Mitchell Young,2012
+7,75,9,2011-12-17,St. Mary's (CA),,Bethune-Cookman,REG (Non-Conf),W 77-52,,12,3,3,1.0,0,0,,3,3,1.0,1.0,3,3,1.0,3,1,4,1,1,0,0,1,9,11.8,H,1,1,mitchell-young-1,Mitchell Young,2012
+8,76,10,2011-12-19,St. Mary's (CA),,Kennesaw State,REG (Non-Conf),W 74-51,,11,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,1,0,0,1,4,4,2.1,H,1,1,mitchell-young-1,Mitchell Young,2012
+9,77,11,2011-12-20,St. Mary's (CA),,Eastern Washington,REG (Non-Conf),W 77-61,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,1,1,2,2,2,1.3,H,1,1,mitchell-young-1,Mitchell Young,2012
+10,78,12,2011-12-22,St. Mary's (CA),N,Baylor,REG (Non-Conf),L 59-72,,6,0,1,0.0,0,0,,0,1,0.0,0.0,1,4,0.25,1,0,1,0,0,0,0,2,1,-1.0,N,0,1,mitchell-young-1,Mitchell Young,2012
+11,79,13,2011-12-23,St. Mary's (CA),N,Missouri State,REG (Non-Conf),W 77-61,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,3,4,0,1,0,1,1,2,2.9,N,1,1,mitchell-young-1,Mitchell Young,2012
+12,80,14,2011-12-29,St. Mary's (CA),,Brigham Young,REG (Conf),W 98-82,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,3,2,0.8,H,1,1,mitchell-young-1,Mitchell Young,2012
+13,81,15,2011-12-31,St. Mary's (CA),@,Pepperdine,REG (Conf),W 74-45,,12,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,0,4,4,0,0,0,1,1,5,3.8,A,1,1,mitchell-young-1,Mitchell Young,2012
+14,82,16,2012-01-05,St. Mary's (CA),@,San Diego,REG (Conf),W 78-72,,22,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,0,1,1,1,1,6,5.6,A,1,1,mitchell-young-1,Mitchell Young,2012
+15,83,17,2012-01-09,St. Mary's (CA),,San Francisco,REG (Conf),W 87-72,,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,1,1,4,3.0,H,1,1,mitchell-young-1,Mitchell Young,2012
+16,84,18,2012-01-12,St. Mary's (CA),,Gonzaga,REG (Conf),W 83-62,,17,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,1,5,6,0,1,1,0,2,12,12.4,H,1,1,mitchell-young-1,Mitchell Young,2012
+17,85,19,2012-01-14,St. Mary's (CA),,Portland,REG (Conf),W 69-61,,8,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,0,1,0,0,1,1,3,3,0.1,H,1,1,mitchell-young-1,Mitchell Young,2012
+18,86,20,2012-01-19,St. Mary's (CA),,Pepperdine,REG (Conf),W 61-47,,11,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,2,2,4,1,1,0,1,1,8,9.4,H,1,1,mitchell-young-1,Mitchell Young,2012
+19,87,23,2012-01-28,St. Mary's (CA),@,Brigham Young,REG (Conf),W 80-66,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,A,1,1,mitchell-young-1,Mitchell Young,2012
+20,88,24,2012-02-02,St. Mary's (CA),,San Diego,REG (Conf),W 84-73,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,1,1,0,-0.1,H,1,1,mitchell-young-1,Mitchell Young,2012
+21,89,25,2012-02-09,St. Mary's (CA),@,Gonzaga,REG (Conf),L 59-73,,17,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,1,2,3,1,0,0,1,3,6,2.4,A,0,1,mitchell-young-1,Mitchell Young,2012
+22,90,26,2012-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 82-67,,14,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,2,2,4,0,1,1,2,4,5,3.1,H,1,1,mitchell-young-1,Mitchell Young,2012
+23,91,27,2012-02-15,St. Mary's (CA),,Loyola Marymount,REG (Conf),L 60-75,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,1,4,4,2,-4.3,H,0,1,mitchell-young-1,Mitchell Young,2012
+24,92,28,2012-02-18,St. Mary's (CA),@,Murray State,REG (Non-Conf),L 51-65,,18,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,0,1,1,1,0,0,1,6,5.0,A,0,1,mitchell-young-1,Mitchell Young,2012
+25,93,29,2012-02-23,St. Mary's (CA),@,Portland,REG (Conf),W 70-43,,20,4,6,0.667,0,0,,4,6,0.667,0.667,2,5,0.4,1,0,1,1,2,0,2,0,10,7.6,A,1,1,mitchell-young-1,Mitchell Young,2012
+26,94,30,2012-02-25,St. Mary's (CA),@,San Francisco,REG (Conf),W 67-60,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,5,5,0,0,0,1,3,2,1.0,A,1,1,mitchell-young-1,Mitchell Young,2012
+27,95,31,2012-03-03,St. Mary's (CA),N,San Francisco,CTOURN,W 83-78,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,1,2,2,1,0,1,0,2,3.3,N,1,0,mitchell-young-1,Mitchell Young,2012
+28,96,32,2012-03-05,St. Mary's (CA),N,Gonzaga,CTOURN,W 78-74 (OT),,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,N,1,0,mitchell-young-1,Mitchell Young,2012
+29,97,33,2012-03-16,St. Mary's (CA),N,Purdue,ROUND-64,L 69-72,,16,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,2,3,5,0,0,0,1,1,12,9.7,N,0,0,mitchell-young-1,Mitchell Young,2012

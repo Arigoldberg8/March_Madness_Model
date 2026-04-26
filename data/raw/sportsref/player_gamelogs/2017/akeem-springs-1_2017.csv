@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,79,1,2016-11-11,Minnesota,,Louisiana,REG (Non-Conf),W 86-74,,23,3,10,0.3,3,8,0.375,0,2,0.0,0.45,2,2,1.0,0,2,2,2,0,0,2,1,11,4.8,H,1,1,akeem-springs-1,Akeem Springs,2017
+2,80,2,2016-11-14,Minnesota,,UT Arlington,REG (Non-Conf),W 84-67,,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,3,4,0.75,1,3,4,1,1,0,1,2,3,1.3,H,1,1,akeem-springs-1,Akeem Springs,2017
+3,81,3,2016-11-16,Minnesota,,Mount St. Mary's,REG (Non-Conf),W 80-56,,16,4,7,0.571,2,5,0.4,2,2,1.0,0.714,0,0,,0,6,6,1,0,0,1,0,10,8.2,H,1,1,akeem-springs-1,Akeem Springs,2017
+4,82,4,2016-11-18,Minnesota,,St. John's (NY),REG (Non-Conf),W 92-86,,10,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,2,1,3,1,0,0,0,0,3,1.6,H,1,1,akeem-springs-1,Akeem Springs,2017
+5,83,5,2016-11-22,Minnesota,,Arkansas,REG (Non-Conf),W 85-71,,27,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,1,0.0,2,1,3,3,1,0,0,2,11,11.3,H,1,1,akeem-springs-1,Akeem Springs,2017
+6,84,6,2016-11-25,Minnesota,,Southern Illinois,REG (Non-Conf),W 57-45,,17,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,2,3,5,1,0,1,0,0,2,2.2,H,1,1,akeem-springs-1,Akeem Springs,2017
+7,85,7,2016-11-28,Minnesota,@,Florida State,REG (Non-Conf),L 67-75,,24,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,1,2,0,1,0,1,3,11,7.5,A,0,1,akeem-springs-1,Akeem Springs,2017
+8,86,8,2016-12-03,Minnesota,N,Vanderbilt,REG (Non-Conf),W 56-52,,16,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,0,0,0,0,0,0,0,0,3,-0.8,N,1,1,akeem-springs-1,Akeem Springs,2017
+9,87,9,2016-12-06,Minnesota,,NJIT,REG (Non-Conf),W 74-68,,29,6,12,0.5,4,10,0.4,2,2,1.0,0.667,3,4,0.75,0,7,7,1,0,0,0,1,19,15.0,H,1,1,akeem-springs-1,Akeem Springs,2017
+10,88,10,2016-12-09,Minnesota,,Georgia Southern,REG (Non-Conf),W 86-49,*,25,6,12,0.5,4,8,0.5,2,4,0.5,0.667,0,0,,0,1,1,0,0,0,0,1,16,9.9,H,1,1,akeem-springs-1,Akeem Springs,2017
+11,89,11,2016-12-11,Minnesota,,Northern Illinois,REG (Non-Conf),W 77-57,,22,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,0,3,3,1,4,0,3,1,10,7.8,H,1,1,akeem-springs-1,Akeem Springs,2017
+12,90,12,2016-12-14,Minnesota,,LIU Brooklyn,REG (Non-Conf),W 76-66,*,31,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,2,1.0,1,2,3,5,0,0,1,1,8,7.3,H,1,1,akeem-springs-1,Akeem Springs,2017
+13,91,13,2016-12-23,Minnesota,,Arkansas State,REG (Non-Conf),W 82-75,,21,3,5,0.6,3,4,0.75,0,1,0.0,0.9,5,8,0.625,0,3,3,1,0,0,1,0,14,11.1,H,1,1,akeem-springs-1,Akeem Springs,2017
+14,92,14,2016-12-27,Minnesota,,Michigan State,REG (Conf),L 74-75 (OT),,17,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,1,1,0,0,1,2,0,4,1.6,H,0,1,akeem-springs-1,Akeem Springs,2017
+15,93,15,2017-01-01,Minnesota,@,Purdue,REG (Conf),W 91-82 (OT),,17,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,3,0.667,0,4,4,1,1,1,1,0,4,3.1,A,1,1,akeem-springs-1,Akeem Springs,2017
+16,94,16,2017-01-05,Minnesota,@,Northwestern,REG (Conf),W 70-66,,17,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,2,2,1,0,0,1,0,8,5.3,A,1,1,akeem-springs-1,Akeem Springs,2017
+17,95,17,2017-01-08,Minnesota,,Ohio State,REG (Conf),W 78-68,,27,6,10,0.6,5,8,0.625,1,2,0.5,0.85,1,2,0.5,0,3,3,5,0,0,1,2,18,15.6,H,1,1,akeem-springs-1,Akeem Springs,2017
+18,96,18,2017-01-11,Minnesota,@,Michigan State,REG (Conf),L 47-65,,17,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,0,0,0,0,0,0,1,3,-1.2,A,0,1,akeem-springs-1,Akeem Springs,2017
+19,97,19,2017-01-14,Minnesota,@,Penn State,REG (Conf),L 50-52,,23,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,0,2,2,0,0,0,2,0,5,-1.2,A,0,1,akeem-springs-1,Akeem Springs,2017
+20,98,20,2017-01-21,Minnesota,,Wisconsin,REG (Conf),L 76-78 (OT),*,36,6,12,0.5,3,6,0.5,3,6,0.5,0.625,1,2,0.5,1,2,3,1,1,1,0,1,16,12.9,H,0,1,akeem-springs-1,Akeem Springs,2017
+21,99,21,2017-01-25,Minnesota,@,Ohio State,REG (Conf),L 72-78,*,35,5,12,0.417,3,7,0.429,2,5,0.4,0.542,2,2,1.0,2,8,10,1,2,0,2,2,15,12.3,A,0,1,akeem-springs-1,Akeem Springs,2017
+22,100,22,2017-01-28,Minnesota,,Maryland,REG (Conf),L 78-85,*,33,9,15,0.6,3,7,0.429,6,8,0.75,0.7,2,2,1.0,1,3,4,1,0,0,0,2,23,17.6,H,0,1,akeem-springs-1,Akeem Springs,2017
+23,101,23,2017-02-04,Minnesota,@,Illinois,REG (Conf),W 68-59,*,35,5,14,0.357,4,8,0.5,1,6,0.167,0.5,0,1,0.0,1,5,6,1,0,1,0,2,14,8.6,A,1,1,akeem-springs-1,Akeem Springs,2017
+24,102,24,2017-02-08,Minnesota,,Iowa,REG (Conf),W 101-89 (2OT),*,39,5,14,0.357,5,8,0.625,0,6,0.0,0.536,2,2,1.0,1,1,2,3,4,0,4,2,17,11.5,H,1,1,akeem-springs-1,Akeem Springs,2017
+25,103,25,2017-02-11,Minnesota,@,Rutgers,REG (Conf),W 72-63,*,34,3,8,0.375,1,6,0.167,2,2,1.0,0.438,0,0,,0,5,5,3,1,0,0,3,7,6.0,A,1,1,akeem-springs-1,Akeem Springs,2017
+26,104,26,2017-02-15,Minnesota,,Indiana,REG (Conf),W 75-74,*,27,2,13,0.154,0,6,0.0,2,7,0.286,0.154,0,1,0.0,0,2,2,2,1,0,1,2,4,-3.5,H,1,1,akeem-springs-1,Akeem Springs,2017
+27,105,27,2017-02-19,Minnesota,,Michigan,REG (Conf),W 83-78 (OT),*,22,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,5,0.4,2,1,3,3,0,0,1,3,7,3.3,H,1,1,akeem-springs-1,Akeem Springs,2017
+28,106,28,2017-02-22,Minnesota,@,Maryland,REG (Conf),W 89-75,*,18,6,9,0.667,4,7,0.571,2,2,1.0,0.889,0,0,,0,1,1,0,0,0,0,2,16,11.6,A,1,1,akeem-springs-1,Akeem Springs,2017
+29,107,29,2017-02-25,Minnesota,,Penn State,REG (Conf),W 81-71,*,25,5,13,0.385,2,7,0.286,3,6,0.5,0.462,0,0,,0,2,2,3,0,0,1,1,12,6.2,H,1,1,akeem-springs-1,Akeem Springs,2017
+30,108,30,2017-03-02,Minnesota,,Nebraska,REG (Conf),W 88-73,*,19,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,0,0,1,2,0,3,-2.1,H,1,1,akeem-springs-1,Akeem Springs,2017
+31,109,31,2017-03-05,Minnesota,@,Wisconsin,REG (Conf),L 49-66,*,22,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,1,1,0,-5.0,A,0,1,akeem-springs-1,Akeem Springs,2017
+32,110,32,2017-03-10,Minnesota,N,Michigan State,CTOURN,W 63-58,*,28,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,2,2,1,1,0,1,0,6,3.9,N,1,0,akeem-springs-1,Akeem Springs,2017

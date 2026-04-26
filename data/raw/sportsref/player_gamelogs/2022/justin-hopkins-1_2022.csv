@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2021-11-09,Texas Southern,@,Oregon,REG (Non-Conf),L 66-83,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,1,0,0,3,1,4,1.0,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+2,128,2,2021-11-12,Texas Southern,@,St. Mary's (CA),REG (Non-Conf),L 58-67,*,35,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,1,0,0,0,2,2,0.8,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+3,129,3,2021-11-15,Texas Southern,@,Washington,REG (Non-Conf),L 65-72,*,34,3,9,0.333,1,5,0.2,2,4,0.5,0.389,4,6,0.667,1,2,3,2,1,0,3,3,11,4.6,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+4,130,4,2021-11-17,Texas Southern,@,Air Force,REG (Non-Conf),L 57-61,*,34,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,4,1.0,1,1,2,1,0,0,1,2,10,7.6,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+5,131,5,2021-11-21,Texas Southern,@,NC State,REG (Non-Conf),L 57-65,*,26,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,1,1,2,1,0,0,2,3,4,-0.3,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+6,132,6,2021-11-24,Texas Southern,@,Brigham Young,REG (Non-Conf),L 64-81,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,6,6,1.0,1,1,2,1,1,0,3,2,8,5.2,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+7,133,7,2021-12-01,Texas Southern,@,Louisiana Tech,REG (Non-Conf),L 60-87,*,16,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,0,,0,0,0,2,0,0,0,1,4,-0.5,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+8,134,8,2021-12-06,Texas Southern,@,Florida,REG (Non-Conf),W 69-54,*,35,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,3,4,2,1,0,1,1,8,8.0,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+9,135,9,2021-12-14,Texas Southern,@,Texas–Rio Grande Valley,REG (Non-Conf),W 70-60,*,35,5,11,0.455,2,4,0.5,3,7,0.429,0.545,0,0,,1,4,5,4,0,0,3,3,12,6.8,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+10,136,10,2022-01-03,Texas Southern,@,Southern,REG (Conf),L 50-63,*,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,2,1,0,-2.8,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+11,137,11,2022-01-05,Texas Southern,@,Grambling State,REG (Conf),W 67-61,,16,1,2,0.5,0,0,,1,2,0.5,0.5,5,8,0.625,1,0,1,2,0,0,3,1,7,3.5,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+12,138,12,2022-01-08,Texas Southern,,Arkansas–Pine Bluff,REG (Conf),W 90-71,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,3,3,2,0,0,2,0,5,3.3,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+13,139,13,2022-01-10,Texas Southern,,Mississippi Valley State,REG (Conf),W 95-58,,25,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,4,0.75,1,5,6,2,1,0,2,2,10,9.8,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+14,140,14,2022-01-15,Texas Southern,@,Alcorn State,REG (Conf),L 72-73,,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,1,2,1,0,0,0,2,6,4.2,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+15,141,15,2022-01-17,Texas Southern,@,Jackson State,REG (Conf),L 58-61,,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-2.2,A,0,1,justin-hopkins-1,Justin Hopkins,2022
+16,142,16,2022-01-22,Texas Southern,,Alabama A&M,REG (Conf),W 78-44,*,14,1,3,0.333,1,3,0.333,0,0,,0.5,2,3,0.667,0,1,1,0,0,0,0,2,5,2.4,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+17,143,17,2022-01-24,Texas Southern,,Alabama State,REG (Conf),W 73-66,*,18,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,4,0.5,2,3,5,0,1,0,4,0,8,4.2,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+18,144,18,2022-01-29,Texas Southern,@,Prairie View A&M,REG (Conf),W 75-74 (OT),*,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,0,0,0,0,0,0,1,5,2.6,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+19,145,19,2022-02-05,Texas Southern,@,Florida A&M,REG (Conf),W 67-55,,8,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,0,0,0,0,3,4,1.8,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+20,146,20,2022-02-07,Texas Southern,@,Bethune-Cookman,REG (Conf),W 66-63,*,17,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,1,0,1,1,2,0,0,0,6,7.8,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+21,147,21,2022-02-12,Texas Southern,,Grambling State,REG (Conf),W 68-65,,28,3,9,0.333,1,4,0.25,2,5,0.4,0.389,4,7,0.571,2,1,3,1,0,0,0,1,11,6.7,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+22,148,22,2022-02-14,Texas Southern,,Southern,REG (Conf),L 58-70,*,21,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,2,0,2,2,0,0,1,1,10,8.4,H,0,1,justin-hopkins-1,Justin Hopkins,2022
+23,149,23,2022-02-19,Texas Southern,@,Mississippi Valley State,REG (Conf),W 79-59,*,14,5,5,1.0,2,2,1.0,3,3,1.0,1.2,2,2,1.0,1,1,2,1,0,0,1,2,14,12.4,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+24,150,24,2022-02-21,Texas Southern,@,Arkansas–Pine Bluff,REG (Conf),W 70-68,*,27,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,5,0.8,1,2,3,1,1,0,3,1,10,6.9,A,1,1,justin-hopkins-1,Justin Hopkins,2022
+25,151,25,2022-02-26,Texas Southern,,Jackson State,REG (Conf),W 81-66,*,27,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,1,1.0,1,1,2,2,0,1,2,0,9,7.1,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+26,152,26,2022-02-28,Texas Southern,,Alcorn State,REG (Conf),L 72-75,*,20,2,7,0.286,1,5,0.2,1,2,0.5,0.357,3,4,0.75,1,1,2,1,0,0,0,0,8,5.2,H,0,1,justin-hopkins-1,Justin Hopkins,2022
+27,153,27,2022-03-05,Texas Southern,,Prairie View A&M,REG (Conf),W 78-77,*,22,1,6,0.167,0,2,0.0,1,4,0.25,0.167,6,6,1.0,1,2,3,1,0,0,2,2,8,3.4,H,1,1,justin-hopkins-1,Justin Hopkins,2022
+28,154,28,2022-03-09,Texas Southern,N,Jackson State,CTOURN,W 54-50,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,N,1,0,justin-hopkins-1,Justin Hopkins,2022
+29,155,29,2022-03-11,Texas Southern,N,Grambling State,CTOURN,W 73-54,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,0,2,1,0,0,3,1,2,-1.0,N,1,0,justin-hopkins-1,Justin Hopkins,2022
+30,156,30,2022-03-12,Texas Southern,N,Alcorn State,CTOURN,W 87-62,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,N,1,0,justin-hopkins-1,Justin Hopkins,2022
+31,157,31,2022-03-15,Texas Southern,N,Texas A&M–Corpus Christi,FIRST-FOUR,W 76-67,*,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,justin-hopkins-1,Justin Hopkins,2022
+32,158,32,2022-03-17,Texas Southern,N,Kansas,ROUND-64,L 56-83,,13,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,0,1,1,0,0,1,1,1,-0.1,N,0,0,justin-hopkins-1,Justin Hopkins,2022

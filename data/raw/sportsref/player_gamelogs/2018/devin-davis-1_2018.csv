@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,50,1,2017-11-10,Houston,,McNeese State,REG (Non-Conf),W 81-53,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,5,5,5,0,1,2,0,7,8.0,H,1,1,devin-davis-1,Devin Davis,2018
+2,51,2,2017-11-17,Houston,N,Drexel,REG (Non-Conf),L 80-84,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,0,2,0.0,3,5,8,0,1,1,1,5,10,7.2,N,0,1,devin-davis-1,Devin Davis,2018
+3,52,3,2017-11-18,Houston,N,Liberty,REG (Non-Conf),W 68-66,*,32,5,14,0.357,0,0,,5,14,0.357,0.357,2,2,1.0,1,4,5,1,0,1,0,2,12,6.7,N,1,1,devin-davis-1,Devin Davis,2018
+4,53,4,2017-11-19,Houston,N,Wake Forest,REG (Non-Conf),W 78-73,*,35,7,14,0.5,0,0,,7,14,0.5,0.5,3,6,0.5,3,7,10,3,0,1,1,2,17,14.0,N,1,1,devin-davis-1,Devin Davis,2018
+5,54,5,2017-11-25,Houston,,Incarnate Word,REG (Non-Conf),W 97-58,*,21,5,12,0.417,0,0,,5,12,0.417,0.417,0,2,0.0,3,7,10,2,1,2,0,3,10,9.6,H,1,1,devin-davis-1,Devin Davis,2018
+6,55,6,2017-11-29,Houston,,New Orleans,REG (Non-Conf),W 75-66,*,28,3,9,0.333,0,0,,3,9,0.333,0.333,0,3,0.0,0,6,6,1,4,0,2,1,6,3.8,H,1,1,devin-davis-1,Devin Davis,2018
+7,56,7,2017-12-02,Houston,,Arkansas,REG (Non-Conf),W 91-65,*,32,10,14,0.714,1,2,0.5,9,12,0.75,0.75,7,8,0.875,4,6,10,2,0,2,1,4,28,26.6,H,1,1,devin-davis-1,Devin Davis,2018
+8,57,8,2017-12-06,Houston,,Fairfield,REG (Non-Conf),W 88-66,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,3,4,0.75,1,8,9,2,0,0,1,3,11,8.2,H,1,1,devin-davis-1,Devin Davis,2018
+9,58,9,2017-12-09,Houston,@,Saint Louis,REG (Non-Conf),W 77-58,*,29,7,8,0.875,0,0,,7,8,0.875,0.875,3,6,0.5,0,4,4,1,1,0,1,4,17,13.3,A,1,1,devin-davis-1,Devin Davis,2018
+10,59,10,2017-12-13,Houston,@,Louisiana State,REG (Non-Conf),L 77-80,*,32,7,15,0.467,0,1,0.0,7,14,0.5,0.467,0,0,,3,4,7,0,1,0,5,3,14,4.4,A,0,1,devin-davis-1,Devin Davis,2018
+11,60,11,2017-12-17,Houston,,Prairie View A&M,REG (Non-Conf),W 92-72,*,29,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,2,1.0,3,4,7,2,2,1,1,1,10,9.9,H,1,1,devin-davis-1,Devin Davis,2018
+12,61,12,2017-12-20,Houston,N,Providence,REG (Non-Conf),W 70-59,*,29,0,6,0.0,0,0,,0,6,0.0,0.0,2,2,1.0,1,8,9,1,0,0,1,4,2,-1.0,N,1,1,devin-davis-1,Devin Davis,2018
+13,62,13,2017-12-28,Houston,@,South Florida,REG (Conf),W 79-60,*,13,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,0,2,2,1,0,0,0,3,10,6.5,A,1,1,devin-davis-1,Devin Davis,2018
+14,63,14,2017-12-30,Houston,,Temple,REG (Conf),W 76-73,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,4,5,0.8,1,2,3,2,1,2,1,4,12,10.1,H,1,1,devin-davis-1,Devin Davis,2018
+15,64,15,2018-01-04,Houston,@,Wichita State,REG (Conf),L 63-81,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,4,5,0,1,0,4,4,7,1.9,A,0,1,devin-davis-1,Devin Davis,2018
+16,65,16,2018-01-11,Houston,,Tulsa,REG (Conf),W 104-71,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,6,8,3,0,2,0,4,6,8.1,H,1,1,devin-davis-1,Devin Davis,2018
+17,66,17,2018-01-14,Houston,@,East Carolina,REG (Conf),W 65-49,*,16,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,2,3,1,2,0,1,0,4,3.6,A,1,1,devin-davis-1,Devin Davis,2018
+18,67,18,2018-01-17,Houston,@,Tulane,REG (Conf),L 72-81,*,25,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,0,3,3,0,2,0,0,4,10,7.7,A,0,1,devin-davis-1,Devin Davis,2018
+19,68,19,2018-01-20,Houston,,Wichita State,REG (Conf),W 73-59,*,29,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,1,6,7,1,1,1,0,2,12,11.1,H,1,1,devin-davis-1,Devin Davis,2018
+20,69,20,2018-01-28,Houston,,South Florida,REG (Conf),W 63-40,*,11,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,3,4,1,0,0,1,4,4,1.0,H,1,1,devin-davis-1,Devin Davis,2018
+21,70,21,2018-01-31,Houston,@,Cincinnati,REG (Conf),L 70-80,*,36,7,11,0.636,0,1,0.0,7,10,0.7,0.636,1,5,0.2,3,6,9,3,1,1,1,2,15,14.4,A,0,1,devin-davis-1,Devin Davis,2018
+22,71,22,2018-02-03,Houston,@,UCF,REG (Conf),W 69-65,*,23,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,0,4,4,1,1,1,0,4,8,5.6,A,1,1,devin-davis-1,Devin Davis,2018
+23,72,23,2018-02-08,Houston,,SMU,REG (Conf),W 67-58,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,2,3,5,2,0,1,2,2,8,6.3,H,1,1,devin-davis-1,Devin Davis,2018
+24,73,24,2018-02-11,Houston,,Tulane,REG (Conf),W 73-42,*,25,6,9,0.667,0,0,,6,9,0.667,0.667,4,4,1.0,2,2,4,1,0,0,0,1,16,14.4,H,1,1,devin-davis-1,Devin Davis,2018
+25,74,25,2018-02-15,Houston,,Cincinnati,REG (Conf),W 67-62,*,34,7,13,0.538,0,0,,7,13,0.538,0.538,2,2,1.0,4,6,10,1,1,1,2,3,16,13.5,H,1,1,devin-davis-1,Devin Davis,2018
+26,75,26,2018-02-18,Houston,@,Temple,REG (Conf),W 80-59,*,27,7,16,0.438,0,0,,7,16,0.438,0.438,2,2,1.0,5,6,11,2,1,0,1,0,16,14.3,A,1,1,devin-davis-1,Devin Davis,2018
+27,76,27,2018-02-22,Houston,@,Memphis,REG (Conf),L 85-91,*,17,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,1,1,2,1,0,0,1,4,5,0.3,A,0,1,devin-davis-1,Devin Davis,2018
+28,77,28,2018-02-25,Houston,,East Carolina,REG (Conf),W 109-58,*,16,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,1,5,6,1,0,0,2,3,8,5.1,H,1,1,devin-davis-1,Devin Davis,2018
+29,78,29,2018-02-28,Houston,@,SMU,REG (Conf),W 69-56,*,20,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,0,2,0,0,0,1,3,8,4.6,A,1,1,devin-davis-1,Devin Davis,2018
+30,79,30,2018-03-04,Houston,,Connecticut,REG (Conf),W 81-71,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,3,5,8,1,1,0,2,4,12,9.0,H,1,1,devin-davis-1,Devin Davis,2018
+31,80,31,2018-03-09,Houston,N,UCF,CTOURN,W 84-56,*,26,6,8,0.75,0,0,,6,8,0.75,0.75,4,6,0.667,1,6,7,2,0,1,0,3,16,15.4,N,1,0,devin-davis-1,Devin Davis,2018
+32,81,32,2018-03-10,Houston,N,Wichita State,CTOURN,W 77-74,*,28,1,5,0.2,0,0,,1,5,0.2,0.2,3,4,0.75,0,5,5,0,0,2,0,3,5,3.2,N,1,0,devin-davis-1,Devin Davis,2018
+33,82,33,2018-03-11,Houston,N,Cincinnati,CTOURN,L 55-56,*,24,6,11,0.545,0,0,,6,11,0.545,0.545,1,2,0.5,0,5,5,0,0,1,2,4,13,5.9,N,0,0,devin-davis-1,Devin Davis,2018
+34,83,34,2018-03-15,Houston,N,San Diego State,ROUND-64,W 67-65,*,25,4,14,0.286,0,0,,4,14,0.286,0.286,1,2,0.5,1,8,9,0,0,0,0,5,9,1.5,N,1,0,devin-davis-1,Devin Davis,2018
+35,84,35,2018-03-17,Houston,N,Michigan,ROUND-32,L 63-64,*,35,4,12,0.333,0,0,,4,12,0.333,0.333,9,12,0.75,1,6,7,2,1,2,1,2,17,13.5,N,0,0,devin-davis-1,Devin Davis,2018

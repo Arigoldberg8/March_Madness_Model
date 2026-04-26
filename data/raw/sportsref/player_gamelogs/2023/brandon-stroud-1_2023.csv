@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2022-11-07,Kennesaw State,,LaGrange,REG (Non-Conf),W 99-56,*,16,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,2,2,4,1,1,0,1,1,5,4.6,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+2,56,2,2022-11-11,Kennesaw State,@,Florida,REG (Non-Conf),L 78-88,*,22,3,7,0.429,2,3,0.667,1,4,0.25,0.571,0,1,0.0,3,7,10,1,3,0,1,3,8,9.6,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+3,57,3,2022-11-14,Kennesaw State,,Brewton-Parker,REG (Non-Conf),W 95-36,*,18,5,6,0.833,2,3,0.667,3,3,1.0,1.0,0,1,0.0,3,6,9,3,1,0,1,1,12,15.0,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+4,58,4,2022-11-18,Kennesaw State,N,Southeastern Louisiana,REG (Non-Conf),W 72-68,*,32,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,6,0.5,2,8,10,0,4,0,1,3,14,15.5,N,1,1,brandon-stroud-1,Brandon Stroud,2023
+5,59,5,2022-11-19,Kennesaw State,@,Appalachian State,REG (Non-Conf),W 71-67,*,30,4,12,0.333,1,3,0.333,3,9,0.333,0.375,3,4,0.75,5,5,10,0,1,1,0,1,12,11.1,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+6,60,6,2022-11-20,Kennesaw State,N,Campbell,REG (Non-Conf),L 61-85,*,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,0,1,0,0,0,2,5,4,-1.3,N,0,1,brandon-stroud-1,Brandon Stroud,2023
+7,61,7,2022-11-26,Kennesaw State,@,VCU,REG (Non-Conf),L 61-64,*,36,3,5,0.6,2,3,0.667,1,2,0.5,0.8,2,6,0.333,2,8,10,1,1,0,5,4,10,5.0,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+8,62,8,2022-12-02,Kennesaw State,@,Mercer,REG (Non-Conf),W 66-63,,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,3,3,1,1,0,2,3,4,1.0,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+9,63,9,2022-12-05,Kennesaw State,@,Charleston Southern,REG (Non-Conf),W 76-65,*,26,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,7,0.429,1,5,6,5,0,0,1,3,8,7.9,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+10,64,10,2022-12-12,Kennesaw State,@,San Diego State,REG (Non-Conf),L 54-88,*,22,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,1,4,5,0,1,0,1,1,0,-3.4,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+11,65,11,2022-12-17,Kennesaw State,,Georgia College,REG (Non-Conf),W 79-55,*,20,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,4,5,1,0,1,0,3,4,3.4,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+12,66,12,2022-12-20,Kennesaw State,,USC Upstate,REG (Non-Conf),W 65-56,*,26,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,1,1.0,5,4,9,2,0,0,0,2,10,10.6,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+13,67,13,2022-12-23,Kennesaw State,@,Indiana,REG (Non-Conf),L 55-69,*,28,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,1,4,5,2,1,1,2,3,5,3.4,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+14,68,14,2022-12-31,Kennesaw State,,Central Arkansas,REG (Conf),W 82-66,*,27,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,4,0.5,2,5,7,1,3,0,3,2,12,10.0,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+15,69,15,2023-01-02,Kennesaw State,,Eastern Kentucky,REG (Conf),W 79-75,*,33,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,6,0.333,2,2,4,3,4,0,4,3,6,3.9,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+16,70,16,2023-01-05,Kennesaw State,@,North Florida,REG (Conf),L 86-89,*,27,5,14,0.357,2,6,0.333,3,8,0.375,0.429,1,4,0.25,3,5,8,5,1,0,0,4,13,10.5,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+17,71,17,2023-01-07,Kennesaw State,@,Queens (NC),REG (Conf),W 76-67,*,27,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,4,0.5,1,5,6,0,1,0,1,3,4,1.8,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+18,72,18,2023-01-12,Kennesaw State,,Jacksonville,REG (Conf),W 81-68,*,18,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,7,0.571,1,4,5,4,1,0,1,4,8,7.9,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+19,73,19,2023-01-14,Kennesaw State,,North Florida,REG (Conf),W 86-72,*,28,7,12,0.583,3,4,0.75,4,8,0.5,0.708,1,3,0.333,2,3,5,2,0,0,1,3,18,13.1,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+20,74,20,2023-01-19,Kennesaw State,@,Stetson,REG (Conf),W 82-81 (OT),*,27,5,7,0.714,2,4,0.5,3,3,1.0,0.857,3,4,0.75,2,3,5,0,1,0,1,3,15,12.8,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+21,75,21,2023-01-21,Kennesaw State,@,Florida Gulf Coast,REG (Conf),W 65-63,*,24,7,10,0.7,1,1,1.0,6,9,0.667,0.75,0,0,,2,2,4,0,1,0,1,3,15,11.6,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+22,76,22,2023-01-26,Kennesaw State,,Austin Peay,REG (Conf),W 84-57,*,28,4,8,0.5,2,4,0.5,2,4,0.5,0.625,3,6,0.5,4,7,11,2,1,0,1,2,13,13.3,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+23,77,23,2023-01-28,Kennesaw State,,Lipscomb,REG (Conf),W 85-72,*,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,3,0.667,1,4,5,1,3,0,3,1,6,5.8,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+24,78,24,2023-02-02,Kennesaw State,@,Bellarmine,REG (Conf),W 90-84 (2OT),*,36,6,11,0.545,2,2,1.0,4,9,0.444,0.636,5,6,0.833,1,7,8,3,5,0,2,3,19,20.0,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+25,79,25,2023-02-04,Kennesaw State,@,Eastern Kentucky,REG (Conf),L 74-77,*,31,4,13,0.308,1,5,0.2,3,8,0.375,0.346,3,6,0.5,2,9,11,2,1,0,5,4,12,3.2,A,0,1,brandon-stroud-1,Brandon Stroud,2023
+26,80,26,2023-02-09,Kennesaw State,@,Jacksonville State,REG (Conf),W 54-52,*,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,4,0.5,2,5,7,2,3,0,2,3,2,2.5,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+27,81,27,2023-02-11,Kennesaw State,,Jacksonville State,REG (Conf),W 74-71,*,20,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,3,0.333,1,1,2,3,0,0,1,2,3,1.8,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+28,82,28,2023-02-16,Kennesaw State,,Liberty,REG (Conf),W 88-81,*,33,7,12,0.583,1,5,0.2,6,7,0.857,0.625,3,4,0.75,1,5,6,3,2,0,1,1,18,16.9,H,1,1,brandon-stroud-1,Brandon Stroud,2023
+29,83,29,2023-02-18,Kennesaw State,,Queens (NC),REG (Conf),L 76-83,*,17,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,2,4,2,1,1,1,4,4,5.9,H,0,1,brandon-stroud-1,Brandon Stroud,2023
+30,84,30,2023-02-22,Kennesaw State,@,North Alabama,REG (Conf),W 79-66,*,33,3,9,0.333,2,4,0.5,1,5,0.2,0.444,2,5,0.4,0,6,6,2,2,0,0,5,10,6.9,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+31,85,31,2023-02-24,Kennesaw State,@,Central Arkansas,REG (Conf),W 72-56,*,23,3,10,0.3,0,2,0.0,3,8,0.375,0.3,0,0,,4,7,11,2,1,0,1,3,6,5.3,A,1,1,brandon-stroud-1,Brandon Stroud,2023
+32,86,32,2023-02-28,Kennesaw State,,Queens (NC),CTOURN,W 67-66,*,30,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,2,0.5,0,5,5,1,1,4,2,4,10,5.2,H,1,0,brandon-stroud-1,Brandon Stroud,2023
+33,87,33,2023-03-02,Kennesaw State,,Lipscomb,CTOURN,W 80-71,*,29,6,9,0.667,3,5,0.6,3,4,0.75,0.833,2,4,0.5,1,8,9,0,0,0,0,3,17,14.2,H,1,0,brandon-stroud-1,Brandon Stroud,2023
+34,88,34,2023-03-05,Kennesaw State,,Liberty,CTOURN,W 67-66,*,21,4,8,0.5,2,2,1.0,2,6,0.333,0.625,2,2,1.0,0,6,6,1,2,0,1,4,12,9.9,H,1,0,brandon-stroud-1,Brandon Stroud,2023
+35,89,35,2023-03-17,Kennesaw State,N,Xavier,ROUND-64,L 67-72,*,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,0,4,4,1,2,0,2,4,2,-1.2,N,0,0,brandon-stroud-1,Brandon Stroud,2023

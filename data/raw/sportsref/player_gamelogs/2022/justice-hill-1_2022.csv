@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,27,1,2021-11-09,Murray State,,Cumberland (TN),REG (Non-Conf),W 109-77,*,25,4,8,0.5,1,3,0.333,3,5,0.6,0.563,3,4,0.75,0,1,1,8,1,0,2,3,12,11.3,H,1,1,justice-hill-1,Justice Hill,2022
+2,28,2,2021-11-13,Murray State,,Bellarmine,REG (Non-Conf),W 78-59,*,35,4,10,0.4,1,5,0.2,3,5,0.6,0.45,1,1,1.0,0,2,2,4,1,0,0,1,10,8.6,H,1,1,justice-hill-1,Justice Hill,2022
+3,29,3,2021-11-16,Murray State,@,Illinois State,REG (Non-Conf),W 77-65,*,30,7,12,0.583,3,6,0.5,4,6,0.667,0.708,0,0,,0,3,3,2,0,0,2,2,17,10.9,A,1,1,justice-hill-1,Justice Hill,2022
+4,30,4,2021-11-22,Murray State,N,East Tennessee State,REG (Non-Conf),L 58-66,*,27,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,2,2,3,2,0,1,1,4,3.2,N,0,1,justice-hill-1,Justice Hill,2022
+5,31,5,2021-11-23,Murray State,N,Long Beach State,REG (Non-Conf),W 80-43,*,23,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,0,2,2,3,1,1,1,1,5,3.2,N,1,1,justice-hill-1,Justice Hill,2022
+6,32,6,2021-11-24,Murray State,N,James Madison,REG (Non-Conf),W 74-62,*,32,3,9,0.333,3,5,0.6,0,4,0.0,0.5,2,2,1.0,0,1,1,6,2,0,2,2,11,9.6,N,1,1,justice-hill-1,Justice Hill,2022
+7,33,7,2021-11-29,Murray State,,Campbellsville,REG (Non-Conf),W 98-61,*,27,5,8,0.625,1,3,0.333,4,5,0.8,0.688,4,4,1.0,0,1,1,8,0,0,0,0,15,17.3,H,1,1,justice-hill-1,Justice Hill,2022
+8,34,8,2021-12-04,Murray State,,Middle Tennessee,REG (Non-Conf),W 93-87,*,31,7,11,0.636,2,5,0.4,5,6,0.833,0.727,2,4,0.5,0,0,0,4,1,0,3,3,18,11.9,H,1,1,justice-hill-1,Justice Hill,2022
+9,35,9,2021-12-10,Murray State,@,Memphis,REG (Non-Conf),W 74-72,*,27,6,13,0.462,5,6,0.833,1,7,0.143,0.654,3,4,0.75,2,1,3,6,1,0,1,2,20,18.0,A,1,1,justice-hill-1,Justice Hill,2022
+10,36,10,2021-12-15,Murray State,,Tennessee Wesleyan,REG (Non-Conf),W 118-48,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,6,2,0,2,1,4,7.1,H,1,1,justice-hill-1,Justice Hill,2022
+11,37,11,2021-12-18,Murray State,,Chattanooga,REG (Non-Conf),W 87-76,*,29,7,11,0.636,3,6,0.5,4,5,0.8,0.773,1,2,0.5,0,2,2,5,1,0,3,1,18,14.4,H,1,1,justice-hill-1,Justice Hill,2022
+12,38,12,2021-12-22,Murray State,@,Auburn,REG (Non-Conf),L 58-71,*,22,3,9,0.333,1,2,0.5,2,7,0.286,0.389,1,2,0.5,0,0,0,0,2,0,1,3,8,2.3,A,0,1,justice-hill-1,Justice Hill,2022
+13,39,13,2021-12-30,Murray State,,Southeast Missouri State,REG (Conf),W 106-81,*,29,9,15,0.6,6,10,0.6,3,5,0.6,0.8,2,2,1.0,0,1,1,5,1,0,1,3,26,21.7,H,1,1,justice-hill-1,Justice Hill,2022
+14,40,14,2022-01-08,Murray State,@,SIU Edwardsville,REG (Conf),W 74-69,*,35,4,10,0.4,2,6,0.333,2,4,0.5,0.5,2,2,1.0,0,1,1,4,0,0,3,0,12,6.7,A,1,1,justice-hill-1,Justice Hill,2022
+15,41,15,2022-01-13,Murray State,,Tennessee State,REG (Conf),W 67-44,*,30,3,12,0.25,0,5,0.0,3,7,0.429,0.25,0,0,,1,2,3,7,0,0,2,1,6,2.6,H,1,1,justice-hill-1,Justice Hill,2022
+16,42,16,2022-01-15,Murray State,@,Belmont,REG (Conf),W 82-60,*,35,10,19,0.526,8,11,0.727,2,8,0.25,0.737,8,11,0.727,1,1,2,3,0,0,2,0,36,26.6,A,1,1,justice-hill-1,Justice Hill,2022
+17,43,17,2022-01-17,Murray State,@,Eastern Illinois,REG (Conf),W 72-46,*,32,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,2,2,6,1,0,4,1,7,4.0,A,1,1,justice-hill-1,Justice Hill,2022
+18,44,18,2022-01-20,Murray State,,Eastern Illinois,REG (Conf),W 91-51,*,25,3,10,0.3,2,7,0.286,1,3,0.333,0.4,1,2,0.5,1,0,1,4,0,0,0,0,9,6.3,H,1,1,justice-hill-1,Justice Hill,2022
+19,45,19,2022-01-22,Murray State,,UT Martin,REG (Conf),W 74-66,*,32,4,13,0.308,1,7,0.143,3,6,0.5,0.346,4,4,1.0,0,3,3,2,1,0,2,2,13,6.0,H,1,1,justice-hill-1,Justice Hill,2022
+20,46,20,2022-01-24,Murray State,,Tennessee Tech,REG (Conf),W 79-53,*,33,4,10,0.4,1,5,0.2,3,5,0.6,0.45,2,2,1.0,2,3,5,5,1,0,3,0,11,9.4,H,1,1,justice-hill-1,Justice Hill,2022
+21,47,21,2022-01-27,Murray State,@,Tennessee Tech,REG (Conf),W 80-75,*,36,7,15,0.467,3,7,0.429,4,8,0.5,0.567,3,5,0.6,0,3,3,10,1,0,0,0,20,20.4,A,1,1,justice-hill-1,Justice Hill,2022
+22,48,22,2022-01-29,Murray State,,Morehead State,REG (Conf),W 77-66,*,36,8,19,0.421,0,5,0.0,8,14,0.571,0.421,3,4,0.75,1,1,2,5,2,0,3,1,19,11.6,H,1,1,justice-hill-1,Justice Hill,2022
+23,49,23,2022-02-03,Murray State,@,Austin Peay,REG (Conf),W 65-53,*,33,4,14,0.286,2,8,0.25,2,6,0.333,0.357,2,3,0.667,0,1,1,6,0,0,0,1,12,7.5,A,1,1,justice-hill-1,Justice Hill,2022
+24,50,24,2022-02-05,Murray State,,SIU Edwardsville,REG (Conf),W 79-59,*,30,6,13,0.462,1,5,0.2,5,8,0.625,0.5,5,6,0.833,0,3,3,7,2,0,1,1,18,17.3,H,1,1,justice-hill-1,Justice Hill,2022
+25,51,25,2022-02-10,Murray State,@,Tennessee State,REG (Conf),W 73-62,*,33,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,1,1,5,2,0,2,2,9,7.3,A,1,1,justice-hill-1,Justice Hill,2022
+26,52,26,2022-02-12,Murray State,@,Morehead State,REG (Conf),W 57-53,*,34,2,11,0.182,0,4,0.0,2,7,0.286,0.182,7,8,0.875,2,2,4,7,2,0,2,1,11,10.2,A,1,1,justice-hill-1,Justice Hill,2022
+27,53,27,2022-02-17,Murray State,,Austin Peay,REG (Conf),W 91-56,*,30,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,3,3,6,3,0,2,0,11,13.1,H,1,1,justice-hill-1,Justice Hill,2022
+28,54,28,2022-02-19,Murray State,@,UT Martin,REG (Conf),W 62-60,*,38,3,12,0.25,2,7,0.286,1,5,0.2,0.333,2,4,0.5,1,3,4,5,1,0,1,1,10,6.7,A,1,1,justice-hill-1,Justice Hill,2022
+29,55,29,2022-02-24,Murray State,,Belmont,REG (Conf),W 76-43,*,27,4,8,0.5,0,4,0.0,4,4,1.0,0.5,0,0,,0,4,4,7,0,0,1,0,8,9.1,H,1,1,justice-hill-1,Justice Hill,2022
+30,56,30,2022-02-26,Murray State,@,Southeast Missouri State,REG (Conf),W 70-68,*,35,4,9,0.444,2,4,0.5,2,5,0.4,0.556,1,3,0.333,0,5,5,3,0,0,4,4,11,3.5,A,1,1,justice-hill-1,Justice Hill,2022
+31,57,31,2022-03-04,Murray State,N,Southeast Missouri State,CTOURN,W 88-74,*,35,4,7,0.571,1,4,0.25,3,3,1.0,0.643,1,2,0.5,0,1,1,5,2,0,2,2,10,9.3,N,1,0,justice-hill-1,Justice Hill,2022
+32,58,32,2022-03-05,Murray State,N,Morehead State,CTOURN,W 71-67,*,37,8,19,0.421,3,6,0.5,5,13,0.385,0.5,2,3,0.667,0,2,2,3,1,1,4,2,21,10.1,N,1,0,justice-hill-1,Justice Hill,2022
+33,59,33,2022-03-17,Murray State,N,San Francisco,ROUND-64,W 92-87 (OT),*,45,6,13,0.462,0,4,0.0,6,9,0.667,0.462,3,4,0.75,1,4,5,9,0,0,5,1,15,10.7,N,1,0,justice-hill-1,Justice Hill,2022
+34,60,34,2022-03-19,Murray State,N,Saint Peter's,ROUND-32,L 60-70,*,37,7,15,0.467,5,9,0.556,2,6,0.333,0.633,0,0,,0,2,2,4,3,2,3,2,19,15.3,N,0,0,justice-hill-1,Justice Hill,2022

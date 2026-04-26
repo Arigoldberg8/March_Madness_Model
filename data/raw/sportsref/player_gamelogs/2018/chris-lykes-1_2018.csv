@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,Miami (FL),,Gardner-Webb,REG (Non-Conf),W 77-45,,18,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,1,1,1,1,0,4,3,3,-4.0,H,1,1,chris-lykes-1,Chris Lykes,2018
+2,2,2,2017-11-12,Miami (FL),,Navy,REG (Non-Conf),W 89-55,,17,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,0,1,1,2,2,0,0,2,8,8.6,H,1,1,chris-lykes-1,Chris Lykes,2018
+3,3,3,2017-11-16,Miami (FL),,Florida A&M,REG (Non-Conf),W 90-59,,21,4,7,0.571,3,6,0.5,1,1,1.0,0.786,2,3,0.667,0,1,1,4,1,0,1,2,13,11.6,H,1,1,chris-lykes-1,Chris Lykes,2018
+4,4,4,2017-11-22,Miami (FL),N,La Salle,REG (Non-Conf),W 57-46,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,1,2,0,-2.9,N,1,1,chris-lykes-1,Chris Lykes,2018
+5,5,5,2017-11-25,Miami (FL),,North Florida,REG (Non-Conf),W 86-65,,19,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,1,0.0,0,0,0,4,1,0,1,2,10,6.9,H,1,1,chris-lykes-1,Chris Lykes,2018
+6,6,6,2017-11-29,Miami (FL),@,Minnesota,REG (Non-Conf),W 86-81,,19,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,0,1,1,0,3,0,1,3,10,7.1,A,1,1,chris-lykes-1,Chris Lykes,2018
+7,7,7,2017-12-02,Miami (FL),N,Princeton,REG (Non-Conf),W 80-52,,13,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,1,1,2,1,0,1,2,5,2.5,N,1,1,chris-lykes-1,Chris Lykes,2018
+8,8,8,2017-12-05,Miami (FL),,Boston University,REG (Non-Conf),W 69-54,,20,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,0,0,0,0,0,2,1,8,3.3,H,1,1,chris-lykes-1,Chris Lykes,2018
+9,9,9,2017-12-16,Miami (FL),@,George Washington,REG (Non-Conf),W 59-50,,12,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,1,0,0,1,2,3,-1.2,A,1,1,chris-lykes-1,Chris Lykes,2018
+10,10,10,2017-12-23,Miami (FL),@,Hawaii,REG (Non-Conf),W 75-57,,19,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,4,5,0,1,0,1,1,7,4.8,A,1,1,chris-lykes-1,Chris Lykes,2018
+11,11,10,2017-12-23,Miami (FL),N,New Mexico State,REG (Non-Conf),L 54-63,,11,0,5,0.0,0,4,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,2,2,1,-5.4,N,0,1,chris-lykes-1,Chris Lykes,2018
+12,12,12,2017-12-25,Miami (FL),N,Middle Tennessee,REG (Non-Conf),W 84-81,,17,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,0,0,2,1,0,1,2,8,6.3,N,1,1,chris-lykes-1,Chris Lykes,2018
+13,13,13,2017-12-30,Miami (FL),@,Pittsburgh,REG (Conf),W 67-53,,17,3,5,0.6,2,3,0.667,1,2,0.5,0.8,2,2,1.0,0,1,1,0,0,0,3,2,10,4.2,A,1,1,chris-lykes-1,Chris Lykes,2018
+14,14,14,2018-01-03,Miami (FL),@,Georgia Tech,REG (Conf),L 54-64,,20,2,10,0.2,2,8,0.25,0,2,0.0,0.3,2,2,1.0,0,0,0,5,0,0,3,2,8,1.5,A,0,1,chris-lykes-1,Chris Lykes,2018
+15,15,15,2018-01-07,Miami (FL),,Florida State,REG (Conf),W 80-74,,25,6,10,0.6,2,4,0.5,4,6,0.667,0.7,4,8,0.5,1,0,1,2,1,0,1,3,18,12.7,H,1,1,chris-lykes-1,Chris Lykes,2018
+16,16,16,2018-01-13,Miami (FL),@,Clemson,REG (Conf),L 63-72,,26,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,0,1,1,1,1,0,3,1,13,8.0,A,0,1,chris-lykes-1,Chris Lykes,2018
+17,17,17,2018-01-15,Miami (FL),,Duke,REG (Conf),L 75-83,,27,5,13,0.385,1,6,0.167,4,7,0.571,0.423,2,2,1.0,0,1,1,2,0,0,1,1,13,6.2,H,0,1,chris-lykes-1,Chris Lykes,2018
+18,18,18,2018-01-21,Miami (FL),@,NC State,REG (Conf),W 86-81,*,22,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,0,2,2,5,1,1,2,1,6,5.7,A,1,1,chris-lykes-1,Chris Lykes,2018
+19,19,19,2018-01-24,Miami (FL),,Louisville,REG (Conf),W 78-75 (OT),,20,2,6,0.333,2,6,0.333,0,0,,0.5,3,5,0.6,0,0,0,4,1,0,0,1,9,8.2,H,1,1,chris-lykes-1,Chris Lykes,2018
+20,20,20,2018-01-27,Miami (FL),@,Florida State,REG (Conf),L 94-103 (OT),,13,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,5,0,0,1,3,0,-1.5,A,0,1,chris-lykes-1,Chris Lykes,2018
+21,21,21,2018-01-31,Miami (FL),,Pittsburgh,REG (Conf),W 69-57,*,33,3,10,0.3,2,6,0.333,1,4,0.25,0.4,5,8,0.625,0,3,3,5,0,0,2,2,13,7.6,H,1,1,chris-lykes-1,Chris Lykes,2018
+22,22,22,2018-02-03,Miami (FL),@,Virginia Tech,REG (Conf),W 84-75,*,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,2,0.5,0,2,2,0,0,0,4,2,6,-0.6,A,1,1,chris-lykes-1,Chris Lykes,2018
+23,23,23,2018-02-07,Miami (FL),,Wake Forest,REG (Conf),W 87-81,*,31,3,8,0.375,1,3,0.333,2,5,0.4,0.438,6,7,0.857,0,2,2,5,1,0,2,2,13,10.5,H,1,1,chris-lykes-1,Chris Lykes,2018
+24,24,24,2018-02-10,Miami (FL),@,Boston College,REG (Conf),L 70-72,*,30,5,11,0.455,2,6,0.333,3,5,0.6,0.545,4,5,0.8,0,3,3,2,1,0,4,3,16,8.0,A,0,1,chris-lykes-1,Chris Lykes,2018
+25,25,25,2018-02-13,Miami (FL),,Virginia,REG (Conf),L 50-59,*,27,6,12,0.5,3,7,0.429,3,5,0.6,0.625,4,5,0.8,0,1,1,1,0,0,2,4,19,10.0,H,0,1,chris-lykes-1,Chris Lykes,2018
+26,26,26,2018-02-17,Miami (FL),,Syracuse,REG (Conf),L 55-62,*,34,4,16,0.25,2,10,0.2,2,6,0.333,0.313,4,6,0.667,0,0,0,4,0,0,1,1,14,5.0,H,0,1,chris-lykes-1,Chris Lykes,2018
+27,27,27,2018-02-19,Miami (FL),@,Notre Dame,REG (Conf),W 77-74,,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,2,0.5,0,1,1,1,1,0,0,1,9,8.3,A,1,1,chris-lykes-1,Chris Lykes,2018
+28,28,28,2018-02-24,Miami (FL),,Boston College,REG (Conf),W 79-78,,20,4,9,0.444,0,3,0.0,4,6,0.667,0.444,7,7,1.0,0,0,0,3,1,0,2,4,15,9.8,H,1,1,chris-lykes-1,Chris Lykes,2018
+29,29,29,2018-02-27,Miami (FL),@,North Carolina,REG (Conf),W 91-88,*,29,6,12,0.5,4,8,0.5,2,4,0.5,0.667,2,2,1.0,0,1,1,4,1,0,5,3,18,9.9,A,1,1,chris-lykes-1,Chris Lykes,2018
+30,30,30,2018-03-03,Miami (FL),,Virginia Tech,REG (Conf),W 69-68,,28,3,7,0.429,3,6,0.5,0,1,0.0,0.643,6,9,0.667,0,1,1,7,2,0,4,3,15,12.1,H,1,1,chris-lykes-1,Chris Lykes,2018
+31,31,31,2018-03-08,Miami (FL),N,North Carolina,CTOURN,L 65-82,*,27,3,11,0.273,0,4,0.0,3,7,0.429,0.273,0,0,,0,1,1,1,1,0,1,4,6,-1.1,N,0,0,chris-lykes-1,Chris Lykes,2018
+32,32,32,2018-03-15,Miami (FL),N,Loyola Chicago,ROUND-64,L 62-64,*,30,3,11,0.273,1,2,0.5,2,9,0.222,0.318,3,4,0.75,1,5,6,2,2,0,1,3,10,6.5,N,0,0,chris-lykes-1,Chris Lykes,2018

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,83,1,2011-11-11,Loyola (MD),@,Wake Forest,REG (Non-Conf),L 63-75,*,32,5,12,0.417,0,3,0.0,5,9,0.556,0.417,2,3,0.667,2,7,9,1,1,2,4,5,12,5.8,A,0,1,shane-walker-1,Shane Walker,2012
+2,84,2,2011-11-14,Loyola (MD),,Coppin State,REG (Non-Conf),W 78-68,*,23,4,7,0.571,1,2,0.5,3,5,0.6,0.643,6,8,0.75,3,4,7,1,1,2,3,4,15,12.7,H,1,1,shane-walker-1,Shane Walker,2012
+3,85,3,2011-11-17,Loyola (MD),@,UMBC,REG (Non-Conf),W 73-63,*,22,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,2,0.5,0,5,5,2,1,1,2,5,12,9.3,A,1,1,shane-walker-1,Shane Walker,2012
+4,86,4,2011-11-20,Loyola (MD),@,New Hampshire,REG (Non-Conf),W 66-60,*,34,6,8,0.75,1,1,1.0,5,7,0.714,0.813,2,3,0.667,3,5,8,2,0,0,3,2,15,12.6,A,1,1,shane-walker-1,Shane Walker,2012
+5,87,5,2011-11-27,Loyola (MD),,Florida Gulf Coast,REG (Non-Conf),W 77-74,*,29,2,10,0.2,0,2,0.0,2,8,0.25,0.2,6,6,1.0,3,3,6,3,0,3,4,3,10,5.8,H,1,1,shane-walker-1,Shane Walker,2012
+6,88,6,2011-12-01,Loyola (MD),,Marist,REG (Conf),W 76-63,*,31,2,8,0.25,2,4,0.5,0,4,0.0,0.375,5,6,0.833,2,3,5,0,1,1,3,3,11,5.6,H,1,1,shane-walker-1,Shane Walker,2012
+7,89,7,2011-12-03,Loyola (MD),@,Siena,REG (Conf),W 66-59,*,27,4,9,0.444,1,4,0.25,3,5,0.6,0.5,1,1,1.0,4,5,9,4,2,1,2,3,10,11.9,A,1,1,shane-walker-1,Shane Walker,2012
+8,90,8,2011-12-07,Loyola (MD),@,George Washington,REG (Non-Conf),W 65-55,*,34,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,5,4,9,0,0,2,3,4,4,1.4,A,1,1,shane-walker-1,Shane Walker,2012
+9,91,9,2011-12-10,Loyola (MD),@,Mount St. Mary's,REG (Non-Conf),W 65-54,*,29,4,7,0.571,2,3,0.667,2,4,0.5,0.714,10,13,0.769,1,5,6,0,1,2,3,2,20,16.3,A,1,1,shane-walker-1,Shane Walker,2012
+10,92,10,2011-12-18,Loyola (MD),@,St. Bonaventure,REG (Non-Conf),L 66-76,*,25,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,3,0.667,1,3,4,3,1,0,2,4,9,4.6,A,0,1,shane-walker-1,Shane Walker,2012
+11,93,11,2011-12-22,Loyola (MD),@,Kentucky,REG (Non-Conf),L 63-87,*,24,1,5,0.2,1,2,0.5,0,3,0.0,0.3,1,2,0.5,0,4,4,2,0,0,1,5,4,0.1,A,0,1,shane-walker-1,Shane Walker,2012
+12,94,12,2011-12-28,Loyola (MD),@,Bucknell,REG (Non-Conf),W 72-67,*,23,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,2,0.0,0,7,7,2,0,3,2,4,10,8.6,A,1,1,shane-walker-1,Shane Walker,2012
+13,95,13,2012-01-02,Loyola (MD),,Niagara,REG (Conf),L 61-66,*,33,1,6,0.167,1,3,0.333,0,3,0.0,0.25,5,6,0.833,2,6,8,1,2,1,4,4,8,4.8,H,0,1,shane-walker-1,Shane Walker,2012
+14,96,14,2012-01-05,Loyola (MD),,Manhattan,REG (Conf),W 61-60,*,27,4,8,0.5,0,3,0.0,4,5,0.8,0.5,3,4,0.75,1,3,4,1,1,3,1,2,11,10.2,H,1,1,shane-walker-1,Shane Walker,2012
+15,97,15,2012-01-07,Loyola (MD),,Canisius,REG (Conf),W 77-62,*,20,0,4,0.0,0,0,,0,4,0.0,0.0,2,2,1.0,2,2,4,2,0,0,2,0,2,0.6,H,1,1,shane-walker-1,Shane Walker,2012
+16,98,16,2012-01-13,Loyola (MD),@,Fairfield,REG (Conf),W 66-63,*,31,1,7,0.143,1,2,0.5,0,5,0.0,0.214,1,2,0.5,1,2,3,1,0,3,3,2,4,-0.6,A,1,1,shane-walker-1,Shane Walker,2012
+17,99,17,2012-01-15,Loyola (MD),@,Iona,REG (Conf),L 63-74,*,28,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,2,3,5,1,0,0,0,5,5,1.9,A,0,1,shane-walker-1,Shane Walker,2012
+18,100,18,2012-01-19,Loyola (MD),,Siena,REG (Conf),W 66-55,*,32,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,2,5,7,1,3,0,2,4,4,2.2,H,1,1,shane-walker-1,Shane Walker,2012
+19,101,19,2012-01-22,Loyola (MD),,Saint Peter's,REG (Conf),W 65-54,*,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,4,4,1,0,0,1,5,0,-2.5,H,1,1,shane-walker-1,Shane Walker,2012
+20,102,20,2012-01-27,Loyola (MD),@,Niagara,REG (Conf),W 69-57,*,24,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,1,5,6,2,0,2,6,5,9,2.3,A,1,1,shane-walker-1,Shane Walker,2012
+21,103,21,2012-01-29,Loyola (MD),@,Canisius,REG (Conf),W 70-52,*,32,6,12,0.5,0,2,0.0,6,10,0.6,0.5,5,6,0.833,6,5,11,3,0,5,1,3,17,19.7,A,1,1,shane-walker-1,Shane Walker,2012
+22,104,22,2012-02-03,Loyola (MD),,Rider,REG (Conf),W 63-46,*,34,2,8,0.25,0,1,0.0,2,7,0.286,0.25,3,4,0.75,1,11,12,3,1,2,1,4,7,7.7,H,1,1,shane-walker-1,Shane Walker,2012
+23,105,23,2012-02-05,Loyola (MD),@,Saint Peter's,REG (Conf),W 66-55,*,34,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,2,3,5,2,5,1,3,4,14,13.8,A,1,1,shane-walker-1,Shane Walker,2012
+24,106,24,2012-02-10,Loyola (MD),,Iona,REG (Conf),W 87-81,*,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,4,4,0,0,0,4,5,4,-2.8,H,1,1,shane-walker-1,Shane Walker,2012
+25,107,25,2012-02-12,Loyola (MD),,Fairfield,REG (Conf),L 51-68,*,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,3,4,1,0,0,2,2,2,-0.9,H,0,1,shane-walker-1,Shane Walker,2012
+26,108,26,2012-02-15,Loyola (MD),@,Marist,REG (Conf),L 54-72,*,37,6,19,0.316,2,6,0.333,4,13,0.308,0.368,2,4,0.5,6,6,12,1,0,2,0,4,16,10.8,A,0,1,shane-walker-1,Shane Walker,2012
+27,109,27,2012-02-19,Loyola (MD),,Boston University,REG (Non-Conf),W 69-56,*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,3,2,5,1,0,1,4,4,6,1.1,H,1,1,shane-walker-1,Shane Walker,2012
+28,110,28,2012-02-24,Loyola (MD),@,Rider,REG (Conf),L 79-83,*,33,3,7,0.429,2,4,0.5,1,3,0.333,0.571,6,6,1.0,1,2,3,1,0,0,2,4,14,8.7,A,0,1,shane-walker-1,Shane Walker,2012
+29,111,29,2012-02-26,Loyola (MD),@,Manhattan,REG (Conf),W 62-60,*,29,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,1,4,5,2,0,0,0,4,6,5.7,A,1,1,shane-walker-1,Shane Walker,2012
+30,112,30,2012-03-03,Loyola (MD),N,Niagara,CTOURN,W 86-73,*,37,5,7,0.714,0,0,,5,7,0.714,0.714,3,4,0.75,4,8,12,4,0,2,1,3,13,16.9,N,1,0,shane-walker-1,Shane Walker,2012
+31,113,31,2012-03-04,Loyola (MD),N,Siena,CTOURN,W 70-60,*,35,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,2,4,6,1,0,1,2,3,12,8.5,N,1,0,shane-walker-1,Shane Walker,2012
+32,114,32,2012-03-05,Loyola (MD),N,Fairfield,CTOURN,W 48-44,*,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,4,0.5,0,5,5,0,0,1,2,4,4,0.1,N,1,0,shane-walker-1,Shane Walker,2012
+33,115,33,2012-03-15,Loyola (MD),N,Ohio State,ROUND-64,L 59-78,*,28,3,8,0.375,1,3,0.333,2,5,0.4,0.438,1,2,0.5,0,4,4,1,3,2,3,4,8,4.9,N,0,0,shane-walker-1,Shane Walker,2012

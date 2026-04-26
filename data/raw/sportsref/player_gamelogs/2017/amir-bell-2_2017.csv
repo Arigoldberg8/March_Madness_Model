@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2016-11-14,Princeton,@,Brigham Young,REG (Non-Conf),L 73-82,*,23,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,1,0.0,0,0,0,2,1,0,2,5,4,-3.5,A,0,1,amir-bell-2,Amir Bell,2017
+2,61,2,2016-11-20,Princeton,@,Lehigh,REG (Non-Conf),L 67-76,*,29,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,0,2,2,1,0,0,1,3,5,-1.4,A,0,1,amir-bell-2,Amir Bell,2017
+3,62,3,2016-11-23,Princeton,@,Lafayette,REG (Non-Conf),W 71-55,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,3,3,3,0,1,1,1,2,1.9,A,1,1,amir-bell-2,Amir Bell,2017
+4,63,4,2016-11-25,Princeton,,Rowan,REG (Non-Conf),W 108-46,*,15,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,1,1,2,0,0,1,1,2,0.2,H,1,1,amir-bell-2,Amir Bell,2017
+5,64,5,2016-11-29,Princeton,@,VCU,REG (Non-Conf),L 70-81,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,1,3,0,2,3,2,2.1,A,0,1,amir-bell-2,Amir Bell,2017
+6,65,6,2016-12-06,Princeton,N,California,REG (Non-Conf),L 51-62,,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,1,1,0,-2.2,N,0,1,amir-bell-2,Amir Bell,2017
+7,66,7,2016-12-07,Princeton,N,Hawaii,REG (Non-Conf),W 75-62,,16,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,1,2,3,2,0,0,2,1,5,4.7,N,1,1,amir-bell-2,Amir Bell,2017
+8,67,8,2016-12-10,Princeton,@,Liberty,REG (Non-Conf),W 67-64,,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,1,1,0,0,0,0,0.2,A,1,1,amir-bell-2,Amir Bell,2017
+9,68,9,2016-12-14,Princeton,,Saint Joseph's,REG (Non-Conf),L 68-76,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,4,4,0,0,0,0,4,4,1.2,H,0,1,amir-bell-2,Amir Bell,2017
+10,69,10,2016-12-20,Princeton,@,Monmouth,REG (Non-Conf),L 90-96,,24,3,9,0.333,0,3,0.0,3,6,0.5,0.333,3,4,0.75,0,1,1,6,1,1,2,3,9,6.5,A,0,1,amir-bell-2,Amir Bell,2017
+11,70,11,2016-12-22,Princeton,@,Bucknell,REG (Non-Conf),W 72-70,,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,1,2,3,1,1,0,0,1,8,5.9,A,1,1,amir-bell-2,Amir Bell,2017
+12,71,12,2016-12-28,Princeton,,Hampton,REG (Non-Conf),W 77-49,,19,1,7,0.143,1,2,0.5,0,5,0.0,0.214,0,1,0.0,0,1,1,2,0,0,0,2,3,-1.0,H,1,1,amir-bell-2,Amir Bell,2017
+13,72,13,2016-12-31,Princeton,,Cal Poly,REG (Non-Conf),W 81-52,,18,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,0,0,3,0,0,0,2,5,2.9,H,1,1,amir-bell-2,Amir Bell,2017
+14,73,14,2017-01-07,Princeton,,Pennsylvania,REG (Conf),W 61-52,,24,3,4,0.75,1,2,0.5,2,2,1.0,0.875,5,5,1.0,0,4,4,0,0,0,2,3,12,8.4,H,1,1,amir-bell-2,Amir Bell,2017
+15,74,15,2017-01-13,Princeton,,Brown,REG (Conf),W 97-66,,23,6,6,1.0,2,2,1.0,4,4,1.0,1.167,0,2,0.0,0,1,1,5,2,1,1,2,14,16.1,H,1,1,amir-bell-2,Amir Bell,2017
+16,75,16,2017-01-14,Princeton,,Yale,REG (Conf),W 66-58,,22,5,9,0.556,3,4,0.75,2,5,0.4,0.722,4,5,0.8,0,1,1,1,2,0,3,3,17,11.1,H,1,1,amir-bell-2,Amir Bell,2017
+17,76,17,2017-02-03,Princeton,@,Dartmouth,REG (Conf),W 69-64,,25,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,2,2,1,0,2,4,4.9,A,1,1,amir-bell-2,Amir Bell,2017
+18,77,18,2017-02-04,Princeton,@,Harvard,REG (Conf),W 57-56,,25,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,6,0.5,1,2,3,1,0,1,2,3,10,6.7,A,1,1,amir-bell-2,Amir Bell,2017
+19,78,19,2017-02-07,Princeton,@,Pennsylvania,REG (Conf),W 64-49,,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,3,3,4,0,0,0,3,8,7.5,A,1,1,amir-bell-2,Amir Bell,2017
+20,79,20,2017-02-10,Princeton,,Cornell,REG (Conf),W 69-60,,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,1,2,3,3,0,0,0,1,7,4.9,H,1,1,amir-bell-2,Amir Bell,2017
+21,80,21,2017-02-11,Princeton,,Columbia,REG (Conf),W 61-59,,20,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,1,2,3,1,0,0,4,3,8,2.5,H,1,1,amir-bell-2,Amir Bell,2017
+22,81,22,2017-02-17,Princeton,@,Yale,REG (Conf),W 71-52,,22,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,2,0,1,3,5,3,0.1,A,1,1,amir-bell-2,Amir Bell,2017
+23,82,23,2017-02-18,Princeton,@,Brown,REG (Conf),W 66-51,,23,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,1,0,1,0,1,0,1,2,13,9.3,A,1,1,amir-bell-2,Amir Bell,2017
+24,83,24,2017-02-24,Princeton,@,Columbia,REG (Conf),W 64-45,,26,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,1,1,1,1,2,0,2,6,5.9,A,1,1,amir-bell-2,Amir Bell,2017
+25,84,25,2017-02-25,Princeton,@,Cornell,REG (Conf),W 75-60,,26,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,4,0.5,0,1,1,4,4,0,2,4,8,8.7,A,1,1,amir-bell-2,Amir Bell,2017
+26,85,26,2017-03-03,Princeton,,Harvard,REG (Conf),W 73-69,,31,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,5,5,3,0,0,0,2,4,5.5,H,1,1,amir-bell-2,Amir Bell,2017
+27,86,27,2017-03-04,Princeton,,Dartmouth,REG (Conf),W 85-48,,19,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,1,1.0,0,2,2,2,0,0,0,1,8,7.3,H,1,1,amir-bell-2,Amir Bell,2017
+28,87,28,2017-03-11,Princeton,N,Pennsylvania,CTOURN,W 72-64 (OT),,38,6,9,0.667,2,2,1.0,4,7,0.571,0.778,2,2,1.0,1,1,2,3,0,1,1,2,16,14.1,N,1,0,amir-bell-2,Amir Bell,2017
+29,88,29,2017-03-12,Princeton,N,Yale,CTOURN,W 71-59,,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,2,4,6,2,0,1,0,2,4,5.2,N,1,0,amir-bell-2,Amir Bell,2017
+30,89,30,2017-03-16,Princeton,N,Notre Dame,ROUND-64,L 58-60,,33,3,6,0.5,0,3,0.0,3,3,1.0,0.5,1,1,1.0,0,7,7,3,0,0,1,3,7,6.0,N,0,0,amir-bell-2,Amir Bell,2017

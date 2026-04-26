@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2025-11-03,Wisconsin,,Campbell,REG (Non-Conf),W 96-64,*,22,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,2,3,0,1,3,5,5.1,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+2,96,2,2025-11-07,Wisconsin,,Northern Illinois,REG (Non-Conf),W 97-72,*,22,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,1,0.0,0,0,0,2,1,0,0,4,8,6.1,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+3,97,3,2025-11-11,Wisconsin,,Ball State,REG (Non-Conf),W 86-55,*,20,4,7,0.571,2,5,0.4,2,2,1.0,0.714,0,0,,0,0,0,1,1,0,1,2,10,6.6,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+4,98,4,2025-11-17,Wisconsin,,SIU Edwardsville,REG (Non-Conf),W 94-69,*,22,2,6,0.333,1,5,0.2,1,1,1.0,0.417,3,3,1.0,0,2,2,2,1,0,0,0,8,7.6,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+5,99,5,2025-11-21,Wisconsin,N,Brigham Young,REG (Non-Conf),L 70-98,*,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,2,4,1,1,1,1,3,5,4.5,N,0,1,andrew-rohde-1,Andrew Rohde,2026
+6,100,6,2025-11-27,Wisconsin,N,Providence,REG (Non-Conf),W 104-83,*,25,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,2,2,4,3,0,1,2,4,3.8,N,1,1,andrew-rohde-1,Andrew Rohde,2026
+7,101,7,2025-11-28,Wisconsin,N,TCU,REG (Non-Conf),L 63-74,*,31,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,2,3,1,1,0,2,3,7,3.8,N,0,1,andrew-rohde-1,Andrew Rohde,2026
+8,102,8,2025-12-03,Wisconsin,,Northwestern,REG (Conf),W 85-73,*,27,0,3,0.0,0,2,0.0,0,1,0.0,0.0,3,4,0.75,1,1,2,9,0,0,2,2,3,5.0,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+9,103,9,2025-12-06,Wisconsin,,Marquette,REG (Non-Conf),W 96-76,*,29,6,9,0.667,3,5,0.6,3,4,0.75,0.833,2,2,1.0,1,4,5,1,4,0,3,1,17,16.3,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+10,104,10,2025-12-10,Wisconsin,@,Nebraska,REG (Conf),L 60-90,*,26,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,0,0,4,0,0,0,1,6,4.3,A,0,1,andrew-rohde-1,Andrew Rohde,2026
+11,105,11,2025-12-19,Wisconsin,N,Villanova,REG (Non-Conf),L 66-76 (OT),*,36,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,1,3,4,3,1,0,1,3,6,6.5,N,0,1,andrew-rohde-1,Andrew Rohde,2026
+12,106,12,2025-12-22,Wisconsin,,Central Michigan,REG (Non-Conf),W 88-61,*,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,2,1,3,3,0,0,2,4,5,2.8,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+13,107,13,2025-12-30,Wisconsin,,Milwaukee,REG (Non-Conf),W 80-60,*,19,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,1,0,0,1,3,7,2.5,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+14,108,14,2026-01-03,Wisconsin,,Purdue,REG (Conf),L 73-89,*,22,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,1,2,3,1,1,0,1,1,3,1.8,H,0,1,andrew-rohde-1,Andrew Rohde,2026
+15,109,15,2026-01-06,Wisconsin,,UCLA,REG (Conf),W 80-72,*,29,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,3,0.667,2,4,6,2,1,0,0,1,12,13.6,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+16,110,16,2026-01-10,Wisconsin,@,Michigan,REG (Conf),W 91-88,*,20,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,1,0,0,2,4,3,-1.6,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+17,111,17,2026-01-13,Wisconsin,@,Minnesota,REG (Conf),W 78-75,*,31,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,4,0,0,1,4,3,1.1,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+18,112,18,2026-01-17,Wisconsin,,Rutgers,REG (Conf),W 96-87,*,22,2,5,0.4,0,3,0.0,2,2,1.0,0.4,2,2,1.0,0,1,1,5,1,0,0,2,6,7.3,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+19,113,19,2026-01-22,Wisconsin,@,Penn State,REG (Conf),W 98-71,*,22,3,7,0.429,2,6,0.333,1,1,1.0,0.571,1,1,1.0,0,2,2,6,2,0,0,2,9,11.3,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+20,114,20,2026-01-25,Wisconsin,,Southern California,REG (Conf),L 71-73,*,31,2,10,0.2,2,7,0.286,0,3,0.0,0.3,0,0,,1,2,3,4,0,0,0,3,6,2.7,H,0,1,andrew-rohde-1,Andrew Rohde,2026
+21,115,21,2026-01-28,Wisconsin,,Minnesota,REG (Conf),W 67-63,*,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,0,1,2,1,3,0.6,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+22,116,23,2026-02-07,Wisconsin,@,Indiana,REG (Conf),L 77-78 (OT),*,40,2,10,0.2,2,8,0.25,0,2,0.0,0.3,0,0,,0,0,0,4,2,0,0,3,6,3.4,A,0,1,andrew-rohde-1,Andrew Rohde,2026
+23,117,24,2026-02-10,Wisconsin,@,Illinois,REG (Conf),W 92-90 (OT),*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,3,4,3,3,0,1,4,6,6.7,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+24,118,25,2026-02-13,Wisconsin,,Michigan State,REG (Conf),W 92-71,*,29,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,3,2,0,2,2,6,4.2,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+25,119,26,2026-02-17,Wisconsin,@,Ohio State,REG (Conf),L 69-86,*,24,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,3,1,1,3,1,1,0.6,A,0,1,andrew-rohde-1,Andrew Rohde,2026
+26,120,27,2026-02-22,Wisconsin,,Iowa,REG (Conf),W 84-71,*,32,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,2,2,4,3,0,1,2,6,7.9,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+27,121,28,2026-02-25,Wisconsin,@,Oregon,REG (Conf),L 71-85,*,30,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,1,1,2,0,2,0,2,1,8,5.2,A,0,1,andrew-rohde-1,Andrew Rohde,2026
+28,122,29,2026-02-28,Wisconsin,@,Washington,REG (Conf),W 90-73,*,25,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,0,1,2,2,1,0,2,3,3.2,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+29,123,30,2026-03-04,Wisconsin,,Maryland,REG (Conf),W 78-45,*,28,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,4,4,6,2,0,0,0,3,8.0,H,1,1,andrew-rohde-1,Andrew Rohde,2026
+30,124,31,2026-03-07,Wisconsin,@,Purdue,REG (Conf),W 97-93,*,30,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,4,0,0,3,3,6,4.2,A,1,1,andrew-rohde-1,Andrew Rohde,2026
+31,125,32,2026-03-12,Wisconsin,N,Washington,CTOURN,W 85-82,*,27,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,1,1,4,1,0,0,2,2,3.2,N,1,0,andrew-rohde-1,Andrew Rohde,2026
+32,126,33,2026-03-13,Wisconsin,N,Illinois,CTOURN,W 91-88 (OT),*,38,1,8,0.125,1,6,0.167,0,2,0.0,0.188,0,0,,3,1,4,1,1,1,1,3,3,0.4,N,1,0,andrew-rohde-1,Andrew Rohde,2026
+33,127,34,2026-03-14,Wisconsin,N,Michigan,CTOURN,L 65-68,*,21,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,0,1,1,2,1,1,2,3,3.6,N,0,0,andrew-rohde-1,Andrew Rohde,2026

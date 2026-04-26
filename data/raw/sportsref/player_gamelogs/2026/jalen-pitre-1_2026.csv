@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2025-11-03,Tennessee State,,Fisk,REG (Non-Conf),W 101-50,*,23,5,6,0.833,0,1,0.0,5,5,1.0,0.833,2,2,1.0,4,8,12,1,2,0,2,1,12,15.3,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+2,53,2,2025-11-08,Tennessee State,@,Belmont,REG (Non-Conf),L 79-87,*,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,5,6,11,1,2,0,0,5,4,8.7,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+3,54,3,2025-11-11,Tennessee State,,Oakwood,REG (Non-Conf),W 114-76,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,2,6,8,3,2,0,0,0,10,14.0,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+4,55,4,2025-11-16,Tennessee State,@,Western Kentucky,REG (Non-Conf),L 82-95,*,20,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,1,2,3,1,0,1,1,4,6,2.7,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+5,56,5,2025-11-20,Tennessee State,@,Tennessee,REG (Non-Conf),L 60-89,*,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,1,3,4,2,-1.5,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+6,57,6,2025-11-25,Tennessee State,@,UNC Asheville,REG (Non-Conf),W 75-73,*,27,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,3,6,1,2,0,0,4,2,3.7,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+7,58,7,2025-11-29,Tennessee State,N,Tennessee Wesleyan,REG (Non-Conf),W 98-77,*,20,3,3,1.0,0,0,,3,3,1.0,1.0,5,6,0.833,4,3,7,0,1,0,0,1,11,14.0,N,1,1,jalen-pitre-1,Jalen Pitre,2026
+8,59,8,2025-11-30,Tennessee State,@,Chattanooga,REG (Non-Conf),W 70-64,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,5,3,8,1,0,0,2,3,8,7.9,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+9,60,9,2025-12-03,Tennessee State,@,Alabama A&M,REG (Non-Conf),L 53-80,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,7,8,0.875,7,1,8,2,1,0,3,2,11,12.4,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+10,61,10,2025-12-13,Tennessee State,@,UNLV,REG (Non-Conf),W 63-60,*,18,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,4,3,7,0,0,0,2,3,6,4.2,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+11,62,11,2025-12-18,Tennessee State,,UT Martin,REG (Conf),W 78-71,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,3,3,1.0,2,4,6,0,0,0,2,1,9,6.2,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+12,63,12,2025-12-20,Tennessee State,,Southeast Missouri State,REG (Conf),L 82-91,*,10,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,1,3,0,-0.9,H,0,1,jalen-pitre-1,Jalen Pitre,2026
+13,64,13,2025-12-30,Tennessee State,@,Tennessee Tech,REG (Conf),W 88-76,*,22,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,9,6,15,3,3,1,1,3,11,19.1,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+14,65,14,2026-01-03,Tennessee State,@,Little Rock,REG (Conf),W 84-79,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,3,3,6,2,0,0,0,1,8,8.6,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+15,66,15,2026-01-08,Tennessee State,@,Western Illinois,REG (Conf),W 90-68,*,29,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,3,7,10,0,3,1,0,2,4,8.4,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+16,67,16,2026-01-10,Tennessee State,@,Eastern Illinois,REG (Conf),L 70-74,*,31,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,4,6,0,0,1,0,1,4,4.9,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+17,68,17,2026-01-15,Tennessee State,,Morehead State,REG (Conf),W 105-100 (OT),*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,1,0,1,1,4,6,4.2,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+18,69,18,2026-01-17,Tennessee State,,Southern Indiana,REG (Conf),W 73-67,*,27,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,2,4,6,0,3,2,1,4,6,8.8,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+19,70,19,2026-01-22,Tennessee State,@,SIU Edwardsville,REG (Conf),L 66-74,*,27,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,2,1,0,1,3,4,2.9,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+20,71,20,2026-01-24,Tennessee State,@,Lindenwood,REG (Conf),W 96-86,*,22,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,3,3,3,2,0,3,4,8,5.8,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+21,72,21,2026-01-29,Tennessee State,,Little Rock,REG (Conf),W 70-63,*,36,5,7,0.714,0,0,,5,7,0.714,0.714,0,3,0.0,4,5,9,2,2,1,3,2,10,10.5,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+22,73,22,2026-02-02,Tennessee State,,Tennessee Tech,REG (Conf),L 85-90,*,28,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,5,2,7,0,1,2,0,3,9,12.0,H,0,1,jalen-pitre-1,Jalen Pitre,2026
+23,74,23,2026-02-05,Tennessee State,,Eastern Illinois,REG (Conf),W 77-68,*,23,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,0,0,0,2,4,4,0.7,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+24,75,24,2026-02-07,Tennessee State,,Western Illinois,REG (Conf),W 83-56,*,25,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,4,6,10,1,1,1,1,0,6,11.1,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+25,76,25,2026-02-12,Tennessee State,@,Southern Indiana,REG (Conf),W 73-71,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,5,2,7,1,2,1,1,4,9,12.6,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+26,77,26,2026-02-14,Tennessee State,@,Morehead State,REG (Conf),L 86-94,*,27,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,5,3,8,1,3,0,1,3,6,10.9,A,0,1,jalen-pitre-1,Jalen Pitre,2026
+27,78,27,2026-02-19,Tennessee State,,Lindenwood,REG (Conf),W 89-80,*,35,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,6,7,13,1,3,0,1,2,11,17.0,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+28,79,28,2026-02-21,Tennessee State,,SIU Edwardsville,REG (Conf),W 80-53,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,2,2,4,0,1,0,1,2,4,4.2,H,1,1,jalen-pitre-1,Jalen Pitre,2026
+29,80,29,2026-02-26,Tennessee State,@,Southeast Missouri State,REG (Conf),W 79-71,*,32,0,1,0.0,0,0,,0,1,0.0,0.0,4,4,1.0,0,5,5,0,1,1,1,3,4,4.3,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+30,81,30,2026-02-28,Tennessee State,@,UT Martin,REG (Conf),W 67-42,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,2,5,1,1,0,1,2,2,3.6,A,1,1,jalen-pitre-1,Jalen Pitre,2026
+31,82,31,2026-03-06,Tennessee State,N,UT Martin,CTOURN,W 68-55,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,3,4,0,1,1,0,3,6,7.2,N,1,0,jalen-pitre-1,Jalen Pitre,2026
+32,83,32,2026-03-07,Tennessee State,N,Morehead State,CTOURN,W 93-67,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,7,9,1,0,1,0,2,4,6.4,N,1,0,jalen-pitre-1,Jalen Pitre,2026

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Cincinnati,,Saint Francis (PA),REG (Non-Conf),W 52-37,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+2,2,2,2014-11-19,Cincinnati,,Morehead State,REG (Non-Conf),W 69-61,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+3,3,3,2014-11-23,Cincinnati,,Eastern Illinois,REG (Non-Conf),W 54-49,,8,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,3,4,0,0,1,1,3,3,1.7,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+4,4,4,2014-11-25,Cincinnati,,North Carolina Central,REG (Non-Conf),W 59-50,,8,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,1,3,0,0,0,1,0,4,4.1,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+5,5,5,2014-11-28,Cincinnati,N,Middle Tennessee,REG (Non-Conf),W 69-51,,10,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,1,1,0,0,2,1,1,4,3.7,N,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+6,6,6,2014-11-29,Cincinnati,N,Ole Miss,REG (Non-Conf),L 54-66,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+7,7,7,2014-12-02,Cincinnati,,Stony Brook,REG (Non-Conf),W 78-52,,20,2,6,0.333,0,0,2,6,0.333,0.333,2,2,1.0,0,1,1,0,0,3,0,1,6,4.6,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+8,8,8,2014-12-13,Cincinnati,@,Nebraska,REG (Non-Conf),L 55-56 (2OT),,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,1,0,0,1,1,2,1.3,A,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+9,9,9,2014-12-17,Cincinnati,,San Diego State,REG (Non-Conf),W 71-62 (OT),,13,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,1,1,0,0,1,0,0,6,5.4,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+10,10,10,2014-12-20,Cincinnati,,VCU,REG (Non-Conf),L 47-68,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,0,0,-0.7,H,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+11,11,11,2014-12-23,Cincinnati,,Wagner,REG (Non-Conf),W 72-48,,17,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,0,4,4,0,0,2,0,1,8,8.5,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+12,12,12,2014-12-30,Cincinnati,@,NC State,REG (Non-Conf),W 76-60,,11,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,2,2,4,0,0,0,1,4,9,5.4,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+13,13,13,2015-01-03,Cincinnati,,SMU,REG (Conf),W 56-50,,12,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,1,2,1,2,2,2.2,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+14,14,14,2015-01-06,Cincinnati,,East Carolina,REG (Conf),W 69-48,,12,3,5,0.6,0,0,3,5,0.6,0.6,3,4,0.75,0,2,2,0,0,0,2,4,9,3.3,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+15,15,15,2015-01-10,Cincinnati,@,Connecticut,REG (Conf),L 56-62,,14,0,3,0.0,0,0,0,3,0.0,0.0,2,4,0.5,0,2,2,0,0,1,1,0,2,-0.6,A,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+16,16,16,2015-01-15,Cincinnati,@,Memphis,REG (Conf),L 50-63,,16,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,1,1,0,0,1,3,3,8,1.5,A,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+17,17,17,2015-01-17,Cincinnati,,Temple,REG (Conf),W 84-53,,12,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,1,3,4,0,0,0,0,2,4,3.0,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+18,18,18,2015-01-21,Cincinnati,,Houston,REG (Conf),W 67-54,,6,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,1,0,0,2,2.0,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+19,19,19,2015-01-25,Cincinnati,@,UCF,REG (Conf),W 56-46,,8,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,2,0,2,0,0,0,1,2,4,2.6,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+20,20,20,2015-01-29,Cincinnati,,Connecticut,REG (Conf),W 70-58,,19,2,6,0.333,0,0,2,6,0.333,0.333,2,4,0.5,2,1,3,0,0,2,2,1,6,2.5,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+21,21,21,2015-02-01,Cincinnati,@,East Carolina,REG (Conf),L 46-50,,8,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,1,0,1,0,0,1,0,0,2,2.0,A,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+22,22,22,2015-02-05,Cincinnati,@,SMU,REG (Conf),W 62-54,,4,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,2,2,0,0,1,0,2,3,2.8,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+23,23,23,2015-02-07,Cincinnati,,South Florida,REG (Conf),W 63-58,,11,2,6,0.333,0,0,2,6,0.333,0.333,2,3,0.667,4,2,6,0,1,1,0,2,6,6.5,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+24,24,24,2015-02-10,Cincinnati,@,Temple,REG (Conf),L 59-75,,10,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,0,0,0,0,0,1,1,1,5,3.0,A,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+25,25,25,2015-02-14,Cincinnati,,Tulane,REG (Conf),L 49-50,,9,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,2,2,0,0,1,0,4,4,2.7,H,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+26,26,26,2015-02-18,Cincinnati,,Xavier,REG (Non-Conf),L 57-59,,10,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,2,2,0,0,0,1,3,4,1.8,H,0,1,coreontae-deberry-1,Coreontae DeBerry,2015
+27,27,27,2015-02-21,Cincinnati,@,Houston,REG (Conf),W 63-53,,10,2,2,1.0,0,0,2,2,1.0,1.0,1,1,1.0,0,0,0,0,0,2,0,0,5,5.8,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+28,28,28,2015-02-25,Cincinnati,,UCF,REG (Conf),W 83-60,,9,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,1,1,2,0,0,3,0,3,5,5.5,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+29,29,29,2015-02-28,Cincinnati,@,Tulane,REG (Conf),W 63-47,,13,3,4,0.75,0,0,3,4,0.75,0.75,0,3,0.0,1,4,5,1,0,0,4,3,6,0.6,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+30,30,30,2015-03-04,Cincinnati,@,Tulsa,REG (Conf),W 56-47,,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,1,2,0,-1.5,A,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+31,31,31,2015-03-08,Cincinnati,,Memphis,REG (Conf),W 77-65,,7,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,2,3,0,0,1,0,0,4,5.4,H,1,1,coreontae-deberry-1,Coreontae DeBerry,2015
+32,32,32,2015-03-13,Cincinnati,N,Connecticut,CTOURN,L 54-57,,7,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,1,0,2,0,0.2,N,0,0,coreontae-deberry-1,Coreontae DeBerry,2015
+33,33,33,2015-03-19,Cincinnati,N,Purdue,ROUND-64,W 66-65 (OT),,26,5,9,0.556,0,0,5,9,0.556,0.556,3,5,0.6,1,1,2,0,0,2,0,3,13,9.1,N,1,0,coreontae-deberry-1,Coreontae DeBerry,2015
+34,34,34,2015-03-21,Cincinnati,N,Kentucky,ROUND-32,L 51-64,,17,3,6,0.5,0,0,3,6,0.5,0.5,1,4,0.25,3,3,6,1,0,2,1,1,7,6.5,N,0,0,coreontae-deberry-1,Coreontae DeBerry,2015

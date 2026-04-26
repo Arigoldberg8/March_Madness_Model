@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2016-11-11,New Mexico State,,Arizona Christian,REG (Non-Conf),W 100-52,,26,6,6,1.0,0,0,,6,6,1.0,1.0,1,2,0.5,4,3,7,2,0,0,1,1,13,14.5,H,1,1,matt-taylor-1,Matt Taylor,2017
+2,62,2,2016-11-13,New Mexico State,@,Colorado State,REG (Non-Conf),L 61-64,,16,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,0,1,1,2,0,2,0,5,5,4.4,A,0,1,matt-taylor-1,Matt Taylor,2017
+3,63,3,2016-11-16,New Mexico State,,Samford,REG (Non-Conf),W 58-48,,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,2,3,2,0,1,1,3,4,3.9,H,1,1,matt-taylor-1,Matt Taylor,2017
+4,64,4,2016-11-18,New Mexico State,@,New Mexico,REG (Non-Conf),L 59-72,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,1,2,0,1,2,0,3,0,0.1,A,0,1,matt-taylor-1,Matt Taylor,2017
+5,65,5,2016-11-20,New Mexico State,,Bethune-Cookman,REG (Non-Conf),W 89-73,,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,1,3,2,2,1,3,1,2,2.0,H,1,1,matt-taylor-1,Matt Taylor,2017
+6,66,6,2016-11-22,New Mexico State,,Nicholls State,REG (Non-Conf),W 86-74,,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,2,2,4,4,3,3,1,3,8,11.7,H,1,1,matt-taylor-1,Matt Taylor,2017
+7,67,7,2016-11-26,New Mexico State,@,San Diego,REG (Non-Conf),W 56-51,,25,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,3,3,1,0,1,0,1,4,4.6,A,1,1,matt-taylor-1,Matt Taylor,2017
+8,68,8,2016-11-30,New Mexico State,,Air Force,REG (Non-Conf),W 78-70,,26,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,1,3,4,1,1,0,0,1,9,9.3,H,1,1,matt-taylor-1,Matt Taylor,2017
+9,69,9,2016-12-03,New Mexico State,,Long Beach State,REG (Non-Conf),W 93-85,,16,0,0,,0,0,,0,0,,,0,0,,0,2,2,2,0,1,1,1,0,1.3,H,1,1,matt-taylor-1,Matt Taylor,2017
+10,70,10,2016-12-10,New Mexico State,,New Mexico,REG (Non-Conf),W 84-71,,15,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,1,1,0,4,5,3,-1.6,H,1,1,matt-taylor-1,Matt Taylor,2017
+11,71,11,2016-12-13,New Mexico State,@,UTEP,REG (Non-Conf),W 79-68,,25,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,0,1,1,0,1,0,1,4,5,2.3,A,1,1,matt-taylor-1,Matt Taylor,2017
+12,72,12,2016-12-17,New Mexico State,@,Arizona State,REG (Non-Conf),W 81-70,,19,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,4,0,1,2,1,5,5.0,A,1,1,matt-taylor-1,Matt Taylor,2017
+13,73,13,2016-12-19,New Mexico State,,UC Irvine,REG (Non-Conf),W 85-79 (OT),,23,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,1,0,0,0,1,4,3.0,H,1,1,matt-taylor-1,Matt Taylor,2017
+14,74,14,2016-12-27,New Mexico State,,Eastern N.M.,REG (Non-Conf),W 84-50,,22,4,5,0.8,1,1,1.0,3,4,0.75,0.9,3,4,0.75,0,3,3,1,0,0,0,2,12,10.5,H,1,1,matt-taylor-1,Matt Taylor,2017
+15,75,15,2016-12-30,New Mexico State,,UTEP,REG (Non-Conf),W 79-70,,23,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,3,3,2,0,0,0,2,3,2.1,H,1,1,matt-taylor-1,Matt Taylor,2017
+16,76,16,2017-01-05,New Mexico State,@,Kansas City,REG (Conf),W 77-64,,24,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,1,2,3,0,1,1,1,1,6,3.5,A,1,1,matt-taylor-1,Matt Taylor,2017
+17,77,17,2017-01-07,New Mexico State,@,Chicago State,REG (Conf),W 78-62,,26,2,8,0.25,1,4,0.25,1,4,0.25,0.313,4,4,1.0,1,2,3,1,2,1,1,4,9,6.3,A,1,1,matt-taylor-1,Matt Taylor,2017
+18,78,18,2017-01-12,New Mexico State,,Grand Canyon,REG (Conf),W 81-69,,16,3,6,0.5,1,3,0.333,2,3,0.667,0.583,4,5,0.8,0,3,3,1,0,0,1,1,11,7.8,H,1,1,matt-taylor-1,Matt Taylor,2017
+19,79,19,2017-01-14,New Mexico State,,Cal State Bakersfield,REG (Conf),W 63-58,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,2,3,5,1,0,0,1,1,4,4.6,H,1,1,matt-taylor-1,Matt Taylor,2017
+20,80,20,2017-01-21,New Mexico State,,Kansas City,REG (Conf),W 94-71,,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,3,4,6,0,1,2,3,7,8.3,H,1,1,matt-taylor-1,Matt Taylor,2017
+21,81,21,2017-01-26,New Mexico State,@,Seattle,REG (Conf),W 71-56,,25,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,3,4,2,4,0,2,3,3,5.1,A,1,1,matt-taylor-1,Matt Taylor,2017
+22,82,22,2017-01-28,New Mexico State,@,Utah Valley,REG (Conf),W 74-69,,21,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,0,0,1,0,1,2,1,4,-0.4,A,1,1,matt-taylor-1,Matt Taylor,2017
+23,83,23,2017-01-30,New Mexico State,,N New Mexico,REG (Non-Conf),W 98-75,,21,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,2,1,3,2,1,2,1,2,11,11.0,H,1,1,matt-taylor-1,Matt Taylor,2017
+24,84,24,2017-02-04,New Mexico State,,Chicago State,REG (Conf),W 86-51,,24,5,8,0.625,2,5,0.4,3,3,1.0,0.75,3,6,0.5,2,5,7,4,1,1,1,0,15,16.6,H,1,1,matt-taylor-1,Matt Taylor,2017
+25,85,25,2017-02-09,New Mexico State,@,Cal State Bakersfield,REG (Conf),L 53-72,,14,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,0,0,0,0,0,2,3,3,-3.3,A,0,1,matt-taylor-1,Matt Taylor,2017
+26,86,26,2017-02-11,New Mexico State,@,Grand Canyon,REG (Conf),L 71-83,*,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,3,3,1,0,0,1,3,6,3.1,A,0,1,matt-taylor-1,Matt Taylor,2017
+27,87,27,2017-02-18,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 107-101,*,30,3,9,0.333,2,4,0.5,1,5,0.2,0.444,1,2,0.5,0,5,5,4,1,0,3,3,9,4.6,A,1,1,matt-taylor-1,Matt Taylor,2017
+28,88,28,2017-02-23,New Mexico State,,Utah Valley,REG (Conf),L 72-84,*,26,5,9,0.556,0,2,0.0,5,7,0.714,0.556,1,5,0.2,3,3,6,2,0,0,4,4,11,3.9,H,0,1,matt-taylor-1,Matt Taylor,2017
+29,89,29,2017-02-25,New Mexico State,,Seattle,REG (Conf),W 86-53,*,23,6,11,0.545,3,6,0.5,3,5,0.6,0.682,0,0,,1,1,2,2,1,1,0,2,15,13.0,H,1,1,matt-taylor-1,Matt Taylor,2017
+30,90,30,2017-03-04,New Mexico State,,Texas–Rio Grande Valley,REG (Conf),W 107-81,*,23,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,3,5,8,1,0,1,2,1,11,10.0,H,1,1,matt-taylor-1,Matt Taylor,2017
+31,91,31,2017-03-09,New Mexico State,N,Chicago State,CTOURN,W 67-53,*,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,1,1,1,3,0,0,1,4,4.1,N,1,0,matt-taylor-1,Matt Taylor,2017
+32,92,32,2017-03-10,New Mexico State,N,Kansas City,CTOURN,W 78-60,*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,4,0.25,0,4,4,1,1,0,1,1,4,1.2,N,1,0,matt-taylor-1,Matt Taylor,2017
+33,93,33,2017-03-11,New Mexico State,N,Cal State Bakersfield,CTOURN,W 70-60,*,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,0,0,0,0,0,1,0,9,4.6,N,1,0,matt-taylor-1,Matt Taylor,2017
+34,94,34,2017-03-17,New Mexico State,N,Baylor,ROUND-64,L 73-91,*,19,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,1,0,0,0,5,3,2.0,N,0,0,matt-taylor-1,Matt Taylor,2017

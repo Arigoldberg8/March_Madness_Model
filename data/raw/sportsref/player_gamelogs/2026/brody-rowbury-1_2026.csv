@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2025-11-03,Idaho,@,Washington State,REG (Non-Conf),W 83-81,*,22,5,6,0.833,0,0,,5,6,0.833,0.833,3,3,1.0,1,5,6,2,0,0,0,5,13,12.4,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+2,91,2,2025-11-07,Idaho,,Whitman,REG (Non-Conf),W 94-49,*,19,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,0,,0,3,3,1,0,0,1,2,10,7.6,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+3,92,3,2025-11-12,Idaho,@,San Diego,REG (Non-Conf),L 74-78,*,29,3,8,0.375,0,0,,3,8,0.375,0.375,4,6,0.667,6,2,8,0,0,0,2,4,10,6.0,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+4,93,4,2025-11-15,Idaho,@,UC San Diego,REG (Non-Conf),L 67-75,*,28,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,3,4,7,2,1,0,1,1,9,11.0,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+5,94,5,2025-11-22,Idaho,,Eastern Ore.,REG (Non-Conf),W 97-68,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,5,4,9,5,0,0,2,1,5,9.1,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+6,95,6,2025-11-26,Idaho,N,Cal State Northridge,REG (Non-Conf),W 78-64,*,30,0,1,0.0,0,0,,0,1,0.0,0.0,6,8,0.75,0,2,2,2,0,1,0,3,6,6.0,N,1,1,brody-rowbury-1,Brody Rowbury,2026
+7,96,7,2025-11-28,Idaho,N,Sam Houston State,REG (Non-Conf),L 68-94,*,28,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,5,5,0,0,0,1,2,11,5.7,N,0,1,brody-rowbury-1,Brody Rowbury,2026
+8,97,8,2025-12-03,Idaho,,North Dakota,REG (Non-Conf),W 90-58,*,20,0,0,,0,0,,0,0,,,5,6,0.833,1,1,2,2,0,1,4,4,5,2.1,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+9,98,9,2025-12-06,Idaho,@,South Dakota State,REG (Non-Conf),W 84-81,*,27,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,4,0.75,2,6,8,0,1,0,1,3,11,10.0,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+10,99,10,2025-12-10,Idaho,@,Notre Dame,REG (Non-Conf),L 65-80,*,22,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,0,4,4,1,0,0,0,4,11,8.7,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+11,100,11,2025-12-14,Idaho,,Evergreen St.,REG (Non-Conf),W 109-55,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,4,2,6,2,1,0,0,0,2,6.8,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+12,101,12,2025-12-21,Idaho,@,Cal Poly,REG (Non-Conf),W 83-80 (OT),*,34,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,4,6,2,0,0,1,3,6,6.2,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+13,102,13,2025-12-23,Idaho,@,Cal State Bakersfield,REG (Non-Conf),L 63-64,*,36,8,12,0.667,2,4,0.5,6,8,0.75,0.75,2,3,0.667,3,6,9,0,1,1,1,4,20,17.4,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+14,103,14,2026-01-03,Idaho,,Eastern Washington,REG (Conf),W 84-81,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,7,8,0,1,2,1,4,4,5.6,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+15,104,15,2026-01-08,Idaho,,Montana,REG (Conf),L 73-79,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,3,5,0.6,5,2,7,0,0,0,1,2,15,13.3,H,0,1,brody-rowbury-1,Brody Rowbury,2026
+16,105,16,2026-01-10,Idaho,,Montana State,REG (Conf),W 92-89,*,25,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,5,1,6,0,0,0,1,3,11,10.0,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+17,106,18,2026-01-15,Idaho,@,Idaho State,REG (Conf),L 68-76,*,28,1,2,0.5,0,1,0.0,1,1,1.0,0.5,7,8,0.875,2,4,6,0,1,0,0,4,9,9.6,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+18,107,19,2026-01-17,Idaho,@,Weber State,REG (Conf),W 75-67,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,4,4,1.0,1,7,8,1,0,3,1,4,8,8.3,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+19,108,20,2026-01-22,Idaho,,Sacramento State,REG (Conf),W 86-76,*,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,3,1,4,0,0,1,1,4,2,0.4,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+20,109,21,2026-01-24,Idaho,,Portland State,REG (Conf),L 66-69,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,3,3,0,0,0,2,3,3,-1.4,H,0,1,brody-rowbury-1,Brody Rowbury,2026
+21,110,22,2026-01-29,Idaho,@,Northern Colorado,REG (Conf),L 83-91,*,21,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,1,2,3,1,0,0,1,3,10,6.8,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+22,111,23,2026-01-31,Idaho,@,Northern Arizona,REG (Conf),W 79-62,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,1,3,4,1,0,1,2,4,10,7.5,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+23,112,24,2026-02-05,Idaho,@,Montana State,REG (Conf),L 66-73,*,20,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,0,1,1,0,0,0,1,1,5,3.3,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+24,113,25,2026-02-07,Idaho,@,Montana,REG (Conf),L 68-73,*,20,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,3,4,1,0,1,1,2,0,-0.2,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+25,114,26,2026-02-12,Idaho,,Weber State,REG (Conf),L 72-83,*,28,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,2,3,5,1,0,1,1,4,11,8.5,H,0,1,brody-rowbury-1,Brody Rowbury,2026
+26,115,27,2026-02-14,Idaho,,Idaho State,REG (Conf),W 99-69,*,28,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,2,5,7,2,1,1,1,4,10,10.0,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+27,116,28,2026-02-19,Idaho,@,Portland State,REG (Conf),L 67-77,*,30,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,5,6,2,0,1,2,2,2,3.2,A,0,1,brody-rowbury-1,Brody Rowbury,2026
+28,117,29,2026-02-21,Idaho,@,Sacramento State,REG (Conf),W 86-80,*,19,4,10,0.4,2,3,0.667,2,7,0.286,0.5,4,6,0.667,3,3,6,2,0,1,0,4,14,11.3,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+29,118,30,2026-02-26,Idaho,,Northern Arizona,REG (Conf),W 78-58,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,2,3,5,1,1,1,2,3,6,4.8,H,1,1,brody-rowbury-1,Brody Rowbury,2026
+30,119,31,2026-02-28,Idaho,,Northern Colorado,REG (Conf),L 67-76,*,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,6,0.667,4,4,8,2,0,1,0,0,8,10.6,H,0,1,brody-rowbury-1,Brody Rowbury,2026
+31,120,32,2026-03-02,Idaho,@,Eastern Washington,REG (Conf),W 85-81,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,1,3,0.333,1,0,1,1,2,1,3,4,3,1.4,A,1,1,brody-rowbury-1,Brody Rowbury,2026
+32,121,33,2026-03-07,Idaho,N,Sacramento State,CTOURN,W 68-45,*,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,4,0.5,2,5,7,0,1,1,2,4,4,2.5,N,1,0,brody-rowbury-1,Brody Rowbury,2026
+33,122,34,2026-03-08,Idaho,N,Montana State,CTOURN,W 78-74,*,28,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,2,0.0,1,4,5,1,0,0,0,2,6,5.4,N,1,0,brody-rowbury-1,Brody Rowbury,2026
+34,123,35,2026-03-10,Idaho,N,Eastern Washington,CTOURN,W 81-68,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,3,0.0,0,0,0,0,0,0,0,5,2,-1.5,N,1,0,brody-rowbury-1,Brody Rowbury,2026
+35,124,36,2026-03-11,Idaho,N,Montana,CTOURN,W 77-66,*,23,4,5,0.8,2,3,0.667,2,2,1.0,1.0,2,4,0.5,1,3,4,0,1,0,0,3,12,10.7,N,1,0,brody-rowbury-1,Brody Rowbury,2026

@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2020-11-26,Kansas,N,Gonzaga,REG (Non-Conf),L 90-102,*,37,7,9,0.778,2,2,1.0,5,7,0.714,0.889,6,7,0.857,0,2,2,2,1,0,4,3,22,15.9,N,0,1,marcus-garrett-1,Marcus Garrett,2021
+2,102,2,2020-11-27,Kansas,N,Saint Joseph's,REG (Non-Conf),W 94-72,*,29,1,5,0.2,0,0,,1,5,0.2,0.2,3,4,0.75,2,5,7,3,3,0,0,2,5,8.7,N,1,1,marcus-garrett-1,Marcus Garrett,2021
+3,103,3,2020-12-01,Kansas,N,Kentucky,REG (Non-Conf),W 65-62,*,35,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,0,,1,4,5,1,1,0,3,2,8,1.7,N,1,1,marcus-garrett-1,Marcus Garrett,2021
+4,104,4,2020-12-03,Kansas,,Washburn,REG (Non-Conf),W 89-54,*,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,4,4,5,1,1,0,0,5,8.7,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+5,105,5,2020-12-05,Kansas,,North Dakota State,REG (Non-Conf),W 65-61,*,37,2,9,0.222,0,0,,2,9,0.222,0.222,2,2,1.0,1,4,5,4,1,0,1,2,6,4.4,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+6,106,6,2020-12-08,Kansas,,Creighton,REG (Non-Conf),W 73-72,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,3,0.667,0,3,3,4,2,0,1,0,9,7.5,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+7,107,7,2020-12-11,Kansas,,Omaha,REG (Non-Conf),W 95-50,*,20,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,5,5,8,2,0,0,2,5,10.2,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+8,108,8,2020-12-17,Kansas,@,Texas Tech,REG (Conf),W 58-57,*,35,3,10,0.3,0,3,0.0,3,7,0.429,0.3,4,4,1.0,2,8,10,4,1,0,1,2,10,10.0,A,1,1,marcus-garrett-1,Marcus Garrett,2021
+9,109,9,2020-12-22,Kansas,,West Virginia,REG (Conf),W 79-65,*,36,6,8,0.75,3,3,1.0,3,5,0.6,0.938,0,0,,0,3,3,1,2,1,1,1,15,14.7,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+10,110,10,2021-01-02,Kansas,,Texas,REG (Conf),L 59-84,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,0,,0,2,2,4,3,0,1,1,6,5.9,H,0,1,marcus-garrett-1,Marcus Garrett,2021
+11,111,12,2021-01-09,Kansas,,Oklahoma,REG (Conf),W 63-59,*,32,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,2,3,5,4,2,1,2,2,7,8.6,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+12,112,13,2021-01-12,Kansas,@,Oklahoma State,REG (Conf),L 70-75,*,36,6,12,0.5,0,3,0.0,6,9,0.667,0.5,0,0,,0,2,2,3,0,0,3,2,12,4.9,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+13,113,14,2021-01-18,Kansas,@,Baylor,REG (Conf),L 69-77,*,37,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,0,3,3,8,0,1,5,4,9,6.2,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+14,114,15,2021-01-23,Kansas,@,Oklahoma,REG (Conf),L 68-75,*,37,8,12,0.667,3,5,0.6,5,7,0.714,0.792,2,2,1.0,0,12,12,1,1,0,3,4,21,16.5,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+15,115,16,2021-01-28,Kansas,,TCU,REG (Conf),W 59-51,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,4,0.5,0,7,7,2,2,2,4,3,8,5.2,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+16,116,17,2021-01-30,Kansas,@,Tennessee,REG (Non-Conf),L 61-80,*,34,4,7,0.571,2,2,1.0,2,5,0.4,0.714,5,5,1.0,0,2,2,4,1,0,1,3,15,13.9,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+17,117,18,2021-02-02,Kansas,,Kansas State,REG (Conf),W 74-51,*,24,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,6,6,5,1,0,3,2,2,1.4,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+18,118,19,2021-02-06,Kansas,@,West Virginia,REG (Conf),L 79-91,*,33,7,14,0.5,0,2,0.0,7,12,0.583,0.5,4,4,1.0,1,0,1,3,1,0,3,4,18,10.2,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+19,119,20,2021-02-08,Kansas,,Oklahoma State,REG (Conf),W 78-66,*,39,5,7,0.714,0,0,,5,7,0.714,0.714,7,8,0.875,1,5,6,4,0,0,5,2,17,12.9,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+20,120,21,2021-02-11,Kansas,,Iowa State,REG (Conf),W 97-64,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,3,0.667,0,3,3,3,4,1,1,1,8,10.2,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+21,121,22,2021-02-13,Kansas,@,Iowa State,REG (Conf),W 64-50,*,33,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,3,3,5,5,0,2,4,4,7.4,A,1,1,marcus-garrett-1,Marcus Garrett,2021
+22,122,23,2021-02-17,Kansas,@,Kansas State,REG (Conf),W 59-41,*,30,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,3,0.667,1,2,3,2,2,1,3,2,14,10.9,A,1,1,marcus-garrett-1,Marcus Garrett,2021
+23,123,24,2021-02-20,Kansas,,Texas Tech,REG (Conf),W 67-61,*,27,5,8,0.625,0,2,0.0,5,6,0.833,0.625,0,1,0.0,1,1,2,5,0,0,3,3,10,6.3,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+24,124,25,2021-02-23,Kansas,@,Texas,REG (Conf),L 72-75 (OT),*,38,2,12,0.167,0,2,0.0,2,10,0.2,0.167,0,0,,0,4,4,3,1,2,1,4,4,-0.5,A,0,1,marcus-garrett-1,Marcus Garrett,2021
+25,125,26,2021-02-27,Kansas,,Baylor,REG (Conf),W 71-58,*,35,4,9,0.444,0,1,0.0,4,8,0.5,0.444,6,9,0.667,1,6,7,2,0,0,0,2,14,11.2,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+26,126,27,2021-03-04,Kansas,,UTEP,REG (Non-Conf),W 67-62,*,38,3,9,0.333,1,3,0.333,2,6,0.333,0.389,4,4,1.0,0,2,2,5,4,0,2,1,11,11.6,H,1,1,marcus-garrett-1,Marcus Garrett,2021
+27,127,28,2021-03-11,Kansas,,Oklahoma,CTOURN,W 69-62,*,39,7,12,0.583,2,4,0.5,5,8,0.625,0.667,1,2,0.5,1,4,5,4,3,0,2,0,17,16.7,H,1,0,marcus-garrett-1,Marcus Garrett,2021
+28,128,29,2021-03-20,Kansas,N,Eastern Washington,ROUND-64,W 93-84,*,33,9,13,0.692,4,6,0.667,5,7,0.714,0.846,1,1,1.0,2,6,8,3,1,0,1,3,23,21.6,N,1,0,marcus-garrett-1,Marcus Garrett,2021
+29,129,30,2021-03-22,Kansas,N,Southern California,ROUND-32,L 51-85,*,31,6,15,0.4,1,2,0.5,5,13,0.385,0.433,2,2,1.0,2,4,6,4,2,0,0,4,15,12.7,N,0,0,marcus-garrett-1,Marcus Garrett,2021

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2021-11-09,Illinois,,Jackson State,REG (Non-Conf),W 71-47,*,30,2,11,0.182,1,2,0.5,1,9,0.111,0.227,3,4,0.75,1,3,4,4,3,0,2,2,8,5.3,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+2,128,2,2021-11-12,Illinois,,Arkansas State,REG (Non-Conf),W 92-53,,18,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,3,0.333,2,3,5,0,0,0,0,0,5,2.4,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+3,129,3,2021-11-15,Illinois,@,Marquette,REG (Non-Conf),L 66-67,,31,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,4,7,11,2,2,0,1,3,0,4.7,A,0,1,demonte-williams-1,Da'Monte Williams,2022
+4,130,4,2021-11-22,Illinois,N,Cincinnati,REG (Non-Conf),L 51-71,,27,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,3,7,10,0,2,0,1,1,2,5.4,N,0,1,demonte-williams-1,Da'Monte Williams,2022
+5,131,5,2021-11-23,Illinois,N,Kansas State,REG (Non-Conf),W 72-64,*,31,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,1,0.0,1,6,7,1,0,0,3,1,3,-0.7,N,1,1,demonte-williams-1,Da'Monte Williams,2022
+6,132,6,2021-11-26,Illinois,,Texas–Rio Grande Valley,REG (Non-Conf),W 94-85,*,30,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,4,6,8,1,0,0,5,4,9.2,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+7,133,7,2021-11-29,Illinois,,Notre Dame,REG (Non-Conf),W 82-72,*,36,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,6,6,5,0,0,2,3,4,4.7,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+8,134,8,2021-12-03,Illinois,,Rutgers,REG (Conf),W 86-51,*,26,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,3,4,5,2,1,1,1,6,9.0,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+9,135,9,2021-12-06,Illinois,@,Iowa,REG (Conf),W 87-83,*,30,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,2,2,4,6,1,0,2,3,3,6.0,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+10,136,10,2021-12-11,Illinois,,Arizona,REG (Non-Conf),L 79-83,*,29,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,5,5,3,0,1,2,4,0,-1.4,H,0,1,demonte-williams-1,Da'Monte Williams,2022
+11,137,11,2021-12-18,Illinois,,Saint Francis (PA),REG (Non-Conf),W 106-48,*,27,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,4,0,2,0,1,5,8.5,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+12,138,12,2021-12-22,Illinois,N,Missouri,REG (Non-Conf),W 88-63,*,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,3,1,0,1,3,3,3.1,N,1,1,demonte-williams-1,Da'Monte Williams,2022
+13,139,13,2022-01-04,Illinois,@,Minnesota,REG (Conf),W 76-53,*,32,3,9,0.333,3,4,0.75,0,5,0.0,0.5,0,1,0.0,1,4,5,4,1,0,0,2,9,8.4,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+14,140,14,2022-01-06,Illinois,,Maryland,REG (Conf),W 76-64,*,37,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,3,2,5,2,2,0,0,2,9,9.2,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+15,141,15,2022-01-11,Illinois,@,Nebraska,REG (Conf),W 81-71,*,33,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,3,4,1,1,0,1,2,3,3.5,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+16,142,16,2022-01-14,Illinois,,Michigan,REG (Conf),W 68-53,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,3,4,0,0,0,3,3,5,-1.0,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+17,143,17,2022-01-17,Illinois,,Purdue,REG (Conf),L 88-96 (2OT),*,45,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,6,6,4,1,2,1,3,3,6.8,H,0,1,demonte-williams-1,Da'Monte Williams,2022
+18,144,18,2022-01-21,Illinois,@,Maryland,REG (Conf),L 65-81,*,34,0,5,0.0,0,4,0.0,0,1,0.0,0.0,1,2,0.5,2,6,8,6,1,0,1,0,1,4.5,A,0,1,demonte-williams-1,Da'Monte Williams,2022
+19,145,19,2022-01-25,Illinois,,Michigan State,REG (Conf),W 56-55,*,27,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,1,0.0,0,4,4,1,0,0,1,1,0,-2.0,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+20,146,20,2022-01-29,Illinois,@,Northwestern,REG (Conf),W 59-56,*,32,1,1,1.0,0,0,,1,1,1.0,1.0,3,4,0.75,1,8,9,3,0,0,0,1,5,9.1,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+21,147,21,2022-02-02,Illinois,,Wisconsin,REG (Conf),W 80-67,*,35,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,3,0.0,0,8,8,5,0,0,0,2,7,8.6,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+22,148,22,2022-02-05,Illinois,@,Indiana,REG (Conf),W 74-57,*,35,2,4,0.5,2,4,0.5,0,0,,0.75,0,2,0.0,1,6,7,2,0,3,1,1,6,7.8,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+23,149,23,2022-02-08,Illinois,@,Purdue,REG (Conf),L 68-84,*,28,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,1,2,3,2,1,1,0,0,3,3.6,A,0,1,demonte-williams-1,Da'Monte Williams,2022
+24,150,24,2022-02-13,Illinois,,Northwestern,REG (Conf),W 73-66,*,23,2,9,0.222,2,7,0.286,0,2,0.0,0.333,0,0,,1,2,3,0,2,1,1,0,6,3.5,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+25,151,25,2022-02-16,Illinois,@,Rutgers,REG (Conf),L 59-70,*,29,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,3,0,0,1,0,0,-0.7,A,0,1,demonte-williams-1,Da'Monte Williams,2022
+26,152,26,2022-02-19,Illinois,@,Michigan State,REG (Conf),W 79-74,*,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,4,4,1,2,0,0,0,2,3.5,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+27,153,27,2022-02-24,Illinois,,Ohio State,REG (Conf),L 83-86,*,26,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,4,2,1.1,H,0,1,demonte-williams-1,Da'Monte Williams,2022
+28,154,28,2022-02-27,Illinois,@,Michigan,REG (Conf),W 93-85,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,0,0,0,0,2,2,0.4,A,1,1,demonte-williams-1,Da'Monte Williams,2022
+29,155,29,2022-03-03,Illinois,,Penn State,REG (Conf),W 60-55,*,33,4,11,0.364,4,10,0.4,0,1,0.0,0.545,2,2,1.0,0,3,3,2,2,0,0,1,14,11.8,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+30,156,30,2022-03-06,Illinois,,Iowa,REG (Conf),W 74-72,*,19,2,3,0.667,2,2,1.0,0,1,0.0,1.0,1,2,0.5,1,2,3,1,0,0,1,2,7,5.5,H,1,1,demonte-williams-1,Da'Monte Williams,2022
+31,157,31,2022-03-11,Illinois,N,Indiana,CTOURN,L 63-65,*,20,0,0,,0,0,,0,0,,,0,0,,1,5,6,2,0,0,1,0,0,2.6,N,0,0,demonte-williams-1,Da'Monte Williams,2022
+32,158,32,2022-03-18,Illinois,N,Chattanooga,ROUND-64,W 54-53,*,28,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,6,6,0,1,0,0,1,2,2.7,N,1,0,demonte-williams-1,Da'Monte Williams,2022
+33,159,33,2022-03-20,Illinois,N,Houston,ROUND-32,L 53-68,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,1,1,0,3,3,0,-1.9,N,0,0,demonte-williams-1,Da'Monte Williams,2022

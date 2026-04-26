@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Gonzaga,,Eastern Washington,REG (Non-Conf),W 77-69,,14,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,0,1,1,0,0,5,1,4,-2.0,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+2,2,2,2011-11-14,Gonzaga,,Washington State,REG (Non-Conf),W 89-81,,24,3,8,0.375,2,5,0.4,1,3,0.333,0.5,6,9,0.667,1,1,2,1,1,0,1,1,14,9.7,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+3,3,3,2011-11-19,Gonzaga,N,Hawaii,REG (Non-Conf),W 73-54,,28,4,12,0.333,4,8,0.5,0,4,0.0,0.5,2,2,1.0,0,0,0,1,0,0,2,1,14,5.5,N,1,1,gary-bell-1,Gary Bell Jr.,2012
+4,4,4,2011-11-26,Gonzaga,N,Western Michigan,REG (Non-Conf),W 78-58,,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,3,1,0,0,2,5,4.9,N,1,1,gary-bell-1,Gary Bell Jr.,2012
+5,5,5,2011-11-30,Gonzaga,,Notre Dame,REG (Non-Conf),W 73-53,,18,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,0,0,0,1,2,5,3.3,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+6,6,6,2011-12-03,Gonzaga,@,Illinois,REG (Non-Conf),L 75-82,,23,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,1,2,3,1,1,0,2,0,9,8.4,A,0,1,gary-bell-1,Gary Bell Jr.,2012
+7,7,7,2011-12-10,Gonzaga,,Michigan State,REG (Non-Conf),L 67-74,*,37,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,4,0.75,0,2,2,3,0,0,1,3,13,10.5,H,0,1,gary-bell-1,Gary Bell Jr.,2012
+8,8,8,2011-12-15,Gonzaga,,Oral Roberts,REG (Non-Conf),W 67-61,*,37,2,5,0.4,2,5,0.4,0,0,,0.6,0,1,0.0,0,4,4,2,1,0,4,2,6,1.7,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+9,9,9,2011-12-17,Gonzaga,N,Arizona,REG (Non-Conf),W 71-60,*,32,2,11,0.182,1,8,0.125,1,3,0.333,0.227,1,2,0.5,0,2,2,0,1,0,1,1,6,-1.1,N,1,1,gary-bell-1,Gary Bell Jr.,2012
+10,10,10,2011-12-20,Gonzaga,,Butler,REG (Non-Conf),W 71-55,*,33,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,4,1.0,0,1,1,0,0,1,0,3,9,7.5,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+11,11,11,2011-12-22,Gonzaga,,Air Force,REG (Non-Conf),W 70-60,*,26,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,0,0,1,2,0,1,2,10,6.9,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+12,12,12,2011-12-28,Gonzaga,,Portland,REG (Conf),W 90-51,*,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,4,4,4,0,0,2,1,6,4.5,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+13,13,13,2011-12-31,Gonzaga,@,Xavier,REG (Non-Conf),W 72-65,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,1,3,4,0,1,0,2,1,7,3.8,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+14,14,14,2012-01-05,Gonzaga,,Pepperdine,REG (Conf),W 73-45,*,21,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,2,2,3,2,0,0,0,15,15.4,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+15,15,15,2012-01-07,Gonzaga,,Santa Clara,REG (Conf),W 82-60,*,27,7,10,0.7,1,3,0.333,6,7,0.857,0.75,0,0,,0,0,0,2,2,0,2,3,15,11.0,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+16,16,16,2012-01-12,Gonzaga,@,St. Mary's (CA),REG (Conf),L 62-83,*,32,2,7,0.286,2,3,0.667,0,4,0.0,0.429,0,1,0.0,0,1,1,3,0,0,3,3,6,-0.3,A,0,1,gary-bell-1,Gary Bell Jr.,2012
+17,17,17,2012-01-14,Gonzaga,@,Loyola Marymount,REG (Conf),W 62-58,*,34,6,9,0.667,1,2,0.5,5,7,0.714,0.722,3,4,0.75,2,2,4,3,1,0,3,4,16,12.2,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+18,18,18,2012-01-19,Gonzaga,,San Francisco,REG (Conf),W 74-63,*,25,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,6,0.667,0,3,3,1,1,0,3,4,8,1.8,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+19,19,19,2012-01-21,Gonzaga,,San Diego,REG (Conf),W 77-60,*,24,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,1,2,3,1,1,0,0,3,11,9.9,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+20,20,20,2012-01-26,Gonzaga,@,Portland,REG (Conf),W 74-62,*,32,5,9,0.556,1,1,1.0,4,8,0.5,0.611,7,8,0.875,2,0,2,2,2,0,0,2,18,17.3,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+21,21,21,2012-02-02,Gonzaga,@,Brigham Young,REG (Conf),L 73-83,*,30,6,14,0.429,1,4,0.25,5,10,0.5,0.464,1,1,1.0,0,5,5,1,2,1,0,3,14,10.3,A,0,1,gary-bell-1,Gary Bell Jr.,2012
+22,22,22,2012-02-04,Gonzaga,@,Pepperdine,REG (Conf),W 72-60,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,2,2,4,1,0,2,1,5,3.9,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+23,23,23,2012-02-09,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-59,*,35,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,3,0.667,2,2,4,1,1,0,0,4,12,11.1,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+24,24,24,2012-02-11,Gonzaga,,Loyola Marymount,REG (Conf),W 78-59,*,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,3,3,2,1,0,1,0,5,4.9,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+25,25,25,2012-02-16,Gonzaga,@,Santa Clara,REG (Conf),W 73-62,*,31,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,3,0.667,0,0,0,4,0,0,3,0,7,4.4,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+26,26,26,2012-02-18,Gonzaga,@,San Francisco,REG (Conf),L 65-66,*,39,5,7,0.714,3,4,0.75,2,3,0.667,0.929,3,4,0.75,0,3,3,3,1,0,3,2,16,12.9,A,0,1,gary-bell-1,Gary Bell Jr.,2012
+27,27,27,2012-02-23,Gonzaga,,Brigham Young,REG (Conf),W 74-63,*,35,3,7,0.429,2,3,0.667,1,4,0.25,0.571,4,6,0.667,0,2,2,1,0,0,4,3,12,3.6,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+28,28,28,2012-02-25,Gonzaga,@,San Diego,REG (Conf),W 65-57,*,35,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,2,0.5,1,1,2,3,0,0,1,3,9,6.5,A,1,1,gary-bell-1,Gary Bell Jr.,2012
+29,29,29,2012-02-27,Gonzaga,,Longwood,REG (Non-Conf),W 92-60,,16,7,10,0.7,6,9,0.667,1,1,1.0,1.0,0,0,,0,2,2,3,0,0,1,0,20,17.5,H,1,1,gary-bell-1,Gary Bell Jr.,2012
+30,30,30,2012-03-03,Gonzaga,N,Brigham Young,CTOURN,W 77-58,*,33,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,0,5,5,4,0,0,2,1,7,4.1,N,1,0,gary-bell-1,Gary Bell Jr.,2012
+31,31,31,2012-03-05,Gonzaga,N,St. Mary's (CA),CTOURN,L 74-78 (OT),*,42,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,5,5,2,0,0,1,4,6,4.0,N,0,0,gary-bell-1,Gary Bell Jr.,2012
+32,32,32,2012-03-15,Gonzaga,N,West Virginia,ROUND-64,W 77-54,*,32,4,9,0.444,2,5,0.4,2,4,0.5,0.556,4,5,0.8,0,4,4,1,0,1,1,2,14,9.7,N,1,0,gary-bell-1,Gary Bell Jr.,2012
+33,33,33,2012-03-17,Gonzaga,N,Ohio State,ROUND-32,L 66-73,*,36,5,9,0.556,3,5,0.6,2,4,0.5,0.722,5,6,0.833,1,3,4,5,0,0,1,2,18,16.6,N,0,0,gary-bell-1,Gary Bell Jr.,2012

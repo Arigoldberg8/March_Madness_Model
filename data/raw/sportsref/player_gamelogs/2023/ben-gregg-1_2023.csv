@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2022-11-07,Gonzaga,,North Florida,REG (Non-Conf),W 104-63,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,2,0,0.5,H,1,1,ben-gregg-1,Ben Gregg,2023
+2,37,2,2022-11-11,Gonzaga,N,Michigan State,REG (Non-Conf),W 64-63,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,ben-gregg-1,Ben Gregg,2023
+3,38,4,2022-11-20,Gonzaga,,Kentucky,REG (Non-Conf),W 88-72,,4,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,1,0,0,1,2,2.2,H,1,1,ben-gregg-1,Ben Gregg,2023
+4,39,5,2022-11-25,Gonzaga,N,Portland State,REG (Non-Conf),W 102-78,,5,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,3,4,0,0,0,0,0,4,4.3,N,1,1,ben-gregg-1,Ben Gregg,2023
+5,40,5,2022-11-25,Gonzaga,N,Purdue,REG (Non-Conf),L 66-84,,9,3,6,0.5,2,5,0.4,1,1,1.0,0.667,1,1,1.0,1,1,2,0,0,2,0,5,9,6.4,N,0,1,ben-gregg-1,Ben Gregg,2023
+6,41,7,2022-11-27,Gonzaga,N,Xavier,REG (Non-Conf),W 88-84,,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,3,3,6,0,0,2,1,2,3,3.9,N,1,1,ben-gregg-1,Ben Gregg,2023
+7,42,8,2022-12-02,Gonzaga,N,Baylor,REG (Non-Conf),L 63-64,,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,1,2,1,2,0,0,3,5,4.8,N,0,1,ben-gregg-1,Ben Gregg,2023
+8,43,9,2022-12-05,Gonzaga,,Kent State,REG (Non-Conf),W 73-66,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,2,0,-2.2,H,1,1,ben-gregg-1,Ben Gregg,2023
+9,44,10,2022-12-09,Gonzaga,,Washington,REG (Non-Conf),W 77-60,,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,0,0,0,1.3,H,1,1,ben-gregg-1,Ben Gregg,2023
+10,45,11,2022-12-12,Gonzaga,,Northern Illinois,REG (Non-Conf),W 88-67,,17,6,11,0.545,1,2,0.5,5,9,0.556,0.591,5,5,1.0,5,2,7,1,3,0,1,2,18,18.7,H,1,1,ben-gregg-1,Ben Gregg,2023
+11,46,12,2022-12-17,Gonzaga,N,Alabama,REG (Non-Conf),W 100-90,,4,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,1,1,0,0,1,3,4.6,N,1,1,ben-gregg-1,Ben Gregg,2023
+12,47,13,2022-12-20,Gonzaga,,Montana,REG (Non-Conf),W 85-75,,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,4,1.0,1,2,3,1,0,0,1,2,9,7.2,H,1,1,ben-gregg-1,Ben Gregg,2023
+13,48,14,2022-12-28,Gonzaga,,Eastern Ore.,REG (Non-Conf),W 120-42,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,3,3,6,3,0,1,3,2,5,5.7,H,1,1,ben-gregg-1,Ben Gregg,2023
+14,49,15,2022-12-31,Gonzaga,,Pepperdine,REG (Conf),W 111-88,,11,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,2,0,2,0,2,0,0,3,10,7.9,H,1,1,ben-gregg-1,Ben Gregg,2023
+15,50,16,2023-01-05,Gonzaga,@,San Francisco,REG (Conf),W 77-75,,9,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,1,0,1,1,0,3,1.0,A,1,1,ben-gregg-1,Ben Gregg,2023
+16,51,17,2023-01-07,Gonzaga,@,Santa Clara,REG (Conf),W 81-76,,23,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,3,0.333,3,5,8,1,0,1,2,2,5,2.3,A,1,1,ben-gregg-1,Ben Gregg,2023
+17,52,18,2023-01-12,Gonzaga,@,Brigham Young,REG (Conf),W 75-74,,12,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,4,2,6,1,2,1,1,1,10,13.5,A,1,1,ben-gregg-1,Ben Gregg,2023
+18,53,19,2023-01-14,Gonzaga,,Portland,REG (Conf),W 115-75,,15,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,3,1,4,1,0,3,0,3,12,13.1,H,1,1,ben-gregg-1,Ben Gregg,2023
+19,54,20,2023-01-19,Gonzaga,,Loyola Marymount,REG (Conf),L 67-68,,10,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,1,1,2,0,0,1,1,0,3,2.0,H,0,1,ben-gregg-1,Ben Gregg,2023
+20,55,21,2023-01-21,Gonzaga,@,Pacific,REG (Conf),W 99-90,,5,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,0,0,1,2,1.2,A,1,1,ben-gregg-1,Ben Gregg,2023
+21,56,22,2023-01-28,Gonzaga,@,Portland,REG (Conf),W 82-67,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,2,0,0,1,0,0,0.4,A,1,1,ben-gregg-1,Ben Gregg,2023
+22,57,23,2023-02-02,Gonzaga,,Santa Clara,REG (Conf),W 88-70,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,2,3,1,0,0,0,2,5,4.9,H,1,1,ben-gregg-1,Ben Gregg,2023
+23,58,24,2023-02-04,Gonzaga,@,St. Mary's (CA),REG (Conf),L 70-78 (OT),,11,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,3,3,0,0,0,0,3,3,1.0,A,0,1,ben-gregg-1,Ben Gregg,2023
+24,59,25,2023-02-09,Gonzaga,,San Francisco,REG (Conf),W 99-81,,19,3,6,0.5,2,5,0.4,1,1,1.0,0.667,1,1,1.0,2,1,3,1,1,0,1,3,9,7.2,H,1,1,ben-gregg-1,Ben Gregg,2023
+25,60,26,2023-02-11,Gonzaga,,Brigham Young,REG (Conf),W 88-81,,14,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,1,4,5,2,0,1,1,0,5,6.6,H,1,1,ben-gregg-1,Ben Gregg,2023
+26,61,27,2023-02-16,Gonzaga,@,Loyola Marymount,REG (Conf),W 108-65,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,3,0.333,2,1,3,1,1,2,0,5,3,3.3,A,1,1,ben-gregg-1,Ben Gregg,2023
+27,62,28,2023-02-18,Gonzaga,@,Pepperdine,REG (Conf),W 97-88,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,0,2,1,0,0,0,2,0,-0.1,A,1,1,ben-gregg-1,Ben Gregg,2023
+28,63,29,2023-02-23,Gonzaga,,San Diego,REG (Conf),W 97-72,,18,7,9,0.778,2,3,0.667,5,6,0.833,0.889,2,3,0.667,3,4,7,0,0,1,2,2,18,15.3,H,1,1,ben-gregg-1,Ben Gregg,2023
+29,64,30,2023-02-25,Gonzaga,,St. Mary's (CA),REG (Conf),W 77-68,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,H,1,1,ben-gregg-1,Ben Gregg,2023
+30,65,31,2023-03-01,Gonzaga,,Chicago State,REG (Non-Conf),W 104-65,,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,4,0.5,4,1,5,3,2,0,1,2,10,12.7,H,1,1,ben-gregg-1,Ben Gregg,2023
+31,66,32,2023-03-06,Gonzaga,N,San Francisco,CTOURN,W 84-73,,16,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,2,2,0,0,0,2,2,12,7.2,N,1,0,ben-gregg-1,Ben Gregg,2023
+32,67,33,2023-03-07,Gonzaga,N,St. Mary's (CA),CTOURN,W 77-51,,24,1,2,0.5,1,2,0.5,0,0,,0.75,4,4,1.0,0,2,2,0,0,2,1,4,7,5.4,N,1,0,ben-gregg-1,Ben Gregg,2023
+33,68,34,2023-03-17,Gonzaga,N,Grand Canyon,ROUND-64,W 82-70,,10,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,2,0,2,3,2.2,N,1,0,ben-gregg-1,Ben Gregg,2023
+34,69,35,2023-03-19,Gonzaga,N,TCU,ROUND-32,W 84-81,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,1,2,0,1,3,0,3,1,2.1,N,1,0,ben-gregg-1,Ben Gregg,2023
+35,70,36,2023-03-23,Gonzaga,N,UCLA,ROUND-16,W 79-76,,5,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,ben-gregg-1,Ben Gregg,2023
+36,71,37,2023-03-25,Gonzaga,N,Connecticut,ROUND-8,L 54-82,,20,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,3,0.667,1,6,7,0,0,0,0,1,6,5.0,N,0,0,ben-gregg-1,Ben Gregg,2023

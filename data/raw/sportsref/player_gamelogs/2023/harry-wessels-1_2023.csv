@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,St. Mary's (CA),,Oral Roberts,REG (Non-Conf),W 78-70,,2,0,0,,0,0,0,0,,,0,0,,0,2,2,0,1,0,0,0,0,1.6,H,1,1,harry-wessels-1,Harry Wessels,2023
+2,2,2,2022-11-10,St. Mary's (CA),,Vermont,REG (Non-Conf),W 79-53,,6,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,1,1,0,0,0,0,0,3,2.6,H,1,1,harry-wessels-1,Harry Wessels,2023
+3,3,3,2022-11-13,St. Mary's (CA),,North Texas,REG (Non-Conf),W 63-33,,10,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,2,0,2,0,1,0,1,2,7,6.3,H,1,1,harry-wessels-1,Harry Wessels,2023
+4,4,4,2022-11-16,St. Mary's (CA),,Southern,REG (Non-Conf),W 72-54,,7,1,2,0.5,0,0,1,2,0.5,0.5,2,5,0.4,3,0,3,0,1,0,1,1,4,3.5,H,1,1,harry-wessels-1,Harry Wessels,2023
+5,5,5,2022-11-19,St. Mary's (CA),,Hofstra,REG (Non-Conf),W 76-48,,5,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,3,5,0,0,0,2,1,4,2.6,H,1,1,harry-wessels-1,Harry Wessels,2023
+6,6,6,2022-11-24,St. Mary's (CA),N,Vanderbilt,REG (Non-Conf),W 75-65,,9,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,0,0,0,0,0,1,2,4,0.2,N,1,1,harry-wessels-1,Harry Wessels,2023
+7,7,7,2022-11-25,St. Mary's (CA),N,Washington,REG (Non-Conf),L 64-68 (OT),,2,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,0,2,2.0,N,0,1,harry-wessels-1,Harry Wessels,2023
+8,8,8,2022-11-30,St. Mary's (CA),,New Mexico,REG (Non-Conf),L 65-69,,5,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,3,0,3,1,0,1,2,0,2,2.1,H,0,1,harry-wessels-1,Harry Wessels,2023
+9,9,9,2022-12-03,St. Mary's (CA),N,Houston,REG (Non-Conf),L 48-53,,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-0.7,N,0,1,harry-wessels-1,Harry Wessels,2023
+10,10,10,2022-12-07,St. Mary's (CA),,Missouri State,REG (Non-Conf),W 66-46,,4,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,0,0,4,4.4,H,1,1,harry-wessels-1,Harry Wessels,2023
+11,11,11,2022-12-10,St. Mary's (CA),N,San Diego State,REG (Non-Conf),W 68-61,,9,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,2,3,1,0,0,0,1,3,3.9,N,1,1,harry-wessels-1,Harry Wessels,2023
+12,12,12,2022-12-14,St. Mary's (CA),,New Mexico State,REG (Non-Conf),W 81-68,,11,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,4,1,5,0,0,0,0,4,5,3.4,H,1,1,harry-wessels-1,Harry Wessels,2023
+13,13,13,2022-12-18,St. Mary's (CA),,Colorado State,REG (Non-Conf),L 60-62,,12,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,4,2,6,1,0,1,1,0,1,3.7,H,0,1,harry-wessels-1,Harry Wessels,2023
+14,14,14,2022-12-21,St. Mary's (CA),N,Wyoming,REG (Non-Conf),W 66-54,,3,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,1,3,0,-1.5,N,1,1,harry-wessels-1,Harry Wessels,2023
+15,15,15,2022-12-29,St. Mary's (CA),,San Diego,REG (Conf),W 85-58,,11,2,2,1.0,0,0,2,2,1.0,1.0,2,4,0.5,0,1,1,1,0,0,1,1,6,4.2,H,1,1,harry-wessels-1,Harry Wessels,2023
+16,16,16,2022-12-31,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-64,,3,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,1,2,1.3,A,1,1,harry-wessels-1,Harry Wessels,2023
+17,17,17,2023-01-03,St. Mary's (CA),,Academy of Art,REG (Non-Conf),W 84-64,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,2,0,-0.1,H,1,1,harry-wessels-1,Harry Wessels,2023
+18,18,18,2023-01-07,St. Mary's (CA),,Portland,REG (Conf),W 85-43,,14,5,5,1.0,0,0,5,5,1.0,1.0,2,2,1.0,0,2,2,1,0,0,0,5,12,9.8,H,1,1,harry-wessels-1,Harry Wessels,2023
+19,19,19,2023-01-12,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 76-62,,5,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,1,0,1,0,0,0,0,0,2,0.6,H,1,1,harry-wessels-1,Harry Wessels,2023
+20,20,20,2023-01-14,St. Mary's (CA),@,San Francisco,REG (Conf),W 78-61,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,harry-wessels-1,Harry Wessels,2023
+21,21,21,2023-01-19,St. Mary's (CA),@,Pepperdine,REG (Conf),W 73-44,,14,2,4,0.5,0,0,2,4,0.5,0.5,1,1,1.0,0,3,3,2,1,2,1,3,5,5.5,A,1,1,harry-wessels-1,Harry Wessels,2023
+22,22,22,2023-01-21,St. Mary's (CA),,Santa Clara,REG (Conf),W 77-58,,9,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,4,1,5,0,0,0,2,4,6,3.5,H,1,1,harry-wessels-1,Harry Wessels,2023
+23,23,23,2023-01-28,St. Mary's (CA),@,Brigham Young,REG (Conf),W 57-56,,9,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,harry-wessels-1,Harry Wessels,2023
+24,24,24,2023-02-02,St. Mary's (CA),,San Francisco,REG (Conf),W 68-59,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,harry-wessels-1,Harry Wessels,2023
+25,25,25,2023-02-04,St. Mary's (CA),,Gonzaga,REG (Conf),W 78-70 (OT),,5,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,1,1,2,0,0,0,0,0,2,2.3,H,1,1,harry-wessels-1,Harry Wessels,2023
+26,26,26,2023-02-09,St. Mary's (CA),@,Loyola Marymount,REG (Conf),L 74-78 (OT),,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,harry-wessels-1,Harry Wessels,2023
+27,27,27,2023-02-11,St. Mary's (CA),@,Portland,REG (Conf),W 81-64,,12,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,3,3,0,0,0,2,2,2,-1.6,A,1,1,harry-wessels-1,Harry Wessels,2023
+28,28,28,2023-02-16,St. Mary's (CA),@,San Diego,REG (Conf),W 62-59,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,harry-wessels-1,Harry Wessels,2023
+29,29,29,2023-02-18,St. Mary's (CA),,Brigham Young,REG (Conf),W 71-65,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,0,1,2,2.0,H,1,1,harry-wessels-1,Harry Wessels,2023
+30,30,30,2023-02-23,St. Mary's (CA),,Pacific,REG (Conf),W 83-52,,13,1,1,1.0,0,0,1,1,1.0,1.0,1,1,1.0,0,1,1,1,0,0,1,2,3,1.9,H,1,1,harry-wessels-1,Harry Wessels,2023
+31,31,31,2023-02-25,St. Mary's (CA),@,Gonzaga,REG (Conf),L 68-77,,5,1,3,0.333,0,0,1,3,0.333,0.333,1,1,1.0,0,1,1,0,0,0,0,2,3,0.8,A,0,1,harry-wessels-1,Harry Wessels,2023
+32,32,32,2023-03-06,St. Mary's (CA),N,Brigham Young,CTOURN,W 76-69,,2,0,0,,0,0,0,0,,,1,2,0.5,1,0,1,0,0,0,1,0,1,0.3,N,1,0,harry-wessels-1,Harry Wessels,2023
+33,33,33,2023-03-07,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-77,,4,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,0,1,0,0.3,N,0,0,harry-wessels-1,Harry Wessels,2023
+34,34,35,2023-03-19,St. Mary's (CA),N,Connecticut,ROUND-32,L 55-70,,15,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,1,1,2,0,0,0,0,1,4,4.3,N,0,0,harry-wessels-1,Harry Wessels,2023

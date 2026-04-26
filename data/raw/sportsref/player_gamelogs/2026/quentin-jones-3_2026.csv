@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2025-11-03,Saint Louis,,Southeast Missouri State,REG (Non-Conf),W 92-67,*,26,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,1,1.0,1,6,7,1,1,0,3,4,10,6.3,H,1,1,quentin-jones-3,Quentin Jones,2026
+2,65,2,2025-11-06,Saint Louis,,Chicago State,REG (Non-Conf),W 108-86,,20,3,5,0.6,0,2,0.0,3,3,1.0,0.6,8,8,1.0,1,1,2,3,1,1,1,3,14,14.3,H,1,1,quentin-jones-3,Quentin Jones,2026
+3,66,3,2025-11-10,Saint Louis,,Lindenwood,REG (Non-Conf),W 109-66,*,26,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,1,1.0,1,3,4,4,1,1,4,2,10,8.0,H,1,1,quentin-jones-3,Quentin Jones,2026
+4,67,4,2025-11-15,Saint Louis,,Grand Canyon,REG (Non-Conf),W 78-64,*,18,2,5,0.4,2,2,1.0,0,3,0.0,0.6,0,0,,0,3,3,2,2,0,3,4,6,3.0,H,1,1,quentin-jones-3,Quentin Jones,2026
+5,68,5,2025-11-21,Saint Louis,,Purdue Fort Wayne,REG (Non-Conf),W 91-60,*,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,3,4,2,1,0,1,1,6,5.2,H,1,1,quentin-jones-3,Quentin Jones,2026
+6,69,6,2025-11-27,Saint Louis,N,Santa Clara,REG (Non-Conf),W 71-70,*,28,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,1,3,4,2,0,0,3,4,5,-1.1,N,1,1,quentin-jones-3,Quentin Jones,2026
+7,70,7,2025-11-28,Saint Louis,N,Stanford,REG (Non-Conf),L 77-78,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,5,6,0.833,0,6,6,1,1,1,2,2,11,10.4,N,0,1,quentin-jones-3,Quentin Jones,2026
+8,71,8,2025-12-02,Saint Louis,@,Loyola Marymount,REG (Non-Conf),W 91-70,*,30,6,12,0.5,0,4,0.0,6,8,0.75,0.5,4,5,0.8,3,2,5,7,3,0,2,4,16,16.6,A,1,1,quentin-jones-3,Quentin Jones,2026
+9,72,9,2025-12-07,Saint Louis,,Central Michigan,REG (Non-Conf),W 107-65,*,21,6,8,0.75,4,6,0.667,2,2,1.0,1.0,3,3,1.0,0,2,2,1,0,0,1,3,19,14.9,H,1,1,quentin-jones-3,Quentin Jones,2026
+10,73,10,2025-12-13,Saint Louis,,San Francisco,REG (Non-Conf),W 85-75,*,34,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,2,2,4,4,1,2,1,3,5,6.9,H,1,1,quentin-jones-3,Quentin Jones,2026
+11,74,11,2025-12-17,Saint Louis,,Bethune-Cookman,REG (Non-Conf),W 112-53,*,20,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,3,0.667,1,0,1,5,2,1,1,1,11,13.5,H,1,1,quentin-jones-3,Quentin Jones,2026
+12,75,12,2025-12-21,Saint Louis,,New Hampshire,REG (Non-Conf),W 93-79,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,2,4,6,4,0,0,2,3,9,7.5,H,1,1,quentin-jones-3,Quentin Jones,2026
+13,76,13,2025-12-28,Saint Louis,,Principia,REG (Non-Conf),W 114-33,*,16,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,0,6,6,4,0,1,1,1,11,12.0,H,1,1,quentin-jones-3,Quentin Jones,2026
+14,77,14,2025-12-31,Saint Louis,,Saint Joseph's,REG (Conf),W 102-79,*,27,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,4,0.5,0,3,3,1,0,1,1,0,17,13.6,H,1,1,quentin-jones-3,Quentin Jones,2026
+15,78,15,2026-01-07,Saint Louis,@,VCU,REG (Conf),W 71-62,*,31,4,10,0.4,1,2,0.5,3,8,0.375,0.45,0,0,,1,2,3,3,1,1,3,4,9,4.1,A,1,1,quentin-jones-3,Quentin Jones,2026
+16,79,16,2026-01-10,Saint Louis,@,La Salle,REG (Conf),W 84-72,*,25,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,2,0.0,2,2,4,3,0,0,5,2,11,3.5,A,1,1,quentin-jones-3,Quentin Jones,2026
+17,80,17,2026-01-14,Saint Louis,,Fordham,REG (Conf),W 78-56,*,30,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,4,1.0,0,4,4,3,1,2,1,0,13,14.4,H,1,1,quentin-jones-3,Quentin Jones,2026
+18,81,18,2026-01-17,Saint Louis,,Richmond,REG (Conf),W 88-63,*,25,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,3,3,3,0,1,2,2,4,3.2,H,1,1,quentin-jones-3,Quentin Jones,2026
+19,82,19,2026-01-20,Saint Louis,@,Duquesne,REG (Conf),W 81-77,*,32,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,0,5,5,4,1,3,3,3,3,2.7,A,1,1,quentin-jones-3,Quentin Jones,2026
+20,83,20,2026-01-23,Saint Louis,@,St. Bonaventure,REG (Conf),W 97-62,*,25,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,1,5,6,4,1,1,2,3,9,8.5,A,1,1,quentin-jones-3,Quentin Jones,2026
+21,84,21,2026-01-27,Saint Louis,,George Washington,REG (Conf),W 79-76,*,35,2,12,0.167,1,5,0.2,1,7,0.143,0.208,3,6,0.5,1,3,4,4,0,0,1,2,8,1.8,H,1,1,quentin-jones-3,Quentin Jones,2026
+22,85,22,2026-01-30,Saint Louis,,Dayton,REG (Conf),W 102-71,*,31,5,7,0.714,2,4,0.5,3,3,1.0,0.857,6,7,0.857,2,3,5,5,4,0,1,3,18,22.3,H,1,1,quentin-jones-3,Quentin Jones,2026
+23,86,23,2026-02-03,Saint Louis,@,Davidson,REG (Conf),W 91-82,*,17,0,4,0.0,0,0,,0,4,0.0,0.0,4,4,1.0,0,0,0,2,1,1,0,5,4,2.3,A,1,1,quentin-jones-3,Quentin Jones,2026
+24,87,24,2026-02-07,Saint Louis,,La Salle,REG (Conf),W 82-58,*,29,5,7,0.714,3,3,1.0,2,4,0.5,0.929,0,0,,0,6,6,2,0,4,2,2,13,13.3,H,1,1,quentin-jones-3,Quentin Jones,2026
+25,88,25,2026-02-13,Saint Louis,@,Loyola Chicago,REG (Conf),W 86-59,*,24,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,6,6,3,1,2,3,3,12,10.5,A,1,1,quentin-jones-3,Quentin Jones,2026
+26,89,26,2026-02-17,Saint Louis,@,Rhode Island,REG (Conf),L 76-81,*,32,3,12,0.25,1,2,0.5,2,10,0.2,0.292,0,0,,1,5,6,2,1,0,2,4,7,0.8,A,0,1,quentin-jones-3,Quentin Jones,2026
+27,90,27,2026-02-20,Saint Louis,,VCU,REG (Conf),W 88-75,*,28,5,8,0.625,1,1,1.0,4,7,0.571,0.688,0,0,,1,3,4,3,0,0,2,4,11,7.5,H,1,1,quentin-jones-3,Quentin Jones,2026
+28,91,28,2026-02-24,Saint Louis,@,Dayton,REG (Conf),L 62-77,*,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,2,4,1,2,0,4,4,2,-1.3,A,0,1,quentin-jones-3,Quentin Jones,2026
+29,92,29,2026-02-28,Saint Louis,,Duquesne,REG (Conf),W 91-76,*,33,3,7,0.429,2,5,0.4,1,2,0.5,0.571,9,10,0.9,0,3,3,3,0,2,0,3,17,16.1,H,1,1,quentin-jones-3,Quentin Jones,2026
+30,93,30,2026-03-04,Saint Louis,,Loyola Chicago,REG (Conf),W 79-65,,24,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,3,3,2,0,2,2,1,3,3.6,H,1,1,quentin-jones-3,Quentin Jones,2026
+31,94,31,2026-03-07,Saint Louis,@,George Mason,REG (Conf),L 57-86,*,25,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,1,1,2,4,1,0,0,1,0,0.2,A,0,1,quentin-jones-3,Quentin Jones,2026
+32,95,32,2026-03-13,Saint Louis,N,George Washington,CTOURN,W 88-81,*,23,1,8,0.125,0,6,0.0,1,2,0.5,0.125,0,0,,0,3,3,3,0,0,2,3,2,-3.4,N,1,0,quentin-jones-3,Quentin Jones,2026
+33,96,33,2026-03-14,Saint Louis,N,Dayton,CTOURN,L 69-70,*,31,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,2,2,1,2,4,6,4.5,N,0,0,quentin-jones-3,Quentin Jones,2026

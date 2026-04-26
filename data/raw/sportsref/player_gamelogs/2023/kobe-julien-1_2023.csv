@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,13,2022-12-29,Louisiana,@,Coastal Carolina,REG (Conf),L 76-77,,16,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,2,1,3,1,0,0,2,2,7,2.9,A,0,1,kobe-julien-1,Kobe Julien,2023
+2,41,14,2022-12-31,Louisiana,@,Old Dominion,REG (Conf),L 66-70,,16,2,10,0.2,1,6,0.167,1,4,0.25,0.25,0,0,,0,3,3,1,0,2,0,0,5,1.8,A,0,1,kobe-julien-1,Kobe Julien,2023
+3,42,15,2023-01-05,Louisiana,,Southern Mississippi,REG (Conf),W 75-61,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,1,1,0,1,1,0,-0.4,H,1,1,kobe-julien-1,Kobe Julien,2023
+4,43,16,2023-01-07,Louisiana,,Georgia State,REG (Conf),W 78-70,,9,1,2,0.5,1,2,0.5,0,0,,0.75,1,4,0.25,1,0,1,1,0,0,0,0,4,3.2,H,1,1,kobe-julien-1,Kobe Julien,2023
+5,44,17,2023-01-12,Louisiana,@,Louisiana–Monroe,REG (Conf),W 86-73,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,3,0,-1.6,A,1,1,kobe-julien-1,Kobe Julien,2023
+6,45,18,2023-01-14,Louisiana,@,South Alabama,REG (Conf),W 79-76,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,kobe-julien-1,Kobe Julien,2023
+7,46,19,2023-01-19,Louisiana,@,Arkansas State,REG (Conf),W 80-71,,11,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,1,2,0,0,0,0,1,3,2.6,A,1,1,kobe-julien-1,Kobe Julien,2023
+8,47,20,2023-01-21,Louisiana,@,Texas State,REG (Conf),W 60-51,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,kobe-julien-1,Kobe Julien,2023
+9,48,21,2023-01-26,Louisiana,,Troy,REG (Conf),W 72-57,,15,5,6,0.833,3,3,1.0,2,3,0.667,1.083,1,1,1.0,1,0,1,2,1,1,0,2,14,14.8,H,1,1,kobe-julien-1,Kobe Julien,2023
+10,49,22,2023-01-28,Louisiana,,Georgia Southern,REG (Conf),W 94-87,,5,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,4,3,1.1,H,1,1,kobe-julien-1,Kobe Julien,2023
+11,50,23,2023-02-02,Louisiana,,Texas State,REG (Conf),W 82-63,,14,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,1,2,2,1,1,0,0,2,5.4,H,1,1,kobe-julien-1,Kobe Julien,2023
+12,51,24,2023-02-04,Louisiana,,Marshall,REG (Conf),W 77-67,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,H,1,1,kobe-julien-1,Kobe Julien,2023
+13,52,25,2023-02-09,Louisiana,@,Southern Mississippi,REG (Conf),L 71-82,,7,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,0,0,0,0,1,1,2,4,0.5,A,0,1,kobe-julien-1,Kobe Julien,2023
+14,53,26,2023-02-11,Louisiana,@,Troy,REG (Conf),L 65-80,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,2,0,0,-2.0,A,0,1,kobe-julien-1,Kobe Julien,2023
+15,54,27,2023-02-16,Louisiana,,Louisiana–Monroe,REG (Conf),W 84-67,,13,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,1,1.0,0,2,2,0,3,0,1,3,9,7.4,H,1,1,kobe-julien-1,Kobe Julien,2023
+16,55,28,2023-02-18,Louisiana,@,James Madison,REG (Conf),L 68-74,,9,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,2,1,3,1,1,0,0,1,5,6.7,A,0,1,kobe-julien-1,Kobe Julien,2023
+17,56,29,2023-02-22,Louisiana,,Arkansas State,REG (Conf),W 85-74,,12,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,3,0.667,2,1,3,1,0,0,0,2,9,6.5,H,1,1,kobe-julien-1,Kobe Julien,2023
+18,57,30,2023-02-24,Louisiana,,South Alabama,REG (Conf),W 74-64,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,1,2,-0.5,H,1,1,kobe-julien-1,Kobe Julien,2023
+19,58,31,2023-03-04,Louisiana,N,Georgia Southern,CTOURN,W 67-49,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,1,1,0,1,1,2,-0.1,N,1,0,kobe-julien-1,Kobe Julien,2023
+20,59,32,2023-03-05,Louisiana,N,Texas State,CTOURN,W 64-58,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,0,1,0,0,0,2,0,5,2.4,N,1,0,kobe-julien-1,Kobe Julien,2023
+21,60,33,2023-03-06,Louisiana,N,South Alabama,CTOURN,W 71-66,,6,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,1,0,0,0,0,2,1.7,N,1,0,kobe-julien-1,Kobe Julien,2023
+22,61,34,2023-03-16,Louisiana,N,Tennessee,ROUND-64,L 55-58,,26,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,3,3,0,1,0,0,2,15,11.8,N,0,0,kobe-julien-1,Kobe Julien,2023

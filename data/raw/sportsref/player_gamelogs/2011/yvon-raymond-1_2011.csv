@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2010-11-13,Saint Peter's,@,Robert Morris,REG (Non-Conf),L 30-55,,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,2,0.0,0,4,4,0,0,0,3,2,0,-6.2,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+2,29,2,2010-11-19,Saint Peter's,N,Old Dominion,REG (Non-Conf),L 52-59,*,22,0,2,0.0,0,0,,0,2,0.0,0.0,0,2,0.0,2,1,3,2,1,0,0,3,0,0.7,N,0,1,yvon-raymond-1,Yvon Raymond,2011
+3,30,3,2010-11-20,Saint Peter's,N,Long Beach State,REG (Non-Conf),L 56-68,*,25,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,2,6,8,2,3,1,3,3,8,7.4,N,0,1,yvon-raymond-1,Yvon Raymond,2011
+4,31,4,2010-11-22,Saint Peter's,N,Alabama,REG (Non-Conf),W 50-49,*,31,2,5,0.4,2,2,1.0,0,3,0.0,0.6,0,0,,1,3,4,3,2,2,0,4,6,8.8,N,1,1,yvon-raymond-1,Yvon Raymond,2011
+5,32,5,2010-11-27,Saint Peter's,,LIU Brooklyn,REG (Non-Conf),W 65-62,,25,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,1,0.0,0,1,1,3,2,1,2,4,9,5.4,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+6,33,6,2010-11-29,Saint Peter's,@,Seton Hall,REG (Non-Conf),L 49-69,,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,0,5,5,1,0,0,1,4,3,0.1,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+7,34,7,2010-12-02,Saint Peter's,@,Loyola (MD),REG (Conf),W 55-52,,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,1,2,0,-3.3,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+8,35,8,2010-12-04,Saint Peter's,,Manhattan,REG (Conf),W 66-49,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-2.3,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+9,36,9,2010-12-11,Saint Peter's,@,Wagner,REG (Non-Conf),W 51-50,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,0,0,1,2,0,3,4,6,3.2,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+10,37,10,2010-12-18,Saint Peter's,,Fairleigh Dickinson,REG (Non-Conf),W 60-57,,22,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,5,0.6,2,4,6,0,0,0,2,4,9,4.2,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+11,38,11,2010-12-21,Saint Peter's,@,Binghamton,REG (Non-Conf),W 61-56,,24,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,3,1,0,1,2,5,5.2,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+12,39,12,2010-12-23,Saint Peter's,@,Rutgers,REG (Non-Conf),L 52-55,,32,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,8,8,3,2,0,2,4,5,5.2,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+13,40,13,2010-12-29,Saint Peter's,@,Lehigh,REG (Non-Conf),L 64-77,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,1,4,0.25,2,2,4,0,1,0,0,5,5,2.8,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+14,41,14,2011-01-03,Saint Peter's,,Canisius,REG (Conf),W 63-55,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,1,2,2,0,0,3,3,7,2.8,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+15,42,15,2011-01-07,Saint Peter's,@,Iona,REG (Conf),L 52-70,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,2,2,0,1,0,2,2,3,0.1,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+16,43,16,2011-01-09,Saint Peter's,@,Fairfield,REG (Conf),L 43-70,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,1,3,1,1,0,0,1,0,1.6,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+17,44,18,2011-01-17,Saint Peter's,,Loyola (MD),REG (Conf),L 63-65,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,yvon-raymond-1,Yvon Raymond,2011
+18,45,19,2011-01-21,Saint Peter's,,Siena,REG (Conf),W 77-69,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+19,46,21,2011-01-27,Saint Peter's,,Marist,REG (Conf),W 85-53,,10,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,1,0,1,2,0,0,0,1,7,6.0,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+20,47,22,2011-01-29,Saint Peter's,,Rider,REG (Conf),W 80-60,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,yvon-raymond-1,Yvon Raymond,2011
+21,48,23,2011-02-04,Saint Peter's,@,Niagara,REG (Conf),W 70-47,,13,1,1,1.0,0,0,,1,1,1.0,1.0,4,8,0.5,0,4,4,2,1,0,2,4,6,4.1,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+22,49,24,2011-02-06,Saint Peter's,@,Canisius,REG (Conf),L 45-59,,22,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,0,2,2,1,1,0,1,3,4,2.7,A,0,1,yvon-raymond-1,Yvon Raymond,2011
+23,50,25,2011-02-11,Saint Peter's,@,Marist,REG (Conf),W 66-54,,18,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,2,2,4,1,0,0,3,2,10,6.7,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+24,51,26,2011-02-13,Saint Peter's,,Fairfield,REG (Conf),L 69-70 (OT),,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,yvon-raymond-1,Yvon Raymond,2011
+25,52,28,2011-02-19,Saint Peter's,@,Loyola Chicago,REG (Non-Conf),W 71-67,,18,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,4,4,3,0,0,3,1,3,1.2,A,1,1,yvon-raymond-1,Yvon Raymond,2011
+26,53,29,2011-02-25,Saint Peter's,,Iona,REG (Conf),L 59-73,,14,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,0,1,1,1,2,0,0,1,7,4.7,H,0,1,yvon-raymond-1,Yvon Raymond,2011
+27,54,31,2011-03-05,Saint Peter's,N,Loyola (MD),CTOURN,W 70-60,,13,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,1,3,1,0,0,0,2,4,3.2,N,1,0,yvon-raymond-1,Yvon Raymond,2011
+28,55,32,2011-03-06,Saint Peter's,N,Fairfield,CTOURN,W 62-48,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,0,2,2,0.9,N,1,0,yvon-raymond-1,Yvon Raymond,2011
+29,56,33,2011-03-07,Saint Peter's,N,Iona,CTOURN,W 62-57,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,1,0,0,4,4,3.7,N,1,0,yvon-raymond-1,Yvon Raymond,2011
+30,57,34,2011-03-18,Saint Peter's,N,Purdue,ROUND-64,L 43-65,,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,1,0,2,2,2,0.8,N,0,0,yvon-raymond-1,Yvon Raymond,2011

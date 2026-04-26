@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2017-11-10,Cal State Fullerton,@,Southern California,REG (Non-Conf),L 42-84,*,15,2,2,1.0,0,0,2,2,1.0,1.0,1,3,0.333,2,3,5,0,0,1,2,4,5,3.0,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+2,31,2,2017-11-15,Cal State Fullerton,@,St. Mary's (CA),REG (Non-Conf),L 57-76,,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,5,1,6,0,0,0,1,4,2,2.2,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+3,32,3,2017-11-18,Cal State Fullerton,,Bethesda CA,REG (Non-Conf),W 77-35,*,17,5,7,0.714,0,0,5,7,0.714,0.714,2,4,0.5,3,3,6,0,0,0,2,2,12,8.5,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+4,33,4,2017-11-23,Cal State Fullerton,,Georgia,REG (Non-Conf),L 57-64,*,14,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,2,1,3,0,0,1,0,3,4,4.2,H,0,1,arkim-robertson-1,Arkim Robertson,2018
+5,34,5,2017-11-24,Cal State Fullerton,N,Sacramento State,REG (Non-Conf),W 68-63,*,16,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,1,2,3,0,1,2,1,1,6,7.0,N,1,1,arkim-robertson-1,Arkim Robertson,2018
+6,35,6,2017-11-26,Cal State Fullerton,,Harvard,REG (Non-Conf),W 70-61,,20,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,1,4,5,0,1,0,1,4,6,4.3,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+7,36,7,2017-12-02,Cal State Fullerton,,Cal Lutheran,REG (Non-Conf),W 86-58,*,11,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,2,5,7,1,0,0,2,0,2,2.2,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+8,37,8,2017-12-06,Cal State Fullerton,@,Portland,REG (Non-Conf),W 76-66,*,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+9,38,9,2017-12-09,Cal State Fullerton,,Utah Valley,REG (Non-Conf),W 91-83,*,17,3,3,1.0,0,0,3,3,1.0,1.0,1,3,0.333,5,5,10,0,0,0,2,5,7,6.3,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+10,39,10,2017-12-16,Cal State Fullerton,@,California,REG (Non-Conf),L 89-95 (OT),*,29,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,2,5,7,0,0,4,0,4,4,5.7,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+11,40,11,2017-12-22,Cal State Fullerton,@,Loyola Marymount,REG (Non-Conf),W 88-80,*,31,5,6,0.833,0,0,5,6,0.833,0.833,4,5,0.8,6,7,13,3,1,3,5,2,14,17.1,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+12,41,12,2017-12-30,Cal State Fullerton,@,Utah Valley,REG (Non-Conf),L 78-87,*,14,1,3,0.333,0,0,1,3,0.333,0.333,3,4,0.75,1,2,3,0,0,1,1,3,5,2.7,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+13,42,13,2018-01-03,Cal State Fullerton,,UC Riverside,REG (Conf),W 68-65,*,21,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,0,2,2,0,0,3,0,3,8,7.6,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+14,43,14,2018-01-06,Cal State Fullerton,@,Cal Poly,REG (Conf),W 101-97 (OT),*,26,3,5,0.6,0,0,3,5,0.6,0.6,3,4,0.75,4,1,5,0,0,0,2,3,9,6.2,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+15,44,15,2018-01-11,Cal State Fullerton,@,UC Irvine,REG (Conf),W 67-64,*,20,4,5,0.8,0,0,4,5,0.8,0.8,0,1,0.0,0,3,3,0,1,0,1,3,8,5.4,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+16,45,16,2018-01-13,Cal State Fullerton,,UC Davis,REG (Conf),W 85-70,*,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,4,2,0.1,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+17,46,17,2018-01-17,Cal State Fullerton,@,UC Santa Barbara,REG (Conf),L 64-83,*,18,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,0,5,5,0,0,0,0,1,2,0.6,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+18,47,18,2018-01-20,Cal State Fullerton,@,Long Beach State,REG (Conf),L 73-81,*,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,3,0,-2.2,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+19,48,19,2018-01-25,Cal State Fullerton,,UC Santa Barbara,REG (Conf),L 65-70,,16,1,1,1.0,0,0,1,1,1.0,1.0,4,6,0.667,1,3,4,0,1,1,0,1,6,7.8,H,0,1,arkim-robertson-1,Arkim Robertson,2018
+20,49,20,2018-01-28,Cal State Fullerton,@,Hawaii,REG (Conf),W 69-66,,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,0,1,0,3,0,-1.6,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+21,50,21,2018-02-03,Cal State Fullerton,,UC Irvine,REG (Conf),L 58-63,,10,0,1,0.0,0,0,0,1,0.0,0.0,2,3,0.667,0,1,1,0,0,0,1,1,2,-0.2,H,0,1,arkim-robertson-1,Arkim Robertson,2018
+22,51,22,2018-02-08,Cal State Fullerton,,Cal Poly,REG (Conf),W 75-59,*,19,4,5,0.8,0,0,4,5,0.8,0.8,5,6,0.833,4,2,6,0,1,3,1,4,13,14.6,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+23,52,23,2018-02-10,Cal State Fullerton,@,UC Davis,REG (Conf),W 68-66,*,10,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,2,1,2,0,-0.1,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+24,53,24,2018-02-17,Cal State Fullerton,,Cal State Northridge,REG (Conf),W 88-70,*,13,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,5,7,0,1,0,0,4,8,9.4,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+25,54,25,2018-02-21,Cal State Fullerton,@,UC Riverside,REG (Conf),L 65-69,*,16,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,2,2,4,0,0,0,2,3,7,3.8,A,0,1,arkim-robertson-1,Arkim Robertson,2018
+26,55,26,2018-02-24,Cal State Fullerton,,Long Beach State,REG (Conf),W 81-71,*,11,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,1,2,1,0,0,0,3,6,4.2,H,1,1,arkim-robertson-1,Arkim Robertson,2018
+27,56,27,2018-02-28,Cal State Fullerton,@,Cal State Northridge,REG (Conf),W 102-76,*,19,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,4,4,8,1,2,1,0,1,12,15.1,A,1,1,arkim-robertson-1,Arkim Robertson,2018
+28,57,28,2018-03-03,Cal State Fullerton,,Hawaii,REG (Conf),L 60-68,*,12,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,3,5,0,0,1,1,2,6,5.6,H,0,1,arkim-robertson-1,Arkim Robertson,2018
+29,58,29,2018-03-08,Cal State Fullerton,N,Long Beach State,CTOURN,W 76-74,*,13,0,0,,0,0,0,0,,,2,2,1.0,0,2,2,1,0,2,2,4,2,1.1,N,1,0,arkim-robertson-1,Arkim Robertson,2018
+30,59,30,2018-03-09,Cal State Fullerton,N,UC Davis,CTOURN,W 55-52,*,10,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,0,2,2,0,1,0,1,4,5,2.6,N,1,0,arkim-robertson-1,Arkim Robertson,2018
+31,60,31,2018-03-10,Cal State Fullerton,N,UC Irvine,CTOURN,W 71-55,*,24,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,4,6,0,0,1,1,2,3,3.1,N,1,0,arkim-robertson-1,Arkim Robertson,2018
+32,61,32,2018-03-16,Cal State Fullerton,N,Purdue,ROUND-64,L 48-74,*,13,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,0,5,5,0,0,1,0,3,1,0.9,N,0,0,arkim-robertson-1,Arkim Robertson,2018

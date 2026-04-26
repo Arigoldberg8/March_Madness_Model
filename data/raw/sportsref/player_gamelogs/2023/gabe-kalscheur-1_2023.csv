@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,124,1,2022-11-07,Iowa State,,IUPUI,REG (Non-Conf),W 88-39,,32,5,10,0.5,4,7,0.571,1,3,0.333,0.7,2,3,0.667,0,1,1,2,1,0,0,2,16,12.5,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+2,125,2,2022-11-13,Iowa State,,North Carolina A&T,REG (Non-Conf),W 80-43,,29,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,0,1,1,1,2,0,2,3,7,1.0,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+3,126,3,2022-11-20,Iowa State,,Milwaukee,REG (Non-Conf),W 68-53,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,1,1.0,0,0,0,1,0,0,0,0,1,-0.4,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+4,127,4,2022-11-24,Iowa State,N,Villanova,REG (Non-Conf),W 81-79 (OT),,35,8,19,0.421,5,15,0.333,3,4,0.75,0.553,2,2,1.0,0,4,4,3,0,0,0,5,23,14.2,N,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+5,128,5,2022-11-25,Iowa State,N,North Carolina,REG (Non-Conf),W 70-65,,24,0,5,0.0,0,3,0.0,0,2,0.0,0.0,3,4,0.75,1,1,2,1,3,0,2,4,3,0.2,N,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+6,129,6,2022-11-27,Iowa State,N,Connecticut,REG (Non-Conf),L 53-71,,32,3,13,0.231,0,4,0.0,3,9,0.333,0.231,0,0,,1,1,2,1,4,0,2,2,6,1.0,N,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+7,130,7,2022-11-30,Iowa State,,North Dakota,REG (Non-Conf),W 63-44,,25,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,2,2,1,1,0,2,0,6,2.2,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+8,131,8,2022-12-04,Iowa State,,St. John's (NY),REG (Non-Conf),W 71-60,,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,0,1,3,2,0,4,4,5,2.2,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+9,132,9,2022-12-08,Iowa State,@,Iowa,REG (Non-Conf),L 56-75,,33,5,13,0.385,1,7,0.143,4,6,0.667,0.423,1,1,1.0,0,2,2,0,3,1,2,0,12,7.2,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+10,133,10,2022-12-11,Iowa State,,McNeese State,REG (Non-Conf),W 77-40,*,40,6,13,0.462,3,7,0.429,3,6,0.5,0.577,0,0,,0,3,3,5,3,0,2,2,15,12.9,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+11,134,11,2022-12-18,Iowa State,,Western Michigan,REG (Non-Conf),W 73-57,,29,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,0,1,1,3,2,0,2,1,11,9.4,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+12,135,13,2022-12-31,Iowa State,,Baylor,REG (Conf),W 77-62,*,36,7,13,0.538,5,9,0.556,2,4,0.5,0.731,4,5,0.8,0,1,1,1,3,0,0,4,23,18.7,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+13,136,14,2023-01-04,Iowa State,@,Oklahoma,REG (Conf),W 63-60,*,38,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,0,2,2,1,1,2,2,2,9,4.8,A,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+14,137,15,2023-01-07,Iowa State,@,TCU,REG (Conf),W 69-67,*,36,7,14,0.5,1,6,0.167,6,8,0.75,0.536,0,2,0.0,1,2,3,4,3,0,1,3,15,12.1,A,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+15,138,16,2023-01-10,Iowa State,,Texas Tech,REG (Conf),W 84-50,*,32,10,14,0.714,5,6,0.833,5,8,0.625,0.893,0,0,,1,6,7,2,1,2,0,3,25,24.3,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+16,139,17,2023-01-14,Iowa State,@,Kansas,REG (Conf),L 60-62,*,38,7,16,0.438,4,8,0.5,3,8,0.375,0.563,5,6,0.833,4,2,6,0,1,0,1,3,23,16.4,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+17,140,18,2023-01-17,Iowa State,,Texas,REG (Conf),W 78-67,*,34,5,12,0.417,3,8,0.375,2,4,0.5,0.542,3,4,0.75,0,1,1,1,0,0,1,3,16,8.0,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+18,141,19,2023-01-21,Iowa State,@,Oklahoma State,REG (Conf),L 59-61,*,40,5,13,0.385,2,4,0.5,3,9,0.333,0.462,2,3,0.667,1,1,2,1,0,1,0,1,14,8.5,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+19,142,20,2023-01-24,Iowa State,,Kansas State,REG (Conf),W 80-76,*,40,7,11,0.636,2,5,0.4,5,6,0.833,0.727,3,4,0.75,0,1,1,0,0,0,1,2,19,12.2,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+20,143,21,2023-01-28,Iowa State,@,Missouri,REG (Non-Conf),L 61-78,*,35,5,13,0.385,4,9,0.444,1,4,0.25,0.538,0,0,,1,0,1,2,1,0,6,3,14,2.8,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+21,144,22,2023-01-30,Iowa State,@,Texas Tech,REG (Conf),L 77-80 (OT),*,45,8,19,0.421,0,6,0.0,8,13,0.615,0.421,3,7,0.429,3,4,7,2,2,0,4,4,19,8.4,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+22,145,23,2023-02-04,Iowa State,,Kansas,REG (Conf),W 68-53,*,32,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,1,0.0,0,2,2,1,1,0,1,3,8,4.0,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+23,146,24,2023-02-08,Iowa State,@,West Virginia,REG (Conf),L 71-76,*,38,1,6,0.167,0,3,0.0,1,3,0.333,0.167,6,7,0.857,0,2,2,2,1,0,3,2,8,3.0,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+24,147,25,2023-02-11,Iowa State,,Oklahoma State,REG (Conf),L 56-64,*,38,2,12,0.167,2,6,0.333,0,6,0.0,0.25,0,0,,0,3,3,3,1,0,2,2,6,-0.4,H,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+25,148,26,2023-02-15,Iowa State,,TCU,REG (Conf),W 70-59,*,32,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,0,4,4,2,3,0,5,3,7,2.7,H,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+26,149,27,2023-02-18,Iowa State,@,Kansas State,REG (Conf),L 55-61,*,36,4,14,0.286,3,12,0.25,1,2,0.5,0.393,0,0,,2,2,4,2,1,0,3,4,11,2.6,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+27,150,28,2023-02-21,Iowa State,@,Texas,REG (Conf),L 54-72,*,40,3,14,0.214,3,11,0.273,0,3,0.0,0.321,1,2,0.5,1,1,2,0,1,0,2,3,10,-0.2,A,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+28,151,29,2023-02-25,Iowa State,,Oklahoma,REG (Conf),L 50-61,*,34,4,11,0.364,3,5,0.6,1,6,0.167,0.5,1,2,0.5,0,1,1,0,0,0,0,3,12,4.6,H,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+29,152,30,2023-02-27,Iowa State,,West Virginia,REG (Conf),L 69-72,*,24,8,15,0.533,5,9,0.556,3,6,0.5,0.7,5,5,1.0,0,1,1,1,1,0,2,4,26,17.1,H,0,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+30,153,31,2023-03-04,Iowa State,@,Baylor,REG (Conf),W 73-58,*,38,3,9,0.333,2,6,0.333,1,3,0.333,0.444,4,5,0.8,0,2,2,3,2,0,1,3,12,9.0,A,1,1,gabe-kalscheur-1,Gabe Kalscheur,2023
+31,154,32,2023-03-09,Iowa State,N,Baylor,CTOURN,W 78-72,*,39,9,15,0.6,6,11,0.545,3,4,0.75,0.8,0,0,,1,3,4,1,2,0,2,4,24,17.8,N,1,0,gabe-kalscheur-1,Gabe Kalscheur,2023
+32,155,33,2023-03-10,Iowa State,N,Kansas,CTOURN,L 58-71,*,40,3,12,0.25,2,5,0.4,1,7,0.143,0.333,0,0,,1,3,4,0,0,0,2,2,8,-0.4,N,0,0,gabe-kalscheur-1,Gabe Kalscheur,2023
+33,156,34,2023-03-17,Iowa State,N,Pittsburgh,ROUND-64,L 41-59,*,37,4,14,0.286,1,8,0.125,3,6,0.5,0.321,3,5,0.6,0,1,1,0,2,0,1,3,12,3.1,N,0,0,gabe-kalscheur-1,Gabe Kalscheur,2023

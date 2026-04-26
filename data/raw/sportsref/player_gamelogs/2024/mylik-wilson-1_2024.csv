@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2023-11-06,Houston,,Louisiana–Monroe,REG (Non-Conf),W 84-31,,17,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,2,2,4,4,2,2,1,2,2,4.9,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+2,89,2,2023-11-11,Houston,,Texas A&M–Corpus Christi,REG (Non-Conf),W 82-50,,17,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,2,0.0,2,4,6,2,4,0,1,1,4,6.4,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+3,90,3,2023-11-13,Houston,,Stetson,REG (Non-Conf),W 79-48,,13,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,2,1,3,1,1,0,1,1,11,10.8,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+4,91,4,2023-11-16,Houston,N,Towson,REG (Non-Conf),W 65-49,,21,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,0,1,1,0,1,1,0,1,2,-0.2,N,1,1,mylik-wilson-1,Mylik Wilson,2024
+5,92,5,2023-11-17,Houston,N,Utah,REG (Non-Conf),W 76-66,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,1,1,mylik-wilson-1,Mylik Wilson,2024
+6,93,6,2023-11-19,Houston,N,Dayton,REG (Non-Conf),W 69-55,,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,1,mylik-wilson-1,Mylik Wilson,2024
+7,94,7,2023-11-24,Houston,,Montana,REG (Non-Conf),W 79-44,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+8,95,8,2023-12-01,Houston,@,Xavier,REG (Non-Conf),W 66-60,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+9,96,9,2023-12-06,Houston,,Rice,REG (Non-Conf),W 75-39,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,4,5,1,1,1,1,2,2,2.8,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+10,97,10,2023-12-09,Houston,,Jackson State,REG (Non-Conf),W 89-55,,18,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,1,4,5,5,5,1,1,2,10,15.0,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+11,98,12,2023-12-21,Houston,,Texas State,REG (Non-Conf),W 72-37,,17,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,5,7,1,0,0,0,1,8,8.6,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+12,99,13,2023-12-30,Houston,,Pennsylvania,REG (Non-Conf),W 81-42,,23,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,1,0,1,1,1,1,0,0,8,7.7,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+13,100,14,2024-01-06,Houston,,West Virginia,REG (Conf),W 89-55,,13,2,5,0.4,1,1,1.0,1,4,0.25,0.5,1,2,0.5,0,1,1,1,0,0,0,1,6,3.5,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+14,101,15,2024-01-09,Houston,@,Iowa State,REG (Conf),L 53-57,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,0,1,mylik-wilson-1,Mylik Wilson,2024
+15,102,16,2024-01-13,Houston,@,TCU,REG (Conf),L 67-68,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-2.3,A,0,1,mylik-wilson-1,Mylik Wilson,2024
+16,103,17,2024-01-17,Houston,,Texas Tech,REG (Conf),W 77-54,,3,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,2,2,-0.8,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+17,104,18,2024-01-20,Houston,,UCF,REG (Conf),W 57-42,,23,4,10,0.4,0,0,,4,10,0.4,0.4,0,0,,0,7,7,1,1,0,2,4,8,2.8,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+18,105,19,2024-01-23,Houston,@,Brigham Young,REG (Conf),W 75-68,,10,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,2,3,0,0,0,1,1,3,0.5,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+19,106,20,2024-01-27,Houston,,Kansas State,REG (Conf),W 74-52,,13,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,1,2,0,0,1,1,1,4,3.3,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+20,107,21,2024-01-29,Houston,@,Texas,REG (Conf),W 76-72 (OT),,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+21,108,22,2024-02-03,Houston,@,Kansas,REG (Conf),L 65-78,,12,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,0,0,0,2,0,0,0,2,0.9,A,0,1,mylik-wilson-1,Mylik Wilson,2024
+22,109,23,2024-02-06,Houston,,Oklahoma State,REG (Conf),W 79-63,,21,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,3,0.667,1,3,4,0,2,0,0,0,12,10.2,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+23,110,24,2024-02-10,Houston,@,Cincinnati,REG (Conf),W 67-62,,21,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,3,4,7,2,3,0,0,2,4,8.2,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+24,111,25,2024-02-17,Houston,,Texas,REG (Conf),W 82-61,,15,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,3,4,7,1,0,0,1,1,3,1.4,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+25,112,26,2024-02-19,Houston,,Iowa State,REG (Conf),W 73-65,,20,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,2,0.0,1,5,6,1,1,2,1,0,7,8.9,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+26,113,27,2024-02-24,Houston,@,Baylor,REG (Conf),W 82-76 (OT),,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,3,3,0,0,0,1,3,3,-1.1,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+27,114,28,2024-02-27,Houston,,Cincinnati,REG (Conf),W 67-59,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,0,1,1,0,2,0,1,0,2,0.8,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+28,115,29,2024-03-02,Houston,@,Oklahoma,REG (Conf),W 87-85,,24,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,3,2,5,1,1,1,0,0,10,13.9,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+29,116,30,2024-03-06,Houston,@,UCF,REG (Conf),W 67-59,,18,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,2,0,2,0,0,0,1,3,0,-1.9,A,1,1,mylik-wilson-1,Mylik Wilson,2024
+30,117,31,2024-03-09,Houston,,Kansas,REG (Conf),W 76-46,,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,2,4,6,1,1,0,0,1,6,8.3,H,1,1,mylik-wilson-1,Mylik Wilson,2024
+31,118,32,2024-03-14,Houston,N,TCU,CTOURN,W 60-45,,22,2,4,0.5,0,0,,2,4,0.5,0.5,4,5,0.8,2,3,5,1,1,3,2,2,8,8.9,N,1,0,mylik-wilson-1,Mylik Wilson,2024
+32,119,33,2024-03-15,Houston,N,Texas Tech,CTOURN,W 82-59,,32,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,2,4,6,0,2,0,1,2,9,8.5,N,1,0,mylik-wilson-1,Mylik Wilson,2024
+33,120,34,2024-03-16,Houston,N,Iowa State,CTOURN,L 41-69,,31,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,10,10,2,0,0,2,2,3,2.5,N,0,0,mylik-wilson-1,Mylik Wilson,2024
+34,121,35,2024-03-22,Houston,N,Longwood,ROUND-64,W 86-46,,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,2,4,6,0,2,0,1,1,7,8.6,N,1,0,mylik-wilson-1,Mylik Wilson,2024
+35,122,36,2024-03-24,Houston,N,Texas A&M,ROUND-32,W 100-95 (OT),,24,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,4,0.5,1,5,6,1,0,1,1,1,9,8.8,N,1,0,mylik-wilson-1,Mylik Wilson,2024
+36,123,37,2024-03-29,Houston,N,Duke,ROUND-16,L 51-54,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,2,0,0,1,2,2,2.2,N,0,0,mylik-wilson-1,Mylik Wilson,2024

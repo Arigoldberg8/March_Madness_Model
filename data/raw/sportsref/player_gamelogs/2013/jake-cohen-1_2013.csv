@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,*,26,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,3,0.667,2,6,8,2,0,6,1,3,13,15.6,H,1,1,jake-cohen-1,Jake Cohen,2013
+2,99,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,*,29,2,12,0.167,1,7,0.143,1,5,0.2,0.208,4,4,1.0,1,7,8,1,0,1,3,1,9,2.2,A,0,1,jake-cohen-1,Jake Cohen,2013
+3,100,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,*,29,3,11,0.273,0,1,0.0,3,10,0.3,0.273,2,6,0.333,2,1,3,2,1,0,0,4,8,2.4,A,0,1,jake-cohen-1,Jake Cohen,2013
+4,101,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,*,23,6,11,0.545,2,3,0.667,4,8,0.5,0.636,0,0,,1,4,5,2,0,1,0,4,14,11.1,N,1,1,jake-cohen-1,Jake Cohen,2013
+5,102,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,*,13,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,1,1,2,0,0,2,4,5,11,4.4,N,1,1,jake-cohen-1,Jake Cohen,2013
+6,103,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,*,21,2,6,0.333,0,1,0.0,2,5,0.4,0.333,9,10,0.9,3,3,6,2,1,0,0,5,13,12.6,N,0,1,jake-cohen-1,Jake Cohen,2013
+7,104,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,*,22,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,1,6,7,2,0,0,0,5,11,8.9,A,1,1,jake-cohen-1,Jake Cohen,2013
+8,105,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,*,29,4,8,0.5,1,2,0.5,3,6,0.5,0.563,6,9,0.667,2,4,6,2,1,0,1,4,15,12.2,H,0,1,jake-cohen-1,Jake Cohen,2013
+9,106,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,*,27,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,2,1.0,1,6,7,0,0,5,1,3,8,6.7,H,1,1,jake-cohen-1,Jake Cohen,2013
+10,107,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,*,26,5,8,0.625,3,6,0.5,2,2,1.0,0.813,8,8,1.0,0,4,4,1,1,1,4,3,21,15.8,H,1,1,jake-cohen-1,Jake Cohen,2013
+11,108,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,1,2,0.5,0,0,0,1,0,0,1,2,10,3.8,A,0,1,jake-cohen-1,Jake Cohen,2013
+12,109,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,*,32,6,11,0.545,0,1,0.0,6,10,0.6,0.545,7,7,1.0,0,8,8,1,0,2,4,4,19,12.6,A,1,1,jake-cohen-1,Jake Cohen,2013
+13,110,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,*,19,5,10,0.5,1,3,0.333,4,7,0.571,0.55,8,8,1.0,3,5,8,0,0,1,3,4,19,13.7,N,0,1,jake-cohen-1,Jake Cohen,2013
+14,111,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,*,23,7,10,0.7,3,4,0.75,4,6,0.667,0.85,3,3,1.0,5,3,8,2,0,2,3,2,20,19.2,H,1,1,jake-cohen-1,Jake Cohen,2013
+15,112,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,*,27,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,0,1,1,1,1,2,2,5,14,8.4,A,1,1,jake-cohen-1,Jake Cohen,2013
+16,113,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,1,2,0.5,1,1,2,0,0,1,0,1,10,6.2,A,0,1,jake-cohen-1,Jake Cohen,2013
+17,114,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,*,21,4,10,0.4,2,3,0.667,2,7,0.286,0.5,2,2,1.0,2,3,5,0,2,2,4,3,12,7.1,H,1,1,jake-cohen-1,Jake Cohen,2013
+18,115,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,*,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,5,6,0.833,1,7,8,1,1,2,3,5,9,6.8,H,1,1,jake-cohen-1,Jake Cohen,2013
+19,116,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,*,33,5,8,0.625,2,3,0.667,3,5,0.6,0.75,3,5,0.6,1,6,7,1,1,3,5,3,15,10.7,A,1,1,jake-cohen-1,Jake Cohen,2013
+20,117,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,*,25,6,12,0.5,2,5,0.4,4,7,0.571,0.583,3,4,0.75,1,3,4,2,0,2,1,3,17,12.8,A,1,1,jake-cohen-1,Jake Cohen,2013
+21,118,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,*,27,4,9,0.444,0,2,0.0,4,7,0.571,0.444,6,6,1.0,3,4,7,1,1,3,1,4,14,13.8,H,1,1,jake-cohen-1,Jake Cohen,2013
+22,119,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,*,37,5,9,0.556,1,1,1.0,4,8,0.5,0.611,4,5,0.8,1,7,8,1,3,3,2,3,15,15.7,A,1,1,jake-cohen-1,Jake Cohen,2013
+23,120,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,*,34,9,16,0.563,2,4,0.5,7,12,0.583,0.625,4,5,0.8,4,8,12,1,2,2,2,3,24,22.1,H,1,1,jake-cohen-1,Jake Cohen,2013
+24,121,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,*,23,6,10,0.6,0,2,0.0,6,8,0.75,0.6,2,3,0.667,2,2,4,5,1,1,0,1,14,15.8,H,1,1,jake-cohen-1,Jake Cohen,2013
+25,122,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,*,31,13,24,0.542,3,7,0.429,10,17,0.588,0.604,3,3,1.0,1,2,3,2,1,4,1,3,32,24.7,A,1,1,jake-cohen-1,Jake Cohen,2013
+26,123,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,*,28,4,9,0.444,1,2,0.5,3,7,0.429,0.5,4,6,0.667,1,2,3,1,2,1,1,3,13,10.0,A,1,1,jake-cohen-1,Jake Cohen,2013
+27,124,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,*,21,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,4,1.0,4,7,11,1,0,2,1,2,12,12.5,H,1,1,jake-cohen-1,Jake Cohen,2013
+28,125,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),*,26,9,15,0.6,1,5,0.2,8,10,0.8,0.633,9,10,0.9,2,2,4,4,0,0,0,4,28,23.9,H,1,1,jake-cohen-1,Jake Cohen,2013
+29,126,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,*,20,3,7,0.429,1,2,0.5,2,5,0.4,0.5,5,6,0.833,1,4,5,3,0,0,2,4,12,8.3,A,1,1,jake-cohen-1,Jake Cohen,2013
+30,127,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,*,24,6,12,0.5,1,3,0.333,5,9,0.556,0.542,2,2,1.0,0,6,6,1,2,2,1,3,15,12.7,H,1,1,jake-cohen-1,Jake Cohen,2013
+31,128,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,*,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,3,3,1.0,1,2,3,3,0,0,2,1,12,9.7,N,1,0,jake-cohen-1,Jake Cohen,2013
+32,129,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,*,22,6,11,0.545,2,3,0.667,4,8,0.5,0.636,3,4,0.75,0,2,2,2,1,1,3,4,17,10.4,N,1,0,jake-cohen-1,Jake Cohen,2013
+33,130,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,*,19,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,6,0.667,0,5,5,2,1,3,1,4,12,11.3,N,1,0,jake-cohen-1,Jake Cohen,2013
+34,131,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,*,29,8,18,0.444,2,5,0.4,6,13,0.462,0.5,2,2,1.0,0,1,1,1,0,1,2,3,20,9.1,N,0,0,jake-cohen-1,Jake Cohen,2013

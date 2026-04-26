@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2018-11-06,Seton Hall,,Wagner,REG (Non-Conf),W 89-49,*,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,6,6,4,2,0,2,4,6,7.3,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+2,61,2,2018-11-14,Seton Hall,@,Nebraska,REG (Non-Conf),L 57-80,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,1,1,1,0,0,2,5,1,-3.1,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+3,62,3,2018-11-17,Seton Hall,,Saint Louis,REG (Non-Conf),L 64-66,*,24,4,8,0.5,1,3,0.333,3,5,0.6,0.563,5,6,0.833,0,4,4,1,2,0,0,2,14,12.7,H,0,1,quincy-mcknight-1,Quincy McKnight,2019
+4,63,4,2018-11-22,Seton Hall,N,Grand Canyon,REG (Non-Conf),W 82-75,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,5,6,0.833,1,4,5,4,2,0,0,4,11,12.0,N,1,1,quincy-mcknight-1,Quincy McKnight,2019
+5,64,5,2018-11-23,Seton Hall,N,Hawaii,REG (Non-Conf),W 64-54,*,28,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,0,0,0,3,1,0,0,1,1,-0.2,N,1,1,quincy-mcknight-1,Quincy McKnight,2019
+6,65,6,2018-11-25,Seton Hall,N,Miami (FL),REG (Non-Conf),W 83-81,*,33,7,9,0.778,1,1,1.0,6,8,0.75,0.833,1,2,0.5,1,3,4,5,3,0,1,3,16,18.0,N,1,1,quincy-mcknight-1,Quincy McKnight,2019
+7,66,7,2018-12-01,Seton Hall,,Louisville,REG (Non-Conf),L 65-70,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,1,1,1.0,0,0,0,0,0,0,1,4,3,-2.0,H,0,1,quincy-mcknight-1,Quincy McKnight,2019
+8,67,8,2018-12-04,Seton Hall,,New Hampshire,REG (Non-Conf),W 77-57,*,31,5,11,0.455,2,5,0.4,3,6,0.5,0.545,6,8,0.75,0,5,5,3,2,0,2,1,18,14.7,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+9,68,9,2018-12-08,Seton Hall,N,Kentucky,REG (Non-Conf),W 84-83 (OT),*,40,5,9,0.556,1,2,0.5,4,7,0.571,0.611,4,4,1.0,0,1,1,5,4,1,6,4,15,11.6,N,1,1,quincy-mcknight-1,Quincy McKnight,2019
+10,69,10,2018-12-15,Seton Hall,,Rutgers,REG (Non-Conf),W 72-66,*,31,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,2,2,4,1,0,3,2,2,-0.5,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+11,70,11,2018-12-19,Seton Hall,,Sacred Heart,REG (Non-Conf),W 90-76,*,15,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,1,1,2,4,0,1,3,9,8.5,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+12,71,12,2018-12-22,Seton Hall,@,Maryland,REG (Non-Conf),W 78-74,*,29,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,2,0.5,1,3,4,4,0,1,3,4,9,5.4,A,1,1,quincy-mcknight-1,Quincy McKnight,2019
+13,72,13,2018-12-29,Seton Hall,,St. John's (NY),REG (Conf),W 76-74,*,33,5,11,0.455,1,2,0.5,4,9,0.444,0.5,3,5,0.6,0,4,4,4,1,0,0,3,14,11.3,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+14,73,14,2019-01-02,Seton Hall,@,Xavier,REG (Conf),W 80-70,*,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,4,1,0,2,5,4,3.1,A,1,1,quincy-mcknight-1,Quincy McKnight,2019
+15,74,15,2019-01-06,Seton Hall,@,DePaul,REG (Conf),L 74-75,*,30,4,6,0.667,0,2,0.0,4,4,1.0,0.667,1,2,0.5,0,0,0,3,1,1,2,2,9,7.0,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+16,75,16,2019-01-09,Seton Hall,,Butler,REG (Conf),W 76-75,*,28,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,4,0.5,0,2,2,6,2,0,4,4,10,5.7,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+17,76,17,2019-01-12,Seton Hall,@,Marquette,REG (Conf),L 66-70,*,35,6,15,0.4,0,1,0.0,6,14,0.429,0.4,1,2,0.5,4,2,6,7,2,0,5,4,13,8.2,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+18,77,18,2019-01-15,Seton Hall,@,Providence,REG (Conf),L 63-72,*,34,7,15,0.467,1,2,0.5,6,13,0.462,0.5,1,1,1.0,1,2,3,4,2,0,6,1,16,8.0,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+19,78,19,2019-01-19,Seton Hall,,DePaul,REG (Conf),L 93-97,*,37,9,11,0.818,2,3,0.667,7,8,0.875,0.909,5,9,0.556,0,1,1,9,1,0,2,3,25,23.7,H,0,1,quincy-mcknight-1,Quincy McKnight,2019
+20,79,20,2019-01-27,Seton Hall,@,Villanova,REG (Conf),L 52-80,*,20,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,1,1.0,0,1,1,3,3,0,5,3,5,0.8,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+21,80,21,2019-01-30,Seton Hall,,Providence,REG (Conf),W 65-63,*,27,4,7,0.571,0,2,0.0,4,5,0.8,0.571,1,1,1.0,1,3,4,3,2,0,3,2,9,7.6,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+22,81,22,2019-02-02,Seton Hall,@,Butler,REG (Conf),L 68-70,*,35,5,9,0.556,2,5,0.4,3,4,0.75,0.667,1,3,0.333,1,3,4,5,0,0,3,2,13,9.2,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+23,82,23,2019-02-09,Seton Hall,,Creighton,REG (Conf),W 63-58,*,34,5,14,0.357,0,2,0.0,5,12,0.417,0.357,4,5,0.8,0,3,3,3,1,0,2,4,14,6.2,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+24,83,24,2019-02-13,Seton Hall,,Georgetown,REG (Conf),W 90-75,*,33,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,2,2,9,2,1,4,3,9,10.8,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+25,84,25,2019-02-17,Seton Hall,@,Creighton,REG (Conf),W 81-75,*,31,6,11,0.545,1,2,0.5,5,9,0.556,0.591,3,6,0.5,0,4,4,4,6,0,1,2,16,17.7,A,1,1,quincy-mcknight-1,Quincy McKnight,2019
+26,85,26,2019-02-20,Seton Hall,,Xavier,REG (Conf),L 69-70,*,32,4,13,0.308,1,5,0.2,3,8,0.375,0.346,0,0,,1,2,3,4,1,0,3,2,9,2.8,H,0,1,quincy-mcknight-1,Quincy McKnight,2019
+27,86,27,2019-02-23,Seton Hall,@,St. John's (NY),REG (Conf),L 70-78,*,30,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,2,0.5,0,2,2,3,2,1,7,2,3,-3.6,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+28,87,28,2019-03-02,Seton Hall,@,Georgetown,REG (Conf),L 71-77 (2OT),,31,1,7,0.143,0,3,0.0,1,4,0.25,0.143,1,2,0.5,0,4,4,5,2,0,4,4,3,-0.8,A,0,1,quincy-mcknight-1,Quincy McKnight,2019
+29,88,29,2019-03-06,Seton Hall,,Marquette,REG (Conf),W 73-64,*,32,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,0,1,1,6,3,1,1,1,5,8.0,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+30,89,30,2019-03-09,Seton Hall,,Villanova,REG (Conf),W 79-75,*,16,0,0,,0,0,,0,0,,,1,2,0.5,1,0,1,5,0,0,4,5,1,-1.2,H,1,1,quincy-mcknight-1,Quincy McKnight,2019
+31,90,31,2019-03-14,Seton Hall,N,Georgetown,CTOURN,W 73-57,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,5,7,0.714,1,1,2,2,0,0,2,3,7,3.0,N,1,0,quincy-mcknight-1,Quincy McKnight,2019
+32,91,32,2019-03-15,Seton Hall,N,Marquette,CTOURN,W 81-79,*,36,6,10,0.6,0,2,0.0,6,8,0.75,0.6,6,12,0.5,0,3,3,4,0,0,1,5,18,11.7,N,1,0,quincy-mcknight-1,Quincy McKnight,2019
+33,92,33,2019-03-16,Seton Hall,N,Villanova,CTOURN,L 72-74,*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,0,0,2,0,1,2,1,4,0.3,N,0,0,quincy-mcknight-1,Quincy McKnight,2019
+34,93,34,2019-03-21,Seton Hall,N,Wofford,ROUND-64,L 68-84,*,32,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,2,6,8,3,2,1,2,5,6,5.9,N,0,0,quincy-mcknight-1,Quincy McKnight,2019

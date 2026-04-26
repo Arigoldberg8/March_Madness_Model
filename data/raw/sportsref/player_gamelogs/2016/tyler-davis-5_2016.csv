@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Texas A&M,,USC Upstate,REG (Non-Conf),W 104-64,*,19,5,5,1.0,0,0,5,5,1.0,1.0,6,7,0.857,1,6,7,2,1,1,0,3,16,18.5,H,1,1,tyler-davis-5,Tyler Davis,2016
+2,2,2,2015-11-16,Texas A&M,,Southeastern Louisiana,REG (Non-Conf),W 100-58,*,24,6,8,0.75,0,0,6,8,0.75,0.75,6,9,0.667,4,8,12,3,2,0,2,3,18,19.7,H,1,1,tyler-davis-5,Tyler Davis,2016
+3,3,3,2015-11-19,Texas A&M,,Texas A&M–Corpus Christi,REG (Non-Conf),W 95-70,*,23,5,6,0.833,0,0,5,6,0.833,0.833,6,6,1.0,1,7,8,1,2,1,2,1,16,17.6,H,1,1,tyler-davis-5,Tyler Davis,2016
+4,4,4,2015-11-21,Texas A&M,,UNC Asheville,REG (Non-Conf),W 75-47,*,15,4,6,0.667,0,0,4,6,0.667,0.667,3,5,0.6,3,3,6,1,0,0,1,3,11,9.1,H,1,1,tyler-davis-5,Tyler Davis,2016
+5,5,5,2015-11-25,Texas A&M,N,Texas,REG (Non-Conf),W 84-73,*,24,5,7,0.714,0,0,5,7,0.714,0.714,4,5,0.8,4,0,4,1,1,1,2,4,14,12.3,N,1,1,tyler-davis-5,Tyler Davis,2016
+6,6,6,2015-11-26,Texas A&M,N,Gonzaga,REG (Non-Conf),W 62-61,*,24,1,3,0.333,0,0,1,3,0.333,0.333,4,6,0.667,0,2,2,0,1,0,2,3,6,1.9,N,1,1,tyler-davis-5,Tyler Davis,2016
+7,7,7,2015-11-27,Texas A&M,N,Syracuse,REG (Non-Conf),L 67-74,*,22,3,5,0.6,0,0,3,5,0.6,0.6,2,3,0.667,1,6,7,2,1,3,1,2,8,10.5,N,0,1,tyler-davis-5,Tyler Davis,2016
+8,8,8,2015-12-02,Texas A&M,,Florida Gulf Coast,REG (Non-Conf),W 75-65,,16,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,2,1,3,1,1,2,1,4,7,7.2,H,1,1,tyler-davis-5,Tyler Davis,2016
+9,9,9,2015-12-05,Texas A&M,@,Arizona State,REG (Non-Conf),L 54-67,,16,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,5,2,7,0,0,3,4,4,8,6.2,A,0,1,tyler-davis-5,Tyler Davis,2016
+10,10,10,2015-12-12,Texas A&M,,Kansas State,REG (Non-Conf),W 78-68,*,20,5,5,1.0,0,0,5,5,1.0,1.0,0,2,0.0,1,4,5,1,0,1,2,4,10,7.4,H,1,1,tyler-davis-5,Tyler Davis,2016
+11,11,11,2015-12-19,Texas A&M,,Baylor,REG (Non-Conf),W 80-61,*,27,6,6,1.0,0,0,6,6,1.0,1.0,3,6,0.5,1,4,5,0,0,2,2,3,15,12.1,H,1,1,tyler-davis-5,Tyler Davis,2016
+12,12,12,2015-12-29,Texas A&M,,Cal Poly,REG (Non-Conf),W 82-63,*,24,8,9,0.889,0,0,8,9,0.889,0.889,2,7,0.286,5,3,8,2,0,1,2,2,18,16.6,H,1,1,tyler-davis-5,Tyler Davis,2016
+13,13,13,2016-01-02,Texas A&M,,Arkansas,REG (Conf),W 92-69,*,19,0,3,0.0,0,0,0,3,0.0,0.0,4,10,0.4,3,3,6,2,1,1,1,3,4,3.4,H,1,1,tyler-davis-5,Tyler Davis,2016
+14,14,14,2016-01-06,Texas A&M,@,Mississippi State,REG (Conf),W 61-60,*,17,1,6,0.167,0,0,1,6,0.167,0.167,2,2,1.0,4,0,4,0,0,0,1,2,4,1.2,A,1,1,tyler-davis-5,Tyler Davis,2016
+15,15,15,2016-01-09,Texas A&M,@,Tennessee,REG (Conf),W 92-88,*,25,4,10,0.4,0,0,4,10,0.4,0.4,3,6,0.5,4,2,6,0,0,1,3,3,11,4.3,A,1,1,tyler-davis-5,Tyler Davis,2016
+16,16,16,2016-01-12,Texas A&M,,Florida,REG (Conf),W 71-68,*,25,3,7,0.429,0,0,3,7,0.429,0.429,2,5,0.4,2,3,5,0,3,0,1,2,8,6.6,H,1,1,tyler-davis-5,Tyler Davis,2016
+17,17,17,2016-01-16,Texas A&M,@,Georgia,REG (Conf),W 79-45,*,19,4,4,1.0,0,0,4,4,1.0,1.0,1,1,1.0,1,3,4,0,1,2,3,4,9,7.2,A,1,1,tyler-davis-5,Tyler Davis,2016
+18,18,18,2016-01-19,Texas A&M,,Louisiana State,REG (Conf),W 71-57,*,29,7,9,0.778,0,0,7,9,0.778,0.778,4,6,0.667,4,1,5,1,1,1,0,2,18,18.4,H,1,1,tyler-davis-5,Tyler Davis,2016
+19,19,20,2016-01-27,Texas A&M,@,Arkansas,REG (Conf),L 71-74,*,26,3,6,0.5,0,0,3,6,0.5,0.5,8,9,0.889,4,4,8,0,1,1,2,4,14,12.7,A,0,1,tyler-davis-5,Tyler Davis,2016
+20,20,21,2016-01-30,Texas A&M,,Iowa State,REG (Non-Conf),W 72-62,*,22,6,8,0.75,0,0,6,8,0.75,0.75,3,4,0.75,4,2,6,0,1,0,1,4,15,13.2,H,1,1,tyler-davis-5,Tyler Davis,2016
+21,21,22,2016-02-04,Texas A&M,@,Vanderbilt,REG (Conf),L 60-77,*,25,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,2,3,0,0,0,1,0,6,3.3,A,0,1,tyler-davis-5,Tyler Davis,2016
+22,22,23,2016-02-06,Texas A&M,,South Carolina,REG (Conf),L 78-81,*,22,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,3,0,3,0,1,0,2,2,7,4.2,H,0,1,tyler-davis-5,Tyler Davis,2016
+23,23,24,2016-02-10,Texas A&M,@,Alabama,REG (Conf),L 62-63,*,25,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,3,5,0,0,0,2,2,6,3.2,A,0,1,tyler-davis-5,Tyler Davis,2016
+24,24,25,2016-02-13,Texas A&M,@,Louisiana State,REG (Conf),L 71-76,*,24,4,4,1.0,0,0,4,4,1.0,1.0,1,1,1.0,2,4,6,1,0,1,5,3,9,5.6,A,0,1,tyler-davis-5,Tyler Davis,2016
+25,25,26,2016-02-16,Texas A&M,,Ole Miss,REG (Conf),W 71-56,*,19,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,1,6,7,1,0,1,1,1,11,9.8,H,1,1,tyler-davis-5,Tyler Davis,2016
+26,26,27,2016-02-20,Texas A&M,,Kentucky,REG (Conf),W 79-77 (OT),*,28,5,9,0.556,0,0,5,9,0.556,0.556,5,10,0.5,9,3,12,0,0,0,1,3,15,13.7,H,1,1,tyler-davis-5,Tyler Davis,2016
+27,27,28,2016-02-24,Texas A&M,,Mississippi State,REG (Conf),W 68-66,*,29,6,8,0.75,0,0,6,8,0.75,0.75,3,5,0.6,5,1,6,1,1,2,3,3,15,13.7,H,1,1,tyler-davis-5,Tyler Davis,2016
+28,28,29,2016-02-27,Texas A&M,@,Missouri,REG (Conf),W 84-69,*,21,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,5,7,1,0,2,2,4,8,6.8,A,1,1,tyler-davis-5,Tyler Davis,2016
+29,29,30,2016-03-01,Texas A&M,@,Auburn,REG (Conf),W 81-63,*,26,4,8,0.5,0,0,4,8,0.5,0.5,6,7,0.857,6,3,9,0,0,0,3,2,14,10.9,A,1,1,tyler-davis-5,Tyler Davis,2016
+30,30,31,2016-03-05,Texas A&M,,Vanderbilt,REG (Conf),W 76-67,*,21,6,9,0.667,0,0,6,9,0.667,0.667,4,5,0.8,2,3,5,2,0,3,0,3,16,16.3,H,1,1,tyler-davis-5,Tyler Davis,2016
+31,31,32,2016-03-11,Texas A&M,N,Florida,CTOURN,W 72-66,*,29,6,10,0.6,0,0,6,10,0.6,0.6,3,4,0.75,5,3,8,0,0,3,0,3,15,15.3,N,1,0,tyler-davis-5,Tyler Davis,2016
+32,32,33,2016-03-12,Texas A&M,N,Louisiana State,CTOURN,W 71-38,*,22,3,6,0.5,0,0,3,6,0.5,0.5,0,1,0.0,2,2,4,0,0,3,1,0,6,5.7,N,1,0,tyler-davis-5,Tyler Davis,2016
+33,33,34,2016-03-13,Texas A&M,N,Kentucky,CTOURN,L 77-82 (OT),*,28,2,5,0.4,0,0,2,5,0.4,0.4,4,6,0.667,4,5,9,1,1,2,1,3,8,9.7,N,0,0,tyler-davis-5,Tyler Davis,2016
+34,34,35,2016-03-18,Texas A&M,N,Green Bay,ROUND-64,W 92-65,*,21,4,5,0.8,0,0,4,5,0.8,0.8,4,7,0.571,1,6,7,0,0,0,2,4,12,7.8,N,1,0,tyler-davis-5,Tyler Davis,2016
+35,35,36,2016-03-20,Texas A&M,N,Northern Iowa,ROUND-32,W 92-88 (2OT),*,17,5,7,0.714,0,0,5,7,0.714,0.714,0,2,0.0,5,2,7,2,0,0,0,2,10,11.0,N,1,0,tyler-davis-5,Tyler Davis,2016
+36,36,37,2016-03-24,Texas A&M,N,Oklahoma,ROUND-16,L 63-77,*,27,7,8,0.875,0,0,7,8,0.875,0.875,3,7,0.429,2,6,8,0,0,3,1,0,17,16.9,N,0,0,tyler-davis-5,Tyler Davis,2016

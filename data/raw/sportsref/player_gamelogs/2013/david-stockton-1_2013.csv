@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2012-11-09,Gonzaga,,Southern Utah,REG (Non-Conf),W 103-65,,21,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,2,0.5,0,2,2,4,3,0,1,0,12,13.4,H,1,1,david-stockton-1,David Stockton,2013
+2,69,2,2012-11-12,Gonzaga,,West Virginia,REG (Non-Conf),W 84-50,,27,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,2,2,5,2,0,5,3,2,1.2,H,1,1,david-stockton-1,David Stockton,2013
+3,70,3,2012-11-18,Gonzaga,,South Dakota,REG (Non-Conf),W 96-58,,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,2,0.0,0,2,2,4,6,0,2,1,6,9.5,H,1,1,david-stockton-1,David Stockton,2013
+4,71,4,2012-11-22,Gonzaga,N,Clemson,REG (Non-Conf),W 57-49,,23,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,3,3,7,0,0,1,0,2,6.1,N,1,1,david-stockton-1,David Stockton,2013
+5,72,5,2012-11-23,Gonzaga,N,Oklahoma,REG (Non-Conf),W 72-47,,24,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,0,6,6,0,5,0,2,0,5,5.3,N,1,1,david-stockton-1,David Stockton,2013
+6,73,6,2012-11-25,Gonzaga,N,Davidson,REG (Non-Conf),W 81-67,,20,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,2,2,0,1,3,3,3.5,N,1,1,david-stockton-1,David Stockton,2013
+7,74,7,2012-11-29,Gonzaga,,Lewis-Clark St.,REG (Non-Conf),W 104-57,*,30,4,7,0.571,3,4,0.75,1,3,0.333,0.786,2,2,1.0,0,2,2,7,3,0,1,1,13,16.8,H,1,1,david-stockton-1,David Stockton,2013
+8,75,8,2012-12-01,Gonzaga,,Pacific,REG (Non-Conf),W 85-67,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,3,1,0,2,0,0,0.3,H,1,1,david-stockton-1,David Stockton,2013
+9,76,9,2012-12-05,Gonzaga,@,Washington State,REG (Non-Conf),W 71-69,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,4,1,0,-3.4,A,1,1,david-stockton-1,David Stockton,2013
+10,77,10,2012-12-08,Gonzaga,,Illinois,REG (Non-Conf),L 74-85,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,0,1,1,1,0,0,1,1,6,2.5,H,0,1,david-stockton-1,David Stockton,2013
+11,78,11,2012-12-15,Gonzaga,N,Kansas State,REG (Non-Conf),W 68-52,,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,2,1,1,1,1,0,0.2,N,1,1,david-stockton-1,David Stockton,2013
+12,79,12,2012-12-19,Gonzaga,,Campbell,REG (Non-Conf),W 74-52,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,2,2,0,1,0,2,2.9,H,1,1,david-stockton-1,David Stockton,2013
+13,80,13,2012-12-28,Gonzaga,,Baylor,REG (Non-Conf),W 94-87,*,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,H,1,1,david-stockton-1,David Stockton,2013
+14,81,14,2012-12-31,Gonzaga,@,Oklahoma State,REG (Non-Conf),W 69-68,,14,0,0,,0,0,,0,0,,,0,0,,0,3,3,3,2,0,1,1,0,3.6,A,1,1,david-stockton-1,David Stockton,2013
+15,82,15,2013-01-03,Gonzaga,@,Pepperdine,REG (Conf),W 78-62,,23,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,0,1,1,3,4,0,0,1,9,12.4,A,1,1,david-stockton-1,David Stockton,2013
+16,83,16,2013-01-05,Gonzaga,@,Santa Clara,REG (Conf),W 81-74,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,4,1,0,2,2,5,5.0,A,1,1,david-stockton-1,David Stockton,2013
+17,84,17,2013-01-10,Gonzaga,,St. Mary's (CA),REG (Conf),W 83-78,,25,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,3,3,7,1,0,0,2,0,3.2,H,1,1,david-stockton-1,David Stockton,2013
+18,85,18,2013-01-17,Gonzaga,@,Portland,REG (Conf),W 71-49,,26,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,3,0.333,2,2,4,4,2,0,1,1,1,3.5,A,1,1,david-stockton-1,David Stockton,2013
+19,86,19,2013-01-19,Gonzaga,@,Butler,REG (Non-Conf),L 63-64,,13,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,3,0,0,1,2,3,2.3,A,0,1,david-stockton-1,David Stockton,2013
+20,87,20,2013-01-24,Gonzaga,,Brigham Young,REG (Conf),W 83-63,,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,0,0,3,2,0,1,3,4,5.6,H,1,1,david-stockton-1,David Stockton,2013
+21,88,21,2013-01-26,Gonzaga,,San Francisco,REG (Conf),W 66-52,,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,4,0,0,2,0,5,5.1,H,1,1,david-stockton-1,David Stockton,2013
+22,89,22,2013-01-31,Gonzaga,@,Loyola Marymount,REG (Conf),W 88-43,,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,0,1,1,7,3,0,2,2,7,9.0,A,1,1,david-stockton-1,David Stockton,2013
+23,90,23,2013-02-02,Gonzaga,@,San Diego,REG (Conf),W 65-63,,19,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,3,3,0,1,2,3,5.2,A,1,1,david-stockton-1,David Stockton,2013
+24,91,24,2013-02-07,Gonzaga,,Pepperdine,REG (Conf),W 82-56,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,0,0,1,1,0,1,3,4,0.8,H,1,1,david-stockton-1,David Stockton,2013
+25,92,25,2013-02-09,Gonzaga,,Loyola Marymount,REG (Conf),W 74-55,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,3,0,0,2,1,2,0.9,H,1,1,david-stockton-1,David Stockton,2013
+26,93,26,2013-02-14,Gonzaga,@,St. Mary's (CA),REG (Conf),W 77-60,,13,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,2,1,2,0.0,A,1,1,david-stockton-1,David Stockton,2013
+27,94,27,2013-02-16,Gonzaga,@,San Francisco,REG (Conf),W 71-61,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,david-stockton-1,David Stockton,2013
+28,95,28,2013-02-20,Gonzaga,,Santa Clara,REG (Conf),W 85-42,,18,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,0,1,1,4,2,0,0,1,9,11.1,H,1,1,david-stockton-1,David Stockton,2013
+29,96,29,2013-02-23,Gonzaga,,San Diego,REG (Conf),W 81-50,,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,2,2,3,0,0,0,3,6,5.2,H,1,1,david-stockton-1,David Stockton,2013
+30,97,30,2013-02-28,Gonzaga,@,Brigham Young,REG (Conf),W 70-65,,16,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,3,0.667,0,4,4,4,1,0,0,2,4,4.7,A,1,1,david-stockton-1,David Stockton,2013
+31,98,31,2013-03-02,Gonzaga,,Portland,REG (Conf),W 81-52,,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,6,1,0,1,3,2,2.6,H,1,1,david-stockton-1,David Stockton,2013
+32,99,32,2013-03-09,Gonzaga,N,Loyola Marymount,CTOURN,W 66-48,,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,2,0.0,0,1,1,4,2,0,1,3,0,0.0,N,1,0,david-stockton-1,David Stockton,2013
+33,100,33,2013-03-11,Gonzaga,N,St. Mary's (CA),CTOURN,W 65-51,,21,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,3,3,0,0,1,3,7.6,N,1,0,david-stockton-1,David Stockton,2013
+34,101,34,2013-03-21,Gonzaga,N,Southern,ROUND-64,W 64-58,,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,0,1,1,7,0,0,2,2,4,4.3,N,1,0,david-stockton-1,David Stockton,2013
+35,102,35,2013-03-23,Gonzaga,N,Wichita State,ROUND-32,L 70-76,,17,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,0,2,3,0,0,0,0,4,6.9,N,0,0,david-stockton-1,David Stockton,2013

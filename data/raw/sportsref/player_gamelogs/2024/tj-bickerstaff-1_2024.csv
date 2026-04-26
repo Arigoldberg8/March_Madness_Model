@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,114,1,2023-11-06,James Madison,@,Michigan State,REG (Non-Conf),W 79-76 (OT),*,33,8,13,0.615,0,1,0.0,8,12,0.667,0.615,5,10,0.5,3,11,14,1,0,1,2,4,21,16.3,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+2,115,2,2023-11-09,James Madison,@,Kent State,REG (Non-Conf),W 113-108 (2OT),*,19,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,6,0.5,1,6,7,1,0,1,3,5,9,3.7,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+3,116,3,2023-11-12,James Madison,,Howard,REG (Non-Conf),W 107-86,*,19,5,7,0.714,0,0,,5,7,0.714,0.714,4,8,0.5,2,3,5,1,1,0,2,4,14,9.9,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+4,117,4,2023-11-17,James Madison,,Radford,REG (Non-Conf),W 76-73,*,30,8,13,0.615,0,0,,8,13,0.615,0.615,4,5,0.8,3,5,8,1,2,0,0,2,20,19.2,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+5,118,5,2023-11-21,James Madison,N,Southern Illinois,REG (Non-Conf),W 82-76,*,23,8,12,0.667,0,0,,8,12,0.667,0.667,3,8,0.375,3,4,7,0,1,1,3,2,19,13.0,N,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+6,119,6,2023-11-22,James Madison,N,Fresno State,REG (Non-Conf),W 95-64,*,24,7,8,0.875,0,1,0.0,7,7,1.0,0.875,1,1,1.0,1,4,5,3,0,0,4,4,15,10.6,N,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+7,120,7,2023-11-29,James Madison,,Buffalo,REG (Non-Conf),W 81-66,*,27,8,15,0.533,0,0,,8,15,0.533,0.533,2,4,0.5,4,3,7,4,1,0,2,1,18,15.0,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+8,121,8,2023-12-03,James Madison,,Keystone,REG (Non-Conf),W 130-59,*,16,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,6,7,13,5,3,0,0,0,12,22.3,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+9,122,9,2023-12-09,James Madison,@,Old Dominion,REG (Non-Conf),W 84-69,*,22,9,12,0.75,0,0,,9,12,0.75,0.75,3,4,0.75,3,9,12,0,0,0,1,3,21,18.4,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+10,123,10,2023-12-16,James Madison,@,Hampton,REG (Non-Conf),W 88-71,*,18,6,9,0.667,0,0,,6,9,0.667,0.667,0,1,0.0,1,5,6,0,2,2,0,3,12,12.1,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+11,124,11,2023-12-19,James Madison,,Coppin State,REG (Non-Conf),W 87-48,*,22,8,9,0.889,0,0,,8,9,0.889,0.889,2,3,0.667,4,3,7,1,4,1,3,0,18,20.6,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+12,125,12,2023-12-22,James Madison,@,Morgan State,REG (Non-Conf),W 89-75,*,28,3,8,0.375,0,0,,3,8,0.375,0.375,4,5,0.8,2,5,7,0,1,0,0,2,10,8.3,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+13,126,13,2023-12-30,James Madison,,Texas State,REG (Conf),W 82-65,*,24,9,11,0.818,0,0,,9,11,0.818,0.818,3,5,0.6,3,7,10,5,2,0,0,1,21,25.4,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+14,127,14,2024-01-04,James Madison,@,Louisiana,REG (Conf),W 68-61,*,28,6,11,0.545,0,0,,6,11,0.545,0.545,2,6,0.333,3,8,11,0,0,0,2,4,14,8.0,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+15,128,15,2024-01-06,James Madison,@,Southern Mississippi,REG (Conf),L 71-81,*,25,6,11,0.545,0,0,,6,11,0.545,0.545,2,3,0.667,6,10,16,1,1,2,3,4,14,14.0,A,0,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+16,129,16,2024-01-11,James Madison,,South Alabama,REG (Conf),W 89-55,*,21,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,3,7,10,3,1,0,3,1,8,11.0,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+17,130,17,2024-01-13,James Madison,,Appalachian State,REG (Conf),L 55-59,*,27,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,1,6,7,2,2,0,3,2,6,3.7,H,0,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+18,131,18,2024-01-18,James Madison,,Louisiana–Monroe,REG (Conf),W 89-70,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,6,6,2,1,0,0,1,6,7.8,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+19,132,19,2024-01-20,James Madison,,Marshall,REG (Conf),W 67-52,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,4,7,11,2,0,0,3,0,6,5.9,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+20,133,20,2024-01-24,James Madison,@,Old Dominion,REG (Conf),W 78-62,*,29,5,10,0.5,0,0,,5,10,0.5,0.5,2,5,0.4,3,9,12,5,1,1,1,2,12,14.0,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+21,134,21,2024-01-27,James Madison,@,Appalachian State,REG (Conf),L 76-82,*,24,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,3,9,12,2,1,1,5,2,15,13.2,A,0,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+22,135,22,2024-02-01,James Madison,,Coastal Carolina,REG (Conf),W 105-67,*,20,9,9,1.0,0,0,,9,9,1.0,1.0,1,2,0.5,3,4,7,4,1,0,0,2,19,22.2,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+23,136,23,2024-02-03,James Madison,,Old Dominion,REG (Conf),W 78-63,,17,2,7,0.286,0,0,,2,7,0.286,0.286,6,7,0.857,0,5,5,3,0,1,0,2,10,9.0,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+24,137,24,2024-02-07,James Madison,@,Arkansas State,REG (Conf),W 77-73,*,14,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,2,3,5,1,2,0,0,4,7,6.3,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+25,138,25,2024-02-10,James Madison,,Akron,REG (Non-Conf),W 73-59,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,4,5,0.8,3,1,4,1,1,0,3,3,14,9.2,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+26,139,26,2024-02-15,James Madison,,Georgia State,REG (Conf),W 83-63,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,11,12,0.917,3,6,9,0,2,1,2,2,21,21.5,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+27,140,27,2024-02-17,James Madison,,Georgia Southern,REG (Conf),W 87-80,*,21,6,12,0.5,0,0,,6,12,0.5,0.5,4,6,0.667,1,2,3,1,1,0,1,3,16,10.0,H,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+28,141,28,2024-02-21,James Madison,@,Marshall,REG (Conf),W 84-58,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,6,9,0.667,1,6,7,1,1,0,3,4,12,7.4,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+29,142,29,2024-02-24,James Madison,@,Georgia Southern,REG (Conf),W 80-74,*,27,7,8,0.875,0,1,0.0,7,7,1.0,0.875,3,5,0.6,3,7,10,0,2,0,4,2,17,14.8,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+30,143,30,2024-02-28,James Madison,@,Georgia State,REG (Conf),W 84-78,*,25,5,9,0.556,0,0,,5,9,0.556,0.556,4,6,0.667,4,9,13,2,0,1,1,2,14,14.7,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+31,144,31,2024-03-01,James Madison,@,Coastal Carolina,REG (Conf),W 86-76,*,23,3,4,0.75,0,0,,3,4,0.75,0.75,3,5,0.6,3,2,5,2,0,0,1,4,9,8.1,A,1,1,tj-bickerstaff-1,T.J. Bickerstaff,2024
+32,145,32,2024-03-09,James Madison,N,Marshall,CTOURN,W 81-64,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,5,10,0.5,4,7,11,0,2,0,0,1,11,11.8,N,1,0,tj-bickerstaff-1,T.J. Bickerstaff,2024
+33,146,33,2024-03-10,James Madison,N,Texas State,CTOURN,W 73-68,*,26,2,6,0.333,0,0,,2,6,0.333,0.333,3,7,0.429,4,7,11,1,0,1,2,5,7,4.3,N,1,0,tj-bickerstaff-1,T.J. Bickerstaff,2024
+34,147,34,2024-03-11,James Madison,N,Arkansas State,CTOURN,W 91-71,*,24,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,0,5,5,3,0,0,0,2,9,9.5,N,1,0,tj-bickerstaff-1,T.J. Bickerstaff,2024
+35,148,35,2024-03-22,James Madison,N,Wisconsin,ROUND-64,W 72-61,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,2,5,0.4,0,9,9,0,2,0,2,1,12,9.5,N,1,0,tj-bickerstaff-1,T.J. Bickerstaff,2024
+36,149,36,2024-03-24,James Madison,N,Duke,ROUND-32,L 55-93,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,5,6,0.833,4,1,5,2,1,0,4,1,11,8.7,N,0,0,tj-bickerstaff-1,T.J. Bickerstaff,2024

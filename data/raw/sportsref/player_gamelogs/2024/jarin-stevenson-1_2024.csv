@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Alabama,,Morehead State,REG (Non-Conf),W 105-73,,21,4,7,0.571,2,5,0.4,2,2,1.0,0.714,2,2,1.0,0,5,5,0,1,0,2,1,12,8.8,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+2,2,2,2023-11-10,Alabama,,Indiana State,REG (Non-Conf),W 102-80,,18,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,3,1.0,1,3,4,0,0,1,0,0,10,10.0,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+3,3,3,2023-11-14,Alabama,,South Alabama,REG (Non-Conf),W 102-46,,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,3,4,2,0,2,3,4,5,3.5,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+4,4,4,2023-11-17,Alabama,,Mercer,REG (Non-Conf),W 98-67,,19,5,7,0.714,2,3,0.667,3,4,0.75,0.857,2,3,0.667,1,2,3,0,0,0,3,0,14,9.0,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+5,5,5,2023-11-24,Alabama,N,Ohio State,REG (Non-Conf),L 81-92,,24,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,1,2,3,0,0,0,2,4,3,-3.1,N,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+6,6,6,2023-11-25,Alabama,N,Oregon,REG (Non-Conf),W 99-91,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,3,5,0,1,1,4,0,4,2.0,N,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+7,7,7,2023-11-28,Alabama,,Clemson,REG (Non-Conf),L 77-85,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,2,0,-0.5,H,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+8,8,8,2023-12-04,Alabama,,Arkansas State,REG (Non-Conf),W 89-65,,21,4,7,0.571,2,3,0.667,2,4,0.5,0.714,3,3,1.0,0,4,4,0,0,1,1,3,13,9.4,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+9,9,9,2023-12-09,Alabama,N,Purdue,REG (Non-Conf),L 86-92,,18,0,3,0.0,0,3,0.0,0,0,,0.0,1,3,0.333,1,0,1,1,0,1,0,2,1,-0.6,N,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+10,10,10,2023-12-16,Alabama,@,Creighton,REG (Non-Conf),L 82-85,,19,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,1,0,0,0,1,7,6.7,A,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+11,11,11,2023-12-20,Alabama,N,Arizona,REG (Non-Conf),L 74-87,,10,1,6,0.167,0,5,0.0,1,1,1.0,0.167,0,0,,1,2,3,0,0,0,3,3,2,-4.7,N,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+12,12,12,2023-12-23,Alabama,,Eastern Kentucky,REG (Non-Conf),W 111-67,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-1.4,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+13,13,13,2023-12-30,Alabama,N,Liberty,REG (Non-Conf),W 101-56,,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,2,2,0,0,0,1,1,9,5.2,N,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+14,14,14,2024-01-06,Alabama,@,Vanderbilt,REG (Conf),W 78-75,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,1,0.0,1,3,4,0,0,0,0,0,5,4.9,A,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+15,15,15,2024-01-09,Alabama,,South Carolina,REG (Conf),W 74-47,,12,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,0,0,0,0,0,3,0.2,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+16,16,16,2024-01-13,Alabama,@,Mississippi State,REG (Conf),W 82-74,,8,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,1,0,1,1,0,0.6,A,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+17,17,17,2024-01-16,Alabama,,Missouri,REG (Conf),W 93-75,,11,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,1,1,0,0,0,2,0,2,-0.4,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+18,18,18,2024-01-20,Alabama,@,Tennessee,REG (Conf),L 71-91,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,1,1,0,0,0,2,1,7,3.6,A,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+19,19,19,2024-01-24,Alabama,,Auburn,REG (Conf),W 79-75,,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,3,3,0,0,0,0,4,6,2.9,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+20,20,20,2024-01-27,Alabama,,Louisiana State,REG (Conf),W 109-88,,20,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,5,5,2,1,0,1,1,5,4.8,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+21,21,21,2024-01-31,Alabama,@,Georgia,REG (Conf),W 85-76,,19,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,3,5,1,0,0,1,0,4,5.4,A,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+22,22,22,2024-02-03,Alabama,,Mississippi State,REG (Conf),W 99-67,,23,5,8,0.625,4,6,0.667,1,2,0.5,0.875,0,0,,1,1,2,0,1,0,2,1,14,10.0,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+23,23,23,2024-02-07,Alabama,@,Auburn,REG (Conf),L 81-99,,20,0,3,0.0,0,3,0.0,0,0,,0.0,3,4,0.75,0,1,1,1,0,0,1,2,3,-0.3,A,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+24,24,24,2024-02-10,Alabama,@,Louisiana State,REG (Conf),W 109-92,,15,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,0,0,2,1,0,1,2,5,1.8,A,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+25,25,25,2024-02-17,Alabama,,Texas A&M,REG (Conf),W 100-75,,17,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,2,0.0,0,3,3,0,0,0,0,5,3,-1.3,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+26,26,26,2024-02-21,Alabama,,Florida,REG (Conf),W 98-93 (OT),*,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,2,2,4,0,1,0,0,0,0,0.2,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+27,27,27,2024-02-24,Alabama,@,Kentucky,REG (Conf),L 95-117,*,15,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,1,3,5,2.1,A,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+28,28,28,2024-02-28,Alabama,@,Ole Miss,REG (Conf),W 103-88,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,4,1.0,1,2,3,2,0,0,0,4,8,6.4,A,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+29,29,29,2024-03-02,Alabama,,Tennessee,REG (Conf),L 74-81,*,25,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,2,0.0,1,3,4,0,0,0,1,2,3,-1.1,H,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+30,30,30,2024-03-05,Alabama,@,Florida,REG (Conf),L 87-105,*,14,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,1,2,3,1,0,0,0,2,3,1.4,A,0,1,jarin-stevenson-1,Jarin Stevenson,2024
+31,31,31,2024-03-09,Alabama,,Arkansas,REG (Conf),W 92-88 (OT),,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,0,0,0,0,1,0,2,4,1.5,H,1,1,jarin-stevenson-1,Jarin Stevenson,2024
+32,32,32,2024-03-15,Alabama,N,Florida,CTOURN,L 88-102,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,3,4,0,0,0,1,2,7,4.5,N,0,0,jarin-stevenson-1,Jarin Stevenson,2024
+33,33,33,2024-03-22,Alabama,N,College of Charleston,ROUND-64,W 109-96,,15,2,4,0.5,2,4,0.5,0,0,,0.75,1,2,0.5,0,1,1,0,0,2,0,1,7,5.9,N,1,0,jarin-stevenson-1,Jarin Stevenson,2024
+34,34,34,2024-03-24,Alabama,N,Grand Canyon,ROUND-32,W 72-61,,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,1,0.0,1,3,4,0,0,0,0,5,2,-0.5,N,1,0,jarin-stevenson-1,Jarin Stevenson,2024
+35,35,35,2024-03-28,Alabama,N,North Carolina,ROUND-16,W 89-87,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,1,0.0,1,3,4,1,0,1,1,3,0,-1.0,N,1,0,jarin-stevenson-1,Jarin Stevenson,2024
+36,36,36,2024-03-30,Alabama,N,Clemson,ROUND-8,W 89-82,,25,7,11,0.636,5,8,0.625,2,3,0.667,0.864,0,0,,0,3,3,0,0,2,0,1,19,16.0,N,1,0,jarin-stevenson-1,Jarin Stevenson,2024
+37,37,37,2024-04-06,Alabama,N,Connecticut,NATIONAL-SEMI,L 72-86,,10,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,0,1,0,0.9,N,0,0,jarin-stevenson-1,Jarin Stevenson,2024

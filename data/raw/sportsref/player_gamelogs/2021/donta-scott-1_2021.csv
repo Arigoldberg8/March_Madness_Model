@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Maryland,,Old Dominion,REG (Non-Conf),W 85-67,,16,4,6,0.667,3,5,0.6,1,1,1.0,0.917,3,3,1.0,1,6,7,0,0,0,0,2,14,13.1,H,1,1,donta-scott-1,Donta Scott,2021
+2,33,2,2020-11-27,Maryland,,Navy,REG (Non-Conf),W 82-52,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,5,5,0,2,0,0,1,2,4.1,H,1,1,donta-scott-1,Donta Scott,2021
+3,34,3,2020-11-29,Maryland,,Mount St. Mary's,REG (Non-Conf),W 79-61,,29,7,10,0.7,1,3,0.333,6,7,0.857,0.75,2,2,1.0,3,2,5,2,0,1,2,1,17,15.2,H,1,1,donta-scott-1,Donta Scott,2021
+4,35,4,2020-12-04,Maryland,,Saint Peter's,REG (Non-Conf),W 90-57,,26,4,4,1.0,1,1,1.0,3,3,1.0,1.125,5,8,0.625,3,9,12,4,0,1,1,2,14,18.1,H,1,1,donta-scott-1,Donta Scott,2021
+5,36,5,2020-12-09,Maryland,@,Clemson,REG (Non-Conf),L 51-67,*,30,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,0,6,6,0,1,3,1,1,11,11.2,A,0,1,donta-scott-1,Donta Scott,2021
+6,37,6,2020-12-14,Maryland,,Rutgers,REG (Conf),L 60-74,*,32,6,10,0.6,3,5,0.6,3,5,0.6,0.75,5,6,0.833,1,7,8,2,1,1,4,3,20,15.7,H,0,1,donta-scott-1,Donta Scott,2021
+7,38,7,2020-12-22,Maryland,,La Salle,REG (Non-Conf),W 84-71,*,31,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,2,5,7,3,1,0,2,1,11,11.0,H,1,1,donta-scott-1,Donta Scott,2021
+8,39,8,2020-12-25,Maryland,@,Purdue,REG (Conf),L 70-73,*,33,5,9,0.556,2,5,0.4,3,4,0.75,0.667,3,3,1.0,1,7,8,1,1,0,1,1,15,13.8,A,0,1,donta-scott-1,Donta Scott,2021
+9,40,9,2020-12-28,Maryland,@,Wisconsin,REG (Conf),W 70-64,*,33,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,2,1.0,1,3,4,2,0,0,0,0,12,10.7,A,1,1,donta-scott-1,Donta Scott,2021
+10,41,10,2020-12-31,Maryland,,Michigan,REG (Conf),L 73-84,*,39,7,10,0.7,5,5,1.0,2,5,0.4,0.95,0,0,,1,5,6,2,0,1,2,1,19,16.7,H,0,1,donta-scott-1,Donta Scott,2021
+11,42,11,2021-01-04,Maryland,@,Indiana,REG (Conf),L 55-63,*,34,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,4,8,12,3,1,0,2,3,7,8.7,A,0,1,donta-scott-1,Donta Scott,2021
+12,43,12,2021-01-07,Maryland,,Iowa,REG (Conf),L 67-89,*,31,5,15,0.333,1,6,0.167,4,9,0.444,0.367,2,4,0.5,3,5,8,4,3,0,2,0,13,11.1,H,0,1,donta-scott-1,Donta Scott,2021
+13,44,13,2021-01-10,Maryland,@,Illinois,REG (Conf),W 66-63,*,37,5,10,0.5,3,4,0.75,2,6,0.333,0.65,3,5,0.6,1,7,8,1,0,2,2,0,16,13.1,A,1,1,donta-scott-1,Donta Scott,2021
+14,45,14,2021-01-15,Maryland,,Wingate,REG (Non-Conf),W 100-58,*,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,4,0.5,0,2,2,3,1,0,1,1,9,7.5,H,1,1,donta-scott-1,Donta Scott,2021
+15,46,15,2021-01-19,Maryland,@,Michigan,REG (Conf),L 63-87,*,30,4,10,0.4,1,5,0.2,3,5,0.6,0.45,4,8,0.5,1,0,1,0,2,0,1,1,13,7.3,A,0,1,donta-scott-1,Donta Scott,2021
+16,47,16,2021-01-23,Maryland,@,Minnesota,REG (Conf),W 63-49,*,36,3,7,0.429,3,6,0.5,0,1,0.0,0.643,6,8,0.75,3,8,11,2,0,0,0,1,15,16.0,A,1,1,donta-scott-1,Donta Scott,2021
+17,48,17,2021-01-27,Maryland,,Wisconsin,REG (Conf),L 55-61,*,34,5,14,0.357,3,9,0.333,2,5,0.4,0.464,0,0,,2,6,8,0,0,3,0,2,13,9.7,H,0,1,donta-scott-1,Donta Scott,2021
+18,49,18,2021-02-02,Maryland,,Purdue,REG (Conf),W 61-60,*,35,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,1,1,2,4,1,0,2,7,9.6,H,1,1,donta-scott-1,Donta Scott,2021
+19,50,19,2021-02-05,Maryland,@,Penn State,REG (Conf),L 50-55,*,30,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,3,0.667,0,4,4,0,0,2,2,4,9,3.9,A,0,1,donta-scott-1,Donta Scott,2021
+20,51,20,2021-02-08,Maryland,,Ohio State,REG (Conf),L 65-73,*,32,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,0,4,4,1,2,0,6,1,11,5.2,H,0,1,donta-scott-1,Donta Scott,2021
+21,52,21,2021-02-14,Maryland,,Minnesota,REG (Conf),W 72-59,*,31,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,1,0.0,0,11,11,3,0,0,1,4,8,6.7,H,1,1,donta-scott-1,Donta Scott,2021
+22,53,22,2021-02-16,Maryland,,Nebraska,REG (Conf),W 64-50,*,32,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,2,0.5,0,8,8,0,0,3,3,0,9,7.8,H,1,1,donta-scott-1,Donta Scott,2021
+23,54,23,2021-02-17,Maryland,,Nebraska,REG (Conf),W 79-71,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,2,0.5,1,7,8,8,0,1,0,1,6,10.9,H,1,1,donta-scott-1,Donta Scott,2021
+24,55,24,2021-02-21,Maryland,@,Rutgers,REG (Conf),W 68-59,*,33,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,6,0.667,2,5,7,2,1,1,0,1,11,12.1,A,1,1,donta-scott-1,Donta Scott,2021
+25,56,25,2021-02-28,Maryland,,Michigan State,REG (Conf),W 73-55,*,30,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,0,8,8,5,0,0,2,1,7,7.8,H,1,1,donta-scott-1,Donta Scott,2021
+26,57,26,2021-03-03,Maryland,@,Northwestern,REG (Conf),L 55-60,*,32,1,7,0.143,0,4,0.0,1,3,0.333,0.143,2,4,0.5,1,3,4,1,1,1,5,4,4,-3.9,A,0,1,donta-scott-1,Donta Scott,2021
+27,58,27,2021-03-07,Maryland,,Penn State,REG (Conf),L 61-66,,20,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,1,1,1,0,1,2,4,9,4.1,H,0,1,donta-scott-1,Donta Scott,2021
+28,59,28,2021-03-11,Maryland,N,Michigan State,CTOURN,W 68-57,*,31,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,1,0.0,1,2,3,1,0,0,1,2,7,3.1,N,1,0,donta-scott-1,Donta Scott,2021
+29,60,29,2021-03-12,Maryland,N,Michigan,CTOURN,L 66-79,*,30,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,1,1,4,0,1,1,0,7,6.1,N,0,0,donta-scott-1,Donta Scott,2021
+30,61,30,2021-03-20,Maryland,N,Connecticut,ROUND-64,W 63-54,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,3,4,0.75,0,4,4,1,0,2,1,1,12,10.2,N,1,0,donta-scott-1,Donta Scott,2021
+31,62,31,2021-03-22,Maryland,N,Alabama,ROUND-32,L 77-96,*,29,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,1,0.0,0,0,0,5,1,0,1,4,12,8.5,N,0,0,donta-scott-1,Donta Scott,2021

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2018-11-06,Oregon,,Portland State,REG (Non-Conf),W 84-57,*,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,1,0,3,1,1,4,3.3,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+2,38,2,2018-11-09,Oregon,,Eastern Washington,REG (Non-Conf),W 81-47,*,24,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,2,7,9,1,0,0,0,1,6,7.8,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+3,39,3,2018-11-15,Oregon,N,Iowa,REG (Non-Conf),L 69-77,*,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,4,6,0,0,0,1,4,2,-0.4,N,0,1,kenny-wooten-1,Kenny Wooten,2019
+4,40,4,2018-11-16,Oregon,N,Syracuse,REG (Non-Conf),W 80-65,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,6,7,0.857,3,3,6,0,0,1,4,2,12,6.8,N,1,1,kenny-wooten-1,Kenny Wooten,2019
+5,41,5,2018-11-20,Oregon,,Green Bay,REG (Non-Conf),W 83-72,*,29,0,0,,0,0,,0,0,,,8,12,0.667,1,5,6,1,0,4,3,3,8,7.9,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+6,42,6,2018-11-26,Oregon,,Texas Southern,REG (Non-Conf),L 84-89,*,7,0,0,,0,0,,0,0,,,0,0,,1,0,1,1,0,1,0,0,0,2.1,H,0,1,kenny-wooten-1,Kenny Wooten,2019
+7,43,7,2018-12-01,Oregon,@,Houston,REG (Non-Conf),L 61-65,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,1,3,0,2,0,1,3,6,5.2,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+8,44,8,2018-12-08,Oregon,,Omaha,REG (Non-Conf),W 84-61,*,28,9,12,0.75,0,0,,9,12,0.75,0.75,2,2,1.0,2,3,5,0,0,1,3,1,20,14.8,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+9,45,9,2018-12-12,Oregon,,San Diego,REG (Non-Conf),W 65-55,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,2,4,6,0,1,1,2,4,8,6.4,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+10,46,10,2018-12-15,Oregon,,Boise State,REG (Non-Conf),W 66-54,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,3,4,3,0,2,1,3,5,5.8,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+11,47,11,2018-12-18,Oregon,,Florida A&M,REG (Non-Conf),W 71-64,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,3,4,7,1,0,2,4,4,4,1.7,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+12,48,12,2018-12-21,Oregon,@,Baylor,REG (Non-Conf),L 47-57,*,31,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,3,1,4,0,0,4,2,3,4,5.4,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+13,49,17,2019-01-17,Oregon,@,Arizona,REG (Conf),W 59-54,,25,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,6,7,1,0,2,0,3,5,6.0,A,1,1,kenny-wooten-1,Kenny Wooten,2019
+14,50,18,2019-01-19,Oregon,@,Arizona State,REG (Conf),L 64-78,,14,0,0,,0,0,,0,0,,,0,0,,1,5,6,0,0,0,1,3,0,0.0,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+15,51,19,2019-01-24,Oregon,,Washington,REG (Conf),L 56-61,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,0,3,2,-0.9,H,0,1,kenny-wooten-1,Kenny Wooten,2019
+16,52,20,2019-01-27,Oregon,,Washington State,REG (Conf),W 78-58,,26,8,10,0.8,0,0,,8,10,0.8,0.8,4,5,0.8,1,3,4,0,0,3,0,0,20,19.5,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+17,53,21,2019-01-31,Oregon,@,Utah,REG (Conf),W 78-72,,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,0,1,3,0,4,4,3.7,A,1,1,kenny-wooten-1,Kenny Wooten,2019
+18,54,22,2019-02-02,Oregon,@,Colorado,REG (Conf),L 51-73,,24,3,4,0.75,0,0,,3,4,0.75,0.75,1,5,0.2,0,2,2,1,0,4,1,4,7,5.3,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+19,55,23,2019-02-06,Oregon,,California,REG (Conf),W 73-62,*,29,4,4,1.0,0,0,,4,4,1.0,1.0,3,3,1.0,2,3,5,1,2,4,3,1,11,14.2,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+20,56,24,2019-02-10,Oregon,,Stanford,REG (Conf),W 69-46,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,4,6,2,0,7,0,4,6,9.9,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+21,57,25,2019-02-16,Oregon,@,Oregon State,REG (Conf),L 57-72,*,27,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,2,2,2,0,0,1,0,4,4.0,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+22,58,26,2019-02-21,Oregon,@,Southern California,REG (Conf),L 49-66,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,0,1,4,2,2,-3.2,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+23,59,27,2019-02-23,Oregon,@,UCLA,REG (Conf),L 83-90,*,33,6,11,0.545,0,0,,6,11,0.545,0.545,4,5,0.8,4,5,9,0,1,2,1,3,16,14.8,A,0,1,kenny-wooten-1,Kenny Wooten,2019
+24,60,28,2019-02-28,Oregon,,Arizona State,REG (Conf),W 79-51,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,5,6,0,0,0,2,1,6,4.2,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+25,61,29,2019-03-02,Oregon,,Arizona,REG (Conf),W 73-47,*,22,2,7,0.286,0,0,,2,7,0.286,0.286,1,2,0.5,0,3,3,0,0,3,0,1,5,3.1,H,1,1,kenny-wooten-1,Kenny Wooten,2019
+26,62,30,2019-03-06,Oregon,@,Washington State,REG (Conf),W 72-61,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,0,4,4,0,3,2,1,5,2,3.2,A,1,1,kenny-wooten-1,Kenny Wooten,2019
+27,63,31,2019-03-09,Oregon,@,Washington,REG (Conf),W 55-47,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,4,4,0,0,2,1,3,6,4.8,A,1,1,kenny-wooten-1,Kenny Wooten,2019
+28,64,32,2019-03-13,Oregon,N,Washington State,CTOURN,W 84-51,*,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,3,5,4,0,2,2,4,4,6.3,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+29,65,33,2019-03-14,Oregon,N,Utah,CTOURN,W 66-54,*,23,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,5,6,0,0,0,2,1,6,4.2,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+30,66,34,2019-03-15,Oregon,N,Arizona State,CTOURN,W 79-75 (OT),*,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,2,2,4,0,0,4,1,5,4,4.4,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+31,67,35,2019-03-16,Oregon,N,Washington,CTOURN,W 68-48,*,28,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,2,5,7,1,1,4,3,3,4,4.5,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+32,68,36,2019-03-22,Oregon,N,Wisconsin,ROUND-64,W 72-54,*,33,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,1,5,6,1,0,4,0,3,9,11.2,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+33,69,37,2019-03-24,Oregon,N,UC Irvine,ROUND-32,W 73-54,*,35,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,4,4,8,0,1,7,2,3,11,14.4,N,1,0,kenny-wooten-1,Kenny Wooten,2019
+34,70,38,2019-03-28,Oregon,N,Virginia,ROUND-16,L 49-53,*,38,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,4,5,1,1,1,1,2,2,3.5,N,0,0,kenny-wooten-1,Kenny Wooten,2019

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Memphis,,Centenary (LA),REG (Non-Conf),W 104-40,*,23,5,6,0.833,3,3,1.0,2,3,0.667,1.083,4,6,0.667,0,3,3,4,5,2,2,1,17,21.7,H,1,1,antonio-barton-1,Antonio Barton,2011
+2,2,2,2010-11-15,Memphis,,Miami (FL),REG (Non-Conf),W 72-68,,19,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,4,0.5,1,3,4,1,0,0,2,2,10,4.0,H,1,1,antonio-barton-1,Antonio Barton,2011
+3,3,3,2010-11-17,Memphis,,Northwestern State,REG (Non-Conf),W 94-79,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,7,0.571,0,1,1,2,1,0,2,3,6,3.3,H,1,1,antonio-barton-1,Antonio Barton,2011
+4,4,4,2010-11-21,Memphis,N,Louisiana State,REG (Non-Conf),W 70-61,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,1,2,0.6,N,1,1,antonio-barton-1,Antonio Barton,2011
+5,5,5,2010-11-23,Memphis,,UT Martin,REG (Non-Conf),W 102-80,,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,1,1,2,0,0,2,2,5,0.8,H,1,1,antonio-barton-1,Antonio Barton,2011
+6,6,6,2010-12-01,Memphis,,Arkansas State,REG (Non-Conf),W 78-71 (OT),*,24,3,6,0.5,3,6,0.5,0,0,,0.75,1,1,1.0,0,3,3,2,1,0,1,1,10,8.9,H,1,1,antonio-barton-1,Antonio Barton,2011
+7,7,7,2010-12-04,Memphis,,Western Kentucky,REG (Non-Conf),W 77-61,,18,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,5,5,3,0,0,1,1,2,3.5,H,1,1,antonio-barton-1,Antonio Barton,2011
+8,8,8,2010-12-07,Memphis,N,Kansas,REG (Non-Conf),L 68-81,,15,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,1,3,1,1,0,0,0,2,2.3,N,0,1,antonio-barton-1,Antonio Barton,2011
+9,9,9,2010-12-16,Memphis,,Austin Peay,REG (Non-Conf),W 70-68 (OT),,30,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,3,1.0,0,3,3,0,2,0,2,3,9,6.4,H,1,1,antonio-barton-1,Antonio Barton,2011
+10,10,10,2010-12-20,Memphis,,Texas A&M–Corpus Christi,REG (Non-Conf),W 68-63,,28,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,1,1.0,0,2,2,0,2,0,0,2,6,5.8,H,1,1,antonio-barton-1,Antonio Barton,2011
+11,11,11,2010-12-23,Memphis,,Georgetown,REG (Non-Conf),L 69-86,,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,4,0,0,0,2,5,4.3,H,0,1,antonio-barton-1,Antonio Barton,2011
+12,12,12,2010-12-30,Memphis,,Lipscomb,REG (Non-Conf),W 88-70,,20,4,7,0.571,3,5,0.6,1,2,0.5,0.786,1,3,0.333,1,2,3,2,0,0,3,0,12,7.6,H,1,1,antonio-barton-1,Antonio Barton,2011
+13,13,13,2011-01-02,Memphis,,Tennessee State,REG (Non-Conf),W 91-86,,26,6,8,0.75,5,6,0.833,1,2,0.5,1.063,7,9,0.778,1,2,3,2,0,0,1,1,24,21.3,H,1,1,antonio-barton-1,Antonio Barton,2011
+14,14,14,2011-01-05,Memphis,@,Tennessee,REG (Non-Conf),L 84-104,,23,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,2,0.0,0,2,2,3,0,0,0,2,8,4.0,A,0,1,antonio-barton-1,Antonio Barton,2011
+15,15,15,2011-01-08,Memphis,,East Carolina,REG (Conf),W 61-58,,29,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,4,4,1,1,0,2,1,6,2.7,H,1,1,antonio-barton-1,Antonio Barton,2011
+16,16,16,2011-01-12,Memphis,@,SMU,REG (Conf),L 58-64,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,1,0,0,2,3,2.2,A,0,1,antonio-barton-1,Antonio Barton,2011
+17,17,17,2011-01-15,Memphis,,Marshall,REG (Conf),W 77-61,,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,2,0,1,2,3,2,1.5,H,1,1,antonio-barton-1,Antonio Barton,2011
+18,18,18,2011-01-19,Memphis,@,Southern Mississippi,REG (Conf),W 76-75,*,21,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,0,1,3,0,0,2,0,6,3.8,A,1,1,antonio-barton-1,Antonio Barton,2011
+19,19,19,2011-01-22,Memphis,@,UAB,REG (Conf),W 76-73 (OT),*,30,6,10,0.6,1,4,0.25,5,6,0.833,0.65,3,8,0.375,0,3,3,0,2,1,1,3,16,10.8,A,1,1,antonio-barton-1,Antonio Barton,2011
+20,20,20,2011-01-26,Memphis,,UCF,REG (Conf),W 77-61,,20,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,3,4,1,0,0,1,2,9,6.9,H,1,1,antonio-barton-1,Antonio Barton,2011
+21,21,21,2011-01-29,Memphis,@,Marshall,REG (Conf),L 70-85,,20,0,5,0.0,0,1,0.0,0,4,0.0,0.0,1,2,0.5,0,1,1,1,0,0,2,5,1,-5.9,A,0,1,antonio-barton-1,Antonio Barton,2011
+22,22,22,2011-02-02,Memphis,,Tulsa,REG (Conf),L 65-68,,22,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,0,2,2,2,2,0,1,3,8,7.8,H,0,1,antonio-barton-1,Antonio Barton,2011
+23,23,23,2011-02-05,Memphis,N,Gonzaga,REG (Non-Conf),W 62-58,,33,5,9,0.556,3,6,0.5,2,3,0.667,0.722,4,5,0.8,0,4,4,0,1,0,0,1,17,14.1,N,1,1,antonio-barton-1,Antonio Barton,2011
+24,24,24,2011-02-09,Memphis,@,UCF,REG (Conf),W 63-62,,28,4,8,0.5,4,7,0.571,0,1,0.0,0.75,2,2,1.0,0,3,3,2,1,0,2,0,14,11.3,A,1,1,antonio-barton-1,Antonio Barton,2011
+25,25,25,2011-02-12,Memphis,,Southern Mississippi,REG (Conf),W 67-61,,26,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,2,2,2,0,0,0,0,0,-0.8,H,1,1,antonio-barton-1,Antonio Barton,2011
+26,26,26,2011-02-16,Memphis,,UAB,REG (Conf),W 62-58,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,3,0.333,0,3,3,3,0,0,1,3,4,1.6,H,1,1,antonio-barton-1,Antonio Barton,2011
+27,27,27,2011-02-19,Memphis,@,Rice,REG (Conf),L 52-67,,30,5,9,0.556,1,4,0.25,4,5,0.8,0.611,3,3,1.0,1,0,1,0,0,0,0,0,14,10.4,A,0,1,antonio-barton-1,Antonio Barton,2011
+28,28,28,2011-02-22,Memphis,,Houston,REG (Conf),W 69-58,*,33,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,2,1,3,2,2,1,0,1,10,10.6,H,1,1,antonio-barton-1,Antonio Barton,2011
+29,29,29,2011-02-26,Memphis,@,UTEP,REG (Conf),L 47-74,*,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,3,3,1.0,0,2,2,2,1,1,1,5,5,4.0,A,0,1,antonio-barton-1,Antonio Barton,2011
+30,30,30,2011-03-02,Memphis,@,East Carolina,REG (Conf),L 57-68,*,35,6,12,0.5,1,4,0.25,5,8,0.625,0.542,2,3,0.667,0,2,2,3,0,0,1,2,15,9.5,A,0,1,antonio-barton-1,Antonio Barton,2011
+31,31,31,2011-03-05,Memphis,,Tulane,REG (Conf),W 66-61,*,33,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,2,3,3,0,0,2,0,5,3.7,H,1,1,antonio-barton-1,Antonio Barton,2011
+32,32,32,2011-03-10,Memphis,N,Southern Mississippi,CTOURN,W 66-63,*,36,3,7,0.429,2,4,0.5,1,3,0.333,0.571,4,4,1.0,0,3,3,3,0,0,3,1,12,7.9,N,1,0,antonio-barton-1,Antonio Barton,2011
+33,33,33,2011-03-11,Memphis,N,East Carolina,CTOURN,W 76-56,*,27,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,4,5,2,1,0,2,2,2,-0.3,N,1,0,antonio-barton-1,Antonio Barton,2011
+34,34,34,2011-03-12,Memphis,N,UTEP,CTOURN,W 67-66,*,24,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,1,0,3,2,3,-1.2,N,1,0,antonio-barton-1,Antonio Barton,2011
+35,35,35,2011-03-18,Memphis,N,Arizona,ROUND-64,L 75-77,*,35,6,11,0.545,3,4,0.75,3,7,0.429,0.682,2,3,0.667,1,3,4,1,0,0,2,1,17,11.2,N,0,0,antonio-barton-1,Antonio Barton,2011

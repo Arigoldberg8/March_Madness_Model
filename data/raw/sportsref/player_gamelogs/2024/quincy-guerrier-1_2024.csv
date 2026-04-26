@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,132,1,2023-11-06,Illinois,,Eastern Illinois,REG (Non-Conf),W 80-52,*,20,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,1,1,0,0,1,0,0,4,2.3,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+2,133,2,2023-11-10,Illinois,,Oakland,REG (Non-Conf),W 64-53,*,28,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,3,0.667,2,8,10,1,0,1,0,1,13,13.1,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+3,134,3,2023-11-14,Illinois,,Marquette,REG (Non-Conf),L 64-71,*,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,3,7,10,0,1,0,1,1,0,1.7,H,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+4,135,4,2023-11-17,Illinois,,Valparaiso,REG (Non-Conf),W 87-64,*,15,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,0,5,5,1,0,1,1,1,2,-1.0,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+5,136,5,2023-11-19,Illinois,,Southern,REG (Non-Conf),W 88-60,*,21,5,9,0.556,0,3,0.0,5,6,0.833,0.556,0,0,,0,6,6,1,0,0,2,2,10,5.4,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+6,137,6,2023-11-24,Illinois,,Western Illinois,REG (Non-Conf),W 84-52,*,27,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,6,0.333,3,12,15,0,0,4,1,1,10,10.8,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+7,138,7,2023-12-02,Illinois,@,Rutgers,REG (Conf),W 76-58,*,16,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,2,0.0,2,4,6,0,1,0,2,3,7,4.3,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+8,139,8,2023-12-05,Illinois,N,Florida Atlantic,REG (Non-Conf),W 98-89,*,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,2,2,0,0,0,2,3,4,-0.3,N,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+9,140,9,2023-12-09,Illinois,@,Tennessee,REG (Non-Conf),L 79-86,*,33,7,14,0.5,3,8,0.375,4,6,0.667,0.607,5,7,0.714,0,5,5,0,0,0,1,4,22,13.1,A,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+10,141,10,2023-12-17,Illinois,,Colgate,REG (Non-Conf),W 74-57,*,27,4,6,0.667,2,2,1.0,2,4,0.5,0.833,5,6,0.833,3,4,7,0,1,0,1,1,15,14.9,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+11,142,11,2023-12-22,Illinois,N,Missouri,REG (Non-Conf),W 97-73,*,31,8,15,0.533,5,8,0.625,3,7,0.429,0.7,7,7,1.0,3,5,8,0,1,0,1,1,28,23.9,N,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+12,143,12,2023-12-29,Illinois,,FDU,REG (Non-Conf),W 104-71,*,23,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,5,0.6,3,8,11,0,0,0,3,1,14,10.0,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+13,144,13,2024-01-02,Illinois,,Northwestern,REG (Conf),W 96-66,*,35,6,9,0.667,1,2,0.5,5,7,0.714,0.722,1,3,0.333,2,8,10,0,0,1,0,1,14,13.4,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+14,145,14,2024-01-05,Illinois,@,Purdue,REG (Conf),L 78-83,*,38,7,13,0.538,0,1,0.0,7,12,0.583,0.538,4,5,0.8,3,7,10,0,0,0,1,4,18,12.9,A,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+15,146,15,2024-01-11,Illinois,,Michigan State,REG (Conf),W 71-68,*,33,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,2,0.5,0,6,6,1,0,1,2,2,10,3.2,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+16,147,16,2024-01-14,Illinois,,Maryland,REG (Conf),L 67-76,*,34,2,10,0.2,1,4,0.25,1,6,0.167,0.25,2,3,0.667,0,5,5,0,0,1,0,0,7,2.6,H,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+17,148,17,2024-01-18,Illinois,@,Michigan,REG (Conf),W 88-73,*,36,6,12,0.5,1,4,0.25,5,8,0.625,0.542,3,6,0.5,6,8,14,0,0,0,1,3,16,13.2,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+18,149,18,2024-01-21,Illinois,,Rutgers,REG (Conf),W 86-63,*,30,5,8,0.625,2,3,0.667,3,5,0.6,0.75,3,8,0.375,5,6,11,0,0,0,2,0,15,12.7,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+19,150,19,2024-01-24,Illinois,@,Northwestern,REG (Conf),L 91-96 (OT),*,35,4,12,0.333,3,6,0.5,1,6,0.167,0.458,4,6,0.667,5,6,11,0,0,0,1,3,15,10.5,A,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+20,151,20,2024-01-27,Illinois,,Indiana,REG (Conf),W 70-62,*,16,0,0,,0,0,,0,0,,,2,6,0.333,1,3,4,1,1,0,0,1,2,3.3,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+21,152,21,2024-01-30,Illinois,@,Ohio State,REG (Conf),W 87-75,*,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,1,0.0,0,2,2,0,0,0,1,1,5,1.1,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+22,153,22,2024-02-04,Illinois,,Nebraska,REG (Conf),W 87-84 (OT),*,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,5,8,0.625,0,7,7,0,0,1,2,3,12,8.1,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+23,154,23,2024-02-10,Illinois,@,Michigan State,REG (Conf),L 80-88,*,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,4,5,0,1,0,1,4,3,1.6,A,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+24,155,24,2024-02-13,Illinois,,Michigan,REG (Conf),W 97-68,*,21,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,1,6,7,0,0,0,0,2,10,10.5,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+25,156,25,2024-02-17,Illinois,@,Maryland,REG (Conf),W 85-80,*,20,2,5,0.4,1,4,0.25,1,1,1.0,0.5,4,5,0.8,0,1,1,0,0,0,1,3,9,4.0,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+26,157,26,2024-02-21,Illinois,@,Penn State,REG (Conf),L 89-90,*,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,1,3,4,1,0,0,1,3,5,3.4,A,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+27,158,27,2024-02-24,Illinois,,Iowa,REG (Conf),W 95-85,*,19,4,9,0.444,1,5,0.2,3,4,0.75,0.5,0,0,,2,1,3,0,1,0,1,3,9,4.8,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+28,159,28,2024-02-28,Illinois,,Minnesota,REG (Conf),W 105-97,*,25,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,3,0,3,1,0,0,0,2,10,9.4,H,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+29,160,29,2024-03-02,Illinois,@,Wisconsin,REG (Conf),W 91-83,*,27,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,4,0.5,3,1,4,2,1,0,2,3,7,6.5,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+30,161,30,2024-03-05,Illinois,,Purdue,REG (Conf),L 71-77,*,24,3,5,0.6,3,4,0.75,0,1,0.0,0.9,3,6,0.5,1,1,2,0,1,0,2,1,12,8.1,H,0,1,quincy-guerrier-1,Quincy Guerrier,2024
+31,162,31,2024-03-10,Illinois,@,Iowa,REG (Conf),W 73-61,*,30,5,10,0.5,2,3,0.667,3,7,0.429,0.6,2,4,0.5,3,10,13,0,0,0,0,0,14,13.3,A,1,1,quincy-guerrier-1,Quincy Guerrier,2024
+32,163,32,2024-03-15,Illinois,N,Ohio State,CTOURN,W 77-74,*,20,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,4,4,0,0,0,0,3,0,-1.5,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+33,164,33,2024-03-16,Illinois,N,Nebraska,CTOURN,W 98-87,*,24,5,8,0.625,1,4,0.25,4,4,1.0,0.688,2,4,0.5,1,1,2,0,0,0,0,3,13,8.4,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+34,165,34,2024-03-17,Illinois,N,Wisconsin,CTOURN,W 93-87,*,16,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,0,0,0,0,0,0,0,1,6,1.5,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+35,166,35,2024-03-21,Illinois,N,Morehead State,ROUND-64,W 85-69,*,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,1,3,1,1,1,1,1,0,1.3,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+36,167,36,2024-03-23,Illinois,N,Duquesne,ROUND-32,W 89-63,*,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,4,2,6,0,0,0,0,2,10,9.7,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+37,168,37,2024-03-28,Illinois,N,Iowa State,ROUND-16,W 72-69,*,22,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,2,3,5,1,0,0,0,0,5,4.8,N,1,0,quincy-guerrier-1,Quincy Guerrier,2024
+38,169,38,2024-03-30,Illinois,N,Connecticut,ROUND-8,L 52-77,*,23,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,0,,0,4,4,0,0,0,0,2,7,1.6,N,0,0,quincy-guerrier-1,Quincy Guerrier,2024

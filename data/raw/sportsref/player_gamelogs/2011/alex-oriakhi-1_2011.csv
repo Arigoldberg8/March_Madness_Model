@@ -1,0 +1,42 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2010-11-12,Connecticut,,Stony Brook,REG (Non-Conf),W 79-52,*,28,4,7,0.571,0,0,4,7,0.571,0.571,3,4,0.75,5,13,18,0,0,2,1,2,11,14.3,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+2,36,2,2010-11-17,Connecticut,,Vermont,REG (Non-Conf),W 89-73,*,24,5,8,0.625,0,0,5,8,0.625,0.625,1,3,0.333,4,3,7,0,0,5,0,4,11,12.2,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+3,37,3,2010-11-22,Connecticut,N,Wichita State,REG (Non-Conf),W 83-79,*,36,4,5,0.8,0,0,4,5,0.8,0.8,4,7,0.571,2,5,7,0,0,1,3,1,12,9.1,N,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+4,38,4,2010-11-23,Connecticut,N,Michigan State,REG (Non-Conf),W 70-67,*,37,7,14,0.5,0,0,7,14,0.5,0.5,1,6,0.167,9,8,17,0,1,1,2,1,15,14.0,N,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+5,39,5,2010-11-24,Connecticut,N,Kentucky,REG (Non-Conf),W 84-67,*,37,7,10,0.7,0,0,7,10,0.7,0.7,4,6,0.667,4,7,11,0,2,3,1,1,18,20.6,N,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+6,40,6,2010-11-30,Connecticut,,New Hampshire,REG (Non-Conf),W 62-55,*,25,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,4,6,10,0,0,5,0,3,7,10.5,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+7,41,7,2010-12-03,Connecticut,,UMBC,REG (Non-Conf),W 94-61,*,26,4,8,0.5,0,0,4,8,0.5,0.5,3,4,0.75,3,1,4,1,1,4,2,0,11,11.5,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+8,42,8,2010-12-08,Connecticut,,Fairleigh Dickinson,REG (Non-Conf),W 78-54,*,28,2,6,0.333,0,0,2,6,0.333,0.333,2,2,1.0,4,5,9,1,0,1,0,2,6,7.5,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+9,43,9,2010-12-20,Connecticut,,Coppin State,REG (Non-Conf),W 76-64,*,23,3,5,0.6,0,0,3,5,0.6,0.6,6,9,0.667,4,3,7,1,1,0,1,1,12,12.5,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+10,44,10,2010-12-22,Connecticut,,Harvard,REG (Non-Conf),W 81-52,*,26,3,8,0.375,0,0,3,8,0.375,0.375,4,4,1.0,5,4,9,0,1,0,2,3,10,8.1,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+11,45,11,2010-12-27,Connecticut,@,Pittsburgh,REG (Conf),L 63-78,*,19,1,4,0.25,0,0,1,4,0.25,0.25,6,7,0.857,1,0,1,0,0,3,1,3,8,5.8,A,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+12,46,12,2010-12-31,Connecticut,,South Florida,REG (Conf),W 66-61 (OT),*,41,6,9,0.667,0,0,6,9,0.667,0.667,3,4,0.75,1,2,3,0,0,2,0,3,15,12.2,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+13,47,13,2011-01-04,Connecticut,@,Notre Dame,REG (Conf),L 70-73,*,23,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,6,6,2,0,2,3,5,0,-2.5,A,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+14,48,14,2011-01-08,Connecticut,@,Texas,REG (Non-Conf),W 82-81 (OT),*,40,5,16,0.313,0,0,5,16,0.313,0.313,1,2,0.5,10,11,21,0,1,2,0,3,11,12.9,A,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+15,49,15,2011-01-11,Connecticut,,Rutgers,REG (Conf),W 67-53,*,27,7,11,0.636,0,0,7,11,0.636,0.636,3,5,0.6,2,10,12,0,0,4,1,2,17,16.7,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+16,50,16,2011-01-15,Connecticut,@,DePaul,REG (Conf),W 82-62,*,24,4,8,0.5,0,0,4,8,0.5,0.5,3,3,1.0,1,4,5,0,0,3,2,2,11,8.2,A,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+17,51,17,2011-01-17,Connecticut,,Villanova,REG (Conf),W 61-59,*,35,5,9,0.556,0,0,5,9,0.556,0.556,4,6,0.667,4,8,12,1,0,0,3,1,14,11.4,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+18,52,18,2011-01-22,Connecticut,,Tennessee,REG (Non-Conf),W 72-61,*,33,5,8,0.625,0,0,5,8,0.625,0.625,2,3,0.667,3,7,10,0,3,1,1,1,12,14.5,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+19,53,19,2011-01-25,Connecticut,@,Marquette,REG (Conf),W 76-68,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,1,2,1,1,1,2,5,6,3.8,A,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+20,54,20,2011-01-29,Connecticut,,Louisville,REG (Conf),L 78-79 (2OT),*,32,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,7,1,8,0,0,1,3,4,6,3.6,H,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+21,55,21,2011-02-02,Connecticut,,Syracuse,REG (Conf),L 58-66,*,31,3,9,0.333,0,0,3,9,0.333,0.333,3,4,0.75,3,2,5,2,0,5,2,3,9,7.9,H,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+22,56,22,2011-02-05,Connecticut,@,Seton Hall,REG (Conf),W 61-59,*,32,3,5,0.6,0,0,3,5,0.6,0.6,2,4,0.5,4,2,6,0,0,4,0,2,8,10.3,A,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+23,57,23,2011-02-10,Connecticut,@,St. John's (NY),REG (Conf),L 72-89,*,28,5,10,0.5,0,0,5,10,0.5,0.5,2,3,0.667,6,2,8,0,1,2,1,3,12,11.6,A,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+24,58,24,2011-02-13,Connecticut,,Providence,REG (Conf),W 75-57,*,20,2,7,0.286,0,0,2,7,0.286,0.286,0,2,0.0,2,4,6,0,0,0,1,2,4,-0.1,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+25,59,25,2011-02-16,Connecticut,,Georgetown,REG (Conf),W 78-70,*,32,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,3,5,8,0,0,1,0,2,10,10.6,H,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+26,60,26,2011-02-18,Connecticut,@,Louisville,REG (Conf),L 58-71,*,34,5,8,0.625,0,0,5,8,0.625,0.625,3,6,0.5,4,4,8,0,0,1,1,3,13,10.7,A,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+27,61,27,2011-02-24,Connecticut,,Marquette,REG (Conf),L 67-74 (OT),*,43,6,10,0.6,0,0,6,10,0.6,0.6,0,1,0.0,9,6,15,0,0,0,5,2,12,9.3,H,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+28,62,28,2011-02-27,Connecticut,@,Cincinnati,REG (Conf),W 67-59,*,26,1,5,0.2,0,0,1,5,0.2,0.2,1,3,0.333,2,1,3,0,0,1,0,1,3,1.1,A,1,1,alex-oriakhi-1,Alex Oriakhi,2011
+29,63,29,2011-03-02,Connecticut,@,West Virginia,REG (Conf),L 56-65,*,36,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,1,8,9,0,1,0,1,2,4,2.8,A,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+30,64,30,2011-03-05,Connecticut,,Notre Dame,REG (Conf),L 67-70,,24,2,4,0.5,0,0,2,4,0.5,0.5,1,1,1.0,1,1,2,0,0,1,0,2,5,3.9,H,0,1,alex-oriakhi-1,Alex Oriakhi,2011
+31,65,31,2011-03-08,Connecticut,N,DePaul,CTOURN,W 97-71,,25,5,9,0.556,0,0,5,9,0.556,0.556,3,3,1.0,6,13,19,0,0,1,1,3,13,15.3,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+32,66,32,2011-03-09,Connecticut,N,Georgetown,CTOURN,W 79-62,*,24,1,4,0.25,0,0,1,4,0.25,0.25,3,4,0.75,2,3,5,0,1,0,0,4,5,3.9,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+33,67,33,2011-03-10,Connecticut,N,Pittsburgh,CTOURN,W 76-74,*,28,5,8,0.625,0,0,5,8,0.625,0.625,3,6,0.5,5,2,7,0,0,0,0,3,13,11.1,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+34,68,34,2011-03-11,Connecticut,N,Syracuse,CTOURN,W 76-71 (OT),*,37,5,10,0.5,0,0,5,10,0.5,0.5,5,7,0.714,6,5,11,2,1,1,0,5,15,16.0,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+35,69,35,2011-03-12,Connecticut,N,Louisville,CTOURN,W 69-66,*,31,4,7,0.571,0,0,4,7,0.571,0.571,2,2,1.0,4,4,8,0,1,0,1,1,10,10.3,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+36,70,36,2011-03-17,Connecticut,N,Bucknell,ROUND-64,W 81-52,*,19,4,9,0.444,0,0,4,9,0.444,0.444,1,2,0.5,5,7,12,1,0,2,0,3,9,10.4,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+37,71,37,2011-03-19,Connecticut,N,Cincinnati,ROUND-32,W 69-58,*,31,0,6,0.0,0,0,0,6,0.0,0.0,4,6,0.667,3,8,11,0,0,0,0,4,4,1.9,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+38,72,38,2011-03-24,Connecticut,N,San Diego State,ROUND-16,W 74-67,*,35,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,4,5,9,2,0,1,2,3,5,3.7,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+39,73,39,2011-03-26,Connecticut,N,Arizona,ROUND-8,W 65-63,*,20,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,4,2,6,0,0,1,1,4,7,6.5,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+40,74,40,2011-04-02,Connecticut,N,Kentucky,NATIONAL-SEMI,W 56-55,*,27,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,8,10,1,0,1,1,2,8,8.8,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011
+41,75,41,2011-04-04,Connecticut,N,Butler,NATIONAL-FINAL,W 53-41,*,25,5,6,0.833,0,0,5,6,0.833,0.833,1,1,1.0,2,9,11,0,0,4,0,2,11,14.9,N,1,0,alex-oriakhi-1,Alex Oriakhi,2011

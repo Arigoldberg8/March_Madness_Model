@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,20,1,2013-11-08,Providence,,Boston College,REG (Non-Conf),W 82-78 (OT),*,38,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,2,1.0,1,4,5,4,2,1,4,5,4,1.6,H,1,1,tyler-harris-1,Tyler Harris,2014
+2,21,2,2013-11-13,Providence,,Brown,REG (Non-Conf),W 73-69,*,33,6,13,0.462,1,3,0.333,5,10,0.5,0.5,8,8,1.0,2,5,7,1,0,0,3,2,21,14.1,H,1,1,tyler-harris-1,Tyler Harris,2014
+3,22,3,2013-11-16,Providence,,Marist,REG (Non-Conf),W 93-48,*,29,6,9,0.667,1,1,1.0,5,8,0.625,0.722,0,0,,3,2,5,2,3,0,5,2,13,10.4,H,1,1,tyler-harris-1,Tyler Harris,2014
+4,23,4,2013-11-18,Providence,,Vermont,REG (Non-Conf),W 70-49,*,21,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,2,3,0,0,0,1,3,5,0.0,H,1,1,tyler-harris-1,Tyler Harris,2014
+5,24,5,2013-11-22,Providence,N,Vanderbilt,REG (Non-Conf),W 67-60,*,33,6,12,0.5,2,4,0.5,4,8,0.5,0.583,1,3,0.333,1,3,4,1,1,0,1,2,15,9.7,N,1,1,tyler-harris-1,Tyler Harris,2014
+6,25,6,2013-11-24,Providence,N,La Salle,REG (Non-Conf),W 71-63,*,33,6,12,0.5,1,2,0.5,5,10,0.5,0.542,9,9,1.0,4,5,9,0,1,1,1,2,22,20.2,N,1,1,tyler-harris-1,Tyler Harris,2014
+7,26,7,2013-11-25,Providence,N,Maryland,REG (Non-Conf),L 52-56,*,36,2,9,0.222,0,1,0.0,2,8,0.25,0.222,6,6,1.0,2,1,3,1,1,1,1,3,10,6.4,N,0,1,tyler-harris-1,Tyler Harris,2014
+8,27,8,2013-11-29,Providence,,Fairfield,REG (Non-Conf),W 78-69,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,8,8,1.0,1,1,2,1,1,0,1,5,16,13.8,H,1,1,tyler-harris-1,Tyler Harris,2014
+9,28,9,2013-12-01,Providence,N,Kentucky,REG (Non-Conf),L 65-79,*,36,4,13,0.308,1,3,0.333,3,10,0.3,0.346,1,3,0.333,1,2,3,1,0,0,1,3,10,1.5,N,0,1,tyler-harris-1,Tyler Harris,2014
+10,29,10,2013-12-05,Providence,@,Rhode Island,REG (Non-Conf),W 50-49,*,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,3,4,7,2,0,0,1,2,11,10.2,A,1,1,tyler-harris-1,Tyler Harris,2014
+11,30,11,2013-12-17,Providence,,Yale,REG (Non-Conf),W 76-74,*,36,7,18,0.389,3,7,0.429,4,11,0.364,0.472,2,2,1.0,3,1,4,2,0,0,2,1,19,10.6,H,1,1,tyler-harris-1,Tyler Harris,2014
+12,31,12,2013-12-21,Providence,,Maine,REG (Non-Conf),W 94-70,*,21,8,11,0.727,2,5,0.4,6,6,1.0,0.818,0,0,,4,2,6,1,1,0,3,3,18,14.4,H,1,1,tyler-harris-1,Tyler Harris,2014
+13,32,13,2013-12-28,Providence,@,Massachusetts,REG (Non-Conf),L 67-69 (OT),*,38,5,14,0.357,0,4,0.0,5,10,0.5,0.357,6,6,1.0,3,6,9,5,3,1,2,3,16,16.1,A,0,1,tyler-harris-1,Tyler Harris,2014
+14,33,14,2013-12-31,Providence,,Seton Hall,REG (Conf),L 80-81 (2OT),*,47,8,14,0.571,2,4,0.5,6,10,0.6,0.643,4,6,0.667,3,6,9,0,2,1,5,3,22,15.0,H,0,1,tyler-harris-1,Tyler Harris,2014
+15,34,15,2014-01-05,Providence,@,Villanova,REG (Conf),L 61-91,*,32,1,9,0.111,0,0,,1,9,0.111,0.111,3,4,0.75,3,1,4,1,1,0,6,1,5,-3.6,A,0,1,tyler-harris-1,Tyler Harris,2014
+16,35,16,2014-01-08,Providence,,Georgetown,REG (Conf),W 70-52,*,28,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,1,2,3,3,5,2,-0.7,H,1,1,tyler-harris-1,Tyler Harris,2014
+17,36,17,2014-01-16,Providence,@,St. John's (NY),REG (Conf),W 84-83 (2OT),*,44,6,9,0.667,1,2,0.5,5,7,0.714,0.722,5,8,0.625,2,2,4,1,2,2,2,4,18,15.4,A,1,1,tyler-harris-1,Tyler Harris,2014
+18,37,18,2014-01-18,Providence,,Creighton,REG (Conf),W 81-68,*,17,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,3,2,5,1,1,0,0,4,10,10.9,H,1,1,tyler-harris-1,Tyler Harris,2014
+19,38,19,2014-01-21,Providence,,Butler,REG (Conf),W 65-56,*,25,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,1,1.0,2,3,5,2,1,0,3,4,12,9.2,H,1,1,tyler-harris-1,Tyler Harris,2014
+20,39,20,2014-01-25,Providence,,Xavier,REG (Conf),W 81-72,*,26,2,5,0.4,1,2,0.5,1,3,0.333,0.5,7,8,0.875,1,5,6,2,0,1,2,4,12,9.6,H,1,1,tyler-harris-1,Tyler Harris,2014
+21,40,21,2014-01-30,Providence,@,Marquette,REG (Conf),L 50-61,*,35,1,10,0.1,1,4,0.25,0,6,0.0,0.15,0,0,,5,6,11,0,2,0,5,2,3,-2.1,A,0,1,tyler-harris-1,Tyler Harris,2014
+22,41,22,2014-02-01,Providence,@,DePaul,REG (Conf),W 77-72,*,36,5,7,0.714,2,2,1.0,3,5,0.6,0.857,6,6,1.0,3,2,5,2,1,2,1,4,18,19.0,A,1,1,tyler-harris-1,Tyler Harris,2014
+23,42,23,2014-02-04,Providence,,St. John's (NY),REG (Conf),L 76-86,*,20,1,8,0.125,0,3,0.0,1,5,0.2,0.125,0,0,,1,2,3,2,0,0,3,0,2,-3.5,H,0,1,tyler-harris-1,Tyler Harris,2014
+24,43,24,2014-02-08,Providence,@,Xavier,REG (Conf),L 53-59,*,23,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,1,2,3,0,0,0,1,4,2,-3.8,A,0,1,tyler-harris-1,Tyler Harris,2014
+25,44,25,2014-02-10,Providence,@,Georgetown,REG (Conf),L 71-83,*,35,4,9,0.444,1,4,0.25,3,5,0.6,0.5,4,4,1.0,0,2,2,3,0,1,3,5,13,6.7,A,0,1,tyler-harris-1,Tyler Harris,2014
+26,45,26,2014-02-15,Providence,,DePaul,REG (Conf),W 84-61,*,34,3,11,0.273,0,2,0.0,3,9,0.333,0.273,4,4,1.0,2,4,6,0,1,1,2,2,10,5.0,H,1,1,tyler-harris-1,Tyler Harris,2014
+27,46,27,2014-02-18,Providence,,Villanova,REG (Conf),L 79-82 (2OT),*,47,6,12,0.5,2,3,0.667,4,9,0.444,0.583,1,1,1.0,6,6,12,1,3,0,4,2,15,13.9,H,0,1,tyler-harris-1,Tyler Harris,2014
+28,47,28,2014-02-23,Providence,@,Butler,REG (Conf),W 87-81,*,32,4,5,0.8,2,3,0.667,2,2,1.0,1.0,4,6,0.667,1,2,3,3,1,0,0,2,14,14.9,A,1,1,tyler-harris-1,Tyler Harris,2014
+29,48,29,2014-02-28,Providence,@,Seton Hall,REG (Conf),W 74-69,*,37,5,10,0.5,0,3,0.0,5,7,0.714,0.5,1,1,1.0,1,5,6,1,0,2,1,2,11,8.5,A,1,1,tyler-harris-1,Tyler Harris,2014
+30,49,30,2014-03-04,Providence,,Marquette,REG (Conf),W 81-80 (2OT),*,48,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,2,2,3,1,1,1,4,6,5.8,H,1,1,tyler-harris-1,Tyler Harris,2014
+31,50,31,2014-03-08,Providence,@,Creighton,REG (Conf),L 73-88,*,21,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,3,4,0,1,1,2,5,4,-0.8,A,0,1,tyler-harris-1,Tyler Harris,2014
+32,51,32,2014-03-13,Providence,N,St. John's (NY),CTOURN,W 79-74,*,27,3,10,0.3,0,0,,3,10,0.3,0.3,0,1,0.0,6,4,10,2,1,0,2,4,6,4.0,N,1,0,tyler-harris-1,Tyler Harris,2014
+33,52,33,2014-03-14,Providence,N,Seton Hall,CTOURN,W 80-74,*,32,4,8,0.5,3,4,0.75,1,4,0.25,0.688,6,8,0.75,2,2,4,0,0,0,0,3,17,13.0,N,1,0,tyler-harris-1,Tyler Harris,2014
+34,53,34,2014-03-15,Providence,N,Creighton,CTOURN,W 65-58,*,40,2,8,0.25,0,2,0.0,2,6,0.333,0.25,6,8,0.75,1,2,3,2,1,1,2,2,10,6.0,N,1,0,tyler-harris-1,Tyler Harris,2014
+35,54,35,2014-03-21,Providence,N,North Carolina,ROUND-64,L 77-79,*,38,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,3,0.667,3,0,3,1,0,3,1,2,13,12.1,N,0,0,tyler-harris-1,Tyler Harris,2014

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2016-11-11,South Carolina,,Louisiana Tech,REG (Non-Conf),W 85-76,*,30,5,9,0.556,2,3,0.667,3,6,0.5,0.667,5,6,0.833,0,4,4,2,2,0,2,3,17,13.7,H,1,1,pj-dozier-1,PJ Dozier,2017
+2,36,2,2016-11-13,South Carolina,,Holy Cross,REG (Non-Conf),W 81-49,*,28,4,7,0.571,3,6,0.5,1,1,1.0,0.786,4,4,1.0,0,3,3,5,1,0,2,3,15,13.9,H,1,1,pj-dozier-1,PJ Dozier,2017
+3,37,3,2016-11-15,South Carolina,,Monmouth,REG (Non-Conf),W 70-69 (OT),*,30,3,10,0.3,0,2,0.0,3,8,0.375,0.3,0,0,,0,2,2,2,1,0,3,2,6,-0.6,H,1,1,pj-dozier-1,PJ Dozier,2017
+4,38,4,2016-11-18,South Carolina,,South Carolina State,REG (Non-Conf),W 92-50,*,21,2,7,0.286,2,4,0.5,0,3,0.0,0.429,2,2,1.0,0,2,2,6,3,0,1,1,8,10.3,H,1,1,pj-dozier-1,PJ Dozier,2017
+5,39,5,2016-11-23,South Carolina,,Michigan,REG (Non-Conf),W 61-46,*,17,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,1,2,0,2,1,3,4,0,-4.4,H,1,1,pj-dozier-1,PJ Dozier,2017
+6,40,6,2016-11-26,South Carolina,N,Syracuse,REG (Non-Conf),W 64-50,*,29,7,16,0.438,1,4,0.25,6,12,0.5,0.469,0,0,,2,8,10,1,3,0,3,3,15,9.9,N,1,1,pj-dozier-1,PJ Dozier,2017
+7,41,7,2016-12-01,South Carolina,,Vermont,REG (Non-Conf),W 68-50,*,32,9,15,0.6,3,5,0.6,6,10,0.6,0.7,0,1,0.0,1,5,6,1,3,0,3,3,21,15.4,H,1,1,pj-dozier-1,PJ Dozier,2017
+8,42,8,2016-12-04,South Carolina,,Florida International,REG (Non-Conf),W 70-54,*,22,7,13,0.538,2,4,0.5,5,9,0.556,0.615,4,6,0.667,1,6,7,3,4,0,0,2,20,20.7,H,1,1,pj-dozier-1,PJ Dozier,2017
+9,43,9,2016-12-12,South Carolina,N,Seton Hall,REG (Non-Conf),L 64-67,*,34,9,19,0.474,1,5,0.2,8,14,0.571,0.5,1,3,0.333,0,5,5,3,2,0,2,2,20,12.3,N,0,1,pj-dozier-1,PJ Dozier,2017
+10,44,10,2016-12-17,South Carolina,@,South Florida,REG (Non-Conf),W 77-66,*,28,9,18,0.5,2,4,0.5,7,14,0.5,0.556,3,5,0.6,1,4,5,5,3,0,2,4,23,18.0,A,1,1,pj-dozier-1,PJ Dozier,2017
+11,45,11,2016-12-21,South Carolina,,Clemson,REG (Non-Conf),L 60-62,*,34,10,22,0.455,2,5,0.4,8,17,0.471,0.5,4,5,0.8,3,5,8,5,4,2,4,2,26,21.9,H,0,1,pj-dozier-1,PJ Dozier,2017
+12,46,12,2016-12-27,South Carolina,,Lander,REG (Non-Conf),W 90-62,*,25,6,9,0.667,3,4,0.75,3,5,0.6,0.833,0,0,,1,2,3,3,2,0,0,3,15,15.3,H,1,1,pj-dozier-1,PJ Dozier,2017
+13,47,13,2016-12-30,South Carolina,@,Memphis,REG (Non-Conf),L 54-70,*,24,5,16,0.313,2,5,0.4,3,11,0.273,0.375,1,2,0.5,1,4,5,2,1,0,2,5,13,3.7,A,0,1,pj-dozier-1,PJ Dozier,2017
+14,48,14,2017-01-04,South Carolina,@,Georgia,REG (Conf),W 67-61,*,33,9,17,0.529,2,5,0.4,7,12,0.583,0.588,4,4,1.0,0,7,7,5,1,0,2,1,24,19.9,A,1,1,pj-dozier-1,PJ Dozier,2017
+15,49,15,2017-01-07,South Carolina,,Texas A&M,REG (Conf),W 79-68,*,26,3,12,0.25,1,5,0.2,2,7,0.286,0.292,1,2,0.5,2,2,4,4,2,0,1,4,8,4.6,H,1,1,pj-dozier-1,PJ Dozier,2017
+16,50,16,2017-01-11,South Carolina,@,Tennessee,REG (Conf),W 70-60,*,19,2,10,0.2,1,1,1.0,1,9,0.111,0.25,1,1,1.0,1,3,4,2,1,0,6,5,6,-4.2,A,1,1,pj-dozier-1,PJ Dozier,2017
+17,51,17,2017-01-14,South Carolina,,Ole Miss,REG (Conf),W 67-56,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,7,10,0.7,2,3,5,3,0,0,2,0,16,12.5,H,1,1,pj-dozier-1,PJ Dozier,2017
+18,52,18,2017-01-18,South Carolina,,Florida,REG (Conf),W 57-53,*,30,2,9,0.222,0,3,0.0,2,6,0.333,0.222,6,9,0.667,0,2,2,0,0,1,1,4,10,2.0,H,1,1,pj-dozier-1,PJ Dozier,2017
+19,53,20,2017-01-24,South Carolina,,Auburn,REG (Conf),W 98-69,*,11,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,0,0,4,0,0,1,3,2,-0.5,H,1,1,pj-dozier-1,PJ Dozier,2017
+20,54,21,2017-01-28,South Carolina,@,Missouri,REG (Conf),W 63-53,*,23,3,13,0.231,1,4,0.25,2,9,0.222,0.269,0,2,0.0,2,3,5,0,0,1,3,3,7,-2.9,A,1,1,pj-dozier-1,PJ Dozier,2017
+21,55,22,2017-02-01,South Carolina,@,Louisiana State,REG (Conf),W 88-63,*,17,6,12,0.5,1,5,0.2,5,7,0.714,0.542,4,5,0.8,0,6,6,4,1,0,1,3,17,14.0,A,1,1,pj-dozier-1,PJ Dozier,2017
+22,56,23,2017-02-04,South Carolina,,Georgia,REG (Conf),W 77-75,*,36,7,14,0.5,1,3,0.333,6,11,0.545,0.536,6,12,0.5,0,3,3,3,2,1,0,1,21,16.9,H,1,1,pj-dozier-1,PJ Dozier,2017
+23,57,24,2017-02-07,South Carolina,,Alabama,REG (Conf),L 86-90 (4OT),*,54,8,24,0.333,3,8,0.375,5,16,0.313,0.396,2,6,0.333,1,4,5,2,4,0,3,5,21,8.1,H,0,1,pj-dozier-1,PJ Dozier,2017
+24,58,25,2017-02-11,South Carolina,@,Mississippi State,REG (Conf),W 77-73,*,27,2,10,0.2,0,2,0.0,2,8,0.25,0.2,0,2,0.0,0,4,4,3,1,0,1,3,4,-0.9,A,1,1,pj-dozier-1,PJ Dozier,2017
+25,59,26,2017-02-15,South Carolina,,Arkansas,REG (Conf),L 76-83,*,24,4,12,0.333,1,5,0.2,3,7,0.429,0.375,0,0,,0,3,3,6,0,0,4,4,9,1.7,H,0,1,pj-dozier-1,PJ Dozier,2017
+26,60,27,2017-02-18,South Carolina,@,Vanderbilt,REG (Conf),L 62-71,*,32,7,15,0.467,1,3,0.333,6,12,0.5,0.5,0,5,0.0,2,5,7,1,0,0,3,2,15,5.1,A,0,1,pj-dozier-1,PJ Dozier,2017
+27,61,28,2017-02-21,South Carolina,@,Florida,REG (Conf),L 66-81,*,31,4,16,0.25,0,4,0.0,4,12,0.333,0.25,0,0,,1,3,4,3,2,0,2,3,8,0.9,A,0,1,pj-dozier-1,PJ Dozier,2017
+28,62,29,2017-02-25,South Carolina,,Tennessee,REG (Conf),W 82-55,*,30,7,15,0.467,0,3,0.0,7,12,0.583,0.467,5,9,0.556,3,2,5,4,1,1,2,3,19,13.7,H,1,1,pj-dozier-1,PJ Dozier,2017
+29,63,30,2017-02-28,South Carolina,,Mississippi State,REG (Conf),W 63-57,*,36,3,15,0.2,1,7,0.143,2,8,0.25,0.233,2,5,0.4,3,6,9,1,3,0,2,1,9,3.7,H,1,1,pj-dozier-1,PJ Dozier,2017
+30,64,31,2017-03-04,South Carolina,@,Ole Miss,REG (Conf),L 70-75,*,37,5,17,0.294,1,6,0.167,4,11,0.364,0.324,2,2,1.0,5,4,9,4,1,1,1,4,13,9.7,A,0,1,pj-dozier-1,PJ Dozier,2017
+31,65,32,2017-03-10,South Carolina,N,Alabama,CTOURN,L 53-64,*,34,5,13,0.385,1,4,0.25,4,9,0.444,0.423,4,5,0.8,1,4,5,2,2,0,4,2,15,8.0,N,0,0,pj-dozier-1,PJ Dozier,2017
+32,66,33,2017-03-17,South Carolina,N,Marquette,ROUND-64,W 93-73,*,31,9,14,0.643,1,3,0.333,8,11,0.727,0.679,2,6,0.333,0,4,4,4,2,0,3,1,21,15.8,N,1,0,pj-dozier-1,PJ Dozier,2017
+33,67,34,2017-03-19,South Carolina,N,Duke,ROUND-32,W 88-81,*,26,5,12,0.417,0,4,0.0,5,8,0.625,0.417,1,1,1.0,1,1,2,2,1,0,3,5,11,3.0,N,1,0,pj-dozier-1,PJ Dozier,2017
+34,68,35,2017-03-24,South Carolina,N,Baylor,ROUND-16,W 70-50,*,29,5,12,0.417,1,4,0.25,4,8,0.5,0.458,1,2,0.5,1,5,6,3,2,0,2,2,12,8.7,N,1,0,pj-dozier-1,PJ Dozier,2017
+35,69,36,2017-03-26,South Carolina,N,Florida,ROUND-8,W 77-70,*,36,7,11,0.636,0,2,0.0,7,9,0.778,0.636,3,3,1.0,0,3,3,1,1,1,2,2,17,12.6,N,1,0,pj-dozier-1,PJ Dozier,2017
+36,70,37,2017-04-01,South Carolina,N,Gonzaga,NATIONAL-SEMI,L 73-77,*,30,7,16,0.438,1,3,0.333,6,13,0.462,0.469,2,4,0.5,3,6,9,2,2,1,2,2,17,13.0,N,0,0,pj-dozier-1,PJ Dozier,2017

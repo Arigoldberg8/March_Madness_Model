@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2010-11-14,Purdue,,Howard,REG (Non-Conf),W 76-40,,12,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,2,1,0,1,2,2,-0.9,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+2,37,2,2010-11-17,Purdue,,Alcorn State,REG (Non-Conf),W 103-48,,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,0,1,1,2,1,0,4,5,7,0.6,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+3,38,3,2010-11-21,Purdue,,Oakland,REG (Non-Conf),W 82-67,,20,1,3,0.333,0,0,,1,3,0.333,0.333,2,3,0.667,1,2,3,5,1,0,0,3,4,6.5,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+4,39,4,2010-11-23,Purdue,,Austin Peay,REG (Non-Conf),W 87-65,,14,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,2,0.5,2,0,2,1,3,0,0,4,9,10.2,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+5,40,5,2010-11-26,Purdue,N,Southern Illinois,REG (Non-Conf),W 79-60,,17,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,2,0,2,0,0,0,4,4,7,0.5,N,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+6,41,6,2010-11-27,Purdue,N,Richmond,REG (Non-Conf),L 54-65,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,0,2,2,0,0,1,2,2,5,1.4,N,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+7,42,7,2010-12-01,Purdue,@,Virginia Tech,REG (Non-Conf),W 58-55 (OT),,26,2,6,0.333,0,0,,2,6,0.333,0.333,0,2,0.0,3,2,5,0,2,1,2,4,4,1.6,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+8,43,8,2010-12-04,Purdue,,Alabama,REG (Non-Conf),W 66-47,*,30,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,3,5,3,1,1,4,2,4,2.9,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+9,44,9,2010-12-07,Purdue,@,Valparaiso,REG (Non-Conf),W 76-58,*,24,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,4,0.75,0,3,3,3,2,1,1,3,13,13.2,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+10,45,10,2010-12-11,Purdue,,North Florida,REG (Non-Conf),W 77-57,*,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,3,0.667,1,2,3,3,1,0,3,2,4,3.2,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+11,46,11,2010-12-18,Purdue,N,Indiana State,REG (Non-Conf),W 65-52,*,27,0,4,0.0,0,0,,0,4,0.0,0.0,3,4,0.75,0,11,11,2,0,1,1,3,3,3.0,N,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+12,47,12,2010-12-21,Purdue,,IPFW,REG (Non-Conf),W 77-52,*,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,3,1,0,4,2,2,0.6,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+13,48,13,2010-12-28,Purdue,@,Michigan,REG (Conf),W 80-57,,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,3,4,2,2,0,2,3,4,3.8,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+14,49,14,2010-12-31,Purdue,,Northwestern,REG (Conf),W 82-69,,20,1,2,0.5,0,0,,1,2,0.5,0.5,3,6,0.5,2,1,3,1,1,0,1,1,5,4.8,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+15,50,15,2011-01-05,Purdue,@,Penn State,REG (Conf),W 83-68,*,26,3,7,0.429,0,0,,3,7,0.429,0.429,4,6,0.667,1,5,6,1,0,0,3,3,10,4.2,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+16,51,16,2011-01-09,Purdue,,Iowa,REG (Conf),W 75-52,,14,4,5,0.8,0,0,,4,5,0.8,0.8,3,3,1.0,2,2,4,3,0,1,2,0,11,11.9,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+17,52,17,2011-01-13,Purdue,@,Minnesota,REG (Conf),L 67-70,,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,1,2,2,1,0,0,3,2,1.8,A,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+18,53,18,2011-01-16,Purdue,@,West Virginia,REG (Non-Conf),L 64-68,,21,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,1,2,3,1,0,0,1,2,8,6.3,A,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+19,54,19,2011-01-19,Purdue,,Penn State,REG (Conf),W 63-62,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,1,1,1,1,0,0,2,6,5.2,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+20,55,20,2011-01-22,Purdue,,Michigan State,REG (Conf),W 86-76,,19,1,1,1.0,0,0,,1,1,1.0,1.0,4,6,0.667,0,1,1,4,0,2,2,2,6,6.6,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+21,56,21,2011-01-25,Purdue,@,Ohio State,REG (Conf),L 64-87,,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,1,1,1,2,4,2,-2.0,A,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+22,57,22,2011-01-29,Purdue,,Minnesota,REG (Conf),W 73-61,,10,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,2,0,0,0,1,0,-0.1,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+23,58,23,2011-02-01,Purdue,@,Wisconsin,REG (Conf),L 59-66,,13,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,0,3,3,0,0,0,2,3,3,0.4,A,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+24,59,24,2011-02-08,Purdue,,Indiana,REG (Conf),W 67-53,,25,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,6,8,4,3,1,0,0,3,11.3,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+25,60,25,2011-02-13,Purdue,@,Illinois,REG (Conf),W 81-70,,23,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,2,3,5,1,0,0,2,3,9,7.2,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+26,61,26,2011-02-16,Purdue,,Wisconsin,REG (Conf),W 70-62,,22,1,2,0.5,0,0,,1,2,0.5,0.5,4,5,0.8,1,1,2,1,0,0,0,3,6,5.1,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+27,62,27,2011-02-20,Purdue,,Ohio State,REG (Conf),W 76-63,,19,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,2,2,0,1,0,2,4,8,3.4,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+28,63,28,2011-02-23,Purdue,@,Indiana,REG (Conf),W 72-61,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,0,0,1,4,4,1.1,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+29,64,29,2011-02-27,Purdue,@,Michigan State,REG (Conf),W 67-47,,17,1,2,0.5,1,1,1.0,0,1,0.0,0.75,3,4,0.75,0,2,2,1,1,0,2,3,6,3.7,A,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+30,65,30,2011-03-01,Purdue,,Illinois,REG (Conf),W 75-67,,20,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,0,0,0,1,0,0,1,1,2,-0.8,H,1,1,kelsey-barlow-1,Kelsey Barlow,2011
+31,66,31,2011-03-05,Purdue,@,Iowa,REG (Conf),L 65-67,,14,1,3,0.333,0,0,,1,3,0.333,0.333,2,5,0.4,0,0,0,0,1,0,2,3,4,-1.1,A,0,1,kelsey-barlow-1,Kelsey Barlow,2011
+32,67,32,2011-03-11,Purdue,N,Michigan State,CTOURN,L 56-74,,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,4,0.25,0,1,1,1,1,0,1,3,1,-2.5,N,0,0,kelsey-barlow-1,Kelsey Barlow,2011

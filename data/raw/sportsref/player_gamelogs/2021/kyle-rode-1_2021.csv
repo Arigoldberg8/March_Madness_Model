@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2020-11-25,Liberty,N,Purdue,REG (Non-Conf),L 64-77,*,27,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,1,2,4,1,0,1,2,6,6.3,N,0,1,kyle-rode-1,Kyle Rode,2021
+2,35,2,2020-11-26,Liberty,N,Mississippi State,REG (Non-Conf),W 84-73,*,17,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,1,0,1,3,1,0,0,3,1,1.8,N,1,1,kyle-rode-1,Kyle Rode,2021
+3,36,3,2020-11-28,Liberty,N,South Carolina,REG (Non-Conf),W 78-62,*,30,4,7,0.571,2,5,0.4,2,2,1.0,0.714,8,9,0.889,4,2,6,1,2,0,2,2,18,17.6,N,1,1,kyle-rode-1,Kyle Rode,2021
+4,37,4,2020-11-29,Liberty,N,TCU,REG (Non-Conf),L 52-56,*,19,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,0,1,0,-1.2,N,0,1,kyle-rode-1,Kyle Rode,2021
+5,38,5,2020-12-03,Liberty,,Saint Francis (PA),REG (Non-Conf),W 78-62,*,22,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,3,3,3,0,1,3,2,4,1.2,H,1,1,kyle-rode-1,Kyle Rode,2021
+6,39,6,2020-12-05,Liberty,,Bluefield Univ.,REG (Non-Conf),W 86-64,*,22,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,4,2,6,0,2,0,0,0,7,8.3,H,1,1,kyle-rode-1,Kyle Rode,2021
+7,40,7,2020-12-09,Liberty,@,Missouri,REG (Non-Conf),L 60-69,*,28,3,5,0.6,2,2,1.0,1,3,0.333,0.8,2,2,1.0,0,2,2,1,0,1,0,2,10,8.9,A,0,1,kyle-rode-1,Kyle Rode,2021
+8,41,8,2020-12-12,Liberty,,Columbia Intl,REG (Non-Conf),W 73-26,*,14,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,1,0.0,0,3,3,3,0,0,1,1,5,2.8,H,1,1,kyle-rode-1,Kyle Rode,2021
+9,42,9,2020-12-15,Liberty,,South Carolina State,REG (Non-Conf),W 82-52,*,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,2,0,0,0,0,3,4.3,H,1,1,kyle-rode-1,Kyle Rode,2021
+10,43,10,2020-12-16,Liberty,,Carver,REG (Non-Conf),W 91-38,*,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,5,5,5,0,0,0,0,0,4.3,H,1,1,kyle-rode-1,Kyle Rode,2021
+11,44,11,2020-12-22,Liberty,,Alcorn State,REG (Non-Conf),W 108-65,*,23,5,6,0.833,3,4,0.75,2,2,1.0,1.083,1,4,0.25,1,1,2,9,2,0,0,2,14,19.1,H,1,1,kyle-rode-1,Kyle Rode,2021
+12,45,12,2021-01-01,Liberty,@,Lipscomb,REG (Conf),L 70-77,*,22,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,1,2,2,0,0,2,5,4,-0.3,A,0,1,kyle-rode-1,Kyle Rode,2021
+13,46,13,2021-01-02,Liberty,@,Lipscomb,REG (Conf),W 66-50,*,26,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,2,1,3,0,2,0,1,1,12,11.4,A,1,1,kyle-rode-1,Kyle Rode,2021
+14,47,14,2021-01-08,Liberty,,Kennesaw State,REG (Conf),W 69-63,*,23,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,2,1.0,0,3,3,0,0,0,0,4,4,-0.5,H,1,1,kyle-rode-1,Kyle Rode,2021
+15,48,15,2021-01-09,Liberty,,Kennesaw State,REG (Conf),W 76-47,*,26,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,2,3,5,1,1,0,1,3,5.3,H,1,1,kyle-rode-1,Kyle Rode,2021
+16,49,16,2021-01-15,Liberty,@,Stetson,REG (Conf),L 59-65,*,31,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,0,1,1,0,1,3,3,5,-0.5,A,0,1,kyle-rode-1,Kyle Rode,2021
+17,50,17,2021-01-16,Liberty,@,Stetson,REG (Conf),W 68-58,*,29,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,1,0.0,2,3,5,3,0,0,2,0,11,10.1,A,1,1,kyle-rode-1,Kyle Rode,2021
+18,51,18,2021-01-29,Liberty,@,Jacksonville,REG (Conf),W 59-54,*,31,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,3,5,8,1,0,1,4,1,7,4.6,A,1,1,kyle-rode-1,Kyle Rode,2021
+19,52,19,2021-01-30,Liberty,@,Jacksonville,REG (Conf),W 64-58,*,29,2,9,0.222,0,7,0.0,2,2,1.0,0.222,0,0,,1,5,6,4,1,0,2,4,4,0.9,A,1,1,kyle-rode-1,Kyle Rode,2021
+20,53,20,2021-02-05,Liberty,,Lancaster Bible,REG (Non-Conf),W 90-49,*,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,1,2,3,2,1,1,0,0,6,8.0,H,1,1,kyle-rode-1,Kyle Rode,2021
+21,54,21,2021-02-12,Liberty,,North Florida,REG (Conf),W 73-61,*,27,4,7,0.571,0,2,0.0,4,5,0.8,0.571,3,4,0.75,3,3,6,8,0,0,2,2,11,13.1,H,1,1,kyle-rode-1,Kyle Rode,2021
+22,55,22,2021-02-13,Liberty,,North Florida,REG (Conf),W 80-60,*,32,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,2,6,8,5,1,0,1,1,10,13.4,H,1,1,kyle-rode-1,Kyle Rode,2021
+23,56,23,2021-02-22,Liberty,,North Alabama,REG (Conf),W 74-54,*,26,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,6,7,2,0,1,0,1,6,8.6,H,1,1,kyle-rode-1,Kyle Rode,2021
+24,57,24,2021-02-23,Liberty,,North Alabama,REG (Conf),W 74-54,*,25,5,10,0.5,2,7,0.286,3,3,1.0,0.6,1,1,1.0,1,5,6,0,1,0,0,3,13,10.0,H,1,1,kyle-rode-1,Kyle Rode,2021
+25,58,25,2021-02-27,Liberty,@,Bellarmine,REG (Conf),W 94-78,*,35,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,7,7,9,0,0,4,2,10,11.0,A,1,1,kyle-rode-1,Kyle Rode,2021
+26,59,26,2021-03-04,Liberty,N,Kennesaw State,CTOURN,W 69-59,*,34,5,8,0.625,3,3,1.0,2,5,0.4,0.813,2,2,1.0,1,4,5,1,2,0,1,2,15,14.2,N,1,0,kyle-rode-1,Kyle Rode,2021
+27,60,27,2021-03-05,Liberty,N,Stetson,CTOURN,W 77-64,*,33,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,2,3,2,1,0,1,1,9,8.7,N,1,0,kyle-rode-1,Kyle Rode,2021
+28,61,28,2021-03-07,Liberty,N,North Alabama,CTOURN,W 79-75,*,35,6,8,0.75,3,4,0.75,3,4,0.75,0.938,0,0,,1,5,6,5,1,0,3,1,15,15.1,N,1,0,kyle-rode-1,Kyle Rode,2021
+29,62,29,2021-03-19,Liberty,N,Oklahoma State,ROUND-64,L 60-69,*,29,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,3,2,0,0,4,2,3.7,N,0,0,kyle-rode-1,Kyle Rode,2021

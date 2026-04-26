@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2022-11-07,Howard,@,Kentucky,REG (Non-Conf),L 63-95,*,23,8,9,0.889,0,0,,8,9,0.889,0.889,1,1,1.0,4,1,5,1,0,0,1,3,17,15.5,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+2,64,2,2022-11-09,Howard,,Dist. Columbia,REG (Non-Conf),W 87-74,*,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,4,0.25,0,0,0,3,1,1,3,1,3,0.5,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+3,65,7,2022-11-19,Howard,N,Buffalo,REG (Non-Conf),W 63-59,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,4,0,4,1,0,0,3,1,2,1.1,N,1,1,kobe-dickson-1,Kobe Dickson,2023
+4,66,8,2022-11-21,Howard,N,Belmont,REG (Non-Conf),L 73-96,,10,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,1,2,1,0,0,1,1,2,1.6,N,0,1,kobe-dickson-1,Kobe Dickson,2023
+5,67,9,2022-11-26,Howard,@,Austin Peay,REG (Non-Conf),W 56-55,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,3,0,0,5,3,4,-2.6,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+6,68,10,2022-11-30,Howard,@,Yale,REG (Non-Conf),L 40-86,*,30,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,1,0.0,1,1,2,5,0,0,5,4,8,0.8,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+7,69,11,2022-12-03,Howard,@,Hampton,REG (Non-Conf),L 65-74,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,6,0.167,0,1,1,2,0,0,1,3,5,0.5,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+8,70,12,2022-12-11,Howard,@,VCU,REG (Non-Conf),L 60-70,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,3,0,0,0,1,2,3.0,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+9,71,13,2022-12-13,Howard,,Florida International,REG (Non-Conf),W 71-59,,18,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,1,2,1,4,2.7,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+10,72,14,2022-12-18,Howard,@,Harvard,REG (Non-Conf),W 66-54,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,0,2,2,2,0.3,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+11,73,15,2022-12-21,Howard,,Mount St. Mary's,REG (Non-Conf),W 63-62,,4,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,0,0,1,0,0,1,1.6,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+12,74,16,2022-12-29,Howard,,La Salle,REG (Non-Conf),L 76-80,,16,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,5,0.8,0,0,0,1,0,0,1,3,10,6.5,H,0,1,kobe-dickson-1,Kobe Dickson,2023
+13,75,17,2023-01-07,Howard,,Delaware State,REG (Conf),W 84-64,,13,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,1,1,2,2,0,0,0,2,3,2.9,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+14,76,18,2023-01-09,Howard,@,Maryland Eastern Shore,REG (Conf),L 73-82,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,3,0,-3.9,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+15,77,19,2023-01-14,Howard,@,Norfolk State,REG (Conf),W 86-84,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,4,0,-2.3,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+16,78,20,2023-01-16,Howard,,Morehouse,REG (Non-Conf),W 89-65,,10,3,3,1.0,0,0,,3,3,1.0,1.0,6,8,0.75,2,1,3,1,0,0,0,3,12,11.5,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+17,79,21,2023-01-21,Howard,,Morgan State,REG (Conf),W 88-56,,18,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,2,1,3,1,0,0,1,1,13,11.1,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+18,80,22,2023-01-23,Howard,,Coppin State,REG (Conf),W 90-76,,19,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,2,2,1,0,0,2,1,8,5.0,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+19,81,23,2023-01-28,Howard,,North Carolina Central,REG (Conf),W 71-67,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,5,0,-2.4,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+20,82,24,2023-01-30,Howard,,South Carolina State,REG (Conf),W 100-74,,10,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,0,0,2,0,0,1,4,8,5.6,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+21,83,25,2023-02-11,Howard,@,Delaware State,REG (Conf),W 86-85 (OT),,14,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,0,0,0,0,0,3,2,4,-0.1,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+22,84,26,2023-02-13,Howard,,Maryland Eastern Shore,REG (Conf),W 78-69,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,3,5,8,3,0,1,2,5,4,4.7,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+23,85,27,2023-02-18,Howard,@,Coppin State,REG (Conf),W 80-70,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,1,0,0,0.3,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+24,86,28,2023-02-20,Howard,@,Morgan State,REG (Conf),L 76-89,,9,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,2,0,2,1,1,0,1,3,8,8.3,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+25,87,29,2023-02-25,Howard,@,North Carolina Central,REG (Conf),L 60-68,,27,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,6,2,8,0,0,0,5,0,10,4.8,A,0,1,kobe-dickson-1,Kobe Dickson,2023
+26,88,30,2023-02-27,Howard,@,South Carolina State,REG (Conf),W 82-78,,15,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,0,2,0,0,0,3,4,5,0.1,A,1,1,kobe-dickson-1,Kobe Dickson,2023
+27,89,31,2023-03-02,Howard,,Norfolk State,REG (Conf),W 87-67,,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,0,2,0,0,0,1,4,6,3.5,H,1,1,kobe-dickson-1,Kobe Dickson,2023
+28,90,32,2023-03-08,Howard,N,South Carolina State,CTOURN,W 91-55,,13,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,2,1,1,1,0,4,5.1,N,1,0,kobe-dickson-1,Kobe Dickson,2023
+29,91,33,2023-03-10,Howard,N,Maryland Eastern Shore,CTOURN,W 74-55,,11,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,2,0,0,-1.3,N,1,0,kobe-dickson-1,Kobe Dickson,2023
+30,92,34,2023-03-11,Howard,N,Norfolk State,CTOURN,W 65-64,,15,0,2,0.0,0,0,,0,2,0.0,0.0,2,4,0.5,2,0,2,3,0,1,1,0,2,3.0,N,1,0,kobe-dickson-1,Kobe Dickson,2023
+31,93,35,2023-03-16,Howard,N,Kansas,ROUND-64,L 68-96,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,0,0,1,0,4,3.3,N,0,0,kobe-dickson-1,Kobe Dickson,2023

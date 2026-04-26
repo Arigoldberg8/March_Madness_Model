@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2011-11-11,Ohio State,,Wright State,REG (Non-Conf),W 73-42,*,28,1,3,0.333,1,1,1.0,0,2,0.0,0.5,7,8,0.875,0,3,3,3,3,0,1,3,10,11.7,H,1,1,aaron-craft-1,Aaron Craft,2012
+2,39,2,2011-11-15,Ohio State,,Florida,REG (Non-Conf),W 81-74,*,37,4,11,0.364,0,2,0.0,4,9,0.444,0.364,5,8,0.625,0,3,3,7,3,1,3,3,13,11.0,H,1,1,aaron-craft-1,Aaron Craft,2012
+3,40,3,2011-11-18,Ohio State,,Jackson State,REG (Non-Conf),W 85-41,*,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,4,5,0,1,0,2,8.1,H,1,1,aaron-craft-1,Aaron Craft,2012
+4,41,4,2011-11-21,Ohio State,,North Florida,REG (Non-Conf),W 85-50,*,26,0,1,0.0,0,1,0.0,0,0,,0.0,2,4,0.5,0,5,5,3,3,0,2,3,2,3.9,H,1,1,aaron-craft-1,Aaron Craft,2012
+5,42,5,2011-11-23,Ohio State,,VMI,REG (Non-Conf),W 107-74,*,22,4,6,0.667,0,1,0.0,4,5,0.8,0.667,5,6,0.833,0,2,2,8,3,0,2,1,13,16.8,H,1,1,aaron-craft-1,Aaron Craft,2012
+6,43,6,2011-11-25,Ohio State,,Valparaiso,REG (Non-Conf),W 80-47,*,37,5,10,0.5,1,4,0.25,4,6,0.667,0.55,4,6,0.667,0,3,3,8,4,0,2,1,15,17.3,H,1,1,aaron-craft-1,Aaron Craft,2012
+7,44,7,2011-11-29,Ohio State,,Duke,REG (Non-Conf),W 85-63,*,38,7,11,0.636,3,4,0.75,4,7,0.571,0.773,0,0,,1,4,5,8,1,0,4,2,17,15.8,H,1,1,aaron-craft-1,Aaron Craft,2012
+8,45,8,2011-12-03,Ohio State,,Texas–Pan American,REG (Non-Conf),W 64-35,*,24,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,2,2,3,1,0,1,1,6,4.6,H,1,1,aaron-craft-1,Aaron Craft,2012
+9,46,9,2011-12-10,Ohio State,@,Kansas,REG (Non-Conf),L 67-78,*,38,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,2,1.0,2,3,5,6,2,0,3,5,11,8.4,A,0,1,aaron-craft-1,Aaron Craft,2012
+10,47,10,2011-12-14,Ohio State,,USC Upstate,REG (Non-Conf),W 82-58,*,30,1,3,0.333,0,0,,1,3,0.333,0.333,4,5,0.8,0,0,0,4,5,0,2,1,6,9.3,H,1,1,aaron-craft-1,Aaron Craft,2012
+11,48,11,2011-12-17,Ohio State,@,South Carolina,REG (Non-Conf),W 74-66,*,38,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,5,0.4,1,2,3,4,2,0,1,3,4,5.0,A,1,1,aaron-craft-1,Aaron Craft,2012
+12,49,12,2011-12-20,Ohio State,,Lamar,REG (Non-Conf),W 70-50,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,2,3,6,3,0,2,3,4,7.3,H,1,1,aaron-craft-1,Aaron Craft,2012
+13,50,13,2011-12-22,Ohio State,N,Miami (OH),REG (Non-Conf),W 69-40,*,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,1,0.0,0,3,3,8,2,0,2,1,4,7.7,N,1,1,aaron-craft-1,Aaron Craft,2012
+14,51,14,2011-12-28,Ohio State,,Northwestern,REG (Conf),W 87-54,*,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,4,0.5,1,1,2,3,1,0,1,3,2,1.0,H,1,1,aaron-craft-1,Aaron Craft,2012
+15,52,15,2011-12-31,Ohio State,@,Indiana,REG (Conf),L 70-74,*,38,6,10,0.6,1,1,1.0,5,9,0.556,0.65,3,4,0.75,1,4,5,4,2,0,6,2,16,10.9,A,0,1,aaron-craft-1,Aaron Craft,2012
+16,53,16,2012-01-03,Ohio State,,Nebraska,REG (Conf),W 71-40,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,4,5,4,3,0,1,1,4,9.0,H,1,1,aaron-craft-1,Aaron Craft,2012
+17,54,17,2012-01-07,Ohio State,@,Iowa,REG (Conf),W 76-47,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,2,3,3,1,0,3,2,4,2.6,A,1,1,aaron-craft-1,Aaron Craft,2012
+18,55,18,2012-01-10,Ohio State,@,Illinois,REG (Conf),L 74-79,*,40,6,11,0.545,0,3,0.0,6,8,0.75,0.545,0,0,,1,3,4,7,1,0,2,4,12,10.6,A,0,1,aaron-craft-1,Aaron Craft,2012
+19,56,19,2012-01-15,Ohio State,,Indiana,REG (Conf),W 80-63,*,33,3,6,0.5,0,0,,3,6,0.5,0.5,2,4,0.5,1,2,3,7,3,0,0,3,8,12.2,H,1,1,aaron-craft-1,Aaron Craft,2012
+20,57,20,2012-01-21,Ohio State,@,Nebraska,REG (Conf),W 79-45,*,25,1,4,0.25,1,2,0.5,0,2,0.0,0.375,4,4,1.0,0,3,3,2,2,0,2,1,7,6.5,A,1,1,aaron-craft-1,Aaron Craft,2012
+21,58,21,2012-01-25,Ohio State,,Penn State,REG (Conf),W 78-54,*,22,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,5,0.4,0,1,1,3,0,0,1,3,11,8.8,H,1,1,aaron-craft-1,Aaron Craft,2012
+22,59,22,2012-01-29,Ohio State,,Michigan,REG (Conf),W 64-49,*,36,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,1,0.0,0,2,2,4,2,1,2,2,7,8.3,H,1,1,aaron-craft-1,Aaron Craft,2012
+23,60,23,2012-02-04,Ohio State,@,Wisconsin,REG (Conf),W 58-52,*,32,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,0,1,1,3,1,0,3,4,4,0.7,A,1,1,aaron-craft-1,Aaron Craft,2012
+24,61,24,2012-02-07,Ohio State,,Purdue,REG (Conf),W 87-84,*,30,3,3,1.0,1,1,1.0,2,2,1.0,1.167,6,7,0.857,0,3,3,2,0,0,2,4,13,10.4,H,1,1,aaron-craft-1,Aaron Craft,2012
+25,62,25,2012-02-11,Ohio State,,Michigan State,REG (Conf),L 48-58,*,40,3,7,0.429,1,3,0.333,2,4,0.5,0.5,8,8,1.0,1,2,3,2,1,0,1,3,15,12.8,H,0,1,aaron-craft-1,Aaron Craft,2012
+26,63,26,2012-02-14,Ohio State,@,Minnesota,REG (Conf),W 78-68,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,5,0.8,1,0,1,5,6,0,2,3,6,10.9,A,1,1,aaron-craft-1,Aaron Craft,2012
+27,64,27,2012-02-18,Ohio State,@,Michigan,REG (Conf),L 51-56,*,36,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,0,2,2,3,2,0,2,4,4,1.3,A,0,1,aaron-craft-1,Aaron Craft,2012
+28,65,28,2012-02-21,Ohio State,,Illinois,REG (Conf),W 83-67,*,31,4,5,0.8,2,3,0.667,2,2,1.0,1.0,1,1,1.0,0,5,5,5,3,0,3,1,11,13.7,H,1,1,aaron-craft-1,Aaron Craft,2012
+29,66,29,2012-02-26,Ohio State,,Wisconsin,REG (Conf),L 60-63,*,35,6,10,0.6,0,0,,6,10,0.6,0.6,1,4,0.25,1,1,2,3,2,0,2,3,13,9.1,H,0,1,aaron-craft-1,Aaron Craft,2012
+30,67,30,2012-02-29,Ohio State,@,Northwestern,REG (Conf),W 75-73,*,40,5,7,0.714,4,5,0.8,1,2,0.5,1.0,0,0,,0,2,2,2,4,2,4,2,14,13.7,A,1,1,aaron-craft-1,Aaron Craft,2012
+31,68,31,2012-03-04,Ohio State,@,Michigan State,REG (Conf),W 72-70,*,40,2,5,0.4,0,2,0.0,2,3,0.667,0.4,5,7,0.714,2,5,7,6,4,0,1,3,9,14.4,A,1,1,aaron-craft-1,Aaron Craft,2012
+32,69,32,2012-03-09,Ohio State,N,Purdue,CTOURN,W 88-71,*,38,5,8,0.625,0,3,0.0,5,5,1.0,0.625,0,0,,0,6,6,7,1,2,1,2,10,13.7,N,1,0,aaron-craft-1,Aaron Craft,2012
+33,70,33,2012-03-10,Ohio State,N,Michigan,CTOURN,W 77-55,*,31,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,1,2,3,4,3,1,2,2,6,7.2,N,1,0,aaron-craft-1,Aaron Craft,2012
+34,71,34,2012-03-11,Ohio State,N,Michigan State,CTOURN,L 64-68,*,36,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,1,0.0,2,6,8,4,3,0,2,4,10,10.7,N,0,0,aaron-craft-1,Aaron Craft,2012
+35,72,35,2012-03-15,Ohio State,N,Loyola (MD),ROUND-64,W 78-59,*,33,1,2,0.5,0,1,0.0,1,1,1.0,0.5,6,6,1.0,0,5,5,4,3,0,5,3,8,8.1,N,1,0,aaron-craft-1,Aaron Craft,2012
+36,73,36,2012-03-17,Ohio State,N,Gonzaga,ROUND-32,W 73-66,*,40,7,9,0.778,1,3,0.333,6,6,1.0,0.833,2,2,1.0,1,2,3,10,3,0,2,2,17,22.0,N,1,0,aaron-craft-1,Aaron Craft,2012
+37,74,37,2012-03-22,Ohio State,N,Cincinnati,ROUND-16,W 81-66,*,39,2,7,0.286,1,4,0.25,1,3,0.333,0.357,6,10,0.6,0,4,4,5,6,0,4,1,11,11.6,N,1,0,aaron-craft-1,Aaron Craft,2012
+38,75,38,2012-03-24,Ohio State,N,Syracuse,ROUND-8,W 77-70,*,39,1,3,0.333,0,0,,1,3,0.333,0.333,3,3,1.0,1,3,4,4,1,0,2,5,5,4.7,N,1,0,aaron-craft-1,Aaron Craft,2012
+39,76,39,2012-03-31,Ohio State,N,Kansas,NATIONAL-SEMI,L 62-64,*,40,4,11,0.364,2,3,0.667,2,8,0.25,0.455,1,1,1.0,0,0,0,3,3,0,2,2,11,7.2,N,0,0,aaron-craft-1,Aaron Craft,2012

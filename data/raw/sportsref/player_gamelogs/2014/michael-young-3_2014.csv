@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Pittsburgh,,Savannah State,REG (Non-Conf),W 88-55,*,28,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,1,7,8,0,1,2,1,2,9,10.4,H,1,1,michael-young-3,Michael Young,2014
+2,2,2,2013-11-12,Pittsburgh,,Fresno State,REG (Non-Conf),W 75-54,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,2,3,0.667,6,3,9,2,0,0,1,0,6,8.4,H,1,1,michael-young-3,Michael Young,2014
+3,3,3,2013-11-17,Pittsburgh,,Howard,REG (Non-Conf),W 84-52,*,23,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,1,1,2,2,1,1,0,1,11,13.5,H,1,1,michael-young-3,Michael Young,2014
+4,4,4,2013-11-20,Pittsburgh,,Lehigh,REG (Non-Conf),W 77-58,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,3,3,2,0,0,0,2,3,2.1,H,1,1,michael-young-3,Michael Young,2014
+5,5,5,2013-11-25,Pittsburgh,N,Texas Tech,REG (Non-Conf),W 76-53,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,2,1,3,0,0,0,0,1,6,5.6,N,1,1,michael-young-3,Michael Young,2014
+6,6,6,2013-11-26,Pittsburgh,N,Stanford,REG (Non-Conf),W 88-67,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,4,5,0.8,2,1,3,0,0,0,1,3,6,3.4,N,1,1,michael-young-3,Michael Young,2014
+7,7,7,2013-11-30,Pittsburgh,N,Duquesne,REG (Non-Conf),W 84-67,*,18,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,2,4,6,0,0,0,1,5,2,-1.2,N,1,1,michael-young-3,Michael Young,2014
+8,8,8,2013-12-03,Pittsburgh,,Penn State,REG (Non-Conf),W 78-69,*,16,0,5,0.0,0,0,,0,5,0.0,0.0,6,6,1.0,3,4,7,0,0,0,1,1,6,4.4,H,1,1,michael-young-3,Michael Young,2014
+9,9,9,2013-12-06,Pittsburgh,,Loyola Marymount,REG (Non-Conf),W 85-68,*,22,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,2,5,7,2,0,0,1,2,10,8.9,H,1,1,michael-young-3,Michael Young,2014
+10,10,10,2013-12-14,Pittsburgh,,Youngstown State,REG (Non-Conf),W 91-73,*,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,6,6,1.0,5,2,7,3,1,0,1,0,10,13.5,H,1,1,michael-young-3,Michael Young,2014
+11,11,11,2013-12-17,Pittsburgh,N,Cincinnati,REG (Non-Conf),L 43-44,*,30,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,4,0.5,2,5,7,2,1,1,1,0,4,5.8,N,0,1,michael-young-3,Michael Young,2014
+12,12,12,2013-12-21,Pittsburgh,,Cal Poly,REG (Non-Conf),W 73-56,*,16,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,0,2,0,0,0,1,0,0,-1.7,H,1,1,michael-young-3,Michael Young,2014
+13,13,13,2013-12-31,Pittsburgh,,Albany (NY),REG (Non-Conf),W 58-46,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,1,5,6,0,1,1,1,0,5,4.8,H,1,1,michael-young-3,Michael Young,2014
+14,14,14,2014-01-04,Pittsburgh,@,NC State,REG (Conf),W 74-62,*,25,4,7,0.571,1,1,1.0,3,6,0.5,0.643,4,4,1.0,1,1,2,1,0,0,1,1,13,10.0,A,1,1,michael-young-3,Michael Young,2014
+15,15,15,2014-01-06,Pittsburgh,,Maryland,REG (Conf),W 79-59,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,1,2,0,0,0,0,1,3,1.5,H,1,1,michael-young-3,Michael Young,2014
+16,16,16,2014-01-11,Pittsburgh,,Wake Forest,REG (Conf),W 80-65,*,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,1,1,1,0,4,4,3.8,H,1,1,michael-young-3,Michael Young,2014
+17,17,17,2014-01-14,Pittsburgh,@,Georgia Tech,REG (Conf),W 81-74,*,28,1,4,0.25,0,0,,1,4,0.25,0.25,4,4,1.0,3,4,7,2,1,0,1,3,6,7.1,A,1,1,michael-young-3,Michael Young,2014
+18,18,18,2014-01-18,Pittsburgh,@,Syracuse,REG (Conf),L 54-59,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,4,6,0.667,3,2,5,1,0,0,2,3,6,3.0,A,0,1,michael-young-3,Michael Young,2014
+19,19,19,2014-01-21,Pittsburgh,,Clemson,REG (Conf),W 76-43,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,3,3,1,0,0,1,1,2,-0.9,H,1,1,michael-young-3,Michael Young,2014
+20,20,20,2014-01-25,Pittsburgh,@,Maryland,REG (Conf),W 83-79,*,28,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,5,5,0,1,0,2,2,2,1.4,A,1,1,michael-young-3,Michael Young,2014
+21,21,21,2014-01-27,Pittsburgh,,Duke,REG (Conf),L 65-80,*,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,2,2,1.0,3,4,7,0,0,1,1,1,9,7.9,H,0,1,michael-young-3,Michael Young,2014
+22,22,22,2014-02-02,Pittsburgh,,Virginia,REG (Conf),L 45-48,*,24,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,2,2,4,0,0,1,2,1,8,4.9,H,0,1,michael-young-3,Michael Young,2014
+23,23,23,2014-02-05,Pittsburgh,@,Miami (FL),REG (Conf),W 59-55 (OT),*,32,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,3,4,7,2,0,1,2,2,4,3.2,A,1,1,michael-young-3,Michael Young,2014
+24,24,24,2014-02-08,Pittsburgh,,Virginia Tech,REG (Conf),W 62-57 (2OT),*,27,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,0,0,4,0,1,0,2,4,4.7,H,1,1,michael-young-3,Michael Young,2014
+25,25,25,2014-02-12,Pittsburgh,,Syracuse,REG (Conf),L 56-58,*,18,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,1,2,0,0,1,2,2,4,0.5,H,0,1,michael-young-3,Michael Young,2014
+26,26,26,2014-02-15,Pittsburgh,@,North Carolina,REG (Conf),L 71-75,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,2,4,6,1,1,0,2,4,8,7.1,A,0,1,michael-young-3,Michael Young,2014
+27,27,27,2014-02-23,Pittsburgh,,Florida State,REG (Conf),L 66-71,*,17,0,4,0.0,0,0,,0,4,0.0,0.0,5,6,0.833,1,1,2,0,2,0,0,1,5,4.4,H,0,1,michael-young-3,Michael Young,2014
+28,28,28,2014-02-26,Pittsburgh,@,Boston College,REG (Conf),W 66-59,*,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,2,0.5,1,1,2,1,0,0,1,1,3,-0.2,A,1,1,michael-young-3,Michael Young,2014
+29,29,29,2014-03-01,Pittsburgh,@,Notre Dame,REG (Conf),W 85-81 (OT),*,30,3,6,0.5,1,1,1.0,2,5,0.4,0.583,6,6,1.0,2,1,3,0,0,1,2,2,13,9.6,A,1,1,michael-young-3,Michael Young,2014
+30,30,30,2014-03-03,Pittsburgh,,NC State,REG (Conf),L 67-74,*,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,1,1,2,1,2,0,0,2,7,7.2,H,0,1,michael-young-3,Michael Young,2014
+31,31,31,2014-03-08,Pittsburgh,@,Clemson,REG (Conf),W 83-78 (OT),*,30,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,4,0.5,1,4,5,3,0,0,0,1,7,5.7,A,1,1,michael-young-3,Michael Young,2014
+32,32,32,2014-03-13,Pittsburgh,N,Wake Forest,CTOURN,W 84-55,*,17,4,8,0.5,1,1,1.0,3,7,0.429,0.563,0,0,,0,3,3,0,0,0,2,4,9,2.3,N,1,0,michael-young-3,Michael Young,2014
+33,33,33,2014-03-14,Pittsburgh,N,North Carolina,CTOURN,W 80-75,*,20,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,1,1.0,1,2,3,0,0,1,0,4,5,2.7,N,1,0,michael-young-3,Michael Young,2014
+34,34,34,2014-03-15,Pittsburgh,N,Virginia,CTOURN,L 48-51,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,2,0,2,2,2.2,N,0,0,michael-young-3,Michael Young,2014
+35,35,35,2014-03-20,Pittsburgh,N,Colorado,ROUND-64,W 77-48,*,21,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,2,3,0,2,0,0,1,9,9.3,N,1,0,michael-young-3,Michael Young,2014
+36,36,36,2014-03-22,Pittsburgh,N,Florida,ROUND-32,L 45-61,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,1,0,1,1,1,4,2.3,N,0,0,michael-young-3,Michael Young,2014

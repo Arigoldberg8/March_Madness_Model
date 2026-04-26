@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Saint Peter's,@,VCU,REG (Non-Conf),L 54-57,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,1,2,2,0.2,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+2,2,2,2021-11-13,Saint Peter's,@,St. John's (NY),REG (Non-Conf),L 70-91,,21,4,11,0.364,3,5,0.6,1,6,0.167,0.5,0,0,,1,2,3,3,0,0,2,3,11,5.1,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+3,3,3,2021-11-23,Saint Peter's,,LIU,REG (Non-Conf),W 64-62,,11,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,2,0.5,1,0,1,0,1,0,2,3,6,0.0,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+4,4,4,2021-11-27,Saint Peter's,@,Providence,REG (Non-Conf),L 71-85,,17,1,7,0.143,1,2,0.5,0,5,0.0,0.214,0,0,,0,0,0,1,4,0,2,1,3,0.8,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+5,5,6,2021-12-05,Saint Peter's,,Siena,REG (Conf),L 58-60,,26,4,6,0.667,0,0,,4,6,0.667,0.667,3,6,0.5,0,1,1,4,2,0,0,2,11,11.5,H,0,1,jaylen-murray-1,Jaylen Murray,2022
+6,6,7,2021-12-08,Saint Peter's,,St. Francis Brooklyn,REG (Non-Conf),L 60-71,,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,4,5,0.8,2,3,5,1,1,0,1,1,6,5.1,H,0,1,jaylen-murray-1,Jaylen Murray,2022
+7,7,8,2021-12-12,Saint Peter's,,Nyack,REG (Non-Conf),W 87-48,,29,3,10,0.3,2,5,0.4,1,5,0.2,0.4,0,0,,1,5,6,7,0,0,2,0,8,7.3,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+8,8,9,2021-12-18,Saint Peter's,@,Stony Brook,REG (Non-Conf),L 63-64,,18,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,0,,1,4,5,4,0,0,4,2,8,3.5,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+9,9,10,2022-01-14,Saint Peter's,,Monmouth,REG (Conf),W 67-62,*,18,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,1,1,2,1,0,0,2,2,4,-1.9,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+10,10,11,2022-01-16,Saint Peter's,@,Rider,REG (Conf),W 58-51,*,15,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,1,2,3,0,0,0,0,5,4.0,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+11,11,12,2022-01-18,Saint Peter's,,Canisius,REG (Conf),W 65-57,*,17,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,1,1,1,0,0,0,0,4,0.2,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+12,12,13,2022-01-21,Saint Peter's,@,Niagara,REG (Conf),W 74-68 (OT),,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-1.4,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+13,13,14,2022-01-23,Saint Peter's,@,Canisius,REG (Conf),L 60-63,,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,2,0,2,-1.1,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+14,14,15,2022-01-26,Saint Peter's,@,Marist,REG (Conf),W 69-62,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+15,15,16,2022-01-28,Saint Peter's,,Manhattan,REG (Conf),W 77-51,,21,6,9,0.667,1,4,0.25,5,5,1.0,0.722,1,2,0.5,0,0,0,2,0,0,2,2,14,8.3,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+16,16,17,2022-01-30,Saint Peter's,@,Iona,REG (Conf),L 77-85,,15,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,0,0,2,0,0,1,0,5,2.0,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+17,17,18,2022-02-04,Saint Peter's,,Quinnipiac,REG (Conf),W 83-74,,15,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,4,0.75,0,1,1,2,0,0,0,2,7,4.1,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+18,18,19,2022-02-06,Saint Peter's,,Marist,REG (Conf),W 66-50,,21,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,0,1,1,1,1,0,4,0,6,1.3,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+19,19,20,2022-02-11,Saint Peter's,,Rider,REG (Conf),L 49-58,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,0,1,1,0,0,3,0,4,0.4,H,0,1,jaylen-murray-1,Jaylen Murray,2022
+20,20,21,2022-02-15,Saint Peter's,,Iona,REG (Conf),L 61-70,,13,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,0,0,0,0,0,0,1,0,10,6.8,H,0,1,jaylen-murray-1,Jaylen Murray,2022
+21,21,22,2022-02-18,Saint Peter's,@,Fairfield,REG (Conf),W 70-59,,14,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,2,3,3,0,0,0,1,4,3.6,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+22,22,23,2022-02-20,Saint Peter's,@,Siena,REG (Conf),L 70-84,,27,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,0,0,0,4,2,0,2,2,8,6.9,A,0,1,jaylen-murray-1,Jaylen Murray,2022
+23,23,24,2022-02-25,Saint Peter's,@,Monmouth,REG (Conf),W 70-65,,17,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,1,1.0,0,2,2,0,0,0,2,2,8,2.8,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+24,24,25,2022-02-27,Saint Peter's,,Niagara,REG (Conf),W 63-36,,20,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,2,0.5,0,4,4,1,0,0,1,1,9,5.1,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+25,25,26,2022-03-01,Saint Peter's,@,Manhattan,REG (Conf),W 73-51,,20,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,0,3,3,0,1,0,2,2,9,3.4,A,1,1,jaylen-murray-1,Jaylen Murray,2022
+26,26,27,2022-03-05,Saint Peter's,,Fairfield,REG (Conf),W 57-41,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,1,1,0,1,0,1,-0.8,H,1,1,jaylen-murray-1,Jaylen Murray,2022
+27,27,28,2022-03-09,Saint Peter's,N,Fairfield,CTOURN,W 77-63,,11,3,6,0.5,2,2,1.0,1,4,0.25,0.667,0,0,,0,0,0,1,0,0,3,0,8,2.7,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+28,28,29,2022-03-11,Saint Peter's,N,Quinnipiac,CTOURN,W 64-52,,11,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,0,1,1,2,0,0,0,1,4,2.5,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+29,29,30,2022-03-12,Saint Peter's,N,Monmouth,CTOURN,W 60-54,,9,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,1,1,0,0,0,1,0,2,-1.5,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+30,30,31,2022-03-17,Saint Peter's,N,Kentucky,ROUND-64,W 85-79 (OT),,19,3,7,0.429,2,2,1.0,1,5,0.2,0.571,0,0,,0,3,3,2,1,0,1,2,8,5.8,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+31,31,32,2022-03-19,Saint Peter's,N,Murray State,ROUND-32,W 70-60,,11,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,1,1,2,1,0,0,0,0,6,4.3,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+32,32,33,2022-03-25,Saint Peter's,N,Purdue,ROUND-16,W 67-64,,10,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,1,2,1,1,0,2,0,6,4.0,N,1,0,jaylen-murray-1,Jaylen Murray,2022
+33,33,34,2022-03-27,Saint Peter's,N,North Carolina,ROUND-8,L 49-69,,13,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,0,0,0,2,0,0,0,2,3,1.2,N,0,0,jaylen-murray-1,Jaylen Murray,2022

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2012-11-09,Northwestern State,,East Tx Baptist,REG (Non-Conf),W 118-77,*,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,2,2,4,2,0,1,0,2,5,6.6,H,1,1,gary-roberson-1,Gary Roberson,2013
+2,34,2,2012-11-12,Northwestern State,@,Campbell,REG (Non-Conf),W 71-67,*,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,1,0,1,1,0,-0.5,A,1,1,gary-roberson-1,Gary Roberson,2013
+3,35,3,2012-11-17,Northwestern State,,Hannibal-LaGrange,REG (Non-Conf),W 92-43,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,2,2,2,1,0,2,0,2,2.3,H,1,1,gary-roberson-1,Gary Roberson,2013
+4,36,4,2012-11-20,Northwestern State,@,Louisiana State,REG (Non-Conf),L 95-102,*,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,0,1,1,0,0,2,2,4,1.3,A,0,1,gary-roberson-1,Gary Roberson,2013
+5,37,5,2012-11-26,Northwestern State,@,Texas A&M,REG (Non-Conf),L 65-78,*,13,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,1,2,1,1,1,0,0,3,4.0,A,0,1,gary-roberson-1,Gary Roberson,2013
+6,38,6,2012-11-30,Northwestern State,@,Oklahoma,REG (Non-Conf),L 65-69,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,1,1,2,0,0,0,1,3,5,1.8,A,0,1,gary-roberson-1,Gary Roberson,2013
+7,39,7,2012-12-04,Northwestern State,,Louisiana Tech,REG (Non-Conf),W 89-83,,18,6,11,0.545,0,2,0.0,6,9,0.667,0.545,2,6,0.333,1,6,7,1,1,0,0,5,14,9.3,H,1,1,gary-roberson-1,Gary Roberson,2013
+8,40,8,2012-12-15,Northwestern State,,Missouri Valley,REG (Non-Conf),W 95-78,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,1,1,0,2,0,2,2,4,1.8,H,1,1,gary-roberson-1,Gary Roberson,2013
+9,41,9,2012-12-29,Northwestern State,@,Arkansas,REG (Non-Conf),L 61-79,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,3,0.333,1,4,5,0,0,1,2,1,5,2.4,A,0,1,gary-roberson-1,Gary Roberson,2013
+10,42,10,2012-12-31,Northwestern State,,LeTourneau,REG (Non-Conf),W 102-52,,15,5,6,0.833,0,0,,5,6,0.833,0.833,0,1,0.0,3,2,5,2,1,0,0,1,10,12.1,H,1,1,gary-roberson-1,Gary Roberson,2013
+11,43,11,2013-01-03,Northwestern State,,McNeese State,REG (Conf),W 78-63,,17,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,3,3,0,0,0,1,0,4,2.6,H,1,1,gary-roberson-1,Gary Roberson,2013
+12,44,12,2013-01-05,Northwestern State,,Lamar,REG (Conf),W 86-58,,20,4,11,0.364,0,2,0.0,4,9,0.444,0.364,1,1,1.0,3,0,3,1,0,0,1,0,9,4.7,H,1,1,gary-roberson-1,Gary Roberson,2013
+13,45,13,2013-01-07,Northwestern State,@,Sam Houston State,REG (Conf),W 73-64,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,3,0,-0.9,A,1,1,gary-roberson-1,Gary Roberson,2013
+14,46,14,2013-01-10,Northwestern State,@,Oral Roberts,REG (Conf),L 74-80,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-1.9,A,0,1,gary-roberson-1,Gary Roberson,2013
+15,47,15,2013-01-12,Northwestern State,@,Central Arkansas,REG (Conf),W 100-88,,16,3,5,0.6,1,1,1.0,2,4,0.5,0.7,6,9,0.667,2,3,5,0,0,0,1,3,13,9.6,A,1,1,gary-roberson-1,Gary Roberson,2013
+16,48,16,2013-01-17,Northwestern State,,Nicholls State,REG (Conf),L 78-93,,16,2,11,0.182,0,0,,2,11,0.182,0.182,0,0,,4,2,6,0,0,0,2,4,4,-3.1,H,0,1,gary-roberson-1,Gary Roberson,2013
+17,49,17,2013-01-19,Northwestern State,,Southeastern Louisiana,REG (Conf),W 103-68,,14,4,9,0.444,1,4,0.25,3,5,0.6,0.5,3,4,0.75,4,0,4,1,1,0,2,4,12,7.8,H,1,1,gary-roberson-1,Gary Roberson,2013
+18,50,18,2013-01-26,Northwestern State,,Stephen F. Austin,REG (Conf),W 61-57,*,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,2,0.0,2,1,3,0,0,0,1,1,0,-2.6,H,1,1,gary-roberson-1,Gary Roberson,2013
+19,51,19,2013-01-31,Northwestern State,@,Lamar,REG (Conf),W 85-63,,16,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,2,2,4,1,0,1,0,0,10,10.5,A,1,1,gary-roberson-1,Gary Roberson,2013
+20,52,20,2013-02-03,Northwestern State,@,McNeese State,REG (Conf),W 86-74,,14,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,1,1,2,0,0,1,1,2,5,1.8,A,1,1,gary-roberson-1,Gary Roberson,2013
+21,53,21,2013-02-07,Northwestern State,,Oral Roberts,REG (Conf),W 85-73,,18,4,7,0.571,2,2,1.0,2,5,0.4,0.714,2,2,1.0,2,2,4,2,1,0,1,4,12,10.5,H,1,1,gary-roberson-1,Gary Roberson,2013
+22,54,22,2013-02-09,Northwestern State,,Central Arkansas,REG (Conf),W 93-73,,20,6,9,0.667,0,0,,6,9,0.667,0.667,2,3,0.667,2,3,5,4,2,0,1,0,14,15.8,H,1,1,gary-roberson-1,Gary Roberson,2013
+23,55,23,2013-02-14,Northwestern State,@,Southeastern Louisiana,REG (Conf),W 79-76,,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,3,3,0,0,0,2,3,2,-3.4,A,1,1,gary-roberson-1,Gary Roberson,2013
+24,56,24,2013-02-16,Northwestern State,@,Nicholls State,REG (Conf),W 84-79,,24,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,2,0.5,2,1,3,0,0,0,1,2,11,8.3,A,1,1,gary-roberson-1,Gary Roberson,2013
+25,57,25,2013-02-19,Northwestern State,@,Texas A&M–Corpus Christi,REG (Conf),W 82-71,,17,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,2,0.5,2,0,2,1,0,0,0,3,10,7.2,A,1,1,gary-roberson-1,Gary Roberson,2013
+26,58,26,2013-02-23,Northwestern State,@,Niagara,REG (Non-Conf),L 76-92,,29,7,8,0.875,1,2,0.5,6,6,1.0,0.938,5,6,0.833,1,2,3,0,0,0,1,2,20,16.3,A,0,1,gary-roberson-1,Gary Roberson,2013
+27,59,27,2013-03-02,Northwestern State,@,Stephen F. Austin,REG (Conf),L 63-64,,7,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,1,3,1,-1.6,A,0,1,gary-roberson-1,Gary Roberson,2013
+28,60,29,2013-03-09,Northwestern State,,Sam Houston State,REG (Conf),W 84-73,,16,4,5,0.8,2,2,1.0,2,3,0.667,1.0,1,2,0.5,0,2,2,0,0,0,0,1,11,8.9,H,1,1,gary-roberson-1,Gary Roberson,2013
+29,61,30,2013-03-15,Northwestern State,N,Sam Houston State,CTOURN,W 55-52,,17,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,4,4,0,1,0,0,3,0,-1.8,N,1,0,gary-roberson-1,Gary Roberson,2013
+30,62,31,2013-03-16,Northwestern State,N,Stephen F. Austin,CTOURN,W 68-66,,12,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,2,2,0,0,0,1,3,6,1.3,N,1,0,gary-roberson-1,Gary Roberson,2013
+31,63,32,2013-03-22,Northwestern State,N,Florida,ROUND-64,L 47-79,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,4,3,0,-6.3,N,0,0,gary-roberson-1,Gary Roberson,2013

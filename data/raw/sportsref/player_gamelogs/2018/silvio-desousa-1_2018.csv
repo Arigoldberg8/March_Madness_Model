@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,17,2018-01-13,Kansas,,Kansas State,REG (Conf),W 73-72,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,H,1,1,silvio-desousa-1,Silvio De Sousa,2018
+2,2,18,2018-01-15,Kansas,@,West Virginia,REG (Conf),W 71-66,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,1,3,0,0,0,0,0,2,3.4,A,1,1,silvio-desousa-1,Silvio De Sousa,2018
+3,3,19,2018-01-20,Kansas,,Baylor,REG (Conf),W 70-67,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,H,1,1,silvio-desousa-1,Silvio De Sousa,2018
+4,4,20,2018-01-23,Kansas,@,Oklahoma,REG (Conf),L 80-85,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,3,1,0,-3.4,A,0,1,silvio-desousa-1,Silvio De Sousa,2018
+5,5,21,2018-01-27,Kansas,,Texas A&M,REG (Non-Conf),W 79-68,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,H,1,1,silvio-desousa-1,Silvio De Sousa,2018
+6,6,22,2018-01-29,Kansas,@,Kansas State,REG (Conf),W 70-56,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,1,1,silvio-desousa-1,Silvio De Sousa,2018
+7,7,23,2018-02-03,Kansas,,Oklahoma State,REG (Conf),L 79-84,,1,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-0.4,H,0,1,silvio-desousa-1,Silvio De Sousa,2018
+8,8,25,2018-02-10,Kansas,@,Baylor,REG (Conf),L 64-80,,0,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,0,1,silvio-desousa-1,Silvio De Sousa,2018
+9,9,26,2018-02-13,Kansas,@,Iowa State,REG (Conf),W 83-77,,3,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,1,3,0,0,0,0,0,3,3.3,A,1,1,silvio-desousa-1,Silvio De Sousa,2018
+10,10,28,2018-02-19,Kansas,,Oklahoma,REG (Conf),W 104-74,,13,3,3,1.0,0,0,3,3,1.0,1.0,4,4,1.0,3,3,6,1,0,0,1,2,10,11.0,H,1,1,silvio-desousa-1,Silvio De Sousa,2018
+11,11,30,2018-02-26,Kansas,,Texas,REG (Conf),W 80-70,,4,1,2,0.5,0,0,1,2,0.5,0.5,1,1,1.0,2,0,2,0,0,0,0,0,3,3.4,H,1,1,silvio-desousa-1,Silvio De Sousa,2018
+12,12,31,2018-03-03,Kansas,@,Oklahoma State,REG (Conf),L 64-82,,13,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,1,3,1,0,0,0,4,7,5.1,A,0,1,silvio-desousa-1,Silvio De Sousa,2018
+13,13,32,2018-03-08,Kansas,N,Oklahoma State,CTOURN,W 82-68,,15,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,4,4,8,0,0,0,1,4,6,5.1,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+14,14,33,2018-03-09,Kansas,N,Kansas State,CTOURN,W 83-67,,19,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,3,8,11,1,0,0,2,3,8,7.7,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+15,15,34,2018-03-10,Kansas,N,West Virginia,CTOURN,W 81-70,,26,8,8,1.0,0,0,8,8,1.0,1.0,0,2,0.0,5,5,10,0,1,0,2,2,16,16.0,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+16,16,35,2018-03-15,Kansas,N,Pennsylvania,ROUND-64,W 76-60,,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,4,4,0,0,0,1,2,2,0.4,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+17,17,36,2018-03-17,Kansas,N,Seton Hall,ROUND-32,W 83-79,,4,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+18,18,37,2018-03-23,Kansas,N,Clemson,ROUND-16,W 80-76,,13,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,2,4,6,0,0,1,1,3,9,8.1,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+19,19,38,2018-03-25,Kansas,N,Duke,ROUND-8,W 85-81 (OT),,26,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,9,10,1,0,1,3,1,4,4.1,N,1,0,silvio-desousa-1,Silvio De Sousa,2018
+20,20,39,2018-03-31,Kansas,N,Villanova,NATIONAL-SEMI,L 79-95,,10,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,6,1,7,0,0,0,1,2,7,7.3,N,0,0,silvio-desousa-1,Silvio De Sousa,2018

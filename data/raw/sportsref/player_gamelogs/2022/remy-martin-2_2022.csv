@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,119,1,2021-11-09,Kansas,N,Michigan State,REG (Non-Conf),W 87-74,*,27,5,9,0.556,1,3,0.333,4,6,0.667,0.611,4,4,1.0,1,5,6,2,0,0,3,1,15,10.9,N,1,1,remy-martin-2,Remy Martin,2022
+2,120,2,2021-11-12,Kansas,,Tarleton State,REG (Non-Conf),W 88-62,*,30,3,10,0.3,1,3,0.333,2,7,0.286,0.35,7,8,0.875,1,5,6,3,0,0,3,1,14,8.7,H,1,1,remy-martin-2,Remy Martin,2022
+3,121,3,2021-11-18,Kansas,,Stony Brook,REG (Non-Conf),W 88-59,*,18,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,4,4,2,0,0,0,0,0,1.2,H,1,1,remy-martin-2,Remy Martin,2022
+4,122,4,2021-11-25,Kansas,N,North Texas,REG (Non-Conf),W 71-59,*,29,6,9,0.667,3,6,0.5,3,3,1.0,0.833,0,0,,0,8,8,4,0,0,1,1,15,14.9,N,1,1,remy-martin-2,Remy Martin,2022
+5,123,5,2021-11-26,Kansas,N,Dayton,REG (Non-Conf),L 73-74,*,25,7,11,0.636,1,4,0.25,6,7,0.857,0.682,2,4,0.5,0,3,3,0,2,0,0,3,17,13.0,N,0,1,remy-martin-2,Remy Martin,2022
+6,124,6,2021-11-28,Kansas,N,Iona,REG (Non-Conf),W 96-83,*,25,4,6,0.667,2,2,1.0,2,4,0.5,0.833,1,2,0.5,1,4,5,5,1,0,1,1,11,13.0,N,1,1,remy-martin-2,Remy Martin,2022
+7,125,7,2021-12-03,Kansas,@,St. John's (NY),REG (Non-Conf),W 95-75,*,29,5,7,0.714,1,3,0.333,4,4,1.0,0.786,1,1,1.0,0,2,2,5,1,0,5,3,12,8.0,A,1,1,remy-martin-2,Remy Martin,2022
+8,126,8,2021-12-07,Kansas,,UTEP,REG (Non-Conf),W 78-52,*,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,3,3,2,2,1,1,1,0,0.8,H,1,1,remy-martin-2,Remy Martin,2022
+9,127,9,2021-12-11,Kansas,,Missouri,REG (Non-Conf),W 102-65,*,29,2,3,0.667,1,2,0.5,1,1,1.0,0.833,5,6,0.833,0,3,3,5,0,0,2,1,10,10.3,H,1,1,remy-martin-2,Remy Martin,2022
+10,128,10,2021-12-18,Kansas,,Stephen F. Austin,REG (Non-Conf),W 80-72,*,35,3,10,0.3,2,5,0.4,1,5,0.2,0.4,7,9,0.778,0,1,1,4,2,0,2,2,15,10.7,H,1,1,remy-martin-2,Remy Martin,2022
+11,129,11,2021-12-29,Kansas,,Nevada,REG (Non-Conf),W 88-61,*,22,3,7,0.429,2,3,0.667,1,4,0.25,0.571,1,2,0.5,0,1,1,4,0,0,2,4,9,4.4,H,1,1,remy-martin-2,Remy Martin,2022
+12,130,13,2022-01-04,Kansas,@,Oklahoma State,REG (Conf),W 74-63,*,25,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,1,2,3,1,0,4,1,7,3.7,A,1,1,remy-martin-2,Remy Martin,2022
+13,131,14,2022-01-08,Kansas,@,Texas Tech,REG (Conf),L 67-75,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,2,3,2,-1.9,A,0,1,remy-martin-2,Remy Martin,2022
+14,132,17,2022-01-18,Kansas,@,Oklahoma,REG (Conf),W 67-64,,15,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,1,2,1,2,0,2,1,2,0.2,A,1,1,remy-martin-2,Remy Martin,2022
+15,133,18,2022-01-22,Kansas,@,Kansas State,REG (Conf),W 78-75,,21,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,1,0.0,0,1,1,3,0,0,0,2,2,-0.6,A,1,1,remy-martin-2,Remy Martin,2022
+16,134,19,2022-01-24,Kansas,,Texas Tech,REG (Conf),W 94-91 (2OT),,22,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,1,3,4,5,0,0,1,0,4,4.0,H,1,1,remy-martin-2,Remy Martin,2022
+17,135,20,2022-01-29,Kansas,,Kentucky,REG (Non-Conf),L 62-80,,14,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,1,1,1,0,0,0,0,5,4.0,H,0,1,remy-martin-2,Remy Martin,2022
+18,136,28,2022-02-26,Kansas,@,Baylor,REG (Conf),L 70-80,,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,0,0,0,0,2,5,2.9,A,0,1,remy-martin-2,Remy Martin,2022
+19,137,29,2022-03-01,Kansas,@,TCU,REG (Conf),L 64-74,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,A,0,1,remy-martin-2,Remy Martin,2022
+20,138,30,2022-03-03,Kansas,,TCU,REG (Conf),W 72-68,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,H,1,1,remy-martin-2,Remy Martin,2022
+21,139,31,2022-03-05,Kansas,,Texas,REG (Conf),W 70-63 (OT),*,6,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,1,0,0,1,0,2,0.0,H,1,1,remy-martin-2,Remy Martin,2022
+22,140,32,2022-03-10,Kansas,N,West Virginia,CTOURN,W 87-63,,12,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,2,1,0,3,2,4,1.9,N,1,0,remy-martin-2,Remy Martin,2022
+23,141,33,2022-03-11,Kansas,N,TCU,CTOURN,W 75-62,,19,4,10,0.4,0,3,0.0,4,7,0.571,0.4,2,2,1.0,1,2,3,3,0,0,0,2,10,7.2,N,1,0,remy-martin-2,Remy Martin,2022
+24,142,34,2022-03-12,Kansas,N,Texas Tech,CTOURN,W 74-65,,26,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,2,1.0,0,4,4,4,3,0,0,3,12,13.1,N,1,0,remy-martin-2,Remy Martin,2022
+25,143,35,2022-03-17,Kansas,N,Texas Southern,ROUND-64,W 83-56,,21,6,8,0.75,1,1,1.0,5,7,0.714,0.813,2,3,0.667,1,0,1,4,2,0,0,1,15,16.5,N,1,0,remy-martin-2,Remy Martin,2022
+26,144,36,2022-03-19,Kansas,N,Creighton,ROUND-32,W 79-72,,29,7,14,0.5,2,5,0.4,5,9,0.556,0.571,4,4,1.0,1,6,7,4,0,1,1,3,20,16.8,N,1,0,remy-martin-2,Remy Martin,2022
+27,145,37,2022-03-25,Kansas,N,Providence,ROUND-16,W 66-61,,27,7,13,0.538,1,4,0.25,6,9,0.667,0.577,8,13,0.615,0,7,7,3,0,1,3,3,23,15.4,N,1,0,remy-martin-2,Remy Martin,2022
+28,146,38,2022-03-27,Kansas,N,Miami (FL),ROUND-8,W 76-50,,24,4,9,0.444,1,2,0.5,3,7,0.429,0.5,0,0,,0,6,6,2,0,0,1,2,9,5.7,N,1,0,remy-martin-2,Remy Martin,2022
+29,147,39,2022-04-02,Kansas,N,Villanova,NATIONAL-SEMI,W 81-65,,21,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,4,5,2,0,0,0,0,3,3.2,N,1,0,remy-martin-2,Remy Martin,2022
+30,148,40,2022-04-04,Kansas,N,North Carolina,NATIONAL-FINAL,W 72-69,,21,5,9,0.556,4,6,0.667,1,3,0.333,0.778,0,0,,0,3,3,1,1,1,1,2,14,11.2,N,1,0,remy-martin-2,Remy Martin,2022

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,77,1,2016-11-11,UNC Wilmington,,Claflin,REG (Non-Conf),W 110-64,*,21,5,9,0.556,4,6,0.667,1,3,0.333,0.778,2,2,1.0,0,1,1,1,2,0,1,2,16,12.9,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+2,78,2,2016-11-14,UNC Wilmington,@,Eastern Kentucky,REG (Non-Conf),W 78-69 (OT),*,25,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,2,2,4,0,0,0,0,3,5,1.0,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+3,79,3,2016-11-20,UNC Wilmington,,East Tennessee State,REG (Non-Conf),W 68-59,,10,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,1,0,0,0,4,2,-0.6,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+4,80,4,2016-11-25,UNC Wilmington,N,Middle Tennessee,REG (Non-Conf),L 63-68,*,30,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,2,1,3,2,2,0,4,4,8,3.8,N,0,1,ambrose-mosley-1,Ambrose Mosley,2017
+5,81,5,2016-11-26,UNC Wilmington,N,Evansville,REG (Non-Conf),W 65-62,*,21,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,2,4,6,0,0,0,1,0,3,2.2,N,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+6,82,6,2016-11-27,UNC Wilmington,N,Toledo,REG (Non-Conf),W 102-77,*,24,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,4,2,6,1,2,0,0,3,8,9.9,N,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+7,83,7,2016-11-30,UNC Wilmington,@,Western Michigan,REG (Non-Conf),W 97-92,*,25,5,9,0.556,5,9,0.556,0,0,,0.833,2,2,1.0,0,4,4,1,1,0,0,1,17,15.2,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+8,84,8,2016-12-03,UNC Wilmington,,Pfeiffer,REG (Non-Conf),W 126-113,*,26,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,4,4,2,0,0,0,1,3,3.5,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+9,85,9,2016-12-10,UNC Wilmington,@,St. Bonaventure,REG (Non-Conf),W 81-80,*,14,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,1,2,0,-4.0,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+10,86,10,2016-12-14,UNC Wilmington,@,Campbell,REG (Non-Conf),W 96-75,*,19,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,1,0,1,2,0,0,0,1,9,9.5,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+11,87,11,2016-12-17,UNC Wilmington,,Radford,REG (Non-Conf),W 100-64,*,24,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,0,1,1,1,3,0,0,2,11,12.3,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+12,88,12,2016-12-20,UNC Wilmington,,East Carolina,REG (Non-Conf),W 81-71,*,25,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,2,4,6,1,1,0,1,1,5,4.5,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+13,89,13,2016-12-28,UNC Wilmington,@,Clemson,REG (Non-Conf),L 73-87,*,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,1,2,0,0,0,1,1,3,-0.5,A,0,1,ambrose-mosley-1,Ambrose Mosley,2017
+14,90,14,2016-12-31,UNC Wilmington,@,Towson,REG (Conf),W 76-67,*,26,6,10,0.6,3,6,0.5,3,4,0.75,0.75,0,1,0.0,0,2,2,1,1,0,1,3,15,10.1,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+15,91,15,2017-01-02,UNC Wilmington,,Elon,REG (Conf),W 79-63,*,27,2,8,0.25,1,7,0.143,1,1,1.0,0.313,1,2,0.5,0,2,2,1,0,0,0,0,6,2.1,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+16,92,16,2017-01-05,UNC Wilmington,@,Drexel,REG (Conf),W 90-72,*,25,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,4,4,0,0,1,2,3,0,-3.4,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+17,93,17,2017-01-07,UNC Wilmington,@,Delaware,REG (Conf),W 91-81,*,28,3,6,0.5,3,6,0.5,0,0,,0.75,2,2,1.0,1,0,1,5,0,0,0,2,11,11.4,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+18,94,18,2017-01-12,UNC Wilmington,,William & Mary,REG (Conf),W 101-77,*,29,5,12,0.417,4,10,0.4,1,2,0.5,0.583,0,0,,1,3,4,0,1,0,0,2,14,9.4,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+19,95,19,2017-01-14,UNC Wilmington,,Hofstra,REG (Conf),W 84-76,*,23,4,7,0.571,4,6,0.667,0,1,0.0,0.857,0,1,0.0,0,1,1,1,0,0,0,5,12,7.3,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+20,96,20,2017-01-19,UNC Wilmington,@,College of Charleston,REG (Conf),W 65-59,*,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,1,4,5,1,1,0,0,3,7,7.4,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+21,97,21,2017-01-21,UNC Wilmington,,Drexel,REG (Conf),W 87-74,*,25,3,8,0.375,2,7,0.286,1,1,1.0,0.5,3,4,0.75,1,1,2,1,1,0,0,2,11,8.1,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+22,98,22,2017-01-26,UNC Wilmington,@,James Madison,REG (Conf),W 87-76,*,27,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,1,2,3,5,1,0,0,3,12,12.6,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+23,99,23,2017-01-28,UNC Wilmington,@,William & Mary,REG (Conf),L 78-96,*,33,4,15,0.267,2,11,0.182,2,4,0.5,0.333,0,0,,0,2,2,0,0,1,1,4,10,-0.2,A,0,1,ambrose-mosley-1,Ambrose Mosley,2017
+24,100,24,2017-02-02,UNC Wilmington,,College of Charleston,REG (Conf),L 66-67,*,26,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,0,0,0,1,0,3,4,4,-1.7,H,0,1,ambrose-mosley-1,Ambrose Mosley,2017
+25,101,25,2017-02-04,UNC Wilmington,,Delaware,REG (Conf),W 108-80,,19,6,9,0.667,6,9,0.667,0,0,,1.0,0,0,,1,0,1,0,0,0,1,3,18,12.6,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+26,102,26,2017-02-09,UNC Wilmington,,James Madison,REG (Conf),W 88-73,,25,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,0,0,1,0,0,1,2,12,8.3,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+27,103,27,2017-02-11,UNC Wilmington,@,Elon,REG (Conf),L 76-77,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,1,0,0,2,3,2.5,A,0,1,ambrose-mosley-1,Ambrose Mosley,2017
+28,104,28,2017-02-16,UNC Wilmington,@,Northeastern,REG (Conf),W 66-65,*,29,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,2,1,3,2,1,0,1,0,8,7.4,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+29,105,29,2017-02-18,UNC Wilmington,@,Hofstra,REG (Conf),W 83-76,*,25,2,5,0.4,0,3,0.0,2,2,1.0,0.4,2,2,1.0,1,3,4,3,0,1,0,2,6,6.9,A,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+30,106,30,2017-02-23,UNC Wilmington,,Towson,REG (Conf),W 83-78,*,30,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,2,0,2,1,0,0,0,3,5,3.2,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+31,107,31,2017-02-25,UNC Wilmington,,Northeastern,REG (Conf),W 74-65,*,30,2,7,0.286,1,6,0.167,1,1,1.0,0.357,1,2,0.5,2,6,8,3,1,0,0,2,6,7.0,H,1,1,ambrose-mosley-1,Ambrose Mosley,2017
+32,108,32,2017-03-04,UNC Wilmington,N,Delaware,CTOURN,W 91-82,*,30,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,4,2,6,2,0,0,0,0,9,10.1,N,1,0,ambrose-mosley-1,Ambrose Mosley,2017
+33,109,33,2017-03-05,UNC Wilmington,N,William & Mary,CTOURN,W 105-94,*,25,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,2,2,1,2,0,1,4,9,8.1,N,1,0,ambrose-mosley-1,Ambrose Mosley,2017
+34,110,34,2017-03-06,UNC Wilmington,N,College of Charleston,CTOURN,W 78-69,*,21,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,1,1,2,2,0,0,2,3,6,1.8,N,1,0,ambrose-mosley-1,Ambrose Mosley,2017
+35,111,35,2017-03-16,UNC Wilmington,N,Virginia,ROUND-64,L 71-76,*,35,5,5,1.0,4,4,1.0,1,1,1.0,1.4,0,0,,1,4,5,1,1,0,0,3,14,14.9,N,0,0,ambrose-mosley-1,Ambrose Mosley,2017

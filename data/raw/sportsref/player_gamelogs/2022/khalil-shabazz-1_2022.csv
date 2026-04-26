@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2021-11-09,San Francisco,,LIU,REG (Non-Conf),W 98-64,*,22,4,11,0.364,2,8,0.25,2,3,0.667,0.455,6,6,1.0,0,1,1,1,2,0,0,1,16,12.5,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+2,61,2,2021-11-11,San Francisco,,Prairie View A&M,REG (Non-Conf),W 92-76,*,31,7,11,0.636,5,8,0.625,2,3,0.667,0.864,0,0,,0,1,1,2,1,0,1,2,19,15.0,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+3,62,3,2021-11-13,San Francisco,,Davidson,REG (Non-Conf),W 65-60,*,32,3,10,0.3,1,5,0.2,2,5,0.4,0.35,1,2,0.5,0,3,3,4,6,0,1,2,8,9.7,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+4,63,4,2021-11-15,San Francisco,,Samford,REG (Non-Conf),W 77-55,*,33,3,9,0.333,1,6,0.167,2,3,0.667,0.389,4,6,0.667,1,9,10,2,2,0,0,3,11,10.7,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+5,64,5,2021-11-18,San Francisco,,Nevada,REG (Non-Conf),W 73-70,*,26,3,10,0.3,0,5,0.0,3,5,0.6,0.3,1,2,0.5,1,1,2,1,2,0,2,0,7,2.5,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+6,65,6,2021-11-22,San Francisco,,Morgan State,REG (Non-Conf),W 83-67,*,26,4,13,0.308,3,11,0.273,1,2,0.5,0.423,0,0,,0,1,1,1,0,0,4,0,11,0.5,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+7,66,7,2021-11-25,San Francisco,N,Towson,REG (Non-Conf),W 71-61,*,22,2,6,0.333,1,5,0.2,1,1,1.0,0.417,2,3,0.667,0,2,2,2,1,0,3,2,7,2.4,N,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+8,67,8,2021-11-26,San Francisco,N,UAB,REG (Non-Conf),W 63-61,*,31,4,12,0.333,3,7,0.429,1,5,0.2,0.458,0,0,,1,2,3,3,0,0,2,0,11,5.6,N,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+9,68,9,2021-12-04,San Francisco,,UNLV,REG (Non-Conf),W 83-62,*,33,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,0,0,0,4,6,0,0,1,12,14.0,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+10,69,10,2021-12-08,San Francisco,,Fresno State,REG (Non-Conf),W 71-63,*,15,0,8,0.0,0,4,0.0,0,4,0.0,0.0,0,0,,0,0,0,2,3,0,1,2,0,-3.0,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+11,70,11,2021-12-18,San Francisco,N,Grand Canyon,REG (Non-Conf),L 48-49,*,27,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,1,4,5,3,0,0,3,5,7,0.2,N,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+12,71,12,2021-12-19,San Francisco,@,Arizona State,REG (Non-Conf),W 66-65,*,37,7,20,0.35,4,12,0.333,3,8,0.375,0.45,2,4,0.5,0,1,1,2,1,0,3,3,20,6.5,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+13,72,13,2021-12-22,San Francisco,,Southern Illinois,REG (Non-Conf),W 64-52,*,29,3,7,0.429,0,3,0.0,3,4,0.75,0.429,1,1,1.0,0,4,4,1,1,0,1,2,7,4.4,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+14,73,14,2021-12-28,San Francisco,,Academy of Art,REG (Non-Conf),W 111-78,*,26,5,10,0.5,4,8,0.5,1,2,0.5,0.7,4,5,0.8,0,5,5,2,2,0,4,3,18,12.3,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+15,74,15,2022-01-06,San Francisco,N,Loyola Chicago,REG (Non-Conf),L 74-79,*,26,7,14,0.5,1,4,0.25,6,10,0.6,0.536,0,0,,1,3,4,1,0,0,0,5,15,8.3,N,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+16,75,16,2022-01-08,San Francisco,,San Diego,REG (Conf),W 88-73,*,33,11,17,0.647,3,5,0.6,8,12,0.667,0.735,2,2,1.0,0,6,6,2,3,0,1,1,27,24.3,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+17,76,17,2022-01-13,San Francisco,,Loyola Marymount,REG (Conf),W 97-73,*,31,6,15,0.4,3,8,0.375,3,7,0.429,0.5,2,2,1.0,0,2,2,6,2,0,3,1,17,12.3,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+18,77,18,2022-01-15,San Francisco,,Brigham Young,REG (Conf),L 69-71,*,36,4,14,0.286,0,4,0.0,4,10,0.4,0.286,6,7,0.857,2,3,5,2,4,0,1,3,14,10.9,H,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+19,78,19,2022-01-20,San Francisco,@,Gonzaga,REG (Conf),L 62-78,*,25,5,16,0.313,2,6,0.333,3,10,0.3,0.375,3,3,1.0,1,1,2,2,1,0,2,4,15,5.6,A,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+20,79,20,2022-01-22,San Francisco,@,Pepperdine,REG (Conf),W 71-45,*,31,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,5,6,3,1,0,2,0,5,4.2,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+21,80,21,2022-01-27,San Francisco,,St. Mary's (CA),REG (Conf),L 70-72,*,34,3,8,0.375,1,4,0.25,2,4,0.5,0.438,3,4,0.75,0,0,0,0,1,0,1,3,10,4.0,H,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+22,81,22,2022-01-29,San Francisco,,Santa Clara,REG (Conf),W 88-85,*,27,4,12,0.333,3,7,0.429,1,5,0.2,0.458,6,6,1.0,0,2,2,2,0,0,1,0,17,11.2,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+23,82,23,2022-02-03,San Francisco,@,Brigham Young,REG (Conf),W 73-59,*,33,4,11,0.364,3,7,0.429,1,4,0.25,0.5,4,5,0.8,1,3,4,1,1,0,2,4,15,8.2,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+24,83,24,2022-02-05,San Francisco,@,Portland,REG (Conf),W 74-71,*,23,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,2,1.0,0,3,3,1,1,0,1,2,7,2.3,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+25,84,25,2022-02-08,San Francisco,,Portland,REG (Conf),L 68-69,*,31,2,11,0.182,2,7,0.286,0,4,0.0,0.273,2,2,1.0,2,2,4,2,2,0,0,3,8,5.3,H,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+26,85,26,2022-02-10,San Francisco,,Pepperdine,REG (Conf),W 105-61,*,27,9,18,0.5,5,9,0.556,4,9,0.444,0.639,1,1,1.0,1,3,4,1,4,0,1,2,24,19.5,H,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+27,86,27,2022-02-12,San Francisco,@,Santa Clara,REG (Conf),W 74-58,*,34,3,9,0.333,1,5,0.2,2,4,0.5,0.389,4,4,1.0,2,8,10,5,3,0,4,3,11,11.0,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+28,87,28,2022-02-17,San Francisco,@,St. Mary's (CA),REG (Conf),L 64-69,*,33,7,15,0.467,5,10,0.5,2,5,0.4,0.633,3,4,0.75,0,1,1,1,3,0,2,5,22,13.9,A,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+29,88,29,2022-02-21,San Francisco,@,Pacific,REG (Conf),W 104-71,*,28,6,7,0.857,5,6,0.833,1,1,1.0,1.214,4,4,1.0,0,4,4,1,0,0,1,3,21,18.2,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+30,89,30,2022-02-24,San Francisco,,Gonzaga,REG (Conf),L 73-89,*,30,6,18,0.333,2,7,0.286,4,11,0.364,0.389,3,3,1.0,0,3,3,2,0,0,2,2,17,6.3,H,0,1,khalil-shabazz-1,Khalil Shabazz,2022
+31,90,31,2022-02-26,San Francisco,@,San Diego,REG (Conf),W 78-62,*,35,6,12,0.5,3,7,0.429,3,5,0.6,0.625,0,0,,0,0,0,5,2,0,0,0,15,14.5,A,1,1,khalil-shabazz-1,Khalil Shabazz,2022
+32,91,32,2022-03-05,San Francisco,N,Brigham Young,CTOURN,W 75-63,*,36,7,15,0.467,5,9,0.556,2,6,0.333,0.633,3,4,0.75,0,4,4,2,0,0,2,4,22,12.9,N,1,0,khalil-shabazz-1,Khalil Shabazz,2022
+33,92,33,2022-03-07,San Francisco,N,Gonzaga,CTOURN,L 71-81,*,34,10,25,0.4,5,15,0.333,5,10,0.5,0.5,2,2,1.0,1,2,3,2,3,0,3,4,27,14.6,N,0,0,khalil-shabazz-1,Khalil Shabazz,2022
+34,93,34,2022-03-17,San Francisco,N,Murray State,ROUND-64,L 87-92 (OT),*,43,1,10,0.1,1,6,0.167,0,4,0.0,0.15,0,0,,0,4,4,1,1,0,0,1,3,-1.1,N,0,0,khalil-shabazz-1,Khalil Shabazz,2022

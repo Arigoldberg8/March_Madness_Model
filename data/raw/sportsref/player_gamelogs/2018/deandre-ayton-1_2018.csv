@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,Arizona,,Northern Arizona,REG (Non-Conf),W 101-67,*,30,6,11,0.545,0,2,0.0,6,9,0.667,0.545,7,8,0.875,2,10,12,1,0,3,2,2,19,17.7,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+2,2,2,2017-11-12,Arizona,,UMBC,REG (Non-Conf),W 103-78,*,33,9,13,0.692,0,0,,9,13,0.692,0.692,1,3,0.333,3,10,13,1,1,2,1,1,19,19.5,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+3,3,3,2017-11-16,Arizona,,Cal State Bakersfield,REG (Non-Conf),W 91-59,*,25,6,11,0.545,1,4,0.25,5,7,0.714,0.591,5,6,0.833,1,9,10,3,2,0,1,3,18,17.6,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+4,4,4,2017-11-22,Arizona,N,NC State,REG (Non-Conf),L 84-90,*,34,7,12,0.583,1,4,0.25,6,8,0.75,0.625,12,17,0.706,4,10,14,1,2,0,2,0,27,25.9,N,0,1,deandre-ayton-1,Deandre Ayton,2018
+5,5,5,2017-11-23,Arizona,N,SMU,REG (Non-Conf),L 60-66,*,31,6,11,0.545,0,1,0.0,6,10,0.6,0.545,5,6,0.833,3,12,15,2,0,2,3,4,17,15.2,N,0,1,deandre-ayton-1,Deandre Ayton,2018
+6,6,6,2017-11-24,Arizona,N,Purdue,REG (Non-Conf),L 64-89,*,30,10,14,0.714,1,2,0.5,9,12,0.75,0.75,1,4,0.25,3,5,8,0,0,1,1,5,22,16.3,N,0,1,deandre-ayton-1,Deandre Ayton,2018
+7,7,7,2017-11-29,Arizona,,Long Beach State,REG (Non-Conf),W 91-56,*,25,6,6,1.0,1,1,1.0,5,5,1.0,1.083,0,0,,1,8,9,3,0,0,2,3,13,13.2,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+8,8,8,2017-12-02,Arizona,@,UNLV,REG (Non-Conf),W 91-88 (OT),*,39,12,23,0.522,1,3,0.333,11,20,0.55,0.543,3,4,0.75,4,6,10,1,1,3,1,3,28,22.5,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+9,9,9,2017-12-05,Arizona,N,Texas A&M,REG (Non-Conf),W 67-64,*,35,4,9,0.444,0,2,0.0,4,7,0.571,0.444,5,6,0.833,2,8,10,3,0,1,2,3,13,11.3,N,1,1,deandre-ayton-1,Deandre Ayton,2018
+10,10,10,2017-12-09,Arizona,,Alabama,REG (Non-Conf),W 88-82,*,36,12,18,0.667,1,2,0.5,11,16,0.688,0.694,4,8,0.5,6,12,18,1,0,1,2,1,29,26.4,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+11,11,11,2017-12-16,Arizona,@,New Mexico,REG (Non-Conf),W 89-73,*,36,7,9,0.778,0,0,,7,9,0.778,0.778,0,0,,2,11,13,0,0,2,1,1,14,15.2,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+12,12,12,2017-12-18,Arizona,,North Dakota State,REG (Non-Conf),W 83-53,*,26,11,17,0.647,0,1,0.0,11,16,0.688,0.647,3,3,1.0,3,6,9,0,0,1,0,1,25,21.7,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+13,13,13,2017-12-21,Arizona,,Connecticut,REG (Non-Conf),W 73-58,*,27,4,8,0.5,1,1,1.0,3,7,0.429,0.563,0,0,,0,7,7,5,0,2,3,4,9,7.4,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+14,14,14,2017-12-30,Arizona,,Arizona State,REG (Conf),W 84-78,*,35,9,14,0.643,0,0,,9,14,0.643,0.643,5,7,0.714,6,13,19,3,1,3,6,2,23,22.5,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+15,15,15,2018-01-04,Arizona,@,Utah,REG (Conf),W 94-82,*,37,10,15,0.667,0,0,,10,15,0.667,0.667,4,5,0.8,4,10,14,1,0,2,3,1,24,21.6,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+16,16,16,2018-01-06,Arizona,@,Colorado,REG (Conf),L 77-80,*,32,11,17,0.647,1,1,1.0,10,16,0.625,0.676,3,4,0.75,3,2,5,0,1,2,0,2,26,22.4,A,0,1,deandre-ayton-1,Deandre Ayton,2018
+17,17,17,2018-01-11,Arizona,,Oregon State,REG (Conf),W 62-53,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,2,4,0.5,4,6,10,1,1,1,1,2,14,15.2,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+18,18,18,2018-01-13,Arizona,,Oregon,REG (Conf),W 90-83,*,37,7,11,0.636,0,0,,7,11,0.636,0.636,10,11,0.909,1,6,7,1,0,1,2,4,24,19.0,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+19,19,19,2018-01-17,Arizona,@,California,REG (Conf),W 79-58,*,31,9,11,0.818,0,0,,9,11,0.818,0.818,2,5,0.4,2,9,11,1,1,2,2,3,20,18.7,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+20,20,20,2018-01-20,Arizona,@,Stanford,REG (Conf),W 73-71,*,28,4,10,0.4,0,1,0.0,4,9,0.444,0.4,1,1,1.0,2,6,8,3,0,6,3,5,9,8.1,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+21,21,21,2018-01-25,Arizona,,Colorado,REG (Conf),W 80-71,*,37,4,10,0.4,0,0,,4,10,0.4,0.4,12,12,1.0,0,6,6,0,0,2,1,1,20,16.4,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+22,22,22,2018-01-27,Arizona,,Utah,REG (Conf),W 74-73,*,38,6,10,0.6,1,1,1.0,5,9,0.556,0.65,2,2,1.0,0,8,8,2,1,2,2,2,15,13.8,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+23,23,23,2018-01-31,Arizona,@,Washington State,REG (Conf),W 100-72,*,25,11,12,0.917,0,0,,11,12,0.917,0.917,3,5,0.6,2,9,11,0,0,2,0,2,25,24.9,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+24,24,24,2018-02-03,Arizona,@,Washington,REG (Conf),L 75-78,*,36,9,16,0.563,0,0,,9,16,0.563,0.563,1,3,0.333,6,6,12,1,1,3,2,4,19,16.8,A,0,1,deandre-ayton-1,Deandre Ayton,2018
+25,25,25,2018-02-08,Arizona,,UCLA,REG (Conf),L 74-82,*,37,7,19,0.368,0,0,,7,19,0.368,0.368,2,2,1.0,5,7,12,2,0,2,1,3,16,11.7,H,0,1,deandre-ayton-1,Deandre Ayton,2018
+26,26,26,2018-02-10,Arizona,,Southern California,REG (Conf),W 81-67,*,32,7,16,0.438,1,3,0.333,6,13,0.462,0.469,3,4,0.75,2,5,7,0,0,1,1,2,18,11.0,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+27,27,27,2018-02-15,Arizona,@,Arizona State,REG (Conf),W 77-70,*,38,8,12,0.667,0,1,0.0,8,11,0.727,0.667,9,12,0.75,8,8,16,4,1,3,4,1,25,28.1,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+28,28,28,2018-02-22,Arizona,@,Oregon State,REG (Conf),W 75-65 (OT),*,41,7,12,0.583,0,0,,7,12,0.583,0.583,5,6,0.833,4,8,12,4,1,3,4,1,19,19.7,A,1,1,deandre-ayton-1,Deandre Ayton,2018
+29,29,29,2018-02-24,Arizona,@,Oregon,REG (Conf),L 93-98 (OT),*,44,11,15,0.733,0,1,0.0,11,14,0.786,0.733,6,6,1.0,5,13,18,0,0,4,1,1,28,30.7,A,0,1,deandre-ayton-1,Deandre Ayton,2018
+30,30,30,2018-03-01,Arizona,,Stanford,REG (Conf),W 75-67,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,4,8,0.5,5,5,10,4,0,2,3,3,12,12.8,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+31,31,31,2018-03-03,Arizona,,California,REG (Conf),W 66-54,*,35,9,12,0.75,1,1,1.0,8,11,0.727,0.792,7,8,0.875,6,14,20,1,1,0,2,1,26,28.5,H,1,1,deandre-ayton-1,Deandre Ayton,2018
+32,32,32,2018-03-08,Arizona,N,Colorado,CTOURN,W 83-67,*,25,4,14,0.286,0,0,,4,14,0.286,0.286,2,6,0.333,2,4,6,2,2,3,3,5,10,3.3,N,1,0,deandre-ayton-1,Deandre Ayton,2018
+33,33,33,2018-03-09,Arizona,N,UCLA,CTOURN,W 78-67 (OT),*,40,13,16,0.813,1,1,1.0,12,15,0.8,0.844,5,6,0.833,4,10,14,3,2,2,2,2,32,34.1,N,1,0,deandre-ayton-1,Deandre Ayton,2018
+34,34,34,2018-03-10,Arizona,N,Southern California,CTOURN,W 75-61,*,39,14,20,0.7,0,0,,14,20,0.7,0.7,4,4,1.0,8,10,18,2,0,1,4,3,32,29.1,N,1,0,deandre-ayton-1,Deandre Ayton,2018
+35,35,35,2018-03-15,Arizona,N,Buffalo,ROUND-64,L 68-89,*,38,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,5,0.4,5,8,13,1,1,1,1,0,14,13.4,N,0,0,deandre-ayton-1,Deandre Ayton,2018

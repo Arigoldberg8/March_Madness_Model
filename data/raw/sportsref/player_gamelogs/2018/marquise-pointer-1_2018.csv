@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2017-11-10,College of Charleston,,Siena,REG (Non-Conf),W 68-60 (OT),,25,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,2,0.5,1,2,3,0,2,0,2,1,7,4.8,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+2,68,2,2017-11-13,College of Charleston,@,Wichita State,REG (Non-Conf),L 63-81,,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,1,1,2,0,1,0,0,4,2.6,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+3,69,3,2017-11-18,College of Charleston,@,Charlotte,REG (Non-Conf),W 81-72,,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,2,0,0,4,2,5,-0.8,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+4,70,4,2017-11-22,College of Charleston,N,Cal Poly,REG (Non-Conf),L 68-73,,27,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,1,2,3,0,2,1,1,0,10,8.6,N,0,1,marquise-pointer-1,Marquise Pointer,2018
+5,71,5,2017-11-23,College of Charleston,N,Sam Houston State,REG (Non-Conf),W 59-49,*,36,3,8,0.375,2,6,0.333,1,2,0.5,0.5,4,7,0.571,2,5,7,4,4,1,2,1,12,14.4,N,1,1,marquise-pointer-1,Marquise Pointer,2018
+6,72,6,2017-11-25,College of Charleston,N,Ak. Anchorage,REG (Non-Conf),W 55-46,*,27,2,8,0.25,1,6,0.167,1,2,0.5,0.313,1,2,0.5,0,4,4,1,0,0,1,0,6,1.7,N,1,1,marquise-pointer-1,Marquise Pointer,2018
+7,73,7,2017-11-30,College of Charleston,,Western Carolina,REG (Non-Conf),W 69-60,,29,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,0,3,3,3,1,0,1,1,5,5.9,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+8,74,8,2017-12-04,College of Charleston,,High Point,REG (Non-Conf),W 70-58,,26,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,2,1,3,3,1,0,0,1,5,7.0,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+9,75,9,2017-12-10,College of Charleston,,North Greenville,REG (Non-Conf),W 92-60,,26,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,0,3,3,5,1,0,0,2,11,12.3,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+10,76,10,2017-12-16,College of Charleston,@,Rhode Island,REG (Non-Conf),L 62-68,,23,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,0,0,0,3,3,1.1,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+11,77,11,2017-12-19,College of Charleston,,South Carolina State,REG (Non-Conf),W 80-64,,21,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,3,4,2,1,0,0,0,1,3.9,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+12,78,12,2017-12-22,College of Charleston,@,Coastal Carolina,REG (Non-Conf),W 67-65,,18,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,1,2,0,0,4,7,7.2,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+13,79,13,2017-12-30,College of Charleston,,Towson,REG (Conf),W 73-62,,28,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,2,3,1,0,0,1,0,4,2.3,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+14,80,14,2018-01-02,College of Charleston,,Delaware,REG (Conf),W 93-78,,22,5,7,0.714,1,3,0.333,4,4,1.0,0.786,3,4,0.75,0,5,5,1,1,1,0,4,14,13.0,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+15,81,15,2018-01-05,College of Charleston,@,Drexel,REG (Conf),L 82-87 (OT),,29,6,12,0.5,2,4,0.5,4,8,0.5,0.583,0,0,,1,4,5,1,0,0,2,3,14,7.4,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+16,82,16,2018-01-07,College of Charleston,@,Towson,REG (Conf),L 62-73,,23,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,4,4,0,0,0,2,2,5,0.0,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+17,83,17,2018-01-11,College of Charleston,,Northeastern,REG (Conf),W 82-66,,22,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,2,0,2,2,0,0,1,1,8,6.3,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+18,84,18,2018-01-13,College of Charleston,@,Elon,REG (Conf),L 58-63,,25,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,2,1,3,2,2,0,2,1,3,2.6,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+19,85,19,2018-01-18,College of Charleston,,UNC Wilmington,REG (Conf),W 80-76,,25,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,3,0.333,2,0,2,2,0,1,0,1,3,4.3,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+20,86,20,2018-01-20,College of Charleston,,Hofstra,REG (Conf),W 76-70,,26,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,3,0.667,0,2,2,2,0,1,0,0,8,5.9,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+21,87,21,2018-01-25,College of Charleston,@,Delaware,REG (Conf),W 62-54,,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,2,1,3,1,0,0,1,1,10,7.3,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+22,88,22,2018-01-27,College of Charleston,,James Madison,REG (Conf),W 66-59,,18,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,0,0,0,0,0,1,4,2,-3.7,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+23,89,23,2018-02-01,College of Charleston,@,Northeastern,REG (Conf),W 69-64,,30,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,1,5,6,1,1,0,1,3,4,1.6,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+24,90,24,2018-02-03,College of Charleston,@,Hofstra,REG (Conf),W 86-85,,24,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,2,3,3,0,0,2,0,3,3.4,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+25,91,25,2018-02-08,College of Charleston,,William & Mary,REG (Conf),W 82-77,,24,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,1,0,1,1,0,-1.9,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+26,92,26,2018-02-10,College of Charleston,,Drexel,REG (Conf),W 89-67,,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,3,1,0,0,1,2,3.3,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+27,93,27,2018-02-15,College of Charleston,@,James Madison,REG (Conf),W 81-78 (OT),,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,1,2,-0.5,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+28,94,28,2018-02-17,College of Charleston,@,UNC Wilmington,REG (Conf),W 88-74,,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,1,1,2,0,0,0,1,4,4.3,A,1,1,marquise-pointer-1,Marquise Pointer,2018
+29,95,29,2018-02-22,College of Charleston,,Elon,REG (Conf),W 79-58,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,3,4,1,2,0,2,0,0,0.9,H,1,1,marquise-pointer-1,Marquise Pointer,2018
+30,96,30,2018-02-24,College of Charleston,@,William & Mary,REG (Conf),L 104-114 (OT),,36,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,1,4,5,4,0,0,0,4,2,2.7,A,0,1,marquise-pointer-1,Marquise Pointer,2018
+31,97,31,2018-03-04,College of Charleston,N,Drexel,CTOURN,W 66-59,,28,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,3,3,6,3,2,0,1,1,2,4.9,N,1,0,marquise-pointer-1,Marquise Pointer,2018
+32,98,32,2018-03-05,College of Charleston,N,William & Mary,CTOURN,W 83-73,,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,2,2,1.0,1,3,4,5,1,0,0,2,10,14.4,N,1,0,marquise-pointer-1,Marquise Pointer,2018
+33,99,33,2018-03-06,College of Charleston,N,Northeastern,CTOURN,W 83-76 (OT),,29,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,0,2,2,1,0,0,1,2,9,6.9,N,1,0,marquise-pointer-1,Marquise Pointer,2018
+34,100,34,2018-03-16,College of Charleston,N,Auburn,ROUND-64,L 58-62,,34,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,2,3,5,3,2,0,3,2,9,7.6,N,0,0,marquise-pointer-1,Marquise Pointer,2018

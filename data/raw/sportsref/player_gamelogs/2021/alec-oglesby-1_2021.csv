@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-12-01,Cleveland State,@,Toledo,REG (Non-Conf),L 61-70,*,23,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,0,4,4,1,2,0,0,4,8,5.9,A,0,1,alec-oglesby-1,Alec Oglesby,2021
+2,2,2,2020-12-06,Cleveland State,@,Ohio,REG (Non-Conf),L 46-101,*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,1,1.0,0,1,1,0,0,0,2,0,4,-0.8,A,0,1,alec-oglesby-1,Alec Oglesby,2021
+3,3,3,2020-12-13,Cleveland State,@,Ohio State,REG (Non-Conf),L 61-67,,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,1,0,0,0,3,4,1.4,A,0,1,alec-oglesby-1,Alec Oglesby,2021
+4,4,4,2020-12-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 63-61,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,1,0,-1.1,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+5,5,5,2020-12-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 89-80,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+6,6,6,2020-12-26,Cleveland State,,Youngstown State,REG (Conf),W 87-69,,21,2,4,0.5,2,4,0.5,0,0,,0.75,3,4,0.75,0,3,3,3,0,0,0,5,9,7.6,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+7,7,7,2020-12-27,Cleveland State,,Youngstown State,REG (Conf),W 81-74,,24,1,3,0.333,1,3,0.333,0,0,,0.5,3,3,1.0,0,1,1,3,0,0,1,3,6,4.5,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+8,8,8,2021-01-01,Cleveland State,@,IUPUI,REG (Conf),W 65-62,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,1,3,1.6,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+9,9,9,2021-01-02,Cleveland State,@,IUPUI,REG (Conf),W 59-49,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.8,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+10,10,10,2021-01-08,Cleveland State,,Northern Kentucky,REG (Conf),W 58-44,,12,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,1,2,0,0,1,2,2.6,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+11,11,11,2021-01-09,Cleveland State,,Northern Kentucky,REG (Conf),W 74-71 (OT),,27,6,10,0.6,5,8,0.625,1,2,0.5,0.85,0,0,,1,1,2,0,0,0,2,4,17,9.8,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+12,12,12,2021-01-15,Cleveland State,@,Wright State,REG (Conf),W 66-64,,13,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,0,0,0,1,0,0,2,3,0.1,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+13,13,13,2021-01-16,Cleveland State,@,Wright State,REG (Conf),L 49-85,,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,0,0,0,3,2,-1.0,A,0,1,alec-oglesby-1,Alec Oglesby,2021
+14,14,14,2021-01-22,Cleveland State,,Milwaukee,REG (Conf),W 64-53,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,2,0,-1.6,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+15,15,15,2021-01-23,Cleveland State,,Milwaukee,REG (Conf),L 80-81 (OT),,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,0,2,0,-1.3,H,0,1,alec-oglesby-1,Alec Oglesby,2021
+16,16,16,2021-01-29,Cleveland State,,Green Bay,REG (Conf),W 74-68,,15,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,1,0,0,2,3,6,1.8,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+17,17,17,2021-01-30,Cleveland State,,Green Bay,REG (Conf),W 73-65,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.1,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+18,18,18,2021-02-05,Cleveland State,@,Oakland,REG (Conf),W 80-72,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,2,2,4,0,1,0,0,1,5,6.3,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+19,19,19,2021-02-06,Cleveland State,@,Oakland,REG (Conf),W 80-78,,8,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,0,0,0,0,0,5,5.0,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+20,20,20,2021-02-12,Cleveland State,,Detroit Mercy,REG (Conf),L 83-89,,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,0,2,0,1,1,4,3.6,H,0,1,alec-oglesby-1,Alec Oglesby,2021
+21,21,21,2021-02-13,Cleveland State,,Detroit Mercy,REG (Conf),W 71-64,,33,4,9,0.444,3,6,0.5,1,3,0.333,0.611,4,5,0.8,0,1,1,1,0,0,2,3,15,7.7,H,1,1,alec-oglesby-1,Alec Oglesby,2021
+22,22,22,2021-02-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),L 68-75,,17,4,8,0.5,4,6,0.667,0,2,0.0,0.75,1,2,0.5,1,0,1,0,1,0,1,2,13,8.5,A,0,1,alec-oglesby-1,Alec Oglesby,2021
+23,23,23,2021-02-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 67-55,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,1,1,alec-oglesby-1,Alec Oglesby,2021
+24,24,24,2021-03-02,Cleveland State,,Purdue Fort Wayne,CTOURN,W 108-104 (3OT),,24,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,0,0,5,4.4,H,1,0,alec-oglesby-1,Alec Oglesby,2021
+25,25,25,2021-03-08,Cleveland State,N,Milwaukee,CTOURN,W 71-65,,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,N,1,0,alec-oglesby-1,Alec Oglesby,2021
+26,26,26,2021-03-09,Cleveland State,N,Oakland,CTOURN,W 80-69,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,1,0,1,0,-1.1,N,1,0,alec-oglesby-1,Alec Oglesby,2021
+27,27,27,2021-03-19,Cleveland State,N,Houston,ROUND-64,L 56-87,,15,1,1,1.0,1,1,1.0,0,0,,1.5,3,4,0.75,0,1,1,0,0,0,1,0,6,4.6,N,0,0,alec-oglesby-1,Alec Oglesby,2021

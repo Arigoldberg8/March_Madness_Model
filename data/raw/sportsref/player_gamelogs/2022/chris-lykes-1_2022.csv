@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2021-11-09,Arkansas,,Mercer,REG (Non-Conf),W 74-61,,26,4,7,0.571,1,1,1.0,3,6,0.5,0.643,7,8,0.875,0,2,2,1,0,0,1,1,16,12.2,H,1,1,chris-lykes-1,Chris Lykes,2022
+2,94,2,2021-11-13,Arkansas,,Gardner-Webb,REG (Non-Conf),W 86-69,,16,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,2,0.0,0,0,0,0,0,0,0,1,5,1.1,H,1,1,chris-lykes-1,Chris Lykes,2022
+3,95,3,2021-11-17,Arkansas,,Northern Iowa,REG (Non-Conf),W 93-80,,31,8,16,0.5,4,7,0.571,4,9,0.444,0.625,6,7,0.857,0,1,1,2,1,0,2,0,26,18.3,H,1,1,chris-lykes-1,Chris Lykes,2022
+4,96,4,2021-11-22,Arkansas,N,Kansas State,REG (Non-Conf),W 72-64,,27,2,7,0.286,0,3,0.0,2,4,0.5,0.286,10,10,1.0,0,3,3,2,0,0,2,2,14,9.4,N,1,1,chris-lykes-1,Chris Lykes,2022
+5,97,5,2021-11-23,Arkansas,N,Cincinnati,REG (Non-Conf),W 73-67,,31,3,12,0.25,1,4,0.25,2,8,0.25,0.292,8,10,0.8,1,0,1,3,0,0,0,3,15,8.6,N,1,1,chris-lykes-1,Chris Lykes,2022
+6,98,6,2021-11-28,Arkansas,,Pennsylvania,REG (Non-Conf),W 76-60,,16,0,7,0.0,0,2,0.0,0,5,0.0,0.0,0,0,,1,0,1,1,1,0,0,1,0,-2.9,H,1,1,chris-lykes-1,Chris Lykes,2022
+7,99,7,2021-12-01,Arkansas,,Central Arkansas,REG (Non-Conf),W 97-60,,21,3,7,0.429,0,4,0.0,3,3,1.0,0.429,3,4,0.75,0,0,0,5,2,0,0,1,9,10.0,H,1,1,chris-lykes-1,Chris Lykes,2022
+8,100,8,2021-12-04,Arkansas,,Little Rock,REG (Non-Conf),W 93-78,,27,3,8,0.375,2,4,0.5,1,4,0.25,0.5,6,7,0.857,1,2,3,1,2,0,1,3,14,11.0,H,1,1,chris-lykes-1,Chris Lykes,2022
+9,101,9,2021-12-07,Arkansas,,Charlotte,REG (Non-Conf),W 86-66,,30,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,3,0.667,0,2,2,3,1,0,1,0,13,11.7,H,1,1,chris-lykes-1,Chris Lykes,2022
+10,102,10,2021-12-11,Arkansas,N,Oklahoma,REG (Non-Conf),L 66-88,,30,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,0,1,1,2,1,0,1,3,6,1.7,N,0,1,chris-lykes-1,Chris Lykes,2022
+11,103,11,2021-12-18,Arkansas,N,Hofstra,REG (Non-Conf),L 81-89,,25,5,11,0.455,4,9,0.444,1,2,0.5,0.636,5,5,1.0,0,0,0,0,3,0,2,5,19,12.3,N,0,1,chris-lykes-1,Chris Lykes,2022
+12,104,12,2021-12-21,Arkansas,,Elon,REG (Non-Conf),W 81-55,*,25,4,8,0.5,1,4,0.25,3,4,0.75,0.563,12,12,1.0,0,2,2,1,1,0,2,0,21,17.3,H,1,1,chris-lykes-1,Chris Lykes,2022
+13,105,13,2021-12-29,Arkansas,@,Mississippi State,REG (Conf),L 68-81,*,24,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,3,1.0,0,0,0,2,1,0,4,2,10,2.5,A,0,1,chris-lykes-1,Chris Lykes,2022
+14,106,14,2022-01-04,Arkansas,,Vanderbilt,REG (Conf),L 74-75,,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,2,1,3,1,1,0,1,2,1,0.1,H,0,1,chris-lykes-1,Chris Lykes,2022
+15,107,15,2022-01-08,Arkansas,@,Texas A&M,REG (Conf),L 81-86,,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,0,0,2,0,0,1,2,1,-1.9,A,0,1,chris-lykes-1,Chris Lykes,2022
+16,108,16,2022-01-12,Arkansas,,Missouri,REG (Conf),W 87-43,,21,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,0,0,0,2,0,1,1,3,8,4.6,H,1,1,chris-lykes-1,Chris Lykes,2022
+17,109,17,2022-01-15,Arkansas,@,Louisiana State,REG (Conf),W 65-58,,21,2,11,0.182,0,3,0.0,2,8,0.25,0.182,2,2,1.0,0,1,1,0,0,0,1,4,6,-3.2,A,1,1,chris-lykes-1,Chris Lykes,2022
+18,110,18,2022-01-18,Arkansas,,South Carolina,REG (Conf),W 75-59,,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,1,1,2,-0.5,H,1,1,chris-lykes-1,Chris Lykes,2022
+19,111,19,2022-01-22,Arkansas,,Texas A&M,REG (Conf),W 76-73 (OT),,10,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,6,0.5,0,1,1,2,0,0,3,1,6,1.4,H,1,1,chris-lykes-1,Chris Lykes,2022
+20,112,20,2022-01-26,Arkansas,@,Ole Miss,REG (Conf),W 64-55,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,chris-lykes-1,Chris Lykes,2022
+21,113,21,2022-01-29,Arkansas,,West Virginia,REG (Non-Conf),W 77-68,,8,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,0,2,2,0,0,0,1,2,6,3.8,H,1,1,chris-lykes-1,Chris Lykes,2022
+22,114,22,2022-02-02,Arkansas,@,Georgia,REG (Conf),W 99-73,,19,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,1,0,1,7,4,0,1,0,9,13.6,A,1,1,chris-lykes-1,Chris Lykes,2022
+23,115,23,2022-02-05,Arkansas,,Mississippi State,REG (Conf),W 63-55,,20,4,8,0.5,2,3,0.667,2,5,0.4,0.625,0,0,,0,2,2,2,2,0,0,2,10,9.2,H,1,1,chris-lykes-1,Chris Lykes,2022
+24,116,24,2022-02-08,Arkansas,,Auburn,REG (Conf),W 80-76 (OT),,17,1,7,0.143,0,3,0.0,1,4,0.25,0.143,4,4,1.0,0,4,4,2,0,0,0,1,6,3.7,H,1,1,chris-lykes-1,Chris Lykes,2022
+25,117,25,2022-02-12,Arkansas,@,Alabama,REG (Conf),L 67-68,,17,1,8,0.125,0,1,0.0,1,7,0.143,0.125,0,0,,1,0,1,3,2,0,0,2,2,0.8,A,0,1,chris-lykes-1,Chris Lykes,2022
+26,118,26,2022-02-15,Arkansas,@,Missouri,REG (Conf),W 76-57,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,1,0,1,1,0,-0.8,A,1,1,chris-lykes-1,Chris Lykes,2022
+27,119,27,2022-02-19,Arkansas,,Tennessee,REG (Conf),W 58-48,,18,1,6,0.167,0,3,0.0,1,3,0.333,0.167,6,6,1.0,0,1,1,2,2,0,4,3,8,2.7,H,1,1,chris-lykes-1,Chris Lykes,2022
+28,120,28,2022-02-22,Arkansas,@,Florida,REG (Conf),W 82-74,,10,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,1,0,0,3,3,2.5,A,1,1,chris-lykes-1,Chris Lykes,2022
+29,121,29,2022-02-26,Arkansas,,Kentucky,REG (Conf),W 75-73,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,H,1,1,chris-lykes-1,Chris Lykes,2022
+30,122,30,2022-03-02,Arkansas,,Louisiana State,REG (Conf),W 77-76,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,chris-lykes-1,Chris Lykes,2022
+31,123,31,2022-03-05,Arkansas,@,Tennessee,REG (Conf),L 74-78,,25,4,7,0.571,3,5,0.6,1,2,0.5,0.786,4,4,1.0,0,0,0,3,3,0,2,5,15,12.8,A,0,1,chris-lykes-1,Chris Lykes,2022
+32,124,32,2022-03-11,Arkansas,N,Louisiana State,CTOURN,W 79-67,,29,5,9,0.556,1,4,0.25,4,5,0.8,0.611,7,8,0.875,0,1,1,2,3,0,1,4,18,15.4,N,1,0,chris-lykes-1,Chris Lykes,2022
+33,125,33,2022-03-12,Arkansas,N,Texas A&M,CTOURN,L 64-82,,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,1,1,0,2,2,1,-3.3,N,0,0,chris-lykes-1,Chris Lykes,2022
+34,126,34,2022-03-17,Arkansas,N,Vermont,ROUND-64,W 75-71,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,1,2,-0.5,N,1,0,chris-lykes-1,Chris Lykes,2022
+35,127,35,2022-03-19,Arkansas,N,New Mexico State,ROUND-32,W 53-48,,9,0,1,0.0,0,0,,0,1,0.0,0.0,7,7,1.0,0,0,0,0,0,0,1,0,7,5.3,N,1,0,chris-lykes-1,Chris Lykes,2022
+36,128,36,2022-03-24,Arkansas,N,Gonzaga,ROUND-16,W 74-68,,4,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,0,1,2,1.6,N,1,0,chris-lykes-1,Chris Lykes,2022
+37,129,37,2022-03-26,Arkansas,N,Duke,ROUND-8,L 69-78,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,0,0,0,1,2,1.2,N,0,0,chris-lykes-1,Chris Lykes,2022

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2020-11-25,Oregon State,,California,REG (Non-Conf),W 71-63,*,27,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,0,2,2,4,0,0,2,3,11,8.6,H,1,1,zach-reichle-1,Zach Reichle,2021
+2,94,2,2020-11-27,Oregon State,,Nw University,REG (Non-Conf),W 114-42,*,18,5,6,0.833,2,3,0.667,3,3,1.0,1.0,0,0,,0,1,1,5,1,0,2,2,12,11.8,H,1,1,zach-reichle-1,Zach Reichle,2021
+3,95,3,2020-12-02,Oregon State,@,Washington State,REG (Conf),L 55-59,*,31,4,8,0.5,3,6,0.5,1,2,0.5,0.688,1,2,0.5,1,4,5,3,0,0,2,2,12,8.8,A,0,1,zach-reichle-1,Zach Reichle,2021
+4,96,4,2020-12-06,Oregon State,,Wyoming,REG (Non-Conf),L 73-76,*,20,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,3,2,5,3,0,0,3,2,2,-0.8,H,0,1,zach-reichle-1,Zach Reichle,2021
+5,97,5,2020-12-10,Oregon State,,Portland,REG (Non-Conf),L 86-87 (OT),*,28,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,1,1.0,0,3,3,7,1,0,1,2,5,5.2,H,0,1,zach-reichle-1,Zach Reichle,2021
+6,98,6,2020-12-16,Oregon State,,UTSA,REG (Non-Conf),W 73-61,*,23,2,5,0.4,1,3,0.333,1,2,0.5,0.5,5,6,0.833,1,5,6,4,1,0,3,2,10,9.1,H,1,1,zach-reichle-1,Zach Reichle,2021
+7,99,7,2020-12-22,Oregon State,,Portland State,REG (Non-Conf),W 67-62,*,34,4,9,0.444,2,5,0.4,2,4,0.5,0.556,5,8,0.625,0,6,6,4,3,0,1,2,15,14.9,H,1,1,zach-reichle-1,Zach Reichle,2021
+8,100,8,2021-01-02,Oregon State,,California,REG (Conf),W 73-64,*,17,1,4,0.25,0,0,,1,4,0.25,0.25,6,6,1.0,2,1,3,2,0,0,3,2,8,4.9,H,1,1,zach-reichle-1,Zach Reichle,2021
+9,101,9,2021-01-04,Oregon State,,Stanford,REG (Conf),L 71-81,*,19,2,8,0.25,1,4,0.25,1,4,0.25,0.313,1,2,0.5,1,3,4,2,1,0,0,3,6,3.6,H,0,1,zach-reichle-1,Zach Reichle,2021
+10,102,10,2021-01-14,Oregon State,,Arizona,REG (Conf),L 64-98,*,24,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,2,2,4,4,1,0,1,1,7,8.0,H,0,1,zach-reichle-1,Zach Reichle,2021
+11,103,11,2021-01-16,Oregon State,,Arizona State,REG (Conf),W 80-79,*,30,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,1,4,5,1,0,0,0,1,11,10.2,H,1,1,zach-reichle-1,Zach Reichle,2021
+12,104,12,2021-01-19,Oregon State,,Southern California,REG (Conf),W 58-56,*,27,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,3,3,6,0,0,1,2,6,5.9,H,1,1,zach-reichle-1,Zach Reichle,2021
+13,105,13,2021-01-23,Oregon State,@,Oregon,REG (Conf),W 75-64,*,29,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,2,1.0,0,7,7,4,0,0,1,0,8,8.9,A,1,1,zach-reichle-1,Zach Reichle,2021
+14,106,14,2021-01-28,Oregon State,@,Southern California,REG (Conf),L 62-75,*,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,2,1,0,1,1,2,0.9,A,0,1,zach-reichle-1,Zach Reichle,2021
+15,107,15,2021-01-30,Oregon State,@,UCLA,REG (Conf),L 52-57,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,1,1,0,4,1,2,-2.5,A,0,1,zach-reichle-1,Zach Reichle,2021
+16,108,16,2021-02-04,Oregon State,,Washington,REG (Conf),W 91-71,*,30,4,9,0.444,2,4,0.5,2,5,0.4,0.556,7,7,1.0,0,4,4,8,3,0,0,3,17,20.9,H,1,1,zach-reichle-1,Zach Reichle,2021
+17,109,17,2021-02-06,Oregon State,,Washington State,REG (Conf),W 68-66,*,25,3,4,0.75,2,3,0.667,1,1,1.0,1.0,3,4,0.75,0,5,5,0,0,0,2,1,11,8.1,H,1,1,zach-reichle-1,Zach Reichle,2021
+18,110,18,2021-02-08,Oregon State,@,Colorado,REG (Conf),L 49-78,*,22,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,0,0,3,0,0,2,1,4,1.0,A,0,1,zach-reichle-1,Zach Reichle,2021
+19,111,19,2021-02-11,Oregon State,@,Arizona,REG (Conf),L 61-70,*,30,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,3,3,3,0,0,1,1,5,3.9,A,0,1,zach-reichle-1,Zach Reichle,2021
+20,112,20,2021-02-14,Oregon State,@,Arizona State,REG (Conf),L 73-75,*,20,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,2,0,0,0,3,0,-0.9,A,0,1,zach-reichle-1,Zach Reichle,2021
+21,113,21,2021-02-18,Oregon State,,Utah,REG (Conf),W 74-56,*,30,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,5,6,4,1,1,2,0,5,7.3,H,1,1,zach-reichle-1,Zach Reichle,2021
+22,114,22,2021-02-20,Oregon State,,Colorado,REG (Conf),L 57-61,*,35,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,1,0.0,0,1,1,2,2,0,1,1,7,3.1,H,0,1,zach-reichle-1,Zach Reichle,2021
+23,115,23,2021-02-25,Oregon State,@,California,REG (Conf),W 59-57,*,30,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,1,1,2,0,1,1,4,4,2.1,A,1,1,zach-reichle-1,Zach Reichle,2021
+24,116,24,2021-02-27,Oregon State,@,Stanford,REG (Conf),W 73-62,*,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,2,2,0,1,0,1,1,2,-0.6,A,1,1,zach-reichle-1,Zach Reichle,2021
+25,117,25,2021-03-03,Oregon State,@,Utah,REG (Conf),W 75-70,*,27,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,3,3,1,0,0,1,0,9,5.9,A,1,1,zach-reichle-1,Zach Reichle,2021
+26,118,26,2021-03-07,Oregon State,,Oregon,REG (Conf),L 67-80,*,30,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,2,1.0,0,4,4,4,0,0,1,1,9,8.6,H,0,1,zach-reichle-1,Zach Reichle,2021
+27,119,27,2021-03-11,Oregon State,N,UCLA,CTOURN,W 83-79 (OT),*,32,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,1,0,1,2,1,1,1,4,11,8.2,N,1,0,zach-reichle-1,Zach Reichle,2021
+28,120,28,2021-03-12,Oregon State,N,Oregon,CTOURN,W 75-64,*,33,2,3,0.667,1,2,0.5,1,1,1.0,0.833,7,8,0.875,0,1,1,1,1,0,0,2,12,11.5,N,1,0,zach-reichle-1,Zach Reichle,2021
+29,121,29,2021-03-13,Oregon State,N,Colorado,CTOURN,W 70-68,*,27,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,1,0,0,1,3,7,4.2,N,1,0,zach-reichle-1,Zach Reichle,2021
+30,122,30,2021-03-19,Oregon State,N,Tennessee,ROUND-64,W 70-56,*,33,3,5,0.6,3,4,0.75,0,1,0.0,0.9,1,2,0.5,1,5,6,4,0,0,3,1,10,8.9,N,1,0,zach-reichle-1,Zach Reichle,2021
+31,123,31,2021-03-21,Oregon State,N,Oklahoma State,ROUND-32,W 80-70,*,26,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,1,3,0,-3.6,N,1,0,zach-reichle-1,Zach Reichle,2021
+32,124,32,2021-03-27,Oregon State,N,Loyola Chicago,ROUND-16,W 65-58,*,23,0,2,0.0,0,2,0.0,0,0,,0.0,6,8,0.75,1,1,2,1,1,0,1,0,6,5.5,N,1,0,zach-reichle-1,Zach Reichle,2021
+33,125,33,2021-03-29,Oregon State,N,Houston,ROUND-8,L 61-67,*,16,0,1,0.0,0,1,0.0,0,0,,0.0,3,3,1.0,0,1,1,0,0,0,1,0,3,1.6,N,0,0,zach-reichle-1,Zach Reichle,2021

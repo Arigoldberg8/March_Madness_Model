@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2018-11-06,Florida State,,Florida,REG (Non-Conf),W 81-60,*,31,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,3,0.667,0,2,2,3,2,0,1,3,10,8.4,H,1,1,mj-walker-1,M.J. Walker,2019
+2,37,2,2018-11-11,Florida State,@,Tulane,REG (Non-Conf),W 80-69,*,33,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,2,0.0,1,3,4,1,1,0,3,2,5,-1.8,A,1,1,mj-walker-1,M.J. Walker,2019
+3,38,3,2018-11-19,Florida State,,Canisius,REG (Non-Conf),W 93-61,*,24,4,7,0.571,3,4,0.75,1,3,0.333,0.786,1,3,0.333,3,1,4,2,2,0,4,3,12,8.5,H,1,1,mj-walker-1,M.J. Walker,2019
+4,39,4,2018-11-22,Florida State,N,UAB,REG (Non-Conf),W 81-63,*,23,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,3,3,3,0,0,2,3,5,1.0,N,1,1,mj-walker-1,M.J. Walker,2019
+5,40,5,2018-11-23,Florida State,N,Louisiana State,REG (Non-Conf),W 79-76 (OT),*,42,8,16,0.5,5,9,0.556,3,7,0.429,0.656,0,0,,2,3,5,1,3,0,5,2,21,13.2,N,1,1,mj-walker-1,M.J. Walker,2019
+6,41,6,2018-11-25,Florida State,N,Villanova,REG (Non-Conf),L 60-66,*,31,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,4,4,2,1,0,0,5,2,0.5,N,0,1,mj-walker-1,M.J. Walker,2019
+7,42,7,2018-11-28,Florida State,,Purdue,REG (Non-Conf),W 73-72,*,37,4,11,0.364,2,6,0.333,2,5,0.4,0.455,3,5,0.6,1,1,2,1,0,0,2,3,13,4.6,H,1,1,mj-walker-1,M.J. Walker,2019
+8,43,8,2018-12-03,Florida State,,Troy,REG (Non-Conf),W 83-67,*,23,4,8,0.5,2,3,0.667,2,5,0.4,0.625,4,5,0.8,0,2,2,2,2,0,5,2,14,7.8,H,1,1,mj-walker-1,M.J. Walker,2019
+9,44,9,2018-12-08,Florida State,N,Connecticut,REG (Non-Conf),W 79-71,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,1,0,1,4,2,0.4,N,1,1,mj-walker-1,M.J. Walker,2019
+10,45,11,2018-12-19,Florida State,,North Florida,REG (Non-Conf),W 95-81,*,24,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,1,1,2,2,0,0,3,7,5.1,H,1,1,mj-walker-1,M.J. Walker,2019
+11,46,12,2018-12-22,Florida State,N,Saint Louis,REG (Non-Conf),W 81-59,*,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,mj-walker-1,M.J. Walker,2019
+12,47,14,2019-01-05,Florida State,@,Virginia,REG (Conf),L 52-65,*,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,4,4,1.0,0,1,1,2,0,1,3,1,7,3.6,A,0,1,mj-walker-1,M.J. Walker,2019
+13,48,15,2019-01-09,Florida State,,Miami (FL),REG (Conf),W 68-62,*,20,2,6,0.333,0,4,0.0,2,2,1.0,0.333,2,2,1.0,0,3,3,2,2,1,1,1,6,6.2,H,1,1,mj-walker-1,M.J. Walker,2019
+14,49,16,2019-01-12,Florida State,,Duke,REG (Conf),L 78-80,*,24,0,6,0.0,0,3,0.0,0,3,0.0,0.0,2,2,1.0,1,0,1,5,0,0,3,4,2,-2.6,H,0,1,mj-walker-1,M.J. Walker,2019
+15,50,17,2019-01-14,Florida State,@,Pittsburgh,REG (Conf),L 62-75,*,26,0,6,0.0,0,4,0.0,0,2,0.0,0.0,2,4,0.5,0,2,2,1,1,0,1,2,2,-2.5,A,0,1,mj-walker-1,M.J. Walker,2019
+16,51,18,2019-01-20,Florida State,@,Boston College,REG (Conf),L 82-87,*,31,4,13,0.308,2,7,0.286,2,6,0.333,0.385,2,2,1.0,1,1,2,1,0,2,1,2,12,5.8,A,0,1,mj-walker-1,M.J. Walker,2019
+17,52,19,2019-01-22,Florida State,,Clemson,REG (Conf),W 77-68,*,20,1,3,0.333,1,1,1.0,0,2,0.0,0.5,3,4,0.75,0,2,2,1,0,0,3,5,6,0.2,H,1,1,mj-walker-1,M.J. Walker,2019
+18,53,20,2019-01-27,Florida State,@,Miami (FL),REG (Conf),W 78-66,*,35,7,10,0.7,6,7,0.857,1,3,0.333,1.0,2,2,1.0,0,2,2,5,0,1,1,1,22,21.2,A,1,1,mj-walker-1,M.J. Walker,2019
+19,54,21,2019-02-02,Florida State,,Georgia Tech,REG (Conf),W 59-49,*,26,0,7,0.0,0,4,0.0,0,3,0.0,0.0,2,2,1.0,0,1,1,0,1,0,0,4,2,-3.2,H,1,1,mj-walker-1,M.J. Walker,2019
+20,55,22,2019-02-05,Florida State,@,Syracuse,REG (Conf),W 80-62,*,26,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,1,2,2,0,0,6,2,11,1.9,A,1,1,mj-walker-1,M.J. Walker,2019
+21,56,23,2019-02-09,Florida State,,Louisville,REG (Conf),W 80-75 (OT),*,33,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,2,1.0,0,1,1,1,1,0,3,4,11,2.3,H,1,1,mj-walker-1,M.J. Walker,2019
+22,57,24,2019-02-13,Florida State,,Wake Forest,REG (Conf),W 88-66,*,19,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,1,1,1,0,0,1,2,0,-3.6,H,1,1,mj-walker-1,M.J. Walker,2019
+23,58,25,2019-02-16,Florida State,@,Georgia Tech,REG (Conf),W 69-47,*,18,4,9,0.444,1,6,0.167,3,3,1.0,0.5,0,0,,0,1,1,2,0,1,3,3,9,2.5,A,1,1,mj-walker-1,M.J. Walker,2019
+24,59,26,2019-02-19,Florida State,@,Clemson,REG (Conf),W 77-64,*,29,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,6,0.667,0,1,1,2,0,0,2,4,9,3.6,A,1,1,mj-walker-1,M.J. Walker,2019
+25,60,27,2019-02-23,Florida State,@,North Carolina,REG (Conf),L 59-77,*,18,0,7,0.0,0,4,0.0,0,3,0.0,0.0,2,2,1.0,0,1,1,2,0,0,1,2,2,-3.0,A,0,1,mj-walker-1,M.J. Walker,2019
+26,61,28,2019-02-25,Florida State,,Notre Dame,REG (Conf),W 68-61,*,28,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,1,3,4,1,2,0,3,3,9,5.1,H,1,1,mj-walker-1,M.J. Walker,2019
+27,62,29,2019-03-02,Florida State,,NC State,REG (Conf),W 78-73,*,27,4,6,0.667,1,2,0.5,3,4,0.75,0.75,6,6,1.0,1,1,2,1,0,0,3,3,15,9.9,H,1,1,mj-walker-1,M.J. Walker,2019
+28,63,30,2019-03-05,Florida State,,Virginia Tech,REG (Conf),W 73-64 (OT),,27,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,1,2,3,0,1,0,1,3,11,7.1,H,1,1,mj-walker-1,M.J. Walker,2019
+29,64,31,2019-03-09,Florida State,@,Wake Forest,REG (Conf),W 65-57,*,24,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,0,4,4,2,2,0,2,4,6,2.2,A,1,1,mj-walker-1,M.J. Walker,2019
+30,65,32,2019-03-14,Florida State,N,Virginia Tech,CTOURN,W 65-63 (OT),*,24,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,0,2,2,0,0,0,0,0,3,-0.9,N,1,0,mj-walker-1,M.J. Walker,2019
+31,66,33,2019-03-15,Florida State,N,Virginia,CTOURN,W 69-59,*,30,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,0,0,0,1,0,0,1,0,9,5.7,N,1,0,mj-walker-1,M.J. Walker,2019
+32,67,34,2019-03-16,Florida State,N,Duke,CTOURN,L 63-73,*,29,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,3,0.667,0,3,3,1,1,0,0,3,6,2.2,N,0,0,mj-walker-1,M.J. Walker,2019
+33,68,35,2019-03-21,Florida State,N,Vermont,ROUND-64,W 76-69,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,1,1,2,1,0,1,4,5,1.7,N,1,0,mj-walker-1,M.J. Walker,2019
+34,69,36,2019-03-23,Florida State,N,Murray State,ROUND-32,W 90-62,*,20,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,5,6,3,1,0,3,2,0,-2.0,N,1,0,mj-walker-1,M.J. Walker,2019
+35,70,37,2019-03-28,Florida State,N,Gonzaga,ROUND-16,L 58-72,*,29,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,0,4,4,0,2,0,2,3,7,1.9,N,0,0,mj-walker-1,M.J. Walker,2019

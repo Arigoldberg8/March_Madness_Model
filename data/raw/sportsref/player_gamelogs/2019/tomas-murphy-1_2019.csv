@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2018-11-06,Northeastern,,Boston University,REG (Non-Conf),L 74-77,,23,4,5,0.8,0,0,,4,5,0.8,0.8,4,5,0.8,2,2,4,0,1,0,2,4,12,9.1,H,0,1,tomas-murphy-1,Tomas Murphy,2019
+2,35,2,2018-11-09,Northeastern,@,Harvard,REG (Non-Conf),W 81-71,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,0,1,1,0,0,5,1,6,0.0,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+3,36,3,2018-11-15,Northeastern,N,Alabama,REG (Non-Conf),W 68-52,*,22,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,0,0,0,2,2,5,0.9,N,1,1,tomas-murphy-1,Tomas Murphy,2019
+4,37,4,2018-11-16,Northeastern,N,Virginia Tech,REG (Non-Conf),L 60-88,*,22,5,6,0.833,1,2,0.5,4,4,1.0,0.917,0,0,,0,0,0,0,0,0,2,1,11,6.4,N,0,1,tomas-murphy-1,Tomas Murphy,2019
+5,38,5,2018-11-18,Northeastern,N,Davidson,REG (Non-Conf),L 59-71,,20,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,1,0.0,2,5,7,1,1,0,0,1,4,3.7,N,0,1,tomas-murphy-1,Tomas Murphy,2019
+6,39,6,2018-11-24,Northeastern,@,Davidson,REG (Non-Conf),L 69-78,,17,4,8,0.5,0,0,,4,8,0.5,0.5,4,4,1.0,2,1,3,1,0,0,1,5,12,7.4,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+7,40,7,2018-11-28,Northeastern,@,Bucknell,REG (Non-Conf),W 96-78,,24,8,14,0.571,1,2,0.5,7,12,0.583,0.607,4,5,0.8,2,10,12,1,2,0,0,3,21,19.9,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+8,41,8,2018-12-01,Northeastern,,Eastern Michigan,REG (Non-Conf),W 81-67,*,31,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,2,1.0,0,6,6,7,1,0,0,0,10,14.4,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+9,42,9,2018-12-04,Northeastern,@,Syracuse,REG (Non-Conf),L 49-72,*,30,7,10,0.7,0,0,,7,10,0.7,0.7,3,5,0.6,4,4,8,1,0,0,0,2,17,15.9,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+10,43,10,2018-12-08,Northeastern,,Oakland,REG (Non-Conf),W 92-83,*,23,1,6,0.167,0,0,,1,6,0.167,0.167,2,4,0.5,2,4,6,2,0,0,2,3,4,0.2,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+11,44,11,2018-12-16,Northeastern,@,Vermont,REG (Non-Conf),L 70-75,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,1,1,0,-1.8,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+12,45,12,2018-12-21,Northeastern,,St. Bonaventure,REG (Non-Conf),W 64-59,,16,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,3,1.0,0,2,2,0,0,1,0,1,9,6.2,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+13,46,13,2018-12-28,Northeastern,,Drexel,REG (Conf),W 93-83,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,3,0,0,-3.1,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+14,47,14,2018-12-30,Northeastern,,Delaware,REG (Conf),L 80-82 (2OT),,5,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,2,5,3,-2.0,H,0,1,tomas-murphy-1,Tomas Murphy,2019
+15,48,15,2019-01-05,Northeastern,@,Hofstra,REG (Conf),L 72-75,,9,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,0,0,0,1,1,4,1.9,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+16,49,16,2019-01-10,Northeastern,@,Elon,REG (Conf),W 81-70 (OT),,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,4,7,0,0,0,0,2,2,3.5,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+17,50,17,2019-01-12,Northeastern,@,William & Mary,REG (Conf),W 90-70,,12,4,7,0.571,2,2,1.0,2,5,0.4,0.714,0,0,,0,2,2,0,0,0,0,0,10,7.3,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+18,51,19,2019-01-19,Northeastern,,UNC Wilmington,REG (Conf),W 88-71,,21,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,2,3,5,0,1,0,0,1,9,8.2,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+19,52,20,2019-01-24,Northeastern,@,Towson,REG (Conf),L 72-75,,21,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,2,2,4,0,1,0,1,1,8,4.9,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+20,53,21,2019-01-26,Northeastern,@,James Madison,REG (Conf),W 78-68,,17,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,5,0,5,0,0,0,1,1,6,6.8,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+21,54,22,2019-02-02,Northeastern,,Hofstra,REG (Conf),W 75-61,,19,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,2,3,2,1,0,2,2,6,4.6,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+22,55,23,2019-02-07,Northeastern,,William & Mary,REG (Conf),W 72-60,,21,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,0,2,2,0,1,0,0,1,10,10.0,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+23,56,24,2019-02-09,Northeastern,,Elon,REG (Conf),W 72-60 (OT),,19,3,9,0.333,0,2,0.0,3,7,0.429,0.333,0,0,,0,3,3,0,0,1,2,1,6,0.1,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+24,57,25,2019-02-14,Northeastern,@,UNC Wilmington,REG (Conf),W 81-77,,17,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,2,2,0,1,0,4,4,9,1.7,A,1,1,tomas-murphy-1,Tomas Murphy,2019
+25,58,26,2019-02-16,Northeastern,@,College of Charleston,REG (Conf),L 79-88 (OT),,16,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,0,1,1,2,0,1,1,4,9,5.5,A,0,1,tomas-murphy-1,Tomas Murphy,2019
+26,59,27,2019-02-21,Northeastern,,James Madison,REG (Conf),W 76-60,,23,5,10,0.5,0,2,0.0,5,8,0.625,0.5,2,4,0.5,0,0,0,1,0,0,0,1,12,6.5,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+27,60,28,2019-02-23,Northeastern,,Towson,REG (Conf),W 73-58,*,37,8,12,0.667,2,3,0.667,6,9,0.667,0.75,3,3,1.0,4,8,12,3,2,0,4,0,21,21.1,H,1,1,tomas-murphy-1,Tomas Murphy,2019
+28,61,31,2019-03-10,Northeastern,N,UNC Wilmington,CTOURN,W 80-59,,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,1,0,0,1,2,4,1.2,N,1,0,tomas-murphy-1,Tomas Murphy,2019
+29,62,32,2019-03-11,Northeastern,N,College of Charleston,CTOURN,W 70-67,,16,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,2,0,2,1,0,0,1,5,6,3.1,N,1,0,tomas-murphy-1,Tomas Murphy,2019
+30,63,33,2019-03-12,Northeastern,N,Hofstra,CTOURN,W 82-74,,19,5,7,0.714,0,0,,5,7,0.714,0.714,1,4,0.25,0,2,2,2,0,1,1,3,11,7.4,N,1,0,tomas-murphy-1,Tomas Murphy,2019
+31,64,34,2019-03-21,Northeastern,N,Kansas,ROUND-64,L 53-87,,15,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,0,0,0,0,0,0,0,1,3,-0.5,N,0,0,tomas-murphy-1,Tomas Murphy,2019

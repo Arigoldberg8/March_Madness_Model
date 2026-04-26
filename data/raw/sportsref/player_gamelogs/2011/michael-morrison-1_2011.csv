@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2010-11-13,George Mason,,Harvard,REG (Non-Conf),W 66-53,*,22,3,7,0.429,0,0,3,7,0.429,0.429,1,4,0.25,2,4,6,4,3,2,2,4,7,8.3,H,1,1,michael-morrison-1,Michael Morrison,2011
+2,61,2,2010-11-18,George Mason,N,Charlotte,REG (Non-Conf),W 78-56,*,23,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,4,5,9,0,0,2,1,2,9,10.3,N,1,1,michael-morrison-1,Michael Morrison,2011
+3,62,3,2010-11-19,George Mason,N,NC State,REG (Non-Conf),L 65-78,*,18,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,5,5,3,1,0,1,3,2,2.7,N,0,1,michael-morrison-1,Michael Morrison,2011
+4,63,4,2010-11-21,George Mason,N,Wofford,REG (Non-Conf),L 79-82 (OT),*,23,2,6,0.333,0,0,2,6,0.333,0.333,3,4,0.75,4,5,9,3,0,2,2,4,7,7.4,N,0,1,michael-morrison-1,Michael Morrison,2011
+5,64,5,2010-11-24,George Mason,,Radford,REG (Non-Conf),W 81-55,*,17,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,0,4,4,1,1,1,0,4,7,7.3,H,1,1,michael-morrison-1,Michael Morrison,2011
+6,65,6,2010-11-27,George Mason,,Florida Atlantic,REG (Non-Conf),W 66-51,*,31,8,10,0.8,0,0,8,10,0.8,0.8,2,5,0.4,2,5,7,0,1,3,0,1,18,18.6,H,1,1,michael-morrison-1,Michael Morrison,2011
+7,66,7,2010-12-01,George Mason,,George Washington,REG (Non-Conf),W 60-46,*,34,4,8,0.5,0,0,4,8,0.5,0.5,4,6,0.667,2,6,8,1,1,1,1,2,12,11.0,H,1,1,michael-morrison-1,Michael Morrison,2011
+8,67,8,2010-12-04,George Mason,,UNC Wilmington,REG (Conf),W 80-52,*,22,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,5,5,3,1,3,0,2,4,7.9,H,1,1,michael-morrison-1,Michael Morrison,2011
+9,68,9,2010-12-08,George Mason,,Loyola (MD),REG (Non-Conf),W 66-52,*,19,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,1,3,4,0,0,1,1,2,7,4.1,H,1,1,michael-morrison-1,Michael Morrison,2011
+10,69,10,2010-12-11,George Mason,@,Liberty,REG (Non-Conf),W 84-54,*,24,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,2,1,0,2,0,4,4.3,A,1,1,michael-morrison-1,Michael Morrison,2011
+11,70,11,2010-12-22,George Mason,@,Duquesne,REG (Non-Conf),W 85-79 (2OT),*,36,4,6,0.667,0,0,4,6,0.667,0.667,0,5,0.0,5,4,9,1,0,2,1,5,8,7.2,A,1,1,michael-morrison-1,Michael Morrison,2011
+12,71,12,2010-12-29,George Mason,@,Dayton,REG (Non-Conf),L 67-73,*,17,1,5,0.2,0,0,1,5,0.2,0.2,2,4,0.5,3,2,5,2,0,1,0,5,4,2.9,A,0,1,michael-morrison-1,Michael Morrison,2011
+13,72,13,2011-01-03,George Mason,,Delaware,REG (Conf),W 75-66,*,27,2,3,0.667,0,0,2,3,0.667,0.667,2,6,0.333,0,5,5,2,0,1,2,2,6,3.9,H,1,1,michael-morrison-1,Michael Morrison,2011
+14,73,14,2011-01-05,George Mason,@,Hofstra,REG (Conf),L 74-87,*,13,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,2,1,3,1,0,0,2,2,4,0.1,A,0,1,michael-morrison-1,Michael Morrison,2011
+15,74,15,2011-01-08,George Mason,@,Old Dominion,REG (Conf),L 65-69,*,29,1,2,0.5,0,0,1,2,0.5,0.5,0,3,0.0,4,3,7,2,1,4,1,3,2,6.5,A,0,1,michael-morrison-1,Michael Morrison,2011
+16,75,16,2011-01-12,George Mason,@,Northeastern,REG (Conf),W 86-60,*,19,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,0,3,3,2,2,1,1,2,5,6.8,A,1,1,michael-morrison-1,Michael Morrison,2011
+17,76,17,2011-01-15,George Mason,,Georgia State,REG (Conf),W 66-51,*,27,0,2,0.0,0,0,0,2,0.0,0.0,6,9,0.667,1,4,5,1,1,0,0,3,6,5.8,H,1,1,michael-morrison-1,Michael Morrison,2011
+18,77,18,2011-01-19,George Mason,,Drexel,REG (Conf),W 71-47,*,27,3,5,0.6,0,0,3,5,0.6,0.6,3,7,0.429,2,5,7,0,1,2,0,2,9,9.6,H,1,1,michael-morrison-1,Michael Morrison,2011
+19,78,19,2011-01-22,George Mason,@,James Madison,REG (Conf),W 75-73,*,28,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,0,2,2,0,1,1,1,5,4,-0.2,A,1,1,michael-morrison-1,Michael Morrison,2011
+20,79,20,2011-01-24,George Mason,@,Delaware,REG (Conf),W 69-49,*,24,0,4,0.0,0,0,0,4,0.0,0.0,2,6,0.333,2,6,8,2,0,0,3,2,2,-1.6,A,1,1,michael-morrison-1,Michael Morrison,2011
+21,80,21,2011-01-27,George Mason,,Towson,REG (Conf),W 84-58,*,18,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,2,2,4,0,0,0,0,2,7,6.2,H,1,1,michael-morrison-1,Michael Morrison,2011
+22,81,22,2011-01-29,George Mason,@,William & Mary,REG (Conf),W 85-69,*,17,4,8,0.5,0,0,4,8,0.5,0.5,0,1,0.0,1,3,4,0,0,0,0,1,8,4.8,A,1,1,michael-morrison-1,Michael Morrison,2011
+23,82,23,2011-02-02,George Mason,,Hofstra,REG (Conf),W 87-68,*,23,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,1,5,6,2,0,1,2,2,4,2.7,H,1,1,michael-morrison-1,Michael Morrison,2011
+24,83,24,2011-02-05,George Mason,,Old Dominion,REG (Conf),W 62-45,*,28,5,6,0.833,0,0,5,6,0.833,0.833,0,2,0.0,2,5,7,2,1,0,2,4,10,8.7,H,1,1,michael-morrison-1,Michael Morrison,2011
+25,84,25,2011-02-08,George Mason,@,UNC Wilmington,REG (Conf),W 78-63,*,28,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,0,1,1,1,0,0,0,2,5,3.5,A,1,1,michael-morrison-1,Michael Morrison,2011
+26,85,26,2011-02-12,George Mason,,James Madison,REG (Conf),W 82-68,*,26,4,8,0.5,0,0,4,8,0.5,0.5,1,3,0.333,4,5,9,5,0,1,2,2,9,9.9,H,1,1,michael-morrison-1,Michael Morrison,2011
+27,86,27,2011-02-15,George Mason,@,VCU,REG (Conf),W 71-51,*,31,5,6,0.833,0,0,5,6,0.833,0.833,0,1,0.0,3,5,8,2,0,1,1,5,10,10.1,A,1,1,michael-morrison-1,Michael Morrison,2011
+28,87,28,2011-02-19,George Mason,@,Northern Iowa,REG (Non-Conf),W 77-71,*,21,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,1,2,6,1,1,0,0,3,7.1,A,1,1,michael-morrison-1,Michael Morrison,2011
+29,88,29,2011-02-24,George Mason,,Northeastern,REG (Conf),W 67-61,*,27,4,5,0.8,0,0,4,5,0.8,0.8,0,1,0.0,1,1,2,0,0,0,0,2,8,5.9,H,1,1,michael-morrison-1,Michael Morrison,2011
+30,89,30,2011-02-26,George Mason,@,Georgia State,REG (Conf),W 65-58,*,25,7,9,0.778,0,0,7,9,0.778,0.778,0,3,0.0,4,1,5,4,1,2,0,2,14,16.8,A,1,1,michael-morrison-1,Michael Morrison,2011
+31,90,31,2011-03-05,George Mason,N,Georgia State,CTOURN,W 68-45,*,31,1,1,1.0,0,0,1,1,1.0,1.0,3,7,0.429,0,5,5,4,1,3,1,1,5,9.1,N,1,0,michael-morrison-1,Michael Morrison,2011
+32,91,32,2011-03-06,George Mason,N,VCU,CTOURN,L 63-79,*,20,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,0,2,2,0,0,1,0,5,5,3.0,N,0,0,michael-morrison-1,Michael Morrison,2011
+33,92,33,2011-03-18,George Mason,N,Villanova,ROUND-64,W 61-57,*,36,5,6,0.833,0,0,5,6,0.833,0.833,0,3,0.0,4,7,11,0,1,1,1,2,10,11.4,N,1,0,michael-morrison-1,Michael Morrison,2011
+34,93,34,2011-03-20,George Mason,N,Ohio State,ROUND-32,L 66-98,*,20,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,3,4,1,0,2,2,3,6,3.5,N,0,0,michael-morrison-1,Michael Morrison,2011

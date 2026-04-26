@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2018-11-06,Buffalo,,Saint Francis (PA),REG (Non-Conf),W 82-67,*,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,0,0,1,3,5,1.5,H,1,1,montell-mcrae-1,Montell McRae,2019
+2,38,2,2018-11-09,Buffalo,@,West Virginia,REG (Non-Conf),W 99-94 (OT),*,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,4,0.5,1,1,2,0,1,0,1,3,2,0.3,A,1,1,montell-mcrae-1,Montell McRae,2019
+3,39,3,2018-11-12,Buffalo,@,Southern Illinois,REG (Non-Conf),W 62-53,*,13,4,4,1.0,2,2,1.0,2,2,1.0,1.25,1,2,0.5,1,1,2,0,0,0,0,3,11,9.2,A,1,1,montell-mcrae-1,Montell McRae,2019
+4,40,4,2018-11-21,Buffalo,,Dartmouth,REG (Non-Conf),W 110-71,*,17,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,1,1,2,2,0,0,2,8,8.6,H,1,1,montell-mcrae-1,Montell McRae,2019
+5,41,5,2018-11-24,Buffalo,,Marist,REG (Non-Conf),W 76-49,*,14,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,2,1,3,1,0,0,2,3,8,6.3,H,1,1,montell-mcrae-1,Montell McRae,2019
+6,42,6,2018-11-30,Buffalo,N,Milwaukee,REG (Non-Conf),W 96-77,*,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,6,6,1.0,2,8,10,2,0,0,1,2,8,9.7,N,1,1,montell-mcrae-1,Montell McRae,2019
+7,43,7,2018-12-01,Buffalo,N,San Francisco,REG (Non-Conf),W 85-81,*,18,4,5,0.8,3,3,1.0,1,2,0.5,1.1,0,0,,1,4,5,0,0,0,0,2,11,10.2,N,1,1,montell-mcrae-1,Montell McRae,2019
+8,44,8,2018-12-05,Buffalo,,Le Moyne,REG (Non-Conf),W 89-55,*,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,2,2,1,0,1,1,1,4,3.6,H,1,1,montell-mcrae-1,Montell McRae,2019
+9,45,9,2018-12-08,Buffalo,@,St. Bonaventure,REG (Non-Conf),W 80-62,*,18,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,3,0.667,1,3,4,1,0,2,2,4,9,6.4,A,1,1,montell-mcrae-1,Montell McRae,2019
+10,46,10,2018-12-15,Buffalo,,Southern Illinois,REG (Non-Conf),W 73-65,*,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,1,2,0,0,0,0,3,3,1.1,H,1,1,montell-mcrae-1,Montell McRae,2019
+11,47,11,2018-12-18,Buffalo,@,Syracuse,REG (Non-Conf),W 71-59,*,23,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,5,6,0,1,0,1,1,3,3.8,A,1,1,montell-mcrae-1,Montell McRae,2019
+12,48,12,2018-12-21,Buffalo,@,Marquette,REG (Non-Conf),L 85-103,*,5,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-3.3,A,0,1,montell-mcrae-1,Montell McRae,2019
+13,49,13,2018-12-29,Buffalo,@,Canisius,REG (Non-Conf),W 87-72,*,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,3,2,5,0,0,0,2,3,2,-0.2,A,1,1,montell-mcrae-1,Montell McRae,2019
+14,50,14,2019-01-04,Buffalo,@,Eastern Michigan,REG (Conf),W 74-58,*,23,8,9,0.889,2,3,0.667,6,6,1.0,1.0,0,0,,3,4,7,0,0,0,0,4,18,16.6,A,1,1,montell-mcrae-1,Montell McRae,2019
+15,51,15,2019-01-08,Buffalo,,Toledo,REG (Conf),W 110-80,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,2,2,2,1,0,0,1,2,3.9,H,1,1,montell-mcrae-1,Montell McRae,2019
+16,52,16,2019-01-12,Buffalo,,Miami (OH),REG (Conf),W 88-64,*,18,5,9,0.556,2,6,0.333,3,3,1.0,0.667,1,1,1.0,1,0,1,1,1,1,0,4,13,10.2,H,1,1,montell-mcrae-1,Montell McRae,2019
+17,53,17,2019-01-15,Buffalo,@,Western Michigan,REG (Conf),W 88-79,*,16,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,1,1,2,0,0,0,2,4,8,3.1,A,1,1,montell-mcrae-1,Montell McRae,2019
+18,54,18,2019-01-18,Buffalo,,Eastern Michigan,REG (Conf),W 77-65,*,20,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,3,4,1,1,0,0,3,7,6.1,H,1,1,montell-mcrae-1,Montell McRae,2019
+19,55,19,2019-01-22,Buffalo,@,Northern Illinois,REG (Conf),L 75-77,*,14,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,1,0,1,0,1,0,1,3,7,4.8,A,0,1,montell-mcrae-1,Montell McRae,2019
+20,56,20,2019-01-25,Buffalo,@,Kent State,REG (Conf),W 88-79,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,0,0,0,0,1,2,2.2,A,1,1,montell-mcrae-1,Montell McRae,2019
+21,57,21,2019-01-29,Buffalo,,Ball State,REG (Conf),W 83-59,*,17,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,2,0.0,0,0,0,0,0,0,0,2,6,2.8,H,1,1,montell-mcrae-1,Montell McRae,2019
+22,58,22,2019-02-01,Buffalo,@,Bowling Green,REG (Conf),L 88-92,*,21,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,3,6,9,2,0,1,1,2,8,9.9,A,0,1,montell-mcrae-1,Montell McRae,2019
+23,59,23,2019-02-09,Buffalo,,Central Michigan,REG (Conf),W 90-76,*,17,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,1,1,0,0,0,1,3,7,2.8,H,1,1,montell-mcrae-1,Montell McRae,2019
+24,60,24,2019-02-12,Buffalo,@,Akron,REG (Conf),W 76-70,*,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,1,1,0,-0.4,A,1,1,montell-mcrae-1,Montell McRae,2019
+25,61,25,2019-02-15,Buffalo,@,Toledo,REG (Conf),W 88-82,*,18,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,7,0.571,4,1,5,0,0,1,0,3,12,8.7,A,1,1,montell-mcrae-1,Montell McRae,2019
+26,62,26,2019-02-19,Buffalo,,Ohio,REG (Conf),W 114-67,*,20,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,1,6,7,0,2,0,0,1,11,12.5,H,1,1,montell-mcrae-1,Montell McRae,2019
+27,63,27,2019-02-22,Buffalo,,Kent State,REG (Conf),W 80-57,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,3,4,0,0,0,2,1,2,0.9,H,1,1,montell-mcrae-1,Montell McRae,2019
+28,64,28,2019-02-26,Buffalo,,Akron,REG (Conf),W 77-64,*,13,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,0,0,0,-0.8,H,1,1,montell-mcrae-1,Montell McRae,2019
+29,65,29,2019-03-01,Buffalo,@,Miami (OH),REG (Conf),W 77-69,*,16,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,2,3,0,1,1,1,0,5,5.7,A,1,1,montell-mcrae-1,Montell McRae,2019
+30,66,30,2019-03-05,Buffalo,@,Ohio,REG (Conf),W 82-79,*,14,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,5,5,1,0,0,0,2,3,4.1,A,1,1,montell-mcrae-1,Montell McRae,2019
+31,67,31,2019-03-08,Buffalo,,Bowling Green,REG (Conf),W 84-73,*,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,5,0.6,2,2,4,2,0,1,1,2,7,5.1,H,1,1,montell-mcrae-1,Montell McRae,2019
+32,68,32,2019-03-14,Buffalo,N,Akron,CTOURN,W 82-46,*,21,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,1,6,7,0,0,0,0,2,4,2.3,N,1,0,montell-mcrae-1,Montell McRae,2019
+33,69,33,2019-03-15,Buffalo,N,Central Michigan,CTOURN,W 85-81,*,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,0,0,0,1,4,2,-0.3,N,1,0,montell-mcrae-1,Montell McRae,2019
+34,70,34,2019-03-16,Buffalo,N,Bowling Green,CTOURN,W 87-73,*,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,1,0,1,0,1,0,0.6,N,1,0,montell-mcrae-1,Montell McRae,2019
+35,71,35,2019-03-22,Buffalo,N,Arizona State,ROUND-64,W 91-74,*,17,0,0,,0,0,,0,0,,,2,4,0.5,1,3,4,0,1,0,0,3,2,2.6,N,1,0,montell-mcrae-1,Montell McRae,2019
+36,72,36,2019-03-24,Buffalo,N,Texas Tech,ROUND-32,L 58-78,*,12,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,2,0,2,0,0,0,0,2,3,2.6,N,0,0,montell-mcrae-1,Montell McRae,2019

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2011-11-11,LIU Brooklyn,@,Hofstra,REG (Non-Conf),L 71-89,*,29,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,0,0,0,5,3,0,6,1,11,8.1,A,0,1,jason-brickman-1,Jason Brickman,2012
+2,35,2,2011-11-14,LIU Brooklyn,@,Old Dominion,REG (Non-Conf),L 69-77,*,36,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,3,4,9,0,0,3,0,0,2.8,A,0,1,jason-brickman-1,Jason Brickman,2012
+3,36,3,2011-11-16,LIU Brooklyn,@,Penn State,REG (Non-Conf),L 68-77,*,32,0,5,0.0,0,5,0.0,0,0,,0.0,2,2,1.0,1,3,4,2,1,0,3,2,2,-1.3,A,0,1,jason-brickman-1,Jason Brickman,2012
+4,37,4,2011-11-19,LIU Brooklyn,N,Radford,REG (Non-Conf),W 81-59,*,25,0,0,,0,0,,0,0,,,1,2,0.5,1,1,2,6,0,0,5,0,1,0.8,N,1,1,jason-brickman-1,Jason Brickman,2012
+5,38,5,2011-11-20,LIU Brooklyn,N,Vermont,REG (Non-Conf),W 80-75,*,38,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,4,0.5,0,2,2,5,1,0,3,0,10,8.3,N,1,1,jason-brickman-1,Jason Brickman,2012
+6,39,6,2011-11-28,LIU Brooklyn,@,Iona,REG (Non-Conf),L 84-100,*,33,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,3,3,4,0,0,3,0,6,4.0,A,0,1,jason-brickman-1,Jason Brickman,2012
+7,40,7,2011-12-01,LIU Brooklyn,,Wagner,REG (Conf),W 78-73,*,35,4,8,0.5,2,3,0.667,2,5,0.4,0.625,1,2,0.5,0,3,3,6,1,0,4,1,11,8.3,H,1,1,jason-brickman-1,Jason Brickman,2012
+8,41,8,2011-12-03,LIU Brooklyn,@,Mount St. Mary's,REG (Conf),W 85-76,*,34,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,1,4,5,11,0,0,5,0,5,7.2,A,1,1,jason-brickman-1,Jason Brickman,2012
+9,42,9,2011-12-05,LIU Brooklyn,@,Lafayette,REG (Non-Conf),W 82-80,*,36,0,4,0.0,0,3,0.0,0,1,0.0,0.0,7,10,0.7,1,3,4,9,1,0,5,0,7,6.9,A,1,1,jason-brickman-1,Jason Brickman,2012
+10,43,10,2011-12-10,LIU Brooklyn,@,Columbia,REG (Non-Conf),L 53-63,*,35,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,4,0.5,0,4,4,4,0,0,5,1,6,1.1,A,0,1,jason-brickman-1,Jason Brickman,2012
+11,44,11,2011-12-14,LIU Brooklyn,@,Norfolk State,REG (Non-Conf),L 62-73,*,36,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,1,0.0,1,2,3,6,2,0,2,2,8,7.9,A,0,1,jason-brickman-1,Jason Brickman,2012
+12,45,12,2011-12-17,LIU Brooklyn,,Saint Peter's,REG (Non-Conf),W 82-80,*,33,0,2,0.0,0,2,0.0,0,0,,0.0,3,4,0.75,1,1,2,4,2,0,5,1,3,1.6,H,1,1,jason-brickman-1,Jason Brickman,2012
+13,46,13,2011-12-20,LIU Brooklyn,,Texas State San Marcos,REG (Non-Conf),W 100-84,*,32,3,6,0.5,3,5,0.6,0,1,0.0,0.75,3,4,0.75,0,2,2,11,0,0,3,1,12,13.5,H,1,1,jason-brickman-1,Jason Brickman,2012
+14,47,14,2011-12-30,LIU Brooklyn,,NJIT,REG (Non-Conf),W 84-74,*,36,4,6,0.667,4,6,0.667,0,0,,1.0,6,6,1.0,1,2,3,6,0,0,2,0,18,18.9,H,1,1,jason-brickman-1,Jason Brickman,2012
+15,48,15,2012-01-05,LIU Brooklyn,@,Sacred Heart,REG (Conf),W 87-81,*,34,6,10,0.6,1,3,0.333,5,7,0.714,0.65,3,4,0.75,1,1,2,5,1,0,6,1,16,10.1,A,1,1,jason-brickman-1,Jason Brickman,2012
+16,49,16,2012-01-07,LIU Brooklyn,@,Quinnipiac,REG (Conf),W 79-75,*,37,3,5,0.6,2,2,1.0,1,3,0.333,0.8,4,5,0.8,0,2,2,10,0,0,1,1,12,15.5,A,1,1,jason-brickman-1,Jason Brickman,2012
+17,50,17,2012-01-12,LIU Brooklyn,,Fairleigh Dickinson,REG (Conf),W 82-64,*,33,4,5,0.8,4,5,0.8,0,0,,1.2,2,2,1.0,0,0,0,2,2,0,5,0,14,10.5,H,1,1,jason-brickman-1,Jason Brickman,2012
+18,51,18,2012-01-14,LIU Brooklyn,,Monmouth,REG (Conf),W 106-86,*,31,1,1,1.0,1,1,1.0,0,0,,1.5,4,4,1.0,0,1,1,6,1,0,4,1,7,7.8,H,1,1,jason-brickman-1,Jason Brickman,2012
+19,52,19,2012-01-19,LIU Brooklyn,,Mount St. Mary's,REG (Conf),W 77-62,*,33,5,9,0.556,5,8,0.625,0,1,0.0,0.833,2,2,1.0,0,4,4,4,1,0,1,0,17,16.7,H,1,1,jason-brickman-1,Jason Brickman,2012
+20,53,20,2012-01-21,LIU Brooklyn,@,Wagner,REG (Conf),W 73-66,*,37,4,10,0.4,3,3,1.0,1,7,0.143,0.55,6,6,1.0,1,2,3,8,0,0,4,0,17,14.5,A,1,1,jason-brickman-1,Jason Brickman,2012
+21,54,21,2012-01-26,LIU Brooklyn,@,Robert Morris,REG (Conf),L 66-75,*,35,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,2,1.0,0,4,4,4,1,0,4,3,8,4.8,A,0,1,jason-brickman-1,Jason Brickman,2012
+22,55,22,2012-01-28,LIU Brooklyn,@,Saint Francis (PA),REG (Conf),W 97-76,*,32,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,4,5,12,2,0,7,1,0,3.5,A,1,1,jason-brickman-1,Jason Brickman,2012
+23,56,23,2012-02-02,LIU Brooklyn,,Bryant,REG (Conf),W 75-70,*,36,4,6,0.667,4,5,0.8,0,1,0.0,1.0,3,4,0.75,0,0,0,5,1,0,5,0,15,11.5,H,1,1,jason-brickman-1,Jason Brickman,2012
+24,57,24,2012-02-04,LIU Brooklyn,,Central Connecticut State,REG (Conf),W 95-80,*,35,5,9,0.556,2,3,0.667,3,6,0.5,0.667,2,2,1.0,0,1,1,7,0,0,4,0,14,10.9,H,1,1,jason-brickman-1,Jason Brickman,2012
+25,58,25,2012-02-08,LIU Brooklyn,N,St. Francis Brooklyn,REG (Conf),W 86-77,*,36,3,7,0.429,2,4,0.5,1,3,0.333,0.571,5,6,0.833,0,2,2,8,3,0,5,0,13,13.1,N,1,1,jason-brickman-1,Jason Brickman,2012
+26,59,26,2012-02-12,LIU Brooklyn,,St. Francis Brooklyn,REG (Conf),W 81-78,*,36,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,2,2,12,3,0,6,0,3,6.6,H,1,1,jason-brickman-1,Jason Brickman,2012
+27,60,27,2012-02-16,LIU Brooklyn,,Sacred Heart,REG (Conf),W 103-91 (OT),*,37,1,6,0.167,0,5,0.0,1,1,1.0,0.167,7,8,0.875,1,3,4,9,1,0,2,0,9,11.7,H,1,1,jason-brickman-1,Jason Brickman,2012
+28,61,28,2012-02-18,LIU Brooklyn,,Quinnipiac,REG (Conf),W 99-89,*,36,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,0,2,2,16,0,0,3,2,10,14.0,H,1,1,jason-brickman-1,Jason Brickman,2012
+29,62,29,2012-02-23,LIU Brooklyn,@,Fairleigh Dickinson,REG (Conf),W 91-80,*,35,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,13,0,0,2,0,2,7.3,A,1,1,jason-brickman-1,Jason Brickman,2012
+30,63,30,2012-02-25,LIU Brooklyn,@,Monmouth,REG (Conf),L 78-106,*,32,3,5,0.6,2,4,0.5,1,1,1.0,0.8,8,8,1.0,0,3,3,4,0,0,3,0,16,14.4,A,0,1,jason-brickman-1,Jason Brickman,2012
+31,64,31,2012-03-01,LIU Brooklyn,,Sacred Heart,CTOURN,W 80-68,*,37,4,12,0.333,3,9,0.333,1,3,0.333,0.458,1,2,0.5,0,0,0,13,2,0,2,2,12,13.1,H,1,0,jason-brickman-1,Jason Brickman,2012
+32,65,32,2012-03-04,LIU Brooklyn,,Quinnipiac,CTOURN,W 78-75,*,36,6,13,0.462,1,6,0.167,5,7,0.714,0.5,5,6,0.833,0,4,4,5,0,0,3,2,18,11.8,H,1,0,jason-brickman-1,Jason Brickman,2012
+33,66,33,2012-03-07,LIU Brooklyn,,Robert Morris,CTOURN,W 90-73,*,35,5,10,0.5,0,3,0.0,5,7,0.714,0.5,8,8,1.0,1,2,3,11,0,0,6,0,18,16.0,H,1,0,jason-brickman-1,Jason Brickman,2012
+34,67,34,2012-03-16,LIU Brooklyn,N,Michigan State,ROUND-64,L 67-89,*,39,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,7,2,0,5,1,5,5.8,N,0,0,jason-brickman-1,Jason Brickman,2012

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2012-11-10,St. Mary's (CA),,Sonoma St.,REG (Non-Conf),W 95-69,*,21,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,3,0.667,1,4,5,3,1,0,1,0,9,11.0,H,1,1,beau-levesque-1,Beau Levesque,2013
+2,53,2,2012-11-15,St. Mary's (CA),@,Utah State,REG (Non-Conf),W 67-58,*,22,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,6,6,0,0,1,1,4,6,4.6,A,1,1,beau-levesque-1,Beau Levesque,2013
+3,54,3,2012-11-18,St. Mary's (CA),,Eastern Washington,REG (Non-Conf),W 85-66,*,16,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,1,1.0,2,1,3,2,1,0,2,2,5,1.5,H,1,1,beau-levesque-1,Beau Levesque,2013
+4,55,4,2012-11-22,St. Mary's (CA),N,Drexel,REG (Non-Conf),W 76-64,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,0,0,4,2,-1.4,N,1,1,beau-levesque-1,Beau Levesque,2013
+5,56,5,2012-11-23,St. Mary's (CA),N,Pacific,REG (Non-Conf),L 66-76,*,24,6,11,0.545,4,8,0.5,2,3,0.667,0.727,2,2,1.0,1,2,3,0,2,0,4,3,18,10.8,N,0,1,beau-levesque-1,Beau Levesque,2013
+6,57,6,2012-11-25,St. Mary's (CA),N,Georgia Tech,REG (Non-Conf),L 56-65,,20,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,5,0.8,1,4,5,1,0,0,0,4,9,5.5,N,0,1,beau-levesque-1,Beau Levesque,2013
+7,58,7,2012-12-01,St. Mary's (CA),,Cal Poly,REG (Non-Conf),W 86-68,,20,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,4,1.0,2,4,6,3,0,0,1,3,8,7.1,H,1,1,beau-levesque-1,Beau Levesque,2013
+8,59,8,2012-12-05,St. Mary's (CA),@,Drake,REG (Non-Conf),W 88-73,,31,5,8,0.625,0,2,0.0,5,6,0.833,0.625,4,4,1.0,1,4,5,5,0,0,1,4,14,13.2,A,1,1,beau-levesque-1,Beau Levesque,2013
+9,60,9,2012-12-11,St. Mary's (CA),,Jackson State,REG (Non-Conf),W 120-67,,15,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,3,0.667,2,8,10,3,1,0,1,3,10,11.0,H,1,1,beau-levesque-1,Beau Levesque,2013
+10,61,10,2012-12-19,St. Mary's (CA),,Pacific,REG (Non-Conf),W 74-46,,21,5,5,1.0,3,3,1.0,2,2,1.0,1.3,5,6,0.833,2,4,6,0,0,1,0,3,18,18.2,H,1,1,beau-levesque-1,Beau Levesque,2013
+11,62,11,2012-12-23,St. Mary's (CA),@,Northern Iowa,REG (Non-Conf),L 75-82,,22,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,2,0.5,0,2,2,2,0,0,1,0,5,0.8,A,0,1,beau-levesque-1,Beau Levesque,2013
+12,63,12,2012-12-27,St. Mary's (CA),,Rhode Island,REG (Non-Conf),W 82-59,,19,4,4,1.0,1,1,1.0,3,3,1.0,1.125,5,5,1.0,2,4,6,0,0,0,2,2,14,12.6,H,1,1,beau-levesque-1,Beau Levesque,2013
+13,64,13,2012-12-30,St. Mary's (CA),,Yale,REG (Non-Conf),W 78-62,,22,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,5,0.4,2,3,5,0,1,0,1,1,10,7.0,H,1,1,beau-levesque-1,Beau Levesque,2013
+14,65,14,2012-12-31,St. Mary's (CA),,Harvard,REG (Non-Conf),W 70-69,,18,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,1,1.0,1,3,4,1,2,0,0,3,10,7.7,H,1,1,beau-levesque-1,Beau Levesque,2013
+15,66,15,2013-01-05,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 74-61,,15,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,2,1,3,1,0,1,0,4,11,8.5,H,1,1,beau-levesque-1,Beau Levesque,2013
+16,67,16,2013-01-10,St. Mary's (CA),@,Gonzaga,REG (Conf),L 78-83,,17,5,7,0.714,2,4,0.5,3,3,1.0,0.857,2,2,1.0,4,1,5,2,1,0,3,5,14,11.6,A,0,1,beau-levesque-1,Beau Levesque,2013
+17,68,17,2013-01-12,St. Mary's (CA),,San Francisco,REG (Conf),W 78-72,,30,4,7,0.571,1,2,0.5,3,5,0.6,0.643,6,6,1.0,1,3,4,2,1,0,0,2,15,14.9,H,1,1,beau-levesque-1,Beau Levesque,2013
+18,69,18,2013-01-16,St. Mary's (CA),@,Brigham Young,REG (Conf),W 70-69,,21,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,0,1,2,0,0,2,2,1,-1.5,A,1,1,beau-levesque-1,Beau Levesque,2013
+19,70,19,2013-01-19,St. Mary's (CA),@,Portland,REG (Conf),W 60-38,,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,2,0.0,1,2,3,0,4,1,2,1,8,6.8,A,1,1,beau-levesque-1,Beau Levesque,2013
+20,71,20,2013-01-24,St. Mary's (CA),,San Diego,REG (Conf),W 81-48,,21,7,10,0.7,2,3,0.667,5,7,0.714,0.8,4,8,0.5,4,1,5,2,1,0,0,1,20,19.3,H,1,1,beau-levesque-1,Beau Levesque,2013
+21,72,21,2013-01-26,St. Mary's (CA),,Pepperdine,REG (Conf),W 84-72,,28,9,11,0.818,1,1,1.0,8,10,0.8,0.864,0,0,,2,3,5,1,2,0,1,3,19,17.7,H,1,1,beau-levesque-1,Beau Levesque,2013
+22,73,22,2013-01-30,St. Mary's (CA),@,San Francisco,REG (Conf),W 67-63,,28,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,1,3,1,1,0,1,3,6,4.2,A,1,1,beau-levesque-1,Beau Levesque,2013
+23,74,23,2013-02-02,St. Mary's (CA),,Portland,REG (Conf),W 77-42,,20,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,3,1,4,0,0,1,1,1,9,7.0,H,1,1,beau-levesque-1,Beau Levesque,2013
+24,75,24,2013-02-07,St. Mary's (CA),@,Santa Clara,REG (Conf),W 84-63,,28,7,11,0.636,6,7,0.857,1,4,0.25,0.909,4,5,0.8,1,5,6,4,0,1,1,4,24,21.8,A,1,1,beau-levesque-1,Beau Levesque,2013
+25,76,25,2013-02-09,St. Mary's (CA),@,San Diego,REG (Conf),W 74-64,,31,3,9,0.333,2,7,0.286,1,2,0.5,0.444,1,2,0.5,2,2,4,3,0,0,2,3,9,4.4,A,1,1,beau-levesque-1,Beau Levesque,2013
+26,77,26,2013-02-14,St. Mary's (CA),,Gonzaga,REG (Conf),L 60-77,,27,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,3,3,1,0,0,1,3,6,4.1,H,0,1,beau-levesque-1,Beau Levesque,2013
+27,78,27,2013-02-16,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 61-50,,20,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,3,4,2,1,0,2,3,8,5.8,A,1,1,beau-levesque-1,Beau Levesque,2013
+28,79,28,2013-02-21,St. Mary's (CA),,Brigham Young,REG (Conf),W 64-57,,30,4,8,0.5,2,3,0.667,2,5,0.4,0.625,7,7,1.0,1,7,8,0,1,0,2,4,17,13.2,H,1,1,beau-levesque-1,Beau Levesque,2013
+29,80,29,2013-02-23,St. Mary's (CA),,Creighton,REG (Non-Conf),W 74-66,,13,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,0,0,0,0,5,5,2.0,H,1,1,beau-levesque-1,Beau Levesque,2013
+30,81,30,2013-02-27,St. Mary's (CA),@,Pepperdine,REG (Conf),W 87-48,,19,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,1,0,1,1,0,0,0,3,7,4.9,A,1,1,beau-levesque-1,Beau Levesque,2013
+31,82,31,2013-03-02,St. Mary's (CA),,Santa Clara,REG (Conf),W 80-67,,29,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,3,0.667,1,7,8,1,0,1,1,3,7,4.5,H,1,1,beau-levesque-1,Beau Levesque,2013
+32,83,32,2013-03-09,St. Mary's (CA),N,San Diego,CTOURN,W 69-66 (OT),,34,6,15,0.4,2,6,0.333,4,9,0.444,0.467,5,6,0.833,4,2,6,2,0,0,4,5,19,9.3,N,1,0,beau-levesque-1,Beau Levesque,2013
+33,84,33,2013-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-65,,20,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,2,0.0,1,2,3,1,0,0,0,1,9,6.1,N,0,0,beau-levesque-1,Beau Levesque,2013
+34,85,34,2013-03-19,St. Mary's (CA),N,Middle Tennessee,FIRST-FOUR,W 67-54,,29,3,9,0.333,1,3,0.333,2,6,0.333,0.389,6,9,0.667,2,2,4,1,0,0,1,2,13,7.6,N,1,0,beau-levesque-1,Beau Levesque,2013
+35,86,35,2013-03-21,St. Mary's (CA),N,Memphis,ROUND-64,L 52-54,,23,2,8,0.25,0,5,0.0,2,3,0.667,0.25,3,3,1.0,2,2,4,0,0,0,1,2,7,2.4,N,0,0,beau-levesque-1,Beau Levesque,2013

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,4,2013-11-18,Michigan State,,Portland,REG (Non-Conf),W 82-67,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+2,2,5,2013-11-22,Michigan State,N,Virginia Tech,REG (Non-Conf),W 96-77,,3,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,1,3,0.9,N,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+3,3,7,2013-11-29,Michigan State,,Mount St. Mary's,REG (Non-Conf),W 98-65,,8,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,0,8,7.4,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+4,4,8,2013-12-04,Michigan State,,North Carolina,REG (Non-Conf),L 65-79,,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,5,0.6,2,2,4,0,0,0,1,2,5,1.3,H,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+5,5,12,2013-12-28,Michigan State,,New Orleans,REG (Non-Conf),W 101-48,,7,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,0,0,1,1,1,0,1,4,5.3,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+6,6,13,2013-12-31,Michigan State,@,Penn State,REG (Conf),W 79-63,,9,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,1,2,1,1,0,0,2,6,5.2,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+7,7,14,2014-01-04,Michigan State,@,Indiana,REG (Conf),W 73-56,,11,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,1,2,0,0,1,0,1,3,3.3,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+8,8,15,2014-01-07,Michigan State,,Ohio State,REG (Conf),W 72-68 (OT),,16,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,1,1,0,0,0,0,3,9,6.5,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+9,9,16,2014-01-11,Michigan State,,Minnesota,REG (Conf),W 87-75 (OT),,23,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,0,1,1,1,0,1,0,2,15,13.0,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+10,10,17,2014-01-15,Michigan State,@,Northwestern,REG (Conf),W 54-40,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,1,0,0,0,0,3,3.4,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+11,11,18,2014-01-18,Michigan State,@,Illinois,REG (Conf),W 78-62,,10,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,1,1.0,1,1,2,0,0,0,0,0,6,5.0,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+12,12,19,2014-01-21,Michigan State,,Indiana,REG (Conf),W 71-66,,13,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,0,2,0,2,3,0,-1.6,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+13,13,20,2014-01-25,Michigan State,,Michigan,REG (Conf),L 75-80,*,14,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,0,0,0,1,0,0,1,2,0.2,H,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+14,14,21,2014-01-28,Michigan State,@,Iowa,REG (Conf),W 71-69 (OT),*,19,2,8,0.25,1,6,0.167,1,2,0.5,0.313,0,0,,0,1,1,0,1,0,1,2,5,-0.3,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+15,15,22,2014-02-01,Michigan State,N,Georgetown,REG (Non-Conf),L 60-64,,23,3,7,0.429,3,6,0.5,0,1,0.0,0.643,1,2,0.5,2,2,4,1,0,2,0,3,10,8.8,N,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+16,16,23,2014-02-06,Michigan State,,Penn State,REG (Conf),W 82-67,*,21,7,9,0.778,5,6,0.833,2,3,0.667,1.056,0,0,,1,1,2,0,0,0,1,2,19,14.7,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+17,17,24,2014-02-09,Michigan State,@,Wisconsin,REG (Conf),L 58-60,,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,3,0,-1.3,A,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+18,18,25,2014-02-13,Michigan State,,Northwestern,REG (Conf),W 85-70,,19,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,3,2,5,1,0,0,0,0,8,8.1,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+19,19,26,2014-02-16,Michigan State,,Nebraska,REG (Conf),L 51-60,,23,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,1,2,3,2,0,2,0,2,9,9.3,H,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+20,20,27,2014-02-20,Michigan State,@,Purdue,REG (Conf),W 94-79,,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,2,2,1,0,1,0,3,5,3.8,A,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+21,21,28,2014-02-23,Michigan State,@,Michigan,REG (Conf),L 70-79,,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,1,1.0,2,0,2,0,0,0,1,2,3,0.9,A,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+22,22,29,2014-03-01,Michigan State,,Illinois,REG (Conf),L 46-53,,4,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+23,23,30,2014-03-06,Michigan State,,Iowa,REG (Conf),W 86-76,,8,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,0,1,6,4.3,H,1,1,kenny-kaminski-1,Kenny Kaminski,2014
+24,24,31,2014-03-09,Michigan State,@,Ohio State,REG (Conf),L 67-69,,4,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,A,0,1,kenny-kaminski-1,Kenny Kaminski,2014
+25,25,32,2014-03-14,Michigan State,N,Northwestern,CTOURN,W 67-51,,12,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,1,6,5.3,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+26,26,33,2014-03-15,Michigan State,N,Wisconsin,CTOURN,W 83-75,,12,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,1,1,2,0,0,0,1,1,4,2.9,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+27,27,34,2014-03-16,Michigan State,N,Michigan,CTOURN,W 69-55,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+28,28,35,2014-03-20,Michigan State,N,Delaware,ROUND-64,W 93-78,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,1,1,0,0,0,0,2.0,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+29,29,36,2014-03-22,Michigan State,N,Harvard,ROUND-32,W 80-73,,9,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,0,1,0,0,1,6,5.9,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+30,30,37,2014-03-28,Michigan State,N,Virginia,ROUND-16,W 61-59,,6,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,1,0,0,0,1,3,2.6,N,1,0,kenny-kaminski-1,Kenny Kaminski,2014
+31,31,38,2014-03-30,Michigan State,N,Connecticut,ROUND-8,L 54-60,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,0,0,kenny-kaminski-1,Kenny Kaminski,2014

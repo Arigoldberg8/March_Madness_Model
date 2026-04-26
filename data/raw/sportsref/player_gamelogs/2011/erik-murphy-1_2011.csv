@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2010-11-12,Florida,,UNC Wilmington,REG (Non-Conf),W 77-60,,16,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,2,0.5,2,0,2,0,0,0,0,2,10,8.3,H,1,1,erik-murphy-1,Erik Murphy,2011
+2,35,2,2010-11-16,Florida,,Ohio State,REG (Non-Conf),L 75-93,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,3,1,4,1,0,2,0,1,8,9.8,H,0,1,erik-murphy-1,Erik Murphy,2011
+3,36,3,2010-11-18,Florida,,North Carolina A&T,REG (Non-Conf),W 105-55,*,19,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,3,1.0,2,2,4,1,0,2,3,2,11,8.7,H,1,1,erik-murphy-1,Erik Murphy,2011
+4,37,4,2010-11-21,Florida,,Morehead State,REG (Non-Conf),W 61-55,,11,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,0,0,2,1,2,6,4.6,H,1,1,erik-murphy-1,Erik Murphy,2011
+5,38,5,2010-11-23,Florida,,Florida Atlantic,REG (Non-Conf),W 79-66,,11,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,2,0,0,0,2,4,3.2,H,1,1,erik-murphy-1,Erik Murphy,2011
+6,39,6,2010-11-28,Florida,@,Florida State,REG (Non-Conf),W 55-51,,17,3,3,1.0,1,1,1.0,2,2,1.0,1.167,3,4,0.75,3,3,6,0,0,1,1,2,10,10.6,A,1,1,erik-murphy-1,Erik Murphy,2011
+7,40,7,2010-12-01,Florida,N,UCF,REG (Non-Conf),L 54-57,,17,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,3,4,0,1,2,2,1,2,2.9,N,0,1,erik-murphy-1,Erik Murphy,2011
+8,41,8,2010-12-05,Florida,N,American,REG (Non-Conf),W 67-48,,19,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,1,1.0,0,3,3,1,0,1,1,2,7,3.1,N,1,1,erik-murphy-1,Erik Murphy,2011
+9,42,9,2010-12-09,Florida,,Kent State,REG (Non-Conf),W 65-52,,17,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,1,3,4,0,0,2,0,3,5,3.7,H,1,1,erik-murphy-1,Erik Murphy,2011
+10,43,10,2010-12-18,Florida,N,Kansas State,REG (Non-Conf),W 57-44,,16,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,4,4,0,0,0,1,3,7,4.4,N,1,1,erik-murphy-1,Erik Murphy,2011
+11,44,11,2010-12-20,Florida,,Jacksonville,REG (Non-Conf),L 68-71 (OT),,12,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,0,0,0,0,0,1,1,4,-0.5,H,0,1,erik-murphy-1,Erik Murphy,2011
+12,45,12,2010-12-22,Florida,,Radford,REG (Non-Conf),W 66-55,,16,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,2,2,4,0,1,2,0,1,4,3.9,H,1,1,erik-murphy-1,Erik Murphy,2011
+13,46,13,2010-12-31,Florida,@,Xavier,REG (Non-Conf),W 71-67,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,1,0,1,2,4,3.5,A,1,1,erik-murphy-1,Erik Murphy,2011
+14,47,18,2011-01-20,Florida,@,Auburn,REG (Conf),W 45-40,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,1,3,0,0,0,1,0,0,-0.7,A,1,1,erik-murphy-1,Erik Murphy,2011
+15,48,19,2011-01-22,Florida,,Arkansas,REG (Conf),W 75-43,,13,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,2,0.5,0,3,3,0,0,0,1,1,6,2.4,H,1,1,erik-murphy-1,Erik Murphy,2011
+16,49,20,2011-01-25,Florida,@,Georgia,REG (Conf),W 104-91 (2OT),,4,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,2,3,0,0,0,0,2,7,5.9,A,1,1,erik-murphy-1,Erik Murphy,2011
+17,50,21,2011-01-29,Florida,@,Mississippi State,REG (Conf),L 64-71,,10,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,2,0,2,1,0,0,0,4,7,6.9,A,0,1,erik-murphy-1,Erik Murphy,2011
+18,51,22,2011-02-01,Florida,,Vanderbilt,REG (Conf),W 65-61 (OT),,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,3,4,0,0,1,0,3,0,-0.3,H,1,1,erik-murphy-1,Erik Murphy,2011
+19,52,23,2011-02-05,Florida,,Kentucky,REG (Conf),W 70-68,,11,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,1,0,0,0,1,2,0.5,H,1,1,erik-murphy-1,Erik Murphy,2011
+20,53,24,2011-02-09,Florida,@,South Carolina,REG (Conf),W 79-60,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,1,1,erik-murphy-1,Erik Murphy,2011
+21,54,25,2011-02-12,Florida,,Tennessee,REG (Conf),W 61-60,,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,0,1,0,1,0,1,0,3,3.4,H,1,1,erik-murphy-1,Erik Murphy,2011
+22,55,26,2011-02-20,Florida,@,Louisiana State,REG (Conf),W 68-61,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,2,0,2,0,1,0,2,2,4,1.9,A,1,1,erik-murphy-1,Erik Murphy,2011
+23,56,27,2011-02-24,Florida,,Georgia,REG (Conf),W 71-62,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,erik-murphy-1,Erik Murphy,2011
+24,57,28,2011-02-26,Florida,@,Kentucky,REG (Conf),L 68-76,,6,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,1,3,1.9,A,0,1,erik-murphy-1,Erik Murphy,2011
+25,58,29,2011-03-01,Florida,,Alabama,REG (Conf),W 78-51,,5,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,0,1,0,0,0,0,2,1,-0.2,H,1,1,erik-murphy-1,Erik Murphy,2011
+26,59,30,2011-03-05,Florida,@,Vanderbilt,REG (Conf),W 86-76,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,A,1,1,erik-murphy-1,Erik Murphy,2011
+27,60,31,2011-03-11,Florida,N,Tennessee,CTOURN,W 85-74,,8,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,1,2,0,0,0,1,0,5,3.7,N,1,0,erik-murphy-1,Erik Murphy,2011
+28,61,32,2011-03-12,Florida,N,Vanderbilt,CTOURN,W 77-66,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,1,0,0,1,0,2,1.7,N,1,0,erik-murphy-1,Erik Murphy,2011
+29,62,33,2011-03-13,Florida,N,Kentucky,CTOURN,L 54-70,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,1,0.0,0,2,2,0,0,0,1,2,3,0.4,N,0,0,erik-murphy-1,Erik Murphy,2011
+30,63,34,2011-03-17,Florida,N,UC Santa Barbara,ROUND-64,W 79-51,,17,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,2,2,0,0,0,1,3,7,1.0,N,1,0,erik-murphy-1,Erik Murphy,2011
+31,64,35,2011-03-19,Florida,N,UCLA,ROUND-32,W 73-65,,9,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,1,1,0,0,0,0,4,7,4.1,N,1,0,erik-murphy-1,Erik Murphy,2011
+32,65,36,2011-03-24,Florida,N,Brigham Young,ROUND-16,W 83-74 (OT),,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,0,2,0.7,N,1,0,erik-murphy-1,Erik Murphy,2011
+33,66,37,2011-03-26,Florida,N,Butler,ROUND-8,L 71-74 (OT),,6,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,2,3,0,-2.6,N,0,0,erik-murphy-1,Erik Murphy,2011

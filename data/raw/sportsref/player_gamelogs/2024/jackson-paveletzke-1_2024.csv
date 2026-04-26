@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2023-11-06,Iowa State,,Green Bay,REG (Non-Conf),W 85-44,,7,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,0,0,0,1,0,2,-1.1,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+2,35,2,2023-11-09,Iowa State,,Lindenwood,REG (Non-Conf),W 102-47,,8,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,1,1.0,0,1,1,1,0,0,1,0,6,2.6,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+3,36,3,2023-11-12,Iowa State,,Idaho State,REG (Non-Conf),W 86-55,,6,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,0,3,3.0,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+4,37,4,2023-11-19,Iowa State,,Grambling State,REG (Non-Conf),W 92-37,,7,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,0,0,2,1,0,1,0,3,3.7,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+5,38,5,2023-11-23,Iowa State,N,VCU,REG (Non-Conf),W 68-64,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+6,39,6,2023-11-24,Iowa State,N,Virginia Tech,REG (Non-Conf),L 62-71,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,0,1,1,1,0,0,0,1,2,-0.2,N,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+7,40,7,2023-11-26,Iowa State,N,Texas A&M,REG (Non-Conf),L 69-73,,23,1,5,0.2,1,4,0.25,0,1,0.0,0.3,4,7,0.571,0,2,2,1,0,0,1,3,7,1.8,N,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+8,41,8,2023-12-01,Iowa State,@,DePaul,REG (Non-Conf),W 99-80,,25,4,7,0.571,0,2,0.0,4,5,0.8,0.571,3,4,0.75,0,3,3,6,0,0,2,1,11,10.0,A,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+9,42,9,2023-12-07,Iowa State,,Iowa,REG (Non-Conf),W 90-65,,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,1,4,5,3,1,0,0,0,7,9.3,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+10,43,10,2023-12-10,Iowa State,,Prairie View A&M,REG (Non-Conf),W 107-56,,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,2,3,0.667,0,1,1,2,1,0,3,2,9,3.8,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+11,44,11,2023-12-17,Iowa State,,Florida A&M,REG (Non-Conf),W 96-58,,26,4,5,0.8,3,4,0.75,1,1,1.0,1.1,2,2,1.0,0,0,0,4,0,0,0,0,13,13.9,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+12,45,12,2023-12-21,Iowa State,,Eastern Illinois,REG (Non-Conf),W 80-48,,27,1,6,0.167,1,2,0.5,0,4,0.0,0.25,2,2,1.0,0,5,5,4,0,0,0,1,5,5.1,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+13,46,13,2023-12-31,Iowa State,,New Hampshire,REG (Non-Conf),W 85-70,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,3,0,0,0,0,3,3.0,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+14,47,14,2024-01-06,Iowa State,@,Oklahoma,REG (Conf),L 63-71,,11,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,0,3,3,0,0,0,1,0,5,2.2,A,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+15,48,15,2024-01-09,Iowa State,,Houston,REG (Conf),W 57-53,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+16,49,16,2024-01-13,Iowa State,,Oklahoma State,REG (Conf),W 66-42,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,0,0,-0.7,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+17,50,17,2024-01-16,Iowa State,@,Brigham Young,REG (Conf),L 72-87,,15,3,3,1.0,0,0,,3,3,1.0,1.0,1,1,1.0,0,0,0,1,0,0,2,1,7,4.4,A,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+18,51,18,2024-01-20,Iowa State,@,TCU,REG (Conf),W 73-72,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,0,0,3,4.0,A,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+19,52,19,2024-01-24,Iowa State,,Kansas State,REG (Conf),W 78-67,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+20,53,21,2024-02-03,Iowa State,@,Baylor,REG (Conf),L 68-70,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+21,54,22,2024-02-06,Iowa State,@,Texas,REG (Conf),W 70-65,,9,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,0,0,0,1,4,6,2.7,A,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+22,55,23,2024-02-10,Iowa State,,TCU,REG (Conf),W 71-59,,5,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,1,3,2.3,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+23,56,24,2024-02-13,Iowa State,@,Cincinnati,REG (Conf),W 68-59,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,1,0,0,1,2,3.0,A,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+24,57,25,2024-02-17,Iowa State,,Texas Tech,REG (Conf),W 82-74,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+25,58,26,2024-02-19,Iowa State,@,Houston,REG (Conf),L 65-73,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,A,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+26,59,27,2024-02-24,Iowa State,,West Virginia,REG (Conf),W 71-64,,16,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,2,2,1,1,0,2,2,9,6.2,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+27,60,28,2024-02-28,Iowa State,,Oklahoma,REG (Conf),W 58-45,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+28,61,29,2024-03-02,Iowa State,@,UCF,REG (Conf),W 60-52,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+29,62,30,2024-03-06,Iowa State,,Brigham Young,REG (Conf),W 68-63,,4,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,H,1,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+30,63,31,2024-03-09,Iowa State,@,Kansas State,REG (Conf),L 58-65,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,jackson-paveletzke-1,Jackson Paveletzke,2024
+31,64,32,2024-03-14,Iowa State,N,Kansas State,CTOURN,W 76-57,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,1,0,jackson-paveletzke-1,Jackson Paveletzke,2024
+32,65,34,2024-03-16,Iowa State,N,Houston,CTOURN,W 69-41,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,0,0,0,1.0,N,1,0,jackson-paveletzke-1,Jackson Paveletzke,2024
+33,66,35,2024-03-21,Iowa State,N,South Dakota State,ROUND-64,W 82-65,,2,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,N,1,0,jackson-paveletzke-1,Jackson Paveletzke,2024

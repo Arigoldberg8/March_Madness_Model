@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2010-11-12,Oakland,@,West Virginia,REG (Non-Conf),L 71-95,*,34,5,8,0.625,0,0,,5,8,0.625,0.625,6,7,0.857,6,3,9,1,1,0,1,3,16,16.6,A,0,1,will-hudson-1,Will Hudson,2011
+2,102,2,2010-11-15,Oakland,@,Ohio,REG (Non-Conf),W 78-66,*,30,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,2,4,6,2,0,2,3,3,6,6.9,A,1,1,will-hudson-1,Will Hudson,2011
+3,103,3,2010-11-21,Oakland,@,Purdue,REG (Non-Conf),L 67-82,*,37,4,5,0.8,0,0,,4,5,0.8,0.8,3,3,1.0,2,3,5,1,1,0,3,4,11,8.5,A,0,1,will-hudson-1,Will Hudson,2011
+4,104,4,2010-11-23,Oakland,@,Wright State,REG (Non-Conf),L 79-82,*,15,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,1,2,0,0,1,2,5,8,3.4,A,0,1,will-hudson-1,Will Hudson,2011
+5,105,5,2010-11-26,Oakland,N,Southern,REG (Non-Conf),W 105-53,*,29,7,13,0.538,0,0,,7,13,0.538,0.538,5,6,0.833,10,4,14,1,3,2,0,3,19,24.4,N,1,1,will-hudson-1,Will Hudson,2011
+6,106,6,2010-11-27,Oakland,N,Austin Peay,REG (Non-Conf),W 78-70 (OT),*,43,8,11,0.727,0,0,,8,11,0.727,0.727,5,8,0.625,2,7,9,1,1,1,3,2,21,17.4,N,1,1,will-hudson-1,Will Hudson,2011
+7,107,7,2010-12-02,Oakland,,Southern Utah,REG (Conf),W 81-65,*,36,5,9,0.556,0,0,,5,9,0.556,0.556,1,2,0.5,3,5,8,2,3,1,1,2,11,13.2,H,1,1,will-hudson-1,Will Hudson,2011
+8,108,8,2010-12-04,Oakland,,Kansas City,REG (Conf),W 99-62,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,7,10,0.7,2,1,3,1,0,1,1,0,17,15.7,H,1,1,will-hudson-1,Will Hudson,2011
+9,109,9,2010-12-08,Oakland,@,Illinois,REG (Non-Conf),L 63-74,*,37,5,5,1.0,0,0,,5,5,1.0,1.0,4,4,1.0,5,3,8,1,2,2,1,1,14,19.6,A,0,1,will-hudson-1,Will Hudson,2011
+10,110,10,2010-12-11,Oakland,N,Michigan State,REG (Non-Conf),L 76-77,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,3,3,6,0,0,1,0,3,10,8.5,N,0,1,will-hudson-1,Will Hudson,2011
+11,111,11,2010-12-14,Oakland,@,Tennessee,REG (Non-Conf),W 89-82,*,38,5,9,0.556,0,0,,5,9,0.556,0.556,7,9,0.778,6,3,9,1,1,1,1,2,17,17.6,A,1,1,will-hudson-1,Will Hudson,2011
+12,112,12,2010-12-18,Oakland,@,Michigan,REG (Non-Conf),L 51-69,*,29,4,8,0.5,0,0,,4,8,0.5,0.5,2,3,0.667,3,3,6,0,1,0,1,2,10,7.8,A,0,1,will-hudson-1,Will Hudson,2011
+13,113,13,2010-12-20,Oakland,,Rochester Christian,REG (Non-Conf),W 103-79,*,25,4,7,0.571,0,2,0.0,4,5,0.8,0.571,6,6,1.0,3,1,4,3,1,2,1,1,14,16.2,H,1,1,will-hudson-1,Will Hudson,2011
+14,114,14,2010-12-21,Oakland,,Valparaiso,REG (Non-Conf),L 102-103,*,30,4,5,0.8,0,0,,4,5,0.8,0.8,7,8,0.875,7,5,12,0,1,1,2,4,15,17.2,H,0,1,will-hudson-1,Will Hudson,2011
+15,115,15,2010-12-23,Oakland,@,Ohio State,REG (Non-Conf),L 63-92,*,30,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,3,1.0,4,1,5,1,0,0,2,3,7,4.2,A,0,1,will-hudson-1,Will Hudson,2011
+16,116,16,2010-12-28,Oakland,@,Centenary (LA),REG (Conf),W 98-71,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,3,3,0,0,1,1,3,7,3.7,A,1,1,will-hudson-1,Will Hudson,2011
+17,117,17,2010-12-30,Oakland,@,Oral Roberts,REG (Conf),W 85-77,*,34,9,11,0.818,0,0,,9,11,0.818,0.818,2,5,0.4,6,4,10,0,0,0,2,3,20,16.9,A,1,1,will-hudson-1,Will Hudson,2011
+18,118,18,2011-01-06,Oakland,,IUPUI,REG (Conf),W 85-71,*,36,2,4,0.5,0,0,,2,4,0.5,0.5,4,5,0.8,3,4,7,1,0,1,2,3,8,7.1,H,1,1,will-hudson-1,Will Hudson,2011
+19,119,19,2011-01-08,Oakland,,Western Illinois,REG (Conf),W 79-50,*,29,7,10,0.7,0,1,0.0,7,9,0.778,0.7,4,5,0.8,5,2,7,0,0,0,0,2,18,16.7,H,1,1,will-hudson-1,Will Hudson,2011
+20,120,20,2011-01-15,Oakland,@,IPFW,REG (Conf),W 86-68,*,35,2,5,0.4,0,0,,2,5,0.4,0.4,4,5,0.8,3,4,7,0,1,1,2,2,8,7.1,A,1,1,will-hudson-1,Will Hudson,2011
+21,121,21,2011-01-20,Oakland,@,South Dakota State,REG (Conf),W 97-88,*,33,6,7,0.857,0,0,,6,7,0.857,0.857,4,8,0.5,2,3,5,0,0,0,2,2,16,11.4,A,1,1,will-hudson-1,Will Hudson,2011
+22,122,22,2011-01-22,Oakland,@,North Dakota State,REG (Conf),W 83-76,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,2,7,0.286,3,1,4,2,0,0,1,1,8,4.7,A,1,1,will-hudson-1,Will Hudson,2011
+23,123,23,2011-01-27,Oakland,,Oral Roberts,REG (Conf),W 88-85,*,34,9,10,0.9,0,0,,9,10,0.9,0.9,4,9,0.444,2,7,9,1,1,4,2,4,22,21.0,H,1,1,will-hudson-1,Will Hudson,2011
+24,124,24,2011-01-29,Oakland,,Centenary (LA),REG (Conf),W 100-70,*,25,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,4,0.75,2,2,4,2,3,1,2,0,13,14.8,H,1,1,will-hudson-1,Will Hudson,2011
+25,125,25,2011-02-03,Oakland,@,Western Illinois,REG (Conf),W 88-65,*,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,5,0.4,2,1,3,1,1,1,0,0,8,6.5,A,1,1,will-hudson-1,Will Hudson,2011
+26,126,26,2011-02-05,Oakland,@,IUPUI,REG (Conf),L 88-100,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,2,4,6,0,1,1,2,5,8,5.0,A,0,1,will-hudson-1,Will Hudson,2011
+27,127,27,2011-02-12,Oakland,,IPFW,REG (Conf),W 86-78,*,35,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,4,2,6,0,0,0,1,2,2,1.1,H,1,1,will-hudson-1,Will Hudson,2011
+28,128,28,2011-02-17,Oakland,,North Dakota State,REG (Conf),W 71-69,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,7,10,0.7,6,6,12,2,1,2,1,3,15,18.8,H,1,1,will-hudson-1,Will Hudson,2011
+29,129,29,2011-02-19,Oakland,,South Dakota State,REG (Conf),W 105-96,*,34,5,5,1.0,0,0,,5,5,1.0,1.0,7,8,0.875,2,4,6,0,0,3,0,3,17,18.6,H,1,1,will-hudson-1,Will Hudson,2011
+30,130,30,2011-02-24,Oakland,@,Kansas City,REG (Conf),W 103-90,*,34,3,5,0.6,0,0,,3,5,0.6,0.6,5,6,0.833,4,7,11,2,0,1,2,4,11,11.7,A,1,1,will-hudson-1,Will Hudson,2011
+31,131,31,2011-02-26,Oakland,@,Southern Utah,REG (Conf),W 82-68,*,31,7,11,0.636,0,0,,7,11,0.636,0.636,2,2,1.0,6,4,10,0,0,0,2,2,16,13.7,A,1,1,will-hudson-1,Will Hudson,2011
+32,132,32,2011-03-05,Oakland,N,Southern Utah,CTOURN,W 82-66,*,33,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,6,2,8,1,0,1,0,2,9,12.4,N,1,0,will-hudson-1,Will Hudson,2011
+33,133,33,2011-03-07,Oakland,N,South Dakota State,CTOURN,W 110-90,*,34,6,8,0.75,0,0,,6,8,0.75,0.75,0,2,0.0,4,5,9,1,0,1,0,1,12,13.3,N,1,0,will-hudson-1,Will Hudson,2011
+34,134,34,2011-03-08,Oakland,N,Oral Roberts,CTOURN,W 90-76,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,0,0,,6,4,10,0,1,0,1,5,12,10.8,N,1,0,will-hudson-1,Will Hudson,2011
+35,135,35,2011-03-18,Oakland,N,Texas,ROUND-64,L 81-85,*,39,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,6,4,10,0,0,0,1,3,14,13.3,N,0,0,will-hudson-1,Will Hudson,2011

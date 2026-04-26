@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,VCU,N,Tennessee,REG (Non-Conf),W 85-69,,22,3,12,0.25,1,7,0.143,2,5,0.4,0.292,4,5,0.8,2,0,2,1,2,0,1,3,11,5.3,N,1,1,terry-larrier-1,Terry Larrier,2015
+2,2,2,2014-11-18,VCU,,Toledo,REG (Non-Conf),W 87-78,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,2,1,0,-3.1,H,1,1,terry-larrier-1,Terry Larrier,2015
+3,3,3,2014-11-20,VCU,,Maryland Eastern Shore,REG (Non-Conf),W 106-66,,20,7,10,0.7,4,7,0.571,3,3,1.0,0.9,3,4,0.75,3,3,6,1,2,1,0,1,21,22.4,H,1,1,terry-larrier-1,Terry Larrier,2015
+4,4,4,2014-11-24,VCU,N,Villanova,REG (Non-Conf),L 53-77,,20,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,2,2,0,0,0,1,1,6,1.5,N,0,1,terry-larrier-1,Terry Larrier,2015
+5,5,5,2014-11-25,VCU,N,Oregon,REG (Non-Conf),W 77-63,,17,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,4,4,1,1,0,1,2,3,2.4,N,1,1,terry-larrier-1,Terry Larrier,2015
+6,6,6,2014-11-29,VCU,@,Old Dominion,REG (Non-Conf),L 67-73,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,A,0,1,terry-larrier-1,Terry Larrier,2015
+7,7,7,2014-12-02,VCU,@,Illinois State,REG (Non-Conf),W 66-62,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-2.1,A,1,1,terry-larrier-1,Terry Larrier,2015
+8,8,8,2014-12-06,VCU,,Virginia,REG (Non-Conf),L 57-74,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,1,0,1,2,0,0,1,1,0,-1.5,H,0,1,terry-larrier-1,Terry Larrier,2015
+9,9,9,2014-12-13,VCU,,Northern Iowa,REG (Non-Conf),W 93-87 (2OT),,9,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,1,1.0,0,1,1,0,0,0,0,3,9,6.5,H,1,1,terry-larrier-1,Terry Larrier,2015
+10,10,10,2014-12-16,VCU,,Belmont,REG (Non-Conf),W 78-51,,20,2,6,0.333,1,2,0.5,1,4,0.25,0.417,3,4,0.75,0,4,4,1,0,0,1,1,8,4.7,H,1,1,terry-larrier-1,Terry Larrier,2015
+11,11,11,2014-12-20,VCU,@,Cincinnati,REG (Non-Conf),W 68-47,,15,2,7,0.286,2,3,0.667,0,4,0.0,0.429,0,0,,2,2,4,0,1,0,1,2,6,3.1,A,1,1,terry-larrier-1,Terry Larrier,2015
+12,12,12,2014-12-22,VCU,,East Tennessee State,REG (Non-Conf),W 84-60,,18,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,2,1,3,0,1,1,2,1,2,0.6,H,1,1,terry-larrier-1,Terry Larrier,2015
+13,13,13,2014-12-29,VCU,,Cleveland State,REG (Non-Conf),W 72-63,,20,4,7,0.571,3,6,0.5,1,1,1.0,0.786,2,4,0.5,1,1,2,0,0,0,0,2,13,9.1,H,1,1,terry-larrier-1,Terry Larrier,2015
+14,14,14,2015-01-04,VCU,@,Fordham,REG (Conf),W 75-58,*,24,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,1,1,1,1,0,2,2,8,2.8,A,1,1,terry-larrier-1,Terry Larrier,2015
+15,15,15,2015-01-07,VCU,,Davidson,REG (Conf),W 71-65,,17,4,7,0.571,1,4,0.25,3,3,1.0,0.643,2,4,0.5,0,5,5,0,0,0,0,0,11,8.4,H,1,1,terry-larrier-1,Terry Larrier,2015
+16,16,16,2015-01-10,VCU,,Saint Joseph's,REG (Conf),W 89-74,,21,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,3,0.667,1,4,5,1,0,0,3,1,10,4.8,H,1,1,terry-larrier-1,Terry Larrier,2015
+17,17,17,2015-01-13,VCU,@,Rhode Island,REG (Conf),W 65-60,,24,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,5,0.4,0,2,2,0,0,0,0,2,7,0.8,A,1,1,terry-larrier-1,Terry Larrier,2015
+18,18,18,2015-01-17,VCU,@,Duquesne,REG (Conf),W 70-64,*,11,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,0,0,0,0,0,0,3,5,2.1,A,1,1,terry-larrier-1,Terry Larrier,2015
+19,19,19,2015-01-23,VCU,@,Saint Louis,REG (Conf),W 63-61,,19,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,2,2,1,1,0,1,2,7,5.5,A,1,1,terry-larrier-1,Terry Larrier,2015
+20,20,20,2015-01-27,VCU,,George Washington,REG (Conf),W 72-48,,22,4,7,0.571,2,4,0.5,2,3,0.667,0.714,5,7,0.714,1,3,4,2,1,0,0,2,15,14.1,H,1,1,terry-larrier-1,Terry Larrier,2015
+21,21,21,2015-01-31,VCU,,Richmond,REG (Conf),L 55-64,,22,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,1,0.0,0,0,0,1,0,0,0,1,2,-2.6,H,0,1,terry-larrier-1,Terry Larrier,2015
+22,22,22,2015-02-04,VCU,@,George Mason,REG (Conf),W 72-60,,13,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,2,0.0,0,2,2,1,0,0,1,1,2,-1.3,A,1,1,terry-larrier-1,Terry Larrier,2015
+23,23,23,2015-02-07,VCU,@,St. Bonaventure,REG (Conf),L 71-73,,25,5,10,0.5,2,5,0.4,3,5,0.6,0.6,3,4,0.75,3,4,7,0,0,0,1,2,15,11.1,A,0,1,terry-larrier-1,Terry Larrier,2015
+24,24,24,2015-02-11,VCU,,La Salle,REG (Conf),L 69-74 (2OT),,24,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,0,,2,2,4,0,0,1,2,0,4,-0.8,H,0,1,terry-larrier-1,Terry Larrier,2015
+25,25,25,2015-02-14,VCU,@,George Washington,REG (Conf),W 79-66,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,1,0,0,0,0,1.2,A,1,1,terry-larrier-1,Terry Larrier,2015
+26,26,26,2015-02-17,VCU,,Saint Louis,REG (Conf),W 74-54,,22,2,8,0.25,2,7,0.286,0,1,0.0,0.375,3,4,0.75,0,3,3,1,0,0,2,2,9,2.6,H,1,1,terry-larrier-1,Terry Larrier,2015
+27,27,27,2015-02-21,VCU,,Massachusetts,REG (Conf),W 78-72,,13,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,1,0,1,1,0,0,1,0,4,1.6,H,1,1,terry-larrier-1,Terry Larrier,2015
+28,28,28,2015-02-25,VCU,@,Richmond,REG (Conf),L 63-67 (2OT),,13,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,1,1,0,0,0,1,0,4,1.3,A,0,1,terry-larrier-1,Terry Larrier,2015
+29,29,29,2015-02-28,VCU,,Dayton,REG (Conf),L 55-59,,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,2,4,6,2,0,0,1,0,5,4.9,H,0,1,terry-larrier-1,Terry Larrier,2015
+30,30,30,2015-03-05,VCU,@,Davidson,REG (Conf),L 55-82,,23,4,10,0.4,0,5,0.0,4,5,0.8,0.4,4,6,0.667,0,2,2,0,2,1,3,3,12,4.9,A,0,1,terry-larrier-1,Terry Larrier,2015
+31,31,31,2015-03-07,VCU,,George Mason,REG (Conf),W 71-60,,19,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,1,0,3,1,0,-2.5,H,1,1,terry-larrier-1,Terry Larrier,2015
+32,32,32,2015-03-12,VCU,N,Fordham,CTOURN,W 63-57,,23,1,11,0.091,1,6,0.167,0,5,0.0,0.136,7,8,0.875,3,4,7,1,0,1,1,2,10,5.2,N,1,0,terry-larrier-1,Terry Larrier,2015
+33,33,33,2015-03-13,VCU,N,Richmond,CTOURN,W 70-67,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,3,3,1.0,2,4,6,0,0,0,3,2,5,2.8,N,1,0,terry-larrier-1,Terry Larrier,2015
+34,34,34,2015-03-14,VCU,N,Davidson,CTOURN,W 93-73,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,4,4,1.0,1,4,5,0,1,0,0,1,11,9.8,N,1,0,terry-larrier-1,Terry Larrier,2015
+35,35,35,2015-03-15,VCU,N,Dayton,CTOURN,W 71-65,*,27,2,9,0.222,2,5,0.4,0,4,0.0,0.333,4,4,1.0,2,3,5,0,0,0,0,2,10,6.0,N,1,0,terry-larrier-1,Terry Larrier,2015
+36,36,36,2015-03-19,VCU,N,Ohio State,ROUND-64,L 72-75 (OT),*,19,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,2,2,4,1,2,0,3,0,4,2.9,N,0,0,terry-larrier-1,Terry Larrier,2015

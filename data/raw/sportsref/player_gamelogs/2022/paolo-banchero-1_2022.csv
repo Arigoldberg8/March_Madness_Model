@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Duke,N,Kentucky,REG (Non-Conf),W 79-71,*,31,7,11,0.636,0,3,0.0,7,8,0.875,0.636,8,9,0.889,0,7,7,0,2,0,1,2,22,19.0,N,1,1,paolo-banchero-1,Paolo Banchero,2022
+2,2,2,2021-11-12,Duke,,Army,REG (Non-Conf),W 82-56,*,26,7,9,0.778,1,1,1.0,6,8,0.75,0.833,3,3,1.0,3,9,12,1,2,0,4,2,18,17.2,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+3,3,3,2021-11-13,Duke,,Campbell,REG (Non-Conf),W 67-56,*,33,7,11,0.636,0,3,0.0,7,8,0.875,0.636,4,5,0.8,0,7,7,0,1,1,5,1,18,11.1,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+4,4,4,2021-11-16,Duke,,Gardner-Webb,REG (Non-Conf),W 92-52,*,26,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,3,0.667,0,8,8,2,1,1,1,1,10,9.0,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+5,5,5,2021-11-19,Duke,,Lafayette,REG (Non-Conf),W 88-55,*,20,4,12,0.333,2,3,0.667,2,9,0.222,0.417,1,2,0.5,2,4,6,3,1,1,0,1,11,9.8,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+6,6,6,2021-11-22,Duke,,The Citadel,REG (Non-Conf),W 107-81,*,31,10,19,0.526,2,5,0.4,8,14,0.571,0.579,6,6,1.0,2,6,8,6,2,1,0,1,28,28.4,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+7,7,7,2021-11-26,Duke,N,Gonzaga,REG (Non-Conf),W 84-81,*,30,8,17,0.471,3,8,0.375,5,9,0.556,0.559,2,3,0.667,1,4,5,2,1,0,1,2,21,14.4,N,1,1,paolo-banchero-1,Paolo Banchero,2022
+8,8,8,2021-11-30,Duke,@,Ohio State,REG (Non-Conf),L 66-71,*,35,4,14,0.286,1,3,0.333,3,11,0.273,0.321,5,6,0.833,0,5,5,1,1,0,3,4,14,4.0,A,0,1,paolo-banchero-1,Paolo Banchero,2022
+9,9,9,2021-12-14,Duke,,South Carolina State,REG (Non-Conf),W 103-62,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,6,7,0.857,1,6,7,6,3,1,2,0,12,16.3,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+10,10,10,2021-12-16,Duke,,Appalachian State,REG (Non-Conf),W 92-67,*,30,6,13,0.462,2,5,0.4,4,8,0.5,0.538,2,2,1.0,1,5,6,1,1,0,3,4,16,8.6,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+11,11,11,2021-12-18,Duke,,Elon,REG (Non-Conf),W 87-56,*,23,4,8,0.5,0,0,,4,8,0.5,0.5,4,7,0.571,2,7,9,1,1,2,2,3,12,10.2,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+12,12,12,2021-12-22,Duke,,Virginia Tech,REG (Conf),W 76-65,*,34,9,20,0.45,1,4,0.25,8,16,0.5,0.475,4,4,1.0,3,4,7,3,1,1,4,2,23,14.9,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+13,13,13,2022-01-04,Duke,,Georgia Tech,REG (Conf),W 69-57,*,36,4,8,0.5,0,1,0.0,4,7,0.571,0.5,9,16,0.563,3,8,11,4,2,3,3,2,17,17.8,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+14,14,14,2022-01-08,Duke,,Miami (FL),REG (Conf),L 74-76,*,35,6,10,0.6,2,4,0.5,4,6,0.667,0.7,6,7,0.857,1,6,7,2,1,2,3,1,20,17.9,H,0,1,paolo-banchero-1,Paolo Banchero,2022
+15,15,15,2022-01-12,Duke,@,Wake Forest,REG (Conf),W 76-64,*,38,11,23,0.478,2,6,0.333,9,17,0.529,0.522,0,0,,0,5,5,1,0,1,0,3,24,14.0,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+16,16,16,2022-01-15,Duke,,NC State,REG (Conf),W 88-73,*,32,8,11,0.727,0,0,,8,11,0.727,0.727,5,8,0.625,2,6,8,4,1,1,4,0,21,19.0,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+17,17,17,2022-01-18,Duke,@,Florida State,REG (Conf),L 78-79 (OT),*,42,6,11,0.545,1,3,0.333,5,8,0.625,0.591,7,9,0.778,2,10,12,7,0,1,4,2,20,19.1,A,0,1,paolo-banchero-1,Paolo Banchero,2022
+18,18,18,2022-01-22,Duke,,Syracuse,REG (Conf),W 79-59,*,33,6,11,0.545,1,4,0.25,5,7,0.714,0.591,2,4,0.5,3,10,13,4,1,1,2,1,15,16.1,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+19,19,19,2022-01-25,Duke,,Clemson,REG (Conf),W 71-69,*,29,8,15,0.533,2,5,0.4,6,10,0.6,0.6,1,1,1.0,1,6,7,4,0,1,4,2,19,12.9,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+20,20,20,2022-01-29,Duke,@,Louisville,REG (Conf),W 74-65,*,37,5,15,0.333,0,2,0.0,5,13,0.385,0.333,1,2,0.5,6,9,15,3,0,1,1,1,11,10.4,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+21,21,21,2022-01-31,Duke,@,Notre Dame,REG (Conf),W 57-43,*,30,10,22,0.455,1,5,0.2,9,17,0.529,0.477,0,0,,3,6,9,0,2,1,5,1,21,10.8,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+22,22,22,2022-02-05,Duke,@,North Carolina,REG (Conf),W 87-67,*,31,5,14,0.357,2,4,0.5,3,10,0.3,0.429,1,2,0.5,1,9,10,2,0,0,1,2,13,7.8,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+23,23,23,2022-02-07,Duke,,Virginia,REG (Conf),L 68-69,*,38,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,2,1.0,3,6,9,3,0,3,4,1,9,7.6,H,0,1,paolo-banchero-1,Paolo Banchero,2022
+24,24,24,2022-02-10,Duke,@,Clemson,REG (Conf),W 82-64,*,34,5,15,0.333,1,4,0.25,4,11,0.364,0.367,4,5,0.8,1,9,10,3,2,0,3,3,15,9.4,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+25,25,25,2022-02-12,Duke,@,Boston College,REG (Conf),W 72-61,*,34,7,14,0.5,0,2,0.0,7,12,0.583,0.5,2,2,1.0,3,11,14,3,1,0,1,0,16,16.5,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+26,26,26,2022-02-15,Duke,,Wake Forest,REG (Conf),W 76-74,*,29,2,10,0.2,1,5,0.2,1,5,0.2,0.25,8,9,0.889,0,3,3,6,2,2,3,4,13,10.3,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+27,27,27,2022-02-19,Duke,,Florida State,REG (Conf),W 88-70,*,30,6,12,0.5,0,3,0.0,6,9,0.667,0.5,5,5,1.0,3,5,8,1,1,1,1,2,17,15.2,H,1,1,paolo-banchero-1,Paolo Banchero,2022
+28,28,28,2022-02-23,Duke,@,Virginia,REG (Conf),W 65-61,*,37,2,13,0.154,0,3,0.0,2,10,0.2,0.154,4,6,0.667,2,3,5,5,0,0,3,0,8,1.7,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+29,29,29,2022-02-26,Duke,@,Syracuse,REG (Conf),W 97-72,*,34,7,16,0.438,4,7,0.571,3,9,0.333,0.563,3,6,0.5,0,1,1,9,0,1,1,3,21,16.5,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+30,30,30,2022-03-01,Duke,@,Pittsburgh,REG (Conf),W 86-56,*,33,7,10,0.7,3,3,1.0,4,7,0.571,0.85,4,6,0.667,0,1,1,3,0,0,3,3,21,14.2,A,1,1,paolo-banchero-1,Paolo Banchero,2022
+31,31,31,2022-03-05,Duke,,North Carolina,REG (Conf),L 81-94,*,38,11,26,0.423,1,5,0.2,10,21,0.476,0.442,0,1,0.0,3,2,5,5,0,0,4,2,23,10.2,H,0,1,paolo-banchero-1,Paolo Banchero,2022
+32,32,32,2022-03-10,Duke,N,Syracuse,CTOURN,W 88-79,*,35,3,9,0.333,0,4,0.0,3,5,0.6,0.333,4,7,0.571,3,7,10,7,5,1,4,1,10,14.1,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+33,33,33,2022-03-11,Duke,N,Miami (FL),CTOURN,W 80-76,*,38,8,10,0.8,0,1,0.0,8,9,0.889,0.8,2,4,0.5,4,7,11,4,1,1,0,3,18,21.6,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+34,34,34,2022-03-12,Duke,N,Virginia Tech,CTOURN,L 67-82,*,37,8,11,0.727,0,1,0.0,8,10,0.8,0.727,4,7,0.571,1,4,5,1,0,1,2,3,20,14.4,N,0,0,paolo-banchero-1,Paolo Banchero,2022
+35,35,35,2022-03-18,Duke,N,Cal State Fullerton,ROUND-64,W 78-61,*,33,7,14,0.5,2,4,0.5,5,10,0.5,0.571,1,1,1.0,3,7,10,4,1,2,2,3,17,16.2,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+36,36,36,2022-03-20,Duke,N,Michigan State,ROUND-32,W 85-76,*,38,8,14,0.571,2,5,0.4,6,9,0.667,0.643,1,3,0.333,1,6,7,4,0,1,5,3,19,11.4,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+37,37,37,2022-03-24,Duke,N,Texas Tech,ROUND-16,W 78-73,*,37,7,12,0.583,3,4,0.75,4,8,0.5,0.708,5,6,0.833,0,4,4,4,3,0,1,0,22,22.0,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+38,38,38,2022-03-26,Duke,N,Arkansas,ROUND-8,W 78-69,*,38,4,11,0.364,1,2,0.5,3,9,0.333,0.409,7,8,0.875,0,7,7,3,1,1,1,4,16,12.8,N,1,0,paolo-banchero-1,Paolo Banchero,2022
+39,39,39,2022-04-02,Duke,N,North Carolina,NATIONAL-SEMI,L 77-81,*,39,8,17,0.471,2,4,0.5,6,13,0.462,0.529,2,4,0.5,4,6,10,2,0,2,1,2,20,16.1,N,0,0,paolo-banchero-1,Paolo Banchero,2022

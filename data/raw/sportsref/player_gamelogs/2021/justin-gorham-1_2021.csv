@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2020-11-25,Houston,,Lamar,REG (Non-Conf),W 89-45,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,2,4,0,0,0,0,2,6,4.2,H,1,1,justin-gorham-1,Justin Gorham,2021
+2,96,2,2020-11-27,Houston,,Boise State,REG (Non-Conf),W 68-58,*,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,3,3,6,0,1,0,1,3,2,3.5,H,1,1,justin-gorham-1,Justin Gorham,2021
+3,97,3,2020-11-29,Houston,N,Texas Tech,REG (Non-Conf),W 64-53,*,33,2,3,0.667,1,2,0.5,1,1,1.0,0.833,4,4,1.0,3,4,7,0,1,0,0,3,9,10.8,N,1,1,justin-gorham-1,Justin Gorham,2021
+4,98,4,2020-12-05,Houston,,South Carolina,REG (Non-Conf),W 77-67,*,39,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,3,2,5,2,4,2,1,4,5,8.4,H,1,1,justin-gorham-1,Justin Gorham,2021
+5,99,5,2020-12-20,Houston,,Alcorn State,REG (Non-Conf),W 88-55,*,34,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,11,5,16,3,1,1,0,3,4,12.7,H,1,1,justin-gorham-1,Justin Gorham,2021
+6,100,6,2020-12-22,Houston,,Temple,REG (Conf),W 76-50,*,25,3,5,0.6,3,3,1.0,0,2,0.0,0.9,5,6,0.833,7,5,12,0,2,1,2,2,14,17.6,H,1,1,justin-gorham-1,Justin Gorham,2021
+7,101,7,2020-12-26,Houston,@,UCF,REG (Conf),W 63-54,*,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,0,4,0,-2.1,A,1,1,justin-gorham-1,Justin Gorham,2021
+8,102,8,2020-12-29,Houston,@,Tulsa,REG (Conf),L 64-65,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,4,2,6,0,0,2,1,2,8,9.0,A,0,1,justin-gorham-1,Justin Gorham,2021
+9,103,9,2021-01-03,Houston,@,SMU,REG (Conf),W 74-60,*,38,3,7,0.429,1,1,1.0,2,6,0.333,0.5,4,6,0.667,9,10,19,2,1,0,2,1,11,15.8,A,1,1,justin-gorham-1,Justin Gorham,2021
+10,104,10,2021-01-06,Houston,,Wichita State,REG (Conf),W 70-63,*,37,5,7,0.714,2,3,0.667,3,4,0.75,0.857,2,2,1.0,6,4,10,1,0,1,0,2,14,17.1,H,1,1,justin-gorham-1,Justin Gorham,2021
+11,105,11,2021-01-09,Houston,,Tulane,REG (Conf),W 71-50,*,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,3,8,11,0,0,1,0,2,4,5.7,H,1,1,justin-gorham-1,Justin Gorham,2021
+12,106,12,2021-01-17,Houston,,UCF,REG (Conf),W 75-58,*,31,5,8,0.625,1,2,0.5,4,6,0.667,0.688,4,4,1.0,5,5,10,0,0,0,0,2,15,15.6,H,1,1,justin-gorham-1,Justin Gorham,2021
+13,107,13,2021-01-20,Houston,,Tulsa,REG (Conf),W 86-59,*,23,1,3,0.333,0,0,,1,3,0.333,0.333,1,3,0.333,4,7,11,1,0,0,0,0,3,6.1,H,1,1,justin-gorham-1,Justin Gorham,2021
+14,108,14,2021-01-23,Houston,@,Temple,REG (Conf),W 68-51,*,29,5,7,0.714,1,3,0.333,4,4,1.0,0.786,3,4,0.75,4,6,10,0,0,0,2,4,14,11.7,A,1,1,justin-gorham-1,Justin Gorham,2021
+15,109,15,2021-01-28,Houston,@,Tulane,REG (Conf),W 83-60,*,24,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,1,0.0,7,8,15,2,0,0,1,0,7,8.5,A,1,1,justin-gorham-1,Justin Gorham,2021
+16,110,16,2021-01-31,Houston,,SMU,REG (Conf),W 70-48,*,30,2,8,0.25,1,2,0.5,1,6,0.167,0.313,4,6,0.667,3,14,17,0,2,0,1,2,9,9.9,H,1,1,justin-gorham-1,Justin Gorham,2021
+17,111,17,2021-02-03,Houston,@,East Carolina,REG (Conf),L 73-82,*,36,5,11,0.455,1,2,0.5,4,9,0.444,0.5,0,1,0.0,4,7,11,1,2,0,1,5,11,9.5,A,0,1,justin-gorham-1,Justin Gorham,2021
+18,112,19,2021-02-10,Houston,@,South Florida,REG (Conf),W 82-65,*,28,4,7,0.571,1,4,0.25,3,3,1.0,0.643,2,5,0.4,2,6,8,2,2,0,2,1,11,10.7,A,1,1,justin-gorham-1,Justin Gorham,2021
+19,113,20,2021-02-18,Houston,@,Wichita State,REG (Conf),L 63-68,*,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,4,2,6,0,3,1,2,3,10,10.2,A,0,1,justin-gorham-1,Justin Gorham,2021
+20,114,21,2021-02-21,Houston,,Cincinnati,REG (Conf),W 90-52,*,22,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,2,2,4,1,0,0,1,3,9,6.5,H,1,1,justin-gorham-1,Justin Gorham,2021
+21,115,22,2021-02-25,Houston,,Western Kentucky,REG (Non-Conf),W 81-57,*,34,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,5,3,8,5,1,0,1,0,2,6.8,H,1,1,justin-gorham-1,Justin Gorham,2021
+22,116,23,2021-02-28,Houston,,South Florida,REG (Conf),W 98-52,*,20,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,1,0.0,2,3,5,1,0,0,0,0,10,10.4,H,1,1,justin-gorham-1,Justin Gorham,2021
+23,117,24,2021-03-07,Houston,,Memphis,REG (Conf),W 67-64,*,36,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,2,0.5,4,8,12,2,1,1,2,2,10,10.4,H,1,1,justin-gorham-1,Justin Gorham,2021
+24,118,25,2021-03-12,Houston,N,Tulane,CTOURN,W 77-52,*,33,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,4,3,7,2,0,1,1,1,11,11.8,N,1,0,justin-gorham-1,Justin Gorham,2021
+25,119,26,2021-03-13,Houston,N,Memphis,CTOURN,W 76-74,*,31,3,6,0.5,0,2,0.0,3,4,0.75,0.5,9,9,1.0,3,4,7,2,0,1,0,4,15,15.8,N,1,0,justin-gorham-1,Justin Gorham,2021
+26,120,27,2021-03-14,Houston,N,Cincinnati,CTOURN,W 91-54,*,22,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,0,3,3,2,0,0,0,2,9,7.2,N,1,0,justin-gorham-1,Justin Gorham,2021
+27,121,28,2021-03-19,Houston,N,Cleveland State,ROUND-64,W 87-56,*,21,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,4,0.5,2,2,4,0,0,0,0,4,10,6.3,N,1,0,justin-gorham-1,Justin Gorham,2021
+28,122,29,2021-03-21,Houston,N,Rutgers,ROUND-32,W 63-60,*,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,1,2,4,1,0,0,4,4,3.8,N,1,0,justin-gorham-1,Justin Gorham,2021
+29,123,30,2021-03-27,Houston,N,Syracuse,ROUND-16,W 62-46,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,5,6,0.833,4,6,10,2,0,0,1,2,13,14.2,N,1,0,justin-gorham-1,Justin Gorham,2021
+30,124,31,2021-03-29,Houston,N,Oregon State,ROUND-8,W 67-61,*,35,1,6,0.167,0,1,0.0,1,5,0.2,0.167,4,8,0.5,5,5,10,0,1,0,1,2,6,4.8,N,1,0,justin-gorham-1,Justin Gorham,2021
+31,125,32,2021-04-03,Houston,N,Baylor,NATIONAL-SEMI,L 59-78,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,3,3,6,3,2,2,2,1,3,7.7,N,0,0,justin-gorham-1,Justin Gorham,2021

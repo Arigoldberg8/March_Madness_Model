@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,46,1,2018-11-06,Minnesota,,Omaha,REG (Non-Conf),W 104-76,,15,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,0,5,5,0,0,2,0,0,9,9.6,H,1,1,matz-stockman-1,Matz Stockman,2019
+2,47,2,2018-11-12,Minnesota,,Utah,REG (Non-Conf),W 78-69,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,0,0,2,0,4,4,3.1,H,1,1,matz-stockman-1,Matz Stockman,2019
+3,48,3,2018-11-18,Minnesota,N,Texas A&M,REG (Non-Conf),W 69-64,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,2,0.0,1,2,3,0,0,0,1,1,6,4.2,N,1,1,matz-stockman-1,Matz Stockman,2019
+4,49,4,2018-11-20,Minnesota,N,Santa Clara,REG (Non-Conf),W 80-66,,14,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,1,0,2,-0.4,N,1,1,matz-stockman-1,Matz Stockman,2019
+5,50,5,2018-11-21,Minnesota,N,Washington,REG (Non-Conf),W 68-66,,17,2,4,0.5,0,0,2,4,0.5,0.5,4,6,0.667,1,0,1,1,0,1,0,4,8,5.7,N,1,1,matz-stockman-1,Matz Stockman,2019
+6,51,6,2018-11-26,Minnesota,@,Boston College,REG (Non-Conf),L 56-68,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,3,0,-0.9,A,0,1,matz-stockman-1,Matz Stockman,2019
+7,52,7,2018-11-30,Minnesota,,Oklahoma State,REG (Non-Conf),W 83-76,,17,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,4,4,3,0,3,3,0,2,2.7,H,1,1,matz-stockman-1,Matz Stockman,2019
+8,53,8,2018-12-02,Minnesota,@,Ohio State,REG (Conf),L 59-79,,15,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,0,0,1,0,1,4,2.9,A,0,1,matz-stockman-1,Matz Stockman,2019
+9,54,9,2018-12-05,Minnesota,,Nebraska,REG (Conf),W 85-78,,17,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,2,5,0,1,2,0,1,4,7.4,H,1,1,matz-stockman-1,Matz Stockman,2019
+10,55,10,2018-12-08,Minnesota,,Arkansas State,REG (Non-Conf),W 72-56,,14,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,2,2,1.5,H,1,1,matz-stockman-1,Matz Stockman,2019
+11,56,11,2018-12-11,Minnesota,,North Florida,REG (Non-Conf),W 80-71,,9,0,3,0.0,0,0,0,3,0.0,0.0,2,2,1.0,2,1,3,0,1,0,0,3,2,1.4,H,1,1,matz-stockman-1,Matz Stockman,2019
+12,57,12,2018-12-21,Minnesota,,North Carolina A&T,REG (Non-Conf),W 86-67,,7,1,4,0.25,0,0,1,4,0.25,0.25,0,2,0.0,2,2,4,0,0,2,1,0,2,1.2,H,1,1,matz-stockman-1,Matz Stockman,2019
+13,58,14,2019-01-03,Minnesota,@,Wisconsin,REG (Conf),W 59-52,,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,matz-stockman-1,Matz Stockman,2019
+14,59,15,2019-01-08,Minnesota,,Maryland,REG (Conf),L 67-82,,3,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,0,1,matz-stockman-1,Matz Stockman,2019
+15,60,16,2019-01-12,Minnesota,,Rutgers,REG (Conf),W 88-70,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,matz-stockman-1,Matz Stockman,2019
+16,61,17,2019-01-16,Minnesota,@,Illinois,REG (Conf),L 68-95,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,matz-stockman-1,Matz Stockman,2019
+17,62,20,2019-01-27,Minnesota,,Iowa,REG (Conf),W 92-87,,16,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,1,2,0,1,0,0,3,6,5.2,H,1,1,matz-stockman-1,Matz Stockman,2019
+18,63,21,2019-01-30,Minnesota,,Illinois,REG (Conf),W 86-75,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,H,1,1,matz-stockman-1,Matz Stockman,2019
+19,64,22,2019-02-03,Minnesota,@,Purdue,REG (Conf),L 63-73,,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,matz-stockman-1,Matz Stockman,2019
+20,65,23,2019-02-06,Minnesota,,Wisconsin,REG (Conf),L 51-56,,0,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,matz-stockman-1,Matz Stockman,2019
+21,66,24,2019-02-09,Minnesota,@,Michigan State,REG (Conf),L 55-79,,16,2,4,0.5,0,0,2,4,0.5,0.5,2,4,0.5,1,3,4,2,0,0,1,3,6,4.0,A,0,1,matz-stockman-1,Matz Stockman,2019
+22,67,25,2019-02-13,Minnesota,@,Nebraska,REG (Conf),L 61-62,,5,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,1,0,2,1.4,A,0,1,matz-stockman-1,Matz Stockman,2019
+23,68,26,2019-02-16,Minnesota,,Indiana,REG (Conf),W 84-63,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,1,0,0,1,3,2,0.8,H,1,1,matz-stockman-1,Matz Stockman,2019
+24,69,30,2019-03-05,Minnesota,,Purdue,REG (Conf),W 73-69,,24,3,8,0.375,0,0,3,8,0.375,0.375,3,6,0.5,2,4,6,2,1,7,1,4,9,10.7,H,1,1,matz-stockman-1,Matz Stockman,2019
+25,70,31,2019-03-08,Minnesota,@,Maryland,REG (Conf),L 60-69,,13,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,1,1,0,0,1,1,0,4,3.0,A,0,1,matz-stockman-1,Matz Stockman,2019
+26,71,32,2019-03-14,Minnesota,N,Penn State,CTOURN,W 77-72 (OT),,25,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,4,4,5,0,0,0,2,4,6.6,N,1,0,matz-stockman-1,Matz Stockman,2019
+27,72,33,2019-03-15,Minnesota,N,Purdue,CTOURN,W 75-73,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,1,0,-0.1,N,1,0,matz-stockman-1,Matz Stockman,2019

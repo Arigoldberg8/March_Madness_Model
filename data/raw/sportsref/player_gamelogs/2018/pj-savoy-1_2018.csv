@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2017-11-14,Florida State,,George Washington,REG (Non-Conf),W 87-67,*,13,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,1,1,2,0,0,0,1,2,0.2,H,1,1,pj-savoy-1,PJ Savoy,2018
+2,30,2,2017-11-17,Florida State,N,Fordham,REG (Non-Conf),W 67-43,*,15,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,1,1,0,1,0,3,2,6,-0.6,N,1,1,pj-savoy-1,PJ Savoy,2018
+3,31,3,2017-11-19,Florida State,N,Colorado State,REG (Non-Conf),W 90-73,*,8,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,0,0,0,2,0,0,0,7,6.7,N,1,1,pj-savoy-1,PJ Savoy,2018
+4,32,4,2017-11-22,Florida State,,Kennesaw State,REG (Non-Conf),W 98-79,,9,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,0,0,2,0,0,0,2,6,3.9,H,1,1,pj-savoy-1,PJ Savoy,2018
+5,33,5,2017-11-24,Florida State,,The Citadel,REG (Non-Conf),W 113-78,,19,5,14,0.357,4,10,0.4,1,4,0.25,0.5,0,0,,2,5,7,2,0,0,0,2,14,9.7,H,1,1,pj-savoy-1,PJ Savoy,2018
+6,34,6,2017-11-28,Florida State,@,Rutgers,REG (Non-Conf),W 78-73,,2,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,0,0,0,0.3,A,1,1,pj-savoy-1,PJ Savoy,2018
+7,35,7,2017-12-04,Florida State,@,Florida,REG (Non-Conf),W 83-66,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,A,1,1,pj-savoy-1,PJ Savoy,2018
+8,36,9,2017-12-10,Florida State,N,Tulane,REG (Non-Conf),W 72-53,,11,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,2,2,0,0,0,1,1,6,2.5,N,1,1,pj-savoy-1,PJ Savoy,2018
+9,37,10,2017-12-16,Florida State,N,Oklahoma State,REG (Non-Conf),L 70-71,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,1,pj-savoy-1,PJ Savoy,2018
+10,38,11,2017-12-18,Florida State,,Charleston Southern,REG (Non-Conf),W 69-58,,9,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,0,0,0,1,1,3,-2.2,H,1,1,pj-savoy-1,PJ Savoy,2018
+11,39,12,2017-12-21,Florida State,,Southern Mississippi,REG (Non-Conf),W 98-45,,19,5,10,0.5,5,10,0.5,0,0,,0.75,2,3,0.667,0,7,7,1,0,0,1,0,17,13.4,H,1,1,pj-savoy-1,PJ Savoy,2018
+12,40,13,2017-12-30,Florida State,@,Duke,REG (Conf),L 93-100,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,A,0,1,pj-savoy-1,PJ Savoy,2018
+13,41,14,2018-01-03,Florida State,,North Carolina,REG (Conf),W 81-80,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,pj-savoy-1,PJ Savoy,2018
+14,42,15,2018-01-07,Florida State,@,Miami (FL),REG (Conf),L 74-80,,2,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,A,0,1,pj-savoy-1,PJ Savoy,2018
+15,43,16,2018-01-10,Florida State,,Louisville,REG (Conf),L 69-73,,7,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,0,0,0,0,1,3,0.5,H,0,1,pj-savoy-1,PJ Savoy,2018
+16,44,17,2018-01-13,Florida State,,Syracuse,REG (Conf),W 101-90 (2OT),,17,4,11,0.364,3,8,0.375,1,3,0.333,0.5,0,0,,1,0,1,1,0,0,0,2,11,5.5,H,1,1,pj-savoy-1,PJ Savoy,2018
+17,45,25,2018-02-10,Florida State,@,Notre Dame,REG (Conf),L 69-84,,15,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,0,0,0,1,0,0,1,0,11,6.0,A,0,1,pj-savoy-1,PJ Savoy,2018
+18,46,26,2018-02-14,Florida State,,Clemson,REG (Conf),W 81-79 (OT),,16,1,5,0.2,1,5,0.2,0,0,,0.3,5,6,0.833,0,2,2,2,1,0,2,1,8,5.1,H,1,1,pj-savoy-1,PJ Savoy,2018
+19,47,27,2018-02-18,Florida State,,Pittsburgh,REG (Conf),W 88-75,*,30,5,7,0.714,5,7,0.714,0,0,,1.071,3,5,0.6,0,2,2,1,0,0,2,2,18,12.8,H,1,1,pj-savoy-1,PJ Savoy,2018
+20,48,28,2018-02-25,Florida State,@,NC State,REG (Conf),L 72-92,,18,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,1,1,0,-2.5,A,0,1,pj-savoy-1,PJ Savoy,2018
+21,49,29,2018-02-28,Florida State,@,Clemson,REG (Conf),L 63-76,,13,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,0,1,3,0.2,A,0,1,pj-savoy-1,PJ Savoy,2018
+22,50,30,2018-03-03,Florida State,,Boston College,REG (Conf),W 85-76,,22,3,10,0.3,3,9,0.333,0,1,0.0,0.45,0,0,,1,1,2,0,0,0,1,1,9,2.8,H,1,1,pj-savoy-1,PJ Savoy,2018
+23,51,31,2018-03-07,Florida State,N,Louisville,CTOURN,L 74-82,,21,5,10,0.5,4,7,0.571,1,3,0.333,0.7,0,1,0.0,1,1,2,0,0,0,1,0,14,8.6,N,0,0,pj-savoy-1,PJ Savoy,2018
+24,52,32,2018-03-16,Florida State,N,Missouri,ROUND-64,W 67-54,,20,4,8,0.5,3,6,0.5,1,2,0.5,0.688,1,2,0.5,0,2,2,0,0,1,1,1,12,7.5,N,1,0,pj-savoy-1,PJ Savoy,2018
+25,53,33,2018-03-18,Florida State,N,Xavier,ROUND-32,W 75-70,,18,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,0,1,1,0,1,0,2,2,11,6.5,N,1,0,pj-savoy-1,PJ Savoy,2018
+26,54,34,2018-03-22,Florida State,N,Gonzaga,ROUND-16,W 75-60,,17,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,4,4,0,0,0,0,0,6,3.8,N,1,0,pj-savoy-1,PJ Savoy,2018
+27,55,35,2018-03-24,Florida State,N,Michigan,ROUND-8,L 54-58,,21,3,11,0.273,3,11,0.273,0,0,,0.409,3,3,1.0,0,1,1,0,0,0,0,4,12,4.2,N,0,0,pj-savoy-1,PJ Savoy,2018

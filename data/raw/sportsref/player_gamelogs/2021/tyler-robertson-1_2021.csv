@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,27,2,2020-12-05,Eastern Washington,@,Arizona,REG (Non-Conf),L 67-70,,23,5,7,0.714,2,3,0.667,3,4,0.75,0.857,2,2,1.0,1,4,5,2,0,0,2,2,14,11.6,A,0,1,tyler-robertson-1,Tyler Robertson,2021
+2,28,3,2020-12-07,Eastern Washington,@,Oregon,REG (Non-Conf),L 52-69,,32,4,10,0.4,1,6,0.167,3,4,0.75,0.45,2,2,1.0,0,2,2,0,0,0,2,0,11,4.2,A,0,1,tyler-robertson-1,Tyler Robertson,2021
+3,29,4,2020-12-11,Eastern Washington,,Coll. of Idaho,REG (Non-Conf),W 80-56,*,22,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,2,0.0,2,4,6,5,1,1,0,3,12,12.8,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+4,30,5,2020-12-15,Eastern Washington,@,St. Mary's (CA),REG (Non-Conf),L 75-80,*,38,5,8,0.625,5,7,0.714,0,1,0.0,0.938,2,3,0.667,0,5,5,2,1,0,2,2,17,14.1,A,0,1,tyler-robertson-1,Tyler Robertson,2021
+5,31,6,2020-12-19,Eastern Washington,@,Northern Arizona,REG (Conf),W 80-64,*,25,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,1,3,4,1,0,0,2,2,6,1.8,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+6,32,7,2021-01-14,Eastern Washington,,Southern Utah,REG (Conf),W 75-63,*,31,3,12,0.25,0,6,0.0,3,6,0.5,0.25,3,4,0.75,0,5,5,4,2,0,0,2,9,6.9,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+7,33,8,2021-01-16,Eastern Washington,,Southern Utah,REG (Conf),L 94-99,*,37,5,12,0.417,2,6,0.333,3,6,0.5,0.5,0,0,,1,1,2,5,1,0,1,5,12,8.1,H,0,1,tyler-robertson-1,Tyler Robertson,2021
+8,34,9,2021-01-21,Eastern Washington,@,Northern Colorado,REG (Conf),L 76-78,*,24,5,13,0.385,1,3,0.333,4,10,0.4,0.423,5,6,0.833,1,4,5,1,0,0,1,2,16,9.3,A,0,1,tyler-robertson-1,Tyler Robertson,2021
+9,35,10,2021-01-23,Eastern Washington,@,Northern Colorado,REG (Conf),W 82-76,,14,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,1,1,2,2,0,0,1,0,9,7.4,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+10,36,11,2021-01-31,Eastern Washington,,Sacramento State,REG (Conf),W 68-60,,21,5,10,0.5,1,4,0.25,4,6,0.667,0.55,2,2,1.0,0,1,1,4,2,0,0,1,13,12.7,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+11,37,12,2021-02-01,Eastern Washington,,Sacramento State,REG (Conf),W 94-79,,30,7,8,0.875,4,4,1.0,3,4,0.75,1.125,2,4,0.5,1,5,6,6,0,0,1,2,20,21.0,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+12,38,13,2021-02-04,Eastern Washington,@,Idaho,REG (Conf),W 89-75,,30,3,9,0.333,1,5,0.2,2,4,0.5,0.389,1,1,1.0,3,1,4,4,1,0,1,3,8,6.9,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+13,39,14,2021-02-06,Eastern Washington,,Idaho,REG (Conf),W 90-64,,19,3,7,0.429,2,6,0.333,1,1,1.0,0.571,0,0,,0,2,2,2,0,0,0,2,8,5.5,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+14,40,15,2021-02-11,Eastern Washington,@,Montana State,REG (Conf),W 93-77,,26,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,3,3,4,0,0,1,4,10,8.1,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+15,41,16,2021-02-13,Eastern Washington,@,Montana State,REG (Conf),W 85-69,,29,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,2,8,10,2,3,0,2,2,10,11.7,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+16,42,17,2021-02-18,Eastern Washington,,Montana,REG (Conf),W 90-76,,33,6,10,0.6,3,4,0.75,3,6,0.5,0.75,6,8,0.75,1,3,4,5,0,0,2,2,21,17.9,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+17,43,18,2021-02-20,Eastern Washington,@,Montana,REG (Conf),W 90-76,,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,1,2,3,1,0,0,0,1,7,5.5,A,1,1,tyler-robertson-1,Tyler Robertson,2021
+18,44,19,2021-03-03,Eastern Washington,,Idaho State,REG (Conf),L 63-68,,19,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,0,0,5,1,0,3,2,2,0.3,H,0,1,tyler-robertson-1,Tyler Robertson,2021
+19,45,20,2021-03-05,Eastern Washington,,Idaho State,REG (Conf),W 75-62,,29,4,11,0.364,2,7,0.286,2,4,0.5,0.455,3,4,0.75,0,2,2,1,1,0,1,1,13,7.4,H,1,1,tyler-robertson-1,Tyler Robertson,2021
+20,46,21,2021-03-11,Eastern Washington,N,Northern Arizona,CTOURN,W 66-60,,24,3,7,0.429,2,5,0.4,1,2,0.5,0.571,10,10,1.0,2,2,4,5,1,0,1,2,18,19.0,N,1,0,tyler-robertson-1,Tyler Robertson,2021
+21,47,22,2021-03-12,Eastern Washington,N,Montana,CTOURN,W 78-50,,18,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,0,2,2,4,1,0,5,3,9,4.6,N,1,0,tyler-robertson-1,Tyler Robertson,2021
+22,48,23,2021-03-13,Eastern Washington,N,Montana State,CTOURN,W 65-55,,23,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,1,1,2,2,0,0,3,1,4,1.6,N,1,0,tyler-robertson-1,Tyler Robertson,2021
+23,49,24,2021-03-20,Eastern Washington,N,Kansas,ROUND-64,L 84-93,,20,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,4,4,3,0,0,1,1,7,7.3,N,0,0,tyler-robertson-1,Tyler Robertson,2021

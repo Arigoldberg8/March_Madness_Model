@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2023-11-06,Wisconsin,,Arkansas State,REG (Non-Conf),W 105-76,*,13,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,1,0,1,2,1,0,3,4,8,4.2,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+2,128,2,2023-11-10,Wisconsin,,Tennessee,REG (Non-Conf),L 70-80,*,33,4,6,0.667,0,0,,4,6,0.667,0.667,2,7,0.286,1,7,8,2,0,1,3,2,10,6.5,H,0,1,tyler-wahl-1,Tyler Wahl,2024
+3,129,3,2023-11-14,Wisconsin,@,Providence,REG (Non-Conf),L 59-72,*,29,3,9,0.333,0,2,0.0,3,7,0.429,0.333,0,0,,1,4,5,0,2,1,2,3,6,2.3,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+4,130,4,2023-11-17,Wisconsin,,Robert Morris,REG (Non-Conf),W 78-68,*,29,5,5,1.0,0,0,,5,5,1.0,1.0,8,12,0.667,3,2,5,1,1,1,3,3,18,15.8,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+5,131,5,2023-11-20,Wisconsin,N,Virginia,REG (Non-Conf),W 65-41,*,26,4,13,0.308,0,0,,4,13,0.308,0.308,1,2,0.5,7,3,10,2,1,0,0,1,9,8.9,N,1,1,tyler-wahl-1,Tyler Wahl,2024
+6,132,6,2023-11-22,Wisconsin,N,SMU,REG (Non-Conf),W 69-61,*,26,6,11,0.545,0,0,,6,11,0.545,0.545,2,2,1.0,4,2,6,0,2,1,0,4,14,13.2,N,1,1,tyler-wahl-1,Tyler Wahl,2024
+7,133,7,2023-11-27,Wisconsin,,Western Illinois,REG (Non-Conf),W 71-49,*,26,4,5,0.8,0,0,,4,5,0.8,0.8,4,5,0.8,0,3,3,0,0,0,0,1,12,10.2,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+8,134,8,2023-12-02,Wisconsin,,Marquette,REG (Non-Conf),W 75-64,*,28,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,5,0.8,4,3,7,1,0,0,1,2,10,8.5,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+9,135,9,2023-12-05,Wisconsin,@,Michigan State,REG (Conf),W 70-57,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,3,5,8,2,0,1,2,2,8,7.2,A,1,1,tyler-wahl-1,Tyler Wahl,2024
+10,136,10,2023-12-09,Wisconsin,@,Arizona,REG (Non-Conf),L 73-98,*,25,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,3,0.667,1,4,5,1,0,0,1,5,8,2.1,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+11,137,11,2023-12-14,Wisconsin,,Jacksonville State,REG (Non-Conf),W 75-60,*,30,7,12,0.583,0,0,,7,12,0.583,0.583,2,2,1.0,3,4,7,2,1,0,2,1,16,13.7,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+12,138,12,2023-12-22,Wisconsin,,Chicago State,REG (Non-Conf),W 80-53,*,26,5,7,0.714,0,0,,5,7,0.714,0.714,1,3,0.333,1,3,4,1,0,2,2,1,11,8.6,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+13,139,13,2024-01-02,Wisconsin,,Iowa,REG (Conf),W 83-72,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,11,13,0.846,3,5,8,2,2,1,1,1,19,21.9,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+14,140,14,2024-01-06,Wisconsin,,Nebraska,REG (Conf),W 88-72,*,31,6,10,0.6,1,1,1.0,5,9,0.556,0.65,4,6,0.667,4,4,8,4,1,0,1,2,17,17.6,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+15,141,15,2024-01-10,Wisconsin,@,Ohio State,REG (Conf),W 71-60,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,1,4,5,2,1,1,1,3,11,10.8,A,1,1,tyler-wahl-1,Tyler Wahl,2024
+16,142,16,2024-01-13,Wisconsin,,Northwestern,REG (Conf),W 71-63,*,31,2,4,0.5,0,0,,2,4,0.5,0.5,7,11,0.636,1,0,1,2,0,0,2,3,11,6.3,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+17,143,17,2024-01-16,Wisconsin,@,Penn State,REG (Conf),L 83-87,*,34,3,7,0.429,0,0,,3,7,0.429,0.429,5,6,0.833,2,5,7,2,1,1,5,3,11,6.7,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+18,144,18,2024-01-19,Wisconsin,,Indiana,REG (Conf),W 91-79,*,24,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,1,2,0,0,0,1,4,8,4.8,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+19,145,19,2024-01-23,Wisconsin,@,Minnesota,REG (Conf),W 61-59,*,33,6,7,0.857,1,1,1.0,5,6,0.833,0.929,3,4,0.75,1,2,3,4,0,3,1,3,16,17.1,A,1,1,tyler-wahl-1,Tyler Wahl,2024
+20,146,20,2024-01-26,Wisconsin,,Michigan State,REG (Conf),W 81-66,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,1,0.0,1,5,6,0,1,0,3,2,6,1.3,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+21,147,21,2024-02-01,Wisconsin,@,Nebraska,REG (Conf),L 72-80 (OT),*,33,2,5,0.4,0,0,,2,5,0.4,0.4,3,5,0.6,1,7,8,3,3,1,1,4,7,9.5,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+22,148,22,2024-02-04,Wisconsin,,Purdue,REG (Conf),L 69-75,*,36,10,16,0.625,0,1,0.0,10,15,0.667,0.625,0,0,,6,1,7,5,3,2,1,3,20,23.0,H,0,1,tyler-wahl-1,Tyler Wahl,2024
+23,149,23,2024-02-07,Wisconsin,@,Michigan,REG (Conf),L 68-72,*,29,6,7,0.857,0,0,,6,7,0.857,0.857,0,1,0.0,0,4,4,2,3,0,2,3,12,11.5,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+24,150,24,2024-02-10,Wisconsin,@,Rutgers,REG (Conf),L 56-78,*,31,3,8,0.375,0,0,,3,8,0.375,0.375,1,3,0.333,2,10,12,0,0,0,2,2,7,3.4,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+25,151,25,2024-02-13,Wisconsin,,Ohio State,REG (Conf),W 62-54,*,34,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,0,,0,7,7,3,0,0,2,1,10,7.5,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+26,152,26,2024-02-17,Wisconsin,@,Iowa,REG (Conf),L 86-88 (OT),*,22,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,2,3,3,1,0,1,5,10,7.8,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+27,153,27,2024-02-20,Wisconsin,,Maryland,REG (Conf),W 74-70,*,34,6,9,0.667,0,0,,6,9,0.667,0.667,6,7,0.857,2,4,6,1,1,1,3,4,18,14.1,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+28,154,28,2024-02-27,Wisconsin,@,Indiana,REG (Conf),L 70-74,*,25,4,11,0.364,0,0,,4,11,0.364,0.364,1,2,0.5,0,4,4,1,3,0,0,3,9,6.2,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+29,155,29,2024-03-02,Wisconsin,,Illinois,REG (Conf),L 83-91,*,39,9,14,0.643,1,1,1.0,8,13,0.615,0.679,1,3,0.333,4,3,7,2,1,1,1,2,20,18.0,H,0,1,tyler-wahl-1,Tyler Wahl,2024
+30,156,30,2024-03-07,Wisconsin,,Rutgers,REG (Conf),W 78-66,*,33,1,6,0.167,0,0,,1,6,0.167,0.167,1,4,0.25,3,3,6,1,4,0,4,0,3,1.7,H,1,1,tyler-wahl-1,Tyler Wahl,2024
+31,157,31,2024-03-10,Wisconsin,@,Purdue,REG (Conf),L 70-78,*,34,7,10,0.7,0,1,0.0,7,9,0.778,0.7,3,4,0.75,4,6,10,5,0,0,2,3,17,17.3,A,0,1,tyler-wahl-1,Tyler Wahl,2024
+32,158,32,2024-03-14,Wisconsin,N,Maryland,CTOURN,W 87-56,*,22,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,0,0,2,3,0,1,1,4,3.9,N,1,0,tyler-wahl-1,Tyler Wahl,2024
+33,159,33,2024-03-15,Wisconsin,N,Northwestern,CTOURN,W 70-61,*,24,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,1,1,1,2,3,0,-0.5,N,1,0,tyler-wahl-1,Tyler Wahl,2024
+34,160,34,2024-03-16,Wisconsin,N,Purdue,CTOURN,W 76-75 (OT),*,17,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,0,,1,1,2,2,1,0,0,5,4,-0.1,N,1,0,tyler-wahl-1,Tyler Wahl,2024
+35,161,35,2024-03-17,Wisconsin,N,Illinois,CTOURN,L 87-93,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,0,1,1,3,1,0,2,5,7,4.7,N,0,0,tyler-wahl-1,Tyler Wahl,2024
+36,162,36,2024-03-22,Wisconsin,N,James Madison,ROUND-64,L 61-72,*,35,1,5,0.2,0,0,,1,5,0.2,0.2,3,6,0.5,2,5,7,3,0,1,2,1,5,4.0,N,0,0,tyler-wahl-1,Tyler Wahl,2024

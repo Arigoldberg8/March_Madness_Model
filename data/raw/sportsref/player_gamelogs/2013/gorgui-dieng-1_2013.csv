@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2012-11-11,Louisville,,Manhattan,REG (Non-Conf),W 79-51,*,20,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,2,1,3,2,1,1,1,2,9,9.0,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+2,71,2,2012-11-15,Louisville,,Samford,REG (Non-Conf),W 80-54,*,23,3,7,0.429,0,0,3,7,0.429,0.429,4,6,0.667,10,3,13,5,3,4,0,1,10,22.3,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+3,72,3,2012-11-18,Louisville,,Miami (OH),REG (Non-Conf),W 80-39,*,22,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,2,7,9,1,1,1,2,1,11,11.5,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+4,73,4,2012-11-22,Louisville,N,Northern Iowa,REG (Non-Conf),W 51-46,*,35,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,3,6,9,1,2,3,2,2,6,9.2,N,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+5,74,5,2012-11-23,Louisville,N,Missouri,REG (Non-Conf),W 84-61,*,24,2,6,0.333,0,0,2,6,0.333,0.333,1,3,0.333,2,4,6,3,1,1,0,3,5,6.0,N,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+6,75,13,2012-12-29,Louisville,,Kentucky,REG (Non-Conf),W 80-77,,20,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,4,7,1,0,2,1,4,6,7.2,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+7,76,14,2013-01-02,Louisville,,Providence,REG (Conf),W 80-62,*,36,5,6,0.833,0,0,5,6,0.833,0.833,1,3,0.333,4,7,11,3,1,4,2,3,11,15.6,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+8,77,15,2013-01-09,Louisville,@,Seton Hall,REG (Conf),W 73-58,*,33,4,10,0.4,0,0,4,10,0.4,0.4,8,8,1.0,4,10,14,2,1,3,3,2,16,17.1,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+9,78,16,2013-01-12,Louisville,,South Florida,REG (Conf),W 64-38,*,25,5,8,0.625,0,0,5,8,0.625,0.625,2,2,1.0,7,9,16,0,0,1,1,1,12,15.3,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+10,79,17,2013-01-14,Louisville,@,Connecticut,REG (Conf),W 73-58,*,39,2,8,0.25,0,0,2,8,0.25,0.25,2,3,0.667,4,12,16,1,2,2,4,1,6,6.9,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+11,80,18,2013-01-19,Louisville,,Syracuse,REG (Conf),L 68-70,*,33,1,5,0.2,0,0,1,5,0.2,0.2,2,4,0.5,5,3,8,6,1,5,1,3,4,11.0,H,0,1,gorgui-dieng-1,Gorgui Dieng,2013
+12,81,19,2013-01-22,Louisville,@,Villanova,REG (Conf),L 64-73,*,33,5,10,0.5,0,0,5,10,0.5,0.5,0,2,0.0,2,7,9,0,2,2,2,5,10,7.1,A,0,1,gorgui-dieng-1,Gorgui Dieng,2013
+13,82,20,2013-01-26,Louisville,@,Georgetown,REG (Conf),L 51-53,*,39,4,8,0.5,0,0,4,8,0.5,0.5,4,6,0.667,3,4,7,2,1,0,2,0,12,10.9,A,0,1,gorgui-dieng-1,Gorgui Dieng,2013
+14,83,21,2013-01-28,Louisville,,Pittsburgh,REG (Conf),W 64-61,*,39,5,7,0.714,0,0,5,7,0.714,0.714,4,6,0.667,4,8,12,4,0,5,3,2,14,18.0,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+15,84,22,2013-02-03,Louisville,,Marquette,REG (Conf),W 70-51,*,25,2,6,0.333,0,0,2,6,0.333,0.333,4,4,1.0,2,6,8,1,0,3,2,4,8,7.0,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+16,85,23,2013-02-06,Louisville,@,Rutgers,REG (Conf),W 68-48,*,34,1,4,0.25,0,0,1,4,0.25,0.25,0,1,0.0,4,4,8,2,1,6,1,3,2,7.6,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+17,86,24,2013-02-09,Louisville,@,Notre Dame,REG (Conf),L 101-104 (5OT),*,52,5,9,0.556,0,0,5,9,0.556,0.556,7,10,0.7,4,9,13,5,3,1,2,5,17,20.2,A,0,1,gorgui-dieng-1,Gorgui Dieng,2013
+18,87,25,2013-02-14,Louisville,,St. John's (NY),REG (Conf),W 72-58,*,37,4,11,0.364,0,0,4,11,0.364,0.364,2,5,0.4,4,13,17,0,1,2,2,2,10,9.0,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+19,88,26,2013-02-17,Louisville,@,South Florida,REG (Conf),W 59-41,*,32,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,3,7,10,0,2,5,1,1,4,9.9,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+20,89,27,2013-02-23,Louisville,,Seton Hall,REG (Conf),W 79-61,*,33,10,11,0.909,0,0,10,11,0.909,0.909,3,6,0.5,6,2,8,0,2,3,1,2,23,25.2,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+21,90,28,2013-02-27,Louisville,@,DePaul,REG (Conf),W 79-58,*,25,3,9,0.333,0,0,3,9,0.333,0.333,4,4,1.0,0,4,4,2,3,1,3,3,10,7.0,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+22,91,29,2013-03-02,Louisville,@,Syracuse,REG (Conf),W 58-53,*,34,4,8,0.5,0,0,4,8,0.5,0.5,3,4,0.75,4,10,14,3,2,2,5,3,11,11.7,A,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+23,92,30,2013-03-04,Louisville,,Cincinnati,REG (Conf),W 67-51,*,31,5,8,0.625,0,0,5,8,0.625,0.625,1,1,1.0,3,6,9,1,1,1,0,2,11,12.9,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+24,93,31,2013-03-09,Louisville,,Notre Dame,REG (Conf),W 73-57,*,33,8,11,0.727,0,0,8,11,0.727,0.727,4,6,0.667,2,9,11,1,3,5,3,2,20,22.2,H,1,1,gorgui-dieng-1,Gorgui Dieng,2013
+25,94,32,2013-03-14,Louisville,N,Villanova,CTOURN,W 74-55,*,25,3,9,0.333,0,0,3,9,0.333,0.333,0,0,,2,1,3,1,0,0,1,4,6,0.7,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+26,95,33,2013-03-15,Louisville,N,Notre Dame,CTOURN,W 69-57,*,35,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,5,7,12,1,0,4,2,1,8,11.7,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+27,96,34,2013-03-16,Louisville,N,Syracuse,CTOURN,W 78-61,*,38,3,11,0.273,0,0,3,11,0.273,0.273,3,4,0.75,5,4,9,8,2,1,1,3,9,12.9,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+28,97,35,2013-03-21,Louisville,N,North Carolina A&T,ROUND-64,W 79-48,*,20,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,1,6,7,1,1,1,3,2,8,8.2,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+29,98,36,2013-03-23,Louisville,N,Colorado State,ROUND-32,W 82-56,*,25,6,6,1.0,0,0,6,6,1.0,1.0,0,0,,2,1,3,0,2,1,2,3,12,11.4,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+30,99,37,2013-03-29,Louisville,N,Oregon,ROUND-16,W 77-69,*,34,5,7,0.714,0,0,5,7,0.714,0.714,0,2,0.0,3,6,9,2,2,4,2,2,10,13.6,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+31,100,38,2013-03-31,Louisville,N,Duke,ROUND-8,W 85-63,*,25,6,8,0.75,0,0,6,8,0.75,0.75,2,8,0.25,3,8,11,1,2,4,1,5,14,15.4,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+32,101,39,2013-04-06,Louisville,N,Wichita State,NATIONAL-SEMI,W 72-68,*,30,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,6,6,0,0,2,1,4,0,-0.1,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013
+33,102,40,2013-04-08,Louisville,N,Michigan,NATIONAL-FINAL,W 82-76,*,37,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,5,3,8,6,1,3,2,4,8,13.5,N,1,0,gorgui-dieng-1,Gorgui Dieng,2013

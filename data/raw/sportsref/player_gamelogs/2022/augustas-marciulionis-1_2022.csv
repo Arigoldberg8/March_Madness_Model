@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,St. Mary's (CA),,Prairie View A&M,REG (Non-Conf),W 87-68,,18,1,1,1.0,1,1,1.0,0,0,,1.5,6,8,0.75,0,2,2,2,1,2,1,1,9,10.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+2,2,2,2021-11-12,St. Mary's (CA),,Texas Southern,REG (Non-Conf),W 67-58,,19,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,1,1,2,3,1,0,2,3,1,-0.6,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+3,3,3,2021-11-15,St. Mary's (CA),,Southern Utah,REG (Non-Conf),W 70-51,,26,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,0,1,5,3,0,3,1,8,8.8,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+4,4,4,2021-11-17,St. Mary's (CA),,Bellarmine,REG (Non-Conf),W 73-64,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,1,2,0,-1.1,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+5,5,5,2021-11-22,St. Mary's (CA),N,Notre Dame,REG (Non-Conf),W 62-59,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,2,0,0,2,1,5,2.9,N,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+6,6,6,2021-11-23,St. Mary's (CA),N,Oregon,REG (Non-Conf),W 62-50,,4,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,2,2,2,-0.8,N,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+7,7,7,2021-11-24,St. Mary's (CA),N,Wisconsin,REG (Non-Conf),L 55-61,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,1,1,1,0,-0.7,N,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+8,8,8,2021-11-29,St. Mary's (CA),,UC Riverside,REG (Non-Conf),W 67-50,,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,2,3,3,0,0,1,1,3,3.3,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+9,9,9,2021-12-02,St. Mary's (CA),@,Utah State,REG (Non-Conf),W 60-58,,22,1,5,0.2,0,4,0.0,1,1,1.0,0.2,2,2,1.0,1,1,2,2,1,0,2,1,4,1.9,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+10,10,10,2021-12-04,St. Mary's (CA),@,Colorado State,REG (Non-Conf),L 58-74,,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,6,6,1.0,0,2,2,1,0,0,2,4,10,5.7,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+11,11,11,2021-12-11,St. Mary's (CA),,UC Santa Barbara,REG (Non-Conf),W 80-59,,23,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,0,0,0,5,3,0,2,0,11,10.1,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+12,12,12,2021-12-14,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 76-39,,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,1,1,6,1,0,4,2,3,0.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+13,13,13,2021-12-17,St. Mary's (CA),N,San Diego State,REG (Non-Conf),L 53-63,,26,4,9,0.444,1,5,0.2,3,4,0.75,0.5,0,0,,1,1,2,0,4,0,1,3,9,7.1,N,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+14,14,14,2021-12-22,St. Mary's (CA),,Missouri State,REG (Non-Conf),W 75-58,*,23,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,1,1,1,1,0,3,2,4,-0.9,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+15,15,15,2021-12-28,St. Mary's (CA),,Yale,REG (Non-Conf),W 87-60,*,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,0,0,3,2,0,3,3,0,-3.6,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+16,16,16,2022-01-08,St. Mary's (CA),@,Brigham Young,REG (Conf),L 43-52,*,23,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,0,1,0,0,0,4,2,3,-4.2,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+17,17,17,2022-01-13,St. Mary's (CA),@,Pepperdine,REG (Conf),W 77-62,*,13,2,2,1.0,0,0,,2,2,1.0,1.0,1,1,1.0,0,1,1,1,1,0,2,1,5,4.0,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+18,18,18,2022-01-20,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-65,*,24,2,9,0.222,1,7,0.143,1,2,0.5,0.278,0,0,,1,0,1,6,1,0,1,0,5,4.4,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+19,19,19,2022-01-22,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 83-51,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,3,1,0,2,3,2,1.2,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+20,20,20,2022-01-27,St. Mary's (CA),@,San Francisco,REG (Conf),W 72-70,*,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,2,1,0,3,2,2,-0.8,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+21,21,21,2022-01-29,St. Mary's (CA),,Pepperdine,REG (Conf),W 81-57,*,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,1,1.0,0,1,1,0,3,0,1,1,3,2.5,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+22,22,22,2022-02-03,St. Mary's (CA),@,Portland,REG (Conf),W 75-54,*,12,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,2,2,0,1,0,0,0.6,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+23,23,23,2022-02-05,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 71-60,*,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,0,1,0,0.3,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+24,24,24,2022-02-08,St. Mary's (CA),@,Santa Clara,REG (Conf),L 72-77,*,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,1,0,0,1,0,5,4.0,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+25,25,25,2022-02-10,St. Mary's (CA),,San Diego,REG (Conf),W 86-57,*,18,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,0,0,1,1,0,2,2,9,4.6,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+26,26,26,2022-02-12,St. Mary's (CA),@,Gonzaga,REG (Conf),L 58-74,*,15,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,1,1,0,3,1,2,-3.2,A,0,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+27,27,27,2022-02-17,St. Mary's (CA),,San Francisco,REG (Conf),W 69-64,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+28,28,28,2022-02-19,St. Mary's (CA),,Brigham Young,REG (Conf),W 69-64,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+29,29,29,2022-02-24,St. Mary's (CA),@,San Diego,REG (Conf),W 60-46,,10,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,1,0,0,2,0,-2.6,A,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+30,30,30,2022-02-26,St. Mary's (CA),,Gonzaga,REG (Conf),W 67-57,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,augustas-marciulionis-1,Augustas Marciulionis,2022
+31,31,31,2022-03-07,St. Mary's (CA),N,Santa Clara,CTOURN,W 75-72,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,augustas-marciulionis-1,Augustas Marciulionis,2022
+32,32,32,2022-03-08,St. Mary's (CA),N,Gonzaga,CTOURN,L 69-82,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,0,0,0,1,0,1.0,N,0,0,augustas-marciulionis-1,Augustas Marciulionis,2022
+33,33,33,2022-03-17,St. Mary's (CA),N,Indiana,ROUND-64,W 82-53,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,1,0.0,0,2,2,3,1,0,2,1,0,0.2,N,1,0,augustas-marciulionis-1,Augustas Marciulionis,2022
+34,34,34,2022-03-19,St. Mary's (CA),N,UCLA,ROUND-32,L 56-72,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,0,0,augustas-marciulionis-1,Augustas Marciulionis,2022

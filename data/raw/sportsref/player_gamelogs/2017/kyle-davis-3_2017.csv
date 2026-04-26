@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,105,1,2016-11-11,Dayton,,Austin Peay,REG (Non-Conf),W 96-68,,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,2,1,0,0,1,2,3.9,H,1,1,kyle-davis-3,Kyle Davis,2017
+2,106,2,2016-11-15,Dayton,@,Alabama,REG (Non-Conf),W 77-72,*,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,0,1,1,2,1,0,2,3,2,0.1,A,1,1,kyle-davis-3,Kyle Davis,2017
+3,107,3,2016-11-19,Dayton,,St. Mary's (CA),REG (Non-Conf),L 57-61,*,22,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,3,3,0,2,0,2,2,3,2.8,H,0,1,kyle-davis-3,Kyle Davis,2017
+4,108,4,2016-11-24,Dayton,N,Nebraska,REG (Non-Conf),L 78-80,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,5,6,0.833,0,3,3,2,0,0,1,1,7,5.8,N,0,1,kyle-davis-3,Kyle Davis,2017
+5,109,5,2016-11-25,Dayton,N,Portland,REG (Non-Conf),W 84-74,*,30,6,9,0.667,1,3,0.333,5,6,0.833,0.722,1,2,0.5,1,4,5,3,3,2,2,2,14,15.3,N,1,1,kyle-davis-3,Kyle Davis,2017
+6,110,6,2016-11-27,Dayton,N,New Mexico,REG (Non-Conf),W 64-57,*,34,5,8,0.625,1,4,0.25,4,4,1.0,0.688,1,3,0.333,1,2,3,2,3,1,0,2,12,13.2,N,1,1,kyle-davis-3,Kyle Davis,2017
+7,111,7,2016-12-03,Dayton,,Winthrop,REG (Non-Conf),W 83-67,*,28,3,6,0.5,0,2,0.0,3,4,0.75,0.5,5,6,0.833,1,5,6,5,3,0,3,3,11,12.1,H,1,1,kyle-davis-3,Kyle Davis,2017
+8,112,8,2016-12-06,Dayton,,St. Joseph's (IN),REG (Non-Conf),W 91-59,*,27,8,9,0.889,1,2,0.5,7,7,1.0,0.944,1,1,1.0,0,3,3,2,4,1,2,1,18,19.5,H,1,1,kyle-davis-3,Kyle Davis,2017
+9,113,9,2016-12-10,Dayton,,East Tennessee State,REG (Non-Conf),W 75-61,*,30,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,3,3,4,3,1,2,4,6,6.8,H,1,1,kyle-davis-3,Kyle Davis,2017
+10,114,10,2016-12-17,Dayton,N,Northwestern,REG (Non-Conf),L 64-67,*,21,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,0,,1,4,5,3,0,0,0,2,2,0.0,N,0,1,kyle-davis-3,Kyle Davis,2017
+11,115,11,2016-12-21,Dayton,,Vanderbilt,REG (Non-Conf),W 68-63,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,4,0.5,1,2,3,4,2,0,0,1,4,6.5,H,1,1,kyle-davis-3,Kyle Davis,2017
+12,116,12,2016-12-23,Dayton,,VMI,REG (Non-Conf),W 92-56,*,29,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,1,0.0,0,4,4,2,4,0,2,1,14,14.6,H,1,1,kyle-davis-3,Kyle Davis,2017
+13,117,13,2016-12-30,Dayton,,La Salle,REG (Conf),W 66-55,*,36,4,8,0.5,1,4,0.25,3,4,0.75,0.563,3,5,0.6,1,3,4,5,1,0,1,1,12,11.9,H,1,1,kyle-davis-3,Kyle Davis,2017
+14,118,14,2017-01-03,Dayton,@,St. Bonaventure,REG (Conf),W 90-74,*,37,5,8,0.625,3,3,1.0,2,5,0.4,0.813,3,5,0.6,1,6,7,5,3,1,1,3,16,19.1,A,1,1,kyle-davis-3,Kyle Davis,2017
+15,119,15,2017-01-06,Dayton,,Rhode Island,REG (Conf),W 67-64,*,33,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,8,0.625,0,5,5,3,2,0,0,3,10,11.2,H,1,1,kyle-davis-3,Kyle Davis,2017
+16,120,16,2017-01-11,Dayton,@,Massachusetts,REG (Conf),L 55-67,*,29,6,8,0.75,1,1,1.0,5,7,0.714,0.813,3,3,1.0,0,5,5,3,3,0,0,4,16,17.8,A,0,1,kyle-davis-3,Kyle Davis,2017
+17,121,17,2017-01-14,Dayton,@,Duquesne,REG (Conf),W 76-57,*,25,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,3,0,0,1,3,2,1.9,A,1,1,kyle-davis-3,Kyle Davis,2017
+18,122,20,2017-01-27,Dayton,@,VCU,REG (Conf),L 68-73,,25,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,2,2,3,2,1,0,1,9,12.4,A,0,1,kyle-davis-3,Kyle Davis,2017
+19,123,21,2017-01-31,Dayton,@,Fordham,REG (Conf),W 75-66,,27,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,3,4,2,0,0,0,1,4,5.3,A,1,1,kyle-davis-3,Kyle Davis,2017
+20,124,22,2017-02-04,Dayton,,Duquesne,REG (Conf),W 90-53,,19,5,5,1.0,1,1,1.0,4,4,1.0,1.1,1,2,0.5,1,5,6,5,1,0,0,2,12,16.0,H,1,1,kyle-davis-3,Kyle Davis,2017
+21,125,23,2017-02-07,Dayton,,Saint Joseph's,REG (Conf),W 77-70,,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,1,0.0,1,7,8,0,1,2,0,3,2,3.2,H,1,1,kyle-davis-3,Kyle Davis,2017
+22,126,24,2017-02-10,Dayton,@,Rhode Island,REG (Conf),W 75-74,,23,3,5,0.6,3,4,0.75,0,1,0.0,0.9,1,4,0.25,0,1,1,0,0,0,0,4,10,5.2,A,1,1,kyle-davis-3,Kyle Davis,2017
+23,127,25,2017-02-14,Dayton,@,Saint Louis,REG (Conf),W 85-63,,21,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,3,1.0,0,1,1,1,3,0,0,1,8,10.3,A,1,1,kyle-davis-3,Kyle Davis,2017
+24,128,26,2017-02-18,Dayton,,St. Bonaventure,REG (Conf),W 76-72,,24,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,0,4,4,1,2,0,2,2,6,5.0,H,1,1,kyle-davis-3,Kyle Davis,2017
+25,129,27,2017-02-21,Dayton,,George Mason,REG (Conf),W 83-70,,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,2,2,1,0,1,1,2,9,6.9,H,1,1,kyle-davis-3,Kyle Davis,2017
+26,130,28,2017-02-24,Dayton,@,Davidson,REG (Conf),W 89-82 (OT),,32,1,4,0.25,1,2,0.5,0,2,0.0,0.375,4,4,1.0,2,4,6,2,1,0,1,3,7,7.4,A,1,1,kyle-davis-3,Kyle Davis,2017
+27,131,29,2017-03-01,Dayton,,VCU,REG (Conf),W 79-72,*,34,3,6,0.5,1,4,0.25,2,2,1.0,0.583,5,6,0.833,0,7,7,3,1,0,2,3,12,10.6,H,1,1,kyle-davis-3,Kyle Davis,2017
+28,132,30,2017-03-04,Dayton,@,George Washington,REG (Conf),L 81-87,*,35,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,1,1.0,0,3,3,7,2,0,1,4,3,5.1,A,0,1,kyle-davis-3,Kyle Davis,2017
+29,133,31,2017-03-10,Dayton,N,Davidson,CTOURN,L 67-73,*,36,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,2,1,3,3,1,0,1,2,3,3.2,N,0,0,kyle-davis-3,Kyle Davis,2017
+30,134,32,2017-03-17,Dayton,N,Wichita State,ROUND-64,L 58-64,*,33,1,1,1.0,1,1,1.0,0,0,,1.5,3,4,0.75,0,3,3,1,0,0,0,3,6,5.7,N,0,0,kyle-davis-3,Kyle Davis,2017

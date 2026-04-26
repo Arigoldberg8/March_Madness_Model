@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,107,1,2013-11-14,Memphis,,Austin Peay,REG (Non-Conf),W 95-69,,23,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,8,8,4,4,0,1,1,11,16.2,H,1,1,chris-crawford-3,Chris Crawford,2014
+2,108,2,2013-11-19,Memphis,@,Oklahoma State,REG (Non-Conf),L 80-101,,30,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,0,5,5,3,3,1,0,1,6,8.5,A,0,1,chris-crawford-3,Chris Crawford,2014
+3,109,3,2013-11-23,Memphis,,Nicholls State,REG (Non-Conf),W 98-59,*,27,3,8,0.375,1,5,0.2,2,3,0.667,0.438,4,4,1.0,1,3,4,3,3,1,1,1,11,12.6,H,1,1,chris-crawford-3,Chris Crawford,2014
+4,110,4,2013-11-28,Memphis,N,Siena,REG (Non-Conf),W 87-60,*,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,2,0,0,2,3,0,-2.9,N,1,1,chris-crawford-3,Chris Crawford,2014
+5,111,5,2013-11-29,Memphis,N,Louisiana State,REG (Non-Conf),W 76-69,*,37,6,10,0.6,3,7,0.429,3,3,1.0,0.75,2,2,1.0,0,1,1,1,1,0,1,3,17,12.2,N,1,1,chris-crawford-3,Chris Crawford,2014
+6,112,6,2013-12-01,Memphis,N,Oklahoma State,REG (Non-Conf),W 73-68,*,39,6,14,0.429,3,8,0.375,3,6,0.5,0.536,1,5,0.2,0,4,4,3,0,1,1,1,16,9.6,N,1,1,chris-crawford-3,Chris Crawford,2014
+7,113,7,2013-12-07,Memphis,,Northwestern State,REG (Non-Conf),W 96-76,*,15,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,0,1,1,4,1,1,2,1,7,6.4,H,1,1,chris-crawford-3,Chris Crawford,2014
+8,114,8,2013-12-13,Memphis,,Little Rock,REG (Non-Conf),W 73-59,,34,3,9,0.333,3,8,0.375,0,1,0.0,0.5,0,0,,0,6,6,5,2,0,1,0,9,10.2,H,1,1,chris-crawford-3,Chris Crawford,2014
+9,115,9,2013-12-17,Memphis,N,Florida,REG (Non-Conf),L 75-77,*,31,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,2,2,1,1,1,0,4,12,10.1,N,0,1,chris-crawford-3,Chris Crawford,2014
+10,116,10,2013-12-21,Memphis,,Southeast Missouri State,REG (Non-Conf),W 77-65,*,36,2,10,0.2,2,9,0.222,0,1,0.0,0.3,0,0,,1,3,4,3,2,1,1,2,6,4.4,H,1,1,chris-crawford-3,Chris Crawford,2014
+11,117,11,2013-12-28,Memphis,,Jackson State,REG (Non-Conf),W 75-61,*,34,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,7,7,2,7,0,6,4,8,8.2,H,1,1,chris-crawford-3,Chris Crawford,2014
+12,118,12,2013-12-31,Memphis,@,South Florida,REG (Conf),W 88-73,*,26,2,9,0.222,2,6,0.333,0,3,0.0,0.333,0,0,,1,4,5,4,1,0,1,4,6,3.6,A,1,1,chris-crawford-3,Chris Crawford,2014
+13,119,13,2014-01-04,Memphis,,Cincinnati,REG (Conf),L 53-69,*,38,2,11,0.182,1,5,0.2,1,6,0.167,0.227,0,0,,1,5,6,4,2,0,2,1,5,2.7,H,0,1,chris-crawford-3,Chris Crawford,2014
+14,120,14,2014-01-09,Memphis,@,Louisville,REG (Conf),W 73-67,*,24,4,5,0.8,3,3,1.0,1,2,0.5,1.1,1,2,0.5,0,3,3,1,1,0,2,4,12,8.7,A,1,1,chris-crawford-3,Chris Crawford,2014
+15,121,15,2014-01-11,Memphis,@,Temple,REG (Conf),W 79-69,*,36,4,10,0.4,1,6,0.167,3,4,0.75,0.45,0,0,,0,8,8,8,2,0,2,3,9,10.4,A,1,1,chris-crawford-3,Chris Crawford,2014
+16,122,16,2014-01-16,Memphis,,Connecticut,REG (Conf),L 73-83,*,32,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,2,0,2,3,1,0,1,5,8,4.4,H,0,1,chris-crawford-3,Chris Crawford,2014
+17,123,17,2014-01-18,Memphis,,LeMoyne-Owen,REG (Non-Conf),W 101-78,*,15,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,1,1,1,2,0,2,0,9,8.4,H,1,1,chris-crawford-3,Chris Crawford,2014
+18,124,18,2014-01-23,Memphis,,Houston,REG (Conf),W 82-59,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,2,1,0,1,4,2,2.8,H,1,1,chris-crawford-3,Chris Crawford,2014
+19,125,19,2014-01-26,Memphis,,South Florida,REG (Conf),W 80-58,*,23,5,10,0.5,5,10,0.5,0,0,,0.75,0,2,0.0,1,1,2,1,2,0,1,1,15,11.5,H,1,1,chris-crawford-3,Chris Crawford,2014
+20,126,20,2014-01-29,Memphis,@,UCF,REG (Conf),W 69-59,*,36,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,5,5,2,0,0,2,0,12,9.6,A,1,1,chris-crawford-3,Chris Crawford,2014
+21,127,21,2014-02-01,Memphis,@,SMU,REG (Conf),L 72-87,*,24,2,8,0.25,1,6,0.167,1,2,0.5,0.313,0,1,0.0,0,0,0,1,2,0,3,2,5,-1.3,A,0,1,chris-crawford-3,Chris Crawford,2014
+22,128,22,2014-02-04,Memphis,,Rutgers,REG (Conf),W 101-69,*,25,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,1,10,11,5,1,0,3,1,12,13.5,H,1,1,chris-crawford-3,Chris Crawford,2014
+23,129,23,2014-02-08,Memphis,,Gonzaga,REG (Non-Conf),W 60-54,*,37,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,2,1.0,0,4,4,2,1,0,0,2,11,8.7,H,1,1,chris-crawford-3,Chris Crawford,2014
+24,130,24,2014-02-12,Memphis,,UCF,REG (Conf),W 76-70,*,32,3,9,0.333,2,6,0.333,1,3,0.333,0.444,2,2,1.0,0,1,1,4,0,1,1,2,10,6.9,H,1,1,chris-crawford-3,Chris Crawford,2014
+25,131,25,2014-02-15,Memphis,@,Connecticut,REG (Conf),L 81-86 (OT),*,35,4,11,0.364,4,7,0.571,0,4,0.0,0.545,0,0,,0,3,3,2,0,0,1,4,12,5.6,A,0,1,chris-crawford-3,Chris Crawford,2014
+26,132,26,2014-02-20,Memphis,@,Rutgers,REG (Conf),W 64-59,*,26,1,6,0.167,1,6,0.167,0,0,,0.25,2,2,1.0,0,5,5,5,2,1,5,0,5,3.9,A,1,1,chris-crawford-3,Chris Crawford,2014
+27,133,27,2014-02-22,Memphis,,Temple,REG (Conf),W 82-79 (OT),*,42,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,2,0.0,2,5,7,5,2,0,1,1,7,7.4,H,1,1,chris-crawford-3,Chris Crawford,2014
+28,134,28,2014-02-27,Memphis,@,Houston,REG (Conf),L 68-77,*,26,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,0,2,2,4,1,0,2,2,2,0.8,A,0,1,chris-crawford-3,Chris Crawford,2014
+29,135,29,2014-03-01,Memphis,,Louisville,REG (Conf),W 72-66,*,25,4,7,0.571,4,5,0.8,0,2,0.0,0.857,0,0,,0,3,3,3,0,0,1,4,12,9.1,H,1,1,chris-crawford-3,Chris Crawford,2014
+30,136,30,2014-03-06,Memphis,@,Cincinnati,REG (Conf),L 84-97,*,36,3,10,0.3,3,10,0.3,0,0,,0.45,0,0,,0,4,4,3,0,0,2,1,9,4.1,A,0,1,chris-crawford-3,Chris Crawford,2014
+31,137,31,2014-03-08,Memphis,,SMU,REG (Conf),W 67-58,*,39,3,12,0.25,3,10,0.3,0,2,0.0,0.375,0,0,,1,4,5,3,4,2,3,1,9,7.8,H,1,1,chris-crawford-3,Chris Crawford,2014
+32,138,32,2014-03-13,Memphis,N,Connecticut,CTOURN,L 53-72,*,33,3,11,0.273,3,10,0.3,0,1,0.0,0.409,1,1,1.0,0,5,5,0,0,0,1,0,10,4.0,N,0,0,chris-crawford-3,Chris Crawford,2014
+33,139,33,2014-03-21,Memphis,N,George Washington,ROUND-64,W 71-66,*,36,3,12,0.25,3,10,0.3,0,2,0.0,0.375,0,0,,0,4,4,6,2,0,0,3,9,8.0,N,1,0,chris-crawford-3,Chris Crawford,2014
+34,140,34,2014-03-23,Memphis,N,Virginia,ROUND-32,L 60-78,*,26,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,1,2,3,1,0,0,0,3,3,-0.7,N,0,0,chris-crawford-3,Chris Crawford,2014

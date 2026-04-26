@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2023-11-07,Creighton,,Florida A&M,REG (Non-Conf),W 105-54,,20,3,8,0.375,0,0,,3,8,0.375,0.375,1,4,0.25,4,5,9,1,0,2,0,2,7,7.0,H,1,1,fredrick-king-1,Fredrick King,2024
+2,39,2,2023-11-11,Creighton,,North Dakota State,REG (Non-Conf),W 89-60,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,6,0.5,2,4,6,0,0,1,0,3,7,6.6,H,1,1,fredrick-king-1,Fredrick King,2024
+3,40,3,2023-11-14,Creighton,,Iowa,REG (Non-Conf),W 92-84,,12,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,3,2,5,0,0,0,1,0,12,11.5,H,1,1,fredrick-king-1,Fredrick King,2024
+4,41,4,2023-11-18,Creighton,,Texas Southern,REG (Non-Conf),W 82-50,,13,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,3,3,6,0,0,0,1,0,1,1.2,H,1,1,fredrick-king-1,Fredrick King,2024
+5,42,5,2023-11-22,Creighton,N,Loyola Chicago,REG (Non-Conf),W 88-65,,7,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,0,2,2,0,0,1,0,1,5,4.6,N,1,1,fredrick-king-1,Fredrick King,2024
+6,43,6,2023-11-23,Creighton,N,Colorado State,REG (Non-Conf),L 48-69,,9,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,2,0,2,0,0,0,0,2,4,3.5,N,0,1,fredrick-king-1,Fredrick King,2024
+7,44,7,2023-11-30,Creighton,@,Oklahoma State,REG (Non-Conf),W 79-65,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,0,0,0,1,2,2,0.5,A,1,1,fredrick-king-1,Fredrick King,2024
+8,45,8,2023-12-03,Creighton,@,Nebraska,REG (Non-Conf),W 89-60,,12,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,4,6,0,0,0,0,1,6,6.6,A,1,1,fredrick-king-1,Fredrick King,2024
+9,46,9,2023-12-09,Creighton,,Central Michigan,REG (Non-Conf),W 109-64,,19,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,2,3,5,0,0,1,1,1,14,12.4,H,1,1,fredrick-king-1,Fredrick King,2024
+10,47,10,2023-12-13,Creighton,@,UNLV,REG (Non-Conf),L 64-79,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,A,0,1,fredrick-king-1,Fredrick King,2024
+11,48,11,2023-12-16,Creighton,,Alabama,REG (Non-Conf),W 85-82,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,2,3,0,0,0,2,2,2,-0.6,H,1,1,fredrick-king-1,Fredrick King,2024
+12,49,12,2023-12-20,Creighton,,Villanova,REG (Conf),L 66-68 (OT),,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,1,1,1,0,0.3,H,0,1,fredrick-king-1,Fredrick King,2024
+13,50,13,2023-12-30,Creighton,@,Marquette,REG (Conf),L 67-72,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,A,0,1,fredrick-king-1,Fredrick King,2024
+14,51,14,2024-01-02,Creighton,@,Georgetown,REG (Conf),W 77-60,,5,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,1,0,0,0,2,4,4.6,A,1,1,fredrick-king-1,Fredrick King,2024
+15,52,15,2024-01-06,Creighton,,Providence,REG (Conf),W 69-60,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,H,1,1,fredrick-king-1,Fredrick King,2024
+16,53,16,2024-01-09,Creighton,@,DePaul,REG (Conf),W 84-58,,16,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,3,4,0,1,0,0,2,4,3.8,A,1,1,fredrick-king-1,Fredrick King,2024
+17,54,17,2024-01-13,Creighton,,St. John's (NY),REG (Conf),W 66-65,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,fredrick-king-1,Fredrick King,2024
+18,55,18,2024-01-17,Creighton,@,Connecticut,REG (Conf),L 48-62,,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,A,0,1,fredrick-king-1,Fredrick King,2024
+19,56,19,2024-01-20,Creighton,@,Seton Hall,REG (Conf),W 97-94 (3OT),,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,fredrick-king-1,Fredrick King,2024
+20,57,20,2024-01-23,Creighton,,Xavier,REG (Conf),W 85-78,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,fredrick-king-1,Fredrick King,2024
+21,58,21,2024-01-27,Creighton,,DePaul,REG (Conf),W 85-62,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,2,3,1,0,0,0,2,2,0.8,H,1,1,fredrick-king-1,Fredrick King,2024
+22,59,22,2024-02-02,Creighton,,Butler,REG (Conf),L 98-99,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,fredrick-king-1,Fredrick King,2024
+23,60,25,2024-02-13,Creighton,,Georgetown,REG (Conf),W 94-72,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,2,2,1.2,H,1,1,fredrick-king-1,Fredrick King,2024
+24,61,27,2024-02-20,Creighton,,Connecticut,REG (Conf),W 85-66,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,fredrick-king-1,Fredrick King,2024
+25,62,28,2024-02-25,Creighton,@,St. John's (NY),REG (Conf),L 66-80,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,fredrick-king-1,Fredrick King,2024
+26,63,29,2024-02-28,Creighton,,Seton Hall,REG (Conf),W 85-64,,3,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,2,4,0,0,1,1,0,3,3.3,H,1,1,fredrick-king-1,Fredrick King,2024
+27,64,30,2024-03-02,Creighton,,Marquette,REG (Conf),W 89-75,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,fredrick-king-1,Fredrick King,2024
+28,65,31,2024-03-09,Creighton,@,Villanova,REG (Conf),W 69-67,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,A,1,1,fredrick-king-1,Fredrick King,2024
+29,66,33,2024-03-21,Creighton,N,Akron,ROUND-64,W 77-60,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,N,1,0,fredrick-king-1,Fredrick King,2024
+30,67,35,2024-03-29,Creighton,N,Tennessee,ROUND-16,L 75-82,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,fredrick-king-1,Fredrick King,2024

@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2020-11-27,UNC Greensboro,N,Little Rock,REG (Non-Conf),W 77-70,*,30,10,13,0.769,1,1,1.0,9,12,0.75,0.808,3,6,0.5,0,4,4,4,5,0,5,1,24,21.3,N,1,1,isaiah-miller-1,Isaiah Miller,2021
+2,105,2,2020-12-01,UNC Greensboro,N,Winthrop,REG (Non-Conf),L 67-75,,27,8,17,0.471,0,3,0.0,8,14,0.571,0.471,3,4,0.75,2,2,4,3,1,0,3,3,19,10.8,N,0,1,isaiah-miller-1,Isaiah Miller,2021
+3,106,3,2020-12-02,UNC Greensboro,N,Duquesne,REG (Non-Conf),L 68-81,*,32,11,20,0.55,0,3,0.0,11,17,0.647,0.55,0,0,,1,3,4,4,3,0,5,4,22,13.2,N,0,1,isaiah-miller-1,Isaiah Miller,2021
+4,107,4,2020-12-10,UNC Greensboro,@,Coppin State,REG (Non-Conf),L 80-86,*,36,11,25,0.44,0,2,0.0,11,23,0.478,0.44,2,3,0.667,1,8,9,5,1,0,5,1,24,12.7,A,0,1,isaiah-miller-1,Isaiah Miller,2021
+5,108,5,2020-12-13,UNC Greensboro,,Norfolk State,REG (Non-Conf),W 64-47,*,33,6,19,0.316,1,3,0.333,5,16,0.313,0.342,4,5,0.8,1,5,6,5,2,1,4,1,17,9.7,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+6,109,7,2020-12-19,UNC Greensboro,@,Elon,REG (Non-Conf),W 71-64,*,29,3,8,0.375,0,0,,3,8,0.375,0.375,6,6,1.0,1,3,4,2,2,1,2,5,12,9.3,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+7,110,8,2020-12-22,UNC Greensboro,@,North Carolina A&T,REG (Non-Conf),W 86-65,*,27,5,12,0.417,0,0,,5,12,0.417,0.417,1,2,0.5,2,5,7,3,2,0,2,3,11,8.0,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+8,111,9,2021-01-02,UNC Greensboro,,East Tennessee State,REG (Conf),L 61-71,*,34,9,19,0.474,2,3,0.667,7,16,0.438,0.526,4,6,0.667,0,5,5,3,1,1,5,0,24,13.8,H,0,1,isaiah-miller-1,Isaiah Miller,2021
+9,112,10,2021-01-06,UNC Greensboro,@,Wofford,REG (Conf),W 84-75,*,34,6,16,0.375,0,2,0.0,6,14,0.429,0.375,3,5,0.6,4,9,13,8,4,1,2,4,15,17.6,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+10,113,11,2021-01-09,UNC Greensboro,,Wofford,REG (Conf),L 45-48,*,31,5,15,0.333,0,4,0.0,5,11,0.455,0.333,0,0,,1,8,9,4,1,0,6,4,10,0.8,H,0,1,isaiah-miller-1,Isaiah Miller,2021
+11,114,12,2021-01-14,UNC Greensboro,@,Samford,REG (Conf),W 87-63,*,28,5,11,0.455,0,3,0.0,5,8,0.625,0.455,8,14,0.571,2,6,8,2,2,0,4,1,18,12.1,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+12,115,13,2021-01-16,UNC Greensboro,@,Samford,REG (Conf),W 82-70,*,31,8,18,0.444,1,2,0.5,7,16,0.438,0.472,3,5,0.6,1,6,7,5,1,0,1,2,20,15.0,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+13,116,14,2021-01-18,UNC Greensboro,,The Citadel,REG (Conf),W 87-73,*,31,15,25,0.6,0,1,0.0,15,24,0.625,0.6,0,0,,2,10,12,3,4,2,1,1,30,29.0,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+14,117,15,2021-01-23,UNC Greensboro,@,Chattanooga,REG (Conf),W 74-66,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,0,0,,1,5,6,2,0,0,2,4,8,3.3,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+15,118,16,2021-01-27,UNC Greensboro,,Mercer,REG (Conf),W 81-68,*,26,11,22,0.5,0,1,0.0,11,21,0.524,0.5,0,0,,1,1,2,2,0,0,1,4,22,10.8,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+16,119,17,2021-01-30,UNC Greensboro,,VMI,REG (Conf),W 76-59,*,27,11,21,0.524,1,3,0.333,10,18,0.556,0.548,2,2,1.0,0,7,7,0,7,0,1,1,25,22.4,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+17,120,18,2021-02-03,UNC Greensboro,@,The Citadel,REG (Conf),W 85-66,*,27,7,18,0.389,0,0,,7,18,0.389,0.389,1,2,0.5,1,6,7,7,3,0,2,2,15,12.4,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+18,121,19,2021-02-08,UNC Greensboro,@,Furman,REG (Conf),L 49-68,*,30,7,18,0.389,0,1,0.0,7,17,0.412,0.389,0,0,,2,1,3,1,6,0,2,1,14,10.2,A,0,1,isaiah-miller-1,Isaiah Miller,2021
+19,122,20,2021-02-10,UNC Greensboro,,Furman,REG (Conf),W 64-58,*,35,10,17,0.588,0,1,0.0,10,16,0.625,0.588,2,2,1.0,3,5,8,3,3,0,4,1,22,18.4,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+20,123,21,2021-02-13,UNC Greensboro,@,Mercer,REG (Conf),W 77-74,*,25,6,16,0.375,0,1,0.0,6,15,0.4,0.375,3,7,0.429,2,5,7,4,2,0,3,4,15,7.7,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+21,124,22,2021-02-17,UNC Greensboro,@,VMI,REG (Conf),L 77-88,*,31,8,23,0.348,1,4,0.25,7,19,0.368,0.37,2,2,1.0,3,3,6,5,2,0,3,3,19,10.4,A,0,1,isaiah-miller-1,Isaiah Miller,2021
+22,125,23,2021-02-20,UNC Greensboro,,Chattanooga,REG (Conf),W 60-55,*,34,6,16,0.375,0,1,0.0,6,15,0.4,0.375,0,1,0.0,2,9,11,6,1,0,1,1,12,10.7,H,1,1,isaiah-miller-1,Isaiah Miller,2021
+23,126,24,2021-02-22,UNC Greensboro,@,Western Carolina,REG (Conf),W 77-56,*,25,7,15,0.467,0,0,,7,15,0.467,0.467,1,1,1.0,2,3,5,5,4,0,6,1,15,10.7,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+24,127,25,2021-02-24,UNC Greensboro,,Western Carolina,REG (Conf),L 80-81,*,31,11,27,0.407,0,1,0.0,11,26,0.423,0.407,6,10,0.6,3,3,6,6,5,0,1,3,28,21.9,H,0,1,isaiah-miller-1,Isaiah Miller,2021
+25,128,26,2021-02-27,UNC Greensboro,@,East Tennessee State,REG (Conf),W 85-74 (OT),*,37,13,19,0.684,1,2,0.5,12,17,0.706,0.711,5,8,0.625,0,7,7,7,4,1,4,2,32,29.6,A,1,1,isaiah-miller-1,Isaiah Miller,2021
+26,129,27,2021-03-06,UNC Greensboro,N,The Citadel,CTOURN,W 80-72,*,32,8,14,0.571,0,1,0.0,8,13,0.615,0.571,5,5,1.0,1,5,6,2,2,1,6,4,21,13.1,N,1,0,isaiah-miller-1,Isaiah Miller,2021
+27,130,28,2021-03-07,UNC Greensboro,N,East Tennessee State,CTOURN,W 77-65,*,33,9,21,0.429,2,3,0.667,7,18,0.389,0.476,1,2,0.5,1,6,7,5,4,0,0,2,21,18.7,N,1,0,isaiah-miller-1,Isaiah Miller,2021
+28,131,29,2021-03-08,UNC Greensboro,N,Mercer,CTOURN,W 69-61,*,36,10,20,0.5,0,1,0.0,10,19,0.526,0.5,5,13,0.385,4,8,12,6,0,1,3,1,25,18.5,N,1,0,isaiah-miller-1,Isaiah Miller,2021
+29,132,30,2021-03-20,UNC Greensboro,N,Florida State,ROUND-64,L 54-64,*,36,7,18,0.389,0,1,0.0,7,17,0.412,0.389,3,6,0.5,0,5,5,4,2,1,4,3,17,7.8,N,0,0,isaiah-miller-1,Isaiah Miller,2021

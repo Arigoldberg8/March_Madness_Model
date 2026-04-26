@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2010-11-12,Princeton,,Rutgers,REG (Non-Conf),W 78-73 (OT),*,41,8,14,0.571,6,10,0.6,2,4,0.5,0.786,4,5,0.8,0,7,7,4,2,0,2,3,26,22.7,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+2,67,2,2010-11-14,Princeton,@,Duke,REG (Non-Conf),L 60-97,*,33,6,8,0.75,4,5,0.8,2,3,0.667,1.0,0,0,,0,1,1,0,0,0,5,1,16,7.7,A,0,1,dan-mavraides-1,Dan Mavraides,2011
+3,68,3,2010-11-22,Princeton,@,James Madison,REG (Non-Conf),L 64-65,*,32,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,0,7,7,1,1,0,3,5,5,0.0,A,0,1,dan-mavraides-1,Dan Mavraides,2011
+4,69,4,2010-11-23,Princeton,N,Bucknell,REG (Non-Conf),W 66-55,*,36,5,8,0.625,2,3,0.667,3,5,0.6,0.75,4,5,0.8,1,6,7,4,0,0,4,2,16,12.5,N,1,1,dan-mavraides-1,Dan Mavraides,2011
+5,70,5,2010-11-24,Princeton,N,Presbyterian,REG (Non-Conf),L 67-69,*,35,2,11,0.182,1,8,0.125,1,3,0.333,0.227,0,0,,3,2,5,4,2,0,1,4,5,3.0,N,0,1,dan-mavraides-1,Dan Mavraides,2011
+6,71,6,2010-11-28,Princeton,,Siena,REG (Non-Conf),W 86-77 (OT),*,34,4,8,0.5,3,4,0.75,1,4,0.25,0.688,8,8,1.0,0,4,4,1,1,0,1,2,19,16.1,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+7,72,7,2010-11-30,Princeton,@,Lafayette,REG (Non-Conf),W 82-64,*,31,5,10,0.5,3,7,0.429,2,3,0.667,0.65,4,4,1.0,0,6,6,5,1,0,3,3,17,14.1,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+8,73,8,2010-12-05,Princeton,,Saint Joseph's,REG (Non-Conf),W 74-65,*,28,2,6,0.333,1,4,0.25,1,2,0.5,0.417,5,6,0.833,1,3,4,2,0,0,4,4,10,3.6,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+9,74,9,2010-12-08,Princeton,@,Monmouth,REG (Non-Conf),W 64-61,*,35,4,12,0.333,1,8,0.125,3,4,0.75,0.375,3,6,0.5,1,2,3,2,2,2,2,4,12,6.5,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+10,75,10,2010-12-12,Princeton,@,Tulsa,REG (Non-Conf),W 82-78 (2OT),*,49,5,13,0.385,2,5,0.4,3,8,0.375,0.462,4,4,1.0,0,5,5,1,3,0,2,2,16,11.3,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+11,76,11,2010-12-17,Princeton,@,Wagner,REG (Non-Conf),W 69-57,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,3,5,0.6,1,2,3,1,2,1,3,3,12,7.0,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+12,77,12,2010-12-22,Princeton,@,Towson,REG (Non-Conf),W 75-65,*,33,1,9,0.111,0,5,0.0,1,4,0.25,0.111,8,9,0.889,0,4,4,3,2,0,3,1,10,5.6,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+13,78,13,2010-12-29,Princeton,N,Northeastern,REG (Non-Conf),W 65-63,*,27,5,11,0.455,1,4,0.25,4,7,0.571,0.5,2,5,0.4,1,4,5,3,2,0,4,4,13,6.5,N,1,1,dan-mavraides-1,Dan Mavraides,2011
+14,79,14,2010-12-30,Princeton,@,UCF,REG (Non-Conf),L 62-68,*,36,6,12,0.5,4,7,0.571,2,5,0.4,0.667,4,4,1.0,0,3,3,4,1,0,3,4,20,14.1,A,0,1,dan-mavraides-1,Dan Mavraides,2011
+15,80,15,2011-01-05,Princeton,,Marist,REG (Non-Conf),W 68-57,*,37,3,9,0.333,2,4,0.5,1,5,0.2,0.444,8,9,0.889,1,3,4,2,1,0,2,3,16,11.3,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+16,81,16,2011-01-23,Princeton,,TCNJ,REG (Non-Conf),W 73-40,*,20,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,1,1,2,5,1,0,1,3,3,1.8,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+17,82,17,2011-01-28,Princeton,,Brown,REG (Conf),W 78-60,*,25,4,7,0.571,3,4,0.75,1,3,0.333,0.786,2,4,0.5,0,6,6,4,0,0,4,2,13,8.7,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+18,83,18,2011-01-29,Princeton,,Yale,REG (Conf),W 67-63,*,36,3,7,0.429,1,2,0.5,2,5,0.4,0.5,4,6,0.667,0,4,4,4,1,0,8,4,11,1.9,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+19,84,19,2011-02-04,Princeton,,Harvard,REG (Conf),W 65-61,*,38,3,14,0.214,2,5,0.4,1,9,0.111,0.286,7,8,0.875,2,5,7,6,3,0,1,1,15,14.7,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+20,85,20,2011-02-05,Princeton,,Dartmouth,REG (Conf),W 68-53,*,28,5,10,0.5,3,5,0.6,2,5,0.4,0.65,1,2,0.5,0,2,2,2,1,0,3,0,14,8.6,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+21,86,21,2011-02-08,Princeton,,Pennsylvania,REG (Conf),W 62-59 (OT),*,37,4,11,0.364,2,4,0.5,2,7,0.286,0.455,1,2,0.5,0,5,5,4,0,0,2,3,11,5.6,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+22,87,22,2011-02-11,Princeton,@,Columbia,REG (Conf),W 76-46,*,29,6,9,0.667,1,2,0.5,5,7,0.714,0.722,4,4,1.0,0,2,2,2,0,0,2,3,17,11.9,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+23,88,23,2011-02-12,Princeton,@,Cornell,REG (Conf),W 57-55,*,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,5,6,3,0,0,2,4,0,-2.1,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+24,89,24,2011-02-18,Princeton,@,Yale,REG (Conf),W 58-51,*,37,4,14,0.286,1,5,0.2,3,9,0.333,0.321,6,8,0.75,2,8,10,2,0,0,2,1,15,8.8,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+25,90,25,2011-02-19,Princeton,@,Brown,REG (Conf),L 65-75,*,38,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,0,2,2,3,1,0,0,3,2,0.0,A,0,1,dan-mavraides-1,Dan Mavraides,2011
+26,91,26,2011-02-25,Princeton,,Cornell,REG (Conf),W 84-66,*,34,6,11,0.545,4,8,0.5,2,3,0.667,0.727,1,2,0.5,0,1,1,6,1,0,5,3,17,10.6,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+27,92,27,2011-02-26,Princeton,,Columbia,REG (Conf),W 66-61,*,34,4,11,0.364,2,6,0.333,2,5,0.4,0.455,4,4,1.0,0,4,4,2,2,0,4,3,14,7.3,H,1,1,dan-mavraides-1,Dan Mavraides,2011
+28,93,28,2011-03-04,Princeton,@,Dartmouth,REG (Conf),W 77-55,*,26,1,12,0.083,0,6,0.0,1,6,0.167,0.083,0,0,,0,8,8,2,1,0,3,1,2,-4.6,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+29,94,29,2011-03-05,Princeton,@,Harvard,REG (Conf),L 67-79,*,39,9,20,0.45,5,12,0.417,4,8,0.5,0.575,2,2,1.0,1,5,6,1,0,0,1,0,25,16.5,A,0,1,dan-mavraides-1,Dan Mavraides,2011
+30,95,30,2011-03-08,Princeton,@,Pennsylvania,REG (Conf),W 70-58,*,31,2,4,0.5,2,3,0.667,0,1,0.0,0.75,4,4,1.0,2,5,7,2,2,0,6,3,10,7.1,A,1,1,dan-mavraides-1,Dan Mavraides,2011
+31,96,31,2011-03-12,Princeton,N,Harvard,REG (Conf),W 63-62,*,33,5,12,0.417,1,5,0.2,4,7,0.571,0.458,0,0,,1,2,3,2,1,1,0,3,11,7.8,N,1,1,dan-mavraides-1,Dan Mavraides,2011
+32,97,32,2011-03-17,Princeton,N,Kentucky,ROUND-64,L 57-59,*,35,6,12,0.5,2,5,0.4,4,7,0.571,0.583,0,0,,1,4,5,1,2,0,2,3,14,9.4,N,0,0,dan-mavraides-1,Dan Mavraides,2011

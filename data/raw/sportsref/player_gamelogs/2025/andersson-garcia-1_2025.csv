@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,115,1,2024-11-04,Texas A&M,@,UCF,REG (Non-Conf),L 61-64,,26,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,4,6,2,0,1,1,5,4,5.1,A,0,1,andersson-garcia-1,Andersson Garcia,2025
+2,116,2,2024-11-08,Texas A&M,,Texas A&M–Commerce,REG (Non-Conf),W 87-55,,22,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,7,8,3,2,0,0,2,2,6.4,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+3,117,3,2024-11-11,Texas A&M,,Lamar,REG (Non-Conf),W 97-71,,27,5,7,0.714,2,2,1.0,3,5,0.6,0.857,3,5,0.6,3,6,9,3,1,1,2,4,15,15.4,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+4,118,4,2024-11-15,Texas A&M,,Ohio State,REG (Non-Conf),W 78-64,*,21,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,4,4,1,0,0,0,4,5,3.6,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+5,119,5,2024-11-20,Texas A&M,,Southern,REG (Non-Conf),W 71-54,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,5,3,8,1,1,1,1,0,4,9.2,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+6,120,6,2024-11-26,Texas A&M,N,Oregon,REG (Non-Conf),L 70-80,*,36,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,5,2,7,0,1,1,1,3,3,3.5,N,0,1,andersson-garcia-1,Andersson Garcia,2025
+7,121,7,2024-11-27,Texas A&M,N,Creighton,REG (Non-Conf),W 77-73,,21,2,7,0.286,1,3,0.333,1,4,0.25,0.357,5,6,0.833,2,5,7,0,0,2,0,1,10,9.4,N,1,1,andersson-garcia-1,Andersson Garcia,2025
+8,122,8,2024-11-30,Texas A&M,N,Rutgers,REG (Non-Conf),W 81-77,,26,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,6,6,1,1,1,0,3,6,7.0,N,1,1,andersson-garcia-1,Andersson Garcia,2025
+9,123,9,2024-12-03,Texas A&M,,Wake Forest,REG (Non-Conf),W 57-44,,29,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,3,1.0,4,12,16,2,3,1,1,0,5,14.5,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+10,124,10,2024-12-08,Texas A&M,N,Texas Tech,REG (Non-Conf),W 72-67,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,0,0,0,1,5,0,-2.4,N,1,1,andersson-garcia-1,Andersson Garcia,2025
+11,125,11,2024-12-14,Texas A&M,N,Purdue,REG (Non-Conf),W 70-66,,22,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,1,2,0,0,0,0,2,5,3.9,N,1,1,andersson-garcia-1,Andersson Garcia,2025
+12,126,12,2024-12-20,Texas A&M,,Houston Christian,REG (Non-Conf),W 77-45,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,1,0,2,0,0.6,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+13,127,13,2024-12-28,Texas A&M,,Abilene Christian,REG (Non-Conf),W 92-54,,26,5,5,1.0,0,0,,5,5,1.0,1.0,2,4,0.5,4,1,5,2,1,2,3,0,12,13.6,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+14,128,14,2025-01-04,Texas A&M,,Texas,REG (Conf),W 80-60,,25,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,2,2,2,0,1,1,3,4,1.8,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+15,129,15,2025-01-08,Texas A&M,@,Oklahoma,REG (Conf),W 80-78,,26,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,3,0.333,4,1,5,0,4,0,0,4,3,5.3,A,1,1,andersson-garcia-1,Andersson Garcia,2025
+16,130,16,2025-01-11,Texas A&M,,Alabama,REG (Conf),L 88-94,,24,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,2,2,2,2,0,1,4,1,1.3,H,0,1,andersson-garcia-1,Andersson Garcia,2025
+17,131,17,2025-01-14,Texas A&M,@,Kentucky,REG (Conf),L 69-81,,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,5,0.6,0,1,1,0,2,2,0,3,5,5.7,A,0,1,andersson-garcia-1,Andersson Garcia,2025
+18,132,18,2025-01-18,Texas A&M,,Louisiana State,REG (Conf),W 68-57,,23,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,3,4,7,0,1,1,3,1,5,5.6,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+19,133,19,2025-01-22,Texas A&M,@,Ole Miss,REG (Conf),W 63-62,,21,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,3,5,1,2,2,2,2,0,2.9,A,1,1,andersson-garcia-1,Andersson Garcia,2025
+20,134,20,2025-01-25,Texas A&M,@,Texas,REG (Conf),L 69-70,,21,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,3,2,5,2,0,0,0,2,5,5.6,A,0,1,andersson-garcia-1,Andersson Garcia,2025
+21,135,21,2025-01-28,Texas A&M,,Oklahoma,REG (Conf),W 75-68,,28,2,4,0.5,1,3,0.333,1,1,1.0,0.625,4,6,0.667,5,7,12,2,0,0,0,3,9,12.0,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+22,136,22,2025-02-01,Texas A&M,@,South Carolina,REG (Conf),W 76-72,,21,1,4,0.25,1,4,0.25,0,0,,0.375,2,4,0.5,2,3,5,1,1,1,1,2,5,4.7,A,1,1,andersson-garcia-1,Andersson Garcia,2025
+23,137,23,2025-02-08,Texas A&M,@,Missouri,REG (Conf),W 67-64,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,2,0,2,3,1,0,3,2,1,-0.1,A,1,1,andersson-garcia-1,Andersson Garcia,2025
+24,138,24,2025-02-11,Texas A&M,,Georgia,REG (Conf),W 69-53,,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,4,1,5,6,1,1,1,1,2,8.6,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+25,139,25,2025-02-15,Texas A&M,,Arkansas,REG (Conf),W 69-61,,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,3,5,0.6,4,1,5,3,2,0,1,0,11,12.4,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+26,140,26,2025-02-18,Texas A&M,@,Mississippi State,REG (Conf),L 54-70,,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,2,8,10,1,0,0,3,1,4,2.7,A,0,1,andersson-garcia-1,Andersson Garcia,2025
+27,141,27,2025-02-22,Texas A&M,,Tennessee,REG (Conf),L 69-77,*,30,5,7,0.714,2,2,1.0,3,5,0.6,0.857,2,2,1.0,1,5,6,2,1,0,0,2,14,14.9,H,0,1,andersson-garcia-1,Andersson Garcia,2025
+28,142,28,2025-02-26,Texas A&M,,Vanderbilt,REG (Conf),L 84-86,*,28,1,5,0.2,0,2,0.0,1,3,0.333,0.2,6,6,1.0,5,6,11,2,2,0,2,5,8,9.6,H,0,1,andersson-garcia-1,Andersson Garcia,2025
+29,143,29,2025-03-01,Texas A&M,@,Florida,REG (Conf),L 70-89,*,29,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,3,0,3,1,1,1,3,3,9,7.0,A,0,1,andersson-garcia-1,Andersson Garcia,2025
+30,144,30,2025-03-04,Texas A&M,,Auburn,REG (Conf),W 83-72,*,31,3,5,0.6,2,2,1.0,1,3,0.333,0.8,3,4,0.75,5,6,11,5,2,1,3,2,11,16.0,H,1,1,andersson-garcia-1,Andersson Garcia,2025
+31,145,31,2025-03-08,Texas A&M,@,Louisiana State,REG (Conf),W 66-52,*,30,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,2,8,10,2,1,0,1,1,8,12.2,A,1,1,andersson-garcia-1,Andersson Garcia,2025
+32,146,32,2025-03-13,Texas A&M,N,Texas,CTOURN,L 89-94 (2OT),*,25,4,6,0.667,4,4,1.0,0,2,0.0,1.0,1,2,0.5,4,6,10,0,0,0,2,5,13,10.6,N,0,0,andersson-garcia-1,Andersson Garcia,2025
+33,147,33,2025-03-20,Texas A&M,N,Yale,ROUND-64,W 80-71,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,6,0.333,0,8,8,3,1,1,0,0,7,8.2,N,1,0,andersson-garcia-1,Andersson Garcia,2025
+34,148,34,2025-03-22,Texas A&M,N,Michigan,ROUND-32,L 79-91,*,24,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,2,4,6,1,0,0,0,2,11,8.8,N,0,0,andersson-garcia-1,Andersson Garcia,2025

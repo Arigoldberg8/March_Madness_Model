@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2012-11-10,Butler,,Elon,REG (Non-Conf),W 74-59,*,22,8,16,0.5,5,10,0.5,3,6,0.5,0.656,0,0,,0,1,1,1,0,0,1,2,21,12.2,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+2,94,2,2012-11-13,Butler,@,Xavier,REG (Non-Conf),L 47-62,*,37,3,11,0.273,1,7,0.143,2,4,0.5,0.318,0,0,,1,4,5,5,0,0,2,0,7,3.9,A,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+3,95,3,2012-11-19,Butler,N,Marquette,REG (Non-Conf),W 72-71,*,37,7,21,0.333,4,14,0.286,3,7,0.429,0.429,2,3,0.667,2,4,6,0,0,0,1,3,20,8.1,N,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+4,96,4,2012-11-20,Butler,N,North Carolina,REG (Non-Conf),W 82-71,*,35,5,11,0.455,4,6,0.667,1,5,0.2,0.636,3,3,1.0,0,5,5,1,2,0,5,1,17,10.1,N,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+5,97,5,2012-11-21,Butler,N,Illinois,REG (Non-Conf),L 61-78,*,39,10,19,0.526,6,13,0.462,4,6,0.667,0.684,1,2,0.5,0,4,4,1,0,0,5,2,27,13.4,N,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+6,98,6,2012-11-27,Butler,,Hanover,REG (Non-Conf),W 97-73,*,25,6,8,0.75,5,6,0.833,1,2,0.5,1.063,2,2,1.0,0,0,0,3,1,0,1,1,19,17.5,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+7,99,7,2012-12-01,Butler,,Ball State,REG (Non-Conf),W 67-53,*,37,5,18,0.278,3,12,0.25,2,6,0.333,0.361,2,3,0.667,1,2,3,5,1,0,1,0,15,8.8,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+8,100,8,2012-12-05,Butler,,IUPUI,REG (Non-Conf),W 87-55,*,24,5,9,0.556,4,6,0.667,1,3,0.333,0.778,3,3,1.0,0,2,2,3,1,0,3,3,17,12.2,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+9,101,9,2012-12-08,Butler,@,Northwestern,REG (Non-Conf),W 74-65,*,26,4,8,0.5,4,6,0.667,0,2,0.0,0.75,1,2,0.5,0,1,1,3,1,0,3,4,13,7.4,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+10,102,10,2012-12-15,Butler,N,Indiana,REG (Non-Conf),W 88-86 (OT),*,45,7,19,0.368,5,11,0.455,2,8,0.25,0.5,0,0,,1,0,1,2,0,0,3,1,19,7.2,N,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+11,103,11,2012-12-22,Butler,,Evansville,REG (Non-Conf),W 75-67,*,33,6,13,0.462,3,6,0.5,3,7,0.429,0.577,5,5,1.0,0,3,3,1,0,0,5,2,20,9.1,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+12,104,12,2012-12-29,Butler,@,Vanderbilt,REG (Non-Conf),W 68-49,*,30,7,15,0.467,6,9,0.667,1,6,0.167,0.667,2,2,1.0,1,1,2,3,1,0,2,1,22,16.0,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+13,105,13,2013-01-02,Butler,,Pennsylvania,REG (Non-Conf),W 70-57,*,29,2,11,0.182,1,9,0.111,1,2,0.5,0.227,1,1,1.0,0,2,2,1,0,0,2,2,6,-2.4,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+14,106,14,2013-01-05,Butler,,New Orleans,REG (Non-Conf),W 57-44,*,36,1,7,0.143,1,6,0.167,0,1,0.0,0.214,1,2,0.5,0,1,1,3,0,0,1,2,4,-0.3,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+15,107,15,2013-01-09,Butler,@,Saint Joseph's,REG (Conf),W 72-66,*,39,10,22,0.455,6,10,0.6,4,12,0.333,0.591,2,2,1.0,0,6,6,4,0,0,0,0,28,21.2,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+16,108,16,2013-01-12,Butler,@,Dayton,REG (Conf),W 79-73,*,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,2,2,0,1,0,5,6.4,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+17,109,20,2013-01-26,Butler,,Temple,REG (Conf),W 83-71,*,38,4,14,0.286,3,10,0.3,1,4,0.25,0.393,13,14,0.929,1,2,3,9,1,0,4,1,24,19.6,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+18,110,21,2013-01-31,Butler,@,Saint Louis,REG (Conf),L 58-75,*,35,5,12,0.417,3,7,0.429,2,5,0.4,0.542,4,5,0.8,0,0,0,3,0,0,6,1,17,5.9,A,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+19,111,22,2013-02-02,Butler,,Rhode Island,REG (Conf),W 75-68,*,37,8,13,0.615,5,8,0.625,3,5,0.6,0.808,2,3,0.667,1,1,2,2,2,0,7,3,23,12.9,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+20,112,23,2013-02-06,Butler,,St. Bonaventure,REG (Conf),W 77-58,*,36,6,12,0.5,3,8,0.375,3,4,0.75,0.625,2,2,1.0,2,3,5,5,2,0,4,1,17,14.4,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+21,113,24,2013-02-09,Butler,@,George Washington,REG (Conf),W 59-56,*,37,5,16,0.313,2,7,0.286,3,9,0.333,0.375,2,2,1.0,0,6,6,4,3,0,0,1,14,12.0,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+22,114,25,2013-02-13,Butler,,Charlotte,REG (Conf),L 67-71,*,35,5,14,0.357,5,13,0.385,0,1,0.0,0.536,3,3,1.0,0,2,2,3,0,0,4,4,18,7.3,H,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+23,115,26,2013-02-16,Butler,@,Fordham,REG (Conf),W 68-63,*,36,6,16,0.375,4,10,0.4,2,6,0.333,0.5,6,6,1.0,1,5,6,4,1,0,3,1,22,15.8,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+24,116,27,2013-02-19,Butler,,Duquesne,REG (Conf),W 68-49,*,35,5,11,0.455,4,8,0.5,1,3,0.333,0.636,2,2,1.0,0,1,1,1,0,0,3,0,16,8.3,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+25,117,28,2013-02-22,Butler,,Saint Louis,REG (Conf),L 61-65,*,36,5,11,0.455,3,6,0.5,2,5,0.4,0.591,0,0,,0,7,7,2,0,0,6,3,13,3.6,H,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+26,118,29,2013-03-02,Butler,@,VCU,REG (Conf),L 52-84,*,22,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,1,1,2,2,0,0,3,1,5,-0.8,A,0,1,rotnei-clarke-1,Rotnei Clarke,2013
+27,119,30,2013-03-07,Butler,@,Massachusetts,REG (Conf),W 73-62,*,39,6,16,0.375,3,12,0.25,3,4,0.75,0.469,2,2,1.0,1,1,2,3,2,0,6,3,17,6.1,A,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+28,120,31,2013-03-09,Butler,,Xavier,REG (Conf),W 67-62,*,34,5,14,0.357,3,8,0.375,2,6,0.333,0.464,8,8,1.0,0,4,4,1,1,0,0,2,21,15.3,H,1,1,rotnei-clarke-1,Rotnei Clarke,2013
+29,121,32,2013-03-14,Butler,N,Dayton,CTOURN,W 73-67,*,35,7,14,0.5,6,12,0.5,1,2,0.5,0.714,1,2,0.5,0,1,1,5,1,0,3,2,21,14.6,N,1,0,rotnei-clarke-1,Rotnei Clarke,2013
+30,122,33,2013-03-15,Butler,N,La Salle,CTOURN,W 69-58,*,36,6,16,0.375,2,9,0.222,4,7,0.571,0.438,0,0,,0,1,1,2,1,0,2,1,14,5.5,N,1,0,rotnei-clarke-1,Rotnei Clarke,2013
+31,123,34,2013-03-16,Butler,N,Saint Louis,CTOURN,L 56-67,*,33,7,15,0.467,2,6,0.333,5,9,0.556,0.533,0,0,,1,4,5,1,0,1,3,1,16,8.2,N,0,0,rotnei-clarke-1,Rotnei Clarke,2013
+32,124,35,2013-03-21,Butler,N,Bucknell,ROUND-64,W 68-56,*,33,5,14,0.357,2,8,0.25,3,6,0.5,0.429,4,4,1.0,0,1,1,2,0,0,0,2,16,9.1,N,1,0,rotnei-clarke-1,Rotnei Clarke,2013
+33,125,36,2013-03-23,Butler,N,Marquette,ROUND-32,L 72-74,*,36,8,17,0.471,5,12,0.417,3,5,0.6,0.618,3,3,1.0,0,2,2,3,1,0,4,3,24,13.8,N,0,0,rotnei-clarke-1,Rotnei Clarke,2013

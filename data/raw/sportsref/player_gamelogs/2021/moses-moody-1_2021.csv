@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,Arkansas,,Mississippi Valley State,REG (Non-Conf),W 142-62,*,24,3,12,0.25,1,6,0.167,2,6,0.333,0.292,9,10,0.9,2,1,3,2,3,0,0,3,16,13.3,H,1,1,moses-moody-1,Moses Moody,2021
+2,2,2,2020-11-28,Arkansas,,North Texas,REG (Non-Conf),W 69-54,*,29,2,9,0.222,1,4,0.25,1,5,0.2,0.278,6,6,1.0,1,1,2,1,3,1,1,1,11,9.5,H,1,1,moses-moody-1,Moses Moody,2021
+3,3,3,2020-12-02,Arkansas,,UT Arlington,REG (Non-Conf),W 72-60,*,32,7,12,0.583,2,3,0.667,5,9,0.556,0.667,8,10,0.8,3,6,9,1,0,0,2,3,24,19.0,H,1,1,moses-moody-1,Moses Moody,2021
+4,4,4,2020-12-05,Arkansas,,Lipscomb,REG (Non-Conf),W 86-50,*,24,7,8,0.875,2,3,0.667,5,5,1.0,1.0,2,3,0.667,3,5,8,3,1,0,1,2,18,19.7,H,1,1,moses-moody-1,Moses Moody,2021
+5,5,5,2020-12-09,Arkansas,,Southern,REG (Non-Conf),W 79-44,*,26,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,3,2,5,2,0,1,2,1,12,9.4,H,1,1,moses-moody-1,Moses Moody,2021
+6,6,6,2020-12-12,Arkansas,,Central Arkansas,REG (Non-Conf),W 100-75,*,35,6,11,0.545,3,7,0.429,3,4,0.75,0.682,0,0,,0,7,7,3,2,1,1,1,15,15.2,H,1,1,moses-moody-1,Moses Moody,2021
+7,7,7,2020-12-20,Arkansas,,Oral Roberts,REG (Non-Conf),W 87-76,*,28,7,12,0.583,1,4,0.25,6,8,0.75,0.625,3,6,0.5,4,3,7,1,1,1,2,1,18,14.9,H,1,1,moses-moody-1,Moses Moody,2021
+8,8,8,2020-12-22,Arkansas,,Abilene Christian,REG (Non-Conf),W 85-72,*,37,6,10,0.6,3,5,0.6,3,5,0.6,0.75,6,8,0.75,3,1,4,2,0,2,0,1,21,20.4,H,1,1,moses-moody-1,Moses Moody,2021
+9,9,9,2020-12-30,Arkansas,@,Auburn,REG (Conf),W 97-85,*,39,4,11,0.364,2,6,0.333,2,5,0.4,0.455,6,6,1.0,2,4,6,1,2,0,2,2,16,12.4,A,1,1,moses-moody-1,Moses Moody,2021
+10,10,10,2021-01-02,Arkansas,,Missouri,REG (Conf),L 68-81,*,38,4,15,0.267,4,8,0.5,0,7,0.0,0.4,6,10,0.6,4,6,10,1,2,1,1,4,18,12.9,H,0,1,moses-moody-1,Moses Moody,2021
+11,11,11,2021-01-06,Arkansas,@,Tennessee,REG (Conf),L 74-79,*,37,1,8,0.125,1,4,0.25,0,4,0.0,0.188,3,3,1.0,0,2,2,1,0,0,0,4,6,0.5,A,0,1,moses-moody-1,Moses Moody,2021
+12,12,12,2021-01-09,Arkansas,,Georgia,REG (Conf),W 99-69,*,38,9,15,0.6,2,6,0.333,7,9,0.778,0.667,5,5,1.0,2,2,4,2,1,0,1,2,25,20.7,H,1,1,moses-moody-1,Moses Moody,2021
+13,13,13,2021-01-13,Arkansas,@,Louisiana State,REG (Conf),L 76-92,*,36,7,18,0.389,1,5,0.2,6,13,0.462,0.417,3,4,0.75,5,1,6,2,2,0,3,4,18,10.4,A,0,1,moses-moody-1,Moses Moody,2021
+14,14,14,2021-01-16,Arkansas,@,Alabama,REG (Conf),L 59-90,*,35,10,25,0.4,3,7,0.429,7,18,0.389,0.46,5,5,1.0,3,6,9,1,0,0,2,2,28,16.3,A,0,1,moses-moody-1,Moses Moody,2021
+15,15,15,2021-01-20,Arkansas,,Auburn,REG (Conf),W 75-73,*,32,2,9,0.222,0,4,0.0,2,5,0.4,0.222,1,2,0.5,1,4,5,2,1,1,2,2,5,1.3,H,1,1,moses-moody-1,Moses Moody,2021
+16,16,16,2021-01-23,Arkansas,@,Vanderbilt,REG (Conf),W 92-71,*,35,10,16,0.625,1,4,0.25,9,12,0.75,0.656,5,5,1.0,3,5,8,2,0,1,2,2,26,21.7,A,1,1,moses-moody-1,Moses Moody,2021
+17,17,17,2021-01-27,Arkansas,,Ole Miss,REG (Conf),W 74-59,*,19,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,5,0.6,1,0,1,2,0,1,3,3,5,1.1,H,1,1,moses-moody-1,Moses Moody,2021
+18,18,18,2021-01-30,Arkansas,@,Oklahoma State,REG (Non-Conf),L 77-81,*,32,8,13,0.615,1,3,0.333,7,10,0.7,0.654,0,1,0.0,0,4,4,1,0,0,1,0,17,11.6,A,0,1,moses-moody-1,Moses Moody,2021
+19,19,19,2021-02-02,Arkansas,,Mississippi State,REG (Conf),W 61-45,*,38,4,12,0.333,1,4,0.25,3,8,0.375,0.375,4,4,1.0,3,4,7,1,2,0,3,4,13,7.6,H,1,1,moses-moody-1,Moses Moody,2021
+20,20,20,2021-02-09,Arkansas,@,Kentucky,REG (Conf),W 81-80,*,29,4,9,0.444,4,6,0.667,0,3,0.0,0.667,2,2,1.0,1,6,7,0,1,0,0,3,14,11.6,A,1,1,moses-moody-1,Moses Moody,2021
+21,21,21,2021-02-13,Arkansas,@,Missouri,REG (Conf),W 86-81 (OT),*,34,4,7,0.571,2,4,0.5,2,3,0.667,0.714,6,6,1.0,0,5,5,1,2,2,4,4,16,12.7,A,1,1,moses-moody-1,Moses Moody,2021
+22,22,22,2021-02-16,Arkansas,,Florida,REG (Conf),W 75-64,*,37,3,14,0.214,2,7,0.286,1,7,0.143,0.286,6,7,0.857,1,4,5,3,1,0,3,0,14,7.0,H,1,1,moses-moody-1,Moses Moody,2021
+23,23,23,2021-02-24,Arkansas,,Alabama,REG (Conf),W 81-66,*,39,3,12,0.25,2,5,0.4,1,7,0.143,0.333,16,19,0.842,1,4,5,4,1,3,1,2,24,21.6,H,1,1,moses-moody-1,Moses Moody,2021
+24,24,24,2021-02-27,Arkansas,,Louisiana State,REG (Conf),W 83-75,*,36,3,14,0.214,1,5,0.2,2,9,0.222,0.25,11,14,0.786,3,5,8,5,0,0,1,1,18,13.9,H,1,1,moses-moody-1,Moses Moody,2021
+25,25,25,2021-03-02,Arkansas,@,South Carolina,REG (Conf),W 101-73,*,34,10,15,0.667,4,9,0.444,6,6,1.0,0.8,4,4,1.0,0,7,7,2,2,0,0,3,28,25.8,A,1,1,moses-moody-1,Moses Moody,2021
+26,26,26,2021-03-06,Arkansas,,Texas A&M,REG (Conf),W 87-80,*,36,9,15,0.6,5,8,0.625,4,7,0.571,0.767,5,6,0.833,3,2,5,2,2,1,0,2,28,26.7,H,1,1,moses-moody-1,Moses Moody,2021
+27,27,27,2021-03-12,Arkansas,N,Missouri,CTOURN,W 70-64,*,39,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,1,1.0,4,4,8,0,0,1,4,2,5,1.5,N,1,0,moses-moody-1,Moses Moody,2021
+28,28,28,2021-03-13,Arkansas,N,Louisiana State,CTOURN,L 71-78,*,39,8,16,0.5,4,10,0.4,4,6,0.667,0.625,8,12,0.667,3,6,9,1,2,0,3,4,28,20.4,N,0,0,moses-moody-1,Moses Moody,2021
+29,29,29,2021-03-19,Arkansas,N,Colgate,ROUND-64,W 85-68,*,35,4,8,0.5,1,4,0.25,3,4,0.75,0.563,3,5,0.6,0,1,1,0,1,0,1,3,12,6.3,N,1,0,moses-moody-1,Moses Moody,2021
+30,30,30,2021-03-21,Arkansas,N,Texas Tech,ROUND-32,W 68-66,*,39,6,11,0.545,2,6,0.333,4,5,0.8,0.636,1,2,0.5,2,4,6,1,0,0,1,2,15,10.8,N,1,0,moses-moody-1,Moses Moody,2021
+31,31,31,2021-03-27,Arkansas,N,Oral Roberts,ROUND-16,W 72-70,*,38,4,20,0.2,0,3,0.0,4,17,0.235,0.2,6,7,0.857,1,5,6,0,1,3,2,4,14,2.9,N,1,0,moses-moody-1,Moses Moody,2021
+32,32,32,2021-03-29,Arkansas,N,Baylor,ROUND-8,L 72-81,*,33,2,10,0.2,0,4,0.0,2,6,0.333,0.2,7,8,0.875,2,3,5,1,0,1,3,2,11,4.3,N,0,0,moses-moody-1,Moses Moody,2021

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,99,1,2012-11-10,Butler,,Elon,REG (Non-Conf),W 74-59,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,2,5,0,-2.7,H,1,1,andrew-smith-2,Andrew Smith,2013
+2,100,2,2012-11-13,Butler,@,Xavier,REG (Non-Conf),L 47-62,*,24,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,2,0.0,3,1,4,0,0,0,0,2,9,5.8,A,0,1,andrew-smith-2,Andrew Smith,2013
+3,101,3,2012-11-19,Butler,N,Marquette,REG (Non-Conf),W 72-71,*,24,3,10,0.3,0,3,0.0,3,7,0.429,0.3,4,7,0.571,3,2,5,1,2,0,0,5,10,6.4,N,1,1,andrew-smith-2,Andrew Smith,2013
+4,102,4,2012-11-20,Butler,N,North Carolina,REG (Non-Conf),W 82-71,*,24,3,6,0.5,0,2,0.0,3,4,0.75,0.5,7,8,0.875,0,2,2,1,2,1,4,5,13,7.6,N,1,1,andrew-smith-2,Andrew Smith,2013
+5,103,5,2012-11-21,Butler,N,Illinois,REG (Non-Conf),L 61-78,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,3,5,2,0,0,1,1,2,1.9,N,0,1,andrew-smith-2,Andrew Smith,2013
+6,104,6,2012-11-27,Butler,,Hanover,REG (Non-Conf),W 97-73,*,23,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,6,0.5,2,5,7,3,0,2,1,0,13,14.3,H,1,1,andrew-smith-2,Andrew Smith,2013
+7,105,7,2012-12-01,Butler,,Ball State,REG (Non-Conf),W 67-53,*,26,6,9,0.667,0,1,0.0,6,8,0.75,0.667,0,2,0.0,4,1,5,1,0,2,0,2,12,11.7,H,1,1,andrew-smith-2,Andrew Smith,2013
+8,106,8,2012-12-05,Butler,,IUPUI,REG (Non-Conf),W 87-55,*,19,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,0,1,1,1,1,0,1,3,11,9.6,H,1,1,andrew-smith-2,Andrew Smith,2013
+9,107,9,2012-12-08,Butler,@,Northwestern,REG (Non-Conf),W 74-65,*,26,8,11,0.727,1,1,1.0,7,10,0.7,0.773,7,9,0.778,8,2,10,1,2,0,1,3,24,25.4,A,1,1,andrew-smith-2,Andrew Smith,2013
+10,108,10,2012-12-15,Butler,N,Indiana,REG (Non-Conf),W 88-86 (OT),*,25,5,8,0.625,1,1,1.0,4,7,0.571,0.688,1,2,0.5,4,5,9,1,1,2,1,5,12,12.4,N,1,1,andrew-smith-2,Andrew Smith,2013
+11,109,11,2012-12-22,Butler,,Evansville,REG (Non-Conf),W 75-67,*,32,6,8,0.75,1,2,0.5,5,6,0.833,0.813,7,9,0.778,1,5,6,4,1,2,2,2,20,20.6,H,1,1,andrew-smith-2,Andrew Smith,2013
+12,110,12,2012-12-29,Butler,@,Vanderbilt,REG (Non-Conf),W 68-49,*,21,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,1,0.0,0,2,2,0,0,0,1,4,8,2.3,A,1,1,andrew-smith-2,Andrew Smith,2013
+13,111,13,2013-01-02,Butler,,Pennsylvania,REG (Non-Conf),W 70-57,*,29,1,7,0.143,0,3,0.0,1,4,0.25,0.143,7,8,0.875,2,3,5,0,1,0,0,2,9,6.6,H,1,1,andrew-smith-2,Andrew Smith,2013
+14,112,14,2013-01-05,Butler,,New Orleans,REG (Non-Conf),W 57-44,*,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,1,1,1.0,0,5,5,1,0,2,0,4,9,8.4,H,1,1,andrew-smith-2,Andrew Smith,2013
+15,113,15,2013-01-09,Butler,@,Saint Joseph's,REG (Conf),W 72-66,*,34,8,15,0.533,1,2,0.5,7,13,0.538,0.567,7,7,1.0,6,4,10,0,0,1,0,4,24,21.2,A,1,1,andrew-smith-2,Andrew Smith,2013
+16,114,16,2013-01-12,Butler,@,Dayton,REG (Conf),W 79-73,*,25,4,7,0.571,1,2,0.5,3,5,0.6,0.643,4,7,0.571,2,2,4,4,0,1,0,4,13,12.4,A,1,1,andrew-smith-2,Andrew Smith,2013
+17,115,17,2013-01-16,Butler,,Richmond,REG (Conf),W 62-47,*,30,6,9,0.667,0,0,,6,9,0.667,0.667,3,5,0.6,4,3,7,3,0,0,0,2,15,15.3,H,1,1,andrew-smith-2,Andrew Smith,2013
+18,116,18,2013-01-19,Butler,,Gonzaga,REG (Non-Conf),W 64-63,*,33,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,2,0.0,1,6,7,0,0,0,0,4,7,4.8,H,1,1,andrew-smith-2,Andrew Smith,2013
+19,117,19,2013-01-23,Butler,@,La Salle,REG (Conf),L 53-54,*,34,7,10,0.7,0,0,,7,10,0.7,0.7,2,4,0.5,4,4,8,2,1,1,1,0,16,17.1,A,0,1,andrew-smith-2,Andrew Smith,2013
+20,118,20,2013-01-26,Butler,,Temple,REG (Conf),W 83-71,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,1,4,5,2,1,0,3,3,7,4.7,H,1,1,andrew-smith-2,Andrew Smith,2013
+21,119,21,2013-01-31,Butler,@,Saint Louis,REG (Conf),L 58-75,*,26,5,13,0.385,1,3,0.333,4,10,0.4,0.423,1,1,1.0,0,6,6,0,0,0,1,0,12,5.7,A,0,1,andrew-smith-2,Andrew Smith,2013
+22,120,22,2013-02-02,Butler,,Rhode Island,REG (Conf),W 75-68,*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,6,6,1.0,0,3,3,2,1,1,0,5,8,6.9,H,1,1,andrew-smith-2,Andrew Smith,2013
+23,121,23,2013-02-06,Butler,,St. Bonaventure,REG (Conf),W 77-58,*,29,3,3,1.0,1,1,1.0,2,2,1.0,1.167,6,9,0.667,3,4,7,2,3,1,4,2,13,14.5,H,1,1,andrew-smith-2,Andrew Smith,2013
+24,122,24,2013-02-09,Butler,@,George Washington,REG (Conf),W 59-56,*,24,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,2,1.0,1,4,5,0,0,0,3,5,6,-1.9,A,1,1,andrew-smith-2,Andrew Smith,2013
+25,123,26,2013-02-16,Butler,@,Fordham,REG (Conf),W 68-63,*,30,3,7,0.429,0,2,0.0,3,5,0.6,0.429,6,6,1.0,0,2,2,1,0,0,2,3,12,6.4,A,1,1,andrew-smith-2,Andrew Smith,2013
+26,124,27,2013-02-19,Butler,,Duquesne,REG (Conf),W 68-49,*,29,1,9,0.111,1,3,0.333,0,6,0.0,0.167,5,6,0.833,0,10,10,2,1,1,0,0,8,7.8,H,1,1,andrew-smith-2,Andrew Smith,2013
+27,125,28,2013-02-22,Butler,,Saint Louis,REG (Conf),L 61-65,*,35,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,2,0.5,4,5,9,3,1,1,3,4,9,8.1,H,0,1,andrew-smith-2,Andrew Smith,2013
+28,126,29,2013-03-02,Butler,@,VCU,REG (Conf),L 52-84,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,1,3,2,0,0,2,1,6,5.1,A,0,1,andrew-smith-2,Andrew Smith,2013
+29,127,30,2013-03-07,Butler,@,Massachusetts,REG (Conf),W 73-62,*,37,2,8,0.25,0,1,0.0,2,7,0.286,0.25,9,13,0.692,5,10,15,3,0,0,0,4,13,13.6,A,1,1,andrew-smith-2,Andrew Smith,2013
+30,128,31,2013-03-09,Butler,,Xavier,REG (Conf),W 67-62,*,30,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,3,0.333,0,5,5,1,0,0,2,4,7,-0.3,H,1,1,andrew-smith-2,Andrew Smith,2013
+31,129,32,2013-03-14,Butler,N,Dayton,CTOURN,W 73-67,*,31,6,11,0.545,2,3,0.667,4,8,0.5,0.636,4,6,0.667,2,4,6,0,0,0,1,2,18,12.7,N,1,0,andrew-smith-2,Andrew Smith,2013
+32,130,33,2013-03-15,Butler,N,La Salle,CTOURN,W 69-58,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,5,5,1.0,2,6,8,2,1,0,2,1,11,9.1,N,1,0,andrew-smith-2,Andrew Smith,2013
+33,131,34,2013-03-16,Butler,N,Saint Louis,CTOURN,L 56-67,*,24,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,2,0.0,0,2,2,2,0,0,2,4,8,1.2,N,0,0,andrew-smith-2,Andrew Smith,2013
+34,132,35,2013-03-21,Butler,N,Bucknell,ROUND-64,W 68-56,*,35,3,8,0.375,1,2,0.5,2,6,0.333,0.438,7,8,0.875,1,15,16,1,0,0,2,2,14,12.3,N,1,0,andrew-smith-2,Andrew Smith,2013
+35,133,36,2013-03-23,Butler,N,Marquette,ROUND-32,L 72-74,*,35,5,8,0.625,1,2,0.5,4,6,0.667,0.688,6,8,0.75,1,7,8,1,2,1,1,3,17,16.6,N,0,0,andrew-smith-2,Andrew Smith,2013

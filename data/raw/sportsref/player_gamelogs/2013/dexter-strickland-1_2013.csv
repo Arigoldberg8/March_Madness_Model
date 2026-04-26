@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2012-11-09,North Carolina,,Gardner-Webb,REG (Non-Conf),W 76-59,*,24,5,8,0.625,0,1,0.0,5,7,0.714,0.625,3,4,0.75,0,0,0,3,3,0,2,0,13,12.1,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+2,93,2,2012-11-11,North Carolina,,Florida Atlantic,REG (Non-Conf),W 80-56,*,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,6,0.333,0,1,1,3,0,0,0,3,4,1.2,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+3,94,3,2012-11-16,North Carolina,@,Long Beach State,REG (Non-Conf),W 78-63,*,27,1,8,0.125,0,1,0.0,1,7,0.143,0.125,2,2,1.0,1,5,6,6,4,1,3,1,4,6.5,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+4,95,4,2012-11-19,North Carolina,N,Mississippi State,REG (Non-Conf),W 95-49,*,19,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,2,0.5,1,0,1,5,6,0,0,3,10,13.2,N,1,1,dexter-strickland-1,Dexter Strickland,2013
+5,96,5,2012-11-20,North Carolina,N,Butler,REG (Non-Conf),L 71-82,*,30,2,7,0.286,0,1,0.0,2,6,0.333,0.286,3,4,0.75,2,1,3,0,0,0,0,3,7,3.0,N,0,1,dexter-strickland-1,Dexter Strickland,2013
+6,97,6,2012-11-21,North Carolina,@,Chaminade,REG (Non-Conf),W 112-70,*,19,4,7,0.571,0,0,,4,7,0.571,0.571,0,3,0.0,1,2,3,4,1,0,0,1,8,8.2,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+7,98,7,2012-11-27,North Carolina,@,Indiana,REG (Non-Conf),L 59-83,*,28,6,10,0.6,0,0,,6,10,0.6,0.6,2,3,0.667,0,2,2,3,1,0,2,2,14,9.9,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+8,99,8,2012-12-01,North Carolina,,UAB,REG (Non-Conf),W 102-84,*,29,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,2,0.5,1,3,4,9,0,0,4,2,11,8.7,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+9,100,9,2012-12-08,North Carolina,,East Tennessee State,REG (Non-Conf),W 78-55,*,23,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,2,3,5,7,1,0,2,0,6,8.8,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+10,101,10,2012-12-15,North Carolina,,East Carolina,REG (Non-Conf),W 93-87,*,32,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,4,0.75,0,4,4,10,3,0,3,2,12,16.4,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+11,102,11,2012-12-19,North Carolina,@,Texas,REG (Non-Conf),L 67-85,*,30,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,4,0.75,0,2,2,1,2,0,2,3,9,5.0,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+12,103,12,2012-12-22,North Carolina,,McNeese State,REG (Non-Conf),W 97-63,*,26,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,0,3,3,6,0,0,2,2,8,7.7,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+13,104,13,2012-12-29,North Carolina,,UNLV,REG (Non-Conf),W 79-73,*,33,5,8,0.625,0,1,0.0,5,7,0.714,0.625,6,10,0.6,0,3,3,2,1,0,1,2,16,12.3,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+14,105,14,2013-01-06,North Carolina,@,Virginia,REG (Conf),L 52-61,*,28,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,0,0,3,1,0,0,2,4,2.2,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+15,106,15,2013-01-10,North Carolina,,Miami (FL),REG (Conf),L 59-68,*,26,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,dexter-strickland-1,Dexter Strickland,2013
+16,107,16,2013-01-12,North Carolina,@,Florida State,REG (Conf),W 77-72,*,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,0,3,3,2,0,0,1,0,4,3.2,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+17,108,17,2013-01-19,North Carolina,,Maryland,REG (Conf),W 62-52,*,27,2,6,0.333,0,0,,2,6,0.333,0.333,2,4,0.5,1,2,3,2,4,0,2,1,6,6.1,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+18,109,18,2013-01-23,North Carolina,,Georgia Tech,REG (Conf),W 79-63,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,0,4,4,6,3,0,2,0,6,8.9,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+19,110,19,2013-01-26,North Carolina,@,NC State,REG (Conf),L 83-91,*,26,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,0,1,1,6,0,0,0,2,6,5.6,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+20,111,20,2013-01-29,North Carolina,@,Boston College,REG (Conf),W 82-70,*,31,4,10,0.4,0,0,,4,10,0.4,0.4,6,6,1.0,0,2,2,4,0,0,3,4,14,7.4,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+21,112,21,2013-02-02,North Carolina,,Virginia Tech,REG (Conf),W 72-60 (OT),*,27,2,7,0.286,0,0,,2,7,0.286,0.286,1,3,0.333,3,0,3,1,2,0,1,2,5,3.1,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+22,113,22,2013-02-05,North Carolina,,Wake Forest,REG (Conf),W 87-62,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,0,4,4,5,0,0,1,2,2,1.7,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+23,114,23,2013-02-09,North Carolina,@,Miami (FL),REG (Conf),L 61-87,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,3,0,0,0,1,2,1.6,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+24,115,24,2013-02-13,North Carolina,@,Duke,REG (Conf),L 68-73,*,34,5,8,0.625,0,0,,5,8,0.625,0.625,4,4,1.0,0,2,2,0,1,0,2,3,14,8.8,A,0,1,dexter-strickland-1,Dexter Strickland,2013
+25,116,25,2013-02-16,North Carolina,,Virginia,REG (Conf),W 93-81,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,6,8,0.75,0,1,1,6,1,0,1,1,12,13.0,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+26,117,26,2013-02-19,North Carolina,@,Georgia Tech,REG (Conf),W 70-58,*,30,2,9,0.222,0,0,,2,9,0.222,0.222,0,0,,2,4,6,7,1,0,0,1,4,6.6,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+27,118,27,2013-02-23,North Carolina,,NC State,REG (Conf),W 76-65,*,27,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,0,1,4,1,0,1,0,8,8.2,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+28,119,28,2013-02-28,North Carolina,@,Clemson,REG (Conf),W 68-59,*,34,7,9,0.778,0,1,0.0,7,8,0.875,0.778,2,2,1.0,0,3,3,4,0,1,1,1,16,15.5,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+29,120,29,2013-03-03,North Carolina,,Florida State,REG (Conf),W 79-58,*,28,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,0,1,1,4,2,0,0,2,5,6.2,H,1,1,dexter-strickland-1,Dexter Strickland,2013
+30,121,30,2013-03-06,North Carolina,@,Maryland,REG (Conf),W 79-68,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,1,1,2,6,0,0,0,0,8,11.2,A,1,1,dexter-strickland-1,Dexter Strickland,2013
+31,122,31,2013-03-09,North Carolina,,Duke,REG (Conf),L 53-69,*,31,2,8,0.25,0,0,,2,8,0.25,0.25,0,0,,0,0,0,2,0,0,2,2,4,-2.2,H,0,1,dexter-strickland-1,Dexter Strickland,2013
+32,123,32,2013-03-15,North Carolina,N,Florida State,CTOURN,W 83-62,*,30,3,8,0.375,0,0,,3,8,0.375,0.375,4,4,1.0,1,1,2,7,1,0,1,0,10,11.5,N,1,0,dexter-strickland-1,Dexter Strickland,2013
+33,124,33,2013-03-16,North Carolina,N,Maryland,CTOURN,W 79-76,*,34,7,12,0.583,0,1,0.0,7,11,0.636,0.583,1,1,1.0,0,2,2,4,0,1,3,0,15,10.5,N,1,0,dexter-strickland-1,Dexter Strickland,2013
+34,125,34,2013-03-17,North Carolina,N,Miami (FL),CTOURN,L 77-87,*,33,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,5,6,8,1,0,1,4,4,8.5,N,0,0,dexter-strickland-1,Dexter Strickland,2013
+35,126,35,2013-03-22,North Carolina,N,Villanova,ROUND-64,W 78-71,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,3,1,0,3,2,2,-0.4,N,1,0,dexter-strickland-1,Dexter Strickland,2013
+36,127,36,2013-03-24,North Carolina,N,Kansas,ROUND-32,L 58-70,*,33,3,9,0.333,0,1,0.0,3,8,0.375,0.333,3,3,1.0,2,1,3,4,1,0,1,2,9,7.6,N,0,0,dexter-strickland-1,Dexter Strickland,2013

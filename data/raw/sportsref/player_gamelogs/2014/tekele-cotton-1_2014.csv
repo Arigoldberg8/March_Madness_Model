@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2013-11-09,Wichita State,,Emporia St.,REG (Non-Conf),W 93-50,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,0,0,0,1,1,0,0,3,6,5.9,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+2,73,2,2013-11-12,Wichita State,,Western Kentucky,REG (Non-Conf),W 66-49,*,27,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,1,2,3,4,2,1,1,2,10,11.4,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+3,74,3,2013-11-14,Wichita State,,William & Mary,REG (Non-Conf),W 79-62,*,30,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,4,0.5,2,6,8,1,2,0,0,1,6,6.6,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+4,75,4,2013-11-16,Wichita State,,Tennessee State,REG (Non-Conf),W 85-71,*,27,6,8,0.75,4,4,1.0,2,4,0.5,1.0,2,2,1.0,1,2,3,1,0,0,1,3,18,14.6,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+5,76,5,2013-11-20,Wichita State,@,Tulsa,REG (Non-Conf),W 77-54,*,32,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,4,0.5,2,1,3,2,2,0,2,3,9,4.3,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+6,77,6,2013-11-25,Wichita State,N,DePaul,REG (Non-Conf),W 90-72,*,27,7,12,0.583,0,2,0.0,7,10,0.7,0.583,3,3,1.0,2,5,7,1,0,0,1,2,17,13.2,N,1,1,tekele-cotton-1,Tekele Cotton,2014
+7,78,7,2013-11-26,Wichita State,N,Brigham Young,REG (Non-Conf),W 75-62,*,23,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,2,4,6,3,0,0,0,4,7,7.1,N,1,1,tekele-cotton-1,Tekele Cotton,2014
+8,79,8,2013-12-01,Wichita State,@,Saint Louis,REG (Non-Conf),W 70-65,*,35,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,2,1.0,4,6,10,2,0,0,4,3,10,4.7,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+9,80,9,2013-12-07,Wichita State,,Oral Roberts,REG (Non-Conf),W 71-58,*,28,5,10,0.5,0,2,0.0,5,8,0.625,0.5,1,4,0.25,4,3,7,3,2,0,0,1,11,12.2,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+10,81,10,2013-12-14,Wichita State,,Tennessee,REG (Non-Conf),W 70-61,*,37,4,11,0.364,2,4,0.5,2,7,0.286,0.455,9,11,0.818,1,4,5,4,2,1,0,1,19,19.1,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+11,82,11,2013-12-17,Wichita State,@,Alabama,REG (Non-Conf),W 72-67,*,35,2,9,0.222,0,2,0.0,2,7,0.286,0.222,7,8,0.875,2,4,6,1,0,0,1,2,11,6.6,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+12,83,12,2013-12-22,Wichita State,,North Carolina Central,REG (Non-Conf),W 77-66,*,29,0,3,0.0,0,1,0.0,0,2,0.0,0.0,6,8,0.75,2,1,3,5,1,0,0,4,6,7.7,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+13,84,13,2013-12-29,Wichita State,,Davidson,REG (Non-Conf),W 81-70,*,34,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,2,0.5,1,3,4,2,1,4,1,2,10,9.9,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+14,85,14,2014-01-02,Wichita State,@,Southern Illinois,REG (Conf),W 82-67,*,34,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,2,0.0,0,3,3,1,0,0,2,2,9,4.4,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+15,86,15,2014-01-05,Wichita State,,Northern Iowa,REG (Conf),W 67-53,*,33,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,1,0.0,3,5,8,2,3,0,0,1,6,9.5,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+16,87,16,2014-01-08,Wichita State,,Illinois State,REG (Conf),W 66-47,*,28,3,10,0.3,2,3,0.667,1,7,0.143,0.4,0,0,,1,2,3,1,2,0,1,2,8,4.4,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+17,88,17,2014-01-11,Wichita State,@,Missouri State,REG (Conf),W 72-69 (OT),*,41,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,3,0.333,2,5,7,3,2,0,0,2,5,7.0,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+18,89,18,2014-01-14,Wichita State,,Bradley,REG (Conf),W 72-50,*,23,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,2,2,2,0,0,1,0,4,0.2,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+19,90,19,2014-01-18,Wichita State,,Indiana State,REG (Conf),W 68-48,*,25,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,2,0.5,2,4,6,3,1,0,2,3,5,3.0,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+20,91,20,2014-01-22,Wichita State,@,Illinois State,REG (Conf),W 70-55,*,33,4,10,0.4,1,4,0.25,3,6,0.5,0.45,3,4,0.75,2,3,5,3,1,0,3,3,12,7.4,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+21,92,21,2014-01-25,Wichita State,@,Drake,REG (Conf),W 78-61,*,27,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,1,2,3,3,1,1,1,3,8,8.3,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+22,93,22,2014-01-28,Wichita State,,Loyola Chicago,REG (Conf),W 57-45,*,29,2,9,0.222,1,4,0.25,1,5,0.2,0.278,2,4,0.5,2,2,4,3,1,0,2,1,7,3.4,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+23,94,23,2014-02-01,Wichita State,,Evansville,REG (Conf),W 81-67,*,28,4,6,0.667,2,2,1.0,2,4,0.5,0.833,2,2,1.0,1,0,1,2,1,0,1,2,12,10.7,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+24,95,24,2014-02-05,Wichita State,@,Indiana State,REG (Conf),W 65-58,*,38,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,3,0.667,1,2,3,5,1,0,1,1,14,13.0,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+25,96,25,2014-02-08,Wichita State,@,Northern Iowa,REG (Conf),W 82-73,*,38,6,10,0.6,4,7,0.571,2,3,0.667,0.8,2,4,0.5,1,3,4,4,2,0,1,3,18,16.8,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+26,97,26,2014-02-11,Wichita State,,Southern Illinois,REG (Conf),W 78-67,*,36,3,8,0.375,2,7,0.286,1,1,1.0,0.5,4,5,0.8,0,2,2,4,2,1,1,2,12,11.5,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+27,98,27,2014-02-16,Wichita State,@,Evansville,REG (Conf),W 84-68,*,35,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,2,1.0,0,2,2,3,2,0,1,0,12,11.7,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+28,99,28,2014-02-19,Wichita State,@,Loyola Chicago,REG (Conf),W 88-74,*,32,3,9,0.333,1,5,0.2,2,4,0.5,0.389,1,2,0.5,1,3,4,0,1,1,1,1,8,4.4,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+29,100,29,2014-02-22,Wichita State,,Drake,REG (Conf),W 83-54,*,32,9,12,0.75,2,5,0.4,7,7,1.0,0.833,1,1,1.0,1,1,2,0,7,1,2,1,21,22.5,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+30,101,30,2014-02-25,Wichita State,@,Bradley,REG (Conf),W 69-49,*,33,4,7,0.571,2,3,0.667,2,4,0.5,0.714,3,5,0.6,3,4,7,4,1,0,2,2,13,13.2,A,1,1,tekele-cotton-1,Tekele Cotton,2014
+31,102,31,2014-03-01,Wichita State,,Missouri State,REG (Conf),W 68-45,*,29,2,5,0.4,1,4,0.25,1,1,1.0,0.5,3,3,1.0,0,1,1,2,3,0,1,2,8,8.2,H,1,1,tekele-cotton-1,Tekele Cotton,2014
+32,103,32,2014-03-07,Wichita State,N,Evansville,CTOURN,W 80-58,*,24,4,11,0.364,3,5,0.6,1,6,0.167,0.5,0,0,,1,1,2,2,1,1,0,2,11,8.2,N,1,0,tekele-cotton-1,Tekele Cotton,2014
+33,104,33,2014-03-08,Wichita State,N,Missouri State,CTOURN,W 67-42,*,27,4,6,0.667,3,4,0.75,1,2,0.5,0.917,2,3,0.667,0,4,4,4,2,0,1,1,13,14.6,N,1,0,tekele-cotton-1,Tekele Cotton,2014
+34,105,34,2014-03-09,Wichita State,N,Indiana State,CTOURN,W 83-69,*,30,6,11,0.545,4,6,0.667,2,5,0.4,0.727,4,6,0.667,1,2,3,1,1,0,2,2,20,14.1,N,1,0,tekele-cotton-1,Tekele Cotton,2014
+35,106,35,2014-03-21,Wichita State,N,Cal Poly,ROUND-64,W 64-37,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,2,2,0,-1.5,N,1,0,tekele-cotton-1,Tekele Cotton,2014
+36,107,36,2014-03-23,Wichita State,N,Kentucky,ROUND-32,L 76-78,*,31,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,2,3,5,1,0,0,3,5,7.2,N,0,0,tekele-cotton-1,Tekele Cotton,2014

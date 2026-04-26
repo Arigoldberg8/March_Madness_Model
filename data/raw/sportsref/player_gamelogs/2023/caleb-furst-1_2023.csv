@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2022-11-08,Purdue,,Milwaukee,REG (Non-Conf),W 84-53,,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,0,4,4,0,1,2,0,1,8,8.1,H,1,1,caleb-furst-1,Caleb Furst,2023
+2,36,2,2022-11-11,Purdue,,Austin Peay,REG (Non-Conf),W 63-44,,20,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,2,5,7,0,0,0,1,2,4,3.1,H,1,1,caleb-furst-1,Caleb Furst,2023
+3,37,3,2022-11-15,Purdue,,Marquette,REG (Non-Conf),W 75-70,,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,1,2,0,0,1,0,1,2,1.6,H,1,1,caleb-furst-1,Caleb Furst,2023
+4,38,4,2022-11-24,Purdue,N,West Virginia,REG (Non-Conf),W 80-68,,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,3,1,4,1,0,0,0,2,4,5.3,N,1,1,caleb-furst-1,Caleb Furst,2023
+5,39,5,2022-11-25,Purdue,N,Gonzaga,REG (Non-Conf),W 84-66,,16,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,4,0.75,3,3,6,0,0,0,0,0,10,10.3,N,1,1,caleb-furst-1,Caleb Furst,2023
+6,40,6,2022-11-27,Purdue,N,Duke,REG (Non-Conf),W 75-56,,24,4,6,0.667,0,0,,4,6,0.667,0.667,3,5,0.6,5,5,10,2,0,1,0,2,11,13.9,N,1,1,caleb-furst-1,Caleb Furst,2023
+7,41,7,2022-11-30,Purdue,@,Florida State,REG (Non-Conf),W 79-69,,15,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,0,3,3,0,0,0,1,1,7,2.8,A,1,1,caleb-furst-1,Caleb Furst,2023
+8,42,8,2022-12-04,Purdue,,Minnesota,REG (Conf),W 89-70,*,21,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,1,1,2,1,1,0,2,3,10,7.6,H,1,1,caleb-furst-1,Caleb Furst,2023
+9,43,9,2022-12-07,Purdue,,Hofstra,REG (Non-Conf),W 85-66,*,26,5,9,0.556,0,2,0.0,5,7,0.714,0.556,2,2,1.0,3,3,6,2,0,0,1,2,12,10.3,H,1,1,caleb-furst-1,Caleb Furst,2023
+10,44,10,2022-12-10,Purdue,@,Nebraska,REG (Conf),W 65-62 (OT),*,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,2,3,2,-2.9,A,1,1,caleb-furst-1,Caleb Furst,2023
+11,45,11,2022-12-17,Purdue,N,Davidson,REG (Non-Conf),W 69-61,*,24,5,13,0.385,0,2,0.0,5,11,0.455,0.385,2,4,0.5,8,5,13,0,1,0,2,2,12,9.4,N,1,1,caleb-furst-1,Caleb Furst,2023
+12,46,12,2022-12-21,Purdue,,New Orleans,REG (Non-Conf),W 74-53,*,17,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,2,0.5,3,2,5,0,0,1,1,4,9,7.5,H,1,1,caleb-furst-1,Caleb Furst,2023
+13,47,13,2022-12-29,Purdue,,Florida A&M,REG (Non-Conf),W 82-49,*,19,4,4,1.0,0,0,,4,4,1.0,1.0,2,3,0.667,4,2,6,1,1,0,0,1,10,13.1,H,1,1,caleb-furst-1,Caleb Furst,2023
+14,48,14,2023-01-02,Purdue,,Rutgers,REG (Conf),L 64-65,*,19,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,3,0.0,1,2,3,0,0,0,0,2,7,4.0,H,0,1,caleb-furst-1,Caleb Furst,2023
+15,49,15,2023-01-05,Purdue,@,Ohio State,REG (Conf),W 71-69,*,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,5,2,7,1,0,0,0,1,3,4.6,A,1,1,caleb-furst-1,Caleb Furst,2023
+16,50,16,2023-01-08,Purdue,@,Penn State,REG (Conf),W 76-63,*,20,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,1,3,4,1,1,1,1,2,7,8.3,A,1,1,caleb-furst-1,Caleb Furst,2023
+17,51,17,2023-01-13,Purdue,,Nebraska,REG (Conf),W 73-55,*,20,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,6,6,1,1,0,0,0,5,5.1,H,1,1,caleb-furst-1,Caleb Furst,2023
+18,52,18,2023-01-16,Purdue,@,Michigan State,REG (Conf),W 64-63,*,28,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,3,3,6,2,1,0,0,3,8,10.5,A,1,1,caleb-furst-1,Caleb Furst,2023
+19,53,19,2023-01-19,Purdue,@,Minnesota,REG (Conf),W 61-39,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,6,9,1,0,1,1,2,6,7.5,A,1,1,caleb-furst-1,Caleb Furst,2023
+20,54,20,2023-01-22,Purdue,,Maryland,REG (Conf),W 58-55,*,25,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,3,2,5,1,1,2,0,2,6,6.9,H,1,1,caleb-furst-1,Caleb Furst,2023
+21,55,21,2023-01-26,Purdue,@,Michigan,REG (Conf),W 75-70,*,17,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,0,0,0,1,3,1,-1.3,A,1,1,caleb-furst-1,Caleb Furst,2023
+22,56,22,2023-01-29,Purdue,,Michigan State,REG (Conf),W 77-61,*,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,5,5,4,1,1,1,0,0,3.6,H,1,1,caleb-furst-1,Caleb Furst,2023
+23,57,23,2023-02-01,Purdue,,Penn State,REG (Conf),W 80-60,*,15,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,1,3,4,1,0,0,0,0,3,2.5,H,1,1,caleb-furst-1,Caleb Furst,2023
+24,58,24,2023-02-04,Purdue,@,Indiana,REG (Conf),L 74-79,*,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,2,2,4,2,0,0,1,3,6,4.8,A,0,1,caleb-furst-1,Caleb Furst,2023
+25,59,25,2023-02-09,Purdue,,Iowa,REG (Conf),W 87-73,*,24,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,1,0.0,4,6,10,0,0,0,1,1,11,12.3,H,1,1,caleb-furst-1,Caleb Furst,2023
+26,60,26,2023-02-12,Purdue,@,Northwestern,REG (Conf),L 58-64,*,20,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,5,6,0,1,0,0,2,6,5.0,A,0,1,caleb-furst-1,Caleb Furst,2023
+27,61,27,2023-02-16,Purdue,@,Maryland,REG (Conf),L 54-68,*,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,1,0,0,-0.4,A,0,1,caleb-furst-1,Caleb Furst,2023
+28,62,28,2023-02-19,Purdue,,Ohio State,REG (Conf),W 82-55,,20,0,0,,0,0,,0,0,,,0,0,,1,4,5,2,1,0,1,1,0,2.9,H,1,1,caleb-furst-1,Caleb Furst,2023
+29,63,29,2023-02-25,Purdue,,Indiana,REG (Conf),L 71-79,*,17,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,1,0.0,0,2,2,0,1,1,0,1,8,6.9,H,0,1,caleb-furst-1,Caleb Furst,2023
+30,64,30,2023-03-02,Purdue,@,Wisconsin,REG (Conf),W 63-61,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,0,0,2,1.3,A,1,1,caleb-furst-1,Caleb Furst,2023
+31,65,31,2023-03-05,Purdue,,Illinois,REG (Conf),W 76-71,,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,4,2,6,1,0,1,0,2,2,3.9,H,1,1,caleb-furst-1,Caleb Furst,2023
+32,66,32,2023-03-10,Purdue,N,Rutgers,CTOURN,W 70-65,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,0,caleb-furst-1,Caleb Furst,2023
+33,67,33,2023-03-11,Purdue,N,Ohio State,CTOURN,W 80-66,,14,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,3,5,0,0,0,0,3,6,5.5,N,1,0,caleb-furst-1,Caleb Furst,2023
+34,68,34,2023-03-12,Purdue,N,Penn State,CTOURN,W 67-65,,12,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,0,0,1,0,0,0,0,2,-0.4,N,1,0,caleb-furst-1,Caleb Furst,2023
+35,69,35,2023-03-17,Purdue,N,Fairleigh Dickinson,ROUND-64,L 58-63,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,1,0,0,0,1,4,4.7,N,0,0,caleb-furst-1,Caleb Furst,2023

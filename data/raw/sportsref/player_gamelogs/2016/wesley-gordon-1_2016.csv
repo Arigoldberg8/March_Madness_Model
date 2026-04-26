@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2015-11-13,Colorado,N,Iowa State,REG (Non-Conf),L 62-68,*,20,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,3,3,1,1,0,2,5,4,-1.5,N,0,1,wesley-gordon-1,Wesley Gordon,2016
+2,67,2,2015-11-17,Colorado,@,Auburn,REG (Non-Conf),W 91-84,*,32,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,3,2,5,2,1,1,1,2,8,8.3,A,1,1,wesley-gordon-1,Wesley Gordon,2016
+3,68,3,2015-11-20,Colorado,,Portland,REG (Non-Conf),W 85-63,*,19,0,2,0.0,0,0,,0,2,0.0,0.0,0,2,0.0,3,3,6,2,0,6,3,2,0,2.6,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+4,69,4,2015-11-22,Colorado,,Omaha,REG (Non-Conf),W 87-82,*,29,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,2,5,7,2,0,3,2,4,12,10.1,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+5,70,5,2015-11-25,Colorado,,Air Force,REG (Non-Conf),W 81-70,,22,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,7,8,0,1,0,1,0,1,2.7,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+6,71,6,2015-11-29,Colorado,,Northern Colorado,REG (Non-Conf),W 82-52,*,26,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,3,12,15,0,0,2,1,0,9,12.4,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+7,72,7,2015-12-02,Colorado,,Fort Lewis,REG (Non-Conf),W 95-71,*,30,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,4,6,10,1,0,1,1,1,8,8.8,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+8,73,8,2015-12-06,Colorado,@,Colorado State,REG (Non-Conf),W 88-77,*,33,3,4,0.75,2,2,1.0,1,2,0.5,1.0,7,9,0.778,5,7,12,1,0,3,0,1,15,20.6,A,1,1,wesley-gordon-1,Wesley Gordon,2016
+9,74,9,2015-12-12,Colorado,,Brigham Young,REG (Non-Conf),W 92-83,*,29,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,4,0.75,2,3,5,1,1,3,0,3,9,9.1,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+10,75,10,2015-12-18,Colorado,,Nicholls State,REG (Non-Conf),W 85-68,*,31,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,2,5,7,1,0,7,1,1,5,10.0,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+11,76,11,2015-12-19,Colorado,,Hampton,REG (Non-Conf),W 95-53,*,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,1,0,2,2,0.5,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+12,77,12,2015-12-22,Colorado,N,Penn State,REG (Non-Conf),W 71-70,*,31,2,5,0.4,0,0,,2,5,0.4,0.4,6,8,0.75,2,4,6,2,1,3,2,1,10,11.2,N,1,1,wesley-gordon-1,Wesley Gordon,2016
+13,78,13,2015-12-23,Colorado,N,SMU,REG (Non-Conf),L 66-70,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,2,2,4,0,1,2,2,5,2.9,N,0,1,wesley-gordon-1,Wesley Gordon,2016
+14,79,14,2016-01-01,Colorado,@,California,REG (Conf),L 65-79,*,26,3,9,0.333,0,1,0.0,3,8,0.375,0.333,5,8,0.625,3,6,9,0,0,1,0,3,11,8.1,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+15,80,15,2016-01-03,Colorado,@,Stanford,REG (Conf),W 56-55,*,33,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,5,4,9,1,0,2,2,2,6,6.3,A,1,1,wesley-gordon-1,Wesley Gordon,2016
+16,81,16,2016-01-08,Colorado,,Utah,REG (Conf),L 54-56,*,27,2,10,0.2,0,0,,2,10,0.2,0.2,0,0,,6,3,9,1,0,0,1,3,4,1.4,H,0,1,wesley-gordon-1,Wesley Gordon,2016
+17,82,17,2016-01-13,Colorado,,Oregon State,REG (Conf),W 71-54,*,32,3,6,0.5,1,1,1.0,2,5,0.4,0.583,5,7,0.714,7,7,14,0,0,6,1,1,12,18.0,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+18,83,18,2016-01-17,Colorado,,Oregon,REG (Conf),W 91-87,*,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,0,2,0,0,1,0,2,2,1.6,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+19,84,19,2016-01-20,Colorado,@,Washington,REG (Conf),L 83-95,*,31,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,2,4,2,0,2,3,3,6,5.3,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+20,85,20,2016-01-23,Colorado,@,Washington State,REG (Conf),W 75-70,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,0,3,3,0,2,0,0,4,8,5.9,A,1,1,wesley-gordon-1,Wesley Gordon,2016
+21,86,21,2016-01-27,Colorado,,Stanford,REG (Conf),W 91-75,*,26,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,3,0.667,2,5,7,2,0,2,0,2,5,7.8,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+22,87,22,2016-01-31,Colorado,,California,REG (Conf),W 70-62,*,24,2,6,0.333,1,1,1.0,1,5,0.2,0.417,1,3,0.333,3,5,8,0,0,2,0,4,6,5.2,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+23,88,23,2016-02-04,Colorado,@,Oregon,REG (Conf),L 56-76,*,28,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,3,4,1,0,1,1,2,0,-0.9,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+24,89,24,2016-02-06,Colorado,@,Oregon State,REG (Conf),L 56-60,*,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,4,0.75,5,6,11,0,0,1,2,0,13,12.3,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+25,90,25,2016-02-11,Colorado,,Washington State,REG (Conf),W 88-81 (2OT),*,45,6,8,0.75,0,0,,6,8,0.75,0.75,3,5,0.6,5,7,12,1,0,4,1,2,15,18.3,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+26,91,26,2016-02-13,Colorado,,Washington,REG (Conf),W 81-80,*,28,4,8,0.5,0,0,,4,8,0.5,0.5,9,11,0.818,8,5,13,0,2,4,1,4,17,21.5,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+27,92,27,2016-02-17,Colorado,@,Southern California,REG (Conf),L 72-79,*,32,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,8,0.625,2,5,7,1,0,2,0,3,13,12.3,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+28,93,28,2016-02-20,Colorado,@,UCLA,REG (Conf),L 53-77,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,3,5,0.6,1,5,6,1,4,1,1,4,7,7.8,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+29,94,29,2016-02-24,Colorado,,Arizona,REG (Conf),W 75-72,*,29,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,7,5,12,6,0,1,1,2,8,15.2,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+30,95,30,2016-02-28,Colorado,,Arizona State,REG (Conf),W 79-69,*,31,0,4,0.0,0,0,,0,4,0.0,0.0,5,6,0.833,6,5,11,2,0,1,1,0,5,8.6,H,1,1,wesley-gordon-1,Wesley Gordon,2016
+31,96,31,2016-03-05,Colorado,@,Utah,REG (Conf),L 55-57,*,31,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,8,8,2,0,4,0,2,2,5.4,A,0,1,wesley-gordon-1,Wesley Gordon,2016
+32,97,32,2016-03-09,Colorado,N,Washington State,CTOURN,W 80-56,*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,5,7,3,0,0,3,4,2,-0.7,N,1,0,wesley-gordon-1,Wesley Gordon,2016
+33,98,33,2016-03-10,Colorado,N,Arizona,CTOURN,L 78-82,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,3,5,8,2,0,0,2,4,7,5.7,N,0,0,wesley-gordon-1,Wesley Gordon,2016
+34,99,34,2016-03-17,Colorado,N,Connecticut,ROUND-64,L 67-74,*,32,4,8,0.5,0,0,,4,8,0.5,0.5,1,4,0.25,3,6,9,2,0,2,2,4,9,6.9,N,0,0,wesley-gordon-1,Wesley Gordon,2016

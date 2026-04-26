@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2010-11-12,UTSA,,Huston-Tilotson,REG (Non-Conf),W 82-65,,15,5,11,0.455,1,5,0.2,4,6,0.667,0.5,1,1,1.0,0,1,1,1,0,0,0,2,12,6.5,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+2,30,2,2010-11-17,UTSA,@,Evansville,REG (Non-Conf),L 73-77,,28,5,12,0.417,2,7,0.286,3,5,0.6,0.5,1,1,1.0,0,1,1,0,0,0,3,3,13,2.7,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+3,31,3,2010-11-19,UTSA,,Cameron,REG (Non-Conf),W 71-61,,21,4,9,0.444,3,5,0.6,1,4,0.25,0.611,3,4,0.75,0,1,1,0,2,0,3,3,14,7.0,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+4,32,4,2010-11-22,UTSA,,Troy,REG (Non-Conf),W 81-70,,20,4,12,0.333,4,10,0.4,0,2,0.0,0.5,2,2,1.0,0,4,4,0,0,0,1,1,14,7.0,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+5,33,5,2010-11-30,UTSA,,San Jose State,REG (Non-Conf),W 72-63,,28,9,16,0.563,4,9,0.444,5,7,0.714,0.688,0,0,,0,4,4,0,3,0,2,1,22,16.2,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+6,34,6,2010-12-02,UTSA,@,UC Riverside,REG (Non-Conf),L 75-82,,24,5,16,0.313,3,11,0.273,2,5,0.4,0.406,0,0,,0,1,1,1,1,0,0,0,13,5.8,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+7,35,7,2010-12-04,UTSA,@,Pepperdine,REG (Non-Conf),W 86-81,,21,4,9,0.444,3,4,0.75,1,5,0.2,0.611,1,1,1.0,0,0,0,2,1,0,1,3,12,7.5,A,1,1,melvin-johnson-1,Melvin Johnson III,2011
+8,36,8,2010-12-11,UTSA,@,Houston,REG (Non-Conf),W 68-63,,16,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,3,4,1,0,0,0,0,8,6.3,A,1,1,melvin-johnson-1,Melvin Johnson III,2011
+9,37,9,2010-12-20,UTSA,,Samford,REG (Non-Conf),L 73-74,,18,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,0,5,5,0,0,0,1,2,13,7.7,H,0,1,melvin-johnson-1,Melvin Johnson III,2011
+10,38,10,2010-12-23,UTSA,@,Tulsa,REG (Non-Conf),L 67-92,,22,6,14,0.429,1,6,0.167,5,8,0.625,0.464,4,5,0.8,1,2,3,0,2,0,1,2,17,10.7,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+11,39,11,2010-12-30,UTSA,@,Bowling Green,REG (Non-Conf),L 59-70,,28,3,12,0.25,2,9,0.222,1,3,0.333,0.333,2,2,1.0,0,3,3,0,1,0,1,1,10,3.3,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+12,40,12,2011-01-03,UTSA,@,Oklahoma State,REG (Non-Conf),L 63-79,,22,5,12,0.417,4,7,0.571,1,5,0.2,0.583,2,3,0.667,0,5,5,0,1,0,1,0,16,10.7,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+13,41,13,2011-01-08,UTSA,,Sam Houston State,REG (Conf),L 59-62,,21,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,0,3,3,0,0,0,1,0,8,2.1,H,0,1,melvin-johnson-1,Melvin Johnson III,2011
+14,42,14,2011-01-12,UTSA,@,Texas A&M–Corpus Christi,REG (Conf),W 55-47,*,32,8,15,0.533,3,7,0.429,5,8,0.625,0.633,0,0,,1,6,7,0,0,0,1,1,19,12.8,A,1,1,melvin-johnson-1,Melvin Johnson III,2011
+15,43,15,2011-01-15,UTSA,,Stephen F. Austin,REG (Conf),L 59-68,*,32,4,10,0.4,1,5,0.2,3,5,0.6,0.45,2,2,1.0,0,2,2,0,0,0,2,2,11,3.4,H,0,1,melvin-johnson-1,Melvin Johnson III,2011
+16,44,16,2011-01-19,UTSA,@,Northwestern State,REG (Conf),W 63-58,*,21,4,12,0.333,3,7,0.429,1,5,0.2,0.458,0,0,,0,3,3,0,0,0,4,3,11,-0.1,A,1,1,melvin-johnson-1,Melvin Johnson III,2011
+17,45,17,2011-01-22,UTSA,,Texas State San Marcos,REG (Conf),W 88-84,*,33,6,15,0.4,3,9,0.333,3,6,0.5,0.5,6,6,1.0,2,8,10,0,0,0,5,1,21,11.3,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+18,46,18,2011-01-24,UTSA,,Okla. Panhandle St.,REG (Non-Conf),W 71-50,*,14,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,2,1.0,0,3,3,0,1,0,0,2,10,8.1,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+19,47,19,2011-01-29,UTSA,@,Sam Houston State,REG (Conf),L 67-88,*,24,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,0,2,2,3,2,1,2,3,9,7.5,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+20,48,20,2011-02-02,UTSA,,UT Arlington,REG (Conf),W 70-62,*,32,8,16,0.5,4,7,0.571,4,9,0.444,0.625,2,2,1.0,1,4,5,0,0,3,1,2,22,16.2,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+21,49,21,2011-02-05,UTSA,,Lamar,REG (Conf),W 70-64,*,37,8,17,0.471,1,5,0.2,7,12,0.583,0.5,7,10,0.7,1,4,5,0,1,0,1,2,24,15.2,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+22,50,22,2011-02-09,UTSA,@,Southeastern Louisiana,REG (Conf),L 73-79,*,31,4,10,0.4,4,6,0.667,0,4,0.0,0.6,2,2,1.0,0,1,1,0,0,0,2,2,14,6.1,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+23,51,23,2011-02-12,UTSA,@,Stephen F. Austin,REG (Conf),L 66-70,*,38,5,17,0.294,1,7,0.143,4,10,0.4,0.324,6,6,1.0,1,3,4,1,1,0,1,0,17,9.4,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+24,52,24,2011-02-16,UTSA,,McNeese State,REG (Conf),W 65-61,*,37,6,17,0.353,2,8,0.25,4,9,0.444,0.412,0,0,,2,3,5,1,2,0,0,1,14,9.1,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+25,53,25,2011-02-19,UTSA,@,Nicholls State,REG (Conf),L 52-54,*,34,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,2,1.0,0,7,7,0,1,0,2,2,11,6.6,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+26,54,26,2011-02-23,UTSA,,Texas A&M–Corpus Christi,REG (Conf),W 71-62,*,19,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,0,1,1,0,0,0,4,1,10,1.5,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+27,55,27,2011-02-26,UTSA,@,Texas State San Marcos,REG (Conf),L 80-82,*,30,7,14,0.5,6,9,0.667,1,5,0.2,0.714,1,2,0.5,0,3,3,2,0,0,3,2,21,12.1,A,0,1,melvin-johnson-1,Melvin Johnson III,2011
+28,56,28,2011-03-02,UTSA,,Central Arkansas,REG (Conf),W 70-58,*,30,6,11,0.545,4,6,0.667,2,5,0.4,0.727,4,4,1.0,1,2,3,1,2,0,1,3,20,16.5,H,1,1,melvin-johnson-1,Melvin Johnson III,2011
+29,57,29,2011-03-05,UTSA,@,UT Arlington,REG (Conf),W 68-63,*,25,6,11,0.545,2,4,0.5,4,7,0.571,0.636,7,7,1.0,2,2,4,3,2,1,1,3,21,20.3,A,1,1,melvin-johnson-1,Melvin Johnson III,2011
+30,58,30,2011-03-09,UTSA,N,Northwestern State,CTOURN,W 97-96,*,31,6,14,0.429,3,5,0.6,3,9,0.333,0.536,3,4,0.75,1,2,3,1,3,0,4,3,18,10.0,N,1,0,melvin-johnson-1,Melvin Johnson III,2011
+31,59,31,2011-03-10,UTSA,N,Sam Houston State,CTOURN,W 79-70,*,23,4,11,0.364,1,3,0.333,3,8,0.375,0.409,5,6,0.833,1,2,3,1,0,0,2,2,14,6.7,N,1,0,melvin-johnson-1,Melvin Johnson III,2011
+32,60,32,2011-03-12,UTSA,N,McNeese State,CTOURN,W 75-72,*,38,4,13,0.308,1,9,0.111,3,4,0.75,0.346,5,6,0.833,0,4,4,1,2,0,3,2,14,6.2,N,1,0,melvin-johnson-1,Melvin Johnson III,2011
+33,61,33,2011-03-16,UTSA,N,Alabama State,FIRST-FOUR,W 70-61,*,31,9,17,0.529,2,8,0.25,7,9,0.778,0.588,9,13,0.692,0,3,3,1,2,0,1,2,29,20.9,N,1,0,melvin-johnson-1,Melvin Johnson III,2011
+34,62,34,2011-03-18,UTSA,N,Ohio State,ROUND-64,L 46-75,*,38,1,9,0.111,1,8,0.125,0,1,0.0,0.167,2,2,1.0,2,3,5,1,0,0,2,2,5,-0.7,N,0,0,melvin-johnson-1,Melvin Johnson III,2011

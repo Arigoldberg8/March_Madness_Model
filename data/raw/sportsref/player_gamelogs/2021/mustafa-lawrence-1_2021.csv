@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2020-11-27,Norfolk State,@,James Madison,REG (Non-Conf),W 83-73,*,17,2,9,0.222,1,5,0.2,1,4,0.25,0.278,4,4,1.0,1,2,3,3,0,0,0,4,9,5.3,A,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+2,42,2,2020-11-28,Norfolk State,N,Radford,REG (Non-Conf),W 57-54,*,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,2,2,1,0,0,2,2,4,-0.6,N,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+3,43,3,2020-12-02,Norfolk State,,Old Dominion,REG (Non-Conf),L 66-80,*,16,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,2,0.5,0,2,2,2,1,0,2,1,6,2.1,H,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+4,44,5,2020-12-13,Norfolk State,@,UNC Greensboro,REG (Non-Conf),L 47-64,*,39,2,9,0.222,0,3,0.0,2,6,0.333,0.222,2,2,1.0,0,2,2,0,3,0,5,2,6,-1.7,A,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+5,45,6,2020-12-18,Norfolk State,,UNC Wilmington,REG (Non-Conf),L 72-80,*,11,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,1,1,0,2,0,0,1,2,0.8,H,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+6,46,7,2020-12-26,Norfolk State,@,George Mason,REG (Non-Conf),W 68-65,*,25,4,9,0.444,1,6,0.167,3,3,1.0,0.5,4,6,0.667,1,3,4,0,3,0,0,2,13,11.3,A,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+7,47,8,2021-01-09,Norfolk State,,Morgan State,REG (Conf),L 74-78,*,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,6,0.833,0,1,1,0,2,0,2,1,10,7.5,H,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+8,48,9,2021-01-10,Norfolk State,,Morgan State,REG (Conf),W 89-85,*,9,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,2,0,0,1,1,5,3.7,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+9,49,10,2021-01-13,Norfolk State,,N.C. Wesleyan,REG (Non-Conf),W 80-58,,12,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,3,1,0,0,1,6,6.7,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+10,50,11,2021-01-16,Norfolk State,@,Delaware State,REG (Conf),W 87-76,,13,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,0,0,0,1,0,0,2,7,4.9,A,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+11,51,13,2021-01-23,Norfolk State,@,Coppin State,REG (Conf),L 71-81,,9,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,0,0,0,0,2,3,-0.2,A,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+12,52,14,2021-01-24,Norfolk State,@,Coppin State,REG (Conf),L 77-81,,11,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,3,0.667,0,0,0,3,0,0,0,3,10,7.5,A,0,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+13,53,15,2021-01-30,Norfolk State,,Delaware State,REG (Conf),W 94-66,,16,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,1,2,7,0,0,1,1,0,2.4,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+14,54,16,2021-02-07,Norfolk State,,Coppin State,REG (Conf),W 84-72,,6,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,1,3,2.6,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+15,55,18,2021-02-13,Norfolk State,@,Morgan State,REG (Conf),W 74-69,,16,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,3,0,-3.3,A,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+16,56,19,2021-02-14,Norfolk State,@,Morgan State,REG (Conf),W 68-65,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,0,0,-0.4,A,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+17,57,20,2021-02-24,Norfolk State,,Delaware State,REG (Conf),W 86-55,*,25,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,1,0.0,0,1,1,2,0,0,2,3,8,3.8,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+18,58,21,2021-02-28,Norfolk State,,St. Mary's (MD),REG (Non-Conf),W 72-51,,10,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,2,1,0,2,2,6,4.6,H,1,1,mustafa-lawrence-1,Mustafa Lawrence,2021
+19,59,22,2021-03-11,Norfolk State,N,North Carolina Central,CTOURN,W 87-58,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,1,0,0,0,4,3,0.4,N,1,0,mustafa-lawrence-1,Mustafa Lawrence,2021
+20,60,23,2021-03-13,Norfolk State,N,Morgan State,CTOURN,W 71-63,,15,1,7,0.143,1,6,0.167,0,1,0.0,0.214,5,5,1.0,0,0,0,3,1,0,0,2,8,5.8,N,1,0,mustafa-lawrence-1,Mustafa Lawrence,2021
+21,61,24,2021-03-18,Norfolk State,N,Appalachian State,FIRST-FOUR,W 54-53,,12,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,1,0,0,0,0,-1.1,N,1,0,mustafa-lawrence-1,Mustafa Lawrence,2021
+22,62,25,2021-03-20,Norfolk State,N,Gonzaga,ROUND-64,L 55-98,,9,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,0,1,2,0,0,0,1,2,2.0,N,0,0,mustafa-lawrence-1,Mustafa Lawrence,2021

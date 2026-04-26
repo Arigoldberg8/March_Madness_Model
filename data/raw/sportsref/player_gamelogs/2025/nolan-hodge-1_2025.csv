@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,49,1,2024-11-04,UNC Wilmington,,Mount Olive,REG (Non-Conf),W 143-91,*,15,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,2,2,4,2,0,0,2,1,4,2.6,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+2,50,2,2024-11-08,UNC Wilmington,,Georgia Southern,REG (Non-Conf),W 92-84,*,24,0,4,0.0,0,2,0.0,0,2,0.0,0.0,5,6,0.833,1,3,4,0,1,0,0,1,5,4.0,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+3,51,4,2024-11-19,UNC Wilmington,@,Kansas,REG (Non-Conf),L 66-84,,20,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,1,2,3,1,2,0,0,3,9,9.5,A,0,1,nolan-hodge-1,Nolan Hodge,2025
+4,52,5,2024-11-27,UNC Wilmington,,Colgate,REG (Non-Conf),L 59-72,*,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,2,0,0,-2.1,H,0,1,nolan-hodge-1,Nolan Hodge,2025
+5,53,6,2024-11-29,UNC Wilmington,,Sam Houston State,REG (Non-Conf),W 69-60,*,27,2,4,0.5,1,3,0.333,1,1,1.0,0.625,4,4,1.0,3,2,5,2,2,1,1,3,9,11.6,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+6,54,7,2024-11-30,UNC Wilmington,,Appalachian State,REG (Non-Conf),W 76-61,*,35,6,10,0.6,2,5,0.4,4,5,0.8,0.7,1,2,0.5,2,4,6,3,0,0,0,0,15,14.7,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+7,55,8,2024-12-03,UNC Wilmington,@,East Carolina,REG (Non-Conf),W 67-53,*,29,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,4,4,8,0,1,0,1,1,9,9.6,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+8,56,9,2024-12-07,UNC Wilmington,,Marshall,REG (Non-Conf),W 78-69,*,19,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,2,2,2,0,0,1,3,2,-2.0,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+9,57,10,2024-12-14,UNC Wilmington,@,Howard,REG (Non-Conf),L 83-88,*,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,1,2,3,0,0,0,4,7,6.5,A,0,1,nolan-hodge-1,Nolan Hodge,2025
+10,58,11,2024-12-18,UNC Wilmington,,Florida Gulf Coast,REG (Non-Conf),W 79-66,*,29,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,4,0.25,0,3,3,1,1,0,0,2,11,9.0,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+11,59,12,2024-12-21,UNC Wilmington,,UNC Asheville,REG (Non-Conf),W 85-74,*,33,6,9,0.667,1,3,0.333,5,6,0.833,0.722,8,8,1.0,3,0,3,2,1,0,2,2,21,18.8,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+12,60,13,2024-12-28,UNC Wilmington,,Spartanburg Methodist,REG (Non-Conf),W 99-47,*,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,3,10,13,1,0,1,3,1,7,6.3,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+13,61,14,2025-01-02,UNC Wilmington,,Towson,REG (Conf),L 61-65 (OT),*,35,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,3,2,5,0,1,0,0,2,0,-0.6,H,0,1,nolan-hodge-1,Nolan Hodge,2025
+14,62,15,2025-01-04,UNC Wilmington,,Campbell,REG (Conf),W 77-69,*,7,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-3.5,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+15,63,16,2025-01-09,UNC Wilmington,@,Monmouth,REG (Conf),W 64-55,*,26,3,6,0.5,3,4,0.75,0,2,0.0,0.75,1,2,0.5,5,3,8,0,0,0,3,2,10,7.2,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+16,64,17,2025-01-11,UNC Wilmington,@,Hofstra,REG (Conf),L 63-66,*,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,2,2,4,1,0,0,0,2,1,-0.3,A,0,1,nolan-hodge-1,Nolan Hodge,2025
+17,65,18,2025-01-16,UNC Wilmington,,Northeastern,REG (Conf),W 80-72,,17,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,0,2,2,1,1,0,0,3,4,1.3,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+18,66,19,2025-01-20,UNC Wilmington,,William & Mary,REG (Conf),W 85-74,,18,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,0,1,1,1,1,1,1,2,1,-1.3,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+19,67,20,2025-01-23,UNC Wilmington,@,College of Charleston,REG (Conf),W 85-83,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,1,0,0,0,1,4,3.6,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+20,68,21,2025-01-25,UNC Wilmington,,Hampton,REG (Conf),W 83-62,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,2,4,6,0,0,0,2,2,5,4.2,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+21,69,22,2025-01-30,UNC Wilmington,@,North Carolina A&T,REG (Conf),W 83-59,,25,4,9,0.444,2,4,0.5,2,5,0.4,0.556,2,2,1.0,0,2,2,2,0,0,2,1,12,6.9,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+22,70,23,2025-02-01,UNC Wilmington,,Stony Brook,REG (Conf),W 80-70,,20,3,6,0.5,2,3,0.667,1,3,0.333,0.667,4,5,0.8,0,1,1,2,0,0,0,3,12,9.1,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+23,71,24,2025-02-06,UNC Wilmington,@,Delaware,REG (Conf),W 77-67,,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,5,3,8,1,2,0,2,0,4,5.7,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+24,72,25,2025-02-08,UNC Wilmington,@,Drexel,REG (Conf),W 81-79 (2OT),,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,0,1,2,0,0,0,0,5,5.1,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+25,73,26,2025-02-13,UNC Wilmington,,College of Charleston,REG (Conf),W 86-66,,18,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,1,1,2,1,0,0,1,2,11,8.3,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+26,74,27,2025-02-15,UNC Wilmington,,Elon,REG (Conf),L 70-81,,29,9,16,0.563,0,4,0.0,9,12,0.75,0.563,0,0,,5,1,6,1,0,0,2,1,18,12.5,H,0,1,nolan-hodge-1,Nolan Hodge,2025
+27,75,28,2025-02-22,UNC Wilmington,@,Hampton,REG (Conf),L 70-83,,15,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,1,1,0,0,0,1,1,6,2.9,A,0,1,nolan-hodge-1,Nolan Hodge,2025
+28,76,29,2025-02-24,UNC Wilmington,@,William & Mary,REG (Conf),W 79-70,,24,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,2,1.0,1,2,3,0,0,0,2,2,10,4.8,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+29,77,30,2025-02-27,UNC Wilmington,@,Campbell,REG (Conf),W 79-60,,23,3,4,0.75,2,2,1.0,1,2,0.5,1.0,1,2,0.5,1,4,5,3,0,1,1,2,9,9.9,A,1,1,nolan-hodge-1,Nolan Hodge,2025
+30,78,31,2025-03-01,UNC Wilmington,,Delaware,REG (Conf),W 88-58,,24,4,4,1.0,2,2,1.0,2,2,1.0,1.25,2,3,0.667,1,2,3,4,1,0,1,3,12,13.3,H,1,1,nolan-hodge-1,Nolan Hodge,2025
+31,79,32,2025-03-09,UNC Wilmington,N,Hampton,CTOURN,W 79-65,,29,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,2,0,0,2,2,2,0.2,N,1,0,nolan-hodge-1,Nolan Hodge,2025
+32,80,33,2025-03-10,UNC Wilmington,N,College of Charleston,CTOURN,W 68-67,,29,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,1,1,2,0,2,0,1,1,8,6.6,N,1,0,nolan-hodge-1,Nolan Hodge,2025
+33,81,34,2025-03-11,UNC Wilmington,N,Delaware,CTOURN,W 76-72,,33,3,8,0.375,1,5,0.2,2,3,0.667,0.438,1,2,0.5,0,3,3,1,0,0,1,2,8,3.0,N,1,0,nolan-hodge-1,Nolan Hodge,2025
+34,82,35,2025-03-20,UNC Wilmington,N,Texas Tech,ROUND-64,L 72-82,,32,7,15,0.467,2,7,0.286,5,8,0.625,0.533,2,3,0.667,2,5,7,3,0,0,1,2,18,13.1,N,0,0,nolan-hodge-1,Nolan Hodge,2025

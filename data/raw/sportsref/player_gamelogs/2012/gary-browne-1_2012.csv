@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,West Virginia,,Oral Roberts,REG (Non-Conf),W 78-71,,32,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,2,2,6,2,0,4,0,9,7.8,H,1,1,gary-browne-1,Gary Browne,2012
+2,2,2,2011-11-15,West Virginia,,Kent State,REG (Non-Conf),L 60-70,,18,0,1,0.0,0,0,,0,1,0.0,0.0,2,4,0.5,1,0,1,2,1,0,1,4,2,1.0,H,0,1,gary-browne-1,Gary Browne,2012
+3,3,3,2011-11-17,West Virginia,,Alcorn State,REG (Non-Conf),W 97-62,,27,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,5,0.4,2,10,12,4,2,0,2,1,8,8.5,H,1,1,gary-browne-1,Gary Browne,2012
+4,4,4,2011-11-22,West Virginia,N,Morehead State,REG (Non-Conf),W 83-48,,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,9,0.444,2,4,6,5,1,0,1,1,10,10.7,N,1,1,gary-browne-1,Gary Browne,2012
+5,5,5,2011-11-28,West Virginia,,Akron,REG (Non-Conf),W 77-56,,22,2,5,0.4,0,0,,2,5,0.4,0.4,2,4,0.5,0,0,0,4,3,0,2,3,6,5.1,H,1,1,gary-browne-1,Gary Browne,2012
+6,6,6,2011-12-03,West Virginia,@,Mississippi State,REG (Non-Conf),L 62-75,,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,1,0,2,1,0,-0.8,A,0,1,gary-browne-1,Gary Browne,2012
+7,7,7,2011-12-08,West Virginia,N,Kansas State,REG (Non-Conf),W 85-80 (2OT),,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,0,4,4,3,0,0,6,4,6,-2.5,N,1,1,gary-browne-1,Gary Browne,2012
+8,8,8,2011-12-10,West Virginia,,Miami (FL),REG (Non-Conf),W 77-66,,28,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,2,0.5,0,2,2,6,0,0,3,3,9,6.9,H,1,1,gary-browne-1,Gary Browne,2012
+9,9,9,2011-12-17,West Virginia,,Texas A&M–Corpus Christi,REG (Non-Conf),W 84-64,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,4,2,0,3,4,3,1.8,H,1,1,gary-browne-1,Gary Browne,2012
+10,10,10,2011-12-19,West Virginia,,Tennessee Tech,REG (Non-Conf),W 72-53,,22,0,2,0.0,0,0,,0,2,0.0,0.0,5,6,0.833,0,2,2,2,2,0,2,1,5,4.8,H,1,1,gary-browne-1,Gary Browne,2012
+11,11,11,2011-12-22,West Virginia,N,Missouri State,REG (Non-Conf),W 70-68 (OT),,31,6,12,0.5,1,4,0.25,5,8,0.625,0.542,0,1,0.0,0,7,7,2,1,0,2,1,13,8.7,N,1,1,gary-browne-1,Gary Browne,2012
+12,12,12,2011-12-23,West Virginia,N,Baylor,REG (Non-Conf),L 81-83 (OT),,28,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,3,4,1,2,0,5,3,0,-4.0,N,0,1,gary-browne-1,Gary Browne,2012
+13,13,13,2011-12-28,West Virginia,,Villanova,REG (Conf),W 83-69,,22,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,1,2,3,3,1,0,2,2,11,10.0,H,1,1,gary-browne-1,Gary Browne,2012
+14,14,14,2011-12-30,West Virginia,@,Seton Hall,REG (Conf),L 48-67,,20,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,4,5,2,0,0,4,1,5,2.6,A,0,1,gary-browne-1,Gary Browne,2012
+15,15,15,2012-01-04,West Virginia,@,Rutgers,REG (Conf),W 85-64,,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,3,3,0,0,2,4,6.2,A,1,1,gary-browne-1,Gary Browne,2012
+16,16,16,2012-01-07,West Virginia,,Georgetown,REG (Conf),W 74-62,,19,3,4,0.75,0,0,,3,4,0.75,0.75,6,6,1.0,0,3,3,1,1,0,3,3,12,8.8,H,1,1,gary-browne-1,Gary Browne,2012
+17,17,17,2012-01-09,West Virginia,@,Connecticut,REG (Conf),L 57-64,,33,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,4,3,7,4,2,0,1,2,5,6.9,A,0,1,gary-browne-1,Gary Browne,2012
+18,18,18,2012-01-14,West Virginia,,Rutgers,REG (Conf),W 84-60,,14,1,2,0.5,0,0,,1,2,0.5,0.5,4,6,0.667,0,5,5,6,3,0,3,2,6,9.1,H,1,1,gary-browne-1,Gary Browne,2012
+19,19,19,2012-01-18,West Virginia,N,Marshall,REG (Non-Conf),W 78-62,,34,3,7,0.429,0,2,0.0,3,5,0.6,0.429,4,6,0.667,2,3,5,2,1,0,4,2,10,5.4,N,1,1,gary-browne-1,Gary Browne,2012
+20,20,20,2012-01-21,West Virginia,,Cincinnati,REG (Conf),W 77-74 (OT),,28,5,10,0.5,1,3,0.333,4,7,0.571,0.55,2,3,0.667,4,5,9,0,2,0,0,2,13,13.1,H,1,1,gary-browne-1,Gary Browne,2012
+21,21,21,2012-01-25,West Virginia,@,St. John's (NY),REG (Conf),L 62-78,,14,0,0,,0,0,,0,0,,,0,4,0.0,0,0,0,2,2,0,3,2,0,-2.0,A,0,1,gary-browne-1,Gary Browne,2012
+22,22,22,2012-01-28,West Virginia,@,Syracuse,REG (Conf),L 61-63,,31,3,6,0.5,1,2,0.5,2,4,0.5,0.583,4,4,1.0,4,1,5,3,0,0,1,3,11,11.0,A,0,1,gary-browne-1,Gary Browne,2012
+23,23,23,2012-01-30,West Virginia,,Pittsburgh,REG (Conf),L 66-72,,28,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,5,0.8,2,0,2,2,1,0,2,1,6,5.3,H,0,1,gary-browne-1,Gary Browne,2012
+24,24,24,2012-02-05,West Virginia,@,Providence,REG (Conf),W 87-84 (OT),,36,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,2,7,9,6,0,0,1,3,5,7.1,A,1,1,gary-browne-1,Gary Browne,2012
+25,25,25,2012-02-08,West Virginia,,Notre Dame,REG (Conf),L 51-55,,32,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,2,0.0,2,2,4,2,0,0,0,5,4,1.2,H,0,1,gary-browne-1,Gary Browne,2012
+26,26,26,2012-02-11,West Virginia,,Louisville,REG (Conf),L 74-77,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,4,5,2,0,0,2,3,4,2.4,H,0,1,gary-browne-1,Gary Browne,2012
+27,27,27,2012-02-16,West Virginia,@,Pittsburgh,REG (Conf),W 66-48,*,38,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,4,1.0,2,1,3,5,2,0,1,2,12,13.4,A,1,1,gary-browne-1,Gary Browne,2012
+28,28,28,2012-02-22,West Virginia,@,Notre Dame,REG (Conf),L 44-71,*,34,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,2,1,0,3,1,4,2.3,A,0,1,gary-browne-1,Gary Browne,2012
+29,29,29,2012-02-24,West Virginia,,Marquette,REG (Conf),L 60-61,,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,1,1,2,2,2,0,1,2,2,2.1,H,0,1,gary-browne-1,Gary Browne,2012
+30,30,30,2012-02-28,West Virginia,,DePaul,REG (Conf),W 92-75,,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,4,1.0,0,2,2,3,0,0,2,1,6,3.9,H,1,1,gary-browne-1,Gary Browne,2012
+31,31,31,2012-03-03,West Virginia,@,South Florida,REG (Conf),W 50-44,,25,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,5,6,3,1,0,0,0,4,8.0,A,1,1,gary-browne-1,Gary Browne,2012
+32,32,32,2012-03-07,West Virginia,N,Connecticut,CTOURN,L 67-71 (OT),,30,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,4,4,3,1,0,1,3,4,4.1,N,0,0,gary-browne-1,Gary Browne,2012
+33,33,33,2012-03-15,West Virginia,N,Gonzaga,ROUND-64,L 54-77,,27,2,5,0.4,1,2,0.5,1,3,0.333,0.5,10,11,0.909,2,2,4,3,0,1,3,3,15,12.5,N,0,0,gary-browne-1,Gary Browne,2012

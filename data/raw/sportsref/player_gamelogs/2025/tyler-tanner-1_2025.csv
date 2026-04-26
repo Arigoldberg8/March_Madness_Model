@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Vanderbilt,,Maryland Eastern Shore,REG (Non-Conf),W 102-63,,19,4,8,0.5,1,5,0.2,3,3,1.0,0.563,0,0,,0,0,0,3,3,0,0,1,9,9.7,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+2,2,2,2024-11-10,Vanderbilt,,Southeast Missouri State,REG (Non-Conf),W 85-76,,22,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,3,0.667,1,1,2,0,4,0,0,3,6,6.0,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+3,3,3,2024-11-13,Vanderbilt,,California,REG (Non-Conf),W 85-69,,24,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,0,,2,1,3,2,3,0,0,0,14,16.9,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+4,4,4,2024-11-16,Vanderbilt,,Jackson State,REG (Non-Conf),W 94-81,,21,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,2,2,2,2,1,0,3,9,9.5,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+5,5,5,2024-11-21,Vanderbilt,N,Nevada,REG (Non-Conf),W 73-71,,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,2,0,0,3,0,1.8,N,1,1,tyler-tanner-1,Tyler Tanner,2025
+6,6,6,2024-11-22,Vanderbilt,N,Seton Hall,REG (Non-Conf),W 76-60,,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,1,1,0,0,1,4,4.3,N,1,1,tyler-tanner-1,Tyler Tanner,2025
+7,7,7,2024-11-24,Vanderbilt,N,Drake,REG (Non-Conf),L 70-81,,27,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,2,2,2,3,0,0,0,7,9.7,N,0,1,tyler-tanner-1,Tyler Tanner,2025
+8,8,8,2024-11-29,Vanderbilt,,Tennessee Tech,REG (Non-Conf),W 87-56,,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,4,4,3,2,0,0,1,5,7.2,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+9,9,9,2024-12-04,Vanderbilt,@,Virginia Tech,REG (Non-Conf),W 80-64,,19,3,4,0.75,0,1,0.0,3,3,1.0,0.75,3,4,0.75,0,3,3,3,1,0,0,3,9,9.8,A,1,1,tyler-tanner-1,Tyler Tanner,2025
+10,10,10,2024-12-08,Vanderbilt,N,TCU,REG (Non-Conf),W 83-74,,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,3,1.0,0,4,4,3,5,0,0,3,9,13.1,N,1,1,tyler-tanner-1,Tyler Tanner,2025
+11,11,11,2024-12-18,Vanderbilt,,The Citadel,REG (Non-Conf),W 105-53,,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,3,2,0,0,1,7,8.0,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+12,12,12,2024-12-21,Vanderbilt,,Austin Peay,REG (Non-Conf),W 85-55,,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,3,4,5,1,0,0,0,6,10.1,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+13,13,13,2024-12-30,Vanderbilt,,New Orleans,REG (Non-Conf),W 100-56,,18,6,9,0.667,2,3,0.667,4,6,0.667,0.778,2,2,1.0,5,2,7,1,3,1,0,2,16,19.8,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+14,14,14,2025-01-04,Vanderbilt,@,Louisiana State,REG (Conf),W 80-72,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,3,0,-2.7,A,1,1,tyler-tanner-1,Tyler Tanner,2025
+15,15,15,2025-01-07,Vanderbilt,,Mississippi State,REG (Conf),L 64-76,,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,1,2,0.5,1,4,5,2,2,0,0,1,9,10.2,H,0,1,tyler-tanner-1,Tyler Tanner,2025
+16,16,16,2025-01-11,Vanderbilt,@,Missouri,REG (Conf),L 66-75,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,2,2,0,1,3,0,0.5,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+17,17,17,2025-01-15,Vanderbilt,,South Carolina,REG (Conf),W 66-63,,21,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,2,0.0,1,1,2,3,3,0,1,3,4,4.4,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+18,18,18,2025-01-18,Vanderbilt,,Tennessee,REG (Conf),W 76-75,,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,1,0.0,0,0,0,0,1,1,0,2,2,0.1,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+19,19,19,2025-01-21,Vanderbilt,@,Alabama,REG (Conf),L 87-103,,19,2,6,0.333,1,1,1.0,1,5,0.2,0.417,0,0,,1,1,2,1,1,0,0,3,5,3.1,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+20,20,20,2025-01-25,Vanderbilt,,Kentucky,REG (Conf),W 74-69,,22,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,4,2,0,0,0,7,9.4,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+21,21,21,2025-02-01,Vanderbilt,@,Oklahoma,REG (Conf),L 67-97,,25,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,1,0,1,1,1,1,2,0,6,3.0,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+22,22,22,2025-02-04,Vanderbilt,@,Florida,REG (Conf),L 75-86,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,2,1,0,0,2,0,0.8,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+23,23,23,2025-02-08,Vanderbilt,,Texas,REG (Conf),W 86-78,,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,2,0,0,1,0,2.2,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+24,24,24,2025-02-11,Vanderbilt,,Auburn,REG (Conf),L 68-80,,20,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,0,0,0,2,0,0,1,4,2.5,H,0,1,tyler-tanner-1,Tyler Tanner,2025
+25,25,25,2025-02-15,Vanderbilt,@,Tennessee,REG (Conf),L 76-81,,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,3,3,2,0,0,0,1,2,2.2,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+26,26,26,2025-02-19,Vanderbilt,@,Kentucky,REG (Conf),L 61-82,,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,4,5,2,1,0,1,1,4,3.5,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+27,27,27,2025-02-22,Vanderbilt,,Ole Miss,REG (Conf),W 77-72,,18,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,0,4,4,1,1,0,1,4,6,4.3,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+28,28,28,2025-02-26,Vanderbilt,@,Texas A&M,REG (Conf),W 86-84,,22,2,6,0.333,1,3,0.333,1,3,0.333,0.417,4,4,1.0,0,0,0,4,0,0,1,1,9,7.0,A,1,1,tyler-tanner-1,Tyler Tanner,2025
+29,29,29,2025-03-01,Vanderbilt,,Missouri,REG (Conf),W 97-93 (OT),,17,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,2,0,0,2,3,4,0.5,H,1,1,tyler-tanner-1,Tyler Tanner,2025
+30,30,30,2025-03-04,Vanderbilt,,Arkansas,REG (Conf),L 77-90,,19,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,1,3,4,3,1,0,3,2,7,5.6,H,0,1,tyler-tanner-1,Tyler Tanner,2025
+31,31,31,2025-03-08,Vanderbilt,@,Georgia,REG (Conf),L 68-79,,25,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,2,2,1,1,1,1,2,9,6.9,A,0,1,tyler-tanner-1,Tyler Tanner,2025
+32,32,32,2025-03-12,Vanderbilt,N,Texas,CTOURN,L 72-79,,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,0,2,2,0,0,0,1,2,7,4.1,N,0,0,tyler-tanner-1,Tyler Tanner,2025
+33,33,33,2025-03-21,Vanderbilt,N,St. Mary's (CA),ROUND-64,L 56-59,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,1,1,0,1,2,3,3.2,N,0,0,tyler-tanner-1,Tyler Tanner,2025

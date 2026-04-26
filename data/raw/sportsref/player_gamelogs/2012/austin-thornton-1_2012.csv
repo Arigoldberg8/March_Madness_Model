@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2011-11-11,Michigan State,N,North Carolina,REG (Non-Conf),L 55-67,,24,0,7,0.0,0,5,0.0,0,2,0.0,0.0,0,0,,1,2,3,1,1,0,2,1,0,-4.3,N,0,1,austin-thornton-1,Austin Thornton,2012
+2,96,2,2011-11-15,Michigan State,N,Duke,REG (Non-Conf),L 69-74,,16,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,N,0,1,austin-thornton-1,Austin Thornton,2012
+3,97,3,2011-11-18,Michigan State,,Texas Southern,REG (Non-Conf),W 76-41,,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,3,4,1,1,0,2,3,0,-0.6,H,1,1,austin-thornton-1,Austin Thornton,2012
+4,98,4,2011-11-20,Michigan State,,Little Rock,REG (Non-Conf),W 69-47,,17,3,7,0.429,0,3,0.0,3,4,0.75,0.429,7,9,0.778,2,4,6,2,3,0,1,1,13,14.1,H,1,1,austin-thornton-1,Austin Thornton,2012
+5,99,5,2011-11-23,Michigan State,,Milwaukee,REG (Non-Conf),W 68-55,,22,0,2,0.0,0,0,,0,2,0.0,0.0,6,6,1.0,1,3,4,1,1,0,1,2,6,6.1,H,1,1,austin-thornton-1,Austin Thornton,2012
+6,100,6,2011-11-27,Michigan State,@,Eastern Michigan,REG (Non-Conf),W 72-40,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,1,1,2,0,0,0,0,3,6,4.1,A,1,1,austin-thornton-1,Austin Thornton,2012
+7,101,7,2011-11-30,Michigan State,,Florida State,REG (Non-Conf),W 65-49,,8,0,0,,0,0,,0,0,,,0,0,,1,2,3,0,1,0,0,0,0,2.3,H,1,1,austin-thornton-1,Austin Thornton,2012
+8,102,8,2011-12-04,Michigan State,,Omaha,REG (Non-Conf),W 110-68,,18,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,5,6,5,0,1,0,0,3,7.7,H,1,1,austin-thornton-1,Austin Thornton,2012
+9,103,9,2011-12-07,Michigan State,,Central Connecticut State,REG (Non-Conf),W 89-69,,21,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,1,1.0,1,1,2,4,2,0,3,2,8,7.0,H,1,1,austin-thornton-1,Austin Thornton,2012
+10,104,10,2011-12-10,Michigan State,@,Gonzaga,REG (Non-Conf),W 74-67,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,0,1,0,2,0,0,-0.4,A,1,1,austin-thornton-1,Austin Thornton,2012
+11,105,11,2011-12-17,Michigan State,,Bowling Green,REG (Non-Conf),W 74-60,,17,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,3,3,1,0,0,1,1,5,4.9,H,1,1,austin-thornton-1,Austin Thornton,2012
+12,106,12,2011-12-19,Michigan State,,Kansas City,REG (Non-Conf),W 89-54,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,3,4,2,0,0,0,2,0,1.5,H,1,1,austin-thornton-1,Austin Thornton,2012
+13,107,13,2011-12-22,Michigan State,,Lehigh,REG (Non-Conf),W 90-81,*,22,2,3,0.667,1,1,1.0,1,2,0.5,0.833,6,8,0.75,2,5,7,0,0,0,0,1,11,11.4,H,1,1,austin-thornton-1,Austin Thornton,2012
+14,108,14,2011-12-28,Michigan State,,Indiana,REG (Conf),W 80-65,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,1,1,0,1,1,2,2.6,H,1,1,austin-thornton-1,Austin Thornton,2012
+15,109,15,2011-12-31,Michigan State,@,Nebraska,REG (Conf),W 68-55,,22,2,2,1.0,1,1,1.0,1,1,1.0,1.25,4,4,1.0,0,3,3,1,1,0,0,0,9,11.0,A,1,1,austin-thornton-1,Austin Thornton,2012
+16,110,16,2012-01-03,Michigan State,@,Wisconsin,REG (Conf),W 63-60 (OT),,30,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,2,4,6,0,0,0,0,4,2,2.3,A,1,1,austin-thornton-1,Austin Thornton,2012
+17,111,17,2012-01-10,Michigan State,,Iowa,REG (Conf),W 95-61,,16,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,2,2,0,3,0,1,1,8,8.9,H,1,1,austin-thornton-1,Austin Thornton,2012
+18,112,18,2012-01-14,Michigan State,@,Northwestern,REG (Conf),L 74-81,,21,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,2,2,2,0,1,0,5,3,2.0,A,0,1,austin-thornton-1,Austin Thornton,2012
+19,113,19,2012-01-17,Michigan State,@,Michigan,REG (Conf),L 59-60,,20,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,1,2,3,0,0,0,0,0,8,8.0,A,0,1,austin-thornton-1,Austin Thornton,2012
+20,114,20,2012-01-21,Michigan State,,Purdue,REG (Conf),W 83-58,,18,4,8,0.5,3,4,0.75,1,4,0.25,0.688,0,0,,0,1,1,0,1,0,0,2,11,7.5,H,1,1,austin-thornton-1,Austin Thornton,2012
+21,115,21,2012-01-25,Michigan State,,Minnesota,REG (Conf),W 68-52,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,2,1,1,1,4,0,0.8,H,1,1,austin-thornton-1,Austin Thornton,2012
+22,116,22,2012-01-31,Michigan State,@,Illinois,REG (Conf),L 41-42,,28,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,2,4,6,0,0,0,0,3,2,1.7,A,0,1,austin-thornton-1,Austin Thornton,2012
+23,117,23,2012-02-05,Michigan State,,Michigan,REG (Conf),W 64-54,*,21,0,1,0.0,0,1,0.0,0,0,,0.0,5,6,0.833,0,3,3,4,0,0,1,2,5,5.8,H,1,1,austin-thornton-1,Austin Thornton,2012
+24,118,24,2012-02-08,Michigan State,,Penn State,REG (Conf),W 77-57,*,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,2,3,5,0,1,1,0,0,6,7.3,H,1,1,austin-thornton-1,Austin Thornton,2012
+25,119,25,2012-02-11,Michigan State,@,Ohio State,REG (Conf),W 58-48,*,31,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,0,0,1,1,2,5,3.2,A,1,1,austin-thornton-1,Austin Thornton,2012
+26,120,26,2012-02-16,Michigan State,,Wisconsin,REG (Conf),W 69-55,*,29,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,2,5,1,0,0,1,3,6,6.3,H,1,1,austin-thornton-1,Austin Thornton,2012
+27,121,27,2012-02-19,Michigan State,@,Purdue,REG (Conf),W 76-62,*,27,6,10,0.6,1,3,0.333,5,7,0.714,0.65,4,4,1.0,2,1,3,0,0,0,0,3,17,12.9,A,1,1,austin-thornton-1,Austin Thornton,2012
+28,122,28,2012-02-22,Michigan State,@,Minnesota,REG (Conf),W 66-61,*,27,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,1,2,3,1,0,0,1,3,2,-1.7,A,1,1,austin-thornton-1,Austin Thornton,2012
+29,123,29,2012-02-25,Michigan State,,Nebraska,REG (Conf),W 62-34,*,25,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,4,4,3,0,0,2,1,9,8.3,H,1,1,austin-thornton-1,Austin Thornton,2012
+30,124,30,2012-02-28,Michigan State,@,Indiana,REG (Conf),L 55-70,*,28,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,1,1,1,0,0,0,1,8,7.0,A,0,1,austin-thornton-1,Austin Thornton,2012
+31,125,31,2012-03-04,Michigan State,,Ohio State,REG (Conf),L 70-72,*,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,4,5,3,1,0,0,3,2,4.8,H,0,1,austin-thornton-1,Austin Thornton,2012
+32,126,32,2012-03-09,Michigan State,N,Iowa,CTOURN,W 92-75,*,25,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,1,2,1,0,2,3,5.5,N,1,0,austin-thornton-1,Austin Thornton,2012
+33,127,33,2012-03-10,Michigan State,N,Wisconsin,CTOURN,W 65-52,*,28,4,4,1.0,4,4,1.0,0,0,,1.5,0,0,,0,3,3,0,2,0,1,3,12,11.5,N,1,0,austin-thornton-1,Austin Thornton,2012
+34,128,34,2012-03-11,Michigan State,N,Ohio State,CTOURN,W 68-64,*,29,2,4,0.5,2,4,0.5,0,0,,0.75,2,4,0.5,2,3,5,2,0,0,1,3,8,6.7,N,1,0,austin-thornton-1,Austin Thornton,2012
+35,129,35,2012-03-16,Michigan State,N,LIU Brooklyn,ROUND-64,W 89-67,*,25,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,1,0,0,2,3,4,1.2,N,1,0,austin-thornton-1,Austin Thornton,2012
+36,130,36,2012-03-18,Michigan State,N,Saint Louis,ROUND-32,W 65-61,*,25,1,1,1.0,1,1,1.0,0,0,,1.5,3,4,0.75,0,2,2,0,0,0,1,4,6,3.3,N,1,0,austin-thornton-1,Austin Thornton,2012
+37,131,37,2012-03-22,Michigan State,N,Louisville,ROUND-16,L 44-57,*,35,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,2,3,2,0,0,1,4,3,1.4,N,0,0,austin-thornton-1,Austin Thornton,2012

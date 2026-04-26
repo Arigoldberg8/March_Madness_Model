@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2013-11-08,UCLA,,Drexel,REG (Non-Conf),W 72-67,*,33,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,4,4,5,1,0,1,1,8,9.7,H,1,1,norman-powell-1,Norman Powell,2014
+2,70,2,2013-11-12,UCLA,,Oakland,REG (Non-Conf),W 91-60,*,30,7,10,0.7,0,3,0.0,7,7,1.0,0.7,4,4,1.0,1,3,4,2,3,0,0,2,18,19.0,H,1,1,norman-powell-1,Norman Powell,2014
+3,71,3,2013-11-18,UCLA,,Sacramento State,REG (Non-Conf),W 86-50,*,28,4,6,0.667,0,1,0.0,4,5,0.8,0.667,6,9,0.667,0,3,3,2,1,2,2,4,14,11.3,H,1,1,norman-powell-1,Norman Powell,2014
+4,72,4,2013-11-22,UCLA,,Morehead State,REG (Non-Conf),W 81-70,*,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,1,2,3,3,0,1,2,4,4.2,H,1,1,norman-powell-1,Norman Powell,2014
+5,73,5,2013-11-24,UCLA,,Chattanooga,REG (Non-Conf),W 106-65,*,26,8,13,0.615,0,1,0.0,8,12,0.667,0.615,3,5,0.6,2,2,4,3,2,1,2,2,19,16.3,H,1,1,norman-powell-1,Norman Powell,2014
+6,74,6,2013-11-28,UCLA,N,Nevada,REG (Non-Conf),W 105-84,*,19,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,0,1,1,1,1,0,2,4,14,7.8,N,1,1,norman-powell-1,Norman Powell,2014
+7,75,7,2013-11-29,UCLA,N,Northwestern,REG (Non-Conf),W 95-79,*,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,1,1,2,0,1,0,1,3,8,5.1,N,1,1,norman-powell-1,Norman Powell,2014
+8,76,8,2013-12-03,UCLA,,UC Santa Barbara,REG (Non-Conf),W 89-76,*,26,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,4,1.0,1,4,5,3,1,1,1,1,13,14.0,H,1,1,norman-powell-1,Norman Powell,2014
+9,77,9,2013-12-07,UCLA,@,Missouri,REG (Non-Conf),L 71-80,*,24,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,0,1,1,0,2,0,1,1,11,7.9,A,0,1,norman-powell-1,Norman Powell,2014
+10,78,10,2013-12-14,UCLA,,Prairie View A&M,REG (Non-Conf),W 95-71,*,18,5,6,0.833,1,2,0.5,4,4,1.0,0.917,2,2,1.0,0,1,1,4,2,0,1,5,13,12.9,H,1,1,norman-powell-1,Norman Powell,2014
+11,79,11,2013-12-19,UCLA,N,Duke,REG (Non-Conf),L 63-80,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,0,0,2,0,0,2,0,3,-0.4,N,0,1,norman-powell-1,Norman Powell,2014
+12,80,12,2013-12-22,UCLA,,Weber State,REG (Non-Conf),W 83-60,*,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,0,5,5,1,1,0,1,1,7,5.7,H,1,1,norman-powell-1,Norman Powell,2014
+13,81,13,2013-12-28,UCLA,,Alabama,REG (Non-Conf),W 75-67,*,23,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,6,0.833,2,4,6,1,2,0,0,1,13,14.2,H,1,1,norman-powell-1,Norman Powell,2014
+14,82,14,2014-01-05,UCLA,,Southern California,REG (Conf),W 107-73,*,22,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,2,0.5,0,2,2,4,1,0,2,2,9,4.8,H,1,1,norman-powell-1,Norman Powell,2014
+15,83,15,2014-01-09,UCLA,,Arizona,REG (Conf),L 75-79,*,13,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,0,0,1,1,0,1,4,6,4.2,H,0,1,norman-powell-1,Norman Powell,2014
+16,84,16,2014-01-12,UCLA,,Arizona State,REG (Conf),W 87-72,*,26,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,3,0.667,0,5,5,2,0,0,3,1,11,5.4,H,1,1,norman-powell-1,Norman Powell,2014
+17,85,17,2014-01-16,UCLA,@,Colorado,REG (Conf),W 69-56,*,26,8,13,0.615,2,5,0.4,6,8,0.75,0.692,1,4,0.25,0,3,3,0,4,0,3,2,19,13.0,A,1,1,norman-powell-1,Norman Powell,2014
+18,86,18,2014-01-18,UCLA,@,Utah,REG (Conf),L 69-74,*,17,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,3,3,0,0,1,0,2,2,-1.0,A,0,1,norman-powell-1,Norman Powell,2014
+19,87,19,2014-01-23,UCLA,,Stanford,REG (Conf),W 91-74,*,28,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,2,1.0,0,2,2,3,2,2,1,2,13,13.0,H,1,1,norman-powell-1,Norman Powell,2014
+20,88,20,2014-01-26,UCLA,,California,REG (Conf),W 76-64,*,30,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,2,0.5,1,3,4,2,0,1,0,2,11,9.9,H,1,1,norman-powell-1,Norman Powell,2014
+21,89,21,2014-01-30,UCLA,@,Oregon,REG (Conf),W 70-68,*,32,5,9,0.556,0,1,0.0,5,8,0.625,0.556,7,8,0.875,3,3,6,1,1,0,0,4,17,15.4,A,1,1,norman-powell-1,Norman Powell,2014
+22,90,22,2014-02-02,UCLA,@,Oregon State,REG (Conf),L 67-71,*,26,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,4,0.5,1,0,1,0,2,1,2,3,8,5.8,A,0,1,norman-powell-1,Norman Powell,2014
+23,91,23,2014-02-08,UCLA,@,Southern California,REG (Conf),W 83-73,*,30,8,13,0.615,2,4,0.5,6,9,0.667,0.692,3,5,0.6,1,0,1,0,2,0,0,3,21,15.8,A,1,1,norman-powell-1,Norman Powell,2014
+24,92,24,2014-02-13,UCLA,,Colorado,REG (Conf),W 92-74,*,27,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,3,3,4,2,0,1,2,10,9.9,H,1,1,norman-powell-1,Norman Powell,2014
+25,93,25,2014-02-15,UCLA,,Utah,REG (Conf),W 80-66,*,30,5,9,0.556,1,1,1.0,4,8,0.5,0.611,2,2,1.0,2,3,5,2,1,0,0,5,13,11.4,H,1,1,norman-powell-1,Norman Powell,2014
+26,94,26,2014-02-19,UCLA,@,California,REG (Conf),W 86-66,*,18,1,4,0.25,1,1,1.0,0,3,0.0,0.375,1,2,0.5,1,0,1,1,0,1,0,3,4,2.1,A,1,1,norman-powell-1,Norman Powell,2014
+27,95,27,2014-02-22,UCLA,@,Stanford,REG (Conf),L 74-83,*,28,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,1,2,3,3,0,0,2,2,14,9.6,A,0,1,norman-powell-1,Norman Powell,2014
+28,96,28,2014-02-27,UCLA,,Oregon,REG (Conf),L 83-87 (2OT),*,43,5,9,0.556,0,0,,5,9,0.556,0.556,4,5,0.8,2,4,6,1,1,0,1,4,14,11.0,H,0,1,norman-powell-1,Norman Powell,2014
+29,97,29,2014-03-02,UCLA,,Oregon State,REG (Conf),W 74-69,*,25,2,8,0.25,1,2,0.5,1,6,0.167,0.313,2,2,1.0,1,2,3,2,1,0,0,1,7,5.5,H,1,1,norman-powell-1,Norman Powell,2014
+30,98,30,2014-03-06,UCLA,@,Washington,REG (Conf),W 91-82,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,0,2,2,2,1,0,1,2,6,5.5,A,1,1,norman-powell-1,Norman Powell,2014
+31,99,31,2014-03-08,UCLA,@,Washington State,REG (Conf),L 55-73,*,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,4,0.5,0,3,3,0,1,1,1,4,7,2.8,A,0,1,norman-powell-1,Norman Powell,2014
+32,100,32,2014-03-13,UCLA,N,Oregon,CTOURN,W 82-63,*,25,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,3,4,2,1,0,2,0,9,8.7,N,1,0,norman-powell-1,Norman Powell,2014
+33,101,33,2014-03-14,UCLA,N,Stanford,CTOURN,W 84-59,*,23,7,10,0.7,0,2,0.0,7,8,0.875,0.7,8,9,0.889,0,2,2,2,2,1,1,0,22,21.1,N,1,0,norman-powell-1,Norman Powell,2014
+34,102,34,2014-03-15,UCLA,N,Arizona,CTOURN,W 75-71,*,30,4,8,0.5,1,1,1.0,3,7,0.429,0.563,6,7,0.857,0,0,0,2,1,2,1,1,15,13.0,N,1,0,norman-powell-1,Norman Powell,2014
+35,103,35,2014-03-21,UCLA,N,Tulsa,ROUND-64,W 76-59,*,30,5,12,0.417,1,3,0.333,4,9,0.444,0.458,4,5,0.8,1,3,4,0,3,0,0,1,15,12.4,N,1,0,norman-powell-1,Norman Powell,2014
+36,104,36,2014-03-23,UCLA,N,Stephen F. Austin,ROUND-32,W 77-60,*,23,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,4,1.0,0,1,1,1,2,0,0,4,16,13.5,N,1,0,norman-powell-1,Norman Powell,2014
+37,105,37,2014-03-27,UCLA,N,Florida,ROUND-16,L 68-79,*,31,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,2,1.0,1,2,3,1,2,0,1,4,8,5.0,N,0,0,norman-powell-1,Norman Powell,2014

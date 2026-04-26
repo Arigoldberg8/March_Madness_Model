@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2013-11-08,Kansas,,Louisiana–Monroe,REG (Non-Conf),W 80-63,,20,1,2,0.5,0,0,1,2,0.5,0.5,3,3,1.0,1,1,2,2,1,2,4,4,5,3.2,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+2,39,2,2013-11-12,Kansas,N,Duke,REG (Non-Conf),W 94-83,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,0,0,1,1,1,0,4,4,4.2,N,1,1,jamari-traylor-1,Jamari Traylor,2014
+3,40,3,2013-11-19,Kansas,,Iona,REG (Non-Conf),W 86-66,,10,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,0,1,1,1,0,1,3,1,1,-1.8,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+4,41,4,2013-11-22,Kansas,,Towson,REG (Non-Conf),W 88-58,,12,0,0,,0,0,0,0,,,0,0,,0,0,0,1,0,1,0,1,0,1.0,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+5,42,5,2013-11-28,Kansas,N,Wake Forest,REG (Non-Conf),W 87-78,,24,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,1,4,5,1,0,0,1,2,8,7.2,N,1,1,jamari-traylor-1,Jamari Traylor,2014
+6,43,6,2013-11-29,Kansas,N,Villanova,REG (Non-Conf),L 59-63,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,1,3,0,-1.9,N,0,1,jamari-traylor-1,Jamari Traylor,2014
+7,44,7,2013-11-30,Kansas,N,UTEP,REG (Non-Conf),W 67-63,,8,0,1,0.0,0,0,0,1,0.0,0.0,4,4,1.0,2,0,2,1,0,0,1,2,4,3.6,N,1,1,jamari-traylor-1,Jamari Traylor,2014
+8,45,8,2013-12-07,Kansas,@,Colorado,REG (Non-Conf),L 72-75,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,5,6,0,0,3,1,2,2,4.2,A,0,1,jamari-traylor-1,Jamari Traylor,2014
+9,46,9,2013-12-10,Kansas,@,Florida,REG (Non-Conf),L 61-67,,17,1,1,1.0,0,0,1,1,1.0,1.0,3,4,0.75,4,5,9,1,0,0,1,2,5,7.5,A,0,1,jamari-traylor-1,Jamari Traylor,2014
+10,47,10,2013-12-14,Kansas,N,New Mexico,REG (Non-Conf),W 80-63,,9,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,1,0,1,3,0,0,0,4,4,4.9,N,1,1,jamari-traylor-1,Jamari Traylor,2014
+11,48,11,2013-12-21,Kansas,,Georgetown,REG (Non-Conf),W 86-64,,20,3,3,1.0,0,0,3,3,1.0,1.0,2,3,0.667,1,6,7,0,0,2,1,3,8,8.4,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+12,49,12,2013-12-30,Kansas,,Toledo,REG (Non-Conf),W 93-83,,9,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,1,3,1,0,1,1,0,4,5.5,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+13,50,13,2014-01-05,Kansas,,San Diego State,REG (Non-Conf),L 57-61,,18,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,1,2,3,0,1,2,0,3,2,2.4,H,0,1,jamari-traylor-1,Jamari Traylor,2014
+14,51,14,2014-01-08,Kansas,@,Oklahoma,REG (Conf),W 90-83,,22,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,2,3,5,2,1,2,3,2,5,6.0,A,1,1,jamari-traylor-1,Jamari Traylor,2014
+15,52,15,2014-01-11,Kansas,,Kansas State,REG (Conf),W 86-60,,16,2,2,1.0,0,0,2,2,1.0,1.0,2,4,0.5,0,3,3,1,0,1,0,1,6,6.5,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+16,53,16,2014-01-13,Kansas,@,Iowa State,REG (Conf),W 77-70,,19,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,3,5,0,0,0,3,3,2,-0.9,A,1,1,jamari-traylor-1,Jamari Traylor,2014
+17,54,17,2014-01-18,Kansas,,Oklahoma State,REG (Conf),W 80-78,,19,3,3,1.0,0,0,3,3,1.0,1.0,3,3,1.0,0,3,3,1,0,1,1,3,9,8.2,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+18,55,18,2014-01-20,Kansas,,Baylor,REG (Conf),W 78-68,,13,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,2,4,6,0,0,0,2,1,4,3.9,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+19,56,19,2014-01-25,Kansas,@,TCU,REG (Conf),W 91-69,,14,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,1,0,1,0,0,0,1,3,8,4.1,A,1,1,jamari-traylor-1,Jamari Traylor,2014
+20,57,20,2014-01-29,Kansas,,Iowa State,REG (Conf),W 92-81,,15,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,6,6,1,1,0,0,1,0,2.4,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+21,58,21,2014-02-01,Kansas,@,Texas,REG (Conf),L 69-81,,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,5,1,6,2,1,1,0,4,4,8.0,A,0,1,jamari-traylor-1,Jamari Traylor,2014
+22,59,22,2014-02-04,Kansas,@,Baylor,REG (Conf),W 69-52,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,3,3,0,0,0,1,3,4,1.4,A,1,1,jamari-traylor-1,Jamari Traylor,2014
+23,60,23,2014-02-08,Kansas,,West Virginia,REG (Conf),W 83-69,,18,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,1,2,3,1,2,1,1,3,7,8.2,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+24,61,25,2014-02-15,Kansas,,TCU,REG (Conf),W 95-65,,22,5,6,0.833,0,0,5,6,0.833,0.833,0,2,0.0,2,6,8,1,0,1,0,3,10,10.4,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+25,62,26,2014-02-18,Kansas,@,Texas Tech,REG (Conf),W 64-63,,12,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,2,3,0,0,0,0,0,5,5.3,A,1,1,jamari-traylor-1,Jamari Traylor,2014
+26,63,27,2014-02-22,Kansas,,Texas,REG (Conf),W 85-54,,19,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,1,2,3,2,2,0,0,3,2,4.8,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+27,64,28,2014-02-24,Kansas,,Oklahoma,REG (Conf),W 83-75,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,3,4,0,0,0,2,2,4,2.2,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+28,65,29,2014-03-01,Kansas,@,Oklahoma State,REG (Conf),L 65-72,,14,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,2,2,0,1,1,2,2,3,1.8,A,0,1,jamari-traylor-1,Jamari Traylor,2014
+29,66,30,2014-03-05,Kansas,,Texas Tech,REG (Conf),W 82-57,,14,2,2,1.0,0,0,2,2,1.0,1.0,2,4,0.5,0,1,1,0,0,1,1,3,6,3.4,H,1,1,jamari-traylor-1,Jamari Traylor,2014
+30,67,31,2014-03-08,Kansas,@,West Virginia,REG (Conf),L 86-92,,24,2,4,0.5,0,0,2,4,0.5,0.5,2,4,0.5,3,4,7,0,1,1,1,3,6,6.0,A,0,1,jamari-traylor-1,Jamari Traylor,2014
+31,68,32,2014-03-13,Kansas,N,Oklahoma State,CTOURN,W 77-70 (OT),,27,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,2,7,9,1,0,2,2,1,6,6.2,N,1,0,jamari-traylor-1,Jamari Traylor,2014
+32,69,33,2014-03-14,Kansas,N,Iowa State,CTOURN,L 83-94,,16,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,0,2,2,0,0,1,1,3,6,2.8,N,0,0,jamari-traylor-1,Jamari Traylor,2014
+33,70,34,2014-03-21,Kansas,N,Eastern Kentucky,ROUND-64,W 80-69,,22,7,8,0.875,0,0,7,8,0.875,0.875,3,5,0.6,7,7,14,2,0,1,2,2,17,19.7,N,1,0,jamari-traylor-1,Jamari Traylor,2014
+34,71,35,2014-03-23,Kansas,N,Stanford,ROUND-32,L 57-60,,25,1,8,0.125,0,0,1,8,0.125,0.125,1,2,0.5,2,3,5,0,2,0,3,3,3,-2.5,N,0,0,jamari-traylor-1,Jamari Traylor,2014

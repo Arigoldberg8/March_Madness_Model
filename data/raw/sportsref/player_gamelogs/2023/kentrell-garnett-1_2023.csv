@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,54,1,2022-11-07,Louisiana,,Centenary (LA),REG (Non-Conf),W 106-55,*,15,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,2,2,0,1,0,0,3,6,5.1,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+2,55,2,2022-11-11,Louisiana,N,Harvard,REG (Non-Conf),W 75-61,*,30,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,1,2,3,1,0,0,1,1,5,3.2,N,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+3,56,3,2022-11-13,Louisiana,N,East Tennessee State,REG (Non-Conf),W 81-77,*,34,4,9,0.444,3,7,0.429,1,2,0.5,0.611,2,2,1.0,0,1,1,1,2,0,0,2,13,10.5,N,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+4,57,4,2022-11-17,Louisiana,,Louisiana Tech,REG (Non-Conf),W 94-88,*,37,5,9,0.556,4,8,0.5,1,1,1.0,0.778,2,2,1.0,0,2,2,2,1,0,0,2,16,13.9,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+5,58,5,2022-11-22,Louisiana,@,SMU,REG (Non-Conf),W 76-72 (OT),*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,6,6,0,1,2,0,2,4,4.0,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+6,59,6,2022-11-26,Louisiana,@,Drake,REG (Non-Conf),L 64-76,*,30,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,0,3,3,0,1,0,0,4,5,2.9,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+7,60,7,2022-11-29,Louisiana,,Loyola (LA),REG (Non-Conf),W 104-70,*,21,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,1,1,0,0,1,6,5.6,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+8,61,8,2022-12-03,Louisiana,@,New Orleans,REG (Non-Conf),W 78-77,*,32,1,2,0.5,1,2,0.5,0,0,,0.75,2,4,0.5,1,1,2,2,2,0,0,2,5,6.8,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+9,62,9,2022-12-10,Louisiana,,Samford,REG (Non-Conf),W 75-58,*,33,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,1,2,3,2,2,0,3,1,12,11.4,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+10,63,10,2022-12-12,Louisiana,,La. Christian,REG (Non-Conf),W 98-63,*,25,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,0,6,6,1,2,0,0,2,12,11.7,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+11,64,11,2022-12-15,Louisiana,@,McNeese State,REG (Non-Conf),W 78-70,*,31,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,3,3,2,0,0,2,4,6,2.7,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+12,65,12,2022-12-21,Louisiana,@,Texas,REG (Non-Conf),L 72-100,*,25,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,1,0,2,1,3,-0.8,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+13,66,13,2022-12-29,Louisiana,@,Coastal Carolina,REG (Conf),L 76-77,*,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,1,0,1,1,0,0,1,2,3,-0.5,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+14,67,14,2022-12-31,Louisiana,@,Old Dominion,REG (Conf),L 66-70,*,30,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,3,3,1,2,0,0,3,7,5.0,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+15,68,15,2023-01-05,Louisiana,,Southern Mississippi,REG (Conf),W 75-61,*,37,7,10,0.7,6,8,0.75,1,2,0.5,1.0,0,0,,0,2,2,0,2,0,1,0,20,17.4,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+16,69,16,2023-01-07,Louisiana,,Georgia State,REG (Conf),W 78-70,*,29,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,0,2,2,0,0,0,1,2,6,4.5,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+17,70,17,2023-01-12,Louisiana,@,Louisiana–Monroe,REG (Conf),W 86-73,*,37,3,4,0.75,2,3,0.667,1,1,1.0,1.0,2,2,1.0,0,1,1,3,0,1,2,0,10,9.5,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+18,71,18,2023-01-14,Louisiana,@,South Alabama,REG (Conf),W 79-76,*,25,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,1,1,3,1,0,1,1,2,1.9,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+19,72,19,2023-01-19,Louisiana,@,Arkansas State,REG (Conf),W 80-71,*,36,4,7,0.571,4,6,0.667,0,1,0.0,0.857,0,0,,0,3,3,0,1,0,1,3,12,8.4,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+20,73,20,2023-01-21,Louisiana,@,Texas State,REG (Conf),W 60-51,*,30,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,2,2,2,2,0,0,1,4,4.1,A,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+21,74,21,2023-01-26,Louisiana,,Troy,REG (Conf),W 72-57,*,31,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,5,5,1,1,0,0,2,5,5.4,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+22,75,22,2023-01-28,Louisiana,,Georgia Southern,REG (Conf),W 94-87,*,33,4,10,0.4,3,9,0.333,1,1,1.0,0.55,1,1,1.0,0,1,1,0,0,0,0,2,12,6.1,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+23,76,23,2023-02-02,Louisiana,,Texas State,REG (Conf),W 82-63,*,33,3,7,0.429,2,5,0.4,1,2,0.5,0.571,1,2,0.5,0,0,0,1,1,0,3,2,9,2.8,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+24,77,24,2023-02-04,Louisiana,,Marshall,REG (Conf),W 77-67,,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,1,0,1,1,0,-1.2,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+25,78,25,2023-02-09,Louisiana,@,Southern Mississippi,REG (Conf),L 71-82,*,26,2,4,0.5,2,4,0.5,0,0,,0.75,2,2,1.0,1,1,2,0,0,0,0,3,8,5.8,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+26,79,26,2023-02-11,Louisiana,@,Troy,REG (Conf),L 65-80,*,22,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,1,1,0,0,0,0,1,3,-0.9,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+27,80,27,2023-02-16,Louisiana,,Louisiana–Monroe,REG (Conf),W 84-67,*,31,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,3,0.667,1,2,3,2,1,0,1,0,12,10.3,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+28,81,28,2023-02-18,Louisiana,@,James Madison,REG (Conf),L 68-74,*,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,0,0,0,0,1,0,1,1,3,-1.2,A,0,1,kentrell-garnett-1,Kentrell Garnett,2023
+29,82,29,2023-02-22,Louisiana,,Arkansas State,REG (Conf),W 85-74,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,2,0,-0.5,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+30,83,30,2023-02-24,Louisiana,,South Alabama,REG (Conf),W 74-64,*,18,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,1,1,kentrell-garnett-1,Kentrell Garnett,2023
+31,84,31,2023-03-04,Louisiana,N,Georgia Southern,CTOURN,W 67-49,*,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,1,1,0,-1.5,N,1,0,kentrell-garnett-1,Kentrell Garnett,2023
+32,85,32,2023-03-05,Louisiana,N,Texas State,CTOURN,W 64-58,*,31,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,1,1,1,1,0,0,2,6,3.8,N,1,0,kentrell-garnett-1,Kentrell Garnett,2023
+33,86,33,2023-03-06,Louisiana,N,South Alabama,CTOURN,W 71-66,*,31,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,1,3,4,1,1,0,0,4,5,4.3,N,1,0,kentrell-garnett-1,Kentrell Garnett,2023
+34,87,34,2023-03-16,Louisiana,N,Tennessee,ROUND-64,L 55-58,*,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,1,1,0,-2.9,N,0,0,kentrell-garnett-1,Kentrell Garnett,2023

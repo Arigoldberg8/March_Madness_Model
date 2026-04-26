@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2013-11-12,Tennessee,@,Xavier,REG (Non-Conf),L 63-67,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,1,2,2.3,A,0,1,armani-moore-1,Armani Moore,2014
+2,32,2,2013-11-16,Tennessee,,USC Upstate,REG (Non-Conf),W 74-65,,8,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,1,1,0.2,H,1,1,armani-moore-1,Armani Moore,2014
+3,33,3,2013-11-18,Tennessee,,The Citadel,REG (Non-Conf),W 86-60,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,5,7,0,2,1,0,3,2,4.7,H,1,1,armani-moore-1,Armani Moore,2014
+4,34,4,2013-11-22,Tennessee,,Tennessee State,REG (Non-Conf),W 88-67,,16,4,7,0.571,0,0,,4,7,0.571,0.571,1,3,0.333,1,0,1,1,0,1,1,0,9,6.0,H,1,1,armani-moore-1,Armani Moore,2014
+5,35,5,2013-11-28,Tennessee,N,UTEP,REG (Non-Conf),L 70-78,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,0,1,armani-moore-1,Armani Moore,2014
+6,36,6,2013-11-29,Tennessee,N,Xavier,REG (Non-Conf),W 64-49,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,armani-moore-1,Armani Moore,2014
+7,37,7,2013-11-30,Tennessee,N,Wake Forest,REG (Non-Conf),W 82-63,,7,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,0,1,0,0,0,1,1,2,0.6,N,1,1,armani-moore-1,Armani Moore,2014
+8,38,8,2013-12-07,Tennessee,,Tennessee Tech,REG (Non-Conf),W 84-63,,16,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,2,4,6,0,0,2,0,2,5,6.8,H,1,1,armani-moore-1,Armani Moore,2014
+9,39,9,2013-12-14,Tennessee,@,Wichita State,REG (Non-Conf),L 61-70,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,armani-moore-1,Armani Moore,2014
+10,40,12,2013-12-30,Tennessee,,Virginia,REG (Non-Conf),W 87-52,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,armani-moore-1,Armani Moore,2014
+11,41,13,2014-01-04,Tennessee,,Tusculum,REG (Non-Conf),W 98-51,,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,2,0.0,1,0,1,1,0,1,0,0,3,4.0,H,1,1,armani-moore-1,Armani Moore,2014
+12,42,15,2014-01-11,Tennessee,,Texas A&M,REG (Conf),L 56-57,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,0,1,armani-moore-1,Armani Moore,2014
+13,43,17,2014-01-18,Tennessee,@,Kentucky,REG (Conf),L 66-74,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,0,3,1,1,0,1,4,4,3.2,A,0,1,armani-moore-1,Armani Moore,2014
+14,44,18,2014-01-22,Tennessee,,Arkansas,REG (Conf),W 81-74,,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,1,1,4,0,2,5,7.6,H,1,1,armani-moore-1,Armani Moore,2014
+15,45,19,2014-01-25,Tennessee,@,Florida,REG (Conf),L 41-67,,18,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,0,1,1,1,0,0,0,1,6,6.3,A,0,1,armani-moore-1,Armani Moore,2014
+16,46,20,2014-01-29,Tennessee,,Ole Miss,REG (Conf),W 86-70,,21,0,0,,0,0,,0,0,,,2,2,1.0,1,3,4,3,0,3,1,1,2,6.4,H,1,1,armani-moore-1,Armani Moore,2014
+17,47,21,2014-02-01,Tennessee,@,Alabama,REG (Conf),W 76-59,,11,0,0,,0,0,,0,0,,,1,2,0.5,2,1,3,0,1,0,0,1,1,2.9,A,1,1,armani-moore-1,Armani Moore,2014
+18,48,22,2014-02-05,Tennessee,@,Vanderbilt,REG (Conf),L 60-64,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,1,2,1.3,A,0,1,armani-moore-1,Armani Moore,2014
+19,49,23,2014-02-08,Tennessee,,South Carolina,REG (Conf),W 72-53,,17,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,2,3,0,1,0,0,2,9,7.9,H,1,1,armani-moore-1,Armani Moore,2014
+20,50,24,2014-02-11,Tennessee,,Florida,REG (Conf),L 58-67,,11,0,0,,0,0,,0,0,,,0,2,0.0,0,2,2,0,0,1,0,3,0,-0.7,H,0,1,armani-moore-1,Armani Moore,2014
+21,51,25,2014-02-15,Tennessee,@,Missouri,REG (Conf),L 70-75,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,A,0,1,armani-moore-1,Armani Moore,2014
+22,52,26,2014-02-18,Tennessee,,Georgia,REG (Conf),W 67-48,,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,0,1,1,0,2,0,-1.0,H,1,1,armani-moore-1,Armani Moore,2014
+23,53,27,2014-02-22,Tennessee,@,Texas A&M,REG (Conf),L 65-68 (OT),,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,2,0.0,0,0,0,2,1,0,0,0,0,0.2,A,0,1,armani-moore-1,Armani Moore,2014
+24,54,28,2014-02-26,Tennessee,@,Mississippi State,REG (Conf),W 75-68,,19,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,1,3,4,1,3,0,2,3,8,7.8,A,1,1,armani-moore-1,Armani Moore,2014
+25,55,29,2014-03-01,Tennessee,,Vanderbilt,REG (Conf),W 76-38,,24,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,1,2,3,1,1,1,0,2,8,8.3,H,1,1,armani-moore-1,Armani Moore,2014
+26,56,30,2014-03-05,Tennessee,@,Auburn,REG (Conf),W 82-54,,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,4,5,0,0,2,1,1,3,2.5,A,1,1,armani-moore-1,Armani Moore,2014
+27,57,31,2014-03-08,Tennessee,,Missouri,REG (Conf),W 72-45,,16,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,1,3,4,1,0,0,0,4,8,7.1,H,1,1,armani-moore-1,Armani Moore,2014
+28,58,32,2014-03-14,Tennessee,N,South Carolina,CTOURN,W 59-44,,21,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,1,1.0,0,3,3,1,1,2,0,1,6,7.6,N,1,0,armani-moore-1,Armani Moore,2014
+29,59,33,2014-03-15,Tennessee,N,Florida,CTOURN,L 49-56,,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,3,4,0,1,1,0,2,2,1.4,N,0,0,armani-moore-1,Armani Moore,2014
+30,60,34,2014-03-19,Tennessee,N,Iowa,FIRST-FOUR,W 78-65 (OT),,14,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,3,0,0,0,0,4,5.4,N,1,0,armani-moore-1,Armani Moore,2014
+31,61,35,2014-03-21,Tennessee,N,Massachusetts,ROUND-64,W 86-67,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,0,1,1,0,0,0,2,4,2.9,N,1,0,armani-moore-1,Armani Moore,2014
+32,62,36,2014-03-23,Tennessee,N,Mercer,ROUND-32,W 83-63,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,N,1,0,armani-moore-1,Armani Moore,2014
+33,63,37,2014-03-28,Tennessee,N,Michigan,ROUND-16,L 71-73,,20,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,3,3,6,2,0,0,1,4,6,5.5,N,0,0,armani-moore-1,Armani Moore,2014

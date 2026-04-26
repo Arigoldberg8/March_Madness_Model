@@ -1,0 +1,41 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,27,1,2012-11-11,Syracuse,N,San Diego State,REG (Non-Conf),W 62-49,*,32,7,15,0.467,0,1,0.0,7,14,0.5,0.467,3,3,1.0,0,4,4,4,5,1,4,5,17,13.0,N,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+2,28,2,2012-11-18,Syracuse,,Wagner,REG (Non-Conf),W 88-57,*,29,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,3,0.667,1,5,6,11,3,2,3,2,6,12.0,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+3,29,3,2012-11-21,Syracuse,,Princeton,REG (Non-Conf),W 73-53,*,35,4,9,0.444,1,4,0.25,3,5,0.6,0.5,1,2,0.5,4,2,6,9,4,0,3,0,10,15.6,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+4,30,4,2012-11-25,Syracuse,,Colgate,REG (Non-Conf),W 87-51,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,4,1.0,1,5,6,13,4,0,1,2,8,18.8,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+5,31,5,2012-11-30,Syracuse,@,Arkansas,REG (Non-Conf),W 91-82,*,34,7,15,0.467,0,3,0.0,7,12,0.583,0.467,3,5,0.6,3,7,10,9,3,0,6,4,17,14.4,A,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+6,32,6,2012-12-03,Syracuse,,Eastern Michigan,REG (Non-Conf),W 84-48,*,32,3,9,0.333,0,4,0.0,3,5,0.6,0.333,5,7,0.714,2,5,7,11,3,1,6,1,11,13.0,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+7,33,7,2012-12-06,Syracuse,,Long Beach State,REG (Non-Conf),W 84-53,*,32,5,16,0.313,3,8,0.375,2,8,0.25,0.406,2,2,1.0,2,1,3,10,3,0,4,3,15,12.3,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+8,34,8,2012-12-08,Syracuse,,Monmouth,REG (Non-Conf),W 108-56,*,26,6,10,0.6,2,4,0.5,4,6,0.667,0.7,1,1,1.0,0,3,3,16,5,4,3,1,15,26.9,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+9,35,9,2012-12-15,Syracuse,,Canisius,REG (Non-Conf),W 85-61,*,38,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,4,0.75,0,2,2,14,3,0,2,3,12,17.1,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+10,36,10,2012-12-17,Syracuse,,Detroit Mercy,REG (Non-Conf),W 72-68,*,34,1,6,0.167,1,4,0.25,0,2,0.0,0.25,9,10,0.9,0,3,3,10,1,0,6,1,12,10.3,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+11,37,11,2012-12-22,Syracuse,N,Temple,REG (Non-Conf),L 79-83,*,33,3,17,0.176,0,5,0.0,3,12,0.25,0.176,7,15,0.467,1,4,5,6,3,0,3,4,13,3.6,N,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+12,38,12,2012-12-29,Syracuse,,Alcorn State,REG (Non-Conf),W 57-36,*,27,1,3,0.333,0,0,,1,3,0.333,0.333,3,3,1.0,0,1,1,6,2,1,5,1,5,5.1,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+13,39,13,2012-12-31,Syracuse,,Central Connecticut State,REG (Non-Conf),W 96-62,*,34,6,10,0.6,3,4,0.75,3,6,0.5,0.75,3,4,0.75,2,7,9,13,2,0,6,1,18,21.2,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+14,40,14,2013-01-02,Syracuse,,Rutgers,REG (Conf),W 78-53,*,37,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,1,1,10,1,1,2,3,12,12.8,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+15,41,15,2013-01-06,Syracuse,@,South Florida,REG (Conf),W 55-44,*,38,1,13,0.077,1,4,0.25,0,9,0.0,0.115,1,3,0.333,4,5,9,5,4,0,3,0,4,3.3,A,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+16,42,16,2013-01-09,Syracuse,@,Providence,REG (Conf),W 72-66,*,38,6,13,0.462,2,6,0.333,4,7,0.571,0.538,3,3,1.0,1,5,6,6,5,0,1,2,17,19.9,A,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+17,43,17,2013-01-12,Syracuse,,Villanova,REG (Conf),W 72-61,*,38,3,12,0.25,0,2,0.0,3,10,0.3,0.25,4,6,0.667,1,2,3,7,3,0,3,2,10,7.4,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+18,44,18,2013-01-19,Syracuse,@,Louisville,REG (Conf),W 70-68,*,38,4,13,0.308,2,7,0.286,2,6,0.333,0.385,6,8,0.75,0,4,4,7,4,2,8,4,16,9.6,A,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+19,45,19,2013-01-21,Syracuse,,Cincinnati,REG (Conf),W 57-55,*,36,6,10,0.6,2,5,0.4,4,5,0.8,0.7,2,2,1.0,1,4,5,7,1,0,3,2,16,15.4,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+20,46,20,2013-01-26,Syracuse,@,Villanova,REG (Conf),L 71-75 (OT),*,44,4,17,0.235,1,4,0.25,3,13,0.231,0.265,8,14,0.571,3,2,5,4,0,0,5,4,17,3.2,A,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+21,47,21,2013-02-02,Syracuse,@,Pittsburgh,REG (Conf),L 55-65,*,30,3,12,0.25,1,5,0.2,2,7,0.286,0.292,6,7,0.857,0,4,4,2,3,0,3,5,13,6.0,A,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+22,48,22,2013-02-04,Syracuse,,Notre Dame,REG (Conf),W 63-47,*,30,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,2,3,8,3,1,1,0,5,12.9,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+23,49,23,2013-02-10,Syracuse,,St. John's (NY),REG (Conf),W 77-58,*,37,6,9,0.667,3,5,0.6,3,4,0.75,0.833,2,2,1.0,1,3,4,8,6,0,2,0,17,24.3,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+24,50,24,2013-02-13,Syracuse,@,Connecticut,REG (Conf),L 58-66,*,32,6,13,0.462,0,3,0.0,6,10,0.6,0.462,3,4,0.75,3,2,5,1,4,1,4,5,15,10.0,A,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+25,51,25,2013-02-16,Syracuse,@,Seton Hall,REG (Conf),W 76-65,*,40,3,10,0.3,0,0,,3,10,0.3,0.3,8,10,0.8,5,4,9,3,2,0,1,2,14,14.4,A,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+26,52,26,2013-02-20,Syracuse,,Providence,REG (Conf),W 84-59,*,36,5,8,0.625,0,0,,5,8,0.625,0.625,5,6,0.833,2,3,5,12,1,1,2,2,15,20.6,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+27,53,27,2013-02-23,Syracuse,,Georgetown,REG (Conf),L 46-57,*,39,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,3,1.0,2,2,4,5,2,1,3,2,7,8.0,H,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+28,54,28,2013-02-25,Syracuse,@,Marquette,REG (Conf),L 71-74,*,37,6,14,0.429,2,6,0.333,4,8,0.5,0.5,0,0,,0,0,0,5,2,0,4,3,14,6.9,A,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+29,55,29,2013-03-02,Syracuse,,Louisville,REG (Conf),L 53-58,*,38,3,10,0.3,1,4,0.25,2,6,0.333,0.35,4,4,1.0,0,7,7,6,1,0,1,3,11,10.3,H,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+30,56,30,2013-03-06,Syracuse,,DePaul,REG (Conf),W 78-57,*,36,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,3,2,5,5,4,1,2,2,10,14.7,H,1,1,michael-carter-williams-1,Michael Carter-Williams,2013
+31,57,31,2013-03-09,Syracuse,@,Georgetown,REG (Conf),L 39-61,*,38,8,13,0.615,0,1,0.0,8,12,0.667,0.615,1,1,1.0,0,2,2,2,2,0,5,1,17,9.7,A,0,1,michael-carter-williams-1,Michael Carter-Williams,2013
+32,58,32,2013-03-13,Syracuse,N,Seton Hall,CTOURN,W 75-63,*,40,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,1,4,5,14,2,0,1,4,6,13.7,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+33,59,33,2013-03-14,Syracuse,N,Pittsburgh,CTOURN,W 62-59,*,38,2,4,0.5,1,1,1.0,1,3,0.333,0.625,6,8,0.75,2,4,6,7,3,0,6,1,11,12.3,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+34,60,34,2013-03-15,Syracuse,N,Georgetown,CTOURN,W 58-55 (OT),*,41,1,7,0.143,0,2,0.0,1,5,0.2,0.143,1,3,0.333,1,4,5,6,2,0,6,2,3,-1.0,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+35,61,35,2013-03-16,Syracuse,N,Louisville,CTOURN,L 61-78,*,36,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,9,0.222,0,5,5,9,0,0,4,5,11,5.3,N,0,0,michael-carter-williams-1,Michael Carter-Williams,2013
+36,62,36,2013-03-21,Syracuse,N,Montana,ROUND-64,W 81-34,*,29,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,2,6,8,9,3,0,2,2,4,12.0,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+37,63,37,2013-03-23,Syracuse,N,California,ROUND-32,W 66-60,*,38,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,9,0.444,1,1,2,3,1,0,5,1,12,4.7,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+38,64,38,2013-03-28,Syracuse,N,Indiana,ROUND-16,W 61-50,*,38,9,19,0.474,3,5,0.6,6,14,0.429,0.553,3,6,0.5,1,5,6,1,4,1,2,2,24,17.9,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+39,65,39,2013-03-30,Syracuse,N,Marquette,ROUND-8,W 55-39,*,37,4,9,0.444,1,1,1.0,3,8,0.375,0.5,3,5,0.6,0,11,11,5,3,2,2,0,12,15.7,N,1,0,michael-carter-williams-1,Michael Carter-Williams,2013
+40,66,40,2013-04-06,Syracuse,N,Michigan,NATIONAL-SEMI,L 56-61,*,36,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,5,5,2,2,0,5,5,2,-3.9,N,0,0,michael-carter-williams-1,Michael Carter-Williams,2013

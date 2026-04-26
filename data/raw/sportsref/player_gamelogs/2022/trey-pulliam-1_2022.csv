@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2021-11-09,San Diego State,,UC Riverside,REG (Non-Conf),W 66-53,*,32,7,16,0.438,1,3,0.333,6,13,0.462,0.469,0,0,,1,3,4,1,0,0,2,3,15,5.7,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+2,62,2,2021-11-12,San Diego State,@,Brigham Young,REG (Non-Conf),L 60-66,*,36,5,14,0.357,1,6,0.167,4,8,0.5,0.393,1,2,0.5,0,3,3,4,0,0,0,3,12,6.3,A,0,1,trey-pulliam-1,Trey Pulliam,2022
+3,63,3,2021-11-18,San Diego State,,Arizona State,REG (Non-Conf),W 65-63,*,31,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,4,0.5,0,6,6,4,1,0,1,3,4,3.5,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+4,64,4,2021-11-20,San Diego State,,UT Arlington,REG (Non-Conf),W 68-62,*,31,2,6,0.333,2,2,1.0,0,4,0.0,0.5,5,5,1.0,0,1,1,2,1,0,1,4,11,7.7,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+5,65,5,2021-11-25,San Diego State,N,Georgetown,REG (Non-Conf),W 73-56,*,35,3,9,0.333,1,3,0.333,2,6,0.333,0.389,0,2,0.0,0,1,1,8,3,1,1,2,7,8.9,N,1,1,trey-pulliam-1,Trey Pulliam,2022
+6,66,6,2021-11-26,San Diego State,N,Southern California,REG (Non-Conf),L 43-58,*,34,4,10,0.4,1,2,0.5,3,8,0.375,0.45,2,4,0.5,0,3,3,1,1,0,3,4,11,2.8,N,0,1,trey-pulliam-1,Trey Pulliam,2022
+7,67,7,2021-11-30,San Diego State,,Long Beach State,REG (Non-Conf),W 72-47,*,23,7,9,0.778,1,1,1.0,6,8,0.75,0.833,1,2,0.5,0,1,1,5,2,0,2,2,16,15.1,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+8,68,8,2021-12-04,San Diego State,@,Michigan,REG (Non-Conf),L 58-72,*,38,2,9,0.222,0,2,0.0,2,7,0.286,0.222,3,4,0.75,1,4,5,2,2,0,2,4,7,2.8,A,0,1,trey-pulliam-1,Trey Pulliam,2022
+9,69,9,2021-12-08,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 66-56,*,37,5,10,0.5,1,3,0.333,4,7,0.571,0.55,4,4,1.0,0,7,7,3,4,1,5,2,15,13.1,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+10,70,10,2021-12-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 63-53,*,36,6,11,0.545,1,1,1.0,5,10,0.5,0.591,2,2,1.0,0,1,1,6,1,0,4,3,15,10.0,N,1,1,trey-pulliam-1,Trey Pulliam,2022
+11,71,11,2021-12-22,San Diego State,,UC San Diego,REG (Non-Conf),W 78-57,*,33,1,6,0.167,1,2,0.5,0,4,0.0,0.25,1,2,0.5,0,2,2,7,1,0,2,2,4,3.5,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+12,72,13,2022-01-08,San Diego State,,Colorado State,REG (Conf),W 79-49,*,23,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,4,0,0,3,4,2,-1.6,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+13,73,14,2022-01-22,San Diego State,,Boise State,REG (Conf),L 37-42,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,0,0,1,1,0,2,1,4,-0.1,H,0,1,trey-pulliam-1,Trey Pulliam,2022
+14,74,15,2022-01-24,San Diego State,,UNLV,REG (Conf),W 80-55,*,24,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,4,0.5,0,2,2,2,0,0,3,3,11,4.0,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+15,75,16,2022-01-26,San Diego State,@,Utah State,REG (Conf),L 57-75,*,27,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,0,2,0,4,2,0,-4.7,A,0,1,trey-pulliam-1,Trey Pulliam,2022
+16,76,17,2022-01-31,San Diego State,,New Mexico,REG (Conf),W 72-47,*,28,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,4,4,6,0,1,1,0,3,6.4,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+17,77,18,2022-02-04,San Diego State,@,Colorado State,REG (Conf),L 57-58,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,0,4,4,3,1,0,4,1,4,-0.2,A,0,1,trey-pulliam-1,Trey Pulliam,2022
+18,78,19,2022-02-06,San Diego State,,Nevada,REG (Conf),W 65-63,*,35,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,1,1,3,0,0,1,3,9,4.5,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+19,79,20,2022-02-09,San Diego State,@,San Jose State,REG (Conf),W 72-62,*,26,1,8,0.125,0,1,0.0,1,7,0.143,0.125,4,4,1.0,0,1,1,3,0,0,1,4,6,0.6,A,1,1,trey-pulliam-1,Trey Pulliam,2022
+20,80,21,2022-02-12,San Diego State,,Air Force,REG (Conf),W 76-64,*,30,2,4,0.5,0,0,,2,4,0.5,0.5,5,7,0.714,0,4,4,4,1,0,2,2,9,8.4,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+21,81,22,2022-02-15,San Diego State,,Utah State,REG (Conf),W 75-56,*,30,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,0,2,2,3,1,0,2,3,2,-1.3,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+22,82,23,2022-02-19,San Diego State,@,Fresno State,REG (Conf),W 61-44,*,34,3,8,0.375,1,2,0.5,2,6,0.333,0.438,2,2,1.0,1,0,1,8,1,0,2,2,9,9.1,A,1,1,trey-pulliam-1,Trey Pulliam,2022
+23,83,24,2022-02-22,San Diego State,@,Boise State,REG (Conf),L 57-58,*,22,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,0,1,1,1,0,0,0,3,4,1.4,A,0,1,trey-pulliam-1,Trey Pulliam,2022
+24,84,25,2022-02-25,San Diego State,,San Jose State,REG (Conf),W 77-52,*,25,4,7,0.571,1,1,1.0,3,6,0.5,0.643,4,4,1.0,0,1,1,0,2,0,2,2,13,9.2,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+25,85,26,2022-02-28,San Diego State,@,Wyoming,REG (Conf),W 73-66,*,28,6,11,0.545,2,5,0.4,4,6,0.667,0.636,0,0,,2,3,5,3,1,0,1,2,14,12.3,A,1,1,trey-pulliam-1,Trey Pulliam,2022
+26,86,27,2022-03-03,San Diego State,,Fresno State,REG (Conf),W 65-64 (2OT),*,39,4,13,0.308,1,4,0.25,3,9,0.333,0.346,0,2,0.0,0,2,2,4,2,0,2,3,9,2.9,H,1,1,trey-pulliam-1,Trey Pulliam,2022
+27,87,28,2022-03-05,San Diego State,@,Nevada,REG (Conf),W 79-78,*,31,5,10,0.5,0,3,0.0,5,7,0.714,0.5,2,4,0.5,0,3,3,4,1,0,3,4,12,6.3,A,1,1,trey-pulliam-1,Trey Pulliam,2022
+28,88,29,2022-03-10,San Diego State,N,Fresno State,CTOURN,W 53-46,*,32,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,1,0.0,0,2,2,2,1,0,1,1,10,6.9,N,1,0,trey-pulliam-1,Trey Pulliam,2022
+29,89,30,2022-03-11,San Diego State,N,Colorado State,CTOURN,W 63-58,*,34,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,2,1.0,0,0,0,6,0,0,2,1,11,8.8,N,1,0,trey-pulliam-1,Trey Pulliam,2022
+30,90,31,2022-03-12,San Diego State,N,Boise State,CTOURN,L 52-53,*,33,3,10,0.3,0,1,0.0,3,9,0.333,0.3,0,0,,0,3,3,3,2,1,4,4,6,0.3,N,0,0,trey-pulliam-1,Trey Pulliam,2022
+31,91,32,2022-03-17,San Diego State,N,Creighton,ROUND-64,L 69-72 (OT),*,37,6,14,0.429,2,2,1.0,4,12,0.333,0.5,0,2,0.0,1,2,3,3,2,0,5,1,14,5.8,N,0,0,trey-pulliam-1,Trey Pulliam,2022

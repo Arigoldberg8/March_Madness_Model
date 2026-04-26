@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-11,UNC Wilmington,,Claflin,REG (Non-Conf),W 110-64,,15,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,1,2,0,2,0,1,0,3,1.2,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+2,2,2,2016-11-14,UNC Wilmington,@,Eastern Kentucky,REG (Non-Conf),W 78-69 (OT),,9,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,0,2,2,0,-3.6,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+3,3,4,2016-11-25,UNC Wilmington,N,Middle Tennessee,REG (Non-Conf),L 63-68,*,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,0,1,1,0,0,1,2,5,2.9,N,0,1,jaylen-fornes-1,Jaylen Fornes,2017
+4,4,5,2016-11-26,UNC Wilmington,N,Evansville,REG (Non-Conf),W 65-62,,4,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,0,0,0,0,0,0,0,4,2.6,N,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+5,5,6,2016-11-27,UNC Wilmington,N,Toledo,REG (Non-Conf),W 102-77,,6,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,0,0,1,0,0,0,1,4,2.2,N,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+6,6,8,2016-12-03,UNC Wilmington,,Pfeiffer,REG (Non-Conf),W 126-113,,15,1,3,0.333,0,2,0.0,1,1,1.0,0.333,5,9,0.556,0,1,1,3,0,0,2,5,7,2.1,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+7,7,10,2016-12-14,UNC Wilmington,@,Campbell,REG (Non-Conf),W 96-75,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,2,1,0,0,0,2,4.1,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+8,8,11,2016-12-17,UNC Wilmington,,Radford,REG (Non-Conf),W 100-64,,8,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,1,2,2,-1.2,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+9,9,13,2016-12-28,UNC Wilmington,@,Clemson,REG (Non-Conf),L 73-87,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jaylen-fornes-1,Jaylen Fornes,2017
+10,10,14,2016-12-31,UNC Wilmington,@,Towson,REG (Conf),W 76-67,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+11,11,15,2017-01-02,UNC Wilmington,,Elon,REG (Conf),W 79-63,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+12,12,16,2017-01-05,UNC Wilmington,@,Drexel,REG (Conf),W 90-72,,8,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,1,0,1,2,1,-1.3,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+13,13,17,2017-01-07,UNC Wilmington,@,Delaware,REG (Conf),W 91-81,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+14,14,18,2017-01-12,UNC Wilmington,,William & Mary,REG (Conf),W 101-77,,9,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,3,3,0,0,0,0,0,5,4.2,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+15,15,19,2017-01-14,UNC Wilmington,,Hofstra,REG (Conf),W 84-76,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,0,2,2,1.6,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+16,16,21,2017-01-21,UNC Wilmington,,Drexel,REG (Conf),W 87-74,,6,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,1,0.0,1,0,1,1,0,0,0,2,7,4.9,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+17,17,22,2017-01-26,UNC Wilmington,@,James Madison,REG (Conf),W 87-76,,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,1,2,1.3,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+18,18,23,2017-01-28,UNC Wilmington,@,William & Mary,REG (Conf),L 78-96,,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,2,0.0,1,0,1,0,1,0,1,1,8,5.2,A,0,1,jaylen-fornes-1,Jaylen Fornes,2017
+19,19,24,2017-02-02,UNC Wilmington,,College of Charleston,REG (Conf),L 66-67,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,jaylen-fornes-1,Jaylen Fornes,2017
+20,20,25,2017-02-04,UNC Wilmington,,Delaware,REG (Conf),W 108-80,*,24,5,8,0.625,5,6,0.833,0,2,0.0,0.938,2,2,1.0,1,1,2,3,2,0,0,2,17,17.7,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+21,21,26,2017-02-09,UNC Wilmington,,James Madison,REG (Conf),W 88-73,*,21,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,2,1.0,1,1,2,2,0,0,1,3,8,4.8,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+22,22,27,2017-02-11,UNC Wilmington,@,Elon,REG (Conf),L 76-77,*,12,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,2,2,4,1,1,0,2,1,3,1.2,A,0,1,jaylen-fornes-1,Jaylen Fornes,2017
+23,23,28,2017-02-16,UNC Wilmington,@,Northeastern,REG (Conf),W 66-65,,2,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+24,24,29,2017-02-18,UNC Wilmington,@,Hofstra,REG (Conf),W 83-76,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,A,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+25,25,30,2017-02-23,UNC Wilmington,,Towson,REG (Conf),W 83-78,,9,2,3,0.667,2,2,1.0,0,1,0.0,1.0,2,4,0.5,1,2,3,0,0,0,0,2,8,6.4,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+26,26,31,2017-02-25,UNC Wilmington,,Northeastern,REG (Conf),W 74-65,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,0,0,3,2,1.1,H,1,1,jaylen-fornes-1,Jaylen Fornes,2017
+27,27,32,2017-03-04,UNC Wilmington,N,Delaware,CTOURN,W 91-82,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,1,0,0,1,0,2,1.7,N,1,0,jaylen-fornes-1,Jaylen Fornes,2017
+28,28,33,2017-03-05,UNC Wilmington,N,William & Mary,CTOURN,W 105-94,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,0,0,1,1,1,0,-0.1,N,1,0,jaylen-fornes-1,Jaylen Fornes,2017
+29,29,34,2017-03-06,UNC Wilmington,N,College of Charleston,CTOURN,W 78-69,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jaylen-fornes-1,Jaylen Fornes,2017
+30,30,35,2017-03-16,UNC Wilmington,N,Virginia,ROUND-64,L 71-76,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,0,0,jaylen-fornes-1,Jaylen Fornes,2017

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2025-11-03,California Baptist,,USC Upstate,REG (Non-Conf),W 87-75,*,19,4,7,0.571,2,2,1.0,2,5,0.4,0.714,2,2,1.0,2,2,4,0,0,0,1,2,12,8.9,H,1,1,martel-williams-1,Martel Williams,2026
+2,59,2,2025-11-07,California Baptist,@,UC Irvine,REG (Non-Conf),W 69-61,*,33,6,15,0.4,3,4,0.75,3,11,0.273,0.5,2,2,1.0,4,3,7,1,2,0,0,2,17,14.5,A,1,1,martel-williams-1,Martel Williams,2026
+3,60,3,2025-11-14,California Baptist,,Western Illinois,REG (Non-Conf),W 69-59,*,36,5,17,0.294,1,7,0.143,4,10,0.4,0.324,2,2,1.0,5,6,11,1,1,0,1,0,13,9.1,H,1,1,martel-williams-1,Martel Williams,2026
+4,61,4,2025-11-18,California Baptist,,UC Riverside,REG (Non-Conf),W 80-57,*,30,6,15,0.4,0,3,0.0,6,12,0.5,0.4,0,4,0.0,1,3,4,0,1,0,2,1,12,2.5,H,1,1,martel-williams-1,Martel Williams,2026
+5,62,5,2025-11-21,California Baptist,,Grambling State,REG (Non-Conf),W 72-59,*,35,6,10,0.6,1,1,1.0,5,9,0.556,0.65,4,5,0.8,0,4,4,3,2,0,1,3,17,15.1,H,1,1,martel-williams-1,Martel Williams,2026
+6,63,6,2025-11-25,California Baptist,N,San Diego,REG (Non-Conf),W 76-61,*,27,7,15,0.467,1,3,0.333,6,12,0.5,0.5,5,5,1.0,2,1,3,1,2,0,4,4,20,11.1,N,1,1,martel-williams-1,Martel Williams,2026
+7,64,7,2025-11-29,California Baptist,@,Oregon State,REG (Non-Conf),W 75-69,*,37,7,14,0.5,3,5,0.6,4,9,0.444,0.607,2,3,0.667,0,5,5,1,0,0,3,3,19,9.6,A,1,1,martel-williams-1,Martel Williams,2026
+8,65,8,2025-12-01,California Baptist,@,Colorado,REG (Non-Conf),L 70-78,*,37,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,3,0.667,3,2,5,1,2,0,0,2,14,11.5,A,0,1,martel-williams-1,Martel Williams,2026
+9,66,9,2025-12-03,California Baptist,N,Brigham Young,REG (Non-Conf),L 60-91,*,31,5,15,0.333,0,5,0.0,5,10,0.5,0.333,2,3,0.667,3,3,6,4,1,0,3,2,12,6.1,N,0,1,martel-williams-1,Martel Williams,2026
+10,67,10,2025-12-06,California Baptist,@,Utah,REG (Non-Conf),L 85-91,*,34,5,17,0.294,2,6,0.333,3,11,0.273,0.353,2,4,0.5,2,0,2,3,0,0,2,2,14,4.0,A,0,1,martel-williams-1,Martel Williams,2026
+11,68,11,2025-12-12,California Baptist,@,Eastern Washington,REG (Non-Conf),W 88-83,*,40,9,15,0.6,2,5,0.4,7,10,0.7,0.667,3,4,0.75,0,2,2,1,0,0,0,1,23,16.6,A,1,1,martel-williams-1,Martel Williams,2026
+12,69,12,2025-12-16,California Baptist,,Southern,REG (Non-Conf),W 75-67,*,37,2,9,0.222,1,6,0.167,1,3,0.333,0.278,5,6,0.833,1,6,7,2,0,0,0,0,10,8.0,H,1,1,martel-williams-1,Martel Williams,2026
+13,70,13,2025-12-20,California Baptist,,Sacramento State,REG (Non-Conf),W 74-67,*,40,6,11,0.545,2,2,1.0,4,9,0.444,0.636,0,0,,0,5,5,4,1,0,3,4,14,9.4,H,1,1,martel-williams-1,Martel Williams,2026
+14,71,14,2025-12-29,California Baptist,@,Utah Valley,REG (Conf),L 66-73,*,35,4,5,0.8,1,2,0.5,3,3,1.0,0.9,3,3,1.0,0,3,3,3,0,0,3,4,12,8.5,A,0,1,martel-williams-1,Martel Williams,2026
+15,72,15,2026-01-01,California Baptist,@,UT Arlington,REG (Conf),L 51-63,*,38,3,8,0.375,0,3,0.0,3,5,0.6,0.375,6,7,0.857,0,3,3,0,1,0,3,3,12,4.9,A,0,1,martel-williams-1,Martel Williams,2026
+16,73,16,2026-01-03,California Baptist,@,Tarleton State,REG (Conf),L 76-81 (OT),*,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,A,0,1,martel-williams-1,Martel Williams,2026
+17,74,17,2026-01-08,California Baptist,,Utah Tech,REG (Conf),W 84-72,*,31,5,12,0.417,2,5,0.4,3,7,0.429,0.5,5,6,0.833,1,2,3,4,1,0,2,3,17,12.1,H,1,1,martel-williams-1,Martel Williams,2026
+18,75,19,2026-01-15,California Baptist,@,Abilene Christian,REG (Conf),W 74-58,*,33,6,17,0.353,3,5,0.6,3,12,0.25,0.441,8,9,0.889,4,3,7,1,0,0,3,3,23,13.3,A,1,1,martel-williams-1,Martel Williams,2026
+19,76,20,2026-01-21,California Baptist,,Utah Tech,REG (Conf),W 73-64,*,35,6,10,0.6,0,2,0.0,6,8,0.75,0.6,1,3,0.333,2,3,5,2,0,1,2,1,13,9.6,H,1,1,martel-williams-1,Martel Williams,2026
+20,77,21,2026-01-24,California Baptist,,Utah Valley,REG (Conf),W 78-71 (OT),*,41,2,8,0.25,1,2,0.5,1,6,0.167,0.313,0,0,,1,4,5,1,0,0,3,0,5,-0.2,H,1,1,martel-williams-1,Martel Williams,2026
+21,78,22,2026-01-31,California Baptist,@,UT Arlington,REG (Conf),W 87-77 (OT),*,39,5,15,0.333,1,5,0.2,4,10,0.4,0.367,0,0,,1,5,6,0,1,0,2,5,11,1.7,A,1,1,martel-williams-1,Martel Williams,2026
+22,79,23,2026-02-05,California Baptist,,Tarleton State,REG (Conf),W 56-55,*,30,3,10,0.3,1,4,0.25,2,6,0.333,0.35,8,10,0.8,2,2,4,0,1,0,3,3,15,7.2,H,1,1,martel-williams-1,Martel Williams,2026
+23,80,24,2026-02-07,California Baptist,,Abilene Christian,REG (Conf),W 65-63,*,35,2,11,0.182,2,2,1.0,0,9,0.0,0.273,6,8,0.75,1,1,2,0,2,1,0,2,12,7.2,H,1,1,martel-williams-1,Martel Williams,2026
+24,81,25,2026-02-12,California Baptist,@,Southern Utah,REG (Conf),W 83-66,*,31,8,18,0.444,3,5,0.6,5,13,0.385,0.528,0,0,,2,9,11,3,1,1,1,1,19,16.1,A,1,1,martel-williams-1,Martel Williams,2026
+25,82,26,2026-02-14,California Baptist,@,Utah Tech,REG (Conf),L 65-70,*,36,1,12,0.083,1,7,0.143,0,5,0.0,0.125,3,4,0.75,2,6,8,3,1,0,0,2,6,3.1,A,0,1,martel-williams-1,Martel Williams,2026
+26,83,27,2026-02-19,California Baptist,@,Utah Valley,REG (Conf),L 46-65,*,26,1,7,0.143,1,2,0.5,0,5,0.0,0.214,0,0,,1,2,3,0,0,0,3,2,3,-4.0,A,0,1,martel-williams-1,Martel Williams,2026
+27,84,28,2026-02-26,California Baptist,,UT Arlington,REG (Conf),W 68-56,*,35,3,6,0.5,1,2,0.5,2,4,0.5,0.583,4,4,1.0,1,2,3,2,0,0,1,3,11,8.5,H,1,1,martel-williams-1,Martel Williams,2026
+28,85,29,2026-02-28,California Baptist,,Tarleton State,REG (Conf),W 82-67,*,32,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,0,1,1,1,0,0,2,12,10.0,H,1,1,martel-williams-1,Martel Williams,2026
+29,86,30,2026-03-05,California Baptist,,Abilene Christian,REG (Conf),W 87-48,*,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,2,1.0,1,3,4,1,1,1,1,0,10,9.0,H,1,1,martel-williams-1,Martel Williams,2026
+30,87,31,2026-03-07,California Baptist,@,Southern Utah,REG (Conf),W 82-75,*,29,6,13,0.462,0,3,0.0,6,10,0.6,0.462,2,3,0.667,2,7,9,3,0,0,2,3,14,9.3,A,1,1,martel-williams-1,Martel Williams,2026
+31,88,32,2026-03-13,California Baptist,N,Utah Tech,CTOURN,W 86-72,*,39,3,11,0.273,0,1,0.0,3,10,0.3,0.273,0,0,,2,3,5,1,1,0,1,3,6,1.3,N,1,0,martel-williams-1,Martel Williams,2026
+32,89,33,2026-03-15,California Baptist,N,Utah Valley,CTOURN,W 63-61,*,39,3,9,0.333,1,4,0.25,2,5,0.4,0.389,1,2,0.5,0,7,7,3,1,0,4,4,8,2.1,N,1,0,martel-williams-1,Martel Williams,2026

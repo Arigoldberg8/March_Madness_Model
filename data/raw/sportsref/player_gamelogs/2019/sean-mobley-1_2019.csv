@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2018-11-06,VCU,,Gardner-Webb,REG (Non-Conf),W 69-57,*,26,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,4,0.5,2,2,4,1,1,0,3,2,4,-0.7,H,1,1,sean-mobley-1,Sean Mobley,2019
+2,35,2,2018-11-09,VCU,,Hampton,REG (Non-Conf),W 69-57,*,24,2,7,0.286,1,1,1.0,1,6,0.167,0.357,2,2,1.0,1,2,3,3,0,0,1,2,7,4.5,H,1,1,sean-mobley-1,Sean Mobley,2019
+3,36,4,2018-11-19,VCU,N,Temple,REG (Non-Conf),W 57-51,,19,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,6,7,2,1,0,1,3,3,4.7,N,1,1,sean-mobley-1,Sean Mobley,2019
+4,37,5,2018-11-20,VCU,N,St. John's (NY),REG (Non-Conf),L 86-87 (OT),,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,4,0,-1.3,N,0,1,sean-mobley-1,Sean Mobley,2019
+5,38,6,2018-11-24,VCU,,Hofstra,REG (Non-Conf),W 69-67 (OT),*,27,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,3,5,8,1,2,0,2,1,5,4.1,H,1,1,sean-mobley-1,Sean Mobley,2019
+6,39,9,2018-12-05,VCU,@,Texas,REG (Non-Conf),W 54-53,,14,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,4,0.5,0,0,0,0,0,0,1,2,7,2.4,A,1,1,sean-mobley-1,Sean Mobley,2019
+7,40,10,2018-12-09,VCU,@,Virginia,REG (Non-Conf),L 49-57,,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,1,1.0,0,3,3,1,0,0,0,0,3,1.5,A,0,1,sean-mobley-1,Sean Mobley,2019
+8,41,11,2018-12-15,VCU,,College of Charleston,REG (Non-Conf),L 79-83,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,1,1,0,0,-1.0,H,0,1,sean-mobley-1,Sean Mobley,2019
+9,42,12,2018-12-22,VCU,,Wichita State,REG (Non-Conf),W 70-54,,20,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,4,4,2,1,0,1,2,4,5.5,H,1,1,sean-mobley-1,Sean Mobley,2019
+10,43,13,2018-12-30,VCU,,Rider,REG (Non-Conf),W 90-79,,15,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,3,0,0,1,2,3,2.6,H,1,1,sean-mobley-1,Sean Mobley,2019
+11,44,14,2019-01-05,VCU,@,Fordham,REG (Conf),W 76-51,*,19,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,0,1,1,2,3,0,1,3,12,11.2,A,1,1,sean-mobley-1,Sean Mobley,2019
+12,45,15,2019-01-09,VCU,,La Salle,REG (Conf),W 69-63,*,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,1,2,0,0,2,2,2,4,0.9,H,1,1,sean-mobley-1,Sean Mobley,2019
+13,46,16,2019-01-12,VCU,@,Davidson,REG (Conf),L 57-64,*,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,0,1,0,1,0,1,2,3,-0.2,A,0,1,sean-mobley-1,Sean Mobley,2019
+14,47,17,2019-01-16,VCU,,Dayton,REG (Conf),W 76-71,*,26,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,2,0.0,2,2,4,1,0,0,0,0,9,7.6,H,1,1,sean-mobley-1,Sean Mobley,2019
+15,48,18,2019-01-19,VCU,,Massachusetts,REG (Conf),W 68-50,*,18,0,0,,0,0,,0,0,,,0,0,,1,3,4,1,0,0,1,4,0,-0.3,H,1,1,sean-mobley-1,Sean Mobley,2019
+16,49,19,2019-01-23,VCU,@,Rhode Island,REG (Conf),L 65-71,*,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,A,0,1,sean-mobley-1,Sean Mobley,2019
+17,50,20,2019-01-26,VCU,@,Duquesne,REG (Conf),W 80-74,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,0,3,3,1,1,0,1,1,4,3.4,A,1,1,sean-mobley-1,Sean Mobley,2019
+18,51,21,2019-02-02,VCU,,George Mason,REG (Conf),W 79-63,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,2,0.0,0,4,4,4,1,1,1,0,5,6.2,H,1,1,sean-mobley-1,Sean Mobley,2019
+19,52,22,2019-02-06,VCU,@,George Washington,REG (Conf),W 60-50,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,0,1,1,2,1,0,3,3,5,1.1,A,1,1,sean-mobley-1,Sean Mobley,2019
+20,53,23,2019-02-09,VCU,@,St. Bonaventure,REG (Conf),W 85-55,*,20,5,6,0.833,1,1,1.0,4,5,0.8,0.917,1,1,1.0,1,2,3,0,0,0,0,1,12,10.7,A,1,1,sean-mobley-1,Sean Mobley,2019
+21,54,24,2019-02-13,VCU,,Richmond,REG (Conf),W 81-60,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,3,3,3,0,0,1,3,5,3.1,H,1,1,sean-mobley-1,Sean Mobley,2019
+22,55,25,2019-02-16,VCU,@,Dayton,REG (Conf),W 69-68,*,26,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,5,5,2,0,1,1,0,0,-0.2,A,1,1,sean-mobley-1,Sean Mobley,2019
+23,56,26,2019-02-19,VCU,,Rhode Island,REG (Conf),W 76-42,*,24,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,1,1,1,0,1,3,4.9,H,1,1,sean-mobley-1,Sean Mobley,2019
+24,57,27,2019-02-23,VCU,,George Washington,REG (Conf),W 85-57,*,18,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,3,0,0,0,2,6,5.3,H,1,1,sean-mobley-1,Sean Mobley,2019
+25,58,28,2019-02-26,VCU,,Saint Louis,REG (Conf),W 71-65,*,25,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,2,0.5,0,0,0,1,0,1,5,2,8,2.3,H,1,1,sean-mobley-1,Sean Mobley,2019
+26,59,29,2019-03-02,VCU,@,Richmond,REG (Conf),W 69-66,*,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,1,0,0,1,3,0,-1.3,A,1,1,sean-mobley-1,Sean Mobley,2019
+27,60,30,2019-03-05,VCU,@,George Mason,REG (Conf),W 71-36,*,20,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,0,1,0,1,0,1,1,2,-1.5,A,1,1,sean-mobley-1,Sean Mobley,2019
+28,61,31,2019-03-08,VCU,,Saint Joseph's,REG (Conf),W 75-63,*,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,3,0,0,0,1,5,5.3,H,1,1,sean-mobley-1,Sean Mobley,2019
+29,62,32,2019-03-15,VCU,N,Rhode Island,CTOURN,L 70-75,*,19,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,0,1,1,0,0,3,1,2,3,1.8,N,0,0,sean-mobley-1,Sean Mobley,2019
+30,63,33,2019-03-22,VCU,N,UCF,ROUND-64,L 58-73,*,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,1,1.0,0,1,1,0,2,0,0,3,3,1.7,N,0,0,sean-mobley-1,Sean Mobley,2019

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Wisconsin,,Western Illinois,REG (Non-Conf),L 67-69,,24,1,6,0.167,0,0,,1,6,0.167,0.167,4,6,0.667,5,2,7,0,3,3,0,3,6,9.4,H,0,1,khalil-iverson-1,Khalil Iverson,2016
+2,2,2,2015-11-15,Wisconsin,,Siena,REG (Non-Conf),W 92-65,,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,4,0.5,2,1,3,2,0,1,1,3,6,4.8,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+3,3,3,2015-11-17,Wisconsin,,North Dakota,REG (Non-Conf),W 78-64,,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,0,1,2,2,-0.9,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+4,4,4,2015-11-20,Wisconsin,N,Georgetown,REG (Non-Conf),L 61-71,,21,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,2,0,0,3,1,2,-0.1,N,0,1,khalil-iverson-1,Khalil Iverson,2016
+5,5,5,2015-11-22,Wisconsin,N,VCU,REG (Non-Conf),W 74-73,,13,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,0,0,0,2,0,5,1.7,N,1,1,khalil-iverson-1,Khalil Iverson,2016
+6,6,6,2015-11-25,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 85-67,,22,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,3,0.333,0,1,1,0,2,0,1,0,9,5.5,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+7,7,7,2015-11-29,Wisconsin,@,Oklahoma,REG (Non-Conf),L 48-65,,27,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,0,1,2,1,5,2.0,A,0,1,khalil-iverson-1,Khalil Iverson,2016
+8,8,8,2015-12-02,Wisconsin,@,Syracuse,REG (Non-Conf),W 66-58 (OT),,4,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,2,1,0,-3.5,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+9,9,9,2015-12-05,Wisconsin,,Temple,REG (Non-Conf),W 76-60,,12,0,0,,0,0,,0,0,,,1,2,0.5,0,4,4,0,0,1,0,0,1,2.5,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+10,10,10,2015-12-09,Wisconsin,,Milwaukee,REG (Non-Conf),L 67-68,,10,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,0,2,0,0.1,H,0,1,khalil-iverson-1,Khalil Iverson,2016
+11,11,11,2015-12-12,Wisconsin,,Marquette,REG (Non-Conf),L 55-57,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,khalil-iverson-1,Khalil Iverson,2016
+12,12,12,2015-12-15,Wisconsin,,Texas A&M–Corpus Christi,REG (Non-Conf),W 64-49,,14,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,2,0,2,0,0,0,0,0,2,2.0,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+13,13,13,2015-12-23,Wisconsin,,Green Bay,REG (Non-Conf),W 84-79,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,4,0.5,1,4,5,0,1,1,1,1,8,7.1,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+14,14,14,2015-12-29,Wisconsin,,Purdue,REG (Conf),L 55-61,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,H,0,1,khalil-iverson-1,Khalil Iverson,2016
+15,15,15,2016-01-02,Wisconsin,,Rutgers,REG (Conf),W 79-57,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,2,3,0,0,0,0,0,2,1.5,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+16,16,16,2016-01-05,Wisconsin,@,Indiana,REG (Conf),L 58-59,,8,0,0,,0,0,,0,0,,,1,2,0.5,1,0,1,1,0,0,1,0,1,1.0,A,0,1,khalil-iverson-1,Khalil Iverson,2016
+17,17,18,2016-01-12,Wisconsin,@,Northwestern,REG (Conf),L 65-70,,8,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,0,2,2,2,0,0,1,6,8.8,A,0,1,khalil-iverson-1,Khalil Iverson,2016
+18,18,19,2016-01-17,Wisconsin,,Michigan State,REG (Conf),W 77-76,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+19,19,20,2016-01-21,Wisconsin,@,Penn State,REG (Conf),W 66-60,,4,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,2,2,0,-1.8,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+20,20,21,2016-01-26,Wisconsin,,Indiana,REG (Conf),W 82-79 (OT),,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,2,1,0,-1.7,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+21,21,22,2016-01-31,Wisconsin,@,Illinois,REG (Conf),W 63-55,,30,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,2,3,5,2,1,1,2,1,10,11.4,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+22,22,23,2016-02-04,Wisconsin,,Ohio State,REG (Conf),W 79-68,,15,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,1,0,0,0.0,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+23,23,24,2016-02-10,Wisconsin,,Nebraska,REG (Conf),W 72-61,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,2,0,0,-2.0,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+24,24,25,2016-02-13,Wisconsin,@,Maryland,REG (Conf),W 70-57,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,1,0,2,1.7,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+25,25,26,2016-02-18,Wisconsin,@,Michigan State,REG (Conf),L 57-69,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,4,0,4,1,0,2,0,0,0,3.5,A,0,1,khalil-iverson-1,Khalil Iverson,2016
+26,26,27,2016-02-21,Wisconsin,,Illinois,REG (Conf),W 69-60,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,1,0,1,0,0.3,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+27,27,28,2016-02-24,Wisconsin,@,Iowa,REG (Conf),W 67-59,,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,1,1.0,0,3,3,3,1,1,1,1,9,9.0,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+28,28,29,2016-02-28,Wisconsin,,Michigan,REG (Conf),W 68-57,,15,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,3,3,1,0,1,2,1,1,-0.2,H,1,1,khalil-iverson-1,Khalil Iverson,2016
+29,29,30,2016-03-02,Wisconsin,@,Minnesota,REG (Conf),W 62-49,,15,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,1,1,1,1,0,1,0,6,5.4,A,1,1,khalil-iverson-1,Khalil Iverson,2016
+30,30,31,2016-03-06,Wisconsin,@,Purdue,REG (Conf),L 80-91,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,1,0,2,0,-0.1,A,0,1,khalil-iverson-1,Khalil Iverson,2016
+31,31,32,2016-03-10,Wisconsin,N,Nebraska,CTOURN,L 58-70,,4,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,1,0,0,0,1,0,-0.5,N,0,0,khalil-iverson-1,Khalil Iverson,2016
+32,32,33,2016-03-18,Wisconsin,N,Pittsburgh,ROUND-64,W 47-43,,6,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,N,1,0,khalil-iverson-1,Khalil Iverson,2016
+33,33,34,2016-03-20,Wisconsin,N,Xavier,ROUND-32,W 66-63,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,1,2,1,1,3,1,3,2,3.5,N,1,0,khalil-iverson-1,Khalil Iverson,2016
+34,34,35,2016-03-25,Wisconsin,N,Notre Dame,ROUND-16,L 56-61,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,2,1,0,2,2.8,N,0,0,khalil-iverson-1,Khalil Iverson,2016

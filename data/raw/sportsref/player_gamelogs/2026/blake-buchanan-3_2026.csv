@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2025-11-03,Iowa State,,FDU,REG (Non-Conf),W 88-50,*,14,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,0,2,0,2,0,0,4,4,3.8,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+2,68,2,2025-11-06,Iowa State,,Grambling State,REG (Non-Conf),W 102-62,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,0,2,0.0,4,5,9,2,0,4,1,4,8,9.8,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+3,69,3,2025-11-10,Iowa State,N,Mississippi State,REG (Non-Conf),W 96-80,*,32,5,6,0.833,0,0,,5,6,0.833,0.833,3,6,0.5,5,1,6,4,1,3,1,4,13,16.7,N,1,1,blake-buchanan-3,Blake Buchanan,2026
+4,70,4,2025-11-17,Iowa State,,Stonehill,REG (Non-Conf),W 96-57,*,22,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,2,3,5,1,0,1,1,3,6,5.8,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+5,71,5,2025-11-24,Iowa State,N,St. John's (NY),REG (Non-Conf),W 83-82,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,3,1,4,3,0,0,0,4,7,8.2,N,1,1,blake-buchanan-3,Blake Buchanan,2026
+6,72,6,2025-11-25,Iowa State,N,Creighton,REG (Non-Conf),W 78-60,*,31,6,11,0.545,0,0,,6,11,0.545,0.545,0,1,0.0,3,6,9,0,2,1,1,3,12,10.7,N,1,1,blake-buchanan-3,Blake Buchanan,2026
+7,73,7,2025-11-26,Iowa State,N,Syracuse,REG (Non-Conf),W 95-64,*,23,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,3,2,5,0,3,0,1,3,12,12.3,N,1,1,blake-buchanan-3,Blake Buchanan,2026
+8,74,8,2025-12-03,Iowa State,,Alcorn State,REG (Non-Conf),W 132-68,*,19,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,1,2,2,0,0,3,1,6,4.4,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+9,75,9,2025-12-06,Iowa State,@,Purdue,REG (Non-Conf),W 81-58,*,30,6,9,0.667,0,0,,6,9,0.667,0.667,0,1,0.0,4,5,9,2,0,2,1,3,12,12.6,A,1,1,blake-buchanan-3,Blake Buchanan,2026
+10,76,10,2025-12-11,Iowa State,,Iowa,REG (Non-Conf),W 66-62,*,32,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,4,6,2,3,4,0,1,6,14.1,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+11,77,11,2025-12-14,Iowa State,,Eastern Illinois,REG (Non-Conf),W 78-53,*,28,7,8,0.875,0,0,,7,8,0.875,0.875,0,0,,3,3,6,2,1,2,1,0,14,17.0,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+12,78,12,2025-12-21,Iowa State,,Long Beach State,REG (Non-Conf),W 91-60,*,28,6,7,0.857,0,0,,6,7,0.857,0.857,1,4,0.25,5,8,13,2,0,1,3,2,13,13.5,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+13,79,13,2025-12-29,Iowa State,,Houston Christian,REG (Non-Conf),W 89-61,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,4,8,0.5,6,5,11,0,1,1,1,4,16,16.7,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+14,80,14,2026-01-02,Iowa State,,West Virginia,REG (Conf),W 80-59,*,31,7,11,0.636,0,0,,7,11,0.636,0.636,0,1,0.0,3,3,6,4,0,2,2,1,14,13.5,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+15,81,15,2026-01-07,Iowa State,@,Baylor,REG (Conf),W 70-60,*,23,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,2,3,2,0,0,1,4,0,-2.0,A,1,1,blake-buchanan-3,Blake Buchanan,2026
+16,82,16,2026-01-10,Iowa State,,Oklahoma State,REG (Conf),W 83-71,*,28,4,8,0.5,0,0,,4,8,0.5,0.5,2,4,0.5,3,3,6,3,0,0,1,2,10,8.5,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+17,83,17,2026-01-13,Iowa State,@,Kansas,REG (Conf),L 63-84,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,0,2,0,0,0,1,1,2,0.3,A,0,1,blake-buchanan-3,Blake Buchanan,2026
+18,84,18,2026-01-17,Iowa State,@,Cincinnati,REG (Conf),L 70-79,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,2,3,5,1,0,1,1,0,4,3.9,A,0,1,blake-buchanan-3,Blake Buchanan,2026
+19,85,19,2026-01-20,Iowa State,,UCF,REG (Conf),W 87-57,*,19,4,6,0.667,0,0,,4,6,0.667,0.667,3,5,0.6,3,3,6,0,1,0,0,2,11,10.8,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+20,86,20,2026-01-24,Iowa State,@,Oklahoma State,REG (Conf),W 84-71,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,6,3,9,0,0,0,1,5,9,8.5,A,1,1,blake-buchanan-3,Blake Buchanan,2026
+21,87,21,2026-01-29,Iowa State,,Colorado,REG (Conf),W 97-67,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,5,5,3,1,0,1,2,2,3.7,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+22,88,22,2026-02-01,Iowa State,@,Kansas State,REG (Conf),W 95-61,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,4,5,1,0,0,2,1,5,2.8,A,1,1,blake-buchanan-3,Blake Buchanan,2026
+23,89,23,2026-02-07,Iowa State,,Baylor,REG (Conf),W 72-69,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,3,1,4,3,0,1,1,2,4,6.1,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+24,90,24,2026-02-10,Iowa State,@,TCU,REG (Conf),L 55-62,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,1,3,1,0,2,1,1,6,5.4,A,0,1,blake-buchanan-3,Blake Buchanan,2026
+25,91,25,2026-02-14,Iowa State,,Kansas,REG (Conf),W 74-56,*,22,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,2,4,6,1,0,1,1,3,11,10.6,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+26,92,26,2026-02-16,Iowa State,,Houston,REG (Conf),W 70-67,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,2,7,0.286,1,3,4,1,0,1,0,2,10,6.9,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+27,93,27,2026-02-21,Iowa State,@,Brigham Young,REG (Conf),L 69-79,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,3,1,4,0,0,0,2,1,6,4.4,A,0,1,blake-buchanan-3,Blake Buchanan,2026
+28,94,28,2026-02-24,Iowa State,@,Utah,REG (Conf),W 75-59,,22,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,0,3,3,1,2,2,0,3,10,11.2,A,1,1,blake-buchanan-3,Blake Buchanan,2026
+29,95,29,2026-02-28,Iowa State,,Texas Tech,REG (Conf),L 73-82,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,8,3,11,3,0,1,2,4,8,11.1,H,0,1,blake-buchanan-3,Blake Buchanan,2026
+30,96,30,2026-03-02,Iowa State,@,Arizona,REG (Conf),L 57-73,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,6,1,7,2,1,1,1,3,4,7.4,A,0,1,blake-buchanan-3,Blake Buchanan,2026
+31,97,31,2026-03-07,Iowa State,,Arizona State,REG (Conf),W 86-65,*,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,1,3,4,0,0,1,2,2,8,3.5,H,1,1,blake-buchanan-3,Blake Buchanan,2026
+32,98,32,2026-03-11,Iowa State,N,Arizona State,CTOURN,W 91-42,*,25,7,11,0.636,0,0,,7,11,0.636,0.636,3,7,0.429,3,3,6,1,2,0,1,1,17,14.8,N,1,0,blake-buchanan-3,Blake Buchanan,2026
+33,99,33,2026-03-12,Iowa State,N,Texas Tech,CTOURN,W 75-53,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,3,3,1.0,1,2,3,0,2,0,0,1,9,9.6,N,1,0,blake-buchanan-3,Blake Buchanan,2026
+34,100,34,2026-03-13,Iowa State,N,Arizona,CTOURN,L 80-82,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,3,1,4,3,1,0,1,4,8,7.6,N,0,0,blake-buchanan-3,Blake Buchanan,2026

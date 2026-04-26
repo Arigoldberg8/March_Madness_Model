@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,SIU Edwardsville,,Westminster (MO),REG (Non-Conf),W 95-42,*,16,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,1,6,7,1,0,1,0,0,7,5.8,H,1,1,ring-malith-1,Ring Malith,2025
+2,2,2,2024-11-06,SIU Edwardsville,@,Indiana,REG (Non-Conf),L 61-80,*,24,1,12,0.083,1,7,0.143,0,5,0.0,0.125,0,0,,3,3,6,2,0,0,2,3,3,-3.8,A,0,1,ring-malith-1,Ring Malith,2025
+3,3,3,2024-11-08,SIU Edwardsville,@,Illinois,REG (Non-Conf),L 58-90,*,17,3,11,0.273,1,6,0.167,2,5,0.4,0.318,2,4,0.5,0,1,1,1,0,0,1,3,9,0.5,A,0,1,ring-malith-1,Ring Malith,2025
+4,4,4,2024-11-12,SIU Edwardsville,@,Indiana State,REG (Non-Conf),W 77-72,*,33,8,15,0.533,2,7,0.286,6,8,0.75,0.6,1,1,1.0,2,3,5,1,3,1,2,4,19,14.8,A,1,1,ring-malith-1,Ring Malith,2025
+5,5,5,2024-11-15,SIU Edwardsville,@,Western Michigan,REG (Non-Conf),W 79-60,*,26,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,1,3,4,0,0,0,1,4,7,3.0,A,1,1,ring-malith-1,Ring Malith,2025
+6,6,6,2024-11-16,SIU Edwardsville,N,Canisius,REG (Non-Conf),W 76-58,*,18,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,2,2,0,1,0,1,2,5,2.8,N,1,1,ring-malith-1,Ring Malith,2025
+7,7,7,2024-11-19,SIU Edwardsville,@,Green Bay,REG (Non-Conf),L 57-82,*,26,0,10,0.0,0,6,0.0,0,4,0.0,0.0,3,4,0.75,1,3,4,1,0,2,1,2,3,-2.5,A,0,1,ring-malith-1,Ring Malith,2025
+8,8,8,2024-11-23,SIU Edwardsville,,St. Ambrose,REG (Non-Conf),W 83-49,*,27,4,12,0.333,0,3,0.0,4,9,0.444,0.333,2,6,0.333,8,11,19,4,1,1,1,1,10,13.6,H,1,1,ring-malith-1,Ring Malith,2025
+9,9,9,2024-11-29,SIU Edwardsville,,North Florida,REG (Non-Conf),L 73-78,*,36,6,14,0.429,1,4,0.25,5,10,0.5,0.464,0,0,,1,7,8,3,1,2,1,3,13,10.7,H,0,1,ring-malith-1,Ring Malith,2025
+10,10,10,2024-12-08,SIU Edwardsville,,Ball State,REG (Non-Conf),W 82-69,*,36,7,13,0.538,1,4,0.25,6,9,0.667,0.577,9,10,0.9,5,5,10,1,1,0,3,3,24,19.8,H,1,1,ring-malith-1,Ring Malith,2025
+11,11,11,2024-12-15,SIU Edwardsville,,Eureka,REG (Non-Conf),W 100-52,*,17,6,7,0.857,3,3,1.0,3,4,0.75,1.071,1,2,0.5,0,3,3,0,0,0,0,0,16,14.0,H,1,1,ring-malith-1,Ring Malith,2025
+12,12,12,2024-12-19,SIU Edwardsville,@,Little Rock,REG (Conf),L 56-60,*,34,3,13,0.231,1,3,0.333,2,10,0.2,0.269,0,0,,1,5,6,1,2,1,2,3,7,1.5,A,0,1,ring-malith-1,Ring Malith,2025
+13,13,13,2024-12-21,SIU Edwardsville,@,Southeast Missouri State,REG (Conf),L 64-80,*,32,3,12,0.25,1,7,0.143,2,5,0.4,0.292,1,2,0.5,0,6,6,2,0,0,0,4,8,2.0,A,0,1,ring-malith-1,Ring Malith,2025
+14,14,14,2025-01-02,SIU Edwardsville,,Western Illinois,REG (Conf),W 77-66,*,32,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,2,6,8,4,2,0,2,0,9,12.0,H,1,1,ring-malith-1,Ring Malith,2025
+15,15,15,2025-01-04,SIU Edwardsville,,Lindenwood,REG (Conf),W 58-47,*,28,0,8,0.0,0,5,0.0,0,3,0.0,0.0,0,0,,1,4,5,1,2,0,0,2,0,-1.8,H,1,1,ring-malith-1,Ring Malith,2025
+16,16,16,2025-01-07,SIU Edwardsville,@,Eastern Illinois,REG (Conf),W 60-57,*,31,5,8,0.625,1,2,0.5,4,6,0.667,0.688,4,4,1.0,3,8,11,0,1,0,3,1,15,13.5,A,1,1,ring-malith-1,Ring Malith,2025
+17,17,17,2025-01-11,SIU Edwardsville,,Tennessee Tech,REG (Conf),W 67-59,*,35,6,14,0.429,1,3,0.333,5,11,0.455,0.464,1,3,0.333,2,7,9,0,0,0,4,2,14,4.5,H,1,1,ring-malith-1,Ring Malith,2025
+18,18,18,2025-01-16,SIU Edwardsville,@,Tennessee State,REG (Conf),W 87-80 (2OT),*,47,6,9,0.667,2,2,1.0,4,7,0.571,0.778,2,3,0.667,2,5,7,6,1,1,3,4,16,15.9,A,1,1,ring-malith-1,Ring Malith,2025
+19,19,19,2025-01-18,SIU Edwardsville,@,UT Martin,REG (Conf),L 82-85,*,34,3,5,0.6,1,1,1.0,2,4,0.5,0.7,7,8,0.875,2,2,4,3,0,1,2,2,14,13.3,A,0,1,ring-malith-1,Ring Malith,2025
+20,20,20,2025-01-23,SIU Edwardsville,,Southern Indiana,REG (Conf),W 82-76,*,35,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,3,1.0,0,4,4,1,1,0,2,2,10,8.5,H,1,1,ring-malith-1,Ring Malith,2025
+21,21,21,2025-01-25,SIU Edwardsville,,Morehead State,REG (Conf),W 65-54,*,37,4,6,0.667,1,3,0.333,3,3,1.0,0.75,5,6,0.833,2,3,5,1,2,2,1,0,14,16.4,H,1,1,ring-malith-1,Ring Malith,2025
+22,22,22,2025-01-30,SIU Edwardsville,@,Lindenwood,REG (Conf),L 63-65,*,39,5,14,0.357,2,6,0.333,3,8,0.375,0.429,3,4,0.75,1,12,13,1,1,0,3,2,15,9.0,A,0,1,ring-malith-1,Ring Malith,2025
+23,23,23,2025-02-01,SIU Edwardsville,@,Western Illinois,REG (Conf),W 69-65,*,30,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,3,1.0,1,6,7,2,2,2,1,3,14,16.2,A,1,1,ring-malith-1,Ring Malith,2025
+24,24,24,2025-02-04,SIU Edwardsville,,Eastern Illinois,REG (Conf),W 66-41,*,34,3,10,0.3,1,5,0.2,2,5,0.4,0.35,3,4,0.75,5,9,14,0,0,2,1,0,10,10.4,H,1,1,ring-malith-1,Ring Malith,2025
+25,25,25,2025-02-06,SIU Edwardsville,@,Tennessee Tech,REG (Conf),W 75-58,*,35,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,2,12,14,3,1,2,1,2,4,6.9,A,1,1,ring-malith-1,Ring Malith,2025
+26,26,26,2025-02-13,SIU Edwardsville,,UT Martin,REG (Conf),L 71-76,*,39,7,15,0.467,3,7,0.429,4,8,0.5,0.567,5,6,0.833,3,4,7,0,2,0,2,3,22,16.0,H,0,1,ring-malith-1,Ring Malith,2025
+27,27,27,2025-02-15,SIU Edwardsville,,Tennessee State,REG (Conf),W 84-72,*,36,3,12,0.25,1,6,0.167,2,6,0.333,0.292,6,8,0.75,2,3,5,0,0,1,1,2,13,6.2,H,1,1,ring-malith-1,Ring Malith,2025
+28,28,28,2025-02-20,SIU Edwardsville,@,Morehead State,REG (Conf),W 80-62,*,29,3,5,0.6,2,2,1.0,1,3,0.333,0.8,3,4,0.75,1,5,6,0,0,0,2,2,11,7.7,A,1,1,ring-malith-1,Ring Malith,2025
+29,29,29,2025-02-22,SIU Edwardsville,@,Southern Indiana,REG (Conf),L 68-82,*,35,4,14,0.286,2,5,0.4,2,9,0.222,0.357,3,5,0.6,2,4,6,1,0,2,1,2,13,6.9,A,0,1,ring-malith-1,Ring Malith,2025
+30,30,30,2025-02-27,SIU Edwardsville,,Southeast Missouri State,REG (Conf),L 68-83,*,34,3,10,0.3,1,5,0.2,2,5,0.4,0.35,5,6,0.833,4,8,12,0,1,0,2,0,12,10.0,H,0,1,ring-malith-1,Ring Malith,2025
+31,31,31,2025-03-01,SIU Edwardsville,,Little Rock,REG (Conf),W 73-65,*,34,6,9,0.667,4,5,0.8,2,4,0.5,0.889,5,6,0.833,2,5,7,4,2,2,3,3,21,21.6,H,1,1,ring-malith-1,Ring Malith,2025
+32,32,32,2025-03-07,SIU Edwardsville,N,Tennessee State,CTOURN,W 71-69,*,27,3,11,0.273,1,5,0.2,2,6,0.333,0.318,1,2,0.5,2,2,4,1,0,0,0,2,8,3.0,N,1,0,ring-malith-1,Ring Malith,2025
+33,33,33,2025-03-08,SIU Edwardsville,N,Southeast Missouri State,CTOURN,W 69-48,*,31,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,3,1.0,1,6,7,1,0,1,2,2,12,8.4,N,1,0,ring-malith-1,Ring Malith,2025
+34,34,34,2025-03-20,SIU Edwardsville,N,Houston,ROUND-64,L 40-78,*,25,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,2,2,0,0,0,1,1,0,-4.3,N,0,0,ring-malith-1,Ring Malith,2025

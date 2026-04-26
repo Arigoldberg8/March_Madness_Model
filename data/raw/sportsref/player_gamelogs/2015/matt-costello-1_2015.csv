@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2014-11-14,Michigan State,@,Navy,REG (Non-Conf),W 64-59,*,22,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,6,7,0,0,0,1,4,6,5.0,A,1,1,matt-costello-1,Matt Costello,2015
+2,66,2,2014-11-18,Michigan State,N,Duke,REG (Non-Conf),L 71-81,*,21,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,1,0.0,2,2,4,0,1,0,0,3,6,5.1,N,0,1,matt-costello-1,Matt Costello,2015
+3,67,3,2014-11-21,Michigan State,,Loyola Chicago,REG (Non-Conf),W 87-52,*,22,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,2,9,11,1,1,1,2,2,13,11.7,H,1,1,matt-costello-1,Matt Costello,2015
+4,68,4,2014-11-24,Michigan State,,Santa Clara,REG (Non-Conf),W 79-52,*,17,0,2,0.0,0,0,,0,2,0.0,0.0,2,5,0.4,5,4,9,2,0,2,1,2,2,5.1,H,1,1,matt-costello-1,Matt Costello,2015
+5,69,5,2014-11-27,Michigan State,N,Rider,REG (Non-Conf),W 77-45,*,19,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,1,8,9,1,2,3,2,4,6,6.9,N,1,1,matt-costello-1,Matt Costello,2015
+6,70,6,2014-11-28,Michigan State,N,Marquette,REG (Non-Conf),W 79-68,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,3,5,0,0,1,1,2,4,4.9,N,1,1,matt-costello-1,Matt Costello,2015
+7,71,7,2014-11-30,Michigan State,N,Kansas,REG (Non-Conf),L 56-61,,15,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,1,0,0,1,3,4,1.4,N,0,1,matt-costello-1,Matt Costello,2015
+8,72,8,2014-12-03,Michigan State,@,Notre Dame,REG (Non-Conf),L 78-79 (OT),,13,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,1,0,2,4,3.9,A,0,1,matt-costello-1,Matt Costello,2015
+9,73,9,2014-12-06,Michigan State,,Arkansas–Pine Bluff,REG (Non-Conf),W 85-52,,19,5,6,0.833,0,0,,5,6,0.833,0.833,5,6,0.833,3,2,5,0,1,0,3,1,15,12.7,H,1,1,matt-costello-1,Matt Costello,2015
+10,74,10,2014-12-14,Michigan State,,Oakland,REG (Non-Conf),W 87-61,,19,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,0,3,3,1,0,1,1,3,11,8.9,H,1,1,matt-costello-1,Matt Costello,2015
+11,75,11,2014-12-17,Michigan State,,Eastern Michigan,REG (Non-Conf),W 66-46,,22,2,5,0.4,0,0,,2,5,0.4,0.4,6,6,1.0,3,6,9,1,0,1,1,3,10,10.4,H,1,1,matt-costello-1,Matt Costello,2015
+12,76,12,2014-12-20,Michigan State,,Texas Southern,REG (Non-Conf),L 64-71 (OT),,22,8,10,0.8,0,0,,8,10,0.8,0.8,1,1,1.0,6,4,10,0,0,1,2,1,17,16.9,H,0,1,matt-costello-1,Matt Costello,2015
+13,77,13,2014-12-22,Michigan State,,The Citadel,REG (Non-Conf),W 82-56,,16,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,3,2,5,1,0,1,1,1,13,12.8,H,1,1,matt-costello-1,Matt Costello,2015
+14,78,14,2014-12-30,Michigan State,,Maryland,REG (Conf),L 66-68 (2OT),,25,2,6,0.333,0,0,,2,6,0.333,0.333,5,6,0.833,2,4,6,0,0,0,1,4,9,5.2,H,0,1,matt-costello-1,Matt Costello,2015
+15,79,15,2015-01-05,Michigan State,,Indiana,REG (Conf),W 70-50,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,7,7,1,0,2,0,0,2,4.5,H,1,1,matt-costello-1,Matt Costello,2015
+16,80,16,2015-01-08,Michigan State,@,Iowa,REG (Conf),W 75-61,,19,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,1,1,2,1,3,2,2.8,A,1,1,matt-costello-1,Matt Costello,2015
+17,81,17,2015-01-11,Michigan State,,Northwestern,REG (Conf),W 84-77 (OT),,19,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,0,0,0,1,0,3,0.9,H,1,1,matt-costello-1,Matt Costello,2015
+18,82,18,2015-01-17,Michigan State,@,Maryland,REG (Conf),L 59-75,,23,6,10,0.6,0,1,0.0,6,9,0.667,0.6,0,2,0.0,4,3,7,1,0,2,1,1,12,11.0,A,0,1,matt-costello-1,Matt Costello,2015
+19,83,19,2015-01-21,Michigan State,,Penn State,REG (Conf),W 66-60,,19,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,2,0,2,3,0,1,0,4,10,8.6,H,1,1,matt-costello-1,Matt Costello,2015
+20,84,20,2015-01-24,Michigan State,@,Nebraska,REG (Conf),L 77-79,,11,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,0,3,3,1,0,0,1,2,1,-1.7,A,0,1,matt-costello-1,Matt Costello,2015
+21,85,21,2015-01-29,Michigan State,@,Rutgers,REG (Conf),W 71-51,,19,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,2,3,5,0,0,2,2,2,9,8.3,A,1,1,matt-costello-1,Matt Costello,2015
+22,86,22,2015-02-01,Michigan State,,Michigan,REG (Conf),W 76-66 (OT),,24,2,4,0.5,0,0,,2,4,0.5,0.5,6,7,0.857,5,2,7,0,1,4,1,3,10,13.3,H,1,1,matt-costello-1,Matt Costello,2015
+23,87,23,2015-02-07,Michigan State,,Illinois,REG (Conf),L 54-59,,24,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,4,3,7,0,0,0,1,2,3,3.1,H,0,1,matt-costello-1,Matt Costello,2015
+24,88,24,2015-02-10,Michigan State,@,Northwestern,REG (Conf),W 68-44,,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,2,2,3,0,3,4,8.3,A,1,1,matt-costello-1,Matt Costello,2015
+25,89,25,2015-02-14,Michigan State,,Ohio State,REG (Conf),W 59-56,,21,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,1,4,5,1,0,1,0,2,9,7.8,H,1,1,matt-costello-1,Matt Costello,2015
+26,90,26,2015-02-17,Michigan State,@,Michigan,REG (Conf),W 80-67,,20,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,3,4,7,0,0,1,0,4,7,8.1,A,1,1,matt-costello-1,Matt Costello,2015
+27,91,27,2015-02-22,Michigan State,@,Illinois,REG (Conf),W 60-53,,19,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,5,2,-1.0,A,1,1,matt-costello-1,Matt Costello,2015
+28,92,28,2015-02-26,Michigan State,,Minnesota,REG (Conf),L 90-96 (OT),,30,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,2,2,4,2,2,2,0,5,7,9.5,H,0,1,matt-costello-1,Matt Costello,2015
+29,93,29,2015-03-01,Michigan State,@,Wisconsin,REG (Conf),L 61-68,,24,4,6,0.667,0,0,,4,6,0.667,0.667,0,1,0.0,1,4,5,0,0,2,1,2,8,6.5,A,0,1,matt-costello-1,Matt Costello,2015
+30,94,30,2015-03-04,Michigan State,,Purdue,REG (Conf),W 72-66,,25,4,8,0.5,0,1,0.0,4,7,0.571,0.5,5,7,0.714,4,3,7,1,2,4,0,4,13,15.8,H,1,1,matt-costello-1,Matt Costello,2015
+31,95,31,2015-03-07,Michigan State,@,Indiana,REG (Conf),W 74-72,,20,3,6,0.5,0,0,,3,6,0.5,0.5,0,2,0.0,4,4,8,1,1,1,0,0,6,8.6,A,1,1,matt-costello-1,Matt Costello,2015
+32,96,32,2015-03-13,Michigan State,N,Ohio State,CTOURN,W 76-67,,22,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,3,0,3,1,0,2,0,3,7,7.3,N,1,0,matt-costello-1,Matt Costello,2015
+33,97,33,2015-03-14,Michigan State,N,Maryland,CTOURN,W 62-58,,20,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,3,0,3,2,0,1,2,3,10,9.1,N,1,0,matt-costello-1,Matt Costello,2015
+34,98,34,2015-03-15,Michigan State,N,Wisconsin,CTOURN,L 69-80 (OT),,26,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,3,4,2,0,2,0,3,8,7.9,N,0,0,matt-costello-1,Matt Costello,2015
+35,99,35,2015-03-20,Michigan State,N,Georgia,ROUND-64,W 70-63,,29,1,8,0.125,0,0,,1,8,0.125,0.125,0,0,,2,5,7,0,0,1,1,5,2,-2.6,N,1,0,matt-costello-1,Matt Costello,2015
+36,100,36,2015-03-22,Michigan State,N,Virginia,ROUND-32,W 60-54,,23,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,2,3,5,0,1,1,0,3,4,5.8,N,1,0,matt-costello-1,Matt Costello,2015
+37,101,37,2015-03-27,Michigan State,N,Oklahoma,ROUND-16,W 62-58,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,3,0,3,0,1,0,1,4,2,0.0,N,1,0,matt-costello-1,Matt Costello,2015
+38,102,38,2015-03-29,Michigan State,N,Louisville,ROUND-8,W 76-70 (OT),,20,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,3,3,2,0,1,0,5,6,5.0,N,1,0,matt-costello-1,Matt Costello,2015
+39,103,39,2015-04-04,Michigan State,N,Duke,NATIONAL-SEMI,L 61-81,,15,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,2,3,0,0,1,0,4,6,4.1,N,0,0,matt-costello-1,Matt Costello,2015

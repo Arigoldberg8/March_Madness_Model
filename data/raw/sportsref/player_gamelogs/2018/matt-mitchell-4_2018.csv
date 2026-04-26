@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,San Diego State,,San Diego Christ,REG (Non-Conf),W 91-52,*,18,1,8,0.125,0,5,0.0,1,3,0.333,0.125,4,4,1.0,1,7,8,2,2,1,3,1,6,4.3,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+2,2,2,2017-11-14,San Diego State,@,Arizona State,REG (Non-Conf),L 68-90,,17,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,0,2,2,1,0,0,2,5,3,-2.9,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+3,3,3,2017-11-17,San Diego State,,McNeese State,REG (Non-Conf),W 83-52,*,19,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,3,3,3,0,0,1,0,2,0.2,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+4,4,4,2017-11-20,San Diego State,,Eastern Illinois,REG (Non-Conf),W 94-63,*,29,10,14,0.714,7,11,0.636,3,3,1.0,0.964,4,5,0.8,1,5,6,3,3,0,2,2,31,29.3,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+5,5,5,2017-11-24,San Diego State,@,Sacramento State,REG (Non-Conf),W 89-52,*,20,3,8,0.375,2,6,0.333,1,2,0.5,0.5,3,4,0.75,1,2,3,1,0,0,1,1,11,6.8,A,1,1,matt-mitchell-4,Matt Mitchell,2018
+6,6,5,2017-11-24,San Diego State,N,Georgia,REG (Non-Conf),W 75-68,*,27,4,11,0.364,1,5,0.2,3,6,0.5,0.409,4,4,1.0,1,1,2,0,0,0,2,3,13,4.7,N,1,1,matt-mitchell-4,Matt Mitchell,2018
+7,7,7,2017-11-26,San Diego State,N,Washington State,REG (Non-Conf),L 86-93,*,28,3,10,0.3,2,6,0.333,1,4,0.25,0.4,4,6,0.667,3,6,9,1,1,0,5,4,12,4.4,N,0,1,matt-mitchell-4,Matt Mitchell,2018
+8,8,8,2017-11-30,San Diego State,@,San Diego,REG (Non-Conf),W 66-57,*,32,4,4,1.0,1,1,1.0,3,3,1.0,1.125,4,5,0.8,0,4,4,0,0,0,5,2,13,6.8,A,1,1,matt-mitchell-4,Matt Mitchell,2018
+9,9,9,2017-12-03,San Diego State,,Bradley,REG (Non-Conf),W 75-52,*,25,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,0,6,6,1,2,0,2,0,5,5.1,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+10,10,10,2017-12-09,San Diego State,,California,REG (Non-Conf),L 62-63,*,35,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,0,,1,2,3,6,2,0,1,4,13,14.3,H,0,1,matt-mitchell-4,Matt Mitchell,2018
+11,11,11,2017-12-21,San Diego State,,Gonzaga,REG (Non-Conf),W 72-70,*,36,4,12,0.333,3,8,0.375,1,4,0.25,0.458,4,5,0.8,1,4,5,2,1,1,2,1,15,10.4,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+12,12,12,2017-12-27,San Diego State,@,Wyoming,REG (Conf),L 69-82,*,30,3,7,0.429,3,6,0.5,0,1,0.0,0.643,2,3,0.667,0,6,6,1,1,0,3,4,11,5.8,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+13,13,13,2017-12-30,San Diego State,,Utah State,REG (Conf),W 79-59,*,29,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,2,0.0,0,3,3,2,2,0,1,2,2,-0.8,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+14,14,14,2018-01-02,San Diego State,@,Colorado State,REG (Conf),W 77-68,*,26,2,6,0.333,1,2,0.5,1,4,0.25,0.417,4,4,1.0,1,5,6,3,1,0,2,3,9,7.7,A,1,1,matt-mitchell-4,Matt Mitchell,2018
+15,15,15,2018-01-09,San Diego State,,San Jose State,REG (Conf),W 85-49,*,26,3,9,0.333,1,6,0.167,2,3,0.667,0.389,0,0,,1,3,4,2,1,0,2,5,7,1.9,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+16,16,16,2018-01-13,San Diego State,@,Boise State,REG (Conf),L 80-83,*,28,6,11,0.545,0,4,0.0,6,7,0.857,0.545,1,1,1.0,3,1,4,0,1,0,0,4,13,9.5,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+17,17,17,2018-01-17,San Diego State,,Fresno State,REG (Conf),L 73-77,*,29,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,4,0.75,0,2,2,2,1,0,1,4,13,8.7,H,0,1,matt-mitchell-4,Matt Mitchell,2018
+18,18,18,2018-01-20,San Diego State,@,New Mexico,REG (Conf),L 75-79,*,21,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,2,2,1,0,0,3,4,7,1.4,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+19,19,19,2018-01-24,San Diego State,,Colorado State,REG (Conf),W 97-78,*,30,6,8,0.75,3,4,0.75,3,4,0.75,0.938,0,0,,0,2,2,4,1,0,2,0,15,14.2,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+20,20,20,2018-01-27,San Diego State,@,UNLV,REG (Conf),L 78-88,*,34,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,2,0.5,2,6,8,3,1,0,3,3,11,8.0,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+21,21,21,2018-02-03,San Diego State,,Air Force,REG (Conf),W 81-50,*,27,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,0,1,1,4,2,3,4,0,4,3.0,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+22,22,22,2018-02-06,San Diego State,@,Fresno State,REG (Conf),L 61-79,*,34,6,12,0.5,1,4,0.25,5,8,0.625,0.542,3,4,0.75,2,3,5,2,1,1,2,4,16,11.4,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+23,23,23,2018-02-10,San Diego State,@,Nevada,REG (Conf),L 58-83,*,27,5,9,0.556,2,5,0.4,3,4,0.75,0.667,0,0,,1,2,3,1,1,0,2,3,12,7.5,A,0,1,matt-mitchell-4,Matt Mitchell,2018
+24,24,24,2018-02-14,San Diego State,,Wyoming,REG (Conf),W 87-77,*,18,0,4,0.0,0,0,,0,4,0.0,0.0,2,2,1.0,0,6,6,2,0,1,3,3,2,-1.1,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+25,25,25,2018-02-17,San Diego State,,UNLV,REG (Conf),W 94-56,*,28,7,9,0.778,2,3,0.667,5,6,0.833,0.889,5,5,1.0,1,0,1,0,3,0,1,2,21,19.4,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+26,26,26,2018-02-21,San Diego State,@,Air Force,REG (Conf),W 67-56,*,22,6,7,0.857,4,5,0.8,2,2,1.0,1.143,1,2,0.5,0,2,2,1,1,0,2,5,17,12.4,A,1,1,matt-mitchell-4,Matt Mitchell,2018
+27,27,27,2018-02-24,San Diego State,@,San Jose State,REG (Conf),W 71-59,*,26,5,11,0.455,2,6,0.333,3,5,0.6,0.545,0,0,,0,3,3,1,0,0,2,1,12,5.5,A,1,1,matt-mitchell-4,Matt Mitchell,2018
+28,28,28,2018-02-27,San Diego State,,Boise State,REG (Conf),W 72-64,*,28,4,9,0.444,0,4,0.0,4,5,0.8,0.444,3,4,0.75,0,3,3,3,3,0,0,2,11,11.1,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+29,29,29,2018-03-03,San Diego State,,Nevada,REG (Conf),W 79-74,*,26,3,10,0.3,2,5,0.4,1,5,0.2,0.4,0,0,,1,2,3,0,2,0,0,2,8,4.7,H,1,1,matt-mitchell-4,Matt Mitchell,2018
+30,30,30,2018-03-08,San Diego State,N,Fresno State,CTOURN,W 64-52,*,33,3,7,0.429,1,3,0.333,2,4,0.5,0.5,3,5,0.6,1,4,5,1,0,1,2,2,10,6.0,N,1,0,matt-mitchell-4,Matt Mitchell,2018
+31,31,31,2018-03-09,San Diego State,N,Nevada,CTOURN,W 90-73,*,27,4,8,0.5,2,5,0.4,2,3,0.667,0.625,3,4,0.75,0,5,5,3,3,0,2,1,13,12.8,N,1,0,matt-mitchell-4,Matt Mitchell,2018
+32,32,32,2018-03-10,San Diego State,N,New Mexico,CTOURN,W 82-75,*,20,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,3,4,0,0,0,3,2,5,0.8,N,1,0,matt-mitchell-4,Matt Mitchell,2018
+33,33,33,2018-03-15,San Diego State,N,Houston,ROUND-64,L 65-67,*,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,1,1,2,1,0,0,0,3,3,2.1,N,0,0,matt-mitchell-4,Matt Mitchell,2018

@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Clemson,N,Mississippi State,REG (Non-Conf),W 53-42,*,26,3,9,0.333,1,3,0.333,2,6,0.333,0.389,3,4,0.75,1,1,2,1,1,0,3,1,10,3.8,N,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+2,33,2,2020-11-26,Clemson,N,Purdue,REG (Non-Conf),W 81-70,,29,3,6,0.5,0,3,0.0,3,3,1.0,0.5,4,4,1.0,1,4,5,3,2,0,0,2,10,12.2,N,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+3,34,3,2020-12-02,Clemson,,South Carolina State,REG (Non-Conf),W 75-38,*,20,2,7,0.286,0,4,0.0,2,3,0.667,0.286,1,1,1.0,0,0,0,4,3,1,0,2,5,6.6,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+4,35,4,2020-12-09,Clemson,,Maryland,REG (Non-Conf),W 67-51,*,23,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,2,1.0,0,1,1,1,1,0,0,1,12,9.6,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+5,36,5,2020-12-12,Clemson,N,Alabama,REG (Non-Conf),W 64-56,*,31,4,9,0.444,1,5,0.2,3,4,0.75,0.5,1,3,0.333,2,2,4,3,1,1,1,1,10,8.9,N,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+6,37,6,2020-12-15,Clemson,@,Virginia Tech,REG (Conf),L 60-66,*,37,6,14,0.429,5,11,0.455,1,3,0.333,0.607,1,2,0.5,0,4,4,3,1,1,5,1,18,9.8,A,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+7,38,7,2020-12-21,Clemson,,Morehead State,REG (Non-Conf),W 66-51,*,23,4,9,0.444,4,9,0.444,0,0,,0.667,0,0,,0,0,0,3,0,0,2,1,12,7.0,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+8,39,8,2020-12-29,Clemson,,Florida State,REG (Conf),W 77-67,*,25,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,0,,0,2,2,1,0,0,3,2,11,4.5,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+9,40,9,2021-01-02,Clemson,@,Miami (FL),REG (Conf),W 66-65,*,37,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,1,4,5,2,2,0,1,2,4,3.4,A,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+10,41,10,2021-01-05,Clemson,,NC State,REG (Conf),W 74-70 (OT),*,27,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,0,2,2,2,0,0,0,1,5,1.1,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+11,42,11,2021-01-16,Clemson,,Virginia,REG (Conf),L 50-85,*,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,0,0,1,0,0,1,1,0,-3.5,H,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+12,43,12,2021-01-20,Clemson,@,Georgia Tech,REG (Conf),L 65-83,*,18,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,3,3,1,0,0,3,2,3,-1.6,A,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+13,44,13,2021-01-23,Clemson,@,Florida State,REG (Conf),L 61-80,*,26,2,11,0.182,1,7,0.143,1,4,0.25,0.227,2,2,1.0,1,3,4,0,1,0,2,0,7,0.7,A,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+14,45,14,2021-01-27,Clemson,,Louisville,REG (Conf),W 54-50,*,30,5,11,0.455,4,8,0.5,1,3,0.333,0.636,1,2,0.5,0,1,1,3,1,0,0,2,15,11.5,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+15,46,15,2021-01-30,Clemson,@,Duke,REG (Conf),L 53-79,*,27,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,0,0,0,1,0,2,0,6,1.6,A,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+16,47,16,2021-02-02,Clemson,,North Carolina,REG (Conf),W 63-50,,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,1,0,0,3,1,7,1.3,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+17,48,17,2021-02-06,Clemson,,Syracuse,REG (Conf),W 78-61,,16,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,0,0,1,0,0,2,0,8,4.7,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+18,49,18,2021-02-12,Clemson,,Georgia Tech,REG (Conf),W 74-72,,24,3,7,0.429,1,4,0.25,2,3,0.667,0.5,1,2,0.5,0,2,2,1,0,0,3,1,8,1.8,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+19,50,19,2021-02-24,Clemson,@,Wake Forest,REG (Conf),W 60-39,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,3,4,1,0,0,0,0,0,0.9,A,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+20,51,20,2021-02-27,Clemson,,Miami (FL),REG (Conf),W 66-58,,28,7,9,0.778,4,4,1.0,3,5,0.6,1.0,1,2,0.5,0,3,3,1,3,1,0,1,19,20.0,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+21,52,21,2021-03-03,Clemson,@,Syracuse,REG (Conf),L 54-64,,27,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,1,1,2,2,1,0,0,1,11,11.4,A,0,1,al-amir-dawes-1,Al-Amir Dawes,2021
+22,53,22,2021-03-06,Clemson,,Pittsburgh,REG (Conf),W 77-62,,32,7,10,0.7,5,8,0.625,2,2,1.0,0.95,2,3,0.667,0,2,2,5,1,0,2,1,21,19.1,H,1,1,al-amir-dawes-1,Al-Amir Dawes,2021
+23,54,23,2021-03-10,Clemson,N,Miami (FL),CTOURN,L 64-67,,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,1,2,3,2,2,0,4,1,6,4.3,N,0,0,al-amir-dawes-1,Al-Amir Dawes,2021
+24,55,24,2021-03-19,Clemson,N,Rutgers,ROUND-64,L 56-60,*,30,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,0,,0,0,0,3,0,0,2,2,8,2.9,N,0,0,al-amir-dawes-1,Al-Amir Dawes,2021

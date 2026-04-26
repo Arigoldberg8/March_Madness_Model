@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2016-11-11,Baylor,,Oral Roberts,REG (Non-Conf),W 76-61,*,35,4,13,0.308,2,8,0.25,2,5,0.4,0.385,3,4,0.75,0,1,1,10,3,0,0,2,13,14.6,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+2,73,2,2016-11-15,Baylor,,Oregon,REG (Non-Conf),W 66-49,*,35,6,9,0.667,4,5,0.8,2,4,0.5,0.889,2,3,0.667,1,3,4,7,2,0,3,0,18,19.2,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+3,74,3,2016-11-18,Baylor,,Florida Gulf Coast,REG (Non-Conf),W 81-72,*,37,5,8,0.625,2,5,0.4,3,3,1.0,0.75,7,8,0.875,0,1,1,4,2,0,2,3,19,16.9,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+4,75,4,2016-11-23,Baylor,N,VCU,REG (Non-Conf),W 71-63,*,30,3,12,0.25,0,4,0.0,3,8,0.375,0.25,10,11,0.909,0,2,2,3,1,0,3,3,16,7.9,N,1,1,manu-lecomte-1,Manu Lecomte,2017
+5,76,5,2016-11-24,Baylor,N,Michigan State,REG (Non-Conf),W 73-58,*,32,3,10,0.3,1,6,0.167,2,4,0.5,0.35,1,2,0.5,1,2,3,8,0,0,3,0,8,5.7,N,1,1,manu-lecomte-1,Manu Lecomte,2017
+6,77,6,2016-11-25,Baylor,N,Louisville,REG (Non-Conf),W 66-63,*,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,2,0,0,1,3,4,1.2,N,1,1,manu-lecomte-1,Manu Lecomte,2017
+7,78,7,2016-11-30,Baylor,,Sam Houston State,REG (Non-Conf),W 79-45,*,25,2,4,0.5,2,4,0.5,0,0,,0.75,3,5,0.6,0,0,0,2,1,1,3,1,9,5.9,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+8,79,8,2016-12-03,Baylor,,Xavier,REG (Non-Conf),W 76-61,*,31,8,14,0.571,6,9,0.667,2,5,0.4,0.786,2,2,1.0,0,1,1,5,2,0,2,4,24,19.6,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+9,80,9,2016-12-14,Baylor,,Southern,REG (Non-Conf),W 89-59,*,25,2,7,0.286,1,6,0.167,1,1,1.0,0.357,0,0,,0,1,1,8,1,0,1,2,5,6.0,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+10,81,10,2016-12-17,Baylor,N,Jackson State,REG (Non-Conf),W 82-57,*,20,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,4,4,4,1,0,2,3,6,5.8,N,1,1,manu-lecomte-1,Manu Lecomte,2017
+11,82,11,2016-12-18,Baylor,,John Brown,REG (Non-Conf),W 107-53,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,4,0,0,0,1,3,3.0,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+12,83,12,2016-12-21,Baylor,,Texas Southern,REG (Non-Conf),W 89-63,*,25,5,8,0.625,2,3,0.667,3,5,0.6,0.75,2,2,1.0,1,2,3,7,2,0,3,1,14,15.2,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+13,84,13,2016-12-30,Baylor,@,Oklahoma,REG (Conf),W 76-50,*,24,5,8,0.625,4,5,0.8,1,3,0.333,0.875,0,0,,0,0,0,4,2,0,0,2,14,14.4,A,1,1,manu-lecomte-1,Manu Lecomte,2017
+14,85,14,2017-01-04,Baylor,,Iowa State,REG (Conf),W 65-63,*,33,3,10,0.3,0,4,0.0,3,6,0.5,0.3,1,2,0.5,0,1,1,2,0,0,4,0,7,-1.5,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+15,86,15,2017-01-07,Baylor,,Oklahoma State,REG (Conf),W 61-57,*,34,4,12,0.333,1,2,0.5,3,10,0.3,0.375,8,10,0.8,0,2,2,3,1,0,3,3,17,8.9,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+16,87,16,2017-01-10,Baylor,@,West Virginia,REG (Conf),L 68-89,*,29,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,0,4,4,2,1,1,5,3,7,1.7,A,0,1,manu-lecomte-1,Manu Lecomte,2017
+17,88,17,2017-01-14,Baylor,@,Kansas State,REG (Conf),W 77-68,*,28,8,13,0.615,4,6,0.667,4,7,0.571,0.769,6,7,0.857,0,1,1,2,2,0,1,4,26,20.8,A,1,1,manu-lecomte-1,Manu Lecomte,2017
+18,89,18,2017-01-17,Baylor,,Texas,REG (Conf),W 74-64,*,26,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,2,2,2,0,0,3,3,5,-0.6,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+19,90,19,2017-01-21,Baylor,@,TCU,REG (Conf),W 62-53,*,36,5,11,0.455,3,8,0.375,2,3,0.667,0.591,4,5,0.8,0,4,4,4,0,0,3,1,17,11.5,A,1,1,manu-lecomte-1,Manu Lecomte,2017
+20,91,20,2017-01-25,Baylor,,Texas Tech,REG (Conf),W 65-61,*,36,3,11,0.273,2,7,0.286,1,4,0.25,0.364,2,2,1.0,0,3,3,5,0,0,3,2,10,4.1,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+21,92,21,2017-01-28,Baylor,@,Ole Miss,REG (Non-Conf),W 78-75,*,39,6,9,0.667,5,6,0.833,1,3,0.333,0.944,0,0,,1,3,4,4,0,0,4,2,17,12.7,A,1,1,manu-lecomte-1,Manu Lecomte,2017
+22,93,22,2017-02-01,Baylor,@,Kansas,REG (Conf),L 68-73,*,38,6,11,0.545,4,6,0.667,2,5,0.4,0.727,0,0,,0,1,1,4,2,0,3,1,16,12.4,A,0,1,manu-lecomte-1,Manu Lecomte,2017
+23,94,23,2017-02-04,Baylor,,Kansas State,REG (Conf),L 54-56,*,32,3,10,0.3,3,8,0.375,0,2,0.0,0.45,0,0,,0,1,1,3,0,0,4,1,9,1.2,H,0,1,manu-lecomte-1,Manu Lecomte,2017
+24,95,24,2017-02-08,Baylor,@,Oklahoma State,REG (Conf),W 72-69,*,37,4,12,0.333,3,8,0.375,1,4,0.25,0.458,4,5,0.8,1,1,2,4,1,0,2,0,15,10.6,A,1,1,manu-lecomte-1,Manu Lecomte,2017
+25,96,25,2017-02-11,Baylor,,TCU,REG (Conf),W 70-52,*,32,6,11,0.545,3,6,0.5,3,5,0.6,0.682,2,3,0.667,0,2,2,2,1,0,0,3,17,13.1,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+26,97,26,2017-02-13,Baylor,@,Texas Tech,REG (Conf),L 78-84,*,27,5,10,0.5,3,6,0.5,2,4,0.5,0.65,3,4,0.75,0,3,3,1,0,0,1,5,16,9.2,A,0,1,manu-lecomte-1,Manu Lecomte,2017
+27,98,27,2017-02-18,Baylor,,Kansas,REG (Conf),L 65-67,*,39,6,14,0.429,4,9,0.444,2,5,0.4,0.571,0,0,,0,3,3,2,0,0,1,2,16,9.1,H,0,1,manu-lecomte-1,Manu Lecomte,2017
+28,99,28,2017-02-21,Baylor,,Oklahoma,REG (Conf),W 60-54,*,33,3,11,0.273,3,9,0.333,0,2,0.0,0.409,2,2,1.0,0,3,3,6,0,0,1,1,11,8.2,H,1,1,manu-lecomte-1,Manu Lecomte,2017
+29,100,29,2017-02-25,Baylor,@,Iowa State,REG (Conf),L 69-72,*,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,A,0,1,manu-lecomte-1,Manu Lecomte,2017
+30,101,32,2017-03-09,Baylor,N,Kansas State,CTOURN,L 64-70,,24,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,0,,0,0,0,2,1,0,2,2,13,9.7,N,0,0,manu-lecomte-1,Manu Lecomte,2017
+31,102,33,2017-03-17,Baylor,N,New Mexico State,ROUND-64,W 91-73,*,31,3,9,0.333,0,2,0.0,3,7,0.429,0.333,4,4,1.0,1,1,2,3,0,0,1,3,10,5.8,N,1,0,manu-lecomte-1,Manu Lecomte,2017
+32,103,34,2017-03-19,Baylor,N,Southern California,ROUND-32,W 82-78,*,27,4,11,0.364,1,6,0.167,3,5,0.6,0.409,3,3,1.0,0,0,0,5,1,0,0,0,12,10.4,N,1,0,manu-lecomte-1,Manu Lecomte,2017
+33,104,35,2017-03-24,Baylor,N,South Carolina,ROUND-16,L 50-70,*,35,3,11,0.273,2,5,0.4,1,6,0.167,0.364,0,0,,1,2,3,1,1,0,1,1,8,3.1,N,0,0,manu-lecomte-1,Manu Lecomte,2017

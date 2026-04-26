@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2022-11-07,Montana State,@,Grand Canyon,REG (Non-Conf),L 54-60,*,20,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,2,1,0,2,5,5,0.9,A,0,1,darius-brownii-1,Darius Brown II,2023
+2,98,2,2022-11-13,Montana State,@,Long Beach State,REG (Non-Conf),W 70-57,*,29,3,7,0.429,1,2,0.5,2,5,0.4,0.5,4,4,1.0,1,3,4,4,2,0,1,1,11,12.3,A,1,1,darius-brownii-1,Darius Brown II,2023
+3,99,3,2022-11-15,Montana State,@,Oregon,REG (Non-Conf),L 51-81,*,24,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,0,5,5,4,0,0,3,2,2,-0.3,A,0,1,darius-brownii-1,Darius Brown II,2023
+4,100,5,2022-11-20,Montana State,@,North Dakota,REG (Non-Conf),W 81-71,,19,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,2,2,4,4,3,0,0,0,7,11.4,A,1,1,darius-brownii-1,Darius Brown II,2023
+5,101,6,2022-11-25,Montana State,N,UNC Greensboro,REG (Non-Conf),L 66-77,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,2,3,5,5,2,0,3,2,3,2.8,N,0,1,darius-brownii-1,Darius Brown II,2023
+6,102,7,2022-11-26,Montana State,N,Quinnipiac,REG (Non-Conf),L 53-70,*,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,4,1,0,3,5,2,-1.7,N,0,1,darius-brownii-1,Darius Brown II,2023
+7,103,8,2022-11-27,Montana State,N,Middle Tennessee,REG (Non-Conf),L 71-72,*,31,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,3,3,16,0,0,4,2,2,7.6,N,0,1,darius-brownii-1,Darius Brown II,2023
+8,104,9,2022-11-30,Montana State,@,Southern Utah,REG (Non-Conf),W 86-83,*,34,6,10,0.6,3,3,1.0,3,7,0.429,0.75,2,2,1.0,0,5,5,5,1,0,3,3,17,14.2,A,1,1,darius-brownii-1,Darius Brown II,2023
+9,105,10,2022-12-08,Montana State,,St. Thomas,REG (Non-Conf),W 82-65,*,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,4,4,2,0,0,2,2,6,3.4,H,1,1,darius-brownii-1,Darius Brown II,2023
+10,106,11,2022-12-10,Montana State,,Omaha,REG (Non-Conf),W 82-54,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,0,3,3,4,1,0,0,0,7,9.0,H,1,1,darius-brownii-1,Darius Brown II,2023
+11,107,12,2022-12-17,Montana State,,Northwest Indian,REG (Non-Conf),W 144-59,*,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,2,2,7,0,0,1,0,7,9.9,H,1,1,darius-brownii-1,Darius Brown II,2023
+12,108,13,2022-12-20,Montana State,@,Arizona,REG (Non-Conf),L 64-85,*,21,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,4,4,5,3,0,1,2,6,10.3,A,0,1,darius-brownii-1,Darius Brown II,2023
+13,109,14,2022-12-29,Montana State,,Idaho,REG (Conf),W 72-58,*,27,1,5,0.2,1,2,0.5,0,3,0.0,0.3,3,4,0.75,2,5,7,3,0,0,0,0,6,7.5,H,1,1,darius-brownii-1,Darius Brown II,2023
+14,110,15,2022-12-31,Montana State,,Eastern Washington,REG (Conf),L 67-70,*,33,7,12,0.583,4,7,0.571,3,5,0.6,0.75,0,0,,1,10,11,2,2,0,1,0,18,18.5,H,0,1,darius-brownii-1,Darius Brown II,2023
+15,111,16,2023-01-05,Montana State,@,Northern Colorado,REG (Conf),W 77-56,*,29,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,3,0.667,0,3,3,7,2,0,1,1,10,12.0,A,1,1,darius-brownii-1,Darius Brown II,2023
+16,112,17,2023-01-07,Montana State,@,Northern Arizona,REG (Conf),W 69-54,*,28,8,9,0.889,2,2,1.0,6,7,0.857,1.0,4,6,0.667,0,4,4,4,3,0,1,3,22,22.9,A,1,1,darius-brownii-1,Darius Brown II,2023
+17,113,18,2023-01-12,Montana State,,Idaho State,REG (Conf),W 81-68,*,35,6,10,0.6,2,3,0.667,4,7,0.571,0.7,4,4,1.0,0,5,5,5,4,0,2,2,18,19.6,H,1,1,darius-brownii-1,Darius Brown II,2023
+18,114,19,2023-01-14,Montana State,,Weber State,REG (Conf),W 67-52,*,36,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,7,7,8,3,0,2,2,9,15.3,H,1,1,darius-brownii-1,Darius Brown II,2023
+19,115,20,2023-01-16,Montana State,@,Idaho,REG (Conf),L 70-74,*,26,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,1,2,3,1,4,0,1,4,12,10.4,A,0,1,darius-brownii-1,Darius Brown II,2023
+20,116,21,2023-01-21,Montana State,@,Montana,REG (Conf),W 67-64,*,35,9,13,0.692,2,3,0.667,7,10,0.7,0.769,3,3,1.0,1,0,1,2,2,0,1,1,23,20.2,A,1,1,darius-brownii-1,Darius Brown II,2023
+21,117,22,2023-01-26,Montana State,@,Portland State,REG (Conf),W 75-66,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,5,3,0,4,5,2,1.4,A,1,1,darius-brownii-1,Darius Brown II,2023
+22,118,23,2023-01-28,Montana State,@,Sacramento State,REG (Conf),W 72-65,*,33,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,2,1.0,1,6,7,2,2,0,0,1,6,6.7,A,1,1,darius-brownii-1,Darius Brown II,2023
+23,119,24,2023-02-02,Montana State,,Northern Arizona,REG (Conf),W 69-68,*,34,1,7,0.143,0,2,0.0,1,5,0.2,0.143,2,2,1.0,0,2,2,5,2,0,1,2,4,3.8,H,1,1,darius-brownii-1,Darius Brown II,2023
+24,120,25,2023-02-04,Montana State,,Northern Colorado,REG (Conf),W 75-62,*,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,5,6,12,3,0,0,2,2,12.4,H,1,1,darius-brownii-1,Darius Brown II,2023
+25,121,26,2023-02-09,Montana State,@,Weber State,REG (Conf),L 63-73,*,32,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,5,1,0,4,2,4,1.2,A,0,1,darius-brownii-1,Darius Brown II,2023
+26,122,27,2023-02-11,Montana State,@,Idaho State,REG (Conf),W 58-52,*,32,2,3,0.667,0,0,,2,3,0.667,0.667,10,10,1.0,0,6,6,1,4,0,1,2,14,17.4,A,1,1,darius-brownii-1,Darius Brown II,2023
+27,123,28,2023-02-18,Montana State,,Montana,REG (Conf),W 72-68,*,38,5,9,0.556,2,3,0.667,3,6,0.5,0.667,2,2,1.0,0,2,2,3,3,1,1,1,14,14.7,H,1,1,darius-brownii-1,Darius Brown II,2023
+28,124,29,2023-02-23,Montana State,,Sacramento State,REG (Conf),W 60-56,*,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,1,1,2,2,0,1,4,4,2.0,H,1,1,darius-brownii-1,Darius Brown II,2023
+29,125,30,2023-02-25,Montana State,,Portland State,REG (Conf),W 91-78,*,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,4,5,0.8,1,6,7,7,3,0,2,2,14,16.9,H,1,1,darius-brownii-1,Darius Brown II,2023
+30,126,31,2023-02-27,Montana State,@,Eastern Washington,REG (Conf),W 79-74,*,33,7,9,0.778,3,5,0.6,4,4,1.0,0.944,1,1,1.0,0,5,5,4,1,0,2,2,18,17.0,A,1,1,darius-brownii-1,Darius Brown II,2023
+31,127,32,2023-03-05,Montana State,N,Northern Colorado,CTOURN,W 84-73,*,31,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,1,4,5,8,0,0,1,2,5,7.6,N,1,0,darius-brownii-1,Darius Brown II,2023
+32,128,33,2023-03-07,Montana State,N,Weber State,CTOURN,W 60-58 (2OT),*,49,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,11,11,6,2,0,0,2,4,10.3,N,1,0,darius-brownii-1,Darius Brown II,2023
+33,129,34,2023-03-08,Montana State,N,Northern Arizona,CTOURN,W 85-78,*,38,4,9,0.444,1,2,0.5,3,7,0.429,0.5,6,6,1.0,1,4,5,4,0,0,1,2,15,13.2,N,1,0,darius-brownii-1,Darius Brown II,2023
+34,130,35,2023-03-17,Montana State,N,Kansas State,ROUND-64,L 65-77,*,35,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,1,0.0,0,3,3,9,0,0,6,1,12,6.0,N,0,0,darius-brownii-1,Darius Brown II,2023

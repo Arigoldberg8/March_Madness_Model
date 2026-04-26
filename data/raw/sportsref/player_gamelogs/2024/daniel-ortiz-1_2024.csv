@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2023-11-06,UAB,,Bradley,REG (Non-Conf),L 71-73 (OT),,13,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,0,0,0,0,0,2,0,6,-0.1,H,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+2,65,2,2023-11-10,UAB,N,Clemson,REG (Non-Conf),L 76-77,,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,1,1,1,0,0,0,0,3,1.2,N,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+3,66,3,2023-11-12,UAB,N,Maryland,REG (Non-Conf),W 66-63,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,N,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+4,67,4,2023-11-16,UAB,,Alcorn State,REG (Non-Conf),W 80-77,*,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+5,68,5,2023-11-21,UAB,@,Middle Tennessee,REG (Non-Conf),W 58-57,,6,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+6,69,6,2023-11-25,UAB,,Furman,REG (Non-Conf),W 92-86,,17,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,1,1,0,0,0,0,0,10,7.3,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+7,70,7,2023-11-28,UAB,,McNeese State,REG (Non-Conf),L 60-81,,30,5,12,0.417,3,9,0.333,2,3,0.667,0.542,7,8,0.875,2,0,2,1,1,0,0,1,20,15.9,H,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+8,71,8,2023-12-01,UAB,,Southern Mississippi,REG (Non-Conf),L 82-85,,22,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,0,0,0,0,0,0,2,8,3.8,H,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+9,72,9,2023-12-09,UAB,@,Arkansas State,REG (Non-Conf),L 68-87,,13,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,1,1,0,0,0,0,0,7,4.6,A,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+10,73,10,2023-12-13,UAB,@,Alabama A&M,REG (Non-Conf),W 93-82,,19,4,10,0.4,2,4,0.5,2,6,0.333,0.5,1,2,0.5,0,2,2,0,2,0,1,2,11,6.0,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+11,74,11,2023-12-17,UAB,,Montevallo,REG (Non-Conf),W 92-56,,24,6,13,0.462,2,7,0.286,4,6,0.667,0.538,2,2,1.0,1,3,4,2,4,1,0,0,16,17.0,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+12,75,12,2023-12-22,UAB,,Drake,REG (Non-Conf),W 79-78 (OT),,18,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,3,3,0,1,1,0,1,11,11.3,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+13,76,13,2023-12-29,UAB,,UNC Asheville,REG (Non-Conf),W 90-85,,25,4,15,0.267,2,10,0.2,2,5,0.4,0.333,0,0,,0,3,3,1,0,0,1,2,10,0.9,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+14,77,14,2024-01-02,UAB,@,UTSA,REG (Conf),W 78-76,,23,3,11,0.273,3,5,0.6,0,6,0.0,0.409,2,2,1.0,1,2,3,3,1,0,1,1,11,7.5,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+15,78,15,2024-01-07,UAB,,South Florida,REG (Conf),W 75-71,,11,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,2,2,0,1,0,0,1,5,4.2,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+16,79,16,2024-01-14,UAB,@,Florida Atlantic,REG (Conf),L 73-86,,19,3,9,0.333,2,7,0.286,1,2,0.5,0.444,2,2,1.0,0,1,1,0,1,0,0,0,10,6.2,A,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+17,80,17,2024-01-17,UAB,,Tulane,REG (Conf),W 83-69,,17,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,2,2,4,3,2,0,1,0,2,2.6,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+18,81,18,2024-01-20,UAB,,East Carolina,REG (Conf),W 69-61,,18,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,0,0,0,1,0,0,0,8,5.3,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+19,82,19,2024-01-23,UAB,@,Charlotte,REG (Conf),L 70-76,,18,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,0,0,0,0,0,3,0,7,2.4,A,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+20,83,20,2024-01-28,UAB,,Memphis,REG (Conf),W 97-88,,22,4,9,0.444,4,8,0.5,0,1,0.0,0.667,0,0,,0,3,3,0,1,0,2,3,12,6.0,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+21,84,21,2024-01-31,UAB,@,North Texas,REG (Conf),W 82-79 (OT),,16,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,0,1,0,0,2,4,1.8,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+22,85,22,2024-02-04,UAB,@,SMU,REG (Conf),L 69-72,,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,1,0,0,1,1,3,-0.1,A,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+23,86,23,2024-02-08,UAB,,Florida Atlantic,REG (Conf),W 76-73 (OT),,14,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,2,2,2,0,0,0,1,0,-1.9,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+24,87,24,2024-02-11,UAB,@,Tulsa,REG (Conf),W 70-63,,10,0,6,0.0,0,5,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,0,2,0,-3.0,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+25,88,25,2024-02-18,UAB,,North Texas,REG (Conf),W 71-62,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,1,0,2,-0.7,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+26,89,26,2024-02-21,UAB,,Rice,REG (Conf),L 71-94,,18,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,0,0,0,1,1,0,1,0,9,6.0,H,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+27,90,27,2024-02-25,UAB,@,Tulane,REG (Conf),W 78-67,,21,2,7,0.286,2,7,0.286,0,0,,0.429,1,2,0.5,0,2,2,1,1,0,0,0,7,4.8,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+28,91,28,2024-02-28,UAB,,Wichita State,REG (Conf),L 66-74,,20,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,2,2,2,2,0,2,2,10,7.2,H,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+29,92,29,2024-03-03,UAB,@,Memphis,REG (Conf),L 87-106,,23,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,1,1,2,2,0,2,0,7,6.0,A,0,1,daniel-ortiz-1,Daniel Ortiz,2024
+30,93,30,2024-03-07,UAB,@,Temple,REG (Conf),W 100-72,,19,4,5,0.8,3,4,0.75,1,1,1.0,1.1,1,2,0.5,0,3,3,1,0,0,0,0,12,11.3,A,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+31,94,31,2024-03-10,UAB,,SMU,REG (Conf),W 74-70,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.8,H,1,1,daniel-ortiz-1,Daniel Ortiz,2024
+32,95,32,2024-03-15,UAB,N,Wichita State,CTOURN,W 72-60,,28,5,9,0.556,4,7,0.571,1,2,0.5,0.778,2,3,0.667,0,3,3,3,0,0,0,1,16,13.9,N,1,0,daniel-ortiz-1,Daniel Ortiz,2024
+33,96,33,2024-03-16,UAB,N,South Florida,CTOURN,W 93-83,*,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,1,0,0,0,1,3,2.2,N,1,0,daniel-ortiz-1,Daniel Ortiz,2024
+34,97,34,2024-03-17,UAB,N,Temple,CTOURN,W 85-69,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,N,1,0,daniel-ortiz-1,Daniel Ortiz,2024
+35,98,35,2024-03-22,UAB,N,San Diego State,ROUND-64,L 65-69,,8,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,0,0,0,0,0,2,-0.8,N,0,0,daniel-ortiz-1,Daniel Ortiz,2024

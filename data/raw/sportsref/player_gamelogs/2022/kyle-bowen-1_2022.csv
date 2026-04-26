@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2021-11-09,St. Mary's (CA),,Prairie View A&M,REG (Non-Conf),W 87-68,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,3,3,1.0,4,5,9,2,0,0,1,1,12,12.3,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+2,57,2,2021-11-12,St. Mary's (CA),,Texas Southern,REG (Non-Conf),W 67-58,*,23,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,2,5,7,1,0,0,0,4,9,8.7,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+3,58,3,2021-11-15,St. Mary's (CA),,Southern Utah,REG (Non-Conf),W 70-51,*,30,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,7,7,4,1,3,1,3,0,3.7,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+4,59,4,2021-11-17,St. Mary's (CA),,Bellarmine,REG (Non-Conf),W 73-64,*,33,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,7,8,2,0,0,0,2,4,5.0,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+5,60,5,2021-11-22,St. Mary's (CA),N,Notre Dame,REG (Non-Conf),W 62-59,*,31,0,0,,0,0,,0,0,,,1,2,0.5,1,6,7,1,1,0,1,2,1,3.0,N,1,1,kyle-bowen-1,Kyle Bowen,2022
+6,61,6,2021-11-23,St. Mary's (CA),N,Oregon,REG (Non-Conf),W 62-50,*,28,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,0,8,8,1,0,0,0,2,2,3.6,N,1,1,kyle-bowen-1,Kyle Bowen,2022
+7,62,7,2021-11-24,St. Mary's (CA),N,Wisconsin,REG (Non-Conf),L 55-61,*,25,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,4,5,0,0,1,1,4,3,-0.1,N,0,1,kyle-bowen-1,Kyle Bowen,2022
+8,63,8,2021-11-29,St. Mary's (CA),,UC Riverside,REG (Non-Conf),W 67-50,*,24,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,6,6,2,0,0,0,2,9,8.4,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+9,64,9,2021-12-02,St. Mary's (CA),@,Utah State,REG (Non-Conf),W 60-58,*,26,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,1,2,1,1,1,0,1,3,2.9,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+10,65,10,2021-12-04,St. Mary's (CA),@,Colorado State,REG (Non-Conf),L 58-74,*,39,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,4,5,2,1,2,1,2,4,6.6,A,0,1,kyle-bowen-1,Kyle Bowen,2022
+11,66,11,2021-12-11,St. Mary's (CA),,UC Santa Barbara,REG (Non-Conf),W 80-59,*,27,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,5,5,1,2,0,1,2,8,8.1,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+12,67,12,2021-12-14,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 76-39,*,30,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,4,0.75,4,5,9,0,1,0,2,2,12,11.5,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+13,68,13,2021-12-17,St. Mary's (CA),N,San Diego State,REG (Non-Conf),L 53-63,*,38,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,8,8,2,2,0,0,0,3,6.4,N,0,1,kyle-bowen-1,Kyle Bowen,2022
+14,69,14,2021-12-22,St. Mary's (CA),,Missouri State,REG (Non-Conf),W 75-58,*,32,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,3,5,0,1,0,1,1,2,2.9,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+15,70,15,2021-12-28,St. Mary's (CA),,Yale,REG (Non-Conf),W 87-60,*,29,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,2,0.5,4,3,7,1,1,0,0,1,9,11.7,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+16,71,16,2022-01-08,St. Mary's (CA),@,Brigham Young,REG (Conf),L 43-52,*,30,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,1,6,7,1,0,0,3,1,2,-1.3,A,0,1,kyle-bowen-1,Kyle Bowen,2022
+17,72,17,2022-01-13,St. Mary's (CA),@,Pepperdine,REG (Conf),W 77-62,*,34,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,2,7,9,3,2,0,1,3,6,10.1,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+18,73,18,2022-01-20,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-65,*,31,1,6,0.167,0,5,0.0,1,1,1.0,0.167,2,3,0.667,2,4,6,0,0,0,1,2,4,0.6,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+19,74,19,2022-01-22,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 83-51,*,17,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,1,2,4,1,0,2,3,6,6.3,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+20,75,20,2022-01-27,St. Mary's (CA),@,San Francisco,REG (Conf),W 72-70,*,34,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,1,4,5,1,0,0,0,3,6,6.8,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+21,76,21,2022-01-29,St. Mary's (CA),,Pepperdine,REG (Conf),W 81-57,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,2,3,2,3,0,0,2,5,6.5,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+22,77,22,2022-02-03,St. Mary's (CA),@,Portland,REG (Conf),W 75-54,*,24,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,2,3,1,0,0,1,3,11,7.5,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+23,78,23,2022-02-05,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 71-60,*,37,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,0,8,8,0,0,2,1,4,12,11.3,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+24,79,24,2022-02-08,St. Mary's (CA),@,Santa Clara,REG (Conf),L 72-77,*,31,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,3,1,4,1,1,0,1,3,7,6.6,A,0,1,kyle-bowen-1,Kyle Bowen,2022
+25,80,25,2022-02-10,St. Mary's (CA),,San Diego,REG (Conf),W 86-57,*,20,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,3,2,5,2,0,1,0,2,5,8.0,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+26,81,26,2022-02-12,St. Mary's (CA),@,Gonzaga,REG (Conf),L 58-74,*,35,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,2,2,2,0,0,0,0,5,4.3,A,0,1,kyle-bowen-1,Kyle Bowen,2022
+27,82,27,2022-02-17,St. Mary's (CA),,San Francisco,REG (Conf),W 69-64,*,29,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,0,6,6,0,0,0,1,2,4,1.2,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+28,83,28,2022-02-19,St. Mary's (CA),,Brigham Young,REG (Conf),W 69-64,*,30,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,3,3,0,1,0,0,1,6,5.5,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+29,84,29,2022-02-24,St. Mary's (CA),@,San Diego,REG (Conf),W 60-46,*,32,5,5,1.0,2,2,1.0,3,3,1.0,1.2,0,0,,2,4,6,1,2,1,0,1,12,16.1,A,1,1,kyle-bowen-1,Kyle Bowen,2022
+30,85,30,2022-02-26,St. Mary's (CA),,Gonzaga,REG (Conf),W 67-57,*,33,2,9,0.222,2,7,0.286,0,2,0.0,0.333,0,0,,1,5,6,4,1,0,0,3,6,5.3,H,1,1,kyle-bowen-1,Kyle Bowen,2022
+31,86,31,2022-03-07,St. Mary's (CA),N,Santa Clara,CTOURN,W 75-72,*,25,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,6,6,1,0,1,0,4,6,6.3,N,1,0,kyle-bowen-1,Kyle Bowen,2022
+32,87,32,2022-03-08,St. Mary's (CA),N,Gonzaga,CTOURN,L 69-82,*,27,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,5,5,0,0,1,0,5,5,2.5,N,0,0,kyle-bowen-1,Kyle Bowen,2022
+33,88,33,2022-03-17,St. Mary's (CA),N,Indiana,ROUND-64,W 82-53,*,20,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,1,0,0.6,N,1,0,kyle-bowen-1,Kyle Bowen,2022
+34,89,34,2022-03-19,St. Mary's (CA),N,UCLA,ROUND-32,L 56-72,*,33,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,1,0,3,2,1.5,N,0,0,kyle-bowen-1,Kyle Bowen,2022

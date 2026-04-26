@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2010-11-12,West Virginia,,Oakland,REG (Non-Conf),W 95-71,*,22,4,9,0.444,2,7,0.286,2,2,1.0,0.556,2,2,1.0,0,0,0,4,2,0,0,1,12,11.7,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+2,37,2,2010-11-18,West Virginia,N,Davidson,REG (Non-Conf),W 84-70,*,20,2,5,0.4,2,4,0.5,0,1,0.0,0.6,6,6,1.0,0,2,2,0,0,0,2,2,12,7.1,N,1,1,casey-mitchell-1,Casey Mitchell,2011
+3,38,3,2010-11-19,West Virginia,N,Vanderbilt,REG (Non-Conf),W 74-71,*,34,9,15,0.6,6,12,0.5,3,3,1.0,0.8,7,8,0.875,2,2,4,1,1,1,3,4,31,23.5,N,1,1,casey-mitchell-1,Casey Mitchell,2011
+4,39,4,2010-11-21,West Virginia,N,Minnesota,REG (Non-Conf),L 70-74,*,35,10,20,0.5,4,9,0.444,6,11,0.545,0.6,3,3,1.0,1,1,2,1,1,0,3,1,27,16.3,N,0,1,casey-mitchell-1,Casey Mitchell,2011
+5,40,5,2010-11-27,West Virginia,N,VMI,REG (Non-Conf),W 82-66,*,37,10,17,0.588,2,6,0.333,8,11,0.727,0.647,3,4,0.75,1,6,7,4,0,1,1,0,25,21.7,N,1,1,casey-mitchell-1,Casey Mitchell,2011
+6,41,6,2010-12-01,West Virginia,,American,REG (Non-Conf),W 71-50,*,29,8,11,0.727,1,3,0.333,7,8,0.875,0.773,10,11,0.909,0,1,1,0,3,1,2,0,27,24.1,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+7,42,7,2010-12-04,West Virginia,@,Miami (FL),REG (Non-Conf),L 76-79,*,39,5,15,0.333,3,10,0.3,2,5,0.4,0.433,5,7,0.714,4,3,7,2,0,0,1,1,18,12.4,A,0,1,casey-mitchell-1,Casey Mitchell,2011
+8,43,8,2010-12-07,West Virginia,,Robert Morris,REG (Non-Conf),W 82-49,*,16,2,7,0.286,0,4,0.0,2,3,0.667,0.286,2,2,1.0,0,2,2,1,0,0,0,0,6,3.2,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+9,44,9,2010-12-12,West Virginia,N,Duquesne,REG (Non-Conf),W 64-61,,13,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,0,0,0,1,0,0,3,2,2,-4.9,N,1,1,casey-mitchell-1,Casey Mitchell,2011
+10,45,10,2010-12-18,West Virginia,,Cleveland State,REG (Non-Conf),W 74-63,*,31,5,14,0.357,3,8,0.375,2,6,0.333,0.464,2,3,0.667,2,3,5,1,2,0,2,1,15,9.4,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+11,46,11,2010-12-29,West Virginia,,St. John's (NY),REG (Conf),L 71-81,*,23,4,13,0.308,4,10,0.4,0,3,0.0,0.462,0,0,,0,2,2,3,0,0,2,2,12,4.4,H,0,1,casey-mitchell-1,Casey Mitchell,2011
+12,47,12,2011-01-01,West Virginia,@,Marquette,REG (Conf),L 74-79,*,30,5,11,0.455,4,7,0.571,1,4,0.25,0.636,0,0,,0,2,2,2,0,0,2,2,14,7.5,A,0,1,casey-mitchell-1,Casey Mitchell,2011
+13,48,13,2011-01-04,West Virginia,@,DePaul,REG (Conf),W 67-65,*,24,7,13,0.538,3,7,0.429,4,6,0.667,0.654,1,2,0.5,1,3,4,3,0,1,1,2,18,13.9,A,1,1,casey-mitchell-1,Casey Mitchell,2011
+14,49,14,2011-01-08,West Virginia,@,Georgetown,REG (Conf),W 65-59,*,35,10,19,0.526,4,7,0.571,6,12,0.5,0.632,4,5,0.8,2,1,3,2,1,2,2,0,28,21.8,A,1,1,casey-mitchell-1,Casey Mitchell,2011
+15,50,15,2011-01-13,West Virginia,,Providence,REG (Conf),W 93-63,*,23,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,2,1.0,1,1,2,3,3,0,1,1,14,13.7,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+16,51,16,2011-01-16,West Virginia,,Purdue,REG (Non-Conf),W 68-64,*,26,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,2,3,1,0,0,3,0,6,2.3,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+17,52,17,2011-01-19,West Virginia,N,Marshall,REG (Non-Conf),L 71-75,*,34,5,17,0.294,3,9,0.333,2,8,0.25,0.382,5,5,1.0,3,1,4,0,2,0,4,4,18,6.9,N,0,1,casey-mitchell-1,Casey Mitchell,2011
+18,53,18,2011-01-23,West Virginia,,South Florida,REG (Conf),W 56-46,*,33,6,19,0.316,1,5,0.2,5,14,0.357,0.342,0,0,,7,7,14,0,0,0,0,1,13,8.7,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+19,54,22,2011-02-05,West Virginia,@,Villanova,REG (Conf),L 50-66,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,2,1,0,-3.5,A,0,1,casey-mitchell-1,Casey Mitchell,2011
+20,55,23,2011-02-07,West Virginia,,Pittsburgh,REG (Conf),L 66-71,,24,2,10,0.2,1,6,0.167,1,4,0.25,0.25,2,2,1.0,0,3,3,1,1,0,0,1,7,3.0,H,0,1,casey-mitchell-1,Casey Mitchell,2011
+21,56,24,2011-02-12,West Virginia,,DePaul,REG (Conf),W 82-71,,17,4,6,0.667,2,3,0.667,2,3,0.667,0.833,1,1,1.0,0,1,1,2,0,0,0,2,11,9.3,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+22,57,25,2011-02-14,West Virginia,@,Syracuse,REG (Conf),L 52-63,,26,8,14,0.571,7,12,0.583,1,2,0.5,0.821,0,0,,1,1,2,0,2,0,5,1,23,14.0,A,0,1,casey-mitchell-1,Casey Mitchell,2011
+23,58,26,2011-02-19,West Virginia,,Notre Dame,REG (Conf),W 72-58,,9,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,0,0,0,0,0,2,-0.1,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+24,59,27,2011-02-24,West Virginia,@,Pittsburgh,REG (Conf),L 58-71,,24,5,11,0.455,4,6,0.667,1,5,0.2,0.636,8,8,1.0,0,2,2,1,0,0,3,2,22,13.8,A,0,1,casey-mitchell-1,Casey Mitchell,2011
+25,60,28,2011-02-27,West Virginia,@,Rutgers,REG (Conf),W 65-54,,13,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,1,1,0,0,0,4,1,8,-1.2,A,1,1,casey-mitchell-1,Casey Mitchell,2011
+26,61,29,2011-03-02,West Virginia,,Connecticut,REG (Conf),W 65-56,,12,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,4,0.25,0,1,1,0,1,0,0,1,4,1.3,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+27,62,30,2011-03-05,West Virginia,,Louisville,REG (Conf),W 72-70,,16,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,1,3,4,0,1,0,1,1,10,6.8,H,1,1,casey-mitchell-1,Casey Mitchell,2011
+28,63,31,2011-03-09,West Virginia,N,Marquette,CTOURN,L 61-67,,16,2,8,0.25,2,6,0.333,0,2,0.0,0.375,3,3,1.0,1,1,2,1,0,0,1,1,9,4.5,N,0,0,casey-mitchell-1,Casey Mitchell,2011
+29,64,32,2011-03-17,West Virginia,N,Clemson,ROUND-64,W 84-76,,16,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,4,0.6,N,1,0,casey-mitchell-1,Casey Mitchell,2011
+30,65,33,2011-03-19,West Virginia,N,Kentucky,ROUND-32,L 63-71,,16,3,10,0.3,2,5,0.4,1,5,0.2,0.4,3,3,1.0,0,1,1,0,2,1,2,2,11,5.4,N,0,0,casey-mitchell-1,Casey Mitchell,2011

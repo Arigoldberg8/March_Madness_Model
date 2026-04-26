@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,48,1,2018-11-06,Wisconsin,,Coppin State,REG (Non-Conf),W 85-63,*,27,7,13,0.538,5,9,0.556,2,4,0.5,0.731,2,2,1.0,0,4,4,1,0,0,0,2,21,15.8,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+2,49,2,2018-11-13,Wisconsin,@,Xavier,REG (Non-Conf),W 77-68,*,34,7,11,0.636,5,5,1.0,2,6,0.333,0.864,3,4,0.75,1,4,5,5,0,0,2,3,22,18.9,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+3,50,3,2018-11-17,Wisconsin,,Houston Baptist,REG (Non-Conf),W 96-59,*,26,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,1,1.0,0,2,2,2,2,0,0,2,12,11.9,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+4,51,4,2018-11-21,Wisconsin,N,Stanford,REG (Non-Conf),W 62-46,*,32,6,20,0.3,0,5,0.0,6,15,0.4,0.3,4,4,1.0,0,3,3,1,1,0,2,2,16,4.2,N,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+5,52,5,2018-11-22,Wisconsin,N,Oklahoma,REG (Non-Conf),W 78-58,*,32,8,13,0.615,7,8,0.875,1,5,0.2,0.885,2,3,0.667,0,3,3,4,1,0,1,0,25,22.4,N,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+6,53,6,2018-11-23,Wisconsin,N,Virginia,REG (Non-Conf),L 46-53,*,37,2,9,0.222,0,2,0.0,2,7,0.286,0.222,1,2,0.5,0,4,4,1,0,0,3,1,5,-2.4,N,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+7,54,7,2018-11-27,Wisconsin,,NC State,REG (Non-Conf),W 79-75,*,33,6,10,0.6,4,5,0.8,2,5,0.4,0.8,2,4,0.5,0,2,2,6,3,0,0,1,18,20.0,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+8,55,8,2018-11-30,Wisconsin,@,Iowa,REG (Conf),W 72-66,*,36,6,14,0.429,4,8,0.5,2,6,0.333,0.571,4,4,1.0,0,7,7,1,1,0,3,3,20,12.2,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+9,56,9,2018-12-03,Wisconsin,,Rutgers,REG (Conf),W 69-64,*,34,6,9,0.667,2,2,1.0,4,7,0.571,0.778,0,1,0.0,0,4,4,1,0,0,1,3,14,9.4,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+10,57,10,2018-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 69-74 (OT),*,41,3,8,0.375,1,6,0.167,2,2,1.0,0.438,3,5,0.6,0,7,7,5,0,0,2,3,10,7.2,A,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+11,58,11,2018-12-13,Wisconsin,,Savannah State,REG (Non-Conf),W 101-60,*,23,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,3,3,4,0,0,1,0,14,13.1,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+12,59,12,2018-12-22,Wisconsin,,Grambling State,REG (Non-Conf),W 84-53,*,27,6,10,0.6,1,4,0.25,5,6,0.833,0.65,1,2,0.5,0,2,2,3,0,0,0,1,14,11.3,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+13,60,13,2018-12-29,Wisconsin,@,Western Kentucky,REG (Non-Conf),L 76-83,*,38,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,2,0.5,0,3,3,3,0,0,1,2,10,4.0,A,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+14,61,14,2019-01-03,Wisconsin,,Minnesota,REG (Conf),L 52-59,*,27,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,0,1,1,1,2,0,4,1,8,0.8,H,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+15,62,15,2019-01-06,Wisconsin,@,Penn State,REG (Conf),W 71-52,*,29,2,9,0.222,1,6,0.167,1,3,0.333,0.278,0,0,,0,1,1,4,3,0,1,4,5,3.0,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+16,63,16,2019-01-11,Wisconsin,,Purdue,REG (Conf),L 80-84 (OT),*,39,4,14,0.286,4,7,0.571,0,7,0.0,0.429,5,7,0.714,0,1,1,1,0,0,2,3,17,5.8,H,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+17,64,17,2019-01-14,Wisconsin,@,Maryland,REG (Conf),L 60-64,*,36,5,14,0.357,3,10,0.3,2,4,0.5,0.464,0,0,,2,2,4,5,1,0,1,2,13,9.9,A,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+18,65,18,2019-01-19,Wisconsin,,Michigan,REG (Conf),W 64-54,*,34,2,10,0.2,0,3,0.0,2,7,0.286,0.2,2,2,1.0,0,3,3,3,0,0,2,1,6,0.4,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+19,66,19,2019-01-23,Wisconsin,@,Illinois,REG (Conf),W 72-60,*,32,4,9,0.444,2,4,0.5,2,5,0.4,0.556,6,6,1.0,0,1,1,1,1,0,5,2,16,7.5,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+20,67,20,2019-01-26,Wisconsin,,Northwestern,REG (Conf),W 62-46,*,35,7,11,0.636,4,6,0.667,3,5,0.6,0.818,0,0,,0,3,3,2,1,0,1,1,18,15.0,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+21,68,21,2019-01-29,Wisconsin,@,Nebraska,REG (Conf),W 62-51,*,33,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,1,0.0,1,2,3,2,1,0,1,2,8,5.8,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+22,69,22,2019-02-01,Wisconsin,,Maryland,REG (Conf),W 69-61,*,36,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,0,1,3,2,0,2,2,7,5.3,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+23,70,23,2019-02-06,Wisconsin,@,Minnesota,REG (Conf),W 56-51,*,33,3,10,0.3,3,8,0.375,0,2,0.0,0.45,0,0,,0,0,0,2,1,0,0,1,9,5.2,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+24,71,24,2019-02-09,Wisconsin,@,Michigan,REG (Conf),L 52-61,*,33,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,0,3,3,0,0,0,0,2,8,3.0,A,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+25,72,25,2019-02-12,Wisconsin,,Michigan State,REG (Conf),L 59-67,*,29,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,3,2,0,0,3,2,1.4,H,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+26,73,26,2019-02-18,Wisconsin,,Illinois,REG (Conf),W 64-58,*,21,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,2,1.0,0,2,2,2,0,0,1,2,7,1.7,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+27,74,27,2019-02-23,Wisconsin,@,Northwestern,REG (Conf),W 69-64,*,32,5,13,0.385,4,9,0.444,1,4,0.25,0.538,0,0,,0,1,1,3,0,1,2,1,14,7.6,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+28,75,28,2019-02-26,Wisconsin,@,Indiana,REG (Conf),L 73-75 (2OT),*,40,2,10,0.2,2,7,0.286,0,3,0.0,0.3,6,9,0.667,0,4,4,3,0,0,0,0,12,7.9,A,0,1,dmitrik-trice-1,D'Mitrik Trice,2019
+29,76,29,2019-03-02,Wisconsin,,Penn State,REG (Conf),W 61-57,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,3,0.667,0,3,3,2,0,0,1,3,6,1.6,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+30,77,30,2019-03-07,Wisconsin,,Iowa,REG (Conf),W 65-45,*,31,2,9,0.222,1,6,0.167,1,3,0.333,0.278,0,0,,0,5,5,4,2,0,2,0,5,3.8,H,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+31,78,31,2019-03-10,Wisconsin,@,Ohio State,REG (Conf),W 73-67 (OT),*,40,2,11,0.182,2,8,0.25,0,3,0.0,0.273,2,2,1.0,0,1,1,0,0,0,0,4,8,-0.2,A,1,1,dmitrik-trice-1,D'Mitrik Trice,2019
+32,79,32,2019-03-15,Wisconsin,N,Nebraska,CTOURN,W 66-62,*,29,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,0,0,4,2,0,1,2,8,8.3,N,1,0,dmitrik-trice-1,D'Mitrik Trice,2019
+33,80,33,2019-03-16,Wisconsin,N,Michigan State,CTOURN,L 55-67,*,31,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,4,4,3,2,0,1,5,7,3.5,N,0,0,dmitrik-trice-1,D'Mitrik Trice,2019
+34,81,34,2019-03-22,Wisconsin,N,Oregon,ROUND-64,L 54-72,*,30,3,12,0.25,2,10,0.2,1,2,0.5,0.333,0,0,,1,2,3,5,2,0,2,1,8,5.2,N,0,0,dmitrik-trice-1,D'Mitrik Trice,2019

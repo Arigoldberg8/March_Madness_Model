@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-11,Rhode Island,,Dartmouth,REG (Non-Conf),W 84-61,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,0,0,1,0,0,1,1,5,1.2,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+2,2,3,2016-11-16,Rhode Island,,Brown,REG (Non-Conf),W 79-72,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+3,3,6,2016-11-25,Rhode Island,,Belmont,REG (Non-Conf),W 82-73,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,3,1,0,-2.4,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+4,4,7,2016-11-29,Rhode Island,@,Valparaiso,REG (Non-Conf),L 62-65,,7,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,1,0,0.3,A,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+5,5,8,2016-12-03,Rhode Island,@,Providence,REG (Non-Conf),L 60-63,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+6,6,9,2016-12-06,Rhode Island,,Old Dominion,REG (Non-Conf),W 51-39,,11,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,1,0,1,0,1,0,0,1,3,2.5,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+7,7,10,2016-12-10,Rhode Island,@,Houston,REG (Non-Conf),L 77-82,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,A,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+8,8,11,2016-12-18,Rhode Island,,Holy Cross,REG (Non-Conf),W 65-54,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,0,0,0,1,0,2,1,5,1.2,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+9,9,12,2016-12-22,Rhode Island,,William & Mary,REG (Non-Conf),W 73-62,,14,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,1,1,0,0,0,0,2,9,5.9,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+10,10,13,2016-12-30,Rhode Island,@,Saint Louis,REG (Conf),W 90-56,,19,5,5,1.0,2,2,1.0,3,3,1.0,1.2,0,0,,0,3,3,1,0,0,0,3,12,10.9,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+11,11,14,2017-01-03,Rhode Island,,Saint Joseph's,REG (Conf),W 88-58,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,2,0.0,0,0,0,1,1,0,0,0,3,2.9,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+12,12,15,2017-01-06,Rhode Island,@,Dayton,REG (Conf),L 64-67,,14,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,2,0,0,1,3,5,3.2,A,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+13,13,16,2017-01-12,Rhode Island,,La Salle,REG (Conf),L 75-87,,22,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,0,0,0,1,0,0,1,4,11,3.7,H,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+14,14,17,2017-01-15,Rhode Island,,Massachusetts,REG (Conf),W 79-77,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,6,8,0.75,0,2,2,4,2,0,1,2,11,10.4,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+15,15,18,2017-01-21,Rhode Island,@,Duquesne,REG (Conf),W 90-69,*,32,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,2,0.0,0,2,2,3,0,0,0,2,5,1.3,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+16,16,19,2017-01-25,Rhode Island,@,Richmond,REG (Conf),L 62-73,*,28,2,11,0.182,0,3,0.0,2,8,0.25,0.182,0,5,0.0,3,2,5,2,4,0,0,4,4,1.6,A,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+17,17,20,2017-01-28,Rhode Island,,St. Bonaventure,REG (Conf),W 71-59,*,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,2,3,3,0,0,3,4,2,-0.6,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+18,18,21,2017-01-31,Rhode Island,,George Washington,REG (Conf),W 82-70,*,37,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,0,0,0,4,1,0,1,0,10,7.8,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+19,19,22,2017-02-03,Rhode Island,@,Davidson,REG (Conf),W 70-59,*,36,7,11,0.636,3,4,0.75,4,7,0.571,0.773,2,4,0.5,0,1,1,4,1,0,1,3,19,15.2,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+20,20,23,2017-02-07,Rhode Island,@,Massachusetts,REG (Conf),W 70-62,*,32,3,6,0.5,0,0,,3,6,0.5,0.5,1,4,0.25,0,3,3,5,3,1,0,1,7,10.5,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+21,21,24,2017-02-10,Rhode Island,,Dayton,REG (Conf),L 74-75,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,1,1,1.0,0,3,3,2,0,2,1,3,5,4.5,H,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+22,22,25,2017-02-15,Rhode Island,,Fordham,REG (Conf),L 43-53,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,3,4,3,1,2,3,4,2,0.4,H,0,1,jeff-dowtin-1,Jeff Dowtin,2017
+23,23,26,2017-02-18,Rhode Island,@,George Mason,REG (Conf),W 77-74,*,35,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,4,1,5,7,0,1,0,1,7,11.6,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+24,24,27,2017-02-21,Rhode Island,@,La Salle,REG (Conf),W 67-56,*,30,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,7,0,0,1,1,2,1.7,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+25,25,28,2017-02-25,Rhode Island,,VCU,REG (Conf),W 69-59,*,35,0,6,0.0,0,2,0.0,0,4,0.0,0.0,1,2,0.5,0,0,0,4,0,0,1,0,1,-1.8,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+26,26,29,2017-03-01,Rhode Island,@,Saint Joseph's,REG (Conf),W 68-49,*,25,0,5,0.0,0,4,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,3,3,0,-5.7,A,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+27,27,30,2017-03-04,Rhode Island,,Davidson,REG (Conf),W 73-70 (OT),*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,1,0,0,0,1,2,2.0,H,1,1,jeff-dowtin-1,Jeff Dowtin,2017
+28,28,31,2017-03-10,Rhode Island,N,St. Bonaventure,CTOURN,W 74-63,*,20,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,2,0.5,0,1,1,3,0,0,0,1,6,7.0,N,1,0,jeff-dowtin-1,Jeff Dowtin,2017
+29,29,32,2017-03-11,Rhode Island,N,Davidson,CTOURN,W 84-60,*,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,1,1,1.0,1,0,1,6,0,0,0,3,7,8.4,N,1,0,jeff-dowtin-1,Jeff Dowtin,2017
+30,30,33,2017-03-12,Rhode Island,N,VCU,CTOURN,W 70-63,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,4,0,1,1,2,2,2.0,N,1,0,jeff-dowtin-1,Jeff Dowtin,2017
+31,31,34,2017-03-17,Rhode Island,N,Creighton,ROUND-64,W 84-72,*,29,6,8,0.75,1,2,0.5,5,6,0.833,0.813,10,10,1.0,1,4,5,0,1,0,0,1,23,22.3,N,1,0,jeff-dowtin-1,Jeff Dowtin,2017
+32,32,35,2017-03-19,Rhode Island,N,Oregon,ROUND-32,L 72-75,*,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,1,3,5,1.1,N,0,0,jeff-dowtin-1,Jeff Dowtin,2017

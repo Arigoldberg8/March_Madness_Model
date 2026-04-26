@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2023-11-06,Morehead State,@,Alabama,REG (Non-Conf),L 73-105,,18,1,3,0.333,0,0,1,3,0.333,0.333,2,5,0.4,2,1,3,0,1,0,0,4,4,2.2,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+2,102,2,2023-11-08,Morehead State,,Shawnee St,REG (Non-Conf),W 96-40,*,24,1,4,0.25,0,0,1,4,0.25,0.25,3,7,0.429,1,2,3,1,1,1,2,4,5,1.1,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+3,103,3,2023-11-10,Morehead State,@,Purdue,REG (Non-Conf),L 57-87,*,7,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,0,4,2,0.1,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+4,104,4,2023-11-14,Morehead State,,Mercer,REG (Non-Conf),W 74-66,,8,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+5,105,5,2023-11-17,Morehead State,@,Penn State,REG (Non-Conf),L 51-74,,5,0,0,,0,0,0,0,,,2,4,0.5,0,2,2,0,0,0,1,4,2,-0.8,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+6,106,6,2023-11-20,Morehead State,@,Bellarmine,REG (Non-Conf),W 64-51,,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+7,107,7,2023-11-22,Morehead State,,Midway,REG (Non-Conf),W 94-53,,8,0,0,,0,0,0,0,,,0,2,0.0,0,1,1,1,0,0,0,0,0,0.2,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+8,108,8,2023-11-29,Morehead State,@,Austin Peay,REG (Non-Conf),W 61-50,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+9,109,9,2023-12-03,Morehead State,,Chattanooga,REG (Non-Conf),W 87-80,,10,0,2,0.0,0,0,0,2,0.0,0.0,1,3,0.333,2,0,2,0,0,2,0,2,1,0.8,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+10,110,10,2023-12-10,Morehead State,@,North Alabama,REG (Non-Conf),W 86-77,,4,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,0,1,1,-0.2,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+11,111,11,2023-12-14,Morehead State,,SMWC,REG (Non-Conf),W 102-33,,15,5,7,0.714,0,0,5,7,0.714,0.714,1,1,1.0,5,1,6,0,1,2,3,3,11,10.1,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+12,112,12,2023-12-19,Morehead State,@,Indiana,REG (Non-Conf),L 68-69,,10,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,1,5,0,-2.0,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+13,113,13,2023-12-21,Morehead State,,Alice Lloyd,REG (Non-Conf),W 101-39,,12,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,3,1,4,1,0,0,0,2,2,2.8,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+14,114,14,2023-12-31,Morehead State,@,Southeast Missouri State,REG (Conf),W 83-64,,11,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,2,1,3,1,0,0,1,5,5,2.7,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+15,115,15,2024-01-04,Morehead State,,Tennessee Tech,REG (Conf),W 82-57,,15,1,1,1.0,0,0,1,1,1.0,1.0,2,3,0.667,2,0,2,0,1,0,0,1,4,5.3,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+16,116,16,2024-01-06,Morehead State,,Tennessee State,REG (Conf),W 78-68,,5,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,0,0,0,0,0,0,0,3,2,-0.3,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+17,117,17,2024-01-11,Morehead State,@,Eastern Illinois,REG (Conf),W 78-52,,7,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,1,2,1,0,-1.4,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+18,118,18,2024-01-13,Morehead State,@,SIU Edwardsville,REG (Conf),L 48-61,,8,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,3,4,0,0,2,1,1,0,0.2,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+19,119,19,2024-01-18,Morehead State,,UT Martin,REG (Conf),W 84-66,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+20,120,20,2024-01-20,Morehead State,@,Southern Indiana,REG (Conf),W 81-70,,4,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,0,2,0,-1.2,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+21,121,21,2024-01-27,Morehead State,,Western Illinois,REG (Conf),W 64-50,,10,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,2,1,3,0,0,0,0,1,5,5.3,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+22,122,22,2024-02-01,Morehead State,@,Tennessee State,REG (Conf),W 68-49,*,14,2,4,0.5,0,0,2,4,0.5,0.5,1,3,0.333,1,1,2,1,1,1,1,5,5,2.6,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+23,123,23,2024-02-03,Morehead State,@,Tennessee Tech,REG (Conf),W 67-60,*,17,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,2,1,3,2,0,1,0,3,8,9.4,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+24,124,24,2024-02-08,Morehead State,,SIU Edwardsville,REG (Conf),W 79-68,,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,1,1,0,1,4,2,0.7,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+25,125,25,2024-02-10,Morehead State,,Eastern Illinois,REG (Conf),W 69-57,,17,3,4,0.75,0,0,3,4,0.75,0.75,6,9,0.667,1,1,2,0,0,2,1,3,12,9.4,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+26,126,26,2024-02-15,Morehead State,@,Little Rock,REG (Conf),L 68-69,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,4,2,-0.3,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+27,127,27,2024-02-17,Morehead State,@,UT Martin,REG (Conf),L 82-88,,15,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,0,1,0,0.5,A,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+28,128,28,2024-02-20,Morehead State,,Southern Indiana,REG (Conf),L 73-80,,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,1,1,2,0,-0.8,H,0,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+29,129,29,2024-02-22,Morehead State,@,Western Illinois,REG (Conf),W 78-57,,11,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,2,0,2,0,0,1,0,4,4,4.2,A,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+30,130,30,2024-02-29,Morehead State,,Southeast Missouri State,REG (Conf),W 72-50,,14,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,2,1,3,0,0,0,2,4,4,1.8,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+31,131,31,2024-03-02,Morehead State,,Lindenwood,REG (Conf),W 67-49,*,15,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,0,1,1,2,0,-0.5,H,1,1,zach-iyeyemi-1,Zach Iyeyemi,2024
+32,132,32,2024-03-07,Morehead State,N,SIU Edwardsville,CTOURN,W 78-63,,12,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,1,2,0,0,1,0,3,4,3.5,N,1,0,zach-iyeyemi-1,Zach Iyeyemi,2024
+33,133,33,2024-03-08,Morehead State,N,UT Martin,CTOURN,W 84-78,,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,0,zach-iyeyemi-1,Zach Iyeyemi,2024
+34,134,34,2024-03-09,Morehead State,N,Little Rock,CTOURN,W 69-55,,7,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,0,1,0,0,0.0,N,1,0,zach-iyeyemi-1,Zach Iyeyemi,2024
+35,135,35,2024-03-21,Morehead State,N,Illinois,ROUND-64,L 69-85,,12,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,zach-iyeyemi-1,Zach Iyeyemi,2024

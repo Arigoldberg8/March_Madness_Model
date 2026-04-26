@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2010-11-12,Kansas State,,James Madison,REG (Non-Conf),W 75-61,*,30,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,1,0.0,3,5,8,3,2,1,1,1,9,11.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+2,35,2,2010-11-16,Kansas State,,Virginia Tech,REG (Non-Conf),W 73-57,*,31,5,13,0.385,2,7,0.286,3,6,0.5,0.462,1,5,0.2,5,4,9,3,1,0,1,0,13,11.1,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+3,36,3,2010-11-18,Kansas State,,Presbyterian,REG (Non-Conf),W 76-67,*,28,5,10,0.5,3,8,0.375,2,2,1.0,0.65,0,0,,0,3,3,3,0,0,0,1,13,10.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+4,37,4,2010-11-22,Kansas State,N,Gonzaga,REG (Non-Conf),W 81-64,*,29,3,9,0.333,2,7,0.286,1,2,0.5,0.444,2,2,1.0,2,7,9,2,2,0,2,2,10,9.0,N,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+5,38,5,2010-11-23,Kansas State,N,Duke,REG (Non-Conf),L 68-82,*,36,3,10,0.3,0,5,0.0,3,5,0.6,0.3,1,2,0.5,3,4,7,3,0,0,2,2,7,3.4,N,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+6,39,6,2010-11-26,Kansas State,,Texas Southern,REG (Non-Conf),W 84-60,*,26,3,7,0.429,2,6,0.333,1,1,1.0,0.571,2,2,1.0,1,3,4,2,1,0,3,1,10,6.9,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+7,40,7,2010-11-29,Kansas State,,Emporia St.,REG (Non-Conf),W 85-61,*,27,6,11,0.545,3,6,0.5,3,5,0.6,0.682,2,2,1.0,2,4,6,0,1,1,1,0,17,15.0,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+8,41,8,2010-12-03,Kansas State,@,Washington State,REG (Non-Conf),W 63-58,*,26,5,8,0.625,5,7,0.714,0,1,0.0,0.938,0,0,,2,6,8,1,2,0,3,3,15,13.1,A,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+9,42,9,2010-12-06,Kansas State,,Alcorn State,REG (Non-Conf),W 89-55,*,19,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,2,3,5,2,0,1,0,2,8,8.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+10,43,10,2010-12-11,Kansas State,@,Loyola Chicago,REG (Non-Conf),W 68-60,*,25,2,4,0.5,2,2,1.0,0,2,0.0,0.75,2,4,0.5,0,3,3,1,0,0,0,4,8,5.2,A,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+11,44,11,2010-12-18,Kansas State,N,Florida,REG (Non-Conf),L 44-57,*,31,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,7,2,9,0,0,0,3,3,3,-0.2,N,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+12,45,12,2010-12-21,Kansas State,N,UNLV,REG (Non-Conf),L 59-63,*,29,5,13,0.385,0,4,0.0,5,9,0.556,0.385,1,2,0.5,4,6,10,0,3,1,4,3,11,6.6,N,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+13,46,13,2010-12-23,Kansas State,,Kansas City,REG (Non-Conf),W 80-64,*,33,8,14,0.571,7,10,0.7,1,4,0.25,0.821,1,2,0.5,1,6,7,2,2,0,0,2,24,22.1,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+14,47,14,2010-12-31,Kansas State,,North Florida,REG (Non-Conf),W 100-76,*,32,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,2,0.5,2,4,6,3,1,0,1,1,9,9.2,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+15,48,15,2011-01-03,Kansas State,,Savannah State,REG (Non-Conf),W 92-61,*,25,5,9,0.556,3,7,0.429,2,2,1.0,0.722,2,2,1.0,2,4,6,4,0,0,1,0,15,15.1,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+16,49,16,2011-01-08,Kansas State,@,Oklahoma State,REG (Conf),L 62-76,*,29,7,10,0.7,3,6,0.5,4,4,1.0,0.85,2,2,1.0,1,5,6,1,0,0,1,4,19,15.1,A,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+17,50,17,2011-01-12,Kansas State,,Colorado,REG (Conf),L 66-74,*,32,4,11,0.364,3,7,0.429,1,4,0.25,0.5,1,2,0.5,2,3,5,0,0,1,1,3,12,6.3,H,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+18,51,18,2011-01-15,Kansas State,,Texas Tech,REG (Conf),W 94-60,*,32,5,10,0.5,4,5,0.8,1,5,0.2,0.7,2,3,0.667,5,10,15,2,0,0,3,2,16,14.7,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+19,52,19,2011-01-17,Kansas State,@,Missouri,REG (Conf),L 59-75,*,30,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,2,0.0,3,3,6,1,1,0,2,1,4,0.0,A,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+20,53,20,2011-01-22,Kansas State,@,Texas A&M,REG (Conf),L 56-64,*,24,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,1,1,0,0,1,2,3,0,-5.0,A,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+21,54,21,2011-01-24,Kansas State,,Baylor,REG (Conf),W 69-61,*,29,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,2,1.0,2,5,7,2,0,0,1,1,12,12.3,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+22,55,22,2011-01-29,Kansas State,@,Kansas,REG (Conf),L 66-90,*,35,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,4,0.5,3,3,6,0,0,0,4,1,15,7.8,A,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+23,56,23,2011-02-02,Kansas State,,Nebraska,REG (Conf),W 69-53,*,33,3,7,0.429,1,3,0.333,2,4,0.5,0.5,3,4,0.75,1,3,4,3,1,0,2,0,10,8.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+24,57,24,2011-02-05,Kansas State,@,Iowa State,REG (Conf),W 86-85,*,36,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,2,4,6,1,0,0,0,0,3,2.5,A,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+25,58,25,2011-02-12,Kansas State,@,Colorado,REG (Conf),L 56-58,*,34,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,2,1.0,0,3,3,0,0,0,0,2,11,6.0,A,0,1,rodney-mcgruder-1,Rodney McGruder,2011
+26,59,26,2011-02-14,Kansas State,,Kansas,REG (Conf),W 84-68,*,33,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,2,1.0,3,2,5,1,0,0,2,3,10,7.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+27,60,27,2011-02-19,Kansas State,,Oklahoma,REG (Conf),W 77-62,*,36,6,10,0.6,5,7,0.714,1,3,0.333,0.85,3,4,0.75,1,3,4,1,1,0,2,1,20,15.9,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+28,61,28,2011-02-23,Kansas State,@,Nebraska,REG (Conf),W 61-57,*,38,3,9,0.333,1,4,0.25,2,5,0.4,0.389,4,4,1.0,4,4,8,1,1,1,0,2,11,11.5,A,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+29,62,29,2011-02-26,Kansas State,,Missouri,REG (Conf),W 80-70,*,25,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,1,4,5,3,1,0,0,3,10,8.8,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+30,63,30,2011-02-28,Kansas State,@,Texas,REG (Conf),W 75-70,*,34,8,14,0.571,4,6,0.667,4,8,0.5,0.714,2,2,1.0,1,4,5,1,2,0,1,2,22,18.2,A,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+31,64,31,2011-03-05,Kansas State,,Iowa State,REG (Conf),W 67-55,*,37,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,0,5,5,2,2,0,3,3,7,3.3,H,1,1,rodney-mcgruder-1,Rodney McGruder,2011
+32,65,32,2011-03-10,Kansas State,N,Colorado,CTOURN,L 75-87,*,28,3,10,0.3,1,4,0.25,2,6,0.333,0.35,4,4,1.0,2,0,2,2,0,1,0,2,11,7.9,N,0,0,rodney-mcgruder-1,Rodney McGruder,2011
+33,66,33,2011-03-17,Kansas State,N,Utah State,ROUND-64,W 73-68,*,36,3,9,0.333,2,4,0.5,1,5,0.2,0.444,2,2,1.0,1,5,6,0,0,0,2,1,10,4.7,N,1,0,rodney-mcgruder-1,Rodney McGruder,2011
+34,67,34,2011-03-19,Kansas State,N,Wisconsin,ROUND-32,L 65-70,*,32,0,2,0.0,0,2,0.0,0,0,,0.0,3,4,0.75,0,3,3,2,0,0,0,2,3,2.7,N,0,0,rodney-mcgruder-1,Rodney McGruder,2011

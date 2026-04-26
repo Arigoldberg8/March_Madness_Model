@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2010-11-12,UNC Asheville,@,Auburn,REG (Non-Conf),W 70-69 (OT),*,28,1,6,0.167,0,0,,1,6,0.167,0.167,3,6,0.5,5,7,12,1,1,2,1,4,5,6.1,A,1,1,dj-cunningham-1,D.J. Cunningham,2011
+2,30,2,2010-11-16,UNC Asheville,@,Furman,REG (Non-Conf),L 67-69,*,32,7,15,0.467,0,0,,7,15,0.467,0.467,1,2,0.5,4,4,8,0,0,2,3,5,15,7.3,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+3,31,3,2010-11-20,UNC Asheville,,Virginia Intermont,REG (Non-Conf),W 116-58,*,22,7,12,0.583,0,0,,7,12,0.583,0.583,0,1,0.0,2,7,9,2,1,4,2,1,14,14.3,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+4,32,4,2010-11-23,UNC Asheville,@,North Carolina,REG (Non-Conf),L 69-80,*,28,3,10,0.3,0,0,,3,10,0.3,0.3,0,0,,1,3,4,0,4,2,1,4,6,4.6,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+5,33,5,2010-11-27,UNC Asheville,@,Georgetown,REG (Non-Conf),L 72-87,*,27,3,7,0.429,1,1,1.0,2,6,0.333,0.5,3,4,0.75,1,5,6,0,3,1,1,4,10,9.2,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+6,34,6,2010-11-29,UNC Asheville,@,USC Upstate,REG (Non-Conf),L 91-93 (2OT),*,41,5,14,0.357,0,0,,5,14,0.357,0.357,2,5,0.4,8,10,18,2,2,1,7,5,12,6.7,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+7,35,7,2010-12-02,UNC Asheville,@,Radford,REG (Conf),W 70-50,*,24,6,10,0.6,0,0,,6,10,0.6,0.6,4,4,1.0,4,4,8,0,2,1,6,4,16,10.5,A,1,1,dj-cunningham-1,D.J. Cunningham,2011
+8,36,8,2010-12-04,UNC Asheville,@,High Point,REG (Conf),L 73-76,*,38,3,11,0.273,0,0,,3,11,0.273,0.273,3,6,0.5,4,8,12,3,0,2,0,4,9,8.4,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+9,37,9,2010-12-11,UNC Asheville,,Montreat,REG (Non-Conf),W 86-57,*,12,2,8,0.25,0,0,,2,8,0.25,0.25,3,4,0.75,6,3,9,0,1,1,2,3,7,5.4,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+10,38,10,2010-12-16,UNC Asheville,,King (TN),REG (Non-Conf),W 90-72,*,33,9,11,0.818,0,0,,9,11,0.818,0.818,2,2,1.0,3,8,11,0,0,2,3,2,20,18.0,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+11,39,11,2010-12-21,UNC Asheville,@,Ohio State,REG (Non-Conf),L 49-96,*,36,6,13,0.462,0,0,,6,13,0.462,0.462,1,1,1.0,3,4,7,0,0,1,0,3,13,9.1,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+12,40,12,2010-12-28,UNC Asheville,,Western Carolina,REG (Non-Conf),W 85-79 (OT),*,35,6,13,0.462,0,0,,6,13,0.462,0.462,4,7,0.571,0,6,6,1,1,0,5,4,16,5.0,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+13,41,13,2010-12-31,UNC Asheville,,VMI,REG (Conf),L 72-83,*,27,6,12,0.5,0,0,,6,12,0.5,0.5,3,3,1.0,5,6,11,1,0,4,0,0,15,17.8,H,0,1,dj-cunningham-1,D.J. Cunningham,2011
+14,42,17,2011-01-15,UNC Asheville,,Gardner-Webb,REG (Conf),W 68-59,,8,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,0,0,2,4,1,1,-1.8,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+15,43,18,2011-01-20,UNC Asheville,,Coastal Carolina,REG (Conf),L 59-80,,20,0,4,0.0,0,0,,0,4,0.0,0.0,1,3,0.333,1,3,4,0,0,3,2,4,1,-2.5,H,0,1,dj-cunningham-1,D.J. Cunningham,2011
+16,44,19,2011-01-22,UNC Asheville,,Charleston Southern,REG (Conf),W 77-69,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,6,6,0,0,1,0,3,4,4.0,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+17,45,20,2011-01-27,UNC Asheville,@,Liberty,REG (Conf),L 81-83 (OT),,35,6,8,0.75,0,0,,6,8,0.75,0.75,4,4,1.0,3,6,9,0,2,3,1,4,16,18.2,A,0,1,dj-cunningham-1,D.J. Cunningham,2011
+18,46,21,2011-01-29,UNC Asheville,@,VMI,REG (Conf),W 100-87,*,17,4,8,0.5,0,0,,4,8,0.5,0.5,1,2,0.5,0,7,7,0,1,0,0,1,9,7.3,A,1,1,dj-cunningham-1,D.J. Cunningham,2011
+19,47,22,2011-02-03,UNC Asheville,,Presbyterian,REG (Conf),W 88-55,,19,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,0,8,8,1,1,2,2,2,10,11.2,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+20,48,23,2011-02-05,UNC Asheville,,Winthrop,REG (Conf),L 53-57,*,30,2,9,0.222,0,0,,2,9,0.222,0.222,2,3,0.667,5,4,9,0,0,1,4,3,6,0.3,H,0,1,dj-cunningham-1,D.J. Cunningham,2011
+21,49,26,2011-02-19,UNC Asheville,,Northeastern,REG (Non-Conf),L 82-83,,3,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,1,3,0,0,0,0,0,2,2.7,H,0,1,dj-cunningham-1,D.J. Cunningham,2011
+22,50,28,2011-02-24,UNC Asheville,,High Point,REG (Conf),W 76-62,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,4,5,1,0,0,0,1,2,3.2,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+23,51,29,2011-02-26,UNC Asheville,,Radford,REG (Conf),W 81-58,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,3,4,1,0,0,1,3,6,4.8,H,1,1,dj-cunningham-1,D.J. Cunningham,2011
+24,52,30,2011-03-01,UNC Asheville,,Charleston Southern,CTOURN,W 72-63,,7,0,4,0.0,0,0,,0,4,0.0,0.0,2,2,1.0,0,1,1,0,0,0,0,2,2,-1.3,H,1,0,dj-cunningham-1,D.J. Cunningham,2011
+25,53,33,2011-03-15,UNC Asheville,N,Little Rock,FIRST-FOUR,W 81-77 (OT),,28,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,2,6,8,4,0,0,0,5,6,5.6,N,1,0,dj-cunningham-1,D.J. Cunningham,2011
+26,54,34,2011-03-17,UNC Asheville,N,Pittsburgh,ROUND-64,L 51-74,,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,0,2,0,3,0,-1.9,N,0,0,dj-cunningham-1,D.J. Cunningham,2011

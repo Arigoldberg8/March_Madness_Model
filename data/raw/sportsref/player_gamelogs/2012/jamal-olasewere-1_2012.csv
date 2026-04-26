@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2011-11-11,LIU Brooklyn,@,Hofstra,REG (Non-Conf),L 71-89,*,18,4,5,0.8,1,1,1.0,3,4,0.75,0.9,4,6,0.667,1,4,5,2,0,1,5,4,13,7.7,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+2,66,2,2011-11-14,LIU Brooklyn,@,Old Dominion,REG (Non-Conf),L 69-77,*,21,5,12,0.417,0,2,0.0,5,10,0.5,0.417,2,3,0.667,2,4,6,3,1,0,2,5,12,6.9,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+3,67,3,2011-11-16,LIU Brooklyn,@,Penn State,REG (Non-Conf),L 68-77,*,30,1,9,0.111,0,2,0.0,1,7,0.143,0.111,7,10,0.7,2,3,5,2,2,1,2,4,9,4.7,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+4,68,4,2011-11-19,LIU Brooklyn,N,Radford,REG (Non-Conf),W 81-59,*,26,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,2,1.0,2,5,7,3,2,2,3,0,12,13.1,N,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+5,69,5,2011-11-20,LIU Brooklyn,N,Vermont,REG (Non-Conf),W 80-75,*,26,6,9,0.667,0,0,,6,9,0.667,0.667,6,9,0.667,1,1,2,0,2,1,1,3,18,14.4,N,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+6,70,6,2011-11-28,LIU Brooklyn,@,Iona,REG (Non-Conf),L 84-100,*,25,8,12,0.667,0,0,,8,12,0.667,0.667,4,4,1.0,4,4,8,1,3,2,6,2,20,17.1,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+7,71,7,2011-12-01,LIU Brooklyn,,Wagner,REG (Conf),W 78-73,*,18,6,12,0.5,0,2,0.0,6,10,0.6,0.5,6,7,0.857,4,7,11,0,1,1,3,5,18,13.2,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+8,72,8,2011-12-03,LIU Brooklyn,@,Mount St. Mary's,REG (Conf),W 85-76,*,29,4,9,0.444,1,1,1.0,3,8,0.375,0.5,8,8,1.0,1,6,7,0,0,0,2,3,17,11.6,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+9,73,9,2011-12-05,LIU Brooklyn,@,Lafayette,REG (Non-Conf),W 82-80,*,33,5,13,0.385,0,1,0.0,5,12,0.417,0.385,7,9,0.778,2,12,14,1,3,1,3,3,17,14.3,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+10,74,10,2011-12-10,LIU Brooklyn,@,Columbia,REG (Non-Conf),L 53-63,*,24,7,9,0.778,1,1,1.0,6,8,0.75,0.833,3,4,0.75,0,6,6,0,0,0,6,5,18,7.9,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+11,75,11,2011-12-14,LIU Brooklyn,@,Norfolk State,REG (Non-Conf),L 62-73,*,26,3,8,0.375,0,0,,3,8,0.375,0.375,6,8,0.75,3,4,7,0,2,2,4,5,12,7.5,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+12,76,12,2011-12-17,LIU Brooklyn,,Saint Peter's,REG (Non-Conf),W 82-80,*,24,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,2,0.5,1,4,5,0,2,2,6,4,10,4.0,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+13,77,13,2011-12-20,LIU Brooklyn,,Texas State San Marcos,REG (Non-Conf),W 100-84,*,9,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,1,1,2,0,1,0,3,5,8,3.4,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+14,78,14,2011-12-30,LIU Brooklyn,,NJIT,REG (Non-Conf),W 84-74,*,31,4,7,0.571,1,1,1.0,3,6,0.5,0.643,6,8,0.75,3,7,10,1,0,3,7,1,15,10.5,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+15,79,15,2012-01-05,LIU Brooklyn,@,Sacred Heart,REG (Conf),W 87-81,*,28,11,18,0.611,1,3,0.333,10,15,0.667,0.639,6,10,0.6,4,8,12,0,4,2,3,4,29,25.2,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+16,80,16,2012-01-07,LIU Brooklyn,@,Quinnipiac,REG (Conf),W 79-75,*,25,8,12,0.667,1,3,0.333,7,9,0.778,0.708,8,10,0.8,2,9,11,1,1,0,2,4,25,21.2,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+17,81,17,2012-01-12,LIU Brooklyn,,Fairleigh Dickinson,REG (Conf),W 82-64,*,31,5,12,0.417,1,2,0.5,4,10,0.4,0.458,4,4,1.0,1,6,7,1,2,1,0,3,15,13.3,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+18,82,18,2012-01-14,LIU Brooklyn,,Monmouth,REG (Conf),W 106-86,*,24,5,8,0.625,0,1,0.0,5,7,0.714,0.625,9,13,0.692,1,8,9,4,3,1,4,3,19,18.2,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+19,83,19,2012-01-19,LIU Brooklyn,,Mount St. Mary's,REG (Conf),W 77-62,*,28,7,14,0.5,0,1,0.0,7,13,0.538,0.5,6,8,0.75,5,7,12,3,2,0,3,3,20,17.7,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+20,84,20,2012-01-21,LIU Brooklyn,@,Wagner,REG (Conf),W 73-66,*,26,6,8,0.75,1,2,0.5,5,6,0.833,0.813,5,7,0.714,0,4,4,1,2,1,4,3,18,13.4,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+21,85,21,2012-01-26,LIU Brooklyn,@,Robert Morris,REG (Conf),L 66-75,*,28,6,9,0.667,0,1,0.0,6,8,0.75,0.667,6,6,1.0,0,3,3,0,1,0,4,4,18,10.4,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+22,86,22,2012-01-28,LIU Brooklyn,@,Saint Francis (PA),REG (Conf),W 97-76,*,28,11,16,0.688,0,2,0.0,11,14,0.786,0.688,4,5,0.8,2,8,10,3,1,1,1,2,26,24.6,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+23,87,23,2012-02-02,LIU Brooklyn,,Bryant,REG (Conf),W 75-70,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,5,9,0.556,2,5,7,1,0,1,4,5,11,5.4,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+24,88,24,2012-02-04,LIU Brooklyn,,Central Connecticut State,REG (Conf),W 95-80,*,24,7,14,0.5,0,0,,7,14,0.5,0.5,3,3,1.0,4,4,8,0,1,2,3,4,17,11.8,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+25,89,25,2012-02-08,LIU Brooklyn,N,St. Francis Brooklyn,REG (Conf),W 86-77,*,35,8,15,0.533,0,1,0.0,8,14,0.571,0.533,5,7,0.714,3,8,11,1,0,1,2,2,21,16.0,N,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+26,90,26,2012-02-12,LIU Brooklyn,,St. Francis Brooklyn,REG (Conf),W 81-78,*,30,11,11,1.0,1,1,1.0,10,10,1.0,1.045,9,12,0.75,1,6,7,0,1,2,6,5,32,24.4,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+27,91,27,2012-02-16,LIU Brooklyn,,Sacred Heart,REG (Conf),W 103-91 (OT),*,39,11,15,0.733,0,1,0.0,11,14,0.786,0.733,5,7,0.714,4,7,11,2,2,2,4,3,27,24.6,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+28,92,28,2012-02-18,LIU Brooklyn,,Quinnipiac,REG (Conf),W 99-89,*,20,2,7,0.286,0,1,0.0,2,6,0.333,0.286,1,2,0.5,1,5,6,3,1,0,2,2,5,3.0,H,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+29,93,29,2012-02-23,LIU Brooklyn,@,Fairleigh Dickinson,REG (Conf),W 91-80,*,31,8,13,0.615,0,1,0.0,8,12,0.667,0.615,8,10,0.8,1,7,8,1,1,0,1,3,24,19.6,A,1,1,jamal-olasewere-1,Jamal Olasewere,2012
+30,94,30,2012-02-25,LIU Brooklyn,@,Monmouth,REG (Conf),L 78-106,*,16,2,6,0.333,1,1,1.0,1,5,0.2,0.417,0,4,0.0,1,5,6,1,2,2,4,4,5,0.7,A,0,1,jamal-olasewere-1,Jamal Olasewere,2012
+31,95,31,2012-03-01,LIU Brooklyn,,Sacred Heart,CTOURN,W 80-68,*,34,7,9,0.778,0,1,0.0,7,8,0.875,0.778,6,8,0.75,2,6,8,0,3,2,4,3,20,18.1,H,1,0,jamal-olasewere-1,Jamal Olasewere,2012
+32,96,32,2012-03-04,LIU Brooklyn,,Quinnipiac,CTOURN,W 78-75,*,19,5,10,0.5,0,1,0.0,5,9,0.556,0.5,3,4,0.75,3,4,7,1,1,0,3,5,13,7.6,H,1,0,jamal-olasewere-1,Jamal Olasewere,2012
+33,97,33,2012-03-07,LIU Brooklyn,,Robert Morris,CTOURN,W 90-73,*,22,4,6,0.667,0,0,,4,6,0.667,0.667,4,6,0.667,2,3,5,1,2,2,2,5,12,11.0,H,1,0,jamal-olasewere-1,Jamal Olasewere,2012
+34,98,34,2012-03-16,LIU Brooklyn,N,Michigan State,ROUND-64,L 67-89,*,28,5,12,0.417,3,4,0.75,2,8,0.25,0.542,4,8,0.5,2,6,8,0,2,1,1,4,17,12.3,N,0,0,jamal-olasewere-1,Jamal Olasewere,2012

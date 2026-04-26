@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2010-11-12,Akron,,Millikin,REG (Non-Conf),W 89-41,*,23,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,4,1,0,2,0,0,1.0,H,1,1,steve-mcnees-1,Steve McNees,2011
+2,107,2,2010-11-16,Akron,@,Dayton,REG (Non-Conf),L 68-76,*,35,4,13,0.308,4,12,0.333,0,1,0.0,0.462,0,0,,1,1,2,0,0,0,1,2,12,3.7,A,0,1,steve-mcnees-1,Steve McNees,2011
+3,108,3,2010-11-20,Akron,,Youngstown State,REG (Non-Conf),W 91-84 (OT),*,40,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,5,0,0,1,2,2,3.9,H,1,1,steve-mcnees-1,Steve McNees,2011
+4,109,4,2010-11-24,Akron,,Cleveland State,REG (Non-Conf),L 51-64,*,37,2,6,0.333,2,6,0.333,0,0,,0.5,1,3,0.333,0,2,2,1,0,0,2,3,7,0.9,H,0,1,steve-mcnees-1,Steve McNees,2011
+5,110,5,2010-12-01,Akron,@,Detroit Mercy,REG (Non-Conf),W 77-69,*,28,2,4,0.5,2,4,0.5,0,0,,0.75,4,6,0.667,0,2,2,4,2,0,0,2,10,11.8,A,1,1,steve-mcnees-1,Steve McNees,2011
+6,111,6,2010-12-04,Akron,@,Illinois–Chicago,REG (Non-Conf),W 54-52,*,32,2,10,0.2,2,7,0.286,0,3,0.0,0.3,0,0,,0,3,3,3,2,0,2,3,6,1.6,A,1,1,steve-mcnees-1,Steve McNees,2011
+7,112,7,2010-12-12,Akron,@,Temple,REG (Non-Conf),L 47-82,*,33,3,9,0.333,3,8,0.375,0,1,0.0,0.5,2,2,1.0,0,4,4,3,1,0,1,1,11,8.8,A,0,1,steve-mcnees-1,Steve McNees,2011
+8,113,8,2010-12-15,Akron,@,Minnesota,REG (Non-Conf),L 58-66,*,33,4,17,0.235,3,13,0.231,1,4,0.25,0.324,1,2,0.5,0,2,2,3,0,0,1,3,12,1.8,A,0,1,steve-mcnees-1,Steve McNees,2011
+9,114,9,2010-12-18,Akron,,Bethune-Cookman,REG (Non-Conf),W 77-66 (OT),*,39,1,12,0.083,1,9,0.111,0,3,0.0,0.125,6,8,0.75,0,6,6,3,1,0,2,3,9,1.9,H,1,1,steve-mcnees-1,Steve McNees,2011
+10,115,10,2010-12-21,Akron,N,Little Rock,REG (Non-Conf),W 75-61,*,27,1,7,0.143,0,5,0.0,1,2,0.5,0.143,0,0,,0,1,1,0,3,0,5,3,2,-5.4,N,1,1,steve-mcnees-1,Steve McNees,2011
+11,116,11,2010-12-22,Akron,N,Stetson,REG (Non-Conf),W 72-56,*,29,4,9,0.444,4,9,0.444,0,0,,0.667,4,4,1.0,0,3,3,3,0,1,1,2,16,13.2,N,1,1,steve-mcnees-1,Steve McNees,2011
+12,117,12,2010-12-23,Akron,N,Miami (FL),REG (Non-Conf),L 61-69,*,30,2,6,0.333,2,6,0.333,0,0,,0.5,2,3,0.667,0,0,0,1,2,0,1,2,8,5.1,N,0,1,steve-mcnees-1,Steve McNees,2011
+13,118,13,2010-12-29,Akron,,Arkansas–Pine Bluff,REG (Non-Conf),W 87-60,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,3,2,0,1,0,2,3.0,H,1,1,steve-mcnees-1,Steve McNees,2011
+14,119,14,2011-01-03,Akron,,Oral Roberts,REG (Non-Conf),W 84-80,*,29,3,9,0.333,2,8,0.25,1,1,1.0,0.444,2,4,0.5,0,0,0,1,2,0,1,2,10,5.0,H,1,1,steve-mcnees-1,Steve McNees,2011
+15,120,15,2011-01-08,Akron,,Kent State,REG (Conf),W 65-62,*,31,2,7,0.286,2,6,0.333,0,1,0.0,0.429,1,2,0.5,1,3,4,3,0,0,0,1,7,5.8,H,1,1,steve-mcnees-1,Steve McNees,2011
+16,121,16,2011-01-12,Akron,,Ohio,REG (Conf),L 70-79,*,29,5,13,0.385,3,8,0.375,2,5,0.4,0.5,2,2,1.0,1,1,2,2,2,0,0,3,15,11.1,H,0,1,steve-mcnees-1,Steve McNees,2011
+17,122,17,2011-01-16,Akron,@,Buffalo,REG (Conf),L 70-73,*,26,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,2,2,1,0,1,2,0,6,4.0,A,0,1,steve-mcnees-1,Steve McNees,2011
+18,123,18,2011-01-19,Akron,@,Miami (OH),REG (Conf),L 76-84,*,35,4,9,0.444,2,7,0.286,2,2,1.0,0.556,2,2,1.0,0,1,1,1,0,0,1,3,12,6.1,A,0,1,steve-mcnees-1,Steve McNees,2011
+19,124,19,2011-01-22,Akron,,Bowling Green,REG (Conf),W 63-58,*,30,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,3,0.667,0,4,4,2,1,0,1,2,10,7.0,H,1,1,steve-mcnees-1,Steve McNees,2011
+20,125,20,2011-01-26,Akron,@,Northern Illinois,REG (Conf),L 74-83,*,36,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,2,0.0,0,2,2,4,0,0,1,4,10,5.3,A,0,1,steve-mcnees-1,Steve McNees,2011
+21,126,21,2011-01-30,Akron,,Central Michigan,REG (Conf),W 63-43,*,33,3,8,0.375,3,5,0.6,0,3,0.0,0.563,0,0,,0,2,2,4,1,0,0,0,9,9.0,H,1,1,steve-mcnees-1,Steve McNees,2011
+22,127,22,2011-02-02,Akron,@,Eastern Michigan,REG (Conf),L 56-60,*,35,3,10,0.3,1,6,0.167,2,4,0.5,0.35,1,2,0.5,0,0,0,1,1,0,1,3,8,1.3,A,0,1,steve-mcnees-1,Steve McNees,2011
+23,128,23,2011-02-05,Akron,@,Toledo,REG (Conf),W 59-41,*,37,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,3,3,5,0,0,3,1,6,2.9,A,1,1,steve-mcnees-1,Steve McNees,2011
+24,129,24,2011-02-09,Akron,,Western Michigan,REG (Conf),W 83-71,*,34,3,7,0.429,1,5,0.2,2,2,1.0,0.5,5,5,1.0,0,5,5,7,1,0,1,2,12,13.9,H,1,1,steve-mcnees-1,Steve McNees,2011
+25,130,25,2011-02-12,Akron,,Ball State,REG (Conf),W 75-60,*,30,6,10,0.6,2,5,0.4,4,5,0.8,0.7,2,4,0.5,1,3,4,4,0,0,3,2,16,11.2,H,1,1,steve-mcnees-1,Steve McNees,2011
+26,131,26,2011-02-15,Akron,@,Bowling Green,REG (Conf),W 89-54,*,27,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,5,0,0,0,0,6,7.1,A,1,1,steve-mcnees-1,Steve McNees,2011
+27,132,27,2011-02-19,Akron,,Creighton,REG (Non-Conf),W 76-67,*,35,2,8,0.25,1,4,0.25,1,4,0.25,0.313,6,6,1.0,0,6,6,2,0,0,1,0,11,8.4,H,1,1,steve-mcnees-1,Steve McNees,2011
+28,133,28,2011-02-23,Akron,,Miami (OH),REG (Conf),W 72-55,*,31,4,7,0.571,3,5,0.6,1,2,0.5,0.786,3,6,0.5,0,1,1,3,0,0,1,2,14,10.1,H,1,1,steve-mcnees-1,Steve McNees,2011
+29,134,29,2011-02-26,Akron,,Buffalo,REG (Conf),W 69-60,*,29,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,2,2,6,0,0,1,0,4,4.3,H,1,1,steve-mcnees-1,Steve McNees,2011
+30,135,30,2011-03-01,Akron,@,Ohio,REG (Conf),L 55-80,*,26,0,6,0.0,0,6,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,1,0,-2.6,A,0,1,steve-mcnees-1,Steve McNees,2011
+31,136,31,2011-03-04,Akron,@,Kent State,REG (Conf),L 68-79,*,24,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,1,1,1,0,0,0,3,9,7.2,A,0,1,steve-mcnees-1,Steve McNees,2011
+32,137,32,2011-03-08,Akron,,Eastern Michigan,CTOURN,W 67-53,*,30,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,0,4,4,1,0,0,0,1,10,9.2,H,1,0,steve-mcnees-1,Steve McNees,2011
+33,138,33,2011-03-10,Akron,N,Miami (OH),CTOURN,W 82-75 (2OT),*,43,2,13,0.154,1,9,0.111,1,4,0.25,0.192,3,4,0.75,2,3,5,4,2,0,0,2,8,5.6,N,1,0,steve-mcnees-1,Steve McNees,2011
+34,139,34,2011-03-11,Akron,@,Western Michigan,CTOURN,W 79-68,*,25,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,3,0.333,0,7,7,7,1,0,2,1,6,8.1,A,1,0,steve-mcnees-1,Steve McNees,2011
+35,140,35,2011-03-12,Akron,N,Kent State,CTOURN,W 66-65 (OT),*,38,5,12,0.417,4,8,0.5,1,4,0.25,0.583,0,1,0.0,0,3,3,3,0,2,2,2,14,8.8,N,1,0,steve-mcnees-1,Steve McNees,2011
+36,141,36,2011-03-18,Akron,N,Notre Dame,ROUND-64,L 56-69,*,31,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,1,1,1,1,0,2,3,8,1.7,N,0,0,steve-mcnees-1,Steve McNees,2011

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2011-11-12,South Florida,,Vermont,REG (Non-Conf),W 61-59,*,38,4,7,0.571,0,0,4,7,0.571,0.571,8,15,0.533,3,6,9,3,1,0,0,2,16,16.1,H,1,1,ron-anderson-2,Ron Anderson,2012
+2,99,2,2011-11-14,South Florida,,Marist,REG (Non-Conf),W 81-67,*,25,4,6,0.667,0,0,4,6,0.667,0.667,3,4,0.75,3,4,7,1,1,0,1,5,11,10.0,H,1,1,ron-anderson-2,Ron Anderson,2012
+3,100,3,2011-11-16,South Florida,,Fla. Southern,REG (Non-Conf),W 73-43,*,21,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,3,8,11,4,1,0,2,3,7,9.4,H,1,1,ron-anderson-2,Ron Anderson,2012
+4,101,4,2011-11-19,South Florida,N,Old Dominion,REG (Non-Conf),L 66-68 (OT),*,33,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,2,3,5,1,1,0,5,4,2,-2.1,N,0,1,ron-anderson-2,Ron Anderson,2012
+5,102,5,2011-11-20,South Florida,N,Penn State,REG (Non-Conf),L 49-53,*,31,1,1,1.0,0,0,1,1,1.0,1.0,4,5,0.8,4,0,4,0,0,1,2,4,6,5.2,N,0,1,ron-anderson-2,Ron Anderson,2012
+6,103,6,2011-11-23,South Florida,,Georgia Southern,REG (Non-Conf),W 66-46,*,31,7,8,0.875,0,0,7,8,0.875,0.875,3,11,0.273,1,3,4,1,0,0,3,4,17,8.7,H,1,1,ron-anderson-2,Ron Anderson,2012
+7,104,7,2011-11-26,South Florida,,Florida Atlantic,REG (Non-Conf),W 68-55,*,38,5,8,0.625,0,0,5,8,0.625,0.625,4,7,0.571,6,6,12,0,0,3,0,1,14,16.9,H,1,1,ron-anderson-2,Ron Anderson,2012
+8,105,8,2011-11-30,South Florida,@,VCU,REG (Non-Conf),L 46-69,*,32,7,12,0.583,0,0,7,12,0.583,0.583,1,1,1.0,6,3,9,1,0,0,0,1,15,14.8,A,0,1,ron-anderson-2,Ron Anderson,2012
+9,106,9,2011-12-03,South Florida,@,Kansas,REG (Non-Conf),L 42-70,*,20,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,1,2,1,2,2,2,5,2,1.4,A,0,1,ron-anderson-2,Ron Anderson,2012
+10,107,10,2011-12-11,South Florida,,Florida A&M,REG (Non-Conf),W 83-59,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,0,0,0.0,H,1,1,ron-anderson-2,Ron Anderson,2012
+11,108,11,2011-12-14,South Florida,@,Auburn,REG (Non-Conf),L 40-52,,14,0,1,0.0,0,0,0,1,0.0,0.0,0,5,0.0,1,0,1,1,0,1,2,2,0,-3.4,A,0,1,ron-anderson-2,Ron Anderson,2012
+12,109,12,2011-12-19,South Florida,,Cleveland State,REG (Non-Conf),W 70-55,*,28,5,8,0.625,0,0,5,8,0.625,0.625,1,1,1.0,3,4,7,3,0,0,1,1,11,11.4,H,1,1,ron-anderson-2,Ron Anderson,2012
+13,110,13,2011-12-22,South Florida,@,Southern Mississippi,REG (Non-Conf),L 51-53,*,29,5,9,0.556,0,0,5,9,0.556,0.556,2,4,0.5,2,2,4,1,0,0,1,3,12,7.4,A,0,1,ron-anderson-2,Ron Anderson,2012
+14,111,14,2011-12-28,South Florida,,Connecticut,REG (Conf),L 57-60,,16,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,3,1,4,0,0,0,2,3,4,0.8,H,0,1,ron-anderson-2,Ron Anderson,2012
+15,112,15,2012-01-01,South Florida,,Rutgers,REG (Conf),W 67-65,,31,7,8,0.875,0,0,7,8,0.875,0.875,1,6,0.167,6,0,6,1,2,0,2,2,15,14.3,H,1,1,ron-anderson-2,Ron Anderson,2012
+16,113,16,2012-01-05,South Florida,@,Villanova,REG (Conf),W 74-57,,18,2,4,0.5,0,0,2,4,0.5,0.5,4,5,0.8,3,2,5,0,1,0,0,5,8,7.3,A,1,1,ron-anderson-2,Ron Anderson,2012
+17,114,17,2012-01-10,South Florida,@,Notre Dame,REG (Conf),L 49-60,,23,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,6,4,10,1,1,0,0,4,6,7.1,A,0,1,ron-anderson-2,Ron Anderson,2012
+18,115,18,2012-01-13,South Florida,,Seton Hall,REG (Conf),W 56-55,*,30,4,8,0.5,0,0,4,8,0.5,0.5,6,8,0.75,4,1,5,0,2,0,3,3,14,10.1,H,1,1,ron-anderson-2,Ron Anderson,2012
+19,116,19,2012-01-18,South Florida,,St. John's (NY),REG (Conf),W 64-49,,29,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,3,5,8,3,2,2,1,0,9,15.1,H,1,1,ron-anderson-2,Ron Anderson,2012
+20,117,20,2012-01-22,South Florida,@,DePaul,REG (Conf),W 75-59,*,21,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,2,1,3,2,0,1,2,3,8,6.7,A,1,1,ron-anderson-2,Ron Anderson,2012
+21,118,21,2012-01-24,South Florida,@,Marquette,REG (Conf),L 47-67,*,20,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,0,1,2,5,0,-4.4,A,0,1,ron-anderson-2,Ron Anderson,2012
+22,119,22,2012-01-29,South Florida,,Providence,REG (Conf),W 81-78,*,33,7,9,0.778,0,0,7,9,0.778,0.778,0,1,0.0,2,4,6,2,0,1,1,2,14,13.0,H,1,1,ron-anderson-2,Ron Anderson,2012
+23,120,23,2012-02-04,South Florida,@,Georgetown,REG (Conf),L 45-75,*,26,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,5,6,0,0,0,4,3,6,0.0,A,0,1,ron-anderson-2,Ron Anderson,2012
+24,121,24,2012-02-08,South Florida,,Pittsburgh,REG (Conf),W 63-51,*,30,2,4,0.5,0,0,2,4,0.5,0.5,2,7,0.286,1,5,6,2,0,0,1,2,6,3.8,H,1,1,ron-anderson-2,Ron Anderson,2012
+25,122,25,2012-02-11,South Florida,@,Providence,REG (Conf),W 55-48,*,19,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,2,1,3,1,0,1,2,5,4,0.7,A,1,1,ron-anderson-2,Ron Anderson,2012
+26,123,26,2012-02-15,South Florida,,Villanova,REG (Conf),W 65-51,*,30,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,7,10,1,1,2,1,4,4,7.4,H,1,1,ron-anderson-2,Ron Anderson,2012
+27,124,27,2012-02-19,South Florida,@,Pittsburgh,REG (Conf),W 56-47,*,26,1,4,0.25,0,0,1,4,0.25,0.25,0,4,0.0,1,8,9,0,0,2,2,2,2,-0.3,A,1,1,ron-anderson-2,Ron Anderson,2012
+28,125,28,2012-02-22,South Florida,@,Syracuse,REG (Conf),L 48-56,*,28,1,8,0.125,0,0,1,8,0.125,0.125,0,0,,0,2,2,1,0,0,1,3,2,-4.1,A,0,1,ron-anderson-2,Ron Anderson,2012
+29,126,29,2012-02-26,South Florida,,Cincinnati,REG (Conf),W 46-45,*,28,2,2,1.0,0,0,2,2,1.0,1.0,3,4,0.75,1,4,5,4,0,1,1,3,7,9.2,H,1,1,ron-anderson-2,Ron Anderson,2012
+30,127,30,2012-02-29,South Florida,@,Louisville,REG (Conf),W 58-51,*,32,1,4,0.25,0,0,1,4,0.25,0.25,2,4,0.5,2,6,8,2,1,0,6,3,4,-0.8,A,1,1,ron-anderson-2,Ron Anderson,2012
+31,128,31,2012-03-03,South Florida,,West Virginia,REG (Conf),L 44-50,*,29,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,3,3,0,1,0,1,3,6,4.1,H,0,1,ron-anderson-2,Ron Anderson,2012
+32,129,32,2012-03-07,South Florida,N,Villanova,CTOURN,W 56-47,*,28,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,1,3,1,1,1,0,4,3,4.1,N,1,0,ron-anderson-2,Ron Anderson,2012
+33,130,33,2012-03-08,South Florida,N,Notre Dame,CTOURN,L 53-57 (OT),*,28,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,1,3,4,0,0,0,1,2,2,-1.3,N,0,0,ron-anderson-2,Ron Anderson,2012
+34,131,34,2012-03-14,South Florida,N,California,FIRST-FOUR,W 65-54,*,16,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,3,4,0,0,0,1,4,4,1.0,N,1,0,ron-anderson-2,Ron Anderson,2012
+35,132,35,2012-03-16,South Florida,N,Temple,ROUND-64,W 58-44,*,34,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,4,5,0,2,0,3,4,0,-2.1,N,1,0,ron-anderson-2,Ron Anderson,2012
+36,133,36,2012-03-18,South Florida,N,Ohio,ROUND-32,L 56-62,*,26,3,3,1.0,0,0,3,3,1.0,1.0,0,1,0.0,4,2,6,0,0,1,1,3,6,6.6,N,0,0,ron-anderson-2,Ron Anderson,2012

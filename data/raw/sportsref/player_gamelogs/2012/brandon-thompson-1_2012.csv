@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,10,1,2011-11-11,LIU Brooklyn,@,Hofstra,REG (Non-Conf),L 71-89,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,3,0,-2.6,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+2,11,2,2011-11-14,LIU Brooklyn,@,Old Dominion,REG (Non-Conf),L 69-77,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,1,2,0,1,0,0,1.2,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+3,12,3,2011-11-16,LIU Brooklyn,@,Penn State,REG (Non-Conf),L 68-77,,9,0,0,,0,0,,0,0,,,1,2,0.5,0,1,1,0,1,0,0,3,1,0.7,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+4,13,4,2011-11-19,LIU Brooklyn,N,Radford,REG (Non-Conf),W 81-59,,11,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,1,1,1,1,0,2,1,6,3.6,N,1,1,brandon-thompson-1,Brandon Thompson,2012
+5,14,5,2011-11-20,LIU Brooklyn,N,Vermont,REG (Non-Conf),W 80-75,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,brandon-thompson-1,Brandon Thompson,2012
+6,15,6,2011-11-28,LIU Brooklyn,@,Iona,REG (Non-Conf),L 84-100,,15,3,4,0.75,2,3,0.667,1,1,1.0,1.0,1,2,0.5,1,1,2,0,2,0,0,0,9,10.0,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+7,16,7,2011-12-01,LIU Brooklyn,,Wagner,REG (Conf),W 78-73,,22,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,4,4,0,1,0,0,1,8,5.4,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+8,17,8,2011-12-03,LIU Brooklyn,@,Mount St. Mary's,REG (Conf),W 85-76,,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,0,0,0,0,0,3,0.9,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+9,18,9,2011-12-05,LIU Brooklyn,@,Lafayette,REG (Non-Conf),W 82-80,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,4,4,0,0,1,0,1,2,2.5,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+10,19,10,2011-12-10,LIU Brooklyn,@,Columbia,REG (Non-Conf),L 53-63,,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,2,5,7,1,1,0,2,1,0,0.8,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+11,20,11,2011-12-14,LIU Brooklyn,@,Norfolk State,REG (Non-Conf),L 62-73,,24,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,3,4,0,1,0,2,1,8,5.9,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+12,21,12,2011-12-17,LIU Brooklyn,,Saint Peter's,REG (Non-Conf),W 82-80,,23,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,1,4,5,1,0,0,2,0,8,6.6,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+13,22,13,2011-12-20,LIU Brooklyn,,Texas State San Marcos,REG (Non-Conf),W 100-84,,17,3,5,0.6,0,2,0.0,3,3,1.0,0.6,3,3,1.0,0,0,0,3,1,0,0,1,9,9.4,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+14,23,14,2011-12-30,LIU Brooklyn,,NJIT,REG (Non-Conf),W 84-74,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,1,2,1,1,0,0,2,3,2.5,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+15,24,15,2012-01-05,LIU Brooklyn,@,Sacred Heart,REG (Conf),W 87-81,,21,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,1,2,0,2,0,1,0,4,4.0,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+16,25,16,2012-01-07,LIU Brooklyn,@,Quinnipiac,REG (Conf),W 79-75,,29,3,13,0.231,2,9,0.222,1,4,0.25,0.308,0,0,,2,1,3,0,1,0,0,0,8,2.8,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+17,26,17,2012-01-12,LIU Brooklyn,,Fairleigh Dickinson,REG (Conf),W 82-64,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,2,1,3,0,0,0,0,0,2,2.3,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+18,27,18,2012-01-14,LIU Brooklyn,,Monmouth,REG (Conf),W 106-86,,18,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,0,0,1,1,0,2,1,3,-0.8,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+19,28,19,2012-01-19,LIU Brooklyn,,Mount St. Mary's,REG (Conf),W 77-62,,15,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,2,0,2,2,0,0,2,1,0,-1.7,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+20,29,20,2012-01-21,LIU Brooklyn,@,Wagner,REG (Conf),W 73-66,,19,0,0,,0,0,,0,0,,,2,2,1.0,1,3,4,0,0,1,0,3,2,3.1,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+21,30,21,2012-01-26,LIU Brooklyn,@,Robert Morris,REG (Conf),L 66-75,,22,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,1,2,1,0,0,1,3,3,0.8,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+22,31,22,2012-01-28,LIU Brooklyn,@,Saint Francis (PA),REG (Conf),W 97-76,,23,3,6,0.5,1,4,0.25,2,2,1.0,0.583,4,4,1.0,2,2,4,0,0,0,0,2,11,9.2,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+23,32,23,2012-02-02,LIU Brooklyn,,Bryant,REG (Conf),W 75-70,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,4,1.0,1,2,3,1,1,0,0,2,7,7.5,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+24,33,24,2012-02-04,LIU Brooklyn,,Central Connecticut State,REG (Conf),W 95-80,,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,1,0,0,2,5,3.9,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+25,34,25,2012-02-08,LIU Brooklyn,N,St. Francis Brooklyn,REG (Conf),W 86-77,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,2,3,2,1,0,2,1,3,3.3,N,1,1,brandon-thompson-1,Brandon Thompson,2012
+26,35,26,2012-02-12,LIU Brooklyn,,St. Francis Brooklyn,REG (Conf),W 81-78,,14,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,2,0.0,0,2,2,0,1,0,1,2,6,1.6,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+27,36,27,2012-02-16,LIU Brooklyn,,Sacred Heart,REG (Conf),W 103-91 (OT),,18,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,2,2,2,0,0,1,0,3,0.9,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+28,37,28,2012-02-18,LIU Brooklyn,,Quinnipiac,REG (Conf),W 99-89,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,1,0,0,1,1,5,4.0,H,1,1,brandon-thompson-1,Brandon Thompson,2012
+29,38,29,2012-02-23,LIU Brooklyn,@,Fairleigh Dickinson,REG (Conf),W 91-80,,16,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,4,4,0,3,0,3,1,7,4.1,A,1,1,brandon-thompson-1,Brandon Thompson,2012
+30,39,30,2012-02-25,LIU Brooklyn,@,Monmouth,REG (Conf),L 78-106,,22,2,9,0.222,1,6,0.167,1,3,0.333,0.278,0,0,,1,1,2,0,0,0,1,1,5,-0.9,A,0,1,brandon-thompson-1,Brandon Thompson,2012
+31,40,31,2012-03-01,LIU Brooklyn,,Sacred Heart,CTOURN,W 80-68,,25,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,3,0.667,1,2,3,1,1,0,0,1,11,10.2,H,1,0,brandon-thompson-1,Brandon Thompson,2012
+32,41,32,2012-03-04,LIU Brooklyn,,Quinnipiac,CTOURN,W 78-75,,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,6,6,0,1,0,1,1,0,0.0,H,1,0,brandon-thompson-1,Brandon Thompson,2012
+33,42,33,2012-03-07,LIU Brooklyn,,Robert Morris,CTOURN,W 90-73,,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,2,3,0,0,0,0,1,5,3.5,H,1,0,brandon-thompson-1,Brandon Thompson,2012
+34,43,34,2012-03-16,LIU Brooklyn,N,Michigan State,ROUND-64,L 67-89,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,0,0,0,0,0,3,2.7,N,0,0,brandon-thompson-1,Brandon Thompson,2012

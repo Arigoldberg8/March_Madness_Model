@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-26,Kansas,N,Gonzaga,REG (Non-Conf),L 90-102,,28,5,10,0.5,1,4,0.25,4,6,0.667,0.55,1,2,0.5,1,2,3,1,2,1,0,3,12,10.1,N,0,1,bryce-thompson-1,Bryce Thompson,2021
+2,2,2,2020-11-27,Kansas,N,Saint Joseph's,REG (Non-Conf),W 94-72,*,21,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,0,4,4,2,0,0,4,2,7,1.1,N,1,1,bryce-thompson-1,Bryce Thompson,2021
+3,3,3,2020-12-01,Kansas,N,Kentucky,REG (Non-Conf),W 65-62,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-2.6,N,1,1,bryce-thompson-1,Bryce Thompson,2021
+4,4,4,2020-12-03,Kansas,,Washburn,REG (Non-Conf),W 89-54,,22,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,4,0.5,0,0,0,1,2,0,2,0,11,6.9,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+5,5,5,2020-12-05,Kansas,,North Dakota State,REG (Non-Conf),W 65-61,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,2,2,-0.8,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+6,6,6,2020-12-08,Kansas,,Creighton,REG (Non-Conf),W 73-72,,17,3,6,0.5,1,2,0.5,2,4,0.5,0.583,1,2,0.5,1,1,2,2,1,0,2,2,8,5.2,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+7,7,7,2020-12-11,Kansas,,Omaha,REG (Non-Conf),W 95-50,,21,1,8,0.125,1,4,0.25,0,4,0.0,0.188,0,0,,0,2,2,2,0,0,1,2,3,-2.0,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+8,8,8,2020-12-17,Kansas,@,Texas Tech,REG (Conf),W 58-57,,14,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,2,2,0.5,A,1,1,bryce-thompson-1,Bryce Thompson,2021
+9,9,9,2020-12-22,Kansas,,West Virginia,REG (Conf),W 79-65,,10,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,0,0,1,0,0,1,1,4,0.9,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+10,10,13,2021-01-12,Kansas,@,Oklahoma State,REG (Conf),L 70-75,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,2,2,1,1,0,1,2,2,0.4,A,0,1,bryce-thompson-1,Bryce Thompson,2021
+11,11,21,2021-02-11,Kansas,,Iowa State,REG (Conf),W 97-64,,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,4,4,3,0,2,0,2,8,8.6,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+12,12,22,2021-02-13,Kansas,@,Iowa State,REG (Conf),W 64-50,,15,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,1,2,1,0,0,0,1,0,-2.2,A,1,1,bryce-thompson-1,Bryce Thompson,2021
+13,13,23,2021-02-17,Kansas,@,Kansas State,REG (Conf),W 59-41,,20,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,1,1,0,1,1,6,5.6,A,1,1,bryce-thompson-1,Bryce Thompson,2021
+14,14,24,2021-02-20,Kansas,,Texas Tech,REG (Conf),W 67-61,,17,2,8,0.25,1,2,0.5,1,6,0.167,0.313,0,0,,1,1,2,1,0,0,1,2,5,0.1,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+15,15,25,2021-02-23,Kansas,@,Texas,REG (Conf),L 72-75 (OT),,20,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,3,0.333,0,1,1,2,0,0,2,1,11,7.3,A,0,1,bryce-thompson-1,Bryce Thompson,2021
+16,16,26,2021-02-27,Kansas,,Baylor,REG (Conf),W 71-58,,11,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,0,0,3,1,3,-0.7,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+17,17,27,2021-03-04,Kansas,,UTEP,REG (Non-Conf),W 67-62,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,0,0,1,0,2,-0.8,H,1,1,bryce-thompson-1,Bryce Thompson,2021
+18,18,28,2021-03-11,Kansas,,Oklahoma,CTOURN,W 69-62,*,19,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,0,1,1,2,-1.2,H,1,0,bryce-thompson-1,Bryce Thompson,2021
+19,19,29,2021-03-20,Kansas,N,Eastern Washington,ROUND-64,W 93-84,*,19,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,1,0,1,2,0,0,0,1,3,0.9,N,1,0,bryce-thompson-1,Bryce Thompson,2021
+20,20,30,2021-03-22,Kansas,N,Southern California,ROUND-32,L 51-85,*,15,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,0,1,0,-3.2,N,0,0,bryce-thompson-1,Bryce Thompson,2021

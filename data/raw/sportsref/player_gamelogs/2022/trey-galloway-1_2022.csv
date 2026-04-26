@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,26,1,2021-11-09,Indiana,,Eastern Michigan,REG (Non-Conf),W 68-62,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,1,2,4,2,-0.6,H,1,1,trey-galloway-1,Trey Galloway,2022
+2,27,2,2021-11-12,Indiana,,Northern Illinois,REG (Non-Conf),W 85-49,,23,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,2,2,3,0,0,1,1,7,4.6,H,1,1,trey-galloway-1,Trey Galloway,2022
+3,28,3,2021-11-17,Indiana,,St. John's (NY),REG (Non-Conf),W 76-74,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,1,0,0,1,0,0.9,H,1,1,trey-galloway-1,Trey Galloway,2022
+4,29,14,2022-01-06,Indiana,,Ohio State,REG (Conf),W 67-51,,19,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,2,3,4,2,0,0,1,8,11.4,H,1,1,trey-galloway-1,Trey Galloway,2022
+5,30,15,2022-01-09,Indiana,,Minnesota,REG (Conf),W 73-60,,22,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,2,3,1,0,1,2,3,6,2.5,H,1,1,trey-galloway-1,Trey Galloway,2022
+6,31,16,2022-01-13,Indiana,@,Iowa,REG (Conf),L 74-83,,18,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,1,1,1,0,0,3,1,10,5.0,A,0,1,trey-galloway-1,Trey Galloway,2022
+7,32,17,2022-01-17,Indiana,@,Nebraska,REG (Conf),W 78-71,,21,3,3,1.0,0,0,,3,3,1.0,1.0,3,5,0.6,0,0,0,2,1,0,4,1,9,5.3,A,1,1,trey-galloway-1,Trey Galloway,2022
+8,33,18,2022-01-20,Indiana,,Purdue,REG (Conf),W 68-65,,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,6,0.667,0,4,4,2,1,0,0,2,8,8.0,H,1,1,trey-galloway-1,Trey Galloway,2022
+9,34,19,2022-01-23,Indiana,,Michigan,REG (Conf),L 62-80,,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,0,0,3,2,0,1,0,0,-0.4,H,0,1,trey-galloway-1,Trey Galloway,2022
+10,35,20,2022-01-26,Indiana,,Penn State,REG (Conf),W 74-57,,18,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,0,0,0,2,1,3,0,6,4.0,H,1,1,trey-galloway-1,Trey Galloway,2022
+11,36,21,2022-01-29,Indiana,@,Maryland,REG (Conf),W 68-55,,25,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,1,1,2,2,0,0,2,8,9.0,A,1,1,trey-galloway-1,Trey Galloway,2022
+12,37,22,2022-02-05,Indiana,,Illinois,REG (Conf),L 57-74,,19,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,0,2,2,0,0,0,0,0,6,3.9,H,0,1,trey-galloway-1,Trey Galloway,2022
+13,38,23,2022-02-08,Indiana,@,Northwestern,REG (Conf),L 51-59,*,37,6,10,0.6,1,2,0.5,5,8,0.625,0.65,0,0,,0,5,5,3,0,1,5,5,13,5.7,A,0,1,trey-galloway-1,Trey Galloway,2022
+14,39,24,2022-02-12,Indiana,@,Michigan State,REG (Conf),L 61-76,*,32,0,6,0.0,0,3,0.0,0,3,0.0,0.0,1,3,0.333,0,1,1,3,1,0,0,2,1,-1.4,A,0,1,trey-galloway-1,Trey Galloway,2022
+15,40,25,2022-02-15,Indiana,,Wisconsin,REG (Conf),L 69-74,*,25,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,1,1,2,1,1,0,0,4,7,3.7,H,0,1,trey-galloway-1,Trey Galloway,2022
+16,41,31,2022-03-10,Indiana,N,Michigan,CTOURN,W 74-69,,28,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,1,1,5,3,0,1,0,4,6.4,N,1,0,trey-galloway-1,Trey Galloway,2022
+17,42,32,2022-03-11,Indiana,N,Illinois,CTOURN,W 65-63,,24,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,2,2,2,1,0,0,2,8,7.6,N,1,0,trey-galloway-1,Trey Galloway,2022
+18,43,33,2022-03-12,Indiana,N,Iowa,CTOURN,L 77-80,,21,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,0,1,3,1,0,1,4,2,0.1,N,0,0,trey-galloway-1,Trey Galloway,2022
+19,44,34,2022-03-15,Indiana,N,Wyoming,FIRST-FOUR,W 66-58,,12,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,0,0,1,2,5,2,-3.0,N,1,0,trey-galloway-1,Trey Galloway,2022
+20,45,35,2022-03-17,Indiana,N,St. Mary's (CA),ROUND-64,L 53-82,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,2,1,2,-0.4,N,0,0,trey-galloway-1,Trey Galloway,2022

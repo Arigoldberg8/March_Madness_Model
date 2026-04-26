@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2013-11-08,Wisconsin,N,St. John's (NY),REG (Non-Conf),W 86-75,,21,4,6,0.667,2,3,0.667,2,3,0.667,0.833,5,6,0.833,0,5,5,1,0,0,0,2,15,13.4,N,1,1,duje-dukan-1,Duje Dukan,2014
+2,23,2,2013-11-12,Wisconsin,,Florida,REG (Non-Conf),W 59-53,,10,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,1,2,0,0,0,0,1,3,2.6,H,1,1,duje-dukan-1,Duje Dukan,2014
+3,24,3,2013-11-16,Wisconsin,@,Green Bay,REG (Non-Conf),W 69-66,,7,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,0,0,0,0,1,2,0.5,A,1,1,duje-dukan-1,Duje Dukan,2014
+4,25,4,2013-11-19,Wisconsin,,North Dakota,REG (Non-Conf),W 103-85,,5,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,1,0,0,1,1,0,-1.8,H,1,1,duje-dukan-1,Duje Dukan,2014
+5,26,5,2013-11-21,Wisconsin,,Bowling Green,REG (Non-Conf),W 88-64,,8,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,2,0,0,1,1,3,2.3,H,1,1,duje-dukan-1,Duje Dukan,2014
+6,27,6,2013-11-23,Wisconsin,,Oral Roberts,REG (Non-Conf),W 76-67,,5,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,0,0,0,0,0,4,3.0,H,1,1,duje-dukan-1,Duje Dukan,2014
+7,28,7,2013-11-26,Wisconsin,N,Saint Louis,REG (Non-Conf),W 63-57,,10,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,1,2,3,0,0,0,0,0,7,7.4,N,1,1,duje-dukan-1,Duje Dukan,2014
+8,29,8,2013-11-27,Wisconsin,N,West Virginia,REG (Non-Conf),W 70-63,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,1,2,0.2,N,1,1,duje-dukan-1,Duje Dukan,2014
+9,30,9,2013-12-04,Wisconsin,@,Virginia,REG (Non-Conf),W 48-38,,11,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,0,0,0,0,2,3,0.1,A,1,1,duje-dukan-1,Duje Dukan,2014
+10,31,10,2013-12-07,Wisconsin,,Marquette,REG (Non-Conf),W 70-64,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,3,0,3,0,0,0,1,1,0,-0.7,H,1,1,duje-dukan-1,Duje Dukan,2014
+11,32,11,2013-12-11,Wisconsin,,Milwaukee,REG (Non-Conf),W 78-52,,8,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,2,0,-2.6,H,1,1,duje-dukan-1,Duje Dukan,2014
+12,33,12,2013-12-14,Wisconsin,,Eastern Kentucky,REG (Non-Conf),W 86-61,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,0,1,0,0,0,0,2,5,4.3,H,1,1,duje-dukan-1,Duje Dukan,2014
+13,34,13,2013-12-28,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 80-43,,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,0,1,5,3.6,H,1,1,duje-dukan-1,Duje Dukan,2014
+14,35,14,2014-01-02,Wisconsin,@,Northwestern,REG (Conf),W 76-49,,10,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,2,3,0,0,0,0,2,7,5.9,A,1,1,duje-dukan-1,Duje Dukan,2014
+15,36,15,2014-01-05,Wisconsin,,Iowa,REG (Conf),W 75-71,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,3,1.0,2,5,7,0,0,0,2,4,6,3.6,H,1,1,duje-dukan-1,Duje Dukan,2014
+16,37,16,2014-01-08,Wisconsin,,Illinois,REG (Conf),W 95-70,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,1,0,0,2,0,-0.6,H,1,1,duje-dukan-1,Duje Dukan,2014
+17,38,17,2014-01-14,Wisconsin,@,Indiana,REG (Conf),L 72-75,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,duje-dukan-1,Duje Dukan,2014
+18,39,18,2014-01-18,Wisconsin,,Michigan,REG (Conf),L 70-77,,6,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,1,0,0,0,2,1.6,H,0,1,duje-dukan-1,Duje Dukan,2014
+19,40,19,2014-01-22,Wisconsin,@,Minnesota,REG (Conf),L 68-81,,2,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,1,0,0,0,0,0,0.0,A,0,1,duje-dukan-1,Duje Dukan,2014
+20,41,20,2014-01-25,Wisconsin,@,Purdue,REG (Conf),W 72-58,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,duje-dukan-1,Duje Dukan,2014
+21,42,21,2014-01-29,Wisconsin,,Northwestern,REG (Conf),L 56-65,,2,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,0,0,0.7,H,0,1,duje-dukan-1,Duje Dukan,2014
+22,43,22,2014-02-01,Wisconsin,,Ohio State,REG (Conf),L 58-59,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,H,0,1,duje-dukan-1,Duje Dukan,2014
+23,44,23,2014-02-04,Wisconsin,@,Illinois,REG (Conf),W 75-63,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,A,1,1,duje-dukan-1,Duje Dukan,2014
+24,45,24,2014-02-09,Wisconsin,,Michigan State,REG (Conf),W 60-58,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,H,1,1,duje-dukan-1,Duje Dukan,2014
+25,46,25,2014-02-13,Wisconsin,,Minnesota,REG (Conf),W 78-70,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,duje-dukan-1,Duje Dukan,2014
+26,47,26,2014-02-16,Wisconsin,@,Michigan,REG (Conf),W 75-62,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,A,1,1,duje-dukan-1,Duje Dukan,2014
+27,48,27,2014-02-22,Wisconsin,@,Iowa,REG (Conf),W 79-74,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,A,1,1,duje-dukan-1,Duje Dukan,2014
+28,49,28,2014-02-25,Wisconsin,,Indiana,REG (Conf),W 69-58,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,duje-dukan-1,Duje Dukan,2014
+29,50,29,2014-03-02,Wisconsin,@,Penn State,REG (Conf),W 71-66,,7,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,1,0,0,2,4,3.6,A,1,1,duje-dukan-1,Duje Dukan,2014
+30,51,30,2014-03-05,Wisconsin,,Purdue,REG (Conf),W 76-70,,7,0,0,,0,0,,0,0,,,0,0,,1,2,3,1,0,0,0,0,0,2.0,H,1,1,duje-dukan-1,Duje Dukan,2014
+31,52,31,2014-03-09,Wisconsin,@,Nebraska,REG (Conf),L 68-77,,13,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,1,0.0,1,1,2,0,0,1,0,2,7,5.2,A,0,1,duje-dukan-1,Duje Dukan,2014
+32,53,32,2014-03-14,Wisconsin,N,Minnesota,CTOURN,W 83-57,,8,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,0,3,3.0,N,1,0,duje-dukan-1,Duje Dukan,2014
+33,54,33,2014-03-15,Wisconsin,N,Michigan State,CTOURN,L 75-83,,4,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,0,0,0,0,0,0,0,0,3,2.7,N,0,0,duje-dukan-1,Duje Dukan,2014
+34,55,34,2014-03-20,Wisconsin,N,American,ROUND-64,W 75-35,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,2,3,1,0,0,1,1,5,5.0,N,1,0,duje-dukan-1,Duje Dukan,2014
+35,56,35,2014-03-22,Wisconsin,N,Oregon,ROUND-32,W 85-77,,5,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,N,1,0,duje-dukan-1,Duje Dukan,2014
+36,57,36,2014-03-27,Wisconsin,N,Baylor,ROUND-16,W 69-52,,15,2,3,0.667,0,0,,2,3,0.667,0.667,1,3,0.333,0,0,0,1,0,0,0,0,5,3.6,N,1,0,duje-dukan-1,Duje Dukan,2014
+37,58,37,2014-03-29,Wisconsin,N,Arizona,ROUND-8,W 64-63 (OT),,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,2,0,-0.1,N,1,0,duje-dukan-1,Duje Dukan,2014
+38,59,38,2014-04-05,Wisconsin,N,Kentucky,NATIONAL-SEMI,L 73-74,,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,2,3,5,2,0,0,0,0,8,9.4,N,0,0,duje-dukan-1,Duje Dukan,2014

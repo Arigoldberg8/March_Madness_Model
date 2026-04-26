@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,Iowa,,North Carolina Central,REG (Non-Conf),W 97-67,,21,4,10,0.4,2,6,0.333,2,4,0.5,0.5,2,2,1.0,3,4,7,1,0,1,0,2,12,10.5,H,1,1,keegan-murray-1,Keegan Murray,2021
+2,2,2,2020-11-27,Iowa,,Southern,REG (Non-Conf),W 103-76,,16,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,3,0.667,0,4,4,0,3,2,1,2,9,10.8,H,1,1,keegan-murray-1,Keegan Murray,2021
+3,3,3,2020-12-03,Iowa,,Western Illinois,REG (Non-Conf),W 99-58,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,4,0.75,0,6,6,1,0,3,0,1,5,6.4,H,1,1,keegan-murray-1,Keegan Murray,2021
+4,4,4,2020-12-08,Iowa,,North Carolina,REG (Non-Conf),W 93-80,,6,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,1,0,1,0,1,1,0,0,3,5.1,H,1,1,keegan-murray-1,Keegan Murray,2021
+5,5,5,2020-12-11,Iowa,,Iowa State,REG (Non-Conf),W 105-77,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,4,5,1,2,0,0,2,0,2.4,H,1,1,keegan-murray-1,Keegan Murray,2021
+6,6,6,2020-12-13,Iowa,,Northern Illinois,REG (Non-Conf),W 106-53,,15,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,2,3,5,2,2,3,1,0,10,14.9,H,1,1,keegan-murray-1,Keegan Murray,2021
+7,7,7,2020-12-19,Iowa,N,Gonzaga,REG (Non-Conf),L 88-99,,5,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,1,1,0,0,0,0,1,1,-0.9,N,0,1,keegan-murray-1,Keegan Murray,2021
+8,8,8,2020-12-22,Iowa,,Purdue,REG (Conf),W 70-55,,12,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,3,3,0,1,0,1,1,7,6.6,H,1,1,keegan-murray-1,Keegan Murray,2021
+9,9,9,2020-12-25,Iowa,@,Minnesota,REG (Conf),L 95-102 (OT),,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,0,1,0,2,1,2,1.2,A,0,1,keegan-murray-1,Keegan Murray,2021
+10,10,10,2020-12-29,Iowa,,Northwestern,REG (Conf),W 87-72,,21,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,1,0.0,0,2,2,0,2,0,1,3,9,7.1,H,1,1,keegan-murray-1,Keegan Murray,2021
+11,11,11,2021-01-02,Iowa,@,Rutgers,REG (Conf),W 77-75,,23,4,8,0.5,1,2,0.5,3,6,0.5,0.563,5,5,1.0,4,5,9,1,3,3,0,2,14,19.3,A,1,1,keegan-murray-1,Keegan Murray,2021
+12,12,12,2021-01-07,Iowa,@,Maryland,REG (Conf),W 89-67,,21,6,9,0.667,0,1,0.0,6,8,0.75,0.667,0,1,0.0,0,5,5,0,1,2,1,0,12,10.6,A,1,1,keegan-murray-1,Keegan Murray,2021
+13,13,13,2021-01-10,Iowa,,Minnesota,REG (Conf),W 86-71,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,2,4,0,0,0,3,3,0,-2.9,H,1,1,keegan-murray-1,Keegan Murray,2021
+14,14,14,2021-01-17,Iowa,@,Northwestern,REG (Conf),W 96-73,,16,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,2,5,7,2,1,2,3,2,8,9.7,A,1,1,keegan-murray-1,Keegan Murray,2021
+15,15,15,2021-01-21,Iowa,,Indiana,REG (Conf),L 69-81,,14,2,4,0.5,0,2,0.0,2,2,1.0,0.5,4,4,1.0,2,3,5,0,0,1,1,4,8,6.4,H,0,1,keegan-murray-1,Keegan Murray,2021
+16,16,16,2021-01-29,Iowa,@,Illinois,REG (Conf),L 75-80,*,32,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,1,0.0,3,5,8,1,0,0,0,0,8,7.2,A,0,1,keegan-murray-1,Keegan Murray,2021
+17,17,17,2021-02-02,Iowa,,Michigan State,REG (Conf),W 84-78,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,3,1.0,4,0,4,0,0,1,0,1,7,8.1,H,1,1,keegan-murray-1,Keegan Murray,2021
+18,18,18,2021-02-04,Iowa,,Ohio State,REG (Conf),L 85-89,*,20,2,8,0.25,0,2,0.0,2,6,0.333,0.25,1,2,0.5,4,2,6,0,0,0,0,2,5,2.4,H,0,1,keegan-murray-1,Keegan Murray,2021
+19,19,19,2021-02-07,Iowa,@,Indiana,REG (Conf),L 65-67,*,16,2,3,0.667,1,2,0.5,1,1,1.0,0.833,5,5,1.0,2,4,6,0,2,1,1,5,10,11.0,A,0,1,keegan-murray-1,Keegan Murray,2021
+20,20,20,2021-02-10,Iowa,,Rutgers,REG (Conf),W 79-66,,27,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,4,0.75,4,2,6,1,1,1,0,0,10,12.4,H,1,1,keegan-murray-1,Keegan Murray,2021
+21,21,21,2021-02-13,Iowa,@,Michigan State,REG (Conf),W 88-58,*,16,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,2,1,3,0,0,0,0,4,8,7.2,A,1,1,keegan-murray-1,Keegan Murray,2021
+22,22,22,2021-02-18,Iowa,@,Wisconsin,REG (Conf),W 77-62,,22,1,5,0.2,0,0,,1,5,0.2,0.2,3,5,0.6,1,11,12,0,0,1,1,2,5,4.0,A,1,1,keegan-murray-1,Keegan Murray,2021
+23,23,23,2021-02-21,Iowa,,Penn State,REG (Conf),W 74-68,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,4,4,1,1,2,1,2,6,6.8,H,1,1,keegan-murray-1,Keegan Murray,2021
+24,24,24,2021-02-25,Iowa,@,Michigan,REG (Conf),L 57-79,,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,6,6,0,0,1,0,3,7,5.3,A,0,1,keegan-murray-1,Keegan Murray,2021
+25,25,25,2021-02-28,Iowa,@,Ohio State,REG (Conf),W 73-57,,22,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,4,5,0,2,1,0,3,8,7.4,A,1,1,keegan-murray-1,Keegan Murray,2021
+26,26,26,2021-03-04,Iowa,,Nebraska,REG (Conf),W 102-64,,18,3,7,0.429,0,3,0.0,3,4,0.75,0.429,2,2,1.0,1,3,4,1,1,2,1,1,8,7.6,H,1,1,keegan-murray-1,Keegan Murray,2021
+27,27,27,2021-03-07,Iowa,,Wisconsin,REG (Conf),W 77-73,,27,5,6,0.833,0,0,,5,6,0.833,0.833,3,4,0.75,3,3,6,0,0,3,0,2,13,14.7,H,1,1,keegan-murray-1,Keegan Murray,2021
+28,28,28,2021-03-12,Iowa,N,Wisconsin,CTOURN,W 62-57,,15,3,9,0.333,0,2,0.0,3,7,0.429,0.333,0,0,,3,2,5,0,0,3,0,2,6,4.9,N,1,0,keegan-murray-1,Keegan Murray,2021
+29,29,29,2021-03-13,Iowa,N,Illinois,CTOURN,L 71-82,,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,4,4,1,0,0,1,2,4,1.4,N,0,0,keegan-murray-1,Keegan Murray,2021
+30,30,30,2021-03-20,Iowa,N,Grand Canyon,ROUND-64,W 86-74,,25,6,11,0.545,1,5,0.2,5,6,0.833,0.591,0,0,,2,5,7,3,1,4,0,4,13,14.9,N,1,0,keegan-murray-1,Keegan Murray,2021
+31,31,31,2021-03-22,Iowa,N,Oregon,ROUND-32,L 80-95,,24,2,9,0.222,1,5,0.2,1,4,0.25,0.278,1,2,0.5,2,2,4,1,1,1,1,1,6,3.1,N,0,0,keegan-murray-1,Keegan Murray,2021

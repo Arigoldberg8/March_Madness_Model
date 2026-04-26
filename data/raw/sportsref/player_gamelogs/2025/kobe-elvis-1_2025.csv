@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,106,1,2024-11-04,Oklahoma,,Lindenwood,REG (Non-Conf),W 93-60,*,24,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,1,1,6,0,0,2,3,6,3.2,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+2,107,2,2024-11-11,Oklahoma,,Northwestern State,REG (Non-Conf),W 73-57,*,32,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,1,2,3,1,2,0,1,0,10,8.6,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+3,108,3,2024-11-16,Oklahoma,,Stetson,REG (Non-Conf),W 85-64,*,35,9,15,0.6,4,8,0.5,5,7,0.714,0.733,2,2,1.0,1,1,2,6,3,0,2,3,24,22.1,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+4,109,4,2024-11-21,Oklahoma,,Texas A&M–Commerce,REG (Non-Conf),W 84-56,*,32,2,10,0.2,0,7,0.0,2,3,0.667,0.2,0,0,,1,5,6,7,1,0,2,0,4,3.9,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+5,110,5,2024-11-27,Oklahoma,N,Providence,REG (Non-Conf),W 79-77,*,34,10,14,0.714,3,5,0.6,7,9,0.778,0.821,3,5,0.6,0,3,3,1,1,0,3,0,26,19.0,N,1,1,kobe-elvis-1,Kobe Elvis,2025
+6,111,6,2024-11-28,Oklahoma,N,Arizona,REG (Non-Conf),W 82-77,*,28,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,3,3,4,2,0,4,2,2,0.5,N,1,1,kobe-elvis-1,Kobe Elvis,2025
+7,112,7,2024-11-29,Oklahoma,N,Louisville,REG (Non-Conf),W 69-64,*,36,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,2,2,7,2,0,0,2,4,6.6,N,1,1,kobe-elvis-1,Kobe Elvis,2025
+8,113,8,2024-12-03,Oklahoma,,Georgia Tech,REG (Non-Conf),W 76-61,*,30,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,0,4,4,2,3,0,0,2,12,12.8,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+9,114,9,2024-12-07,Oklahoma,,Alcorn State,REG (Non-Conf),W 94-78,*,17,0,5,0.0,0,5,0.0,0,0,,0.0,0,0,,0,0,0,3,0,0,0,3,0,-2.6,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+10,115,10,2024-12-14,Oklahoma,N,Oklahoma State,REG (Non-Conf),W 80-65,*,32,5,8,0.625,5,7,0.714,0,1,0.0,0.938,0,2,0.0,0,2,2,2,0,0,2,1,15,10.2,N,1,1,kobe-elvis-1,Kobe Elvis,2025
+11,116,11,2024-12-18,Oklahoma,N,Michigan,REG (Non-Conf),W 87-86,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,1,2,2,1,0,1,2,5,2.5,N,1,1,kobe-elvis-1,Kobe Elvis,2025
+12,117,12,2024-12-22,Oklahoma,,Central Arkansas,REG (Non-Conf),W 89-66,*,24,3,6,0.5,3,6,0.5,0,0,,0.75,0,0,,0,3,3,2,0,0,1,2,9,6.5,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+13,118,13,2024-12-29,Oklahoma,,Prairie View A&M,REG (Non-Conf),W 89-67,*,22,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,2,0,0,1,3,5,3.2,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+14,119,14,2025-01-04,Oklahoma,@,Alabama,REG (Conf),L 79-107,*,32,6,14,0.429,1,7,0.143,5,7,0.714,0.464,0,1,0.0,0,1,1,5,1,0,2,1,13,7.6,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+15,120,15,2025-01-08,Oklahoma,,Texas A&M,REG (Conf),L 78-80,*,27,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,8,0,0,3,1,0,0.1,H,0,1,kobe-elvis-1,Kobe Elvis,2025
+16,121,16,2025-01-11,Oklahoma,@,Georgia,REG (Conf),L 62-72,*,29,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,0,1,1,5,0,0,0,4,14,10.9,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+17,122,17,2025-01-15,Oklahoma,,Texas,REG (Conf),L 73-77,,13,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,0,0,0,1,0,7,3.0,H,0,1,kobe-elvis-1,Kobe Elvis,2025
+18,123,18,2025-01-18,Oklahoma,,South Carolina,REG (Conf),W 82-62,,22,4,7,0.571,4,6,0.667,0,1,0.0,0.857,0,0,,0,1,1,2,0,0,4,2,12,5.6,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+19,124,19,2025-01-25,Oklahoma,@,Arkansas,REG (Conf),W 65-62,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,1,1,0,-0.8,A,1,1,kobe-elvis-1,Kobe Elvis,2025
+20,125,20,2025-01-28,Oklahoma,@,Texas A&M,REG (Conf),L 68-75,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,1,0.0,0,1,1,2,0,0,2,3,3,0.1,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+21,126,21,2025-02-01,Oklahoma,,Vanderbilt,REG (Conf),W 97-67,,15,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,3,3,2,0,0,4,1,5,0.9,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+22,127,22,2025-02-04,Oklahoma,@,Auburn,REG (Conf),L 70-98,,13,2,5,0.4,1,4,0.25,1,1,1.0,0.5,5,5,1.0,0,0,0,0,0,0,1,1,10,5.9,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+23,128,23,2025-02-08,Oklahoma,,Tennessee,REG (Conf),L 52-70,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-1.4,H,0,1,kobe-elvis-1,Kobe Elvis,2025
+24,129,24,2025-02-12,Oklahoma,@,Missouri,REG (Conf),L 58-82,,15,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,1,2,3,0,0,0,1,2,1,-2.7,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+25,130,25,2025-02-15,Oklahoma,,Louisiana State,REG (Conf),L 79-82,,12,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,0,,1,1,2,1,0,0,1,2,8,3.2,H,0,1,kobe-elvis-1,Kobe Elvis,2025
+26,131,26,2025-02-18,Oklahoma,@,Florida,REG (Conf),L 63-85,,20,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,0,1,1,2,0,0,1,2,6,2.9,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+27,132,27,2025-02-22,Oklahoma,,Mississippi State,REG (Conf),W 93-87,,28,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,1,1,2,3,0,0,2,2,9,6.3,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+28,133,28,2025-02-26,Oklahoma,,Kentucky,REG (Conf),L 82-83,,14,2,5,0.4,2,3,0.667,0,2,0.0,0.6,2,2,1.0,0,0,0,3,2,0,2,1,8,7.0,H,0,1,kobe-elvis-1,Kobe Elvis,2025
+29,134,29,2025-03-01,Oklahoma,@,Ole Miss,REG (Conf),L 84-87,,26,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,1,1.0,0,1,1,1,1,0,2,2,9,5.2,A,0,1,kobe-elvis-1,Kobe Elvis,2025
+30,135,30,2025-03-05,Oklahoma,,Missouri,REG (Conf),W 96-84,,25,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,0,0,0,4,2,0,1,2,8,9.0,H,1,1,kobe-elvis-1,Kobe Elvis,2025
+31,136,31,2025-03-08,Oklahoma,@,Texas,REG (Conf),W 76-72,,27,2,8,0.25,1,2,0.5,1,6,0.167,0.313,0,0,,0,3,3,5,2,0,0,2,5,5.8,A,1,1,kobe-elvis-1,Kobe Elvis,2025
+32,137,32,2025-03-12,Oklahoma,N,Georgia,CTOURN,W 81-75,,26,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,2,2,1,0,0,1,1,9,4.2,N,1,0,kobe-elvis-1,Kobe Elvis,2025
+33,138,33,2025-03-13,Oklahoma,N,Kentucky,CTOURN,L 84-85,,31,4,9,0.444,1,4,0.25,3,5,0.6,0.5,3,4,0.75,0,3,3,4,1,0,2,1,12,9.2,N,0,0,kobe-elvis-1,Kobe Elvis,2025
+34,139,34,2025-03-21,Oklahoma,N,Connecticut,ROUND-64,L 59-67,,17,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,1,2,0,0,0,1,2,2,-1.9,N,0,0,kobe-elvis-1,Kobe Elvis,2025

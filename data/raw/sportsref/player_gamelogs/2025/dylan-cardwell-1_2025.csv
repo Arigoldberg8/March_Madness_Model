@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,129,1,2024-11-06,Auburn,,Vermont,REG (Non-Conf),W 94-43,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,4,4,2,2,1,1,0,0,3.6,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+2,130,2,2024-11-09,Auburn,N,Houston,REG (Non-Conf),W 74-69,*,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,1,0,0,1,2,2.6,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+3,131,3,2024-11-13,Auburn,,Kent State,REG (Non-Conf),W 79-56,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,4,4,8,4,0,0,1,0,3,7.0,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+4,132,4,2024-11-18,Auburn,,North Alabama,REG (Non-Conf),W 102-69,*,23,5,6,0.833,0,0,,5,6,0.833,0.833,2,2,1.0,2,1,3,2,0,1,1,1,12,12.2,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+5,133,5,2024-11-25,Auburn,N,Iowa State,REG (Non-Conf),W 83-81,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,3,4,3,2,1,1,4,2,4.0,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+6,134,6,2024-11-26,Auburn,N,North Carolina,REG (Non-Conf),W 85-72,*,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,1,2,0,4,2,2.1,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+7,135,7,2024-11-27,Auburn,N,Memphis,REG (Non-Conf),W 90-76,*,26,8,8,1.0,1,1,1.0,7,7,1.0,1.063,1,3,0.333,2,1,3,6,1,0,1,2,18,19.9,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+8,136,8,2024-12-04,Auburn,@,Duke,REG (Non-Conf),L 78-84,*,11,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,0,1,1,3,0,0.2,A,0,1,dylan-cardwell-1,Dylan Cardwell,2025
+9,137,9,2024-12-08,Auburn,,Richmond,REG (Non-Conf),W 98-54,*,20,3,8,0.375,0,0,,3,8,0.375,0.375,1,3,0.333,3,2,5,2,2,1,1,1,7,7.2,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+10,138,10,2024-12-14,Auburn,N,Ohio State,REG (Non-Conf),W 91-53,*,25,5,10,0.5,0,0,,5,10,0.5,0.5,0,0,,3,5,8,2,0,4,0,2,10,12.0,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+11,139,11,2024-12-17,Auburn,,Georgia State,REG (Non-Conf),W 100-59,*,17,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,2,4,6,2,0,2,2,3,6,6.5,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+12,140,12,2024-12-21,Auburn,N,Purdue,REG (Non-Conf),W 87-69,*,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,3,1,4,1,0,1,0,3,6,6.9,N,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+13,141,13,2024-12-30,Auburn,,Monmouth,REG (Non-Conf),W 87-58,*,19,5,8,0.625,0,0,,5,8,0.625,0.625,2,5,0.4,6,5,11,1,1,2,0,3,12,14.8,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+14,142,14,2025-01-04,Auburn,,Missouri,REG (Conf),W 84-68,*,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,1,0,3,0,2,2,4.4,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+15,143,15,2025-01-07,Auburn,@,Texas,REG (Conf),W 87-82,*,17,0,0,,0,0,,0,0,,,0,0,,3,3,6,0,0,1,1,2,0,1.9,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+16,144,16,2025-01-11,Auburn,@,South Carolina,REG (Conf),W 66-63,*,24,3,4,0.75,0,0,,3,4,0.75,0.75,0,3,0.0,3,4,7,2,0,3,0,5,6,8.0,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+17,145,17,2025-01-14,Auburn,,Mississippi State,REG (Conf),W 88-66,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,1,3,0.333,2,3,5,1,1,2,2,2,9,8.2,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+18,146,18,2025-01-18,Auburn,@,Georgia,REG (Conf),W 70-68,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,6,1,7,3,2,4,0,1,2,11.2,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+19,147,19,2025-01-25,Auburn,,Tennessee,REG (Conf),W 53-51,*,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,2,1,3,1,2,1,0,2,4,7.2,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+20,148,20,2025-01-29,Auburn,@,Louisiana State,REG (Conf),W 87-74,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,4,2,6,1,2,0,2,4,4,4.5,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+21,149,21,2025-02-01,Auburn,@,Ole Miss,REG (Conf),W 92-82,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,3,10,13,4,2,1,0,3,10,16.0,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+22,150,22,2025-02-04,Auburn,,Oklahoma,REG (Conf),W 98-70,*,18,4,4,1.0,0,0,,4,4,1.0,1.0,0,2,0.0,2,1,3,1,0,6,0,1,8,12.2,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+23,151,23,2025-02-08,Auburn,,Florida,REG (Conf),L 81-90,*,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,5,0.2,6,6,12,1,0,0,1,4,5,6.2,H,0,1,dylan-cardwell-1,Dylan Cardwell,2025
+24,152,24,2025-02-11,Auburn,@,Vanderbilt,REG (Conf),W 80-68,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,2,4,2,2,2,0,3,6,10.3,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+25,153,25,2025-02-15,Auburn,@,Alabama,REG (Conf),W 94-85,*,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,1,2,3,1,0,0,0,5,2,0.9,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+26,154,26,2025-02-19,Auburn,,Arkansas,REG (Conf),W 67-60,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,3,0,3,1,0,1,2,0,0,0.0,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+27,155,27,2025-02-22,Auburn,,Georgia,REG (Conf),W 82-70,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,1,2,3,0,4,4,7.9,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+28,156,28,2025-02-26,Auburn,,Ole Miss,REG (Conf),W 106-76,*,14,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,1,0,2,0,4,4,3.9,H,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+29,157,29,2025-03-01,Auburn,@,Kentucky,REG (Conf),W 94-78,*,21,0,0,,0,0,,0,0,,,0,0,,1,2,3,0,0,0,0,4,0,-0.3,A,1,1,dylan-cardwell-1,Dylan Cardwell,2025
+30,158,30,2025-03-04,Auburn,@,Texas A&M,REG (Conf),L 72-83,*,22,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,2,1,3,2,2,0,0,3,8,10.7,A,0,1,dylan-cardwell-1,Dylan Cardwell,2025
+31,159,31,2025-03-08,Auburn,,Alabama,REG (Conf),L 91-93 (OT),*,31,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,4,4,8,4,2,1,0,3,6,13.4,H,0,1,dylan-cardwell-1,Dylan Cardwell,2025
+32,160,32,2025-03-14,Auburn,N,Ole Miss,CTOURN,W 62-57,*,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,2,3,0,-2.5,N,1,0,dylan-cardwell-1,Dylan Cardwell,2025
+33,161,33,2025-03-15,Auburn,N,Tennessee,CTOURN,L 65-70,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,3,2,5,1,1,1,1,1,7,8.7,N,0,0,dylan-cardwell-1,Dylan Cardwell,2025
+34,162,34,2025-03-20,Auburn,N,Alabama State,ROUND-64,W 83-63,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,1,4,0.25,4,4,8,0,1,1,0,3,3,6.0,N,1,0,dylan-cardwell-1,Dylan Cardwell,2025
+35,163,35,2025-03-22,Auburn,N,Creighton,ROUND-32,W 82-70,*,21,3,3,1.0,0,0,,3,3,1.0,1.0,0,2,0.0,3,1,4,3,1,2,1,2,6,9.4,N,1,0,dylan-cardwell-1,Dylan Cardwell,2025
+36,164,36,2025-03-28,Auburn,N,Michigan,ROUND-16,W 78-65,*,23,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,4,5,9,3,1,0,0,3,1,6.1,N,1,0,dylan-cardwell-1,Dylan Cardwell,2025
+37,165,37,2025-03-30,Auburn,N,Michigan State,ROUND-8,W 70-64,*,24,2,3,0.667,0,0,,2,3,0.667,0.667,1,4,0.25,3,3,6,1,0,2,0,3,5,6.4,N,1,0,dylan-cardwell-1,Dylan Cardwell,2025
+38,166,38,2025-04-05,Auburn,N,Florida,NATIONAL-SEMI,L 73-79,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,6,8,0,1,0,0,3,9,9.7,N,0,0,dylan-cardwell-1,Dylan Cardwell,2025

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2023-11-06,Colorado,,Towson,REG (Non-Conf),W 75-57,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,3,4,0.75,1,8,9,3,1,1,1,3,13,14.4,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+2,37,2,2023-11-10,Colorado,,Grambling State,REG (Non-Conf),W 95-63,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,7,9,0.778,4,4,8,4,1,0,1,2,17,18.6,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+3,38,3,2023-11-14,Colorado,,Milwaukee,REG (Non-Conf),W 106-79,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,3,3,2,0,0,1,2,6,4.5,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+4,39,4,2023-11-20,Colorado,N,Richmond,REG (Non-Conf),W 64-59,*,35,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,4,1.0,2,4,6,3,4,1,1,1,6,11.6,N,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+5,40,5,2023-11-21,Colorado,N,Florida State,REG (Non-Conf),L 71-77 (OT),*,37,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,3,4,7,1,2,0,2,3,8,8.8,N,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+6,41,6,2023-11-26,Colorado,,Iona,REG (Non-Conf),W 85-68,*,26,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,2,0,2,2,0,0,3,2,12,7.4,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+7,42,7,2023-11-29,Colorado,@,Colorado State,REG (Non-Conf),L 83-88,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,5,7,0,0,0,1,4,6,3.3,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+8,43,8,2023-12-03,Colorado,,Pepperdine,REG (Non-Conf),W 91-66,*,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,1,1.0,0,7,7,2,2,1,3,3,5,3.6,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+9,44,9,2023-12-10,Colorado,N,Miami (FL),REG (Non-Conf),W 90-63,*,35,5,7,0.714,0,0,,5,7,0.714,0.714,1,3,0.333,1,5,6,4,2,0,0,2,11,13.5,N,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+10,45,10,2023-12-15,Colorado,,Northern Colorado,REG (Non-Conf),W 90-68,*,30,6,9,0.667,0,1,0.0,6,8,0.75,0.667,3,4,0.75,2,3,5,6,2,0,2,0,15,17.2,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+11,46,11,2023-12-21,Colorado,,Utah Tech,REG (Non-Conf),W 98-71,*,29,4,9,0.444,0,0,,4,9,0.444,0.444,3,4,0.75,1,3,4,4,3,0,2,2,11,10.5,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+12,47,12,2023-12-29,Colorado,,Washington,REG (Conf),W 73-69,*,33,5,13,0.385,1,3,0.333,4,10,0.4,0.423,0,0,,1,3,4,1,1,0,1,3,11,5.0,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+13,48,13,2023-12-31,Colorado,,Washington State,REG (Conf),W 74-67,*,36,4,7,0.571,2,2,1.0,2,5,0.4,0.714,2,2,1.0,2,2,4,3,0,1,0,1,12,13.1,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+14,49,14,2024-01-04,Colorado,@,Arizona,REG (Conf),L 50-97,*,33,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,1,1,2,3,1,0,1,0,7,8.1,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+15,50,15,2024-01-06,Colorado,@,Arizona State,REG (Conf),L 73-76,*,37,6,7,0.857,1,1,1.0,5,6,0.833,0.929,6,6,1.0,1,4,5,1,1,1,0,2,19,20.0,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+16,51,16,2024-01-10,Colorado,@,California,REG (Conf),L 78-82,*,35,3,6,0.5,0,0,,3,6,0.5,0.5,0,2,0.0,2,6,8,2,1,0,1,0,6,6.8,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+17,52,17,2024-01-13,Colorado,,Southern California,REG (Conf),W 68-58,*,35,7,11,0.636,1,3,0.333,6,8,0.75,0.682,0,0,,0,9,9,3,1,0,0,2,15,15.1,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+18,53,18,2024-01-18,Colorado,,Oregon,REG (Conf),W 86-70,*,32,2,4,0.5,1,2,0.5,1,2,0.5,0.625,6,6,1.0,1,5,6,2,1,2,0,3,11,13.8,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+19,54,20,2024-01-24,Colorado,@,Washington,REG (Conf),W 98-81,*,34,8,10,0.8,1,1,1.0,7,9,0.778,0.85,7,8,0.875,2,1,3,1,2,1,1,0,24,23.9,A,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+20,55,21,2024-01-27,Colorado,@,Washington State,REG (Conf),L 69-78,*,35,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,2,5,7,0,1,0,0,1,2,1.7,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+21,56,22,2024-02-03,Colorado,@,Utah,REG (Conf),L 68-73,*,36,5,10,0.5,0,1,0.0,5,9,0.556,0.5,5,6,0.833,0,5,5,1,1,0,2,1,15,10.4,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+22,57,23,2024-02-08,Colorado,,Arizona State,REG (Conf),W 82-70,*,36,5,8,0.625,2,2,1.0,3,6,0.5,0.75,7,7,1.0,1,10,11,1,2,0,2,1,19,19.4,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+23,58,24,2024-02-10,Colorado,,Arizona,REG (Conf),L 79-99,*,38,2,5,0.4,1,3,0.333,1,2,0.5,0.5,8,8,1.0,2,4,6,0,0,1,2,4,13,10.0,H,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+24,59,25,2024-02-15,Colorado,@,UCLA,REG (Conf),L 60-64,*,36,3,8,0.375,0,0,,3,8,0.375,0.375,2,4,0.5,0,3,3,3,0,0,1,2,8,4.0,A,0,1,jvonne-hadley-1,J'Vonne Hadley,2024
+25,60,26,2024-02-17,Colorado,@,Southern California,REG (Conf),W 92-89 (2OT),*,47,5,8,0.625,0,0,,5,8,0.625,0.625,3,3,1.0,2,8,10,2,2,0,5,1,13,11.2,A,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+26,61,27,2024-02-24,Colorado,,Utah,REG (Conf),W 89-65,*,33,7,10,0.7,1,2,0.5,6,8,0.75,0.75,5,6,0.833,1,8,9,4,0,0,0,1,20,20.9,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+27,62,28,2024-02-28,Colorado,,California,REG (Conf),W 88-78,*,39,4,8,0.5,0,0,,4,8,0.5,0.5,5,7,0.714,1,3,4,3,0,0,3,2,13,8.1,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+28,63,29,2024-03-03,Colorado,,Stanford,REG (Conf),W 81-71,*,39,7,11,0.636,1,3,0.333,6,8,0.75,0.682,0,1,0.0,2,4,6,4,1,1,1,0,15,15.8,H,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+29,64,30,2024-03-07,Colorado,@,Oregon,REG (Conf),W 79-75,*,38,8,11,0.727,4,4,1.0,4,7,0.571,0.909,0,0,,2,10,12,1,0,0,2,0,20,18.6,A,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+30,65,31,2024-03-09,Colorado,@,Oregon State,REG (Conf),W 73-57,*,38,4,8,0.5,1,2,0.5,3,6,0.5,0.563,6,6,1.0,3,4,7,3,0,0,0,0,15,16.4,A,1,1,jvonne-hadley-1,J'Vonne Hadley,2024
+31,66,32,2024-03-14,Colorado,N,Utah,CTOURN,W 72-58,*,34,1,7,0.143,0,2,0.0,1,5,0.2,0.143,3,3,1.0,2,5,7,1,1,0,0,2,5,4.3,N,1,0,jvonne-hadley-1,J'Vonne Hadley,2024
+32,67,33,2024-03-15,Colorado,N,Washington State,CTOURN,W 58-52,*,36,4,9,0.444,0,3,0.0,4,6,0.667,0.444,4,5,0.8,0,2,2,4,3,0,3,3,12,9.1,N,1,0,jvonne-hadley-1,J'Vonne Hadley,2024
+33,68,34,2024-03-16,Colorado,N,Oregon,CTOURN,L 68-75,*,38,1,3,0.333,0,1,0.0,1,2,0.5,0.333,5,6,0.833,2,5,7,2,0,0,2,4,7,5.6,N,0,0,jvonne-hadley-1,J'Vonne Hadley,2024
+34,69,35,2024-03-20,Colorado,N,Boise State,FIRST-FOUR,W 60-53,*,37,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,4,4,3,1,0,0,1,2,3.8,N,1,0,jvonne-hadley-1,J'Vonne Hadley,2024
+35,70,36,2024-03-22,Colorado,N,Florida,ROUND-64,W 102-100,*,36,3,7,0.429,1,2,0.5,2,5,0.4,0.5,9,11,0.818,0,6,6,4,1,0,2,0,16,15.1,N,1,0,jvonne-hadley-1,J'Vonne Hadley,2024
+36,71,37,2024-03-24,Colorado,N,Marquette,ROUND-32,L 77-81,*,38,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,3,3,6,5,4,0,1,2,7,12.7,N,0,0,jvonne-hadley-1,J'Vonne Hadley,2024

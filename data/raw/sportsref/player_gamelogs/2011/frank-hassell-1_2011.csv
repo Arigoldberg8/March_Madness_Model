@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2010-11-12,Old Dominion,,Georgetown,REG (Non-Conf),L 59-62,*,31,5,10,0.5,0,0,,5,10,0.5,0.5,3,4,0.75,2,6,8,2,0,3,4,0,13,10.3,H,0,1,frank-hassell-1,Frank Hassell,2011
+2,105,2,2010-11-15,Old Dominion,,High Point,REG (Non-Conf),W 79-57,*,20,4,7,0.571,0,0,,4,7,0.571,0.571,7,9,0.778,8,5,13,2,1,3,2,1,15,20.1,H,1,1,frank-hassell-1,Frank Hassell,2011
+3,106,3,2010-11-19,Old Dominion,N,Saint Peter's,REG (Non-Conf),W 59-52,*,32,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,1,0.0,2,10,12,1,0,1,3,2,6,3.9,N,1,1,frank-hassell-1,Frank Hassell,2011
+4,107,4,2010-11-21,Old Dominion,N,Clemson,REG (Non-Conf),W 61-60,*,24,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,3,4,7,0,1,0,1,2,13,12.6,N,1,1,frank-hassell-1,Frank Hassell,2011
+5,108,5,2010-11-22,Old Dominion,N,Xavier,REG (Non-Conf),W 67-58,*,30,8,10,0.8,0,0,,8,10,0.8,0.8,0,1,0.0,3,5,8,0,1,1,1,3,16,14.9,N,1,1,frank-hassell-1,Frank Hassell,2011
+6,109,6,2010-12-01,Old Dominion,,Richmond,REG (Non-Conf),W 77-70,*,31,7,12,0.583,0,0,,7,12,0.583,0.583,1,2,0.5,6,6,12,0,0,2,1,2,15,14.6,H,1,1,frank-hassell-1,Frank Hassell,2011
+7,110,7,2010-12-04,Old Dominion,@,Delaware,REG (Conf),L 67-75,*,25,8,12,0.667,0,0,,8,12,0.667,0.667,3,5,0.6,4,5,9,0,0,0,1,2,19,15.5,A,0,1,frank-hassell-1,Frank Hassell,2011
+8,111,8,2010-12-07,Old Dominion,@,East Carolina,REG (Non-Conf),W 81-68,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,0,2,0.0,2,5,7,2,1,3,4,0,8,8.0,A,1,1,frank-hassell-1,Frank Hassell,2011
+9,112,9,2010-12-09,Old Dominion,,Maryland Eastern Shore,REG (Non-Conf),W 81-39,*,19,5,10,0.5,0,0,,5,10,0.5,0.5,2,5,0.4,4,6,10,1,0,3,0,1,12,12.8,H,1,1,frank-hassell-1,Frank Hassell,2011
+10,113,10,2010-12-11,Old Dominion,,Dayton,REG (Non-Conf),W 74-71,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,4,5,0.8,3,6,9,1,0,3,2,2,12,10.8,H,1,1,frank-hassell-1,Frank Hassell,2011
+11,114,11,2010-12-23,Old Dominion,,Presbyterian,REG (Non-Conf),W 63-54,*,22,2,9,0.222,0,0,,2,9,0.222,0.222,3,3,1.0,6,6,12,1,0,2,2,3,7,6.4,H,1,1,frank-hassell-1,Frank Hassell,2011
+12,115,12,2010-12-30,Old Dominion,@,Missouri,REG (Non-Conf),L 58-81,*,27,4,8,0.5,0,0,,4,8,0.5,0.5,4,6,0.667,0,7,7,1,0,0,2,1,12,7.6,A,0,1,frank-hassell-1,Frank Hassell,2011
+13,116,13,2011-01-03,Old Dominion,@,Towson,REG (Conf),W 51-47,*,31,5,10,0.5,0,0,,5,10,0.5,0.5,4,4,1.0,3,6,9,0,0,0,2,1,14,10.5,A,1,1,frank-hassell-1,Frank Hassell,2011
+14,117,14,2011-01-05,Old Dominion,,Northeastern,REG (Conf),W 49-34,*,24,7,7,1.0,0,0,,7,7,1.0,1.0,2,6,0.333,4,4,8,2,3,3,2,1,16,20.4,H,1,1,frank-hassell-1,Frank Hassell,2011
+15,118,15,2011-01-08,Old Dominion,,George Mason,REG (Conf),W 69-65,*,30,8,14,0.571,0,0,,8,14,0.571,0.571,2,4,0.5,5,4,9,1,1,1,2,3,18,14.5,H,1,1,frank-hassell-1,Frank Hassell,2011
+16,119,16,2011-01-13,Old Dominion,@,Drexel,REG (Conf),L 57-62,*,28,2,8,0.25,0,0,,2,8,0.25,0.25,2,2,1.0,1,4,5,3,1,0,1,2,6,4.4,A,0,1,frank-hassell-1,Frank Hassell,2011
+17,120,17,2011-01-15,Old Dominion,@,Hofstra,REG (Conf),W 75-64,*,32,7,14,0.5,0,0,,7,14,0.5,0.5,4,4,1.0,4,9,13,0,1,1,4,2,18,13.4,A,1,1,frank-hassell-1,Frank Hassell,2011
+18,121,18,2011-01-19,Old Dominion,,James Madison,REG (Conf),W 64-58,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,7,10,0.7,3,8,11,0,0,3,1,2,15,15.3,H,1,1,frank-hassell-1,Frank Hassell,2011
+19,122,19,2011-01-22,Old Dominion,,VCU,REG (Conf),L 50-59,*,30,2,8,0.25,0,0,,2,8,0.25,0.25,2,2,1.0,2,5,7,1,0,1,1,1,6,4.1,H,0,1,frank-hassell-1,Frank Hassell,2011
+20,123,20,2011-01-24,Old Dominion,,UNC Wilmington,REG (Conf),W 58-43,*,31,8,12,0.667,0,0,,8,12,0.667,0.667,9,9,1.0,7,6,13,2,1,2,2,2,25,27.5,H,1,1,frank-hassell-1,Frank Hassell,2011
+21,124,21,2011-01-26,Old Dominion,@,Georgia State,REG (Conf),W 51-48,*,30,6,10,0.6,0,0,,6,10,0.6,0.6,3,4,0.75,3,1,4,1,1,0,3,3,15,9.9,A,1,1,frank-hassell-1,Frank Hassell,2011
+22,125,22,2011-01-29,Old Dominion,,Towson,REG (Conf),W 80-57,*,27,6,12,0.5,0,0,,6,12,0.5,0.5,4,4,1.0,7,3,10,1,2,0,3,1,16,15.1,H,1,1,frank-hassell-1,Frank Hassell,2011
+23,126,23,2011-02-02,Old Dominion,,Delaware,REG (Conf),W 67-59,*,28,7,16,0.438,0,0,,7,16,0.438,0.438,0,0,,4,7,11,1,0,3,2,2,14,10.5,H,1,1,frank-hassell-1,Frank Hassell,2011
+24,127,24,2011-02-05,Old Dominion,@,George Mason,REG (Conf),L 45-62,*,28,3,11,0.273,0,0,,3,11,0.273,0.273,3,4,0.75,3,7,10,0,2,1,3,3,9,4.8,A,0,1,frank-hassell-1,Frank Hassell,2011
+25,128,25,2011-02-09,Old Dominion,@,William & Mary,REG (Conf),W 69-53,*,31,9,11,0.818,0,0,,9,11,0.818,0.818,3,3,1.0,4,7,11,3,1,2,3,1,21,22.9,A,1,1,frank-hassell-1,Frank Hassell,2011
+26,129,26,2011-02-12,Old Dominion,@,VCU,REG (Conf),W 70-59,*,35,8,14,0.571,0,0,,8,14,0.571,0.571,2,4,0.5,4,7,11,2,1,1,2,2,18,15.8,A,1,1,frank-hassell-1,Frank Hassell,2011
+27,130,27,2011-02-15,Old Dominion,,Georgia State,REG (Conf),W 60-43,*,33,6,12,0.5,0,0,,6,12,0.5,0.5,5,6,0.833,3,7,10,0,1,0,2,3,17,12.6,H,1,1,frank-hassell-1,Frank Hassell,2011
+28,131,28,2011-02-20,Old Dominion,,Cleveland State,REG (Non-Conf),W 74-63,*,33,4,12,0.333,0,0,,4,12,0.333,0.333,4,4,1.0,8,7,15,4,3,3,3,1,12,17.4,H,1,1,frank-hassell-1,Frank Hassell,2011
+29,132,29,2011-02-24,Old Dominion,@,James Madison,REG (Conf),W 75-59,*,30,9,12,0.75,0,0,,9,12,0.75,0.75,3,4,0.75,5,5,10,1,2,0,1,2,21,21.7,A,1,1,frank-hassell-1,Frank Hassell,2011
+30,133,30,2011-02-26,Old Dominion,,William & Mary,REG (Conf),W 77-58,*,31,6,9,0.667,0,0,,6,9,0.667,0.667,6,9,0.667,6,6,12,2,1,0,2,0,18,19.3,H,1,1,frank-hassell-1,Frank Hassell,2011
+31,134,31,2011-03-05,Old Dominion,N,Delaware,CTOURN,W 59-50,*,33,9,13,0.692,0,0,,9,13,0.692,0.692,6,12,0.5,1,9,10,0,0,0,0,2,24,18.7,N,1,0,frank-hassell-1,Frank Hassell,2011
+32,135,32,2011-03-06,Old Dominion,N,Hofstra,CTOURN,W 77-69,*,34,6,9,0.667,0,0,,6,9,0.667,0.667,10,12,0.833,2,2,4,2,0,1,1,2,22,19.6,N,1,0,frank-hassell-1,Frank Hassell,2011
+33,136,33,2011-03-07,Old Dominion,N,VCU,CTOURN,W 70-65,*,34,8,9,0.889,0,0,,8,9,0.889,0.889,6,7,0.857,1,8,9,1,0,0,3,3,22,18.1,N,1,0,frank-hassell-1,Frank Hassell,2011
+34,137,34,2011-03-17,Old Dominion,N,Butler,ROUND-64,L 58-60,*,34,7,13,0.538,0,0,,7,13,0.538,0.538,6,7,0.857,4,1,5,0,4,0,4,3,20,15.2,N,0,0,frank-hassell-1,Frank Hassell,2011

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2020-11-25,Maryland,,Old Dominion,REG (Non-Conf),W 85-67,*,20,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,3,1,4,0,0,0,0,4,6,4.5,H,1,1,galin-smith-1,Galin Smith,2021
+2,96,2,2020-11-27,Maryland,,Navy,REG (Non-Conf),W 82-52,*,21,6,6,1.0,0,0,6,6,1.0,1.0,0,0,,0,1,1,0,0,1,3,1,12,7.8,H,1,1,galin-smith-1,Galin Smith,2021
+3,97,3,2020-11-29,Maryland,,Mount St. Mary's,REG (Non-Conf),W 79-61,,19,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,4,4,1,0,2,1,4,4,4.1,H,1,1,galin-smith-1,Galin Smith,2021
+4,98,4,2020-12-04,Maryland,,Saint Peter's,REG (Non-Conf),W 90-57,*,11,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,3,1,4,1,0,1,1,2,4,3.6,H,1,1,galin-smith-1,Galin Smith,2021
+5,99,5,2020-12-09,Maryland,@,Clemson,REG (Non-Conf),L 51-67,*,19,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,0,2,2,0,0,0,1,1,8,6.3,A,0,1,galin-smith-1,Galin Smith,2021
+6,100,6,2020-12-14,Maryland,,Rutgers,REG (Conf),L 60-74,*,20,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,3,2,5,0,0,2,1,2,7,5.9,H,0,1,galin-smith-1,Galin Smith,2021
+7,101,7,2020-12-22,Maryland,,La Salle,REG (Non-Conf),W 84-71,*,9,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,1,2,0,0,0,0,3,4,2.8,H,1,1,galin-smith-1,Galin Smith,2021
+8,102,8,2020-12-25,Maryland,@,Purdue,REG (Conf),L 70-73,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,0,0,1,0,-1.9,A,0,1,galin-smith-1,Galin Smith,2021
+9,103,9,2020-12-28,Maryland,@,Wisconsin,REG (Conf),W 70-64,*,11,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,1,1,2,0,0,0,0,0,2,0.9,A,1,1,galin-smith-1,Galin Smith,2021
+10,104,10,2020-12-31,Maryland,,Michigan,REG (Conf),L 73-84,*,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,1,2,2,0.5,H,0,1,galin-smith-1,Galin Smith,2021
+11,105,11,2021-01-04,Maryland,@,Indiana,REG (Conf),L 55-63,*,17,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,2,3,0,0,1,3,5,3,-1.4,A,0,1,galin-smith-1,Galin Smith,2021
+12,106,12,2021-01-07,Maryland,,Iowa,REG (Conf),L 67-89,*,15,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,1,1,0,-1.5,H,0,1,galin-smith-1,Galin Smith,2021
+13,107,13,2021-01-10,Maryland,@,Illinois,REG (Conf),W 66-63,*,27,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,2,4,6,0,0,1,2,2,2,0.8,A,1,1,galin-smith-1,Galin Smith,2021
+14,108,14,2021-01-15,Maryland,,Wingate,REG (Non-Conf),W 100-58,*,11,5,7,0.714,0,0,5,7,0.714,0.714,3,4,0.75,1,3,4,1,0,0,1,2,13,10.2,H,1,1,galin-smith-1,Galin Smith,2021
+15,109,15,2021-01-19,Maryland,@,Michigan,REG (Conf),L 63-87,*,21,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,2,2,-0.2,A,0,1,galin-smith-1,Galin Smith,2021
+16,110,16,2021-01-23,Maryland,@,Minnesota,REG (Conf),W 63-49,,12,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,0,0,0,1,0,0,1,3,3,-0.6,A,1,1,galin-smith-1,Galin Smith,2021
+17,111,17,2021-01-27,Maryland,,Wisconsin,REG (Conf),L 55-61,,10,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,1,3,2,0.5,H,0,1,galin-smith-1,Galin Smith,2021
+18,112,18,2021-02-02,Maryland,,Purdue,REG (Conf),W 61-60,*,14,0,0,,0,0,0,0,,,2,4,0.5,0,0,0,0,1,0,2,4,2,-1.4,H,1,1,galin-smith-1,Galin Smith,2021
+19,113,19,2021-02-05,Maryland,@,Penn State,REG (Conf),L 50-55,*,8,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,1,2,3,0,0,0,3,0,2,-1.1,A,0,1,galin-smith-1,Galin Smith,2021
+20,114,20,2021-02-08,Maryland,,Ohio State,REG (Conf),L 65-73,*,17,3,4,0.75,0,0,3,4,0.75,0.75,1,1,1.0,1,2,3,0,0,2,1,3,7,5.9,H,0,1,galin-smith-1,Galin Smith,2021
+21,115,21,2021-02-14,Maryland,,Minnesota,REG (Conf),W 72-59,,21,4,4,1.0,0,0,4,4,1.0,1.0,2,2,1.0,2,3,5,4,0,2,4,2,10,10.5,H,1,1,galin-smith-1,Galin Smith,2021
+22,116,22,2021-02-16,Maryland,,Nebraska,REG (Conf),W 64-50,,11,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,2,3,0,1,0,1,0,0,-0.1,H,1,1,galin-smith-1,Galin Smith,2021
+23,117,23,2021-02-17,Maryland,,Nebraska,REG (Conf),W 79-71,,11,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,2,0,2,0.4,H,1,1,galin-smith-1,Galin Smith,2021
+24,118,24,2021-02-21,Maryland,@,Rutgers,REG (Conf),W 68-59,,15,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,4,4,0,0,0,0,0,2,2.2,A,1,1,galin-smith-1,Galin Smith,2021
+25,119,25,2021-02-28,Maryland,,Michigan State,REG (Conf),W 73-55,,11,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,0,2,2,0,0,2,1,4,4,1.7,H,1,1,galin-smith-1,Galin Smith,2021
+26,120,26,2021-03-03,Maryland,@,Northwestern,REG (Conf),L 55-60,,7,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,A,0,1,galin-smith-1,Galin Smith,2021
+27,121,27,2021-03-07,Maryland,,Penn State,REG (Conf),L 61-66,*,15,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,3,3,0,0,1,0,3,4,2.4,H,0,1,galin-smith-1,Galin Smith,2021
+28,122,28,2021-03-11,Maryland,N,Michigan State,CTOURN,W 68-57,,9,0,5,0.0,0,0,0,5,0.0,0.0,0,2,0.0,2,0,2,0,0,0,0,4,0,-4.5,N,1,0,galin-smith-1,Galin Smith,2021
+29,123,29,2021-03-12,Maryland,N,Michigan,CTOURN,L 66-79,,13,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,0,0,0,0,0,1,0,1,4,4.0,N,0,0,galin-smith-1,Galin Smith,2021
+30,124,30,2021-03-20,Maryland,N,Connecticut,ROUND-64,W 63-54,,7,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,0,1,1,1,-0.8,N,1,0,galin-smith-1,Galin Smith,2021
+31,125,31,2021-03-22,Maryland,N,Alabama,ROUND-32,L 77-96,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,N,0,0,galin-smith-1,Galin Smith,2021

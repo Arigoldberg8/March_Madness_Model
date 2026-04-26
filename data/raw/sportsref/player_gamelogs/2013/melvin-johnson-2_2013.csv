@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,VCU,,Florida Gulf Coast,REG (Non-Conf),W 80-57,,12,4,9,0.444,0,3,0.0,4,6,0.667,0.444,1,3,0.333,2,0,2,1,0,0,0,0,9,5.6,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+2,2,2,2012-11-13,VCU,,Wichita State,REG (Non-Conf),L 51-53,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,2,0.0,0,0,0,0,1,0,0,0,0,-0.5,H,0,1,melvin-johnson-2,Melvin Johnson,2013
+3,3,3,2012-11-17,VCU,@,Winthrop,REG (Non-Conf),W 90-54,,18,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,2,1.0,1,1,2,1,1,0,1,3,12,9.2,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+4,4,4,2012-11-22,VCU,N,Memphis,REG (Non-Conf),W 78-65,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,1,0,0,0,2,2,1.2,N,1,1,melvin-johnson-2,Melvin Johnson,2013
+5,5,5,2012-11-23,VCU,N,Duke,REG (Non-Conf),L 58-67,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,0,1,melvin-johnson-2,Melvin Johnson,2013
+6,6,6,2012-11-24,VCU,N,Missouri,REG (Non-Conf),L 65-68,,11,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,1,1.0,0,0,0,0,0,0,1,0,5,-0.1,N,0,1,melvin-johnson-2,Melvin Johnson,2013
+7,7,8,2012-12-01,VCU,,Belmont,REG (Non-Conf),W 75-65,,22,5,11,0.455,0,4,0.0,5,7,0.714,0.455,1,2,0.5,0,2,2,0,1,0,3,0,11,3.5,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+8,8,9,2012-12-07,VCU,@,Old Dominion,REG (Non-Conf),W 83-70,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,2,2,0,-3.2,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+9,9,10,2012-12-15,VCU,,Alabama,REG (Non-Conf),W 73-54,,16,4,5,0.8,3,4,0.75,1,1,1.0,1.1,1,2,0.5,0,0,0,0,1,0,0,1,12,10.3,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+10,10,11,2012-12-18,VCU,,Western Kentucky,REG (Non-Conf),W 76-44,,21,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,2,2,5,1,0,2,1,4,3.3,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+11,11,12,2012-12-21,VCU,,Longwood,REG (Non-Conf),W 93-56,,23,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,0,,0,2,2,2,1,0,2,1,9,4.9,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+12,12,13,2012-12-29,VCU,,Fairleigh Dickinson,REG (Non-Conf),W 96-67,,20,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,2,1.0,1,1,2,2,3,0,2,1,9,7.6,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+13,13,14,2013-01-02,VCU,@,East Tennessee State,REG (Non-Conf),W 109-58,,21,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,5,4,9,0,1,0,2,2,10,8.2,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+14,14,15,2013-01-05,VCU,,Lehigh,REG (Non-Conf),W 59-55,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,2,3,1,0,0,2,1,4,1.2,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+15,15,16,2013-01-09,VCU,,Dayton,REG (Conf),W 74-62,,17,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,0,,1,1,2,1,0,0,1,3,8,2.8,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+16,16,17,2013-01-12,VCU,@,St. Bonaventure,REG (Conf),W 72-65,,10,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,0,0,0,0,2,4,1.9,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+17,17,18,2013-01-17,VCU,,Saint Joseph's,REG (Conf),W 92-86 (OT),,14,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,1,1,1,1,0,0,1,4,2.2,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+18,18,19,2013-01-19,VCU,@,Duquesne,REG (Conf),W 90-63,,22,4,12,0.333,0,4,0.0,4,8,0.5,0.333,0,0,,4,0,4,1,1,0,0,1,8,5.3,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+19,19,20,2013-01-24,VCU,@,Richmond,REG (Conf),L 74-86 (OT),,18,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,2,1.0,0,1,1,0,1,0,0,1,12,10.0,A,0,1,melvin-johnson-2,Melvin Johnson,2013
+20,20,21,2013-01-26,VCU,,La Salle,REG (Conf),L 61-69,,16,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,H,0,1,melvin-johnson-2,Melvin Johnson,2013
+21,21,22,2013-01-30,VCU,@,Rhode Island,REG (Conf),W 70-64,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,1,1,3,1,0,2,1,4,1.6,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+22,22,23,2013-02-02,VCU,,Fordham,REG (Conf),W 81-65,,25,1,8,0.125,1,3,0.333,0,5,0.0,0.188,4,4,1.0,1,0,1,3,2,0,3,2,7,2.8,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+23,23,24,2013-02-09,VCU,@,Charlotte,REG (Conf),W 68-61,,22,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,0,1,1,0,0,3,2,7,2.3,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+24,24,25,2013-02-14,VCU,,Massachusetts,REG (Conf),W 86-68,,18,8,13,0.615,2,4,0.5,6,9,0.667,0.692,0,0,,2,0,2,1,1,0,0,0,18,15.2,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+25,25,26,2013-02-16,VCU,,George Washington,REG (Conf),W 84-57,,25,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,0,3,3,1,1,0,3,0,11,6.3,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+26,26,27,2013-02-19,VCU,@,Saint Louis,REG (Conf),L 62-76,,20,3,5,0.6,2,3,0.667,1,2,0.5,0.8,2,2,1.0,0,0,0,3,1,0,0,3,10,9.6,A,0,1,melvin-johnson-2,Melvin Johnson,2013
+27,27,28,2013-02-23,VCU,@,Xavier,REG (Conf),W 75-71,,16,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,1,1,2,0,0,0,2,1,3,-2.9,A,1,1,melvin-johnson-2,Melvin Johnson,2013
+28,28,29,2013-03-02,VCU,,Butler,REG (Conf),W 84-52,,21,2,8,0.25,1,2,0.5,1,6,0.167,0.313,2,2,1.0,0,0,0,2,2,0,0,3,7,4.4,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+29,29,30,2013-03-06,VCU,,Richmond,REG (Conf),W 93-82,,21,4,10,0.4,1,2,0.5,3,8,0.375,0.45,2,2,1.0,2,2,4,1,1,0,0,3,11,8.1,H,1,1,melvin-johnson-2,Melvin Johnson,2013
+30,30,31,2013-03-10,VCU,@,Temple,REG (Conf),L 76-84,,19,5,8,0.625,3,3,1.0,2,5,0.4,0.813,0,0,,0,0,0,0,1,0,0,2,13,9.6,A,0,1,melvin-johnson-2,Melvin Johnson,2013
+31,31,32,2013-03-15,VCU,N,Saint Joseph's,CTOURN,W 82-79,,19,5,11,0.455,1,4,0.25,4,7,0.571,0.5,1,2,0.5,2,0,2,2,1,0,0,1,12,9.3,N,1,0,melvin-johnson-2,Melvin Johnson,2013
+32,32,33,2013-03-16,VCU,N,Massachusetts,CTOURN,W 71-62,,15,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,1,1,0,1,2,2,-1.9,N,1,0,melvin-johnson-2,Melvin Johnson,2013
+33,33,34,2013-03-17,VCU,N,Saint Louis,CTOURN,L 56-62,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,0,1,2,-0.1,N,0,0,melvin-johnson-2,Melvin Johnson,2013
+34,34,35,2013-03-21,VCU,N,Akron,ROUND-64,W 88-42,,23,4,10,0.4,0,2,0.0,4,8,0.5,0.4,2,2,1.0,1,1,2,1,2,0,1,1,10,6.9,N,1,0,melvin-johnson-2,Melvin Johnson,2013
+35,35,36,2013-03-23,VCU,N,Michigan,ROUND-32,L 53-78,,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,1,2,0,1,0,1,2,2,-0.2,N,0,0,melvin-johnson-2,Melvin Johnson,2013

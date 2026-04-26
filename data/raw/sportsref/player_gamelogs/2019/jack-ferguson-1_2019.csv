@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2018-11-06,Colgate,@,NJIT,REG (Non-Conf),L 78-81 (OT),,23,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,2,0.0,1,1,2,0,0,0,2,1,6,1.1,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+2,32,2,2018-11-09,Colgate,,Monmouth,REG (Non-Conf),W 87-74,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,2,3,0,-2.9,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+3,33,3,2018-11-11,Colgate,@,Cornell,REG (Non-Conf),W 73-57,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+4,34,4,2018-11-14,Colgate,,Nazareth,REG (Non-Conf),W 86-68,,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,0,0,0,2,3,0.5,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+5,35,5,2018-11-19,Colgate,,Binghamton,REG (Non-Conf),W 76-68,,15,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,0,0,1,0,1,1,2,11,6.6,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+6,36,6,2018-11-21,Colgate,@,Syracuse,REG (Non-Conf),L 56-77,,17,2,8,0.25,2,8,0.25,0,0,,0.375,0,0,,1,4,5,0,1,0,0,3,6,2.9,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+7,37,7,2018-11-24,Colgate,@,Siena,REG (Non-Conf),W 84-79,,22,5,7,0.714,3,3,1.0,2,4,0.5,0.929,9,10,0.9,0,1,1,1,1,0,0,3,22,19.5,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+8,38,8,2018-11-30,Colgate,@,South Florida,REG (Non-Conf),L 63-73,,14,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,1,1,2,0,0,1,4,3,-1.7,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+9,39,9,2018-12-02,Colgate,@,Florida Gulf Coast,REG (Non-Conf),W 74-56,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,2,0,1,0,0,3,4.1,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+10,40,10,2018-12-05,Colgate,@,Columbia,REG (Non-Conf),W 64-62,,17,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,3,3,3,2,0,1,0,5,7.0,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+11,41,11,2018-12-08,Colgate,@,Penn State,REG (Non-Conf),L 65-76,,18,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,1,1,0,0,0,0,1,8,4.2,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+12,42,12,2018-12-15,Colgate,,Marist,REG (Non-Conf),W 82-66,,23,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,3,4,2,0,0,1,2,3,1.1,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+13,43,13,2018-12-29,Colgate,@,Pittsburgh,REG (Non-Conf),L 54-68,,15,2,7,0.286,2,5,0.4,0,2,0.0,0.429,2,2,1.0,3,0,3,1,1,0,2,1,8,5.3,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+14,44,14,2019-01-03,Colgate,@,Navy,REG (Conf),L 66-72,,16,1,7,0.143,1,7,0.143,0,0,,0.214,0,0,,0,1,1,1,0,0,0,0,3,-0.5,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+15,45,15,2019-01-06,Colgate,,American,REG (Conf),W 73-69,,16,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,3,0.667,0,1,1,1,1,0,1,0,11,8.6,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+16,46,16,2019-01-09,Colgate,@,Bucknell,REG (Conf),L 81-84,,12,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,0,0,0,2,1,5,1.6,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+17,47,17,2019-01-12,Colgate,,Lehigh,REG (Conf),W 91-78,,6,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+18,48,18,2019-01-16,Colgate,@,Army,REG (Conf),L 81-91,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,1,0.0,1,1,2,0,2,0,0,1,2,1.8,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+19,49,19,2019-01-19,Colgate,@,Boston University,REG (Conf),W 77-56,,14,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,0,0,2,1,0,0,1,9,9.4,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+20,50,20,2019-01-23,Colgate,,Lafayette,REG (Conf),W 57-47,,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,4,1.0,0,1,1,0,0,0,1,0,8,6.0,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+21,51,21,2019-01-26,Colgate,@,Loyola (MD),REG (Conf),L 72-79 (OT),,21,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,0,1,2,0,0,2,1,3,0.3,A,0,1,jack-ferguson-1,Jack Ferguson,2019
+22,52,22,2019-01-30,Colgate,,Army,REG (Conf),W 76-56,,20,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,0,2,2,0,1,0,2,2,13,8.2,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+23,53,23,2019-02-02,Colgate,,Boston University,REG (Conf),L 68-76,,29,4,7,0.571,3,6,0.5,1,1,1.0,0.786,3,3,1.0,0,2,2,1,0,0,1,1,14,10.6,H,0,1,jack-ferguson-1,Jack Ferguson,2019
+24,54,24,2019-02-04,Colgate,@,Lehigh,REG (Conf),W 84-62,,25,3,11,0.273,3,9,0.333,0,2,0.0,0.409,0,1,0.0,0,4,4,2,1,1,1,1,9,5.0,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+25,55,25,2019-02-09,Colgate,,Loyola (MD),REG (Conf),W 75-72,,14,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,2,1,3,2,0,1,1,0,7,7.8,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+26,56,26,2019-02-13,Colgate,@,Holy Cross,REG (Conf),W 74-70,,21,3,6,0.5,2,4,0.5,1,2,0.5,0.667,4,5,0.8,0,3,3,3,0,0,2,1,12,9.2,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+27,57,27,2019-02-16,Colgate,@,American,REG (Conf),W 83-81 (OT),,21,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,3,0.667,0,1,1,0,3,0,1,1,9,6.1,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+28,58,28,2019-02-19,Colgate,,Bucknell,REG (Conf),W 75-64,,19,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,1,0,0,0,2,5,4.6,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+29,59,29,2019-02-23,Colgate,,Navy,REG (Conf),W 93-71,,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,6,6,1,1,0,0,2,5,4.3,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+30,60,30,2019-02-27,Colgate,,Holy Cross,REG (Conf),W 79-59,,17,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,1,3,4,1,2,0,1,0,13,11.3,H,1,1,jack-ferguson-1,Jack Ferguson,2019
+31,61,31,2019-03-02,Colgate,@,Lafayette,REG (Conf),W 76-70,,19,3,6,0.5,3,5,0.6,0,1,0.0,0.75,2,2,1.0,0,1,1,2,0,0,2,0,11,7.7,A,1,1,jack-ferguson-1,Jack Ferguson,2019
+32,62,32,2019-03-07,Colgate,,Boston University,CTOURN,W 81-69,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,0,0,1,0,1,3,0.9,H,1,0,jack-ferguson-1,Jack Ferguson,2019
+33,63,33,2019-03-10,Colgate,,Navy,CTOURN,W 80-70,,18,5,7,0.714,3,5,0.6,2,2,1.0,0.929,6,8,0.75,0,3,3,0,3,0,1,0,19,18.2,H,1,0,jack-ferguson-1,Jack Ferguson,2019
+34,64,34,2019-03-13,Colgate,,Bucknell,CTOURN,W 94-80,,16,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,1,1,2,2,1,0,2,0,5,6.1,H,1,0,jack-ferguson-1,Jack Ferguson,2019
+35,65,35,2019-03-22,Colgate,N,Tennessee,ROUND-64,L 70-77,,27,2,7,0.286,2,7,0.286,0,0,,0.429,1,2,0.5,1,6,7,0,2,0,0,4,7,5.4,N,0,0,jack-ferguson-1,Jack Ferguson,2019

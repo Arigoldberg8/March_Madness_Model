@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2018-11-06,Florida State,,Florida,REG (Non-Conf),W 81-60,*,27,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,3,0.667,3,6,9,0,1,0,2,1,9,8.8,H,1,1,terance-mann-1,Terance Mann,2019
+2,105,2,2018-11-11,Florida State,@,Tulane,REG (Non-Conf),W 80-69,*,36,9,17,0.529,1,2,0.5,8,15,0.533,0.559,2,3,0.667,4,6,10,3,1,0,0,0,21,20.0,A,1,1,terance-mann-1,Terance Mann,2019
+3,106,3,2018-11-19,Florida State,,Canisius,REG (Non-Conf),W 93-61,*,28,4,9,0.444,1,1,1.0,3,8,0.375,0.5,3,3,1.0,3,2,5,4,0,0,2,0,12,10.8,H,1,1,terance-mann-1,Terance Mann,2019
+4,107,4,2018-11-22,Florida State,N,UAB,REG (Non-Conf),W 81-63,*,26,5,5,1.0,1,1,1.0,4,4,1.0,1.1,6,7,0.857,1,0,1,3,0,0,2,1,17,15.5,N,1,1,terance-mann-1,Terance Mann,2019
+5,108,5,2018-11-23,Florida State,N,Louisiana State,REG (Non-Conf),W 79-76 (OT),*,36,3,10,0.3,0,1,0.0,3,9,0.333,0.3,3,4,0.75,7,5,12,2,0,1,2,3,9,8.1,N,1,1,terance-mann-1,Terance Mann,2019
+6,109,6,2018-11-25,Florida State,N,Villanova,REG (Non-Conf),L 60-66,*,31,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,4,1,5,1,0,0,3,3,9,6.3,N,0,1,terance-mann-1,Terance Mann,2019
+7,110,7,2018-11-28,Florida State,,Purdue,REG (Non-Conf),W 73-72,*,35,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,3,1.0,2,6,8,1,0,2,3,2,9,7.5,H,1,1,terance-mann-1,Terance Mann,2019
+8,111,8,2018-12-03,Florida State,,Troy,REG (Non-Conf),W 83-67,*,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,7,8,3,1,0,2,3,3,1.9,H,1,1,terance-mann-1,Terance Mann,2019
+9,112,9,2018-12-08,Florida State,N,Connecticut,REG (Non-Conf),W 79-71,*,34,7,13,0.538,1,4,0.25,6,9,0.667,0.577,5,7,0.714,2,7,9,1,1,0,6,2,20,11.3,N,1,1,terance-mann-1,Terance Mann,2019
+10,113,10,2018-12-17,Florida State,,Southeast Missouri State,REG (Non-Conf),W 85-68,*,30,1,5,0.2,0,1,0.0,1,4,0.25,0.2,3,6,0.5,4,2,6,2,0,0,2,2,5,2.7,H,1,1,terance-mann-1,Terance Mann,2019
+11,114,11,2018-12-19,Florida State,,North Florida,REG (Non-Conf),W 95-81,*,26,8,12,0.667,0,2,0.0,8,10,0.8,0.667,1,1,1.0,0,1,1,2,1,0,2,4,17,10.9,H,1,1,terance-mann-1,Terance Mann,2019
+12,115,12,2018-12-22,Florida State,N,Saint Louis,REG (Non-Conf),W 81-59,*,31,6,9,0.667,1,1,1.0,5,8,0.625,0.722,4,4,1.0,3,4,7,2,1,0,1,0,17,17.8,N,1,1,terance-mann-1,Terance Mann,2019
+13,116,13,2019-01-01,Florida State,,Winthrop,REG (Non-Conf),W 87-76,*,35,10,11,0.909,2,3,0.667,8,8,1.0,1.0,0,3,0.0,4,3,7,2,1,2,2,2,22,21.8,H,1,1,terance-mann-1,Terance Mann,2019
+14,117,14,2019-01-05,Florida State,@,Virginia,REG (Conf),L 52-65,,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,1,1,1,3,0,-2.0,A,0,1,terance-mann-1,Terance Mann,2019
+15,118,15,2019-01-09,Florida State,,Miami (FL),REG (Conf),W 68-62,*,28,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,2,4,6,2,1,0,2,2,7,6.9,H,1,1,terance-mann-1,Terance Mann,2019
+16,119,16,2019-01-12,Florida State,,Duke,REG (Conf),L 78-80,*,35,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,1,1.0,3,2,5,4,1,1,3,2,9,7.0,H,0,1,terance-mann-1,Terance Mann,2019
+17,120,17,2019-01-14,Florida State,@,Pittsburgh,REG (Conf),L 62-75,*,27,3,8,0.375,0,2,0.0,3,6,0.5,0.375,3,4,0.75,2,3,5,1,0,0,2,5,9,3.2,A,0,1,terance-mann-1,Terance Mann,2019
+18,121,18,2019-01-20,Florida State,@,Boston College,REG (Conf),L 82-87,*,31,4,11,0.364,2,4,0.5,2,7,0.286,0.455,4,5,0.8,6,2,8,2,1,0,3,4,14,10.1,A,0,1,terance-mann-1,Terance Mann,2019
+19,122,19,2019-01-22,Florida State,,Clemson,REG (Conf),W 77-68,*,32,2,7,0.286,1,3,0.333,1,4,0.25,0.357,4,4,1.0,3,5,8,5,0,0,0,1,9,11.6,H,1,1,terance-mann-1,Terance Mann,2019
+20,123,20,2019-01-27,Florida State,@,Miami (FL),REG (Conf),W 78-66,*,34,4,8,0.5,2,2,1.0,2,6,0.333,0.625,0,0,,3,7,10,4,0,0,2,3,10,9.8,A,1,1,terance-mann-1,Terance Mann,2019
+21,124,21,2019-02-02,Florida State,,Georgia Tech,REG (Conf),W 59-49,*,34,3,5,0.6,0,1,0.0,3,4,0.75,0.6,6,8,0.75,3,4,7,1,1,0,3,1,12,10.5,H,1,1,terance-mann-1,Terance Mann,2019
+22,125,22,2019-02-05,Florida State,@,Syracuse,REG (Conf),W 80-62,*,35,8,9,0.889,2,2,1.0,6,7,0.857,1.0,4,4,1.0,1,8,9,3,2,0,4,4,22,20.5,A,1,1,terance-mann-1,Terance Mann,2019
+23,126,23,2019-02-09,Florida State,,Louisville,REG (Conf),W 80-75 (OT),*,40,4,6,0.667,3,4,0.75,1,2,0.5,0.917,9,11,0.818,1,3,4,0,0,0,0,2,20,17.4,H,1,1,terance-mann-1,Terance Mann,2019
+24,127,24,2019-02-13,Florida State,,Wake Forest,REG (Conf),W 88-66,*,25,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,2,3,5,6,0,1,1,3,7,10.4,H,1,1,terance-mann-1,Terance Mann,2019
+25,128,25,2019-02-16,Florida State,@,Georgia Tech,REG (Conf),W 69-47,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,3,4,0.75,2,6,8,1,2,0,0,1,7,9.4,A,1,1,terance-mann-1,Terance Mann,2019
+26,129,26,2019-02-19,Florida State,@,Clemson,REG (Conf),W 77-64,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,2,1.0,2,3,5,4,1,0,1,2,9,7.5,A,1,1,terance-mann-1,Terance Mann,2019
+27,130,27,2019-02-23,Florida State,@,North Carolina,REG (Conf),L 59-77,*,36,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,1,3,4,6,1,1,1,1,10,13.5,A,0,1,terance-mann-1,Terance Mann,2019
+28,131,28,2019-02-25,Florida State,,Notre Dame,REG (Conf),W 68-61,*,35,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,4,2,6,3,0,0,2,3,8,6.3,H,1,1,terance-mann-1,Terance Mann,2019
+29,132,29,2019-03-02,Florida State,,NC State,REG (Conf),W 78-73,*,29,3,9,0.333,1,1,1.0,2,8,0.25,0.389,4,6,0.667,3,1,4,3,0,0,0,3,11,8.4,H,1,1,terance-mann-1,Terance Mann,2019
+30,133,30,2019-03-05,Florida State,,Virginia Tech,REG (Conf),W 73-64 (OT),*,40,4,10,0.4,2,7,0.286,2,3,0.667,0.5,4,4,1.0,1,5,6,4,2,0,1,2,14,13.8,H,1,1,terance-mann-1,Terance Mann,2019
+31,134,31,2019-03-09,Florida State,@,Wake Forest,REG (Conf),W 65-57,*,32,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,2,5,7,2,1,0,1,4,8,6.9,A,1,1,terance-mann-1,Terance Mann,2019
+32,135,32,2019-03-14,Florida State,N,Virginia Tech,CTOURN,W 65-63 (OT),*,40,5,9,0.556,0,3,0.0,5,6,0.833,0.556,0,0,,2,7,9,4,0,0,1,1,10,10.6,N,1,0,terance-mann-1,Terance Mann,2019
+33,136,33,2019-03-15,Florida State,N,Virginia,CTOURN,W 69-59,*,31,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,3,3,2,0,0,3,3,2,-1.6,N,1,0,terance-mann-1,Terance Mann,2019
+34,137,34,2019-03-16,Florida State,N,Duke,CTOURN,L 63-73,*,31,3,9,0.333,2,3,0.667,1,6,0.167,0.444,4,4,1.0,5,3,8,1,1,0,3,1,12,9.6,N,0,0,terance-mann-1,Terance Mann,2019
+35,138,35,2019-03-21,Florida State,N,Vermont,ROUND-64,W 76-69,*,31,6,8,0.75,0,1,0.0,6,7,0.857,0.75,7,8,0.875,1,7,8,1,1,1,0,3,19,19.4,N,1,0,terance-mann-1,Terance Mann,2019
+36,139,36,2019-03-23,Florida State,N,Murray State,ROUND-32,W 90-62,*,30,7,11,0.636,0,1,0.0,7,10,0.7,0.636,4,5,0.8,3,5,8,6,0,0,2,2,18,17.7,N,1,0,terance-mann-1,Terance Mann,2019
+37,140,37,2019-03-28,Florida State,N,Gonzaga,ROUND-16,L 58-72,*,39,1,8,0.125,0,4,0.0,1,4,0.25,0.125,3,4,0.75,2,5,7,3,2,2,0,4,5,6.2,N,0,0,terance-mann-1,Terance Mann,2019

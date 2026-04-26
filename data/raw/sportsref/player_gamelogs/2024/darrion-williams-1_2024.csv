@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2023-11-08,Texas Tech,,Texas A&M–Commerce,REG (Non-Conf),W 73-46,*,26,5,7,0.714,2,4,0.5,3,3,1.0,0.857,2,2,1.0,1,6,7,1,1,1,3,0,14,13.0,H,1,1,darrion-williams-1,Darrion Williams,2024
+2,35,2,2023-11-12,Texas Tech,,San Jose State,REG (Non-Conf),W 56-42,*,33,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,3,3,6,2,2,0,1,1,9,10.0,H,1,1,darrion-williams-1,Darrion Williams,2024
+3,36,3,2023-11-16,Texas Tech,,Texas A&M–Corpus Christi,REG (Non-Conf),W 73-64,*,28,2,6,0.333,0,4,0.0,2,2,1.0,0.333,6,7,0.857,4,10,14,0,1,1,1,2,10,11.9,H,1,1,darrion-williams-1,Darrion Williams,2024
+4,37,4,2023-11-22,Texas Tech,N,Villanova,REG (Non-Conf),L 69-85,*,28,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,1,2,1,2,0,3,2,5,2.2,N,0,1,darrion-williams-1,Darrion Williams,2024
+5,38,5,2023-11-23,Texas Tech,N,Northern Iowa,REG (Non-Conf),W 72-70,*,32,3,9,0.333,0,3,0.0,3,6,0.5,0.333,4,4,1.0,2,7,9,1,2,3,1,5,10,10.2,N,1,1,darrion-williams-1,Darrion Williams,2024
+6,39,6,2023-11-24,Texas Tech,N,Michigan,REG (Non-Conf),W 73-57,*,38,5,9,0.556,3,5,0.6,2,4,0.5,0.722,0,0,,5,5,10,1,0,0,0,2,13,13.6,N,1,1,darrion-williams-1,Darrion Williams,2024
+7,40,7,2023-11-30,Texas Tech,@,Butler,REG (Non-Conf),L 95-103 (OT),*,30,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,1,4,5,3,1,0,0,5,6,7.0,A,0,1,darrion-williams-1,Darrion Williams,2024
+8,41,8,2023-12-06,Texas Tech,,Omaha,REG (Non-Conf),W 87-58,*,30,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,3,3,6,3,0,0,2,2,8,6.6,H,1,1,darrion-williams-1,Darrion Williams,2024
+9,42,9,2023-12-12,Texas Tech,,Oral Roberts,REG (Non-Conf),W 82-76,*,35,4,12,0.333,2,6,0.333,2,6,0.333,0.417,5,6,0.833,3,7,10,2,0,0,1,1,15,12.0,H,1,1,darrion-williams-1,Darrion Williams,2024
+10,43,10,2023-12-16,Texas Tech,N,Vanderbilt,REG (Non-Conf),W 76-54,*,25,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,5,5,1,1,0,5,1,4,-1.3,N,1,1,darrion-williams-1,Darrion Williams,2024
+11,44,11,2023-12-21,Texas Tech,,UT Arlington,REG (Non-Conf),W 77-66,*,33,4,6,0.667,3,3,1.0,1,3,0.333,0.917,3,4,0.75,2,7,9,6,1,0,5,1,14,14.3,H,1,1,darrion-williams-1,Darrion Williams,2024
+12,45,12,2023-12-28,Texas Tech,,Sam Houston State,REG (Non-Conf),W 96-60,*,27,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,1,3,4,6,2,1,0,3,9,13.3,H,1,1,darrion-williams-1,Darrion Williams,2024
+13,46,13,2024-01-01,Texas Tech,,North Alabama,REG (Non-Conf),W 85-57,*,26,1,4,0.25,1,2,0.5,0,2,0.0,0.375,4,4,1.0,0,4,4,4,2,0,2,1,7,8.2,H,1,1,darrion-williams-1,Darrion Williams,2024
+14,47,14,2024-01-06,Texas Tech,@,Texas,REG (Conf),W 78-67,*,32,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,1,1.0,0,3,3,2,2,1,1,0,7,7.3,A,1,1,darrion-williams-1,Darrion Williams,2024
+15,48,15,2024-01-09,Texas Tech,,Oklahoma State,REG (Conf),W 90-73,*,33,6,12,0.5,0,1,0.0,6,11,0.545,0.5,2,3,0.667,3,7,10,4,0,0,0,1,14,14.2,H,1,1,darrion-williams-1,Darrion Williams,2024
+16,49,16,2024-01-13,Texas Tech,,Kansas State,REG (Conf),W 60-59,*,33,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,3,1.0,3,3,6,2,1,0,2,2,10,9.6,H,1,1,darrion-williams-1,Darrion Williams,2024
+17,50,17,2024-01-17,Texas Tech,@,Houston,REG (Conf),L 54-77,*,28,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,0,4,4,2,0,1,2,4,5,-0.8,A,0,1,darrion-williams-1,Darrion Williams,2024
+18,51,18,2024-01-20,Texas Tech,,Brigham Young,REG (Conf),W 85-78,*,34,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,2,1.0,2,6,8,3,1,0,1,1,7,9.2,H,1,1,darrion-williams-1,Darrion Williams,2024
+19,52,19,2024-01-27,Texas Tech,@,Oklahoma,REG (Conf),W 85-84,*,34,2,10,0.2,0,3,0.0,2,7,0.286,0.2,3,4,0.75,4,7,11,5,0,0,1,3,7,6.6,A,1,1,darrion-williams-1,Darrion Williams,2024
+20,53,20,2024-01-30,Texas Tech,@,TCU,REG (Conf),L 78-85,*,29,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,1,4,5,2,0,1,0,4,6,5.7,A,0,1,darrion-williams-1,Darrion Williams,2024
+21,54,21,2024-02-03,Texas Tech,,Cincinnati,REG (Conf),L 72-75,*,37,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,4,3,7,2,2,0,3,1,7,8.0,H,0,1,darrion-williams-1,Darrion Williams,2024
+22,55,22,2024-02-06,Texas Tech,@,Baylor,REG (Conf),L 73-79,*,37,6,9,0.667,2,3,0.667,4,6,0.667,0.778,3,4,0.75,0,2,2,2,0,0,2,4,17,11.1,A,0,1,darrion-williams-1,Darrion Williams,2024
+23,56,23,2024-02-10,Texas Tech,,UCF,REG (Conf),W 66-59,*,38,6,11,0.545,0,2,0.0,6,9,0.667,0.545,1,1,1.0,4,9,13,3,1,0,0,3,13,15.1,H,1,1,darrion-williams-1,Darrion Williams,2024
+24,57,24,2024-02-12,Texas Tech,,Kansas,REG (Conf),W 79-50,*,37,12,12,1.0,4,4,1.0,8,8,1.0,1.167,2,2,1.0,1,10,11,3,2,1,1,1,30,33.5,H,1,1,darrion-williams-1,Darrion Williams,2024
+25,58,25,2024-02-17,Texas Tech,@,Iowa State,REG (Conf),L 74-82,*,38,3,5,0.6,2,3,0.667,1,2,0.5,0.8,4,4,1.0,1,10,11,2,2,0,4,4,12,11.2,A,0,1,darrion-williams-1,Darrion Williams,2024
+26,59,26,2024-02-20,Texas Tech,,TCU,REG (Conf),W 82-81,*,33,5,12,0.417,1,2,0.5,4,10,0.4,0.458,3,3,1.0,3,4,7,1,1,0,3,4,14,8.0,H,1,1,darrion-williams-1,Darrion Williams,2024
+27,60,27,2024-02-24,Texas Tech,@,UCF,REG (Conf),L 61-75,*,40,6,14,0.429,1,3,0.333,5,11,0.455,0.464,6,7,0.857,3,8,11,3,1,1,0,1,19,19.1,A,0,1,darrion-williams-1,Darrion Williams,2024
+28,61,28,2024-02-27,Texas Tech,,Texas,REG (Conf),L 69-81,*,35,4,9,0.444,2,3,0.667,2,6,0.333,0.556,6,6,1.0,3,5,8,1,2,0,2,3,16,14.4,H,0,1,darrion-williams-1,Darrion Williams,2024
+29,62,29,2024-03-02,Texas Tech,@,West Virginia,REG (Conf),W 81-70,*,40,6,10,0.6,3,4,0.75,3,6,0.5,0.75,2,2,1.0,2,7,9,4,2,0,1,2,17,18.9,A,1,1,darrion-williams-1,Darrion Williams,2024
+30,63,30,2024-03-05,Texas Tech,@,Oklahoma State,REG (Conf),W 75-58,*,34,8,12,0.667,2,3,0.667,6,9,0.667,0.75,0,0,,1,8,9,1,5,0,2,3,18,18.4,A,1,1,darrion-williams-1,Darrion Williams,2024
+31,64,31,2024-03-09,Texas Tech,,Baylor,REG (Conf),W 78-68,*,25,6,7,0.857,1,1,1.0,5,6,0.833,0.929,3,5,0.6,1,10,11,2,1,0,2,4,16,15.2,H,1,1,darrion-williams-1,Darrion Williams,2024
+32,65,32,2024-03-14,Texas Tech,N,Brigham Young,CTOURN,W 81-67,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,4,4,1,0,0,3,2,7,2.1,N,1,0,darrion-williams-1,Darrion Williams,2024
+33,66,34,2024-03-21,Texas Tech,N,NC State,ROUND-64,L 67-80,*,40,4,11,0.364,2,6,0.333,2,5,0.4,0.455,0,0,,1,6,7,6,0,0,0,4,10,9.0,N,0,0,darrion-williams-1,Darrion Williams,2024

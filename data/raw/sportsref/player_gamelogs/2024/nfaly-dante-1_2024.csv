@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,1,2023-11-06,Oregon,N,Georgia,REG (Non-Conf),W 82-71,*,27,6,12,0.5,0,0,6,12,0.5,0.5,4,10,0.4,6,15,21,2,2,0,3,2,16,15.9,N,1,1,nfaly-dante-1,N'Faly Dante,2024
+2,83,16,2024-01-13,Oregon,,California,REG (Conf),W 80-73,,17,3,8,0.375,0,0,3,8,0.375,0.375,2,4,0.5,0,2,2,0,0,1,1,3,8,1.9,H,1,1,nfaly-dante-1,N'Faly Dante,2024
+3,84,17,2024-01-18,Oregon,@,Colorado,REG (Conf),L 70-86,*,19,3,6,0.5,0,0,3,6,0.5,0.5,1,3,0.333,1,4,5,1,3,1,2,3,7,6.3,A,0,1,nfaly-dante-1,N'Faly Dante,2024
+4,85,18,2024-01-21,Oregon,@,Utah,REG (Conf),L 77-80,*,29,10,15,0.667,0,0,10,15,0.667,0.667,3,5,0.6,5,5,10,6,1,2,1,0,23,26.3,A,0,1,nfaly-dante-1,N'Faly Dante,2024
+5,86,19,2024-01-25,Oregon,,Arizona State,REG (Conf),W 80-61,*,30,6,8,0.75,0,0,6,8,0.75,0.75,4,4,1.0,1,5,6,1,2,3,4,2,16,15.0,H,1,1,nfaly-dante-1,N'Faly Dante,2024
+6,87,20,2024-01-27,Oregon,,Arizona,REG (Conf),L 78-87,*,34,8,11,0.727,0,0,8,11,0.727,0.727,3,5,0.6,3,2,5,1,1,2,3,2,19,15.7,H,0,1,nfaly-dante-1,N'Faly Dante,2024
+7,88,21,2024-02-01,Oregon,@,Southern California,REG (Conf),W 78-69,*,30,4,6,0.667,0,0,4,6,0.667,0.667,3,3,1.0,1,4,5,1,0,2,2,0,11,10.4,A,1,1,nfaly-dante-1,N'Faly Dante,2024
+8,89,22,2024-02-03,Oregon,@,UCLA,REG (Conf),L 63-71,*,34,6,7,0.857,0,0,6,7,0.857,0.857,4,7,0.571,3,5,8,4,0,1,3,3,16,15.2,A,0,1,nfaly-dante-1,N'Faly Dante,2024
+9,90,23,2024-02-08,Oregon,,Washington,REG (Conf),W 85-80,*,34,5,10,0.5,0,0,5,10,0.5,0.5,5,9,0.556,3,6,9,0,2,3,2,1,15,14.0,H,1,1,nfaly-dante-1,N'Faly Dante,2024
+10,91,24,2024-02-10,Oregon,,Washington State,REG (Conf),L 56-62,*,34,6,10,0.6,0,0,6,10,0.6,0.6,3,4,0.75,5,8,13,1,4,3,1,2,15,20.9,H,0,1,nfaly-dante-1,N'Faly Dante,2024
+11,92,25,2024-02-17,Oregon,@,Oregon State,REG (Conf),W 60-58,*,30,9,13,0.692,0,0,9,13,0.692,0.692,4,7,0.571,1,5,6,0,0,2,3,1,22,15.5,A,1,1,nfaly-dante-1,N'Faly Dante,2024
+12,93,26,2024-02-22,Oregon,@,Stanford,REG (Conf),W 78-65,*,31,6,8,0.75,0,0,6,8,0.75,0.75,1,1,1.0,1,10,11,2,1,0,2,1,13,13.5,A,1,1,nfaly-dante-1,N'Faly Dante,2024
+13,94,27,2024-02-24,Oregon,@,California,REG (Conf),L 64-69,*,32,6,9,0.667,0,0,6,9,0.667,0.667,3,4,0.75,3,6,9,0,1,3,3,4,15,13.1,A,0,1,nfaly-dante-1,N'Faly Dante,2024
+14,95,28,2024-02-28,Oregon,,Oregon State,REG (Conf),W 78-71,*,33,5,8,0.625,0,0,5,8,0.625,0.625,1,2,0.5,1,6,7,0,1,2,6,3,11,4.7,H,1,1,nfaly-dante-1,N'Faly Dante,2024
+15,96,29,2024-03-02,Oregon,@,Arizona,REG (Conf),L 83-103,*,32,8,11,0.727,0,0,8,11,0.727,0.727,0,0,,3,7,10,1,1,1,1,0,16,17.1,A,0,1,nfaly-dante-1,N'Faly Dante,2024
+16,97,30,2024-03-07,Oregon,,Colorado,REG (Conf),L 75-79,*,36,10,10,1.0,0,0,10,10,1.0,1.0,0,2,0.0,4,8,12,4,3,5,1,2,20,28.9,H,0,1,nfaly-dante-1,N'Faly Dante,2024
+17,98,31,2024-03-09,Oregon,,Utah,REG (Conf),W 66-65,*,35,8,9,0.889,0,0,8,9,0.889,0.889,3,6,0.5,4,8,12,1,4,1,1,4,19,22.7,H,1,1,nfaly-dante-1,N'Faly Dante,2024
+18,99,32,2024-03-14,Oregon,N,UCLA,CTOURN,W 68-66,*,33,8,11,0.727,0,0,8,11,0.727,0.727,6,8,0.75,2,4,6,4,2,0,3,3,22,19.9,N,1,0,nfaly-dante-1,N'Faly Dante,2024
+19,100,33,2024-03-15,Oregon,N,Arizona,CTOURN,W 67-59,*,27,5,7,0.714,0,0,5,7,0.714,0.714,4,6,0.667,3,7,10,0,3,4,2,3,14,17.1,N,1,0,nfaly-dante-1,N'Faly Dante,2024
+20,101,34,2024-03-16,Oregon,N,Colorado,CTOURN,W 75-68,*,30,12,12,1.0,0,0,12,12,1.0,1.0,1,1,1.0,2,7,9,1,3,1,1,3,25,27.1,N,1,0,nfaly-dante-1,N'Faly Dante,2024
+21,102,35,2024-03-21,Oregon,N,South Carolina,ROUND-64,W 87-73,*,36,7,9,0.778,0,0,7,9,0.778,0.778,9,15,0.6,2,4,6,2,2,2,3,3,23,20.3,N,1,0,nfaly-dante-1,N'Faly Dante,2024
+22,103,36,2024-03-23,Oregon,N,Creighton,ROUND-32,L 73-86 (2OT),*,48,12,20,0.6,0,0,12,20,0.6,0.6,4,5,0.8,7,13,20,3,2,2,4,2,28,27.9,N,0,0,nfaly-dante-1,N'Faly Dante,2024

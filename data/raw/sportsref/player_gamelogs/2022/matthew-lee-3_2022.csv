@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,53,1,2021-11-09,Saint Peter's,@,VCU,REG (Non-Conf),L 54-57,*,33,2,11,0.182,0,4,0.0,2,7,0.286,0.182,4,4,1.0,0,2,2,3,1,0,3,3,8,0.6,A,0,1,matthew-lee-3,Matthew Lee,2022
+2,54,2,2021-11-13,Saint Peter's,@,St. John's (NY),REG (Non-Conf),L 70-91,*,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,3,1,0,3,2,3,0.2,A,0,1,matthew-lee-3,Matthew Lee,2022
+3,55,3,2021-11-23,Saint Peter's,,LIU,REG (Non-Conf),W 64-62,*,22,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,0,2,2,6,0,0,4,2,2,-2.5,H,1,1,matthew-lee-3,Matthew Lee,2022
+4,56,4,2021-11-27,Saint Peter's,@,Providence,REG (Non-Conf),L 71-85,*,24,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,1,2,4,1,0,0,4,1,2.4,A,0,1,matthew-lee-3,Matthew Lee,2022
+5,57,5,2021-12-03,Saint Peter's,@,Quinnipiac,REG (Conf),W 69-59,*,24,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,2,0,1,4,1,3,-2.1,A,1,1,matthew-lee-3,Matthew Lee,2022
+6,58,10,2022-01-14,Saint Peter's,,Monmouth,REG (Conf),W 67-62,,21,1,10,0.1,1,4,0.25,0,6,0.0,0.15,4,6,0.667,2,0,2,1,0,0,0,3,7,0.5,H,1,1,matthew-lee-3,Matthew Lee,2022
+7,59,11,2022-01-16,Saint Peter's,@,Rider,REG (Conf),W 58-51,,25,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,1,1,4,1,0,3,3,5,0.8,A,1,1,matthew-lee-3,Matthew Lee,2022
+8,60,12,2022-01-18,Saint Peter's,,Canisius,REG (Conf),W 65-57,,17,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,5,0.6,0,1,1,2,0,0,0,0,5,4.9,H,1,1,matthew-lee-3,Matthew Lee,2022
+9,61,13,2022-01-21,Saint Peter's,@,Niagara,REG (Conf),W 74-68 (OT),,31,4,12,0.333,3,6,0.5,1,6,0.167,0.458,3,4,0.75,1,0,1,4,4,0,2,1,14,11.9,A,1,1,matthew-lee-3,Matthew Lee,2022
+10,62,14,2022-01-23,Saint Peter's,@,Canisius,REG (Conf),L 60-63,,20,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,2,0,0,1,2,2,-0.5,A,0,1,matthew-lee-3,Matthew Lee,2022
+11,63,15,2022-01-26,Saint Peter's,@,Marist,REG (Conf),W 69-62,*,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,5,7,0.714,1,3,4,4,2,0,2,1,8,8.8,A,1,1,matthew-lee-3,Matthew Lee,2022
+12,64,16,2022-01-28,Saint Peter's,,Manhattan,REG (Conf),W 77-51,*,19,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,1,1,2,0,0,0,1,5,3.6,H,1,1,matthew-lee-3,Matthew Lee,2022
+13,65,17,2022-01-30,Saint Peter's,@,Iona,REG (Conf),L 77-85,*,25,7,10,0.7,4,5,0.8,3,5,0.6,0.9,2,4,0.5,0,0,0,3,0,0,2,4,20,13.5,A,0,1,matthew-lee-3,Matthew Lee,2022
+14,66,18,2022-02-04,Saint Peter's,,Quinnipiac,REG (Conf),W 83-74,*,22,3,6,0.5,3,4,0.75,0,2,0.0,0.75,2,2,1.0,1,1,2,4,1,0,1,0,11,11.8,H,1,1,matthew-lee-3,Matthew Lee,2022
+15,67,19,2022-02-06,Saint Peter's,,Marist,REG (Conf),W 66-50,*,16,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,2,3,1,1,0,2,0,5,3.6,H,1,1,matthew-lee-3,Matthew Lee,2022
+16,68,20,2022-02-11,Saint Peter's,,Rider,REG (Conf),L 49-58,*,23,2,9,0.222,0,3,0.0,2,6,0.333,0.222,5,6,0.833,0,1,1,4,0,0,1,2,9,4.4,H,0,1,matthew-lee-3,Matthew Lee,2022
+17,69,21,2022-02-15,Saint Peter's,,Iona,REG (Conf),L 61-70,*,29,2,8,0.25,1,2,0.5,1,6,0.167,0.313,3,4,0.75,0,5,5,4,1,0,2,2,8,5.3,H,0,1,matthew-lee-3,Matthew Lee,2022
+18,70,22,2022-02-18,Saint Peter's,@,Fairfield,REG (Conf),W 70-59,*,25,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,4,1.0,0,0,0,4,0,0,4,0,11,4.7,A,1,1,matthew-lee-3,Matthew Lee,2022
+19,71,23,2022-02-20,Saint Peter's,@,Siena,REG (Conf),L 70-84,*,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,3,2,2,-1.8,A,0,1,matthew-lee-3,Matthew Lee,2022
+20,72,24,2022-02-25,Saint Peter's,@,Monmouth,REG (Conf),W 70-65,*,22,4,8,0.5,3,5,0.6,1,3,0.333,0.688,1,4,0.25,0,2,2,1,1,0,5,1,12,3.7,A,1,1,matthew-lee-3,Matthew Lee,2022
+21,73,25,2022-02-27,Saint Peter's,,Niagara,REG (Conf),W 63-36,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,0,3,3,5,0,0,0,2,5,6.2,H,1,1,matthew-lee-3,Matthew Lee,2022
+22,74,26,2022-03-01,Saint Peter's,@,Manhattan,REG (Conf),W 73-51,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,2,1,0,1,1,0,0.3,A,1,1,matthew-lee-3,Matthew Lee,2022
+23,75,27,2022-03-05,Saint Peter's,,Fairfield,REG (Conf),W 57-41,*,30,1,3,0.333,0,2,0.0,1,1,1.0,0.333,3,4,0.75,0,4,4,5,1,0,2,2,5,5.8,H,1,1,matthew-lee-3,Matthew Lee,2022
+24,76,28,2022-03-09,Saint Peter's,N,Fairfield,CTOURN,W 77-63,*,29,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,3,1.0,0,2,2,1,0,0,2,4,9,3.7,N,1,0,matthew-lee-3,Matthew Lee,2022
+25,77,29,2022-03-11,Saint Peter's,N,Quinnipiac,CTOURN,W 64-52,*,29,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,4,0.5,0,2,2,1,2,1,1,0,14,11.2,N,1,0,matthew-lee-3,Matthew Lee,2022
+26,78,30,2022-03-12,Saint Peter's,N,Monmouth,CTOURN,W 60-54,*,21,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,2,2,2,0,0,1,4,8,4.4,N,1,0,matthew-lee-3,Matthew Lee,2022
+27,79,31,2022-03-17,Saint Peter's,N,Kentucky,ROUND-64,W 85-79 (OT),*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,1,1,4,1,1,1,2,4,3.9,N,1,0,matthew-lee-3,Matthew Lee,2022
+28,80,32,2022-03-19,Saint Peter's,N,Murray State,ROUND-32,W 70-60,*,28,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,2,1.0,0,3,3,4,0,0,1,2,9,6.5,N,1,0,matthew-lee-3,Matthew Lee,2022
+29,81,33,2022-03-25,Saint Peter's,N,Purdue,ROUND-16,W 67-64,*,30,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,1,0,1,3,0,0,0,1,7,4.6,N,1,0,matthew-lee-3,Matthew Lee,2022
+30,82,34,2022-03-27,Saint Peter's,N,North Carolina,ROUND-8,L 49-69,*,27,0,6,0.0,0,2,0.0,0,4,0.0,0.0,2,2,1.0,0,2,2,1,0,0,2,1,2,-3.3,N,0,0,matthew-lee-3,Matthew Lee,2022

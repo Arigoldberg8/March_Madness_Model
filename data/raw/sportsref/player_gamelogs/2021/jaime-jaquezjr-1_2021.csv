@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,UCLA,@,San Diego State,REG (Non-Conf),L 58-73,*,36,6,10,0.6,3,5,0.6,3,5,0.6,0.75,2,3,0.667,2,4,6,0,0,0,4,3,17,9.4,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+2,33,2,2020-11-27,UCLA,N,Pepperdine,REG (Non-Conf),W 107-98 (3OT),*,55,5,13,0.385,1,7,0.143,4,6,0.667,0.423,5,11,0.455,3,8,11,5,1,1,1,4,16,13.6,N,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+3,34,3,2020-12-03,UCLA,,Seattle,REG (Non-Conf),W 78-52,*,28,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,3,0.667,0,3,3,2,1,0,0,1,9,10.6,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+4,35,4,2020-12-06,UCLA,,California,REG (Conf),W 76-56,*,32,5,9,0.556,2,4,0.5,3,5,0.6,0.667,0,3,0.0,0,6,6,2,1,0,3,0,12,7.7,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+5,36,5,2020-12-09,UCLA,,San Diego,REG (Non-Conf),W 83-56,*,29,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,2,1.0,1,3,4,1,1,4,2,3,17,16.0,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+6,37,6,2020-12-11,UCLA,,Marquette,REG (Non-Conf),W 69-60,*,28,7,12,0.583,1,3,0.333,6,9,0.667,0.625,3,3,1.0,2,4,6,1,1,0,0,4,18,15.1,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+7,38,7,2020-12-19,UCLA,N,Ohio State,REG (Non-Conf),L 70-77,*,32,2,9,0.222,1,2,0.5,1,7,0.143,0.278,2,2,1.0,3,3,6,2,1,0,1,3,7,4.7,N,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+8,39,8,2020-12-31,UCLA,,Utah,REG (Conf),W 72-70,*,34,3,9,0.333,2,3,0.667,1,6,0.167,0.444,2,4,0.5,3,2,5,1,1,0,0,2,10,7.7,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+9,40,9,2021-01-02,UCLA,,Colorado,REG (Conf),W 65-62,*,38,6,12,0.5,1,3,0.333,5,9,0.556,0.542,1,1,1.0,1,4,5,0,1,1,1,2,14,9.8,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+10,41,10,2021-01-07,UCLA,@,Arizona State,REG (Conf),W 81-75 (OT),*,43,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,1,0.0,1,4,5,0,0,1,2,2,8,3.0,A,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+11,42,11,2021-01-09,UCLA,@,Arizona,REG (Conf),W 81-76,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,4,5,0.8,2,7,9,1,1,0,2,1,13,10.7,A,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+12,43,12,2021-01-14,UCLA,,Washington State,REG (Conf),W 91-61,*,24,4,7,0.571,1,3,0.333,3,4,0.75,0.643,7,7,1.0,0,4,4,2,2,0,1,0,16,16.3,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+13,44,13,2021-01-16,UCLA,,Washington,REG (Conf),W 81-76,*,36,7,14,0.5,0,0,,7,14,0.5,0.5,1,2,0.5,1,4,5,2,2,0,0,2,15,12.1,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+14,45,14,2021-01-21,UCLA,@,California,REG (Conf),W 61-57,*,38,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,4,3,7,0,3,0,0,2,7,8.1,A,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+15,46,15,2021-01-23,UCLA,@,Stanford,REG (Conf),L 72-73 (OT),*,38,5,13,0.385,2,7,0.286,3,6,0.5,0.462,2,2,1.0,2,2,4,1,1,2,4,2,14,7.2,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+16,47,16,2021-01-30,UCLA,,Oregon State,REG (Conf),W 57-52,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,7,9,0.778,5,3,8,0,2,1,1,1,9,10.8,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+17,48,17,2021-02-06,UCLA,@,Southern California,REG (Conf),L 48-66,*,29,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,1,1.0,4,2,6,1,1,0,1,1,7,6.3,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+18,49,18,2021-02-11,UCLA,@,Washington State,REG (Conf),L 73-81,*,22,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,1,1.0,2,3,5,0,2,1,0,5,7,7.0,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+19,50,19,2021-02-13,UCLA,@,Washington,REG (Conf),W 64-61,*,33,1,1,1.0,1,1,1.0,0,0,,1.5,0,3,0.0,1,9,10,4,1,1,2,2,3,6.6,A,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+20,51,20,2021-02-18,UCLA,,Arizona,REG (Conf),W 74-60,*,37,10,12,0.833,1,3,0.333,9,9,1.0,0.875,4,7,0.571,1,4,5,1,3,0,3,3,25,20.8,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+21,52,21,2021-02-20,UCLA,,Arizona State,REG (Conf),W 80-79,*,39,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,4,0.75,3,7,10,4,1,1,0,4,9,12.0,H,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+22,53,22,2021-02-25,UCLA,@,Utah,REG (Conf),W 76-61,*,30,5,10,0.5,1,2,0.5,4,8,0.5,0.55,0,0,,0,3,3,2,0,2,1,2,11,7.9,A,1,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+23,54,23,2021-02-27,UCLA,@,Colorado,REG (Conf),L 61-70,*,35,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,3,0.333,2,6,8,2,1,0,0,2,3,3.2,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+24,55,24,2021-03-03,UCLA,@,Oregon,REG (Conf),L 74-82,*,28,6,8,0.75,2,4,0.5,4,4,1.0,0.875,1,1,1.0,2,2,4,1,1,1,3,2,15,12.4,A,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+25,56,25,2021-03-06,UCLA,,Southern California,REG (Conf),L 63-64,*,38,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,1,0.0,1,4,5,1,0,1,0,3,12,8.7,H,0,1,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+26,57,26,2021-03-11,UCLA,N,Oregon State,CTOURN,L 79-83 (OT),*,34,2,5,0.4,0,2,0.0,2,3,0.667,0.4,7,8,0.875,4,3,7,0,1,0,2,5,11,8.6,N,0,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+27,58,27,2021-03-18,UCLA,N,Michigan State,FIRST-FOUR,W 86-80 (OT),*,45,11,20,0.55,3,4,0.75,8,16,0.5,0.625,2,4,0.5,2,2,4,2,0,1,0,1,27,20.3,N,1,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+28,59,28,2021-03-20,UCLA,N,Brigham Young,ROUND-64,W 73-62,*,38,5,7,0.714,2,2,1.0,3,5,0.6,0.857,1,5,0.2,1,7,8,3,2,0,0,2,13,14.6,N,1,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+29,60,29,2021-03-22,UCLA,N,Abilene Christian,ROUND-32,W 67-47,*,34,4,11,0.364,0,2,0.0,4,9,0.444,0.364,2,2,1.0,3,4,7,2,0,2,0,3,10,8.8,N,1,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+30,61,30,2021-03-28,UCLA,N,Alabama,ROUND-16,W 88-78 (OT),*,45,6,13,0.462,2,6,0.333,4,7,0.571,0.538,3,4,0.75,2,6,8,3,3,1,1,2,17,17.1,N,1,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+31,62,31,2021-03-30,UCLA,N,Michigan,ROUND-8,W 51-49,*,38,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,2,1.0,2,4,6,4,3,1,2,2,4,6.5,N,1,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021
+32,63,32,2021-04-03,UCLA,N,Gonzaga,NATIONAL-SEMI,L 90-93 (OT),*,40,6,12,0.5,2,5,0.4,4,7,0.571,0.583,5,7,0.714,2,3,5,4,1,0,3,2,19,14.5,N,0,0,jaime-jaquezjr-1,Jaime Jaquez Jr.,2021

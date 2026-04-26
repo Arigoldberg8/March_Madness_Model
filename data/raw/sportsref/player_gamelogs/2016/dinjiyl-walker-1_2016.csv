@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2015-11-17,Oklahoma,@,Memphis,REG (Non-Conf),W 84-78,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+2,36,2,2015-11-20,Oklahoma,,McNeese State,REG (Non-Conf),W 85-56,,16,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,1,0.0,0,3,3,3,2,0,0,0,2,4.2,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+3,37,3,2015-11-24,Oklahoma,,Incarnate Word,REG (Non-Conf),W 96-63,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,5,0.6,0,3,3,2,3,0,2,2,8,8.4,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+4,38,4,2015-11-29,Oklahoma,,Wisconsin,REG (Non-Conf),W 65-48,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,2,0,0,0,0,4,4.4,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+5,39,5,2015-12-03,Oklahoma,,Central Arkansas,REG (Non-Conf),W 111-68,,19,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,5,0,0,1,4,0,-1.6,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+6,40,6,2015-12-07,Oklahoma,N,Villanova,REG (Non-Conf),W 78-55,,18,4,8,0.5,3,5,0.6,1,3,0.333,0.688,0,0,,0,2,2,0,0,0,1,1,11,6.2,N,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+7,41,7,2015-12-12,Oklahoma,,Oral Roberts,REG (Non-Conf),W 96-73,,16,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,0,3,3,3,1,0,2,2,8,5.8,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+8,42,8,2015-12-19,Oklahoma,,Creighton,REG (Non-Conf),W 87-74,,14,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,0,1,0,1,1,8,6.6,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+9,43,9,2015-12-22,Oklahoma,N,Washington State,REG (Non-Conf),W 88-60,,20,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,1,1,1,1,0,0,1,4,2.1,N,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+10,44,10,2015-12-23,Oklahoma,@,Hawaii,REG (Non-Conf),W 84-81,,14,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,1,0.0,0,0,0,0,0,0,1,1,3,-1.9,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+11,45,11,2015-12-25,Oklahoma,N,Harvard,REG (Non-Conf),W 83-71,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,1,0,-3.8,N,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+12,46,12,2016-01-02,Oklahoma,,Iowa State,REG (Conf),W 87-83,,11,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,1,2,3,0,0,0,0,2,10,5.8,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+13,47,13,2016-01-04,Oklahoma,@,Kansas,REG (Conf),L 106-109 (3OT),,16,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,1,1.0,2,2,4,0,0,0,1,2,3,0.1,A,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+14,48,14,2016-01-09,Oklahoma,,Kansas State,REG (Conf),W 86-76,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,1,0,3,0,2,0.3,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+15,49,15,2016-01-13,Oklahoma,@,Oklahoma State,REG (Conf),W 74-72,,9,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,0,1,1,0,0,1,0,3,1.7,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+16,50,16,2016-01-16,Oklahoma,,West Virginia,REG (Conf),W 70-68,,7,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,0,1,0,1,4,3,-0.3,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+17,51,17,2016-01-18,Oklahoma,@,Iowa State,REG (Conf),L 77-82,,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,A,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+18,52,18,2016-01-23,Oklahoma,@,Baylor,REG (Conf),W 82-72,,20,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,2,1,0,0,1,6,7.3,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+19,53,19,2016-01-26,Oklahoma,,Texas Tech,REG (Conf),W 91-67,,12,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,0,1,0,0,2,3,1.1,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+20,54,20,2016-01-30,Oklahoma,@,Louisiana State,REG (Non-Conf),W 77-75,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,2,0,-2.2,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+21,55,21,2016-02-02,Oklahoma,,TCU,REG (Conf),W 95-72,,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,4,1,0,1,1,0,-0.4,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+22,56,22,2016-02-06,Oklahoma,@,Kansas State,REG (Conf),L 69-80,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,0,1,0,0,3,5,4.5,A,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+23,57,23,2016-02-08,Oklahoma,,Texas,REG (Conf),W 63-60,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,0,0,0,1,3,3,0.0,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+24,58,24,2016-02-13,Oklahoma,,Kansas,REG (Conf),L 72-76,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.1,H,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+25,59,25,2016-02-17,Oklahoma,@,Texas Tech,REG (Conf),L 63-65,,14,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,1,0,0,0,1,1,1.5,A,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+26,60,26,2016-02-20,Oklahoma,@,West Virginia,REG (Conf),W 76-62,,17,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,1,3,4,1,0,0,0,1,5,2.8,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+27,61,27,2016-02-24,Oklahoma,,Oklahoma State,REG (Conf),W 71-49,,14,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,1,0.0,1,1,2,0,0,0,1,1,8,5.6,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+28,62,28,2016-02-27,Oklahoma,@,Texas,REG (Conf),L 63-76,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-0.7,A,0,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+29,63,29,2016-03-01,Oklahoma,,Baylor,REG (Conf),W 73-71,,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,1,1,2,2,0,1,0,4,6,4.8,H,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+30,64,30,2016-03-05,Oklahoma,@,TCU,REG (Conf),W 75-67,,19,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,1,2,0,2,1,6,5.9,A,1,1,dinjiyl-walker-1,Dinjiyl Walker,2016
+31,65,31,2016-03-10,Oklahoma,N,Iowa State,CTOURN,W 79-76,,17,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,2,0.0,0,0,0,0,1,0,1,0,7,3.9,N,1,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+32,66,32,2016-03-11,Oklahoma,N,West Virginia,CTOURN,L 67-69,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,3,0,0,-3.0,N,0,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+33,67,33,2016-03-18,Oklahoma,N,Cal State Bakersfield,ROUND-64,W 82-68,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,N,1,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+34,68,34,2016-03-20,Oklahoma,N,VCU,ROUND-32,W 85-81,,6,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,1,0,1,0,0,0,0,0,2,0.6,N,1,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+35,69,35,2016-03-24,Oklahoma,N,Texas A&M,ROUND-16,W 77-63,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+36,70,36,2016-03-26,Oklahoma,N,Oregon,ROUND-8,W 80-68,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,dinjiyl-walker-1,Dinjiyl Walker,2016
+37,71,37,2016-04-02,Oklahoma,N,Villanova,NATIONAL-SEMI,L 51-95,,8,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,1,1,2,0,0,0,2,3,1,-4.4,N,0,0,dinjiyl-walker-1,Dinjiyl Walker,2016

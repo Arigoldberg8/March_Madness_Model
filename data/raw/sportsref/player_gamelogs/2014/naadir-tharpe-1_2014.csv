@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,2,2013-11-12,Kansas,N,Duke,REG (Non-Conf),W 94-83,*,28,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,0,2,2,5,1,0,3,2,7,6.6,N,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+2,71,3,2013-11-19,Kansas,,Iona,REG (Non-Conf),W 86-66,*,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,3,3,10,1,0,1,3,5,9.0,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+3,72,4,2013-11-22,Kansas,,Towson,REG (Non-Conf),W 88-58,*,23,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,5,1,0,2,2,5,4.2,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+4,73,5,2013-11-28,Kansas,N,Wake Forest,REG (Non-Conf),W 87-78,*,27,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,2,2,2,0,0,1,1,5,2.5,N,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+5,74,6,2013-11-29,Kansas,N,Villanova,REG (Non-Conf),L 59-63,*,36,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,2,2,4,1,0,3,2,5,1.5,N,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+6,75,7,2013-11-30,Kansas,N,UTEP,REG (Non-Conf),W 67-63,*,28,3,8,0.375,2,5,0.4,1,3,0.333,0.5,3,5,0.6,0,3,3,4,1,0,2,4,11,6.9,N,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+7,76,8,2013-12-07,Kansas,@,Colorado,REG (Non-Conf),L 72-75,,28,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,1,1,2,0,0,0,2,8,6.6,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+8,77,9,2013-12-10,Kansas,@,Florida,REG (Non-Conf),L 61-67,,29,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,5,0,0,3,3,2,-0.8,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+9,78,10,2013-12-14,Kansas,N,New Mexico,REG (Non-Conf),W 80-63,*,37,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,3,3,9,0,0,4,1,8,6.4,N,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+10,79,11,2013-12-21,Kansas,,Georgetown,REG (Non-Conf),W 86-64,*,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,0,1,1,4,0,0,1,4,10,7.5,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+11,80,12,2013-12-30,Kansas,,Toledo,REG (Non-Conf),W 93-83,*,27,7,8,0.875,4,5,0.8,3,3,1.0,1.125,2,4,0.5,0,3,3,8,1,0,5,4,20,17.3,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+12,81,13,2014-01-05,Kansas,,San Diego State,REG (Non-Conf),L 57-61,*,34,2,10,0.2,1,5,0.2,1,5,0.2,0.25,0,0,,0,5,5,5,2,0,0,4,5,4.2,H,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+13,82,14,2014-01-08,Kansas,@,Oklahoma,REG (Conf),W 90-83,*,26,5,7,0.714,2,3,0.667,3,4,0.75,0.857,5,6,0.833,0,1,1,3,0,0,1,3,17,13.9,A,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+14,83,15,2014-01-11,Kansas,,Kansas State,REG (Conf),W 86-60,*,33,1,7,0.143,0,5,0.0,1,2,0.5,0.143,2,2,1.0,1,0,1,9,0,0,0,1,4,6.1,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+15,84,16,2014-01-13,Kansas,@,Iowa State,REG (Conf),W 77-70,*,36,7,9,0.778,3,4,0.75,4,5,0.8,0.944,6,7,0.857,0,6,6,4,1,0,4,1,23,20.3,A,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+16,85,17,2014-01-18,Kansas,,Oklahoma State,REG (Conf),W 80-78,*,39,7,8,0.875,3,4,0.75,4,4,1.0,1.063,4,4,1.0,0,2,2,6,3,0,6,0,21,20.0,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+17,86,18,2014-01-20,Kansas,,Baylor,REG (Conf),W 78-68,*,29,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,1,0,0,0,2,6,5.5,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+18,87,19,2014-01-25,Kansas,@,TCU,REG (Conf),W 91-69,*,20,0,0,,0,0,,0,0,,,0,0,,0,0,0,4,1,0,0,3,0,2.6,A,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+19,88,20,2014-01-29,Kansas,,Iowa State,REG (Conf),W 92-81,*,36,3,7,0.429,2,5,0.4,1,2,0.5,0.571,4,4,1.0,1,5,6,12,1,0,1,2,12,18.1,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+20,89,21,2014-02-01,Kansas,@,Texas,REG (Conf),L 69-81,*,26,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,0,3,3,3,1,0,2,0,3,2.6,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+21,90,22,2014-02-04,Kansas,@,Baylor,REG (Conf),W 69-52,*,38,9,13,0.692,4,6,0.667,5,7,0.714,0.846,0,1,0.0,1,4,5,4,0,0,2,2,22,18.0,A,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+22,91,23,2014-02-08,Kansas,,West Virginia,REG (Conf),W 83-69,*,28,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,1,2,4,0,0,1,3,5,2.5,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+23,92,24,2014-02-10,Kansas,@,Kansas State,REG (Conf),L 82-85 (OT),*,38,6,13,0.462,1,5,0.2,5,8,0.625,0.5,0,0,,0,2,2,10,0,0,3,3,13,9.7,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+24,93,25,2014-02-15,Kansas,,TCU,REG (Conf),W 95-65,*,20,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,4,0,0,1,4,0,-1.6,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+25,94,26,2014-02-18,Kansas,@,Texas Tech,REG (Conf),W 64-63,*,38,1,7,0.143,1,5,0.2,0,2,0.0,0.214,3,3,1.0,0,1,1,2,1,0,4,0,6,0.2,A,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+26,95,27,2014-02-22,Kansas,,Texas,REG (Conf),W 85-54,*,28,1,9,0.111,0,5,0.0,1,4,0.25,0.111,0,0,,0,2,2,5,0,0,2,2,2,-2.6,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+27,96,28,2014-02-24,Kansas,,Oklahoma,REG (Conf),W 83-75,*,26,6,7,0.857,1,1,1.0,5,6,0.833,0.929,6,6,1.0,0,0,0,5,2,0,1,3,19,19.8,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+28,97,29,2014-03-01,Kansas,@,Oklahoma State,REG (Conf),L 65-72,*,34,2,8,0.25,2,5,0.4,0,3,0.0,0.375,0,0,,0,2,2,5,0,0,6,2,6,-1.5,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+29,98,30,2014-03-05,Kansas,,Texas Tech,REG (Conf),W 82-57,,18,4,7,0.571,3,6,0.5,1,1,1.0,0.786,5,5,1.0,0,0,0,5,2,0,0,0,16,18.2,H,1,1,naadir-tharpe-1,Naadir Tharpe,2014
+30,99,31,2014-03-08,Kansas,@,West Virginia,REG (Conf),L 86-92,*,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,1,0,0,-2.1,A,0,1,naadir-tharpe-1,Naadir Tharpe,2014
+31,100,32,2014-03-13,Kansas,N,Oklahoma State,CTOURN,W 77-70 (OT),*,41,2,7,0.286,0,3,0.0,2,4,0.5,0.286,4,6,0.667,0,0,0,7,1,0,2,2,8,6.2,N,1,0,naadir-tharpe-1,Naadir Tharpe,2014
+32,101,33,2014-03-14,Kansas,N,Iowa State,CTOURN,L 83-94,*,31,0,3,0.0,0,0,,0,3,0.0,0.0,5,6,0.833,0,2,2,9,1,0,2,1,5,8.0,N,0,0,naadir-tharpe-1,Naadir Tharpe,2014
+33,102,34,2014-03-21,Kansas,N,Eastern Kentucky,ROUND-64,W 80-69,*,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,3,0,0,4,1,4,1.0,N,1,0,naadir-tharpe-1,Naadir Tharpe,2014
+34,103,35,2014-03-23,Kansas,N,Stanford,ROUND-32,L 57-60,*,26,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,0,2,2,2,1,0,2,5,5,-0.8,N,0,0,naadir-tharpe-1,Naadir Tharpe,2014

@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2024-11-04,Yale,,Quinnipiac,REG (Non-Conf),W 88-62,*,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,2,0,1,1,4,2,2.5,H,1,1,samson-aletan-1,Samson Aletan,2025
+2,23,2,2024-11-08,Yale,@,Illinois–Chicago,REG (Non-Conf),L 79-91,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,1,1,1,0,-0.1,A,0,1,samson-aletan-1,Samson Aletan,2025
+3,24,3,2024-11-11,Yale,@,Purdue,REG (Non-Conf),L 84-92,*,30,5,10,0.5,0,1,0.0,5,9,0.556,0.5,4,7,0.571,4,3,7,3,1,1,0,5,14,13.3,A,0,1,samson-aletan-1,Samson Aletan,2025
+4,25,4,2024-11-13,Yale,,Emerson,REG (Non-Conf),W 100-46,*,16,5,6,0.833,0,0,,5,6,0.833,0.833,0,2,0.0,2,2,4,3,0,1,1,1,10,10.4,H,1,1,samson-aletan-1,Samson Aletan,2025
+5,26,5,2024-11-16,Yale,@,Minnesota,REG (Non-Conf),L 56-59,*,32,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,2,3,5,1,0,4,2,2,6,7.0,A,0,1,samson-aletan-1,Samson Aletan,2025
+6,27,6,2024-11-20,Yale,@,Stony Brook,REG (Non-Conf),W 86-64,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,1,1,2,0,0,2,0,2,7,3.7,A,1,1,samson-aletan-1,Samson Aletan,2025
+7,28,7,2024-11-23,Yale,N,Fairfield,REG (Non-Conf),W 91-66,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,5,6,0.833,2,0,2,1,0,1,0,0,15,13.1,N,1,1,samson-aletan-1,Samson Aletan,2025
+8,29,8,2024-11-24,Yale,N,Delaware,REG (Non-Conf),L 94-100,*,20,4,8,0.5,0,0,,4,8,0.5,0.5,6,7,0.857,3,1,4,0,0,0,0,0,14,12.0,N,0,1,samson-aletan-1,Samson Aletan,2025
+9,30,9,2024-12-02,Yale,@,Rhode Island,REG (Non-Conf),L 78-84,*,23,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,1,2,3,1,1,3,0,2,1,3.5,A,0,1,samson-aletan-1,Samson Aletan,2025
+10,31,10,2024-12-07,Yale,,Vermont,REG (Non-Conf),W 65-50,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,1,1,0,-1.2,H,1,1,samson-aletan-1,Samson Aletan,2025
+11,32,11,2024-12-20,Yale,N,Akron,REG (Non-Conf),W 74-58,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,4,2,6,1,0,0,1,3,10,10.0,N,1,1,samson-aletan-1,Samson Aletan,2025
+12,33,12,2024-12-21,Yale,@,UTEP,REG (Non-Conf),L 74-75,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,3,0.0,2,1,3,1,0,1,1,3,2,0.0,A,0,1,samson-aletan-1,Samson Aletan,2025
+13,34,13,2025-01-01,Yale,,Howard,REG (Non-Conf),W 93-65,*,19,6,7,0.857,0,0,,6,7,0.857,0.857,7,7,1.0,4,1,5,1,1,2,0,1,19,22.3,H,1,1,samson-aletan-1,Samson Aletan,2025
+14,35,14,2025-01-11,Yale,,Brown,REG (Conf),W 79-58,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,2,3,5,0,0,1,0,2,12,11.3,H,1,1,samson-aletan-1,Samson Aletan,2025
+15,36,15,2025-01-18,Yale,@,Columbia,REG (Conf),W 92-88,*,21,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,0,0,1,1,2,0,-1.9,A,1,1,samson-aletan-1,Samson Aletan,2025
+16,37,16,2025-01-20,Yale,,Dartmouth,REG (Conf),W 83-67,*,19,6,10,0.6,0,0,,6,10,0.6,0.6,5,5,1.0,4,1,5,1,0,4,1,3,17,16.8,H,1,1,samson-aletan-1,Samson Aletan,2025
+17,38,17,2025-01-25,Yale,,Harvard,REG (Conf),W 84-55,*,24,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,6,0,6,0,1,2,0,0,11,13.2,H,1,1,samson-aletan-1,Samson Aletan,2025
+18,39,18,2025-01-31,Yale,@,Princeton,REG (Conf),W 77-70,*,24,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,1,1,2,1,2,4,2,2,9,10.1,A,1,1,samson-aletan-1,Samson Aletan,2025
+19,40,19,2025-02-01,Yale,@,Pennsylvania,REG (Conf),W 90-61,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,1,4,5,1,1,2,2,4,6,5.7,A,1,1,samson-aletan-1,Samson Aletan,2025
+20,41,20,2025-02-08,Yale,@,Cornell,REG (Conf),W 103-88,*,23,5,8,0.625,0,0,,5,8,0.625,0.625,0,2,0.0,2,2,4,0,0,2,0,0,10,9.0,A,1,1,samson-aletan-1,Samson Aletan,2025
+21,42,21,2025-02-14,Yale,,Pennsylvania,REG (Conf),W 72-71,*,21,4,4,1.0,0,0,,4,4,1.0,1.0,3,3,1.0,4,1,5,0,1,2,0,0,11,15.3,H,1,1,samson-aletan-1,Samson Aletan,2025
+22,43,22,2025-02-15,Yale,,Princeton,REG (Conf),W 84-57,*,16,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,1,2,0,0,2,1,0,4,3.0,H,1,1,samson-aletan-1,Samson Aletan,2025
+23,44,23,2025-02-21,Yale,,Cornell,REG (Conf),W 92-88,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,3,4,0,0,0,2,4,4,1.0,H,1,1,samson-aletan-1,Samson Aletan,2025
+24,45,24,2025-02-22,Yale,,Columbia,REG (Conf),W 90-64,,22,9,10,0.9,0,0,,9,10,0.9,0.9,0,2,0.0,3,3,6,1,0,1,2,0,18,16.2,H,1,1,samson-aletan-1,Samson Aletan,2025
+25,46,25,2025-02-28,Yale,@,Dartmouth,REG (Conf),W 72-67,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,1,2,3,0,0,1,0,2,10,9.3,A,1,1,samson-aletan-1,Samson Aletan,2025
+26,47,26,2025-03-01,Yale,@,Harvard,REG (Conf),L 69-74,*,23,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,1,0,1,2,1.6,A,0,1,samson-aletan-1,Samson Aletan,2025
+27,48,27,2025-03-08,Yale,@,Brown,REG (Conf),W 70-61,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,0,4,4,1,0,5,0,3,2,4.4,A,1,1,samson-aletan-1,Samson Aletan,2025
+28,49,28,2025-03-15,Yale,N,Princeton,CTOURN,W 59-57,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,1,4,0.25,4,1,5,2,0,2,3,2,5,3.2,N,1,0,samson-aletan-1,Samson Aletan,2025
+29,50,29,2025-03-16,Yale,N,Cornell,CTOURN,W 90-84,*,12,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,1,0,1,1,1,0,0,4,1,-0.7,N,1,0,samson-aletan-1,Samson Aletan,2025
+30,51,30,2025-03-20,Yale,N,Texas A&M,ROUND-64,L 71-80,*,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,0,0,1,0,4,2,0.7,N,0,0,samson-aletan-1,Samson Aletan,2025

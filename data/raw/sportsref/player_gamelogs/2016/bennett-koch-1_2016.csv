@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2015-11-14,Northern Iowa,,Colorado State,REG (Non-Conf),L 78-84,*,15,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,0,0,0,0,5,4,1.3,H,0,1,bennett-koch-1,Bennett Koch,2016
+2,30,2,2015-11-17,Northern Iowa,,Stephen F. Austin,REG (Non-Conf),W 70-60,*,20,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,0,3,3,1,0,1,4,3,4,-1.6,H,1,1,bennett-koch-1,Bennett Koch,2016
+3,31,3,2015-11-21,Northern Iowa,,North Carolina,REG (Non-Conf),W 71-67,*,12,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,0,1,0,0,0,2,2,5,0.5,H,1,1,bennett-koch-1,Bennett Koch,2016
+4,32,4,2015-11-25,Northern Iowa,,Dubuque,REG (Non-Conf),W 83-63,*,20,5,7,0.714,0,0,5,7,0.714,0.714,1,3,0.333,1,4,5,0,0,0,2,3,11,6.0,H,1,1,bennett-koch-1,Bennett Koch,2016
+5,33,5,2015-11-28,Northern Iowa,@,North Dakota,REG (Non-Conf),W 97-51,*,21,6,10,0.6,0,0,6,10,0.6,0.6,0,1,0.0,0,8,8,1,0,1,2,2,12,8.0,A,1,1,bennett-koch-1,Bennett Koch,2016
+6,34,6,2015-11-30,Northern Iowa,,North Texas,REG (Non-Conf),W 93-70,*,22,5,6,0.833,0,0,5,6,0.833,0.833,8,10,0.8,3,2,5,1,0,1,2,1,18,16.7,H,1,1,bennett-koch-1,Bennett Koch,2016
+7,35,7,2015-12-05,Northern Iowa,@,Richmond,REG (Non-Conf),L 67-82,*,13,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,1,0,0,3,1,2,-2.1,A,0,1,bennett-koch-1,Bennett Koch,2016
+8,36,8,2015-12-08,Northern Iowa,@,George Mason,REG (Non-Conf),W 73-65,*,18,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,1,1,2,1,0,0,1,3,8,3.5,A,1,1,bennett-koch-1,Bennett Koch,2016
+9,37,9,2015-12-12,Northern Iowa,@,New Mexico,REG (Non-Conf),L 57-76,*,26,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,0,2,2,0,0,0,2,1,3,-0.9,A,0,1,bennett-koch-1,Bennett Koch,2016
+10,38,10,2015-12-19,Northern Iowa,N,Iowa State,REG (Non-Conf),W 81-79,*,21,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,0,0,0,1,2,0,2,1,5,2.2,N,1,1,bennett-koch-1,Bennett Koch,2016
+11,39,11,2015-12-22,Northern Iowa,@,Hawaii,REG (Non-Conf),L 52-68,*,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,2,3,0,-2.9,A,0,1,bennett-koch-1,Bennett Koch,2016
+12,40,12,2015-12-23,Northern Iowa,N,Washington State,REG (Non-Conf),W 63-59,*,19,1,6,0.167,0,0,1,6,0.167,0.167,1,1,1.0,1,1,2,0,0,0,2,1,3,-2.2,N,1,1,bennett-koch-1,Bennett Koch,2016
+13,41,13,2015-12-25,Northern Iowa,N,Brigham Young,REG (Non-Conf),L 76-84,*,7,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,1,0,1,0,0,0,1,1,0,-3.5,N,0,1,bennett-koch-1,Bennett Koch,2016
+14,42,14,2015-12-30,Northern Iowa,,Bradley,REG (Conf),W 80-44,*,23,5,7,0.714,0,0,5,7,0.714,0.714,5,9,0.556,0,4,4,1,2,1,1,2,15,13.3,H,1,1,bennett-koch-1,Bennett Koch,2016
+15,43,15,2016-01-02,Northern Iowa,@,Southern Illinois,REG (Conf),L 73-75,*,15,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,2,4,0,0,1,0,2,6,7.0,A,0,1,bennett-koch-1,Bennett Koch,2016
+16,44,16,2016-01-06,Northern Iowa,@,Missouri State,REG (Conf),L 58-59,*,12,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,1,1,0,0,0,1,2,4,1.2,A,0,1,bennett-koch-1,Bennett Koch,2016
+17,45,17,2016-01-09,Northern Iowa,,Drake,REG (Conf),W 77-44,*,20,6,9,0.667,0,0,6,9,0.667,0.667,3,4,0.75,3,1,4,0,1,0,1,3,15,11.9,H,1,1,bennett-koch-1,Bennett Koch,2016
+18,46,18,2016-01-13,Northern Iowa,@,Indiana State,REG (Conf),L 60-74,*,29,7,10,0.7,0,0,7,10,0.7,0.7,4,4,1.0,3,4,7,0,0,0,2,4,18,13.5,A,0,1,bennett-koch-1,Bennett Koch,2016
+19,47,19,2016-01-16,Northern Iowa,,Loyola Chicago,REG (Conf),L 41-51,*,14,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,0,1,1,0,2,3,3,4,1.6,H,0,1,bennett-koch-1,Bennett Koch,2016
+20,48,20,2016-01-20,Northern Iowa,,Wichita State,REG (Conf),L 55-74,*,22,3,9,0.333,0,0,3,9,0.333,0.333,8,9,0.889,0,3,3,0,0,0,1,5,14,6.4,H,0,1,bennett-koch-1,Bennett Koch,2016
+21,49,21,2016-01-23,Northern Iowa,@,Illinois State,REG (Conf),L 67-76,*,27,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,1,3,4,2,1,0,2,2,8,5.2,A,0,1,bennett-koch-1,Bennett Koch,2016
+22,50,22,2016-01-27,Northern Iowa,@,Bradley,REG (Conf),W 68-50,*,14,1,4,0.25,0,0,1,4,0.25,0.25,3,4,0.75,0,1,1,0,0,0,0,4,5,0.9,A,1,1,bennett-koch-1,Bennett Koch,2016
+23,51,23,2016-01-31,Northern Iowa,,Southern Illinois,REG (Conf),W 67-58,*,30,8,9,0.889,0,0,8,9,0.889,0.889,6,12,0.5,3,8,11,0,0,3,1,4,22,20.5,H,1,1,bennett-koch-1,Bennett Koch,2016
+24,52,24,2016-02-03,Northern Iowa,,Evansville,REG (Conf),W 57-54,*,23,3,11,0.273,0,0,3,11,0.273,0.273,2,2,1.0,1,6,7,2,1,1,0,1,8,6.7,H,1,1,bennett-koch-1,Bennett Koch,2016
+25,53,25,2016-02-06,Northern Iowa,@,Drake,REG (Conf),W 82-66,*,12,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,1,1,1,0,0,1,4,4,1.1,A,1,1,bennett-koch-1,Bennett Koch,2016
+26,54,26,2016-02-10,Northern Iowa,,Missouri State,REG (Conf),W 83-69,*,19,7,10,0.7,0,0,7,10,0.7,0.7,5,5,1.0,2,2,4,0,0,0,0,5,19,14.8,H,1,1,bennett-koch-1,Bennett Koch,2016
+27,55,27,2016-02-13,Northern Iowa,@,Wichita State,REG (Conf),W 53-50,*,19,1,4,0.25,0,0,1,4,0.25,0.25,4,4,1.0,0,1,1,0,1,0,3,3,6,0.7,A,1,1,bennett-koch-1,Bennett Koch,2016
+28,56,28,2016-02-17,Northern Iowa,@,Loyola Chicago,REG (Conf),L 56-59,*,22,1,5,0.2,0,0,1,5,0.2,0.2,4,4,1.0,2,3,5,0,0,0,1,2,6,3.4,A,0,1,bennett-koch-1,Bennett Koch,2016
+29,57,29,2016-02-20,Northern Iowa,,Illinois State,REG (Conf),W 75-66,*,21,4,7,0.571,0,0,4,7,0.571,0.571,2,2,1.0,2,7,9,0,1,0,1,1,10,9.8,H,1,1,bennett-koch-1,Bennett Koch,2016
+30,58,30,2016-02-24,Northern Iowa,,Indiana State,REG (Conf),W 66-44,*,16,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,1,3,4,2,0,1,2,2,4,2.5,H,1,1,bennett-koch-1,Bennett Koch,2016
+31,59,31,2016-02-27,Northern Iowa,@,Evansville,REG (Conf),W 54-52,*,14,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,1,1,2,0,0,0,0,1,4,0.5,A,1,1,bennett-koch-1,Bennett Koch,2016
+32,60,32,2016-03-04,Northern Iowa,N,Southern Illinois,CTOURN,W 66-60,*,28,3,6,0.5,0,0,3,6,0.5,0.5,5,8,0.625,1,7,8,0,0,0,1,4,11,7.0,N,1,0,bennett-koch-1,Bennett Koch,2016
+33,61,33,2016-03-05,Northern Iowa,N,Wichita State,CTOURN,W 57-52 (OT),*,23,1,4,0.25,0,0,1,4,0.25,0.25,2,4,0.5,1,4,5,0,0,1,2,3,4,0.2,N,1,0,bennett-koch-1,Bennett Koch,2016
+34,62,34,2016-03-06,Northern Iowa,N,Evansville,CTOURN,W 56-54,*,10,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,0,3,0,-1.7,N,1,0,bennett-koch-1,Bennett Koch,2016
+35,63,35,2016-03-18,Northern Iowa,N,Texas,ROUND-64,W 75-72,*,15,0,1,0.0,0,0,0,1,0.0,0.0,5,6,0.833,1,0,1,0,1,0,3,1,5,2.2,N,1,0,bennett-koch-1,Bennett Koch,2016
+36,64,36,2016-03-20,Northern Iowa,N,Texas A&M,ROUND-32,L 88-92 (2OT),*,20,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,1,2,3,1,0,0,1,3,8,4.8,N,0,0,bennett-koch-1,Bennett Koch,2016

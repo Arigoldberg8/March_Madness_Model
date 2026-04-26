@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2013-11-08,Eastern Kentucky,N,Florida International,REG (Non-Conf),W 83-61,*,24,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,0,4,4,3,0,0,0,5,6,4.9,N,1,1,tarius-johnson-1,Tarius Johnson,2014
+2,37,2,2013-11-09,Eastern Kentucky,@,Kennesaw State,REG (Non-Conf),W 68-60,*,18,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,2,3,5,1,1,0,1,3,2,-0.7,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+3,38,3,2013-11-10,Eastern Kentucky,N,Youngstown State,REG (Non-Conf),L 67-75,*,23,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,2,0.0,1,2,3,0,0,0,1,2,6,2.7,N,0,1,tarius-johnson-1,Tarius Johnson,2014
+4,39,4,2013-11-13,Eastern Kentucky,,Warren Wilson,REG (Non-Conf),W 114-45,*,18,3,5,0.6,3,4,0.75,0,1,0.0,0.9,2,2,1.0,0,1,1,1,3,0,1,2,11,10.9,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+5,40,5,2013-11-16,Eastern Kentucky,,High Point,REG (Non-Conf),W 74-67,*,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,0,1,1,1,0,0,3,2,1.8,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+6,41,6,2013-11-19,Eastern Kentucky,,Alabama A&M,REG (Non-Conf),W 82-68,*,24,2,7,0.286,2,5,0.4,0,2,0.0,0.429,8,8,1.0,0,4,4,1,0,1,0,1,14,12.1,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+7,42,7,2013-11-22,Eastern Kentucky,,Brescia,REG (Non-Conf),W 95-56,*,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,3,1,4,1,0,1,1,2,9,8.0,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+8,43,8,2013-11-30,Eastern Kentucky,@,NC State,REG (Non-Conf),L 56-75,*,17,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,6,6,0,0,0,2,2,2,-2.8,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+9,44,9,2013-12-05,Eastern Kentucky,@,VCU,REG (Non-Conf),L 68-71 (OT),*,30,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,5,5,1,1,0,0,4,4,4.6,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+10,45,10,2013-12-07,Eastern Kentucky,@,Longwood,REG (Non-Conf),W 76-67,*,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,1,1.0,0,3,3,0,1,0,1,2,8,5.1,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+11,46,11,2013-12-14,Eastern Kentucky,@,Wisconsin,REG (Non-Conf),L 61-86,*,23,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,1,1.0,0,1,1,0,1,0,0,2,5,2.8,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+12,47,12,2013-12-18,Eastern Kentucky,,North Carolina A&T,REG (Non-Conf),W 84-73,*,18,1,3,0.333,1,3,0.333,0,0,,0.5,0,2,0.0,1,1,2,2,0,0,1,2,3,1.1,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+13,48,13,2013-12-29,Eastern Kentucky,@,IPFW,REG (Non-Conf),W 90-68,*,13,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,0,1,0,0,4,8,6.8,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+14,49,14,2014-01-02,Eastern Kentucky,@,Eastern Illinois,REG (Conf),W 100-81,*,21,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,2,0.5,2,3,5,2,0,0,0,2,9,7.1,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+15,50,15,2014-01-04,Eastern Kentucky,@,SIU Edwardsville,REG (Conf),L 79-85,*,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,1,2,0,1,3,2,2.4,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+16,51,16,2014-01-08,Eastern Kentucky,,Murray State,REG (Conf),L 64-77,*,31,7,11,0.636,1,3,0.333,6,8,0.75,0.682,1,2,0.5,2,6,8,3,1,1,1,4,16,15.1,H,0,1,tarius-johnson-1,Tarius Johnson,2014
+17,52,17,2014-01-11,Eastern Kentucky,@,Morehead State,REG (Conf),W 76-65,*,30,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,1,0.0,1,0,1,0,1,0,1,3,5,0.0,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+18,53,18,2014-01-16,Eastern Kentucky,,Belmont,REG (Conf),W 74-63,*,17,5,9,0.556,1,4,0.25,4,5,0.8,0.611,1,2,0.5,3,1,4,0,1,0,0,4,12,9.1,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+19,54,19,2014-01-18,Eastern Kentucky,,Jacksonville State,REG (Conf),W 60-56,*,32,3,6,0.5,3,4,0.75,0,2,0.0,0.75,3,4,0.75,0,1,1,0,1,0,1,2,12,8.1,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+20,55,20,2014-01-23,Eastern Kentucky,@,Tennessee State,REG (Conf),W 94-78,*,27,3,8,0.375,0,3,0.0,3,5,0.6,0.375,7,8,0.875,3,0,3,2,0,0,0,4,13,10.1,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+21,56,21,2014-01-25,Eastern Kentucky,@,Belmont,REG (Conf),L 81-84,*,31,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,1,1,2,0,2,0,1,3,4,3.1,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+22,57,22,2014-01-30,Eastern Kentucky,,UT Martin,REG (Conf),W 89-66,*,25,2,4,0.5,0,2,0.0,2,2,1.0,0.5,8,8,1.0,0,0,0,2,0,0,4,2,12,6.6,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+23,58,23,2014-02-01,Eastern Kentucky,,Southeast Missouri State,REG (Conf),W 79-78,*,30,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,8,0.625,1,2,3,4,2,0,1,3,10,10.7,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+24,59,24,2014-02-04,Eastern Kentucky,,Chattanooga,REG (Non-Conf),W 74-63,*,32,2,7,0.286,0,1,0.0,2,6,0.333,0.286,1,2,0.5,3,2,5,1,0,0,0,1,5,3.5,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+25,60,25,2014-02-08,Eastern Kentucky,,Morehead State,REG (Conf),L 79-86,*,32,7,12,0.583,0,1,0.0,7,11,0.636,0.583,0,1,0.0,1,2,3,0,0,0,3,3,14,5.1,H,0,1,tarius-johnson-1,Tarius Johnson,2014
+26,61,26,2014-02-13,Eastern Kentucky,@,Tennessee Tech,REG (Conf),L 66-72,,25,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,2,0.5,2,4,6,1,2,0,2,2,8,7.8,A,0,1,tarius-johnson-1,Tarius Johnson,2014
+27,62,27,2014-02-15,Eastern Kentucky,@,Jacksonville State,REG (Conf),W 86-65,*,29,6,8,0.75,3,4,0.75,3,4,0.75,0.938,4,4,1.0,1,3,4,2,1,0,2,3,19,16.6,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+28,63,28,2014-02-22,Eastern Kentucky,@,Austin Peay,REG (Conf),W 96-75,*,34,7,9,0.778,4,5,0.8,3,4,0.75,1.0,6,10,0.6,2,2,4,1,3,0,0,3,24,23.4,A,1,1,tarius-johnson-1,Tarius Johnson,2014
+29,64,29,2014-02-27,Eastern Kentucky,,Tennessee Tech,REG (Conf),W 74-67,*,38,6,12,0.5,1,3,0.333,5,9,0.556,0.542,7,9,0.778,2,3,5,4,0,0,2,3,20,15.1,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+30,65,30,2014-03-01,Eastern Kentucky,,Tennessee State,REG (Conf),W 70-66,*,32,5,9,0.556,1,2,0.5,4,7,0.571,0.611,3,4,0.75,2,5,7,2,1,0,1,2,14,12.8,H,1,1,tarius-johnson-1,Tarius Johnson,2014
+31,66,31,2014-03-06,Eastern Kentucky,N,Southeast Missouri State,CTOURN,W 84-76,*,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,7,11,0.636,2,5,7,0,1,0,1,4,12,8.3,N,1,0,tarius-johnson-1,Tarius Johnson,2014
+32,67,32,2014-03-07,Eastern Kentucky,N,Murray State,CTOURN,W 86-83,*,18,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,0,2,2,2,0,0,0,5,8,5.3,N,1,0,tarius-johnson-1,Tarius Johnson,2014
+33,68,33,2014-03-08,Eastern Kentucky,N,Belmont,CTOURN,W 79-73,*,36,4,10,0.4,2,3,0.667,2,7,0.286,0.5,5,8,0.625,1,4,5,1,2,0,2,5,15,9.0,N,1,0,tarius-johnson-1,Tarius Johnson,2014
+34,69,34,2014-03-21,Eastern Kentucky,N,Kansas,ROUND-64,L 69-80,*,31,5,11,0.455,3,6,0.5,2,5,0.4,0.591,2,2,1.0,4,1,5,2,1,0,4,5,15,8.8,N,0,0,tarius-johnson-1,Tarius Johnson,2014

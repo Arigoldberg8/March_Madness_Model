@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,89,1,2015-11-13,Duke,,Siena,REG (Non-Conf),W 92-74,*,20,1,1,1.0,0,0,1,1,1.0,1.0,2,4,0.5,2,7,9,2,1,2,2,4,4,6.6,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+2,90,2,2015-11-14,Duke,,Bryant,REG (Non-Conf),W 113-75,*,28,1,3,0.333,0,0,1,3,0.333,0.333,6,11,0.545,5,3,8,1,1,3,1,2,8,10.7,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+3,91,3,2015-11-17,Duke,N,Kentucky,REG (Non-Conf),L 63-74,*,36,4,6,0.667,0,0,4,6,0.667,0.667,4,8,0.5,4,6,10,1,0,6,0,2,12,16.5,N,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+4,92,4,2015-11-20,Duke,N,VCU,REG (Non-Conf),W 79-71,*,21,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,3,3,0,0,0,0,1,4,3.9,N,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+5,93,5,2015-11-22,Duke,N,Georgetown,REG (Non-Conf),W 86-84,*,24,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,3,3,6,1,1,1,1,5,4,5.4,N,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+6,94,6,2015-11-25,Duke,,Yale,REG (Non-Conf),W 80-61,*,26,1,2,0.5,0,0,1,2,0.5,0.5,3,5,0.6,3,5,8,0,2,2,2,4,5,6.6,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+7,95,7,2015-11-29,Duke,,Utah State,REG (Non-Conf),W 85-52,*,27,3,3,1.0,0,0,3,3,1.0,1.0,3,3,1.0,0,8,8,1,2,2,1,2,9,12.8,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+8,96,8,2015-12-02,Duke,,Indiana,REG (Non-Conf),W 94-74,*,20,1,3,0.333,0,0,1,3,0.333,0.333,2,4,0.5,1,4,5,1,1,0,1,4,4,2.5,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+9,97,9,2015-12-05,Duke,,Buffalo,REG (Non-Conf),W 82-59,*,23,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,0,1,1,4,1,1,1,1,1,2.6,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+10,98,10,2015-12-15,Duke,,Georgia Southern,REG (Non-Conf),W 99-65,*,22,4,8,0.5,0,0,4,8,0.5,0.5,1,5,0.2,4,7,11,0,1,2,4,2,9,5.9,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+11,99,11,2015-12-19,Duke,N,Utah,REG (Non-Conf),L 75-77 (OT),*,26,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,2,2,4,2,1,2,0,5,3,6.1,N,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+12,100,12,2015-12-28,Duke,,Elon,REG (Non-Conf),W 105-66,*,20,3,6,0.5,0,0,3,6,0.5,0.5,4,6,0.667,5,6,11,0,0,3,2,2,10,10.8,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+13,101,13,2015-12-30,Duke,,Long Beach State,REG (Non-Conf),W 103-81,*,31,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,3,7,10,0,0,2,1,3,8,10.5,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+14,102,14,2016-01-02,Duke,@,Boston College,REG (Conf),W 81-64,*,34,0,0,,0,0,0,0,,,1,4,0.25,3,2,5,1,2,0,1,3,1,3.0,A,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+15,103,15,2016-01-06,Duke,@,Wake Forest,REG (Conf),W 91-75,*,34,7,7,1.0,0,0,7,7,1.0,1.0,4,4,1.0,3,4,7,1,0,2,0,3,18,20.1,A,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+16,104,16,2016-01-09,Duke,,Virginia Tech,REG (Conf),W 82-58,*,32,6,7,0.857,0,0,6,7,0.857,0.857,9,10,0.9,3,7,10,0,0,2,0,1,21,23.3,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+17,105,17,2016-01-13,Duke,@,Clemson,REG (Conf),L 63-68,*,36,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,7,9,2,0,1,3,4,7,5.3,A,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+18,106,18,2016-01-16,Duke,,Notre Dame,REG (Conf),L 91-95,*,39,4,6,0.667,0,0,4,6,0.667,0.667,0,1,0.0,6,3,9,2,1,2,1,2,8,12.1,H,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+19,107,19,2016-01-18,Duke,,Syracuse,REG (Conf),L 62-64,*,38,7,11,0.636,0,0,7,11,0.636,0.636,5,8,0.625,11,6,17,0,1,4,1,1,19,24.8,H,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+20,108,20,2016-01-23,Duke,@,NC State,REG (Conf),W 88-78,*,39,3,4,0.75,0,0,3,4,0.75,0.75,4,6,0.667,6,2,8,2,1,1,0,4,10,13.9,A,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+21,109,21,2016-01-25,Duke,@,Miami (FL),REG (Conf),L 69-80,*,36,1,4,0.25,0,0,1,4,0.25,0.25,5,6,0.833,4,5,9,1,0,0,1,1,7,7.8,A,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+22,110,22,2016-02-02,Duke,@,Georgia Tech,REG (Conf),W 80-71,*,31,4,4,1.0,0,0,4,4,1.0,1.0,0,2,0.0,4,8,12,2,0,0,1,4,8,10.0,A,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+23,111,23,2016-02-06,Duke,,NC State,REG (Conf),W 88-80,*,35,3,5,0.6,0,0,3,5,0.6,0.6,1,4,0.25,1,11,12,2,0,1,1,1,7,8.2,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+24,112,24,2016-02-08,Duke,,Louisville,REG (Conf),W 72-65,*,35,3,6,0.5,0,0,3,6,0.5,0.5,4,5,0.8,3,5,8,1,2,1,2,2,10,10.8,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+25,113,25,2016-02-13,Duke,,Virginia,REG (Conf),W 63-62,*,39,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,4,6,10,0,1,1,1,2,5,7.8,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+26,114,26,2016-02-17,Duke,@,North Carolina,REG (Conf),W 74-73,*,35,5,5,1.0,0,0,5,5,1.0,1.0,1,2,0.5,4,3,7,0,1,0,1,4,11,11.2,A,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+27,115,27,2016-02-20,Duke,@,Louisville,REG (Conf),L 64-71,*,38,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,3,11,14,2,0,1,1,3,6,8.6,A,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+28,116,28,2016-02-25,Duke,,Florida State,REG (Conf),W 80-65,*,29,4,7,0.571,0,0,4,7,0.571,0.571,5,6,0.833,5,5,10,2,2,1,1,2,13,16.6,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+29,117,29,2016-02-28,Duke,@,Pittsburgh,REG (Conf),L 62-76,*,28,0,0,,0,0,0,0,,,0,0,,2,2,4,2,0,0,1,2,0,1.6,A,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+30,118,30,2016-03-01,Duke,,Wake Forest,REG (Conf),W 79-71,*,34,4,9,0.444,0,0,4,9,0.444,0.444,5,11,0.455,7,10,17,1,1,1,1,5,13,13.2,H,1,1,marshall-plumlee-1,Marshall Plumlee,2016
+31,119,31,2016-03-05,Duke,,North Carolina,REG (Conf),L 72-76,*,37,2,2,1.0,0,0,2,2,1.0,1.0,1,5,0.2,5,4,9,1,1,0,0,2,5,8.4,H,0,1,marshall-plumlee-1,Marshall Plumlee,2016
+32,120,32,2016-03-09,Duke,N,NC State,CTOURN,W 92-89,*,32,5,5,1.0,0,0,5,5,1.0,1.0,7,9,0.778,3,7,10,0,1,4,2,0,17,20.7,N,1,0,marshall-plumlee-1,Marshall Plumlee,2016
+33,121,33,2016-03-10,Duke,N,Notre Dame,CTOURN,L 79-84 (OT),*,24,1,2,0.5,0,0,1,2,0.5,0.5,0,4,0.0,3,1,4,1,1,1,0,5,2,2.2,N,0,0,marshall-plumlee-1,Marshall Plumlee,2016
+34,122,34,2016-03-17,Duke,N,UNC Wilmington,ROUND-64,W 93-85,*,29,9,10,0.9,0,0,9,10,0.9,0.9,5,6,0.833,2,6,8,0,0,3,1,5,23,21.5,N,1,0,marshall-plumlee-1,Marshall Plumlee,2016
+35,123,35,2016-03-19,Duke,N,Yale,ROUND-32,W 71-64,*,31,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,8,10,1,1,5,1,4,2,8.1,N,1,0,marshall-plumlee-1,Marshall Plumlee,2016
+36,124,36,2016-03-24,Duke,N,Oregon,ROUND-16,L 68-82,*,30,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,1,4,5,1,0,1,2,3,6,3.7,N,0,0,marshall-plumlee-1,Marshall Plumlee,2016

@@ -1,0 +1,16 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2020-11-25,Connecticut,,Central Connecticut State,REG (Non-Conf),W 102-75,*,31,7,12,0.583,1,4,0.25,6,8,0.75,0.625,5,7,0.714,3,5,8,2,3,1,2,2,20,19.5,H,1,1,james-bouknight-1,James Bouknight,2021
+2,30,2,2020-11-27,Connecticut,,Hartford,REG (Non-Conf),W 69-57,*,33,7,15,0.467,2,7,0.286,5,8,0.625,0.533,2,3,0.667,3,1,4,0,1,0,2,5,18,9.3,H,1,1,james-bouknight-1,James Bouknight,2021
+3,31,3,2020-12-03,Connecticut,N,Southern California,REG (Non-Conf),W 61-58,*,33,5,15,0.333,3,6,0.5,2,9,0.222,0.433,5,5,1.0,1,6,7,2,1,0,4,1,18,10.0,N,1,1,james-bouknight-1,James Bouknight,2021
+4,32,4,2020-12-20,Connecticut,,Creighton,REG (Conf),L 74-76 (OT),*,40,13,24,0.542,5,12,0.417,8,12,0.667,0.646,9,12,0.75,2,2,4,2,1,0,3,1,40,28.2,H,0,1,james-bouknight-1,James Bouknight,2021
+5,33,5,2020-12-30,Connecticut,,DePaul,REG (Conf),W 82-61,*,33,6,13,0.462,0,4,0.0,6,9,0.667,0.462,8,9,0.889,2,2,4,3,2,1,3,1,20,16.3,H,1,1,james-bouknight-1,James Bouknight,2021
+6,34,6,2021-01-05,Connecticut,@,Marquette,REG (Conf),W 65-54,*,28,3,12,0.25,0,1,0.0,3,11,0.273,0.25,0,0,,2,3,5,1,1,0,3,2,6,-1.0,A,1,1,james-bouknight-1,James Bouknight,2021
+7,35,15,2021-02-16,Connecticut,,Providence,REG (Conf),W 73-61,,25,7,13,0.538,0,1,0.0,7,12,0.583,0.538,4,5,0.8,1,3,4,2,2,0,2,2,18,13.5,H,1,1,james-bouknight-1,James Bouknight,2021
+8,36,16,2021-02-20,Connecticut,@,Villanova,REG (Conf),L 60-68,*,36,7,17,0.412,3,8,0.375,4,9,0.444,0.5,4,8,0.5,3,7,10,1,1,1,5,0,21,11.9,A,0,1,james-bouknight-1,James Bouknight,2021
+9,37,17,2021-02-23,Connecticut,@,Georgetown,REG (Conf),W 70-57,*,34,8,17,0.471,1,3,0.333,7,14,0.5,0.5,3,3,1.0,1,9,10,1,0,0,3,1,20,12.0,A,1,1,james-bouknight-1,James Bouknight,2021
+10,38,18,2021-02-27,Connecticut,,Marquette,REG (Conf),W 80-62,*,31,9,15,0.6,0,4,0.0,9,11,0.818,0.6,6,6,1.0,1,1,2,1,2,0,2,2,24,18.0,H,1,1,james-bouknight-1,James Bouknight,2021
+11,39,19,2021-03-03,Connecticut,@,Seton Hall,REG (Conf),W 69-58,*,29,4,13,0.308,1,3,0.333,3,10,0.3,0.346,7,8,0.875,0,6,6,2,1,0,3,4,16,7.7,A,1,1,james-bouknight-1,James Bouknight,2021
+12,40,20,2021-03-06,Connecticut,,Georgetown,REG (Conf),W 98-82,*,29,8,12,0.667,5,9,0.556,3,3,1.0,0.875,0,0,,1,2,3,2,0,1,3,3,21,15.0,H,1,1,james-bouknight-1,James Bouknight,2021
+13,41,21,2021-03-11,Connecticut,N,DePaul,CTOURN,W 94-60,*,20,4,11,0.364,0,4,0.0,4,7,0.571,0.364,2,2,1.0,1,4,5,5,1,0,0,1,10,9.9,N,1,0,james-bouknight-1,James Bouknight,2021
+14,42,22,2021-03-12,Connecticut,N,Creighton,CTOURN,L 56-59,*,33,4,14,0.286,0,3,0.0,4,11,0.364,0.286,6,7,0.857,1,7,8,2,1,0,4,1,14,6.2,N,0,0,james-bouknight-1,James Bouknight,2021
+15,43,23,2021-03-20,Connecticut,N,Maryland,ROUND-64,L 54-63,*,40,6,16,0.375,1,6,0.167,5,10,0.5,0.406,2,6,0.333,1,4,5,1,0,0,3,2,15,3.4,N,0,0,james-bouknight-1,James Bouknight,2021

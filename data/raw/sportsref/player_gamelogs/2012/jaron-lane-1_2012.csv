@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2011-11-11,UNC Asheville,@,NC State,REG (Non-Conf),L 75-84,*,34,4,13,0.308,2,4,0.5,2,9,0.222,0.385,3,5,0.6,1,7,8,0,0,0,2,3,13,4.3,A,0,1,jaron-lane-1,Jaron Lane,2012
+2,64,2,2011-11-13,UNC Asheville,,North Carolina,REG (Non-Conf),L 75-91,*,26,8,12,0.667,1,4,0.25,7,8,0.875,0.708,4,5,0.8,0,1,1,0,1,0,0,1,21,16.3,H,0,1,jaron-lane-1,Jaron Lane,2012
+3,65,4,2011-11-21,UNC Asheville,,Brevard,REG (Non-Conf),W 89-48,*,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,jaron-lane-1,Jaron Lane,2012
+4,66,7,2011-11-26,UNC Asheville,N,Utah,REG (Non-Conf),W 87-65,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,3,4,0.75,3,3,6,0,0,0,0,1,8,7.5,N,1,1,jaron-lane-1,Jaron Lane,2012
+5,67,8,2011-12-01,UNC Asheville,@,Gardner-Webb,REG (Conf),W 66-60,,28,4,9,0.444,0,2,0.0,4,7,0.571,0.444,7,9,0.778,2,1,3,0,0,0,0,2,15,10.4,A,1,1,jaron-lane-1,Jaron Lane,2012
+6,68,9,2011-12-04,UNC Asheville,,USC Upstate,REG (Non-Conf),W 88-81,,27,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,1,4,5,2,0,1,2,2,6,5.1,H,1,1,jaron-lane-1,Jaron Lane,2012
+7,69,10,2011-12-15,UNC Asheville,,Montreat,REG (Non-Conf),W 109-61,,21,4,7,0.571,0,1,0.0,4,6,0.667,0.571,6,8,0.75,0,5,5,1,2,1,0,1,14,14.4,H,1,1,jaron-lane-1,Jaron Lane,2012
+8,70,16,2012-01-07,UNC Asheville,,Liberty,REG (Conf),W 98-75,,20,5,7,0.714,2,2,1.0,3,5,0.6,0.857,3,3,1.0,2,0,2,3,2,1,2,2,15,15.5,H,1,1,jaron-lane-1,Jaron Lane,2012
+9,71,17,2012-01-12,UNC Asheville,@,Campbell,REG (Conf),W 89-82,,31,6,10,0.6,0,2,0.0,6,8,0.75,0.6,1,2,0.5,0,0,0,1,3,0,5,5,13,4.7,A,1,1,jaron-lane-1,Jaron Lane,2012
+10,72,18,2012-01-14,UNC Asheville,@,High Point,REG (Conf),W 86-79,,19,3,3,1.0,0,0,,3,3,1.0,1.0,5,5,1.0,2,4,6,2,2,0,4,1,11,11.7,A,1,1,jaron-lane-1,Jaron Lane,2012
+11,73,19,2012-01-17,UNC Asheville,,Coastal Carolina,REG (Conf),W 88-81,,26,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,1,2,3,2,2,0,1,2,8,8.3,H,1,1,jaron-lane-1,Jaron Lane,2012
+12,74,20,2012-01-19,UNC Asheville,,Charleston Southern,REG (Conf),L 88-93,,28,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,1,2,3,3,1,1,3,3,11,8.9,H,0,1,jaron-lane-1,Jaron Lane,2012
+13,75,21,2012-01-21,UNC Asheville,@,Presbyterian,REG (Conf),W 66-58,,28,8,10,0.8,0,2,0.0,8,8,1.0,0.8,7,8,0.875,2,2,4,0,0,1,1,1,23,20.1,A,1,1,jaron-lane-1,Jaron Lane,2012
+14,76,22,2012-01-26,UNC Asheville,,High Point,REG (Conf),W 90-70,,26,6,8,0.75,1,2,0.5,5,6,0.833,0.813,6,7,0.857,2,1,3,0,0,1,1,2,19,16.0,H,1,1,jaron-lane-1,Jaron Lane,2012
+15,77,23,2012-01-28,UNC Asheville,,Campbell,REG (Conf),W 95-84,,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,5,1.0,1,1,2,2,1,0,2,2,9,7.6,H,1,1,jaron-lane-1,Jaron Lane,2012
+16,78,24,2012-02-02,UNC Asheville,@,VMI,REG (Conf),W 89-86,,27,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,1,0.0,1,2,3,1,0,0,2,4,10,5.1,A,1,1,jaron-lane-1,Jaron Lane,2012
+17,79,25,2012-02-04,UNC Asheville,@,Liberty,REG (Conf),W 65-51,,24,6,9,0.667,2,2,1.0,4,7,0.571,0.778,1,2,0.5,1,2,3,0,1,0,1,1,15,11.6,A,1,1,jaron-lane-1,Jaron Lane,2012
+18,80,26,2012-02-11,UNC Asheville,,Radford,REG (Conf),W 88-62,,21,4,6,0.667,0,2,0.0,4,4,1.0,0.667,6,6,1.0,1,3,4,2,0,1,0,0,14,15.1,H,1,1,jaron-lane-1,Jaron Lane,2012
+19,81,27,2012-02-14,UNC Asheville,@,Coastal Carolina,REG (Conf),L 69-74,,35,5,9,0.556,2,2,1.0,3,7,0.429,0.667,0,0,,1,2,3,2,0,0,0,1,12,10.0,A,0,1,jaron-lane-1,Jaron Lane,2012
+20,82,28,2012-02-18,UNC Asheville,@,Ohio,REG (Non-Conf),L 62-81,*,31,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,3,2,5,0,0,0,4,2,7,0.1,A,0,1,jaron-lane-1,Jaron Lane,2012
+21,83,29,2012-02-23,UNC Asheville,,Gardner-Webb,REG (Conf),W 71-61,,31,4,7,0.571,0,1,0.0,4,6,0.667,0.571,7,8,0.875,3,7,10,1,0,2,1,3,15,15.4,H,1,1,jaron-lane-1,Jaron Lane,2012
+22,84,30,2012-02-25,UNC Asheville,,Winthrop,REG (Conf),W 67-55,,21,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,5,5,0,0,0,2,2,2,-1.0,H,1,1,jaron-lane-1,Jaron Lane,2012
+23,85,31,2012-02-29,UNC Asheville,,High Point,CTOURN,W 86-61,,27,4,9,0.444,0,3,0.0,4,6,0.667,0.444,5,8,0.625,3,4,7,1,0,0,0,2,13,10.3,H,1,0,jaron-lane-1,Jaron Lane,2012
+24,86,32,2012-03-01,UNC Asheville,,Charleston Southern,CTOURN,W 91-64,,22,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,3,3,0,2,0,1,1,2,2.8,H,1,0,jaron-lane-1,Jaron Lane,2012
+25,87,33,2012-03-03,UNC Asheville,,VMI,CTOURN,W 80-64,,27,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,5,5,2,0,1,1,3,5,3.3,H,1,0,jaron-lane-1,Jaron Lane,2012
+26,88,34,2012-03-15,UNC Asheville,N,Syracuse,ROUND-64,L 65-72,,26,4,6,0.667,3,3,1.0,1,3,0.333,0.917,5,6,0.833,3,4,7,3,1,0,1,3,16,17.2,N,0,0,jaron-lane-1,Jaron Lane,2012

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,82,1,2010-11-15,Cincinnati,,Mount St. Mary's,REG (Non-Conf),W 69-59,*,7,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,2,3,0,0,0,0,1,3,3.2,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+2,83,2,2010-11-20,Cincinnati,,IPFW,REG (Non-Conf),W 65-59,,10,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,1,0,0,1,0,1.3,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+3,84,3,2010-11-22,Cincinnati,,Florida A&M,REG (Non-Conf),W 76-51,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,1,0,0,0,1,2,2.9,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+4,85,4,2010-11-24,Cincinnati,,Savannah State,REG (Non-Conf),W 54-41,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,0,1,0,3,2,1.5,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+5,86,5,2010-11-27,Cincinnati,N,Dayton,REG (Non-Conf),W 68-34,,20,0,4,0.0,0,3,0.0,0,1,0.0,0.0,4,4,1.0,2,4,6,5,1,0,2,3,4,5.1,N,1,1,darnell-wilks-1,Darnell Wilks,2011
+6,87,6,2010-12-01,Cincinnati,,Wright State,REG (Non-Conf),W 77-69,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,1,1,2,0,0,1,3,3,0.4,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+7,88,7,2010-12-04,Cincinnati,@,Toledo,REG (Non-Conf),W 81-47,,14,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,1,1.0,1,2,3,2,0,1,1,3,8,8.3,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+8,89,8,2010-12-11,Cincinnati,,Utah Valley,REG (Non-Conf),W 92-72,,15,2,5,0.4,1,1,1.0,1,4,0.25,0.5,1,3,0.333,3,0,3,2,5,0,1,2,6,9.2,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+9,90,9,2010-12-14,Cincinnati,,Georgia Southern,REG (Non-Conf),W 99-54,,16,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,4,4,8,2,0,1,1,4,3,3.7,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+10,91,10,2010-12-18,Cincinnati,N,Oklahoma,REG (Non-Conf),W 66-56,,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,3,3,1,0,0,0,2,5,3.0,N,1,1,darnell-wilks-1,Darnell Wilks,2011
+11,92,11,2010-12-21,Cincinnati,@,Miami (OH),REG (Non-Conf),W 64-48,,9,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,1,0.0,2,0,2,0,1,0,1,1,3,1.9,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+12,93,12,2010-12-23,Cincinnati,,Saint Francis (PA),REG (Non-Conf),W 94-58,*,12,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,0,2,0,-0.9,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+13,94,13,2010-12-28,Cincinnati,,DePaul,REG (Conf),W 76-60,,21,5,7,0.714,0,0,,5,7,0.714,0.714,1,4,0.25,3,2,5,1,2,1,2,0,11,11.0,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+14,95,14,2010-12-31,Cincinnati,,Seton Hall,REG (Conf),W 70-53,,20,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,1,1,2,2,0,1,4,3,7,4.3,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+15,96,15,2011-01-06,Cincinnati,,Xavier,REG (Non-Conf),W 66-46,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,2,1,2,1,2,0,-0.1,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+16,97,16,2011-01-09,Cincinnati,@,Villanova,REG (Conf),L 61-72,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,2,0,0,1,1,0,-0.4,A,0,1,darnell-wilks-1,Darnell Wilks,2011
+17,98,17,2011-01-12,Cincinnati,,South Florida,REG (Conf),W 74-66,,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,8,8,1.0,2,0,2,1,4,0,0,4,12,13.1,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+18,99,18,2011-01-15,Cincinnati,@,Syracuse,REG (Conf),L 52-67,,21,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,1,0,0,0,2,2,-0.9,A,0,1,darnell-wilks-1,Darnell Wilks,2011
+19,100,19,2011-01-19,Cincinnati,@,Notre Dame,REG (Conf),L 58-66,,9,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,2,0,0,1,5,3,1.4,A,0,1,darnell-wilks-1,Darnell Wilks,2011
+20,101,20,2011-01-22,Cincinnati,@,St. John's (NY),REG (Conf),W 53-51,*,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,0,3,0,0.1,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+21,102,21,2011-01-26,Cincinnati,,Rutgers,REG (Conf),W 72-56,*,23,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,3,2,5,1,1,1,3,1,4,4.4,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+22,103,22,2011-01-29,Cincinnati,,West Virginia,REG (Conf),L 55-66,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,H,0,1,darnell-wilks-1,Darnell Wilks,2011
+23,104,23,2011-02-05,Cincinnati,@,Pittsburgh,REG (Conf),L 59-71,*,16,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,3,2,5,0,0,1,1,5,4,1.6,A,0,1,darnell-wilks-1,Darnell Wilks,2011
+24,105,24,2011-02-08,Cincinnati,@,DePaul,REG (Conf),W 71-68,*,27,2,2,1.0,0,0,,2,2,1.0,1.0,2,6,0.333,2,3,5,2,0,0,3,0,6,4.5,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+25,106,25,2011-02-13,Cincinnati,,St. John's (NY),REG (Conf),L 57-59,*,8,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,1,0,1,1,1,3,2.0,H,0,1,darnell-wilks-1,Darnell Wilks,2011
+26,107,26,2011-02-16,Cincinnati,,Louisville,REG (Conf),W 63-54,*,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,1,0,3,2,0,-2.1,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+27,108,27,2011-02-19,Cincinnati,@,Providence,REG (Conf),W 93-81 (OT),*,21,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,3,4,2,0,1,3,4,4,0.7,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+28,109,28,2011-02-23,Cincinnati,@,Georgetown,REG (Conf),W 58-46,*,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+29,110,29,2011-02-27,Cincinnati,,Connecticut,REG (Conf),L 59-67,*,22,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,0,1,1,0,3,7,6.9,H,0,1,darnell-wilks-1,Darnell Wilks,2011
+30,111,30,2011-03-02,Cincinnati,@,Marquette,REG (Conf),W 67-60,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,1,0,0,2,1,2,-0.4,A,1,1,darnell-wilks-1,Darnell Wilks,2011
+31,112,31,2011-03-05,Cincinnati,,Georgetown,REG (Conf),W 69-47,,15,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,2,0.0,1,5,6,0,0,1,0,1,8,8.8,H,1,1,darnell-wilks-1,Darnell Wilks,2011
+32,113,32,2011-03-09,Cincinnati,N,South Florida,CTOURN,W 87-61,,12,0,0,,0,0,,0,0,,,2,2,1.0,1,2,3,2,1,0,1,0,2,4.7,N,1,0,darnell-wilks-1,Darnell Wilks,2011
+33,114,33,2011-03-10,Cincinnati,N,Notre Dame,CTOURN,L 51-89,,19,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,4,0.5,2,1,3,1,1,1,0,1,7,7.2,N,0,0,darnell-wilks-1,Darnell Wilks,2011
+34,115,34,2011-03-17,Cincinnati,N,Missouri,ROUND-64,W 78-63,,5,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,1,2,3,0.2,N,1,0,darnell-wilks-1,Darnell Wilks,2011
+35,116,35,2011-03-19,Cincinnati,N,Connecticut,ROUND-32,L 58-69,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,0,0,1,1,3,2,-0.2,N,0,0,darnell-wilks-1,Darnell Wilks,2011

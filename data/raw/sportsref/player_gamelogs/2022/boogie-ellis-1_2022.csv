@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2021-11-09,Southern California,,Cal State Northridge,REG (Non-Conf),W 89-49,*,25,9,11,0.818,2,4,0.5,7,7,1.0,0.909,0,0,,0,0,0,2,2,0,1,1,20,17.9,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+2,61,2,2021-11-13,Southern California,@,Temple,REG (Non-Conf),W 76-71,*,34,2,8,0.25,0,1,0.0,2,7,0.286,0.25,7,9,0.778,0,3,3,5,2,0,1,5,11,8.8,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+3,62,3,2021-11-16,Southern California,@,Florida Gulf Coast,REG (Non-Conf),W 78-61,*,33,6,11,0.545,3,6,0.5,3,5,0.6,0.682,3,5,0.6,3,5,8,6,1,0,3,2,18,16.9,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+4,63,4,2021-11-22,Southern California,,Dixie State,REG (Non-Conf),W 98-71,*,25,7,12,0.583,3,6,0.5,4,6,0.667,0.708,2,2,1.0,0,5,5,3,0,0,2,2,19,14.2,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+5,64,5,2021-11-25,Southern California,N,Saint Joseph's,REG (Non-Conf),W 70-55,*,30,8,14,0.571,1,3,0.333,7,11,0.636,0.607,0,0,,1,3,4,4,0,0,1,1,17,13.4,N,1,1,boogie-ellis-1,Boogie Ellis,2022
+6,65,6,2021-11-26,Southern California,N,San Diego State,REG (Non-Conf),W 58-43,*,34,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,2,0.0,0,4,4,0,0,0,1,3,2,-3.6,N,1,1,boogie-ellis-1,Boogie Ellis,2022
+7,66,7,2021-12-01,Southern California,,Utah,REG (Conf),W 93-73,*,30,7,12,0.583,4,7,0.571,3,5,0.6,0.75,1,3,0.333,1,1,2,4,1,1,0,1,19,17.7,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+8,67,8,2021-12-04,Southern California,@,Washington State,REG (Conf),W 63-61,*,29,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,4,4,2,1,0,1,3,6,3.7,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+9,68,9,2021-12-07,Southern California,,Eastern Kentucky,REG (Non-Conf),W 80-68,*,27,0,10,0.0,0,7,0.0,0,3,0.0,0.0,0,0,,0,5,5,5,2,0,2,3,0,-3.2,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+10,69,10,2021-12-12,Southern California,,Long Beach State,REG (Non-Conf),W 73-62,*,28,2,8,0.25,2,6,0.333,0,2,0.0,0.375,2,2,1.0,0,3,3,3,3,0,3,4,8,4.6,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+11,70,11,2021-12-15,Southern California,,UC Irvine,REG (Non-Conf),W 66-61,*,33,1,4,0.25,1,1,1.0,0,3,0.0,0.375,2,2,1.0,0,3,3,1,0,0,2,1,5,1.8,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+12,71,12,2021-12-18,Southern California,N,Georgia Tech,REG (Non-Conf),W 67-53,*,37,7,14,0.5,0,3,0.0,7,11,0.636,0.5,2,2,1.0,0,7,7,2,0,0,3,1,16,9.1,N,1,1,boogie-ellis-1,Boogie Ellis,2022
+13,72,13,2022-01-06,Southern California,@,California,REG (Conf),W 77-63,*,35,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,4,1.0,0,4,4,2,0,0,2,4,14,8.7,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+14,73,14,2022-01-11,Southern California,@,Stanford,REG (Conf),L 69-75,*,35,4,11,0.364,2,5,0.4,2,6,0.333,0.455,4,6,0.667,0,3,3,2,1,0,4,2,14,5.6,A,0,1,boogie-ellis-1,Boogie Ellis,2022
+15,74,15,2022-01-13,Southern California,,Oregon State,REG (Conf),W 81-71,*,33,5,13,0.385,3,8,0.375,2,5,0.4,0.5,1,2,0.5,0,4,4,2,2,0,2,1,14,8.7,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+16,75,16,2022-01-15,Southern California,,Oregon,REG (Conf),L 69-79,*,35,7,21,0.333,4,10,0.4,3,11,0.273,0.429,0,2,0.0,0,0,0,3,0,0,1,2,18,5.6,H,0,1,boogie-ellis-1,Boogie Ellis,2022
+17,76,17,2022-01-20,Southern California,@,Colorado,REG (Conf),W 61-58,*,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,3,1.0,0,1,1,2,0,0,3,4,11,4.8,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+18,77,18,2022-01-22,Southern California,@,Utah,REG (Conf),W 79-67,*,25,4,9,0.444,2,5,0.4,2,4,0.5,0.556,8,8,1.0,0,4,4,4,1,0,1,4,18,15.7,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+19,78,19,2022-01-24,Southern California,,Arizona State,REG (Conf),W 78-56,*,20,1,9,0.111,0,4,0.0,1,5,0.2,0.111,0,0,,1,1,2,2,0,0,1,1,2,-2.9,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+20,79,20,2022-01-27,Southern California,,Stanford,REG (Conf),L 61-64,*,34,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,2,2,2,0,0,1,1,11,9.0,H,0,1,boogie-ellis-1,Boogie Ellis,2022
+21,80,21,2022-01-29,Southern California,,California,REG (Conf),W 79-72,*,37,8,10,0.8,2,2,1.0,6,8,0.75,0.9,3,3,1.0,0,2,2,0,0,0,1,2,21,16.0,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+22,81,22,2022-02-03,Southern California,@,Arizona State,REG (Conf),W 58-53,*,31,6,15,0.4,2,6,0.333,4,9,0.444,0.467,7,8,0.875,2,4,6,3,1,0,1,1,21,16.8,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+23,82,23,2022-02-05,Southern California,@,Arizona,REG (Conf),L 63-72,*,30,3,12,0.25,2,7,0.286,1,5,0.2,0.333,0,0,,4,1,5,5,1,0,0,3,8,7.2,A,0,1,boogie-ellis-1,Boogie Ellis,2022
+24,83,24,2022-02-08,Southern California,,Pacific,REG (Non-Conf),W 74-68,*,31,3,9,0.333,2,3,0.667,1,6,0.167,0.444,5,6,0.833,0,1,1,2,1,0,2,1,13,7.8,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+25,84,25,2022-02-12,Southern California,,UCLA,REG (Conf),W 67-64,*,20,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,1,3,4,2,2,1,5,2,0,-5.0,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+26,85,26,2022-02-17,Southern California,,Washington,REG (Conf),W 79-69,*,32,3,10,0.3,3,6,0.5,0,4,0.0,0.45,0,0,,1,3,4,3,4,2,3,1,9,8.9,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+27,86,27,2022-02-20,Southern California,,Washington State,REG (Conf),W 62-60,*,36,6,10,0.6,2,2,1.0,4,8,0.5,0.7,7,8,0.875,0,2,2,1,0,0,0,2,21,16.5,H,1,1,boogie-ellis-1,Boogie Ellis,2022
+28,87,29,2022-02-26,Southern California,@,Oregon,REG (Conf),W 70-69,*,24,3,10,0.3,2,4,0.5,1,6,0.167,0.4,0,1,0.0,0,0,0,1,1,0,1,4,8,0.9,A,1,1,boogie-ellis-1,Boogie Ellis,2022
+29,88,30,2022-03-01,Southern California,,Arizona,REG (Conf),L 71-91,*,23,3,11,0.273,0,3,0.0,3,8,0.375,0.273,3,3,1.0,1,2,3,1,0,0,1,0,9,3.5,H,0,1,boogie-ellis-1,Boogie Ellis,2022
+30,89,31,2022-03-05,Southern California,@,UCLA,REG (Conf),L 68-75,*,32,5,14,0.357,2,6,0.333,3,8,0.375,0.429,1,1,1.0,0,2,2,3,0,0,0,4,13,6.3,A,0,1,boogie-ellis-1,Boogie Ellis,2022
+31,90,32,2022-03-10,Southern California,N,Washington,CTOURN,W 65-61,*,29,6,10,0.6,3,5,0.6,3,5,0.6,0.75,2,3,0.667,1,3,4,1,0,1,3,2,17,11.2,N,1,0,boogie-ellis-1,Boogie Ellis,2022
+32,91,33,2022-03-11,Southern California,N,UCLA,CTOURN,L 59-69,*,36,9,17,0.529,5,9,0.556,4,8,0.5,0.676,4,4,1.0,0,5,5,1,0,0,3,4,27,16.3,N,0,0,boogie-ellis-1,Boogie Ellis,2022
+33,92,34,2022-03-18,Southern California,N,Miami (FL),ROUND-64,L 66-68,*,14,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,1,2,3,1,1,0,3,0,3,-0.8,N,0,0,boogie-ellis-1,Boogie Ellis,2022

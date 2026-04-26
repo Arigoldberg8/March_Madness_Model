@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2016-11-11,Maryland,,American,REG (Non-Conf),W 62-56,*,34,9,19,0.474,0,4,0.0,9,15,0.6,0.474,4,6,0.667,0,3,3,4,0,0,4,1,22,10.8,H,1,1,melo-trimble-1,Melo Trimble,2017
+2,73,2,2016-11-15,Maryland,@,Georgetown,REG (Non-Conf),W 76-75,*,36,7,13,0.538,1,4,0.25,6,9,0.667,0.577,7,9,0.778,0,1,1,2,1,0,4,3,22,12.4,A,1,1,melo-trimble-1,Melo Trimble,2017
+3,74,3,2016-11-17,Maryland,,St. Mary's (MD),REG (Non-Conf),W 93-45,*,15,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,3,0.667,0,0,0,0,1,0,0,1,7,5.9,H,1,1,melo-trimble-1,Melo Trimble,2017
+4,75,4,2016-11-20,Maryland,,Towson,REG (Non-Conf),W 71-66,*,37,4,15,0.267,3,10,0.3,1,5,0.2,0.367,16,17,0.941,1,5,6,4,1,1,2,3,27,21.2,H,1,1,melo-trimble-1,Melo Trimble,2017
+5,76,5,2016-11-22,Maryland,,Stony Brook,REG (Non-Conf),W 77-63,*,32,4,8,0.5,3,6,0.5,1,2,0.5,0.688,10,11,0.909,0,5,5,2,3,1,3,2,21,19.4,H,1,1,melo-trimble-1,Melo Trimble,2017
+6,77,6,2016-11-25,Maryland,N,Richmond,REG (Non-Conf),W 88-82 (OT),*,42,10,20,0.5,5,13,0.385,5,7,0.714,0.625,6,9,0.667,0,4,4,1,2,0,6,3,31,16.5,N,1,1,melo-trimble-1,Melo Trimble,2017
+7,78,7,2016-11-26,Maryland,N,Kansas State,REG (Non-Conf),W 69-68,*,32,6,11,0.545,1,3,0.333,5,8,0.625,0.591,5,7,0.714,0,2,2,1,1,0,5,1,18,8.8,N,1,1,melo-trimble-1,Melo Trimble,2017
+8,79,8,2016-11-29,Maryland,,Pittsburgh,REG (Non-Conf),L 59-73,*,35,4,13,0.308,2,8,0.25,2,5,0.4,0.385,3,4,0.75,2,4,6,5,2,0,3,4,13,8.6,H,0,1,melo-trimble-1,Melo Trimble,2017
+9,80,9,2016-12-03,Maryland,,Oklahoma State,REG (Non-Conf),W 71-70,*,34,4,12,0.333,0,5,0.0,4,7,0.571,0.333,5,6,0.833,0,4,4,6,0,0,3,1,13,7.8,H,1,1,melo-trimble-1,Melo Trimble,2017
+10,81,10,2016-12-07,Maryland,,Howard,REG (Non-Conf),W 79-56,*,27,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,0,2,2,4,2,0,2,1,10,9.0,H,1,1,melo-trimble-1,Melo Trimble,2017
+11,82,11,2016-12-10,Maryland,,Saint Peter's,REG (Non-Conf),W 66-56,*,26,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,2,2,4,0,0,0,0,5,6.4,H,1,1,melo-trimble-1,Melo Trimble,2017
+12,83,12,2016-12-12,Maryland,,Jacksonville State,REG (Non-Conf),W 92-66,*,26,6,7,0.857,4,5,0.8,2,2,1.0,1.143,7,7,1.0,0,2,2,2,0,0,2,4,23,18.9,H,1,1,melo-trimble-1,Melo Trimble,2017
+13,84,13,2016-12-20,Maryland,N,Charlotte,REG (Non-Conf),W 88-72,*,30,7,12,0.583,3,6,0.5,4,6,0.667,0.708,4,4,1.0,0,3,3,3,2,0,4,2,21,15.6,N,1,1,melo-trimble-1,Melo Trimble,2017
+14,85,14,2016-12-27,Maryland,,Illinois,REG (Conf),W 84-59,*,28,7,10,0.7,1,3,0.333,6,7,0.857,0.75,5,5,1.0,0,3,3,2,1,0,6,1,20,12.7,H,1,1,melo-trimble-1,Melo Trimble,2017
+15,86,15,2017-01-01,Maryland,,Nebraska,REG (Conf),L 65-67,*,34,5,15,0.333,2,5,0.4,3,10,0.3,0.4,2,3,0.667,0,5,5,2,0,0,3,2,14,4.2,H,0,1,melo-trimble-1,Melo Trimble,2017
+16,87,16,2017-01-07,Maryland,@,Michigan,REG (Conf),W 77-70,*,32,5,15,0.333,2,4,0.5,3,11,0.273,0.4,1,2,0.5,0,6,6,4,3,0,2,1,13,9.3,A,1,1,melo-trimble-1,Melo Trimble,2017
+17,88,17,2017-01-10,Maryland,,Indiana,REG (Conf),W 75-72,*,30,5,16,0.313,0,2,0.0,5,14,0.357,0.313,8,10,0.8,0,2,2,3,0,0,3,3,18,6.5,H,1,1,melo-trimble-1,Melo Trimble,2017
+18,89,18,2017-01-14,Maryland,@,Illinois,REG (Conf),W 62-56,*,33,5,16,0.313,2,11,0.182,3,5,0.6,0.375,0,0,,0,5,5,5,3,0,2,2,12,8.0,A,1,1,melo-trimble-1,Melo Trimble,2017
+19,90,19,2017-01-19,Maryland,@,Iowa,REG (Conf),W 84-76,*,34,6,12,0.5,5,9,0.556,1,3,0.333,0.708,3,4,0.75,0,5,5,5,1,0,4,2,20,14.8,A,1,1,melo-trimble-1,Melo Trimble,2017
+20,91,20,2017-01-24,Maryland,,Rutgers,REG (Conf),W 67-55,*,34,5,8,0.625,3,5,0.6,2,3,0.667,0.813,4,5,0.8,1,5,6,4,1,0,5,1,17,13.6,H,1,1,melo-trimble-1,Melo Trimble,2017
+21,92,21,2017-01-28,Maryland,@,Minnesota,REG (Conf),W 85-78,*,33,5,9,0.556,0,2,0.0,5,7,0.714,0.556,3,4,0.75,0,7,7,9,1,0,0,1,13,17.3,A,1,1,melo-trimble-1,Melo Trimble,2017
+22,93,22,2017-01-31,Maryland,@,Ohio State,REG (Conf),W 77-71,*,30,5,13,0.385,1,6,0.167,4,7,0.571,0.423,2,2,1.0,0,3,3,4,0,0,5,2,13,3.8,A,1,1,melo-trimble-1,Melo Trimble,2017
+23,94,23,2017-02-04,Maryland,,Purdue,REG (Conf),L 72-73,*,35,4,15,0.267,0,4,0.0,4,11,0.364,0.267,14,15,0.933,0,3,3,5,1,0,5,1,22,12.7,H,0,1,melo-trimble-1,Melo Trimble,2017
+24,95,24,2017-02-07,Maryland,@,Penn State,REG (Conf),L 64-70,*,31,4,13,0.308,1,4,0.25,3,9,0.333,0.346,2,3,0.667,0,2,2,4,2,0,1,2,11,6.7,A,0,1,melo-trimble-1,Melo Trimble,2017
+25,96,25,2017-02-11,Maryland,,Ohio State,REG (Conf),W 86-77,*,30,3,11,0.273,1,6,0.167,2,5,0.4,0.318,3,4,0.75,0,0,0,4,1,0,1,1,10,5.5,H,1,1,melo-trimble-1,Melo Trimble,2017
+26,97,26,2017-02-15,Maryland,@,Northwestern,REG (Conf),W 74-64,*,32,12,17,0.706,4,5,0.8,8,12,0.667,0.824,4,5,0.8,0,4,4,3,1,1,2,1,32,27.1,A,1,1,melo-trimble-1,Melo Trimble,2017
+27,98,27,2017-02-19,Maryland,@,Wisconsin,REG (Conf),L 60-71,*,31,9,17,0.529,4,7,0.571,5,10,0.5,0.647,5,10,0.5,0,5,5,3,0,0,4,0,27,16.3,A,0,1,melo-trimble-1,Melo Trimble,2017
+28,99,28,2017-02-22,Maryland,,Minnesota,REG (Conf),L 75-89,*,34,4,12,0.333,1,6,0.167,3,6,0.5,0.375,2,3,0.667,0,0,0,6,1,0,4,2,11,4.2,H,0,1,melo-trimble-1,Melo Trimble,2017
+29,100,29,2017-02-25,Maryland,,Iowa,REG (Conf),L 69-83,*,32,4,13,0.308,1,9,0.111,3,4,0.75,0.346,1,2,0.5,1,4,5,4,1,0,3,2,10,4.0,H,0,1,melo-trimble-1,Melo Trimble,2017
+30,101,30,2017-02-28,Maryland,@,Rutgers,REG (Conf),W 79-59,*,31,5,12,0.417,1,4,0.25,4,8,0.5,0.458,0,0,,2,2,4,7,0,2,1,1,11,11.5,A,1,1,melo-trimble-1,Melo Trimble,2017
+31,102,31,2017-03-04,Maryland,,Michigan State,REG (Conf),W 63-60,*,35,6,15,0.4,2,6,0.333,4,9,0.444,0.467,2,3,0.667,1,5,6,2,0,0,2,2,16,8.3,H,1,1,melo-trimble-1,Melo Trimble,2017
+32,103,32,2017-03-10,Maryland,N,Northwestern,CTOURN,L 64-72,*,35,7,14,0.5,0,4,0.0,7,10,0.7,0.5,6,8,0.75,0,6,6,4,2,0,6,3,20,11.6,N,0,0,melo-trimble-1,Melo Trimble,2017
+33,104,33,2017-03-16,Maryland,N,Xavier,ROUND-64,L 65-76,*,39,5,15,0.333,1,9,0.111,4,6,0.667,0.367,2,4,0.5,1,1,2,3,2,0,3,3,13,4.6,N,0,0,melo-trimble-1,Melo Trimble,2017

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-10,Gonzaga,,Yale,REG (Non-Conf),W 86-71,,20,7,10,0.7,2,3,0.667,5,7,0.714,0.8,3,3,1.0,4,5,9,0,0,0,2,3,19,15.9,H,1,1,braden-huff-1,Braden Huff,2024
+2,2,2,2023-11-14,Gonzaga,,Eastern Ore.,REG (Non-Conf),W 123-57,,14,11,14,0.786,1,2,0.5,10,12,0.833,0.821,0,1,0.0,4,2,6,0,0,1,0,0,23,21.3,H,1,1,braden-huff-1,Braden Huff,2024
+3,3,3,2023-11-20,Gonzaga,N,Purdue,REG (Non-Conf),L 63-73,,19,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,3,0.333,2,4,6,0,0,0,1,2,6,2.6,N,0,1,braden-huff-1,Braden Huff,2024
+4,4,4,2023-11-21,Gonzaga,N,Syracuse,REG (Non-Conf),W 76-57,,12,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,1,2,3,1,0,0,1,3,9,5.1,N,1,1,braden-huff-1,Braden Huff,2024
+5,5,5,2023-11-23,Gonzaga,N,UCLA,REG (Non-Conf),W 69-65,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,2,0.0,0,2,2,1,0,0,0,3,0,-1.4,N,1,1,braden-huff-1,Braden Huff,2024
+6,6,6,2023-11-28,Gonzaga,,Cal State Bakersfield,REG (Non-Conf),W 81-65,,18,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,3,1,4,1,0,0,0,0,12,12.2,H,1,1,braden-huff-1,Braden Huff,2024
+7,7,7,2023-12-02,Gonzaga,N,Southern California,REG (Non-Conf),W 89-76,,20,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,2,0.0,0,2,2,0,0,0,0,1,12,7.1,N,1,1,braden-huff-1,Braden Huff,2024
+8,8,8,2023-12-05,Gonzaga,,Arkansas–Pine Bluff,REG (Non-Conf),W 111-71,,15,8,9,0.889,1,1,1.0,7,8,0.875,0.944,2,3,0.667,5,2,7,0,0,3,1,2,19,19.9,H,1,1,braden-huff-1,Braden Huff,2024
+9,9,9,2023-12-09,Gonzaga,@,Washington,REG (Non-Conf),L 73-78,,5,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,3,0,-3.6,A,0,1,braden-huff-1,Braden Huff,2024
+10,10,10,2023-12-11,Gonzaga,,Mississippi Valley State,REG (Non-Conf),W 78-40,,19,7,9,0.778,0,0,,7,9,0.778,0.778,3,8,0.375,2,2,4,1,3,1,3,1,17,14.5,H,1,1,braden-huff-1,Braden Huff,2024
+11,11,11,2023-12-15,Gonzaga,N,Connecticut,REG (Non-Conf),L 63-76,,13,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,2,2,0,1,0,0,1,1,-1.0,N,0,1,braden-huff-1,Braden Huff,2024
+12,12,12,2023-12-20,Gonzaga,,Jackson State,REG (Non-Conf),W 100-76,,23,7,9,0.778,0,1,0.0,7,8,0.875,0.778,3,7,0.429,3,6,9,1,1,2,0,3,17,17.7,H,1,1,braden-huff-1,Braden Huff,2024
+13,13,13,2023-12-29,Gonzaga,,San Diego State,REG (Non-Conf),L 74-84,,8,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,0,0,1,0,0,2,1.0,H,0,1,braden-huff-1,Braden Huff,2024
+14,14,14,2024-01-04,Gonzaga,,Pepperdine,REG (Conf),W 86-60,,14,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,2,0.5,1,3,4,1,0,0,1,5,11,7.0,H,1,1,braden-huff-1,Braden Huff,2024
+15,15,15,2024-01-06,Gonzaga,,San Diego,REG (Conf),W 101-74,,19,4,5,0.8,0,1,0.0,4,4,1.0,0.8,1,4,0.25,1,4,5,3,1,2,0,0,9,12.3,H,1,1,braden-huff-1,Braden Huff,2024
+16,16,16,2024-01-11,Gonzaga,@,Santa Clara,REG (Conf),L 76-77,,19,6,10,0.6,1,4,0.25,5,6,0.833,0.65,1,1,1.0,1,4,5,0,0,2,0,2,14,11.9,A,0,1,braden-huff-1,Braden Huff,2024
+17,17,17,2024-01-18,Gonzaga,@,Pepperdine,REG (Conf),W 86-61,,12,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,0,2,2,1,0,1,0,3,9,7.9,A,1,1,braden-huff-1,Braden Huff,2024
+18,18,18,2024-01-20,Gonzaga,@,San Diego,REG (Conf),W 105-63,,20,12,17,0.706,1,3,0.333,11,14,0.786,0.735,1,1,1.0,3,2,5,1,0,0,1,1,26,20.9,A,1,1,braden-huff-1,Braden Huff,2024
+19,19,19,2024-01-25,Gonzaga,,San Francisco,REG (Conf),W 77-72,,8,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,2,2,4,0,0,0,0,2,0,-2.3,H,1,1,braden-huff-1,Braden Huff,2024
+20,20,20,2024-01-27,Gonzaga,@,Pacific,REG (Conf),W 82-73,,16,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,2,0.0,1,3,4,0,0,1,0,2,6,3.7,A,1,1,braden-huff-1,Braden Huff,2024
+21,21,21,2024-01-30,Gonzaga,,Loyola Marymount,REG (Conf),W 92-58,,15,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,1,1.0,1,4,5,1,0,0,0,1,10,8.2,H,1,1,braden-huff-1,Braden Huff,2024
+22,22,22,2024-02-03,Gonzaga,,St. Mary's (CA),REG (Conf),L 62-64,,5,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,H,0,1,braden-huff-1,Braden Huff,2024
+23,23,23,2024-02-07,Gonzaga,,Portland,REG (Conf),W 96-64,,24,11,16,0.688,3,5,0.6,8,11,0.727,0.781,0,0,,2,5,7,3,0,0,0,2,25,22.4,H,1,1,braden-huff-1,Braden Huff,2024
+24,24,24,2024-02-10,Gonzaga,@,Kentucky,REG (Non-Conf),W 89-85,,15,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,2,1,3,0,1,0,0,1,12,10.7,A,1,1,braden-huff-1,Braden Huff,2024
+25,25,25,2024-02-15,Gonzaga,@,Loyola Marymount,REG (Conf),W 91-74,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,0,2,2,-0.2,A,1,1,braden-huff-1,Braden Huff,2024
+26,26,26,2024-02-17,Gonzaga,,Pacific,REG (Conf),W 102-76,,12,6,8,0.75,2,3,0.667,4,5,0.8,0.875,3,3,1.0,2,4,6,0,0,2,0,4,17,16.2,H,1,1,braden-huff-1,Braden Huff,2024
+27,27,27,2024-02-22,Gonzaga,@,Portland,REG (Conf),W 86-65,,11,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,1,0,3,1,3,4,3.2,A,1,1,braden-huff-1,Braden Huff,2024
+28,28,28,2024-02-24,Gonzaga,,Santa Clara,REG (Conf),W 94-81,,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,1,0,1,2,0.6,H,1,1,braden-huff-1,Braden Huff,2024
+29,29,29,2024-02-29,Gonzaga,@,San Francisco,REG (Conf),W 86-68,,6,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,0,0,1,0,3,4,2.2,A,1,1,braden-huff-1,Braden Huff,2024
+30,30,30,2024-03-02,Gonzaga,@,St. Mary's (CA),REG (Conf),W 70-57,,5,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,0,1,1,0,0,5,6.4,A,1,1,braden-huff-1,Braden Huff,2024
+31,31,31,2024-03-11,Gonzaga,N,San Francisco,CTOURN,W 89-77,,10,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,1,1,2,1,0,0,0,1,6,4.9,N,1,0,braden-huff-1,Braden Huff,2024
+32,32,32,2024-03-12,Gonzaga,N,St. Mary's (CA),CTOURN,L 60-69,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,1,1,0,0,1,0,2,4,3.2,N,0,0,braden-huff-1,Braden Huff,2024
+33,33,33,2024-03-21,Gonzaga,N,McNeese State,ROUND-64,W 86-65,,15,3,7,0.429,0,0,,3,7,0.429,0.429,1,1,1.0,2,1,3,0,0,1,1,2,7,3.9,N,1,0,braden-huff-1,Braden Huff,2024
+34,34,34,2024-03-23,Gonzaga,N,Kansas,ROUND-32,W 89-68,,18,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,1,1,2,1,0,0,0,1,11,7.6,N,1,0,braden-huff-1,Braden Huff,2024
+35,35,35,2024-03-29,Gonzaga,N,Purdue,ROUND-16,L 68-80,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,0,1,0,1,1,4,2.3,N,0,0,braden-huff-1,Braden Huff,2024

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Alabama State,@,UNLV,REG (Non-Conf),L 79-93,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,3,2,0,-4.9,A,0,1,micah-simpson-1,Micah Simpson,2025
+2,2,2,2024-11-10,Alabama State,@,Louisiana State,REG (Non-Conf),L 61-74,,19,0,6,0.0,0,5,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,1,0,0,1,3,2,-2.7,A,0,1,micah-simpson-1,Micah Simpson,2025
+3,3,3,2024-11-18,Alabama State,,VU Lynchburg,REG (Non-Conf),W 115-64,,21,6,11,0.545,3,8,0.375,3,3,1.0,0.682,0,1,0.0,2,1,3,5,5,0,0,3,15,18.3,H,1,1,micah-simpson-1,Micah Simpson,2025
+4,4,4,2024-11-22,Alabama State,N,Omaha,REG (Non-Conf),W 85-67,,20,5,8,0.625,4,7,0.571,1,1,1.0,0.875,3,4,0.75,2,4,6,1,2,0,2,1,17,15.9,N,1,1,micah-simpson-1,Micah Simpson,2025
+5,5,5,2024-11-23,Alabama State,N,Lamar,REG (Non-Conf),W 77-75,,21,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,1,1.0,0,0,0,0,1,0,0,3,11,8.2,N,1,1,micah-simpson-1,Micah Simpson,2025
+6,6,6,2024-11-24,Alabama State,@,Akron,REG (Non-Conf),L 78-97,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,1,0,3,3,0,-3.3,A,0,1,micah-simpson-1,Micah Simpson,2025
+7,7,7,2024-11-27,Alabama State,@,Cincinnati,REG (Non-Conf),L 59-77,*,22,1,8,0.125,1,6,0.167,0,2,0.0,0.188,1,2,0.5,1,1,2,1,0,0,0,0,4,0.1,A,0,1,micah-simpson-1,Micah Simpson,2025
+8,8,8,2024-12-03,Alabama State,@,SMU,REG (Non-Conf),L 72-101,,11,0,6,0.0,0,3,0.0,0,3,0.0,0.0,2,2,1.0,0,3,3,0,0,0,2,2,2,-4.1,A,0,1,micah-simpson-1,Micah Simpson,2025
+9,9,9,2024-12-05,Alabama State,@,Southern Mississippi,REG (Non-Conf),L 64-81,,20,3,11,0.273,1,5,0.2,2,6,0.333,0.318,2,2,1.0,0,3,3,1,0,0,1,1,9,2.7,A,0,1,micah-simpson-1,Micah Simpson,2025
+10,10,10,2024-12-11,Alabama State,,UT Martin,REG (Non-Conf),W 103-93 (OT),,28,7,13,0.538,6,10,0.6,1,3,0.333,0.769,0,0,,0,1,1,2,1,0,0,1,20,16.0,H,1,1,micah-simpson-1,Micah Simpson,2025
+11,11,11,2024-12-19,Alabama State,N,Norfolk State,REG (Non-Conf),L 54-71,,18,0,6,0.0,0,5,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,3,0,-5.4,N,0,1,micah-simpson-1,Micah Simpson,2025
+12,12,12,2024-12-20,Alabama State,N,Delaware State,REG (Non-Conf),L 80-83,,24,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,0,1,1,3,0,0,1,1,10,7.0,N,0,1,micah-simpson-1,Micah Simpson,2025
+13,13,13,2024-12-30,Alabama State,@,Missouri,REG (Non-Conf),L 65-82,,19,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,0,4,4,2,1,0,1,2,9,7.8,A,0,1,micah-simpson-1,Micah Simpson,2025
+14,14,14,2025-01-04,Alabama State,,Mississippi Valley State,REG (Conf),W 84-55,,18,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,1,1,1,0,1,10,10.0,H,1,1,micah-simpson-1,Micah Simpson,2025
+15,15,15,2025-01-06,Alabama State,,Arkansas–Pine Bluff,REG (Conf),W 93-91,,19,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,1,1,5,2,0,1,2,11,11.7,H,1,1,micah-simpson-1,Micah Simpson,2025
+16,16,16,2025-01-11,Alabama State,@,Jackson State,REG (Conf),L 70-77,,22,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,1,1,0,0,0,1,1,10,4.9,A,0,1,micah-simpson-1,Micah Simpson,2025
+17,17,17,2025-01-13,Alabama State,@,Alcorn State,REG (Conf),L 65-67,,16,2,7,0.286,2,7,0.286,0,0,,0.429,2,2,1.0,0,1,1,0,0,0,0,1,8,3.8,A,0,1,micah-simpson-1,Micah Simpson,2025
+18,18,18,2025-01-18,Alabama State,@,Alabama A&M,REG (Conf),W 69-65,,19,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,4,0.75,0,1,1,0,0,0,0,1,14,9.5,A,1,1,micah-simpson-1,Micah Simpson,2025
+19,19,19,2025-01-25,Alabama State,,Prairie View A&M,REG (Conf),W 66-63,,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,3,3,1,1,0,1,1,4,2.8,H,1,1,micah-simpson-1,Micah Simpson,2025
+20,20,20,2025-01-27,Alabama State,,Texas Southern,REG (Conf),L 69-80,,21,2,8,0.25,2,8,0.25,0,0,,0.375,0,0,,0,0,0,3,0,0,0,1,6,2.9,H,0,1,micah-simpson-1,Micah Simpson,2025
+21,21,21,2025-02-01,Alabama State,@,Bethune-Cookman,REG (Conf),L 64-67,,16,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,1,1,2,2,0,2,2,6,3.5,A,0,1,micah-simpson-1,Micah Simpson,2025
+22,22,22,2025-02-03,Alabama State,@,Florida A&M,REG (Conf),W 67-66,,18,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-2.1,A,1,1,micah-simpson-1,Micah Simpson,2025
+23,23,23,2025-02-08,Alabama State,,Grambling State,REG (Conf),L 67-77,,16,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,0,0,1,1,2,3,-0.2,H,0,1,micah-simpson-1,Micah Simpson,2025
+24,24,24,2025-02-10,Alabama State,,Southern,REG (Conf),W 82-81,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,H,1,1,micah-simpson-1,Micah Simpson,2025
+25,25,25,2025-02-15,Alabama State,@,Arkansas–Pine Bluff,REG (Conf),W 75-63,,21,3,7,0.429,3,7,0.429,0,0,,0.643,4,4,1.0,0,2,2,0,0,0,0,0,13,9.9,A,1,1,micah-simpson-1,Micah Simpson,2025
+26,26,26,2025-02-17,Alabama State,@,Mississippi Valley State,REG (Conf),W 79-56,,19,2,12,0.167,1,7,0.143,1,5,0.2,0.208,0,0,,1,1,2,1,0,0,1,0,5,-1.9,A,1,1,micah-simpson-1,Micah Simpson,2025
+27,27,27,2025-02-22,Alabama State,,Florida A&M,REG (Conf),W 60-59,,11,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,0,0,0,0,0,0,2,3,-0.6,H,1,1,micah-simpson-1,Micah Simpson,2025
+28,28,28,2025-02-24,Alabama State,,Bethune-Cookman,REG (Conf),L 68-70,,12,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,1,1,2,2,1,0,1,0,1.9,H,0,1,micah-simpson-1,Micah Simpson,2025
+29,29,29,2025-03-01,Alabama State,,Alabama A&M,REG (Conf),W 94-52,,21,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,0,4,4,2,0,0,1,2,13,10.2,H,1,1,micah-simpson-1,Micah Simpson,2025
+30,30,30,2025-03-06,Alabama State,@,Southern,REG (Conf),W 66-65,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,0,0,-0.4,A,1,1,micah-simpson-1,Micah Simpson,2025
+31,31,31,2025-03-08,Alabama State,@,Grambling State,REG (Conf),W 59-47,,15,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,4,4,1,0,0,0,0,4,2.1,A,1,1,micah-simpson-1,Micah Simpson,2025
+32,32,32,2025-03-13,Alabama State,N,Texas Southern,CTOURN,W 84-79,,17,3,7,0.429,3,5,0.6,0,2,0.0,0.643,1,2,0.5,0,3,3,1,2,0,2,2,10,6.7,N,1,0,micah-simpson-1,Micah Simpson,2025
+33,33,33,2025-03-14,Alabama State,N,Grambling State,CTOURN,W 64-62,,17,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,0,0,2,0,0,1,0,5,2.0,N,1,0,micah-simpson-1,Micah Simpson,2025
+34,34,34,2025-03-15,Alabama State,N,Jackson State,CTOURN,W 60-56,,7,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,1,0,1,0,2,1.3,N,1,0,micah-simpson-1,Micah Simpson,2025
+35,35,35,2025-03-18,Alabama State,N,Saint Francis (PA),FIRST-FOUR,W 70-68,,17,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,1,1,3,3,0,0,2,9,9.2,N,1,0,micah-simpson-1,Micah Simpson,2025
+36,36,36,2025-03-20,Alabama State,N,Auburn,ROUND-64,L 63-83,,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,2,1.6,N,0,0,micah-simpson-1,Micah Simpson,2025

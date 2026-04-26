@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,42,1,2011-11-11,Connecticut,,Columbia,REG (Non-Conf),W 70-57,*,36,7,12,0.583,3,6,0.5,4,6,0.667,0.708,4,8,0.5,0,6,6,8,2,0,2,2,21,20.4,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+2,43,2,2011-11-14,Connecticut,,Wagner,REG (Non-Conf),W 78-66,*,35,6,10,0.6,2,4,0.5,4,6,0.667,0.7,7,9,0.778,0,1,1,1,3,0,6,3,21,12.4,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+3,44,3,2011-11-17,Connecticut,,Maine,REG (Non-Conf),W 80-60,*,27,3,9,0.333,2,6,0.333,1,3,0.333,0.444,0,0,,1,4,5,3,1,0,0,2,8,7.1,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+4,45,4,2011-11-20,Connecticut,,Coppin State,REG (Non-Conf),W 87-70,*,39,8,14,0.571,3,5,0.6,5,9,0.556,0.679,3,4,0.75,0,12,12,13,2,1,1,1,22,29.0,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+5,46,5,2011-11-24,Connecticut,N,UNC Asheville,REG (Non-Conf),W 73-63,*,39,7,14,0.5,4,9,0.444,3,5,0.6,0.643,5,5,1.0,1,1,2,7,3,0,5,2,23,19.1,N,1,1,shabazz-napier-1,Shabazz Napier,2012
+6,47,6,2011-11-25,Connecticut,N,UCF,REG (Non-Conf),L 63-68,*,31,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,5,5,5,0,0,7,4,4,-3.7,N,0,1,shabazz-napier-1,Shabazz Napier,2012
+7,48,7,2011-11-26,Connecticut,N,Florida State,REG (Non-Conf),W 78-76 (OT),*,43,8,18,0.444,6,13,0.462,2,5,0.4,0.611,4,7,0.571,2,2,4,5,2,0,6,2,26,16.1,N,1,1,shabazz-napier-1,Shabazz Napier,2012
+8,49,8,2011-12-03,Connecticut,,Arkansas,REG (Non-Conf),W 75-62,*,37,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,4,4,7,1,2,3,2,9,10.7,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+9,50,9,2011-12-08,Connecticut,,Harvard,REG (Non-Conf),W 67-53,*,37,3,10,0.3,1,3,0.333,2,7,0.286,0.35,2,2,1.0,0,1,1,7,4,0,2,1,9,10.0,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+10,51,10,2011-12-18,Connecticut,,Holy Cross,REG (Non-Conf),W 77-40,*,29,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,2,3,13,4,0,3,1,3,11.9,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+11,52,11,2011-12-22,Connecticut,,Fairfield,REG (Non-Conf),W 79-71,*,38,7,10,0.7,2,3,0.667,5,7,0.714,0.8,8,9,0.889,2,4,6,5,2,0,1,1,24,26.1,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+12,53,12,2011-12-28,Connecticut,@,South Florida,REG (Conf),W 60-57,*,36,1,9,0.111,1,6,0.167,0,3,0.0,0.167,1,2,0.5,2,3,5,3,2,0,2,2,4,1.3,A,1,1,shabazz-napier-1,Shabazz Napier,2012
+13,54,13,2011-12-31,Connecticut,,St. John's (NY),REG (Conf),W 83-69,*,33,5,6,0.833,2,2,1.0,3,4,0.75,1.0,5,6,0.833,0,2,2,9,2,1,4,3,17,18.8,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+14,55,14,2012-01-03,Connecticut,@,Seton Hall,REG (Conf),L 63-75,*,35,2,12,0.167,1,6,0.167,1,6,0.167,0.208,1,2,0.5,1,2,3,4,0,0,5,2,6,-3.7,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+15,56,15,2012-01-07,Connecticut,@,Rutgers,REG (Conf),L 60-67,*,38,5,14,0.357,4,8,0.5,1,6,0.167,0.5,9,10,0.9,1,4,5,3,0,0,4,3,23,13.6,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+16,57,16,2012-01-09,Connecticut,,West Virginia,REG (Conf),W 64-57,*,36,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,0,1,1,8,1,0,4,1,0,-1.7,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+17,58,17,2012-01-14,Connecticut,@,Notre Dame,REG (Conf),W 67-53,*,40,5,11,0.455,1,5,0.2,4,6,0.667,0.5,5,8,0.625,0,3,3,5,1,1,1,1,16,13.8,A,1,1,shabazz-napier-1,Shabazz Napier,2012
+18,59,18,2012-01-18,Connecticut,,Cincinnati,REG (Conf),L 67-70,*,38,10,19,0.526,3,8,0.375,7,11,0.636,0.605,4,5,0.8,0,5,5,7,2,0,5,3,27,19.5,H,0,1,shabazz-napier-1,Shabazz Napier,2012
+19,60,19,2012-01-21,Connecticut,@,Tennessee,REG (Non-Conf),L 57-60,*,38,6,18,0.333,3,10,0.3,3,8,0.375,0.417,3,6,0.5,1,3,4,4,2,0,2,4,18,9.4,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+20,61,20,2012-01-29,Connecticut,,Notre Dame,REG (Conf),L 48-50,*,35,0,7,0.0,0,4,0.0,0,3,0.0,0.0,4,4,1.0,0,1,1,4,1,0,1,2,4,1.4,H,0,1,shabazz-napier-1,Shabazz Napier,2012
+21,62,21,2012-02-01,Connecticut,@,Georgetown,REG (Conf),L 44-58,,31,0,9,0.0,0,2,0.0,0,7,0.0,0.0,1,2,0.5,2,1,3,2,0,0,0,4,1,-4.2,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+22,63,22,2012-02-04,Connecticut,,Seton Hall,REG (Conf),W 69-46,*,35,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,2,6,8,2,0,0,3,2,6,3.0,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+23,64,23,2012-02-06,Connecticut,@,Louisville,REG (Conf),L 59-80,*,35,3,11,0.273,0,4,0.0,3,7,0.429,0.273,3,4,0.75,1,2,3,1,4,0,2,3,9,4.9,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+24,65,24,2012-02-11,Connecticut,@,Syracuse,REG (Conf),L 67-85,*,36,4,6,0.667,2,2,1.0,2,4,0.5,0.833,1,3,0.333,1,0,1,7,1,0,1,5,11,11.2,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+25,66,25,2012-02-15,Connecticut,,DePaul,REG (Conf),W 80-54,*,34,5,12,0.417,1,4,0.25,4,8,0.5,0.458,3,4,0.75,3,3,6,11,2,0,2,1,14,17.5,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+26,67,26,2012-02-18,Connecticut,,Marquette,REG (Conf),L 64-79,*,37,4,8,0.5,0,1,0.0,4,7,0.571,0.5,3,4,0.75,0,3,3,8,4,0,1,4,11,14.5,H,0,1,shabazz-napier-1,Shabazz Napier,2012
+27,68,27,2012-02-20,Connecticut,@,Villanova,REG (Conf),W 73-70 (OT),,30,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,1,0.0,0,2,2,4,1,0,3,2,6,2.1,A,1,1,shabazz-napier-1,Shabazz Napier,2012
+28,69,28,2012-02-25,Connecticut,,Syracuse,REG (Conf),L 69-71,,32,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,7,0,0,3,2,0,-0.7,H,0,1,shabazz-napier-1,Shabazz Napier,2012
+29,70,29,2012-02-28,Connecticut,@,Providence,REG (Conf),L 70-72,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,5,6,0.833,0,4,4,8,1,1,2,4,7,9.1,A,0,1,shabazz-napier-1,Shabazz Napier,2012
+30,71,30,2012-03-03,Connecticut,,Pittsburgh,REG (Conf),W 74-65,*,40,7,18,0.389,4,9,0.444,3,9,0.333,0.5,5,6,0.833,0,3,3,6,4,0,3,2,23,18.1,H,1,1,shabazz-napier-1,Shabazz Napier,2012
+31,72,31,2012-03-06,Connecticut,N,DePaul,CTOURN,W 81-67,*,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,6,0,0,0,4,5,6.6,N,1,0,shabazz-napier-1,Shabazz Napier,2012
+32,73,32,2012-03-07,Connecticut,N,West Virginia,CTOURN,W 71-67 (OT),*,40,7,18,0.389,4,10,0.4,3,8,0.375,0.5,8,9,0.889,1,3,4,6,3,3,4,5,26,20.7,N,1,0,shabazz-napier-1,Shabazz Napier,2012
+33,74,33,2012-03-08,Connecticut,N,Syracuse,CTOURN,L 55-58,*,38,5,17,0.294,3,9,0.333,2,8,0.25,0.382,2,3,0.667,0,1,1,3,0,0,5,3,15,0.9,N,0,0,shabazz-napier-1,Shabazz Napier,2012
+34,75,34,2012-03-15,Connecticut,N,Iowa State,ROUND-64,L 64-77,*,39,6,13,0.462,3,5,0.6,3,8,0.375,0.577,7,11,0.636,1,1,2,6,1,0,1,4,22,17.3,N,0,0,shabazz-napier-1,Shabazz Napier,2012

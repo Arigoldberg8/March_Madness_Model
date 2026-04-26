@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2014-11-14,Coastal Carolina,,Trinity Baptist,REG (Non-Conf),W 79-36,,24,6,13,0.462,3,7,0.429,3,6,0.5,0.577,1,1,1.0,1,1,2,4,3,0,2,1,16,13.7,H,1,1,josh-cameron-1,Josh Cameron,2015
+2,36,2,2014-11-16,Coastal Carolina,@,UCLA,REG (Non-Conf),L 71-84,,23,7,13,0.538,3,7,0.429,4,6,0.667,0.654,5,6,0.833,1,1,2,1,2,0,3,2,22,15.2,A,0,1,josh-cameron-1,Josh Cameron,2015
+3,37,3,2014-11-18,Coastal Carolina,,Columbia Intl,REG (Non-Conf),W 82-51,,14,3,7,0.429,1,5,0.2,2,2,1.0,0.5,2,3,0.667,0,2,2,2,1,0,3,1,9,4.5,H,1,1,josh-cameron-1,Josh Cameron,2015
+4,38,4,2014-11-22,Coastal Carolina,,Piedmont,REG (Non-Conf),W 76-33,,14,2,4,0.5,1,3,0.333,1,1,1.0,0.625,6,8,0.75,1,0,1,1,2,0,2,1,11,9.2,H,1,1,josh-cameron-1,Josh Cameron,2015
+5,39,5,2014-11-26,Coastal Carolina,N,Louisiana–Monroe,REG (Non-Conf),W 61-48,,24,5,12,0.417,4,6,0.667,1,6,0.167,0.583,3,4,0.75,1,2,3,1,0,0,1,2,17,10.4,N,1,1,josh-cameron-1,Josh Cameron,2015
+6,40,6,2014-11-27,Coastal Carolina,@,Chattanooga,REG (Non-Conf),L 67-78,,22,4,12,0.333,0,6,0.0,4,6,0.667,0.333,5,5,1.0,2,0,2,1,1,0,2,1,13,6.9,A,0,1,josh-cameron-1,Josh Cameron,2015
+7,41,7,2014-12-02,Coastal Carolina,,South Carolina State,REG (Non-Conf),W 66-52,,19,5,9,0.556,4,6,0.667,1,3,0.333,0.778,0,0,,0,1,1,1,0,1,1,1,14,10.0,H,1,1,josh-cameron-1,Josh Cameron,2015
+8,42,8,2014-12-05,Coastal Carolina,@,Auburn,REG (Non-Conf),W 58-54,,30,8,17,0.471,4,10,0.4,4,7,0.571,0.588,2,3,0.667,3,6,9,2,4,0,3,2,22,18.4,A,1,1,josh-cameron-1,Josh Cameron,2015
+9,43,9,2014-12-11,Coastal Carolina,,Warren Wilson,REG (Non-Conf),W 85-40,,16,4,10,0.4,4,9,0.444,0,1,0.0,0.6,0,0,,0,3,3,0,0,0,1,1,12,6.1,H,1,1,josh-cameron-1,Josh Cameron,2015
+10,44,10,2014-12-14,Coastal Carolina,@,South Carolina State,REG (Non-Conf),W 57-43,,19,1,8,0.125,1,7,0.143,0,1,0.0,0.188,2,2,1.0,0,2,2,1,0,0,1,1,5,-0.3,A,1,1,josh-cameron-1,Josh Cameron,2015
+11,45,11,2014-12-18,Coastal Carolina,@,Ole Miss,REG (Non-Conf),L 68-71,,17,4,9,0.444,2,5,0.4,2,4,0.5,0.556,5,6,0.833,1,1,2,1,3,0,1,0,15,13.6,A,0,1,josh-cameron-1,Josh Cameron,2015
+12,46,12,2014-12-21,Coastal Carolina,@,Central Arkansas,REG (Non-Conf),W 72-55,,19,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,2,0.5,0,0,0,1,1,0,1,1,8,3.5,A,1,1,josh-cameron-1,Josh Cameron,2015
+13,47,13,2014-12-31,Coastal Carolina,@,High Point,REG (Conf),W 83-68,,25,6,10,0.6,4,5,0.8,2,5,0.4,0.8,2,2,1.0,1,2,3,1,0,0,2,1,18,13.0,A,1,1,josh-cameron-1,Josh Cameron,2015
+14,48,14,2015-01-03,Coastal Carolina,,Charleston Southern,REG (Conf),W 83-74,,21,6,12,0.5,5,7,0.714,1,5,0.2,0.708,0,0,,0,1,1,1,1,0,0,1,17,12.6,H,1,1,josh-cameron-1,Josh Cameron,2015
+15,49,15,2015-01-08,Coastal Carolina,,Longwood,REG (Conf),W 76-70,,15,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,3,0.667,0,0,0,1,2,0,1,1,9,6.2,H,1,1,josh-cameron-1,Josh Cameron,2015
+16,50,16,2015-01-10,Coastal Carolina,@,Liberty,REG (Conf),W 69-54,,23,4,9,0.444,1,6,0.167,3,3,1.0,0.5,3,6,0.5,1,2,3,1,0,0,2,2,12,5.3,A,1,1,josh-cameron-1,Josh Cameron,2015
+17,51,17,2015-01-12,Coastal Carolina,@,Campbell,REG (Conf),W 70-67,,25,5,8,0.625,2,4,0.5,3,4,0.75,0.75,4,5,0.8,0,2,2,3,1,0,1,0,16,14.7,A,1,1,josh-cameron-1,Josh Cameron,2015
+18,52,18,2015-01-17,Coastal Carolina,,Gardner-Webb,REG (Conf),L 67-82,,20,2,7,0.286,1,1,1.0,1,6,0.167,0.357,5,5,1.0,0,1,1,1,1,0,0,0,10,7.9,H,0,1,josh-cameron-1,Josh Cameron,2015
+19,53,19,2015-01-22,Coastal Carolina,@,UNC Asheville,REG (Conf),L 65-75,,21,4,11,0.364,1,6,0.167,3,5,0.6,0.409,2,3,0.667,0,2,2,0,0,0,1,1,11,3.7,A,0,1,josh-cameron-1,Josh Cameron,2015
+20,54,20,2015-01-24,Coastal Carolina,,Presbyterian,REG (Conf),W 63-52,,27,5,15,0.333,2,10,0.2,3,5,0.6,0.4,4,5,0.8,1,0,1,1,2,0,3,1,16,7.1,H,1,1,josh-cameron-1,Josh Cameron,2015
+21,55,21,2015-01-28,Coastal Carolina,,Winthrop,REG (Conf),L 68-75,,15,2,6,0.333,1,2,0.5,1,4,0.25,0.417,4,6,0.667,0,3,3,0,0,0,1,1,9,4.3,H,0,1,josh-cameron-1,Josh Cameron,2015
+22,56,23,2015-02-03,Coastal Carolina,,UNC Asheville,REG (Conf),W 68-56,,23,4,8,0.5,1,4,0.25,3,4,0.75,0.563,9,13,0.692,0,0,0,2,0,0,1,1,18,12.4,H,1,1,josh-cameron-1,Josh Cameron,2015
+23,57,24,2015-02-06,Coastal Carolina,,High Point,REG (Conf),W 65-60,,15,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,1,0.0,0,4,4,0,0,0,2,2,3,-4.2,H,1,1,josh-cameron-1,Josh Cameron,2015
+24,58,25,2015-02-11,Coastal Carolina,@,Charleston Southern,REG (Conf),L 72-83,,13,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,0,0,0,1,2,0,1,0,2,-0.8,A,0,1,josh-cameron-1,Josh Cameron,2015
+25,59,26,2015-02-14,Coastal Carolina,,Liberty,REG (Conf),W 96-56,,20,5,10,0.5,2,4,0.5,3,6,0.5,0.6,5,6,0.833,0,1,1,4,0,0,0,1,17,14.3,H,1,1,josh-cameron-1,Josh Cameron,2015
+26,60,27,2015-02-16,Coastal Carolina,@,Radford,REG (Conf),W 65-59,,28,6,15,0.4,4,10,0.4,2,5,0.4,0.533,0,1,0.0,0,3,3,3,0,0,2,0,16,8.5,A,1,1,josh-cameron-1,Josh Cameron,2015
+27,61,28,2015-02-19,Coastal Carolina,,Campbell,REG (Conf),W 81-57,*,25,4,10,0.4,3,5,0.6,1,5,0.2,0.55,5,7,0.714,0,2,2,3,1,1,0,2,16,13.4,H,1,1,josh-cameron-1,Josh Cameron,2015
+28,62,29,2015-02-23,Coastal Carolina,@,Longwood,REG (Conf),W 72-59,*,27,6,8,0.75,1,2,0.5,5,6,0.833,0.813,0,0,,0,1,1,2,1,0,2,2,13,9.7,A,1,1,josh-cameron-1,Josh Cameron,2015
+29,63,30,2015-02-26,Coastal Carolina,@,Presbyterian,REG (Conf),L 69-80,*,30,5,15,0.333,2,10,0.2,3,5,0.6,0.4,4,6,0.667,0,3,3,4,1,0,2,4,16,7.8,A,0,1,josh-cameron-1,Josh Cameron,2015
+30,64,31,2015-03-06,Coastal Carolina,,UNC Asheville,CTOURN,W 74-57,*,21,2,8,0.25,0,2,0.0,2,6,0.333,0.25,4,4,1.0,0,0,0,2,3,0,1,1,8,6.2,H,1,0,josh-cameron-1,Josh Cameron,2015
+31,65,32,2015-03-07,Coastal Carolina,,Gardner-Webb,CTOURN,W 73-70,*,29,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,0,4,4,1,0,0,3,0,8,2.9,H,1,0,josh-cameron-1,Josh Cameron,2015
+32,66,33,2015-03-08,Coastal Carolina,N,Winthrop,CTOURN,W 81-70,*,24,6,10,0.6,1,3,0.333,5,7,0.714,0.65,0,0,,1,0,1,0,1,0,2,1,13,7.7,N,1,0,josh-cameron-1,Josh Cameron,2015
+33,67,34,2015-03-20,Coastal Carolina,N,Wisconsin,ROUND-64,L 72-86,*,31,4,9,0.444,3,5,0.6,1,4,0.25,0.611,0,0,,0,1,1,3,2,0,0,1,11,10.3,N,0,0,josh-cameron-1,Josh Cameron,2015

@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,66,1,2021-11-11,Vermont,@,Northern Iowa,REG (Non-Conf),W 71-57,*,18,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,1,1,0,0,0,1,1,7,3.6,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+2,67,2,2021-11-13,Vermont,@,Maryland,REG (Non-Conf),L 57-68,*,28,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,0,2,2,1,0,0,1,2,4,-0.7,A,0,1,kameron-gibson-1,Kameron Gibson,2022
+3,68,3,2021-11-16,Vermont,,WPI,REG (Non-Conf),W 81-48,*,17,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,0,0,1,0,0,1,0,11,7.4,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+4,69,4,2021-11-19,Vermont,,Yale,REG (Non-Conf),W 61-53,*,15,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,1,0.0,0,0,0,0,0,0,1,2,0,-5.0,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+5,70,5,2021-11-22,Vermont,N,Oakland,REG (Non-Conf),L 61-63,*,18,2,8,0.25,1,6,0.167,1,2,0.5,0.313,1,2,0.5,0,3,3,1,0,0,2,1,6,0.0,N,0,1,kameron-gibson-1,Kameron Gibson,2022
+6,71,6,2021-11-23,Vermont,N,Evansville,REG (Non-Conf),W 58-49,*,24,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,3,3,0,0,0,1,1,7,3.8,N,1,1,kameron-gibson-1,Kameron Gibson,2022
+7,72,7,2021-11-24,Vermont,N,Appalachian State,REG (Non-Conf),W 65-63,*,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,1,1,2,0,0,0,0,3,1.9,N,1,1,kameron-gibson-1,Kameron Gibson,2022
+8,73,8,2021-11-27,Vermont,@,UNC Greensboro,REG (Non-Conf),L 51-54,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,0,1,1,0,0,0,1,1,7,2.8,A,0,1,kameron-gibson-1,Kameron Gibson,2022
+9,74,9,2021-12-01,Vermont,,Dartmouth,REG (Non-Conf),W 83-65,,18,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,2,0.0,0,1,1,2,1,0,0,0,10,8.6,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+10,75,10,2021-12-07,Vermont,@,Providence,REG (Non-Conf),L 58-68,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.0,A,0,1,kameron-gibson-1,Kameron Gibson,2022
+11,76,12,2021-12-22,Vermont,,Colgate,REG (Non-Conf),W 78-68,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+12,77,16,2022-01-19,Vermont,@,NJIT,REG (Conf),W 83-57,,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,2,0,-1.6,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+13,78,21,2022-02-02,Vermont,,NJIT,REG (Conf),W 90-67,,4,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,0,0,1,1,0,0,0,3,2.6,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+14,79,23,2022-02-09,Vermont,,Binghamton,REG (Conf),W 82-51,,4,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,0,0,0,0,0,0,1,7,5.0,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+15,80,24,2022-02-12,Vermont,@,Albany (NY),REG (Conf),W 76-63,,10,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,0,0,0,0,0,2,0,4,0.3,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+16,81,25,2022-02-14,Vermont,@,Hartford,REG (Conf),L 74-75 (OT),*,38,5,15,0.333,5,12,0.417,0,3,0.0,0.5,3,3,1.0,1,4,5,1,2,0,0,2,18,13.3,A,0,1,kameron-gibson-1,Kameron Gibson,2022
+17,82,26,2022-02-16,Vermont,@,New Hampshire,REG (Conf),W 71-50,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,1,1,2,0,0,1,2,7,4.9,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+18,83,27,2022-02-19,Vermont,,UMBC,REG (Conf),W 86-59,,18,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,7,7,0,1,0,0,0,6,5.0,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+19,84,28,2022-02-23,Vermont,@,Binghamton,REG (Conf),W 66-49,,10,2,3,0.667,2,3,0.667,0,0,,1.0,0,1,0.0,0,4,4,0,0,0,0,1,6,5.1,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+20,85,29,2022-02-26,Vermont,,UMass Lowell,REG (Conf),W 62-61,,4,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,kameron-gibson-1,Kameron Gibson,2022
+21,86,30,2022-03-01,Vermont,@,Maine,REG (Conf),W 75-56,*,31,2,9,0.222,1,5,0.2,1,4,0.25,0.278,1,2,0.5,1,5,6,2,0,0,0,1,6,3.3,A,1,1,kameron-gibson-1,Kameron Gibson,2022
+22,87,31,2022-03-06,Vermont,,NJIT,CTOURN,W 98-59,,16,4,7,0.571,3,5,0.6,1,2,0.5,0.786,1,2,0.5,1,1,2,1,0,0,0,0,12,10.0,H,1,0,kameron-gibson-1,Kameron Gibson,2022
+23,88,32,2022-03-09,Vermont,,Binghamton,CTOURN,W 74-42,,9,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,0,0,6,6.4,H,1,0,kameron-gibson-1,Kameron Gibson,2022
+24,89,33,2022-03-12,Vermont,,UMBC,CTOURN,W 82-43,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,1,0,0,0,0.3,H,1,0,kameron-gibson-1,Kameron Gibson,2022

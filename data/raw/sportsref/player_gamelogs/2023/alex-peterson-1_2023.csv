@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2022-11-07,Kennesaw State,,LaGrange,REG (Non-Conf),W 99-56,*,17,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,0,0,0,1,1,3,0,8,3.4,H,1,1,alex-peterson-1,Alex Peterson,2023
+2,57,2,2022-11-11,Kennesaw State,@,Florida,REG (Non-Conf),L 78-88,,15,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,1,3,4,1,1,1,1,2,5,4.1,A,0,1,alex-peterson-1,Alex Peterson,2023
+3,58,3,2022-11-14,Kennesaw State,,Brewton-Parker,REG (Non-Conf),W 95-36,*,11,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,2,3,1,1,2,0,0,4,6.4,H,1,1,alex-peterson-1,Alex Peterson,2023
+4,59,4,2022-11-18,Kennesaw State,N,Southeastern Louisiana,REG (Non-Conf),W 72-68,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,1,1,2,0.6,N,1,1,alex-peterson-1,Alex Peterson,2023
+5,60,5,2022-11-19,Kennesaw State,@,Appalachian State,REG (Non-Conf),W 71-67,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,0,0,0,1,2,0,3,0,2,-0.1,A,1,1,alex-peterson-1,Alex Peterson,2023
+6,61,6,2022-11-20,Kennesaw State,N,Campbell,REG (Non-Conf),L 61-85,,16,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,2,3,0,0,0,1,2,3,1.1,N,0,1,alex-peterson-1,Alex Peterson,2023
+7,62,7,2022-11-26,Kennesaw State,@,VCU,REG (Non-Conf),L 61-64,,13,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,0,1,0,0,0,0,4,3,0.0,A,0,1,alex-peterson-1,Alex Peterson,2023
+8,63,8,2022-12-02,Kennesaw State,@,Mercer,REG (Non-Conf),W 66-63,,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,1,0,1,1,1,0,-0.4,A,1,1,alex-peterson-1,Alex Peterson,2023
+9,64,9,2022-12-05,Kennesaw State,@,Charleston Southern,REG (Non-Conf),W 76-65,,12,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,1,0,1,0,1,4,3.6,A,1,1,alex-peterson-1,Alex Peterson,2023
+10,65,10,2022-12-12,Kennesaw State,@,San Diego State,REG (Non-Conf),L 54-88,,7,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,0,1,1,1,0,0,1,4,5,2.4,A,0,1,alex-peterson-1,Alex Peterson,2023
+11,66,11,2022-12-17,Kennesaw State,,Georgia College,REG (Non-Conf),W 79-55,,13,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,0,4,4,0,1,0,1,2,5,3.0,H,1,1,alex-peterson-1,Alex Peterson,2023
+12,67,14,2022-12-31,Kennesaw State,,Central Arkansas,REG (Conf),W 82-66,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,2,0.0,0,3,3,2,0,0,0,0,4,4.9,H,1,1,alex-peterson-1,Alex Peterson,2023
+13,68,15,2023-01-02,Kennesaw State,,Eastern Kentucky,REG (Conf),W 79-75,,9,0,0,,0,0,0,0,,,1,2,0.5,1,2,3,1,0,0,2,3,1,-0.6,H,1,1,alex-peterson-1,Alex Peterson,2023
+14,69,16,2023-01-05,Kennesaw State,@,North Florida,REG (Conf),L 86-89,,20,2,7,0.286,0,0,2,7,0.286,0.286,1,2,0.5,3,3,6,3,0,0,0,2,5,4.8,A,0,1,alex-peterson-1,Alex Peterson,2023
+15,70,17,2023-01-07,Kennesaw State,@,Queens (NC),REG (Conf),W 76-67,,16,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,1,1,2,0,0,0,1,0,4,0.6,A,1,1,alex-peterson-1,Alex Peterson,2023
+16,71,18,2023-01-12,Kennesaw State,,Jacksonville,REG (Conf),W 81-68,,10,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,0,3,3,1,1,1,1,2,4,4.5,H,1,1,alex-peterson-1,Alex Peterson,2023
+17,72,19,2023-01-14,Kennesaw State,,North Florida,REG (Conf),W 86-72,,12,6,8,0.75,0,0,6,8,0.75,0.75,0,0,,1,3,4,0,2,0,0,1,12,12.0,H,1,1,alex-peterson-1,Alex Peterson,2023
+18,73,20,2023-01-19,Kennesaw State,@,Stetson,REG (Conf),W 82-81 (OT),,13,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,0,5,5,0,0,0,0,2,9,7.7,A,1,1,alex-peterson-1,Alex Peterson,2023
+19,74,21,2023-01-21,Kennesaw State,@,Florida Gulf Coast,REG (Conf),W 65-63,,16,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,0,3,3,0,0,0,1,2,8,4.5,A,1,1,alex-peterson-1,Alex Peterson,2023
+20,75,22,2023-01-26,Kennesaw State,,Austin Peay,REG (Conf),W 84-57,,6,0,0,,0,0,0,0,,,1,2,0.5,1,2,3,0,0,0,0,3,1,0.7,H,1,1,alex-peterson-1,Alex Peterson,2023
+21,76,23,2023-01-28,Kennesaw State,,Lipscomb,REG (Conf),W 85-72,,19,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,3,5,1,2,0,2,2,6,5.9,H,1,1,alex-peterson-1,Alex Peterson,2023
+22,77,25,2023-02-04,Kennesaw State,@,Eastern Kentucky,REG (Conf),L 74-77,,17,3,6,0.5,0,0,3,6,0.5,0.5,2,2,1.0,1,1,2,0,0,0,1,2,8,4.2,A,0,1,alex-peterson-1,Alex Peterson,2023
+23,78,26,2023-02-09,Kennesaw State,@,Jacksonville State,REG (Conf),W 54-52,,11,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,A,1,1,alex-peterson-1,Alex Peterson,2023
+24,79,27,2023-02-11,Kennesaw State,,Jacksonville State,REG (Conf),W 74-71,,19,5,5,1.0,0,0,5,5,1.0,1.0,0,1,0.0,0,3,3,0,0,0,1,2,10,7.2,H,1,1,alex-peterson-1,Alex Peterson,2023
+25,80,28,2023-02-16,Kennesaw State,,Liberty,REG (Conf),W 88-81,,16,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,1,2,3,1,0,0,2,2,2,-1.3,H,1,1,alex-peterson-1,Alex Peterson,2023
+26,81,29,2023-02-18,Kennesaw State,,Queens (NC),REG (Conf),L 76-83,*,22,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,5,5,1,1,1,3,3,2,1.0,H,0,1,alex-peterson-1,Alex Peterson,2023
+27,82,30,2023-02-22,Kennesaw State,@,North Alabama,REG (Conf),W 79-66,,17,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,1,1,2,1,0,0,0,0,8,7.1,A,1,1,alex-peterson-1,Alex Peterson,2023
+28,83,31,2023-02-24,Kennesaw State,@,Central Arkansas,REG (Conf),W 72-56,,19,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,1,6,7,2,1,0,0,1,4,6.8,A,1,1,alex-peterson-1,Alex Peterson,2023
+29,84,32,2023-02-28,Kennesaw State,,Queens (NC),CTOURN,W 67-66,,18,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,2,2,-0.5,H,1,0,alex-peterson-1,Alex Peterson,2023
+30,85,33,2023-03-02,Kennesaw State,,Lipscomb,CTOURN,W 80-71,,17,4,4,1.0,0,0,4,4,1.0,1.0,2,2,1.0,2,4,6,2,0,0,0,0,10,12.8,H,1,0,alex-peterson-1,Alex Peterson,2023
+31,86,34,2023-03-05,Kennesaw State,,Liberty,CTOURN,W 67-66,,11,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,H,1,0,alex-peterson-1,Alex Peterson,2023
+32,87,35,2023-03-17,Kennesaw State,N,Xavier,ROUND-64,L 67-72,,15,3,7,0.429,0,0,3,7,0.429,0.429,0,1,0.0,1,3,4,0,2,0,0,2,6,4.7,N,0,0,alex-peterson-1,Alex Peterson,2023

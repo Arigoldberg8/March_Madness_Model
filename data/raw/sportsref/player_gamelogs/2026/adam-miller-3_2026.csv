@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,118,1,2025-11-03,Gonzaga,,Texas Southern,REG (Non-Conf),W 98-43,,17,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,1,0,1,1,0,0,1,1,13,9.4,H,1,1,adam-miller-3,Adam Miller,2026
+2,119,2,2025-11-08,Gonzaga,,Oklahoma,REG (Non-Conf),W 83-68,*,26,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,1,1,2,1,2,0,1,2,8,4.1,H,1,1,adam-miller-3,Adam Miller,2026
+3,120,3,2025-11-11,Gonzaga,,Creighton,REG (Non-Conf),W 90-63,*,20,5,8,0.625,0,3,0.0,5,5,1.0,0.625,1,2,0.5,0,1,1,1,0,0,1,2,11,6.2,H,1,1,adam-miller-3,Adam Miller,2026
+4,121,4,2025-11-14,Gonzaga,@,Arizona State,REG (Non-Conf),W 77-65,*,20,3,9,0.333,2,7,0.286,1,2,0.5,0.444,2,2,1.0,0,1,1,0,1,0,0,1,10,5.8,A,1,1,adam-miller-3,Adam Miller,2026
+5,122,5,2025-11-17,Gonzaga,,Southern Utah,REG (Non-Conf),W 122-50,*,16,5,9,0.556,2,5,0.4,3,4,0.75,0.667,1,1,1.0,1,1,2,1,2,0,0,0,13,12.4,H,1,1,adam-miller-3,Adam Miller,2026
+6,123,6,2025-11-24,Gonzaga,N,Alabama,REG (Non-Conf),W 95-85,*,15,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,1,2,3,0,0,0,0,3,7,2.3,N,1,1,adam-miller-3,Adam Miller,2026
+7,124,7,2025-11-25,Gonzaga,N,Maryland,REG (Non-Conf),W 100-61,*,23,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,1,1,2,0,0,1,1,5,2.6,N,1,1,adam-miller-3,Adam Miller,2026
+8,125,8,2025-11-26,Gonzaga,N,Michigan,REG (Non-Conf),L 61-101,*,19,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,3,0.667,0,1,1,1,0,0,1,1,9,5.2,N,0,1,adam-miller-3,Adam Miller,2026
+9,126,9,2025-12-05,Gonzaga,N,Kentucky,REG (Non-Conf),W 94-59,,17,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,4,4,1,0,0,0,1,11,9.9,N,1,1,adam-miller-3,Adam Miller,2026
+10,127,10,2025-12-07,Gonzaga,,North Florida,REG (Non-Conf),W 109-58,,16,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,1,0.0,0,3,3,3,0,0,1,1,9,8.3,H,1,1,adam-miller-3,Adam Miller,2026
+11,128,11,2025-12-13,Gonzaga,N,UCLA,REG (Non-Conf),W 82-72,,23,3,3,1.0,2,2,1.0,1,1,1.0,1.333,1,2,0.5,0,2,2,0,2,0,2,3,9,7.1,N,1,1,adam-miller-3,Adam Miller,2026
+12,129,12,2025-12-17,Gonzaga,,Campbell,REG (Non-Conf),W 98-70,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,H,1,1,adam-miller-3,Adam Miller,2026
+13,130,13,2025-12-21,Gonzaga,N,Oregon,REG (Non-Conf),W 91-82,,16,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,0,0,1,1,0,1,0,9,7.4,N,1,1,adam-miller-3,Adam Miller,2026
+14,131,14,2025-12-28,Gonzaga,@,Pepperdine,REG (Conf),W 96-56,,18,1,8,0.125,1,4,0.25,0,4,0.0,0.188,0,0,,0,1,1,0,1,1,1,1,3,-1.6,A,1,1,adam-miller-3,Adam Miller,2026
+15,132,15,2025-12-30,Gonzaga,@,San Diego,REG (Conf),W 99-93,,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,0,0,-1.4,A,1,1,adam-miller-3,Adam Miller,2026
+16,133,16,2026-01-02,Gonzaga,,Seattle,REG (Conf),W 80-72 (OT),,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,3,4,2,0,0,0,0,2,3.3,H,1,1,adam-miller-3,Adam Miller,2026
+17,134,17,2026-01-04,Gonzaga,,Loyola Marymount,REG (Conf),W 82-47,,19,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,2,2,0,3,0,0,0,11,12.0,H,1,1,adam-miller-3,Adam Miller,2026
+18,135,18,2026-01-08,Gonzaga,,Santa Clara,REG (Conf),W 89-77,*,30,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,0,2,2,2,1,0,0,1,7,4.8,H,1,1,adam-miller-3,Adam Miller,2026
+19,136,19,2026-01-15,Gonzaga,@,Washington State,REG (Conf),W 86-65,*,26,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,0,5,5,1,2,0,1,2,13,10.4,A,1,1,adam-miller-3,Adam Miller,2026
+20,137,20,2026-01-17,Gonzaga,@,Seattle,REG (Conf),W 71-50,*,14,0,7,0.0,0,5,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-5.6,A,1,1,adam-miller-3,Adam Miller,2026
+21,138,21,2026-01-21,Gonzaga,,Pepperdine,REG (Conf),W 84-60,*,18,5,11,0.455,1,6,0.167,4,5,0.8,0.5,0,0,,0,2,2,0,0,0,1,1,11,4.5,H,1,1,adam-miller-3,Adam Miller,2026
+22,139,22,2026-01-24,Gonzaga,,San Francisco,REG (Conf),W 68-66,*,22,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-1.5,H,1,1,adam-miller-3,Adam Miller,2026
+23,140,23,2026-01-31,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-65,*,17,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,1,0.0,2,1,3,1,0,0,0,0,4,1.9,H,1,1,adam-miller-3,Adam Miller,2026
+24,141,24,2026-02-04,Gonzaga,@,Portland,REG (Conf),L 80-87,*,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,3,0.667,0,0,0,3,0,0,0,1,7,5.6,A,0,1,adam-miller-3,Adam Miller,2026
+25,142,25,2026-02-07,Gonzaga,@,Oregon State,REG (Conf),W 81-61,*,13,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,1,1,0,0,0,0,2,4,1.5,A,1,1,adam-miller-3,Adam Miller,2026
+26,143,26,2026-02-10,Gonzaga,,Washington State,REG (Conf),W 83-53,*,22,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,0,1,1,0,2,0,1,2,11,6.8,H,1,1,adam-miller-3,Adam Miller,2026
+27,144,27,2026-02-14,Gonzaga,@,Santa Clara,REG (Conf),W 94-86,*,27,6,9,0.667,2,4,0.5,4,5,0.8,0.778,7,8,0.875,0,2,2,2,0,0,1,1,21,17.3,A,1,1,adam-miller-3,Adam Miller,2026
+28,145,28,2026-02-18,Gonzaga,@,San Francisco,REG (Conf),W 80-59,*,31,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,0,2,2,3,2,0,0,0,9,11.1,A,1,1,adam-miller-3,Adam Miller,2026
+29,146,29,2026-02-21,Gonzaga,,Pacific,REG (Conf),W 71-62,*,12,1,3,0.333,1,3,0.333,0,0,,0.5,1,2,0.5,0,0,0,0,2,0,0,3,4,2.7,H,1,1,adam-miller-3,Adam Miller,2026
+30,147,30,2026-02-25,Gonzaga,,Portland,REG (Conf),W 89-48,*,23,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,2,0.5,1,0,1,4,1,0,0,0,6,6.0,H,1,1,adam-miller-3,Adam Miller,2026
+31,148,31,2026-02-28,Gonzaga,@,St. Mary's (CA),REG (Conf),L 59-70,*,30,5,13,0.385,1,5,0.2,4,8,0.5,0.423,3,3,1.0,0,2,2,0,0,0,0,1,14,7.1,A,0,1,adam-miller-3,Adam Miller,2026
+32,149,32,2026-03-09,Gonzaga,N,Oregon State,CTOURN,W 65-56,*,32,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,3,3,4,1,0,1,0,7,8.4,N,1,0,adam-miller-3,Adam Miller,2026
+33,150,33,2026-03-10,Gonzaga,N,Santa Clara,CTOURN,W 79-68,*,12,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,0,0,1,0,0,0,0,2,-0.4,N,1,0,adam-miller-3,Adam Miller,2026

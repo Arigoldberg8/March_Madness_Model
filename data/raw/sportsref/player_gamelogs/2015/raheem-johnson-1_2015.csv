@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Buffalo,,South Dakota State,REG (Non-Conf),W 69-67,,8,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,2,1,3,0,0,2,0,4,0,0.1,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+2,2,2,2014-11-16,Buffalo,@,Kentucky,REG (Non-Conf),L 52-71,,18,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,1,2,0,2,1,0,3,3,4.8,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+3,3,3,2014-11-18,Buffalo,@,UT Arlington,REG (Non-Conf),W 74-68,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,0,1,2,1,0,-1.1,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+4,4,4,2014-11-25,Buffalo,@,Grand Canyon,REG (Non-Conf),W 80-64,,12,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,2,1,3,1,0,1,3,4,3,0.8,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+5,5,5,2014-11-29,Buffalo,N,Canisius,REG (Non-Conf),W 72-57,,15,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,1,4,0,0,3,2,2,4,3.7,N,1,1,raheem-johnson-1,Raheem Johnson,2015
+6,6,6,2014-12-03,Buffalo,@,St. Bonaventure,REG (Non-Conf),L 63-72,,19,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,2,4,0,0,3,1,5,8,8.2,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+7,7,7,2014-12-07,Buffalo,@,Robert Morris,REG (Non-Conf),W 74-59,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,1,0,0,2,2,2.5,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+8,8,8,2014-12-16,Buffalo,,Drexel,REG (Non-Conf),W 80-70,,9,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,1,1,1,0,-0.4,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+9,9,9,2014-12-19,Buffalo,,Niagara,REG (Non-Conf),W 88-62,,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,1,1,0,1,1,0,4,4,3.1,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+10,10,10,2014-12-28,Buffalo,@,Wisconsin,REG (Non-Conf),L 56-68,,10,0,0,,0,0,0,0,,,0,0,,1,1,2,1,0,0,0,3,0,0.5,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+11,11,11,2014-12-30,Buffalo,@,Binghamton,REG (Non-Conf),W 76-50,,20,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,1,2,3,0,0,2,1,3,1,0.4,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+12,12,12,2015-01-03,Buffalo,,Cornell,REG (Non-Conf),W 92-73,,15,1,1,1.0,0,0,1,1,1.0,1.0,3,4,0.75,0,2,2,0,0,1,0,0,5,5.6,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+13,13,13,2015-01-07,Buffalo,@,Miami (OH),REG (Conf),W 79-72,,10,0,0,,0,0,0,0,,,2,2,1.0,0,0,0,0,0,0,1,2,2,0.2,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+14,14,14,2015-01-10,Buffalo,@,Western Michigan,REG (Conf),L 68-78,,10,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,3,0,4,0,1.5,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+15,15,15,2015-01-14,Buffalo,,Northern Illinois,REG (Conf),W 82-63,,18,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,3,4,0,0,1,2,3,4,2.1,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+16,16,16,2015-01-17,Buffalo,,Miami (OH),REG (Conf),W 77-68,,9,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,0,1,1,0,0,1,1,0,3,0.9,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+17,17,17,2015-01-21,Buffalo,@,Central Michigan,REG (Conf),L 73-84,,5,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,1,2,0,-2.9,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+18,18,18,2015-01-24,Buffalo,@,Ohio,REG (Conf),L 61-63,,14,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,3,2,5,0,0,0,2,5,10,6.5,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+19,19,19,2015-01-27,Buffalo,,Western Michigan,REG (Conf),W 77-71,,12,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,1,1,0,1,0,0,1,6,5.3,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+20,20,20,2015-01-30,Buffalo,,Kent State,REG (Conf),W 80-55,,20,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,1,3,0,1,4,2,4,7,6.2,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+21,21,21,2015-02-04,Buffalo,@,Ball State,REG (Conf),W 82-78,,20,3,3,1.0,0,0,3,3,1.0,1.0,2,3,0.667,2,3,5,0,0,2,1,1,8,9.0,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+22,22,22,2015-02-07,Buffalo,@,Akron,REG (Conf),L 72-75,,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,3,0,-2.9,A,0,1,raheem-johnson-1,Raheem Johnson,2015
+23,23,23,2015-02-10,Buffalo,,Toledo,REG (Conf),L 88-92,,7,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,raheem-johnson-1,Raheem Johnson,2015
+24,24,24,2015-02-14,Buffalo,,Central Michigan,REG (Conf),L 74-75,,13,2,4,0.5,0,0,2,4,0.5,0.5,2,4,0.5,3,4,7,0,1,2,0,2,6,8.1,H,0,1,raheem-johnson-1,Raheem Johnson,2015
+25,25,25,2015-02-18,Buffalo,@,Eastern Michigan,REG (Conf),W 78-63,,11,2,5,0.4,0,0,2,5,0.4,0.4,1,1,1.0,1,2,3,0,1,1,1,0,5,4.3,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+26,26,26,2015-02-21,Buffalo,@,Bowling Green,REG (Conf),W 68-56,,15,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,3,3,1,1,1,0,2,0,1.1,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+27,27,27,2015-02-24,Buffalo,,Akron,REG (Conf),W 67-62,,9,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,0,3,0,0,3,0,3,2,3.3,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+28,28,28,2015-02-28,Buffalo,@,Kent State,REG (Conf),W 71-65,,9,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,4,0,-2.3,A,1,1,raheem-johnson-1,Raheem Johnson,2015
+29,29,29,2015-03-03,Buffalo,,Ohio,REG (Conf),W 93-66,,7,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,2,2,0,1,0,0,1,4,4.6,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+30,30,30,2015-03-06,Buffalo,,Bowling Green,REG (Conf),W 77-75,,10,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,1,1,2,0,1,0,1,2,2,0.7,H,1,1,raheem-johnson-1,Raheem Johnson,2015
+31,31,31,2015-03-13,Buffalo,N,Akron,CTOURN,W 68-59,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,3,4,0,0,0,0,0,0,0.9,N,1,0,raheem-johnson-1,Raheem Johnson,2015
+32,32,32,2015-03-14,Buffalo,N,Central Michigan,CTOURN,W 89-84,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,2,0,3,0,0.2,N,1,0,raheem-johnson-1,Raheem Johnson,2015
+33,33,33,2015-03-20,Buffalo,N,West Virginia,ROUND-64,L 62-68,,11,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,4,1,5,0,0,1,0,3,4,3.1,N,0,0,raheem-johnson-1,Raheem Johnson,2015

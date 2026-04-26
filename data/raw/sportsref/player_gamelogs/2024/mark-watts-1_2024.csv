@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2023-11-06,Oakland,@,Ohio State,REG (Non-Conf),L 73-79,*,19,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,0,0,3,1,0,0,3,0,-1.6,A,0,1,mark-watts-1,Rocket Watts,2024
+2,105,2,2023-11-10,Oakland,@,Illinois,REG (Non-Conf),L 53-64,*,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,A,0,1,mark-watts-1,Rocket Watts,2024
+3,106,3,2023-11-14,Oakland,,Bowling Green,REG (Non-Conf),W 81-62,*,26,3,6,0.5,0,0,,3,6,0.5,0.5,4,6,0.667,0,4,4,3,2,0,3,2,10,7.7,H,1,1,mark-watts-1,Rocket Watts,2024
+4,107,4,2023-11-19,Oakland,N,Drake,REG (Non-Conf),L 77-85,*,35,8,16,0.5,3,8,0.375,5,8,0.625,0.594,4,6,0.667,0,2,2,1,1,0,3,3,23,12.3,N,0,1,mark-watts-1,Rocket Watts,2024
+5,108,5,2023-11-20,Oakland,N,Loyola Marymount,REG (Non-Conf),W 74-69,*,27,5,12,0.417,1,3,0.333,4,9,0.444,0.458,2,3,0.667,0,2,2,4,2,0,2,1,13,9.2,N,1,1,mark-watts-1,Rocket Watts,2024
+6,109,6,2023-11-21,Oakland,N,Marshall,REG (Non-Conf),W 78-71,*,30,7,15,0.467,1,6,0.167,6,9,0.667,0.5,5,6,0.833,1,2,3,2,0,0,0,0,20,14.6,N,1,1,mark-watts-1,Rocket Watts,2024
+7,110,7,2023-11-27,Oakland,@,Xavier,REG (Non-Conf),W 78-76,*,23,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,4,0.75,1,1,2,1,1,0,2,2,7,3.1,A,1,1,mark-watts-1,Rocket Watts,2024
+8,111,8,2023-11-29,Oakland,@,Detroit Mercy,REG (Conf),W 65-50,*,19,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,1,2,3,4,0,0,1,1,7,6.7,A,1,1,mark-watts-1,Rocket Watts,2024
+9,112,9,2023-12-02,Oakland,,Purdue Fort Wayne,REG (Conf),L 77-98,*,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,5,1,0,-6.1,H,0,1,mark-watts-1,Rocket Watts,2024
+10,113,10,2023-12-06,Oakland,,Toledo,REG (Non-Conf),L 68-69,*,18,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,3,3,1,1,0,1,2,7,4.8,H,0,1,mark-watts-1,Rocket Watts,2024
+11,114,11,2023-12-08,Oakland,@,Eastern Michigan,REG (Non-Conf),W 77-63,*,15,2,6,0.333,1,5,0.2,1,1,1.0,0.417,2,2,1.0,0,1,1,1,1,0,3,1,7,2.2,A,1,1,mark-watts-1,Rocket Watts,2024
+12,115,12,2023-12-18,Oakland,@,Michigan State,REG (Non-Conf),L 62-79,*,24,7,10,0.7,2,3,0.667,5,7,0.714,0.8,0,0,,2,2,4,0,1,0,0,0,16,14.8,A,0,1,mark-watts-1,Rocket Watts,2024
+13,116,14,2023-12-28,Oakland,@,Cleveland State,REG (Conf),L 67-75,,20,3,10,0.3,2,6,0.333,1,4,0.25,0.4,3,4,0.75,1,0,1,2,2,1,2,3,11,6.4,A,0,1,mark-watts-1,Rocket Watts,2024
+14,117,15,2023-12-31,Oakland,@,Youngstown State,REG (Conf),W 88-81,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,0,0,0,0,1,2,-0.5,A,1,1,mark-watts-1,Rocket Watts,2024
+15,118,16,2024-01-04,Oakland,,Milwaukee,REG (Conf),W 100-95,,18,4,7,0.571,0,0,,4,7,0.571,0.571,6,7,0.857,1,0,1,1,1,0,2,3,14,9.5,H,1,1,mark-watts-1,Rocket Watts,2024
+16,119,17,2024-01-06,Oakland,,Green Bay,REG (Conf),W 79-73,,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,4,1.0,1,2,3,1,0,0,1,0,8,5.6,H,1,1,mark-watts-1,Rocket Watts,2024
+17,120,18,2024-01-10,Oakland,,Northern Kentucky,REG (Conf),W 70-65 (OT),,27,4,14,0.286,0,4,0.0,4,10,0.4,0.286,2,2,1.0,0,3,3,3,0,0,0,2,10,4.0,H,1,1,mark-watts-1,Rocket Watts,2024
+18,121,19,2024-01-13,Oakland,@,IUPUI,REG (Conf),W 88-66,,23,5,9,0.556,2,4,0.5,3,5,0.6,0.667,4,4,1.0,0,1,1,2,0,0,5,0,16,8.4,A,1,1,mark-watts-1,Rocket Watts,2024
+19,122,20,2024-01-17,Oakland,,Youngstown State,REG (Conf),W 70-67,,8,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,0,0,0,2,0,0,0,4,2.6,H,1,1,mark-watts-1,Rocket Watts,2024
+20,123,21,2024-01-25,Oakland,@,Green Bay,REG (Conf),L 59-69,,24,3,9,0.333,0,3,0.0,3,6,0.5,0.333,1,1,1.0,0,1,1,2,1,0,1,3,7,2.4,A,0,1,mark-watts-1,Rocket Watts,2024
+21,124,22,2024-01-27,Oakland,@,Milwaukee,REG (Conf),W 91-87 (2OT),,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,2,1,0,-3.1,A,1,1,mark-watts-1,Rocket Watts,2024
+22,125,23,2024-02-01,Oakland,,Robert Morris,REG (Conf),W 87-72,,11,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,4,0.75,0,5,5,1,0,0,1,0,10,7.8,H,1,1,mark-watts-1,Rocket Watts,2024
+23,126,24,2024-02-03,Oakland,,Cleveland State,REG (Conf),W 83-71,,18,1,10,0.1,0,1,0.0,1,9,0.111,0.1,4,4,1.0,0,1,1,2,1,0,0,2,6,1.3,H,1,1,mark-watts-1,Rocket Watts,2024
+24,127,25,2024-02-08,Oakland,@,Northern Kentucky,REG (Conf),L 89-99 (OT),,11,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,1,1,0,0,1,2,2.2,A,0,1,mark-watts-1,Rocket Watts,2024
+25,128,26,2024-02-10,Oakland,@,Wright State,REG (Conf),W 74-60,,3,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,0,0,0,0,0,0,0,2,-0.4,A,1,1,mark-watts-1,Rocket Watts,2024
+26,129,27,2024-02-14,Oakland,@,Purdue Fort Wayne,REG (Conf),W 71-63,,16,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,4,5,1,0,0,3,1,4,1.5,A,1,1,mark-watts-1,Rocket Watts,2024
+27,130,28,2024-02-17,Oakland,,IUPUI,REG (Conf),W 107-59,,23,6,8,0.75,2,2,1.0,4,6,0.667,0.875,1,2,0.5,1,1,2,3,0,0,0,0,15,14.5,H,1,1,mark-watts-1,Rocket Watts,2024
+28,131,30,2024-02-25,Oakland,,Wright State,REG (Conf),L 75-96,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,2,0,0,-1.3,H,0,1,mark-watts-1,Rocket Watts,2024
+29,132,31,2024-03-02,Oakland,,Detroit Mercy,REG (Conf),W 75-70,*,10,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,0,0,1,1,0,1,0,4,2.7,H,1,1,mark-watts-1,Rocket Watts,2024
+30,133,32,2024-03-07,Oakland,,Purdue Fort Wayne,CTOURN,W 75-65,,18,7,10,0.7,0,1,0.0,7,9,0.778,0.7,4,4,1.0,0,1,1,1,2,0,3,0,18,13.8,H,1,0,mark-watts-1,Rocket Watts,2024
+31,134,33,2024-03-11,Oakland,N,Cleveland State,CTOURN,W 74-71,,3,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,0,0,0,0.0,N,1,0,mark-watts-1,Rocket Watts,2024
+32,135,35,2024-03-21,Oakland,N,Kentucky,ROUND-64,W 80-76,,20,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,0,2,2,4,0,0,1,3,8,5.5,N,1,0,mark-watts-1,Rocket Watts,2024
+33,136,36,2024-03-23,Oakland,N,NC State,ROUND-32,L 73-79 (OT),,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,4,0,0,1,2,2,0.6,N,0,0,mark-watts-1,Rocket Watts,2024

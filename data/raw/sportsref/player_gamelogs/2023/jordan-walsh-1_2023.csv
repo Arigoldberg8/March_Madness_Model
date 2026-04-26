@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Arkansas,,North Dakota State,REG (Non-Conf),W 76-58,,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,3,0,0,0,5,4,4.4,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+2,2,2,2022-11-11,Arkansas,,Fordham,REG (Non-Conf),W 74-48,*,21,5,7,0.714,0,2,0.0,5,5,1.0,0.714,2,3,0.667,1,3,4,1,0,0,1,3,12,8.8,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+3,3,3,2022-11-16,Arkansas,,South Dakota State,REG (Non-Conf),W 71-56,*,16,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,1,0.0,0,1,1,1,3,1,1,0,10,10.0,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+4,4,4,2022-11-21,Arkansas,N,Louisville,REG (Non-Conf),W 80-54,*,28,2,6,0.333,2,5,0.4,0,1,0.0,0.5,1,2,0.5,0,2,2,2,1,0,2,3,7,3.0,N,1,1,jordan-walsh-1,Jordan Walsh,2023
+5,5,5,2022-11-22,Arkansas,N,Creighton,REG (Non-Conf),L 87-90,*,36,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,0,3,3,2,1,0,2,3,5,2.0,N,0,1,jordan-walsh-1,Jordan Walsh,2023
+6,6,6,2022-11-23,Arkansas,N,San Diego State,REG (Non-Conf),W 78-74 (OT),*,34,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,2,0.5,3,2,5,2,0,1,1,4,7,5.1,N,1,1,jordan-walsh-1,Jordan Walsh,2023
+7,7,7,2022-11-28,Arkansas,,Troy,REG (Non-Conf),W 74-61,*,20,1,6,0.167,0,0,,1,6,0.167,0.167,4,5,0.8,0,4,4,0,2,1,2,3,6,2.5,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+8,8,8,2022-12-03,Arkansas,,San Jose State,REG (Non-Conf),W 99-58,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,2,3,0,1,1,0,0,6,6.7,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+9,9,9,2022-12-06,Arkansas,,UNC Greensboro,REG (Non-Conf),W 65-58,*,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,1,1,0,-2.1,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+10,10,10,2022-12-10,Arkansas,N,Oklahoma,REG (Non-Conf),W 88-78,*,31,5,9,0.556,2,5,0.4,3,4,0.75,0.667,0,0,,2,1,3,1,2,1,0,0,12,12.8,N,1,1,jordan-walsh-1,Jordan Walsh,2023
+11,11,11,2022-12-17,Arkansas,,Bradley,REG (Non-Conf),W 76-57,*,28,7,7,1.0,1,1,1.0,6,6,1.0,1.071,3,4,0.75,0,3,3,1,4,0,0,5,18,19.1,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+12,12,12,2022-12-21,Arkansas,,UNC Asheville,REG (Non-Conf),W 85-51,*,19,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,4,4,1,2,0,1,4,4,4.3,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+13,13,13,2022-12-28,Arkansas,@,Louisiana State,REG (Conf),L 57-60,*,32,6,14,0.429,1,8,0.125,5,6,0.833,0.464,0,0,,3,6,9,0,2,2,2,4,13,9.3,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+14,14,14,2023-01-04,Arkansas,,Missouri,REG (Conf),W 74-68,*,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,3,4,7,2,1,0,1,4,6,6.1,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+15,15,15,2023-01-07,Arkansas,@,Auburn,REG (Conf),L 59-72,*,32,2,10,0.2,0,3,0.0,2,7,0.286,0.2,2,4,0.5,4,6,10,2,0,1,2,4,6,2.1,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+16,16,16,2023-01-11,Arkansas,,Alabama,REG (Conf),L 69-84,*,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,2,2,0,0,0,0,2,2,-1.3,H,0,1,jordan-walsh-1,Jordan Walsh,2023
+17,17,17,2023-01-14,Arkansas,@,Vanderbilt,REG (Conf),L 84-97,,17,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,0,2,2,2,0,1,1,3,0,-3.7,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+18,18,18,2023-01-18,Arkansas,@,Missouri,REG (Conf),L 76-79,,13,4,4,1.0,2,2,1.0,2,2,1.0,1.25,2,2,1.0,0,2,2,0,0,0,1,5,12,8.4,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+19,19,19,2023-01-21,Arkansas,,Ole Miss,REG (Conf),W 69-57,*,40,5,9,0.556,2,4,0.5,3,5,0.6,0.667,1,3,0.333,1,6,7,0,1,0,3,1,13,8.0,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+20,20,20,2023-01-24,Arkansas,,Louisiana State,REG (Conf),W 60-40,*,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,1,1,0,0,0,1,2,4,-0.9,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+21,21,21,2023-01-28,Arkansas,@,Baylor,REG (Non-Conf),L 64-67,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,0,1,2,1,5,4,1.7,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+22,22,22,2023-01-31,Arkansas,,Texas A&M,REG (Conf),W 81-70,,27,4,8,0.5,1,2,0.5,3,6,0.5,0.563,3,4,0.75,3,4,7,1,1,0,2,3,12,9.4,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+23,23,23,2023-02-04,Arkansas,@,South Carolina,REG (Conf),W 65-63,,33,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,6,4,10,1,0,1,1,2,4,5.6,A,1,1,jordan-walsh-1,Jordan Walsh,2023
+24,24,24,2023-02-07,Arkansas,@,Kentucky,REG (Conf),W 88-73,,22,4,4,1.0,1,1,1.0,3,3,1.0,1.125,4,4,1.0,1,0,1,0,0,1,0,4,13,11.6,A,1,1,jordan-walsh-1,Jordan Walsh,2023
+25,25,25,2023-02-11,Arkansas,,Mississippi State,REG (Conf),L 64-70,,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,0,2,1,2,1,0,0,2,4.4,H,0,1,jordan-walsh-1,Jordan Walsh,2023
+26,26,26,2023-02-15,Arkansas,@,Texas A&M,REG (Conf),L 56-62,,29,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,1,4,5,1,0,0,1,5,8,4.6,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+27,27,27,2023-02-18,Arkansas,,Florida,REG (Conf),W 84-65,*,13,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,1,1,2,0,0,0,1,1,5,2.6,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+28,28,28,2023-02-21,Arkansas,,Georgia,REG (Conf),W 97-65,*,21,2,6,0.333,1,3,0.333,1,3,0.333,0.417,4,5,0.8,0,7,7,0,2,0,0,3,9,8.1,H,1,1,jordan-walsh-1,Jordan Walsh,2023
+29,29,29,2023-02-25,Arkansas,@,Alabama,REG (Conf),L 83-86,*,34,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,1,6,7,1,3,0,1,5,4,3.1,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+30,30,30,2023-02-28,Arkansas,@,Tennessee,REG (Conf),L 57-75,*,24,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,0,4,4,1,2,0,2,4,1,-1.9,A,0,1,jordan-walsh-1,Jordan Walsh,2023
+31,31,31,2023-03-04,Arkansas,,Kentucky,REG (Conf),L 79-88,,31,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,3,0.333,3,4,7,2,2,1,0,3,10,8.6,H,0,1,jordan-walsh-1,Jordan Walsh,2023
+32,32,32,2023-03-09,Arkansas,N,Auburn,CTOURN,W 76-73,,21,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,2,2,4,2,0,1,1,2,11,11.0,N,1,0,jordan-walsh-1,Jordan Walsh,2023
+33,33,33,2023-03-10,Arkansas,N,Texas A&M,CTOURN,L 61-67,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,3,3,1,1,1,1,2,7,6.5,N,0,0,jordan-walsh-1,Jordan Walsh,2023
+34,34,34,2023-03-16,Arkansas,N,Illinois,ROUND-64,W 73-63,,27,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,3,0.667,2,2,4,1,3,0,1,4,6,3.9,N,1,0,jordan-walsh-1,Jordan Walsh,2023
+35,35,35,2023-03-18,Arkansas,N,Kansas,ROUND-32,W 72-71,,33,3,6,0.5,1,1,1.0,2,5,0.4,0.583,3,4,0.75,3,0,3,0,2,0,2,5,10,6.7,N,1,0,jordan-walsh-1,Jordan Walsh,2023
+36,36,36,2023-03-23,Arkansas,N,Connecticut,ROUND-16,L 65-88,,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,1,0.0,0,0,0,0,1,0,1,1,2,-1.9,N,0,0,jordan-walsh-1,Jordan Walsh,2023

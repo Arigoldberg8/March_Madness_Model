@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,7,1,2024-11-04,Liberty,N,Valparaiso,REG (Non-Conf),W 83-63,,19,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,1,1,1,0,0,0,3,9,4.4,N,1,1,taelon-peter-1,Taelon Peter,2025
+2,8,2,2024-11-09,Liberty,@,Seattle,REG (Non-Conf),W 66-64,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,4,0.75,0,2,2,0,0,0,0,3,5,1.6,A,1,1,taelon-peter-1,Taelon Peter,2025
+3,9,3,2024-11-12,Liberty,,Carolina,REG (Non-Conf),W 81-45,*,17,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,1,2,3,1,2,1,0,1,12,12.7,H,1,1,taelon-peter-1,Taelon Peter,2025
+4,10,4,2024-11-16,Liberty,N,Florida Atlantic,REG (Non-Conf),L 74-77 (OT),,24,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,1,0.0,0,4,4,2,2,0,0,0,13,13.6,N,0,1,taelon-peter-1,Taelon Peter,2025
+5,11,5,2024-11-17,Liberty,@,College of Charleston,REG (Non-Conf),W 68-47,,16,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,0,0,1,3,0,-0.5,A,1,1,taelon-peter-1,Taelon Peter,2025
+6,12,6,2024-11-22,Liberty,N,Louisiana,REG (Non-Conf),W 89-69,,23,5,8,0.625,1,3,0.333,4,5,0.8,0.688,1,1,1.0,2,3,5,0,1,0,0,1,12,11.3,N,1,1,taelon-peter-1,Taelon Peter,2025
+7,13,7,2024-11-24,Liberty,N,Kansas State,REG (Non-Conf),W 67-65,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,2,2,-0.8,N,1,1,taelon-peter-1,Taelon Peter,2025
+8,14,8,2024-11-25,Liberty,N,McNeese State,REG (Non-Conf),W 62-58,,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,0,0,0,1,1,3,-0.5,N,1,1,taelon-peter-1,Taelon Peter,2025
+9,15,9,2024-11-29,Liberty,,Central Penn,REG (Non-Conf),W 93-36,,16,4,10,0.4,1,6,0.167,3,4,0.75,0.45,1,1,1.0,1,4,5,0,0,0,0,1,10,6.1,H,1,1,taelon-peter-1,Taelon Peter,2025
+10,16,10,2024-12-07,Liberty,,Mississippi Valley State,REG (Non-Conf),W 89-52,,16,1,2,0.5,0,0,,1,2,0.5,0.5,3,4,0.75,0,2,2,2,1,0,1,0,5,5.6,H,1,1,taelon-peter-1,Taelon Peter,2025
+11,17,11,2024-12-14,Liberty,,North Carolina A&T,REG (Non-Conf),W 83-74,,21,4,8,0.5,1,5,0.2,3,3,1.0,0.563,1,2,0.5,0,4,4,1,1,0,1,1,10,7.1,H,1,1,taelon-peter-1,Taelon Peter,2025
+12,18,12,2024-12-17,Liberty,,St. Andrews,REG (Non-Conf),W 124-50,*,16,12,17,0.706,3,5,0.6,9,12,0.75,0.794,3,4,0.75,1,4,5,1,2,0,0,0,30,27.1,H,1,1,taelon-peter-1,Taelon Peter,2025
+13,19,13,2024-12-21,Liberty,,UT Arlington,REG (Non-Conf),W 79-56,,21,7,11,0.636,4,8,0.5,3,3,1.0,0.818,0,0,,0,2,2,2,0,0,0,1,18,14.7,H,1,1,taelon-peter-1,Taelon Peter,2025
+14,20,14,2025-01-02,Liberty,,Western Kentucky,REG (Conf),L 70-71,,22,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,2,5,7,0,1,1,1,2,9,8.1,H,0,1,taelon-peter-1,Taelon Peter,2025
+15,21,15,2025-01-04,Liberty,,Middle Tennessee,REG (Conf),W 73-63,,16,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,3,3,2,1,0,1,4,8,3.6,H,1,1,taelon-peter-1,Taelon Peter,2025
+16,22,16,2025-01-09,Liberty,@,Sam Houston State,REG (Conf),W 76-68,,22,6,10,0.6,1,4,0.25,5,6,0.833,0.65,2,3,0.667,0,2,2,0,0,1,2,1,15,8.9,A,1,1,taelon-peter-1,Taelon Peter,2025
+17,23,17,2025-01-11,Liberty,@,Louisiana Tech,REG (Conf),L 74-79,,32,9,13,0.692,5,9,0.556,4,4,1.0,0.885,10,12,0.833,0,4,4,0,1,0,0,3,33,27.7,A,0,1,taelon-peter-1,Taelon Peter,2025
+18,24,18,2025-01-16,Liberty,,UTEP,REG (Conf),L 70-72,,29,6,11,0.545,3,6,0.5,3,5,0.6,0.682,5,5,1.0,0,6,6,2,1,0,1,2,20,17.1,H,0,1,taelon-peter-1,Taelon Peter,2025
+19,25,19,2025-01-18,Liberty,,New Mexico State,REG (Conf),W 68-60,,24,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,4,0.75,0,7,7,0,0,0,0,2,11,9.3,H,1,1,taelon-peter-1,Taelon Peter,2025
+20,26,20,2025-01-25,Liberty,@,Florida International,REG (Conf),W 82-59,,28,8,12,0.667,4,7,0.571,4,5,0.8,0.833,1,1,1.0,0,4,4,0,0,0,0,1,21,16.6,A,1,1,taelon-peter-1,Taelon Peter,2025
+21,27,21,2025-01-30,Liberty,@,Kennesaw State,REG (Conf),W 76-68,,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,3,4,0.75,0,3,3,0,0,0,0,2,11,7.0,A,1,1,taelon-peter-1,Taelon Peter,2025
+22,28,22,2025-02-01,Liberty,@,Jacksonville State,REG (Conf),L 61-72,,30,7,14,0.5,5,12,0.417,2,2,1.0,0.679,0,0,,1,8,9,1,0,0,2,1,19,13.4,A,0,1,taelon-peter-1,Taelon Peter,2025
+23,29,23,2025-02-06,Liberty,,Louisiana Tech,REG (Conf),W 77-53,,23,6,9,0.667,2,4,0.5,4,5,0.8,0.778,2,3,0.667,0,3,3,4,2,0,0,3,16,16.2,H,1,1,taelon-peter-1,Taelon Peter,2025
+24,30,24,2025-02-08,Liberty,,Sam Houston State,REG (Conf),W 64-61,,13,1,2,0.5,1,2,0.5,0,0,,0.75,2,4,0.5,0,1,1,2,0,0,0,4,5,3.3,H,1,1,taelon-peter-1,Taelon Peter,2025
+25,31,25,2025-02-13,Liberty,@,New Mexico State,REG (Conf),W 64-54,,27,6,8,0.75,3,5,0.6,3,3,1.0,0.938,5,7,0.714,0,6,6,0,2,0,1,2,20,18.0,A,1,1,taelon-peter-1,Taelon Peter,2025
+26,32,26,2025-02-15,Liberty,@,UTEP,REG (Conf),W 76-69,,32,9,17,0.529,5,9,0.556,4,8,0.5,0.676,0,0,,0,10,10,0,0,0,1,1,23,16.3,A,1,1,taelon-peter-1,Taelon Peter,2025
+27,33,27,2025-02-22,Liberty,,Florida International,REG (Conf),W 58-45,,31,4,9,0.444,2,7,0.286,2,2,1.0,0.556,4,5,0.8,0,6,6,1,2,0,2,3,14,10.2,H,1,1,taelon-peter-1,Taelon Peter,2025
+28,34,28,2025-02-27,Liberty,,Jacksonville State,REG (Conf),W 59-55,,27,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,0,3,3,0,1,0,0,3,4,2.3,H,1,1,taelon-peter-1,Taelon Peter,2025
+29,35,29,2025-03-02,Liberty,,Kennesaw State,REG (Conf),L 80-85,,25,5,5,1.0,2,2,1.0,3,3,1.0,1.2,2,3,0.667,1,3,4,3,2,0,0,1,14,17.4,H,0,1,taelon-peter-1,Taelon Peter,2025
+30,36,30,2025-03-06,Liberty,@,Middle Tennessee,REG (Conf),W 86-81,,28,11,14,0.786,3,6,0.5,8,8,1.0,0.893,8,8,1.0,0,6,6,1,3,1,2,3,33,30.6,A,1,1,taelon-peter-1,Taelon Peter,2025
+31,37,31,2025-03-08,Liberty,@,Western Kentucky,REG (Conf),W 90-61,,23,7,12,0.583,4,8,0.5,3,4,0.75,0.75,3,3,1.0,1,8,9,2,1,0,0,2,21,20.1,A,1,1,taelon-peter-1,Taelon Peter,2025
+32,38,32,2025-03-12,Liberty,N,UTEP,CTOURN,W 81-60,,23,5,5,1.0,4,4,1.0,1,1,1.0,1.4,0,0,,0,5,5,1,3,0,0,3,14,16.5,N,1,0,taelon-peter-1,Taelon Peter,2025
+33,39,33,2025-03-14,Liberty,N,Kennesaw State,CTOURN,W 81-79,,30,4,9,0.444,2,4,0.5,2,5,0.4,0.556,1,3,0.333,1,5,6,2,1,0,0,4,11,8.5,N,1,0,taelon-peter-1,Taelon Peter,2025
+34,40,34,2025-03-15,Liberty,N,Jacksonville State,CTOURN,W 79-67,,29,7,7,1.0,3,3,1.0,4,4,1.0,1.214,3,4,0.75,0,2,2,3,0,0,2,4,20,16.6,N,1,0,taelon-peter-1,Taelon Peter,2025
+35,41,35,2025-03-21,Liberty,N,Oregon,ROUND-64,L 52-81,,22,3,9,0.333,2,7,0.286,1,2,0.5,0.444,0,0,,0,0,0,0,2,0,1,2,8,3.1,N,0,0,taelon-peter-1,Taelon Peter,2025

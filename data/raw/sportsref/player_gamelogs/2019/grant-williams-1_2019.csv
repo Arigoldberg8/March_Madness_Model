@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2018-11-06,Tennessee,,Lenoir-Rhyne,REG (Non-Conf),W 86-41,*,29,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,0,7,7,5,2,2,1,2,13,15.9,H,1,1,grant-williams-1,Grant Williams,2019
+2,69,2,2018-11-09,Tennessee,,Louisiana,REG (Non-Conf),W 87-65,*,34,11,15,0.733,3,4,0.75,8,11,0.727,0.833,6,7,0.857,3,7,10,3,2,0,3,3,31,28.6,H,1,1,grant-williams-1,Grant Williams,2019
+3,70,3,2018-11-13,Tennessee,,Georgia Tech,REG (Non-Conf),W 66-53,*,31,6,10,0.6,0,1,0.0,6,9,0.667,0.6,10,16,0.625,3,5,8,3,0,0,4,4,22,15.1,H,1,1,grant-williams-1,Grant Williams,2019
+4,71,4,2018-11-21,Tennessee,N,Louisville,REG (Non-Conf),W 92-81,*,34,9,15,0.6,0,0,,9,15,0.6,0.6,6,9,0.667,4,5,9,4,0,3,2,2,24,22.3,N,1,1,grant-williams-1,Grant Williams,2019
+5,72,5,2018-11-23,Tennessee,N,Kansas,REG (Non-Conf),L 81-87 (OT),*,34,6,13,0.462,1,2,0.5,5,11,0.455,0.5,5,6,0.833,2,6,8,6,2,1,5,5,18,14.0,N,0,1,grant-williams-1,Grant Williams,2019
+6,73,6,2018-11-28,Tennessee,,Eastern Kentucky,REG (Non-Conf),W 95-67,*,28,6,10,0.6,0,1,0.0,6,9,0.667,0.6,9,9,1.0,3,8,11,5,0,3,2,2,21,23.7,H,1,1,grant-williams-1,Grant Williams,2019
+7,74,7,2018-12-02,Tennessee,,Texas A&M–Corpus Christi,REG (Non-Conf),W 79-51,*,29,5,9,0.556,0,1,0.0,5,8,0.625,0.556,4,4,1.0,1,8,9,4,1,2,2,0,14,16.0,H,1,1,grant-williams-1,Grant Williams,2019
+8,75,8,2018-12-09,Tennessee,N,Gonzaga,REG (Non-Conf),W 76-73,*,34,6,13,0.462,1,2,0.5,5,11,0.455,0.5,3,3,1.0,4,8,12,7,0,1,1,5,16,17.1,N,1,1,grant-williams-1,Grant Williams,2019
+9,76,9,2018-12-15,Tennessee,@,Memphis,REG (Non-Conf),W 102-92,*,34,6,11,0.545,1,2,0.5,5,9,0.556,0.591,6,8,0.75,0,4,4,5,0,2,2,4,19,15.4,A,1,1,grant-williams-1,Grant Williams,2019
+10,77,10,2018-12-19,Tennessee,,Samford,REG (Non-Conf),W 83-70,*,27,5,9,0.556,0,0,,5,9,0.556,0.556,6,9,0.667,1,4,5,2,1,2,0,2,16,15.4,H,1,1,grant-williams-1,Grant Williams,2019
+11,78,11,2018-12-22,Tennessee,,Wake Forest,REG (Non-Conf),W 83-64,*,36,7,14,0.5,0,2,0.0,7,12,0.583,0.5,8,9,0.889,2,8,10,2,2,3,1,2,22,22.1,H,1,1,grant-williams-1,Grant Williams,2019
+12,79,12,2018-12-29,Tennessee,,Tennessee Tech,REG (Non-Conf),W 96-53,*,25,10,11,0.909,0,0,,10,11,0.909,0.909,5,6,0.833,1,6,7,2,3,2,2,2,25,26.4,H,1,1,grant-williams-1,Grant Williams,2019
+13,80,13,2019-01-05,Tennessee,,Georgia,REG (Conf),W 96-50,*,24,4,5,0.8,1,1,1.0,3,4,0.75,0.9,9,11,0.818,1,7,8,5,2,1,2,2,18,21.5,H,1,1,grant-williams-1,Grant Williams,2019
+14,81,14,2019-01-08,Tennessee,@,Missouri,REG (Conf),W 87-63,*,22,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,2,1.0,0,1,1,1,0,0,0,5,4,-2.2,A,1,1,grant-williams-1,Grant Williams,2019
+15,82,15,2019-01-12,Tennessee,@,Florida,REG (Conf),W 78-67,*,36,8,11,0.727,1,1,1.0,7,10,0.7,0.773,3,4,0.75,4,5,9,4,2,2,3,3,20,21.4,A,1,1,grant-williams-1,Grant Williams,2019
+16,83,16,2019-01-15,Tennessee,,Arkansas,REG (Conf),W 106-87,*,33,2,7,0.286,0,1,0.0,2,6,0.333,0.286,14,14,1.0,2,5,7,4,0,1,3,2,18,16.5,H,1,1,grant-williams-1,Grant Williams,2019
+17,84,17,2019-01-19,Tennessee,,Alabama,REG (Conf),W 71-68,*,34,8,17,0.471,0,1,0.0,8,16,0.5,0.471,5,7,0.714,2,0,2,0,1,1,2,5,21,10.6,H,1,1,grant-williams-1,Grant Williams,2019
+18,85,18,2019-01-23,Tennessee,@,Vanderbilt,REG (Conf),W 88-83 (OT),*,38,10,15,0.667,0,2,0.0,10,13,0.769,0.667,23,23,1.0,1,7,8,2,1,4,3,3,43,40.3,A,1,1,grant-williams-1,Grant Williams,2019
+19,86,19,2019-01-26,Tennessee,,West Virginia,REG (Non-Conf),W 83-66,*,32,5,8,0.625,0,1,0.0,5,7,0.714,0.625,9,12,0.75,2,1,3,4,3,1,4,1,19,18.0,H,1,1,grant-williams-1,Grant Williams,2019
+20,87,20,2019-01-29,Tennessee,@,South Carolina,REG (Conf),W 92-70,*,34,9,15,0.6,0,2,0.0,9,13,0.692,0.6,5,8,0.625,2,7,9,0,4,0,2,3,23,19.2,A,1,1,grant-williams-1,Grant Williams,2019
+21,88,21,2019-02-02,Tennessee,@,Texas A&M,REG (Conf),W 93-76,*,36,9,12,0.75,0,1,0.0,9,11,0.818,0.75,4,4,1.0,3,7,10,4,1,2,2,2,22,23.8,A,1,1,grant-williams-1,Grant Williams,2019
+22,89,22,2019-02-05,Tennessee,,Missouri,REG (Conf),W 72-60,*,28,5,10,0.5,0,1,0.0,5,9,0.556,0.5,3,3,1.0,1,5,6,2,0,2,4,3,13,7.8,H,1,1,grant-williams-1,Grant Williams,2019
+23,90,23,2019-02-09,Tennessee,,Florida,REG (Conf),W 73-61,*,33,7,11,0.636,0,0,,7,11,0.636,0.636,2,3,0.667,3,3,6,3,0,0,1,4,16,13.2,H,1,1,grant-williams-1,Grant Williams,2019
+24,91,24,2019-02-13,Tennessee,,South Carolina,REG (Conf),W 85-73,*,34,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,3,6,9,7,1,3,1,1,8,14.5,H,1,1,grant-williams-1,Grant Williams,2019
+25,92,25,2019-02-16,Tennessee,@,Kentucky,REG (Conf),L 69-86,*,35,3,4,0.75,2,2,1.0,1,2,0.5,1.0,8,9,0.889,3,5,8,2,2,0,3,3,16,16.8,A,0,1,grant-williams-1,Grant Williams,2019
+26,93,26,2019-02-19,Tennessee,,Vanderbilt,REG (Conf),W 58-46,*,32,7,13,0.538,0,0,,7,13,0.538,0.538,0,1,0.0,4,7,11,1,0,1,1,2,14,11.8,H,1,1,grant-williams-1,Grant Williams,2019
+27,94,27,2019-02-23,Tennessee,@,Louisiana State,REG (Conf),L 80-82 (OT),*,40,5,14,0.357,0,1,0.0,5,13,0.385,0.357,8,10,0.8,4,5,9,3,0,0,5,4,18,9.2,A,0,1,grant-williams-1,Grant Williams,2019
+28,95,28,2019-02-27,Tennessee,@,Ole Miss,REG (Conf),W 73-71,*,36,7,13,0.538,0,0,,7,13,0.538,0.538,7,8,0.875,1,5,6,4,3,2,1,2,21,21.9,A,1,1,grant-williams-1,Grant Williams,2019
+29,96,29,2019-03-02,Tennessee,,Kentucky,REG (Conf),W 71-52,*,32,7,13,0.538,2,4,0.5,5,9,0.556,0.615,8,11,0.727,2,5,7,2,1,0,2,3,24,18.6,H,1,1,grant-williams-1,Grant Williams,2019
+30,97,30,2019-03-05,Tennessee,,Mississippi State,REG (Conf),W 71-54,*,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,6,6,1.0,4,6,10,3,2,2,3,2,14,16.3,H,1,1,grant-williams-1,Grant Williams,2019
+31,98,31,2019-03-09,Tennessee,@,Auburn,REG (Conf),L 80-84,*,33,8,12,0.667,0,1,0.0,8,11,0.727,0.667,9,10,0.9,6,3,9,3,0,2,2,3,25,24.8,A,0,1,grant-williams-1,Grant Williams,2019
+32,99,32,2019-03-15,Tennessee,N,Mississippi State,CTOURN,W 83-76,*,26,8,17,0.471,0,2,0.0,8,15,0.533,0.471,0,0,,1,3,4,0,1,1,2,5,16,6.6,N,1,0,grant-williams-1,Grant Williams,2019
+33,100,33,2019-03-16,Tennessee,N,Kentucky,CTOURN,W 82-78,*,31,5,10,0.5,1,2,0.5,4,8,0.5,0.55,9,11,0.818,3,4,7,1,1,1,0,4,20,18.3,N,1,0,grant-williams-1,Grant Williams,2019
+34,101,34,2019-03-17,Tennessee,N,Auburn,CTOURN,L 64-84,*,35,6,9,0.667,1,1,1.0,5,8,0.625,0.722,0,2,0.0,0,8,8,2,0,2,4,3,13,8.3,N,0,0,grant-williams-1,Grant Williams,2019
+35,102,35,2019-03-22,Tennessee,N,Colgate,ROUND-64,W 77-70,*,33,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,2,5,7,3,0,1,2,3,9,7.8,N,1,0,grant-williams-1,Grant Williams,2019
+36,103,36,2019-03-24,Tennessee,N,Iowa,ROUND-32,W 83-77 (OT),*,37,7,13,0.538,0,0,,7,13,0.538,0.538,5,6,0.833,1,6,7,5,4,3,5,4,19,17.8,N,1,0,grant-williams-1,Grant Williams,2019
+37,104,37,2019-03-28,Tennessee,N,Purdue,ROUND-16,L 94-99 (OT),*,29,9,16,0.563,0,2,0.0,9,14,0.643,0.563,3,5,0.6,3,4,7,4,0,2,1,5,21,17.1,N,0,0,grant-williams-1,Grant Williams,2019

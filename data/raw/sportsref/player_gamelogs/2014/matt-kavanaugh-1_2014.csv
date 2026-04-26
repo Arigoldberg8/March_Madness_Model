@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,80,1,2013-11-09,Dayton,,IPFW,REG (Non-Conf),W 81-80,*,26,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,2,9,11,0,0,1,1,2,7,7.6,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+2,81,2,2013-11-13,Dayton,,Saint Francis (PA),REG (Non-Conf),W 70-56,*,12,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,2,2,4,0,0,0,2,3,0,-3.3,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+3,82,3,2013-11-16,Dayton,,St. Francis Brooklyn,REG (Non-Conf),W 78-58,*,20,2,7,0.286,0,0,2,7,0.286,0.286,6,8,0.75,2,0,2,0,0,0,1,4,10,3.9,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+4,83,4,2013-11-20,Dayton,@,Georgia Tech,REG (Non-Conf),W 82-72,*,8,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,2,0,2,1,1,0,0,3,0,-0.2,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+5,84,5,2013-11-25,Dayton,N,Gonzaga,REG (Non-Conf),W 84-79,*,7,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,2,0,2,0,0,0,1,2,2,-1.5,N,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+6,85,6,2013-11-26,Dayton,N,Baylor,REG (Non-Conf),L 66-67,*,14,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,1,0,1,0,0,0,0,4,3,-0.7,N,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+7,86,7,2013-11-27,Dayton,N,California,REG (Non-Conf),W 82-64,*,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,0,0,0,0.7,N,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+8,87,8,2013-12-04,Dayton,,Delaware State,REG (Non-Conf),W 56-46,*,15,4,4,1.0,0,0,4,4,1.0,1.0,3,4,0.75,0,0,0,1,1,1,1,2,11,10.0,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+9,88,9,2013-12-07,Dayton,@,Illinois State,REG (Non-Conf),L 75-81,,20,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,1,0,1,1,1,2,2,0,7,6.5,A,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+10,89,10,2013-12-14,Dayton,,Central Michigan,REG (Non-Conf),W 84-58,,2,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+11,90,11,2013-12-19,Dayton,,Iona,REG (Non-Conf),W 96-84,,3,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,1,2,0.3,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+12,91,13,2013-12-29,Dayton,,Murray State,REG (Non-Conf),W 72-51,,18,3,5,0.6,0,0,3,5,0.6,0.6,2,4,0.5,3,3,6,1,0,0,2,3,8,5.4,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+13,92,14,2014-01-01,Dayton,,Winthrop,REG (Non-Conf),W 81-47,,14,0,2,0.0,0,0,0,2,0.0,0.0,1,4,0.25,2,2,4,1,0,0,0,1,1,0.7,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+14,93,15,2014-01-04,Dayton,@,Ole Miss,REG (Non-Conf),W 83-80 (OT),,31,5,7,0.714,0,0,5,7,0.714,0.714,0,1,0.0,3,2,5,2,1,1,1,4,10,9.9,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+15,94,16,2014-01-11,Dayton,,Saint Louis,REG (Conf),L 59-67,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+16,95,20,2014-01-25,Dayton,@,Rhode Island,REG (Conf),L 76-88,*,24,5,6,0.833,0,0,5,6,0.833,0.833,3,4,0.75,1,2,3,2,0,1,2,2,13,11.0,A,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+17,96,21,2014-01-29,Dayton,,Saint Joseph's,REG (Conf),L 57-60,*,16,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,1,2,3,1,1,0,2,3,2,0.0,H,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+18,97,22,2014-02-01,Dayton,,George Washington,REG (Conf),W 75-65,*,18,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,1,3,4,2,0,0,0,2,6,6.9,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+19,98,23,2014-02-05,Dayton,@,George Mason,REG (Conf),W 84-67,*,25,4,5,0.8,0,0,4,5,0.8,0.8,6,9,0.667,2,4,6,2,1,0,2,2,14,13.1,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+20,99,24,2014-02-08,Dayton,@,St. Bonaventure,REG (Conf),W 72-69,*,21,3,8,0.375,0,0,3,8,0.375,0.375,2,2,1.0,3,1,4,1,0,0,1,3,8,4.5,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+21,100,25,2014-02-12,Dayton,,Rhode Island,REG (Conf),W 76-69,*,23,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,2,3,2,1,1,0,5,4,5.1,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+22,101,26,2014-02-19,Dayton,,La Salle,REG (Conf),W 65-53,*,19,5,8,0.625,0,0,5,8,0.625,0.625,6,6,1.0,1,3,4,1,1,1,2,4,16,12.8,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+23,102,27,2014-02-22,Dayton,@,Duquesne,REG (Conf),W 57-54,*,24,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,2,7,9,1,0,2,2,4,9,6.6,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+24,103,28,2014-02-25,Dayton,@,Saint Joseph's,REG (Conf),L 53-79,*,12,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,3,4,2,0,0,0,3,0,-0.3,A,0,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+25,104,29,2014-03-01,Dayton,,Massachusetts,REG (Conf),W 86-79,*,23,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,2,4,0,0,0,2,2,4,2.6,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+26,105,30,2014-03-05,Dayton,@,Saint Louis,REG (Conf),W 72-67,*,19,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,1,2,3,0,0,0,0,4,2,0.0,A,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+27,106,31,2014-03-08,Dayton,,Richmond,REG (Conf),W 60-48,*,17,0,3,0.0,0,0,0,3,0.0,0.0,3,4,0.75,2,4,6,0,0,0,1,4,3,0.5,H,1,1,matt-kavanaugh-1,Matt Kavanaugh,2014
+28,107,32,2014-03-13,Dayton,N,Fordham,CTOURN,W 87-74,*,11,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,0,1,1,1,0,0,0,3,5,2.4,N,1,0,matt-kavanaugh-1,Matt Kavanaugh,2014
+29,108,33,2014-03-14,Dayton,N,Saint Joseph's,CTOURN,L 67-70,*,17,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,1,3,4,0,0,0,1,5,10,6.4,N,0,0,matt-kavanaugh-1,Matt Kavanaugh,2014
+30,109,34,2014-03-20,Dayton,N,Ohio State,ROUND-64,W 60-59,*,21,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,0,4,4,2,0,0,1,1,9,7.6,N,1,0,matt-kavanaugh-1,Matt Kavanaugh,2014
+31,110,35,2014-03-22,Dayton,N,Syracuse,ROUND-32,W 55-53,*,22,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,0,3,0,1,1,2,3,4,2.6,N,1,0,matt-kavanaugh-1,Matt Kavanaugh,2014
+32,111,36,2014-03-27,Dayton,N,Stanford,ROUND-16,W 82-72,*,18,5,6,0.833,0,0,5,6,0.833,0.833,0,1,0.0,0,0,0,0,2,0,2,4,10,5.8,N,1,0,matt-kavanaugh-1,Matt Kavanaugh,2014
+33,112,37,2014-03-29,Dayton,N,Florida,ROUND-8,L 52-62,*,25,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,3,5,8,1,1,1,1,2,6,7.5,N,0,0,matt-kavanaugh-1,Matt Kavanaugh,2014

@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2011-11-11,St. Mary's (CA),,Fresno Pacific,REG (Non-Conf),W 98-58,,20,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,2,3,5,3,0,0,1,3,14,12.6,H,1,1,clint-steindl-1,Clint Steindl,2012
+2,92,2,2011-11-15,St. Mary's (CA),,Northern Iowa,REG (Non-Conf),W 57-41,,20,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,0,1,6,4.9,H,1,1,clint-steindl-1,Clint Steindl,2012
+3,93,3,2011-11-23,St. Mary's (CA),@,Denver,REG (Non-Conf),L 58-70,,23,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,3,4,2,0,0,0,4,3,2.7,A,0,1,clint-steindl-1,Clint Steindl,2012
+4,94,4,2011-11-27,St. Mary's (CA),,San Fran. St.,REG (Non-Conf),W 86-52,,21,4,9,0.444,4,7,0.571,0,2,0.0,0.667,2,2,1.0,1,3,4,2,0,1,0,2,14,12.2,H,1,1,clint-steindl-1,Clint Steindl,2012
+5,95,5,2011-11-28,St. Mary's (CA),,Weber State,REG (Non-Conf),W 87-70,,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,2,2,1.0,1,3,4,0,0,1,1,1,5,2.8,H,1,1,clint-steindl-1,Clint Steindl,2012
+6,96,6,2011-12-03,St. Mary's (CA),@,Cal Poly,REG (Non-Conf),W 59-54,*,24,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,1,2,0,0,2,5,5.6,A,1,1,clint-steindl-1,Clint Steindl,2012
+7,97,7,2011-12-13,St. Mary's (CA),,Jackson State,REG (Non-Conf),W 77-53,*,28,6,10,0.6,6,10,0.6,0,0,,0.9,0,0,,0,1,1,3,0,0,0,2,18,15.0,H,1,1,clint-steindl-1,Clint Steindl,2012
+8,98,8,2011-12-15,St. Mary's (CA),,North Carolina A&T,REG (Non-Conf),W 84-45,*,25,6,11,0.545,5,9,0.556,1,2,0.5,0.773,0,0,,1,4,5,2,0,0,1,1,17,13.6,H,1,1,clint-steindl-1,Clint Steindl,2012
+9,99,9,2011-12-17,St. Mary's (CA),,Bethune-Cookman,REG (Non-Conf),W 77-52,*,26,4,10,0.4,2,7,0.286,2,3,0.667,0.5,0,0,,3,4,7,1,0,0,1,2,10,6.8,H,1,1,clint-steindl-1,Clint Steindl,2012
+10,100,10,2011-12-19,St. Mary's (CA),,Kennesaw State,REG (Non-Conf),W 74-51,*,26,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,3,1,4,1,3,0,0,1,7,8.6,H,1,1,clint-steindl-1,Clint Steindl,2012
+11,101,11,2011-12-20,St. Mary's (CA),,Eastern Washington,REG (Non-Conf),W 77-61,*,29,2,10,0.2,2,8,0.25,0,2,0.0,0.3,6,6,1.0,1,6,7,2,0,0,1,0,12,8.7,H,1,1,clint-steindl-1,Clint Steindl,2012
+12,102,12,2011-12-22,St. Mary's (CA),N,Baylor,REG (Non-Conf),L 59-72,*,29,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,0,0,0,1,0,0,3,6,3.8,N,0,1,clint-steindl-1,Clint Steindl,2012
+13,103,13,2011-12-23,St. Mary's (CA),N,Missouri State,REG (Non-Conf),W 77-61,*,9,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,N,1,1,clint-steindl-1,Clint Steindl,2012
+14,104,17,2012-01-09,St. Mary's (CA),,San Francisco,REG (Conf),W 87-72,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,0,0,0.7,H,1,1,clint-steindl-1,Clint Steindl,2012
+15,105,18,2012-01-12,St. Mary's (CA),,Gonzaga,REG (Conf),W 83-62,,26,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,2,2,0,0,0,0,2,6,1.7,H,1,1,clint-steindl-1,Clint Steindl,2012
+16,106,19,2012-01-14,St. Mary's (CA),,Portland,REG (Conf),W 69-61,,8,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,0,1,0,0,3,3,0.4,H,1,1,clint-steindl-1,Clint Steindl,2012
+17,107,20,2012-01-19,St. Mary's (CA),,Pepperdine,REG (Conf),W 61-47,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.8,H,1,1,clint-steindl-1,Clint Steindl,2012
+18,108,21,2012-01-21,St. Mary's (CA),@,Santa Clara,REG (Conf),W 93-77,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,1,0,2,0,-0.8,A,1,1,clint-steindl-1,Clint Steindl,2012
+19,109,22,2012-01-26,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 71-64,,14,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,2,0,2,0,2,0,0,1,7,7.3,A,1,1,clint-steindl-1,Clint Steindl,2012
+20,110,23,2012-01-28,St. Mary's (CA),@,Brigham Young,REG (Conf),W 80-66,,21,4,6,0.667,4,6,0.667,0,0,,1.0,4,4,1.0,0,2,2,0,2,0,1,0,16,15.0,A,1,1,clint-steindl-1,Clint Steindl,2012
+21,111,24,2012-02-02,St. Mary's (CA),,San Diego,REG (Conf),W 84-73,,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,1,0,1,0,1,0,-0.5,H,1,1,clint-steindl-1,Clint Steindl,2012
+22,112,25,2012-02-09,St. Mary's (CA),@,Gonzaga,REG (Conf),L 59-73,,20,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,2,3,0,0,0,1,1,3,0.5,A,0,1,clint-steindl-1,Clint Steindl,2012
+23,113,26,2012-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 82-67,,23,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,2,2,2,0,1,0,0,5,6.7,H,1,1,clint-steindl-1,Clint Steindl,2012
+24,114,27,2012-02-15,St. Mary's (CA),,Loyola Marymount,REG (Conf),L 60-75,,33,4,11,0.364,4,11,0.364,0,0,,0.545,0,0,,1,4,5,0,1,0,1,4,12,6.2,H,0,1,clint-steindl-1,Clint Steindl,2012
+25,115,28,2012-02-18,St. Mary's (CA),@,Murray State,REG (Non-Conf),L 51-65,*,31,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,3,3,0,1,0,0,2,7,5.8,A,0,1,clint-steindl-1,Clint Steindl,2012
+26,116,29,2012-02-23,St. Mary's (CA),@,Portland,REG (Conf),W 70-43,*,37,4,6,0.667,3,5,0.6,1,1,1.0,0.917,4,4,1.0,4,1,5,2,2,0,0,1,15,18.5,A,1,1,clint-steindl-1,Clint Steindl,2012
+27,117,30,2012-02-25,St. Mary's (CA),@,San Francisco,REG (Conf),W 67-60,*,35,4,11,0.364,4,9,0.444,0,2,0.0,0.545,4,4,1.0,0,2,2,0,0,0,1,4,16,7.9,A,1,1,clint-steindl-1,Clint Steindl,2012
+28,118,31,2012-03-03,St. Mary's (CA),N,San Francisco,CTOURN,W 83-78,*,37,6,15,0.4,6,14,0.429,0,1,0.0,0.6,1,2,0.5,0,2,2,2,0,0,4,2,19,7.7,N,1,0,clint-steindl-1,Clint Steindl,2012
+29,119,32,2012-03-05,St. Mary's (CA),N,Gonzaga,CTOURN,W 78-74 (OT),*,36,1,6,0.167,1,5,0.2,0,1,0.0,0.25,1,2,0.5,2,4,6,1,1,0,0,3,4,2.9,N,1,0,clint-steindl-1,Clint Steindl,2012
+30,120,33,2012-03-16,St. Mary's (CA),N,Purdue,ROUND-64,L 69-72,*,28,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,4,5,0,0,0,2,1,6,2.5,N,0,0,clint-steindl-1,Clint Steindl,2012

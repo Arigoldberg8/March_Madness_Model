@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2012-11-09,Valparaiso,,Georgia Southern,REG (Non-Conf),W 85-54,*,30,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,2,1,3,9,2,0,4,3,6,7.4,H,1,1,erik-buggs-1,Erik Buggs,2013
+2,105,2,2012-11-13,Valparaiso,,Northern Illinois,REG (Non-Conf),W 69-46,*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,3,3,7,2,0,2,1,4,7.4,H,1,1,erik-buggs-1,Erik Buggs,2013
+3,106,3,2012-11-15,Valparaiso,@,Nebraska,REG (Non-Conf),L 48-50,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,1,3,0.333,0,1,1,0,0,0,0,2,3,0.7,A,0,1,erik-buggs-1,Erik Buggs,2013
+4,107,4,2012-11-18,Valparaiso,@,Kent State,REG (Non-Conf),W 88-83 (OT),*,28,4,4,1.0,0,0,,4,4,1.0,1.0,7,9,0.778,0,2,2,2,1,1,2,3,15,13.5,A,1,1,erik-buggs-1,Erik Buggs,2013
+5,108,5,2012-11-23,Valparaiso,,Chicago State,REG (Non-Conf),W 67-46,*,26,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,2,4,6,0,0,2,3,4,6.7,H,1,1,erik-buggs-1,Erik Buggs,2013
+6,109,6,2012-11-24,Valparaiso,N,Bethune-Cookman,REG (Non-Conf),W 77-64,*,35,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,0,0,3,2,0,5,2,4,-1.8,N,1,1,erik-buggs-1,Erik Buggs,2013
+7,110,7,2012-12-02,Valparaiso,@,Saint Louis,REG (Non-Conf),L 49-62,*,27,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,4,0.25,0,2,2,4,1,0,3,5,5,-1.6,A,0,1,erik-buggs-1,Erik Buggs,2013
+8,111,8,2012-12-05,Valparaiso,,IPFW,REG (Non-Conf),W 63-52,*,32,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,3,0.667,1,0,1,3,0,0,0,3,7,6.9,H,1,1,erik-buggs-1,Erik Buggs,2013
+9,112,9,2012-12-08,Valparaiso,@,New Mexico,REG (Non-Conf),L 52-65,*,35,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,3,3,6,1,1,6,3,3,0.5,A,0,1,erik-buggs-1,Erik Buggs,2013
+10,113,10,2012-12-15,Valparaiso,@,Missouri State,REG (Non-Conf),W 62-54,*,29,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,6,0.333,1,3,4,3,1,0,5,3,2,-3.2,A,1,1,erik-buggs-1,Erik Buggs,2013
+11,114,11,2012-12-17,Valparaiso,@,Oakland,REG (Non-Conf),L 68-70,*,26,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,3,4,3,2,0,4,4,4,3.5,A,0,1,erik-buggs-1,Erik Buggs,2013
+12,115,12,2012-12-20,Valparaiso,,IUPUI,REG (Non-Conf),W 89-69,,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,1,2,3,1,1,0,0,2,8,6.9,H,1,1,erik-buggs-1,Erik Buggs,2013
+13,116,13,2012-12-22,Valparaiso,,Purdue Calumet,REG (Non-Conf),W 79-51,,19,0,0,,0,0,,0,0,,,0,0,,1,0,1,3,2,0,1,1,0,3.4,H,1,1,erik-buggs-1,Erik Buggs,2013
+14,117,14,2012-12-29,Valparaiso,@,Murray State,REG (Non-Conf),W 66-64,,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,0,3,3,2,2,0,2,4,4,2.6,A,1,1,erik-buggs-1,Erik Buggs,2013
+15,118,15,2013-01-02,Valparaiso,,Loyola Chicago,REG (Conf),L 54-63,,24,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,0,2,2,1,2,0,1,4,9,5.7,H,0,1,erik-buggs-1,Erik Buggs,2013
+16,119,16,2013-01-04,Valparaiso,,Cleveland State,REG (Conf),W 74-50,*,25,2,2,1.0,0,0,,2,2,1.0,1.0,1,3,0.333,0,2,2,3,4,1,5,4,5,4.4,H,1,1,erik-buggs-1,Erik Buggs,2013
+17,120,17,2013-01-09,Valparaiso,@,Illinois–Chicago,REG (Conf),W 75-70,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,2,3,2,1,0,2,3,4,2.8,A,1,1,erik-buggs-1,Erik Buggs,2013
+18,121,18,2013-01-12,Valparaiso,@,Milwaukee,REG (Conf),W 76-52,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,3,4,4,3,0,3,1,2,3.6,A,1,1,erik-buggs-1,Erik Buggs,2013
+19,122,19,2013-01-17,Valparaiso,@,Detroit Mercy,REG (Conf),W 89-88,*,28,3,11,0.273,0,3,0.0,3,8,0.375,0.273,2,3,0.667,3,2,5,6,2,0,3,4,8,5.4,A,1,1,erik-buggs-1,Erik Buggs,2013
+20,123,20,2013-01-19,Valparaiso,,Wright State,REG (Conf),W 69-63,*,37,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,0,3,3,2,2,1,2,2,6,6.5,H,1,1,erik-buggs-1,Erik Buggs,2013
+21,124,21,2013-01-23,Valparaiso,,Green Bay,REG (Conf),W 73-61,*,33,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,0,0,5,6,0,1,3,9,12.3,H,1,1,erik-buggs-1,Erik Buggs,2013
+22,125,22,2013-01-30,Valparaiso,@,Youngstown State,REG (Conf),L 68-80,*,29,5,9,0.556,0,2,0.0,5,7,0.714,0.556,0,0,,1,3,4,1,1,0,0,5,10,7.0,A,0,1,erik-buggs-1,Erik Buggs,2013
+23,126,23,2013-02-01,Valparaiso,,Milwaukee,REG (Conf),W 71-40,*,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,3,0.333,0,2,2,3,2,1,2,2,8,8.2,H,1,1,erik-buggs-1,Erik Buggs,2013
+24,127,24,2013-02-05,Valparaiso,,Illinois–Chicago,REG (Conf),W 86-61,*,17,2,2,1.0,0,0,,2,2,1.0,1.0,6,6,1.0,0,1,1,2,0,0,4,2,10,6.3,H,1,1,erik-buggs-1,Erik Buggs,2013
+25,128,25,2013-02-09,Valparaiso,@,Cleveland State,REG (Conf),W 80-72,*,34,5,9,0.556,0,2,0.0,5,7,0.714,0.556,1,4,0.25,1,3,4,8,1,0,5,3,11,7.5,A,1,1,erik-buggs-1,Erik Buggs,2013
+26,129,26,2013-02-12,Valparaiso,@,Wright State,REG (Conf),W 68-61,*,35,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,2,2,4,1,0,0,3,3,5,2.2,A,1,1,erik-buggs-1,Erik Buggs,2013
+27,130,27,2013-02-16,Valparaiso,,Detroit Mercy,REG (Conf),L 74-84,*,24,6,12,0.5,0,2,0.0,6,10,0.6,0.5,0,0,,1,0,1,8,2,0,3,5,12,9.3,H,0,1,erik-buggs-1,Erik Buggs,2013
+28,131,28,2013-02-19,Valparaiso,@,Loyola Chicago,REG (Conf),W 85-76,*,27,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,2,2,4,4,0,0,3,4,8,5.1,A,1,1,erik-buggs-1,Erik Buggs,2013
+29,132,29,2013-02-23,Valparaiso,,Eastern Kentucky,REG (Non-Conf),W 82-60,*,30,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,0,3,3,5,0,1,2,1,6,6.7,H,1,1,erik-buggs-1,Erik Buggs,2013
+30,133,30,2013-02-26,Valparaiso,,Youngstown State,REG (Conf),W 73-64,*,28,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,3,0.0,0,3,3,3,1,1,1,4,5,4.6,H,1,1,erik-buggs-1,Erik Buggs,2013
+31,134,31,2013-03-02,Valparaiso,@,Green Bay,REG (Conf),W 75-56,*,30,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,0,0,7,1,1,1,2,8,10.9,A,1,1,erik-buggs-1,Erik Buggs,2013
+32,135,32,2013-03-09,Valparaiso,,Green Bay,CTOURN,W 70-69,*,36,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,2,0.0,1,5,6,3,1,0,1,3,8,7.0,H,1,0,erik-buggs-1,Erik Buggs,2013
+33,136,33,2013-03-12,Valparaiso,,Wright State,CTOURN,W 62-54,*,36,9,13,0.692,0,1,0.0,9,12,0.75,0.692,4,6,0.667,1,1,2,3,4,0,5,3,22,16.6,H,1,0,erik-buggs-1,Erik Buggs,2013
+34,137,34,2013-03-21,Valparaiso,N,Michigan State,ROUND-64,L 54-65,*,35,7,11,0.636,0,1,0.0,7,10,0.7,0.636,0,3,0.0,0,0,0,2,5,1,3,3,14,10.8,N,0,0,erik-buggs-1,Erik Buggs,2013

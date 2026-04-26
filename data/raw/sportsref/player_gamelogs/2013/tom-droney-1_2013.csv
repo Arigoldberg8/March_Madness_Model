@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,,20,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,1,1,0,0,1,2,2.5,H,1,1,tom-droney-1,Tom Droney,2013
+2,68,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,,24,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,0,0,0,0,3,2,0.4,A,0,1,tom-droney-1,Tom Droney,2013
+3,69,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,,24,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,2,2,0,1,0,0,0.5,A,0,1,tom-droney-1,Tom Droney,2013
+4,70,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,,23,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,4,1,0,0,0,0,3.0,N,1,1,tom-droney-1,Tom Droney,2013
+5,71,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,,21,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,4,0,0,0,2,2,4.3,N,1,1,tom-droney-1,Tom Droney,2013
+6,72,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,1,2,0,-1.1,N,0,1,tom-droney-1,Tom Droney,2013
+7,73,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,,22,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,1,2,3,2,0,0,0,1,5,5.6,A,1,1,tom-droney-1,Tom Droney,2013
+8,74,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,,21,5,5,1.0,2,2,1.0,3,3,1.0,1.2,2,2,1.0,0,2,2,2,0,0,0,0,14,14.5,H,0,1,tom-droney-1,Tom Droney,2013
+9,75,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,,19,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,0,3,3,0,0,0,1,0,8,4.5,H,1,1,tom-droney-1,Tom Droney,2013
+10,76,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,tom-droney-1,Tom Droney,2013
+11,77,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,,16,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,2,1,3,2,1,0,0,0,4,7.8,A,0,1,tom-droney-1,Tom Droney,2013
+12,78,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,,25,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,2,0,0,0,2,0,0.8,A,1,1,tom-droney-1,Tom Droney,2013
+13,79,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,2,4,0,0,0,1,3,0,-0.9,N,0,1,tom-droney-1,Tom Droney,2013
+14,80,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,,24,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,4,5,6,0,0,1,2,4,6.3,H,1,1,tom-droney-1,Tom Droney,2013
+15,81,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,5,6,2,0,0,1,0,0,1.2,A,1,1,tom-droney-1,Tom Droney,2013
+16,82,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,2,0,0,1,1,2,1.7,A,0,1,tom-droney-1,Tom Droney,2013
+17,83,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,,19,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,2,2,0,2,0,0,2,6,5.8,H,1,1,tom-droney-1,Tom Droney,2013
+18,84,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,,32,6,7,0.857,0,0,,6,7,0.857,0.857,0,2,0.0,1,5,6,3,0,0,1,0,12,12.0,H,1,1,tom-droney-1,Tom Droney,2013
+19,85,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,,22,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,5,2,0,3,3,0,0.2,A,1,1,tom-droney-1,Tom Droney,2013
+20,86,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,,25,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,3,3,7,1,0,2,3,4,4.5,A,1,1,tom-droney-1,Tom Droney,2013
+21,87,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,,17,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,1,0,0,2,4,4,1.8,H,1,1,tom-droney-1,Tom Droney,2013
+22,88,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,,27,4,7,0.571,0,2,0.0,4,5,0.8,0.571,5,6,0.833,0,1,1,0,1,0,0,3,13,9.4,A,1,1,tom-droney-1,Tom Droney,2013
+23,89,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,,25,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,1,3,4,2,1,1,1,0,8,8.7,H,1,1,tom-droney-1,Tom Droney,2013
+24,90,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,,24,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,3,1.0,1,5,6,3,1,0,1,1,14,15.0,H,1,1,tom-droney-1,Tom Droney,2013
+25,91,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,,29,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,6,6,1,2,0,2,0,0,1.8,A,1,1,tom-droney-1,Tom Droney,2013
+26,92,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,,28,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,2,4,3,0,0,0,3,0,1.5,A,1,1,tom-droney-1,Tom Droney,2013
+27,93,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,,24,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,3,3,1,0,1,0,2,6,6.2,H,1,1,tom-droney-1,Tom Droney,2013
+28,94,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),,35,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,1,4,5,3,0,0,2,1,6,4.9,H,1,1,tom-droney-1,Tom Droney,2013
+29,95,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,,26,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,1,5,6,1,1,0,1,1,5,6.1,A,1,1,tom-droney-1,Tom Droney,2013
+30,96,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,,25,4,4,1.0,0,0,,4,4,1.0,1.0,1,3,0.333,0,0,0,4,2,1,1,1,9,11.1,H,1,1,tom-droney-1,Tom Droney,2013
+31,97,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,,16,1,5,0.2,0,3,0.0,1,2,0.5,0.2,3,3,1.0,1,2,3,2,0,0,0,3,5,3.4,N,1,0,tom-droney-1,Tom Droney,2013
+32,98,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,,26,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,2,2,4,2,2,0,2,1,2,2.9,N,1,0,tom-droney-1,Tom Droney,2013
+33,99,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,,11,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,2,1,0,1,1,3,0.2,N,1,0,tom-droney-1,Tom Droney,2013
+34,100,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,0,1,2,0,0,0,0,4,5.1,N,0,0,tom-droney-1,Tom Droney,2013

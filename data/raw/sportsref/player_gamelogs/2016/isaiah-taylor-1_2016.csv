@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2015-11-13,Texas,N,Washington,REG (Non-Conf),L 71-77,*,28,7,16,0.438,1,2,0.5,6,14,0.429,0.469,12,15,0.8,2,5,7,0,0,0,1,2,27,18.5,N,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+2,61,2,2015-11-21,Texas,,Texas A&M–Corpus Christi,REG (Non-Conf),W 67-56,*,31,1,7,0.143,0,1,0.0,1,6,0.167,0.143,4,6,0.667,1,3,4,8,0,0,3,1,6,4.5,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+3,62,3,2015-11-25,Texas,N,Texas A&M,REG (Non-Conf),L 73-84,*,26,2,9,0.222,0,2,0.0,2,7,0.286,0.222,6,10,0.6,0,2,2,5,0,0,3,4,10,2.4,N,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+4,63,4,2015-11-26,Texas,N,Washington,REG (Non-Conf),W 82-70,*,31,3,11,0.273,0,0,,3,11,0.273,0.273,8,8,1.0,0,1,1,3,2,0,2,2,14,9.1,N,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+5,64,5,2015-11-27,Texas,N,Michigan,REG (Non-Conf),L 72-78,*,32,7,14,0.5,1,5,0.2,6,9,0.667,0.536,3,5,0.6,0,0,0,8,1,0,1,3,18,14.6,N,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+6,65,6,2015-12-01,Texas,,UT Arlington,REG (Non-Conf),W 80-73 (OT),*,37,4,8,0.5,0,1,0.0,4,7,0.571,0.5,13,17,0.765,0,3,3,6,0,0,3,2,21,16.7,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+7,66,7,2015-12-04,Texas,,Samford,REG (Non-Conf),W 59-49,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,3,0,0,2,2,2,1.2,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+8,67,8,2015-12-08,Texas,,UTSA,REG (Non-Conf),W 116-50,*,18,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,0,2,2,5,1,1,2,2,8,9.4,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+9,68,9,2015-12-12,Texas,,North Carolina,REG (Non-Conf),W 84-82,*,26,7,12,0.583,2,4,0.5,5,8,0.625,0.667,2,4,0.5,1,2,3,5,0,0,4,3,18,11.2,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+10,69,10,2015-12-15,Texas,,Appalachian State,REG (Non-Conf),W 67-55,*,25,3,11,0.273,1,2,0.5,2,9,0.222,0.318,5,6,0.833,1,3,4,7,1,1,3,2,12,9.5,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+11,70,11,2015-12-19,Texas,@,Stanford,REG (Non-Conf),W 75-73,*,38,11,17,0.647,1,3,0.333,10,14,0.714,0.676,3,3,1.0,1,0,1,6,1,0,3,2,26,20.6,A,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+12,71,12,2015-12-29,Texas,,Connecticut,REG (Non-Conf),L 66-71,*,33,8,16,0.5,0,1,0.0,8,15,0.533,0.5,3,5,0.6,0,1,1,2,0,1,1,1,19,11.2,H,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+13,72,13,2016-01-02,Texas,@,Texas Tech,REG (Conf),L 74-82,*,37,11,22,0.5,0,2,0.0,11,20,0.55,0.5,13,14,0.929,0,1,1,6,1,0,1,3,35,26.9,A,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+14,73,14,2016-01-05,Texas,,Kansas State,REG (Conf),W 60-57,*,32,5,11,0.455,1,2,0.5,4,9,0.444,0.5,6,8,0.75,0,2,2,4,3,1,1,4,17,15.0,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+15,74,15,2016-01-09,Texas,@,TCU,REG (Conf),L 57-58,*,35,6,16,0.375,0,1,0.0,6,15,0.4,0.375,1,3,0.333,0,3,3,4,1,0,2,2,13,5.3,A,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+16,75,16,2016-01-12,Texas,,Iowa State,REG (Conf),W 94-91 (OT),*,41,11,17,0.647,2,3,0.667,9,14,0.643,0.706,4,5,0.8,1,5,6,6,1,0,1,2,28,25.7,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+17,76,17,2016-01-16,Texas,,Oklahoma State,REG (Conf),W 74-69,*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,7,8,0.875,1,1,2,4,1,0,1,3,18,15.9,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+18,77,18,2016-01-20,Texas,@,West Virginia,REG (Conf),W 56-49,*,36,0,8,0.0,0,2,0.0,0,6,0.0,0.0,4,4,1.0,0,6,6,3,2,0,0,2,4,3.5,A,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+19,78,19,2016-01-23,Texas,@,Kansas,REG (Conf),L 67-76,*,37,6,11,0.545,0,1,0.0,6,10,0.6,0.545,1,2,0.5,0,6,6,5,1,0,1,3,13,11.4,A,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+20,79,20,2016-01-26,Texas,,TCU,REG (Conf),W 71-54,*,24,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,2,1.0,1,4,5,7,1,0,1,4,6,6.4,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+21,80,21,2016-01-30,Texas,,Vanderbilt,REG (Non-Conf),W 72-58,*,33,5,12,0.417,0,0,,5,12,0.417,0.417,1,2,0.5,0,1,1,3,0,0,1,1,11,5.2,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+22,81,22,2016-02-01,Texas,@,Baylor,REG (Conf),W 67-59,*,31,3,8,0.375,1,4,0.25,2,4,0.5,0.438,5,6,0.833,0,2,2,9,3,0,2,4,12,13.5,A,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+23,82,23,2016-02-06,Texas,,Texas Tech,REG (Conf),W 69-59,*,28,5,12,0.417,1,1,1.0,4,11,0.364,0.458,2,2,1.0,0,2,2,8,3,0,3,3,13,11.6,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+24,83,24,2016-02-08,Texas,@,Oklahoma,REG (Conf),L 60-63,*,28,7,18,0.389,1,5,0.2,6,13,0.462,0.417,4,4,1.0,0,0,0,1,0,0,2,4,19,6.3,A,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+25,84,25,2016-02-13,Texas,@,Iowa State,REG (Conf),L 75-85,*,35,3,14,0.214,0,4,0.0,3,10,0.3,0.214,3,3,1.0,3,1,4,8,2,0,1,4,9,7.8,A,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+26,85,26,2016-02-16,Texas,,West Virginia,REG (Conf),W 85-78,*,36,5,12,0.417,0,0,,5,12,0.417,0.417,13,13,1.0,1,3,4,7,0,2,3,2,23,20.7,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+27,86,27,2016-02-20,Texas,,Baylor,REG (Conf),L 64-78,*,21,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,5,0.4,0,1,1,3,2,0,4,4,10,4.3,H,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+28,87,28,2016-02-22,Texas,@,Kansas State,REG (Conf),W 71-70,*,30,5,8,0.625,1,1,1.0,4,7,0.571,0.688,8,8,1.0,0,3,3,4,0,1,2,3,19,16.6,A,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+29,88,29,2016-02-27,Texas,,Oklahoma,REG (Conf),W 76-63,*,36,5,15,0.333,0,2,0.0,5,13,0.385,0.333,8,9,0.889,0,2,2,5,0,0,0,3,18,12.0,H,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+30,89,30,2016-02-29,Texas,,Kansas,REG (Conf),L 56-86,*,28,1,10,0.1,0,0,,1,10,0.1,0.1,3,4,0.75,1,0,1,1,1,0,2,2,5,-2.4,H,0,1,isaiah-taylor-1,Isaiah Taylor,2016
+31,90,31,2016-03-04,Texas,@,Oklahoma State,REG (Conf),W 62-50,*,26,5,14,0.357,0,1,0.0,5,13,0.385,0.357,2,2,1.0,0,3,3,3,0,0,1,3,12,5.0,A,1,1,isaiah-taylor-1,Isaiah Taylor,2016
+32,91,32,2016-03-10,Texas,N,Baylor,CTOURN,L 61-75,*,36,3,9,0.333,2,2,1.0,1,7,0.143,0.444,0,0,,0,3,3,9,1,0,1,3,8,8.9,N,0,0,isaiah-taylor-1,Isaiah Taylor,2016
+33,92,33,2016-03-18,Texas,N,Northern Iowa,ROUND-64,L 72-75,*,37,5,11,0.455,3,4,0.75,2,7,0.286,0.591,9,11,0.818,0,4,4,6,0,0,3,3,22,16.7,N,0,0,isaiah-taylor-1,Isaiah Taylor,2016

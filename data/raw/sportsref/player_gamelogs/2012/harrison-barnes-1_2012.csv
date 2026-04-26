@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2011-11-11,North Carolina,N,Michigan State,REG (Non-Conf),W 67-55,*,31,5,11,0.455,2,5,0.4,3,6,0.5,0.545,5,7,0.714,2,3,5,2,0,1,1,0,17,13.9,N,1,1,harrison-barnes-1,Harrison Barnes,2012
+2,39,2,2011-11-13,North Carolina,@,UNC Asheville,REG (Non-Conf),W 91-75,*,30,6,10,0.6,0,1,0.0,6,9,0.667,0.6,5,8,0.625,1,4,5,0,1,0,6,2,17,7.3,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+3,40,3,2011-11-20,North Carolina,,Mississippi Valley State,REG (Non-Conf),W 101-75,*,24,8,16,0.5,0,3,0.0,8,13,0.615,0.5,2,5,0.4,6,1,7,1,1,0,3,1,18,11.6,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+4,41,4,2011-11-22,North Carolina,,Tennessee State,REG (Non-Conf),W 102-69,*,26,6,13,0.462,1,2,0.5,5,11,0.455,0.5,3,3,1.0,2,0,2,2,1,0,1,0,16,12.1,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+5,42,5,2011-11-25,North Carolina,N,South Carolina,REG (Non-Conf),W 87-62,*,24,6,10,0.6,2,3,0.667,4,7,0.571,0.7,7,10,0.7,2,3,5,0,1,0,3,2,21,14.7,N,1,1,harrison-barnes-1,Harrison Barnes,2012
+6,43,6,2011-11-26,North Carolina,N,UNLV,REG (Non-Conf),L 80-90,*,30,6,16,0.375,0,1,0.0,6,15,0.4,0.375,3,5,0.6,3,2,5,1,1,0,2,3,15,6.6,N,0,1,harrison-barnes-1,Harrison Barnes,2012
+7,44,7,2011-11-30,North Carolina,,Wisconsin,REG (Non-Conf),W 60-57,*,33,6,12,0.5,2,3,0.667,4,9,0.444,0.583,6,7,0.857,0,3,3,0,1,0,3,0,20,12.5,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+8,45,8,2011-12-03,North Carolina,@,Kentucky,REG (Non-Conf),L 72-73,*,24,5,12,0.417,4,5,0.8,1,7,0.143,0.583,0,0,,1,1,2,0,0,1,1,3,14,7.1,A,0,1,harrison-barnes-1,Harrison Barnes,2012
+9,46,9,2011-12-06,North Carolina,,Evansville,REG (Non-Conf),W 97-48,*,22,5,9,0.556,1,3,0.333,4,6,0.667,0.611,6,7,0.857,1,3,4,1,1,0,2,2,17,12.8,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+10,47,10,2011-12-10,North Carolina,,Long Beach State,REG (Non-Conf),W 84-78,*,32,8,16,0.5,3,3,1.0,5,13,0.385,0.594,1,1,1.0,1,2,3,2,1,1,2,2,20,13.6,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+11,48,11,2011-12-17,North Carolina,,Appalachian State,REG (Non-Conf),W 97-82,*,26,4,12,0.333,0,1,0.0,4,11,0.364,0.333,1,2,0.5,3,1,4,1,1,0,0,0,9,5.9,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+12,49,12,2011-12-19,North Carolina,,Nicholls State,REG (Non-Conf),W 99-49,*,21,4,12,0.333,1,3,0.333,3,9,0.333,0.375,0,3,0.0,3,5,8,1,2,1,2,1,9,5.6,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+13,50,13,2011-12-21,North Carolina,,Texas,REG (Non-Conf),W 82-63,*,25,9,15,0.6,1,2,0.5,8,13,0.615,0.633,7,8,0.875,4,6,10,1,2,1,0,3,26,25.5,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+14,51,14,2011-12-29,North Carolina,,Elon,REG (Non-Conf),W 100-62,*,20,7,12,0.583,1,2,0.5,6,10,0.6,0.625,3,3,1.0,0,5,5,5,1,1,0,1,18,18.7,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+15,52,15,2012-01-01,North Carolina,,Monmouth,REG (Non-Conf),W 102-65,*,22,8,14,0.571,1,2,0.5,7,12,0.583,0.607,3,3,1.0,2,2,4,1,1,0,1,0,20,16.1,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+16,53,16,2012-01-07,North Carolina,,Boston College,REG (Conf),W 83-60,*,27,10,15,0.667,3,4,0.75,7,11,0.636,0.767,2,3,0.667,1,4,5,0,4,0,1,2,25,22.2,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+17,54,17,2012-01-10,North Carolina,,Miami (FL),REG (Conf),W 73-56,*,24,2,12,0.167,0,5,0.0,2,7,0.286,0.167,2,2,1.0,1,3,4,1,0,1,1,1,6,0.0,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+18,55,18,2012-01-14,North Carolina,@,Florida State,REG (Conf),L 57-90,*,27,5,13,0.385,1,4,0.25,4,9,0.444,0.423,4,5,0.8,2,3,5,0,0,0,5,3,15,3.6,A,0,1,harrison-barnes-1,Harrison Barnes,2012
+19,56,19,2012-01-19,North Carolina,@,Virginia Tech,REG (Conf),W 82-68,*,32,8,14,0.571,1,3,0.333,7,11,0.636,0.607,10,12,0.833,2,4,6,0,3,1,2,1,27,23.5,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+20,57,20,2012-01-26,North Carolina,,NC State,REG (Conf),W 74-55,*,22,7,13,0.538,0,2,0.0,7,11,0.636,0.538,1,2,0.5,1,0,1,0,3,0,2,2,15,9.2,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+21,58,21,2012-01-29,North Carolina,,Georgia Tech,REG (Conf),W 93-81,*,30,8,14,0.571,3,3,1.0,5,11,0.455,0.679,4,6,0.667,0,3,3,1,1,0,1,0,23,17.2,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+22,59,22,2012-01-31,North Carolina,@,Wake Forest,REG (Conf),W 68-53,*,27,4,12,0.333,1,5,0.2,3,7,0.429,0.375,4,8,0.5,2,5,7,2,1,1,1,3,13,8.4,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+23,60,23,2012-02-04,North Carolina,@,Maryland,REG (Conf),W 83-74,*,35,5,15,0.333,2,3,0.667,3,12,0.25,0.4,6,8,0.75,4,4,8,0,1,0,2,3,18,10.5,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+24,61,24,2012-02-08,North Carolina,,Duke,REG (Conf),L 84-85,*,35,8,16,0.5,1,3,0.333,7,13,0.538,0.531,8,12,0.667,2,1,3,1,2,0,2,4,25,16.2,H,0,1,harrison-barnes-1,Harrison Barnes,2012
+25,62,25,2012-02-11,North Carolina,,Virginia,REG (Conf),W 70-52,*,30,4,15,0.267,0,2,0.0,4,13,0.308,0.267,6,6,1.0,4,7,11,1,0,1,1,1,14,10.0,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+26,63,26,2012-02-15,North Carolina,@,Miami (FL),REG (Conf),W 73-64,*,32,9,19,0.474,3,7,0.429,6,12,0.5,0.553,2,3,0.667,4,2,6,2,0,0,0,2,23,16.9,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+27,64,27,2012-02-18,North Carolina,,Clemson,REG (Conf),W 74-52,*,31,9,18,0.5,3,6,0.5,6,12,0.5,0.583,3,4,0.75,2,5,7,2,2,0,3,1,24,17.5,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+28,65,28,2012-02-21,North Carolina,@,NC State,REG (Conf),W 86-74,*,36,7,14,0.5,2,5,0.4,5,9,0.556,0.571,4,5,0.8,2,1,3,1,0,1,1,2,20,13.9,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+29,66,29,2012-02-25,North Carolina,@,Virginia,REG (Conf),W 54-51,*,36,3,15,0.2,0,5,0.0,3,10,0.3,0.2,1,3,0.333,2,7,9,0,0,0,2,2,7,-2.4,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+30,67,30,2012-02-29,North Carolina,,Maryland,REG (Conf),W 88-64,,25,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,4,1.0,2,2,4,3,1,0,2,3,10,7.5,H,1,1,harrison-barnes-1,Harrison Barnes,2012
+31,68,31,2012-03-03,North Carolina,@,Duke,REG (Conf),W 88-70,*,32,6,14,0.429,1,3,0.333,5,11,0.455,0.464,3,4,0.75,2,2,4,0,0,0,3,4,16,5.6,A,1,1,harrison-barnes-1,Harrison Barnes,2012
+32,69,32,2012-03-09,North Carolina,N,Maryland,CTOURN,W 85-69,*,32,6,13,0.462,0,2,0.0,6,11,0.545,0.462,3,6,0.5,0,7,7,2,3,1,0,0,15,14.3,N,1,0,harrison-barnes-1,Harrison Barnes,2012
+33,70,33,2012-03-10,North Carolina,N,NC State,CTOURN,W 69-67,*,33,3,12,0.25,2,7,0.286,1,5,0.2,0.333,8,12,0.667,1,3,4,1,0,0,4,2,16,4.7,N,1,0,harrison-barnes-1,Harrison Barnes,2012
+34,71,34,2012-03-11,North Carolina,N,Florida State,CTOURN,L 82-85,*,35,9,18,0.5,1,4,0.25,8,14,0.571,0.528,4,4,1.0,3,4,7,0,1,0,3,3,23,14.1,N,0,0,harrison-barnes-1,Harrison Barnes,2012
+35,72,35,2012-03-16,North Carolina,N,Vermont,ROUND-64,W 77-58,*,33,5,12,0.417,1,3,0.333,4,9,0.444,0.458,3,3,1.0,1,5,6,0,3,1,2,2,14,10.7,N,1,0,harrison-barnes-1,Harrison Barnes,2012
+36,73,36,2012-03-18,North Carolina,N,Creighton,ROUND-32,W 87-73,*,31,7,19,0.368,3,6,0.5,4,13,0.308,0.447,0,0,,3,2,5,0,1,0,1,1,17,8.8,N,1,0,harrison-barnes-1,Harrison Barnes,2012
+37,74,37,2012-03-23,North Carolina,N,Ohio,ROUND-16,W 73-65 (OT),*,40,3,16,0.188,2,9,0.222,1,7,0.143,0.25,4,6,0.667,1,6,7,4,0,0,5,2,12,0.7,N,1,0,harrison-barnes-1,Harrison Barnes,2012
+38,75,38,2012-03-25,North Carolina,N,Kansas,ROUND-8,L 67-80,*,36,5,14,0.357,0,5,0.0,5,9,0.556,0.357,3,5,0.6,1,3,4,4,0,0,3,4,13,4.2,N,0,0,harrison-barnes-1,Harrison Barnes,2012

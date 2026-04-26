@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2021-11-09,Texas Tech,,North Florida,REG (Non-Conf),W 89-74,*,24,5,12,0.417,3,5,0.6,2,7,0.286,0.542,4,4,1.0,2,4,6,0,0,0,1,2,17,11.4,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+2,89,2,2021-11-12,Texas Tech,,Grambling State,REG (Non-Conf),W 88-62,*,28,3,11,0.273,3,9,0.333,0,2,0.0,0.409,0,0,,1,1,2,0,1,0,0,3,9,3.3,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+3,90,3,2021-11-15,Texas Tech,,Prairie View A&M,REG (Non-Conf),W 84-49,*,21,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,5,5,1,1,0,0,2,8,7.4,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+4,91,4,2021-11-20,Texas Tech,N,Incarnate Word,REG (Non-Conf),W 84-62,*,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,1,1.0,2,4,6,1,0,1,1,2,6,6.2,N,1,1,kevin-obanor-1,Kevin Obanor,2022
+5,92,5,2021-11-23,Texas Tech,,Omaha,REG (Non-Conf),W 96-40,*,21,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,2,0.0,0,2,2,2,1,0,0,3,2,-0.1,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+6,93,6,2021-11-27,Texas Tech,,Lamar,REG (Non-Conf),W 89-57,*,21,6,10,0.6,3,6,0.5,3,4,0.75,0.75,5,5,1.0,1,6,7,0,0,0,0,1,20,17.5,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+7,94,7,2021-12-01,Texas Tech,@,Providence,REG (Non-Conf),L 68-72,*,21,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,2,1,3,0,0,0,2,2,12,5.9,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+8,95,8,2021-12-07,Texas Tech,N,Tennessee,REG (Non-Conf),W 57-52 (OT),*,42,4,16,0.25,2,11,0.182,2,5,0.4,0.313,0,0,,2,5,7,0,1,1,3,0,10,2.0,N,1,1,kevin-obanor-1,Kevin Obanor,2022
+9,96,9,2021-12-14,Texas Tech,,Arkansas State,REG (Non-Conf),W 75-62,*,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,3,4,1,0,0,0,1,2,2.2,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+10,97,10,2021-12-18,Texas Tech,N,Gonzaga,REG (Non-Conf),L 55-69,*,29,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,3,4,1,0,0,0,1,9,7.6,N,0,1,kevin-obanor-1,Kevin Obanor,2022
+11,98,11,2021-12-22,Texas Tech,,Eastern Washington,REG (Non-Conf),W 78-46,*,27,3,5,0.6,2,3,0.667,1,2,0.5,0.8,3,4,0.75,0,7,7,4,1,0,0,1,11,13.8,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+12,99,12,2021-12-28,Texas Tech,,Alabama State,REG (Non-Conf),W 75-53,*,16,2,7,0.286,0,5,0.0,2,2,1.0,0.286,0,0,,0,5,5,0,0,0,3,1,4,-2.0,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+13,100,13,2022-01-05,Texas Tech,@,Iowa State,REG (Conf),L 47-51,*,34,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,1,9,10,0,0,0,3,3,3,-1.3,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+14,101,14,2022-01-08,Texas Tech,,Kansas,REG (Conf),W 75-67,*,23,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,2,5,7,1,0,0,1,4,7,4.3,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+15,102,15,2022-01-11,Texas Tech,@,Baylor,REG (Conf),W 65-62,*,33,6,11,0.545,1,3,0.333,5,8,0.625,0.591,0,0,,1,3,4,2,0,0,1,1,13,9.3,A,1,1,kevin-obanor-1,Kevin Obanor,2022
+16,103,16,2022-01-13,Texas Tech,,Oklahoma State,REG (Conf),W 78-57,*,24,6,8,0.75,3,5,0.6,3,3,1.0,0.938,2,5,0.4,0,0,0,0,2,0,1,1,17,13.2,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+17,104,17,2022-01-15,Texas Tech,@,Kansas State,REG (Conf),L 51-62,*,21,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,2,1.0,0,2,2,0,0,1,2,0,6,1.9,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+18,105,18,2022-01-18,Texas Tech,,Iowa State,REG (Conf),W 72-60,*,21,6,9,0.667,0,3,0.0,6,6,1.0,0.667,3,5,0.6,5,3,8,1,1,1,1,2,15,15.3,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+19,106,19,2022-01-22,Texas Tech,,West Virginia,REG (Conf),W 78-65,*,31,6,12,0.5,0,4,0.0,6,8,0.75,0.5,6,6,1.0,3,1,4,0,0,0,0,1,18,14.0,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+20,107,20,2022-01-24,Texas Tech,@,Kansas,REG (Conf),L 91-94 (2OT),*,34,6,8,0.75,1,3,0.333,5,5,1.0,0.813,4,6,0.667,3,5,8,0,0,3,0,2,17,17.9,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+21,108,21,2022-01-29,Texas Tech,,Mississippi State,REG (Non-Conf),W 76-50,*,23,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,2,0.5,1,5,6,1,0,0,3,0,13,8.9,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+22,109,22,2022-02-01,Texas Tech,,Texas,REG (Conf),W 77-64,*,28,5,8,0.625,5,7,0.714,0,1,0.0,0.938,2,2,1.0,1,4,5,0,0,0,1,1,17,13.9,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+23,110,23,2022-02-05,Texas Tech,@,West Virginia,REG (Conf),W 60-53,*,20,1,7,0.143,0,6,0.0,1,1,1.0,0.143,0,0,,2,0,2,0,1,0,0,1,2,-0.5,A,1,1,kevin-obanor-1,Kevin Obanor,2022
+24,111,24,2022-02-09,Texas Tech,@,Oklahoma,REG (Conf),L 55-70,*,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,2,3,0,0,1,2,4,8,2.4,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+25,112,25,2022-02-12,Texas Tech,,TCU,REG (Conf),W 82-69,*,27,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,5,5,0,0,0,2,1,0,-3.7,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+26,113,26,2022-02-16,Texas Tech,,Baylor,REG (Conf),W 83-73,*,29,8,13,0.615,4,7,0.571,4,6,0.667,0.769,3,3,1.0,6,7,13,1,0,1,1,0,23,23.8,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+27,114,27,2022-02-19,Texas Tech,@,Texas,REG (Conf),W 61-55,*,24,1,4,0.25,1,4,0.25,0,0,,0.375,3,4,0.75,1,1,2,0,0,0,2,0,6,2.2,A,1,1,kevin-obanor-1,Kevin Obanor,2022
+28,115,28,2022-02-22,Texas Tech,,Oklahoma,REG (Conf),W 66-42,*,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,0,1,0,1,0,1,3,5,2.8,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+29,116,29,2022-02-26,Texas Tech,@,TCU,REG (Conf),L 66-69,*,26,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,2,2,1,0,0,1,2,4,0.4,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+30,117,30,2022-02-28,Texas Tech,,Kansas State,REG (Conf),W 73-68,*,19,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,3,4,0,0,0,1,1,3,2.2,H,1,1,kevin-obanor-1,Kevin Obanor,2022
+31,118,31,2022-03-05,Texas Tech,@,Oklahoma State,REG (Conf),L 51-52,*,36,4,11,0.364,3,5,0.6,1,6,0.167,0.5,5,6,0.833,3,7,10,0,1,2,2,3,16,12.9,A,0,1,kevin-obanor-1,Kevin Obanor,2022
+32,119,32,2022-03-10,Texas Tech,N,Iowa State,CTOURN,W 72-41,*,23,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,2,4,6,0,0,0,0,1,10,7.5,N,1,0,kevin-obanor-1,Kevin Obanor,2022
+33,120,33,2022-03-11,Texas Tech,N,Oklahoma,CTOURN,W 56-55,*,32,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,3,3,0,0,0,1,3,11,6.4,N,1,0,kevin-obanor-1,Kevin Obanor,2022
+34,121,34,2022-03-12,Texas Tech,N,Kansas,CTOURN,L 65-74,*,26,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,3,3,6,0,0,0,2,1,11,9.0,N,0,0,kevin-obanor-1,Kevin Obanor,2022
+35,122,35,2022-03-18,Texas Tech,N,Montana State,ROUND-64,W 97-62,*,27,5,7,0.714,0,2,0.0,5,5,1.0,0.714,0,1,0.0,2,9,11,1,0,0,0,3,10,10.3,N,1,0,kevin-obanor-1,Kevin Obanor,2022
+36,123,36,2022-03-20,Texas Tech,N,Notre Dame,ROUND-32,W 59-53,*,32,6,13,0.462,1,4,0.25,5,9,0.556,0.5,2,3,0.667,7,8,15,1,0,1,2,2,15,13.8,N,1,0,kevin-obanor-1,Kevin Obanor,2022
+37,124,37,2022-03-24,Texas Tech,N,Duke,ROUND-16,L 73-78,*,38,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,2,8,10,1,0,1,0,3,10,8.6,N,0,0,kevin-obanor-1,Kevin Obanor,2022

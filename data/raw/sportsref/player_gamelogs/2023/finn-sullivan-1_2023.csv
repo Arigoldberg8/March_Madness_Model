@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,107,1,2022-11-07,Vermont,,Brown,REG (Non-Conf),W 80-65,*,28,5,10,0.5,2,5,0.4,3,5,0.6,0.6,0,0,,1,6,7,1,4,0,0,2,12,13.4,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+2,108,2,2022-11-10,Vermont,@,St. Mary's (CA),REG (Non-Conf),L 53-79,*,24,3,8,0.375,0,4,0.0,3,4,0.75,0.375,2,3,0.667,1,6,7,2,1,1,1,3,8,6.6,A,0,1,finn-sullivan-1,Finn Sullivan,2023
+3,109,3,2022-11-13,Vermont,@,Cal State Fullerton,REG (Non-Conf),L 85-94 (2OT),*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,5,5,3,0,1,0,5,5,3.9,A,0,1,finn-sullivan-1,Finn Sullivan,2023
+4,110,4,2022-11-15,Vermont,@,Southern California,REG (Non-Conf),L 57-59,*,32,6,13,0.462,3,8,0.375,3,5,0.6,0.577,2,3,0.667,0,6,6,3,1,2,1,2,17,14.4,A,0,1,finn-sullivan-1,Finn Sullivan,2023
+5,111,5,2022-11-18,Vermont,N,Iona,REG (Non-Conf),L 50-71,*,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,1,0.0,0,2,2,3,0,1,7,4,7,-3.7,N,0,1,finn-sullivan-1,Finn Sullivan,2023
+6,112,6,2022-11-22,Vermont,@,Yale,REG (Non-Conf),L 44-73,*,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,4,5,4,1,1,3,0,4,3.3,A,0,1,finn-sullivan-1,Finn Sullivan,2023
+7,113,7,2022-11-25,Vermont,N,Ball State,REG (Non-Conf),W 78-73,*,24,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,3,4,3,0,0,2,2,3,3.6,N,1,1,finn-sullivan-1,Finn Sullivan,2023
+8,114,8,2022-11-26,Vermont,N,UNC Wilmington,REG (Non-Conf),L 66-68,*,25,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,0,3,3,0,0,0,5,5,11,0.2,N,0,1,finn-sullivan-1,Finn Sullivan,2023
+9,115,9,2022-11-27,Vermont,N,Long Beach State,REG (Non-Conf),L 58-78,*,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,4,4,1.0,0,3,3,1,0,0,3,0,4,-0.2,N,0,1,finn-sullivan-1,Finn Sullivan,2023
+10,116,11,2022-12-04,Vermont,@,Merrimack,REG (Non-Conf),W 66-43,*,31,6,14,0.429,4,11,0.364,2,3,0.667,0.571,1,1,1.0,0,6,6,2,1,2,0,2,17,14.4,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+11,117,12,2022-12-06,Vermont,@,Dartmouth,REG (Non-Conf),W 68-52,*,27,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,3,3,3,1,0,1,0,7,7.3,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+12,118,13,2022-12-10,Vermont,@,Colgate,REG (Non-Conf),W 73-72,*,33,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,3,1.0,2,3,5,6,2,0,2,1,8,11.4,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+13,119,14,2022-12-20,Vermont,,Toledo,REG (Non-Conf),L 72-84,*,33,4,12,0.333,1,6,0.167,3,6,0.5,0.375,1,2,0.5,2,3,5,0,0,2,2,2,10,3.7,H,0,1,finn-sullivan-1,Finn Sullivan,2023
+14,120,16,2023-01-01,Vermont,@,UMBC,REG (Conf),W 74-61,*,33,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,0,3,3,4,1,0,0,3,9,8.8,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+15,121,17,2023-01-05,Vermont,,Bryant,REG (Conf),W 74-64,*,25,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,2,2,2,2,0,1,4,0,-1.4,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+16,122,18,2023-01-08,Vermont,@,New Hampshire,REG (Conf),L 60-67,*,23,4,8,0.5,2,5,0.4,2,3,0.667,0.625,4,4,1.0,0,2,2,0,0,0,1,4,14,8.0,A,0,1,finn-sullivan-1,Finn Sullivan,2023
+17,123,20,2023-01-19,Vermont,,Maine,REG (Conf),W 66-45,*,30,5,12,0.417,2,8,0.25,3,4,0.75,0.5,1,3,0.333,1,4,5,1,1,2,1,1,13,9.4,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+18,124,21,2023-01-22,Vermont,,NJIT,REG (Conf),W 85-69,*,32,10,17,0.588,6,11,0.545,4,6,0.667,0.765,2,2,1.0,2,4,6,3,0,0,0,1,28,24.4,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+19,125,22,2023-01-25,Vermont,@,Binghamton,REG (Conf),W 80-55,*,32,6,13,0.462,5,10,0.5,1,3,0.333,0.654,3,5,0.6,0,6,6,4,2,1,0,0,20,19.8,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+20,126,23,2023-01-28,Vermont,,UMBC,REG (Conf),W 74-68,*,34,2,8,0.25,0,5,0.0,2,3,0.667,0.25,2,2,1.0,1,8,9,1,3,0,1,0,6,7.0,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+21,127,24,2023-02-04,Vermont,@,Albany (NY),REG (Conf),W 87-68,*,29,6,10,0.6,3,7,0.429,3,3,1.0,0.75,4,5,0.8,0,5,5,5,1,1,2,3,19,17.5,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+22,128,25,2023-02-08,Vermont,@,Maine,REG (Conf),W 74-65,*,32,9,17,0.529,3,10,0.3,6,7,0.857,0.618,0,2,0.0,0,10,10,3,3,1,0,1,21,20.3,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+23,129,26,2023-02-11,Vermont,,UMass Lowell,REG (Conf),W 93-81,*,34,10,18,0.556,5,12,0.417,5,6,0.833,0.694,0,0,,1,4,5,2,2,1,2,2,25,19.6,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+24,130,27,2023-02-15,Vermont,,New Hampshire,REG (Conf),W 80-51,*,29,4,9,0.444,1,5,0.2,3,4,0.75,0.5,5,7,0.714,0,2,2,2,0,1,1,2,14,9.4,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+25,131,28,2023-02-18,Vermont,@,NJIT,REG (Conf),W 82-80 (OT),*,35,6,13,0.462,4,10,0.4,2,3,0.667,0.615,5,9,0.556,2,3,5,3,1,0,2,5,21,14.1,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+26,132,29,2023-02-22,Vermont,,Binghamton,REG (Conf),W 81-70,*,38,9,13,0.692,2,3,0.667,7,10,0.7,0.769,9,10,0.9,0,5,5,1,0,3,2,2,29,24.6,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+27,133,30,2023-02-25,Vermont,@,Bryant,REG (Conf),W 70-66,*,30,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,2,2,1,2,1,1,1,8,6.2,A,1,1,finn-sullivan-1,Finn Sullivan,2023
+28,134,31,2023-02-28,Vermont,,Albany (NY),REG (Conf),W 79-61,*,28,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,0,6,6,2,2,1,2,2,8,5.3,H,1,1,finn-sullivan-1,Finn Sullivan,2023
+29,135,32,2023-03-04,Vermont,,NJIT,CTOURN,W 84-57,*,22,0,6,0.0,0,2,0.0,0,4,0.0,0.0,2,2,1.0,1,6,7,3,0,1,0,3,2,1.9,H,1,0,finn-sullivan-1,Finn Sullivan,2023
+30,136,33,2023-03-07,Vermont,,Binghamton,CTOURN,W 79-57,*,29,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,2,0.5,0,5,5,1,1,1,1,2,5,4.0,H,1,0,finn-sullivan-1,Finn Sullivan,2023
+31,137,34,2023-03-11,Vermont,,UMass Lowell,CTOURN,W 72-59,*,34,4,12,0.333,3,9,0.333,1,3,0.333,0.458,3,5,0.6,2,5,7,3,4,1,2,4,14,12.5,H,1,0,finn-sullivan-1,Finn Sullivan,2023
+32,138,35,2023-03-17,Vermont,N,Marquette,ROUND-64,L 61-78,*,34,2,9,0.222,0,6,0.0,2,3,0.667,0.222,0,0,,0,5,5,5,1,0,1,2,4,2.7,N,0,0,finn-sullivan-1,Finn Sullivan,2023

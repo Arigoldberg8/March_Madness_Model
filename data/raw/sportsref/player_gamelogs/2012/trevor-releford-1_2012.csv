@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2011-11-11,Alabama,,North Florida,REG (Non-Conf),W 64-44,*,26,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,0,0,0,3,1,0,0,3,7,5.8,H,1,1,trevor-releford-1,Trevor Releford,2012
+2,39,2,2011-11-14,Alabama,,Oakland,REG (Non-Conf),W 74-57,*,26,5,8,0.625,1,1,1.0,4,7,0.571,0.688,3,3,1.0,1,2,3,1,0,0,4,1,14,8.0,H,1,1,trevor-releford-1,Trevor Releford,2012
+3,40,3,2011-11-17,Alabama,N,Maryland,REG (Non-Conf),W 62-42,*,20,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,2,0.5,2,1,3,1,2,0,0,2,10,9.9,N,1,1,trevor-releford-1,Trevor Releford,2012
+4,41,4,2011-11-18,Alabama,N,Wichita State,REG (Non-Conf),W 70-60,*,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,11,12,0.917,0,1,1,4,2,0,1,4,15,13.7,N,1,1,trevor-releford-1,Trevor Releford,2012
+5,42,5,2011-11-20,Alabama,N,Purdue,REG (Non-Conf),W 65-56,*,35,5,10,0.5,1,4,0.25,4,6,0.667,0.55,9,10,0.9,1,2,3,5,1,0,2,3,20,17.2,N,1,1,trevor-releford-1,Trevor Releford,2012
+6,43,6,2011-11-23,Alabama,,Alabama A&M,REG (Non-Conf),W 82-45,*,16,1,7,0.143,0,1,0.0,1,6,0.167,0.143,4,4,1.0,2,2,4,2,1,0,0,2,6,5.1,H,1,1,trevor-releford-1,Trevor Releford,2012
+7,44,7,2011-11-27,Alabama,,VCU,REG (Non-Conf),W 72-64,*,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,4,0.75,1,2,3,1,2,0,3,4,9,5.7,H,1,1,trevor-releford-1,Trevor Releford,2012
+8,45,8,2011-12-01,Alabama,,Georgetown,REG (Non-Conf),L 55-57,*,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,5,6,0.833,0,3,3,6,1,0,3,0,9,9.0,H,0,1,trevor-releford-1,Trevor Releford,2012
+9,46,9,2011-12-07,Alabama,@,Dayton,REG (Non-Conf),L 62-74,*,35,6,10,0.6,0,1,0.0,6,9,0.667,0.6,1,1,1.0,1,2,3,2,0,0,1,3,13,8.9,A,0,1,trevor-releford-1,Trevor Releford,2012
+10,47,10,2011-12-11,Alabama,,Detroit Mercy,REG (Non-Conf),W 62-54,*,32,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,3,3,5,0,0,4,2,2,-2.2,H,1,1,trevor-releford-1,Trevor Releford,2012
+11,48,11,2011-12-17,Alabama,N,Kansas State,REG (Non-Conf),L 58-71,*,37,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,2,1.0,0,1,1,6,3,1,4,4,14,9.9,N,0,1,trevor-releford-1,Trevor Releford,2012
+12,49,12,2011-12-21,Alabama,N,Oklahoma State,REG (Non-Conf),W 69-52,*,34,7,10,0.7,1,3,0.333,6,7,0.857,0.75,4,4,1.0,1,5,6,3,4,0,4,3,19,17.9,N,1,1,trevor-releford-1,Trevor Releford,2012
+13,50,13,2011-12-29,Alabama,,Jacksonville,REG (Non-Conf),W 72-55,*,28,6,9,0.667,2,3,0.667,4,6,0.667,0.778,4,4,1.0,0,2,2,4,4,0,3,1,18,18.1,H,1,1,trevor-releford-1,Trevor Releford,2012
+14,51,14,2012-01-03,Alabama,@,Georgia Tech,REG (Non-Conf),W 73-48,*,30,8,8,1.0,1,1,1.0,7,7,1.0,1.063,0,0,,0,5,5,4,2,0,1,3,17,18.7,A,1,1,trevor-releford-1,Trevor Releford,2012
+15,52,15,2012-01-07,Alabama,@,Georgia,REG (Conf),W 74-59,*,36,5,10,0.5,0,2,0.0,5,8,0.625,0.5,2,3,0.667,0,5,5,2,2,0,0,1,12,11.1,A,1,1,trevor-releford-1,Trevor Releford,2012
+16,53,16,2012-01-11,Alabama,,Louisiana State,REG (Conf),W 69-53,*,30,9,11,0.818,1,2,0.5,8,9,0.889,0.864,1,2,0.5,1,0,1,2,2,0,1,2,20,17.8,H,1,1,trevor-releford-1,Trevor Releford,2012
+17,54,17,2012-01-14,Alabama,@,Mississippi State,REG (Conf),L 52-56,*,34,3,8,0.375,0,4,0.0,3,4,0.75,0.375,1,1,1.0,0,2,2,3,1,0,4,2,7,1.5,A,0,1,trevor-releford-1,Trevor Releford,2012
+18,55,18,2012-01-19,Alabama,,Vanderbilt,REG (Conf),L 59-69,*,33,5,16,0.313,2,4,0.5,3,12,0.25,0.375,2,2,1.0,2,2,4,2,6,0,1,2,14,12.4,H,0,1,trevor-releford-1,Trevor Releford,2012
+19,56,19,2012-01-21,Alabama,@,Kentucky,REG (Conf),L 71-77,*,36,6,8,0.75,2,2,1.0,4,6,0.667,0.875,3,5,0.6,1,2,3,3,2,0,0,3,17,17.2,A,0,1,trevor-releford-1,Trevor Releford,2012
+20,57,20,2012-01-25,Alabama,@,South Carolina,REG (Conf),L 54-56,*,32,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,4,4,3,3,1,2,4,2,2.3,A,0,1,trevor-releford-1,Trevor Releford,2012
+21,58,21,2012-01-28,Alabama,,Arkansas,REG (Conf),W 72-66,*,37,7,13,0.538,1,4,0.25,6,9,0.667,0.577,3,3,1.0,1,3,4,2,2,0,2,2,18,13.9,H,1,1,trevor-releford-1,Trevor Releford,2012
+22,59,22,2012-02-04,Alabama,,Ole Miss,REG (Conf),W 69-67 (2OT),*,40,3,11,0.273,0,3,0.0,3,8,0.375,0.273,1,2,0.5,0,4,4,4,5,0,2,3,7,5.9,H,1,1,trevor-releford-1,Trevor Releford,2012
+23,60,23,2012-02-07,Alabama,@,Auburn,REG (Conf),W 68-50,*,32,3,11,0.273,0,1,0.0,3,10,0.3,0.273,9,10,0.9,1,4,5,3,5,0,6,3,15,9.9,A,1,1,trevor-releford-1,Trevor Releford,2012
+24,61,25,2012-02-14,Alabama,,Florida,REG (Conf),L 52-61,*,33,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,4,0.25,1,1,2,2,3,0,1,4,8,6.6,H,0,1,trevor-releford-1,Trevor Releford,2012
+25,62,26,2012-02-18,Alabama,,Tennessee,REG (Conf),W 62-50,,27,4,8,0.5,0,2,0.0,4,6,0.667,0.5,5,6,0.833,0,3,3,0,2,0,2,4,13,7.9,H,1,1,trevor-releford-1,Trevor Releford,2012
+26,63,27,2012-02-23,Alabama,@,Arkansas,REG (Conf),W 79-68,*,37,4,9,0.444,1,2,0.5,3,7,0.429,0.5,5,9,0.556,1,5,6,2,3,0,3,3,14,10.1,A,1,1,trevor-releford-1,Trevor Releford,2012
+27,64,28,2012-02-25,Alabama,,Mississippi State,REG (Conf),W 67-50,,28,3,9,0.333,1,4,0.25,2,5,0.4,0.389,3,3,1.0,0,2,2,4,1,0,2,3,10,6.1,H,1,1,trevor-releford-1,Trevor Releford,2012
+28,65,29,2012-02-29,Alabama,,Auburn,REG (Conf),W 55-49,*,25,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,1,1,2,2,1,0,1,2,6,3.8,H,1,1,trevor-releford-1,Trevor Releford,2012
+29,66,30,2012-03-03,Alabama,@,Ole Miss,REG (Conf),L 51-60,*,31,4,11,0.364,2,6,0.333,2,5,0.4,0.455,2,3,0.667,1,2,3,0,0,0,3,4,12,2.2,A,0,1,trevor-releford-1,Trevor Releford,2012
+30,67,31,2012-03-08,Alabama,N,South Carolina,CTOURN,W 63-57,*,36,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,3,1.0,0,2,2,0,1,0,1,2,9,5.1,N,1,0,trevor-releford-1,Trevor Releford,2012
+31,68,32,2012-03-09,Alabama,N,Florida,CTOURN,L 63-66,*,36,5,6,0.833,1,2,0.5,4,4,1.0,0.917,1,2,0.5,0,1,1,3,1,0,0,3,12,11.6,N,0,0,trevor-releford-1,Trevor Releford,2012
+32,69,33,2012-03-16,Alabama,N,Creighton,ROUND-64,L 57-58,*,37,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,2,1.0,0,4,4,4,1,1,2,1,14,12.3,N,0,0,trevor-releford-1,Trevor Releford,2012

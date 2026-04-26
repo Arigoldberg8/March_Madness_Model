@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,43,1,2011-11-11,Loyola (MD),@,Wake Forest,REG (Non-Conf),L 63-75,,25,4,8,0.5,1,1,1.0,3,7,0.429,0.563,2,5,0.4,2,7,9,2,0,2,3,5,11,7.1,A,0,1,erik-etherly-1,Erik Etherly,2012
+2,44,2,2011-11-14,Loyola (MD),,Coppin State,REG (Non-Conf),W 78-68,*,35,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,4,7,11,2,0,0,1,2,15,15.6,H,1,1,erik-etherly-1,Erik Etherly,2012
+3,45,3,2011-11-17,Loyola (MD),@,UMBC,REG (Non-Conf),W 73-63,*,37,9,15,0.6,0,1,0.0,9,14,0.643,0.6,9,14,0.643,4,6,10,2,1,2,1,3,27,24.3,A,1,1,erik-etherly-1,Erik Etherly,2012
+4,46,4,2011-11-20,Loyola (MD),@,New Hampshire,REG (Non-Conf),W 66-60,*,30,4,10,0.4,0,0,,4,10,0.4,0.4,3,3,1.0,3,6,9,0,0,0,4,2,11,4.7,A,1,1,erik-etherly-1,Erik Etherly,2012
+5,47,5,2011-11-27,Loyola (MD),,Florida Gulf Coast,REG (Non-Conf),W 77-74,*,32,7,10,0.7,0,0,,7,10,0.7,0.7,1,2,0.5,0,3,3,4,1,2,1,1,15,15.1,H,1,1,erik-etherly-1,Erik Etherly,2012
+6,48,6,2011-12-01,Loyola (MD),,Marist,REG (Conf),W 76-63,*,28,5,12,0.417,0,0,,5,12,0.417,0.417,4,6,0.667,3,7,10,1,2,1,2,3,14,11.2,H,1,1,erik-etherly-1,Erik Etherly,2012
+7,49,7,2011-12-03,Loyola (MD),@,Siena,REG (Conf),W 66-59,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,1,2,0.5,0,3,3,1,3,1,1,1,11,10.2,A,1,1,erik-etherly-1,Erik Etherly,2012
+8,50,8,2011-12-07,Loyola (MD),@,George Washington,REG (Non-Conf),W 65-55,*,36,6,12,0.5,0,0,,6,12,0.5,0.5,0,1,0.0,5,10,15,3,2,0,6,1,12,9.8,A,1,1,erik-etherly-1,Erik Etherly,2012
+9,51,9,2011-12-10,Loyola (MD),@,Mount St. Mary's,REG (Non-Conf),W 65-54,*,20,0,5,0.0,0,0,,0,5,0.0,0.0,0,0,,2,2,4,2,1,0,1,4,0,-1.7,A,1,1,erik-etherly-1,Erik Etherly,2012
+10,52,10,2011-12-18,Loyola (MD),@,St. Bonaventure,REG (Non-Conf),L 66-76,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,0,2,2,2,3,0,2,1,8,8.2,A,0,1,erik-etherly-1,Erik Etherly,2012
+11,53,11,2011-12-22,Loyola (MD),@,Kentucky,REG (Non-Conf),L 63-87,,31,7,8,0.875,0,0,,7,8,0.875,0.875,0,1,0.0,5,6,11,3,2,1,1,1,14,19.5,A,0,1,erik-etherly-1,Erik Etherly,2012
+12,54,12,2011-12-28,Loyola (MD),@,Bucknell,REG (Non-Conf),W 72-67,*,35,6,9,0.667,1,2,0.5,5,7,0.714,0.722,5,6,0.833,2,6,8,4,1,4,0,1,18,23.1,A,1,1,erik-etherly-1,Erik Etherly,2012
+13,55,13,2012-01-02,Loyola (MD),,Niagara,REG (Conf),L 61-66,*,31,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,1,4,5,1,0,2,3,2,5,2.1,H,0,1,erik-etherly-1,Erik Etherly,2012
+14,56,14,2012-01-05,Loyola (MD),,Manhattan,REG (Conf),W 61-60,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,3,3,6,7,1,1,2,2,8,12.8,H,1,1,erik-etherly-1,Erik Etherly,2012
+15,57,15,2012-01-07,Loyola (MD),,Canisius,REG (Conf),W 77-62,*,31,4,11,0.364,0,0,,4,11,0.364,0.364,5,6,0.833,3,4,7,2,2,2,5,1,13,9.2,H,1,1,erik-etherly-1,Erik Etherly,2012
+16,58,16,2012-01-13,Loyola (MD),@,Fairfield,REG (Conf),W 66-63,*,32,6,14,0.429,0,1,0.0,6,13,0.462,0.429,5,6,0.833,4,6,10,1,1,0,2,3,17,12.3,A,1,1,erik-etherly-1,Erik Etherly,2012
+17,59,17,2012-01-15,Loyola (MD),@,Iona,REG (Conf),L 63-74,*,33,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,1,6,7,2,1,1,2,2,9,6.7,A,0,1,erik-etherly-1,Erik Etherly,2012
+18,60,18,2012-01-19,Loyola (MD),,Siena,REG (Conf),W 66-55,*,34,5,11,0.455,0,0,,5,11,0.455,0.455,2,2,1.0,5,7,12,0,3,3,3,1,12,13.6,H,1,1,erik-etherly-1,Erik Etherly,2012
+19,61,19,2012-01-22,Loyola (MD),,Saint Peter's,REG (Conf),W 65-54,*,34,5,13,0.385,0,1,0.0,5,12,0.417,0.385,9,12,0.75,3,5,8,0,1,2,2,1,19,14.3,H,1,1,erik-etherly-1,Erik Etherly,2012
+20,62,20,2012-01-27,Loyola (MD),@,Niagara,REG (Conf),W 69-57,*,35,7,9,0.778,0,0,,7,9,0.778,0.778,4,6,0.667,0,4,4,1,0,2,3,3,18,12.8,A,1,1,erik-etherly-1,Erik Etherly,2012
+21,63,21,2012-01-29,Loyola (MD),@,Canisius,REG (Conf),W 70-52,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,7,8,0.875,3,2,5,5,1,0,3,1,15,15.1,A,1,1,erik-etherly-1,Erik Etherly,2012
+22,64,22,2012-02-03,Loyola (MD),,Rider,REG (Conf),W 63-46,*,33,5,7,0.714,0,0,,5,7,0.714,0.714,5,9,0.556,3,3,6,2,1,1,3,3,15,12.4,H,1,1,erik-etherly-1,Erik Etherly,2012
+23,65,23,2012-02-05,Loyola (MD),@,Saint Peter's,REG (Conf),W 66-55,*,34,7,11,0.636,0,1,0.0,7,10,0.7,0.636,1,1,1.0,3,6,9,1,0,3,3,2,15,13.0,A,1,1,erik-etherly-1,Erik Etherly,2012
+24,66,24,2012-02-10,Loyola (MD),,Iona,REG (Conf),W 87-81,*,35,9,12,0.75,0,0,,9,12,0.75,0.75,4,7,0.571,3,7,10,3,1,2,2,2,22,21.9,H,1,1,erik-etherly-1,Erik Etherly,2012
+25,67,25,2012-02-12,Loyola (MD),,Fairfield,REG (Conf),L 51-68,*,35,4,10,0.4,0,0,,4,10,0.4,0.4,9,13,0.692,3,6,9,2,1,1,3,2,17,13.2,H,0,1,erik-etherly-1,Erik Etherly,2012
+26,68,26,2012-02-15,Loyola (MD),@,Marist,REG (Conf),L 54-72,*,16,3,9,0.333,0,0,,3,9,0.333,0.333,0,0,,1,4,5,0,0,1,5,3,6,-2.7,A,0,1,erik-etherly-1,Erik Etherly,2012
+27,69,27,2012-02-19,Loyola (MD),,Boston University,REG (Non-Conf),W 69-56,*,26,5,10,0.5,0,0,,5,10,0.5,0.5,1,2,0.5,4,2,6,0,1,2,5,2,11,5.6,H,1,1,erik-etherly-1,Erik Etherly,2012
+28,70,28,2012-02-24,Loyola (MD),@,Rider,REG (Conf),L 79-83,*,32,5,6,0.833,0,0,,5,6,0.833,0.833,4,9,0.444,2,6,8,0,2,0,0,1,14,14.6,A,0,1,erik-etherly-1,Erik Etherly,2012
+29,71,29,2012-02-26,Loyola (MD),@,Manhattan,REG (Conf),W 62-60,*,33,3,8,0.375,0,0,,3,8,0.375,0.375,3,4,0.75,4,6,10,4,0,1,5,3,9,6.1,A,1,1,erik-etherly-1,Erik Etherly,2012
+30,72,30,2012-03-03,Loyola (MD),N,Niagara,CTOURN,W 86-73,*,34,8,11,0.727,0,0,,8,11,0.727,0.727,5,6,0.833,0,4,4,2,1,2,1,2,21,19.3,N,1,0,erik-etherly-1,Erik Etherly,2012
+31,73,31,2012-03-04,Loyola (MD),N,Siena,CTOURN,W 70-60,*,29,8,15,0.533,1,1,1.0,7,14,0.5,0.567,4,6,0.667,3,3,6,1,0,2,0,1,21,17.6,N,1,0,erik-etherly-1,Erik Etherly,2012
+32,74,32,2012-03-05,Loyola (MD),N,Fairfield,CTOURN,W 48-44,*,26,4,12,0.333,0,1,0.0,4,11,0.364,0.333,2,2,1.0,1,6,7,1,2,3,3,2,10,6.7,N,1,0,erik-etherly-1,Erik Etherly,2012
+33,75,33,2012-03-15,Loyola (MD),N,Ohio State,ROUND-64,L 59-78,*,37,6,12,0.5,0,0,,6,12,0.5,0.5,7,8,0.875,3,4,7,2,0,4,1,1,19,18.7,N,0,0,erik-etherly-1,Erik Etherly,2012

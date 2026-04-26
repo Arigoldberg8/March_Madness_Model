@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,1,2024-11-04,Florida,N,South Florida,REG (Non-Conf),W 98-83,,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,3,4,0.75,1,1,2,2,0,0,1,0,8,6.3,N,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+2,46,2,2024-11-07,Florida,,Jacksonville,REG (Non-Conf),W 81-60,,21,1,3,0.333,0,0,,1,3,0.333,0.333,3,3,1.0,1,2,3,2,0,0,1,0,5,5.0,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+3,47,3,2024-11-11,Florida,,Grambling State,REG (Non-Conf),W 86-62,,22,2,8,0.25,1,3,0.333,1,5,0.2,0.313,3,3,1.0,1,3,4,2,0,0,1,3,8,4.0,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+4,48,4,2024-11-15,Florida,@,Florida State,REG (Non-Conf),W 87-74,,14,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,2,2,1,1,0,1,2,8,5.5,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+5,49,6,2024-11-22,Florida,,Southern Illinois,REG (Non-Conf),W 93-68,,19,2,8,0.25,1,4,0.25,1,4,0.25,0.313,1,2,0.5,0,1,1,2,0,0,1,1,6,1.1,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+6,50,7,2024-11-28,Florida,N,Wake Forest,REG (Non-Conf),W 75-58,,25,2,9,0.222,0,2,0.0,2,7,0.286,0.222,1,2,0.5,1,2,3,2,0,0,0,3,5,0.6,N,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+7,51,8,2024-11-29,Florida,N,Wichita State,REG (Non-Conf),W 88-51,,20,4,10,0.4,1,4,0.25,3,6,0.5,0.45,0,0,,0,2,2,3,2,0,1,1,9,6.9,N,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+8,52,9,2024-12-04,Florida,,Virginia,REG (Non-Conf),W 87-69,,21,4,5,0.8,2,2,1.0,2,3,0.667,1.0,2,3,0.667,0,1,1,1,1,0,0,0,12,11.7,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+9,53,10,2024-12-14,Florida,N,Arizona State,REG (Non-Conf),W 83-66,,19,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,2,2,2,0,0,1,0,2,-0.1,N,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+10,54,11,2024-12-17,Florida,N,North Carolina,REG (Non-Conf),W 90-84,,16,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,0,,0,1,1,2,0,0,2,2,12,8.7,N,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+11,55,12,2024-12-21,Florida,,North Florida,REG (Non-Conf),W 99-45,,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,2,0.0,2,4,6,4,1,0,2,1,2,2.1,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+12,56,13,2024-12-29,Florida,,Stetson,REG (Non-Conf),W 85-45,,17,4,5,0.8,1,1,1.0,3,4,0.75,0.9,0,0,,0,3,3,1,0,0,1,2,9,6.9,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+13,57,14,2025-01-04,Florida,@,Kentucky,REG (Conf),L 100-106,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,0,0,1,0,0,0,2,4,1.2,A,0,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+14,58,15,2025-01-07,Florida,,Tennessee,REG (Conf),W 73-43,,20,5,11,0.455,2,4,0.5,3,7,0.429,0.545,4,5,0.8,1,1,2,0,1,0,1,2,16,10.1,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+15,59,16,2025-01-11,Florida,@,Arkansas,REG (Conf),W 71-63,,24,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,0,2,2,1,0,0,3,0,5,-1.2,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+16,60,17,2025-01-14,Florida,,Missouri,REG (Conf),L 82-83,,14,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,1,1,1,0,0,2,1,2,-2.5,H,0,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+17,61,18,2025-01-18,Florida,,Texas,REG (Conf),W 84-60,,20,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,2,2,2,0,0,0,1,5,3.2,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+18,62,19,2025-01-22,Florida,@,South Carolina,REG (Conf),W 70-69,,15,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,0,0,0,1,2,0,1,0,9,8.1,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+19,63,20,2025-01-25,Florida,,Georgia,REG (Conf),W 89-59,,22,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,0,1,2,0,0,1,1,7,4.7,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+20,64,21,2025-02-01,Florida,@,Tennessee,REG (Conf),L 44-64,,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,6,8,0.75,0,1,1,0,1,0,0,0,8,4.7,A,0,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+21,65,22,2025-02-04,Florida,,Vanderbilt,REG (Conf),W 86-75,*,35,4,12,0.333,1,4,0.25,3,8,0.375,0.375,4,7,0.571,0,2,2,3,0,0,0,2,13,6.9,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+22,66,23,2025-02-08,Florida,@,Auburn,REG (Conf),W 90-81,*,28,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,1,2,3,2,0,0,3,3,10,2.4,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+23,67,24,2025-02-11,Florida,@,Mississippi State,REG (Conf),W 81-68,*,32,7,12,0.583,3,8,0.375,4,4,1.0,0.708,3,4,0.75,0,4,4,2,2,0,0,1,20,18.2,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+24,68,25,2025-02-15,Florida,,South Carolina,REG (Conf),W 88-67,*,30,8,12,0.667,5,7,0.714,3,5,0.6,0.875,1,2,0.5,0,2,2,3,1,0,0,1,22,19.7,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+25,69,26,2025-02-18,Florida,,Oklahoma,REG (Conf),W 85-63,*,24,1,9,0.111,1,5,0.2,0,4,0.0,0.167,4,6,0.667,0,1,1,3,0,0,1,3,7,0.5,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+26,70,27,2025-02-22,Florida,@,Louisiana State,REG (Conf),W 79-65,,21,5,9,0.556,0,2,0.0,5,7,0.714,0.556,1,1,1.0,0,0,0,0,2,0,2,0,11,6.7,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+27,71,28,2025-02-25,Florida,@,Georgia,REG (Conf),L 83-88,,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,1,2,0,-1.9,A,0,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+28,72,29,2025-03-01,Florida,,Texas A&M,REG (Conf),W 89-70,,21,2,10,0.2,0,3,0.0,2,7,0.286,0.2,2,2,1.0,0,1,1,3,0,0,0,2,6,1.4,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+29,73,30,2025-03-05,Florida,@,Alabama,REG (Conf),W 99-94,,16,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,1,1,2,1,0,0,1,3,7,4.5,A,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+30,74,31,2025-03-08,Florida,,Ole Miss,REG (Conf),W 90-71,,15,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,0,1,0,3,3,3,-0.9,H,1,1,denzel-aberdeen-1,Denzel Aberdeen,2025
+31,75,32,2025-03-14,Florida,N,Missouri,CTOURN,W 95-81,,9,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,0,0,0,0,3,4,0.8,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+32,76,33,2025-03-15,Florida,N,Alabama,CTOURN,W 104-82,,20,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,3,0.667,0,0,0,2,1,0,0,2,11,6.1,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+33,77,34,2025-03-16,Florida,N,Tennessee,CTOURN,W 86-77,,20,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,0,1,2,0,0,0,2,9,8.0,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+34,78,35,2025-03-21,Florida,N,Norfolk State,ROUND-64,W 95-69,,23,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,1,1.0,1,2,3,0,1,0,1,3,8,6.5,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+35,79,36,2025-03-23,Florida,N,Connecticut,ROUND-32,W 77-75,,14,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,0,1,1,0,0,0,1,1,3,0.2,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+36,80,37,2025-03-27,Florida,N,Maryland,ROUND-16,W 87-71,,19,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,1,0.0,0,1,1,1,0,0,2,1,12,7.3,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+37,81,38,2025-03-29,Florida,N,Texas Tech,ROUND-8,W 84-79,,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,3,3,1,0,0,1,3,3,0.0,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+38,82,39,2025-04-05,Florida,N,Auburn,NATIONAL-SEMI,W 79-73,,15,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,0,1,1,0,0,0,2,0,3,-1.5,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025
+39,83,40,2025-04-07,Florida,N,Houston,NATIONAL-FINAL,W 65-63,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,0,2,2,0,0,0,1,0,7,4.2,N,1,0,denzel-aberdeen-1,Denzel Aberdeen,2025

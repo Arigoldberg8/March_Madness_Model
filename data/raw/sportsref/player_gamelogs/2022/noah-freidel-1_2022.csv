@@ -1,0 +1,18 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,47,1,2021-11-09,South Dakota State,,Bradley,REG (Non-Conf),W 81-65,,25,4,13,0.308,3,8,0.375,1,5,0.2,0.423,5,6,0.833,1,1,2,0,0,0,2,2,16,6.3,H,1,1,noah-freidel-1,Noah Freidel,2022
+2,48,2,2021-11-12,South Dakota State,@,Alabama,REG (Non-Conf),L 88-104,,31,8,13,0.615,3,7,0.429,5,6,0.833,0.731,4,6,0.667,0,1,1,0,0,0,2,2,23,13.8,A,0,1,noah-freidel-1,Noah Freidel,2022
+3,49,3,2021-11-14,South Dakota State,@,Stephen F. Austin,REG (Non-Conf),W 83-71,*,35,10,17,0.588,5,12,0.417,5,5,1.0,0.735,0,0,,1,1,2,2,1,0,3,2,25,16.7,A,1,1,noah-freidel-1,Noah Freidel,2022
+4,50,4,2021-11-17,South Dakota State,,Montana State,REG (Non-Conf),W 91-74,,23,6,10,0.6,3,6,0.5,3,4,0.75,0.75,3,6,0.5,1,3,4,0,0,0,1,1,18,12.4,H,1,1,noah-freidel-1,Noah Freidel,2022
+5,51,5,2021-11-18,South Dakota State,,Presentation,REG (Non-Conf),W 99-62,,18,4,7,0.571,4,6,0.667,0,1,0.0,0.857,2,3,0.667,0,2,2,5,0,0,0,1,14,14.0,H,1,1,noah-freidel-1,Noah Freidel,2022
+6,52,6,2021-11-22,South Dakota State,N,Nevada,REG (Non-Conf),W 102-75,*,22,7,14,0.5,5,10,0.5,2,4,0.5,0.679,2,5,0.4,1,3,4,2,0,1,3,2,21,12.7,N,1,1,noah-freidel-1,Noah Freidel,2022
+7,53,7,2021-11-23,South Dakota State,N,Washington,REG (Non-Conf),L 76-87,*,36,6,14,0.429,2,6,0.333,4,8,0.5,0.5,6,6,1.0,1,4,5,1,1,0,4,1,20,11.8,N,0,1,noah-freidel-1,Noah Freidel,2022
+8,54,8,2021-11-24,South Dakota State,N,George Mason,REG (Non-Conf),W 80-76,*,35,9,17,0.529,4,8,0.5,5,9,0.556,0.647,3,5,0.6,0,3,3,1,0,1,2,0,25,16.2,N,1,1,noah-freidel-1,Noah Freidel,2022
+9,55,9,2021-11-30,South Dakota State,,Prairie View A&M,REG (Non-Conf),W 99-90,*,25,7,15,0.467,5,12,0.417,2,3,0.667,0.633,2,3,0.667,0,1,1,2,1,0,2,2,21,12.8,H,1,1,noah-freidel-1,Noah Freidel,2022
+10,56,11,2021-12-08,South Dakota State,@,Idaho,REG (Non-Conf),L 84-98,*,35,5,24,0.208,2,12,0.167,3,12,0.25,0.25,3,3,1.0,1,4,5,1,0,0,0,3,15,1.6,A,0,1,noah-freidel-1,Noah Freidel,2022
+11,57,12,2021-12-11,South Dakota State,N,Washington State,REG (Non-Conf),W 77-74,*,35,7,13,0.538,4,6,0.667,3,7,0.429,0.692,5,7,0.714,0,3,3,0,1,0,4,2,23,13.0,N,1,1,noah-freidel-1,Noah Freidel,2022
+12,58,13,2021-12-15,South Dakota State,@,Missouri State,REG (Non-Conf),L 63-75,*,37,2,12,0.167,0,5,0.0,2,7,0.286,0.167,3,5,0.6,0,3,3,1,2,2,1,4,7,1.0,A,0,1,noah-freidel-1,Noah Freidel,2022
+13,59,14,2021-12-20,South Dakota State,,Kansas City,REG (Conf),W 89-57,*,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,3,3,3,2,0,2,1,6,5.6,H,1,1,noah-freidel-1,Noah Freidel,2022
+14,60,26,2022-02-10,South Dakota State,@,Denver,REG (Conf),W 84-61,,2,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,0,0,1,0,1,6,5.7,A,1,1,noah-freidel-1,Noah Freidel,2022
+15,61,27,2022-02-12,South Dakota State,,Omaha,REG (Conf),W 82-61,,2,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,1,0,-0.8,H,1,1,noah-freidel-1,Noah Freidel,2022
+16,62,28,2022-02-17,South Dakota State,,Western Illinois,REG (Conf),W 91-66,,5,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,0,1,1,0,1,0,0,2,3.4,H,1,1,noah-freidel-1,Noah Freidel,2022
+17,63,33,2022-03-07,South Dakota State,N,South Dakota,CTOURN,W 83-60,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,noah-freidel-1,Noah Freidel,2022

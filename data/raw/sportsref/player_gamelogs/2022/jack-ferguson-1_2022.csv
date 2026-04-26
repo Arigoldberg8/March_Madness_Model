@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,116,1,2021-11-09,Colgate,,Northeastern,REG (Non-Conf),W 65-58,*,26,1,7,0.143,1,7,0.143,0,0,,0.214,0,0,,0,4,4,1,2,0,0,3,3,1.2,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+2,117,2,2021-11-13,Colgate,@,NC State,REG (Non-Conf),L 74-77,*,32,4,9,0.444,2,6,0.333,2,3,0.667,0.556,3,3,1.0,0,3,3,3,1,0,0,0,13,12.3,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+3,118,3,2021-11-16,Colgate,@,Cornell,REG (Non-Conf),L 68-78,*,37,4,15,0.267,3,12,0.25,1,3,0.333,0.367,0,0,,0,1,1,1,1,1,0,4,11,3.2,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+4,119,4,2021-11-18,Colgate,,SUNY Polytechnic,REG (Non-Conf),W 97-50,*,16,5,6,0.833,3,4,0.75,2,2,1.0,1.083,2,2,1.0,0,3,3,1,1,0,0,0,15,15.4,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+5,120,5,2021-11-20,Colgate,@,Syracuse,REG (Non-Conf),W 100-85,*,32,7,14,0.5,6,13,0.462,1,1,1.0,0.714,5,5,1.0,1,3,4,2,3,0,0,3,25,22.8,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+6,121,6,2021-11-24,Colgate,@,Harvard,REG (Non-Conf),L 84-89 (OT),*,31,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,2,1.0,0,5,5,0,2,0,2,1,11,7.0,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+7,122,7,2021-11-29,Colgate,,Niagara,REG (Non-Conf),L 59-70,*,31,2,11,0.182,1,8,0.125,1,3,0.333,0.227,0,0,,0,1,1,2,1,0,1,0,5,-0.2,H,0,1,jack-ferguson-1,Jack Ferguson,2022
+8,123,8,2021-12-03,Colgate,@,Northeastern,REG (Non-Conf),L 69-74,*,25,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,5,0.8,0,2,2,1,0,1,5,1,9,2.5,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+9,124,9,2021-12-06,Colgate,,Columbia,REG (Non-Conf),W 89-61,*,22,4,12,0.333,4,7,0.571,0,5,0.0,0.5,0,0,,0,2,2,3,1,0,1,2,12,7.1,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+10,125,10,2021-12-09,Colgate,@,Pittsburgh,REG (Non-Conf),L 68-71,*,29,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,1,2,0,1,2,3,2.8,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+11,126,11,2021-12-12,Colgate,@,St. John's (NY),REG (Non-Conf),L 64-82,*,35,8,15,0.533,7,14,0.5,1,1,1.0,0.767,0,0,,0,3,3,1,0,0,2,1,23,14.9,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+12,127,12,2021-12-19,Colgate,@,Monmouth,REG (Non-Conf),L 66-77,*,33,4,10,0.4,3,6,0.5,1,4,0.25,0.55,0,0,,0,2,2,4,0,0,2,0,11,7.0,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+13,128,13,2021-12-22,Colgate,@,Vermont,REG (Non-Conf),L 68-78,*,39,6,13,0.462,2,8,0.25,4,5,0.8,0.538,2,3,0.667,1,8,9,2,0,1,1,1,16,12.7,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+14,129,14,2022-01-04,Colgate,@,Lehigh,REG (Conf),L 81-85,*,36,7,14,0.5,2,5,0.4,5,9,0.556,0.571,2,3,0.667,0,4,4,1,0,1,0,0,18,13.2,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+15,130,15,2022-01-10,Colgate,,Army,REG (Conf),W 76-57,*,34,5,12,0.417,4,8,0.5,1,4,0.25,0.583,0,0,,2,6,8,3,5,0,0,0,14,17.9,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+16,131,16,2022-01-13,Colgate,@,Navy,REG (Conf),W 69-50,*,32,4,9,0.444,1,3,0.333,3,6,0.5,0.5,0,1,0.0,0,7,7,3,1,0,0,2,9,8.3,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+17,132,17,2022-01-19,Colgate,@,Bucknell,REG (Conf),W 75-56,*,27,1,7,0.143,1,5,0.2,0,2,0.0,0.214,0,0,,1,3,4,3,2,0,2,3,3,1.0,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+18,133,18,2022-01-24,Colgate,,Loyola (MD),REG (Conf),W 65-52,*,33,2,10,0.2,1,6,0.167,1,4,0.25,0.25,4,4,1.0,0,3,3,0,1,2,1,2,9,4.3,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+19,134,19,2022-01-28,Colgate,@,Boston University,REG (Conf),L 72-76,*,32,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,0,3,3,2,4,1,2,2,11,9.8,A,0,1,jack-ferguson-1,Jack Ferguson,2022
+20,135,20,2022-01-31,Colgate,@,Lafayette,REG (Conf),W 72-61,*,30,4,7,0.571,2,3,0.667,2,4,0.5,0.714,9,9,1.0,1,7,8,1,0,0,1,0,19,18.2,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+21,136,21,2022-02-02,Colgate,,Bucknell,REG (Conf),W 83-69,*,34,5,9,0.556,4,6,0.667,1,3,0.333,0.778,2,2,1.0,0,6,6,2,0,0,3,2,16,11.1,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+22,137,22,2022-02-05,Colgate,@,American,REG (Conf),W 86-68,*,26,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,0,4,4,1,1,0,2,1,10,8.2,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+23,138,23,2022-02-07,Colgate,,Holy Cross,REG (Conf),W 87-60,*,26,5,6,0.833,2,3,0.667,3,3,1.0,1.0,0,0,,1,4,5,3,0,0,2,1,12,11.4,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+24,139,24,2022-02-09,Colgate,,Lehigh,REG (Conf),W 78-62,*,28,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,1,3,4,4,1,1,2,1,8,8.7,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+25,140,25,2022-02-12,Colgate,@,Loyola (MD),REG (Conf),W 64-56,*,31,3,13,0.231,3,11,0.273,0,2,0.0,0.346,2,3,0.667,2,3,5,0,1,1,1,1,11,5.3,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+26,141,26,2022-02-14,Colgate,,Lafayette,REG (Conf),W 69-61,*,30,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,2,0.5,1,4,5,2,0,1,1,1,5,4.5,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+27,142,27,2022-02-16,Colgate,@,Army,REG (Conf),W 100-90,*,31,8,15,0.533,4,10,0.4,4,5,0.8,0.667,2,3,0.667,2,3,5,0,0,1,1,4,22,14.7,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+28,143,28,2022-02-19,Colgate,,Boston University,REG (Conf),W 72-53,*,33,5,9,0.556,4,8,0.5,1,1,1.0,0.778,1,2,0.5,0,7,7,0,1,0,1,1,15,12.0,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+29,144,29,2022-02-21,Colgate,,American,REG (Conf),W 63-49,*,30,5,9,0.556,5,9,0.556,0,0,,0.833,0,0,,0,5,5,4,1,1,3,1,15,13.3,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+30,145,30,2022-02-23,Colgate,@,Holy Cross,REG (Conf),W 78-71,*,33,1,5,0.2,0,3,0.0,1,2,0.5,0.2,3,3,1.0,2,4,6,2,1,0,2,3,5,3.7,A,1,1,jack-ferguson-1,Jack Ferguson,2022
+31,146,31,2022-02-26,Colgate,,Navy,REG (Conf),W 74-69,*,35,2,7,0.286,2,5,0.4,0,2,0.0,0.429,3,7,0.429,0,5,5,1,1,0,2,2,9,3.7,H,1,1,jack-ferguson-1,Jack Ferguson,2022
+32,147,32,2022-03-03,Colgate,,Bucknell,CTOURN,W 96-68,*,32,10,12,0.833,7,8,0.875,3,4,0.75,1.125,1,1,1.0,0,7,7,5,0,2,3,2,28,26.8,H,1,0,jack-ferguson-1,Jack Ferguson,2022
+33,148,33,2022-03-06,Colgate,,Lehigh,CTOURN,W 81-61,*,30,4,7,0.571,4,5,0.8,0,2,0.0,0.857,5,8,0.625,2,3,5,2,0,0,2,2,17,13.4,H,1,0,jack-ferguson-1,Jack Ferguson,2022
+34,149,34,2022-03-09,Colgate,,Navy,CTOURN,W 74-58,*,32,4,6,0.667,2,3,0.667,2,3,0.667,0.833,7,8,0.875,0,5,5,5,2,0,2,2,17,18.2,H,1,0,jack-ferguson-1,Jack Ferguson,2022
+35,150,35,2022-03-18,Colgate,N,Wisconsin,ROUND-64,L 60-67,*,31,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,2,2,3,1,0,1,3,3,0.7,N,0,0,jack-ferguson-1,Jack Ferguson,2022

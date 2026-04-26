@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2013-11-08,Milwaukee,@,Loyola Chicago,REG (Non-Conf),L 72-76,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,1,0,0,-0.3,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+2,23,2,2013-11-11,Milwaukee,@,Davidson,REG (Non-Conf),W 81-77,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,1,0,-0.4,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+3,24,3,2013-11-15,Milwaukee,N,San Jose State,REG (Non-Conf),W 64-61,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,0,1,1,0,0,0,0,0,0,-0.8,N,1,1,malcolm-moore-1,Malcolm Moore,2014
+4,25,4,2013-11-16,Milwaukee,N,James Madison,REG (Non-Conf),W 77-66,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,1,malcolm-moore-1,Malcolm Moore,2014
+5,26,5,2013-11-17,Milwaukee,@,Northern Illinois,REG (Non-Conf),W 82-69,,18,4,4,1.0,3,3,1.0,1,1,1.0,1.375,4,4,1.0,1,2,3,0,0,0,2,4,15,11.5,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+6,27,6,2013-11-19,Milwaukee,,DePaul,REG (Non-Conf),L 71-80,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,1,1,0,0,0,0,1,6,4.6,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+7,28,7,2013-11-23,Milwaukee,@,Tennessee Tech,REG (Non-Conf),W 70-63,,12,1,2,0.5,0,0,,1,2,0.5,0.5,2,3,0.667,1,2,3,0,1,0,0,3,4,3.7,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+8,29,8,2013-11-26,Milwaukee,,Judson,REG (Non-Conf),W 89-56,,21,3,11,0.273,0,2,0.0,3,9,0.333,0.273,2,2,1.0,2,4,6,3,0,0,0,0,8,6.2,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+9,30,9,2013-11-30,Milwaukee,@,Kansas City,REG (Non-Conf),W 84-79,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,3,4,1,0,0,1,1,2,2.6,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+10,31,10,2013-12-03,Milwaukee,,Northern Iowa,REG (Non-Conf),W 83-72,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,0,0,0,1,3,0,-2.7,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+11,32,11,2013-12-07,Milwaukee,,Bradley,REG (Non-Conf),W 73-67,,11,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,1,2,0,0,0,0,1,5,5.0,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+12,33,12,2013-12-11,Milwaukee,@,Wisconsin,REG (Non-Conf),L 52-78,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+13,34,13,2013-12-21,Milwaukee,N,Northeastern,REG (Non-Conf),L 59-62,,16,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,0,1,3,0,1,2,1,6,5.5,N,0,1,malcolm-moore-1,Malcolm Moore,2014
+14,35,15,2014-01-02,Milwaukee,,Youngstown State,REG (Conf),W 82-76,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,1,0,-2.8,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+15,36,16,2014-01-04,Milwaukee,,Cleveland State,REG (Conf),L 49-77,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,2,0,2,0,1,1,1,1,2,2.7,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+16,37,17,2014-01-08,Milwaukee,@,Oakland,REG (Conf),W 84-75,,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,4,5,1,0,1,2,4,2,1.0,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+17,38,18,2014-01-12,Milwaukee,,Green Bay,REG (Conf),L 86-93 (OT),,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,2,4,0,0,0,0,0,0,-0.1,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+18,39,19,2014-01-16,Milwaukee,@,Illinois–Chicago,REG (Conf),W 67-63,,19,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,1,0.0,4,5,9,0,0,1,0,2,8,8.5,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+19,40,20,2014-01-18,Milwaukee,@,Valparaiso,REG (Conf),L 62-75,,12,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,0,1,1,0,0,0,1,1,1,-4.0,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+20,41,21,2014-01-21,Milwaukee,@,Wright State,REG (Conf),L 57-73,,8,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,1,0,1,1,5,1,-1.7,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+21,42,22,2014-01-24,Milwaukee,,Detroit Mercy,REG (Conf),L 54-73,,9,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,1,1,0,0,0,1,1,8,5.3,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+22,43,23,2014-01-30,Milwaukee,,Wright State,REG (Conf),W 68-64,,17,5,7,0.714,0,0,,5,7,0.714,0.714,2,5,0.4,2,1,3,1,1,1,3,2,12,8.2,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+23,44,24,2014-02-02,Milwaukee,,Oakland,REG (Conf),W 86-64,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,1,1,1,3,2,1.8,H,1,1,malcolm-moore-1,Malcolm Moore,2014
+24,45,25,2014-02-08,Milwaukee,@,Green Bay,REG (Conf),W 73-63,,27,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,1,1.0,1,5,6,1,0,3,2,2,9,7.9,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+25,46,26,2014-02-15,Milwaukee,,Valparaiso,REG (Conf),L 62-77,,11,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,2,0.0,3,1,4,0,1,1,1,2,3,1.4,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+26,47,27,2014-02-20,Milwaukee,@,Youngstown State,REG (Conf),L 83-88 (OT),*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,6,6,1,0,0,1,0,2,1.8,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+27,48,28,2014-02-22,Milwaukee,@,Cleveland State,REG (Conf),L 50-74,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,3,0,1,1,5,2,1.4,A,0,1,malcolm-moore-1,Malcolm Moore,2014
+28,49,29,2014-02-25,Milwaukee,,Illinois–Chicago,REG (Conf),L 58-80,,24,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,4,0.75,1,1,2,1,0,1,0,4,5,3.0,H,0,1,malcolm-moore-1,Malcolm Moore,2014
+29,50,30,2014-02-27,Milwaukee,@,Detroit Mercy,REG (Conf),W 68-62,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,2,3,0,0,0,3,4,4,0.1,A,1,1,malcolm-moore-1,Malcolm Moore,2014
+30,51,31,2014-03-04,Milwaukee,,Detroit Mercy,CTOURN,W 83-73,,16,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,4,3,7,0,2,1,1,0,7,10.4,H,1,0,malcolm-moore-1,Malcolm Moore,2014
+31,52,32,2014-03-07,Milwaukee,N,Valparaiso,CTOURN,W 74-57,,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,1,4,5,0,0,1,0,3,5,4.7,N,1,0,malcolm-moore-1,Malcolm Moore,2014
+32,53,33,2014-03-08,Milwaukee,@,Green Bay,CTOURN,W 73-66 (OT),,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,2,0,-1.5,A,1,0,malcolm-moore-1,Malcolm Moore,2014
+33,54,34,2014-03-11,Milwaukee,@,Wright State,CTOURN,W 69-63,,15,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,2,1.0,5,3,8,1,0,0,1,3,7,7.2,A,1,0,malcolm-moore-1,Malcolm Moore,2014
+34,55,35,2014-03-20,Milwaukee,N,Villanova,ROUND-64,L 53-73,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,2,1,3,0,1,0,0,0,2,2.6,N,0,0,malcolm-moore-1,Malcolm Moore,2014

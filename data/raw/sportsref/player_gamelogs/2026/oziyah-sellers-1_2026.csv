@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2025-11-03,St. John's (NY),,Quinnipiac,REG (Non-Conf),W 108-74,*,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,3,3,5,2,0,1,1,6,8.6,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+2,95,2,2025-11-08,St. John's (NY),,Alabama,REG (Non-Conf),L 96-103,*,34,5,10,0.5,0,1,0.0,5,9,0.556,0.5,4,5,0.8,0,7,7,3,1,0,4,4,14,8.2,H,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+3,96,3,2025-11-15,St. John's (NY),,William & Mary,REG (Non-Conf),W 93-60,*,18,5,11,0.455,3,6,0.5,2,5,0.4,0.591,0,0,,0,2,2,2,0,1,0,1,13,9.6,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+4,97,4,2025-11-20,St. John's (NY),,Bucknell,REG (Non-Conf),W 97-49,*,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,4,4,1,0,0,3,2,2,-1.6,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+5,98,5,2025-11-24,St. John's (NY),N,Iowa State,REG (Non-Conf),L 82-83,*,28,6,11,0.545,5,6,0.833,1,5,0.2,0.773,3,4,0.75,1,4,5,0,0,0,1,2,20,14.4,N,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+6,99,6,2025-11-25,St. John's (NY),N,Baylor,REG (Non-Conf),W 96-81,*,36,6,11,0.545,5,7,0.714,1,4,0.25,0.773,5,5,1.0,0,2,2,0,0,1,0,1,22,17.6,N,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+7,100,7,2025-11-26,St. John's (NY),N,Auburn,REG (Non-Conf),L 74-85,*,34,1,7,0.143,1,5,0.2,0,2,0.0,0.214,1,2,0.5,0,1,1,3,0,0,2,5,4,-2.5,N,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+8,101,8,2025-12-06,St. John's (NY),,Ole Miss,REG (Non-Conf),W 63-58,*,39,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,3,0.667,1,3,4,2,2,0,3,2,7,3.0,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+9,102,9,2025-12-13,St. John's (NY),,Iona,REG (Non-Conf),W 91-64,*,31,7,13,0.538,4,7,0.571,3,6,0.5,0.692,1,1,1.0,1,4,5,1,0,0,1,1,19,13.9,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+10,103,10,2025-12-16,St. John's (NY),,DePaul,REG (Conf),W 79-66,*,33,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,0,2,2,4,1,0,0,0,7,7.3,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+11,104,11,2025-12-20,St. John's (NY),N,Kentucky,REG (Non-Conf),L 66-78,*,33,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,3,1.0,2,1,3,3,0,1,0,3,9,7.9,N,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+12,105,12,2025-12-23,St. John's (NY),,Harvard,REG (Non-Conf),W 85-59,*,27,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,2,2,2,1,1,2,0,4,3.0,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+13,106,13,2025-12-31,St. John's (NY),@,Georgetown,REG (Conf),W 95-83,*,34,6,8,0.75,4,5,0.8,2,3,0.667,1.0,0,0,,0,0,0,1,0,1,0,4,16,12.6,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+14,107,14,2026-01-03,St. John's (NY),,Providence,REG (Conf),L 71-77,*,35,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,0,,0,3,3,1,0,0,0,3,6,0.6,H,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+15,108,15,2026-01-06,St. John's (NY),@,Butler,REG (Conf),W 84-70,*,33,5,11,0.455,0,2,0.0,5,9,0.556,0.455,0,0,,1,4,5,4,1,0,1,3,10,7.8,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+16,109,16,2026-01-10,St. John's (NY),@,Creighton,REG (Conf),W 90-73,*,33,6,11,0.545,2,4,0.5,4,7,0.571,0.636,2,2,1.0,2,4,6,5,1,0,0,3,16,16.6,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+17,110,17,2026-01-13,St. John's (NY),,Marquette,REG (Conf),W 92-68,*,35,9,16,0.563,4,9,0.444,5,7,0.714,0.688,2,2,1.0,0,2,2,2,0,1,0,2,24,18.3,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+18,111,18,2026-01-17,St. John's (NY),@,Villanova,REG (Conf),W 86-79,*,30,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,1,1,1,1,1,0,4,9,5.4,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+19,112,19,2026-01-20,St. John's (NY),,Seton Hall,REG (Conf),W 65-60,*,22,1,5,0.2,1,2,0.5,0,3,0.0,0.3,3,4,0.75,1,1,2,1,1,0,0,0,6,5.2,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+20,113,20,2026-01-24,St. John's (NY),@,Xavier,REG (Conf),W 88-83,*,24,2,5,0.4,0,3,0.0,2,2,1.0,0.4,3,3,1.0,0,1,1,1,0,1,1,2,7,4.2,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+21,114,21,2026-01-28,St. John's (NY),,Butler,REG (Conf),W 92-70,*,24,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,2,2,2,0,0,0,2,9,6.5,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+22,115,22,2026-02-03,St. John's (NY),@,DePaul,REG (Conf),W 68-56,*,33,5,11,0.455,3,6,0.5,2,5,0.4,0.591,0,0,,1,3,4,1,1,0,1,1,13,9.2,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+23,116,23,2026-02-06,St. John's (NY),,Connecticut,REG (Conf),W 81-72,*,33,3,10,0.3,0,5,0.0,3,5,0.6,0.3,2,4,0.5,0,5,5,2,2,0,0,0,8,6.3,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+24,117,24,2026-02-09,St. John's (NY),,Xavier,REG (Conf),W 87-82 (OT),*,37,4,11,0.364,1,4,0.25,3,7,0.429,0.409,2,2,1.0,2,1,3,1,0,0,1,4,11,4.7,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+25,118,25,2026-02-14,St. John's (NY),@,Providence,REG (Conf),W 79-69,*,32,5,11,0.455,0,2,0.0,5,9,0.556,0.455,1,2,0.5,0,3,3,1,0,0,0,4,11,4.9,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+26,119,26,2026-02-18,St. John's (NY),@,Marquette,REG (Conf),W 76-70,,23,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,3,0.667,0,2,2,0,0,0,0,3,12,7.0,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+27,120,27,2026-02-21,St. John's (NY),,Creighton,REG (Conf),W 81-52,*,18,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,2,1.0,2,0,2,1,2,0,0,3,10,8.2,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+28,121,28,2026-02-25,St. John's (NY),@,Connecticut,REG (Conf),L 40-72,*,33,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,2,1.0,2,1,3,2,0,1,1,1,4,2.6,A,0,1,oziyah-sellers-1,Oziyah Sellers,2026
+29,122,29,2026-02-28,St. John's (NY),,Villanova,REG (Conf),W 89-57,*,24,6,8,0.75,2,3,0.667,4,5,0.8,0.875,0,0,,0,2,2,3,0,0,0,0,14,13.5,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+30,123,30,2026-03-03,St. John's (NY),,Georgetown,REG (Conf),W 72-69,*,35,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,2,2,2,1,0,0,2,7,4.1,H,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+31,124,31,2026-03-06,St. John's (NY),@,Seton Hall,REG (Conf),W 72-65,*,32,3,8,0.375,3,8,0.375,0,0,,0.563,2,2,1.0,0,5,5,0,1,0,0,2,11,8.3,A,1,1,oziyah-sellers-1,Oziyah Sellers,2026
+32,125,32,2026-03-12,St. John's (NY),N,Providence,CTOURN,W 85-72,*,32,6,12,0.5,2,6,0.333,4,6,0.667,0.583,0,0,,0,2,2,2,1,0,0,1,14,10.6,N,1,0,oziyah-sellers-1,Oziyah Sellers,2026
+33,126,33,2026-03-13,St. John's (NY),N,Seton Hall,CTOURN,W 78-68,*,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,0,1,0,0,0,1,0,4,1.0,N,1,0,oziyah-sellers-1,Oziyah Sellers,2026
+34,127,34,2026-03-14,St. John's (NY),N,Connecticut,CTOURN,W 72-52,*,20,4,8,0.5,1,2,0.5,3,6,0.5,0.563,5,5,1.0,0,1,1,0,1,0,0,2,14,10.5,N,1,0,oziyah-sellers-1,Oziyah Sellers,2026

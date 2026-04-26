@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2022-11-07,Marquette,,Radford,REG (Non-Conf),W 79-69,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,2,1,0,4,1,4,-0.1,H,1,1,sean-jones-3,Sean Jones,2023
+2,2,2,2022-11-10,Marquette,,Central Michigan,REG (Non-Conf),W 97-73,,18,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,3,0.667,0,2,2,3,1,0,0,1,9,7.5,H,1,1,sean-jones-3,Sean Jones,2023
+3,3,3,2022-11-15,Marquette,@,Purdue,REG (Non-Conf),L 70-75,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,0,1,sean-jones-3,Sean Jones,2023
+4,4,4,2022-11-17,Marquette,,LIU,REG (Non-Conf),W 95-58,,19,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,2,0.5,0,0,0,2,2,0,1,2,6,3.1,H,1,1,sean-jones-3,Sean Jones,2023
+5,5,5,2022-11-21,Marquette,N,Mississippi State,REG (Non-Conf),L 55-58,,13,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,8,6.7,N,0,1,sean-jones-3,Sean Jones,2023
+6,6,6,2022-11-23,Marquette,N,Georgia Tech,REG (Non-Conf),W 84-60,,23,3,5,0.6,1,1,1.0,2,4,0.5,0.7,4,6,0.667,1,2,3,1,0,0,1,1,11,8.5,N,1,1,sean-jones-3,Sean Jones,2023
+7,7,7,2022-11-26,Marquette,,Chicago State,REG (Non-Conf),W 82-68,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,4,0.25,0,1,1,2,1,0,1,1,5,3.1,H,1,1,sean-jones-3,Sean Jones,2023
+8,8,8,2022-11-29,Marquette,,Baylor,REG (Non-Conf),W 96-70,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,3,1,0,1,0,4,4.8,H,1,1,sean-jones-3,Sean Jones,2023
+9,9,9,2022-12-03,Marquette,,Wisconsin,REG (Non-Conf),L 77-80 (OT),,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,0,1,1,1,0,1,2,3,2.6,H,0,1,sean-jones-3,Sean Jones,2023
+10,10,10,2022-12-06,Marquette,,North Carolina Central,REG (Non-Conf),W 90-78,,12,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,2,0.0,1,1,2,1,0,0,2,2,8,3.8,H,1,1,sean-jones-3,Sean Jones,2023
+11,11,11,2022-12-11,Marquette,@,Notre Dame,REG (Non-Conf),W 79-64,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,2,0,0,0,1,2,1.3,A,1,1,sean-jones-3,Sean Jones,2023
+12,12,12,2022-12-16,Marquette,,Creighton,REG (Conf),W 69-58,,14,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,0,0,0,0,0,0,2,2,4,-0.5,H,1,1,sean-jones-3,Sean Jones,2023
+13,13,13,2022-12-20,Marquette,@,Providence,REG (Conf),L 98-103 (2OT),,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,A,0,1,sean-jones-3,Sean Jones,2023
+14,14,14,2022-12-27,Marquette,,Seton Hall,REG (Conf),W 83-69,,12,3,7,0.429,3,4,0.75,0,3,0.0,0.643,0,0,,0,1,1,2,0,0,0,0,9,7.0,H,1,1,sean-jones-3,Sean Jones,2023
+15,15,15,2022-12-31,Marquette,@,Villanova,REG (Conf),W 68-66,,3,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,sean-jones-3,Sean Jones,2023
+16,16,16,2023-01-03,Marquette,@,St. John's (NY),REG (Conf),W 96-85,,11,0,4,0.0,0,1,0.0,0,3,0.0,0.0,4,4,1.0,0,1,1,2,2,0,1,1,4,3.5,A,1,1,sean-jones-3,Sean Jones,2023
+17,17,17,2023-01-07,Marquette,,Georgetown,REG (Conf),W 95-73,,22,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,0,0,0,2,0,3,2,9,3.5,H,1,1,sean-jones-3,Sean Jones,2023
+18,18,18,2023-01-11,Marquette,,Connecticut,REG (Conf),W 82-76,,14,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,2,3,0,0,0,7,10.1,H,1,1,sean-jones-3,Sean Jones,2023
+19,19,19,2023-01-15,Marquette,@,Xavier,REG (Conf),L 76-80,,7,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,2,0,-2.6,A,0,1,sean-jones-3,Sean Jones,2023
+20,20,20,2023-01-18,Marquette,,Providence,REG (Conf),W 83-75,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,1,1,sean-jones-3,Sean Jones,2023
+21,21,21,2023-01-21,Marquette,@,Seton Hall,REG (Conf),W 74-53,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,2,0,0,1,2,2,1.6,A,1,1,sean-jones-3,Sean Jones,2023
+22,22,25,2023-02-07,Marquette,@,Connecticut,REG (Conf),L 72-87,,19,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,3,1.0,0,1,1,2,0,0,0,0,11,10.1,A,0,1,sean-jones-3,Sean Jones,2023
+23,23,26,2023-02-11,Marquette,@,Georgetown,REG (Conf),W 89-75,,20,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,1,0,0,3,2,6,1.5,A,1,1,sean-jones-3,Sean Jones,2023
+24,24,27,2023-02-15,Marquette,,Xavier,REG (Conf),W 69-68,,4,0,0,,0,0,,0,0,,,0,2,0.0,0,1,1,0,0,0,1,0,0,-1.5,H,1,1,sean-jones-3,Sean Jones,2023
+25,25,28,2023-02-21,Marquette,@,Creighton,REG (Conf),W 73-71,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,0,0,0.6,A,1,1,sean-jones-3,Sean Jones,2023
+26,26,29,2023-02-25,Marquette,,DePaul,REG (Conf),W 90-84,,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.0,H,1,1,sean-jones-3,Sean Jones,2023
+27,27,30,2023-02-28,Marquette,@,Butler,REG (Conf),W 72-56,,9,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,1,1,0,1,2,2,1.9,A,1,1,sean-jones-3,Sean Jones,2023
+28,28,31,2023-03-04,Marquette,,St. John's (NY),REG (Conf),W 96-94,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,2,1,0,1,3,2,1.5,H,1,1,sean-jones-3,Sean Jones,2023
+29,29,32,2023-03-09,Marquette,@,St. John's (NY),CTOURN,W 72-70 (OT),,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,1,1,0,-1.1,A,1,0,sean-jones-3,Sean Jones,2023
+30,30,33,2023-03-10,Marquette,N,Connecticut,CTOURN,W 70-68,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,sean-jones-3,Sean Jones,2023
+31,31,34,2023-03-11,Marquette,N,Xavier,CTOURN,W 65-51,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,N,1,0,sean-jones-3,Sean Jones,2023
+32,32,35,2023-03-17,Marquette,N,Vermont,ROUND-64,W 78-61,,15,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,0,0,0,1,2,2.3,N,1,0,sean-jones-3,Sean Jones,2023
+33,33,36,2023-03-19,Marquette,N,Michigan State,ROUND-32,L 60-69,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.8,N,0,0,sean-jones-3,Sean Jones,2023

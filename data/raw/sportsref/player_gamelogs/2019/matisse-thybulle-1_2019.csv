@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2018-11-06,Washington,,Western Kentucky,REG (Non-Conf),W 73-55,*,29,3,10,0.3,1,6,0.167,2,4,0.5,0.35,2,2,1.0,1,5,6,0,1,6,1,4,9,8.0,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+2,101,2,2018-11-09,Washington,@,Auburn,REG (Non-Conf),L 66-88,*,34,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,2,2,5,2,2,2,2,7,8.0,A,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+3,102,3,2018-11-12,Washington,,San Diego,REG (Non-Conf),W 66-63,*,36,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,0,3,3,2,5,1,1,2,6,7.8,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+4,103,4,2018-11-18,Washington,N,Santa Clara,REG (Non-Conf),W 82-68,*,23,0,5,0.0,0,4,0.0,0,1,0.0,0.0,2,2,1.0,0,4,4,0,1,2,0,2,2,1.3,N,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+5,104,5,2018-11-20,Washington,N,Texas A&M,REG (Non-Conf),W 71-67,*,26,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,0,0,1,4,2,2,4,7,6.8,N,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+6,105,6,2018-11-21,Washington,N,Minnesota,REG (Non-Conf),L 66-68,*,26,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,1,1,3,1,4,2,3.1,N,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+7,106,7,2018-11-27,Washington,,Eastern Washington,REG (Non-Conf),W 83-59,*,22,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,1,2,3,2,2,3,1,3,8,9.6,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+8,107,8,2018-12-02,Washington,,UC Santa Barbara,REG (Non-Conf),W 67-63,*,30,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,1,2,3,2,6,1,2,5,13,13.4,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+9,108,9,2018-12-05,Washington,@,Gonzaga,REG (Non-Conf),L 79-81,*,33,6,11,0.545,3,6,0.5,3,5,0.6,0.682,3,3,1.0,0,2,2,4,2,0,0,2,18,17.3,A,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+10,109,10,2018-12-09,Washington,,Seattle,REG (Non-Conf),W 70-62,*,27,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,4,0.5,1,2,3,3,3,3,2,3,6,7.1,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+11,110,11,2018-12-15,Washington,N,Virginia Tech,REG (Non-Conf),L 61-73,*,33,5,10,0.5,5,9,0.556,0,1,0.0,0.75,1,1,1.0,1,1,2,2,4,0,0,3,16,16.2,N,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+12,111,12,2018-12-21,Washington,,Sacramento State,REG (Non-Conf),W 57-41,*,36,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,1,3,4,1,7,2,0,2,12,16.5,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+13,112,13,2019-01-01,Washington,,Cal State Fullerton,REG (Non-Conf),W 84-76,*,31,4,10,0.4,1,5,0.2,3,5,0.6,0.45,4,4,1.0,0,3,3,0,1,1,3,4,13,5.6,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+14,113,14,2019-01-05,Washington,,Washington State,REG (Conf),W 85-67,*,30,4,4,1.0,3,3,1.0,1,1,1.0,1.375,6,6,1.0,1,3,4,2,2,4,4,2,17,18.8,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+15,114,15,2019-01-10,Washington,@,Utah,REG (Conf),W 69-53,*,30,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,3,0,4,1,2,4,6.4,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+16,115,16,2019-01-12,Washington,@,Colorado,REG (Conf),W 77-70,*,27,1,4,0.25,1,4,0.25,0,0,,0.375,6,7,0.857,0,2,2,1,1,2,1,4,9,7.3,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+17,116,17,2019-01-17,Washington,,Stanford,REG (Conf),W 80-64,*,23,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,1,1,2,1,5,1,2,4,8,9.8,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+18,117,18,2019-01-19,Washington,,California,REG (Conf),W 71-52,*,33,5,10,0.5,2,6,0.333,3,4,0.75,0.6,1,2,0.5,0,4,4,3,2,5,2,2,13,13.6,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+19,118,19,2019-01-24,Washington,@,Oregon,REG (Conf),W 61-56,*,36,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,1,4,5,7,3,1,4,4,2,4.1,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+20,119,20,2019-01-26,Washington,@,Oregon State,REG (Conf),W 79-69,*,23,4,6,0.667,0,2,0.0,4,4,1.0,0.667,3,4,0.75,2,1,3,3,5,0,3,3,11,12.6,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+21,120,21,2019-01-30,Washington,,Southern California,REG (Conf),W 75-62,*,34,5,10,0.5,1,4,0.25,4,6,0.667,0.55,6,7,0.857,1,5,6,2,7,2,5,2,17,17.8,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+22,121,22,2019-02-02,Washington,,UCLA,REG (Conf),W 69-55,*,35,4,8,0.5,3,5,0.6,1,3,0.333,0.688,3,5,0.6,0,4,4,3,7,1,4,0,14,16.2,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+23,122,23,2019-02-07,Washington,@,Arizona,REG (Conf),W 67-60,*,27,5,8,0.625,3,4,0.75,2,4,0.5,0.813,2,2,1.0,1,1,2,2,5,5,4,4,15,16.7,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+24,123,24,2019-02-09,Washington,@,Arizona State,REG (Conf),L 63-75,*,35,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,3,3,3,3,2,2,4,3,3.0,A,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+25,124,25,2019-02-16,Washington,@,Washington State,REG (Conf),W 72-70,*,34,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,0,,2,0,2,3,5,0,2,2,9,8.6,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+26,125,26,2019-02-20,Washington,,Utah,REG (Conf),W 62-45,*,33,4,9,0.444,2,3,0.667,2,6,0.333,0.556,0,0,,3,4,7,0,6,4,1,2,10,15.6,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+27,126,27,2019-02-23,Washington,,Colorado,REG (Conf),W 64-55,*,25,7,13,0.538,2,4,0.5,5,9,0.556,0.615,1,2,0.5,2,1,3,1,6,5,0,5,17,20.2,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+28,127,28,2019-02-28,Washington,@,California,REG (Conf),L 73-76,*,38,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,2,2,4,7,1,3,1,2,4,9.1,A,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+29,128,29,2019-03-03,Washington,@,Stanford,REG (Conf),W 62-61,*,36,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,0,,1,1,2,1,4,2,3,2,8,5.9,A,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+30,129,30,2019-03-06,Washington,,Oregon State,REG (Conf),W 81-76 (OT),*,36,3,6,0.5,2,5,0.4,1,1,1.0,0.667,1,2,0.5,1,0,1,2,4,2,0,1,9,12.7,H,1,1,matisse-thybulle-1,Matisse Thybulle,2019
+31,130,31,2019-03-09,Washington,,Oregon,REG (Conf),L 47-55,*,37,2,7,0.286,2,6,0.333,0,1,0.0,0.429,0,0,,0,2,2,1,5,3,3,2,6,6.5,H,0,1,matisse-thybulle-1,Matisse Thybulle,2019
+32,131,32,2019-03-14,Washington,N,Southern California,CTOURN,W 78-75,*,34,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,1,3,4,2,5,1,1,1,4,6.5,N,1,0,matisse-thybulle-1,Matisse Thybulle,2019
+33,132,33,2019-03-15,Washington,N,Colorado,CTOURN,W 66-61,*,31,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,0,2,2,1,1,3,2,5,12,8.4,N,1,0,matisse-thybulle-1,Matisse Thybulle,2019
+34,133,34,2019-03-16,Washington,N,Oregon,CTOURN,L 48-68,*,29,2,8,0.25,0,4,0.0,2,4,0.5,0.25,0,0,,1,2,3,0,1,1,0,2,4,1.4,N,0,0,matisse-thybulle-1,Matisse Thybulle,2019
+35,134,35,2019-03-22,Washington,N,Utah State,ROUND-64,W 78-61,*,30,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,0,3,3,2,5,3,4,4,10,9.1,N,1,0,matisse-thybulle-1,Matisse Thybulle,2019
+36,135,36,2019-03-24,Washington,N,North Carolina,ROUND-32,L 59-81,*,36,1,8,0.125,0,5,0.0,1,3,0.333,0.125,0,0,,0,2,2,4,4,2,2,1,2,3.2,N,0,0,matisse-thybulle-1,Matisse Thybulle,2019

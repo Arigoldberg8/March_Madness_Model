@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Duquesne,,Cleveland State,REG (Non-Conf),W 79-77,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+2,2,2,2023-11-10,Duquesne,N,College of Charleston,REG (Non-Conf),W 90-72,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,jake-dimichele-1,Jake DiMichele,2024
+3,3,3,2023-11-13,Duquesne,,Stony Brook,REG (Non-Conf),W 85-63,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+4,4,4,2023-11-15,Duquesne,,Princeton,REG (Non-Conf),L 67-70,,3,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,1,1,3,0.6,H,0,1,jake-dimichele-1,Jake DiMichele,2024
+5,5,5,2023-11-17,Duquesne,,Rider,REG (Non-Conf),W 77-58,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+6,6,12,2023-12-30,Duquesne,,Cleary,REG (Non-Conf),W 95-47,,6,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,1,1,2,0,1,0,0,2,5,3.4,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+7,7,14,2024-01-06,Duquesne,@,Loyola Chicago,REG (Conf),L 67-72,,17,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,0,1,0,0,1,7,7.0,A,0,1,jake-dimichele-1,Jake DiMichele,2024
+8,8,15,2024-01-12,Duquesne,,Dayton,REG (Conf),L 62-72,,20,5,10,0.5,1,4,0.25,4,6,0.667,0.55,1,1,1.0,2,0,2,0,2,0,0,1,12,10.0,H,0,1,jake-dimichele-1,Jake DiMichele,2024
+9,9,16,2024-01-16,Duquesne,,Richmond,REG (Conf),L 61-63,*,27,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,2,2,4,2,0,1,1,3,3,1.4,H,0,1,jake-dimichele-1,Jake DiMichele,2024
+10,10,17,2024-01-20,Duquesne,@,Saint Joseph's,REG (Conf),L 69-71,*,33,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,3,4,1,0,1,1,4,11,6.7,A,0,1,jake-dimichele-1,Jake DiMichele,2024
+11,11,18,2024-01-23,Duquesne,,St. Bonaventure,REG (Conf),W 54-50,*,26,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,1,3,4,1,3,2,2,1,7,7.9,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+12,12,19,2024-01-27,Duquesne,,Fordham,REG (Conf),W 68-59,*,32,6,10,0.6,0,4,0.0,6,6,1.0,0.6,3,5,0.6,0,3,3,1,1,0,0,2,15,11.4,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+13,13,20,2024-01-31,Duquesne,,Chicago State,REG (Non-Conf),W 65-60,*,34,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,1,2,0,1,0,0,2,4,1.1,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+14,14,21,2024-02-03,Duquesne,@,Rhode Island,REG (Conf),W 85-71,*,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,1,1,0,0,0,1,3,6,1.4,A,1,1,jake-dimichele-1,Jake DiMichele,2024
+15,15,22,2024-02-07,Duquesne,,Davidson,REG (Conf),L 59-72,*,29,6,10,0.6,1,5,0.2,5,5,1.0,0.65,2,3,0.667,0,2,2,1,1,0,1,4,15,9.7,H,0,1,jake-dimichele-1,Jake DiMichele,2024
+16,16,23,2024-02-10,Duquesne,@,St. Bonaventure,REG (Conf),W 75-69,*,36,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,2,2,4,2,0,1,1,4,6,3.1,A,1,1,jake-dimichele-1,Jake DiMichele,2024
+17,17,24,2024-02-13,Duquesne,@,Dayton,REG (Conf),L 59-75,*,32,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,1,1,3,0,0,2,1,12,7.0,A,0,1,jake-dimichele-1,Jake DiMichele,2024
+18,18,25,2024-02-17,Duquesne,,Saint Joseph's,REG (Conf),W 66-56,*,26,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,9,9,3,0,0,2,4,5,3.5,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+19,19,26,2024-02-20,Duquesne,,Saint Louis,REG (Conf),W 81-66,*,29,5,7,0.714,1,3,0.333,4,4,1.0,0.786,0,0,,0,9,9,3,0,1,2,1,11,11.2,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+20,20,27,2024-02-23,Duquesne,@,Fordham,REG (Conf),L 67-79,*,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,1,1.0,0,1,1,2,2,0,2,5,6,2.3,A,0,1,jake-dimichele-1,Jake DiMichele,2024
+21,21,28,2024-02-28,Duquesne,,La Salle,REG (Conf),W 75-63,*,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,1,4,5,1,1,2,0,4,5,4.6,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+22,22,29,2024-03-02,Duquesne,@,George Mason,REG (Conf),W 59-51,,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,2,0.0,2,1,3,0,1,0,2,5,0,-3.5,A,1,1,jake-dimichele-1,Jake DiMichele,2024
+23,23,30,2024-03-05,Duquesne,@,VCU,REG (Conf),W 69-59,*,17,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,1,1.0,0,2,2,0,1,0,0,1,10,9.3,A,1,1,jake-dimichele-1,Jake DiMichele,2024
+24,24,31,2024-03-09,Duquesne,,George Washington,REG (Conf),W 67-65,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,1,1,0,3,3,4,0.4,H,1,1,jake-dimichele-1,Jake DiMichele,2024
+25,25,32,2024-03-13,Duquesne,N,Saint Louis,CTOURN,W 83-73,*,31,2,6,0.333,2,3,0.667,0,3,0.0,0.5,1,2,0.5,0,2,2,1,1,0,0,3,7,4.3,N,1,0,jake-dimichele-1,Jake DiMichele,2024
+26,26,33,2024-03-14,Duquesne,N,Dayton,CTOURN,W 65-57,*,32,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,4,0.5,0,2,2,1,1,1,1,0,9,6.5,N,1,0,jake-dimichele-1,Jake DiMichele,2024
+27,27,34,2024-03-16,Duquesne,N,St. Bonaventure,CTOURN,W 70-60,*,34,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,0,1,1,2,0,0,1,1,12,9.4,N,1,0,jake-dimichele-1,Jake DiMichele,2024
+28,28,35,2024-03-17,Duquesne,N,VCU,CTOURN,W 57-51,*,33,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,2,4,6,2,0,0,1,3,5,2.7,N,1,0,jake-dimichele-1,Jake DiMichele,2024
+29,29,36,2024-03-21,Duquesne,N,Brigham Young,ROUND-64,W 71-67,*,31,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,1,1,1,0,0,1,3,8,3.8,N,1,0,jake-dimichele-1,Jake DiMichele,2024
+30,30,37,2024-03-23,Duquesne,N,Illinois,ROUND-32,L 63-89,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,1,0,0,1,1,4,1.6,N,0,0,jake-dimichele-1,Jake DiMichele,2024

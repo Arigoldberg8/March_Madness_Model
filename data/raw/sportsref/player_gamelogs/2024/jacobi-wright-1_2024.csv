@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2023-11-06,South Carolina,,USC Upstate,REG (Non-Conf),W 82-53,,21,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,1,2,3,2,0,0,1,1,9,7.0,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+2,64,2,2023-11-10,South Carolina,N,Virginia Tech,REG (Non-Conf),W 79-77,,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,3,3,1.0,0,1,1,0,1,0,2,2,12,7.2,N,1,1,jacobi-wright-1,Jacobi Wright,2024
+3,65,3,2023-11-13,South Carolina,,VMI,REG (Non-Conf),W 74-64,,25,3,7,0.429,2,2,1.0,1,5,0.2,0.571,1,2,0.5,0,3,3,2,1,0,1,2,9,6.4,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+4,66,4,2023-11-17,South Carolina,N,DePaul,REG (Non-Conf),W 73-68,,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,2,1.0,0,3,3,2,0,0,2,2,6,2.8,N,1,1,jacobi-wright-1,Jacobi Wright,2024
+5,67,5,2023-11-19,South Carolina,N,Grand Canyon,REG (Non-Conf),W 75-68,,26,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,0,1,1,3,1,0,1,1,10,10.1,N,1,1,jacobi-wright-1,Jacobi Wright,2024
+6,68,6,2023-11-28,South Carolina,,Notre Dame,REG (Non-Conf),W 65-53,,26,1,5,0.2,1,2,0.5,0,3,0.0,0.3,4,4,1.0,1,0,1,2,1,0,1,1,7,5.6,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+7,69,7,2023-12-01,South Carolina,,George Washington,REG (Non-Conf),W 89-67,,20,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,1,2,3,3,0,0,0,0,5,4.6,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+8,70,8,2023-12-06,South Carolina,@,Clemson,REG (Non-Conf),L 67-72,,21,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,1,1,1,0,0,1,0,0,-3.5,A,0,1,jacobi-wright-1,Jacobi Wright,2024
+9,71,9,2023-12-09,South Carolina,@,East Carolina,REG (Non-Conf),W 68-62,,19,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,1,2,3,3,0,0,1,0,0,-0.4,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+10,72,10,2023-12-16,South Carolina,,Charleston Southern,REG (Non-Conf),W 73-69,,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,1,0,0,0,0,4,4.0,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+11,73,11,2023-12-19,South Carolina,,Winthrop,REG (Non-Conf),W 72-62,,21,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,2,2,0,0,3,7,6.9,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+12,74,12,2023-12-22,South Carolina,,Elon,REG (Non-Conf),W 70-43,*,27,4,9,0.444,0,4,0.0,4,5,0.8,0.444,2,2,1.0,0,3,3,3,2,1,1,2,10,9.2,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+13,75,13,2023-12-30,South Carolina,,Florida A&M,REG (Non-Conf),W 94-62,,18,1,8,0.125,0,5,0.0,1,3,0.333,0.125,3,5,0.6,0,0,0,2,1,0,1,1,5,0.0,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+14,76,14,2024-01-06,South Carolina,,Mississippi State,REG (Conf),W 68-62,,11,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,1,0,0,0,0,3,1.6,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+15,77,15,2024-01-09,South Carolina,@,Alabama,REG (Conf),L 47-74,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,2,2,-0.5,A,0,1,jacobi-wright-1,Jacobi Wright,2024
+16,78,16,2024-01-13,South Carolina,@,Missouri,REG (Conf),W 71-69 (OT),,29,3,8,0.375,1,2,0.5,2,6,0.333,0.438,4,4,1.0,0,3,3,0,0,0,1,3,11,5.3,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+17,79,17,2024-01-16,South Carolina,,Georgia,REG (Conf),L 69-74,,27,3,8,0.375,0,4,0.0,3,4,0.75,0.375,1,2,0.5,0,1,1,0,0,0,2,2,7,-0.3,H,0,1,jacobi-wright-1,Jacobi Wright,2024
+18,80,18,2024-01-20,South Carolina,@,Arkansas,REG (Conf),W 77-64,,26,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,0,0,5,0,0,0,3,5,3.2,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+19,81,19,2024-01-23,South Carolina,,Kentucky,REG (Conf),W 79-62,,27,4,8,0.5,4,6,0.667,0,2,0.0,0.75,2,4,0.5,0,2,2,1,1,0,0,1,14,11.1,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+20,82,20,2024-01-27,South Carolina,,Missouri,REG (Conf),W 72-64,,26,3,5,0.6,2,4,0.5,1,1,1.0,0.8,3,4,0.75,0,4,4,3,1,0,0,2,11,11.8,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+21,83,21,2024-01-30,South Carolina,@,Tennessee,REG (Conf),W 63-59,,27,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,1,2,3,1,0,0,0,3,3,1.4,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+22,84,22,2024-02-03,South Carolina,@,Georgia,REG (Conf),W 72-62,,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,4,0,0,0,0,2,3.7,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+23,85,23,2024-02-06,South Carolina,,Ole Miss,REG (Conf),W 68-65,,16,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,0,1,1,0,0,0,1,3,2.3,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+24,86,24,2024-02-10,South Carolina,,Vanderbilt,REG (Conf),W 75-60,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,0,0,3,0,0,0,1,3,3.0,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+25,87,25,2024-02-14,South Carolina,@,Auburn,REG (Conf),L 61-101,,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,2,0.0,1,0,1,1,0,0,0,3,0,-2.7,A,0,1,jacobi-wright-1,Jacobi Wright,2024
+26,88,26,2024-02-17,South Carolina,,Louisiana State,REG (Conf),L 63-64,,22,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,1,1,0,1,0,0,1,8,5.2,H,0,1,jacobi-wright-1,Jacobi Wright,2024
+27,89,27,2024-02-24,South Carolina,@,Ole Miss,REG (Conf),W 72-59,,26,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,1,1,2,3,1,0,1,4,10,8.2,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+28,90,28,2024-02-28,South Carolina,@,Texas A&M,REG (Conf),W 70-68,,22,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,1,0,0,0,1,3,2.2,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+29,91,29,2024-03-02,South Carolina,,Florida,REG (Conf),W 82-76,,26,5,12,0.417,4,8,0.5,1,4,0.25,0.583,2,5,0.4,1,1,2,0,0,0,0,1,16,9.0,H,1,1,jacobi-wright-1,Jacobi Wright,2024
+30,92,30,2024-03-06,South Carolina,,Tennessee,REG (Conf),L 59-66,,29,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,4,4,3,1,1,2,0,1,1.5,H,0,1,jacobi-wright-1,Jacobi Wright,2024
+31,93,31,2024-03-09,South Carolina,@,Mississippi State,REG (Conf),W 93-89 (OT),,18,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,1,1.0,3,0,3,2,0,0,1,3,3,0.5,A,1,1,jacobi-wright-1,Jacobi Wright,2024
+32,94,32,2024-03-14,South Carolina,N,Arkansas,CTOURN,W 80-66,,21,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,0,2,2,3,0,0,0,0,0,-0.8,N,1,0,jacobi-wright-1,Jacobi Wright,2024
+33,95,33,2024-03-15,South Carolina,N,Auburn,CTOURN,L 55-86,,24,3,7,0.429,0,0,,3,7,0.429,0.429,2,3,0.667,0,0,0,2,0,0,1,0,8,4.3,N,0,0,jacobi-wright-1,Jacobi Wright,2024
+34,96,34,2024-03-21,South Carolina,N,Oregon,ROUND-64,L 73-87,,28,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,0,1,4,1,0,1,0,5,6.5,N,0,0,jacobi-wright-1,Jacobi Wright,2024

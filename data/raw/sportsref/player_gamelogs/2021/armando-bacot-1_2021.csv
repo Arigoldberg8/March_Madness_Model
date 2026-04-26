@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2020-11-25,North Carolina,,College of Charleston,REG (Non-Conf),W 79-60,*,22,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,3,5,8,0,0,3,1,0,12,14.0,H,1,1,armando-bacot-1,Armando Bacot,2021
+2,34,2,2020-11-30,North Carolina,N,UNLV,REG (Non-Conf),W 78-51,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,4,4,1.0,2,3,5,1,0,0,3,3,12,9.6,N,1,1,armando-bacot-1,Armando Bacot,2021
+3,35,3,2020-12-01,North Carolina,N,Stanford,REG (Non-Conf),W 67-63,*,20,4,5,0.8,0,0,,4,5,0.8,0.8,2,3,0.667,2,4,6,0,0,0,4,2,10,5.5,N,1,1,armando-bacot-1,Armando Bacot,2021
+4,36,4,2020-12-02,North Carolina,N,Texas,REG (Non-Conf),L 67-69,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,4,7,0.571,6,6,12,0,0,1,1,1,10,11.8,N,0,1,armando-bacot-1,Armando Bacot,2021
+5,37,5,2020-12-08,North Carolina,@,Iowa,REG (Non-Conf),L 80-93,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,8,11,0,0,1,2,5,4,3.2,A,0,1,armando-bacot-1,Armando Bacot,2021
+6,38,6,2020-12-12,North Carolina,,North Carolina Central,REG (Non-Conf),W 73-67,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,7,10,0.7,5,6,11,0,1,1,1,2,19,20.5,H,1,1,armando-bacot-1,Armando Bacot,2021
+7,39,7,2020-12-19,North Carolina,N,Kentucky,REG (Non-Conf),W 75-63,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,4,6,0.667,5,3,8,1,0,2,0,2,14,15.3,N,1,1,armando-bacot-1,Armando Bacot,2021
+8,40,8,2020-12-22,North Carolina,@,NC State,REG (Conf),L 76-79,*,24,7,9,0.778,0,0,,7,9,0.778,0.778,2,4,0.5,3,3,6,0,0,1,3,1,16,12.0,A,0,1,armando-bacot-1,Armando Bacot,2021
+9,41,9,2020-12-30,North Carolina,@,Georgia Tech,REG (Conf),L 67-72,*,23,5,8,0.625,0,0,,5,8,0.625,0.625,4,6,0.667,0,5,5,0,2,0,3,3,14,8.9,A,0,1,armando-bacot-1,Armando Bacot,2021
+10,42,10,2021-01-02,North Carolina,,Notre Dame,REG (Conf),W 66-65,*,17,1,7,0.143,0,0,,1,7,0.143,0.143,2,4,0.5,5,5,10,1,1,0,1,2,4,3.6,H,1,1,armando-bacot-1,Armando Bacot,2021
+11,43,11,2021-01-05,North Carolina,@,Miami (FL),REG (Conf),W 67-65,*,21,1,3,0.333,0,0,,1,3,0.333,0.333,5,5,1.0,0,2,2,0,0,0,1,3,7,3.7,A,1,1,armando-bacot-1,Armando Bacot,2021
+12,44,12,2021-01-12,North Carolina,,Syracuse,REG (Conf),W 81-75,*,27,7,13,0.538,0,0,,7,13,0.538,0.538,1,3,0.333,7,5,12,2,1,0,0,2,15,15.9,H,1,1,armando-bacot-1,Armando Bacot,2021
+13,45,13,2021-01-16,North Carolina,@,Florida State,REG (Conf),L 75-82,*,17,3,6,0.5,0,0,,3,6,0.5,0.5,3,5,0.6,3,2,5,1,0,0,0,1,9,8.2,A,0,1,armando-bacot-1,Armando Bacot,2021
+14,46,14,2021-01-20,North Carolina,,Wake Forest,REG (Conf),W 80-73,*,22,8,10,0.8,0,0,,8,10,0.8,0.8,2,4,0.5,0,6,6,3,2,0,2,4,18,15.7,H,1,1,armando-bacot-1,Armando Bacot,2021
+15,47,15,2021-01-23,North Carolina,,NC State,REG (Conf),W 86-76,*,28,8,12,0.667,0,0,,8,12,0.667,0.667,1,4,0.25,2,6,8,1,2,1,0,1,17,16.8,H,1,1,armando-bacot-1,Armando Bacot,2021
+16,48,16,2021-01-26,North Carolina,@,Pittsburgh,REG (Conf),W 75-65,*,31,8,10,0.8,0,1,0.0,8,9,0.889,0.8,5,6,0.833,4,6,10,2,0,3,2,1,21,22.5,A,1,1,armando-bacot-1,Armando Bacot,2021
+17,49,17,2021-02-02,North Carolina,@,Clemson,REG (Conf),L 50-63,*,19,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,3,3,0,1,0,2,4,1,-1.8,A,0,1,armando-bacot-1,Armando Bacot,2021
+18,50,18,2021-02-06,North Carolina,@,Duke,REG (Conf),W 91-87,*,25,6,12,0.5,0,0,,6,12,0.5,0.5,4,7,0.571,2,4,6,1,2,1,1,2,16,13.0,A,1,1,armando-bacot-1,Armando Bacot,2021
+19,51,19,2021-02-13,North Carolina,@,Virginia,REG (Conf),L 48-60,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,1,3,0.333,2,8,10,2,0,1,0,3,7,7.2,A,0,1,armando-bacot-1,Armando Bacot,2021
+20,52,20,2021-02-17,North Carolina,,Northeastern,REG (Non-Conf),W 82-62,*,19,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,1,7,8,0,0,0,3,1,9,3.3,H,1,1,armando-bacot-1,Armando Bacot,2021
+21,53,21,2021-02-20,North Carolina,,Louisville,REG (Conf),W 99-54,*,18,7,8,0.875,0,0,,7,8,0.875,0.875,0,0,,2,7,9,1,1,0,0,3,14,15.2,H,1,1,armando-bacot-1,Armando Bacot,2021
+22,54,22,2021-02-24,North Carolina,,Marquette,REG (Non-Conf),L 70-83,*,13,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,2,3,5,2,0,0,0,3,3,2.7,H,0,1,armando-bacot-1,Armando Bacot,2021
+23,55,23,2021-02-27,North Carolina,,Florida State,REG (Conf),W 78-70,*,15,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,2,4,0,0,1,3,3,6,3.2,H,1,1,armando-bacot-1,Armando Bacot,2021
+24,56,24,2021-03-01,North Carolina,@,Syracuse,REG (Conf),L 70-72,*,25,7,10,0.7,0,0,,7,10,0.7,0.7,4,5,0.8,8,7,15,1,0,1,3,3,18,18.3,A,0,1,armando-bacot-1,Armando Bacot,2021
+25,57,25,2021-03-06,North Carolina,,Duke,REG (Conf),W 91-73,,26,6,10,0.6,0,0,,6,10,0.6,0.6,6,7,0.857,3,3,6,0,0,1,3,2,18,12.9,H,1,1,armando-bacot-1,Armando Bacot,2021
+26,58,26,2021-03-10,North Carolina,N,Notre Dame,CTOURN,W 101-59,*,24,7,10,0.7,0,0,,7,10,0.7,0.7,6,7,0.857,8,5,13,1,1,2,1,1,20,24.2,N,1,0,armando-bacot-1,Armando Bacot,2021
+27,59,27,2021-03-11,North Carolina,N,Virginia Tech,CTOURN,W 81-73,*,25,7,9,0.778,0,0,,7,9,0.778,0.778,3,7,0.429,6,7,13,1,1,4,0,4,17,21.1,N,1,0,armando-bacot-1,Armando Bacot,2021
+28,60,28,2021-03-12,North Carolina,N,Florida State,CTOURN,L 66-69,*,26,5,10,0.5,0,0,,5,10,0.5,0.5,2,3,0.667,4,2,6,1,2,2,0,2,12,13.3,N,0,0,armando-bacot-1,Armando Bacot,2021
+29,61,29,2021-03-19,North Carolina,N,Wisconsin,ROUND-64,L 62-85,*,24,6,9,0.667,0,0,,6,9,0.667,0.667,3,3,1.0,2,2,4,1,2,0,1,1,15,14.4,N,0,0,armando-bacot-1,Armando Bacot,2021

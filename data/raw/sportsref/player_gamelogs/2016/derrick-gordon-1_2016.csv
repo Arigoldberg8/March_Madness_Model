@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2015-11-13,Seton Hall,,Dartmouth,REG (Non-Conf),W 84-67,,30,5,7,0.714,1,2,0.5,4,5,0.8,0.786,3,7,0.429,0,3,3,5,1,2,2,2,14,13.5,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+2,102,2,2015-11-15,Seton Hall,,Wagner,REG (Non-Conf),W 69-59,,27,4,7,0.571,0,2,0.0,4,5,0.8,0.571,3,4,0.75,0,1,1,1,2,0,5,3,11,4.1,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+3,103,3,2015-11-19,Seton Hall,N,Long Beach State,REG (Non-Conf),L 77-80,,30,1,8,0.125,0,2,0.0,1,6,0.167,0.125,7,9,0.778,1,1,2,5,1,0,1,2,9,6.7,N,0,1,derrick-gordon-1,Derrick Gordon,2016
+4,104,4,2015-11-20,Seton Hall,N,Bradley,REG (Non-Conf),W 67-59,,29,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,6,0.333,0,1,1,1,2,1,2,1,9,5.0,N,1,1,derrick-gordon-1,Derrick Gordon,2016
+5,105,5,2015-11-22,Seton Hall,N,Ole Miss,REG (Non-Conf),W 75-63,*,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,5,6,0.833,2,1,3,0,1,0,1,1,9,8.6,N,1,1,derrick-gordon-1,Derrick Gordon,2016
+6,106,6,2015-11-28,Seton Hall,,Georgia,REG (Non-Conf),W 69-62,,23,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,1,1.0,1,2,3,0,1,0,2,2,8,3.8,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+7,107,7,2015-12-02,Seton Hall,@,George Washington,REG (Non-Conf),L 64-72,,26,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,2,1,3,2,1,0,0,4,4,1.7,A,0,1,derrick-gordon-1,Derrick Gordon,2016
+8,108,8,2015-12-05,Seton Hall,@,Rutgers,REG (Non-Conf),W 84-55,*,22,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,1,0.0,2,1,3,1,0,0,4,0,7,2.7,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+9,109,9,2015-12-10,Seton Hall,,Troy,REG (Non-Conf),W 78-69,,15,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,0,4,4,1,0,0,4,2,3,-3.1,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+10,110,10,2015-12-13,Seton Hall,,Saint Peter's,REG (Non-Conf),W 72-46,,19,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,1,0.0,1,0,1,1,1,0,2,2,5,2.9,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+11,111,11,2015-12-19,Seton Hall,,Wichita State,REG (Non-Conf),W 80-76 (OT),,34,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,0,2,2,3,3,0,1,3,8,7.3,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+12,112,12,2015-12-22,Seton Hall,,South Florida,REG (Non-Conf),W 66-49,,21,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,3,1,4,3,0,0,2,1,8,5.4,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+13,113,13,2015-12-30,Seton Hall,@,Marquette,REG (Conf),W 83-63,,26,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,2,4,6,0,2,0,1,3,7,7.1,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+14,114,14,2016-01-02,Seton Hall,,DePaul,REG (Conf),W 78-74,,24,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,7,0.571,1,3,4,3,0,0,2,2,10,5.3,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+15,115,15,2016-01-06,Seton Hall,@,Villanova,REG (Conf),L 63-72,,24,4,13,0.308,0,1,0.0,4,12,0.333,0.308,0,0,,5,5,10,3,2,0,2,2,8,6.8,A,0,1,derrick-gordon-1,Derrick Gordon,2016
+16,116,16,2016-01-09,Seton Hall,,Creighton,REG (Conf),L 67-82,,31,6,9,0.667,0,0,,6,9,0.667,0.667,2,3,0.667,1,3,4,0,2,0,3,1,14,9.9,H,0,1,derrick-gordon-1,Derrick Gordon,2016
+17,117,17,2016-01-16,Seton Hall,@,Providence,REG (Conf),W 81-72,*,29,5,12,0.417,1,2,0.5,4,10,0.4,0.458,4,4,1.0,0,7,7,1,0,0,2,1,15,9.0,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+18,118,18,2016-01-20,Seton Hall,,Villanova,REG (Conf),L 71-72,,24,2,6,0.333,0,0,,2,6,0.333,0.333,3,4,0.75,1,2,3,3,1,0,1,3,7,5.4,H,0,1,derrick-gordon-1,Derrick Gordon,2016
+19,119,19,2016-01-23,Seton Hall,@,Xavier,REG (Conf),L 76-84,,25,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,4,0.5,3,3,6,4,0,0,4,3,6,1.0,A,0,1,derrick-gordon-1,Derrick Gordon,2016
+20,120,20,2016-01-27,Seton Hall,,St. John's (NY),REG (Conf),W 79-60,,21,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,0,,0,4,4,4,0,1,3,2,8,2.8,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+21,121,21,2016-01-30,Seton Hall,@,Creighton,REG (Conf),W 75-65,,16,0,8,0.0,0,3,0.0,0,5,0.0,0.0,4,4,1.0,2,1,3,0,1,0,1,3,4,-1.1,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+22,122,22,2016-02-03,Seton Hall,,Marquette,REG (Conf),W 79-62,,23,5,8,0.625,1,2,0.5,4,6,0.667,0.688,2,4,0.5,0,2,2,3,0,0,0,0,13,11.3,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+23,123,23,2016-02-06,Seton Hall,,Georgetown,REG (Conf),W 69-61,,30,5,13,0.385,1,2,0.5,4,11,0.364,0.423,1,3,0.333,4,0,4,3,3,0,1,5,12,9.0,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+24,124,24,2016-02-10,Seton Hall,,Butler,REG (Conf),L 75-81,,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,2,0.0,0,2,2,2,3,0,2,1,4,3.1,H,0,1,derrick-gordon-1,Derrick Gordon,2016
+25,125,25,2016-02-17,Seton Hall,@,Georgetown,REG (Conf),W 72-64,,18,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,1,1,2,2,0.9,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+26,126,26,2016-02-21,Seton Hall,@,St. John's (NY),REG (Conf),W 62-61,,21,3,7,0.429,0,0,,3,7,0.429,0.429,4,9,0.444,1,2,3,0,1,0,1,1,10,5.2,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+27,127,27,2016-02-25,Seton Hall,,Providence,REG (Conf),W 70-52,,20,1,10,0.1,0,2,0.0,1,8,0.125,0.1,0,0,,0,2,2,1,0,0,1,1,2,-4.7,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+28,128,28,2016-02-28,Seton Hall,,Xavier,REG (Conf),W 90-81,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,4,6,0.667,1,5,6,2,1,0,3,1,8,6.4,H,1,1,derrick-gordon-1,Derrick Gordon,2016
+29,129,29,2016-03-02,Seton Hall,@,Butler,REG (Conf),L 78-85,,16,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,0,0,0,1,0,0,2,4,0.1,A,0,1,derrick-gordon-1,Derrick Gordon,2016
+30,130,30,2016-03-05,Seton Hall,@,DePaul,REG (Conf),W 80-66,,13,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,1,0,0,0,2,6,4.9,A,1,1,derrick-gordon-1,Derrick Gordon,2016
+31,131,31,2016-03-10,Seton Hall,N,Creighton,CTOURN,W 81-73,,26,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,2,0.0,1,1,2,1,0,0,3,2,7,1.8,N,1,0,derrick-gordon-1,Derrick Gordon,2016
+32,132,32,2016-03-11,Seton Hall,N,Xavier,CTOURN,W 87-83,,21,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,4,0.5,2,2,4,1,3,2,4,3,10,7.1,N,1,0,derrick-gordon-1,Derrick Gordon,2016
+33,133,33,2016-03-12,Seton Hall,N,Villanova,CTOURN,W 69-67,,25,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,3,3,0,0,1,1,3,10,6.8,N,1,0,derrick-gordon-1,Derrick Gordon,2016
+34,134,34,2016-03-17,Seton Hall,N,Gonzaga,ROUND-64,L 52-68,,23,4,10,0.4,1,3,0.333,3,7,0.429,0.45,1,3,0.333,2,2,4,0,2,0,1,1,10,6.4,N,0,0,derrick-gordon-1,Derrick Gordon,2016

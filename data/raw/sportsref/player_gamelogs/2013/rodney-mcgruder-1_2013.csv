@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2012-11-09,Kansas State,,North Dakota,REG (Non-Conf),W 85-52,*,28,3,12,0.25,0,4,0.0,3,8,0.375,0.25,0,2,0.0,2,3,5,3,0,0,2,1,6,0.0,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+2,102,2,2012-11-12,Kansas State,,Lamar,REG (Non-Conf),W 79-55,*,24,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,1,1,3,1,1,0,1,9,8.0,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+3,103,3,2012-11-13,Kansas State,N,Ala.-Huntsville,REG (Non-Conf),W 87-26,*,20,3,6,0.5,0,2,0.0,3,4,0.75,0.5,5,6,0.833,2,4,6,2,1,0,0,0,11,12.6,N,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+4,104,4,2012-11-18,Kansas State,,North Florida,REG (Non-Conf),W 74-55,*,24,7,13,0.538,1,4,0.25,6,9,0.667,0.577,1,1,1.0,1,2,3,0,0,2,2,1,16,10.0,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+5,105,5,2012-11-21,Kansas State,N,Delaware,REG (Non-Conf),W 66-63,,25,4,14,0.286,0,1,0.0,4,13,0.308,0.286,0,0,,4,1,5,2,3,0,1,1,8,5.9,N,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+6,106,6,2012-11-23,Kansas State,N,Michigan,REG (Non-Conf),L 57-71,*,32,6,14,0.429,1,3,0.333,5,11,0.455,0.464,3,3,1.0,3,4,7,2,1,0,1,1,16,12.9,N,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+7,107,7,2012-12-02,Kansas State,,USC Upstate,REG (Non-Conf),W 72-53,*,28,8,16,0.5,1,3,0.333,7,13,0.538,0.531,5,5,1.0,4,3,7,3,0,1,1,1,22,19.1,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+8,108,8,2012-12-08,Kansas State,@,George Washington,REG (Non-Conf),W 65-62,*,39,6,18,0.333,3,6,0.5,3,12,0.25,0.417,0,0,,6,5,11,1,1,0,0,1,15,11.8,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+9,109,9,2012-12-15,Kansas State,N,Gonzaga,REG (Non-Conf),L 52-68,*,24,1,9,0.111,0,3,0.0,1,6,0.167,0.111,2,2,1.0,1,4,5,1,0,1,5,0,4,-3.6,N,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+10,110,10,2012-12-18,Kansas State,,Texas Southern,REG (Non-Conf),W 78-69,*,34,12,17,0.706,0,1,0.0,12,16,0.75,0.706,2,4,0.5,1,1,2,3,1,0,2,0,26,20.2,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+11,111,11,2012-12-22,Kansas State,N,Florida,REG (Non-Conf),W 67-61,*,38,4,12,0.333,0,2,0.0,4,10,0.4,0.333,5,6,0.833,2,4,6,3,2,0,1,2,13,10.7,N,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+12,112,12,2012-12-29,Kansas State,,Kansas City,REG (Non-Conf),W 52-44,*,39,7,17,0.412,1,4,0.25,6,13,0.462,0.441,2,4,0.5,1,4,5,2,4,1,2,1,17,12.7,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+13,113,13,2012-12-31,Kansas State,,South Dakota,REG (Non-Conf),W 70-50,*,36,6,16,0.375,3,7,0.429,3,9,0.333,0.469,0,0,,2,7,9,3,2,0,3,1,15,10.4,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+14,114,14,2013-01-05,Kansas State,,Oklahoma State,REG (Conf),W 73-67,*,37,11,19,0.579,5,9,0.556,6,10,0.6,0.711,1,2,0.5,2,3,5,2,2,0,1,3,28,22.2,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+15,115,15,2013-01-12,Kansas State,@,West Virginia,REG (Conf),W 65-64,*,35,7,16,0.438,3,7,0.429,4,9,0.444,0.531,0,0,,3,3,6,0,0,0,3,2,17,7.8,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+16,116,16,2013-01-16,Kansas State,@,TCU,REG (Conf),W 67-54,*,32,9,15,0.6,3,6,0.5,6,9,0.667,0.7,0,2,0.0,2,3,5,3,1,0,0,2,21,17.9,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+17,117,17,2013-01-19,Kansas State,,Oklahoma,REG (Conf),W 69-60,*,40,6,12,0.5,4,9,0.444,2,3,0.667,0.667,4,4,1.0,1,0,1,3,1,0,1,0,20,16.8,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+18,118,18,2013-01-22,Kansas State,,Kansas,REG (Conf),L 55-59,*,38,4,12,0.333,3,9,0.333,1,3,0.333,0.458,2,2,1.0,1,2,3,0,0,0,2,1,13,5.1,H,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+19,119,19,2013-01-26,Kansas State,@,Iowa State,REG (Conf),L 67-73,*,40,6,11,0.545,1,3,0.333,5,8,0.625,0.591,0,3,0.0,4,3,7,1,0,0,4,2,13,6.1,A,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+20,120,20,2013-01-30,Kansas State,,Texas,REG (Conf),W 83-57,*,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,3,1.0,1,0,1,1,0,0,0,3,7,4.5,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+21,121,21,2013-02-02,Kansas State,@,Oklahoma,REG (Conf),W 52-50,*,27,2,8,0.25,1,2,0.5,1,6,0.167,0.313,2,2,1.0,1,8,9,1,1,0,2,2,7,4.2,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+22,122,22,2013-02-05,Kansas State,@,Texas Tech,REG (Conf),W 68-59,*,34,6,11,0.545,1,2,0.5,5,9,0.556,0.591,5,7,0.714,5,4,9,1,0,0,1,2,18,15.5,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+23,123,23,2013-02-09,Kansas State,,Iowa State,REG (Conf),W 79-70,*,39,7,13,0.538,3,4,0.75,4,9,0.444,0.654,5,6,0.833,1,2,3,5,4,0,3,2,22,20.3,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+24,124,24,2013-02-11,Kansas State,@,Kansas,REG (Conf),L 62-83,*,38,7,14,0.5,1,3,0.333,6,11,0.545,0.536,5,7,0.714,1,5,6,4,4,1,4,0,20,17.9,A,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+25,125,25,2013-02-16,Kansas State,,Baylor,REG (Conf),W 81-61,*,28,4,10,0.4,0,3,0.0,4,7,0.571,0.4,2,2,1.0,1,4,5,1,1,0,1,3,10,6.0,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+26,126,26,2013-02-18,Kansas State,,West Virginia,REG (Conf),W 71-61,*,35,3,10,0.3,1,5,0.2,2,5,0.4,0.35,3,5,0.6,2,3,5,1,1,0,0,2,10,6.6,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+27,127,27,2013-02-23,Kansas State,@,Texas,REG (Conf),W 81-69,*,36,7,13,0.538,1,3,0.333,6,10,0.6,0.577,5,5,1.0,2,4,6,0,2,0,1,3,20,16.1,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+28,128,28,2013-02-25,Kansas State,,Texas Tech,REG (Conf),W 75-55,*,37,3,8,0.375,0,2,0.0,3,6,0.5,0.375,4,4,1.0,4,3,7,4,1,0,3,2,10,9.3,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+29,129,29,2013-03-02,Kansas State,@,Baylor,REG (Conf),W 64-61,*,39,7,15,0.467,1,5,0.2,6,10,0.6,0.5,3,5,0.6,0,3,3,4,3,0,1,4,18,13.6,A,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+30,130,30,2013-03-05,Kansas State,,TCU,REG (Conf),W 79-68,*,39,6,16,0.375,1,8,0.125,5,8,0.625,0.406,0,0,,0,4,4,5,1,0,1,0,13,8.9,H,1,1,rodney-mcgruder-1,Rodney McGruder,2013
+31,131,31,2013-03-09,Kansas State,@,Oklahoma State,REG (Conf),L 70-76,*,39,6,15,0.4,3,7,0.429,3,8,0.375,0.5,7,8,0.875,1,3,4,1,1,0,3,3,22,12.6,A,0,1,rodney-mcgruder-1,Rodney McGruder,2013
+32,132,32,2013-03-14,Kansas State,N,Texas,CTOURN,W 66-49,*,36,10,20,0.5,4,8,0.5,6,12,0.5,0.6,0,1,0.0,5,2,7,1,1,0,1,0,24,18.4,N,1,0,rodney-mcgruder-1,Rodney McGruder,2013
+33,133,33,2013-03-15,Kansas State,N,Oklahoma State,CTOURN,W 68-57,*,38,8,14,0.571,1,3,0.333,7,11,0.636,0.607,8,9,0.889,3,6,9,3,0,1,4,2,25,19.9,N,1,0,rodney-mcgruder-1,Rodney McGruder,2013
+34,134,34,2013-03-16,Kansas State,N,Kansas,CTOURN,L 54-70,*,38,7,15,0.467,2,3,0.667,5,12,0.417,0.533,2,4,0.5,3,2,5,0,2,0,1,3,18,12.0,N,0,0,rodney-mcgruder-1,Rodney McGruder,2013
+35,135,35,2013-03-22,Kansas State,N,La Salle,ROUND-64,L 61-63,*,40,5,17,0.294,1,5,0.2,4,12,0.333,0.324,2,3,0.667,2,4,6,2,2,1,1,2,13,7.6,N,0,0,rodney-mcgruder-1,Rodney McGruder,2013

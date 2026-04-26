@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,79,1,2015-11-13,Holy Cross,@,Marist,REG (Non-Conf),W 67-64,*,27,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,1,2,0,0,0,0,3,11,6.1,A,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+2,80,2,2015-11-16,Holy Cross,@,Brown,REG (Non-Conf),L 55-71,*,34,6,11,0.545,2,5,0.4,4,6,0.667,0.636,4,4,1.0,1,2,3,1,1,0,2,3,18,12.5,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+3,81,3,2015-11-19,Holy Cross,,New Hampshire,REG (Non-Conf),L 69-73,*,33,2,10,0.2,1,7,0.143,1,3,0.333,0.25,1,1,1.0,1,3,4,3,0,0,1,2,6,1.7,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+4,82,4,2015-11-22,Holy Cross,@,Quinnipiac,REG (Non-Conf),L 56-62,*,28,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,2,2,1,0,0,1,1,9,5.5,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+5,83,5,2015-11-25,Holy Cross,,Sacred Heart,REG (Non-Conf),W 69-60,*,25,3,10,0.3,1,5,0.2,2,5,0.4,0.35,3,3,1.0,0,1,1,1,0,0,0,0,10,5.2,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+6,84,6,2015-11-29,Holy Cross,,Harvard,REG (Non-Conf),W 50-49,*,30,3,10,0.3,0,0,,3,10,0.3,0.3,0,0,,1,5,6,2,2,0,2,0,6,3.8,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+7,85,7,2015-12-02,Holy Cross,@,Rhode Island,REG (Non-Conf),L 56-74,*,27,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,0,2,2,0,0,0,2,1,9,3.1,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+8,86,8,2015-12-05,Holy Cross,,Albany (NY),REG (Non-Conf),L 84-88 (OT),*,39,4,9,0.444,1,2,0.5,3,7,0.429,0.5,2,2,1.0,0,0,0,3,2,0,0,3,11,9.2,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+9,87,9,2015-12-09,Holy Cross,@,Kansas,REG (Non-Conf),L 59-92,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,0,0,1,0,0,2,0,4,0.3,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+10,88,10,2015-12-12,Holy Cross,@,Hartford,REG (Non-Conf),W 90-68,*,29,4,9,0.444,3,3,1.0,1,6,0.167,0.611,1,2,0.5,0,2,2,3,0,0,3,1,12,6.2,A,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+11,89,11,2015-12-21,Holy Cross,,Maine,REG (Non-Conf),W 76-75,*,35,5,8,0.625,1,1,1.0,4,7,0.571,0.688,2,4,0.5,0,3,3,4,3,0,4,1,13,10.9,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+12,90,12,2015-12-30,Holy Cross,,Boston University,REG (Conf),W 80-64,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,1,1,1.0,0,3,3,2,0,0,1,4,11,7.8,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+13,91,13,2016-01-02,Holy Cross,@,Navy,REG (Conf),L 60-65,*,22,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,0,1,2,0,1,1,4,0,-2.6,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+14,92,14,2016-01-06,Holy Cross,,Colgate,REG (Conf),W 65-63,*,35,7,9,0.778,2,3,0.667,5,6,0.833,0.889,4,5,0.8,0,4,4,4,0,0,0,0,20,20.1,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+15,93,15,2016-01-09,Holy Cross,@,Bucknell,REG (Conf),L 71-98,*,27,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,2,3,1,0,0,2,3,5,0.0,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+16,94,16,2016-01-13,Holy Cross,@,Lafayette,REG (Conf),L 52-65,*,36,4,9,0.444,2,7,0.286,2,2,1.0,0.556,0,0,,0,5,5,0,1,0,1,1,10,6.4,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+17,95,17,2016-01-16,Holy Cross,,Lehigh,REG (Conf),L 66-87,*,26,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,2,2,0,0,1,2,2.2,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+18,96,18,2016-01-20,Holy Cross,,Army,REG (Conf),W 69-65,*,30,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,1,2,3,0,1,0,3,2,4,-0.6,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+19,97,19,2016-01-24,Holy Cross,@,Colgate,REG (Conf),L 61-76,*,29,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,2,2,3,0,0,2,1,8,5.3,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+20,98,20,2016-01-27,Holy Cross,,Loyola (MD),REG (Conf),L 54-71,*,36,3,8,0.375,1,3,0.333,2,5,0.4,0.438,1,1,1.0,3,3,6,3,0,0,3,2,8,4.9,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+21,99,21,2016-01-30,Holy Cross,,Navy,REG (Conf),W 87-80 (OT),*,43,9,13,0.692,2,4,0.5,7,9,0.778,0.769,4,6,0.667,0,1,1,2,2,0,1,4,24,18.8,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+22,100,22,2016-02-01,Holy Cross,@,American,REG (Conf),L 45-58,*,35,6,11,0.545,2,2,1.0,4,9,0.444,0.636,4,5,0.8,1,2,3,1,0,0,1,0,18,13.3,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+23,101,23,2016-02-06,Holy Cross,,Bucknell,REG (Conf),L 52-77,*,28,2,11,0.182,0,3,0.0,2,8,0.25,0.182,0,0,,3,2,5,3,0,0,1,0,4,0.9,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+24,102,24,2016-02-10,Holy Cross,,Lafayette,REG (Conf),W 67-53,*,31,4,15,0.267,1,5,0.2,3,10,0.3,0.3,1,2,0.5,1,0,1,4,2,0,0,0,10,6.2,H,1,1,cullen-hamilton-1,Cullen Hamilton,2016
+25,103,25,2016-02-15,Holy Cross,@,Lehigh,REG (Conf),L 59-64,*,29,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,0,,0,4,4,5,1,0,1,1,2,1.1,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+26,104,26,2016-02-17,Holy Cross,@,Army,REG (Conf),L 68-72,*,30,7,12,0.583,1,4,0.25,6,8,0.75,0.625,2,2,1.0,0,2,2,2,3,0,0,3,17,15.2,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+27,105,27,2016-02-21,Holy Cross,,American,REG (Conf),L 70-71 (OT),*,26,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,1,1,0,0,0,1,5,2,-4.5,H,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+28,106,28,2016-02-24,Holy Cross,@,Loyola (MD),REG (Conf),L 63-78,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,4,5,0.8,0,1,1,2,0,0,0,1,13,9.2,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+29,107,29,2016-02-27,Holy Cross,@,Boston University,REG (Conf),L 68-83,*,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,6,0.667,0,2,2,1,1,0,1,2,12,7.0,A,0,1,cullen-hamilton-1,Cullen Hamilton,2016
+30,108,30,2016-03-01,Holy Cross,@,Loyola (MD),CTOURN,W 72-67,*,16,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,0,0,2,1,0,0,1,0,-1.5,A,1,0,cullen-hamilton-1,Cullen Hamilton,2016
+31,109,31,2016-03-03,Holy Cross,@,Bucknell,CTOURN,W 77-72 (2OT),*,14,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,0,1,0,1,0,0,0,2,-0.1,A,1,0,cullen-hamilton-1,Cullen Hamilton,2016
+32,110,32,2016-03-06,Holy Cross,@,Army,CTOURN,W 60-38,*,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,2,2,2,-1.1,A,1,0,cullen-hamilton-1,Cullen Hamilton,2016
+33,111,33,2016-03-09,Holy Cross,N,Lehigh,CTOURN,W 59-56,*,10,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,1,0,0,1,1,3,0.2,N,1,0,cullen-hamilton-1,Cullen Hamilton,2016
+34,112,34,2016-03-16,Holy Cross,N,Southern,FIRST-FOUR,W 59-55,*,23,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,3,3,0,0,0,0,2,4,1.7,N,1,0,cullen-hamilton-1,Cullen Hamilton,2016
+35,113,35,2016-03-18,Holy Cross,N,Oregon,ROUND-64,L 52-91,*,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,0,0,0,0,1,0,-2.3,N,0,0,cullen-hamilton-1,Cullen Hamilton,2016

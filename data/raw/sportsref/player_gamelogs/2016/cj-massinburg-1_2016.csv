@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Buffalo,,Pitt.-Bradford,REG (Non-Conf),W 109-49,,21,6,9,0.667,2,2,1.0,4,7,0.571,0.778,5,6,0.833,1,3,4,2,2,1,1,2,19,18.6,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+2,2,2,2015-11-16,Buffalo,@,Old Dominion,REG (Non-Conf),L 58-77,,23,0,3,0.0,0,1,0.0,0,2,0.0,0.0,5,6,0.833,2,1,3,2,2,0,0,2,5,6.8,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+3,3,3,2015-11-18,Buffalo,@,Saint Joseph's,REG (Non-Conf),L 67-89,*,21,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,2,3,5,3,0,0,0,1,0,1.2,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+4,4,4,2015-11-21,Buffalo,N,North Carolina A&T,REG (Non-Conf),W 86-68,,23,5,10,0.5,3,7,0.429,2,3,0.667,0.65,4,5,0.8,1,2,3,0,1,0,2,2,17,11.1,N,1,1,cj-massinburg-1,C.J. Massinburg,2016
+5,5,5,2015-11-22,Buffalo,N,Vermont,REG (Non-Conf),W 77-71,,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,1,1,0,0,3,5,2.8,N,1,1,cj-massinburg-1,C.J. Massinburg,2016
+6,6,6,2015-11-28,Buffalo,,Canisius,REG (Non-Conf),W 98-96 (OT),,29,3,8,0.375,2,5,0.4,1,3,0.333,0.5,7,8,0.875,1,2,3,2,1,0,1,2,15,12.1,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+7,7,7,2015-12-02,Buffalo,,St. Bonaventure,REG (Non-Conf),L 58-60,,21,3,7,0.429,0,4,0.0,3,3,1.0,0.429,1,3,0.333,1,2,3,0,0,0,1,0,7,2.8,H,0,1,cj-massinburg-1,C.J. Massinburg,2016
+8,8,8,2015-12-05,Buffalo,@,Duke,REG (Non-Conf),L 59-82,,21,8,12,0.667,1,3,0.333,7,9,0.778,0.708,0,1,0.0,0,4,4,1,0,1,0,2,17,13.2,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+9,9,9,2015-12-07,Buffalo,@,Iowa State,REG (Non-Conf),L 63-84,,23,2,11,0.182,2,8,0.25,0,3,0.0,0.273,0,0,,1,3,4,1,1,0,1,1,6,1.0,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+10,10,10,2015-12-12,Buffalo,,Binghamton,REG (Non-Conf),W 80-64,,24,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,3,0.667,1,4,5,1,0,0,2,1,17,12.9,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+11,11,11,2015-12-19,Buffalo,,Montana State,REG (Non-Conf),W 80-73,,27,2,7,0.286,1,4,0.25,1,3,0.333,0.357,5,7,0.714,0,2,2,3,3,0,0,4,10,9.2,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+12,12,12,2015-12-22,Buffalo,@,VCU,REG (Non-Conf),L 69-90,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,1,2,0.5,2,1,3,4,1,0,6,2,11,5.0,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+13,13,13,2015-12-29,Buffalo,,Delaware,REG (Non-Conf),W 99-79,,26,5,10,0.5,2,5,0.4,3,5,0.6,0.6,1,2,0.5,1,2,3,5,2,1,0,2,13,14.3,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+14,14,14,2016-01-05,Buffalo,,Akron,REG (Conf),L 71-75,,22,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,5,5,2,0,0,2,1,2,-0.6,H,0,1,cj-massinburg-1,C.J. Massinburg,2016
+15,15,15,2016-01-08,Buffalo,@,Kent State,REG (Conf),W 76-67,,21,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,0,2,2,0,0,0,0,2,3,-0.4,A,1,1,cj-massinburg-1,C.J. Massinburg,2016
+16,16,16,2016-01-12,Buffalo,@,Eastern Michigan,REG (Conf),L 69-81,,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,2,2,4,1,1,0,2,4,0,-2.1,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+17,17,17,2016-01-16,Buffalo,,Central Michigan,REG (Conf),W 74-61,*,32,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,0,6,6,1,1,1,2,2,8,5.2,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+18,18,18,2016-01-19,Buffalo,@,Miami (OH),REG (Conf),W 77-60,*,32,5,12,0.417,2,5,0.4,3,7,0.429,0.5,1,2,0.5,1,3,4,1,1,0,5,1,13,4.1,A,1,1,cj-massinburg-1,C.J. Massinburg,2016
+19,19,19,2016-01-23,Buffalo,@,Western Michigan,REG (Conf),L 71-91,*,33,3,9,0.333,0,2,0.0,3,7,0.429,0.333,1,3,0.333,2,4,6,3,0,2,0,2,7,6.4,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+20,20,20,2016-01-26,Buffalo,,Ball State,REG (Conf),W 76-64,,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,1,0,1,0,0,0,0,2,6,4.2,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+21,21,21,2016-01-30,Buffalo,@,Toledo,REG (Conf),W 73-68,,24,4,9,0.444,3,5,0.6,1,4,0.25,0.611,2,2,1.0,2,2,4,3,4,0,0,3,13,15.2,A,1,1,cj-massinburg-1,C.J. Massinburg,2016
+22,22,22,2016-02-02,Buffalo,@,Northern Illinois,REG (Conf),W 90-78,,32,2,6,0.333,1,3,0.333,1,3,0.333,0.417,11,12,0.917,5,2,7,5,1,1,3,2,16,17.7,A,1,1,cj-massinburg-1,C.J. Massinburg,2016
+23,23,23,2016-02-06,Buffalo,,Eastern Michigan,REG (Conf),W 80-70,,27,3,10,0.3,2,5,0.4,1,5,0.2,0.4,4,4,1.0,0,3,3,1,2,1,3,2,12,6.7,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+24,24,24,2016-02-09,Buffalo,,Toledo,REG (Conf),L 69-71,,25,5,9,0.556,2,3,0.667,3,6,0.5,0.667,0,0,,1,1,2,4,1,0,1,2,12,10.7,H,0,1,cj-massinburg-1,C.J. Massinburg,2016
+25,25,25,2016-02-12,Buffalo,,Ohio,REG (Conf),L 75-94,,29,11,18,0.611,4,6,0.667,7,12,0.583,0.722,10,13,0.769,0,5,5,3,4,2,0,2,36,34.8,H,0,1,cj-massinburg-1,C.J. Massinburg,2016
+26,26,26,2016-02-16,Buffalo,@,Akron,REG (Conf),L 70-80,*,33,7,12,0.583,0,2,0.0,7,10,0.7,0.583,7,9,0.778,1,6,7,2,4,0,4,0,21,18.5,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+27,27,27,2016-02-20,Buffalo,,Bowling Green,REG (Conf),W 88-74,*,21,5,8,0.625,1,2,0.5,4,6,0.667,0.688,4,6,0.667,1,2,3,0,2,0,5,2,15,8.1,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+28,28,28,2016-02-23,Buffalo,,Kent State,REG (Conf),W 87-70,,27,7,10,0.7,4,5,0.8,3,5,0.6,0.9,3,6,0.5,0,2,2,2,1,1,0,1,21,18.9,H,1,1,cj-massinburg-1,C.J. Massinburg,2016
+29,29,29,2016-02-27,Buffalo,@,Ohio,REG (Conf),L 96-103 (OT),,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,6,6,1.0,3,2,5,1,0,0,1,4,8,6.4,A,0,1,cj-massinburg-1,C.J. Massinburg,2016
+30,30,30,2016-03-01,Buffalo,,Miami (OH),REG (Conf),L 59-67,,20,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,2,4,6,1,0,0,0,1,4,2.7,H,0,1,cj-massinburg-1,C.J. Massinburg,2016
+31,31,31,2016-03-04,Buffalo,@,Bowling Green,REG (Conf),W 87-83,,24,5,9,0.556,2,5,0.4,3,4,0.75,0.667,0,1,0.0,2,1,3,1,0,0,3,2,12,5.9,A,1,1,cj-massinburg-1,C.J. Massinburg,2016
+32,32,32,2016-03-10,Buffalo,N,Miami (OH),CTOURN,W 94-81,,25,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,7,0.857,1,6,7,1,0,1,2,3,10,6.9,N,1,0,cj-massinburg-1,C.J. Massinburg,2016
+33,33,33,2016-03-11,Buffalo,N,Ohio,CTOURN,W 88-74,,27,2,7,0.286,1,1,1.0,1,6,0.167,0.357,1,2,0.5,3,6,9,1,1,2,0,1,6,8.1,N,1,0,cj-massinburg-1,C.J. Massinburg,2016
+34,34,34,2016-03-12,Buffalo,N,Akron,CTOURN,W 64-61,,30,6,9,0.667,4,6,0.667,2,3,0.667,0.889,2,2,1.0,2,5,7,0,2,1,2,0,18,17.7,N,1,0,cj-massinburg-1,C.J. Massinburg,2016
+35,35,35,2016-03-17,Buffalo,N,Miami (FL),ROUND-64,L 72-79,,29,3,7,0.429,0,3,0.0,3,4,0.75,0.429,5,5,1.0,1,3,4,2,1,0,0,5,11,9.3,N,0,0,cj-massinburg-1,C.J. Massinburg,2016

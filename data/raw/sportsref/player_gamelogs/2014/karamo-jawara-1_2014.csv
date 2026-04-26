@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,4,2013-11-20,North Carolina Central,@,NC State,REG (Non-Conf),W 82-72 (OT),*,44,1,2,0.5,0,0,,1,2,0.5,0.5,10,12,0.833,1,7,8,3,1,1,2,4,12,13.2,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+2,58,5,2013-11-22,North Carolina Central,,Appalachian State,REG (Non-Conf),W 76-70 (OT),*,33,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,1,7,8,2,1,2,0,5,5,6.2,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+3,59,6,2013-11-26,North Carolina Central,,Barber-Scotia,REG (Non-Conf),W 101-46,*,22,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,1,4,5,2,0,0,0,1,7,6.5,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+4,60,7,2013-12-03,North Carolina Central,@,Old Dominion,REG (Non-Conf),W 76-69 (OT),*,31,5,8,0.625,2,3,0.667,3,5,0.6,0.75,2,3,0.667,1,3,4,3,1,0,3,4,14,10.1,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+5,61,8,2013-12-07,North Carolina Central,@,IUPUI,REG (Non-Conf),L 65-71,*,11,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,1,1,1,0,0,0,2,1,0.1,A,0,1,karamo-jawara-1,Karamo Jawara,2014
+6,62,9,2013-12-18,North Carolina Central,,Winthrop,REG (Non-Conf),W 72-66,*,35,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,3,3,6,1,0,1,1,2,7,6.2,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+7,63,10,2013-12-22,North Carolina Central,@,Wichita State,REG (Non-Conf),L 66-77,*,17,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,2,1,0,0,5,5,5.1,A,0,1,karamo-jawara-1,Karamo Jawara,2014
+8,64,11,2013-12-31,North Carolina Central,@,Maryland,REG (Non-Conf),L 56-70,*,32,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,3,3,3,0,1,0,2,6,8.0,A,0,1,karamo-jawara-1,Karamo Jawara,2014
+9,65,12,2014-01-07,North Carolina Central,,Hampton,REG (Conf),W 74-61,*,26,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,3,0.333,2,5,7,5,3,2,2,4,6,11.1,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+10,66,13,2014-01-11,North Carolina Central,@,Florida A&M,REG (Conf),L 60-63,*,38,1,7,0.143,0,2,0.0,1,5,0.2,0.143,2,2,1.0,4,9,13,2,2,0,1,0,4,7.4,A,0,1,karamo-jawara-1,Karamo Jawara,2014
+11,67,14,2014-01-13,North Carolina Central,@,Bethune-Cookman,REG (Conf),W 64-49,*,31,2,7,0.286,0,1,0.0,2,6,0.333,0.286,5,6,0.833,3,3,6,2,2,1,2,3,9,8.4,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+12,68,15,2014-01-16,North Carolina Central,,NJIT,REG (Non-Conf),W 71-55,*,31,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,4,5,4,2,1,0,2,6,10.3,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+13,69,16,2014-01-18,North Carolina Central,,Delaware State,REG (Conf),W 62-52,*,28,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,2,2,4,3,0,1,0,4,3,4.1,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+14,70,17,2014-01-22,North Carolina Central,,North Carolina A&T,REG (Conf),W 84-44,*,25,4,8,0.5,1,3,0.333,3,5,0.6,0.563,4,4,1.0,3,6,9,2,0,3,0,4,13,14.8,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+15,71,18,2014-01-25,North Carolina Central,,Coppin State,REG (Conf),W 87-63,*,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,3,4,0,1,2,1,3,2,3.5,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+16,72,19,2014-01-27,North Carolina Central,,Morgan State,REG (Conf),W 53-52,*,35,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,2,4,6,1,2,0,2,4,13,9.7,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+17,73,20,2014-02-01,North Carolina Central,@,Howard,REG (Conf),W 79-65,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,2,2,4,0,0,0,2,2,7,2.1,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+18,74,21,2014-02-03,North Carolina Central,@,Maryland Eastern Shore,REG (Conf),W 66-62,*,31,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,2,0.5,1,5,6,2,0,0,0,3,5,5.0,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+19,75,22,2014-02-08,North Carolina Central,,Bethune-Cookman,REG (Conf),W 77-54,*,34,3,5,0.6,0,1,0.0,3,4,0.75,0.6,5,5,1.0,1,4,5,1,2,1,2,3,11,10.8,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+20,76,23,2014-02-10,North Carolina Central,,Florida A&M,REG (Conf),W 92-49,*,32,3,4,0.75,1,1,1.0,2,3,0.667,0.875,7,8,0.875,1,3,4,3,5,0,0,1,14,20.3,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+21,77,24,2014-02-15,North Carolina Central,@,South Carolina State,REG (Conf),W 67-53,*,40,4,12,0.333,0,3,0.0,4,9,0.444,0.333,0,0,,2,2,4,4,0,1,1,3,8,4.5,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+22,78,25,2014-02-17,North Carolina Central,@,Savannah State,REG (Conf),W 76-62,*,31,1,2,0.5,0,0,,1,2,0.5,0.5,4,5,0.8,0,2,2,3,0,1,0,4,6,6.4,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+23,79,26,2014-02-22,North Carolina Central,@,North Carolina A&T,REG (Conf),W 73-55,*,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,2,0,1,0,5,0,-1.4,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+24,80,27,2014-02-25,North Carolina Central,@,NJIT,REG (Non-Conf),W 81-62,*,31,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,4,0.5,0,4,4,5,3,1,1,5,8,8.9,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+25,81,28,2014-03-01,North Carolina Central,,South Carolina State,REG (Conf),W 86-44,,30,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,1,1,2,0,0,1,2,8,6.0,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+26,82,29,2014-03-03,North Carolina Central,,Savannah State,REG (Conf),W 64-57 (OT),*,39,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,1,4,5,1,3,1,2,4,8,6.5,H,1,1,karamo-jawara-1,Karamo Jawara,2014
+27,83,30,2014-03-06,North Carolina Central,@,Norfolk State,REG (Conf),W 76-70,*,35,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,1,3,4,6,0,0,0,1,4,6.6,A,1,1,karamo-jawara-1,Karamo Jawara,2014
+28,84,31,2014-03-12,North Carolina Central,N,Howard,CTOURN,W 92-46,*,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,4,0,0,1,3,4,4.9,N,1,0,karamo-jawara-1,Karamo Jawara,2014
+29,85,32,2014-03-14,North Carolina Central,N,Norfolk State,CTOURN,W 68-45,*,36,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,3,3,6,7,0,1,2,3,11,12.4,N,1,0,karamo-jawara-1,Karamo Jawara,2014
+30,86,33,2014-03-15,North Carolina Central,N,Morgan State,CTOURN,W 71-62,*,30,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,4,0.75,2,4,6,3,0,0,2,4,10,8.4,N,1,0,karamo-jawara-1,Karamo Jawara,2014
+31,87,34,2014-03-21,North Carolina Central,N,Iowa State,ROUND-64,L 75-93,*,36,7,11,0.636,2,3,0.667,5,8,0.625,0.727,0,0,,0,1,1,3,0,0,0,3,16,12.3,N,0,0,karamo-jawara-1,Karamo Jawara,2014

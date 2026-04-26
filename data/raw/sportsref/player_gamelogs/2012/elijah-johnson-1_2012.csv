@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,60,1,2011-11-11,Kansas,,Towson,REG (Non-Conf),W 100-54,*,29,3,8,0.375,2,7,0.286,1,1,1.0,0.5,0,0,,0,3,3,8,3,0,0,2,8,12.3,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+2,61,2,2011-11-15,Kansas,N,Kentucky,REG (Non-Conf),L 65-75,*,32,3,11,0.273,1,4,0.25,2,7,0.286,0.318,1,2,0.5,1,0,1,4,3,0,1,4,8,5.0,N,0,1,elijah-johnson-1,Elijah Johnson,2012
+3,62,3,2011-11-21,Kansas,N,Georgetown,REG (Non-Conf),W 67-63,*,38,4,9,0.444,1,6,0.167,3,3,1.0,0.5,0,0,,0,3,3,5,1,0,2,2,9,6.9,N,1,1,elijah-johnson-1,Elijah Johnson,2012
+4,63,4,2011-11-22,Kansas,N,UCLA,REG (Non-Conf),W 72-56,*,38,8,13,0.615,4,8,0.5,4,5,0.8,0.769,3,4,0.75,1,3,4,1,2,0,3,2,23,17.2,N,1,1,elijah-johnson-1,Elijah Johnson,2012
+5,64,5,2011-11-23,Kansas,N,Duke,REG (Non-Conf),L 61-68,*,32,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,0,0,0,1,1,0,2,3,10,4.8,N,0,1,elijah-johnson-1,Elijah Johnson,2012
+6,65,6,2011-11-30,Kansas,,Florida Atlantic,REG (Non-Conf),W 77-54,*,27,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,3,4,3,1,1,7,2,0,-5.2,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+7,66,7,2011-12-03,Kansas,,South Florida,REG (Non-Conf),W 70-42,*,20,2,9,0.222,1,8,0.125,1,1,1.0,0.278,0,0,,0,4,4,3,0,0,0,0,5,2.8,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+8,67,8,2011-12-06,Kansas,,Long Beach State,REG (Non-Conf),W 88-80,*,23,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,1,1.0,0,3,3,5,1,0,4,5,6,2.0,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+9,68,9,2011-12-10,Kansas,,Ohio State,REG (Non-Conf),W 78-67,*,37,5,8,0.625,5,7,0.714,0,1,0.0,0.938,0,0,,0,2,2,1,0,0,2,0,15,10.7,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+10,69,10,2011-12-19,Kansas,N,Davidson,REG (Non-Conf),L 74-80,*,34,6,13,0.462,3,10,0.3,3,3,1.0,0.577,0,0,,0,2,2,6,0,0,1,3,15,10.9,N,0,1,elijah-johnson-1,Elijah Johnson,2012
+11,70,11,2011-12-22,Kansas,@,Southern California,REG (Non-Conf),W 63-47,*,31,6,11,0.545,2,6,0.333,4,5,0.8,0.636,0,0,,0,4,4,2,4,0,3,3,14,11.1,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+12,71,12,2011-12-29,Kansas,,Howard,REG (Non-Conf),W 89-34,*,22,4,9,0.444,1,5,0.2,3,4,0.75,0.5,0,0,,0,2,2,2,2,0,0,1,9,7.9,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+13,72,13,2011-12-31,Kansas,,North Dakota,REG (Non-Conf),W 84-58,*,33,4,12,0.333,2,10,0.2,2,2,1.0,0.417,1,2,0.5,0,0,0,7,1,0,1,1,11,8.3,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+14,73,14,2012-01-04,Kansas,,Kansas State,REG (Conf),W 67-49,*,35,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,1,7,8,5,3,0,0,2,3,7.0,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+15,74,15,2012-01-07,Kansas,@,Oklahoma,REG (Conf),W 72-61,*,29,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,4,4,5,2,0,3,4,9,7.8,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+16,75,16,2012-01-11,Kansas,@,Texas Tech,REG (Conf),W 81-46,*,27,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,3,3,2,1,0,2,1,2,0.5,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+17,76,17,2012-01-14,Kansas,,Iowa State,REG (Conf),W 82-73,*,35,4,9,0.444,3,8,0.375,1,1,1.0,0.611,1,2,0.5,0,1,1,5,2,0,3,2,12,8.9,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+18,77,18,2012-01-16,Kansas,,Baylor,REG (Conf),W 92-74,*,29,4,7,0.571,1,1,1.0,3,6,0.5,0.643,2,2,1.0,2,3,5,3,1,0,1,2,11,11.3,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+19,78,19,2012-01-21,Kansas,@,Texas,REG (Conf),W 69-66,*,35,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,0,4,4,3,3,0,3,2,9,7.5,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+20,79,20,2012-01-23,Kansas,,Texas A&M,REG (Conf),W 64-54,*,31,1,7,0.143,0,6,0.0,1,1,1.0,0.143,2,2,1.0,0,2,2,1,1,0,2,2,4,-1.0,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+21,80,21,2012-01-28,Kansas,@,Iowa State,REG (Conf),L 64-72,*,34,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,1,0.0,0,1,1,3,2,0,4,4,10,5.8,A,0,1,elijah-johnson-1,Elijah Johnson,2012
+22,81,22,2012-02-01,Kansas,,Oklahoma,REG (Conf),W 84-62,*,33,2,8,0.25,2,6,0.333,0,2,0.0,0.375,1,2,0.5,0,1,1,4,3,0,1,3,7,5.7,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+23,82,23,2012-02-04,Kansas,@,Missouri,REG (Conf),L 71-74,*,40,5,12,0.417,1,7,0.143,4,5,0.8,0.458,0,0,,1,3,4,4,1,0,0,2,11,9.2,A,0,1,elijah-johnson-1,Elijah Johnson,2012
+24,83,24,2012-02-08,Kansas,@,Baylor,REG (Conf),W 68-54,*,37,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,0,0,0,5,0,0,1,0,0,-1.7,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+25,84,25,2012-02-11,Kansas,,Oklahoma State,REG (Conf),W 81-66,*,32,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,0,4,4,5,2,0,4,2,11,8.2,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+26,85,26,2012-02-13,Kansas,@,Kansas State,REG (Conf),W 59-53,*,35,2,9,0.222,1,3,0.333,1,6,0.167,0.278,0,0,,2,3,5,5,1,0,4,5,5,0.3,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+27,86,27,2012-02-18,Kansas,,Texas Tech,REG (Conf),W 83-50,*,28,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,3,3,3,1,0,1,2,6,4.4,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+28,87,28,2012-02-22,Kansas,@,Texas A&M,REG (Conf),W 66-58,*,35,7,11,0.636,3,7,0.429,4,4,1.0,0.773,4,7,0.571,1,2,3,1,2,0,0,1,21,18.5,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+29,88,29,2012-02-25,Kansas,,Missouri,REG (Conf),W 87-86 (OT),*,29,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,2,2,8,0,0,0,4,8,9.6,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+30,89,30,2012-02-27,Kansas,@,Oklahoma State,REG (Conf),W 70-58,*,35,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,3,1.0,1,6,7,6,2,0,2,2,5,7.8,A,1,1,elijah-johnson-1,Elijah Johnson,2012
+31,90,31,2012-03-03,Kansas,,Texas,REG (Conf),W 73-63,,35,3,7,0.429,3,4,0.75,0,3,0.0,0.643,0,0,,0,6,6,2,0,0,0,4,9,6.9,H,1,1,elijah-johnson-1,Elijah Johnson,2012
+32,91,32,2012-03-08,Kansas,N,Texas A&M,CTOURN,W 83-66,*,32,8,11,0.727,5,7,0.714,3,4,0.75,0.955,5,5,1.0,1,2,3,4,2,0,1,2,26,25.8,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+33,92,33,2012-03-09,Kansas,N,Baylor,CTOURN,L 72-81,*,35,6,16,0.375,1,6,0.167,5,10,0.5,0.406,2,2,1.0,0,1,1,2,1,1,0,3,15,8.4,N,0,0,elijah-johnson-1,Elijah Johnson,2012
+34,93,34,2012-03-16,Kansas,N,Detroit Mercy,ROUND-64,W 65-50,*,26,6,8,0.75,3,4,0.75,3,4,0.75,0.938,0,3,0.0,0,4,4,2,1,0,3,3,15,10.0,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+35,94,35,2012-03-18,Kansas,N,Purdue,ROUND-32,W 63-60,*,38,7,14,0.5,3,8,0.375,4,6,0.667,0.607,1,1,1.0,0,4,4,3,2,0,1,2,18,14.5,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+36,95,36,2012-03-23,Kansas,N,NC State,ROUND-16,W 60-57,*,34,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,1,2,3,0,1,0,1,3,11,7.5,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+37,96,37,2012-03-25,Kansas,N,North Carolina,ROUND-8,W 80-67,*,35,3,11,0.273,2,5,0.4,1,6,0.167,0.364,2,3,0.667,1,3,4,5,1,0,2,2,10,6.4,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+38,97,38,2012-03-31,Kansas,N,Ohio State,NATIONAL-SEMI,W 64-62,*,28,6,9,0.667,1,3,0.333,5,6,0.833,0.722,0,0,,1,9,10,1,0,0,4,4,13,7.6,N,1,0,elijah-johnson-1,Elijah Johnson,2012
+39,98,39,2012-04-02,Kansas,N,Kentucky,NATIONAL-FINAL,L 59-67,*,36,5,13,0.385,3,7,0.429,2,6,0.333,0.5,0,0,,1,1,2,2,1,0,2,1,13,6.9,N,0,0,elijah-johnson-1,Elijah Johnson,2012

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,144,1,2021-11-09,Iowa,,Longwood,REG (Non-Conf),W 106-73,*,17,6,8,0.75,6,8,0.75,0,0,,1.125,0,0,,0,0,0,1,1,0,0,1,18,16.1,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+2,145,2,2021-11-12,Iowa,,Kansas City,REG (Non-Conf),W 89-57,*,24,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,0,2,2,1,0,0,0,2,13,9.5,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+3,146,3,2021-11-16,Iowa,,North Carolina Central,REG (Non-Conf),W 86-69,*,25,1,10,0.1,1,9,0.111,0,1,0.0,0.15,4,4,1.0,0,2,2,1,0,0,0,0,7,1.7,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+4,147,4,2021-11-18,Iowa,,Alabama State,REG (Non-Conf),W 108-82,*,22,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,0,1,1,0,1,0,0,1,12,8.9,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+5,148,5,2021-11-22,Iowa,,Western Michigan,REG (Non-Conf),W 109-61,*,19,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,0,0,3,3,0,1,1,5,4.6,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+6,149,6,2021-11-26,Iowa,,Portland State,REG (Non-Conf),W 85-51,*,25,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,3,1.0,0,0,0,1,1,0,0,0,5,4.3,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+7,150,7,2021-11-29,Iowa,@,Virginia,REG (Non-Conf),W 75-74,*,31,7,12,0.583,6,9,0.667,1,3,0.333,0.833,0,0,,0,1,1,2,0,0,0,3,20,14.9,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+8,151,8,2021-12-03,Iowa,@,Purdue,REG (Conf),L 70-77,*,22,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,1,0,0,1,2,4,0.5,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+9,152,9,2021-12-06,Iowa,,Illinois,REG (Conf),L 83-87,*,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,0,0,1,0,0,1,2,4,0.2,H,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+10,153,10,2021-12-09,Iowa,@,Iowa State,REG (Non-Conf),L 53-73,*,31,4,12,0.333,3,8,0.375,1,4,0.25,0.458,6,6,1.0,1,1,2,0,0,0,2,2,17,8.4,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+11,154,11,2021-12-18,Iowa,N,Utah State,REG (Non-Conf),W 94-75,*,21,4,7,0.571,2,5,0.4,2,2,1.0,0.714,1,1,1.0,0,1,1,2,1,0,1,3,11,8.2,N,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+12,155,12,2021-12-21,Iowa,,Southeastern Louisiana,REG (Non-Conf),W 93-62,*,22,4,8,0.5,4,8,0.5,0,0,,0.75,1,2,0.5,0,2,2,3,0,0,0,0,13,11.3,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+13,156,13,2021-12-29,Iowa,,Western Illinois,REG (Non-Conf),W 92-71,*,24,3,9,0.333,1,6,0.167,2,3,0.667,0.389,6,6,1.0,0,1,1,3,0,0,1,2,13,8.5,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+14,157,14,2022-01-03,Iowa,,Maryland,REG (Conf),W 80-75,*,27,1,5,0.2,1,4,0.25,0,1,0.0,0.3,5,6,0.833,0,1,1,1,0,0,0,2,8,4.7,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+15,158,15,2022-01-06,Iowa,@,Wisconsin,REG (Conf),L 78-87,*,29,3,6,0.5,3,6,0.5,0,0,,0.75,3,6,0.5,0,1,1,3,0,0,0,2,12,9.4,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+16,159,16,2022-01-13,Iowa,,Indiana,REG (Conf),W 83-74,*,29,2,11,0.182,1,7,0.143,1,4,0.25,0.227,6,7,0.857,0,0,0,1,1,0,0,1,11,5.0,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+17,160,17,2022-01-16,Iowa,@,Minnesota,REG (Conf),W 81-71,*,30,3,11,0.273,2,8,0.25,1,3,0.333,0.364,4,4,1.0,1,2,3,2,3,0,1,2,12,9.4,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+18,161,18,2022-01-19,Iowa,@,Rutgers,REG (Conf),L 46-48,*,28,2,11,0.182,2,10,0.2,0,1,0.0,0.273,0,0,,0,1,1,0,0,0,1,2,6,-2.4,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+19,162,19,2022-01-22,Iowa,,Penn State,REG (Conf),W 68-51,*,33,3,8,0.375,3,7,0.429,0,1,0.0,0.563,2,2,1.0,0,2,2,0,1,0,1,1,11,6.8,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+20,163,20,2022-01-27,Iowa,,Purdue,REG (Conf),L 73-83,*,30,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,2,2,1,1,0,3,1,6,1.5,H,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+21,164,21,2022-01-31,Iowa,@,Penn State,REG (Conf),L 86-90 (2OT),*,33,0,7,0.0,0,4,0.0,0,3,0.0,0.0,2,2,1.0,0,0,0,5,0,0,0,0,2,0.6,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+22,165,22,2022-02-06,Iowa,,Minnesota,REG (Conf),W 71-59,*,36,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,2,2,1,1,0,0,2,6,3.4,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+23,166,23,2022-02-10,Iowa,@,Maryland,REG (Conf),W 110-87,*,31,10,16,0.625,10,16,0.625,0,0,,0.938,0,0,,0,3,3,5,2,0,0,1,30,28.8,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+24,167,24,2022-02-13,Iowa,,Nebraska,REG (Conf),W 98-75,*,24,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,0,3,3,3,1,0,1,0,10,9.3,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+25,168,25,2022-02-17,Iowa,,Michigan,REG (Conf),L 79-84,*,30,2,5,0.4,2,5,0.4,0,0,,0.6,5,5,1.0,0,0,0,0,0,0,2,1,11,5.9,H,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+26,169,26,2022-02-19,Iowa,@,Ohio State,REG (Conf),W 75-62,*,30,3,9,0.333,2,7,0.286,1,2,0.5,0.444,2,3,0.667,1,0,1,1,1,0,0,2,10,6.1,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+27,170,27,2022-02-22,Iowa,,Michigan State,REG (Conf),W 86-60,*,23,3,7,0.429,3,7,0.429,0,0,,0.643,2,2,1.0,0,2,2,2,1,0,0,0,11,10.3,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+28,171,28,2022-02-25,Iowa,@,Nebraska,REG (Conf),W 88-78,*,33,2,7,0.286,1,5,0.2,1,2,0.5,0.357,7,8,0.875,1,3,4,4,1,0,3,0,12,9.9,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+29,172,29,2022-02-28,Iowa,,Northwestern,REG (Conf),W 82-61,*,28,5,14,0.357,4,11,0.364,1,3,0.333,0.5,4,5,0.8,1,1,2,4,1,0,1,2,18,12.8,H,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+30,173,30,2022-03-03,Iowa,@,Michigan,REG (Conf),W 82-71,*,34,5,8,0.625,5,7,0.714,0,1,0.0,0.938,4,4,1.0,0,0,0,1,1,0,3,1,19,13.7,A,1,1,jordan-bohannon-1,Jordan Bohannon,2022
+31,174,31,2022-03-06,Iowa,@,Illinois,REG (Conf),L 72-74,*,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,3,0,-2.6,A,0,1,jordan-bohannon-1,Jordan Bohannon,2022
+32,175,32,2022-03-10,Iowa,N,Northwestern,CTOURN,W 112-76,*,24,6,9,0.667,5,8,0.625,1,1,1.0,0.944,0,0,,0,0,0,3,1,0,2,1,17,13.8,N,1,0,jordan-bohannon-1,Jordan Bohannon,2022
+33,176,33,2022-03-11,Iowa,N,Rutgers,CTOURN,W 84-74,*,31,3,6,0.5,3,6,0.5,0,0,,0.75,7,8,0.875,0,1,1,1,1,0,4,2,16,9.8,N,1,0,jordan-bohannon-1,Jordan Bohannon,2022
+34,177,34,2022-03-12,Iowa,N,Indiana,CTOURN,W 80-77,*,29,4,10,0.4,4,9,0.444,0,1,0.0,0.6,0,0,,0,3,3,3,0,0,1,1,12,8.2,N,1,0,jordan-bohannon-1,Jordan Bohannon,2022
+35,178,35,2022-03-13,Iowa,N,Purdue,CTOURN,W 75-66,*,29,2,8,0.25,1,7,0.143,1,1,1.0,0.313,2,2,1.0,0,2,2,2,2,0,1,1,7,4.8,N,1,0,jordan-bohannon-1,Jordan Bohannon,2022
+36,179,36,2022-03-17,Iowa,N,Richmond,ROUND-64,L 63-67,*,33,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,0,2,2,3,1,0,1,1,6,3.5,N,0,0,jordan-bohannon-1,Jordan Bohannon,2022

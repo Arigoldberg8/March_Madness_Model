@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2020-11-25,Clemson,N,Mississippi State,REG (Non-Conf),W 53-42,,23,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,4,4,0,1,0,0,1,4,4.5,N,1,1,alex-hemenway-1,Alex Hemenway,2021
+2,17,2,2020-11-26,Clemson,N,Purdue,REG (Non-Conf),W 81-70,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,alex-hemenway-1,Alex Hemenway,2021
+3,18,3,2020-12-02,Clemson,,South Carolina State,REG (Non-Conf),W 75-38,,17,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,3,3,1,0,0,3,2,5,0.1,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+4,19,4,2020-12-09,Clemson,,Maryland,REG (Non-Conf),W 67-51,,9,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,0,0,0,0,0,1,0,8,5.7,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+5,20,5,2020-12-12,Clemson,N,Alabama,REG (Non-Conf),W 64-56,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,1,alex-hemenway-1,Alex Hemenway,2021
+6,21,6,2020-12-15,Clemson,@,Virginia Tech,REG (Conf),L 60-66,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,A,0,1,alex-hemenway-1,Alex Hemenway,2021
+7,22,7,2020-12-21,Clemson,,Morehead State,REG (Non-Conf),W 66-51,,14,1,4,0.25,1,3,0.333,0,1,0.0,0.375,6,6,1.0,0,1,1,0,1,0,1,0,9,6.9,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+8,23,8,2020-12-29,Clemson,,Florida State,REG (Conf),W 77-67,,5,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,1,3,1.6,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+9,24,9,2021-01-02,Clemson,@,Miami (FL),REG (Conf),W 66-65,*,16,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,0,0,0,0,1,0,2,8,4.9,A,1,1,alex-hemenway-1,Alex Hemenway,2021
+10,25,10,2021-01-05,Clemson,,NC State,REG (Conf),W 74-70 (OT),*,21,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,0,4,4,0,0,0,1,1,7,3.1,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+11,26,11,2021-01-16,Clemson,,Virginia,REG (Conf),L 50-85,*,16,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,0,1,0,1,1,6,3.2,H,0,1,alex-hemenway-1,Alex Hemenway,2021
+12,27,12,2021-01-20,Clemson,@,Georgia Tech,REG (Conf),L 65-83,,20,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,2,2,0,2,1,3,3.6,A,0,1,alex-hemenway-1,Alex Hemenway,2021
+13,28,13,2021-01-23,Clemson,@,Florida State,REG (Conf),L 61-80,,9,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-3.5,A,0,1,alex-hemenway-1,Alex Hemenway,2021
+14,29,14,2021-01-27,Clemson,,Louisville,REG (Conf),W 54-50,,12,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,3,3,0,1,0,1,2,1,-1.4,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+15,30,15,2021-01-30,Clemson,@,Duke,REG (Conf),L 53-79,,17,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,2,2,0,0,0,1,0,4,3.3,A,0,1,alex-hemenway-1,Alex Hemenway,2021
+16,31,16,2021-02-02,Clemson,,North Carolina,REG (Conf),W 63-50,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,1,1,0,1,3,2,-0.3,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+17,32,17,2021-02-06,Clemson,,Syracuse,REG (Conf),W 78-61,*,20,2,7,0.286,2,6,0.333,0,1,0.0,0.429,1,2,0.5,0,1,1,1,1,1,0,3,7,4.0,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+18,33,18,2021-02-12,Clemson,,Georgia Tech,REG (Conf),W 74-72,*,15,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,0,2,2,0,0,0,1,2,2,-1.3,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+19,34,19,2021-02-24,Clemson,@,Wake Forest,REG (Conf),W 60-39,,24,6,7,0.857,5,6,0.833,1,1,1.0,1.214,0,0,,0,0,0,0,0,0,0,3,17,13.3,A,1,1,alex-hemenway-1,Alex Hemenway,2021
+20,35,20,2021-02-27,Clemson,,Miami (FL),REG (Conf),W 66-58,*,24,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,2,2,2,0,0,1,3,5,2.1,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+21,36,21,2021-03-03,Clemson,@,Syracuse,REG (Conf),L 54-64,*,24,3,7,0.429,3,6,0.5,0,1,0.0,0.643,2,2,1.0,0,1,1,2,0,0,2,2,11,6.2,A,0,1,alex-hemenway-1,Alex Hemenway,2021
+22,37,22,2021-03-06,Clemson,,Pittsburgh,REG (Conf),W 77-62,*,5,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,H,1,1,alex-hemenway-1,Alex Hemenway,2021
+23,38,23,2021-03-10,Clemson,N,Miami (FL),CTOURN,L 64-67,*,24,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,1,1,2,0,0,1,0,5,3.7,N,0,0,alex-hemenway-1,Alex Hemenway,2021
+24,39,24,2021-03-19,Clemson,N,Rutgers,ROUND-64,L 56-60,*,20,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,3,1,0,1,1,3,3.3,N,0,0,alex-hemenway-1,Alex Hemenway,2021

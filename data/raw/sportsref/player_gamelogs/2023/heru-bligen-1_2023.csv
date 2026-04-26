@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,53,1,2022-11-07,Fairleigh Dickinson,@,Loyola Chicago,REG (Non-Conf),L 82-88 (OT),,31,7,9,0.778,0,0,,7,9,0.778,0.778,7,9,0.778,7,4,11,1,4,0,3,3,21,23.3,A,0,1,heru-bligen-1,Heru Bligen,2023
+2,54,2,2022-11-09,Fairleigh Dickinson,,Mercy,REG (Non-Conf),W 106-66,,24,6,11,0.545,0,0,,6,11,0.545,0.545,1,2,0.5,3,3,6,1,1,1,0,1,13,12.3,H,1,1,heru-bligen-1,Heru Bligen,2023
+3,55,3,2022-11-13,Fairleigh Dickinson,,Manhattan,REG (Non-Conf),W 77-74,*,33,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,4,3,7,1,1,0,3,3,13,9.2,H,1,1,heru-bligen-1,Heru Bligen,2023
+4,56,4,2022-11-18,Fairleigh Dickinson,N,SIU Edwardsville,REG (Non-Conf),L 78-79,*,30,2,8,0.25,0,0,,2,8,0.25,0.25,6,7,0.857,5,2,7,3,1,0,0,1,10,11.6,N,0,1,heru-bligen-1,Heru Bligen,2023
+5,57,5,2022-11-19,Fairleigh Dickinson,@,Longwood,REG (Non-Conf),L 83-99,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,2,4,0.5,0,0,0,1,1,0,0,1,14,11.3,A,0,1,heru-bligen-1,Heru Bligen,2023
+6,58,6,2022-11-20,Fairleigh Dickinson,N,VMI,REG (Non-Conf),W 93-89,*,28,6,7,0.857,0,0,,6,7,0.857,0.857,7,8,0.875,4,2,6,0,0,1,1,2,19,18.4,N,1,1,heru-bligen-1,Heru Bligen,2023
+7,59,7,2022-11-22,Fairleigh Dickinson,@,Pittsburgh,REG (Non-Conf),L 61-83,*,24,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,4,0,4,0,0,0,2,2,10,6.4,A,0,1,heru-bligen-1,Heru Bligen,2023
+8,60,8,2022-11-27,Fairleigh Dickinson,@,Saint Peter's,REG (Non-Conf),L 63-77,*,31,7,10,0.7,0,0,,7,10,0.7,0.7,2,5,0.4,2,2,4,0,1,0,1,0,16,12.6,A,0,1,heru-bligen-1,Heru Bligen,2023
+9,61,9,2022-11-30,Fairleigh Dickinson,@,Hartford,REG (Non-Conf),L 66-74,*,28,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,2,1,3,0,1,0,0,3,12,11.0,A,0,1,heru-bligen-1,Heru Bligen,2023
+10,62,19,2023-01-14,Fairleigh Dickinson,@,Central Connecticut State,REG (Conf),W 88-80,,24,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,2,3,2,1,0,1,0,6,6.0,A,1,1,heru-bligen-1,Heru Bligen,2023
+11,63,20,2023-01-16,Fairleigh Dickinson,@,Stonehill,REG (Conf),W 65-57,,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,1,1,0,0,3,4,4.2,A,1,1,heru-bligen-1,Heru Bligen,2023
+12,64,21,2023-01-20,Fairleigh Dickinson,,Sacred Heart,REG (Conf),L 85-92,,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,0,1,0,0,0,1,1,4,2.3,H,0,1,heru-bligen-1,Heru Bligen,2023
+13,65,22,2023-01-22,Fairleigh Dickinson,,Stonehill,REG (Conf),L 59-70,,11,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,2,0,2,0,1,0,1,2,4,1.5,H,0,1,heru-bligen-1,Heru Bligen,2023
+14,66,23,2023-01-26,Fairleigh Dickinson,,Saint Francis (PA),REG (Conf),W 87-82,,11,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,0,3,0,1,0,0,2,2,1.9,H,1,1,heru-bligen-1,Heru Bligen,2023
+15,67,24,2023-01-28,Fairleigh Dickinson,@,Merrimack,REG (Conf),W 78-71,,16,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,0,1,2,0,1,1,1,3,3.0,A,1,1,heru-bligen-1,Heru Bligen,2023
+16,68,25,2023-02-04,Fairleigh Dickinson,,Wagner,REG (Conf),L 79-83,,14,0,0,,0,0,,0,0,,,1,3,0.333,0,1,1,0,0,0,0,1,1,0.1,H,0,1,heru-bligen-1,Heru Bligen,2023
+17,69,26,2023-02-09,Fairleigh Dickinson,@,LIU,REG (Conf),W 80-79,,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,4,0.0,2,1,3,1,0,1,2,3,6,1.3,A,1,1,heru-bligen-1,Heru Bligen,2023
+18,70,27,2023-02-11,Fairleigh Dickinson,,Central Connecticut State,REG (Conf),L 73-77,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.1,H,0,1,heru-bligen-1,Heru Bligen,2023
+19,71,28,2023-02-16,Fairleigh Dickinson,@,Sacred Heart,REG (Conf),L 86-94 (OT),,16,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,2,3,0,0,1,1,0,7,5.6,A,0,1,heru-bligen-1,Heru Bligen,2023
+20,72,29,2023-02-18,Fairleigh Dickinson,@,Wagner,REG (Conf),W 66-48,,22,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,2,3,5,0,2,0,1,0,8,9.4,A,1,1,heru-bligen-1,Heru Bligen,2023
+21,73,30,2023-02-23,Fairleigh Dickinson,@,Saint Francis (PA),REG (Conf),L 72-82,,21,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,1,1,2,0,0,0,0,2,8,4.5,A,0,1,heru-bligen-1,Heru Bligen,2023
+22,74,31,2023-02-25,Fairleigh Dickinson,,St. Francis Brooklyn,REG (Conf),W 86-69,*,23,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,2,1,3,0,2,0,0,0,4,3.6,H,1,1,heru-bligen-1,Heru Bligen,2023
+23,75,32,2023-03-01,Fairleigh Dickinson,,St. Francis Brooklyn,CTOURN,W 83-75,,15,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,5,2,7,1,0,0,0,4,7,7.8,H,1,0,heru-bligen-1,Heru Bligen,2023
+24,76,33,2023-03-04,Fairleigh Dickinson,,Saint Francis (PA),CTOURN,W 70-50,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,3,4,1,1,0,1,1,2,2.9,H,1,0,heru-bligen-1,Heru Bligen,2023
+25,77,34,2023-03-07,Fairleigh Dickinson,@,Merrimack,CTOURN,L 66-67,,14,1,6,0.167,0,0,,1,6,0.167,0.167,0,2,0.0,0,1,1,0,0,0,0,4,2,-3.9,A,0,0,heru-bligen-1,Heru Bligen,2023
+26,78,35,2023-03-15,Fairleigh Dickinson,N,Texas Southern,FIRST-FOUR,W 84-61,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,1,2,0,-2.2,N,1,0,heru-bligen-1,Heru Bligen,2023
+27,79,36,2023-03-17,Fairleigh Dickinson,N,Purdue,ROUND-64,W 63-58,,20,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,1,1,2,0,2,0,0,1,6,4.2,N,1,0,heru-bligen-1,Heru Bligen,2023
+28,80,37,2023-03-19,Fairleigh Dickinson,N,Florida Atlantic,ROUND-32,L 70-78,,19,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,1,3,1,1,0,0,0,2,2.3,N,0,0,heru-bligen-1,Heru Bligen,2023

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,21,1,2012-11-09,VCU,,Florida Gulf Coast,REG (Non-Conf),W 80-57,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,2,4,1,0,0,1,1,0,-0.8,H,1,1,jarred-guest-1,Jarred Guest,2013
+2,22,2,2012-11-13,VCU,,Wichita State,REG (Non-Conf),L 51-53,,11,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,2,1,3,0,1,0,1,1,0,-0.8,H,0,1,jarred-guest-1,Jarred Guest,2013
+3,23,3,2012-11-17,VCU,@,Winthrop,REG (Non-Conf),W 90-54,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,3,2,-0.2,A,1,1,jarred-guest-1,Jarred Guest,2013
+4,24,4,2012-11-22,VCU,N,Memphis,REG (Non-Conf),W 78-65,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,2,3,2,-1.5,N,1,1,jarred-guest-1,Jarred Guest,2013
+5,25,5,2012-11-23,VCU,N,Duke,REG (Non-Conf),L 58-67,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,N,0,1,jarred-guest-1,Jarred Guest,2013
+6,26,7,2012-11-28,VCU,,Stetson,REG (Non-Conf),W 92-56,,16,6,7,0.857,0,0,,6,7,0.857,0.857,5,9,0.556,6,4,10,1,1,0,0,1,17,19.6,H,1,1,jarred-guest-1,Jarred Guest,2013
+7,27,8,2012-12-01,VCU,,Belmont,REG (Non-Conf),W 75-65,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,jarred-guest-1,Jarred Guest,2013
+8,28,9,2012-12-07,VCU,@,Old Dominion,REG (Non-Conf),W 83-70,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,0,0,0,0,0,1,1,1,2,-1.2,A,1,1,jarred-guest-1,Jarred Guest,2013
+9,29,10,2012-12-15,VCU,,Alabama,REG (Non-Conf),W 73-54,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,1,0,4,2,1.8,H,1,1,jarred-guest-1,Jarred Guest,2013
+10,30,11,2012-12-18,VCU,,Western Kentucky,REG (Non-Conf),W 76-44,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,4,3,7,0,2,0,2,4,4,3.4,H,1,1,jarred-guest-1,Jarred Guest,2013
+11,31,12,2012-12-21,VCU,,Longwood,REG (Non-Conf),W 93-56,,14,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,0,1,0,2,1,1,4,4,1.4,H,1,1,jarred-guest-1,Jarred Guest,2013
+12,32,13,2012-12-29,VCU,,Fairleigh Dickinson,REG (Non-Conf),W 96-67,,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,3,1,4,0,0,0,0,3,3,2.1,H,1,1,jarred-guest-1,Jarred Guest,2013
+13,33,14,2013-01-02,VCU,@,East Tennessee State,REG (Non-Conf),W 109-58,,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,2,2,4,0,1,1,1,2,4,4.2,A,1,1,jarred-guest-1,Jarred Guest,2013
+14,34,15,2013-01-05,VCU,,Lehigh,REG (Non-Conf),W 59-55,,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,1,3,0,-2.3,H,1,1,jarred-guest-1,Jarred Guest,2013
+15,35,16,2013-01-09,VCU,,Dayton,REG (Conf),W 74-62,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,0,2,2,1.5,H,1,1,jarred-guest-1,Jarred Guest,2013
+16,36,17,2013-01-12,VCU,@,St. Bonaventure,REG (Conf),W 72-65,,14,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,2,2,4,0,1,0,1,3,9,7.2,A,1,1,jarred-guest-1,Jarred Guest,2013
+17,37,18,2013-01-17,VCU,,Saint Joseph's,REG (Conf),W 92-86 (OT),,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,H,1,1,jarred-guest-1,Jarred Guest,2013
+18,38,19,2013-01-19,VCU,@,Duquesne,REG (Conf),W 90-63,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,3,6,1,1,0,1,2,2,3.9,A,1,1,jarred-guest-1,Jarred Guest,2013
+19,39,20,2013-01-24,VCU,@,Richmond,REG (Conf),L 74-86 (OT),,11,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,0,1,0,0,1,0,2,3,1.5,A,0,1,jarred-guest-1,Jarred Guest,2013
+20,40,21,2013-01-26,VCU,,La Salle,REG (Conf),L 61-69,,2,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,2,0,-0.1,H,0,1,jarred-guest-1,Jarred Guest,2013
+21,41,22,2013-01-30,VCU,@,Rhode Island,REG (Conf),W 70-64,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,0,0,0,1,4,4,1.1,A,1,1,jarred-guest-1,Jarred Guest,2013
+22,42,23,2013-02-02,VCU,,Fordham,REG (Conf),W 81-65,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,2,1,0,2,0,3.6,H,1,1,jarred-guest-1,Jarred Guest,2013
+23,43,24,2013-02-09,VCU,@,Charlotte,REG (Conf),W 68-61,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,1,2,0,-1.8,A,1,1,jarred-guest-1,Jarred Guest,2013
+24,44,25,2013-02-14,VCU,,Massachusetts,REG (Conf),W 86-68,,13,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,1,4,2,-1.3,H,1,1,jarred-guest-1,Jarred Guest,2013
+25,45,26,2013-02-16,VCU,,George Washington,REG (Conf),W 84-57,,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,1,0,0,3,2,0.4,H,1,1,jarred-guest-1,Jarred Guest,2013
+26,46,27,2013-02-19,VCU,@,Saint Louis,REG (Conf),L 62-76,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,1,3,0,0,0,1,1,2,2.0,A,0,1,jarred-guest-1,Jarred Guest,2013
+27,47,28,2013-02-23,VCU,@,Xavier,REG (Conf),W 75-71,,5,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,2,0,0.2,A,1,1,jarred-guest-1,Jarred Guest,2013
+28,48,29,2013-03-02,VCU,,Butler,REG (Conf),W 84-52,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,1,2,0,0,1,0,2.6,H,1,1,jarred-guest-1,Jarred Guest,2013
+29,49,30,2013-03-06,VCU,,Richmond,REG (Conf),W 93-82,,10,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,0,2,1,2,0,0,2,4,6.7,H,1,1,jarred-guest-1,Jarred Guest,2013
+30,50,31,2013-03-10,VCU,@,Temple,REG (Conf),L 76-84,,12,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,1,2,2,0,-1.1,A,0,1,jarred-guest-1,Jarred Guest,2013
+31,51,32,2013-03-15,VCU,N,Saint Joseph's,CTOURN,W 82-79,,12,0,0,,0,0,,0,0,,,0,0,,1,3,4,0,0,0,1,3,0,-0.6,N,1,0,jarred-guest-1,Jarred Guest,2013
+32,52,33,2013-03-16,VCU,N,Massachusetts,CTOURN,W 71-62,,14,0,0,,0,0,,0,0,,,0,0,,3,3,6,0,0,0,1,3,0,0.8,N,1,0,jarred-guest-1,Jarred Guest,2013
+33,53,34,2013-03-17,VCU,N,Saint Louis,CTOURN,L 56-62,,11,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,1,2,0,0,1,0,2,3,3.2,N,0,0,jarred-guest-1,Jarred Guest,2013
+34,54,35,2013-03-21,VCU,N,Akron,ROUND-64,W 88-42,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,3,6,0,0,0,1,2,2,2.2,N,1,0,jarred-guest-1,Jarred Guest,2013
+35,55,36,2013-03-23,VCU,N,Michigan,ROUND-32,L 53-78,,10,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,N,0,0,jarred-guest-1,Jarred Guest,2013

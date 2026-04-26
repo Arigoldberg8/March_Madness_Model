@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,1,2012-11-09,Albany (NY),,Duquesne,REG (Non-Conf),W 69-66,*,26,2,5,0.4,2,5,0.4,0,0,,0.6,2,2,1.0,0,0,0,1,0,0,0,3,8,4.8,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+2,46,2,2012-11-11,Albany (NY),@,Ohio State,REG (Non-Conf),L 60-82,*,19,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,1,1,2,1,0,0,1,1,5,1.5,A,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+3,47,3,2012-11-13,Albany (NY),@,Washington,REG (Non-Conf),W 63-62,*,11,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,3,3,0,-5.6,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+4,48,4,2012-11-17,Albany (NY),N,Kansas City,REG (Non-Conf),W 62-59,*,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,1,0,3,2,2,-2.2,N,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+5,49,5,2012-11-18,Albany (NY),N,Loyola (MD),REG (Non-Conf),L 64-67,*,10,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,1,0,1,1,0,0,0,0,3,2.7,N,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+6,50,6,2012-11-20,Albany (NY),@,South Carolina State,REG (Non-Conf),W 83-55,*,27,6,11,0.545,4,8,0.5,2,3,0.667,0.727,2,2,1.0,1,2,3,1,0,0,0,1,18,14.3,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+7,51,7,2012-11-26,Albany (NY),,Wagner,REG (Non-Conf),W 66-63,*,17,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,2,0,0,2,1,3,-0.5,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+8,52,8,2012-12-01,Albany (NY),@,Siena,REG (Non-Conf),W 69-56,*,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,1,2,0,0,0,5,6.7,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+9,53,9,2012-12-05,Albany (NY),,St. Francis Brooklyn,REG (Non-Conf),W 77-73,*,12,1,5,0.2,1,2,0.5,0,3,0.0,0.3,3,4,0.75,1,3,4,0,0,0,0,0,6,4.1,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+10,54,10,2012-12-08,Albany (NY),@,Colgate,REG (Non-Conf),W 67-61,*,24,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,2,1,3,2,1,1,2,0,0,-1.4,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+11,55,11,2012-12-12,Albany (NY),,South Carolina State,REG (Non-Conf),W 70-61,*,13,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,2,1,3,0,0,0,0,0,2,0.6,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+12,56,12,2012-12-21,Albany (NY),,Quinnipiac,REG (Non-Conf),L 57-59,*,20,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,0,0,0,0,0,0,0,1,3,-1.2,H,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+13,57,13,2012-12-28,Albany (NY),@,Navy,REG (Non-Conf),W 71-61,*,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,2,1,3,1,0,0,2,1,3,2.0,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+14,58,14,2012-12-31,Albany (NY),,Brown,REG (Non-Conf),W 57-50,*,11,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,0,1,0,0,0,0,0,3,0.6,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+15,59,15,2013-01-02,Albany (NY),,UMBC,REG (Conf),W 65-48,*,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,1,0,2,1.7,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+16,60,16,2013-01-05,Albany (NY),@,Vermont,REG (Conf),L 45-70,*,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+17,61,17,2013-01-07,Albany (NY),@,Binghamton,REG (Conf),W 71-59,,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,0,1,1,0,0,0,0,0,2,0.9,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+18,62,18,2013-01-12,Albany (NY),,Maine,REG (Conf),W 76-63,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,0,0,0,0,2,2.0,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+19,63,19,2013-01-16,Albany (NY),@,New Hampshire,REG (Conf),W 68-62,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,3,0.667,1,2,3,0,0,0,0,0,6,4.9,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+20,64,20,2013-01-19,Albany (NY),@,Hartford,REG (Conf),W 56-46,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,0,1,0,0,0,1,0,1,-1.1,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+21,65,21,2013-01-23,Albany (NY),,Boston University,REG (Conf),L 80-85 (OT),,19,4,4,1.0,3,3,1.0,1,1,1.0,1.375,0,0,,0,4,4,1,0,0,0,0,11,11.7,H,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+22,66,22,2013-01-26,Albany (NY),,Vermont,REG (Conf),L 43-50,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,1,0,0,-0.7,H,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+23,67,23,2013-01-29,Albany (NY),,Stony Brook,REG (Conf),L 49-65,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,0,1,0,-0.1,H,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+24,68,24,2013-02-02,Albany (NY),,Binghamton,REG (Conf),W 79-46,,16,6,8,0.75,5,7,0.714,1,1,1.0,1.063,1,1,1.0,0,0,0,0,0,0,1,0,18,13.8,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+25,69,25,2013-02-06,Albany (NY),@,UMBC,REG (Conf),W 79-56,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,1,1,0,2,0.3,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+26,70,26,2013-02-09,Albany (NY),@,Maine,REG (Conf),L 52-66,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-1.1,A,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+27,71,27,2013-02-16,Albany (NY),,Hartford,REG (Conf),W 75-49,,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,5,5,1,0,0,3,2,8,5.5,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+28,72,28,2013-02-20,Albany (NY),@,Boston University,REG (Conf),L 69-79,,16,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,1,1.0,1,2,3,0,0,0,0,1,6,4.2,A,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+29,73,29,2013-02-23,Albany (NY),@,Fairfield,REG (Non-Conf),W 58-50,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+30,74,30,2013-02-28,Albany (NY),,New Hampshire,REG (Conf),W 56-49,*,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.9,H,1,1,jayson-guerrier-1,Jayson Guerrier,2013
+31,75,31,2013-03-03,Albany (NY),@,Stony Brook,REG (Conf),L 70-75,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,0,1,jayson-guerrier-1,Jayson Guerrier,2013
+32,76,35,2013-03-22,Albany (NY),N,Duke,ROUND-64,L 61-73,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,jayson-guerrier-1,Jayson Guerrier,2013

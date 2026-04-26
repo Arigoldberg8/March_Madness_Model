@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,54,1,2022-11-07,Maryland,,Niagara,REG (Non-Conf),W 71-49,,16,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,2,1,3,1,5,0,1,2,2,4.8,H,1,1,ian-martinez-2,Ian Martinez,2023
+2,55,2,2022-11-10,Maryland,,Western Carolina,REG (Non-Conf),W 71-51,,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,3,3,2,0,0,1,4,6,4.4,H,1,1,ian-martinez-2,Ian Martinez,2023
+3,56,3,2022-11-15,Maryland,,Binghamton,REG (Non-Conf),W 76-52,,15,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,2,2,0,0,0,0,3,4,0.0,H,1,1,ian-martinez-2,Ian Martinez,2023
+4,57,4,2022-11-19,Maryland,N,Saint Louis,REG (Non-Conf),W 95-67,,18,6,8,0.75,2,4,0.5,4,4,1.0,0.875,0,2,0.0,3,1,4,1,1,0,0,3,14,12.9,N,1,1,ian-martinez-2,Ian Martinez,2023
+5,58,5,2022-11-20,Maryland,N,Miami (FL),REG (Non-Conf),W 88-70,,14,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,0,1,1,1,0,0,0,1,4,2.5,N,1,1,ian-martinez-2,Ian Martinez,2023
+6,59,6,2022-11-25,Maryland,,Coppin State,REG (Non-Conf),W 95-79,,16,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,1,1,2,1,1,0,1,2,7,3.1,H,1,1,ian-martinez-2,Ian Martinez,2023
+7,60,7,2022-11-29,Maryland,@,Louisville,REG (Non-Conf),W 79-54,,21,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,2,3,5,0,0,0,2,3,10,4.4,A,1,1,ian-martinez-2,Ian Martinez,2023
+8,61,8,2022-12-02,Maryland,,Illinois,REG (Conf),W 71-66,,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,5,0.8,1,1,2,0,1,2,2,1,8,6.6,H,1,1,ian-martinez-2,Ian Martinez,2023
+9,62,9,2022-12-06,Maryland,@,Wisconsin,REG (Conf),L 59-64,,13,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,0,0,0,0,2,5,4.2,A,0,1,ian-martinez-2,Ian Martinez,2023
+10,63,10,2022-12-11,Maryland,N,Tennessee,REG (Non-Conf),L 53-56,,14,0,1,0.0,0,0,,0,1,0.0,0.0,4,6,0.667,0,3,3,0,0,0,0,3,4,2.2,N,0,1,ian-martinez-2,Ian Martinez,2023
+11,64,11,2022-12-14,Maryland,,UCLA,REG (Non-Conf),L 60-87,,22,6,9,0.667,4,5,0.8,2,4,0.5,0.889,0,0,,0,4,4,1,0,0,4,2,16,9.2,H,0,1,ian-martinez-2,Ian Martinez,2023
+12,65,12,2022-12-22,Maryland,,Saint Peter's,REG (Non-Conf),W 75-45,*,21,3,4,0.75,0,1,0.0,3,3,1.0,0.75,1,2,0.5,1,2,3,1,0,1,1,0,7,6.7,H,1,1,ian-martinez-2,Ian Martinez,2023
+13,66,13,2022-12-29,Maryland,,UMBC,REG (Non-Conf),W 80-64,*,19,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,3,3,1,0,2,2,2,4,1.5,H,1,1,ian-martinez-2,Ian Martinez,2023
+14,67,14,2023-01-01,Maryland,@,Michigan,REG (Conf),L 46-81,,19,1,8,0.125,1,3,0.333,0,5,0.0,0.188,0,0,,1,0,1,0,0,0,0,1,3,-1.9,A,0,1,ian-martinez-2,Ian Martinez,2023
+15,68,15,2023-01-05,Maryland,@,Rutgers,REG (Conf),L 50-64,,21,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,3,4,7,0,1,0,2,1,5,5.2,A,0,1,ian-martinez-2,Ian Martinez,2023
+16,69,16,2023-01-08,Maryland,,Ohio State,REG (Conf),W 80-73,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,2,2,2,-0.5,H,1,1,ian-martinez-2,Ian Martinez,2023
+17,70,17,2023-01-15,Maryland,@,Iowa,REG (Conf),L 67-81,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,2,3,2,-2.9,A,0,1,ian-martinez-2,Ian Martinez,2023
+18,71,18,2023-01-19,Maryland,,Michigan,REG (Conf),W 64-58,,20,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,0,2,2,1,0,0,1,2,6,3.8,H,1,1,ian-martinez-2,Ian Martinez,2023
+19,72,19,2023-01-22,Maryland,@,Purdue,REG (Conf),L 55-58,,15,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,0,0,0,0,0,1,2,7,4.6,A,0,1,ian-martinez-2,Ian Martinez,2023
+20,73,20,2023-01-25,Maryland,,Wisconsin,REG (Conf),W 73-55,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,0,3,3,0,0,0,0,2,1,-0.7,H,1,1,ian-martinez-2,Ian Martinez,2023
+21,74,21,2023-01-28,Maryland,,Nebraska,REG (Conf),W 82-63,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,0,2,0,-1.6,H,1,1,ian-martinez-2,Ian Martinez,2023
+22,75,22,2023-01-31,Maryland,,Indiana,REG (Conf),W 66-55,,20,1,3,0.333,1,2,0.5,0,1,0.0,0.5,4,4,1.0,1,3,4,0,1,1,1,4,7,6.0,H,1,1,ian-martinez-2,Ian Martinez,2023
+23,76,23,2023-02-04,Maryland,@,Minnesota,REG (Conf),W 81-46,,18,4,9,0.444,3,6,0.5,1,3,0.333,0.611,0,0,,1,0,1,1,1,0,0,3,11,7.5,A,1,1,ian-martinez-2,Ian Martinez,2023
+24,77,24,2023-02-07,Maryland,@,Michigan State,REG (Conf),L 58-63,,30,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,6,6,2,0,0,0,2,2,2.0,A,0,1,ian-martinez-2,Ian Martinez,2023
+25,78,25,2023-02-11,Maryland,,Penn State,REG (Conf),W 74-68,,20,2,2,1.0,0,0,,2,2,1.0,1.0,4,4,1.0,0,0,0,0,0,1,0,1,8,7.7,H,1,1,ian-martinez-2,Ian Martinez,2023
+26,79,26,2023-02-16,Maryland,,Purdue,REG (Conf),W 68-54,,22,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,1,3,1,0,0,0,3,7,5.8,H,1,1,ian-martinez-2,Ian Martinez,2023
+27,80,27,2023-02-19,Maryland,@,Nebraska,REG (Conf),L 66-70 (OT),,34,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,0,4,4,2,1,1,2,5,3,-1.2,A,0,1,ian-martinez-2,Ian Martinez,2023
+28,81,28,2023-02-22,Maryland,,Minnesota,REG (Conf),W 88-70,,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,3,4,1,0,0,0,2,4,4.2,H,1,1,ian-martinez-2,Ian Martinez,2023
+29,82,29,2023-02-26,Maryland,,Northwestern,REG (Conf),W 75-59,,15,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,1,2,3,1,0,0,0,1,9,9.0,H,1,1,ian-martinez-2,Ian Martinez,2023
+30,83,30,2023-03-01,Maryland,@,Ohio State,REG (Conf),L 62-73,,22,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,0,0,1,0,0,1,3,8,3.5,A,0,1,ian-martinez-2,Ian Martinez,2023
+31,84,31,2023-03-05,Maryland,@,Penn State,REG (Conf),L 64-65,,18,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,2,2,0,0,0,3,2,11,5.9,A,0,1,ian-martinez-2,Ian Martinez,2023
+32,85,32,2023-03-09,Maryland,N,Minnesota,CTOURN,W 70-54,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,1,0,1,2,3.0,N,1,0,ian-martinez-2,Ian Martinez,2023
+33,86,33,2023-03-10,Maryland,N,Indiana,CTOURN,L 60-70,,13,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,2,2,0,0,0,0,0,2,1.9,N,0,0,ian-martinez-2,Ian Martinez,2023
+34,87,34,2023-03-16,Maryland,N,West Virginia,ROUND-64,W 67-65,,13,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,1,1,0,4,0,-0.3,N,1,0,ian-martinez-2,Ian Martinez,2023
+35,88,35,2023-03-18,Maryland,N,Alabama,ROUND-32,L 51-73,,18,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,1,1.0,1,2,3,0,0,0,2,5,7,-0.1,N,0,0,ian-martinez-2,Ian Martinez,2023

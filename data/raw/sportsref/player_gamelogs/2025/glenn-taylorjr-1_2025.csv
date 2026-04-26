@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2024-11-04,Oklahoma,,Lindenwood,REG (Non-Conf),W 93-60,,26,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,2,0.5,0,6,6,3,0,1,1,1,5,3.0,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+2,97,2,2024-11-11,Oklahoma,,Northwestern State,REG (Non-Conf),W 73-57,*,22,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,2,0.5,0,0,0,2,2,0,1,0,6,7.4,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+3,98,3,2024-11-16,Oklahoma,,Stetson,REG (Non-Conf),W 85-64,*,27,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,3,4,1,2,0,1,1,8,6.9,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+4,99,4,2024-11-21,Oklahoma,,Texas A&M–Commerce,REG (Non-Conf),W 84-56,,26,5,9,0.556,4,7,0.571,1,2,0.5,0.778,2,2,1.0,0,5,5,0,2,0,0,2,16,14.4,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+5,100,5,2024-11-27,Oklahoma,N,Providence,REG (Non-Conf),W 79-77,,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,4,0.75,0,3,3,0,1,0,0,2,3,2.3,N,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+6,101,6,2024-11-28,Oklahoma,N,Arizona,REG (Non-Conf),W 82-77,,27,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,3,4,1,0,1,3,2,7,2.5,N,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+7,102,7,2024-11-29,Oklahoma,N,Louisville,REG (Non-Conf),W 69-64,,31,4,6,0.667,1,3,0.333,3,3,1.0,0.75,3,4,0.75,1,2,3,0,1,1,1,1,12,10.6,N,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+8,103,8,2024-12-03,Oklahoma,,Georgia Tech,REG (Non-Conf),W 76-61,,28,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,1,1.0,0,4,4,1,0,0,0,1,3,1.4,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+9,104,9,2024-12-07,Oklahoma,,Alcorn State,REG (Non-Conf),W 94-78,,10,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,2,2,2,0,0,2,1,2,-0.5,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+10,105,10,2024-12-14,Oklahoma,N,Oklahoma State,REG (Non-Conf),W 80-65,,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,1,3,0,-2.9,N,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+11,106,11,2024-12-18,Oklahoma,N,Michigan,REG (Non-Conf),W 87-86,,29,3,5,0.6,2,4,0.5,1,1,1.0,0.8,1,2,0.5,1,4,5,1,3,2,0,3,9,12.1,N,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+12,107,12,2024-12-22,Oklahoma,,Central Arkansas,REG (Non-Conf),W 89-66,,18,1,4,0.25,1,2,0.5,0,2,0.0,0.375,3,4,0.75,1,0,1,3,1,0,1,1,6,5.6,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+13,108,13,2024-12-29,Oklahoma,,Prairie View A&M,REG (Non-Conf),W 89-67,,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,5,5,1.0,1,3,4,0,0,0,1,2,9,7.5,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+14,109,14,2025-01-04,Oklahoma,@,Alabama,REG (Conf),L 79-107,,18,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,0,2,0,0.5,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+15,110,15,2025-01-08,Oklahoma,,Texas A&M,REG (Conf),L 78-80,,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,5,5,2,0,0,1,2,4,3.4,H,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+16,111,16,2025-01-11,Oklahoma,@,Georgia,REG (Conf),L 62-72,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,1,0,1,0,0,0.0,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+17,112,17,2025-01-15,Oklahoma,,Texas,REG (Conf),L 73-77,,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,0,2,2,3,4,1,1,2,7,8.8,H,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+18,113,18,2025-01-18,Oklahoma,,South Carolina,REG (Conf),W 82-62,,26,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,2,1,0,0,1,2,2.6,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+19,114,19,2025-01-25,Oklahoma,@,Arkansas,REG (Conf),W 65-62,,23,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,6,6,2,0,0,0,2,8,6.7,A,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+20,115,20,2025-01-28,Oklahoma,@,Texas A&M,REG (Conf),L 68-75,,17,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,2,1,0,0,3,3,2.8,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+21,116,21,2025-02-01,Oklahoma,,Vanderbilt,REG (Conf),W 97-67,,23,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,8,8,2,0,1,1,0,7,7.5,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+22,117,22,2025-02-04,Oklahoma,@,Auburn,REG (Conf),L 70-98,,19,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,2,0,0,1,2,0,-1.9,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+23,118,23,2025-02-08,Oklahoma,,Tennessee,REG (Conf),L 52-70,,22,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,1,1,2,2,0,0,1,4,3.2,H,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+24,119,24,2025-02-12,Oklahoma,@,Missouri,REG (Conf),L 58-82,,17,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,1,2,0,1,0,0,3,1,0.7,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+25,120,25,2025-02-15,Oklahoma,,Louisiana State,REG (Conf),L 79-82,,16,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,2,2,0,0,0,0,2,1,-0.3,H,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+26,121,26,2025-02-18,Oklahoma,@,Florida,REG (Conf),L 63-85,,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+27,122,27,2025-02-22,Oklahoma,,Mississippi State,REG (Conf),W 93-87,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+28,123,28,2025-02-26,Oklahoma,,Kentucky,REG (Conf),L 82-83,,7,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,1,0,0,1,1,5,2.3,H,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+29,124,29,2025-03-01,Oklahoma,@,Ole Miss,REG (Conf),L 84-87,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+30,125,30,2025-03-05,Oklahoma,,Missouri,REG (Conf),W 96-84,,13,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,1,0,2,-0.7,H,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+31,126,31,2025-03-08,Oklahoma,@,Texas,REG (Conf),W 76-72,,18,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,0,1,1,0,0,0,0,1,10,8.0,A,1,1,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+32,127,32,2025-03-12,Oklahoma,N,Georgia,CTOURN,W 81-75,,7,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,3,3,0,0,0,1,0,2,0.2,N,1,0,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+33,128,33,2025-03-13,Oklahoma,N,Kentucky,CTOURN,L 84-85,,19,3,5,0.6,2,3,0.667,1,2,0.5,0.8,1,2,0.5,0,3,3,1,0,0,0,2,9,7.1,N,0,0,glenn-taylorjr-1,Glenn Taylor Jr.,2025
+34,129,34,2025-03-21,Oklahoma,N,Connecticut,ROUND-64,L 59-67,,9,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,0,0,0,1,3,2.9,N,0,0,glenn-taylorjr-1,Glenn Taylor Jr.,2025

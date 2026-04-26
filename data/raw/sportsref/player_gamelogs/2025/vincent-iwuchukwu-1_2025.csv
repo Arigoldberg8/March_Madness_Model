@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,46,1,2024-11-04,St. John's (NY),,Fordham,REG (Non-Conf),W 92-60,,15,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,4,4,2,1,1,0,2,6,8.2,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+2,47,2,2024-11-09,St. John's (NY),,Quinnipiac,REG (Non-Conf),W 96-73,,14,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,4,6,0,0,1,0,1,6,5.2,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+3,48,3,2024-11-13,St. John's (NY),,Wagner,REG (Non-Conf),W 66-45,*,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,1,0,2,1.3,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+4,49,5,2024-11-21,St. John's (NY),N,Baylor,REG (Non-Conf),L 98-99 (2OT),,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,0,0,0,0,2,1.6,N,0,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+5,50,6,2024-11-22,St. John's (NY),N,Virginia,REG (Non-Conf),W 80-55,,11,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,0,1,1,0,0,0,1,0,4,0.9,N,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+6,51,7,2024-11-24,St. John's (NY),N,Georgia,REG (Non-Conf),L 63-66,,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,1.3,N,0,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+7,52,8,2024-11-30,St. John's (NY),,Harvard,REG (Non-Conf),W 77-64,,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,0,0,1,0,1,2,1.9,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+8,53,9,2024-12-07,St. John's (NY),,Kansas State,REG (Non-Conf),W 88-71,,3,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,1,0,0,2,2.0,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+9,54,10,2024-12-11,St. John's (NY),,Bryant,REG (Non-Conf),W 99-77,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,0,0,1,0,1,0,0.2,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+10,55,11,2024-12-17,St. John's (NY),,DePaul,REG (Conf),W 89-61,,14,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,0,1,1,1,4,6,4.4,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+11,56,12,2024-12-20,St. John's (NY),@,Providence,REG (Conf),W 72-70,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,0,2,2,1.6,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+12,57,13,2024-12-28,St. John's (NY),,Delaware,REG (Non-Conf),W 97-76,,11,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,1,1,2,0,0,1,2,0,11,8.1,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+13,58,14,2024-12-31,St. John's (NY),@,Creighton,REG (Conf),L 56-57,,8,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,0,2,4,3.6,A,0,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+14,59,15,2025-01-04,St. John's (NY),,Butler,REG (Conf),W 70-62,,1,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+15,60,16,2025-01-07,St. John's (NY),@,Xavier,REG (Conf),W 82-72,,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,3,3,1,1,1,0,2,0,1.1,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+16,61,17,2025-01-11,St. John's (NY),,Villanova,REG (Conf),W 80-68,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,4,5,0,0,0,1,1,0,-0.2,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+17,62,18,2025-01-14,St. John's (NY),,Georgetown,REG (Conf),W 63-58,,7,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,2,1,3,0,1,0,0,0,0,-0.1,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+18,63,19,2025-01-18,St. John's (NY),@,Seton Hall,REG (Conf),W 79-51,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,0,3,2,1.5,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+19,64,20,2025-01-22,St. John's (NY),,Xavier,REG (Conf),W 79-71 (OT),,6,1,1,1.0,0,0,,1,1,1.0,1.0,3,3,1.0,0,1,1,0,0,1,0,1,5,5.3,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+20,65,21,2025-01-28,St. John's (NY),@,Georgetown,REG (Conf),W 66-41,,6,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,2,3,0,0,2,0,0,6,7.4,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+21,66,22,2025-02-01,St. John's (NY),,Providence,REG (Conf),W 68-66,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,1,2,2,-0.1,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+22,67,23,2025-02-04,St. John's (NY),,Marquette,REG (Conf),W 70-64,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+23,68,24,2025-02-07,St. John's (NY),@,Connecticut,REG (Conf),W 68-62,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+24,69,25,2025-02-12,St. John's (NY),@,Villanova,REG (Conf),L 71-73,,4,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,1,0,0,0.0,A,0,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+25,70,26,2025-02-16,St. John's (NY),,Creighton,REG (Conf),W 79-73,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,1,0,2,2,2.3,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+26,71,28,2025-02-23,St. John's (NY),,Connecticut,REG (Conf),W 89-75,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,1,0,-0.7,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+27,72,29,2025-02-26,St. John's (NY),@,Butler,REG (Conf),W 76-70,,14,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,1,3,0,0,0,0,3,7,4.8,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+28,73,30,2025-03-01,St. John's (NY),,Seton Hall,REG (Conf),W 71-61,,3,0,0,,0,0,,0,0,,,1,2,0.5,0,0,0,0,0,0,0,1,1,0.2,H,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+29,74,31,2025-03-08,St. John's (NY),@,Marquette,REG (Conf),W 86-84 (OT),,8,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,1,0,0,0,1,4,4.3,A,1,1,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+30,75,32,2025-03-13,St. John's (NY),N,Butler,CTOURN,W 78-57,,12,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,0,2,0,0,0,1,2,6,3.3,N,1,0,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+31,76,33,2025-03-14,St. John's (NY),N,Marquette,CTOURN,W 79-63,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+32,77,34,2025-03-15,St. John's (NY),N,Creighton,CTOURN,W 82-66,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,1,1,1,2,1.3,N,1,0,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+33,78,35,2025-03-20,St. John's (NY),N,Omaha,ROUND-64,W 83-53,,9,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,1,1,2,0,0,1,0,1,5,5.0,N,1,0,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025
+34,79,36,2025-03-22,St. John's (NY),N,Arkansas,ROUND-32,L 66-75,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,vincent-iwuchukwu-1,Vincent Iwuchukwu,2025

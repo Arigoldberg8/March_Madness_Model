@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,12,1,2023-11-06,Yale,,Vassar,REG (Non-Conf),W 102-53,*,14,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,3,4,7,0,1,0,0,0,13,14.8,H,1,1,nick-townsend-1,Nick Townsend,2024
+2,13,2,2023-11-10,Yale,@,Gonzaga,REG (Non-Conf),L 71-86,,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,2,1.0,1,4,5,1,1,0,4,1,10,6.6,A,0,1,nick-townsend-1,Nick Townsend,2024
+3,14,3,2023-11-12,Yale,@,Loyola Marymount,REG (Non-Conf),W 83-80,,22,1,7,0.143,0,1,0.0,1,6,0.167,0.143,1,2,0.5,2,1,3,3,0,0,0,3,3,0.7,A,1,1,nick-townsend-1,Nick Townsend,2024
+4,15,4,2023-11-17,Yale,N,Colgate,REG (Non-Conf),W 68-50,,16,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,0,0,0,0,0,0,2,2,-1.9,N,1,1,nick-townsend-1,Nick Townsend,2024
+5,16,5,2023-11-18,Yale,N,Weber State,REG (Non-Conf),L 65-75 (OT),,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,N,0,1,nick-townsend-1,Nick Townsend,2024
+6,17,6,2023-11-19,Yale,N,Gardner-Webb,REG (Non-Conf),W 71-70 (OT),,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,3,0,-2.9,N,1,1,nick-townsend-1,Nick Townsend,2024
+7,18,7,2023-11-26,Yale,@,Rhode Island,REG (Non-Conf),L 72-76,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,2,4,0,0,0,1,3,2,-0.6,A,0,1,nick-townsend-1,Nick Townsend,2024
+8,19,8,2023-11-29,Yale,,Stony Brook,REG (Non-Conf),W 79-71,*,34,6,13,0.462,0,1,0.0,6,12,0.5,0.462,10,10,1.0,7,8,15,1,2,1,0,0,22,26.0,H,1,1,nick-townsend-1,Nick Townsend,2024
+9,20,9,2023-12-02,Yale,@,Vermont,REG (Non-Conf),L 65-66,,19,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,2,3,5,0,1,0,1,2,7,6.5,A,0,1,nick-townsend-1,Nick Townsend,2024
+10,21,10,2023-12-06,Yale,,Fairfield,REG (Non-Conf),L 71-75,,23,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,3,7,10,1,1,1,2,1,8,9.8,H,0,1,nick-townsend-1,Nick Townsend,2024
+11,22,11,2023-12-08,Yale,,Colby-Sawyer,REG (Non-Conf),W 95-36,,14,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,2,3,5,3,0,0,2,1,6,3.6,H,1,1,nick-townsend-1,Nick Townsend,2024
+12,23,12,2023-12-11,Yale,@,Quinnipiac,REG (Non-Conf),W 73-66,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,0,0,0,1,1,2,-0.1,A,1,1,nick-townsend-1,Nick Townsend,2024
+13,24,13,2023-12-22,Yale,@,Kansas,REG (Non-Conf),L 60-75,,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,4,6,1,0,1,1,1,0,1.9,A,0,1,nick-townsend-1,Nick Townsend,2024
+14,25,14,2023-12-30,Yale,@,Santa Clara,REG (Non-Conf),W 66-58,,12,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,1,1,0,1,2,0,-1.5,A,1,1,nick-townsend-1,Nick Townsend,2024
+15,26,15,2024-01-03,Yale,@,Howard,REG (Non-Conf),W 86-78 (OT),*,25,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,1,7,8,3,0,0,2,4,9,7.7,A,1,1,nick-townsend-1,Nick Townsend,2024
+16,27,16,2024-01-09,Yale,@,Brown,REG (Conf),W 80-70,*,29,5,8,0.625,0,0,,5,8,0.625,0.625,1,1,1.0,2,2,4,0,0,0,0,3,11,8.2,A,1,1,nick-townsend-1,Nick Townsend,2024
+17,28,17,2024-01-15,Yale,,Columbia,REG (Conf),W 89-70,*,14,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,3,3,1,0,0,0,1,4,2.1,H,1,1,nick-townsend-1,Nick Townsend,2024
+18,29,18,2024-01-20,Yale,@,Dartmouth,REG (Conf),W 76-51,,14,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,0,0,0,0,2,5,3.1,A,1,1,nick-townsend-1,Nick Townsend,2024
+19,30,19,2024-01-27,Yale,@,Harvard,REG (Conf),W 78-65,,19,4,10,0.4,1,2,0.5,3,8,0.375,0.45,2,2,1.0,1,2,3,1,0,0,0,2,11,6.8,A,1,1,nick-townsend-1,Nick Townsend,2024
+20,31,20,2024-02-02,Yale,,Princeton,REG (Conf),W 70-64,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,1,2,3,1,0,0,0,1,4,3.5,H,1,1,nick-townsend-1,Nick Townsend,2024
+21,32,21,2024-02-03,Yale,,Pennsylvania,REG (Conf),W 74-58,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,0,0,2,1.3,H,1,1,nick-townsend-1,Nick Townsend,2024
+22,33,22,2024-02-10,Yale,,Cornell,REG (Conf),W 80-78,,15,1,6,0.167,0,1,0.0,1,5,0.2,0.167,5,6,0.833,3,2,5,0,2,0,1,1,7,6.1,H,1,1,nick-townsend-1,Nick Townsend,2024
+23,34,23,2024-02-16,Yale,@,Pennsylvania,REG (Conf),W 76-62,*,32,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,3,0.667,1,3,4,3,0,0,1,2,6,5.5,A,1,1,nick-townsend-1,Nick Townsend,2024
+24,35,24,2024-02-17,Yale,@,Princeton,REG (Conf),L 62-73,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,1,1,2,2,1,0,1,1,7,4.9,A,0,1,nick-townsend-1,Nick Townsend,2024
+25,36,25,2024-02-23,Yale,@,Cornell,REG (Conf),L 62-65,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,4,0.5,5,1,6,0,0,0,0,2,6,5.5,A,0,1,nick-townsend-1,Nick Townsend,2024
+26,37,26,2024-02-24,Yale,@,Columbia,REG (Conf),W 84-76,,14,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,0,0,0,3,2,0,0,1,5,4.6,A,1,1,nick-townsend-1,Nick Townsend,2024
+27,38,27,2024-03-01,Yale,,Dartmouth,REG (Conf),W 80-56,,16,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,0,,2,3,5,3,0,0,1,3,11,11.7,H,1,1,nick-townsend-1,Nick Townsend,2024
+28,39,28,2024-03-02,Yale,,Harvard,REG (Conf),W 80-60,,16,6,7,0.857,1,1,1.0,5,6,0.833,0.929,1,2,0.5,1,1,2,1,0,0,1,2,14,11.0,H,1,1,nick-townsend-1,Nick Townsend,2024
+29,40,29,2024-03-09,Yale,,Brown,REG (Conf),L 81-84 (OT),,18,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,1,2,3,1,1,0,0,2,9,8.9,H,0,1,nick-townsend-1,Nick Townsend,2024
+30,41,30,2024-03-16,Yale,N,Cornell,CTOURN,W 69-57,,11,0,2,0.0,0,0,,0,2,0.0,0.0,3,4,0.75,1,3,4,1,0,0,0,3,3,2.3,N,1,0,nick-townsend-1,Nick Townsend,2024
+31,42,31,2024-03-17,Yale,N,Brown,CTOURN,W 62-61,,17,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,3,2,5,2,1,0,0,3,4,4.5,N,1,0,nick-townsend-1,Nick Townsend,2024
+32,43,32,2024-03-22,Yale,N,Auburn,ROUND-64,W 78-76,,11,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,0,0,0,1,1,4,2.6,N,1,0,nick-townsend-1,Nick Townsend,2024
+33,44,33,2024-03-24,Yale,N,San Diego State,ROUND-32,L 57-85,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,0,0,0,4,2,0.1,N,0,0,nick-townsend-1,Nick Townsend,2024

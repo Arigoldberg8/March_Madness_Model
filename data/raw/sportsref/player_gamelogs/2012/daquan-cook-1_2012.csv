@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,86,1,2011-11-11,St. Bonaventure,,Cornell,REG (Non-Conf),W 79-58,*,28,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,2,5,7,1,3,0,1,4,8,8.2,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+2,87,2,2011-11-18,St. Bonaventure,@,Cleveland State,REG (Non-Conf),L 64-67,*,23,1,3,0.333,0,0,1,3,0.333,0.333,3,4,0.75,0,2,2,1,0,0,3,4,5,-0.4,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+3,88,3,2011-11-21,St. Bonaventure,@,Siena,REG (Non-Conf),W 64-58,*,24,1,7,0.143,0,0,1,7,0.143,0.143,1,3,0.333,5,4,9,0,0,0,4,4,3,-3.2,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+4,89,4,2011-11-27,St. Bonaventure,@,Virginia Tech,REG (Non-Conf),L 64-73,*,20,3,6,0.5,0,0,3,6,0.5,0.5,2,3,0.667,2,4,6,0,0,0,0,1,8,6.8,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+5,90,5,2011-12-01,St. Bonaventure,,Arkansas State,REG (Non-Conf),L 52-58,*,33,5,9,0.556,0,0,5,9,0.556,0.556,4,7,0.571,3,4,7,0,1,0,1,1,14,11.4,H,0,1,daquan-cook-1,Da'Quan Cook,2012
+6,91,6,2011-12-03,St. Bonaventure,@,Buffalo,REG (Non-Conf),W 66-60,*,27,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,1,4,5,0,0,0,1,5,4,-1.2,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+7,92,7,2011-12-07,St. Bonaventure,@,Illinois,REG (Non-Conf),L 43-48,,29,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,1,6,7,1,0,0,3,2,0,-3.4,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+8,93,8,2011-12-10,St. Bonaventure,,Canisius,REG (Non-Conf),W 81-62,*,27,3,6,0.5,0,0,3,6,0.5,0.5,4,5,0.8,2,3,5,1,2,1,2,1,10,9.9,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+9,94,9,2011-12-18,St. Bonaventure,,Loyola (MD),REG (Non-Conf),W 76-66,*,35,3,6,0.5,0,0,3,6,0.5,0.5,6,8,0.75,4,2,6,1,0,0,4,3,12,7.1,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+10,95,10,2011-12-20,St. Bonaventure,N,NC State,REG (Non-Conf),L 65-67,*,33,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,4,1,5,3,1,0,1,1,7,8.4,N,0,1,daquan-cook-1,Da'Quan Cook,2012
+11,96,12,2011-12-30,St. Bonaventure,@,Niagara,REG (Non-Conf),W 72-70,*,29,1,4,0.25,0,0,1,4,0.25,0.25,5,5,1.0,0,1,1,1,1,1,1,4,7,4.7,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+12,97,13,2012-01-04,St. Bonaventure,,George Washington,REG (Conf),W 66-56,*,26,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,2,1,2,5,1,4,2.3,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+13,98,14,2012-01-07,St. Bonaventure,@,Duquesne,REG (Conf),L 52-66,*,16,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,3,2,5,1,1,0,1,3,2,2.4,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+14,99,15,2012-01-11,St. Bonaventure,,Dayton,REG (Conf),W 81-73,*,31,3,6,0.5,0,0,3,6,0.5,0.5,8,9,0.889,3,0,3,0,0,1,1,3,14,11.2,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+15,100,16,2012-01-14,St. Bonaventure,@,Xavier,REG (Conf),L 64-77,*,16,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,0,2,2,0,0,0,0,3,4,1.0,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+16,101,17,2012-01-21,St. Bonaventure,,Fordham,REG (Conf),W 95-51,*,28,6,11,0.545,0,0,6,11,0.545,0.545,6,7,0.857,3,5,8,2,1,1,3,3,18,14.8,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+17,102,18,2012-01-25,St. Bonaventure,@,Rhode Island,REG (Conf),W 72-66 (OT),*,40,5,9,0.556,0,0,5,9,0.556,0.556,8,10,0.8,5,1,6,0,1,0,1,5,18,14.7,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+18,103,19,2012-01-28,St. Bonaventure,,Richmond,REG (Conf),W 62-47,*,32,1,9,0.111,0,0,1,9,0.111,0.111,2,2,1.0,2,4,6,1,0,0,3,2,4,-2.4,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+19,104,20,2012-02-01,St. Bonaventure,@,Saint Louis,REG (Conf),L 62-86,*,26,5,6,0.833,0,0,5,6,0.833,0.833,2,5,0.4,0,2,2,0,0,1,4,4,12,4.3,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+20,105,21,2012-02-08,St. Bonaventure,@,Massachusetts,REG (Conf),L 67-76,*,17,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,0,4,4,1,0,0,2,4,0,-4.5,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+21,106,22,2012-02-11,St. Bonaventure,,Duquesne,REG (Conf),W 69-48,*,21,1,5,0.2,0,0,1,5,0.2,0.2,4,4,1.0,2,4,6,0,1,0,2,1,6,4.1,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+22,107,23,2012-02-15,St. Bonaventure,,Temple,REG (Conf),L 70-76,*,16,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,0,0,0,1,1,0,1,4,4,0.4,H,0,1,daquan-cook-1,Da'Quan Cook,2012
+23,108,24,2012-02-18,St. Bonaventure,,Rhode Island,REG (Conf),W 81-61,*,21,1,2,0.5,0,0,1,2,0.5,0.5,7,8,0.875,4,1,5,2,1,0,2,3,9,9.9,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+24,109,25,2012-02-22,St. Bonaventure,@,Fordham,REG (Conf),W 89-63,*,31,7,12,0.583,0,0,7,12,0.583,0.583,2,2,1.0,1,5,6,2,0,0,2,3,16,10.8,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+25,110,26,2012-02-25,St. Bonaventure,@,Charlotte,REG (Conf),W 72-56,*,26,1,3,0.333,0,0,1,3,0.333,0.333,2,2,1.0,0,2,2,0,0,0,0,4,4,1.3,A,1,1,daquan-cook-1,Da'Quan Cook,2012
+26,111,27,2012-02-29,St. Bonaventure,,Saint Joseph's,REG (Conf),W 98-93 (2OT),*,47,3,10,0.3,0,0,3,10,0.3,0.3,8,11,0.727,3,4,7,3,0,0,1,3,14,10.2,H,1,1,daquan-cook-1,Da'Quan Cook,2012
+27,112,28,2012-03-03,St. Bonaventure,@,La Salle,REG (Conf),L 61-71,*,21,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,1,0,0,1,1,2,0.3,A,0,1,daquan-cook-1,Da'Quan Cook,2012
+28,113,29,2012-03-09,St. Bonaventure,N,Saint Joseph's,CTOURN,W 71-68,*,24,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,2,1,3,1,0,0,2,3,8,4.9,N,1,0,daquan-cook-1,Da'Quan Cook,2012
+29,114,30,2012-03-10,St. Bonaventure,N,Massachusetts,CTOURN,W 84-80,*,27,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,0,3,3,0,0,0,2,2,3,-1.7,N,1,0,daquan-cook-1,Da'Quan Cook,2012
+30,115,31,2012-03-11,St. Bonaventure,N,Xavier,CTOURN,W 67-56,*,28,3,7,0.429,0,0,3,7,0.429,0.429,3,4,0.75,2,4,6,2,0,0,4,4,9,3.3,N,1,0,daquan-cook-1,Da'Quan Cook,2012
+31,116,32,2012-03-16,St. Bonaventure,N,Florida State,ROUND-64,L 63-66,*,28,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,2,3,5,1,2,1,3,3,8,4.8,N,0,0,daquan-cook-1,Da'Quan Cook,2012

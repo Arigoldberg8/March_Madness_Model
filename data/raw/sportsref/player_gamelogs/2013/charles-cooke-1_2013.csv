@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-15,James Madison,@,UCLA,REG (Non-Conf),L 70-100,*,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,1,0,0,1,1,2,-0.5,A,0,1,charles-cooke-1,Charles Cooke,2013
+2,2,2,2012-11-19,James Madison,@,Duquesne,REG (Non-Conf),L 88-90 (OT),,5,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-0.1,A,0,1,charles-cooke-1,Charles Cooke,2013
+3,3,3,2012-11-20,James Madison,N,Youngstown State,REG (Non-Conf),W 69-68,,25,3,6,0.5,1,3,0.333,2,3,0.667,0.583,4,4,1.0,0,2,2,1,0,1,0,1,11,9.6,N,1,1,charles-cooke-1,Charles Cooke,2013
+4,4,4,2012-11-21,James Madison,N,North Dakota State,REG (Non-Conf),L 44-66,,30,1,3,0.333,0,0,,1,3,0.333,0.333,2,3,0.667,1,0,1,1,2,0,1,1,4,3.9,N,0,1,charles-cooke-1,Charles Cooke,2013
+5,5,5,2012-11-24,James Madison,@,Miami (OH),REG (Non-Conf),L 58-76,,25,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,2,3,5,1,1,0,3,3,2,-2.0,A,0,1,charles-cooke-1,Charles Cooke,2013
+6,6,6,2012-11-28,James Madison,,George Washington,REG (Non-Conf),L 53-54,*,30,2,5,0.4,0,0,,2,5,0.4,0.4,4,4,1.0,1,1,2,1,1,1,0,1,8,8.3,H,0,1,charles-cooke-1,Charles Cooke,2013
+7,7,7,2012-12-01,James Madison,,Winthrop,REG (Non-Conf),W 71-61,*,29,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,5,0.8,1,2,3,1,1,1,3,1,8,4.5,H,1,1,charles-cooke-1,Charles Cooke,2013
+8,8,8,2012-12-05,James Madison,,East Tennessee State,REG (Non-Conf),W 70-45,,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,1,1,2,1,1,1,0,5,4.7,H,1,1,charles-cooke-1,Charles Cooke,2013
+9,9,9,2012-12-08,James Madison,,Richmond,REG (Non-Conf),L 82-83 (OT),,13,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,1,1,2,1,0,3,0,0,1,3.7,H,0,1,charles-cooke-1,Charles Cooke,2013
+10,10,10,2012-12-16,James Madison,,UNC Greensboro,REG (Non-Conf),W 85-73,,25,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,0,3,3,1,0,1,0,0,4,4.2,H,1,1,charles-cooke-1,Charles Cooke,2013
+11,11,11,2012-12-22,James Madison,N,San Jose State,REG (Non-Conf),W 77-68,,28,3,7,0.429,2,5,0.4,1,2,0.5,0.571,3,4,0.75,0,1,1,0,1,0,0,2,11,7.4,N,1,1,charles-cooke-1,Charles Cooke,2013
+12,12,12,2012-12-23,James Madison,N,San Diego,REG (Non-Conf),W 62-59,,29,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,2,2,0,0,2,7,6.6,N,1,1,charles-cooke-1,Charles Cooke,2013
+13,13,13,2013-01-02,James Madison,@,Old Dominion,REG (Conf),W 58-55,,21,0,0,,0,0,,0,0,,,5,6,0.833,2,4,6,1,1,0,0,1,5,8.5,A,1,1,charles-cooke-1,Charles Cooke,2013
+14,14,14,2013-01-05,James Madison,@,Georgia State,REG (Conf),L 52-68,*,29,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,1,1,2,1,1,2,0,1,2,4.3,A,0,1,charles-cooke-1,Charles Cooke,2013
+15,15,15,2013-01-07,James Madison,@,Hampton,REG (Non-Conf),L 65-69,,22,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,2,1,3,1,2,1,3,5,5,3.8,A,0,1,charles-cooke-1,Charles Cooke,2013
+16,16,16,2013-01-09,James Madison,,UNC Wilmington,REG (Conf),W 78-50,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,0,2,2,1,1,2,0,2,2,3.5,H,1,1,charles-cooke-1,Charles Cooke,2013
+17,17,21,2013-01-26,James Madison,,Old Dominion,REG (Conf),W 56-46,,20,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,2,2,4,0,0,0,1,1,6,4.6,H,1,1,charles-cooke-1,Charles Cooke,2013
+18,18,22,2013-01-28,James Madison,@,UNC Wilmington,REG (Conf),W 63-56,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,1,0,0,-0.4,A,1,1,charles-cooke-1,Charles Cooke,2013
+19,19,23,2013-01-31,James Madison,,Hofstra,REG (Conf),W 62-41,,21,5,5,1.0,2,2,1.0,3,3,1.0,1.2,1,1,1.0,2,1,3,3,0,0,0,0,13,15.3,H,1,1,charles-cooke-1,Charles Cooke,2013
+20,20,24,2013-02-02,James Madison,,George Mason,REG (Conf),L 63-74,,28,1,4,0.25,1,4,0.25,0,0,,0.375,4,6,0.667,1,0,1,3,1,2,0,2,7,8.2,H,0,1,charles-cooke-1,Charles Cooke,2013
+21,21,25,2013-02-06,James Madison,,William & Mary,REG (Conf),W 81-71,*,29,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,2,0.5,4,4,8,1,1,1,0,1,7,8.2,H,1,1,charles-cooke-1,Charles Cooke,2013
+22,22,26,2013-02-10,James Madison,@,Drexel,REG (Conf),L 48-60,*,28,7,11,0.636,2,5,0.4,5,6,0.833,0.727,0,3,0.0,2,4,6,0,1,0,0,0,16,13.5,A,0,1,charles-cooke-1,Charles Cooke,2013
+23,23,27,2013-02-12,James Madison,,Towson,REG (Conf),W 75-70,*,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,2,3,2,1,1,0,4,4,3.4,H,1,1,charles-cooke-1,Charles Cooke,2013
+24,24,28,2013-02-17,James Madison,@,Delaware,REG (Conf),W 72-71,*,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,0,0,0,1,0,0,0,2,-0.8,A,1,1,charles-cooke-1,Charles Cooke,2013
+25,25,29,2013-02-20,James Madison,@,Northeastern,REG (Conf),L 64-66,*,25,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,2,5,7,0,0,0,1,0,10,8.9,A,0,1,charles-cooke-1,Charles Cooke,2013
+26,26,30,2013-02-23,James Madison,,Georgia State,REG (Conf),L 62-66,,37,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,1,0.0,1,6,7,2,0,0,2,2,7,1.9,H,0,1,charles-cooke-1,Charles Cooke,2013
+27,27,31,2013-03-02,James Madison,@,William & Mary,REG (Conf),W 69-67,*,22,0,7,0.0,0,3,0.0,0,4,0.0,0.0,0,0,,0,2,2,1,1,0,0,0,0,-2.6,A,1,1,charles-cooke-1,Charles Cooke,2013
+28,28,32,2013-03-09,James Madison,N,William & Mary,CTOURN,W 72-67,,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,2,0.0,0,1,1,0,0,1,0,0,0,-1.2,N,1,0,charles-cooke-1,Charles Cooke,2013
+29,29,33,2013-03-10,James Madison,N,Delaware,CTOURN,W 58-57,,8,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,N,1,0,charles-cooke-1,Charles Cooke,2013
+30,30,34,2013-03-11,James Madison,N,Northeastern,CTOURN,W 70-57,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,1,0,charles-cooke-1,Charles Cooke,2013
+31,31,35,2013-03-20,James Madison,N,LIU Brooklyn,FIRST-FOUR,W 68-55,*,33,5,10,0.5,2,5,0.4,3,5,0.6,0.6,3,3,1.0,0,5,5,2,0,2,0,2,15,13.5,N,1,0,charles-cooke-1,Charles Cooke,2013
+32,32,36,2013-03-22,James Madison,N,Indiana,ROUND-64,L 62-83,,31,7,12,0.583,4,5,0.8,3,7,0.429,0.75,0,0,,1,3,4,0,0,0,0,2,18,13.2,N,0,0,charles-cooke-1,Charles Cooke,2013

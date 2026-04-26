@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2013-11-08,UCLA,,Drexel,REG (Non-Conf),W 72-67,*,20,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,2,3,5,0,0,1,2,4,6,2.4,H,1,1,tony-parker-1,Tony Parker,2014
+2,35,2,2013-11-12,UCLA,,Oakland,REG (Non-Conf),W 91-60,*,34,10,12,0.833,0,0,10,12,0.833,0.833,1,4,0.25,5,7,12,1,2,3,1,3,21,23.6,H,1,1,tony-parker-1,Tony Parker,2014
+3,36,3,2013-11-18,UCLA,,Sacramento State,REG (Non-Conf),W 86-50,*,24,4,5,0.8,0,0,4,5,0.8,0.8,2,4,0.5,2,2,4,0,0,0,0,0,10,9.3,H,1,1,tony-parker-1,Tony Parker,2014
+4,37,4,2013-11-22,UCLA,,Morehead State,REG (Non-Conf),W 81-70,*,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,4,2,-1.0,H,1,1,tony-parker-1,Tony Parker,2014
+5,38,5,2013-11-24,UCLA,,Chattanooga,REG (Non-Conf),W 106-65,*,26,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,12,14,0,0,2,3,1,8,8.4,H,1,1,tony-parker-1,Tony Parker,2014
+6,39,6,2013-11-28,UCLA,N,Nevada,REG (Non-Conf),W 105-84,*,23,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,2,5,1,0,0,1,2,4,4.3,N,1,1,tony-parker-1,Tony Parker,2014
+7,40,7,2013-11-29,UCLA,N,Northwestern,REG (Non-Conf),W 95-79,*,12,1,5,0.2,0,0,1,5,0.2,0.2,0,2,0.0,1,3,4,0,1,0,2,5,2,-3.3,N,1,1,tony-parker-1,Tony Parker,2014
+8,41,8,2013-12-03,UCLA,,UC Santa Barbara,REG (Non-Conf),W 89-76,*,18,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,4,2,6,0,1,0,0,3,9,10.6,H,1,1,tony-parker-1,Tony Parker,2014
+9,42,9,2013-12-07,UCLA,@,Missouri,REG (Non-Conf),L 71-80,*,17,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,1,2,0,0,0,1,2,3,0.1,A,0,1,tony-parker-1,Tony Parker,2014
+10,43,10,2013-12-14,UCLA,,Prairie View A&M,REG (Non-Conf),W 95-71,,18,1,3,0.333,0,0,1,3,0.333,0.333,2,4,0.5,1,3,4,0,1,1,0,3,4,3.6,H,1,1,tony-parker-1,Tony Parker,2014
+11,44,11,2013-12-19,UCLA,N,Duke,REG (Non-Conf),L 63-80,,15,0,3,0.0,0,0,0,3,0.0,0.0,2,4,0.5,0,6,6,0,0,0,0,2,2,0.1,N,0,1,tony-parker-1,Tony Parker,2014
+12,45,12,2013-12-22,UCLA,,Weber State,REG (Non-Conf),W 83-60,,19,7,11,0.636,0,0,7,11,0.636,0.636,1,1,1.0,3,2,5,0,0,2,1,2,15,12.4,H,1,1,tony-parker-1,Tony Parker,2014
+13,46,13,2013-12-28,UCLA,,Alabama,REG (Non-Conf),W 75-67,,19,6,7,0.857,0,0,6,7,0.857,0.857,4,5,0.8,4,1,5,0,0,2,1,2,16,15.8,H,1,1,tony-parker-1,Tony Parker,2014
+14,47,14,2014-01-05,UCLA,,Southern California,REG (Conf),W 107-73,,10,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,0,5,5,0,0,0,1,5,5,2.5,H,1,1,tony-parker-1,Tony Parker,2014
+15,48,15,2014-01-09,UCLA,,Arizona,REG (Conf),L 75-79,,21,3,7,0.429,0,0,3,7,0.429,0.429,4,4,1.0,5,3,8,0,0,0,0,2,10,9.9,H,0,1,tony-parker-1,Tony Parker,2014
+16,49,16,2014-01-12,UCLA,,Arizona State,REG (Conf),W 87-72,,14,1,3,0.333,0,0,1,3,0.333,0.333,1,3,0.333,1,2,3,0,0,0,1,5,3,-1.2,H,1,1,tony-parker-1,Tony Parker,2014
+17,50,17,2014-01-16,UCLA,@,Colorado,REG (Conf),W 69-56,,22,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,1,1,2,0,1,1,1,3,6,4.2,A,1,1,tony-parker-1,Tony Parker,2014
+18,51,18,2014-01-18,UCLA,@,Utah,REG (Conf),L 69-74,,16,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,0,2,0,2,0,0,2,4,4.6,A,0,1,tony-parker-1,Tony Parker,2014
+19,52,19,2014-01-23,UCLA,,Stanford,REG (Conf),W 91-74,,28,9,14,0.643,0,0,9,14,0.643,0.643,4,7,0.571,5,2,7,0,3,2,1,4,22,20.5,H,1,1,tony-parker-1,Tony Parker,2014
+20,53,20,2014-01-26,UCLA,,California,REG (Conf),W 76-64,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,2,4,0,-3.3,H,1,1,tony-parker-1,Tony Parker,2014
+21,54,21,2014-01-30,UCLA,@,Oregon,REG (Conf),W 70-68,,17,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,2,2,4,0,0,1,2,5,9,6.1,A,1,1,tony-parker-1,Tony Parker,2014
+22,55,22,2014-02-02,UCLA,@,Oregon State,REG (Conf),L 67-71,,25,3,5,0.6,0,0,3,5,0.6,0.6,0,2,0.0,1,3,4,0,0,1,2,3,6,2.0,A,0,1,tony-parker-1,Tony Parker,2014
+23,56,23,2014-02-08,UCLA,@,Southern California,REG (Conf),W 83-73,,11,0,3,0.0,0,0,0,3,0.0,0.0,0,1,0.0,0,1,1,0,0,0,0,2,0,-3.0,A,1,1,tony-parker-1,Tony Parker,2014
+24,57,24,2014-02-13,UCLA,,Colorado,REG (Conf),W 92-74,,11,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,3,5,0,0,1,2,3,6,4.9,H,1,1,tony-parker-1,Tony Parker,2014
+25,58,25,2014-02-15,UCLA,,Utah,REG (Conf),W 80-66,,14,1,2,0.5,0,0,1,2,0.5,0.5,4,6,0.667,0,2,2,0,0,1,0,2,6,4.7,H,1,1,tony-parker-1,Tony Parker,2014
+26,59,26,2014-02-19,UCLA,@,California,REG (Conf),W 86-66,,15,4,4,1.0,0,0,4,4,1.0,1.0,0,2,0.0,0,1,1,0,0,0,1,3,8,4.1,A,1,1,tony-parker-1,Tony Parker,2014
+27,60,27,2014-02-22,UCLA,@,Stanford,REG (Conf),L 74-83,,18,6,8,0.75,0,0,6,8,0.75,0.75,1,4,0.25,2,1,3,0,2,0,1,1,13,10.9,A,0,1,tony-parker-1,Tony Parker,2014
+28,61,28,2014-02-27,UCLA,,Oregon,REG (Conf),L 83-87 (2OT),,19,0,3,0.0,0,0,0,3,0.0,0.0,2,4,0.5,4,6,10,0,0,0,3,3,2,-0.5,H,0,1,tony-parker-1,Tony Parker,2014
+29,62,29,2014-03-02,UCLA,,Oregon State,REG (Conf),W 74-69,,11,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,2,3,0,0,0,1,4,4,0.7,H,1,1,tony-parker-1,Tony Parker,2014
+30,63,30,2014-03-06,UCLA,@,Washington,REG (Conf),W 91-82,,17,5,9,0.556,0,0,5,9,0.556,0.556,0,0,,2,2,4,0,1,1,1,5,10,6.4,A,1,1,tony-parker-1,Tony Parker,2014
+31,64,31,2014-03-08,UCLA,@,Washington State,REG (Conf),L 55-73,,18,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,1,2,2,0.2,A,0,1,tony-parker-1,Tony Parker,2014
+32,65,32,2014-03-13,UCLA,N,Oregon,CTOURN,W 82-63,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,1,0,1,0,0,0,0,4,4,1.4,N,1,0,tony-parker-1,Tony Parker,2014
+33,66,33,2014-03-14,UCLA,N,Stanford,CTOURN,W 84-59,,16,1,2,0.5,0,0,1,2,0.5,0.5,3,6,0.5,1,3,4,0,0,0,2,5,5,0.4,N,1,0,tony-parker-1,Tony Parker,2014
+34,67,34,2014-03-15,UCLA,N,Arizona,CTOURN,W 75-71,,13,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,2,5,7,0,1,0,0,2,4,3.7,N,1,0,tony-parker-1,Tony Parker,2014
+35,68,35,2014-03-21,UCLA,N,Tulsa,ROUND-64,W 76-59,,16,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,3,3,6,0,0,1,1,2,11,9.6,N,1,0,tony-parker-1,Tony Parker,2014
+36,69,36,2014-03-23,UCLA,N,Stephen F. Austin,ROUND-32,W 77-60,,18,4,6,0.667,0,0,4,6,0.667,0.667,0,2,0.0,1,2,3,2,0,2,0,1,8,8.3,N,1,0,tony-parker-1,Tony Parker,2014
+37,70,37,2014-03-27,UCLA,N,Florida,ROUND-16,L 68-79,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,1,2,3,0,0,1,1,3,4,2.1,N,0,0,tony-parker-1,Tony Parker,2014

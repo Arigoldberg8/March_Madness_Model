@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,San Diego State,,San Diego Christ,REG (Non-Conf),W 91-52,,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,2,0.0,0,5,5,2,0,2,1,0,2,2.8,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+2,2,2,2017-11-14,San Diego State,@,Arizona State,REG (Non-Conf),L 68-90,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+3,3,3,2017-11-17,San Diego State,,McNeese State,REG (Non-Conf),W 83-52,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,3,4,0,0,1,1,3,4,2.1,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+4,4,4,2017-11-20,San Diego State,,Eastern Illinois,REG (Non-Conf),W 94-63,,10,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,2,0.0,0,2,2,0,0,1,0,0,2,0.8,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+5,5,5,2017-11-24,San Diego State,@,Sacramento State,REG (Non-Conf),W 89-52,,28,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,4,1.0,5,8,13,0,0,0,2,4,8,6.2,A,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+6,6,5,2017-11-24,San Diego State,N,Georgia,REG (Non-Conf),W 75-68,,26,2,6,0.333,0,0,,2,6,0.333,0.333,7,8,0.875,2,6,8,0,1,0,0,2,11,10.6,N,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+7,7,7,2017-11-26,San Diego State,N,Washington State,REG (Non-Conf),L 86-93,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,1,2,2,-0.5,N,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+8,8,8,2017-11-30,San Diego State,@,San Diego,REG (Non-Conf),W 66-57,,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,1,2,2,0.5,A,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+9,9,9,2017-12-03,San Diego State,,Bradley,REG (Non-Conf),W 75-52,,26,6,8,0.75,1,2,0.5,5,6,0.833,0.813,1,2,0.5,5,7,12,2,1,0,1,1,14,17.0,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+10,10,10,2017-12-09,San Diego State,,California,REG (Non-Conf),L 62-63,,23,3,4,0.75,0,0,,3,4,0.75,0.75,3,3,1.0,0,4,4,1,0,0,0,3,9,8.1,H,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+11,11,11,2017-12-21,San Diego State,,Gonzaga,REG (Non-Conf),W 72-70,,28,5,8,0.625,0,0,,5,8,0.625,0.625,5,6,0.833,5,5,10,1,2,0,0,1,15,18.3,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+12,12,12,2017-12-27,San Diego State,@,Wyoming,REG (Conf),L 69-82,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,8,10,1,1,0,1,4,6,5.9,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+13,13,13,2017-12-30,San Diego State,,Utah State,REG (Conf),W 79-59,*,26,3,6,0.5,0,0,,3,6,0.5,0.5,7,8,0.875,3,5,8,1,0,1,1,1,13,13.2,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+14,14,14,2018-01-02,San Diego State,@,Colorado State,REG (Conf),W 77-68,*,29,8,11,0.727,0,0,,8,11,0.727,0.727,3,4,0.75,5,5,10,0,2,0,0,3,19,19.9,A,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+15,15,15,2018-01-09,San Diego State,,San Jose State,REG (Conf),W 85-49,*,23,6,8,0.75,0,2,0.0,6,6,1.0,0.75,1,2,0.5,1,6,7,1,4,2,0,2,13,17.2,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+16,16,16,2018-01-13,San Diego State,@,Boise State,REG (Conf),L 80-83,*,34,6,8,0.75,0,0,,6,8,0.75,0.75,4,5,0.8,3,2,5,1,2,1,0,3,16,17.3,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+17,17,17,2018-01-17,San Diego State,,Fresno State,REG (Conf),L 73-77,*,36,4,7,0.571,0,0,,4,7,0.571,0.571,6,8,0.75,3,10,13,1,2,2,2,2,14,16.3,H,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+18,18,18,2018-01-20,San Diego State,@,New Mexico,REG (Conf),L 75-79,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,1,6,7,0,0,0,1,4,13,10.4,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+19,19,19,2018-01-24,San Diego State,,Colorado State,REG (Conf),W 97-78,*,23,3,4,0.75,0,1,0.0,3,3,1.0,0.75,5,5,1.0,2,4,6,3,3,0,2,0,11,15.1,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+20,20,20,2018-01-27,San Diego State,@,UNLV,REG (Conf),L 78-88,*,24,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,3,3,6,0,0,1,2,2,9,4.8,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+21,21,21,2018-02-03,San Diego State,,Air Force,REG (Conf),W 81-50,*,32,7,10,0.7,0,0,,7,10,0.7,0.7,2,2,1.0,3,10,13,1,1,1,1,4,16,16.7,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+22,22,22,2018-02-06,San Diego State,@,Fresno State,REG (Conf),L 61-79,*,28,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,7,8,0,0,1,5,3,6,1.7,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+23,23,23,2018-02-10,San Diego State,@,Nevada,REG (Conf),L 58-83,*,30,4,11,0.364,1,2,0.5,3,9,0.333,0.409,2,2,1.0,3,5,8,1,0,0,2,2,11,6.4,A,0,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+24,24,24,2018-02-14,San Diego State,,Wyoming,REG (Conf),W 87-77,*,22,6,9,0.667,0,0,,6,9,0.667,0.667,4,6,0.667,3,1,4,1,1,0,0,5,16,13.4,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+25,25,25,2018-02-17,San Diego State,,UNLV,REG (Conf),W 94-56,*,29,8,14,0.571,0,1,0.0,8,13,0.615,0.571,2,2,1.0,3,9,12,3,2,0,1,1,18,18.9,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+26,26,26,2018-02-21,San Diego State,@,Air Force,REG (Conf),W 67-56,*,27,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,6,7,1,2,0,1,0,7,9.6,A,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+27,27,27,2018-02-24,San Diego State,@,San Jose State,REG (Conf),W 71-59,*,34,3,7,0.429,0,0,,3,7,0.429,0.429,10,10,1.0,3,7,10,1,1,3,0,4,16,18.7,A,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+28,28,28,2018-02-27,San Diego State,,Boise State,REG (Conf),W 72-64,*,36,6,8,0.75,0,1,0.0,6,7,0.857,0.75,3,5,0.6,3,7,10,0,0,0,2,3,15,12.0,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+29,29,29,2018-03-03,San Diego State,,Nevada,REG (Conf),W 79-74,,17,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,4,5,9,0,0,0,2,3,7,6.1,H,1,1,jalen-mcdaniels-1,Jalen McDaniels,2018
+30,30,30,2018-03-08,San Diego State,N,Fresno State,CTOURN,W 64-52,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,4,0.75,1,6,7,0,1,1,2,4,9,6.2,N,1,0,jalen-mcdaniels-1,Jalen McDaniels,2018
+31,31,31,2018-03-09,San Diego State,N,Nevada,CTOURN,W 90-73,*,29,6,8,0.75,0,1,0.0,6,7,0.857,0.75,5,6,0.833,5,7,12,4,0,1,0,2,17,21.7,N,1,0,jalen-mcdaniels-1,Jalen McDaniels,2018
+32,32,32,2018-03-10,San Diego State,N,New Mexico,CTOURN,W 82-75,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,4,5,2,1,0,2,3,6,4.1,N,1,0,jalen-mcdaniels-1,Jalen McDaniels,2018
+33,33,33,2018-03-15,San Diego State,N,Houston,ROUND-64,L 65-67,*,28,4,11,0.364,1,2,0.5,3,9,0.333,0.409,9,12,0.75,2,7,9,1,0,1,2,4,18,12.0,N,0,0,jalen-mcdaniels-1,Jalen McDaniels,2018

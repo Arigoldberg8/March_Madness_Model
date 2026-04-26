@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2013-11-08,Providence,,Boston College,REG (Non-Conf),W 82-78 (OT),*,29,2,11,0.182,0,0,,2,11,0.182,0.182,4,4,1.0,3,0,3,1,0,0,2,5,8,-0.1,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+2,89,2,2013-11-13,Providence,,Brown,REG (Non-Conf),W 73-69,*,32,8,14,0.571,0,0,,8,14,0.571,0.571,3,4,0.75,4,7,11,2,0,1,2,1,19,16.6,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+3,90,3,2013-11-16,Providence,,Marist,REG (Non-Conf),W 93-48,*,24,9,11,0.818,2,2,1.0,7,9,0.778,0.909,2,2,1.0,3,7,10,0,0,0,1,3,22,19.9,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+4,91,4,2013-11-18,Providence,,Vermont,REG (Non-Conf),W 70-49,*,34,5,13,0.385,0,2,0.0,5,11,0.455,0.385,2,2,1.0,5,5,10,3,1,0,3,1,12,9.6,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+5,92,5,2013-11-22,Providence,N,Vanderbilt,REG (Non-Conf),W 67-60,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,4,6,0.667,2,4,6,0,0,0,3,4,8,2.5,N,1,1,kadeem-batts-1,Kadeem Batts,2014
+6,93,6,2013-11-24,Providence,N,La Salle,REG (Non-Conf),W 71-63,*,22,6,11,0.545,1,1,1.0,5,10,0.5,0.591,5,5,1.0,2,0,2,0,1,0,2,4,18,11.5,N,1,1,kadeem-batts-1,Kadeem Batts,2014
+7,94,7,2013-11-25,Providence,N,Maryland,REG (Non-Conf),L 52-56,*,27,2,10,0.2,0,1,0.0,2,9,0.222,0.2,4,6,0.667,3,6,9,2,0,0,1,4,8,3.7,N,0,1,kadeem-batts-1,Kadeem Batts,2014
+8,95,8,2013-11-29,Providence,,Fairfield,REG (Non-Conf),W 78-69,*,33,4,15,0.267,0,1,0.0,4,14,0.286,0.267,5,8,0.625,1,7,8,0,0,1,1,2,13,4.6,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+9,96,9,2013-12-01,Providence,N,Kentucky,REG (Non-Conf),L 65-79,*,36,3,14,0.214,1,1,1.0,2,13,0.154,0.25,1,3,0.333,7,1,8,0,1,0,1,5,8,1.8,N,0,1,kadeem-batts-1,Kadeem Batts,2014
+10,97,10,2013-12-05,Providence,@,Rhode Island,REG (Non-Conf),W 50-49,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,1,3,0.333,3,4,7,0,0,0,1,4,7,3.9,A,1,1,kadeem-batts-1,Kadeem Batts,2014
+11,98,11,2013-12-17,Providence,,Yale,REG (Non-Conf),W 76-74,*,35,4,7,0.571,1,1,1.0,3,6,0.5,0.643,1,2,0.5,2,2,4,3,0,0,1,3,10,8.2,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+12,99,12,2013-12-21,Providence,,Maine,REG (Non-Conf),W 94-70,*,28,10,13,0.769,0,0,,10,13,0.769,0.769,2,2,1.0,5,6,11,2,0,1,2,0,22,22.3,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+13,100,13,2013-12-28,Providence,@,Massachusetts,REG (Non-Conf),L 67-69 (OT),*,38,4,14,0.286,0,1,0.0,4,13,0.308,0.286,1,2,0.5,2,2,4,3,0,4,2,4,9,3.7,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+14,101,14,2013-12-31,Providence,,Seton Hall,REG (Conf),L 80-81 (2OT),*,34,1,8,0.125,0,0,,1,8,0.125,0.125,4,4,1.0,1,5,6,3,0,0,3,5,6,0.1,H,0,1,kadeem-batts-1,Kadeem Batts,2014
+15,102,15,2014-01-05,Providence,@,Villanova,REG (Conf),L 61-91,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,2,5,0.4,4,1,5,0,2,0,1,3,10,7.0,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+16,103,16,2014-01-08,Providence,,Georgetown,REG (Conf),W 70-52,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,9,12,0.75,1,2,3,1,0,1,1,4,21,16.0,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+17,104,17,2014-01-16,Providence,@,St. John's (NY),REG (Conf),W 84-83 (2OT),*,30,3,10,0.3,0,1,0.0,3,9,0.333,0.3,11,12,0.917,6,3,9,0,1,1,3,5,17,12.6,A,1,1,kadeem-batts-1,Kadeem Batts,2014
+18,105,18,2014-01-18,Providence,,Creighton,REG (Conf),W 81-68,*,23,4,7,0.571,0,0,,4,7,0.571,0.571,5,7,0.714,3,6,9,1,0,0,1,4,13,10.9,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+19,106,19,2014-01-21,Providence,,Butler,REG (Conf),W 65-56,*,39,5,13,0.385,0,0,,5,13,0.385,0.385,4,4,1.0,7,10,17,1,0,0,3,2,14,11.7,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+20,107,20,2014-01-25,Providence,,Xavier,REG (Conf),W 81-72,*,35,4,10,0.4,0,0,,4,10,0.4,0.4,4,4,1.0,3,5,8,1,1,3,2,2,12,11.2,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+21,108,21,2014-01-30,Providence,@,Marquette,REG (Conf),L 50-61,*,32,1,6,0.167,0,0,,1,6,0.167,0.167,2,6,0.333,4,5,9,0,0,0,1,2,4,1.1,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+22,109,22,2014-02-01,Providence,@,DePaul,REG (Conf),W 77-72,*,24,1,6,0.167,0,0,,1,6,0.167,0.167,2,4,0.5,1,8,9,3,1,2,1,3,4,4.8,A,1,1,kadeem-batts-1,Kadeem Batts,2014
+23,110,23,2014-02-04,Providence,,St. John's (NY),REG (Conf),L 76-86,*,34,3,9,0.333,0,1,0.0,3,8,0.375,0.333,9,9,1.0,7,3,10,1,0,2,4,4,15,12.2,H,0,1,kadeem-batts-1,Kadeem Batts,2014
+24,111,24,2014-02-08,Providence,@,Xavier,REG (Conf),L 53-59,*,32,3,12,0.25,0,1,0.0,3,11,0.273,0.25,3,4,0.75,3,3,6,1,1,2,1,5,9,4.5,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+25,112,25,2014-02-10,Providence,@,Georgetown,REG (Conf),L 71-83,*,22,5,8,0.625,0,0,,5,8,0.625,0.625,4,6,0.667,3,4,7,1,0,0,2,4,14,10.0,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+26,113,26,2014-02-15,Providence,,DePaul,REG (Conf),W 84-61,*,33,5,9,0.556,0,0,,5,9,0.556,0.556,5,7,0.714,4,4,8,1,1,3,2,1,15,15.3,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+27,114,27,2014-02-18,Providence,,Villanova,REG (Conf),L 79-82 (2OT),*,48,6,13,0.462,0,0,,6,13,0.462,0.462,9,11,0.818,5,6,11,1,0,1,0,5,21,18.2,H,0,1,kadeem-batts-1,Kadeem Batts,2014
+28,115,28,2014-02-23,Providence,@,Butler,REG (Conf),W 87-81,*,36,5,8,0.625,0,0,,5,8,0.625,0.625,4,4,1.0,0,4,4,2,0,0,2,5,14,9.0,A,1,1,kadeem-batts-1,Kadeem Batts,2014
+29,116,29,2014-02-28,Providence,@,Seton Hall,REG (Conf),W 74-69,*,37,5,10,0.5,0,0,,5,10,0.5,0.5,4,8,0.5,3,8,11,3,0,1,1,4,14,12.1,A,1,1,kadeem-batts-1,Kadeem Batts,2014
+30,117,30,2014-03-04,Providence,,Marquette,REG (Conf),W 81-80 (2OT),*,30,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,0,3,3,1,0,3,2,5,12,6.4,H,1,1,kadeem-batts-1,Kadeem Batts,2014
+31,118,31,2014-03-08,Providence,@,Creighton,REG (Conf),L 73-88,*,38,5,11,0.455,0,0,,5,11,0.455,0.455,3,5,0.6,6,5,11,2,0,0,1,3,13,11.4,A,0,1,kadeem-batts-1,Kadeem Batts,2014
+32,119,32,2014-03-13,Providence,N,St. John's (NY),CTOURN,W 79-74,*,34,5,11,0.455,0,0,,5,11,0.455,0.455,3,4,0.75,1,11,12,1,0,0,0,5,13,9.6,N,1,0,kadeem-batts-1,Kadeem Batts,2014
+33,120,33,2014-03-14,Providence,N,Seton Hall,CTOURN,W 80-74,*,17,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,3,0.667,2,1,3,0,0,0,3,5,8,1.3,N,1,0,kadeem-batts-1,Kadeem Batts,2014
+34,121,34,2014-03-15,Providence,N,Creighton,CTOURN,W 65-58,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,4,4,1.0,2,2,4,1,0,0,1,3,8,5.1,N,1,0,kadeem-batts-1,Kadeem Batts,2014
+35,122,35,2014-03-21,Providence,N,North Carolina,ROUND-64,L 77-79,*,25,3,3,1.0,0,0,,3,3,1.0,1.0,2,3,0.667,0,1,1,2,1,1,2,3,8,6.9,N,0,0,kadeem-batts-1,Kadeem Batts,2014

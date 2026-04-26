@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,121,1,2024-11-04,Baylor,@,Gonzaga,REG (Non-Conf),L 63-101,*,30,5,12,0.417,0,2,0.0,5,10,0.5,0.417,5,7,0.714,2,7,9,0,1,1,3,2,15,9.2,A,0,1,norchad-omier-1,Norchad Omier,2025
+2,122,2,2024-11-09,Baylor,N,Arkansas,REG (Non-Conf),W 72-67,*,29,7,10,0.7,0,1,0.0,7,9,0.778,0.7,1,2,0.5,3,9,12,1,0,0,0,4,15,14.3,N,1,1,norchad-omier-1,Norchad Omier,2025
+3,123,3,2024-11-12,Baylor,,Sam Houston State,REG (Non-Conf),W 104-67,*,29,8,11,0.727,1,2,0.5,7,9,0.778,0.773,1,1,1.0,5,5,10,2,1,1,5,2,18,15.8,H,1,1,norchad-omier-1,Norchad Omier,2025
+4,124,4,2024-11-17,Baylor,,Tarleton State,REG (Non-Conf),W 104-41,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,4,5,9,3,2,1,2,4,5,8.8,H,1,1,norchad-omier-1,Norchad Omier,2025
+5,125,5,2024-11-21,Baylor,N,St. John's (NY),REG (Non-Conf),W 99-98 (2OT),*,40,9,18,0.5,0,3,0.0,9,15,0.6,0.5,6,10,0.6,4,6,10,3,3,1,2,4,24,20.2,N,1,1,norchad-omier-1,Norchad Omier,2025
+6,126,6,2024-11-22,Baylor,N,Tennessee,REG (Non-Conf),L 62-77,*,30,8,10,0.8,1,1,1.0,7,9,0.778,0.85,5,6,0.833,4,6,10,3,0,0,3,4,22,19.9,N,0,1,norchad-omier-1,Norchad Omier,2025
+7,127,7,2024-11-27,Baylor,,New Orleans,REG (Non-Conf),W 91-60,*,23,5,10,0.5,0,2,0.0,5,8,0.625,0.5,2,2,1.0,8,5,13,2,2,1,3,2,12,14.4,H,1,1,norchad-omier-1,Norchad Omier,2025
+8,128,8,2024-12-04,Baylor,@,Connecticut,REG (Non-Conf),L 72-76,*,31,5,10,0.5,0,2,0.0,5,8,0.625,0.5,4,6,0.667,5,2,7,2,1,2,2,5,14,12.1,A,0,1,norchad-omier-1,Norchad Omier,2025
+9,129,9,2024-12-09,Baylor,,Abilene Christian,REG (Non-Conf),W 88-57,*,16,7,7,1.0,0,0,,7,7,1.0,1.0,1,1,1.0,2,4,6,1,0,0,2,3,15,13.0,H,1,1,norchad-omier-1,Norchad Omier,2025
+10,130,10,2024-12-11,Baylor,,Norfolk State,REG (Non-Conf),W 94-69,*,26,7,10,0.7,1,1,1.0,6,9,0.667,0.75,4,6,0.667,2,5,7,2,5,1,2,2,19,21.2,H,1,1,norchad-omier-1,Norchad Omier,2025
+11,131,11,2024-12-27,Baylor,,Arl Baptist,REG (Non-Conf),W 107-53,*,26,8,15,0.533,0,0,,8,15,0.533,0.533,3,4,0.75,7,17,24,2,2,3,5,4,19,20.2,H,1,1,norchad-omier-1,Norchad Omier,2025
+12,132,12,2024-12-31,Baylor,,Utah,REG (Conf),W 81-56,*,29,5,7,0.714,1,3,0.333,4,4,1.0,0.786,4,4,1.0,4,10,14,1,2,3,3,3,15,18.5,H,1,1,norchad-omier-1,Norchad Omier,2025
+13,133,13,2025-01-04,Baylor,@,Iowa State,REG (Conf),L 55-74,*,27,3,11,0.273,1,7,0.143,2,4,0.5,0.318,2,3,0.667,4,6,10,2,0,0,2,2,9,5.3,A,0,1,norchad-omier-1,Norchad Omier,2025
+14,134,14,2025-01-07,Baylor,,Cincinnati,REG (Conf),W 68-48,*,28,7,9,0.778,1,1,1.0,6,8,0.75,0.833,3,3,1.0,3,7,10,3,2,1,1,3,18,21.3,H,1,1,norchad-omier-1,Norchad Omier,2025
+15,135,15,2025-01-11,Baylor,@,Arizona State,REG (Conf),W 72-66 (OT),*,33,7,12,0.583,2,4,0.5,5,8,0.625,0.667,3,4,0.75,3,5,8,0,1,1,4,3,19,13.1,A,1,1,norchad-omier-1,Norchad Omier,2025
+16,136,16,2025-01-14,Baylor,@,Arizona,REG (Conf),L 70-81,*,26,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,0,4,4,2,1,1,4,4,9,4.7,A,0,1,norchad-omier-1,Norchad Omier,2025
+17,137,17,2025-01-19,Baylor,,TCU,REG (Conf),L 71-74,*,31,6,11,0.545,1,3,0.333,5,8,0.625,0.591,7,11,0.636,1,4,5,1,0,2,3,4,20,12.5,H,0,1,norchad-omier-1,Norchad Omier,2025
+18,138,18,2025-01-22,Baylor,,Kansas State,REG (Conf),W 70-62,*,34,1,9,0.111,1,3,0.333,0,6,0.0,0.167,0,0,,6,7,13,3,0,1,0,4,3,4.6,H,1,1,norchad-omier-1,Norchad Omier,2025
+19,139,19,2025-01-25,Baylor,@,Utah,REG (Conf),W 76-61,*,30,6,9,0.667,2,3,0.667,4,6,0.667,0.778,8,10,0.8,6,6,12,2,2,1,2,3,22,24.2,A,1,1,norchad-omier-1,Norchad Omier,2025
+20,140,20,2025-01-28,Baylor,@,Brigham Young,REG (Conf),L 89-93 (OT),*,36,5,12,0.417,1,5,0.2,4,7,0.571,0.458,1,4,0.25,5,3,8,2,1,0,4,5,12,5.2,A,0,1,norchad-omier-1,Norchad Omier,2025
+21,141,21,2025-02-01,Baylor,,Kansas,REG (Conf),W 81-70,*,33,2,8,0.25,1,4,0.25,1,4,0.25,0.313,13,14,0.929,4,12,16,0,1,1,4,4,18,15.3,H,1,1,norchad-omier-1,Norchad Omier,2025
+22,142,22,2025-02-04,Baylor,@,Texas Tech,REG (Conf),L 59-73,*,35,5,16,0.313,0,3,0.0,5,13,0.385,0.313,6,8,0.75,4,8,12,1,1,1,3,2,16,9.8,A,0,1,norchad-omier-1,Norchad Omier,2025
+23,143,23,2025-02-08,Baylor,,UCF,REG (Conf),W 91-76,*,36,6,10,0.6,0,0,,6,10,0.6,0.6,6,6,1.0,4,8,12,2,1,0,2,4,18,17.4,H,1,1,norchad-omier-1,Norchad Omier,2025
+24,144,24,2025-02-10,Baylor,@,Houston,REG (Conf),L 65-76,*,37,8,9,0.889,1,1,1.0,7,8,0.875,0.944,2,2,1.0,2,3,5,0,0,0,2,4,19,14.6,A,0,1,norchad-omier-1,Norchad Omier,2025
+25,145,25,2025-02-15,Baylor,,West Virginia,REG (Conf),W 74-71 (OT),*,36,6,11,0.545,0,0,,6,11,0.545,0.545,5,6,0.833,2,8,10,1,4,1,3,5,17,15.5,H,1,1,norchad-omier-1,Norchad Omier,2025
+26,146,26,2025-02-17,Baylor,,Arizona,REG (Conf),L 67-74,*,37,6,8,0.75,0,0,,6,8,0.75,0.75,3,4,0.75,4,7,11,1,2,1,2,4,15,16.1,H,0,1,norchad-omier-1,Norchad Omier,2025
+27,147,27,2025-02-22,Baylor,@,Colorado,REG (Conf),L 74-76,*,36,7,11,0.636,0,2,0.0,7,9,0.778,0.636,4,6,0.667,4,9,13,0,0,2,1,4,18,16.6,A,0,1,norchad-omier-1,Norchad Omier,2025
+28,148,28,2025-02-25,Baylor,@,Cincinnati,REG (Conf),L 67-69,*,32,7,12,0.583,0,1,0.0,7,11,0.636,0.583,1,1,1.0,6,4,10,3,0,1,4,4,15,12.0,A,0,1,norchad-omier-1,Norchad Omier,2025
+29,149,29,2025-03-01,Baylor,,Oklahoma State,REG (Conf),W 71-61,*,34,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,4,9,13,1,2,0,2,5,10,10.8,H,1,1,norchad-omier-1,Norchad Omier,2025
+30,150,30,2025-03-04,Baylor,@,TCU,REG (Conf),W 61-58,*,36,6,8,0.75,2,2,1.0,4,6,0.667,0.875,5,6,0.833,4,8,12,2,1,1,4,4,19,18.1,A,1,1,norchad-omier-1,Norchad Omier,2025
+31,151,31,2025-03-08,Baylor,,Houston,REG (Conf),L 61-65,*,38,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,4,0.5,9,7,16,1,0,1,3,2,13,13.9,H,0,1,norchad-omier-1,Norchad Omier,2025
+32,152,32,2025-03-12,Baylor,N,Kansas State,CTOURN,W 70-56,*,36,6,14,0.429,0,2,0.0,6,12,0.5,0.429,0,1,0.0,3,11,14,1,1,0,0,3,12,10.1,N,1,0,norchad-omier-1,Norchad Omier,2025
+33,153,33,2025-03-13,Baylor,N,Texas Tech,CTOURN,L 74-76,*,32,12,18,0.667,0,0,,12,18,0.667,0.667,5,6,0.833,5,10,15,1,1,2,1,4,29,27.8,N,0,0,norchad-omier-1,Norchad Omier,2025
+34,154,34,2025-03-21,Baylor,N,Mississippi State,ROUND-64,W 75-72,*,39,3,11,0.273,0,2,0.0,3,9,0.333,0.273,6,8,0.75,4,6,10,3,1,1,0,3,12,11.9,N,1,0,norchad-omier-1,Norchad Omier,2025
+35,155,35,2025-03-23,Baylor,N,Duke,ROUND-32,L 66-89,*,32,7,14,0.5,1,3,0.333,6,11,0.545,0.536,0,0,,6,3,9,0,1,0,1,4,15,11.5,N,0,0,norchad-omier-1,Norchad Omier,2025

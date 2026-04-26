@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-11,Mount St. Mary's,@,West Virginia,REG (Non-Conf),L 59-87,,21,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,2,2,4,0,0,1,3,4,11,5.1,A,0,1,miles-wilson-1,Miles Wilson,2017
+2,2,2,2016-11-14,Mount St. Mary's,@,Iowa State,REG (Non-Conf),L 55-73,,25,3,10,0.3,2,3,0.667,1,7,0.143,0.4,3,3,1.0,0,2,2,0,0,0,0,2,11,5.0,A,0,1,miles-wilson-1,Miles Wilson,2017
+3,3,3,2016-11-16,Mount St. Mary's,@,Minnesota,REG (Non-Conf),L 56-80,,20,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,0,3,3,0,0,0,1,3,3,-2.5,A,0,1,miles-wilson-1,Miles Wilson,2017
+4,4,4,2016-11-18,Mount St. Mary's,@,George Mason,REG (Non-Conf),W 78-76 (OT),,33,5,10,0.5,0,2,0.0,5,8,0.625,0.5,2,3,0.667,2,2,4,0,1,1,2,2,12,7.5,A,1,1,miles-wilson-1,Miles Wilson,2017
+5,5,5,2016-11-21,Mount St. Mary's,@,Southern Illinois,REG (Non-Conf),L 63-73,,21,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,1,1,0,3,1,2,1,3,2.2,A,0,1,miles-wilson-1,Miles Wilson,2017
+6,6,6,2016-11-23,Mount St. Mary's,@,UT Arlington,REG (Non-Conf),L 71-80,,32,9,14,0.643,2,4,0.5,7,10,0.7,0.714,6,10,0.6,0,3,3,0,1,1,3,3,26,16.6,A,0,1,miles-wilson-1,Miles Wilson,2017
+7,7,7,2016-11-26,Mount St. Mary's,@,Michigan,REG (Non-Conf),L 47-64,,22,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,0,1,1,1,1,0,2,0,2,-1.1,A,0,1,miles-wilson-1,Miles Wilson,2017
+8,8,8,2016-11-28,Mount St. Mary's,@,Arkansas,REG (Non-Conf),L 76-89,,15,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,1,0,0,1,4,3,1.1,A,0,1,miles-wilson-1,Miles Wilson,2017
+9,9,9,2016-12-03,Mount St. Mary's,@,Loyola (MD),REG (Non-Conf),L 57-64,,16,2,7,0.286,1,2,0.5,1,5,0.2,0.357,1,2,0.5,0,2,2,0,1,0,1,2,6,1.3,A,0,1,miles-wilson-1,Miles Wilson,2017
+10,10,10,2016-12-07,Mount St. Mary's,,UMBC,REG (Non-Conf),L 70-78,,17,5,11,0.455,2,5,0.4,3,6,0.5,0.545,2,2,1.0,0,3,3,0,1,1,0,4,14,9.3,H,0,1,miles-wilson-1,Miles Wilson,2017
+11,11,11,2016-12-10,Mount St. Mary's,,Lehigh,REG (Non-Conf),L 71-90,*,26,4,8,0.5,0,3,0.0,4,5,0.8,0.5,7,8,0.875,0,1,1,1,0,1,2,1,15,9.9,H,0,1,miles-wilson-1,Miles Wilson,2017
+12,12,12,2016-12-19,Mount St. Mary's,@,Bucknell,REG (Non-Conf),L 65-81,*,32,5,11,0.455,1,4,0.25,4,7,0.571,0.5,3,4,0.75,0,2,2,1,1,2,4,2,14,6.8,A,0,1,miles-wilson-1,Miles Wilson,2017
+13,13,13,2016-12-22,Mount St. Mary's,,Coppin State,REG (Non-Conf),W 87-49,*,23,4,4,1.0,3,3,1.0,1,1,1.0,1.375,0,0,,0,1,1,2,1,1,1,1,11,11.8,H,1,1,miles-wilson-1,Miles Wilson,2017
+14,14,14,2016-12-29,Mount St. Mary's,@,LIU Brooklyn,REG (Conf),W 67-65,*,32,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,3,0.667,0,2,2,3,1,1,1,4,7,5.7,A,1,1,miles-wilson-1,Miles Wilson,2017
+15,15,15,2016-12-31,Mount St. Mary's,,Wagner,REG (Conf),W 57-56,*,30,4,14,0.286,2,6,0.333,2,8,0.25,0.357,3,4,0.75,2,3,5,0,0,1,1,2,13,5.6,H,1,1,miles-wilson-1,Miles Wilson,2017
+16,16,16,2017-01-05,Mount St. Mary's,@,Bryant,REG (Conf),L 71-72,,32,6,10,0.6,0,1,0.0,6,9,0.667,0.6,6,7,0.857,1,3,4,0,1,0,1,5,18,12.6,A,0,1,miles-wilson-1,Miles Wilson,2017
+17,17,17,2017-01-07,Mount St. Mary's,@,Central Connecticut State,REG (Conf),W 77-68,*,27,8,12,0.667,0,1,0.0,8,11,0.727,0.667,5,6,0.833,2,1,3,1,0,0,1,3,21,15.6,A,1,1,miles-wilson-1,Miles Wilson,2017
+18,18,19,2017-01-14,Mount St. Mary's,,Saint Francis (PA),REG (Conf),W 78-72,*,31,6,13,0.462,0,2,0.0,6,11,0.545,0.462,1,2,0.5,1,2,3,1,2,1,1,2,13,8.8,H,1,1,miles-wilson-1,Miles Wilson,2017
+19,19,20,2017-01-19,Mount St. Mary's,@,Sacred Heart,REG (Conf),W 86-75,*,32,6,12,0.5,3,5,0.6,3,7,0.429,0.625,2,2,1.0,1,3,4,1,1,0,4,3,17,9.1,A,1,1,miles-wilson-1,Miles Wilson,2017
+20,20,21,2017-01-21,Mount St. Mary's,@,St. Francis Brooklyn,REG (Conf),W 55-47,*,35,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,1,4,5,0,0,0,1,2,9,5.1,A,1,1,miles-wilson-1,Miles Wilson,2017
+21,21,22,2017-01-26,Mount St. Mary's,,Robert Morris,REG (Conf),W 48-47,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,4,5,0,1,2,5,3,4,0.4,H,1,1,miles-wilson-1,Miles Wilson,2017
+22,22,23,2017-01-28,Mount St. Mary's,,Sacred Heart,REG (Conf),W 67-53,*,28,4,10,0.4,0,2,0.0,4,8,0.5,0.4,3,4,0.75,0,4,4,1,2,0,2,3,11,5.9,H,1,1,miles-wilson-1,Miles Wilson,2017
+23,23,24,2017-02-02,Mount St. Mary's,,Bryant,REG (Conf),W 77-70,*,39,8,10,0.8,1,1,1.0,7,9,0.778,0.85,2,4,0.5,0,0,0,0,0,1,2,0,19,13.1,H,1,1,miles-wilson-1,Miles Wilson,2017
+24,24,25,2017-02-04,Mount St. Mary's,,Central Connecticut State,REG (Conf),L 52-54,*,30,3,11,0.273,1,6,0.167,2,5,0.4,0.318,2,2,1.0,0,7,7,0,0,1,4,3,9,0.1,H,0,1,miles-wilson-1,Miles Wilson,2017
+25,25,26,2017-02-09,Mount St. Mary's,@,Robert Morris,REG (Conf),W 74-70,*,17,2,6,0.333,0,1,0.0,2,5,0.4,0.333,5,5,1.0,0,2,2,0,0,0,1,4,9,3.6,A,1,1,miles-wilson-1,Miles Wilson,2017
+26,26,27,2017-02-11,Mount St. Mary's,@,Saint Francis (PA),REG (Conf),W 81-62,*,35,8,16,0.5,3,8,0.375,5,8,0.625,0.594,1,2,0.5,4,3,7,2,2,0,4,2,20,13.9,A,1,1,miles-wilson-1,Miles Wilson,2017
+27,27,28,2017-02-16,Mount St. Mary's,@,Wagner,REG (Conf),L 65-69,*,37,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,6,0.5,1,2,3,0,1,0,1,2,5,-0.2,A,0,1,miles-wilson-1,Miles Wilson,2017
+28,28,29,2017-02-18,Mount St. Mary's,@,Fairleigh Dickinson,REG (Conf),W 79-74,*,33,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,4,0.75,0,4,4,1,1,0,4,2,7,0.6,A,1,1,miles-wilson-1,Miles Wilson,2017
+29,29,30,2017-02-23,Mount St. Mary's,,LIU Brooklyn,REG (Conf),L 58-62,*,37,5,10,0.5,1,3,0.333,4,7,0.571,0.55,0,0,,1,3,4,0,0,1,1,3,11,6.1,H,0,1,miles-wilson-1,Miles Wilson,2017
+30,30,31,2017-02-25,Mount St. Mary's,,St. Francis Brooklyn,REG (Conf),W 77-62,,22,6,11,0.545,1,3,0.333,5,8,0.625,0.591,4,6,0.667,0,6,6,1,2,0,2,3,17,12.2,H,1,1,miles-wilson-1,Miles Wilson,2017
+31,31,32,2017-03-01,Mount St. Mary's,,Sacred Heart,CTOURN,W 76-73,*,26,3,5,0.6,2,3,0.667,1,2,0.5,0.8,2,2,1.0,0,5,5,1,0,0,2,3,10,6.7,H,1,0,miles-wilson-1,Miles Wilson,2017
+32,32,33,2017-03-04,Mount St. Mary's,,Robert Morris,CTOURN,W 75-66,*,39,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,7,8,1,1,0,4,2,7,5.1,H,1,0,miles-wilson-1,Miles Wilson,2017
+33,33,34,2017-03-07,Mount St. Mary's,,Saint Francis (PA),CTOURN,W 71-61,*,38,5,12,0.417,2,5,0.4,3,7,0.429,0.5,3,4,0.75,2,8,10,2,1,1,2,1,15,12.7,H,1,0,miles-wilson-1,Miles Wilson,2017
+34,34,35,2017-03-14,Mount St. Mary's,N,New Orleans,FIRST-FOUR,W 67-66,*,40,5,12,0.417,3,4,0.75,2,8,0.25,0.542,4,8,0.5,0,11,11,4,2,0,3,2,17,13.3,N,1,0,miles-wilson-1,Miles Wilson,2017
+35,35,36,2017-03-16,Mount St. Mary's,N,Villanova,ROUND-64,L 56-76,*,37,7,20,0.35,2,7,0.286,5,13,0.385,0.4,6,6,1.0,2,5,7,0,1,0,2,3,22,11.5,N,0,0,miles-wilson-1,Miles Wilson,2017

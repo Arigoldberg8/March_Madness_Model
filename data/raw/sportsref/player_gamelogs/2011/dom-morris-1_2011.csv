@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Boston University,@,Northeastern,REG (Non-Conf),L 64-66,,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,3,3,1,0,0,0,2,0,-1.3,A,0,1,dom-morris-1,Dom Morris,2011
+2,2,2,2010-11-16,Boston University,N,George Washington,REG (Non-Conf),W 76-67,*,21,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,1,1,2,0,0,0,4,2,9,2.6,N,1,1,dom-morris-1,Dom Morris,2011
+3,3,3,2010-11-17,Boston University,@,Villanova,REG (Non-Conf),L 66-82,*,19,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,2,2,1,0,0,0,3,3,2.4,A,0,1,dom-morris-1,Dom Morris,2011
+4,4,4,2010-11-19,Boston University,,Marist,REG (Non-Conf),W 58-37,,32,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,2,0.5,2,3,5,1,0,2,1,1,7,5.9,H,1,1,dom-morris-1,Dom Morris,2011
+5,5,5,2010-11-22,Boston University,N,Hampton,REG (Non-Conf),L 50-51,,25,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,5,5,10,1,0,0,1,2,7,5.8,N,0,1,dom-morris-1,Dom Morris,2011
+6,6,6,2010-11-23,Boston University,N,Nevada,REG (Non-Conf),W 66-57,,18,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,2,5,7,0,2,2,0,1,1,5.8,N,1,1,dom-morris-1,Dom Morris,2011
+7,7,7,2010-11-27,Boston University,,Cornell,REG (Non-Conf),W 66-61,,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,3,2,5,0,0,0,2,1,7,4.2,H,1,1,dom-morris-1,Dom Morris,2011
+8,8,8,2010-11-30,Boston University,@,Kentucky,REG (Non-Conf),L 57-91,,22,1,4,0.25,0,0,,1,4,0.25,0.25,1,1,1.0,2,2,4,0,0,0,0,1,3,2.2,A,0,1,dom-morris-1,Dom Morris,2011
+9,9,9,2010-12-04,Boston University,@,Bucknell,REG (Non-Conf),L 49-52,,20,4,9,0.444,0,0,,4,9,0.444,0.444,2,2,1.0,2,1,3,1,0,0,0,1,10,7.3,A,0,1,dom-morris-1,Dom Morris,2011
+10,10,10,2010-12-09,Boston University,,La Salle,REG (Non-Conf),L 81-84,,27,5,7,0.714,3,3,1.0,2,4,0.5,0.929,2,2,1.0,2,6,8,1,1,2,4,4,15,12.8,H,0,1,dom-morris-1,Dom Morris,2011
+11,11,11,2010-12-11,Boston University,@,Harvard,REG (Non-Conf),L 71-87,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,4,5,1,0,0,2,3,0,-1.3,A,0,1,dom-morris-1,Dom Morris,2011
+12,12,12,2010-12-21,Boston University,,Saint Joseph's,REG (Non-Conf),W 85-79,,19,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,3,3,6,0,0,0,0,2,5,4.1,H,1,1,dom-morris-1,Dom Morris,2011
+13,13,13,2010-12-29,Boston University,,Quinnipiac,REG (Non-Conf),L 81-82,,12,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,2,3,5,0,1,0,1,4,5,4.4,H,0,1,dom-morris-1,Dom Morris,2011
+14,14,14,2010-12-31,Boston University,@,Massachusetts,REG (Non-Conf),L 54-71,,18,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,2,3,0,0,0,0,1,0,-2.6,A,0,1,dom-morris-1,Dom Morris,2011
+15,15,18,2011-01-15,Boston University,@,Albany (NY),REG (Conf),W 70-67,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,0,0,-2.7,A,1,1,dom-morris-1,Dom Morris,2011
+16,16,19,2011-01-17,Boston University,@,UMBC,REG (Conf),L 67-71,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,1,3,0,0,0,3,3,4,-0.5,A,0,1,dom-morris-1,Dom Morris,2011
+17,17,20,2011-01-20,Boston University,,Stony Brook,REG (Conf),W 67-62,*,23,2,6,0.333,1,1,1.0,1,5,0.2,0.417,0,0,,2,2,4,0,0,0,3,1,5,0.2,H,1,1,dom-morris-1,Dom Morris,2011
+18,18,21,2011-01-22,Boston University,@,Hartford,REG (Conf),L 55-59,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,1,1,0,2,3,4,1.5,A,0,1,dom-morris-1,Dom Morris,2011
+19,19,22,2011-01-26,Boston University,,Binghamton,REG (Conf),W 71-66,*,33,4,10,0.4,3,5,0.6,1,5,0.2,0.55,4,5,0.8,1,4,5,1,0,1,1,1,15,11.1,H,1,1,dom-morris-1,Dom Morris,2011
+20,20,23,2011-01-29,Boston University,@,New Hampshire,REG (Conf),L 48-60,*,23,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,1,2,3,0,0,1,2,1,4,0.5,A,0,1,dom-morris-1,Dom Morris,2011
+21,21,24,2011-02-01,Boston University,,Maine,REG (Conf),W 88-78,*,35,5,9,0.556,0,2,0.0,5,7,0.714,0.556,2,5,0.4,2,1,3,1,2,0,1,3,12,8.7,H,1,1,dom-morris-1,Dom Morris,2011
+22,22,25,2011-02-04,Boston University,@,Stony Brook,REG (Conf),W 62-49,*,36,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,1,7,8,1,2,0,1,4,5,4.5,A,1,1,dom-morris-1,Dom Morris,2011
+23,23,26,2011-02-10,Boston University,N,Albany (NY),REG (Conf),W 63-44,*,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,1,0,0,1,2,5,1.5,N,1,1,dom-morris-1,Dom Morris,2011
+24,24,27,2011-02-12,Boston University,,Hartford,REG (Conf),W 61-50,*,32,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,5,8,1,0,0,0,2,4,5.5,H,1,1,dom-morris-1,Dom Morris,2011
+25,25,28,2011-02-15,Boston University,,UMBC,REG (Conf),W 85-53,*,17,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,2,0.0,1,3,4,2,0,0,1,3,4,-0.1,H,1,1,dom-morris-1,Dom Morris,2011
+26,26,29,2011-02-19,Boston University,,Canisius,REG (Non-Conf),W 70-62,*,16,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,0,0,0,0,0,1,3,6,2.5,H,1,1,dom-morris-1,Dom Morris,2011
+27,27,30,2011-02-24,Boston University,@,Binghamton,REG (Conf),W 53-51,*,34,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,1,9,10,0,1,0,1,3,6,5.5,A,1,1,dom-morris-1,Dom Morris,2011
+28,28,31,2011-02-27,Boston University,@,Vermont,REG (Conf),W 66-64 (OT),*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,5,5,1.0,3,8,11,0,1,0,2,3,7,6.2,A,1,1,dom-morris-1,Dom Morris,2011
+29,29,32,2011-03-05,Boston University,N,New Hampshire,CTOURN,W 69-60,*,28,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,1,1,2,1,0,0,1,0,8,6.4,N,1,0,dom-morris-1,Dom Morris,2011
+30,30,33,2011-03-06,Boston University,N,Hartford,CTOURN,W 55-49,*,30,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,6,6,0,1,0,2,2,9,6.4,N,1,0,dom-morris-1,Dom Morris,2011
+31,31,34,2011-03-12,Boston University,,Stony Brook,CTOURN,W 56-54,*,28,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,1,0.0,4,4,8,0,0,0,1,2,4,1.7,H,1,0,dom-morris-1,Dom Morris,2011
+32,32,35,2011-03-18,Boston University,N,Kansas,ROUND-64,L 53-72,*,28,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,0,1,1,1,0,0,0,1,9,5.9,N,0,0,dom-morris-1,Dom Morris,2011

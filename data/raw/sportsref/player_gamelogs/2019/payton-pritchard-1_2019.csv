@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,76,1,2018-11-06,Oregon,,Portland State,REG (Non-Conf),W 84-57,*,31,6,7,0.857,1,1,1.0,5,6,0.833,0.929,9,9,1.0,2,1,3,3,1,0,5,1,22,18.9,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+2,77,2,2018-11-09,Oregon,,Eastern Washington,REG (Non-Conf),W 81-47,*,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,2,2,1.0,1,3,4,8,2,0,1,0,10,14.2,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+3,78,3,2018-11-15,Oregon,N,Iowa,REG (Non-Conf),L 69-77,*,35,1,9,0.111,0,4,0.0,1,5,0.2,0.111,3,6,0.5,1,5,6,5,0,0,2,5,5,-0.4,N,0,1,payton-pritchard-1,Payton Pritchard,2019
+4,79,4,2018-11-16,Oregon,N,Syracuse,REG (Non-Conf),W 80-65,*,36,4,5,0.8,2,3,0.667,2,2,1.0,1.0,8,8,1.0,1,4,5,4,4,0,2,3,18,21.6,N,1,1,payton-pritchard-1,Payton Pritchard,2019
+5,80,5,2018-11-20,Oregon,,Green Bay,REG (Non-Conf),W 83-72,*,38,5,11,0.455,3,6,0.5,2,5,0.4,0.591,5,6,0.833,0,6,6,5,1,1,3,2,18,15.1,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+6,81,6,2018-11-26,Oregon,,Texas Southern,REG (Non-Conf),L 84-89,*,36,5,11,0.455,4,8,0.5,1,3,0.333,0.636,0,0,,0,3,3,7,0,0,3,2,14,10.3,H,0,1,payton-pritchard-1,Payton Pritchard,2019
+7,82,7,2018-12-01,Oregon,@,Houston,REG (Non-Conf),L 61-65,*,35,3,13,0.231,2,10,0.2,1,3,0.333,0.308,0,0,,2,1,3,0,3,0,3,4,8,0.2,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+8,83,8,2018-12-08,Oregon,,Omaha,REG (Non-Conf),W 84-61,*,33,3,8,0.375,1,5,0.2,2,3,0.667,0.438,0,0,,1,0,1,7,0,0,0,1,7,7.8,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+9,84,9,2018-12-12,Oregon,,San Diego,REG (Non-Conf),W 65-55,*,33,3,6,0.5,1,2,0.5,2,4,0.5,0.583,5,6,0.833,3,3,6,7,0,0,2,2,12,13.7,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+10,85,10,2018-12-15,Oregon,,Boise State,REG (Non-Conf),W 66-54,*,38,7,12,0.583,1,3,0.333,6,9,0.667,0.625,4,4,1.0,2,3,5,1,3,0,1,1,19,18.0,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+11,86,11,2018-12-18,Oregon,,Florida A&M,REG (Non-Conf),W 71-64,*,29,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,0,2,2,4,4,0,3,1,10,11.0,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+12,87,12,2018-12-21,Oregon,@,Baylor,REG (Non-Conf),L 47-57,*,39,5,13,0.385,4,10,0.4,1,3,0.333,0.538,0,0,,0,3,3,3,0,0,1,1,14,8.5,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+13,88,13,2018-12-29,Oregon,@,Boise State,REG (Non-Conf),W 62-50,*,38,1,10,0.1,1,7,0.143,0,3,0.0,0.15,0,0,,0,3,3,5,1,0,0,1,3,1.4,A,1,1,payton-pritchard-1,Payton Pritchard,2019
+14,89,14,2019-01-05,Oregon,,Oregon State,REG (Conf),L 72-77,*,39,5,16,0.313,2,9,0.222,3,7,0.429,0.375,2,2,1.0,0,0,0,6,1,0,3,4,14,5.4,H,0,1,payton-pritchard-1,Payton Pritchard,2019
+15,90,15,2019-01-10,Oregon,,UCLA,REG (Conf),L 84-87 (OT),*,41,0,6,0.0,0,5,0.0,0,1,0.0,0.0,4,4,1.0,0,7,7,3,0,0,3,2,4,0.2,H,0,1,payton-pritchard-1,Payton Pritchard,2019
+16,91,16,2019-01-13,Oregon,,Southern California,REG (Conf),W 81-60,*,32,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,0,0,0,5,0,0,2,4,9,5.9,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+17,92,17,2019-01-17,Oregon,@,Arizona,REG (Conf),W 59-54,*,31,2,9,0.222,0,2,0.0,2,7,0.286,0.222,4,4,1.0,2,2,4,4,2,1,2,4,8,6.4,A,1,1,payton-pritchard-1,Payton Pritchard,2019
+18,93,18,2019-01-19,Oregon,@,Arizona State,REG (Conf),L 64-78,*,34,5,12,0.417,4,9,0.444,1,3,0.333,0.583,6,6,1.0,4,2,6,4,3,0,3,2,20,19.0,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+19,94,19,2019-01-24,Oregon,,Washington,REG (Conf),L 56-61,*,40,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,0,2,2,4,3,0,5,2,9,5.9,H,0,1,payton-pritchard-1,Payton Pritchard,2019
+20,95,20,2019-01-27,Oregon,,Washington State,REG (Conf),W 78-58,*,34,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,3,3,8,6,0,0,2,5,10.5,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+21,96,21,2019-01-31,Oregon,@,Utah,REG (Conf),W 78-72,*,37,4,11,0.364,0,3,0.0,4,8,0.5,0.364,4,4,1.0,1,6,7,3,1,1,2,4,12,8.6,A,1,1,payton-pritchard-1,Payton Pritchard,2019
+22,97,22,2019-02-02,Oregon,@,Colorado,REG (Conf),L 51-73,*,37,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,3,0.667,0,3,3,3,1,0,0,3,10,8.0,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+23,98,23,2019-02-06,Oregon,,California,REG (Conf),W 73-62,*,37,7,14,0.5,5,9,0.556,2,5,0.4,0.679,1,2,0.5,0,10,10,1,2,0,3,1,20,14.9,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+24,99,24,2019-02-10,Oregon,,Stanford,REG (Conf),W 69-46,*,37,8,13,0.615,2,4,0.5,6,9,0.667,0.692,2,2,1.0,0,4,4,2,1,0,1,1,20,16.3,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+25,100,25,2019-02-16,Oregon,@,Oregon State,REG (Conf),L 57-72,*,38,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,3,0.333,0,2,2,7,0,0,1,2,4,4.5,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+26,101,26,2019-02-21,Oregon,@,Southern California,REG (Conf),L 49-66,*,35,2,10,0.2,1,7,0.143,1,3,0.333,0.25,0,0,,0,1,1,0,3,0,0,2,5,1.3,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+27,102,27,2019-02-23,Oregon,@,UCLA,REG (Conf),L 83-90,*,38,6,13,0.462,2,7,0.286,4,6,0.667,0.538,4,4,1.0,2,2,4,8,1,0,3,4,18,15.3,A,0,1,payton-pritchard-1,Payton Pritchard,2019
+28,103,28,2019-02-28,Oregon,,Arizona State,REG (Conf),W 79-51,*,34,6,10,0.6,2,3,0.667,4,7,0.571,0.7,4,7,0.571,1,3,4,4,2,0,2,3,18,15.4,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+29,104,29,2019-03-02,Oregon,,Arizona,REG (Conf),W 73-47,*,32,4,9,0.444,2,6,0.333,2,3,0.667,0.556,2,2,1.0,0,6,6,3,4,0,0,2,12,14.4,H,1,1,payton-pritchard-1,Payton Pritchard,2019
+30,105,30,2019-03-06,Oregon,@,Washington State,REG (Conf),W 72-61,*,35,7,12,0.583,0,3,0.0,7,9,0.778,0.583,1,2,0.5,0,0,0,7,3,0,1,1,15,15.5,A,1,1,payton-pritchard-1,Payton Pritchard,2019
+31,106,31,2019-03-09,Oregon,@,Washington,REG (Conf),W 55-47,*,37,5,10,0.5,3,7,0.429,2,3,0.667,0.65,3,5,0.6,2,1,3,3,5,0,4,4,16,13.4,A,1,1,payton-pritchard-1,Payton Pritchard,2019
+32,107,32,2019-03-13,Oregon,N,Washington State,CTOURN,W 84-51,*,23,3,11,0.273,1,5,0.2,2,6,0.333,0.318,0,0,,0,2,2,2,3,0,0,1,7,5.1,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+33,108,33,2019-03-14,Oregon,N,Utah,CTOURN,W 66-54,*,40,8,16,0.5,0,0,,8,16,0.5,0.5,4,5,0.8,1,3,4,5,1,0,1,2,20,15.9,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+34,109,34,2019-03-15,Oregon,N,Arizona State,CTOURN,W 79-75 (OT),*,40,8,17,0.471,2,6,0.333,6,11,0.545,0.529,0,0,,2,1,3,8,0,0,1,0,18,15.6,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+35,110,35,2019-03-16,Oregon,N,Washington,CTOURN,W 68-48,*,35,7,9,0.778,2,4,0.5,5,5,1.0,0.889,4,4,1.0,2,4,6,7,4,0,2,2,20,25.2,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+36,111,36,2019-03-22,Oregon,N,Wisconsin,ROUND-64,W 72-54,*,35,8,18,0.444,2,6,0.333,6,12,0.5,0.5,1,1,1.0,0,5,5,8,2,0,7,3,19,10.5,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+37,112,37,2019-03-24,Oregon,N,UC Irvine,ROUND-32,W 73-54,*,39,7,18,0.389,2,5,0.4,5,13,0.385,0.444,2,2,1.0,2,2,4,7,1,0,1,1,18,14.7,N,1,0,payton-pritchard-1,Payton Pritchard,2019
+38,113,38,2019-03-28,Oregon,N,Virginia,ROUND-16,L 49-53,*,40,3,12,0.25,1,6,0.167,2,6,0.333,0.292,4,6,0.667,1,6,7,4,0,0,2,3,11,5.1,N,0,0,payton-pritchard-1,Payton Pritchard,2019

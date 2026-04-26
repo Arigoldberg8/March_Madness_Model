@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,38,1,2011-11-11,Florida,,Jackson State,REG (Non-Conf),W 99-59,*,27,6,8,0.75,0,0,6,8,0.75,0.75,0,0,,3,7,10,3,3,2,4,1,12,15.1,H,1,1,patric-young-1,Patric Young,2012
+2,39,2,2011-11-15,Florida,@,Ohio State,REG (Non-Conf),L 74-81,*,33,5,10,0.5,0,0,5,10,0.5,0.5,4,6,0.667,4,8,12,0,0,1,1,2,14,12.3,A,0,1,patric-young-1,Patric Young,2012
+3,40,3,2011-11-17,Florida,,North Florida,REG (Non-Conf),W 91-55,*,23,3,7,0.429,0,0,3,7,0.429,0.429,1,2,0.5,3,2,5,1,1,2,3,3,7,4.5,H,1,1,patric-young-1,Patric Young,2012
+4,41,4,2011-11-21,Florida,N,Wright State,REG (Non-Conf),W 78-65,*,22,1,7,0.143,0,0,1,7,0.143,0.143,3,5,0.6,2,5,7,2,0,0,0,1,5,3.6,N,1,1,patric-young-1,Patric Young,2012
+5,42,5,2011-11-25,Florida,,Jacksonville,REG (Non-Conf),W 107-62,*,24,6,9,0.667,0,0,6,9,0.667,0.667,2,5,0.4,2,7,9,2,1,3,1,1,14,15.5,H,1,1,patric-young-1,Patric Young,2012
+6,43,6,2011-11-28,Florida,N,Stetson,REG (Non-Conf),W 96-70,*,20,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,1,2,3,2,1,2,0,4,9,8.8,N,1,1,patric-young-1,Patric Young,2012
+7,44,7,2011-12-02,Florida,@,Syracuse,REG (Non-Conf),L 68-72,*,25,2,5,0.4,0,0,2,5,0.4,0.4,2,2,1.0,2,3,5,1,0,2,3,4,6,3.1,A,0,1,patric-young-1,Patric Young,2012
+8,45,8,2011-12-07,Florida,,Arizona,REG (Non-Conf),W 78-72 (OT),*,38,12,15,0.8,0,0,12,15,0.8,0.8,1,6,0.167,6,4,10,2,1,2,0,3,25,25.3,H,1,1,patric-young-1,Patric Young,2012
+9,46,9,2011-12-09,Florida,N,Rider,REG (Non-Conf),W 90-69,*,28,5,7,0.714,0,0,5,7,0.714,0.714,2,2,1.0,5,5,10,1,1,0,1,1,12,14.4,N,1,1,patric-young-1,Patric Young,2012
+10,47,10,2011-12-17,Florida,N,Texas A&M,REG (Non-Conf),W 84-64,*,20,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,2,2,4,2,0,0,2,4,5,3.8,N,1,1,patric-young-1,Patric Young,2012
+11,48,11,2011-12-19,Florida,,Mississippi Valley State,REG (Non-Conf),W 82-54,*,24,4,6,0.667,0,0,4,6,0.667,0.667,4,5,0.8,1,7,8,4,0,1,2,1,12,12.9,H,1,1,patric-young-1,Patric Young,2012
+12,49,12,2011-12-22,Florida,,Florida State,REG (Non-Conf),W 82-64,*,24,7,7,1.0,0,0,7,7,1.0,1.0,1,2,0.5,2,2,4,0,1,1,1,3,15,14.0,H,1,1,patric-young-1,Patric Young,2012
+13,50,13,2011-12-29,Florida,@,Rutgers,REG (Non-Conf),L 83-85 (2OT),*,41,4,8,0.5,0,0,4,8,0.5,0.5,3,3,1.0,3,3,6,1,0,0,1,2,11,8.9,A,0,1,patric-young-1,Patric Young,2012
+14,51,14,2011-12-31,Florida,,Yale,REG (Non-Conf),W 90-70,*,30,6,10,0.6,0,0,6,10,0.6,0.6,7,8,0.875,1,3,4,5,0,1,2,3,19,16.6,H,1,1,patric-young-1,Patric Young,2012
+15,52,15,2012-01-03,Florida,,UAB,REG (Non-Conf),W 79-61,*,26,7,10,0.7,0,0,7,10,0.7,0.7,1,2,0.5,4,3,7,1,0,0,1,5,15,11.8,H,1,1,patric-young-1,Patric Young,2012
+16,53,16,2012-01-07,Florida,@,Tennessee,REG (Conf),L 56-67,*,32,4,9,0.444,0,0,4,9,0.444,0.444,4,7,0.571,3,4,7,2,2,1,1,2,12,11.7,A,0,1,patric-young-1,Patric Young,2012
+17,54,17,2012-01-10,Florida,,Georgia,REG (Conf),W 70-48,*,32,4,5,0.8,0,0,4,5,0.8,0.8,0,2,0.0,1,9,10,0,0,1,3,1,8,6.0,H,1,1,patric-young-1,Patric Young,2012
+18,55,18,2012-01-14,Florida,@,South Carolina,REG (Conf),W 79-65,,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,2,3,0,0,1,0,4,4,3.8,A,1,1,patric-young-1,Patric Young,2012
+19,56,19,2012-01-21,Florida,,Louisiana State,REG (Conf),W 76-64,,24,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,5,7,2,0,1,2,3,8,8.9,H,1,1,patric-young-1,Patric Young,2012
+20,57,20,2012-01-26,Florida,@,Ole Miss,REG (Conf),W 64-60,,26,7,10,0.7,0,0,7,10,0.7,0.7,1,3,0.333,1,3,4,0,1,0,2,4,15,9.0,A,1,1,patric-young-1,Patric Young,2012
+21,58,21,2012-01-28,Florida,,Mississippi State,REG (Conf),W 69-57,,24,6,11,0.545,0,0,6,11,0.545,0.545,0,0,,3,3,6,1,1,0,1,3,12,9.2,H,1,1,patric-young-1,Patric Young,2012
+22,59,22,2012-02-02,Florida,,South Carolina,REG (Conf),W 74-66,,25,2,4,0.5,0,0,2,4,0.5,0.5,1,3,0.333,4,1,5,1,1,0,4,1,5,2.6,H,1,1,patric-young-1,Patric Young,2012
+23,60,23,2012-02-04,Florida,,Vanderbilt,REG (Conf),W 73-65,*,14,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,1,4,0,0,1,3,4,2,-1.2,H,1,1,patric-young-1,Patric Young,2012
+24,61,24,2012-02-07,Florida,@,Kentucky,REG (Conf),L 58-78,*,29,5,10,0.5,0,0,5,10,0.5,0.5,2,2,1.0,1,3,4,1,0,2,2,2,12,7.9,A,0,1,patric-young-1,Patric Young,2012
+25,62,25,2012-02-11,Florida,,Tennessee,REG (Conf),L 70-75,*,36,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,1,7,8,1,0,1,2,3,7,5.6,H,0,1,patric-young-1,Patric Young,2012
+26,63,26,2012-02-14,Florida,@,Alabama,REG (Conf),W 61-52,*,22,9,12,0.75,0,0,9,12,0.75,0.75,1,1,1.0,2,1,3,0,0,0,2,5,19,11.9,A,1,1,patric-young-1,Patric Young,2012
+27,64,27,2012-02-18,Florida,@,Arkansas,REG (Conf),W 98-68,*,16,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,1,1,2,2,4,4,3.4,A,1,1,patric-young-1,Patric Young,2012
+28,65,28,2012-02-21,Florida,,Auburn,REG (Conf),W 63-47,*,27,1,2,0.5,0,0,1,2,0.5,0.5,1,3,0.333,2,2,4,1,0,0,1,0,3,2.9,H,1,1,patric-young-1,Patric Young,2012
+29,66,29,2012-02-25,Florida,@,Georgia,REG (Conf),L 62-76,*,30,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,5,6,11,0,1,1,3,4,8,5.7,A,0,1,patric-young-1,Patric Young,2012
+30,67,30,2012-02-28,Florida,@,Vanderbilt,REG (Conf),L 67-77,*,25,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,5,3,8,0,0,0,2,3,4,3.5,A,0,1,patric-young-1,Patric Young,2012
+31,68,31,2012-03-04,Florida,,Kentucky,REG (Conf),L 59-74,*,35,10,15,0.667,0,0,10,15,0.667,0.667,1,1,1.0,5,4,9,0,0,0,0,1,21,18.8,H,0,1,patric-young-1,Patric Young,2012
+32,69,32,2012-03-09,Florida,N,Alabama,CTOURN,W 66-63,*,27,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,3,2,5,1,0,1,0,5,6,4.4,N,1,0,patric-young-1,Patric Young,2012
+33,70,33,2012-03-10,Florida,N,Kentucky,CTOURN,L 71-74,*,27,5,9,0.556,0,0,5,9,0.556,0.556,0,0,,3,2,5,1,0,0,1,2,10,7.3,N,0,0,patric-young-1,Patric Young,2012
+34,71,34,2012-03-16,Florida,N,Virginia,ROUND-64,W 71-45,*,22,6,6,1.0,0,0,6,6,1.0,1.0,1,2,0.5,3,4,7,1,0,0,1,3,13,12.6,N,1,0,patric-young-1,Patric Young,2012
+35,72,35,2012-03-18,Florida,N,Norfolk State,ROUND-32,W 84-50,*,26,2,3,0.667,0,0,2,3,0.667,0.667,2,4,0.5,3,1,4,0,0,0,0,0,6,6.3,N,1,0,patric-young-1,Patric Young,2012
+36,73,36,2012-03-22,Florida,N,Marquette,ROUND-16,W 68-58,*,31,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,5,4,9,1,0,1,1,4,7,7.1,N,1,0,patric-young-1,Patric Young,2012
+37,74,37,2012-03-24,Florida,N,Louisville,ROUND-8,L 68-72,*,32,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,4,6,0,2,0,2,3,11,9.1,N,0,0,patric-young-1,Patric Young,2012

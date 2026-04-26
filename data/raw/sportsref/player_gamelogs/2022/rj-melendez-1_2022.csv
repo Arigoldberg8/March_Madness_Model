@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Illinois,,Jackson State,REG (Non-Conf),W 71-47,,18,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,3,0,3,0,0,0,2,1,5,0.6,H,1,1,rj-melendez-1,RJ Melendez,2022
+2,2,2,2021-11-12,Illinois,,Arkansas State,REG (Non-Conf),W 92-53,,8,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,0,1,1,0,0,0,2,6,5.3,H,1,1,rj-melendez-1,RJ Melendez,2022
+3,3,4,2021-11-22,Illinois,N,Cincinnati,REG (Non-Conf),L 51-71,,6,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,2,0.0,0,3,3,0,0,0,0,0,2,1.1,N,0,1,rj-melendez-1,RJ Melendez,2022
+4,4,6,2021-11-26,Illinois,,Texas–Rio Grande Valley,REG (Non-Conf),W 94-85,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,rj-melendez-1,RJ Melendez,2022
+5,5,7,2021-11-29,Illinois,,Notre Dame,REG (Non-Conf),W 82-72,*,14,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,0,,0,1,1,1,0,1,0,0,6,5.7,H,1,1,rj-melendez-1,RJ Melendez,2022
+6,6,8,2021-12-03,Illinois,,Rutgers,REG (Conf),W 86-51,,5,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,1,1,0,1,0,0,0,4,4.7,H,1,1,rj-melendez-1,RJ Melendez,2022
+7,7,10,2021-12-11,Illinois,,Arizona,REG (Non-Conf),L 79-83,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,0,1,rj-melendez-1,RJ Melendez,2022
+8,8,11,2021-12-18,Illinois,,Saint Francis (PA),REG (Non-Conf),W 106-48,,9,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,2,3,5,4,0,0,0,1,5,8.4,H,1,1,rj-melendez-1,RJ Melendez,2022
+9,9,12,2021-12-22,Illinois,N,Missouri,REG (Non-Conf),W 88-63,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,1,1,2,1,0,0,1,1,2,1.6,N,1,1,rj-melendez-1,RJ Melendez,2022
+10,10,13,2022-01-04,Illinois,@,Minnesota,REG (Conf),W 76-53,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,1,0,2,1.0,A,1,1,rj-melendez-1,RJ Melendez,2022
+11,11,16,2022-01-14,Illinois,,Michigan,REG (Conf),W 68-53,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,rj-melendez-1,RJ Melendez,2022
+12,12,18,2022-01-21,Illinois,@,Maryland,REG (Conf),L 65-81,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,rj-melendez-1,RJ Melendez,2022
+13,13,20,2022-01-29,Illinois,@,Northwestern,REG (Conf),W 59-56,,16,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,2,3,1,0,0,1,0,6,5.0,A,1,1,rj-melendez-1,RJ Melendez,2022
+14,14,21,2022-02-02,Illinois,,Wisconsin,REG (Conf),W 80-67,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,rj-melendez-1,RJ Melendez,2022
+15,15,22,2022-02-05,Illinois,@,Indiana,REG (Conf),W 74-57,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,0,0,2,1,0,-0.7,A,1,1,rj-melendez-1,RJ Melendez,2022
+16,16,23,2022-02-08,Illinois,@,Purdue,REG (Conf),L 68-84,,10,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,1,1.0,0,2,2,1,1,0,1,3,8,7.2,A,0,1,rj-melendez-1,RJ Melendez,2022
+17,17,24,2022-02-13,Illinois,,Northwestern,REG (Conf),W 73-66,,17,3,4,0.75,2,3,0.667,1,1,1.0,1.0,6,6,1.0,1,5,6,0,2,1,0,0,14,17.3,H,1,1,rj-melendez-1,RJ Melendez,2022
+18,18,25,2022-02-16,Illinois,@,Rutgers,REG (Conf),L 59-70,,11,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,5,1.0,0,2,2,1,1,1,0,2,10,10.2,A,0,1,rj-melendez-1,RJ Melendez,2022
+19,19,26,2022-02-19,Illinois,@,Michigan State,REG (Conf),W 79-74,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,2,0,0,-2.8,A,1,1,rj-melendez-1,RJ Melendez,2022
+20,20,30,2022-03-06,Illinois,,Iowa,REG (Conf),W 74-72,,8,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,1,3,2.3,H,1,1,rj-melendez-1,RJ Melendez,2022
+21,21,31,2022-03-11,Illinois,N,Indiana,CTOURN,L 63-65,,4,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,N,0,0,rj-melendez-1,RJ Melendez,2022
+22,22,33,2022-03-20,Illinois,N,Houston,ROUND-32,L 53-68,,20,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,0,2,2,3,0,0,0,0,9,9.8,N,0,0,rj-melendez-1,RJ Melendez,2022

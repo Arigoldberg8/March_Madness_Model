@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2023-11-06,Colorado State,,Louisiana Tech,REG (Non-Conf),W 81-73,*,28,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,2,2,1,0,0,0,0,8,7.0,H,1,1,josiah-strong-1,Josiah Strong,2024
+2,95,2,2023-11-10,Colorado State,,Wright State,REG (Non-Conf),W 105-77,*,29,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,3,3,3,0,0,4,2,4,-1.9,H,1,1,josiah-strong-1,Josiah Strong,2024
+3,96,3,2023-11-14,Colorado State,@,Northern Colorado,REG (Non-Conf),W 83-64,*,20,1,6,0.167,0,5,0.0,1,1,1.0,0.167,0,0,,0,3,3,2,0,0,0,0,2,0.5,A,1,1,josiah-strong-1,Josiah Strong,2024
+4,97,4,2023-11-17,Colorado State,,Kansas City,REG (Non-Conf),W 84-61,*,24,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,2,0.0,1,0,1,4,0,0,1,2,10,6.9,H,1,1,josiah-strong-1,Josiah Strong,2024
+5,98,5,2023-11-22,Colorado State,N,Boston College,REG (Non-Conf),W 86-74,*,26,6,7,0.857,2,3,0.667,4,4,1.0,1.0,1,1,1.0,1,1,2,0,0,0,0,3,15,12.3,N,1,1,josiah-strong-1,Josiah Strong,2024
+6,99,6,2023-11-23,Colorado State,N,Creighton,REG (Non-Conf),W 69-48,*,28,4,8,0.5,0,2,0.0,4,6,0.667,0.5,1,1,1.0,0,6,6,1,1,0,2,0,9,6.5,N,1,1,josiah-strong-1,Josiah Strong,2024
+7,100,7,2023-11-29,Colorado State,,Colorado,REG (Non-Conf),W 88-83,*,26,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,0,2,2,1,2,0,0,4,4,3.3,H,1,1,josiah-strong-1,Josiah Strong,2024
+8,101,8,2023-12-02,Colorado State,N,Washington,REG (Non-Conf),W 86-81,*,33,4,9,0.444,2,6,0.333,2,3,0.667,0.556,6,8,0.75,2,3,5,5,0,0,0,1,16,15.9,N,1,1,josiah-strong-1,Josiah Strong,2024
+9,102,15,2024-01-06,Colorado State,@,Utah State,REG (Conf),L 72-77,,19,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,2,1,3,3,1,0,0,2,4,5.3,A,0,1,josiah-strong-1,Josiah Strong,2024
+10,103,16,2024-01-09,Colorado State,@,Boise State,REG (Conf),L 58-65,,20,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,1,1,2,2,1,0,0,4,9,8.2,A,0,1,josiah-strong-1,Josiah Strong,2024
+11,104,17,2024-01-16,Colorado State,,Air Force,REG (Conf),W 78-69 (OT),*,26,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,2,0,0,0,4,8,4.7,H,1,1,josiah-strong-1,Josiah Strong,2024
+12,105,18,2024-01-19,Colorado State,,UNLV,REG (Conf),W 78-75,*,29,3,6,0.5,1,3,0.333,2,3,0.667,0.583,1,2,0.5,0,2,2,1,1,0,1,1,8,5.5,H,1,1,josiah-strong-1,Josiah Strong,2024
+13,106,19,2024-01-24,Colorado State,@,Nevada,REG (Conf),L 64-77,*,27,5,9,0.556,1,4,0.25,4,5,0.8,0.611,1,2,0.5,0,1,1,1,0,0,1,2,12,6.5,A,0,1,josiah-strong-1,Josiah Strong,2024
+14,107,20,2024-01-27,Colorado State,@,Wyoming,REG (Conf),L 76-79 (OT),*,29,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,2,3,5,2,0,1,0,4,3,3.4,A,0,1,josiah-strong-1,Josiah Strong,2024
+15,108,21,2024-01-30,Colorado State,,San Diego State,REG (Conf),W 79-71,*,32,3,6,0.5,0,3,0.0,3,3,1.0,0.5,4,4,1.0,0,3,3,2,1,1,0,0,10,11.0,H,1,1,josiah-strong-1,Josiah Strong,2024
+16,109,22,2024-02-03,Colorado State,@,Fresno State,REG (Conf),W 73-61,*,24,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,2,2,1,0,0,0,0,10,9.4,A,1,1,josiah-strong-1,Josiah Strong,2024
+17,110,23,2024-02-06,Colorado State,,Boise State,REG (Conf),W 75-62,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,1,1,3,1,0,2,2,6,4.3,H,1,1,josiah-strong-1,Josiah Strong,2024
+18,111,24,2024-02-09,Colorado State,,San Jose State,REG (Conf),W 66-47,*,27,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,0,3,3,4,1,0,1,2,7,7.2,H,1,1,josiah-strong-1,Josiah Strong,2024
+19,112,25,2024-02-13,Colorado State,@,San Diego State,REG (Conf),L 55-71,*,29,5,12,0.417,3,7,0.429,2,5,0.4,0.542,1,2,0.5,0,3,3,2,0,0,0,2,14,8.7,A,0,1,josiah-strong-1,Josiah Strong,2024
+20,113,26,2024-02-17,Colorado State,,Utah State,REG (Conf),W 75-55,*,23,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,1,0.0,1,2,3,2,0,0,0,0,4,2.2,H,1,1,josiah-strong-1,Josiah Strong,2024
+21,114,27,2024-02-21,Colorado State,@,New Mexico,REG (Conf),L 66-68,*,26,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,3,0,-3.3,A,0,1,josiah-strong-1,Josiah Strong,2024
+22,115,28,2024-02-24,Colorado State,@,UNLV,REG (Conf),L 60-66,*,33,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,4,4,1,0,0,0,3,5,3.0,A,0,1,josiah-strong-1,Josiah Strong,2024
+23,116,29,2024-02-27,Colorado State,,Nevada,REG (Conf),L 74-77,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,1,0,0,1,3,2,-1.6,H,0,1,josiah-strong-1,Josiah Strong,2024
+24,117,30,2024-03-02,Colorado State,,Wyoming,REG (Conf),W 70-62,*,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,4,5,0,0,1,1,0,5,3.1,H,1,1,josiah-strong-1,Josiah Strong,2024
+25,118,31,2024-03-09,Colorado State,@,Air Force,REG (Conf),W 82-73,*,19,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,3,3,1,1,0,0,1,4,2.8,A,1,1,josiah-strong-1,Josiah Strong,2024
+26,119,32,2024-03-13,Colorado State,N,San Jose State,CTOURN,W 72-62,*,22,2,6,0.333,0,4,0.0,2,2,1.0,0.333,0,0,,0,0,0,0,0,0,2,1,4,-1.8,N,1,0,josiah-strong-1,Josiah Strong,2024
+27,120,33,2024-03-14,Colorado State,N,Nevada,CTOURN,W 85-78,*,23,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,0,0,0,2,0,2,2,5,0.1,N,1,0,josiah-strong-1,Josiah Strong,2024
+28,121,34,2024-03-16,Colorado State,N,New Mexico,CTOURN,L 61-74,*,18,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,1,1,2,0,1,0,0,1,0,-2.6,N,0,0,josiah-strong-1,Josiah Strong,2024
+29,122,35,2024-03-19,Colorado State,N,Virginia,FIRST-FOUR,W 67-42,*,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,1,0,0,1,1,2,0.2,N,1,0,josiah-strong-1,Josiah Strong,2024
+30,123,36,2024-03-21,Colorado State,N,Texas,ROUND-64,L 44-56,*,22,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,0,5,5,0,1,0,3,1,7,2.4,N,0,0,josiah-strong-1,Josiah Strong,2024

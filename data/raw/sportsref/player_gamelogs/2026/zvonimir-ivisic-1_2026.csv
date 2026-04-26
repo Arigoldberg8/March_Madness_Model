@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,51,1,2025-11-03,Illinois,,Jackson State,REG (Non-Conf),W 113-55,,18,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,2,7,9,2,0,2,0,1,4,7.2,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+2,52,2,2025-11-07,Illinois,,Florida Gulf Coast,REG (Non-Conf),W 113-70,*,29,6,9,0.667,3,6,0.5,3,3,1.0,0.833,1,1,1.0,1,8,9,0,0,7,1,3,16,17.9,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+3,53,3,2025-11-11,Illinois,,Texas Tech,REG (Non-Conf),W 81-77,*,24,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,2,5,7,0,0,3,2,2,11,10.2,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+4,54,4,2025-11-14,Illinois,,Colgate,REG (Non-Conf),W 84-65,*,16,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,1,0,1,0,0,1,0,1,3,3.7,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+5,55,5,2025-11-19,Illinois,N,Alabama,REG (Non-Conf),L 86-90,*,16,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,2,0.0,1,2,3,0,0,0,0,1,3,0.0,N,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+6,56,6,2025-11-22,Illinois,,LIU,REG (Non-Conf),W 98-58,,16,4,5,0.8,0,1,0.0,4,4,1.0,0.8,0,0,,0,4,4,2,3,4,2,1,8,12.1,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+7,57,7,2025-11-24,Illinois,,Texas–Rio Grande Valley,REG (Non-Conf),W 87-73,,18,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,1,6,7,0,0,1,0,1,10,10.5,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+8,58,8,2025-11-28,Illinois,N,Connecticut,REG (Non-Conf),L 61-74,,17,1,7,0.143,0,5,0.0,1,2,0.5,0.143,2,2,1.0,1,3,4,0,1,5,2,0,4,3.6,N,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+9,59,9,2025-12-06,Illinois,N,Tennessee,REG (Non-Conf),W 75-62,,9,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,0,0,0,0,3,8,6.2,N,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+10,60,10,2025-12-09,Illinois,@,Ohio State,REG (Conf),W 88-80,,19,4,6,0.667,2,4,0.5,2,2,1.0,0.833,3,4,0.75,0,8,8,0,0,1,0,2,13,12.3,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+11,61,11,2025-12-13,Illinois,,Nebraska,REG (Conf),L 80-83,,11,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,1,2,3,0,0,0,0,1,7,5.2,H,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+12,62,12,2025-12-22,Illinois,N,Missouri,REG (Non-Conf),W 91-48,,17,2,5,0.4,0,3,0.0,2,2,1.0,0.4,4,6,0.667,4,7,11,1,0,3,0,1,8,11.8,N,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+13,63,13,2025-12-29,Illinois,,Southern,REG (Non-Conf),W 90-55,,13,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,0,1,1,0,0,3,0,1,13,12.1,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+14,64,14,2026-01-03,Illinois,@,Penn State,REG (Conf),W 73-65,,23,2,4,0.5,1,3,0.333,1,1,1.0,0.625,1,4,0.25,1,9,10,0,0,5,1,0,6,8.7,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+15,65,15,2026-01-08,Illinois,,Rutgers,REG (Conf),W 81-55,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,1,3,0,0,2,0,2,2,3.3,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+16,66,16,2026-01-11,Illinois,@,Iowa,REG (Conf),W 75-69,,15,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,2,2,1,0,1,2,0,8,5.7,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+17,67,17,2026-01-14,Illinois,@,Northwestern,REG (Conf),W 79-68,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,1,2,0,1,2,0,2,2,2.9,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+18,68,18,2026-01-17,Illinois,,Minnesota,REG (Conf),W 77-67,,18,5,8,0.625,2,5,0.4,3,3,1.0,0.75,6,6,1.0,4,5,9,0,2,3,2,1,18,20.4,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+19,69,19,2026-01-21,Illinois,,Maryland,REG (Conf),W 89-70,,9,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,0,0,2,1,3,1,0.4,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+20,70,20,2026-01-24,Illinois,@,Purdue,REG (Conf),W 88-82,,20,1,4,0.25,1,4,0.25,0,0,,0.375,1,3,0.333,0,2,2,1,0,2,0,0,4,3.5,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+21,71,21,2026-01-29,Illinois,,Washington,REG (Conf),W 75-66,,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,5,5,0,1,1,1,2,2,0.3,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+22,72,22,2026-02-01,Illinois,@,Nebraska,REG (Conf),W 78-69,,20,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,2,5,7,1,0,2,0,2,7,9.9,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+23,73,23,2026-02-04,Illinois,,Northwestern,REG (Conf),W 84-44,,21,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,5,2,7,1,0,2,1,1,13,14.2,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+24,74,24,2026-02-07,Illinois,@,Michigan State,REG (Conf),L 82-85 (OT),,26,2,8,0.25,1,6,0.167,1,2,0.5,0.313,0,0,,2,6,8,0,0,3,1,2,5,3.7,A,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+25,75,25,2026-02-10,Illinois,,Wisconsin,REG (Conf),L 90-92 (OT),,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,3,6,9,0,0,3,1,0,4,6.3,H,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+26,76,26,2026-02-15,Illinois,,Indiana,REG (Conf),W 71-51,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,0,1,2,-0.1,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+27,77,27,2026-02-18,Illinois,@,Southern California,REG (Conf),W 101-65,,20,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,0,0,4,1,3,4,3.9,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+28,78,28,2026-02-21,Illinois,@,UCLA,REG (Conf),L 94-95 (OT),,17,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,1,2,3,0,0,2,0,1,11,10.7,A,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+29,79,29,2026-02-27,Illinois,,Michigan,REG (Conf),L 70-84,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,1,0,2,2,0.2,H,0,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+30,80,30,2026-03-03,Illinois,,Oregon,REG (Conf),W 80-54,,17,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,5,5,0,0,2,0,1,8,7.5,H,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+31,81,31,2026-03-08,Illinois,@,Maryland,REG (Conf),W 78-72,,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,1,2,0,0,0,0,3,8,5.5,A,1,1,zvonimir-ivisic-1,Zvonimir Ivisic,2026
+32,82,32,2026-03-13,Illinois,N,Wisconsin,CTOURN,L 88-91 (OT),,21,4,8,0.5,1,5,0.2,3,3,1.0,0.563,0,0,,0,7,7,0,0,0,0,1,9,6.7,N,0,0,zvonimir-ivisic-1,Zvonimir Ivisic,2026

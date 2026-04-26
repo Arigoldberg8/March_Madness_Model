@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2010-11-13,Saint Peter's,@,Robert Morris,REG (Non-Conf),L 30-55,*,19,0,7,0.0,0,3,0.0,0,4,0.0,0.0,3,5,0.6,0,0,0,1,0,0,1,2,3,-3.8,A,0,1,jeron-belin-1,Jeron Belin,2011
+2,31,2,2010-11-19,Saint Peter's,N,Old Dominion,REG (Non-Conf),L 52-59,*,30,2,10,0.2,1,6,0.167,1,4,0.25,0.25,3,6,0.5,2,2,4,3,1,0,4,3,8,0.5,N,0,1,jeron-belin-1,Jeron Belin,2011
+3,32,3,2010-11-20,Saint Peter's,N,Long Beach State,REG (Non-Conf),L 56-68,*,20,1,8,0.125,1,4,0.25,0,4,0.0,0.188,1,2,0.5,0,1,1,1,0,0,0,2,4,-1.4,N,0,1,jeron-belin-1,Jeron Belin,2011
+4,33,4,2010-11-22,Saint Peter's,N,Alabama,REG (Non-Conf),W 50-49,*,31,2,10,0.2,1,5,0.2,1,5,0.2,0.25,1,2,0.5,1,0,1,1,0,1,1,3,6,-0.7,N,1,1,jeron-belin-1,Jeron Belin,2011
+5,34,5,2010-11-27,Saint Peter's,,LIU Brooklyn,REG (Non-Conf),W 65-62,*,37,9,14,0.643,1,4,0.25,8,10,0.8,0.679,4,9,0.444,1,4,5,2,4,3,4,1,23,19.8,H,1,1,jeron-belin-1,Jeron Belin,2011
+6,35,6,2010-11-29,Saint Peter's,@,Seton Hall,REG (Non-Conf),L 49-69,*,20,2,8,0.25,0,2,0.0,2,6,0.333,0.25,4,6,0.667,1,2,3,1,0,0,3,4,8,-0.2,A,0,1,jeron-belin-1,Jeron Belin,2011
+7,36,7,2010-12-02,Saint Peter's,@,Loyola (MD),REG (Conf),W 55-52,,28,7,11,0.636,0,0,,7,11,0.636,0.636,2,4,0.5,3,3,6,1,1,0,1,4,16,12.4,A,1,1,jeron-belin-1,Jeron Belin,2011
+8,37,8,2010-12-04,Saint Peter's,,Manhattan,REG (Conf),W 66-49,,23,5,10,0.5,1,3,0.333,4,7,0.571,0.55,1,2,0.5,1,0,1,0,1,0,2,1,12,5.9,H,1,1,jeron-belin-1,Jeron Belin,2011
+9,38,9,2010-12-11,Saint Peter's,@,Wagner,REG (Non-Conf),W 51-50,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,1,0.0,1,2,3,1,0,0,3,2,3,-2.3,A,1,1,jeron-belin-1,Jeron Belin,2011
+10,39,10,2010-12-18,Saint Peter's,,Fairleigh Dickinson,REG (Non-Conf),W 60-57,*,35,3,12,0.25,0,3,0.0,3,9,0.333,0.25,2,4,0.5,3,8,11,0,0,3,4,3,8,1.4,H,1,1,jeron-belin-1,Jeron Belin,2011
+11,40,11,2010-12-21,Saint Peter's,@,Binghamton,REG (Non-Conf),W 61-56,*,27,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,9,0.333,2,3,5,0,2,1,2,2,5,0.3,A,1,1,jeron-belin-1,Jeron Belin,2011
+12,41,12,2010-12-23,Saint Peter's,@,Rutgers,REG (Non-Conf),L 52-55,*,30,1,8,0.125,1,3,0.333,0,5,0.0,0.188,1,2,0.5,1,5,6,0,0,0,3,2,4,-3.2,A,0,1,jeron-belin-1,Jeron Belin,2011
+13,42,13,2010-12-29,Saint Peter's,@,Lehigh,REG (Non-Conf),L 64-77,*,34,11,19,0.579,0,2,0.0,11,17,0.647,0.579,6,12,0.5,6,6,12,1,2,0,4,4,28,19.8,A,0,1,jeron-belin-1,Jeron Belin,2011
+14,43,14,2011-01-03,Saint Peter's,,Canisius,REG (Conf),W 63-55,*,29,5,12,0.417,0,2,0.0,5,10,0.5,0.417,2,4,0.5,3,5,8,1,2,2,4,3,12,7.3,H,1,1,jeron-belin-1,Jeron Belin,2011
+15,44,15,2011-01-07,Saint Peter's,@,Iona,REG (Conf),L 52-70,*,24,2,7,0.286,1,3,0.333,1,4,0.25,0.357,4,4,1.0,0,3,3,0,0,0,3,1,9,2.4,A,0,1,jeron-belin-1,Jeron Belin,2011
+16,45,16,2011-01-09,Saint Peter's,@,Fairfield,REG (Conf),L 43-70,,24,2,7,0.286,2,2,1.0,0,5,0.0,0.429,4,5,0.8,3,1,4,1,0,0,2,2,10,5.8,A,0,1,jeron-belin-1,Jeron Belin,2011
+17,46,17,2011-01-15,Saint Peter's,,Niagara,REG (Conf),W 77-57,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,3,0.333,2,0,2,1,0,0,3,4,1,-3.7,H,1,1,jeron-belin-1,Jeron Belin,2011
+18,47,18,2011-01-17,Saint Peter's,,Loyola (MD),REG (Conf),L 63-65,,30,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,1,0.0,3,1,4,0,0,0,1,2,8,2.1,H,0,1,jeron-belin-1,Jeron Belin,2011
+19,48,19,2011-01-21,Saint Peter's,,Siena,REG (Conf),W 77-69,,19,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,2,1.0,2,7,9,2,0,1,3,4,8,3.9,H,1,1,jeron-belin-1,Jeron Belin,2011
+20,49,20,2011-01-23,Saint Peter's,@,Manhattan,REG (Conf),W 62-53,,28,2,12,0.167,2,4,0.5,0,8,0.0,0.25,1,4,0.25,1,5,6,1,0,2,2,0,7,0.5,A,1,1,jeron-belin-1,Jeron Belin,2011
+21,50,21,2011-01-27,Saint Peter's,,Marist,REG (Conf),W 85-53,,18,6,11,0.545,1,2,0.5,5,9,0.556,0.591,1,2,0.5,2,2,4,1,2,0,1,4,14,10.4,H,1,1,jeron-belin-1,Jeron Belin,2011
+22,51,22,2011-01-29,Saint Peter's,,Rider,REG (Conf),W 80-60,,32,5,13,0.385,1,3,0.333,4,10,0.4,0.423,4,4,1.0,5,6,11,1,0,1,2,2,15,11.8,H,1,1,jeron-belin-1,Jeron Belin,2011
+23,52,23,2011-02-04,Saint Peter's,@,Niagara,REG (Conf),W 70-47,,28,8,13,0.615,2,3,0.667,6,10,0.6,0.692,2,3,0.667,4,3,7,0,0,0,7,3,20,9.2,A,1,1,jeron-belin-1,Jeron Belin,2011
+24,53,24,2011-02-06,Saint Peter's,@,Canisius,REG (Conf),L 45-59,,28,2,10,0.2,0,2,0.0,2,8,0.25,0.2,7,11,0.636,6,3,9,0,0,0,1,2,11,6.5,A,0,1,jeron-belin-1,Jeron Belin,2011
+25,54,25,2011-02-11,Saint Peter's,@,Marist,REG (Conf),W 66-54,,18,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,0,1,1,0,2,0,1,2,10,6.8,A,1,1,jeron-belin-1,Jeron Belin,2011
+26,55,26,2011-02-13,Saint Peter's,,Fairfield,REG (Conf),L 69-70 (OT),,33,8,11,0.727,0,1,0.0,8,10,0.8,0.727,6,12,0.5,3,3,6,1,0,0,1,4,22,16.2,H,0,1,jeron-belin-1,Jeron Belin,2011
+27,56,27,2011-02-16,Saint Peter's,@,Siena,REG (Conf),W 67-57,,25,5,16,0.313,1,3,0.333,4,13,0.308,0.344,8,10,0.8,4,3,7,0,1,3,1,3,19,13.6,A,1,1,jeron-belin-1,Jeron Belin,2011
+28,57,28,2011-02-19,Saint Peter's,@,Loyola Chicago,REG (Non-Conf),W 71-67,,29,4,10,0.4,0,2,0.0,4,8,0.5,0.4,5,9,0.556,2,5,7,2,1,2,1,1,13,11.3,A,1,1,jeron-belin-1,Jeron Belin,2011
+29,58,29,2011-02-25,Saint Peter's,,Iona,REG (Conf),L 59-73,,29,6,13,0.462,0,3,0.0,6,10,0.6,0.462,3,6,0.5,5,5,10,0,3,0,1,2,15,13.3,H,0,1,jeron-belin-1,Jeron Belin,2011
+30,59,30,2011-02-27,Saint Peter's,@,Rider,REG (Conf),L 72-75,,22,2,8,0.25,1,2,0.5,1,6,0.167,0.313,7,11,0.636,2,2,4,0,1,0,1,3,12,6.4,A,0,1,jeron-belin-1,Jeron Belin,2011
+31,60,31,2011-03-05,Saint Peter's,N,Loyola (MD),CTOURN,W 70-60,,28,5,8,0.625,0,1,0.0,5,7,0.714,0.625,7,11,0.636,0,4,4,2,1,1,2,3,17,12.9,N,1,0,jeron-belin-1,Jeron Belin,2011
+32,61,32,2011-03-06,Saint Peter's,N,Fairfield,CTOURN,W 62-48,,30,5,15,0.333,1,4,0.25,4,11,0.364,0.367,4,6,0.667,3,4,7,2,3,0,2,3,15,10.2,N,1,0,jeron-belin-1,Jeron Belin,2011
+33,62,33,2011-03-07,Saint Peter's,N,Iona,CTOURN,W 62-57,,27,7,13,0.538,3,4,0.75,4,9,0.444,0.654,0,0,,1,2,3,0,1,1,6,4,17,6.1,N,1,0,jeron-belin-1,Jeron Belin,2011
+34,63,34,2011-03-18,Saint Peter's,N,Purdue,ROUND-64,L 43-65,,31,4,12,0.333,3,8,0.375,1,4,0.25,0.458,1,2,0.5,2,2,4,1,2,0,5,2,12,3.7,N,0,0,jeron-belin-1,Jeron Belin,2011

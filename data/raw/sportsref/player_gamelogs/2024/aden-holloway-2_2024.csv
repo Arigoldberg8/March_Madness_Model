@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-07,Auburn,N,Baylor,REG (Non-Conf),L 82-88,,26,6,15,0.4,4,8,0.5,2,7,0.286,0.533,3,5,0.6,0,3,3,6,0,1,3,0,19,12.9,N,0,1,aden-holloway-2,Aden Holloway,2024
+2,2,2,2023-11-10,Auburn,,Southeastern Louisiana,REG (Non-Conf),W 86-71,,22,4,10,0.4,3,8,0.375,1,2,0.5,0.55,0,0,,0,0,0,3,0,0,0,2,11,6.9,H,1,1,aden-holloway-2,Aden Holloway,2024
+3,3,3,2023-11-16,Auburn,N,Notre Dame,REG (Non-Conf),W 83-59,*,23,5,9,0.556,4,5,0.8,1,4,0.25,0.778,1,1,1.0,1,0,1,5,0,0,2,1,15,12.5,N,1,1,aden-holloway-2,Aden Holloway,2024
+4,4,4,2023-11-17,Auburn,N,St. Bonaventure,REG (Non-Conf),W 77-60,*,24,2,10,0.2,2,7,0.286,0,3,0.0,0.3,2,2,1.0,0,0,0,3,0,0,2,2,8,1.1,N,1,1,aden-holloway-2,Aden Holloway,2024
+5,5,5,2023-11-21,Auburn,,Alabama A&M,REG (Non-Conf),W 84-54,*,22,3,9,0.333,2,7,0.286,1,2,0.5,0.444,5,7,0.714,0,1,1,2,0,0,0,1,13,8.4,H,1,1,aden-holloway-2,Aden Holloway,2024
+6,6,6,2023-11-29,Auburn,,Virginia Tech,REG (Non-Conf),W 74-57,*,22,0,7,0.0,0,2,0.0,0,5,0.0,0.0,0,0,,0,1,1,2,3,0,1,2,0,-2.0,H,1,1,aden-holloway-2,Aden Holloway,2024
+7,7,7,2023-12-03,Auburn,@,Appalachian State,REG (Non-Conf),L 64-69,*,26,2,10,0.2,0,6,0.0,2,4,0.5,0.2,4,5,0.8,0,0,0,2,0,0,1,3,8,0.6,A,0,1,aden-holloway-2,Aden Holloway,2024
+8,8,8,2023-12-09,Auburn,N,Indiana,REG (Non-Conf),W 104-76,*,22,7,11,0.636,5,8,0.625,2,3,0.667,0.864,5,5,1.0,0,1,1,2,0,0,0,2,24,20.0,N,1,1,aden-holloway-2,Aden Holloway,2024
+9,9,9,2023-12-13,Auburn,N,UNC Asheville,REG (Non-Conf),W 87-62,*,21,3,11,0.273,1,5,0.2,2,6,0.333,0.318,0,0,,1,1,2,5,0,0,1,0,7,4.0,N,1,1,aden-holloway-2,Aden Holloway,2024
+10,10,10,2023-12-17,Auburn,,Southern California,REG (Non-Conf),W 91-75,*,24,5,10,0.5,4,7,0.571,1,3,0.333,0.7,1,2,0.5,0,2,2,6,0,0,0,2,15,13.6,H,1,1,aden-holloway-2,Aden Holloway,2024
+11,11,11,2023-12-22,Auburn,,Alabama State,REG (Non-Conf),W 82-62,*,19,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,4,0,0,2,1,6,3.3,H,1,1,aden-holloway-2,Aden Holloway,2024
+12,12,12,2023-12-30,Auburn,,Chattanooga,REG (Non-Conf),W 101-66,*,22,2,10,0.2,2,8,0.25,0,2,0.0,0.3,2,2,1.0,0,4,4,5,0,0,0,1,8,6.1,H,1,1,aden-holloway-2,Aden Holloway,2024
+13,13,13,2024-01-02,Auburn,,Pennsylvania,REG (Non-Conf),W 88-68,*,19,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,6,1,0,1,1,3,4.0,H,1,1,aden-holloway-2,Aden Holloway,2024
+14,14,14,2024-01-06,Auburn,@,Arkansas,REG (Conf),W 83-51,*,20,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,1,4,5,0,0,0,0,1,5,1.0,A,1,1,aden-holloway-2,Aden Holloway,2024
+15,15,15,2024-01-09,Auburn,,Texas A&M,REG (Conf),W 66-55,*,19,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,1,0,0,1,1,6,2.2,H,1,1,aden-holloway-2,Aden Holloway,2024
+16,16,16,2024-01-13,Auburn,,Louisiana State,REG (Conf),W 93-78,*,23,5,13,0.385,3,10,0.3,2,3,0.667,0.5,0,0,,0,1,1,3,1,0,1,1,13,7.9,H,1,1,aden-holloway-2,Aden Holloway,2024
+17,17,17,2024-01-17,Auburn,@,Vanderbilt,REG (Conf),W 80-65,*,19,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,1,0,0,1,4,10,4.0,A,1,1,aden-holloway-2,Aden Holloway,2024
+18,18,18,2024-01-20,Auburn,,Ole Miss,REG (Conf),W 82-59,*,22,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,1,0,1,3,1,0,0,0,9,9.1,H,1,1,aden-holloway-2,Aden Holloway,2024
+19,19,19,2024-01-24,Auburn,@,Alabama,REG (Conf),L 75-79,*,22,0,7,0.0,0,5,0.0,0,2,0.0,0.0,2,3,0.667,1,1,2,3,0,0,1,0,2,-1.2,A,0,1,aden-holloway-2,Aden Holloway,2024
+20,20,20,2024-01-27,Auburn,@,Mississippi State,REG (Conf),L 58-64,,19,2,8,0.25,2,7,0.286,0,1,0.0,0.375,1,2,0.5,0,2,2,1,0,0,3,2,7,-0.7,A,0,1,aden-holloway-2,Aden Holloway,2024
+21,21,21,2024-01-31,Auburn,,Vanderbilt,REG (Conf),W 81-54,,15,0,5,0.0,0,5,0.0,0,0,,0.0,1,2,0.5,0,3,3,2,0,0,1,1,1,-2.0,H,1,1,aden-holloway-2,Aden Holloway,2024
+22,22,22,2024-02-03,Auburn,@,Ole Miss,REG (Conf),W 91-77,,15,2,5,0.4,1,4,0.25,1,1,1.0,0.5,1,2,0.5,0,0,0,3,0,0,1,1,6,3.6,A,1,1,aden-holloway-2,Aden Holloway,2024
+23,23,23,2024-02-07,Auburn,,Alabama,REG (Conf),W 99-81,,15,1,6,0.167,1,5,0.2,0,1,0.0,0.25,3,4,0.75,1,0,1,1,1,0,0,0,6,4.2,H,1,1,aden-holloway-2,Aden Holloway,2024
+24,24,24,2024-02-10,Auburn,@,Florida,REG (Conf),L 65-81,,16,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,2,2,1,0,0,0,2,0,-3.0,A,0,1,aden-holloway-2,Aden Holloway,2024
+25,25,25,2024-02-14,Auburn,,South Carolina,REG (Conf),W 101-61,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,3,1,0,0,0,2,4.0,H,1,1,aden-holloway-2,Aden Holloway,2024
+26,26,26,2024-02-17,Auburn,,Kentucky,REG (Conf),L 59-70,,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,3,0.667,0,2,2,0,1,0,0,0,4,2.1,H,0,1,aden-holloway-2,Aden Holloway,2024
+27,27,27,2024-02-24,Auburn,@,Georgia,REG (Conf),W 97-76,*,28,5,10,0.5,5,8,0.625,0,2,0.0,0.75,0,0,,0,1,1,3,0,0,1,1,15,11.0,A,1,1,aden-holloway-2,Aden Holloway,2024
+28,28,28,2024-02-28,Auburn,@,Tennessee,REG (Conf),L 84-92,*,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,2,0,0,1,4,5,1.1,A,0,1,aden-holloway-2,Aden Holloway,2024
+29,29,29,2024-03-02,Auburn,,Mississippi State,REG (Conf),W 78-63,*,21,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,2,0,1,1,0,0.9,H,1,1,aden-holloway-2,Aden Holloway,2024
+30,30,30,2024-03-05,Auburn,@,Missouri,REG (Conf),W 101-74,*,22,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,2,2,5,1,0,0,2,9,11.0,A,1,1,aden-holloway-2,Aden Holloway,2024
+31,31,31,2024-03-09,Auburn,,Georgia,REG (Conf),W 92-78,*,21,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,0,0,1,1,0,2,0,4,1.0,H,1,1,aden-holloway-2,Aden Holloway,2024
+32,32,32,2024-03-15,Auburn,N,South Carolina,CTOURN,W 86-55,*,22,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,2,3,5,1,0,0,0,2,9,7.2,N,1,0,aden-holloway-2,Aden Holloway,2024
+33,33,33,2024-03-16,Auburn,N,Mississippi State,CTOURN,W 73-66,*,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,6,2,0,2,1,0,2.4,N,1,0,aden-holloway-2,Aden Holloway,2024
+34,34,34,2024-03-17,Auburn,N,Florida,CTOURN,W 86-67,*,18,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,0,0,2,0,0,1,0,7,4.0,N,1,0,aden-holloway-2,Aden Holloway,2024
+35,35,35,2024-03-22,Auburn,N,Yale,ROUND-64,L 76-78,*,13,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,1,1,0,-3.6,N,0,0,aden-holloway-2,Aden Holloway,2024

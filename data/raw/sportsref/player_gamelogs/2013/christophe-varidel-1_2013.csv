@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,1,2012-11-09,Florida Gulf Coast,@,VCU,REG (Non-Conf),L 57-80,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,2,2,0,-3.2,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+2,64,2,2012-11-13,Florida Gulf Coast,,Miami (FL),REG (Non-Conf),W 63-51,,10,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,1,0,2,2,0,-0.9,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+3,65,3,2012-11-15,Florida Gulf Coast,,Ave Maria,REG (Non-Conf),W 86-54,,27,4,8,0.5,3,6,0.5,1,2,0.5,0.688,6,7,0.857,1,6,7,1,2,0,4,1,17,13.4,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+4,66,4,2012-11-18,Florida Gulf Coast,@,Duke,REG (Non-Conf),L 67-88,,17,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,0,0,0,0,0,5,2,7,-0.1,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+5,67,5,2012-11-21,Florida Gulf Coast,,Alcorn State,REG (Non-Conf),W 50-48,,21,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,2,0.5,0,3,3,0,2,0,1,2,10,6.7,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+6,68,6,2012-11-22,Florida Gulf Coast,,Toledo,REG (Non-Conf),W 72-66,,13,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,1,1,1,1,0,4,1,2,-3.5,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+7,69,7,2012-11-24,Florida Gulf Coast,@,St. John's (NY),REG (Non-Conf),L 68-79,,13,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,3,3,0,1,0,2,0,4,0.5,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+8,70,8,2012-11-28,Florida Gulf Coast,@,Samford,REG (Non-Conf),W 86-62,,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,3,3,1.0,0,2,2,1,0,0,1,0,8,6.3,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+9,71,9,2012-12-01,Florida Gulf Coast,,Loyola (MD),REG (Non-Conf),W 65-50,,22,1,6,0.167,1,3,0.333,0,3,0.0,0.25,3,4,0.75,0,2,2,2,2,0,2,3,6,2.6,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+10,72,10,2012-12-04,Florida Gulf Coast,@,Iowa State,REG (Non-Conf),L 72-83,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,1,0,0,2,0,2,-0.7,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+11,73,11,2012-12-13,Florida Gulf Coast,,Florida International,REG (Non-Conf),W 76-73,,20,5,10,0.5,4,7,0.571,1,3,0.333,0.7,4,4,1.0,1,2,3,0,0,0,3,3,18,10.1,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+12,74,12,2012-12-18,Florida Gulf Coast,,Southeastern (FL),REG (Non-Conf),W 86-60,*,21,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,0,1,1,1,0,2,3,11,6.9,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+13,75,13,2012-12-22,Florida Gulf Coast,@,Maine,REG (Non-Conf),L 78-84,,21,1,11,0.091,0,8,0.0,1,3,0.333,0.091,2,2,1.0,3,2,5,0,0,0,1,3,4,-2.8,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+14,76,14,2012-12-31,Florida Gulf Coast,@,Kennesaw State,REG (Conf),W 68-59,,11,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-1.9,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+15,77,15,2013-01-02,Florida Gulf Coast,@,Mercer,REG (Conf),L 70-77 (OT),,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,2,2,0,0,0,1,4,3,-1.4,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+16,78,16,2013-01-05,Florida Gulf Coast,,Jacksonville,REG (Conf),W 78-55,,19,5,9,0.556,3,6,0.5,2,3,0.667,0.722,0,0,,1,1,2,0,1,0,2,3,13,7.5,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+17,79,17,2013-01-07,Florida Gulf Coast,,North Florida,REG (Conf),W 75-73,,13,5,6,0.833,2,2,1.0,3,4,0.75,1.0,1,1,1.0,1,0,1,0,1,0,2,2,13,9.7,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+18,80,18,2013-01-10,Florida Gulf Coast,@,USC Upstate,REG (Conf),W 72-71 (OT),,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,0,0,-2.7,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+19,81,19,2013-01-12,Florida Gulf Coast,@,East Tennessee State,REG (Conf),L 75-85,,24,5,10,0.5,4,8,0.5,1,2,0.5,0.7,0,0,,0,4,4,1,0,0,2,1,14,8.5,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+20,82,20,2013-01-17,Florida Gulf Coast,,Lipscomb,REG (Conf),L 78-87 (OT),,12,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,0,0,0,0,0,1,1,3,-1.5,H,0,1,christophe-varidel-1,Christophe Varidel,2013
+21,83,21,2013-01-19,Florida Gulf Coast,,Northern Kentucky,REG (Conf),W 73-54,,21,4,10,0.4,4,7,0.571,0,3,0.0,0.6,0,0,,0,1,1,2,0,0,1,2,12,6.5,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+22,84,22,2013-01-25,Florida Gulf Coast,,Stetson,REG (Conf),W 96-65,,23,2,7,0.286,1,5,0.2,1,2,0.5,0.357,1,2,0.5,0,4,4,2,0,0,1,0,6,3.1,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+23,85,23,2013-01-31,Florida Gulf Coast,@,North Florida,REG (Conf),W 89-75,,14,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,0,0,1,1,2,0.6,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+24,86,24,2013-02-02,Florida Gulf Coast,@,Jacksonville,REG (Conf),W 81-78,,12,0,1,0.0,0,1,0.0,0,0,,0.0,4,6,0.667,0,2,2,1,0,0,1,2,4,2.0,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+25,87,25,2013-02-07,Florida Gulf Coast,,East Tennessee State,REG (Conf),W 67-43,,6,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,1,1,2,0.2,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+26,88,26,2013-02-09,Florida Gulf Coast,,USC Upstate,REG (Conf),W 74-49,,13,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,0,0,0,2,0,0,0,5,5.0,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+27,89,27,2013-02-14,Florida Gulf Coast,@,Northern Kentucky,REG (Conf),W 60-53,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,1,2,-0.1,A,1,1,christophe-varidel-1,Christophe Varidel,2013
+28,90,28,2013-02-16,Florida Gulf Coast,@,Lipscomb,REG (Conf),L 74-84,,13,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,2,2,1,0,0,1,0,0,-1.8,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+29,91,29,2013-02-22,Florida Gulf Coast,@,Stetson,REG (Conf),L 71-80,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,3,0,-0.9,A,0,1,christophe-varidel-1,Christophe Varidel,2013
+30,92,30,2013-02-28,Florida Gulf Coast,,Mercer,REG (Conf),W 60-57,,10,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,1,0,1,2,0,0,4,0,5,1.4,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+31,93,31,2013-03-02,Florida Gulf Coast,,Kennesaw State,REG (Conf),W 67-49,,21,2,6,0.333,2,5,0.4,0,1,0.0,0.5,5,6,0.833,1,3,4,0,2,0,0,3,11,9.6,H,1,1,christophe-varidel-1,Christophe Varidel,2013
+32,94,32,2013-03-06,Florida Gulf Coast,N,North Florida,CTOURN,W 73-63,,14,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,1,1,2,1,0,0,2,0,1,-2.5,N,1,0,christophe-varidel-1,Christophe Varidel,2013
+33,95,33,2013-03-08,Florida Gulf Coast,N,Stetson,CTOURN,W 72-58,,16,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,1,1,1,1,0,0,0,9,9.4,N,1,0,christophe-varidel-1,Christophe Varidel,2013
+34,96,34,2013-03-09,Florida Gulf Coast,N,Mercer,CTOURN,W 88-75,,18,2,6,0.333,1,2,0.5,1,4,0.25,0.417,7,7,1.0,0,2,2,1,0,0,1,1,12,8.5,N,1,0,christophe-varidel-1,Christophe Varidel,2013
+35,97,35,2013-03-22,Florida Gulf Coast,N,Georgetown,ROUND-64,W 78-68,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,1,0,christophe-varidel-1,Christophe Varidel,2013
+36,98,36,2013-03-24,Florida Gulf Coast,N,San Diego State,ROUND-32,W 81-71,,24,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,1,0.0,1,1,2,1,1,0,3,0,11,7.0,N,1,0,christophe-varidel-1,Christophe Varidel,2013
+37,99,37,2013-03-29,Florida Gulf Coast,N,Florida,ROUND-16,L 50-62,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,3,1.0,0,1,1,0,0,0,0,0,10,8.0,N,0,0,christophe-varidel-1,Christophe Varidel,2013

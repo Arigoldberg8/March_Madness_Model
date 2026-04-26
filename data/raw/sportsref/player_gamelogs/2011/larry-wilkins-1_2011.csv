@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,UTSA,,Huston-Tilotson,REG (Non-Conf),W 82-65,,13,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,2,2,4,0,1,0,1,2,2,1.1,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+2,2,2,2010-11-17,UTSA,@,Evansville,REG (Non-Conf),L 73-77,,9,0,0,,0,0,0,0,,,0,0,,1,0,1,0,0,0,1,1,0,-0.7,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+3,3,3,2010-11-19,UTSA,,Cameron,REG (Non-Conf),W 71-61,,12,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,1,6,7,0,0,0,0,0,3,4.8,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+4,4,4,2010-11-22,UTSA,,Troy,REG (Non-Conf),W 81-70,,10,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+5,5,5,2010-11-30,UTSA,,San Jose State,REG (Non-Conf),W 72-63,,5,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,0,0,0,0,0,0,1,0,2,0.3,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+6,6,6,2010-12-02,UTSA,@,UC Riverside,REG (Non-Conf),L 75-82,,6,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,2,2,1.9,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+7,7,7,2010-12-04,UTSA,@,Pepperdine,REG (Non-Conf),W 86-81,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,1,0.0,1,0,1,0,0,0,0,1,2,0.9,A,1,1,larry-wilkins-1,Larry Wilkins,2011
+8,8,8,2010-12-11,UTSA,@,Houston,REG (Non-Conf),W 68-63,,20,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,4,4,0,0,0,0,4,2,0.6,A,1,1,larry-wilkins-1,Larry Wilkins,2011
+9,9,9,2010-12-20,UTSA,,Samford,REG (Non-Conf),L 73-74,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,2,2,0,-2.5,H,0,1,larry-wilkins-1,Larry Wilkins,2011
+10,10,10,2010-12-23,UTSA,@,Tulsa,REG (Non-Conf),L 67-92,,24,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,0,3,3,1,2,0,2,1,2,0.8,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+11,11,11,2010-12-30,UTSA,@,Bowling Green,REG (Non-Conf),L 59-70,,22,2,2,1.0,0,0,2,2,1.0,1.0,0,4,0.0,2,0,2,1,3,0,1,2,4,5.1,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+12,12,12,2011-01-03,UTSA,@,Oklahoma State,REG (Non-Conf),L 63-79,,13,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,1,1,0,0,2,0,-0.5,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+13,13,13,2011-01-08,UTSA,,Sam Houston State,REG (Conf),L 59-62,*,15,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,2,1,3,0,0,0,0,3,5,3.8,H,0,1,larry-wilkins-1,Larry Wilkins,2011
+14,14,14,2011-01-12,UTSA,@,Texas A&M–Corpus Christi,REG (Conf),W 55-47,*,29,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,0,2,2,1,0,0,1,3,2,0.4,A,1,1,larry-wilkins-1,Larry Wilkins,2011
+15,15,15,2011-01-15,UTSA,,Stephen F. Austin,REG (Conf),L 59-68,*,30,2,5,0.4,0,0,2,5,0.4,0.4,1,3,0.333,3,4,7,1,1,1,0,3,5,6.0,H,0,1,larry-wilkins-1,Larry Wilkins,2011
+16,16,16,2011-01-19,UTSA,@,Northwestern State,REG (Conf),W 63-58,*,15,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,2,5,4,0.4,A,1,1,larry-wilkins-1,Larry Wilkins,2011
+17,17,17,2011-01-22,UTSA,,Texas State San Marcos,REG (Conf),W 88-84,*,15,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,3,4,0,1,0,1,5,4,2.6,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+18,18,18,2011-01-24,UTSA,,Okla. Panhandle St.,REG (Non-Conf),W 71-50,*,21,2,2,1.0,0,0,2,2,1.0,1.0,1,5,0.2,2,2,4,1,3,0,1,0,5,7.5,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+19,19,19,2011-01-29,UTSA,@,Sam Houston State,REG (Conf),L 67-88,*,21,2,2,1.0,0,0,2,2,1.0,1.0,0,3,0.0,2,2,4,3,0,0,0,3,4,5.1,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+20,20,20,2011-02-02,UTSA,,UT Arlington,REG (Conf),W 70-62,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,0,1,0,0.3,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+21,21,21,2011-02-05,UTSA,,Lamar,REG (Conf),W 70-64,,17,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,2,4,1,1,0,1,4,1,1.0,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+22,22,22,2011-02-09,UTSA,@,Southeastern Louisiana,REG (Conf),L 73-79,*,21,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,0,1,1,0,0,0,3,2,1.2,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+23,23,23,2011-02-12,UTSA,@,Stephen F. Austin,REG (Conf),L 66-70,*,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,0,0,1,1,0,1,3,4,2.9,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+24,24,24,2011-02-16,UTSA,,McNeese State,REG (Conf),W 65-61,,14,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,5,5,0,0,0,1,2,6,4.8,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+25,25,25,2011-02-19,UTSA,@,Nicholls State,REG (Conf),L 52-54,,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+26,26,26,2011-02-23,UTSA,,Texas A&M–Corpus Christi,REG (Conf),W 71-62,*,27,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,2,3,5,2,1,1,0,4,8,8.5,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+27,27,27,2011-02-26,UTSA,@,Texas State San Marcos,REG (Conf),L 80-82,*,33,5,6,0.833,0,0,5,6,0.833,0.833,4,9,0.444,5,2,7,2,1,1,0,5,14,15.0,A,0,1,larry-wilkins-1,Larry Wilkins,2011
+28,28,28,2011-03-02,UTSA,,Central Arkansas,REG (Conf),W 70-58,*,20,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,5,7,1,0,0,3,4,6,4.1,H,1,1,larry-wilkins-1,Larry Wilkins,2011
+29,29,29,2011-03-05,UTSA,@,UT Arlington,REG (Conf),W 68-63,*,37,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,4,2,6,1,1,0,2,4,3,1.7,A,1,1,larry-wilkins-1,Larry Wilkins,2011
+30,30,30,2011-03-09,UTSA,N,Northwestern State,CTOURN,W 97-96,*,34,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,2,2,4,1,0,1,1,5,8,7.2,N,1,0,larry-wilkins-1,Larry Wilkins,2011
+31,31,31,2011-03-10,UTSA,N,Sam Houston State,CTOURN,W 79-70,*,28,2,2,1.0,0,0,2,2,1.0,1.0,3,4,0.75,3,5,8,0,1,0,2,4,7,7.0,N,1,0,larry-wilkins-1,Larry Wilkins,2011
+32,32,32,2011-03-12,UTSA,N,McNeese State,CTOURN,W 75-72,*,30,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,3,4,7,2,0,1,1,3,7,7.8,N,1,0,larry-wilkins-1,Larry Wilkins,2011
+33,33,33,2011-03-16,UTSA,N,Alabama State,FIRST-FOUR,W 70-61,*,34,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,6,9,1,0,0,2,1,4,4.2,N,1,0,larry-wilkins-1,Larry Wilkins,2011
+34,34,34,2011-03-18,UTSA,N,Ohio State,ROUND-64,L 46-75,*,36,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,4,3,7,1,1,0,1,2,4,3.5,N,0,0,larry-wilkins-1,Larry Wilkins,2011

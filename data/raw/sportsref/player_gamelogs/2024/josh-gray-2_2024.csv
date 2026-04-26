@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2023-11-06,South Carolina,,USC Upstate,REG (Non-Conf),W 82-53,,11,1,2,0.5,0,0,1,2,0.5,0.5,1,3,0.333,0,6,6,0,0,1,0,2,3,2.9,H,1,1,josh-gray-2,Josh Gray,2024
+2,69,3,2023-11-13,South Carolina,,VMI,REG (Non-Conf),W 74-64,,2,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,josh-gray-2,Josh Gray,2024
+3,70,4,2023-11-17,South Carolina,N,DePaul,REG (Non-Conf),W 73-68,,15,2,3,0.667,0,0,2,3,0.667,0.667,4,9,0.444,1,6,7,0,1,1,0,3,8,7.7,N,1,1,josh-gray-2,Josh Gray,2024
+4,71,5,2023-11-19,South Carolina,N,Grand Canyon,REG (Non-Conf),W 75-68,,7,1,3,0.333,0,0,1,3,0.333,0.333,2,3,0.667,2,1,3,0,0,0,0,3,4,2.4,N,1,1,josh-gray-2,Josh Gray,2024
+5,72,6,2023-11-28,South Carolina,,Notre Dame,REG (Non-Conf),W 65-53,,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,H,1,1,josh-gray-2,Josh Gray,2024
+6,73,7,2023-12-01,South Carolina,,George Washington,REG (Non-Conf),W 89-67,,5,0,0,,0,0,0,0,,,0,0,,0,0,0,0,1,0,0,1,0,0.6,H,1,1,josh-gray-2,Josh Gray,2024
+7,74,8,2023-12-06,South Carolina,@,Clemson,REG (Non-Conf),L 67-72,,2,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,0,2,2.3,A,0,1,josh-gray-2,Josh Gray,2024
+8,75,9,2023-12-09,South Carolina,@,East Carolina,REG (Non-Conf),W 68-62,,8,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,josh-gray-2,Josh Gray,2024
+9,76,10,2023-12-16,South Carolina,,Charleston Southern,REG (Non-Conf),W 73-69,,2,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,H,1,1,josh-gray-2,Josh Gray,2024
+10,77,11,2023-12-19,South Carolina,,Winthrop,REG (Non-Conf),W 72-62,,3,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,josh-gray-2,Josh Gray,2024
+11,78,14,2024-01-06,South Carolina,,Mississippi State,REG (Conf),W 68-62,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,0,3,0,-0.5,H,1,1,josh-gray-2,Josh Gray,2024
+12,79,15,2024-01-09,South Carolina,@,Alabama,REG (Conf),L 47-74,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,0,1,2,2.0,A,0,1,josh-gray-2,Josh Gray,2024
+13,80,16,2024-01-13,South Carolina,@,Missouri,REG (Conf),W 71-69 (OT),,9,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,0,1,1,1,0,0,2,2,2,-1.2,A,1,1,josh-gray-2,Josh Gray,2024
+14,81,17,2024-01-16,South Carolina,,Georgia,REG (Conf),L 69-74,,4,1,2,0.5,0,0,1,2,0.5,0.5,0,5,0.0,2,1,3,0,0,2,1,0,2,1.1,H,0,1,josh-gray-2,Josh Gray,2024
+15,82,18,2024-01-20,South Carolina,@,Arkansas,REG (Conf),W 77-64,,9,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,1,3,4,2,1,0,2,1,6,6.0,A,1,1,josh-gray-2,Josh Gray,2024
+16,83,19,2024-01-23,South Carolina,,Kentucky,REG (Conf),W 79-62,,11,4,6,0.667,0,0,4,6,0.667,0.667,1,1,1.0,1,5,6,0,0,0,0,2,9,7.8,H,1,1,josh-gray-2,Josh Gray,2024
+17,84,20,2024-01-27,South Carolina,,Missouri,REG (Conf),W 72-64,,13,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,2,3,0,0,1,1,3,5,2.4,H,1,1,josh-gray-2,Josh Gray,2024
+18,85,21,2024-01-30,South Carolina,@,Tennessee,REG (Conf),W 63-59,,14,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,2,5,7,0,0,0,1,2,6,5.1,A,1,1,josh-gray-2,Josh Gray,2024
+19,86,22,2024-02-03,South Carolina,@,Georgia,REG (Conf),W 72-62,,18,7,9,0.778,0,0,7,9,0.778,0.778,1,2,0.5,4,4,8,1,0,0,1,2,15,14.0,A,1,1,josh-gray-2,Josh Gray,2024
+20,87,23,2024-02-06,South Carolina,,Ole Miss,REG (Conf),W 68-65,,17,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,1,0,0,0,1,4,2.9,H,1,1,josh-gray-2,Josh Gray,2024
+21,88,24,2024-02-10,South Carolina,,Vanderbilt,REG (Conf),W 75-60,,15,0,0,,0,0,0,0,,,1,3,0.333,2,2,4,1,0,2,3,1,1,0.9,H,1,1,josh-gray-2,Josh Gray,2024
+22,89,25,2024-02-14,South Carolina,@,Auburn,REG (Conf),L 61-101,,14,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,1,0,2,2,1,0,0.0,A,0,1,josh-gray-2,Josh Gray,2024
+23,90,26,2024-02-17,South Carolina,,Louisiana State,REG (Conf),L 63-64,,10,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,3,3,0,0,1,0,1,4,4.2,H,0,1,josh-gray-2,Josh Gray,2024
+24,91,27,2024-02-24,South Carolina,@,Ole Miss,REG (Conf),W 72-59,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,0,3,3,0,0,1,2,2,2,-1.0,A,1,1,josh-gray-2,Josh Gray,2024
+25,92,28,2024-02-28,South Carolina,@,Texas A&M,REG (Conf),W 70-68,,18,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,0,1,2,0,2,0,2,0,2.0,A,1,1,josh-gray-2,Josh Gray,2024
+26,93,29,2024-03-02,South Carolina,,Florida,REG (Conf),W 82-76,,17,1,2,0.5,0,0,1,2,0.5,0.5,3,5,0.6,1,1,2,1,0,1,0,2,5,4.8,H,1,1,josh-gray-2,Josh Gray,2024
+27,94,30,2024-03-06,South Carolina,,Tennessee,REG (Conf),L 59-66,,8,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,3,5,1,0,0,0,2,1,2.1,H,0,1,josh-gray-2,Josh Gray,2024
+28,95,31,2024-03-09,South Carolina,@,Mississippi State,REG (Conf),W 93-89 (OT),,14,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,2,0,2,0,0,2,2,4,4,2.2,A,1,1,josh-gray-2,Josh Gray,2024
+29,96,32,2024-03-14,South Carolina,N,Arkansas,CTOURN,W 80-66,,14,4,6,0.667,0,0,4,6,0.667,0.667,0,1,0.0,2,0,2,2,0,0,0,1,8,7.4,N,1,0,josh-gray-2,Josh Gray,2024
+30,97,33,2024-03-15,South Carolina,N,Auburn,CTOURN,L 55-86,,13,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,1,2,3,1,0,0,0,2,6,4.5,N,0,0,josh-gray-2,Josh Gray,2024
+31,98,34,2024-03-21,South Carolina,N,Oregon,ROUND-64,L 73-87,,11,0,0,,0,0,0,0,,,1,2,0.5,1,2,3,0,0,0,1,2,1,0.1,N,0,0,josh-gray-2,Josh Gray,2024

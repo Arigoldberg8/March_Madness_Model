@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,1,2021-11-09,Memphis,,Tennessee Tech,REG (Non-Conf),W 89-65,*,21,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,1,0.0,0,2,2,4,0,1,1,3,12,11.0,H,1,1,deandre-williams-1,Deandre Williams,2022
+2,41,2,2021-11-13,Memphis,,North Carolina Central,REG (Non-Conf),W 90-51,*,12,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,0,1,0,2,1,3,5,4,-0.3,H,1,1,deandre-williams-1,Deandre Williams,2022
+3,42,3,2021-11-16,Memphis,,Saint Louis,REG (Non-Conf),W 90-74,*,15,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,3,0.667,0,4,4,0,0,1,2,2,8,3.7,H,1,1,deandre-williams-1,Deandre Williams,2022
+4,43,4,2021-11-19,Memphis,,Western Kentucky,REG (Non-Conf),W 74-62,*,20,6,11,0.545,0,4,0.0,6,7,0.857,0.545,1,2,0.5,1,7,8,0,3,0,3,3,13,8.9,H,1,1,deandre-williams-1,Deandre Williams,2022
+5,44,5,2021-11-24,Memphis,N,Virginia Tech,REG (Non-Conf),W 69-61,*,25,6,10,0.6,1,1,1.0,5,9,0.556,0.65,3,3,1.0,4,6,10,0,1,0,3,4,16,12.4,N,1,1,deandre-williams-1,Deandre Williams,2022
+6,45,6,2021-11-26,Memphis,N,Iowa State,REG (Non-Conf),L 59-78,*,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,3,4,0.75,4,2,6,0,0,2,5,2,6,2.2,N,0,1,deandre-williams-1,Deandre Williams,2022
+7,46,7,2021-12-01,Memphis,@,Georgia,REG (Non-Conf),L 79-82,*,29,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,1,1.0,6,2,8,1,1,1,2,5,11,9.2,A,0,1,deandre-williams-1,Deandre Williams,2022
+8,47,8,2021-12-04,Memphis,@,Ole Miss,REG (Non-Conf),L 63-67,*,23,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,6,0.5,2,0,2,1,2,0,2,4,13,9.4,A,0,1,deandre-williams-1,Deandre Williams,2022
+9,48,9,2021-12-10,Memphis,,Murray State,REG (Non-Conf),L 72-74,,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,5,0.6,3,2,5,1,1,0,2,0,9,7.6,H,0,1,deandre-williams-1,Deandre Williams,2022
+10,49,10,2021-12-14,Memphis,,Alabama,REG (Non-Conf),W 92-78,*,33,7,10,0.7,1,2,0.5,6,8,0.75,0.75,5,6,0.833,0,3,3,6,3,1,1,2,20,22.4,H,1,1,deandre-williams-1,Deandre Williams,2022
+11,50,12,2022-01-01,Memphis,@,Wichita State,REG (Conf),W 82-64,*,34,5,8,0.625,2,3,0.667,3,5,0.6,0.75,2,2,1.0,1,6,7,4,3,0,1,2,14,16.9,A,1,1,deandre-williams-1,Deandre Williams,2022
+12,51,13,2022-01-04,Memphis,,Tulsa,REG (Conf),W 67-64,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,1,3,0.333,4,3,7,3,0,2,5,3,9,5.9,H,1,1,deandre-williams-1,Deandre Williams,2022
+13,52,20,2022-02-05,Memphis,,UCF,REG (Conf),W 88-60,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,1,3,1,3,0,1,4,6,7.5,H,1,1,deandre-williams-1,Deandre Williams,2022
+14,53,21,2022-02-09,Memphis,,Tulane,REG (Conf),W 80-69,*,29,4,8,0.5,0,0,,4,8,0.5,0.5,6,8,0.75,6,7,13,1,0,2,0,3,14,16.4,H,1,1,deandre-williams-1,Deandre Williams,2022
+15,54,22,2022-02-12,Memphis,@,Houston,REG (Conf),W 69-59,*,24,4,6,0.667,2,2,1.0,2,4,0.5,0.833,3,3,1.0,1,2,3,4,3,1,3,4,13,13.6,A,1,1,deandre-williams-1,Deandre Williams,2022
+16,55,23,2022-02-15,Memphis,@,Cincinnati,REG (Conf),W 81-74,*,23,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,1,7,8,2,0,0,1,3,8,7.7,A,1,1,deandre-williams-1,Deandre Williams,2022
+17,56,24,2022-02-20,Memphis,@,SMU,REG (Conf),L 57-73,*,25,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,3,4,7,1,3,0,3,2,4,3.1,A,0,1,deandre-williams-1,Deandre Williams,2022
+18,57,25,2022-02-24,Memphis,,Temple,REG (Conf),W 78-64,*,29,7,11,0.636,0,2,0.0,7,9,0.778,0.636,5,6,0.833,4,5,9,1,0,3,4,3,19,15.6,H,1,1,deandre-williams-1,Deandre Williams,2022
+19,58,26,2022-02-27,Memphis,,Wichita State,REG (Conf),W 81-57,*,28,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,1,4,5,2,2,0,2,0,12,12.4,H,1,1,deandre-williams-1,Deandre Williams,2022
+20,59,27,2022-03-03,Memphis,@,South Florida,REG (Conf),W 73-64,*,34,4,6,0.667,0,0,,4,6,0.667,0.667,3,6,0.5,1,3,4,3,3,1,1,2,11,12.8,A,1,1,deandre-williams-1,Deandre Williams,2022
+21,60,28,2022-03-06,Memphis,,Houston,REG (Conf),W 75-61,*,21,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,1,0.0,1,1,2,1,1,0,1,3,8,3.4,H,1,1,deandre-williams-1,Deandre Williams,2022
+22,61,29,2022-03-11,Memphis,N,UCF,CTOURN,W 85-69,*,28,6,13,0.462,0,0,,6,13,0.462,0.462,2,2,1.0,4,2,6,3,2,1,0,1,14,15.1,N,1,0,deandre-williams-1,Deandre Williams,2022
+23,62,30,2022-03-12,Memphis,N,SMU,CTOURN,W 70-63,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,3,5,0.6,4,6,10,2,0,0,0,5,7,6.8,N,1,0,deandre-williams-1,Deandre Williams,2022
+24,63,31,2022-03-13,Memphis,N,Houston,CTOURN,L 53-71,*,28,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,1,4,5,3,1,0,3,3,10,5.3,N,0,0,deandre-williams-1,Deandre Williams,2022
+25,64,32,2022-03-17,Memphis,N,Boise State,ROUND-64,W 64-53,*,32,7,8,0.875,0,1,0.0,7,7,1.0,0.875,0,0,,1,4,5,0,0,0,4,3,14,7.9,N,1,0,deandre-williams-1,Deandre Williams,2022
+26,65,33,2022-03-19,Memphis,N,Gonzaga,ROUND-32,L 78-82,*,29,7,13,0.538,0,3,0.0,7,10,0.7,0.538,0,0,,2,5,7,1,1,0,0,4,14,10.7,N,0,0,deandre-williams-1,Deandre Williams,2022

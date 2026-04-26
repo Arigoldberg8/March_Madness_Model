@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2012-11-12,Memphis,,North Florida,REG (Non-Conf),W 81-66,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,0,3,1,0,0,4,7.3,H,1,1,dj-stephens-1,D.J. Stephens,2013
+2,95,2,2012-11-17,Memphis,,Samford,REG (Non-Conf),W 65-54,,17,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,2,5,7,0,1,1,0,0,5,8.6,H,1,1,dj-stephens-1,D.J. Stephens,2013
+3,96,3,2012-11-22,Memphis,N,VCU,REG (Non-Conf),L 65-78,,25,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,0,1,1,2,2,1,1,1,9,10.8,N,0,1,dj-stephens-1,D.J. Stephens,2013
+4,97,4,2012-11-23,Memphis,N,Minnesota,REG (Non-Conf),L 75-84,,25,5,7,0.714,3,3,1.0,2,4,0.5,0.929,2,4,0.5,4,3,7,1,1,1,1,2,15,15.6,N,0,1,dj-stephens-1,D.J. Stephens,2013
+5,98,5,2012-11-24,Memphis,N,Northern Iowa,REG (Non-Conf),W 52-47,,22,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,2,6,8,0,0,0,1,0,0,-0.6,N,1,1,dj-stephens-1,D.J. Stephens,2013
+6,99,6,2012-11-29,Memphis,,UT Martin,REG (Non-Conf),W 93-65,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,1,0,1,1,1,0,-0.7,H,1,1,dj-stephens-1,D.J. Stephens,2013
+7,100,7,2012-12-05,Memphis,,Ohio,REG (Non-Conf),W 84-58,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,4,5,0,0,0,0,1,2,1.8,H,1,1,dj-stephens-1,D.J. Stephens,2013
+8,101,8,2012-12-08,Memphis,,Austin Peay,REG (Non-Conf),W 83-65,,18,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,5,4,9,2,2,1,0,1,10,15.5,H,1,1,dj-stephens-1,D.J. Stephens,2013
+9,102,9,2012-12-15,Memphis,,Louisville,REG (Non-Conf),L 78-87,*,22,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,2,0.5,2,6,8,1,2,3,2,5,10,11.7,H,0,1,dj-stephens-1,D.J. Stephens,2013
+10,103,10,2012-12-20,Memphis,,Lipscomb,REG (Non-Conf),W 62-56,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,1,1,1.0,0,2,2,0,0,1,1,0,3,3.0,H,1,1,dj-stephens-1,D.J. Stephens,2013
+11,104,11,2012-12-28,Memphis,,Oral Roberts,REG (Non-Conf),W 72-57,*,27,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,2,12,14,1,1,5,0,0,6,15.3,H,1,1,dj-stephens-1,D.J. Stephens,2013
+12,105,12,2012-12-30,Memphis,,Loyola (MD),REG (Non-Conf),W 78-64,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,2,5,7,1,0,2,0,3,8,8.0,H,1,1,dj-stephens-1,D.J. Stephens,2013
+13,106,13,2013-01-04,Memphis,@,Tennessee,REG (Non-Conf),W 85-80,*,27,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,1,5,6,0,0,5,0,3,11,14.3,A,1,1,dj-stephens-1,D.J. Stephens,2013
+14,107,14,2013-01-09,Memphis,,East Carolina,REG (Conf),W 67-54,*,23,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,2,9,11,3,2,3,2,0,6,13.0,H,1,1,dj-stephens-1,D.J. Stephens,2013
+15,108,15,2013-01-12,Memphis,@,UAB,REG (Conf),W 69-53,*,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,1,0.0,2,2,4,0,0,6,2,1,4,6.1,A,1,1,dj-stephens-1,D.J. Stephens,2013
+16,109,16,2013-01-16,Memphis,@,Rice,REG (Conf),W 77-51,*,23,4,5,0.8,0,0,,4,5,0.8,0.8,0,1,0.0,3,5,8,0,0,0,0,2,8,8.5,A,1,1,dj-stephens-1,D.J. Stephens,2013
+17,110,17,2013-01-19,Memphis,,Harvard,REG (Non-Conf),W 60-50,*,35,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,2,1.0,3,5,8,0,0,4,0,2,10,11.6,H,1,1,dj-stephens-1,D.J. Stephens,2013
+18,111,18,2013-01-22,Memphis,,Tulane,REG (Conf),W 71-60,*,36,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,4,6,10,1,1,3,2,1,4,8.7,H,1,1,dj-stephens-1,D.J. Stephens,2013
+19,112,19,2013-01-26,Memphis,,Marshall,REG (Conf),W 73-72,*,32,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,1,4,5,2,2,3,1,2,8,11.6,H,1,1,dj-stephens-1,D.J. Stephens,2013
+20,113,20,2013-01-30,Memphis,@,East Carolina,REG (Conf),W 75-68,*,22,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,3,3,0,0,4,0,4,2,3.8,A,1,1,dj-stephens-1,D.J. Stephens,2013
+21,114,21,2013-02-02,Memphis,,Tulsa,REG (Conf),W 94-64,*,16,6,7,0.857,1,1,1.0,5,6,0.833,0.929,2,2,1.0,4,9,13,0,1,5,0,1,15,22.1,H,1,1,dj-stephens-1,D.J. Stephens,2013
+22,115,22,2013-02-06,Memphis,@,SMU,REG (Conf),W 60-52,*,27,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,4,0.75,2,4,6,0,1,2,0,1,3,5.8,A,1,1,dj-stephens-1,D.J. Stephens,2013
+23,116,23,2013-02-09,Memphis,@,Southern Mississippi,REG (Conf),W 89-76,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,3,5,0.6,1,2,3,1,0,2,0,2,11,10.9,A,1,1,dj-stephens-1,D.J. Stephens,2013
+24,117,24,2013-02-13,Memphis,,UCF,REG (Conf),W 93-71,*,19,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,3,5,8,1,1,2,2,3,10,12.3,H,1,1,dj-stephens-1,D.J. Stephens,2013
+25,118,25,2013-02-16,Memphis,@,Marshall,REG (Conf),W 71-59,*,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,3,5,8,0,3,1,0,5,2,5.6,A,1,1,dj-stephens-1,D.J. Stephens,2013
+26,119,26,2013-02-20,Memphis,,Houston,REG (Conf),W 81-74,*,31,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,2,8,10,1,1,2,1,3,14,16.2,H,1,1,dj-stephens-1,D.J. Stephens,2013
+27,120,27,2013-02-23,Memphis,,Southern Mississippi,REG (Conf),W 89-73,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,4,4,1.0,1,6,7,2,0,5,3,1,16,17.5,H,1,1,dj-stephens-1,D.J. Stephens,2013
+28,121,28,2013-02-26,Memphis,@,Xavier,REG (Non-Conf),L 62-64,*,29,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,7,0.143,1,4,5,1,0,5,1,2,8,6.2,A,0,1,dj-stephens-1,D.J. Stephens,2013
+29,122,29,2013-03-02,Memphis,@,UCF,REG (Conf),W 76-67,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,3,0.667,4,4,8,0,0,1,1,4,8,6.7,A,1,1,dj-stephens-1,D.J. Stephens,2013
+30,123,30,2013-03-05,Memphis,@,UTEP,REG (Conf),W 56-54,*,8,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,3,3,0,0,0,0,0,5,4.6,A,1,1,dj-stephens-1,D.J. Stephens,2013
+31,124,31,2013-03-09,Memphis,,UAB,REG (Conf),W 86-71,*,21,5,6,0.833,0,0,,5,6,0.833,0.833,3,3,1.0,4,4,8,0,3,0,1,3,13,15.6,H,1,1,dj-stephens-1,D.J. Stephens,2013
+32,125,32,2013-03-14,Memphis,N,Tulane,CTOURN,W 81-68,*,32,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,1,7,8,1,0,2,0,4,8,8.3,N,1,0,dj-stephens-1,D.J. Stephens,2013
+33,126,33,2013-03-15,Memphis,N,Tulsa,CTOURN,W 85-74,*,29,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,3,0.333,4,6,10,1,1,6,0,2,10,16.3,N,1,0,dj-stephens-1,D.J. Stephens,2013
+34,127,34,2013-03-16,Memphis,N,Southern Mississippi,CTOURN,W 91-79 (2OT),*,38,3,6,0.5,1,1,1.0,2,5,0.4,0.583,5,6,0.833,1,3,4,0,3,5,0,2,12,15.9,N,1,0,dj-stephens-1,D.J. Stephens,2013
+35,128,35,2013-03-21,Memphis,N,St. Mary's (CA),ROUND-64,W 54-52,*,26,4,9,0.444,0,2,0.0,4,7,0.571,0.444,1,2,0.5,2,2,4,1,1,8,1,2,9,11.4,N,1,0,dj-stephens-1,D.J. Stephens,2013
+36,129,36,2013-03-23,Memphis,N,Michigan State,ROUND-32,L 48-70,*,32,1,7,0.143,1,2,0.5,0,5,0.0,0.214,0,0,,3,3,6,0,1,4,0,3,3,4.1,N,0,0,dj-stephens-1,D.J. Stephens,2013

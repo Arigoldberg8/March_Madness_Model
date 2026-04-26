@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2018-11-08,Iowa,,Kansas City,REG (Non-Conf),W 77-63,,16,2,5,0.4,0,3,0.0,2,2,1.0,0.4,2,4,0.5,1,7,8,0,0,1,2,0,6,4.0,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+2,57,2,2018-11-11,Iowa,,Green Bay,REG (Non-Conf),W 93-82,,9,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,0,1,1,0,0,0,0,1,8,5.2,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+3,58,3,2018-11-15,Iowa,N,Oregon,REG (Non-Conf),W 77-69,,17,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,3,3,0,1,1,0,0,11,9.6,N,1,1,ryan-kriener-1,Ryan Kriener,2019
+4,59,4,2018-11-16,Iowa,N,Connecticut,REG (Non-Conf),W 91-72,,10,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,0,2,1,0,0,1,2,6,4.7,N,1,1,ryan-kriener-1,Ryan Kriener,2019
+5,60,5,2018-11-21,Iowa,,Alabama State,REG (Non-Conf),W 105-78,,16,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,1,1.0,1,2,3,1,1,2,0,2,8,10.0,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+6,61,6,2018-11-27,Iowa,,Pittsburgh,REG (Non-Conf),W 69-68,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,2,0,1,2,0,0.5,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+7,62,7,2018-11-30,Iowa,,Wisconsin,REG (Conf),L 66-72,,7,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,0,0,2,1,1,-2.5,H,0,1,ryan-kriener-1,Ryan Kriener,2019
+8,63,8,2018-12-03,Iowa,@,Michigan State,REG (Conf),L 68-90,,12,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,0,1,1,0,1,1,0,2,1,-0.3,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+9,64,9,2018-12-06,Iowa,,Iowa State,REG (Non-Conf),W 98-84,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+10,65,10,2018-12-15,Iowa,N,Northern Iowa,REG (Non-Conf),W 77-54,,18,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,0,4,4,1,1,0,1,1,5,4.8,N,1,1,ryan-kriener-1,Ryan Kriener,2019
+11,66,11,2018-12-18,Iowa,,Western Carolina,REG (Non-Conf),W 78-60,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,0,4,4,1,1,1,1,2,5,5.5,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+12,67,12,2018-12-22,Iowa,,Savannah State,REG (Non-Conf),W 110-64,,18,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,8,9,4,1,0,1,3,2,5.3,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+13,68,13,2018-12-29,Iowa,,Bryant,REG (Non-Conf),W 72-67,,3,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,0,0,0,1,0,2,1.3,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+14,69,14,2019-01-03,Iowa,@,Purdue,REG (Conf),L 70-86,,17,3,3,1.0,0,0,,3,3,1.0,1.0,4,4,1.0,0,3,3,2,1,0,4,2,10,7.6,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+15,70,15,2019-01-06,Iowa,,Nebraska,REG (Conf),W 93-84,*,25,5,8,0.625,1,1,1.0,4,7,0.571,0.688,3,3,1.0,1,2,3,1,0,3,0,4,14,12.9,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+16,71,16,2019-01-09,Iowa,@,Northwestern,REG (Conf),W 73-63,*,15,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,2,2,4,0,0,0,1,1,2,-1.2,A,1,1,ryan-kriener-1,Ryan Kriener,2019
+17,72,17,2019-01-12,Iowa,,Ohio State,REG (Conf),W 72-62,,16,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,1,1,2,0,0,1,2,1,11,7.4,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+18,73,18,2019-01-16,Iowa,@,Penn State,REG (Conf),W 89-82,,21,6,8,0.75,2,3,0.667,4,5,0.8,0.875,1,3,0.333,1,2,3,5,2,0,1,2,15,16.0,A,1,1,ryan-kriener-1,Ryan Kriener,2019
+19,74,19,2019-01-20,Iowa,,Illinois,REG (Conf),W 95-71,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,3,3,0,-3.5,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+20,75,20,2019-01-24,Iowa,,Michigan State,REG (Conf),L 67-82,,11,0,0,,0,0,,0,0,,,0,0,,1,3,4,0,0,0,0,3,0,0.4,H,0,1,ryan-kriener-1,Ryan Kriener,2019
+21,76,21,2019-01-27,Iowa,@,Minnesota,REG (Conf),L 87-92,,17,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,0,3,3,0,0,1,1,6,5.8,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+22,77,22,2019-02-01,Iowa,,Michigan,REG (Conf),W 74-59,,22,6,9,0.667,1,1,1.0,5,8,0.625,0.722,2,4,0.5,3,7,10,1,1,0,2,2,15,13.4,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+23,78,23,2019-02-07,Iowa,@,Indiana,REG (Conf),W 77-72,,13,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,2,1,1,1,3,2,0.8,A,1,1,ryan-kriener-1,Ryan Kriener,2019
+24,79,24,2019-02-10,Iowa,,Northwestern,REG (Conf),W 80-79,,9,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,0,0,0,1,0,1,1,3,1.2,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+25,80,25,2019-02-16,Iowa,@,Rutgers,REG (Conf),W 71-69,,11,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,1,4,0,0,0,0,1,0,1.3,A,1,1,ryan-kriener-1,Ryan Kriener,2019
+26,81,26,2019-02-19,Iowa,,Maryland,REG (Conf),L 65-66,,13,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,2,3,0,0,0,2,2,6,3.2,H,0,1,ryan-kriener-1,Ryan Kriener,2019
+27,82,27,2019-02-22,Iowa,,Indiana,REG (Conf),W 76-70 (OT),,18,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,2,3,1,0,0,0,2,8,6.9,H,1,1,ryan-kriener-1,Ryan Kriener,2019
+28,83,28,2019-02-26,Iowa,@,Ohio State,REG (Conf),L 70-90,,18,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,2,3,5,0,0,0,0,1,9,7.2,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+29,84,29,2019-03-02,Iowa,,Rutgers,REG (Conf),L 72-86,,8,0,0,,0,0,,0,0,,,4,4,1.0,0,2,2,0,0,0,0,0,4,4.6,H,0,1,ryan-kriener-1,Ryan Kriener,2019
+30,85,30,2019-03-07,Iowa,@,Wisconsin,REG (Conf),L 45-65,,18,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,1,2,3,0,1,0,1,4,8,4.4,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+31,86,31,2019-03-10,Iowa,@,Nebraska,REG (Conf),L 91-93 (OT),,17,1,5,0.2,0,0,,1,5,0.2,0.2,3,4,0.75,0,4,4,0,0,1,0,2,5,2.6,A,0,1,ryan-kriener-1,Ryan Kriener,2019
+32,87,32,2019-03-14,Iowa,N,Illinois,CTOURN,W 83-62,,16,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,2,1,3,0,0,0,0,0,11,9.1,N,1,0,ryan-kriener-1,Ryan Kriener,2019
+33,88,33,2019-03-15,Iowa,N,Michigan,CTOURN,L 53-74,,15,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,2,3,0,0,0,2,2,6,0.8,N,0,0,ryan-kriener-1,Ryan Kriener,2019
+34,89,34,2019-03-22,Iowa,N,Cincinnati,ROUND-64,W 79-72,,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,1,0,0,2,4,4,0.5,N,1,0,ryan-kriener-1,Ryan Kriener,2019
+35,90,35,2019-03-24,Iowa,N,Tennessee,ROUND-32,L 77-83 (OT),,13,1,3,0.333,0,0,,1,3,0.333,0.333,2,5,0.4,1,1,2,0,0,0,2,3,4,-1.1,N,0,0,ryan-kriener-1,Ryan Kriener,2019

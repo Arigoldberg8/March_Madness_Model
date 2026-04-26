@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2011-11-11,Montana,@,Colorado State,REG (Non-Conf),L 58-64,,26,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,0,1,1,0,0,0,2,3,5,-1.0,A,0,1,shawn-stockton-1,Shawn Stockton,2012
+2,70,2,2011-11-14,Montana,,Providence (MT),REG (Non-Conf),W 60-59,,20,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,2,0.0,0,2,2,0,0,0,5,2,4,-6.1,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+3,71,3,2011-11-17,Montana,,Idaho,REG (Non-Conf),W 57-52,,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,1,0,0,1,2,3,-0.9,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+4,72,4,2011-11-20,Montana,@,San Diego,REG (Non-Conf),W 73-60,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,2,2,0,1,1,2,3.6,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+5,73,5,2011-11-23,Montana,@,North Dakota,REG (Non-Conf),L 81-88 (OT),,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,1,3,0,-1.2,A,0,1,shawn-stockton-1,Shawn Stockton,2012
+6,74,6,2011-11-26,Montana,,Long Beach State,REG (Non-Conf),W 73-71,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,0,0,0,0,0,0,0,1,0,-1.5,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+7,75,7,2011-12-01,Montana,,San Francisco,REG (Non-Conf),L 62-65,,28,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,1,2,3,0,0,1,0,3,10,7.5,H,0,1,shawn-stockton-1,Shawn Stockton,2012
+8,76,8,2011-12-04,Montana,@,Oregon State,REG (Non-Conf),L 46-71,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,1,2,3,0,0,0,2,3,4,0.0,A,0,1,shawn-stockton-1,Shawn Stockton,2012
+9,77,9,2011-12-07,Montana,,Montana Tech,REG (Non-Conf),W 64-49,,14,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,2,1,3,1,0,0,0,2,0,-1.2,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+10,78,10,2011-12-10,Montana,,Nevada,REG (Non-Conf),L 64-70,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,shawn-stockton-1,Shawn Stockton,2012
+11,79,11,2011-12-17,Montana,@,Portland,REG (Non-Conf),W 80-65,,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,4,1.0,0,1,1,2,1,0,0,3,9,8.5,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+12,80,12,2011-12-22,Montana,,Utah Valley,REG (Non-Conf),W 65-52,,19,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,0,2,2,2,0,0,1,1,7,3.9,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+13,81,13,2011-12-28,Montana,,Portland State,REG (Conf),W 75-64,,15,0,1,0.0,0,0,,0,1,0.0,0.0,4,4,1.0,1,1,2,1,2,0,0,2,4,6.2,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+14,82,14,2011-12-30,Montana,,Eastern Washington,REG (Conf),W 79-71,,20,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,1,1,1,0,0,0,2,5,1.1,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+15,83,15,2012-01-07,Montana,@,Idaho State,REG (Conf),W 68-44,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,2,3,0,1,0,4,5.0,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+16,84,16,2012-01-12,Montana,@,Northern Arizona,REG (Conf),W 78-53,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,2,2,0,0,0,0,1,3,2.2,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+17,85,17,2012-01-14,Montana,@,Weber State,REG (Conf),L 64-80,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,shawn-stockton-1,Shawn Stockton,2012
+18,86,18,2012-01-19,Montana,,Northern Colorado,REG (Conf),W 76-58,,8,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,0,0,0,1.0,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+19,87,19,2012-01-21,Montana,,Sacramento State,REG (Conf),W 85-56,,16,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,0,2,0,5,2.0,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+20,88,20,2012-01-26,Montana,@,Eastern Washington,REG (Conf),W 74-60,,25,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,1,0.0,0,1,1,0,1,0,0,3,8,5.1,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+21,89,21,2012-01-29,Montana,@,Portland State,REG (Conf),W 69-67,,18,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,3,0.667,0,1,1,1,0,0,2,2,6,2.5,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+22,90,22,2012-02-04,Montana,@,Montana State,REG (Conf),W 67-58,,22,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,0,1,0,2,2,6,2.2,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+23,91,23,2012-02-06,Montana,,Idaho State,REG (Conf),W 76-40,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,3,3,0,0,0,2,3,5,1.4,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+24,92,24,2012-02-09,Montana,@,Northern Colorado,REG (Conf),W 75-68,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,1,0,-3.1,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+25,93,25,2012-02-11,Montana,@,Sacramento State,REG (Conf),W 67-58,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,2,0,-0.5,A,1,1,shawn-stockton-1,Shawn Stockton,2012
+26,94,26,2012-02-18,Montana,,Hawaii,REG (Non-Conf),W 94-79,,22,3,6,0.5,1,4,0.25,2,2,1.0,0.583,0,0,,1,2,3,3,0,0,0,5,7,5.4,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+27,95,27,2012-02-23,Montana,,Northern Arizona,REG (Conf),W 78-60,,21,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,1,2,3,3,0,1,0,7,8.4,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+28,96,28,2012-02-25,Montana,,Montana State,REG (Conf),W 57-47,,17,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,0,0,0,1,1,3,-0.5,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+29,97,29,2012-02-28,Montana,,Weber State,REG (Conf),W 66-51,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,2,0,0,1,1,2,1.0,H,1,1,shawn-stockton-1,Shawn Stockton,2012
+30,98,30,2012-03-06,Montana,,Eastern Washington,CTOURN,W 74-66,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,1,1,3,0.2,H,1,0,shawn-stockton-1,Shawn Stockton,2012
+31,99,31,2012-03-07,Montana,,Weber State,CTOURN,W 85-66,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,H,1,0,shawn-stockton-1,Shawn Stockton,2012
+32,100,32,2012-03-15,Montana,N,Wisconsin,ROUND-64,L 49-73,,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,1,0,1,4,2,0.7,N,0,0,shawn-stockton-1,Shawn Stockton,2012

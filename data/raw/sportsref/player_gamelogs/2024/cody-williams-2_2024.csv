@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-06,Colorado,,Towson,REG (Non-Conf),W 75-57,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,4,0.5,1,3,4,3,0,2,3,1,4,2.5,H,1,1,cody-williams-2,Cody Williams,2024
+2,2,3,2023-11-14,Colorado,,Milwaukee,REG (Non-Conf),W 106-79,*,25,6,9,0.667,1,1,1.0,5,8,0.625,0.722,4,4,1.0,1,4,5,4,1,0,2,1,17,16.4,H,1,1,cody-williams-2,Cody Williams,2024
+3,3,4,2023-11-20,Colorado,N,Richmond,REG (Non-Conf),W 64-59,*,32,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,0,2,2,0,1,0,0,1,6,3.5,N,1,1,cody-williams-2,Cody Williams,2024
+4,4,5,2023-11-21,Colorado,N,Florida State,REG (Non-Conf),L 71-77 (OT),*,34,6,10,0.6,1,3,0.333,5,7,0.714,0.65,4,7,0.571,2,4,6,1,2,0,5,1,17,11.1,N,0,1,cody-williams-2,Cody Williams,2024
+5,5,6,2023-11-26,Colorado,,Iona,REG (Non-Conf),W 85-68,*,23,5,6,0.833,1,1,1.0,4,5,0.8,0.917,1,2,0.5,0,1,1,4,1,0,0,2,12,12.7,H,1,1,cody-williams-2,Cody Williams,2024
+6,6,7,2023-11-29,Colorado,@,Colorado State,REG (Non-Conf),L 83-88,*,31,8,12,0.667,1,1,1.0,7,11,0.636,0.708,4,5,0.8,0,3,3,0,0,0,2,4,21,12.7,A,0,1,cody-williams-2,Cody Williams,2024
+7,7,8,2023-12-03,Colorado,,Pepperdine,REG (Non-Conf),W 91-66,*,24,9,13,0.692,2,2,1.0,7,11,0.636,0.769,1,2,0.5,3,1,4,2,1,0,2,2,21,17.1,H,1,1,cody-williams-2,Cody Williams,2024
+8,8,16,2024-01-10,Colorado,@,California,REG (Conf),L 78-82,*,38,5,13,0.385,0,3,0.0,5,10,0.5,0.385,6,7,0.857,1,3,4,2,0,2,5,4,16,6.3,A,0,1,cody-williams-2,Cody Williams,2024
+9,9,17,2024-01-13,Colorado,,Southern California,REG (Conf),W 68-58,*,31,4,10,0.4,0,2,0.0,4,8,0.5,0.4,5,8,0.625,0,2,2,1,1,2,0,3,13,8.9,H,1,1,cody-williams-2,Cody Williams,2024
+10,10,18,2024-01-18,Colorado,,Oregon,REG (Conf),W 86-70,*,33,10,13,0.769,3,4,0.75,7,9,0.778,0.885,0,1,0.0,1,1,2,3,1,2,2,1,23,20.6,H,1,1,cody-williams-2,Cody Williams,2024
+11,11,19,2024-01-20,Colorado,,Oregon State,REG (Conf),W 90-57,*,32,6,10,0.6,2,3,0.667,4,7,0.571,0.7,2,3,0.667,3,3,6,1,2,0,0,2,16,15.9,H,1,1,cody-williams-2,Cody Williams,2024
+12,12,20,2024-01-24,Colorado,@,Washington,REG (Conf),W 98-81,*,32,7,10,0.7,2,3,0.667,5,7,0.714,0.8,3,3,1.0,1,2,3,4,1,0,1,1,19,18.5,A,1,1,cody-williams-2,Cody Williams,2024
+13,13,21,2024-01-27,Colorado,@,Washington State,REG (Conf),L 69-78,*,27,0,4,0.0,0,0,,0,4,0.0,0.0,6,7,0.857,2,4,6,0,1,0,1,3,6,4.2,A,0,1,cody-williams-2,Cody Williams,2024
+14,14,23,2024-02-08,Colorado,,Arizona State,REG (Conf),W 82-70,*,33,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,0,3,3,3,1,1,1,3,11,8.8,H,1,1,cody-williams-2,Cody Williams,2024
+15,15,24,2024-02-10,Colorado,,Arizona,REG (Conf),L 79-99,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,4,0.5,0,1,1,0,0,3,5,4,8,-0.7,H,0,1,cody-williams-2,Cody Williams,2024
+16,16,25,2024-02-15,Colorado,@,UCLA,REG (Conf),L 60-64,*,31,8,9,0.889,2,3,0.667,6,6,1.0,1.0,0,0,,0,2,2,0,0,0,4,4,18,9.9,A,0,1,cody-williams-2,Cody Williams,2024
+17,17,26,2024-02-17,Colorado,@,Southern California,REG (Conf),W 92-89 (2OT),*,41,5,6,0.833,0,1,0.0,5,5,1.0,0.833,4,6,0.667,0,4,4,3,1,1,7,4,14,7.4,A,1,1,cody-williams-2,Cody Williams,2024
+18,18,27,2024-02-24,Colorado,,Utah,REG (Conf),W 89-65,*,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,2,0,0,0,1,4,3.3,H,1,1,cody-williams-2,Cody Williams,2024
+19,19,32,2024-03-14,Colorado,N,Utah,CTOURN,W 72-58,,24,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,0,,1,2,3,0,0,0,0,1,6,1.8,N,1,0,cody-williams-2,Cody Williams,2024
+20,20,33,2024-03-15,Colorado,N,Washington State,CTOURN,W 58-52,,18,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,2,2,1,1,0,1,0,4,1.9,N,1,0,cody-williams-2,Cody Williams,2024
+21,21,34,2024-03-16,Colorado,N,Oregon,CTOURN,L 68-75,,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,3,1.0,1,4,5,1,0,0,3,1,9,5.2,N,0,0,cody-williams-2,Cody Williams,2024
+22,22,35,2024-03-20,Colorado,N,Boise State,FIRST-FOUR,W 60-53,,11,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,1,1,0,0,1,1,1,0,-3.2,N,1,0,cody-williams-2,Cody Williams,2024
+23,23,36,2024-03-22,Colorado,N,Florida,ROUND-64,W 102-100,,25,2,3,0.667,0,0,,2,3,0.667,0.667,5,7,0.714,0,2,2,3,0,0,0,2,9,8.8,N,1,0,cody-williams-2,Cody Williams,2024
+24,24,37,2024-03-24,Colorado,N,Marquette,ROUND-32,L 77-81,,28,5,10,0.5,1,2,0.5,4,8,0.5,0.55,1,2,0.5,0,0,0,0,0,2,3,1,12,4.6,N,0,0,cody-williams-2,Cody Williams,2024

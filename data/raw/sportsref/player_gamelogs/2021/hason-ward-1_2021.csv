@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,25,1,2020-11-25,VCU,N,Utah State,REG (Non-Conf),W 85-69,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,4,0,0,2,4.8,N,1,1,hason-ward-1,Hason Ward,2021
+2,26,2,2020-11-26,VCU,N,West Virginia,REG (Non-Conf),L 66-78,,9,0,0,,0,0,,0,0,,,0,0,,1,1,2,1,1,1,1,3,0,1.2,N,0,1,hason-ward-1,Hason Ward,2021
+3,27,3,2020-11-27,VCU,N,Memphis,REG (Non-Conf),W 70-59,,21,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,2,5,7,2,1,2,2,4,9,10.2,N,1,1,hason-ward-1,Hason Ward,2021
+4,28,4,2020-12-02,VCU,@,Penn State,REG (Non-Conf),L 69-72,,17,3,6,0.5,0,0,,3,6,0.5,0.5,3,5,0.6,3,2,5,1,0,0,2,2,9,5.8,A,0,1,hason-ward-1,Hason Ward,2021
+5,29,5,2020-12-05,VCU,,Mount St. Mary's,REG (Non-Conf),W 60-42,,18,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,1,4,5,1,2,2,1,2,6,6.5,H,1,1,hason-ward-1,Hason Ward,2021
+6,30,6,2020-12-09,VCU,,North Carolina A&T,REG (Non-Conf),W 95-59,,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,5,5,2,3,4,1,1,6,11.7,H,1,1,hason-ward-1,Hason Ward,2021
+7,31,7,2020-12-12,VCU,,Old Dominion,REG (Non-Conf),W 77-54,,15,1,1,1.0,0,0,,1,1,1.0,1.0,5,6,0.833,2,3,5,1,0,3,0,4,7,9.8,H,1,1,hason-ward-1,Hason Ward,2021
+8,32,8,2020-12-15,VCU,,Western Carolina,REG (Non-Conf),W 93-68,,21,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,3,4,4,1,0,1,0,8,11.5,H,1,1,hason-ward-1,Hason Ward,2021
+9,33,9,2020-12-22,VCU,,James Madison,REG (Non-Conf),W 82-81,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,1,1,1,2,3,2,1.8,H,1,1,hason-ward-1,Hason Ward,2021
+10,34,10,2020-12-30,VCU,@,Saint Joseph's,REG (Conf),W 80-64,,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,0,1,1,1,1,4,2.2,A,1,1,hason-ward-1,Hason Ward,2021
+11,35,11,2021-01-06,VCU,@,George Mason,REG (Conf),W 66-61,,19,1,3,0.333,0,0,,1,3,0.333,0.333,2,3,0.667,2,2,4,0,0,2,3,3,4,1.1,A,1,1,hason-ward-1,Hason Ward,2021
+12,36,12,2021-01-09,VCU,,Rhode Island,REG (Conf),L 68-83,,21,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,0,4,4,0,0,4,1,1,8,9.0,H,0,1,hason-ward-1,Hason Ward,2021
+13,37,13,2021-01-13,VCU,@,George Washington,REG (Conf),W 84-77,,22,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,2,3,5,0,1,4,0,0,11,14.1,A,1,1,hason-ward-1,Hason Ward,2021
+14,38,14,2021-01-20,VCU,@,St. Bonaventure,REG (Conf),L 54-70,,21,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,7,3,10,0,0,3,2,3,8,9.0,A,0,1,hason-ward-1,Hason Ward,2021
+15,39,15,2021-01-23,VCU,,Dayton,REG (Conf),W 66-43,,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,5,6,1,0,5,1,2,6,9.7,H,1,1,hason-ward-1,Hason Ward,2021
+16,40,16,2021-01-30,VCU,,La Salle,REG (Conf),W 73-62,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,1,2,0.5,4,6,10,1,0,1,2,3,13,12.9,H,1,1,hason-ward-1,Hason Ward,2021
+17,41,17,2021-02-03,VCU,@,Rhode Island,REG (Conf),W 63-62,*,24,0,4,0.0,0,1,0.0,0,3,0.0,0.0,3,4,0.75,1,8,9,0,0,4,1,3,3,3.5,A,1,1,hason-ward-1,Hason Ward,2021
+18,42,18,2021-02-09,VCU,@,Dayton,REG (Conf),W 76-67,*,26,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,3,4,4,0,2,2,2,2,2.6,A,1,1,hason-ward-1,Hason Ward,2021
+19,43,19,2021-02-12,VCU,,St. Bonaventure,REG (Conf),W 67-64,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,2,3,5,0,1,1,1,4,6,4.0,H,1,1,hason-ward-1,Hason Ward,2021
+20,44,20,2021-02-17,VCU,,Richmond,REG (Conf),W 68-56,*,29,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,2,0.5,1,6,7,2,0,2,2,1,11,9.9,H,1,1,hason-ward-1,Hason Ward,2021
+21,45,21,2021-02-20,VCU,,George Mason,REG (Conf),L 76-79 (OT),*,35,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,3,4,0,1,3,1,3,4,5.2,H,0,1,hason-ward-1,Hason Ward,2021
+22,46,22,2021-02-23,VCU,,Saint Louis,REG (Conf),W 67-65,*,24,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,2,2,3,0,3,1,4,8,9.0,H,1,1,hason-ward-1,Hason Ward,2021
+23,47,23,2021-02-27,VCU,@,Davidson,REG (Conf),L 57-65,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,5,0.8,5,5,10,0,2,1,3,3,10,9.4,A,0,1,hason-ward-1,Hason Ward,2021
+24,48,24,2021-03-05,VCU,,Dayton,CTOURN,W 73-68,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,2,4,0.5,0,5,5,1,0,3,1,2,10,9.1,H,1,0,hason-ward-1,Hason Ward,2021
+25,49,25,2021-03-06,VCU,,Davidson,CTOURN,W 64-52,*,24,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,2,3,5,0,1,4,1,2,6,7.6,H,1,0,hason-ward-1,Hason Ward,2021
+26,50,26,2021-03-14,VCU,N,St. Bonaventure,CTOURN,L 65-74,*,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,1,2,4,4,1.1,N,0,0,hason-ward-1,Hason Ward,2021

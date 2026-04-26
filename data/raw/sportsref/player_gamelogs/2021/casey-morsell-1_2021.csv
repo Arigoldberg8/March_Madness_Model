@@ -1,0 +1,24 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2020-11-25,Virginia,N,Towson,REG (Non-Conf),W 89-54,*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,2,2,4,2,2,0,0,1,5,6.6,N,1,1,casey-morsell-1,Casey Morsell,2021
+2,32,2,2020-11-27,Virginia,N,San Francisco,REG (Non-Conf),L 60-61,*,13,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,0,1,0,0,1,1,0,4,1.7,N,0,1,casey-morsell-1,Casey Morsell,2021
+3,33,3,2020-12-01,Virginia,,Saint Francis (PA),REG (Non-Conf),W 76-51,,15,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,0,0,2,0,0,1,1,7,4.0,H,1,1,casey-morsell-1,Casey Morsell,2021
+4,34,4,2020-12-04,Virginia,,Kent State,REG (Non-Conf),W 71-64 (OT),,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,0,0,1,0,0,0,1,4,3.3,H,1,1,casey-morsell-1,Casey Morsell,2021
+5,35,5,2020-12-22,Virginia,,William & Mary,REG (Non-Conf),W 76-40,,17,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,0,1,1,1,0,6,4.3,H,1,1,casey-morsell-1,Casey Morsell,2021
+6,36,6,2020-12-26,Virginia,N,Gonzaga,REG (Non-Conf),L 75-98,,18,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,2,1.0,0,1,1,0,0,0,2,2,8,2.5,N,0,1,casey-morsell-1,Casey Morsell,2021
+7,37,7,2020-12-30,Virginia,@,Notre Dame,REG (Conf),W 66-57,*,27,2,9,0.222,1,3,0.333,1,6,0.167,0.278,1,2,0.5,0,2,2,1,2,1,0,3,6,2.9,A,1,1,casey-morsell-1,Casey Morsell,2021
+8,38,10,2021-01-13,Virginia,,Notre Dame,REG (Conf),W 80-68,,24,6,7,0.857,3,3,1.0,3,4,0.75,1.071,0,0,,0,4,4,0,0,0,0,2,15,12.9,H,1,1,casey-morsell-1,Casey Morsell,2021
+9,39,11,2021-01-16,Virginia,@,Clemson,REG (Conf),W 85-50,,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,0,0,5,3.0,A,1,1,casey-morsell-1,Casey Morsell,2021
+10,40,12,2021-01-23,Virginia,,Georgia Tech,REG (Conf),W 64-62,,28,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,0,4,4,1,0,0,0,2,9,6.1,H,1,1,casey-morsell-1,Casey Morsell,2021
+11,41,13,2021-01-25,Virginia,,Syracuse,REG (Conf),W 81-58,,7,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,2,2,0,0,0,1,0,7,4.3,H,1,1,casey-morsell-1,Casey Morsell,2021
+12,42,14,2021-01-30,Virginia,@,Virginia Tech,REG (Conf),L 51-65,,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,1,1,2,1,0,0,1,4,2.2,A,0,1,casey-morsell-1,Casey Morsell,2021
+13,43,15,2021-02-03,Virginia,@,NC State,REG (Conf),W 64-57,,12,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,1,1,0,2,1,0,-2.8,A,1,1,casey-morsell-1,Casey Morsell,2021
+14,44,16,2021-02-06,Virginia,,Pittsburgh,REG (Conf),W 73-66,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-2.4,H,1,1,casey-morsell-1,Casey Morsell,2021
+15,45,17,2021-02-10,Virginia,@,Georgia Tech,REG (Conf),W 57-49,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,A,1,1,casey-morsell-1,Casey Morsell,2021
+16,46,18,2021-02-13,Virginia,,North Carolina,REG (Conf),W 60-48,,8,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,2,2,-0.2,H,1,1,casey-morsell-1,Casey Morsell,2021
+17,47,19,2021-02-15,Virginia,@,Florida State,REG (Conf),L 60-81,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,1,2,2,0,0,1,3,3,1.1,A,0,1,casey-morsell-1,Casey Morsell,2021
+18,48,20,2021-02-20,Virginia,@,Duke,REG (Conf),L 65-66,,26,3,8,0.375,0,0,,3,8,0.375,0.375,1,3,0.333,0,2,2,2,0,1,1,2,7,2.7,A,0,1,casey-morsell-1,Casey Morsell,2021
+19,49,21,2021-02-24,Virginia,,NC State,REG (Conf),L 61-68,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,0,0,0,-0.8,H,0,1,casey-morsell-1,Casey Morsell,2021
+20,50,22,2021-03-01,Virginia,,Miami (FL),REG (Conf),W 62-51,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,0,0,1,0,0,2,0.3,H,1,1,casey-morsell-1,Casey Morsell,2021
+21,51,23,2021-03-06,Virginia,@,Louisville,REG (Conf),W 68-58,,3,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,casey-morsell-1,Casey Morsell,2021
+22,52,24,2021-03-11,Virginia,N,Syracuse,CTOURN,W 72-69,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,casey-morsell-1,Casey Morsell,2021
+23,53,25,2021-03-20,Virginia,N,Ohio,ROUND-64,L 58-62,,16,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,2,3,0,0,1,1,3,7,4.5,N,0,0,casey-morsell-1,Casey Morsell,2021

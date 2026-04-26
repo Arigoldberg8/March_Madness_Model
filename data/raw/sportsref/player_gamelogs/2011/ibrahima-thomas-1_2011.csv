@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2010-11-15,Cincinnati,,Mount St. Mary's,REG (Non-Conf),W 69-59,*,12,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,2,2,0,0,0,2,4,9,3.7,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+2,70,2,2010-11-20,Cincinnati,,IPFW,REG (Non-Conf),W 65-59,*,20,4,6,0.667,0,0,,4,6,0.667,0.667,1,6,0.167,4,5,9,1,1,0,1,3,9,8.2,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+3,71,3,2010-11-22,Cincinnati,,Florida A&M,REG (Non-Conf),W 76-51,*,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,2,4,6,0,0,0,0,1,11,9.5,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+4,72,4,2010-11-24,Cincinnati,,Savannah State,REG (Non-Conf),W 54-41,*,27,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,2,1.0,2,6,8,1,1,0,3,2,6,2.3,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+5,73,5,2010-11-27,Cincinnati,N,Dayton,REG (Non-Conf),W 68-34,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,2,6,8,1,1,1,1,1,6,7.5,N,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+6,74,6,2010-12-01,Cincinnati,,Wright State,REG (Non-Conf),W 77-69,*,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,1,2,1,1,1,1,1,2,2.3,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+7,75,7,2010-12-04,Cincinnati,@,Toledo,REG (Non-Conf),W 81-47,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,4,4,8,3,2,0,2,2,7,8.9,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+8,76,8,2010-12-11,Cincinnati,,Utah Valley,REG (Non-Conf),W 92-72,*,30,5,8,0.625,0,2,0.0,5,6,0.833,0.625,1,4,0.25,5,7,12,1,1,1,1,3,11,12.0,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+9,77,9,2010-12-14,Cincinnati,,Georgia Southern,REG (Non-Conf),W 99-54,*,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,5,0.8,1,4,5,2,2,2,0,1,12,13.9,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+10,78,10,2010-12-18,Cincinnati,N,Oklahoma,REG (Non-Conf),W 66-56,*,21,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,6,0.5,1,3,4,0,0,0,1,4,3,-1.3,N,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+11,79,11,2010-12-21,Cincinnati,@,Miami (OH),REG (Non-Conf),W 64-48,*,29,3,6,0.5,0,1,0.0,3,5,0.6,0.5,5,6,0.833,7,6,13,0,1,0,1,2,11,13.5,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+12,80,12,2010-12-23,Cincinnati,,Saint Francis (PA),REG (Non-Conf),W 94-58,,16,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,3,0.0,0,2,2,0,1,1,0,2,5,3.3,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+13,81,13,2010-12-28,Cincinnati,,DePaul,REG (Conf),W 76-60,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,4,6,0.667,6,4,10,1,0,2,0,1,6,9.9,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+14,82,14,2010-12-31,Cincinnati,,Seton Hall,REG (Conf),W 70-53,*,23,6,8,0.75,0,2,0.0,6,6,1.0,0.75,0,0,,4,5,9,0,0,0,2,5,12,9.1,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+15,83,15,2011-01-06,Cincinnati,,Xavier,REG (Non-Conf),W 66-46,*,24,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,3,1,4,2,1,1,0,4,2,2.8,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+16,84,16,2011-01-09,Cincinnati,@,Villanova,REG (Conf),L 61-72,*,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,1,2,3,0,0,0,0,5,4,2.3,A,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+17,85,17,2011-01-12,Cincinnati,,South Florida,REG (Conf),W 74-66,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,5,0,-2.1,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+18,86,18,2011-01-15,Cincinnati,@,Syracuse,REG (Conf),L 52-67,*,22,2,7,0.286,0,0,,2,7,0.286,0.286,0,1,0.0,4,4,8,2,0,0,0,3,4,3.7,A,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+19,87,19,2011-01-19,Cincinnati,@,Notre Dame,REG (Conf),L 58-66,*,20,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,4,5,0,1,0,0,3,0,-1.8,A,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+20,88,20,2011-01-22,Cincinnati,@,St. John's (NY),REG (Conf),W 53-51,,10,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,2,1,2,3,2.6,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+21,89,21,2011-01-26,Cincinnati,,Rutgers,REG (Conf),W 72-56,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,1,1,4,2,0.4,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+22,90,22,2011-01-29,Cincinnati,,West Virginia,REG (Conf),L 55-66,*,26,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,3,2,5,0,2,0,2,4,2,0.7,H,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+23,91,23,2011-02-05,Cincinnati,@,Pittsburgh,REG (Conf),L 59-71,*,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,3,3,6,0,1,1,0,4,7,7.0,A,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+24,92,24,2011-02-08,Cincinnati,@,DePaul,REG (Conf),W 71-68,*,29,8,10,0.8,0,0,,8,10,0.8,0.8,0,0,,3,4,7,2,0,0,1,3,16,14.7,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+25,93,25,2011-02-13,Cincinnati,,St. John's (NY),REG (Conf),L 57-59,*,26,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,4,4,8,1,1,2,0,5,7,9.4,H,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+26,94,26,2011-02-16,Cincinnati,,Louisville,REG (Conf),W 63-54,*,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,3,2,-0.2,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+27,95,27,2011-02-19,Cincinnati,@,Providence,REG (Conf),W 93-81 (OT),*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,4,5,0,0,0,0,4,3,1.2,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+28,96,28,2011-02-23,Cincinnati,@,Georgetown,REG (Conf),W 58-46,*,4,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,2,2,0,-2.1,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+29,97,29,2011-02-27,Cincinnati,,Connecticut,REG (Conf),L 59-67,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,H,0,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+30,98,30,2011-03-02,Cincinnati,@,Marquette,REG (Conf),W 67-60,*,25,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,4,0.5,3,4,7,1,0,0,2,3,12,9.1,A,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+31,99,31,2011-03-05,Cincinnati,,Georgetown,REG (Conf),W 69-47,*,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,3,4,0,0,1,3,3,6,2.1,H,1,1,ibrahima-thomas-1,Ibrahima Thomas,2011
+32,100,32,2011-03-09,Cincinnati,N,South Florida,CTOURN,W 87-61,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,2,3,5,2,0,3,0,3,8,10.6,N,1,0,ibrahima-thomas-1,Ibrahima Thomas,2011
+33,101,33,2011-03-10,Cincinnati,N,Notre Dame,CTOURN,L 51-89,*,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,1,3,0,0,1,0,4,0,-0.6,N,0,0,ibrahima-thomas-1,Ibrahima Thomas,2011
+34,102,34,2011-03-17,Cincinnati,N,Missouri,ROUND-64,W 78-63,*,24,2,2,1.0,0,0,,2,2,1.0,1.0,3,3,1.0,2,5,7,0,1,1,2,3,7,7.8,N,1,0,ibrahima-thomas-1,Ibrahima Thomas,2011
+35,103,35,2011-03-19,Cincinnati,N,Connecticut,ROUND-32,L 58-69,*,14,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,3,3,0,0,0,0,5,6,3.3,N,0,0,ibrahima-thomas-1,Ibrahima Thomas,2011

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2013-11-09,New Mexico,,Alabama A&M,REG (Non-Conf),W 88-52,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,2,0,2,2,0,0,1,1,2,0.2,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+2,36,2,2013-11-17,New Mexico,,Charleston Southern,REG (Non-Conf),W 109-93,*,16,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,1,3,4,1,0,0,0,0,10,9.7,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+3,37,3,2013-11-21,New Mexico,N,UAB,REG (Non-Conf),W 97-94 (2OT),*,27,4,12,0.333,2,7,0.286,2,5,0.4,0.417,0,1,0.0,4,3,7,1,0,1,0,2,10,7.1,N,1,1,cleveland-thomas-1,Pancake Thomas,2014
+4,38,4,2013-11-22,New Mexico,N,Massachusetts,REG (Non-Conf),L 65-81,*,22,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,2,4,6,1,1,0,0,1,0,0.4,N,0,1,cleveland-thomas-1,Pancake Thomas,2014
+5,39,5,2013-11-24,New Mexico,N,Davidson,REG (Non-Conf),W 79-58,*,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,1,2,1,0,0,1,1,5,3.3,N,1,1,cleveland-thomas-1,Pancake Thomas,2014
+6,40,6,2013-11-30,New Mexico,,San Diego,REG (Non-Conf),W 73-66,*,21,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,3,4,0,0,0,1,3,5,2.0,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+7,41,7,2013-12-04,New Mexico,@,New Mexico State,REG (Non-Conf),W 79-70,*,20,1,1,1.0,1,1,1.0,0,0,,1.5,5,7,0.714,1,2,3,1,2,0,2,1,8,8.5,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+8,42,8,2013-12-07,New Mexico,,Cincinnati,REG (Non-Conf),W 63-54,*,17,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,2,3,0,0,0,2,2,0,-3.6,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+9,43,9,2013-12-14,New Mexico,N,Kansas,REG (Non-Conf),L 63-80,*,16,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,1,0,0,0,2,2,0.8,N,0,1,cleveland-thomas-1,Pancake Thomas,2014
+10,44,10,2013-12-17,New Mexico,,New Mexico State,REG (Non-Conf),L 61-67,*,21,0,3,0.0,0,3,0.0,0,0,,0.0,2,2,1.0,0,2,2,1,0,0,2,0,2,-0.8,H,0,1,cleveland-thomas-1,Pancake Thomas,2014
+11,45,11,2013-12-21,New Mexico,N,Marquette,REG (Non-Conf),W 75-68,,16,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,3,0,3,0,0,0,2,1,4,-0.4,N,1,1,cleveland-thomas-1,Pancake Thomas,2014
+12,46,12,2013-12-23,New Mexico,,Grand Canyon,REG (Non-Conf),W 80-68,,16,1,3,0.333,1,1,1.0,0,2,0.0,0.5,2,2,1.0,0,2,2,1,2,0,2,0,5,4.6,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+13,47,13,2014-01-04,New Mexico,,Colorado State,REG (Conf),W 80-73,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,1,0,0,0,2,2,1.9,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+14,48,14,2014-01-08,New Mexico,@,Wyoming,REG (Conf),W 72-69 (OT),,19,3,4,0.75,2,2,1.0,1,2,0.5,1.0,4,4,1.0,1,5,6,0,1,0,0,1,12,13.2,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+15,49,15,2014-01-11,New Mexico,@,San Jose State,REG (Conf),W 69-65,,10,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,1,0,1,0,0,0,0,0,2,1.3,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+16,50,16,2014-01-15,New Mexico,,UNLV,REG (Conf),L 73-76,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,0,0,0.3,H,0,1,cleveland-thomas-1,Pancake Thomas,2014
+17,51,17,2014-01-18,New Mexico,@,Fresno State,REG (Conf),W 89-78,,12,2,4,0.5,2,4,0.5,0,0,,0.75,4,5,0.8,0,1,1,0,0,0,0,1,10,7.5,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+18,52,18,2014-01-21,New Mexico,,Boise State,REG (Conf),W 84-75,,17,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,1,1.0,1,0,1,1,0,0,1,1,6,2.6,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+19,53,19,2014-01-25,New Mexico,@,Colorado State,REG (Conf),W 68-66,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,3,3,0,0,0,0,1,4,2.1,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+20,54,20,2014-01-28,New Mexico,@,Utah State,REG (Conf),W 78-65,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+21,55,21,2014-02-01,New Mexico,,San Jose State,REG (Conf),W 72-47,,15,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,2,1,3,0,0,0,1,0,8,6.0,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+22,56,22,2014-02-05,New Mexico,,Wyoming,REG (Conf),W 66-61 (OT),,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.0,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+23,57,23,2014-02-12,New Mexico,@,Boise State,REG (Conf),L 70-71,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,2,0,-1.2,A,0,1,cleveland-thomas-1,Pancake Thomas,2014
+24,58,24,2014-02-15,New Mexico,,Nevada,REG (Conf),W 90-72,,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,1,1,2,1,0,0,0,0,8,6.7,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+25,59,25,2014-02-19,New Mexico,@,UNLV,REG (Conf),W 68-56,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,2,0,-0.5,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+26,60,26,2014-02-22,New Mexico,,San Diego State,REG (Conf),W 58-44,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,1,0,0,0,0,0.9,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+27,61,27,2014-02-25,New Mexico,,Utah State,REG (Conf),W 67-58,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,3,0,0,0,1,2,2.2,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+28,62,28,2014-03-02,New Mexico,@,Nevada,REG (Conf),W 72-58,,21,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,2,3,5,1,0,0,0,1,7,6.6,A,1,1,cleveland-thomas-1,Pancake Thomas,2014
+29,63,29,2014-03-05,New Mexico,,Air Force,REG (Conf),W 80-52,,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,5,5,1.0,0,1,1,3,1,0,1,2,10,9.6,H,1,1,cleveland-thomas-1,Pancake Thomas,2014
+30,64,30,2014-03-08,New Mexico,@,San Diego State,REG (Conf),L 48-51,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,A,0,1,cleveland-thomas-1,Pancake Thomas,2014
+31,65,31,2014-03-13,New Mexico,N,Fresno State,CTOURN,W 93-77,,17,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,1,1.0,0,2,2,2,0,0,0,1,6,7.0,N,1,0,cleveland-thomas-1,Pancake Thomas,2014
+32,66,32,2014-03-14,New Mexico,N,Boise State,CTOURN,W 70-67,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,0,cleveland-thomas-1,Pancake Thomas,2014
+33,67,33,2014-03-15,New Mexico,N,San Diego State,CTOURN,W 64-58,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,N,1,0,cleveland-thomas-1,Pancake Thomas,2014
+34,68,34,2014-03-21,New Mexico,N,Stanford,ROUND-64,L 53-58,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,0,0,cleveland-thomas-1,Pancake Thomas,2014

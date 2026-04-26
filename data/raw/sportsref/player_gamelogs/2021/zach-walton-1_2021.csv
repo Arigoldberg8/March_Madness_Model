@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2020-11-28,Drexel,@,Pittsburgh,REG (Non-Conf),L 74-83,*,26,6,11,0.545,1,4,0.25,5,7,0.714,0.591,0,0,,1,2,3,2,1,0,2,0,13,9.4,A,0,1,zach-walton-1,Zach Walton,2021
+2,42,2,2020-12-02,Drexel,N,Quinnipiac,REG (Non-Conf),W 66-48,*,28,3,6,0.5,2,4,0.5,1,2,0.5,0.667,5,5,1.0,1,4,5,1,0,0,2,2,13,9.8,N,1,1,zach-walton-1,Zach Walton,2021
+3,43,3,2020-12-03,Drexel,N,Quinnipiac,REG (Non-Conf),W 70-58,*,33,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,1,6,7,4,1,1,0,2,9,10.5,N,1,1,zach-walton-1,Zach Walton,2021
+4,44,4,2020-12-06,Drexel,,Coppin State,REG (Non-Conf),W 69-54,*,34,3,9,0.333,1,5,0.2,2,4,0.5,0.389,3,4,0.75,0,7,7,2,0,0,4,2,10,3.2,H,1,1,zach-walton-1,Zach Walton,2021
+5,45,5,2020-12-12,Drexel,,La Salle,REG (Non-Conf),L 48-58,*,29,4,10,0.4,1,5,0.2,3,5,0.6,0.45,1,2,0.5,2,2,4,2,2,0,0,0,10,9.6,H,0,1,zach-walton-1,Zach Walton,2021
+6,46,6,2020-12-17,Drexel,,Saint Joseph's,REG (Non-Conf),W 81-77,*,33,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,4,4,2,1,0,4,3,5,-0.4,H,1,1,zach-walton-1,Zach Walton,2021
+7,47,7,2020-12-19,Drexel,@,Fairleigh Dickinson,REG (Non-Conf),W 85-68,*,27,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,4,4,2,1,0,1,0,7,5.2,A,1,1,zach-walton-1,Zach Walton,2021
+8,48,8,2021-01-09,Drexel,@,College of Charleston,REG (Conf),L 60-61,*,33,4,11,0.364,2,6,0.333,2,5,0.4,0.455,3,3,1.0,2,4,6,1,1,0,1,1,13,9.8,A,0,1,zach-walton-1,Zach Walton,2021
+9,49,9,2021-01-10,Drexel,@,College of Charleston,REG (Conf),L 68-73,*,28,6,10,0.6,3,6,0.5,3,4,0.75,0.75,2,2,1.0,1,2,3,1,0,0,3,4,17,9.8,A,0,1,zach-walton-1,Zach Walton,2021
+10,50,10,2021-01-16,Drexel,,William & Mary,REG (Conf),W 82-58,*,29,8,10,0.8,4,6,0.667,4,4,1.0,1.0,0,0,,0,2,2,1,0,0,2,3,20,14.3,H,1,1,zach-walton-1,Zach Walton,2021
+11,51,11,2021-01-17,Drexel,,William & Mary,REG (Conf),L 64-69,*,28,1,4,0.25,1,4,0.25,0,0,,0.375,3,3,1.0,0,3,3,2,3,0,0,4,6,7.3,H,0,1,zach-walton-1,Zach Walton,2021
+12,52,12,2021-01-23,Drexel,@,William & Mary,REG (Conf),W 79-64,*,22,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,1,0.0,0,5,5,2,0,3,2,2,8,7.5,A,1,1,zach-walton-1,Zach Walton,2021
+13,53,13,2021-01-31,Drexel,@,James Madison,REG (Conf),L 64-73,*,34,5,10,0.5,2,5,0.4,3,5,0.6,0.6,3,5,0.6,0,5,5,1,0,0,2,3,15,8.2,A,0,1,zach-walton-1,Zach Walton,2021
+14,54,14,2021-02-06,Drexel,@,Hofstra,REG (Conf),W 73-71,*,29,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,2,1.0,1,1,2,1,1,0,2,1,11,6.6,A,1,1,zach-walton-1,Zach Walton,2021
+15,55,15,2021-02-07,Drexel,@,Hofstra,REG (Conf),L 74-79,*,13,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,0,0,2,3,1,-3.0,A,0,1,zach-walton-1,Zach Walton,2021
+16,56,16,2021-02-26,Drexel,@,James Madison,REG (Conf),W 84-78,*,18,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,1,2,2,3,0.5,A,1,1,zach-walton-1,Zach Walton,2021
+17,57,17,2021-03-07,Drexel,N,College of Charleston,CTOURN,W 80-75,*,30,6,10,0.6,5,6,0.833,1,4,0.25,0.85,0,0,,1,2,3,2,1,0,0,1,17,15.7,N,1,0,zach-walton-1,Zach Walton,2021
+18,58,18,2021-03-08,Drexel,N,Northeastern,CTOURN,W 74-67,*,32,5,10,0.5,1,3,0.333,4,7,0.571,0.55,4,4,1.0,0,2,2,3,0,0,2,1,15,10.3,N,1,0,zach-walton-1,Zach Walton,2021
+19,59,19,2021-03-09,Drexel,N,Elon,CTOURN,W 63-56,*,25,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,6,6,0,0,1,0,0,8,6.8,N,1,0,zach-walton-1,Zach Walton,2021
+20,60,20,2021-03-19,Drexel,N,Illinois,ROUND-64,L 49-78,*,26,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,1,4,5,1,0,1,1,0,8,5.2,N,0,0,zach-walton-1,Zach Walton,2021

@@ -1,0 +1,20 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,7,2020-12-27,Cleveland State,,Youngstown State,REG (Conf),W 81-74,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+2,88,8,2021-01-01,Cleveland State,@,IUPUI,REG (Conf),W 65-62,,10,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,2,3,5,2,2,0,1,4,2,3.0,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+3,89,9,2021-01-02,Cleveland State,@,IUPUI,REG (Conf),W 59-49,,20,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,4,1,5,1,2,1,3,1,4,2.3,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+4,90,10,2021-01-08,Cleveland State,,Northern Kentucky,REG (Conf),W 58-44,,17,2,4,0.5,0,0,,2,4,0.5,0.5,3,5,0.6,2,4,6,2,0,0,4,2,7,3.4,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+5,91,11,2021-01-09,Cleveland State,,Northern Kentucky,REG (Conf),W 74-71 (OT),,21,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,3,4,7,1,1,0,1,5,6,4.6,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+6,92,12,2021-01-15,Cleveland State,@,Wright State,REG (Conf),W 66-64,,18,3,8,0.375,0,0,,3,8,0.375,0.375,2,3,0.667,2,1,3,0,1,0,1,3,8,3.7,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+7,93,13,2021-01-16,Cleveland State,@,Wright State,REG (Conf),L 49-85,,9,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,1,3,1,0,0,1,0,6,4.4,A,0,1,al-eichelberger-1,Al Eichelberger,2021
+8,94,16,2021-01-29,Cleveland State,,Green Bay,REG (Conf),W 74-68,,12,0,3,0.0,0,0,,0,3,0.0,0.0,2,3,0.667,2,1,3,0,0,0,1,1,2,-0.2,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+9,95,17,2021-01-30,Cleveland State,,Green Bay,REG (Conf),W 73-65,,29,6,10,0.6,0,0,,6,10,0.6,0.6,4,7,0.571,2,3,5,3,0,0,3,1,16,11.2,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+10,96,18,2021-02-05,Cleveland State,@,Oakland,REG (Conf),W 80-72,,11,0,2,0.0,0,0,,0,2,0.0,0.0,2,4,0.5,1,0,1,1,0,0,1,2,2,-0.6,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+11,97,19,2021-02-06,Cleveland State,@,Oakland,REG (Conf),W 80-78,,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,0,2,0,2,0,1,2,4,4.3,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+12,98,20,2021-02-12,Cleveland State,,Detroit Mercy,REG (Conf),L 83-89,,9,1,3,0.333,0,0,,1,3,0.333,0.333,3,5,0.6,2,1,3,1,0,0,1,2,5,3.1,H,0,1,al-eichelberger-1,Al Eichelberger,2021
+13,99,21,2021-02-13,Cleveland State,,Detroit Mercy,REG (Conf),W 71-64,,8,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,1,1,2,0,0,1,1,3,5,2.1,H,1,1,al-eichelberger-1,Al Eichelberger,2021
+14,100,22,2021-02-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),L 68-75,,13,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,2,2,1,0,0,1,3,4,2.1,A,0,1,al-eichelberger-1,Al Eichelberger,2021
+15,101,23,2021-02-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 67-55,,33,3,4,0.75,0,0,,3,4,0.75,0.75,5,7,0.714,2,4,6,0,0,0,1,2,11,9.4,A,1,1,al-eichelberger-1,Al Eichelberger,2021
+16,102,24,2021-03-02,Cleveland State,,Purdue Fort Wayne,CTOURN,W 108-104 (3OT),,37,7,12,0.583,1,1,1.0,6,11,0.545,0.625,5,7,0.714,3,3,6,5,0,1,2,4,20,17.2,H,1,0,al-eichelberger-1,Al Eichelberger,2021
+17,103,25,2021-03-08,Cleveland State,N,Milwaukee,CTOURN,W 71-65,,16,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,2,0,0,2,2,4,0.5,N,1,0,al-eichelberger-1,Al Eichelberger,2021
+18,104,26,2021-03-09,Cleveland State,N,Oakland,CTOURN,W 80-69,,12,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,2,0,1,0,0,6,6.1,N,1,0,al-eichelberger-1,Al Eichelberger,2021
+19,105,27,2021-03-19,Cleveland State,N,Houston,ROUND-64,L 56-87,,16,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,0,1,0,0,0,2,3,5,0.8,N,0,0,al-eichelberger-1,Al Eichelberger,2021

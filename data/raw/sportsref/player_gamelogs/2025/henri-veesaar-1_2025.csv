@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2024-11-04,Arizona,,Canisius,REG (Non-Conf),W 93-64,,17,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,2,0,2,2,1,1,2,2,8,8.0,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+2,31,2,2024-11-09,Arizona,,Old Dominion,REG (Non-Conf),W 102-44,,20,4,10,0.4,1,3,0.333,3,7,0.429,0.45,1,3,0.333,4,5,9,3,1,0,1,4,10,8.6,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+3,32,3,2024-11-15,Arizona,@,Wisconsin,REG (Non-Conf),L 88-103,,12,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,2,1,3,0,0,0,0,3,2,1.1,A,0,1,henri-veesaar-1,Henri Veesaar,2025
+4,33,4,2024-11-22,Arizona,,Duke,REG (Non-Conf),L 55-69,,13,0,1,0.0,0,1,0.0,0,0,,0.0,2,4,0.5,1,4,5,0,1,1,2,2,2,1.3,H,0,1,henri-veesaar-1,Henri Veesaar,2025
+5,34,5,2024-11-27,Arizona,N,Davidson,REG (Non-Conf),W 104-71,,19,4,5,0.8,0,0,,4,5,0.8,0.8,1,3,0.333,2,4,6,2,1,2,1,2,9,10.9,N,1,1,henri-veesaar-1,Henri Veesaar,2025
+6,35,6,2024-11-28,Arizona,N,Oklahoma,REG (Non-Conf),L 77-82,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,N,0,1,henri-veesaar-1,Henri Veesaar,2025
+7,36,7,2024-11-29,Arizona,N,West Virginia,REG (Non-Conf),L 76-83 (OT),,3,0,0,,0,0,,0,0,,,2,2,1.0,0,0,0,0,0,0,1,1,2,0.6,N,0,1,henri-veesaar-1,Henri Veesaar,2025
+8,37,8,2024-12-07,Arizona,,Southern Utah,REG (Non-Conf),W 102-66,,17,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,4,1.0,2,1,3,1,0,0,0,2,12,11.0,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+9,38,9,2024-12-14,Arizona,N,UCLA,REG (Non-Conf),L 54-57,,27,3,8,0.375,0,4,0.0,3,4,0.75,0.375,3,5,0.6,2,5,7,0,0,0,4,4,9,1.1,N,0,1,henri-veesaar-1,Henri Veesaar,2025
+10,39,10,2024-12-18,Arizona,,Samford,REG (Non-Conf),W 96-64,,14,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,2,3,5,1,1,1,0,2,8,10.3,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+11,40,11,2024-12-21,Arizona,,Central Michigan,REG (Non-Conf),W 94-41,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,4,4,0,0,1,1,2,6,3.8,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+12,41,12,2024-12-30,Arizona,,TCU,REG (Conf),W 90-81,,18,6,7,0.857,1,2,0.5,5,5,1.0,0.929,2,3,0.667,0,6,6,4,0,1,0,4,15,15.8,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+13,42,13,2025-01-04,Arizona,@,Cincinnati,REG (Conf),W 72-67,,26,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,3,5,8,4,2,2,0,3,8,14.3,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+14,43,14,2025-01-07,Arizona,@,West Virginia,REG (Conf),W 75-56,,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,3,4,7,0,2,3,2,2,6,7.6,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+15,44,15,2025-01-11,Arizona,,UCF,REG (Conf),W 88-80,,23,5,8,0.625,2,4,0.5,3,4,0.75,0.75,2,4,0.5,2,3,5,1,0,0,1,3,14,10.4,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+16,45,16,2025-01-14,Arizona,,Baylor,REG (Conf),W 81-70,,19,9,11,0.818,1,1,1.0,8,10,0.8,0.864,0,1,0.0,4,3,7,0,2,2,1,4,19,19.0,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+17,46,17,2025-01-18,Arizona,@,Texas Tech,REG (Conf),L 54-70,,14,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,0,2,2,1,0,2,0,3,0,-2.0,A,0,1,henri-veesaar-1,Henri Veesaar,2025
+18,47,18,2025-01-21,Arizona,@,Oklahoma State,REG (Conf),W 92-78,,12,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,4,0.75,1,2,3,2,0,2,1,4,9,7.8,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+19,48,19,2025-01-25,Arizona,,Colorado,REG (Conf),W 78-63,,20,3,5,0.6,1,1,1.0,2,4,0.5,0.7,2,2,1.0,0,4,4,1,0,2,1,2,9,8.2,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+20,49,20,2025-01-27,Arizona,,Iowa State,REG (Conf),W 86-75 (OT),,16,0,2,0.0,0,2,0.0,0,0,,0.0,3,4,0.75,1,2,3,2,1,1,1,1,3,4.2,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+21,50,21,2025-02-01,Arizona,@,Arizona State,REG (Conf),W 81-72,,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,2,0.5,5,1,6,1,0,2,0,3,11,12.4,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+22,51,22,2025-02-04,Arizona,@,Brigham Young,REG (Conf),W 85-74,,21,8,10,0.8,1,2,0.5,7,8,0.875,0.85,0,0,,2,4,6,0,2,1,2,3,17,15.3,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+23,52,23,2025-02-08,Arizona,,Texas Tech,REG (Conf),W 82-73,,30,6,10,0.6,1,3,0.333,5,7,0.714,0.65,2,2,1.0,4,4,8,2,1,2,1,2,15,16.4,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+24,53,24,2025-02-11,Arizona,@,Kansas State,REG (Conf),L 70-73,,30,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,4,1.0,4,3,7,1,3,1,4,3,12,12.3,A,0,1,henri-veesaar-1,Henri Veesaar,2025
+25,54,25,2025-02-15,Arizona,,Houston,REG (Conf),L 58-62,,25,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,1,2,3,0,0,1,1,4,7,3.3,H,0,1,henri-veesaar-1,Henri Veesaar,2025
+26,55,26,2025-02-17,Arizona,@,Baylor,REG (Conf),W 74-67,*,30,4,6,0.667,1,1,1.0,3,5,0.6,0.75,4,6,0.667,1,4,5,4,2,1,0,2,13,16.2,A,1,1,henri-veesaar-1,Henri Veesaar,2025
+27,56,27,2025-02-22,Arizona,,Brigham Young,REG (Conf),L 95-96,*,23,5,7,0.714,1,1,1.0,4,6,0.667,0.786,1,2,0.5,3,2,5,1,1,1,1,3,12,11.6,H,0,1,henri-veesaar-1,Henri Veesaar,2025
+28,57,28,2025-02-26,Arizona,,Utah,REG (Conf),W 83-66,*,26,3,5,0.6,1,1,1.0,2,4,0.5,0.7,5,7,0.714,4,3,7,2,1,1,1,4,12,13.1,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+29,58,29,2025-03-01,Arizona,@,Iowa State,REG (Conf),L 67-84,*,32,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,4,1.0,2,3,5,0,1,0,2,2,8,5.1,A,0,1,henri-veesaar-1,Henri Veesaar,2025
+30,59,30,2025-03-04,Arizona,,Arizona State,REG (Conf),W 113-100,,23,8,12,0.667,2,5,0.4,6,7,0.857,0.75,4,5,0.8,5,3,8,3,0,4,1,1,22,24.3,H,1,1,henri-veesaar-1,Henri Veesaar,2025
+31,60,31,2025-03-08,Arizona,@,Kansas,REG (Conf),L 76-83,*,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,2,0.5,1,2,3,0,0,2,0,4,5,4.4,A,0,1,henri-veesaar-1,Henri Veesaar,2025
+32,61,32,2025-03-13,Arizona,N,Kansas,CTOURN,W 88-77,,30,7,11,0.636,2,3,0.667,5,8,0.625,0.727,3,3,1.0,3,1,4,2,0,0,2,2,19,15.1,N,1,0,henri-veesaar-1,Henri Veesaar,2025
+33,62,33,2025-03-14,Arizona,N,Texas Tech,CTOURN,W 86-80,,30,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,1,0.0,4,3,7,2,1,0,2,3,10,8.2,N,1,0,henri-veesaar-1,Henri Veesaar,2025
+34,63,34,2025-03-15,Arizona,N,Houston,CTOURN,L 64-72,,33,4,6,0.667,0,0,,4,6,0.667,0.667,0,1,0.0,3,3,6,1,1,2,1,4,8,8.5,N,0,0,henri-veesaar-1,Henri Veesaar,2025
+35,64,35,2025-03-21,Arizona,N,Akron,ROUND-64,W 93-65,,20,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,2,0.0,3,4,7,3,0,1,2,3,8,7.5,N,1,0,henri-veesaar-1,Henri Veesaar,2025
+36,65,36,2025-03-23,Arizona,N,Oregon,ROUND-32,W 87-83,,17,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,4,0.25,1,1,2,1,0,1,0,4,3,-0.5,N,1,0,henri-veesaar-1,Henri Veesaar,2025
+37,66,37,2025-03-27,Arizona,N,Duke,ROUND-16,L 93-100,,28,3,6,0.5,0,0,,3,6,0.5,0.5,7,8,0.875,3,3,6,0,0,1,2,3,13,10.1,N,0,0,henri-veesaar-1,Henri Veesaar,2025

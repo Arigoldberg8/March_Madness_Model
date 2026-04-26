@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2015-11-13,Michigan,,Northern Mich.,REG (Non-Conf),W 70-44,*,27,6,7,0.857,2,3,0.667,4,4,1.0,1.0,1,2,0.5,1,5,6,2,1,0,0,1,15,16.3,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+2,32,2,2015-11-16,Michigan,,Elon,REG (Non-Conf),W 88-68,*,22,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,1,2,3,0,0,0,1,2,7,4.2,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+3,33,3,2015-11-20,Michigan,,Xavier,REG (Non-Conf),L 70-86,*,26,1,6,0.167,1,5,0.2,0,1,0.0,0.25,2,2,1.0,0,6,6,1,1,0,0,2,5,3.9,H,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+4,34,4,2015-11-25,Michigan,N,Connecticut,REG (Non-Conf),L 60-74,*,23,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,4,2,6,1,1,1,1,2,8,6.2,N,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+5,35,5,2015-11-26,Michigan,N,Charlotte,REG (Non-Conf),W 102-47,*,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,0,4,4,0,0,0,0,1,10,8.9,N,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+6,36,6,2015-11-27,Michigan,N,Texas,REG (Non-Conf),W 78-72,*,18,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,2,2,6,1.8,N,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+7,37,7,2015-12-01,Michigan,@,NC State,REG (Non-Conf),W 66-59,*,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,1,3,2,-1.9,A,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+8,38,8,2015-12-05,Michigan,,Houston Baptist,REG (Non-Conf),W 82-57,*,20,5,6,0.833,3,4,0.75,2,2,1.0,1.083,3,4,0.75,0,2,2,0,1,2,2,2,16,13.6,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+9,39,9,2015-12-08,Michigan,@,SMU,REG (Non-Conf),L 58-82,*,18,1,4,0.25,1,4,0.25,0,0,,0.375,2,2,1.0,1,3,4,0,1,0,0,1,5,4.8,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+10,40,10,2015-12-12,Michigan,,Delaware State,REG (Non-Conf),W 80-33,,19,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,1,5,6,3,1,0,2,2,5,2.7,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+11,41,11,2015-12-15,Michigan,,Northern Kentucky,REG (Non-Conf),W 77-62,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+12,42,12,2015-12-19,Michigan,,Youngstown State,REG (Non-Conf),W 105-46,,16,8,11,0.727,2,5,0.4,6,6,1.0,0.818,1,1,1.0,0,2,2,0,0,1,0,1,19,15.4,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+13,43,13,2015-12-23,Michigan,,Bryant,REG (Non-Conf),W 96-60,,15,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,0,0,1,1,0,0,1,10,8.7,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+14,44,14,2015-12-30,Michigan,@,Illinois,REG (Conf),W 78-68,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,2,0,2,1,3,2.9,A,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+15,45,15,2016-01-02,Michigan,,Penn State,REG (Conf),W 79-56,,14,5,5,1.0,3,3,1.0,2,2,1.0,1.3,0,0,,0,2,2,0,0,0,0,3,13,10.9,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+16,46,16,2016-01-07,Michigan,@,Purdue,REG (Conf),L 70-87,,12,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,0,1,0,1,0,0,0,6,5.0,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+17,47,17,2016-01-12,Michigan,,Maryland,REG (Conf),W 70-67,,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,0,2,0,1,0,0,0,4,4.4,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+18,48,18,2016-01-17,Michigan,@,Iowa,REG (Conf),L 71-82,,18,4,6,0.667,3,5,0.6,1,1,1.0,0.917,1,2,0.5,0,2,2,1,1,1,1,1,12,10.6,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+19,49,19,2016-01-20,Michigan,,Minnesota,REG (Conf),W 74-69,,15,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,2,3,0,0,0,0,2,7,3.8,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+20,50,20,2016-01-23,Michigan,@,Nebraska,REG (Conf),W 81-68,,19,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,1,2,1,0,0,0,1,5,4.3,A,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+21,51,21,2016-01-27,Michigan,,Rutgers,REG (Conf),W 68-57,,19,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,1,0,1,1,0,0,0,2,11,9.0,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+22,52,22,2016-01-30,Michigan,N,Penn State,REG (Conf),W 79-72,,19,2,5,0.4,2,4,0.5,0,1,0.0,0.6,1,2,0.5,1,1,2,1,2,0,1,2,7,5.8,N,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+23,53,23,2016-02-02,Michigan,,Indiana,REG (Conf),L 67-80,,19,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,3,3,0,0,0,0,1,5,1.4,H,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+24,54,24,2016-02-06,Michigan,,Michigan State,REG (Conf),L 73-89,,17,3,5,0.6,2,4,0.5,1,1,1.0,0.8,6,8,0.75,0,1,1,3,1,0,1,0,14,13.3,H,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+25,55,25,2016-02-10,Michigan,@,Minnesota,REG (Conf),W 82-74,,19,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,3,3,1,0,0,0,2,8,6.5,A,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+26,56,26,2016-02-13,Michigan,,Purdue,REG (Conf),W 61-56,,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,3,4,0,0,0,1,1,4,1.8,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+27,57,27,2016-02-16,Michigan,@,Ohio State,REG (Conf),L 66-76,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,3,2,5,0,0,0,1,4,3,0.0,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+28,58,28,2016-02-21,Michigan,@,Maryland,REG (Conf),L 82-86,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+29,59,29,2016-02-24,Michigan,,Northwestern,REG (Conf),W 72-63,,19,4,7,0.571,3,3,1.0,1,4,0.25,0.786,0,2,0.0,0,7,7,0,0,0,0,0,11,9.0,H,1,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+30,60,30,2016-02-28,Michigan,@,Wisconsin,REG (Conf),L 57-68,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,1,1,3,0.6,A,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+31,61,31,2016-03-05,Michigan,,Iowa,REG (Conf),L 61-71,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,1,1,2,-1.1,H,0,1,aubrey-dawkins-1,Aubrey Dawkins,2016
+32,62,32,2016-03-10,Michigan,N,Northwestern,CTOURN,W 72-70 (OT),,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,0,1,1,0,0,1,1,2,0.3,N,1,0,aubrey-dawkins-1,Aubrey Dawkins,2016
+33,63,33,2016-03-11,Michigan,N,Indiana,CTOURN,W 72-69,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,1,0,0,1,0,-0.1,N,1,0,aubrey-dawkins-1,Aubrey Dawkins,2016
+34,64,34,2016-03-12,Michigan,N,Purdue,CTOURN,L 59-76,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,0,0,0,1,0,2,0.0,N,0,0,aubrey-dawkins-1,Aubrey Dawkins,2016
+35,65,35,2016-03-16,Michigan,N,Tulsa,FIRST-FOUR,W 67-62,,13,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,3,4,0,0,0,0,1,0,-0.2,N,1,0,aubrey-dawkins-1,Aubrey Dawkins,2016
+36,66,36,2016-03-18,Michigan,N,Notre Dame,ROUND-64,L 63-70,,7,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,0,0,0,0,0,1,0,5,2.7,N,0,0,aubrey-dawkins-1,Aubrey Dawkins,2016

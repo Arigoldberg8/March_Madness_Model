@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,74,1,2011-11-12,South Florida,,Vermont,REG (Non-Conf),W 61-59,*,38,6,16,0.375,0,0,,6,16,0.375,0.375,0,1,0.0,2,5,7,1,0,1,0,4,12,5.5,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+2,75,2,2011-11-14,South Florida,,Marist,REG (Non-Conf),W 81-67,*,34,5,12,0.417,0,1,0.0,5,11,0.455,0.417,1,2,0.5,4,8,12,1,0,4,1,2,11,11.1,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+3,76,3,2011-11-16,South Florida,,Fla. Southern,REG (Non-Conf),W 73-43,*,29,5,11,0.455,1,2,0.5,4,9,0.444,0.5,4,7,0.571,5,4,9,1,0,6,2,1,15,15.3,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+4,77,4,2011-11-19,South Florida,N,Old Dominion,REG (Non-Conf),L 66-68 (OT),*,39,4,7,0.571,1,2,0.5,3,5,0.6,0.643,9,10,0.9,2,2,4,0,3,2,4,2,18,15.9,N,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+5,78,5,2011-11-20,South Florida,N,Penn State,REG (Non-Conf),L 49-53,*,13,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,3,0.667,1,1,2,0,0,0,0,1,2,-0.6,N,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+6,79,9,2011-12-03,South Florida,@,Kansas,REG (Non-Conf),L 42-70,,26,5,11,0.455,0,1,0.0,5,10,0.5,0.455,1,2,0.5,1,2,3,0,1,0,6,3,11,0.0,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+7,80,10,2011-12-11,South Florida,,Florida A&M,REG (Non-Conf),W 83-59,*,22,3,11,0.273,0,0,,3,11,0.273,0.273,3,6,0.5,2,2,4,2,0,1,0,4,9,3.8,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+8,81,11,2011-12-14,South Florida,@,Auburn,REG (Non-Conf),L 40-52,*,37,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,1,0.0,2,3,5,0,0,0,2,1,10,4.5,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+9,82,12,2011-12-19,South Florida,,Cleveland State,REG (Non-Conf),W 70-55,*,30,3,12,0.25,1,2,0.5,2,10,0.2,0.292,5,6,0.833,2,6,8,1,0,3,0,0,12,10.4,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+10,83,13,2011-12-22,South Florida,@,Southern Mississippi,REG (Non-Conf),L 51-53,*,29,3,13,0.231,0,1,0.0,3,12,0.25,0.231,5,6,0.833,3,4,7,0,0,2,1,1,11,6.0,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+11,84,14,2011-12-28,South Florida,,Connecticut,REG (Conf),L 57-60,*,29,5,14,0.357,0,1,0.0,5,13,0.385,0.357,2,3,0.667,4,1,5,1,0,0,1,3,12,5.4,H,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+12,85,15,2012-01-01,South Florida,,Rutgers,REG (Conf),W 67-65,*,34,3,9,0.333,0,1,0.0,3,8,0.375,0.333,4,4,1.0,3,6,9,1,0,2,1,0,10,9.9,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+13,86,16,2012-01-05,South Florida,@,Villanova,REG (Conf),W 74-57,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,2,1,3,0,1,1,1,4,8,5.8,A,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+14,87,17,2012-01-10,South Florida,@,Notre Dame,REG (Conf),L 49-60,*,31,6,10,0.6,1,1,1.0,5,9,0.556,0.65,0,0,,1,4,5,0,0,0,3,3,13,6.1,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+15,88,18,2012-01-13,South Florida,,Seton Hall,REG (Conf),W 56-55,*,29,3,11,0.273,0,1,0.0,3,10,0.3,0.273,2,2,1.0,2,5,7,1,0,1,3,1,8,2.4,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+16,89,19,2012-01-18,South Florida,,St. John's (NY),REG (Conf),W 64-49,*,21,0,4,0.0,0,0,,0,4,0.0,0.0,4,4,1.0,0,1,1,1,0,0,1,5,4,-0.8,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+17,90,20,2012-01-22,South Florida,@,DePaul,REG (Conf),W 75-59,*,32,7,8,0.875,0,0,,7,8,0.875,0.875,8,10,0.8,2,3,5,0,1,0,0,1,22,21.3,A,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+18,91,21,2012-01-24,South Florida,@,Marquette,REG (Conf),L 47-67,*,23,2,6,0.333,0,0,,2,6,0.333,0.333,1,3,0.333,0,2,2,2,0,1,5,4,5,-3.1,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+19,92,22,2012-01-29,South Florida,,Providence,REG (Conf),W 81-78,*,22,3,7,0.429,0,0,,3,7,0.429,0.429,5,7,0.714,3,0,3,0,1,3,0,1,11,11.3,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+20,93,23,2012-02-04,South Florida,@,Georgetown,REG (Conf),L 45-75,*,29,5,11,0.455,1,2,0.5,4,9,0.444,0.5,4,8,0.5,2,1,3,0,0,1,1,5,15,7.1,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+21,94,24,2012-02-08,South Florida,,Pittsburgh,REG (Conf),W 63-51,*,28,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,0,3,3,1,3,0,3,2,10,7.9,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+22,95,25,2012-02-11,South Florida,@,Providence,REG (Conf),W 55-48,*,34,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,2,1,3,0,0,1,2,2,8,3.2,A,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+23,96,26,2012-02-15,South Florida,,Villanova,REG (Conf),W 65-51,*,24,3,9,0.333,1,1,1.0,2,8,0.25,0.389,0,0,,2,1,3,0,1,2,0,4,7,4.4,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+24,97,27,2012-02-19,South Florida,@,Pittsburgh,REG (Conf),W 56-47,*,24,3,8,0.375,0,0,,3,8,0.375,0.375,2,4,0.5,1,2,3,0,1,0,3,4,8,0.5,A,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+25,98,28,2012-02-22,South Florida,@,Syracuse,REG (Conf),L 48-56,*,27,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,3,5,8,0,1,0,2,4,6,3.3,A,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+26,99,29,2012-02-26,South Florida,,Cincinnati,REG (Conf),W 46-45,*,23,1,6,0.167,0,0,,1,6,0.167,0.167,0,2,0.0,1,2,3,0,0,0,0,0,2,-1.3,H,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+27,100,30,2012-02-29,South Florida,@,Louisville,REG (Conf),W 58-51,*,24,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,1,2,3,0,0,0,3,3,8,0.4,A,1,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+28,101,31,2012-03-03,South Florida,,West Virginia,REG (Conf),L 44-50,*,31,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,4,1.0,1,4,5,1,0,4,3,2,8,6.9,H,0,1,augustus-gilchrist-1,Augustus Gilchrist,2012
+29,102,32,2012-03-07,South Florida,N,Villanova,CTOURN,W 56-47,*,28,1,5,0.2,0,0,,1,5,0.2,0.2,1,3,0.333,2,4,6,0,0,1,2,4,3,-1.2,N,1,0,augustus-gilchrist-1,Augustus Gilchrist,2012
+30,103,33,2012-03-08,South Florida,N,Notre Dame,CTOURN,L 53-57 (OT),*,35,3,11,0.273,1,1,1.0,2,10,0.2,0.318,1,2,0.5,2,5,7,0,0,2,1,2,8,3.6,N,0,0,augustus-gilchrist-1,Augustus Gilchrist,2012
+31,104,34,2012-03-14,South Florida,N,California,FIRST-FOUR,W 65-54,*,34,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,3,0.333,0,4,4,1,0,1,3,0,11,6.2,N,1,0,augustus-gilchrist-1,Augustus Gilchrist,2012
+32,105,35,2012-03-16,South Florida,N,Temple,ROUND-64,W 58-44,*,20,0,6,0.0,0,1,0.0,0,5,0.0,0.0,2,2,1.0,3,5,8,0,0,0,1,2,2,-0.4,N,1,0,augustus-gilchrist-1,Augustus Gilchrist,2012
+33,106,36,2012-03-18,South Florida,N,Ohio,ROUND-32,L 56-62,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,4,4,1.0,2,3,5,0,1,0,1,2,12,10.9,N,0,0,augustus-gilchrist-1,Augustus Gilchrist,2012

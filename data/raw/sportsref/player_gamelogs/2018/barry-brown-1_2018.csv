@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2017-11-10,Kansas State,,American,REG (Non-Conf),W 83-45,*,23,3,9,0.333,2,4,0.5,1,5,0.2,0.444,2,2,1.0,0,3,3,2,1,0,1,1,10,6.8,H,1,1,barry-brown-1,Barry Brown,2018
+2,70,2,2017-11-14,Kansas State,,Kansas City,REG (Non-Conf),W 72-51,*,27,4,10,0.4,1,4,0.25,3,6,0.5,0.45,5,6,0.833,0,4,4,4,1,1,1,0,14,12.9,H,1,1,barry-brown-1,Barry Brown,2018
+3,71,3,2017-11-17,Kansas State,,UC Irvine,REG (Non-Conf),W 71-49,*,28,2,11,0.182,1,2,0.5,1,9,0.111,0.227,0,0,,0,4,4,4,3,0,2,2,5,2.3,H,1,1,barry-brown-1,Barry Brown,2018
+4,72,4,2017-11-20,Kansas State,,Northern Arizona,REG (Non-Conf),W 80-58,*,28,9,13,0.692,0,1,0.0,9,12,0.75,0.692,2,2,1.0,0,2,2,4,6,0,2,1,20,21.5,H,1,1,barry-brown-1,Barry Brown,2018
+5,73,5,2017-11-23,Kansas State,N,Arizona State,REG (Non-Conf),L 90-92,*,38,10,19,0.526,4,9,0.444,6,10,0.6,0.632,3,4,0.75,2,2,4,0,1,0,2,4,27,16.7,N,0,1,barry-brown-1,Barry Brown,2018
+6,74,6,2017-11-24,Kansas State,N,George Washington,REG (Non-Conf),W 67-59,*,32,5,11,0.455,0,2,0.0,5,9,0.556,0.455,5,6,0.833,1,1,2,3,1,0,1,1,15,11.6,N,1,1,barry-brown-1,Barry Brown,2018
+7,75,7,2017-11-29,Kansas State,,Oral Roberts,REG (Non-Conf),W 77-68,*,34,4,9,0.444,0,4,0.0,4,5,0.8,0.444,1,2,0.5,0,0,0,5,1,1,3,1,9,5.7,H,1,1,barry-brown-1,Barry Brown,2018
+8,76,8,2017-12-03,Kansas State,@,Vanderbilt,REG (Non-Conf),W 84-79,*,35,6,12,0.5,1,1,1.0,5,11,0.455,0.542,5,5,1.0,0,2,2,0,2,0,2,4,18,11.0,A,1,1,barry-brown-1,Barry Brown,2018
+9,77,9,2017-12-05,Kansas State,,USC Upstate,REG (Non-Conf),W 86-49,*,23,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,2,1.0,1,4,5,4,2,0,3,3,15,12.5,H,1,1,barry-brown-1,Barry Brown,2018
+10,78,10,2017-12-09,Kansas State,N,Tulsa,REG (Non-Conf),L 54-61,*,38,4,13,0.308,0,7,0.0,4,6,0.667,0.308,2,3,0.667,1,2,3,1,1,0,3,5,10,0.1,N,0,1,barry-brown-1,Barry Brown,2018
+11,79,11,2017-12-16,Kansas State,,Southeast Missouri State,REG (Non-Conf),W 89-71,*,37,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,1,3,4,7,3,1,2,0,7,9.4,H,1,1,barry-brown-1,Barry Brown,2018
+12,80,12,2017-12-20,Kansas State,@,Washington State,REG (Non-Conf),W 68-65,*,34,8,17,0.471,1,5,0.2,7,12,0.583,0.5,6,6,1.0,1,5,6,1,0,0,1,2,23,15.4,A,1,1,barry-brown-1,Barry Brown,2018
+13,81,13,2017-12-29,Kansas State,@,Iowa State,REG (Conf),W 91-75,*,38,7,14,0.5,1,4,0.25,6,10,0.6,0.536,6,9,0.667,2,0,2,4,2,0,4,2,21,14.2,A,1,1,barry-brown-1,Barry Brown,2018
+14,82,14,2018-01-01,Kansas State,,West Virginia,REG (Conf),L 69-77,*,35,5,13,0.385,2,6,0.333,3,7,0.429,0.462,2,4,0.5,0,0,0,2,3,0,7,2,14,2.7,H,0,1,barry-brown-1,Barry Brown,2018
+15,83,15,2018-01-06,Kansas State,@,Texas Tech,REG (Conf),L 58-74,*,39,6,12,0.5,2,5,0.4,4,7,0.571,0.583,10,13,0.769,0,0,0,1,1,0,3,3,24,14.3,A,0,1,barry-brown-1,Barry Brown,2018
+16,84,16,2018-01-10,Kansas State,,Oklahoma State,REG (Conf),W 86-82,*,36,12,17,0.706,3,4,0.75,9,13,0.692,0.794,11,16,0.688,0,2,2,2,6,0,1,2,38,35.1,H,1,1,barry-brown-1,Barry Brown,2018
+17,85,17,2018-01-13,Kansas State,@,Kansas,REG (Conf),L 72-73,*,39,5,14,0.357,1,4,0.25,4,10,0.4,0.393,1,1,1.0,1,4,5,6,1,0,3,1,12,7.9,A,0,1,barry-brown-1,Barry Brown,2018
+18,86,18,2018-01-16,Kansas State,,Oklahoma,REG (Conf),W 87-69,*,36,10,17,0.588,0,2,0.0,10,15,0.667,0.588,4,4,1.0,0,2,2,5,3,0,1,2,24,21.4,H,1,1,barry-brown-1,Barry Brown,2018
+19,87,19,2018-01-20,Kansas State,,TCU,REG (Conf),W 73-68,*,40,5,11,0.455,2,4,0.5,3,7,0.429,0.545,3,4,0.75,0,0,0,9,2,0,4,1,15,12.8,H,1,1,barry-brown-1,Barry Brown,2018
+20,88,20,2018-01-22,Kansas State,@,Baylor,REG (Conf),W 90-83,*,40,9,16,0.563,4,8,0.5,5,8,0.625,0.688,12,12,1.0,1,4,5,5,2,0,2,4,34,30.2,A,1,1,barry-brown-1,Barry Brown,2018
+21,89,21,2018-01-27,Kansas State,,Georgia,REG (Non-Conf),W 56-51,*,40,2,9,0.222,0,1,0.0,2,8,0.25,0.222,5,6,0.833,0,5,5,2,1,0,2,3,9,3.8,H,1,1,barry-brown-1,Barry Brown,2018
+22,90,22,2018-01-29,Kansas State,,Kansas,REG (Conf),L 56-70,*,38,4,16,0.25,0,4,0.0,4,12,0.333,0.25,1,1,1.0,2,2,4,5,3,0,4,3,9,2.7,H,0,1,barry-brown-1,Barry Brown,2018
+23,91,23,2018-02-03,Kansas State,@,West Virginia,REG (Conf),L 51-89,*,31,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,2,4,6,3,0,0,6,3,1,-4.0,A,0,1,barry-brown-1,Barry Brown,2018
+24,92,24,2018-02-07,Kansas State,@,Texas,REG (Conf),W 67-64,*,40,5,10,0.5,1,2,0.5,4,8,0.5,0.55,0,1,0.0,0,6,6,6,1,0,3,2,11,8.8,A,1,1,barry-brown-1,Barry Brown,2018
+25,93,25,2018-02-10,Kansas State,,Texas Tech,REG (Conf),L 47-66,*,36,2,11,0.182,0,3,0.0,2,8,0.25,0.182,3,5,0.6,0,2,2,2,2,0,1,3,7,1.1,H,0,1,barry-brown-1,Barry Brown,2018
+26,94,26,2018-02-14,Kansas State,@,Oklahoma State,REG (Conf),W 82-72,*,37,6,12,0.5,1,3,0.333,5,9,0.556,0.542,12,14,0.857,1,2,3,3,1,0,1,1,25,21.2,A,1,1,barry-brown-1,Barry Brown,2018
+27,95,27,2018-02-17,Kansas State,,Iowa State,REG (Conf),W 78-66,*,38,8,14,0.571,2,4,0.5,6,10,0.6,0.643,2,3,0.667,0,2,2,3,2,0,1,0,20,16.7,H,1,1,barry-brown-1,Barry Brown,2018
+28,96,28,2018-02-21,Kansas State,,Texas,REG (Conf),W 58-48,*,37,5,10,0.5,1,1,1.0,4,9,0.444,0.55,5,7,0.714,1,3,4,1,0,0,4,1,16,8.1,H,1,1,barry-brown-1,Barry Brown,2018
+29,97,29,2018-02-24,Kansas State,@,Oklahoma,REG (Conf),L 77-86,*,38,12,22,0.545,2,7,0.286,10,15,0.667,0.591,2,4,0.5,0,3,3,1,2,0,1,4,28,17.6,A,0,1,barry-brown-1,Barry Brown,2018
+30,98,30,2018-02-27,Kansas State,@,TCU,REG (Conf),L 59-66,*,33,7,10,0.7,2,2,1.0,5,8,0.625,0.8,1,2,0.5,2,1,3,6,2,0,5,5,17,13.3,A,0,1,barry-brown-1,Barry Brown,2018
+31,99,31,2018-03-03,Kansas State,,Baylor,REG (Conf),W 77-67,*,39,6,9,0.667,2,4,0.5,4,5,0.8,0.778,4,7,0.571,0,4,4,9,3,0,3,3,18,19.2,H,1,1,barry-brown-1,Barry Brown,2018
+32,100,32,2018-03-08,Kansas State,N,TCU,CTOURN,W 66-64 (OT),*,44,4,11,0.364,0,1,0.0,4,10,0.4,0.364,3,5,0.6,0,5,5,2,1,0,3,2,11,4.2,N,1,0,barry-brown-1,Barry Brown,2018
+33,101,33,2018-03-09,Kansas State,N,Kansas,CTOURN,L 67-83,*,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,0,0,barry-brown-1,Barry Brown,2018
+34,102,34,2018-03-16,Kansas State,N,Creighton,ROUND-64,W 69-59,*,38,5,14,0.357,1,2,0.5,4,12,0.333,0.393,7,10,0.7,2,4,6,3,2,2,3,1,18,13.7,N,1,0,barry-brown-1,Barry Brown,2018
+35,103,35,2018-03-18,Kansas State,N,UMBC,ROUND-32,W 50-43,*,38,5,13,0.385,0,1,0.0,5,12,0.417,0.385,8,8,1.0,0,2,2,0,2,0,6,4,18,5.9,N,1,0,barry-brown-1,Barry Brown,2018
+36,104,36,2018-03-22,Kansas State,N,Kentucky,ROUND-16,W 61-58,*,39,4,15,0.267,1,4,0.25,3,11,0.273,0.3,4,5,0.8,0,3,3,3,0,0,2,2,13,3.9,N,1,0,barry-brown-1,Barry Brown,2018
+37,105,37,2018-03-24,Kansas State,N,Loyola Chicago,ROUND-8,L 62-78,*,38,6,16,0.375,0,4,0.0,6,12,0.5,0.375,2,3,0.667,1,2,3,2,3,0,2,3,14,7.3,N,0,0,barry-brown-1,Barry Brown,2018

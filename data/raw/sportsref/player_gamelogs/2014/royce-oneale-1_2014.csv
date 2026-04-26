@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2013-11-08,Baylor,N,Colorado,REG (Non-Conf),W 72-60,,27,3,3,1.0,0,0,,3,3,1.0,1.0,1,1,1.0,1,1,2,2,0,0,0,2,7,7.7,N,1,1,royce-oneale-1,Royce O'Neale,2014
+2,65,2,2013-11-12,Baylor,,South Carolina,REG (Non-Conf),W 66-64,,31,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,9,0.333,1,5,6,4,2,2,4,2,5,3.8,H,1,1,royce-oneale-1,Royce O'Neale,2014
+3,66,3,2013-11-17,Baylor,,Louisiana–Lafayette,REG (Non-Conf),W 87-68,,26,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,5,5,6,0,1,2,2,4,7.3,H,1,1,royce-oneale-1,Royce O'Neale,2014
+4,67,4,2013-11-20,Baylor,,Charleston Southern,REG (Non-Conf),W 69-64,,26,1,2,0.5,1,1,1.0,0,1,0.0,0.75,3,5,0.6,0,1,1,2,0,0,0,0,6,5.9,H,1,1,royce-oneale-1,Royce O'Neale,2014
+5,68,5,2013-11-25,Baylor,@,Chaminade,REG (Non-Conf),W 93-77,,26,4,6,0.667,2,3,0.667,2,3,0.667,0.833,2,2,1.0,0,3,3,3,2,0,4,2,12,9.6,A,1,1,royce-oneale-1,Royce O'Neale,2014
+6,69,6,2013-11-26,Baylor,N,Dayton,REG (Non-Conf),W 67-66,,33,4,6,0.667,1,1,1.0,3,5,0.6,0.75,4,4,1.0,1,1,2,2,3,0,0,3,13,14.6,N,1,1,royce-oneale-1,Royce O'Neale,2014
+7,70,7,2013-11-27,Baylor,N,Syracuse,REG (Non-Conf),L 67-74,,23,3,3,1.0,3,3,1.0,0,0,,1.5,1,4,0.25,1,2,3,3,0,0,5,3,10,5.1,N,0,1,royce-oneale-1,Royce O'Neale,2014
+8,71,8,2013-12-01,Baylor,,Hardin-Simmons,REG (Non-Conf),W 104-59,*,20,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,2,4,6,5,1,0,1,1,5,10.1,H,1,1,royce-oneale-1,Royce O'Neale,2014
+9,72,9,2013-12-06,Baylor,N,Kentucky,REG (Non-Conf),W 67-62,*,31,2,3,0.667,0,0,,2,3,0.667,0.667,2,4,0.5,2,3,5,1,0,0,2,4,6,3.3,N,1,1,royce-oneale-1,Royce O'Neale,2014
+10,73,10,2013-12-18,Baylor,,Northwestern State,REG (Non-Conf),W 91-84 (OT),*,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,6,0.5,4,4,8,2,1,0,3,3,5,3.6,H,1,1,royce-oneale-1,Royce O'Neale,2014
+11,74,11,2013-12-22,Baylor,,Southern,REG (Non-Conf),W 81-56,*,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,1,3,4,1,0,0,1,2,5,4.1,H,1,1,royce-oneale-1,Royce O'Neale,2014
+12,75,12,2013-12-30,Baylor,,Oral Roberts,REG (Non-Conf),W 81-55,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,4,2,0,0,2,2,5.7,H,1,1,royce-oneale-1,Royce O'Neale,2014
+13,76,13,2014-01-03,Baylor,,Savannah State,REG (Non-Conf),W 80-50,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,2,1,3,3,1,0,0,3,2,4.2,H,1,1,royce-oneale-1,Royce O'Neale,2014
+14,77,14,2014-01-07,Baylor,@,Iowa State,REG (Conf),L 72-87,*,24,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,0,1,2,1,0,0,2,5,4.6,A,0,1,royce-oneale-1,Royce O'Neale,2014
+15,78,15,2014-01-11,Baylor,,TCU,REG (Conf),W 88-62,*,25,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,3,4,4,0,0,2,1,4,3.3,H,1,1,royce-oneale-1,Royce O'Neale,2014
+16,79,16,2014-01-15,Baylor,@,Texas Tech,REG (Conf),L 72-82,*,30,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,2,0.0,3,3,6,1,2,1,0,4,6,6.3,A,0,1,royce-oneale-1,Royce O'Neale,2014
+17,80,17,2014-01-18,Baylor,,Oklahoma,REG (Conf),L 64-66,*,22,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,4,0.25,2,1,3,3,0,1,1,2,7,6.2,H,0,1,royce-oneale-1,Royce O'Neale,2014
+18,81,18,2014-01-20,Baylor,@,Kansas,REG (Conf),L 68-78,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,2,0.5,4,1,5,3,2,0,3,4,8,6.5,A,0,1,royce-oneale-1,Royce O'Neale,2014
+19,82,19,2014-01-25,Baylor,,Texas,REG (Conf),L 60-74,*,14,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,3,3,1,0,0,2,1,3,1.1,H,0,1,royce-oneale-1,Royce O'Neale,2014
+20,83,20,2014-01-28,Baylor,,West Virginia,REG (Conf),L 64-66,*,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,1,1,0,0,0,3,2,2,-2.5,H,0,1,royce-oneale-1,Royce O'Neale,2014
+21,84,21,2014-02-01,Baylor,@,Oklahoma State,REG (Conf),W 76-70,*,31,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,1,0.0,2,3,5,3,1,0,4,3,6,3.5,A,1,1,royce-oneale-1,Royce O'Neale,2014
+22,85,22,2014-02-04,Baylor,,Kansas,REG (Conf),L 52-69,*,25,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,2,2,4,3,1,1,1,3,3,2.8,H,0,1,royce-oneale-1,Royce O'Neale,2014
+23,86,23,2014-02-08,Baylor,@,Oklahoma,REG (Conf),L 72-88,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,4,5,5,0,0,1,3,6,7.2,A,0,1,royce-oneale-1,Royce O'Neale,2014
+24,87,24,2014-02-12,Baylor,@,TCU,REG (Conf),W 91-58,*,30,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,3,5,8,4,2,0,2,1,10,12.0,A,1,1,royce-oneale-1,Royce O'Neale,2014
+25,88,25,2014-02-15,Baylor,,Kansas State,REG (Conf),W 87-73 (2OT),*,38,1,2,0.5,1,2,0.5,0,0,,0.75,3,4,0.75,3,5,8,2,0,0,1,3,6,7.4,H,1,1,royce-oneale-1,Royce O'Neale,2014
+26,89,26,2014-02-17,Baylor,,Oklahoma State,REG (Conf),W 70-64 (OT),*,29,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,4,3,7,2,0,0,4,4,8,2.7,H,1,1,royce-oneale-1,Royce O'Neale,2014
+27,90,27,2014-02-22,Baylor,@,West Virginia,REG (Conf),W 88-75,*,29,8,8,1.0,4,4,1.0,4,4,1.0,1.25,2,2,1.0,3,3,6,6,1,0,0,4,22,26.2,A,1,1,royce-oneale-1,Royce O'Neale,2014
+28,91,28,2014-02-26,Baylor,@,Texas,REG (Conf),L 69-74,*,36,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,2,0.0,2,3,5,2,1,0,2,2,9,6.1,A,0,1,royce-oneale-1,Royce O'Neale,2014
+29,92,29,2014-03-01,Baylor,,Texas Tech,REG (Conf),W 59-49,*,35,7,12,0.583,2,5,0.4,5,7,0.714,0.667,0,1,0.0,5,7,12,1,0,0,0,1,16,15.9,H,1,1,royce-oneale-1,Royce O'Neale,2014
+30,93,30,2014-03-04,Baylor,,Iowa State,REG (Conf),W 74-61,*,28,1,6,0.167,0,3,0.0,1,3,0.333,0.167,1,2,0.5,2,9,11,2,3,0,1,3,3,5.1,H,1,1,royce-oneale-1,Royce O'Neale,2014
+31,94,31,2014-03-08,Baylor,@,Kansas State,REG (Conf),W 76-74,*,31,0,1,0.0,0,0,,0,1,0.0,0.0,4,4,1.0,2,2,4,3,0,0,2,2,4,4.6,A,1,1,royce-oneale-1,Royce O'Neale,2014
+32,95,32,2014-03-12,Baylor,N,TCU,CTOURN,W 76-68,*,34,6,7,0.857,1,2,0.5,5,5,1.0,0.929,1,1,1.0,4,8,12,5,1,0,1,2,14,19.4,N,1,0,royce-oneale-1,Royce O'Neale,2014
+33,96,33,2014-03-13,Baylor,N,Oklahoma,CTOURN,W 78-73,*,30,3,5,0.6,1,1,1.0,2,4,0.5,0.7,5,8,0.625,3,7,10,2,0,0,3,2,12,10.3,N,1,0,royce-oneale-1,Royce O'Neale,2014
+34,97,34,2014-03-14,Baylor,N,Texas,CTOURN,W 86-69,*,29,1,4,0.25,1,1,1.0,0,3,0.0,0.375,5,6,0.833,5,5,10,2,2,0,0,1,8,13.2,N,1,0,royce-oneale-1,Royce O'Neale,2014
+35,98,35,2014-03-15,Baylor,N,Iowa State,CTOURN,L 65-74,*,31,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,2,4,6,0,1,0,3,4,10,5.7,N,0,0,royce-oneale-1,Royce O'Neale,2014
+36,99,36,2014-03-21,Baylor,N,Nebraska,ROUND-64,W 74-60,*,35,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,8,10,4,1,0,1,1,3,6.4,N,1,0,royce-oneale-1,Royce O'Neale,2014
+37,100,37,2014-03-23,Baylor,N,Creighton,ROUND-32,W 85-55,*,29,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,0,5,5,8,2,0,2,1,10,15.1,N,1,0,royce-oneale-1,Royce O'Neale,2014
+38,101,38,2014-03-27,Baylor,N,Wisconsin,ROUND-16,L 52-69,*,29,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,2,0.5,2,3,5,4,1,1,2,3,3,2.4,N,0,0,royce-oneale-1,Royce O'Neale,2014

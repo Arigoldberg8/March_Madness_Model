@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2023-11-08,Drake,,Lipscomb,REG (Non-Conf),W 85-70,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,2,4,1,0,0,1,1,2,0.9,H,1,1,colby-garland-1,Colby Garland,2024
+2,2,2,2023-11-14,Drake,,SW Minn. St.,REG (Non-Conf),W 87-67,,25,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,3,4,3,0,0,1,0,4,4.0,H,1,1,colby-garland-1,Colby Garland,2024
+3,3,3,2023-11-19,Drake,N,Oakland,REG (Non-Conf),W 85-77,,17,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,0,2,2,4,0,0,0,1,8,7.3,N,1,1,colby-garland-1,Colby Garland,2024
+4,4,4,2023-11-20,Drake,N,Stephen F. Austin,REG (Non-Conf),L 68-92,,20,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,4,0.75,0,1,1,0,0,0,2,0,5,-0.9,N,0,1,colby-garland-1,Colby Garland,2024
+5,5,5,2023-11-21,Drake,N,Akron,REG (Non-Conf),W 79-59,,16,1,1,1.0,0,0,,1,1,1.0,1.0,3,4,0.75,0,1,1,5,0,0,0,0,5,8.1,N,1,1,colby-garland-1,Colby Garland,2024
+6,6,6,2023-11-25,Drake,,Texas Southern,REG (Non-Conf),W 77-71,,23,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,2,3,4,2,0,1,0,8,10.5,H,1,1,colby-garland-1,Colby Garland,2024
+7,7,7,2023-11-29,Drake,@,Valparaiso,REG (Conf),W 83-65,,23,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,4,0.75,1,3,4,2,1,0,0,4,3,3.6,A,1,1,colby-garland-1,Colby Garland,2024
+8,8,8,2023-12-02,Drake,,Missouri State,REG (Conf),W 74-57,,18,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,3,3,0,1,0,0,1,2,-0.3,H,1,1,colby-garland-1,Colby Garland,2024
+9,9,9,2023-12-06,Drake,,Saint Louis,REG (Non-Conf),W 75-69,,17,0,0,,0,0,,0,0,,,1,2,0.5,1,0,1,3,1,0,2,2,1,1.6,H,1,1,colby-garland-1,Colby Garland,2024
+10,10,10,2023-12-09,Drake,N,Nevada,REG (Non-Conf),W 72-53,,17,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,1,1.0,0,6,6,4,3,0,2,3,8,10.1,N,1,1,colby-garland-1,Colby Garland,2024
+11,11,11,2023-12-14,Drake,,Grambling State,REG (Non-Conf),W 68-56,,15,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,2,1,0,2,2,3,1.2,H,1,1,colby-garland-1,Colby Garland,2024
+12,12,12,2023-12-19,Drake,,Alcorn State,REG (Non-Conf),W 92-55,*,30,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,2,3,5,4,0,0,2,1,7,6.3,H,1,1,colby-garland-1,Colby Garland,2024
+13,13,13,2023-12-22,Drake,@,UAB,REG (Non-Conf),L 78-79 (OT),*,39,4,8,0.5,0,3,0.0,4,5,0.8,0.5,2,2,1.0,0,2,2,3,1,0,2,5,10,5.7,A,0,1,colby-garland-1,Colby Garland,2024
+14,14,14,2024-01-02,Drake,,Illinois State,REG (Conf),W 88-71,,24,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,2,3,2,0,0,1,1,9,7.7,H,1,1,colby-garland-1,Colby Garland,2024
+15,15,15,2024-01-07,Drake,@,Belmont,REG (Conf),L 65-87,,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,2,1.0,0,2,2,3,1,0,0,2,8,9.3,A,0,1,colby-garland-1,Colby Garland,2024
+16,16,16,2024-01-10,Drake,,Indiana State,REG (Conf),W 89-78,,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,1,0,0,4,2,0.0,H,1,1,colby-garland-1,Colby Garland,2024
+17,17,17,2024-01-13,Drake,@,Southern Illinois,REG (Conf),W 76-58,,21,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,2,4,2,3,0,1,3,6,7.9,A,1,1,colby-garland-1,Colby Garland,2024
+18,18,18,2024-01-17,Drake,@,Illinois State,REG (Conf),W 77-56,,21,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,0,,0,3,3,3,0,0,1,3,9,8.6,A,1,1,colby-garland-1,Colby Garland,2024
+19,19,19,2024-01-20,Drake,,Evansville,REG (Conf),W 97-48,,17,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,6,6,4,1,0,1,2,2,4.1,H,1,1,colby-garland-1,Colby Garland,2024
+20,20,20,2024-01-24,Drake,@,Missouri State,REG (Conf),L 80-83 (2OT),,15,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,1,1.0,2,1,3,0,0,0,1,0,6,4.0,A,0,1,colby-garland-1,Colby Garland,2024
+21,21,25,2024-02-10,Drake,@,Bradley,REG (Conf),W 74-67,,20,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,3,2,0,1,2,0,1.5,A,1,1,colby-garland-1,Colby Garland,2024
+22,22,26,2024-02-13,Drake,@,Evansville,REG (Conf),W 78-75,,17,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,2,2,0,1,3,8,8.2,A,1,1,colby-garland-1,Colby Garland,2024
+23,23,27,2024-02-18,Drake,,Murray State,REG (Conf),W 95-72,,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,4,0,0,0,3,2,4.6,H,1,1,colby-garland-1,Colby Garland,2024
+24,24,28,2024-02-21,Drake,,Belmont,REG (Conf),W 84-69,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,2,0,0,0,2,2,1.8,H,1,1,colby-garland-1,Colby Garland,2024
+25,25,29,2024-02-24,Drake,@,Northern Iowa,REG (Conf),L 77-91,,25,6,8,0.75,0,0,,6,8,0.75,0.75,1,2,0.5,0,2,2,2,0,0,0,4,13,9.8,A,0,1,colby-garland-1,Colby Garland,2024
+26,26,30,2024-02-28,Drake,@,Illinois–Chicago,REG (Conf),W 107-105 (3OT),,21,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,0,2,2,4,0,0,1,1,14,12.8,A,1,1,colby-garland-1,Colby Garland,2024
+27,27,31,2024-03-03,Drake,,Bradley,REG (Conf),W 74-66,,17,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,1,1,2,0,0,0,1,2,10,5.9,H,1,1,colby-garland-1,Colby Garland,2024
+28,28,32,2024-03-08,Drake,N,Evansville,CTOURN,W 79-58,,21,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,3,3,1,0,0,2,3,6,0.7,N,1,0,colby-garland-1,Colby Garland,2024
+29,29,33,2024-03-09,Drake,N,Bradley,CTOURN,W 72-67,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,1,2,3,1,0,0,1,1,5,2.9,N,1,0,colby-garland-1,Colby Garland,2024
+30,30,34,2024-03-10,Drake,N,Indiana State,CTOURN,W 84-80,,17,3,9,0.333,0,0,,3,9,0.333,0.333,1,1,1.0,0,2,2,1,0,0,0,1,7,2.8,N,1,0,colby-garland-1,Colby Garland,2024
+31,31,35,2024-03-21,Drake,N,Washington State,ROUND-64,L 61-66,,14,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,3,3,2,3,0,0,1,2,4.5,N,0,0,colby-garland-1,Colby Garland,2024

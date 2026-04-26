@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2014-11-14,Valparaiso,,East Tennessee State,REG (Non-Conf),W 90-76,*,16,0,1,0.0,0,0,0,1,0.0,0.0,2,6,0.333,0,5,5,0,0,2,1,2,2,0.8,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+2,63,2,2014-11-16,Valparaiso,@,Missouri,REG (Non-Conf),L 41-56,*,18,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,4,5,0,0,2,1,3,2,2.1,A,0,1,vashil-fernandez-1,Vashil Fernandez,2015
+3,64,3,2014-11-19,Valparaiso,,IU South Bend,REG (Non-Conf),W 91-55,,20,4,6,0.667,0,0,4,6,0.667,0.667,5,6,0.833,6,4,10,1,0,3,1,3,13,16.0,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+4,65,4,2014-11-21,Valparaiso,N,Arkansas–Pine Bluff,REG (Non-Conf),W 59-46,*,29,3,4,0.75,0,0,3,4,0.75,0.75,5,6,0.833,3,4,7,0,0,5,2,1,11,13.4,N,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+5,66,5,2014-11-23,Valparaiso,N,Maine,REG (Non-Conf),W 93-70,*,22,3,5,0.6,0,0,3,5,0.6,0.6,0,2,0.0,3,3,6,2,4,5,1,1,6,13.4,N,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+6,67,6,2014-11-28,Valparaiso,N,Drake,REG (Non-Conf),W 66-46,*,25,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,3,4,7,0,0,1,0,3,5,6.4,N,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+7,68,7,2014-11-29,Valparaiso,N,Murray State,REG (Non-Conf),W 93-58,*,24,1,3,0.333,0,0,1,3,0.333,0.333,4,4,1.0,3,0,3,0,1,0,1,2,6,5.6,N,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+8,69,8,2014-11-30,Valparaiso,N,Portland,REG (Non-Conf),W 70-55,*,25,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,5,5,10,0,0,3,0,2,4,7.6,N,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+9,70,9,2014-12-03,Valparaiso,@,Eastern Kentucky,REG (Non-Conf),W 72-66,*,22,6,6,1.0,0,0,6,6,1.0,1.0,0,0,,1,5,6,0,0,2,1,5,12,10.8,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+10,71,10,2014-12-06,Valparaiso,,New Mexico,REG (Non-Conf),L 46-63,*,19,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,1,2,3,0,0,1,0,2,4,2.4,H,0,1,vashil-fernandez-1,Vashil Fernandez,2015
+11,72,11,2014-12-10,Valparaiso,,Trinity International (IL),REG (Non-Conf),W 79-54,,21,3,3,1.0,0,0,3,3,1.0,1.0,4,4,1.0,4,2,6,0,2,4,1,3,10,15.1,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+12,73,12,2014-12-13,Valparaiso,,Ball State,REG (Non-Conf),W 65-62,*,26,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,2,2,4,0,0,2,1,1,1,1.2,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+13,74,13,2014-12-20,Valparaiso,@,IPFW,REG (Non-Conf),W 75-72,*,26,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,4,1,5,0,1,6,3,3,8,8.8,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+14,75,14,2014-12-21,Valparaiso,,Goshen,REG (Non-Conf),W 82-55,*,21,2,3,0.667,0,0,2,3,0.667,0.667,2,5,0.4,2,6,8,0,1,8,2,1,6,10.9,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+15,76,15,2014-12-29,Valparaiso,@,James Madison,REG (Non-Conf),W 79-52,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,4,7,0,1,4,1,3,6,9.3,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+16,77,16,2015-01-02,Valparaiso,@,Oakland,REG (Conf),L 75-89 (OT),*,30,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,2,4,6,0,1,0,2,5,7,3.9,A,0,1,vashil-fernandez-1,Vashil Fernandez,2015
+17,78,17,2015-01-04,Valparaiso,,Youngstown State,REG (Conf),W 79-64,*,30,3,7,0.429,0,0,3,7,0.429,0.429,2,4,0.5,8,5,13,1,1,3,0,3,8,13.2,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+18,79,18,2015-01-08,Valparaiso,,Illinois–Chicago,REG (Conf),W 85-56,*,24,6,6,1.0,0,0,6,6,1.0,1.0,3,4,0.75,3,5,8,1,0,4,0,1,15,19.5,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+19,80,19,2015-01-10,Valparaiso,,Cleveland State,REG (Conf),W 58-56,*,19,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,0,2,2,0,0,2,1,4,7,5.5,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+20,81,20,2015-01-17,Valparaiso,@,Wright State,REG (Conf),W 66-56,*,34,6,8,0.75,0,0,6,8,0.75,0.75,2,4,0.5,1,8,9,0,0,2,0,4,14,12.9,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+21,82,21,2015-01-20,Valparaiso,@,Youngstown State,REG (Conf),W 77-62,*,31,4,6,0.667,0,0,4,6,0.667,0.667,0,2,0.0,0,1,1,2,0,3,0,2,8,7.6,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+22,83,22,2015-01-23,Valparaiso,@,Green Bay,REG (Conf),L 50-51,*,27,3,6,0.5,0,0,3,6,0.5,0.5,2,6,0.333,3,1,4,1,0,4,0,3,8,8.1,A,0,1,vashil-fernandez-1,Vashil Fernandez,2015
+23,84,23,2015-01-26,Valparaiso,,Milwaukee,REG (Conf),W 73-48,*,28,3,9,0.333,0,0,3,9,0.333,0.333,0,1,0.0,1,2,3,0,1,2,2,4,6,0.6,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+24,85,24,2015-01-31,Valparaiso,@,Illinois–Chicago,REG (Conf),W 70-65,*,27,3,9,0.333,0,0,3,9,0.333,0.333,1,3,0.333,4,5,9,1,1,4,2,4,7,6.3,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+25,86,25,2015-02-04,Valparaiso,,Detroit Mercy,REG (Conf),W 78-70,*,33,2,3,0.667,0,0,2,3,0.667,0.667,1,6,0.167,0,6,6,0,0,3,0,4,5,4.0,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+26,87,26,2015-02-08,Valparaiso,,Oakland,REG (Conf),W 82-76,*,34,5,5,1.0,0,0,5,5,1.0,1.0,1,2,0.5,2,5,7,0,0,2,1,3,11,11.2,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+27,88,27,2015-02-13,Valparaiso,,Green Bay,REG (Conf),W 63-59,*,16,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,2,6,8,2,0,3,1,4,3,4.3,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+28,89,28,2015-02-15,Valparaiso,@,Milwaukee,REG (Conf),W 62-55,*,27,1,6,0.167,0,0,1,6,0.167,0.167,0,0,,2,4,6,0,0,2,1,2,2,0.4,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+29,90,29,2015-02-21,Valparaiso,,Wright State,REG (Conf),W 55-48,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,2,2,0,0,1,1,1,6,4.3,H,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+30,91,30,2015-02-25,Valparaiso,@,Detroit Mercy,REG (Conf),L 60-63,*,22,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,2,0,2,0,0,4,3,4,2,-0.1,A,0,1,vashil-fernandez-1,Vashil Fernandez,2015
+31,92,31,2015-02-27,Valparaiso,@,Cleveland State,REG (Conf),W 56-53,*,25,3,8,0.375,0,0,3,8,0.375,0.375,3,6,0.5,2,6,8,0,1,2,0,4,9,7.4,A,1,1,vashil-fernandez-1,Vashil Fernandez,2015
+32,93,32,2015-03-07,Valparaiso,,Cleveland State,CTOURN,W 60-55,*,28,2,5,0.4,0,0,2,5,0.4,0.4,4,8,0.5,2,2,4,0,0,3,1,3,8,5.6,H,1,0,vashil-fernandez-1,Vashil Fernandez,2015
+33,94,33,2015-03-10,Valparaiso,,Green Bay,CTOURN,W 54-44,*,24,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,4,5,0,0,5,0,1,6,8.0,H,1,0,vashil-fernandez-1,Vashil Fernandez,2015
+34,95,34,2015-03-20,Valparaiso,N,Maryland,ROUND-64,L 62-65,*,26,3,5,0.6,0,0,3,5,0.6,0.6,0,2,0.0,2,4,6,0,0,0,1,3,6,3.3,N,0,0,vashil-fernandez-1,Vashil Fernandez,2015

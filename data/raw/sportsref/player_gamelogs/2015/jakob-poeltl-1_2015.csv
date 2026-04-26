@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2014-11-14,Utah,,Ball State,REG (Non-Conf),W 90-72,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,8,16,0.5,6,4,10,1,0,0,1,0,18,17.0,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+2,2,2,2014-11-18,Utah,@,San Diego State,REG (Non-Conf),L 49-53,*,35,1,3,0.333,0,0,,1,3,0.333,0.333,2,6,0.333,5,7,12,0,1,7,2,3,4,9.0,A,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+3,3,3,2014-11-21,Utah,,UC Riverside,REG (Non-Conf),W 88-42,*,10,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,2,2,4,0,1,2,0,2,7,7.6,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+4,4,4,2014-11-26,Utah,,Texas–Pan American,REG (Non-Conf),W 85-48,*,20,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,7,3,10,0,3,3,3,2,8,12.7,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+5,5,5,2014-11-28,Utah,,North Dakota,REG (Non-Conf),W 90-53,*,27,10,10,1.0,0,0,,10,10,1.0,1.0,4,7,0.571,3,9,12,0,0,5,3,3,24,23.9,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+6,6,6,2014-11-29,Utah,,Alabama State,REG (Non-Conf),W 93-62,*,17,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,2,6,8,0,0,1,0,3,11,11.1,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+7,7,7,2014-12-03,Utah,,Wichita State,REG (Non-Conf),W 69-68 (OT),*,36,4,6,0.667,0,0,,4,6,0.667,0.667,4,10,0.4,4,7,11,0,0,3,1,3,12,11.8,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+8,8,8,2014-12-10,Utah,@,Brigham Young,REG (Non-Conf),W 65-61,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,0,3,0.0,1,6,7,0,0,2,4,1,6,2.0,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+9,9,9,2014-12-13,Utah,N,Kansas,REG (Non-Conf),L 60-63,*,34,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,5,6,11,0,1,3,3,3,8,8.2,N,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+10,10,10,2014-12-20,Utah,N,UNLV,REG (Non-Conf),W 59-46,*,14,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,3,4,0,0,1,2,4,8,3.4,N,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+11,11,11,2014-12-23,Utah,,South Dakota State,REG (Non-Conf),W 80-66,*,19,4,8,0.5,0,0,,4,8,0.5,0.5,1,4,0.25,1,5,6,2,0,1,1,3,9,5.9,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+12,12,12,2014-12-30,Utah,,Carroll (MT),REG (Non-Conf),W 85-49,*,22,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,3,3,6,2,0,0,1,0,9,10.4,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+13,13,13,2015-01-02,Utah,,Southern California,REG (Conf),W 79-55,*,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,1,0,1,1,4,4,3.5,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+14,14,14,2015-01-04,Utah,,UCLA,REG (Conf),W 71-39,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,1,3,0.333,4,6,10,0,1,1,2,3,9,9.4,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+15,15,15,2015-01-07,Utah,,Colorado,REG (Conf),W 74-49,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,2,6,8,1,1,1,4,4,6,2.6,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+16,16,16,2015-01-15,Utah,@,Arizona State,REG (Conf),W 76-59,*,23,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,1,6,7,3,0,1,3,2,6,6.2,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+17,17,17,2015-01-17,Utah,@,Arizona,REG (Conf),L 51-69,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,0,4,4,0,1,3,2,2,6,4.1,A,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+18,18,19,2015-01-25,Utah,,Washington,REG (Conf),W 77-56,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,3,4,7,1,0,0,1,1,6,5.9,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+19,19,20,2015-01-29,Utah,@,UCLA,REG (Conf),L 59-69,*,25,4,4,1.0,0,0,,4,4,1.0,1.0,0,1,0.0,1,2,3,0,0,1,0,0,8,8.4,A,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+20,20,21,2015-02-01,Utah,@,Southern California,REG (Conf),W 67-39,*,22,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,4,5,9,1,2,2,2,1,14,17.5,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+21,21,22,2015-02-07,Utah,@,Colorado,REG (Conf),W 79-51,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,1,3,0.333,1,7,8,0,1,2,0,3,7,7.9,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+22,22,23,2015-02-12,Utah,,Stanford,REG (Conf),W 75-59,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,1,3,0.333,0,1,1,3,0,0,0,4,3,2.7,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+23,23,24,2015-02-15,Utah,,California,REG (Conf),W 76-61,*,25,7,9,0.778,0,0,,7,9,0.778,0.778,4,6,0.667,6,2,8,0,0,2,1,4,18,17.3,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+24,24,25,2015-02-19,Utah,@,Oregon State,REG (Conf),W 47-37,*,28,1,1,1.0,0,0,,1,1,1.0,1.0,0,3,0.0,1,6,7,0,0,1,2,4,2,0.1,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+25,25,26,2015-02-22,Utah,@,Oregon,REG (Conf),L 58-69,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,1,5,0.2,1,3,4,1,0,2,2,2,5,2.3,A,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+26,26,27,2015-02-26,Utah,,Arizona State,REG (Conf),W 83-41,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,2,4,6,0,0,6,1,1,8,10.7,H,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+27,27,28,2015-02-28,Utah,,Arizona,REG (Conf),L 57-63,*,12,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,3,2,5,0,0,0,1,5,4,1.7,H,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+28,28,29,2015-03-05,Utah,@,Washington State,REG (Conf),W 67-59,*,17,0,0,,0,0,,0,0,,,0,0,,1,1,2,2,0,0,1,4,0,-0.2,A,1,1,jakob-poeltl-1,Jakob Poeltl,2015
+29,29,30,2015-03-07,Utah,@,Washington,REG (Conf),L 68-77,*,31,8,8,1.0,0,0,,8,8,1.0,1.0,2,6,0.333,2,3,5,0,0,2,4,2,18,12.9,A,0,1,jakob-poeltl-1,Jakob Poeltl,2015
+30,30,31,2015-03-12,Utah,N,Stanford,CTOURN,W 80-56,*,19,5,7,0.714,0,0,,5,7,0.714,0.714,6,8,0.75,4,1,5,2,0,1,1,2,16,15.7,N,1,0,jakob-poeltl-1,Jakob Poeltl,2015
+31,31,32,2015-03-13,Utah,N,Oregon,CTOURN,L 64-67,*,28,2,7,0.286,0,0,,2,7,0.286,0.286,3,8,0.375,4,4,8,2,0,0,2,0,7,4.3,N,0,0,jakob-poeltl-1,Jakob Poeltl,2015
+32,32,33,2015-03-19,Utah,N,Stephen F. Austin,ROUND-64,W 57-50,*,33,7,7,1.0,0,0,,7,7,1.0,1.0,4,7,0.571,3,5,8,0,0,5,2,2,18,19.0,N,1,0,jakob-poeltl-1,Jakob Poeltl,2015
+33,33,34,2015-03-21,Utah,N,Georgetown,ROUND-32,W 75-64,*,18,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,1,0,1,0,0,1,0,4,12,9.2,N,1,0,jakob-poeltl-1,Jakob Poeltl,2015
+34,34,35,2015-03-27,Utah,N,Duke,ROUND-16,L 57-63,*,27,5,10,0.5,0,0,,5,10,0.5,0.5,0,2,0.0,5,3,8,1,0,3,2,1,10,9.0,N,0,0,jakob-poeltl-1,Jakob Poeltl,2015

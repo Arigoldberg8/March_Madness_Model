@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2010-11-12,Florida State,,North Florida,REG (Non-Conf),W 75-55,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,5,0.8,1,4,5,0,0,1,0,1,6,6.8,H,1,1,okaro-white-1,Okaro White,2011
+2,2,2,2010-11-14,Florida State,@,UNC Greensboro,REG (Non-Conf),W 97-73,,21,6,10,0.6,0,1,0.0,6,9,0.667,0.6,4,4,1.0,4,0,4,0,1,0,1,1,16,13.8,A,1,1,okaro-white-1,Okaro White,2011
+3,3,3,2010-11-16,Florida State,,Gardner-Webb,REG (Non-Conf),W 78-53,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,2,2,4,0,0,0,1,1,5,2.1,H,1,1,okaro-white-1,Okaro White,2011
+4,4,4,2010-11-18,Florida State,@,Florida International,REG (Non-Conf),W 89-66,,10,2,3,0.667,0,0,,2,3,0.667,0.667,2,3,0.667,2,0,2,0,2,0,1,4,6,5.1,A,1,1,okaro-white-1,Okaro White,2011
+5,5,5,2010-11-23,Florida State,,Mercer,REG (Non-Conf),W 79-55,,14,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,3,0.667,3,2,5,3,0,0,3,1,9,8.4,H,1,1,okaro-white-1,Okaro White,2011
+6,6,6,2010-11-28,Florida State,,Florida,REG (Non-Conf),L 51-55,,2,0,0,,0,0,,0,0,,,0,1,0.0,0,0,0,0,0,0,0,1,0,-0.8,H,0,1,okaro-white-1,Okaro White,2011
+7,7,7,2010-11-30,Florida State,,Ohio State,REG (Non-Conf),L 44-58,,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,0,1,0,0,0,2,1,4,1.0,H,0,1,okaro-white-1,Okaro White,2011
+8,8,8,2010-12-05,Florida State,,Hartford,REG (Non-Conf),W 60-38,,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,4,4,8,1,0,1,2,1,2,1.9,H,1,1,okaro-white-1,Okaro White,2011
+9,9,9,2010-12-12,Florida State,,Clemson,REG (Conf),W 75-69,,15,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,2,0,2,1,1,0,0,1,9,8.7,H,1,1,okaro-white-1,Okaro White,2011
+10,10,10,2010-12-15,Florida State,,Stetson,REG (Non-Conf),W 97-63,,18,4,6,0.667,0,2,0.0,4,4,1.0,0.667,4,4,1.0,0,1,1,1,1,1,1,1,12,10.7,H,1,1,okaro-white-1,Okaro White,2011
+11,11,11,2010-12-18,Florida State,@,Loyola Marymount,REG (Non-Conf),W 74-63,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,0,0,0,0,2,2,1.2,A,1,1,okaro-white-1,Okaro White,2011
+12,12,12,2010-12-22,Florida State,@,Hawaii,REG (Non-Conf),W 70-62,,25,6,9,0.667,4,5,0.8,2,4,0.5,0.889,3,4,0.75,2,4,6,2,3,1,1,1,19,21.0,A,1,1,okaro-white-1,Okaro White,2011
+13,13,13,2010-12-23,Florida State,N,Butler,REG (Non-Conf),L 64-67,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,0,0,2,4,3,-1.3,N,0,1,okaro-white-1,Okaro White,2011
+14,14,14,2010-12-25,Florida State,N,Baylor,REG (Non-Conf),W 68-61,,7,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,0,1,0,0,0,1,1,2,0.6,N,1,1,okaro-white-1,Okaro White,2011
+15,15,15,2011-01-03,Florida State,@,Auburn,REG (Non-Conf),L 60-65,,11,0,7,0.0,0,4,0.0,0,3,0.0,0.0,2,2,1.0,0,0,0,1,0,0,0,0,2,-2.2,A,0,1,okaro-white-1,Okaro White,2011
+16,16,16,2011-01-08,Florida State,@,Virginia Tech,REG (Conf),L 59-71,,8,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,1,1,5,0,-3.7,A,0,1,okaro-white-1,Okaro White,2011
+17,17,17,2011-01-12,Florida State,,Duke,REG (Conf),W 66-61,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,1,1,0,0,0,2,0,3,-0.1,H,1,1,okaro-white-1,Okaro White,2011
+18,18,18,2011-01-15,Florida State,,NC State,REG (Conf),W 84-71,,12,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,1,2,1,0,0,0,0,4,4.0,H,1,1,okaro-white-1,Okaro White,2011
+19,19,19,2011-01-19,Florida State,@,Miami (FL),REG (Conf),W 55-53,,14,0,3,0.0,0,0,,0,3,0.0,0.0,6,6,1.0,3,0,3,1,0,0,1,2,6,4.9,A,1,1,okaro-white-1,Okaro White,2011
+20,20,20,2011-01-22,Florida State,,Boston College,REG (Conf),W 67-51,,22,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,2,3,5,0,0,0,1,3,11,8.1,H,1,1,okaro-white-1,Okaro White,2011
+21,21,21,2011-01-29,Florida State,@,Clemson,REG (Conf),L 44-62,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,3,0,2,1,0,-0.5,A,0,1,okaro-white-1,Okaro White,2011
+22,22,22,2011-02-01,Florida State,,Wake Forest,REG (Conf),W 85-61,*,23,2,6,0.333,1,1,1.0,1,5,0.2,0.417,3,4,0.75,1,5,6,0,4,1,3,4,8,6.5,H,1,1,okaro-white-1,Okaro White,2011
+23,23,23,2011-02-06,Florida State,@,North Carolina,REG (Conf),L 69-89,*,23,4,11,0.364,0,3,0.0,4,8,0.5,0.364,2,2,1.0,1,2,3,0,0,2,1,4,10,4.0,A,0,1,okaro-white-1,Okaro White,2011
+24,24,24,2011-02-10,Florida State,@,Georgia Tech,REG (Conf),W 72-63,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,6,8,0.75,3,4,7,0,1,1,3,3,12,9.0,A,1,1,okaro-white-1,Okaro White,2011
+25,25,25,2011-02-12,Florida State,,Virginia,REG (Conf),W 63-56,*,18,1,4,0.25,0,0,,1,4,0.25,0.25,1,1,1.0,0,3,3,0,1,0,2,5,3,-1.5,H,1,1,okaro-white-1,Okaro White,2011
+26,26,26,2011-02-19,Florida State,@,Wake Forest,REG (Conf),W 84-66,*,23,5,8,0.625,0,0,,5,8,0.625,0.625,3,3,1.0,0,2,2,1,2,2,1,3,13,11.9,A,1,1,okaro-white-1,Okaro White,2011
+27,27,27,2011-02-23,Florida State,@,Maryland,REG (Conf),L 62-78,*,19,1,6,0.167,0,1,0.0,1,5,0.2,0.167,2,4,0.5,0,1,1,1,0,0,0,5,4,-1.6,A,0,1,okaro-white-1,Okaro White,2011
+28,28,28,2011-02-26,Florida State,,Miami (FL),REG (Conf),W 65-59,*,30,6,11,0.545,1,2,0.5,5,9,0.556,0.591,4,4,1.0,4,3,7,0,1,0,2,3,17,13.2,H,1,1,okaro-white-1,Okaro White,2011
+29,29,29,2011-03-02,Florida State,,North Carolina,REG (Conf),L 70-72,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,5,7,0,2,1,4,3,6,4.1,H,0,1,okaro-white-1,Okaro White,2011
+30,30,30,2011-03-06,Florida State,@,NC State,REG (Conf),W 72-62,*,19,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,1,0,0,2,4,2,-0.6,A,1,1,okaro-white-1,Okaro White,2011
+31,31,31,2011-03-11,Florida State,N,Virginia Tech,CTOURN,L 51-52,*,19,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,3,2,5,0,0,1,2,4,8,5.9,N,0,0,okaro-white-1,Okaro White,2011
+32,32,32,2011-03-18,Florida State,N,Texas A&M,ROUND-64,W 57-50,*,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,5,5,1.0,1,2,3,1,1,2,1,0,7,8.7,N,1,0,okaro-white-1,Okaro White,2011
+33,33,33,2011-03-20,Florida State,N,Notre Dame,ROUND-32,W 71-57,*,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,7,0.857,2,2,4,0,0,0,1,2,10,6.4,N,1,0,okaro-white-1,Okaro White,2011
+34,34,34,2011-03-25,Florida State,N,VCU,ROUND-16,L 71-72 (OT),*,8,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,4,2,-0.3,N,0,0,okaro-white-1,Okaro White,2011

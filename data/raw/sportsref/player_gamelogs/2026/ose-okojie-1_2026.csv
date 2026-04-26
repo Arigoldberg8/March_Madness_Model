@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,54,1,2025-11-03,Howard,,Missouri,REG (Non-Conf),L 67-88,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,4,0.25,1,2,3,0,0,0,0,3,3,0.9,H,0,1,ose-okojie-1,Ose Okojie,2026
+2,55,2,2025-11-06,Howard,,Dist. Columbia,REG (Non-Conf),W 103-71,,16,4,7,0.571,0,0,,4,7,0.571,0.571,1,1,1.0,0,1,1,1,1,0,1,3,9,5.5,H,1,1,ose-okojie-1,Ose Okojie,2026
+3,56,3,2025-11-09,Howard,,Grambling State,REG (Non-Conf),L 70-73,,13,3,4,0.75,0,0,,3,4,0.75,0.75,0,2,0.0,0,1,1,0,0,0,0,1,6,3.5,H,0,1,ose-okojie-1,Ose Okojie,2026
+4,57,4,2025-11-13,Howard,,Alcorn State,REG (Non-Conf),W 72-64,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,0,1,1,1,0,1,1,3,10,5.9,H,1,1,ose-okojie-1,Ose Okojie,2026
+5,58,5,2025-11-19,Howard,@,Stetson,REG (Non-Conf),L 60-64,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,2,5,7,2,1,1,1,4,7,6.3,A,0,1,ose-okojie-1,Ose Okojie,2026
+6,59,6,2025-11-22,Howard,N,Niagara,REG (Non-Conf),W 80-70,*,26,5,7,0.714,1,1,1.0,4,6,0.667,0.786,2,5,0.4,3,2,5,4,2,0,1,2,13,14.6,N,1,1,ose-okojie-1,Ose Okojie,2026
+7,60,7,2025-11-23,Howard,@,Duke,REG (Non-Conf),L 56-93,*,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,2,2,0,3,2,2,1.3,A,0,1,ose-okojie-1,Ose Okojie,2026
+8,61,8,2025-11-26,Howard,,St. Mary's (MD),REG (Non-Conf),W 115-61,*,13,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,4,0.0,2,1,3,3,3,1,0,4,10,12.1,H,1,1,ose-okojie-1,Ose Okojie,2026
+9,62,9,2025-11-29,Howard,@,Mount St. Mary's,REG (Non-Conf),L 75-79,*,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,1,1,3,0,0,0,2,6,6.3,A,0,1,ose-okojie-1,Ose Okojie,2026
+10,63,10,2025-12-06,Howard,,Bowie St.,REG (Non-Conf),W 85-69,*,28,7,10,0.7,1,1,1.0,6,9,0.667,0.75,2,6,0.333,0,1,1,4,3,0,0,1,17,16.9,H,1,1,ose-okojie-1,Ose Okojie,2026
+11,64,11,2025-12-09,Howard,N,North Carolina A&T,REG (Non-Conf),W 73-69,*,18,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,2,1,3,1,1,1,0,5,3,1.6,N,1,1,ose-okojie-1,Ose Okojie,2026
+12,65,12,2025-12-13,Howard,N,Hampton,REG (Non-Conf),W 61-57,*,28,3,9,0.333,0,1,0.0,3,8,0.375,0.333,3,4,0.75,2,6,8,3,1,0,1,2,9,8.0,N,1,1,ose-okojie-1,Ose Okojie,2026
+13,66,13,2025-12-16,Howard,@,Drexel,REG (Non-Conf),W 74-66,*,31,6,10,0.6,1,1,1.0,5,9,0.556,0.65,4,4,1.0,3,7,10,1,2,1,3,4,17,15.4,A,1,1,ose-okojie-1,Ose Okojie,2026
+14,67,14,2025-12-20,Howard,@,UNC Wilmington,REG (Non-Conf),W 67-66,*,37,6,12,0.5,0,2,0.0,6,10,0.6,0.5,2,2,1.0,2,4,6,1,1,0,1,2,14,10.5,A,1,1,ose-okojie-1,Ose Okojie,2026
+15,68,15,2025-12-30,Howard,@,Northwestern,REG (Non-Conf),L 60-80,*,29,4,8,0.5,1,2,0.5,3,6,0.5,0.563,4,6,0.667,2,2,4,0,1,1,2,4,13,8.3,A,0,1,ose-okojie-1,Ose Okojie,2026
+16,69,16,2026-01-03,Howard,@,South Carolina State,REG (Conf),L 57-58,*,33,6,11,0.545,1,1,1.0,5,10,0.5,0.591,5,9,0.556,2,2,4,1,4,0,3,4,18,13.2,A,0,1,ose-okojie-1,Ose Okojie,2026
+17,70,17,2026-01-10,Howard,@,Maryland Eastern Shore,REG (Conf),L 57-69,*,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,2,4,0,1,1,7,5,3,-5.1,A,0,1,ose-okojie-1,Ose Okojie,2026
+18,71,18,2026-01-12,Howard,,Delaware State,REG (Conf),W 84-58,*,26,5,6,0.833,2,2,1.0,3,4,0.75,1.0,4,7,0.571,4,1,5,1,1,1,0,2,16,17.3,H,1,1,ose-okojie-1,Ose Okojie,2026
+19,72,19,2026-01-17,Howard,@,North Carolina Central,REG (Conf),W 83-69,*,35,9,15,0.6,1,2,0.5,8,13,0.615,0.633,0,0,,2,3,5,0,3,1,0,4,19,16.5,A,1,1,ose-okojie-1,Ose Okojie,2026
+20,73,20,2026-01-19,Howard,,Morehouse,REG (Non-Conf),W 78-69,*,33,9,13,0.692,0,2,0.0,9,11,0.818,0.692,3,5,0.6,1,3,4,1,1,0,2,3,21,14.8,H,1,1,ose-okojie-1,Ose Okojie,2026
+21,74,21,2026-01-24,Howard,,Morgan State,REG (Conf),L 77-78,*,27,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,6,0.333,1,3,4,2,0,0,0,4,2,-1.0,H,0,1,ose-okojie-1,Ose Okojie,2026
+22,75,22,2026-01-31,Howard,,Norfolk State,REG (Conf),W 88-60,*,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,0,1,0,1,4,0,-1.7,H,1,1,ose-okojie-1,Ose Okojie,2026
+23,76,23,2026-02-02,Howard,@,Coppin State,REG (Conf),W 72-53,*,33,4,9,0.444,1,1,1.0,3,8,0.375,0.5,3,3,1.0,3,4,7,2,0,2,2,5,12,9.4,A,1,1,ose-okojie-1,Ose Okojie,2026
+24,77,24,2026-02-07,Howard,,South Carolina State,REG (Conf),W 85-57,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,4,8,0.5,0,3,3,5,1,0,2,4,6,5.2,H,1,1,ose-okojie-1,Ose Okojie,2026
+25,78,25,2026-02-09,Howard,,Yale,REG (Non-Conf),L 81-87 (OT),*,27,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,1,0,1,0,1,0,0,1,9,7.7,H,0,1,ose-okojie-1,Ose Okojie,2026
+26,79,26,2026-02-14,Howard,,Maryland Eastern Shore,REG (Conf),W 79-53,*,12,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,2,0,2,4,2,1,0,5,3,7.2,H,1,1,ose-okojie-1,Ose Okojie,2026
+27,80,27,2026-02-16,Howard,@,Delaware State,REG (Conf),W 91-59,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,5,6,0.833,3,1,4,3,0,1,0,3,11,12.3,A,1,1,ose-okojie-1,Ose Okojie,2026
+28,81,28,2026-02-21,Howard,,North Carolina Central,REG (Conf),W 100-67,*,22,3,4,0.75,1,2,0.5,2,2,1.0,0.875,4,5,0.8,3,0,3,2,2,0,1,3,11,12.3,H,1,1,ose-okojie-1,Ose Okojie,2026
+29,82,29,2026-02-28,Howard,@,Morgan State,REG (Conf),W 84-59,*,26,6,10,0.6,0,1,0.0,6,9,0.667,0.6,8,9,0.889,5,1,6,2,3,0,1,4,20,20.6,A,1,1,ose-okojie-1,Ose Okojie,2026
+30,83,30,2026-03-02,Howard,,Coppin State,REG (Conf),W 90-70,*,29,6,9,0.667,0,0,,6,9,0.667,0.667,6,9,0.667,2,1,3,2,2,0,1,3,18,15.8,H,1,1,ose-okojie-1,Ose Okojie,2026
+31,84,31,2026-03-05,Howard,@,Norfolk State,REG (Conf),W 84-76,*,36,3,5,0.6,1,1,1.0,2,4,0.5,0.7,5,6,0.833,2,1,3,1,1,0,3,2,12,8.9,A,1,1,ose-okojie-1,Ose Okojie,2026
+32,85,32,2026-03-13,Howard,N,South Carolina State,CTOURN,W 78-61,*,33,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,4,0.75,3,2,5,2,5,1,2,2,11,14.3,N,1,0,ose-okojie-1,Ose Okojie,2026
+33,86,33,2026-03-14,Howard,N,North Carolina Central,CTOURN,W 70-63,*,31,4,9,0.444,0,1,0.0,4,8,0.5,0.444,6,8,0.75,3,1,4,3,4,0,0,2,14,16.2,N,1,0,ose-okojie-1,Ose Okojie,2026
+34,87,34,2026-03-17,Howard,N,UMBC,FIRST-FOUR,W 86-83,*,34,9,15,0.6,3,3,1.0,6,12,0.5,0.7,2,5,0.4,3,2,5,0,0,0,1,4,23,15.0,N,1,0,ose-okojie-1,Ose Okojie,2026

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-09,Mississippi State,,Austin Peay,REG (Non-Conf),W 95-67,,22,3,5,0.6,1,3,0.333,2,2,1.0,0.7,1,2,0.5,1,4,5,1,1,0,0,2,8,8.1,H,1,1,robert-woodard-2,Robert Woodard,2019
+2,2,2,2018-11-11,Mississippi State,,Hartford,REG (Non-Conf),W 77-59,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,1,2,1,0,0,1,1,2,-0.1,H,1,1,robert-woodard-2,Robert Woodard,2019
+3,3,3,2018-11-16,Mississippi State,,Long Beach State,REG (Non-Conf),W 79-51,,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,4,0.25,3,2,5,1,0,2,1,2,5,3.4,H,1,1,robert-woodard-2,Robert Woodard,2019
+4,4,4,2018-11-19,Mississippi State,N,Arizona State,REG (Non-Conf),L 67-72,,16,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,3,4,1,2,0,1,2,6,5.5,N,0,1,robert-woodard-2,Robert Woodard,2019
+5,5,5,2018-11-21,Mississippi State,N,St. Mary's (CA),REG (Non-Conf),W 61-57,,25,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,2,1,3,1,0,1,1,0,6,5.1,N,1,1,robert-woodard-2,Robert Woodard,2019
+6,6,6,2018-11-26,Mississippi State,,Alcorn State,REG (Non-Conf),W 88-65,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,6,6,5,0,0,0,1,6,9.3,H,1,1,robert-woodard-2,Robert Woodard,2019
+7,7,7,2018-11-30,Mississippi State,@,Dayton,REG (Non-Conf),W 65-58,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,0.3,A,1,1,robert-woodard-2,Robert Woodard,2019
+8,8,8,2018-12-04,Mississippi State,,McNeese State,REG (Non-Conf),W 90-77,,13,0,2,0.0,0,2,0.0,0,0,,0.0,4,6,0.667,2,2,4,0,0,0,1,0,4,2.8,H,1,1,robert-woodard-2,Robert Woodard,2019
+9,9,9,2018-12-08,Mississippi State,N,Clemson,REG (Non-Conf),W 82-71,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,N,1,1,robert-woodard-2,Robert Woodard,2019
+10,10,10,2018-12-15,Mississippi State,,Cincinnati,REG (Non-Conf),W 70-59,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,0,0,-1.1,H,1,1,robert-woodard-2,Robert Woodard,2019
+11,11,11,2018-12-19,Mississippi State,,Wofford,REG (Non-Conf),W 98-87,,6,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,0,1,0,1,0,0,0,7,7.1,H,1,1,robert-woodard-2,Robert Woodard,2019
+12,12,12,2018-12-22,Mississippi State,N,Wright State,REG (Non-Conf),W 67-63,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,2,3,0,0,1,1,1,6,4.3,N,1,1,robert-woodard-2,Robert Woodard,2019
+13,13,13,2018-12-29,Mississippi State,,Brigham Young,REG (Non-Conf),W 103-81,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,robert-woodard-2,Robert Woodard,2019
+14,14,14,2019-01-08,Mississippi State,@,South Carolina,REG (Conf),L 82-87 (OT),,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,A,0,1,robert-woodard-2,Robert Woodard,2019
+15,15,15,2019-01-12,Mississippi State,,Ole Miss,REG (Conf),L 77-81,,9,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,0,0,0,0,0,0,0,0,7,5.7,H,0,1,robert-woodard-2,Robert Woodard,2019
+16,16,16,2019-01-15,Mississippi State,,Florida,REG (Conf),W 71-68,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,1,3,4,2,3,1,0,0,3,6.9,H,1,1,robert-woodard-2,Robert Woodard,2019
+17,17,17,2019-01-19,Mississippi State,@,Vanderbilt,REG (Conf),W 71-55,,20,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,3,1.0,1,3,4,2,0,0,1,3,9,5.4,A,1,1,robert-woodard-2,Robert Woodard,2019
+18,18,18,2019-01-22,Mississippi State,@,Kentucky,REG (Conf),L 55-76,,17,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,3,0.667,6,7,13,0,0,0,1,0,4,3.7,A,0,1,robert-woodard-2,Robert Woodard,2019
+19,19,19,2019-01-26,Mississippi State,,Auburn,REG (Conf),W 92-84,,12,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,1,0,0,1,3,3.6,H,1,1,robert-woodard-2,Robert Woodard,2019
+20,20,20,2019-01-29,Mississippi State,@,Alabama,REG (Conf),L 79-83,,15,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,4,0.5,3,4,7,1,1,1,1,1,7,8.5,A,0,1,robert-woodard-2,Robert Woodard,2019
+21,21,21,2019-02-02,Mississippi State,@,Ole Miss,REG (Conf),W 81-75,,20,4,5,0.8,1,1,1.0,3,4,0.75,0.9,0,0,,2,1,3,0,1,0,3,1,9,6.4,A,1,1,robert-woodard-2,Robert Woodard,2019
+22,22,22,2019-02-06,Mississippi State,,Louisiana State,REG (Conf),L 88-92 (OT),,13,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,0,0,1,0,2,2,1,8,6.1,H,0,1,robert-woodard-2,Robert Woodard,2019
+23,23,23,2019-02-09,Mississippi State,,Kentucky,REG (Conf),L 67-71,,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,3,4,0.75,0,5,5,1,1,2,0,2,9,9.4,H,0,1,robert-woodard-2,Robert Woodard,2019
+24,24,24,2019-02-12,Mississippi State,,Alabama,REG (Conf),W 81-62,,25,2,9,0.222,0,0,,2,9,0.222,0.222,2,2,1.0,3,6,9,1,2,1,1,0,6,6.8,H,1,1,robert-woodard-2,Robert Woodard,2019
+25,25,25,2019-02-16,Mississippi State,@,Arkansas,REG (Conf),W 77-67,,24,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,4,4,1,0,1,1,2,10,7.8,A,1,1,robert-woodard-2,Robert Woodard,2019
+26,26,26,2019-02-20,Mississippi State,@,Georgia,REG (Conf),W 68-67,,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,6,6,0,0,0,1,2,5,3.0,A,1,1,robert-woodard-2,Robert Woodard,2019
+27,27,27,2019-02-23,Mississippi State,,South Carolina,REG (Conf),W 76-61,,18,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,0,0,2,2,3,2,0.1,H,1,1,robert-woodard-2,Robert Woodard,2019
+28,28,28,2019-02-26,Mississippi State,,Missouri,REG (Conf),W 68-49,,26,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,1,0.0,1,3,4,1,1,2,0,0,9,10.0,H,1,1,robert-woodard-2,Robert Woodard,2019
+29,29,29,2019-03-02,Mississippi State,@,Auburn,REG (Conf),L 75-80,,27,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,2,1,3,0,1,0,0,1,6,5.3,A,0,1,robert-woodard-2,Robert Woodard,2019
+30,30,30,2019-03-05,Mississippi State,@,Tennessee,REG (Conf),L 54-71,,30,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,6,0.167,3,4,7,0,1,0,1,2,10,6.5,A,0,1,robert-woodard-2,Robert Woodard,2019
+31,31,31,2019-03-09,Mississippi State,,Texas A&M,REG (Conf),W 92-81,,23,3,7,0.429,0,1,0.0,3,6,0.5,0.429,1,1,1.0,3,1,4,1,1,1,0,2,7,7.3,H,1,1,robert-woodard-2,Robert Woodard,2019
+32,32,32,2019-03-14,Mississippi State,N,Texas A&M,CTOURN,W 80-54,,22,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,1,1.0,1,7,8,0,0,0,0,2,9,7.7,N,1,0,robert-woodard-2,Robert Woodard,2019
+33,33,33,2019-03-15,Mississippi State,N,Tennessee,CTOURN,L 76-83,,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,4,0.25,3,4,7,1,1,0,0,3,1,1.5,N,0,0,robert-woodard-2,Robert Woodard,2019
+34,34,34,2019-03-22,Mississippi State,N,Liberty,ROUND-64,L 76-80,,26,5,7,0.714,0,1,0.0,5,6,0.833,0.714,3,3,1.0,4,3,7,1,0,0,1,3,13,12.3,N,0,0,robert-woodard-2,Robert Woodard,2019

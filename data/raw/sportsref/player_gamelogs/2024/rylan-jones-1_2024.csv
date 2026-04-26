@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2023-11-06,Samford,@,Purdue,REG (Non-Conf),L 45-98,,19,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,2,0.5,0,1,1,2,1,0,1,0,8,4.9,A,0,1,rylan-jones-1,Rylan Jones,2024
+2,91,2,2023-11-10,Samford,@,VCU,REG (Non-Conf),L 65-75,*,22,1,9,0.111,1,6,0.167,0,3,0.0,0.167,2,2,1.0,2,3,5,2,1,0,2,1,5,1.4,A,0,1,rylan-jones-1,Rylan Jones,2024
+3,92,3,2023-11-14,Samford,,Miss. Col.,REG (Non-Conf),W 96-52,*,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,3,3,3,1,0,0,0,3,6.0,H,1,1,rylan-jones-1,Rylan Jones,2024
+4,93,4,2023-11-17,Samford,,South Carolina State,REG (Non-Conf),W 89-72,*,27,5,5,1.0,4,4,1.0,1,1,1.0,1.4,2,4,0.5,0,3,3,2,2,1,2,3,16,15.5,H,1,1,rylan-jones-1,Rylan Jones,2024
+5,94,5,2023-11-22,Samford,,Alabama State,REG (Non-Conf),W 99-67,*,18,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,4,4,4,0,0,1,2,11,9.2,H,1,1,rylan-jones-1,Rylan Jones,2024
+6,95,6,2023-11-24,Samford,,Merrimack,REG (Non-Conf),W 79-71,*,29,4,7,0.571,4,6,0.667,0,1,0.0,0.857,1,2,0.5,0,1,1,4,0,1,1,3,13,10.9,H,1,1,rylan-jones-1,Rylan Jones,2024
+7,96,7,2023-11-25,Samford,,North Carolina A&T,REG (Non-Conf),W 101-83,*,23,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,9,1,0,2,2,3,5.4,H,1,1,rylan-jones-1,Rylan Jones,2024
+8,97,8,2023-11-30,Samford,,Louisiana,REG (Non-Conf),W 88-65,*,30,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,1,4,5,9,1,0,3,3,6,7.3,H,1,1,rylan-jones-1,Rylan Jones,2024
+9,98,9,2023-12-03,Samford,,LaGrange,REG (Non-Conf),W 128-82,*,13,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,1,2,3,4,1,0,0,0,9,10.8,H,1,1,rylan-jones-1,Rylan Jones,2024
+10,99,10,2023-12-11,Samford,,Alabama A&M,REG (Non-Conf),W 118-91,*,18,1,3,0.333,1,3,0.333,0,0,,0.5,4,4,1.0,0,0,0,5,1,0,3,2,7,6.0,H,1,1,rylan-jones-1,Rylan Jones,2024
+11,100,11,2023-12-16,Samford,,Belmont,REG (Non-Conf),W 99-93,*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,3,0.667,1,2,3,7,2,0,2,3,13,13.3,H,1,1,rylan-jones-1,Rylan Jones,2024
+12,101,12,2023-12-19,Samford,@,Valparaiso,REG (Non-Conf),W 79-61,*,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,5,5,7,1,0,1,0,1,4.9,A,1,1,rylan-jones-1,Rylan Jones,2024
+13,102,13,2023-12-21,Samford,@,Texas Southern,REG (Non-Conf),W 87-65,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,2,2,6,1,0,1,3,8,8.6,A,1,1,rylan-jones-1,Rylan Jones,2024
+14,103,14,2024-01-03,Samford,,Chattanooga,REG (Conf),W 89-74,*,29,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,2,3,6,2,0,1,0,5,7.4,H,1,1,rylan-jones-1,Rylan Jones,2024
+15,104,15,2024-01-06,Samford,@,The Citadel,REG (Conf),W 80-64,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,8,1,0,0,2,2,6.1,A,1,1,rylan-jones-1,Rylan Jones,2024
+16,105,16,2024-01-11,Samford,,UNC Greensboro,REG (Conf),W 79-70,*,32,5,10,0.5,3,7,0.429,2,3,0.667,0.65,3,4,0.75,1,8,9,8,2,0,3,1,16,17.9,H,1,1,rylan-jones-1,Rylan Jones,2024
+17,106,17,2024-01-13,Samford,,VMI,REG (Conf),W 134-96,*,16,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,2,2,4,6,4,0,0,1,2,8.7,H,1,1,rylan-jones-1,Rylan Jones,2024
+18,107,18,2024-01-16,Samford,@,Western Carolina,REG (Conf),W 75-71,*,32,6,11,0.545,2,3,0.667,4,8,0.5,0.636,4,4,1.0,0,3,3,6,0,0,0,1,18,17.4,A,1,1,rylan-jones-1,Rylan Jones,2024
+19,108,19,2024-01-20,Samford,,Mercer,REG (Conf),W 87-80,*,26,3,9,0.333,1,5,0.2,2,4,0.5,0.389,5,6,0.833,1,1,2,4,1,0,0,2,12,10.5,H,1,1,rylan-jones-1,Rylan Jones,2024
+20,109,20,2024-01-24,Samford,@,Furman,REG (Conf),L 68-78,*,31,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,3,4,8,4,0,2,2,5,10.7,A,0,1,rylan-jones-1,Rylan Jones,2024
+21,110,21,2024-01-27,Samford,@,East Tennessee State,REG (Conf),W 75-72,*,31,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,1,0.0,0,3,3,5,0,0,2,4,10,5.7,A,1,1,rylan-jones-1,Rylan Jones,2024
+22,111,22,2024-01-31,Samford,,Wofford,REG (Conf),W 81-79,*,32,6,9,0.667,3,5,0.6,3,4,0.75,0.833,0,0,,0,3,3,4,0,0,2,1,15,12.4,H,1,1,rylan-jones-1,Rylan Jones,2024
+23,112,23,2024-02-03,Samford,@,Chattanooga,REG (Conf),W 78-56,*,28,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,2,2,4,3,4,0,0,1,6,12.1,A,1,1,rylan-jones-1,Rylan Jones,2024
+24,113,24,2024-02-08,Samford,@,UNC Greensboro,REG (Conf),W 78-69,*,29,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,5,5,7,2,0,3,1,5,6.6,A,1,1,rylan-jones-1,Rylan Jones,2024
+25,114,25,2024-02-10,Samford,@,VMI,REG (Conf),W 102-63,*,17,6,8,0.75,3,5,0.6,3,3,1.0,0.938,1,2,0.5,0,1,1,4,3,0,1,1,16,17.1,A,1,1,rylan-jones-1,Rylan Jones,2024
+26,115,26,2024-02-14,Samford,,Western Carolina,REG (Conf),W 88-62,*,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,5,1,0,1,2,6,6.3,H,1,1,rylan-jones-1,Rylan Jones,2024
+27,116,27,2024-02-17,Samford,@,Mercer,REG (Conf),L 84-88,*,31,4,10,0.4,3,7,0.429,1,3,0.333,0.55,8,11,0.727,0,1,1,1,0,0,1,1,19,12.0,A,0,1,rylan-jones-1,Rylan Jones,2024
+28,117,28,2024-02-21,Samford,,Furman,REG (Conf),W 74-72,*,34,5,14,0.357,4,9,0.444,1,5,0.2,0.5,3,4,0.75,0,5,5,4,3,0,1,1,17,14.7,H,1,1,rylan-jones-1,Rylan Jones,2024
+29,118,29,2024-02-24,Samford,,East Tennessee State,REG (Conf),W 87-71,*,28,6,9,0.667,4,7,0.571,2,2,1.0,0.889,3,4,0.75,0,2,2,5,5,0,2,1,19,21.4,H,1,1,rylan-jones-1,Rylan Jones,2024
+30,119,30,2024-02-28,Samford,@,Wofford,REG (Conf),L 69-91,*,21,1,7,0.143,1,6,0.167,0,1,0.0,0.214,1,1,1.0,0,1,1,1,0,0,2,3,4,-2.7,A,0,1,rylan-jones-1,Rylan Jones,2024
+31,120,31,2024-03-02,Samford,,The Citadel,REG (Conf),W 92-80,*,26,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,1,3,4,4,2,0,3,4,9,7.1,H,1,1,rylan-jones-1,Rylan Jones,2024
+32,121,32,2024-03-09,Samford,N,Mercer,CTOURN,W 70-57,*,28,6,10,0.6,3,5,0.6,3,5,0.6,0.75,0,0,,0,4,4,2,0,0,3,1,15,9.6,N,1,0,rylan-jones-1,Rylan Jones,2024
+33,122,33,2024-03-10,Samford,N,Furman,CTOURN,W 84-77,*,25,3,8,0.375,2,3,0.667,1,5,0.2,0.5,3,4,0.75,1,3,4,6,3,0,5,5,11,8.0,N,1,0,rylan-jones-1,Rylan Jones,2024
+34,123,34,2024-03-11,Samford,N,East Tennessee State,CTOURN,W 76-69,*,33,3,12,0.25,0,6,0.0,3,6,0.5,0.25,0,0,,0,2,2,4,2,1,0,3,6,3.7,N,1,0,rylan-jones-1,Rylan Jones,2024
+35,124,35,2024-03-21,Samford,N,Kansas,ROUND-64,L 89-93,*,32,3,11,0.273,2,7,0.286,1,4,0.25,0.364,1,2,0.5,1,1,2,9,4,0,2,3,9,10.2,N,0,0,rylan-jones-1,Rylan Jones,2024

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2016-11-11,Dayton,,Austin Peay,REG (Non-Conf),W 96-68,,22,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,1,3,4,1,0,2,1,3,6,4.5,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+2,24,2,2016-11-15,Dayton,@,Alabama,REG (Non-Conf),W 77-72,*,25,4,5,0.8,2,2,1.0,2,3,0.667,1.0,2,3,0.667,1,4,5,1,1,0,1,4,12,10.7,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+3,25,3,2016-11-19,Dayton,,St. Mary's (CA),REG (Non-Conf),L 57-61,*,29,2,9,0.222,1,5,0.2,1,4,0.25,0.278,1,2,0.5,3,3,6,0,0,1,2,3,6,0.6,H,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+4,26,4,2016-11-24,Dayton,N,Nebraska,REG (Non-Conf),L 78-80,*,32,2,8,0.25,0,1,0.0,2,7,0.286,0.25,5,7,0.714,2,3,5,1,0,0,1,3,9,4.2,N,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+5,27,5,2016-11-25,Dayton,N,Portland,REG (Non-Conf),W 84-74,*,28,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,3,3,3,0,1,0,2,3,4.9,N,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+6,28,6,2016-11-27,Dayton,N,New Mexico,REG (Non-Conf),W 64-57,*,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,5,0.6,1,4,5,1,0,0,2,3,7,2.2,N,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+7,29,7,2016-12-03,Dayton,,Winthrop,REG (Non-Conf),W 83-67,*,25,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,4,0.5,1,1,2,1,1,0,1,0,5,4.2,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+8,30,8,2016-12-06,Dayton,,St. Joseph's (IN),REG (Non-Conf),W 91-59,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,2,2,4,2,2,1,0,1,4,7.0,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+9,31,9,2016-12-10,Dayton,,East Tennessee State,REG (Non-Conf),W 75-61,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,0,1,1,0,0,1,2,4,1.6,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+10,32,10,2016-12-17,Dayton,N,Northwestern,REG (Non-Conf),L 64-67,*,18,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,5,5,0,0,1,1,4,6,2.9,N,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+11,33,11,2016-12-21,Dayton,,Vanderbilt,REG (Non-Conf),W 68-63,*,29,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,3,8,11,1,0,0,1,3,12,11.4,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+12,34,12,2016-12-23,Dayton,,VMI,REG (Non-Conf),W 92-56,*,26,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,2,5,7,1,0,0,1,2,10,10.2,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+13,35,13,2016-12-30,Dayton,,La Salle,REG (Conf),W 66-55,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,0,0,1,1,0,0,4,3,1.7,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+14,36,14,2017-01-03,Dayton,@,St. Bonaventure,REG (Conf),W 90-74,*,24,6,9,0.667,2,3,0.667,4,6,0.667,0.778,2,2,1.0,0,3,3,3,0,1,1,4,16,13.2,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+15,37,15,2017-01-06,Dayton,,Rhode Island,REG (Conf),W 67-64,*,27,3,5,0.6,0,2,0.0,3,3,1.0,0.6,3,4,0.75,1,6,7,0,0,1,2,3,9,6.3,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+16,38,16,2017-01-11,Dayton,@,Massachusetts,REG (Conf),L 55-67,*,18,2,10,0.2,1,4,0.25,1,6,0.167,0.25,0,0,,2,2,4,0,1,0,0,1,5,1.4,A,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+17,39,17,2017-01-14,Dayton,@,Duquesne,REG (Conf),W 76-57,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,3,6,0.5,4,4,8,0,2,0,2,2,5,4.6,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+18,40,18,2017-01-19,Dayton,,Richmond,REG (Conf),W 75-59,*,30,4,5,0.8,0,1,0.0,4,4,1.0,0.8,3,5,0.6,1,6,7,1,3,0,3,1,11,11.1,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+19,41,19,2017-01-22,Dayton,,Saint Louis,REG (Conf),W 67-46,*,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,1,2,1,3,0,2,2,2,1.5,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+20,42,20,2017-01-27,Dayton,@,VCU,REG (Conf),L 68-73,*,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,0,1,1,0,1,1,1,2,1.7,A,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+21,43,21,2017-01-31,Dayton,@,Fordham,REG (Conf),W 75-66,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,4,4,1.0,0,4,4,0,0,1,3,2,4,1.4,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+22,44,22,2017-02-04,Dayton,,Duquesne,REG (Conf),W 90-53,*,26,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,1,0.0,1,4,5,2,1,3,0,1,8,11.0,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+23,45,23,2017-02-07,Dayton,,Saint Joseph's,REG (Conf),W 77-70,*,19,1,4,0.25,1,1,1.0,0,3,0.0,0.375,2,2,1.0,2,5,7,0,0,0,2,3,5,2.3,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+24,46,24,2017-02-10,Dayton,@,Rhode Island,REG (Conf),W 75-74,*,21,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,2,2,4,1,1,0,2,3,7,5.2,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+25,47,25,2017-02-14,Dayton,@,Saint Louis,REG (Conf),W 85-63,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,1,2,1,1,3,5,5.1,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+26,48,26,2017-02-18,Dayton,,St. Bonaventure,REG (Conf),W 76-72,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,2,0,2,0,0.5,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+27,49,27,2017-02-21,Dayton,,George Mason,REG (Conf),W 83-70,,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,3,5,1,0,1,0,1,5,5.6,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+28,50,28,2017-02-24,Dayton,@,Davidson,REG (Conf),W 89-82 (OT),,14,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,0,2,0,1,3,5,2.8,A,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+29,51,29,2017-03-01,Dayton,,VCU,REG (Conf),W 79-72,,17,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,2,2,0,0,0,0,4,3,0.3,H,1,1,ryan-mikesell-1,Ryan Mikesell,2017
+30,52,30,2017-03-04,Dayton,@,George Washington,REG (Conf),L 81-87,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,0,1,1,0,0,2,3,4,1.6,A,0,1,ryan-mikesell-1,Ryan Mikesell,2017
+31,53,31,2017-03-10,Dayton,N,Davidson,CTOURN,L 67-73,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,N,0,0,ryan-mikesell-1,Ryan Mikesell,2017
+32,54,32,2017-03-17,Dayton,N,Wichita State,ROUND-64,L 58-64,,8,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,0,3,0,-0.5,N,0,0,ryan-mikesell-1,Ryan Mikesell,2017

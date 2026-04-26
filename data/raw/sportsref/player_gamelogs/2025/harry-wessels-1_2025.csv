@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2024-11-04,St. Mary's (CA),,Towson,REG (Non-Conf),W 76-69,,16,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,1,1,2,0,0,0,2,3,2,-2.3,H,1,1,harry-wessels-1,Harry Wessels,2025
+2,65,2,2024-11-07,St. Mary's (CA),,Chattanooga,REG (Non-Conf),W 86-74,,23,1,2,0.5,0,0,1,2,0.5,0.5,5,6,0.833,2,4,6,3,0,1,1,2,7,9.2,H,1,1,harry-wessels-1,Harry Wessels,2025
+3,66,3,2024-11-12,St. Mary's (CA),,Akron,REG (Non-Conf),W 87-68,,13,6,7,0.857,0,0,6,7,0.857,0.857,0,1,0.0,4,2,6,1,0,1,1,0,12,12.9,H,1,1,harry-wessels-1,Harry Wessels,2025
+4,67,4,2024-11-17,St. Mary's (CA),N,Nebraska,REG (Non-Conf),W 77-74,,3,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,N,1,1,harry-wessels-1,Harry Wessels,2025
+5,68,5,2024-11-20,St. Mary's (CA),,Cal St Stanislaus,REG (Non-Conf),W 78-38,,15,5,7,0.714,0,0,5,7,0.714,0.714,4,4,1.0,3,0,3,1,0,0,1,2,14,12.1,H,1,1,harry-wessels-1,Harry Wessels,2025
+6,69,6,2024-11-23,St. Mary's (CA),,Cal Poly,REG (Non-Conf),W 80-66,,5,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,H,1,1,harry-wessels-1,Harry Wessels,2025
+7,70,7,2024-11-28,St. Mary's (CA),N,Southern California,REG (Non-Conf),W 71-36,,13,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,0,0,1,0,2,2,2.5,N,1,1,harry-wessels-1,Harry Wessels,2025
+8,71,8,2024-11-29,St. Mary's (CA),N,Arizona State,REG (Non-Conf),L 64-68,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,1,0,2,1,1,0,0.0,N,0,1,harry-wessels-1,Harry Wessels,2025
+9,72,9,2024-12-03,St. Mary's (CA),,UTSA,REG (Non-Conf),W 82-74 (OT),,6,0,0,,0,0,0,0,,,2,2,1.0,0,0,0,0,0,0,0,1,2,1.6,H,1,1,harry-wessels-1,Harry Wessels,2025
+10,73,10,2024-12-07,St. Mary's (CA),@,Utah,REG (Non-Conf),W 72-63,,9,0,2,0.0,0,0,0,2,0.0,0.0,4,6,0.667,0,5,5,0,0,0,2,2,4,0.5,A,1,1,harry-wessels-1,Harry Wessels,2025
+11,74,11,2024-12-14,St. Mary's (CA),N,Boise State,REG (Non-Conf),L 65-67 (OT),,7,0,0,,0,0,0,0,,,2,2,1.0,0,2,2,0,0,1,1,3,2,1.1,N,0,1,harry-wessels-1,Harry Wessels,2025
+12,75,13,2024-12-22,St. Mary's (CA),,Utah State,REG (Non-Conf),L 68-75,,4,0,0,,0,0,0,0,,,0,0,,1,1,2,0,0,0,0,1,0,0.6,H,0,1,harry-wessels-1,Harry Wessels,2025
+13,76,14,2024-12-28,St. Mary's (CA),,Pacific,REG (Conf),W 70-60,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,1,0,0,-0.3,H,1,1,harry-wessels-1,Harry Wessels,2025
+14,77,15,2025-01-02,St. Mary's (CA),,Pepperdine,REG (Conf),W 71-41,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,4,5,0,0,2,0,3,6,7.2,H,1,1,harry-wessels-1,Harry Wessels,2025
+15,78,16,2025-01-04,St. Mary's (CA),@,Portland,REG (Conf),W 81-58,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,0,1,1,2,4,2.6,A,1,1,harry-wessels-1,Harry Wessels,2025
+16,79,17,2025-01-07,St. Mary's (CA),,Loyola Marymount,REG (Conf),W 81-56,,4,0,0,,0,0,0,0,,,2,2,1.0,0,1,1,0,0,0,1,0,2,1.3,H,1,1,harry-wessels-1,Harry Wessels,2025
+17,80,18,2025-01-11,St. Mary's (CA),@,San Diego,REG (Conf),W 103-56,,9,2,2,1.0,0,0,2,2,1.0,1.0,5,5,1.0,1,0,1,1,0,0,0,0,9,9.8,A,1,1,harry-wessels-1,Harry Wessels,2025
+18,81,19,2025-01-18,St. Mary's (CA),@,Pepperdine,REG (Conf),W 74-50,,13,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,2,5,7,0,0,2,0,1,7,8.5,A,1,1,harry-wessels-1,Harry Wessels,2025
+19,82,20,2025-01-23,St. Mary's (CA),,San Francisco,REG (Conf),W 71-51,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,3,3,1,0,0,3,3,4,0.1,H,1,1,harry-wessels-1,Harry Wessels,2025
+20,83,21,2025-01-25,St. Mary's (CA),@,Washington State,REG (Conf),W 80-75,,6,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,0,1,0,0,2,2.4,A,1,1,harry-wessels-1,Harry Wessels,2025
+21,84,22,2025-01-29,St. Mary's (CA),@,Santa Clara,REG (Conf),W 67-54,,16,2,4,0.5,0,0,2,4,0.5,0.5,4,4,1.0,2,4,6,0,0,0,0,2,8,7.8,A,1,1,harry-wessels-1,Harry Wessels,2025
+22,85,23,2025-02-01,St. Mary's (CA),,Gonzaga,REG (Conf),W 62-58,,9,0,0,,0,0,0,0,,,2,2,1.0,2,1,3,0,1,2,1,1,2,4.7,H,1,1,harry-wessels-1,Harry Wessels,2025
+23,86,24,2025-02-06,St. Mary's (CA),@,San Francisco,REG (Conf),L 64-65,,6,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,0,0,0,1,0,0,2,4,3.6,A,0,1,harry-wessels-1,Harry Wessels,2025
+24,87,25,2025-02-08,St. Mary's (CA),@,Oregon State,REG (Conf),W 63-49,,24,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,1,2,3,0,0,2,3,1,12,7.4,A,1,1,harry-wessels-1,Harry Wessels,2025
+25,88,26,2025-02-11,St. Mary's (CA),,Santa Clara,REG (Conf),W 73-64,,22,2,5,0.4,0,0,2,5,0.4,0.4,7,9,0.778,0,4,4,0,0,4,7,4,11,2.9,H,1,1,harry-wessels-1,Harry Wessels,2025
+26,89,27,2025-02-15,St. Mary's (CA),,Washington State,REG (Conf),W 77-56,,11,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,3,2,5,0,1,2,0,1,6,8.4,H,1,1,harry-wessels-1,Harry Wessels,2025
+27,90,28,2025-02-19,St. Mary's (CA),,Portland,REG (Conf),W 79-66,,15,4,5,0.8,0,0,4,5,0.8,0.8,3,4,0.75,3,2,5,0,1,1,0,1,11,12.7,H,1,1,harry-wessels-1,Harry Wessels,2025
+28,91,29,2025-02-22,St. Mary's (CA),@,Gonzaga,REG (Conf),W 74-67,,29,2,7,0.286,0,0,2,7,0.286,0.286,2,2,1.0,3,2,5,0,0,1,1,1,6,3.9,A,1,1,harry-wessels-1,Harry Wessels,2025
+29,92,30,2025-02-27,St. Mary's (CA),@,Loyola Marymount,REG (Conf),W 58-55,,22,3,9,0.333,0,0,3,9,0.333,0.333,3,4,0.75,3,5,8,2,1,2,1,2,9,9.1,A,1,1,harry-wessels-1,Harry Wessels,2025
+30,93,31,2025-03-01,St. Mary's (CA),,Oregon State,REG (Conf),W 74-64,,23,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,2,3,5,0,1,1,1,2,4,3.8,H,1,1,harry-wessels-1,Harry Wessels,2025
+31,94,32,2025-03-10,St. Mary's (CA),N,Pepperdine,CTOURN,W 74-59,,16,2,6,0.333,0,0,2,6,0.333,0.333,4,4,1.0,2,2,4,0,0,0,0,2,8,5.8,N,1,0,harry-wessels-1,Harry Wessels,2025
+32,95,33,2025-03-11,St. Mary's (CA),N,Gonzaga,CTOURN,L 51-58,,26,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,5,4,9,0,1,1,5,0,5,4.7,N,0,0,harry-wessels-1,Harry Wessels,2025
+33,96,34,2025-03-21,St. Mary's (CA),N,Vanderbilt,ROUND-64,W 59-56,,22,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,1,0,1,0,2,2,2.9,N,1,0,harry-wessels-1,Harry Wessels,2025
+34,97,35,2025-03-23,St. Mary's (CA),N,Alabama,ROUND-32,L 66-80,,23,3,9,0.333,0,0,3,9,0.333,0.333,6,8,0.75,4,4,8,0,0,3,0,2,12,11.4,N,0,0,harry-wessels-1,Harry Wessels,2025

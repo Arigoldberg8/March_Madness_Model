@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,75,1,2024-11-04,Memphis,,Missouri,REG (Non-Conf),W 83-75,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,7,8,2,1,0,2,2,6,6.4,H,1,1,dain-dainja-1,Dain Dainja,2025
+2,76,2,2024-11-09,Memphis,@,UNLV,REG (Non-Conf),W 80-74,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,2,9,11,4,0,1,3,2,9,10.1,A,1,1,dain-dainja-1,Dain Dainja,2025
+3,77,3,2024-11-15,Memphis,,Ohio,REG (Non-Conf),W 94-70,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,1,4,0.25,1,1,2,3,0,1,1,1,7,4.5,H,1,1,dain-dainja-1,Dain Dainja,2025
+4,78,4,2024-11-21,Memphis,@,San Francisco,REG (Non-Conf),W 68-64,,26,6,10,0.6,0,0,,6,10,0.6,0.6,6,7,0.857,2,5,7,0,2,3,4,2,18,15.2,A,1,1,dain-dainja-1,Dain Dainja,2025
+5,79,5,2024-11-25,Memphis,N,Connecticut,REG (Non-Conf),W 99-97 (OT),,22,7,10,0.7,0,0,,7,10,0.7,0.7,0,0,,1,4,5,1,0,0,3,4,14,7.8,N,1,1,dain-dainja-1,Dain Dainja,2025
+6,80,6,2024-11-26,Memphis,N,Michigan State,REG (Non-Conf),W 71-63,,15,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,2,0,2,1,0,1,1,5,7,4.5,N,1,1,dain-dainja-1,Dain Dainja,2025
+7,81,7,2024-11-27,Memphis,N,Auburn,REG (Non-Conf),L 76-90,,26,6,11,0.545,0,0,,6,11,0.545,0.545,3,5,0.6,3,2,5,0,1,0,2,5,15,8.6,N,0,1,dain-dainja-1,Dain Dainja,2025
+8,82,8,2024-12-04,Memphis,,Louisiana Tech,REG (Non-Conf),W 81-71,,20,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,3,5,8,3,0,0,2,2,6,4.5,H,1,1,dain-dainja-1,Dain Dainja,2025
+9,83,9,2024-12-08,Memphis,,Arkansas State,REG (Non-Conf),L 72-85,,26,4,10,0.4,0,0,,4,10,0.4,0.4,8,14,0.571,6,6,12,2,0,0,2,2,16,12.8,H,0,1,dain-dainja-1,Dain Dainja,2025
+10,84,10,2024-12-14,Memphis,@,Clemson,REG (Non-Conf),W 87-82 (OT),,28,4,10,0.4,0,0,,4,10,0.4,0.4,3,4,0.75,1,2,3,2,2,2,2,2,11,8.5,A,1,1,dain-dainja-1,Dain Dainja,2025
+11,85,11,2024-12-18,Memphis,@,Virginia,REG (Non-Conf),W 64-62,,26,4,9,0.444,0,0,,4,9,0.444,0.444,4,5,0.8,7,4,11,0,1,2,2,1,12,13.0,A,1,1,dain-dainja-1,Dain Dainja,2025
+12,86,12,2024-12-21,Memphis,,Mississippi State,REG (Non-Conf),L 66-79,,25,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,3,6,9,2,2,0,6,1,6,4.9,H,0,1,dain-dainja-1,Dain Dainja,2025
+13,87,13,2024-12-28,Memphis,,Ole Miss,REG (Non-Conf),W 87-70,,18,6,7,0.857,0,0,,6,7,0.857,0.857,4,7,0.571,0,3,3,0,1,2,3,4,16,11.0,H,1,1,dain-dainja-1,Dain Dainja,2025
+14,88,14,2025-01-02,Memphis,@,Florida Atlantic,REG (Conf),W 90-62,,21,7,12,0.583,0,0,,7,12,0.583,0.583,2,4,0.5,3,2,5,1,2,1,0,4,16,14.1,A,1,1,dain-dainja-1,Dain Dainja,2025
+15,89,15,2025-01-05,Memphis,,North Texas,REG (Conf),W 68-64,,27,5,6,0.833,0,0,,5,6,0.833,0.833,4,5,0.8,2,1,3,1,0,1,7,3,14,6.3,H,1,1,dain-dainja-1,Dain Dainja,2025
+16,90,16,2025-01-11,Memphis,,East Carolina,REG (Conf),W 74-70,,21,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,3,2,5,3,2,0,2,4,10,9.1,H,1,1,dain-dainja-1,Dain Dainja,2025
+17,91,17,2025-01-16,Memphis,@,Temple,REG (Conf),L 81-88,,22,5,12,0.417,0,0,,5,12,0.417,0.417,4,6,0.667,3,2,5,2,1,2,1,4,14,10.7,A,0,1,dain-dainja-1,Dain Dainja,2025
+18,92,18,2025-01-19,Memphis,@,Charlotte,REG (Conf),W 77-68,,23,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,2,7,9,1,0,1,3,3,14,11.5,A,1,1,dain-dainja-1,Dain Dainja,2025
+19,93,19,2025-01-23,Memphis,,Wichita State,REG (Conf),W 61-53,,28,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,5,3,8,1,1,0,5,4,3,1.1,H,1,1,dain-dainja-1,Dain Dainja,2025
+20,94,20,2025-01-26,Memphis,,UAB,REG (Conf),W 100-77,*,25,10,12,0.833,0,0,,10,12,0.833,0.833,1,2,0.5,0,8,8,1,1,1,2,5,21,17.0,H,1,1,dain-dainja-1,Dain Dainja,2025
+21,95,21,2025-01-30,Memphis,@,Tulane,REG (Conf),W 68-56,*,35,8,11,0.727,0,0,,8,11,0.727,0.727,3,4,0.75,2,8,10,3,0,0,2,4,19,16.4,A,1,1,dain-dainja-1,Dain Dainja,2025
+22,96,22,2025-02-02,Memphis,@,Rice,REG (Conf),W 86-83,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,3,5,4,1,0,3,4,6,4.5,A,1,1,dain-dainja-1,Dain Dainja,2025
+23,97,23,2025-02-05,Memphis,,Tulsa,REG (Conf),W 83-71,*,31,10,14,0.714,0,0,,10,14,0.714,0.714,1,3,0.333,4,2,6,4,3,4,1,1,21,25.0,H,1,1,dain-dainja-1,Dain Dainja,2025
+24,98,24,2025-02-09,Memphis,,Temple,REG (Conf),W 90-82,*,30,5,7,0.714,0,0,,5,7,0.714,0.714,8,10,0.8,5,3,8,2,0,2,4,2,18,16.7,H,1,1,dain-dainja-1,Dain Dainja,2025
+25,99,25,2025-02-13,Memphis,@,South Florida,REG (Conf),W 80-65,*,29,9,13,0.692,0,0,,9,13,0.692,0.692,2,4,0.5,3,4,7,2,1,0,2,3,20,16.2,A,1,1,dain-dainja-1,Dain Dainja,2025
+26,100,26,2025-02-16,Memphis,@,Wichita State,REG (Conf),L 79-84 (OT),*,20,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,1,1,2,0,1,2,2,4,0.9,A,0,1,dain-dainja-1,Dain Dainja,2025
+27,101,27,2025-02-23,Memphis,,Florida Atlantic,REG (Conf),W 84-65,*,27,8,13,0.615,0,0,,8,13,0.615,0.615,6,7,0.857,3,8,11,1,3,4,1,4,22,24.1,H,1,1,dain-dainja-1,Dain Dainja,2025
+28,102,28,2025-02-26,Memphis,,Rice,REG (Conf),W 84-72,*,28,11,14,0.786,0,0,,11,14,0.786,0.786,3,5,0.6,3,7,10,2,1,3,2,3,25,24.3,H,1,1,dain-dainja-1,Dain Dainja,2025
+29,103,29,2025-03-02,Memphis,@,UAB,REG (Conf),W 88-81,*,31,8,15,0.533,0,0,,8,15,0.533,0.533,0,2,0.0,5,12,17,2,1,2,4,4,16,13.2,A,1,1,dain-dainja-1,Dain Dainja,2025
+30,104,30,2025-03-04,Memphis,@,UTSA,REG (Conf),W 75-70,*,30,8,12,0.667,0,0,,8,12,0.667,0.667,3,4,0.75,4,4,8,1,0,1,3,4,19,14.2,A,1,1,dain-dainja-1,Dain Dainja,2025
+31,105,31,2025-03-07,Memphis,,South Florida,REG (Conf),W 84-68,*,30,10,13,0.769,0,1,0.0,10,12,0.833,0.769,0,5,0.0,2,4,6,1,1,0,5,2,20,11.4,H,1,1,dain-dainja-1,Dain Dainja,2025
+32,106,32,2025-03-14,Memphis,N,Wichita State,CTOURN,W 83-80,*,36,7,12,0.583,0,0,,7,12,0.583,0.583,4,6,0.667,0,5,5,0,0,3,6,2,18,8.4,N,1,0,dain-dainja-1,Dain Dainja,2025
+33,107,33,2025-03-15,Memphis,N,Tulane,CTOURN,W 78-77,*,39,10,15,0.667,0,0,,10,15,0.667,0.667,3,13,0.231,5,6,11,1,2,1,4,4,23,15.6,N,1,0,dain-dainja-1,Dain Dainja,2025
+34,108,34,2025-03-16,Memphis,N,UAB,CTOURN,W 84-72,*,39,11,18,0.611,0,0,,11,18,0.611,0.611,0,4,0.0,4,8,12,4,0,5,2,2,22,20.9,N,1,0,dain-dainja-1,Dain Dainja,2025
+35,109,35,2025-03-21,Memphis,N,Colorado State,ROUND-64,L 70-78,*,40,8,13,0.615,0,0,,8,13,0.615,0.615,6,10,0.6,5,7,12,0,3,3,4,0,22,21.2,N,0,0,dain-dainja-1,Dain Dainja,2025

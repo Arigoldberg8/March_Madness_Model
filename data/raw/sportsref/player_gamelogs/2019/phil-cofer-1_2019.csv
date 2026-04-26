@@ -1,0 +1,23 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,112,10,2018-12-17,Florida State,,Southeast Missouri State,REG (Non-Conf),W 85-68,,5,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-4.2,H,1,1,phil-cofer-1,Phil Cofer,2019
+2,113,12,2018-12-22,Florida State,N,Saint Louis,REG (Non-Conf),W 81-59,,17,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,0,1,1,0,0,0,0,2,7,3.5,N,1,1,phil-cofer-1,Phil Cofer,2019
+3,114,13,2019-01-01,Florida State,,Winthrop,REG (Non-Conf),W 87-76,*,28,4,8,0.5,3,5,0.6,1,3,0.333,0.688,3,3,1.0,0,2,2,3,1,0,3,4,14,9.1,H,1,1,phil-cofer-1,Phil Cofer,2019
+4,115,14,2019-01-05,Florida State,@,Virginia,REG (Conf),L 52-65,*,25,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,3,0.333,1,3,4,1,0,0,0,2,9,5.3,A,0,1,phil-cofer-1,Phil Cofer,2019
+5,116,15,2019-01-09,Florida State,,Miami (FL),REG (Conf),W 68-62,*,29,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,2,4,6,2,0,0,1,1,7,5.2,H,1,1,phil-cofer-1,Phil Cofer,2019
+6,117,16,2019-01-12,Florida State,,Duke,REG (Conf),L 78-80,*,34,8,13,0.615,5,8,0.625,3,5,0.6,0.808,0,0,,4,3,7,0,0,0,5,1,21,13.4,H,0,1,phil-cofer-1,Phil Cofer,2019
+7,118,17,2019-01-14,Florida State,@,Pittsburgh,REG (Conf),L 62-75,*,34,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,3,3,0,0,1,2,2,5,-0.3,A,0,1,phil-cofer-1,Phil Cofer,2019
+8,119,20,2019-01-27,Florida State,@,Miami (FL),REG (Conf),W 78-66,,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,1,1,1,0,0,1,1,4,1.5,A,1,1,phil-cofer-1,Phil Cofer,2019
+9,120,21,2019-02-02,Florida State,,Georgia Tech,REG (Conf),W 59-49,*,20,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,3,3,1,0,0,1,2,5,1.4,H,1,1,phil-cofer-1,Phil Cofer,2019
+10,121,22,2019-02-05,Florida State,@,Syracuse,REG (Conf),W 80-62,*,33,4,9,0.444,0,3,0.0,4,6,0.667,0.444,3,5,0.6,1,2,3,3,1,0,3,1,11,6.5,A,1,1,phil-cofer-1,Phil Cofer,2019
+11,122,23,2019-02-09,Florida State,,Louisville,REG (Conf),W 80-75 (OT),*,30,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,2,3,0,-5.7,H,1,1,phil-cofer-1,Phil Cofer,2019
+12,123,24,2019-02-13,Florida State,,Wake Forest,REG (Conf),W 88-66,*,24,5,8,0.625,3,6,0.5,2,2,1.0,0.813,0,1,0.0,0,5,5,3,1,1,0,1,13,13.9,H,1,1,phil-cofer-1,Phil Cofer,2019
+13,124,25,2019-02-16,Florida State,@,Georgia Tech,REG (Conf),W 69-47,*,26,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,0,7,7,1,0,0,0,0,8,5.7,A,1,1,phil-cofer-1,Phil Cofer,2019
+14,125,26,2019-02-19,Florida State,@,Clemson,REG (Conf),W 77-64,*,30,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,4,4,1,0,0,2,3,5,0.3,A,1,1,phil-cofer-1,Phil Cofer,2019
+15,126,27,2019-02-23,Florida State,@,North Carolina,REG (Conf),L 59-77,*,29,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,4,4,0,0,0,0,1,2,-1.0,A,0,1,phil-cofer-1,Phil Cofer,2019
+16,127,28,2019-02-25,Florida State,,Notre Dame,REG (Conf),W 68-61,*,15,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,4,4,0,0,0,2,0,0,-3.6,H,1,1,phil-cofer-1,Phil Cofer,2019
+17,128,29,2019-03-02,Florida State,,NC State,REG (Conf),W 78-73,*,27,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,1,4,5,0,0,0,3,1,8,2.8,H,1,1,phil-cofer-1,Phil Cofer,2019
+18,129,30,2019-03-05,Florida State,,Virginia Tech,REG (Conf),W 73-64 (OT),*,36,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,2,0.5,1,2,3,0,0,0,1,1,11,5.8,H,1,1,phil-cofer-1,Phil Cofer,2019
+19,130,31,2019-03-09,Florida State,@,Wake Forest,REG (Conf),W 65-57,*,26,4,9,0.444,0,3,0.0,4,6,0.667,0.444,1,2,0.5,2,2,4,0,0,0,2,0,9,3.9,A,1,1,phil-cofer-1,Phil Cofer,2019
+20,131,32,2019-03-14,Florida State,N,Virginia Tech,CTOURN,W 65-63 (OT),*,37,3,7,0.429,3,5,0.6,0,2,0.0,0.643,0,0,,0,5,5,1,0,0,0,2,9,6.7,N,1,0,phil-cofer-1,Phil Cofer,2019
+21,132,33,2019-03-15,Florida State,N,Virginia,CTOURN,W 69-59,*,32,4,11,0.364,3,9,0.333,1,2,0.5,0.5,0,1,0.0,0,2,2,1,0,0,0,1,11,5.4,N,1,0,phil-cofer-1,Phil Cofer,2019
+22,133,34,2019-03-16,Florida State,N,Duke,CTOURN,L 63-73,*,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,1,1,0,0,0,2,0,4,1.0,N,0,0,phil-cofer-1,Phil Cofer,2019

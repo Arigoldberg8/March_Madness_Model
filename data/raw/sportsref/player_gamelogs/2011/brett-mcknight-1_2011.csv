@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2010-11-12,Akron,,Millikin,REG (Non-Conf),W 89-41,,13,1,4,0.25,1,1,1.0,0,3,0.0,0.375,5,6,0.833,2,3,5,0,0,0,1,3,8,5.3,H,1,1,brett-mcknight-1,Brett McKnight,2011
+2,98,9,2010-12-18,Akron,,Bethune-Cookman,REG (Non-Conf),W 77-66 (OT),,10,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,2,2,0,1,0,0,0,6,6.0,H,1,1,brett-mcknight-1,Brett McKnight,2011
+3,99,10,2010-12-21,Akron,N,Little Rock,REG (Non-Conf),W 75-61,,8,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,N,1,1,brett-mcknight-1,Brett McKnight,2011
+4,100,11,2010-12-22,Akron,N,Stetson,REG (Non-Conf),W 72-56,,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,1,1,1,0,0,2,4,7,2.4,N,1,1,brett-mcknight-1,Brett McKnight,2011
+5,101,12,2010-12-23,Akron,N,Miami (FL),REG (Non-Conf),L 61-69,,19,8,12,0.667,3,5,0.6,5,7,0.714,0.792,1,4,0.25,3,1,4,1,1,0,2,4,20,14.1,N,0,1,brett-mcknight-1,Brett McKnight,2011
+6,102,13,2010-12-29,Akron,,Arkansas–Pine Bluff,REG (Non-Conf),W 87-60,,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,4,5,0.8,2,2,4,0,0,1,1,2,11,8.5,H,1,1,brett-mcknight-1,Brett McKnight,2011
+7,103,14,2011-01-03,Akron,,Oral Roberts,REG (Non-Conf),W 84-80,,18,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,0,3,3,1,1,0,1,4,10,6.7,H,1,1,brett-mcknight-1,Brett McKnight,2011
+8,104,15,2011-01-08,Akron,,Kent State,REG (Conf),W 65-62,,22,5,10,0.5,2,3,0.667,3,7,0.429,0.6,7,9,0.778,1,2,3,2,0,0,0,1,19,15.5,H,1,1,brett-mcknight-1,Brett McKnight,2011
+9,105,16,2011-01-12,Akron,,Ohio,REG (Conf),L 70-79,,20,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,1,0.0,1,0,1,2,0,0,0,2,8,3.5,H,0,1,brett-mcknight-1,Brett McKnight,2011
+10,106,17,2011-01-16,Akron,@,Buffalo,REG (Conf),L 70-73,,21,4,8,0.5,2,2,1.0,2,6,0.333,0.625,2,3,0.667,0,2,2,1,2,0,2,3,12,7.7,A,0,1,brett-mcknight-1,Brett McKnight,2011
+11,107,18,2011-01-19,Akron,@,Miami (OH),REG (Conf),L 76-84,,17,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,1,0.0,1,1,2,0,1,0,2,5,8,0.9,A,0,1,brett-mcknight-1,Brett McKnight,2011
+12,108,19,2011-01-22,Akron,,Bowling Green,REG (Conf),W 63-58,,28,3,9,0.333,0,4,0.0,3,5,0.6,0.333,0,0,,0,5,5,3,0,0,1,0,6,3.5,H,1,1,brett-mcknight-1,Brett McKnight,2011
+13,109,20,2011-01-26,Akron,@,Northern Illinois,REG (Conf),L 74-83,,21,4,15,0.267,2,6,0.333,2,9,0.222,0.333,0,0,,1,5,6,0,1,0,3,4,10,-0.3,A,0,1,brett-mcknight-1,Brett McKnight,2011
+14,110,21,2011-01-30,Akron,,Central Michigan,REG (Conf),W 63-43,,12,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,1,1,0,1,0,0,3,2,-0.3,H,1,1,brett-mcknight-1,Brett McKnight,2011
+15,111,22,2011-02-02,Akron,@,Eastern Michigan,REG (Conf),L 56-60,,15,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,0,3,3,0,0,0,1,1,4,-2.0,A,0,1,brett-mcknight-1,Brett McKnight,2011
+16,112,23,2011-02-05,Akron,@,Toledo,REG (Conf),W 59-41,,13,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,1,5,6,0,0,0,1,4,7,5.0,A,1,1,brett-mcknight-1,Brett McKnight,2011
+17,113,24,2011-02-09,Akron,,Western Michigan,REG (Conf),W 83-71,,18,4,10,0.4,1,3,0.333,3,7,0.429,0.45,4,5,0.8,2,2,4,2,0,0,1,3,13,8.4,H,1,1,brett-mcknight-1,Brett McKnight,2011
+18,114,25,2011-02-12,Akron,,Ball State,REG (Conf),W 75-60,,19,3,6,0.5,3,5,0.6,0,1,0.0,0.75,3,4,0.75,1,2,3,1,0,0,0,3,12,9.4,H,1,1,brett-mcknight-1,Brett McKnight,2011
+19,115,26,2011-02-15,Akron,@,Bowling Green,REG (Conf),W 89-54,,12,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,3,4,0,1,0,2,3,7,4.1,A,1,1,brett-mcknight-1,Brett McKnight,2011
+20,116,27,2011-02-19,Akron,,Creighton,REG (Non-Conf),W 76-67,,20,9,13,0.692,1,2,0.5,8,11,0.727,0.731,2,2,1.0,0,0,0,0,1,0,0,0,21,16.5,H,1,1,brett-mcknight-1,Brett McKnight,2011
+21,117,28,2011-02-23,Akron,,Miami (OH),REG (Conf),W 72-55,,17,6,12,0.5,1,3,0.333,5,9,0.556,0.542,2,2,1.0,0,6,6,1,1,0,1,1,15,11.1,H,1,1,brett-mcknight-1,Brett McKnight,2011
+22,118,29,2011-02-26,Akron,,Buffalo,REG (Conf),W 69-60,,28,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,1,2,3,0,1,0,2,3,14,8.1,H,1,1,brett-mcknight-1,Brett McKnight,2011
+23,119,30,2011-03-01,Akron,@,Ohio,REG (Conf),L 55-80,,16,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,0,3,3,1,1,0,1,1,10,6.5,A,0,1,brett-mcknight-1,Brett McKnight,2011
+24,120,31,2011-03-04,Akron,@,Kent State,REG (Conf),L 68-79,,17,5,8,0.625,0,3,0.0,5,5,1.0,0.625,1,1,1.0,0,1,1,4,0,0,2,3,11,7.3,A,0,1,brett-mcknight-1,Brett McKnight,2011
+25,121,32,2011-03-08,Akron,,Eastern Michigan,CTOURN,W 67-53,,17,3,5,0.6,1,2,0.5,2,3,0.667,0.7,4,4,1.0,0,2,2,0,0,0,1,4,11,6.7,H,1,0,brett-mcknight-1,Brett McKnight,2011
+26,122,33,2011-03-10,Akron,N,Miami (OH),CTOURN,W 82-75 (2OT),,30,3,8,0.375,1,2,0.5,2,6,0.333,0.438,9,13,0.692,1,5,6,1,2,0,0,2,16,14.1,N,1,0,brett-mcknight-1,Brett McKnight,2011
+27,123,34,2011-03-11,Akron,@,Western Michigan,CTOURN,W 79-68,,15,1,9,0.111,0,3,0.0,1,6,0.167,0.111,1,3,0.333,0,0,0,0,0,0,0,2,3,-4.5,A,1,0,brett-mcknight-1,Brett McKnight,2011
+28,124,35,2011-03-12,Akron,N,Kent State,CTOURN,W 66-65 (OT),,23,6,11,0.545,1,2,0.5,5,9,0.556,0.591,2,3,0.667,2,2,4,1,1,1,0,3,15,12.5,N,1,0,brett-mcknight-1,Brett McKnight,2011
+29,125,36,2011-03-18,Akron,N,Notre Dame,ROUND-64,L 56-69,,16,3,12,0.25,1,3,0.333,2,9,0.222,0.292,0,0,,0,2,2,0,0,0,0,2,7,-0.4,N,0,0,brett-mcknight-1,Brett McKnight,2011

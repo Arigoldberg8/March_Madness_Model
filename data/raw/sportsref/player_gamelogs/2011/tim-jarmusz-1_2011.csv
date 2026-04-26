@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,89,1,2010-11-14,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 99-55,*,21,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,2,2,2,2,0,0,0,1,3.2,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+2,90,2,2010-11-16,Wisconsin,,North Dakota,REG (Non-Conf),W 85-53,,23,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,1,3,4,1,1,0,0,1,10,11.7,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+3,91,3,2010-11-20,Wisconsin,@,UNLV,REG (Non-Conf),L 65-68,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-1.5,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+4,92,4,2010-11-25,Wisconsin,N,Manhattan,REG (Non-Conf),W 50-35,,21,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,2,2,4,2,0,0,0,2,6,6.6,N,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+5,93,5,2010-11-26,Wisconsin,N,Boston College,REG (Non-Conf),W 65-55,,24,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,1,0,0,0,1,3,0.9,N,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+6,94,6,2010-11-28,Wisconsin,N,Notre Dame,REG (Non-Conf),L 51-58,,21,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,1,2,0,0,1,3,3.2,N,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+7,95,7,2010-12-01,Wisconsin,,NC State,REG (Non-Conf),W 87-48,,16,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,2,3,5,1,0,0,0,0,2,4.3,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+8,96,8,2010-12-04,Wisconsin,,South Dakota,REG (Non-Conf),W 76-61,,27,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,1,1,2,2,2,0,1,1,3,2.9,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+9,97,9,2010-12-08,Wisconsin,,Milwaukee,REG (Non-Conf),W 61-40,,19,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,1,1,2,0,0,0,0,1,3,1.2,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+10,98,10,2010-12-11,Wisconsin,@,Marquette,REG (Non-Conf),W 69-64,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,1,0,0,1,1,0,-0.7,A,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+11,99,11,2010-12-13,Wisconsin,,Green Bay,REG (Non-Conf),W 70-56,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,1,0.0,0,0,0,1,1,0,0,0,2,2.3,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+12,100,12,2010-12-23,Wisconsin,,Coppin State,REG (Non-Conf),W 80-56,,16,4,5,0.8,4,5,0.8,0,0,,1.2,0,0,,1,0,1,0,0,0,0,1,12,10.4,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+13,101,13,2010-12-28,Wisconsin,,Minnesota,REG (Conf),W 68-60,,27,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,2,2,2,0,0,0,0,9,10.1,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+14,102,14,2011-01-02,Wisconsin,@,Illinois,REG (Conf),L 61-69,,25,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,0,0,0,1,0,0,1,6,3.2,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+15,103,15,2011-01-05,Wisconsin,,Michigan,REG (Conf),W 66-50,*,35,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,4,1,0,0,0,2,5.0,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+16,104,16,2011-01-11,Wisconsin,@,Michigan State,REG (Conf),L 61-64 (OT),*,33,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,2,2,2,0,0,0,1,2,2.2,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+17,105,17,2011-01-15,Wisconsin,,Illinois,REG (Conf),W 76-66,*,22,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,1,4,5,0,0,0,1,5,5,2.9,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+18,106,18,2011-01-20,Wisconsin,,Indiana,REG (Conf),W 69-60,*,35,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,2,1,3,1,0,1,0,1,3,4.0,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+19,107,19,2011-01-23,Wisconsin,@,Northwestern,REG (Conf),W 78-46,*,26,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,3,1,0,0,3,3,2.1,A,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+20,108,20,2011-01-29,Wisconsin,@,Penn State,REG (Conf),L 52-56,*,32,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,2,3,2,0,0,1,1,5,4.3,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+21,109,21,2011-02-01,Wisconsin,,Purdue,REG (Conf),W 66-59,*,21,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,1,0,1,2,0,-1.5,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+22,110,22,2011-02-06,Wisconsin,,Michigan State,REG (Conf),W 82-56,*,25,1,1,1.0,1,1,1.0,0,0,,1.5,6,6,1.0,2,0,2,1,0,0,0,1,9,10.4,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+23,111,23,2011-02-09,Wisconsin,@,Iowa,REG (Conf),W 62-59 (OT),*,34,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,4,0,4,1,2,0,0,1,8,9.7,A,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+24,112,24,2011-02-12,Wisconsin,,Ohio State,REG (Conf),W 71-67,*,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.1,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+25,113,25,2011-02-16,Wisconsin,@,Purdue,REG (Conf),L 62-70,*,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,0,0,3,3.0,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+26,114,26,2011-02-20,Wisconsin,,Penn State,REG (Conf),W 76-66,*,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,3,0,3,1,0,0,1,0,2,2.1,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+27,115,27,2011-02-23,Wisconsin,@,Michigan,REG (Conf),W 53-52,*,24,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,0,1,0,1,0,0,0,3,2.3,A,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+28,116,28,2011-02-27,Wisconsin,,Northwestern,REG (Conf),W 78-63,*,35,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,6,6,1,1,0,1,0,6,7.2,H,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+29,117,29,2011-03-03,Wisconsin,@,Indiana,REG (Conf),W 77-67,*,24,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,2,3,1,0,0,0,1,2,2.2,A,1,1,tim-jarmusz-1,Tim Jarmusz,2011
+30,118,30,2011-03-06,Wisconsin,@,Ohio State,REG (Conf),L 65-93,*,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,0,1,3,1,0,2,3,0,-1.5,A,0,1,tim-jarmusz-1,Tim Jarmusz,2011
+31,119,31,2011-03-11,Wisconsin,N,Penn State,CTOURN,L 33-36,*,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,2,0,-1.5,N,0,0,tim-jarmusz-1,Tim Jarmusz,2011
+32,120,32,2011-03-17,Wisconsin,N,Belmont,ROUND-64,W 72-58,*,33,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,3,3,3,1,0,0,0,5,7.3,N,1,0,tim-jarmusz-1,Tim Jarmusz,2011
+33,121,33,2011-03-19,Wisconsin,N,Kansas State,ROUND-32,W 70-65,*,30,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,3,1,0,0,1,8,10.1,N,1,0,tim-jarmusz-1,Tim Jarmusz,2011
+34,122,34,2011-03-24,Wisconsin,N,Butler,ROUND-16,L 54-61,*,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,2,3,5,1,4,0,2,2,7,9.6,N,0,0,tim-jarmusz-1,Tim Jarmusz,2011

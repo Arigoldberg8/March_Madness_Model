@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2015-11-17,Pittsburgh,,St. Joseph's (IN),REG (Non-Conf),W 84-43,*,21,4,11,0.364,1,5,0.2,3,6,0.5,0.409,0,0,,0,3,3,1,0,2,0,1,9,5.5,H,1,1,james-robinson-2,James Robinson,2016
+2,105,2,2015-11-20,Pittsburgh,,Detroit Mercy,REG (Non-Conf),W 95-79,*,27,2,9,0.222,1,2,0.5,1,7,0.143,0.278,1,3,0.333,0,0,0,3,2,0,0,0,6,3.8,H,1,1,james-robinson-2,James Robinson,2016
+3,106,3,2015-11-25,Pittsburgh,,Cornell,REG (Non-Conf),W 93-49,*,19,0,6,0.0,0,4,0.0,0,2,0.0,0.0,0,0,,0,2,2,5,0,0,0,0,0,-0.1,H,1,1,james-robinson-2,James Robinson,2016
+4,107,4,2015-11-28,Pittsburgh,,Kent State,REG (Non-Conf),W 85-76,*,36,4,8,0.5,3,4,0.75,1,4,0.25,0.688,7,7,1.0,0,3,3,10,1,0,0,3,18,21.7,H,1,1,james-robinson-2,James Robinson,2016
+5,108,5,2015-12-01,Pittsburgh,,Purdue,REG (Non-Conf),L 59-72,*,36,6,11,0.545,2,6,0.333,4,5,0.8,0.636,3,4,0.75,0,2,2,4,1,1,4,4,17,10.8,H,0,1,james-robinson-2,James Robinson,2016
+6,109,6,2015-12-04,Pittsburgh,N,Duquesne,REG (Non-Conf),W 96-75,*,32,5,8,0.625,4,5,0.8,1,3,0.333,0.875,4,4,1.0,0,0,0,8,2,0,0,2,18,21.2,N,1,1,james-robinson-2,James Robinson,2016
+7,110,7,2015-12-06,Pittsburgh,,Central Arkansas,REG (Non-Conf),W 100-47,*,16,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,3,4,5,2,0,0,2,9,12.7,H,1,1,james-robinson-2,James Robinson,2016
+8,111,8,2015-12-11,Pittsburgh,,Eastern Washington,REG (Non-Conf),W 84-51,*,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,2,2,4,1,0,1,2,7,6.6,H,1,1,james-robinson-2,James Robinson,2016
+9,112,9,2015-12-13,Pittsburgh,,Morehead State,REG (Non-Conf),W 72-62,*,35,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,2,0.0,0,3,3,4,2,1,0,0,7,7.5,H,1,1,james-robinson-2,James Robinson,2016
+10,113,10,2015-12-20,Pittsburgh,N,Davidson,REG (Non-Conf),W 94-69,*,29,7,11,0.636,1,2,0.5,6,9,0.667,0.682,0,0,,0,7,7,6,4,0,2,1,15,18.0,N,1,1,james-robinson-2,James Robinson,2016
+11,114,11,2015-12-23,Pittsburgh,,Western Carolina,REG (Non-Conf),W 79-73,*,33,1,5,0.2,0,1,0.0,1,4,0.25,0.2,9,10,0.9,1,6,7,9,3,1,2,1,11,17.6,H,1,1,james-robinson-2,James Robinson,2016
+12,115,12,2015-12-30,Pittsburgh,,Syracuse,REG (Conf),W 72-61,*,26,2,9,0.222,1,5,0.2,1,4,0.25,0.278,3,4,0.75,1,0,1,4,0,1,1,3,8,4.1,H,1,1,james-robinson-2,James Robinson,2016
+13,116,13,2016-01-02,Pittsburgh,,Maryland Eastern Shore,REG (Non-Conf),W 92-58,*,24,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,0,2,2,4,0,0,1,1,8,7.4,H,1,1,james-robinson-2,James Robinson,2016
+14,117,14,2016-01-06,Pittsburgh,,Georgia Tech,REG (Conf),W 89-84,*,36,5,8,0.625,1,1,1.0,4,7,0.571,0.688,7,8,0.875,0,4,4,8,1,0,1,1,18,20.4,H,1,1,james-robinson-2,James Robinson,2016
+15,118,15,2016-01-09,Pittsburgh,@,Notre Dame,REG (Conf),W 86-82,*,34,2,10,0.2,0,2,0.0,2,8,0.25,0.2,2,2,1.0,0,3,3,6,0,0,0,3,6,3.7,A,1,1,james-robinson-2,James Robinson,2016
+16,119,16,2016-01-14,Pittsburgh,@,Louisville,REG (Conf),L 41-59,*,35,0,6,0.0,0,3,0.0,0,3,0.0,0.0,1,2,0.5,0,3,3,2,1,0,3,3,1,-4.5,A,0,1,james-robinson-2,James Robinson,2016
+17,120,17,2016-01-16,Pittsburgh,,Boston College,REG (Conf),W 84-61,*,34,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,1,0.0,1,2,3,2,2,0,2,2,10,6.1,H,1,1,james-robinson-2,James Robinson,2016
+18,121,18,2016-01-19,Pittsburgh,,NC State,REG (Conf),L 61-78,*,35,3,12,0.25,2,5,0.4,1,7,0.143,0.333,1,2,0.5,0,1,1,5,1,0,0,2,9,5.4,H,0,1,james-robinson-2,James Robinson,2016
+19,122,19,2016-01-23,Pittsburgh,@,Florida State,REG (Conf),W 74-72,*,36,4,9,0.444,3,5,0.6,1,4,0.25,0.611,3,4,0.75,1,2,3,5,2,1,2,1,14,14.0,A,1,1,james-robinson-2,James Robinson,2016
+20,123,20,2016-01-27,Pittsburgh,@,Clemson,REG (Conf),L 60-73,*,24,2,6,0.333,1,3,0.333,1,3,0.333,0.417,3,4,0.75,1,1,2,5,0,0,4,4,8,3.1,A,0,1,james-robinson-2,James Robinson,2016
+21,124,21,2016-01-31,Pittsburgh,,Virginia Tech,REG (Conf),W 90-71,*,34,3,8,0.375,0,3,0.0,3,5,0.6,0.375,2,2,1.0,0,1,1,11,0,1,0,3,8,11.1,H,1,1,james-robinson-2,James Robinson,2016
+22,125,22,2016-02-06,Pittsburgh,,Virginia,REG (Conf),L 50-64,*,26,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,0,2,2,6,1,0,0,2,0,0.1,H,0,1,james-robinson-2,James Robinson,2016
+23,126,23,2016-02-09,Pittsburgh,@,Miami (FL),REG (Conf),L 63-65,*,33,3,9,0.333,2,3,0.667,1,6,0.167,0.444,0,0,,1,2,3,4,1,0,2,2,8,5.2,A,0,1,james-robinson-2,James Robinson,2016
+24,127,24,2016-02-14,Pittsburgh,@,North Carolina,REG (Conf),L 64-85,*,32,6,19,0.316,2,7,0.286,4,12,0.333,0.368,1,3,0.333,1,3,4,2,1,0,3,1,15,3.9,A,0,1,james-robinson-2,James Robinson,2016
+25,128,25,2016-02-16,Pittsburgh,,Wake Forest,REG (Conf),W 101-96 (2OT),*,44,7,15,0.467,1,4,0.25,6,11,0.545,0.5,7,9,0.778,2,8,10,9,3,0,0,3,22,25.4,H,1,1,james-robinson-2,James Robinson,2016
+26,129,26,2016-02-20,Pittsburgh,@,Syracuse,REG (Conf),W 66-52,*,40,5,10,0.5,3,7,0.429,2,3,0.667,0.65,0,0,,0,2,2,5,1,0,3,3,13,8.9,A,1,1,james-robinson-2,James Robinson,2016
+27,130,27,2016-02-24,Pittsburgh,,Louisville,REG (Conf),L 60-67,*,38,4,9,0.444,0,2,0.0,4,7,0.571,0.444,4,4,1.0,0,3,3,3,2,0,0,2,12,11.5,H,0,1,james-robinson-2,James Robinson,2016
+28,131,28,2016-02-28,Pittsburgh,,Duke,REG (Conf),W 76-62,*,36,4,10,0.4,2,6,0.333,2,4,0.5,0.5,4,4,1.0,1,2,3,7,0,0,1,3,14,12.6,H,1,1,james-robinson-2,James Robinson,2016
+29,132,29,2016-03-02,Pittsburgh,@,Virginia Tech,REG (Conf),L 61-65,*,33,2,10,0.2,1,6,0.167,1,4,0.25,0.25,6,8,0.75,0,3,3,3,1,0,2,4,11,4.4,A,0,1,james-robinson-2,James Robinson,2016
+30,133,30,2016-03-05,Pittsburgh,@,Georgia Tech,REG (Conf),L 59-63,*,38,4,10,0.4,0,2,0.0,4,8,0.5,0.4,1,3,0.333,1,3,4,3,0,0,1,2,9,4.7,A,0,1,james-robinson-2,James Robinson,2016
+31,134,31,2016-03-09,Pittsburgh,N,Syracuse,CTOURN,W 72-71,*,35,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,3,0.667,1,2,3,4,2,0,2,3,12,11.2,N,1,0,james-robinson-2,James Robinson,2016
+32,135,32,2016-03-10,Pittsburgh,N,North Carolina,CTOURN,L 71-88,*,40,3,8,0.375,1,1,1.0,2,7,0.286,0.438,0,0,,0,1,1,5,1,0,4,1,7,3.0,N,0,0,james-robinson-2,James Robinson,2016
+33,136,33,2016-03-18,Pittsburgh,N,Wisconsin,ROUND-64,L 43-47,*,38,3,15,0.2,0,3,0.0,3,12,0.25,0.2,1,2,0.5,1,10,11,4,0,0,1,2,7,2.0,N,0,0,james-robinson-2,James Robinson,2016

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Iowa State,,Alabama State,REG (Non-Conf),W 79-53,*,21,3,12,0.25,0,5,0.0,3,7,0.429,0.25,0,0,,0,3,3,4,3,1,2,2,6,3.4,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+2,2,2,2018-11-09,Iowa State,,Missouri,REG (Non-Conf),W 76-59,*,33,2,8,0.25,2,5,0.4,0,3,0.0,0.375,6,8,0.75,0,3,3,0,1,0,2,2,12,5.5,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+3,3,3,2018-11-12,Iowa State,,Texas Southern,REG (Non-Conf),W 85-73,*,33,8,14,0.571,5,9,0.556,3,5,0.6,0.75,5,6,0.833,0,5,5,1,4,0,2,3,26,22.0,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+4,4,4,2018-11-19,Iowa State,N,Arizona,REG (Non-Conf),L 66-71,*,33,5,13,0.385,0,4,0.0,5,9,0.556,0.385,6,8,0.75,0,7,7,0,0,0,1,3,16,8.0,N,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+5,5,5,2018-11-20,Iowa State,N,Illinois,REG (Non-Conf),W 84-68,*,35,8,14,0.571,4,7,0.571,4,7,0.571,0.714,6,7,0.857,4,10,14,6,1,3,2,2,26,29.3,N,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+6,6,6,2018-11-21,Iowa State,N,San Diego State,REG (Non-Conf),W 87-57,*,31,1,11,0.091,0,4,0.0,1,7,0.143,0.091,2,3,0.667,0,7,7,5,2,0,0,1,4,3.5,N,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+7,7,7,2018-11-26,Iowa State,,Omaha,REG (Non-Conf),W 82-55,*,27,6,14,0.429,2,7,0.286,4,7,0.571,0.5,0,1,0.0,1,5,6,1,5,0,3,2,14,10.3,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+8,8,8,2018-12-03,Iowa State,,North Dakota State,REG (Non-Conf),W 81-59,*,30,5,16,0.313,1,5,0.2,4,11,0.364,0.344,1,1,1.0,0,3,3,2,1,1,2,3,12,3.6,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+9,9,9,2018-12-06,Iowa State,@,Iowa,REG (Non-Conf),L 84-98,*,28,9,19,0.474,0,4,0.0,9,15,0.6,0.474,3,4,0.75,2,4,6,2,2,0,3,4,21,12.3,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+10,10,10,2018-12-09,Iowa State,,Southern,REG (Non-Conf),W 101-65,*,29,7,9,0.778,2,3,0.667,5,6,0.833,0.889,1,2,0.5,1,4,5,4,0,1,2,1,17,16.1,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+11,11,11,2018-12-15,Iowa State,N,Drake,REG (Non-Conf),W 77-68,*,33,6,14,0.429,1,5,0.2,5,9,0.556,0.464,2,5,0.4,2,7,9,4,1,0,1,3,15,11.5,N,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+12,12,12,2018-12-21,Iowa State,,Eastern Illinois,REG (Non-Conf),W 101-53,*,27,3,8,0.375,1,4,0.25,2,4,0.5,0.438,1,3,0.333,1,4,5,8,0,3,1,1,8,11.0,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+13,13,13,2019-01-02,Iowa State,@,Oklahoma State,REG (Conf),W 69-63,*,15,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,3,4,2,0,1,0,3,0,-0.3,A,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+14,14,14,2019-01-05,Iowa State,,Kansas,REG (Conf),W 77-60,*,30,2,9,0.222,0,4,0.0,2,5,0.4,0.222,0,0,,0,0,0,5,1,0,0,2,4,2.2,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+15,15,15,2019-01-08,Iowa State,@,Baylor,REG (Conf),L 70-73,*,30,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,5,5,2,0,1,1,2,8,7.5,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+16,16,16,2019-01-12,Iowa State,,Kansas State,REG (Conf),L 57-58,*,19,3,8,0.375,2,4,0.5,1,4,0.25,0.5,0,0,,1,2,3,0,1,1,1,2,8,4.8,H,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+17,17,17,2019-01-16,Iowa State,@,Texas Tech,REG (Conf),W 68-64,*,24,3,9,0.333,0,4,0.0,3,5,0.6,0.333,1,4,0.25,0,8,8,3,1,0,1,1,7,4.8,A,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+18,18,18,2019-01-19,Iowa State,,Oklahoma State,REG (Conf),W 72-59,*,22,1,7,0.143,0,2,0.0,1,5,0.2,0.143,5,6,0.833,1,3,4,2,2,1,2,1,7,5.4,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+19,19,19,2019-01-21,Iowa State,@,Kansas,REG (Conf),L 76-80,*,26,6,15,0.4,4,8,0.5,2,7,0.286,0.533,0,2,0.0,1,2,3,2,0,0,2,5,16,5.8,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+20,20,20,2019-01-26,Iowa State,@,Ole Miss,REG (Non-Conf),W 87-73,*,34,11,18,0.611,1,4,0.25,10,14,0.714,0.639,0,1,0.0,0,8,8,5,1,0,3,1,23,17.9,A,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+21,21,21,2019-01-30,Iowa State,,West Virginia,REG (Conf),W 93-68,*,23,4,10,0.4,1,3,0.333,3,7,0.429,0.45,0,0,,0,4,4,2,0,1,1,2,9,5.1,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+22,22,22,2019-02-02,Iowa State,,Texas,REG (Conf),W 65-60,*,34,6,13,0.462,3,6,0.5,3,7,0.429,0.577,0,0,,0,6,6,2,3,0,1,1,15,13.1,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+23,23,23,2019-02-04,Iowa State,@,Oklahoma,REG (Conf),W 75-74,*,31,5,13,0.385,0,3,0.0,5,10,0.5,0.385,1,4,0.25,1,6,7,0,2,1,2,3,11,4.7,A,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+24,24,24,2019-02-09,Iowa State,,TCU,REG (Conf),L 83-92,*,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,3,3,4,0,0,2,4,4,0.3,H,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+25,25,25,2019-02-16,Iowa State,@,Kansas State,REG (Conf),W 78-64,*,28,7,11,0.636,6,9,0.667,1,2,0.5,0.909,0,0,,1,2,3,2,1,0,1,3,20,16.6,A,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+26,26,26,2019-02-19,Iowa State,,Baylor,REG (Conf),L 69-73,*,23,3,9,0.333,1,4,0.25,2,5,0.4,0.389,0,0,,1,6,7,1,1,1,0,0,7,6.8,H,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+27,27,27,2019-02-23,Iowa State,@,TCU,REG (Conf),L 72-75,*,33,6,15,0.4,0,5,0.0,6,10,0.6,0.4,2,2,1.0,1,8,9,1,5,1,4,3,14,10.2,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+28,28,28,2019-02-25,Iowa State,,Oklahoma,REG (Conf),W 78-61,*,23,6,10,0.6,2,5,0.4,4,5,0.8,0.7,4,6,0.667,0,3,3,5,2,0,4,3,18,13.8,H,1,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+29,29,29,2019-03-02,Iowa State,@,Texas,REG (Conf),L 69-86,*,20,1,10,0.1,0,3,0.0,1,7,0.143,0.1,3,4,0.75,1,1,2,1,0,0,1,4,5,-2.9,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+30,30,30,2019-03-06,Iowa State,@,West Virginia,REG (Conf),L 75-90,*,31,4,10,0.4,2,4,0.5,2,6,0.333,0.5,1,2,0.5,1,2,3,1,1,0,4,2,11,3.4,A,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+31,31,31,2019-03-09,Iowa State,,Texas Tech,REG (Conf),L 73-80,,27,5,9,0.556,2,4,0.5,3,5,0.6,0.667,1,1,1.0,1,1,2,2,0,0,2,2,13,8.3,H,0,1,talen-horton-tucker-1,Talen Horton-Tucker,2019
+32,32,32,2019-03-14,Iowa State,N,Baylor,CTOURN,W 83-66,*,35,8,15,0.533,5,9,0.556,3,6,0.5,0.7,0,1,0.0,0,4,4,2,1,3,0,2,21,18.2,N,1,0,talen-horton-tucker-1,Talen Horton-Tucker,2019
+33,33,33,2019-03-15,Iowa State,N,Kansas State,CTOURN,W 63-59,*,25,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,0,,1,2,3,0,1,3,3,2,6,0.8,N,1,0,talen-horton-tucker-1,Talen Horton-Tucker,2019
+34,34,34,2019-03-16,Iowa State,N,Kansas,CTOURN,W 78-66,*,22,2,8,0.25,0,2,0.0,2,6,0.333,0.25,4,6,0.667,0,5,5,1,2,0,2,2,8,3.8,N,1,0,talen-horton-tucker-1,Talen Horton-Tucker,2019
+35,35,35,2019-03-22,Iowa State,N,Ohio State,ROUND-64,L 59-62,*,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,0,0,0,2,2,2,-4.3,N,0,0,talen-horton-tucker-1,Talen Horton-Tucker,2019

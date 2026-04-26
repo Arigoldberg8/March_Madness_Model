@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2016-11-11,Virginia Tech,,Maine,REG (Non-Conf),W 80-67,*,30,5,11,0.455,3,6,0.5,2,5,0.4,0.591,1,1,1.0,0,3,3,1,0,0,1,1,14,8.5,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+2,35,2,2016-11-15,Virginia Tech,,High Point,REG (Non-Conf),W 99-73,*,34,7,12,0.583,6,11,0.545,1,1,1.0,0.833,0,2,0.0,0,3,3,4,2,0,0,1,20,18.9,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+3,36,3,2016-11-19,Virginia Tech,,VMI,REG (Non-Conf),W 88-72,*,19,2,6,0.333,1,4,0.25,1,2,0.5,0.417,1,3,0.333,0,0,0,0,0,0,0,4,6,0.2,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+4,37,4,2016-11-24,Virginia Tech,N,New Mexico,REG (Non-Conf),W 92-72,*,31,6,11,0.545,3,7,0.429,3,4,0.75,0.682,3,3,1.0,0,2,2,3,0,0,0,3,18,14.2,N,1,1,ahmed-hill-1,Ahmed Hill,2017
+5,38,5,2016-11-25,Virginia Tech,N,Texas A&M,REG (Non-Conf),L 65-68,*,29,6,14,0.429,6,11,0.545,0,3,0.0,0.643,0,0,,0,5,5,0,1,1,0,2,18,13.0,N,0,1,ahmed-hill-1,Ahmed Hill,2017
+6,39,6,2016-11-27,Virginia Tech,N,Nebraska,REG (Non-Conf),W 66-53,*,34,3,8,0.375,1,3,0.333,2,5,0.4,0.438,5,6,0.833,0,1,1,1,0,0,2,4,12,4.6,N,1,1,ahmed-hill-1,Ahmed Hill,2017
+7,40,7,2016-11-30,Virginia Tech,@,Michigan,REG (Non-Conf),W 73-70,*,21,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,2,2,4,0,0,0,3,5,7,-0.4,A,1,1,ahmed-hill-1,Ahmed Hill,2017
+8,41,8,2016-12-07,Virginia Tech,,Maryland Eastern Shore,REG (Non-Conf),W 75-59,*,30,1,6,0.167,1,5,0.2,0,1,0.0,0.25,1,2,0.5,0,4,4,2,0,0,3,2,4,-1.4,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+9,42,9,2016-12-11,Virginia Tech,,Ole Miss,REG (Non-Conf),W 80-75,*,34,5,10,0.5,3,6,0.5,2,4,0.5,0.65,7,10,0.7,3,6,9,3,1,0,1,0,20,19.8,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+10,43,10,2016-12-17,Virginia Tech,,The Citadel,REG (Non-Conf),W 113-71,*,33,8,12,0.667,4,6,0.667,4,6,0.667,0.833,2,2,1.0,0,8,8,4,0,0,2,1,22,19.6,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+11,44,11,2016-12-20,Virginia Tech,,Charleston Southern,REG (Non-Conf),W 87-59,*,32,5,12,0.417,2,6,0.333,3,6,0.5,0.5,8,8,1.0,0,2,2,1,0,1,0,3,20,14.4,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+12,45,12,2016-12-28,Virginia Tech,,UMBC,REG (Non-Conf),W 87-70,*,32,6,11,0.545,3,8,0.375,3,3,1.0,0.682,3,5,0.6,0,5,5,1,2,1,0,2,18,16.0,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+13,46,13,2016-12-31,Virginia Tech,,Duke,REG (Conf),W 89-75,*,36,6,15,0.4,2,4,0.5,4,11,0.364,0.467,3,5,0.6,1,2,3,2,0,0,1,3,17,8.6,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+14,47,14,2017-01-04,Virginia Tech,@,NC State,REG (Conf),L 78-104,*,33,5,11,0.455,4,10,0.4,1,1,1.0,0.636,3,4,0.75,0,1,1,2,0,0,2,4,17,9.0,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+15,48,15,2017-01-07,Virginia Tech,@,Florida State,REG (Conf),L 78-93,*,37,6,11,0.545,4,6,0.667,2,5,0.4,0.727,3,6,0.5,1,5,6,0,0,1,3,4,19,10.8,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+16,49,16,2017-01-10,Virginia Tech,,Syracuse,REG (Conf),W 83-73,*,35,4,11,0.364,3,7,0.429,1,4,0.25,0.5,2,2,1.0,1,3,4,3,0,0,1,2,13,8.8,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+17,50,17,2017-01-14,Virginia Tech,,Notre Dame,REG (Conf),L 71-76,*,28,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,4,4,0,0,0,1,4,2,-2.5,H,0,1,ahmed-hill-1,Ahmed Hill,2017
+18,51,18,2017-01-18,Virginia Tech,,Georgia Tech,REG (Conf),W 62-61,*,19,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,0,0,1,0,0,1,4,4,-2.0,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+19,52,19,2017-01-22,Virginia Tech,@,Clemson,REG (Conf),W 82-81,,24,4,7,0.571,1,3,0.333,3,4,0.75,0.643,2,2,1.0,0,3,3,0,1,0,0,1,11,9.2,A,1,1,ahmed-hill-1,Ahmed Hill,2017
+20,53,20,2017-01-26,Virginia Tech,@,North Carolina,REG (Conf),L 72-91,,18,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,3,0.333,0,1,1,0,0,0,0,1,3,-1.0,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+21,54,21,2017-01-29,Virginia Tech,,Boston College,REG (Conf),W 85-79,,23,2,3,0.667,1,1,1.0,1,2,0.5,0.833,5,6,0.833,0,3,3,1,0,0,2,1,10,7.5,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+22,55,22,2017-02-01,Virginia Tech,@,Virginia,REG (Conf),L 48-71,,24,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,0,0,0,2,1,2,-3.2,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+23,56,23,2017-02-08,Virginia Tech,@,Miami (FL),REG (Conf),L 68-74,*,32,3,9,0.333,1,5,0.2,2,4,0.5,0.389,5,5,1.0,1,4,5,1,0,0,2,1,12,7.1,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+24,57,24,2017-02-12,Virginia Tech,,Virginia,REG (Conf),W 80-78 (2OT),*,44,3,9,0.333,0,4,0.0,3,5,0.6,0.333,3,4,0.75,0,6,6,1,0,0,3,2,9,2.2,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+25,58,25,2017-02-14,Virginia Tech,@,Pittsburgh,REG (Conf),W 66-63,*,37,5,9,0.556,3,6,0.5,2,3,0.667,0.722,4,4,1.0,0,3,3,0,0,0,1,1,17,12.2,A,1,1,ahmed-hill-1,Ahmed Hill,2017
+26,59,26,2017-02-18,Virginia Tech,@,Louisville,REG (Conf),L 90-94,*,32,4,7,0.571,2,4,0.5,2,3,0.667,0.714,1,3,0.333,0,3,3,3,0,0,0,1,11,9.5,A,0,1,ahmed-hill-1,Ahmed Hill,2017
+27,60,27,2017-02-21,Virginia Tech,,Clemson,REG (Conf),W 71-70,*,34,5,6,0.833,2,2,1.0,3,4,0.75,1.0,0,0,,0,2,2,1,0,0,1,1,12,9.7,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+28,61,28,2017-02-25,Virginia Tech,@,Boston College,REG (Conf),W 91-75,*,27,5,6,0.833,1,2,0.5,4,4,1.0,0.917,1,1,1.0,0,1,1,0,0,1,2,2,12,8.0,A,1,1,ahmed-hill-1,Ahmed Hill,2017
+29,62,29,2017-02-27,Virginia Tech,,Miami (FL),REG (Conf),W 66-61,*,31,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,4,0.5,0,0,0,2,1,0,0,4,7,2.9,H,1,1,ahmed-hill-1,Ahmed Hill,2017
+30,63,30,2017-03-04,Virginia Tech,,Wake Forest,REG (Conf),L 84-89,,20,0,5,0.0,0,5,0.0,0,0,,0.0,2,2,1.0,0,4,4,1,0,0,0,3,2,-0.8,H,0,1,ahmed-hill-1,Ahmed Hill,2017
+31,64,31,2017-03-08,Virginia Tech,N,Wake Forest,CTOURN,W 99-90,*,36,5,9,0.556,1,5,0.2,4,4,1.0,0.611,1,1,1.0,1,4,5,1,0,1,0,2,12,10.2,N,1,0,ahmed-hill-1,Ahmed Hill,2017
+32,65,32,2017-03-09,Virginia Tech,N,Florida State,CTOURN,L 68-74,*,28,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,3,3,0,0,0,1,2,3,0.4,N,0,0,ahmed-hill-1,Ahmed Hill,2017
+33,66,33,2017-03-16,Virginia Tech,N,Wisconsin,ROUND-64,L 74-84,*,22,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,1,0,0,2,2,4,-0.6,N,0,0,ahmed-hill-1,Ahmed Hill,2017

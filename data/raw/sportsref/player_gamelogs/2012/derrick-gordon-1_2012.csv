@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Western Kentucky,,Saint Joseph's,REG (Non-Conf),L 61-72,*,28,4,16,0.25,1,4,0.25,3,12,0.25,0.281,16,18,0.889,5,3,8,3,1,0,3,2,25,18.3,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+2,2,2,2011-11-14,Western Kentucky,,Tennessee State,REG (Non-Conf),W 52-49,*,36,4,9,0.444,0,3,0.0,4,6,0.667,0.444,2,2,1.0,0,5,5,2,1,0,9,2,10,-0.6,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+3,3,3,2011-11-17,Western Kentucky,N,Tulsa,REG (Non-Conf),L 49-65,*,34,2,12,0.167,2,6,0.333,0,6,0.0,0.25,0,0,,4,5,9,3,1,0,1,3,6,3.6,N,0,1,derrick-gordon-1,Derrick Gordon,2012
+4,4,4,2011-11-18,Western Kentucky,N,Louisiana State,REG (Non-Conf),L 57-76,*,31,1,9,0.111,0,4,0.0,1,5,0.2,0.111,2,4,0.5,2,3,5,3,1,1,7,4,4,-5.2,N,0,1,derrick-gordon-1,Derrick Gordon,2012
+5,5,5,2011-11-20,Western Kentucky,N,VCU,REG (Non-Conf),L 64-69,*,32,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,5,5,2,1,0,3,3,9,4.0,N,0,1,derrick-gordon-1,Derrick Gordon,2012
+6,6,6,2011-11-23,Western Kentucky,,VCU,REG (Non-Conf),L 45-68,*,31,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,2,0.5,1,3,4,2,0,0,2,1,12,8.6,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+7,7,7,2011-11-26,Western Kentucky,,Southeastern Louisiana,REG (Non-Conf),W 72-67,*,36,3,7,0.429,0,1,0.0,3,6,0.5,0.429,8,8,1.0,2,1,3,2,1,0,3,2,14,10.6,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+8,8,8,2011-12-01,Western Kentucky,,Murray State,REG (Non-Conf),L 59-70,*,32,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,2,2,2,0,1,3,2,6,2.2,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+9,9,9,2011-12-04,Western Kentucky,,Bowling Green,REG (Non-Conf),W 60-53,*,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,0,6,6,0,0,1,3,1,8,2.9,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+10,10,10,2011-12-07,Western Kentucky,@,Southern Illinois,REG (Non-Conf),W 62-55,*,33,5,9,0.556,1,2,0.5,4,7,0.571,0.611,3,4,0.75,2,11,13,2,2,0,5,2,14,11.6,A,1,1,derrick-gordon-1,Derrick Gordon,2012
+11,11,11,2011-12-10,Western Kentucky,@,IUPUI,REG (Non-Conf),L 76-84,*,33,3,10,0.3,2,3,0.667,1,7,0.143,0.4,0,0,,1,7,8,2,0,1,0,3,8,5.9,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+12,12,12,2011-12-17,Western Kentucky,,Furman,REG (Non-Conf),L 63-76,*,34,2,7,0.286,1,2,0.5,1,5,0.2,0.357,7,14,0.5,6,3,9,3,1,0,0,3,12,12.1,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+13,13,13,2011-12-23,Western Kentucky,@,Louisville,REG (Non-Conf),L 60-70,*,38,5,14,0.357,0,2,0.0,5,12,0.417,0.357,3,6,0.5,4,5,9,5,0,1,3,4,13,7.9,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+14,14,14,2011-12-29,Western Kentucky,@,Louisiana–Monroe,REG (Conf),W 76-71 (OT),*,42,3,9,0.333,1,2,0.5,2,7,0.286,0.389,6,7,0.857,2,5,7,2,3,0,6,2,13,8.0,A,1,1,derrick-gordon-1,Derrick Gordon,2012
+15,15,15,2011-12-31,Western Kentucky,,Florida International,REG (Conf),L 63-81,*,32,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,3,0.667,1,7,8,4,1,0,3,2,11,8.7,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+16,16,16,2012-01-05,Western Kentucky,,Louisiana–Lafayette,REG (Conf),L 70-72 (OT),*,37,6,16,0.375,1,4,0.25,5,12,0.417,0.406,7,9,0.778,1,8,9,1,0,0,0,0,20,14.2,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+17,17,17,2012-01-07,Western Kentucky,,Troy,REG (Conf),L 65-67,*,35,5,13,0.385,1,4,0.25,4,9,0.444,0.423,5,9,0.556,4,2,6,3,3,0,5,2,16,10.0,H,0,1,derrick-gordon-1,Derrick Gordon,2012
+18,18,18,2012-01-12,Western Kentucky,@,North Texas,REG (Conf),L 67-84,*,34,8,14,0.571,4,5,0.8,4,9,0.444,0.714,0,1,0.0,0,3,3,0,1,0,2,3,20,11.7,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+19,19,19,2012-01-15,Western Kentucky,@,Denver,REG (Conf),L 65-78,*,28,1,7,0.143,0,2,0.0,1,5,0.2,0.143,4,4,1.0,0,2,2,1,0,0,3,5,6,-2.2,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+20,20,20,2012-01-21,Western Kentucky,,Little Rock,REG (Conf),W 65-53,*,34,4,12,0.333,0,4,0.0,4,8,0.5,0.333,5,6,0.833,2,3,5,2,0,1,2,1,13,7.8,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+21,21,21,2012-01-26,Western Kentucky,@,Florida Atlantic,REG (Conf),L 66-67,*,37,5,10,0.5,1,1,1.0,4,9,0.444,0.55,5,6,0.833,1,3,4,0,1,0,3,2,16,9.4,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+22,22,22,2012-01-28,Western Kentucky,@,Florida International,REG (Conf),W 61-51,*,24,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,1,5,6,0,1,0,3,5,8,3.5,A,1,1,derrick-gordon-1,Derrick Gordon,2012
+23,23,23,2012-02-04,Western Kentucky,,South Alabama,REG (Conf),W 75-66,*,33,2,10,0.2,0,2,0.0,2,8,0.25,0.2,0,2,0.0,2,4,6,1,0,1,0,1,4,0.6,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+24,24,24,2012-02-09,Western Kentucky,@,Middle Tennessee,REG (Conf),L 64-72,*,35,2,11,0.182,1,1,1.0,1,10,0.1,0.227,4,4,1.0,1,6,7,6,0,0,0,2,9,8.0,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+25,25,25,2012-02-11,Western Kentucky,@,Troy,REG (Conf),L 77-83,*,25,2,10,0.2,0,3,0.0,2,7,0.286,0.2,3,5,0.6,1,3,4,4,0,0,3,3,7,0.2,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+26,26,26,2012-02-16,Western Kentucky,,Florida Atlantic,REG (Conf),W 64-57,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,3,5,0.6,6,6,12,0,0,0,3,1,13,10.5,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+27,27,27,2012-02-18,Western Kentucky,@,South Alabama,REG (Conf),L 61-66,*,35,6,13,0.462,1,3,0.333,5,10,0.5,0.5,3,4,0.75,3,6,9,1,0,0,4,4,16,7.9,A,0,1,derrick-gordon-1,Derrick Gordon,2012
+28,28,28,2012-02-23,Western Kentucky,,Arkansas State,REG (Conf),W 79-76,*,33,4,8,0.5,0,1,0.0,4,7,0.571,0.5,8,10,0.8,0,4,4,6,1,0,1,2,16,15.8,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+29,29,29,2012-02-25,Western Kentucky,,Middle Tennessee,REG (Conf),W 73-67,*,33,1,6,0.167,0,1,0.0,1,5,0.2,0.167,9,10,0.9,1,5,6,1,1,0,3,1,11,7.3,H,1,1,derrick-gordon-1,Derrick Gordon,2012
+30,30,30,2012-03-03,Western Kentucky,N,Florida International,CTOURN,W 67-63,*,34,2,8,0.25,1,4,0.25,1,4,0.25,0.313,4,7,0.571,2,8,10,1,1,1,3,1,9,5.8,N,1,0,derrick-gordon-1,Derrick Gordon,2012
+31,31,31,2012-03-04,Western Kentucky,N,Little Rock,CTOURN,W 68-63,*,38,9,14,0.643,1,4,0.25,8,10,0.8,0.679,6,14,0.429,2,13,15,2,0,0,0,0,25,22.3,N,1,0,derrick-gordon-1,Derrick Gordon,2012
+32,32,32,2012-03-05,Western Kentucky,N,Denver,CTOURN,W 67-63,*,37,0,5,0.0,0,1,0.0,0,4,0.0,0.0,7,12,0.583,0,6,6,2,1,1,2,1,7,4.0,N,1,0,derrick-gordon-1,Derrick Gordon,2012
+33,33,33,2012-03-06,Western Kentucky,N,North Texas,CTOURN,W 74-70,*,38,3,9,0.333,1,3,0.333,2,6,0.333,0.389,1,2,0.5,3,2,5,1,2,0,3,4,8,3.3,N,1,0,derrick-gordon-1,Derrick Gordon,2012
+34,34,34,2012-03-13,Western Kentucky,N,Mississippi Valley State,FIRST-FOUR,W 59-58,*,37,4,13,0.308,0,4,0.0,4,9,0.444,0.308,3,8,0.375,4,7,11,3,1,0,6,4,11,1.9,N,1,0,derrick-gordon-1,Derrick Gordon,2012
+35,35,35,2012-03-15,Western Kentucky,N,Kentucky,ROUND-64,L 66-81,*,36,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,0,5,5,0,0,0,0,1,12,7.8,N,0,0,derrick-gordon-1,Derrick Gordon,2012

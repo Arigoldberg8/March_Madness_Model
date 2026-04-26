@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Gonzaga,,Texas Southern,REG (Non-Conf),W 98-43,,19,2,8,0.25,1,3,0.333,1,5,0.2,0.313,3,4,0.75,1,1,2,3,1,0,1,3,8,4.7,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+2,2,2,2025-11-08,Gonzaga,,Oklahoma,REG (Non-Conf),W 83-68,,26,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,3,0.333,1,3,4,6,3,0,2,3,8,9.1,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+3,3,3,2025-11-11,Gonzaga,,Creighton,REG (Non-Conf),W 90-63,,18,5,6,0.833,2,2,1.0,3,4,0.75,1.0,1,1,1.0,0,4,4,3,2,1,1,3,13,14.6,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+4,4,4,2025-11-14,Gonzaga,@,Arizona State,REG (Non-Conf),W 77-65,,14,0,3,0.0,0,0,,0,3,0.0,0.0,4,4,1.0,1,4,5,1,0,0,1,1,4,3.1,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+5,5,5,2025-11-17,Gonzaga,,Southern Utah,REG (Non-Conf),W 122-50,*,22,5,7,0.714,3,3,1.0,2,4,0.5,0.929,3,3,1.0,1,0,1,7,6,0,2,2,16,21.9,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+6,6,6,2025-11-24,Gonzaga,N,Alabama,REG (Non-Conf),W 95-85,*,32,0,2,0.0,0,1,0.0,0,1,0.0,0.0,10,11,0.909,0,5,5,6,1,0,3,0,10,11.9,N,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+7,7,7,2025-11-25,Gonzaga,N,Maryland,REG (Non-Conf),W 100-61,*,22,2,6,0.333,1,5,0.2,1,1,1.0,0.417,0,0,,1,2,3,9,0,0,2,2,5,6.4,N,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+8,8,8,2025-11-26,Gonzaga,N,Michigan,REG (Non-Conf),L 61-101,*,24,2,9,0.222,1,3,0.333,1,6,0.167,0.278,0,0,,1,2,3,6,2,0,1,1,5,5.6,N,0,1,mario-saint-supery-1,Mario Saint-Supery,2026
+9,9,9,2025-12-05,Gonzaga,N,Kentucky,REG (Non-Conf),W 94-59,*,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,3,3,2,0,0,1,2,6,3.8,N,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+10,10,10,2025-12-07,Gonzaga,,North Florida,REG (Non-Conf),W 109-58,*,20,4,4,1.0,4,4,1.0,0,0,,1.5,1,1,1.0,0,3,3,7,2,0,2,1,13,17.2,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+11,11,11,2025-12-13,Gonzaga,N,UCLA,REG (Non-Conf),W 82-72,*,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,3,1.0,0,4,4,1,1,0,1,2,12,10.5,N,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+12,12,12,2025-12-17,Gonzaga,,Campbell,REG (Non-Conf),W 98-70,*,23,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,2,2,5,0,0,2,1,4,2.3,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+13,13,13,2025-12-21,Gonzaga,N,Oregon,REG (Non-Conf),W 91-82,*,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,1,0,1,0,0,0.7,N,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+14,14,14,2025-12-28,Gonzaga,@,Pepperdine,REG (Conf),W 96-56,,18,1,7,0.143,1,2,0.5,0,5,0.0,0.214,2,2,1.0,1,3,4,4,1,0,4,5,5,-0.1,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+15,15,15,2025-12-30,Gonzaga,@,San Diego,REG (Conf),W 99-93,,22,3,9,0.333,3,6,0.5,0,3,0.0,0.5,5,6,0.833,0,3,3,5,2,0,0,0,14,14.9,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+16,16,16,2026-01-02,Gonzaga,,Seattle,REG (Conf),W 80-72 (OT),,15,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,0,0,2,0,0,1,3,0,-4.3,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+17,17,17,2026-01-04,Gonzaga,,Loyola Marymount,REG (Conf),W 82-47,,25,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,2,1.0,0,2,2,5,1,0,1,1,13,13.8,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+18,18,18,2026-01-08,Gonzaga,,Santa Clara,REG (Conf),W 89-77,,21,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,0,1,1,4,2,0,1,3,6,4.1,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+19,19,19,2026-01-15,Gonzaga,@,Washington State,REG (Conf),W 86-65,,15,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,5,0.6,0,3,3,0,1,0,1,1,7,4.0,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+20,20,20,2026-01-17,Gonzaga,@,Seattle,REG (Conf),W 71-50,,24,7,10,0.7,4,6,0.667,3,4,0.75,0.9,2,2,1.0,0,1,1,4,2,0,3,1,20,17.5,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+21,21,21,2026-01-21,Gonzaga,,Pepperdine,REG (Conf),W 84-60,,20,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,2,1.0,1,4,5,1,5,0,1,3,12,14.1,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+22,22,22,2026-01-24,Gonzaga,,San Francisco,REG (Conf),W 68-66,,20,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,1,2,3,2,2,0,4,0,6,3.3,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+23,23,23,2026-01-31,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-65,,25,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,4,1.0,1,2,3,5,1,0,2,1,9,10.4,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+24,24,24,2026-02-04,Gonzaga,@,Portland,REG (Conf),L 80-87,,23,4,10,0.4,4,8,0.5,0,2,0.0,0.6,0,0,,0,0,0,2,0,0,0,3,12,6.8,A,0,1,mario-saint-supery-1,Mario Saint-Supery,2026
+25,25,25,2026-02-07,Gonzaga,@,Oregon State,REG (Conf),W 81-61,,26,2,9,0.222,1,3,0.333,1,6,0.167,0.278,0,0,,1,0,1,5,0,0,0,2,5,2.9,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+26,26,26,2026-02-10,Gonzaga,,Washington State,REG (Conf),W 83-53,,19,5,5,1.0,1,1,1.0,4,4,1.0,1.1,0,0,,0,2,2,1,2,0,1,2,11,11.0,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+27,27,27,2026-02-14,Gonzaga,@,Santa Clara,REG (Conf),W 94-86,,33,3,7,0.429,0,4,0.0,3,3,1.0,0.429,2,2,1.0,1,3,4,5,0,0,2,1,8,7.0,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+28,28,28,2026-02-18,Gonzaga,@,San Francisco,REG (Conf),W 80-59,*,33,4,6,0.667,2,3,0.667,2,3,0.667,0.833,4,4,1.0,0,4,4,6,2,1,1,3,14,17.3,A,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+29,29,29,2026-02-21,Gonzaga,,Pacific,REG (Conf),W 71-62,*,25,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,1,5,6,1,1,1,0,0,2,2.1,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+30,30,30,2026-02-25,Gonzaga,,Portland,REG (Conf),W 89-48,*,26,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,1,1,2,0,0,0,1,12,10.0,H,1,1,mario-saint-supery-1,Mario Saint-Supery,2026
+31,31,31,2026-02-28,Gonzaga,@,St. Mary's (CA),REG (Conf),L 59-70,*,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,3,3,1,0,0,2,2,0,-4.0,A,0,1,mario-saint-supery-1,Mario Saint-Supery,2026
+32,32,32,2026-03-09,Gonzaga,N,Oregon State,CTOURN,W 65-56,*,20,1,5,0.2,0,4,0.0,1,1,1.0,0.2,2,3,0.667,1,1,2,3,4,0,1,2,4,5.8,N,1,0,mario-saint-supery-1,Mario Saint-Supery,2026
+33,33,33,2026-03-10,Gonzaga,N,Santa Clara,CTOURN,W 79-68,*,31,6,12,0.5,6,12,0.5,0,0,,0.75,3,4,0.75,0,5,5,4,0,1,3,3,21,15.4,N,1,0,mario-saint-supery-1,Mario Saint-Supery,2026

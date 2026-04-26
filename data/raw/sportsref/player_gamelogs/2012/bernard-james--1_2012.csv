@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2011-11-11,Florida State,,Jacksonville,REG (Non-Conf),W 79-67,*,15,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,2,1,3,0,1,0,1,1,1,-0.2,H,1,1,bernard-james--1,Bernard James,2012
+2,36,2,2011-11-14,Florida State,,UCF,REG (Non-Conf),W 73-50,*,30,8,9,0.889,0,0,8,9,0.889,0.889,2,8,0.25,5,6,11,2,1,3,2,1,18,19.9,H,1,1,bernard-james--1,Bernard James,2012
+3,37,3,2011-11-16,Florida State,,Stetson,REG (Non-Conf),W 79-66,*,28,7,8,0.875,0,0,7,8,0.875,0.875,1,2,0.5,2,9,11,0,0,2,1,2,15,15.5,H,1,1,bernard-james--1,Bernard James,2012
+4,38,4,2011-11-20,Florida State,,South Alabama,REG (Non-Conf),W 80-39,*,21,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,2,6,8,0,0,3,4,2,6,5.6,H,1,1,bernard-james--1,Bernard James,2012
+5,39,5,2011-11-24,Florida State,N,Massachusetts,REG (Non-Conf),W 73-53,*,22,2,8,0.25,0,0,2,8,0.25,0.25,5,6,0.833,2,5,7,0,1,5,1,2,9,9.4,N,1,1,bernard-james--1,Bernard James,2012
+6,40,6,2011-11-25,Florida State,N,Harvard,REG (Non-Conf),L 41-46,*,32,2,8,0.25,0,0,2,8,0.25,0.25,1,2,0.5,3,3,6,0,2,3,3,3,5,2.7,N,0,1,bernard-james--1,Bernard James,2012
+7,41,7,2011-11-26,Florida State,N,Connecticut,REG (Non-Conf),L 76-78 (OT),*,34,4,11,0.364,0,0,4,11,0.364,0.364,3,3,1.0,5,9,14,1,0,1,3,2,11,8.7,N,0,1,bernard-james--1,Bernard James,2012
+8,42,8,2011-11-30,Florida State,@,Michigan State,REG (Non-Conf),L 49-65,*,32,6,10,0.6,0,0,6,10,0.6,0.6,1,2,0.5,4,9,13,1,0,3,3,4,13,11.7,A,0,1,bernard-james--1,Bernard James,2012
+9,43,9,2011-12-05,Florida State,,Charleston Southern,REG (Non-Conf),W 76-51,*,23,6,9,0.667,0,0,6,9,0.667,0.667,0,0,,2,4,6,1,0,1,1,3,12,9.9,H,1,1,bernard-james--1,Bernard James,2012
+10,44,10,2011-12-11,Florida State,,UNC Greensboro,REG (Non-Conf),W 75-60,*,29,4,4,1.0,0,0,4,4,1.0,1.0,1,3,0.333,2,8,10,0,1,4,4,1,9,10.2,H,1,1,bernard-james--1,Bernard James,2012
+11,45,11,2011-12-18,Florida State,,Loyola Marymount,REG (Non-Conf),W 77-61,*,26,7,9,0.778,0,0,7,9,0.778,0.778,3,12,0.25,6,6,12,0,0,4,0,2,17,17.9,H,1,1,bernard-james--1,Bernard James,2012
+12,46,12,2011-12-22,Florida State,@,Florida,REG (Non-Conf),L 64-82,*,28,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,2,4,6,1,1,1,4,0,6,2.6,A,0,1,bernard-james--1,Bernard James,2012
+13,47,13,2011-12-30,Florida State,,Princeton,REG (Non-Conf),L 73-75 (3OT),*,29,4,7,0.571,0,0,4,7,0.571,0.571,1,6,0.167,4,3,7,0,0,3,3,1,9,6.1,H,0,1,bernard-james--1,Bernard James,2012
+14,48,14,2012-01-04,Florida State,,Auburn,REG (Non-Conf),W 85-56,*,20,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,1,7,8,0,0,3,1,2,4,6.1,H,1,1,bernard-james--1,Bernard James,2012
+15,49,15,2012-01-07,Florida State,@,Clemson,REG (Conf),L 59-79,*,32,4,8,0.5,0,0,4,8,0.5,0.5,2,3,0.667,4,4,8,0,2,0,2,3,10,8.4,A,0,1,bernard-james--1,Bernard James,2012
+16,50,16,2012-01-10,Florida State,@,Virginia Tech,REG (Conf),W 63-59,*,36,6,12,0.5,0,0,6,12,0.5,0.5,6,8,0.75,9,6,15,1,1,3,3,3,18,18.9,A,1,1,bernard-james--1,Bernard James,2012
+17,51,17,2012-01-14,Florida State,,North Carolina,REG (Conf),W 90-57,*,28,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,4,5,9,0,1,0,1,2,8,9.2,H,1,1,bernard-james--1,Bernard James,2012
+18,52,18,2012-01-17,Florida State,,Maryland,REG (Conf),W 84-70,*,30,8,13,0.615,0,0,8,13,0.615,0.615,1,1,1.0,3,3,6,0,3,2,1,0,17,17.5,H,1,1,bernard-james--1,Bernard James,2012
+19,53,19,2012-01-21,Florida State,@,Duke,REG (Conf),W 76-73,*,32,5,7,0.714,0,0,5,7,0.714,0.714,2,4,0.5,3,5,8,1,2,2,2,3,12,12.8,A,1,1,bernard-james--1,Bernard James,2012
+20,54,20,2012-01-25,Florida State,@,Wake Forest,REG (Conf),W 75-52,*,27,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,2,7,9,1,1,2,3,0,7,7.2,A,1,1,bernard-james--1,Bernard James,2012
+21,55,21,2012-02-01,Florida State,,Georgia Tech,REG (Conf),W 68-54,*,32,5,6,0.833,0,0,5,6,0.833,0.833,3,6,0.5,1,7,8,1,2,1,1,1,13,14.4,H,1,1,bernard-james--1,Bernard James,2012
+22,56,22,2012-02-04,Florida State,,Virginia,REG (Conf),W 58-55,*,23,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,3,4,0,1,1,0,3,4,4.1,H,1,1,bernard-james--1,Bernard James,2012
+23,57,23,2012-02-08,Florida State,@,Boston College,REG (Conf),L 60-64,*,23,4,4,1.0,0,0,4,4,1.0,1.0,4,5,0.8,3,4,7,0,0,1,2,4,12,10.8,A,0,1,bernard-james--1,Bernard James,2012
+24,58,24,2012-02-11,Florida State,,Miami (FL),REG (Conf),W 64-59,*,29,8,13,0.615,0,0,8,13,0.615,0.615,2,4,0.5,3,3,6,0,2,4,7,2,18,11.3,H,1,1,bernard-james--1,Bernard James,2012
+25,59,25,2012-02-16,Florida State,,Virginia Tech,REG (Conf),W 48-47,*,25,2,2,1.0,0,0,2,2,1.0,1.0,0,4,0.0,2,4,6,0,0,3,0,2,4,5.7,H,1,1,bernard-james--1,Bernard James,2012
+26,60,26,2012-02-18,Florida State,@,NC State,REG (Conf),W 76-62,*,24,3,4,0.75,0,0,3,4,0.75,0.75,6,6,1.0,3,3,6,1,0,4,3,3,12,12.7,A,1,1,bernard-james--1,Bernard James,2012
+27,61,27,2012-02-23,Florida State,,Duke,REG (Conf),L 66-74,*,31,6,8,0.75,0,0,6,8,0.75,0.75,1,1,1.0,2,7,9,0,0,5,1,0,13,15.8,H,0,1,bernard-james--1,Bernard James,2012
+28,62,28,2012-02-26,Florida State,@,Miami (FL),REG (Conf),L 62-78,*,33,4,8,0.5,0,0,4,8,0.5,0.5,0,1,0.0,3,6,9,1,0,2,1,2,8,7.8,A,0,1,bernard-james--1,Bernard James,2012
+29,63,29,2012-03-01,Florida State,@,Virginia,REG (Conf),W 63-60,*,27,3,5,0.6,0,0,3,5,0.6,0.6,1,1,1.0,2,4,6,2,0,0,1,1,7,7.3,A,1,1,bernard-james--1,Bernard James,2012
+30,64,30,2012-03-04,Florida State,,Clemson,REG (Conf),W 80-72,*,29,4,6,0.667,0,0,4,6,0.667,0.667,5,6,0.833,6,5,11,0,1,3,3,2,13,15.0,H,1,1,bernard-james--1,Bernard James,2012
+31,65,31,2012-03-09,Florida State,N,Miami (FL),CTOURN,W 82-71,*,28,6,12,0.5,0,0,6,12,0.5,0.5,2,4,0.5,3,4,7,0,1,1,1,1,14,10.8,N,1,0,bernard-james--1,Bernard James,2012
+32,66,32,2012-03-10,Florida State,N,Duke,CTOURN,W 62-59,*,31,5,8,0.625,0,0,5,8,0.625,0.625,3,4,0.75,3,4,7,1,0,1,1,2,13,11.9,N,1,0,bernard-james--1,Bernard James,2012
+33,67,33,2012-03-11,Florida State,N,North Carolina,CTOURN,W 85-82,*,25,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,3,3,6,1,1,5,1,2,9,13.1,N,1,0,bernard-james--1,Bernard James,2012
+34,68,34,2012-03-16,Florida State,N,St. Bonaventure,ROUND-64,W 66-63,*,33,8,11,0.727,0,0,8,11,0.727,0.727,3,4,0.75,4,5,9,0,1,3,4,3,19,16.3,N,1,0,bernard-james--1,Bernard James,2012
+35,69,35,2012-03-18,Florida State,N,Cincinnati,ROUND-32,L 56-62,*,32,6,13,0.462,0,0,6,13,0.462,0.462,0,1,0.0,1,4,5,0,0,3,4,3,12,3.7,N,0,0,bernard-james--1,Bernard James,2012

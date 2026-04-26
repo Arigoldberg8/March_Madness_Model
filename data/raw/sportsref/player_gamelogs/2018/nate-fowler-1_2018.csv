@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2017-11-10,Butler,,Kennesaw State,REG (Non-Conf),W 82-64,,17,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,2,2,4,1,0,1,0,3,9,9.3,H,1,1,nate-fowler-1,Nate Fowler,2018
+2,56,2,2017-11-12,Butler,,Princeton,REG (Non-Conf),W 85-75,,23,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,0,2,0,0,0,1,4,6,3.2,H,1,1,nate-fowler-1,Nate Fowler,2018
+3,57,3,2017-11-15,Butler,@,Maryland,REG (Non-Conf),L 65-79,,21,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,0,1,0,0,2,1,0,3,2.4,A,0,1,nate-fowler-1,Nate Fowler,2018
+4,58,4,2017-11-18,Butler,,Furman,REG (Non-Conf),W 82-65,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,3,2,-0.5,H,1,1,nate-fowler-1,Nate Fowler,2018
+5,59,5,2017-11-23,Butler,N,Texas,REG (Non-Conf),L 48-61,,21,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,3,4,1,1,0,0,0,6,6.3,N,0,1,nate-fowler-1,Nate Fowler,2018
+6,60,6,2017-11-24,Butler,N,Portland State,REG (Non-Conf),W 71-69,,13,2,2,1.0,0,0,,2,2,1.0,1.0,3,3,1.0,1,0,1,1,0,0,2,4,7,4.2,N,1,1,nate-fowler-1,Nate Fowler,2018
+7,61,7,2017-11-26,Butler,N,Ohio State,REG (Non-Conf),W 67-66 (OT),*,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,2,3,1,3,0,2,4,4,3.7,N,1,1,nate-fowler-1,Nate Fowler,2018
+8,62,8,2017-12-02,Butler,,Saint Louis,REG (Non-Conf),W 75-45,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,2,1,3,0,0,1,0,2,4,2.9,H,1,1,nate-fowler-1,Nate Fowler,2018
+9,63,9,2017-12-05,Butler,,Utah,REG (Non-Conf),W 81-69,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-0.9,H,1,1,nate-fowler-1,Nate Fowler,2018
+10,64,10,2017-12-09,Butler,,Youngstown State,REG (Non-Conf),W 95-67,,14,6,7,0.857,0,0,,6,7,0.857,0.857,0,0,,1,2,3,0,1,0,0,1,12,11.4,H,1,1,nate-fowler-1,Nate Fowler,2018
+11,65,11,2017-12-16,Butler,N,Purdue,REG (Non-Conf),L 67-82,,12,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,0,1,1,1,0,3,4,2,-3.3,N,0,1,nate-fowler-1,Nate Fowler,2018
+12,66,12,2017-12-19,Butler,,Morehead State,REG (Non-Conf),W 85-69,,13,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,1,2,3,0,0,0,0,2,11,9.3,H,1,1,nate-fowler-1,Nate Fowler,2018
+13,67,13,2017-12-21,Butler,,Western Illinois,REG (Non-Conf),W 107-46,*,22,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,4,8,12,1,2,4,0,0,11,18.1,H,1,1,nate-fowler-1,Nate Fowler,2018
+14,68,14,2017-12-27,Butler,@,Georgetown,REG (Conf),W 91-89 (2OT),,14,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,0,2,1,0,-3.5,A,1,1,nate-fowler-1,Nate Fowler,2018
+15,69,15,2017-12-30,Butler,,Villanova,REG (Conf),W 101-93,,18,4,4,1.0,0,0,,4,4,1.0,1.0,0,1,0.0,2,1,3,1,0,0,0,1,8,8.4,H,1,1,nate-fowler-1,Nate Fowler,2018
+16,70,16,2018-01-02,Butler,@,Xavier,REG (Conf),L 79-86,,25,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,4,5,9,2,1,2,0,3,2,6.5,A,0,1,nate-fowler-1,Nate Fowler,2018
+17,71,17,2018-01-06,Butler,,Seton Hall,REG (Conf),L 87-90,,16,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,1,2,3,1,0,1,1,3,11,8.5,H,0,1,nate-fowler-1,Nate Fowler,2018
+18,72,18,2018-01-09,Butler,@,Creighton,REG (Conf),L 74-85,,13,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,1,1,0,0,0,0,1,6,3.9,A,0,1,nate-fowler-1,Nate Fowler,2018
+19,73,19,2018-01-12,Butler,,Marquette,REG (Conf),W 94-83,,19,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,1,1,0,0,0,1,2,6,2.9,H,1,1,nate-fowler-1,Nate Fowler,2018
+20,74,20,2018-01-15,Butler,@,Providence,REG (Conf),L 60-70,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,1,2,0,1,0,0,1,4,3.9,A,0,1,nate-fowler-1,Nate Fowler,2018
+21,75,21,2018-01-20,Butler,@,DePaul,REG (Conf),W 79-67,,18,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,3,4,1,0,1,0,3,8,8.6,A,1,1,nate-fowler-1,Nate Fowler,2018
+22,76,22,2018-01-27,Butler,,St. John's (NY),REG (Conf),W 70-45,,14,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,1,1.0,1,5,6,1,0,0,0,4,5,4.3,H,1,1,nate-fowler-1,Nate Fowler,2018
+23,77,23,2018-01-31,Butler,@,Marquette,REG (Conf),W 92-72,,15,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,1,1,1,0,0,1,2,4,2.9,A,1,1,nate-fowler-1,Nate Fowler,2018
+24,78,24,2018-02-03,Butler,,DePaul,REG (Conf),W 80-57,,17,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,2,4,1,3,1,1,2,4,5.2,H,1,1,nate-fowler-1,Nate Fowler,2018
+25,79,25,2018-02-06,Butler,,Xavier,REG (Conf),L 93-98 (OT),,26,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,0,1,1,0,1,0,0,5,10,6.4,H,0,1,nate-fowler-1,Nate Fowler,2018
+26,80,26,2018-02-10,Butler,@,Villanova,REG (Conf),L 75-86,,20,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,1,4,5,1,0,0,0,3,8,6.1,A,0,1,nate-fowler-1,Nate Fowler,2018
+27,81,27,2018-02-13,Butler,,Georgetown,REG (Conf),L 83-87,,18,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,1,1,0,1,2,3.0,H,0,1,nate-fowler-1,Nate Fowler,2018
+28,82,28,2018-02-17,Butler,,Providence,REG (Conf),W 69-54,,15,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,2,2,4,1,0,0,1,2,9,6.6,H,1,1,nate-fowler-1,Nate Fowler,2018
+29,83,29,2018-02-20,Butler,,Creighton,REG (Conf),W 93-70,,14,7,9,0.778,1,1,1.0,6,8,0.75,0.833,0,0,,5,1,6,1,0,0,0,3,15,14.8,H,1,1,nate-fowler-1,Nate Fowler,2018
+30,84,30,2018-02-28,Butler,@,St. John's (NY),REG (Conf),L 68-75 (2OT),,29,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,4,1,5,2,0,1,2,3,10,8.3,A,0,1,nate-fowler-1,Nate Fowler,2018
+31,85,31,2018-03-03,Butler,@,Seton Hall,REG (Conf),L 70-77,,17,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,0,0,0,4,4,2.1,A,0,1,nate-fowler-1,Nate Fowler,2018
+32,86,32,2018-03-08,Butler,N,Seton Hall,CTOURN,W 75-74,,20,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,1,1,1,3,2,1.1,N,1,0,nate-fowler-1,Nate Fowler,2018
+33,87,33,2018-03-09,Butler,N,Villanova,CTOURN,L 68-87,,19,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,1,1,0,0,0,2,1,7,3.3,N,0,0,nate-fowler-1,Nate Fowler,2018
+34,88,34,2018-03-16,Butler,N,Arkansas,ROUND-64,W 79-62,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,1,0,0,0,2,2,1.8,N,1,0,nate-fowler-1,Nate Fowler,2018
+35,89,35,2018-03-18,Butler,N,Purdue,ROUND-32,L 73-76,,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,3,5,0,0,1,2,2,2,1.2,N,0,0,nate-fowler-1,Nate Fowler,2018

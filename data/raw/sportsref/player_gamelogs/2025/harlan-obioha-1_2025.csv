@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2024-11-04,UNC Wilmington,,Mount Olive,REG (Non-Conf),W 143-91,,17,7,9,0.778,0,1,0.0,7,8,0.875,0.778,3,3,1.0,1,5,6,1,2,4,1,2,17,19.4,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+2,62,2,2024-11-08,UNC Wilmington,,Georgia Southern,REG (Non-Conf),W 92-84,,7,0,0,,0,0,,0,0,,,1,2,0.5,1,2,3,0,0,2,1,4,1,0.7,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+3,63,3,2024-11-15,UNC Wilmington,@,USC Upstate,REG (Non-Conf),W 89-85,,11,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,1,1,0,3,4,2,-1.6,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+4,64,4,2024-11-19,UNC Wilmington,@,Kansas,REG (Non-Conf),L 66-84,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,5,0.2,1,1,2,0,0,0,1,3,1,-3.9,A,0,1,harlan-obioha-1,Harlan Obioha,2025
+5,65,5,2024-11-27,UNC Wilmington,,Colgate,REG (Non-Conf),L 59-72,,22,4,9,0.444,0,1,0.0,4,8,0.5,0.444,4,7,0.571,7,2,9,2,1,1,2,2,12,11.9,H,0,1,harlan-obioha-1,Harlan Obioha,2025
+6,66,6,2024-11-29,UNC Wilmington,,Sam Houston State,REG (Non-Conf),W 69-60,,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,2,1,3,0,0,2,2,2,2,0.2,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+7,67,7,2024-11-30,UNC Wilmington,,Appalachian State,REG (Non-Conf),W 76-61,,15,5,5,1.0,0,0,,5,5,1.0,1.0,2,5,0.4,3,3,6,0,0,1,3,4,12,8.4,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+8,68,8,2024-12-03,UNC Wilmington,@,East Carolina,REG (Non-Conf),W 67-53,,25,4,8,0.5,0,0,,4,8,0.5,0.5,4,5,0.8,2,3,5,2,1,5,2,2,12,13.0,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+9,69,9,2024-12-07,UNC Wilmington,,Marshall,REG (Non-Conf),W 78-69,,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,3,1,4,2,1,1,4,5,8,5.5,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+10,70,10,2024-12-14,UNC Wilmington,@,Howard,REG (Non-Conf),L 83-88,,16,3,5,0.6,0,0,,3,5,0.6,0.6,6,8,0.75,0,3,3,0,0,0,1,1,12,8.4,A,0,1,harlan-obioha-1,Harlan Obioha,2025
+11,71,11,2024-12-18,UNC Wilmington,,Florida Gulf Coast,REG (Non-Conf),W 79-66,,23,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,3,4,7,0,1,0,0,2,9,11.2,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+12,72,12,2024-12-21,UNC Wilmington,,UNC Asheville,REG (Non-Conf),W 85-74,,20,3,3,1.0,0,0,,3,3,1.0,1.0,3,5,0.6,4,5,9,1,1,1,2,4,9,10.4,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+13,73,13,2024-12-28,UNC Wilmington,,Spartanburg Methodist,REG (Non-Conf),W 99-47,*,20,6,7,0.857,0,0,,6,7,0.857,0.857,1,1,1.0,4,8,12,0,1,0,2,1,13,14.3,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+14,74,14,2025-01-02,UNC Wilmington,,Towson,REG (Conf),L 61-65 (OT),*,31,5,10,0.5,0,0,,5,10,0.5,0.5,8,11,0.727,3,10,13,2,0,3,1,3,18,18.2,H,0,1,harlan-obioha-1,Harlan Obioha,2025
+15,75,15,2025-01-04,UNC Wilmington,,Campbell,REG (Conf),W 77-69,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,3,6,0.5,2,2,4,1,1,1,1,3,13,11.1,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+16,76,16,2025-01-09,UNC Wilmington,@,Monmouth,REG (Conf),W 64-55,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,6,7,0,1,0,4,4,3,-1.2,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+17,77,17,2025-01-11,UNC Wilmington,@,Hofstra,REG (Conf),L 63-66,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,0,6,0.0,3,1,4,1,0,0,3,2,2,-2.1,A,0,1,harlan-obioha-1,Harlan Obioha,2025
+18,78,18,2025-01-16,UNC Wilmington,,Northeastern,REG (Conf),W 80-72,*,26,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,6,4,10,3,1,1,0,2,12,15.7,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+19,79,19,2025-01-20,UNC Wilmington,,William & Mary,REG (Conf),W 85-74,*,17,5,7,0.714,0,0,,5,7,0.714,0.714,0,1,0.0,3,5,8,0,0,1,0,1,10,10.6,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+20,80,20,2025-01-23,UNC Wilmington,@,College of Charleston,REG (Conf),W 85-83,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,3,1.0,1,4,5,1,1,1,0,1,5,7.2,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+21,81,21,2025-01-25,UNC Wilmington,,Hampton,REG (Conf),W 83-62,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,4,6,0.667,3,3,6,2,0,2,3,3,14,11.9,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+22,82,22,2025-01-30,UNC Wilmington,@,North Carolina A&T,REG (Conf),W 83-59,*,15,0,0,,0,0,,0,0,,,0,0,,0,4,4,0,0,1,1,2,0,0.1,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+23,83,23,2025-02-01,UNC Wilmington,,Stony Brook,REG (Conf),W 80-70,*,15,0,0,,0,0,,0,0,,,1,2,0.5,0,3,3,0,1,1,1,3,1,1.0,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+24,84,24,2025-02-06,UNC Wilmington,@,Delaware,REG (Conf),W 77-67,*,25,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,4,2,6,1,1,2,2,1,14,14.2,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+25,85,25,2025-02-08,UNC Wilmington,@,Drexel,REG (Conf),W 81-79 (2OT),*,34,6,12,0.5,0,0,,6,12,0.5,0.5,2,8,0.25,1,4,5,0,1,3,1,2,14,8.8,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+26,86,26,2025-02-13,UNC Wilmington,,College of Charleston,REG (Conf),W 86-66,*,21,5,5,1.0,0,0,,5,5,1.0,1.0,6,8,0.75,6,6,12,2,0,1,2,1,16,19.4,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+27,87,27,2025-02-15,UNC Wilmington,,Elon,REG (Conf),L 70-81,*,23,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,3,3,1,2,1,1,1,0,2.2,H,0,1,harlan-obioha-1,Harlan Obioha,2025
+28,88,28,2025-02-22,UNC Wilmington,@,Hampton,REG (Conf),L 70-83,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,3,1,4,1,0,1,3,3,6,2.9,A,0,1,harlan-obioha-1,Harlan Obioha,2025
+29,89,29,2025-02-24,UNC Wilmington,@,William & Mary,REG (Conf),W 79-70,*,21,9,10,0.9,0,0,,9,10,0.9,0.9,5,7,0.714,6,4,10,2,0,1,0,3,23,25.1,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+30,90,30,2025-02-27,UNC Wilmington,@,Campbell,REG (Conf),W 79-60,*,20,8,10,0.8,0,0,,8,10,0.8,0.8,2,3,0.667,2,6,8,2,1,0,0,3,18,18.2,A,1,1,harlan-obioha-1,Harlan Obioha,2025
+31,91,31,2025-03-01,UNC Wilmington,,Delaware,REG (Conf),W 88-58,*,21,6,8,0.75,0,0,,6,8,0.75,0.75,4,5,0.8,2,5,7,3,0,2,1,2,16,17.0,H,1,1,harlan-obioha-1,Harlan Obioha,2025
+32,92,32,2025-03-09,UNC Wilmington,N,Hampton,CTOURN,W 79-65,*,17,2,3,0.667,0,0,,2,3,0.667,0.667,4,4,1.0,0,1,1,1,0,1,1,3,8,6.2,N,1,0,harlan-obioha-1,Harlan Obioha,2025
+33,93,33,2025-03-10,UNC Wilmington,N,College of Charleston,CTOURN,W 68-67,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,3,3,6,0,0,0,1,2,7,4.8,N,1,0,harlan-obioha-1,Harlan Obioha,2025
+34,94,34,2025-03-11,UNC Wilmington,N,Delaware,CTOURN,W 76-72,*,21,1,2,0.5,0,0,,1,2,0.5,0.5,3,6,0.5,4,3,7,0,0,1,1,2,5,5.4,N,1,0,harlan-obioha-1,Harlan Obioha,2025
+35,95,35,2025-03-20,UNC Wilmington,N,Texas Tech,ROUND-64,L 72-82,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,3,3,1.0,4,5,9,1,0,1,2,3,7,7.5,N,0,0,harlan-obioha-1,Harlan Obioha,2025

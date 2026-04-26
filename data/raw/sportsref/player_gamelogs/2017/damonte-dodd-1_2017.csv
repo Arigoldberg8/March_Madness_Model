@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,1,2016-11-11,Maryland,,American,REG (Non-Conf),W 62-56,*,11,1,3,0.333,0,0,1,3,0.333,0.333,1,3,0.333,0,0,0,2,0,0,2,2,3,-0.9,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+2,95,2,2016-11-15,Maryland,@,Georgetown,REG (Non-Conf),W 76-75,*,24,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,4,5,0,0,4,3,4,4,2.8,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+3,96,3,2016-11-17,Maryland,,St. Mary's (MD),REG (Non-Conf),W 93-45,*,17,4,6,0.667,0,0,4,6,0.667,0.667,5,7,0.714,6,4,10,0,0,3,2,3,13,13.9,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+4,97,4,2016-11-20,Maryland,,Towson,REG (Non-Conf),W 71-66,*,21,1,1,1.0,0,0,1,1,1.0,1.0,3,5,0.6,2,3,5,0,0,1,3,4,5,2.3,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+5,98,7,2016-11-26,Maryland,N,Kansas State,REG (Non-Conf),W 69-68,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,0,2,0,0,3,0,2,2,3.7,N,1,1,damonte-dodd-1,Damonte Dodd,2017
+6,99,8,2016-11-29,Maryland,,Pittsburgh,REG (Non-Conf),L 59-73,*,13,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,4,7,1,0,3,3,5,2,1.4,H,0,1,damonte-dodd-1,Damonte Dodd,2017
+7,100,9,2016-12-03,Maryland,,Oklahoma State,REG (Non-Conf),W 71-70,*,24,5,9,0.556,0,0,5,9,0.556,0.556,2,2,1.0,5,3,8,0,0,3,1,3,12,12.0,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+8,101,15,2017-01-01,Maryland,,Nebraska,REG (Conf),L 65-67,,13,2,5,0.4,0,0,2,5,0.4,0.4,2,4,0.5,4,0,4,0,0,1,1,2,6,4.2,H,0,1,damonte-dodd-1,Damonte Dodd,2017
+9,102,16,2017-01-07,Maryland,@,Michigan,REG (Conf),W 77-70,*,21,6,11,0.545,0,0,6,11,0.545,0.545,3,3,1.0,4,0,4,0,0,1,3,2,15,9.4,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+10,103,17,2017-01-10,Maryland,,Indiana,REG (Conf),W 75-72,*,31,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,4,2,6,0,0,6,1,4,6,9.7,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+11,104,18,2017-01-14,Maryland,@,Illinois,REG (Conf),W 62-56,*,12,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,3,1,4,0,0,1,1,4,2,1.8,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+12,105,19,2017-01-19,Maryland,@,Iowa,REG (Conf),W 84-76,*,17,4,5,0.8,0,0,4,5,0.8,0.8,2,2,1.0,1,0,1,1,2,1,1,5,10,9.2,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+13,106,20,2017-01-24,Maryland,,Rutgers,REG (Conf),W 67-55,*,25,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,3,2,5,1,0,3,2,5,8,5.7,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+14,107,21,2017-01-28,Maryland,@,Minnesota,REG (Conf),W 85-78,*,18,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,1,2,3,0,0,0,2,4,3,-1.4,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+15,108,22,2017-01-31,Maryland,@,Ohio State,REG (Conf),W 77-71,*,25,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,2,3,5,1,0,1,1,2,5,3.8,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+16,109,23,2017-02-04,Maryland,,Purdue,REG (Conf),L 72-73,*,22,3,5,0.6,0,0,3,5,0.6,0.6,3,6,0.5,5,0,5,0,0,4,1,3,9,9.6,H,0,1,damonte-dodd-1,Damonte Dodd,2017
+17,110,24,2017-02-07,Maryland,@,Penn State,REG (Conf),L 64-70,*,21,2,3,0.667,0,0,2,3,0.667,0.667,2,4,0.5,3,1,4,0,1,0,0,4,6,5.7,A,0,1,damonte-dodd-1,Damonte Dodd,2017
+18,111,25,2017-02-11,Maryland,,Ohio State,REG (Conf),W 86-77,*,13,1,1,1.0,0,0,1,1,1.0,1.0,1,3,0.333,3,0,3,1,0,3,0,4,3,5.2,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+19,112,26,2017-02-15,Maryland,@,Northwestern,REG (Conf),W 74-64,*,29,5,6,0.833,0,0,5,6,0.833,0.833,2,4,0.5,3,3,6,1,0,2,0,2,12,13.3,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+20,113,27,2017-02-19,Maryland,@,Wisconsin,REG (Conf),L 60-71,*,14,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,2,2,0,0,1,2,4,0,-3.0,A,0,1,damonte-dodd-1,Damonte Dodd,2017
+21,114,28,2017-02-22,Maryland,,Minnesota,REG (Conf),L 75-89,*,21,3,5,0.6,0,0,3,5,0.6,0.6,1,4,0.25,3,1,4,2,0,0,1,3,7,5.1,H,0,1,damonte-dodd-1,Damonte Dodd,2017
+22,115,29,2017-02-25,Maryland,,Iowa,REG (Conf),L 69-83,*,17,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,4,2,6,0,0,5,1,5,6,7.6,H,0,1,damonte-dodd-1,Damonte Dodd,2017
+23,116,30,2017-02-28,Maryland,@,Rutgers,REG (Conf),W 79-59,*,18,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,4,3,7,0,1,2,4,4,9,7.2,A,1,1,damonte-dodd-1,Damonte Dodd,2017
+24,117,31,2017-03-04,Maryland,,Michigan State,REG (Conf),W 63-60,*,27,3,4,0.75,0,0,3,4,0.75,0.75,1,4,0.25,2,1,3,1,0,1,1,3,7,5.1,H,1,1,damonte-dodd-1,Damonte Dodd,2017
+25,118,32,2017-03-10,Maryland,N,Northwestern,CTOURN,L 64-72,*,18,1,4,0.25,0,0,1,4,0.25,0.25,2,6,0.333,2,0,2,0,0,1,0,3,4,0.9,N,0,0,damonte-dodd-1,Damonte Dodd,2017
+26,119,33,2017-03-16,Maryland,N,Xavier,ROUND-64,L 65-76,*,22,0,0,,0,0,0,0,,,2,4,0.5,0,3,3,0,1,2,0,3,2,3.3,N,0,0,damonte-dodd-1,Damonte Dodd,2017

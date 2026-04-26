@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,76,1,2025-11-03,Florida,N,Arizona,REG (Non-Conf),L 87-93,*,17,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,1,1,0,0,0,0,5,4,-1.1,N,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+2,77,2,2025-11-06,Florida,,North Florida,REG (Non-Conf),W 104-64,*,19,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,4,5,9,2,0,0,2,3,8,8.6,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+3,78,3,2025-11-11,Florida,,Florida State,REG (Non-Conf),W 78-76,*,24,5,12,0.417,0,0,,5,12,0.417,0.417,0,0,,7,9,16,1,0,2,2,3,10,10.1,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+4,79,4,2025-11-16,Florida,N,Miami (FL),REG (Non-Conf),W 82-68,*,26,7,10,0.7,0,0,,7,10,0.7,0.7,2,3,0.667,4,6,10,1,1,2,1,5,16,16.1,N,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+5,80,5,2025-11-21,Florida,,Merrimack,REG (Non-Conf),W 80-45,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,4,6,0.667,6,15,21,0,2,1,2,2,14,18.2,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+6,81,6,2025-11-27,Florida,N,TCU,REG (Non-Conf),L 80-84,*,28,5,6,0.833,0,0,,5,6,0.833,0.833,3,4,0.75,4,5,9,0,0,0,4,4,13,9.1,N,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+7,82,7,2025-11-28,Florida,N,Providence,REG (Non-Conf),W 90-78,*,25,4,7,0.571,0,0,,4,7,0.571,0.571,5,7,0.714,2,8,10,1,0,1,3,4,13,9.5,N,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+8,83,8,2025-12-02,Florida,@,Duke,REG (Non-Conf),L 66-67,*,28,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,4,10,14,0,0,0,1,3,4,5.6,A,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+9,84,9,2025-12-09,Florida,N,Connecticut,REG (Non-Conf),L 73-77,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,0,4,0.0,4,7,11,0,1,2,1,3,8,7.5,N,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+10,85,10,2025-12-13,Florida,N,George Washington,REG (Non-Conf),W 80-70,*,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,5,0.4,1,5,6,0,4,1,1,3,8,9.9,N,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+11,86,11,2025-12-17,Florida,,Saint Francis (PA),REG (Non-Conf),W 102-61,*,20,5,5,1.0,0,0,,5,5,1.0,1.0,2,2,1.0,4,7,11,0,1,1,0,1,12,16.7,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+12,87,12,2025-12-21,Florida,,Colgate,REG (Non-Conf),W 90-60,*,18,6,8,0.75,0,0,,6,8,0.75,0.75,4,6,0.667,7,5,12,0,1,0,1,4,16,16.8,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+13,88,13,2025-12-29,Florida,,Dartmouth,REG (Non-Conf),W 94-72,*,22,3,6,0.5,0,0,,3,6,0.5,0.5,7,9,0.778,7,5,12,0,0,2,1,3,13,14.8,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+14,89,14,2026-01-03,Florida,@,Missouri,REG (Conf),L 74-76,*,30,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,2,6,8,2,0,1,1,4,8,9.1,A,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+15,90,15,2026-01-06,Florida,,Georgia,REG (Conf),W 92-77,*,20,5,8,0.625,0,0,,5,8,0.625,0.625,0,1,0.0,1,3,4,0,0,1,0,1,10,7.9,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+16,91,16,2026-01-10,Florida,,Tennessee,REG (Conf),W 91-67,*,25,8,12,0.667,0,0,,8,12,0.667,0.667,1,1,1.0,4,12,16,1,2,0,2,5,17,16.9,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+17,92,17,2026-01-13,Florida,@,Oklahoma,REG (Conf),W 96-79,*,27,7,11,0.636,0,0,,7,11,0.636,0.636,5,5,1.0,6,6,12,0,0,1,1,2,19,19.0,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+18,93,18,2026-01-17,Florida,@,Vanderbilt,REG (Conf),W 98-94,*,31,7,9,0.778,0,0,,7,9,0.778,0.778,6,6,1.0,5,5,10,3,0,3,4,1,20,21.3,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+19,94,19,2026-01-20,Florida,,Louisiana State,REG (Conf),W 79-61,*,23,5,8,0.625,0,0,,5,8,0.625,0.625,5,10,0.5,11,10,21,0,1,0,1,2,15,19.3,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+20,95,20,2026-01-24,Florida,,Auburn,REG (Conf),L 67-76,*,28,3,8,0.375,0,0,,3,8,0.375,0.375,4,7,0.571,3,4,7,0,1,2,0,3,10,8.9,H,0,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+21,96,21,2026-01-28,Florida,@,South Carolina,REG (Conf),W 95-48,*,22,7,7,1.0,0,0,,7,7,1.0,1.0,0,0,,1,10,11,1,0,2,3,3,14,13.5,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+22,97,22,2026-02-01,Florida,,Alabama,REG (Conf),W 100-77,*,29,4,12,0.333,0,0,,4,12,0.333,0.333,6,7,0.857,6,11,17,3,1,2,0,1,14,18.4,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+23,98,23,2026-02-07,Florida,@,Texas A&M,REG (Conf),W 86-67,*,21,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,4,12,16,0,0,2,2,2,10,10.7,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+24,99,24,2026-02-11,Florida,@,Georgia,REG (Conf),W 86-66,*,25,3,7,0.429,0,0,,3,7,0.429,0.429,1,2,0.5,5,15,20,0,1,0,2,4,7,8.3,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+25,100,25,2026-02-14,Florida,,Kentucky,REG (Conf),W 92-83,*,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,2,1.0,5,7,12,1,1,1,2,4,10,10.4,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+26,101,26,2026-02-17,Florida,,South Carolina,REG (Conf),W 76-62,*,24,6,11,0.545,0,0,,6,11,0.545,0.545,3,4,0.75,7,10,17,2,1,0,1,1,15,18.2,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+27,102,27,2026-02-21,Florida,@,Ole Miss,REG (Conf),W 94-75,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,5,6,2,0,0,2,3,3,2.0,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+28,103,28,2026-02-25,Florida,@,Texas,REG (Conf),W 84-71,*,24,2,6,0.333,0,0,,2,6,0.333,0.333,1,1,1.0,3,1,4,0,2,2,0,4,5,5.8,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+29,104,29,2026-02-28,Florida,,Arkansas,REG (Conf),W 111-77,*,24,3,7,0.429,0,0,,3,7,0.429,0.429,6,6,1.0,4,12,16,0,0,2,2,2,12,13.3,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+30,105,30,2026-03-03,Florida,,Mississippi State,REG (Conf),W 108-74,*,31,5,9,0.556,0,0,,5,9,0.556,0.556,1,2,0.5,5,11,16,2,1,3,2,2,11,14.8,H,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+31,106,31,2026-03-07,Florida,@,Kentucky,REG (Conf),W 84-77,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,5,9,0.556,3,5,8,0,0,1,1,2,13,9.9,A,1,1,rueben-chinyelu-1,Rueben Chinyelu,2026
+32,107,32,2026-03-13,Florida,N,Kentucky,CTOURN,W 71-63,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,8,10,0,3,1,2,3,4,4.9,N,1,0,rueben-chinyelu-1,Rueben Chinyelu,2026
+33,108,33,2026-03-14,Florida,N,Vanderbilt,CTOURN,L 74-91,*,30,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,4,2,6,0,1,0,2,4,12,10.2,N,0,0,rueben-chinyelu-1,Rueben Chinyelu,2026

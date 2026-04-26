@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2014-11-14,North Carolina,,North Carolina Central,REG (Non-Conf),W 76-60,*,17,4,10,0.4,0,0,,4,10,0.4,0.4,2,3,0.667,2,7,9,0,1,2,0,2,10,9.3,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+2,36,2,2014-11-16,North Carolina,,Robert Morris,REG (Non-Conf),W 103-59,*,17,6,7,0.857,0,0,,6,7,0.857,0.857,9,14,0.643,6,6,12,1,0,0,1,3,21,21.0,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+3,37,3,2014-11-22,North Carolina,N,Davidson,REG (Non-Conf),W 90-72,*,31,9,13,0.692,0,0,,9,13,0.692,0.692,1,3,0.333,3,9,12,3,2,2,1,2,19,21.2,N,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+4,38,4,2014-11-26,North Carolina,N,Butler,REG (Non-Conf),L 66-74,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,3,6,0.5,4,6,10,2,0,5,2,1,7,10.9,N,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+5,39,5,2014-11-27,North Carolina,N,UCLA,REG (Non-Conf),W 78-56,,18,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,0,2,2,1,0,0,1,3,8,4.1,N,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+6,40,6,2014-11-28,North Carolina,N,Florida,REG (Non-Conf),W 75-64,*,27,8,12,0.667,0,0,,8,12,0.667,0.667,2,4,0.5,5,8,13,1,1,2,6,3,18,13.8,N,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+7,41,7,2014-12-03,North Carolina,,Iowa,REG (Non-Conf),L 55-60,*,29,6,8,0.75,0,0,,6,8,0.75,0.75,3,3,1.0,6,6,12,2,0,2,0,5,15,18.6,H,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+8,42,8,2014-12-07,North Carolina,,East Carolina,REG (Non-Conf),W 108-64,*,20,6,9,0.667,0,0,,6,9,0.667,0.667,0,1,0.0,1,10,11,1,3,2,1,2,12,14.7,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+9,43,9,2014-12-13,North Carolina,@,Kentucky,REG (Non-Conf),L 70-84,*,22,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,4,0,4,1,0,1,0,2,10,9.4,A,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+10,44,10,2014-12-16,North Carolina,@,UNC Greensboro,REG (Non-Conf),W 79-56,*,19,8,9,0.889,0,0,,8,9,0.889,0.889,2,2,1.0,1,5,6,0,0,0,0,3,18,15.9,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+11,45,11,2014-12-20,North Carolina,N,Ohio State,REG (Non-Conf),W 82-74,*,28,3,10,0.3,0,0,,3,10,0.3,0.3,2,4,0.5,5,8,13,2,0,2,2,2,8,7.3,N,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+12,46,12,2014-12-27,North Carolina,,UAB,REG (Non-Conf),W 89-58,*,24,6,9,0.667,0,0,,6,9,0.667,0.667,2,4,0.5,4,5,9,1,2,3,1,3,14,16.2,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+13,47,13,2014-12-30,North Carolina,,William & Mary,REG (Non-Conf),W 86-64,*,14,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,3,3,0,2,0,2,3,7,4.7,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+14,48,14,2015-01-03,North Carolina,@,Clemson,REG (Conf),W 74-50,*,22,4,11,0.364,0,0,,4,11,0.364,0.364,4,5,0.8,5,7,12,2,0,0,0,1,12,12.1,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+15,49,15,2015-01-05,North Carolina,,Notre Dame,REG (Conf),L 70-71,*,17,3,8,0.375,0,0,,3,8,0.375,0.375,6,6,1.0,4,0,4,1,1,1,1,5,12,9.8,H,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+16,50,16,2015-01-10,North Carolina,,Louisville,REG (Conf),W 72-71,*,29,4,7,0.571,0,0,,4,7,0.571,0.571,5,6,0.833,4,2,6,1,3,2,2,4,13,14.2,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+17,51,17,2015-01-14,North Carolina,@,NC State,REG (Conf),W 81-79,*,34,7,13,0.538,0,0,,7,13,0.538,0.538,1,3,0.333,1,9,10,1,1,1,1,1,15,12.3,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+18,52,18,2015-01-18,North Carolina,,Virginia Tech,REG (Conf),W 68-53,*,19,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,0,3,3,0,0,0,1,0,8,5.5,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+19,53,19,2015-01-21,North Carolina,@,Wake Forest,REG (Conf),W 87-71,*,22,8,11,0.727,0,0,,8,11,0.727,0.727,0,0,,1,7,8,0,1,1,1,4,16,13.4,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+20,54,20,2015-01-24,North Carolina,,Florida State,REG (Conf),W 78-74,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,1,6,7,1,0,1,0,2,12,10.4,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+21,55,21,2015-01-26,North Carolina,,Syracuse,REG (Conf),W 93-83,*,32,6,13,0.462,0,0,,6,13,0.462,0.462,5,8,0.625,4,4,8,1,1,1,5,3,17,9.3,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+22,56,22,2015-01-31,North Carolina,@,Louisville,REG (Conf),L 68-78 (OT),*,30,4,7,0.571,0,0,,4,7,0.571,0.571,1,4,0.25,0,4,4,0,0,1,2,4,9,2.8,A,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+23,57,23,2015-02-02,North Carolina,,Virginia,REG (Conf),L 64-75,*,28,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,3,4,7,2,0,0,6,2,11,4.5,H,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+24,58,24,2015-02-07,North Carolina,@,Boston College,REG (Conf),W 79-68,,12,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,0,0,1,1,1,4,1.6,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+25,59,25,2015-02-14,North Carolina,@,Pittsburgh,REG (Conf),L 76-89,,19,6,8,0.75,0,0,,6,8,0.75,0.75,3,5,0.6,1,2,3,1,0,1,0,3,15,12.5,A,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+26,60,26,2015-02-18,North Carolina,@,Duke,REG (Conf),L 90-92 (OT),*,33,8,10,0.8,0,0,,8,10,0.8,0.8,2,4,0.5,2,5,7,1,1,1,1,4,18,16.1,A,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+27,61,27,2015-02-21,North Carolina,,Georgia Tech,REG (Conf),W 89-60,*,25,8,13,0.615,0,0,,8,13,0.615,0.615,2,3,0.667,1,5,6,1,2,3,0,2,18,17.9,H,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+28,62,28,2015-02-24,North Carolina,,NC State,REG (Conf),L 46-58,*,30,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,4,0.5,4,10,14,1,1,3,1,2,12,14.0,H,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+29,63,29,2015-02-28,North Carolina,@,Miami (FL),REG (Conf),W 73-64,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,4,5,1,0,1,3,1,4,1.2,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+30,64,30,2015-03-03,North Carolina,@,Georgia Tech,REG (Conf),W 81-49,*,19,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,3,2,5,2,0,2,3,4,8,5.9,A,1,1,kennedy-meeks-1,Kennedy Meeks,2015
+31,65,31,2015-03-07,North Carolina,,Duke,REG (Conf),L 77-84,,23,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,4,5,9,3,0,1,1,3,2,2.4,H,0,1,kennedy-meeks-1,Kennedy Meeks,2015
+32,66,33,2015-03-12,North Carolina,N,Louisville,CTOURN,W 70-60,,19,4,9,0.444,0,0,,4,9,0.444,0.444,1,2,0.5,3,2,5,0,0,2,0,1,9,7.6,N,1,0,kennedy-meeks-1,Kennedy Meeks,2015
+33,67,34,2015-03-13,North Carolina,N,Virginia,CTOURN,W 71-67,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,5,9,0.556,3,6,9,2,1,2,2,4,7,7.8,N,1,0,kennedy-meeks-1,Kennedy Meeks,2015
+34,68,35,2015-03-14,North Carolina,N,Notre Dame,CTOURN,L 82-90,*,17,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,2,3,5,2,0,0,1,4,8,6.5,N,0,0,kennedy-meeks-1,Kennedy Meeks,2015
+35,69,36,2015-03-19,North Carolina,N,Harvard,ROUND-64,W 67-65,*,29,4,8,0.5,0,0,,4,8,0.5,0.5,2,4,0.5,2,6,8,1,0,0,5,2,10,3.3,N,1,0,kennedy-meeks-1,Kennedy Meeks,2015
+36,70,37,2015-03-21,North Carolina,N,Arkansas,ROUND-32,W 87-78,*,15,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,3,1,4,0,0,0,4,4,9,3.5,N,1,0,kennedy-meeks-1,Kennedy Meeks,2015
+37,71,38,2015-03-26,North Carolina,N,Wisconsin,ROUND-16,L 72-79,*,14,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,1,3,4,0,0,0,0,3,4,2.0,N,0,0,kennedy-meeks-1,Kennedy Meeks,2015

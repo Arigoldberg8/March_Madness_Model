@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,3,2012-11-16,Oregon,,Vanderbilt,REG (Non-Conf),W 74-48,,21,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,2,5,7,1,2,0,1,2,5,7.8,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+2,97,4,2012-11-19,Oregon,,Jacksonville State,REG (Non-Conf),W 67-45,,24,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,6,8,1,5,1,2,1,2,6.1,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+3,98,5,2012-11-23,Oregon,@,UNLV,REG (Non-Conf),W 83-79,,30,1,2,0.5,0,0,,1,2,0.5,0.5,5,6,0.833,2,6,8,0,2,0,3,3,7,6.6,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+4,99,6,2012-11-24,Oregon,N,Cincinnati,REG (Non-Conf),L 66-77,*,23,4,9,0.444,0,0,,4,9,0.444,0.444,1,3,0.333,7,8,15,1,3,0,2,2,9,11.7,N,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+5,100,7,2012-11-29,Oregon,,UTSA,REG (Non-Conf),W 95-78,*,23,8,9,0.889,0,0,,8,9,0.889,0.889,4,4,1.0,3,3,6,4,5,3,1,3,20,27.6,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+6,101,8,2012-12-01,Oregon,,Arkansas–Pine Bluff,REG (Non-Conf),W 80-59,*,25,4,9,0.444,0,0,,4,9,0.444,0.444,3,4,0.75,5,8,13,0,5,0,3,2,11,13.0,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+7,102,9,2012-12-08,Oregon,,Idaho State,REG (Non-Conf),W 87-35,*,23,3,5,0.6,0,0,,3,5,0.6,0.6,5,5,1.0,2,6,8,3,2,2,0,0,11,17.4,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+8,103,10,2012-12-15,Oregon,,Nebraska,REG (Non-Conf),W 60-38,*,34,3,4,0.75,0,0,,3,4,0.75,0.75,4,6,0.667,1,16,17,2,4,0,1,1,10,17.1,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+9,104,11,2012-12-19,Oregon,@,UTEP,REG (Non-Conf),L 84-91 (3OT),*,49,3,6,0.5,0,1,0.0,3,5,0.6,0.5,7,15,0.467,4,12,16,0,1,0,1,3,13,12.0,A,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+10,105,12,2012-12-22,Oregon,,Houston Baptist,REG (Non-Conf),W 91-50,*,16,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,6,6,5,2,0,1,2,4,7.5,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+11,106,13,2012-12-31,Oregon,,Nevada,REG (Non-Conf),W 56-43,*,13,0,0,,0,0,,0,0,,,2,2,1.0,0,6,6,1,0,0,4,1,2,0.1,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+12,107,14,2013-01-06,Oregon,@,Oregon State,REG (Conf),W 79-66,,21,4,5,0.8,0,0,,4,5,0.8,0.8,0,2,0.0,3,5,8,2,2,0,0,1,8,11.9,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+13,108,15,2013-01-10,Oregon,,Arizona,REG (Conf),W 70-66,,24,1,3,0.333,0,0,,1,3,0.333,0.333,4,5,0.8,1,7,8,1,1,0,1,1,6,7.0,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+14,109,16,2013-01-13,Oregon,,Arizona State,REG (Conf),W 68-65,,24,2,5,0.4,0,0,,2,5,0.4,0.4,3,3,1.0,2,4,6,1,0,0,0,2,7,6.8,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+15,110,17,2013-01-17,Oregon,@,Southern California,REG (Conf),W 76-74,,30,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,3,8,11,1,0,0,0,2,6,9.4,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+16,111,18,2013-01-19,Oregon,@,UCLA,REG (Conf),W 76-67,,29,5,7,0.714,0,0,,5,7,0.714,0.714,2,3,0.667,4,7,11,1,0,0,4,1,12,9.9,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+17,112,19,2013-01-23,Oregon,,Washington State,REG (Conf),W 68-61,*,32,7,13,0.538,0,0,,7,13,0.538,0.538,2,3,0.667,1,6,7,2,4,0,1,3,16,15.0,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+18,113,20,2013-01-26,Oregon,,Washington,REG (Conf),W 81-76,*,36,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,2,9,11,1,1,0,0,2,11,14.4,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+19,114,21,2013-01-30,Oregon,@,Stanford,REG (Conf),L 52-76,*,24,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,4,5,9,0,1,0,1,0,6,8.3,A,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+20,115,22,2013-02-02,Oregon,@,California,REG (Conf),L 54-58,*,35,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,0,6,6,1,1,0,1,3,10,8.7,A,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+21,116,23,2013-02-07,Oregon,,Colorado,REG (Conf),L 47-48,*,34,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,5,6,11,0,2,2,0,2,6,10.9,H,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+22,117,24,2013-02-09,Oregon,,Utah,REG (Conf),W 73-64,*,32,4,6,0.667,0,0,,4,6,0.667,0.667,3,4,0.75,5,9,14,0,4,3,3,3,11,16.1,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+23,118,25,2013-02-13,Oregon,@,Washington,REG (Conf),W 65-52,*,31,3,4,0.75,0,0,,3,4,0.75,0.75,5,8,0.625,1,6,7,1,1,1,0,1,11,12.7,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+24,119,26,2013-02-16,Oregon,@,Washington State,REG (Conf),W 79-77 (OT),*,40,2,2,1.0,0,0,,2,2,1.0,1.0,4,5,0.8,6,6,12,1,2,1,2,3,8,13.2,A,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+25,120,27,2013-02-21,Oregon,,California,REG (Conf),L 46-48,*,31,3,9,0.333,0,0,,3,9,0.333,0.333,5,7,0.714,5,13,18,0,4,1,0,1,11,16.8,H,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+26,121,28,2013-02-23,Oregon,,Stanford,REG (Conf),W 77-66,*,32,6,8,0.75,0,0,,6,8,0.75,0.75,3,4,0.75,0,7,7,2,5,2,5,1,15,15.9,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+27,122,29,2013-02-28,Oregon,,Oregon State,REG (Conf),W 85-75,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,7,8,0.875,4,8,12,4,0,0,1,3,17,18.1,H,1,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+28,123,30,2013-03-07,Oregon,@,Colorado,REG (Conf),L 53-76,*,27,3,4,0.75,0,0,,3,4,0.75,0.75,4,9,0.444,1,5,6,1,1,0,1,1,10,8.9,A,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+29,124,31,2013-03-09,Oregon,@,Utah,REG (Conf),L 62-72,*,28,0,2,0.0,0,0,,0,2,0.0,0.0,5,11,0.455,3,1,4,1,4,0,3,2,5,4.5,A,0,1,arsalan-kazemi-1,Arsalan Kazemi,2013
+30,125,32,2013-03-14,Oregon,N,Washington,CTOURN,W 80-77 (OT),*,30,4,8,0.5,0,0,,4,8,0.5,0.5,6,7,0.857,2,7,9,0,1,1,2,1,14,12.4,N,1,0,arsalan-kazemi-1,Arsalan Kazemi,2013
+31,126,33,2013-03-15,Oregon,N,Utah,CTOURN,W 64-45,*,23,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,6,6,1,0,2,3,2,2,1.1,N,1,0,arsalan-kazemi-1,Arsalan Kazemi,2013
+32,127,34,2013-03-16,Oregon,N,UCLA,CTOURN,W 78-69,*,34,4,5,0.8,0,0,,4,5,0.8,0.8,4,6,0.667,2,10,12,2,1,1,1,2,12,15.0,N,1,0,arsalan-kazemi-1,Arsalan Kazemi,2013
+33,128,35,2013-03-21,Oregon,N,Oklahoma State,ROUND-64,W 68-55,*,31,4,9,0.444,0,0,,4,9,0.444,0.444,3,5,0.6,6,11,17,2,2,0,1,3,11,14.2,N,1,0,arsalan-kazemi-1,Arsalan Kazemi,2013
+34,129,36,2013-03-23,Oregon,N,Saint Louis,ROUND-32,W 74-57,*,35,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,7,9,16,3,2,2,3,3,8,14.3,N,1,0,arsalan-kazemi-1,Arsalan Kazemi,2013
+35,130,37,2013-03-29,Oregon,N,Louisville,ROUND-16,L 69-77,*,38,5,6,0.833,0,0,,5,6,0.833,0.833,1,3,0.333,3,9,12,2,1,1,0,3,11,14.7,N,0,0,arsalan-kazemi-1,Arsalan Kazemi,2013

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,93,1,2016-11-11,UC Davis,N,Tennessee State,REG (Non-Conf),L 64-78,*,11,1,3,0.333,0,0,1,3,0.333,0.333,1,1,1.0,0,4,4,0,0,0,2,5,3,-1.5,N,0,1,john-adenrele-1,J.T. Adenrele,2017
+2,94,2,2016-11-12,UC Davis,@,Santa Clara,REG (Non-Conf),W 63-58,*,16,2,8,0.25,0,0,2,8,0.25,0.25,4,5,0.8,3,2,5,0,0,0,3,2,8,1.7,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+3,95,3,2016-11-13,UC Davis,N,Northern Arizona,REG (Non-Conf),W 89-76,*,15,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,3,1,4,1,0,0,1,2,2,2.3,N,1,1,john-adenrele-1,J.T. Adenrele,2017
+4,96,5,2016-11-21,UC Davis,@,Sacramento State,REG (Non-Conf),W 81-72,*,25,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,0,5,5,0,3,2,3,0,10,9.3,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+5,97,6,2016-11-24,UC Davis,N,Weber State,REG (Non-Conf),L 58-86,*,17,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,1,4,2,-1.7,N,0,1,john-adenrele-1,J.T. Adenrele,2017
+6,98,7,2016-11-25,UC Davis,N,Drake,REG (Non-Conf),W 64-58,*,22,2,2,1.0,0,0,2,2,1.0,1.0,0,3,0.0,1,2,3,1,1,0,1,4,4,2.6,N,1,1,john-adenrele-1,J.T. Adenrele,2017
+7,99,8,2016-11-26,UC Davis,N,Oakland,REG (Non-Conf),L 66-79,*,20,1,5,0.2,0,0,1,5,0.2,0.2,3,4,0.75,3,4,7,3,1,1,0,1,5,8.2,N,0,1,john-adenrele-1,J.T. Adenrele,2017
+8,100,9,2016-12-03,UC Davis,@,Idaho,REG (Non-Conf),L 66-68,*,18,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,2,3,0,1,0,1,4,5,3.7,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+9,101,10,2016-12-10,UC Davis,@,California,REG (Non-Conf),L 61-86,*,18,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,2,2,1,0,0,1,2,0,-2.6,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+10,102,11,2016-12-14,UC Davis,@,North Dakota State,REG (Non-Conf),L 70-74,,20,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,5,7,0,0,3,0,1,11,12.3,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+11,103,12,2016-12-17,UC Davis,,William Jessup,REG (Non-Conf),W 87-64,*,14,4,7,0.571,0,0,4,7,0.571,0.571,2,2,1.0,3,3,6,0,0,0,0,0,10,9.7,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+12,104,13,2016-12-22,UC Davis,@,Air Force,REG (Non-Conf),L 67-77,*,21,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,5,7,12,0,0,0,0,4,8,8.7,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+13,105,14,2016-12-28,UC Davis,@,Seattle,REG (Non-Conf),W 72-65,*,18,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,6,6,0,2,1,1,5,4,3.5,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+14,106,15,2016-12-31,UC Davis,,Utah Valley,REG (Non-Conf),W 83-69,*,22,4,6,0.667,0,0,4,6,0.667,0.667,4,5,0.8,3,3,6,1,1,0,1,1,12,12.3,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+15,107,17,2017-01-07,UC Davis,,Cal Poly,REG (Conf),W 68-64,*,26,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,8,8,0,2,1,2,1,4,5.7,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+16,108,18,2017-01-12,UC Davis,@,UC Riverside,REG (Conf),L 55-61,*,20,1,6,0.167,0,0,1,6,0.167,0.167,0,0,,2,3,5,0,2,1,1,5,2,0.2,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+17,109,19,2017-01-14,UC Davis,@,Cal State Northridge,REG (Conf),W 71-68,*,26,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,0,4,4,1,0,0,4,5,8,1.3,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+18,110,20,2017-01-21,UC Davis,@,Hawaii,REG (Conf),W 76-70,*,16,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,4,5,0,0,0,0,4,2,-0.1,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+19,111,21,2017-01-28,UC Davis,,UC Irvine,REG (Conf),W 74-65,*,21,3,5,0.6,0,0,3,5,0.6,0.6,1,2,0.5,1,1,2,0,2,0,1,5,7,4.3,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+20,112,22,2017-02-02,UC Davis,@,Cal Poly,REG (Conf),L 70-74,*,20,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,0,2,2,0,1,0,1,4,3,0.6,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+21,113,23,2017-02-04,UC Davis,@,UC Santa Barbara,REG (Conf),W 67-64,*,26,3,7,0.429,0,0,3,7,0.429,0.429,3,4,0.75,5,4,9,0,0,0,1,2,9,7.8,A,1,1,john-adenrele-1,J.T. Adenrele,2017
+22,114,24,2017-02-08,UC Davis,,Cal State Fullerton,REG (Conf),W 74-65,*,19,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,2,2,1,0,0,2,4,6,2.1,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+23,115,25,2017-02-11,UC Davis,,UC Riverside,REG (Conf),W 77-63,*,24,4,8,0.5,0,0,4,8,0.5,0.5,2,3,0.667,3,3,6,1,3,0,3,2,10,8.5,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+24,116,26,2017-02-16,UC Davis,@,Long Beach State,REG (Conf),L 69-78 (OT),*,27,3,5,0.6,0,0,3,5,0.6,0.6,6,9,0.667,2,3,5,0,2,1,2,4,12,9.9,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+25,117,27,2017-02-18,UC Davis,@,Cal State Fullerton,REG (Conf),L 72-79,*,16,1,3,0.333,0,0,1,3,0.333,0.333,0,1,0.0,0,0,0,1,1,1,2,2,2,-0.5,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+26,118,28,2017-02-23,UC Davis,,Cal State Northridge,REG (Conf),W 96-85,*,18,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,3,4,7,0,1,1,3,3,4,3.0,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+27,119,29,2017-02-25,UC Davis,,Long Beach State,REG (Conf),W 75-71 (OT),*,31,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,4,4,8,2,2,4,0,4,6,10.9,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+28,120,30,2017-03-02,UC Davis,,Hawaii,REG (Conf),W 68-59,*,20,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,4,5,0,0,1,2,2,0,-0.9,H,1,1,john-adenrele-1,J.T. Adenrele,2017
+29,121,31,2017-03-04,UC Davis,@,UC Irvine,REG (Conf),L 49-79,*,19,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,4,2,6,0,1,2,1,3,6,8.0,A,0,1,john-adenrele-1,J.T. Adenrele,2017
+30,122,32,2017-03-09,UC Davis,N,Cal Poly,CTOURN,W 66-55,*,23,3,6,0.5,0,0,3,6,0.5,0.5,3,5,0.6,2,5,7,2,2,2,1,3,9,10.7,N,1,0,john-adenrele-1,J.T. Adenrele,2017
+31,123,33,2017-03-10,UC Davis,N,Cal State Fullerton,CTOURN,W 66-64 (OT),*,24,3,3,1.0,0,0,3,3,1.0,1.0,2,2,1.0,2,5,7,0,0,1,2,1,8,8.3,N,1,0,john-adenrele-1,J.T. Adenrele,2017
+32,124,34,2017-03-11,UC Davis,N,UC Irvine,CTOURN,W 50-47,*,18,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,3,4,1,0,2,0,4,2,1.7,N,1,0,john-adenrele-1,J.T. Adenrele,2017
+33,125,35,2017-03-15,UC Davis,N,North Carolina Central,FIRST-FOUR,W 67-63,*,23,1,5,0.2,0,0,1,5,0.2,0.2,2,4,0.5,2,7,9,1,0,1,1,3,4,2.8,N,1,0,john-adenrele-1,J.T. Adenrele,2017
+34,126,36,2017-03-17,UC Davis,N,Kansas,ROUND-64,L 62-100,*,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,2,4,0,1,0,2,4,4,2.8,N,0,0,john-adenrele-1,J.T. Adenrele,2017

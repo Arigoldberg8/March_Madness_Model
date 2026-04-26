@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,94,4,2013-11-22,UCLA,,Morehead State,REG (Non-Conf),W 81-70,,22,5,8,0.625,0,0,,5,8,0.625,0.625,1,1,1.0,2,2,4,0,3,2,0,3,11,12.6,H,1,1,travis-wear-1,Travis Wear,2014
+2,95,5,2013-11-24,UCLA,,Chattanooga,REG (Non-Conf),W 106-65,,16,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,3,3,0,1,2,0,3,8,7.5,H,1,1,travis-wear-1,Travis Wear,2014
+3,96,6,2013-11-28,UCLA,N,Nevada,REG (Non-Conf),W 105-84,,17,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,0,0,0,1,0,1,0,5,8,5.4,N,1,1,travis-wear-1,Travis Wear,2014
+4,97,7,2013-11-29,UCLA,N,Northwestern,REG (Non-Conf),W 95-79,,21,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,0,0,0,0,2,4,1.1,N,1,1,travis-wear-1,Travis Wear,2014
+5,98,8,2013-12-03,UCLA,,UC Santa Barbara,REG (Non-Conf),W 89-76,,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,0,1,0,1,4,0,-2.0,H,1,1,travis-wear-1,Travis Wear,2014
+6,99,9,2013-12-07,UCLA,@,Missouri,REG (Non-Conf),L 71-80,,22,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,0,2,2,2,0,0,0,4,2,-0.4,A,0,1,travis-wear-1,Travis Wear,2014
+7,100,10,2013-12-14,UCLA,,Prairie View A&M,REG (Non-Conf),W 95-71,*,22,5,8,0.625,0,1,0.0,5,7,0.714,0.625,0,0,,0,3,3,1,0,2,0,2,10,8.6,H,1,1,travis-wear-1,Travis Wear,2014
+8,101,11,2013-12-19,UCLA,N,Duke,REG (Non-Conf),L 63-80,*,21,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,1,1,0,0,1,0,2,2,-1.6,N,0,1,travis-wear-1,Travis Wear,2014
+9,102,12,2013-12-22,UCLA,,Weber State,REG (Non-Conf),W 83-60,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,0,2,2,1,0,0,1,3,6,1.0,H,1,1,travis-wear-1,Travis Wear,2014
+10,103,13,2013-12-28,UCLA,,Alabama,REG (Non-Conf),W 75-67,*,33,4,10,0.4,0,0,,4,10,0.4,0.4,2,2,1.0,2,3,5,2,0,0,1,2,10,6.5,H,1,1,travis-wear-1,Travis Wear,2014
+11,104,14,2014-01-05,UCLA,,Southern California,REG (Conf),W 107-73,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,1,2,3,0,0,0,4,4,3.5,H,1,1,travis-wear-1,Travis Wear,2014
+12,105,15,2014-01-09,UCLA,,Arizona,REG (Conf),L 75-79,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,1,2,1,0,1,0,4,6,3.8,H,0,1,travis-wear-1,Travis Wear,2014
+13,106,16,2014-01-12,UCLA,,Arizona State,REG (Conf),W 87-72,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,1,4,0,0,1,0,3,6,4.9,H,1,1,travis-wear-1,Travis Wear,2014
+14,107,17,2014-01-16,UCLA,@,Colorado,REG (Conf),W 69-56,*,21,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,3,5,3,1,0,1,3,4,6.6,A,1,1,travis-wear-1,Travis Wear,2014
+15,108,18,2014-01-18,UCLA,@,Utah,REG (Conf),L 69-74,*,29,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,1,4,5,1,1,1,3,3,5,3.1,A,0,1,travis-wear-1,Travis Wear,2014
+16,109,19,2014-01-23,UCLA,,Stanford,REG (Conf),W 91-74,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,2,3,0,0,4,2,4.7,H,1,1,travis-wear-1,Travis Wear,2014
+17,110,20,2014-01-26,UCLA,,California,REG (Conf),W 76-64,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,4,2,6,2,0,0,2,4,2,1.5,H,1,1,travis-wear-1,Travis Wear,2014
+18,111,21,2014-01-30,UCLA,@,Oregon,REG (Conf),W 70-68,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,2,2,1.0,1,2,3,0,1,1,2,1,12,9.0,A,1,1,travis-wear-1,Travis Wear,2014
+19,112,22,2014-02-02,UCLA,@,Oregon State,REG (Conf),L 67-71,*,13,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,0,3,3,2,0,0,0,5,7,4.3,A,0,1,travis-wear-1,Travis Wear,2014
+20,113,23,2014-02-08,UCLA,@,Southern California,REG (Conf),W 83-73,*,29,3,7,0.429,1,2,0.5,2,5,0.4,0.5,4,4,1.0,1,4,5,2,3,1,0,2,11,13.5,A,1,1,travis-wear-1,Travis Wear,2014
+21,114,24,2014-02-13,UCLA,,Colorado,REG (Conf),W 92-74,*,30,6,6,1.0,1,1,1.0,5,5,1.0,1.083,0,0,,3,4,7,0,1,3,0,1,13,17.2,H,1,1,travis-wear-1,Travis Wear,2014
+22,115,25,2014-02-15,UCLA,,Utah,REG (Conf),W 80-66,*,19,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,1,3,4,2,0,1,0,3,8,8.2,H,1,1,travis-wear-1,Travis Wear,2014
+23,116,26,2014-02-19,UCLA,@,California,REG (Conf),W 86-66,*,24,6,8,0.75,1,1,1.0,5,7,0.714,0.813,0,0,,1,2,3,2,1,0,0,1,13,13.1,A,1,1,travis-wear-1,Travis Wear,2014
+24,117,27,2014-02-22,UCLA,@,Stanford,REG (Conf),L 74-83,*,20,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,2,1.0,3,1,4,0,1,0,0,4,10,9.2,A,0,1,travis-wear-1,Travis Wear,2014
+25,118,28,2014-02-27,UCLA,,Oregon,REG (Conf),L 83-87 (2OT),*,43,3,9,0.333,0,0,,3,9,0.333,0.333,3,6,0.5,1,1,2,2,0,1,1,4,9,3.2,H,0,1,travis-wear-1,Travis Wear,2014
+26,119,29,2014-03-02,UCLA,,Oregon State,REG (Conf),W 74-69,*,30,2,6,0.333,1,1,1.0,1,5,0.2,0.417,1,2,0.5,1,2,3,2,0,0,1,3,6,2.7,H,1,1,travis-wear-1,Travis Wear,2014
+27,120,30,2014-03-06,UCLA,@,Washington,REG (Conf),W 91-82,*,21,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,3,1,0,0,2,2,4.3,A,1,1,travis-wear-1,Travis Wear,2014
+28,121,31,2014-03-08,UCLA,@,Washington State,REG (Conf),L 55-73,*,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,0,2,0,0,2,4,3.4,A,0,1,travis-wear-1,Travis Wear,2014
+29,122,32,2014-03-13,UCLA,N,Oregon,CTOURN,W 82-63,*,32,6,8,0.75,2,2,1.0,4,6,0.667,0.875,0,1,0.0,1,4,5,5,1,0,0,3,14,15.6,N,1,0,travis-wear-1,Travis Wear,2014
+30,123,33,2014-03-14,UCLA,N,Stanford,CTOURN,W 84-59,*,28,8,8,1.0,0,0,,8,8,1.0,1.0,0,0,,2,2,4,1,1,0,0,3,16,16.1,N,1,0,travis-wear-1,Travis Wear,2014
+31,124,34,2014-03-15,UCLA,N,Arizona,CTOURN,W 75-71,*,27,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,1,2,3,3,1,1,0,5,3,3.0,N,1,0,travis-wear-1,Travis Wear,2014
+32,125,35,2014-03-21,UCLA,N,Tulsa,ROUND-64,W 76-59,*,26,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,0,2,2,0,1,1,0,4,10,9.2,N,1,0,travis-wear-1,Travis Wear,2014
+33,126,36,2014-03-23,UCLA,N,Stephen F. Austin,ROUND-32,W 77-60,*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,5,0,1,0,3,4,4.5,N,1,0,travis-wear-1,Travis Wear,2014
+34,127,37,2014-03-27,UCLA,N,Florida,ROUND-16,L 68-79,*,30,6,12,0.5,0,3,0.0,6,9,0.667,0.5,2,2,1.0,0,2,2,1,1,2,0,3,14,10.5,N,0,0,travis-wear-1,Travis Wear,2014

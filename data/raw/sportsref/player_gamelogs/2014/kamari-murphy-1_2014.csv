@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,2,2013-11-12,Oklahoma State,,Utah Valley,REG (Non-Conf),W 93-40,,17,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,5,1,6,1,1,2,1,1,2,4.4,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+2,35,3,2013-11-15,Oklahoma State,,Arkansas–Pine Bluff,REG (Non-Conf),W 97-63,,14,3,3,1.0,0,0,3,3,1.0,1.0,1,4,0.25,1,5,6,0,0,2,0,3,7,7.3,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+3,36,4,2013-11-19,Oklahoma State,,Memphis,REG (Non-Conf),W 101-80,,18,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,3,4,7,1,0,2,1,4,5,6.1,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+4,37,5,2013-11-25,Oklahoma State,@,South Florida,REG (Non-Conf),W 93-67,,18,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,0,5,5,2,0,0,0,3,0,-0.4,A,1,1,kamari-murphy-1,Kamari Murphy,2014
+5,38,6,2013-11-28,Oklahoma State,N,Purdue,REG (Non-Conf),W 97-87,,16,2,2,1.0,0,0,2,2,1.0,1.0,2,4,0.5,3,3,6,0,1,2,2,5,6,6.0,N,1,1,kamari-murphy-1,Kamari Murphy,2014
+6,39,7,2013-11-29,Oklahoma State,N,Butler,REG (Non-Conf),W 69-67,,23,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,4,4,8,2,0,0,1,2,10,11.4,N,1,1,kamari-murphy-1,Kamari Murphy,2014
+7,40,8,2013-12-01,Oklahoma State,N,Memphis,REG (Non-Conf),L 68-73,,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,3,3,6,0,2,1,1,2,6,8.3,N,0,1,kamari-murphy-1,Kamari Murphy,2014
+8,41,9,2013-12-06,Oklahoma State,,South Carolina,REG (Non-Conf),W 79-52,,21,3,5,0.6,0,0,3,5,0.6,0.6,2,4,0.5,4,3,7,0,0,1,0,2,8,8.5,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+9,42,10,2013-12-14,Oklahoma State,N,Louisiana Tech,REG (Non-Conf),W 70-55,,23,5,5,1.0,0,0,5,5,1.0,1.0,0,1,0.0,1,2,3,1,0,0,1,2,10,8.3,N,1,1,kamari-murphy-1,Kamari Murphy,2014
+10,43,11,2013-12-17,Oklahoma State,,Delaware State,REG (Non-Conf),W 75-43,,20,1,4,0.25,0,0,1,4,0.25,0.25,3,5,0.6,2,5,7,1,0,4,0,1,5,7.8,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+11,44,12,2013-12-21,Oklahoma State,N,Colorado,REG (Non-Conf),W 78-73,,22,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,0,0,1,1,5,4,1.6,N,1,1,kamari-murphy-1,Kamari Murphy,2014
+12,45,13,2013-12-30,Oklahoma State,,Robert Morris,REG (Non-Conf),W 92-66,,29,4,4,1.0,0,0,4,4,1.0,1.0,2,5,0.4,0,8,8,3,0,0,2,1,10,9.7,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+13,46,14,2014-01-04,Oklahoma State,@,Kansas State,REG (Conf),L 71-74,*,33,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,1,1,2,0,4,2,3.8,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+14,47,15,2014-01-08,Oklahoma State,,Texas,REG (Conf),W 87-74,*,25,2,5,0.4,0,0,2,5,0.4,0.4,0,2,0.0,1,4,5,1,3,4,2,3,4,5.7,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+15,48,16,2014-01-11,Oklahoma State,@,West Virginia,REG (Conf),W 73-72,*,39,2,4,0.5,0,0,2,4,0.5,0.5,3,4,0.75,2,3,5,0,1,1,2,3,7,5.4,A,1,1,kamari-murphy-1,Kamari Murphy,2014
+16,49,17,2014-01-15,Oklahoma State,,TCU,REG (Conf),W 82-50,*,25,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,1,7,8,0,0,1,0,1,8,7.3,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+17,50,18,2014-01-18,Oklahoma State,@,Kansas,REG (Conf),L 78-80,*,38,5,10,0.5,0,0,5,10,0.5,0.5,2,2,1.0,0,1,1,1,1,2,1,4,12,7.8,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+18,51,19,2014-01-25,Oklahoma State,,West Virginia,REG (Conf),W 81-75,*,15,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,1,2,0,0,2,0,4,0,-0.6,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+19,52,20,2014-01-27,Oklahoma State,@,Oklahoma,REG (Conf),L 76-88,*,31,2,7,0.286,0,0,2,7,0.286,0.286,0,0,,1,8,9,2,2,1,0,5,4,5.1,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+20,53,21,2014-02-01,Oklahoma State,,Baylor,REG (Conf),L 70-76,*,29,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,1,4,5,0,1,1,3,5,9,6.0,H,0,1,kamari-murphy-1,Kamari Murphy,2014
+21,54,22,2014-02-03,Oklahoma State,,Iowa State,REG (Conf),L 97-98 (3OT),*,26,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,1,5,6,0,0,2,2,5,7,4.9,H,0,1,kamari-murphy-1,Kamari Murphy,2014
+22,55,23,2014-02-08,Oklahoma State,@,Texas Tech,REG (Conf),L 61-65,*,24,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,3,6,1,0,0,0,4,4,4.8,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+23,56,24,2014-02-11,Oklahoma State,@,Texas,REG (Conf),L 68-87,*,31,3,6,0.5,0,0,3,6,0.5,0.5,4,5,0.8,3,7,10,0,1,0,1,3,10,9.6,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+24,57,25,2014-02-15,Oklahoma State,,Oklahoma,REG (Conf),L 74-77,*,30,3,7,0.429,0,0,3,7,0.429,0.429,1,2,0.5,3,10,13,1,1,1,2,4,7,6.8,H,0,1,kamari-murphy-1,Kamari Murphy,2014
+25,58,26,2014-02-17,Oklahoma State,@,Baylor,REG (Conf),L 64-70 (OT),*,39,1,2,0.5,0,0,1,2,0.5,0.5,1,3,0.333,3,6,9,2,0,0,5,5,3,-0.5,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+26,59,27,2014-02-22,Oklahoma State,,Texas Tech,REG (Conf),W 84-62,*,34,5,9,0.556,0,0,5,9,0.556,0.556,0,2,0.0,0,6,6,2,0,2,0,2,10,8.7,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+27,60,28,2014-02-24,Oklahoma State,@,TCU,REG (Conf),W 76-54,*,31,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,6,5,11,1,1,1,1,3,6,11.0,A,1,1,kamari-murphy-1,Kamari Murphy,2014
+28,61,29,2014-03-01,Oklahoma State,,Kansas,REG (Conf),W 72-65,*,30,3,8,0.375,0,0,3,8,0.375,0.375,2,2,1.0,0,4,4,0,0,1,1,5,8,2.5,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+29,62,30,2014-03-03,Oklahoma State,,Kansas State,REG (Conf),W 77-61,*,29,0,1,0.0,0,0,0,1,0.0,0.0,4,4,1.0,1,5,6,0,1,1,2,3,4,4.0,H,1,1,kamari-murphy-1,Kamari Murphy,2014
+30,63,31,2014-03-08,Oklahoma State,@,Iowa State,REG (Conf),L 81-85 (OT),*,41,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,8,9,0,0,2,3,5,6,2.5,A,0,1,kamari-murphy-1,Kamari Murphy,2014
+31,64,32,2014-03-12,Oklahoma State,N,Texas Tech,CTOURN,W 80-62,*,14,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,1,1,4,2,-0.6,N,1,0,kamari-murphy-1,Kamari Murphy,2014
+32,65,33,2014-03-13,Oklahoma State,N,Kansas,CTOURN,L 70-77 (OT),*,20,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,3,3,6,0,0,0,0,5,6,5.0,N,0,0,kamari-murphy-1,Kamari Murphy,2014
+33,66,34,2014-03-21,Oklahoma State,N,Gonzaga,ROUND-64,L 77-85,*,29,4,11,0.364,0,0,4,11,0.364,0.364,0,0,,4,4,8,0,0,1,2,5,8,2.6,N,0,0,kamari-murphy-1,Kamari Murphy,2014

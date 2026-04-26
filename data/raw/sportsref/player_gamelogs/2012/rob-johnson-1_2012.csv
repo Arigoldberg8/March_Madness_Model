@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,11,2011-12-14,Norfolk State,,LIU Brooklyn,REG (Non-Conf),W 73-62,,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,5,5,1,1,0,4,2,7,2.4,H,1,1,rob-johnson-1,Rob Johnson,2012
+2,38,12,2011-12-18,Norfolk State,@,Illinois State,REG (Non-Conf),L 36-68,,16,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,1,0.0,0,1,1,0,1,0,4,2,3,-4.0,A,0,1,rob-johnson-1,Rob Johnson,2012
+3,39,13,2011-12-20,Norfolk State,@,Toledo,REG (Non-Conf),W 72-70,,23,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,0,0,0,3,1,5,-0.4,A,1,1,rob-johnson-1,Rob Johnson,2012
+4,40,14,2011-12-23,Norfolk State,@,St. Francis Brooklyn,REG (Non-Conf),W 84-74,,15,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,0,3,3,0,0,0,1,1,4,0.8,A,1,1,rob-johnson-1,Rob Johnson,2012
+5,41,15,2012-01-01,Norfolk State,@,Navy,REG (Non-Conf),W 71-65,,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,3,1,1,0,0,2.3,A,1,1,rob-johnson-1,Rob Johnson,2012
+6,42,16,2012-01-07,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 78-72,,21,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,1,5,6,1,0,0,2,2,4,2.4,H,1,1,rob-johnson-1,Rob Johnson,2012
+7,43,17,2012-01-09,Norfolk State,,Howard,REG (Conf),W 68-48,,14,4,9,0.444,0,2,0.0,4,7,0.571,0.444,0,0,,2,0,2,0,0,0,1,2,8,2.9,H,1,1,rob-johnson-1,Rob Johnson,2012
+8,44,18,2012-01-14,Norfolk State,@,Morgan State,REG (Conf),W 90-89 (2OT),,10,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,1,0,0,1,0,-1.2,A,1,1,rob-johnson-1,Rob Johnson,2012
+9,45,19,2012-01-16,Norfolk State,@,Coppin State,REG (Conf),W 74-66,,22,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,0,2,0,1,0,0,1,6,4.3,A,1,1,rob-johnson-1,Rob Johnson,2012
+10,46,20,2012-01-21,Norfolk State,@,Hampton,REG (Conf),W 80-75,,30,8,13,0.615,1,3,0.333,7,10,0.7,0.654,2,2,1.0,3,12,15,2,0,0,2,2,19,17.4,A,1,1,rob-johnson-1,Rob Johnson,2012
+11,47,21,2012-01-24,Norfolk State,,Morehead State,REG (Non-Conf),L 69-75,,20,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,1,2,3,0,0,0,0,1,12,8.2,H,0,1,rob-johnson-1,Rob Johnson,2012
+12,48,22,2012-01-28,Norfolk State,,Morgan State,REG (Conf),W 76-59,,11,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,2,2,1,0,0,1,0,6,5.4,H,1,1,rob-johnson-1,Rob Johnson,2012
+13,49,23,2012-01-30,Norfolk State,,Coppin State,REG (Conf),L 82-87,,15,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,1,1.0,0,2,2,0,2,0,2,0,10,7.3,H,0,1,rob-johnson-1,Rob Johnson,2012
+14,50,24,2012-02-04,Norfolk State,@,Delaware State,REG (Conf),L 50-67,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,2,0,1,2,2,4,2.6,A,0,1,rob-johnson-1,Rob Johnson,2012
+15,51,26,2012-02-11,Norfolk State,,Hampton,REG (Conf),W 70-62,,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,0,1,1,0,0,0,1,4,6,-0.5,H,1,1,rob-johnson-1,Rob Johnson,2012
+16,52,27,2012-02-15,Norfolk State,,Delaware State,REG (Conf),L 63-73 (OT),,32,4,10,0.4,1,3,0.333,3,7,0.429,0.45,0,0,,3,3,6,0,0,0,0,3,9,5.4,H,0,1,rob-johnson-1,Rob Johnson,2012
+17,53,28,2012-02-20,Norfolk State,,Longwood,REG (Non-Conf),W 66-52,,9,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,2,0,0,-4.8,H,1,1,rob-johnson-1,Rob Johnson,2012
+18,54,29,2012-02-25,Norfolk State,@,Bethune-Cookman,REG (Conf),W 75-72,,15,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,5,5,0,1,0,2,1,0,-0.6,A,1,1,rob-johnson-1,Rob Johnson,2012
+19,55,30,2012-02-27,Norfolk State,@,Florida A&M,REG (Conf),W 79-70,,7,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,1,2,2,0,0,1,0,3,2.0,A,1,1,rob-johnson-1,Rob Johnson,2012
+20,56,31,2012-03-01,Norfolk State,@,North Carolina A&T,REG (Conf),W 72-65,,20,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,4,5,0,0,0,1,3,7,3.7,A,1,1,rob-johnson-1,Rob Johnson,2012
+21,57,32,2012-03-07,Norfolk State,N,Howard,CTOURN,W 71-61,,17,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,0,0,0,0,0,0,2,1,8,3.9,N,1,0,rob-johnson-1,Rob Johnson,2012
+22,58,33,2012-03-09,Norfolk State,N,Florida A&M,CTOURN,W 58-46,,20,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,2,1.0,1,4,5,0,1,1,1,2,12,9.8,N,1,0,rob-johnson-1,Rob Johnson,2012
+23,59,34,2012-03-10,Norfolk State,N,Bethune-Cookman,CTOURN,W 73-70,,26,6,7,0.857,1,2,0.5,5,5,1.0,0.929,2,3,0.667,1,3,4,1,0,0,1,2,15,12.6,N,1,0,rob-johnson-1,Rob Johnson,2012
+24,60,35,2012-03-16,Norfolk State,N,Missouri,ROUND-64,W 86-84,,13,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,2,0,-4.9,N,1,0,rob-johnson-1,Rob Johnson,2012
+25,61,36,2012-03-18,Norfolk State,N,Florida,ROUND-32,L 50-84,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,3,5,1,0,0,2,1,4,2.6,N,0,0,rob-johnson-1,Rob Johnson,2012

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2016-11-11,Southern California,,Montana,REG (Non-Conf),W 75-61,*,31,6,12,0.5,4,6,0.667,2,6,0.333,0.667,14,16,0.875,5,2,7,0,2,1,2,2,30,27.2,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+2,68,2,2016-11-13,Southern California,,Omaha,REG (Non-Conf),W 82-72,*,35,4,13,0.308,1,7,0.143,3,6,0.5,0.346,2,2,1.0,2,5,7,4,0,1,1,5,11,6.9,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+3,69,3,2016-11-18,Southern California,@,Texas A&M,REG (Non-Conf),W 65-63,*,33,4,14,0.286,2,6,0.333,2,8,0.25,0.357,1,2,0.5,5,6,11,2,0,1,2,4,11,6.2,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+4,70,4,2016-11-22,Southern California,,New Orleans,REG (Non-Conf),W 88-54,*,21,7,10,0.7,3,5,0.6,4,5,0.8,0.85,4,4,1.0,1,5,6,0,2,2,1,1,21,21.0,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+5,71,5,2016-11-25,Southern California,,SMU,REG (Non-Conf),W 78-73,*,27,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,1,4,5,1,0,2,1,5,6,2.2,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+6,72,6,2016-11-27,Southern California,,UC Santa Barbara,REG (Non-Conf),W 96-72,*,29,7,13,0.538,4,10,0.4,3,3,1.0,0.692,0,0,,1,3,4,2,0,2,1,4,18,13.5,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+7,73,7,2016-11-30,Southern California,@,San Diego,REG (Non-Conf),W 76-55,*,31,6,13,0.462,2,6,0.333,4,7,0.571,0.538,1,1,1.0,1,2,3,1,0,0,1,2,15,8.5,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+8,74,8,2016-12-03,Southern California,N,Brigham Young,REG (Non-Conf),W 91-84,*,34,6,16,0.375,2,7,0.286,4,9,0.444,0.438,2,4,0.5,3,2,5,0,0,1,2,3,16,6.6,N,1,1,elijah-stewart-1,Elijah Stewart,2017
+9,75,9,2016-12-11,Southern California,,Pepperdine,REG (Non-Conf),W 93-67,*,29,9,15,0.6,7,12,0.583,2,3,0.667,0.833,1,1,1.0,1,3,4,2,0,4,2,0,26,22.9,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+10,76,10,2016-12-17,Southern California,,Troy,REG (Non-Conf),W 82-77,*,32,3,10,0.3,3,6,0.5,0,4,0.0,0.45,2,2,1.0,1,4,5,2,1,1,0,4,11,8.6,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+11,77,11,2016-12-19,Southern California,,Cornell,REG (Non-Conf),W 79-67,*,28,2,10,0.2,1,6,0.167,1,4,0.25,0.25,1,4,0.25,1,7,8,1,2,4,1,1,6,5.5,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+12,78,12,2016-12-22,Southern California,N,Missouri State,REG (Non-Conf),W 83-75,*,36,7,10,0.7,4,6,0.667,3,4,0.75,0.9,3,3,1.0,1,1,2,0,1,0,1,3,21,16.6,N,1,1,elijah-stewart-1,Elijah Stewart,2017
+13,79,13,2016-12-23,Southern California,N,Wyoming,REG (Non-Conf),W 94-92 (OT),*,30,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,3,0.333,2,2,4,1,1,1,0,4,10,6.6,N,1,1,elijah-stewart-1,Elijah Stewart,2017
+14,80,14,2016-12-28,Southern California,@,Oregon State,REG (Conf),W 70-63,*,32,4,13,0.308,0,5,0.0,4,8,0.5,0.308,0,2,0.0,2,4,6,2,0,2,0,4,8,3.5,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+15,81,15,2016-12-30,Southern California,@,Oregon,REG (Conf),L 61-84,*,32,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,2,4,6,0,0,0,3,1,10,5.5,A,0,1,elijah-stewart-1,Elijah Stewart,2017
+16,82,16,2017-01-05,Southern California,,Stanford,REG (Conf),W 72-56,*,35,3,10,0.3,1,6,0.167,2,4,0.5,0.35,2,2,1.0,2,4,6,1,1,0,2,2,9,4.7,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+17,83,17,2017-01-08,Southern California,,California,REG (Conf),L 73-74,*,25,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,1,1,1,1,0,2,4,7,3.1,H,0,1,elijah-stewart-1,Elijah Stewart,2017
+18,84,18,2017-01-12,Southern California,@,Utah,REG (Conf),L 64-86,*,20,0,6,0.0,0,1,0.0,0,5,0.0,0.0,0,0,,1,5,6,1,0,0,0,4,0,-2.9,A,0,1,elijah-stewart-1,Elijah Stewart,2017
+19,85,19,2017-01-15,Southern California,@,Colorado,REG (Conf),W 71-68,*,27,3,9,0.333,0,4,0.0,3,5,0.6,0.333,5,6,0.833,2,1,3,1,1,0,0,3,11,7.7,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+20,86,20,2017-01-19,Southern California,,Arizona,REG (Conf),L 66-73,*,33,7,13,0.538,5,9,0.556,2,4,0.5,0.731,1,1,1.0,1,3,4,1,0,4,0,2,20,18.0,H,0,1,elijah-stewart-1,Elijah Stewart,2017
+21,87,21,2017-01-22,Southern California,,Arizona State,REG (Conf),W 82-79,*,31,11,19,0.579,7,13,0.538,4,6,0.667,0.763,0,0,,2,2,4,2,1,1,0,5,29,23.2,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+22,88,22,2017-01-25,Southern California,,UCLA,REG (Conf),W 84-76,*,36,5,13,0.385,4,10,0.4,1,3,0.333,0.538,1,2,0.5,2,2,4,4,3,2,1,3,15,14.5,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+23,89,23,2017-02-01,Southern California,@,Washington,REG (Conf),W 82-74,*,29,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,1,1,0,1,0,0,2,5,2.1,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+24,90,24,2017-02-04,Southern California,@,Washington State,REG (Conf),W 86-77,*,30,5,10,0.5,1,4,0.25,4,6,0.667,0.55,2,4,0.5,1,3,4,1,1,2,1,1,13,10.5,A,1,1,elijah-stewart-1,Elijah Stewart,2017
+25,91,25,2017-02-09,Southern California,,Oregon State,REG (Conf),W 92-66,*,24,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,2,1.0,0,3,3,2,2,0,1,1,14,12.6,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+26,92,26,2017-02-11,Southern California,,Oregon,REG (Conf),L 70-81,*,31,5,10,0.5,2,6,0.333,3,4,0.75,0.6,3,4,0.75,1,4,5,1,0,1,4,3,15,7.7,H,0,1,elijah-stewart-1,Elijah Stewart,2017
+27,93,27,2017-02-18,Southern California,@,UCLA,REG (Conf),L 70-102,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,1,0.0,0,0,0,1,0,1,2,1,5,-0.5,A,0,1,elijah-stewart-1,Elijah Stewart,2017
+28,94,28,2017-02-23,Southern California,@,Arizona,REG (Conf),L 77-90,*,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,1,1,3,1,0,0,3,5,4.1,A,0,1,elijah-stewart-1,Elijah Stewart,2017
+29,95,29,2017-02-26,Southern California,@,Arizona State,REG (Conf),L 82-83,*,32,4,10,0.4,2,6,0.333,2,4,0.5,0.5,2,3,0.667,1,1,2,0,1,1,1,2,12,7.1,A,0,1,elijah-stewart-1,Elijah Stewart,2017
+30,96,30,2017-03-01,Southern California,,Washington State,REG (Conf),W 87-64,,17,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,2,2,2,1,2,0,2,6,7.3,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+31,97,31,2017-03-04,Southern California,,Washington,REG (Conf),W 74-58,,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,1,0.0,0,0,0,0,1,2,1,1,2,-0.5,H,1,1,elijah-stewart-1,Elijah Stewart,2017
+32,98,32,2017-03-08,Southern California,N,Washington,CTOURN,W 78-73,,22,1,5,0.2,1,4,0.25,0,1,0.0,0.3,1,2,0.5,0,1,1,1,2,1,2,2,4,1.4,N,1,0,elijah-stewart-1,Elijah Stewart,2017
+33,99,33,2017-03-09,Southern California,N,UCLA,CTOURN,L 74-76,,29,6,10,0.6,3,5,0.6,3,5,0.6,0.75,2,3,0.667,1,2,3,0,0,1,0,5,17,12.0,N,0,0,elijah-stewart-1,Elijah Stewart,2017
+34,100,34,2017-03-15,Southern California,N,Providence,FIRST-FOUR,W 75-71,*,31,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,1,0,0,1,0,-1.6,N,1,0,elijah-stewart-1,Elijah Stewart,2017
+35,101,35,2017-03-17,Southern California,N,SMU,ROUND-64,W 66-65,*,36,8,15,0.533,6,13,0.462,2,2,1.0,0.733,0,0,,1,3,4,0,2,2,0,1,22,19.3,N,1,0,elijah-stewart-1,Elijah Stewart,2017
+36,102,36,2017-03-19,Southern California,N,Baylor,ROUND-32,L 78-82,*,37,4,7,0.571,3,6,0.5,1,1,1.0,0.786,1,2,0.5,1,1,2,3,0,0,2,3,12,8.2,N,0,0,elijah-stewart-1,Elijah Stewart,2017

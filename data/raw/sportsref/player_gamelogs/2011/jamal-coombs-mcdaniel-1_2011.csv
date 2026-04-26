@@ -1,0 +1,42 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2010-11-12,Connecticut,,Stony Brook,REG (Non-Conf),W 79-52,,17,2,6,0.333,1,3,0.333,1,3,0.333,0.417,4,4,1.0,3,4,7,1,0,0,1,2,9,7.8,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+2,36,2,2010-11-17,Connecticut,,Vermont,REG (Non-Conf),W 89-73,*,17,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,3,4,1,0,0,0,0,0,-0.5,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+3,37,3,2010-11-22,Connecticut,N,Wichita State,REG (Non-Conf),W 83-79,,10,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,1,1,0,0,1,0,1,4,2.2,N,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+4,38,4,2010-11-23,Connecticut,N,Michigan State,REG (Non-Conf),W 70-67,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,2,2,0,0,0,1,1,4,2.2,N,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+5,39,5,2010-11-24,Connecticut,N,Kentucky,REG (Non-Conf),W 84-67,,21,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,3,3,1,0,0,0,2,9,6.5,N,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+6,40,6,2010-11-30,Connecticut,,New Hampshire,REG (Non-Conf),W 62-55,,25,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,6,6,1,0,1,1,0,2,2.5,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+7,41,7,2010-12-03,Connecticut,,UMBC,REG (Non-Conf),W 94-61,,14,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,4,0.0,0,0,0,0,1,0,0,0,10,5.4,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+8,42,8,2010-12-08,Connecticut,,Fairleigh Dickinson,REG (Non-Conf),W 78-54,,17,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,3,0.667,0,3,3,0,0,0,0,1,7,3.0,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+9,43,9,2010-12-20,Connecticut,,Coppin State,REG (Non-Conf),W 76-64,,18,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,3,4,7,1,0,0,3,1,2,-1.9,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+10,44,10,2010-12-22,Connecticut,,Harvard,REG (Non-Conf),W 81-52,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,0,1,1,0,1,0,0,0,4,3.9,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+11,45,11,2010-12-27,Connecticut,@,Pittsburgh,REG (Conf),L 63-78,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+12,46,12,2010-12-31,Connecticut,,South Florida,REG (Conf),W 66-61 (OT),,13,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,1,1,2,1,0,0,0,0,6,6.7,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+13,47,13,2011-01-04,Connecticut,@,Notre Dame,REG (Conf),L 70-73,,17,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,2,2,4,0,0,0,1,2,9,5.9,A,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+14,48,14,2011-01-08,Connecticut,@,Texas,REG (Non-Conf),W 82-81 (OT),,8,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,0,0,0,0,1,2,0.9,A,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+15,49,15,2011-01-11,Connecticut,,Rutgers,REG (Conf),W 67-53,,22,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,2,0.5,0,3,3,1,0,0,2,2,9,3.0,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+16,50,16,2011-01-15,Connecticut,@,DePaul,REG (Conf),W 82-62,,16,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,1,1.0,0,3,3,1,0,0,1,3,7,4.1,A,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+17,51,17,2011-01-17,Connecticut,,Villanova,REG (Conf),W 61-59,,14,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,1,1,1,0,0,0,0,2,-0.1,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+18,52,18,2011-01-22,Connecticut,,Tennessee,REG (Non-Conf),W 72-61,,12,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,0,1,0,6,4.0,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+19,53,19,2011-01-25,Connecticut,@,Marquette,REG (Conf),W 76-68,,11,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,0,0,0,0,0,1,2,5,0.8,A,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+20,54,20,2011-01-29,Connecticut,,Louisville,REG (Conf),L 78-79 (2OT),,19,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,3,3,3,0,0,1,1,2,1.9,H,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+21,55,21,2011-02-02,Connecticut,,Syracuse,REG (Conf),L 58-66,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,2,0,-2.2,H,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+22,56,22,2011-02-05,Connecticut,@,Seton Hall,REG (Conf),W 61-59,,5,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,1,0,2,0.7,A,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+23,57,23,2011-02-10,Connecticut,@,St. John's (NY),REG (Conf),L 72-89,,14,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,2,2,1,0,0,0,1,3,1.5,A,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+24,58,24,2011-02-13,Connecticut,,Providence,REG (Conf),W 75-57,,31,10,17,0.588,1,3,0.333,9,14,0.643,0.618,4,4,1.0,3,5,8,1,0,0,1,1,25,20.0,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+25,59,25,2011-02-16,Connecticut,,Georgetown,REG (Conf),W 78-70,,38,8,11,0.727,2,4,0.5,6,7,0.857,0.818,5,6,0.833,1,5,6,2,2,1,2,0,23,22.4,H,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+26,60,26,2011-02-18,Connecticut,@,Louisville,REG (Conf),L 58-71,,23,6,8,0.75,2,2,1.0,4,6,0.667,0.875,2,3,0.667,1,5,6,0,0,2,3,4,16,11.4,A,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+27,61,27,2011-02-24,Connecticut,,Marquette,REG (Conf),L 67-74 (OT),*,19,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,1,0,1,1,2,5,2.1,H,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+28,62,28,2011-02-27,Connecticut,@,Cincinnati,REG (Conf),W 67-59,,19,1,3,0.333,1,3,0.333,0,0,,0.5,2,2,1.0,0,2,2,0,1,0,1,0,5,3.9,A,1,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+29,63,29,2011-03-02,Connecticut,@,West Virginia,REG (Conf),L 56-65,,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,1,0,0,0,3,3.3,A,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+30,64,30,2011-03-05,Connecticut,,Notre Dame,REG (Conf),L 67-70,,21,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,2,3,1,0,0,0,1,2,0.5,H,0,1,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+31,65,31,2011-03-08,Connecticut,N,DePaul,CTOURN,W 97-71,,20,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,0,3,3,1,2,0,2,3,11,9.2,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+32,66,32,2011-03-09,Connecticut,N,Georgetown,CTOURN,W 79-62,,23,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,0,1,1,1,0,0,0,1,12,7.6,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+33,67,33,2011-03-10,Connecticut,N,Pittsburgh,CTOURN,W 76-74,,22,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,1,1.0,1,1,2,0,0,0,1,1,5,1.2,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+34,68,34,2011-03-11,Connecticut,N,Syracuse,CTOURN,W 76-71 (OT),,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,1,2,3,0,0,1,1,1,3,0.8,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+35,69,35,2011-03-12,Connecticut,N,Louisville,CTOURN,W 69-66,,19,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,0,2,2,1,0,0,0,1,4,1.8,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+36,70,36,2011-03-17,Connecticut,N,Bucknell,ROUND-64,W 81-52,,12,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,3,3,1,1,0,0,1,0,-0.6,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+37,71,37,2011-03-19,Connecticut,N,Cincinnati,ROUND-32,W 69-58,,19,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,4,0.75,1,2,3,0,1,0,3,1,10,6.2,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+38,72,38,2011-03-24,Connecticut,N,San Diego State,ROUND-16,W 74-67,,24,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,4,4,0,0,0,0,1,0,-1.3,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+39,73,39,2011-03-26,Connecticut,N,Arizona,ROUND-8,W 65-63,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,0,0,0.3,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+40,74,40,2011-04-02,Connecticut,N,Kentucky,NATIONAL-SEMI,W 56-55,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,1,0.0,0,0,0,0,0,0,0,1,2,-0.5,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011
+41,75,41,2011-04-04,Connecticut,N,Butler,NATIONAL-FINAL,W 53-41,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,0,0,0,-1.1,N,1,0,jamal-coombs-mcdaniel-1,Jamal Coombs-McDaniel,2011

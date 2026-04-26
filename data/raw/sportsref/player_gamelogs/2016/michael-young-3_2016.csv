@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2015-11-17,Pittsburgh,,St. Joseph's (IN),REG (Non-Conf),W 84-43,*,22,6,11,0.545,0,0,,6,11,0.545,0.545,4,7,0.571,5,7,12,6,0,1,3,2,16,16.2,H,1,1,michael-young-3,Michael Young,2016
+2,72,2,2015-11-20,Pittsburgh,,Detroit Mercy,REG (Non-Conf),W 95-79,*,26,7,9,0.778,0,0,,7,9,0.778,0.778,7,7,1.0,2,6,8,1,0,3,2,2,21,20.7,H,1,1,michael-young-3,Michael Young,2016
+3,73,3,2015-11-25,Pittsburgh,,Cornell,REG (Non-Conf),W 93-49,*,21,6,10,0.6,0,0,,6,10,0.6,0.6,0,0,,3,5,8,6,0,1,1,2,12,14.1,H,1,1,michael-young-3,Michael Young,2016
+4,74,4,2015-11-28,Pittsburgh,,Kent State,REG (Non-Conf),W 85-76,*,34,10,15,0.667,0,1,0.0,10,14,0.714,0.667,3,3,1.0,2,2,4,6,0,0,3,1,23,19.3,H,1,1,michael-young-3,Michael Young,2016
+5,75,5,2015-12-01,Pittsburgh,,Purdue,REG (Non-Conf),L 59-72,*,33,5,11,0.455,0,0,,5,11,0.455,0.455,6,8,0.75,5,7,12,3,0,0,3,3,16,13.0,H,0,1,michael-young-3,Michael Young,2016
+6,76,6,2015-12-04,Pittsburgh,N,Duquesne,REG (Non-Conf),W 96-75,*,30,6,9,0.667,0,0,,6,9,0.667,0.667,8,9,0.889,3,8,11,4,0,1,2,0,20,21.7,N,1,1,michael-young-3,Michael Young,2016
+7,77,7,2015-12-06,Pittsburgh,,Central Arkansas,REG (Non-Conf),W 100-47,*,16,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,3,5,8,3,0,0,3,2,8,6.8,H,1,1,michael-young-3,Michael Young,2016
+8,78,8,2015-12-11,Pittsburgh,,Eastern Washington,REG (Non-Conf),W 84-51,*,24,8,13,0.615,0,1,0.0,8,12,0.667,0.615,5,5,1.0,1,2,3,4,0,0,1,0,21,18.2,H,1,1,michael-young-3,Michael Young,2016
+9,79,9,2015-12-13,Pittsburgh,,Morehead State,REG (Non-Conf),W 72-62,*,32,4,8,0.5,0,0,,4,8,0.5,0.5,12,13,0.923,2,4,6,2,0,0,2,0,20,17.6,H,1,1,michael-young-3,Michael Young,2016
+10,80,10,2015-12-20,Pittsburgh,N,Davidson,REG (Non-Conf),W 94-69,*,25,9,14,0.643,0,0,,9,14,0.643,0.643,4,4,1.0,2,4,6,2,0,0,3,1,22,16.4,N,1,1,michael-young-3,Michael Young,2016
+11,81,11,2015-12-23,Pittsburgh,,Western Carolina,REG (Non-Conf),W 79-73,*,31,3,6,0.5,0,1,0.0,3,5,0.6,0.5,6,6,1.0,3,3,6,0,0,0,3,1,12,8.6,H,1,1,michael-young-3,Michael Young,2016
+12,82,12,2015-12-30,Pittsburgh,,Syracuse,REG (Conf),W 72-61,*,33,5,8,0.625,0,0,,5,8,0.625,0.625,5,5,1.0,2,5,7,0,0,0,2,2,15,11.5,H,1,1,michael-young-3,Michael Young,2016
+13,83,13,2016-01-02,Pittsburgh,,Maryland Eastern Shore,REG (Non-Conf),W 92-58,*,24,5,9,0.556,0,0,,5,9,0.556,0.556,4,5,0.8,2,3,5,1,1,1,2,2,14,11.2,H,1,1,michael-young-3,Michael Young,2016
+14,84,14,2016-01-06,Pittsburgh,,Georgia Tech,REG (Conf),W 89-84,*,18,5,10,0.5,0,1,0.0,5,9,0.556,0.5,7,8,0.875,0,1,1,0,0,1,0,3,17,11.4,H,1,1,michael-young-3,Michael Young,2016
+15,85,15,2016-01-09,Pittsburgh,@,Notre Dame,REG (Conf),W 86-82,*,22,7,11,0.636,0,0,,7,11,0.636,0.636,11,14,0.786,2,3,5,4,0,0,2,4,25,20.4,A,1,1,michael-young-3,Michael Young,2016
+16,86,16,2016-01-14,Pittsburgh,@,Louisville,REG (Conf),L 41-59,*,37,7,16,0.438,0,0,,7,16,0.438,0.438,4,6,0.667,3,5,8,1,0,0,4,1,18,8.7,A,0,1,michael-young-3,Michael Young,2016
+17,87,17,2016-01-16,Pittsburgh,,Boston College,REG (Conf),W 84-61,*,34,5,10,0.5,0,0,,5,10,0.5,0.5,3,4,0.75,2,3,5,9,1,1,5,1,13,12.5,H,1,1,michael-young-3,Michael Young,2016
+18,88,18,2016-01-19,Pittsburgh,,NC State,REG (Conf),L 61-78,*,34,6,13,0.462,0,0,,6,13,0.462,0.462,2,2,1.0,1,6,7,1,2,1,3,0,14,10.2,H,0,1,michael-young-3,Michael Young,2016
+19,89,19,2016-01-23,Pittsburgh,@,Florida State,REG (Conf),W 74-72,*,37,3,9,0.333,0,0,,3,9,0.333,0.333,7,12,0.583,3,3,6,2,0,0,2,1,13,7.9,A,1,1,michael-young-3,Michael Young,2016
+20,90,20,2016-01-27,Pittsburgh,@,Clemson,REG (Conf),L 60-73,*,34,9,14,0.643,2,2,1.0,7,12,0.583,0.714,5,6,0.833,1,6,7,2,2,0,0,2,25,23.5,A,0,1,michael-young-3,Michael Young,2016
+21,91,21,2016-01-31,Pittsburgh,,Virginia Tech,REG (Conf),W 90-71,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,1,3,0.333,3,4,7,5,0,0,3,0,13,12.1,H,1,1,michael-young-3,Michael Young,2016
+22,92,22,2016-02-06,Pittsburgh,,Virginia,REG (Conf),L 50-64,*,34,4,11,0.364,0,0,,4,11,0.364,0.364,4,4,1.0,3,7,10,0,0,0,3,1,12,6.7,H,0,1,michael-young-3,Michael Young,2016
+23,93,23,2016-02-09,Pittsburgh,@,Miami (FL),REG (Conf),L 63-65,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,4,4,1.0,1,3,4,2,0,1,1,1,12,9.6,A,0,1,michael-young-3,Michael Young,2016
+24,94,24,2016-02-14,Pittsburgh,@,North Carolina,REG (Conf),L 64-85,,24,7,13,0.538,1,1,1.0,6,12,0.5,0.577,0,1,0.0,4,2,6,1,2,0,6,4,15,6.8,A,0,1,michael-young-3,Michael Young,2016
+25,95,25,2016-02-16,Pittsburgh,,Wake Forest,REG (Conf),W 101-96 (2OT),*,42,6,18,0.333,0,1,0.0,6,17,0.353,0.333,7,9,0.778,2,6,8,3,1,1,3,3,19,10.8,H,1,1,michael-young-3,Michael Young,2016
+26,96,26,2016-02-20,Pittsburgh,@,Syracuse,REG (Conf),W 66-52,*,35,4,9,0.444,0,0,,4,9,0.444,0.444,0,2,0.0,3,10,13,1,0,1,4,1,8,4.6,A,1,1,michael-young-3,Michael Young,2016
+27,97,27,2016-02-24,Pittsburgh,,Louisville,REG (Conf),L 60-67,*,32,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,4,0.0,2,5,7,3,0,0,3,0,10,5.4,H,0,1,michael-young-3,Michael Young,2016
+28,98,28,2016-02-28,Pittsburgh,,Duke,REG (Conf),W 76-62,*,17,4,9,0.444,0,0,,4,9,0.444,0.444,2,2,1.0,2,5,7,2,0,1,2,3,10,7.1,H,1,1,michael-young-3,Michael Young,2016
+29,99,29,2016-03-02,Pittsburgh,@,Virginia Tech,REG (Conf),L 61-65,*,33,7,11,0.636,1,1,1.0,6,10,0.6,0.682,1,1,1.0,1,8,9,1,0,1,0,2,16,14.8,A,0,1,michael-young-3,Michael Young,2016
+30,100,30,2016-03-05,Pittsburgh,@,Georgia Tech,REG (Conf),L 59-63,*,35,10,16,0.625,0,1,0.0,10,15,0.667,0.625,4,4,1.0,1,6,7,0,0,0,3,3,24,15.1,A,0,1,michael-young-3,Michael Young,2016
+31,101,31,2016-03-09,Pittsburgh,N,Syracuse,CTOURN,W 72-71,*,35,4,9,0.444,0,0,,4,9,0.444,0.444,1,4,0.25,3,2,5,2,1,0,1,2,9,6.4,N,1,0,michael-young-3,Michael Young,2016
+32,102,32,2016-03-10,Pittsburgh,N,North Carolina,CTOURN,L 71-88,*,34,6,10,0.6,0,0,,6,10,0.6,0.6,7,8,0.875,3,2,5,0,1,1,4,1,19,14.0,N,0,0,michael-young-3,Michael Young,2016
+33,103,33,2016-03-18,Pittsburgh,N,Wisconsin,ROUND-64,L 43-47,*,25,3,7,0.429,0,0,,3,7,0.429,0.429,0,1,0.0,1,4,5,0,0,2,2,3,6,2.0,N,0,0,michael-young-3,Michael Young,2016

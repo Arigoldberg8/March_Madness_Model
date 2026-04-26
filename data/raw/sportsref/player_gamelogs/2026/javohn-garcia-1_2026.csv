@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,108,1,2025-11-03,McNeese State,,Champion Christian,REG (Non-Conf),W 127-65,*,21,3,11,0.273,2,4,0.5,1,7,0.143,0.364,2,3,0.667,1,1,2,3,3,0,1,0,10,8.2,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+2,109,2,2025-11-07,McNeese State,@,Santa Clara,REG (Non-Conf),L 67-79,*,21,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,3,1,2,1,0,-0.5,A,0,1,javohn-garcia-1,Javohn Garcia,2026
+3,110,3,2025-11-10,McNeese State,,College of Biblical Studies,REG (Non-Conf),W 132-50,*,22,8,10,0.8,2,3,0.667,6,7,0.857,0.9,1,1,1.0,1,4,5,3,2,1,0,0,19,21.9,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+4,111,4,2025-11-14,McNeese State,,Louisiana,REG (Non-Conf),W 88-62,*,27,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,3,3,2,0,1,0,2,7,7.2,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+5,112,5,2025-11-23,McNeese State,N,George Washington,REG (Non-Conf),W 92-86,*,33,5,14,0.357,2,5,0.4,3,9,0.333,0.429,6,7,0.857,0,0,0,1,6,1,0,2,18,16.4,N,1,1,javohn-garcia-1,Javohn Garcia,2026
+6,113,6,2025-11-24,McNeese State,N,Murray State,REG (Non-Conf),W 73-60,*,31,5,10,0.5,1,3,0.333,4,7,0.571,0.55,4,7,0.571,1,5,6,6,1,3,0,2,15,17.5,N,1,1,javohn-garcia-1,Javohn Garcia,2026
+7,114,7,2025-11-25,McNeese State,N,Middle Tennessee,REG (Non-Conf),W 72-62,*,31,8,11,0.727,2,3,0.667,6,8,0.75,0.818,8,8,1.0,0,1,1,0,0,0,0,2,26,21.0,N,1,1,javohn-garcia-1,Javohn Garcia,2026
+8,115,8,2025-12-01,McNeese State,@,Incarnate Word,REG (Conf),L 67-71,*,33,4,7,0.571,1,3,0.333,3,4,0.75,0.643,4,4,1.0,0,3,3,1,0,0,2,2,13,8.5,A,0,1,javohn-garcia-1,Javohn Garcia,2026
+9,116,9,2025-12-05,McNeese State,,Northwestern State,REG (Conf),W 92-54,*,25,3,8,0.375,2,3,0.667,1,5,0.2,0.5,1,2,0.5,1,4,5,4,3,0,0,1,9,11.5,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+10,117,10,2025-12-09,McNeese State,@,Rhode Island,REG (Non-Conf),W 66-64,*,35,4,9,0.444,1,3,0.333,3,6,0.5,0.5,4,4,1.0,1,1,2,1,2,1,0,2,13,11.9,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+11,118,11,2025-12-12,McNeese State,,East Texas A&M,REG (Conf),W 102-66,*,21,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,0,3,3,1,0,0,1,0,11,7.3,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+12,119,12,2025-12-15,McNeese State,@,Houston Christian,REG (Conf),W 78-68,*,33,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,1,2,3,4,1,0,1,0,11,11.5,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+13,120,13,2025-12-29,McNeese State,@,Michigan,REG (Non-Conf),L 71-112,*,27,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,1,0.0,0,1,1,1,0,1,1,4,6,0.3,A,0,1,javohn-garcia-1,Javohn Garcia,2026
+14,121,14,2026-01-02,McNeese State,,Lamar,REG (Conf),W 82-70,*,33,4,9,0.444,0,3,0.0,4,6,0.667,0.444,7,11,0.636,1,3,4,1,5,1,0,3,15,15.5,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+15,122,15,2026-01-05,McNeese State,,Stephen F. Austin,REG (Conf),W 66-64,*,36,4,10,0.4,0,3,0.0,4,7,0.571,0.4,0,1,0.0,1,6,7,2,4,0,1,1,8,8.7,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+16,123,16,2026-01-10,McNeese State,,Southeastern Louisiana,REG (Conf),W 73-61,*,17,3,4,0.75,2,2,1.0,1,2,0.5,1.0,2,2,1.0,0,2,2,0,0,0,1,5,10,6.0,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+17,124,17,2026-01-12,McNeese State,,Nicholls State,REG (Conf),W 94-68,*,28,4,9,0.444,4,7,0.571,0,2,0.0,0.667,0,0,,2,1,3,2,0,0,1,1,12,9.0,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+18,125,18,2026-01-17,McNeese State,@,Texas–Rio Grande Valley,REG (Conf),L 76-79,*,36,7,13,0.538,2,6,0.333,5,7,0.714,0.615,3,3,1.0,1,3,4,0,1,1,0,1,19,15.6,A,0,1,javohn-garcia-1,Javohn Garcia,2026
+19,126,19,2026-01-19,McNeese State,@,Texas A&M–Corpus Christi,REG (Conf),W 69-53,*,34,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,8,0.5,0,1,1,1,1,1,0,1,6,5.0,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+20,127,20,2026-01-24,McNeese State,,New Orleans,REG (Conf),W 82-63,*,27,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,1,2,3,3,4,1,1,0,6,8.3,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+21,128,21,2026-01-27,McNeese State,@,Southeastern Louisiana,REG (Conf),W 76-66,*,29,4,6,0.667,2,2,1.0,2,4,0.5,0.833,3,5,0.6,0,4,4,2,3,0,0,4,13,13.6,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+22,129,22,2026-01-31,McNeese State,@,Lamar,REG (Conf),W 64-63,*,33,1,9,0.111,1,4,0.25,0,5,0.0,0.167,0,0,,0,3,3,1,2,1,1,1,3,0.0,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+23,130,23,2026-02-02,McNeese State,@,Stephen F. Austin,REG (Conf),L 60-67,*,25,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,2,2,0,1,0,2,2,4,-0.3,A,0,1,javohn-garcia-1,Javohn Garcia,2026
+24,131,24,2026-02-07,McNeese State,,Incarnate Word,REG (Conf),W 81-64,*,23,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,5,0.8,1,3,4,2,4,1,0,5,8,9.9,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+25,132,25,2026-02-09,McNeese State,,Houston Christian,REG (Conf),W 73-69,*,36,8,14,0.571,1,3,0.333,7,11,0.636,0.607,1,2,0.5,0,2,2,4,1,2,0,2,18,16.0,H,1,1,javohn-garcia-1,Javohn Garcia,2026
+26,133,26,2026-02-14,McNeese State,@,East Texas A&M,REG (Conf),W 97-54,*,23,8,12,0.667,5,8,0.625,3,4,0.75,0.875,0,0,,0,2,2,0,0,0,0,0,21,16.4,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+27,134,27,2026-02-16,McNeese State,@,Northwestern State,REG (Conf),W 75-64,*,32,2,11,0.182,0,5,0.0,2,6,0.333,0.182,0,0,,0,1,1,1,0,1,0,2,4,-2.0,A,1,1,javohn-garcia-1,Javohn Garcia,2026
+28,135,32,2026-03-10,McNeese State,N,Texas–Rio Grande Valley,CTOURN,W 84-80 (3OT),*,48,5,13,0.385,0,2,0.0,5,11,0.455,0.385,2,2,1.0,0,7,7,1,1,1,1,1,12,8.0,N,1,0,javohn-garcia-1,Javohn Garcia,2026
+29,136,33,2026-03-11,McNeese State,N,Stephen F. Austin,CTOURN,W 76-59,*,33,11,18,0.611,5,8,0.625,6,10,0.6,0.75,4,4,1.0,0,5,5,0,3,2,1,4,31,26.1,N,1,0,javohn-garcia-1,Javohn Garcia,2026

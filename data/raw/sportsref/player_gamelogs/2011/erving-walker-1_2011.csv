@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2010-11-12,Florida,,UNC Wilmington,REG (Non-Conf),W 77-60,*,30,3,6,0.5,3,5,0.6,0,1,0.0,0.75,0,0,,1,5,6,0,3,0,2,1,9,8.8,H,1,1,erving-walker-1,Erving Walker,2011
+2,72,2,2010-11-16,Florida,,Ohio State,REG (Non-Conf),L 75-93,*,34,5,7,0.714,1,3,0.333,4,4,1.0,0.786,4,4,1.0,1,0,1,4,0,0,7,2,15,7.8,H,0,1,erving-walker-1,Erving Walker,2011
+3,73,3,2010-11-18,Florida,,North Carolina A&T,REG (Non-Conf),W 105-55,*,20,4,6,0.667,2,4,0.5,2,2,1.0,0.833,1,2,0.5,0,4,4,6,3,0,0,1,11,16.0,H,1,1,erving-walker-1,Erving Walker,2011
+4,74,4,2010-11-21,Florida,,Morehead State,REG (Non-Conf),W 61-55,*,36,4,11,0.364,3,7,0.429,1,4,0.25,0.5,5,10,0.5,1,2,3,7,0,0,2,0,16,12.1,H,1,1,erving-walker-1,Erving Walker,2011
+5,75,5,2010-11-23,Florida,,Florida Atlantic,REG (Non-Conf),W 79-66,*,35,4,12,0.333,1,4,0.25,3,8,0.375,0.375,5,6,0.833,1,5,6,4,5,0,4,1,14,12.4,H,1,1,erving-walker-1,Erving Walker,2011
+6,76,6,2010-11-28,Florida,@,Florida State,REG (Non-Conf),W 55-51,*,31,2,9,0.222,2,6,0.333,0,3,0.0,0.333,3,4,0.75,0,3,3,3,1,0,4,1,9,2.7,A,1,1,erving-walker-1,Erving Walker,2011
+7,77,7,2010-12-01,Florida,N,UCF,REG (Non-Conf),L 54-57,*,33,4,7,0.571,2,4,0.5,2,3,0.667,0.714,6,6,1.0,1,2,3,2,0,0,3,2,16,11.6,N,0,1,erving-walker-1,Erving Walker,2011
+8,78,8,2010-12-05,Florida,N,American,REG (Non-Conf),W 67-48,*,33,5,7,0.714,4,6,0.667,1,1,1.0,1.0,2,2,1.0,0,2,2,0,2,0,3,1,16,12.3,N,1,1,erving-walker-1,Erving Walker,2011
+9,79,9,2010-12-09,Florida,,Kent State,REG (Non-Conf),W 65-52,*,28,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,4,4,3,0,0,1,1,3,1.8,H,1,1,erving-walker-1,Erving Walker,2011
+10,80,10,2010-12-18,Florida,N,Kansas State,REG (Non-Conf),W 57-44,*,26,4,9,0.444,0,3,0.0,4,6,0.667,0.444,5,7,0.714,0,1,1,3,0,0,1,2,13,8.1,N,1,1,erving-walker-1,Erving Walker,2011
+11,81,11,2010-12-20,Florida,,Jacksonville,REG (Non-Conf),L 68-71 (OT),*,30,5,13,0.385,2,7,0.286,3,6,0.5,0.462,9,12,0.75,1,0,1,2,0,0,3,1,21,11.4,H,0,1,erving-walker-1,Erving Walker,2011
+12,82,12,2010-12-22,Florida,,Radford,REG (Non-Conf),W 66-55,*,30,6,9,0.667,5,7,0.714,1,2,0.5,0.944,3,4,0.75,0,1,1,3,2,0,2,3,20,16.9,H,1,1,erving-walker-1,Erving Walker,2011
+13,83,13,2010-12-31,Florida,@,Xavier,REG (Non-Conf),W 71-67,*,35,3,9,0.333,3,6,0.5,0,3,0.0,0.5,9,11,0.818,0,3,3,1,1,0,6,1,18,8.3,A,1,1,erving-walker-1,Erving Walker,2011
+14,84,14,2011-01-03,Florida,,Rhode Island,REG (Non-Conf),W 84-59,*,27,4,8,0.5,3,6,0.5,1,2,0.5,0.688,3,4,0.75,0,2,2,5,2,0,4,2,14,10.9,H,1,1,erving-walker-1,Erving Walker,2011
+15,85,15,2011-01-08,Florida,,Ole Miss,REG (Conf),W 77-71,*,30,6,11,0.545,3,7,0.429,3,4,0.75,0.682,5,6,0.833,0,4,4,6,2,0,2,2,20,18.9,H,1,1,erving-walker-1,Erving Walker,2011
+16,86,16,2011-01-11,Florida,@,Tennessee,REG (Conf),W 81-75 (OT),*,38,6,11,0.545,1,3,0.333,5,8,0.625,0.591,2,3,0.667,0,1,1,4,0,0,3,1,15,9.0,A,1,1,erving-walker-1,Erving Walker,2011
+17,87,17,2011-01-15,Florida,,South Carolina,REG (Conf),L 69-72,*,35,6,12,0.5,3,6,0.5,3,6,0.5,0.625,2,4,0.5,0,4,4,2,0,0,2,3,17,9.6,H,0,1,erving-walker-1,Erving Walker,2011
+18,88,18,2011-01-20,Florida,@,Auburn,REG (Conf),W 45-40,*,36,3,15,0.2,2,9,0.222,1,6,0.167,0.267,4,4,1.0,2,3,5,2,1,0,2,0,12,5.4,A,1,1,erving-walker-1,Erving Walker,2011
+19,89,19,2011-01-22,Florida,,Arkansas,REG (Conf),W 75-43,*,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,3,2,0,1,1,2,1.2,H,1,1,erving-walker-1,Erving Walker,2011
+20,90,20,2011-01-25,Florida,@,Georgia,REG (Conf),W 104-91 (2OT),*,44,7,17,0.412,2,8,0.25,5,9,0.556,0.471,8,12,0.667,1,3,4,5,1,0,1,3,24,17.2,A,1,1,erving-walker-1,Erving Walker,2011
+21,91,21,2011-01-29,Florida,@,Mississippi State,REG (Conf),L 64-71,*,37,6,17,0.353,2,8,0.25,4,9,0.444,0.412,4,5,0.8,3,2,5,4,0,0,2,3,18,10.4,A,0,1,erving-walker-1,Erving Walker,2011
+22,92,22,2011-02-01,Florida,,Vanderbilt,REG (Conf),W 65-61 (OT),*,39,5,14,0.357,1,6,0.167,4,8,0.5,0.393,4,6,0.667,0,6,6,4,0,0,2,0,15,9.0,H,1,1,erving-walker-1,Erving Walker,2011
+23,93,23,2011-02-05,Florida,,Kentucky,REG (Conf),W 70-68,*,31,1,9,0.111,1,6,0.167,0,3,0.0,0.167,6,6,1.0,0,1,1,5,2,0,2,2,9,6.1,H,1,1,erving-walker-1,Erving Walker,2011
+24,94,24,2011-02-09,Florida,@,South Carolina,REG (Conf),W 79-60,*,36,7,9,0.778,4,5,0.8,3,4,0.75,1.0,7,9,0.778,0,1,1,3,2,0,1,2,25,23.3,A,1,1,erving-walker-1,Erving Walker,2011
+25,95,25,2011-02-12,Florida,,Tennessee,REG (Conf),W 61-60,*,36,3,9,0.333,1,4,0.25,2,5,0.4,0.389,9,10,0.9,0,1,1,3,0,0,3,1,16,9.5,H,1,1,erving-walker-1,Erving Walker,2011
+26,96,26,2011-02-20,Florida,@,Louisiana State,REG (Conf),W 68-61,*,36,5,10,0.5,3,6,0.5,2,4,0.5,0.65,4,4,1.0,1,3,4,1,1,0,3,2,17,11.5,A,1,1,erving-walker-1,Erving Walker,2011
+27,97,27,2011-02-24,Florida,,Georgia,REG (Conf),W 71-62,*,34,5,13,0.385,2,8,0.25,3,5,0.6,0.462,3,5,0.6,0,4,4,2,0,0,1,0,15,8.7,H,1,1,erving-walker-1,Erving Walker,2011
+28,98,28,2011-02-26,Florida,@,Kentucky,REG (Conf),L 68-76,*,36,2,11,0.182,1,6,0.167,1,5,0.2,0.227,5,5,1.0,2,3,5,3,2,0,2,3,10,6.3,A,0,1,erving-walker-1,Erving Walker,2011
+29,99,29,2011-03-01,Florida,,Alabama,REG (Conf),W 78-51,*,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,0,1,1,7,3,0,3,2,8,8.7,H,1,1,erving-walker-1,Erving Walker,2011
+30,100,30,2011-03-05,Florida,@,Vanderbilt,REG (Conf),W 86-76,*,32,3,11,0.273,0,5,0.0,3,6,0.5,0.273,10,11,0.909,0,3,3,6,1,0,1,0,16,14.2,A,1,1,erving-walker-1,Erving Walker,2011
+31,101,31,2011-03-11,Florida,N,Tennessee,CTOURN,W 85-74,*,35,5,9,0.556,3,4,0.75,2,5,0.4,0.722,4,7,0.571,0,3,3,2,1,0,3,2,17,11.0,N,1,0,erving-walker-1,Erving Walker,2011
+32,102,32,2011-03-12,Florida,N,Vanderbilt,CTOURN,W 77-66,*,34,6,14,0.429,3,6,0.5,3,8,0.375,0.536,2,2,1.0,0,2,2,2,0,0,2,1,17,9.2,N,1,0,erving-walker-1,Erving Walker,2011
+33,103,33,2011-03-13,Florida,N,Kentucky,CTOURN,L 54-70,*,27,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,1,2,3,1,0,0,2,3,8,1.0,N,0,0,erving-walker-1,Erving Walker,2011
+34,104,34,2011-03-17,Florida,N,UC Santa Barbara,ROUND-64,W 79-51,*,28,5,8,0.625,4,6,0.667,1,2,0.5,0.875,4,5,0.8,0,1,1,6,1,0,1,0,18,18.5,N,1,0,erving-walker-1,Erving Walker,2011
+35,105,35,2011-03-19,Florida,N,UCLA,ROUND-32,W 73-65,*,33,5,8,0.625,3,5,0.6,2,3,0.667,0.813,8,10,0.8,0,3,3,2,1,0,1,0,21,18.9,N,1,0,erving-walker-1,Erving Walker,2011
+36,106,36,2011-03-24,Florida,N,Brigham Young,ROUND-16,W 83-74 (OT),*,37,5,13,0.385,3,7,0.429,2,6,0.333,0.5,3,6,0.5,2,4,6,5,1,0,3,2,16,11.0,N,1,0,erving-walker-1,Erving Walker,2011
+37,107,37,2011-03-26,Florida,N,Butler,ROUND-8,L 71-74 (OT),*,37,1,10,0.1,1,7,0.143,0,3,0.0,0.15,5,6,0.833,0,1,1,4,1,0,2,4,8,1.5,N,0,0,erving-walker-1,Erving Walker,2011

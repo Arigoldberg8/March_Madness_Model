@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2021-11-11,Vermont,@,Northern Iowa,REG (Non-Conf),W 71-57,*,33,7,15,0.467,3,9,0.333,4,6,0.667,0.567,0,0,,2,3,5,2,1,1,1,1,17,13.3,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+2,66,2,2021-11-13,Vermont,@,Maryland,REG (Non-Conf),L 57-68,*,33,5,12,0.417,2,3,0.667,3,9,0.333,0.5,2,2,1.0,2,9,11,3,0,0,1,0,14,12.8,A,0,1,isaiah-powell-1,Isaiah Powell,2022
+3,67,3,2021-11-16,Vermont,,WPI,REG (Non-Conf),W 81-48,*,23,4,8,0.5,1,4,0.25,3,4,0.75,0.563,0,0,,2,7,9,4,2,2,1,0,9,13.7,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+4,68,4,2021-11-19,Vermont,,Yale,REG (Non-Conf),W 61-53,*,35,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,1,6,7,2,0,0,1,3,8,5.7,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+5,69,6,2021-11-23,Vermont,N,Evansville,REG (Non-Conf),W 58-49,*,31,8,14,0.571,0,2,0.0,8,12,0.667,0.571,1,1,1.0,2,5,7,0,2,0,3,2,17,11.5,N,1,1,isaiah-powell-1,Isaiah Powell,2022
+6,70,7,2021-11-24,Vermont,N,Appalachian State,REG (Non-Conf),W 65-63,*,37,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,0,3,3,2,0,0,1,3,7,4.4,N,1,1,isaiah-powell-1,Isaiah Powell,2022
+7,71,8,2021-11-27,Vermont,@,UNC Greensboro,REG (Non-Conf),L 51-54,*,37,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,7,7,3,1,1,0,1,7,6.7,A,0,1,isaiah-powell-1,Isaiah Powell,2022
+8,72,9,2021-12-01,Vermont,,Dartmouth,REG (Non-Conf),W 83-65,*,30,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,0,,0,5,5,1,0,0,1,1,11,8.9,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+9,73,10,2021-12-07,Vermont,@,Providence,REG (Non-Conf),L 58-68,*,36,4,10,0.4,1,5,0.2,3,5,0.6,0.45,0,0,,1,7,8,3,1,0,2,3,9,6.3,A,0,1,isaiah-powell-1,Isaiah Powell,2022
+10,74,11,2021-12-10,Vermont,@,Brown,REG (Non-Conf),W 70-65,*,34,5,9,0.556,1,5,0.2,4,4,1.0,0.611,4,4,1.0,0,8,8,1,0,0,1,2,15,12.0,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+11,75,12,2021-12-22,Vermont,,Colgate,REG (Non-Conf),W 78-68,*,33,6,12,0.5,3,6,0.5,3,6,0.5,0.625,2,2,1.0,0,6,6,1,1,2,2,1,17,13.5,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+12,76,13,2022-01-06,Vermont,,New Hampshire,REG (Conf),W 82-68,*,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,7,7,0,0,2,2,3,2,1.3,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+13,77,14,2022-01-12,Vermont,,Stony Brook,REG (Conf),W 98-65,*,30,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,2,8,10,9,0,1,2,2,7,10.9,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+14,78,15,2022-01-15,Vermont,@,UMBC,REG (Conf),W 86-69,*,31,4,5,0.8,0,0,,4,5,0.8,0.8,5,6,0.833,0,7,7,9,0,0,4,4,13,13.5,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+15,79,16,2022-01-19,Vermont,@,NJIT,REG (Conf),W 83-57,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,0,2,2,3,0,0,3,1,6,3.6,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+16,80,17,2022-01-22,Vermont,,Hartford,REG (Conf),W 82-72,*,34,5,9,0.556,1,2,0.5,4,7,0.571,0.611,5,6,0.833,3,4,7,3,1,1,4,1,16,14.0,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+17,81,18,2022-01-26,Vermont,@,Stony Brook,REG (Conf),W 80-67,*,28,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,5,5,4,0,0,3,2,0,-1.6,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+18,82,19,2022-01-29,Vermont,,Maine,REG (Conf),W 81-68,*,22,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,4,4,3,1,0,4,2,5,3.9,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+19,83,20,2022-01-31,Vermont,,Albany (NY),REG (Conf),W 73-61,*,34,6,9,0.667,2,3,0.667,4,6,0.667,0.778,0,0,,1,6,7,5,0,0,2,1,14,13.7,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+20,84,21,2022-02-02,Vermont,,NJIT,REG (Conf),W 90-67,*,21,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,4,6,3,1,0,2,1,2,2.2,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+21,85,22,2022-02-05,Vermont,@,UMass Lowell,REG (Conf),W 78-67,*,31,4,9,0.444,2,3,0.667,2,6,0.333,0.556,2,2,1.0,2,2,4,2,0,0,1,3,12,8.5,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+22,86,23,2022-02-09,Vermont,,Binghamton,REG (Conf),W 82-51,*,25,3,7,0.429,2,3,0.667,1,4,0.25,0.571,2,4,0.5,1,3,4,2,0,0,3,0,10,5.5,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+23,87,24,2022-02-12,Vermont,@,Albany (NY),REG (Conf),W 76-63,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,5,0.8,0,6,6,6,0,0,3,2,8,6.4,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+24,88,25,2022-02-14,Vermont,@,Hartford,REG (Conf),L 74-75 (OT),*,38,1,7,0.143,0,1,0.0,1,6,0.167,0.143,3,3,1.0,0,6,6,3,0,0,2,1,5,2.0,A,0,1,isaiah-powell-1,Isaiah Powell,2022
+25,89,26,2022-02-16,Vermont,@,New Hampshire,REG (Conf),W 71-50,*,33,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,2,0.5,0,9,9,3,1,0,2,1,6,6.3,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+26,90,27,2022-02-19,Vermont,,UMBC,REG (Conf),W 86-59,*,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,2,1.0,2,6,8,3,1,0,2,2,8,9.9,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+27,91,28,2022-02-23,Vermont,@,Binghamton,REG (Conf),W 66-49,*,30,1,2,0.5,0,0,,1,2,0.5,0.5,0,2,0.0,1,2,3,0,1,1,2,3,2,0.0,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+28,92,29,2022-02-26,Vermont,,UMass Lowell,REG (Conf),W 62-61,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,1,0.0,2,7,9,3,0,0,4,1,4,0.7,H,1,1,isaiah-powell-1,Isaiah Powell,2022
+29,93,30,2022-03-01,Vermont,@,Maine,REG (Conf),W 75-56,*,19,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,4,5,3,0,0,2,0,2,2.3,A,1,1,isaiah-powell-1,Isaiah Powell,2022
+30,94,31,2022-03-06,Vermont,,NJIT,CTOURN,W 98-59,*,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,3,3,2,0,0,0,1,5,4.2,H,1,0,isaiah-powell-1,Isaiah Powell,2022
+31,95,32,2022-03-09,Vermont,,Binghamton,CTOURN,W 74-42,*,28,0,4,0.0,0,1,0.0,0,3,0.0,0.0,3,4,0.75,2,5,7,3,0,1,0,0,3,5.5,H,1,0,isaiah-powell-1,Isaiah Powell,2022
+32,96,33,2022-03-12,Vermont,,UMBC,CTOURN,W 82-43,*,25,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,1,0.0,0,6,6,1,0,0,2,1,8,5.1,H,1,0,isaiah-powell-1,Isaiah Powell,2022
+33,97,34,2022-03-17,Vermont,N,Arkansas,ROUND-64,L 71-75,*,32,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,7,7,1,0,0,0,3,2,2.9,N,0,0,isaiah-powell-1,Isaiah Powell,2022

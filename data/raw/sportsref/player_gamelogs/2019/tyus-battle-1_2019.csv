@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,72,1,2018-11-06,Syracuse,,Eastern Washington,REG (Non-Conf),W 66-34,*,29,3,10,0.3,0,1,0.0,3,9,0.333,0.3,2,2,1.0,1,2,3,1,1,0,1,3,8,3.0,H,1,1,tyus-battle-1,Tyus Battle,2019
+2,73,2,2018-11-10,Syracuse,,Morehead State,REG (Non-Conf),W 84-70,*,39,7,15,0.467,0,1,0.0,7,14,0.5,0.467,9,10,0.9,0,3,3,3,0,0,1,2,23,16.1,H,1,1,tyus-battle-1,Tyus Battle,2019
+3,74,3,2018-11-15,Syracuse,N,Connecticut,REG (Non-Conf),L 76-83,*,40,7,17,0.412,1,5,0.2,6,12,0.5,0.441,1,2,0.5,1,2,3,4,1,0,1,2,16,9.8,N,0,1,tyus-battle-1,Tyus Battle,2019
+4,75,4,2018-11-16,Syracuse,N,Oregon,REG (Non-Conf),L 65-80,*,36,4,10,0.4,0,4,0.0,4,6,0.667,0.4,9,10,0.9,1,2,3,2,1,0,2,3,17,11.7,N,0,1,tyus-battle-1,Tyus Battle,2019
+5,76,5,2018-11-21,Syracuse,,Colgate,REG (Non-Conf),W 77-56,*,26,8,10,0.8,3,3,1.0,5,7,0.714,0.95,5,9,0.556,0,2,2,1,1,0,0,0,24,20.9,H,1,1,tyus-battle-1,Tyus Battle,2019
+6,77,6,2018-11-28,Syracuse,@,Ohio State,REG (Non-Conf),W 72-62,*,40,6,10,0.6,1,2,0.5,5,8,0.625,0.65,7,8,0.875,0,3,3,2,1,0,3,3,20,14.1,A,1,1,tyus-battle-1,Tyus Battle,2019
+7,78,7,2018-12-01,Syracuse,,Cornell,REG (Non-Conf),W 63-55,*,36,10,17,0.588,4,6,0.667,6,11,0.545,0.706,2,3,0.667,1,4,5,0,0,0,1,2,26,17.8,H,1,1,tyus-battle-1,Tyus Battle,2019
+8,79,8,2018-12-04,Syracuse,,Northeastern,REG (Non-Conf),W 72-49,*,27,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,0,2,2,3,0,0,0,2,2,-0.6,H,1,1,tyus-battle-1,Tyus Battle,2019
+9,80,9,2018-12-08,Syracuse,,Georgetown,REG (Non-Conf),W 72-71,*,39,8,18,0.444,2,6,0.333,6,12,0.5,0.5,8,11,0.727,2,3,5,2,3,0,1,3,26,19.9,H,1,1,tyus-battle-1,Tyus Battle,2019
+10,81,10,2018-12-15,Syracuse,,Old Dominion,REG (Non-Conf),L 62-68,*,40,5,14,0.357,2,6,0.333,3,8,0.375,0.429,11,15,0.733,0,3,3,1,1,0,2,4,23,12.6,H,0,1,tyus-battle-1,Tyus Battle,2019
+11,82,11,2018-12-18,Syracuse,,Buffalo,REG (Non-Conf),L 59-71,*,38,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,1,1,2,1,0,1,3,1,11,4.6,H,0,1,tyus-battle-1,Tyus Battle,2019
+12,83,12,2018-12-22,Syracuse,,Arkansas State,REG (Non-Conf),W 82-52,*,36,5,12,0.417,1,5,0.2,4,7,0.571,0.458,6,7,0.857,0,2,2,0,2,1,2,1,17,11.1,H,1,1,tyus-battle-1,Tyus Battle,2019
+13,84,13,2018-12-29,Syracuse,,St. Bonaventure,REG (Non-Conf),W 81-48,*,33,8,8,1.0,0,0,,8,8,1.0,1.0,5,6,0.833,0,2,2,2,6,0,0,0,21,26.2,H,1,1,tyus-battle-1,Tyus Battle,2019
+14,85,14,2019-01-05,Syracuse,@,Notre Dame,REG (Conf),W 72-62,*,39,8,17,0.471,1,2,0.5,7,15,0.467,0.5,0,0,,3,2,5,2,1,0,1,1,17,12.0,A,1,1,tyus-battle-1,Tyus Battle,2019
+15,86,15,2019-01-09,Syracuse,,Clemson,REG (Conf),W 61-53,*,40,4,13,0.308,0,6,0.0,4,7,0.571,0.308,4,4,1.0,0,3,3,3,2,1,2,3,12,7.0,H,1,1,tyus-battle-1,Tyus Battle,2019
+16,87,16,2019-01-12,Syracuse,,Georgia Tech,REG (Conf),L 59-73,*,34,3,12,0.25,1,4,0.25,2,8,0.25,0.292,4,5,0.8,2,0,2,1,1,1,3,4,11,2.6,H,0,1,tyus-battle-1,Tyus Battle,2019
+17,88,17,2019-01-14,Syracuse,@,Duke,REG (Conf),W 95-91 (OT),*,45,12,28,0.429,1,5,0.2,11,23,0.478,0.446,7,7,1.0,0,4,4,4,1,0,3,2,32,18.4,A,1,1,tyus-battle-1,Tyus Battle,2019
+18,89,18,2019-01-19,Syracuse,,Pittsburgh,REG (Conf),W 74-63,*,40,9,17,0.529,3,7,0.429,6,10,0.6,0.618,1,4,0.25,1,2,3,2,1,2,4,4,22,12.0,H,1,1,tyus-battle-1,Tyus Battle,2019
+19,90,19,2019-01-24,Syracuse,,Miami (FL),REG (Conf),W 73-53,*,36,3,8,0.375,1,5,0.2,2,3,0.667,0.438,3,3,1.0,1,5,6,9,0,0,0,0,10,14.1,H,1,1,tyus-battle-1,Tyus Battle,2019
+20,91,20,2019-01-26,Syracuse,@,Virginia Tech,REG (Conf),L 56-78,*,36,3,10,0.3,2,6,0.333,1,4,0.25,0.4,2,3,0.667,1,1,2,2,1,1,3,2,10,4.1,A,0,1,tyus-battle-1,Tyus Battle,2019
+21,92,21,2019-01-30,Syracuse,@,Boston College,REG (Conf),W 77-71,*,38,11,17,0.647,4,8,0.5,7,9,0.778,0.765,5,8,0.625,0,4,4,6,1,0,1,1,31,27.3,A,1,1,tyus-battle-1,Tyus Battle,2019
+22,93,22,2019-02-02,Syracuse,@,Pittsburgh,REG (Conf),W 65-56,*,37,2,13,0.154,0,3,0.0,2,10,0.2,0.154,2,2,1.0,1,2,3,5,0,0,1,3,6,0.3,A,1,1,tyus-battle-1,Tyus Battle,2019
+23,94,23,2019-02-05,Syracuse,,Florida State,REG (Conf),L 62-80,*,37,8,15,0.533,1,2,0.5,7,13,0.538,0.567,6,8,0.75,0,2,2,2,2,0,4,3,23,13.7,H,0,1,tyus-battle-1,Tyus Battle,2019
+24,95,24,2019-02-09,Syracuse,,Boston College,REG (Conf),W 67-56,*,36,8,13,0.615,0,2,0.0,8,11,0.727,0.615,5,7,0.714,0,4,4,1,3,0,2,0,21,17.2,H,1,1,tyus-battle-1,Tyus Battle,2019
+25,96,25,2019-02-13,Syracuse,@,NC State,REG (Conf),L 58-73,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,2,0.5,0,4,4,1,0,0,4,4,7,-2.2,A,0,1,tyus-battle-1,Tyus Battle,2019
+26,97,26,2019-02-20,Syracuse,,Louisville,REG (Conf),W 69-49,*,38,4,14,0.286,1,4,0.25,3,10,0.3,0.321,2,2,1.0,0,4,4,7,1,0,1,1,11,8.5,H,1,1,tyus-battle-1,Tyus Battle,2019
+27,98,27,2019-02-23,Syracuse,,Duke,REG (Conf),L 65-75,*,37,4,17,0.235,2,4,0.5,2,13,0.154,0.294,6,9,0.667,1,2,3,1,0,0,0,4,16,4.9,H,0,1,tyus-battle-1,Tyus Battle,2019
+28,99,28,2019-02-26,Syracuse,@,North Carolina,REG (Conf),L 85-93,*,38,7,17,0.412,4,7,0.571,3,10,0.3,0.529,11,14,0.786,1,4,5,5,0,0,3,3,29,19.9,A,0,1,tyus-battle-1,Tyus Battle,2019
+29,100,29,2019-03-02,Syracuse,@,Wake Forest,REG (Conf),W 79-54,*,33,9,13,0.692,1,3,0.333,8,10,0.8,0.731,2,2,1.0,1,2,3,0,5,0,2,1,21,19.4,A,1,1,tyus-battle-1,Tyus Battle,2019
+30,101,30,2019-03-04,Syracuse,,Virginia,REG (Conf),L 53-79,*,34,5,19,0.263,1,5,0.2,4,14,0.286,0.289,0,1,0.0,1,4,5,3,0,0,0,2,11,2.5,H,0,1,tyus-battle-1,Tyus Battle,2019
+31,102,31,2019-03-09,Syracuse,@,Clemson,REG (Conf),L 55-67,*,35,3,11,0.273,1,3,0.333,2,8,0.25,0.318,3,6,0.5,1,2,3,1,0,1,2,1,10,2.6,A,0,1,tyus-battle-1,Tyus Battle,2019
+32,103,34,2019-03-21,Syracuse,N,Baylor,ROUND-64,L 69-78,*,38,6,15,0.4,3,7,0.429,3,8,0.375,0.5,1,1,1.0,0,2,2,3,1,0,4,3,16,6.4,N,0,0,tyus-battle-1,Tyus Battle,2019

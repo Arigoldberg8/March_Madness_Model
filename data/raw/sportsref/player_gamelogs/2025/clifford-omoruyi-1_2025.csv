@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,122,1,2024-11-04,Alabama,,UNC Asheville,REG (Non-Conf),W 110-54,*,19,6,6,1.0,0,0,,6,6,1.0,1.0,4,4,1.0,1,7,8,1,0,2,1,3,16,16.9,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+2,123,2,2024-11-08,Alabama,,Arkansas State,REG (Non-Conf),W 88-79,*,17,5,6,0.833,0,0,,5,6,0.833,0.833,2,4,0.5,1,8,9,0,0,1,0,4,12,11.2,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+3,124,3,2024-11-11,Alabama,,McNeese State,REG (Non-Conf),W 72-64,*,18,1,1,1.0,0,0,,1,1,1.0,1.0,2,3,0.667,4,3,7,0,0,3,2,3,4,5.9,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+4,125,4,2024-11-15,Alabama,@,Purdue,REG (Non-Conf),L 78-87,*,22,2,5,0.4,0,0,,2,5,0.4,0.4,3,4,0.75,2,5,7,0,0,4,0,4,7,8.0,A,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+5,126,5,2024-11-20,Alabama,N,Illinois,REG (Non-Conf),W 100-87,*,15,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,0,6,6,2,0,0,0,4,6,5.6,N,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+6,127,6,2024-11-26,Alabama,N,Houston,REG (Non-Conf),W 85-80 (OT),*,17,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,2,1,3,0,0,1,1,2,4,3.5,N,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+7,128,7,2024-11-27,Alabama,N,Rutgers,REG (Non-Conf),W 95-90,*,15,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,2,2,4,2,0,0,1,4,6,5.5,N,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+8,129,8,2024-11-30,Alabama,N,Oregon,REG (Non-Conf),L 81-83,*,18,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,2,4,6,0,0,0,1,4,7,3.6,N,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+9,130,9,2024-12-04,Alabama,@,North Carolina,REG (Non-Conf),W 94-79,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,1,4,5,2,0,2,0,2,11,11.2,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+10,131,10,2024-12-14,Alabama,,Creighton,REG (Non-Conf),W 83-75,*,25,2,3,0.667,0,0,,2,3,0.667,0.667,4,4,1.0,0,4,4,2,1,0,0,2,8,9.5,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+11,132,11,2024-12-18,Alabama,@,North Dakota,REG (Non-Conf),W 97-90,*,14,0,0,,0,0,,0,0,,,1,2,0.5,1,4,5,0,0,0,2,2,1,-0.3,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+12,133,12,2024-12-22,Alabama,,Kent State,REG (Non-Conf),W 81-54,*,19,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,4,8,12,0,0,1,2,2,7,7.4,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+13,134,13,2024-12-29,Alabama,,South Dakota State,REG (Non-Conf),W 105-82,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,4,4,1,1,2,1,3,2,3.8,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+14,135,14,2025-01-04,Alabama,,Oklahoma,REG (Conf),W 107-79,*,17,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,3,4,7,0,0,1,0,0,10,12.5,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+15,136,15,2025-01-08,Alabama,@,South Carolina,REG (Conf),W 88-68,*,13,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,3,2,5,2,0,0,0,4,10,9.6,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+16,137,16,2025-01-11,Alabama,@,Texas A&M,REG (Conf),W 94-88,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,3,4,0.75,2,8,10,1,0,1,0,4,7,9.6,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+17,138,17,2025-01-14,Alabama,,Ole Miss,REG (Conf),L 64-74,*,13,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,1,2,0,0,0,2,2,3,0.5,H,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+18,139,18,2025-01-18,Alabama,@,Kentucky,REG (Conf),W 102-97,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,2,5,7,0,0,2,0,2,12,12.6,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+19,140,19,2025-01-21,Alabama,,Vanderbilt,REG (Conf),W 103-87,*,16,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,1,2,3,0,0,4,0,2,5,7.3,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+20,141,20,2025-01-25,Alabama,,Louisiana State,REG (Conf),W 80-73,*,23,4,4,1.0,0,0,,4,4,1.0,1.0,0,2,0.0,4,5,9,3,1,0,1,3,8,11.2,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+21,142,21,2025-01-29,Alabama,@,Mississippi State,REG (Conf),W 88-84,*,20,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,6,7,0,2,1,2,2,6,7.1,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+22,143,22,2025-02-01,Alabama,,Georgia,REG (Conf),W 90-69,*,15,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,4,7,11,1,0,1,0,3,6,8.4,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+23,144,23,2025-02-08,Alabama,@,Arkansas,REG (Conf),W 85-81,*,22,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,2,1,3,0,0,0,1,3,9,5.5,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+24,145,24,2025-02-11,Alabama,@,Texas,REG (Conf),W 103-80,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,3,5,8,2,0,3,3,2,2,4.3,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+25,146,25,2025-02-15,Alabama,,Auburn,REG (Conf),L 85-94,*,25,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,3,9,12,1,0,0,0,3,8,9.6,H,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+26,147,26,2025-02-19,Alabama,@,Missouri,REG (Conf),L 98-110,*,15,0,2,0.0,0,0,,0,2,0.0,0.0,4,4,1.0,2,0,2,0,0,1,0,3,4,3.5,A,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+27,148,27,2025-02-22,Alabama,,Kentucky,REG (Conf),W 96-83,*,29,4,4,1.0,0,0,,4,4,1.0,1.0,3,4,0.75,3,12,15,2,1,0,3,4,11,12.9,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+28,149,28,2025-02-25,Alabama,,Mississippi State,REG (Conf),W 111-73,*,19,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,4,4,8,1,1,0,0,3,8,11.3,H,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+29,150,29,2025-03-01,Alabama,@,Tennessee,REG (Conf),L 76-79,*,23,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,5,7,0,0,1,2,2,5,2.7,A,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+30,151,30,2025-03-05,Alabama,,Florida,REG (Conf),L 94-99,*,25,3,3,1.0,0,0,,3,3,1.0,1.0,5,5,1.0,2,5,7,2,1,1,0,2,11,15.3,H,0,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+31,152,31,2025-03-08,Alabama,@,Auburn,REG (Conf),W 93-91 (OT),*,21,7,7,1.0,0,0,,7,7,1.0,1.0,1,1,1.0,3,5,8,2,0,0,2,4,15,14.3,A,1,1,clifford-omoruyi-1,Clifford Omoruyi,2025
+32,153,32,2025-03-14,Alabama,N,Kentucky,CTOURN,W 99-70,*,13,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,1,5,6,1,0,0,0,4,8,6.2,N,1,0,clifford-omoruyi-1,Clifford Omoruyi,2025
+33,154,33,2025-03-15,Alabama,N,Florida,CTOURN,L 82-104,*,16,3,5,0.6,0,0,,3,5,0.6,0.6,6,6,1.0,0,1,1,0,0,2,0,3,12,10.2,N,0,0,clifford-omoruyi-1,Clifford Omoruyi,2025
+34,155,34,2025-03-21,Alabama,N,Robert Morris,ROUND-64,W 90-81,*,21,8,8,1.0,0,0,,8,8,1.0,1.0,1,2,0.5,0,4,4,0,3,2,1,0,17,18.8,N,1,0,clifford-omoruyi-1,Clifford Omoruyi,2025
+35,156,35,2025-03-23,Alabama,N,St. Mary's (CA),ROUND-32,W 80-66,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,3,8,11,2,0,2,0,0,10,14.4,N,1,0,clifford-omoruyi-1,Clifford Omoruyi,2025
+36,157,36,2025-03-27,Alabama,N,Brigham Young,ROUND-16,W 113-88,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,6,6,1.0,1,5,6,2,2,1,0,2,10,13.5,N,1,0,clifford-omoruyi-1,Clifford Omoruyi,2025
+37,158,37,2025-03-29,Alabama,N,Duke,ROUND-8,L 65-85,*,13,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,1,1,2,0,1,2,0,2,4,4.9,N,0,0,clifford-omoruyi-1,Clifford Omoruyi,2025

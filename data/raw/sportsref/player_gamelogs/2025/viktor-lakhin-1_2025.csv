@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2024-11-04,Clemson,,Charleston Southern,REG (Non-Conf),W 91-64,*,16,5,13,0.385,1,4,0.25,4,9,0.444,0.423,1,2,0.5,2,2,4,0,1,1,1,3,12,6.0,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+2,93,2,2024-11-08,Clemson,,Saint Francis (PA),REG (Non-Conf),W 88-62,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,3,4,1,1,2,0,3,8,10.3,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+3,94,3,2024-11-12,Clemson,,Eastern Kentucky,REG (Non-Conf),W 75-62,*,30,8,13,0.615,0,3,0.0,8,10,0.8,0.615,3,6,0.5,4,8,12,2,2,3,1,2,19,20.8,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+4,95,4,2024-11-17,Clemson,@,Boise State,REG (Non-Conf),L 71-84,*,25,4,9,0.444,0,1,0.0,4,8,0.5,0.444,5,7,0.714,2,2,4,0,0,0,1,3,13,7.3,A,0,1,viktor-lakhin-1,Viktor Lakhin,2025
+5,96,5,2024-11-21,Clemson,,Radford,REG (Non-Conf),W 79-51,*,19,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,2,1.0,0,5,5,3,0,3,1,3,7,7.8,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+6,97,6,2024-11-25,Clemson,N,San Francisco,REG (Non-Conf),W 70-55,*,19,6,11,0.545,0,0,,6,11,0.545,0.545,0,1,0.0,2,1,3,1,2,0,2,3,12,7.5,N,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+7,98,7,2024-11-26,Clemson,N,Penn State,REG (Non-Conf),W 75-67,*,23,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,2,4,6,0,2,1,5,3,6,1.0,N,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+8,99,8,2024-11-29,Clemson,,Florida A&M,REG (Non-Conf),W 86-58,*,23,4,8,0.5,1,1,1.0,3,7,0.429,0.563,3,4,0.75,2,3,5,3,2,1,1,0,12,13.7,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+9,100,9,2024-12-03,Clemson,,Kentucky,REG (Non-Conf),W 70-66,*,22,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,1,5,6,2,0,4,2,3,9,9.2,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+10,101,10,2024-12-07,Clemson,@,Miami (FL),REG (Conf),W 65-55,*,20,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,2,1.0,1,4,5,0,0,2,1,4,12,9.4,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+11,102,11,2024-12-14,Clemson,,Memphis,REG (Non-Conf),L 82-87 (OT),*,37,8,15,0.533,2,5,0.4,6,10,0.6,0.6,5,6,0.833,3,8,11,1,1,2,4,2,23,18.1,H,0,1,viktor-lakhin-1,Viktor Lakhin,2025
+12,103,12,2024-12-17,Clemson,@,South Carolina,REG (Non-Conf),L 88-91 (OT),*,15,1,7,0.143,0,1,0.0,1,6,0.167,0.143,2,2,1.0,3,3,6,1,0,0,2,5,4,-0.8,A,0,1,viktor-lakhin-1,Viktor Lakhin,2025
+13,104,13,2024-12-21,Clemson,,Wake Forest,REG (Conf),W 73-62,*,28,5,12,0.417,1,2,0.5,4,10,0.4,0.458,2,2,1.0,3,6,9,6,2,2,2,2,13,15.3,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+14,105,14,2025-01-01,Clemson,,Stanford,REG (Conf),W 85-71,*,22,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,3,4,7,2,3,5,1,2,11,17.8,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+15,106,15,2025-01-04,Clemson,,California,REG (Conf),W 80-68,,14,0,0,,0,0,,0,0,,,0,0,,1,1,2,2,2,2,1,4,0,3.2,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+16,107,16,2025-01-07,Clemson,@,Louisville,REG (Conf),L 64-74,*,23,2,9,0.222,0,1,0.0,2,8,0.25,0.222,3,4,0.75,4,3,7,2,0,1,3,1,7,3.5,A,0,1,viktor-lakhin-1,Viktor Lakhin,2025
+17,108,17,2025-01-11,Clemson,,Florida State,REG (Conf),W 77-57,*,11,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,3,3,6,0,0,0,2,4,7,4.1,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+18,109,18,2025-01-14,Clemson,@,Georgia Tech,REG (Conf),W 70-59,*,35,4,9,0.444,0,4,0.0,4,5,0.8,0.444,2,4,0.5,0,6,6,4,0,1,3,1,10,6.4,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+19,110,19,2025-01-18,Clemson,@,Pittsburgh,REG (Conf),W 78-75 (OT),*,20,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,1,3,4,0,2,1,1,1,3,3.5,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+20,111,20,2025-01-22,Clemson,,Syracuse,REG (Conf),W 86-72,*,32,6,11,0.545,2,4,0.5,4,7,0.571,0.636,2,6,0.333,4,6,10,2,0,2,2,0,16,14.5,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+21,112,21,2025-01-25,Clemson,@,Virginia Tech,REG (Conf),W 72-57,*,20,5,6,0.833,0,0,,5,6,0.833,0.833,1,2,0.5,1,4,5,0,1,1,1,4,11,9.4,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+22,113,22,2025-02-01,Clemson,@,NC State,REG (Conf),W 68-58,*,30,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,2,9,11,1,2,2,0,3,13,15.7,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+23,114,23,2025-02-04,Clemson,,Georgia Tech,REG (Conf),L 86-89 (3OT),*,16,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,1,2,3,0,0,2,1,5,5,-0.1,H,0,1,viktor-lakhin-1,Viktor Lakhin,2025
+24,115,24,2025-02-08,Clemson,,Duke,REG (Conf),W 77-71,*,27,9,12,0.75,0,0,,9,12,0.75,0.75,4,6,0.667,3,1,4,2,0,3,1,3,22,20.1,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+25,116,25,2025-02-10,Clemson,,North Carolina,REG (Conf),W 85-65,*,25,9,16,0.563,4,5,0.8,5,11,0.455,0.688,0,0,,3,3,6,0,1,5,2,1,22,19.5,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+26,117,26,2025-02-15,Clemson,@,Florida State,REG (Conf),W 72-46,*,25,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,2,0.5,2,6,8,2,2,0,1,3,9,9.7,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+27,118,27,2025-02-22,Clemson,@,SMU,REG (Conf),W 79-69,*,21,6,10,0.6,2,4,0.5,4,6,0.667,0.7,2,2,1.0,4,2,6,1,2,0,0,3,16,16.3,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+28,119,28,2025-02-26,Clemson,,Notre Dame,REG (Conf),W 83-68,*,27,8,17,0.471,1,6,0.167,7,11,0.636,0.5,1,3,0.333,0,5,5,5,0,2,0,3,18,13.7,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+29,120,29,2025-03-01,Clemson,@,Virginia,REG (Conf),W 71-58,*,29,5,11,0.455,0,1,0.0,5,10,0.5,0.455,4,6,0.667,0,8,8,5,1,0,2,3,14,11.2,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+30,121,30,2025-03-05,Clemson,@,Boston College,REG (Conf),W 78-69,*,28,4,5,0.8,1,1,1.0,3,4,0.75,0.9,2,3,0.667,4,9,13,1,1,1,2,4,11,13.0,A,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+31,122,31,2025-03-08,Clemson,,Virginia Tech,REG (Conf),W 65-47,*,25,7,13,0.538,0,1,0.0,7,12,0.583,0.538,2,2,1.0,6,1,7,2,2,0,2,2,16,14.8,H,1,1,viktor-lakhin-1,Viktor Lakhin,2025
+32,123,32,2025-03-13,Clemson,N,SMU,CTOURN,W 57-54,*,18,2,5,0.4,0,3,0.0,2,2,1.0,0.4,3,4,0.75,0,2,2,0,1,0,1,4,7,2.9,N,1,0,viktor-lakhin-1,Viktor Lakhin,2025
+33,124,33,2025-03-14,Clemson,N,Louisville,CTOURN,L 73-76,*,31,6,12,0.5,1,1,1.0,5,11,0.455,0.542,1,2,0.5,3,4,7,0,1,1,0,5,14,10.6,N,0,0,viktor-lakhin-1,Viktor Lakhin,2025
+34,125,34,2025-03-20,Clemson,N,McNeese State,ROUND-64,L 67-69,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,5,5,10,1,1,0,3,5,6,5.3,N,0,0,viktor-lakhin-1,Viktor Lakhin,2025

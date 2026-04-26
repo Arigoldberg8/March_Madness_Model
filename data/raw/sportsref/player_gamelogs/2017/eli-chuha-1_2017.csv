@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,22,1,2016-11-11,New Mexico State,,Arizona Christian,REG (Non-Conf),W 100-52,,9,6,12,0.5,0,0,,6,12,0.5,0.5,1,1,1.0,6,6,12,2,0,0,1,1,13,13.0,H,1,1,eli-chuha-1,Eli Chuha,2017
+2,23,2,2016-11-13,New Mexico State,@,Colorado State,REG (Non-Conf),L 61-64,*,25,6,8,0.75,0,1,0.0,6,7,0.857,0.75,0,0,,2,1,3,0,1,0,1,2,12,9.7,A,0,1,eli-chuha-1,Eli Chuha,2017
+3,24,3,2016-11-16,New Mexico State,,Samford,REG (Non-Conf),W 58-48,,23,6,8,0.75,0,0,,6,8,0.75,0.75,4,4,1.0,5,8,13,0,0,1,2,0,16,17.4,H,1,1,eli-chuha-1,Eli Chuha,2017
+4,25,4,2016-11-18,New Mexico State,@,New Mexico,REG (Non-Conf),L 59-72,*,26,0,3,0.0,0,0,,0,3,0.0,0.0,2,3,0.667,3,2,5,1,1,0,1,2,2,2.1,A,0,1,eli-chuha-1,Eli Chuha,2017
+5,26,5,2016-11-20,New Mexico State,,Bethune-Cookman,REG (Non-Conf),W 89-73,*,3,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,2,1.6,H,1,1,eli-chuha-1,Eli Chuha,2017
+6,27,6,2016-11-22,New Mexico State,,Nicholls State,REG (Non-Conf),W 86-74,*,20,4,5,0.8,0,0,,4,5,0.8,0.8,2,5,0.4,0,3,3,0,0,1,3,4,10,3.9,H,1,1,eli-chuha-1,Eli Chuha,2017
+7,28,7,2016-11-26,New Mexico State,@,San Diego,REG (Non-Conf),W 56-51,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,3,6,9,1,0,0,2,1,2,2.1,A,1,1,eli-chuha-1,Eli Chuha,2017
+8,29,8,2016-11-30,New Mexico State,,Air Force,REG (Non-Conf),W 78-70,*,19,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,5,0.8,3,3,6,0,0,0,1,3,10,6.7,H,1,1,eli-chuha-1,Eli Chuha,2017
+9,30,9,2016-12-03,New Mexico State,,Long Beach State,REG (Non-Conf),W 93-85,*,27,7,8,0.875,1,2,0.5,6,6,1.0,0.938,4,5,0.8,1,6,7,0,0,0,3,4,19,13.7,H,1,1,eli-chuha-1,Eli Chuha,2017
+10,31,10,2016-12-10,New Mexico State,,New Mexico,REG (Non-Conf),W 84-71,*,30,5,10,0.5,0,0,,5,10,0.5,0.5,2,4,0.5,5,9,14,2,1,1,1,2,12,13.7,H,1,1,eli-chuha-1,Eli Chuha,2017
+11,32,11,2016-12-13,New Mexico State,@,UTEP,REG (Non-Conf),W 79-68,*,21,4,10,0.4,0,0,,4,10,0.4,0.4,3,5,0.6,2,6,8,0,1,1,1,2,11,7.9,A,1,1,eli-chuha-1,Eli Chuha,2017
+12,33,12,2016-12-17,New Mexico State,@,Arizona State,REG (Non-Conf),W 81-70,*,36,5,8,0.625,0,0,,5,8,0.625,0.625,3,3,1.0,3,8,11,4,0,0,0,1,13,16.3,A,1,1,eli-chuha-1,Eli Chuha,2017
+13,34,13,2016-12-19,New Mexico State,,UC Irvine,REG (Non-Conf),W 85-79 (OT),*,27,3,9,0.333,0,0,,3,9,0.333,0.333,4,9,0.444,9,3,12,1,0,1,3,1,10,8.1,H,1,1,eli-chuha-1,Eli Chuha,2017
+14,35,14,2016-12-27,New Mexico State,,Eastern N.M.,REG (Non-Conf),W 84-50,*,25,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,4,1.0,3,6,9,3,1,2,3,1,16,17.1,H,1,1,eli-chuha-1,Eli Chuha,2017
+15,36,15,2016-12-30,New Mexico State,,UTEP,REG (Non-Conf),W 79-70,*,32,3,4,0.75,0,0,,3,4,0.75,0.75,7,12,0.583,4,3,7,2,1,0,2,2,13,12.7,H,1,1,eli-chuha-1,Eli Chuha,2017
+16,37,16,2017-01-05,New Mexico State,@,Kansas City,REG (Conf),W 77-64,*,34,9,10,0.9,0,0,,9,10,0.9,0.9,2,3,0.667,4,6,10,1,1,1,3,3,20,19.0,A,1,1,eli-chuha-1,Eli Chuha,2017
+17,38,17,2017-01-07,New Mexico State,@,Chicago State,REG (Conf),W 78-62,*,23,6,8,0.75,0,0,,6,8,0.75,0.75,1,3,0.333,3,7,10,0,0,0,2,3,13,10.0,A,1,1,eli-chuha-1,Eli Chuha,2017
+18,39,18,2017-01-12,New Mexico State,,Grand Canyon,REG (Conf),W 81-69,*,24,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,6,7,13,3,0,1,1,4,10,13.9,H,1,1,eli-chuha-1,Eli Chuha,2017
+19,40,19,2017-01-14,New Mexico State,,Cal State Bakersfield,REG (Conf),W 63-58,*,34,5,12,0.417,0,0,,5,12,0.417,0.417,2,5,0.4,10,4,14,2,1,0,2,2,12,12.2,H,1,1,eli-chuha-1,Eli Chuha,2017
+20,41,20,2017-01-21,New Mexico State,,Kansas City,REG (Conf),W 94-71,*,27,4,9,0.444,0,0,,4,9,0.444,0.444,1,1,1.0,4,3,7,0,0,0,1,3,9,5.8,H,1,1,eli-chuha-1,Eli Chuha,2017
+21,42,21,2017-01-26,New Mexico State,@,Seattle,REG (Conf),W 71-56,*,27,5,6,0.833,0,0,,5,6,0.833,0.833,4,5,0.8,1,7,8,4,1,0,2,3,14,14.8,A,1,1,eli-chuha-1,Eli Chuha,2017
+22,43,22,2017-01-28,New Mexico State,@,Utah Valley,REG (Conf),W 74-69,*,34,9,12,0.75,0,0,,9,12,0.75,0.75,1,2,0.5,6,6,12,1,0,0,4,1,19,16.1,A,1,1,eli-chuha-1,Eli Chuha,2017
+23,44,23,2017-01-30,New Mexico State,,N New Mexico,REG (Non-Conf),W 98-75,*,26,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,6,5,11,0,1,0,1,3,14,15.3,H,1,1,eli-chuha-1,Eli Chuha,2017
+24,45,24,2017-02-04,New Mexico State,,Chicago State,REG (Conf),W 86-51,*,26,4,7,0.571,0,0,,4,7,0.571,0.571,0,2,0.0,3,8,11,2,0,0,0,1,8,9.4,H,1,1,eli-chuha-1,Eli Chuha,2017
+25,46,25,2017-02-09,New Mexico State,@,Cal State Bakersfield,REG (Conf),L 53-72,*,26,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,1,5,6,0,1,2,3,0,8,6.6,A,0,1,eli-chuha-1,Eli Chuha,2017
+26,47,26,2017-02-11,New Mexico State,@,Grand Canyon,REG (Conf),L 71-83,*,32,7,11,0.636,0,0,,7,11,0.636,0.636,3,4,0.75,5,6,11,2,0,1,4,5,17,13.1,A,0,1,eli-chuha-1,Eli Chuha,2017
+27,48,27,2017-02-18,New Mexico State,@,Texas–Rio Grande Valley,REG (Conf),W 107-101,*,29,2,7,0.286,0,0,,2,7,0.286,0.286,13,15,0.867,3,4,7,3,1,0,1,2,17,16.7,A,1,1,eli-chuha-1,Eli Chuha,2017
+28,49,28,2017-02-23,New Mexico State,,Utah Valley,REG (Conf),L 72-84,*,31,1,3,0.333,0,0,,1,3,0.333,0.333,3,6,0.5,5,5,10,0,0,0,0,3,5,5.9,H,0,1,eli-chuha-1,Eli Chuha,2017
+29,50,29,2017-02-25,New Mexico State,,Seattle,REG (Conf),W 86-53,*,26,7,7,1.0,0,0,,7,7,1.0,1.0,3,4,0.75,4,7,11,1,1,0,0,3,17,19.9,H,1,1,eli-chuha-1,Eli Chuha,2017
+30,51,30,2017-03-04,New Mexico State,,Texas–Rio Grande Valley,REG (Conf),W 107-81,*,26,7,11,0.636,0,0,,7,11,0.636,0.636,14,18,0.778,5,4,9,2,1,0,1,2,28,26.8,H,1,1,eli-chuha-1,Eli Chuha,2017
+31,52,31,2017-03-09,New Mexico State,N,Chicago State,CTOURN,W 67-53,*,27,4,6,0.667,0,0,,4,6,0.667,0.667,4,5,0.8,3,8,11,0,3,0,1,3,12,14.3,N,1,0,eli-chuha-1,Eli Chuha,2017
+32,53,32,2017-03-10,New Mexico State,N,Kansas City,CTOURN,W 78-60,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,5,8,0.625,1,3,4,0,1,0,2,5,9,5.1,N,1,0,eli-chuha-1,Eli Chuha,2017
+33,54,33,2017-03-11,New Mexico State,N,Cal State Bakersfield,CTOURN,W 70-60,*,36,4,6,0.667,0,0,,4,6,0.667,0.667,8,15,0.533,2,9,11,1,1,0,3,2,16,12.6,N,1,0,eli-chuha-1,Eli Chuha,2017
+34,55,34,2017-03-17,New Mexico State,N,Baylor,ROUND-64,L 73-91,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,1,4,0.25,2,4,6,0,0,0,0,0,11,8.8,N,0,0,eli-chuha-1,Eli Chuha,2017

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2012-11-09,Pittsburgh,,Mount St. Mary's,REG (Non-Conf),W 80-48,,20,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,0,2,2,3,2,1,0,3,11,13.0,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+2,65,2,2012-11-12,Pittsburgh,,Fordham,REG (Non-Conf),W 86-51,,18,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,2,0.5,0,0,0,1,0,0,0,2,7,3.5,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+3,66,3,2012-11-13,Pittsburgh,,Lehigh,REG (Non-Conf),W 78-53,,15,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,2,0.5,0,0,0,0,0,0,1,2,3,-3.0,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+4,67,4,2012-11-17,Pittsburgh,,Oakland,REG (Non-Conf),W 72-62 (OT),,20,2,4,0.5,0,0,,2,4,0.5,0.5,1,4,0.25,1,2,3,0,1,0,3,1,5,0.7,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+5,68,5,2012-11-21,Pittsburgh,N,Michigan,REG (Non-Conf),L 62-67,,9,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,0,1,1,1,0,0,2,2,5,-0.3,N,0,1,trey-zeigler-1,Trey Zeigler,2013
+6,69,6,2012-11-23,Pittsburgh,N,Delaware,REG (Non-Conf),W 85-59,,19,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,1,1,3,0,1,0,0,6,6.8,N,1,1,trey-zeigler-1,Trey Zeigler,2013
+7,70,9,2012-12-05,Pittsburgh,N,Duquesne,REG (Non-Conf),W 66-45,,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,1,0.0,1,2,3,0,1,0,1,1,0,-0.9,N,1,1,trey-zeigler-1,Trey Zeigler,2013
+8,71,10,2012-12-08,Pittsburgh,,North Florida,REG (Non-Conf),W 89-47,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,0,1,2,0,1,3,0,2,0.1,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+9,72,11,2012-12-15,Pittsburgh,,Bethune-Cookman,REG (Non-Conf),W 89-40,,17,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,2,0,0,1,1,4,2.3,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+10,73,12,2012-12-19,Pittsburgh,,Delaware State,REG (Non-Conf),W 71-43,,17,3,5,0.6,0,0,,3,5,0.6,0.6,2,3,0.667,1,0,1,0,0,2,1,3,8,5.2,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+11,74,13,2012-12-23,Pittsburgh,,Kennesaw State,REG (Non-Conf),W 59-43,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,1,1,1,1,1,4,5.4,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+12,75,14,2012-12-31,Pittsburgh,,Cincinnati,REG (Conf),L 61-70,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,1,0,0,3,1,2,-0.7,H,0,1,trey-zeigler-1,Trey Zeigler,2013
+13,76,15,2013-01-05,Pittsburgh,@,Rutgers,REG (Conf),L 62-67,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,A,0,1,trey-zeigler-1,Trey Zeigler,2013
+14,77,16,2013-01-08,Pittsburgh,@,Georgetown,REG (Conf),W 73-45,,8,1,1,1.0,0,0,,1,1,1.0,1.0,5,6,0.833,1,0,1,0,0,0,2,3,7,3.8,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+15,78,17,2013-01-12,Pittsburgh,,Marquette,REG (Conf),L 67-74 (OT),,23,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,3,5,2,1,0,0,3,5,5.4,H,0,1,trey-zeigler-1,Trey Zeigler,2013
+16,79,18,2013-01-16,Pittsburgh,@,Villanova,REG (Conf),W 58-43,,25,6,10,0.6,0,0,,6,10,0.6,0.6,1,2,0.5,2,4,6,1,0,0,1,1,13,9.9,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+17,80,19,2013-01-19,Pittsburgh,,Connecticut,REG (Conf),W 69-61,,23,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,2,0,2,0,0,0,0,2,8,5.5,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+18,81,20,2013-01-22,Pittsburgh,@,Providence,REG (Conf),W 68-64,,20,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,2,3,0,0,0,2,1,6,1.9,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+19,82,21,2013-01-26,Pittsburgh,,DePaul,REG (Conf),W 93-55,,18,7,12,0.583,0,0,,7,12,0.583,0.583,4,6,0.667,4,1,5,2,0,0,4,3,18,10.9,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+20,83,22,2013-01-28,Pittsburgh,@,Louisville,REG (Conf),L 61-64,,21,2,7,0.286,0,0,,2,7,0.286,0.286,1,4,0.25,1,0,1,2,1,1,1,2,5,1.7,A,0,1,trey-zeigler-1,Trey Zeigler,2013
+21,84,23,2013-02-02,Pittsburgh,,Syracuse,REG (Conf),W 65-55,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,2,4,4,0,0,2,4,6,5.6,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+22,85,24,2013-02-04,Pittsburgh,,Seton Hall,REG (Conf),W 56-46,,16,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,0,0,1,0,0,0,2,1,-0.9,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+23,86,25,2013-02-09,Pittsburgh,@,Cincinnati,REG (Conf),W 62-52,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,1,0.0,1,1,2,2,0,0,1,4,2,-0.3,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+24,87,26,2013-02-16,Pittsburgh,@,Marquette,REG (Conf),L 69-79,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,0,0,2,0,0,0,4,2,0.1,A,0,1,trey-zeigler-1,Trey Zeigler,2013
+25,88,27,2013-02-18,Pittsburgh,,Notre Dame,REG (Conf),L 42-51,,19,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,2,3,2,0,0,0,1,2,1.2,H,0,1,trey-zeigler-1,Trey Zeigler,2013
+26,89,28,2013-02-24,Pittsburgh,@,St. John's (NY),REG (Conf),W 63-47,,14,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,1,3,4,1,0,0,0,1,1,0.4,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+27,90,29,2013-02-27,Pittsburgh,,South Florida,REG (Conf),W 64-44,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,2,0.0,0,2,2,1,0,0,0,1,2,0.4,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+28,91,30,2013-03-03,Pittsburgh,,Villanova,REG (Conf),W 73-64 (OT),,16,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,2,1,3,0,0,0,0,0,1,0.9,H,1,1,trey-zeigler-1,Trey Zeigler,2013
+29,92,31,2013-03-09,Pittsburgh,@,DePaul,REG (Conf),W 81-66,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,1,0,1,0,0,-0.7,A,1,1,trey-zeigler-1,Trey Zeigler,2013
+30,93,32,2013-03-14,Pittsburgh,N,Syracuse,CTOURN,L 59-62,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,1,0,0,0,3,0,-1.2,N,0,0,trey-zeigler-1,Trey Zeigler,2013
+31,94,33,2013-03-21,Pittsburgh,N,Wichita State,ROUND-64,L 55-73,,6,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,1,2,1,0,-1.1,N,0,0,trey-zeigler-1,Trey Zeigler,2013

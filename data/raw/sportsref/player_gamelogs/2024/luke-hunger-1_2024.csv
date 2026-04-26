@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,7,3,2023-11-14,Northwestern,,Western Michigan,REG (Non-Conf),W 63-59,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,luke-hunger-1,Luke Hunger,2024
+2,8,4,2023-11-18,Northwestern,N,Rhode Island,REG (Non-Conf),W 72-61,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,luke-hunger-1,Luke Hunger,2024
+3,9,5,2023-11-19,Northwestern,N,Mississippi State,REG (Non-Conf),L 57-66,,8,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,0,0,0,0,4,3.7,N,0,1,luke-hunger-1,Luke Hunger,2024
+4,10,6,2023-11-27,Northwestern,,Northern Illinois,REG (Non-Conf),W 89-67,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,1,1,0,0,0,1,2,4,0.8,H,1,1,luke-hunger-1,Luke Hunger,2024
+5,11,7,2023-12-01,Northwestern,,Purdue,REG (Conf),W 92-88 (OT),,14,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,3,0.333,2,3,5,2,0,0,0,5,6,4.2,H,1,1,luke-hunger-1,Luke Hunger,2024
+6,12,8,2023-12-10,Northwestern,,Detroit Mercy,REG (Non-Conf),W 91-59,,11,3,5,0.6,0,0,,3,5,0.6,0.6,3,5,0.6,0,2,2,1,0,1,0,1,9,7.5,H,1,1,luke-hunger-1,Luke Hunger,2024
+7,13,9,2023-12-13,Northwestern,,Chicago State,REG (Non-Conf),L 73-75,,7,2,2,1.0,0,0,,2,2,1.0,1.0,1,2,0.5,0,1,1,1,0,1,0,0,5,5.7,H,0,1,luke-hunger-1,Luke Hunger,2024
+8,14,10,2023-12-16,Northwestern,@,DePaul,REG (Non-Conf),W 56-46,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,luke-hunger-1,Luke Hunger,2024
+9,15,11,2023-12-20,Northwestern,N,Arizona State,REG (Non-Conf),W 65-46,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,0,0,0,0,3,4,2.5,N,1,1,luke-hunger-1,Luke Hunger,2024
+10,16,12,2023-12-29,Northwestern,,Jackson State,REG (Non-Conf),W 74-63,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,luke-hunger-1,Luke Hunger,2024
+11,17,13,2024-01-02,Northwestern,@,Illinois,REG (Conf),L 66-96,,19,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,2,2,1,0,0,0,2,10,7.9,A,0,1,luke-hunger-1,Luke Hunger,2024
+12,18,14,2024-01-07,Northwestern,,Michigan State,REG (Conf),W 88-74,*,19,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,0,,3,1,4,1,1,1,0,2,10,11.8,H,1,1,luke-hunger-1,Luke Hunger,2024
+13,19,15,2024-01-10,Northwestern,@,Penn State,REG (Conf),W 76-72,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,1,3,2,0,1,1,1,2,2.7,A,1,1,luke-hunger-1,Luke Hunger,2024
+14,20,16,2024-01-13,Northwestern,@,Wisconsin,REG (Conf),L 63-71,*,7,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,2,2,0,0,1,2,3,3,0.8,A,0,1,luke-hunger-1,Luke Hunger,2024
+15,21,17,2024-01-17,Northwestern,,Maryland,REG (Conf),W 72-69,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,0,0,1,0,0,1,3,3,0.8,H,1,1,luke-hunger-1,Luke Hunger,2024
+16,22,18,2024-01-20,Northwestern,@,Nebraska,REG (Conf),L 69-75,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,0,2,0,1,0,1,1,0,0.3,A,0,1,luke-hunger-1,Luke Hunger,2024
+17,23,20,2024-01-27,Northwestern,,Ohio State,REG (Conf),W 83-58,,23,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,3,0.667,1,2,3,1,0,0,2,4,11,6.4,H,1,1,luke-hunger-1,Luke Hunger,2024
+18,24,21,2024-01-31,Northwestern,@,Purdue,REG (Conf),L 96-105 (OT),,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,0,0,1,0,0,0,5,3,-0.4,A,0,1,luke-hunger-1,Luke Hunger,2024
+19,25,22,2024-02-03,Northwestern,@,Minnesota,REG (Conf),L 66-75 (OT),,10,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,2,0,2,0,1,1,2,2,2,1.6,A,0,1,luke-hunger-1,Luke Hunger,2024
+20,26,23,2024-02-07,Northwestern,,Nebraska,REG (Conf),W 80-68,,10,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,2,2,4,0,0,0,0,2,2,0.8,H,1,1,luke-hunger-1,Luke Hunger,2024
+21,27,24,2024-02-11,Northwestern,,Penn State,REG (Conf),W 68-63,,12,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,0,0,3,1.6,H,1,1,luke-hunger-1,Luke Hunger,2024
+22,28,25,2024-02-15,Northwestern,@,Rutgers,REG (Conf),L 60-63,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,A,0,1,luke-hunger-1,Luke Hunger,2024
+23,29,26,2024-02-18,Northwestern,@,Indiana,REG (Conf),W 76-72,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,A,1,1,luke-hunger-1,Luke Hunger,2024
+24,30,27,2024-02-22,Northwestern,,Michigan,REG (Conf),W 76-62,,18,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,2,0,2,0,0,0,1,3,8,4.9,H,1,1,luke-hunger-1,Luke Hunger,2024
+25,31,28,2024-02-28,Northwestern,@,Maryland,REG (Conf),W 68-61,,13,1,4,0.25,0,3,0.0,1,1,1.0,0.25,3,4,0.75,0,1,1,0,0,0,1,3,5,0.3,A,1,1,luke-hunger-1,Luke Hunger,2024
+26,32,29,2024-03-02,Northwestern,,Iowa,REG (Conf),L 80-87,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,0,0,0,3,0,-2.7,H,0,1,luke-hunger-1,Luke Hunger,2024
+27,33,30,2024-03-06,Northwestern,@,Michigan State,REG (Conf),L 49-53,*,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,3,0.667,2,0,2,0,0,0,1,4,2,-1.0,A,0,1,luke-hunger-1,Luke Hunger,2024
+28,34,31,2024-03-09,Northwestern,,Minnesota,REG (Conf),W 90-66,*,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,1,0,1,0,2,2,1.5,H,1,1,luke-hunger-1,Luke Hunger,2024
+29,35,32,2024-03-15,Northwestern,N,Wisconsin,CTOURN,L 61-70,*,31,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,4,4,2,0,0,0,0,6,6.3,N,0,0,luke-hunger-1,Luke Hunger,2024
+30,36,33,2024-03-22,Northwestern,N,Florida Atlantic,ROUND-64,W 77-65 (OT),*,29,1,8,0.125,0,2,0.0,1,6,0.167,0.125,6,8,0.75,5,3,8,4,0,0,1,3,8,7.0,N,1,0,luke-hunger-1,Luke Hunger,2024
+31,37,34,2024-03-24,Northwestern,N,Connecticut,ROUND-32,L 58-75,*,31,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,2,5,7,2,0,0,1,4,6,4.0,N,0,0,luke-hunger-1,Luke Hunger,2024

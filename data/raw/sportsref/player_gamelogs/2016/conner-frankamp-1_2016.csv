@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,8,2015-12-09,Wichita State,,UNLV,REG (Non-Conf),W 56-50,,14,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,1,2,0,0,0,2,1.2,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+2,29,9,2015-12-12,Wichita State,,Utah,REG (Non-Conf),W 67-50,,14,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,2,0.0,0,0,0,1,0,0,1,0,5,0.5,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+3,30,10,2015-12-19,Wichita State,@,Seton Hall,REG (Non-Conf),L 76-80 (OT),,21,4,8,0.5,3,7,0.429,1,1,1.0,0.688,2,2,1.0,1,0,1,2,0,0,0,2,13,10.3,A,0,1,conner-frankamp-1,Conner Frankamp,2016
+4,31,11,2015-12-22,Wichita State,,Nevada,REG (Non-Conf),W 98-69,,16,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,0,1,1,1,1,0,1,1,5,3.2,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+5,32,12,2015-12-31,Wichita State,,Drake,REG (Conf),W 67-47,,20,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,2,0,0,1,1,8,4.9,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+6,33,13,2016-01-03,Wichita State,@,Bradley,REG (Conf),W 85-58,,15,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,1,1,2,0,0,0,0,8,7.0,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+7,34,14,2016-01-06,Wichita State,,Evansville,REG (Conf),W 67-64,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,1,3,2.6,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+8,35,15,2016-01-09,Wichita State,@,Southern Illinois,REG (Conf),W 83-58,,17,5,8,0.625,4,7,0.571,1,1,1.0,0.875,0,0,,0,0,0,1,0,0,0,1,14,10.7,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+9,36,16,2016-01-13,Wichita State,@,Missouri State,REG (Conf),W 78-62,,25,5,9,0.556,4,8,0.5,1,1,1.0,0.778,0,0,,0,4,4,1,1,0,0,2,14,11.8,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+10,37,17,2016-01-17,Wichita State,,Indiana State,REG (Conf),W 82-62,,16,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,1,1,2,0,1,0,0,0,2,0.9,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+11,38,18,2016-01-20,Wichita State,@,Northern Iowa,REG (Conf),W 74-55,,17,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,1,0,0,0,1,6,5.3,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+12,39,19,2016-01-23,Wichita State,,Bradley,REG (Conf),W 88-54,,16,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,1,1.0,0,1,1,1,2,0,0,2,3,2.1,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+13,40,20,2016-01-27,Wichita State,,Loyola Chicago,REG (Conf),W 80-54,,20,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,1,1,2,0,0,0,1,9,8.0,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+14,41,21,2016-01-31,Wichita State,@,Evansville,REG (Conf),W 78-65,,23,2,10,0.2,2,6,0.333,0,4,0.0,0.3,4,4,1.0,0,1,1,1,0,0,0,1,10,4.4,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+15,42,22,2016-02-03,Wichita State,,Southern Illinois,REG (Conf),W 76-55,,17,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,2,0,1,0,1,0,1.2,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+16,43,23,2016-02-06,Wichita State,@,Illinois State,REG (Conf),L 53-58,,19,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,0,0,1,0,0,0,2,8,3.5,A,0,1,conner-frankamp-1,Conner Frankamp,2016
+17,44,24,2016-02-09,Wichita State,@,Drake,REG (Conf),W 74-48,,15,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,4,4,0,0,0,0,2,6,3.0,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+18,45,25,2016-02-13,Wichita State,,Northern Iowa,REG (Conf),L 50-53,,12,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,0,0,0,1,0,-2.9,H,0,1,conner-frankamp-1,Conner Frankamp,2016
+19,46,26,2016-02-15,Wichita State,,New Mexico State,REG (Non-Conf),W 71-41,,23,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,0,2,2,1,2,0,0,1,9,9.6,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+20,47,27,2016-02-18,Wichita State,,Missouri State,REG (Conf),W 99-68,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,0,0,0,0,0,3,0.5,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+21,48,28,2016-02-21,Wichita State,@,Indiana State,REG (Conf),W 84-51,,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,3,3,2,0,0,0,0,9,8.3,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+22,49,29,2016-02-24,Wichita State,@,Loyola Chicago,REG (Conf),W 76-54,,14,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,1,2,2,-0.5,A,1,1,conner-frankamp-1,Conner Frankamp,2016
+23,50,30,2016-02-27,Wichita State,,Illinois State,REG (Conf),W 74-58,,19,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,3,3,1,0,1,0,0,8,7.3,H,1,1,conner-frankamp-1,Conner Frankamp,2016
+24,51,31,2016-03-04,Wichita State,N,Loyola Chicago,CTOURN,W 66-58,,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,1,0,0,2,1.3,N,1,0,conner-frankamp-1,Conner Frankamp,2016
+25,52,32,2016-03-05,Wichita State,N,Northern Iowa,CTOURN,L 52-57 (OT),,15,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,0,0,0,0,3,1.6,N,0,0,conner-frankamp-1,Conner Frankamp,2016
+26,53,33,2016-03-15,Wichita State,N,Vanderbilt,FIRST-FOUR,W 70-50,,16,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,2,2,1,0,0,1,3,8,4.4,N,1,0,conner-frankamp-1,Conner Frankamp,2016
+27,54,34,2016-03-17,Wichita State,N,Arizona,ROUND-64,W 65-55,,14,3,5,0.6,2,4,0.5,1,1,1.0,0.8,2,2,1.0,0,0,0,2,0,2,0,1,10,10.1,N,1,0,conner-frankamp-1,Conner Frankamp,2016
+28,55,35,2016-03-19,Wichita State,N,Miami (FL),ROUND-32,L 57-65,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,0.6,N,0,0,conner-frankamp-1,Conner Frankamp,2016

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2021-11-09,Saint Peter's,@,VCU,REG (Non-Conf),L 54-57,*,16,4,10,0.4,0,1,0.0,4,9,0.444,0.4,2,3,0.667,0,4,4,1,1,1,2,4,10,4.2,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+2,86,2,2021-11-13,Saint Peter's,@,St. John's (NY),REG (Non-Conf),L 70-91,*,12,1,5,0.2,0,0,,1,5,0.2,0.2,3,6,0.5,1,1,2,1,0,1,2,3,5,-0.1,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+3,87,3,2021-11-23,Saint Peter's,,LIU,REG (Non-Conf),W 64-62,*,30,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,5,0.2,2,7,9,2,3,4,5,5,7,4.0,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+4,88,4,2021-11-27,Saint Peter's,@,Providence,REG (Non-Conf),L 71-85,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,1,1,0,1,4,2,0.8,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+5,89,5,2021-12-03,Saint Peter's,@,Quinnipiac,REG (Conf),W 69-59,*,31,6,11,0.545,2,2,1.0,4,9,0.444,0.636,2,4,0.5,1,6,7,7,1,2,2,4,16,16.1,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+6,90,6,2021-12-05,Saint Peter's,,Siena,REG (Conf),L 58-60,*,24,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,8,0.25,0,8,8,1,2,4,4,4,8,5.6,H,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+7,91,7,2021-12-08,Saint Peter's,,St. Francis Brooklyn,REG (Non-Conf),L 60-71,*,24,2,6,0.333,0,0,,2,6,0.333,0.333,4,8,0.5,3,3,6,3,1,1,2,3,8,6.6,H,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+8,92,8,2021-12-12,Saint Peter's,,Nyack,REG (Non-Conf),W 87-48,*,22,2,3,0.667,0,0,,2,3,0.667,0.667,2,6,0.333,0,2,2,1,1,5,2,3,6,5.7,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+9,93,9,2021-12-18,Saint Peter's,@,Stony Brook,REG (Non-Conf),L 63-64,*,29,6,10,0.6,0,1,0.0,6,9,0.667,0.6,1,2,0.5,1,4,5,1,1,5,2,2,13,12.3,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+10,94,10,2022-01-14,Saint Peter's,,Monmouth,REG (Conf),W 67-62,*,24,3,11,0.273,0,0,,3,11,0.273,0.273,6,8,0.75,3,5,8,3,3,2,1,3,12,12.6,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+11,95,11,2022-01-16,Saint Peter's,@,Rider,REG (Conf),W 58-51,*,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,3,0.333,1,2,3,2,2,1,6,1,9,3.9,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+12,96,12,2022-01-18,Saint Peter's,,Canisius,REG (Conf),W 65-57,*,34,2,13,0.154,0,0,,2,13,0.154,0.154,4,5,0.8,5,7,12,2,1,4,4,2,8,5.3,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+13,97,13,2022-01-21,Saint Peter's,@,Niagara,REG (Conf),W 74-68 (OT),*,33,9,15,0.6,0,1,0.0,9,14,0.643,0.6,4,6,0.667,3,10,13,3,0,0,1,4,22,18.9,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+14,98,14,2022-01-23,Saint Peter's,@,Canisius,REG (Conf),L 60-63,*,22,2,4,0.5,0,0,,2,4,0.5,0.5,2,4,0.5,1,4,5,2,1,1,3,4,6,3.6,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+15,99,15,2022-01-26,Saint Peter's,@,Marist,REG (Conf),W 69-62,*,28,3,9,0.333,1,2,0.5,2,7,0.286,0.389,2,4,0.5,0,8,8,2,1,1,4,3,9,3.4,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+16,100,16,2022-01-28,Saint Peter's,,Manhattan,REG (Conf),W 77-51,*,19,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,2,3,5,3,1,2,2,1,9,10.1,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+17,101,17,2022-01-30,Saint Peter's,@,Iona,REG (Conf),L 77-85,*,33,6,11,0.545,0,0,,6,11,0.545,0.545,2,6,0.333,1,5,6,3,2,1,1,4,14,11.5,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+18,102,18,2022-02-04,Saint Peter's,,Quinnipiac,REG (Conf),W 83-74,*,26,3,7,0.429,0,0,,3,7,0.429,0.429,8,10,0.8,1,3,4,3,0,11,3,4,14,16.3,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+19,103,19,2022-02-06,Saint Peter's,,Marist,REG (Conf),W 66-50,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,0,3,3,4,3,2,4,0,7,8.8,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+20,104,20,2022-02-11,Saint Peter's,,Rider,REG (Conf),L 49-58,*,34,2,6,0.333,0,0,,2,6,0.333,0.333,0,2,0.0,4,7,11,1,1,4,6,4,4,1.6,H,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+21,105,21,2022-02-15,Saint Peter's,,Iona,REG (Conf),L 61-70,*,33,5,14,0.357,0,1,0.0,5,13,0.385,0.357,6,9,0.667,1,7,8,2,3,3,2,4,16,12.7,H,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+22,106,22,2022-02-18,Saint Peter's,@,Fairfield,REG (Conf),W 70-59,*,23,6,9,0.667,0,0,,6,9,0.667,0.667,4,10,0.4,2,5,7,3,0,5,4,4,16,12.6,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+23,107,23,2022-02-20,Saint Peter's,@,Siena,REG (Conf),L 70-84,*,23,5,7,0.714,0,0,,5,7,0.714,0.714,0,2,0.0,1,2,3,2,1,1,3,0,10,7.7,A,0,1,kenechukwu-ndefo-1,KC Ndefo,2022
+24,108,24,2022-02-25,Saint Peter's,@,Monmouth,REG (Conf),W 70-65,*,29,5,10,0.5,0,0,,5,10,0.5,0.5,4,9,0.444,3,8,11,3,0,1,3,3,14,10.1,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+25,109,25,2022-02-27,Saint Peter's,,Niagara,REG (Conf),W 63-36,*,23,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,6,6,2,1,2,1,0,8,9.3,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+26,110,26,2022-03-01,Saint Peter's,@,Manhattan,REG (Conf),W 73-51,*,23,5,5,1.0,0,0,,5,5,1.0,1.0,2,3,0.667,0,4,4,3,2,2,5,2,12,11.0,A,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+27,111,27,2022-03-05,Saint Peter's,,Fairfield,REG (Conf),W 57-41,*,32,4,10,0.4,1,3,0.333,3,7,0.429,0.45,5,6,0.833,1,6,7,3,2,6,2,3,14,15.8,H,1,1,kenechukwu-ndefo-1,KC Ndefo,2022
+28,112,28,2022-03-09,Saint Peter's,N,Fairfield,CTOURN,W 77-63,*,31,6,14,0.429,1,1,1.0,5,13,0.385,0.464,7,11,0.636,1,2,3,1,2,3,2,2,20,14.3,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+29,113,29,2022-03-11,Saint Peter's,N,Quinnipiac,CTOURN,W 64-52,*,26,6,11,0.545,0,0,,6,11,0.545,0.545,1,2,0.5,1,6,7,2,1,3,2,3,13,11.1,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+30,114,30,2022-03-12,Saint Peter's,N,Monmouth,CTOURN,W 60-54,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,1,5,0.2,2,5,7,2,0,4,3,5,7,5.2,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+31,115,31,2022-03-17,Saint Peter's,N,Kentucky,ROUND-64,W 85-79 (OT),*,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,5,0.6,0,3,3,2,0,2,5,3,7,1.7,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+32,116,32,2022-03-19,Saint Peter's,N,Murray State,ROUND-32,W 70-60,*,33,5,10,0.5,0,1,0.0,5,9,0.556,0.5,7,9,0.778,4,6,10,3,1,6,3,1,17,19.7,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+33,117,33,2022-03-25,Saint Peter's,N,Purdue,ROUND-16,W 67-64,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,4,1,0,3,5,4,0.3,N,1,0,kenechukwu-ndefo-1,KC Ndefo,2022
+34,118,34,2022-03-27,Saint Peter's,N,North Carolina,ROUND-8,L 49-69,*,33,5,13,0.385,0,0,,5,13,0.385,0.385,0,0,,0,7,7,3,3,6,2,4,10,10.7,N,0,0,kenechukwu-ndefo-1,KC Ndefo,2022

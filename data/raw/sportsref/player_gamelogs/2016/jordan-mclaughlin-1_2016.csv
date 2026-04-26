@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2015-11-13,Southern California,,San Diego,REG (Non-Conf),W 83-45,*,25,8,12,0.667,2,5,0.4,6,7,0.857,0.75,2,2,1.0,2,3,5,3,2,0,1,1,20,19.8,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+2,24,2,2015-11-16,Southern California,,Monmouth,REG (Non-Conf),W 101-90,*,35,7,15,0.467,2,5,0.4,5,10,0.5,0.533,6,7,0.857,2,5,7,4,2,0,1,4,22,19.0,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+3,25,3,2015-11-21,Southern California,,New Mexico,REG (Non-Conf),W 90-82,*,33,5,7,0.714,2,4,0.5,3,3,1.0,0.857,7,8,0.875,0,2,2,6,4,1,1,1,19,23.8,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+4,26,4,2015-11-23,Southern California,,Cal State Northridge,REG (Non-Conf),W 96-61,*,25,7,10,0.7,4,5,0.8,3,5,0.6,0.9,2,2,1.0,0,2,2,6,1,0,3,0,20,18.6,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+5,27,5,2015-11-26,Southern California,N,Wichita State,REG (Non-Conf),W 72-69,*,33,6,10,0.6,1,2,0.5,5,8,0.625,0.65,2,3,0.667,0,0,0,4,2,0,5,1,15,9.4,N,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+6,28,6,2015-11-27,Southern California,N,Xavier,REG (Non-Conf),L 77-87,*,17,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,0,0,1,0,0,2,1,6,1.6,N,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+7,29,7,2015-11-29,Southern California,N,Monmouth,REG (Non-Conf),L 73-83,*,30,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,4,0.0,1,2,3,5,0,0,1,2,5,1.6,N,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+8,30,8,2015-12-03,Southern California,@,UC Santa Barbara,REG (Non-Conf),W 75-63,*,21,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,2,0.5,0,2,2,1,1,0,2,0,5,0.1,A,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+9,31,9,2015-12-07,Southern California,,Idaho,REG (Non-Conf),W 74-55,*,31,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,2,0.0,0,3,3,8,3,0,3,0,6,7.6,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+10,32,10,2015-12-13,Southern California,,Yale,REG (Non-Conf),W 68-56,*,36,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,5,0.6,0,7,7,6,2,0,3,0,14,14.2,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+11,33,11,2015-12-17,Southern California,,Cal Poly,REG (Non-Conf),W 101-82,*,27,1,7,0.143,1,3,0.333,0,4,0.0,0.214,0,0,,0,2,2,4,2,0,3,0,3,0.9,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+12,34,12,2015-12-21,Southern California,,SIU Edwardsville,REG (Non-Conf),W 70-51,*,35,4,11,0.364,2,4,0.5,2,7,0.286,0.455,2,2,1.0,0,0,0,6,1,1,3,0,12,8.8,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+13,35,13,2015-12-23,Southern California,,Lafayette,REG (Non-Conf),W 100-64,*,40,6,14,0.429,1,2,0.5,5,12,0.417,0.464,1,1,1.0,1,7,8,16,2,0,2,2,14,19.8,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+14,36,14,2016-01-01,Southern California,@,Washington State,REG (Conf),W 90-77,*,35,8,12,0.667,3,6,0.5,5,6,0.833,0.792,0,0,,1,5,6,3,1,0,3,0,19,16.1,A,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+15,37,15,2016-01-03,Southern California,@,Washington,REG (Conf),L 85-87,*,37,5,10,0.5,2,3,0.667,3,7,0.429,0.6,3,5,0.6,3,5,8,6,1,0,8,3,15,8.8,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+16,38,16,2016-01-07,Southern California,,Arizona State,REG (Conf),W 75-65,*,28,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,2,0.5,0,5,5,8,1,0,3,0,8,9.0,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+17,39,17,2016-01-09,Southern California,,Arizona,REG (Conf),W 103-101 (4OT),*,50,5,12,0.417,2,6,0.333,3,6,0.5,0.5,5,6,0.833,0,5,5,4,0,1,1,2,17,13.4,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+18,40,18,2016-01-13,Southern California,@,UCLA,REG (Conf),W 89-75,*,35,8,16,0.5,5,8,0.625,3,8,0.375,0.656,2,2,1.0,1,2,3,4,1,0,0,0,23,20.1,A,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+19,41,19,2016-01-21,Southern California,@,Oregon,REG (Conf),L 81-89,*,28,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,3,2,0,1,1,3,2.9,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+20,42,20,2016-01-24,Southern California,@,Oregon State,REG (Conf),L 70-85,*,28,2,9,0.222,0,5,0.0,2,4,0.5,0.222,2,2,1.0,0,1,1,1,0,0,1,0,6,0.5,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+21,43,21,2016-01-28,Southern California,,Washington State,REG (Conf),W 81-71,*,30,2,8,0.25,2,5,0.4,0,3,0.0,0.375,2,3,0.667,1,3,4,4,2,0,3,0,8,6.2,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+22,44,22,2016-01-30,Southern California,,Washington,REG (Conf),W 98-88,*,32,5,10,0.5,2,6,0.333,3,4,0.75,0.6,9,10,0.9,2,5,7,5,2,0,2,3,21,20.8,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+23,45,23,2016-02-04,Southern California,,UCLA,REG (Conf),W 80-61,*,30,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,3,0.667,0,3,3,10,5,0,4,2,9,13.7,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+24,46,24,2016-02-12,Southern California,@,Arizona State,REG (Conf),L 67-74,*,36,6,8,0.75,0,1,0.0,6,7,0.857,0.75,1,2,0.5,0,3,3,6,2,0,2,1,13,14.1,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+25,47,25,2016-02-14,Southern California,@,Arizona,REG (Conf),L 78-86,*,35,6,11,0.545,3,5,0.6,3,6,0.5,0.682,0,0,,0,6,6,3,0,0,2,2,15,10.8,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+26,48,26,2016-02-17,Southern California,,Colorado,REG (Conf),W 79-72,*,34,8,14,0.571,2,4,0.5,6,10,0.6,0.643,7,9,0.778,0,4,4,5,3,0,1,0,25,24.3,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+27,49,27,2016-02-21,Southern California,,Utah,REG (Conf),L 69-80,*,38,8,15,0.533,4,5,0.8,4,10,0.4,0.667,0,0,,0,3,3,3,2,0,3,1,20,14.3,H,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+28,50,28,2016-02-25,Southern California,@,Stanford,REG (Conf),L 64-84,*,32,1,9,0.111,0,3,0.0,1,6,0.167,0.111,0,1,0.0,0,4,4,4,1,0,1,2,2,-1.1,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+29,51,29,2016-02-28,Southern California,@,California,REG (Conf),L 65-87,*,31,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,1,0.0,0,5,5,1,1,0,3,1,7,2.0,A,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+30,52,30,2016-03-02,Southern California,,Oregon State,REG (Conf),W 81-70,*,35,7,13,0.538,3,5,0.6,4,8,0.5,0.654,0,1,0.0,1,2,3,9,1,0,3,1,17,15.5,H,1,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+31,53,31,2016-03-05,Southern California,,Oregon,REG (Conf),L 66-76,*,34,4,12,0.333,0,4,0.0,4,8,0.5,0.333,2,2,1.0,1,3,4,3,2,0,3,2,10,5.1,H,0,1,jordan-mclaughlin-1,Jordan McLaughlin,2016
+32,54,32,2016-03-09,Southern California,N,UCLA,CTOURN,W 95-71,*,33,4,9,0.444,1,2,0.5,3,7,0.429,0.5,9,9,1.0,0,5,5,3,1,1,3,0,18,15.6,N,1,0,jordan-mclaughlin-1,Jordan McLaughlin,2016
+33,55,33,2016-03-10,Southern California,N,Utah,CTOURN,L 72-80,*,37,9,16,0.563,1,3,0.333,8,13,0.615,0.594,5,6,0.833,0,2,2,1,1,1,0,0,24,19.0,N,0,0,jordan-mclaughlin-1,Jordan McLaughlin,2016
+34,56,34,2016-03-17,Southern California,N,Providence,ROUND-64,L 69-70,*,34,7,12,0.583,1,2,0.5,6,10,0.6,0.625,0,1,0.0,1,4,5,5,4,0,4,1,15,14.0,N,0,0,jordan-mclaughlin-1,Jordan McLaughlin,2016

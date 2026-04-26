@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-12,Kent State,N,Cleveland State,REG (Non-Conf),W 79-74 (OT),*,32,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,2,1.0,3,3,6,1,2,1,1,2,17,17.7,N,1,1,mitch-peterson-1,Mitch Peterson,2017
+2,2,2,2016-11-16,Kent State,,Mississippi Valley State,REG (Non-Conf),W 93-63,*,18,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,1,1,1,0,0,1,1,5,0.5,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+3,3,3,2016-11-18,Kent State,,Hiram,REG (Non-Conf),W 111-55,*,18,4,7,0.571,2,4,0.5,2,3,0.667,0.714,2,3,0.667,1,2,3,2,3,0,2,0,12,12.0,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+4,4,4,2016-11-21,Kent State,N,South Dakota,REG (Non-Conf),L 77-80,*,13,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,2,2,0,0,0,0,1,4,0.7,N,0,1,mitch-peterson-1,Mitch Peterson,2017
+5,5,5,2016-11-22,Kent State,N,George Mason,REG (Non-Conf),L 75-79,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,0,1,mitch-peterson-1,Mitch Peterson,2017
+6,6,6,2016-11-23,Kent State,N,Wofford,REG (Non-Conf),W 66-59,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,N,1,1,mitch-peterson-1,Mitch Peterson,2017
+7,7,7,2016-11-27,Kent State,@,Northeastern,REG (Non-Conf),L 70-73,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,1,0,0,0,1,3,2.9,A,0,1,mitch-peterson-1,Mitch Peterson,2017
+8,8,8,2016-12-02,Kent State,,Grambling State,REG (Non-Conf),W 86-57,*,19,5,9,0.556,2,5,0.4,3,4,0.75,0.667,0,0,,1,4,5,0,0,2,1,1,12,9.6,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+9,9,9,2016-12-07,Kent State,,Niagara,REG (Non-Conf),W 100-72,*,18,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,2,2,4,0,1,0,2,2,3,-1.3,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+10,10,10,2016-12-10,Kent State,,NJIT,REG (Non-Conf),W 87-71,*,6,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.7,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+11,11,11,2016-12-18,Kent State,,Wright State,REG (Non-Conf),L 63-68,*,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,1,0,0,0,0,1.3,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+12,12,12,2016-12-21,Kent State,@,Oregon State,REG (Non-Conf),L 50-69,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,1,1,0,-1.1,A,0,1,mitch-peterson-1,Mitch Peterson,2017
+13,13,13,2016-12-27,Kent State,@,Texas,REG (Non-Conf),W 63-58,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+14,14,14,2017-01-03,Kent State,,Ball State,REG (Conf),W 100-90,,9,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,0,0,0,1,2,3,-0.2,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+15,15,15,2017-01-06,Kent State,@,Ohio,REG (Conf),L 67-85,,15,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,3,0.0,2,3,5,0,1,0,1,0,4,1.0,A,0,1,mitch-peterson-1,Mitch Peterson,2017
+16,16,16,2017-01-10,Kent State,,Northern Illinois,REG (Conf),L 70-74 (OT),,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,0,0,0,0.7,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+17,17,17,2017-01-14,Kent State,@,Western Michigan,REG (Conf),L 88-92,,21,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,2,2,1,0,1,0,1,10,9.7,A,0,1,mitch-peterson-1,Mitch Peterson,2017
+18,18,18,2017-01-17,Kent State,,Buffalo,REG (Conf),L 69-82,,18,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,1,3,0,0,0,1,2,4,0.5,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+19,19,19,2017-01-21,Kent State,,Toledo,REG (Conf),W 85-61,*,26,2,8,0.25,1,7,0.143,1,1,1.0,0.313,1,2,0.5,0,4,4,0,0,0,0,0,6,2.0,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+20,20,20,2017-01-24,Kent State,@,Northern Illinois,REG (Conf),W 73-66,*,30,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,2,3,5,1,1,1,1,1,5,4.2,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+21,21,21,2017-01-28,Kent State,,Central Michigan,REG (Conf),L 98-105 (OT),*,41,7,15,0.467,3,10,0.3,4,5,0.8,0.567,2,2,1.0,2,4,6,2,1,1,2,1,19,14.6,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+22,22,22,2017-01-31,Kent State,@,Eastern Michigan,REG (Conf),W 70-64,*,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,6,8,0.75,2,7,9,1,2,0,5,3,13,9.9,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+23,23,23,2017-02-04,Kent State,@,Miami (OH),REG (Conf),W 66-62,*,20,1,6,0.167,1,4,0.25,0,2,0.0,0.25,1,2,0.5,0,0,0,0,3,0,1,1,4,1.4,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+24,24,24,2017-02-07,Kent State,,Bowling Green,REG (Conf),L 83-84 (OT),*,14,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,1,0,0,0,1,3,1.2,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+25,25,25,2017-02-11,Kent State,@,Toledo,REG (Conf),L 58-78,*,21,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,1,2,2,0,0,1,3,6,3.5,A,0,1,mitch-peterson-1,Mitch Peterson,2017
+26,26,26,2017-02-14,Kent State,,Miami (OH),REG (Conf),W 76-72,*,25,3,10,0.3,0,5,0.0,3,5,0.6,0.3,5,5,1.0,2,0,2,1,3,0,0,4,11,8.7,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+27,27,27,2017-02-17,Kent State,@,Akron,REG (Conf),W 70-67,*,30,0,2,0.0,0,1,0.0,0,1,0.0,0.0,1,2,0.5,1,6,7,2,1,0,0,3,1,2.9,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+28,28,28,2017-02-21,Kent State,@,Buffalo,REG (Conf),W 77-69,*,37,3,9,0.333,1,7,0.143,2,2,1.0,0.389,0,0,,0,7,7,0,1,0,1,3,7,2.8,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+29,29,29,2017-02-25,Kent State,,Ohio,REG (Conf),W 70-67,*,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,1,1,0,-4.6,H,1,1,mitch-peterson-1,Mitch Peterson,2017
+30,30,30,2017-02-28,Kent State,@,Bowling Green,REG (Conf),W 74-67,*,26,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,4,4,1,1,1,1,4,8,6.7,A,1,1,mitch-peterson-1,Mitch Peterson,2017
+31,31,31,2017-03-03,Kent State,,Akron,REG (Conf),L 56-66,,23,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,1,0,1,0,1,0,1,0,0,-3.5,H,0,1,mitch-peterson-1,Mitch Peterson,2017
+32,32,32,2017-03-06,Kent State,,Central Michigan,CTOURN,W 116-106 (OT),*,31,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,0,,1,2,3,2,0,0,0,3,10,8.2,H,1,0,mitch-peterson-1,Mitch Peterson,2017
+33,33,33,2017-03-09,Kent State,N,Buffalo,CTOURN,W 68-65,*,27,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,1,0,1,0,0,0,0,2,4,2.2,N,1,0,mitch-peterson-1,Mitch Peterson,2017
+34,34,34,2017-03-10,Kent State,N,Ohio,CTOURN,W 68-66,*,32,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,1,0.0,1,5,6,2,0,1,1,4,8,6.3,N,1,0,mitch-peterson-1,Mitch Peterson,2017
+35,35,35,2017-03-11,Kent State,N,Akron,CTOURN,W 70-65,*,25,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,2,2,2,0,0,0,1,3,2.2,N,1,0,mitch-peterson-1,Mitch Peterson,2017
+36,36,36,2017-03-17,Kent State,N,UCLA,ROUND-64,L 80-97,*,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,1,2,1,0,0,0,1,0,-1.5,N,0,0,mitch-peterson-1,Mitch Peterson,2017

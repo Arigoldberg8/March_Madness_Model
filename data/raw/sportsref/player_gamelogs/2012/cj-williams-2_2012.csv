@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2011-11-11,NC State,,UNC Asheville,REG (Non-Conf),W 84-75,*,38,8,10,0.8,1,2,0.5,7,8,0.875,0.85,1,1,1.0,1,4,5,3,0,1,1,2,18,17.1,H,1,1,cj-williams-2,C.J. Williams,2012
+2,93,2,2011-11-13,NC State,,Morehead State,REG (Non-Conf),W 91-61,*,20,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,3,3,6,4,0,0,0,3,9,10.3,H,1,1,cj-williams-2,C.J. Williams,2012
+3,94,3,2011-11-16,NC State,,Princeton,REG (Non-Conf),W 60-58,*,36,5,10,0.5,0,2,0.0,5,8,0.625,0.5,0,0,,1,3,4,2,1,0,3,0,10,6.0,H,1,1,cj-williams-2,C.J. Williams,2012
+4,95,4,2011-11-19,NC State,N,Vanderbilt,REG (Non-Conf),L 79-86,*,26,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,2,2,1,4,1,1,5,7,5.6,N,0,1,cj-williams-2,C.J. Williams,2012
+5,96,5,2011-11-21,NC State,N,Texas,REG (Non-Conf),W 77-74,*,32,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,4,0.75,1,4,5,2,2,0,1,3,7,8.4,N,1,1,cj-williams-2,C.J. Williams,2012
+6,97,6,2011-11-25,NC State,,Elon,REG (Non-Conf),W 82-67,*,36,4,9,0.444,0,1,0.0,4,8,0.5,0.444,2,2,1.0,2,1,3,2,0,0,1,1,10,7.0,H,1,1,cj-williams-2,C.J. Williams,2012
+7,98,7,2011-11-30,NC State,,Indiana,REG (Non-Conf),L 75-86,*,24,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,5,0,5,3,1,2,0,3,8,10.1,H,0,1,cj-williams-2,C.J. Williams,2012
+8,99,8,2011-12-04,NC State,@,Stanford,REG (Non-Conf),L 72-76,*,37,6,10,0.6,3,6,0.5,3,4,0.75,0.75,3,4,0.75,1,2,3,1,0,1,3,1,18,12.3,A,0,1,cj-williams-2,C.J. Williams,2012
+9,100,9,2011-12-11,NC State,,North Carolina Central,REG (Non-Conf),W 65-60,*,36,6,14,0.429,1,7,0.143,5,7,0.714,0.464,8,9,0.889,2,3,5,1,3,1,4,3,21,14.7,H,1,1,cj-williams-2,C.J. Williams,2012
+10,101,10,2011-12-17,NC State,,Syracuse,REG (Non-Conf),L 72-88,*,35,9,13,0.692,3,5,0.6,6,8,0.75,0.808,4,4,1.0,2,1,3,2,0,0,4,3,25,17.4,H,0,1,cj-williams-2,C.J. Williams,2012
+11,102,11,2011-12-20,NC State,N,St. Bonaventure,REG (Non-Conf),W 67-65,*,27,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,2,2,1,1,0,0,4,4,1.3,N,1,1,cj-williams-2,C.J. Williams,2012
+12,103,12,2011-12-22,NC State,,Northeastern,REG (Non-Conf),W 88-59,*,32,5,12,0.417,1,3,0.333,4,9,0.444,0.458,3,3,1.0,2,2,4,6,1,0,2,3,14,11.6,H,1,1,cj-williams-2,C.J. Williams,2012
+13,104,13,2011-12-29,NC State,,Campbell,REG (Non-Conf),W 87-81,*,35,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,1,2,4,3,1,0,3,5,8.6,H,1,1,cj-williams-2,C.J. Williams,2012
+14,105,14,2011-12-31,NC State,,Western Carolina,REG (Non-Conf),W 82-55,*,32,8,10,0.8,2,3,0.667,6,7,0.857,0.9,3,3,1.0,0,3,3,0,1,0,0,2,21,18.3,H,1,1,cj-williams-2,C.J. Williams,2012
+15,106,15,2012-01-04,NC State,,Delaware State,REG (Non-Conf),W 78-44,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,0,0,,3,4,7,3,3,0,3,1,9,9.3,H,1,1,cj-williams-2,C.J. Williams,2012
+16,107,16,2012-01-08,NC State,,Maryland,REG (Conf),W 79-74,*,31,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,0,2,2,1,0,1,2,4,7,2.0,H,1,1,cj-williams-2,C.J. Williams,2012
+17,108,17,2012-01-11,NC State,,Georgia Tech,REG (Conf),L 71-82,*,32,5,10,0.5,1,4,0.25,4,6,0.667,0.55,1,1,1.0,2,2,4,1,0,1,0,3,12,9.2,H,0,1,cj-williams-2,C.J. Williams,2012
+18,109,18,2012-01-14,NC State,@,Wake Forest,REG (Conf),W 76-40,*,31,6,12,0.5,2,6,0.333,4,6,0.667,0.583,1,1,1.0,2,3,5,1,1,0,1,1,15,11.6,A,1,1,cj-williams-2,C.J. Williams,2012
+19,110,19,2012-01-19,NC State,,Boston College,REG (Conf),W 76-62,*,26,5,9,0.556,0,1,0.0,5,8,0.625,0.556,0,2,0.0,4,2,6,2,4,0,1,1,10,12.3,H,1,1,cj-williams-2,C.J. Williams,2012
+20,111,20,2012-01-22,NC State,@,Miami (FL),REG (Conf),W 78-73,*,31,4,10,0.4,2,3,0.667,2,7,0.286,0.5,0,0,,2,1,3,0,0,0,2,1,10,3.9,A,1,1,cj-williams-2,C.J. Williams,2012
+21,112,21,2012-01-26,NC State,@,North Carolina,REG (Conf),L 55-74,*,30,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,3,0.333,1,0,1,4,0,0,1,3,8,5.5,A,0,1,cj-williams-2,C.J. Williams,2012
+22,113,22,2012-01-28,NC State,,Virginia,REG (Conf),L 60-61,*,35,6,9,0.667,0,2,0.0,6,7,0.857,0.667,2,2,1.0,0,3,3,0,1,0,1,2,14,10.2,H,0,1,cj-williams-2,C.J. Williams,2012
+23,114,23,2012-02-01,NC State,@,Boston College,REG (Conf),W 56-51,*,36,4,7,0.571,2,3,0.667,2,4,0.5,0.714,0,1,0.0,2,1,3,2,0,0,1,2,10,7.6,A,1,1,cj-williams-2,C.J. Williams,2012
+24,115,24,2012-02-04,NC State,,Wake Forest,REG (Conf),W 87-76,*,33,8,13,0.615,1,3,0.333,7,10,0.7,0.654,1,1,1.0,2,4,6,3,1,2,2,3,18,16.0,H,1,1,cj-williams-2,C.J. Williams,2012
+25,116,25,2012-02-09,NC State,@,Georgia Tech,REG (Conf),W 61-52,*,32,6,11,0.545,2,5,0.4,4,6,0.667,0.636,1,1,1.0,3,3,6,1,1,1,2,1,15,12.7,A,1,1,cj-williams-2,C.J. Williams,2012
+26,117,26,2012-02-16,NC State,@,Duke,REG (Conf),L 73-78,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,1,1,1,1,0,1,5,3,1.0,A,0,1,cj-williams-2,C.J. Williams,2012
+27,118,27,2012-02-18,NC State,,Florida State,REG (Conf),L 62-76,*,34,3,9,0.333,2,4,0.5,1,5,0.2,0.444,0,0,,2,2,4,1,1,0,3,2,8,2.8,H,0,1,cj-williams-2,C.J. Williams,2012
+28,119,28,2012-02-21,NC State,,North Carolina,REG (Conf),L 74-86,*,28,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,2,0,2,0,3,0,2,4,8,5.5,H,0,1,cj-williams-2,C.J. Williams,2012
+29,120,29,2012-02-25,NC State,@,Clemson,REG (Conf),L 69-72 (OT),*,43,8,13,0.615,0,2,0.0,8,11,0.727,0.615,0,1,0.0,4,3,7,2,0,0,0,3,16,13.6,A,0,1,cj-williams-2,C.J. Williams,2012
+30,121,30,2012-02-29,NC State,,Miami (FL),REG (Conf),W 77-73,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,2,3,5,1,0,0,0,2,0,0.1,H,1,1,cj-williams-2,C.J. Williams,2012
+31,122,31,2012-03-04,NC State,@,Virginia Tech,REG (Conf),W 70-58,*,32,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,0,1,1,2,1,0,2,8,9.0,A,1,1,cj-williams-2,C.J. Williams,2012
+32,123,32,2012-03-08,NC State,N,Boston College,CTOURN,W 78-57,*,31,2,9,0.222,1,2,0.5,1,7,0.143,0.278,0,0,,3,3,6,2,1,0,1,2,5,3.1,N,1,0,cj-williams-2,C.J. Williams,2012
+33,124,33,2012-03-09,NC State,N,Virginia,CTOURN,W 67-64,*,36,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,0,1,1,3,3,0,2,4,6,3.4,N,1,0,cj-williams-2,C.J. Williams,2012
+34,125,34,2012-03-10,NC State,N,North Carolina,CTOURN,L 67-69,*,20,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,2,0.5,0,2,2,0,0,1,0,3,3,-0.4,N,0,0,cj-williams-2,C.J. Williams,2012
+35,126,35,2012-03-16,NC State,N,San Diego State,ROUND-64,W 79-65,*,34,3,7,0.429,0,0,,3,7,0.429,0.429,0,0,,2,5,7,2,0,0,0,1,6,6.2,N,1,0,cj-williams-2,C.J. Williams,2012
+36,127,36,2012-03-18,NC State,N,Georgetown,ROUND-32,W 66-63,*,32,5,12,0.417,2,5,0.4,3,7,0.429,0.5,2,2,1.0,2,0,2,0,0,0,0,0,14,9.0,N,1,0,cj-williams-2,C.J. Williams,2012
+37,128,37,2012-03-23,NC State,N,Kansas,ROUND-16,L 57-60,*,30,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,3,2,5,3,1,0,1,2,10,10.0,N,0,0,cj-williams-2,C.J. Williams,2012

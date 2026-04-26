@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Detroit Mercy,,Lake Erie,REG (Non-Conf),W 95-57,,25,4,5,0.8,0,0,,4,5,0.8,0.8,2,2,1.0,2,5,7,0,1,1,2,2,10,9.9,H,1,1,doug-anderson-1,Doug Anderson,2012
+2,2,2,2011-11-14,Detroit Mercy,@,Notre Dame,REG (Non-Conf),L 53-59,,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,1,1.0,3,3,6,1,0,1,0,4,5,4.4,A,0,1,doug-anderson-1,Doug Anderson,2012
+3,3,3,2011-11-18,Detroit Mercy,,Concordia (MI),REG (Non-Conf),W 113-68,*,26,5,7,0.714,0,0,,5,7,0.714,0.714,2,4,0.5,3,10,13,1,1,2,0,1,12,16.1,H,1,1,doug-anderson-1,Doug Anderson,2012
+4,4,4,2011-11-21,Detroit Mercy,N,George Washington,REG (Non-Conf),L 73-86,,23,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,0,,4,2,6,1,1,0,1,3,11,9.6,N,0,1,doug-anderson-1,Doug Anderson,2012
+5,5,5,2011-11-22,Detroit Mercy,@,Bowling Green,REG (Non-Conf),L 61-67,,29,2,5,0.4,0,0,,2,5,0.4,0.4,5,5,1.0,2,2,4,0,0,1,6,4,9,1.4,A,0,1,doug-anderson-1,Doug Anderson,2012
+6,6,6,2011-11-23,Detroit Mercy,N,Austin Peay,REG (Non-Conf),W 94-93 (OT),*,26,7,9,0.778,2,2,1.0,5,7,0.714,0.889,2,3,0.667,1,6,7,2,1,0,4,4,18,13.4,N,1,1,doug-anderson-1,Doug Anderson,2012
+7,7,7,2011-11-26,Detroit Mercy,@,Akron,REG (Non-Conf),L 63-81,*,29,1,6,0.167,0,0,,1,6,0.167,0.167,4,4,1.0,1,1,2,1,0,0,1,3,6,1.7,A,0,1,doug-anderson-1,Doug Anderson,2012
+8,8,8,2011-12-01,Detroit Mercy,,Youngstown State,REG (Conf),L 61-64,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,3,1,4,0,0,1,0,3,4,4.9,H,0,1,doug-anderson-1,Doug Anderson,2012
+9,9,9,2011-12-03,Detroit Mercy,,Cleveland State,REG (Conf),L 61-66,*,34,5,7,0.714,0,1,0.0,5,6,0.833,0.714,7,7,1.0,1,4,5,2,1,1,3,2,17,15.3,H,0,1,doug-anderson-1,Doug Anderson,2012
+10,10,10,2011-12-05,Detroit Mercy,,St. John's (NY),REG (Non-Conf),W 69-63,*,38,3,6,0.5,0,0,,3,6,0.5,0.5,4,5,0.8,3,5,8,1,1,0,0,4,10,10.3,H,1,1,doug-anderson-1,Doug Anderson,2012
+11,11,11,2011-12-08,Detroit Mercy,,Western Michigan,REG (Non-Conf),W 92-81,*,29,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,1,1,2,2,0,2,1,4,2.2,H,1,1,doug-anderson-1,Doug Anderson,2012
+12,12,12,2011-12-11,Detroit Mercy,@,Alabama,REG (Non-Conf),L 54-62,*,25,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,2,2,4,0,2,0,2,4,12,9.5,A,0,1,doug-anderson-1,Doug Anderson,2012
+13,13,13,2011-12-17,Detroit Mercy,,Mississippi State,REG (Non-Conf),L 75-80,*,26,4,8,0.5,0,2,0.0,4,6,0.667,0.5,5,5,1.0,2,3,5,1,2,0,1,1,13,12.6,H,0,1,doug-anderson-1,Doug Anderson,2012
+14,14,14,2011-12-22,Detroit Mercy,,Alabama State,REG (Non-Conf),W 80-56,*,35,6,8,0.75,0,0,,6,8,0.75,0.75,4,6,0.667,3,9,12,1,1,1,1,0,16,18.2,H,1,1,doug-anderson-1,Doug Anderson,2012
+15,15,15,2011-12-29,Detroit Mercy,@,Illinois–Chicago,REG (Conf),L 59-63,*,27,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,2,0.0,0,0,0,0,0,0,1,2,6,-1.0,A,0,1,doug-anderson-1,Doug Anderson,2012
+16,16,16,2011-12-31,Detroit Mercy,@,Loyola Chicago,REG (Conf),W 65-54,*,30,4,9,0.444,0,0,,4,9,0.444,0.444,6,7,0.857,3,3,6,1,1,1,2,3,14,11.1,A,1,1,doug-anderson-1,Doug Anderson,2012
+17,17,17,2012-01-06,Detroit Mercy,,Valparaiso,REG (Conf),L 71-73,*,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,4,4,1,0,0,1,2,0,-0.6,H,0,1,doug-anderson-1,Doug Anderson,2012
+18,18,18,2012-01-08,Detroit Mercy,,Butler,REG (Conf),W 76-65,*,21,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,0,1,1,1,2,2,2,0,10,9.1,H,1,1,doug-anderson-1,Doug Anderson,2012
+19,19,19,2012-01-12,Detroit Mercy,@,Green Bay,REG (Conf),W 80-73,*,27,2,6,0.333,0,0,,2,6,0.333,0.333,5,8,0.625,3,3,6,2,4,0,0,2,9,12.0,A,1,1,doug-anderson-1,Doug Anderson,2012
+20,20,20,2012-01-14,Detroit Mercy,@,Milwaukee,REG (Conf),L 74-84,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,3,3,1,1,0,1,5,6,3.3,A,0,1,doug-anderson-1,Doug Anderson,2012
+21,21,21,2012-01-21,Detroit Mercy,,Wright State,REG (Conf),W 69-53,*,29,3,9,0.333,0,1,0.0,3,8,0.375,0.333,1,2,0.5,3,3,6,2,4,0,1,0,7,8.9,H,1,1,doug-anderson-1,Doug Anderson,2012
+22,22,22,2012-01-25,Detroit Mercy,,Loyola Chicago,REG (Conf),W 67-52,*,16,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,2,3,0,0,1,0,2,4,2.5,H,1,1,doug-anderson-1,Doug Anderson,2012
+23,23,23,2012-01-27,Detroit Mercy,,Illinois–Chicago,REG (Conf),W 70-66,*,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,1,2,0.5,2,0,2,1,1,0,0,1,9,8.0,H,1,1,doug-anderson-1,Doug Anderson,2012
+24,24,24,2012-02-02,Detroit Mercy,@,Valparaiso,REG (Conf),L 73-78,*,36,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,3,4,7,5,2,0,2,2,12,15.1,A,0,1,doug-anderson-1,Doug Anderson,2012
+25,25,25,2012-02-04,Detroit Mercy,@,Butler,REG (Conf),W 65-61,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,3,5,0.6,1,5,6,2,1,0,2,4,9,6.2,A,1,1,doug-anderson-1,Doug Anderson,2012
+26,26,26,2012-02-10,Detroit Mercy,,Milwaukee,REG (Conf),W 58-57,*,26,5,9,0.556,0,0,,5,9,0.556,0.556,2,3,0.667,2,3,5,1,3,0,1,2,12,11.5,H,1,1,doug-anderson-1,Doug Anderson,2012
+27,27,27,2012-02-12,Detroit Mercy,,Green Bay,REG (Conf),W 77-74,*,20,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,3,4,2,1,0,4,0,0,-1.4,H,1,1,doug-anderson-1,Doug Anderson,2012
+28,28,28,2012-02-15,Detroit Mercy,@,Wright State,REG (Conf),W 71-55,*,33,3,6,0.5,0,2,0.0,3,4,0.75,0.5,5,5,1.0,1,7,8,1,2,1,1,4,11,11.6,A,1,1,doug-anderson-1,Doug Anderson,2012
+29,29,29,2012-02-18,Detroit Mercy,,James Madison,REG (Non-Conf),W 82-70,,30,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,5,2,7,2,1,0,2,0,10,11.9,H,1,1,doug-anderson-1,Doug Anderson,2012
+30,30,30,2012-02-23,Detroit Mercy,@,Cleveland State,REG (Conf),L 64-77,*,21,3,7,0.429,1,1,1.0,2,6,0.333,0.5,1,2,0.5,1,4,5,0,0,1,0,4,8,4.9,A,0,1,doug-anderson-1,Doug Anderson,2012
+31,31,31,2012-02-25,Detroit Mercy,@,Youngstown State,REG (Conf),W 76-74,*,18,4,7,0.571,0,0,,4,7,0.571,0.571,2,2,1.0,1,2,3,2,0,1,1,4,10,7.5,A,1,1,doug-anderson-1,Doug Anderson,2012
+32,32,32,2012-02-28,Detroit Mercy,,Loyola Chicago,CTOURN,W 80-71,*,27,7,12,0.583,1,1,1.0,6,11,0.545,0.625,3,4,0.75,0,1,1,1,3,0,0,5,18,14.0,H,1,0,doug-anderson-1,Doug Anderson,2012
+33,33,33,2012-03-02,Detroit Mercy,N,Youngstown State,CTOURN,W 93-76,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,5,6,0.833,1,2,3,2,0,0,2,1,11,7.9,N,1,0,doug-anderson-1,Doug Anderson,2012
+34,34,34,2012-03-03,Detroit Mercy,N,Cleveland State,CTOURN,W 63-58,*,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,1,0,doug-anderson-1,Doug Anderson,2012
+35,35,35,2012-03-06,Detroit Mercy,@,Valparaiso,CTOURN,W 70-50,*,16,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,0,2,2,0,0,1,4,4,1.8,A,1,0,doug-anderson-1,Doug Anderson,2012
+36,36,36,2012-03-16,Detroit Mercy,N,Kansas,ROUND-64,L 50-65,*,13,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,6,0.833,0,1,1,0,1,0,1,5,15,9.3,N,0,0,doug-anderson-1,Doug Anderson,2012

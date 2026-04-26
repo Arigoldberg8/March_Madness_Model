@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,124,1,2021-11-09,Providence,,Fairfield,REG (Non-Conf),W 80-73,*,36,4,9,0.444,1,4,0.25,3,5,0.6,0.5,9,12,0.75,0,3,3,3,0,0,3,3,18,10.9,H,1,1,aljami-durham-1,Aljami Durham,2022
+2,125,2,2021-11-11,Providence,,Sacred Heart,REG (Non-Conf),W 92-64,*,29,5,13,0.385,2,9,0.222,3,4,0.75,0.462,0,2,0.0,1,1,2,3,1,0,1,2,12,6.4,H,1,1,aljami-durham-1,Aljami Durham,2022
+3,126,3,2021-11-15,Providence,@,Wisconsin,REG (Non-Conf),W 63-58,*,35,4,11,0.364,3,5,0.6,1,6,0.167,0.5,2,4,0.5,0,2,2,4,0,0,3,1,13,6.1,A,1,1,aljami-durham-1,Aljami Durham,2022
+4,127,4,2021-11-18,Providence,,New Hampshire,REG (Non-Conf),W 69-58,*,33,6,9,0.667,0,2,0.0,6,7,0.857,0.667,7,7,1.0,1,1,2,3,0,0,0,1,19,17.8,H,1,1,aljami-durham-1,Aljami Durham,2022
+5,128,5,2021-11-22,Providence,N,Northwestern,REG (Non-Conf),W 77-72,*,39,1,7,0.143,1,5,0.2,0,2,0.0,0.214,8,8,1.0,0,2,2,7,0,1,2,2,11,9.9,N,1,1,aljami-durham-1,Aljami Durham,2022
+6,129,6,2021-11-23,Providence,N,Virginia,REG (Non-Conf),L 40-58,*,38,3,10,0.3,1,4,0.25,2,6,0.333,0.35,3,4,0.75,0,2,2,2,0,0,2,2,10,3.0,N,0,1,aljami-durham-1,Aljami Durham,2022
+7,130,7,2021-11-27,Providence,,Saint Peter's,REG (Non-Conf),W 85-71,*,39,1,3,0.333,0,2,0.0,1,1,1.0,0.333,9,9,1.0,0,3,3,3,1,2,7,2,11,6.9,H,1,1,aljami-durham-1,Aljami Durham,2022
+8,131,8,2021-12-01,Providence,,Texas Tech,REG (Non-Conf),W 72-68,*,38,5,13,0.385,1,4,0.25,4,9,0.444,0.423,12,13,0.923,0,3,3,2,0,1,4,3,23,13.3,H,1,1,aljami-durham-1,Aljami Durham,2022
+9,132,9,2021-12-04,Providence,,Rhode Island,REG (Non-Conf),W 66-52,*,38,4,11,0.364,1,2,0.5,3,9,0.333,0.409,5,5,1.0,0,3,3,6,1,0,5,1,14,8.6,H,1,1,aljami-durham-1,Aljami Durham,2022
+10,133,10,2021-12-07,Providence,,Vermont,REG (Non-Conf),W 68-58,*,37,2,9,0.222,0,3,0.0,2,6,0.333,0.222,5,9,0.556,1,0,1,5,1,1,3,1,9,4.4,H,1,1,aljami-durham-1,Aljami Durham,2022
+11,134,11,2021-12-11,Providence,,Central Connecticut State,REG (Non-Conf),W 68-53,*,30,3,11,0.273,0,4,0.0,3,7,0.429,0.273,2,3,0.667,0,5,5,3,2,2,3,0,8,5.1,H,1,1,aljami-durham-1,Aljami Durham,2022
+12,135,12,2021-12-18,Providence,@,Connecticut,REG (Conf),W 57-53,*,28,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,3,0.333,0,4,4,4,1,0,2,3,7,3.6,A,1,1,aljami-durham-1,Aljami Durham,2022
+13,136,13,2021-12-29,Providence,,Seton Hall,REG (Conf),W 70-65,*,29,2,6,0.333,0,3,0.0,2,3,0.667,0.333,8,10,0.8,0,4,4,0,1,0,3,3,12,5.8,H,1,1,aljami-durham-1,Aljami Durham,2022
+14,137,14,2022-01-01,Providence,@,DePaul,REG (Conf),W 70-53,*,38,5,10,0.5,2,3,0.667,3,7,0.429,0.6,5,6,0.833,0,3,3,1,0,0,1,2,17,11.4,A,1,1,aljami-durham-1,Aljami Durham,2022
+15,138,15,2022-01-04,Providence,@,Marquette,REG (Conf),L 56-88,*,36,3,12,0.25,2,6,0.333,1,6,0.167,0.333,8,9,0.889,0,2,2,1,3,0,2,3,16,9.5,A,0,1,aljami-durham-1,Aljami Durham,2022
+16,139,16,2022-01-08,Providence,,St. John's (NY),REG (Conf),W 83-73,*,37,3,8,0.375,1,3,0.333,2,5,0.4,0.438,6,6,1.0,0,3,3,2,0,0,2,3,13,7.7,H,1,1,aljami-durham-1,Aljami Durham,2022
+17,140,17,2022-01-20,Providence,,Georgetown,REG (Conf),W 83-75,*,38,3,8,0.375,1,2,0.5,2,6,0.333,0.438,8,8,1.0,0,4,4,3,0,0,2,3,15,10.7,H,1,1,aljami-durham-1,Aljami Durham,2022
+18,141,18,2022-01-23,Providence,,Butler,REG (Conf),W 69-62,*,37,4,11,0.364,0,3,0.0,4,8,0.5,0.364,4,7,0.571,0,3,3,3,0,1,1,1,12,7.0,H,1,1,aljami-durham-1,Aljami Durham,2022
+19,142,19,2022-01-26,Providence,@,Xavier,REG (Conf),W 65-62,*,38,5,16,0.313,2,6,0.333,3,10,0.3,0.375,10,10,1.0,0,2,2,4,0,0,2,1,22,13.8,A,1,1,aljami-durham-1,Aljami Durham,2022
+20,143,20,2022-01-30,Providence,,Marquette,REG (Conf),W 65-63,*,37,4,12,0.333,1,6,0.167,3,6,0.5,0.375,2,4,0.5,0,4,4,4,1,0,0,3,11,7.2,H,1,1,aljami-durham-1,Aljami Durham,2022
+21,144,21,2022-02-01,Providence,@,St. John's (NY),REG (Conf),W 86-82,*,39,1,10,0.1,0,2,0.0,1,8,0.125,0.1,12,13,0.923,2,4,6,4,0,0,3,2,14,8.6,A,1,1,aljami-durham-1,Aljami Durham,2022
+22,145,22,2022-02-06,Providence,@,Georgetown,REG (Conf),W 71-52,*,35,1,7,0.143,0,3,0.0,1,4,0.25,0.143,3,3,1.0,0,3,3,4,0,0,2,2,5,1.4,A,1,1,aljami-durham-1,Aljami Durham,2022
+23,146,23,2022-02-12,Providence,,DePaul,REG (Conf),W 76-73 (OT),*,31,2,8,0.25,0,2,0.0,2,6,0.333,0.25,12,12,1.0,0,3,3,3,0,0,3,2,16,10.4,H,1,1,aljami-durham-1,Aljami Durham,2022
+24,147,24,2022-02-15,Providence,,Villanova,REG (Conf),L 84-89,*,32,5,15,0.333,0,5,0.0,5,10,0.5,0.333,3,3,1.0,1,3,4,3,0,0,1,4,13,5.6,H,0,1,aljami-durham-1,Aljami Durham,2022
+25,148,26,2022-02-23,Providence,,Xavier,REG (Conf),W 99-92 (3OT),*,33,3,12,0.25,0,1,0.0,3,11,0.273,0.25,7,8,0.875,0,4,4,6,1,1,6,5,13,4.5,H,1,1,aljami-durham-1,Aljami Durham,2022
+26,149,27,2022-02-26,Providence,,Creighton,REG (Conf),W 72-51,*,28,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,1,0,1,5,2,0,1,3,12,11.0,H,1,1,aljami-durham-1,Aljami Durham,2022
+27,150,29,2022-03-10,Providence,N,Butler,CTOURN,W 65-61,*,32,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,4,0.5,1,2,3,2,0,1,2,2,7,1.3,N,1,0,aljami-durham-1,Aljami Durham,2022
+28,151,30,2022-03-11,Providence,N,Creighton,CTOURN,L 58-85,*,32,7,12,0.583,2,4,0.5,5,8,0.625,0.667,5,5,1.0,1,4,5,3,0,0,2,3,21,16.2,N,0,0,aljami-durham-1,Aljami Durham,2022
+29,152,31,2022-03-17,Providence,N,South Dakota State,ROUND-64,W 66-57,*,29,5,12,0.417,1,5,0.2,4,7,0.571,0.458,2,3,0.667,1,7,8,6,0,0,2,1,13,10.8,N,1,0,aljami-durham-1,Aljami Durham,2022
+30,153,32,2022-03-19,Providence,N,Richmond,ROUND-32,W 79-51,*,24,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,0,,0,4,4,3,1,0,2,1,13,12.0,N,1,0,aljami-durham-1,Aljami Durham,2022
+31,154,33,2022-03-25,Providence,N,Kansas,ROUND-16,L 61-66,*,39,8,18,0.444,1,5,0.2,7,13,0.538,0.472,4,7,0.571,1,6,7,4,1,0,3,4,21,12.1,N,0,0,aljami-durham-1,Aljami Durham,2022

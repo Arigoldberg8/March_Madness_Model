@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2018-11-06,Minnesota,,Omaha,REG (Non-Conf),W 104-76,*,23,5,7,0.714,0,0,,5,7,0.714,0.714,8,8,1.0,0,2,2,4,2,0,2,2,18,17.7,H,1,1,amir-coffey-1,Amir Coffey,2019
+2,53,2,2018-11-12,Minnesota,,Utah,REG (Non-Conf),W 78-69,*,32,5,11,0.455,1,3,0.333,4,8,0.5,0.5,3,5,0.6,1,1,2,6,1,0,2,3,14,10.5,H,1,1,amir-coffey-1,Amir Coffey,2019
+3,54,3,2018-11-18,Minnesota,N,Texas A&M,REG (Non-Conf),W 69-64,*,30,3,8,0.375,0,2,0.0,3,6,0.5,0.375,6,10,0.6,1,1,2,2,1,0,6,2,12,2.6,N,1,1,amir-coffey-1,Amir Coffey,2019
+4,55,4,2018-11-20,Minnesota,N,Santa Clara,REG (Non-Conf),W 80-66,*,35,3,14,0.214,1,2,0.5,2,12,0.167,0.25,4,7,0.571,0,2,2,3,0,0,2,0,11,1.9,N,1,1,amir-coffey-1,Amir Coffey,2019
+5,56,5,2018-11-21,Minnesota,N,Washington,REG (Non-Conf),W 68-66,*,36,6,15,0.4,1,4,0.25,5,11,0.455,0.433,4,7,0.571,3,1,4,1,1,0,1,2,17,10.0,N,1,1,amir-coffey-1,Amir Coffey,2019
+6,57,6,2018-11-26,Minnesota,@,Boston College,REG (Non-Conf),L 56-68,*,35,4,11,0.364,2,6,0.333,2,5,0.4,0.455,2,2,1.0,0,1,1,2,2,0,1,2,12,7.8,A,0,1,amir-coffey-1,Amir Coffey,2019
+7,58,7,2018-11-30,Minnesota,,Oklahoma State,REG (Non-Conf),W 83-76,*,35,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,5,0.6,1,2,3,2,0,1,3,1,11,7.6,H,1,1,amir-coffey-1,Amir Coffey,2019
+8,59,8,2018-12-02,Minnesota,@,Ohio State,REG (Conf),L 59-79,*,32,7,16,0.438,0,3,0.0,7,13,0.538,0.438,5,7,0.714,1,2,3,1,0,0,2,2,19,9.0,A,0,1,amir-coffey-1,Amir Coffey,2019
+9,60,9,2018-12-05,Minnesota,,Nebraska,REG (Conf),W 85-78,*,31,8,16,0.5,2,3,0.667,6,13,0.462,0.563,14,17,0.824,3,3,6,6,1,0,2,3,32,27.8,H,1,1,amir-coffey-1,Amir Coffey,2019
+10,61,10,2018-12-08,Minnesota,,Arkansas State,REG (Non-Conf),W 72-56,*,35,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,4,4,6,1,0,4,2,12,10.0,H,1,1,amir-coffey-1,Amir Coffey,2019
+11,62,11,2018-12-11,Minnesota,,North Florida,REG (Non-Conf),W 80-71,*,36,6,15,0.4,1,5,0.2,5,10,0.5,0.433,5,8,0.625,2,4,6,3,1,0,1,1,18,13.0,H,1,1,amir-coffey-1,Amir Coffey,2019
+12,63,12,2018-12-21,Minnesota,,North Carolina A&T,REG (Non-Conf),W 86-67,*,23,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,3,2,0,0,1,7,8.3,H,1,1,amir-coffey-1,Amir Coffey,2019
+13,64,13,2018-12-30,Minnesota,,Mount St. Mary's,REG (Non-Conf),W 71-53,*,34,3,9,0.333,0,2,0.0,3,7,0.429,0.333,7,8,0.875,0,1,1,2,1,0,2,3,13,7.0,H,1,1,amir-coffey-1,Amir Coffey,2019
+14,65,14,2019-01-03,Minnesota,@,Wisconsin,REG (Conf),W 59-52,*,36,7,14,0.5,2,6,0.333,5,8,0.625,0.571,5,6,0.833,0,6,6,3,2,0,5,2,21,13.7,A,1,1,amir-coffey-1,Amir Coffey,2019
+15,66,15,2019-01-08,Minnesota,,Maryland,REG (Conf),L 67-82,*,37,6,13,0.462,1,4,0.25,5,9,0.556,0.5,3,8,0.375,1,0,1,5,0,0,0,0,16,11.5,H,0,1,amir-coffey-1,Amir Coffey,2019
+16,67,16,2019-01-12,Minnesota,,Rutgers,REG (Conf),W 88-70,*,34,10,14,0.714,1,4,0.25,9,10,0.9,0.75,8,10,0.8,0,3,3,4,1,0,1,1,29,25.7,H,1,1,amir-coffey-1,Amir Coffey,2019
+17,68,17,2019-01-16,Minnesota,@,Illinois,REG (Conf),L 68-95,*,32,2,13,0.154,1,3,0.333,1,10,0.1,0.192,4,5,0.8,1,3,4,0,1,1,2,0,9,1.6,A,0,1,amir-coffey-1,Amir Coffey,2019
+18,69,18,2019-01-19,Minnesota,,Penn State,REG (Conf),W 65-64,*,38,3,11,0.273,1,4,0.25,2,7,0.286,0.318,4,5,0.8,1,1,2,1,0,0,4,2,11,1.0,H,1,1,amir-coffey-1,Amir Coffey,2019
+19,70,19,2019-01-22,Minnesota,@,Michigan,REG (Conf),L 57-59,*,35,4,11,0.364,0,2,0.0,4,9,0.444,0.364,3,4,0.75,1,4,5,0,0,1,2,0,11,5.1,A,0,1,amir-coffey-1,Amir Coffey,2019
+20,71,20,2019-01-27,Minnesota,,Iowa,REG (Conf),W 92-87,*,36,8,15,0.533,2,4,0.5,6,11,0.545,0.6,5,7,0.714,0,3,3,5,1,0,3,2,23,16.5,H,1,1,amir-coffey-1,Amir Coffey,2019
+21,72,21,2019-01-30,Minnesota,,Illinois,REG (Conf),W 86-75,*,36,6,12,0.5,1,4,0.25,5,8,0.625,0.542,5,5,1.0,2,2,4,6,1,0,4,1,18,14.8,H,1,1,amir-coffey-1,Amir Coffey,2019
+22,73,22,2019-02-03,Minnesota,@,Purdue,REG (Conf),L 63-73,*,35,8,13,0.615,1,3,0.333,7,10,0.7,0.654,5,6,0.833,0,3,3,1,1,0,2,0,22,16.3,A,0,1,amir-coffey-1,Amir Coffey,2019
+23,74,23,2019-02-06,Minnesota,,Wisconsin,REG (Conf),L 51-56,*,38,3,10,0.3,0,2,0.0,3,8,0.375,0.3,2,2,1.0,0,4,4,1,0,0,1,1,8,2.7,H,0,1,amir-coffey-1,Amir Coffey,2019
+24,75,24,2019-02-09,Minnesota,@,Michigan State,REG (Conf),L 55-79,*,29,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,1,0.0,0,0,0,4,0,0,4,3,4,-2.2,A,0,1,amir-coffey-1,Amir Coffey,2019
+25,76,25,2019-02-13,Minnesota,@,Nebraska,REG (Conf),L 61-62,*,39,4,10,0.4,3,5,0.6,1,5,0.2,0.55,0,0,,0,4,4,2,1,0,2,4,11,5.6,A,0,1,amir-coffey-1,Amir Coffey,2019
+26,77,26,2019-02-16,Minnesota,,Indiana,REG (Conf),W 84-63,*,34,5,12,0.417,3,6,0.5,2,6,0.333,0.542,5,8,0.625,1,5,6,7,1,0,1,2,18,16.7,H,1,1,amir-coffey-1,Amir Coffey,2019
+27,78,27,2019-02-21,Minnesota,,Michigan,REG (Conf),L 60-69,*,37,2,15,0.133,0,5,0.0,2,10,0.2,0.133,2,3,0.667,1,4,5,4,1,1,0,1,6,1.9,H,0,1,amir-coffey-1,Amir Coffey,2019
+28,79,28,2019-02-24,Minnesota,@,Rutgers,REG (Conf),L 64-68,*,40,4,12,0.333,0,3,0.0,4,9,0.444,0.333,0,2,0.0,0,3,3,3,1,0,4,2,8,-0.4,A,0,1,amir-coffey-1,Amir Coffey,2019
+29,80,29,2019-02-28,Minnesota,@,Northwestern,REG (Conf),W 62-50,*,40,12,19,0.632,3,6,0.5,9,13,0.692,0.711,4,5,0.8,1,11,12,3,0,1,3,1,31,25.5,A,1,1,amir-coffey-1,Amir Coffey,2019
+30,81,30,2019-03-05,Minnesota,,Purdue,REG (Conf),W 73-69,*,39,8,15,0.533,3,4,0.75,5,11,0.455,0.633,13,18,0.722,1,7,8,3,3,0,4,2,32,25.8,H,1,1,amir-coffey-1,Amir Coffey,2019
+31,82,31,2019-03-08,Minnesota,@,Maryland,REG (Conf),L 60-69,*,39,8,17,0.471,2,7,0.286,6,10,0.6,0.529,5,8,0.625,0,3,3,6,1,0,3,0,23,16.2,A,0,1,amir-coffey-1,Amir Coffey,2019
+32,83,32,2019-03-14,Minnesota,N,Penn State,CTOURN,W 77-72 (OT),*,45,6,17,0.353,0,5,0.0,6,12,0.5,0.353,10,11,0.909,1,2,3,5,2,1,2,4,22,16.0,N,1,0,amir-coffey-1,Amir Coffey,2019
+33,84,33,2019-03-15,Minnesota,N,Purdue,CTOURN,W 75-73,*,40,7,13,0.538,2,4,0.5,5,9,0.556,0.615,5,6,0.833,0,3,3,2,2,0,3,1,21,15.2,N,1,0,amir-coffey-1,Amir Coffey,2019
+34,85,34,2019-03-16,Minnesota,N,Michigan,CTOURN,L 49-76,*,32,7,12,0.583,0,2,0.0,7,10,0.7,0.583,0,0,,0,4,4,3,0,0,4,0,14,7.7,N,0,0,amir-coffey-1,Amir Coffey,2019
+35,86,35,2019-03-21,Minnesota,N,Louisville,ROUND-64,W 86-76,*,40,6,14,0.429,3,7,0.429,3,7,0.429,0.536,3,4,0.75,1,5,6,2,0,1,1,1,18,13.1,N,1,0,amir-coffey-1,Amir Coffey,2019
+36,87,36,2019-03-23,Minnesota,N,Michigan State,ROUND-32,L 50-70,*,39,8,24,0.333,1,7,0.143,7,17,0.412,0.354,10,11,0.909,1,0,1,4,1,1,0,0,27,18.2,N,0,0,amir-coffey-1,Amir Coffey,2019

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2016-11-11,Villanova,,Lafayette,REG (Non-Conf),W 88-48,*,22,6,9,0.667,4,7,0.571,2,2,1.0,0.889,1,2,0.5,1,6,7,2,1,0,0,1,17,17.2,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+2,42,2,2016-11-14,Villanova,@,Purdue,REG (Non-Conf),W 79-76,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,4,4,1.0,0,3,3,4,2,0,4,3,10,8.2,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+3,43,3,2016-11-17,Villanova,N,Western Michigan,REG (Non-Conf),W 76-65,*,30,4,8,0.5,0,2,0.0,4,6,0.667,0.5,6,6,1.0,0,1,1,3,3,0,2,2,14,12.6,N,1,1,jalen-brunson-1,Jalen Brunson,2017
+4,44,4,2016-11-18,Villanova,N,Wake Forest,REG (Non-Conf),W 96-77,*,37,5,10,0.5,1,2,0.5,4,8,0.5,0.55,0,1,0.0,0,2,2,6,0,0,1,0,11,9.4,N,1,1,jalen-brunson-1,Jalen Brunson,2017
+5,45,5,2016-11-20,Villanova,N,UCF,REG (Non-Conf),W 67-57,*,30,4,10,0.4,2,4,0.5,2,6,0.333,0.5,2,2,1.0,1,2,3,2,1,0,4,2,12,5.5,N,1,1,jalen-brunson-1,Jalen Brunson,2017
+6,46,6,2016-11-23,Villanova,,College of Charleston,REG (Non-Conf),W 63-47,*,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,4,0.75,0,0,0,3,0,0,0,1,7,4.9,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+7,47,7,2016-11-29,Villanova,@,Pennsylvania,REG (Non-Conf),W 82-57,*,29,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,0,0,0,2,1,0,2,3,11,5.2,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+8,48,8,2016-12-03,Villanova,,Saint Joseph's,REG (Non-Conf),W 88-57,*,29,3,10,0.3,3,6,0.5,0,4,0.0,0.45,2,2,1.0,1,1,2,6,0,0,1,2,11,8.6,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+9,49,9,2016-12-06,Villanova,N,La Salle,REG (Non-Conf),W 89-79,*,34,10,17,0.588,2,3,0.667,8,14,0.571,0.647,4,4,1.0,1,1,2,3,0,0,0,1,26,20.8,N,1,1,jalen-brunson-1,Jalen Brunson,2017
+10,50,10,2016-12-10,Villanova,N,Notre Dame,REG (Non-Conf),W 74-66,*,25,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,2,1,3,3,0,0,2,2,8,4.6,N,1,1,jalen-brunson-1,Jalen Brunson,2017
+11,51,11,2016-12-13,Villanova,,Temple,REG (Non-Conf),W 78-57,*,33,3,6,0.5,3,5,0.6,0,1,0.0,0.75,4,4,1.0,0,1,1,6,2,0,1,1,13,15.1,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+12,52,12,2016-12-21,Villanova,,American,REG (Non-Conf),W 90-48,*,30,5,9,0.556,0,2,0.0,5,7,0.714,0.556,4,4,1.0,0,1,1,6,1,0,3,1,14,11.8,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+13,53,13,2016-12-28,Villanova,,DePaul,REG (Conf),W 68-65,*,34,5,7,0.714,0,2,0.0,5,5,1.0,0.714,3,6,0.5,0,4,4,6,0,0,3,3,13,10.1,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+14,54,14,2016-12-31,Villanova,@,Creighton,REG (Conf),W 80-70,*,35,10,14,0.714,5,7,0.714,5,7,0.714,0.893,2,2,1.0,1,3,4,5,1,0,3,2,27,23.5,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+15,55,15,2017-01-04,Villanova,@,Butler,REG (Conf),L 58-66,*,37,9,16,0.563,1,4,0.25,8,12,0.667,0.594,4,4,1.0,0,1,1,2,2,0,2,1,23,16.7,A,0,1,jalen-brunson-1,Jalen Brunson,2017
+16,56,16,2017-01-07,Villanova,,Marquette,REG (Conf),W 93-81,*,32,5,7,0.714,3,3,1.0,2,4,0.5,0.929,3,5,0.6,1,4,5,4,0,0,3,2,16,13.2,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+17,57,17,2017-01-10,Villanova,,Xavier,REG (Conf),W 79-54,*,29,4,7,0.571,0,1,0.0,4,6,0.667,0.571,3,3,1.0,0,1,1,6,1,0,0,2,11,12.4,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+18,58,18,2017-01-14,Villanova,@,St. John's (NY),REG (Conf),W 70-57,*,37,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,2,0.0,1,4,5,4,1,0,7,1,8,2.9,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+19,59,19,2017-01-16,Villanova,,Seton Hall,REG (Conf),W 76-46,*,26,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,2,1.0,0,2,2,6,1,0,1,2,13,13.0,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+20,60,20,2017-01-21,Villanova,,Providence,REG (Conf),W 78-68,*,34,4,8,0.5,1,3,0.333,3,5,0.6,0.563,4,4,1.0,1,2,3,6,1,0,1,3,13,13.3,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+21,61,21,2017-01-24,Villanova,@,Marquette,REG (Conf),L 72-74,*,35,7,13,0.538,0,5,0.0,7,8,0.875,0.538,5,5,1.0,0,4,4,4,3,0,3,2,19,15.9,A,0,1,jalen-brunson-1,Jalen Brunson,2017
+22,62,22,2017-01-29,Villanova,,Virginia,REG (Non-Conf),W 61-59,*,33,3,4,0.75,0,0,,3,4,0.75,0.75,9,10,0.9,0,1,1,4,0,0,0,1,15,15.7,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+23,63,23,2017-02-01,Villanova,@,Providence,REG (Conf),W 66-57,*,34,8,13,0.615,0,3,0.0,8,10,0.8,0.615,5,5,1.0,0,1,1,5,2,0,7,1,21,13.5,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+24,64,24,2017-02-04,Villanova,,St. John's (NY),REG (Conf),W 92-79,*,24,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,1,1.0,0,4,4,2,0,0,0,4,12,9.4,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+25,65,25,2017-02-07,Villanova,,Georgetown,REG (Conf),W 75-64,*,31,2,11,0.182,1,5,0.2,1,6,0.167,0.227,2,2,1.0,0,1,1,4,1,0,2,2,7,1.4,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+26,66,26,2017-02-11,Villanova,@,Xavier,REG (Conf),W 73-57,*,36,6,14,0.429,0,3,0.0,6,11,0.545,0.429,5,5,1.0,1,3,4,7,1,0,2,2,17,14.3,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+27,67,27,2017-02-13,Villanova,@,DePaul,REG (Conf),W 75-62,*,35,4,8,0.5,2,3,0.667,2,5,0.4,0.625,8,9,0.889,1,3,4,4,3,0,1,1,18,19.6,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+28,68,28,2017-02-18,Villanova,@,Seton Hall,REG (Conf),W 92-70,*,32,7,7,1.0,2,2,1.0,5,5,1.0,1.143,6,7,0.857,0,4,4,10,0,0,3,1,22,24.3,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+29,69,29,2017-02-22,Villanova,,Butler,REG (Conf),L 66-74,*,37,9,13,0.692,1,4,0.25,8,9,0.889,0.731,5,6,0.833,1,3,4,2,1,0,5,1,24,16.7,H,0,1,jalen-brunson-1,Jalen Brunson,2017
+30,70,30,2017-02-25,Villanova,,Creighton,REG (Conf),W 79-63,*,28,2,7,0.286,0,1,0.0,2,6,0.333,0.286,5,6,0.833,1,1,2,3,0,0,2,3,9,4.4,H,1,1,jalen-brunson-1,Jalen Brunson,2017
+31,71,31,2017-03-04,Villanova,@,Georgetown,REG (Conf),W 81-55,*,26,4,10,0.4,1,3,0.333,3,7,0.429,0.45,8,8,1.0,1,3,4,2,0,0,2,1,17,12.2,A,1,1,jalen-brunson-1,Jalen Brunson,2017
+32,72,32,2017-03-09,Villanova,N,St. John's (NY),CTOURN,W 108-67,*,26,5,8,0.625,2,4,0.5,3,4,0.75,0.75,2,2,1.0,0,0,0,5,0,0,0,0,14,13.9,N,1,0,jalen-brunson-1,Jalen Brunson,2017
+33,73,33,2017-03-10,Villanova,N,Seton Hall,CTOURN,W 55-53,*,31,6,12,0.5,0,2,0.0,6,10,0.6,0.5,1,2,0.5,0,1,1,2,1,0,3,2,13,5.5,N,1,0,jalen-brunson-1,Jalen Brunson,2017
+34,74,34,2017-03-11,Villanova,N,Creighton,CTOURN,W 74-60,*,34,5,7,0.714,3,4,0.75,2,3,0.667,0.929,4,5,0.8,0,2,2,5,0,0,2,0,17,15.8,N,1,0,jalen-brunson-1,Jalen Brunson,2017
+35,75,35,2017-03-16,Villanova,N,Mount St. Mary's,ROUND-64,W 76-56,*,29,7,11,0.636,0,1,0.0,7,10,0.7,0.636,0,0,,2,3,5,3,0,0,2,3,14,10.3,N,1,0,jalen-brunson-1,Jalen Brunson,2017
+36,76,36,2017-03-18,Villanova,N,Wisconsin,ROUND-32,L 62-65,*,32,5,11,0.455,0,4,0.0,5,7,0.714,0.455,1,1,1.0,0,2,2,1,2,0,0,0,11,8.6,N,0,0,jalen-brunson-1,Jalen Brunson,2017

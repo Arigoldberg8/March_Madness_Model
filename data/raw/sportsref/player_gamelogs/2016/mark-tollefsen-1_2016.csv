@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2015-11-13,Arizona,,Pacific,REG (Non-Conf),W 79-61,*,23,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,2,3,5,0,0,3,1,2,10,8.2,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+2,98,2,2015-11-16,Arizona,,Bradley,REG (Non-Conf),W 90-60,*,19,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,2,2,1,0,0,1,4,7,4.1,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+3,99,3,2015-11-19,Arizona,,Boise State,REG (Non-Conf),W 88-76,*,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,3,0,3,3,0,1,0,4,5,6.3,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+4,100,4,2015-11-22,Arizona,,Northwestern State,REG (Non-Conf),W 61-42,*,24,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,3,1,4,1,1,0,1,1,6,5.7,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+5,101,5,2015-11-26,Arizona,N,Santa Clara,REG (Non-Conf),W 75-73 (OT),,28,6,10,0.6,1,4,0.25,5,6,0.833,0.65,0,0,,2,3,5,1,0,0,2,5,13,7.4,N,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+6,102,6,2015-11-27,Arizona,N,Providence,REG (Non-Conf),L 65-69,,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,1,2,3,1,0,1,2,3,5,1.4,N,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+7,103,7,2015-11-29,Arizona,N,Boise State,REG (Non-Conf),W 68-59,*,22,4,9,0.444,1,2,0.5,3,7,0.429,0.5,1,1,1.0,2,3,5,1,1,3,1,5,10,8.4,N,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+8,104,8,2015-12-05,Arizona,@,Gonzaga,REG (Non-Conf),W 68-63,,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,1,2,3,0,1,0,0,1,4,2.8,A,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+9,105,9,2015-12-09,Arizona,,Fresno State,REG (Non-Conf),W 85-72,,22,1,6,0.167,1,4,0.25,0,2,0.0,0.25,2,2,1.0,3,1,4,1,0,0,1,0,5,3.3,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+10,106,10,2015-12-13,Arizona,,Missouri,REG (Non-Conf),W 88-52,,26,7,10,0.7,1,2,0.5,6,8,0.75,0.75,2,2,1.0,1,2,3,0,0,1,1,2,17,13.0,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+11,107,11,2015-12-16,Arizona,,Northern Arizona,REG (Non-Conf),W 92-37,,27,6,10,0.6,1,3,0.333,5,7,0.714,0.65,6,6,1.0,4,4,8,1,1,2,0,1,19,21.1,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+12,108,12,2015-12-19,Arizona,,UNLV,REG (Non-Conf),W 82-70,,23,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,1,2,0,0,2,2,4.2,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+13,109,13,2015-12-22,Arizona,,Long Beach State,REG (Non-Conf),W 85-70,,26,2,4,0.5,2,3,0.667,0,1,0.0,0.75,6,6,1.0,0,4,4,2,0,1,1,0,12,12.3,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+14,110,14,2016-01-03,Arizona,@,Arizona State,REG (Conf),W 94-82,,17,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,2,0.5,2,0,2,1,1,0,0,3,8,7.2,A,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+15,111,15,2016-01-07,Arizona,@,UCLA,REG (Conf),L 84-87,,12,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,1,1.0,2,0,2,0,0,0,0,1,8,6.0,A,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+16,112,16,2016-01-09,Arizona,@,Southern California,REG (Conf),L 101-103 (4OT),,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,0,1,1,0,1,1,1,5,3.0,A,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+17,113,17,2016-01-14,Arizona,,Washington,REG (Conf),W 99-67,*,24,4,6,0.667,3,3,1.0,1,3,0.333,0.917,0,0,,0,3,3,2,0,0,1,2,11,8.9,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+18,114,18,2016-01-16,Arizona,,Washington State,REG (Conf),W 90-66,*,25,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,3,0.667,2,1,3,1,0,0,1,2,11,10.0,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+19,115,19,2016-01-21,Arizona,@,Stanford,REG (Conf),W 71-57,*,35,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,1,5,6,4,1,2,1,3,10,12.2,A,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+20,116,20,2016-01-23,Arizona,@,California,REG (Conf),L 73-74,*,28,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,1,0,1,0,2,3,2.2,A,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+21,117,21,2016-01-28,Arizona,,Oregon,REG (Conf),L 75-83,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,1,1,4,0,1,0,2,4,5.3,H,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+22,118,22,2016-01-30,Arizona,,Oregon State,REG (Conf),W 80-63,*,34,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,0,1,1,5,0,0,0,1,9,9.1,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+23,119,23,2016-02-03,Arizona,@,Washington State,REG (Conf),W 79-64,*,36,4,11,0.364,2,4,0.5,2,7,0.286,0.455,2,2,1.0,3,7,10,0,0,1,1,1,12,9.4,A,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+24,120,24,2016-02-06,Arizona,@,Washington,REG (Conf),W 77-72,*,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,1,2,2,1,0,0,2,6,5.6,A,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+25,121,25,2016-02-12,Arizona,,UCLA,REG (Conf),W 81-75,,16,0,2,0.0,0,2,0.0,0,0,,0.0,1,2,0.5,0,1,1,0,2,0,0,4,1,-0.1,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+26,122,26,2016-02-14,Arizona,,Southern California,REG (Conf),W 86-78,,21,6,9,0.667,1,2,0.5,5,7,0.714,0.722,0,0,,4,2,6,1,0,2,1,1,13,13.2,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+27,123,27,2016-02-17,Arizona,,Arizona State,REG (Conf),W 99-61,,21,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,1,2,3,3,0,0,0,2,6,6.3,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+28,124,28,2016-02-24,Arizona,@,Colorado,REG (Conf),L 72-75,,16,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,1,0,0,0,0,0,0.9,A,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+29,125,29,2016-02-27,Arizona,@,Utah,REG (Conf),L 64-70,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,0,0,2,2.4,A,0,1,mark-tollefsen-1,Mark Tollefsen,2016
+30,126,30,2016-03-03,Arizona,,California,REG (Conf),W 64-61,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+31,127,31,2016-03-05,Arizona,,Stanford,REG (Conf),W 94-62,,20,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,2,2,4,3,1,0,0,2,3,4.2,H,1,1,mark-tollefsen-1,Mark Tollefsen,2016
+32,128,32,2016-03-10,Arizona,N,Colorado,CTOURN,W 82-78,,7,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,N,1,0,mark-tollefsen-1,Mark Tollefsen,2016
+33,129,33,2016-03-11,Arizona,N,Oregon,CTOURN,L 89-95 (OT),,5,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,2,0.5,1,1,2,1,1,0,0,2,8,8.6,N,0,0,mark-tollefsen-1,Mark Tollefsen,2016
+34,130,34,2016-03-17,Arizona,N,Wichita State,ROUND-64,L 55-65,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,1,0.0,0,0,0,0,0,0,1,0,0,-2.8,N,0,0,mark-tollefsen-1,Mark Tollefsen,2016

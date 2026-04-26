@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2013-11-08,Milwaukee,@,Loyola Chicago,REG (Non-Conf),L 72-76,,37,3,9,0.333,3,6,0.5,0,3,0.0,0.5,2,2,1.0,0,2,2,1,2,1,1,3,11,7.7,A,0,1,austin-arians-1,Austin Arians,2014
+2,31,2,2013-11-11,Milwaukee,@,Davidson,REG (Non-Conf),W 81-77,,21,2,7,0.286,0,5,0.0,2,2,1.0,0.286,7,7,1.0,0,1,1,1,0,0,1,3,11,5.7,A,1,1,austin-arians-1,Austin Arians,2014
+3,32,3,2013-11-15,Milwaukee,N,San Jose State,REG (Non-Conf),W 64-61,*,38,5,10,0.5,2,5,0.4,3,5,0.6,0.6,2,2,1.0,2,2,4,0,1,0,2,2,14,9.2,N,1,1,austin-arians-1,Austin Arians,2014
+4,33,4,2013-11-16,Milwaukee,N,James Madison,REG (Non-Conf),W 77-66,*,33,6,10,0.6,2,5,0.4,4,5,0.8,0.7,0,0,,2,0,2,1,1,0,1,3,14,10.3,N,1,1,austin-arians-1,Austin Arians,2014
+5,34,5,2013-11-17,Milwaukee,@,Northern Illinois,REG (Non-Conf),W 82-69,*,29,4,5,0.8,3,4,0.75,1,1,1.0,1.1,2,2,1.0,0,1,1,4,1,1,0,2,13,15.1,A,1,1,austin-arians-1,Austin Arians,2014
+6,35,6,2013-11-19,Milwaukee,,DePaul,REG (Non-Conf),L 71-80,*,34,2,5,0.4,2,5,0.4,0,0,,0.6,4,6,0.667,0,3,3,4,1,0,2,2,10,8.4,H,0,1,austin-arians-1,Austin Arians,2014
+7,36,7,2013-11-23,Milwaukee,@,Tennessee Tech,REG (Non-Conf),W 70-63,*,38,6,10,0.6,3,7,0.429,3,3,1.0,0.75,2,2,1.0,0,7,7,3,1,0,0,1,17,17.2,A,1,1,austin-arians-1,Austin Arians,2014
+8,37,8,2013-11-26,Milwaukee,,Judson,REG (Non-Conf),W 89-56,*,15,7,7,1.0,0,0,,7,7,1.0,1.0,0,0,,0,0,0,0,2,0,0,2,14,13.1,H,1,1,austin-arians-1,Austin Arians,2014
+9,38,9,2013-11-30,Milwaukee,@,Kansas City,REG (Non-Conf),W 84-79,*,39,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,1,4,5,2,1,0,1,2,7,6.1,A,1,1,austin-arians-1,Austin Arians,2014
+10,39,10,2013-12-03,Milwaukee,,Northern Iowa,REG (Non-Conf),W 83-72,*,40,5,8,0.625,1,4,0.25,4,4,1.0,0.688,0,0,,2,1,3,1,0,0,0,1,11,9.4,H,1,1,austin-arians-1,Austin Arians,2014
+11,40,11,2013-12-07,Milwaukee,,Bradley,REG (Non-Conf),W 73-67,*,37,5,10,0.5,4,8,0.5,1,2,0.5,0.7,3,6,0.5,1,4,5,1,0,0,4,2,17,8.6,H,1,1,austin-arians-1,Austin Arians,2014
+12,41,12,2013-12-11,Milwaukee,@,Wisconsin,REG (Non-Conf),L 52-78,*,35,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,1,4,5,1,1,0,2,0,9,8.3,A,0,1,austin-arians-1,Austin Arians,2014
+13,42,13,2013-12-21,Milwaukee,N,Northeastern,REG (Non-Conf),L 59-62,*,36,4,11,0.364,0,4,0.0,4,7,0.571,0.364,2,2,1.0,0,2,2,1,2,0,2,2,10,4.4,N,0,1,austin-arians-1,Austin Arians,2014
+14,43,14,2013-12-22,Milwaukee,N,Alabama State,REG (Non-Conf),W 67-54,*,40,6,10,0.6,5,9,0.556,1,1,1.0,0.85,0,0,,0,5,5,1,1,0,1,2,17,13.8,N,1,1,austin-arians-1,Austin Arians,2014
+15,44,15,2014-01-02,Milwaukee,,Youngstown State,REG (Conf),W 82-76,*,40,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,2,3,5,2,0,0,4,2,8,3.2,H,1,1,austin-arians-1,Austin Arians,2014
+16,45,16,2014-01-04,Milwaukee,,Cleveland State,REG (Conf),L 49-77,*,34,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,1,0.0,0,3,3,1,1,0,1,1,4,0.7,H,0,1,austin-arians-1,Austin Arians,2014
+17,46,17,2014-01-08,Milwaukee,@,Oakland,REG (Conf),W 84-75,*,22,3,5,0.6,2,4,0.5,1,1,1.0,0.8,5,6,0.833,0,5,5,2,0,0,2,5,13,9.2,A,1,1,austin-arians-1,Austin Arians,2014
+18,47,18,2014-01-12,Milwaukee,,Green Bay,REG (Conf),L 86-93 (OT),*,39,6,10,0.6,3,6,0.5,3,4,0.75,0.75,0,0,,0,2,2,2,2,0,4,2,15,9.6,H,0,1,austin-arians-1,Austin Arians,2014
+19,48,19,2014-01-16,Milwaukee,@,Illinois–Chicago,REG (Conf),W 67-63,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,1,0.0,1,2,3,1,0,0,0,4,5,0.9,A,1,1,austin-arians-1,Austin Arians,2014
+20,49,20,2014-01-18,Milwaukee,@,Valparaiso,REG (Conf),L 62-75,*,38,3,12,0.25,2,7,0.286,1,5,0.2,0.333,0,0,,1,3,4,1,1,0,0,3,8,2.9,A,0,1,austin-arians-1,Austin Arians,2014
+21,50,21,2014-01-21,Milwaukee,@,Wright State,REG (Conf),L 57-73,*,27,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,1,2,3,1,1,0,0,2,3,2.4,A,0,1,austin-arians-1,Austin Arians,2014
+22,51,22,2014-01-24,Milwaukee,,Detroit Mercy,REG (Conf),L 54-73,*,25,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,3,3,6,0,1,1,2,1,7,4.9,H,0,1,austin-arians-1,Austin Arians,2014
+23,52,23,2014-01-30,Milwaukee,,Wright State,REG (Conf),W 68-64,*,33,4,9,0.444,1,4,0.25,3,5,0.6,0.5,3,3,1.0,1,7,8,2,2,0,1,3,12,11.3,H,1,1,austin-arians-1,Austin Arians,2014
+24,53,24,2014-02-02,Milwaukee,,Oakland,REG (Conf),W 86-64,*,33,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,1,0.0,0,2,2,1,1,0,0,1,16,13.6,H,1,1,austin-arians-1,Austin Arians,2014
+25,54,25,2014-02-08,Milwaukee,@,Green Bay,REG (Conf),W 73-63,*,17,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,4,0.5,2,2,4,2,0,0,2,3,5,2.0,A,1,1,austin-arians-1,Austin Arians,2014
+26,55,26,2014-02-15,Milwaukee,,Valparaiso,REG (Conf),L 62-77,*,38,3,14,0.214,1,12,0.083,2,2,1.0,0.25,1,1,1.0,1,3,4,1,0,0,1,3,8,-0.5,H,0,1,austin-arians-1,Austin Arians,2014
+27,56,27,2014-02-20,Milwaukee,@,Youngstown State,REG (Conf),L 83-88 (OT),*,44,8,13,0.615,5,8,0.625,3,5,0.6,0.808,7,7,1.0,1,3,4,3,1,0,1,1,28,25.4,A,0,1,austin-arians-1,Austin Arians,2014
+28,57,28,2014-02-22,Milwaukee,@,Cleveland State,REG (Conf),L 50-74,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,2,3,5,2,0,0,4,0,7,3.3,A,0,1,austin-arians-1,Austin Arians,2014
+29,58,29,2014-02-25,Milwaukee,,Illinois–Chicago,REG (Conf),L 58-80,*,31,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,1,0,1,0,1,1,1,0,9,5.7,H,0,1,austin-arians-1,Austin Arians,2014
+30,59,30,2014-02-27,Milwaukee,@,Detroit Mercy,REG (Conf),W 68-62,*,34,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,2,2,4,3,0,0,4,3,10,5.6,A,1,1,austin-arians-1,Austin Arians,2014
+31,60,31,2014-03-04,Milwaukee,,Detroit Mercy,CTOURN,W 83-73,*,20,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,1,2,1,1,0,1,4,0,-2.0,H,1,0,austin-arians-1,Austin Arians,2014
+32,61,32,2014-03-07,Milwaukee,N,Valparaiso,CTOURN,W 74-57,*,36,4,11,0.364,2,7,0.286,2,4,0.5,0.455,3,4,0.75,0,3,3,2,1,0,0,1,13,9.4,N,1,0,austin-arians-1,Austin Arians,2014
+33,62,33,2014-03-08,Milwaukee,@,Green Bay,CTOURN,W 73-66 (OT),*,40,5,11,0.455,2,6,0.333,3,5,0.6,0.545,0,0,,0,2,2,0,0,0,1,0,12,5.9,A,1,0,austin-arians-1,Austin Arians,2014
+34,63,34,2014-03-11,Milwaukee,@,Wright State,CTOURN,W 69-63,*,31,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,1,1,1,0,0,1,2,12,7.6,A,1,0,austin-arians-1,Austin Arians,2014
+35,64,35,2014-03-20,Milwaukee,N,Villanova,ROUND-64,L 53-73,*,33,6,15,0.4,4,10,0.4,2,5,0.4,0.533,1,2,0.5,1,4,5,0,1,0,1,1,17,10.0,N,0,0,austin-arians-1,Austin Arians,2014

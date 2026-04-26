@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2020-11-25,Oregon State,,California,REG (Non-Conf),W 71-63,*,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,2,2,0,0,1,0,2,2,1.5,H,1,1,roman-silva-1,Roman Silva,2021
+2,31,2,2020-11-27,Oregon State,,Nw University,REG (Non-Conf),W 114-42,*,7,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,1,0,0,2,2.0,H,1,1,roman-silva-1,Roman Silva,2021
+3,32,3,2020-12-02,Oregon State,@,Washington State,REG (Conf),L 55-59,*,17,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,1,3,4,0,0,0,0,4,6,3.6,A,0,1,roman-silva-1,Roman Silva,2021
+4,33,4,2020-12-06,Oregon State,,Wyoming,REG (Non-Conf),L 73-76,*,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,roman-silva-1,Roman Silva,2021
+5,34,5,2020-12-10,Oregon State,,Portland,REG (Non-Conf),L 86-87 (OT),,7,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,1,2,0,0,0,0,1,4,2.6,H,0,1,roman-silva-1,Roman Silva,2021
+6,35,6,2020-12-16,Oregon State,,UTSA,REG (Non-Conf),W 73-61,*,5,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,0,2,0,0,0,0,3,2,1.2,H,1,1,roman-silva-1,Roman Silva,2021
+7,36,7,2020-12-22,Oregon State,,Portland State,REG (Non-Conf),W 67-62,*,16,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,0,2,2,0,0,1,1,2,6,3.9,H,1,1,roman-silva-1,Roman Silva,2021
+8,37,10,2021-01-14,Oregon State,,Arizona,REG (Conf),L 64-98,,10,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,0,2,2,5,0,-3.7,H,0,1,roman-silva-1,Roman Silva,2021
+9,38,11,2021-01-16,Oregon State,,Arizona State,REG (Conf),W 80-79,,9,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,2,0,2,0,0,0,0,2,9,8.0,H,1,1,roman-silva-1,Roman Silva,2021
+10,39,12,2021-01-19,Oregon State,,Southern California,REG (Conf),W 58-56,,15,6,7,0.857,0,0,6,7,0.857,0.857,0,0,,1,2,3,1,0,0,0,4,12,9.9,H,1,1,roman-silva-1,Roman Silva,2021
+11,40,13,2021-01-23,Oregon State,@,Oregon,REG (Conf),W 75-64,,4,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,1,3,0,-2.2,A,1,1,roman-silva-1,Roman Silva,2021
+12,41,14,2021-01-28,Oregon State,@,Southern California,REG (Conf),L 62-75,,9,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,2,0,0,2,2,2.2,A,0,1,roman-silva-1,Roman Silva,2021
+13,42,15,2021-01-30,Oregon State,@,UCLA,REG (Conf),L 52-57,,16,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,1,1,0,0,0,2,2,4,0.2,A,0,1,roman-silva-1,Roman Silva,2021
+14,43,16,2021-02-04,Oregon State,,Washington,REG (Conf),W 91-71,*,25,6,7,0.857,0,0,6,7,0.857,0.857,2,2,1.0,1,1,2,0,2,0,1,5,14,11.5,H,1,1,roman-silva-1,Roman Silva,2021
+15,44,17,2021-02-06,Oregon State,,Washington State,REG (Conf),W 68-66,*,23,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,0,2,2,1,0,0,1,2,6,2.5,H,1,1,roman-silva-1,Roman Silva,2021
+16,45,18,2021-02-08,Oregon State,@,Colorado,REG (Conf),L 49-78,*,16,3,4,0.75,0,0,3,4,0.75,0.75,1,3,0.333,4,1,5,0,0,0,2,2,7,4.9,A,0,1,roman-silva-1,Roman Silva,2021
+17,46,19,2021-02-11,Oregon State,@,Arizona,REG (Conf),L 61-70,*,8,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,2,2,0,0,1,0,3,0,-1.4,A,0,1,roman-silva-1,Roman Silva,2021
+18,47,20,2021-02-14,Oregon State,@,Arizona State,REG (Conf),L 73-75,*,19,3,8,0.375,0,0,3,8,0.375,0.375,3,4,0.75,2,1,3,1,0,2,1,2,9,6.2,A,0,1,roman-silva-1,Roman Silva,2021
+19,48,21,2021-02-18,Oregon State,,Utah,REG (Conf),W 74-56,*,22,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,5,8,0,0,0,1,3,2,1.7,H,1,1,roman-silva-1,Roman Silva,2021
+20,49,22,2021-02-20,Oregon State,,Colorado,REG (Conf),L 57-61,*,22,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,5,0,5,0,0,0,2,2,8,6.4,H,0,1,roman-silva-1,Roman Silva,2021
+21,50,23,2021-02-25,Oregon State,@,California,REG (Conf),W 59-57,*,24,6,8,0.75,0,0,6,8,0.75,0.75,3,4,0.75,2,1,3,1,0,1,1,2,15,12.7,A,1,1,roman-silva-1,Roman Silva,2021
+22,51,24,2021-02-27,Oregon State,@,Stanford,REG (Conf),W 73-62,*,21,2,3,0.667,0,0,2,3,0.667,0.667,1,1,1.0,1,2,3,1,1,2,2,4,5,4.5,A,1,1,roman-silva-1,Roman Silva,2021
+23,52,25,2021-03-03,Oregon State,@,Utah,REG (Conf),W 75-70,*,21,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,2,3,5,0,1,0,1,4,7,6.8,A,1,1,roman-silva-1,Roman Silva,2021
+24,53,26,2021-03-07,Oregon State,,Oregon,REG (Conf),L 67-80,*,24,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,2,4,6,2,0,1,1,1,10,11.1,H,0,1,roman-silva-1,Roman Silva,2021
+25,54,27,2021-03-11,Oregon State,N,UCLA,CTOURN,W 83-79 (OT),*,14,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,1,5,2,-0.3,N,1,0,roman-silva-1,Roman Silva,2021
+26,55,28,2021-03-12,Oregon State,N,Oregon,CTOURN,W 75-64,*,10,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,2,2,1,0,0,2,3,4,0.8,N,1,0,roman-silva-1,Roman Silva,2021
+27,56,29,2021-03-13,Oregon State,N,Colorado,CTOURN,W 70-68,*,17,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,1,0,1,1,1,1,1,3,5,3.5,N,1,0,roman-silva-1,Roman Silva,2021
+28,57,30,2021-03-19,Oregon State,N,Tennessee,ROUND-64,W 70-56,*,25,8,8,1.0,0,0,8,8,1.0,1.0,0,0,,2,2,4,0,0,3,3,2,16,13.9,N,1,0,roman-silva-1,Roman Silva,2021
+29,58,31,2021-03-21,Oregon State,N,Oklahoma State,ROUND-32,W 80-70,*,31,2,5,0.4,0,0,2,5,0.4,0.4,3,4,0.75,4,8,12,2,0,4,2,3,7,10.1,N,1,0,roman-silva-1,Roman Silva,2021
+30,59,32,2021-03-27,Oregon State,N,Loyola Chicago,ROUND-16,W 65-58,*,28,2,6,0.333,0,0,2,6,0.333,0.333,0,0,,1,3,4,0,0,0,2,4,4,-1.4,N,1,0,roman-silva-1,Roman Silva,2021
+31,60,33,2021-03-29,Oregon State,N,Houston,ROUND-8,L 61-67,*,22,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,1,3,0,1,0,1,3,4,3.9,N,0,0,roman-silva-1,Roman Silva,2021

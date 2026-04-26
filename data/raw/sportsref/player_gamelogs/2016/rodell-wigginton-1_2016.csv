@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2015-11-13,Buffalo,,Pitt.-Bradford,REG (Non-Conf),W 109-49,,20,10,12,0.833,1,2,0.5,9,10,0.9,0.875,4,4,1.0,4,6,10,3,2,2,1,4,25,28.1,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+2,34,2,2015-11-16,Buffalo,@,Old Dominion,REG (Non-Conf),L 58-77,*,17,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,2,3,0,3,2,1,3,9,9.9,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+3,35,3,2015-11-18,Buffalo,@,Saint Joseph's,REG (Non-Conf),L 67-89,,22,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,5,0.4,2,3,5,0,1,1,2,2,8,2.9,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+4,36,4,2015-11-21,Buffalo,N,North Carolina A&T,REG (Non-Conf),W 86-68,*,29,6,12,0.5,0,0,,6,12,0.5,0.5,7,10,0.7,7,4,11,5,1,1,3,4,19,18.5,N,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+5,37,5,2015-11-22,Buffalo,N,Vermont,REG (Non-Conf),W 77-71,*,18,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,2,2,4,0,0,0,1,4,2,-2.4,N,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+6,38,6,2015-11-28,Buffalo,,Canisius,REG (Non-Conf),W 98-96 (OT),*,22,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,4,4,8,1,1,1,4,2,6,4.6,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+7,39,7,2015-12-02,Buffalo,,St. Bonaventure,REG (Non-Conf),L 58-60,*,34,4,5,0.8,0,0,,4,5,0.8,0.8,8,11,0.727,3,7,10,2,0,1,3,1,16,15.8,H,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+8,40,8,2015-12-05,Buffalo,@,Duke,REG (Non-Conf),L 59-82,*,18,2,6,0.333,0,0,,2,6,0.333,0.333,1,3,0.333,1,4,5,0,0,1,2,3,5,0.2,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+9,41,9,2015-12-07,Buffalo,@,Iowa State,REG (Non-Conf),L 63-84,*,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,1,2,-0.1,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+10,42,10,2015-12-12,Buffalo,,Binghamton,REG (Non-Conf),W 80-64,,21,2,6,0.333,0,0,,2,6,0.333,0.333,2,5,0.4,2,9,11,0,0,0,1,3,6,3.3,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+11,43,11,2015-12-19,Buffalo,,Montana State,REG (Non-Conf),W 80-73,,25,4,8,0.5,0,1,0.0,4,7,0.571,0.5,5,8,0.625,2,6,8,3,1,0,5,3,13,7.9,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+12,44,12,2015-12-22,Buffalo,@,VCU,REG (Non-Conf),L 69-90,*,30,6,8,0.75,1,1,1.0,5,7,0.714,0.813,4,7,0.571,2,7,9,0,2,1,5,1,17,13.4,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+13,45,13,2015-12-29,Buffalo,,Delaware,REG (Non-Conf),W 99-79,,11,0,6,0.0,0,3,0.0,0,3,0.0,0.0,0,0,,1,1,2,1,0,0,4,1,0,-6.9,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+14,46,14,2016-01-05,Buffalo,,Akron,REG (Conf),L 71-75,,16,1,5,0.2,0,0,,1,5,0.2,0.2,4,6,0.667,0,6,6,1,0,0,1,2,6,2.8,H,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+15,47,15,2016-01-08,Buffalo,@,Kent State,REG (Conf),W 76-67,,21,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,5,3,8,1,0,2,3,2,7,4.6,A,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+16,48,16,2016-01-12,Buffalo,@,Eastern Michigan,REG (Conf),L 69-81,,18,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,2,3,5,1,0,0,4,5,9,4.1,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+17,49,17,2016-01-16,Buffalo,,Central Michigan,REG (Conf),W 74-61,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,1,1,0,0,1,1,0,0,-2.1,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+18,50,20,2016-01-26,Buffalo,,Ball State,REG (Conf),W 76-64,,11,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,3,3,0,1,0,3,2,4,1.5,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+19,51,21,2016-01-30,Buffalo,@,Toledo,REG (Conf),W 73-68,,20,4,6,0.667,0,0,,4,6,0.667,0.667,2,3,0.667,2,6,8,1,1,0,1,1,10,10.5,A,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+20,52,22,2016-02-02,Buffalo,@,Northern Illinois,REG (Conf),W 90-78,,15,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,1,1.0,0,3,3,2,0,1,1,5,5,3.0,A,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+21,53,23,2016-02-06,Buffalo,,Eastern Michigan,REG (Conf),W 80-70,,18,3,8,0.375,0,0,,3,8,0.375,0.375,6,6,1.0,4,4,8,0,0,0,0,3,12,10.4,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+22,54,24,2016-02-09,Buffalo,,Toledo,REG (Conf),L 69-71,*,15,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,2,2,1,0,0,3,4,5,-0.3,H,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+23,55,25,2016-02-12,Buffalo,,Ohio,REG (Conf),L 75-94,,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,6,0.667,1,0,1,0,1,0,2,0,6,3.9,H,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+24,56,26,2016-02-16,Buffalo,@,Akron,REG (Conf),L 70-80,,13,3,4,0.75,0,0,,3,4,0.75,0.75,1,1,1.0,3,1,4,0,0,0,1,4,7,5.2,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+25,57,27,2016-02-20,Buffalo,,Bowling Green,REG (Conf),W 88-74,,21,2,8,0.25,0,0,,2,8,0.25,0.25,1,1,1.0,3,3,6,1,1,0,0,2,5,4.1,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+26,58,28,2016-02-23,Buffalo,,Kent State,REG (Conf),W 87-70,,11,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,4,5,0,0,1,0,1,2,1.8,H,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+27,59,29,2016-02-27,Buffalo,@,Ohio,REG (Conf),L 96-103 (OT),,18,4,8,0.5,0,1,0.0,4,7,0.571,0.5,1,2,0.5,3,3,6,0,0,0,1,5,9,4.6,A,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+28,60,30,2016-03-01,Buffalo,,Miami (OH),REG (Conf),L 59-67,*,17,0,7,0.0,0,1,0.0,0,6,0.0,0.0,0,0,,3,2,5,1,0,1,0,1,0,-1.2,H,0,1,rodell-wigginton-1,Rodell Wigginton,2016
+29,61,31,2016-03-04,Buffalo,@,Bowling Green,REG (Conf),W 87-83,,19,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,1,1,2,0,1,0,1,1,6,4.6,A,1,1,rodell-wigginton-1,Rodell Wigginton,2016
+30,62,32,2016-03-10,Buffalo,N,Miami (OH),CTOURN,W 94-81,,14,2,4,0.5,0,0,,2,4,0.5,0.5,1,2,0.5,0,3,3,0,0,0,0,2,5,2.7,N,1,0,rodell-wigginton-1,Rodell Wigginton,2016
+31,63,33,2016-03-11,Buffalo,N,Ohio,CTOURN,W 88-74,,20,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,8,9,0,2,1,1,1,4,6.4,N,1,0,rodell-wigginton-1,Rodell Wigginton,2016
+32,64,34,2016-03-12,Buffalo,N,Akron,CTOURN,W 64-61,,7,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-2.4,N,1,0,rodell-wigginton-1,Rodell Wigginton,2016
+33,65,35,2016-03-17,Buffalo,N,Miami (FL),ROUND-64,L 72-79,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,1,1,0,2,1.0,N,0,0,rodell-wigginton-1,Rodell Wigginton,2016

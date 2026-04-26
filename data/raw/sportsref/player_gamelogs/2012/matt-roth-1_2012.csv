@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2011-11-11,Indiana,,Stony Brook,REG (Non-Conf),W 96-66,,7,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,1,1,0,0,0,0,0,8,7.0,H,1,1,matt-roth-1,Matt Roth,2012
+2,63,2,2011-11-13,Indiana,,Chattanooga,REG (Non-Conf),W 78-53,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,matt-roth-1,Matt Roth,2012
+3,64,3,2011-11-16,Indiana,@,Evansville,REG (Non-Conf),W 94-73,,6,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,A,1,1,matt-roth-1,Matt Roth,2012
+4,65,4,2011-11-19,Indiana,,Savannah State,REG (Non-Conf),W 94-65,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,0,1,0,1,0,0,0,0,1.0,H,1,1,matt-roth-1,Matt Roth,2012
+5,66,5,2011-11-21,Indiana,,Gardner-Webb,REG (Non-Conf),W 73-49,,12,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,3,1,1,0,0,3,4.4,H,1,1,matt-roth-1,Matt Roth,2012
+6,67,6,2011-11-27,Indiana,,Butler,REG (Non-Conf),W 75-59,,7,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,0,0,0,0,0,5,4.3,H,1,1,matt-roth-1,Matt Roth,2012
+7,68,7,2011-11-30,Indiana,@,NC State,REG (Non-Conf),W 86-75,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,1,1,matt-roth-1,Matt Roth,2012
+8,69,8,2011-12-04,Indiana,,Stetson,REG (Non-Conf),W 84-50,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,H,1,1,matt-roth-1,Matt Roth,2012
+9,70,11,2011-12-19,Indiana,,Howard,REG (Non-Conf),W 107-50,,9,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,1,0,0,0,0,3,2.7,H,1,1,matt-roth-1,Matt Roth,2012
+10,71,12,2011-12-22,Indiana,,UMBC,REG (Non-Conf),W 89-47,,18,4,6,0.667,4,5,0.8,0,1,0.0,1.0,2,2,1.0,0,1,1,1,1,0,0,1,14,13.0,H,1,1,matt-roth-1,Matt Roth,2012
+11,72,13,2011-12-28,Indiana,@,Michigan State,REG (Conf),L 65-80,,18,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,1,1,0,0,0,0,1,6,3.2,A,0,1,matt-roth-1,Matt Roth,2012
+12,73,14,2011-12-31,Indiana,,Ohio State,REG (Conf),W 74-70,,13,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,1,1,matt-roth-1,Matt Roth,2012
+13,74,15,2012-01-05,Indiana,,Michigan,REG (Conf),W 73-71,,14,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,1,1,1,1,0,0,0,5,6.4,H,1,1,matt-roth-1,Matt Roth,2012
+14,75,16,2012-01-08,Indiana,@,Penn State,REG (Conf),W 88-82,,26,5,6,0.833,5,6,0.833,0,0,,1.25,7,7,1.0,0,1,1,1,0,0,0,1,22,20.4,A,1,1,matt-roth-1,Matt Roth,2012
+15,76,17,2012-01-12,Indiana,,Minnesota,REG (Conf),L 74-77,,13,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,0,0,6,4.7,H,0,1,matt-roth-1,Matt Roth,2012
+16,77,18,2012-01-15,Indiana,@,Ohio State,REG (Conf),L 63-80,,15,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,0,1,1,0,0,0,2,6,5.3,A,0,1,matt-roth-1,Matt Roth,2012
+17,78,19,2012-01-18,Indiana,@,Nebraska,REG (Conf),L 69-70,,16,3,5,0.6,3,5,0.6,0,0,,0.9,0,0,,0,0,0,1,0,0,1,0,9,6.4,A,0,1,matt-roth-1,Matt Roth,2012
+18,79,20,2012-01-22,Indiana,,Penn State,REG (Conf),W 73-54,,15,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,1,0,1,0,0,0,0,1,6,5.7,H,1,1,matt-roth-1,Matt Roth,2012
+19,80,21,2012-01-26,Indiana,@,Wisconsin,REG (Conf),L 50-57,,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,1,2,0.6,A,0,1,matt-roth-1,Matt Roth,2012
+20,81,22,2012-01-29,Indiana,,Iowa,REG (Conf),W 103-89,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,H,1,1,matt-roth-1,Matt Roth,2012
+21,82,23,2012-02-01,Indiana,@,Michigan,REG (Conf),L 56-68,,11,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-3.2,A,0,1,matt-roth-1,Matt Roth,2012
+22,83,24,2012-02-04,Indiana,@,Purdue,REG (Conf),W 78-61,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,1,2,0,-1.9,A,1,1,matt-roth-1,Matt Roth,2012
+23,84,25,2012-02-09,Indiana,,Illinois,REG (Conf),W 84-71,,12,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,0,0,0,0,0,0,1,5,3.6,H,1,1,matt-roth-1,Matt Roth,2012
+24,85,26,2012-02-15,Indiana,,Northwestern,REG (Conf),W 71-66,,15,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,1,1,1,0,0,0,1,6,3.9,H,1,1,matt-roth-1,Matt Roth,2012
+25,86,27,2012-02-19,Indiana,@,Iowa,REG (Conf),L 66-78,,15,4,4,1.0,4,4,1.0,0,0,,1.5,0,0,,0,2,2,0,0,0,0,2,12,10.6,A,0,1,matt-roth-1,Matt Roth,2012
+26,87,28,2012-02-22,Indiana,,North Carolina Central,REG (Non-Conf),W 75-56,,13,0,0,,0,0,,0,0,,,0,0,,2,0,2,1,0,0,0,2,0,1.3,H,1,1,matt-roth-1,Matt Roth,2012
+27,88,29,2012-02-26,Indiana,@,Minnesota,REG (Conf),W 69-50,,16,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,0,0,0,0,0,3,0.6,A,1,1,matt-roth-1,Matt Roth,2012
+28,89,30,2012-02-28,Indiana,,Michigan State,REG (Conf),W 70-55,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,H,1,1,matt-roth-1,Matt Roth,2012
+29,90,31,2012-03-04,Indiana,,Purdue,REG (Conf),W 85-74,,15,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,1,9,7.0,H,1,1,matt-roth-1,Matt Roth,2012
+30,91,32,2012-03-08,Indiana,N,Penn State,CTOURN,W 75-58,,14,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,0,0,1,0,0,0,2,6,3.2,N,1,0,matt-roth-1,Matt Roth,2012
+31,92,33,2012-03-09,Indiana,N,Wisconsin,CTOURN,L 71-79,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,3,0,-0.9,N,0,0,matt-roth-1,Matt Roth,2012
+32,93,34,2012-03-15,Indiana,N,New Mexico State,ROUND-64,W 79-66,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,matt-roth-1,Matt Roth,2012
+33,94,35,2012-03-17,Indiana,N,VCU,ROUND-32,W 63-61,,13,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,0,3,2.7,N,1,0,matt-roth-1,Matt Roth,2012
+34,95,36,2012-03-23,Indiana,N,Kentucky,ROUND-16,L 90-102,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,0,0,matt-roth-1,Matt Roth,2012

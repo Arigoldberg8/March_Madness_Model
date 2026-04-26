@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2025-11-04,Hawaii,@,Oregon,REG (Non-Conf),L 59-60,*,35,2,11,0.182,0,3,0.0,2,8,0.25,0.182,2,2,1.0,1,2,3,3,0,0,3,0,6,-0.5,A,0,1,hunter-erickson-1,Hunter Erickson,2026
+2,99,2,2025-11-10,Hawaii,,East Texas A&M,REG (Non-Conf),W 100-74,*,27,5,5,1.0,3,3,1.0,2,2,1.0,1.3,2,2,1.0,0,1,1,3,1,0,2,1,15,14.5,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+3,100,3,2025-11-13,Hawaii,,Mississippi Valley State,REG (Non-Conf),W 88-56,*,28,7,10,0.7,4,7,0.571,3,3,1.0,0.9,0,0,,0,6,6,2,1,0,0,1,18,17.6,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+4,101,4,2025-11-15,Hawaii,,Manhattan,REG (Non-Conf),W 86-56,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,3,0.667,0,1,1,2,0,0,0,3,4,2.4,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+5,102,5,2025-11-16,Hawaii,,Utah Tech,REG (Non-Conf),W 68-62,*,34,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,5,5,2,0,0,3,2,0,-2.3,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+6,103,6,2025-11-21,Hawaii,,Arizona State,REG (Non-Conf),L 76-83,*,29,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,1,0,1,1,0,0,2,4,6,0.0,H,0,1,hunter-erickson-1,Hunter Erickson,2026
+7,104,7,2025-11-25,Hawaii,,Hawaii Pacific,REG (Non-Conf),W 88-76,*,39,2,6,0.333,2,5,0.4,0,1,0.0,0.5,6,8,0.75,1,5,6,3,1,1,2,0,12,11.8,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+8,105,8,2025-11-29,Hawaii,,North Dakota,REG (Non-Conf),W 92-55,*,31,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,0,3,3,5,1,0,1,3,8,7.8,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+9,106,9,2025-12-05,Hawaii,,UC Davis,REG (Conf),W 75-69,*,25,5,7,0.714,3,5,0.6,2,2,1.0,0.929,1,3,0.333,0,3,3,2,0,0,2,3,14,9.4,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+10,107,10,2025-12-07,Hawaii,,Cal State Fullerton,REG (Conf),W 69-59,*,30,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,4,4,4,0,1,4,0,6,4.0,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+11,108,11,2025-12-11,Hawaii,,Hawaii Hilo,REG (Non-Conf),W 98-46,*,27,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,0,1,1,4,0,0,0,0,11,9.4,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+12,109,12,2025-12-14,Hawaii,,UTEP,REG (Non-Conf),W 66-61,*,35,4,6,0.667,0,2,0.0,4,4,1.0,0.667,0,0,,0,3,3,3,0,0,1,2,8,6.6,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+13,110,13,2026-01-01,Hawaii,@,UC Riverside,REG (Conf),W 88-45,*,28,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,2,0.0,0,2,2,2,1,3,0,2,7,5.4,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+14,111,14,2026-01-03,Hawaii,@,UC San Diego,REG (Conf),L 73-83,*,32,0,5,0.0,0,3,0.0,0,2,0.0,0.0,2,3,0.667,0,4,4,6,2,1,2,1,2,3.8,A,0,1,hunter-erickson-1,Hunter Erickson,2026
+15,112,15,2026-01-11,Hawaii,,UC Irvine,REG (Conf),W 67-66,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,0,1,0.0,0,5,5,4,1,3,1,3,7,6.0,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+16,113,16,2026-01-15,Hawaii,@,Cal Poly,REG (Conf),W 86-66,*,34,5,10,0.5,3,6,0.5,2,4,0.5,0.65,2,2,1.0,0,2,2,1,1,0,2,1,15,9.9,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+17,114,17,2026-01-17,Hawaii,@,UC Santa Barbara,REG (Conf),L 62-77,*,29,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,1,0.0,1,1,2,3,1,0,4,1,7,4.0,A,0,1,hunter-erickson-1,Hunter Erickson,2026
+18,115,18,2026-01-23,Hawaii,,Cal State Bakersfield,REG (Conf),W 98-71,*,22,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,0,5,5,2,0,0,4,4,4,-0.8,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+19,116,19,2026-01-25,Hawaii,,Cal State Northridge,REG (Conf),W 89-68,*,32,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,1,5,6,8,0,0,2,2,10,11.0,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+20,117,20,2026-01-29,Hawaii,@,UC Irvine,REG (Conf),L 76-87 (OT),*,40,1,7,0.143,0,3,0.0,1,4,0.25,0.143,2,2,1.0,0,2,2,8,2,0,8,2,4,-1.1,A,0,1,hunter-erickson-1,Hunter Erickson,2026
+21,118,21,2026-01-31,Hawaii,@,Long Beach State,REG (Conf),W 89-82,*,34,4,4,1.0,2,2,1.0,2,2,1.0,1.25,3,4,0.75,0,1,1,8,3,0,2,2,13,17.5,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+22,119,22,2026-02-08,Hawaii,,UC San Diego,REG (Conf),W 72-67,*,34,2,7,0.286,1,5,0.2,1,2,0.5,0.357,4,6,0.667,0,10,10,6,2,0,4,1,9,8.9,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+23,120,23,2026-02-12,Hawaii,@,Cal State Bakersfield,REG (Conf),W 89-74,*,33,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,2,4,6,4,2,1,1,3,8,11.6,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+24,121,24,2026-02-14,Hawaii,@,Cal State Northridge,REG (Conf),L 60-84,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,1,0.0,0,3,3,4,2,0,2,2,5,4.8,A,0,1,hunter-erickson-1,Hunter Erickson,2026
+25,122,25,2026-02-20,Hawaii,,Cal Poly,REG (Conf),L 75-86,*,37,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,3,1.0,0,8,8,1,0,0,5,2,9,3.3,H,0,1,hunter-erickson-1,Hunter Erickson,2026
+26,123,26,2026-02-21,Hawaii,,UC Santa Barbara,REG (Conf),W 78-75 (OT),*,39,3,7,0.429,1,3,0.333,2,4,0.5,0.5,1,2,0.5,0,6,6,2,0,1,2,1,8,5.4,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+27,124,27,2026-02-26,Hawaii,@,UC Davis,REG (Conf),W 77-73,*,38,5,8,0.625,3,5,0.6,2,3,0.667,0.813,2,2,1.0,1,5,6,6,2,1,3,1,15,17.1,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+28,125,28,2026-02-28,Hawaii,@,Cal State Fullerton,REG (Conf),W 87-85,*,21,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,4,4,4,1,0,3,4,0,-1.0,A,1,1,hunter-erickson-1,Hunter Erickson,2026
+29,126,29,2026-03-06,Hawaii,,UC Riverside,REG (Conf),W 93-74,*,32,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,1,4,5,6,0,0,0,2,6,6.9,H,1,1,hunter-erickson-1,Hunter Erickson,2026
+30,127,30,2026-03-08,Hawaii,,Long Beach State,REG (Conf),L 75-84,*,36,8,11,0.727,4,5,0.8,4,6,0.667,0.909,3,5,0.6,0,3,3,1,1,0,1,1,23,18.9,H,0,1,hunter-erickson-1,Hunter Erickson,2026
+31,128,31,2026-03-13,Hawaii,N,Cal State Fullerton,CTOURN,W 78-63,*,35,2,5,0.4,0,3,0.0,2,2,1.0,0.4,6,7,0.857,0,5,5,5,2,2,5,4,10,8.7,N,1,0,hunter-erickson-1,Hunter Erickson,2026
+32,129,32,2026-03-14,Hawaii,N,UC Irvine,CTOURN,W 71-64,*,32,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,2,0,2,8,0,1,4,2,3,2.1,N,1,0,hunter-erickson-1,Hunter Erickson,2026

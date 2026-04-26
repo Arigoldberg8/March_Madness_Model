@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,1,2017-11-10,Alabama,N,Memphis,REG (Non-Conf),W 82-70,*,30,5,6,0.833,0,0,5,6,0.833,0.833,1,3,0.333,4,7,11,3,0,5,4,4,11,12.9,N,1,1,donta-hall-1,Donta Hall,2018
+2,69,2,2017-11-14,Alabama,,Lipscomb,REG (Non-Conf),W 86-64,*,20,5,7,0.714,0,0,5,7,0.714,0.714,0,1,0.0,2,3,5,3,1,3,1,3,10,12.0,H,1,1,donta-hall-1,Donta Hall,2018
+3,70,3,2017-11-17,Alabama,,Alabama A&M,REG (Non-Conf),W 104-67,*,17,4,5,0.8,0,0,4,5,0.8,0.8,0,1,0.0,1,5,6,0,0,2,0,0,8,9.3,H,1,1,donta-hall-1,Donta Hall,2018
+4,71,4,2017-11-21,Alabama,,UT Arlington,REG (Non-Conf),W 77-76,*,22,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,1,4,5,0,0,2,2,2,8,7.3,H,1,1,donta-hall-1,Donta Hall,2018
+5,72,5,2017-11-24,Alabama,N,Brigham Young,REG (Non-Conf),W 71-59,*,27,6,8,0.75,0,0,6,8,0.75,0.75,2,2,1.0,2,7,9,0,0,1,0,3,14,13.8,N,1,1,donta-hall-1,Donta Hall,2018
+6,73,6,2017-11-25,Alabama,N,Minnesota,REG (Non-Conf),L 84-89,*,15,3,8,0.375,0,0,3,8,0.375,0.375,2,2,1.0,2,5,7,0,0,1,0,1,8,6.8,N,0,1,donta-hall-1,Donta Hall,2018
+7,74,7,2017-11-29,Alabama,,Louisiana Tech,REG (Non-Conf),W 77-74,*,23,6,7,0.857,0,0,6,7,0.857,0.857,3,3,1.0,1,6,7,0,0,4,0,2,15,17.0,H,1,1,donta-hall-1,Donta Hall,2018
+8,75,8,2017-12-03,Alabama,,UCF,REG (Non-Conf),L 62-65,*,27,9,9,1.0,0,0,9,9,1.0,1.0,2,3,0.667,1,3,4,1,1,4,1,0,20,22.0,H,0,1,donta-hall-1,Donta Hall,2018
+9,76,9,2017-12-06,Alabama,,Rhode Island,REG (Non-Conf),W 68-64,*,29,3,6,0.5,0,0,3,6,0.5,0.5,7,10,0.7,4,10,14,2,0,3,5,2,13,12.3,H,1,1,donta-hall-1,Donta Hall,2018
+10,77,10,2017-12-09,Alabama,@,Arizona,REG (Non-Conf),L 82-88,*,32,6,8,0.75,0,0,6,8,0.75,0.75,3,4,0.75,5,7,12,0,2,1,3,1,15,16.3,A,0,1,donta-hall-1,Donta Hall,2018
+11,78,11,2017-12-19,Alabama,N,Mercer,REG (Non-Conf),W 80-79,*,31,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,2,4,6,0,0,4,0,2,9,10.6,N,1,1,donta-hall-1,Donta Hall,2018
+12,79,12,2017-12-22,Alabama,N,Texas,REG (Non-Conf),L 50-66,*,14,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,3,1,4,0,2,2,3,3,2,1.1,N,0,1,donta-hall-1,Donta Hall,2018
+13,80,13,2017-12-30,Alabama,,Texas A&M,REG (Conf),W 79-57,*,28,7,8,0.875,0,0,7,8,0.875,0.875,3,3,1.0,2,4,6,1,0,2,2,3,17,15.7,H,1,1,donta-hall-1,Donta Hall,2018
+14,81,14,2018-01-02,Alabama,@,Vanderbilt,REG (Conf),L 75-76,*,27,6,6,1.0,0,0,6,6,1.0,1.0,2,3,0.667,1,5,6,0,1,2,2,3,14,13.2,A,0,1,donta-hall-1,Donta Hall,2018
+15,82,15,2018-01-06,Alabama,@,Georgia,REG (Conf),L 46-65,*,16,3,6,0.5,0,0,3,6,0.5,0.5,1,1,1.0,2,4,6,0,1,0,0,1,7,7.2,A,0,1,donta-hall-1,Donta Hall,2018
+16,83,16,2018-01-09,Alabama,,South Carolina,REG (Conf),W 76-62,*,27,6,7,0.857,0,0,6,7,0.857,0.857,1,3,0.333,3,4,7,0,0,3,2,0,13,13.1,H,1,1,donta-hall-1,Donta Hall,2018
+17,84,18,2018-01-17,Alabama,,Auburn,REG (Conf),W 76-71,,15,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,0,1,1,0,0,2,5.3,H,1,1,donta-hall-1,Donta Hall,2018
+18,85,19,2018-01-20,Alabama,,Mississippi State,REG (Conf),W 68-62,,19,4,8,0.5,0,0,4,8,0.5,0.5,0,2,0.0,2,3,5,1,0,1,1,1,8,5.5,H,1,1,donta-hall-1,Donta Hall,2018
+19,86,20,2018-01-23,Alabama,@,Ole Miss,REG (Conf),L 66-78,,17,6,7,0.857,0,0,6,7,0.857,0.857,2,4,0.5,4,3,7,0,0,0,1,1,14,13.0,A,0,1,donta-hall-1,Donta Hall,2018
+20,87,21,2018-01-27,Alabama,,Oklahoma,REG (Non-Conf),W 80-73,*,24,4,6,0.667,0,0,4,6,0.667,0.667,1,4,0.25,3,4,7,2,1,8,2,0,9,14.5,H,1,1,donta-hall-1,Donta Hall,2018
+21,88,22,2018-01-31,Alabama,,Missouri,REG (Conf),L 60-69,*,23,2,5,0.4,0,0,2,5,0.4,0.4,5,8,0.625,1,3,4,0,1,0,2,2,9,4.9,H,0,1,donta-hall-1,Donta Hall,2018
+22,89,23,2018-02-03,Alabama,@,Florida,REG (Conf),W 68-50,*,28,7,7,1.0,0,0,7,7,1.0,1.0,0,0,,4,7,11,0,1,1,3,2,14,14.7,A,1,1,donta-hall-1,Donta Hall,2018
+23,90,24,2018-02-06,Alabama,@,Mississippi State,REG (Conf),L 63-67,*,25,2,3,0.667,0,0,2,3,0.667,0.667,4,6,0.667,1,5,6,0,3,3,1,2,8,11.4,A,0,1,donta-hall-1,Donta Hall,2018
+24,91,25,2018-02-10,Alabama,,Tennessee,REG (Conf),W 78-50,*,27,8,10,0.8,0,0,8,10,0.8,0.8,1,4,0.25,3,8,11,1,2,3,0,3,17,20.1,H,1,1,donta-hall-1,Donta Hall,2018
+25,92,26,2018-02-13,Alabama,,Louisiana State,REG (Conf),W 80-65,*,25,8,10,0.8,0,0,8,10,0.8,0.8,4,7,0.571,2,6,8,0,2,2,1,1,20,20.2,H,1,1,donta-hall-1,Donta Hall,2018
+26,93,27,2018-02-17,Alabama,@,Kentucky,REG (Conf),L 71-81,*,30,7,8,0.875,0,0,7,8,0.875,0.875,2,5,0.4,3,3,6,0,0,2,0,3,16,15.2,A,0,1,donta-hall-1,Donta Hall,2018
+27,94,28,2018-02-21,Alabama,@,Auburn,REG (Conf),L 71-90,*,23,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,4,5,1,0,4,1,3,7,8.2,A,0,1,donta-hall-1,Donta Hall,2018
+28,95,29,2018-02-24,Alabama,,Arkansas,REG (Conf),L 73-76,*,29,2,5,0.4,0,0,2,5,0.4,0.4,0,3,0.0,3,5,8,1,1,3,1,2,4,5.7,H,0,1,donta-hall-1,Donta Hall,2018
+29,96,30,2018-02-27,Alabama,,Florida,REG (Conf),L 52-73,*,17,0,2,0.0,0,0,0,2,0.0,0.0,3,6,0.5,2,2,4,1,1,0,0,2,3,3.3,H,0,1,donta-hall-1,Donta Hall,2018
+30,97,31,2018-03-03,Alabama,@,Texas A&M,REG (Conf),L 66-68,*,30,5,7,0.714,0,0,5,7,0.714,0.714,2,5,0.4,4,2,6,1,0,1,2,1,12,10.3,A,0,1,donta-hall-1,Donta Hall,2018
+31,98,32,2018-03-08,Alabama,N,Texas A&M,CTOURN,W 71-70,*,25,4,9,0.444,0,0,4,9,0.444,0.444,3,4,0.75,2,3,5,1,1,0,1,1,11,8.5,N,1,0,donta-hall-1,Donta Hall,2018
+32,99,33,2018-03-09,Alabama,N,Auburn,CTOURN,W 81-63,*,22,4,5,0.8,0,0,4,5,0.8,0.8,3,3,1.0,1,5,6,0,0,0,1,2,11,9.5,N,1,0,donta-hall-1,Donta Hall,2018
+33,100,35,2018-03-15,Alabama,N,Virginia Tech,ROUND-64,W 86-83,*,25,5,5,1.0,0,0,5,5,1.0,1.0,0,0,,1,2,3,0,1,0,0,3,10,9.6,N,1,0,donta-hall-1,Donta Hall,2018
+34,101,36,2018-03-17,Alabama,N,Villanova,ROUND-32,L 58-81,*,17,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,0,2,1,1,0,1,0,3,3.7,N,0,0,donta-hall-1,Donta Hall,2018

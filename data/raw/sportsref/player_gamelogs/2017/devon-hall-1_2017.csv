@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,61,1,2016-11-11,Virginia,@,UNC Greensboro,REG (Non-Conf),W 76-51,*,23,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,2,1.0,0,4,4,0,2,0,0,2,5,4.3,A,1,1,devon-hall-1,Devon Hall,2017
+2,62,2,2016-11-15,Virginia,,St. Francis Brooklyn,REG (Non-Conf),W 72-32,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,3,4,3,0,0,2,0,4,3.7,H,1,1,devon-hall-1,Devon Hall,2017
+3,63,3,2016-11-20,Virginia,,Yale,REG (Non-Conf),W 62-38,*,22,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,1,1,2,1,0,1,0,0,-1.8,H,1,1,devon-hall-1,Devon Hall,2017
+4,64,4,2016-11-22,Virginia,,Grambling State,REG (Non-Conf),W 90-34,*,16,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,2,2,3,0,0,0,0,5,5.0,H,1,1,devon-hall-1,Devon Hall,2017
+5,65,5,2016-11-25,Virginia,N,Iowa,REG (Non-Conf),W 74-41,*,19,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,3,3,1,1,0,1,0,6,4.9,N,1,1,devon-hall-1,Devon Hall,2017
+6,66,6,2016-11-26,Virginia,N,Providence,REG (Non-Conf),W 63-52,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,4,4,1,0,0,1,3,4,2.7,N,1,1,devon-hall-1,Devon Hall,2017
+7,67,7,2016-11-30,Virginia,,Ohio State,REG (Non-Conf),W 63-61,*,31,4,10,0.4,2,4,0.5,2,6,0.333,0.5,2,3,0.667,0,3,3,3,2,0,0,1,12,10.8,H,1,1,devon-hall-1,Devon Hall,2017
+8,68,8,2016-12-03,Virginia,,West Virginia,REG (Non-Conf),L 57-66,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,2,0,0,2,5,4,0.4,H,0,1,devon-hall-1,Devon Hall,2017
+9,69,9,2016-12-06,Virginia,,East Carolina,REG (Non-Conf),W 76-53,*,20,1,7,0.143,1,3,0.333,0,4,0.0,0.214,2,2,1.0,0,4,4,1,0,0,0,0,5,2.4,H,1,1,devon-hall-1,Devon Hall,2017
+10,70,10,2016-12-17,Virginia,,Robert Morris,REG (Non-Conf),W 79-39,*,18,4,7,0.571,1,2,0.5,3,5,0.6,0.643,4,4,1.0,1,4,5,0,0,0,0,2,13,10.8,H,1,1,devon-hall-1,Devon Hall,2017
+11,71,11,2016-12-21,Virginia,@,California,REG (Non-Conf),W 56-52,*,30,3,7,0.429,1,1,1.0,2,6,0.333,0.5,0,0,,1,5,6,1,0,0,0,3,7,5.0,A,1,1,devon-hall-1,Devon Hall,2017
+12,72,12,2016-12-28,Virginia,@,Louisville,REG (Conf),W 61-53,*,30,5,10,0.5,0,0,,5,10,0.5,0.5,0,1,0.0,0,6,6,0,2,0,1,2,10,6.6,A,1,1,devon-hall-1,Devon Hall,2017
+13,73,13,2016-12-31,Virginia,,Florida State,REG (Conf),L 58-60,*,29,4,9,0.444,0,0,,4,9,0.444,0.444,2,2,1.0,1,4,5,0,0,0,0,2,10,6.4,H,0,1,devon-hall-1,Devon Hall,2017
+14,74,14,2017-01-04,Virginia,@,Pittsburgh,REG (Conf),L 76-88 (OT),*,39,6,13,0.462,2,6,0.333,4,7,0.571,0.538,1,1,1.0,2,7,9,1,1,1,0,3,15,13.0,A,0,1,devon-hall-1,Devon Hall,2017
+15,75,15,2017-01-08,Virginia,,Wake Forest,REG (Conf),W 79-62,*,31,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,3,0.667,2,6,8,2,0,0,1,1,13,11.5,H,1,1,devon-hall-1,Devon Hall,2017
+16,76,16,2017-01-14,Virginia,@,Clemson,REG (Conf),W 77-73,*,20,2,3,0.667,2,2,1.0,0,1,0.0,1.0,3,4,0.75,0,0,0,0,0,0,2,4,9,3.7,A,1,1,devon-hall-1,Devon Hall,2017
+17,77,17,2017-01-18,Virginia,@,Boston College,REG (Conf),W 71-54,*,25,5,6,0.833,2,2,1.0,3,4,0.75,1.0,1,1,1.0,0,2,2,6,0,1,0,2,13,15.5,A,1,1,devon-hall-1,Devon Hall,2017
+18,78,18,2017-01-21,Virginia,,Georgia Tech,REG (Conf),W 62-49,*,33,3,8,0.375,1,5,0.2,2,3,0.667,0.438,3,4,0.75,0,4,4,4,1,0,2,3,10,7.0,H,1,1,devon-hall-1,Devon Hall,2017
+19,79,19,2017-01-24,Virginia,@,Notre Dame,REG (Conf),W 71-54,*,32,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,1,8,9,2,0,0,0,1,11,10.8,A,1,1,devon-hall-1,Devon Hall,2017
+20,80,20,2017-01-29,Virginia,@,Villanova,REG (Non-Conf),L 59-61,*,31,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,1,2,3,3,1,0,2,3,7,5.5,A,0,1,devon-hall-1,Devon Hall,2017
+21,81,21,2017-02-01,Virginia,,Virginia Tech,REG (Conf),W 71-48,*,31,6,14,0.429,1,3,0.333,5,11,0.455,0.464,4,7,0.571,2,7,9,4,1,0,1,2,17,13.9,H,1,1,devon-hall-1,Devon Hall,2017
+22,82,22,2017-02-04,Virginia,@,Syracuse,REG (Conf),L 62-66,*,23,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,0,6,6,2,1,0,0,2,6,6.7,A,0,1,devon-hall-1,Devon Hall,2017
+23,83,23,2017-02-06,Virginia,,Louisville,REG (Conf),W 71-55,*,29,3,9,0.333,1,3,0.333,2,6,0.333,0.389,2,2,1.0,0,3,3,3,0,0,2,1,9,4.5,H,1,1,devon-hall-1,Devon Hall,2017
+24,84,24,2017-02-12,Virginia,@,Virginia Tech,REG (Conf),L 78-80 (2OT),*,37,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,0,4,4,3,0,0,1,2,10,6.7,A,0,1,devon-hall-1,Devon Hall,2017
+25,85,25,2017-02-15,Virginia,,Duke,REG (Conf),L 55-65,*,23,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,0,,1,2,3,1,0,0,2,5,8,0.6,H,0,1,devon-hall-1,Devon Hall,2017
+26,86,26,2017-02-18,Virginia,@,North Carolina,REG (Conf),L 41-65,*,29,0,7,0.0,0,4,0.0,0,3,0.0,0.0,0,0,,0,6,6,0,0,0,2,1,0,-5.5,A,0,1,devon-hall-1,Devon Hall,2017
+27,87,27,2017-02-20,Virginia,,Miami (FL),REG (Conf),L 48-54 (OT),*,39,4,8,0.5,3,5,0.6,1,3,0.333,0.688,4,6,0.667,0,0,0,1,2,0,2,1,15,10.5,H,0,1,devon-hall-1,Devon Hall,2017
+28,88,28,2017-02-25,Virginia,@,NC State,REG (Conf),W 70-55,*,37,5,8,0.625,2,2,1.0,3,6,0.5,0.75,6,8,0.75,2,7,9,2,0,1,1,0,18,18.2,A,1,1,devon-hall-1,Devon Hall,2017
+29,89,29,2017-02-27,Virginia,,North Carolina,REG (Conf),W 53-43,*,33,4,14,0.286,1,4,0.25,3,10,0.3,0.321,2,2,1.0,0,1,1,5,1,1,1,0,11,7.3,H,1,1,devon-hall-1,Devon Hall,2017
+30,90,30,2017-03-04,Virginia,,Pittsburgh,REG (Conf),W 67-42,*,25,2,9,0.222,0,1,0.0,2,8,0.25,0.222,0,0,,0,4,4,1,0,0,1,0,4,-0.6,H,1,1,devon-hall-1,Devon Hall,2017
+31,91,31,2017-03-08,Virginia,N,Pittsburgh,CTOURN,W 75-63,*,31,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,5,0.6,1,3,4,3,1,0,2,3,5,3.3,N,1,0,devon-hall-1,Devon Hall,2017
+32,92,32,2017-03-09,Virginia,N,Notre Dame,CTOURN,L 58-71,*,30,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,3,6,9,1,0,0,1,2,12,11.9,N,0,0,devon-hall-1,Devon Hall,2017
+33,93,33,2017-03-16,Virginia,N,UNC Wilmington,ROUND-64,W 76-71,*,30,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,2,5,7,3,1,0,2,4,6,4.3,N,1,0,devon-hall-1,Devon Hall,2017
+34,94,34,2017-03-18,Virginia,N,Florida,ROUND-32,L 39-65,*,18,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,1,0,0,2,5,0,-4.7,N,0,0,devon-hall-1,Devon Hall,2017

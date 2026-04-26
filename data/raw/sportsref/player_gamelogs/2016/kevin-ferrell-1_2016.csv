@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,103,1,2015-11-13,Indiana,,Eastern Illinois,REG (Non-Conf),W 88-49,*,28,5,12,0.417,1,5,0.2,4,7,0.571,0.458,2,2,1.0,4,3,7,6,1,0,1,1,13,14.1,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+2,104,2,2015-11-16,Indiana,,Austin Peay,REG (Non-Conf),W 102-76,*,28,8,10,0.8,4,5,0.8,4,5,0.8,1.0,2,3,0.667,1,5,6,9,1,0,4,1,22,22.9,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+3,105,3,2015-11-19,Indiana,,Creighton,REG (Non-Conf),W 86-65,*,34,6,14,0.429,1,6,0.167,5,8,0.625,0.464,2,2,1.0,2,7,9,6,2,0,3,2,15,13.5,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+4,106,4,2015-11-23,Indiana,N,Wake Forest,REG (Non-Conf),L 78-82,*,36,4,11,0.364,0,3,0.0,4,8,0.5,0.364,3,4,0.75,5,2,7,5,1,0,0,1,11,12.7,N,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+5,107,5,2015-11-24,Indiana,N,St. John's (NY),REG (Non-Conf),W 83-73,*,36,6,12,0.5,1,3,0.333,5,9,0.556,0.542,9,10,0.9,0,4,4,7,1,0,3,2,22,18.9,N,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+6,108,6,2015-11-25,Indiana,N,UNLV,REG (Non-Conf),L 69-72,*,33,3,9,0.333,1,2,0.5,2,7,0.286,0.389,2,5,0.4,1,5,6,9,2,0,4,1,9,8.8,N,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+7,109,7,2015-11-30,Indiana,,Alcorn State,REG (Non-Conf),W 112-70,*,26,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,1,0.0,1,1,2,5,1,0,1,1,13,13.8,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+8,110,8,2015-12-02,Indiana,@,Duke,REG (Non-Conf),L 74-94,*,36,6,16,0.375,1,5,0.2,5,11,0.455,0.406,2,2,1.0,1,2,3,5,2,0,0,3,15,11.8,A,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+9,111,9,2015-12-05,Indiana,,Morehead State,REG (Non-Conf),W 92-59,*,34,4,7,0.571,1,2,0.5,3,5,0.6,0.643,6,6,1.0,0,2,2,7,2,0,4,2,15,14.4,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+10,112,10,2015-12-09,Indiana,,IPFW,REG (Non-Conf),W 90-65,*,35,12,18,0.667,4,8,0.5,8,10,0.8,0.778,10,10,1.0,1,4,5,5,1,0,2,2,38,33.8,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+11,113,11,2015-12-12,Indiana,,McNeese State,REG (Non-Conf),W 105-60,*,31,4,11,0.364,2,4,0.5,2,7,0.286,0.455,2,2,1.0,1,1,2,7,0,0,1,0,12,10.8,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+12,114,12,2015-12-19,Indiana,N,Notre Dame,REG (Non-Conf),W 80-73,*,35,2,7,0.286,2,4,0.5,0,3,0.0,0.429,2,2,1.0,1,3,4,2,0,0,5,1,8,1.5,N,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+13,115,13,2015-12-22,Indiana,,Kennesaw State,REG (Non-Conf),W 99-72,*,31,4,9,0.444,1,4,0.25,3,5,0.6,0.5,7,8,0.875,1,3,4,4,0,0,3,1,16,11.9,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+14,116,14,2015-12-30,Indiana,@,Rutgers,REG (Conf),W 79-72,*,35,6,14,0.429,1,5,0.2,5,9,0.556,0.464,7,9,0.778,1,2,3,7,2,0,6,1,20,13.6,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+15,117,15,2016-01-02,Indiana,@,Nebraska,REG (Conf),W 79-69,*,38,8,13,0.615,4,5,0.8,4,8,0.5,0.769,4,7,0.571,0,3,3,7,1,0,4,2,24,18.9,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+16,118,16,2016-01-05,Indiana,,Wisconsin,REG (Conf),W 59-58,*,36,6,14,0.429,1,4,0.25,5,10,0.5,0.464,6,6,1.0,0,3,3,2,1,0,5,2,19,9.1,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+17,119,17,2016-01-10,Indiana,,Ohio State,REG (Conf),W 85-60,*,35,6,12,0.5,4,6,0.667,2,6,0.333,0.667,0,1,0.0,2,3,5,6,3,0,3,4,16,14.5,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+18,120,18,2016-01-16,Indiana,@,Minnesota,REG (Conf),W 70-63,*,37,6,17,0.353,2,6,0.333,4,11,0.364,0.412,6,8,0.75,1,5,6,7,2,1,1,2,20,17.7,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+19,121,19,2016-01-19,Indiana,,Illinois,REG (Conf),W 103-69,*,31,5,10,0.5,5,7,0.714,0,3,0.0,0.75,1,2,0.5,0,1,1,9,1,0,3,1,16,14.8,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+20,122,20,2016-01-23,Indiana,,Northwestern,REG (Conf),W 89-57,*,35,7,13,0.538,3,6,0.5,4,7,0.571,0.654,0,0,,0,3,3,6,1,0,1,1,17,15.4,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+21,123,21,2016-01-26,Indiana,@,Wisconsin,REG (Conf),L 79-82 (OT),*,41,12,20,0.6,5,6,0.833,7,14,0.5,0.725,1,2,0.5,2,5,7,1,2,0,4,3,30,20.8,A,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+22,124,22,2016-01-30,Indiana,,Minnesota,REG (Conf),W 74-68,*,36,2,9,0.222,1,2,0.5,1,7,0.143,0.278,8,8,1.0,0,2,2,3,0,0,2,2,13,7.4,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+23,125,23,2016-02-02,Indiana,@,Michigan,REG (Conf),W 80-67,*,37,6,10,0.6,3,6,0.5,3,4,0.75,0.75,2,2,1.0,1,1,2,9,2,0,1,1,17,20.3,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+24,126,24,2016-02-06,Indiana,@,Penn State,REG (Conf),L 63-68,*,35,3,12,0.25,1,6,0.167,2,6,0.333,0.292,6,7,0.857,0,3,3,5,1,0,5,2,13,5.0,A,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+25,127,25,2016-02-11,Indiana,,Iowa,REG (Conf),W 85-78,*,35,2,12,0.167,2,9,0.222,0,3,0.0,0.25,8,8,1.0,2,0,2,1,2,0,2,4,14,6.9,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+26,128,26,2016-02-14,Indiana,@,Michigan State,REG (Conf),L 69-88,*,34,3,10,0.3,1,6,0.167,2,4,0.5,0.35,2,4,0.5,1,1,2,7,1,0,2,2,9,6.5,A,0,1,kevin-ferrell-1,Yogi Ferrell,2016
+27,129,27,2016-02-17,Indiana,,Nebraska,REG (Conf),W 80-64,*,36,2,8,0.25,1,5,0.2,1,3,0.333,0.313,6,7,0.857,0,2,2,4,0,0,0,2,11,8.4,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+28,130,28,2016-02-20,Indiana,,Purdue,REG (Conf),W 77-73,*,36,7,13,0.538,3,7,0.429,4,6,0.667,0.654,1,2,0.5,2,1,3,4,1,0,2,0,18,14.8,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+29,131,29,2016-02-25,Indiana,@,Illinois,REG (Conf),W 74-47,*,36,11,18,0.611,5,10,0.5,6,8,0.75,0.75,0,0,,0,5,5,5,1,0,3,1,27,21.4,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+30,132,30,2016-03-01,Indiana,@,Iowa,REG (Conf),W 81-78,*,37,7,19,0.368,4,8,0.5,3,11,0.273,0.474,2,4,0.5,0,3,3,5,1,0,5,2,20,8.3,A,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+31,133,31,2016-03-06,Indiana,,Maryland,REG (Conf),W 80-62,*,38,5,11,0.455,1,5,0.2,4,6,0.667,0.5,6,6,1.0,0,4,4,4,1,0,2,1,17,13.9,H,1,1,kevin-ferrell-1,Yogi Ferrell,2016
+32,134,32,2016-03-11,Indiana,N,Michigan,CTOURN,L 69-72,*,36,5,10,0.5,1,4,0.25,4,6,0.667,0.55,3,4,0.75,2,2,4,8,0,0,1,0,14,15.2,N,0,0,kevin-ferrell-1,Yogi Ferrell,2016
+33,135,33,2016-03-17,Indiana,N,Chattanooga,ROUND-64,W 99-74,*,35,6,13,0.462,4,7,0.571,2,6,0.333,0.615,4,4,1.0,0,1,1,10,1,0,2,1,20,19.2,N,1,0,kevin-ferrell-1,Yogi Ferrell,2016
+34,136,34,2016-03-19,Indiana,N,Kentucky,ROUND-32,W 73-67,*,37,6,13,0.462,1,4,0.25,5,9,0.556,0.5,5,6,0.833,1,4,5,4,0,0,1,3,18,13.4,N,1,0,kevin-ferrell-1,Yogi Ferrell,2016
+35,137,35,2016-03-25,Indiana,N,North Carolina,ROUND-16,L 86-101,*,36,6,14,0.429,4,9,0.444,2,5,0.4,0.571,9,10,0.9,0,3,3,4,0,0,2,3,25,17.7,N,0,0,kevin-ferrell-1,Yogi Ferrell,2016

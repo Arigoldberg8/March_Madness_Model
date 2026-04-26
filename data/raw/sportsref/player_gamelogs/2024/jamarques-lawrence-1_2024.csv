@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2023-11-06,Nebraska,,Lindenwood,REG (Non-Conf),W 84-52,*,18,2,8,0.25,2,6,0.333,0,2,0.0,0.375,1,2,0.5,2,4,6,1,0,0,2,3,7,1.9,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+2,30,2,2023-11-09,Nebraska,,Florida A&M,REG (Non-Conf),W 81-54,*,25,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,2,0.5,0,5,5,4,3,0,4,1,5,4.1,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+3,31,3,2023-11-13,Nebraska,,Rider,REG (Non-Conf),W 64-50,*,25,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,0,3,3,2,2,0,1,2,0,-1.0,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+4,32,4,2023-11-15,Nebraska,,Stony Brook,REG (Non-Conf),W 84-63,*,27,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,4,5,4,0,0,3,3,8,4.5,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+5,33,5,2023-11-18,Nebraska,N,Oregon State,REG (Non-Conf),W 84-63,*,23,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,0,5,5,3,0,0,0,2,3,4.1,N,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+6,34,6,2023-11-22,Nebraska,,Duquesne,REG (Non-Conf),W 89-79,*,26,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,2,2,3,0,0,0,1,6,6.3,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+7,35,7,2023-11-26,Nebraska,,Cal State Fullerton,REG (Non-Conf),W 85-72,*,27,4,10,0.4,1,5,0.2,3,5,0.6,0.45,2,2,1.0,1,1,2,6,1,0,0,1,11,11.4,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+8,36,8,2023-12-03,Nebraska,,Creighton,REG (Non-Conf),L 60-89,*,29,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,0,4,4,2,0,0,2,2,1,-1.7,H,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+9,37,9,2023-12-06,Nebraska,@,Minnesota,REG (Conf),L 65-76,*,33,5,9,0.556,3,5,0.6,2,4,0.5,0.722,3,4,0.75,1,6,7,1,1,0,7,3,16,7.3,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+10,38,10,2023-12-10,Nebraska,,Michigan State,REG (Conf),W 77-70,*,26,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,0,3,3,4,0,0,2,2,2,-0.2,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+11,39,11,2023-12-17,Nebraska,@,Kansas State,REG (Non-Conf),W 62-46,*,24,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,1,3,4,2,0,0,4,2,2,-3.6,A,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+12,40,12,2023-12-20,Nebraska,,North Dakota,REG (Non-Conf),W 83-75,*,31,4,10,0.4,2,6,0.333,2,4,0.5,0.5,4,6,0.667,1,0,1,3,1,0,1,0,14,10.6,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+13,41,13,2023-12-29,Nebraska,,South Carolina State,REG (Non-Conf),W 91-62,*,13,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,0,3,3,1,0,0,4,3,8,1.3,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+14,42,14,2024-01-03,Nebraska,,Indiana,REG (Conf),W 86-70,*,31,4,8,0.5,2,6,0.333,2,2,1.0,0.625,2,2,1.0,0,3,3,3,4,0,1,3,12,12.8,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+15,43,15,2024-01-06,Nebraska,@,Wisconsin,REG (Conf),L 72-88,*,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,0,1,0,3,3,3,-1.3,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+16,44,16,2024-01-09,Nebraska,,Purdue,REG (Conf),W 88-72,*,18,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,4,4,1,0,0,1,3,0,-1.7,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+17,45,17,2024-01-12,Nebraska,@,Iowa,REG (Conf),L 76-94,*,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,2,0,-1.2,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+18,46,18,2024-01-17,Nebraska,@,Rutgers,REG (Conf),L 82-87 (OT),*,34,2,8,0.25,0,5,0.0,2,3,0.667,0.25,3,3,1.0,0,6,6,5,0,0,2,3,7,4.3,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+19,47,19,2024-01-20,Nebraska,,Northwestern,REG (Conf),W 75-69,*,28,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,0,5,5,3,2,0,4,3,10,8.5,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+20,48,20,2024-01-23,Nebraska,,Ohio State,REG (Conf),W 83-69,*,31,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,3,4,6,0,0,1,3,2,1.8,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+21,49,21,2024-01-27,Nebraska,@,Maryland,REG (Conf),L 51-73,*,26,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,2,2,2,0,0,4,1,8,3.3,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+22,50,22,2024-02-01,Nebraska,,Wisconsin,REG (Conf),W 80-72 (OT),*,18,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,0,1,1,4,2,0,1,0,4,5.0,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+23,51,23,2024-02-04,Nebraska,@,Illinois,REG (Conf),L 84-87 (OT),*,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,1,0,0,1,2,2,-0.5,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+24,52,24,2024-02-07,Nebraska,@,Northwestern,REG (Conf),L 68-80,,21,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,4,0.75,0,0,0,2,2,0,2,3,12,9.2,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+25,53,25,2024-02-10,Nebraska,,Michigan,REG (Conf),W 79-59,,23,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,1,5,6,1,1,0,1,0,5,2.4,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+26,54,26,2024-02-17,Nebraska,,Penn State,REG (Conf),W 68-49,,21,3,8,0.375,0,2,0.0,3,6,0.5,0.375,2,2,1.0,0,1,1,2,1,0,2,2,8,3.5,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+27,55,27,2024-02-21,Nebraska,@,Indiana,REG (Conf),W 85-70,,23,6,8,0.75,5,5,1.0,1,3,0.333,1.063,2,2,1.0,0,6,6,5,1,0,1,2,19,20.3,A,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+28,56,28,2024-02-25,Nebraska,,Minnesota,REG (Conf),W 73-55,,27,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,4,4,2,0,0,4,3,11,5.8,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+29,57,29,2024-02-29,Nebraska,@,Ohio State,REG (Conf),L 69-78,,30,5,7,0.714,3,5,0.6,2,2,1.0,0.929,1,1,1.0,0,0,0,5,1,0,2,4,14,12.0,A,0,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+30,58,30,2024-03-03,Nebraska,,Rutgers,REG (Conf),W 67-56,,11,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,0,1,0,4,2,3,-0.9,H,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+31,59,31,2024-03-10,Nebraska,@,Michigan,REG (Conf),W 85-70,,15,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,2,2,2,1,0,1,1,2,-0.2,A,1,1,jamarques-lawrence-1,Jamarques Lawrence,2024
+32,60,32,2024-03-15,Nebraska,N,Indiana,CTOURN,W 93-66,,24,5,6,0.833,3,4,0.75,2,2,1.0,1.083,2,3,0.667,0,3,3,1,0,1,1,2,15,12.9,N,1,0,jamarques-lawrence-1,Jamarques Lawrence,2024
+33,61,33,2024-03-16,Nebraska,N,Illinois,CTOURN,L 87-98,,26,3,3,1.0,1,1,1.0,2,2,1.0,1.167,2,3,0.667,0,2,2,2,2,0,0,2,9,10.9,N,0,0,jamarques-lawrence-1,Jamarques Lawrence,2024
+34,62,34,2024-03-22,Nebraska,N,Texas A&M,ROUND-64,L 83-98,,23,1,3,0.333,0,2,0.0,1,1,1.0,0.333,4,4,1.0,0,0,0,2,0,0,3,1,6,2.3,N,0,0,jamarques-lawrence-1,Jamarques Lawrence,2024

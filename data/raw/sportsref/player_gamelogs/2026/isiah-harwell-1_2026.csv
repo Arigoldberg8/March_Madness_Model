@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Houston,,Lehigh,REG (Non-Conf),W 75-57,,19,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,2,4,0,1,2,3,6.3,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+2,2,3,2025-11-12,Houston,,Oakland,REG (Non-Conf),W 78-45,,17,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,0,2,2,1,1,0,0,2,9,6.1,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+3,3,4,2025-11-16,Houston,N,Auburn,REG (Non-Conf),W 73-72,,21,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,1,2,3,1,2,0,0,1,5,6.2,N,1,1,isiah-harwell-1,Isiah Harwell,2026
+4,4,6,2025-11-24,Houston,N,Syracuse,REG (Non-Conf),W 78-74 (OT),,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,1,0.0,1,2,3,1,1,0,2,4,2,-1.4,N,1,1,isiah-harwell-1,Isiah Harwell,2026
+5,5,7,2025-11-25,Houston,N,Tennessee,REG (Non-Conf),L 73-76,,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,1,0.0,2,2,4,1,1,0,0,2,3,3.1,N,0,1,isiah-harwell-1,Isiah Harwell,2026
+6,6,8,2025-11-26,Houston,N,Notre Dame,REG (Non-Conf),W 66-56,,12,0,4,0.0,0,0,,0,4,0.0,0.0,0,2,0.0,1,1,2,1,1,0,0,0,0,-0.9,N,1,1,isiah-harwell-1,Isiah Harwell,2026
+7,7,9,2025-12-06,Houston,N,Florida State,REG (Non-Conf),W 82-67,,4,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,0,0,-0.4,N,1,1,isiah-harwell-1,Isiah Harwell,2026
+8,8,10,2025-12-10,Houston,,Jackson State,REG (Non-Conf),W 80-38,,24,8,14,0.571,4,9,0.444,4,5,0.8,0.714,0,1,0.0,1,3,4,1,1,0,0,1,20,15.9,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+9,9,11,2025-12-13,Houston,,New Orleans,REG (Non-Conf),W 99-57,,24,1,7,0.143,1,6,0.167,0,1,0.0,0.214,3,4,0.75,1,2,3,3,2,0,0,1,6,6.1,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+10,10,12,2025-12-20,Houston,N,Arkansas,REG (Non-Conf),W 94-85,,10,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,1,2,2,0,0,0,2,6,6.3,N,1,1,isiah-harwell-1,Isiah Harwell,2026
+11,11,13,2025-12-29,Houston,,Middle Tennessee,REG (Non-Conf),W 69-60,,17,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,2,0,2,0,0,0,1,0,2,-0.4,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+12,12,14,2026-01-03,Houston,@,Cincinnati,REG (Conf),W 67-60,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,4,4,0,0,0,0,1,2,1.1,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+13,13,15,2026-01-06,Houston,,Texas Tech,REG (Conf),W 69-65,,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+14,14,16,2026-01-10,Houston,@,Baylor,REG (Conf),W 77-55,,24,4,14,0.286,4,12,0.333,0,2,0.0,0.429,0,2,0.0,0,3,3,0,1,2,0,1,12,5.9,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+15,15,17,2026-01-13,Houston,,West Virginia,REG (Conf),W 77-48,,22,2,8,0.25,1,6,0.167,1,2,0.5,0.313,2,2,1.0,0,1,1,1,0,1,0,1,7,3.5,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+16,16,18,2026-01-18,Houston,,Arizona State,REG (Conf),W 103-73,,17,2,2,1.0,2,2,1.0,0,0,,1.5,2,2,1.0,0,2,2,1,0,2,1,1,8,8.7,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+17,17,19,2026-01-24,Houston,@,Texas Tech,REG (Conf),L 86-90,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,0,0,0,0,3,2,1.0,A,0,1,isiah-harwell-1,Isiah Harwell,2026
+18,18,20,2026-01-28,Houston,@,TCU,REG (Conf),W 79-70,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,1,1,0,-1.8,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+19,19,21,2026-01-31,Houston,,Cincinnati,REG (Conf),W 76-54,,17,3,9,0.333,2,5,0.4,1,4,0.25,0.444,5,6,0.833,3,1,4,0,0,0,0,2,13,9.1,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+20,20,22,2026-02-04,Houston,,UCF,REG (Conf),W 79-55,,18,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,1,2,2,1,0,1,2,2,-0.2,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+21,21,23,2026-02-07,Houston,@,Brigham Young,REG (Conf),W 77-66,,8,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,1,2,3,0,0,0,0,1,3,2.2,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+22,22,24,2026-02-10,Houston,@,Utah,REG (Conf),W 66-52,,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,4,4,0,1,0,0,0,0,-1.3,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+23,23,25,2026-02-14,Houston,,Kansas State,REG (Conf),W 78-64,,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,1,2,0.5,0,6,6,0,1,1,1,2,3,1.2,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+24,24,26,2026-02-16,Houston,@,Iowa State,REG (Conf),L 67-70,,16,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,0,0,0,0,0,1,0,0,3,-0.1,A,0,1,isiah-harwell-1,Isiah Harwell,2026
+25,25,27,2026-02-21,Houston,,Arizona,REG (Conf),L 66-73,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,2,2,0,0,0,1,4,3,0.0,H,0,1,isiah-harwell-1,Isiah Harwell,2026
+26,26,28,2026-02-23,Houston,@,Kansas,REG (Conf),L 56-69,,5,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.9,A,0,1,isiah-harwell-1,Isiah Harwell,2026
+27,27,29,2026-02-28,Houston,,Colorado,REG (Conf),W 102-62,,5,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,1,1,0,0,-1.1,H,1,1,isiah-harwell-1,Isiah Harwell,2026
+28,28,31,2026-03-07,Houston,@,Oklahoma State,REG (Conf),W 82-75,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,isiah-harwell-1,Isiah Harwell,2026
+29,29,32,2026-03-12,Houston,N,Brigham Young,CTOURN,W 73-66,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,isiah-harwell-1,Isiah Harwell,2026
+30,30,33,2026-03-13,Houston,N,Kansas,CTOURN,W 69-47,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,0,isiah-harwell-1,Isiah Harwell,2026

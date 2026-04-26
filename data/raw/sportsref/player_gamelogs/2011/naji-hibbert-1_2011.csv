@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2010-11-12,Texas A&M,,Alcorn State,REG (Non-Conf),W 88-56,,21,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,4,0.5,0,3,3,1,0,0,2,3,10,3.9,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+2,36,2,2010-11-15,Texas A&M,@,Texas A&M–Corpus Christi,REG (Non-Conf),W 86-65,,17,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,1,0.0,0,0,0,0,0,0,1,2,12,6.9,A,1,1,naji-hibbert-1,Naji Hibbert,2011
+3,37,3,2010-11-19,Texas A&M,,Tex. A&M Int'l,REG (Non-Conf),W 77-46,,22,3,7,0.429,2,5,0.4,1,2,0.5,0.571,4,4,1.0,0,1,1,2,0,0,2,0,12,8.0,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+4,38,4,2010-11-25,Texas A&M,N,Boston College,REG (Non-Conf),L 65-67,,20,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,1,1,2,1,1,0,1,2,0,-2.6,N,0,1,naji-hibbert-1,Naji Hibbert,2011
+5,39,5,2010-11-26,Texas A&M,N,Manhattan,REG (Non-Conf),W 74-45,,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,4,5,1,0,0,3,2,4,0.4,N,1,1,naji-hibbert-1,Naji Hibbert,2011
+6,40,6,2010-11-28,Texas A&M,N,Temple,REG (Non-Conf),W 54-51,,26,4,7,0.571,1,4,0.25,3,3,1.0,0.643,3,4,0.75,1,6,7,1,0,0,1,3,12,9.3,N,1,1,naji-hibbert-1,Naji Hibbert,2011
+7,41,7,2010-12-02,Texas A&M,,Stephen F. Austin,REG (Non-Conf),W 62-53,,19,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,0,2,2,0,0,1,1,1,6,3.5,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+8,42,8,2010-12-04,Texas A&M,,Pacific,REG (Non-Conf),W 79-59,,18,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,4,0.25,0,1,1,1,1,0,2,2,1,-3.1,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+9,43,9,2010-12-08,Texas A&M,,Prairie View A&M,REG (Non-Conf),W 87-63,,23,4,6,0.667,4,6,0.667,0,0,,1.0,5,6,0.833,2,7,9,4,1,0,2,1,17,18.9,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+10,44,10,2010-12-11,Texas A&M,,Washington,REG (Non-Conf),W 63-62,,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,2,1,0,-1.1,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+11,45,11,2010-12-18,Texas A&M,N,Arkansas,REG (Non-Conf),W 71-62 (OT),,16,1,2,0.5,1,1,1.0,0,1,0.0,0.75,1,2,0.5,0,1,1,2,0,0,0,4,4,2.7,N,1,1,naji-hibbert-1,Naji Hibbert,2011
+12,46,12,2010-12-21,Texas A&M,,Wagner,REG (Non-Conf),W 86-51,,16,2,5,0.4,1,2,0.5,1,3,0.333,0.5,4,4,1.0,1,3,4,1,0,0,2,1,9,6.2,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+13,47,13,2010-12-31,Texas A&M,,McNeese State,REG (Non-Conf),W 66-57,,19,2,3,0.667,1,1,1.0,1,2,0.5,0.833,4,4,1.0,1,0,1,0,1,0,2,1,9,7.0,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+14,48,14,2011-01-03,Texas A&M,,Nicholls State,REG (Non-Conf),W 66-55,*,22,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,0,3,3,3,0,0,0,1,3,1.8,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+15,49,15,2011-01-08,Texas A&M,@,Oklahoma,REG (Conf),W 69-51,,25,6,9,0.667,0,2,0.0,6,7,0.857,0.667,2,3,0.667,0,3,3,1,1,0,0,1,14,11.9,A,1,1,naji-hibbert-1,Naji Hibbert,2011
+16,50,16,2011-01-12,Texas A&M,,Oklahoma State,REG (Conf),W 71-48,,22,0,2,0.0,0,2,0.0,0,0,,0.0,3,4,0.75,0,4,4,2,1,0,4,4,3,-0.8,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+17,51,17,2011-01-15,Texas A&M,,Missouri,REG (Conf),W 91-89 (OT),,18,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,2,0.0,0,0,0,0,0,0,0,1,3,0.8,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+18,52,18,2011-01-19,Texas A&M,@,Texas,REG (Conf),L 60-81,,22,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,1,1,0,0,0,0,4,7,3.0,A,0,1,naji-hibbert-1,Naji Hibbert,2011
+19,53,19,2011-01-22,Texas A&M,,Kansas State,REG (Conf),W 64-56,,21,3,5,0.6,3,3,1.0,0,2,0.0,0.9,0,0,,1,0,1,1,2,0,3,0,9,7.1,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+20,54,20,2011-01-29,Texas A&M,@,Nebraska,REG (Conf),L 48-57,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,2,3,1,0,0,0,1,0,0.2,A,0,1,naji-hibbert-1,Naji Hibbert,2011
+21,55,21,2011-01-31,Texas A&M,,Texas,REG (Conf),L 49-69,,18,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,0,0,1,1,0,1,0,2,1.3,H,0,1,naji-hibbert-1,Naji Hibbert,2011
+22,56,22,2011-02-05,Texas A&M,,Baylor,REG (Conf),L 74-76 (OT),,33,1,7,0.143,0,5,0.0,1,2,0.5,0.143,2,2,1.0,1,2,3,2,4,0,2,2,4,3.4,H,0,1,naji-hibbert-1,Naji Hibbert,2011
+23,57,23,2011-02-09,Texas A&M,@,Colorado,REG (Conf),W 73-70 (OT),,20,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,1,1,1,1,0,0,0,4,2.6,A,1,1,naji-hibbert-1,Naji Hibbert,2011
+24,58,24,2011-02-12,Texas A&M,@,Texas Tech,REG (Conf),W 70-67,,22,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,1,1,2,1,0,0,2,2,4,0.2,A,1,1,naji-hibbert-1,Naji Hibbert,2011
+25,59,25,2011-02-16,Texas A&M,,Iowa State,REG (Conf),W 71-66,,13,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,2,2,1,0,0,1,1,0,-2.9,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+26,60,26,2011-02-19,Texas A&M,@,Oklahoma State,REG (Conf),W 67-66,,21,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,4,4,4,1,0,0,2,0,3.5,A,1,1,naji-hibbert-1,Naji Hibbert,2011
+27,61,27,2011-02-23,Texas A&M,,Oklahoma,REG (Conf),W 61-47,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,2,0,0,2,1,0,-1.1,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+28,62,28,2011-02-26,Texas A&M,@,Baylor,REG (Conf),L 51-58,,26,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,1,1,1,1,1,1,5,8,4.0,A,0,1,naji-hibbert-1,Naji Hibbert,2011
+29,63,29,2011-03-02,Texas A&M,@,Kansas,REG (Conf),L 51-64,,20,0,4,0.0,0,2,0.0,0,2,0.0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-2.2,A,0,1,naji-hibbert-1,Naji Hibbert,2011
+30,64,30,2011-03-05,Texas A&M,,Texas Tech,REG (Conf),W 66-54,,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,6,0.667,1,0,1,0,0,0,1,1,6,2.1,H,1,1,naji-hibbert-1,Naji Hibbert,2011
+31,65,31,2011-03-10,Texas A&M,N,Missouri,CTOURN,W 86-71,,21,0,1,0.0,0,1,0.0,0,0,,0.0,4,8,0.5,1,3,4,3,1,0,2,3,4,3.2,N,1,0,naji-hibbert-1,Naji Hibbert,2011
+32,66,32,2011-03-11,Texas A&M,N,Texas,CTOURN,L 58-70,,21,1,2,0.5,0,0,,1,2,0.5,0.5,3,3,1.0,0,1,1,0,3,0,0,0,5,7.3,N,0,0,naji-hibbert-1,Naji Hibbert,2011
+33,67,33,2011-03-18,Texas A&M,N,Florida State,ROUND-64,L 50-57,,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,3,0,0,0,1,0,0.9,N,0,0,naji-hibbert-1,Naji Hibbert,2011

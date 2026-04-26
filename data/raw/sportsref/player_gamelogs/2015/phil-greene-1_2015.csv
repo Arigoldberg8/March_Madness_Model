@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,98,1,2014-11-14,St. John's (NY),,NJIT,REG (Non-Conf),W 77-58,*,25,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,2,1.0,0,3,3,0,0,0,1,2,6,-0.4,H,1,1,phil-greene-1,Phil Greene,2015
+2,99,2,2014-11-17,St. John's (NY),,Franklin Pierce,REG (Non-Conf),W 94-81,*,36,6,11,0.545,0,1,0.0,6,10,0.6,0.545,6,7,0.857,0,1,1,2,2,0,2,2,18,13.2,H,1,1,phil-greene-1,Phil Greene,2015
+3,100,3,2014-11-19,St. John's (NY),,LIU Brooklyn,REG (Non-Conf),W 66-53,*,27,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,0,4,4,1,1,0,2,0,4,0.8,H,1,1,phil-greene-1,Phil Greene,2015
+4,101,4,2014-11-26,St. John's (NY),,Minnesota,REG (Non-Conf),W 70-61,*,34,4,9,0.444,0,1,0.0,4,8,0.5,0.444,1,2,0.5,0,5,5,0,0,0,2,2,9,2.6,H,1,1,phil-greene-1,Phil Greene,2015
+5,102,5,2014-11-28,St. John's (NY),,Gonzaga,REG (Non-Conf),L 66-73,*,31,8,16,0.5,4,9,0.444,4,7,0.571,0.625,0,0,,1,3,4,1,1,0,1,2,20,13.5,H,0,1,phil-greene-1,Phil Greene,2015
+6,103,6,2014-12-02,St. John's (NY),,Niagara,REG (Non-Conf),W 70-57,*,24,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,1,4,5,0,0,0,1,0,7,3.5,H,1,1,phil-greene-1,Phil Greene,2015
+7,104,7,2014-12-06,St. John's (NY),@,Syracuse,REG (Non-Conf),W 69-57,*,32,6,16,0.375,4,8,0.5,2,8,0.25,0.5,2,2,1.0,0,2,2,2,2,0,0,3,18,12.0,A,1,1,phil-greene-1,Phil Greene,2015
+8,105,8,2014-12-10,St. John's (NY),,Fairleigh Dickinson,REG (Non-Conf),W 74-52,*,36,7,15,0.467,2,4,0.5,5,11,0.455,0.533,0,0,,0,3,3,4,2,1,2,0,16,12.7,H,1,1,phil-greene-1,Phil Greene,2015
+9,106,9,2014-12-14,St. John's (NY),,Fordham,REG (Non-Conf),W 74-53,*,32,3,12,0.25,0,3,0.0,3,9,0.333,0.25,1,2,0.5,0,2,2,0,2,0,0,0,7,2.0,H,1,1,phil-greene-1,Phil Greene,2015
+10,107,10,2014-12-19,St. John's (NY),,St. Mary's (CA),REG (Non-Conf),W 53-47,*,35,1,9,0.111,1,4,0.25,0,5,0.0,0.167,2,2,1.0,1,3,4,2,0,0,0,1,5,1.7,H,1,1,phil-greene-1,Phil Greene,2015
+11,108,11,2014-12-22,St. John's (NY),,Long Beach State,REG (Non-Conf),W 66-49,*,37,7,18,0.389,2,8,0.25,5,10,0.5,0.444,0,0,,0,2,2,2,4,0,1,0,16,11.2,H,1,1,phil-greene-1,Phil Greene,2015
+12,109,12,2014-12-28,St. John's (NY),N,Tulane,REG (Non-Conf),W 82-57,*,28,3,8,0.375,1,2,0.5,2,6,0.333,0.438,1,2,0.5,0,2,2,3,1,0,1,0,8,5.9,N,1,1,phil-greene-1,Phil Greene,2015
+13,110,13,2014-12-31,St. John's (NY),@,Seton Hall,REG (Conf),L 67-78,*,34,6,16,0.375,3,7,0.429,3,9,0.333,0.469,0,0,,0,1,1,0,1,0,1,1,15,6.1,A,0,1,phil-greene-1,Phil Greene,2015
+14,111,14,2015-01-03,St. John's (NY),,Butler,REG (Conf),L 69-73,*,37,6,10,0.6,2,5,0.4,4,5,0.8,0.7,0,0,,0,0,0,2,0,0,3,2,14,7.0,H,0,1,phil-greene-1,Phil Greene,2015
+15,112,15,2015-01-06,St. John's (NY),,Villanova,REG (Conf),L 72-90,*,37,6,14,0.429,2,7,0.286,4,7,0.571,0.5,0,0,,0,3,3,2,1,0,3,1,14,6.5,H,0,1,phil-greene-1,Phil Greene,2015
+16,113,16,2015-01-14,St. John's (NY),@,Providence,REG (Conf),W 83-70,*,38,7,13,0.538,5,8,0.625,2,5,0.4,0.731,1,2,0.5,1,3,4,2,1,0,0,1,20,16.9,A,1,1,phil-greene-1,Phil Greene,2015
+17,114,17,2015-01-18,St. John's (NY),@,DePaul,REG (Conf),L 67-71 (OT),*,43,5,13,0.385,1,4,0.25,4,9,0.444,0.423,6,6,1.0,1,4,5,1,3,0,3,0,17,12.5,A,0,1,phil-greene-1,Phil Greene,2015
+18,115,18,2015-01-21,St. John's (NY),,Marquette,REG (Conf),W 60-57,*,35,5,11,0.455,1,5,0.2,4,6,0.667,0.5,0,0,,0,2,2,1,2,0,2,1,11,6.2,H,1,1,phil-greene-1,Phil Greene,2015
+19,116,19,2015-01-25,St. John's (NY),,Duke,REG (Non-Conf),L 68-77,*,36,6,12,0.5,1,5,0.2,5,7,0.714,0.542,0,0,,0,2,2,0,0,0,0,2,13,6.8,H,0,1,phil-greene-1,Phil Greene,2015
+20,117,20,2015-01-28,St. John's (NY),@,Creighton,REG (Conf),L 74-77,*,38,4,10,0.4,2,3,0.667,2,7,0.286,0.5,0,2,0.0,1,5,6,5,0,0,1,1,10,8.1,A,0,1,phil-greene-1,Phil Greene,2015
+21,118,21,2015-01-31,St. John's (NY),,Providence,REG (Conf),W 75-66,*,37,6,13,0.462,1,4,0.25,5,9,0.556,0.5,3,4,0.75,0,5,5,3,2,0,0,1,16,14.1,H,1,1,phil-greene-1,Phil Greene,2015
+22,119,22,2015-02-03,St. John's (NY),@,Butler,REG (Conf),L 62-85,*,34,2,6,0.333,2,3,0.667,0,3,0.0,0.5,0,0,,1,3,4,0,0,0,1,2,6,2.4,A,0,1,phil-greene-1,Phil Greene,2015
+23,120,23,2015-02-07,St. John's (NY),,Creighton,REG (Conf),W 84-66,*,37,6,10,0.6,1,2,0.5,5,8,0.625,0.65,0,0,,0,2,2,3,1,0,0,0,13,12.1,H,1,1,phil-greene-1,Phil Greene,2015
+24,121,24,2015-02-11,St. John's (NY),,DePaul,REG (Conf),W 86-78,*,38,7,12,0.583,1,2,0.5,6,10,0.6,0.625,3,4,0.75,3,2,5,4,1,0,1,0,18,17.5,H,1,1,phil-greene-1,Phil Greene,2015
+25,122,25,2015-02-14,St. John's (NY),@,Xavier,REG (Conf),W 78-70,*,39,6,14,0.429,3,8,0.375,3,6,0.5,0.536,0,0,,0,0,0,1,0,0,0,2,15,7.5,A,1,1,phil-greene-1,Phil Greene,2015
+26,123,26,2015-02-17,St. John's (NY),@,Georgetown,REG (Conf),L 57-79,*,31,6,14,0.429,4,8,0.5,2,6,0.333,0.571,2,3,0.667,0,2,2,1,0,0,1,1,18,10.1,A,0,1,phil-greene-1,Phil Greene,2015
+27,124,27,2015-02-21,St. John's (NY),,Seton Hall,REG (Conf),W 85-72,*,36,7,13,0.538,4,8,0.5,3,5,0.6,0.692,2,3,0.667,0,1,1,4,1,0,2,0,20,15.4,H,1,1,phil-greene-1,Phil Greene,2015
+28,125,28,2015-02-23,St. John's (NY),,Xavier,REG (Conf),W 58-57,*,36,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,2,2,4,0,0,0,0,0,5,2.2,H,1,1,phil-greene-1,Phil Greene,2015
+29,126,29,2015-02-28,St. John's (NY),,Georgetown,REG (Conf),W 81-70,*,40,9,15,0.6,6,7,0.857,3,8,0.375,0.8,2,4,0.5,1,6,7,2,1,0,1,1,26,21.8,H,1,1,phil-greene-1,Phil Greene,2015
+30,127,30,2015-03-04,St. John's (NY),@,Marquette,REG (Conf),W 67-51,*,40,4,13,0.308,3,7,0.429,1,6,0.167,0.423,0,1,0.0,2,6,8,2,0,0,2,0,11,5.7,A,1,1,phil-greene-1,Phil Greene,2015
+31,128,31,2015-03-07,St. John's (NY),@,Villanova,REG (Conf),L 68-105,*,31,5,10,0.5,2,4,0.5,3,6,0.5,0.6,4,4,1.0,1,1,2,1,0,0,1,0,16,11.7,A,0,1,phil-greene-1,Phil Greene,2015
+32,129,32,2015-03-12,St. John's (NY),N,Providence,CTOURN,L 57-74,*,37,3,9,0.333,2,7,0.286,1,2,0.5,0.444,1,2,0.5,0,2,2,1,0,0,0,0,9,4.8,N,0,0,phil-greene-1,Phil Greene,2015
+33,130,33,2015-03-20,St. John's (NY),N,San Diego State,ROUND-64,L 64-76,*,39,4,11,0.364,1,4,0.25,3,7,0.429,0.409,0,0,,0,4,4,1,1,0,1,3,9,3.6,N,0,0,phil-greene-1,Phil Greene,2015

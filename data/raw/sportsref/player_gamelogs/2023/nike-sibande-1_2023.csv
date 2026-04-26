@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,112,1,2022-11-07,Pittsburgh,,UT Martin,REG (Non-Conf),W 80-58,,16,2,8,0.25,2,5,0.4,0,3,0.0,0.375,0,0,,2,4,6,3,0,2,1,3,6,5.1,H,1,1,nike-sibande-1,Nike Sibande,2023
+2,113,2,2022-11-11,Pittsburgh,,West Virginia,REG (Non-Conf),L 56-81,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.8,H,0,1,nike-sibande-1,Nike Sibande,2023
+3,114,3,2022-11-16,Pittsburgh,N,Michigan,REG (Non-Conf),L 60-91,,19,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,1,0.0,0,2,2,0,0,0,2,0,0,-3.9,N,0,1,nike-sibande-1,Nike Sibande,2023
+4,115,4,2022-11-17,Pittsburgh,N,VCU,REG (Non-Conf),L 67-71,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,N,0,1,nike-sibande-1,Nike Sibande,2023
+5,116,5,2022-11-20,Pittsburgh,,Alabama State,REG (Non-Conf),W 73-54,,29,5,14,0.357,2,6,0.333,3,8,0.375,0.429,5,5,1.0,0,4,4,3,1,0,3,1,17,10.1,H,1,1,nike-sibande-1,Nike Sibande,2023
+6,117,6,2022-11-22,Pittsburgh,,Fairleigh Dickinson,REG (Non-Conf),W 83-61,,20,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,9,9,3,1,0,3,2,3,3.3,H,1,1,nike-sibande-1,Nike Sibande,2023
+7,118,7,2022-11-25,Pittsburgh,,William & Mary,REG (Non-Conf),W 80-64,,28,6,15,0.4,2,8,0.25,4,7,0.571,0.467,1,2,0.5,3,6,9,4,2,1,2,2,15,13.1,H,1,1,nike-sibande-1,Nike Sibande,2023
+8,119,8,2022-11-28,Pittsburgh,@,Northwestern,REG (Non-Conf),W 87-58,,24,3,7,0.429,3,6,0.5,0,1,0.0,0.643,2,2,1.0,0,4,4,4,1,0,0,1,11,11.9,A,1,1,nike-sibande-1,Nike Sibande,2023
+9,120,9,2022-12-02,Pittsburgh,@,NC State,REG (Conf),W 68-60,,23,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,0,3,3,1,0,0,0,2,10,6.1,A,1,1,nike-sibande-1,Nike Sibande,2023
+10,121,10,2022-12-07,Pittsburgh,@,Vanderbilt,REG (Non-Conf),L 74-75,,18,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,A,0,1,nike-sibande-1,Nike Sibande,2023
+11,122,11,2022-12-10,Pittsburgh,,Sacred Heart,REG (Non-Conf),W 91-66,*,25,2,7,0.286,0,5,0.0,2,2,1.0,0.286,2,3,0.667,0,3,3,0,0,1,2,2,6,0.3,H,1,1,nike-sibande-1,Nike Sibande,2023
+12,123,12,2022-12-17,Pittsburgh,,North Florida,REG (Non-Conf),W 82-56,,27,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,0,4,4,4,0,0,0,1,6,6.2,H,1,1,nike-sibande-1,Nike Sibande,2023
+13,124,13,2022-12-20,Pittsburgh,@,Syracuse,REG (Conf),W 84-82,,6,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,0,1,0,0.5,A,1,1,nike-sibande-1,Nike Sibande,2023
+14,125,14,2022-12-30,Pittsburgh,,North Carolina,REG (Conf),W 76-74,,24,2,6,0.333,0,3,0.0,2,3,0.667,0.333,3,3,1.0,0,3,3,3,1,0,0,1,7,7.2,H,1,1,nike-sibande-1,Nike Sibande,2023
+15,126,15,2023-01-03,Pittsburgh,,Virginia,REG (Conf),W 68-65,,27,5,8,0.625,3,4,0.75,2,4,0.5,0.813,3,4,0.75,1,5,6,1,0,1,2,1,16,13.2,H,1,1,nike-sibande-1,Nike Sibande,2023
+16,127,16,2023-01-07,Pittsburgh,,Clemson,REG (Conf),L 74-75,,19,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,2,3,0,0,0,0,0,3,1.9,H,0,1,nike-sibande-1,Nike Sibande,2023
+17,128,17,2023-01-11,Pittsburgh,@,Duke,REG (Conf),L 69-77,,26,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,2,1.0,1,5,6,1,1,0,1,0,11,9.9,A,0,1,nike-sibande-1,Nike Sibande,2023
+18,129,18,2023-01-14,Pittsburgh,@,Georgia Tech,REG (Conf),W 71-60,,35,7,12,0.583,3,6,0.5,4,6,0.667,0.708,4,4,1.0,0,6,6,0,0,0,1,0,21,16.2,A,1,1,nike-sibande-1,Nike Sibande,2023
+19,130,19,2023-01-18,Pittsburgh,@,Louisville,REG (Conf),W 75-54,,22,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,3,3,3,0,1,2,3,12,9.9,A,1,1,nike-sibande-1,Nike Sibande,2023
+20,131,20,2023-01-21,Pittsburgh,,Florida State,REG (Conf),L 64-71,,14,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,2,1.0,0,0,0,0,1,0,2,2,4,-1.6,H,0,1,nike-sibande-1,Nike Sibande,2023
+21,132,21,2023-01-25,Pittsburgh,,Wake Forest,REG (Conf),W 81-79,,28,3,8,0.375,1,5,0.2,2,3,0.667,0.438,4,4,1.0,0,4,4,2,1,0,1,3,11,8.0,H,1,1,nike-sibande-1,Nike Sibande,2023
+22,133,22,2023-01-28,Pittsburgh,,Miami (FL),REG (Conf),W 71-68,,14,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,0,0,1,0,0,0,-0.1,H,1,1,nike-sibande-1,Nike Sibande,2023
+23,134,23,2023-02-01,Pittsburgh,@,North Carolina,REG (Conf),W 65-64,,29,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,3,0.667,2,5,7,0,1,0,0,0,10,10.2,A,1,1,nike-sibande-1,Nike Sibande,2023
+24,135,24,2023-02-07,Pittsburgh,,Louisville,REG (Conf),W 91-57,,23,5,10,0.5,4,7,0.571,1,3,0.333,0.7,1,2,0.5,1,4,5,1,1,1,0,0,15,13.9,H,1,1,nike-sibande-1,Nike Sibande,2023
+25,136,25,2023-02-11,Pittsburgh,@,Florida State,REG (Conf),W 83-75,,25,4,8,0.5,2,5,0.4,2,3,0.667,0.625,2,2,1.0,1,3,4,1,2,0,3,2,12,8.5,A,1,1,nike-sibande-1,Nike Sibande,2023
+26,137,26,2023-02-14,Pittsburgh,,Boston College,REG (Conf),W 77-58,,23,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,3,3,1,0,0,1,3,6,1.7,H,1,1,nike-sibande-1,Nike Sibande,2023
+27,138,27,2023-02-18,Pittsburgh,@,Virginia Tech,REG (Conf),L 72-79,,24,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,0,4,4,0,0,0,0,2,8,5.7,A,0,1,nike-sibande-1,Nike Sibande,2023
+28,139,28,2023-02-21,Pittsburgh,,Georgia Tech,REG (Conf),W 76-68,,30,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,4,4,0,0,0,0,2,2,1.4,H,1,1,nike-sibande-1,Nike Sibande,2023
+29,140,29,2023-02-25,Pittsburgh,,Syracuse,REG (Conf),W 99-82,*,17,4,9,0.444,2,5,0.4,2,4,0.5,0.556,0,0,,1,0,1,1,0,0,0,2,10,5.9,H,1,1,nike-sibande-1,Nike Sibande,2023
+30,141,30,2023-03-01,Pittsburgh,@,Notre Dame,REG (Conf),L 81-88,,32,5,9,0.556,2,4,0.5,3,5,0.6,0.667,7,11,0.636,0,4,4,2,4,0,3,4,19,15.1,A,0,1,nike-sibande-1,Nike Sibande,2023
+31,142,31,2023-03-04,Pittsburgh,@,Miami (FL),REG (Conf),L 76-78,,28,6,13,0.462,1,6,0.167,5,7,0.714,0.5,3,4,0.75,1,4,5,2,1,0,0,3,16,12.0,A,0,1,nike-sibande-1,Nike Sibande,2023
+32,143,32,2023-03-08,Pittsburgh,N,Georgia Tech,CTOURN,W 89-81,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,1,2,0,0,0,0,0,5,3.6,N,1,0,nike-sibande-1,Nike Sibande,2023
+33,144,33,2023-03-09,Pittsburgh,N,Duke,CTOURN,L 69-96,,27,6,11,0.545,3,5,0.6,3,6,0.5,0.682,2,3,0.667,3,4,7,1,0,0,1,1,17,13.9,N,0,0,nike-sibande-1,Nike Sibande,2023
+34,145,34,2023-03-14,Pittsburgh,N,Mississippi State,FIRST-FOUR,W 60-59,,23,4,9,0.444,2,3,0.667,2,6,0.333,0.556,1,2,0.5,0,5,5,1,0,0,3,1,11,4.7,N,1,0,nike-sibande-1,Nike Sibande,2023
+35,146,35,2023-03-17,Pittsburgh,N,Iowa State,ROUND-64,W 59-41,,22,2,3,0.667,2,3,0.667,0,0,,1.0,2,3,0.667,1,4,5,0,0,0,0,0,8,8.2,N,1,0,nike-sibande-1,Nike Sibande,2023
+36,147,36,2023-03-19,Pittsburgh,N,Xavier,ROUND-32,L 73-84,,25,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,2,0.0,0,9,9,1,0,0,2,1,6,1.1,N,0,0,nike-sibande-1,Nike Sibande,2023

@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Wisconsin,,Western Illinois,REG (Non-Conf),L 67-69,,14,2,7,0.286,0,0,,2,7,0.286,0.286,0,3,0.0,5,0,5,0,0,1,1,2,4,1.1,H,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+2,2,2,2015-11-15,Wisconsin,,Siena,REG (Non-Conf),W 92-65,,16,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,1,4,5,0,0,1,0,3,7,6.7,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+3,3,3,2015-11-17,Wisconsin,,North Dakota,REG (Non-Conf),W 78-64,,10,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,5,0.4,2,1,3,0,1,0,0,1,2,0.3,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+4,4,4,2015-11-20,Wisconsin,N,Georgetown,REG (Non-Conf),L 61-71,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+5,5,5,2015-11-22,Wisconsin,N,VCU,REG (Non-Conf),W 74-73,,26,4,8,0.5,1,1,1.0,3,7,0.429,0.563,0,0,,0,5,5,1,0,3,1,4,9,6.7,N,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+6,6,6,2015-11-25,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 85-67,,15,4,4,1.0,0,0,,4,4,1.0,1.0,4,6,0.667,3,3,6,1,1,1,0,2,12,14.6,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+7,7,7,2015-11-29,Wisconsin,@,Oklahoma,REG (Non-Conf),L 48-65,,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,2,3,0,1,0,0,2,0,0.1,A,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+8,8,8,2015-12-02,Wisconsin,@,Syracuse,REG (Non-Conf),W 66-58 (OT),,10,0,4,0.0,0,0,,0,4,0.0,0.0,1,2,0.5,1,1,2,0,0,0,1,0,1,-2.2,A,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+9,9,9,2015-12-05,Wisconsin,,Temple,REG (Non-Conf),W 76-60,,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,4,0.5,1,5,6,0,0,0,0,1,9,7.7,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+10,10,10,2015-12-09,Wisconsin,,Milwaukee,REG (Non-Conf),L 67-68,,8,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,0,1,0,0,0,0,1,4,2.3,H,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+11,11,11,2015-12-12,Wisconsin,,Marquette,REG (Non-Conf),L 55-57,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,1,0.0,0,1,1,0,0,0,0,2,0,-2.3,H,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+12,12,12,2015-12-15,Wisconsin,,Texas A&M–Corpus Christi,REG (Non-Conf),W 64-49,,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,4,5,0,1,0,0,2,4,5.1,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+13,13,13,2015-12-23,Wisconsin,,Green Bay,REG (Non-Conf),W 84-79,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,0,1,0,0.2,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+14,14,14,2015-12-29,Wisconsin,,Purdue,REG (Conf),L 55-61,,15,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,0,1,2,0,2,3,1.8,H,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+15,15,15,2016-01-02,Wisconsin,,Rutgers,REG (Conf),W 79-57,,7,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+16,16,17,2016-01-09,Wisconsin,,Maryland,REG (Conf),L 60-63,,7,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,0,0,0,0,0,0,0,2,0,-3.0,H,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+17,17,19,2016-01-17,Wisconsin,,Michigan State,REG (Conf),W 77-76,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+18,18,20,2016-01-21,Wisconsin,@,Penn State,REG (Conf),W 66-60,,9,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,0,0,0,1,0,1,0,4,3.0,A,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+19,19,21,2016-01-26,Wisconsin,,Indiana,REG (Conf),W 82-79 (OT),,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+20,20,23,2016-02-04,Wisconsin,,Ohio State,REG (Conf),W 79-68,,2,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+21,21,24,2016-02-10,Wisconsin,,Nebraska,REG (Conf),W 72-61,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+22,22,25,2016-02-13,Wisconsin,@,Maryland,REG (Conf),W 70-57,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,0,0,0,0,2,2,1.1,A,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+23,23,26,2016-02-18,Wisconsin,@,Michigan State,REG (Conf),L 57-69,,7,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,1,0,1,0,1.0,A,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+24,24,28,2016-02-24,Wisconsin,@,Iowa,REG (Conf),W 67-59,,7,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,2,1,3,0,0,1,0,1,5,5.7,A,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+25,25,29,2016-02-28,Wisconsin,,Michigan,REG (Conf),W 68-57,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+26,26,30,2016-03-02,Wisconsin,@,Minnesota,REG (Conf),W 62-49,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,1,0,0,0,0.3,A,1,1,charles-thomasiv-1,Charles Thomas IV,2016
+27,27,31,2016-03-06,Wisconsin,@,Purdue,REG (Conf),L 80-91,,6,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,A,0,1,charles-thomasiv-1,Charles Thomas IV,2016
+28,28,32,2016-03-10,Wisconsin,N,Nebraska,CTOURN,L 58-70,,4,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,0,0,2,1.7,N,0,0,charles-thomasiv-1,Charles Thomas IV,2016
+29,29,33,2016-03-18,Wisconsin,N,Pittsburgh,ROUND-64,W 47-43,,4,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,1,2,0,0,0,0,0,2,2.0,N,1,0,charles-thomasiv-1,Charles Thomas IV,2016
+30,30,34,2016-03-20,Wisconsin,N,Xavier,ROUND-32,W 66-63,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,0,1,0,1,0,0.5,N,1,0,charles-thomasiv-1,Charles Thomas IV,2016
+31,31,35,2016-03-25,Wisconsin,N,Notre Dame,ROUND-16,L 56-61,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,0,0,charles-thomasiv-1,Charles Thomas IV,2016

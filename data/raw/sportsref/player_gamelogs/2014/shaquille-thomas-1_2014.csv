@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2013-11-08,Cincinnati,,North Carolina Central,REG (Non-Conf),W 74-61,*,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,3,5,0,0,0,3,2,2,-0.5,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+2,35,2,2013-11-12,Cincinnati,,NC State,REG (Non-Conf),W 68-57,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,2,3,0.667,2,0,2,0,1,1,1,2,6,4.9,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+3,36,3,2013-11-16,Cincinnati,,Appalachian State,REG (Non-Conf),W 77-49,*,27,3,9,0.333,0,0,,3,9,0.333,0.333,4,4,1.0,4,3,7,2,1,1,1,0,10,10.7,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+4,37,4,2013-11-20,Cincinnati,,Campbell,REG (Non-Conf),W 81-62,*,27,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,1,1,2,2,1,0,3,0,8,4.7,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+5,38,5,2013-11-26,Cincinnati,,UMass Lowell,REG (Non-Conf),W 79-49,*,24,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,2,0.5,1,3,4,5,2,0,0,1,7,9.6,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+6,39,6,2013-11-29,Cincinnati,,Kennesaw State,REG (Non-Conf),W 95-67,*,21,5,7,0.714,1,1,1.0,4,6,0.667,0.786,0,0,,0,2,2,2,2,0,0,1,11,11.7,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+7,40,7,2013-12-03,Cincinnati,,USC Upstate,REG (Non-Conf),W 86-50,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,1,1,2,0,3,0,0,2,4,4.8,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+8,41,8,2013-12-07,Cincinnati,@,New Mexico,REG (Non-Conf),L 54-63,*,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,1,1,1,1,2,0,-0.2,A,0,1,shaquille-thomas-1,Shaq Thomas,2014
+9,42,9,2013-12-14,Cincinnati,N,Xavier,REG (Non-Conf),L 47-64,*,35,5,8,0.625,2,3,0.667,3,5,0.6,0.75,1,4,0.25,1,0,1,1,1,1,1,1,13,9.9,N,0,1,shaquille-thomas-1,Shaq Thomas,2014
+10,43,10,2013-12-17,Cincinnati,N,Pittsburgh,REG (Non-Conf),W 44-43,*,20,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,1,2,0,0,0,1,2,0,-3.6,N,1,1,shaquille-thomas-1,Shaq Thomas,2014
+11,44,11,2013-12-21,Cincinnati,,Middle Tennessee,REG (Non-Conf),W 69-48,*,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,3,1.0,1,2,3,0,1,0,3,2,7,2.8,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+12,45,12,2013-12-23,Cincinnati,,Chicago State,REG (Non-Conf),W 102-62,*,20,4,8,0.5,0,2,0.0,4,6,0.667,0.5,6,7,0.857,0,1,1,2,1,0,0,1,14,11.9,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+13,46,13,2013-12-28,Cincinnati,,Nebraska,REG (Non-Conf),W 74-59,*,17,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,0,2,2,0,0,0,0,1,3,0.4,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+14,47,14,2014-01-01,Cincinnati,,SMU,REG (Conf),W 65-57,*,27,2,4,0.5,0,0,,2,4,0.5,0.5,6,8,0.75,0,1,1,0,0,0,1,1,10,6.1,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+15,48,15,2014-01-04,Cincinnati,@,Memphis,REG (Conf),W 69-53,*,30,4,9,0.444,1,1,1.0,3,8,0.375,0.5,1,3,0.333,3,1,4,0,3,1,0,2,10,9.8,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+16,49,16,2014-01-07,Cincinnati,@,Houston,REG (Conf),W 61-60,*,22,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,3,4,1,0,0,2,3,0,-4.4,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+17,50,17,2014-01-11,Cincinnati,,Rutgers,REG (Conf),W 71-51,*,28,2,7,0.286,1,2,0.5,1,5,0.2,0.357,6,6,1.0,0,3,3,0,2,0,0,0,11,9.8,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+18,51,18,2014-01-14,Cincinnati,,Temple,REG (Conf),W 69-58,*,24,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,2,4,3,0,0,1,2,4,5.0,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+19,52,19,2014-01-18,Cincinnati,@,South Florida,REG (Conf),W 61-54,*,23,3,4,0.75,0,0,,3,4,0.75,0.75,4,4,1.0,1,2,3,0,1,0,2,3,10,7.5,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+20,53,20,2014-01-23,Cincinnati,,UCF,REG (Conf),W 69-51,*,17,2,6,0.333,0,0,,2,6,0.333,0.333,2,4,0.5,3,2,5,5,1,0,2,3,6,5.8,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+21,54,21,2014-01-26,Cincinnati,@,Temple,REG (Conf),W 80-76,*,32,7,9,0.778,0,1,0.0,7,8,0.875,0.778,1,3,0.333,1,3,4,2,0,1,1,5,15,11.4,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+22,55,22,2014-01-30,Cincinnati,@,Louisville,REG (Conf),W 69-66,*,29,4,5,0.8,0,1,0.0,4,4,1.0,0.8,3,4,0.75,2,4,6,1,0,0,2,3,11,8.8,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+23,56,23,2014-02-02,Cincinnati,,South Florida,REG (Conf),W 50-45,*,23,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,1,1,2,0,1,0,0,0,2,0.2,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+24,57,24,2014-02-06,Cincinnati,,Connecticut,REG (Conf),W 63-58,*,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,0,0,0,0,1,4,2.6,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+25,58,25,2014-02-08,Cincinnati,@,SMU,REG (Conf),L 55-76,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,0,1,1,0,2,0,2,1,5,1.8,A,0,1,shaquille-thomas-1,Shaq Thomas,2014
+26,59,26,2014-02-15,Cincinnati,,Houston,REG (Conf),W 73-62,*,28,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,2,0.5,1,1,2,1,1,0,1,2,11,6.5,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+27,60,27,2014-02-19,Cincinnati,@,UCF,REG (Conf),W 77-49,*,24,4,8,0.5,0,0,,4,8,0.5,0.5,0,0,,1,1,2,1,0,1,2,3,8,3.2,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+28,61,28,2014-02-22,Cincinnati,,Louisville,REG (Conf),L 57-58,*,21,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,0,0,1,1,0,1,1,0,-2.5,H,0,1,shaquille-thomas-1,Shaq Thomas,2014
+29,62,29,2014-03-01,Cincinnati,@,Connecticut,REG (Conf),L 45-51,*,25,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,6,0.333,1,4,5,0,1,0,1,0,8,4.6,A,0,1,shaquille-thomas-1,Shaq Thomas,2014
+30,63,30,2014-03-06,Cincinnati,,Memphis,REG (Conf),W 97-84,*,22,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,1,2,0,0,1,0,2,4,1.5,H,1,1,shaquille-thomas-1,Shaq Thomas,2014
+31,64,31,2014-03-08,Cincinnati,@,Rutgers,REG (Conf),W 70-66,*,19,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,0,1,1,1,2,4,1.8,A,1,1,shaquille-thomas-1,Shaq Thomas,2014
+32,65,32,2014-03-13,Cincinnati,N,UCF,CTOURN,W 61-58,*,18,3,6,0.5,0,0,,3,6,0.5,0.5,2,4,0.5,1,1,2,0,0,0,1,1,8,3.8,N,1,0,shaquille-thomas-1,Shaq Thomas,2014
+33,66,33,2014-03-14,Cincinnati,N,Connecticut,CTOURN,L 56-58,*,24,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,4,1,5,2,0,1,1,1,8,8.5,N,0,0,shaquille-thomas-1,Shaq Thomas,2014
+34,67,34,2014-03-20,Cincinnati,N,Harvard,ROUND-64,L 57-61,*,21,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,1,1,0,1,2,1,2,8,6.3,N,0,0,shaquille-thomas-1,Shaq Thomas,2014

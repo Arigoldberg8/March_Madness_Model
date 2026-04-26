@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,70,1,2012-11-09,Michigan,,Slippery Rock,REG (Non-Conf),W 100-62,*,18,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,0,1,1,1,0,1,1,2,4,1.9,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+2,71,2,2012-11-12,Michigan,,IUPUI,REG (Non-Conf),W 91-54,*,27,5,6,0.833,0,0,5,6,0.833,0.833,0,0,,0,5,5,2,1,0,2,2,10,8.9,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+3,72,3,2012-11-13,Michigan,,Cleveland State,REG (Non-Conf),W 77-47,*,14,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,1,1,2,0,0,0,1,2,8,4.6,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+4,73,4,2012-11-21,Michigan,N,Pittsburgh,REG (Non-Conf),W 67-62,*,29,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,4,4,8,0,0,0,2,1,4,3.6,N,1,1,jordan-morgan-1,Jordan Morgan,2013
+5,74,5,2012-11-23,Michigan,N,Kansas State,REG (Non-Conf),W 71-57,*,6,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,0,4,0,-1.0,N,1,1,jordan-morgan-1,Jordan Morgan,2013
+6,75,6,2012-11-27,Michigan,,NC State,REG (Non-Conf),W 79-72,*,23,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,1,3,0,0,1,0,0,6,6.1,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+7,76,7,2012-12-01,Michigan,@,Bradley,REG (Non-Conf),W 74-66,*,25,3,5,0.6,0,0,3,5,0.6,0.6,4,6,0.667,4,6,10,2,1,0,2,1,10,11.5,A,1,1,jordan-morgan-1,Jordan Morgan,2013
+8,77,8,2012-12-04,Michigan,,Western Michigan,REG (Non-Conf),W 73-41,*,25,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,1,7,8,0,2,0,0,1,8,9.8,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+9,78,9,2012-12-08,Michigan,,Arkansas,REG (Non-Conf),W 80-67,*,23,5,9,0.556,0,0,5,9,0.556,0.556,2,2,1.0,6,4,10,0,1,0,3,2,12,10.3,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+10,79,10,2012-12-11,Michigan,,Binghamton,REG (Non-Conf),W 67-39,*,19,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,1,1,2,1,0,0,0,0,6,6.4,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+11,80,11,2012-12-15,Michigan,N,West Virginia,REG (Non-Conf),W 81-66,*,31,3,4,0.75,0,0,3,4,0.75,0.75,2,4,0.5,0,2,2,0,0,1,1,1,8,5.5,N,1,1,jordan-morgan-1,Jordan Morgan,2013
+12,81,12,2012-12-20,Michigan,,Eastern Michigan,REG (Non-Conf),W 93-54,*,15,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,3,3,6,0,2,0,2,2,8,7.9,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+13,82,13,2012-12-29,Michigan,,Central Michigan,REG (Non-Conf),W 88-73,*,26,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,1,1,2,0,2,0,0,0,8,7.0,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+14,83,14,2013-01-03,Michigan,@,Northwestern,REG (Conf),W 94-66,*,21,6,8,0.75,0,0,6,8,0.75,0.75,0,0,,5,8,13,0,0,0,3,1,12,11.3,A,1,1,jordan-morgan-1,Jordan Morgan,2013
+15,84,15,2013-01-06,Michigan,,Iowa,REG (Conf),W 95-67,*,14,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,0,2,2,1,0,0,1,4,4,0.6,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+16,85,16,2013-01-09,Michigan,,Nebraska,REG (Conf),W 62-47,*,23,0,1,0.0,0,0,0,1,0.0,0.0,0,1,0.0,3,8,11,0,0,0,1,1,0,2.0,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+17,86,17,2013-01-13,Michigan,@,Ohio State,REG (Conf),L 53-56,*,22,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,5,6,0,0,0,2,0,5,4.2,A,0,1,jordan-morgan-1,Jordan Morgan,2013
+18,87,18,2013-01-17,Michigan,@,Minnesota,REG (Conf),W 83-75,*,20,4,6,0.667,0,0,4,6,0.667,0.667,1,3,0.333,2,2,4,0,1,0,1,2,9,6.8,A,1,1,jordan-morgan-1,Jordan Morgan,2013
+19,88,19,2013-01-24,Michigan,,Purdue,REG (Conf),W 68-53,*,14,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,2,3,5,0,0,0,1,0,6,4.3,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+20,89,20,2013-01-27,Michigan,@,Illinois,REG (Conf),W 74-60,*,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,jordan-morgan-1,Jordan Morgan,2013
+21,90,22,2013-02-02,Michigan,@,Indiana,REG (Conf),L 73-81,,2,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,jordan-morgan-1,Jordan Morgan,2013
+22,91,23,2013-02-05,Michigan,,Ohio State,REG (Conf),W 76-74 (OT),,4,0,0,,0,0,0,0,,,0,0,,1,1,2,1,0,0,1,0,0,0.7,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+23,92,25,2013-02-12,Michigan,@,Michigan State,REG (Conf),L 52-75,,9,0,0,,0,0,0,0,,,1,2,0.5,0,2,2,0,0,0,2,1,1,-1.2,A,0,1,jordan-morgan-1,Jordan Morgan,2013
+24,93,26,2013-02-17,Michigan,,Penn State,REG (Conf),W 79-71,*,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,1,0,0,1,3,0,-1.2,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+25,94,27,2013-02-24,Michigan,,Illinois,REG (Conf),W 71-58,,17,0,0,,0,0,0,0,,,1,2,0.5,3,3,6,2,1,0,1,2,1,4.2,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+26,95,28,2013-02-27,Michigan,@,Penn State,REG (Conf),L 78-84,*,24,5,6,0.833,0,0,5,6,0.833,0.833,1,4,0.25,3,2,5,0,0,0,0,3,11,9.1,A,0,1,jordan-morgan-1,Jordan Morgan,2013
+27,96,29,2013-03-03,Michigan,,Michigan State,REG (Conf),W 58-57,*,24,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,4,7,0,3,0,0,5,4,6.3,H,1,1,jordan-morgan-1,Jordan Morgan,2013
+28,97,30,2013-03-06,Michigan,@,Purdue,REG (Conf),W 80-75,*,22,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,2,2,4,1,1,0,0,1,2,4.6,A,1,1,jordan-morgan-1,Jordan Morgan,2013
+29,98,31,2013-03-10,Michigan,,Indiana,REG (Conf),L 71-72,*,24,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,6,2,8,0,0,0,0,3,8,6.9,H,0,1,jordan-morgan-1,Jordan Morgan,2013
+30,99,32,2013-03-14,Michigan,N,Penn State,CTOURN,W 83-66,*,10,2,6,0.333,0,0,2,6,0.333,0.333,0,1,0.0,1,1,2,0,0,0,0,3,4,0.0,N,1,0,jordan-morgan-1,Jordan Morgan,2013
+31,100,33,2013-03-15,Michigan,N,Wisconsin,CTOURN,L 59-68,*,8,0,0,,0,0,0,0,,,0,0,,2,2,4,0,0,0,3,2,0,-1.8,N,0,0,jordan-morgan-1,Jordan Morgan,2013
+32,101,34,2013-03-21,Michigan,N,South Dakota State,ROUND-64,W 71-56,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,jordan-morgan-1,Jordan Morgan,2013
+33,102,36,2013-03-29,Michigan,N,Kansas,ROUND-16,W 87-85 (OT),,5,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,1,2,3,0,0,0,0,0,2,1.8,N,1,0,jordan-morgan-1,Jordan Morgan,2013
+34,103,37,2013-03-31,Michigan,N,Florida,ROUND-8,W 79-59,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,3,5,1,0,0,0,1,0,1.9,N,1,0,jordan-morgan-1,Jordan Morgan,2013
+35,104,38,2013-04-06,Michigan,N,Syracuse,NATIONAL-SEMI,W 61-56,,5,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,0,0,0,0,0,1,0,3,1.3,N,1,0,jordan-morgan-1,Jordan Morgan,2013
+36,105,39,2013-04-08,Michigan,N,Louisville,NATIONAL-FINAL,L 76-82,,8,0,2,0.0,0,0,0,2,0.0,0.0,2,2,1.0,1,0,1,0,0,0,0,0,2,1.3,N,0,0,jordan-morgan-1,Jordan Morgan,2013

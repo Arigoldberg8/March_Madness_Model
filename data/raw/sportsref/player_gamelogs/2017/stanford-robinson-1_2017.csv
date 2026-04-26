@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,65,1,2016-11-11,Rhode Island,,Dartmouth,REG (Non-Conf),W 84-61,,19,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,4,0.25,1,3,4,4,4,0,0,3,7,10.0,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+2,66,2,2016-11-14,Rhode Island,,Marist,REG (Non-Conf),W 107-65,,19,3,7,0.429,2,3,0.667,1,4,0.25,0.571,3,4,0.75,0,0,0,1,0,0,2,2,11,4.8,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+3,67,3,2016-11-16,Rhode Island,,Brown,REG (Non-Conf),W 79-72,,12,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,1,1,0,0,3,4,2.4,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+4,68,4,2016-11-19,Rhode Island,N,Cincinnati,REG (Non-Conf),W 76-71,,26,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,4,0,0,2,2,2,0.9,N,1,1,stanford-robinson-1,Stanford Robinson,2017
+5,69,5,2016-11-20,Rhode Island,N,Duke,REG (Non-Conf),L 65-75,,17,3,8,0.375,0,1,0.0,3,7,0.429,0.375,4,7,0.571,3,3,6,1,0,0,0,1,10,7.7,N,0,1,stanford-robinson-1,Stanford Robinson,2017
+6,70,6,2016-11-25,Rhode Island,,Belmont,REG (Non-Conf),W 82-73,,21,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,4,4,3,2,0,1,2,3,4.4,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+7,71,7,2016-11-29,Rhode Island,@,Valparaiso,REG (Non-Conf),L 62-65,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,0,0,-2.7,A,0,1,stanford-robinson-1,Stanford Robinson,2017
+8,72,8,2016-12-03,Rhode Island,@,Providence,REG (Non-Conf),L 60-63,,13,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,0,0,0,0,3,2,-0.3,A,0,1,stanford-robinson-1,Stanford Robinson,2017
+9,73,9,2016-12-06,Rhode Island,,Old Dominion,REG (Non-Conf),W 51-39,,22,2,5,0.4,0,0,,2,5,0.4,0.4,1,4,0.25,1,3,4,1,5,1,0,2,5,8.3,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+10,74,10,2016-12-10,Rhode Island,@,Houston,REG (Non-Conf),L 77-82,,18,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,1,1.0,2,3,5,2,0,0,0,5,6,4.3,A,0,1,stanford-robinson-1,Stanford Robinson,2017
+11,75,11,2016-12-18,Rhode Island,,Holy Cross,REG (Non-Conf),W 65-54,,26,3,6,0.5,0,2,0.0,3,4,0.75,0.5,1,2,0.5,1,4,5,3,0,2,0,1,7,8.6,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+12,76,12,2016-12-22,Rhode Island,,William & Mary,REG (Non-Conf),W 73-62,,26,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,2,2,4,4,2,0,0,1,9,11.4,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+13,77,13,2016-12-30,Rhode Island,@,Saint Louis,REG (Conf),W 90-56,,23,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,2,2,5,2,1,2,2,7,8.0,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+14,78,14,2017-01-03,Rhode Island,,Saint Joseph's,REG (Conf),W 88-58,,17,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,1,1,0,2,0,0,2,5,2.7,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+15,79,15,2017-01-06,Rhode Island,@,Dayton,REG (Conf),L 64-67,,24,3,8,0.375,2,4,0.5,1,4,0.25,0.5,5,5,1.0,2,1,3,2,1,0,1,3,13,10.5,A,0,1,stanford-robinson-1,Stanford Robinson,2017
+16,80,16,2017-01-12,Rhode Island,,La Salle,REG (Conf),L 75-87,,21,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,1,2,3,1,0,0,1,5,10,5.0,H,0,1,stanford-robinson-1,Stanford Robinson,2017
+17,81,17,2017-01-15,Rhode Island,,Massachusetts,REG (Conf),W 79-77,,14,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,1,2,3,1,0,0,0,0,7,7.0,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+18,82,18,2017-01-21,Rhode Island,@,Duquesne,REG (Conf),W 90-69,,20,4,6,0.667,0,1,0.0,4,5,0.8,0.667,2,5,0.4,3,2,5,0,0,0,2,2,10,6.1,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+19,83,19,2017-01-25,Rhode Island,@,Richmond,REG (Conf),L 62-73,,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,2,1,2,4,2,1.1,A,0,1,stanford-robinson-1,Stanford Robinson,2017
+20,84,20,2017-01-28,Rhode Island,,St. Bonaventure,REG (Conf),W 71-59,,21,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,6,4,0,2,2,3,7.0,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+21,85,21,2017-01-31,Rhode Island,,George Washington,REG (Conf),W 82-70,,12,0,3,0.0,0,0,,0,3,0.0,0.0,1,2,0.5,0,1,1,2,0,0,0,0,1,0.2,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+22,86,22,2017-02-03,Rhode Island,@,Davidson,REG (Conf),W 70-59,,21,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,1,2,1,2,1,1,3,3,3.8,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+23,87,23,2017-02-07,Rhode Island,@,Massachusetts,REG (Conf),W 70-62,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,2,2,1,0,0,1,3,4,1.4,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+24,88,24,2017-02-10,Rhode Island,,Dayton,REG (Conf),L 74-75,,19,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,3,0,1,0,1,0,1.6,H,0,1,stanford-robinson-1,Stanford Robinson,2017
+25,89,25,2017-02-15,Rhode Island,,Fordham,REG (Conf),L 43-53,,17,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,2,2,4,1,1,0,2,2,6,3.5,H,0,1,stanford-robinson-1,Stanford Robinson,2017
+26,90,26,2017-02-18,Rhode Island,@,George Mason,REG (Conf),W 77-74,,21,5,8,0.625,3,3,1.0,2,5,0.4,0.813,8,11,0.727,2,2,4,1,3,0,2,2,21,19.1,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+27,91,27,2017-02-21,Rhode Island,@,La Salle,REG (Conf),W 67-56,,15,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,1,1,0,0,2,3,2.1,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+28,92,28,2017-02-25,Rhode Island,,VCU,REG (Conf),W 69-59,,5,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,1,4,2,-2.0,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+29,93,29,2017-03-01,Rhode Island,@,Saint Joseph's,REG (Conf),W 68-49,,15,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,2,3,3,2,1,2,1,7,7.7,A,1,1,stanford-robinson-1,Stanford Robinson,2017
+30,94,30,2017-03-04,Rhode Island,,Davidson,REG (Conf),W 73-70 (OT),,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,4,0.5,1,2,3,1,0,2,0,3,10,7.4,H,1,1,stanford-robinson-1,Stanford Robinson,2017
+31,95,31,2017-03-10,Rhode Island,N,St. Bonaventure,CTOURN,W 74-63,,18,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,3,0.667,0,1,1,2,1,0,3,2,9,5.9,N,1,0,stanford-robinson-1,Stanford Robinson,2017
+32,96,32,2017-03-11,Rhode Island,N,Davidson,CTOURN,W 84-60,,16,3,8,0.375,2,3,0.667,1,5,0.2,0.5,0,1,0.0,0,1,1,1,2,0,0,3,8,5.0,N,1,0,stanford-robinson-1,Stanford Robinson,2017
+33,97,33,2017-03-12,Rhode Island,N,VCU,CTOURN,W 70-63,,15,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,0,1,1,2,0,0,0,1,5,3.9,N,1,0,stanford-robinson-1,Stanford Robinson,2017
+34,98,34,2017-03-17,Rhode Island,N,Creighton,ROUND-64,W 84-72,,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,3,3,1,1,0,0,3,2,0.3,N,1,0,stanford-robinson-1,Stanford Robinson,2017
+35,99,35,2017-03-19,Rhode Island,N,Oregon,ROUND-32,L 72-75,,22,10,12,0.833,1,3,0.333,9,9,1.0,0.875,0,0,,1,1,2,0,0,0,1,2,21,15.8,N,0,0,stanford-robinson-1,Stanford Robinson,2017

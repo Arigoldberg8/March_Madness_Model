@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2015-11-13,Wisconsin,,Western Illinois,REG (Non-Conf),L 67-69,*,40,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,1,0.0,0,6,6,1,1,0,0,2,8,4.5,H,0,1,zak-showalter-1,Zak Showalter,2016
+2,59,2,2015-11-15,Wisconsin,,Siena,REG (Non-Conf),W 92-65,*,24,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,1,3,4,1,0,0,1,4,8,5.7,H,1,1,zak-showalter-1,Zak Showalter,2016
+3,60,3,2015-11-17,Wisconsin,,North Dakota,REG (Non-Conf),W 78-64,*,33,2,5,0.4,1,3,0.333,1,2,0.5,0.5,5,5,1.0,0,6,6,1,0,0,0,3,10,8.6,H,1,1,zak-showalter-1,Zak Showalter,2016
+4,61,4,2015-11-20,Wisconsin,N,Georgetown,REG (Non-Conf),L 61-71,*,31,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,4,3,7,2,0,0,3,5,7,3.4,N,0,1,zak-showalter-1,Zak Showalter,2016
+5,62,5,2015-11-22,Wisconsin,N,VCU,REG (Non-Conf),W 74-73,*,37,2,5,0.4,0,0,,2,5,0.4,0.4,6,6,1.0,2,4,6,6,3,1,2,1,10,15.4,N,1,1,zak-showalter-1,Zak Showalter,2016
+6,63,6,2015-11-25,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 85-67,*,36,4,8,0.5,3,7,0.429,1,1,1.0,0.688,3,3,1.0,0,1,1,2,3,0,2,1,14,12.3,H,1,1,zak-showalter-1,Zak Showalter,2016
+7,64,7,2015-11-29,Wisconsin,@,Oklahoma,REG (Non-Conf),L 48-65,*,27,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,2,2,4,1,1,0,1,4,3,0.3,A,0,1,zak-showalter-1,Zak Showalter,2016
+8,65,8,2015-12-02,Wisconsin,@,Syracuse,REG (Non-Conf),W 66-58 (OT),*,41,3,6,0.5,0,3,0.0,3,3,1.0,0.5,0,0,,1,5,6,5,1,0,3,4,6,5.1,A,1,1,zak-showalter-1,Zak Showalter,2016
+9,66,9,2015-12-05,Wisconsin,,Temple,REG (Non-Conf),W 76-60,*,38,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,2,1.0,0,4,4,3,2,1,1,2,11,10.5,H,1,1,zak-showalter-1,Zak Showalter,2016
+10,67,10,2015-12-09,Wisconsin,,Milwaukee,REG (Non-Conf),L 67-68,*,39,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,1,4,5,4,1,0,1,5,2,3.3,H,0,1,zak-showalter-1,Zak Showalter,2016
+11,68,11,2015-12-12,Wisconsin,,Marquette,REG (Non-Conf),L 55-57,*,39,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,2,8,10,2,1,0,2,4,10,8.6,H,0,1,zak-showalter-1,Zak Showalter,2016
+12,69,12,2015-12-15,Wisconsin,,Texas A&M–Corpus Christi,REG (Non-Conf),W 64-49,*,27,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,2,2,0,0,0,0,4,8,3.6,H,1,1,zak-showalter-1,Zak Showalter,2016
+13,70,13,2015-12-23,Wisconsin,,Green Bay,REG (Non-Conf),W 84-79,*,22,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,3,4,4,3,0,4,5,3,3.4,H,1,1,zak-showalter-1,Zak Showalter,2016
+14,71,14,2015-12-29,Wisconsin,,Purdue,REG (Conf),L 55-61,*,36,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,1,1,2,2,0,1,1,3,8,6.3,H,0,1,zak-showalter-1,Zak Showalter,2016
+15,72,15,2016-01-02,Wisconsin,,Rutgers,REG (Conf),W 79-57,*,30,8,8,1.0,4,4,1.0,4,4,1.0,1.25,1,1,1.0,1,2,3,2,1,1,2,2,21,20.2,H,1,1,zak-showalter-1,Zak Showalter,2016
+16,73,16,2016-01-05,Wisconsin,@,Indiana,REG (Conf),L 58-59,*,37,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,1,1,0,2,0,2,2,4,0.4,A,0,1,zak-showalter-1,Zak Showalter,2016
+17,74,17,2016-01-09,Wisconsin,,Maryland,REG (Conf),L 60-63,*,28,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,0,2,2,1,2,0,1,3,9,7.1,H,0,1,zak-showalter-1,Zak Showalter,2016
+18,75,18,2016-01-12,Wisconsin,@,Northwestern,REG (Conf),L 65-70,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,3,3,7,0,1,1,3,8,8.6,A,0,1,zak-showalter-1,Zak Showalter,2016
+19,76,19,2016-01-17,Wisconsin,,Michigan State,REG (Conf),W 77-76,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,0,1,0,0,3,4,2.8,H,1,1,zak-showalter-1,Zak Showalter,2016
+20,77,20,2016-01-21,Wisconsin,@,Penn State,REG (Conf),W 66-60,*,27,1,1,1.0,0,0,,1,1,1.0,1.0,2,3,0.667,0,4,4,2,1,1,2,2,4,4.8,A,1,1,zak-showalter-1,Zak Showalter,2016
+21,78,21,2016-01-26,Wisconsin,,Indiana,REG (Conf),W 82-79 (OT),*,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,3,4,1,1,0,1,5,0,-1.1,H,1,1,zak-showalter-1,Zak Showalter,2016
+22,79,22,2016-01-31,Wisconsin,@,Illinois,REG (Conf),W 63-55,*,37,2,7,0.286,0,4,0.0,2,3,0.667,0.286,4,4,1.0,1,6,7,0,1,0,1,3,8,5.2,A,1,1,zak-showalter-1,Zak Showalter,2016
+23,80,23,2016-02-04,Wisconsin,,Ohio State,REG (Conf),W 79-68,*,30,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,1,3,4,4,2,0,2,1,6,8.0,H,1,1,zak-showalter-1,Zak Showalter,2016
+24,81,24,2016-02-10,Wisconsin,,Nebraska,REG (Conf),W 72-61,*,29,3,5,0.6,2,2,1.0,1,3,0.333,0.8,2,6,0.333,1,4,5,3,0,0,1,3,10,7.9,H,1,1,zak-showalter-1,Zak Showalter,2016
+25,82,25,2016-02-13,Wisconsin,@,Maryland,REG (Conf),W 70-57,*,26,3,4,0.75,2,3,0.667,1,1,1.0,1.0,3,4,0.75,1,0,1,1,1,0,0,4,11,9.8,A,1,1,zak-showalter-1,Zak Showalter,2016
+26,83,26,2016-02-18,Wisconsin,@,Michigan State,REG (Conf),L 57-69,*,28,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,1,1,2,0,0,1,1,8,5.3,A,0,1,zak-showalter-1,Zak Showalter,2016
+27,84,27,2016-02-21,Wisconsin,,Illinois,REG (Conf),W 69-60,*,32,1,3,0.333,1,3,0.333,0,0,,0.5,4,4,1.0,0,4,4,5,1,0,1,1,7,9.6,H,1,1,zak-showalter-1,Zak Showalter,2016
+28,85,28,2016-02-24,Wisconsin,@,Iowa,REG (Conf),W 67-59,*,19,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,1,0.0,1,5,6,2,1,0,0,3,7,7.0,A,1,1,zak-showalter-1,Zak Showalter,2016
+29,86,29,2016-02-28,Wisconsin,,Michigan,REG (Conf),W 68-57,*,30,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,1,2,3,3,1,0,3,3,4,2.2,H,1,1,zak-showalter-1,Zak Showalter,2016
+30,87,30,2016-03-02,Wisconsin,@,Minnesota,REG (Conf),W 62-49,*,30,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,3,3,2,1,0,2,4,8,3.3,A,1,1,zak-showalter-1,Zak Showalter,2016
+31,88,31,2016-03-06,Wisconsin,@,Purdue,REG (Conf),L 80-91,*,36,5,9,0.556,3,7,0.429,2,2,1.0,0.722,0,0,,1,1,2,1,0,0,1,1,13,9.0,A,0,1,zak-showalter-1,Zak Showalter,2016
+32,89,32,2016-03-10,Wisconsin,N,Nebraska,CTOURN,L 58-70,*,35,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,3,0.667,0,4,4,1,1,0,0,3,2,0.5,N,0,0,zak-showalter-1,Zak Showalter,2016
+33,90,33,2016-03-18,Wisconsin,N,Pittsburgh,ROUND-64,W 47-43,*,31,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,0,,0,2,2,0,1,0,1,3,5,-0.4,N,1,0,zak-showalter-1,Zak Showalter,2016
+34,91,34,2016-03-20,Wisconsin,N,Xavier,ROUND-32,W 66-63,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,2,1,0,1,2,4,2.8,N,1,0,zak-showalter-1,Zak Showalter,2016
+35,92,35,2016-03-25,Wisconsin,N,Notre Dame,ROUND-16,L 56-61,*,37,5,10,0.5,1,4,0.25,4,6,0.667,0.55,0,0,,2,3,5,3,1,0,4,3,11,6.2,N,0,0,zak-showalter-1,Zak Showalter,2016

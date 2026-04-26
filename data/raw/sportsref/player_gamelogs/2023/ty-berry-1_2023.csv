@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,54,1,2022-11-07,Northwestern,,Chicago State,REG (Non-Conf),W 85-54,*,32,5,14,0.357,4,10,0.4,1,4,0.25,0.5,0,1,0.0,1,6,7,1,1,2,1,1,14,10.0,H,1,1,ty-berry-1,Ty Berry,2023
+2,55,2,2022-11-11,Northwestern,,Northern Illinois,REG (Non-Conf),W 63-46,*,33,4,9,0.444,2,7,0.286,2,2,1.0,0.556,1,2,0.5,2,9,11,2,3,0,1,2,11,12.6,H,1,1,ty-berry-1,Ty Berry,2023
+3,56,3,2022-11-15,Northwestern,@,Georgetown,REG (Non-Conf),W 75-63,*,25,3,8,0.375,3,8,0.375,0,0,,0.563,0,0,,0,7,7,2,0,0,0,1,9,7.7,A,1,1,ty-berry-1,Ty Berry,2023
+4,57,4,2022-11-18,Northwestern,,Purdue Fort Wayne,REG (Non-Conf),W 60-52,*,24,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,0,,0,2,2,2,2,0,2,2,4,0.4,H,1,1,ty-berry-1,Ty Berry,2023
+5,58,5,2022-11-22,Northwestern,N,Liberty,REG (Non-Conf),W 66-52,*,35,5,10,0.5,2,3,0.667,3,7,0.429,0.6,7,7,1.0,1,6,7,3,4,1,1,1,19,21.9,N,1,1,ty-berry-1,Ty Berry,2023
+6,59,6,2022-11-23,Northwestern,N,Auburn,REG (Non-Conf),L 42-43,*,26,2,9,0.222,1,6,0.167,1,3,0.333,0.278,4,4,1.0,1,2,3,0,1,0,1,2,9,4.0,N,0,1,ty-berry-1,Ty Berry,2023
+7,60,7,2022-11-28,Northwestern,,Pittsburgh,REG (Non-Conf),L 58-87,*,30,2,10,0.2,1,8,0.125,1,2,0.5,0.25,2,2,1.0,0,5,5,1,1,0,1,3,7,1.8,H,0,1,ty-berry-1,Ty Berry,2023
+8,61,8,2022-12-04,Northwestern,@,Michigan State,REG (Conf),W 70-63,*,30,4,9,0.444,3,8,0.375,1,1,1.0,0.611,0,0,,0,5,5,0,3,0,1,0,11,9.8,A,1,1,ty-berry-1,Ty Berry,2023
+9,62,9,2022-12-11,Northwestern,,Prairie View A&M,REG (Non-Conf),W 61-51,*,28,2,8,0.25,1,6,0.167,1,2,0.5,0.313,2,2,1.0,2,3,5,2,0,0,0,2,7,5.1,H,1,1,ty-berry-1,Ty Berry,2023
+10,63,10,2022-12-17,Northwestern,,DePaul,REG (Non-Conf),W 83-45,*,28,2,6,0.333,2,5,0.4,0,1,0.0,0.5,0,0,,0,4,4,3,2,1,0,2,6,7.8,H,1,1,ty-berry-1,Ty Berry,2023
+11,64,11,2022-12-20,Northwestern,,Illinois–Chicago,REG (Non-Conf),W 92-54,*,26,1,8,0.125,0,5,0.0,1,3,0.333,0.125,0,0,,3,4,7,2,3,0,0,1,2,4.1,H,1,1,ty-berry-1,Ty Berry,2023
+12,65,12,2022-12-29,Northwestern,,Brown,REG (Non-Conf),W 63-58,*,26,4,9,0.444,1,3,0.333,3,6,0.5,0.5,3,3,1.0,0,5,5,0,3,0,0,2,12,11.0,H,1,1,ty-berry-1,Ty Berry,2023
+13,66,13,2023-01-01,Northwestern,,Ohio State,REG (Conf),L 57-73,*,22,4,11,0.364,2,7,0.286,2,4,0.5,0.455,1,1,1.0,0,1,1,0,1,0,1,0,11,5.2,H,0,1,ty-berry-1,Ty Berry,2023
+14,67,14,2023-01-04,Northwestern,,Illinois,REG (Conf),W 73-60,*,24,3,6,0.5,2,3,0.667,1,3,0.333,0.667,5,6,0.833,0,1,1,1,2,0,1,2,13,10.8,H,1,1,ty-berry-1,Ty Berry,2023
+15,68,15,2023-01-08,Northwestern,@,Indiana,REG (Conf),W 84-83,*,30,4,9,0.444,2,5,0.4,2,4,0.5,0.556,3,4,0.75,4,7,11,2,2,0,1,5,13,13.2,A,1,1,ty-berry-1,Ty Berry,2023
+16,69,16,2023-01-11,Northwestern,,Rutgers,REG (Conf),L 62-65,*,24,5,10,0.5,2,6,0.333,3,4,0.75,0.6,1,2,0.5,1,1,2,0,0,0,1,1,13,7.2,H,0,1,ty-berry-1,Ty Berry,2023
+17,70,17,2023-01-15,Northwestern,@,Michigan,REG (Conf),L 78-85,*,16,0,3,0.0,0,0,,0,3,0.0,0.0,3,3,1.0,0,2,2,0,0,0,1,0,3,0.5,A,0,1,ty-berry-1,Ty Berry,2023
+18,71,18,2023-01-23,Northwestern,,Wisconsin,REG (Conf),W 66-63,*,27,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,5,5,0,0,0,1,3,2,-0.4,H,1,1,ty-berry-1,Ty Berry,2023
+19,72,19,2023-01-25,Northwestern,@,Nebraska,REG (Conf),W 78-63,*,33,10,17,0.588,6,12,0.5,4,5,0.8,0.765,0,0,,0,3,3,2,2,0,1,3,26,20.2,A,1,1,ty-berry-1,Ty Berry,2023
+20,73,20,2023-01-28,Northwestern,,Minnesota,REG (Conf),W 81-61,*,26,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,2,0,0,0,4,3,2.0,H,1,1,ty-berry-1,Ty Berry,2023
+21,74,21,2023-01-31,Northwestern,@,Iowa,REG (Conf),L 70-86,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,3,3,1,1,0,1,0,7,5.6,A,0,1,ty-berry-1,Ty Berry,2023
+22,75,22,2023-02-02,Northwestern,,Michigan,REG (Conf),L 51-68,*,19,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,4,4,2,0,1,0,0,2,2.9,H,0,1,ty-berry-1,Ty Berry,2023
+23,76,23,2023-02-05,Northwestern,@,Wisconsin,REG (Conf),W 54-52,*,16,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,4,5,0,1,0,1,2,0,-1.7,A,1,1,ty-berry-1,Ty Berry,2023
+24,77,24,2023-02-09,Northwestern,@,Ohio State,REG (Conf),W 69-63,*,19,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,0,2,2,0,2,0,1,3,3,-1.1,A,1,1,ty-berry-1,Ty Berry,2023
+25,78,25,2023-02-12,Northwestern,,Purdue,REG (Conf),W 64-58,*,32,1,6,0.167,0,3,0.0,1,3,0.333,0.167,3,4,0.75,2,5,7,2,3,0,0,1,5,7.7,H,1,1,ty-berry-1,Ty Berry,2023
+26,79,26,2023-02-15,Northwestern,,Indiana,REG (Conf),W 64-62,*,32,2,8,0.25,1,6,0.167,1,2,0.5,0.313,4,4,1.0,1,2,3,0,2,0,0,1,9,7.1,H,1,1,ty-berry-1,Ty Berry,2023
+27,80,27,2023-02-19,Northwestern,,Iowa,REG (Conf),W 80-60,*,35,5,10,0.5,3,6,0.5,2,4,0.5,0.65,3,4,0.75,0,3,3,3,1,0,3,2,16,10.8,H,1,1,ty-berry-1,Ty Berry,2023
+28,81,28,2023-02-23,Northwestern,@,Illinois,REG (Conf),L 62-66,*,36,1,8,0.125,0,3,0.0,1,5,0.2,0.125,0,0,,0,7,7,0,3,0,3,3,2,-2.3,A,0,1,ty-berry-1,Ty Berry,2023
+29,82,29,2023-02-26,Northwestern,@,Maryland,REG (Conf),L 59-75,*,26,1,8,0.125,1,5,0.2,0,3,0.0,0.188,3,3,1.0,0,6,6,0,1,0,0,3,6,2.4,A,0,1,ty-berry-1,Ty Berry,2023
+30,83,30,2023-03-01,Northwestern,,Penn State,REG (Conf),L 65-68 (OT),*,37,4,11,0.364,2,6,0.333,2,5,0.4,0.455,0,0,,2,3,5,0,0,0,0,4,10,4.6,H,0,1,ty-berry-1,Ty Berry,2023
+31,84,31,2023-03-05,Northwestern,@,Rutgers,REG (Conf),W 65-53,*,30,5,11,0.455,1,5,0.2,4,6,0.667,0.5,1,4,0.25,4,3,7,1,1,0,2,4,12,6.9,A,1,1,ty-berry-1,Ty Berry,2023
+32,85,32,2023-03-10,Northwestern,N,Penn State,CTOURN,L 65-67 (OT),*,37,1,10,0.1,1,8,0.125,0,2,0.0,0.15,2,2,1.0,0,3,3,3,1,0,1,2,5,0.6,N,0,0,ty-berry-1,Ty Berry,2023
+33,86,33,2023-03-16,Northwestern,N,Boise State,ROUND-64,W 75-67,*,30,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,1,0.0,1,5,6,0,0,0,1,4,13,9.3,N,1,0,ty-berry-1,Ty Berry,2023
+34,87,34,2023-03-18,Northwestern,N,UCLA,ROUND-32,L 63-68,*,38,1,8,0.125,1,6,0.167,0,2,0.0,0.188,0,0,,1,4,5,0,1,0,0,4,3,-0.9,N,0,0,ty-berry-1,Ty Berry,2023

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-09,Dayton,,IPFW,REG (Non-Conf),W 81-80,,6,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,1,0,0,0,2,2,0.5,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+2,2,2,2013-11-13,Dayton,,Saint Francis (PA),REG (Non-Conf),W 70-56,,11,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,0,0,0,1,0,1,2,0,-2.9,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+3,3,3,2013-11-16,Dayton,,St. Francis Brooklyn,REG (Non-Conf),W 78-58,,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,0,1,1,3,2,0,1,3,5,4.5,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+4,4,4,2013-11-20,Dayton,@,Georgia Tech,REG (Non-Conf),W 82-72,,13,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,5,4,0,0,0,3,8.7,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+5,5,5,2013-11-25,Dayton,N,Gonzaga,REG (Non-Conf),W 84-79,,11,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,3,0.333,0,1,1,0,2,0,2,3,4,-0.1,N,1,1,scoochie-smith-1,Scoochie Smith,2014
+6,6,6,2013-11-26,Dayton,N,Baylor,REG (Non-Conf),L 66-67,,20,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,0,0,3,1,0,1,1,4,3.0,N,0,1,scoochie-smith-1,Scoochie Smith,2014
+7,7,7,2013-11-27,Dayton,N,California,REG (Non-Conf),W 82-64,,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,4,4,3,2,0,1,2,2,1.7,N,1,1,scoochie-smith-1,Scoochie Smith,2014
+8,8,8,2013-12-04,Dayton,,Delaware State,REG (Non-Conf),W 56-46,,22,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,0,0,3,0,0,0,0,0,-0.7,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+9,9,9,2013-12-07,Dayton,@,Illinois State,REG (Non-Conf),L 75-81,*,20,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,3,3,1,0,0,3,0,9,6.0,A,0,1,scoochie-smith-1,Scoochie Smith,2014
+10,10,10,2013-12-14,Dayton,,Central Michigan,REG (Non-Conf),W 84-58,,17,1,2,0.5,1,2,0.5,0,0,,0.75,1,2,0.5,0,3,3,0,1,0,0,2,4,3.7,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+11,11,11,2013-12-19,Dayton,,Iona,REG (Non-Conf),W 96-84,,20,3,8,0.375,1,3,0.333,2,5,0.4,0.438,2,2,1.0,0,2,2,3,1,1,0,1,9,8.6,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+12,12,12,2013-12-22,Dayton,,Southern California,REG (Non-Conf),L 76-79 (OT),,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,0,0,2,1,0,0,1,2,0.9,H,0,1,scoochie-smith-1,Scoochie Smith,2014
+13,13,13,2013-12-29,Dayton,,Murray State,REG (Non-Conf),W 72-51,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,2,0,0,3,4,5,-0.9,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+14,14,14,2014-01-01,Dayton,,Winthrop,REG (Non-Conf),W 81-47,,19,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,0,0,2,0,0,2,0,2,-1.0,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+15,15,15,2014-01-04,Dayton,@,Ole Miss,REG (Non-Conf),W 83-80 (OT),,26,4,9,0.444,3,5,0.6,1,4,0.25,0.611,0,1,0.0,1,3,4,2,0,0,4,1,11,4.5,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+16,16,16,2014-01-11,Dayton,,Saint Louis,REG (Conf),L 59-67,,9,1,2,0.5,0,0,,1,2,0.5,0.5,2,3,0.667,0,0,0,1,0,0,3,0,4,0.3,H,0,1,scoochie-smith-1,Scoochie Smith,2014
+17,17,17,2014-01-15,Dayton,@,Fordham,REG (Conf),W 80-68,,16,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,2,2,0,2,2,4,3.9,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+18,18,18,2014-01-18,Dayton,@,Richmond,REG (Conf),L 64-73,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,4,0,-1.3,A,0,1,scoochie-smith-1,Scoochie Smith,2014
+19,19,19,2014-01-22,Dayton,,VCU,REG (Conf),L 66-80,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,1,1,2,2,0,0,1,0,4,3.3,H,0,1,scoochie-smith-1,Scoochie Smith,2014
+20,20,20,2014-01-25,Dayton,@,Rhode Island,REG (Conf),L 76-88,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,3,4,0.75,0,0,0,3,0,0,2,5,5,0.3,A,0,1,scoochie-smith-1,Scoochie Smith,2014
+21,21,21,2014-01-29,Dayton,,Saint Joseph's,REG (Conf),L 57-60,,26,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,4,4,5,0,0,0,0,3,5.3,H,0,1,scoochie-smith-1,Scoochie Smith,2014
+22,22,22,2014-02-01,Dayton,,George Washington,REG (Conf),W 75-65,,10,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,2,0,0,0,0,2,3.4,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+23,23,23,2014-02-05,Dayton,@,George Mason,REG (Conf),W 84-67,,19,1,6,0.167,1,3,0.333,0,3,0.0,0.25,0,0,,1,3,4,2,0,0,0,0,3,2.2,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+24,24,24,2014-02-08,Dayton,@,St. Bonaventure,REG (Conf),W 72-69,,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,1,1,3,0,0,1,1,3,2.6,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+25,25,25,2014-02-12,Dayton,,Rhode Island,REG (Conf),W 76-69,,20,4,4,1.0,1,1,1.0,3,3,1.0,1.125,0,1,0.0,0,2,2,1,0,0,2,3,9,5.5,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+26,26,26,2014-02-19,Dayton,,La Salle,REG (Conf),W 65-53,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,1,2,1,0,0,2,3.7,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+27,27,27,2014-02-22,Dayton,@,Duquesne,REG (Conf),W 57-54,,25,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,4,4,1,1,0,2,1,3,1.1,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+28,28,28,2014-02-25,Dayton,@,Saint Joseph's,REG (Conf),L 53-79,,28,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,1,1,1,0,1,1,2,4,-0.2,A,0,1,scoochie-smith-1,Scoochie Smith,2014
+29,29,29,2014-03-01,Dayton,,Massachusetts,REG (Conf),W 86-79,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+30,30,30,2014-03-05,Dayton,@,Saint Louis,REG (Conf),W 72-67,,20,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,1,0.0,1,1,2,3,0,1,1,2,6,6.0,A,1,1,scoochie-smith-1,Scoochie Smith,2014
+31,31,31,2014-03-08,Dayton,,Richmond,REG (Conf),W 60-48,,15,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,2,1,0,1,1,2,1.6,H,1,1,scoochie-smith-1,Scoochie Smith,2014
+32,32,32,2014-03-13,Dayton,N,Fordham,CTOURN,W 87-74,,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,1,0.0,0,0,0,1,0,0,0,1,0,-2.9,N,1,0,scoochie-smith-1,Scoochie Smith,2014
+33,33,33,2014-03-14,Dayton,N,Saint Joseph's,CTOURN,L 67-70,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,4,1,0,0,2,0,2.3,N,0,0,scoochie-smith-1,Scoochie Smith,2014
+34,34,34,2014-03-20,Dayton,N,Ohio State,ROUND-64,W 60-59,,14,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,2,0,2,0,1,-0.1,N,1,0,scoochie-smith-1,Scoochie Smith,2014
+35,35,35,2014-03-22,Dayton,N,Syracuse,ROUND-32,W 55-53,,18,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,3,0,1,1,1,5,5.4,N,1,0,scoochie-smith-1,Scoochie Smith,2014
+36,36,36,2014-03-27,Dayton,N,Stanford,ROUND-16,W 82-72,,22,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,1,0.0,0,1,1,3,1,0,0,0,5,6.0,N,1,0,scoochie-smith-1,Scoochie Smith,2014
+37,37,37,2014-03-29,Dayton,N,Florida,ROUND-8,L 52-62,,25,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,2,2,0,3,2,5,2.6,N,0,0,scoochie-smith-1,Scoochie Smith,2014

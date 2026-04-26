@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-06,Iowa State,,Alabama State,REG (Non-Conf),W 79-53,,29,5,6,0.833,2,3,0.667,3,3,1.0,1.0,0,0,,1,2,3,4,4,0,2,2,12,15.1,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+2,2,2,2018-11-09,Iowa State,,Missouri,REG (Non-Conf),W 76-59,*,40,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,3,3,2,4,2,0,3,8,11.5,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+3,3,3,2018-11-12,Iowa State,,Texas Southern,REG (Non-Conf),W 85-73,*,34,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,2,7,9,4,2,3,1,1,3,9.9,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+4,4,4,2018-11-19,Iowa State,N,Arizona,REG (Non-Conf),L 66-71,*,40,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,2,2,4,5,0,1,1,3,2,3.6,N,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+5,5,5,2018-11-20,Iowa State,N,Illinois,REG (Non-Conf),W 84-68,*,21,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,1,3,0,-2.3,N,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+6,6,6,2018-11-21,Iowa State,N,San Diego State,REG (Non-Conf),W 87-57,*,38,3,7,0.429,3,7,0.429,0,0,,0.643,0,0,,1,7,8,1,2,2,1,3,9,10.0,N,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+7,7,7,2018-11-26,Iowa State,,Omaha,REG (Non-Conf),W 82-55,*,35,6,7,0.857,3,4,0.75,3,3,1.0,1.071,1,1,1.0,0,4,4,4,3,1,0,0,16,21.2,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+8,8,8,2018-12-03,Iowa State,,North Dakota State,REG (Non-Conf),W 81-59,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,1,0.0,0,7,7,4,2,0,1,1,9,10.8,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+9,9,9,2018-12-06,Iowa State,@,Iowa,REG (Non-Conf),L 84-98,*,36,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,3,0.667,0,1,1,5,3,0,1,1,10,12.0,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+10,10,10,2018-12-09,Iowa State,,Southern,REG (Non-Conf),W 101-65,*,36,5,7,0.714,3,5,0.6,2,2,1.0,0.929,2,2,1.0,0,2,2,17,2,0,1,2,15,24.8,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+11,11,11,2018-12-15,Iowa State,N,Drake,REG (Non-Conf),W 77-68,*,37,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,3,4,2,1,1,1,1,5,4.9,N,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+12,12,12,2018-12-21,Iowa State,,Eastern Illinois,REG (Non-Conf),W 101-53,*,32,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,7,8,4,2,2,0,0,7,13.7,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+13,13,13,2019-01-02,Iowa State,@,Oklahoma State,REG (Conf),W 69-63,*,39,4,6,0.667,4,6,0.667,0,0,,1.0,0,0,,0,4,4,3,1,2,1,0,12,14.1,A,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+14,14,14,2019-01-05,Iowa State,,Kansas,REG (Conf),W 77-60,*,37,4,6,0.667,4,5,0.8,0,1,0.0,1.0,2,2,1.0,0,1,1,3,4,1,2,2,14,15.7,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+15,15,15,2019-01-08,Iowa State,@,Baylor,REG (Conf),L 70-73,*,30,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,3,3,2,2,1,1,2,7,7.9,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+16,16,16,2019-01-12,Iowa State,,Kansas State,REG (Conf),L 57-58,*,33,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,0,0,6,1,0,0,2,6,7.7,H,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+17,17,17,2019-01-16,Iowa State,@,Texas Tech,REG (Conf),W 68-64,*,35,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,2,2,6,0,3,0,0,2,7.2,A,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+18,18,18,2019-01-19,Iowa State,,Oklahoma State,REG (Conf),W 72-59,*,36,1,3,0.333,1,2,0.5,0,1,0.0,0.5,1,2,0.5,1,2,3,3,2,0,0,2,4,6.5,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+19,19,19,2019-01-21,Iowa State,@,Kansas,REG (Conf),L 76-80,*,33,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,3,2,5,2,0,1,0,0,9,11.5,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+20,20,20,2019-01-26,Iowa State,@,Ole Miss,REG (Non-Conf),W 87-73,*,37,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,3,3,9,0,0,3,2,5,7.8,A,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+21,21,21,2019-01-30,Iowa State,,West Virginia,REG (Conf),W 93-68,*,26,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,5,2,0,0,0,5,9.4,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+22,22,22,2019-02-02,Iowa State,,Texas,REG (Conf),W 65-60,*,26,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,3,4,3,0,1,0,1,2,5.0,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+23,23,23,2019-02-04,Iowa State,@,Oklahoma,REG (Conf),W 75-74,*,30,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,1,2,1,1,0,3,3,11,6.2,A,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+24,24,24,2019-02-09,Iowa State,,TCU,REG (Conf),L 83-92,*,33,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,2,1,3,3,0,2,0,1,3,6.1,H,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+25,25,25,2019-02-16,Iowa State,@,Kansas State,REG (Conf),W 78-64,*,33,0,2,0.0,0,2,0.0,0,0,,0.0,0,2,0.0,1,1,2,5,1,0,3,1,0,-0.1,A,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+26,26,26,2019-02-19,Iowa State,,Baylor,REG (Conf),L 69-73,*,35,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,1,0,1,0,1,2,0,0,9,9.8,H,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+27,27,27,2019-02-23,Iowa State,@,TCU,REG (Conf),L 72-75,*,33,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,2,0.0,1,0,1,7,3,0,1,1,0,2.9,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+28,28,28,2019-02-25,Iowa State,,Oklahoma,REG (Conf),W 78-61,*,34,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,0,2,2,2,3,1,1,2,8,8.5,H,1,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+29,29,29,2019-03-02,Iowa State,@,Texas,REG (Conf),L 69-86,*,36,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,2,2,4,2,1,0,0,1,2,4.6,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+30,30,30,2019-03-06,Iowa State,@,West Virginia,REG (Conf),L 75-90,*,32,4,8,0.5,1,4,0.25,3,4,0.75,0.563,3,3,1.0,1,3,4,3,1,0,2,1,12,10.3,A,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+31,31,31,2019-03-09,Iowa State,,Texas Tech,REG (Conf),L 73-80,*,22,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,5,5,0,1,1,0,0,0,1.1,H,0,1,tyrese-haliburton-1,Tyrese Haliburton,2019
+32,32,32,2019-03-14,Iowa State,N,Baylor,CTOURN,W 83-66,*,29,5,7,0.714,3,4,0.75,2,3,0.667,0.929,0,0,,1,3,4,4,1,1,0,1,13,15.8,N,1,0,tyrese-haliburton-1,Tyrese Haliburton,2019
+33,33,33,2019-03-15,Iowa State,N,Kansas State,CTOURN,W 63-59,*,32,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,4,6,2,0,0,0,1,4,7.0,N,1,0,tyrese-haliburton-1,Tyrese Haliburton,2019
+34,34,34,2019-03-16,Iowa State,N,Kansas,CTOURN,W 78-66,*,33,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,1,1,2,1,1,2,0,2,11,11.7,N,1,0,tyrese-haliburton-1,Tyrese Haliburton,2019
+35,35,35,2019-03-22,Iowa State,N,Ohio State,ROUND-64,L 59-62,*,38,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,2,2,1,2,0,1,2,4,3.5,N,0,0,tyrese-haliburton-1,Tyrese Haliburton,2019

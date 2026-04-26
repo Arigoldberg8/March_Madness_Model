@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,63,4,2018-11-16,Baylor,,Nicholls State,REG (Non-Conf),W 81-54,*,21,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,1,1,2,1,1,0,2,0,11,8.4,H,1,1,makai-mason-1,Makai Mason,2019
+2,64,5,2018-11-23,Baylor,N,Ole Miss,REG (Non-Conf),L 70-78,*,35,6,14,0.429,1,5,0.2,5,9,0.556,0.464,5,5,1.0,0,0,0,5,1,0,1,4,18,12.5,N,0,1,makai-mason-1,Makai Mason,2019
+3,65,6,2018-11-24,Baylor,N,George Mason,REG (Non-Conf),W 72-61,*,38,5,14,0.357,0,4,0.0,5,10,0.5,0.357,8,8,1.0,0,1,1,2,0,0,3,3,18,7.7,N,1,1,makai-mason-1,Makai Mason,2019
+4,66,7,2018-11-27,Baylor,,South Dakota,REG (Non-Conf),W 63-57,*,30,3,8,0.375,2,4,0.5,1,4,0.25,0.5,2,5,0.4,1,3,4,4,0,0,3,0,10,5.8,H,1,1,makai-mason-1,Makai Mason,2019
+5,67,8,2018-12-01,Baylor,@,Wichita State,REG (Non-Conf),L 63-71,*,30,2,11,0.182,1,5,0.2,1,6,0.167,0.227,4,4,1.0,0,3,3,1,1,0,3,4,9,0.1,A,0,1,makai-mason-1,Makai Mason,2019
+6,68,9,2018-12-15,Baylor,@,Arizona,REG (Non-Conf),W 58-49,*,35,8,15,0.533,2,7,0.286,6,8,0.75,0.6,4,6,0.667,2,5,7,1,0,0,3,2,22,13.7,A,1,1,makai-mason-1,Makai Mason,2019
+7,69,10,2018-12-18,Baylor,,Stephen F. Austin,REG (Non-Conf),L 58-59,*,33,5,10,0.5,1,3,0.333,4,7,0.571,0.55,0,0,,0,3,3,4,1,0,4,2,11,5.9,H,0,1,makai-mason-1,Makai Mason,2019
+8,70,11,2018-12-21,Baylor,,Oregon,REG (Non-Conf),W 57-47,*,34,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,2,1.0,0,3,3,4,0,0,0,1,14,12.3,H,1,1,makai-mason-1,Makai Mason,2019
+9,71,12,2018-12-29,Baylor,,New Orleans,REG (Non-Conf),W 84-44,*,26,4,8,0.5,2,5,0.4,2,3,0.667,0.625,3,4,0.75,1,4,5,5,2,0,3,1,13,12.6,H,1,1,makai-mason-1,Makai Mason,2019
+10,72,13,2019-01-05,Baylor,@,TCU,REG (Conf),L 81-85,*,33,4,12,0.333,2,7,0.286,2,5,0.4,0.417,5,6,0.833,0,3,3,3,1,0,3,3,15,7.6,A,0,1,makai-mason-1,Makai Mason,2019
+11,73,14,2019-01-08,Baylor,,Iowa State,REG (Conf),W 73-70,*,38,8,15,0.533,4,9,0.444,4,6,0.667,0.667,5,6,0.833,0,3,3,3,0,0,2,2,25,17.5,H,1,1,makai-mason-1,Makai Mason,2019
+12,74,15,2019-01-12,Baylor,,Kansas,REG (Conf),L 68-73,*,32,3,12,0.25,2,8,0.25,1,4,0.25,0.333,3,4,0.75,0,1,1,2,0,0,3,4,11,0.5,H,0,1,makai-mason-1,Makai Mason,2019
+13,75,16,2019-01-14,Baylor,@,Oklahoma State,REG (Conf),W 73-69,*,28,4,10,0.4,3,5,0.6,1,5,0.2,0.55,2,2,1.0,0,2,2,2,0,0,2,4,13,6.0,A,1,1,makai-mason-1,Makai Mason,2019
+14,76,17,2019-01-19,Baylor,,Texas Tech,REG (Conf),W 73-62,*,32,4,10,0.4,4,7,0.571,0,3,0.0,0.6,4,4,1.0,0,0,0,2,0,0,1,4,16,9.4,H,1,1,makai-mason-1,Makai Mason,2019
+15,77,18,2019-01-21,Baylor,@,West Virginia,REG (Conf),W 85-73,*,38,10,16,0.625,2,8,0.25,8,8,1.0,0.688,7,9,0.778,0,4,4,4,1,0,5,1,29,20.6,A,1,1,makai-mason-1,Makai Mason,2019
+16,78,19,2019-01-26,Baylor,,Alabama,REG (Non-Conf),W 73-68,*,31,5,10,0.5,1,4,0.25,4,6,0.667,0.55,2,2,1.0,0,3,3,4,1,0,4,1,13,8.3,H,1,1,makai-mason-1,Makai Mason,2019
+17,79,20,2019-01-28,Baylor,@,Oklahoma,REG (Conf),W 77-47,*,29,5,9,0.556,1,3,0.333,4,6,0.667,0.611,1,4,0.25,0,1,1,4,1,0,1,1,12,9.2,A,1,1,makai-mason-1,Makai Mason,2019
+18,80,21,2019-02-02,Baylor,,TCU,REG (Conf),W 90-64,*,33,14,20,0.7,9,12,0.75,5,8,0.625,0.925,3,4,0.75,0,0,0,4,0,0,3,4,40,29.4,H,1,1,makai-mason-1,Makai Mason,2019
+19,81,22,2019-02-06,Baylor,@,Texas,REG (Conf),L 72-84,*,23,1,7,0.143,0,1,0.0,1,6,0.167,0.143,3,3,1.0,0,0,0,2,0,0,3,1,5,-1.5,A,0,1,makai-mason-1,Makai Mason,2019
+20,82,24,2019-02-11,Baylor,,Oklahoma,REG (Conf),W 59-53,*,35,2,14,0.143,0,5,0.0,2,9,0.222,0.143,2,2,1.0,0,1,1,8,0,0,2,0,6,0.9,H,1,1,makai-mason-1,Makai Mason,2019
+21,83,26,2019-02-19,Baylor,@,Iowa State,REG (Conf),W 73-69,*,31,4,18,0.222,2,10,0.2,2,8,0.25,0.278,4,5,0.8,2,3,5,3,0,0,4,0,14,3.0,A,1,1,makai-mason-1,Makai Mason,2019
+22,84,27,2019-02-23,Baylor,,West Virginia,REG (Conf),W 82-75,*,33,0,7,0.0,0,2,0.0,0,5,0.0,0.0,4,4,1.0,0,1,1,1,0,0,3,1,4,-3.3,H,1,1,makai-mason-1,Makai Mason,2019
+23,85,28,2019-02-27,Baylor,,Texas,REG (Conf),W 84-83 (OT),*,29,1,10,0.1,1,4,0.25,0,6,0.0,0.15,3,3,1.0,2,2,4,3,0,0,1,2,6,1.7,H,1,1,makai-mason-1,Makai Mason,2019
+24,86,29,2019-03-02,Baylor,@,Kansas State,REG (Conf),L 60-66,*,31,4,9,0.444,2,5,0.4,2,4,0.5,0.556,1,2,0.5,0,2,2,3,0,0,4,2,11,3.8,A,0,1,makai-mason-1,Makai Mason,2019
+25,87,30,2019-03-06,Baylor,,Oklahoma State,REG (Conf),L 64-67,*,37,6,16,0.375,3,6,0.5,3,10,0.3,0.469,4,4,1.0,0,4,4,5,0,0,1,2,19,13.1,H,0,1,makai-mason-1,Makai Mason,2019
+26,88,32,2019-03-14,Baylor,N,Iowa State,CTOURN,L 66-83,*,33,5,15,0.333,4,8,0.5,1,7,0.143,0.467,0,0,,0,2,2,5,0,0,4,1,14,5.2,N,0,0,makai-mason-1,Makai Mason,2019
+27,89,33,2019-03-21,Baylor,N,Syracuse,ROUND-64,W 78-69,*,35,7,14,0.5,4,10,0.4,3,4,0.75,0.643,4,7,0.571,1,3,4,4,3,0,2,2,22,18.4,N,1,0,makai-mason-1,Makai Mason,2019
+28,90,34,2019-03-23,Baylor,N,Gonzaga,ROUND-32,L 71-83,*,36,5,16,0.313,2,7,0.286,3,9,0.333,0.375,5,5,1.0,0,1,1,5,0,0,0,2,17,10.8,N,0,0,makai-mason-1,Makai Mason,2019

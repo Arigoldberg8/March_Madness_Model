@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,2,1,2016-11-11,West Virginia,,Mount St. Mary's,REG (Non-Conf),W 87-59,,14,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,5,3,8,0,1,1,1,4,7,6.1,H,1,1,lamont-west-1,Lamont West,2017
+2,3,2,2016-11-14,West Virginia,,Mississippi Valley State,REG (Non-Conf),W 107-66,,9,4,7,0.571,0,2,0.0,4,5,0.8,0.571,4,4,1.0,0,1,1,2,1,0,0,3,12,10.2,H,1,1,lamont-west-1,Lamont West,2017
+3,4,3,2016-11-20,West Virginia,,New Hampshire,REG (Non-Conf),W 100-41,,18,5,8,0.625,2,3,0.667,3,5,0.6,0.75,1,2,0.5,0,2,2,3,1,0,0,1,13,12.3,H,1,1,lamont-west-1,Lamont West,2017
+4,5,4,2016-11-24,West Virginia,N,Illinois,REG (Non-Conf),W 89-57,,9,2,5,0.4,1,4,0.25,1,1,1.0,0.5,2,2,1.0,1,1,2,1,0,1,1,3,7,4.5,N,1,1,lamont-west-1,Lamont West,2017
+5,6,5,2016-11-25,West Virginia,N,Temple,REG (Non-Conf),L 77-81,,6,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.8,N,0,1,lamont-west-1,Lamont West,2017
+6,7,6,2016-11-28,West Virginia,,Manhattan,REG (Non-Conf),W 108-61,,17,0,4,0.0,0,1,0.0,0,3,0.0,0.0,6,8,0.75,0,1,1,0,0,0,0,1,6,2.3,H,1,1,lamont-west-1,Lamont West,2017
+7,8,7,2016-12-03,West Virginia,@,Virginia,REG (Non-Conf),W 66-57,,9,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,0,8,7.0,A,1,1,lamont-west-1,Lamont West,2017
+8,9,8,2016-12-07,West Virginia,N,Western Carolina,REG (Non-Conf),W 90-37,,17,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,2,0.5,1,2,3,2,1,1,0,1,5,5.9,N,1,1,lamont-west-1,Lamont West,2017
+9,10,9,2016-12-10,West Virginia,,VMI,REG (Non-Conf),W 90-55,,9,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,0,1,0,1,0,0,1,7,6.3,H,1,1,lamont-west-1,Lamont West,2017
+10,11,10,2016-12-17,West Virginia,,Kansas City,REG (Non-Conf),W 112-67,,12,3,6,0.5,2,5,0.4,1,1,1.0,0.667,2,4,0.5,2,3,5,0,1,1,2,3,10,7.0,H,1,1,lamont-west-1,Lamont West,2017
+11,12,11,2016-12-20,West Virginia,,Radford,REG (Non-Conf),W 84-57,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,0,1,1,0,1,0,1,2,2.3,H,1,1,lamont-west-1,Lamont West,2017
+12,13,12,2016-12-23,West Virginia,,Northern Kentucky,REG (Non-Conf),W 92-61,,8,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,0.9,H,1,1,lamont-west-1,Lamont West,2017
+13,14,13,2016-12-30,West Virginia,@,Oklahoma State,REG (Conf),W 92-75,,8,3,3,1.0,3,3,1.0,0,0,,1.5,0,0,,0,2,2,0,0,0,0,2,9,7.9,A,1,1,lamont-west-1,Lamont West,2017
+14,15,14,2017-01-03,West Virginia,@,Texas Tech,REG (Conf),L 76-77 (OT),,16,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,1,2,3,0,0,0,1,2,10,6.5,A,0,1,lamont-west-1,Lamont West,2017
+15,16,15,2017-01-07,West Virginia,,TCU,REG (Conf),W 82-70,,5,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,0,1,0,0,0,1,2,3,-0.5,H,1,1,lamont-west-1,Lamont West,2017
+16,17,16,2017-01-10,West Virginia,,Baylor,REG (Conf),W 89-68,,9,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.7,H,1,1,lamont-west-1,Lamont West,2017
+17,18,17,2017-01-14,West Virginia,@,Texas,REG (Conf),W 74-72,,9,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,0,1,3,2.2,A,1,1,lamont-west-1,Lamont West,2017
+18,19,18,2017-01-18,West Virginia,,Oklahoma,REG (Conf),L 87-89 (OT),,15,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,0,1,1,0,3,2,1.4,H,0,1,lamont-west-1,Lamont West,2017
+19,20,19,2017-01-21,West Virginia,@,Kansas State,REG (Conf),L 75-79,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,3,1.0,1,0,1,1,0,0,0,0,8,8.1,A,0,1,lamont-west-1,Lamont West,2017
+20,21,20,2017-01-24,West Virginia,,Kansas,REG (Conf),W 85-69,,9,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,0,1,0,0,1,3,1.5,H,1,1,lamont-west-1,Lamont West,2017
+21,22,21,2017-01-28,West Virginia,,Texas A&M,REG (Non-Conf),W 81-77,,7,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,0,1,0,1,0,0,0,3,2.3,H,1,1,lamont-west-1,Lamont West,2017
+22,23,22,2017-01-31,West Virginia,@,Iowa State,REG (Conf),W 85-72,,9,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,A,1,1,lamont-west-1,Lamont West,2017
+23,24,23,2017-02-04,West Virginia,,Oklahoma State,REG (Conf),L 75-82,,27,6,12,0.5,6,12,0.5,0,0,,0.75,3,4,0.75,0,0,0,1,0,1,1,4,21,13.4,H,0,1,lamont-west-1,Lamont West,2017
+24,25,24,2017-02-08,West Virginia,@,Oklahoma,REG (Conf),W 61-50,,13,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,1,1,2,0,0,0,1,1,3,0.9,A,1,1,lamont-west-1,Lamont West,2017
+25,26,25,2017-02-11,West Virginia,,Kansas State,REG (Conf),W 85-66,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,7,9,0,0,0,0,3,6,6.0,H,1,1,lamont-west-1,Lamont West,2017
+26,27,26,2017-02-13,West Virginia,@,Kansas,REG (Conf),L 80-84 (OT),,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,4,0,-3.7,A,0,1,lamont-west-1,Lamont West,2017
+27,28,27,2017-02-18,West Virginia,,Texas Tech,REG (Conf),W 83-74 (2OT),,7,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,0,0,0,0,0,0,0,3,3,0.8,H,1,1,lamont-west-1,Lamont West,2017
+28,29,28,2017-02-20,West Virginia,,Texas,REG (Conf),W 77-62,,23,7,10,0.7,6,8,0.75,1,2,0.5,1.0,3,3,1.0,1,3,4,2,0,1,0,1,23,22.1,H,1,1,lamont-west-1,Lamont West,2017
+29,30,29,2017-02-25,West Virginia,@,TCU,REG (Conf),W 61-60,*,18,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,2,2,0,0,0,0,2,4,-0.3,A,1,1,lamont-west-1,Lamont West,2017
+30,31,30,2017-02-27,West Virginia,@,Baylor,REG (Conf),L 62-71,,22,1,7,0.143,0,3,0.0,1,4,0.25,0.143,2,2,1.0,0,2,2,0,0,0,0,3,4,-1.1,A,0,1,lamont-west-1,Lamont West,2017
+31,32,31,2017-03-03,West Virginia,,Iowa State,REG (Conf),W 87-76,,10,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,2,0.0,0,1,1,0,0,0,2,0,2,-2.9,H,1,1,lamont-west-1,Lamont West,2017
+32,33,32,2017-03-09,West Virginia,N,Texas,CTOURN,W 63-53,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,1,0,0,0,1,0,1.0,N,1,0,lamont-west-1,Lamont West,2017
+33,34,33,2017-03-10,West Virginia,N,Kansas State,CTOURN,W 51-50,,13,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,1,1,0,0,0,0,1,3,1.2,N,1,0,lamont-west-1,Lamont West,2017
+34,35,34,2017-03-11,West Virginia,N,Iowa State,CTOURN,L 74-80,,7,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-2.1,N,0,0,lamont-west-1,Lamont West,2017
+35,36,35,2017-03-16,West Virginia,N,Bucknell,ROUND-64,W 86-80,,15,6,7,0.857,2,3,0.667,4,4,1.0,1.0,1,2,0.5,1,1,2,0,1,0,2,0,15,12.1,N,1,0,lamont-west-1,Lamont West,2017
+36,37,36,2017-03-18,West Virginia,N,Notre Dame,ROUND-32,W 83-71,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-2.5,N,1,0,lamont-west-1,Lamont West,2017
+37,38,37,2017-03-23,West Virginia,N,Gonzaga,ROUND-16,L 58-61,,8,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,1,0.0,0,1,1,0,0,0,0,2,0,-3.0,N,0,0,lamont-west-1,Lamont West,2017

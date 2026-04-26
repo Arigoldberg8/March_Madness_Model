@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2022-11-07,Missouri,,Southern Indiana,REG (Non-Conf),W 97-91,*,23,1,5,0.2,1,4,0.25,0,1,0.0,0.3,7,8,0.875,0,2,2,5,2,0,1,3,10,10.4,H,1,1,nick-honor-1,Nick Honor,2023
+2,91,2,2022-11-11,Missouri,,Pennsylvania,REG (Non-Conf),W 92-85,*,33,4,8,0.5,3,6,0.5,1,2,0.5,0.688,5,6,0.833,0,1,1,4,3,0,1,2,16,15.9,H,1,1,nick-honor-1,Nick Honor,2023
+3,92,3,2022-11-13,Missouri,,Lindenwood,REG (Non-Conf),W 82-53,*,25,3,10,0.3,3,8,0.375,0,2,0.0,0.45,2,2,1.0,2,3,5,4,1,0,1,3,11,9.1,H,1,1,nick-honor-1,Nick Honor,2023
+4,93,4,2022-11-15,Missouri,,SIU Edwardsville,REG (Non-Conf),W 105-80,*,21,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,1,1,2,1,2,0,1,1,7,7.7,H,1,1,nick-honor-1,Nick Honor,2023
+5,94,5,2022-11-20,Missouri,,Mississippi Valley State,REG (Non-Conf),W 83-62,*,25,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,1,1,2,6,3,0,0,0,10,16.3,H,1,1,nick-honor-1,Nick Honor,2023
+6,95,6,2022-11-23,Missouri,,Coastal Carolina,REG (Non-Conf),W 89-51,*,21,3,8,0.375,3,6,0.5,0,2,0.0,0.563,0,0,,2,3,5,2,2,0,0,2,9,9.5,H,1,1,nick-honor-1,Nick Honor,2023
+7,96,7,2022-11-26,Missouri,,Houston Christian,REG (Non-Conf),W 105-69,*,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,1,1,4,2,0,1,1,8,10.8,H,1,1,nick-honor-1,Nick Honor,2023
+8,97,8,2022-11-29,Missouri,@,Wichita State,REG (Non-Conf),W 88-84 (OT),*,35,2,8,0.25,1,6,0.167,1,2,0.5,0.313,3,4,0.75,1,1,2,1,4,0,2,1,8,6.1,A,1,1,nick-honor-1,Nick Honor,2023
+9,98,9,2022-12-04,Missouri,,Southeast Missouri State,REG (Non-Conf),W 96-89,*,36,4,8,0.5,3,6,0.5,1,2,0.5,0.688,0,1,0.0,0,0,0,2,4,0,2,1,11,9.6,H,1,1,nick-honor-1,Nick Honor,2023
+10,99,10,2022-12-10,Missouri,,Kansas,REG (Non-Conf),L 67-95,*,32,6,8,0.75,1,2,0.5,5,6,0.833,0.813,2,2,1.0,0,0,0,5,1,0,3,2,15,12.5,H,0,1,nick-honor-1,Nick Honor,2023
+11,100,11,2022-12-17,Missouri,N,UCF,REG (Non-Conf),W 68-66,*,34,6,9,0.667,5,8,0.625,1,1,1.0,0.944,0,0,,0,2,2,3,1,0,2,4,17,13.2,N,1,1,nick-honor-1,Nick Honor,2023
+12,101,12,2022-12-22,Missouri,N,Illinois,REG (Non-Conf),W 93-71,*,30,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,2,2,4,2,0,1,3,4,4.5,N,1,1,nick-honor-1,Nick Honor,2023
+13,102,13,2022-12-28,Missouri,,Kentucky,REG (Conf),W 89-75,*,35,0,3,0.0,0,2,0.0,0,1,0.0,0.0,4,4,1.0,1,1,2,6,2,0,0,2,4,8.3,H,1,1,nick-honor-1,Nick Honor,2023
+14,103,14,2023-01-04,Missouri,@,Arkansas,REG (Conf),L 68-74,*,38,3,7,0.429,2,4,0.5,1,3,0.333,0.571,4,5,0.8,0,2,2,4,2,0,0,4,12,11.7,A,0,1,nick-honor-1,Nick Honor,2023
+15,104,15,2023-01-07,Missouri,,Vanderbilt,REG (Conf),W 85-82,*,32,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,1,1,3,2,0,0,0,3,4.3,H,1,1,nick-honor-1,Nick Honor,2023
+16,105,16,2023-01-11,Missouri,@,Texas A&M,REG (Conf),L 64-82,*,36,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,4,1.0,0,2,2,2,2,0,1,3,9,7.4,A,0,1,nick-honor-1,Nick Honor,2023
+17,106,17,2023-01-14,Missouri,@,Florida,REG (Conf),L 64-73,*,29,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,0,0,3,0,0,3,1,2,-1.7,A,0,1,nick-honor-1,Nick Honor,2023
+18,107,18,2023-01-18,Missouri,,Arkansas,REG (Conf),W 79-76,*,27,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,0,1,1,1,1,0,1,0,5,5.0,H,1,1,nick-honor-1,Nick Honor,2023
+19,108,19,2023-01-21,Missouri,,Alabama,REG (Conf),L 64-85,*,31,1,9,0.111,0,4,0.0,1,5,0.2,0.111,2,2,1.0,1,1,2,1,1,0,0,2,4,0.0,H,0,1,nick-honor-1,Nick Honor,2023
+20,109,20,2023-01-24,Missouri,@,Ole Miss,REG (Conf),W 89-77,*,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,3,1,0,2,1,2,1.2,A,1,1,nick-honor-1,Nick Honor,2023
+21,110,21,2023-01-28,Missouri,,Iowa State,REG (Non-Conf),W 78-61,*,27,4,9,0.444,4,7,0.571,0,2,0.0,0.667,0,0,,0,1,1,1,1,0,1,1,12,7.9,H,1,1,nick-honor-1,Nick Honor,2023
+22,111,22,2023-02-01,Missouri,,Louisiana State,REG (Conf),W 87-77,*,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,1,1,2,1,0,0,2,6,5.9,H,1,1,nick-honor-1,Nick Honor,2023
+23,112,23,2023-02-04,Missouri,@,Mississippi State,REG (Conf),L 52-63,*,31,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,1,2,1,1,0,1,2,6,3.5,A,0,1,nick-honor-1,Nick Honor,2023
+24,113,24,2023-02-07,Missouri,,South Carolina,REG (Conf),W 83-74,*,31,4,9,0.444,2,4,0.5,2,5,0.4,0.556,4,4,1.0,0,1,1,2,0,0,0,0,14,11.0,H,1,1,nick-honor-1,Nick Honor,2023
+25,114,25,2023-02-11,Missouri,@,Tennessee,REG (Conf),W 86-85,*,31,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,1,0,1,3,3,1.1,A,1,1,nick-honor-1,Nick Honor,2023
+26,115,26,2023-02-14,Missouri,@,Auburn,REG (Conf),L 56-89,*,27,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,0,1,1,1,0,1,2,7,3.9,A,0,1,nick-honor-1,Nick Honor,2023
+27,116,27,2023-02-18,Missouri,,Texas A&M,REG (Conf),L 60-69,*,29,0,4,0.0,0,4,0.0,0,0,,0.0,0,0,,0,0,0,2,1,0,1,2,0,-2.2,H,0,1,nick-honor-1,Nick Honor,2023
+28,117,28,2023-02-21,Missouri,,Mississippi State,REG (Conf),W 66-64 (OT),*,37,3,6,0.5,2,3,0.667,1,3,0.333,0.667,2,2,1.0,1,3,4,5,0,0,2,0,10,10.1,H,1,1,nick-honor-1,Nick Honor,2023
+29,118,29,2023-02-25,Missouri,@,Georgia,REG (Conf),W 85-63,*,33,6,9,0.667,5,7,0.714,1,2,0.5,0.944,0,0,,0,1,1,4,0,0,0,4,17,14.6,A,1,1,nick-honor-1,Nick Honor,2023
+30,119,30,2023-03-01,Missouri,@,Louisiana State,REG (Conf),W 81-76,*,29,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,0,1,2,0,0,0,2,5,3.6,A,1,1,nick-honor-1,Nick Honor,2023
+31,120,31,2023-03-04,Missouri,,Ole Miss,REG (Conf),W 82-77,*,28,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,0,0,0,6,3,0,0,1,7,9.0,H,1,1,nick-honor-1,Nick Honor,2023
+32,121,32,2023-03-10,Missouri,N,Tennessee,CTOURN,W 79-71,*,28,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,3,3,4,2,0,2,3,8,8.2,N,1,0,nick-honor-1,Nick Honor,2023
+33,122,33,2023-03-11,Missouri,N,Alabama,CTOURN,L 61-72,*,31,1,10,0.1,1,6,0.167,0,4,0.0,0.15,0,0,,0,1,1,2,0,0,0,1,3,-2.3,N,0,0,nick-honor-1,Nick Honor,2023
+34,123,34,2023-03-16,Missouri,N,Utah State,ROUND-64,W 76-65,*,30,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,4,0.5,0,1,1,3,3,0,1,1,5,5.8,N,1,0,nick-honor-1,Nick Honor,2023
+35,124,35,2023-03-18,Missouri,N,Princeton,ROUND-32,L 63-78,*,37,2,6,0.333,2,5,0.4,0,1,0.0,0.5,2,2,1.0,0,1,1,2,2,0,1,1,8,6.9,N,0,0,nick-honor-1,Nick Honor,2023

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-12,UNLV,,Northern Arizona,REG (Non-Conf),W 92-54,*,33,4,12,0.333,2,8,0.25,2,4,0.5,0.417,4,4,1.0,0,3,3,4,2,0,1,3,14,10.7,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+2,2,2,2012-11-17,UNLV,,Jacksonville State,REG (Non-Conf),W 77-58,*,28,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,2,1.0,0,1,1,2,1,0,1,2,11,7.2,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+3,3,3,2012-11-23,UNLV,,Oregon,REG (Non-Conf),L 79-83,*,32,6,15,0.4,4,8,0.5,2,7,0.286,0.533,2,2,1.0,0,2,2,2,1,1,3,2,18,9.8,H,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+4,4,4,2012-11-24,UNLV,N,Iowa State,REG (Non-Conf),W 82-70,*,25,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,0,1,1,2,1,0,1,1,2,0.5,N,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+5,5,5,2012-11-28,UNLV,,UC Irvine,REG (Non-Conf),W 85-57,*,27,4,8,0.5,2,5,0.4,2,3,0.667,0.625,3,4,0.75,0,1,1,3,1,0,0,0,13,12.0,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+6,6,6,2012-12-01,UNLV,,Hawaii,REG (Non-Conf),W 77-63,*,31,2,4,0.5,2,3,0.667,0,1,0.0,0.75,4,4,1.0,0,2,2,7,2,0,4,0,10,11.5,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+7,7,7,2012-12-04,UNLV,@,Portland,REG (Non-Conf),W 68-60,*,33,2,10,0.2,0,4,0.0,2,6,0.333,0.2,0,0,,0,2,2,3,1,0,3,0,4,-1.5,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+8,8,8,2012-12-09,UNLV,@,California,REG (Non-Conf),W 76-75,*,24,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,0,0,0,3,0,0,0,2,3,-0.2,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+9,9,9,2012-12-13,UNLV,,La Verne,REG (Non-Conf),W 91-44,*,23,5,10,0.5,4,6,0.667,1,4,0.25,0.7,0,0,,1,5,6,2,1,0,2,1,14,11.2,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+10,10,10,2012-12-17,UNLV,@,UTEP,REG (Non-Conf),W 62-60,*,29,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,1,1,2,1,0,0,0,0,10,8.0,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+11,11,11,2012-12-19,UNLV,,Northern Iowa,REG (Non-Conf),W 73-59,*,32,2,8,0.25,1,5,0.2,1,3,0.333,0.313,2,2,1.0,1,2,3,2,2,1,1,2,7,5.8,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+12,12,12,2012-12-22,UNLV,,Canisius,REG (Non-Conf),W 89-74,*,35,6,9,0.667,0,1,0.0,6,8,0.75,0.667,2,2,1.0,2,1,3,5,3,1,2,1,14,16.6,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+13,13,13,2012-12-29,UNLV,@,North Carolina,REG (Non-Conf),L 73-79,*,26,4,9,0.444,4,5,0.8,0,4,0.0,0.667,3,5,0.6,0,1,1,1,0,1,2,3,15,8.0,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+14,14,14,2013-01-03,UNLV,,Chicago State,REG (Non-Conf),W 74-52,*,27,4,9,0.444,1,6,0.167,3,3,1.0,0.5,3,3,1.0,1,1,2,3,2,0,3,0,12,9.4,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+15,15,15,2013-01-05,UNLV,,Cal State Bakersfield,REG (Non-Conf),W 84-63,*,26,2,10,0.2,0,4,0.0,2,6,0.333,0.2,2,2,1.0,0,3,3,3,3,0,2,0,6,3.8,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+16,16,16,2013-01-09,UNLV,@,New Mexico,REG (Conf),L 60-65,*,28,2,8,0.25,2,5,0.4,0,3,0.0,0.375,1,2,0.5,0,3,3,4,0,1,2,0,7,4.2,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+17,17,17,2013-01-12,UNLV,,Air Force,REG (Conf),W 76-71 (OT),*,29,3,11,0.273,2,8,0.25,1,3,0.333,0.364,0,0,,0,1,1,2,0,1,1,0,8,2.9,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+18,18,18,2013-01-16,UNLV,@,San Diego State,REG (Conf),W 82-75,*,34,2,6,0.333,1,2,0.5,1,4,0.25,0.417,4,4,1.0,0,2,2,3,0,0,0,1,9,7.9,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+19,19,19,2013-01-19,UNLV,@,Colorado State,REG (Conf),L 61-66,*,27,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,2,1.0,0,1,1,1,1,0,2,1,11,5.9,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+20,20,20,2013-01-24,UNLV,,Wyoming,REG (Conf),W 62-50,*,26,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,2,2,1,0,0,3,1,8,2.9,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+21,21,21,2013-01-29,UNLV,,Nevada,REG (Conf),W 66-54,*,23,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,0,1,1,1,1,1,2,1,9,5.6,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+22,22,22,2013-02-02,UNLV,@,Boise State,REG (Conf),L 72-77,*,35,3,8,0.375,3,7,0.429,0,1,0.0,0.563,0,0,,0,1,1,3,1,0,1,0,9,7.0,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+23,23,23,2013-02-06,UNLV,@,Fresno State,REG (Conf),L 55-64,*,35,2,9,0.222,0,5,0.0,2,4,0.5,0.222,2,2,1.0,0,4,4,4,2,0,1,3,6,4.3,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+24,24,24,2013-02-09,UNLV,,New Mexico,REG (Conf),W 64-55,*,34,6,15,0.4,4,7,0.571,2,8,0.25,0.533,0,0,,0,4,4,3,0,0,3,1,16,7.8,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+25,25,25,2013-02-13,UNLV,@,Air Force,REG (Conf),L 56-71,*,37,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,2,1.0,0,0,0,2,1,0,5,1,15,7.0,A,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+26,26,26,2013-02-16,UNLV,,San Diego State,REG (Conf),W 72-70,*,21,1,5,0.2,1,2,0.5,0,3,0.0,0.3,3,4,0.75,0,2,2,4,1,0,2,2,6,4.1,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+27,27,27,2013-02-20,UNLV,,Colorado State,REG (Conf),W 61-59,*,32,6,14,0.429,2,7,0.286,4,7,0.571,0.5,1,1,1.0,1,5,6,3,0,0,4,0,15,7.9,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+28,28,28,2013-02-23,UNLV,@,Wyoming,REG (Conf),W 65-42,*,20,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,1,2,3,2,0,0,2,3,10,6.9,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+29,29,29,2013-03-02,UNLV,@,Nevada,REG (Conf),W 80-63,*,29,5,9,0.556,2,4,0.5,3,5,0.6,0.667,2,2,1.0,0,1,1,1,0,0,2,1,14,8.3,A,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+30,30,30,2013-03-05,UNLV,,Boise State,REG (Conf),W 68-64,*,30,3,10,0.3,3,8,0.375,0,2,0.0,0.45,2,2,1.0,0,0,0,1,1,0,3,3,11,2.7,H,1,1,katin-reinhardt-1,Katin Reinhardt,2013
+31,31,31,2013-03-09,UNLV,,Fresno State,REG (Conf),L 52-61,,24,1,8,0.125,1,5,0.2,0,3,0.0,0.188,0,0,,0,1,1,2,0,0,1,0,3,-1.5,H,0,1,katin-reinhardt-1,Katin Reinhardt,2013
+32,32,32,2013-03-13,UNLV,,Air Force,CTOURN,W 72-56,*,22,1,10,0.1,0,5,0.0,1,5,0.2,0.1,0,0,,1,1,2,3,0,0,2,2,2,-4.3,H,1,0,katin-reinhardt-1,Katin Reinhardt,2013
+33,33,33,2013-03-15,UNLV,N,Colorado State,CTOURN,W 75-65,*,37,5,13,0.385,4,9,0.444,1,4,0.25,0.538,7,8,0.875,0,1,1,2,3,0,1,2,21,16.4,N,1,0,katin-reinhardt-1,Katin Reinhardt,2013
+34,34,34,2013-03-16,UNLV,N,New Mexico,CTOURN,L 56-63,*,37,4,16,0.25,2,8,0.25,2,8,0.25,0.313,1,2,0.5,1,0,1,0,0,0,1,1,11,0.3,N,0,0,katin-reinhardt-1,Katin Reinhardt,2013
+35,35,35,2013-03-21,UNLV,N,California,ROUND-64,L 61-64,*,31,4,13,0.308,3,8,0.375,1,5,0.2,0.423,0,0,,0,2,2,1,0,0,2,3,11,1.6,N,0,0,katin-reinhardt-1,Katin Reinhardt,2013

@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2020-11-28,Eastern Washington,@,Washington State,REG (Non-Conf),L 68-71,*,38,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,3,0.667,2,6,8,2,0,0,3,4,14,8.6,A,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+2,63,2,2020-12-05,Eastern Washington,@,Arizona,REG (Non-Conf),L 67-70,*,31,1,8,0.125,1,7,0.143,0,1,0.0,0.188,3,3,1.0,0,5,5,0,3,2,2,5,6,2.7,A,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+3,64,3,2020-12-07,Eastern Washington,@,Oregon,REG (Non-Conf),L 52-69,*,22,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,3,4,0,1,0,1,3,0,-1.7,A,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+4,65,4,2020-12-11,Eastern Washington,,Coll. of Idaho,REG (Non-Conf),W 80-56,*,22,4,10,0.4,2,7,0.286,2,3,0.667,0.5,1,2,0.5,1,7,8,1,3,0,1,1,11,10.3,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+5,66,5,2020-12-15,Eastern Washington,@,St. Mary's (CA),REG (Non-Conf),L 75-80,*,31,4,10,0.4,1,4,0.25,3,6,0.5,0.45,3,3,1.0,2,6,8,3,0,1,0,3,12,11.4,A,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+6,67,6,2020-12-19,Eastern Washington,@,Northern Arizona,REG (Conf),W 80-64,*,27,6,8,0.75,5,7,0.714,1,1,1.0,1.063,2,3,0.667,2,7,9,2,0,2,2,3,19,18.5,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+7,68,7,2021-01-14,Eastern Washington,,Southern Utah,REG (Conf),W 75-63,*,38,3,8,0.375,0,2,0.0,3,6,0.5,0.375,3,4,0.75,2,8,10,4,0,3,2,2,9,10.1,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+8,69,8,2021-01-16,Eastern Washington,,Southern Utah,REG (Conf),L 94-99,*,36,7,11,0.636,5,9,0.556,2,2,1.0,0.864,4,6,0.667,3,9,12,1,2,2,0,5,23,24.2,H,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+9,70,9,2021-01-21,Eastern Washington,@,Northern Colorado,REG (Conf),L 76-78,*,35,4,8,0.5,0,3,0.0,4,5,0.8,0.5,0,0,,2,5,7,4,1,0,2,1,8,8.3,A,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+10,71,10,2021-01-23,Eastern Washington,@,Northern Colorado,REG (Conf),W 82-76,*,34,5,10,0.5,0,1,0.0,5,9,0.556,0.5,7,9,0.778,1,7,8,4,1,1,1,0,17,17.5,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+11,72,11,2021-01-31,Eastern Washington,,Sacramento State,REG (Conf),W 68-60,*,34,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,3,6,9,1,1,2,2,3,4,6.1,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+12,73,12,2021-02-01,Eastern Washington,,Sacramento State,REG (Conf),W 94-79,*,21,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,6,6,3,0,0,2,2,8,7.2,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+13,74,13,2021-02-04,Eastern Washington,@,Idaho,REG (Conf),W 89-75,*,31,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,1,3,4,2,0,2,0,1,5,4.9,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+14,75,14,2021-02-06,Eastern Washington,,Idaho,REG (Conf),W 90-64,*,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,3,4,0.75,3,8,11,1,0,0,2,3,5,3.5,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+15,76,15,2021-02-11,Eastern Washington,@,Montana State,REG (Conf),W 93-77,*,28,5,9,0.556,2,5,0.4,3,4,0.75,0.667,8,8,1.0,0,8,8,3,1,0,3,2,20,17.4,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+16,77,16,2021-02-13,Eastern Washington,@,Montana State,REG (Conf),W 85-69,*,33,4,10,0.4,2,7,0.286,2,3,0.667,0.5,2,2,1.0,6,7,13,3,1,0,1,3,12,13.8,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+17,78,17,2021-02-18,Eastern Washington,,Montana,REG (Conf),W 90-76,*,34,9,12,0.75,3,6,0.5,6,6,1.0,0.875,0,1,0.0,1,7,8,1,4,0,1,2,21,21.5,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+18,79,18,2021-02-20,Eastern Washington,@,Montana,REG (Conf),W 90-76,*,31,8,14,0.571,4,5,0.8,4,9,0.444,0.714,8,9,0.889,3,7,10,2,2,2,1,1,28,28.6,A,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+19,80,19,2021-03-03,Eastern Washington,,Idaho State,REG (Conf),L 63-68,*,34,6,14,0.429,1,7,0.143,5,7,0.714,0.464,0,1,0.0,2,3,5,2,4,1,2,3,13,10.4,H,0,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+20,81,20,2021-03-05,Eastern Washington,,Idaho State,REG (Conf),W 75-62,*,25,1,8,0.125,0,3,0.0,1,5,0.2,0.125,2,2,1.0,5,9,14,3,1,3,2,2,4,7.4,H,1,1,kim-aikenjr-1,Kim Aiken Jr.,2021
+21,82,21,2021-03-11,Eastern Washington,N,Northern Arizona,CTOURN,W 66-60,*,34,4,9,0.444,4,9,0.444,0,0,,0.667,0,0,,1,7,8,1,2,0,3,2,12,9.0,N,1,0,kim-aikenjr-1,Kim Aiken Jr.,2021
+22,83,22,2021-03-12,Eastern Washington,N,Montana,CTOURN,W 78-50,*,27,2,2,1.0,1,1,1.0,1,1,1.0,1.25,3,4,0.75,0,10,10,2,2,1,0,0,8,14.1,N,1,0,kim-aikenjr-1,Kim Aiken Jr.,2021
+23,84,23,2021-03-13,Eastern Washington,N,Montana State,CTOURN,W 65-55,*,35,2,10,0.2,0,7,0.0,2,3,0.667,0.2,5,5,1.0,0,10,10,1,2,3,3,3,9,6.4,N,1,0,kim-aikenjr-1,Kim Aiken Jr.,2021
+24,85,24,2021-03-20,Eastern Washington,N,Kansas,ROUND-64,L 84-93,*,31,1,9,0.111,0,5,0.0,1,4,0.25,0.111,0,0,,1,5,6,2,1,0,2,3,2,-2.5,N,0,0,kim-aikenjr-1,Kim Aiken Jr.,2021

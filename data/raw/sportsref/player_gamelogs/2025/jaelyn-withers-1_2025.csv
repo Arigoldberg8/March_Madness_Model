@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,119,1,2024-11-04,North Carolina,,Elon,REG (Non-Conf),W 90-76,*,22,4,10,0.4,2,3,0.667,2,7,0.286,0.5,0,0,,4,6,10,1,1,0,1,2,10,9.1,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+2,120,2,2024-11-08,North Carolina,@,Kansas,REG (Non-Conf),L 89-92,*,24,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,0,9,9,0,1,0,1,3,11,9.9,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+3,121,3,2024-11-15,North Carolina,,American,REG (Non-Conf),W 107-55,*,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,3,3,1.0,1,6,7,4,0,0,0,0,7,11.0,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+4,122,4,2024-11-23,North Carolina,@,Hawaii,REG (Non-Conf),W 87-69,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,3,0.0,0,1,1,1,1,0,0,3,2,-0.8,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+5,123,5,2024-11-25,North Carolina,N,Dayton,REG (Non-Conf),W 92-90,*,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,5,0.6,0,3,3,0,1,0,1,1,3,1.3,N,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+6,124,6,2024-11-26,North Carolina,N,Auburn,REG (Non-Conf),L 72-85,*,20,1,4,0.25,1,2,0.5,0,2,0.0,0.375,7,8,0.875,1,6,7,0,0,0,0,1,10,9.3,N,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+7,125,7,2024-11-27,North Carolina,N,Michigan State,REG (Non-Conf),L 91-94 (OT),*,33,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,2,2,4,0,0,0,1,5,8,4.0,N,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+8,126,8,2024-12-04,North Carolina,,Alabama,REG (Non-Conf),L 79-94,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,0,0,0,1,1,2,-0.8,H,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+9,127,9,2024-12-07,North Carolina,,Georgia Tech,REG (Conf),W 68-65,,16,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,6,6,1,0,0,3,2,2,-1.7,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+10,128,10,2024-12-14,North Carolina,,La Salle,REG (Non-Conf),W 93-67,,12,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,2,0.0,0,1,1,0,1,2,0,3,7,5.4,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+11,129,11,2024-12-17,North Carolina,N,Florida,REG (Non-Conf),L 84-90,,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,1,1,1.0,1,1,2,1,0,0,1,2,5,2.9,N,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+12,130,12,2024-12-21,North Carolina,N,UCLA,REG (Non-Conf),W 76-74,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,1,1,1,2,2,2,1.6,N,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+13,131,13,2024-12-29,North Carolina,,Campbell,REG (Non-Conf),W 97-81,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,2,5,7,0,1,0,0,1,4,5.8,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+14,132,14,2025-01-01,North Carolina,@,Louisville,REG (Conf),L 70-83,,16,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,4,5,0,0,0,0,1,2,2.5,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+15,133,15,2025-01-04,North Carolina,@,Notre Dame,REG (Conf),W 74-73,,19,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,1,3,4,0,2,0,1,1,7,6.9,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+16,134,16,2025-01-07,North Carolina,,SMU,REG (Conf),W 82-67,,14,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,3,1.0,1,2,3,0,1,1,2,2,7,5.2,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+17,135,17,2025-01-11,North Carolina,@,NC State,REG (Conf),W 63-61,,4,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+18,136,18,2025-01-15,North Carolina,,California,REG (Conf),W 79-53,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,2,2,4,0,0,0,1,2,5,4.6,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+19,137,19,2025-01-18,North Carolina,,Stanford,REG (Conf),L 71-72,,6,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,0,0,0,0,0,1,1.2,H,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+20,138,20,2025-01-21,North Carolina,@,Wake Forest,REG (Conf),L 66-67,,10,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,1,1,1,0,0,2,1,3,0.6,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+21,139,21,2025-01-25,North Carolina,,Boston College,REG (Conf),W 102-96 (OT),,3,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+22,140,22,2025-01-28,North Carolina,@,Pittsburgh,REG (Conf),L 65-73,,3,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,0,0,5,4.4,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+23,141,23,2025-02-01,North Carolina,@,Duke,REG (Conf),L 70-87,,12,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,1,1,0,0,2,1,1,5,4.0,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+24,142,24,2025-02-08,North Carolina,,Pittsburgh,REG (Conf),W 67-66,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,1,0,2,0,0.2,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+25,143,25,2025-02-10,North Carolina,@,Clemson,REG (Conf),L 65-85,*,17,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,1,0,0,1,3,5,2.8,A,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+26,144,26,2025-02-15,North Carolina,@,Syracuse,REG (Conf),W 88-82,*,24,7,10,0.7,3,4,0.75,4,6,0.667,0.85,2,2,1.0,2,4,6,1,0,3,1,5,19,17.2,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+27,145,27,2025-02-19,North Carolina,,NC State,REG (Conf),W 97-73,*,20,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,0,4,4,1,1,0,1,0,8,7.6,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+28,146,28,2025-02-22,North Carolina,,Virginia,REG (Conf),W 81-66,*,29,5,8,0.625,4,6,0.667,1,2,0.5,0.875,2,3,0.667,4,7,11,1,0,1,1,2,16,16.5,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+29,147,29,2025-02-24,North Carolina,@,Florida State,REG (Conf),W 96-85,*,21,2,3,0.667,1,2,0.5,1,1,1.0,0.833,6,9,0.667,2,3,5,1,0,0,0,2,11,10.7,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+30,148,30,2025-03-01,North Carolina,,Miami (FL),REG (Conf),W 92-73,*,33,4,6,0.667,2,2,1.0,2,4,0.5,0.833,1,2,0.5,1,9,10,4,0,0,0,3,11,13.0,H,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+31,149,31,2025-03-04,North Carolina,@,Virginia Tech,REG (Conf),W 91-59,*,19,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,1,6,7,0,0,0,1,0,5,2.4,A,1,1,jaelyn-withers-1,Jae'lyn Withers,2025
+32,150,32,2025-03-08,North Carolina,,Duke,REG (Conf),L 69-82,*,26,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,0,4,4,1,0,0,0,1,7,2.7,H,0,1,jaelyn-withers-1,Jae'lyn Withers,2025
+33,151,33,2025-03-12,North Carolina,N,Notre Dame,CTOURN,W 76-56,*,29,7,10,0.7,7,10,0.7,0,0,,1.05,0,0,,0,9,9,1,2,2,0,2,21,22.8,N,1,0,jaelyn-withers-1,Jae'lyn Withers,2025
+34,152,34,2025-03-13,North Carolina,N,Wake Forest,CTOURN,W 68-59,*,33,2,10,0.2,2,7,0.286,0,3,0.0,0.3,3,4,0.75,2,7,9,3,1,0,1,0,9,8.0,N,1,0,jaelyn-withers-1,Jae'lyn Withers,2025
+35,153,35,2025-03-14,North Carolina,N,Duke,CTOURN,L 71-74,*,20,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,3,3,0,1,0,3,2,2,-3.0,N,0,0,jaelyn-withers-1,Jae'lyn Withers,2025
+36,154,36,2025-03-18,North Carolina,N,San Diego State,FIRST-FOUR,W 95-68,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,2,1.0,0,9,9,1,1,0,3,3,10,7.2,N,1,0,jaelyn-withers-1,Jae'lyn Withers,2025
+37,155,37,2025-03-21,North Carolina,N,Ole Miss,ROUND-64,L 64-71,*,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,3,0.667,0,2,2,1,0,0,2,1,5,1.8,N,0,0,jaelyn-withers-1,Jae'lyn Withers,2025

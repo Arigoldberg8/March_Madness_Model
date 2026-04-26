@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,48,1,2010-11-12,Notre Dame,,Georgia Southern,REG (Non-Conf),W 98-61,*,22,2,13,0.154,1,7,0.143,1,6,0.167,0.192,5,6,0.833,1,4,5,3,0,0,1,1,10,3.9,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+2,49,2,2010-11-14,Notre Dame,,Liberty,REG (Non-Conf),W 72-51,*,34,4,12,0.333,2,9,0.222,2,3,0.667,0.417,3,4,0.75,1,6,7,0,2,1,2,2,13,8.2,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+3,50,3,2010-11-17,Notre Dame,,Chicago State,REG (Non-Conf),W 102-62,*,30,6,15,0.4,1,8,0.125,5,7,0.714,0.433,8,9,0.889,3,7,10,7,1,1,0,0,21,23.3,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+4,51,4,2010-11-22,Notre Dame,,Maine,REG (Non-Conf),W 97-72,*,27,8,9,0.889,4,5,0.8,4,4,1.0,1.111,6,6,1.0,0,3,3,3,1,0,0,2,26,26.1,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+5,52,5,2010-11-25,Notre Dame,N,Georgia,REG (Non-Conf),W 89-83 (2OT),*,46,6,11,0.545,4,5,0.8,2,6,0.333,0.727,9,12,0.75,0,6,6,0,1,0,2,4,25,17.7,N,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+6,53,6,2010-11-26,Notre Dame,N,California,REG (Non-Conf),W 57-44,*,37,2,10,0.2,0,4,0.0,2,6,0.333,0.2,3,5,0.6,3,8,11,2,0,2,1,1,7,5.9,N,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+7,54,7,2010-11-28,Notre Dame,N,Wisconsin,REG (Non-Conf),W 58-51,*,36,3,11,0.273,0,2,0.0,3,9,0.333,0.273,4,4,1.0,1,8,9,0,0,0,2,2,10,3.8,N,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+8,55,8,2010-11-30,Notre Dame,,Indiana State,REG (Non-Conf),W 81-72,*,33,4,11,0.364,3,7,0.429,1,4,0.25,0.5,2,2,1.0,0,4,4,3,1,0,1,3,13,9.0,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+9,56,9,2010-12-08,Notre Dame,N,Kentucky,REG (Non-Conf),L 58-72,*,31,1,7,0.143,0,4,0.0,1,3,0.333,0.143,2,2,1.0,1,7,8,2,0,1,1,1,4,3.0,N,0,1,tim-abromaitis-1,Tim Abromaitis,2011
+10,57,10,2010-12-11,Notre Dame,,Gonzaga,REG (Non-Conf),W 83-79,*,39,7,13,0.538,4,6,0.667,3,7,0.429,0.692,3,3,1.0,2,6,8,4,0,0,1,1,21,19.3,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+11,58,11,2010-12-19,Notre Dame,,Stony Brook,REG (Non-Conf),W 88-62,*,31,8,13,0.615,2,5,0.4,6,8,0.75,0.692,4,5,0.8,2,6,8,3,1,2,2,0,22,21.4,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+12,59,12,2010-12-22,Notre Dame,,UMBC,REG (Non-Conf),W 93-53,*,26,7,12,0.583,3,7,0.429,4,5,0.8,0.708,4,5,0.8,4,7,11,2,2,2,3,0,21,21.7,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+13,60,13,2010-12-29,Notre Dame,,Georgetown,REG (Conf),W 69-55,*,39,6,12,0.5,5,7,0.714,1,5,0.2,0.708,3,3,1.0,1,3,4,1,1,0,3,1,20,13.9,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+14,61,14,2011-01-01,Notre Dame,@,Syracuse,REG (Conf),L 58-70,*,38,6,15,0.4,3,6,0.5,3,9,0.333,0.5,0,1,0.0,3,4,7,2,1,0,4,3,15,7.0,A,0,1,tim-abromaitis-1,Tim Abromaitis,2011
+15,62,15,2011-01-04,Notre Dame,,Connecticut,REG (Conf),W 73-70,*,39,6,9,0.667,3,5,0.6,3,4,0.75,0.833,4,10,0.4,1,6,7,1,2,1,3,2,19,14.8,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+16,63,16,2011-01-08,Notre Dame,,St. John's (NY),REG (Conf),W 76-61,*,39,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,1,8,9,4,1,0,2,3,12,11.0,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+17,64,17,2011-01-10,Notre Dame,@,Marquette,REG (Conf),L 57-79,*,33,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,1,1.0,0,4,4,0,1,0,3,4,10,3.6,A,0,1,tim-abromaitis-1,Tim Abromaitis,2011
+18,65,18,2011-01-16,Notre Dame,@,St. John's (NY),REG (Conf),L 54-72,*,35,4,11,0.364,1,4,0.25,3,7,0.429,0.409,1,1,1.0,1,2,3,0,1,0,5,4,10,-0.4,A,0,1,tim-abromaitis-1,Tim Abromaitis,2011
+19,66,19,2011-01-19,Notre Dame,,Cincinnati,REG (Conf),W 66-58,*,32,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,0,6,6,1,0,0,0,3,12,7.9,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+20,67,20,2011-01-22,Notre Dame,,Marquette,REG (Conf),W 80-75,*,33,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,2,0.5,2,2,4,0,0,0,2,2,6,1.4,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+21,68,21,2011-01-24,Notre Dame,@,Pittsburgh,REG (Conf),W 56-51,*,29,0,0,,0,0,,0,0,,,2,2,1.0,1,1,2,0,0,1,0,1,2,3.3,A,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+22,69,22,2011-02-03,Notre Dame,@,DePaul,REG (Conf),W 83-58,*,29,4,9,0.444,1,3,0.333,3,6,0.5,0.5,4,4,1.0,2,2,4,1,3,0,2,3,13,10.8,A,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+23,70,23,2011-02-06,Notre Dame,,Rutgers,REG (Conf),W 76-69,*,33,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,1,7,8,1,0,0,2,1,10,6.7,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+24,71,24,2011-02-09,Notre Dame,,Louisville,REG (Conf),W 89-79 (OT),*,44,6,13,0.462,2,4,0.5,4,9,0.444,0.538,9,9,1.0,3,5,8,2,1,1,0,1,23,22.6,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+25,72,25,2011-02-12,Notre Dame,@,South Florida,REG (Conf),W 78-55,*,28,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,3,3,1,2,1,2,2,12,9.9,A,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+26,73,26,2011-02-19,Notre Dame,@,West Virginia,REG (Conf),L 58-72,*,34,2,9,0.222,1,5,0.2,1,4,0.25,0.278,4,6,0.667,1,3,4,2,0,1,0,5,9,4.4,A,0,1,tim-abromaitis-1,Tim Abromaitis,2011
+27,74,27,2011-02-23,Notre Dame,@,Providence,REG (Conf),W 94-93,*,32,11,16,0.688,4,7,0.571,7,9,0.778,0.813,2,4,0.5,2,3,5,1,2,0,1,0,28,24.4,A,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+28,75,28,2011-02-26,Notre Dame,,Seton Hall,REG (Conf),W 60-48,*,40,6,16,0.375,4,9,0.444,2,7,0.286,0.5,6,10,0.6,2,6,8,2,1,0,1,0,22,16.2,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+29,76,29,2011-02-28,Notre Dame,,Villanova,REG (Conf),W 93-72,*,37,10,17,0.588,9,13,0.692,1,4,0.25,0.853,1,2,0.5,0,4,4,4,0,0,2,3,30,22.5,H,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+30,77,30,2011-03-05,Notre Dame,@,Connecticut,REG (Conf),W 70-67,*,38,5,12,0.417,1,6,0.167,4,6,0.667,0.458,0,0,,1,6,7,1,0,0,0,1,11,7.4,A,1,1,tim-abromaitis-1,Tim Abromaitis,2011
+31,78,31,2011-03-10,Notre Dame,N,Cincinnati,CTOURN,W 89-51,*,29,6,12,0.5,4,7,0.571,2,5,0.4,0.667,1,3,0.333,1,5,6,4,1,0,2,4,17,12.6,N,1,0,tim-abromaitis-1,Tim Abromaitis,2011
+32,79,32,2011-03-11,Notre Dame,N,Louisville,CTOURN,L 77-83 (OT),*,41,5,10,0.5,1,3,0.333,4,7,0.571,0.55,5,5,1.0,1,2,3,3,0,0,0,2,16,13.6,N,0,0,tim-abromaitis-1,Tim Abromaitis,2011
+33,80,33,2011-03-18,Notre Dame,N,Akron,ROUND-64,W 69-56,*,30,3,6,0.5,3,3,1.0,0,3,0.0,0.75,5,5,1.0,1,3,4,0,0,1,2,1,14,10.9,N,1,0,tim-abromaitis-1,Tim Abromaitis,2011
+34,81,34,2011-03-20,Notre Dame,N,Florida State,ROUND-32,L 57-71,*,38,8,18,0.444,3,9,0.333,5,9,0.556,0.528,2,2,1.0,2,4,6,1,0,0,0,3,21,13.7,N,0,0,tim-abromaitis-1,Tim Abromaitis,2011

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,100,1,2016-11-12,Butler,,Northern Colorado,REG (Non-Conf),W 89-52,*,24,7,7,1.0,2,2,1.0,5,5,1.0,1.143,0,0,,1,1,2,5,3,0,3,2,16,17.6,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+2,101,2,2016-11-16,Butler,,Northwestern,REG (Non-Conf),W 70-68,*,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,0,0,2,0,0,0,2,4,3.3,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+3,102,3,2016-11-19,Butler,,Bucknell,REG (Non-Conf),W 86-60,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,0,0,7,0,0,2,1,4,4.5,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+4,103,4,2016-11-21,Butler,,Norfolk State,REG (Non-Conf),W 91-55,*,23,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,8,1,0,1,2,3,6.8,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+5,104,5,2016-11-24,Butler,N,Vanderbilt,REG (Non-Conf),W 76-66,*,30,4,9,0.444,1,4,0.25,3,5,0.6,0.5,6,10,0.6,0,2,2,4,0,0,2,0,15,10.1,N,1,1,tyler-lewis-1,Tyler Lewis,2017
+6,105,6,2016-11-25,Butler,N,Arizona,REG (Non-Conf),W 69-65,*,25,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,6,1,0,2,2,4,5.8,N,1,1,tyler-lewis-1,Tyler Lewis,2017
+7,106,7,2016-11-28,Butler,@,Utah,REG (Non-Conf),W 68-59,*,29,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,3,0.333,1,2,3,6,0,0,1,2,10,10.3,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+8,107,8,2016-12-03,Butler,,Central Arkansas,REG (Non-Conf),W 82-58,*,22,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,0,1,4,0,0,1,2,7,5.7,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+9,108,9,2016-12-07,Butler,@,Indiana State,REG (Non-Conf),L 71-72,*,27,4,6,0.667,3,3,1.0,1,3,0.333,0.917,4,4,1.0,0,4,4,7,1,1,1,2,15,18.4,A,0,1,tyler-lewis-1,Tyler Lewis,2017
+10,109,10,2016-12-10,Butler,,Cincinnati,REG (Non-Conf),W 75-65,*,29,1,3,0.333,0,2,0.0,1,1,1.0,0.333,7,8,0.875,2,2,4,3,0,0,1,2,9,9.2,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+11,110,11,2016-12-17,Butler,N,Indiana,REG (Non-Conf),W 83-78,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,0,0,0,6,1,0,0,4,6,7.9,N,1,1,tyler-lewis-1,Tyler Lewis,2017
+12,111,12,2016-12-21,Butler,,Vermont,REG (Non-Conf),W 81-69,*,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,0,5,5,7,1,0,2,2,4,6.2,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+13,112,13,2016-12-29,Butler,@,St. John's (NY),REG (Conf),L 73-76,*,23,0,2,0.0,0,2,0.0,0,0,,0.0,4,5,0.8,0,1,1,1,0,0,0,3,4,2.0,A,0,1,tyler-lewis-1,Tyler Lewis,2017
+14,113,14,2017-01-01,Butler,,Providence,REG (Conf),W 78-61,*,22,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,0,2,2,1,0,0,2,3,8,4.1,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+15,114,15,2017-01-04,Butler,,Villanova,REG (Conf),W 66-58,*,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,3,0,0,0,1,2,1.6,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+16,115,16,2017-01-07,Butler,@,Georgetown,REG (Conf),W 85-76 (OT),*,18,1,3,0.333,1,1,1.0,0,2,0.0,0.5,4,4,1.0,0,1,1,1,1,0,1,3,7,5.1,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+17,116,17,2017-01-11,Butler,@,Creighton,REG (Conf),L 64-75,*,20,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,2,2,2,2,0,1,3,8,6.8,A,0,1,tyler-lewis-1,Tyler Lewis,2017
+18,117,18,2017-01-14,Butler,,Xavier,REG (Conf),W 83-78,,15,0,1,0.0,0,1,0.0,0,0,,0.0,5,6,0.833,0,0,0,1,0,0,1,3,5,2.4,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+19,118,19,2017-01-16,Butler,,Marquette,REG (Conf),W 88-80,*,20,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,1,1,2,3,0,0,1,1,10,9.0,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+20,119,20,2017-01-21,Butler,@,DePaul,REG (Conf),W 70-69 (OT),*,11,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,2,2,0,0,0,0,2,5,3.5,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+21,120,21,2017-01-25,Butler,@,Seton Hall,REG (Conf),W 61-54,*,21,1,5,0.2,1,2,0.5,0,3,0.0,0.3,1,2,0.5,0,2,2,2,1,0,1,0,4,2.5,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+22,121,22,2017-01-28,Butler,,Georgetown,REG (Conf),L 81-85,*,22,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,2,2,5,1,0,2,0,6,8.5,H,0,1,tyler-lewis-1,Tyler Lewis,2017
+23,122,23,2017-01-31,Butler,,Creighton,REG (Conf),L 67-76,*,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,0,0,0,3,0,0,1,2,4,3.3,H,0,1,tyler-lewis-1,Tyler Lewis,2017
+24,123,24,2017-02-07,Butler,@,Marquette,REG (Conf),W 68-65,,30,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,1,0.0,0,2,2,5,1,0,1,1,8,9.7,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+25,124,25,2017-02-11,Butler,@,Providence,REG (Conf),L 65-71,,19,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,2,1,0,0,3,0,0.5,A,0,1,tyler-lewis-1,Tyler Lewis,2017
+26,125,26,2017-02-15,Butler,,St. John's (NY),REG (Conf),W 110-86,,23,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,1,1,9,1,0,2,2,7,9.8,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+27,126,27,2017-02-19,Butler,,DePaul,REG (Conf),W 82-66,,19,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,0,1,1,8,1,0,0,1,10,14.6,H,1,1,tyler-lewis-1,Tyler Lewis,2017
+28,127,28,2017-02-22,Butler,@,Villanova,REG (Conf),W 74-66,,27,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,1,0.0,0,2,2,4,0,0,2,2,8,4.5,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+29,128,29,2017-02-26,Butler,@,Xavier,REG (Conf),W 88-79,,14,0,2,0.0,0,2,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,0.9,A,1,1,tyler-lewis-1,Tyler Lewis,2017
+30,129,30,2017-03-04,Butler,,Seton Hall,REG (Conf),L 64-70,*,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,4,0,0,0,1,0,1.3,H,0,1,tyler-lewis-1,Tyler Lewis,2017
+31,130,31,2017-03-09,Butler,N,Xavier,CTOURN,L 57-62,,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,2,0.0,1,3,4,1,2,0,1,1,4,3.4,N,0,0,tyler-lewis-1,Tyler Lewis,2017
+32,131,32,2017-03-16,Butler,N,Winthrop,ROUND-64,W 76-64,,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,6,0.5,0,0,0,8,1,0,1,1,9,10.7,N,1,0,tyler-lewis-1,Tyler Lewis,2017
+33,132,33,2017-03-18,Butler,N,Middle Tennessee,ROUND-32,W 74-65,,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,5,6,0.833,0,1,1,4,1,0,0,0,7,9.0,N,1,0,tyler-lewis-1,Tyler Lewis,2017
+34,133,34,2017-03-24,Butler,N,North Carolina,ROUND-16,L 80-92,,22,4,8,0.5,0,1,0.0,4,7,0.571,0.5,0,0,,2,0,2,4,1,0,0,1,8,8.8,N,0,0,tyler-lewis-1,Tyler Lewis,2017

@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2015-11-13,Notre Dame,,Saint Francis (PA),REG (Non-Conf),W 87-56,,17,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,1,2,3,1,0,0,2,2,7,2.8,H,1,1,matt-farrell-1,Matt Farrell,2016
+2,17,2,2015-11-17,Notre Dame,,Milwaukee,REG (Non-Conf),W 86-78,,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,0,0,1,1,0,-0.4,H,1,1,matt-farrell-1,Matt Farrell,2016
+3,18,3,2015-11-21,Notre Dame,,UMass Lowell,REG (Non-Conf),W 83-57,,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,2,3,1,0,0,1,1,0,-0.8,H,1,1,matt-farrell-1,Matt Farrell,2016
+4,19,4,2015-11-26,Notre Dame,N,Monmouth,REG (Non-Conf),L 68-70,,21,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,3,0,-1.9,N,0,1,matt-farrell-1,Matt Farrell,2016
+5,20,5,2015-11-27,Notre Dame,N,Iowa,REG (Non-Conf),W 68-62,,16,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,2,0,0,0,0,3,3.0,N,1,1,matt-farrell-1,Matt Farrell,2016
+6,21,6,2015-11-29,Notre Dame,N,Alabama,REG (Non-Conf),L 73-74,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,1,0,0,0,1,2,2.0,N,0,1,matt-farrell-1,Matt Farrell,2016
+7,22,7,2015-12-02,Notre Dame,@,Illinois,REG (Non-Conf),W 84-79,,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,6,7,0.857,0,4,4,1,0,0,1,2,10,7.0,A,1,1,matt-farrell-1,Matt Farrell,2016
+8,23,8,2015-12-08,Notre Dame,,Stony Brook,REG (Non-Conf),W 86-61,,20,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,2,0,2,2,1,0,0,3,3,2.5,H,1,1,matt-farrell-1,Matt Farrell,2016
+9,24,9,2015-12-13,Notre Dame,,Loyola Chicago,REG (Non-Conf),W 81-61,,17,1,2,0.5,1,1,1.0,0,1,0.0,0.75,2,2,1.0,0,2,2,2,0,0,0,0,5,6.0,H,1,1,matt-farrell-1,Matt Farrell,2016
+10,25,10,2015-12-19,Notre Dame,N,Indiana,REG (Non-Conf),L 73-80,,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,4,0,0,0,0,0,2.8,N,0,1,matt-farrell-1,Matt Farrell,2016
+11,26,11,2015-12-21,Notre Dame,,Youngstown State,REG (Non-Conf),W 87-78,,14,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,0,0,2,1,0,1,1,2,-0.1,H,1,1,matt-farrell-1,Matt Farrell,2016
+12,27,12,2015-12-29,Notre Dame,,Liberty,REG (Non-Conf),W 73-56,,13,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,0,0,1,0,0,1,1,8,6.4,H,1,1,matt-farrell-1,Matt Farrell,2016
+13,28,13,2016-01-02,Notre Dame,@,Virginia,REG (Conf),L 66-77,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,matt-farrell-1,Matt Farrell,2016
+14,29,14,2016-01-07,Notre Dame,@,Boston College,REG (Conf),W 82-54,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,A,1,1,matt-farrell-1,Matt Farrell,2016
+15,30,16,2016-01-13,Notre Dame,,Georgia Tech,REG (Conf),W 72-64,,4,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,matt-farrell-1,Matt Farrell,2016
+16,31,18,2016-01-20,Notre Dame,,Virginia Tech,REG (Conf),W 83-81,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,matt-farrell-1,Matt Farrell,2016
+17,32,19,2016-01-23,Notre Dame,,Boston College,REG (Conf),W 76-49,,4,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,0,1,3,2.3,H,1,1,matt-farrell-1,Matt Farrell,2016
+18,33,20,2016-01-28,Notre Dame,@,Syracuse,REG (Conf),L 66-81,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,1,0,1,1,0,0.3,A,0,1,matt-farrell-1,Matt Farrell,2016
+19,34,21,2016-01-31,Notre Dame,,Wake Forest,REG (Conf),W 85-62,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,0.0,H,1,1,matt-farrell-1,Matt Farrell,2016
+20,35,22,2016-02-03,Notre Dame,@,Miami (FL),REG (Conf),L 70-79,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,2,0,0,0,0,0,0.7,A,0,1,matt-farrell-1,Matt Farrell,2016
+21,36,28,2016-02-27,Notre Dame,@,Florida State,REG (Conf),L 56-77,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,matt-farrell-1,Matt Farrell,2016
+22,37,29,2016-03-02,Notre Dame,,Miami (FL),REG (Conf),L 50-68,,1,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,0,1,matt-farrell-1,Matt Farrell,2016
+23,38,30,2016-03-05,Notre Dame,,NC State,REG (Conf),W 89-75,,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,4,1,0,1,3,0,1.2,H,1,1,matt-farrell-1,Matt Farrell,2016
+24,39,32,2016-03-11,Notre Dame,N,North Carolina,CTOURN,L 47-78,,16,0,4,0.0,0,2,0.0,0,2,0.0,0.0,3,4,0.75,0,0,0,3,0,0,2,1,3,-0.5,N,0,0,matt-farrell-1,Matt Farrell,2016
+25,40,33,2016-03-18,Notre Dame,N,Michigan,ROUND-64,W 70-63,*,22,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,0,1,4,0,0,3,1,5,3.1,N,1,0,matt-farrell-1,Matt Farrell,2016
+26,41,34,2016-03-20,Notre Dame,N,Stephen F. Austin,ROUND-32,W 76-75,*,31,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,2,2,4,0,0,2,1,8,6.7,N,1,0,matt-farrell-1,Matt Farrell,2016
+27,42,35,2016-03-25,Notre Dame,N,Wisconsin,ROUND-16,W 61-56,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,3,1,0,0,1,7,7.4,N,1,0,matt-farrell-1,Matt Farrell,2016
+28,43,36,2016-03-27,Notre Dame,N,North Carolina,ROUND-8,L 74-88,*,26,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,0,0,3,0,0,0,1,6,6.4,N,0,0,matt-farrell-1,Matt Farrell,2016

@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-09,Northwestern State,,East Tx Baptist,REG (Non-Conf),W 118-77,*,22,11,14,0.786,4,7,0.571,7,7,1.0,0.929,0,0,,1,4,5,8,3,0,2,0,26,29.1,H,1,1,jalan-west-1,Jalan West,2013
+2,2,2,2012-11-12,Northwestern State,@,Campbell,REG (Non-Conf),W 71-67,*,33,2,6,0.333,1,3,0.333,1,3,0.333,0.417,4,5,0.8,0,3,3,6,2,0,4,3,9,7.1,A,1,1,jalan-west-1,Jalan West,2013
+3,3,3,2012-11-17,Northwestern State,,Hannibal-LaGrange,REG (Non-Conf),W 92-43,*,19,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,2,2,5,3,0,0,3,10,13.3,H,1,1,jalan-west-1,Jalan West,2013
+4,4,4,2012-11-20,Northwestern State,@,Louisiana State,REG (Non-Conf),L 95-102,*,26,3,9,0.333,2,4,0.5,1,5,0.2,0.444,6,6,1.0,0,6,6,2,3,0,4,5,14,9.1,A,0,1,jalan-west-1,Jalan West,2013
+5,5,5,2012-11-26,Northwestern State,@,Texas A&M,REG (Non-Conf),L 65-78,*,29,6,10,0.6,4,8,0.5,2,2,1.0,0.8,0,0,,0,2,2,3,1,0,1,5,16,12.1,A,0,1,jalan-west-1,Jalan West,2013
+6,6,6,2012-11-30,Northwestern State,@,Oklahoma,REG (Non-Conf),L 65-69,,23,4,10,0.4,3,5,0.6,1,5,0.2,0.55,2,2,1.0,0,1,1,2,1,0,1,1,13,8.9,A,0,1,jalan-west-1,Jalan West,2013
+7,7,7,2012-12-04,Northwestern State,,Louisiana Tech,REG (Non-Conf),W 89-83,,31,3,7,0.429,1,4,0.25,2,3,0.667,0.5,4,5,0.8,0,5,5,8,2,0,5,3,11,9.8,H,1,1,jalan-west-1,Jalan West,2013
+8,8,8,2012-12-15,Northwestern State,,Missouri Valley,REG (Non-Conf),W 95-78,,30,6,13,0.462,2,9,0.222,4,4,1.0,0.538,0,1,0.0,1,2,3,9,1,0,2,2,14,12.7,H,1,1,jalan-west-1,Jalan West,2013
+9,9,9,2012-12-29,Northwestern State,@,Arkansas,REG (Non-Conf),L 61-79,,36,3,11,0.273,0,5,0.0,3,6,0.5,0.273,4,6,0.667,1,2,3,5,4,0,2,2,10,8.7,A,0,1,jalan-west-1,Jalan West,2013
+10,10,10,2012-12-31,Northwestern State,,LeTourneau,REG (Non-Conf),W 102-52,,16,4,8,0.5,4,6,0.667,0,2,0.0,0.75,1,2,0.5,2,1,3,3,4,0,0,1,13,16.0,H,1,1,jalan-west-1,Jalan West,2013
+11,11,11,2013-01-03,Northwestern State,,McNeese State,REG (Conf),W 78-63,,26,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,2,1,3,5,1,0,5,3,10,5.2,H,1,1,jalan-west-1,Jalan West,2013
+12,12,12,2013-01-05,Northwestern State,,Lamar,REG (Conf),W 86-58,,20,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,0,2,2,5,7,1,1,1,4,10.6,H,1,1,jalan-west-1,Jalan West,2013
+13,13,13,2013-01-07,Northwestern State,@,Sam Houston State,REG (Conf),W 73-64,,27,3,12,0.25,2,7,0.286,1,5,0.2,0.333,2,2,1.0,0,4,4,4,2,0,3,3,10,4.6,A,1,1,jalan-west-1,Jalan West,2013
+14,14,14,2013-01-10,Northwestern State,@,Oral Roberts,REG (Conf),L 74-80,,26,3,8,0.375,1,4,0.25,2,4,0.5,0.438,2,2,1.0,0,0,0,3,3,1,1,1,9,9.0,A,0,1,jalan-west-1,Jalan West,2013
+15,15,15,2013-01-12,Northwestern State,@,Central Arkansas,REG (Conf),W 100-88,,28,2,4,0.5,2,3,0.667,0,1,0.0,0.75,1,2,0.5,0,1,1,6,1,0,2,2,7,7.3,A,1,1,jalan-west-1,Jalan West,2013
+16,16,16,2013-01-17,Northwestern State,,Nicholls State,REG (Conf),L 78-93,,35,3,11,0.273,2,5,0.4,1,6,0.167,0.364,2,3,0.667,1,0,1,7,1,0,3,3,10,5.5,H,0,1,jalan-west-1,Jalan West,2013
+17,17,17,2013-01-19,Northwestern State,,Southeastern Louisiana,REG (Conf),W 103-68,,19,5,5,1.0,3,3,1.0,2,2,1.0,1.3,2,2,1.0,1,2,3,7,1,0,1,0,15,19.7,H,1,1,jalan-west-1,Jalan West,2013
+18,18,18,2013-01-26,Northwestern State,,Stephen F. Austin,REG (Conf),W 61-57,,31,2,10,0.2,0,5,0.0,2,5,0.4,0.2,6,6,1.0,0,2,2,3,4,0,0,0,10,10.5,H,1,1,jalan-west-1,Jalan West,2013
+19,19,19,2013-01-31,Northwestern State,@,Lamar,REG (Conf),W 85-63,,17,4,7,0.571,1,4,0.25,3,3,1.0,0.643,0,0,,2,0,2,5,4,0,2,0,9,12.6,A,1,1,jalan-west-1,Jalan West,2013
+20,20,20,2013-02-03,Northwestern State,@,McNeese State,REG (Conf),W 86-74,,28,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,4,4,9,2,0,1,1,5,9.7,A,1,1,jalan-west-1,Jalan West,2013
+21,21,21,2013-02-07,Northwestern State,,Oral Roberts,REG (Conf),W 85-73,,25,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,1,0,1,9,5,0,3,2,3,7.4,H,1,1,jalan-west-1,Jalan West,2013
+22,22,22,2013-02-09,Northwestern State,,Central Arkansas,REG (Conf),W 93-73,,13,2,4,0.5,2,4,0.5,0,0,,0.75,0,0,,0,1,1,5,3,0,1,4,6,8.2,H,1,1,jalan-west-1,Jalan West,2013
+23,23,23,2013-02-14,Northwestern State,@,Southeastern Louisiana,REG (Conf),W 79-76,,15,1,3,0.333,1,3,0.333,0,0,,0.5,4,4,1.0,0,3,3,3,1,0,0,3,7,8.1,A,1,1,jalan-west-1,Jalan West,2013
+24,24,24,2013-02-16,Northwestern State,@,Nicholls State,REG (Conf),W 84-79,,22,3,7,0.429,0,4,0.0,3,3,1.0,0.429,2,2,1.0,1,3,4,1,2,0,2,4,8,5.0,A,1,1,jalan-west-1,Jalan West,2013
+25,25,25,2013-02-19,Northwestern State,@,Texas A&M–Corpus Christi,REG (Conf),W 82-71,,26,4,7,0.571,3,6,0.5,1,1,1.0,0.786,6,6,1.0,0,2,2,5,1,0,0,1,17,18.4,A,1,1,jalan-west-1,Jalan West,2013
+26,26,26,2013-02-23,Northwestern State,@,Niagara,REG (Non-Conf),L 76-92,,29,5,9,0.556,2,4,0.5,3,5,0.6,0.667,1,2,0.5,0,2,2,4,2,0,4,1,13,9.3,A,0,1,jalan-west-1,Jalan West,2013
+27,27,27,2013-03-02,Northwestern State,@,Stephen F. Austin,REG (Conf),L 63-64,,33,2,7,0.286,1,4,0.25,1,3,0.333,0.357,3,5,0.6,2,1,3,9,2,0,4,2,8,8.3,A,0,1,jalan-west-1,Jalan West,2013
+28,28,28,2013-03-07,Northwestern State,,Texas A&M–Corpus Christi,REG (Conf),W 66-51,,22,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,2,2,3,2,0,0,2,9,9.6,H,1,1,jalan-west-1,Jalan West,2013
+29,29,29,2013-03-09,Northwestern State,,Sam Houston State,REG (Conf),W 84-73,,26,3,7,0.429,1,5,0.2,2,2,1.0,0.5,4,4,1.0,0,2,2,12,2,1,0,1,11,18.6,H,1,1,jalan-west-1,Jalan West,2013
+30,30,30,2013-03-15,Northwestern State,N,Sam Houston State,CTOURN,W 55-52,,26,2,7,0.286,0,3,0.0,2,4,0.5,0.286,0,0,,0,1,1,2,2,1,3,1,4,0.9,N,1,0,jalan-west-1,Jalan West,2013
+31,31,31,2013-03-16,Northwestern State,N,Stephen F. Austin,CTOURN,W 68-66,,20,4,12,0.333,1,6,0.167,3,6,0.5,0.375,0,0,,1,1,2,3,2,0,1,4,9,4.7,N,1,0,jalan-west-1,Jalan West,2013
+32,32,32,2013-03-22,Northwestern State,N,Florida,ROUND-64,L 47-79,,26,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,0,2,2,4,1,0,2,1,5,2.9,N,0,0,jalan-west-1,Jalan West,2013

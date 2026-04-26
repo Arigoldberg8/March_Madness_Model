@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,13,1,2021-11-09,Wisconsin,,St. Francis Brooklyn,REG (Non-Conf),W 81-58,*,19,4,9,0.444,0,1,0.0,4,8,0.5,0.444,3,3,1.0,3,5,8,0,0,1,2,0,11,8.6,H,1,1,steven-crowl-1,Steven Crowl,2022
+2,14,2,2021-11-12,Wisconsin,,Green Bay,REG (Non-Conf),W 72-34,*,22,7,11,0.636,2,4,0.5,5,7,0.714,0.727,2,2,1.0,3,4,7,0,0,0,0,0,18,16.4,H,1,1,steven-crowl-1,Steven Crowl,2022
+3,15,3,2021-11-15,Wisconsin,,Providence,REG (Non-Conf),L 58-63,*,23,1,10,0.1,0,4,0.0,1,6,0.167,0.1,2,2,1.0,0,4,4,2,0,0,1,2,4,-1.8,H,0,1,steven-crowl-1,Steven Crowl,2022
+4,16,4,2021-11-22,Wisconsin,N,Texas A&M,REG (Non-Conf),W 69-58,*,29,4,9,0.444,2,3,0.667,2,6,0.333,0.556,0,0,,1,3,4,2,0,1,2,3,10,5.8,N,1,1,steven-crowl-1,Steven Crowl,2022
+5,17,5,2021-11-23,Wisconsin,N,Houston,REG (Non-Conf),W 65-63,*,23,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,0,1,1,0,1,0,1,4,8,3.3,N,1,1,steven-crowl-1,Steven Crowl,2022
+6,18,6,2021-11-24,Wisconsin,N,St. Mary's (CA),REG (Non-Conf),W 61-55,*,27,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,3,4,7,1,0,0,1,3,4,1.7,N,1,1,steven-crowl-1,Steven Crowl,2022
+7,19,7,2021-12-01,Wisconsin,@,Georgia Tech,REG (Non-Conf),W 70-66,*,28,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,1,3,4,0,1,1,1,4,5,1.2,A,1,1,steven-crowl-1,Steven Crowl,2022
+8,20,8,2021-12-04,Wisconsin,,Marquette,REG (Non-Conf),W 89-76,*,29,6,9,0.667,2,3,0.667,4,6,0.667,0.778,1,2,0.5,1,7,8,1,0,1,1,1,15,13.5,H,1,1,steven-crowl-1,Steven Crowl,2022
+9,21,9,2021-12-08,Wisconsin,,Indiana,REG (Conf),W 64-59,*,19,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,0,0,3,1,0,0,4,5,3.1,H,1,1,steven-crowl-1,Steven Crowl,2022
+10,22,10,2021-12-11,Wisconsin,@,Ohio State,REG (Conf),L 55-73,*,23,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,3,3,0,-5.3,A,0,1,steven-crowl-1,Steven Crowl,2022
+11,23,11,2021-12-15,Wisconsin,,Nicholls State,REG (Non-Conf),W 71-68,*,14,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,3,4,1,0,1,1,0,5,3.2,H,1,1,steven-crowl-1,Steven Crowl,2022
+12,24,12,2021-12-29,Wisconsin,,Illinois State,REG (Non-Conf),W 89-85,*,28,7,10,0.7,2,3,0.667,5,7,0.714,0.8,5,7,0.714,9,1,10,2,0,0,0,4,21,22.4,H,1,1,steven-crowl-1,Steven Crowl,2022
+13,25,13,2022-01-03,Wisconsin,@,Purdue,REG (Conf),W 74-69,*,23,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,1,1,2,1,0,0,0,5,4,0.3,A,1,1,steven-crowl-1,Steven Crowl,2022
+14,26,14,2022-01-06,Wisconsin,,Iowa,REG (Conf),W 87-78,*,23,6,8,0.75,0,0,,6,8,0.75,0.75,0,0,,1,2,3,3,1,0,0,2,12,12.4,H,1,1,steven-crowl-1,Steven Crowl,2022
+15,27,15,2022-01-09,Wisconsin,@,Maryland,REG (Conf),W 70-69,*,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,2,6,8,0,0,0,0,3,9,9.4,A,1,1,steven-crowl-1,Steven Crowl,2022
+16,28,16,2022-01-13,Wisconsin,,Ohio State,REG (Conf),W 78-68,*,25,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,1,0.0,2,5,7,3,1,0,0,1,9,11.6,H,1,1,steven-crowl-1,Steven Crowl,2022
+17,29,17,2022-01-18,Wisconsin,@,Northwestern,REG (Conf),W 82-76,*,23,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,4,1.0,1,2,3,2,0,0,4,3,10,5.9,A,1,1,steven-crowl-1,Steven Crowl,2022
+18,30,18,2022-01-21,Wisconsin,,Michigan State,REG (Conf),L 74-86,*,31,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,0,,2,2,4,1,0,0,1,2,9,5.9,H,0,1,steven-crowl-1,Steven Crowl,2022
+19,31,19,2022-01-27,Wisconsin,@,Nebraska,REG (Conf),W 73-65,*,24,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,2,0,2,1,0,0,1,4,12,6.1,A,1,1,steven-crowl-1,Steven Crowl,2022
+20,32,20,2022-01-30,Wisconsin,,Minnesota,REG (Conf),W 66-60,*,32,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,1,3,4,2,0,0,1,3,11,9.2,H,1,1,steven-crowl-1,Steven Crowl,2022
+21,33,21,2022-02-02,Wisconsin,@,Illinois,REG (Conf),L 67-80,*,27,3,8,0.375,0,4,0.0,3,4,0.75,0.375,0,0,,0,0,0,1,1,0,1,4,6,0.7,A,0,1,steven-crowl-1,Steven Crowl,2022
+22,34,22,2022-02-05,Wisconsin,,Penn State,REG (Conf),W 51-49,*,25,5,8,0.625,3,5,0.6,2,3,0.667,0.813,0,0,,0,4,4,5,1,1,0,2,13,15.0,H,1,1,steven-crowl-1,Steven Crowl,2022
+23,35,23,2022-02-08,Wisconsin,@,Michigan State,REG (Conf),W 70-62,*,28,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,4,4,2,0,0,0,4,6,5.0,A,1,1,steven-crowl-1,Steven Crowl,2022
+24,36,24,2022-02-12,Wisconsin,,Rutgers,REG (Conf),L 65-73,*,25,5,6,0.833,1,1,1.0,4,5,0.8,0.917,1,2,0.5,4,1,5,3,0,0,0,2,12,13.8,H,0,1,steven-crowl-1,Steven Crowl,2022
+25,37,25,2022-02-15,Wisconsin,@,Indiana,REG (Conf),W 74-69,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,6,6,2,0,0,1,3,9,6.7,A,1,1,steven-crowl-1,Steven Crowl,2022
+26,38,26,2022-02-20,Wisconsin,,Michigan,REG (Conf),W 77-63,*,27,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,1,4,5,1,1,0,0,1,11,10.9,H,1,1,steven-crowl-1,Steven Crowl,2022
+27,39,27,2022-02-23,Wisconsin,@,Minnesota,REG (Conf),W 68-67,*,31,7,9,0.778,1,2,0.5,6,7,0.857,0.833,5,6,0.833,3,4,7,1,0,0,1,3,20,17.9,A,1,1,steven-crowl-1,Steven Crowl,2022
+28,40,28,2022-02-26,Wisconsin,@,Rutgers,REG (Conf),W 66-61,*,32,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,2,2,1,1,1,0,3,7,5.1,A,1,1,steven-crowl-1,Steven Crowl,2022
+29,41,29,2022-03-01,Wisconsin,,Purdue,REG (Conf),W 70-67,*,24,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,1,4,5,2,0,1,1,3,4,2.4,H,1,1,steven-crowl-1,Steven Crowl,2022
+30,42,30,2022-03-06,Wisconsin,,Nebraska,REG (Conf),L 73-74,*,26,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,2,5,7,1,0,0,4,1,4,-0.9,H,0,1,steven-crowl-1,Steven Crowl,2022
+31,43,31,2022-03-11,Wisconsin,N,Michigan State,CTOURN,L 63-69,*,21,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,0,1,1,2,0,0,1,2,9,6.3,N,0,0,steven-crowl-1,Steven Crowl,2022
+32,44,32,2022-03-18,Wisconsin,N,Colgate,ROUND-64,W 67-60,*,25,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,2,3,5,1,0,1,0,2,5,4.5,N,1,0,steven-crowl-1,Steven Crowl,2022
+33,45,33,2022-03-20,Wisconsin,N,Iowa State,ROUND-32,L 49-54,*,25,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,1,0,0,2,3,2,-2.6,N,0,0,steven-crowl-1,Steven Crowl,2022

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2013-11-08,Wisconsin,N,St. John's (NY),REG (Non-Conf),W 86-75,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,bronson-koenig-1,Bronson Koenig,2014
+2,2,3,2013-11-16,Wisconsin,@,Green Bay,REG (Non-Conf),W 69-66,,23,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,0,,0,0,0,2,1,1,1,2,7,7.4,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+3,3,4,2013-11-19,Wisconsin,,North Dakota,REG (Non-Conf),W 103-85,,21,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,0,0,2,0,0,0,2,5,4.3,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+4,4,5,2013-11-21,Wisconsin,,Bowling Green,REG (Non-Conf),W 88-64,,27,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,2,1,3,2,0,0,2,2,10,7.7,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+5,5,6,2013-11-23,Wisconsin,,Oral Roberts,REG (Non-Conf),W 76-67,,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,0,2,0,-0.5,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+6,6,7,2013-11-26,Wisconsin,N,Saint Louis,REG (Non-Conf),W 63-57,,9,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,2,3,1.2,N,1,1,bronson-koenig-1,Bronson Koenig,2014
+7,7,8,2013-11-27,Wisconsin,N,West Virginia,REG (Non-Conf),W 70-63,,10,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,2,0,0,0,1,2,1.3,N,1,1,bronson-koenig-1,Bronson Koenig,2014
+8,8,9,2013-12-04,Wisconsin,@,Virginia,REG (Non-Conf),W 48-38,,14,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.8,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+9,9,10,2013-12-07,Wisconsin,,Marquette,REG (Non-Conf),W 70-64,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,2,3,1,1,0,1,1,2,1.9,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+10,10,11,2013-12-11,Wisconsin,,Milwaukee,REG (Non-Conf),W 78-52,,16,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,1,3,4,1,2,0,0,2,6,7.9,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+11,11,12,2013-12-14,Wisconsin,,Eastern Kentucky,REG (Non-Conf),W 86-61,,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,2,1,3,3,0,0,2,1,4,2.7,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+12,12,13,2013-12-28,Wisconsin,,Prairie View A&M,REG (Non-Conf),W 80-43,,21,2,6,0.333,2,4,0.5,0,2,0.0,0.5,1,2,0.5,0,1,1,1,0,0,0,1,7,3.8,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+13,13,14,2014-01-02,Wisconsin,@,Northwestern,REG (Conf),W 76-49,,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,0,0,1,0,0,1,0,4,2.0,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+14,14,15,2014-01-05,Wisconsin,,Iowa,REG (Conf),W 75-71,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,1,2,1,0,0,0,3,2,0.8,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+15,15,16,2014-01-08,Wisconsin,,Illinois,REG (Conf),W 95-70,,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,2,1,3,2,0,0,1,2,7,6.7,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+16,16,17,2014-01-14,Wisconsin,@,Indiana,REG (Conf),L 72-75,,9,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,0,2,0,-2.9,A,0,1,bronson-koenig-1,Bronson Koenig,2014
+17,17,18,2014-01-18,Wisconsin,,Michigan,REG (Conf),L 70-77,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,bronson-koenig-1,Bronson Koenig,2014
+18,18,19,2014-01-22,Wisconsin,@,Minnesota,REG (Conf),L 68-81,,23,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,1,2,2,0,0,0,2,3,2.2,A,0,1,bronson-koenig-1,Bronson Koenig,2014
+19,19,20,2014-01-25,Wisconsin,@,Purdue,REG (Conf),W 72-58,,17,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,1,2,3,1,1,1,0,1,3,5.3,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+20,20,21,2014-01-29,Wisconsin,,Northwestern,REG (Conf),L 56-65,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,bronson-koenig-1,Bronson Koenig,2014
+21,21,22,2014-02-01,Wisconsin,,Ohio State,REG (Conf),L 58-59,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,0,3,2,-0.9,H,0,1,bronson-koenig-1,Bronson Koenig,2014
+22,22,23,2014-02-04,Wisconsin,@,Illinois,REG (Conf),W 75-63,,17,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,1,2,1,0,0,0,1,5,3.6,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+23,23,24,2014-02-09,Wisconsin,,Michigan State,REG (Conf),W 60-58,,12,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,1,0,1,2,0,-0.5,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+24,24,25,2014-02-13,Wisconsin,,Minnesota,REG (Conf),W 78-70,,12,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,0,0,0,2,0,1,2,0,-1.9,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+25,25,26,2014-02-16,Wisconsin,@,Michigan,REG (Conf),W 75-62,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,2,0,0,0,3,0,-1.2,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+26,26,27,2014-02-22,Wisconsin,@,Iowa,REG (Conf),W 79-74,,23,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,0,0,0,2,0,0,0,2,12,9.7,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+27,27,28,2014-02-25,Wisconsin,,Indiana,REG (Conf),W 69-58,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+28,28,29,2014-03-02,Wisconsin,@,Penn State,REG (Conf),W 71-66,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,A,1,1,bronson-koenig-1,Bronson Koenig,2014
+29,29,30,2014-03-05,Wisconsin,,Purdue,REG (Conf),W 76-70,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,1,2,0,0,1,2,3.2,H,1,1,bronson-koenig-1,Bronson Koenig,2014
+30,30,31,2014-03-09,Wisconsin,@,Nebraska,REG (Conf),L 68-77,,13,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,bronson-koenig-1,Bronson Koenig,2014
+31,31,32,2014-03-14,Wisconsin,N,Minnesota,CTOURN,W 83-57,,23,5,5,1.0,4,4,1.0,1,1,1.0,1.4,0,0,,0,3,3,3,0,1,1,0,14,15.2,N,1,0,bronson-koenig-1,Bronson Koenig,2014
+32,32,33,2014-03-15,Wisconsin,N,Michigan State,CTOURN,L 75-83,,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,1,2,0.5,2,2,4,4,0,0,1,0,1,2.3,N,0,0,bronson-koenig-1,Bronson Koenig,2014
+33,33,34,2014-03-20,Wisconsin,N,American,ROUND-64,W 75-35,,19,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,0,0,0,0,0,0,2,3,0.5,N,1,0,bronson-koenig-1,Bronson Koenig,2014
+34,34,35,2014-03-22,Wisconsin,N,Oregon,ROUND-32,W 85-77,,19,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,0,1,1,0,0,1,1,5,3.0,N,1,0,bronson-koenig-1,Bronson Koenig,2014
+35,35,36,2014-03-27,Wisconsin,N,Baylor,ROUND-16,W 69-52,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,1,0,0,1,2,3,1.6,N,1,0,bronson-koenig-1,Bronson Koenig,2014
+36,36,37,2014-03-29,Wisconsin,N,Arizona,ROUND-8,W 64-63 (OT),,17,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,2,2,1,0,0,0,1,5,5.3,N,1,0,bronson-koenig-1,Bronson Koenig,2014
+37,37,38,2014-04-05,Wisconsin,N,Kentucky,NATIONAL-SEMI,L 73-74,,20,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,0,0,0,1,1,0,2,2,11,4.5,N,0,0,bronson-koenig-1,Bronson Koenig,2014

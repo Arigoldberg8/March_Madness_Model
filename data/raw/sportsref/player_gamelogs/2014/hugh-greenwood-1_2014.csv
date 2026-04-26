@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2013-11-09,New Mexico,,Alabama A&M,REG (Non-Conf),W 88-52,*,24,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,2,0.0,0,1,1,4,1,0,0,2,5,6.2,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+2,70,2,2013-11-17,New Mexico,,Charleston Southern,REG (Non-Conf),W 109-93,*,19,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,1,2,3,2,1,0,0,2,7,7.6,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+3,71,3,2013-11-21,New Mexico,N,UAB,REG (Non-Conf),W 97-94 (2OT),*,44,2,12,0.167,1,8,0.125,1,4,0.25,0.208,0,0,,4,4,8,4,1,0,0,2,5,4.4,N,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+4,72,4,2013-11-22,New Mexico,N,Massachusetts,REG (Non-Conf),L 65-81,*,21,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,2,1,3,2,1,0,1,4,2,1.8,N,0,1,hugh-greenwood-1,Hugh Greenwood,2014
+5,73,5,2013-11-24,New Mexico,N,Davidson,REG (Non-Conf),W 79-58,*,36,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,2,8,10,3,1,0,3,4,9,8.3,N,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+6,74,6,2013-11-30,New Mexico,,San Diego,REG (Non-Conf),W 73-66,*,36,1,6,0.167,1,6,0.167,0,0,,0.25,0,0,,0,8,8,5,0,0,1,3,3,2.9,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+7,75,7,2013-12-04,New Mexico,@,New Mexico State,REG (Non-Conf),W 79-70,*,32,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,2,3,5,4,0,1,1,3,6,8.3,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+8,76,8,2013-12-07,New Mexico,,Cincinnati,REG (Non-Conf),W 63-54,*,36,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,2,0.0,1,4,5,1,0,0,1,2,4,2.7,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+9,77,9,2013-12-14,New Mexico,N,Kansas,REG (Non-Conf),L 63-80,*,32,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,3,1,4,1,0,0,1,2,0,0.6,N,0,1,hugh-greenwood-1,Hugh Greenwood,2014
+10,78,13,2014-01-04,New Mexico,,Colorado State,REG (Conf),W 80-73,*,34,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,1,1,2,3,0,0,0,1,8,7.7,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+11,79,14,2014-01-08,New Mexico,@,Wyoming,REG (Conf),W 72-69 (OT),*,33,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,5,6,3,2,0,1,5,5,4.9,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+12,80,15,2014-01-11,New Mexico,@,San Jose State,REG (Conf),W 69-65,*,35,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,7,7,5,3,0,2,1,6,8.8,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+13,81,16,2014-01-15,New Mexico,,UNLV,REG (Conf),L 73-76,*,34,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,5,5,4,2,0,3,3,6,4.0,H,0,1,hugh-greenwood-1,Hugh Greenwood,2014
+14,82,17,2014-01-18,New Mexico,@,Fresno State,REG (Conf),W 89-78,*,26,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,0,4,4,2,0,0,0,5,8,5.6,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+15,83,18,2014-01-21,New Mexico,,Boise State,REG (Conf),W 84-75,*,33,7,9,0.778,5,6,0.833,2,3,0.667,1.056,1,2,0.5,2,4,6,2,2,0,0,3,20,20.9,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+16,84,19,2014-01-25,New Mexico,@,Colorado State,REG (Conf),W 68-66,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,5,5,4,0,0,0,4,8,7.0,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+17,85,20,2014-01-28,New Mexico,@,Utah State,REG (Conf),W 78-65,*,31,2,9,0.222,1,5,0.2,1,4,0.25,0.278,0,0,,3,7,10,4,0,0,1,1,5,5.1,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+18,86,21,2014-02-01,New Mexico,,San Jose State,REG (Conf),W 72-47,*,25,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,2,5,7,7,1,0,0,2,2,6.9,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+19,87,22,2014-02-05,New Mexico,,Wyoming,REG (Conf),W 66-61 (OT),*,39,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,1,3,4,3,0,0,1,3,8,7.2,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+20,88,23,2014-02-12,New Mexico,@,Boise State,REG (Conf),L 70-71,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,0,3,3,0,0,0,0,4,4,1.5,A,0,1,hugh-greenwood-1,Hugh Greenwood,2014
+21,89,24,2014-02-15,New Mexico,,Nevada,REG (Conf),W 90-72,*,31,0,2,0.0,0,1,0.0,0,1,0.0,0.0,4,4,1.0,1,2,3,7,1,1,1,2,4,8.7,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+22,90,25,2014-02-19,New Mexico,@,UNLV,REG (Conf),W 68-56,*,30,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,5,7,4,1,0,0,2,4,8.6,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+23,91,26,2014-02-22,New Mexico,,San Diego State,REG (Conf),W 58-44,*,35,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,1,4,5,4,1,1,4,3,6,6.3,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+24,92,27,2014-02-25,New Mexico,,Utah State,REG (Conf),W 67-58,*,35,3,9,0.333,3,8,0.375,0,1,0.0,0.5,0,0,,2,4,6,3,1,0,2,1,9,7.2,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+25,93,28,2014-03-02,New Mexico,@,Nevada,REG (Conf),W 72-58,*,32,2,7,0.286,2,7,0.286,0,0,,0.429,0,0,,0,3,3,5,3,0,0,1,6,8.9,A,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+26,94,29,2014-03-05,New Mexico,,Air Force,REG (Conf),W 80-52,*,24,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,3,3,5,3,2,1,1,6,10.7,H,1,1,hugh-greenwood-1,Hugh Greenwood,2014
+27,95,30,2014-03-08,New Mexico,@,San Diego State,REG (Conf),L 48-51,*,34,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,2,3,2,1,1,1,4,0,-0.3,A,0,1,hugh-greenwood-1,Hugh Greenwood,2014
+28,96,31,2014-03-13,New Mexico,N,Fresno State,CTOURN,W 93-77,*,30,2,4,0.5,1,3,0.333,1,1,1.0,0.625,3,4,0.75,3,5,8,3,0,1,0,4,8,10.4,N,1,0,hugh-greenwood-1,Hugh Greenwood,2014
+29,97,32,2014-03-14,New Mexico,N,Boise State,CTOURN,W 70-67,*,32,2,5,0.4,2,5,0.4,0,0,,0.6,2,5,0.4,2,4,6,3,1,1,1,4,8,7.9,N,1,0,hugh-greenwood-1,Hugh Greenwood,2014
+30,98,33,2014-03-15,New Mexico,N,San Diego State,CTOURN,W 64-58,*,38,3,10,0.3,2,7,0.286,1,3,0.333,0.4,4,4,1.0,2,2,4,5,0,0,2,3,12,8.5,N,1,0,hugh-greenwood-1,Hugh Greenwood,2014
+31,99,34,2014-03-21,New Mexico,N,Stanford,ROUND-64,L 53-58,*,36,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,0,3,3,1,0,1,2,5,9,3.6,N,0,0,hugh-greenwood-1,Hugh Greenwood,2014

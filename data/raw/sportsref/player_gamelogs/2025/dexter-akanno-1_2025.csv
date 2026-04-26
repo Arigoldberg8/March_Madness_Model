@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2024-11-06,Utah State,,Alcorn State,REG (Non-Conf),W 101-46,,21,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,3,0.667,1,0,1,2,2,0,0,2,7,5.8,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+2,105,2,2024-11-09,Utah State,,Charlotte,REG (Non-Conf),W 103-74,,22,5,8,0.625,2,3,0.667,3,5,0.6,0.75,3,4,0.75,1,1,2,2,1,0,0,1,15,14.0,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+3,106,3,2024-11-13,Utah State,,Westminster (UT),REG (Non-Conf),W 117-53,*,21,6,9,0.667,1,3,0.333,5,6,0.833,0.722,4,5,0.8,0,5,5,0,3,0,0,1,17,16.8,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+4,107,4,2024-11-18,Utah State,,Montana,REG (Non-Conf),W 95-83,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,6,6,1.0,1,2,3,0,0,0,3,1,8,3.5,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+5,108,5,2024-11-22,Utah State,N,Iowa,REG (Non-Conf),W 77-69,,17,0,5,0.0,0,1,0.0,0,4,0.0,0.0,1,2,0.5,0,3,3,2,0,0,0,2,1,-1.4,N,1,1,dexter-akanno-1,Dexter Akanno,2025
+6,109,6,2024-11-28,Utah State,N,St. Bonaventure,NIT,W 72-67,,28,4,10,0.4,3,6,0.5,1,4,0.25,0.55,3,4,0.75,1,3,4,2,0,0,0,1,14,10.8,N,1,0,dexter-akanno-1,Dexter Akanno,2025
+7,110,7,2024-11-29,Utah State,N,North Texas,NIT,W 61-57,,26,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,9,11,1,1,0,1,1,4,6.4,N,1,0,dexter-akanno-1,Dexter Akanno,2025
+8,111,8,2024-12-04,Utah State,,Wyoming,REG (Conf),W 70-67,,23,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,1,1.0,1,0,1,0,0,0,0,2,9,5.2,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+9,112,9,2024-12-07,Utah State,,Utah Tech,REG (Non-Conf),W 92-62,,19,5,7,0.714,2,3,0.667,3,4,0.75,0.857,4,5,0.8,3,1,4,2,0,0,2,1,16,14.1,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+10,113,10,2024-12-14,Utah State,,South Florida,REG (Non-Conf),W 88-67,,23,3,6,0.5,0,2,0.0,3,4,0.75,0.5,2,2,1.0,0,3,3,0,0,0,1,2,8,4.1,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+11,114,11,2024-12-17,Utah State,,UC San Diego,REG (Non-Conf),L 73-75,,25,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,1,1,2,0,2,0,1,3,2,-1.7,H,0,1,dexter-akanno-1,Dexter Akanno,2025
+12,115,12,2024-12-22,Utah State,@,St. Mary's (CA),REG (Non-Conf),W 75-68,,32,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,7,7,3,1,0,2,0,3,3.8,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+13,116,13,2024-12-28,Utah State,@,San Diego State,REG (Conf),W 67-66,,18,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,2,2,0,-3.2,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+14,117,14,2024-12-31,Utah State,@,Nevada,REG (Conf),W 69-64,,21,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,2,2,0,1,0,2,0,6,4.3,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+15,118,15,2025-01-04,Utah State,,Fresno State,REG (Conf),W 89-83,,32,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,2,0.5,1,4,5,2,0,0,0,0,13,12.3,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+16,119,16,2025-01-07,Utah State,@,San Jose State,REG (Conf),W 85-78,,17,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,1,3,4,1,2,0,1,0,8,9.0,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+17,120,17,2025-01-11,Utah State,,Boise State,REG (Conf),W 81-79,,29,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,2,1.0,0,3,3,2,0,0,0,1,12,11.3,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+18,121,18,2025-01-15,Utah State,@,UNLV,REG (Conf),L 62-65,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,2,3,1,0,0,1,1,5,3.6,A,0,1,dexter-akanno-1,Dexter Akanno,2025
+19,122,19,2025-01-22,Utah State,,Nevada,REG (Conf),W 90-69,,26,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,0,2,2,4,3,0,0,0,15,18.5,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+20,123,20,2025-01-25,Utah State,@,Air Force,REG (Conf),W 87-58,,26,3,7,0.429,3,6,0.5,0,1,0.0,0.643,0,0,,1,1,2,1,1,0,0,1,9,7.6,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+21,124,21,2025-01-29,Utah State,,UNLV,REG (Conf),W 76-71,,30,3,6,0.5,2,5,0.4,1,1,1.0,0.667,3,6,0.5,1,1,2,2,0,0,1,1,11,7.8,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+22,125,22,2025-02-01,Utah State,,New Mexico,REG (Conf),L 63-82,,25,3,8,0.375,2,6,0.333,1,2,0.5,0.5,2,2,1.0,2,2,4,1,0,0,0,3,10,7.1,H,0,1,dexter-akanno-1,Dexter Akanno,2025
+23,126,23,2025-02-04,Utah State,@,Wyoming,REG (Conf),W 71-67,*,37,2,6,0.333,0,2,0.0,2,4,0.5,0.333,2,2,1.0,2,4,6,1,0,0,1,2,6,4.1,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+24,127,24,2025-02-07,Utah State,@,Fresno State,REG (Conf),W 89-81,*,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,2,3,5,3,0,0,1,2,5,5.2,A,1,1,dexter-akanno-1,Dexter Akanno,2025
+25,128,25,2025-02-11,Utah State,,Colorado State,REG (Conf),W 93-85,*,34,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,2,2,0,1,0,0,3,11,8.8,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+26,129,26,2025-02-16,Utah State,@,New Mexico,REG (Conf),L 79-82,*,30,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,4,4,0,2,0,1,2,1,1.3,A,0,1,dexter-akanno-1,Dexter Akanno,2025
+27,130,27,2025-02-19,Utah State,,San Jose State,REG (Conf),W 105-57,*,26,5,10,0.5,3,6,0.5,2,4,0.5,0.65,0,0,,2,1,3,0,0,0,1,1,13,8.3,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+28,131,28,2025-02-22,Utah State,,San Diego State,REG (Conf),W 79-71,*,27,9,12,0.75,7,9,0.778,2,3,0.667,1.042,1,1,1.0,1,4,5,0,0,0,0,4,26,21.5,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+29,132,29,2025-02-26,Utah State,@,Boise State,REG (Conf),L 65-82,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,3,0.667,1,3,4,0,0,0,0,2,7,4.0,A,0,1,dexter-akanno-1,Dexter Akanno,2025
+30,133,30,2025-03-01,Utah State,@,Colorado State,REG (Conf),L 66-93,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,0,0,0,0,3,0,-1.6,A,0,1,dexter-akanno-1,Dexter Akanno,2025
+31,134,31,2025-03-08,Utah State,,Air Force,REG (Conf),W 87-47,*,29,2,5,0.4,2,5,0.4,0,0,,0.6,4,5,0.8,1,1,2,1,0,0,1,2,10,6.8,H,1,1,dexter-akanno-1,Dexter Akanno,2025
+32,135,32,2025-03-13,Utah State,N,UNLV,CTOURN,W 70-58,*,31,1,7,0.143,1,6,0.167,0,1,0.0,0.214,0,0,,2,1,3,0,0,0,0,4,3,-1.4,N,1,0,dexter-akanno-1,Dexter Akanno,2025
+33,136,33,2025-03-15,Utah State,N,Colorado State,CTOURN,L 72-83,*,15,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,1,0,1,3,0,-1.6,N,0,0,dexter-akanno-1,Dexter Akanno,2025
+34,137,34,2025-03-20,Utah State,N,UCLA,ROUND-64,L 47-72,,16,0,4,0.0,0,4,0.0,0,0,,0.0,1,2,0.5,0,0,0,0,0,0,2,0,1,-4.2,N,0,0,dexter-akanno-1,Dexter Akanno,2025

@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,45,1,2020-12-02,Florida,N,Army,REG (Non-Conf),W 76-69,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,3,5,8,0,0,1,1,3,9,9.1,N,1,1,colin-castleton-1,Colin Castleton,2021
+2,46,2,2020-12-03,Florida,N,Boston College,REG (Non-Conf),W 90-70,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,1,1,1.0,1,1,2,1,1,2,1,3,3,3.2,N,1,1,colin-castleton-1,Colin Castleton,2021
+3,47,3,2020-12-06,Florida,,Stetson,REG (Non-Conf),W 86-40,*,12,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,1,1,0,0,1,0,2,7,5.2,H,1,1,colin-castleton-1,Colin Castleton,2021
+4,48,4,2020-12-12,Florida,@,Florida State,REG (Non-Conf),L 71-83,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,1,3,0.333,4,3,7,0,2,1,1,3,7,8.8,A,0,1,colin-castleton-1,Colin Castleton,2021
+5,49,5,2020-12-30,Florida,@,Vanderbilt,REG (Conf),W 91-72,*,30,11,13,0.846,0,0,,11,13,0.846,0.846,1,4,0.25,3,2,5,1,0,2,0,3,23,20.7,A,1,1,colin-castleton-1,Colin Castleton,2021
+6,50,6,2021-01-02,Florida,,Louisiana State,REG (Conf),W 83-79,*,19,7,10,0.7,0,0,,7,10,0.7,0.7,7,7,1.0,3,3,6,0,0,1,1,3,21,18.3,H,1,1,colin-castleton-1,Colin Castleton,2021
+7,51,7,2021-01-05,Florida,@,Alabama,REG (Conf),L 71-86,*,26,6,11,0.545,0,0,,6,11,0.545,0.545,1,3,0.333,4,4,8,1,0,0,2,3,13,8.4,A,0,1,colin-castleton-1,Colin Castleton,2021
+8,52,8,2021-01-09,Florida,,Kentucky,REG (Conf),L 58-76,*,24,3,8,0.375,0,0,,3,8,0.375,0.375,0,0,,0,3,3,0,1,1,2,2,6,1.4,H,0,1,colin-castleton-1,Colin Castleton,2021
+9,53,9,2021-01-12,Florida,,Ole Miss,REG (Conf),W 72-63,*,31,6,12,0.5,0,0,,6,12,0.5,0.5,9,12,0.75,5,5,10,3,0,8,3,1,21,23.1,H,1,1,colin-castleton-1,Colin Castleton,2021
+10,54,10,2021-01-16,Florida,@,Mississippi State,REG (Conf),L 69-72,*,33,7,13,0.538,0,0,,7,13,0.538,0.538,2,3,0.667,2,5,7,2,0,6,3,3,16,13.6,A,0,1,colin-castleton-1,Colin Castleton,2021
+11,55,12,2021-01-23,Florida,@,Georgia,REG (Conf),W 92-84,,18,7,9,0.778,0,0,,7,9,0.778,0.778,0,1,0.0,2,1,3,3,1,1,2,1,14,13.2,A,1,1,colin-castleton-1,Colin Castleton,2021
+12,56,13,2021-01-27,Florida,,Vanderbilt,REG (Conf),W 78-71,*,21,6,8,0.75,0,0,,6,8,0.75,0.75,1,2,0.5,2,3,5,1,0,1,1,3,13,10.9,H,1,1,colin-castleton-1,Colin Castleton,2021
+13,57,14,2021-01-30,Florida,@,West Virginia,REG (Non-Conf),W 85-80,*,27,6,9,0.667,0,0,,6,9,0.667,0.667,9,9,1.0,4,3,7,1,0,5,4,4,21,19.4,A,1,1,colin-castleton-1,Colin Castleton,2021
+14,58,15,2021-02-03,Florida,,South Carolina,REG (Conf),L 66-72,*,32,4,12,0.333,0,0,,4,12,0.333,0.333,3,4,0.75,3,4,7,1,0,7,1,2,11,10.9,H,0,1,colin-castleton-1,Colin Castleton,2021
+15,59,16,2021-02-16,Florida,@,Arkansas,REG (Conf),L 64-75,,23,4,10,0.4,0,0,,4,10,0.4,0.4,5,5,1.0,2,4,6,0,2,2,1,3,13,11.4,A,0,1,colin-castleton-1,Colin Castleton,2021
+16,60,17,2021-02-20,Florida,,Georgia,REG (Conf),W 70-63,,25,5,5,1.0,0,0,,5,5,1.0,1.0,4,5,0.8,1,6,7,1,0,3,4,2,14,12.6,H,1,1,colin-castleton-1,Colin Castleton,2021
+17,61,18,2021-02-23,Florida,@,Auburn,REG (Conf),W 74-57,*,21,2,6,0.333,0,0,,2,6,0.333,0.333,3,4,0.75,4,4,8,1,1,0,2,0,7,6.9,A,1,1,colin-castleton-1,Colin Castleton,2021
+18,62,19,2021-02-27,Florida,@,Kentucky,REG (Conf),W 71-67,*,34,5,7,0.714,0,0,,5,7,0.714,0.714,4,4,1.0,2,3,5,4,1,0,3,3,14,13.0,A,1,1,colin-castleton-1,Colin Castleton,2021
+19,63,20,2021-03-03,Florida,,Missouri,REG (Conf),L 70-72,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,4,1.0,1,2,3,1,0,1,0,2,10,8.9,H,0,1,colin-castleton-1,Colin Castleton,2021
+20,64,21,2021-03-07,Florida,@,Tennessee,REG (Conf),L 54-65,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,5,5,1.0,2,4,6,0,0,2,3,4,11,7.4,A,0,1,colin-castleton-1,Colin Castleton,2021
+21,65,22,2021-03-11,Florida,N,Vanderbilt,CTOURN,W 69-63,*,29,3,5,0.6,0,0,,3,5,0.6,0.6,0,2,0.0,2,6,8,1,2,2,3,0,6,7.2,N,1,0,colin-castleton-1,Colin Castleton,2021
+22,66,23,2021-03-12,Florida,N,Tennessee,CTOURN,L 66-78,*,24,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,2,5,7,2,0,1,0,0,4,4.9,N,0,0,colin-castleton-1,Colin Castleton,2021
+23,67,24,2021-03-19,Florida,N,Virginia Tech,ROUND-64,W 75-70 (OT),*,43,6,8,0.75,0,0,,6,8,0.75,0.75,7,8,0.875,3,11,14,2,1,3,3,1,19,21.9,N,1,0,colin-castleton-1,Colin Castleton,2021
+24,68,25,2021-03-21,Florida,N,Oral Roberts,ROUND-32,L 78-81,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,4,4,1.0,4,6,10,0,1,3,5,1,14,14.1,N,0,0,colin-castleton-1,Colin Castleton,2021

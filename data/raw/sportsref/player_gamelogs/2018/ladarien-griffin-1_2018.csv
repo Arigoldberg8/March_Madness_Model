@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2017-11-10,St. Bonaventure,,Niagara,REG (Non-Conf),L 75-77,*,36,5,9,0.556,0,2,0.0,5,7,0.714,0.556,0,1,0.0,5,5,10,1,1,0,0,3,10,10.8,H,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+2,42,2,2017-11-18,St. Bonaventure,,Jackson State,REG (Non-Conf),W 72-58,*,37,1,5,0.2,0,0,,1,5,0.2,0.2,3,3,1.0,2,7,9,2,0,3,1,3,5,6.7,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+3,43,3,2017-11-20,St. Bonaventure,,Maryland Eastern Shore,REG (Non-Conf),W 96-48,*,20,4,6,0.667,0,0,,4,6,0.667,0.667,3,3,1.0,1,1,2,1,0,1,3,3,11,6.6,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+4,44,4,2017-11-24,St. Bonaventure,N,Maryland,REG (Non-Conf),W 63-61,*,33,4,8,0.5,0,0,,4,8,0.5,0.5,0,1,0.0,2,3,5,1,1,1,1,1,8,6.9,N,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+5,45,5,2017-11-25,St. Bonaventure,N,TCU,REG (Non-Conf),L 79-89,*,40,5,9,0.556,0,1,0.0,5,8,0.625,0.556,3,6,0.5,2,3,5,0,2,1,0,4,13,10.9,N,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+6,46,6,2017-11-29,St. Bonaventure,@,Siena,REG (Non-Conf),W 75-55,*,29,6,13,0.462,0,1,0.0,6,12,0.5,0.462,6,9,0.667,6,5,11,4,0,1,2,3,18,16.1,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+7,47,7,2017-12-02,St. Bonaventure,@,Buffalo,REG (Non-Conf),W 73-62,*,24,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,4,0.5,2,4,6,0,2,3,1,2,8,8.4,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+8,48,8,2017-12-06,St. Bonaventure,@,Canisius,REG (Non-Conf),W 73-65,*,37,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,7,10,2,2,2,0,3,6,12.9,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+9,49,9,2017-12-09,St. Bonaventure,,Yale,REG (Non-Conf),W 75-67,*,21,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,2,5,7,0,1,2,1,4,5,5.0,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+10,50,10,2017-12-16,St. Bonaventure,N,Vermont,REG (Non-Conf),W 81-79,*,31,2,5,0.4,0,0,,2,5,0.4,0.4,7,8,0.875,2,1,3,2,0,1,3,2,11,7.9,N,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+11,51,11,2017-12-20,St. Bonaventure,,Northeastern,REG (Non-Conf),W 84-65,*,35,3,7,0.429,0,0,,3,7,0.429,0.429,6,6,1.0,1,7,8,1,1,1,1,3,12,11.3,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+12,52,12,2017-12-22,St. Bonaventure,@,Syracuse,REG (Non-Conf),W 60-57 (OT),*,42,2,12,0.167,0,0,,2,12,0.167,0.167,5,6,0.833,0,3,3,2,0,2,3,2,9,0.9,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+13,53,13,2017-12-30,St. Bonaventure,,Massachusetts,REG (Conf),W 98-78,*,27,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,4,2,6,2,2,0,1,1,4,5.3,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+14,54,14,2018-01-03,St. Bonaventure,@,Dayton,REG (Conf),L 72-82,*,31,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,4,2,6,1,1,0,1,3,8,7.6,A,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+15,55,15,2018-01-06,St. Bonaventure,@,Saint Joseph's,REG (Conf),L 78-85,*,26,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,3,5,8,0,2,1,0,2,8,10.9,A,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+16,56,16,2018-01-10,St. Bonaventure,,Fordham,REG (Conf),W 77-61,*,32,9,14,0.643,0,0,,9,14,0.643,0.643,3,4,0.75,4,10,14,0,1,1,0,2,21,21.1,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+17,57,17,2018-01-13,St. Bonaventure,@,Rhode Island,REG (Conf),L 73-87,*,35,3,7,0.429,0,0,,3,7,0.429,0.429,2,2,1.0,2,2,4,0,0,2,1,3,8,5.5,A,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+18,58,18,2018-01-19,St. Bonaventure,@,Davidson,REG (Conf),L 73-83,*,32,1,6,0.167,0,0,,1,6,0.167,0.167,6,8,0.75,4,2,6,3,1,2,1,3,8,9.1,A,0,1,ladarien-griffin-1,LaDarien Griffin,2018
+19,59,19,2018-01-24,St. Bonaventure,,Saint Joseph's,REG (Conf),W 70-67,*,26,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,4,7,11,1,0,0,4,4,10,5.7,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+20,60,20,2018-01-28,St. Bonaventure,,George Washington,REG (Conf),W 70-52,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,2,3,0.667,1,4,5,0,0,0,2,0,8,4.5,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+21,61,21,2018-01-31,St. Bonaventure,@,George Mason,REG (Conf),W 85-69,*,35,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,0,4,4,1,0,2,3,2,8,5.5,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+22,62,22,2018-02-03,St. Bonaventure,@,Duquesne,REG (Conf),W 84-81,*,25,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,2,1,3,1,0,0,0,1,3,1.5,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+23,63,23,2018-02-07,St. Bonaventure,,Saint Louis,REG (Conf),W 79-56,*,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,1,2,1,0,1,0,1,0,0.6,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+24,64,25,2018-02-13,St. Bonaventure,@,La Salle,REG (Conf),W 79-68,*,30,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,5,7,1,0,0,0,3,4,4.4,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+25,65,26,2018-02-16,St. Bonaventure,,Rhode Island,REG (Conf),W 77-74,,27,5,7,0.714,0,0,,5,7,0.714,0.714,4,4,1.0,4,4,8,2,1,3,3,2,14,15.8,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+26,66,27,2018-02-21,St. Bonaventure,,Duquesne,REG (Conf),W 73-67,,22,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,1,6,7,0,0,3,0,4,4,5.2,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+27,67,28,2018-02-24,St. Bonaventure,@,VCU,REG (Conf),W 68-63,,28,5,7,0.714,0,0,,5,7,0.714,0.714,1,2,0.5,1,1,2,2,0,0,2,4,11,6.5,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+28,68,29,2018-02-27,St. Bonaventure,,Davidson,REG (Conf),W 117-113 (3OT),,40,4,10,0.4,0,0,,4,10,0.4,0.4,1,2,0.5,3,5,8,1,0,1,1,5,9,5.2,H,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+29,69,30,2018-03-03,St. Bonaventure,@,Saint Louis,REG (Conf),W 64-56,,27,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,2,6,8,1,0,2,1,3,7,7.7,A,1,1,ladarien-griffin-1,LaDarien Griffin,2018
+30,70,31,2018-03-09,St. Bonaventure,N,Richmond,CTOURN,W 83-77,,29,5,6,0.833,0,0,,5,6,0.833,0.833,7,14,0.5,6,5,11,1,1,3,1,4,17,18.9,N,1,0,ladarien-griffin-1,LaDarien Griffin,2018
+31,71,32,2018-03-10,St. Bonaventure,N,Davidson,CTOURN,L 70-82,*,39,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,1,2,3,2,0,1,1,1,2,0.2,N,0,0,ladarien-griffin-1,LaDarien Griffin,2018
+32,72,33,2018-03-13,St. Bonaventure,N,UCLA,FIRST-FOUR,W 65-58,,25,5,6,0.833,0,0,,5,6,0.833,0.833,0,1,0.0,1,2,3,1,3,0,1,1,10,11.0,N,1,0,ladarien-griffin-1,LaDarien Griffin,2018
+33,73,34,2018-03-15,St. Bonaventure,N,Florida,ROUND-64,L 62-77,,24,2,5,0.4,1,1,1.0,1,4,0.25,0.5,4,6,0.667,2,2,4,0,2,0,0,3,9,8.3,N,0,0,ladarien-griffin-1,LaDarien Griffin,2018

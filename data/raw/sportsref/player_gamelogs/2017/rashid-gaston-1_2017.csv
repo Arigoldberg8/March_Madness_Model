@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,83,1,2016-11-11,Xavier,,Lehigh,REG (Non-Conf),W 84-81,,14,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,1,2,0,1,0,0,2,5,5.2,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+2,84,2,2016-11-14,Xavier,,Buffalo,REG (Non-Conf),W 86-53,,15,3,4,0.75,0,0,3,4,0.75,0.75,3,4,0.75,3,4,7,0,0,0,2,4,9,6.7,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+3,85,3,2016-11-17,Xavier,N,Missouri,REG (Non-Conf),W 83-82 (OT),,27,3,4,0.75,0,0,3,4,0.75,0.75,6,10,0.6,3,7,10,2,0,4,2,5,12,13.2,N,1,1,rashid-gaston-1,Rashid Gaston,2017
+4,86,4,2016-11-18,Xavier,N,Clemson,REG (Non-Conf),W 83-77,,15,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,3,2,5,0,0,1,2,5,2,-1.7,N,1,1,rashid-gaston-1,Rashid Gaston,2017
+5,87,5,2016-11-20,Xavier,N,Northern Iowa,REG (Non-Conf),W 67-59,,19,2,5,0.4,0,0,2,5,0.4,0.4,3,3,1.0,3,4,7,0,1,1,1,3,7,7.1,N,1,1,rashid-gaston-1,Rashid Gaston,2017
+6,88,6,2016-11-26,Xavier,,Northern Iowa,REG (Non-Conf),W 64-42,,15,1,5,0.2,0,0,1,5,0.2,0.2,0,0,,2,3,5,2,0,0,3,1,2,-0.8,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+7,89,7,2016-11-29,Xavier,,North Dakota State,REG (Non-Conf),W 85-55,,12,4,8,0.5,0,0,4,8,0.5,0.5,1,2,0.5,3,2,5,1,0,0,1,2,9,6.2,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+8,90,8,2016-12-03,Xavier,@,Baylor,REG (Non-Conf),L 61-76,,18,1,4,0.25,0,0,1,4,0.25,0.25,1,4,0.25,5,3,8,0,0,0,0,1,3,3.4,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+9,91,9,2016-12-07,Xavier,@,Colorado,REG (Non-Conf),L 66-68,*,25,7,8,0.875,0,0,7,8,0.875,0.875,0,3,0.0,3,8,11,0,0,2,0,2,14,15.1,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+10,92,10,2016-12-10,Xavier,,Utah,REG (Non-Conf),W 77-69,*,28,5,8,0.625,0,0,5,8,0.625,0.625,1,2,0.5,8,6,14,2,0,0,2,3,11,12.6,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+11,93,11,2016-12-17,Xavier,,Wake Forest,REG (Non-Conf),W 69-65,*,28,6,9,0.667,0,0,6,9,0.667,0.667,2,3,0.667,0,4,4,1,0,2,0,0,14,13.0,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+12,94,12,2016-12-20,Xavier,,Eastern Washington,REG (Non-Conf),W 85-56,*,16,2,4,0.5,0,0,2,4,0.5,0.5,0,2,0.0,0,3,3,0,0,0,0,2,4,1.3,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+13,95,13,2016-12-28,Xavier,,Providence,REG (Conf),W 82-56,*,19,6,6,1.0,0,0,6,6,1.0,1.0,0,0,,2,2,4,0,0,1,1,2,12,11.1,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+14,96,14,2016-12-31,Xavier,@,Georgetown,REG (Conf),W 81-76,*,24,3,7,0.429,0,0,3,7,0.429,0.429,0,1,0.0,3,6,9,1,0,0,0,2,6,5.7,A,1,1,rashid-gaston-1,Rashid Gaston,2017
+15,97,15,2017-01-07,Xavier,,St. John's (NY),REG (Conf),W 97-82,*,7,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,1,2,4,2,-1.9,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+16,98,16,2017-01-10,Xavier,@,Villanova,REG (Conf),L 54-79,*,16,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,3,3,6,0,0,0,2,2,4,2.2,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+17,99,17,2017-01-14,Xavier,@,Butler,REG (Conf),L 78-83,*,28,3,3,1.0,0,0,3,3,1.0,1.0,2,4,0.5,5,2,7,1,0,0,1,2,8,9.3,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+18,100,18,2017-01-16,Xavier,,Creighton,REG (Conf),L 67-72,*,28,5,12,0.417,0,0,5,12,0.417,0.417,2,6,0.333,9,8,17,1,1,0,1,2,12,12.6,H,0,1,rashid-gaston-1,Rashid Gaston,2017
+19,101,19,2017-01-22,Xavier,,Georgetown,REG (Conf),W 86-75,*,16,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,0,1,1,0,0,0,0,2,4,2.5,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+20,102,20,2017-01-26,Xavier,@,Cincinnati,REG (Non-Conf),L 78-86,*,20,0,5,0.0,0,0,0,5,0.0,0.0,0,1,0.0,3,1,4,0,0,1,1,3,0,-3.0,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+21,103,21,2017-01-29,Xavier,@,St. John's (NY),REG (Conf),W 82-77,,17,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,1,3,4,1,0,0,3,4,4,0.7,A,1,1,rashid-gaston-1,Rashid Gaston,2017
+22,104,22,2017-02-01,Xavier,,Seton Hall,REG (Conf),W 72-70,,23,3,8,0.375,0,0,3,8,0.375,0.375,0,0,,4,3,7,2,0,1,1,3,6,5.2,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+23,105,23,2017-02-04,Xavier,@,Creighton,REG (Conf),W 82-80,,19,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,2,3,5,2,1,1,0,1,7,10.0,A,1,1,rashid-gaston-1,Rashid Gaston,2017
+24,106,24,2017-02-08,Xavier,,DePaul,REG (Conf),W 72-61,,20,6,8,0.75,0,0,6,8,0.75,0.75,2,3,0.667,1,4,5,1,0,0,2,1,14,10.6,H,1,1,rashid-gaston-1,Rashid Gaston,2017
+25,107,25,2017-02-11,Xavier,,Villanova,REG (Conf),L 57-73,,30,10,13,0.769,0,0,10,13,0.769,0.769,3,7,0.429,6,4,10,1,0,0,3,3,23,18.2,H,0,1,rashid-gaston-1,Rashid Gaston,2017
+26,108,26,2017-02-15,Xavier,@,Providence,REG (Conf),L 63-75,,30,8,10,0.8,0,0,8,10,0.8,0.8,3,5,0.6,4,10,14,0,0,1,1,1,19,19.5,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+27,109,27,2017-02-18,Xavier,@,Marquette,REG (Conf),L 61-83,*,22,5,8,0.625,0,0,5,8,0.625,0.625,2,3,0.667,2,8,10,0,0,0,2,4,12,8.2,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+28,110,28,2017-02-22,Xavier,@,Seton Hall,REG (Conf),L 64-71,,10,2,3,0.667,0,0,2,3,0.667,0.667,0,2,0.0,1,1,2,1,1,0,3,4,4,0.0,A,0,1,rashid-gaston-1,Rashid Gaston,2017
+29,111,29,2017-02-26,Xavier,,Butler,REG (Conf),L 79-88,*,15,0,1,0.0,0,0,0,1,0.0,0.0,3,4,0.75,2,3,5,0,0,0,0,0,3,4.2,H,0,1,rashid-gaston-1,Rashid Gaston,2017
+30,112,30,2017-03-01,Xavier,,Marquette,REG (Conf),L 84-95,*,26,6,9,0.667,0,0,6,9,0.667,0.667,4,4,1.0,3,4,7,2,0,0,1,1,16,15.4,H,0,1,rashid-gaston-1,Rashid Gaston,2017
+31,113,31,2017-03-04,Xavier,@,DePaul,REG (Conf),W 79-65,,17,3,3,1.0,0,0,3,3,1.0,1.0,2,3,0.667,2,4,6,1,0,0,1,4,8,7.4,A,1,1,rashid-gaston-1,Rashid Gaston,2017
+32,114,32,2017-03-08,Xavier,N,DePaul,CTOURN,W 75-64,*,23,4,6,0.667,0,0,4,6,0.667,0.667,1,2,0.5,1,3,4,1,0,2,1,2,9,7.9,N,1,0,rashid-gaston-1,Rashid Gaston,2017
+33,115,33,2017-03-09,Xavier,N,Butler,CTOURN,W 62-57,*,11,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,0,0,0,2,1,2,-0.4,N,1,0,rashid-gaston-1,Rashid Gaston,2017
+34,116,34,2017-03-10,Xavier,N,Creighton,CTOURN,L 72-75,*,12,1,4,0.25,0,0,1,4,0.25,0.25,2,2,1.0,1,5,6,0,0,0,0,2,4,3.0,N,0,0,rashid-gaston-1,Rashid Gaston,2017
+35,117,35,2017-03-16,Xavier,N,Maryland,ROUND-64,W 76-65,,10,0,0,,0,0,0,0,,,1,2,0.5,0,3,3,0,0,0,0,0,1,1.5,N,1,0,rashid-gaston-1,Rashid Gaston,2017
+36,118,36,2017-03-18,Xavier,N,Florida State,ROUND-32,W 91-66,,2,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,N,1,0,rashid-gaston-1,Rashid Gaston,2017
+37,119,37,2017-03-23,Xavier,N,Arizona,ROUND-16,W 73-71,,4,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,0,0,0,1,0,0,2,2,1.9,N,1,0,rashid-gaston-1,Rashid Gaston,2017
+38,120,38,2017-03-25,Xavier,N,Gonzaga,ROUND-8,L 59-83,,8,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,3,2,5,0,0,0,0,3,5,4.1,N,0,0,rashid-gaston-1,Rashid Gaston,2017

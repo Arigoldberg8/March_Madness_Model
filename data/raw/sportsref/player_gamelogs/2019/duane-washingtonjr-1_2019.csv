@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-07,Ohio State,@,Cincinnati,REG (Non-Conf),W 64-56,,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,4,4,0,0,0,0,3,3,1.3,A,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+2,2,2,2018-11-11,Ohio State,,Purdue Fort Wayne,REG (Non-Conf),W 107-61,,21,7,11,0.636,6,9,0.667,1,2,0.5,0.909,0,0,,0,3,3,1,0,0,0,0,20,16.7,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+3,3,3,2018-11-15,Ohio State,@,Creighton,REG (Non-Conf),W 69-60,,23,4,6,0.667,3,4,0.75,1,2,0.5,0.917,1,2,0.5,0,2,2,1,1,0,2,3,12,8.1,A,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+4,4,4,2018-11-18,Ohio State,,South Carolina State,REG (Non-Conf),W 89-61,,25,5,10,0.5,1,4,0.25,4,6,0.667,0.55,3,4,0.75,0,2,2,1,0,0,3,1,14,6.5,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+5,5,5,2018-11-20,Ohio State,,Samford,REG (Non-Conf),W 68-50,*,14,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,2,1.0,0,2,2,2,0,0,2,1,4,-0.2,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+6,6,6,2018-11-23,Ohio State,,Cleveland State,REG (Non-Conf),W 89-62,,17,1,6,0.167,1,2,0.5,0,4,0.0,0.25,1,2,0.5,0,2,2,3,0,0,1,3,4,0.3,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+7,7,7,2018-11-28,Ohio State,,Syracuse,REG (Non-Conf),L 62-72,,10,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,1,1,0,0,0,1,0,3,-0.1,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+8,8,8,2018-12-02,Ohio State,,Minnesota,REG (Conf),W 79-59,,22,4,11,0.364,2,5,0.4,2,6,0.333,0.455,0,0,,1,2,3,3,0,0,1,3,10,5.1,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+9,9,9,2018-12-05,Ohio State,N,Illinois,REG (Conf),W 77-67,,14,4,8,0.5,1,5,0.2,3,3,1.0,0.563,0,0,,0,3,3,1,2,0,2,1,9,6.2,N,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+10,10,10,2018-12-15,Ohio State,,Bucknell,REG (Non-Conf),W 73-71,,13,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,2,2,0,0,0,0,0,8,4.2,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+11,11,11,2018-12-18,Ohio State,,Youngstown State,REG (Non-Conf),W 75-56,,24,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,0,,1,1,2,1,0,0,0,1,4,1.2,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+12,12,12,2018-12-22,Ohio State,N,UCLA,REG (Non-Conf),W 80-66,,14,3,11,0.273,2,6,0.333,1,5,0.2,0.364,0,0,,1,2,3,1,0,0,1,0,8,2.5,N,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+13,13,13,2018-12-29,Ohio State,,High Point,REG (Non-Conf),W 82-64,,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,4,0.25,0,1,1,3,0,0,0,1,5,3.1,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+14,14,14,2019-01-05,Ohio State,,Michigan State,REG (Conf),L 77-86,,25,4,11,0.364,2,7,0.286,2,4,0.5,0.455,0,0,,0,4,4,1,0,0,2,2,10,3.0,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+15,15,15,2019-01-09,Ohio State,@,Rutgers,REG (Conf),L 61-64,,12,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,0,0,1,0,0,0,1,5,1.9,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+16,16,16,2019-01-12,Ohio State,@,Iowa,REG (Conf),L 62-72,,14,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,0,0,0,3,2,2,-3.9,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+17,17,17,2019-01-18,Ohio State,,Maryland,REG (Conf),L 61-75,,21,5,10,0.5,3,7,0.429,2,3,0.667,0.65,1,2,0.5,1,5,6,0,0,0,1,0,14,9.8,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+18,18,18,2019-01-23,Ohio State,,Purdue,REG (Conf),L 67-79,*,10,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,1,0,0,1,2,2,-0.2,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+19,19,19,2019-01-26,Ohio State,@,Nebraska,REG (Conf),W 70-60,,8,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,2,2,0,0,0,0,1,2,-0.9,A,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+20,20,20,2019-01-29,Ohio State,@,Michigan,REG (Conf),L 49-65,,16,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,1,1,2,1,0,2,0,5,0.9,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+21,21,21,2019-02-02,Ohio State,,Rutgers,REG (Conf),W 76-62,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+22,22,22,2019-02-07,Ohio State,,Penn State,REG (Conf),W 74-70,,13,3,5,0.6,2,2,1.0,1,3,0.333,0.8,1,2,0.5,0,1,1,1,0,0,1,2,9,5.5,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+23,23,23,2019-02-10,Ohio State,@,Indiana,REG (Conf),W 55-52,,16,2,4,0.5,2,3,0.667,0,1,0.0,0.75,0,0,,0,3,3,1,0,0,1,3,6,3.4,A,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+24,24,24,2019-02-14,Ohio State,,Illinois,REG (Conf),L 56-63,,22,3,7,0.429,0,3,0.0,3,4,0.75,0.429,1,1,1.0,0,3,3,0,1,0,3,1,7,1.8,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+25,25,25,2019-02-17,Ohio State,@,Michigan State,REG (Conf),L 44-62,,24,1,7,0.143,1,5,0.2,0,2,0.0,0.214,1,2,0.5,0,2,2,0,0,0,1,4,4,-2.9,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+26,26,26,2019-02-20,Ohio State,,Northwestern,REG (Conf),W 63-49,,28,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,5,5,2,1,0,0,0,8,8.2,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+27,27,27,2019-02-23,Ohio State,@,Maryland,REG (Conf),L 62-72,,24,5,12,0.417,1,6,0.167,4,6,0.667,0.458,4,4,1.0,3,2,5,4,0,0,1,4,15,11.5,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+28,28,28,2019-02-26,Ohio State,,Iowa,REG (Conf),W 90-70,,13,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,3,3,1,1,0,1,0,10,7.6,H,1,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+29,29,29,2019-03-02,Ohio State,@,Purdue,REG (Conf),L 51-86,,20,4,9,0.444,0,3,0.0,4,6,0.667,0.444,1,2,0.5,0,3,3,1,0,0,0,0,9,5.5,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+30,30,30,2019-03-06,Ohio State,@,Northwestern,REG (Conf),L 50-68,,27,4,14,0.286,1,7,0.143,3,7,0.429,0.321,2,3,0.667,0,6,6,1,1,0,0,2,11,5.1,A,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+31,31,31,2019-03-10,Ohio State,,Wisconsin,REG (Conf),L 67-73 (OT),,20,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,1,1,1,0,0,1,1,7,1.5,H,0,1,duane-washingtonjr-1,Duane Washington Jr.,2019
+32,32,32,2019-03-14,Ohio State,N,Indiana,CTOURN,W 79-75,,9,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,1,1,0,3,0,4,1.0,N,1,0,duane-washingtonjr-1,Duane Washington Jr.,2019
+33,33,33,2019-03-15,Ohio State,N,Michigan State,CTOURN,L 70-77,,14,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,3,3,2,0,0,2,0,5,1.9,N,0,0,duane-washingtonjr-1,Duane Washington Jr.,2019
+34,34,34,2019-03-22,Ohio State,N,Iowa State,ROUND-64,W 62-59,,9,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,0,0,0,0,0,0,1,0,4,-0.5,N,1,0,duane-washingtonjr-1,Duane Washington Jr.,2019
+35,35,35,2019-03-24,Ohio State,N,Houston,ROUND-32,L 59-74,,12,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,1,2,3,0,1,0,0,2,2,1.4,N,0,0,duane-washingtonjr-1,Duane Washington Jr.,2019

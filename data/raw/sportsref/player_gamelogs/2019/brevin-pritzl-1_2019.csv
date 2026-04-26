@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,58,1,2018-11-06,Wisconsin,,Coppin State,REG (Non-Conf),W 85-63,,21,4,7,0.571,4,7,0.571,0,0,,0.857,4,4,1.0,0,0,0,1,1,0,0,3,16,13.2,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+2,59,2,2018-11-13,Wisconsin,@,Xavier,REG (Non-Conf),W 77-68,,27,0,6,0.0,0,5,0.0,0,1,0.0,0.0,0,0,,2,3,5,0,1,0,0,2,0,-1.7,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+3,60,3,2018-11-17,Wisconsin,,Houston Baptist,REG (Non-Conf),W 96-59,,26,5,5,1.0,2,2,1.0,3,3,1.0,1.2,5,6,0.833,0,3,3,1,1,0,2,1,17,15.3,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+4,61,4,2018-11-21,Wisconsin,N,Stanford,REG (Non-Conf),W 62-46,,15,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,N,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+5,62,5,2018-11-22,Wisconsin,N,Oklahoma,REG (Non-Conf),W 78-58,,14,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,2,0,-0.8,N,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+6,63,6,2018-11-23,Wisconsin,N,Virginia,REG (Non-Conf),L 46-53,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,0,0,0.3,N,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+7,64,7,2018-11-27,Wisconsin,,NC State,REG (Non-Conf),W 79-75,,12,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,2,1.0,0,2,2,1,0,0,0,0,4,3.6,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+8,65,8,2018-11-30,Wisconsin,@,Iowa,REG (Conf),W 72-66,,29,5,9,0.556,2,6,0.333,3,3,1.0,0.667,0,0,,1,3,4,0,1,0,0,1,12,9.9,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+9,66,9,2018-12-03,Wisconsin,,Rutgers,REG (Conf),W 69-64,,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,4,4,1.0,1,3,4,0,1,0,0,0,9,8.9,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+10,67,10,2018-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 69-74 (OT),,26,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,1,0,-3.2,A,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+11,68,11,2018-12-13,Wisconsin,,Savannah State,REG (Non-Conf),W 101-60,,19,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,4,5,2,0,0,0,1,5,5.2,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+12,69,12,2018-12-22,Wisconsin,,Grambling State,REG (Non-Conf),W 84-53,,23,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,3,4,3,3,0,0,2,5,9.6,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+13,70,13,2018-12-29,Wisconsin,@,Western Kentucky,REG (Non-Conf),L 76-83,,12,1,3,0.333,1,3,0.333,0,0,,0.5,0,0,,0,2,2,0,0,0,0,0,3,1.9,A,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+14,71,14,2019-01-03,Wisconsin,,Minnesota,REG (Conf),L 52-59,,22,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,0,0,0,0,2,5,3.5,H,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+15,72,15,2019-01-06,Wisconsin,@,Penn State,REG (Conf),W 71-52,,17,2,3,0.667,2,2,1.0,0,1,0.0,1.0,0,0,,0,1,1,1,0,0,1,0,6,4.7,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+16,73,16,2019-01-11,Wisconsin,,Purdue,REG (Conf),L 80-84 (OT),,23,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,0,0,1,1,2,0.3,H,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+17,74,17,2019-01-14,Wisconsin,@,Maryland,REG (Conf),L 60-64,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,1,3,0,-2.3,A,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+18,75,18,2019-01-19,Wisconsin,,Michigan,REG (Conf),W 64-54,,10,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,1,1,0,-1.1,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+19,76,19,2019-01-23,Wisconsin,@,Illinois,REG (Conf),W 72-60,,26,1,2,0.5,1,2,0.5,0,0,,0.75,0,1,0.0,0,4,4,1,1,0,0,2,3,3.7,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+20,77,20,2019-01-26,Wisconsin,,Northwestern,REG (Conf),W 62-46,,14,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,0,0,0,0,0,3,2.6,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+21,78,21,2019-01-29,Wisconsin,@,Nebraska,REG (Conf),W 62-51,,25,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,1,2,3,0,0,0,0,0,8,8.0,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+22,79,22,2019-02-01,Wisconsin,,Maryland,REG (Conf),W 69-61,,21,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,3,3,0,1,0,0,0,6,7.3,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+23,80,23,2019-02-06,Wisconsin,@,Minnesota,REG (Conf),W 56-51,,21,1,3,0.333,1,1,1.0,0,2,0.0,0.5,4,4,1.0,0,3,3,0,0,0,0,2,7,5.4,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+24,81,24,2019-02-09,Wisconsin,@,Michigan,REG (Conf),L 52-61,,16,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,0,0,0.3,A,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+25,82,25,2019-02-12,Wisconsin,,Michigan State,REG (Conf),L 59-67,,18,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,0,2,2,0,0,1,0,3,7,6.5,H,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+26,83,26,2019-02-18,Wisconsin,,Illinois,REG (Conf),W 64-58,,31,2,7,0.286,1,4,0.25,1,3,0.333,0.357,1,2,0.5,4,6,10,1,0,1,1,0,6,6.5,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+27,84,27,2019-02-23,Wisconsin,@,Northwestern,REG (Conf),W 69-64,,15,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,0,1,0,0,0,0,2,2,0.9,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+28,85,28,2019-02-26,Wisconsin,@,Indiana,REG (Conf),L 73-75 (2OT),,23,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,0,6,5.7,A,0,1,brevin-pritzl-1,Brevin Pritzl,2019
+29,86,29,2019-03-02,Wisconsin,,Penn State,REG (Conf),W 61-57,,25,5,5,1.0,4,4,1.0,1,1,1.0,1.4,3,4,0.75,1,1,2,0,0,0,0,0,17,16.1,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+30,87,30,2019-03-07,Wisconsin,,Iowa,REG (Conf),W 65-45,,21,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,3,3,1,0,0,2,2,5,0.4,H,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+31,88,31,2019-03-10,Wisconsin,@,Ohio State,REG (Conf),W 73-67 (OT),,28,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,2,0.5,0,4,4,0,0,1,0,1,6,5.1,A,1,1,brevin-pritzl-1,Brevin Pritzl,2019
+32,89,32,2019-03-15,Wisconsin,N,Nebraska,CTOURN,W 66-62,,21,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,1,0.0,1,4,5,0,0,0,0,1,2,0.7,N,1,0,brevin-pritzl-1,Brevin Pritzl,2019
+33,90,33,2019-03-16,Wisconsin,N,Michigan State,CTOURN,L 55-67,,7,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,1,0,0.2,N,0,0,brevin-pritzl-1,Brevin Pritzl,2019
+34,91,34,2019-03-22,Wisconsin,N,Oregon,ROUND-64,L 54-72,,17,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,0,1,0,0,0,0,1,0,-1.8,N,0,0,brevin-pritzl-1,Brevin Pritzl,2019

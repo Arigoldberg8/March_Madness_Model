@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,1,2025-11-03,Villanova,N,Brigham Young,REG (Non-Conf),L 66-71,*,32,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,4,11,15,1,2,0,2,2,8,11.4,N,0,1,duke-brennan-1,Duke Brennan,2026
+2,103,2,2025-11-08,Villanova,,Queens (NC),REG (Non-Conf),W 94-74,*,28,7,14,0.5,0,0,7,14,0.5,0.5,3,5,0.6,11,9,20,3,0,0,1,2,17,19.9,H,1,1,duke-brennan-1,Duke Brennan,2026
+3,104,3,2025-11-11,Villanova,,Sacred Heart,REG (Non-Conf),W 94-60,*,19,4,6,0.667,0,0,4,6,0.667,0.667,2,2,1.0,6,5,11,1,1,1,1,1,10,14.1,H,1,1,duke-brennan-1,Duke Brennan,2026
+4,105,4,2025-11-15,Villanova,,Duquesne,REG (Non-Conf),W 87-77,*,27,3,6,0.5,0,0,3,6,0.5,0.5,2,4,0.5,8,5,13,2,2,0,3,3,8,10.5,H,1,1,duke-brennan-1,Duke Brennan,2026
+5,106,5,2025-11-19,Villanova,@,La Salle,REG (Non-Conf),W 70-55,*,22,4,6,0.667,0,0,4,6,0.667,0.667,0,4,0.0,5,8,13,2,0,1,3,2,8,8.0,A,1,1,duke-brennan-1,Duke Brennan,2026
+6,107,7,2025-12-01,Villanova,,Temple,REG (Non-Conf),W 74-56,*,27,6,10,0.6,0,0,6,10,0.6,0.6,2,4,0.5,6,2,8,0,0,0,2,4,14,9.8,H,1,1,duke-brennan-1,Duke Brennan,2026
+7,108,8,2025-12-06,Villanova,N,Pennsylvania,REG (Non-Conf),W 90-63,*,25,7,10,0.7,0,0,7,10,0.7,0.7,1,2,0.5,4,6,10,2,3,2,4,1,15,16.4,N,1,1,duke-brennan-1,Duke Brennan,2026
+8,109,9,2025-12-09,Villanova,@,Michigan,REG (Non-Conf),L 61-89,*,22,1,4,0.25,0,0,1,4,0.25,0.25,3,4,0.75,3,3,6,1,0,0,2,4,5,2.3,A,0,1,duke-brennan-1,Duke Brennan,2026
+9,110,10,2025-12-13,Villanova,,Pittsburgh,REG (Non-Conf),W 79-61,*,34,8,8,1.0,0,0,8,8,1.0,1.0,8,12,0.667,2,7,9,4,0,1,1,2,24,25.2,H,1,1,duke-brennan-1,Duke Brennan,2026
+10,111,11,2025-12-19,Villanova,N,Wisconsin,REG (Non-Conf),W 76-66 (OT),*,39,5,7,0.714,0,0,5,7,0.714,0.714,3,5,0.6,4,7,11,4,1,0,2,2,13,15.2,N,1,1,duke-brennan-1,Duke Brennan,2026
+11,112,12,2025-12-23,Villanova,@,Seton Hall,REG (Conf),W 64-56,*,30,3,3,1.0,0,0,3,3,1.0,1.0,4,9,0.444,3,6,9,0,0,0,3,3,10,6.8,A,1,1,duke-brennan-1,Duke Brennan,2026
+12,113,13,2025-12-31,Villanova,,DePaul,REG (Conf),W 71-66,*,36,3,5,0.6,0,0,3,5,0.6,0.6,3,7,0.429,4,8,12,3,1,1,3,2,9,10.3,H,1,1,duke-brennan-1,Duke Brennan,2026
+13,114,14,2026-01-03,Villanova,@,Butler,REG (Conf),W 85-67,*,30,6,7,0.857,0,0,6,7,0.857,0.857,3,6,0.5,2,8,10,1,0,1,1,1,15,15.1,A,1,1,duke-brennan-1,Duke Brennan,2026
+14,115,15,2026-01-07,Villanova,,Creighton,REG (Conf),L 72-76,*,33,6,8,0.75,0,0,6,8,0.75,0.75,4,6,0.667,7,5,12,3,0,1,2,2,16,18.4,H,0,1,duke-brennan-1,Duke Brennan,2026
+15,116,16,2026-01-10,Villanova,@,Marquette,REG (Conf),W 76-73,*,28,6,7,0.857,0,0,6,7,0.857,0.857,0,0,,0,4,4,1,0,1,1,5,12,9.1,A,1,1,duke-brennan-1,Duke Brennan,2026
+16,117,17,2026-01-13,Villanova,@,Providence,REG (Conf),W 88-82,*,30,6,8,0.75,0,0,6,8,0.75,0.75,2,2,1.0,5,3,8,0,1,1,0,1,14,16.5,A,1,1,duke-brennan-1,Duke Brennan,2026
+17,118,18,2026-01-17,Villanova,,St. John's (NY),REG (Conf),L 79-86,*,32,4,8,0.5,0,0,4,8,0.5,0.5,1,3,0.333,4,5,9,1,0,0,1,4,9,6.6,H,0,1,duke-brennan-1,Duke Brennan,2026
+18,119,19,2026-01-21,Villanova,,Georgetown,REG (Conf),W 66-51,*,35,2,6,0.333,0,0,2,6,0.333,0.333,6,10,0.6,3,7,10,3,3,0,2,2,10,11.5,H,1,1,duke-brennan-1,Duke Brennan,2026
+19,120,20,2026-01-24,Villanova,@,Connecticut,REG (Conf),L 67-75 (OT),*,40,4,6,0.667,0,0,4,6,0.667,0.667,8,9,0.889,7,7,14,0,0,1,1,4,16,18.1,A,0,1,duke-brennan-1,Duke Brennan,2026
+20,121,21,2026-01-30,Villanova,,Providence,REG (Conf),W 87-73,*,29,2,6,0.333,0,0,2,6,0.333,0.333,4,4,1.0,2,6,8,0,2,0,2,2,8,7.0,H,1,1,duke-brennan-1,Duke Brennan,2026
+21,122,22,2026-02-04,Villanova,,Seton Hall,REG (Conf),W 72-60,*,35,3,3,1.0,0,0,3,3,1.0,1.0,6,10,0.6,2,8,10,1,0,0,4,0,12,10.0,H,1,1,duke-brennan-1,Duke Brennan,2026
+22,123,23,2026-02-07,Villanova,@,Georgetown,REG (Conf),W 80-73,*,33,3,5,0.6,0,0,3,5,0.6,0.6,7,10,0.7,6,7,13,3,1,0,2,1,13,16.5,A,1,1,duke-brennan-1,Duke Brennan,2026
+23,124,24,2026-02-10,Villanova,,Marquette,REG (Conf),W 77-74,*,32,2,5,0.4,0,0,2,5,0.4,0.4,6,8,0.75,2,6,8,2,2,1,2,4,10,10.2,H,1,1,duke-brennan-1,Duke Brennan,2026
+24,125,25,2026-02-14,Villanova,@,Creighton,REG (Conf),W 80-69,*,32,8,9,0.889,0,0,8,9,0.889,0.889,5,8,0.625,2,10,12,2,1,0,3,4,21,18.9,A,1,1,duke-brennan-1,Duke Brennan,2026
+25,126,26,2026-02-17,Villanova,@,Xavier,REG (Conf),W 92-89 (OT),*,35,3,7,0.429,0,0,3,7,0.429,0.429,4,6,0.667,6,7,13,6,1,0,3,2,10,13.2,A,1,1,duke-brennan-1,Duke Brennan,2026
+26,127,27,2026-02-21,Villanova,,Connecticut,REG (Conf),L 63-73,*,29,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,2,1,3,1,1,1,2,3,7,6.2,H,0,1,duke-brennan-1,Duke Brennan,2026
+27,128,28,2026-02-25,Villanova,,Butler,REG (Conf),W 82-73,*,34,4,6,0.667,0,0,4,6,0.667,0.667,0,1,0.0,3,7,10,5,0,0,1,3,8,10.5,H,1,1,duke-brennan-1,Duke Brennan,2026
+28,129,29,2026-02-28,Villanova,@,St. John's (NY),REG (Conf),L 57-89,*,29,4,6,0.667,0,0,4,6,0.667,0.667,4,8,0.5,3,5,8,3,0,1,1,2,12,12.4,A,0,1,duke-brennan-1,Duke Brennan,2026
+29,130,30,2026-03-04,Villanova,@,DePaul,REG (Conf),W 76-57,*,35,7,9,0.778,0,0,7,9,0.778,0.778,1,2,0.5,2,10,12,2,1,1,1,3,15,16.4,A,1,1,duke-brennan-1,Duke Brennan,2026
+30,131,31,2026-03-07,Villanova,,Xavier,REG (Conf),W 91-78,*,32,9,12,0.75,0,0,9,12,0.75,0.75,2,2,1.0,3,10,13,2,0,1,3,1,20,19.0,H,1,1,duke-brennan-1,Duke Brennan,2026
+31,132,32,2026-03-12,Villanova,N,Georgetown,CTOURN,L 64-78,*,34,4,7,0.571,0,0,4,7,0.571,0.571,6,8,0.75,4,2,6,3,2,1,3,2,14,14.3,N,0,0,duke-brennan-1,Duke Brennan,2026

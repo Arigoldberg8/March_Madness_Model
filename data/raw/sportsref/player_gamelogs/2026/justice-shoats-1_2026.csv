@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2025-11-03,Siena,,Bryant,REG (Non-Conf),W 82-66,*,34,7,16,0.438,0,1,0.0,7,15,0.467,0.438,3,4,0.75,0,0,0,9,3,1,2,2,17,15.4,H,1,1,justice-shoats-1,Justice Shoats,2026
+2,34,2,2025-11-07,Siena,@,Brown,REG (Non-Conf),W 62-46,*,29,1,6,0.167,0,1,0.0,1,5,0.2,0.167,3,4,0.75,0,2,2,3,0,1,5,0,5,-0.8,A,1,1,justice-shoats-1,Justice Shoats,2026
+3,35,3,2025-11-12,Siena,@,St. Bonaventure,REG (Non-Conf),L 66-75,*,32,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,4,1.0,0,1,1,2,1,0,2,2,8,4.5,A,0,1,justice-shoats-1,Justice Shoats,2026
+4,36,4,2025-11-17,Siena,,Colgate,REG (Non-Conf),L 69-72,*,33,2,7,0.286,0,0,,2,7,0.286,0.286,2,2,1.0,1,1,2,6,2,0,2,2,6,6.3,H,0,1,justice-shoats-1,Justice Shoats,2026
+5,37,5,2025-11-21,Siena,,Albany (NY),REG (Non-Conf),W 73-63,*,34,6,11,0.545,0,0,,6,11,0.545,0.545,2,2,1.0,0,2,2,9,1,1,3,4,14,12.7,H,1,1,justice-shoats-1,Justice Shoats,2026
+6,38,6,2025-11-24,Siena,@,Holy Cross,REG (Non-Conf),W 73-69,*,36,11,16,0.688,0,1,0.0,11,15,0.733,0.688,0,0,,0,4,4,5,3,0,5,1,22,17.5,A,1,1,justice-shoats-1,Justice Shoats,2026
+7,39,7,2025-11-28,Siena,N,Longwood,REG (Non-Conf),W 70-63,*,37,7,9,0.778,0,0,,7,9,0.778,0.778,1,1,1.0,0,0,0,6,3,0,3,2,15,14.9,N,1,1,justice-shoats-1,Justice Shoats,2026
+8,40,8,2025-11-29,Siena,@,American,REG (Non-Conf),W 59-55,*,34,5,9,0.556,0,0,,5,9,0.556,0.556,2,6,0.333,0,2,2,0,5,0,6,4,12,4.1,A,1,1,justice-shoats-1,Justice Shoats,2026
+9,41,9,2025-11-30,Siena,N,Maine,REG (Non-Conf),W 64-60,*,39,6,12,0.5,0,0,,6,12,0.5,0.5,4,8,0.5,1,3,4,3,0,1,1,2,16,11.0,N,1,1,justice-shoats-1,Justice Shoats,2026
+10,42,10,2025-12-05,Siena,,Niagara,REG (Conf),W 83-54,*,32,7,17,0.412,1,1,1.0,6,16,0.375,0.441,0,0,,0,2,2,8,1,0,2,0,15,11.1,H,1,1,justice-shoats-1,Justice Shoats,2026
+11,43,11,2025-12-07,Siena,,Canisius,REG (Conf),W 74-52,*,33,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,2,1.0,0,2,2,7,2,1,2,1,10,11.1,H,1,1,justice-shoats-1,Justice Shoats,2026
+12,44,12,2025-12-17,Siena,@,Vermont,REG (Non-Conf),L 69-83,*,40,6,17,0.353,0,1,0.0,6,16,0.375,0.353,0,0,,0,0,0,5,0,0,2,0,12,4.0,A,0,1,justice-shoats-1,Justice Shoats,2026
+13,45,13,2025-12-22,Siena,@,Indiana,REG (Non-Conf),L 60-81,*,18,0,4,0.0,0,0,,0,4,0.0,0.0,0,3,0.0,0,0,0,0,2,0,3,1,0,-5.4,A,0,1,justice-shoats-1,Justice Shoats,2026
+14,46,14,2026-01-02,Siena,@,Iona,REG (Conf),L 72-75,*,40,6,16,0.375,0,0,,6,16,0.375,0.375,0,0,,1,6,7,5,3,0,1,2,12,10.4,A,0,1,justice-shoats-1,Justice Shoats,2026
+15,47,15,2026-01-04,Siena,@,Rider,REG (Conf),W 74-65,*,38,4,10,0.4,0,1,0.0,4,9,0.444,0.4,6,7,0.857,0,1,1,3,1,1,3,3,14,8.1,A,1,1,justice-shoats-1,Justice Shoats,2026
+16,48,16,2026-01-09,Siena,,Merrimack,REG (Conf),L 59-63,*,36,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,0,3,3,2,0,1,3,4,10,4.8,H,0,1,justice-shoats-1,Justice Shoats,2026
+17,49,17,2026-01-11,Siena,@,Mount St. Mary's,REG (Conf),W 67-50,*,40,8,11,0.727,0,0,,8,11,0.727,0.727,2,3,0.667,1,4,5,4,2,0,0,3,18,18.6,A,1,1,justice-shoats-1,Justice Shoats,2026
+18,50,18,2026-01-14,Siena,,Sacred Heart,REG (Conf),L 80-86,*,40,6,15,0.4,2,4,0.5,4,11,0.364,0.467,0,0,,1,3,4,11,1,0,1,2,14,14.4,H,0,1,justice-shoats-1,Justice Shoats,2026
+19,51,19,2026-01-17,Siena,@,Manhattan,REG (Conf),W 74-59,*,40,7,18,0.389,2,3,0.667,5,15,0.333,0.444,0,1,0.0,0,4,4,5,2,0,3,0,16,9.5,A,1,1,justice-shoats-1,Justice Shoats,2026
+20,52,20,2026-01-19,Siena,,Fairfield,REG (Conf),W 85-77,*,39,8,12,0.667,1,2,0.5,7,10,0.7,0.708,4,4,1.0,0,4,4,5,0,1,6,3,21,14.0,H,1,1,justice-shoats-1,Justice Shoats,2026
+21,53,21,2026-01-22,Siena,,Marist,REG (Conf),W 69-50,*,32,6,15,0.4,0,0,,6,15,0.4,0.4,0,0,,0,4,4,3,2,0,4,1,12,4.8,H,1,1,justice-shoats-1,Justice Shoats,2026
+22,54,22,2026-01-30,Siena,@,Niagara,REG (Conf),W 82-79,*,40,10,15,0.667,1,3,0.333,9,12,0.75,0.7,4,5,0.8,0,4,4,6,0,0,0,2,25,22.7,A,1,1,justice-shoats-1,Justice Shoats,2026
+23,55,23,2026-02-01,Siena,@,Canisius,REG (Conf),W 78-63,*,40,9,14,0.643,1,3,0.333,8,11,0.727,0.679,3,3,1.0,0,2,2,4,0,0,3,1,22,15.8,A,1,1,justice-shoats-1,Justice Shoats,2026
+24,56,24,2026-02-05,Siena,,Iona,REG (Conf),W 79-72,*,40,8,13,0.615,1,3,0.333,7,10,0.7,0.654,1,2,0.5,0,1,1,5,3,0,4,1,18,14.1,H,1,1,justice-shoats-1,Justice Shoats,2026
+25,57,25,2026-02-07,Siena,@,Saint Peter's,REG (Conf),L 65-70,*,37,1,9,0.111,1,1,1.0,0,8,0.0,0.167,4,6,0.667,0,1,1,0,3,0,3,4,7,-1.0,A,0,1,justice-shoats-1,Justice Shoats,2026
+26,58,26,2026-02-13,Siena,,Quinnipiac,REG (Conf),L 62-74,*,35,3,8,0.375,0,0,,3,8,0.375,0.375,0,2,0.0,0,0,0,0,0,0,2,2,6,-2.0,H,0,1,justice-shoats-1,Justice Shoats,2026
+27,59,27,2026-02-15,Siena,@,Marist,REG (Conf),W 67-63,*,40,7,14,0.5,0,0,,7,14,0.5,0.5,3,3,1.0,1,6,7,6,1,0,4,2,17,12.9,A,1,1,justice-shoats-1,Justice Shoats,2026
+28,60,28,2026-02-20,Siena,@,Merrimack,REG (Conf),L 72-79 (OT),*,11,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,0,0,0,0,0,0,2,5,4,-0.3,A,0,1,justice-shoats-1,Justice Shoats,2026
+29,61,29,2026-02-22,Siena,,Saint Peter's,REG (Conf),W 72-63,*,31,4,11,0.364,0,1,0.0,4,10,0.4,0.364,2,4,0.5,0,1,1,3,2,0,1,2,10,5.7,H,1,1,justice-shoats-1,Justice Shoats,2026
+30,62,30,2026-02-27,Siena,@,Fairfield,REG (Conf),L 58-72,*,40,3,12,0.25,0,2,0.0,3,10,0.3,0.25,3,5,0.6,0,1,1,6,1,0,2,3,9,3.3,A,0,1,justice-shoats-1,Justice Shoats,2026
+31,63,31,2026-03-01,Siena,,Rider,REG (Conf),W 76-61,*,39,7,16,0.438,0,1,0.0,7,15,0.467,0.438,0,0,,0,2,2,5,1,0,1,1,14,9.3,H,1,1,justice-shoats-1,Justice Shoats,2026
+32,64,32,2026-03-07,Siena,N,Mount St. Mary's,CTOURN,W 63-58,*,38,5,13,0.385,1,2,0.5,4,11,0.364,0.423,2,3,0.667,0,3,3,6,2,0,3,2,13,8.8,N,1,0,justice-shoats-1,Justice Shoats,2026
+33,65,33,2026-03-08,Siena,N,Fairfield,CTOURN,W 76-61,*,40,8,15,0.533,3,3,1.0,5,12,0.417,0.633,7,11,0.636,0,3,3,4,1,1,2,0,26,20.5,N,1,0,justice-shoats-1,Justice Shoats,2026
+34,66,34,2026-03-10,Siena,N,Merrimack,CTOURN,W 64-54,*,38,4,10,0.4,0,3,0.0,4,7,0.571,0.4,1,2,0.5,2,6,8,3,0,0,2,2,9,5.7,N,1,0,justice-shoats-1,Justice Shoats,2026

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2018-11-06,Utah State,@,Montana State,REG (Non-Conf),W 101-71,,24,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,1,7,8,4,2,0,1,1,6,11.6,A,1,1,diogo-brito-1,Diogo Brito,2019
+2,53,2,2018-11-09,Utah State,,Hartford,REG (Non-Conf),W 100-73,,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,1,1,1.0,0,4,4,1,2,1,3,2,9,5.8,H,1,1,diogo-brito-1,Diogo Brito,2019
+3,54,3,2018-11-13,Utah State,,Mississippi Valley State,REG (Non-Conf),W 94-59,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,1,3,4,2,0,0,0,2,6,6.5,H,1,1,diogo-brito-1,Diogo Brito,2019
+4,55,4,2018-11-16,Utah State,,Utah Valley,REG (Non-Conf),W 65-46,,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,0,5,5,5,1,0,2,2,6,5.8,H,1,1,diogo-brito-1,Diogo Brito,2019
+5,56,5,2018-11-19,Utah State,N,St. Mary's (CA),REG (Non-Conf),W 80-63,,17,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,5,5,0,0,1,1,1,3,2.1,N,1,1,diogo-brito-1,Diogo Brito,2019
+6,57,6,2018-11-21,Utah State,N,Arizona State,REG (Non-Conf),L 82-87,,19,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,2,2,2,1,0,3,1,3,1.6,N,0,1,diogo-brito-1,Diogo Brito,2019
+7,58,7,2018-11-28,Utah State,,Northern Iowa,REG (Non-Conf),W 71-52,,22,0,1,0.0,0,1,0.0,0,0,,0.0,6,6,1.0,0,5,5,0,3,0,2,2,6,7.0,H,1,1,diogo-brito-1,Diogo Brito,2019
+8,59,8,2018-12-01,Utah State,@,UC Irvine,REG (Non-Conf),W 89-65,,21,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,1,0.0,0,1,1,1,0,0,2,1,6,0.1,A,1,1,diogo-brito-1,Diogo Brito,2019
+9,60,9,2018-12-05,Utah State,@,Brigham Young,REG (Non-Conf),L 80-95,,9,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,0,0,0,0,1,3,1.2,A,0,1,diogo-brito-1,Diogo Brito,2019
+10,61,10,2018-12-08,Utah State,N,Weber State,REG (Non-Conf),W 76-67,,28,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,2,1.0,1,10,11,3,0,0,1,0,13,14.9,N,1,1,diogo-brito-1,Diogo Brito,2019
+11,62,11,2018-12-15,Utah State,,Alabama State,REG (Non-Conf),W 86-48,,20,3,7,0.429,2,6,0.333,1,1,1.0,0.571,2,2,1.0,0,3,3,0,2,0,3,2,10,5.4,H,1,1,diogo-brito-1,Diogo Brito,2019
+12,63,12,2018-12-20,Utah State,@,Houston,REG (Non-Conf),L 50-60,,22,1,4,0.25,1,3,0.333,0,1,0.0,0.375,1,2,0.5,0,2,2,1,0,0,1,2,4,0.7,A,0,1,diogo-brito-1,Diogo Brito,2019
+13,64,13,2018-12-28,Utah State,,Eastern Ore.,REG (Non-Conf),W 84-57,,23,1,11,0.091,0,5,0.0,1,6,0.167,0.091,0,0,,2,4,6,5,3,0,2,2,2,1.0,H,1,1,diogo-brito-1,Diogo Brito,2019
+14,65,14,2019-01-02,Utah State,@,Nevada,REG (Conf),L 49-72,,21,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,2,0.0,0,4,4,0,1,0,3,1,3,-3.5,A,0,1,diogo-brito-1,Diogo Brito,2019
+15,66,15,2019-01-05,Utah State,,Air Force,REG (Conf),W 79-62,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,2,2,0,-3.5,H,1,1,diogo-brito-1,Diogo Brito,2019
+16,67,16,2019-01-09,Utah State,,Fresno State,REG (Conf),L 77-78,,16,2,7,0.286,0,3,0.0,2,4,0.5,0.286,2,2,1.0,0,3,3,4,1,0,0,1,6,6.2,H,0,1,diogo-brito-1,Diogo Brito,2019
+17,68,17,2019-01-12,Utah State,@,Wyoming,REG (Conf),W 71-55,,27,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,3,0.667,1,2,3,2,3,0,2,3,10,9.1,A,1,1,diogo-brito-1,Diogo Brito,2019
+18,69,18,2019-01-16,Utah State,@,San Jose State,REG (Conf),W 81-63,,32,7,15,0.467,5,9,0.556,2,6,0.333,0.633,4,4,1.0,4,1,5,6,3,0,1,2,23,23.8,A,1,1,diogo-brito-1,Diogo Brito,2019
+19,70,19,2019-01-19,Utah State,,Colorado State,REG (Conf),W 87-72,,22,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,0,5,5,3,0,0,0,1,12,11.6,H,1,1,diogo-brito-1,Diogo Brito,2019
+20,71,20,2019-01-26,Utah State,@,New Mexico,REG (Conf),W 68-66,,22,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,2,3,1,0,0,1,0,3,3.0,A,1,1,diogo-brito-1,Diogo Brito,2019
+21,72,21,2019-01-30,Utah State,,San Jose State,REG (Conf),W 103-73,,20,2,7,0.286,1,6,0.167,1,1,1.0,0.357,0,0,,1,1,2,1,1,0,0,1,5,3.2,H,1,1,diogo-brito-1,Diogo Brito,2019
+22,73,22,2019-02-02,Utah State,,UNLV,REG (Conf),W 82-65,,26,5,9,0.556,3,6,0.5,2,3,0.667,0.722,2,2,1.0,0,5,5,3,0,0,3,2,15,10.5,H,1,1,diogo-brito-1,Diogo Brito,2019
+23,74,23,2019-02-05,Utah State,@,Fresno State,REG (Conf),W 82-81,,20,3,7,0.429,1,5,0.2,2,2,1.0,0.5,0,0,,0,1,1,2,0,0,1,0,7,4.0,A,1,1,diogo-brito-1,Diogo Brito,2019
+24,75,24,2019-02-09,Utah State,@,San Diego State,REG (Conf),L 63-68,,29,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,1,2,3,1,1,0,3,2,5,3.2,A,0,1,diogo-brito-1,Diogo Brito,2019
+25,76,25,2019-02-13,Utah State,,Wyoming,REG (Conf),W 76-59,,27,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,2,2,4,4,0,0,1,0,9,9.5,H,1,1,diogo-brito-1,Diogo Brito,2019
+26,77,26,2019-02-16,Utah State,@,Air Force,REG (Conf),W 76-62,,29,3,5,0.6,3,4,0.75,0,1,0.0,0.9,2,2,1.0,3,8,11,2,4,2,2,4,11,16.4,A,1,1,diogo-brito-1,Diogo Brito,2019
+27,78,27,2019-02-20,Utah State,,New Mexico,REG (Conf),W 71-55,,28,3,7,0.429,2,4,0.5,1,3,0.333,0.571,5,6,0.833,0,6,6,4,4,0,2,1,13,15.1,H,1,1,diogo-brito-1,Diogo Brito,2019
+28,79,28,2019-02-23,Utah State,@,Boise State,REG (Conf),W 78-71 (OT),,30,3,11,0.273,0,4,0.0,3,7,0.429,0.273,1,3,0.333,1,4,5,3,1,0,0,4,7,3.1,A,1,1,diogo-brito-1,Diogo Brito,2019
+29,80,29,2019-02-26,Utah State,,San Diego State,REG (Conf),W 70-54,,28,4,7,0.571,2,5,0.4,2,2,1.0,0.714,2,2,1.0,1,3,4,3,0,0,0,3,12,11.2,H,1,1,diogo-brito-1,Diogo Brito,2019
+30,81,30,2019-03-02,Utah State,,Nevada,REG (Conf),W 81-76,,28,4,6,0.667,0,2,0.0,4,4,1.0,0.667,7,10,0.7,0,8,8,3,2,0,2,3,15,14.5,H,1,1,diogo-brito-1,Diogo Brito,2019
+31,82,31,2019-03-05,Utah State,@,Colorado State,REG (Conf),W 100-96 (OT),,32,2,9,0.222,1,4,0.25,1,5,0.2,0.278,5,8,0.625,1,2,3,1,0,0,1,2,10,3.5,A,1,1,diogo-brito-1,Diogo Brito,2019
+32,83,32,2019-03-14,Utah State,N,New Mexico,CTOURN,W 91-83,,28,5,7,0.714,2,2,1.0,3,5,0.6,0.857,2,2,1.0,1,2,3,1,1,0,5,2,14,8.3,N,1,0,diogo-brito-1,Diogo Brito,2019
+33,84,33,2019-03-15,Utah State,N,Fresno State,CTOURN,W 85-60,,28,8,15,0.533,4,6,0.667,4,9,0.444,0.667,0,0,,2,5,7,4,0,1,1,2,20,17.3,N,1,0,diogo-brito-1,Diogo Brito,2019
+34,85,34,2019-03-16,Utah State,N,San Diego State,CTOURN,W 64-57,,27,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,6,0.167,0,5,5,2,1,0,2,2,5,1.4,N,1,0,diogo-brito-1,Diogo Brito,2019
+35,86,35,2019-03-22,Utah State,N,Washington,ROUND-64,L 61-78,,26,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,0,1,1,3,0,0,3,2,4,0.9,N,0,0,diogo-brito-1,Diogo Brito,2019

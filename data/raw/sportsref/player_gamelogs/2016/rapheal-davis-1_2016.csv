@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,101,1,2015-11-13,Purdue,,North Carolina A&T,REG (Non-Conf),W 81-40,*,23,6,10,0.6,1,3,0.333,5,7,0.714,0.65,1,2,0.5,0,2,2,3,1,0,2,1,14,10.3,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+2,102,2,2015-11-15,Purdue,,Vermont,REG (Non-Conf),W 107-79,*,26,5,7,0.714,1,1,1.0,4,6,0.667,0.786,1,1,1.0,1,2,3,5,0,2,2,3,12,12.1,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+3,103,3,2015-11-18,Purdue,,Incarnate Word,REG (Non-Conf),W 96-61,*,19,6,8,0.75,2,2,1.0,4,6,0.667,0.875,0,0,,0,1,1,3,2,0,1,0,14,14.2,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+4,104,4,2015-11-21,Purdue,N,Old Dominion,REG (Non-Conf),W 61-39,*,30,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,5,6,2,0,0,1,2,0,-1.0,N,1,1,rapheal-davis-1,Rapheal Davis,2016
+5,105,5,2015-11-22,Purdue,N,Florida,REG (Non-Conf),W 85-70,*,36,4,10,0.4,2,5,0.4,2,5,0.4,0.5,8,8,1.0,3,2,5,0,0,0,3,0,18,12.3,N,1,1,rapheal-davis-1,Rapheal Davis,2016
+6,106,10,2015-12-09,Purdue,,Howard,REG (Non-Conf),W 93-55,*,18,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,3,3,2,0,0,0,1,10,7.9,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+7,107,11,2015-12-12,Purdue,,Youngstown State,REG (Non-Conf),W 95-64,*,23,4,8,0.5,3,5,0.6,1,3,0.333,0.688,2,4,0.5,0,3,3,1,0,1,2,1,13,8.1,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+8,108,12,2015-12-19,Purdue,N,Butler,REG (Non-Conf),L 68-74,*,26,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,3,0.667,0,2,2,3,0,2,1,4,2,1.0,N,0,1,rapheal-davis-1,Rapheal Davis,2016
+9,109,13,2015-12-22,Purdue,,Vanderbilt,REG (Non-Conf),W 68-55,*,25,3,7,0.429,1,4,0.25,2,3,0.667,0.5,7,8,0.875,0,5,5,1,0,0,2,0,14,10.1,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+10,110,14,2015-12-29,Purdue,@,Wisconsin,REG (Conf),W 61-55,*,31,2,5,0.4,1,1,1.0,1,4,0.25,0.5,2,2,1.0,1,5,6,2,1,0,1,2,7,7.1,A,1,1,rapheal-davis-1,Rapheal Davis,2016
+11,111,15,2016-01-02,Purdue,,Iowa,REG (Conf),L 63-70,*,28,1,7,0.143,1,5,0.2,0,2,0.0,0.214,1,2,0.5,1,0,1,0,1,1,4,2,4,-3.3,H,0,1,rapheal-davis-1,Rapheal Davis,2016
+12,112,16,2016-01-07,Purdue,,Michigan,REG (Conf),W 87-70,*,32,4,9,0.444,2,5,0.4,2,4,0.5,0.556,6,6,1.0,1,4,5,6,0,1,1,0,16,17.1,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+13,113,17,2016-01-10,Purdue,@,Illinois,REG (Conf),L 70-84,*,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,1,5,0,-3.4,A,0,1,rapheal-davis-1,Rapheal Davis,2016
+14,114,18,2016-01-13,Purdue,,Penn State,REG (Conf),W 74-57,*,28,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,3,3,1,2,0,2,0,2,0.5,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+15,115,19,2016-01-18,Purdue,@,Rutgers,REG (Conf),W 107-57,*,16,5,12,0.417,1,4,0.25,4,8,0.5,0.458,0,0,,0,0,0,1,0,0,0,2,11,4.5,A,1,1,rapheal-davis-1,Rapheal Davis,2016
+16,116,20,2016-01-21,Purdue,,Ohio State,REG (Conf),W 75-64,*,34,1,6,0.167,0,2,0.0,1,4,0.25,0.167,2,3,0.667,2,3,5,2,1,0,0,2,4,3.7,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+17,117,21,2016-01-24,Purdue,@,Iowa,REG (Conf),L 71-83,*,31,2,7,0.286,1,2,0.5,1,5,0.2,0.357,1,3,0.333,2,2,4,3,2,0,4,4,6,1.6,A,0,1,rapheal-davis-1,Rapheal Davis,2016
+18,118,22,2016-01-27,Purdue,@,Minnesota,REG (Conf),W 68-64,*,34,5,8,0.625,0,2,0.0,5,6,0.833,0.625,0,0,,1,7,8,2,0,1,1,3,10,9.1,A,1,1,rapheal-davis-1,Rapheal Davis,2016
+19,119,23,2016-01-30,Purdue,,Nebraska,REG (Conf),W 89-74,*,38,5,8,0.625,4,5,0.8,1,3,0.333,0.875,3,5,0.6,1,5,6,2,0,0,2,2,17,13.4,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+20,120,24,2016-02-06,Purdue,@,Maryland,REG (Conf),L 61-72,*,33,3,8,0.375,0,3,0.0,3,5,0.6,0.375,2,3,0.667,0,4,4,2,1,0,0,4,8,5.2,A,0,1,rapheal-davis-1,Rapheal Davis,2016
+21,121,25,2016-02-09,Purdue,,Michigan State,REG (Conf),W 82-81 (OT),*,43,8,22,0.364,6,8,0.75,2,14,0.143,0.5,2,5,0.4,2,5,7,2,2,2,1,2,24,16.5,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+22,122,26,2016-02-13,Purdue,@,Michigan,REG (Conf),L 56-61,*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,3,0.667,0,4,4,2,0,0,2,2,4,0.3,A,0,1,rapheal-davis-1,Rapheal Davis,2016
+23,123,27,2016-02-16,Purdue,,Northwestern,REG (Conf),W 71-61,*,36,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,1,0,0,1,1,2,0.2,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+24,124,28,2016-02-20,Purdue,@,Indiana,REG (Conf),L 73-77,*,34,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,4,5,3,0,0,1,2,0,-0.6,A,0,1,rapheal-davis-1,Rapheal Davis,2016
+25,125,29,2016-02-27,Purdue,,Maryland,REG (Conf),W 83-79,*,36,3,11,0.273,1,3,0.333,2,8,0.25,0.318,4,6,0.667,2,5,7,0,0,0,2,2,11,3.8,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+26,126,30,2016-03-01,Purdue,@,Nebraska,REG (Conf),W 81-62,*,29,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,1,0.0,1,4,5,2,0,1,1,2,3,2.4,A,1,1,rapheal-davis-1,Rapheal Davis,2016
+27,127,31,2016-03-06,Purdue,,Wisconsin,REG (Conf),W 91-80,*,30,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,0,2,2,3,0,0,2,4,5,2.0,H,1,1,rapheal-davis-1,Rapheal Davis,2016
+28,128,32,2016-03-11,Purdue,N,Illinois,CTOURN,W 89-58,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,4,4,1.0,0,4,4,5,0,1,0,0,9,10.3,N,1,0,rapheal-davis-1,Rapheal Davis,2016
+29,129,33,2016-03-12,Purdue,N,Michigan,CTOURN,W 76-59,*,29,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,5,5,6,0,1,0,1,6,9.3,N,1,0,rapheal-davis-1,Rapheal Davis,2016
+30,130,34,2016-03-13,Purdue,N,Michigan State,CTOURN,L 62-66,*,34,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,3,0.667,0,1,1,3,0,0,0,2,4,2.1,N,0,0,rapheal-davis-1,Rapheal Davis,2016
+31,131,35,2016-03-17,Purdue,N,Little Rock,ROUND-64,L 83-85 (2OT),*,41,3,8,0.375,2,6,0.333,1,2,0.5,0.5,0,0,,0,3,3,3,0,0,2,3,8,3.4,N,0,0,rapheal-davis-1,Rapheal Davis,2016

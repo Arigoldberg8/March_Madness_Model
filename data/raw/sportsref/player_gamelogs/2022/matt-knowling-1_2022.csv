@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-09,Yale,,Vassar,REG (Non-Conf),W 88-42,,8,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,0,1,1,4,2.6,H,1,1,matt-knowling-1,Matt Knowling,2022
+2,2,2,2021-11-12,Yale,,Massachusetts,REG (Non-Conf),W 91-71,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,2,3,1,1,0,2,1,2,2.3,H,1,1,matt-knowling-1,Matt Knowling,2022
+3,3,3,2021-11-14,Yale,@,Seton Hall,REG (Non-Conf),L 44-80,,5,0,0,,0,0,,0,0,,,0,2,0.0,0,0,0,0,0,0,0,1,0,-1.2,A,0,1,matt-knowling-1,Matt Knowling,2022
+4,4,4,2021-11-16,Yale,@,Siena,REG (Non-Conf),W 82-54,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,2,3,1,0,0,0,0,2,3.0,A,1,1,matt-knowling-1,Matt Knowling,2022
+5,5,5,2021-11-19,Yale,@,Vermont,REG (Non-Conf),L 53-61,,5,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,0,0,0,0,0,0,0,0,3,2.3,A,0,1,matt-knowling-1,Matt Knowling,2022
+6,6,6,2021-11-23,Yale,N,Southern Utah,REG (Non-Conf),L 85-88 (OT),,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,1,0,0,0,0,1.3,N,0,1,matt-knowling-1,Matt Knowling,2022
+7,7,7,2021-11-24,Yale,N,Milwaukee,REG (Non-Conf),W 69-56,,13,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,2,6,8,0,0,0,0,0,2,3.8,N,1,1,matt-knowling-1,Matt Knowling,2022
+8,8,8,2021-11-28,Yale,,Stony Brook,REG (Non-Conf),L 81-85,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,0,1,matt-knowling-1,Matt Knowling,2022
+9,9,9,2021-12-01,Yale,,Lehigh,REG (Non-Conf),W 82-72,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,1,0,0,2,3.1,H,1,1,matt-knowling-1,Matt Knowling,2022
+10,10,10,2021-12-04,Yale,@,Auburn,REG (Non-Conf),L 64-86,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,1,0,0,1,2,2.6,A,0,1,matt-knowling-1,Matt Knowling,2022
+11,11,11,2021-12-07,Yale,,Albany (NY),REG (Non-Conf),W 71-52,,12,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,3,5,2,0,0,2,1,2,3.0,H,1,1,matt-knowling-1,Matt Knowling,2022
+12,12,12,2021-12-12,Yale,N,Iona,REG (Non-Conf),L 77-91,,20,3,4,0.75,1,1,1.0,2,3,0.667,0.875,1,2,0.5,1,1,2,0,0,0,0,1,8,6.6,N,0,1,matt-knowling-1,Matt Knowling,2022
+13,13,13,2021-12-14,Yale,,Monmouth,REG (Non-Conf),L 60-69,,18,3,3,1.0,0,0,,3,3,1.0,1.0,1,1,1.0,1,1,2,1,0,0,0,1,7,7.4,H,0,1,matt-knowling-1,Matt Knowling,2022
+14,14,14,2021-12-28,Yale,@,St. Mary's (CA),REG (Non-Conf),L 60-87,*,22,5,7,0.714,0,0,,5,7,0.714,0.714,2,2,1.0,0,4,4,0,2,0,1,3,12,10.1,A,0,1,matt-knowling-1,Matt Knowling,2022
+15,15,15,2022-01-15,Yale,,Cornell,REG (Conf),W 96-69,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,5,5,1.0,1,7,8,2,0,0,1,1,17,15.9,H,1,1,matt-knowling-1,Matt Knowling,2022
+16,16,16,2022-01-17,Yale,@,Brown,REG (Conf),W 66-63,*,28,3,5,0.6,0,0,,3,5,0.6,0.6,2,4,0.5,1,9,10,1,0,0,1,3,8,6.8,A,1,1,matt-knowling-1,Matt Knowling,2022
+17,17,17,2022-01-22,Yale,@,Pennsylvania,REG (Conf),L 68-76,*,32,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,1,4,5,0,0,2,0,2,13,12.6,A,0,1,matt-knowling-1,Matt Knowling,2022
+18,18,18,2022-01-25,Yale,,Columbia,REG (Conf),W 83-72,*,30,3,7,0.429,0,0,,3,7,0.429,0.429,3,3,1.0,0,8,8,4,0,2,0,3,9,10.7,H,1,1,matt-knowling-1,Matt Knowling,2022
+19,19,19,2022-01-29,Yale,@,Princeton,REG (Conf),W 80-74,*,33,8,9,0.889,0,0,,8,9,0.889,0.889,1,2,0.5,1,3,4,3,1,0,3,1,17,14.8,A,1,1,matt-knowling-1,Matt Knowling,2022
+20,20,20,2022-02-04,Yale,,Dartmouth,REG (Conf),W 72-69,*,33,5,7,0.714,0,0,,5,7,0.714,0.714,0,2,0.0,0,5,5,0,0,1,0,2,10,7.7,H,1,1,matt-knowling-1,Matt Knowling,2022
+21,21,21,2022-02-05,Yale,,Harvard,REG (Conf),W 58-55,*,34,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,0,9,9,1,2,0,2,4,10,7.8,H,1,1,matt-knowling-1,Matt Knowling,2022
+22,22,22,2022-02-09,Yale,@,Harvard,REG (Conf),W 62-59,*,36,3,7,0.429,0,0,,3,7,0.429,0.429,4,6,0.667,0,5,5,1,1,1,0,0,10,9.4,A,1,1,matt-knowling-1,Matt Knowling,2022
+23,23,23,2022-02-12,Yale,@,Columbia,REG (Conf),W 84-59,*,27,9,12,0.75,0,0,,9,12,0.75,0.75,1,2,0.5,2,1,3,2,0,0,1,2,19,15.1,A,1,1,matt-knowling-1,Matt Knowling,2022
+24,24,24,2022-02-18,Yale,,Pennsylvania,REG (Conf),W 81-72,*,32,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,2,2,4,2,1,0,0,1,7,7.6,H,1,1,matt-knowling-1,Matt Knowling,2022
+25,25,25,2022-02-19,Yale,,Princeton,REG (Conf),L 75-81,*,30,2,3,0.667,0,0,,2,3,0.667,0.667,3,4,0.75,1,6,7,4,2,0,2,1,7,10.2,H,0,1,matt-knowling-1,Matt Knowling,2022
+26,26,26,2022-02-22,Yale,@,Dartmouth,REG (Conf),W 66-61,*,32,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,1,4,5,1,1,0,1,3,6,4.0,A,1,1,matt-knowling-1,Matt Knowling,2022
+27,27,27,2022-02-26,Yale,@,Cornell,REG (Conf),L 65-71,*,33,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,4,4,0,0,0,4,0,8,2.6,A,0,1,matt-knowling-1,Matt Knowling,2022
+28,28,28,2022-03-05,Yale,,Brown,REG (Conf),W 74-65,*,26,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,2,3,5,3,1,0,0,1,5,6.9,H,1,1,matt-knowling-1,Matt Knowling,2022
+29,29,29,2022-03-12,Yale,N,Pennsylvania,CTOURN,W 67-61,*,32,5,9,0.556,0,0,,5,9,0.556,0.556,0,1,0.0,1,0,1,4,0,0,1,0,10,7.8,N,1,0,matt-knowling-1,Matt Knowling,2022
+30,30,30,2022-03-13,Yale,N,Princeton,CTOURN,W 66-64,*,30,4,6,0.667,0,0,,4,6,0.667,0.667,4,4,1.0,0,1,1,5,0,0,1,0,12,12.2,N,1,0,matt-knowling-1,Matt Knowling,2022
+31,31,31,2022-03-18,Yale,N,Purdue,ROUND-64,L 56-78,*,32,4,11,0.364,0,0,,4,11,0.364,0.364,0,0,,3,3,6,2,1,0,1,1,8,5.9,N,0,0,matt-knowling-1,Matt Knowling,2022

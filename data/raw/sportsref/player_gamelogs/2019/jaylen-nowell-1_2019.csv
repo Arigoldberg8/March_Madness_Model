@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2018-11-06,Washington,,Western Kentucky,REG (Non-Conf),W 73-55,*,36,7,15,0.467,1,3,0.333,6,12,0.5,0.5,2,2,1.0,0,3,3,3,1,0,0,3,17,12.1,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+2,36,2,2018-11-09,Washington,@,Auburn,REG (Non-Conf),L 66-88,*,29,7,9,0.778,2,2,1.0,5,7,0.714,0.889,0,2,0.0,0,3,3,2,0,0,6,2,16,7.2,A,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+3,37,3,2018-11-12,Washington,,San Diego,REG (Non-Conf),W 66-63,*,32,6,11,0.545,2,5,0.4,4,6,0.667,0.636,4,5,0.8,1,1,2,3,3,1,1,1,18,17.7,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+4,38,4,2018-11-18,Washington,N,Santa Clara,REG (Non-Conf),W 82-68,*,35,11,15,0.733,4,6,0.667,7,9,0.778,0.867,6,8,0.75,1,3,4,2,2,0,3,2,32,26.3,N,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+5,39,5,2018-11-20,Washington,N,Texas A&M,REG (Non-Conf),W 71-67,*,30,4,9,0.444,1,2,0.5,3,7,0.429,0.5,5,7,0.714,4,1,5,1,0,0,3,4,14,7.7,N,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+6,40,6,2018-11-21,Washington,N,Minnesota,REG (Non-Conf),L 66-68,*,36,9,15,0.6,1,2,0.5,8,13,0.615,0.633,3,4,0.75,2,2,4,2,1,0,5,3,22,12.9,N,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+7,41,7,2018-11-27,Washington,,Eastern Washington,REG (Non-Conf),W 83-59,*,30,3,7,0.429,0,3,0.0,3,4,0.75,0.429,2,4,0.5,1,8,9,7,0,0,4,1,8,7.1,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+8,42,8,2018-12-02,Washington,,UC Santa Barbara,REG (Non-Conf),W 67-63,*,37,6,11,0.545,1,2,0.5,5,9,0.556,0.591,4,6,0.667,1,3,4,5,0,0,3,1,17,12.6,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+9,43,9,2018-12-05,Washington,@,Gonzaga,REG (Non-Conf),L 79-81,*,38,10,18,0.556,2,7,0.286,8,11,0.727,0.611,4,4,1.0,1,2,3,6,1,0,1,1,26,22.5,A,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+10,44,10,2018-12-09,Washington,,Seattle,REG (Non-Conf),W 70-62,*,36,7,13,0.538,1,2,0.5,6,11,0.545,0.577,3,4,0.75,2,7,9,3,0,1,5,2,18,11.8,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+11,45,11,2018-12-15,Washington,N,Virginia Tech,REG (Non-Conf),L 61-73,*,37,4,13,0.308,2,4,0.5,2,9,0.222,0.385,0,0,,0,5,5,0,1,0,3,3,10,0.8,N,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+12,46,12,2018-12-21,Washington,,Sacramento State,REG (Non-Conf),W 57-41,*,31,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,0,5,5,1,1,0,3,3,4,-1.1,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+13,47,13,2019-01-01,Washington,,Cal State Fullerton,REG (Non-Conf),W 84-76,*,38,8,16,0.5,0,2,0.0,8,14,0.571,0.5,4,4,1.0,1,2,3,6,2,1,2,2,20,17.4,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+14,48,14,2019-01-05,Washington,,Washington State,REG (Conf),W 85-67,*,36,8,14,0.571,3,7,0.429,5,7,0.714,0.679,1,1,1.0,2,6,8,5,1,0,3,3,20,16.9,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+15,49,15,2019-01-10,Washington,@,Utah,REG (Conf),W 69-53,*,35,3,14,0.214,0,1,0.0,3,13,0.231,0.214,0,0,,3,9,12,5,2,1,3,2,6,4.6,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+16,50,16,2019-01-12,Washington,@,Colorado,REG (Conf),W 77-70,*,36,9,13,0.692,0,0,,9,13,0.692,0.692,1,3,0.333,0,4,4,5,4,0,2,1,19,19.0,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+17,51,17,2019-01-17,Washington,,Stanford,REG (Conf),W 80-64,*,34,9,19,0.474,2,3,0.667,7,16,0.438,0.526,2,3,0.667,0,5,5,2,1,0,1,2,22,14.0,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+18,52,18,2019-01-19,Washington,,California,REG (Conf),W 71-52,*,30,4,10,0.4,1,3,0.333,3,7,0.429,0.45,2,2,1.0,0,9,9,4,0,0,4,4,11,5.5,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+19,53,19,2019-01-24,Washington,@,Oregon,REG (Conf),W 61-56,*,35,7,12,0.583,3,4,0.75,4,8,0.5,0.708,3,3,1.0,1,5,6,2,1,1,1,2,20,17.9,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+20,54,20,2019-01-26,Washington,@,Oregon State,REG (Conf),W 79-69,*,32,4,6,0.667,3,4,0.75,1,2,0.5,0.917,8,10,0.8,0,1,1,2,2,0,4,4,19,13.7,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+21,55,21,2019-01-30,Washington,,Southern California,REG (Conf),W 75-62,*,34,5,8,0.625,2,3,0.667,3,5,0.6,0.75,0,0,,2,5,7,5,4,0,7,2,12,11.0,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+22,56,22,2019-02-02,Washington,,UCLA,REG (Conf),W 69-55,*,36,5,11,0.455,1,2,0.5,4,9,0.444,0.5,4,5,0.8,0,8,8,4,2,0,2,2,15,13.3,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+23,57,23,2019-02-07,Washington,@,Arizona,REG (Conf),W 67-60,*,37,6,10,0.6,0,1,0.0,6,9,0.667,0.6,0,0,,1,5,6,4,0,1,4,2,12,8.3,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+24,58,24,2019-02-09,Washington,@,Arizona State,REG (Conf),L 63-75,*,38,5,13,0.385,3,6,0.5,2,7,0.286,0.5,2,2,1.0,1,2,3,2,1,0,4,4,15,6.0,A,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+25,59,25,2019-02-16,Washington,@,Washington State,REG (Conf),W 72-70,*,31,8,16,0.5,2,4,0.5,6,12,0.5,0.563,2,3,0.667,0,4,4,1,0,0,2,3,20,10.3,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+26,60,26,2019-02-20,Washington,,Utah,REG (Conf),W 62-45,*,34,5,14,0.357,0,2,0.0,5,12,0.417,0.357,0,0,,0,8,8,2,1,0,1,1,10,5.6,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+27,61,27,2019-02-23,Washington,,Colorado,REG (Conf),W 64-55,*,33,5,11,0.455,0,3,0.0,5,8,0.625,0.455,2,3,0.667,3,2,5,1,2,1,4,0,12,8.0,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+28,62,28,2019-02-28,Washington,@,California,REG (Conf),L 73-76,*,35,7,14,0.5,4,6,0.667,3,8,0.375,0.643,4,4,1.0,2,6,8,5,2,0,6,1,22,17.3,A,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+29,63,29,2019-03-03,Washington,@,Stanford,REG (Conf),W 62-61,*,24,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,1,0.0,2,4,6,1,2,1,1,4,13,10.7,A,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+30,64,30,2019-03-06,Washington,,Oregon State,REG (Conf),W 81-76 (OT),*,39,5,11,0.455,2,4,0.5,3,7,0.429,0.545,6,8,0.75,0,5,5,5,0,0,1,4,18,13.9,H,1,1,jaylen-nowell-1,Jaylen Nowell,2019
+31,65,31,2019-03-09,Washington,,Oregon,REG (Conf),L 47-55,*,37,7,15,0.467,0,4,0.0,7,11,0.636,0.467,3,3,1.0,0,2,2,1,1,0,2,1,17,9.2,H,0,1,jaylen-nowell-1,Jaylen Nowell,2019
+32,66,32,2019-03-14,Washington,N,Southern California,CTOURN,W 78-75,*,37,8,13,0.615,4,4,1.0,4,9,0.444,0.769,4,6,0.667,1,7,8,3,1,1,4,1,24,19.5,N,1,0,jaylen-nowell-1,Jaylen Nowell,2019
+33,67,33,2019-03-15,Washington,N,Colorado,CTOURN,W 66-61,*,37,6,15,0.4,1,4,0.25,5,11,0.455,0.433,1,1,1.0,0,5,5,4,3,0,2,3,14,10.0,N,1,0,jaylen-nowell-1,Jaylen Nowell,2019
+34,68,34,2019-03-16,Washington,N,Oregon,CTOURN,L 48-68,*,33,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,4,1.0,1,1,2,2,2,0,2,4,8,4.7,N,0,0,jaylen-nowell-1,Jaylen Nowell,2019
+35,69,35,2019-03-22,Washington,N,Utah State,ROUND-64,W 78-61,*,38,4,7,0.571,2,2,1.0,2,5,0.4,0.714,9,10,0.9,1,4,5,5,1,0,5,3,19,15.5,N,1,0,jaylen-nowell-1,Jaylen Nowell,2019
+36,70,36,2019-03-24,Washington,N,North Carolina,ROUND-32,L 59-81,*,34,6,11,0.545,0,2,0.0,6,9,0.667,0.545,0,0,,1,3,4,1,1,0,2,0,12,8.0,N,0,0,jaylen-nowell-1,Jaylen Nowell,2019

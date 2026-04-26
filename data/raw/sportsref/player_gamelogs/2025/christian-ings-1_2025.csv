@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,122,1,2024-11-04,Norfolk State,,Penn St. Wilkes-Barre,REG (Non-Conf),W 96-41,*,23,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,2,0.5,0,3,3,10,2,1,1,0,3,9.1,H,1,1,christian-ings-1,Christian Ings,2025
+2,123,2,2024-11-06,Norfolk State,,VU Lynchburg,REG (Non-Conf),W 104-60,*,22,5,11,0.455,4,6,0.667,1,5,0.2,0.636,3,4,0.75,1,0,1,2,1,0,0,0,17,14.0,H,1,1,christian-ings-1,Christian Ings,2025
+3,124,3,2024-11-09,Norfolk State,,James Madison,REG (Non-Conf),W 83-69,*,27,7,11,0.636,2,3,0.667,5,8,0.625,0.727,6,10,0.6,0,5,5,1,1,0,2,1,22,16.3,H,1,1,christian-ings-1,Christian Ings,2025
+4,125,4,2024-11-12,Norfolk State,@,William & Mary,REG (Non-Conf),L 73-84,*,22,3,9,0.333,0,1,0.0,3,8,0.375,0.333,3,7,0.429,1,2,3,2,3,0,4,1,9,3.6,A,0,1,christian-ings-1,Christian Ings,2025
+5,126,5,2024-11-16,Norfolk State,@,Hampton,REG (Non-Conf),W 67-58,*,33,4,8,0.5,2,3,0.667,2,5,0.4,0.625,6,7,0.857,1,2,3,7,0,0,1,1,16,16.4,A,1,1,christian-ings-1,Christian Ings,2025
+6,127,6,2024-11-20,Norfolk State,@,Stanford,REG (Non-Conf),L 63-70,*,33,8,12,0.667,1,1,1.0,7,11,0.636,0.708,0,0,,0,0,0,1,0,0,4,2,17,7.7,A,0,1,christian-ings-1,Christian Ings,2025
+7,128,7,2024-11-22,Norfolk State,@,Grand Canyon,REG (Non-Conf),L 73-91,*,30,7,14,0.5,1,2,0.5,6,12,0.5,0.536,0,2,0.0,0,0,0,3,1,0,1,1,15,8.9,A,0,1,christian-ings-1,Christian Ings,2025
+8,129,8,2024-11-25,Norfolk State,@,UC Davis,REG (Non-Conf),W 76-55,*,28,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,4,1.0,1,2,3,6,2,0,5,2,11,7.6,A,1,1,christian-ings-1,Christian Ings,2025
+9,130,9,2024-12-01,Norfolk State,@,Stony Brook,REG (Non-Conf),W 77-66,*,30,4,8,0.5,0,0,,4,8,0.5,0.5,3,4,0.75,1,1,2,5,0,0,1,2,11,9.3,A,1,1,christian-ings-1,Christian Ings,2025
+10,131,10,2024-12-09,Norfolk State,,Hofstra,REG (Non-Conf),L 67-80,*,32,4,11,0.364,0,2,0.0,4,9,0.444,0.364,4,4,1.0,0,3,3,5,1,0,3,1,12,7.9,H,0,1,christian-ings-1,Christian Ings,2025
+11,132,11,2024-12-11,Norfolk State,@,Baylor,REG (Non-Conf),L 69-94,*,31,4,6,0.667,2,2,1.0,2,4,0.5,0.833,2,3,0.667,0,2,2,4,1,1,5,0,12,9.1,A,0,1,christian-ings-1,Christian Ings,2025
+12,133,12,2024-12-15,Norfolk State,@,Northern Kentucky,REG (Non-Conf),L 62-71,*,27,3,7,0.429,1,2,0.5,2,5,0.4,0.5,5,6,0.833,0,1,1,3,1,0,1,0,12,10.3,A,0,1,christian-ings-1,Christian Ings,2025
+13,134,13,2024-12-19,Norfolk State,N,Alabama State,REG (Non-Conf),W 71-54,*,30,1,4,0.25,1,1,1.0,0,3,0.0,0.375,8,9,0.889,0,4,4,4,1,0,3,0,11,10.2,N,1,1,christian-ings-1,Christian Ings,2025
+14,135,14,2024-12-20,Norfolk State,N,Grambling State,REG (Non-Conf),W 76-70,*,26,6,6,1.0,1,1,1.0,5,5,1.0,1.083,0,0,,0,0,0,2,1,0,0,1,13,13.2,N,1,1,christian-ings-1,Christian Ings,2025
+15,136,15,2024-12-29,Norfolk State,@,High Point,REG (Non-Conf),W 77-74,*,25,5,6,0.833,0,0,,5,6,0.833,0.833,2,4,0.5,0,2,2,1,1,0,3,1,12,7.9,A,1,1,christian-ings-1,Christian Ings,2025
+16,137,16,2024-12-31,Norfolk State,@,Tennessee,REG (Non-Conf),L 52-67,*,34,8,15,0.533,0,2,0.0,8,13,0.615,0.533,3,4,0.75,1,1,2,4,1,0,2,1,19,13.7,A,0,1,christian-ings-1,Christian Ings,2025
+17,138,17,2025-01-04,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 81-59,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,2,0,0,1,1,2,1.0,H,1,1,christian-ings-1,Christian Ings,2025
+18,139,19,2025-01-11,Norfolk State,,Coppin State,REG (Conf),W 92-69,*,30,7,10,0.7,4,5,0.8,3,5,0.6,0.9,3,4,0.75,0,1,1,4,1,0,5,2,21,14.7,H,1,1,christian-ings-1,Christian Ings,2025
+19,140,20,2025-01-13,Norfolk State,@,Morgan State,REG (Conf),L 74-78,*,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-2.1,A,0,1,christian-ings-1,Christian Ings,2025
+20,141,22,2025-01-25,Norfolk State,,Howard,REG (Conf),W 92-75,*,32,7,12,0.583,1,5,0.2,6,7,0.857,0.625,4,4,1.0,1,3,4,4,1,0,4,2,19,14.0,H,1,1,christian-ings-1,Christian Ings,2025
+21,142,23,2025-02-01,Norfolk State,,South Carolina State,REG (Conf),W 67-65 (OT),*,27,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,2,0.5,0,2,2,2,0,0,1,0,6,2.5,H,1,1,christian-ings-1,Christian Ings,2025
+22,143,24,2025-02-03,Norfolk State,,North Carolina Central,REG (Conf),W 81-78,*,27,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,6,0.667,0,0,0,3,0,0,1,3,9,6.1,H,1,1,christian-ings-1,Christian Ings,2025
+23,144,25,2025-02-15,Norfolk State,@,Maryland Eastern Shore,REG (Conf),W 75-63,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,1,1,christian-ings-1,Christian Ings,2025
+24,145,26,2025-02-17,Norfolk State,,Delaware State,REG (Conf),W 96-84,*,25,4,12,0.333,2,4,0.5,2,8,0.25,0.417,2,2,1.0,1,0,1,1,0,0,3,2,12,2.8,H,1,1,christian-ings-1,Christian Ings,2025
+25,146,27,2025-02-22,Norfolk State,@,Coppin State,REG (Conf),W 79-63,*,32,3,7,0.429,1,1,1.0,2,6,0.333,0.5,3,4,0.75,0,1,1,6,0,0,1,2,10,8.6,A,1,1,christian-ings-1,Christian Ings,2025
+26,147,28,2025-02-24,Norfolk State,,Morgan State,REG (Conf),W 69-60,*,25,5,10,0.5,0,3,0.0,5,7,0.714,0.5,2,3,0.667,1,2,3,1,1,0,0,1,12,9.2,H,1,1,christian-ings-1,Christian Ings,2025
+27,148,29,2025-03-01,Norfolk State,@,South Carolina State,REG (Conf),L 88-91,*,33,5,11,0.455,2,3,0.667,3,8,0.375,0.545,4,4,1.0,1,0,1,6,2,0,4,4,16,11.6,A,0,1,christian-ings-1,Christian Ings,2025
+28,149,30,2025-03-03,Norfolk State,@,North Carolina Central,REG (Conf),L 87-91 (OT),*,33,6,11,0.545,1,2,0.5,5,9,0.556,0.591,0,0,,1,3,4,3,1,0,3,2,13,8.6,A,0,1,christian-ings-1,Christian Ings,2025
+29,150,31,2025-03-06,Norfolk State,@,Howard,REG (Conf),W 81-69,*,23,4,8,0.5,1,1,1.0,3,7,0.429,0.563,0,0,,0,0,0,1,0,0,2,2,9,2.9,A,1,1,christian-ings-1,Christian Ings,2025
+30,151,32,2025-03-12,Norfolk State,N,Maryland Eastern Shore,CTOURN,W 77-70,*,27,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,2,1.0,1,6,7,6,0,0,3,0,6,6.3,N,1,0,christian-ings-1,Christian Ings,2025
+31,152,33,2025-03-14,Norfolk State,N,Morgan State,CTOURN,W 58-55,*,34,6,12,0.5,2,5,0.4,4,7,0.571,0.583,5,7,0.714,0,3,3,0,0,0,3,1,19,9.7,N,1,0,christian-ings-1,Christian Ings,2025
+32,153,34,2025-03-15,Norfolk State,N,South Carolina State,CTOURN,W 66-65,*,36,4,11,0.364,2,4,0.5,2,7,0.286,0.455,6,9,0.667,1,6,7,4,1,0,5,2,16,9.2,N,1,0,christian-ings-1,Christian Ings,2025
+33,154,35,2025-03-21,Norfolk State,N,Florida,ROUND-64,L 69-95,*,37,6,13,0.462,1,3,0.333,5,10,0.5,0.5,3,4,0.75,0,0,0,3,3,0,1,1,16,12.6,N,0,0,christian-ings-1,Christian Ings,2025

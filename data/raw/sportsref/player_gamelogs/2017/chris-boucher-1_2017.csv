@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,39,1,2016-11-11,Oregon,,Army,REG (Non-Conf),W 91-77,*,24,5,9,0.556,1,3,0.333,4,6,0.667,0.611,3,3,1.0,3,5,8,0,0,1,1,4,14,11.4,H,1,1,chris-boucher-1,Chris Boucher,2017
+2,40,2,2016-11-15,Oregon,@,Baylor,REG (Non-Conf),L 49-66,*,24,5,9,0.556,1,4,0.25,4,5,0.8,0.611,1,2,0.5,2,0,2,0,0,1,0,4,12,7.8,A,0,1,chris-boucher-1,Chris Boucher,2017
+3,41,3,2016-11-17,Oregon,,Valparaiso,REG (Non-Conf),W 76-54,*,31,9,12,0.75,3,5,0.6,6,7,0.857,0.875,4,4,1.0,4,5,9,1,1,3,2,3,25,25.1,H,1,1,chris-boucher-1,Chris Boucher,2017
+4,42,4,2016-11-21,Oregon,N,Georgetown,REG (Non-Conf),L 61-65,*,33,3,9,0.333,0,3,0.0,3,6,0.5,0.333,1,4,0.25,4,9,13,0,0,5,2,2,7,6.9,N,0,1,chris-boucher-1,Chris Boucher,2017
+5,43,5,2016-11-22,Oregon,N,Tennessee,REG (Non-Conf),W 69-65 (OT),*,29,4,8,0.5,0,1,0.0,4,7,0.571,0.5,3,3,1.0,2,2,4,0,1,5,3,5,11,8.5,N,1,1,chris-boucher-1,Chris Boucher,2017
+6,44,6,2016-11-23,Oregon,N,Connecticut,REG (Non-Conf),W 79-69,*,31,7,11,0.636,5,7,0.714,2,4,0.5,0.864,2,4,0.5,2,3,5,2,0,3,2,2,21,18.3,N,1,1,chris-boucher-1,Chris Boucher,2017
+7,45,7,2016-11-28,Oregon,,Boise State,REG (Non-Conf),W 68-63,*,24,2,5,0.4,0,2,0.0,2,3,0.667,0.4,2,6,0.333,2,6,8,0,2,5,2,4,6,6.8,H,1,1,chris-boucher-1,Chris Boucher,2017
+8,46,8,2016-11-30,Oregon,,Western Ore.,REG (Non-Conf),W 93-54,*,21,6,10,0.6,1,2,0.5,5,8,0.625,0.65,1,2,0.5,1,7,8,2,0,3,2,0,14,13.3,H,1,1,chris-boucher-1,Chris Boucher,2017
+9,47,9,2016-12-03,Oregon,,Savannah State,REG (Non-Conf),W 128-59,*,14,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,0,,2,4,6,0,1,1,1,1,12,12.4,H,1,1,chris-boucher-1,Chris Boucher,2017
+10,48,10,2016-12-11,Oregon,,Alabama,REG (Non-Conf),W 65-56,*,20,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,3,0.667,3,1,4,1,0,3,0,4,10,9.2,H,1,1,chris-boucher-1,Chris Boucher,2017
+11,49,11,2016-12-13,Oregon,,Montana,REG (Non-Conf),W 81-67,*,39,9,14,0.643,0,2,0.0,9,12,0.75,0.643,5,8,0.625,6,13,19,1,2,5,0,0,23,29.9,H,1,1,chris-boucher-1,Chris Boucher,2017
+12,50,14,2016-12-28,Oregon,,UCLA,REG (Conf),W 89-87,,27,2,8,0.25,1,5,0.2,1,3,0.333,0.313,4,5,0.8,2,5,7,1,1,0,0,1,9,8.0,H,1,1,chris-boucher-1,Chris Boucher,2017
+13,51,15,2016-12-30,Oregon,,Southern California,REG (Conf),W 84-61,,24,5,9,0.556,0,3,0.0,5,6,0.833,0.556,1,4,0.25,3,3,6,1,0,5,0,3,11,11.5,H,1,1,chris-boucher-1,Chris Boucher,2017
+14,52,16,2017-01-04,Oregon,@,Washington,REG (Conf),W 83-61,,13,3,5,0.6,0,1,0.0,3,4,0.75,0.6,1,2,0.5,0,2,2,0,0,1,1,2,7,3.8,A,1,1,chris-boucher-1,Chris Boucher,2017
+15,53,17,2017-01-07,Oregon,@,Washington State,REG (Conf),W 85-66,,25,11,15,0.733,6,9,0.667,5,6,0.833,0.933,1,1,1.0,0,8,8,1,0,3,0,3,29,26.9,A,1,1,chris-boucher-1,Chris Boucher,2017
+16,54,18,2017-01-14,Oregon,,Oregon State,REG (Conf),W 85-43,,20,4,7,0.571,0,1,0.0,4,6,0.667,0.571,0,0,,0,1,1,1,0,3,0,2,8,7.0,H,1,1,chris-boucher-1,Chris Boucher,2017
+17,55,19,2017-01-19,Oregon,,California,REG (Conf),W 86-63,,25,1,7,0.143,0,4,0.0,1,3,0.333,0.143,0,0,,1,3,4,0,1,5,0,3,2,2.4,H,1,1,chris-boucher-1,Chris Boucher,2017
+18,56,20,2017-01-21,Oregon,,Stanford,REG (Conf),W 69-52,*,27,6,13,0.462,2,7,0.286,4,6,0.667,0.538,2,3,0.667,2,8,10,0,1,1,4,1,16,10.0,H,1,1,chris-boucher-1,Chris Boucher,2017
+19,57,21,2017-01-26,Oregon,@,Utah,REG (Conf),W 73-67,,24,4,9,0.444,1,4,0.25,3,5,0.6,0.5,1,1,1.0,2,5,7,1,0,3,0,4,10,9.4,A,1,1,chris-boucher-1,Chris Boucher,2017
+20,58,22,2017-01-28,Oregon,@,Colorado,REG (Conf),L 65-74,,24,3,8,0.375,2,6,0.333,1,2,0.5,0.5,1,2,0.5,2,5,7,0,0,0,1,5,9,4.1,A,0,1,chris-boucher-1,Chris Boucher,2017
+21,59,23,2017-02-02,Oregon,,Arizona State,REG (Conf),W 71-70,,19,2,7,0.286,0,0,,2,7,0.286,0.286,0,1,0.0,1,7,8,0,0,4,1,2,4,3.3,H,1,1,chris-boucher-1,Chris Boucher,2017
+22,60,24,2017-02-04,Oregon,,Arizona,REG (Conf),W 85-58,,24,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,0,4,4,0,0,2,2,1,12,9.3,H,1,1,chris-boucher-1,Chris Boucher,2017
+23,61,25,2017-02-09,Oregon,@,UCLA,REG (Conf),L 79-82,,20,3,9,0.333,1,4,0.25,2,5,0.4,0.389,1,2,0.5,2,3,5,0,2,1,0,0,8,7.5,A,0,1,chris-boucher-1,Chris Boucher,2017
+24,62,26,2017-02-11,Oregon,@,Southern California,REG (Conf),W 81-70,,30,3,9,0.333,1,4,0.25,2,5,0.4,0.389,1,4,0.25,1,2,3,0,0,1,1,3,8,1.5,A,1,1,chris-boucher-1,Chris Boucher,2017
+25,63,27,2017-02-16,Oregon,,Utah,REG (Conf),W 79-61,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,4,4,0,0,3,3,2,5,1.8,H,1,1,chris-boucher-1,Chris Boucher,2017
+26,64,28,2017-02-18,Oregon,,Colorado,REG (Conf),W 101-73,,19,6,7,0.857,2,2,1.0,4,5,0.8,1.0,4,5,0.8,0,7,7,0,0,2,1,5,18,15.6,H,1,1,chris-boucher-1,Chris Boucher,2017
+27,65,29,2017-02-22,Oregon,@,California,REG (Conf),W 68-65,,25,6,12,0.5,3,7,0.429,3,5,0.6,0.625,3,5,0.6,2,3,5,1,0,1,0,2,18,14.1,A,1,1,chris-boucher-1,Chris Boucher,2017
+28,66,30,2017-02-25,Oregon,@,Stanford,REG (Conf),W 75-73,,13,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,6,0.333,2,1,3,0,0,2,1,4,9,4.2,A,1,1,chris-boucher-1,Chris Boucher,2017
+29,67,31,2017-03-04,Oregon,@,Oregon State,REG (Conf),W 80-59,,24,5,10,0.5,1,3,0.333,4,7,0.571,0.55,1,2,0.5,1,3,4,0,0,4,0,4,12,9.4,A,1,1,chris-boucher-1,Chris Boucher,2017
+30,68,32,2017-03-09,Oregon,N,Arizona State,CTOURN,W 80-57,,13,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,2,3,0,0,1,1,4,6,2.4,N,1,0,chris-boucher-1,Chris Boucher,2017
+31,69,33,2017-03-10,Oregon,N,California,CTOURN,W 73-65,,24,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,3,0.333,1,3,4,0,0,2,1,3,10,6.7,N,1,0,chris-boucher-1,Chris Boucher,2017

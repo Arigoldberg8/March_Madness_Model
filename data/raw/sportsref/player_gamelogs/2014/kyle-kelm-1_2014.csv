@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2013-11-08,Milwaukee,@,Loyola Chicago,REG (Non-Conf),L 72-76,,26,6,9,0.667,0,3,0.0,6,6,1.0,0.667,1,1,1.0,2,2,4,0,1,1,2,3,13,9.6,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+2,92,2,2013-11-11,Milwaukee,@,Davidson,REG (Non-Conf),W 81-77,,27,2,4,0.5,0,0,,2,4,0.5,0.5,6,8,0.75,2,3,5,0,0,0,2,2,10,6.7,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+3,93,3,2013-11-15,Milwaukee,N,San Jose State,REG (Non-Conf),W 64-61,,24,3,8,0.375,0,0,,3,8,0.375,0.375,3,4,0.75,4,2,6,2,0,1,1,2,9,7.9,N,1,1,kyle-kelm-1,Kyle Kelm,2014
+4,94,4,2013-11-16,Milwaukee,N,James Madison,REG (Non-Conf),W 77-66,,28,5,7,0.714,1,1,1.0,4,6,0.667,0.786,3,5,0.6,0,4,4,1,0,0,2,3,14,9.0,N,1,1,kyle-kelm-1,Kyle Kelm,2014
+5,95,5,2013-11-17,Milwaukee,@,Northern Illinois,REG (Non-Conf),W 82-69,,17,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,4,0.5,3,3,6,0,0,0,0,2,12,9.4,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+6,96,6,2013-11-19,Milwaukee,,DePaul,REG (Non-Conf),L 71-80,,24,6,8,0.75,0,1,0.0,6,7,0.857,0.75,4,4,1.0,1,0,1,3,1,0,1,3,16,14.4,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+7,97,7,2013-11-23,Milwaukee,@,Tennessee Tech,REG (Non-Conf),W 70-63,*,26,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,5,0.4,0,2,2,1,1,0,3,3,14,5.6,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+8,98,8,2013-11-26,Milwaukee,,Judson,REG (Non-Conf),W 89-56,*,15,6,6,1.0,0,0,,6,6,1.0,1.0,2,3,0.667,1,3,4,1,3,0,1,3,14,14.9,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+9,99,9,2013-11-30,Milwaukee,@,Kansas City,REG (Non-Conf),W 84-79,*,34,6,7,0.857,0,0,,6,7,0.857,0.857,1,3,0.333,2,4,6,5,0,0,6,4,13,8.2,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+10,100,10,2013-12-03,Milwaukee,,Northern Iowa,REG (Non-Conf),W 83-72,*,35,3,8,0.375,0,1,0.0,3,7,0.429,0.375,3,3,1.0,1,8,9,2,0,0,3,2,9,5.3,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+11,101,11,2013-12-07,Milwaukee,,Bradley,REG (Non-Conf),W 73-67,*,38,5,10,0.5,1,2,0.5,4,8,0.5,0.55,6,7,0.857,0,3,3,2,0,0,0,1,17,13.5,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+12,102,12,2013-12-11,Milwaukee,@,Wisconsin,REG (Non-Conf),L 52-78,*,25,7,10,0.7,1,1,1.0,6,9,0.667,0.75,2,3,0.667,0,4,4,1,0,0,2,3,17,11.1,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+13,103,13,2013-12-21,Milwaukee,N,Northeastern,REG (Non-Conf),L 59-62,*,37,5,9,0.556,0,0,,5,9,0.556,0.556,1,3,0.333,2,3,5,4,3,0,2,3,11,10.8,N,0,1,kyle-kelm-1,Kyle Kelm,2014
+14,104,14,2013-12-22,Milwaukee,N,Alabama State,REG (Non-Conf),W 67-54,*,36,7,10,0.7,0,0,,7,10,0.7,0.7,10,12,0.833,5,7,12,2,0,0,2,1,24,23.6,N,1,1,kyle-kelm-1,Kyle Kelm,2014
+15,105,15,2014-01-02,Milwaukee,,Youngstown State,REG (Conf),W 82-76,*,34,3,8,0.375,0,1,0.0,3,7,0.429,0.375,6,8,0.75,4,6,10,1,0,0,4,0,12,8.1,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+16,106,16,2014-01-04,Milwaukee,,Cleveland State,REG (Conf),L 49-77,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,4,0.5,1,2,3,0,0,0,4,3,4,-3.1,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+17,107,17,2014-01-08,Milwaukee,@,Oakland,REG (Conf),W 84-75,*,30,5,10,0.5,1,1,1.0,4,9,0.444,0.55,4,9,0.444,2,5,7,0,1,1,4,2,15,7.8,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+18,108,18,2014-01-12,Milwaukee,,Green Bay,REG (Conf),L 86-93 (OT),*,38,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,3,0.333,4,8,12,2,0,1,1,4,11,9.9,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+19,109,19,2014-01-16,Milwaukee,@,Illinois–Chicago,REG (Conf),W 67-63,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,4,0.5,1,1,2,0,1,0,1,2,2,-0.7,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+20,110,20,2014-01-18,Milwaukee,@,Valparaiso,REG (Conf),L 62-75,*,27,3,7,0.429,0,3,0.0,3,4,0.75,0.429,3,3,1.0,0,0,0,3,1,0,2,2,9,5.6,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+21,111,21,2014-01-21,Milwaukee,@,Wright State,REG (Conf),L 57-73,*,32,6,12,0.5,0,1,0.0,6,11,0.545,0.5,4,7,0.571,1,5,6,2,0,0,3,1,16,9.0,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+22,112,22,2014-01-24,Milwaukee,,Detroit Mercy,REG (Conf),L 54-73,*,25,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,4,0.5,1,2,3,1,1,0,2,1,2,-0.3,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+23,113,23,2014-01-30,Milwaukee,,Wright State,REG (Conf),W 68-64,*,38,4,7,0.571,0,1,0.0,4,6,0.667,0.571,5,6,0.833,1,5,6,3,0,0,2,3,13,10.4,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+24,114,24,2014-02-02,Milwaukee,,Oakland,REG (Conf),W 86-64,*,32,4,5,0.8,1,1,1.0,3,4,0.75,0.9,3,3,1.0,4,3,7,1,1,0,1,1,12,14.1,H,1,1,kyle-kelm-1,Kyle Kelm,2014
+25,115,25,2014-02-08,Milwaukee,@,Green Bay,REG (Conf),W 73-63,*,34,3,10,0.3,0,1,0.0,3,9,0.333,0.3,3,4,0.75,0,3,3,1,0,0,1,1,9,3.0,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+26,116,26,2014-02-15,Milwaukee,,Valparaiso,REG (Conf),L 62-77,*,29,8,13,0.615,0,3,0.0,8,10,0.8,0.615,8,10,0.8,1,2,3,1,1,0,2,3,24,17.1,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+27,117,27,2014-02-20,Milwaukee,@,Youngstown State,REG (Conf),L 83-88 (OT),*,40,3,11,0.273,0,3,0.0,3,8,0.375,0.273,7,9,0.778,2,6,8,5,1,0,3,1,13,10.0,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+28,118,28,2014-02-22,Milwaukee,@,Cleveland State,REG (Conf),L 50-74,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,7,10,0.7,1,0,1,1,0,0,2,3,13,7.0,A,0,1,kyle-kelm-1,Kyle Kelm,2014
+29,119,29,2014-02-25,Milwaukee,,Illinois–Chicago,REG (Conf),L 58-80,*,30,3,8,0.375,0,1,0.0,3,7,0.429,0.375,6,11,0.545,2,3,5,3,0,0,3,3,12,5.8,H,0,1,kyle-kelm-1,Kyle Kelm,2014
+30,120,30,2014-02-27,Milwaukee,@,Detroit Mercy,REG (Conf),W 68-62,*,26,3,6,0.5,0,1,0.0,3,5,0.6,0.5,5,6,0.833,1,5,6,1,2,0,2,3,11,9.3,A,1,1,kyle-kelm-1,Kyle Kelm,2014
+31,121,31,2014-03-04,Milwaukee,,Detroit Mercy,CTOURN,W 83-73,*,35,3,6,0.5,0,1,0.0,3,5,0.6,0.5,7,8,0.875,2,2,4,1,1,0,1,3,13,11.1,H,1,0,kyle-kelm-1,Kyle Kelm,2014
+32,122,32,2014-03-07,Milwaukee,N,Valparaiso,CTOURN,W 74-57,*,29,2,8,0.25,0,1,0.0,2,7,0.286,0.25,6,7,0.857,4,2,6,1,1,0,1,3,10,7.7,N,1,0,kyle-kelm-1,Kyle Kelm,2014
+33,123,33,2014-03-08,Milwaukee,@,Green Bay,CTOURN,W 73-66 (OT),*,40,7,10,0.7,0,1,0.0,7,9,0.778,0.7,0,0,,1,3,4,2,0,1,2,3,14,10.3,A,1,0,kyle-kelm-1,Kyle Kelm,2014
+34,124,34,2014-03-11,Milwaukee,@,Wright State,CTOURN,W 69-63,*,37,6,13,0.462,0,1,0.0,6,12,0.5,0.462,8,9,0.889,3,6,9,2,0,0,2,1,20,15.8,A,1,0,kyle-kelm-1,Kyle Kelm,2014
+35,125,35,2014-03-20,Milwaukee,N,Villanova,ROUND-64,L 53-73,*,33,4,10,0.4,0,1,0.0,4,9,0.444,0.4,0,0,,2,2,4,1,0,0,1,2,8,3.5,N,0,0,kyle-kelm-1,Kyle Kelm,2014

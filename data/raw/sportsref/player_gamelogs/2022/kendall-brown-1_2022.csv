@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2021-11-12,Baylor,,Incarnate Word,REG (Non-Conf),W 87-60,*,17,5,8,0.625,0,0,,5,8,0.625,0.625,3,4,0.75,1,1,2,1,2,0,1,2,13,10.9,H,1,1,kendall-brown-1,Kendall Brown,2022
+2,2,2,2021-11-15,Baylor,,Nicholls State,REG (Non-Conf),W 89-60,*,27,6,7,0.857,1,1,1.0,5,6,0.833,0.929,0,0,,2,6,8,10,1,2,3,4,13,18.5,H,1,1,kendall-brown-1,Kendall Brown,2022
+3,3,3,2021-11-17,Baylor,,Central Arkansas,REG (Non-Conf),W 92-47,*,22,8,13,0.615,0,0,,8,13,0.615,0.615,3,4,0.75,3,2,5,1,2,0,1,1,19,16.7,H,1,1,kendall-brown-1,Kendall Brown,2022
+4,4,4,2021-11-20,Baylor,,Stanford,REG (Non-Conf),W 86-48,*,25,6,8,0.75,2,3,0.667,4,5,0.8,0.875,1,3,0.333,1,0,1,3,3,1,2,2,15,14.7,H,1,1,kendall-brown-1,Kendall Brown,2022
+5,5,5,2021-11-24,Baylor,N,Arizona State,REG (Non-Conf),W 75-63,*,26,4,5,0.8,1,1,1.0,3,4,0.75,0.9,1,1,1.0,0,4,4,0,1,0,0,1,10,9.9,N,1,1,kendall-brown-1,Kendall Brown,2022
+6,6,6,2021-11-25,Baylor,N,VCU,REG (Non-Conf),W 69-61,*,29,6,9,0.667,0,0,,6,9,0.667,0.667,2,2,1.0,2,3,5,0,1,0,1,3,14,11.2,N,1,1,kendall-brown-1,Kendall Brown,2022
+7,7,7,2021-11-26,Baylor,N,Michigan State,REG (Non-Conf),W 75-58,*,23,6,7,0.857,0,1,0.0,6,6,1.0,0.857,0,0,,0,1,1,1,1,0,1,1,12,10.1,N,1,1,kendall-brown-1,Kendall Brown,2022
+8,8,8,2021-12-04,Baylor,,Arkansas–Pine Bluff,REG (Non-Conf),W 99-54,*,20,5,7,0.714,0,1,0.0,5,6,0.833,0.714,1,1,1.0,3,1,4,0,1,0,2,1,11,9.1,H,1,1,kendall-brown-1,Kendall Brown,2022
+9,9,9,2021-12-12,Baylor,,Villanova,REG (Non-Conf),W 57-36,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,1,1,0,0,0,2,4,4,-2.0,H,1,1,kendall-brown-1,Kendall Brown,2022
+10,10,10,2021-12-18,Baylor,@,Oregon,REG (Non-Conf),W 78-70,*,18,7,8,0.875,0,0,,7,8,0.875,0.875,3,6,0.5,2,2,4,1,1,0,0,3,17,15.5,A,1,1,kendall-brown-1,Kendall Brown,2022
+11,11,11,2021-12-20,Baylor,,Alcorn State,REG (Non-Conf),W 94-57,*,27,5,7,0.714,1,2,0.5,4,5,0.8,0.786,5,5,1.0,1,1,2,1,0,0,1,0,16,13.8,H,1,1,kendall-brown-1,Kendall Brown,2022
+12,12,12,2021-12-28,Baylor,,Northwestern State,REG (Non-Conf),W 104-68,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,2,4,0.5,3,6,9,1,1,1,2,2,12,11.8,H,1,1,kendall-brown-1,Kendall Brown,2022
+13,13,13,2022-01-01,Baylor,@,Iowa State,REG (Conf),W 77-72,*,30,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,2,3,5,1,1,1,1,2,4,3.5,A,1,1,kendall-brown-1,Kendall Brown,2022
+14,14,14,2022-01-04,Baylor,,Oklahoma,REG (Conf),W 84-74,*,22,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,2,0,2,3,2,0.8,H,1,1,kendall-brown-1,Kendall Brown,2022
+15,15,15,2022-01-08,Baylor,@,TCU,REG (Conf),W 76-64,*,27,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,2,4,3,0,0,1,1,9,9.4,A,1,1,kendall-brown-1,Kendall Brown,2022
+16,16,16,2022-01-11,Baylor,,Texas Tech,REG (Conf),L 62-65,*,30,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,0,5,5,6,0,0,3,2,5,4.2,H,0,1,kendall-brown-1,Kendall Brown,2022
+17,17,17,2022-01-15,Baylor,,Oklahoma State,REG (Conf),L 54-61,*,24,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,5,7,3,2,0,4,2,4,4.2,H,0,1,kendall-brown-1,Kendall Brown,2022
+18,18,18,2022-01-18,Baylor,@,West Virginia,REG (Conf),W 77-68,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,5,6,2,0,0,0,1,2,3.5,A,1,1,kendall-brown-1,Kendall Brown,2022
+19,19,19,2022-01-22,Baylor,@,Oklahoma,REG (Conf),W 65-51,*,35,2,6,0.333,0,1,0.0,2,5,0.4,0.333,6,6,1.0,4,4,8,3,2,0,3,3,10,10.5,A,1,1,kendall-brown-1,Kendall Brown,2022
+20,20,20,2022-01-25,Baylor,,Kansas State,REG (Conf),W 74-49,*,28,4,5,0.8,0,0,,4,5,0.8,0.8,2,4,0.5,1,10,11,2,0,0,2,2,10,9.6,H,1,1,kendall-brown-1,Kendall Brown,2022
+21,21,21,2022-01-29,Baylor,@,Alabama,REG (Non-Conf),L 78-87,*,31,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,4,1,5,1,1,0,3,3,10,8.3,A,0,1,kendall-brown-1,Kendall Brown,2022
+22,22,22,2022-01-31,Baylor,,West Virginia,REG (Conf),W 81-77,*,26,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,2,3,5,1,2,1,1,2,9,9.9,H,1,1,kendall-brown-1,Kendall Brown,2022
+23,23,23,2022-02-05,Baylor,@,Kansas,REG (Conf),L 59-83,*,33,5,12,0.417,2,3,0.667,3,9,0.333,0.5,0,0,,3,5,8,3,0,1,1,2,12,10.2,A,0,1,kendall-brown-1,Kendall Brown,2022
+24,24,24,2022-02-09,Baylor,@,Kansas State,REG (Conf),W 75-60,*,27,4,6,0.667,0,0,,4,6,0.667,0.667,0,2,0.0,1,5,6,0,2,1,3,4,8,4.9,A,1,1,kendall-brown-1,Kendall Brown,2022
+25,25,25,2022-02-12,Baylor,,Texas,REG (Conf),W 80-63,*,33,5,11,0.455,0,4,0.0,5,7,0.714,0.455,0,0,,5,3,8,1,2,0,0,2,10,10.6,H,1,1,kendall-brown-1,Kendall Brown,2022
+26,26,26,2022-02-16,Baylor,@,Texas Tech,REG (Conf),L 73-83,*,28,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,4,0.75,0,3,3,1,2,0,3,3,7,2.6,A,0,1,kendall-brown-1,Kendall Brown,2022
+27,27,27,2022-02-19,Baylor,,TCU,REG (Conf),W 72-62,*,33,5,11,0.455,0,1,0.0,5,10,0.5,0.455,3,4,0.75,1,4,5,5,1,1,2,3,13,10.8,H,1,1,kendall-brown-1,Kendall Brown,2022
+28,28,28,2022-02-21,Baylor,@,Oklahoma State,REG (Conf),W 66-64 (OT),*,33,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,4,5,1,0,0,2,1,3,0.8,A,1,1,kendall-brown-1,Kendall Brown,2022
+29,29,29,2022-02-26,Baylor,,Kansas,REG (Conf),W 80-70,*,25,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,0,3,3,3,0,2,1,3,9,8.6,H,1,1,kendall-brown-1,Kendall Brown,2022
+30,30,30,2022-02-28,Baylor,@,Texas,REG (Conf),W 68-61,*,30,4,7,0.571,2,2,1.0,2,5,0.4,0.714,3,5,0.6,1,4,5,1,0,0,3,4,13,6.9,A,1,1,kendall-brown-1,Kendall Brown,2022
+31,31,31,2022-03-05,Baylor,,Iowa State,REG (Conf),W 75-68,*,35,6,8,0.75,1,2,0.5,5,6,0.833,0.813,3,6,0.5,4,6,10,2,0,1,3,3,16,14.1,H,1,1,kendall-brown-1,Kendall Brown,2022
+32,32,32,2022-03-10,Baylor,N,Oklahoma,CTOURN,L 67-72,*,27,3,6,0.5,1,1,1.0,2,5,0.4,0.583,0,0,,2,0,2,2,0,0,3,2,7,3.0,N,0,0,kendall-brown-1,Kendall Brown,2022
+33,33,33,2022-03-17,Baylor,N,Norfolk State,ROUND-64,W 85-49,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,0,3,1,0,0,1,2,4,3.0,N,1,0,kendall-brown-1,Kendall Brown,2022
+34,34,34,2022-03-19,Baylor,N,North Carolina,ROUND-32,L 86-93 (OT),*,28,2,7,0.286,0,4,0.0,2,3,0.667,0.286,2,4,0.5,2,3,5,1,3,0,0,3,6,5.9,N,0,0,kendall-brown-1,Kendall Brown,2022

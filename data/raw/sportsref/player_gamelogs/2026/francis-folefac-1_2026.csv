@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Siena,,Bryant,REG (Non-Conf),W 82-66,,13,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,3,1,4,2,0,0,1,2,11,9.3,H,1,1,francis-folefac-1,Francis Folefac,2026
+2,2,2,2025-11-07,Siena,@,Brown,REG (Non-Conf),W 62-46,,17,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,0,5,5,0,0,1,2,2,3,0.3,A,1,1,francis-folefac-1,Francis Folefac,2026
+3,3,3,2025-11-12,Siena,@,St. Bonaventure,REG (Non-Conf),L 66-75,,27,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,4,0.5,2,0,2,2,3,0,4,5,6,1.6,A,0,1,francis-folefac-1,Francis Folefac,2026
+4,4,4,2025-11-17,Siena,,Colgate,REG (Non-Conf),L 69-72,,17,6,7,0.857,0,0,,6,7,0.857,0.857,4,4,1.0,0,1,1,0,2,0,0,4,16,14.2,H,0,1,francis-folefac-1,Francis Folefac,2026
+5,5,5,2025-11-21,Siena,,Albany (NY),REG (Non-Conf),W 73-63,,17,1,6,0.167,0,0,,1,6,0.167,0.167,2,4,0.5,1,0,1,0,1,0,0,2,4,0.3,H,1,1,francis-folefac-1,Francis Folefac,2026
+6,6,6,2025-11-24,Siena,@,Holy Cross,REG (Non-Conf),W 73-69,,31,7,9,0.778,0,0,,7,9,0.778,0.778,0,0,,1,4,5,2,1,0,2,1,14,12.4,A,1,1,francis-folefac-1,Francis Folefac,2026
+7,7,7,2025-11-28,Siena,N,Longwood,REG (Non-Conf),W 70-63,*,37,3,4,0.75,0,0,,3,4,0.75,0.75,4,6,0.667,3,5,8,3,4,3,3,2,10,15.6,N,1,1,francis-folefac-1,Francis Folefac,2026
+8,8,8,2025-11-29,Siena,@,American,REG (Non-Conf),W 59-55,*,32,4,9,0.444,0,0,,4,9,0.444,0.444,6,9,0.667,2,5,7,0,2,1,3,4,14,9.1,A,1,1,francis-folefac-1,Francis Folefac,2026
+9,9,9,2025-11-30,Siena,N,Maine,REG (Non-Conf),W 64-60,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,4,5,0.8,1,2,3,2,1,0,3,3,12,8.5,N,1,1,francis-folefac-1,Francis Folefac,2026
+10,10,10,2025-12-05,Siena,,Niagara,REG (Conf),W 83-54,,24,3,3,1.0,0,0,,3,3,1.0,1.0,2,3,0.667,2,7,9,2,1,3,2,3,8,11.5,H,1,1,francis-folefac-1,Francis Folefac,2026
+11,11,11,2025-12-07,Siena,,Canisius,REG (Conf),W 74-52,,15,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,3,3,1,0,3,0,1,3,4.9,H,1,1,francis-folefac-1,Francis Folefac,2026
+12,12,12,2025-12-17,Siena,@,Vermont,REG (Non-Conf),L 69-83,,18,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,2,1,3,0,0,1,2,2,2,0.9,A,0,1,francis-folefac-1,Francis Folefac,2026
+13,13,13,2025-12-22,Siena,@,Indiana,REG (Non-Conf),L 60-81,*,33,5,10,0.5,1,2,0.5,4,8,0.5,0.55,8,11,0.727,1,3,4,1,0,2,2,5,19,12.5,A,0,1,francis-folefac-1,Francis Folefac,2026
+14,14,14,2026-01-02,Siena,@,Iona,REG (Conf),L 72-75,*,39,8,14,0.571,1,2,0.5,7,12,0.583,0.607,1,1,1.0,0,2,2,2,2,2,4,3,18,11.6,A,0,1,francis-folefac-1,Francis Folefac,2026
+15,15,15,2026-01-04,Siena,@,Rider,REG (Conf),W 74-65,*,20,3,12,0.25,0,0,,3,12,0.25,0.25,1,1,1.0,4,3,7,2,0,1,0,1,7,5.2,A,1,1,francis-folefac-1,Francis Folefac,2026
+16,16,16,2026-01-09,Siena,,Merrimack,REG (Conf),L 59-63,*,36,8,14,0.571,0,0,,8,14,0.571,0.571,6,6,1.0,7,3,10,4,0,2,4,3,22,20.2,H,0,1,francis-folefac-1,Francis Folefac,2026
+17,17,17,2026-01-11,Siena,@,Mount St. Mary's,REG (Conf),W 67-50,*,25,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,7,0.714,0,3,3,2,0,0,2,3,15,9.7,A,1,1,francis-folefac-1,Francis Folefac,2026
+18,18,18,2026-01-14,Siena,,Sacred Heart,REG (Conf),L 80-86,*,23,8,10,0.8,0,0,,8,10,0.8,0.8,2,2,1.0,2,2,4,1,1,1,0,2,18,17.8,H,0,1,francis-folefac-1,Francis Folefac,2026
+19,19,19,2026-01-17,Siena,@,Manhattan,REG (Conf),W 74-59,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,4,6,2,1,0,2,4,2,2.4,A,1,1,francis-folefac-1,Francis Folefac,2026
+20,20,20,2026-01-19,Siena,,Fairfield,REG (Conf),W 85-77,*,26,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,1,2,3,4,0,0,1,3,9,7.9,H,1,1,francis-folefac-1,Francis Folefac,2026
+21,21,21,2026-01-22,Siena,,Marist,REG (Conf),W 69-50,*,32,2,6,0.333,0,0,,2,6,0.333,0.333,6,6,1.0,1,4,5,2,3,1,2,1,10,11.2,H,1,1,francis-folefac-1,Francis Folefac,2026
+22,22,22,2026-01-30,Siena,@,Niagara,REG (Conf),W 82-79,*,27,4,5,0.8,1,1,1.0,3,4,0.75,0.9,2,3,0.667,0,1,1,1,1,0,3,2,11,6.9,A,1,1,francis-folefac-1,Francis Folefac,2026
+23,23,23,2026-02-01,Siena,@,Canisius,REG (Conf),W 78-63,*,35,5,9,0.556,0,1,0.0,5,8,0.625,0.556,4,6,0.667,4,5,9,5,1,1,2,1,14,16.0,A,1,1,francis-folefac-1,Francis Folefac,2026
+24,24,24,2026-02-05,Siena,,Iona,REG (Conf),W 79-72,*,36,7,10,0.7,1,2,0.5,6,8,0.75,0.75,2,2,1.0,4,8,12,3,1,3,3,1,17,19.8,H,1,1,francis-folefac-1,Francis Folefac,2026
+25,25,25,2026-02-07,Siena,@,Saint Peter's,REG (Conf),L 65-70,*,37,6,10,0.6,0,0,,6,10,0.6,0.6,4,7,0.571,1,4,5,7,3,0,2,1,16,17.6,A,0,1,francis-folefac-1,Francis Folefac,2026
+26,26,26,2026-02-13,Siena,,Quinnipiac,REG (Conf),L 62-74,*,35,6,13,0.462,0,0,,6,13,0.462,0.462,2,2,1.0,3,3,6,0,0,2,4,4,14,6.1,H,0,1,francis-folefac-1,Francis Folefac,2026
+27,27,27,2026-02-15,Siena,@,Marist,REG (Conf),W 67-63,*,25,2,4,0.5,0,0,,2,4,0.5,0.5,4,8,0.5,1,3,4,3,0,4,1,4,8,8.3,A,1,1,francis-folefac-1,Francis Folefac,2026
+28,28,28,2026-02-20,Siena,@,Merrimack,REG (Conf),L 72-79 (OT),*,38,3,9,0.333,0,0,,3,9,0.333,0.333,4,6,0.667,4,2,6,5,0,2,3,4,10,7.8,A,0,1,francis-folefac-1,Francis Folefac,2026
+29,29,29,2026-02-22,Siena,,Saint Peter's,REG (Conf),W 72-63,*,12,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,0,0,0,0,0,3,3,3,-2.6,H,1,1,francis-folefac-1,Francis Folefac,2026
+30,30,30,2026-02-27,Siena,@,Fairfield,REG (Conf),L 58-72,*,28,4,6,0.667,0,0,,4,6,0.667,0.667,1,1,1.0,2,3,5,0,1,2,1,5,9,8.1,A,0,1,francis-folefac-1,Francis Folefac,2026
+31,31,31,2026-03-01,Siena,,Rider,REG (Conf),W 76-61,*,38,5,10,0.5,0,0,,5,10,0.5,0.5,13,15,0.867,2,11,13,4,0,4,0,1,23,27.1,H,1,1,francis-folefac-1,Francis Folefac,2026
+32,32,32,2026-03-07,Siena,N,Mount St. Mary's,CTOURN,W 63-58,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,0,5,5,3,0,0,3,4,10,6.7,N,1,0,francis-folefac-1,Francis Folefac,2026
+33,33,33,2026-03-08,Siena,N,Fairfield,CTOURN,W 76-61,*,36,4,14,0.286,0,2,0.0,4,12,0.333,0.286,2,4,0.5,4,5,9,5,1,2,2,2,10,8.4,N,1,0,francis-folefac-1,Francis Folefac,2026
+34,34,34,2026-03-10,Siena,N,Merrimack,CTOURN,W 64-54,*,40,4,16,0.25,0,0,,4,16,0.25,0.25,2,3,0.667,5,3,8,5,0,2,3,2,10,5.5,N,1,0,francis-folefac-1,Francis Folefac,2026

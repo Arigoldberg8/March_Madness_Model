@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,40,5,2020-12-14,Louisiana State,,Sam Houston State,REG (Non-Conf),W 88-66,,14,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,4,4,8,0,0,0,2,3,5,4.8,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+2,41,6,2020-12-26,Louisiana State,,Nicholls State,REG (Non-Conf),W 86-80,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,0,1,0,1,2,0,-0.1,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+3,42,7,2020-12-29,Louisiana State,,Texas A&M,REG (Conf),W 77-54,,19,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,3,3,6,2,1,0,0,3,2,5.2,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+4,43,8,2021-01-02,Louisiana State,@,Florida,REG (Conf),L 79-83,,12,0,0,,0,0,0,0,,,0,0,,0,0,0,0,1,0,0,5,0,-1.0,A,0,1,josh-leblanc-1,Josh LeBlanc,2021
+5,44,9,2021-01-06,Louisiana State,,Georgia,REG (Conf),W 94-92 (OT),,16,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,0,3,0,5,1,0,1,2,7.7,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+6,45,10,2021-01-09,Louisiana State,@,Ole Miss,REG (Conf),W 75-61,,21,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,1,0,3,0,3,2,5.2,A,1,1,josh-leblanc-1,Josh LeBlanc,2021
+7,46,11,2021-01-13,Louisiana State,,Arkansas,REG (Conf),W 92-76,,15,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,2,0,2,2,2.9,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+8,47,12,2021-01-16,Louisiana State,,South Carolina,REG (Conf),W 85-80,,23,2,2,1.0,0,0,2,2,1.0,1.0,0,2,0.0,0,1,1,0,2,1,1,2,4,3.8,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+9,48,13,2021-01-19,Louisiana State,,Alabama,REG (Conf),L 75-105,,19,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,4,2,6,1,1,1,1,3,6,8.7,H,0,1,josh-leblanc-1,Josh LeBlanc,2021
+10,49,14,2021-01-23,Louisiana State,@,Kentucky,REG (Conf),L 69-82,,13,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,2,2,0,0,0,0,4,3,1.3,A,0,1,josh-leblanc-1,Josh LeBlanc,2021
+11,50,15,2021-01-26,Louisiana State,@,Texas A&M,REG (Conf),W 78-66,,17,1,2,0.5,0,0,1,2,0.5,0.5,1,1,1.0,1,3,4,1,1,1,0,0,3,6.0,A,1,1,josh-leblanc-1,Josh LeBlanc,2021
+12,51,16,2021-01-30,Louisiana State,,Texas Tech,REG (Non-Conf),L 71-76,,19,0,0,,0,0,0,0,,,0,1,0.0,1,5,6,1,2,0,0,5,0,2.5,H,0,1,josh-leblanc-1,Josh LeBlanc,2021
+13,52,17,2021-02-03,Louisiana State,@,Alabama,REG (Conf),L 60-78,*,25,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,1,2,3,1,2,1,1,3,4,3.8,A,0,1,josh-leblanc-1,Josh LeBlanc,2021
+14,53,18,2021-02-10,Louisiana State,@,Mississippi State,REG (Conf),W 94-80,,19,4,4,1.0,0,0,4,4,1.0,1.0,0,0,,0,2,2,0,1,0,2,2,8,5.6,A,1,1,josh-leblanc-1,Josh LeBlanc,2021
+15,54,19,2021-02-13,Louisiana State,,Tennessee,REG (Conf),W 78-65,,17,0,0,,0,0,0,0,,,0,0,,3,2,5,0,1,3,0,2,0,5.0,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+16,55,20,2021-02-20,Louisiana State,,Auburn,REG (Conf),W 104-80,,22,6,6,1.0,0,0,6,6,1.0,1.0,0,3,0.0,3,7,10,1,0,2,0,3,12,14.1,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+17,56,21,2021-02-23,Louisiana State,@,Georgia,REG (Conf),L 78-91,,15,1,3,0.333,0,0,1,3,0.333,0.333,1,5,0.2,4,4,8,0,0,0,0,4,3,2.1,A,0,1,josh-leblanc-1,Josh LeBlanc,2021
+18,57,22,2021-02-27,Louisiana State,@,Arkansas,REG (Conf),L 75-83,,22,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,4,6,10,3,2,1,0,4,3,8.7,A,0,1,josh-leblanc-1,Josh LeBlanc,2021
+19,58,23,2021-03-02,Louisiana State,,Vanderbilt,REG (Conf),W 83-68,,16,4,4,1.0,0,0,4,4,1.0,1.0,0,1,0.0,2,2,4,2,0,1,0,2,8,9.7,H,1,1,josh-leblanc-1,Josh LeBlanc,2021
+20,59,24,2021-03-06,Louisiana State,@,Missouri,REG (Conf),W 86-80,,17,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,3,3,0,4,0,0,3,2,4.7,A,1,1,josh-leblanc-1,Josh LeBlanc,2021
+21,60,25,2021-03-12,Louisiana State,N,Ole Miss,CTOURN,W 76-73,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,1,0,0,0,0,2,3.4,N,1,0,josh-leblanc-1,Josh LeBlanc,2021
+22,61,26,2021-03-13,Louisiana State,N,Arkansas,CTOURN,W 78-71,,15,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,6,8,0,1,0,1,2,4,5.8,N,1,0,josh-leblanc-1,Josh LeBlanc,2021
+23,62,27,2021-03-14,Louisiana State,N,Alabama,CTOURN,L 79-80,,9,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,0,2,0,-0.5,N,0,0,josh-leblanc-1,Josh LeBlanc,2021
+24,63,28,2021-03-20,Louisiana State,N,St. Bonaventure,ROUND-64,W 76-61,,13,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,3,5,0,0,0,0,2,3,3.1,N,1,0,josh-leblanc-1,Josh LeBlanc,2021
+25,64,29,2021-03-22,Louisiana State,N,Michigan,ROUND-32,L 78-86,,18,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,2,1,3,0,0,0,0,4,2,1.4,N,0,0,josh-leblanc-1,Josh LeBlanc,2021

@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2025-11-03,Gonzaga,,Texas Southern,REG (Non-Conf),W 98-43,*,18,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,3,4,0,1,0,2,1,5,3.2,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+2,68,2,2025-11-08,Gonzaga,,Oklahoma,REG (Non-Conf),W 83-68,*,25,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,0,1,3,0,0,0,1,3,4.4,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+3,69,3,2025-11-11,Gonzaga,,Creighton,REG (Non-Conf),W 90-63,*,20,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,3,4,3,1,0,0,4,5,6.1,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+4,70,4,2025-11-14,Gonzaga,@,Arizona State,REG (Non-Conf),W 77-65,*,17,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,2,3,0,0,0,1,2,7,3.5,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+5,71,5,2025-11-17,Gonzaga,,Southern Utah,REG (Non-Conf),W 122-50,,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,3,3,0,0,0,1,1,4,1.5,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+6,72,6,2025-11-24,Gonzaga,N,Alabama,REG (Non-Conf),W 95-85,,12,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,2,0,2,1,2,0,2,2,4,4.0,N,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+7,73,7,2025-11-25,Gonzaga,N,Maryland,REG (Non-Conf),W 100-61,,18,5,7,0.714,5,7,0.714,0,0,,1.071,0,0,,3,2,5,2,1,0,0,3,15,16.0,N,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+8,74,8,2025-11-26,Gonzaga,N,Michigan,REG (Non-Conf),L 61-101,,23,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,0,1,1,0,0,0,0,0,6,4.0,N,0,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+9,75,9,2025-12-05,Gonzaga,N,Kentucky,REG (Non-Conf),W 94-59,*,23,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,5,6,6,0,0,0,2,5,10.0,N,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+10,76,10,2025-12-07,Gonzaga,,North Florida,REG (Non-Conf),W 109-58,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,3,1,0,0,2,2,3.3,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+11,77,11,2025-12-13,Gonzaga,N,UCLA,REG (Non-Conf),W 82-72,*,21,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,3,1,4,1,0,0,2,0,0,-1.0,N,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+12,78,12,2025-12-17,Gonzaga,,Campbell,REG (Non-Conf),W 98-70,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,3,0,1,1,3,4,3.2,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+13,79,13,2025-12-21,Gonzaga,N,Oregon,REG (Non-Conf),W 91-82,*,26,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,3,0,3,2,1,0,1,1,0,1.0,N,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+14,80,14,2025-12-28,Gonzaga,@,Pepperdine,REG (Conf),W 96-56,*,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,1,1,2,0,1,0,0,1,2,0.5,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+15,81,15,2025-12-30,Gonzaga,@,San Diego,REG (Conf),W 99-93,*,17,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,2,0.0,0,0,0,1,0,0,2,2,7,1.8,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+16,82,16,2026-01-02,Gonzaga,,Seattle,REG (Conf),W 80-72 (OT),*,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,1,0,1,0,1,0,0.5,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+17,83,17,2026-01-04,Gonzaga,,Loyola Marymount,REG (Conf),W 82-47,,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,1,0.0,0,0,0,0,1,0,0,0,4,2.6,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+18,84,18,2026-01-08,Gonzaga,,Santa Clara,REG (Conf),W 89-77,*,20,4,4,1.0,1,1,1.0,3,3,1.0,1.125,4,7,0.571,1,3,4,1,0,0,1,4,13,10.3,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+19,85,19,2026-01-15,Gonzaga,@,Washington State,REG (Conf),W 86-65,*,24,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,2,3,5,3,2,0,0,1,9,12.7,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+20,86,20,2026-01-17,Gonzaga,@,Seattle,REG (Conf),W 71-50,*,25,3,7,0.429,1,4,0.25,2,3,0.667,0.5,0,0,,1,3,4,1,2,0,1,2,7,5.8,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+21,87,21,2026-01-21,Gonzaga,,Pepperdine,REG (Conf),W 84-60,*,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,1,2,0,2,1,1,2,2,2.2,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+22,88,22,2026-01-24,Gonzaga,,San Francisco,REG (Conf),W 68-66,*,24,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,4,5,0,3,0,0,0,4,6.2,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+23,89,23,2026-01-31,Gonzaga,,St. Mary's (CA),REG (Conf),W 73-65,*,27,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,3,2,5,2,1,1,0,3,10,9.9,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+24,90,24,2026-02-04,Gonzaga,@,Portland,REG (Conf),L 80-87,*,14,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,2,2,1,0,0,0,0,0,-2.2,A,0,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+25,91,25,2026-02-07,Gonzaga,@,Oregon State,REG (Conf),W 81-61,*,37,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,1,5,6,2,1,1,0,2,4,5.8,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+26,92,26,2026-02-10,Gonzaga,,Washington State,REG (Conf),W 83-53,*,25,4,6,0.667,1,1,1.0,3,5,0.6,0.75,0,0,,2,2,4,2,3,0,0,2,9,12.0,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+27,93,27,2026-02-14,Gonzaga,@,Santa Clara,REG (Conf),W 94-86,*,39,6,11,0.545,0,3,0.0,6,8,0.75,0.545,4,5,0.8,5,1,6,2,1,0,1,0,16,15.5,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+28,94,28,2026-02-18,Gonzaga,@,San Francisco,REG (Conf),W 80-59,*,36,6,11,0.545,0,3,0.0,6,8,0.75,0.545,0,0,,2,6,8,2,4,0,0,3,12,14.1,A,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+29,95,29,2026-02-21,Gonzaga,,Pacific,REG (Conf),W 71-62,*,34,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,6,0.5,2,2,4,0,0,2,0,3,13,11.4,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+30,96,30,2026-02-25,Gonzaga,,Portland,REG (Conf),W 89-48,,24,2,6,0.333,1,4,0.25,1,2,0.5,0.417,3,3,1.0,3,1,4,3,1,0,0,2,8,9.3,H,1,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+31,97,31,2026-02-28,Gonzaga,@,St. Mary's (CA),REG (Conf),L 59-70,*,37,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,2,0.0,3,6,9,4,1,0,0,1,7,9.1,A,0,1,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+32,98,32,2026-03-09,Gonzaga,N,Oregon State,CTOURN,W 65-56,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,2,4,6,2,1,1,0,2,2,4.5,N,1,0,emmanuel-innocenti-1,Emmanuel Innocenti,2026
+33,99,33,2026-03-10,Gonzaga,N,Santa Clara,CTOURN,W 79-68,*,38,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,3,2,5,4,1,1,1,2,4,5.9,N,1,0,emmanuel-innocenti-1,Emmanuel Innocenti,2026

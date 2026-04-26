@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,20,1,2018-11-06,Arizona State,,Cal State Fullerton,REG (Non-Conf),W 102-94 (2OT),*,36,4,10,0.4,3,6,0.5,1,4,0.25,0.55,5,6,0.833,3,3,6,2,0,0,1,3,16,12.4,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+2,21,2,2018-11-09,Arizona State,,McNeese State,REG (Non-Conf),W 80-52,*,28,6,12,0.5,2,4,0.5,4,8,0.5,0.583,2,2,1.0,2,4,6,1,1,0,2,2,16,11.5,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+3,22,3,2018-11-12,Arizona State,,Long Beach State,REG (Non-Conf),W 90-58,*,26,5,14,0.357,1,4,0.25,4,10,0.4,0.393,2,2,1.0,1,2,3,2,1,0,0,2,13,8.1,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+4,23,4,2018-11-19,Arizona State,N,Mississippi State,REG (Non-Conf),W 72-67,*,34,9,14,0.643,3,5,0.6,6,9,0.667,0.75,1,1,1.0,1,4,5,1,1,0,1,2,22,17.6,N,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+5,24,5,2018-11-21,Arizona State,N,Utah State,REG (Non-Conf),W 87-82,*,36,1,8,0.125,1,4,0.25,0,4,0.0,0.188,7,8,0.875,0,2,2,2,0,0,3,4,10,1.8,N,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+6,25,6,2018-11-28,Arizona State,,Omaha,REG (Non-Conf),W 89-71,*,39,7,12,0.583,4,6,0.667,3,6,0.5,0.75,0,0,,2,2,4,5,2,2,4,0,18,17.3,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+7,26,7,2018-12-01,Arizona State,,Texas Southern,REG (Non-Conf),W 83-71,*,39,4,11,0.364,0,5,0.0,4,6,0.667,0.364,5,6,0.833,2,6,8,5,0,1,3,2,13,10.1,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+8,27,8,2018-12-07,Arizona State,N,Nevada,REG (Non-Conf),L 66-72,*,11,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,3,0.667,0,1,1,1,0,0,2,5,8,2.3,N,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+9,28,9,2018-12-15,Arizona State,@,Georgia,REG (Non-Conf),W 76-74,*,33,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,0,0,0,0,1,0,1,2,8,2.1,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+10,29,10,2018-12-17,Arizona State,@,Vanderbilt,REG (Non-Conf),L 65-81,*,30,3,12,0.25,1,4,0.25,2,8,0.25,0.292,0,0,,3,5,8,1,1,0,2,3,7,1.9,A,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+11,30,11,2018-12-22,Arizona State,,Kansas,REG (Non-Conf),W 80-76,*,25,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,2,3,1,1,0,1,1,7,4.9,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+12,31,12,2018-12-29,Arizona State,,Princeton,REG (Non-Conf),L 66-67,*,23,0,5,0.0,0,2,0.0,0,3,0.0,0.0,5,7,0.714,0,3,3,1,0,1,1,2,5,1.2,H,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+13,32,13,2019-01-03,Arizona State,,Utah,REG (Conf),L 86-96,*,16,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,4,0.5,0,3,3,1,0,0,1,3,2,-2.2,H,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+14,33,14,2019-01-05,Arizona State,,Colorado,REG (Conf),W 83-61,*,23,3,6,0.5,2,5,0.4,1,1,1.0,0.667,3,4,0.75,0,3,3,2,1,0,1,4,11,8.3,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+15,34,15,2019-01-09,Arizona State,@,California,REG (Conf),W 80-66,*,19,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,2,0.5,1,3,4,1,1,0,0,3,3,2.3,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+16,35,16,2019-01-12,Arizona State,@,Stanford,REG (Conf),L 71-85,,26,4,7,0.571,0,1,0.0,4,6,0.667,0.571,2,4,0.5,3,3,6,0,0,0,1,3,10,6.7,A,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+17,36,17,2019-01-17,Arizona State,,Oregon State,REG (Conf),W 70-67,,13,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,2,0.5,0,1,1,1,0,0,0,2,5,2.1,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+18,37,18,2019-01-19,Arizona State,,Oregon,REG (Conf),W 78-64,,23,3,5,0.6,1,3,0.333,2,2,1.0,0.7,3,3,1.0,1,3,4,1,2,1,1,2,10,10.9,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+19,38,19,2019-01-24,Arizona State,@,UCLA,REG (Conf),W 84-73,,21,4,10,0.4,1,5,0.2,3,5,0.6,0.45,6,6,1.0,2,3,5,1,1,0,1,4,15,11.0,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+20,39,20,2019-01-26,Arizona State,@,Southern California,REG (Conf),L 67-69,,32,2,9,0.222,1,3,0.333,1,6,0.167,0.278,5,5,1.0,1,3,4,2,2,0,4,3,10,4.3,A,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+21,40,21,2019-01-31,Arizona State,,Arizona,REG (Conf),W 95-88 (OT),,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,2,3,2,-2.9,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+22,41,22,2019-02-07,Arizona State,,Washington State,REG (Conf),L 70-91,,22,5,13,0.385,0,4,0.0,5,9,0.556,0.385,3,7,0.429,5,3,8,0,1,0,0,4,13,8.1,H,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+23,42,23,2019-02-09,Arizona State,,Washington,REG (Conf),W 75-63,,15,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,2,2,0,0,0,5,4,7,-1.3,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+24,43,24,2019-02-13,Arizona State,@,Colorado,REG (Conf),L 73-77,,25,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,0,3,3,0,0,1,0,3,9,7.8,A,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+25,44,25,2019-02-16,Arizona State,@,Utah,REG (Conf),W 98-87,,24,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,2,3,1,0,1,1,3,2,0.1,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+26,45,26,2019-02-20,Arizona State,,Stanford,REG (Conf),W 80-62,,21,3,3,1.0,1,1,1.0,2,2,1.0,1.167,0,1,0.0,1,2,3,0,0,0,1,2,7,5.2,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+27,46,27,2019-02-24,Arizona State,,California,REG (Conf),W 69-59,,10,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,2,3,1,0,0,0,1,2,1.9,H,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+28,47,28,2019-02-28,Arizona State,@,Oregon,REG (Conf),L 51-79,,20,0,3,0.0,0,3,0.0,0,0,,0.0,1,2,0.5,1,0,1,0,0,0,1,2,1,-2.6,A,0,1,kimani-lawrence-1,Kimani Lawrence,2019
+29,48,29,2019-03-03,Arizona State,@,Oregon State,REG (Conf),W 74-71,,27,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,0,0,0,3,0,-0.6,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+30,49,30,2019-03-09,Arizona State,@,Arizona,REG (Conf),W 72-64,,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,3,4,0.75,0,2,2,0,2,1,1,3,10,9.1,A,1,1,kimani-lawrence-1,Kimani Lawrence,2019
+31,50,31,2019-03-14,Arizona State,N,UCLA,CTOURN,W 83-72,,22,4,8,0.5,1,1,1.0,3,7,0.429,0.563,0,0,,3,2,5,0,0,0,0,0,9,7.7,N,1,0,kimani-lawrence-1,Kimani Lawrence,2019
+32,51,32,2019-03-15,Arizona State,N,Oregon,CTOURN,L 75-79 (OT),,32,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,1,3,4,3,1,0,2,2,7,6.6,N,0,0,kimani-lawrence-1,Kimani Lawrence,2019
+33,52,33,2019-03-20,Arizona State,N,St. John's (NY),FIRST-FOUR,W 74-65,,28,2,3,0.667,1,2,0.5,1,1,1.0,0.833,1,2,0.5,0,2,2,3,0,0,1,2,6,5.2,N,1,0,kimani-lawrence-1,Kimani Lawrence,2019
+34,53,34,2019-03-22,Arizona State,N,Buffalo,ROUND-64,L 74-91,,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,2,2,1,0,0,2,5,9,3.3,N,0,0,kimani-lawrence-1,Kimani Lawrence,2019

@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,36,1,2023-11-06,Purdue,,Samford,REG (Non-Conf),W 98-45,*,22,4,7,0.571,4,5,0.8,0,2,0.0,0.857,0,0,,0,4,4,7,1,0,3,2,12,12.0,H,1,1,braden-smith-1,Braden Smith,2024
+2,37,2,2023-11-10,Purdue,,Morehead State,REG (Non-Conf),W 87-57,*,29,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,2,1.0,1,7,8,11,3,0,2,1,11,16.7,H,1,1,braden-smith-1,Braden Smith,2024
+3,38,3,2023-11-13,Purdue,,Xavier,REG (Non-Conf),W 83-71,*,33,6,11,0.545,0,1,0.0,6,10,0.6,0.545,0,0,,0,6,6,7,0,0,3,3,12,9.2,H,1,1,braden-smith-1,Braden Smith,2024
+4,39,4,2023-11-20,Purdue,N,Gonzaga,REG (Non-Conf),W 73-63,*,35,6,8,0.75,0,1,0.0,6,7,0.857,0.75,1,1,1.0,0,4,4,6,5,0,2,0,13,18.2,N,1,1,braden-smith-1,Braden Smith,2024
+5,40,5,2023-11-21,Purdue,N,Tennessee,REG (Non-Conf),W 71-67,*,35,2,9,0.222,0,1,0.0,2,8,0.25,0.222,2,6,0.333,1,4,5,1,3,0,3,0,6,1.5,N,1,1,braden-smith-1,Braden Smith,2024
+6,41,6,2023-11-22,Purdue,N,Marquette,REG (Non-Conf),W 78-75,*,34,7,11,0.636,4,6,0.667,3,5,0.6,0.818,0,1,0.0,1,4,5,5,0,0,2,3,18,14.9,N,1,1,braden-smith-1,Braden Smith,2024
+7,42,7,2023-11-28,Purdue,,Texas Southern,REG (Non-Conf),W 99-67,*,26,6,12,0.5,2,4,0.5,4,8,0.5,0.583,5,5,1.0,1,8,9,10,1,1,2,1,19,22.4,H,1,1,braden-smith-1,Braden Smith,2024
+8,43,8,2023-12-01,Purdue,@,Northwestern,REG (Conf),L 88-92 (OT),*,42,5,12,0.417,0,2,0.0,5,10,0.5,0.417,2,2,1.0,1,6,7,9,1,0,6,4,12,7.8,A,0,1,braden-smith-1,Braden Smith,2024
+9,44,9,2023-12-04,Purdue,,Iowa,REG (Conf),W 87-68,*,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,5,6,8,1,0,1,2,2,6.6,H,1,1,braden-smith-1,Braden Smith,2024
+10,45,10,2023-12-09,Purdue,N,Alabama,REG (Non-Conf),W 92-86,*,37,9,20,0.45,4,7,0.571,5,13,0.385,0.55,5,6,0.833,0,5,5,8,1,0,1,1,27,22.9,N,1,1,braden-smith-1,Braden Smith,2024
+11,46,11,2023-12-16,Purdue,N,Arizona,REG (Non-Conf),W 92-84,*,36,9,15,0.6,4,7,0.571,5,8,0.625,0.733,4,4,1.0,0,4,4,2,3,0,4,1,26,20.3,N,1,1,braden-smith-1,Braden Smith,2024
+12,47,12,2023-12-21,Purdue,,Jacksonville,REG (Non-Conf),W 100-57,*,23,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,3,3,6,3,0,1,1,2,7.7,H,1,1,braden-smith-1,Braden Smith,2024
+13,48,13,2023-12-29,Purdue,,Eastern Kentucky,REG (Non-Conf),W 80-53,*,24,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,0,,0,3,3,8,3,0,3,0,7,10.5,H,1,1,braden-smith-1,Braden Smith,2024
+14,49,14,2024-01-02,Purdue,@,Maryland,REG (Conf),W 67-53,*,36,6,13,0.462,2,3,0.667,4,10,0.4,0.538,0,0,,0,7,7,6,1,0,4,2,14,9.8,A,1,1,braden-smith-1,Braden Smith,2024
+15,50,15,2024-01-05,Purdue,,Illinois,REG (Conf),W 83-78,*,38,4,12,0.333,1,3,0.333,3,9,0.333,0.375,5,6,0.833,2,4,6,6,1,0,4,1,14,10.2,H,1,1,braden-smith-1,Braden Smith,2024
+16,51,16,2024-01-09,Purdue,@,Nebraska,REG (Conf),L 72-88,*,35,3,8,0.375,2,5,0.4,1,3,0.333,0.5,2,2,1.0,2,2,4,7,0,0,2,2,10,9.7,A,0,1,braden-smith-1,Braden Smith,2024
+17,52,17,2024-01-13,Purdue,,Penn State,REG (Conf),W 95-78,*,31,2,5,0.4,2,3,0.667,0,2,0.0,0.6,0,0,,0,4,4,11,1,0,2,0,6,11.2,H,1,1,braden-smith-1,Braden Smith,2024
+18,53,18,2024-01-16,Purdue,@,Indiana,REG (Conf),W 87-66,*,36,2,14,0.143,0,6,0.0,2,8,0.25,0.143,1,2,0.5,1,5,6,9,2,0,2,2,5,3.3,A,1,1,braden-smith-1,Braden Smith,2024
+19,54,19,2024-01-20,Purdue,@,Iowa,REG (Conf),W 84-70,*,39,4,12,0.333,1,5,0.2,3,7,0.429,0.375,0,0,,1,5,6,9,1,1,4,2,9,7.6,A,1,1,braden-smith-1,Braden Smith,2024
+20,55,20,2024-01-23,Purdue,,Michigan,REG (Conf),W 99-67,*,26,4,4,1.0,1,1,1.0,3,3,1.0,1.125,2,2,1.0,1,6,7,10,1,0,2,2,11,17.5,H,1,1,braden-smith-1,Braden Smith,2024
+21,56,21,2024-01-28,Purdue,@,Rutgers,REG (Conf),W 68-60,*,38,7,10,0.7,3,5,0.6,4,5,0.8,0.85,2,3,0.667,0,6,6,2,0,0,2,1,19,15.2,A,1,1,braden-smith-1,Braden Smith,2024
+22,57,22,2024-01-31,Purdue,,Northwestern,REG (Conf),W 105-96 (OT),*,40,3,7,0.429,0,2,0.0,3,5,0.6,0.429,5,8,0.625,0,4,4,16,1,0,2,2,11,16.7,H,1,1,braden-smith-1,Braden Smith,2024
+23,58,23,2024-02-04,Purdue,@,Wisconsin,REG (Conf),W 75-69,*,37,7,15,0.467,0,1,0.0,7,14,0.5,0.467,5,5,1.0,1,5,6,3,2,0,5,4,19,11.0,A,1,1,braden-smith-1,Braden Smith,2024
+24,59,24,2024-02-10,Purdue,,Indiana,REG (Conf),W 79-59,*,36,8,13,0.615,1,2,0.5,7,11,0.636,0.654,2,2,1.0,1,8,9,4,4,0,2,2,19,20.2,H,1,1,braden-smith-1,Braden Smith,2024
+25,60,25,2024-02-15,Purdue,,Minnesota,REG (Conf),W 84-76,*,38,5,7,0.714,2,2,1.0,3,5,0.6,0.857,4,4,1.0,1,7,8,9,4,0,2,1,16,23.8,H,1,1,braden-smith-1,Braden Smith,2024
+26,61,26,2024-02-18,Purdue,@,Ohio State,REG (Conf),L 69-73,*,38,5,12,0.417,0,2,0.0,5,10,0.5,0.417,2,2,1.0,2,4,6,7,0,1,3,0,12,10.8,A,0,1,braden-smith-1,Braden Smith,2024
+27,62,27,2024-02-22,Purdue,,Rutgers,REG (Conf),W 96-68,*,31,5,10,0.5,1,2,0.5,4,8,0.5,0.55,2,2,1.0,0,7,7,5,2,1,4,0,13,12.3,H,1,1,braden-smith-1,Braden Smith,2024
+28,63,28,2024-02-25,Purdue,@,Michigan,REG (Conf),W 84-76,*,39,3,14,0.214,1,5,0.2,2,9,0.222,0.25,4,4,1.0,3,5,8,11,4,0,3,1,11,14.3,A,1,1,braden-smith-1,Braden Smith,2024
+29,64,29,2024-03-02,Purdue,,Michigan State,REG (Conf),W 80-74,*,40,8,11,0.727,4,4,1.0,4,7,0.571,0.909,3,4,0.75,0,9,9,3,1,0,2,2,23,21.1,H,1,1,braden-smith-1,Braden Smith,2024
+30,65,30,2024-03-05,Purdue,@,Illinois,REG (Conf),W 77-71,*,38,5,10,0.5,3,4,0.75,2,6,0.333,0.65,0,0,,1,3,4,6,2,0,3,1,13,12.4,A,1,1,braden-smith-1,Braden Smith,2024
+31,66,31,2024-03-10,Purdue,,Wisconsin,REG (Conf),W 78-70,*,38,4,16,0.25,1,4,0.25,3,12,0.25,0.281,1,2,0.5,1,7,8,10,1,0,2,0,10,8.8,H,1,1,braden-smith-1,Braden Smith,2024
+32,67,32,2024-03-15,Purdue,N,Michigan State,CTOURN,W 67-62,*,26,2,7,0.286,1,1,1.0,1,6,0.167,0.357,0,0,,1,3,4,8,0,1,5,3,5,2.6,N,1,0,braden-smith-1,Braden Smith,2024
+33,68,33,2024-03-16,Purdue,N,Wisconsin,CTOURN,L 75-76 (OT),*,36,3,10,0.3,1,3,0.333,2,7,0.286,0.35,0,0,,0,3,3,10,0,0,2,5,7,5.1,N,0,0,braden-smith-1,Braden Smith,2024
+34,69,34,2024-03-22,Purdue,N,Grambling State,ROUND-64,W 78-50,*,34,4,10,0.4,3,9,0.333,1,1,1.0,0.55,0,0,,1,4,5,10,1,0,0,1,11,15.1,N,1,0,braden-smith-1,Braden Smith,2024
+35,70,35,2024-03-24,Purdue,N,Utah State,ROUND-32,W 106-67,*,22,2,7,0.286,1,2,0.5,1,5,0.2,0.357,0,0,,0,4,4,6,1,0,3,2,5,3.5,N,1,0,braden-smith-1,Braden Smith,2024
+36,71,36,2024-03-29,Purdue,N,Gonzaga,ROUND-16,W 80-68,*,40,6,11,0.545,2,4,0.5,4,7,0.571,0.636,0,0,,2,6,8,15,1,0,2,0,14,21.4,N,1,0,braden-smith-1,Braden Smith,2024
+37,72,37,2024-03-31,Purdue,N,Tennessee,ROUND-8,W 72-66,*,36,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,4,0.5,1,6,7,7,1,0,3,2,9,9.8,N,1,0,braden-smith-1,Braden Smith,2024
+38,73,38,2024-04-06,Purdue,N,NC State,NATIONAL-SEMI,W 63-50,*,40,1,9,0.111,1,5,0.2,0,4,0.0,0.167,0,0,,1,7,8,6,3,0,5,3,3,0.9,N,1,0,braden-smith-1,Braden Smith,2024
+39,74,39,2024-04-08,Purdue,N,Connecticut,NATIONAL-FINAL,L 60-75,*,38,4,12,0.333,1,2,0.5,3,10,0.3,0.375,3,4,0.75,0,3,3,8,2,0,1,2,12,11.5,N,0,0,braden-smith-1,Braden Smith,2024

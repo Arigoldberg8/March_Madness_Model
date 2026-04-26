@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2018-11-09,Kansas State,,Kennesaw State,REG (Non-Conf),W 56-41,,14,2,4,0.5,0,0,2,4,0.5,0.5,2,6,0.333,6,6,12,0,0,2,0,0,6,9.8,H,1,1,austin-trice-1,Austin Trice,2019
+2,2,2,2018-11-12,Kansas State,,Denver,REG (Non-Conf),W 64-56,,13,0,1,0.0,0,0,0,1,0.0,0.0,2,8,0.25,1,2,3,0,0,0,1,3,2,-2.0,H,1,1,austin-trice-1,Austin Trice,2019
+3,3,3,2018-11-16,Kansas State,N,Eastern Kentucky,REG (Non-Conf),W 95-68,,15,3,3,1.0,0,0,3,3,1.0,1.0,0,1,0.0,3,7,10,2,0,0,0,3,6,9.1,N,1,1,austin-trice-1,Austin Trice,2019
+4,4,4,2018-11-18,Kansas State,N,Pennsylvania,REG (Non-Conf),W 64-48,,17,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,3,1,4,0,0,1,1,4,4,3.9,N,1,1,austin-trice-1,Austin Trice,2019
+5,5,5,2018-11-19,Kansas State,N,Missouri,REG (Non-Conf),W 82-67,,7,0,0,,0,0,0,0,,,0,1,0.0,1,0,1,0,0,1,0,1,0,0.6,N,1,1,austin-trice-1,Austin Trice,2019
+6,6,6,2018-11-24,Kansas State,,Lehigh,REG (Non-Conf),W 77-58,,6,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,3,0,3,0,0,0,0,1,0,-0.4,H,1,1,austin-trice-1,Austin Trice,2019
+7,7,7,2018-12-01,Kansas State,@,Marquette,REG (Non-Conf),L 71-83,,13,1,1,1.0,0,0,1,1,1.0,1.0,3,7,0.429,2,0,2,0,0,0,0,2,5,3.7,A,0,1,austin-trice-1,Austin Trice,2019
+8,8,8,2018-12-08,Kansas State,@,Tulsa,REG (Non-Conf),L 46-47,,7,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,2,3,0,0,0,0,0,0,0.6,A,0,1,austin-trice-1,Austin Trice,2019
+9,9,10,2018-12-19,Kansas State,,Southern Mississippi,REG (Non-Conf),W 55-51,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,2,0,2,0,0,0,0,1,0,0.3,H,1,1,austin-trice-1,Austin Trice,2019
+10,10,11,2018-12-22,Kansas State,N,Vanderbilt,REG (Non-Conf),W 69-58,,15,3,5,0.6,0,0,3,5,0.6,0.6,1,5,0.2,0,2,2,0,1,0,1,3,7,2.5,N,1,1,austin-trice-1,Austin Trice,2019
+11,11,12,2018-12-29,Kansas State,,George Mason,REG (Non-Conf),W 59-58,,8,0,0,,0,0,0,0,,,0,0,,0,3,3,0,0,0,0,0,0,0.9,H,1,1,austin-trice-1,Austin Trice,2019
+12,12,13,2019-01-02,Kansas State,,Texas,REG (Conf),L 47-67,,3,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,0,1,austin-trice-1,Austin Trice,2019
+13,13,14,2019-01-05,Kansas State,@,Texas Tech,REG (Conf),L 57-63,,5,0,0,,0,0,0,0,,,0,1,0.0,1,0,1,0,0,0,0,1,0,-0.1,A,0,1,austin-trice-1,Austin Trice,2019
+14,14,15,2019-01-09,Kansas State,,West Virginia,REG (Conf),W 71-69,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,4,0.0,0,1,1,0,0,0,0,1,2,0.0,H,1,1,austin-trice-1,Austin Trice,2019
+15,15,17,2019-01-16,Kansas State,@,Oklahoma,REG (Conf),W 74-61,,1,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,austin-trice-1,Austin Trice,2019
+16,16,18,2019-01-19,Kansas State,,TCU,REG (Conf),W 65-55,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,austin-trice-1,Austin Trice,2019
+17,17,20,2019-01-26,Kansas State,@,Texas A&M,REG (Non-Conf),L 53-65,,3,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,A,0,1,austin-trice-1,Austin Trice,2019
+18,18,21,2019-02-02,Kansas State,@,Oklahoma State,REG (Conf),W 75-57,,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,A,1,1,austin-trice-1,Austin Trice,2019
+19,19,25,2019-02-16,Kansas State,,Iowa State,REG (Conf),L 64-78,,0,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,austin-trice-1,Austin Trice,2019
+20,20,26,2019-02-18,Kansas State,@,West Virginia,REG (Conf),W 65-51,,4,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,austin-trice-1,Austin Trice,2019
+21,21,27,2019-02-23,Kansas State,,Oklahoma State,REG (Conf),W 85-46,,18,3,4,0.75,0,0,3,4,0.75,0.75,6,6,1.0,1,4,5,1,0,1,0,0,12,13.7,H,1,1,austin-trice-1,Austin Trice,2019
+22,22,28,2019-02-25,Kansas State,@,Kansas,REG (Conf),L 49-64,,6,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,1,1,2,-0.1,A,0,1,austin-trice-1,Austin Trice,2019
+23,23,29,2019-03-02,Kansas State,,Baylor,REG (Conf),W 66-60,,8,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,H,1,1,austin-trice-1,Austin Trice,2019
+24,24,30,2019-03-04,Kansas State,@,TCU,REG (Conf),W 64-52,,4,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,A,1,1,austin-trice-1,Austin Trice,2019
+25,25,31,2019-03-09,Kansas State,,Oklahoma,REG (Conf),W 68-53,,20,3,3,1.0,0,0,3,3,1.0,1.0,0,3,0.0,1,6,7,0,0,0,1,0,6,5.4,H,1,1,austin-trice-1,Austin Trice,2019
+26,26,32,2019-03-14,Kansas State,N,TCU,CTOURN,W 70-61,*,6,0,0,,0,0,0,0,,,0,0,,1,1,2,0,1,0,0,1,0,1.6,N,1,0,austin-trice-1,Austin Trice,2019
+27,27,33,2019-03-15,Kansas State,N,Iowa State,CTOURN,L 59-63,,2,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,0,0,austin-trice-1,Austin Trice,2019
+28,28,34,2019-03-22,Kansas State,N,UC Irvine,ROUND-64,L 64-70,,2,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,austin-trice-1,Austin Trice,2019

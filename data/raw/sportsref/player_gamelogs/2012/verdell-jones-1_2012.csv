@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,88,1,2011-11-11,Indiana,,Stony Brook,REG (Non-Conf),W 96-66,*,28,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,1,0,1,7,0,0,1,3,7,6.6,H,1,1,verdell-jones-1,Verdell Jones III,2012
+2,89,2,2011-11-13,Indiana,,Chattanooga,REG (Non-Conf),W 78-53,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,6,7,0.857,0,3,3,2,4,1,5,3,16,13.5,H,1,1,verdell-jones-1,Verdell Jones III,2012
+3,90,3,2011-11-16,Indiana,@,Evansville,REG (Non-Conf),W 94-73,*,25,5,8,0.625,4,4,1.0,1,4,0.25,0.875,3,5,0.6,2,3,5,7,0,2,3,2,17,17.4,A,1,1,verdell-jones-1,Verdell Jones III,2012
+4,91,4,2011-11-19,Indiana,,Savannah State,REG (Non-Conf),W 94-65,*,24,2,7,0.286,0,0,,2,7,0.286,0.286,7,10,0.7,2,2,4,3,1,0,2,2,11,8.0,H,1,1,verdell-jones-1,Verdell Jones III,2012
+5,92,5,2011-11-21,Indiana,,Gardner-Webb,REG (Non-Conf),W 73-49,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,3,6,0.5,0,3,3,4,0,0,2,1,3,2.4,H,1,1,verdell-jones-1,Verdell Jones III,2012
+6,93,6,2011-11-27,Indiana,,Butler,REG (Non-Conf),W 75-59,*,19,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,2,2,4,1,0,0,3,3,2,-1.6,H,1,1,verdell-jones-1,Verdell Jones III,2012
+7,94,7,2011-11-30,Indiana,@,NC State,REG (Non-Conf),W 86-75,*,27,3,6,0.5,0,0,,3,6,0.5,0.5,1,1,1.0,0,2,2,2,3,0,3,2,7,5.2,A,1,1,verdell-jones-1,Verdell Jones III,2012
+8,95,8,2011-12-04,Indiana,,Stetson,REG (Non-Conf),W 84-50,*,27,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,4,1.0,1,1,2,4,0,0,2,0,11,7.7,H,1,1,verdell-jones-1,Verdell Jones III,2012
+9,96,9,2011-12-10,Indiana,,Kentucky,REG (Non-Conf),W 73-72,*,34,2,7,0.286,0,1,0.0,2,6,0.333,0.286,4,5,0.8,2,2,4,3,1,0,5,2,8,2.8,H,1,1,verdell-jones-1,Verdell Jones III,2012
+10,97,10,2011-12-17,Indiana,N,Notre Dame,REG (Non-Conf),W 69-58,*,33,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,3,0.667,1,5,6,1,0,0,2,4,4,-0.2,N,1,1,verdell-jones-1,Verdell Jones III,2012
+11,98,11,2011-12-19,Indiana,,Howard,REG (Non-Conf),W 107-50,*,26,3,7,0.429,2,5,0.4,1,2,0.5,0.571,4,5,0.8,0,4,4,7,1,0,1,1,12,13.6,H,1,1,verdell-jones-1,Verdell Jones III,2012
+12,99,12,2011-12-22,Indiana,,UMBC,REG (Non-Conf),W 89-47,*,17,1,5,0.2,0,2,0.0,1,3,0.333,0.2,1,1,1.0,0,0,0,1,0,0,3,1,3,-2.8,H,1,1,verdell-jones-1,Verdell Jones III,2012
+13,100,13,2011-12-28,Indiana,@,Michigan State,REG (Conf),L 65-80,*,28,5,10,0.5,0,0,,5,10,0.5,0.5,1,2,0.5,0,1,1,3,1,0,2,1,11,6.6,A,0,1,verdell-jones-1,Verdell Jones III,2012
+14,101,14,2011-12-31,Indiana,,Ohio State,REG (Conf),W 74-70,*,34,4,11,0.364,0,2,0.0,4,9,0.444,0.364,6,6,1.0,1,2,3,1,2,0,6,2,14,5.1,H,1,1,verdell-jones-1,Verdell Jones III,2012
+15,102,15,2012-01-05,Indiana,,Michigan,REG (Conf),W 73-71,*,34,3,6,0.5,0,0,,3,6,0.5,0.5,2,4,0.5,0,2,2,6,1,0,4,3,8,4.8,H,1,1,verdell-jones-1,Verdell Jones III,2012
+16,103,16,2012-01-08,Indiana,@,Penn State,REG (Conf),W 88-82,*,18,1,2,0.5,0,0,,1,2,0.5,0.5,3,5,0.6,1,3,4,6,1,0,3,5,5,5.0,A,1,1,verdell-jones-1,Verdell Jones III,2012
+17,104,17,2012-01-12,Indiana,,Minnesota,REG (Conf),L 74-77,*,23,0,6,0.0,0,2,0.0,0,4,0.0,0.0,0,0,,2,1,3,1,1,0,3,3,0,-5.0,H,0,1,verdell-jones-1,Verdell Jones III,2012
+18,105,18,2012-01-15,Indiana,@,Ohio State,REG (Conf),L 63-80,*,27,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,0,2,2,2,0,0,3,1,7,1.2,A,0,1,verdell-jones-1,Verdell Jones III,2012
+19,106,19,2012-01-18,Indiana,@,Nebraska,REG (Conf),L 69-70,*,26,2,4,0.5,0,0,,2,4,0.5,0.5,0,1,0.0,1,5,6,5,0,0,1,3,4,5.1,A,0,1,verdell-jones-1,Verdell Jones III,2012
+20,107,20,2012-01-22,Indiana,,Penn State,REG (Conf),W 73-54,*,31,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,0,0,3,0,0,0,1,4,2.3,H,1,1,verdell-jones-1,Verdell Jones III,2012
+21,108,21,2012-01-26,Indiana,@,Wisconsin,REG (Conf),L 50-57,*,30,6,10,0.6,0,1,0.0,6,9,0.667,0.6,0,0,,0,3,3,2,0,0,2,3,12,6.5,A,0,1,verdell-jones-1,Verdell Jones III,2012
+22,109,22,2012-01-29,Indiana,,Iowa,REG (Conf),W 103-89,*,31,4,10,0.4,0,3,0.0,4,7,0.571,0.4,6,7,0.857,0,2,2,9,0,1,3,2,14,12.0,H,1,1,verdell-jones-1,Verdell Jones III,2012
+23,110,23,2012-02-01,Indiana,@,Michigan,REG (Conf),L 56-68,*,12,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,1,0,0,0.3,A,0,1,verdell-jones-1,Verdell Jones III,2012
+24,111,26,2012-02-15,Indiana,,Northwestern,REG (Conf),W 71-66,,18,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,3,3,4,2,1,0,0,6,10.8,H,1,1,verdell-jones-1,Verdell Jones III,2012
+25,112,27,2012-02-19,Indiana,@,Iowa,REG (Conf),L 66-78,,22,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,2,1,0,-2.5,A,0,1,verdell-jones-1,Verdell Jones III,2012
+26,113,28,2012-02-22,Indiana,,North Carolina Central,REG (Non-Conf),W 75-56,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,5,6,0.833,2,0,2,1,0,0,3,3,9,3.8,H,1,1,verdell-jones-1,Verdell Jones III,2012
+27,114,29,2012-02-26,Indiana,@,Minnesota,REG (Conf),W 69-50,,24,4,7,0.571,1,1,1.0,3,6,0.5,0.643,2,3,0.667,0,7,7,3,0,1,4,0,11,8.2,A,1,1,verdell-jones-1,Verdell Jones III,2012
+28,115,30,2012-02-28,Indiana,,Michigan State,REG (Conf),W 70-55,,24,3,5,0.6,0,0,,3,5,0.6,0.6,6,7,0.857,1,3,4,2,1,0,1,1,12,11.9,H,1,1,verdell-jones-1,Verdell Jones III,2012
+29,116,31,2012-03-04,Indiana,,Purdue,REG (Conf),W 85-74,,21,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,2,2,2,2,2,1,1,7,8.7,H,1,1,verdell-jones-1,Verdell Jones III,2012
+30,117,32,2012-03-08,Indiana,N,Penn State,CTOURN,W 75-58,,6,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,2,0,0,-1.0,N,1,0,verdell-jones-1,Verdell Jones III,2012

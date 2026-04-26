@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2024-11-04,Oklahoma,,Lindenwood,REG (Non-Conf),W 93-60,,26,5,10,0.5,1,4,0.25,4,6,0.667,0.55,5,6,0.833,0,5,5,6,2,0,2,1,16,15.9,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+2,2,2,2024-11-11,Oklahoma,,Northwestern State,REG (Non-Conf),W 73-57,,30,6,11,0.545,0,2,0.0,6,9,0.667,0.545,3,4,0.75,1,1,2,2,4,0,6,0,15,9.7,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+3,3,3,2024-11-16,Oklahoma,,Stetson,REG (Non-Conf),W 85-64,,19,4,12,0.333,2,5,0.4,2,7,0.286,0.417,1,1,1.0,1,2,3,3,1,0,2,0,11,6.6,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+4,4,4,2024-11-21,Oklahoma,,Texas A&M–Commerce,REG (Non-Conf),W 84-56,*,34,7,10,0.7,1,4,0.25,6,6,1.0,0.75,5,6,0.833,1,3,4,5,3,0,4,2,20,18.7,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+5,5,5,2024-11-27,Oklahoma,N,Providence,REG (Non-Conf),W 79-77,*,31,4,8,0.5,0,0,,4,8,0.5,0.5,12,14,0.857,0,4,4,7,4,0,8,5,20,15.3,N,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+6,6,6,2024-11-28,Oklahoma,N,Arizona,REG (Non-Conf),W 82-77,*,33,7,17,0.412,4,7,0.571,3,10,0.3,0.529,8,8,1.0,2,3,5,5,1,0,3,1,26,20.3,N,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+7,7,7,2024-11-29,Oklahoma,N,Louisville,REG (Non-Conf),W 69-64,*,24,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,0,1,1,4,3,0,4,3,10,6.1,N,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+8,8,8,2024-12-03,Oklahoma,,Georgia Tech,REG (Non-Conf),W 76-61,*,24,4,11,0.364,0,3,0.0,4,8,0.5,0.364,10,11,0.909,2,3,5,3,2,0,2,2,18,15.1,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+9,9,9,2024-12-07,Oklahoma,,Alcorn State,REG (Non-Conf),W 94-78,*,29,6,11,0.545,1,5,0.2,5,6,0.833,0.591,1,1,1.0,1,2,3,7,3,0,2,0,14,15.9,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+10,10,10,2024-12-14,Oklahoma,N,Oklahoma State,REG (Non-Conf),W 80-65,*,33,7,13,0.538,1,4,0.25,6,9,0.667,0.577,2,3,0.667,0,3,3,5,1,0,5,2,17,9.9,N,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+11,11,11,2024-12-18,Oklahoma,N,Michigan,REG (Non-Conf),W 87-86,*,34,8,12,0.667,3,4,0.75,5,8,0.625,0.792,11,13,0.846,1,2,3,4,1,0,5,4,30,22.5,N,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+12,12,12,2024-12-22,Oklahoma,,Central Arkansas,REG (Non-Conf),W 89-66,*,32,7,15,0.467,1,5,0.2,6,10,0.6,0.5,4,4,1.0,0,3,3,5,1,0,3,2,19,12.9,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+13,13,13,2024-12-29,Oklahoma,,Prairie View A&M,REG (Non-Conf),W 89-67,*,36,7,11,0.636,0,3,0.0,7,8,0.875,0.636,5,6,0.833,1,4,5,2,3,0,2,0,19,18.0,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+14,14,14,2025-01-04,Oklahoma,@,Alabama,REG (Conf),L 79-107,*,26,5,15,0.333,1,5,0.2,4,10,0.4,0.367,5,8,0.625,0,5,5,3,2,1,3,3,16,8.4,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+15,15,15,2025-01-08,Oklahoma,,Texas A&M,REG (Conf),L 78-80,*,21,4,8,0.5,1,3,0.333,3,5,0.6,0.563,4,5,0.8,2,2,4,3,0,0,4,0,13,8.7,H,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+16,16,16,2025-01-11,Oklahoma,@,Georgia,REG (Conf),L 62-72,*,22,1,11,0.091,0,4,0.0,1,7,0.143,0.091,0,0,,1,2,3,5,0,1,4,3,2,-5.0,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+17,17,17,2025-01-15,Oklahoma,,Texas,REG (Conf),L 73-77,*,34,7,13,0.538,1,3,0.333,6,10,0.6,0.577,5,8,0.625,0,5,5,2,2,0,6,2,20,10.6,H,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+18,18,18,2025-01-18,Oklahoma,,South Carolina,REG (Conf),W 82-62,*,33,5,12,0.417,0,4,0.0,5,8,0.625,0.417,6,6,1.0,0,9,9,8,2,0,2,1,16,17.5,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+19,19,19,2025-01-25,Oklahoma,@,Arkansas,REG (Conf),W 65-62,*,32,4,8,0.5,1,1,1.0,3,7,0.429,0.563,7,7,1.0,1,4,5,3,0,0,2,2,16,13.2,A,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+20,20,20,2025-01-28,Oklahoma,@,Texas A&M,REG (Conf),L 68-75,*,19,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,2,0.0,0,0,0,3,1,0,2,3,0,-4.4,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+21,21,21,2025-02-01,Oklahoma,,Vanderbilt,REG (Conf),W 97-67,*,30,8,12,0.667,1,3,0.333,7,9,0.778,0.708,4,4,1.0,2,4,6,4,3,0,5,2,21,18.4,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+22,22,22,2025-02-04,Oklahoma,@,Auburn,REG (Conf),L 70-98,*,25,1,8,0.125,1,3,0.333,0,5,0.0,0.188,7,7,1.0,0,1,1,3,0,0,5,2,10,1.4,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+23,23,23,2025-02-08,Oklahoma,,Tennessee,REG (Conf),L 52-70,*,28,3,8,0.375,0,3,0.0,3,5,0.6,0.375,2,2,1.0,0,1,1,1,2,0,3,1,8,3.2,H,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+24,24,24,2025-02-12,Oklahoma,@,Missouri,REG (Conf),L 58-82,*,29,3,13,0.231,0,4,0.0,3,9,0.333,0.231,2,3,0.667,2,5,7,1,1,1,3,1,8,1.6,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+25,25,25,2025-02-15,Oklahoma,,Louisiana State,REG (Conf),L 79-82,*,31,5,15,0.333,2,5,0.4,3,10,0.3,0.4,3,3,1.0,1,4,5,1,0,0,5,4,15,2.5,H,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+26,26,26,2025-02-18,Oklahoma,@,Florida,REG (Conf),L 63-85,*,34,7,15,0.467,4,8,0.5,3,7,0.429,0.6,4,5,0.8,1,4,5,2,1,0,3,2,22,14.4,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+27,27,27,2025-02-22,Oklahoma,,Mississippi State,REG (Conf),W 93-87,*,37,7,12,0.583,2,5,0.4,5,7,0.714,0.667,11,14,0.786,1,4,5,10,1,1,3,1,27,27.4,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+28,28,28,2025-02-26,Oklahoma,,Kentucky,REG (Conf),L 82-83,*,37,7,18,0.389,0,3,0.0,7,15,0.467,0.389,4,6,0.667,1,7,8,6,1,0,4,1,18,11.0,H,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+29,29,29,2025-03-01,Oklahoma,@,Ole Miss,REG (Conf),L 84-87,*,35,4,14,0.286,0,3,0.0,4,11,0.364,0.286,5,5,1.0,1,4,5,7,1,0,3,3,13,8.4,A,0,1,jeremiah-fears-1,Jeremiah Fears,2025
+30,30,30,2025-03-05,Oklahoma,,Missouri,REG (Conf),W 96-84,*,34,9,13,0.692,1,2,0.5,8,11,0.727,0.731,12,12,1.0,0,4,4,5,1,0,1,2,31,29.4,H,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+31,31,31,2025-03-08,Oklahoma,@,Texas,REG (Conf),W 76-72,*,30,2,14,0.143,0,4,0.0,2,10,0.2,0.143,9,10,0.9,0,2,2,4,1,0,2,2,13,5.2,A,1,1,jeremiah-fears-1,Jeremiah Fears,2025
+32,32,32,2025-03-12,Oklahoma,N,Georgia,CTOURN,W 81-75,*,32,8,16,0.5,4,7,0.571,4,9,0.444,0.625,9,12,0.75,0,6,6,2,3,0,5,3,29,19.8,N,1,0,jeremiah-fears-1,Jeremiah Fears,2025
+33,33,33,2025-03-13,Oklahoma,N,Kentucky,CTOURN,L 84-85,*,34,10,22,0.455,2,11,0.182,8,11,0.727,0.5,6,7,0.857,0,4,4,5,3,0,1,3,28,21.7,N,0,0,jeremiah-fears-1,Jeremiah Fears,2025
+34,34,34,2025-03-21,Oklahoma,N,Connecticut,ROUND-64,L 59-67,*,38,5,14,0.357,2,3,0.667,3,11,0.273,0.429,8,8,1.0,2,3,5,4,2,0,2,1,20,16.9,N,0,0,jeremiah-fears-1,Jeremiah Fears,2025

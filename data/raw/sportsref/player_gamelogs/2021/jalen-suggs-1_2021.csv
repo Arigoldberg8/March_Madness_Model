@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,*,24,9,15,0.6,2,3,0.667,7,12,0.583,0.667,4,5,0.8,1,3,4,8,2,0,1,3,24,23.7,N,1,1,jalen-suggs-1,Jalen Suggs,2021
+2,2,2,2020-11-27,Gonzaga,N,Auburn,REG (Non-Conf),W 90-67,*,26,6,9,0.667,0,2,0.0,6,7,0.857,0.667,0,1,0.0,0,4,4,6,2,1,2,4,12,12.2,N,1,1,jalen-suggs-1,Jalen Suggs,2021
+3,3,3,2020-12-02,Gonzaga,N,West Virginia,REG (Non-Conf),W 87-82,*,26,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,5,6,5,3,1,2,3,4,6.8,N,1,1,jalen-suggs-1,Jalen Suggs,2021
+4,4,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,*,33,8,17,0.471,7,10,0.7,1,7,0.143,0.676,4,7,0.571,1,6,7,4,3,1,7,2,27,18.3,N,1,1,jalen-suggs-1,Jalen Suggs,2021
+5,5,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,*,23,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,4,0.5,0,7,7,7,1,0,2,2,12,13.8,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+6,6,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,*,30,8,12,0.667,1,4,0.25,7,8,0.875,0.708,2,3,0.667,0,6,6,5,3,1,4,0,19,18.4,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+7,7,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,*,29,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,2,5,7,6,4,0,1,2,8,13.6,N,1,1,jalen-suggs-1,Jalen Suggs,2021
+8,8,10,2021-01-02,Gonzaga,,San Francisco,REG (Conf),W 85-62,*,22,3,7,0.429,0,2,0.0,3,5,0.6,0.429,1,1,1.0,0,3,3,2,1,0,2,5,7,2.6,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+9,9,11,2021-01-07,Gonzaga,,Brigham Young,REG (Conf),W 86-69,*,30,6,12,0.5,1,3,0.333,5,9,0.556,0.542,3,4,0.75,0,5,5,5,4,1,3,2,16,15.5,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+10,10,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,*,22,3,5,0.6,0,2,0.0,3,3,1.0,0.6,5,8,0.625,0,2,2,3,3,0,2,4,11,9.6,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+11,11,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,*,25,8,13,0.615,1,4,0.25,7,9,0.778,0.654,1,1,1.0,0,3,3,3,2,0,4,3,18,11.9,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+12,12,14,2021-01-16,Gonzaga,@,St. Mary's (CA),REG (Conf),W 73-59,*,26,5,12,0.417,0,3,0.0,5,9,0.556,0.417,4,4,1.0,1,2,3,2,1,1,5,3,14,5.8,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+13,13,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,*,30,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,2,1.0,2,9,11,8,1,0,4,1,9,9.5,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+14,14,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,*,31,5,9,0.556,3,4,0.75,2,5,0.4,0.722,4,5,0.8,1,5,6,3,3,0,3,2,17,15.8,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+15,15,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,*,17,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,5,5,1,1,0,1,5,4,0.8,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+16,16,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,*,39,6,12,0.5,2,6,0.333,4,6,0.667,0.583,5,7,0.714,2,7,9,3,1,0,2,3,19,15.6,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+17,17,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,*,27,10,18,0.556,2,4,0.5,8,14,0.571,0.611,2,4,0.5,0,5,5,3,2,0,2,3,24,17.0,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+18,18,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,*,28,2,5,0.4,1,3,0.333,1,2,0.5,0.5,6,6,1.0,0,5,5,5,2,1,1,2,11,14.2,A,1,1,jalen-suggs-1,Jalen Suggs,2021
+19,19,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,2,2,1.0,0,2,2,5,1,0,2,2,8,7.3,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+20,20,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,*,28,7,14,0.5,0,3,0.0,7,11,0.636,0.5,3,5,0.6,1,6,7,1,0,0,4,1,17,8.0,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+21,21,23,2021-02-25,Gonzaga,,Santa Clara,REG (Conf),W 89-75,*,34,4,10,0.4,0,1,0.0,4,9,0.444,0.4,5,7,0.714,3,8,11,8,2,0,4,4,13,13.3,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+22,22,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,*,33,3,7,0.429,0,2,0.0,3,5,0.6,0.429,6,7,0.857,0,2,2,7,2,0,4,1,12,11.0,H,1,1,jalen-suggs-1,Jalen Suggs,2021
+23,23,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,*,32,7,9,0.778,1,3,0.333,6,6,1.0,0.833,0,0,,1,6,7,3,2,0,3,4,15,13.5,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+24,24,26,2021-03-09,Gonzaga,N,Brigham Young,CTOURN,W 88-78,*,33,7,15,0.467,4,7,0.571,3,8,0.375,0.6,5,8,0.625,0,5,5,5,1,1,1,2,23,19.0,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+25,25,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,*,18,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,2,1.0,0,4,4,2,1,1,4,3,6,0.3,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+26,26,28,2021-03-22,Gonzaga,N,Oklahoma,ROUND-32,W 87-71,*,35,5,13,0.385,1,6,0.167,4,7,0.571,0.423,5,6,0.833,1,2,3,3,3,0,4,3,16,9.7,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+27,27,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,*,34,3,7,0.429,0,2,0.0,3,5,0.6,0.429,3,3,1.0,0,5,5,6,2,0,6,0,9,7.0,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+28,28,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,*,35,7,11,0.636,2,4,0.5,5,7,0.714,0.727,2,2,1.0,1,9,10,8,0,0,3,3,18,17.9,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+29,29,31,2021-04-03,Gonzaga,N,UCLA,NATIONAL-SEMI,W 93-90 (OT),*,40,6,12,0.5,2,5,0.4,4,7,0.571,0.583,2,2,1.0,0,5,5,6,2,1,2,3,16,15.2,N,1,0,jalen-suggs-1,Jalen Suggs,2021
+30,30,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,*,33,8,15,0.533,2,5,0.4,6,10,0.6,0.6,4,6,0.667,0,1,1,3,2,0,3,3,22,14.1,N,0,0,jalen-suggs-1,Jalen Suggs,2021

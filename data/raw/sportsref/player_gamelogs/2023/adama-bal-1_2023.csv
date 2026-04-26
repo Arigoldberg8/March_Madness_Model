@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,24,1,2022-11-07,Arizona,,Nicholls State,REG (Non-Conf),W 117-75,,17,4,5,0.8,3,4,0.75,1,1,1.0,1.1,3,4,0.75,0,3,3,0,2,0,1,1,14,13.2,H,1,1,adama-bal-1,Adama Bal,2023
+2,25,2,2022-11-11,Arizona,,Southern,REG (Non-Conf),W 95-78,,22,2,6,0.333,1,4,0.25,1,2,0.5,0.417,4,8,0.5,0,5,5,1,0,0,1,0,9,5.2,H,1,1,adama-bal-1,Adama Bal,2023
+3,26,3,2022-11-17,Arizona,,Utah Tech,REG (Non-Conf),W 104-77,,19,0,2,0.0,0,1,0.0,0,1,0.0,0.0,3,3,1.0,0,1,1,2,0,0,0,1,3,2.9,H,1,1,adama-bal-1,Adama Bal,2023
+4,27,4,2022-11-21,Arizona,N,Cincinnati,REG (Non-Conf),W 101-93,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,1,adama-bal-1,Adama Bal,2023
+5,28,5,2022-11-22,Arizona,N,San Diego State,REG (Non-Conf),W 87-70,,14,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,2,3,2,1,1,2,2,0,0.9,N,1,1,adama-bal-1,Adama Bal,2023
+6,29,6,2022-11-23,Arizona,N,Creighton,REG (Non-Conf),W 81-79,,15,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,N,1,1,adama-bal-1,Adama Bal,2023
+7,30,7,2022-12-01,Arizona,@,Utah,REG (Conf),L 66-81,,8,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,0,1,1,1,0,2,1,0,-1.4,A,0,1,adama-bal-1,Adama Bal,2023
+8,31,8,2022-12-04,Arizona,,California,REG (Conf),W 81-68,,8,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,1,0,0,0,0,2,1.0,H,1,1,adama-bal-1,Adama Bal,2023
+9,32,9,2022-12-10,Arizona,N,Indiana,REG (Non-Conf),W 89-75,,13,3,4,0.75,3,3,1.0,0,1,0.0,1.125,0,0,,0,1,1,1,1,0,0,2,9,8.6,N,1,1,adama-bal-1,Adama Bal,2023
+10,33,10,2022-12-13,Arizona,,Texas A&M–Corpus Christi,REG (Non-Conf),W 99-61,,20,2,6,0.333,2,6,0.333,0,0,,0.5,0,0,,0,1,1,1,0,0,1,2,6,1.8,H,1,1,adama-bal-1,Adama Bal,2023
+11,34,11,2022-12-17,Arizona,,Tennessee,REG (Non-Conf),W 75-70,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,H,1,1,adama-bal-1,Adama Bal,2023
+12,35,12,2022-12-20,Arizona,,Montana State,REG (Non-Conf),W 85-64,,3,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,H,1,1,adama-bal-1,Adama Bal,2023
+13,36,13,2022-12-22,Arizona,,Morgan State,REG (Non-Conf),W 93-68,,12,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,1,1,2,1,1,0,2,2,6,2.2,H,1,1,adama-bal-1,Adama Bal,2023
+14,37,14,2022-12-31,Arizona,@,Arizona State,REG (Conf),W 69-60,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,0,0,0,0,0,0.0,A,1,1,adama-bal-1,Adama Bal,2023
+15,38,15,2023-01-05,Arizona,,Washington,REG (Conf),W 70-67,,2,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,H,1,1,adama-bal-1,Adama Bal,2023
+16,39,16,2023-01-07,Arizona,,Washington State,REG (Conf),L 61-74,,4,0,0,,0,0,,0,0,,,0,0,,0,2,2,0,0,0,0,0,0,0.6,H,0,1,adama-bal-1,Adama Bal,2023
+17,40,17,2023-01-12,Arizona,@,Oregon State,REG (Conf),W 86-74,,8,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,0,0,0,0,0,1,1,3,1.3,A,1,1,adama-bal-1,Adama Bal,2023
+18,41,18,2023-01-14,Arizona,@,Oregon,REG (Conf),L 68-87,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,A,0,1,adama-bal-1,Adama Bal,2023
+19,42,19,2023-01-19,Arizona,,Southern California,REG (Conf),W 81-66,,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,0,0,1.0,H,1,1,adama-bal-1,Adama Bal,2023
+20,43,22,2023-01-28,Arizona,@,Washington,REG (Conf),W 95-72,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,adama-bal-1,Adama Bal,2023
+21,44,24,2023-02-04,Arizona,,Oregon State,REG (Conf),W 84-52,,10,2,4,0.5,2,3,0.667,0,1,0.0,0.75,2,2,1.0,1,1,2,1,1,0,0,1,8,8.3,H,1,1,adama-bal-1,Adama Bal,2023
+22,45,25,2023-02-09,Arizona,@,California,REG (Conf),W 85-62,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,A,1,1,adama-bal-1,Adama Bal,2023
+23,46,27,2023-02-16,Arizona,,Utah,REG (Conf),W 88-62,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,H,1,1,adama-bal-1,Adama Bal,2023
+24,47,30,2023-03-02,Arizona,@,Southern California,REG (Conf),W 87-81,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,adama-bal-1,Adama Bal,2023
+25,48,33,2023-03-10,Arizona,N,Arizona State,CTOURN,W 78-59,,1,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,0,2,1.7,N,1,0,adama-bal-1,Adama Bal,2023
+26,49,34,2023-03-11,Arizona,N,UCLA,CTOURN,W 61-59,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,N,1,0,adama-bal-1,Adama Bal,2023

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2021-11-09,Purdue,,Bellarmine,REG (Non-Conf),W 96-67,*,24,6,8,0.75,5,6,0.833,1,2,0.5,1.063,6,7,0.857,0,2,2,3,0,0,0,2,23,21.3,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+2,93,2,2021-11-12,Purdue,,Indiana State,REG (Non-Conf),W 92-67,*,27,2,7,0.286,2,5,0.4,0,2,0.0,0.429,0,0,,0,1,1,4,0,0,2,1,6,2.6,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+3,94,3,2021-11-16,Purdue,,Wright State,REG (Non-Conf),W 96-52,*,25,4,8,0.5,4,8,0.5,0,0,,0.75,0,0,,0,4,4,0,1,0,1,1,12,8.8,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+4,95,4,2021-11-20,Purdue,N,North Carolina,REG (Non-Conf),W 93-84,*,35,7,13,0.538,5,11,0.455,2,2,1.0,0.731,4,4,1.0,0,2,2,8,0,0,1,1,23,21.5,N,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+5,96,5,2021-11-21,Purdue,N,Villanova,REG (Non-Conf),W 80-74,*,33,3,10,0.3,2,7,0.286,1,3,0.333,0.4,2,2,1.0,0,3,3,6,1,0,2,1,10,7.9,N,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+6,97,6,2021-11-26,Purdue,,Omaha,REG (Non-Conf),W 97-40,*,20,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,3,0.667,0,4,4,5,0,0,3,1,5,3.5,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+7,98,7,2021-11-30,Purdue,,Florida State,REG (Non-Conf),W 93-65,*,22,3,8,0.375,3,7,0.429,0,1,0.0,0.563,2,2,1.0,0,1,1,8,0,0,1,2,11,10.7,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+8,99,8,2021-12-03,Purdue,,Iowa,REG (Conf),W 77-70,*,29,2,6,0.333,1,3,0.333,1,3,0.333,0.417,3,3,1.0,0,1,1,2,0,0,1,3,8,4.1,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+9,100,9,2021-12-09,Purdue,@,Rutgers,REG (Conf),L 68-70,*,29,3,10,0.3,2,7,0.286,1,3,0.333,0.4,1,2,0.5,0,2,2,2,0,0,1,3,9,2.6,A,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+10,101,10,2021-12-12,Purdue,N,NC State,REG (Non-Conf),W 82-72 (OT),*,30,3,7,0.429,2,6,0.333,1,1,1.0,0.571,4,4,1.0,0,2,2,2,0,0,2,3,12,7.1,N,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+11,102,11,2021-12-18,Purdue,N,Butler,REG (Non-Conf),W 77-48,*,22,2,3,0.667,2,3,0.667,0,0,,1.0,2,2,1.0,0,4,4,3,0,0,0,1,8,9.6,N,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+12,103,12,2021-12-20,Purdue,,Incarnate Word,REG (Non-Conf),W 79-59,*,20,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,1,1,4,2,0,0,1,8,9.7,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+13,104,13,2021-12-29,Purdue,,Nicholls State,REG (Non-Conf),W 104-90,*,25,5,11,0.455,4,9,0.444,1,2,0.5,0.636,0,0,,1,1,2,4,1,0,3,0,14,10.1,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+14,105,14,2022-01-03,Purdue,,Wisconsin,REG (Conf),L 69-74,*,37,2,8,0.25,1,5,0.2,1,3,0.333,0.313,3,4,0.75,0,2,2,3,0,0,1,2,8,3.7,H,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+15,106,15,2022-01-08,Purdue,@,Penn State,REG (Conf),W 74-67,*,39,5,12,0.417,3,8,0.375,2,4,0.5,0.542,0,0,,0,3,3,6,0,0,1,2,13,9.9,A,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+16,107,16,2022-01-14,Purdue,,Nebraska,REG (Conf),W 92-65,*,27,1,7,0.143,1,7,0.143,0,0,,0.214,6,6,1.0,2,1,3,3,0,1,2,2,9,6.2,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+17,108,17,2022-01-17,Purdue,@,Illinois,REG (Conf),W 96-88 (2OT),*,41,6,11,0.545,5,8,0.625,1,3,0.333,0.773,5,9,0.556,0,8,8,2,0,0,2,1,22,16.5,A,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+18,109,18,2022-01-20,Purdue,@,Indiana,REG (Conf),L 65-68,*,34,3,10,0.3,1,7,0.143,2,3,0.667,0.35,0,0,,0,3,3,0,0,0,0,2,7,1.3,A,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+19,110,19,2022-01-23,Purdue,,Northwestern,REG (Conf),W 80-60,*,38,6,10,0.6,6,10,0.6,0,0,,0.9,4,4,1.0,0,2,2,3,1,0,1,2,22,19.3,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+20,111,20,2022-01-27,Purdue,@,Iowa,REG (Conf),W 83-73,*,35,5,10,0.5,4,9,0.444,1,1,1.0,0.7,0,0,,0,5,5,4,1,0,3,2,14,10.5,A,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+21,112,21,2022-01-30,Purdue,,Ohio State,REG (Conf),W 81-78,*,31,3,7,0.429,2,5,0.4,1,2,0.5,0.571,3,3,1.0,0,3,3,4,0,0,1,1,11,9.6,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+22,113,22,2022-02-02,Purdue,@,Minnesota,REG (Conf),W 88-73,*,38,6,9,0.667,3,6,0.5,3,3,1.0,0.833,0,0,,0,2,2,7,0,1,0,0,15,17.3,A,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+23,114,23,2022-02-05,Purdue,,Michigan,REG (Conf),W 82-76,*,31,4,6,0.667,1,3,0.333,3,3,1.0,0.75,0,0,,0,1,1,2,0,1,0,0,9,8.8,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+24,115,24,2022-02-08,Purdue,,Illinois,REG (Conf),W 84-68,*,36,3,10,0.3,1,6,0.167,2,4,0.5,0.35,0,0,,0,1,1,4,1,0,0,1,7,4.9,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+25,116,25,2022-02-10,Purdue,@,Michigan,REG (Conf),L 58-82,*,27,1,6,0.167,1,5,0.2,0,1,0.0,0.25,0,0,,2,0,2,1,1,2,3,1,3,0.3,A,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+26,117,26,2022-02-13,Purdue,,Maryland,REG (Conf),W 62-61,*,38,5,13,0.385,5,9,0.556,0,4,0.0,0.577,2,2,1.0,0,4,4,1,2,0,2,1,17,11.4,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+27,118,27,2022-02-16,Purdue,@,Northwestern,REG (Conf),W 70-64,*,34,2,7,0.286,1,5,0.2,1,2,0.5,0.357,2,2,1.0,0,1,1,2,0,1,2,3,7,2.1,A,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+28,119,28,2022-02-20,Purdue,,Rutgers,REG (Conf),W 84-72,*,31,3,7,0.429,3,7,0.429,0,0,,0.643,2,2,1.0,0,1,1,3,1,0,1,3,11,8.5,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+29,120,29,2022-02-26,Purdue,@,Michigan State,REG (Conf),L 65-68,*,28,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,3,3,4,0,0,1,1,2,0.5,A,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+30,121,30,2022-03-01,Purdue,@,Wisconsin,REG (Conf),L 67-70,*,37,4,10,0.4,3,7,0.429,1,3,0.333,0.55,0,0,,0,2,2,1,0,0,0,0,11,6.9,A,0,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+31,122,31,2022-03-05,Purdue,,Indiana,REG (Conf),W 69-67,*,38,3,9,0.333,3,6,0.5,0,3,0.0,0.5,6,7,0.857,0,1,1,3,0,0,2,3,15,8.7,H,1,1,sasha-stefanovic-1,Sasha Stefanovic,2022
+32,123,32,2022-03-11,Purdue,N,Penn State,CTOURN,W 69-61,*,23,0,4,0.0,0,3,0.0,0,1,0.0,0.0,2,2,1.0,1,1,2,2,0,0,1,3,2,-0.6,N,1,0,sasha-stefanovic-1,Sasha Stefanovic,2022
+33,124,33,2022-03-12,Purdue,N,Michigan State,CTOURN,W 75-70,*,22,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,0,0,0,0,1,0,1,1,6,2.9,N,1,0,sasha-stefanovic-1,Sasha Stefanovic,2022
+34,125,34,2022-03-13,Purdue,N,Iowa,CTOURN,L 66-75,*,33,1,8,0.125,1,6,0.167,0,2,0.0,0.188,0,0,,0,4,4,1,0,0,1,3,3,-2.5,N,0,0,sasha-stefanovic-1,Sasha Stefanovic,2022
+35,126,35,2022-03-18,Purdue,N,Yale,ROUND-64,W 78-56,*,22,2,8,0.25,2,8,0.25,0,0,,0.375,0,0,,0,0,0,4,0,0,0,0,6,4.0,N,1,0,sasha-stefanovic-1,Sasha Stefanovic,2022
+36,127,36,2022-03-20,Purdue,N,Texas,ROUND-32,W 81-71,*,28,0,4,0.0,0,4,0.0,0,0,,0.0,4,5,0.8,0,5,5,0,0,1,0,0,4,3.0,N,1,0,sasha-stefanovic-1,Sasha Stefanovic,2022
+37,128,37,2022-03-25,Purdue,N,Saint Peter's,ROUND-16,L 64-67,*,36,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,4,4,0,0,0,0,4,11,6.6,N,0,0,sasha-stefanovic-1,Sasha Stefanovic,2022

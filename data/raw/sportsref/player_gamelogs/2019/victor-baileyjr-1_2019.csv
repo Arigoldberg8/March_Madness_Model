@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,37,1,2018-11-06,Oregon,,Portland State,REG (Non-Conf),W 84-57,,27,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,1,1,1,1,0,0,1,7,6.6,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+2,38,2,2018-11-09,Oregon,,Eastern Washington,REG (Non-Conf),W 81-47,,22,2,6,0.333,2,4,0.5,0,2,0.0,0.5,1,1,1.0,2,3,5,2,1,0,1,2,7,6.5,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+3,39,3,2018-11-15,Oregon,N,Iowa,REG (Non-Conf),L 69-77,,20,4,8,0.5,1,2,0.5,3,6,0.5,0.563,3,3,1.0,1,1,2,1,1,0,0,4,12,9.1,N,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+4,40,4,2018-11-16,Oregon,N,Syracuse,REG (Non-Conf),W 80-65,,18,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,2,2,1,0,0,2,1,3,-0.5,N,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+5,41,5,2018-11-20,Oregon,,Green Bay,REG (Non-Conf),W 83-72,,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,5,5,0,0,0,1,1,3,1.4,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+6,42,6,2018-11-26,Oregon,,Texas Southern,REG (Non-Conf),L 84-89,,22,5,8,0.625,3,4,0.75,2,4,0.5,0.813,0,0,,0,0,0,1,2,0,1,0,13,11.1,H,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+7,43,7,2018-12-01,Oregon,@,Houston,REG (Non-Conf),L 61-65,,18,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,1,1.0,1,1,2,2,1,0,1,4,3,2.8,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+8,44,8,2018-12-08,Oregon,,Omaha,REG (Non-Conf),W 84-61,,20,5,6,0.833,4,5,0.8,1,1,1.0,1.167,2,2,1.0,0,6,6,0,2,0,0,0,16,17.6,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+9,45,9,2018-12-12,Oregon,,San Diego,REG (Non-Conf),W 65-55,,18,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,0,0,0,0,0,0,0,0,5,1.5,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+10,46,10,2018-12-15,Oregon,,Boise State,REG (Non-Conf),W 66-54,,22,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,4,1.0,1,2,3,0,0,0,3,0,13,8.7,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+11,47,11,2018-12-18,Oregon,,Florida A&M,REG (Non-Conf),W 71-64,*,33,5,14,0.357,2,9,0.222,3,5,0.6,0.429,4,4,1.0,2,1,3,1,1,0,0,1,16,11.2,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+12,48,12,2018-12-21,Oregon,@,Baylor,REG (Non-Conf),L 47-57,,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,1,1,1,0,0,2,1,7,3.3,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+13,49,13,2018-12-29,Oregon,@,Boise State,REG (Non-Conf),W 62-50,*,23,4,9,0.444,1,4,0.25,3,5,0.6,0.5,0,0,,0,0,0,0,3,0,2,0,9,5.3,A,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+14,50,14,2019-01-05,Oregon,,Oregon State,REG (Conf),L 72-77,*,25,3,6,0.5,2,4,0.5,1,2,0.5,0.667,3,3,1.0,1,1,2,2,1,0,1,0,11,10.4,H,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+15,51,15,2019-01-10,Oregon,,UCLA,REG (Conf),L 84-87 (OT),*,33,7,18,0.389,2,10,0.2,5,8,0.625,0.444,4,4,1.0,2,3,5,3,1,0,2,4,20,12.0,H,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+16,52,16,2019-01-13,Oregon,,Southern California,REG (Conf),W 81-60,*,25,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,0,1,1,1,0,0,0,0,10,7.3,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+17,53,17,2019-01-17,Oregon,@,Arizona,REG (Conf),W 59-54,*,31,5,13,0.385,3,5,0.6,2,8,0.25,0.5,0,0,,0,3,3,2,0,0,1,1,13,6.8,A,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+18,54,18,2019-01-19,Oregon,@,Arizona State,REG (Conf),L 64-78,*,26,0,9,0.0,0,4,0.0,0,5,0.0,0.0,0,0,,0,0,0,3,0,0,2,0,0,-6.2,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+19,55,19,2019-01-24,Oregon,,Washington,REG (Conf),L 56-61,*,24,0,5,0.0,0,1,0.0,0,4,0.0,0.0,3,3,1.0,1,1,2,1,0,0,2,0,3,-0.8,H,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+20,56,20,2019-01-27,Oregon,,Washington State,REG (Conf),W 78-58,,14,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,0,0,0,1,1,6,3.3,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+21,57,21,2019-01-31,Oregon,@,Utah,REG (Conf),W 78-72,,13,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,2,3,1.5,A,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+22,58,22,2019-02-02,Oregon,@,Colorado,REG (Conf),L 51-73,,14,2,9,0.222,0,4,0.0,2,5,0.4,0.222,2,2,1.0,0,2,2,0,1,0,2,1,6,-0.3,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+23,59,23,2019-02-06,Oregon,,California,REG (Conf),W 73-62,,18,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,0,0,0,4,1,0,0,0,6,5.4,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+24,60,24,2019-02-10,Oregon,,Stanford,REG (Conf),W 69-46,,20,4,11,0.364,3,7,0.429,1,4,0.25,0.5,0,0,,0,3,3,1,1,0,2,2,11,4.7,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+25,61,25,2019-02-16,Oregon,@,Oregon State,REG (Conf),L 57-72,,17,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,1,1,0,0,0,5,4.3,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+26,62,26,2019-02-21,Oregon,@,Southern California,REG (Conf),L 49-66,,24,3,8,0.375,1,4,0.25,2,4,0.5,0.438,3,3,1.0,0,2,2,1,0,0,0,2,10,6.1,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+27,63,27,2019-02-23,Oregon,@,UCLA,REG (Conf),L 83-90,,23,4,8,0.5,4,8,0.5,0,0,,0.75,1,2,0.5,2,0,2,2,0,0,0,2,13,10.6,A,0,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+28,64,28,2019-02-28,Oregon,,Arizona State,REG (Conf),W 79-51,,15,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,1,2,3,0,1,0,1,4,6,4.4,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+29,65,29,2019-03-02,Oregon,,Arizona,REG (Conf),W 73-47,,6,1,3,0.333,1,1,1.0,0,2,0.0,0.5,1,2,0.5,1,0,1,0,1,0,1,1,4,2.2,H,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+30,66,30,2019-03-06,Oregon,@,Washington State,REG (Conf),W 72-61,,17,5,8,0.625,4,5,0.8,1,3,0.333,0.875,0,0,,0,3,3,0,0,0,0,1,14,10.9,A,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+31,67,31,2019-03-09,Oregon,@,Washington,REG (Conf),W 55-47,,16,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,2,1,0,-2.8,A,1,1,victor-baileyjr-1,Victor Bailey Jr.,2019
+32,68,32,2019-03-13,Oregon,N,Washington State,CTOURN,W 84-51,,24,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,3,3,1,3,0,0,1,5,7.2,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019
+33,69,33,2019-03-14,Oregon,N,Utah,CTOURN,W 66-54,,14,2,3,0.667,0,0,,2,3,0.667,0.667,3,3,1.0,0,1,1,0,1,0,0,0,7,7.0,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019
+34,70,34,2019-03-15,Oregon,N,Arizona State,CTOURN,W 79-75 (OT),,13,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,2,0,-1.9,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019
+35,71,35,2019-03-16,Oregon,N,Washington,CTOURN,W 68-48,,7,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,4,4,0,0,0,0,1,3,2.8,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019
+36,72,36,2019-03-22,Oregon,N,Wisconsin,ROUND-64,W 72-54,,4,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,0,0,0,0,0,2,0.6,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019
+37,73,37,2019-03-24,Oregon,N,UC Irvine,ROUND-32,W 73-54,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,victor-baileyjr-1,Victor Bailey Jr.,2019

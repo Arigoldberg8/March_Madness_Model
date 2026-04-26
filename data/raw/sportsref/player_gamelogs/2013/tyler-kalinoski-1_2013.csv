@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2012-11-09,Davidson,,Emory,REG (Non-Conf),W 93-67,,23,3,8,0.375,2,4,0.5,1,4,0.25,0.5,1,3,0.333,1,1,2,0,1,0,0,3,9,4.6,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+2,35,2,2012-11-13,Davidson,@,New Mexico,REG (Non-Conf),L 81-86,,27,5,10,0.5,2,4,0.5,3,6,0.5,0.6,0,0,,2,1,3,1,0,0,0,3,12,8.2,A,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+3,36,3,2012-11-17,Davidson,@,Milwaukee,REG (Non-Conf),L 68-73,,24,3,8,0.375,1,5,0.2,2,3,0.667,0.438,7,8,0.875,0,4,4,2,4,0,3,4,14,11.2,A,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+4,37,4,2012-11-22,Davidson,N,Vanderbilt,REG (Non-Conf),W 75-62,*,33,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,0,4,4,3,2,0,1,1,6,5.1,N,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+5,38,5,2012-11-23,Davidson,N,West Virginia,REG (Non-Conf),W 63-60,*,33,2,8,0.25,2,7,0.286,0,1,0.0,0.375,0,0,,1,2,3,1,1,0,2,0,6,2.2,N,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+6,39,6,2012-11-25,Davidson,N,Gonzaga,REG (Non-Conf),L 67-81,,24,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,2,4,0,2,3,2,2.1,N,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+7,40,7,2012-12-01,Davidson,@,Chattanooga,REG (Conf),W 81-55,,23,4,8,0.5,4,8,0.5,0,0,,0.75,3,4,0.75,0,1,1,4,0,0,0,2,15,12.9,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+8,41,8,2012-12-05,Davidson,,Charlotte,REG (Non-Conf),L 69-73,,18,0,0,,0,0,,0,0,,,0,0,,0,0,0,2,1,0,3,2,0,-1.4,H,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+9,42,9,2012-12-08,Davidson,,Wofford,REG (Conf),W 63-56,*,25,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,1,0,1,3,1,0,0,1,11,11.1,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+10,43,10,2012-12-15,Davidson,,UNC Wilmington,REG (Non-Conf),W 77-61,,19,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,2,0,0,0,0,3,3.6,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+11,44,11,2012-12-22,Davidson,@,Drexel,REG (Non-Conf),L 58-69,,27,3,7,0.429,3,7,0.429,0,0,,0.643,0,2,0.0,0,1,1,0,1,0,0,2,9,5.0,A,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+12,45,12,2012-12-29,Davidson,@,Richmond,REG (Non-Conf),W 70-64,,25,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,1,2,3,4,2,0,3,2,7,8.0,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+13,46,13,2013-01-02,Davidson,N,Duke,REG (Non-Conf),L 50-67,,26,3,6,0.5,2,5,0.4,1,1,1.0,0.667,1,2,0.5,0,3,3,1,0,0,1,1,9,5.8,N,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+14,47,14,2013-01-05,Davidson,,UNC Greensboro,REG (Conf),W 85-53,,18,2,7,0.286,2,5,0.4,0,2,0.0,0.429,5,6,0.833,2,4,6,0,1,0,0,2,11,9.3,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+15,48,15,2013-01-12,Davidson,@,Furman,REG (Conf),W 81-73,,16,1,5,0.2,0,4,0.0,1,1,1.0,0.2,1,2,0.5,1,4,5,1,0,0,1,1,3,0.7,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+16,49,16,2013-01-14,Davidson,@,Georgia Southern,REG (Conf),L 57-70,*,31,4,13,0.308,3,10,0.3,1,3,0.333,0.423,0,0,,1,2,3,1,0,0,1,3,11,3.3,A,0,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+17,50,17,2013-01-17,Davidson,,The Citadel,REG (Conf),W 70-38,,23,2,7,0.286,1,5,0.2,1,2,0.5,0.357,0,0,,0,3,3,3,4,0,2,0,5,5.9,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+18,51,18,2013-01-19,Davidson,,College of Charleston,REG (Conf),W 77-68,,14,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,0,0,1,1,0,0,2,3,1.5,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+19,52,19,2013-01-24,Davidson,@,Western Carolina,REG (Conf),W 79-74,,15,3,3,1.0,2,2,1.0,1,1,1.0,1.333,2,3,0.667,1,3,4,1,0,0,0,2,10,10.2,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+20,53,20,2013-01-26,Davidson,@,Appalachian State,REG (Conf),W 79-56,,22,6,8,0.75,3,4,0.75,3,4,0.75,0.938,0,0,,1,3,4,0,0,0,2,1,15,11.0,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+21,54,21,2013-01-31,Davidson,,Samford,REG (Conf),W 71-51,,26,0,6,0.0,0,4,0.0,0,2,0.0,0.0,2,2,1.0,0,5,5,2,0,0,2,2,2,-2.1,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+22,55,22,2013-02-02,Davidson,@,Wofford,REG (Conf),W 68-57,,19,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,2,0,0,2,2,2,-0.8,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+23,56,23,2013-02-07,Davidson,,Western Carolina,REG (Conf),W 73-59,,19,1,5,0.2,1,5,0.2,0,0,,0.3,2,4,0.5,0,1,1,2,0,0,0,1,5,2.4,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+24,57,24,2013-02-09,Davidson,,Appalachian State,REG (Conf),W 87-52,,20,2,5,0.4,2,5,0.4,0,0,,0.6,2,2,1.0,0,0,0,1,0,0,1,1,8,4.6,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+25,58,25,2013-02-14,Davidson,@,College of Charleston,REG (Conf),W 75-59,,13,3,5,0.6,2,4,0.5,1,1,1.0,0.8,0,0,,1,5,6,1,0,0,1,4,8,6.0,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+26,59,26,2013-02-16,Davidson,@,The Citadel,REG (Conf),W 72-57,,24,3,6,0.5,1,4,0.25,2,2,1.0,0.583,3,3,1.0,0,3,3,2,1,0,2,0,10,8.3,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+27,60,27,2013-02-20,Davidson,,Furman,REG (Conf),W 73-36,,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,3,3,2,0,0,1,2,2,0.1,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+28,61,28,2013-02-23,Davidson,,Montana,REG (Non-Conf),W 93-87 (OT),,26,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,2,1,3,0,0,0,1,1,10,7.0,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+29,62,29,2013-02-27,Davidson,@,Elon,REG (Conf),W 69-63,,15,2,3,0.667,2,3,0.667,0,0,,1.0,3,4,0.75,1,2,3,0,1,0,0,2,9,8.8,A,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+30,63,30,2013-03-02,Davidson,,Georgia Southern,REG (Conf),W 83-48,,24,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,0,2,2,3,0,0,1,1,12,10.4,H,1,1,tyler-kalinoski-1,Tyler Kalinoski,2013
+31,64,31,2013-03-09,Davidson,N,Georgia Southern,CTOURN,W 86-59,,24,5,10,0.5,4,9,0.444,1,1,1.0,0.7,0,0,,0,3,3,3,0,0,2,3,14,8.8,N,1,0,tyler-kalinoski-1,Tyler Kalinoski,2013
+32,65,32,2013-03-10,Davidson,N,Appalachian State,CTOURN,W 65-62,,26,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,1,1,3,0,0,1,0,11,9.1,N,1,0,tyler-kalinoski-1,Tyler Kalinoski,2013
+33,66,33,2013-03-11,Davidson,N,College of Charleston,CTOURN,W 74-55,,25,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,4,6,2,0,0,1,3,2,2.8,N,1,0,tyler-kalinoski-1,Tyler Kalinoski,2013
+34,67,34,2013-03-21,Davidson,N,Marquette,ROUND-64,L 58-59,,24,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,4,4,0,0,0,0,1,3,0.7,N,0,0,tyler-kalinoski-1,Tyler Kalinoski,2013

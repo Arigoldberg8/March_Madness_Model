@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2012-11-11,Wisconsin,,Southeastern Louisiana,REG (Non-Conf),W 87-47,,17,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,0,1,1,2,1,0,0,1,8,8.0,H,1,1,sam-dekker-1,Sam Dekker,2013
+2,2,2,2012-11-14,Wisconsin,@,Florida,REG (Non-Conf),L 56-74,,20,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,4,0.5,2,1,3,3,1,0,1,1,11,9.6,A,0,1,sam-dekker-1,Sam Dekker,2013
+3,3,3,2012-11-18,Wisconsin,,Cornell,REG (Non-Conf),W 73-40,,19,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,3,3,6,2,2,1,3,1,7,7.3,H,1,1,sam-dekker-1,Sam Dekker,2013
+4,4,4,2012-11-20,Wisconsin,,Presbyterian,REG (Non-Conf),W 88-43,,15,6,8,0.75,2,4,0.5,4,4,1.0,0.875,2,2,1.0,1,0,1,1,0,0,0,1,16,13.8,H,1,1,sam-dekker-1,Sam Dekker,2013
+5,5,5,2012-11-23,Wisconsin,N,Creighton,REG (Non-Conf),L 74-84,,22,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,2,0.0,3,0,3,2,0,1,1,0,8,6.7,N,0,1,sam-dekker-1,Sam Dekker,2013
+6,6,6,2012-11-24,Wisconsin,N,Arkansas,REG (Non-Conf),W 77-70,,26,7,13,0.538,2,3,0.667,5,10,0.5,0.615,3,4,0.75,1,0,1,0,0,0,1,3,19,10.8,N,1,1,sam-dekker-1,Sam Dekker,2013
+7,7,7,2012-11-28,Wisconsin,,Virginia,REG (Non-Conf),L 54-60,,21,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,0,0,1,1,0,0,4,5,4.1,H,0,1,sam-dekker-1,Sam Dekker,2013
+8,8,8,2012-12-02,Wisconsin,,California,REG (Non-Conf),W 81-56,,24,4,8,0.5,1,3,0.333,3,5,0.6,0.563,1,4,0.25,2,3,5,2,1,0,3,1,10,6.1,H,1,1,sam-dekker-1,Sam Dekker,2013
+9,9,9,2012-12-04,Wisconsin,,Omaha,REG (Non-Conf),W 86-40,,20,4,8,0.5,1,4,0.25,3,4,0.75,0.563,1,2,0.5,3,2,5,3,1,1,1,0,10,11.1,H,1,1,sam-dekker-1,Sam Dekker,2013
+10,10,10,2012-12-08,Wisconsin,@,Marquette,REG (Non-Conf),L 50-60,*,36,2,10,0.2,0,4,0.0,2,6,0.333,0.2,2,5,0.4,4,4,8,1,3,0,3,1,6,2.9,A,0,1,sam-dekker-1,Sam Dekker,2013
+11,11,11,2012-12-12,Wisconsin,,Green Bay,REG (Non-Conf),W 65-54,*,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,2,1.0,2,4,6,1,0,1,0,0,10,10.3,H,1,1,sam-dekker-1,Sam Dekker,2013
+12,12,12,2012-12-22,Wisconsin,,Milwaukee,REG (Non-Conf),W 74-53,*,28,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,2,3,5,3,0,0,1,0,5,5.0,H,1,1,sam-dekker-1,Sam Dekker,2013
+13,13,13,2012-12-29,Wisconsin,,Samford,REG (Non-Conf),W 87-51,,19,4,8,0.5,3,4,0.75,1,4,0.25,0.688,1,2,0.5,1,3,4,4,0,0,0,2,12,11.2,H,1,1,sam-dekker-1,Sam Dekker,2013
+14,14,14,2013-01-03,Wisconsin,,Penn State,REG (Conf),W 60-51,,17,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,0,1,1,0,0,0,0,0,2,-1.5,H,1,1,sam-dekker-1,Sam Dekker,2013
+15,15,15,2013-01-06,Wisconsin,@,Nebraska,REG (Conf),W 47-41,,22,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,1,2,3,0,1,1,2,2,7,4.2,A,1,1,sam-dekker-1,Sam Dekker,2013
+16,16,16,2013-01-12,Wisconsin,,Illinois,REG (Conf),W 74-51,,24,5,9,0.556,3,7,0.429,2,2,1.0,0.722,0,0,,0,4,4,3,1,0,0,1,13,12.6,H,1,1,sam-dekker-1,Sam Dekker,2013
+17,17,17,2013-01-15,Wisconsin,@,Indiana,REG (Conf),W 64-59,,23,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,1,3,4,0,0,1,1,1,10,6.9,A,1,1,sam-dekker-1,Sam Dekker,2013
+18,18,18,2013-01-19,Wisconsin,@,Iowa,REG (Conf),L 66-70,,27,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,1,1.0,3,1,4,4,0,0,5,4,13,8.0,A,0,1,sam-dekker-1,Sam Dekker,2013
+19,19,19,2013-01-22,Wisconsin,,Michigan State,REG (Conf),L 47-49,,13,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,0,0,0,1,0,1,2,3,1.2,H,0,1,sam-dekker-1,Sam Dekker,2013
+20,20,20,2013-01-26,Wisconsin,,Minnesota,REG (Conf),W 45-44,,25,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,3,0.667,1,5,6,0,1,0,1,1,10,7.7,H,1,1,sam-dekker-1,Sam Dekker,2013
+21,21,21,2013-01-29,Wisconsin,@,Ohio State,REG (Conf),L 49-58,,20,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,1,2,0,1,0,0,0,5,4.3,A,0,1,sam-dekker-1,Sam Dekker,2013
+22,22,22,2013-02-03,Wisconsin,@,Illinois,REG (Conf),W 74-68,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,3,2,5,2,0,0,1,0,4,4.4,A,1,1,sam-dekker-1,Sam Dekker,2013
+23,23,23,2013-02-06,Wisconsin,,Iowa,REG (Conf),W 74-70 (2OT),,18,2,4,0.5,1,1,1.0,1,3,0.333,0.625,0,0,,0,2,2,0,0,0,0,2,5,2.8,H,1,1,sam-dekker-1,Sam Dekker,2013
+24,24,24,2013-02-09,Wisconsin,,Michigan,REG (Conf),W 65-62 (OT),,26,5,9,0.556,2,5,0.4,3,4,0.75,0.667,0,0,,1,4,5,1,0,0,4,2,12,5.5,H,1,1,sam-dekker-1,Sam Dekker,2013
+25,25,25,2013-02-14,Wisconsin,@,Minnesota,REG (Conf),L 53-58 (OT),,22,3,7,0.429,2,4,0.5,1,3,0.333,0.571,6,7,0.857,1,3,4,0,1,1,0,2,14,12.4,A,0,1,sam-dekker-1,Sam Dekker,2013
+26,26,26,2013-02-17,Wisconsin,,Ohio State,REG (Conf),W 71-49,,28,5,9,0.556,3,5,0.6,2,4,0.5,0.722,0,0,,1,1,2,0,2,0,0,1,13,11.3,H,1,1,sam-dekker-1,Sam Dekker,2013
+27,27,27,2013-02-20,Wisconsin,@,Northwestern,REG (Conf),W 69-41,,18,4,5,0.8,0,1,0.0,4,4,1.0,0.8,2,2,1.0,0,3,3,1,0,1,0,0,10,10.4,A,1,1,sam-dekker-1,Sam Dekker,2013
+28,28,28,2013-02-26,Wisconsin,,Nebraska,REG (Conf),W 77-46,,22,5,6,0.833,4,5,0.8,1,1,1.0,1.167,5,6,0.833,0,2,2,4,1,1,1,0,19,20.5,H,1,1,sam-dekker-1,Sam Dekker,2013
+29,29,29,2013-03-03,Wisconsin,,Purdue,REG (Conf),L 56-69,,26,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,1,2,3,3,0,2,0,1,10,10.4,H,0,1,sam-dekker-1,Sam Dekker,2013
+30,30,30,2013-03-07,Wisconsin,@,Michigan State,REG (Conf),L 43-58,,23,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,5,0.4,2,3,5,1,0,0,2,2,9,4.3,A,0,1,sam-dekker-1,Sam Dekker,2013
+31,31,31,2013-03-10,Wisconsin,@,Penn State,REG (Conf),W 63-60,,34,3,10,0.3,1,6,0.167,2,4,0.5,0.35,7,8,0.875,0,4,4,1,0,1,0,2,14,9.6,A,1,1,sam-dekker-1,Sam Dekker,2013
+32,32,32,2013-03-15,Wisconsin,N,Michigan,CTOURN,W 68-59,,18,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,1,2,3,2,2,2,0,1,2,4.9,N,1,0,sam-dekker-1,Sam Dekker,2013
+33,33,33,2013-03-16,Wisconsin,N,Indiana,CTOURN,W 68-56,,20,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,1,0.0,0,2,2,0,0,0,0,0,11,7.6,N,1,0,sam-dekker-1,Sam Dekker,2013
+34,34,34,2013-03-17,Wisconsin,N,Ohio State,CTOURN,L 43-50,,22,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,3,0.667,0,3,3,0,1,0,4,1,8,2.1,N,0,0,sam-dekker-1,Sam Dekker,2013
+35,35,35,2013-03-22,Wisconsin,N,Ole Miss,ROUND-64,L 46-57,,20,5,13,0.385,2,10,0.2,3,3,1.0,0.462,2,2,1.0,2,1,3,0,1,0,1,3,14,7.4,N,0,0,sam-dekker-1,Sam Dekker,2013

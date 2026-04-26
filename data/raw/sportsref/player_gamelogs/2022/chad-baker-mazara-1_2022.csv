@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,16,1,2021-11-09,San Diego State,,UC Riverside,REG (Non-Conf),W 66-53,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,5,0.8,0,6,6,0,0,1,0,0,6,5.7,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+2,17,2,2021-11-12,San Diego State,@,Brigham Young,REG (Non-Conf),L 60-66,,7,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,1,1,0,0,0,1,2,2,-2.6,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+3,18,3,2021-11-18,San Diego State,,Arizona State,REG (Non-Conf),W 65-63,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,2,1.0,1,1,2,0,1,1,0,1,4,3.9,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+4,19,4,2021-11-20,San Diego State,,UT Arlington,REG (Non-Conf),W 68-62,,9,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,0,0,0,1,0,1,1,2,2,-0.5,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+5,20,5,2021-11-25,San Diego State,N,Georgetown,REG (Non-Conf),W 73-56,,6,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+6,21,6,2021-11-26,San Diego State,N,Southern California,REG (Non-Conf),L 43-58,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+7,22,7,2021-11-30,San Diego State,,Long Beach State,REG (Non-Conf),W 72-47,,19,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,2,1.0,0,2,2,1,1,2,1,0,7,5.6,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+8,23,8,2021-12-04,San Diego State,@,Michigan,REG (Non-Conf),L 58-72,,8,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,1,1,0,0,0,0,1,7,4.9,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+9,24,9,2021-12-08,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 66-56,,12,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,3,3,2,0,0,1,1,5,3.2,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+10,25,10,2021-12-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 63-53,,8,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,0,2,3,1.5,N,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+11,26,11,2021-12-22,San Diego State,,UC San Diego,REG (Non-Conf),W 78-57,,9,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,0,0,2,2,0,0,0,6,6.4,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+12,27,12,2022-01-01,San Diego State,@,UNLV,REG (Conf),W 62-55,,18,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,0,5,5,0,1,2,3,2,11,8.9,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+13,28,13,2022-01-08,San Diego State,,Colorado State,REG (Conf),W 79-49,,21,4,8,0.5,1,4,0.25,3,4,0.75,0.563,5,6,0.833,2,0,2,2,1,2,1,2,14,13.0,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+14,29,15,2022-01-24,San Diego State,,UNLV,REG (Conf),W 80-55,,9,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,2,2,1,2,1,1,2,2,2.5,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+15,30,16,2022-01-26,San Diego State,@,Utah State,REG (Conf),L 57-75,,17,5,9,0.556,3,5,0.6,2,4,0.5,0.722,2,4,0.5,0,0,0,2,2,1,1,2,15,12.2,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+16,31,17,2022-01-31,San Diego State,,New Mexico,REG (Conf),W 72-47,,11,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,2,2,0,3,0,2,2,8,5.8,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+17,32,18,2022-02-04,San Diego State,@,Colorado State,REG (Conf),L 57-58,,8,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,1,2,0,1,0,0,1,0,-1.2,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+18,33,19,2022-02-06,San Diego State,,Nevada,REG (Conf),W 65-63,,10,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+19,34,20,2022-02-09,San Diego State,@,San Jose State,REG (Conf),W 72-62,,13,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,0,2,2,0,0,2,0,3,8,5.8,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+20,35,21,2022-02-12,San Diego State,,Air Force,REG (Conf),W 76-64,,15,2,5,0.4,2,3,0.667,0,2,0.0,0.6,3,3,1.0,0,0,0,0,0,0,1,1,9,4.9,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+21,36,22,2022-02-15,San Diego State,,Utah State,REG (Conf),W 75-56,,13,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,2,1,0,0,1,6,5.6,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+22,37,23,2022-02-19,San Diego State,@,Fresno State,REG (Conf),W 61-44,,21,6,7,0.857,4,5,0.8,2,2,1.0,1.143,4,4,1.0,0,3,3,1,1,0,1,2,20,18.3,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+23,38,24,2022-02-22,San Diego State,@,Boise State,REG (Conf),L 57-58,,19,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,0,1,1,0,0,0,0,2,7,3.8,A,0,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+24,39,25,2022-02-25,San Diego State,,San Jose State,REG (Conf),W 77-52,,22,6,12,0.5,2,5,0.4,4,7,0.571,0.583,2,2,1.0,1,3,4,1,3,0,1,3,16,13.1,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+25,40,26,2022-02-28,San Diego State,@,Wyoming,REG (Conf),W 73-66,,9,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,1,2,3,1,0,0,2,0,0,-2.8,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+26,41,27,2022-03-03,San Diego State,,Fresno State,REG (Conf),W 65-64 (2OT),,12,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,1,0,0,0,1,2,0.5,H,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+27,42,28,2022-03-05,San Diego State,@,Nevada,REG (Conf),W 79-78,,10,2,4,0.5,0,1,0.0,2,3,0.667,0.5,4,4,1.0,0,2,2,0,0,0,2,3,8,3.4,A,1,1,chad-baker-mazara-1,Chad Baker-Mazara,2022
+28,43,29,2022-03-10,San Diego State,N,Fresno State,CTOURN,W 53-46,,15,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,2,1.0,2,3,5,0,1,0,3,2,11,7.9,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2022
+29,44,30,2022-03-11,San Diego State,N,Colorado State,CTOURN,W 63-58,,14,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,1,2,0,1,1,0,1,2,0.5,N,1,0,chad-baker-mazara-1,Chad Baker-Mazara,2022
+30,45,31,2022-03-12,San Diego State,N,Boise State,CTOURN,L 52-53,,12,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,2,2,0,0,0,0,3,0,-3.4,N,0,0,chad-baker-mazara-1,Chad Baker-Mazara,2022
+31,46,32,2022-03-17,San Diego State,N,Creighton,ROUND-64,L 69-72 (OT),,17,5,8,0.625,1,2,0.5,4,6,0.667,0.688,6,7,0.857,0,3,3,1,0,0,1,1,17,13.2,N,0,0,chad-baker-mazara-1,Chad Baker-Mazara,2022

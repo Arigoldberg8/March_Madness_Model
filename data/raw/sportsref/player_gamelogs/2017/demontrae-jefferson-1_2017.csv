@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,3,2016-11-16,Texas Southern,@,Rice,REG (Non-Conf),W 71-68,,0,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+2,2,9,2016-12-10,Texas Southern,@,Louisville,REG (Non-Conf),L 71-102,*,40,10,30,0.333,3,10,0.3,7,20,0.35,0.383,4,6,0.667,2,1,3,4,0,0,11,2,27,1.9,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+3,3,10,2016-12-13,Texas Southern,@,Cincinnati,REG (Non-Conf),L 58-96,*,40,4,20,0.2,1,7,0.143,3,13,0.231,0.225,4,6,0.667,0,0,0,5,0,0,3,1,13,-0.1,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+4,4,11,2016-12-17,Texas Southern,@,Louisiana State,REG (Non-Conf),L 80-88,*,39,6,17,0.353,2,7,0.286,4,10,0.4,0.412,4,8,0.5,1,1,2,6,0,0,3,3,18,7.9,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+5,5,12,2016-12-18,Texas Southern,@,TCU,REG (Non-Conf),L 59-96,*,37,4,19,0.211,1,9,0.111,3,10,0.3,0.237,6,6,1.0,0,2,2,4,1,0,6,1,15,1.3,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+6,6,13,2016-12-21,Texas Southern,@,Baylor,REG (Non-Conf),L 63-89,*,34,4,18,0.222,1,9,0.111,3,9,0.333,0.25,1,2,0.5,1,0,1,5,0,0,2,3,10,-0.4,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+7,7,14,2017-01-02,Texas Southern,@,Alcorn State,REG (Conf),W 67-65,*,36,5,14,0.357,0,4,0.0,5,10,0.5,0.357,3,6,0.5,0,2,2,2,2,0,3,2,13,4.2,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+8,8,15,2017-01-04,Texas Southern,@,Southern,REG (Conf),W 82-74,*,35,6,15,0.4,2,6,0.333,4,9,0.444,0.467,4,5,0.8,0,3,3,2,0,0,3,1,18,8.4,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+9,9,16,2017-01-07,Texas Southern,@,Prairie View A&M,REG (Conf),W 87-82,*,18,1,4,0.25,1,1,1.0,0,3,0.0,0.375,3,4,0.75,0,0,0,0,1,0,2,0,6,2.2,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+10,10,17,2017-01-14,Texas Southern,,Grambling State,REG (Conf),W 76-55,,33,4,11,0.364,2,5,0.4,2,6,0.333,0.455,3,4,0.75,0,2,2,4,2,0,4,3,13,6.7,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+11,11,18,2017-01-16,Texas Southern,,Jackson State,REG (Conf),W 67-44,,29,2,11,0.182,0,3,0.0,2,8,0.25,0.182,2,2,1.0,0,2,2,5,0,0,1,2,6,1.4,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+12,12,19,2017-01-21,Texas Southern,@,Arkansas–Pine Bluff,REG (Conf),W 70-63,,33,3,6,0.5,2,4,0.5,1,2,0.5,0.667,2,6,0.333,0,3,3,0,2,0,2,5,10,4.3,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+13,13,20,2017-01-23,Texas Southern,@,Mississippi Valley State,REG (Conf),L 89-103 (OT),*,43,6,17,0.353,3,7,0.429,3,10,0.3,0.441,4,10,0.4,0,2,2,2,2,0,2,2,19,8.3,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+14,14,21,2017-01-28,Texas Southern,,Alabama State,REG (Conf),W 70-68,,20,3,10,0.3,1,3,0.333,2,7,0.286,0.35,2,2,1.0,0,1,1,0,0,0,1,1,9,2.1,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+15,15,22,2017-01-30,Texas Southern,,Alabama A&M,REG (Conf),W 92-47,,28,8,11,0.727,2,4,0.5,6,7,0.857,0.818,2,2,1.0,0,0,0,4,0,0,4,1,20,13.9,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+16,16,23,2017-02-04,Texas Southern,,Prairie View A&M,REG (Conf),W 74-61,*,37,4,14,0.286,0,4,0.0,4,10,0.4,0.286,8,8,1.0,1,1,2,2,1,0,4,0,16,7.2,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+17,17,24,2017-02-11,Texas Southern,@,Grambling State,REG (Conf),W 77-70,*,31,1,7,0.143,0,3,0.0,1,4,0.25,0.143,2,3,0.667,0,0,0,3,1,0,3,1,4,-1.2,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+18,18,25,2017-02-13,Texas Southern,@,Jackson State,REG (Conf),L 62-71,*,27,4,9,0.444,0,4,0.0,4,5,0.8,0.444,5,10,0.5,1,2,3,1,1,0,5,3,13,3.1,A,0,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+19,19,26,2017-02-18,Texas Southern,,Arkansas–Pine Bluff,REG (Conf),W 78-40,*,31,6,9,0.667,1,1,1.0,5,8,0.625,0.722,3,4,0.75,4,0,4,4,3,0,2,0,16,18.3,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+20,20,27,2017-02-20,Texas Southern,,Mississippi Valley State,REG (Conf),W 92-61,*,34,5,9,0.556,1,2,0.5,4,7,0.571,0.611,6,7,0.857,2,4,6,7,1,0,5,1,17,15.4,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+21,21,28,2017-02-25,Texas Southern,@,Alabama State,REG (Conf),W 86-73,*,18,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,2,0.0,0,2,2,2,0,0,4,4,7,-1.1,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+22,22,29,2017-02-27,Texas Southern,@,Alabama A&M,REG (Conf),W 74-64,*,38,6,9,0.667,2,3,0.667,4,6,0.667,0.778,9,9,1.0,0,3,3,3,2,0,1,2,23,22.3,A,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+23,23,30,2017-03-02,Texas Southern,,Alcorn State,REG (Conf),W 94-88 (OT),*,45,5,15,0.333,4,8,0.5,1,7,0.143,0.467,3,5,0.6,0,4,4,6,0,0,0,0,17,13.1,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+24,24,31,2017-03-04,Texas Southern,,Southern,REG (Conf),W 82-69,*,38,7,13,0.538,3,6,0.5,4,7,0.571,0.654,5,5,1.0,0,1,1,5,2,0,4,0,22,17.5,H,1,1,demontrae-jefferson-1,Demontrae Jefferson,2017
+25,25,32,2017-03-07,Texas Southern,,Alabama State,CTOURN,W 87-72,*,33,8,14,0.571,2,4,0.5,6,10,0.6,0.643,10,12,0.833,1,3,4,2,1,0,0,2,28,23.8,H,1,0,demontrae-jefferson-1,Demontrae Jefferson,2017
+26,26,33,2017-03-10,Texas Southern,N,Grambling State,CTOURN,W 62-57,*,29,3,6,0.5,0,2,0.0,3,4,0.75,0.5,8,10,0.8,0,4,4,4,2,0,5,4,14,9.6,N,1,0,demontrae-jefferson-1,Demontrae Jefferson,2017
+27,27,34,2017-03-11,Texas Southern,N,Alcorn State,CTOURN,W 53-50,*,38,4,10,0.4,3,4,0.75,1,6,0.167,0.55,2,2,1.0,0,1,1,4,5,0,2,2,13,12.9,N,1,0,demontrae-jefferson-1,Demontrae Jefferson,2017
+28,28,35,2017-03-17,Texas Southern,N,North Carolina,ROUND-64,L 64-103,*,34,6,15,0.4,1,7,0.143,5,8,0.625,0.433,0,0,,0,0,0,2,1,0,4,2,13,2.5,N,0,0,demontrae-jefferson-1,Demontrae Jefferson,2017

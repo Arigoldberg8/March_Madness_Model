@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2018-11-06,Saint Louis,,Southeast Missouri State,REG (Non-Conf),W 75-65,,23,5,6,0.833,0,0,,5,6,0.833,0.833,2,3,0.667,3,0,3,1,1,0,0,2,12,12.4,H,1,1,dj-foreman-1,D.J. Foreman,2019
+2,97,2,2018-11-10,Saint Louis,,Troy,REG (Non-Conf),W 62-58,,19,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,3,3,6,0,0,0,2,1,0,-1.5,H,1,1,dj-foreman-1,D.J. Foreman,2019
+3,98,3,2018-11-13,Saint Louis,,North Alabama,REG (Non-Conf),W 69-58,*,32,5,6,0.833,0,0,,5,6,0.833,0.833,5,8,0.625,1,1,2,5,1,1,2,1,15,15.4,H,1,1,dj-foreman-1,D.J. Foreman,2019
+4,99,4,2018-11-17,Saint Louis,@,Seton Hall,REG (Non-Conf),W 66-64,,15,2,6,0.333,0,0,,2,6,0.333,0.333,3,4,0.75,0,4,4,0,0,0,2,4,7,0.8,A,1,1,dj-foreman-1,D.J. Foreman,2019
+5,100,5,2018-11-21,Saint Louis,N,Pittsburgh,REG (Non-Conf),L 73-75,,29,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,1,6,7,1,0,0,1,1,10,6.3,N,0,1,dj-foreman-1,D.J. Foreman,2019
+6,101,6,2018-11-24,Saint Louis,,Central Arkansas,REG (Non-Conf),W 73-61,,22,1,3,0.333,0,0,,1,3,0.333,0.333,2,2,1.0,2,3,5,1,0,0,2,2,4,2.5,H,1,1,dj-foreman-1,D.J. Foreman,2019
+7,102,7,2018-12-01,Saint Louis,,Butler,REG (Non-Conf),W 64-52,,22,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,1,4,5,0,0,0,1,3,4,1.9,H,1,1,dj-foreman-1,D.J. Foreman,2019
+8,103,8,2018-12-05,Saint Louis,@,Southern Illinois,REG (Non-Conf),L 56-61,,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,0,0,0,4,2,2,-4.5,A,0,1,dj-foreman-1,D.J. Foreman,2019
+9,104,9,2018-12-09,Saint Louis,,Oregon State,REG (Non-Conf),W 65-61,*,20,1,6,0.167,0,0,,1,6,0.167,0.167,3,5,0.6,4,2,6,2,1,0,2,2,5,3.4,H,1,1,dj-foreman-1,D.J. Foreman,2019
+10,105,10,2018-12-16,Saint Louis,@,Houston,REG (Non-Conf),L 64-68,*,23,1,5,0.2,0,0,,1,5,0.2,0.2,2,5,0.4,0,2,2,1,0,1,0,2,4,0.9,A,0,1,dj-foreman-1,D.J. Foreman,2019
+11,106,11,2018-12-19,Saint Louis,,North Carolina Central,REG (Non-Conf),W 74-65,,12,4,5,0.8,0,0,,4,5,0.8,0.8,1,5,0.2,0,1,1,0,0,0,3,1,9,2.4,H,1,1,dj-foreman-1,D.J. Foreman,2019
+12,107,12,2018-12-22,Saint Louis,N,Florida State,REG (Non-Conf),L 59-81,,13,1,4,0.25,0,0,,1,4,0.25,0.25,4,4,1.0,1,1,2,0,0,1,1,0,6,4.3,N,0,1,dj-foreman-1,D.J. Foreman,2019
+13,108,13,2018-12-30,Saint Louis,,Appalachian State,REG (Non-Conf),W 83-55,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,3,1,4,0,0,1,1,1,2,2.3,H,1,1,dj-foreman-1,D.J. Foreman,2019
+14,109,14,2019-01-06,Saint Louis,,Rhode Island,REG (Conf),W 60-53,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,2,4,0.5,0,4,4,1,1,1,3,2,4,2.7,H,1,1,dj-foreman-1,D.J. Foreman,2019
+15,110,15,2019-01-09,Saint Louis,,Massachusetts,REG (Conf),W 65-62,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,4,5,2,0,0,3,5,4,1.3,H,1,1,dj-foreman-1,D.J. Foreman,2019
+16,111,16,2019-01-12,Saint Louis,@,La Salle,REG (Conf),W 71-64,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,2,4,6,0,1,0,2,4,9,6.7,A,1,1,dj-foreman-1,D.J. Foreman,2019
+17,112,17,2019-01-15,Saint Louis,@,Fordham,REG (Conf),W 63-60,*,16,1,2,0.5,0,0,,1,2,0.5,0.5,0,4,0.0,1,0,1,1,0,0,2,2,2,-2.0,A,1,1,dj-foreman-1,D.J. Foreman,2019
+18,113,18,2019-01-18,Saint Louis,,Saint Joseph's,REG (Conf),W 68-57,*,11,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,0,0,0,3,2,-0.3,H,1,1,dj-foreman-1,D.J. Foreman,2019
+19,114,19,2019-01-23,Saint Louis,@,Duquesne,REG (Conf),L 73-77,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,0,0,,1,6,7,2,0,0,5,3,10,4.1,A,0,1,dj-foreman-1,D.J. Foreman,2019
+20,115,20,2019-01-26,Saint Louis,,Davidson,REG (Conf),L 53-54,*,17,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,0,1,3,2,-2.0,H,0,1,dj-foreman-1,D.J. Foreman,2019
+21,116,21,2019-01-30,Saint Louis,,Richmond,REG (Conf),L 81-84,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,3,4,7,0,0,0,1,3,8,6.8,H,0,1,dj-foreman-1,D.J. Foreman,2019
+22,117,22,2019-02-02,Saint Louis,@,Rhode Island,REG (Conf),L 54-65,*,19,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,2,1,3,0,0,0,3,1,4,-1.8,A,0,1,dj-foreman-1,D.J. Foreman,2019
+23,118,23,2019-02-05,Saint Louis,,Dayton,REG (Conf),W 73-60,*,36,7,10,0.7,0,0,,7,10,0.7,0.7,4,11,0.364,5,4,9,0,3,2,1,3,18,17.9,H,1,1,dj-foreman-1,D.J. Foreman,2019
+24,119,24,2019-02-08,Saint Louis,@,Saint Joseph's,REG (Conf),L 61-91,*,23,2,4,0.5,0,0,,2,4,0.5,0.5,1,3,0.333,2,2,4,0,0,0,1,2,5,2.4,A,0,1,dj-foreman-1,D.J. Foreman,2019
+25,120,25,2019-02-13,Saint Louis,@,George Washington,REG (Conf),W 73-58,*,11,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,0,1,0,2,3,2,0.1,A,1,1,dj-foreman-1,D.J. Foreman,2019
+26,121,26,2019-02-16,Saint Louis,,La Salle,REG (Conf),W 62-49,*,16,1,4,0.25,0,0,,1,4,0.25,0.25,0,1,0.0,1,2,3,0,1,1,0,4,2,0.6,H,1,1,dj-foreman-1,D.J. Foreman,2019
+27,122,27,2019-02-23,Saint Louis,@,Dayton,REG (Conf),L 62-70,*,32,7,9,0.778,0,0,,7,9,0.778,0.778,1,2,0.5,1,1,2,0,0,0,5,3,15,5.9,A,0,1,dj-foreman-1,D.J. Foreman,2019
+28,123,28,2019-02-26,Saint Louis,@,VCU,REG (Conf),L 65-71,*,24,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,1,2,2,0,0,3,5,3,-0.3,A,0,1,dj-foreman-1,D.J. Foreman,2019
+29,124,29,2019-03-02,Saint Louis,,George Mason,REG (Conf),W 81-71,*,23,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,5,7,1,0,3,1,3,2,3.8,H,1,1,dj-foreman-1,D.J. Foreman,2019
+30,125,30,2019-03-06,Saint Louis,,Duquesne,REG (Conf),W 85-75,*,24,4,5,0.8,0,0,,4,5,0.8,0.8,1,3,0.333,2,4,6,0,0,1,2,4,9,6.0,H,1,1,dj-foreman-1,D.J. Foreman,2019
+31,126,31,2019-03-09,Saint Louis,@,St. Bonaventure,REG (Conf),L 57-66,*,22,1,6,0.167,0,0,,1,6,0.167,0.167,4,6,0.667,3,2,5,0,0,0,1,4,6,1.5,A,0,1,dj-foreman-1,D.J. Foreman,2019
+32,127,32,2019-03-14,Saint Louis,N,Richmond,CTOURN,W 71-68,*,17,1,5,0.2,0,1,0.0,1,4,0.25,0.2,0,0,,2,2,4,1,0,2,0,2,2,2.2,N,1,0,dj-foreman-1,D.J. Foreman,2019
+33,128,33,2019-03-15,Saint Louis,N,Dayton,CTOURN,W 64-55,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,2,4,0.5,3,6,9,2,0,0,1,2,4,4.3,N,1,0,dj-foreman-1,D.J. Foreman,2019
+34,129,34,2019-03-16,Saint Louis,N,Davidson,CTOURN,W 67-44,*,27,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,4,7,11,0,0,1,0,2,9,11.1,N,1,0,dj-foreman-1,D.J. Foreman,2019
+35,130,35,2019-03-17,Saint Louis,N,St. Bonaventure,CTOURN,W 55-53,*,24,1,2,0.5,0,0,,1,2,0.5,0.5,2,3,0.667,2,2,4,1,0,1,0,2,4,5.2,N,1,0,dj-foreman-1,D.J. Foreman,2019
+36,131,36,2019-03-22,Saint Louis,N,Virginia Tech,ROUND-64,L 52-66,*,25,4,5,0.8,0,0,,4,5,0.8,0.8,4,7,0.571,1,3,4,0,1,2,3,5,12,7.9,N,0,0,dj-foreman-1,D.J. Foreman,2019

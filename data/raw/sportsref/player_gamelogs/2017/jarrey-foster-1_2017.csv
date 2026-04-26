@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2016-11-11,SMU,,Gardner-Webb,REG (Non-Conf),W 72-44,,13,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,1,0,1,1,2,0,0,3,11,10.6,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+2,32,2,2016-11-13,SMU,,Eastern Michigan,REG (Non-Conf),W 91-64,*,29,8,9,0.889,1,1,1.0,7,8,0.875,0.944,1,1,1.0,0,3,3,2,0,0,1,4,18,14.6,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+3,33,3,2016-11-17,SMU,N,Pittsburgh,REG (Non-Conf),W 76-67,*,20,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,4,1,5,1,0,2,1,4,6,6.3,N,1,1,jarrey-foster-1,Jarrey Foster,2017
+4,34,4,2016-11-18,SMU,N,Michigan,REG (Non-Conf),L 54-76,*,24,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,2,0.0,4,0,4,1,0,0,1,2,10,8.3,N,0,1,jarrey-foster-1,Jarrey Foster,2017
+5,35,5,2016-11-22,SMU,,UC Santa Barbara,REG (Non-Conf),W 84-57,*,31,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,2,4,7,2,0,1,1,6,11.2,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+6,36,6,2016-11-25,SMU,@,Southern California,REG (Non-Conf),L 73-78,*,33,4,8,0.5,1,2,0.5,3,6,0.5,0.563,0,0,,2,2,4,2,0,0,1,5,9,5.4,A,0,1,jarrey-foster-1,Jarrey Foster,2017
+7,37,7,2016-11-30,SMU,@,Boise State,REG (Non-Conf),L 62-71,*,36,4,7,0.571,0,2,0.0,4,5,0.8,0.571,1,4,0.25,0,3,3,1,1,0,1,4,9,4.5,A,0,1,jarrey-foster-1,Jarrey Foster,2017
+8,38,8,2016-12-02,SMU,,Cal State Bakersfield,REG (Non-Conf),W 49-43,*,28,1,4,0.25,0,0,,1,4,0.25,0.25,1,3,0.333,2,1,3,3,0,0,1,2,3,1.8,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+9,39,9,2016-12-04,SMU,,Delaware State,REG (Non-Conf),W 74-60,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,2,2,0,3,3,2,0.5,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+10,40,10,2016-12-07,SMU,,TCU,REG (Non-Conf),W 74-59,*,29,4,7,0.571,0,2,0.0,4,5,0.8,0.571,3,4,0.75,4,2,6,4,1,0,0,3,11,13.3,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+11,41,11,2016-12-14,SMU,,McNeese State,REG (Non-Conf),W 92-56,*,31,7,12,0.583,0,1,0.0,7,11,0.636,0.583,0,0,,7,2,9,2,1,2,0,2,14,16.9,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+12,42,12,2016-12-19,SMU,,Stanford,REG (Non-Conf),W 72-49,*,27,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,2,5,7,3,0,1,1,2,9,9.6,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+13,43,13,2016-12-20,SMU,,Albany (NY),REG (Non-Conf),W 71-53,*,31,4,5,0.8,1,2,0.5,3,3,1.0,0.9,1,2,0.5,2,7,9,2,0,1,2,2,10,10.5,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+14,44,14,2016-12-27,SMU,@,Memphis,REG (Conf),W 58-54,*,34,2,8,0.25,0,3,0.0,2,5,0.4,0.25,1,2,0.5,2,5,7,1,1,2,1,4,5,3.2,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+15,45,15,2016-12-31,SMU,@,East Carolina,REG (Conf),W 75-44,*,35,4,10,0.4,2,3,0.667,2,7,0.286,0.5,2,2,1.0,2,1,3,2,1,3,3,3,12,8.6,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+16,46,16,2017-01-04,SMU,,Temple,REG (Conf),W 79-65,*,37,4,8,0.5,2,4,0.5,2,4,0.5,0.625,3,4,0.75,3,4,7,2,0,1,2,1,13,11.6,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+17,47,17,2017-01-07,SMU,,South Florida,REG (Conf),W 84-65,*,35,6,11,0.545,4,6,0.667,2,5,0.4,0.727,1,2,0.5,5,7,12,3,1,1,1,0,17,19.7,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+18,48,18,2017-01-12,SMU,@,Cincinnati,REG (Conf),L 64-66,*,35,3,11,0.273,2,5,0.4,1,6,0.167,0.364,0,0,,3,4,7,3,0,0,2,2,8,4.1,A,0,1,jarrey-foster-1,Jarrey Foster,2017
+19,49,19,2017-01-15,SMU,@,Tulane,REG (Conf),W 80-64,*,32,7,12,0.583,3,4,0.75,4,8,0.5,0.708,2,3,0.667,4,2,6,3,1,2,2,2,19,18.1,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+20,50,20,2017-01-19,SMU,,Connecticut,REG (Conf),W 69-49,*,24,2,6,0.333,0,3,0.0,2,3,0.667,0.333,1,4,0.25,2,2,4,3,1,1,0,1,5,5.8,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+21,51,21,2017-01-21,SMU,,Houston,REG (Conf),W 85-64,*,18,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,1,0.0,1,1,2,1,0,0,2,0,5,2.3,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+22,52,23,2017-02-01,SMU,,East Carolina,REG (Conf),W 86-46,*,26,3,9,0.333,1,1,1.0,2,8,0.25,0.389,0,0,,2,4,6,1,1,0,0,4,7,4.6,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+23,53,24,2017-02-04,SMU,@,Tulsa,REG (Conf),W 76-53,*,32,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,2,3,5,2,1,0,2,2,8,6.5,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+24,54,25,2017-02-09,SMU,@,Temple,REG (Conf),W 66-50,*,33,3,10,0.3,0,1,0.0,3,9,0.333,0.3,3,4,0.75,3,5,8,2,1,1,1,2,9,7.7,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+25,55,26,2017-02-12,SMU,,Cincinnati,REG (Conf),W 60-51,*,28,1,6,0.167,1,3,0.333,0,3,0.0,0.25,2,2,1.0,0,7,7,1,0,0,1,0,5,3.0,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+26,56,27,2017-02-15,SMU,,Tulane,REG (Conf),W 80-75,*,35,9,13,0.692,1,2,0.5,8,11,0.727,0.731,0,1,0.0,2,1,3,3,2,0,0,1,19,18.5,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+27,57,28,2017-02-18,SMU,@,Houston,REG (Conf),W 76-66,*,28,3,6,0.5,0,0,,3,6,0.5,0.5,4,4,1.0,4,1,5,2,2,1,1,5,10,11.2,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+28,58,29,2017-02-25,SMU,@,Connecticut,REG (Conf),W 69-61,*,33,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,2,2,4,3,0,0,1,1,4,3.9,A,1,1,jarrey-foster-1,Jarrey Foster,2017
+29,59,30,2017-03-02,SMU,,Tulsa,REG (Conf),W 93-70,*,24,9,11,0.818,0,1,0.0,9,10,0.9,0.818,0,0,,0,2,2,1,0,1,2,4,18,12.3,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+30,60,31,2017-03-04,SMU,,Memphis,REG (Conf),W 103-62,,30,4,4,1.0,2,2,1.0,2,2,1.0,1.25,6,10,0.6,3,3,6,5,0,3,0,1,16,21.4,H,1,1,jarrey-foster-1,Jarrey Foster,2017
+31,61,32,2017-03-10,SMU,N,East Carolina,CTOURN,W 81-77,*,35,2,2,1.0,0,0,,2,2,1.0,1.0,5,9,0.556,1,3,4,1,0,1,2,4,9,6.2,N,1,0,jarrey-foster-1,Jarrey Foster,2017
+32,62,33,2017-03-11,SMU,N,UCF,CTOURN,W 70-59,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,4,4,8,1,0,1,3,3,8,6.5,N,1,0,jarrey-foster-1,Jarrey Foster,2017
+33,63,34,2017-03-12,SMU,N,Cincinnati,CTOURN,W 71-56,*,38,5,8,0.625,2,4,0.5,3,4,0.75,0.75,1,2,0.5,1,5,6,0,0,4,2,1,13,11.6,N,1,0,jarrey-foster-1,Jarrey Foster,2017
+34,64,35,2017-03-17,SMU,N,Southern California,ROUND-64,L 65-66,*,36,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,2,0.5,3,1,4,2,0,0,2,3,8,6.6,N,0,0,jarrey-foster-1,Jarrey Foster,2017

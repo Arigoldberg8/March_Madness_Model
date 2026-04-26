@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,78,1,2018-11-06,Colgate,@,NJIT,REG (Non-Conf),L 78-81 (OT),,20,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,2,0,2,0,1,0,2,0,10,6.8,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+2,79,2,2018-11-09,Colgate,,Monmouth,REG (Non-Conf),W 87-74,,13,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,2,2,4,0,0,1,1,4,2,0.6,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+3,80,3,2018-11-11,Colgate,@,Cornell,REG (Non-Conf),W 73-57,,15,6,8,0.75,0,0,6,8,0.75,0.75,0,0,,0,2,2,0,1,0,0,0,12,10.4,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+4,81,4,2018-11-14,Colgate,,Nazareth,REG (Non-Conf),W 86-68,,13,5,6,0.833,0,0,5,6,0.833,0.833,1,2,0.5,0,3,3,1,1,1,1,1,11,10.3,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+5,82,5,2018-11-19,Colgate,,Binghamton,REG (Non-Conf),W 76-68,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,2,0.0,4,2,6,1,1,1,0,1,6,9.7,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+6,83,6,2018-11-21,Colgate,@,Syracuse,REG (Non-Conf),L 56-77,,12,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,0,2,2,0,0,0,1,2,5,2.8,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+7,84,7,2018-11-24,Colgate,@,Siena,REG (Non-Conf),W 84-79,,14,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,0,2,2,0.2,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+8,85,8,2018-11-30,Colgate,@,South Florida,REG (Non-Conf),L 63-73,,17,3,4,0.75,0,0,3,4,0.75,0.75,1,3,0.333,1,1,2,0,0,0,0,2,7,4.8,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+9,86,9,2018-12-02,Colgate,@,Florida Gulf Coast,REG (Non-Conf),W 74-56,,13,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,0,0,0,0,0,1,1,0,8,3.7,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+10,87,10,2018-12-05,Colgate,@,Columbia,REG (Non-Conf),W 64-62,,15,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,1,2,3,0,0,0,0,1,6,4.5,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+11,88,11,2018-12-08,Colgate,@,Penn State,REG (Non-Conf),L 65-76,,16,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,5,5,1,0,0,2,0,0,-1.2,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+12,89,12,2018-12-15,Colgate,,Marist,REG (Non-Conf),W 82-66,,13,2,2,1.0,0,0,2,2,1.0,1.0,3,3,1.0,1,6,7,0,0,0,1,1,7,7.5,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+13,90,13,2018-12-29,Colgate,@,Pittsburgh,REG (Non-Conf),L 54-68,,15,2,5,0.4,0,0,2,5,0.4,0.4,2,4,0.5,6,1,7,0,0,0,1,3,6,4.8,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+14,91,14,2019-01-03,Colgate,@,Navy,REG (Conf),L 66-72,,14,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,4,4,2,0,0,0,2,2,2.8,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+15,92,15,2019-01-06,Colgate,,American,REG (Conf),W 73-69,,14,4,8,0.5,0,0,4,8,0.5,0.5,0,0,,3,1,4,0,1,0,0,3,8,6.2,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+16,93,16,2019-01-09,Colgate,@,Bucknell,REG (Conf),L 81-84,,15,4,5,0.8,0,0,4,5,0.8,0.8,0,3,0.0,2,2,4,1,0,1,0,0,8,8.3,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+17,94,17,2019-01-12,Colgate,,Lehigh,REG (Conf),W 91-78,,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,2,3,5,1,2,2,0,1,4,9.4,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+18,95,18,2019-01-16,Colgate,@,Army,REG (Conf),L 81-91,,21,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,4,1,5,0,0,0,0,3,8,7.3,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+19,96,19,2019-01-19,Colgate,@,Boston University,REG (Conf),W 77-56,,21,5,7,0.714,0,0,5,7,0.714,0.714,1,2,0.5,2,7,9,0,0,0,0,1,11,10.8,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+20,97,20,2019-01-23,Colgate,,Lafayette,REG (Conf),W 57-47,,18,2,3,0.667,0,0,2,3,0.667,0.667,3,4,0.75,0,4,4,0,1,0,1,1,7,6.1,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+21,98,21,2019-01-26,Colgate,@,Loyola (MD),REG (Conf),L 72-79 (OT),,17,5,6,0.833,0,0,5,6,0.833,0.833,2,2,1.0,2,3,5,1,0,0,1,2,12,11.0,A,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+22,99,22,2019-01-30,Colgate,,Army,REG (Conf),W 76-56,,20,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,0,4,4,1,0,2,2,1,5,4.2,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+23,100,23,2019-02-02,Colgate,,Boston University,REG (Conf),L 68-76,,22,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,3,4,1,0,2,2,3,8,6.6,H,0,1,malcolm-regisford-1,Malcolm Regisford,2019
+24,101,24,2019-02-04,Colgate,@,Lehigh,REG (Conf),W 84-62,,17,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,1,1,2,0,1,2,1,1,8,8.4,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+25,102,25,2019-02-09,Colgate,,Loyola (MD),REG (Conf),W 75-72,,18,3,6,0.5,0,0,3,6,0.5,0.5,0,0,,1,2,3,0,0,0,0,3,6,3.1,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+26,103,26,2019-02-13,Colgate,@,Holy Cross,REG (Conf),W 74-70,,17,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,4,5,0,0,0,1,1,5,3.8,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+27,104,27,2019-02-16,Colgate,@,American,REG (Conf),W 83-81 (OT),,13,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,1,1,0,1,0,0,1,4,4.3,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+28,105,28,2019-02-19,Colgate,,Bucknell,REG (Conf),W 75-64,,17,4,6,0.667,0,0,4,6,0.667,0.667,2,3,0.667,1,3,4,0,0,0,1,0,10,7.6,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+29,106,29,2019-02-23,Colgate,,Navy,REG (Conf),W 93-71,,15,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,3,3,0,0,3,0,3,4,4.5,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+30,107,30,2019-02-27,Colgate,,Holy Cross,REG (Conf),W 79-59,,19,4,4,1.0,0,0,4,4,1.0,1.0,3,3,1.0,2,1,3,1,0,1,1,2,11,11.1,H,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+31,108,31,2019-03-02,Colgate,@,Lafayette,REG (Conf),W 76-70,,15,4,7,0.571,0,0,4,7,0.571,0.571,3,5,0.6,2,2,4,0,0,1,2,1,11,7.2,A,1,1,malcolm-regisford-1,Malcolm Regisford,2019
+32,109,32,2019-03-07,Colgate,,Boston University,CTOURN,W 81-69,,14,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,0,1,1,1,0,1,2,1,6,3.0,H,1,0,malcolm-regisford-1,Malcolm Regisford,2019
+33,110,33,2019-03-10,Colgate,,Navy,CTOURN,W 80-70,,23,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,1,2,1,0,1,2,5.6,H,1,0,malcolm-regisford-1,Malcolm Regisford,2019
+34,111,34,2019-03-13,Colgate,,Bucknell,CTOURN,W 94-80,,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,0,3,3,1,0,1,0,2,4,4.2,H,1,0,malcolm-regisford-1,Malcolm Regisford,2019
+35,112,35,2019-03-22,Colgate,N,Tennessee,ROUND-64,L 70-77,,13,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,2,2,1,0,1,1,0,0,0.3,N,0,0,malcolm-regisford-1,Malcolm Regisford,2019

@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2020-12-02,Florida State,,North Florida,REG (Non-Conf),W 86-58,,16,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,1,2,3,1,0,0,0,1,4,2.9,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+2,32,2,2020-12-09,Florida State,,Indiana,REG (Non-Conf),W 69-67 (OT),,13,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,0,0,1,1,0,0,0,0,-1.1,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+3,33,3,2020-12-12,Florida State,,Florida,REG (Non-Conf),W 83-71,,18,1,4,0.25,0,1,0.0,1,3,0.333,0.25,3,3,1.0,0,3,3,2,0,0,1,2,5,3.1,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+4,34,5,2020-12-19,Florida State,,UCF,REG (Non-Conf),L 74-86,,15,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,2,0,0,3,3,2,-2.9,H,0,1,rayquan-evans-1,RayQuan Evans,2021
+5,35,6,2020-12-21,Florida State,,Gardner-Webb,REG (Non-Conf),W 72-59,,24,2,6,0.333,2,4,0.5,0,2,0.0,0.5,2,3,0.667,2,2,4,0,1,0,0,0,8,7.2,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+6,36,7,2020-12-29,Florida State,@,Clemson,REG (Conf),L 67-77,,21,3,4,0.75,1,2,0.5,2,2,1.0,0.875,2,2,1.0,0,2,2,0,0,0,2,2,9,5.2,A,0,1,rayquan-evans-1,RayQuan Evans,2021
+7,37,8,2021-01-13,Florida State,,NC State,REG (Conf),W 105-73,*,19,9,11,0.818,2,2,1.0,7,9,0.778,0.909,4,4,1.0,1,5,6,2,1,0,1,1,24,23.1,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+8,38,9,2021-01-16,Florida State,,North Carolina,REG (Conf),W 82-75,*,31,3,9,0.333,0,0,,3,9,0.333,0.333,4,4,1.0,0,1,1,4,3,0,3,0,10,8.0,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+9,39,10,2021-01-18,Florida State,@,Louisville,REG (Conf),W 78-65,*,27,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,3,3,0,1,0,0,2,11,9.5,A,1,1,rayquan-evans-1,RayQuan Evans,2021
+10,40,11,2021-01-23,Florida State,,Clemson,REG (Conf),W 80-61,*,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,2,1,3,0,0,0,0,1,5,2.9,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+11,41,12,2021-01-27,Florida State,,Miami (FL),REG (Conf),W 81-59,*,18,4,4,1.0,0,0,,4,4,1.0,1.0,0,1,0.0,1,1,2,4,0,0,2,1,8,7.8,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+12,42,13,2021-01-30,Florida State,@,Georgia Tech,REG (Conf),L 65-76,*,27,1,6,0.167,0,0,,1,6,0.167,0.167,3,4,0.75,2,3,5,3,1,0,3,0,5,3.2,A,0,1,rayquan-evans-1,RayQuan Evans,2021
+13,43,14,2021-02-13,Florida State,,Wake Forest,REG (Conf),W 92-85 (OT),*,17,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,2,0,0,0,0.7,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+14,44,15,2021-02-15,Florida State,,Virginia,REG (Conf),W 81-60,*,19,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,2,3,3,0,0,1,0,0,-0.4,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+15,45,16,2021-02-20,Florida State,@,Pittsburgh,REG (Conf),W 79-72,*,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,10,12,0.833,0,3,3,2,0,0,1,2,12,9.3,A,1,1,rayquan-evans-1,RayQuan Evans,2021
+16,46,17,2021-02-24,Florida State,@,Miami (FL),REG (Conf),W 88-71,*,15,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,A,1,1,rayquan-evans-1,RayQuan Evans,2021
+17,47,18,2021-02-27,Florida State,@,North Carolina,REG (Conf),L 70-78,*,17,1,5,0.2,0,0,,1,5,0.2,0.2,1,1,1.0,0,1,1,0,0,0,3,2,3,-3.6,A,0,1,rayquan-evans-1,RayQuan Evans,2021
+18,48,19,2021-03-03,Florida State,,Boston College,REG (Conf),W 93-64,*,16,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,1,1,2,2,1,2,1,1,6,7.4,H,1,1,rayquan-evans-1,RayQuan Evans,2021
+19,49,20,2021-03-06,Florida State,@,Notre Dame,REG (Conf),L 73-83,*,31,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,1,1,2,1,0,0,0,2,2,0.1,A,0,1,rayquan-evans-1,RayQuan Evans,2021
+20,50,21,2021-03-12,Florida State,N,North Carolina,CTOURN,W 69-66,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,1,2,0.5,0,0,0,1,1,0,2,2,1,-1.2,N,1,0,rayquan-evans-1,RayQuan Evans,2021
+21,51,22,2021-03-13,Florida State,N,Georgia Tech,CTOURN,L 75-80,*,12,0,0,,0,0,,0,0,,,2,2,1.0,0,1,1,2,0,0,3,0,2,0.7,N,0,0,rayquan-evans-1,RayQuan Evans,2021
+22,52,23,2021-03-20,Florida State,N,UNC Greensboro,ROUND-64,W 64-54,*,16,0,2,0.0,0,0,,0,2,0.0,0.0,1,2,0.5,0,0,0,2,0,0,0,0,1,0.6,N,1,0,rayquan-evans-1,RayQuan Evans,2021
+23,53,24,2021-03-22,Florida State,N,Colorado,ROUND-32,W 71-53,*,18,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,0,0,1,1,1,2,0.2,N,1,0,rayquan-evans-1,RayQuan Evans,2021
+24,54,25,2021-03-28,Florida State,N,Michigan,ROUND-16,L 58-76,*,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,1,0,1,4,1,2,-1.7,N,0,0,rayquan-evans-1,RayQuan Evans,2021

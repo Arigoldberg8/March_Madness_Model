@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,68,2,2022-11-11,UC Santa Barbara,N,Fresno State,REG (Non-Conf),W 61-54,*,13,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,3,0.333,0,1,1,0,1,0,1,1,3,-1.0,N,1,1,ajare-sanni-1,Ajare Sanni,2023
+2,69,3,2022-11-18,UC Santa Barbara,@,Northern Arizona,REG (Non-Conf),L 54-63,*,22,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,0,1,0,3,1,2,-2.5,A,0,1,ajare-sanni-1,Ajare Sanni,2023
+3,70,4,2022-11-21,UC Santa Barbara,,Hampton,REG (Non-Conf),W 79-66,*,20,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,2,3,1,0,0,1,0,7,4.3,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+4,71,5,2022-11-23,UC Santa Barbara,,North Alabama,REG (Non-Conf),W 89-71,*,16,4,8,0.5,4,7,0.571,0,1,0.0,0.75,2,2,1.0,0,3,3,2,0,0,0,2,14,11.5,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+5,72,6,2022-11-29,UC Santa Barbara,@,Duquesne,REG (Non-Conf),L 61-72,*,20,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,2,2,0,1,0,1,0,2,0.2,A,0,1,ajare-sanni-1,Ajare Sanni,2023
+6,73,7,2022-12-03,UC Santa Barbara,,Pacific,REG (Non-Conf),W 82-71,*,27,8,12,0.667,1,4,0.25,7,8,0.875,0.708,5,7,0.714,0,3,3,2,3,0,0,0,22,21.3,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+7,74,8,2022-12-10,UC Santa Barbara,@,Pepperdine,REG (Non-Conf),W 67-64 (OT),*,19,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,0,2,2,2,1,0,2,0,7,4.2,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+8,75,9,2022-12-12,UC Santa Barbara,,San Diego Christ,REG (Non-Conf),W 81-68,*,9,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,2,2,1,0,0,0,0,5,5.0,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+9,76,10,2022-12-17,UC Santa Barbara,@,Portland State,REG (Non-Conf),W 85-73,*,27,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,0,4,4,2,0,0,3,3,7,0.6,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+10,77,11,2022-12-21,UC Santa Barbara,N,Appalachian State,REG (Non-Conf),W 61-50,*,20,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,1,1.0,2,4,6,0,0,0,2,1,5,1.1,N,1,1,ajare-sanni-1,Ajare Sanni,2023
+11,78,12,2022-12-29,UC Santa Barbara,@,Cal State Fullerton,REG (Conf),W 66-58,*,13,0,6,0.0,0,4,0.0,0,2,0.0,0.0,2,2,1.0,0,1,1,1,1,0,0,1,2,-0.6,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+12,79,13,2022-12-31,UC Santa Barbara,,UC San Diego,REG (Conf),W 82-61,*,16,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,0,2,2,0,0,0,2,0,10,6.0,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+13,80,14,2023-01-07,UC Santa Barbara,@,Cal Poly,REG (Conf),W 62-57,*,16,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,0,6,6,1,1,0,1,0,6,6.8,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+14,81,15,2023-01-11,UC Santa Barbara,@,Cal State Bakersfield,REG (Conf),W 60-48,*,22,3,8,0.375,2,3,0.667,1,5,0.2,0.5,2,2,1.0,0,2,2,2,0,0,1,0,10,6.6,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+15,82,16,2023-01-14,UC Santa Barbara,,UC Riverside,REG (Conf),L 64-65,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,1,1,1.0,0,1,1,2,0,0,1,0,3,2.7,H,0,1,ajare-sanni-1,Ajare Sanni,2023
+16,83,17,2023-01-16,UC Santa Barbara,@,UC Irvine,REG (Conf),W 73-65,*,18,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,2,0,0,1,0,5,2.3,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+17,84,18,2023-01-19,UC Santa Barbara,,Cal State Northridge,REG (Conf),W 72-52,*,19,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,3,3,0,0,0,1,2,7,3.1,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+18,85,19,2023-01-21,UC Santa Barbara,,Cal State Bakersfield,REG (Conf),W 76-58,*,17,2,6,0.333,0,3,0.0,2,3,0.667,0.333,0,0,,0,0,0,1,0,0,0,0,4,1.3,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+19,86,20,2023-01-27,UC Santa Barbara,@,Hawaii,REG (Conf),W 65-64,*,20,1,6,0.167,0,1,0.0,1,5,0.2,0.167,1,2,0.5,0,0,0,0,0,0,0,0,3,-1.2,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+20,87,21,2023-02-02,UC Santa Barbara,,Cal Poly,REG (Conf),W 68-62,*,15,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,0,0,0,2,0,0,1,9,7.6,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+21,88,22,2023-02-04,UC Santa Barbara,@,Cal State Northridge,REG (Conf),L 67-72,*,19,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,4,0.5,1,1,2,2,2,0,0,0,8,7.9,A,0,1,ajare-sanni-1,Ajare Sanni,2023
+22,89,23,2023-02-09,UC Santa Barbara,@,Long Beach State,REG (Conf),W 75-72,*,13,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,0,0,0,0,0,0,1,2,7,2.9,A,1,1,ajare-sanni-1,Ajare Sanni,2023
+23,90,24,2023-02-11,UC Santa Barbara,,UC Davis,REG (Conf),W 84-74,*,23,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,2,0,0,3,3,4,-0.5,H,1,1,ajare-sanni-1,Ajare Sanni,2023
+24,91,25,2023-02-15,UC Santa Barbara,,UC Irvine,REG (Conf),L 59-70,*,10,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,1,1,0,0,0,0,0,4,2.3,H,0,1,ajare-sanni-1,Ajare Sanni,2023
+25,92,35,2023-03-17,UC Santa Barbara,N,Baylor,ROUND-64,L 56-74,,1,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,N,0,0,ajare-sanni-1,Ajare Sanni,2023

@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,117,1,2024-11-04,Wisconsin,,Holy Cross,REG (Non-Conf),W 85-61,*,26,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,2,6,8,2,1,0,3,1,7,5.5,H,1,1,steven-crowl-1,Steven Crowl,2025
+2,118,2,2024-11-07,Wisconsin,,Montana State,REG (Non-Conf),W 79-67,*,24,1,4,0.25,0,0,,1,4,0.25,0.25,4,4,1.0,1,3,4,4,0,0,4,3,6,2.8,H,1,1,steven-crowl-1,Steven Crowl,2025
+3,119,3,2024-11-10,Wisconsin,,Appalachian State,REG (Non-Conf),W 87-56,*,28,7,12,0.583,1,3,0.333,6,9,0.667,0.625,2,2,1.0,0,1,1,4,2,0,1,1,17,15.1,H,1,1,steven-crowl-1,Steven Crowl,2025
+4,120,4,2024-11-15,Wisconsin,,Arizona,REG (Non-Conf),W 103-88,*,31,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,4,0.5,1,3,4,6,0,1,1,5,8,9.1,H,1,1,steven-crowl-1,Steven Crowl,2025
+5,121,5,2024-11-18,Wisconsin,,Texas–Rio Grande Valley,REG (Non-Conf),W 87-84,*,20,3,7,0.429,0,0,,3,7,0.429,0.429,3,4,0.75,1,4,5,1,0,0,1,0,9,6.5,H,1,1,steven-crowl-1,Steven Crowl,2025
+6,122,6,2024-11-22,Wisconsin,N,UCF,REG (Non-Conf),W 86-70,*,14,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,1,3,4,3,0,0,2,5,6,2.7,N,1,1,steven-crowl-1,Steven Crowl,2025
+7,123,7,2024-11-24,Wisconsin,N,Pittsburgh,REG (Non-Conf),W 81-75,*,28,3,9,0.333,0,0,,3,9,0.333,0.333,0,2,0.0,3,6,9,3,0,0,0,1,6,5.7,N,1,1,steven-crowl-1,Steven Crowl,2025
+8,124,8,2024-11-30,Wisconsin,,Chicago State,REG (Non-Conf),W 74-53,*,28,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,3,4,7,5,0,3,1,0,9,13.2,H,1,1,steven-crowl-1,Steven Crowl,2025
+9,125,9,2024-12-03,Wisconsin,,Michigan,REG (Conf),L 64-67,*,22,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,3,4,0,0,1,0,5,2,-0.8,H,0,1,steven-crowl-1,Steven Crowl,2025
+10,126,10,2024-12-07,Wisconsin,@,Marquette,REG (Non-Conf),L 74-88,*,28,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,4,7,11,3,0,0,2,1,2,4.2,A,0,1,steven-crowl-1,Steven Crowl,2025
+11,127,11,2024-12-10,Wisconsin,@,Illinois,REG (Conf),L 80-86,*,19,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,0,0,0,1,1,0,0,3,9,4.4,A,0,1,steven-crowl-1,Steven Crowl,2025
+12,128,12,2024-12-14,Wisconsin,N,Butler,REG (Non-Conf),W 83-74,*,17,7,10,0.7,2,3,0.667,5,7,0.714,0.8,2,2,1.0,0,6,6,1,0,0,0,2,18,15.5,N,1,1,steven-crowl-1,Steven Crowl,2025
+13,129,13,2024-12-22,Wisconsin,,Detroit Mercy,REG (Non-Conf),W 76-53,*,21,7,10,0.7,0,3,0.0,7,7,1.0,0.7,1,1,1.0,1,3,4,0,0,1,1,0,15,12.1,H,1,1,steven-crowl-1,Steven Crowl,2025
+14,130,14,2025-01-03,Wisconsin,,Iowa,REG (Conf),W 116-85,*,20,4,4,1.0,0,0,,4,4,1.0,1.0,6,6,1.0,1,6,7,3,0,0,3,1,14,14.0,H,1,1,steven-crowl-1,Steven Crowl,2025
+15,131,15,2025-01-06,Wisconsin,@,Rutgers,REG (Conf),W 75-63,*,25,8,11,0.727,2,3,0.667,6,8,0.75,0.818,0,0,,3,7,10,3,1,0,3,3,18,16.6,A,1,1,steven-crowl-1,Steven Crowl,2025
+16,132,16,2025-01-10,Wisconsin,,Minnesota,REG (Conf),W 80-59,*,26,6,7,0.857,2,2,1.0,4,5,0.8,1.0,4,4,1.0,1,4,5,3,0,1,2,0,18,18.2,H,1,1,steven-crowl-1,Steven Crowl,2025
+17,133,17,2025-01-14,Wisconsin,,Ohio State,REG (Conf),W 70-68,*,28,5,10,0.5,0,3,0.0,5,7,0.714,0.5,4,4,1.0,0,7,7,1,0,1,0,3,14,11.3,H,1,1,steven-crowl-1,Steven Crowl,2025
+18,134,18,2025-01-18,Wisconsin,@,Southern California,REG (Conf),W 84-69,*,18,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,0,3,3,1,0,1,1,4,9,7.1,A,1,1,steven-crowl-1,Steven Crowl,2025
+19,135,19,2025-01-21,Wisconsin,@,UCLA,REG (Conf),L 83-85,*,29,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,2,3,5,3,1,1,2,3,11,11.3,A,0,1,steven-crowl-1,Steven Crowl,2025
+20,136,20,2025-01-26,Wisconsin,,Nebraska,REG (Conf),W 83-55,*,20,0,0,,0,0,,0,0,,,1,2,0.5,1,6,7,3,0,1,1,3,1,3.7,H,1,1,steven-crowl-1,Steven Crowl,2025
+21,137,21,2025-01-29,Wisconsin,@,Maryland,REG (Conf),L 68-76,*,32,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,3,0.667,4,5,9,3,0,1,2,2,10,9.2,A,0,1,steven-crowl-1,Steven Crowl,2025
+22,138,22,2025-02-01,Wisconsin,@,Northwestern,REG (Conf),W 75-69,*,28,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,7,7,1,0,1,1,3,3,1.9,A,1,1,steven-crowl-1,Steven Crowl,2025
+23,139,23,2025-02-04,Wisconsin,,Indiana,REG (Conf),W 76-64,*,24,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,1,2,1,0,2,3,4.8,H,1,1,steven-crowl-1,Steven Crowl,2025
+24,140,24,2025-02-08,Wisconsin,@,Iowa,REG (Conf),W 74-63,*,30,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,2,6,8,2,3,1,1,2,7,9.4,A,1,1,steven-crowl-1,Steven Crowl,2025
+25,141,25,2025-02-15,Wisconsin,@,Purdue,REG (Conf),W 94-84,*,20,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,3,0,0,0,4,3,3.5,A,1,1,steven-crowl-1,Steven Crowl,2025
+26,142,26,2025-02-18,Wisconsin,,Illinois,REG (Conf),W 95-74,*,28,7,10,0.7,3,3,1.0,4,7,0.571,0.85,3,4,0.75,2,5,7,5,2,0,1,0,20,22.8,H,1,1,steven-crowl-1,Steven Crowl,2025
+27,143,27,2025-02-22,Wisconsin,,Oregon,REG (Conf),L 73-77 (OT),*,31,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,1,5,6,1,0,0,6,2,12,4.5,H,0,1,steven-crowl-1,Steven Crowl,2025
+28,144,28,2025-02-25,Wisconsin,,Washington,REG (Conf),W 88-62,*,25,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,2,3,4,1,0,1,1,12,12.1,H,1,1,steven-crowl-1,Steven Crowl,2025
+29,145,29,2025-03-02,Wisconsin,@,Michigan State,REG (Conf),L 62-71,*,30,4,9,0.444,1,3,0.333,3,6,0.5,0.5,1,2,0.5,2,2,4,3,0,0,1,1,10,7.6,A,0,1,steven-crowl-1,Steven Crowl,2025
+30,146,30,2025-03-05,Wisconsin,@,Minnesota,REG (Conf),W 74-67,*,28,4,6,0.667,1,1,1.0,3,5,0.6,0.75,1,2,0.5,0,3,3,3,2,0,1,1,10,10.6,A,1,1,steven-crowl-1,Steven Crowl,2025
+31,147,31,2025-03-08,Wisconsin,,Penn State,REG (Conf),L 75-86,*,31,8,15,0.533,2,4,0.5,6,11,0.545,0.6,1,1,1.0,2,2,4,3,1,0,2,0,19,14.8,H,0,1,steven-crowl-1,Steven Crowl,2025
+32,148,32,2025-03-13,Wisconsin,N,Northwestern,CTOURN,W 70-63,*,30,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,2,1.0,3,4,7,3,0,1,4,4,7,3.4,N,1,0,steven-crowl-1,Steven Crowl,2025
+33,149,33,2025-03-14,Wisconsin,N,UCLA,CTOURN,W 86-70,*,19,5,7,0.714,3,3,1.0,2,4,0.5,0.929,0,0,,1,0,1,2,0,0,1,4,13,9.6,N,1,0,steven-crowl-1,Steven Crowl,2025
+34,150,34,2025-03-15,Wisconsin,N,Michigan State,CTOURN,W 77-74,*,31,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,4,4,8,1,0,0,1,1,5,4.9,N,1,0,steven-crowl-1,Steven Crowl,2025
+35,151,35,2025-03-16,Wisconsin,N,Michigan,CTOURN,L 53-59,*,29,1,5,0.2,1,3,0.333,0,2,0.0,0.3,1,2,0.5,3,3,6,2,1,0,1,4,4,3.3,N,0,0,steven-crowl-1,Steven Crowl,2025
+36,152,36,2025-03-20,Wisconsin,N,Montana,ROUND-64,W 85-66,*,26,8,10,0.8,2,3,0.667,6,7,0.857,0.9,0,0,,1,3,4,2,0,0,0,1,18,16.8,N,1,0,steven-crowl-1,Steven Crowl,2025
+37,153,37,2025-03-22,Wisconsin,N,Brigham Young,ROUND-32,L 89-91,*,31,3,7,0.429,2,5,0.4,1,2,0.5,0.571,2,2,1.0,0,5,5,1,0,1,1,0,10,8.2,N,0,0,steven-crowl-1,Steven Crowl,2025

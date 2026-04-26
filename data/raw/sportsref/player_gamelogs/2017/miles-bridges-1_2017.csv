@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-11,Michigan State,N,Arizona,REG (Non-Conf),L 63-65,*,37,9,19,0.474,1,6,0.167,8,13,0.615,0.5,2,2,1.0,3,4,7,2,1,0,4,2,21,12.2,N,0,1,miles-bridges-1,Miles Bridges,2017
+2,2,2,2016-11-15,Michigan State,N,Kentucky,REG (Non-Conf),L 48-69,*,33,2,11,0.182,1,5,0.2,1,6,0.167,0.227,1,3,0.333,3,9,12,1,0,3,9,3,6,-4.3,N,0,1,miles-bridges-1,Miles Bridges,2017
+3,3,3,2016-11-18,Michigan State,,Mississippi Valley State,REG (Non-Conf),W 100-53,*,32,11,14,0.786,2,2,1.0,9,12,0.75,0.857,0,2,0.0,4,7,11,6,0,0,1,0,24,25.9,H,1,1,miles-bridges-1,Miles Bridges,2017
+4,4,4,2016-11-20,Michigan State,,Florida Gulf Coast,REG (Non-Conf),W 78-77,*,37,4,12,0.333,2,5,0.4,2,7,0.286,0.417,3,4,0.75,0,7,7,3,2,3,3,0,13,11.1,H,1,1,miles-bridges-1,Miles Bridges,2017
+5,5,5,2016-11-23,Michigan State,N,St. John's (NY),REG (Non-Conf),W 73-62,*,35,9,18,0.5,3,5,0.6,6,13,0.462,0.583,1,4,0.25,1,14,15,3,0,1,2,1,22,17.1,N,1,1,miles-bridges-1,Miles Bridges,2017
+6,6,6,2016-11-24,Michigan State,N,Baylor,REG (Non-Conf),L 58-73,*,29,7,11,0.636,1,4,0.25,6,7,0.857,0.682,0,0,,1,4,5,1,0,3,3,3,15,10.6,N,0,1,miles-bridges-1,Miles Bridges,2017
+7,7,7,2016-11-25,Michigan State,N,Wichita State,REG (Non-Conf),W 77-72,*,23,6,11,0.545,4,8,0.5,2,3,0.667,0.727,5,7,0.714,1,3,4,0,0,2,2,2,21,15.1,N,1,1,miles-bridges-1,Miles Bridges,2017
+8,8,8,2016-11-29,Michigan State,@,Duke,REG (Non-Conf),L 69-78,*,34,4,13,0.308,1,4,0.25,3,9,0.333,0.346,2,4,0.5,2,7,9,0,1,0,3,5,11,2.2,A,0,1,miles-bridges-1,Miles Bridges,2017
+9,9,16,2017-01-04,Michigan State,,Rutgers,REG (Conf),W 93-65,,17,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,1,5,6,2,0,2,2,0,6,6.7,H,1,1,miles-bridges-1,Miles Bridges,2017
+10,10,17,2017-01-07,Michigan State,N,Penn State,REG (Conf),L 63-72,*,27,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,6,6,2,1,1,3,4,4,-0.5,N,0,1,miles-bridges-1,Miles Bridges,2017
+11,11,18,2017-01-11,Michigan State,,Minnesota,REG (Conf),W 65-47,*,22,5,7,0.714,2,3,0.667,3,4,0.75,0.857,4,4,1.0,0,6,6,1,0,4,2,1,16,16.0,H,1,1,miles-bridges-1,Miles Bridges,2017
+12,12,19,2017-01-15,Michigan State,@,Ohio State,REG (Conf),L 67-72,*,32,9,12,0.75,4,5,0.8,5,7,0.714,0.917,2,2,1.0,1,8,9,2,1,0,6,2,24,17.9,A,0,1,miles-bridges-1,Miles Bridges,2017
+13,13,20,2017-01-21,Michigan State,@,Indiana,REG (Conf),L 75-82,*,37,4,17,0.235,2,7,0.286,2,10,0.2,0.294,3,5,0.6,2,8,10,4,0,1,0,2,13,8.4,A,0,1,miles-bridges-1,Miles Bridges,2017
+14,14,21,2017-01-24,Michigan State,,Purdue,REG (Conf),L 73-84,*,36,12,17,0.706,5,8,0.625,7,9,0.778,0.853,4,6,0.667,1,6,7,1,1,4,2,3,33,28.9,H,0,1,miles-bridges-1,Miles Bridges,2017
+15,15,22,2017-01-29,Michigan State,,Michigan,REG (Conf),W 70-62,*,36,7,17,0.412,1,4,0.25,6,13,0.462,0.441,0,1,0.0,3,10,13,2,3,2,2,0,15,14.4,H,1,1,miles-bridges-1,Miles Bridges,2017
+16,16,23,2017-02-02,Michigan State,@,Nebraska,REG (Conf),W 72-61,*,37,7,10,0.7,2,5,0.4,5,5,1.0,0.8,0,0,,1,5,6,1,0,1,0,2,16,14.6,A,1,1,miles-bridges-1,Miles Bridges,2017
+17,17,24,2017-02-07,Michigan State,@,Michigan,REG (Conf),L 57-86,*,35,6,12,0.5,1,4,0.25,5,8,0.625,0.542,2,2,1.0,0,5,5,3,0,0,5,2,15,6.8,A,0,1,miles-bridges-1,Miles Bridges,2017
+18,18,25,2017-02-11,Michigan State,,Iowa,REG (Conf),W 77-66,*,37,7,14,0.5,2,6,0.333,5,8,0.625,0.571,0,1,0.0,4,7,11,3,1,4,1,1,16,18.0,H,1,1,miles-bridges-1,Miles Bridges,2017
+19,19,26,2017-02-14,Michigan State,,Ohio State,REG (Conf),W 74-66,*,31,6,13,0.462,1,5,0.2,5,8,0.625,0.5,4,6,0.667,1,10,11,0,2,2,4,2,17,11.8,H,1,1,miles-bridges-1,Miles Bridges,2017
+20,20,27,2017-02-18,Michigan State,@,Purdue,REG (Conf),L 63-80,*,32,4,9,0.444,4,6,0.667,0,3,0.0,0.667,2,2,1.0,2,7,9,3,0,0,4,2,14,10.1,A,0,1,miles-bridges-1,Miles Bridges,2017
+21,21,28,2017-02-23,Michigan State,,Nebraska,REG (Conf),W 88-72,*,30,8,13,0.615,1,2,0.5,7,11,0.636,0.654,3,6,0.5,0,5,5,1,1,2,0,1,20,17.1,H,1,1,miles-bridges-1,Miles Bridges,2017
+22,22,29,2017-02-26,Michigan State,,Wisconsin,REG (Conf),W 84-74,*,29,4,11,0.364,2,5,0.4,2,6,0.333,0.455,7,9,0.778,1,6,7,4,1,0,1,4,17,13.8,H,1,1,miles-bridges-1,Miles Bridges,2017
+23,23,30,2017-03-01,Michigan State,@,Illinois,REG (Conf),L 70-73,*,31,7,16,0.438,3,6,0.5,4,10,0.4,0.531,4,5,0.8,2,8,10,1,0,3,2,2,21,16.0,A,0,1,miles-bridges-1,Miles Bridges,2017
+24,24,31,2017-03-04,Michigan State,@,Maryland,REG (Conf),L 60-63,*,34,6,16,0.375,4,11,0.364,2,5,0.4,0.5,2,2,1.0,0,8,8,2,1,1,1,1,18,13.3,A,0,1,miles-bridges-1,Miles Bridges,2017
+25,25,32,2017-03-09,Michigan State,N,Penn State,CTOURN,W 78-51,*,28,6,11,0.545,1,3,0.333,5,8,0.625,0.591,2,2,1.0,2,7,9,3,1,2,1,1,15,16.3,N,1,0,miles-bridges-1,Miles Bridges,2017
+26,26,33,2017-03-10,Michigan State,N,Minnesota,CTOURN,L 58-63,*,35,7,20,0.35,2,11,0.182,5,9,0.556,0.4,4,4,1.0,2,5,7,2,1,1,1,3,20,12.6,N,0,0,miles-bridges-1,Miles Bridges,2017
+27,27,34,2017-03-17,Michigan State,N,Miami (FL),ROUND-64,W 78-58,*,35,8,12,0.667,2,4,0.5,6,8,0.75,0.75,0,0,,2,7,9,3,0,1,1,2,18,17.3,N,1,0,miles-bridges-1,Miles Bridges,2017
+28,28,35,2017-03-19,Michigan State,N,Kansas,ROUND-32,L 70-90,*,34,7,15,0.467,2,6,0.333,5,9,0.556,0.533,6,9,0.667,1,7,8,2,1,0,1,1,22,16.9,N,0,0,miles-bridges-1,Miles Bridges,2017

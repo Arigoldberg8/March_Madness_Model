@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,San Diego State,,UCLA,REG (Non-Conf),W 73-58,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,1,1,lamont-butler-1,Lamont Butler,2021
+2,2,2,2020-11-27,San Diego State,,UC Irvine,REG (Non-Conf),W 77-58,,16,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,1,1,0,1,2,5,2.2,H,1,1,lamont-butler-1,Lamont Butler,2021
+3,3,3,2020-12-02,San Diego State,,St. Katherine,REG (Non-Conf),W 83-41,,14,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,1,2,3,1,1,0,0,3,6,7.5,H,1,1,lamont-butler-1,Lamont Butler,2021
+4,4,4,2020-12-06,San Diego State,,Pepperdine,REG (Non-Conf),W 65-60,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,H,1,1,lamont-butler-1,Lamont Butler,2021
+5,5,5,2020-12-10,San Diego State,@,Arizona State,REG (Non-Conf),W 80-68,,12,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,3,3,2,1,0,1,0,2,1.9,A,1,1,lamont-butler-1,Lamont Butler,2021
+6,6,6,2020-12-18,San Diego State,,Brigham Young,REG (Non-Conf),L 62-72,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,1,0,0,2,0,0,-2.0,H,0,1,lamont-butler-1,Lamont Butler,2021
+7,7,7,2020-12-22,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 74-49,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,1,0,1,3,2,-0.2,N,1,1,lamont-butler-1,Lamont Butler,2021
+8,8,8,2021-01-02,San Diego State,,Colorado State,REG (Conf),L 67-70,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,lamont-butler-1,Lamont Butler,2021
+9,9,9,2021-01-04,San Diego State,,Colorado State,REG (Conf),W 78-65,,13,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,1,1,1,1,0,1,4,4,0.7,H,1,1,lamont-butler-1,Lamont Butler,2021
+10,10,10,2021-01-07,San Diego State,,Nevada,REG (Conf),W 65-60,,9,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,0,1,1,3,0.9,H,1,1,lamont-butler-1,Lamont Butler,2021
+11,11,11,2021-01-09,San Diego State,,Nevada,REG (Conf),W 69-67,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,H,1,1,lamont-butler-1,Lamont Butler,2021
+12,12,12,2021-01-14,San Diego State,@,Utah State,REG (Conf),L 45-57,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,2,1,0,-2.4,A,0,1,lamont-butler-1,Lamont Butler,2021
+13,13,13,2021-01-16,San Diego State,@,Utah State,REG (Conf),L 59-64,,25,6,8,0.75,0,1,0.0,6,7,0.857,0.75,1,2,0.5,0,2,2,1,5,0,3,0,13,12.7,A,0,1,lamont-butler-1,Lamont Butler,2021
+14,14,14,2021-01-22,San Diego State,@,Air Force,REG (Conf),W 98-61,*,25,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,2,2,4,5,3,0,6,4,7,4.5,A,1,1,lamont-butler-1,Lamont Butler,2021
+15,15,15,2021-01-24,San Diego State,@,Air Force,REG (Conf),W 91-59,*,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,3,3,1,0,0,0,2,2,1.1,A,1,1,lamont-butler-1,Lamont Butler,2021
+16,16,16,2021-01-28,San Diego State,,Wyoming,REG (Conf),W 87-57,,20,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,4,0.5,0,4,4,6,1,0,4,3,13,9.1,H,1,1,lamont-butler-1,Lamont Butler,2021
+17,17,17,2021-01-30,San Diego State,,Wyoming,REG (Conf),W 98-71,,19,3,4,0.75,1,2,0.5,2,2,1.0,0.875,4,6,0.667,0,2,2,4,1,0,1,5,11,10.0,H,1,1,lamont-butler-1,Lamont Butler,2021
+18,18,18,2021-02-08,San Diego State,,San Jose State,REG (Conf),W 85-54,,21,1,9,0.111,0,5,0.0,1,4,0.25,0.111,1,2,0.5,0,5,5,2,1,0,1,2,3,-1.2,H,1,1,lamont-butler-1,Lamont Butler,2021
+19,19,19,2021-02-10,San Diego State,,San Jose State,REG (Conf),W 77-55,,16,3,5,0.6,1,2,0.5,2,3,0.667,0.7,4,4,1.0,0,5,5,2,2,0,0,3,11,12.4,H,1,1,lamont-butler-1,Lamont Butler,2021
+20,20,20,2021-02-18,San Diego State,@,Fresno State,REG (Conf),W 67-53,,14,2,3,0.667,0,0,,2,3,0.667,0.667,1,4,0.25,0,2,2,3,0,0,0,2,5,4.4,A,1,1,lamont-butler-1,Lamont Butler,2021
+21,21,21,2021-02-20,San Diego State,@,Fresno State,REG (Conf),W 75-57,,18,1,3,0.333,0,0,,1,3,0.333,0.333,4,7,0.571,0,1,1,2,2,0,1,3,6,4.6,A,1,1,lamont-butler-1,Lamont Butler,2021
+22,22,22,2021-02-25,San Diego State,,Boise State,REG (Conf),W 78-66 (OT),,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,2,2,1.0,0,3,3,1,0,0,2,0,4,0.5,H,1,1,lamont-butler-1,Lamont Butler,2021
+23,23,23,2021-02-27,San Diego State,,Boise State,REG (Conf),W 62-58,,9,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,0,1,1,3,0,0,3,2,3,0.2,H,1,1,lamont-butler-1,Lamont Butler,2021
+24,24,24,2021-03-03,San Diego State,@,UNLV,REG (Conf),W 71-62,,9,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,2,2,1,1,0,1,0,0,-1.5,A,1,1,lamont-butler-1,Lamont Butler,2021
+25,25,25,2021-03-11,San Diego State,N,Wyoming,CTOURN,W 69-66,,10,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,0,0,0,1,0,0,1,0,8,4.7,N,1,0,lamont-butler-1,Lamont Butler,2021
+26,26,26,2021-03-12,San Diego State,N,Nevada,CTOURN,W 77-70,,12,2,4,0.5,1,2,0.5,1,2,0.5,0.625,5,7,0.714,0,2,2,2,0,0,0,2,10,8.4,N,1,0,lamont-butler-1,Lamont Butler,2021
+27,27,27,2021-03-13,San Diego State,N,Utah State,CTOURN,W 68-57,,14,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,1,2,1,2,0,1,3,2,0.4,N,1,0,lamont-butler-1,Lamont Butler,2021
+28,28,28,2021-03-19,San Diego State,N,Syracuse,ROUND-64,L 62-78,,11,0,5,0.0,0,3,0.0,0,2,0.0,0.0,1,2,0.5,1,1,2,2,1,0,0,0,1,0.5,N,0,0,lamont-butler-1,Lamont Butler,2021

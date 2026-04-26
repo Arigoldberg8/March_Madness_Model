@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2016-11-12,Kent State,N,Cleveland State,REG (Non-Conf),W 79-74 (OT),,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+2,53,2,2016-11-16,Kent State,,Mississippi Valley State,REG (Non-Conf),W 93-63,,11,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,2,3,5,1,0,0,1,0,2,0.9,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+3,54,3,2016-11-18,Kent State,,Hiram,REG (Non-Conf),W 111-55,,14,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,3,1,4,2,2,0,0,0,4,7.1,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+4,55,5,2016-11-22,Kent State,N,George Mason,REG (Non-Conf),L 75-79,*,26,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,1,1,2,3,1,0,1,1,9,8.4,N,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+5,56,6,2016-11-23,Kent State,N,Wofford,REG (Non-Conf),W 66-59,*,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,2,1,0,0,2,2,2.2,N,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+6,57,7,2016-11-27,Kent State,@,Northeastern,REG (Non-Conf),L 70-73,*,19,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,3,0,0,0,2,0,0.9,A,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+7,58,8,2016-12-02,Kent State,,Grambling State,REG (Non-Conf),W 86-57,,18,3,8,0.375,2,5,0.4,1,3,0.333,0.5,1,2,0.5,2,3,5,3,0,0,0,0,9,8.6,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+8,59,9,2016-12-07,Kent State,,Niagara,REG (Non-Conf),W 100-72,,19,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,4,4,2,0,0,0,3,2,1.7,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+9,60,10,2016-12-10,Kent State,,NJIT,REG (Non-Conf),W 87-71,,23,3,5,0.6,3,4,0.75,0,1,0.0,0.9,0,0,,1,5,6,1,2,0,1,2,9,9.8,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+10,61,11,2016-12-18,Kent State,,Wright State,REG (Non-Conf),L 63-68,,24,6,11,0.545,3,4,0.75,3,7,0.429,0.682,0,1,0.0,2,3,5,0,1,0,0,0,15,12.6,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+11,62,12,2016-12-21,Kent State,@,Oregon State,REG (Non-Conf),L 50-69,,26,4,11,0.364,0,5,0.0,4,6,0.667,0.364,3,4,0.75,3,1,4,5,5,0,0,1,11,15.0,A,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+12,63,13,2016-12-27,Kent State,@,Texas,REG (Non-Conf),W 63-58,,26,2,8,0.25,0,2,0.0,2,6,0.333,0.25,2,3,0.667,1,2,3,5,4,0,3,2,6,5.8,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+13,64,14,2017-01-03,Kent State,,Ball State,REG (Conf),W 100-90,,22,2,6,0.333,1,3,0.333,1,3,0.333,0.417,8,8,1.0,0,0,0,2,1,0,0,3,13,10.8,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+14,65,15,2017-01-06,Kent State,@,Ohio,REG (Conf),L 67-85,,22,2,7,0.286,0,2,0.0,2,5,0.4,0.286,0,1,0.0,2,2,4,0,3,0,1,1,4,3.1,A,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+15,66,16,2017-01-10,Kent State,,Northern Illinois,REG (Conf),L 70-74 (OT),*,34,4,12,0.333,0,4,0.0,4,8,0.5,0.333,0,0,,3,4,7,4,1,0,1,3,8,6.1,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+16,67,17,2017-01-14,Kent State,@,Western Michigan,REG (Conf),L 88-92,*,35,5,10,0.5,0,3,0.0,5,7,0.714,0.5,0,0,,0,2,2,5,2,0,3,2,10,7.3,A,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+17,68,18,2017-01-17,Kent State,,Buffalo,REG (Conf),L 69-82,,29,3,9,0.333,1,1,1.0,2,8,0.25,0.389,0,0,,1,0,1,4,1,1,2,2,7,4.3,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+18,69,19,2017-01-21,Kent State,,Toledo,REG (Conf),W 85-61,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,1,0,1,1,0,0,1,3,2,-0.5,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+19,70,20,2017-01-24,Kent State,@,Northern Illinois,REG (Conf),W 73-66,,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,0,0,1,0,0,1,0,2,1.0,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+20,71,21,2017-01-28,Kent State,,Central Michigan,REG (Conf),L 98-105 (OT),,20,2,5,0.4,0,3,0.0,2,2,1.0,0.4,0,0,,1,1,2,4,0,0,0,3,4,3.9,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+21,72,22,2017-01-31,Kent State,@,Eastern Michigan,REG (Conf),W 70-64,,12,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,4,4,1,0,0,0,0,0,0.5,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+22,73,23,2017-02-04,Kent State,@,Miami (OH),REG (Conf),W 66-62,,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,3,0.667,0,3,3,0,1,1,0,2,6,5.4,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+23,74,24,2017-02-07,Kent State,,Bowling Green,REG (Conf),L 83-84 (OT),,29,5,8,0.625,0,2,0.0,5,6,0.833,0.625,2,2,1.0,2,4,6,3,2,3,3,4,12,12.6,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+24,75,25,2017-02-11,Kent State,@,Toledo,REG (Conf),L 58-78,,22,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,1,0,1,2,2,-0.6,A,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+25,76,26,2017-02-14,Kent State,,Miami (OH),REG (Conf),W 76-72,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,0,0,0,0.6,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+26,77,27,2017-02-17,Kent State,@,Akron,REG (Conf),W 70-67,,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+27,78,28,2017-02-21,Kent State,@,Buffalo,REG (Conf),W 77-69,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+28,79,29,2017-02-25,Kent State,,Ohio,REG (Conf),W 70-67,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,2,1,3,2,1,0,0,2,0,2.6,H,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+29,80,30,2017-02-28,Kent State,@,Bowling Green,REG (Conf),W 74-67,,11,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,A,1,1,desmond-ridenour-1,Desmond Ridenour,2017
+30,81,31,2017-03-03,Kent State,,Akron,REG (Conf),L 56-66,,8,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,2,0,-1.1,H,0,1,desmond-ridenour-1,Desmond Ridenour,2017
+31,82,32,2017-03-06,Kent State,,Central Michigan,CTOURN,W 116-106 (OT),,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,1,0,0,0,0,0.3,H,1,0,desmond-ridenour-1,Desmond Ridenour,2017
+32,83,33,2017-03-09,Kent State,N,Buffalo,CTOURN,W 68-65,,20,2,4,0.5,2,2,1.0,0,2,0.0,0.75,0,1,0.0,0,3,3,0,1,0,1,2,6,3.7,N,1,0,desmond-ridenour-1,Desmond Ridenour,2017
+33,84,34,2017-03-10,Kent State,N,Ohio,CTOURN,W 68-66,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,0,1,2,1,0,0,1,0,0.6,N,1,0,desmond-ridenour-1,Desmond Ridenour,2017
+34,85,35,2017-03-11,Kent State,N,Akron,CTOURN,W 70-65,,2,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,N,1,0,desmond-ridenour-1,Desmond Ridenour,2017
+35,86,36,2017-03-17,Kent State,N,UCLA,ROUND-64,L 80-97,,8,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,N,0,0,desmond-ridenour-1,Desmond Ridenour,2017

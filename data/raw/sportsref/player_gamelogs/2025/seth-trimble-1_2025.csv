@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,1,2024-11-04,North Carolina,,Elon,REG (Non-Conf),W 90-76,*,30,6,12,0.5,3,4,0.75,3,8,0.375,0.625,0,1,0.0,0,2,2,3,2,1,1,1,15,12.6,H,1,1,seth-trimble-1,Seth Trimble,2025
+2,70,2,2024-11-08,North Carolina,@,Kansas,REG (Non-Conf),L 89-92,*,33,5,11,0.455,1,3,0.333,4,8,0.5,0.5,8,8,1.0,1,3,4,0,0,0,1,1,19,13.5,A,0,1,seth-trimble-1,Seth Trimble,2025
+3,71,3,2024-11-15,North Carolina,,American,REG (Non-Conf),W 107-55,*,26,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,4,1.0,0,6,6,1,1,1,2,0,13,12.6,H,1,1,seth-trimble-1,Seth Trimble,2025
+4,72,4,2024-11-23,North Carolina,@,Hawaii,REG (Non-Conf),W 87-69,*,29,3,8,0.375,1,1,1.0,2,7,0.286,0.438,6,7,0.857,0,3,3,4,2,2,0,2,13,14.5,A,1,1,seth-trimble-1,Seth Trimble,2025
+5,73,5,2024-11-25,North Carolina,N,Dayton,REG (Non-Conf),W 92-90,*,33,10,14,0.714,2,5,0.4,8,9,0.889,0.786,5,5,1.0,3,7,10,1,0,1,1,4,27,24.2,N,1,1,seth-trimble-1,Seth Trimble,2025
+6,74,6,2024-11-26,North Carolina,N,Auburn,REG (Non-Conf),L 72-85,*,35,7,13,0.538,3,6,0.5,4,7,0.571,0.654,0,2,0.0,0,1,1,1,1,0,3,3,17,7.7,N,0,1,seth-trimble-1,Seth Trimble,2025
+7,75,7,2024-11-27,North Carolina,N,Michigan State,REG (Non-Conf),L 91-94 (OT),*,37,3,9,0.333,1,2,0.5,2,7,0.286,0.389,2,3,0.667,0,2,2,3,4,1,2,0,9,8.9,N,0,1,seth-trimble-1,Seth Trimble,2025
+8,76,8,2024-12-04,North Carolina,,Alabama,REG (Non-Conf),L 79-94,*,28,4,13,0.308,1,4,0.25,3,9,0.333,0.346,3,4,0.75,2,2,4,1,0,0,1,2,12,5.0,H,0,1,seth-trimble-1,Seth Trimble,2025
+9,77,9,2024-12-07,North Carolina,,Georgia Tech,REG (Conf),W 68-65,*,34,5,6,0.833,1,1,1.0,4,5,0.8,0.917,8,9,0.889,3,4,7,0,4,0,0,2,19,22.9,H,1,1,seth-trimble-1,Seth Trimble,2025
+10,78,10,2024-12-14,North Carolina,,La Salle,REG (Non-Conf),W 93-67,*,30,4,7,0.571,0,3,0.0,4,4,1.0,0.571,2,3,0.667,2,6,8,4,2,0,3,1,10,10.9,H,1,1,seth-trimble-1,Seth Trimble,2025
+11,79,11,2024-12-17,North Carolina,N,Florida,REG (Non-Conf),L 84-90,*,34,4,10,0.4,0,2,0.0,4,8,0.5,0.4,3,3,1.0,4,3,7,0,3,0,0,4,11,10.7,N,0,1,seth-trimble-1,Seth Trimble,2025
+12,80,12,2024-12-21,North Carolina,N,UCLA,REG (Non-Conf),W 76-74,*,31,2,10,0.2,1,6,0.167,1,4,0.25,0.25,7,8,0.875,1,3,4,2,2,2,2,1,12,9.4,N,1,1,seth-trimble-1,Seth Trimble,2025
+13,81,16,2025-01-07,North Carolina,,SMU,REG (Conf),W 82-67,,26,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,1,0.0,0,2,2,3,0,0,1,0,0,-0.8,H,1,1,seth-trimble-1,Seth Trimble,2025
+14,82,17,2025-01-11,North Carolina,@,NC State,REG (Conf),W 63-61,,25,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,1,4,5,1,2,0,2,0,4,3.2,A,1,1,seth-trimble-1,Seth Trimble,2025
+15,83,18,2025-01-15,North Carolina,,California,REG (Conf),W 79-53,,25,3,8,0.375,0,2,0.0,3,6,0.5,0.375,6,6,1.0,0,6,6,0,3,0,0,1,12,12.0,H,1,1,seth-trimble-1,Seth Trimble,2025
+16,84,19,2025-01-18,North Carolina,,Stanford,REG (Conf),L 71-72,,30,3,7,0.429,1,2,0.5,2,5,0.4,0.5,2,2,1.0,0,4,4,1,1,0,1,3,9,6.0,H,0,1,seth-trimble-1,Seth Trimble,2025
+17,85,20,2025-01-21,North Carolina,@,Wake Forest,REG (Conf),L 66-67,,18,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,1,2,3,1,0,0,0,3,4,0.0,A,0,1,seth-trimble-1,Seth Trimble,2025
+18,86,21,2025-01-25,North Carolina,,Boston College,REG (Conf),W 102-96 (OT),*,43,5,13,0.385,1,4,0.25,4,9,0.444,0.423,7,8,0.875,5,7,12,2,0,0,1,1,18,16.1,H,1,1,seth-trimble-1,Seth Trimble,2025
+19,87,22,2025-01-28,North Carolina,@,Pittsburgh,REG (Conf),L 65-73,*,36,3,14,0.214,0,5,0.0,3,9,0.333,0.214,4,5,0.8,4,8,12,2,1,0,0,2,10,7.8,A,0,1,seth-trimble-1,Seth Trimble,2025
+20,88,23,2025-02-01,North Carolina,@,Duke,REG (Conf),L 70-87,*,30,4,8,0.5,0,3,0.0,4,5,0.8,0.5,2,3,0.667,1,4,5,2,1,0,2,1,10,7.5,A,0,1,seth-trimble-1,Seth Trimble,2025
+21,89,24,2025-02-08,North Carolina,,Pittsburgh,REG (Conf),W 67-66,*,35,6,13,0.462,2,5,0.4,4,8,0.5,0.538,1,2,0.5,2,5,7,1,0,0,2,2,15,8.7,H,1,1,seth-trimble-1,Seth Trimble,2025
+22,90,25,2025-02-10,North Carolina,@,Clemson,REG (Conf),L 65-85,*,30,5,11,0.455,0,2,0.0,5,9,0.556,0.455,2,3,0.667,2,2,4,1,3,1,1,2,12,10.5,A,0,1,seth-trimble-1,Seth Trimble,2025
+23,91,26,2025-02-15,North Carolina,@,Syracuse,REG (Conf),W 88-82,*,26,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,2,6,8,1,2,0,0,2,4,4.3,A,1,1,seth-trimble-1,Seth Trimble,2025
+24,92,27,2025-02-19,North Carolina,,NC State,REG (Conf),W 97-73,,26,6,9,0.667,0,1,0.0,6,8,0.75,0.667,3,4,0.75,1,6,7,0,1,0,1,1,15,12.8,H,1,1,seth-trimble-1,Seth Trimble,2025
+25,93,28,2025-02-22,North Carolina,,Virginia,REG (Conf),W 81-66,,23,2,5,0.4,0,0,,2,5,0.4,0.4,1,1,1.0,1,4,5,1,1,0,1,0,5,4.9,H,1,1,seth-trimble-1,Seth Trimble,2025
+26,94,29,2025-02-24,North Carolina,@,Florida State,REG (Conf),W 96-85,,25,6,10,0.6,2,5,0.4,4,5,0.8,0.7,3,4,0.75,0,2,2,0,0,0,0,1,17,12.2,A,1,1,seth-trimble-1,Seth Trimble,2025
+27,95,30,2025-03-01,North Carolina,,Miami (FL),REG (Conf),W 92-73,,23,2,3,0.667,2,3,0.667,0,0,,1.0,4,6,0.667,0,4,4,3,1,0,2,1,10,9.8,H,1,1,seth-trimble-1,Seth Trimble,2025
+28,96,31,2025-03-04,North Carolina,@,Virginia Tech,REG (Conf),W 91-59,,21,6,10,0.6,1,3,0.333,5,7,0.714,0.65,4,5,0.8,1,2,3,1,3,1,0,0,17,17.7,A,1,1,seth-trimble-1,Seth Trimble,2025
+29,97,32,2025-03-08,North Carolina,,Duke,REG (Conf),L 69-82,,26,1,9,0.111,1,3,0.333,0,6,0.0,0.167,4,4,1.0,1,3,4,1,2,0,1,2,7,3.6,H,0,1,seth-trimble-1,Seth Trimble,2025
+30,98,33,2025-03-12,North Carolina,N,Notre Dame,CTOURN,W 76-56,,22,0,4,0.0,0,3,0.0,0,1,0.0,0.0,1,2,0.5,0,3,3,0,0,0,2,1,1,-3.7,N,1,0,seth-trimble-1,Seth Trimble,2025
+31,99,34,2025-03-13,North Carolina,N,Wake Forest,CTOURN,W 68-59,,22,1,6,0.167,0,2,0.0,1,4,0.25,0.167,8,9,0.889,1,3,4,1,0,1,1,1,10,7.4,N,1,0,seth-trimble-1,Seth Trimble,2025
+32,100,35,2025-03-14,North Carolina,N,Duke,CTOURN,L 71-74,,30,4,7,0.571,0,1,0.0,4,6,0.667,0.571,6,9,0.667,0,4,4,2,3,0,1,2,14,13.3,N,0,0,seth-trimble-1,Seth Trimble,2025
+33,101,36,2025-03-18,North Carolina,N,San Diego State,FIRST-FOUR,W 95-68,,27,5,10,0.5,0,2,0.0,5,8,0.625,0.5,6,6,1.0,1,2,3,0,0,0,0,3,16,11.1,N,1,0,seth-trimble-1,Seth Trimble,2025
+34,102,37,2025-03-21,North Carolina,N,Ole Miss,ROUND-64,L 64-71,,27,3,8,0.375,0,3,0.0,3,5,0.6,0.375,3,3,1.0,0,4,4,0,1,0,1,4,9,4.2,N,0,0,seth-trimble-1,Seth Trimble,2025

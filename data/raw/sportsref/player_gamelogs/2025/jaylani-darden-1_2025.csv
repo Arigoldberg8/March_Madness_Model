@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,80,1,2024-11-04,Norfolk State,,Penn St. Wilkes-Barre,REG (Non-Conf),W 96-41,*,19,4,6,0.667,0,2,0.0,4,4,1.0,0.667,3,4,0.75,1,5,6,3,1,0,0,1,11,12.9,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+2,81,2,2024-11-06,Norfolk State,,VU Lynchburg,REG (Non-Conf),W 104-60,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,1,2,3,3,0,1,0,2,8,9.0,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+3,82,4,2024-11-12,Norfolk State,@,William & Mary,REG (Non-Conf),L 73-84,,16,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,2,4,6,2,0,0,1,4,4,3.4,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+4,83,5,2024-11-16,Norfolk State,@,Hampton,REG (Non-Conf),W 67-58,*,19,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,2,5,7,1,1,0,1,2,5,6.1,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+5,84,6,2024-11-20,Norfolk State,@,Stanford,REG (Non-Conf),L 63-70,*,27,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,5,6,0,2,0,1,3,2,2.3,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+6,85,7,2024-11-22,Norfolk State,@,Grand Canyon,REG (Non-Conf),L 73-91,*,11,0,0,,0,0,,0,0,,,0,0,,0,2,2,1,0,0,2,5,0,-2.7,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+7,86,8,2024-11-25,Norfolk State,@,UC Davis,REG (Non-Conf),W 76-55,*,27,3,7,0.429,0,3,0.0,3,4,0.75,0.429,2,2,1.0,2,5,7,5,2,0,0,3,8,11.5,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+8,87,9,2024-12-01,Norfolk State,@,Stony Brook,REG (Non-Conf),W 77-66,*,25,3,8,0.375,2,4,0.5,1,4,0.25,0.5,2,2,1.0,0,2,2,3,1,1,0,3,10,8.8,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+9,88,10,2024-12-09,Norfolk State,,Hofstra,REG (Non-Conf),L 67-80,*,30,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,2,1.0,0,2,2,1,0,0,1,2,2,-1.3,H,0,1,jaylani-darden-1,Jaylani Darden,2025
+10,89,11,2024-12-11,Norfolk State,@,Baylor,REG (Non-Conf),L 69-94,*,27,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,3,3,0,1,0,2,3,11,7.1,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+11,90,12,2024-12-15,Norfolk State,@,Northern Kentucky,REG (Non-Conf),L 62-71,*,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,2,3,0,0,0,0,5,2,-0.1,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+12,91,13,2024-12-19,Norfolk State,N,Alabama State,REG (Non-Conf),W 71-54,*,26,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,2,1.0,1,4,5,1,1,0,1,2,5,3.7,N,1,1,jaylani-darden-1,Jaylani Darden,2025
+13,92,14,2024-12-20,Norfolk State,N,Grambling State,REG (Non-Conf),W 76-70,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,3,4,0.75,0,1,1,0,0,0,2,1,3,-0.2,N,1,1,jaylani-darden-1,Jaylani Darden,2025
+14,93,15,2024-12-29,Norfolk State,@,High Point,REG (Non-Conf),W 77-74,,18,2,2,1.0,1,1,1.0,1,1,1.0,1.25,1,2,0.5,0,3,3,1,2,0,0,4,6,7.0,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+15,94,16,2024-12-31,Norfolk State,@,Tennessee,REG (Non-Conf),L 52-67,,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,3,4,0,0,0,1,4,2,-0.7,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+16,95,17,2025-01-04,Norfolk State,,Maryland Eastern Shore,REG (Conf),W 81-59,,26,4,9,0.444,2,3,0.667,2,6,0.333,0.556,0,0,,2,2,4,6,0,0,2,1,10,9.1,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+17,96,18,2025-01-06,Norfolk State,@,Delaware State,REG (Conf),W 73-64,*,35,5,11,0.455,0,1,0.0,5,10,0.5,0.455,2,3,0.667,2,7,9,6,3,0,5,3,12,10.4,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+18,97,20,2025-01-13,Norfolk State,@,Morgan State,REG (Conf),L 74-78,,23,2,8,0.25,1,4,0.25,1,4,0.25,0.313,0,2,0.0,3,4,7,0,2,0,2,1,5,2.3,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+19,98,21,2025-01-20,Norfolk State,,Wash. Adventist,REG (Non-Conf),W 105-42,*,25,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,0,,1,8,9,4,2,0,2,3,4,4.6,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+20,99,22,2025-01-25,Norfolk State,,Howard,REG (Conf),W 92-75,*,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,2,2,1.0,2,4,6,5,0,0,3,3,9,8.6,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+21,100,23,2025-02-01,Norfolk State,,South Carolina State,REG (Conf),W 67-65 (OT),*,38,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,3,6,9,3,2,1,4,3,5,4.7,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+22,101,24,2025-02-03,Norfolk State,,North Carolina Central,REG (Conf),W 81-78,*,27,6,9,0.667,0,0,,6,9,0.667,0.667,1,1,1.0,2,4,6,4,2,0,1,3,13,14.3,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+23,102,25,2025-02-15,Norfolk State,@,Maryland Eastern Shore,REG (Conf),W 75-63,*,33,5,10,0.5,2,3,0.667,3,7,0.429,0.6,4,4,1.0,2,3,5,3,4,0,1,2,16,17.6,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+24,103,26,2025-02-17,Norfolk State,,Delaware State,REG (Conf),W 96-84,*,33,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,8,8,5,5,1,3,3,7,10.0,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+25,104,27,2025-02-22,Norfolk State,@,Coppin State,REG (Conf),W 79-63,*,18,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,3,3,1,3,0,1,2,3,4.1,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+26,105,28,2025-02-24,Norfolk State,,Morgan State,REG (Conf),W 69-60,*,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,2,0,0,0,2,4,4.6,H,1,1,jaylani-darden-1,Jaylani Darden,2025
+27,106,29,2025-03-01,Norfolk State,@,South Carolina State,REG (Conf),L 88-91,*,12,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,2,0,0,0,1,6,6.0,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+28,107,30,2025-03-03,Norfolk State,@,North Carolina Central,REG (Conf),L 87-91 (OT),*,30,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,2,4,0,2,3,2,2.8,A,0,1,jaylani-darden-1,Jaylani Darden,2025
+29,108,31,2025-03-06,Norfolk State,@,Howard,REG (Conf),W 81-69,*,27,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,2,2,2,3,0,3,3,8,6.5,A,1,1,jaylani-darden-1,Jaylani Darden,2025
+30,109,32,2025-03-12,Norfolk State,N,Maryland Eastern Shore,CTOURN,W 77-70,*,32,2,7,0.286,0,5,0.0,2,2,1.0,0.286,3,4,0.75,0,7,7,6,1,0,1,2,7,8.0,N,1,0,jaylani-darden-1,Jaylani Darden,2025
+31,110,33,2025-03-14,Norfolk State,N,Morgan State,CTOURN,W 58-55,*,29,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,4,6,4,1,2,3,1,6,7.0,N,1,0,jaylani-darden-1,Jaylani Darden,2025
+32,111,34,2025-03-15,Norfolk State,N,South Carolina State,CTOURN,W 66-65,*,25,2,7,0.286,0,1,0.0,2,6,0.333,0.286,3,4,0.75,2,2,4,2,1,1,4,3,7,2.4,N,1,0,jaylani-darden-1,Jaylani Darden,2025
+33,112,35,2025-03-21,Norfolk State,N,Florida,ROUND-64,L 69-95,*,33,7,10,0.7,0,1,0.0,7,9,0.778,0.7,1,1,1.0,1,5,6,3,2,0,1,4,15,14.5,N,0,0,jaylani-darden-1,Jaylani Darden,2025

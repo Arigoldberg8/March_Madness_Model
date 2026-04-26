@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,71,1,2015-11-13,VCU,,Prairie View A&M,REG (Non-Conf),W 75-50,*,25,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,2,1.0,0,1,1,7,3,0,3,1,8,10.5,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+2,72,2,2015-11-16,VCU,,Radford,REG (Non-Conf),W 92-74,*,30,3,7,0.429,1,3,0.333,2,4,0.5,0.5,6,8,0.75,0,2,2,8,3,0,2,3,13,14.5,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+3,73,3,2015-11-20,VCU,N,Duke,REG (Non-Conf),L 71-79,*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,0,0,6,2,0,4,5,6,3.5,N,0,1,jequan-lewis-1,JeQuan Lewis,2016
+4,74,4,2015-11-22,VCU,N,Wisconsin,REG (Non-Conf),L 73-74,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,1,1,0,3,1,2,0.3,N,0,1,jequan-lewis-1,JeQuan Lewis,2016
+5,75,5,2015-11-25,VCU,,American,REG (Non-Conf),W 72-44,,21,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,0,2,2,3,3,0,5,3,6,4.5,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+6,76,6,2015-11-28,VCU,,Old Dominion,REG (Non-Conf),W 76-67,,32,3,9,0.333,2,4,0.5,1,5,0.2,0.444,8,10,0.8,0,2,2,3,3,0,1,3,16,13.6,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+7,77,7,2015-12-02,VCU,@,Middle Tennessee,REG (Non-Conf),W 62-56,*,35,4,11,0.364,1,3,0.333,3,8,0.375,0.409,5,8,0.625,0,0,0,3,0,0,2,3,14,5.6,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+8,78,8,2015-12-06,VCU,N,Florida State,REG (Non-Conf),L 71-76,*,25,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,0,2,2,4,2,0,7,3,6,1.5,N,0,1,jequan-lewis-1,JeQuan Lewis,2016
+9,79,9,2015-12-15,VCU,@,Georgia Tech,REG (Non-Conf),L 64-77,*,17,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,2,1.0,0,0,0,4,0,0,6,4,7,-1.9,A,0,1,jequan-lewis-1,JeQuan Lewis,2016
+10,80,10,2015-12-19,VCU,,Cincinnati,REG (Non-Conf),L 63-69,*,28,4,11,0.364,1,2,0.5,3,9,0.333,0.409,4,5,0.8,1,2,3,4,1,0,1,4,13,9.0,H,0,1,jequan-lewis-1,JeQuan Lewis,2016
+11,81,11,2015-12-22,VCU,,Buffalo,REG (Non-Conf),W 90-69,*,21,4,6,0.667,1,2,0.5,3,4,0.75,0.75,0,0,,1,1,2,3,1,0,2,3,9,7.3,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+12,82,12,2015-12-27,VCU,,Liberty,REG (Non-Conf),W 85-57,*,23,6,10,0.6,0,3,0.0,6,7,0.857,0.6,2,3,0.667,0,1,1,3,0,0,3,2,14,7.6,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+13,83,13,2015-12-30,VCU,,North Florida,REG (Non-Conf),W 80-68,*,36,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,2,2,10,3,0,2,1,4,8.1,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+14,84,14,2016-01-02,VCU,,George Mason,REG (Conf),W 71-47,*,23,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,0,,0,3,3,6,0,0,2,3,8,4.5,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+15,85,15,2016-01-05,VCU,@,Saint Joseph's,REG (Conf),W 85-82,*,31,7,12,0.583,3,7,0.429,4,5,0.8,0.708,2,2,1.0,0,6,6,6,2,0,3,3,19,17.2,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+16,86,16,2016-01-10,VCU,@,Saint Louis,REG (Conf),W 72-56,*,21,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,1,1,4,1,0,5,4,2,-2.2,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+17,87,17,2016-01-13,VCU,,Fordham,REG (Conf),W 88-54,*,23,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,7,2,1,3,1,3,7.1,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+18,88,18,2016-01-16,VCU,@,Richmond,REG (Conf),W 94-89 (OT),*,42,9,14,0.643,3,4,0.75,6,10,0.6,0.75,8,8,1.0,0,4,4,2,1,0,4,3,29,21.2,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+19,89,19,2016-01-20,VCU,,Duquesne,REG (Conf),W 93-71,*,26,3,4,0.75,1,1,1.0,2,3,0.667,0.875,4,4,1.0,0,3,3,8,2,0,1,1,11,16.5,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+20,90,20,2016-01-24,VCU,,St. Bonaventure,REG (Conf),W 84-76,*,39,8,15,0.533,2,4,0.5,6,11,0.545,0.6,8,9,0.889,2,2,4,7,2,0,0,2,26,26.4,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+21,91,21,2016-01-29,VCU,@,Davidson,REG (Conf),W 79-69,*,39,7,17,0.412,3,6,0.5,4,11,0.364,0.5,5,6,0.833,0,4,4,5,4,0,5,4,22,14.6,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+22,92,22,2016-02-03,VCU,@,La Salle,REG (Conf),W 88-70,*,16,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,4,0.75,0,0,0,2,1,0,1,4,8,6.1,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+23,93,23,2016-02-06,VCU,,George Washington,REG (Conf),L 69-72,*,35,6,16,0.375,2,4,0.5,4,12,0.333,0.438,2,2,1.0,0,3,3,5,1,0,1,3,16,10.4,H,0,1,jequan-lewis-1,JeQuan Lewis,2016
+24,94,24,2016-02-11,VCU,@,Massachusetts,REG (Conf),L 63-69,*,34,5,8,0.625,4,6,0.667,1,2,0.5,0.875,1,2,0.5,0,4,4,5,3,0,5,4,15,12.1,A,0,1,jequan-lewis-1,JeQuan Lewis,2016
+25,95,25,2016-02-13,VCU,,Saint Louis,REG (Conf),W 85-52,*,26,3,6,0.5,3,4,0.75,0,2,0.0,0.75,0,0,,0,3,3,3,2,0,0,2,9,10.2,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+26,96,26,2016-02-16,VCU,,Rhode Island,REG (Conf),W 83-67,*,33,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,0,,0,3,3,6,3,0,0,1,4,6.9,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+27,97,27,2016-02-19,VCU,,Richmond,REG (Conf),W 87-74,*,35,5,10,0.5,2,5,0.4,3,5,0.6,0.6,1,1,1.0,2,3,5,10,1,0,5,1,13,12.9,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+28,98,28,2016-02-24,VCU,@,George Mason,REG (Conf),L 69-76,*,17,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,0,0,0,3,0,0,1,5,3,-0.7,A,0,1,jequan-lewis-1,JeQuan Lewis,2016
+29,99,29,2016-02-27,VCU,@,George Washington,REG (Conf),W 69-65,*,37,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,0,2,2,4,1,0,0,3,5,6.9,A,1,1,jequan-lewis-1,JeQuan Lewis,2016
+30,100,30,2016-03-02,VCU,,Davidson,REG (Conf),W 70-60,*,34,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,0,5,5,8,3,0,1,3,4,6.4,H,1,1,jequan-lewis-1,JeQuan Lewis,2016
+31,101,31,2016-03-05,VCU,@,Dayton,REG (Conf),L 67-68 (OT),*,21,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,0,2,2,3,0,0,4,4,4,-1.7,A,0,1,jequan-lewis-1,JeQuan Lewis,2016
+32,102,32,2016-03-11,VCU,N,Massachusetts,CTOURN,W 85-70,*,32,4,12,0.333,0,2,0.0,4,10,0.4,0.333,8,8,1.0,1,3,4,3,0,0,1,3,16,10.7,N,1,0,jequan-lewis-1,JeQuan Lewis,2016
+33,103,33,2016-03-12,VCU,N,Davidson,CTOURN,W 76-54,*,24,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,2,2,3,1,0,1,2,11,11.0,N,1,0,jequan-lewis-1,JeQuan Lewis,2016
+34,104,34,2016-03-13,VCU,N,Saint Joseph's,CTOURN,L 74-87,*,37,5,13,0.385,2,9,0.222,3,4,0.75,0.462,7,8,0.875,0,2,2,7,1,0,2,3,19,14.8,N,0,0,jequan-lewis-1,JeQuan Lewis,2016
+35,105,35,2016-03-18,VCU,N,Oregon State,ROUND-64,W 75-67,*,36,7,11,0.636,3,5,0.6,4,6,0.667,0.773,4,4,1.0,0,7,7,8,2,0,4,4,21,20.2,N,1,0,jequan-lewis-1,JeQuan Lewis,2016
+36,106,36,2016-03-20,VCU,N,Oklahoma,ROUND-32,L 81-85,*,40,9,15,0.6,2,5,0.4,7,10,0.7,0.667,2,2,1.0,1,3,4,9,2,0,5,4,22,18.4,N,0,0,jequan-lewis-1,JeQuan Lewis,2016

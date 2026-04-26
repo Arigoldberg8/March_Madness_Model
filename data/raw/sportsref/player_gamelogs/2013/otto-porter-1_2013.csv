@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2012-11-11,Georgetown,,Duquesne,REG (Non-Conf),W 61-55,*,6,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,0,0,-0.4,H,1,1,otto-porter-1,Otto Porter,2013
+2,35,3,2012-11-19,Georgetown,N,UCLA,REG (Non-Conf),W 78-70,*,35,6,10,0.6,2,2,1.0,4,8,0.5,0.7,4,5,0.8,2,9,11,5,3,5,2,3,18,23.9,N,1,1,otto-porter-1,Otto Porter,2013
+3,36,4,2012-11-20,Georgetown,N,Indiana,REG (Non-Conf),L 72-82 (OT),*,43,6,13,0.462,3,4,0.75,3,9,0.333,0.577,0,1,0.0,0,5,5,4,2,2,4,3,15,10.4,N,0,1,otto-porter-1,Otto Porter,2013
+4,37,5,2012-11-24,Georgetown,,Mount St. Mary's,REG (Non-Conf),W 72-50,*,36,7,8,0.875,1,1,1.0,6,7,0.857,0.938,2,3,0.667,3,10,13,2,1,2,3,2,17,18.9,H,1,1,otto-porter-1,Otto Porter,2013
+5,38,6,2012-11-30,Georgetown,,Tennessee,REG (Non-Conf),W 37-36,*,39,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,0,,0,7,7,4,3,0,1,1,8,8.4,H,1,1,otto-porter-1,Otto Porter,2013
+6,39,7,2012-12-04,Georgetown,N,Texas,REG (Non-Conf),W 64-41,*,35,7,16,0.438,0,2,0.0,7,14,0.5,0.438,0,0,,4,4,8,2,3,3,0,1,14,15.7,N,1,1,otto-porter-1,Otto Porter,2013
+7,40,8,2012-12-08,Georgetown,,Towson,REG (Non-Conf),W 46-40,*,36,4,10,0.4,1,4,0.25,3,6,0.5,0.45,1,3,0.333,1,5,6,2,3,0,1,4,10,7.8,H,1,1,otto-porter-1,Otto Porter,2013
+8,41,9,2012-12-10,Georgetown,,Longwood,REG (Non-Conf),W 89-53,*,29,8,11,0.727,0,1,0.0,8,10,0.8,0.727,6,8,0.75,2,2,4,7,4,1,0,0,22,28.3,H,1,1,otto-porter-1,Otto Porter,2013
+9,42,10,2012-12-15,Georgetown,,Western Carolina,REG (Non-Conf),W 81-68,*,37,5,11,0.455,0,3,0.0,5,8,0.625,0.455,2,3,0.667,5,4,9,2,1,1,1,0,12,12.7,H,1,1,otto-porter-1,Otto Porter,2013
+10,43,11,2012-12-22,Georgetown,,American,REG (Non-Conf),W 65-48,*,34,5,10,0.5,3,4,0.75,2,6,0.333,0.65,3,5,0.6,2,11,13,3,2,0,0,1,16,18.6,H,1,1,otto-porter-1,Otto Porter,2013
+11,44,12,2013-01-05,Georgetown,@,Marquette,REG (Conf),L 48-49,*,38,5,13,0.385,1,3,0.333,4,10,0.4,0.423,2,2,1.0,2,4,6,0,0,0,1,2,13,6.7,A,0,1,otto-porter-1,Otto Porter,2013
+12,45,13,2013-01-08,Georgetown,,Pittsburgh,REG (Conf),L 45-73,*,39,2,6,0.333,0,2,0.0,2,4,0.5,0.333,5,8,0.625,1,2,3,2,1,3,2,4,9,6.6,H,0,1,otto-porter-1,Otto Porter,2013
+13,46,14,2013-01-12,Georgetown,@,St. John's (NY),REG (Conf),W 67-51,*,35,5,11,0.455,0,0,,5,11,0.455,0.455,9,12,0.75,1,13,14,2,3,0,4,2,19,16.3,A,1,1,otto-porter-1,Otto Porter,2013
+14,47,15,2013-01-16,Georgetown,,Providence,REG (Conf),W 74-65,*,36,8,13,0.615,1,2,0.5,7,11,0.636,0.654,3,3,1.0,2,6,8,1,2,0,3,5,20,15.0,H,1,1,otto-porter-1,Otto Porter,2013
+15,48,16,2013-01-19,Georgetown,@,South Florida,REG (Conf),L 58-61,*,34,8,14,0.571,3,6,0.5,5,8,0.625,0.679,2,3,0.667,1,5,6,2,0,0,2,2,21,14.8,A,0,1,otto-porter-1,Otto Porter,2013
+16,49,17,2013-01-21,Georgetown,@,Notre Dame,REG (Conf),W 63-47,*,40,7,10,0.7,3,4,0.75,4,6,0.667,0.85,2,4,0.5,0,9,9,2,2,2,2,1,19,19.1,A,1,1,otto-porter-1,Otto Porter,2013
+17,50,18,2013-01-26,Georgetown,,Louisville,REG (Conf),W 53-51,*,38,5,13,0.385,2,5,0.4,3,8,0.375,0.462,5,6,0.833,3,9,12,1,1,1,7,2,17,8.9,H,1,1,otto-porter-1,Otto Porter,2013
+18,51,19,2013-01-30,Georgetown,,Seton Hall,REG (Conf),W 74-52,*,23,6,9,0.667,2,4,0.5,4,5,0.8,0.778,6,7,0.857,0,3,3,3,4,0,1,2,20,20.9,H,1,1,otto-porter-1,Otto Porter,2013
+19,52,20,2013-02-02,Georgetown,,St. John's (NY),REG (Conf),W 68-56,*,27,4,8,0.5,2,3,0.667,2,5,0.4,0.625,1,2,0.5,3,4,7,1,0,1,1,3,11,9.1,H,1,1,otto-porter-1,Otto Porter,2013
+20,53,21,2013-02-09,Georgetown,@,Rutgers,REG (Conf),W 69-63,*,39,7,14,0.5,1,3,0.333,6,11,0.545,0.536,4,4,1.0,4,10,14,4,1,0,1,2,19,19.8,A,1,1,otto-porter-1,Otto Porter,2013
+21,54,22,2013-02-11,Georgetown,,Marquette,REG (Conf),W 63-55,*,37,6,15,0.4,2,6,0.333,4,9,0.444,0.467,7,7,1.0,3,4,7,3,3,0,1,2,21,19.5,H,1,1,otto-porter-1,Otto Porter,2013
+22,55,23,2013-02-15,Georgetown,@,Cincinnati,REG (Conf),W 62-55,*,32,4,8,0.5,1,2,0.5,3,6,0.5,0.563,7,7,1.0,2,5,7,1,1,0,0,4,16,15.0,A,1,1,otto-porter-1,Otto Porter,2013
+23,56,24,2013-02-20,Georgetown,,DePaul,REG (Conf),W 90-66,*,20,3,9,0.333,1,2,0.5,2,7,0.286,0.389,4,6,0.667,1,2,3,2,2,1,0,0,11,10.5,H,1,1,otto-porter-1,Otto Porter,2013
+24,57,25,2013-02-23,Georgetown,@,Syracuse,REG (Conf),W 57-46,*,40,12,19,0.632,5,10,0.5,7,9,0.778,0.763,4,4,1.0,4,4,8,2,5,0,1,2,33,33.1,A,1,1,otto-porter-1,Otto Porter,2013
+25,58,26,2013-02-27,Georgetown,@,Connecticut,REG (Conf),W 79-78 (2OT),*,49,7,12,0.583,3,4,0.75,4,8,0.5,0.708,5,7,0.714,1,4,5,4,1,0,1,2,22,19.5,A,1,1,otto-porter-1,Otto Porter,2013
+26,59,27,2013-03-02,Georgetown,,Rutgers,REG (Conf),W 64-51,*,40,6,12,0.5,1,2,0.5,5,10,0.5,0.542,15,18,0.833,2,6,8,2,4,3,1,1,28,30.1,H,1,1,otto-porter-1,Otto Porter,2013
+27,60,28,2013-03-06,Georgetown,@,Villanova,REG (Conf),L 57-67,*,39,6,16,0.375,2,9,0.222,4,7,0.571,0.438,3,5,0.6,0,4,4,5,1,1,2,2,17,11.0,A,0,1,otto-porter-1,Otto Porter,2013
+28,61,29,2013-03-09,Georgetown,,Syracuse,REG (Conf),W 61-39,*,39,3,7,0.429,0,1,0.0,3,6,0.5,0.429,4,4,1.0,2,6,8,7,2,1,0,2,10,16.3,H,1,1,otto-porter-1,Otto Porter,2013
+29,62,30,2013-03-14,Georgetown,N,Cincinnati,CTOURN,W 62-43,*,39,3,9,0.333,1,3,0.333,2,6,0.333,0.389,11,11,1.0,1,5,6,2,1,0,1,0,18,16.5,N,1,0,otto-porter-1,Otto Porter,2013
+30,63,31,2013-03-15,Georgetown,N,Syracuse,CTOURN,L 55-58 (OT),*,45,4,13,0.308,0,2,0.0,4,11,0.364,0.308,4,7,0.571,1,5,6,3,0,0,2,2,12,4.8,N,0,0,otto-porter-1,Otto Porter,2013
+31,64,32,2013-03-22,Georgetown,N,Florida Gulf Coast,ROUND-64,L 68-78,*,38,5,17,0.294,2,6,0.333,3,11,0.273,0.353,1,2,0.5,2,9,11,3,1,1,2,4,13,7.0,N,0,0,otto-porter-1,Otto Porter,2013

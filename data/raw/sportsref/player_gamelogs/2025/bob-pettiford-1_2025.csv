@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,80,6,2024-11-24,High Point,N,Missouri State,REG (Non-Conf),L 61-71,,24,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,0,1,1,2,0,0,1,0,7,6.4,N,0,1,bob-pettiford-1,Bobby Pettiford,2025
+2,81,7,2024-11-25,High Point,N,Old Dominion,REG (Non-Conf),W 73-67,,15,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,3,3,2,0,0,2,0,4,3.3,N,1,1,bob-pettiford-1,Bobby Pettiford,2025
+3,82,8,2024-11-26,High Point,N,Hampton,REG (Non-Conf),W 76-73,,19,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,0,3,3,5,0,0,2,1,4,4.0,N,1,1,bob-pettiford-1,Bobby Pettiford,2025
+4,83,9,2024-11-30,High Point,,Pfeiffer,REG (Non-Conf),W 81-50,,18,4,5,0.8,1,1,1.0,3,4,0.75,0.9,2,2,1.0,1,3,4,4,0,0,1,1,11,12.1,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+5,84,10,2024-12-03,High Point,@,UNC Greensboro,REG (Non-Conf),L 68-72,,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,1,4,5,3,2,0,1,1,6,7.6,A,0,1,bob-pettiford-1,Bobby Pettiford,2025
+6,85,11,2024-12-06,High Point,,North Texas,REG (Non-Conf),W 76-71,,30,2,6,0.333,1,1,1.0,1,5,0.2,0.417,6,6,1.0,1,4,5,5,1,0,3,2,11,10.2,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+7,86,12,2024-12-14,High Point,N,Appalachian State,REG (Non-Conf),W 65-59,,23,3,5,0.6,1,1,1.0,2,4,0.5,0.7,1,2,0.5,0,2,2,4,0,0,0,4,8,7.1,N,1,1,bob-pettiford-1,Bobby Pettiford,2025
+8,87,13,2024-12-17,High Point,,Carolina,REG (Non-Conf),W 99-31,,10,1,2,0.5,0,1,0.0,1,1,1.0,0.5,2,2,1.0,1,0,1,1,1,0,1,0,4,4.4,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+9,88,14,2024-12-21,High Point,@,Southern Illinois,REG (Non-Conf),W 94-81,,28,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,1,2,3,3,1,0,3,2,10,8.0,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+10,89,15,2024-12-29,High Point,,Norfolk State,REG (Non-Conf),L 74-77,,9,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,2,0.0,0,0,0,1,0,0,0,0,0,-1.5,H,0,1,bob-pettiford-1,Bobby Pettiford,2025
+11,90,16,2025-01-02,High Point,,Radford,REG (Conf),W 76-58,,18,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,0,0,2,0,0,3,1,6,3.1,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+12,91,17,2025-01-04,High Point,@,UNC Asheville,REG (Conf),L 99-103,,29,10,12,0.833,1,3,0.333,9,9,1.0,0.875,3,3,1.0,0,3,3,4,0,0,2,3,24,20.1,A,0,1,bob-pettiford-1,Bobby Pettiford,2025
+13,92,18,2025-01-08,High Point,@,Charleston Southern,REG (Conf),W 93-79,,24,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,0,3,3,4,1,0,1,2,10,10.7,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+14,93,19,2025-01-11,High Point,,Gardner-Webb,REG (Conf),W 96-55,,16,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,1,1,2,4,2,0,0,0,11,13.2,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+15,94,20,2025-01-16,High Point,@,Longwood,REG (Conf),L 80-82,,22,3,7,0.429,1,3,0.333,2,4,0.5,0.5,2,2,1.0,0,3,3,4,1,0,0,4,9,8.4,A,0,1,bob-pettiford-1,Bobby Pettiford,2025
+16,95,21,2025-01-18,High Point,,Presbyterian,REG (Conf),W 77-66,,27,5,5,1.0,0,0,,5,5,1.0,1.0,0,0,,0,1,1,4,1,0,2,2,10,9.8,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+17,96,22,2025-01-22,High Point,@,USC Upstate,REG (Conf),W 86-77,,20,1,5,0.2,1,2,0.5,0,3,0.0,0.3,4,4,1.0,0,1,1,4,4,0,2,1,7,8.6,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+18,97,23,2025-01-25,High Point,,Winthrop,REG (Conf),W 84-62,,15,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,0,2,2,2,0,0,1,2,4,2.5,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+19,98,24,2025-02-01,High Point,@,Presbyterian,REG (Conf),W 84-72,,20,4,6,0.667,0,0,,4,6,0.667,0.667,2,3,0.667,1,0,1,1,1,0,2,2,10,6.6,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+20,99,25,2025-02-05,High Point,@,Radford,REG (Conf),W 78-75,,10,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,2,1,0,1,2,2,1.2,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+21,100,26,2025-02-08,High Point,,UNC Asheville,REG (Conf),W 104-100 (OT),,29,7,13,0.538,0,0,,7,13,0.538,0.538,6,6,1.0,1,4,5,3,1,0,1,2,20,16.9,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+22,101,27,2025-02-13,High Point,,Longwood,REG (Conf),W 83-72,,24,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,0,,0,0,0,3,2,0,1,2,6,3.2,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+23,102,28,2025-02-15,High Point,@,Winthrop,REG (Conf),W 88-66,,25,4,7,0.571,0,0,,4,7,0.571,0.571,0,0,,0,3,3,6,4,0,0,3,8,12.6,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+24,103,29,2025-02-19,High Point,,Charleston Southern,REG (Conf),W 83-60,,21,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,0,0,0,3,1,0,0,1,14,14.2,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+25,104,30,2025-02-22,High Point,@,Gardner-Webb,REG (Conf),W 90-67,,27,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,2,1.0,1,5,6,8,1,0,0,2,8,13.0,A,1,1,bob-pettiford-1,Bobby Pettiford,2025
+26,105,31,2025-02-26,High Point,,USC Upstate,REG (Conf),W 88-66,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,1,1,6,1,0,2,0,6,8.6,H,1,1,bob-pettiford-1,Bobby Pettiford,2025
+27,106,32,2025-03-07,High Point,N,Gardner-Webb,CTOURN,W 85-64,,26,4,7,0.571,0,0,,4,7,0.571,0.571,3,3,1.0,1,5,6,3,2,0,1,2,11,12.2,N,1,0,bob-pettiford-1,Bobby Pettiford,2025
+28,107,33,2025-03-08,High Point,N,Radford,CTOURN,W 76-73,,21,4,8,0.5,0,0,,4,8,0.5,0.5,2,2,1.0,1,2,3,2,0,0,3,4,10,4.1,N,1,0,bob-pettiford-1,Bobby Pettiford,2025
+29,108,34,2025-03-09,High Point,N,Winthrop,CTOURN,W 81-69,,29,8,17,0.471,1,1,1.0,7,16,0.438,0.5,0,0,,1,2,3,4,2,1,1,1,17,13.7,N,1,0,bob-pettiford-1,Bobby Pettiford,2025
+30,109,35,2025-03-20,High Point,N,Purdue,ROUND-64,L 63-75,,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,1,2,0.5,1,4,5,3,0,0,1,0,5,4.2,N,0,0,bob-pettiford-1,Bobby Pettiford,2025

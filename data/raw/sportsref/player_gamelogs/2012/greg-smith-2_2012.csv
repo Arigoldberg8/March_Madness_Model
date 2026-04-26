@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,56,1,2011-11-11,Colorado State,,Montana,REG (Non-Conf),W 64-58,*,27,6,11,0.545,0,1,0.0,6,10,0.6,0.545,2,7,0.286,3,5,8,0,0,0,1,4,14,7.7,H,1,1,greg-smith-2,Greg Smith,2012
+2,57,2,2011-11-14,Colorado State,N,SMU,REG (Non-Conf),W 75-56,*,21,3,8,0.375,0,3,0.0,3,5,0.6,0.375,4,4,1.0,0,3,3,1,1,0,4,3,10,3.0,N,1,1,greg-smith-2,Greg Smith,2012
+3,58,3,2011-11-15,Colorado State,@,Stanford,REG (Non-Conf),L 52-64,*,28,4,15,0.267,0,3,0.0,4,12,0.333,0.267,2,7,0.286,6,3,9,0,2,0,4,3,10,1.0,A,0,1,greg-smith-2,Greg Smith,2012
+4,59,4,2011-11-19,Colorado State,,Southern Mississippi,REG (Non-Conf),L 58-79,*,24,4,7,0.571,1,2,0.5,3,5,0.6,0.643,9,10,0.9,1,2,3,1,0,1,1,3,18,14.8,H,0,1,greg-smith-2,Greg Smith,2012
+5,60,5,2011-11-21,Colorado State,,UTSA,REG (Non-Conf),W 85-75,*,27,1,4,0.25,0,1,0.0,1,3,0.333,0.25,2,3,0.667,0,5,5,0,1,1,2,1,4,2.0,H,1,1,greg-smith-2,Greg Smith,2012
+6,61,6,2011-11-22,Colorado State,,Manhattan,REG (Non-Conf),W 91-86 (OT),*,28,1,4,0.25,0,0,,1,4,0.25,0.25,11,12,0.917,0,6,6,1,0,0,3,5,13,7.7,H,1,1,greg-smith-2,Greg Smith,2012
+7,62,7,2011-11-30,Colorado State,,Colorado,REG (Non-Conf),W 65-64,*,26,3,8,0.375,1,1,1.0,2,7,0.286,0.438,1,3,0.333,0,3,3,3,0,0,4,2,8,1.0,H,1,1,greg-smith-2,Greg Smith,2012
+8,63,8,2011-12-03,Colorado State,@,Northern Iowa,REG (Non-Conf),L 77-83,*,25,4,10,0.4,1,2,0.5,3,8,0.375,0.45,0,0,,2,1,3,0,0,0,1,4,9,2.7,A,0,1,greg-smith-2,Greg Smith,2012
+9,64,9,2011-12-07,Colorado State,@,Duke,REG (Non-Conf),L 64-87,,29,7,15,0.467,1,1,1.0,6,14,0.429,0.5,3,6,0.5,3,4,7,1,1,1,4,2,18,10.0,A,0,1,greg-smith-2,Greg Smith,2012
+10,65,10,2011-12-19,Colorado State,,Texas Southern,REG (Non-Conf),W 85-61,,22,5,9,0.556,1,2,0.5,4,7,0.571,0.611,2,2,1.0,0,4,4,0,0,0,1,2,13,8.1,H,1,1,greg-smith-2,Greg Smith,2012
+11,66,11,2011-12-22,Colorado State,@,Northern Colorado,REG (Non-Conf),W 92-78,,14,3,4,0.75,1,1,1.0,2,3,0.667,0.875,3,4,0.75,0,1,1,0,0,0,2,2,10,5.5,A,1,1,greg-smith-2,Greg Smith,2012
+12,67,12,2011-12-28,Colorado State,@,UTEP,REG (Non-Conf),W 56-53,,18,2,7,0.286,1,2,0.5,1,5,0.2,0.357,2,2,1.0,2,1,3,0,0,0,1,2,7,2.8,A,1,1,greg-smith-2,Greg Smith,2012
+13,68,13,2011-12-29,Colorado State,N,Jacksonville State,REG (Non-Conf),W 79-56,,18,2,3,0.667,0,0,,2,3,0.667,0.667,0,2,0.0,1,5,6,1,0,0,3,2,4,1.0,N,1,1,greg-smith-2,Greg Smith,2012
+14,69,14,2012-01-07,Colorado State,,Omaha,REG (Non-Conf),W 87-63,,18,5,5,1.0,1,1,1.0,4,4,1.0,1.1,3,4,0.75,0,2,2,2,0,0,3,2,14,10.3,H,1,1,greg-smith-2,Greg Smith,2012
+15,70,15,2012-01-11,Colorado State,,Denver,REG (Non-Conf),W 79-75,*,32,6,9,0.667,1,2,0.5,5,7,0.714,0.722,4,4,1.0,3,4,7,0,1,1,0,2,17,17.3,H,1,1,greg-smith-2,Greg Smith,2012
+16,71,16,2012-01-14,Colorado State,,TCU,REG (Conf),W 95-89 (2OT),*,22,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,2,3,1,0,0,4,2,0,-4.9,H,1,1,greg-smith-2,Greg Smith,2012
+17,72,17,2012-01-17,Colorado State,,Boise State,REG (Conf),W 66-55,*,24,2,4,0.5,2,2,1.0,0,2,0.0,0.75,4,6,0.667,0,6,6,1,1,0,2,1,10,8.3,H,1,1,greg-smith-2,Greg Smith,2012
+18,73,18,2012-01-21,Colorado State,@,Wyoming,REG (Conf),L 51-70,*,26,7,10,0.7,2,4,0.5,5,6,0.833,0.8,2,2,1.0,1,5,6,1,0,1,3,3,18,13.2,A,0,1,greg-smith-2,Greg Smith,2012
+19,74,19,2012-01-25,Colorado State,@,New Mexico,REG (Conf),L 52-85,*,22,1,8,0.125,0,2,0.0,1,6,0.167,0.125,2,2,1.0,2,3,5,1,0,1,3,3,4,-1.7,A,0,1,greg-smith-2,Greg Smith,2012
+20,75,20,2012-01-28,Colorado State,,San Diego State,REG (Conf),W 77-60,*,25,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,0,8,8,1,0,0,1,1,8,8.1,H,1,1,greg-smith-2,Greg Smith,2012
+21,76,21,2012-02-01,Colorado State,@,UNLV,REG (Conf),L 63-82,*,26,4,10,0.4,1,2,0.5,3,8,0.375,0.45,4,4,1.0,1,6,7,1,1,1,2,4,13,8.9,A,0,1,greg-smith-2,Greg Smith,2012
+22,77,22,2012-02-04,Colorado State,,Air Force,REG (Conf),W 67-49,*,26,2,10,0.2,0,3,0.0,2,7,0.286,0.2,0,0,,1,2,3,2,1,1,2,2,4,-0.6,H,1,1,greg-smith-2,Greg Smith,2012
+23,78,23,2012-02-11,Colorado State,@,TCU,REG (Conf),L 71-75,*,15,1,6,0.167,1,2,0.5,0,4,0.0,0.25,0,0,,0,4,4,2,0,0,0,0,3,1.8,A,0,1,greg-smith-2,Greg Smith,2012
+24,79,24,2012-02-15,Colorado State,@,Boise State,REG (Conf),L 69-70,*,24,2,6,0.333,0,0,,2,6,0.333,0.333,3,5,0.6,3,6,9,2,0,2,2,2,7,6.7,A,0,1,greg-smith-2,Greg Smith,2012
+25,80,25,2012-02-18,Colorado State,,Wyoming,REG (Conf),W 54-46,*,28,6,11,0.545,1,3,0.333,5,8,0.625,0.591,1,2,0.5,1,7,8,2,0,1,2,3,14,10.0,H,1,1,greg-smith-2,Greg Smith,2012
+26,81,26,2012-02-21,Colorado State,,New Mexico,REG (Conf),W 71-63,,17,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,0,7,7,0,0,0,1,2,6,2.2,H,1,1,greg-smith-2,Greg Smith,2012
+27,82,27,2012-02-25,Colorado State,@,San Diego State,REG (Conf),L 66-74,,19,4,9,0.444,1,1,1.0,3,8,0.375,0.5,0,0,,2,2,4,2,0,1,1,5,9,5.4,A,0,1,greg-smith-2,Greg Smith,2012
+28,83,28,2012-02-29,Colorado State,,UNLV,REG (Conf),W 66-59,,18,3,6,0.5,1,2,0.5,2,4,0.5,0.583,2,2,1.0,1,5,6,1,0,0,1,3,9,6.7,H,1,1,greg-smith-2,Greg Smith,2012
+29,84,29,2012-03-03,Colorado State,@,Air Force,REG (Conf),W 75-65,,19,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,2,5,7,1,0,1,1,2,6,6.2,A,1,1,greg-smith-2,Greg Smith,2012
+30,85,32,2012-03-15,Colorado State,N,Murray State,ROUND-64,L 41-58,,11,1,3,0.333,1,1,1.0,0,2,0.0,0.5,0,0,,0,1,1,0,0,0,2,1,3,-0.8,N,0,0,greg-smith-2,Greg Smith,2012

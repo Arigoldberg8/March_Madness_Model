@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,12,1,2021-11-09,Virginia Tech,,Maine,REG (Non-Conf),W 82-47,,19,4,7,0.571,1,1,1.0,3,6,0.5,0.643,0,0,,0,2,2,0,0,0,2,1,9,3.9,H,1,1,darius-maddox-2,Darius Maddox,2022
+2,13,2,2021-11-12,Virginia Tech,@,Navy,REG (Non-Conf),W 77-57,,15,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,1,0.0,1,2,3,1,0,0,0,2,4,2.1,A,1,1,darius-maddox-2,Darius Maddox,2022
+3,14,3,2021-11-15,Virginia Tech,,Radford,REG (Non-Conf),W 65-39,,16,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,1,0,0,1,0,6,4.7,H,1,1,darius-maddox-2,Darius Maddox,2022
+4,15,4,2021-11-18,Virginia Tech,,Saint Francis (PA),REG (Non-Conf),W 85-55,,18,4,4,1.0,3,3,1.0,1,1,1.0,1.375,0,0,,1,2,3,0,0,0,2,1,11,8.7,H,1,1,darius-maddox-2,Darius Maddox,2022
+5,16,5,2021-11-21,Virginia Tech,,Merrimack,REG (Non-Conf),W 72-43,,16,1,4,0.25,1,2,0.5,0,2,0.0,0.375,1,2,0.5,1,2,3,0,0,0,0,0,4,2.5,H,1,1,darius-maddox-2,Darius Maddox,2022
+6,17,6,2021-11-24,Virginia Tech,N,Memphis,REG (Non-Conf),L 61-69,,14,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,0,0,0,0,0,0,0,0,5,4.4,N,0,1,darius-maddox-2,Darius Maddox,2022
+7,18,7,2021-11-26,Virginia Tech,N,Xavier,REG (Non-Conf),L 58-59,,17,0,2,0.0,0,2,0.0,0,0,,0.0,4,4,1.0,0,1,1,0,0,0,1,1,4,1.5,N,0,1,darius-maddox-2,Darius Maddox,2022
+8,19,8,2021-12-01,Virginia Tech,@,Maryland,REG (Non-Conf),W 62-58,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,1,2,1,0,4,5.8,A,1,1,darius-maddox-2,Darius Maddox,2022
+9,20,9,2021-12-04,Virginia Tech,,Wake Forest,REG (Conf),L 61-80,,12,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,0,1,1,0,1,0,0,1,5,4.6,H,0,1,darius-maddox-2,Darius Maddox,2022
+10,21,10,2021-12-08,Virginia Tech,,Cornell,REG (Non-Conf),W 93-60,,23,4,8,0.5,2,4,0.5,2,4,0.5,0.625,4,4,1.0,0,4,4,0,1,1,0,1,14,12.5,H,1,1,darius-maddox-2,Darius Maddox,2022
+11,22,11,2021-12-12,Virginia Tech,@,Dayton,REG (Non-Conf),L 57-62,,11,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,0,3,0,-1.9,A,0,1,darius-maddox-2,Darius Maddox,2022
+12,23,12,2021-12-17,Virginia Tech,N,St. Bonaventure,REG (Non-Conf),W 86-49,,17,2,4,0.5,1,3,0.333,1,1,1.0,0.625,3,4,0.75,1,1,2,1,0,0,0,1,8,6.9,N,1,1,darius-maddox-2,Darius Maddox,2022
+13,24,13,2021-12-22,Virginia Tech,@,Duke,REG (Conf),L 65-76,,16,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,1,1,2,0,0,0,3,2,0.8,A,0,1,darius-maddox-2,Darius Maddox,2022
+14,25,14,2022-01-04,Virginia Tech,,NC State,REG (Conf),L 63-68,,11,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,2,2,1,1,1,0,0,3,4.3,H,0,1,darius-maddox-2,Darius Maddox,2022
+15,26,15,2022-01-12,Virginia Tech,@,Virginia,REG (Conf),L 52-54,,8,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,A,0,1,darius-maddox-2,Darius Maddox,2022
+16,27,16,2022-01-15,Virginia Tech,,Notre Dame,REG (Conf),W 79-73,,5,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,0,0,0,0,0,0,0,3,2.0,H,1,1,darius-maddox-2,Darius Maddox,2022
+17,28,17,2022-01-19,Virginia Tech,@,NC State,REG (Conf),W 62-59,,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,0,1,2,-0.1,A,1,1,darius-maddox-2,Darius Maddox,2022
+18,29,18,2022-01-22,Virginia Tech,@,Boston College,REG (Conf),L 63-68,,6,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,1,0,2,1.4,A,0,1,darius-maddox-2,Darius Maddox,2022
+19,30,19,2022-01-24,Virginia Tech,@,North Carolina,REG (Conf),L 68-78,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,A,0,1,darius-maddox-2,Darius Maddox,2022
+20,31,20,2022-01-26,Virginia Tech,,Miami (FL),REG (Conf),L 75-78,,15,4,6,0.667,2,4,0.5,2,2,1.0,0.833,3,3,1.0,1,2,3,4,0,2,0,0,13,15.9,H,0,1,darius-maddox-2,Darius Maddox,2022
+21,32,21,2022-01-29,Virginia Tech,@,Florida State,REG (Conf),W 85-72,,23,2,6,0.333,1,2,0.5,1,4,0.25,0.417,1,1,1.0,0,1,1,1,3,0,0,3,6,5.4,A,1,1,darius-maddox-2,Darius Maddox,2022
+22,33,22,2022-02-02,Virginia Tech,,Georgia Tech,REG (Conf),W 81-66,,13,2,4,0.5,1,2,0.5,1,2,0.5,0.625,1,3,0.333,0,1,1,1,0,0,1,2,6,2.4,H,1,1,darius-maddox-2,Darius Maddox,2022
+23,34,23,2022-02-05,Virginia Tech,@,Pittsburgh,REG (Conf),W 76-71,,23,3,4,0.75,1,1,1.0,2,3,0.667,0.875,2,2,1.0,0,2,2,0,1,1,0,1,9,9.3,A,1,1,darius-maddox-2,Darius Maddox,2022
+24,35,24,2022-02-07,Virginia Tech,,Pittsburgh,REG (Conf),W 74-47,,19,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,1,0,0,0,2,6,4.6,H,1,1,darius-maddox-2,Darius Maddox,2022
+25,36,25,2022-02-12,Virginia Tech,,Syracuse,REG (Conf),W 71-59,,24,3,6,0.5,3,5,0.6,0,1,0.0,0.75,1,1,1.0,0,3,3,3,1,1,1,1,10,10.3,H,1,1,darius-maddox-2,Darius Maddox,2022
+26,37,26,2022-02-14,Virginia Tech,,Virginia,REG (Conf),W 62-53,,17,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,1,1,0,0,0,0,0,3,0.2,H,1,1,darius-maddox-2,Darius Maddox,2022
+27,38,27,2022-02-19,Virginia Tech,,North Carolina,REG (Conf),L 57-65,,19,1,2,0.5,1,2,0.5,0,0,,0.75,2,2,1.0,0,1,1,0,0,0,1,0,5,3.3,H,0,1,darius-maddox-2,Darius Maddox,2022
+28,39,28,2022-02-23,Virginia Tech,@,Georgia Tech,REG (Conf),W 62-58,,18,5,7,0.714,1,2,0.5,4,5,0.8,0.786,1,1,1.0,0,3,3,0,0,0,0,0,12,10.0,A,1,1,darius-maddox-2,Darius Maddox,2022
+29,40,29,2022-02-26,Virginia Tech,@,Miami (FL),REG (Conf),W 71-70,,21,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,1,1,2,0,0,0,2,2,13,8.3,A,1,1,darius-maddox-2,Darius Maddox,2022
+30,41,30,2022-03-01,Virginia Tech,,Louisville,REG (Conf),W 75-43,,21,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,2,2,4,2,1,0,0,1,11,11.7,H,1,1,darius-maddox-2,Darius Maddox,2022
+31,42,31,2022-03-05,Virginia Tech,@,Clemson,REG (Conf),L 59-63,,19,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,0,1,0,1,2,5,3.9,A,0,1,darius-maddox-2,Darius Maddox,2022
+32,43,32,2022-03-09,Virginia Tech,N,Clemson,CTOURN,W 76-75 (OT),,23,3,6,0.5,2,3,0.667,1,3,0.333,0.667,0,0,,1,0,1,0,0,0,2,2,8,2.9,N,1,0,darius-maddox-2,Darius Maddox,2022
+33,44,33,2022-03-10,Virginia Tech,N,Notre Dame,CTOURN,W 87-80,,23,2,5,0.4,0,2,0.0,2,3,0.667,0.4,0,0,,0,1,1,1,0,0,1,2,4,0.5,N,1,0,darius-maddox-2,Darius Maddox,2022
+34,45,34,2022-03-11,Virginia Tech,N,North Carolina,CTOURN,W 72-59,,29,7,12,0.583,4,5,0.8,3,7,0.429,0.75,2,3,0.667,0,6,6,0,0,0,2,3,20,12.6,N,1,0,darius-maddox-2,Darius Maddox,2022
+35,46,35,2022-03-12,Virginia Tech,N,Duke,CTOURN,W 82-67,,23,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,3,2,5,0,0,0,0,3,6,1.7,N,1,0,darius-maddox-2,Darius Maddox,2022
+36,47,36,2022-03-18,Virginia Tech,N,Texas,ROUND-64,L 73-81,,25,2,6,0.333,0,2,0.0,2,4,0.5,0.333,1,2,0.5,1,3,4,0,0,0,0,1,5,2.4,N,0,0,darius-maddox-2,Darius Maddox,2022

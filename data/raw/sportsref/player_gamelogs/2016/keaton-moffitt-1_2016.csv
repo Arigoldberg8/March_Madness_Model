@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2015-11-13,South Dakota State,,Chadron St.,REG (Non-Conf),W 87-52,*,23,5,7,0.714,0,0,,5,7,0.714,0.714,0,1,0.0,2,6,8,1,2,0,1,2,10,10.8,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+2,31,2,2015-11-16,South Dakota State,,Weber State,REG (Non-Conf),W 85-68,,12,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,3,2,5,1,0,0,0,1,3,3.9,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+3,32,3,2015-11-19,South Dakota State,@,Illinois State,REG (Non-Conf),W 83-67,,22,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,6,0.667,2,3,5,7,1,0,2,3,6,9.2,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+4,33,4,2015-11-21,South Dakota State,@,TCU,REG (Non-Conf),W 76-67,,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,3,4,0,1,0,4,2,4,0.5,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+5,34,5,2015-11-24,South Dakota State,N,Houston Baptist,REG (Non-Conf),W 92-68,,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,1,3,1,1,0,0,1,6,6.7,N,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+6,35,6,2015-11-25,South Dakota State,N,Cleveland State,REG (Non-Conf),W 77-66,*,35,1,4,0.25,0,1,0.0,1,3,0.333,0.25,4,7,0.571,1,9,10,1,0,0,0,3,6,5.3,N,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+7,36,7,2015-11-28,South Dakota State,@,Kansas City,REG (Non-Conf),L 57-64,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,4,4,0,0,0,1,1,4,3.2,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+8,37,8,2015-12-02,South Dakota State,,Wayne St. (NE),REG (Non-Conf),W 80-53,,19,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,2,2,2,2,2,1,2,7,8.6,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+9,38,9,2015-12-08,South Dakota State,@,Minnesota,REG (Non-Conf),W 84-70,*,32,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,0,2,2,5,2,0,2,2,6,7.7,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+10,39,10,2015-12-13,South Dakota State,,UC Santa Barbara,REG (Non-Conf),W 86-68,*,34,4,6,0.667,1,1,1.0,3,5,0.6,0.75,2,3,0.667,1,7,8,6,0,1,4,0,11,11.7,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+11,40,11,2015-12-16,South Dakota State,@,Texas Tech,REG (Non-Conf),L 67-79,*,26,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,2,3,3,0,0,3,2,0,-3.2,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+12,41,12,2015-12-19,South Dakota State,@,Florida Gulf Coast,REG (Non-Conf),W 56-52,*,24,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,1,1,0,0,2,2,2.5,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+13,42,13,2015-12-22,South Dakota State,@,Weber State,REG (Non-Conf),L 95-99,*,34,7,13,0.538,1,2,0.5,6,11,0.545,0.577,0,1,0.0,2,2,4,4,0,0,0,3,15,11.9,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+14,43,14,2015-12-27,South Dakota State,N,Middle Tennessee,REG (Non-Conf),W 65-61,*,34,4,10,0.4,0,0,,4,10,0.4,0.4,0,2,0.0,1,5,6,4,1,1,1,2,8,6.7,N,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+15,44,15,2016-01-01,South Dakota State,,Denver,REG (Conf),W 68-59,*,35,1,6,0.167,0,0,,1,6,0.167,0.167,1,2,0.5,3,4,7,2,1,0,0,2,3,3.7,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+16,45,16,2016-01-03,South Dakota State,,Western Illinois,REG (Conf),W 63-59,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,7,7,3,0,1,2,2,6,4.4,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+17,46,17,2016-01-07,South Dakota State,@,IUPUI,REG (Conf),L 67-74,*,29,0,3,0.0,0,1,0.0,0,2,0.0,0.0,1,2,0.5,0,2,2,2,2,0,2,0,1,0.5,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+18,47,18,2016-01-14,South Dakota State,,IPFW,REG (Conf),W 92-76,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,5,2,0.0,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+19,48,19,2016-01-16,South Dakota State,@,North Dakota State,REG (Conf),L 57-68,,27,0,2,0.0,0,0,,0,2,0.0,0.0,0,1,0.0,2,5,7,0,2,0,2,1,0,0.7,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+20,49,20,2016-01-21,South Dakota State,@,Oral Roberts,REG (Conf),W 86-74,,17,3,4,0.75,0,0,,3,4,0.75,0.75,5,6,0.833,1,4,5,1,1,0,0,3,11,11.4,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+21,50,21,2016-01-23,South Dakota State,@,South Dakota,REG (Conf),W 79-75,,26,1,5,0.2,0,0,,1,5,0.2,0.2,5,6,0.833,2,3,5,3,2,0,0,4,7,8.3,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+22,51,22,2016-01-28,South Dakota State,,Omaha,REG (Conf),W 87-76,,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,4,4,3,0,0,2,2,4,2.5,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+23,52,23,2016-01-30,South Dakota State,@,Denver,REG (Conf),W 67-56,,12,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,1,1,2,0,0,0,1,2,4,2.6,A,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+24,53,24,2016-02-06,South Dakota State,,IUPUI,REG (Conf),W 80-58,,16,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,3,2,5,0,0,0,1,4,6,5.2,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+25,54,25,2016-02-10,South Dakota State,@,Omaha,REG (Conf),L 92-96,,19,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,1,4,5,4,1,0,2,3,6,6.1,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+26,55,26,2016-02-13,South Dakota State,,South Dakota,REG (Conf),W 85-68,,25,5,9,0.556,0,0,,5,9,0.556,0.556,1,1,1.0,0,2,2,2,3,0,0,1,11,11.3,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+27,56,27,2016-02-18,South Dakota State,@,IPFW,REG (Conf),L 79-91,,22,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,2,1,3,1,1,0,1,2,3,3.2,A,0,1,keaton-moffitt-1,Keaton Moffitt,2016
+28,57,29,2016-02-25,South Dakota State,,North Dakota State,REG (Conf),W 71-59,,29,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,4,4,2,0,0,2,4,2,0.0,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+29,58,30,2016-02-27,South Dakota State,,Oral Roberts,REG (Conf),W 73-65,,23,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,2,1,3,2,0,0,1,3,10,9.7,H,1,1,keaton-moffitt-1,Keaton Moffitt,2016
+30,59,31,2016-03-05,South Dakota State,N,Oral Roberts,CTOURN,W 73-70,,17,2,5,0.4,0,0,,2,5,0.4,0.4,5,8,0.625,1,2,3,0,0,0,0,3,9,5.2,N,1,0,keaton-moffitt-1,Keaton Moffitt,2016
+31,60,32,2016-03-07,South Dakota State,N,Denver,CTOURN,W 54-53,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,2,2,2,0,0,2,2,0,-2.2,N,1,0,keaton-moffitt-1,Keaton Moffitt,2016
+32,61,33,2016-03-08,South Dakota State,N,North Dakota State,CTOURN,W 67-59,,28,5,6,0.833,1,1,1.0,4,5,0.8,0.917,0,0,,5,2,7,1,0,0,1,3,11,11.4,N,1,0,keaton-moffitt-1,Keaton Moffitt,2016
+33,62,34,2016-03-18,South Dakota State,N,Maryland,ROUND-64,L 74-79,,14,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,3,0,3,1,1,0,2,2,0,-1.1,N,0,0,keaton-moffitt-1,Keaton Moffitt,2016

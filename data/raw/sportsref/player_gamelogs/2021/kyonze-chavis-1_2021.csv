@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2020-11-27,Norfolk State,@,James Madison,REG (Non-Conf),W 83-73,,25,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,4,3,0,2,1,4,6.7,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+2,58,2,2020-11-28,Norfolk State,N,Radford,REG (Non-Conf),W 57-54,,21,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,0,2,2,2,2,0,0,1,7,8.6,N,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+3,59,3,2020-12-02,Norfolk State,,Old Dominion,REG (Non-Conf),L 66-80,,34,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,2,1.0,0,9,9,3,1,1,0,1,12,13.4,H,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+4,60,4,2020-12-07,Norfolk State,,Hampton,REG (Non-Conf),W 76-64,*,19,2,4,0.5,1,1,1.0,1,3,0.333,0.625,3,4,0.75,1,2,3,0,2,0,2,2,8,6.1,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+5,61,6,2020-12-18,Norfolk State,,UNC Wilmington,REG (Non-Conf),L 72-80,,32,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,2,0.0,4,0,4,4,1,0,0,1,5,7.0,H,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+6,62,7,2020-12-26,Norfolk State,@,George Mason,REG (Non-Conf),W 68-65,*,11,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,0,1,1,2,-0.1,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+7,63,8,2021-01-09,Norfolk State,,Morgan State,REG (Conf),L 74-78,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,6,6,1,0,1,2,3,2,-0.4,H,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+8,64,9,2021-01-10,Norfolk State,,Morgan State,REG (Conf),W 89-85,*,32,3,9,0.333,0,2,0.0,3,7,0.429,0.333,2,2,1.0,1,2,3,6,1,0,0,1,8,9.0,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+9,65,10,2021-01-13,Norfolk State,,N.C. Wesleyan,REG (Non-Conf),W 80-58,*,30,5,9,0.556,0,3,0.0,5,6,0.833,0.556,4,4,1.0,1,3,4,3,1,2,3,2,14,12.0,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+10,66,11,2021-01-16,Norfolk State,@,Delaware State,REG (Conf),W 87-76,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,1,2,0.5,2,5,7,4,4,0,4,2,5,5.4,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+11,67,12,2021-01-17,Norfolk State,@,Delaware State,REG (Conf),W 83-79 (OT),*,35,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,2,0.0,1,1,2,1,0,0,1,2,7,3.1,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+12,68,13,2021-01-23,Norfolk State,@,Coppin State,REG (Conf),L 71-81,*,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,2,5,0.4,2,3,5,2,1,0,2,3,10,7.0,A,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+13,69,14,2021-01-24,Norfolk State,@,Coppin State,REG (Conf),L 77-81,*,20,5,11,0.455,1,5,0.2,4,6,0.667,0.5,0,0,,1,2,3,1,0,1,1,0,11,7.0,A,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+14,70,15,2021-01-30,Norfolk State,,Delaware State,REG (Conf),W 94-66,*,15,3,6,0.5,2,4,0.5,1,2,0.5,0.667,1,1,1.0,0,3,3,0,0,0,0,0,9,6.9,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+15,71,16,2021-02-07,Norfolk State,,Coppin State,REG (Conf),W 84-72,*,26,3,8,0.375,0,1,0.0,3,7,0.429,0.375,0,0,,0,3,3,1,0,0,0,2,6,2.4,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+16,72,17,2021-02-08,Norfolk State,,Coppin State,REG (Conf),L 64-74,*,29,7,12,0.583,1,2,0.5,6,10,0.6,0.625,0,0,,0,3,3,1,1,1,2,5,15,8.7,H,0,1,kyonze-chavis-1,Kyonze Chavis,2021
+17,73,18,2021-02-13,Norfolk State,@,Morgan State,REG (Conf),W 74-69,*,20,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,2,1,3,2,0,0,1,4,6,4.1,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+18,74,19,2021-02-14,Norfolk State,@,Morgan State,REG (Conf),W 68-65,*,34,2,4,0.5,0,2,0.0,2,2,1.0,0.5,3,4,0.75,1,4,5,0,1,0,2,3,7,4.3,A,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+19,75,20,2021-02-24,Norfolk State,,Delaware State,REG (Conf),W 86-55,*,19,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,2,0.0,0,7,7,0,0,0,2,3,10,5.5,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+20,76,21,2021-02-28,Norfolk State,,St. Mary's (MD),REG (Non-Conf),W 72-51,*,26,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,2,0.0,3,2,5,1,1,0,2,0,10,7.6,H,1,1,kyonze-chavis-1,Kyonze Chavis,2021
+21,77,22,2021-03-11,Norfolk State,N,North Carolina Central,CTOURN,W 87-58,*,34,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,3,3,2,2,0,1,3,3,2.7,N,1,0,kyonze-chavis-1,Kyonze Chavis,2021
+22,78,23,2021-03-13,Norfolk State,N,Morgan State,CTOURN,W 71-63,*,32,3,6,0.5,1,2,0.5,2,4,0.5,0.583,0,2,0.0,4,4,8,4,1,1,3,1,7,8.3,N,1,0,kyonze-chavis-1,Kyonze Chavis,2021
+23,79,24,2021-03-18,Norfolk State,N,Appalachian State,FIRST-FOUR,W 54-53,*,12,0,0,,0,0,,0,0,,,0,0,,0,1,1,2,1,0,0,3,0,1.5,N,1,0,kyonze-chavis-1,Kyonze Chavis,2021
+24,80,25,2021-03-20,Norfolk State,N,Gonzaga,ROUND-64,L 55-98,*,27,3,8,0.375,3,3,1.0,0,5,0.0,0.563,3,3,1.0,1,1,2,0,4,0,2,0,12,10.6,N,0,0,kyonze-chavis-1,Kyonze Chavis,2021

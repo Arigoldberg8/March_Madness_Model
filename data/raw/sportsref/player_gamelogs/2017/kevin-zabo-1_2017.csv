@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,17,1,2016-11-12,Kent State,N,Cleveland State,REG (Non-Conf),W 79-74 (OT),,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,4,0.5,1,1,2,1,2,0,1,3,4,2.3,N,1,1,kevin-zabo-1,Kevin Zabo,2017
+2,18,2,2016-11-16,Kent State,,Mississippi Valley State,REG (Non-Conf),W 93-63,,19,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,3,3,6,1,0,1,3,3,3.8,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+3,19,3,2016-11-18,Kent State,,Hiram,REG (Non-Conf),W 111-55,,17,2,8,0.25,1,3,0.333,1,5,0.2,0.313,2,2,1.0,1,1,2,4,1,0,2,1,7,4.6,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+4,20,4,2016-11-21,Kent State,N,South Dakota,REG (Non-Conf),L 77-80,,19,1,4,0.25,0,2,0.0,1,2,0.5,0.25,2,2,1.0,1,2,3,1,1,0,0,4,4,3.0,N,0,1,kevin-zabo-1,Kevin Zabo,2017
+5,21,5,2016-11-22,Kent State,N,George Mason,REG (Non-Conf),L 75-79,,2,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,N,0,1,kevin-zabo-1,Kevin Zabo,2017
+6,22,6,2016-11-23,Kent State,N,Wofford,REG (Non-Conf),W 66-59,,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,4,4,1.0,0,0,0,1,0,0,0,1,7,4.9,N,1,1,kevin-zabo-1,Kevin Zabo,2017
+7,23,7,2016-11-27,Kent State,@,Northeastern,REG (Non-Conf),L 70-73,,18,3,6,0.5,2,2,1.0,1,4,0.25,0.667,2,2,1.0,0,0,0,1,0,0,0,5,10,5.7,A,0,1,kevin-zabo-1,Kevin Zabo,2017
+8,24,8,2016-12-02,Kent State,,Grambling State,REG (Non-Conf),W 86-57,*,20,3,6,0.5,2,2,1.0,1,4,0.25,0.667,0,0,,0,1,1,3,0,0,0,3,8,6.2,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+9,25,9,2016-12-07,Kent State,,Niagara,REG (Non-Conf),W 100-72,*,18,3,4,0.75,1,2,0.5,2,2,1.0,0.875,0,0,,0,0,0,3,1,0,0,3,7,7.3,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+10,26,10,2016-12-10,Kent State,,NJIT,REG (Non-Conf),W 87-71,*,22,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,0,1,1,3,0,0,4,3,2,-4.6,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+11,27,11,2016-12-18,Kent State,,Wright State,REG (Non-Conf),L 63-68,*,15,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,0,0,1,0,0,1,1,2,-1.8,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+12,28,12,2016-12-21,Kent State,@,Oregon State,REG (Non-Conf),L 50-69,*,21,0,6,0.0,0,2,0.0,0,4,0.0,0.0,0,2,0.0,1,0,1,1,0,0,0,4,0,-5.2,A,0,1,kevin-zabo-1,Kevin Zabo,2017
+13,29,13,2016-12-27,Kent State,@,Texas,REG (Non-Conf),W 63-58,*,14,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,3,4,0,-5.0,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+14,30,14,2017-01-03,Kent State,,Ball State,REG (Conf),W 100-90,*,28,7,8,0.875,3,3,1.0,4,5,0.8,1.063,1,1,1.0,1,3,4,1,0,0,1,2,18,15.7,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+15,31,15,2017-01-06,Kent State,@,Ohio,REG (Conf),L 67-85,*,20,1,6,0.167,0,4,0.0,1,2,0.5,0.167,2,4,0.5,0,2,2,2,1,0,1,2,4,0.6,A,0,1,kevin-zabo-1,Kevin Zabo,2017
+16,32,16,2017-01-10,Kent State,,Northern Illinois,REG (Conf),L 70-74 (OT),*,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,1,0,0,3,2,3,-1.5,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+17,33,17,2017-01-14,Kent State,@,Western Michigan,REG (Conf),L 88-92,,6,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,1,0,1,1,2,1.3,A,0,1,kevin-zabo-1,Kevin Zabo,2017
+18,34,18,2017-01-17,Kent State,,Buffalo,REG (Conf),L 69-82,,21,3,6,0.5,1,3,0.333,2,3,0.667,0.583,3,3,1.0,1,3,4,1,1,0,5,2,10,4.5,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+19,35,19,2017-01-21,Kent State,,Toledo,REG (Conf),W 85-61,,20,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,2,2,2,2,0,1,3,6,6.5,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+20,36,20,2017-01-24,Kent State,@,Northern Illinois,REG (Conf),W 73-66,,21,6,12,0.5,3,7,0.429,3,5,0.6,0.625,1,2,0.5,0,0,0,2,1,0,2,4,16,8.4,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+21,37,21,2017-01-28,Kent State,,Central Michigan,REG (Conf),L 98-105 (OT),,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,0,0,0,0,0,2,3,0,-6.0,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+22,38,22,2017-01-31,Kent State,@,Eastern Michigan,REG (Conf),W 70-64,,3,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,0,0,1,2,0,-1.1,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+23,39,23,2017-02-04,Kent State,@,Miami (OH),REG (Conf),W 66-62,,13,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,0,0,0,2,1,0,0,2,5,3.2,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+24,40,24,2017-02-07,Kent State,,Bowling Green,REG (Conf),L 83-84 (OT),,24,6,11,0.545,2,5,0.4,4,6,0.667,0.636,3,4,0.75,0,4,4,3,0,0,3,3,17,10.4,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+25,41,25,2017-02-11,Kent State,@,Toledo,REG (Conf),L 58-78,,18,1,7,0.143,1,4,0.25,0,3,0.0,0.214,2,2,1.0,0,0,0,1,1,0,0,0,5,2.2,A,0,1,kevin-zabo-1,Kevin Zabo,2017
+26,42,26,2017-02-14,Kent State,,Miami (OH),REG (Conf),W 76-72,,22,0,4,0.0,0,4,0.0,0,0,,0.0,2,2,1.0,0,1,1,1,1,0,1,3,2,-1.0,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+27,43,27,2017-02-17,Kent State,@,Akron,REG (Conf),W 70-67,,13,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,1,1,2,0,0,1,0,4,5,1.7,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+28,44,28,2017-02-21,Kent State,@,Buffalo,REG (Conf),W 77-69,,11,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,2,2,3,0,0,2,3,0,-2.6,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+29,45,29,2017-02-25,Kent State,,Ohio,REG (Conf),W 70-67,,15,1,5,0.2,0,4,0.0,1,1,1.0,0.2,0,0,,0,2,2,0,0,0,2,1,2,-2.9,H,1,1,kevin-zabo-1,Kevin Zabo,2017
+30,46,30,2017-02-28,Kent State,@,Bowling Green,REG (Conf),W 74-67,,21,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,0,1,1,2,1,0,1,1,9,5.9,A,1,1,kevin-zabo-1,Kevin Zabo,2017
+31,47,31,2017-03-03,Kent State,,Akron,REG (Conf),L 56-66,,16,1,4,0.25,1,4,0.25,0,0,,0.375,1,2,0.5,0,0,0,0,0,0,0,2,4,0.4,H,0,1,kevin-zabo-1,Kevin Zabo,2017
+32,48,32,2017-03-06,Kent State,,Central Michigan,CTOURN,W 116-106 (OT),,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,2,2,3,0,0,1,2,3,1.8,H,1,0,kevin-zabo-1,Kevin Zabo,2017
+33,49,33,2017-03-09,Kent State,N,Buffalo,CTOURN,W 68-65,,14,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,0,1,0,1,0,2,1.6,N,1,0,kevin-zabo-1,Kevin Zabo,2017
+34,50,34,2017-03-10,Kent State,N,Ohio,CTOURN,W 68-66,,30,5,10,0.5,4,6,0.667,1,4,0.25,0.7,1,2,0.5,1,1,2,1,3,0,3,2,15,10.5,N,1,0,kevin-zabo-1,Kevin Zabo,2017
+35,51,35,2017-03-11,Kent State,N,Akron,CTOURN,W 70-65,,27,2,7,0.286,0,2,0.0,2,5,0.4,0.286,4,4,1.0,0,1,1,1,1,0,1,1,8,4.5,N,1,0,kevin-zabo-1,Kevin Zabo,2017
+36,52,36,2017-03-17,Kent State,N,UCLA,ROUND-64,L 80-97,,27,5,9,0.556,2,2,1.0,3,7,0.429,0.667,0,0,,0,2,2,5,2,0,0,3,12,12.6,N,0,0,kevin-zabo-1,Kevin Zabo,2017

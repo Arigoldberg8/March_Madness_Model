@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,9,1,2024-11-04,Maryland,,Manhattan,REG (Non-Conf),W 79-49,,24,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,3,0.667,0,1,1,1,1,0,0,1,12,8.5,H,1,1,rodney-rice-2,Rodney Rice,2025
+2,10,2,2024-11-08,Maryland,,Mount St. Mary's,REG (Non-Conf),W 86-52,,20,10,14,0.714,3,5,0.6,7,9,0.778,0.821,5,5,1.0,3,2,5,2,2,0,1,2,28,26.5,H,1,1,rodney-rice-2,Rodney Rice,2025
+3,11,3,2024-11-11,Maryland,,Florida A&M,REG (Non-Conf),W 84-53,,15,4,9,0.444,2,7,0.286,2,2,1.0,0.556,0,2,0.0,0,1,1,0,1,0,0,1,10,5.4,H,1,1,rodney-rice-2,Rodney Rice,2025
+4,12,4,2024-11-15,Maryland,,Marquette,REG (Non-Conf),L 74-78,,32,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,1,1,2,1,0,0,1,6,4.9,H,0,1,rodney-rice-2,Rodney Rice,2025
+5,13,5,2024-11-19,Maryland,,Canisius,REG (Non-Conf),W 108-37,*,25,4,9,0.444,3,6,0.5,1,3,0.333,0.611,2,2,1.0,2,2,4,3,1,0,2,0,13,11.4,H,1,1,rodney-rice-2,Rodney Rice,2025
+6,14,6,2024-11-24,Maryland,N,Villanova,REG (Non-Conf),W 76-75,*,34,4,13,0.308,3,8,0.375,1,5,0.2,0.423,5,5,1.0,1,1,2,3,0,0,2,0,16,9.6,N,1,1,rodney-rice-2,Rodney Rice,2025
+7,15,7,2024-11-27,Maryland,,Bucknell,REG (Non-Conf),W 91-67,*,20,1,6,0.167,1,6,0.167,0,0,,0.25,1,2,0.5,0,0,0,3,0,0,1,2,4,0.1,H,1,1,rodney-rice-2,Rodney Rice,2025
+8,16,8,2024-12-01,Maryland,,Alcorn State,REG (Non-Conf),W 96-58,*,15,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,0,3,3,5,1,0,1,4,12,11.2,H,1,1,rodney-rice-2,Rodney Rice,2025
+9,17,9,2024-12-04,Maryland,,Ohio State,REG (Conf),W 83-59,*,27,3,9,0.333,0,6,0.0,3,3,1.0,0.333,3,3,1.0,1,2,3,0,0,0,1,2,9,3.4,H,1,1,rodney-rice-2,Rodney Rice,2025
+10,18,10,2024-12-08,Maryland,@,Purdue,REG (Conf),L 78-83,*,33,5,12,0.417,3,7,0.429,2,5,0.4,0.542,0,0,,1,2,3,1,1,0,3,2,13,5.8,A,0,1,rodney-rice-2,Rodney Rice,2025
+11,19,11,2024-12-17,Maryland,,Saint Francis (PA),REG (Non-Conf),W 111-57,*,25,6,11,0.545,3,6,0.5,3,5,0.6,0.682,1,1,1.0,1,2,3,2,0,0,0,1,16,13.0,H,1,1,rodney-rice-2,Rodney Rice,2025
+12,20,12,2024-12-21,Maryland,N,Syracuse,REG (Non-Conf),W 87-60,*,31,4,11,0.364,1,7,0.143,3,4,0.75,0.409,0,0,,0,2,2,3,1,0,1,0,9,5.6,N,1,1,rodney-rice-2,Rodney Rice,2025
+13,21,13,2024-12-28,Maryland,,Maryland Eastern Shore,REG (Non-Conf),W 81-66,*,30,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,0,1,1,2,2,0,1,1,5,2.5,H,1,1,rodney-rice-2,Rodney Rice,2025
+14,22,14,2025-01-02,Maryland,@,Washington,REG (Conf),L 69-75,*,32,5,11,0.455,0,4,0.0,5,7,0.714,0.455,0,0,,1,4,5,2,1,0,1,2,10,6.8,A,0,1,rodney-rice-2,Rodney Rice,2025
+15,23,15,2025-01-05,Maryland,@,Oregon,REG (Conf),L 79-83,*,31,5,8,0.625,3,5,0.6,2,3,0.667,0.813,6,6,1.0,2,1,3,4,0,0,1,2,19,18.1,A,0,1,rodney-rice-2,Rodney Rice,2025
+16,24,16,2025-01-10,Maryland,,UCLA,REG (Conf),W 79-61,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,1,2,2,1,0,0,2,5,4.9,H,1,1,rodney-rice-2,Rodney Rice,2025
+17,25,17,2025-01-13,Maryland,,Minnesota,REG (Conf),W 77-71,*,36,5,10,0.5,2,7,0.286,3,3,1.0,0.6,9,10,0.9,1,1,2,2,0,0,1,2,21,16.2,H,1,1,rodney-rice-2,Rodney Rice,2025
+18,26,18,2025-01-16,Maryland,@,Northwestern,REG (Conf),L 74-76 (OT),*,28,3,9,0.333,2,5,0.4,1,4,0.25,0.444,2,2,1.0,1,1,2,1,0,0,2,5,10,2.6,A,0,1,rodney-rice-2,Rodney Rice,2025
+19,27,19,2025-01-19,Maryland,,Nebraska,REG (Conf),W 69-66,*,32,5,10,0.5,2,7,0.286,3,3,1.0,0.6,3,4,0.75,1,1,2,2,1,1,2,1,15,11.3,H,1,1,rodney-rice-2,Rodney Rice,2025
+20,28,20,2025-01-23,Maryland,@,Illinois,REG (Conf),W 91-70,*,35,3,10,0.3,1,4,0.25,2,6,0.333,0.35,1,2,0.5,0,3,3,1,1,0,1,3,8,2.2,A,1,1,rodney-rice-2,Rodney Rice,2025
+21,29,21,2025-01-26,Maryland,@,Indiana,REG (Conf),W 79-78,*,38,8,13,0.615,5,7,0.714,3,6,0.5,0.808,2,3,0.667,0,1,1,0,1,0,2,2,23,15.2,A,1,1,rodney-rice-2,Rodney Rice,2025
+22,30,22,2025-01-29,Maryland,,Wisconsin,REG (Conf),W 76-68,*,30,5,9,0.556,3,6,0.5,2,3,0.667,0.722,3,5,0.6,0,1,1,2,1,0,0,4,16,12.0,H,1,1,rodney-rice-2,Rodney Rice,2025
+23,31,23,2025-02-06,Maryland,@,Ohio State,REG (Conf),L 70-73,*,38,7,15,0.467,2,4,0.5,5,11,0.455,0.533,2,2,1.0,1,2,3,3,0,0,1,2,18,11.9,A,0,1,rodney-rice-2,Rodney Rice,2025
+24,32,24,2025-02-09,Maryland,,Rutgers,REG (Conf),W 90-81,*,36,6,13,0.462,3,8,0.375,3,5,0.6,0.577,4,6,0.667,0,2,2,0,1,0,0,2,19,12.3,H,1,1,rodney-rice-2,Rodney Rice,2025
+25,33,25,2025-02-13,Maryland,@,Nebraska,REG (Conf),W 83-75,*,39,6,14,0.429,1,5,0.2,5,9,0.556,0.464,1,2,0.5,0,2,2,1,0,0,1,1,14,6.1,A,1,1,rodney-rice-2,Rodney Rice,2025
+26,34,26,2025-02-16,Maryland,,Iowa,REG (Conf),W 101-75,*,34,6,12,0.5,3,7,0.429,3,5,0.6,0.625,3,4,0.75,0,1,1,4,1,0,2,2,18,12.9,H,1,1,rodney-rice-2,Rodney Rice,2025
+27,35,27,2025-02-20,Maryland,,Southern California,REG (Conf),W 88-71,*,33,6,12,0.5,2,6,0.333,4,6,0.667,0.583,8,8,1.0,1,3,4,2,0,0,0,0,22,19.0,H,1,1,rodney-rice-2,Rodney Rice,2025
+28,36,28,2025-02-26,Maryland,,Michigan State,REG (Conf),L 55-58,*,39,6,12,0.5,4,8,0.5,2,4,0.5,0.667,4,5,0.8,0,1,1,0,2,1,1,3,20,14.4,H,0,1,rodney-rice-2,Rodney Rice,2025
+29,37,29,2025-03-01,Maryland,@,Penn State,REG (Conf),W 68-64,*,34,2,13,0.154,1,8,0.125,1,5,0.2,0.192,0,0,,1,1,2,5,1,0,2,1,5,-0.2,A,1,1,rodney-rice-2,Rodney Rice,2025
+30,38,30,2025-03-05,Maryland,@,Michigan,REG (Conf),W 71-65,*,38,6,14,0.429,4,9,0.444,2,5,0.4,0.571,3,4,0.75,0,2,2,1,1,0,1,0,19,12.5,A,1,1,rodney-rice-2,Rodney Rice,2025
+31,39,31,2025-03-08,Maryland,,Northwestern,REG (Conf),W 74-61,*,38,4,11,0.364,1,5,0.2,3,6,0.5,0.409,2,3,0.667,0,3,3,4,0,0,2,2,11,5.4,H,1,1,rodney-rice-2,Rodney Rice,2025
+32,40,32,2025-03-14,Maryland,N,Illinois,CTOURN,W 88-65,*,25,8,12,0.667,7,9,0.778,1,3,0.333,0.958,3,4,0.75,0,0,0,2,0,0,0,1,26,21.4,N,1,0,rodney-rice-2,Rodney Rice,2025
+33,41,33,2025-03-15,Maryland,N,Michigan,CTOURN,L 80-81,*,37,3,9,0.333,1,6,0.167,2,3,0.667,0.389,1,2,0.5,0,1,1,5,1,0,1,1,8,5.9,N,0,0,rodney-rice-2,Rodney Rice,2025
+34,42,34,2025-03-21,Maryland,N,Grand Canyon,ROUND-64,W 81-49,*,34,3,11,0.273,1,5,0.2,2,6,0.333,0.318,2,2,1.0,0,1,1,1,0,0,1,1,9,2.1,N,1,0,rodney-rice-2,Rodney Rice,2025
+35,43,35,2025-03-23,Maryland,N,Colorado State,ROUND-32,W 72-71,*,36,5,17,0.294,3,7,0.429,2,10,0.2,0.382,3,3,1.0,1,3,4,1,0,0,1,0,16,7.4,N,1,0,rodney-rice-2,Rodney Rice,2025
+36,44,36,2025-03-27,Maryland,N,Florida,ROUND-16,L 71-87,*,37,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,2,1.0,1,3,4,2,1,0,3,1,12,7.2,N,0,0,rodney-rice-2,Rodney Rice,2025

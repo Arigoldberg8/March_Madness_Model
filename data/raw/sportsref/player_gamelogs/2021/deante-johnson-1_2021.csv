@@ -1,0 +1,28 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,62,1,2020-12-01,Cleveland State,@,Toledo,REG (Non-Conf),L 61-70,*,28,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,4,6,10,3,0,5,0,2,6,13.8,A,0,1,deante-johnson-1,Deante Johnson,2021
+2,63,2,2020-12-06,Cleveland State,@,Ohio,REG (Non-Conf),L 46-101,*,24,2,4,0.5,0,0,2,4,0.5,0.5,3,5,0.6,3,3,6,1,2,1,3,3,7,6.4,A,0,1,deante-johnson-1,Deante Johnson,2021
+3,64,3,2020-12-13,Cleveland State,@,Ohio State,REG (Non-Conf),L 61-67,*,20,0,1,0.0,0,0,0,1,0.0,0.0,4,6,0.667,0,5,5,1,0,0,4,4,4,-0.9,A,0,1,deante-johnson-1,Deante Johnson,2021
+4,65,4,2020-12-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 63-61,*,33,6,10,0.6,0,0,6,10,0.6,0.6,1,2,0.5,5,2,7,0,2,2,1,2,13,13.7,A,1,1,deante-johnson-1,Deante Johnson,2021
+5,66,5,2020-12-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 89-80,*,20,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,1,1,2,2,1,1,1,3,5,5.5,A,1,1,deante-johnson-1,Deante Johnson,2021
+6,67,6,2020-12-26,Cleveland State,,Youngstown State,REG (Conf),W 87-69,*,21,3,4,0.75,0,0,3,4,0.75,0.75,0,0,,2,4,6,1,1,0,2,3,6,5.5,H,1,1,deante-johnson-1,Deante Johnson,2021
+7,68,7,2020-12-27,Cleveland State,,Youngstown State,REG (Conf),W 81-74,*,34,2,4,0.5,0,0,2,4,0.5,0.5,1,2,0.5,2,8,10,0,0,2,1,3,5,5.6,H,1,1,deante-johnson-1,Deante Johnson,2021
+8,69,8,2021-01-01,Cleveland State,@,IUPUI,REG (Conf),W 65-62,*,34,3,4,0.75,0,0,3,4,0.75,0.75,0,2,0.0,2,6,8,1,0,2,2,1,6,6.5,A,1,1,deante-johnson-1,Deante Johnson,2021
+9,70,9,2021-01-02,Cleveland State,@,IUPUI,REG (Conf),W 59-49,*,24,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,7,8,3,1,1,1,1,3,6.8,A,1,1,deante-johnson-1,Deante Johnson,2021
+10,71,10,2021-01-08,Cleveland State,,Northern Kentucky,REG (Conf),W 58-44,*,21,4,6,0.667,0,0,4,6,0.667,0.667,0,0,,2,2,4,1,0,2,1,0,8,8.5,H,1,1,deante-johnson-1,Deante Johnson,2021
+11,72,11,2021-01-09,Cleveland State,,Northern Kentucky,REG (Conf),W 74-71 (OT),*,23,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,0,1,2,1,4,2.0,H,1,1,deante-johnson-1,Deante Johnson,2021
+12,73,12,2021-01-15,Cleveland State,@,Wright State,REG (Conf),W 66-64,*,23,3,5,0.6,0,0,3,5,0.6,0.6,3,4,0.75,4,5,9,1,0,0,0,1,9,10.9,A,1,1,deante-johnson-1,Deante Johnson,2021
+13,74,13,2021-01-16,Cleveland State,@,Wright State,REG (Conf),L 49-85,*,18,1,5,0.2,0,0,1,5,0.2,0.2,3,4,0.75,1,3,4,0,2,1,0,2,5,5.0,A,0,1,deante-johnson-1,Deante Johnson,2021
+14,75,14,2021-01-22,Cleveland State,,Milwaukee,REG (Conf),W 64-53,*,30,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,1,3,4,1,1,2,1,1,2,2.8,H,1,1,deante-johnson-1,Deante Johnson,2021
+15,76,15,2021-01-23,Cleveland State,,Milwaukee,REG (Conf),L 80-81 (OT),*,30,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,2,5,7,1,1,0,1,4,9,7.3,H,0,1,deante-johnson-1,Deante Johnson,2021
+16,77,16,2021-01-29,Cleveland State,,Green Bay,REG (Conf),W 74-68,*,28,5,8,0.625,0,0,5,8,0.625,0.625,1,1,1.0,0,7,7,1,0,1,0,3,11,9.7,H,1,1,deante-johnson-1,Deante Johnson,2021
+17,78,17,2021-01-30,Cleveland State,,Green Bay,REG (Conf),W 73-65,*,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,0,3,2,1.5,H,1,1,deante-johnson-1,Deante Johnson,2021
+18,79,18,2021-02-05,Cleveland State,@,Oakland,REG (Conf),W 80-72,*,24,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,0,5,5,3,0,0,2,4,9,7.4,A,1,1,deante-johnson-1,Deante Johnson,2021
+19,80,19,2021-02-06,Cleveland State,@,Oakland,REG (Conf),W 80-78,*,23,6,9,0.667,0,0,6,9,0.667,0.667,0,1,0.0,3,1,4,3,3,1,0,3,12,14.7,A,1,1,deante-johnson-1,Deante Johnson,2021
+20,81,20,2021-02-12,Cleveland State,,Detroit Mercy,REG (Conf),L 83-89,*,24,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,7,7,0,0,1,2,0,0,0.1,H,0,1,deante-johnson-1,Deante Johnson,2021
+21,82,21,2021-02-13,Cleveland State,,Detroit Mercy,REG (Conf),W 71-64,*,37,3,4,0.75,0,0,3,4,0.75,0.75,1,2,0.5,1,11,12,0,0,5,2,2,7,9.7,H,1,1,deante-johnson-1,Deante Johnson,2021
+22,83,22,2021-02-19,Cleveland State,@,Purdue Fort Wayne,REG (Conf),L 68-75,*,10,1,2,0.5,0,0,1,2,0.5,0.5,0,2,0.0,0,1,1,0,0,0,0,0,2,0.5,A,0,1,deante-johnson-1,Deante Johnson,2021
+23,84,23,2021-02-20,Cleveland State,@,Purdue Fort Wayne,REG (Conf),W 67-55,*,4,0,0,,0,0,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,A,1,1,deante-johnson-1,Deante Johnson,2021
+24,85,24,2021-03-02,Cleveland State,,Purdue Fort Wayne,CTOURN,W 108-104 (3OT),*,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,3,3,0,0,1,0,0,0,0.9,H,1,0,deante-johnson-1,Deante Johnson,2021
+25,86,25,2021-03-08,Cleveland State,N,Milwaukee,CTOURN,W 71-65,*,20,1,2,0.5,0,0,1,2,0.5,0.5,2,2,1.0,3,1,4,0,0,2,2,1,4,4.4,N,1,0,deante-johnson-1,Deante Johnson,2021
+26,87,26,2021-03-09,Cleveland State,N,Oakland,CTOURN,W 80-69,*,28,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,0,4,4,2,0,0,1,2,3,2.4,N,1,0,deante-johnson-1,Deante Johnson,2021
+27,88,27,2021-03-19,Cleveland State,N,Houston,ROUND-64,L 56-87,*,24,3,5,0.6,0,0,3,5,0.6,0.6,0,0,,2,1,3,2,1,4,0,1,6,10.2,N,0,0,deante-johnson-1,Deante Johnson,2021

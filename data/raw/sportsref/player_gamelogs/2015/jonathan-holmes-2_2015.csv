@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,96,1,2014-11-14,Texas,,North Dakota State,REG (Non-Conf),W 85-50,*,15,5,6,0.833,2,3,0.667,3,3,1.0,1.0,3,3,1.0,1,5,6,0,0,0,0,3,15,13.8,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+2,97,2,2014-11-16,Texas,,Alcorn State,REG (Non-Conf),W 85-53,*,21,3,3,1.0,2,2,1.0,1,1,1.0,1.333,1,2,0.5,5,4,9,2,1,0,2,0,9,12.8,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+3,98,3,2014-11-20,Texas,N,Iowa,REG (Non-Conf),W 71-57,*,31,7,12,0.583,3,5,0.6,4,7,0.571,0.708,2,3,0.667,1,4,5,2,0,0,2,2,19,13.5,N,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+4,99,4,2014-11-21,Texas,N,California,REG (Non-Conf),W 71-55,*,32,6,11,0.545,1,3,0.333,5,8,0.625,0.591,8,10,0.8,2,11,13,1,0,2,1,2,21,19.9,N,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+5,100,5,2014-11-25,Texas,,Saint Francis (PA),REG (Non-Conf),W 78-46,*,20,1,5,0.2,1,1,1.0,0,4,0.0,0.3,0,0,,1,2,3,5,0,0,4,0,3,0.7,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+6,101,6,2014-11-30,Texas,@,Connecticut,REG (Non-Conf),W 55-54,*,34,4,13,0.308,4,7,0.571,0,6,0.0,0.462,1,2,0.5,3,5,8,2,1,1,1,1,13,10.4,A,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+7,102,7,2014-12-02,Texas,,UT Arlington,REG (Non-Conf),W 63-53,*,33,3,11,0.273,1,7,0.143,2,4,0.5,0.318,2,4,0.5,9,7,16,1,0,3,2,1,9,10.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+8,103,8,2014-12-05,Texas,@,Kentucky,REG (Non-Conf),L 51-63,*,30,4,13,0.308,1,6,0.167,3,7,0.429,0.346,5,7,0.714,1,4,5,0,0,0,2,4,14,4.0,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+9,104,9,2014-12-13,Texas,,Texas State,REG (Non-Conf),W 59-27,*,27,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,3,3,3,0,1,2,3,3,0.4,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+10,105,10,2014-12-16,Texas,,Lipscomb,REG (Non-Conf),W 106-61,*,18,4,8,0.5,2,4,0.5,2,4,0.5,0.625,7,7,1.0,2,4,6,2,1,3,2,3,17,16.9,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+11,106,11,2014-12-20,Texas,,Long Beach State,REG (Non-Conf),W 78-68,*,19,4,6,0.667,2,3,0.667,2,3,0.667,0.833,4,4,1.0,1,1,2,2,1,0,3,3,14,10.6,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+12,107,12,2014-12-23,Texas,,Stanford,REG (Non-Conf),L 71-74 (OT),*,30,6,10,0.6,1,2,0.5,5,8,0.625,0.65,1,2,0.5,0,1,1,1,0,0,2,2,14,7.2,H,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+13,108,13,2014-12-29,Texas,,Rice,REG (Non-Conf),W 66-55,*,29,4,14,0.286,0,2,0.0,4,12,0.333,0.286,4,6,0.667,8,2,10,2,2,0,3,1,12,9.2,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+14,109,14,2015-01-03,Texas,@,Texas Tech,REG (Conf),W 70-61,*,24,3,5,0.6,2,3,0.667,1,2,0.5,0.8,6,8,0.75,2,3,5,1,1,0,3,3,14,10.7,A,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+15,110,15,2015-01-05,Texas,,Oklahoma,REG (Conf),L 49-70,*,30,2,9,0.222,0,6,0.0,2,3,0.667,0.222,0,0,,1,5,6,0,0,1,1,3,4,-0.8,H,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+16,111,16,2015-01-10,Texas,@,Oklahoma State,REG (Conf),L 58-69,*,34,0,10,0.0,0,5,0.0,0,5,0.0,0.0,0,0,,3,3,6,1,0,4,0,2,0,-1.3,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+17,112,17,2015-01-17,Texas,,West Virginia,REG (Conf),W 77-50,*,31,2,6,0.333,1,3,0.333,1,3,0.333,0.417,11,12,0.917,5,6,11,1,2,0,2,2,16,17.4,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+18,113,18,2015-01-19,Texas,@,TCU,REG (Conf),W 66-48,*,23,3,5,0.6,0,0,,3,5,0.6,0.6,3,3,1.0,1,5,6,0,0,2,2,4,9,6.7,A,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+19,114,19,2015-01-24,Texas,,Kansas,REG (Conf),L 62-75,*,30,5,9,0.556,2,5,0.4,3,4,0.75,0.667,2,2,1.0,2,1,3,1,0,0,0,2,14,11.3,H,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+20,115,20,2015-01-26,Texas,@,Iowa State,REG (Conf),L 86-89,*,32,6,15,0.4,3,7,0.429,3,8,0.375,0.5,2,3,0.667,6,4,10,0,1,2,2,3,17,13.1,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+21,116,21,2015-01-31,Texas,@,Baylor,REG (Conf),L 60-83,*,27,8,16,0.5,1,7,0.143,7,9,0.778,0.531,0,0,,3,3,6,1,0,0,1,4,17,10.1,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+22,117,22,2015-02-04,Texas,,Oklahoma State,REG (Conf),L 63-65 (OT),*,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,2,0,-0.5,H,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+23,118,25,2015-02-14,Texas,,Texas Tech,REG (Conf),W 56-41,,20,1,5,0.2,1,2,0.5,0,3,0.0,0.3,2,4,0.5,2,2,4,1,1,1,1,0,5,4.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+24,119,26,2015-02-17,Texas,@,Oklahoma,REG (Conf),L 69-71,*,30,2,9,0.222,1,6,0.167,1,3,0.333,0.278,0,0,,4,7,11,1,0,1,3,1,5,2.4,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+25,120,27,2015-02-21,Texas,,Iowa State,REG (Conf),L 77-85,*,29,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,5,6,1,2,0,0,2,2,3.0,H,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+26,121,28,2015-02-24,Texas,@,West Virginia,REG (Conf),L 64-71,*,17,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,1,1,1,6,4.3,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+27,122,29,2015-02-28,Texas,@,Kansas,REG (Conf),L 64-69,*,16,1,7,0.143,0,3,0.0,1,4,0.25,0.143,0,0,,0,4,4,0,0,1,0,4,2,-2.2,A,0,1,jonathan-holmes-2,Jonathan Holmes,2015
+28,123,30,2015-03-02,Texas,,Baylor,REG (Conf),W 61-59 (OT),*,28,3,12,0.25,1,5,0.2,2,7,0.286,0.292,0,0,,1,4,5,0,1,0,2,4,7,-0.9,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+29,124,31,2015-03-07,Texas,,Kansas State,REG (Conf),W 62-49,*,26,2,7,0.286,2,6,0.333,0,1,0.0,0.429,4,6,0.667,1,1,2,0,1,4,0,1,10,9.5,H,1,1,jonathan-holmes-2,Jonathan Holmes,2015
+30,125,32,2015-03-11,Texas,N,Texas Tech,CTOURN,W 65-53,*,23,3,8,0.375,0,4,0.0,3,4,0.75,0.375,3,3,1.0,3,5,8,1,1,1,0,1,9,10.2,N,1,0,jonathan-holmes-2,Jonathan Holmes,2015
+31,126,33,2015-03-12,Texas,N,Iowa State,CTOURN,L 67-69,*,30,5,10,0.5,3,7,0.429,2,3,0.667,0.65,2,2,1.0,1,8,9,2,0,3,2,3,15,13.4,N,0,0,jonathan-holmes-2,Jonathan Holmes,2015
+32,127,34,2015-03-19,Texas,N,Butler,ROUND-64,L 48-56,*,36,4,11,0.364,3,8,0.375,1,3,0.333,0.5,4,6,0.667,1,4,5,0,1,1,1,4,15,9.1,N,0,0,jonathan-holmes-2,Jonathan Holmes,2015

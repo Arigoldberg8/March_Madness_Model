@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,52,1,2022-11-09,Boise State,,South Dakota State,REG (Non-Conf),L 66-68,,33,6,8,0.75,0,1,0.0,6,7,0.857,0.75,0,0,,0,5,5,0,2,0,3,3,12,8.1,H,0,1,naje-smith-1,Naje Smith,2023
+2,53,2,2022-11-12,Boise State,N,Washington State,REG (Non-Conf),W 71-61,,33,4,8,0.5,0,0,,4,8,0.5,0.5,4,6,0.667,0,4,4,1,1,3,0,3,12,11.0,N,1,1,naje-smith-1,Naje Smith,2023
+3,54,3,2022-11-17,Boise State,N,Charlotte,REG (Non-Conf),L 42-54,,22,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,1,2,1,0,0,2,1,4,2.0,N,0,1,naje-smith-1,Naje Smith,2023
+4,55,4,2022-11-18,Boise State,N,Loyola Chicago,REG (Non-Conf),W 70-48,*,26,0,1,0.0,0,1,0.0,0,0,,0.0,0,2,0.0,0,5,5,1,0,1,0,2,0,0.6,N,1,1,naje-smith-1,Naje Smith,2023
+5,56,5,2022-11-20,Boise State,N,Colorado,REG (Non-Conf),W 68-55,*,16,5,7,0.714,0,1,0.0,5,6,0.833,0.714,0,0,,2,1,3,0,0,0,0,5,10,6.8,N,1,1,naje-smith-1,Naje Smith,2023
+6,57,6,2022-11-26,Boise State,,Utah Valley,REG (Non-Conf),W 87-69,*,31,7,10,0.7,1,2,0.5,6,8,0.75,0.75,2,3,0.667,1,1,2,0,0,3,0,3,17,14.3,H,1,1,naje-smith-1,Naje Smith,2023
+7,58,7,2022-11-29,Boise State,,Cal State Northridge,REG (Non-Conf),W 55-46,*,34,2,9,0.222,1,2,0.5,1,7,0.143,0.278,1,2,0.5,4,5,9,1,0,2,2,2,6,3.7,H,1,1,naje-smith-1,Naje Smith,2023
+8,59,8,2022-12-03,Boise State,N,Texas A&M,REG (Non-Conf),W 86-71,*,31,3,7,0.429,0,3,0.0,3,4,0.75,0.429,5,7,0.714,1,1,2,4,1,0,2,4,11,7.7,N,1,1,naje-smith-1,Naje Smith,2023
+9,60,9,2022-12-06,Boise State,,Eastern Ore.,REG (Non-Conf),W 90-54,*,21,2,7,0.286,2,4,0.5,0,3,0.0,0.429,0,0,,1,3,4,2,0,1,1,0,6,4.6,H,1,1,naje-smith-1,Naje Smith,2023
+10,61,10,2022-12-10,Boise State,@,Saint Louis,REG (Non-Conf),W 57-52,*,25,1,6,0.167,1,4,0.25,0,2,0.0,0.25,0,0,,3,4,7,2,0,1,4,1,3,0.2,A,1,1,naje-smith-1,Naje Smith,2023
+11,62,11,2022-12-13,Boise State,,New Orleans,REG (Non-Conf),W 91-50,*,25,3,6,0.5,1,2,0.5,2,4,0.5,0.583,4,4,1.0,3,4,7,2,3,1,1,2,11,14.6,H,1,1,naje-smith-1,Naje Smith,2023
+12,63,12,2022-12-18,Boise State,,Oakland,REG (Non-Conf),W 77-57,*,18,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,4,0.75,2,3,5,2,0,1,2,1,9,6.9,H,1,1,naje-smith-1,Naje Smith,2023
+13,64,13,2022-12-22,Boise State,@,Santa Clara,REG (Non-Conf),L 58-73,*,21,3,7,0.429,1,2,0.5,2,5,0.4,0.5,1,2,0.5,2,2,4,1,0,1,1,1,8,5.9,A,0,1,naje-smith-1,Naje Smith,2023
+14,65,14,2022-12-28,Boise State,@,Nevada,REG (Conf),L 72-74,*,34,9,14,0.643,0,2,0.0,9,12,0.75,0.643,2,4,0.5,3,2,5,2,1,0,3,5,20,13.1,A,0,1,naje-smith-1,Naje Smith,2023
+15,66,15,2023-01-03,Boise State,,San Jose State,REG (Conf),W 67-64,*,33,4,8,0.5,1,1,1.0,3,7,0.429,0.563,2,2,1.0,3,4,7,0,0,0,0,0,11,10.3,H,1,1,naje-smith-1,Naje Smith,2023
+16,67,16,2023-01-07,Boise State,,Utah State,REG (Conf),W 82-59,*,34,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,0,5,5,2,0,0,1,1,10,7.4,H,1,1,naje-smith-1,Naje Smith,2023
+17,68,17,2023-01-11,Boise State,@,UNLV,REG (Conf),W 84-66,*,30,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,3,3,1,1,6,4,3,4,2.9,A,1,1,naje-smith-1,Naje Smith,2023
+18,69,18,2023-01-14,Boise State,@,Wyoming,REG (Conf),W 85-68,*,21,7,15,0.467,4,8,0.5,3,7,0.429,0.6,0,0,,2,5,7,0,1,1,2,4,18,11.3,A,1,1,naje-smith-1,Naje Smith,2023
+19,70,19,2023-01-17,Boise State,,Nevada,REG (Conf),W 77-62,*,28,5,10,0.5,1,3,0.333,4,7,0.571,0.55,1,1,1.0,2,6,8,1,0,0,1,3,12,8.7,H,1,1,naje-smith-1,Naje Smith,2023
+20,71,20,2023-01-20,Boise State,@,New Mexico,REG (Conf),L 79-81 (OT),*,36,4,9,0.444,0,3,0.0,4,6,0.667,0.444,0,1,0.0,3,10,13,2,1,3,0,3,8,11.3,A,0,1,naje-smith-1,Naje Smith,2023
+21,72,21,2023-01-24,Boise State,,Fresno State,REG (Conf),W 63-53,*,27,4,8,0.5,0,0,,4,8,0.5,0.5,2,3,0.667,1,5,6,0,0,0,3,4,10,3.2,H,1,1,naje-smith-1,Naje Smith,2023
+22,73,22,2023-01-28,Boise State,,Colorado State,REG (Conf),W 80-59,*,31,6,8,0.75,1,2,0.5,5,6,0.833,0.813,3,3,1.0,0,4,4,0,1,0,1,2,16,13.2,H,1,1,naje-smith-1,Naje Smith,2023
+23,74,23,2023-01-31,Boise State,@,Air Force,REG (Conf),W 59-52,*,11,1,5,0.2,0,1,0.0,1,4,0.25,0.2,2,2,1.0,1,3,4,0,0,1,0,0,4,3.2,A,1,1,naje-smith-1,Naje Smith,2023
+24,75,24,2023-02-03,Boise State,@,San Diego State,REG (Conf),L 52-72,*,30,1,4,0.25,0,0,,1,4,0.25,0.25,0,2,0.0,1,4,5,2,0,1,1,4,2,0.2,A,0,1,naje-smith-1,Naje Smith,2023
+25,76,25,2023-02-11,Boise State,,Wyoming,REG (Conf),W 75-63,*,34,7,11,0.636,1,3,0.333,6,8,0.75,0.682,3,5,0.6,5,5,10,4,3,1,2,3,18,20.6,H,1,1,naje-smith-1,Naje Smith,2023
+26,77,26,2023-02-15,Boise State,@,Colorado State,REG (Conf),W 80-78,*,31,5,7,0.714,1,2,0.5,4,5,0.8,0.786,6,6,1.0,3,4,7,2,1,0,3,1,17,16.4,A,1,1,naje-smith-1,Naje Smith,2023
+27,78,27,2023-02-19,Boise State,,UNLV,REG (Conf),W 73-69,*,29,4,6,0.667,0,2,0.0,4,4,1.0,0.667,5,5,1.0,2,2,4,0,1,3,3,2,13,11.7,H,1,1,naje-smith-1,Naje Smith,2023
+28,79,28,2023-02-22,Boise State,,New Mexico,REG (Conf),W 82-77,*,21,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,6,0.5,2,3,5,2,0,0,1,4,7,4.9,H,1,1,naje-smith-1,Naje Smith,2023
+29,80,29,2023-02-25,Boise State,@,San Jose State,REG (Conf),L 68-74 (OT),*,38,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,4,0.25,4,7,11,2,3,3,3,3,8,11.7,A,0,1,naje-smith-1,Naje Smith,2023
+30,81,30,2023-02-28,Boise State,,San Diego State,REG (Conf),W 66-60,*,28,3,5,0.6,2,2,1.0,1,3,0.333,0.8,2,2,1.0,4,2,6,1,1,0,4,3,10,7.6,H,1,1,naje-smith-1,Naje Smith,2023
+31,82,31,2023-03-04,Boise State,@,Utah State,REG (Conf),L 73-86,*,26,2,3,0.667,1,1,1.0,1,2,0.5,0.833,0,0,,1,1,2,0,0,1,1,3,5,3.2,A,0,1,naje-smith-1,Naje Smith,2023
+32,83,32,2023-03-09,Boise State,@,UNLV,CTOURN,W 87-76 (OT),*,38,5,8,0.625,2,4,0.5,3,4,0.75,0.75,6,7,0.857,1,5,6,2,0,0,2,0,18,15.6,A,1,0,naje-smith-1,Naje Smith,2023
+33,84,33,2023-03-10,Boise State,N,Utah State,CTOURN,L 62-72,*,32,4,8,0.5,2,3,0.667,2,5,0.4,0.625,4,6,0.667,2,2,4,2,1,0,1,2,14,11.8,N,0,0,naje-smith-1,Naje Smith,2023
+34,85,34,2023-03-16,Boise State,N,Northwestern,ROUND-64,L 67-75,*,36,5,8,0.625,1,2,0.5,4,6,0.667,0.688,3,6,0.5,7,4,11,2,0,0,1,2,14,14.9,N,0,0,naje-smith-1,Naje Smith,2023

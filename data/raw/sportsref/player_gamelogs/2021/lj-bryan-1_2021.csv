@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Morehead State,@,Kentucky,REG (Non-Conf),L 45-81,*,13,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,1,1,2,0,0,0,1,3,2,-1.6,A,0,1,lj-bryan-1,LJ Bryan,2021
+2,33,2,2020-11-27,Morehead State,N,Richmond,REG (Non-Conf),L 64-82,,18,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,1,0,0,2,3.0,N,0,1,lj-bryan-1,LJ Bryan,2021
+3,34,3,2020-11-29,Morehead State,,Arkansas State,REG (Non-Conf),W 69-61,,11,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,1,0,1,0,0,0,0,1,3,1.9,H,1,1,lj-bryan-1,LJ Bryan,2021
+4,35,5,2020-12-07,Morehead State,@,Eastern Kentucky,REG (Conf),L 68-71,,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,0,1,1,0,1,1,1,4,3.4,A,0,1,lj-bryan-1,LJ Bryan,2021
+5,36,6,2020-12-09,Morehead State,,Transylvania,REG (Non-Conf),W 77-55,,17,4,5,0.8,0,0,4,5,0.8,0.8,0,0,,1,2,3,0,0,0,0,0,8,7.4,H,1,1,lj-bryan-1,LJ Bryan,2021
+6,37,7,2020-12-10,Morehead State,,Transylvania,REG (Non-Conf),W 81-55,,12,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,1,2,0,0,1,2,1,0,-2.1,H,1,1,lj-bryan-1,LJ Bryan,2021
+7,38,8,2020-12-14,Morehead State,,Eastern Kentucky,REG (Conf),W 75-62,,6,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,1,0,1,0,2,0,0.9,H,1,1,lj-bryan-1,LJ Bryan,2021
+8,39,9,2020-12-18,Morehead State,,SIU Edwardsville,REG (Conf),L 65-69,,8,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,1,3,4,0,0,1,1,1,1,0.8,H,0,1,lj-bryan-1,LJ Bryan,2021
+9,40,10,2020-12-21,Morehead State,@,Clemson,REG (Non-Conf),L 51-66,,15,2,2,1.0,0,0,2,2,1.0,1.0,2,2,1.0,1,0,1,0,1,0,1,1,6,5.7,A,0,1,lj-bryan-1,LJ Bryan,2021
+10,41,11,2021-01-02,Morehead State,@,Murray State,REG (Conf),W 61-56,*,28,5,8,0.625,0,0,5,8,0.625,0.625,0,3,0.0,5,1,6,0,1,1,1,5,10,7.7,A,1,1,lj-bryan-1,LJ Bryan,2021
+11,42,12,2021-01-07,Morehead State,,Tennessee Tech,REG (Conf),W 57-54,*,19,0,0,,0,0,0,0,,,0,1,0.0,1,1,2,0,1,0,2,0,0,-0.4,H,1,1,lj-bryan-1,LJ Bryan,2021
+12,43,13,2021-01-09,Morehead State,,Jacksonville State,REG (Conf),W 56-55,*,19,2,2,1.0,0,0,2,2,1.0,1.0,1,4,0.25,2,1,3,1,0,1,0,4,5,4.7,H,1,1,lj-bryan-1,LJ Bryan,2021
+13,44,14,2021-01-14,Morehead State,@,Eastern Illinois,REG (Conf),W 87-61,,12,0,2,0.0,0,0,0,2,0.0,0.0,2,4,0.5,1,5,6,0,1,0,0,0,2,3.0,A,1,1,lj-bryan-1,LJ Bryan,2021
+14,45,15,2021-01-16,Morehead State,@,Southeast Missouri State,REG (Conf),W 64-50,,13,0,2,0.0,0,0,0,2,0.0,0.0,4,4,1.0,1,1,2,0,0,0,0,1,4,3.2,A,1,1,lj-bryan-1,LJ Bryan,2021
+15,46,16,2021-01-21,Morehead State,,Southeast Missouri State,REG (Conf),W 76-65,,12,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,1,1,0,0,0,0,3,3,1.4,H,1,1,lj-bryan-1,LJ Bryan,2021
+16,47,17,2021-01-23,Morehead State,,UT Martin,REG (Conf),W 76-44,,15,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,1,1,2,1,1,1,2,2,6,5.3,H,1,1,lj-bryan-1,LJ Bryan,2021
+17,48,18,2021-01-28,Morehead State,@,Jacksonville State,REG (Conf),W 85-66,,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,A,1,1,lj-bryan-1,LJ Bryan,2021
+18,49,19,2021-01-30,Morehead State,@,Tennessee Tech,REG (Conf),W 74-55,,8,0,0,,0,0,0,0,,,0,0,,3,0,3,0,1,0,1,2,0,1.3,A,1,1,lj-bryan-1,LJ Bryan,2021
+19,50,20,2021-02-04,Morehead State,,Murray State,REG (Conf),W 66-56,,12,1,1,1.0,0,0,1,1,1.0,1.0,0,2,0.0,0,3,3,0,0,1,1,1,2,1.1,H,1,1,lj-bryan-1,LJ Bryan,2021
+20,51,21,2021-02-06,Morehead State,,Austin Peay,REG (Conf),W 75-74 (OT),,13,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,1,2,0,0,1,1,1,4,3.0,H,1,1,lj-bryan-1,LJ Bryan,2021
+21,52,22,2021-02-11,Morehead State,@,Tennessee State,REG (Conf),W 79-66,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,A,1,1,lj-bryan-1,LJ Bryan,2021
+22,53,23,2021-02-13,Morehead State,@,Belmont,REG (Conf),L 58-73,,10,0,0,,0,0,0,0,,,0,0,,2,4,6,0,0,0,1,1,0,1.2,A,0,1,lj-bryan-1,LJ Bryan,2021
+23,54,24,2021-02-20,Morehead State,@,UT Martin,REG (Conf),W 79-69,,12,0,0,,0,0,0,0,,,0,0,,0,3,3,0,0,0,0,1,0,0.5,A,1,1,lj-bryan-1,LJ Bryan,2021
+24,55,25,2021-02-22,Morehead State,@,SIU Edwardsville,REG (Conf),W 56-48,,9,0,0,,0,0,0,0,,,1,2,0.5,1,1,2,0,0,0,0,0,1,1.6,A,1,1,lj-bryan-1,LJ Bryan,2021
+25,56,26,2021-02-25,Morehead State,,Tennessee State,REG (Conf),W 74-60,,13,1,2,0.5,0,0,1,2,0.5,0.5,2,3,0.667,2,3,5,0,0,3,1,0,4,6.0,H,1,1,lj-bryan-1,LJ Bryan,2021
+26,57,27,2021-02-27,Morehead State,,Belmont,REG (Conf),W 89-82 (OT),,10,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,2,3,0,0,1,0,2,2,2.2,H,1,1,lj-bryan-1,LJ Bryan,2021
+27,58,28,2021-03-03,Morehead State,N,Southeast Missouri State,CTOURN,W 61-54,,14,3,3,1.0,0,0,3,3,1.0,1.0,1,2,0.5,2,0,2,0,0,0,1,1,7,5.7,N,1,0,lj-bryan-1,LJ Bryan,2021
+28,59,29,2021-03-05,Morehead State,N,Eastern Kentucky,CTOURN,W 67-64,,8,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,1,3,0,0,0,1,2,2,1.6,N,1,0,lj-bryan-1,LJ Bryan,2021
+29,60,30,2021-03-06,Morehead State,N,Belmont,CTOURN,W 86-71,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,1,3,0,0,0,1,4,2,0.8,N,1,0,lj-bryan-1,LJ Bryan,2021
+30,61,31,2021-03-19,Morehead State,N,West Virginia,ROUND-64,L 67-84,,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-1.7,N,0,0,lj-bryan-1,LJ Bryan,2021

@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,109,1,2022-11-07,Northern Kentucky,,Kent State,REG (Non-Conf),L 57-79,*,31,3,8,0.375,0,0,,3,8,0.375,0.375,0,1,0.0,9,8,17,0,0,3,3,2,6,8.2,H,0,1,chris-brandon-1,Chris Brandon,2023
+2,110,2,2022-11-12,Northern Kentucky,,Cinci-Clermont,REG (Non-Conf),W 89-49,*,27,8,9,0.889,0,0,,8,9,0.889,0.889,0,0,,4,8,12,2,1,0,0,3,16,19.3,H,1,1,chris-brandon-1,Chris Brandon,2023
+3,111,3,2022-11-16,Northern Kentucky,,Cincinnati,REG (Non-Conf),W 64-51,*,35,5,7,0.714,0,0,,5,7,0.714,0.714,0,0,,2,14,16,3,0,1,2,3,10,12.3,H,1,1,chris-brandon-1,Chris Brandon,2023
+4,112,4,2022-11-21,Northern Kentucky,N,Florida Gulf Coast,REG (Non-Conf),L 61-82,*,33,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,1,1,2,1,0,0,0,4,2,-1.0,N,0,1,chris-brandon-1,Chris Brandon,2023
+5,113,5,2022-11-22,Northern Kentucky,N,UT Arlington,REG (Non-Conf),L 56-60,*,33,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,5,4,9,0,1,0,1,4,0,1.7,N,0,1,chris-brandon-1,Chris Brandon,2023
+6,114,6,2022-11-23,Northern Kentucky,N,Toledo,REG (Non-Conf),L 69-82,*,35,3,6,0.5,0,0,,3,6,0.5,0.5,3,4,0.75,5,7,12,0,2,1,0,3,9,12.7,N,0,1,chris-brandon-1,Chris Brandon,2023
+7,115,7,2022-11-27,Northern Kentucky,,Tennessee Tech,REG (Non-Conf),W 85-77 (2OT),*,45,2,5,0.4,0,0,,2,5,0.4,0.4,2,3,0.667,4,15,19,3,4,0,2,3,6,13.1,H,1,1,chris-brandon-1,Chris Brandon,2023
+8,116,8,2022-12-01,Northern Kentucky,,Youngstown State,REG (Conf),W 77-73 (2OT),*,30,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,4,4,8,1,1,0,0,5,2,3.3,H,1,1,chris-brandon-1,Chris Brandon,2023
+9,117,9,2022-12-03,Northern Kentucky,,Robert Morris,REG (Conf),W 60-56,*,26,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,3,7,10,1,0,1,2,5,5,2.8,H,1,1,chris-brandon-1,Chris Brandon,2023
+10,118,10,2022-12-07,Northern Kentucky,@,Washington State,REG (Non-Conf),L 47-68,*,20,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,3,2,0.8,A,0,1,chris-brandon-1,Chris Brandon,2023
+11,119,11,2022-12-14,Northern Kentucky,,Eastern Kentucky,REG (Non-Conf),W 64-61,*,28,2,2,1.0,0,0,,2,2,1.0,1.0,0,2,0.0,3,5,8,0,0,2,1,3,4,5.4,H,1,1,chris-brandon-1,Chris Brandon,2023
+12,120,12,2022-12-18,Northern Kentucky,,MU-Hamilton,REG (Non-Conf),W 81-41,*,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,1,1,chris-brandon-1,Chris Brandon,2023
+13,121,13,2022-12-21,Northern Kentucky,@,Florida Atlantic,REG (Non-Conf),L 52-67,*,23,4,4,1.0,0,0,,4,4,1.0,1.0,1,2,0.5,2,5,7,0,1,0,2,5,9,7.3,A,0,1,chris-brandon-1,Chris Brandon,2023
+14,122,14,2022-12-29,Northern Kentucky,,Wright State,REG (Conf),W 78-64,*,29,4,6,0.667,0,1,0.0,4,5,0.8,0.667,4,6,0.667,7,7,14,2,0,2,1,2,12,16.6,H,1,1,chris-brandon-1,Chris Brandon,2023
+15,123,15,2022-12-31,Northern Kentucky,@,IUPUI,REG (Conf),W 55-42,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,5,4,9,0,4,0,1,1,4,9.3,A,1,1,chris-brandon-1,Chris Brandon,2023
+16,124,16,2023-01-06,Northern Kentucky,,Oakland,REG (Conf),L 63-64,*,25,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,4,6,0,1,0,0,1,4,6.6,H,0,1,chris-brandon-1,Chris Brandon,2023
+17,125,17,2023-01-08,Northern Kentucky,,Detroit Mercy,REG (Conf),W 78-76 (OT),,22,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,2,2,4,0,0,1,2,2,7,5.6,H,1,1,chris-brandon-1,Chris Brandon,2023
+18,126,18,2023-01-12,Northern Kentucky,@,Milwaukee,REG (Conf),L 75-80,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,8,10,18,0,1,0,1,4,8,12.7,A,0,1,chris-brandon-1,Chris Brandon,2023
+19,127,19,2023-01-14,Northern Kentucky,@,Green Bay,REG (Conf),W 74-53,*,32,7,10,0.7,0,0,,7,10,0.7,0.7,2,4,0.5,7,4,11,2,2,2,2,2,16,19.1,A,1,1,chris-brandon-1,Chris Brandon,2023
+20,128,20,2023-01-19,Northern Kentucky,,Cleveland State,REG (Conf),W 57-56,*,23,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,3,2,5,0,3,3,2,4,4,7.6,H,1,1,chris-brandon-1,Chris Brandon,2023
+21,129,21,2023-01-21,Northern Kentucky,,Purdue Fort Wayne,REG (Conf),W 74-54,*,23,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,4,4,0,1,0,1,5,0,-1.5,H,1,1,chris-brandon-1,Chris Brandon,2023
+22,130,22,2023-01-26,Northern Kentucky,,Green Bay,REG (Conf),W 68-50,*,32,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,5,8,13,2,3,0,1,1,6,12.9,H,1,1,chris-brandon-1,Chris Brandon,2023
+23,131,23,2023-01-28,Northern Kentucky,,Milwaukee,REG (Conf),L 74-75,*,35,9,11,0.818,0,0,,9,11,0.818,0.818,0,0,,7,10,17,0,1,1,0,4,18,21.9,H,0,1,chris-brandon-1,Chris Brandon,2023
+24,132,24,2023-02-02,Northern Kentucky,@,Robert Morris,REG (Conf),W 65-52,*,33,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,3,9,12,1,3,0,1,3,10,14.1,A,1,1,chris-brandon-1,Chris Brandon,2023
+25,133,25,2023-02-04,Northern Kentucky,@,Youngstown State,REG (Conf),L 56-74,*,25,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,5,5,10,1,0,0,0,2,2,3.8,A,0,1,chris-brandon-1,Chris Brandon,2023
+26,134,26,2023-02-10,Northern Kentucky,@,Wright State,REG (Conf),L 65-83,*,26,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,2,4,0,0,0,1,2,2,1.2,A,0,1,chris-brandon-1,Chris Brandon,2023
+27,135,27,2023-02-12,Northern Kentucky,,IUPUI,REG (Conf),W 86-47,*,23,6,6,1.0,0,0,,6,6,1.0,1.0,1,2,0.5,1,4,5,0,1,0,2,0,13,11.7,H,1,1,chris-brandon-1,Chris Brandon,2023
+28,136,28,2023-02-17,Northern Kentucky,@,Purdue Fort Wayne,REG (Conf),W 63-50,*,35,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,12,13,2,0,0,0,2,4,7.6,A,1,1,chris-brandon-1,Chris Brandon,2023
+29,137,29,2023-02-19,Northern Kentucky,@,Cleveland State,REG (Conf),L 63-64,*,18,3,3,1.0,0,0,,3,3,1.0,1.0,1,4,0.25,2,3,5,1,0,1,1,5,7,5.6,A,0,1,chris-brandon-1,Chris Brandon,2023
+30,138,30,2023-02-23,Northern Kentucky,@,Detroit Mercy,REG (Conf),W 67-64,*,35,3,4,0.75,0,0,,3,4,0.75,0.75,2,4,0.5,2,10,12,0,2,2,2,4,8,9.8,A,1,1,chris-brandon-1,Chris Brandon,2023
+31,139,31,2023-02-25,Northern Kentucky,@,Oakland,REG (Conf),W 78-69,*,32,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,8,3,11,1,0,2,2,5,7,10.3,A,1,1,chris-brandon-1,Chris Brandon,2023
+32,140,32,2023-03-02,Northern Kentucky,,Oakland,CTOURN,W 81-74,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,7,12,0.583,5,8,13,1,0,0,1,4,13,13.4,H,1,0,chris-brandon-1,Chris Brandon,2023
+33,141,33,2023-03-06,Northern Kentucky,N,Youngstown State,CTOURN,W 75-63,*,38,4,6,0.667,0,0,,4,6,0.667,0.667,0,2,0.0,10,7,17,2,0,0,0,2,8,14.3,N,1,0,chris-brandon-1,Chris Brandon,2023
+34,142,34,2023-03-07,Northern Kentucky,N,Cleveland State,CTOURN,W 63-61,*,31,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,4,5,9,0,2,2,4,2,6,7.3,N,1,0,chris-brandon-1,Chris Brandon,2023
+35,143,35,2023-03-16,Northern Kentucky,N,Houston,ROUND-64,L 52-63,*,39,3,5,0.6,0,1,0.0,3,4,0.75,0.6,0,0,,7,7,14,2,1,0,1,3,6,10.9,N,0,0,chris-brandon-1,Chris Brandon,2023

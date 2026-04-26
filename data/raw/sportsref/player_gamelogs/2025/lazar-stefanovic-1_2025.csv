@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2024-11-04,UCLA,,Rider,REG (Non-Conf),W 85-50,,17,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,1,1,0,0,0,1,1,6,3.6,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+2,98,2,2024-11-08,UCLA,N,New Mexico,REG (Non-Conf),L 64-72,,15,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,2,1,3,0,0,0,3,2,2,-2.5,N,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+3,99,3,2024-11-11,UCLA,,Boston University,REG (Non-Conf),W 71-40,*,18,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,2,1.0,0,0,0,1,1,0,1,2,13,9.6,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+4,100,4,2024-11-15,UCLA,,Lehigh,REG (Non-Conf),W 85-45,*,17,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,1,0,1,2,1,0,1,3,2,0.5,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+5,101,5,2024-11-20,UCLA,,Idaho State,REG (Non-Conf),W 84-70,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,2,0,0,0,1,0,1.3,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+6,102,6,2024-11-22,UCLA,,Cal State Fullerton,REG (Non-Conf),W 80-47,,7,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+7,103,7,2024-11-26,UCLA,,Southern Utah,REG (Non-Conf),W 88-43,,26,8,12,0.667,3,3,1.0,5,9,0.556,0.792,0,0,,2,3,5,0,1,0,0,1,19,16.7,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+8,104,8,2024-12-03,UCLA,,Washington,REG (Conf),W 69-58,,18,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,2,3,0,0,0,1,0,5,2.6,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+9,105,9,2024-12-08,UCLA,@,Oregon,REG (Conf),W 73-71,,18,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,2,2,0,1,0,1,1,8,5.5,A,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+10,106,10,2024-12-14,UCLA,N,Arizona,REG (Non-Conf),W 57-54,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,N,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+11,107,11,2024-12-17,UCLA,,Prairie View A&M,REG (Non-Conf),W 111-75,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,5,5,1.0,2,1,3,0,1,0,1,5,9,6.7,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+12,108,12,2024-12-21,UCLA,N,North Carolina,REG (Non-Conf),L 74-76,,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,3,3,1,1,0,0,4,6,5.7,N,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+13,109,13,2024-12-28,UCLA,N,Gonzaga,REG (Non-Conf),W 65-62,,22,4,8,0.5,2,4,0.5,2,4,0.5,0.625,0,0,,0,0,0,0,0,0,1,0,10,5.0,N,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+14,110,14,2025-01-04,UCLA,@,Nebraska,REG (Conf),L 58-66,,27,3,9,0.333,2,6,0.333,1,3,0.333,0.444,2,2,1.0,0,4,4,1,0,0,0,1,10,6.4,A,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+15,111,15,2025-01-07,UCLA,,Michigan,REG (Conf),L 75-94,,27,2,7,0.286,0,4,0.0,2,3,0.667,0.286,0,1,0.0,2,0,2,1,2,0,0,0,4,3.6,H,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+16,112,16,2025-01-10,UCLA,@,Maryland,REG (Conf),L 61-79,,9,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,2,1.0,1,2,3,0,0,0,2,1,5,1.5,A,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+17,113,17,2025-01-13,UCLA,@,Rutgers,REG (Conf),L 68-75,*,30,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,0,2,2,1,0,0,1,4,8,3.0,A,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+18,114,18,2025-01-17,UCLA,,Iowa,REG (Conf),W 94-70,,11,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,1,2,2,2,0,1,3,0,0.8,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+19,115,19,2025-01-21,UCLA,,Wisconsin,REG (Conf),W 85-83,,8,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,1,0,1,0,1,0,0,0,0,0.3,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+20,116,20,2025-01-24,UCLA,@,Washington,REG (Conf),W 65-60,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,1,2,0,1,0,2,2.7,A,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+21,117,21,2025-01-27,UCLA,@,Southern California,REG (Conf),W 82-76,,11,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,2,1.0,0,0,0,0,0,0,0,1,6,4.3,A,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+22,118,22,2025-01-30,UCLA,,Oregon,REG (Conf),W 78-52,,13,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,0,0,0,1,2,0,0,2,0,-0.2,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+23,119,23,2025-02-04,UCLA,,Michigan State,REG (Conf),W 63-61,,13,3,3,1.0,2,2,1.0,1,1,1.0,1.333,0,0,,0,0,0,1,0,0,0,1,8,7.4,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+24,120,24,2025-02-08,UCLA,,Penn State,REG (Conf),W 78-54,,25,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,0,1,3,1,0,0,1,0,0.6,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+25,121,25,2025-02-11,UCLA,@,Illinois,REG (Conf),L 78-83,,12,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,0,0,1.0,A,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+26,122,26,2025-02-14,UCLA,@,Indiana,REG (Conf),W 72-68,,26,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,2,4,6,2,0,0,0,0,5,6.3,A,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+27,123,27,2025-02-18,UCLA,,Minnesota,REG (Conf),L 61-64,,10,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,1,1,0,0,0,0,1,4,2.6,H,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+28,124,28,2025-02-23,UCLA,,Ohio State,REG (Conf),W 69-61,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,0,0,0,2,2.0,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+29,125,29,2025-02-28,UCLA,@,Purdue,REG (Conf),L 66-76,,18,2,10,0.2,1,7,0.143,1,3,0.333,0.25,2,2,1.0,3,2,5,1,0,0,0,1,7,3.8,A,0,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+30,126,30,2025-03-03,UCLA,@,Northwestern,REG (Conf),W 73-69,,15,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,2,1.0,0,1,1,0,0,0,1,2,7,4.2,A,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+31,127,31,2025-03-08,UCLA,,Southern California,REG (Conf),W 90-63,*,24,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,4,0,0,1,1,2,3.7,H,1,1,lazar-stefanovic-1,Lazar Stefanovic,2025
+32,128,32,2025-03-14,UCLA,N,Wisconsin,CTOURN,L 70-86,,8,0,0,,0,0,,0,0,,,0,0,,3,0,3,1,0,0,0,0,0,2.8,N,0,0,lazar-stefanovic-1,Lazar Stefanovic,2025
+33,129,33,2025-03-20,UCLA,N,Utah State,ROUND-64,W 72-47,,15,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,0,3,3,4,1,0,0,1,7,6.9,N,1,0,lazar-stefanovic-1,Lazar Stefanovic,2025
+34,130,34,2025-03-22,UCLA,N,Tennessee,ROUND-32,L 58-67,,15,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,1,2,3,1,1,0,0,2,2,1.1,N,0,0,lazar-stefanovic-1,Lazar Stefanovic,2025

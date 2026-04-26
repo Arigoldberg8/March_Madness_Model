@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2012-11-10,Wichita State,,North Carolina Central,REG (Non-Conf),W 71-57,*,28,4,10,0.4,0,0,,4,10,0.4,0.4,9,11,0.818,6,7,13,1,0,3,1,2,17,18.1,H,1,1,carl-hall-1,Carl Hall,2013
+2,35,2,2012-11-13,Wichita State,@,VCU,REG (Non-Conf),W 53-51,*,36,6,15,0.4,0,0,,6,15,0.4,0.4,0,1,0.0,7,4,11,0,0,3,0,4,12,10.1,A,1,1,carl-hall-1,Carl Hall,2013
+3,36,3,2012-11-15,Wichita State,,Western Carolina,REG (Non-Conf),W 79-63,*,30,5,9,0.556,0,0,,5,9,0.556,0.556,6,6,1.0,2,3,5,1,0,0,1,2,16,12.9,H,1,1,carl-hall-1,Carl Hall,2013
+4,37,4,2012-11-17,Wichita State,,Howard,REG (Non-Conf),W 69-50,*,23,3,6,0.5,0,0,,3,6,0.5,0.5,5,5,1.0,4,2,6,2,0,0,2,2,11,10.0,H,1,1,carl-hall-1,Carl Hall,2013
+5,38,5,2012-11-20,Wichita State,N,DePaul,REG (Non-Conf),W 75-62,*,36,5,7,0.714,0,0,,5,7,0.714,0.714,1,3,0.333,0,5,5,1,1,3,1,3,11,10.4,N,1,1,carl-hall-1,Carl Hall,2013
+6,39,6,2012-11-21,Wichita State,N,Iowa,REG (Non-Conf),W 75-63,*,21,3,6,0.5,0,0,,3,6,0.5,0.5,6,7,0.857,2,2,4,0,0,1,2,4,12,7.7,N,1,1,carl-hall-1,Carl Hall,2013
+7,40,7,2012-11-28,Wichita State,,Tulsa,REG (Non-Conf),W 86-60,*,23,6,12,0.5,0,0,,6,12,0.5,0.5,4,8,0.5,4,7,11,1,1,3,0,0,16,17.1,H,1,1,carl-hall-1,Carl Hall,2013
+8,41,8,2012-12-02,Wichita State,@,Air Force,REG (Non-Conf),W 72-69,*,32,9,10,0.9,0,0,,9,10,0.9,0.9,3,5,0.6,1,9,10,2,1,0,0,4,21,21.0,A,1,1,carl-hall-1,Carl Hall,2013
+9,42,9,2012-12-08,Wichita State,,Northern Colorado,REG (Non-Conf),W 80-54,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,0,2,2,0,0,3,0,0,2,2.3,H,1,1,carl-hall-1,Carl Hall,2013
+10,43,10,2012-12-13,Wichita State,@,Tennessee,REG (Non-Conf),L 60-69,*,34,9,10,0.9,0,0,,9,10,0.9,0.9,3,6,0.5,7,2,9,0,1,3,3,3,21,20.8,A,0,1,carl-hall-1,Carl Hall,2013
+11,44,18,2013-01-16,Wichita State,,Illinois State,REG (Conf),W 74-62,,23,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,4,6,10,0,0,1,3,3,2,1.7,H,1,1,carl-hall-1,Carl Hall,2013
+12,45,19,2013-01-19,Wichita State,,Creighton,REG (Conf),W 67-64,,25,8,15,0.533,0,0,,8,15,0.533,0.533,1,6,0.167,6,7,13,0,0,1,0,3,17,13.5,H,1,1,carl-hall-1,Carl Hall,2013
+13,46,20,2013-01-23,Wichita State,@,Missouri State,REG (Conf),W 62-52,,33,4,10,0.4,0,0,,4,10,0.4,0.4,7,10,0.7,3,3,6,0,1,2,0,2,15,13.0,A,1,1,carl-hall-1,Carl Hall,2013
+14,47,21,2013-01-26,Wichita State,,Bradley,REG (Conf),W 73-39,,20,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,3,3,6,0,0,0,1,1,7,5.2,H,1,1,carl-hall-1,Carl Hall,2013
+15,48,22,2013-01-29,Wichita State,,Indiana State,REG (Conf),L 55-68,,21,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,5,1,6,1,0,0,1,4,2,2.5,H,0,1,carl-hall-1,Carl Hall,2013
+16,49,23,2013-02-02,Wichita State,@,Northern Iowa,REG (Conf),L 52-57,,34,8,13,0.615,0,0,,8,13,0.615,0.615,4,4,1.0,2,3,5,0,2,1,3,1,20,15.7,A,0,1,carl-hall-1,Carl Hall,2013
+17,50,24,2013-02-05,Wichita State,@,Southern Illinois,REG (Conf),L 62-64,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,3,0.667,2,3,5,0,0,3,2,4,8,5.4,A,0,1,carl-hall-1,Carl Hall,2013
+18,51,25,2013-02-09,Wichita State,,Missouri State,REG (Conf),W 79-50,*,21,4,9,0.444,0,0,,4,9,0.444,0.444,1,4,0.25,3,2,5,1,0,0,1,2,9,4.7,H,1,1,carl-hall-1,Carl Hall,2013
+19,52,26,2013-02-13,Wichita State,,Drake,REG (Conf),W 71-56,*,29,4,9,0.444,0,0,,4,9,0.444,0.444,6,8,0.75,4,6,10,1,0,1,2,4,14,10.9,H,1,1,carl-hall-1,Carl Hall,2013
+20,53,27,2013-02-17,Wichita State,@,Illinois State,REG (Conf),W 68-67,*,37,4,6,0.667,0,0,,4,6,0.667,0.667,5,6,0.833,2,2,4,0,1,3,2,2,13,12.3,A,1,1,carl-hall-1,Carl Hall,2013
+21,54,28,2013-02-19,Wichita State,@,Indiana State,REG (Conf),W 66-62,*,34,4,6,0.667,0,0,,4,6,0.667,0.667,2,3,0.667,1,4,5,0,0,1,0,1,10,9.2,A,1,1,carl-hall-1,Carl Hall,2013
+22,55,29,2013-02-23,Wichita State,,Detroit Mercy,REG (Non-Conf),W 94-79,*,35,7,10,0.7,0,0,,7,10,0.7,0.7,4,7,0.571,2,5,7,2,2,2,2,1,18,17.9,H,1,1,carl-hall-1,Carl Hall,2013
+23,56,30,2013-02-27,Wichita State,,Evansville,REG (Conf),L 56-59,*,31,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,4,0.75,0,4,4,1,0,1,2,2,9,6.1,H,0,1,carl-hall-1,Carl Hall,2013
+24,57,31,2013-03-02,Wichita State,@,Creighton,REG (Conf),L 79-91,*,31,5,8,0.625,0,0,,5,8,0.625,0.625,5,6,0.833,4,2,6,3,1,1,1,2,15,16.4,A,0,1,carl-hall-1,Carl Hall,2013
+25,58,32,2013-03-08,Wichita State,N,Missouri State,CTOURN,W 69-59,*,31,6,11,0.545,0,0,,6,11,0.545,0.545,6,11,0.545,9,3,12,0,0,1,1,2,18,16.8,N,1,0,carl-hall-1,Carl Hall,2013
+26,59,33,2013-03-09,Wichita State,N,Illinois State,CTOURN,W 66-51,*,34,7,10,0.7,0,0,,7,10,0.7,0.7,2,3,0.667,2,6,8,1,1,2,1,1,16,16.3,N,1,0,carl-hall-1,Carl Hall,2013
+27,60,34,2013-03-10,Wichita State,N,Creighton,CTOURN,L 65-68,*,32,4,14,0.286,0,0,,4,14,0.286,0.286,5,8,0.625,5,1,6,1,0,4,0,2,13,10.1,N,0,0,carl-hall-1,Carl Hall,2013
+28,61,35,2013-03-21,Wichita State,N,Pittsburgh,ROUND-64,W 73-55,*,24,3,6,0.5,0,0,,3,6,0.5,0.5,5,6,0.833,2,4,6,0,0,0,2,3,11,7.0,N,1,0,carl-hall-1,Carl Hall,2013
+29,62,36,2013-03-23,Wichita State,N,Gonzaga,ROUND-32,W 76-70,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,4,8,0.5,1,0,1,2,1,3,3,3,10,6.4,N,1,0,carl-hall-1,Carl Hall,2013
+30,63,37,2013-03-28,Wichita State,N,La Salle,ROUND-16,W 72-58,*,27,7,11,0.636,0,0,,7,11,0.636,0.636,2,3,0.667,3,5,8,1,0,3,3,3,16,12.9,N,1,0,carl-hall-1,Carl Hall,2013
+31,64,38,2013-03-30,Wichita State,N,Ohio State,ROUND-8,W 70-66,*,27,3,8,0.375,0,0,,3,8,0.375,0.375,2,2,1.0,2,2,4,0,1,6,1,3,8,8.6,N,1,0,carl-hall-1,Carl Hall,2013
+32,65,39,2013-04-06,Wichita State,N,Louisville,NATIONAL-SEMI,L 68-72,*,30,4,5,0.8,0,0,,4,5,0.8,0.8,5,7,0.714,3,2,5,0,2,0,2,2,13,12.2,N,0,0,carl-hall-1,Carl Hall,2013

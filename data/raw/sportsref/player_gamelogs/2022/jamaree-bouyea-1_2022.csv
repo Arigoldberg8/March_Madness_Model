@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,127,1,2021-11-09,San Francisco,,LIU,REG (Non-Conf),W 98-64,*,25,6,8,0.75,1,3,0.333,5,5,1.0,0.813,1,2,0.5,1,4,5,2,2,1,2,0,14,14.4,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+2,128,2,2021-11-11,San Francisco,,Prairie View A&M,REG (Non-Conf),W 92-76,*,37,9,13,0.692,1,5,0.2,8,8,1.0,0.731,5,6,0.833,0,4,4,4,1,4,4,3,24,20.7,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+3,129,3,2021-11-13,San Francisco,,Davidson,REG (Non-Conf),W 65-60,*,38,6,14,0.429,2,7,0.286,4,7,0.571,0.5,0,0,,1,4,5,1,4,0,5,3,14,7.0,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+4,130,4,2021-11-15,San Francisco,,Samford,REG (Non-Conf),W 77-55,*,35,6,12,0.5,3,5,0.6,3,7,0.429,0.625,4,5,0.8,0,5,5,6,1,2,4,0,19,16.7,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+5,131,5,2021-11-18,San Francisco,,Nevada,REG (Non-Conf),W 73-70,*,39,8,21,0.381,5,14,0.357,3,7,0.429,0.5,1,2,0.5,0,7,7,4,1,0,2,0,22,14.0,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+6,132,6,2021-11-22,San Francisco,,Morgan State,REG (Non-Conf),W 83-67,*,32,8,11,0.727,3,5,0.6,5,6,0.833,0.864,3,3,1.0,0,3,3,7,2,0,2,1,22,22.9,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+7,133,7,2021-11-25,San Francisco,N,Towson,REG (Non-Conf),W 71-61,*,39,8,16,0.5,4,8,0.5,4,8,0.5,0.625,0,0,,1,8,9,5,1,1,2,2,20,17.5,N,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+8,134,8,2021-11-26,San Francisco,N,UAB,REG (Non-Conf),W 63-61,*,37,1,5,0.2,1,3,0.333,0,2,0.0,0.3,5,6,0.833,0,4,4,2,0,1,3,2,8,4.0,N,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+9,135,9,2021-12-04,San Francisco,,UNLV,REG (Non-Conf),W 83-62,*,35,11,17,0.647,8,10,0.8,3,7,0.429,0.882,0,0,,1,4,5,2,1,2,1,2,30,26.4,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+10,136,10,2021-12-08,San Francisco,,Fresno State,REG (Non-Conf),W 71-63,*,37,11,18,0.611,4,8,0.5,7,10,0.7,0.722,1,1,1.0,1,5,6,3,3,1,0,3,27,25.6,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+11,137,11,2021-12-18,San Francisco,N,Grand Canyon,REG (Non-Conf),L 48-49,*,37,3,14,0.214,0,3,0.0,3,11,0.273,0.214,1,2,0.5,1,1,2,3,0,0,2,2,7,-1.7,N,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+12,138,12,2021-12-19,San Francisco,@,Arizona State,REG (Non-Conf),W 66-65,*,40,2,11,0.182,0,6,0.0,2,5,0.4,0.182,0,1,0.0,0,2,2,6,4,2,6,1,4,0.5,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+13,139,13,2021-12-22,San Francisco,,Southern Illinois,REG (Non-Conf),W 64-52,*,35,8,12,0.667,2,4,0.5,6,8,0.75,0.75,2,2,1.0,1,6,7,5,2,2,4,0,20,20.2,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+14,140,14,2021-12-28,San Francisco,,Academy of Art,REG (Non-Conf),W 111-78,*,20,5,7,0.714,4,5,0.8,1,2,0.5,1.0,4,4,1.0,0,6,6,4,0,0,2,1,18,17.3,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+15,141,15,2022-01-06,San Francisco,N,Loyola Chicago,REG (Non-Conf),L 74-79,*,38,6,11,0.545,1,4,0.25,5,7,0.714,0.591,0,0,,0,5,5,4,1,0,4,3,13,7.8,N,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+16,142,16,2022-01-08,San Francisco,,San Diego,REG (Conf),W 88-73,*,36,8,15,0.533,0,3,0.0,8,12,0.667,0.533,3,7,0.429,0,4,4,3,2,0,2,0,19,13.4,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+17,143,17,2022-01-13,San Francisco,,Loyola Marymount,REG (Conf),W 97-73,*,31,8,11,0.727,1,3,0.333,7,8,0.875,0.773,5,5,1.0,1,1,2,5,3,0,3,1,22,21.6,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+18,144,18,2022-01-15,San Francisco,,Brigham Young,REG (Conf),L 69-71,*,40,7,20,0.35,3,10,0.3,4,10,0.4,0.425,2,2,1.0,1,6,7,2,1,1,0,0,19,13.4,H,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+19,145,19,2022-01-20,San Francisco,@,Gonzaga,REG (Conf),L 62-78,*,40,9,20,0.45,3,6,0.5,6,14,0.429,0.525,4,4,1.0,2,6,8,2,0,1,2,2,25,17.1,A,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+20,146,20,2022-01-22,San Francisco,@,Pepperdine,REG (Conf),W 71-45,*,32,4,9,0.444,1,4,0.25,3,5,0.6,0.5,2,4,0.5,1,5,6,3,1,0,1,1,11,9.4,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+21,147,21,2022-01-27,San Francisco,,St. Mary's (CA),REG (Conf),L 70-72,*,40,7,13,0.538,3,5,0.6,4,8,0.5,0.654,2,3,0.667,0,5,5,4,2,1,2,0,19,17.3,H,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+22,148,22,2022-01-29,San Francisco,,Santa Clara,REG (Conf),W 88-85,*,40,10,18,0.556,2,4,0.5,8,14,0.571,0.611,3,4,0.75,0,5,5,2,2,0,1,1,25,19.5,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+23,149,23,2022-02-03,San Francisco,@,Brigham Young,REG (Conf),W 73-59,*,36,5,16,0.313,3,9,0.333,2,7,0.286,0.406,0,0,,0,6,6,4,2,0,2,3,13,7.2,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+24,150,24,2022-02-05,San Francisco,@,Portland,REG (Conf),W 74-71,*,37,9,17,0.529,2,5,0.4,7,12,0.583,0.588,1,1,1.0,0,4,4,7,1,0,2,2,21,17.0,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+25,151,25,2022-02-08,San Francisco,,Portland,REG (Conf),L 68-69,*,38,6,16,0.375,3,8,0.375,3,8,0.375,0.469,2,3,0.667,0,5,5,4,1,1,3,2,17,10.0,H,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+26,152,26,2022-02-10,San Francisco,,Pepperdine,REG (Conf),W 105-61,*,27,6,9,0.667,1,3,0.333,5,6,0.833,0.722,5,5,1.0,1,5,6,5,4,0,3,1,18,20.4,H,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+27,153,27,2022-02-12,San Francisco,@,Santa Clara,REG (Conf),W 74-58,*,40,5,12,0.417,1,4,0.25,4,8,0.5,0.458,1,2,0.5,0,5,5,3,3,2,3,3,12,9.0,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+28,154,28,2022-02-17,San Francisco,@,St. Mary's (CA),REG (Conf),L 64-69,*,34,1,9,0.111,0,6,0.0,1,3,0.333,0.111,0,0,,0,6,6,2,1,2,2,1,2,-0.7,A,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+29,155,29,2022-02-21,San Francisco,@,Pacific,REG (Conf),W 104-71,*,32,5,8,0.625,2,2,1.0,3,6,0.5,0.75,3,5,0.6,0,2,2,11,4,0,3,0,15,19.9,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+30,156,30,2022-02-24,San Francisco,,Gonzaga,REG (Conf),L 73-89,*,40,6,15,0.4,2,3,0.667,4,12,0.333,0.467,0,0,,0,3,3,5,1,0,0,0,14,11.3,H,0,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+31,157,31,2022-02-26,San Francisco,@,San Diego,REG (Conf),W 78-62,*,40,4,15,0.267,1,6,0.167,3,9,0.333,0.3,5,6,0.833,1,6,7,6,3,2,1,1,14,14.4,A,1,1,jamaree-bouyea-1,Jamaree Bouyea,2022
+32,158,32,2022-03-05,San Francisco,N,Brigham Young,CTOURN,W 75-63,*,40,7,16,0.438,1,6,0.167,6,10,0.6,0.469,3,3,1.0,0,6,6,4,3,1,2,3,18,14.7,N,1,0,jamaree-bouyea-1,Jamaree Bouyea,2022
+33,159,33,2022-03-07,San Francisco,N,Gonzaga,CTOURN,L 71-81,*,38,1,11,0.091,0,7,0.0,1,4,0.25,0.091,3,6,0.5,2,3,5,2,4,1,2,3,5,1.7,N,0,0,jamaree-bouyea-1,Jamaree Bouyea,2022
+34,160,34,2022-03-17,San Francisco,N,Murray State,ROUND-64,L 87-92 (OT),*,45,13,26,0.5,4,12,0.333,9,14,0.643,0.577,6,8,0.75,1,2,3,3,1,1,1,3,36,25.1,N,0,0,jamaree-bouyea-1,Jamaree Bouyea,2022

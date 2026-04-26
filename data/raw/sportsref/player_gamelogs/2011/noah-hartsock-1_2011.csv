@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,1,2010-11-12,Brigham Young,,Fresno State,REG (Non-Conf),W 83-56,,25,9,15,0.6,1,1,1.0,8,14,0.571,0.633,2,3,0.667,1,4,5,0,0,1,2,1,21,13.9,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+2,65,2,2010-11-17,Brigham Young,,Utah State,REG (Non-Conf),W 78-72,*,35,5,12,0.417,0,0,,5,12,0.417,0.417,5,5,1.0,4,1,5,1,1,4,2,3,15,13.0,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+3,66,3,2010-11-20,Brigham Young,,Chicago State,REG (Non-Conf),W 109-60,*,13,2,6,0.333,0,0,,2,6,0.333,0.333,1,2,0.5,0,3,3,3,1,0,0,0,5,5.2,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+4,67,4,2010-11-23,Brigham Young,,Mississippi Valley State,REG (Non-Conf),W 86-36,*,25,4,6,0.667,0,0,,4,6,0.667,0.667,4,5,0.8,3,3,6,0,0,1,2,0,12,10.7,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+5,68,5,2010-11-26,Brigham Young,N,South Florida,REG (Non-Conf),W 77-75 (2OT),*,44,3,10,0.3,0,1,0.0,3,9,0.333,0.3,0,0,,6,1,7,4,2,2,1,4,6,8.3,N,1,1,noah-hartsock-1,Noah Hartsock,2011
+6,69,6,2010-11-27,Brigham Young,N,St. Mary's (CA),REG (Non-Conf),W 74-73,*,36,3,5,0.6,0,0,,3,5,0.6,0.6,1,1,1.0,0,5,5,2,2,1,1,1,7,8.9,N,1,1,noah-hartsock-1,Noah Hartsock,2011
+7,70,7,2010-12-01,Brigham Young,@,Creighton,REG (Non-Conf),W 77-65,*,30,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,1,3,4,2,2,5,0,3,7,9.9,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+8,71,8,2010-12-04,Brigham Young,N,Hawaii,REG (Non-Conf),W 78-57,*,17,3,4,0.75,0,0,,3,4,0.75,0.75,2,2,1.0,2,5,7,1,0,2,0,4,8,9.8,N,1,1,noah-hartsock-1,Noah Hartsock,2011
+9,72,9,2010-12-08,Brigham Young,N,Vermont,REG (Non-Conf),W 86-58,*,36,6,8,0.75,0,0,,6,8,0.75,0.75,2,2,1.0,2,11,13,1,1,1,2,2,14,15.1,N,1,1,noah-hartsock-1,Noah Hartsock,2011
+10,73,10,2010-12-11,Brigham Young,N,Arizona,REG (Non-Conf),W 87-65,*,7,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,0,0,2,0,1,3,3.3,N,1,1,noah-hartsock-1,Noah Hartsock,2011
+11,74,11,2010-12-18,Brigham Young,N,UCLA,REG (Non-Conf),L 79-86,*,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,1,2,0,0,1,1,2,2,1.6,N,0,1,noah-hartsock-1,Noah Hartsock,2011
+12,75,12,2010-12-21,Brigham Young,@,Weber State,REG (Non-Conf),W 72-66,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,3,3,6,0,0,3,1,1,6,6.7,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+13,76,13,2010-12-23,Brigham Young,,UTEP,REG (Non-Conf),W 89-68,*,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,2,3,5,1,0,0,1,4,10,6.7,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+14,77,14,2010-12-30,Brigham Young,@,Buffalo,REG (Non-Conf),W 90-82,*,33,8,13,0.615,3,3,1.0,5,10,0.5,0.731,0,0,,3,3,6,0,2,3,0,1,19,19.8,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+15,78,15,2011-01-01,Brigham Young,,Fresno Pacific,REG (Non-Conf),W 93-57,*,21,6,8,0.75,1,1,1.0,5,7,0.714,0.813,1,1,1.0,0,5,5,2,0,1,2,0,14,12.4,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+16,79,16,2011-01-05,Brigham Young,@,UNLV,REG (Conf),W 89-77,*,37,2,7,0.286,1,3,0.333,1,4,0.25,0.357,1,1,1.0,1,6,7,0,0,1,2,2,6,2.3,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+17,80,17,2011-01-08,Brigham Young,,Air Force,REG (Conf),W 76-66,*,36,5,8,0.625,2,2,1.0,3,6,0.5,0.75,0,0,,4,7,11,2,0,0,0,4,12,13.1,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+18,81,18,2011-01-11,Brigham Young,@,Utah,REG (Conf),W 104-79,*,35,4,8,0.5,2,4,0.5,2,4,0.5,0.625,2,2,1.0,1,5,6,3,1,0,0,3,12,12.1,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+19,82,19,2011-01-18,Brigham Young,,TCU,REG (Conf),W 83-67,*,36,4,9,0.444,1,3,0.333,3,6,0.5,0.5,5,5,1.0,3,6,9,1,0,1,1,2,14,12.8,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+20,83,20,2011-01-22,Brigham Young,@,Colorado State,REG (Conf),W 94-85,*,19,1,5,0.2,1,2,0.5,0,3,0.0,0.3,0,0,,1,2,3,1,0,2,1,4,3,0.7,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+21,84,21,2011-01-26,Brigham Young,,San Diego State,REG (Conf),W 71-58,*,36,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,2,5,7,3,0,0,0,2,6,6.5,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+22,85,22,2011-01-29,Brigham Young,@,New Mexico,REG (Conf),L 77-86,*,36,2,7,0.286,0,2,0.0,2,5,0.4,0.286,6,8,0.75,2,6,8,1,1,0,1,1,10,8.6,A,0,1,noah-hartsock-1,Noah Hartsock,2011
+23,86,23,2011-02-02,Brigham Young,@,Wyoming,REG (Conf),W 69-62,*,28,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,4,4,8,3,0,3,0,4,2,6.2,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+24,87,24,2011-02-05,Brigham Young,,UNLV,REG (Conf),W 78-64,*,37,1,6,0.167,0,1,0.0,1,5,0.2,0.167,0,0,,1,6,7,0,1,3,1,2,2,2.0,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+25,88,25,2011-02-09,Brigham Young,@,Air Force,REG (Conf),W 90-52,*,25,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,0,,2,5,7,3,0,3,2,3,7,8.6,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+26,89,26,2011-02-12,Brigham Young,,Utah,REG (Conf),W 72-59,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,3,3,1,0,1,2,3,4,1.4,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+27,90,27,2011-02-19,Brigham Young,@,TCU,REG (Conf),W 79-56,*,32,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,4,0.75,0,8,8,3,0,1,0,2,10,11.7,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+28,91,28,2011-02-23,Brigham Young,,Colorado State,REG (Conf),W 84-76,*,31,4,4,1.0,0,0,,4,4,1.0,1.0,2,2,1.0,4,2,6,2,1,0,2,3,10,11.4,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+29,92,29,2011-02-26,Brigham Young,@,San Diego State,REG (Conf),W 80-67,*,39,6,7,0.857,3,4,0.75,3,3,1.0,1.071,0,0,,1,4,5,3,0,4,1,2,15,17.5,A,1,1,noah-hartsock-1,Noah Hartsock,2011
+30,93,30,2011-03-02,Brigham Young,,New Mexico,REG (Conf),L 64-82,*,30,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,2,4,6,1,0,3,1,2,0,0.8,H,0,1,noah-hartsock-1,Noah Hartsock,2011
+31,94,31,2011-03-05,Brigham Young,,Wyoming,REG (Conf),W 102-78,*,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,1,2,0.5,2,2,4,3,0,1,1,4,5,4.1,H,1,1,noah-hartsock-1,Noah Hartsock,2011
+32,95,32,2011-03-10,Brigham Young,N,TCU,CTOURN,W 64-58,*,37,3,4,0.75,0,1,0.0,3,3,1.0,0.75,4,5,0.8,5,2,7,4,0,3,2,2,10,14.2,N,1,0,noah-hartsock-1,Noah Hartsock,2011
+33,96,33,2011-03-11,Brigham Young,N,New Mexico,CTOURN,W 87-76,*,34,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,2,4,6,2,0,3,1,2,7,6.5,N,1,0,noah-hartsock-1,Noah Hartsock,2011
+34,97,34,2011-03-12,Brigham Young,N,San Diego State,CTOURN,L 54-72,*,34,2,10,0.2,0,5,0.0,2,5,0.4,0.2,0,0,,2,4,6,2,0,2,1,2,4,1.4,N,0,0,noah-hartsock-1,Noah Hartsock,2011
+35,98,35,2011-03-17,Brigham Young,N,Wofford,ROUND-64,W 74-66,*,31,4,6,0.667,2,3,0.667,2,3,0.667,0.833,0,0,,1,4,5,0,2,1,0,4,10,10.4,N,1,0,noah-hartsock-1,Noah Hartsock,2011
+36,99,36,2011-03-19,Brigham Young,N,Gonzaga,ROUND-32,W 89-67,*,20,5,5,1.0,3,3,1.0,2,2,1.0,1.3,0,0,,1,2,3,2,1,1,0,3,13,14.7,N,1,0,noah-hartsock-1,Noah Hartsock,2011
+37,100,37,2011-03-24,Brigham Young,N,Florida,ROUND-16,L 74-83 (OT),*,42,3,9,0.333,1,4,0.25,2,5,0.4,0.389,2,2,1.0,3,5,8,2,3,1,1,1,9,11.2,N,0,0,noah-hartsock-1,Noah Hartsock,2011

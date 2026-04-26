@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2011-11-12,South Florida,,Vermont,REG (Non-Conf),W 61-59,,26,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,4,4,8,1,1,0,2,1,0,1.2,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+2,35,2,2011-11-14,South Florida,,Marist,REG (Non-Conf),W 81-67,,30,4,7,0.571,0,3,0.0,4,4,1.0,0.571,1,1,1.0,2,5,7,2,0,1,0,0,9,10.7,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+3,36,3,2011-11-16,South Florida,,Fla. Southern,REG (Non-Conf),W 73-43,*,23,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,5,5,2,1,2,1,1,8,9.3,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+4,37,4,2011-11-19,South Florida,N,Old Dominion,REG (Non-Conf),L 66-68 (OT),*,34,3,3,1.0,0,0,,3,3,1.0,1.0,2,4,0.5,2,3,5,2,2,0,0,3,8,10.8,N,0,1,hugh-robertson-1,Hugh Robertson,2012
+5,38,5,2011-11-20,South Florida,N,Penn State,REG (Non-Conf),L 49-53,*,26,1,4,0.25,0,0,,1,4,0.25,0.25,2,3,0.667,0,4,4,2,1,0,4,4,4,-0.8,N,0,1,hugh-robertson-1,Hugh Robertson,2012
+6,39,6,2011-11-23,South Florida,,Georgia Southern,REG (Non-Conf),W 66-46,,22,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,3,3,0,2,0,0,1,6,6.9,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+7,40,7,2011-11-26,South Florida,,Florida Atlantic,REG (Non-Conf),W 68-55,,19,2,7,0.286,1,1,1.0,1,6,0.167,0.357,0,0,,1,1,2,1,1,0,2,2,5,0.8,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+8,41,8,2011-11-30,South Florida,@,VCU,REG (Non-Conf),L 46-69,,27,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,2,3,1,1,2,1,0,6,5.7,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+9,42,9,2011-12-03,South Florida,@,Kansas,REG (Non-Conf),L 42-70,,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,2,3,2,0,0,2,0,2,1.0,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+10,43,10,2011-12-11,South Florida,,Florida A&M,REG (Non-Conf),W 83-59,*,33,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,9,12,21,1,0,1,0,0,9,17.3,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+11,44,11,2011-12-14,South Florida,@,Auburn,REG (Non-Conf),L 40-52,*,29,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,0,7,7,3,1,0,0,1,4,7.1,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+12,45,12,2011-12-19,South Florida,,Cleveland State,REG (Non-Conf),W 70-55,*,20,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,0,2,2,1,1,0,1,2,6,3.8,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+13,46,13,2011-12-22,South Florida,@,Southern Mississippi,REG (Non-Conf),L 51-53,*,30,5,6,0.833,0,1,0.0,5,5,1.0,0.833,0,0,,2,3,5,0,2,0,1,0,10,11.1,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+14,47,14,2011-12-28,South Florida,,Connecticut,REG (Conf),L 57-60,*,30,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,1,1,1,2,-0.4,H,0,1,hugh-robertson-1,Hugh Robertson,2012
+15,48,15,2012-01-01,South Florida,,Rutgers,REG (Conf),W 67-65,*,28,6,9,0.667,0,0,,6,9,0.667,0.667,0,0,,1,1,2,2,0,0,0,0,12,10.5,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+16,49,16,2012-01-05,South Florida,@,Villanova,REG (Conf),W 74-57,*,22,2,7,0.286,0,0,,2,7,0.286,0.286,0,0,,0,4,4,0,0,0,1,0,4,0.1,A,1,1,hugh-robertson-1,Hugh Robertson,2012
+17,50,17,2012-01-10,South Florida,@,Notre Dame,REG (Conf),L 49-60,*,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,0,0,0,0,1,0,1,0,4,3.4,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+18,51,18,2012-01-13,South Florida,,Seton Hall,REG (Conf),W 56-55,*,26,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,0,,0,2,2,4,2,0,0,2,7,10.0,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+19,52,19,2012-01-18,South Florida,,St. John's (NY),REG (Conf),W 64-49,*,32,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,2,2,4,4,0,0,2,1,4,4.4,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+20,53,20,2012-01-22,South Florida,@,DePaul,REG (Conf),W 75-59,*,29,2,4,0.5,1,2,0.5,1,2,0.5,0.625,4,6,0.667,3,6,9,2,0,0,2,2,9,8.7,A,1,1,hugh-robertson-1,Hugh Robertson,2012
+21,54,21,2012-01-24,South Florida,@,Marquette,REG (Conf),L 47-67,*,30,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,1,3,4,1,1,0,1,2,5,3.8,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+22,55,22,2012-01-29,South Florida,,Providence,REG (Conf),W 81-78,*,37,6,12,0.5,1,2,0.5,5,10,0.5,0.542,2,2,1.0,1,1,2,3,3,1,1,1,15,14.4,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+23,56,23,2012-02-04,South Florida,@,Georgetown,REG (Conf),L 45-75,*,25,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,1,4,5,0,0,1,3,2,2,-1.6,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+24,57,24,2012-02-08,South Florida,,Pittsburgh,REG (Conf),W 63-51,*,35,7,7,1.0,0,0,,7,7,1.0,1.0,4,4,1.0,2,1,3,0,0,0,0,4,18,16.0,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+25,58,25,2012-02-11,South Florida,@,Providence,REG (Conf),W 55-48,*,32,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,2,2,4,3,0,0,1,1,6,5.7,A,1,1,hugh-robertson-1,Hugh Robertson,2012
+26,59,26,2012-02-15,South Florida,,Villanova,REG (Conf),W 65-51,*,32,6,9,0.667,0,2,0.0,6,7,0.857,0.667,2,2,1.0,0,2,2,2,0,0,1,1,14,10.7,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+27,60,27,2012-02-19,South Florida,@,Pittsburgh,REG (Conf),W 56-47,*,37,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,1,1.0,2,3,5,1,0,1,2,0,3,1.6,A,1,1,hugh-robertson-1,Hugh Robertson,2012
+28,61,28,2012-02-22,South Florida,@,Syracuse,REG (Conf),L 48-56,*,33,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,1,5,6,0,0,1,2,2,6,2.4,A,0,1,hugh-robertson-1,Hugh Robertson,2012
+29,62,29,2012-02-26,South Florida,,Cincinnati,REG (Conf),W 46-45,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,2,2,1,0,0,1,2,6,1.8,H,1,1,hugh-robertson-1,Hugh Robertson,2012
+30,63,30,2012-02-29,South Florida,@,Louisville,REG (Conf),W 58-51,*,35,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,2,0.0,4,3,7,1,0,0,2,1,7,4.5,A,1,1,hugh-robertson-1,Hugh Robertson,2012
+31,64,31,2012-03-03,South Florida,,West Virginia,REG (Conf),L 44-50,*,29,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,1,1,2,0,1,0,0,2,6,4.2,H,0,1,hugh-robertson-1,Hugh Robertson,2012
+32,65,32,2012-03-07,South Florida,N,Villanova,CTOURN,W 56-47,*,36,4,6,0.667,0,1,0.0,4,5,0.8,0.667,0,0,,0,4,4,0,0,1,3,0,8,4.3,N,1,0,hugh-robertson-1,Hugh Robertson,2012
+33,66,33,2012-03-08,South Florida,N,Notre Dame,CTOURN,L 53-57 (OT),*,30,3,7,0.429,0,1,0.0,3,6,0.5,0.429,2,2,1.0,0,1,1,2,0,0,2,0,8,4.0,N,0,0,hugh-robertson-1,Hugh Robertson,2012
+34,67,34,2012-03-14,South Florida,N,California,FIRST-FOUR,W 65-54,*,29,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,2,0.0,1,3,4,3,1,1,1,1,4,5.9,N,1,0,hugh-robertson-1,Hugh Robertson,2012
+35,68,35,2012-03-16,South Florida,N,Temple,ROUND-64,W 58-44,*,25,2,6,0.333,0,0,,2,6,0.333,0.333,2,2,1.0,2,3,5,0,3,1,4,2,6,3.8,N,1,0,hugh-robertson-1,Hugh Robertson,2012
+36,69,36,2012-03-18,South Florida,N,Ohio,ROUND-32,L 56-62,*,24,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,3,3,1,0,0,0,2,0,-0.6,N,0,0,hugh-robertson-1,Hugh Robertson,2012

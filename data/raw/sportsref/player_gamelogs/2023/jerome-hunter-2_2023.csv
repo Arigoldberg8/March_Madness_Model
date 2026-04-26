@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2022-11-07,Xavier,,Morgan State,REG (Non-Conf),W 96-73,,17,5,7,0.714,0,0,,5,7,0.714,0.714,1,1,1.0,5,4,9,2,1,2,0,4,11,15.0,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+2,92,2,2022-11-11,Xavier,,Montana,REG (Non-Conf),W 86-64,,9,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,2,4,0,-2.6,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+3,93,3,2022-11-15,Xavier,,Fairfield,REG (Non-Conf),W 78-65,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,2,3,0,-2.2,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+4,94,4,2022-11-18,Xavier,,Indiana,REG (Non-Conf),L 79-81,,4,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,jerome-hunter-2,Jerome Hunter,2023
+5,95,5,2022-11-24,Xavier,N,Florida,REG (Non-Conf),W 90-83,,5,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,0,2,0,0,0,0,2,0,-0.8,N,1,1,jerome-hunter-2,Jerome Hunter,2023
+6,96,6,2022-11-25,Xavier,N,Duke,REG (Non-Conf),L 64-71,,7,1,1,1.0,0,0,,1,1,1.0,1.0,0,1,0.0,2,0,2,0,0,0,0,1,2,2.3,N,0,1,jerome-hunter-2,Jerome Hunter,2023
+7,97,7,2022-11-27,Xavier,N,Gonzaga,REG (Non-Conf),L 84-88,,11,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,2,0,0,0,4,2,2.1,N,0,1,jerome-hunter-2,Jerome Hunter,2023
+8,98,8,2022-11-30,Xavier,,Southeastern Louisiana,REG (Non-Conf),W 95-63,,17,4,5,0.8,0,0,,4,5,0.8,0.8,1,1,1.0,2,1,3,0,0,0,0,3,9,7.6,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+9,99,9,2022-12-03,Xavier,,West Virginia,REG (Non-Conf),W 84-74,,16,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,2,3,5,1,0,0,1,4,6,5.1,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+10,100,10,2022-12-10,Xavier,@,Cincinnati,REG (Non-Conf),W 80-77,,12,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,2,0,0,0,1,2,2.9,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+11,101,11,2022-12-13,Xavier,,Southern,REG (Non-Conf),W 79-59,,16,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,2,3,0,0,1,2,1,4,2.3,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+12,102,12,2022-12-16,Xavier,@,Georgetown,REG (Conf),W 102-89,,9,2,4,0.5,0,0,,2,4,0.5,0.5,0,2,0.0,0,0,0,0,0,0,0,4,4,-0.4,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+13,103,13,2022-12-20,Xavier,,Seton Hall,REG (Conf),W 73-70,,17,4,5,0.8,0,0,,4,5,0.8,0.8,3,4,0.75,2,3,5,2,0,2,1,2,11,12.0,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+14,104,14,2022-12-28,Xavier,@,St. John's (NY),REG (Conf),W 84-79,,15,3,7,0.429,0,0,,3,7,0.429,0.429,2,4,0.5,7,3,10,1,1,2,2,3,8,9.2,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+15,105,15,2022-12-31,Xavier,,Connecticut,REG (Conf),W 83-73,,20,3,4,0.75,0,0,,3,4,0.75,0.75,9,9,1.0,3,2,5,0,0,0,0,2,15,15.3,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+16,106,16,2023-01-07,Xavier,@,Villanova,REG (Conf),W 88-80,,18,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,2,3,1,0,0,1,1,2,0.2,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+17,107,17,2023-01-11,Xavier,,Creighton,REG (Conf),W 90-87,,21,5,8,0.625,1,2,0.5,4,6,0.667,0.688,1,1,1.0,1,2,3,0,1,0,0,1,12,10.3,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+18,108,18,2023-01-15,Xavier,,Marquette,REG (Conf),W 80-76,,22,5,8,0.625,0,0,,5,8,0.625,0.625,1,1,1.0,2,2,4,2,0,0,2,2,11,8.0,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+19,109,19,2023-01-18,Xavier,@,DePaul,REG (Conf),L 72-73,,17,4,6,0.667,0,0,,4,6,0.667,0.667,2,2,1.0,2,3,5,1,2,0,0,5,10,10.4,A,0,1,jerome-hunter-2,Jerome Hunter,2023
+20,110,20,2023-01-21,Xavier,,Georgetown,REG (Conf),W 95-82,,19,4,7,0.571,0,0,,4,7,0.571,0.571,0,1,0.0,3,2,5,3,0,0,1,0,8,8.1,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+21,111,21,2023-01-25,Xavier,@,Connecticut,REG (Conf),W 82-79,,25,5,6,0.833,0,0,,5,6,0.833,0.833,1,1,1.0,1,2,3,2,0,1,0,2,11,11.4,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+22,112,22,2023-01-28,Xavier,@,Creighton,REG (Conf),L 67-84,,18,2,8,0.25,0,1,0.0,2,7,0.286,0.25,2,2,1.0,0,0,0,0,1,0,0,2,6,1.4,A,0,1,jerome-hunter-2,Jerome Hunter,2023
+23,113,23,2023-02-01,Xavier,,Providence,REG (Conf),W 85-83 (OT),*,36,3,7,0.429,0,1,0.0,3,6,0.5,0.429,3,8,0.375,7,1,8,1,0,1,1,1,9,8.5,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+24,114,24,2023-02-04,Xavier,,St. John's (NY),REG (Conf),W 96-71,*,32,4,7,0.571,0,0,,4,7,0.571,0.571,2,4,0.5,2,4,6,4,3,0,3,1,10,10.9,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+25,115,25,2023-02-10,Xavier,@,Butler,REG (Conf),L 67-69,*,38,3,6,0.5,0,0,,3,6,0.5,0.5,0,1,0.0,4,3,7,2,0,0,4,2,6,2.9,A,0,1,jerome-hunter-2,Jerome Hunter,2023
+26,116,26,2023-02-15,Xavier,@,Marquette,REG (Conf),L 68-69,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,0,5,5,3,0,0,1,2,10,9.5,A,0,1,jerome-hunter-2,Jerome Hunter,2023
+27,117,27,2023-02-18,Xavier,,DePaul,REG (Conf),W 82-68,*,27,7,12,0.583,0,1,0.0,7,11,0.636,0.583,1,2,0.5,2,7,9,0,1,0,0,1,15,13.1,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+28,118,28,2023-02-21,Xavier,,Villanova,REG (Conf),L 63-64,*,28,5,6,0.833,0,0,,5,6,0.833,0.833,4,4,1.0,3,1,4,2,0,0,1,3,14,13.4,H,0,1,jerome-hunter-2,Jerome Hunter,2023
+29,119,29,2023-02-24,Xavier,@,Seton Hall,REG (Conf),W 82-60,*,32,5,10,0.5,0,1,0.0,5,9,0.556,0.5,2,2,1.0,5,4,9,2,1,3,4,2,12,11.4,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+30,120,30,2023-03-01,Xavier,@,Providence,REG (Conf),W 94-89,*,28,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,0,3,3,2,0,1,3,3,7,3.1,A,1,1,jerome-hunter-2,Jerome Hunter,2023
+31,121,31,2023-03-04,Xavier,,Butler,REG (Conf),W 78-66,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,3,7,0.429,2,3,5,2,1,1,1,3,9,8.3,H,1,1,jerome-hunter-2,Jerome Hunter,2023
+32,122,32,2023-03-09,Xavier,N,DePaul,CTOURN,W 89-84,*,28,2,5,0.4,0,0,,2,5,0.4,0.4,1,3,0.333,0,0,0,2,1,0,1,4,5,1.3,N,1,0,jerome-hunter-2,Jerome Hunter,2023
+33,123,33,2023-03-10,Xavier,N,Creighton,CTOURN,W 82-60,*,29,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,1,7,8,2,0,0,1,2,6,4.7,N,1,0,jerome-hunter-2,Jerome Hunter,2023
+34,124,34,2023-03-11,Xavier,N,Marquette,CTOURN,L 51-65,*,26,5,9,0.556,0,0,,5,9,0.556,0.556,0,1,0.0,6,2,8,2,0,0,0,2,10,10.7,N,0,0,jerome-hunter-2,Jerome Hunter,2023
+35,125,35,2023-03-17,Xavier,N,Kennesaw State,ROUND-64,W 72-67,*,30,8,11,0.727,0,0,,8,11,0.727,0.727,8,8,1.0,1,4,5,0,1,1,1,3,24,20.9,N,1,0,jerome-hunter-2,Jerome Hunter,2023
+36,126,36,2023-03-19,Xavier,N,Pittsburgh,ROUND-32,W 84-73,*,28,6,10,0.6,0,0,,6,10,0.6,0.6,2,2,1.0,3,2,5,2,1,0,2,3,14,11.3,N,1,0,jerome-hunter-2,Jerome Hunter,2023
+37,127,37,2023-03-24,Xavier,N,Texas,ROUND-16,L 71-83,*,27,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,3,4,7,1,0,0,1,0,3,3.9,N,0,0,jerome-hunter-2,Jerome Hunter,2023

@@ -1,0 +1,39 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,31,1,2010-11-14,Arizona,,Idaho State,REG (Non-Conf),W 90-42,*,20,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,2,1.0,0,1,1,4,2,0,1,2,6,6.6,H,1,1,lamont-jones-1,MoMo Jones,2011
+2,32,2,2010-11-18,Arizona,,New Mexico State,REG (Non-Conf),W 83-57,*,28,1,7,0.143,0,2,0.0,1,5,0.2,0.143,1,2,0.5,1,0,1,5,1,0,2,1,3,0.9,H,1,1,lamont-jones-1,MoMo Jones,2011
+3,33,3,2010-11-21,Arizona,,Northern Colorado,REG (Non-Conf),W 93-70,*,18,3,6,0.5,0,2,0.0,3,4,0.75,0.5,4,6,0.667,0,0,0,0,1,0,4,0,10,3.2,H,1,1,lamont-jones-1,MoMo Jones,2011
+4,34,4,2010-11-23,Arizona,,Bethune-Cookman,REG (Non-Conf),W 78-45,*,22,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,0,0,0,3,1,0,2,2,3,0.9,H,1,1,lamont-jones-1,MoMo Jones,2011
+5,35,5,2010-11-26,Arizona,N,Santa Clara,REG (Non-Conf),W 82-59,*,25,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,5,1,1,3,3,2,2.3,N,1,1,lamont-jones-1,MoMo Jones,2011
+6,36,6,2010-11-27,Arizona,N,Kansas,REG (Non-Conf),L 79-87,*,25,4,9,0.444,0,2,0.0,4,7,0.571,0.444,3,4,0.75,1,0,1,0,0,0,4,3,11,1.4,N,0,1,lamont-jones-1,MoMo Jones,2011
+7,37,7,2010-12-01,Arizona,@,Rice,REG (Non-Conf),W 84-57,*,24,5,8,0.625,1,3,0.333,4,5,0.8,0.688,0,0,,0,4,4,3,0,0,2,4,11,7.1,A,1,1,lamont-jones-1,MoMo Jones,2011
+8,38,8,2010-12-05,Arizona,,Oklahoma,REG (Non-Conf),W 83-60,*,25,4,11,0.364,0,0,,4,11,0.364,0.364,0,0,,0,4,4,3,0,0,0,0,8,5.2,H,1,1,lamont-jones-1,MoMo Jones,2011
+9,39,9,2010-12-08,Arizona,,Cal State Fullerton,REG (Non-Conf),W 73-62,*,23,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,1,1,0,0,0,4,1,6,-1.1,H,1,1,lamont-jones-1,MoMo Jones,2011
+10,40,10,2010-12-11,Arizona,N,Brigham Young,REG (Non-Conf),L 65-87,*,27,7,11,0.636,4,5,0.8,3,6,0.5,0.818,2,2,1.0,0,0,0,1,0,0,1,1,20,14.4,N,0,1,lamont-jones-1,MoMo Jones,2011
+11,41,11,2010-12-16,Arizona,,Northern Arizona,REG (Non-Conf),W 63-58,*,25,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,0,,0,0,0,1,0,0,1,0,6,2.7,H,1,1,lamont-jones-1,MoMo Jones,2011
+12,42,12,2010-12-19,Arizona,@,NC State,REG (Non-Conf),W 72-62,*,24,2,6,0.333,0,1,0.0,2,5,0.4,0.333,0,0,,0,3,3,4,0,0,2,3,4,1.1,A,1,1,lamont-jones-1,MoMo Jones,2011
+13,43,13,2010-12-22,Arizona,,Robert Morris,REG (Non-Conf),W 82-56,*,23,2,6,0.333,1,2,0.5,1,4,0.25,0.417,0,0,,0,2,2,3,0,0,2,3,5,1.1,H,1,1,lamont-jones-1,MoMo Jones,2011
+14,44,14,2010-12-30,Arizona,@,Oregon,REG (Conf),W 76-57,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,1,1,2,2,0,0,4,1,6,2.0,A,1,1,lamont-jones-1,MoMo Jones,2011
+15,45,15,2011-01-02,Arizona,@,Oregon State,REG (Conf),L 75-76,*,27,9,12,0.75,0,1,0.0,9,11,0.818,0.75,2,2,1.0,0,3,3,1,1,0,5,2,20,12.0,A,0,1,lamont-jones-1,MoMo Jones,2011
+16,46,16,2011-01-06,Arizona,,California,REG (Conf),W 73-71,*,27,1,7,0.143,0,1,0.0,1,6,0.167,0.143,4,4,1.0,0,2,2,2,1,0,1,1,6,3.1,H,1,1,lamont-jones-1,MoMo Jones,2011
+17,47,17,2011-01-09,Arizona,,Stanford,REG (Conf),W 67-57,*,27,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,1,0.0,0,2,2,4,0,0,2,2,8,2.1,H,1,1,lamont-jones-1,MoMo Jones,2011
+18,48,18,2011-01-15,Arizona,,Arizona State,REG (Conf),W 80-69,*,25,0,2,0.0,0,0,,0,2,0.0,0.0,2,2,1.0,0,1,1,3,1,0,0,2,2,3.2,H,1,1,lamont-jones-1,MoMo Jones,2011
+19,49,19,2011-01-20,Arizona,@,Washington,REG (Conf),L 68-85,*,28,4,10,0.4,0,1,0.0,4,9,0.444,0.4,2,2,1.0,1,1,2,2,1,0,3,1,10,4.6,A,0,1,lamont-jones-1,MoMo Jones,2011
+20,50,20,2011-01-22,Arizona,@,Washington State,REG (Conf),W 65-63,*,28,3,7,0.429,1,2,0.5,2,5,0.4,0.5,4,4,1.0,1,3,4,5,0,0,1,2,11,10.6,A,1,1,lamont-jones-1,MoMo Jones,2011
+21,51,21,2011-01-27,Arizona,,UCLA,REG (Conf),W 85-74,*,28,6,11,0.545,1,1,1.0,5,10,0.5,0.591,4,4,1.0,0,2,2,3,3,0,2,0,17,15.4,H,1,1,lamont-jones-1,MoMo Jones,2011
+22,52,22,2011-01-29,Arizona,,Southern California,REG (Conf),W 82-73,*,21,6,6,1.0,2,2,1.0,4,4,1.0,1.167,3,6,0.5,0,3,3,2,0,0,1,3,17,14.1,H,1,1,lamont-jones-1,MoMo Jones,2011
+23,53,23,2011-02-03,Arizona,@,Stanford,REG (Conf),W 78-69,*,26,4,7,0.571,0,1,0.0,4,6,0.667,0.571,7,7,1.0,0,0,0,1,2,0,2,2,15,11.6,A,1,1,lamont-jones-1,MoMo Jones,2011
+24,54,24,2011-02-05,Arizona,@,California,REG (Conf),W 107-105 (3OT),*,39,9,18,0.5,2,6,0.333,7,12,0.583,0.556,7,9,0.778,1,0,1,1,1,0,1,5,27,16.6,A,1,1,lamont-jones-1,MoMo Jones,2011
+25,55,25,2011-02-13,Arizona,@,Arizona State,REG (Conf),W 67-52,*,27,0,6,0.0,0,2,0.0,0,4,0.0,0.0,2,2,1.0,0,0,0,6,1,0,3,0,2,0.0,A,1,1,lamont-jones-1,MoMo Jones,2011
+26,56,26,2011-02-17,Arizona,,Washington State,REG (Conf),W 79-70,*,29,3,9,0.333,0,1,0.0,3,8,0.375,0.333,4,4,1.0,2,3,5,2,0,0,3,2,10,4.8,H,1,1,lamont-jones-1,MoMo Jones,2011
+27,57,27,2011-02-19,Arizona,,Washington,REG (Conf),W 87-86,*,30,6,15,0.4,3,6,0.5,3,9,0.333,0.5,0,0,,0,2,2,3,1,0,2,2,15,7.8,H,1,1,lamont-jones-1,MoMo Jones,2011
+28,58,28,2011-02-24,Arizona,@,Southern California,REG (Conf),L 57-65,*,25,3,12,0.25,2,5,0.4,1,7,0.143,0.333,1,2,0.5,0,1,1,1,0,0,0,3,9,1.2,A,0,1,lamont-jones-1,MoMo Jones,2011
+29,59,29,2011-02-26,Arizona,@,UCLA,REG (Conf),L 49-71,*,22,2,8,0.25,0,2,0.0,2,6,0.333,0.25,0,2,0.0,0,0,0,0,0,0,1,1,4,-3.0,A,0,1,lamont-jones-1,MoMo Jones,2011
+30,60,30,2011-03-03,Arizona,,Oregon State,REG (Conf),W 70-59,*,30,6,11,0.545,1,3,0.333,5,8,0.625,0.591,4,4,1.0,0,0,0,3,2,0,2,0,17,13.8,H,1,1,lamont-jones-1,MoMo Jones,2011
+31,61,31,2011-03-05,Arizona,,Oregon,REG (Conf),W 90-82,*,29,3,7,0.429,0,3,0.0,3,4,0.75,0.429,1,2,0.5,0,3,3,4,1,0,1,1,7,6.2,H,1,1,lamont-jones-1,MoMo Jones,2011
+32,62,32,2011-03-10,Arizona,N,Oregon State,CTOURN,W 78-69,*,27,4,13,0.308,3,6,0.5,1,7,0.143,0.423,2,2,1.0,0,0,0,2,1,0,3,3,13,3.7,N,1,0,lamont-jones-1,MoMo Jones,2011
+33,63,33,2011-03-11,Arizona,N,Southern California,CTOURN,W 67-62,*,28,2,6,0.333,1,2,0.5,1,4,0.25,0.417,2,2,1.0,0,0,0,2,0,0,1,0,7,4.0,N,1,0,lamont-jones-1,MoMo Jones,2011
+34,64,34,2011-03-12,Arizona,N,Washington,CTOURN,L 75-77 (OT),*,28,1,8,0.125,1,6,0.167,0,2,0.0,0.188,4,6,0.667,1,0,1,2,0,0,3,3,7,-1.1,N,0,0,lamont-jones-1,MoMo Jones,2011
+35,65,35,2011-03-18,Arizona,N,Memphis,ROUND-64,W 77-75,*,30,5,10,0.5,1,2,0.5,4,8,0.5,0.55,7,8,0.875,0,2,2,0,1,0,1,2,18,12.4,N,1,0,lamont-jones-1,MoMo Jones,2011
+36,66,36,2011-03-20,Arizona,N,Texas,ROUND-32,W 70-69,*,21,0,6,0.0,0,0,,0,6,0.0,0.0,0,0,,0,3,3,2,0,0,0,1,0,-2.3,N,1,0,lamont-jones-1,MoMo Jones,2011
+37,67,37,2011-03-24,Arizona,N,Duke,ROUND-16,W 93-77,*,28,6,10,0.6,0,0,,6,10,0.6,0.6,4,4,1.0,0,3,3,6,1,0,0,3,16,16.3,N,1,0,lamont-jones-1,MoMo Jones,2011
+38,68,38,2011-03-26,Arizona,N,Connecticut,ROUND-8,L 63-65,*,27,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,1,0,1,2,0,0,2,0,8,3.4,N,0,0,lamont-jones-1,MoMo Jones,2011

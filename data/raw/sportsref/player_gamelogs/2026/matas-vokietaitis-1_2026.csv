@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,1,2025-11-04,Texas,N,Duke,REG (Non-Conf),L 60-75,*,23,3,8,0.375,0,0,3,8,0.375,0.375,9,10,0.9,4,4,8,0,0,1,5,4,15,8.3,N,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+2,36,2,2025-11-08,Texas,,Lafayette,REG (Non-Conf),W 97-60,*,24,7,9,0.778,0,0,7,9,0.778,0.778,0,1,0.0,4,7,11,2,2,3,1,3,14,18.3,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+3,37,3,2025-11-12,Texas,,FDU,REG (Non-Conf),W 93-58,*,19,8,8,1.0,0,0,8,8,1.0,1.0,3,6,0.5,1,5,6,0,0,1,0,3,19,17.1,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+4,38,4,2025-11-15,Texas,,Kansas City,REG (Non-Conf),W 71-55,*,25,3,7,0.429,0,0,3,7,0.429,0.429,6,12,0.5,3,5,8,0,1,1,0,3,12,10.0,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+5,39,5,2025-11-18,Texas,,Rider,REG (Non-Conf),W 99-65,*,21,6,8,0.75,0,0,6,8,0.75,0.75,8,12,0.667,1,2,3,0,1,1,0,4,20,16.6,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+6,40,6,2025-11-24,Texas,N,Arizona State,REG (Non-Conf),L 86-87,*,26,5,9,0.556,0,0,5,9,0.556,0.556,5,7,0.714,3,5,8,0,0,0,4,3,15,8.3,N,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+7,41,7,2025-11-25,Texas,N,Chaminade,REG (Non-Conf),W 119-78,*,20,7,7,1.0,0,0,7,7,1.0,1.0,2,3,0.667,2,7,9,0,0,3,4,2,16,14.3,N,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+8,42,8,2025-11-26,Texas,N,NC State,REG (Non-Conf),W 102-97,*,25,4,4,1.0,0,0,4,4,1.0,1.0,5,6,0.833,2,1,3,0,0,0,0,5,13,11.1,N,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+9,43,9,2025-12-03,Texas,,Virginia,REG (Non-Conf),L 69-88,*,23,2,7,0.286,0,0,2,7,0.286,0.286,3,9,0.333,1,3,4,0,0,0,1,2,7,0.3,H,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+10,44,10,2025-12-08,Texas,,Southern,REG (Non-Conf),W 95-69,*,25,7,10,0.7,0,0,7,10,0.7,0.7,14,14,1.0,1,5,6,0,0,1,2,4,28,23.1,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+11,45,11,2025-12-12,Texas,@,Connecticut,REG (Non-Conf),L 63-71,*,24,2,6,0.333,0,0,2,6,0.333,0.333,5,8,0.625,2,3,5,2,0,0,3,3,9,3.9,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+12,46,12,2025-12-16,Texas,,Le Moyne,REG (Non-Conf),W 95-53,*,20,7,10,0.7,0,0,7,10,0.7,0.7,2,3,0.667,2,8,10,0,0,1,1,3,16,13.7,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+13,47,13,2025-12-22,Texas,,Maryland Eastern Shore,REG (Non-Conf),W 94-71,*,30,4,5,0.8,0,0,4,5,0.8,0.8,14,21,0.667,4,4,8,0,1,1,3,5,22,18.0,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+14,48,14,2026-01-03,Texas,,Mississippi State,REG (Conf),L 98-101 (OT),*,34,3,5,0.6,0,0,3,5,0.6,0.6,13,18,0.722,2,2,4,0,0,0,1,4,19,14.1,H,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+15,49,15,2026-01-06,Texas,@,Tennessee,REG (Conf),L 71-85,*,12,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,1,0,1,0,0,0,2,4,4,-2.0,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+16,50,16,2026-01-10,Texas,@,Alabama,REG (Conf),W 92-88,*,18,2,5,0.4,0,0,2,5,0.4,0.4,4,7,0.571,2,4,6,1,0,1,2,3,8,4.9,A,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+17,51,17,2026-01-14,Texas,,Vanderbilt,REG (Conf),W 80-64,*,32,7,9,0.778,0,0,7,9,0.778,0.778,8,9,0.889,2,5,7,0,1,0,4,3,22,16.8,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+18,52,18,2026-01-17,Texas,,Texas A&M,REG (Conf),L 70-74,*,30,3,4,0.75,0,0,3,4,0.75,0.75,8,12,0.667,1,8,9,0,0,1,2,1,14,12.2,H,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+19,53,19,2026-01-21,Texas,@,Kentucky,REG (Conf),L 80-85,*,31,5,14,0.357,0,0,5,14,0.357,0.357,5,6,0.833,6,5,11,1,0,1,2,3,15,10.7,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+20,54,20,2026-01-24,Texas,,Georgia,REG (Conf),W 87-67,*,23,5,7,0.714,0,0,5,7,0.714,0.714,4,5,0.8,3,5,8,1,0,2,5,4,14,9.8,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+21,55,21,2026-01-28,Texas,@,Auburn,REG (Conf),L 82-88,*,30,3,3,1.0,0,0,3,3,1.0,1.0,6,9,0.667,2,3,5,1,0,1,4,4,12,8.0,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+22,56,22,2026-01-31,Texas,@,Oklahoma,REG (Conf),W 79-69,*,24,7,9,0.778,0,0,7,9,0.778,0.778,0,0,,2,4,6,2,0,0,3,1,14,11.1,A,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+23,57,23,2026-02-03,Texas,,South Carolina,REG (Conf),W 84-75,*,24,3,8,0.375,0,0,3,8,0.375,0.375,6,9,0.667,5,4,9,1,0,1,4,5,12,6.5,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+24,58,24,2026-02-07,Texas,,Ole Miss,REG (Conf),W 79-68,*,35,9,10,0.9,0,0,9,10,0.9,0.9,9,12,0.75,2,5,7,1,0,1,1,2,27,24.9,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+25,59,25,2026-02-14,Texas,@,Missouri,REG (Conf),W 85-68,*,25,6,10,0.6,0,0,6,10,0.6,0.6,7,8,0.875,5,5,10,0,0,2,1,4,19,17.8,A,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+26,60,26,2026-02-17,Texas,,Louisiana State,REG (Conf),W 88-85,*,33,6,11,0.545,0,0,6,11,0.545,0.545,5,6,0.833,2,8,10,0,0,2,3,2,17,12.7,H,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+27,61,27,2026-02-21,Texas,@,Georgia,REG (Conf),L 80-91,*,26,8,10,0.8,0,0,8,10,0.8,0.8,6,10,0.6,2,3,5,1,0,0,0,4,22,18.0,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+28,62,28,2026-02-25,Texas,,Florida,REG (Conf),L 71-84,*,34,4,9,0.444,0,0,4,9,0.444,0.444,4,8,0.5,3,3,6,1,0,1,4,4,12,4.5,H,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+29,63,29,2026-02-28,Texas,@,Texas A&M,REG (Conf),W 76-70,*,24,6,7,0.857,0,0,6,7,0.857,0.857,2,2,1.0,3,4,7,2,0,1,2,4,14,13.3,A,1,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+30,64,30,2026-03-04,Texas,@,Arkansas,REG (Conf),L 85-105,*,24,9,15,0.6,0,0,9,15,0.6,0.6,3,6,0.5,4,3,7,2,0,1,1,5,21,15.7,A,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+31,65,31,2026-03-07,Texas,,Oklahoma,REG (Conf),L 85-88 (OT),*,34,5,6,0.833,0,0,5,6,0.833,0.833,4,4,1.0,1,5,6,2,0,1,2,4,14,12.5,H,0,1,matas-vokietaitis-1,Matas Vokietaitis,2026
+32,66,32,2026-03-11,Texas,N,Ole Miss,CTOURN,L 66-76,*,25,3,10,0.3,0,0,3,10,0.3,0.3,4,6,0.667,1,5,6,0,0,1,3,4,10,1.7,N,0,0,matas-vokietaitis-1,Matas Vokietaitis,2026
+33,67,33,2026-03-17,Texas,N,NC State,FIRST-FOUR,W 68-66,*,26,4,11,0.364,0,0,4,11,0.364,0.364,7,12,0.583,4,4,8,0,0,1,2,5,15,7.6,N,1,0,matas-vokietaitis-1,Matas Vokietaitis,2026

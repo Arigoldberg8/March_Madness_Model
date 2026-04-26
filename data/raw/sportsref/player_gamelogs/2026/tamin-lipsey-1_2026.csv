@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2025-11-03,Iowa State,,FDU,REG (Non-Conf),W 88-50,*,25,8,13,0.615,1,4,0.25,7,9,0.778,0.654,1,2,0.5,2,4,6,5,5,0,1,1,18,21.4,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+2,105,2,2025-11-06,Iowa State,,Grambling State,REG (Non-Conf),W 102-62,*,31,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,4,0,4,6,5,0,0,1,10,17.9,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+3,106,3,2025-11-10,Iowa State,N,Mississippi State,REG (Non-Conf),W 96-80,*,36,9,17,0.529,2,5,0.4,7,12,0.583,0.588,5,6,0.833,1,0,1,6,3,1,2,2,25,22.1,N,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+4,107,4,2025-11-17,Iowa State,,Stonehill,REG (Non-Conf),W 96-57,*,29,9,15,0.6,2,6,0.333,7,9,0.778,0.667,3,4,0.75,2,4,6,4,2,0,0,1,23,22.7,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+5,108,5,2025-11-24,Iowa State,N,St. John's (NY),REG (Non-Conf),W 83-82,*,34,5,17,0.294,2,6,0.333,3,11,0.273,0.353,4,4,1.0,1,0,1,5,1,0,1,3,16,9.1,N,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+6,109,9,2025-12-06,Iowa State,@,Purdue,REG (Non-Conf),W 81-58,*,32,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,0,5,5,8,0,0,0,0,9,12.8,A,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+7,110,10,2025-12-11,Iowa State,,Iowa,REG (Non-Conf),W 66-62,*,33,6,15,0.4,0,2,0.0,6,13,0.462,0.4,2,2,1.0,0,1,1,4,4,0,0,3,14,11.8,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+8,111,11,2025-12-14,Iowa State,,Eastern Illinois,REG (Non-Conf),W 78-53,*,33,3,6,0.5,0,2,0.0,3,4,0.75,0.5,3,4,0.75,0,3,3,7,5,0,1,0,9,15.4,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+9,112,12,2025-12-21,Iowa State,,Long Beach State,REG (Non-Conf),W 91-60,*,27,4,8,0.5,1,2,0.5,3,6,0.5,0.563,1,2,0.5,1,3,4,7,1,0,1,1,10,11.7,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+10,113,13,2025-12-29,Iowa State,,Houston Christian,REG (Non-Conf),W 89-61,*,28,4,10,0.4,0,2,0.0,4,8,0.5,0.4,0,2,0.0,4,3,7,8,0,0,1,2,8,9.3,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+11,114,14,2026-01-02,Iowa State,,West Virginia,REG (Conf),W 80-59,*,31,4,9,0.444,2,5,0.4,2,4,0.5,0.556,2,3,0.667,1,3,4,5,0,0,2,2,12,9.2,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+12,115,15,2026-01-07,Iowa State,@,Baylor,REG (Conf),W 70-60,*,26,8,12,0.667,2,3,0.667,6,9,0.667,0.75,6,7,0.857,1,2,3,2,1,0,0,3,24,20.9,A,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+13,116,16,2026-01-10,Iowa State,,Oklahoma State,REG (Conf),W 83-71,*,25,4,9,0.444,1,3,0.333,3,6,0.5,0.5,2,2,1.0,1,2,3,4,4,0,1,4,11,11.8,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+14,117,17,2026-01-13,Iowa State,@,Kansas,REG (Conf),L 63-84,*,32,4,15,0.267,1,5,0.2,3,10,0.3,0.3,1,2,0.5,1,2,3,5,2,0,1,1,10,6.1,A,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+15,118,18,2026-01-17,Iowa State,@,Cincinnati,REG (Conf),L 70-79,*,33,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,3,0.0,0,7,7,4,1,0,2,3,7,4.8,A,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+16,119,19,2026-01-20,Iowa State,,UCF,REG (Conf),W 87-57,*,30,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,2,3,5,6,5,0,2,1,5,8.6,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+17,120,20,2026-01-24,Iowa State,@,Oklahoma State,REG (Conf),W 84-71,*,34,4,9,0.444,0,3,0.0,4,6,0.667,0.444,5,6,0.833,1,2,3,5,2,0,4,2,13,9.9,A,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+18,121,21,2026-01-29,Iowa State,,Colorado,REG (Conf),W 97-67,*,32,6,10,0.6,1,3,0.333,5,7,0.714,0.65,1,2,0.5,1,2,3,5,0,0,0,1,14,13.4,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+19,122,22,2026-02-01,Iowa State,@,Kansas State,REG (Conf),W 95-61,*,33,6,9,0.667,1,2,0.5,5,7,0.714,0.722,3,4,0.75,2,3,5,9,4,0,1,1,16,22.9,A,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+20,123,23,2026-02-07,Iowa State,,Baylor,REG (Conf),W 72-69,*,33,6,13,0.462,0,4,0.0,6,9,0.667,0.462,2,4,0.5,4,5,9,3,2,0,4,0,14,10.9,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+21,124,24,2026-02-10,Iowa State,@,TCU,REG (Conf),L 55-62,*,35,6,10,0.6,0,3,0.0,6,7,0.857,0.6,0,3,0.0,2,2,4,5,0,0,3,3,12,7.5,A,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+22,125,25,2026-02-14,Iowa State,,Kansas,REG (Conf),W 74-56,*,33,3,10,0.3,2,6,0.333,1,4,0.25,0.4,3,5,0.6,2,1,3,4,3,0,2,2,11,9.1,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+23,126,26,2026-02-16,Iowa State,,Houston,REG (Conf),W 70-67,*,34,3,6,0.5,0,3,0.0,3,3,1.0,0.5,3,6,0.5,3,5,8,4,1,0,2,2,9,9.4,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+24,127,27,2026-02-21,Iowa State,@,Brigham Young,REG (Conf),L 69-79,*,34,7,15,0.467,3,4,0.75,4,11,0.364,0.567,2,2,1.0,1,4,5,3,1,0,2,2,19,13.5,A,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+25,128,28,2026-02-24,Iowa State,@,Utah,REG (Conf),W 75-59,*,35,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,0,4,4,5,2,0,1,2,7,6.8,A,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+26,129,29,2026-02-28,Iowa State,,Texas Tech,REG (Conf),L 73-82,*,32,3,9,0.333,0,3,0.0,3,6,0.5,0.333,7,10,0.7,1,0,1,4,1,0,0,3,13,10.0,H,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+27,130,30,2026-03-02,Iowa State,@,Arizona,REG (Conf),L 57-73,*,32,6,15,0.4,2,7,0.286,4,8,0.5,0.467,3,3,1.0,2,4,6,2,1,0,4,4,17,8.3,A,0,1,tamin-lipsey-1,Tamin Lipsey,2026
+28,131,31,2026-03-07,Iowa State,,Arizona State,REG (Conf),W 86-65,*,34,5,12,0.417,2,4,0.5,3,8,0.375,0.5,4,7,0.571,1,1,2,6,6,0,2,2,16,16.8,H,1,1,tamin-lipsey-1,Tamin Lipsey,2026
+29,132,32,2026-03-11,Iowa State,N,Arizona State,CTOURN,W 91-42,*,30,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,1,0,1,4,2,0,2,2,11,11.1,N,1,0,tamin-lipsey-1,Tamin Lipsey,2026
+30,133,33,2026-03-12,Iowa State,N,Texas Tech,CTOURN,W 75-53,*,31,8,12,0.667,4,7,0.571,4,5,0.8,0.833,0,2,0.0,0,2,2,4,1,0,0,1,20,18.0,N,1,0,tamin-lipsey-1,Tamin Lipsey,2026
+31,134,34,2026-03-13,Iowa State,N,Arizona,CTOURN,L 80-82,*,30,2,11,0.182,1,5,0.2,1,6,0.167,0.227,3,5,0.6,1,3,4,7,3,0,3,1,8,6.4,N,0,0,tamin-lipsey-1,Tamin Lipsey,2026

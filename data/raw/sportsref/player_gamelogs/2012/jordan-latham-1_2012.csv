@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,17,1,2011-11-11,Loyola (MD),@,Wake Forest,REG (Non-Conf),L 63-75,*,11,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,0,1,1,0,3,0,-0.9,A,0,1,jordan-latham-1,Jordan Latham,2012
+2,18,2,2011-11-14,Loyola (MD),,Coppin State,REG (Non-Conf),W 78-68,,13,2,2,1.0,0,0,2,2,1.0,1.0,1,2,0.5,1,1,2,2,0,0,0,4,5,4.8,H,1,1,jordan-latham-1,Jordan Latham,2012
+3,19,3,2011-11-17,Loyola (MD),@,UMBC,REG (Non-Conf),W 73-63,,11,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,2,2,0,1,0,0,4,2,0.3,A,1,1,jordan-latham-1,Jordan Latham,2012
+4,20,4,2011-11-20,Loyola (MD),@,New Hampshire,REG (Non-Conf),W 66-60,,15,0,3,0.0,0,0,0,3,0.0,0.0,2,3,0.667,1,4,5,1,1,1,1,3,2,1.6,A,1,1,jordan-latham-1,Jordan Latham,2012
+5,21,5,2011-11-27,Loyola (MD),,Florida Gulf Coast,REG (Non-Conf),W 77-74,,11,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,H,1,1,jordan-latham-1,Jordan Latham,2012
+6,22,6,2011-12-01,Loyola (MD),,Marist,REG (Conf),W 76-63,,13,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,3,3,0,0,0,2,2,0,-3.3,H,1,1,jordan-latham-1,Jordan Latham,2012
+7,23,7,2011-12-03,Loyola (MD),@,Siena,REG (Conf),W 66-59,,4,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,0,1,0,0,0,0,-0.4,A,1,1,jordan-latham-1,Jordan Latham,2012
+8,24,8,2011-12-07,Loyola (MD),@,George Washington,REG (Non-Conf),W 65-55,,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,A,1,1,jordan-latham-1,Jordan Latham,2012
+9,25,9,2011-12-10,Loyola (MD),@,Mount St. Mary's,REG (Non-Conf),W 65-54,,18,0,1,0.0,0,0,0,1,0.0,0.0,2,4,0.5,0,0,0,0,0,1,0,3,2,0.0,A,1,1,jordan-latham-1,Jordan Latham,2012
+10,26,10,2011-12-18,Loyola (MD),@,St. Bonaventure,REG (Non-Conf),L 66-76,,17,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,0,1,1,0,0,0,0,4,4,0.3,A,0,1,jordan-latham-1,Jordan Latham,2012
+11,27,11,2011-12-22,Loyola (MD),@,Kentucky,REG (Non-Conf),L 63-87,*,17,3,7,0.429,0,0,3,7,0.429,0.429,1,2,0.5,2,1,3,0,0,0,1,4,7,2.0,A,0,1,jordan-latham-1,Jordan Latham,2012
+12,28,12,2011-12-28,Loyola (MD),@,Bucknell,REG (Non-Conf),W 72-67,,17,0,4,0.0,0,0,0,4,0.0,0.0,0,2,0.0,0,4,4,0,0,0,1,4,0,-5.0,A,1,1,jordan-latham-1,Jordan Latham,2012
+13,29,20,2012-01-27,Loyola (MD),@,Niagara,REG (Conf),W 69-57,,15,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,2,0,2,0,0.2,A,1,1,jordan-latham-1,Jordan Latham,2012
+14,30,21,2012-01-29,Loyola (MD),@,Canisius,REG (Conf),W 70-52,,12,0,4,0.0,0,0,0,4,0.0,0.0,0,0,,0,2,2,0,0,0,1,2,0,-4.0,A,1,1,jordan-latham-1,Jordan Latham,2012
+15,31,22,2012-02-03,Loyola (MD),,Rider,REG (Conf),W 63-46,,11,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,1,1,0,0,2,1,3,3,1.8,H,1,1,jordan-latham-1,Jordan Latham,2012
+16,32,23,2012-02-05,Loyola (MD),@,Saint Peter's,REG (Conf),W 66-55,,11,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,2,0,2,1,0,1,0,1,2,3.7,A,1,1,jordan-latham-1,Jordan Latham,2012
+17,33,24,2012-02-10,Loyola (MD),,Iona,REG (Conf),W 87-81,,14,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,2,2,1,0,4,1,3,0,0.5,H,1,1,jordan-latham-1,Jordan Latham,2012
+18,34,25,2012-02-12,Loyola (MD),,Fairfield,REG (Conf),L 51-68,,14,2,5,0.4,0,0,2,5,0.4,0.4,0,0,,0,1,1,1,1,1,1,2,4,2.2,H,0,1,jordan-latham-1,Jordan Latham,2012
+19,35,26,2012-02-15,Loyola (MD),@,Marist,REG (Conf),L 54-72,,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,1,4,0,0,0,1,1,4,3.7,A,0,1,jordan-latham-1,Jordan Latham,2012
+20,36,27,2012-02-19,Loyola (MD),,Boston University,REG (Non-Conf),W 69-56,,10,0,3,0.0,0,0,0,3,0.0,0.0,0,0,,1,4,5,0,0,0,2,1,0,-2.6,H,1,1,jordan-latham-1,Jordan Latham,2012
+21,37,28,2012-02-24,Loyola (MD),@,Rider,REG (Conf),L 79-83,,8,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,3,0,-0.9,A,0,1,jordan-latham-1,Jordan Latham,2012
+22,38,29,2012-02-26,Loyola (MD),@,Manhattan,REG (Conf),W 62-60,,12,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,2,2,0,0,1,1,3,2,0.4,A,1,1,jordan-latham-1,Jordan Latham,2012
+23,39,30,2012-03-03,Loyola (MD),N,Niagara,CTOURN,W 86-73,,6,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,0,0,0,0,1,2,2,2,-0.8,N,1,0,jordan-latham-1,Jordan Latham,2012
+24,40,31,2012-03-04,Loyola (MD),N,Siena,CTOURN,W 70-60,,4,0,0,,0,0,0,0,,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,N,1,0,jordan-latham-1,Jordan Latham,2012
+25,41,32,2012-03-05,Loyola (MD),N,Fairfield,CTOURN,W 48-44,,17,2,5,0.4,0,0,2,5,0.4,0.4,1,1,1.0,3,2,5,0,0,1,0,0,5,5.7,N,1,0,jordan-latham-1,Jordan Latham,2012
+26,42,33,2012-03-15,Loyola (MD),N,Ohio State,ROUND-64,L 59-78,,15,0,3,0.0,0,0,0,3,0.0,0.0,2,2,1.0,0,1,1,0,1,1,0,3,2,0.7,N,0,0,jordan-latham-1,Jordan Latham,2012

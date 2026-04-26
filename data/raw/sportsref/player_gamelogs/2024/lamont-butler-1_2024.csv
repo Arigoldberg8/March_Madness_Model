@@ -1,0 +1,38 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,95,1,2023-11-06,San Diego State,,Cal State Fullerton,REG (Non-Conf),W 83-57,*,28,3,9,0.333,0,3,0.0,3,6,0.5,0.333,2,2,1.0,0,4,4,7,1,1,2,4,8,7.1,H,1,1,lamont-butler-1,Lamont Butler,2024
+2,96,2,2023-11-10,San Diego State,@,Brigham Young,REG (Non-Conf),L 65-74,*,32,3,11,0.273,2,4,0.5,1,7,0.143,0.364,1,2,0.5,0,0,0,3,0,0,1,1,9,2.8,A,0,1,lamont-butler-1,Lamont Butler,2024
+3,97,3,2023-11-14,San Diego State,,Long Beach State,REG (Non-Conf),W 88-76,*,34,5,10,0.5,2,6,0.333,3,4,0.75,0.6,2,3,0.667,0,2,2,4,1,1,3,2,14,9.9,H,1,1,lamont-butler-1,Lamont Butler,2024
+4,98,4,2023-11-17,San Diego State,N,St. Mary's (CA),REG (Non-Conf),W 79-54,*,23,3,8,0.375,0,0,,3,8,0.375,0.375,2,5,0.4,2,1,3,3,0,0,1,2,8,4.4,N,1,1,lamont-butler-1,Lamont Butler,2024
+5,99,5,2023-11-19,San Diego State,N,Washington,REG (Non-Conf),W 100-97 (OT),*,32,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,3,0.0,1,2,3,4,5,1,1,3,7,9.7,N,1,1,lamont-butler-1,Lamont Butler,2024
+6,100,6,2023-11-25,San Diego State,N,California,REG (Non-Conf),W 76-67 (OT),*,18,0,5,0.0,0,1,0.0,0,4,0.0,0.0,1,2,0.5,1,3,4,1,1,0,0,3,1,-0.8,N,1,1,lamont-butler-1,Lamont Butler,2024
+7,101,7,2023-11-27,San Diego State,,Point Loma Nazarene,REG (Non-Conf),W 71-51,*,28,4,9,0.444,1,4,0.25,3,5,0.6,0.5,1,3,0.333,1,2,3,3,1,0,2,1,10,6.5,H,1,1,lamont-butler-1,Lamont Butler,2024
+8,102,8,2023-12-01,San Diego State,@,UC San Diego,REG (Non-Conf),W 63-62,*,33,4,11,0.364,2,4,0.5,2,7,0.286,0.455,0,0,,0,2,2,5,0,0,2,3,10,4.8,A,1,1,lamont-butler-1,Lamont Butler,2024
+9,103,9,2023-12-05,San Diego State,@,Grand Canyon,REG (Non-Conf),L 73-79,*,27,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,4,0.0,0,1,1,6,1,0,1,5,6,3.9,A,0,1,lamont-butler-1,Lamont Butler,2024
+10,104,10,2023-12-09,San Diego State,,UC Irvine,REG (Non-Conf),W 63-62,*,25,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,0,1,1,1,1,0,0,3,2,-1.7,H,1,1,lamont-butler-1,Lamont Butler,2024
+11,105,11,2023-12-19,San Diego State,,St. Katherine,REG (Non-Conf),W 91-57,*,15,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,1,1,3,1,0,1,1,6,5.0,H,1,1,lamont-butler-1,Lamont Butler,2024
+12,106,12,2023-12-21,San Diego State,,Stanford,REG (Non-Conf),W 74-60,*,32,7,13,0.538,3,6,0.5,4,7,0.571,0.654,1,4,0.25,0,0,0,4,4,1,1,1,18,16.6,H,1,1,lamont-butler-1,Lamont Butler,2024
+13,107,13,2023-12-29,San Diego State,@,Gonzaga,REG (Non-Conf),W 84-74,*,11,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,2,2,1,1,0,3,4,4,-0.3,A,1,1,lamont-butler-1,Lamont Butler,2024
+14,108,14,2024-01-03,San Diego State,,Fresno State,REG (Conf),W 74-47,*,24,4,8,0.5,1,4,0.25,3,4,0.75,0.563,2,2,1.0,0,1,1,4,1,0,0,0,11,11.1,H,1,1,lamont-butler-1,Lamont Butler,2024
+15,109,15,2024-01-06,San Diego State,,UNLV,REG (Conf),W 72-61,*,28,1,3,0.333,0,1,0.0,1,2,0.5,0.333,3,4,0.75,0,0,0,3,0,0,1,3,5,2.8,H,1,1,lamont-butler-1,Lamont Butler,2024
+16,110,16,2024-01-09,San Diego State,@,San Jose State,REG (Conf),W 81-78,*,30,6,10,0.6,2,4,0.5,4,6,0.667,0.7,2,3,0.667,0,2,2,1,1,0,1,0,16,12.3,A,1,1,lamont-butler-1,Lamont Butler,2024
+17,111,17,2024-01-13,San Diego State,@,New Mexico,REG (Conf),L 70-88,*,27,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,6,0.5,0,0,0,5,1,0,2,4,7,4.0,A,0,1,lamont-butler-1,Lamont Butler,2024
+18,112,18,2024-01-17,San Diego State,,Nevada,REG (Conf),W 71-59,*,35,4,9,0.444,0,2,0.0,4,7,0.571,0.444,2,6,0.333,1,3,4,3,2,0,0,3,10,8.2,H,1,1,lamont-butler-1,Lamont Butler,2024
+19,113,19,2024-01-20,San Diego State,@,Boise State,REG (Conf),L 66-67,*,29,3,6,0.5,1,4,0.25,2,2,1.0,0.583,2,2,1.0,2,2,4,2,1,0,2,3,9,7.2,A,0,1,lamont-butler-1,Lamont Butler,2024
+20,114,20,2024-01-23,San Diego State,,Wyoming,REG (Conf),W 81-65,*,30,10,14,0.714,2,6,0.333,8,8,1.0,0.786,1,2,0.5,0,5,5,4,3,0,0,2,23,23.3,H,1,1,lamont-butler-1,Lamont Butler,2024
+21,115,21,2024-01-30,San Diego State,@,Colorado State,REG (Conf),L 71-79,*,30,6,15,0.4,3,5,0.6,3,10,0.3,0.5,1,1,1.0,2,3,5,4,4,0,4,1,16,12.6,A,0,1,lamont-butler-1,Lamont Butler,2024
+22,116,22,2024-02-03,San Diego State,,Utah State,REG (Conf),W 81-67,*,30,2,7,0.286,0,1,0.0,2,6,0.333,0.286,3,4,0.75,1,0,1,4,2,0,1,0,7,7.0,H,1,1,lamont-butler-1,Lamont Butler,2024
+23,117,23,2024-02-06,San Diego State,@,Air Force,REG (Conf),W 77-64,*,24,5,8,0.625,0,0,,5,8,0.625,0.625,1,2,0.5,0,3,3,1,1,0,3,2,11,5.8,A,1,1,lamont-butler-1,Lamont Butler,2024
+24,118,24,2024-02-09,San Diego State,@,Nevada,REG (Conf),L 66-70 (OT),*,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,0,0,0,1,0,1,5,5,0.3,A,0,1,lamont-butler-1,Lamont Butler,2024
+25,119,25,2024-02-13,San Diego State,,Colorado State,REG (Conf),W 71-55,*,34,3,7,0.429,0,1,0.0,3,6,0.5,0.429,5,6,0.833,0,10,10,1,3,0,1,0,11,12.6,H,1,1,lamont-butler-1,Lamont Butler,2024
+26,120,26,2024-02-16,San Diego State,,New Mexico,REG (Conf),W 81-70,*,28,5,9,0.556,1,3,0.333,4,6,0.667,0.611,2,2,1.0,0,2,2,1,3,0,3,3,13,8.8,H,1,1,lamont-butler-1,Lamont Butler,2024
+27,121,27,2024-02-20,San Diego State,@,Utah State,REG (Conf),L 63-68,*,23,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,2,0,3,3,0,-5.1,A,0,1,lamont-butler-1,Lamont Butler,2024
+28,122,28,2024-02-24,San Diego State,@,Fresno State,REG (Conf),W 73-41,*,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,3,2,5,3,1,1,1,2,2,2.9,A,1,1,lamont-butler-1,Lamont Butler,2024
+29,123,29,2024-02-27,San Diego State,,San Jose State,REG (Conf),W 72-64,*,27,3,10,0.3,1,5,0.2,2,5,0.4,0.35,0,0,,1,2,3,3,1,1,1,1,7,4.9,H,1,1,lamont-butler-1,Lamont Butler,2024
+30,124,30,2024-03-05,San Diego State,@,UNLV,REG (Conf),L 58-62,*,27,4,10,0.4,2,3,0.667,2,7,0.286,0.5,0,0,,1,1,2,4,4,0,3,4,10,7.8,A,0,1,lamont-butler-1,Lamont Butler,2024
+31,125,31,2024-03-08,San Diego State,,Boise State,REG (Conf),L 77-79 (OT),*,34,5,10,0.5,0,3,0.0,5,7,0.714,0.5,3,4,0.75,1,5,6,2,1,0,2,4,13,8.6,H,0,1,lamont-butler-1,Lamont Butler,2024
+32,126,32,2024-03-14,San Diego State,@,UNLV,CTOURN,W 74-71 (OT),*,40,5,8,0.625,0,1,0.0,5,7,0.714,0.625,2,2,1.0,1,2,3,3,0,1,2,1,12,10.1,A,1,0,lamont-butler-1,Lamont Butler,2024
+33,127,33,2024-03-15,San Diego State,N,Utah State,CTOURN,W 86-70,*,27,4,8,0.5,3,5,0.6,1,3,0.333,0.688,5,8,0.625,1,4,5,3,1,0,1,3,16,13.6,N,1,0,lamont-butler-1,Lamont Butler,2024
+34,128,34,2024-03-16,San Diego State,N,New Mexico,CTOURN,L 61-68,*,31,2,13,0.154,2,6,0.333,0,7,0.0,0.231,1,2,0.5,0,0,0,3,0,0,1,0,7,-0.6,N,0,0,lamont-butler-1,Lamont Butler,2024
+35,129,35,2024-03-22,San Diego State,N,UAB,ROUND-64,W 69-65,*,33,5,9,0.556,0,2,0.0,5,7,0.714,0.556,5,6,0.833,1,2,3,4,4,0,1,1,15,17.0,N,1,0,lamont-butler-1,Lamont Butler,2024
+36,130,36,2024-03-24,San Diego State,N,Yale,ROUND-32,W 85-57,*,22,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,2,0.5,0,1,1,3,1,0,0,3,9,7.8,N,1,0,lamont-butler-1,Lamont Butler,2024
+37,131,37,2024-03-28,San Diego State,N,Connecticut,ROUND-16,L 52-82,*,27,2,7,0.286,0,2,0.0,2,5,0.4,0.286,3,4,0.75,1,1,2,6,1,2,3,2,7,6.3,N,0,0,lamont-butler-1,Lamont Butler,2024

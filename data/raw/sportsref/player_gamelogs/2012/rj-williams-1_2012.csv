@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2011-11-11,Loyola (MD),@,Wake Forest,REG (Non-Conf),L 63-75,,16,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,1,1.0,0,3,3,1,1,0,0,5,3,1.9,A,0,1,rj-williams-1,R.J. Williams,2012
+2,2,2,2011-11-14,Loyola (MD),,Coppin State,REG (Non-Conf),W 78-68,,17,0,3,0.0,0,1,0.0,0,2,0.0,0.0,0,0,,1,2,3,3,0,0,3,0,0,-1.7,H,1,1,rj-williams-1,R.J. Williams,2012
+3,3,3,2011-11-17,Loyola (MD),@,UMBC,REG (Non-Conf),W 73-63,,25,0,1,0.0,0,0,,0,1,0.0,0.0,0,1,0.0,1,1,2,2,1,0,2,2,0,-0.5,A,1,1,rj-williams-1,R.J. Williams,2012
+4,4,4,2011-11-20,Loyola (MD),@,New Hampshire,REG (Non-Conf),W 66-60,*,26,2,4,0.5,0,1,0.0,2,3,0.667,0.5,1,2,0.5,1,0,1,0,0,0,1,2,5,1.5,A,1,1,rj-williams-1,R.J. Williams,2012
+5,5,5,2011-11-27,Loyola (MD),,Florida Gulf Coast,REG (Non-Conf),W 77-74,*,34,2,5,0.4,1,2,0.5,1,3,0.333,0.5,3,4,0.75,1,1,2,2,2,0,1,2,8,7.5,H,1,1,rj-williams-1,R.J. Williams,2012
+6,6,6,2011-12-01,Loyola (MD),,Marist,REG (Conf),W 76-63,*,31,3,3,1.0,1,1,1.0,2,2,1.0,1.167,1,1,1.0,2,1,3,6,2,0,4,0,8,11.0,H,1,1,rj-williams-1,R.J. Williams,2012
+7,7,7,2011-12-03,Loyola (MD),@,Siena,REG (Conf),W 66-59,*,33,2,7,0.286,1,1,1.0,1,6,0.167,0.357,1,2,0.5,2,1,3,4,5,0,2,1,6,8.6,A,1,1,rj-williams-1,R.J. Williams,2012
+8,8,8,2011-12-07,Loyola (MD),@,George Washington,REG (Non-Conf),W 65-55,*,31,2,4,0.5,1,1,1.0,1,3,0.333,0.625,2,2,1.0,0,3,3,2,2,0,2,3,7,6.1,A,1,1,rj-williams-1,R.J. Williams,2012
+9,9,9,2011-12-10,Loyola (MD),@,Mount St. Mary's,REG (Non-Conf),W 65-54,*,23,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,2,2,1,1,0,0,4,0,-0.7,A,1,1,rj-williams-1,R.J. Williams,2012
+10,10,10,2011-12-18,Loyola (MD),@,St. Bonaventure,REG (Non-Conf),L 66-76,*,13,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,A,0,1,rj-williams-1,R.J. Williams,2012
+11,11,11,2011-12-22,Loyola (MD),@,Kentucky,REG (Non-Conf),L 63-87,,25,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,3,3,2,1,0,1,3,6,4.7,A,0,1,rj-williams-1,R.J. Williams,2012
+12,12,12,2011-12-28,Loyola (MD),@,Bucknell,REG (Non-Conf),W 72-67,*,27,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,2,3,0,1,1,4,6.3,A,1,1,rj-williams-1,R.J. Williams,2012
+13,13,13,2012-01-02,Loyola (MD),,Niagara,REG (Conf),L 61-66,*,17,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,2,0.0,0,1,1,2,0,1,1,1,0,-1.9,H,0,1,rj-williams-1,R.J. Williams,2012
+14,14,14,2012-01-05,Loyola (MD),,Manhattan,REG (Conf),W 61-60,*,26,3,5,0.6,1,2,0.5,2,3,0.667,0.7,4,5,0.8,0,0,0,2,2,0,2,4,11,8.1,H,1,1,rj-williams-1,R.J. Williams,2012
+15,15,15,2012-01-07,Loyola (MD),,Canisius,REG (Conf),W 77-62,*,33,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,3,0.667,0,4,4,4,1,0,1,2,6,4.7,H,1,1,rj-williams-1,R.J. Williams,2012
+16,16,16,2012-01-13,Loyola (MD),@,Fairfield,REG (Conf),W 66-63,*,27,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,3,0,0,2,2,3,1.6,A,1,1,rj-williams-1,R.J. Williams,2012
+17,17,17,2012-01-15,Loyola (MD),@,Iona,REG (Conf),L 63-74,*,20,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,1,2,3,3,0,0,1,2,0,-1.2,A,0,1,rj-williams-1,R.J. Williams,2012
+18,18,18,2012-01-19,Loyola (MD),,Siena,REG (Conf),W 66-55,*,24,0,6,0.0,0,1,0.0,0,5,0.0,0.0,0,0,,0,1,1,5,0,0,0,0,0,-0.4,H,1,1,rj-williams-1,R.J. Williams,2012
+19,19,19,2012-01-22,Loyola (MD),,Saint Peter's,REG (Conf),W 65-54,*,20,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,1,1,0,2,2,0,-1.8,H,1,1,rj-williams-1,R.J. Williams,2012
+20,20,20,2012-01-27,Loyola (MD),@,Niagara,REG (Conf),W 69-57,*,33,2,3,0.667,0,0,,2,3,0.667,0.667,4,6,0.667,0,1,1,7,1,0,1,3,8,9.9,A,1,1,rj-williams-1,R.J. Williams,2012
+21,21,21,2012-01-29,Loyola (MD),@,Canisius,REG (Conf),W 70-52,*,35,3,5,0.6,1,1,1.0,2,4,0.5,0.7,0,0,,0,1,1,4,0,0,2,0,7,5.8,A,1,1,rj-williams-1,R.J. Williams,2012
+22,22,22,2012-02-03,Loyola (MD),,Rider,REG (Conf),W 63-46,*,19,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,1,1,3,0,0,2,2,0,-3.2,H,1,1,rj-williams-1,R.J. Williams,2012
+23,23,23,2012-02-05,Loyola (MD),@,Saint Peter's,REG (Conf),W 66-55,*,29,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,1,0,1,1,2,1.2,A,1,1,rj-williams-1,R.J. Williams,2012
+24,24,24,2012-02-10,Loyola (MD),,Iona,REG (Conf),W 87-81,*,25,2,5,0.4,0,3,0.0,2,2,1.0,0.4,5,7,0.714,0,2,2,5,2,0,2,2,9,8.8,H,1,1,rj-williams-1,R.J. Williams,2012
+25,25,25,2012-02-12,Loyola (MD),,Fairfield,REG (Conf),L 51-68,*,14,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,0,0,0,0,1,0,2,0,0,-4.5,H,0,1,rj-williams-1,R.J. Williams,2012
+26,26,26,2012-02-15,Loyola (MD),@,Marist,REG (Conf),L 54-72,*,24,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,0,0,1,2,0,2,1,2,1.6,A,0,1,rj-williams-1,R.J. Williams,2012
+27,27,27,2012-02-19,Loyola (MD),,Boston University,REG (Non-Conf),W 69-56,*,31,2,5,0.4,0,0,,2,5,0.4,0.4,1,3,0.333,1,1,2,2,2,0,0,2,5,5.1,H,1,1,rj-williams-1,R.J. Williams,2012
+28,28,28,2012-02-24,Loyola (MD),@,Rider,REG (Conf),L 79-83,*,27,4,8,0.5,1,3,0.333,3,5,0.6,0.563,2,2,1.0,0,2,2,4,2,0,2,1,11,10.0,A,0,1,rj-williams-1,R.J. Williams,2012
+29,29,29,2012-02-26,Loyola (MD),@,Manhattan,REG (Conf),W 62-60,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,1,2,0.5,1,2,3,1,1,0,4,3,3,-0.6,A,1,1,rj-williams-1,R.J. Williams,2012
+30,30,30,2012-03-03,Loyola (MD),N,Niagara,CTOURN,W 86-73,*,13,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,1,1,0,1,3,6,4.5,N,1,0,rj-williams-1,R.J. Williams,2012
+31,31,31,2012-03-04,Loyola (MD),N,Siena,CTOURN,W 70-60,*,28,1,1,1.0,0,0,,1,1,1.0,1.0,4,4,1.0,0,2,2,5,1,0,3,0,6,7.8,N,1,0,rj-williams-1,R.J. Williams,2012
+32,32,32,2012-03-05,Loyola (MD),N,Fairfield,CTOURN,W 48-44,*,27,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,3,1.0,0,0,0,2,1,0,1,1,3,1.9,N,1,0,rj-williams-1,R.J. Williams,2012
+33,33,33,2012-03-15,Loyola (MD),N,Ohio State,ROUND-64,L 59-78,*,22,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,4,0,0,0,5,2,2.5,N,0,0,rj-williams-1,R.J. Williams,2012

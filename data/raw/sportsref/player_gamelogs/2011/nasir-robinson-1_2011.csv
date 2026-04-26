@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,64,4,2010-11-18,Pittsburgh,N,Maryland,REG (Non-Conf),W 79-70,,7,1,3,0.333,0,0,,1,3,0.333,0.333,2,3,0.667,0,1,1,0,1,0,1,2,4,1.4,N,1,1,nasir-robinson-1,Nasir Robinson,2011
+2,65,5,2010-11-19,Pittsburgh,N,Texas,REG (Non-Conf),W 68-66,,24,2,5,0.4,0,0,,2,5,0.4,0.4,5,6,0.833,0,1,1,0,1,0,1,2,9,5.4,N,1,1,nasir-robinson-1,Nasir Robinson,2011
+3,66,6,2010-11-23,Pittsburgh,,Robert Morris,REG (Non-Conf),W 74-53,,23,1,5,0.2,0,0,,1,5,0.2,0.2,0,0,,2,9,11,0,0,0,3,1,2,-0.4,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+4,67,7,2010-11-27,Pittsburgh,,Pennsylvania,REG (Non-Conf),W 82-58,,14,3,4,0.75,0,0,,3,4,0.75,0.75,3,4,0.75,3,1,4,1,0,0,0,3,9,8.9,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+5,68,8,2010-12-01,Pittsburgh,N,Duquesne,REG (Non-Conf),W 80-66,,28,7,13,0.538,0,0,,7,13,0.538,0.538,0,2,0.0,6,6,12,1,0,0,1,4,14,11.0,N,1,1,nasir-robinson-1,Nasir Robinson,2011
+6,69,9,2010-12-04,Pittsburgh,,Rider,REG (Non-Conf),W 87-68,,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,5,0.2,0,3,3,2,1,0,1,2,7,5.3,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+7,70,10,2010-12-08,Pittsburgh,,Delaware State,REG (Non-Conf),W 70-42,,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,5,7,2,0,0,0,1,6,7.6,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+8,71,11,2010-12-11,Pittsburgh,N,Tennessee,REG (Non-Conf),L 76-83,,18,2,4,0.5,0,0,,2,4,0.5,0.5,1,4,0.25,1,1,2,1,0,0,2,4,5,-0.1,N,0,1,nasir-robinson-1,Nasir Robinson,2011
+9,72,12,2010-12-18,Pittsburgh,,Maryland Eastern Shore,REG (Non-Conf),W 97-64,,15,4,4,1.0,0,0,,4,4,1.0,1.0,0,1,0.0,0,8,8,1,0,0,3,2,8,5.7,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+10,73,13,2010-12-22,Pittsburgh,,American,REG (Non-Conf),W 61-46,,21,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,3,6,1,0,0,0,3,2,2.1,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+11,74,14,2010-12-27,Pittsburgh,,Connecticut,REG (Conf),W 78-63,*,32,4,8,0.5,0,0,,4,8,0.5,0.5,3,6,0.5,2,8,10,4,1,1,2,3,11,10.9,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+12,75,15,2011-01-04,Pittsburgh,@,Providence,REG (Conf),W 83-79,*,29,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,5,0.6,1,2,3,1,0,0,1,4,11,7.0,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+13,76,16,2011-01-08,Pittsburgh,,Marquette,REG (Conf),W 89-81,*,15,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,0,0,3,0,0,1,4,9,5.5,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+14,77,17,2011-01-12,Pittsburgh,@,Georgetown,REG (Conf),W 72-57,*,31,4,6,0.667,0,0,,4,6,0.667,0.667,0,0,,0,3,3,1,0,0,0,2,8,6.2,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+15,78,18,2011-01-15,Pittsburgh,,Seton Hall,REG (Conf),W 74-53,*,24,4,11,0.364,0,1,0.0,4,10,0.4,0.364,0,0,,4,0,4,2,0,0,2,1,8,3.7,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+16,79,19,2011-01-17,Pittsburgh,,Syracuse,REG (Conf),W 74-66,*,29,8,12,0.667,0,0,,8,12,0.667,0.667,5,8,0.625,3,4,7,2,0,0,3,1,21,15.9,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+17,80,20,2011-01-22,Pittsburgh,@,DePaul,REG (Conf),W 80-50,*,26,4,10,0.4,0,0,,4,10,0.4,0.4,0,0,,3,5,8,2,1,0,2,2,8,5.8,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+18,81,21,2011-01-24,Pittsburgh,,Notre Dame,REG (Conf),L 51-56,*,30,1,4,0.25,0,0,,1,4,0.25,0.25,2,4,0.5,4,1,5,1,1,0,1,3,4,3.4,H,0,1,nasir-robinson-1,Nasir Robinson,2011
+19,82,22,2011-01-29,Pittsburgh,@,Rutgers,REG (Conf),W 65-62,*,23,2,7,0.286,0,0,,2,7,0.286,0.286,0,1,0.0,2,1,3,1,0,2,1,1,4,1.9,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+20,83,23,2011-02-05,Pittsburgh,,Cincinnati,REG (Conf),W 71-59,*,21,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,2,3,3,1,0,2,3,7,5.8,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+21,84,24,2011-02-07,Pittsburgh,@,West Virginia,REG (Conf),W 71-66,*,33,7,12,0.583,0,0,,7,12,0.583,0.583,1,2,0.5,5,3,8,0,0,0,1,2,15,11.6,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+22,85,25,2011-02-12,Pittsburgh,@,Villanova,REG (Conf),W 57-54,*,38,3,6,0.5,0,0,,3,6,0.5,0.5,9,14,0.643,3,4,7,2,2,0,2,2,15,13.9,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+23,86,26,2011-02-16,Pittsburgh,,South Florida,REG (Conf),W 67-55,*,21,5,9,0.556,0,0,,5,9,0.556,0.556,3,6,0.5,4,6,10,0,1,0,2,3,13,9.9,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+24,87,27,2011-02-19,Pittsburgh,@,St. John's (NY),REG (Conf),L 59-60,*,29,3,4,0.75,0,0,,3,4,0.75,0.75,0,3,0.0,1,1,2,2,2,0,5,4,6,1.0,A,0,1,nasir-robinson-1,Nasir Robinson,2011
+25,88,28,2011-02-24,Pittsburgh,,West Virginia,REG (Conf),W 71-58,*,22,6,8,0.75,0,0,,6,8,0.75,0.75,3,7,0.429,1,1,2,0,1,0,1,4,15,9.6,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+26,89,29,2011-02-27,Pittsburgh,@,Louisville,REG (Conf),L 59-62 (OT),*,20,1,7,0.143,0,0,,1,7,0.143,0.143,1,2,0.5,1,1,2,1,0,0,5,2,3,-6.0,A,0,1,nasir-robinson-1,Nasir Robinson,2011
+27,90,30,2011-03-02,Pittsburgh,@,South Florida,REG (Conf),W 66-50,*,27,6,8,0.75,0,0,,6,8,0.75,0.75,6,9,0.667,2,8,10,0,0,0,2,3,18,14.2,A,1,1,nasir-robinson-1,Nasir Robinson,2011
+28,91,31,2011-03-05,Pittsburgh,,Villanova,REG (Conf),W 60-50,*,29,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,1,0,1,1,1,0,3,1,9,5.0,H,1,1,nasir-robinson-1,Nasir Robinson,2011
+29,92,32,2011-03-10,Pittsburgh,N,Connecticut,CTOURN,L 74-76,*,27,5,8,0.625,0,0,,5,8,0.625,0.625,1,2,0.5,1,2,3,2,0,0,2,4,11,6.1,N,0,0,nasir-robinson-1,Nasir Robinson,2011
+30,93,33,2011-03-17,Pittsburgh,N,UNC Asheville,ROUND-64,W 74-51,*,25,4,8,0.5,0,0,,4,8,0.5,0.5,4,8,0.5,2,1,3,2,0,0,2,1,12,7.1,N,1,0,nasir-robinson-1,Nasir Robinson,2011
+31,94,34,2011-03-19,Pittsburgh,N,Butler,ROUND-32,L 70-71,*,29,7,9,0.778,0,0,,7,9,0.778,0.778,2,4,0.5,1,1,2,0,0,0,0,4,16,11.1,N,0,0,nasir-robinson-1,Nasir Robinson,2011

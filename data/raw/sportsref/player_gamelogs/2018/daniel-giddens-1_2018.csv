@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,34,1,2017-11-10,Alabama,N,Memphis,REG (Non-Conf),W 82-70,*,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,2,4,0,-3.3,N,1,1,daniel-giddens-1,Daniel Giddens,2018
+2,35,2,2017-11-14,Alabama,,Lipscomb,REG (Non-Conf),W 86-64,*,15,1,2,0.5,0,0,1,2,0.5,0.5,1,7,0.143,0,5,5,0,1,3,1,2,3,2.4,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+3,36,3,2017-11-17,Alabama,,Alabama A&M,REG (Non-Conf),W 104-67,*,15,0,1,0.0,0,0,0,1,0.0,0.0,2,2,1.0,0,1,1,1,0,1,1,5,2,0.0,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+4,37,4,2017-11-21,Alabama,,UT Arlington,REG (Non-Conf),W 77-76,*,11,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,0,1,0,0,1,0,1,4,3.7,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+5,38,5,2017-11-24,Alabama,N,Brigham Young,REG (Non-Conf),W 71-59,*,21,3,4,0.75,0,0,3,4,0.75,0.75,2,2,1.0,0,2,2,1,1,3,0,1,8,10.4,N,1,1,daniel-giddens-1,Daniel Giddens,2018
+6,39,6,2017-11-25,Alabama,N,Minnesota,REG (Non-Conf),L 84-89,*,9,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,1,0,0,2,2,0,-1.8,N,0,1,daniel-giddens-1,Daniel Giddens,2018
+7,40,7,2017-11-29,Alabama,,Louisiana Tech,REG (Non-Conf),W 77-74,*,5,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,2,0,-0.9,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+8,41,8,2017-12-03,Alabama,,UCF,REG (Non-Conf),L 62-65,,9,2,5,0.4,0,0,2,5,0.4,0.4,0,1,0.0,0,3,3,0,0,4,0,3,4,3.4,H,0,1,daniel-giddens-1,Daniel Giddens,2018
+9,42,9,2017-12-06,Alabama,,Rhode Island,REG (Non-Conf),W 68-64,,17,5,9,0.556,0,0,5,9,0.556,0.556,2,3,0.667,3,3,6,0,1,2,2,2,12,9.9,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+10,43,10,2017-12-09,Alabama,@,Arizona,REG (Non-Conf),L 82-88,,19,4,7,0.571,0,0,4,7,0.571,0.571,0,0,,0,2,2,0,0,1,1,4,8,3.4,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+11,44,11,2017-12-19,Alabama,N,Mercer,REG (Non-Conf),W 80-79,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,1,2,3,0,0,2,2,4,4,1.4,N,1,1,daniel-giddens-1,Daniel Giddens,2018
+12,45,12,2017-12-22,Alabama,N,Texas,REG (Non-Conf),L 50-66,,21,5,8,0.625,0,0,5,8,0.625,0.625,0,0,,2,4,6,0,0,0,0,3,10,7.8,N,0,1,daniel-giddens-1,Daniel Giddens,2018
+13,46,13,2017-12-30,Alabama,,Texas A&M,REG (Conf),W 79-57,,15,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,0,2,2,0,0,2,0,1,2,1.2,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+14,47,14,2018-01-02,Alabama,@,Vanderbilt,REG (Conf),L 75-76,,12,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,0,1,1,1,1,0,0,4,5,4.0,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+15,48,15,2018-01-06,Alabama,@,Georgia,REG (Conf),L 46-65,,22,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,3,3,1,1,3,0,4,0,2.4,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+16,49,16,2018-01-09,Alabama,,South Carolina,REG (Conf),W 76-62,*,22,5,5,1.0,0,0,5,5,1.0,1.0,1,1,1.0,0,1,1,0,1,1,1,4,11,8.9,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+17,50,17,2018-01-13,Alabama,@,Louisiana State,REG (Conf),W 74-66,*,8,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,2,0,2,0,0,1,1,4,2,1.2,A,1,1,daniel-giddens-1,Daniel Giddens,2018
+18,51,18,2018-01-17,Alabama,,Auburn,REG (Conf),W 76-71,*,13,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,2,2,0,0,1,2,3,3,0.4,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+19,52,19,2018-01-20,Alabama,,Mississippi State,REG (Conf),W 68-62,*,22,5,7,0.714,0,0,5,7,0.714,0.714,3,6,0.5,3,1,4,1,1,3,0,4,13,13.5,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+20,53,20,2018-01-23,Alabama,@,Ole Miss,REG (Conf),L 66-78,*,18,2,4,0.5,0,0,2,4,0.5,0.5,2,2,1.0,0,1,1,0,0,0,2,4,6,0.7,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+21,54,21,2018-01-27,Alabama,,Oklahoma,REG (Non-Conf),W 80-73,,17,2,2,1.0,0,0,2,2,1.0,1.0,0,1,0.0,2,7,9,0,0,2,3,1,4,4.5,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+22,55,22,2018-01-31,Alabama,,Missouri,REG (Conf),L 60-69,,14,1,3,0.333,0,0,1,3,0.333,0.333,1,2,0.5,0,0,0,0,1,1,2,4,3,-1.0,H,0,1,daniel-giddens-1,Daniel Giddens,2018
+23,56,23,2018-02-03,Alabama,@,Florida,REG (Conf),W 68-50,*,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.8,A,1,1,daniel-giddens-1,Daniel Giddens,2018
+24,57,24,2018-02-06,Alabama,@,Mississippi State,REG (Conf),L 63-67,*,15,4,5,0.8,0,0,4,5,0.8,0.8,3,3,1.0,2,0,2,0,1,0,1,5,11,8.5,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+25,58,25,2018-02-10,Alabama,,Tennessee,REG (Conf),W 78-50,*,14,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,2,4,6,0,2,0,2,4,2,2.0,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+26,59,26,2018-02-13,Alabama,,Louisiana State,REG (Conf),W 80-65,*,13,1,1,1.0,0,0,1,1,1.0,1.0,2,2,1.0,0,4,4,1,0,0,0,4,4,4.0,H,1,1,daniel-giddens-1,Daniel Giddens,2018
+27,60,27,2018-02-17,Alabama,@,Kentucky,REG (Conf),L 71-81,*,15,1,1,1.0,0,0,1,1,1.0,1.0,0,1,0.0,1,0,1,0,0,0,3,2,2,-1.8,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+28,61,28,2018-02-21,Alabama,@,Auburn,REG (Conf),L 71-90,*,4,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,1,1,0,-1.8,A,0,1,daniel-giddens-1,Daniel Giddens,2018
+29,62,29,2018-02-24,Alabama,,Arkansas,REG (Conf),L 73-76,,12,0,0,,0,0,0,0,,,0,0,,0,0,0,0,1,1,2,1,0,-0.7,H,0,1,daniel-giddens-1,Daniel Giddens,2018
+30,63,30,2018-02-27,Alabama,,Florida,REG (Conf),L 52-73,,11,2,4,0.5,0,0,2,4,0.5,0.5,3,5,0.6,3,1,4,0,0,0,1,1,7,5.2,H,0,1,daniel-giddens-1,Daniel Giddens,2018
+31,64,32,2018-03-08,Alabama,N,Texas A&M,CTOURN,W 71-70,,8,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,0,1,1,0,0,0,0,3,2,-0.6,N,1,0,daniel-giddens-1,Daniel Giddens,2018
+32,65,33,2018-03-09,Alabama,N,Auburn,CTOURN,W 81-63,,1,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,N,1,0,daniel-giddens-1,Daniel Giddens,2018
+33,66,34,2018-03-10,Alabama,N,Kentucky,CTOURN,L 63-86,,22,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,5,2,7,1,1,3,1,3,5,9.0,N,0,0,daniel-giddens-1,Daniel Giddens,2018
+34,67,36,2018-03-17,Alabama,N,Villanova,ROUND-32,L 58-81,,11,3,3,1.0,0,0,3,3,1.0,1.0,1,1,1.0,0,1,1,0,1,0,0,2,7,6.6,N,0,0,daniel-giddens-1,Daniel Giddens,2018

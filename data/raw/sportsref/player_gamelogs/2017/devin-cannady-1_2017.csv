@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2016-11-14,Princeton,@,Brigham Young,REG (Non-Conf),L 73-82,,30,6,14,0.429,4,10,0.4,2,4,0.5,0.571,2,2,1.0,1,5,6,1,1,0,1,4,18,11.9,A,0,1,devin-cannady-1,Devin Cannady,2017
+2,31,2,2016-11-20,Princeton,@,Lehigh,REG (Non-Conf),L 67-76,,28,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,1,1,1,2,0,0,4,5,2.3,A,0,1,devin-cannady-1,Devin Cannady,2017
+3,32,3,2016-11-23,Princeton,@,Lafayette,REG (Non-Conf),W 71-55,,31,4,8,0.5,3,7,0.429,1,1,1.0,0.688,0,0,,0,7,7,5,1,0,0,1,11,13.2,A,1,1,devin-cannady-1,Devin Cannady,2017
+4,33,4,2016-11-25,Princeton,,Rowan,REG (Non-Conf),W 108-46,,13,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,3,3,2,0,0,0,0,6,7.7,H,1,1,devin-cannady-1,Devin Cannady,2017
+5,34,5,2016-11-29,Princeton,@,VCU,REG (Non-Conf),L 70-81,,25,5,7,0.714,3,4,0.75,2,3,0.667,0.929,3,4,0.75,0,0,0,1,1,0,5,1,16,9.0,A,0,1,devin-cannady-1,Devin Cannady,2017
+6,35,6,2016-12-06,Princeton,N,California,REG (Non-Conf),L 51-62,*,33,4,15,0.267,1,8,0.125,3,7,0.429,0.3,7,7,1.0,0,4,4,0,1,0,0,4,16,7.7,N,0,1,devin-cannady-1,Devin Cannady,2017
+7,36,7,2016-12-07,Princeton,N,Hawaii,REG (Non-Conf),W 75-62,*,23,1,4,0.25,0,2,0.0,1,2,0.5,0.25,4,4,1.0,0,1,1,1,0,0,3,3,6,0.4,N,1,1,devin-cannady-1,Devin Cannady,2017
+8,37,8,2016-12-10,Princeton,@,Liberty,REG (Non-Conf),W 67-64,*,28,3,8,0.375,2,7,0.286,1,1,1.0,0.5,2,2,1.0,0,2,2,1,0,0,1,1,10,5.5,A,1,1,devin-cannady-1,Devin Cannady,2017
+9,38,9,2016-12-14,Princeton,,Saint Joseph's,REG (Non-Conf),L 68-76,*,35,6,16,0.375,5,13,0.385,1,3,0.333,0.531,0,0,,0,1,1,2,0,1,4,3,17,5.4,H,0,1,devin-cannady-1,Devin Cannady,2017
+10,39,10,2016-12-20,Princeton,@,Monmouth,REG (Non-Conf),L 90-96,*,40,9,20,0.45,5,13,0.385,4,7,0.571,0.575,3,3,1.0,0,8,8,4,1,0,3,3,26,17.6,A,0,1,devin-cannady-1,Devin Cannady,2017
+11,40,11,2016-12-22,Princeton,@,Bucknell,REG (Non-Conf),W 72-70,*,33,4,6,0.667,3,5,0.6,1,1,1.0,0.917,8,10,0.8,2,5,7,1,2,1,0,2,19,21.1,A,1,1,devin-cannady-1,Devin Cannady,2017
+12,41,12,2016-12-28,Princeton,,Hampton,REG (Non-Conf),W 77-49,*,34,4,8,0.5,2,6,0.333,2,2,1.0,0.625,0,0,,1,1,2,4,2,0,2,1,10,9.4,H,1,1,devin-cannady-1,Devin Cannady,2017
+13,42,13,2016-12-31,Princeton,,Cal Poly,REG (Non-Conf),W 81-52,*,30,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,0,,0,1,1,4,0,0,0,1,10,10.1,H,1,1,devin-cannady-1,Devin Cannady,2017
+14,43,14,2017-01-07,Princeton,,Pennsylvania,REG (Conf),W 61-52,*,37,5,14,0.357,0,6,0.0,5,8,0.625,0.357,6,6,1.0,0,2,2,0,0,1,1,1,16,8.1,H,1,1,devin-cannady-1,Devin Cannady,2017
+15,44,15,2017-01-13,Princeton,,Brown,REG (Conf),W 97-66,*,29,10,14,0.714,7,9,0.778,3,5,0.6,0.964,2,2,1.0,0,2,2,2,2,0,1,2,29,25.4,H,1,1,devin-cannady-1,Devin Cannady,2017
+16,45,16,2017-01-14,Princeton,,Yale,REG (Conf),W 66-58,*,37,2,11,0.182,1,6,0.167,1,5,0.2,0.227,2,3,0.667,0,4,4,3,1,0,0,0,7,4.0,H,1,1,devin-cannady-1,Devin Cannady,2017
+17,46,17,2017-02-03,Princeton,@,Dartmouth,REG (Conf),W 69-64,*,37,3,11,0.273,2,6,0.333,1,5,0.2,0.364,4,4,1.0,0,3,3,1,0,0,1,0,12,6.1,A,1,1,devin-cannady-1,Devin Cannady,2017
+18,47,18,2017-02-04,Princeton,@,Harvard,REG (Conf),W 57-56,*,32,0,8,0.0,0,5,0.0,0,3,0.0,0.0,0,0,,0,2,2,2,1,0,0,2,0,-3.4,A,1,1,devin-cannady-1,Devin Cannady,2017
+19,48,19,2017-02-07,Princeton,@,Pennsylvania,REG (Conf),W 64-49,*,30,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,0,4,4,2,1,2,0,2,6,6.8,A,1,1,devin-cannady-1,Devin Cannady,2017
+20,49,20,2017-02-10,Princeton,,Cornell,REG (Conf),W 69-60,*,34,3,6,0.5,2,4,0.5,1,2,0.5,0.667,6,6,1.0,0,7,7,1,2,0,2,1,14,13.4,H,1,1,devin-cannady-1,Devin Cannady,2017
+21,50,21,2017-02-11,Princeton,,Columbia,REG (Conf),W 61-59,*,31,3,9,0.333,3,7,0.429,0,2,0.0,0.5,2,2,1.0,0,3,3,2,1,0,1,2,11,7.4,H,1,1,devin-cannady-1,Devin Cannady,2017
+22,51,22,2017-02-17,Princeton,@,Yale,REG (Conf),W 71-52,*,36,9,11,0.818,7,8,0.875,2,3,0.667,1.136,4,4,1.0,0,3,3,2,1,0,1,1,29,26.8,A,1,1,devin-cannady-1,Devin Cannady,2017
+23,52,23,2017-02-18,Princeton,@,Brown,REG (Conf),W 66-51,*,37,3,12,0.25,1,6,0.167,2,6,0.333,0.292,2,3,0.667,1,4,5,4,3,1,2,2,9,7.0,A,1,1,devin-cannady-1,Devin Cannady,2017
+24,53,24,2017-02-24,Princeton,@,Columbia,REG (Conf),W 64-45,*,32,6,14,0.429,6,11,0.545,0,3,0.0,0.643,0,0,,0,4,4,1,1,0,2,3,18,10.3,A,1,1,devin-cannady-1,Devin Cannady,2017
+25,54,25,2017-02-25,Princeton,@,Cornell,REG (Conf),W 75-60,*,37,9,15,0.6,6,10,0.6,3,5,0.6,0.8,2,2,1.0,1,4,5,1,2,0,1,1,26,22.3,A,1,1,devin-cannady-1,Devin Cannady,2017
+26,55,26,2017-03-03,Princeton,,Harvard,REG (Conf),W 73-69,*,34,4,12,0.333,3,8,0.375,1,4,0.25,0.458,2,2,1.0,0,0,0,1,4,0,0,2,13,10.1,H,1,1,devin-cannady-1,Devin Cannady,2017
+27,56,27,2017-03-04,Princeton,,Dartmouth,REG (Conf),W 85-48,,17,4,7,0.571,3,5,0.6,1,2,0.5,0.786,0,0,,0,2,2,0,1,1,0,3,11,8.8,H,1,1,devin-cannady-1,Devin Cannady,2017
+28,57,28,2017-03-11,Princeton,N,Pennsylvania,CTOURN,W 72-64 (OT),*,37,1,8,0.125,0,2,0.0,1,6,0.167,0.125,10,10,1.0,0,11,11,2,2,1,2,2,12,11.4,N,1,0,devin-cannady-1,Devin Cannady,2017
+29,58,29,2017-03-12,Princeton,N,Yale,CTOURN,W 71-59,*,34,3,6,0.5,3,6,0.5,0,0,,0.75,4,4,1.0,1,3,4,0,0,0,1,3,13,9.4,N,1,0,devin-cannady-1,Devin Cannady,2017
+30,59,30,2017-03-16,Princeton,N,Notre Dame,ROUND-64,L 58-60,*,30,2,11,0.182,2,10,0.2,0,1,0.0,0.273,1,1,1.0,2,1,3,3,0,0,1,1,7,2.5,N,0,0,devin-cannady-1,Devin Cannady,2017

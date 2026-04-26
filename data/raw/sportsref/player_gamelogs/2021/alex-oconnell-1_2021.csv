@@ -1,0 +1,25 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,102,7,2020-12-17,Creighton,@,St. John's (NY),REG (Conf),W 94-76,,12,3,7,0.429,0,1,0.0,3,6,0.5,0.429,0,0,,0,2,2,1,1,0,1,0,6,3.6,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+2,103,8,2020-12-20,Creighton,@,Connecticut,REG (Conf),W 76-74 (OT),,8,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,1,2,1.9,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+3,104,9,2020-12-23,Creighton,,Xavier,REG (Conf),W 66-61,,10,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,2,3,5,0,0,0,0,1,4,2.5,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+4,105,10,2021-01-02,Creighton,@,Providence,REG (Conf),W 67-65,,3,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,0,0,-0.8,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+5,106,11,2021-01-06,Creighton,,Seton Hall,REG (Conf),W 89-53,,13,2,4,0.5,1,1,1.0,1,3,0.333,0.625,1,2,0.5,1,2,3,0,1,0,0,0,6,5.9,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+6,107,12,2021-01-09,Creighton,,St. John's (NY),REG (Conf),W 97-79,,17,6,7,0.857,4,5,0.8,2,2,1.0,1.143,0,1,0.0,1,5,6,2,1,0,1,2,16,15.9,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+7,108,13,2021-01-16,Creighton,@,Butler,REG (Conf),L 66-70 (OT),,11,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,3,3,1,0,0,0,1,2,1.5,A,0,1,alex-oconnell-1,Alex O'Connell,2021
+8,109,14,2021-01-20,Creighton,,Providence,REG (Conf),L 70-74,,10,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,3,3,1,0,0,1,0,0,-2.9,H,0,1,alex-oconnell-1,Alex O'Connell,2021
+9,110,16,2021-01-27,Creighton,@,Seton Hall,REG (Conf),W 85-81,,8,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,1,1,0,1,0,0,1,3,2.2,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+10,111,17,2021-01-30,Creighton,@,DePaul,REG (Conf),W 69-62,,11,1,6,0.167,0,2,0.0,1,4,0.25,0.167,0,0,,1,1,2,1,1,0,0,1,2,0.5,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+11,112,18,2021-02-03,Creighton,,Georgetown,REG (Conf),L 79-86,,6,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,H,0,1,alex-oconnell-1,Alex O'Connell,2021
+12,113,19,2021-02-06,Creighton,@,Marquette,REG (Conf),W 71-68,,12,2,2,1.0,2,2,1.0,0,0,,1.5,0,0,,0,0,0,1,0,0,1,1,6,4.7,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+13,114,20,2021-02-09,Creighton,@,Georgetown,REG (Conf),W 63-48,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,2,2,0,1,0,0,1,2,0.8,A,1,1,alex-oconnell-1,Alex O'Connell,2021
+14,115,21,2021-02-13,Creighton,,Villanova,REG (Conf),W 86-70,,11,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+15,116,22,2021-02-24,Creighton,,DePaul,REG (Conf),W 77-53,,13,4,6,0.667,2,4,0.5,2,2,1.0,0.833,0,1,0.0,0,1,1,0,0,0,0,2,10,6.5,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+16,117,23,2021-02-27,Creighton,@,Xavier,REG (Conf),L 69-77,,6,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,A,0,1,alex-oconnell-1,Alex O'Connell,2021
+17,118,24,2021-03-03,Creighton,@,Villanova,REG (Conf),L 60-72,,13,0,4,0.0,0,2,0.0,0,2,0.0,0.0,0,0,,1,2,3,1,1,0,1,1,0,-1.2,A,0,1,alex-oconnell-1,Alex O'Connell,2021
+18,119,25,2021-03-06,Creighton,,Butler,REG (Conf),W 93-73,,5,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,2,2,2,-1.8,H,1,1,alex-oconnell-1,Alex O'Connell,2021
+19,120,26,2021-03-11,Creighton,N,Butler,CTOURN,W 87-56,,10,2,4,0.5,0,2,0.0,2,2,1.0,0.5,2,2,1.0,0,2,2,3,1,0,0,1,6,7.3,N,1,0,alex-oconnell-1,Alex O'Connell,2021
+20,121,27,2021-03-12,Creighton,N,Connecticut,CTOURN,W 59-56,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,3,5,8,0,1,0,0,1,2,5.9,N,1,0,alex-oconnell-1,Alex O'Connell,2021
+21,122,28,2021-03-13,Creighton,N,Georgetown,CTOURN,L 48-73,,21,3,12,0.25,3,8,0.375,0,4,0.0,0.375,2,2,1.0,1,2,3,0,0,0,0,2,11,4.3,N,0,0,alex-oconnell-1,Alex O'Connell,2021
+22,123,29,2021-03-20,Creighton,N,UC Santa Barbara,ROUND-64,W 63-62,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,N,1,0,alex-oconnell-1,Alex O'Connell,2021
+23,124,30,2021-03-22,Creighton,N,Ohio,ROUND-32,W 72-58,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,0,0,0,1,0,0,-0.7,N,1,0,alex-oconnell-1,Alex O'Connell,2021
+24,125,31,2021-03-28,Creighton,N,Gonzaga,ROUND-16,L 65-83,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,1,2,0.9,N,0,0,alex-oconnell-1,Alex O'Connell,2021

@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-13,Kentucky,,Albany (NY),REG (Non-Conf),W 78-65,*,30,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,1,4,5,0,0,4,3,2,9,7.2,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+2,2,2,2015-11-14,Kentucky,,NJIT,REG (Non-Conf),W 87-57,*,21,10,12,0.833,0,0,,10,12,0.833,0.833,6,6,1.0,3,2,5,0,1,2,3,3,26,22.5,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+3,3,3,2015-11-17,Kentucky,N,Duke,REG (Non-Conf),W 74-63,*,13,3,5,0.6,0,0,,3,5,0.6,0.6,1,2,0.5,2,2,4,1,0,1,2,5,7,3.7,N,1,1,skal-labissiere-1,Skal Labissiere,2016
+4,4,4,2015-11-20,Kentucky,,Wright State,REG (Non-Conf),W 78-63,*,24,6,12,0.5,0,0,,6,12,0.5,0.5,1,5,0.2,2,1,3,0,0,1,1,4,13,5.2,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+5,5,5,2015-11-24,Kentucky,,Boston University,REG (Non-Conf),W 82-62,*,29,7,13,0.538,0,0,,7,13,0.538,0.538,2,5,0.4,2,5,7,0,1,3,2,3,16,11.3,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+6,6,6,2015-11-27,Kentucky,N,South Florida,REG (Non-Conf),W 84-63,*,29,5,8,0.625,0,0,,5,8,0.625,0.625,7,8,0.875,0,4,4,2,1,3,0,3,17,17.5,N,1,1,skal-labissiere-1,Skal Labissiere,2016
+7,7,7,2015-11-30,Kentucky,,Illinois State,REG (Non-Conf),W 75-63,*,16,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,2,2,0,0,1,1,3,2,0.4,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+8,8,8,2015-12-03,Kentucky,@,UCLA,REG (Non-Conf),L 77-87,*,16,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,0,1,1,0,0,2,1,4,6,3.8,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+9,9,9,2015-12-09,Kentucky,,Eastern Kentucky,REG (Non-Conf),W 88-67,*,25,3,6,0.5,0,0,,3,6,0.5,0.5,4,4,1.0,2,2,4,2,0,3,3,3,10,8.3,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+10,10,10,2015-12-12,Kentucky,,Arizona State,REG (Non-Conf),W 72-58,*,13,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,0,0,0,0,1,1,5,0,-3.7,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+11,11,11,2015-12-19,Kentucky,N,Ohio State,REG (Non-Conf),L 67-74,*,21,1,7,0.143,0,0,,1,7,0.143,0.143,0,0,,1,4,5,0,0,2,0,1,2,0.4,N,0,1,skal-labissiere-1,Skal Labissiere,2016
+12,12,12,2015-12-26,Kentucky,,Louisville,REG (Non-Conf),W 75-73,,10,0,3,0.0,0,0,,0,3,0.0,0.0,2,2,1.0,1,2,3,0,1,0,0,2,2,1.4,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+13,13,13,2016-01-02,Kentucky,,Ole Miss,REG (Conf),W 83-61,,14,4,7,0.571,0,0,,4,7,0.571,0.571,1,2,0.5,3,0,3,0,0,0,0,5,9,5.4,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+14,14,14,2016-01-05,Kentucky,@,Louisiana State,REG (Conf),L 67-85,,16,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,1,1,2,0,0,0,1,2,3,0.1,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+15,15,15,2016-01-09,Kentucky,@,Alabama,REG (Conf),W 77-61,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,3,0,-0.9,A,1,1,skal-labissiere-1,Skal Labissiere,2016
+16,16,16,2016-01-12,Kentucky,,Mississippi State,REG (Conf),W 80-74,,14,2,3,0.667,0,0,,2,3,0.667,0.667,1,2,0.5,1,3,4,0,0,1,1,1,5,4.2,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+17,17,17,2016-01-16,Kentucky,@,Auburn,REG (Conf),L 70-75,,8,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,2,2,0,0,1,1,3,4,1.8,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+18,18,18,2016-01-21,Kentucky,@,Arkansas,REG (Conf),W 80-66,,20,4,10,0.4,0,0,,4,10,0.4,0.4,3,4,0.75,2,1,3,0,1,3,0,4,11,8.4,A,1,1,skal-labissiere-1,Skal Labissiere,2016
+19,19,19,2016-01-23,Kentucky,,Vanderbilt,REG (Conf),W 76-57,,4,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,2,0,-1.5,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+20,20,20,2016-01-27,Kentucky,,Missouri,REG (Conf),W 88-54,,18,6,8,0.75,0,0,,6,8,0.75,0.75,0,1,0.0,0,0,0,0,1,5,2,1,12,10.5,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+21,21,21,2016-01-30,Kentucky,@,Kansas,REG (Non-Conf),L 84-90 (OT),,14,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,0,0,0,0,0,1,1,5,4,0.4,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+22,22,22,2016-02-02,Kentucky,@,Tennessee,REG (Conf),L 77-84,,11,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,2,2,1,0,3,1,2,2,2.6,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+23,23,23,2016-02-06,Kentucky,,Florida,REG (Conf),W 80-61,,15,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,2,3,0,0,1,3,4,2,-2.3,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+24,24,24,2016-02-09,Kentucky,,Georgia,REG (Conf),W 82-48,,18,3,9,0.333,0,1,0.0,3,8,0.375,0.333,0,0,,4,3,7,0,0,1,0,5,6,3.3,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+25,25,25,2016-02-13,Kentucky,@,South Carolina,REG (Conf),W 89-62,,16,2,4,0.5,0,0,,2,4,0.5,0.5,0,0,,1,0,1,0,1,1,1,4,4,1.8,A,1,1,skal-labissiere-1,Skal Labissiere,2016
+26,26,26,2016-02-18,Kentucky,,Tennessee,REG (Conf),W 80-70,,14,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,1,3,4,1,0,0,1,3,4,0.7,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+27,27,27,2016-02-20,Kentucky,@,Texas A&M,REG (Conf),L 77-79 (OT),,9,1,1,1.0,0,0,,1,1,1.0,1.0,1,2,0.5,1,2,3,0,0,1,0,2,3,3.5,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+28,28,28,2016-02-23,Kentucky,,Alabama,REG (Conf),W 78-53,,9,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,2,2,0,0,1,0,1,2,1.2,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+29,29,29,2016-02-27,Kentucky,@,Vanderbilt,REG (Conf),L 62-74,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,1,0,4,0,-1.3,A,0,1,skal-labissiere-1,Skal Labissiere,2016
+30,30,30,2016-03-01,Kentucky,@,Florida,REG (Conf),W 88-79,*,15,5,10,0.5,0,0,,5,10,0.5,0.5,1,4,0.25,3,5,8,0,1,1,1,4,11,7.5,A,1,1,skal-labissiere-1,Skal Labissiere,2016
+31,31,31,2016-03-05,Kentucky,,Louisiana State,REG (Conf),W 94-77,*,25,8,10,0.8,0,0,,8,10,0.8,0.8,2,3,0.667,2,7,9,2,0,6,2,1,18,20.5,H,1,1,skal-labissiere-1,Skal Labissiere,2016
+32,32,32,2016-03-11,Kentucky,N,Alabama,CTOURN,W 85-59,*,18,3,6,0.5,0,0,,3,6,0.5,0.5,1,2,0.5,1,4,5,0,0,0,0,2,7,4.7,N,1,0,skal-labissiere-1,Skal Labissiere,2016
+33,33,33,2016-03-12,Kentucky,N,Georgia,CTOURN,W 93-80,*,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,0,0,0,0,0,0,3,2,0.5,N,1,0,skal-labissiere-1,Skal Labissiere,2016
+34,34,34,2016-03-13,Kentucky,N,Texas A&M,CTOURN,W 82-77 (OT),*,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,1,0,2,0,3,2,2.2,N,1,0,skal-labissiere-1,Skal Labissiere,2016
+35,35,35,2016-03-17,Kentucky,N,Stony Brook,ROUND-64,W 85-57,*,23,6,10,0.6,0,0,,6,10,0.6,0.6,0,0,,0,4,4,1,1,6,0,3,12,13.3,N,1,0,skal-labissiere-1,Skal Labissiere,2016
+36,36,36,2016-03-19,Kentucky,N,Indiana,ROUND-32,L 67-73,*,15,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,0,5,5,0,0,0,1,3,4,-0.1,N,0,0,skal-labissiere-1,Skal Labissiere,2016

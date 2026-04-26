@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2011-11-12,Georgetown,,Savannah State,REG (Non-Conf),W 83-54,*,31,4,7,0.571,1,3,0.333,3,4,0.75,0.643,0,0,,0,1,1,2,2,0,2,1,9,7.0,H,1,1,jason-clark-1,Jason Clark,2012
+2,98,2,2011-11-14,Georgetown,,UNC Greensboro,REG (Non-Conf),W 86-45,*,20,7,18,0.389,1,7,0.143,6,11,0.545,0.417,2,2,1.0,4,1,5,3,3,0,1,2,17,13.6,H,1,1,jason-clark-1,Jason Clark,2012
+3,99,3,2011-11-21,Georgetown,N,Kansas,REG (Non-Conf),L 63-67,*,31,5,13,0.385,2,6,0.333,3,7,0.429,0.462,3,5,0.6,0,5,5,1,2,0,2,3,15,8.1,N,0,1,jason-clark-1,Jason Clark,2012
+4,100,4,2011-11-22,Georgetown,@,Chaminade,REG (Non-Conf),W 88-61,*,24,10,12,0.833,6,7,0.857,4,5,0.8,1.083,2,2,1.0,3,2,5,1,0,0,2,0,28,25.0,A,1,1,jason-clark-1,Jason Clark,2012
+5,101,5,2011-11-23,Georgetown,N,Memphis,REG (Non-Conf),W 91-88 (OT),*,39,9,17,0.529,4,7,0.571,5,10,0.5,0.647,4,5,0.8,0,3,3,1,2,0,3,4,26,16.3,N,1,1,jason-clark-1,Jason Clark,2012
+6,102,6,2011-11-28,Georgetown,,IUPUI,REG (Non-Conf),W 81-58,*,29,1,7,0.143,0,4,0.0,1,3,0.333,0.143,5,6,0.833,0,3,3,0,0,0,2,1,7,0.6,H,1,1,jason-clark-1,Jason Clark,2012
+7,103,7,2011-12-01,Georgetown,@,Alabama,REG (Non-Conf),W 57-55,*,36,7,11,0.636,4,7,0.571,3,4,0.75,0.818,4,4,1.0,1,1,2,1,1,0,2,1,22,17.4,A,1,1,jason-clark-1,Jason Clark,2012
+8,104,8,2011-12-03,Georgetown,,NJIT,REG (Non-Conf),W 84-44,*,18,2,5,0.4,2,5,0.4,0,0,,0.6,4,4,1.0,2,3,5,1,0,0,5,0,10,5.3,H,1,1,jason-clark-1,Jason Clark,2012
+9,105,9,2011-12-10,Georgetown,,Howard,REG (Non-Conf),W 62-48,*,32,1,10,0.1,0,2,0.0,1,8,0.125,0.1,10,10,1.0,0,3,3,1,3,0,2,2,12,7.2,H,1,1,jason-clark-1,Jason Clark,2012
+10,106,10,2011-12-17,Georgetown,,American,REG (Non-Conf),W 81-55,*,29,3,7,0.429,1,5,0.2,2,2,1.0,0.5,2,2,1.0,0,3,3,2,4,0,3,4,9,7.0,H,1,1,jason-clark-1,Jason Clark,2012
+11,107,11,2011-12-22,Georgetown,,Memphis,REG (Non-Conf),W 70-59,*,37,7,12,0.583,1,3,0.333,6,9,0.667,0.625,3,6,0.5,2,3,5,1,4,0,3,2,18,14.4,H,1,1,jason-clark-1,Jason Clark,2012
+12,108,12,2011-12-28,Georgetown,@,Louisville,REG (Conf),W 71-68,*,30,2,8,0.25,0,1,0.0,2,7,0.286,0.25,3,5,0.6,1,4,5,1,0,2,1,3,7,3.2,A,1,1,jason-clark-1,Jason Clark,2012
+13,109,13,2011-12-31,Georgetown,,Providence,REG (Conf),W 49-40,*,34,6,12,0.5,1,4,0.25,5,8,0.625,0.542,3,3,1.0,2,6,8,1,3,0,1,1,16,15.5,H,1,1,jason-clark-1,Jason Clark,2012
+14,110,14,2012-01-04,Georgetown,,Marquette,REG (Conf),W 73-70,*,36,9,14,0.643,2,7,0.286,7,7,1.0,0.714,6,13,0.462,0,5,5,1,1,0,1,3,26,18.0,H,1,1,jason-clark-1,Jason Clark,2012
+15,111,15,2012-01-07,Georgetown,@,West Virginia,REG (Conf),L 62-74,*,29,5,12,0.417,0,4,0.0,5,8,0.625,0.417,0,0,,0,3,3,2,5,2,2,4,10,8.7,A,0,1,jason-clark-1,Jason Clark,2012
+16,112,16,2012-01-09,Georgetown,,Cincinnati,REG (Conf),L 64-68,*,35,6,7,0.857,0,1,0.0,6,6,1.0,0.857,2,3,0.667,0,2,2,2,1,2,4,2,14,10.7,H,0,1,jason-clark-1,Jason Clark,2012
+17,113,17,2012-01-15,Georgetown,@,St. John's (NY),REG (Conf),W 69-49,*,32,6,13,0.462,1,5,0.2,5,8,0.625,0.5,2,2,1.0,2,6,8,8,1,0,3,3,15,13.9,A,1,1,jason-clark-1,Jason Clark,2012
+18,114,18,2012-01-17,Georgetown,@,DePaul,REG (Conf),W 83-75,*,36,11,14,0.786,5,7,0.714,6,7,0.857,0.964,4,9,0.444,1,4,5,2,4,1,3,3,31,27.4,A,1,1,jason-clark-1,Jason Clark,2012
+19,115,19,2012-01-21,Georgetown,,Rutgers,REG (Conf),W 52-50,*,35,1,4,0.25,1,3,0.333,0,1,0.0,0.375,8,10,0.8,1,4,5,1,2,1,3,2,11,9.3,H,1,1,jason-clark-1,Jason Clark,2012
+20,116,20,2012-01-28,Georgetown,@,Pittsburgh,REG (Conf),L 60-72,*,38,3,9,0.333,0,5,0.0,3,4,0.75,0.333,3,5,0.6,0,1,1,2,0,0,1,2,9,3.0,A,0,1,jason-clark-1,Jason Clark,2012
+21,117,21,2012-02-01,Georgetown,,Connecticut,REG (Conf),W 58-44,*,33,5,9,0.556,1,2,0.5,4,7,0.571,0.611,0,1,0.0,0,5,5,2,1,0,1,3,11,8.0,H,1,1,jason-clark-1,Jason Clark,2012
+22,118,22,2012-02-04,Georgetown,,South Florida,REG (Conf),W 75-45,*,33,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,0,4,4,2,1,0,2,1,11,8.9,H,1,1,jason-clark-1,Jason Clark,2012
+23,119,23,2012-02-08,Georgetown,@,Syracuse,REG (Conf),L 61-64 (OT),*,33,5,8,0.625,2,5,0.4,3,3,1.0,0.75,0,0,,1,1,2,1,2,0,4,3,12,6.9,A,0,1,jason-clark-1,Jason Clark,2012
+24,120,24,2012-02-12,Georgetown,,St. John's (NY),REG (Conf),W 71-61,*,36,4,13,0.308,1,8,0.125,3,5,0.6,0.346,2,3,0.667,2,4,6,3,2,0,2,3,11,6.6,H,1,1,jason-clark-1,Jason Clark,2012
+25,121,25,2012-02-18,Georgetown,@,Providence,REG (Conf),W 63-53,*,37,4,11,0.364,3,7,0.429,1,4,0.25,0.5,2,3,0.667,1,5,6,4,1,0,2,1,13,10.1,A,1,1,jason-clark-1,Jason Clark,2012
+26,122,26,2012-02-21,Georgetown,@,Seton Hall,REG (Conf),L 55-73,*,29,2,4,0.5,1,3,0.333,1,1,1.0,0.625,2,2,1.0,0,1,1,2,1,0,1,0,7,6.7,A,0,1,jason-clark-1,Jason Clark,2012
+27,123,27,2012-02-25,Georgetown,,Villanova,REG (Conf),W 67-46,*,33,5,14,0.357,1,5,0.2,4,9,0.444,0.393,4,4,1.0,1,5,6,1,1,0,1,2,15,9.3,H,1,1,jason-clark-1,Jason Clark,2012
+28,124,28,2012-02-27,Georgetown,,Notre Dame,REG (Conf),W 59-41,*,33,5,7,0.714,1,2,0.5,4,5,0.8,0.786,2,2,1.0,1,5,6,1,1,1,1,1,13,13.3,H,1,1,jason-clark-1,Jason Clark,2012
+29,125,29,2012-03-03,Georgetown,@,Marquette,REG (Conf),L 69-83,*,36,4,14,0.286,1,7,0.143,3,7,0.429,0.321,2,4,0.5,2,1,3,1,2,0,8,2,11,-2.4,A,0,1,jason-clark-1,Jason Clark,2012
+30,126,30,2012-03-07,Georgetown,N,Pittsburgh,CTOURN,W 64-52,*,30,0,4,0.0,0,3,0.0,0,1,0.0,0.0,3,4,0.75,0,2,2,2,1,0,2,2,3,0.0,N,1,0,jason-clark-1,Jason Clark,2012
+31,127,31,2012-03-08,Georgetown,N,Cincinnati,CTOURN,L 70-72 (2OT),*,48,4,8,0.5,0,1,0.0,4,7,0.571,0.5,4,4,1.0,1,3,4,2,1,0,1,3,12,9.8,N,0,0,jason-clark-1,Jason Clark,2012
+32,128,32,2012-03-16,Georgetown,N,Belmont,ROUND-64,W 74-59,*,34,9,12,0.75,3,5,0.6,6,7,0.857,0.875,0,0,,2,2,4,0,2,0,2,0,21,18.2,N,1,0,jason-clark-1,Jason Clark,2012
+33,129,33,2012-03-18,Georgetown,N,NC State,ROUND-32,L 63-66,*,31,3,11,0.273,1,6,0.167,2,5,0.4,0.318,3,3,1.0,0,3,3,3,0,0,2,2,10,3.7,N,0,0,jason-clark-1,Jason Clark,2012

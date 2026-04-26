@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2021-11-09,Colorado State,,Oral Roberts,REG (Non-Conf),W 109-80,,8,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,2,2,0,0,2,0,1,4,4.6,H,1,1,james-moors-1,James Moors,2022
+2,30,2,2021-11-12,Colorado State,,Arkansas–Pine Bluff,REG (Non-Conf),W 91-71,,9,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,1,1,2,1,0,2,1,3,8,7.7,H,1,1,james-moors-1,James Moors,2022
+3,31,3,2021-11-14,Colorado State,,Peru St.,REG (Non-Conf),W 88-62,,14,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,1,1,2,1,0,1,0,2,6,6.0,H,1,1,james-moors-1,James Moors,2022
+4,32,4,2021-11-19,Colorado State,N,Bradley,REG (Non-Conf),W 66-60,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,0,0,1,0,2,0.0,N,1,1,james-moors-1,James Moors,2022
+5,33,5,2021-11-21,Colorado State,N,Creighton,REG (Non-Conf),W 95-81,,4,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,0,1,0,0,0,0,0,0,-1.4,N,1,1,james-moors-1,James Moors,2022
+6,34,6,2021-11-22,Colorado State,N,Northeastern,REG (Non-Conf),W 71-61,,7,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,1,1,0,0,0,1,1,4,1.9,N,1,1,james-moors-1,James Moors,2022
+7,35,7,2021-11-27,Colorado State,,Northern Colorado,REG (Non-Conf),W 88-79,,8,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,1,0,0,0,2,2.7,H,1,1,james-moors-1,James Moors,2022
+8,36,8,2021-12-01,Colorado State,,Little Rock,REG (Non-Conf),W 86-55,,16,4,5,0.8,0,0,,4,5,0.8,0.8,0,0,,0,3,3,1,0,0,0,1,8,7.3,H,1,1,james-moors-1,James Moors,2022
+9,37,9,2021-12-04,Colorado State,,St. Mary's (CA),REG (Non-Conf),W 74-58,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,0,0,0,1,0,0,1,0,-0.1,H,1,1,james-moors-1,James Moors,2022
+10,38,10,2021-12-11,Colorado State,N,Mississippi State,REG (Non-Conf),W 66-63,,9,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,1,1,2,2,0,0,0,0,2,3.4,N,1,1,james-moors-1,James Moors,2022
+11,39,11,2022-01-04,Colorado State,,Air Force,REG (Conf),W 67-59,,13,2,3,0.667,0,0,,2,3,0.667,0.667,1,1,1.0,3,3,6,1,0,0,2,2,5,4.6,H,1,1,james-moors-1,James Moors,2022
+12,40,12,2022-01-08,Colorado State,@,San Diego State,REG (Conf),L 49-79,,7,0,0,,0,0,,0,0,,,1,2,0.5,0,2,2,1,1,0,2,1,1,0.5,A,0,1,james-moors-1,James Moors,2022
+13,41,13,2022-01-12,Colorado State,,Utah State,REG (Conf),W 77-72,,7,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,1,0,0,1,0,2,0.7,H,1,1,james-moors-1,James Moors,2022
+14,42,14,2022-01-15,Colorado State,@,San Jose State,REG (Conf),W 78-42,,12,3,4,0.75,0,0,,3,4,0.75,0.75,2,3,0.667,2,0,2,1,1,0,0,0,8,9.1,A,1,1,james-moors-1,James Moors,2022
+15,43,15,2022-01-19,Colorado State,,New Mexico,REG (Conf),W 80-74,,7,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,0,0,0,0.9,H,1,1,james-moors-1,James Moors,2022
+16,44,16,2022-01-22,Colorado State,@,Air Force,REG (Conf),W 73-53,,10,2,3,0.667,0,0,,2,3,0.667,0.667,1,3,0.333,0,3,3,0,0,1,1,1,5,3.1,A,1,1,james-moors-1,James Moors,2022
+17,45,17,2022-01-25,Colorado State,,Nevada,REG (Conf),W 77-66,,26,3,3,1.0,0,0,,3,3,1.0,1.0,2,4,0.5,2,2,4,3,0,1,0,1,8,10.7,H,1,1,james-moors-1,James Moors,2022
+18,46,18,2022-01-28,Colorado State,,UNLV,REG (Conf),L 74-88,,9,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,0,1,0,0,0,0,1,4,2.6,H,0,1,james-moors-1,James Moors,2022
+19,47,19,2022-01-31,Colorado State,@,Wyoming,REG (Conf),L 78-84 (OT),,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,0,2,1,1,3,4,3.5,A,0,1,james-moors-1,James Moors,2022
+20,48,20,2022-02-04,Colorado State,,San Diego State,REG (Conf),W 58-57,,22,3,3,1.0,0,0,,3,3,1.0,1.0,4,5,0.8,1,7,8,0,1,1,1,2,10,11.4,H,1,1,james-moors-1,James Moors,2022
+21,49,21,2022-02-08,Colorado State,@,Nevada,REG (Conf),W 82-72,,17,2,4,0.5,0,0,,2,4,0.5,0.5,3,4,0.75,1,3,4,4,0,0,0,1,7,8.6,A,1,1,james-moors-1,James Moors,2022
+22,50,22,2022-02-11,Colorado State,,Fresno State,REG (Conf),W 65-50,,19,5,5,1.0,0,0,,5,5,1.0,1.0,1,3,0.333,1,0,1,1,0,0,1,2,11,8.3,H,1,1,james-moors-1,James Moors,2022
+23,51,23,2022-02-13,Colorado State,@,Boise State,REG (Conf),W 77-74 (OT),,13,4,4,1.0,0,0,,4,4,1.0,1.0,0,0,,0,0,0,0,0,0,1,0,8,5.8,A,1,1,james-moors-1,James Moors,2022
+24,52,24,2022-02-17,Colorado State,@,New Mexico,REG (Conf),W 83-68,,15,1,1,1.0,0,0,,1,1,1.0,1.0,2,2,1.0,1,4,5,0,0,0,1,2,4,3.8,A,1,1,james-moors-1,James Moors,2022
+25,53,25,2022-02-19,Colorado State,@,UNLV,REG (Conf),L 51-72,,9,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,2,3,1,0,0,0,2,2,2.5,A,0,1,james-moors-1,James Moors,2022
+26,54,26,2022-02-23,Colorado State,,Wyoming,REG (Conf),W 61-55,,21,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,1,2,3,1,0,1,1,2,2,1.9,H,1,1,james-moors-1,James Moors,2022
+27,55,27,2022-02-26,Colorado State,@,Utah State,REG (Conf),W 66-55,,10,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,2,2,4,0,0,0,1,1,0,-0.8,A,1,1,james-moors-1,James Moors,2022
+28,56,28,2022-03-05,Colorado State,,Boise State,REG (Conf),W 71-68,,17,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,2,3,5,1,1,0,0,1,2,4.6,H,1,1,james-moors-1,James Moors,2022
+29,57,29,2022-03-10,Colorado State,N,Utah State,CTOURN,W 53-51,,9,1,2,0.5,0,0,,1,2,0.5,0.5,2,4,0.5,1,2,3,1,0,1,0,3,4,3.7,N,1,0,james-moors-1,James Moors,2022
+30,58,30,2022-03-11,Colorado State,N,San Diego State,CTOURN,L 58-63,,20,0,0,,0,0,,0,0,,,0,0,,1,0,1,1,0,0,2,3,0,-1.8,N,0,0,james-moors-1,James Moors,2022
+31,59,31,2022-03-17,Colorado State,N,Michigan,ROUND-64,L 63-75,,11,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,3,1,4,0,0,0,2,1,2,-0.4,N,0,0,james-moors-1,James Moors,2022

@@ -1,0 +1,30 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,126,1,2021-11-10,Seton Hall,,Fairleigh Dickinson,REG (Non-Conf),W 93-49,*,28,4,11,0.364,3,5,0.6,1,6,0.167,0.5,4,8,0.5,0,6,6,2,2,0,0,2,15,11.7,H,1,1,myles-cale-1,Myles Cale,2022
+2,127,2,2021-11-14,Seton Hall,,Yale,REG (Non-Conf),W 80-44,*,20,5,8,0.625,0,1,0.0,5,7,0.714,0.625,1,4,0.25,2,5,7,2,4,1,2,2,11,12.4,H,1,1,myles-cale-1,Myles Cale,2022
+3,128,3,2021-11-16,Seton Hall,@,Michigan,REG (Non-Conf),W 67-65,*,28,3,9,0.333,1,4,0.25,2,5,0.4,0.389,1,2,0.5,1,2,3,2,1,0,0,0,8,6.2,A,1,1,myles-cale-1,Myles Cale,2022
+4,129,4,2021-11-22,Seton Hall,N,Ohio State,REG (Non-Conf),L 76-79,*,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,2,2,4,0,2,0,0,0,2,4.3,N,0,1,myles-cale-1,Myles Cale,2022
+5,130,8,2021-12-04,Seton Hall,,Nyack,REG (Non-Conf),W 113-67,*,21,3,5,0.6,2,4,0.5,1,1,1.0,0.8,4,4,1.0,1,2,3,0,0,0,1,0,12,10.0,H,1,1,myles-cale-1,Myles Cale,2022
+6,131,9,2021-12-09,Seton Hall,,Texas,REG (Non-Conf),W 64-60,*,35,4,8,0.5,2,5,0.4,2,3,0.667,0.625,0,0,,2,3,5,1,1,0,1,1,10,8.6,H,1,1,myles-cale-1,Myles Cale,2022
+7,132,10,2021-12-12,Seton Hall,,Rutgers,REG (Non-Conf),W 77-63,*,29,4,7,0.571,1,4,0.25,3,3,1.0,0.643,1,3,0.333,0,1,1,0,5,0,1,3,10,9.0,H,1,1,myles-cale-1,Myles Cale,2022
+8,133,11,2021-12-29,Seton Hall,@,Providence,REG (Conf),L 65-70,*,26,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,0,,3,2,5,0,0,0,1,2,8,5.6,A,0,1,myles-cale-1,Myles Cale,2022
+9,134,12,2022-01-01,Seton Hall,,Villanova,REG (Conf),L 67-73,*,28,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,2,0.0,1,3,4,1,1,0,0,5,5,0.0,H,0,1,myles-cale-1,Myles Cale,2022
+10,135,13,2022-01-04,Seton Hall,@,Butler,REG (Conf),W 71-56,*,23,4,7,0.571,1,2,0.5,3,5,0.6,0.643,0,0,,0,3,3,0,0,0,2,2,9,3.8,A,1,1,myles-cale-1,Myles Cale,2022
+11,136,14,2022-01-08,Seton Hall,,Connecticut,REG (Conf),W 90-87 (OT),*,28,2,5,0.4,0,1,0.0,2,4,0.5,0.4,3,4,0.75,1,3,4,1,2,0,2,5,7,4.2,H,1,1,myles-cale-1,Myles Cale,2022
+12,137,15,2022-01-13,Seton Hall,@,DePaul,REG (Conf),L 92-96,*,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,4,0.5,0,0,0,0,1,0,0,1,7,4.1,A,0,1,myles-cale-1,Myles Cale,2022
+13,138,16,2022-01-15,Seton Hall,@,Marquette,REG (Conf),L 72-73,*,27,1,5,0.2,0,3,0.0,1,2,0.5,0.2,7,8,0.875,0,4,4,1,1,0,2,1,9,6.0,A,0,1,myles-cale-1,Myles Cale,2022
+14,139,17,2022-01-22,Seton Hall,@,St. John's (NY),REG (Conf),W 66-60,*,37,7,14,0.5,2,4,0.5,5,10,0.5,0.571,5,6,0.833,2,7,9,2,1,0,2,1,21,17.1,A,1,1,myles-cale-1,Myles Cale,2022
+15,140,18,2022-01-24,Seton Hall,,St. John's (NY),REG (Conf),L 63-84,*,30,5,10,0.5,1,3,0.333,4,7,0.571,0.55,5,10,0.5,2,2,4,3,1,0,1,1,16,12.7,H,0,1,myles-cale-1,Myles Cale,2022
+16,141,19,2022-01-26,Seton Hall,,Marquette,REG (Conf),L 63-73,*,28,2,12,0.167,1,3,0.333,1,9,0.111,0.208,4,4,1.0,1,2,3,1,4,0,2,1,9,5.0,H,0,1,myles-cale-1,Myles Cale,2022
+17,142,20,2022-02-01,Seton Hall,@,Georgetown,REG (Conf),W 70-63,*,28,3,12,0.25,1,5,0.2,2,7,0.286,0.292,0,2,0.0,3,4,7,1,0,0,0,5,7,1.0,A,1,1,myles-cale-1,Myles Cale,2022
+18,143,21,2022-02-04,Seton Hall,,Creighton,REG (Conf),W 74-55,*,33,4,8,0.5,1,2,0.5,3,6,0.5,0.563,3,4,0.75,0,1,1,3,1,0,2,0,12,9.0,H,1,1,myles-cale-1,Myles Cale,2022
+19,144,22,2022-02-09,Seton Hall,,Xavier,REG (Conf),W 73-71,*,31,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,4,0.75,1,3,4,0,2,0,1,2,7,6.4,H,1,1,myles-cale-1,Myles Cale,2022
+20,145,23,2022-02-12,Seton Hall,@,Villanova,REG (Conf),L 67-73,*,28,4,9,0.444,3,4,0.75,1,5,0.2,0.611,0,0,,0,1,1,1,1,0,2,4,11,4.7,A,0,1,myles-cale-1,Myles Cale,2022
+21,146,24,2022-02-16,Seton Hall,@,Connecticut,REG (Conf),L 65-70,*,36,4,7,0.571,3,4,0.75,1,3,0.333,0.786,0,0,,2,2,4,2,1,0,1,4,11,9.5,A,0,1,myles-cale-1,Myles Cale,2022
+22,147,25,2022-02-19,Seton Hall,,DePaul,REG (Conf),W 66-64,*,11,2,5,0.4,1,2,0.5,1,3,0.333,0.5,0,0,,0,1,1,0,0,0,0,5,5,0.6,H,1,1,myles-cale-1,Myles Cale,2022
+23,148,26,2022-02-23,Seton Hall,,Butler,REG (Conf),W 66-60,*,36,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,1,2,3,2,2,0,3,0,4,0.9,H,1,1,myles-cale-1,Myles Cale,2022
+24,149,27,2022-02-26,Seton Hall,@,Xavier,REG (Conf),W 82-66,*,36,4,11,0.364,0,4,0.0,4,7,0.571,0.364,1,2,0.5,1,5,6,1,2,1,0,1,9,7.7,A,1,1,myles-cale-1,Myles Cale,2022
+25,150,28,2022-03-02,Seton Hall,,Georgetown,REG (Conf),W 73-68,*,31,5,10,0.5,0,4,0.0,5,6,0.833,0.5,1,1,1.0,2,1,3,0,0,0,0,3,11,6.5,H,1,1,myles-cale-1,Myles Cale,2022
+26,151,29,2022-03-05,Seton Hall,@,Creighton,REG (Conf),W 65-60,*,40,3,10,0.3,0,2,0.0,3,8,0.375,0.3,0,0,,2,3,5,1,5,0,1,2,6,6.4,A,1,1,myles-cale-1,Myles Cale,2022
+27,152,30,2022-03-09,Seton Hall,N,Georgetown,CTOURN,W 57-53,*,37,6,10,0.6,2,4,0.5,4,6,0.667,0.7,0,0,,1,4,5,1,1,0,1,1,14,11.6,N,1,0,myles-cale-1,Myles Cale,2022
+28,153,31,2022-03-10,Seton Hall,N,Connecticut,CTOURN,L 52-62,*,37,7,10,0.7,3,3,1.0,4,7,0.571,0.85,0,0,,2,4,6,1,2,0,0,1,17,17.7,N,0,0,myles-cale-1,Myles Cale,2022
+29,154,32,2022-03-18,Seton Hall,N,TCU,ROUND-64,L 42-69,*,35,4,15,0.267,3,6,0.5,1,9,0.111,0.367,0,0,,1,1,2,1,1,0,1,3,11,2.6,N,0,0,myles-cale-1,Myles Cale,2022

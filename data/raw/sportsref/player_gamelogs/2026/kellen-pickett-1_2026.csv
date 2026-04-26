@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Wright State,,Franklin,REG (Non-Conf),W 86-37,,18,3,3,1.0,0,0,,3,3,1.0,1.0,1,5,0.2,1,4,5,3,1,0,1,3,7,7.3,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+2,2,2,2025-11-06,Wright State,@,California,REG (Non-Conf),L 67-77,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,1,0,-0.8,A,0,1,kellen-pickett-1,Kellen Pickett,2026
+3,3,3,2025-11-11,Wright State,,Toledo,REG (Non-Conf),L 71-81,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,H,0,1,kellen-pickett-1,Kellen Pickett,2026
+4,4,4,2025-11-15,Wright State,N,Radford,REG (Non-Conf),W 92-59,,11,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,1,1,0,0,0,5,6.7,N,1,1,kellen-pickett-1,Kellen Pickett,2026
+5,5,5,2025-11-16,Wright State,N,Kent State,REG (Non-Conf),L 72-76 (OT),,18,3,6,0.5,0,3,0.0,3,3,1.0,0.5,2,2,1.0,1,4,5,0,1,0,1,5,8,4.9,N,0,1,kellen-pickett-1,Kellen Pickett,2026
+6,6,6,2025-11-20,Wright State,,Ohio Wesleyan,REG (Non-Conf),W 100-47,,21,4,4,1.0,1,1,1.0,3,3,1.0,1.125,3,4,0.75,2,2,4,3,0,0,1,0,12,13.5,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+7,7,7,2025-11-25,Wright State,@,Stetson,REG (Non-Conf),W 79-62,*,22,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,1,1,2,1,1,1,2,0,4,4.1,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+8,8,8,2025-11-28,Wright State,@,Butler,REG (Non-Conf),L 69-94,,4,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,A,0,1,kellen-pickett-1,Kellen Pickett,2026
+9,9,9,2025-12-03,Wright State,@,Youngstown State,REG (Conf),L 68-69,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,0.0,A,0,1,kellen-pickett-1,Kellen Pickett,2026
+10,10,10,2025-12-07,Wright State,,Green Bay,REG (Conf),W 86-58,,19,2,3,0.667,0,0,,2,3,0.667,0.667,0,1,0.0,1,4,5,1,0,2,0,3,4,5.1,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+11,11,11,2025-12-13,Wright State,@,Marshall,REG (Non-Conf),L 74-76,,16,4,9,0.444,0,4,0.0,4,5,0.8,0.444,2,2,1.0,2,1,3,1,1,2,1,0,10,9.1,A,0,1,kellen-pickett-1,Kellen Pickett,2026
+12,12,12,2025-12-16,Wright State,,Miami (OH),REG (Non-Conf),L 76-83,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,1,0,-1.4,H,0,1,kellen-pickett-1,Kellen Pickett,2026
+13,13,13,2025-12-22,Wright State,,Eastern Michigan,REG (Non-Conf),W 70-64,*,31,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,3,6,9,0,1,2,1,4,10,10.0,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+14,14,14,2025-12-29,Wright State,,Oakland,REG (Conf),W 88-73,*,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,1,0.0,0,7,7,1,0,1,0,5,4,4.5,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+15,15,15,2026-01-01,Wright State,,Milwaukee,REG (Conf),W 76-70,*,31,5,7,0.714,1,2,0.5,4,5,0.8,0.786,0,1,0.0,3,7,10,0,0,2,1,2,11,11.5,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+16,16,16,2026-01-04,Wright State,@,IU Indy,REG (Conf),W 81-77,*,28,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,3,1.0,2,5,7,1,1,4,1,2,9,12.3,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+17,17,17,2026-01-09,Wright State,@,Detroit Mercy,REG (Conf),W 84-82,*,27,1,5,0.2,0,2,0.0,1,3,0.333,0.2,3,4,0.75,1,11,12,1,1,2,1,3,5,6.4,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+18,18,18,2026-01-11,Wright State,@,Oakland,REG (Conf),W 94-84,*,36,7,10,0.7,0,2,0.0,7,8,0.875,0.7,4,4,1.0,0,11,11,3,0,2,1,3,18,18.4,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+19,19,19,2026-01-15,Wright State,,Youngstown State,REG (Conf),W 93-83,*,31,6,12,0.5,0,0,,6,12,0.5,0.5,6,7,0.857,3,6,9,2,0,2,0,1,18,17.9,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+20,20,20,2026-01-21,Wright State,,Cleveland State,REG (Conf),L 79-85,*,28,5,5,1.0,0,0,,5,5,1.0,1.0,1,4,0.25,0,2,2,2,0,2,1,3,11,9.5,H,0,1,kellen-pickett-1,Kellen Pickett,2026
+21,21,21,2026-01-24,Wright State,,Northern Kentucky,REG (Conf),W 88-80,*,32,3,9,0.333,0,1,0.0,3,8,0.375,0.333,3,4,0.75,3,3,6,1,0,3,0,1,9,8.9,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+22,22,22,2026-01-30,Wright State,@,Milwaukee,REG (Conf),W 76-69,*,22,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,3,0.333,2,5,7,0,0,1,1,2,5,3.3,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+23,23,23,2026-02-01,Wright State,@,Green Bay,REG (Conf),W 83-75,*,31,8,11,0.727,1,3,0.333,7,8,0.875,0.773,4,4,1.0,1,7,8,1,0,0,1,3,21,17.8,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+24,24,24,2026-02-04,Wright State,@,Robert Morris,REG (Conf),L 66-72,*,29,3,6,0.5,0,1,0.0,3,5,0.6,0.5,0,1,0.0,2,9,11,0,0,2,1,3,6,5.9,A,0,1,kellen-pickett-1,Kellen Pickett,2026
+25,25,25,2026-02-07,Wright State,,Purdue Fort Wayne,REG (Conf),W 73-68,*,31,4,8,0.5,4,6,0.667,0,2,0.0,0.75,2,4,0.5,0,4,4,2,2,0,1,1,14,12.4,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+26,26,26,2026-02-12,Wright State,,Detroit Mercy,REG (Conf),L 74-77,*,29,3,7,0.429,0,2,0.0,3,5,0.6,0.429,3,4,0.75,1,3,4,1,0,4,1,0,9,9.0,H,0,1,kellen-pickett-1,Kellen Pickett,2026
+27,27,27,2026-02-15,Wright State,@,Cleveland State,REG (Conf),W 102-90,*,25,3,5,0.6,2,2,1.0,1,3,0.333,0.8,0,0,,0,5,5,2,0,4,2,1,8,9.0,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+28,28,28,2026-02-19,Wright State,,IU Indy,REG (Conf),W 85-73,*,28,4,11,0.364,1,3,0.333,3,8,0.375,0.409,2,4,0.5,0,10,10,0,1,2,2,0,11,7.5,H,1,1,kellen-pickett-1,Kellen Pickett,2026
+29,29,29,2026-02-22,Wright State,,Robert Morris,REG (Conf),L 68-81,*,17,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,1,1,2,1,0,1,2,2,4,2.6,H,0,1,kellen-pickett-1,Kellen Pickett,2026
+30,30,30,2026-02-25,Wright State,@,Purdue Fort Wayne,REG (Conf),W 74-70,*,35,3,10,0.3,0,2,0.0,3,8,0.375,0.3,0,0,,1,6,7,1,0,0,2,4,6,-0.2,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+31,31,31,2026-02-28,Wright State,@,Northern Kentucky,REG (Conf),W 92-91,*,30,7,10,0.7,1,4,0.25,6,6,1.0,0.75,4,5,0.8,2,5,7,2,0,0,0,4,19,17.1,A,1,1,kellen-pickett-1,Kellen Pickett,2026
+32,32,32,2026-03-04,Wright State,,Cleveland State,CTOURN,W 90-61,*,27,6,11,0.545,0,1,0.0,6,10,0.6,0.545,6,6,1.0,1,5,6,2,1,2,3,1,18,15.3,H,1,0,kellen-pickett-1,Kellen Pickett,2026
+33,33,33,2026-03-09,Wright State,N,Northern Kentucky,CTOURN,W 103-90,*,33,6,8,0.75,0,1,0.0,6,7,0.857,0.75,2,2,1.0,0,4,4,2,1,1,3,2,14,11.3,N,1,0,kellen-pickett-1,Kellen Pickett,2026
+34,34,34,2026-03-10,Wright State,N,Detroit Mercy,CTOURN,W 66-63,*,30,5,8,0.625,1,3,0.333,4,5,0.8,0.688,6,6,1.0,2,5,7,3,2,4,3,4,17,18.6,N,1,0,kellen-pickett-1,Kellen Pickett,2026

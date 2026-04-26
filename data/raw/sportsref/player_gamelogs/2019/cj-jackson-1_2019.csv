@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2018-11-07,Ohio State,@,Cincinnati,REG (Non-Conf),W 64-56,*,33,3,10,0.3,2,7,0.286,1,3,0.333,0.4,5,6,0.833,0,0,0,1,0,0,2,1,13,5.1,A,1,1,cj-jackson-1,C.J. Jackson,2019
+2,68,2,2018-11-11,Ohio State,,Purdue Fort Wayne,REG (Non-Conf),W 107-61,*,30,8,11,0.727,4,7,0.571,4,4,1.0,0.909,5,6,0.833,0,6,6,5,0,0,2,2,25,22.6,H,1,1,cj-jackson-1,C.J. Jackson,2019
+3,69,3,2018-11-15,Ohio State,@,Creighton,REG (Non-Conf),W 69-60,*,29,2,9,0.222,1,4,0.25,1,5,0.2,0.278,1,2,0.5,0,4,4,4,1,1,5,3,6,-0.4,A,1,1,cj-jackson-1,C.J. Jackson,2019
+4,70,4,2018-11-18,Ohio State,,South Carolina State,REG (Non-Conf),W 89-61,*,20,2,6,0.333,1,4,0.25,1,2,0.5,0.417,2,2,1.0,0,0,0,1,1,0,0,2,7,4.5,H,1,1,cj-jackson-1,C.J. Jackson,2019
+5,71,5,2018-11-20,Ohio State,,Samford,REG (Non-Conf),W 68-50,*,30,2,11,0.182,0,5,0.0,2,6,0.333,0.182,4,5,0.8,0,9,9,3,1,0,3,1,8,3.1,H,1,1,cj-jackson-1,C.J. Jackson,2019
+6,72,6,2018-11-23,Ohio State,,Cleveland State,REG (Non-Conf),W 89-62,*,26,7,10,0.7,3,4,0.75,4,6,0.667,0.85,0,0,,1,3,4,3,0,0,2,2,17,13.7,H,1,1,cj-jackson-1,C.J. Jackson,2019
+7,73,7,2018-11-28,Ohio State,,Syracuse,REG (Non-Conf),L 62-72,*,36,4,14,0.286,2,8,0.25,2,6,0.333,0.357,9,12,0.75,0,4,4,2,1,0,2,1,19,10.8,H,0,1,cj-jackson-1,C.J. Jackson,2019
+8,74,8,2018-12-02,Ohio State,,Minnesota,REG (Conf),W 79-59,*,33,3,8,0.375,2,3,0.667,1,5,0.2,0.5,3,4,0.75,1,4,5,4,1,0,2,3,11,8.7,H,1,1,cj-jackson-1,C.J. Jackson,2019
+9,75,9,2018-12-05,Ohio State,N,Illinois,REG (Conf),W 77-67,*,19,2,7,0.286,2,3,0.667,0,4,0.0,0.429,2,2,1.0,0,1,1,5,1,1,4,1,8,5.0,N,1,1,cj-jackson-1,C.J. Jackson,2019
+10,76,10,2018-12-15,Ohio State,,Bucknell,REG (Non-Conf),W 73-71,*,34,3,5,0.6,1,1,1.0,2,4,0.5,0.7,3,6,0.5,0,8,8,6,0,1,2,1,10,11.4,H,1,1,cj-jackson-1,C.J. Jackson,2019
+11,77,11,2018-12-18,Ohio State,,Youngstown State,REG (Non-Conf),W 75-56,*,33,3,9,0.333,2,5,0.4,1,4,0.25,0.444,3,4,0.75,0,7,7,7,1,0,0,3,11,12.3,H,1,1,cj-jackson-1,C.J. Jackson,2019
+12,78,12,2018-12-22,Ohio State,N,UCLA,REG (Non-Conf),W 80-66,*,31,7,16,0.438,3,7,0.429,4,9,0.444,0.531,5,5,1.0,0,7,7,6,0,0,3,3,22,15.7,N,1,1,cj-jackson-1,C.J. Jackson,2019
+13,79,13,2018-12-29,Ohio State,,High Point,REG (Non-Conf),W 82-64,*,31,7,11,0.636,3,5,0.6,4,6,0.667,0.773,3,3,1.0,0,1,1,3,2,1,4,0,20,16.2,H,1,1,cj-jackson-1,C.J. Jackson,2019
+14,80,14,2019-01-05,Ohio State,,Michigan State,REG (Conf),L 77-86,*,28,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,0,5,5,5,4,0,0,3,10,12.4,H,0,1,cj-jackson-1,C.J. Jackson,2019
+15,81,15,2019-01-09,Ohio State,@,Rutgers,REG (Conf),L 61-64,*,35,4,13,0.308,2,9,0.222,2,4,0.5,0.385,0,0,,1,2,3,4,2,0,1,3,10,6.4,A,0,1,cj-jackson-1,C.J. Jackson,2019
+16,82,16,2019-01-12,Ohio State,@,Iowa,REG (Conf),L 62-72,,22,3,7,0.429,3,4,0.75,0,3,0.0,0.643,1,2,0.5,0,4,4,3,1,0,4,5,10,4.2,A,0,1,cj-jackson-1,C.J. Jackson,2019
+17,83,17,2019-01-18,Ohio State,,Maryland,REG (Conf),L 61-75,*,38,6,15,0.4,1,6,0.167,5,9,0.556,0.433,2,2,1.0,0,3,3,2,4,0,3,1,15,9.8,H,0,1,cj-jackson-1,C.J. Jackson,2019
+18,84,18,2019-01-23,Ohio State,,Purdue,REG (Conf),L 67-79,*,34,2,7,0.286,1,3,0.333,1,4,0.25,0.357,2,2,1.0,0,1,1,3,1,0,5,2,7,0.5,H,0,1,cj-jackson-1,C.J. Jackson,2019
+19,85,19,2019-01-26,Ohio State,@,Nebraska,REG (Conf),W 70-60,*,33,4,9,0.444,2,6,0.333,2,3,0.667,0.556,0,0,,3,1,4,4,2,0,3,2,10,8.7,A,1,1,cj-jackson-1,C.J. Jackson,2019
+20,86,20,2019-01-29,Ohio State,@,Michigan,REG (Conf),L 49-65,*,30,4,6,0.667,0,1,0.0,4,5,0.8,0.667,3,3,1.0,1,7,8,4,1,0,1,1,11,13.6,A,0,1,cj-jackson-1,C.J. Jackson,2019
+21,87,21,2019-02-02,Ohio State,,Rutgers,REG (Conf),W 76-62,*,35,8,14,0.571,4,7,0.571,4,7,0.571,0.714,0,1,0.0,1,6,7,3,1,0,1,2,20,16.8,H,1,1,cj-jackson-1,C.J. Jackson,2019
+22,88,22,2019-02-07,Ohio State,,Penn State,REG (Conf),W 74-70,*,35,5,9,0.556,1,3,0.333,4,6,0.667,0.611,4,4,1.0,0,2,2,1,1,1,5,2,15,7.9,H,1,1,cj-jackson-1,C.J. Jackson,2019
+23,89,23,2019-02-10,Ohio State,@,Indiana,REG (Conf),W 55-52,*,36,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,2,2,4,4,1,0,3,1,10,7.0,A,1,1,cj-jackson-1,C.J. Jackson,2019
+24,90,24,2019-02-14,Ohio State,,Illinois,REG (Conf),L 56-63,*,32,4,9,0.444,1,1,1.0,3,8,0.375,0.5,8,11,0.727,2,3,5,2,2,1,7,2,17,9.7,H,0,1,cj-jackson-1,C.J. Jackson,2019
+25,91,25,2019-02-17,Ohio State,@,Michigan State,REG (Conf),L 44-62,*,26,3,9,0.333,2,3,0.667,1,6,0.167,0.444,0,0,,0,4,4,2,2,0,1,0,8,6.5,A,0,1,cj-jackson-1,C.J. Jackson,2019
+26,92,26,2019-02-20,Ohio State,,Northwestern,REG (Conf),W 63-49,*,18,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,2,2,2,0,0,1,4,5,-0.4,H,1,1,cj-jackson-1,C.J. Jackson,2019
+27,93,28,2019-02-26,Ohio State,,Iowa,REG (Conf),W 90-70,,34,2,8,0.25,2,6,0.333,0,2,0.0,0.375,0,0,,0,5,5,6,2,0,1,3,6,6.7,H,1,1,cj-jackson-1,C.J. Jackson,2019
+28,94,29,2019-03-02,Ohio State,@,Purdue,REG (Conf),L 51-86,*,29,1,6,0.167,0,4,0.0,1,2,0.5,0.167,0,0,,1,0,1,1,1,0,2,1,2,-1.8,A,0,1,cj-jackson-1,C.J. Jackson,2019
+29,95,30,2019-03-06,Ohio State,@,Northwestern,REG (Conf),L 50-68,,25,4,11,0.364,1,4,0.25,3,7,0.429,0.409,0,0,,1,0,1,2,0,0,1,0,9,4.0,A,0,1,cj-jackson-1,C.J. Jackson,2019
+30,96,31,2019-03-10,Ohio State,,Wisconsin,REG (Conf),L 67-73 (OT),*,40,7,12,0.583,2,5,0.4,5,7,0.714,0.667,6,11,0.545,0,5,5,5,2,0,1,2,22,19.6,H,0,1,cj-jackson-1,C.J. Jackson,2019
+31,97,32,2019-03-14,Ohio State,N,Indiana,CTOURN,W 79-75,*,34,6,14,0.429,3,6,0.5,3,8,0.375,0.536,2,2,1.0,2,3,5,5,3,0,2,0,17,16.4,N,1,0,cj-jackson-1,C.J. Jackson,2019
+32,98,33,2019-03-15,Ohio State,N,Michigan State,CTOURN,L 70-77,*,28,3,10,0.3,2,8,0.25,1,2,0.5,0.4,0,0,,0,3,3,5,2,0,2,4,8,5.0,N,0,0,cj-jackson-1,C.J. Jackson,2019
+33,99,34,2019-03-22,Ohio State,N,Iowa State,ROUND-64,W 62-59,*,31,1,8,0.125,0,5,0.0,1,3,0.333,0.125,0,0,,0,6,6,3,0,0,0,1,2,0.3,N,1,0,cj-jackson-1,C.J. Jackson,2019
+34,100,35,2019-03-24,Ohio State,N,Houston,ROUND-32,L 59-74,*,37,7,15,0.467,4,11,0.364,3,4,0.75,0.6,0,0,,1,0,1,3,0,0,1,1,18,11.7,N,0,0,cj-jackson-1,C.J. Jackson,2019

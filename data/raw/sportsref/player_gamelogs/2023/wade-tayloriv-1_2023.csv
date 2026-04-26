@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,41,1,2022-11-07,Texas A&M,,Louisiana–Monroe,REG (Non-Conf),W 87-54,*,21,5,7,0.714,4,6,0.667,1,1,1.0,1.0,4,5,0.8,0,5,5,2,0,0,2,3,18,14.4,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+2,42,2,2022-11-11,Texas A&M,,Abilene Christian,REG (Non-Conf),W 77-58,*,24,5,7,0.714,3,3,1.0,2,4,0.5,0.929,8,8,1.0,0,1,1,2,2,0,2,3,21,18.6,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+3,43,3,2022-11-17,Texas A&M,N,Murray State,REG (Non-Conf),L 79-88,*,20,5,15,0.333,1,8,0.125,4,7,0.571,0.367,5,7,0.714,1,0,1,2,3,0,1,5,16,8.8,N,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+4,44,4,2022-11-18,Texas A&M,N,Colorado,REG (Non-Conf),L 75-103,*,21,1,8,0.125,1,4,0.25,0,4,0.0,0.188,3,4,0.75,2,2,4,3,2,0,2,3,6,3.3,N,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+5,45,5,2022-11-20,Texas A&M,N,Loyola Chicago,REG (Non-Conf),W 67-51,,27,4,9,0.444,0,4,0.0,4,5,0.8,0.444,2,4,0.5,0,2,2,1,4,0,3,2,10,6.0,N,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+6,46,6,2022-11-25,Texas A&M,@,DePaul,REG (Non-Conf),W 82-66,,27,7,14,0.5,3,7,0.429,4,7,0.571,0.607,4,4,1.0,0,1,1,5,6,1,3,3,21,20.3,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+7,47,7,2022-11-30,Texas A&M,,SMU,REG (Non-Conf),W 83-64,*,32,3,9,0.333,2,6,0.333,1,3,0.333,0.444,5,7,0.714,0,4,4,9,3,0,0,3,13,16.4,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+8,48,8,2022-12-03,Texas A&M,N,Boise State,REG (Non-Conf),L 71-86,*,28,4,13,0.308,3,8,0.375,1,5,0.2,0.423,5,7,0.714,0,1,1,6,1,0,2,4,16,9.6,N,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+9,49,9,2022-12-11,Texas A&M,,Oregon State,REG (Non-Conf),W 72-54,*,26,2,5,0.4,1,4,0.25,1,1,1.0,0.5,4,4,1.0,1,2,3,6,1,0,3,3,9,8.6,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+10,50,10,2022-12-17,Texas A&M,@,Memphis,REG (Non-Conf),L 79-83,*,33,6,16,0.375,4,11,0.364,2,5,0.4,0.5,9,10,0.9,2,2,4,2,2,0,2,4,25,17.6,A,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+11,51,11,2022-12-20,Texas A&M,,Wofford,REG (Non-Conf),L 62-67,*,25,7,11,0.636,5,9,0.556,2,2,1.0,0.864,1,2,0.5,0,1,1,3,3,0,3,1,20,16.7,H,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+12,52,12,2022-12-27,Texas A&M,,Northwestern State,REG (Non-Conf),W 64-52,*,25,2,9,0.222,1,5,0.2,1,4,0.25,0.278,4,5,0.8,0,2,2,3,1,0,2,1,9,4.4,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+13,53,13,2022-12-30,Texas A&M,,Prairie View A&M,REG (Non-Conf),W 86-66,*,21,5,7,0.714,3,5,0.6,2,2,1.0,0.929,4,6,0.667,0,4,4,2,2,0,2,1,17,15.5,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+14,54,14,2023-01-04,Texas A&M,@,Florida,REG (Conf),W 66-63,*,28,6,15,0.4,1,6,0.167,5,9,0.556,0.433,4,4,1.0,0,1,1,2,2,0,2,4,17,9.0,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+15,55,15,2023-01-07,Texas A&M,,Louisiana State,REG (Conf),W 69-56,*,35,4,10,0.4,1,4,0.25,3,6,0.5,0.45,4,4,1.0,0,2,2,6,0,0,4,4,13,6.8,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+16,56,16,2023-01-11,Texas A&M,,Missouri,REG (Conf),W 82-64,*,29,4,9,0.444,3,8,0.375,1,1,1.0,0.611,3,4,0.75,1,2,3,4,0,0,5,3,14,6.8,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+17,57,17,2023-01-14,Texas A&M,@,South Carolina,REG (Conf),W 94-53,*,23,8,10,0.8,4,6,0.667,4,4,1.0,1.0,0,0,,2,3,5,3,0,0,2,1,20,18.2,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+18,58,18,2023-01-18,Texas A&M,,Florida,REG (Conf),W 54-52,*,33,2,15,0.133,0,5,0.0,2,10,0.2,0.133,4,4,1.0,0,4,4,5,0,0,2,2,8,0.2,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+19,59,19,2023-01-21,Texas A&M,@,Kentucky,REG (Conf),L 67-76,*,33,4,11,0.364,0,5,0.0,4,6,0.667,0.364,0,0,,0,6,6,7,3,0,4,2,8,6.8,A,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+20,60,20,2023-01-25,Texas A&M,@,Auburn,REG (Conf),W 79-63,*,21,6,9,0.667,3,5,0.6,3,4,0.75,0.833,0,0,,0,2,2,4,1,0,4,4,15,9.9,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+21,61,21,2023-01-28,Texas A&M,,Vanderbilt,REG (Conf),W 72-66,*,34,3,13,0.231,1,7,0.143,2,6,0.333,0.269,7,7,1.0,1,6,7,7,1,0,3,1,14,11.1,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+22,62,22,2023-01-31,Texas A&M,@,Arkansas,REG (Conf),L 70-81,*,34,6,19,0.316,2,7,0.286,4,12,0.333,0.368,4,4,1.0,0,1,1,2,1,0,2,4,18,6.2,A,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+23,63,23,2023-02-04,Texas A&M,,Georgia,REG (Conf),W 82-57,*,21,3,10,0.3,2,8,0.25,1,2,0.5,0.4,0,0,,0,3,3,6,2,1,3,4,8,5.4,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+24,64,24,2023-02-07,Texas A&M,,Auburn,REG (Conf),W 83-78,*,35,5,16,0.313,4,10,0.4,1,6,0.167,0.438,8,9,0.889,0,1,1,7,2,0,2,2,22,16.8,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+25,65,25,2023-02-11,Texas A&M,@,Louisiana State,REG (Conf),W 74-62,*,29,6,11,0.545,5,8,0.625,1,3,0.333,0.773,6,6,1.0,0,1,1,4,1,0,1,2,23,20.0,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+26,66,26,2023-02-15,Texas A&M,,Arkansas,REG (Conf),W 62-56,*,33,6,15,0.4,3,5,0.6,3,10,0.3,0.5,3,5,0.6,0,3,3,4,2,0,2,3,18,11.6,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+27,67,27,2023-02-18,Texas A&M,@,Missouri,REG (Conf),W 69-60,*,33,4,7,0.571,3,5,0.6,1,2,0.5,0.786,10,10,1.0,1,3,4,6,2,0,6,3,21,18.3,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+28,68,28,2023-02-21,Texas A&M,,Tennessee,REG (Conf),W 68-63,*,37,4,11,0.364,1,5,0.2,3,6,0.5,0.409,16,17,0.941,0,3,3,1,4,0,5,3,25,17.9,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+29,69,29,2023-02-25,Texas A&M,@,Mississippi State,REG (Conf),L 62-69,*,34,4,11,0.364,4,9,0.444,0,2,0.0,0.545,9,10,0.9,0,0,0,4,1,0,3,2,21,14.5,A,0,1,wade-tayloriv-1,Wade Taylor IV,2023
+30,70,30,2023-02-28,Texas A&M,@,Ole Miss,REG (Conf),W 69-61,*,31,2,11,0.182,2,7,0.286,0,4,0.0,0.273,6,8,0.75,1,4,5,7,3,0,0,2,12,13.3,A,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+31,71,31,2023-03-04,Texas A&M,,Alabama,REG (Conf),W 67-61,*,31,8,15,0.533,2,7,0.286,6,8,0.75,0.6,10,10,1.0,0,3,3,1,1,0,4,3,28,18.1,H,1,1,wade-tayloriv-1,Wade Taylor IV,2023
+32,72,32,2023-03-10,Texas A&M,N,Arkansas,CTOURN,W 67-61,*,29,6,17,0.353,0,4,0.0,6,13,0.462,0.353,6,6,1.0,1,2,3,3,2,0,3,2,18,10.1,N,1,0,wade-tayloriv-1,Wade Taylor IV,2023
+33,73,33,2023-03-11,Texas A&M,N,Vanderbilt,CTOURN,W 87-75,*,31,8,13,0.615,4,7,0.571,4,6,0.667,0.769,5,6,0.833,0,1,1,4,1,0,2,1,25,20.4,N,1,0,wade-tayloriv-1,Wade Taylor IV,2023
+34,74,34,2023-03-12,Texas A&M,N,Alabama,CTOURN,L 63-82,*,33,3,11,0.273,2,4,0.5,1,7,0.143,0.364,5,5,1.0,0,2,2,3,1,0,4,4,13,4.6,N,0,0,wade-tayloriv-1,Wade Taylor IV,2023
+35,75,35,2023-03-16,Texas A&M,N,Penn State,ROUND-64,L 59-76,*,30,2,15,0.133,1,10,0.1,1,5,0.2,0.167,5,5,1.0,1,2,3,1,1,0,2,4,10,-0.3,N,0,0,wade-tayloriv-1,Wade Taylor IV,2023

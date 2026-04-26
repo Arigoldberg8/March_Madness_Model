@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,91,1,2015-11-13,Maryland,,Mount St. Mary's,REG (Non-Conf),W 80-56,*,28,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,0,4,4,5,0,0,2,0,5,5.0,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+2,92,2,2015-11-17,Maryland,,Georgetown,REG (Non-Conf),W 75-71,*,34,4,6,0.667,2,2,1.0,2,4,0.5,0.833,0,0,,0,2,2,7,1,0,1,0,10,12.9,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+3,93,3,2015-11-20,Maryland,,Rider,REG (Non-Conf),W 65-58,*,35,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,2,0.0,0,3,3,1,0,0,1,1,11,5.7,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+4,94,4,2015-11-24,Maryland,N,Illinois State,REG (Non-Conf),W 77-66,*,36,6,12,0.5,2,4,0.5,4,8,0.5,0.583,4,4,1.0,0,4,4,1,4,0,2,0,18,15.9,N,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+5,95,5,2015-11-25,Maryland,N,Rhode Island,REG (Non-Conf),W 86-63,*,29,6,7,0.857,4,5,0.8,2,2,1.0,1.143,1,2,0.5,1,1,2,4,0,0,2,2,17,15.1,N,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+6,96,6,2015-11-28,Maryland,,Cleveland State,REG (Non-Conf),W 80-63,*,30,2,7,0.286,0,2,0.0,2,5,0.4,0.286,2,2,1.0,0,4,4,3,2,0,1,0,6,6.2,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+7,97,7,2015-12-01,Maryland,@,North Carolina,REG (Non-Conf),L 81-89,*,35,6,12,0.5,5,9,0.556,1,3,0.333,0.708,1,1,1.0,0,3,3,3,1,1,3,1,18,13.3,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+8,98,8,2015-12-04,Maryland,,Saint Francis (PA),REG (Non-Conf),W 96-55,*,21,2,2,1.0,1,1,1.0,1,1,1.0,1.25,3,4,0.75,0,2,2,3,2,0,2,1,8,9.3,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+9,99,9,2015-12-08,Maryland,N,Connecticut,REG (Non-Conf),W 76-66,*,36,3,5,0.6,0,2,0.0,3,3,1.0,0.6,2,3,0.667,0,2,2,0,1,0,2,1,8,4.5,N,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+10,100,10,2015-12-12,Maryland,,Maryland Eastern Shore,REG (Non-Conf),W 77-56,*,29,1,5,0.2,0,3,0.0,1,2,0.5,0.2,2,2,1.0,0,1,1,10,1,0,2,0,4,7.2,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+11,101,11,2015-12-19,Maryland,N,Princeton,REG (Non-Conf),W 82-61,*,32,4,8,0.5,3,4,0.75,1,4,0.25,0.688,0,1,0.0,1,5,6,5,1,0,3,0,11,10.3,N,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+12,102,12,2015-12-27,Maryland,,Marshall,REG (Non-Conf),W 87-67,*,27,6,12,0.5,2,2,1.0,4,10,0.4,0.583,0,0,,1,4,5,4,2,0,5,0,14,9.7,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+13,103,13,2015-12-30,Maryland,,Penn State,REG (Conf),W 70-64,*,35,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,2,2,4,2,0,0,0,2,1,-0.3,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+14,104,14,2016-01-02,Maryland,@,Northwestern,REG (Conf),W 72-59,*,34,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,0,,0,6,6,6,1,1,1,1,16,18.4,A,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+15,105,15,2016-01-06,Maryland,,Rutgers,REG (Conf),W 88-63,*,23,5,11,0.455,2,4,0.5,3,7,0.429,0.545,3,4,0.75,0,5,5,2,1,0,3,2,15,9.0,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+16,106,16,2016-01-09,Maryland,@,Wisconsin,REG (Conf),W 63-60,*,35,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,1,0.0,0,2,2,4,0,0,3,2,4,0.5,A,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+17,107,17,2016-01-12,Maryland,@,Michigan,REG (Conf),L 67-70,*,37,3,10,0.3,2,6,0.333,1,4,0.25,0.4,0,0,,1,4,5,2,2,0,3,3,8,3.3,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+18,108,18,2016-01-16,Maryland,,Ohio State,REG (Conf),W 100-65,*,26,9,10,0.9,4,5,0.8,5,5,1.0,1.1,0,0,,1,1,2,5,1,0,0,1,22,23.7,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+19,109,19,2016-01-19,Maryland,,Northwestern,REG (Conf),W 62-56 (OT),*,41,0,4,0.0,0,2,0.0,0,2,0.0,0.0,2,4,0.5,1,0,1,2,0,0,1,2,2,-1.3,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+20,110,20,2016-01-23,Maryland,@,Michigan State,REG (Conf),L 65-74,*,39,2,11,0.182,2,8,0.25,0,3,0.0,0.273,2,3,0.667,1,6,7,3,0,0,3,1,8,1.9,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+21,111,21,2016-01-28,Maryland,,Iowa,REG (Conf),W 74-68,*,37,6,11,0.545,3,5,0.6,3,6,0.5,0.682,2,5,0.4,0,4,4,5,0,0,3,2,17,11.4,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+22,112,22,2016-01-31,Maryland,@,Ohio State,REG (Conf),W 66-61,*,28,1,3,0.333,1,1,1.0,0,2,0.0,0.5,4,4,1.0,0,2,2,5,2,0,2,3,7,8.2,A,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+23,113,23,2016-02-03,Maryland,@,Nebraska,REG (Conf),W 70-65,*,24,4,7,0.571,1,2,0.5,3,5,0.6,0.643,2,2,1.0,0,3,3,1,0,0,0,3,11,8.1,A,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+24,114,24,2016-02-06,Maryland,,Purdue,REG (Conf),W 72-61,*,37,7,12,0.583,0,2,0.0,7,10,0.7,0.583,7,8,0.875,0,10,10,0,1,0,3,0,21,16.0,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+25,115,25,2016-02-09,Maryland,,Bowie St.,REG (Non-Conf),W 93-62,*,20,7,10,0.7,0,2,0.0,7,8,0.875,0.7,2,2,1.0,0,4,4,2,3,0,2,0,16,15.4,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+26,116,26,2016-02-13,Maryland,,Wisconsin,REG (Conf),L 57-70,*,38,5,12,0.417,4,7,0.571,1,5,0.2,0.583,3,4,0.75,0,4,4,2,2,0,2,1,17,12.4,H,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+27,117,27,2016-02-18,Maryland,@,Minnesota,REG (Conf),L 63-68,*,39,8,18,0.444,4,8,0.5,4,10,0.4,0.556,8,10,0.8,0,2,2,1,1,0,1,2,28,18.3,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+28,118,28,2016-02-21,Maryland,,Michigan,REG (Conf),W 86-82,*,32,3,5,0.6,0,0,,3,5,0.6,0.6,2,2,1.0,0,2,2,4,0,1,1,3,8,7.6,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+29,119,29,2016-02-27,Maryland,@,Purdue,REG (Conf),L 79-83,*,38,2,10,0.2,1,5,0.2,1,5,0.2,0.25,4,4,1.0,0,4,4,4,2,0,2,3,9,5.6,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+30,120,30,2016-03-03,Maryland,,Illinois,REG (Conf),W 81-55,*,36,1,5,0.2,1,4,0.25,0,1,0.0,0.3,0,0,,0,3,3,9,0,0,0,2,3,6.3,H,1,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+31,121,31,2016-03-06,Maryland,@,Indiana,REG (Conf),L 62-80,*,31,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,0,3,3,3,1,0,3,3,4,0.4,A,0,1,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+32,122,32,2016-03-11,Maryland,N,Nebraska,CTOURN,W 97-86,*,31,3,4,0.75,1,1,1.0,2,3,0.667,0.875,3,4,0.75,0,3,3,6,1,0,1,3,10,11.9,N,1,0,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+33,123,33,2016-03-12,Maryland,N,Michigan State,CTOURN,L 61-64,*,38,3,10,0.3,2,4,0.5,1,6,0.167,0.4,1,3,0.333,0,2,2,3,2,0,1,1,9,5.7,N,0,0,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+34,124,34,2016-03-18,Maryland,N,South Dakota State,ROUND-64,W 79-74,*,36,3,8,0.375,0,2,0.0,3,6,0.5,0.375,1,2,0.5,0,2,2,3,4,0,2,2,7,6.1,N,1,0,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+35,125,35,2016-03-20,Maryland,N,Hawaii,ROUND-32,W 73-60,*,39,3,7,0.429,0,3,0.0,3,4,0.75,0.429,8,9,0.889,0,5,5,3,1,0,2,1,14,12.1,N,1,0,rasheed-sulaimon-1,Rasheed Sulaimon,2016
+36,126,36,2016-03-24,Maryland,N,Kansas,ROUND-16,L 63-79,*,38,6,12,0.5,2,7,0.286,4,5,0.8,0.583,4,4,1.0,0,3,3,2,2,0,0,3,18,15.1,N,0,0,rasheed-sulaimon-1,Rasheed Sulaimon,2016

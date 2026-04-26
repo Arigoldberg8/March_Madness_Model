@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,97,1,2016-11-11,North Dakota,,Crown (MN),REG (Non-Conf),W 98-48,*,34,3,10,0.3,2,4,0.5,1,6,0.167,0.4,9,11,0.818,0,1,1,2,3,0,0,0,17,15.1,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+2,98,2,2016-11-15,North Dakota,,Mayville St,REG (Non-Conf),W 94-66,*,34,11,14,0.786,5,7,0.714,6,7,0.857,0.964,3,4,0.75,1,5,6,3,3,1,2,2,30,29.4,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+3,99,3,2016-11-20,North Dakota,,Presentation,REG (Non-Conf),W 101-63,*,15,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,0,,1,3,4,4,2,0,0,2,10,14.4,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+4,100,4,2016-11-25,North Dakota,N,North Florida,REG (Non-Conf),L 75-76,*,37,11,18,0.611,4,11,0.364,7,7,1.0,0.722,3,5,0.6,0,4,4,3,0,1,1,1,29,22.6,N,0,1,quinton-hooker-1,Quinton Hooker,2017
+5,101,5,2016-11-26,North Dakota,@,Wright State,REG (Non-Conf),L 79-83,*,35,5,15,0.333,3,6,0.5,2,9,0.222,0.433,5,6,0.833,0,5,5,1,2,0,1,3,18,11.1,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+6,102,6,2016-11-27,North Dakota,N,Cal State Bakersfield,REG (Non-Conf),W 57-55,*,32,3,7,0.429,3,4,0.75,0,3,0.0,0.643,0,0,,1,3,4,1,0,0,2,4,9,4.0,N,1,1,quinton-hooker-1,Quinton Hooker,2017
+7,103,7,2016-12-07,North Dakota,@,North Dakota State,REG (Non-Conf),W 74-56,*,38,1,10,0.1,0,5,0.0,1,5,0.2,0.1,2,2,1.0,0,4,4,9,2,0,3,0,4,3.9,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+8,104,8,2016-12-10,North Dakota,@,Northern Iowa,REG (Non-Conf),L 70-78,*,38,8,18,0.444,4,12,0.333,4,6,0.667,0.556,2,2,1.0,1,4,5,5,2,0,2,3,22,16.8,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+9,105,9,2016-12-16,North Dakota,,North Dakota State,REG (Non-Conf),L 70-87,*,35,3,15,0.2,1,6,0.167,2,9,0.222,0.233,8,9,0.889,1,5,6,4,1,0,2,3,15,8.1,H,0,1,quinton-hooker-1,Quinton Hooker,2017
+10,106,10,2016-12-20,North Dakota,@,Iowa,REG (Non-Conf),L 73-84,*,35,4,10,0.4,3,6,0.5,1,4,0.25,0.55,7,7,1.0,0,3,3,3,0,0,3,4,18,11.0,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+11,107,11,2016-12-29,North Dakota,@,Portland State,REG (Conf),L 62-99,*,31,4,11,0.364,3,5,0.6,1,6,0.167,0.5,1,1,1.0,1,4,5,1,1,0,5,1,12,4.1,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+12,108,12,2016-12-31,North Dakota,@,Sacramento State,REG (Conf),W 90-82 (OT),*,42,9,14,0.643,3,6,0.5,6,8,0.75,0.75,10,10,1.0,0,5,5,3,1,0,2,2,31,26.6,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+13,109,13,2017-01-05,North Dakota,,Northern Arizona,REG (Conf),W 68-63,*,38,8,15,0.533,2,6,0.333,6,9,0.667,0.6,2,4,0.5,0,4,4,2,1,0,1,1,20,14.1,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+14,110,14,2017-01-07,North Dakota,,Southern Utah,REG (Conf),W 95-65,*,32,8,13,0.615,3,5,0.6,5,8,0.625,0.731,4,5,0.8,3,4,7,6,1,0,2,3,23,22.0,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+15,111,15,2017-01-12,North Dakota,@,Montana State,REG (Conf),W 90-85,*,37,7,12,0.583,3,4,0.75,4,8,0.5,0.708,7,8,0.875,1,7,8,3,2,0,1,1,24,23.5,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+16,112,16,2017-01-14,North Dakota,@,Montana,REG (Conf),L 70-76,*,36,4,11,0.364,0,2,0.0,4,9,0.444,0.364,0,0,,0,7,7,2,0,0,2,3,8,2.2,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+17,113,17,2017-01-19,North Dakota,,Weber State,REG (Conf),W 83-77,*,35,8,14,0.571,2,5,0.4,6,9,0.667,0.643,4,4,1.0,1,5,6,2,0,1,2,3,22,16.5,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+18,114,18,2017-01-21,North Dakota,,Idaho State,REG (Conf),W 89-64,*,36,5,10,0.5,4,6,0.667,1,4,0.25,0.7,2,2,1.0,0,3,3,6,2,0,1,3,16,15.9,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+19,115,19,2017-01-26,North Dakota,@,Southern Utah,REG (Conf),W 91-89,*,38,7,16,0.438,4,8,0.5,3,8,0.375,0.563,5,5,1.0,2,4,6,7,2,0,0,3,23,22.9,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+20,116,20,2017-01-28,North Dakota,@,Northern Arizona,REG (Conf),L 67-68,*,34,4,8,0.5,2,4,0.5,2,4,0.5,0.625,1,1,1.0,0,3,3,5,1,0,3,2,11,8.6,A,0,1,quinton-hooker-1,Quinton Hooker,2017
+21,117,21,2017-02-04,North Dakota,,Northern Colorado,REG (Conf),W 87-77 (OT),*,41,9,18,0.5,2,4,0.5,7,14,0.5,0.556,6,6,1.0,2,3,5,4,6,0,2,3,26,24.9,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+22,118,22,2017-02-09,North Dakota,,Eastern Washington,REG (Conf),W 95-86,*,40,10,18,0.556,4,6,0.667,6,12,0.5,0.667,11,13,0.846,1,4,5,1,3,0,0,3,35,30.0,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+23,119,23,2017-02-11,North Dakota,,Idaho,REG (Conf),W 88-65,*,36,7,13,0.538,3,6,0.5,4,7,0.571,0.654,4,4,1.0,1,3,4,3,1,0,3,1,21,16.0,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+24,120,24,2017-02-16,North Dakota,@,Idaho State,REG (Conf),W 77-61,*,38,5,14,0.357,3,8,0.375,2,6,0.333,0.464,0,0,,0,2,2,3,1,0,2,2,13,6.1,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+25,121,25,2017-02-18,North Dakota,@,Weber State,REG (Conf),W 77-68,*,39,8,17,0.471,2,5,0.4,6,12,0.5,0.529,4,4,1.0,2,6,8,4,3,0,1,0,22,21.3,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+26,122,26,2017-02-25,North Dakota,@,Northern Colorado,REG (Conf),W 84-81 (OT),,42,4,14,0.286,0,2,0.0,4,12,0.333,0.286,5,6,0.833,1,3,4,3,2,0,2,2,13,7.3,A,1,1,quinton-hooker-1,Quinton Hooker,2017
+27,123,27,2017-03-02,North Dakota,,Sacramento State,REG (Conf),L 53-57,*,39,5,12,0.417,2,7,0.286,3,5,0.6,0.5,0,0,,2,5,7,2,4,0,3,1,12,10.5,H,0,1,quinton-hooker-1,Quinton Hooker,2017
+28,124,28,2017-03-04,North Dakota,,Portland State,REG (Conf),W 82-73,*,38,10,18,0.556,2,6,0.333,8,12,0.667,0.611,7,7,1.0,0,5,5,2,6,0,3,0,29,26.3,H,1,1,quinton-hooker-1,Quinton Hooker,2017
+29,125,29,2017-03-09,North Dakota,N,Portland State,CTOURN,W 95-72,*,33,4,12,0.333,3,8,0.375,1,4,0.25,0.458,6,6,1.0,0,4,4,7,0,0,2,4,17,12.7,N,1,0,quinton-hooker-1,Quinton Hooker,2017
+30,126,30,2017-03-10,North Dakota,N,Idaho,CTOURN,W 69-64,*,36,4,12,0.333,2,6,0.333,2,6,0.333,0.417,3,5,0.6,1,3,4,5,0,1,0,2,13,10.4,N,1,0,quinton-hooker-1,Quinton Hooker,2017
+31,127,31,2017-03-11,North Dakota,N,Weber State,CTOURN,W 93-89 (OT),*,44,9,18,0.5,3,9,0.333,6,9,0.667,0.583,7,9,0.778,0,0,0,5,3,1,2,3,28,22.2,N,1,0,quinton-hooker-1,Quinton Hooker,2017
+32,128,32,2017-03-16,North Dakota,N,Arizona,ROUND-64,L 82-100,*,38,10,21,0.476,5,8,0.625,5,13,0.385,0.595,0,2,0.0,1,1,2,4,1,0,1,4,25,15.7,N,0,0,quinton-hooker-1,Quinton Hooker,2017

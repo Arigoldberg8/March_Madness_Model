@@ -1,0 +1,21 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,10,2020-12-29,Texas Tech,,Incarnate Word,REG (Non-Conf),W 79-51,,12,5,9,0.556,0,2,0.0,5,7,0.714,0.556,1,1,1.0,3,0,3,2,0,0,0,2,11,9.4,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+2,31,11,2021-01-02,Texas Tech,,Oklahoma State,REG (Conf),L 77-82 (OT),*,34,2,11,0.182,0,1,0.0,2,10,0.2,0.182,5,7,0.714,2,2,4,2,2,1,1,4,9,4.8,H,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+3,32,12,2021-01-05,Texas Tech,,Kansas State,REG (Conf),W 82-71,*,27,2,6,0.333,0,3,0.0,2,3,0.667,0.333,2,2,1.0,1,6,7,1,2,2,2,3,6,6.0,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+4,33,13,2021-01-09,Texas Tech,@,Iowa State,REG (Conf),W 91-64,*,27,5,8,0.625,0,1,0.0,5,7,0.714,0.625,5,6,0.833,3,8,11,0,2,1,1,1,15,16.8,A,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+5,34,14,2021-01-13,Texas Tech,@,Texas,REG (Conf),W 79-77,*,25,6,7,0.857,2,2,1.0,4,5,0.8,1.0,2,3,0.667,2,6,8,1,0,0,0,3,16,15.8,A,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+6,35,15,2021-01-16,Texas Tech,,Baylor,REG (Conf),L 60-68,*,35,3,11,0.273,0,3,0.0,3,8,0.375,0.273,4,4,1.0,4,6,10,3,2,4,2,3,10,11.8,H,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+7,36,16,2021-01-25,Texas Tech,@,West Virginia,REG (Conf),L 87-88,*,33,1,8,0.125,0,2,0.0,1,6,0.167,0.125,0,0,,1,7,8,4,2,0,0,4,2,2.8,A,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+8,37,17,2021-01-30,Texas Tech,@,Louisiana State,REG (Non-Conf),W 76-71,*,32,5,10,0.5,0,1,0.0,5,9,0.556,0.5,0,0,,1,5,6,3,0,0,3,4,10,4.7,A,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+9,38,18,2021-02-01,Texas Tech,,Oklahoma,REG (Conf),W 57-52,*,32,3,10,0.3,2,3,0.667,1,7,0.143,0.4,5,6,0.833,3,5,8,2,4,0,3,1,13,12.4,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+10,39,19,2021-02-06,Texas Tech,@,Kansas State,REG (Conf),W 73-62,*,36,4,8,0.5,3,4,0.75,1,4,0.25,0.688,4,5,0.8,2,4,6,4,0,0,1,3,15,13.8,A,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+11,40,20,2021-02-09,Texas Tech,,West Virginia,REG (Conf),L 71-82,*,31,3,6,0.5,0,1,0.0,3,5,0.6,0.5,2,4,0.5,1,0,1,1,3,2,2,4,8,6.4,H,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+12,41,21,2021-02-20,Texas Tech,@,Kansas,REG (Conf),L 61-67,*,33,4,10,0.4,1,4,0.25,3,6,0.5,0.45,3,6,0.5,0,9,9,2,0,1,0,3,12,9.0,A,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+13,42,22,2021-02-22,Texas Tech,@,Oklahoma State,REG (Conf),L 69-74 (OT),*,37,5,10,0.5,1,1,1.0,4,9,0.444,0.55,1,2,0.5,2,5,7,1,4,0,5,4,12,7.6,A,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+14,43,23,2021-02-27,Texas Tech,,Texas,REG (Conf),W 68-59,*,33,3,6,0.5,0,1,0.0,3,5,0.6,0.5,4,5,0.8,0,5,5,3,4,1,1,2,10,13.1,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+15,44,24,2021-03-02,Texas Tech,,TCU,REG (Conf),W 69-49,*,27,4,8,0.5,1,3,0.333,3,5,0.6,0.563,0,1,0.0,1,4,5,2,1,1,1,3,9,7.4,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+16,45,25,2021-03-04,Texas Tech,,Iowa State,REG (Conf),W 81-54,*,24,0,0,,0,0,,0,0,,,2,4,0.5,0,7,7,2,1,1,0,3,2,5.2,H,1,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+17,46,26,2021-03-07,Texas Tech,@,Baylor,REG (Conf),L 73-88,*,24,2,9,0.222,0,5,0.0,2,4,0.5,0.222,7,10,0.7,0,1,1,2,1,0,1,4,11,4.4,A,0,1,kevin-mccullar-1,Kevin McCullar Jr.,2021
+18,47,27,2021-03-11,Texas Tech,N,Texas,CTOURN,L 66-67,*,35,5,13,0.385,0,1,0.0,5,12,0.417,0.385,1,2,0.5,1,3,4,1,6,1,4,2,11,7.7,N,0,0,kevin-mccullar-1,Kevin McCullar Jr.,2021
+19,48,28,2021-03-19,Texas Tech,N,Utah State,ROUND-64,W 65-53,*,37,4,10,0.4,2,4,0.5,2,6,0.333,0.5,0,0,,1,6,7,3,0,1,2,3,10,6.7,N,1,0,kevin-mccullar-1,Kevin McCullar Jr.,2021
+20,49,29,2021-03-21,Texas Tech,N,Arkansas,ROUND-32,L 66-68,*,34,6,13,0.462,1,4,0.25,5,9,0.556,0.5,2,3,0.667,2,6,8,2,0,0,1,4,15,9.9,N,0,0,kevin-mccullar-1,Kevin McCullar Jr.,2021

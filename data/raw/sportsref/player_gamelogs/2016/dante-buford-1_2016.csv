@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2015-11-17,Oklahoma,@,Memphis,REG (Non-Conf),W 84-78,,23,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,1,7,8,1,1,2,0,1,5,8.5,A,1,1,dante-buford-1,Dante Buford,2016
+2,2,2,2015-11-20,Oklahoma,,McNeese State,REG (Non-Conf),W 85-56,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,1,2,1,0,0,2,1,0,-1.4,H,1,1,dante-buford-1,Dante Buford,2016
+3,3,3,2015-11-24,Oklahoma,,Incarnate Word,REG (Non-Conf),W 96-63,,4,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,3,0,2,-0.6,H,1,1,dante-buford-1,Dante Buford,2016
+4,4,4,2015-11-29,Oklahoma,,Wisconsin,REG (Non-Conf),W 65-48,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,0,0,0.7,H,1,1,dante-buford-1,Dante Buford,2016
+5,5,5,2015-12-03,Oklahoma,,Central Arkansas,REG (Non-Conf),W 111-68,,7,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,1,1,1,0,0,0,1,3,2.6,H,1,1,dante-buford-1,Dante Buford,2016
+6,6,6,2015-12-07,Oklahoma,N,Villanova,REG (Non-Conf),W 78-55,,1,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,0,0,0.3,N,1,1,dante-buford-1,Dante Buford,2016
+7,7,7,2015-12-12,Oklahoma,,Oral Roberts,REG (Non-Conf),W 96-73,,4,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,dante-buford-1,Dante Buford,2016
+8,8,8,2015-12-19,Oklahoma,,Creighton,REG (Non-Conf),W 87-74,,10,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,0,3,3,0,0,1,1,0,2,1.9,H,1,1,dante-buford-1,Dante Buford,2016
+9,9,9,2015-12-22,Oklahoma,N,Washington State,REG (Non-Conf),W 88-60,,16,4,7,0.571,1,1,1.0,3,6,0.5,0.643,2,2,1.0,2,3,5,1,1,0,1,0,11,10.7,N,1,1,dante-buford-1,Dante Buford,2016
+10,10,10,2015-12-23,Oklahoma,@,Hawaii,REG (Non-Conf),W 84-81,,17,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,0,0,2,2,0,2,2,3,1.5,A,1,1,dante-buford-1,Dante Buford,2016
+11,11,11,2015-12-25,Oklahoma,N,Harvard,REG (Non-Conf),W 83-71,,5,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,1,2,0,-2.5,N,1,1,dante-buford-1,Dante Buford,2016
+12,12,13,2016-01-04,Oklahoma,@,Kansas,REG (Conf),L 106-109 (3OT),,10,0,4,0.0,0,1,0.0,0,3,0.0,0.0,1,2,0.5,0,1,1,1,0,2,0,1,1,-0.2,A,0,1,dante-buford-1,Dante Buford,2016
+13,13,14,2016-01-09,Oklahoma,,Kansas State,REG (Conf),W 86-76,,8,2,6,0.333,0,0,,2,6,0.333,0.333,0,0,,2,0,2,1,0,0,1,1,4,1.3,H,1,1,dante-buford-1,Dante Buford,2016
+14,14,15,2016-01-13,Oklahoma,@,Oklahoma State,REG (Conf),W 74-72,,10,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,2,1,3,0,0,0,0,2,0,0.2,A,1,1,dante-buford-1,Dante Buford,2016
+15,15,16,2016-01-16,Oklahoma,,West Virginia,REG (Conf),W 70-68,,17,1,5,0.2,0,3,0.0,1,2,0.5,0.2,7,8,0.875,1,1,2,1,0,0,0,0,9,7.2,H,1,1,dante-buford-1,Dante Buford,2016
+16,16,17,2016-01-18,Oklahoma,@,Iowa State,REG (Conf),L 77-82,,16,4,7,0.571,4,4,1.0,0,3,0.0,0.857,2,5,0.4,1,0,1,0,0,0,0,1,14,9.8,A,0,1,dante-buford-1,Dante Buford,2016
+17,17,18,2016-01-23,Oklahoma,@,Baylor,REG (Conf),W 82-72,,21,3,7,0.429,0,2,0.0,3,5,0.6,0.429,0,0,,0,0,0,1,2,0,0,1,6,4.6,A,1,1,dante-buford-1,Dante Buford,2016
+18,18,19,2016-01-26,Oklahoma,,Texas Tech,REG (Conf),W 91-67,,16,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,1,2,3,0,1,1,1,2,3,1.4,H,1,1,dante-buford-1,Dante Buford,2016
+19,19,20,2016-01-30,Oklahoma,@,Louisiana State,REG (Non-Conf),W 77-75,,13,0,4,0.0,0,1,0.0,0,3,0.0,0.0,0,0,,0,0,0,0,0,0,0,2,0,-3.6,A,1,1,dante-buford-1,Dante Buford,2016
+20,20,21,2016-02-02,Oklahoma,,TCU,REG (Conf),W 95-72,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,2,4,0.5,0,3,3,0,0,0,1,1,7,4.4,H,1,1,dante-buford-1,Dante Buford,2016
+21,21,22,2016-02-06,Oklahoma,@,Kansas State,REG (Conf),L 69-80,,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,2,2,0,0,0,1,4,5,-0.1,A,0,1,dante-buford-1,Dante Buford,2016
+22,22,23,2016-02-08,Oklahoma,,Texas,REG (Conf),W 63-60,,13,1,1,1.0,1,1,1.0,0,0,,1.5,2,2,1.0,0,1,1,1,0,0,0,1,5,5.3,H,1,1,dante-buford-1,Dante Buford,2016
+23,23,24,2016-02-13,Oklahoma,,Kansas,REG (Conf),L 72-76,,14,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,0,1,1,1,0,0,0,1,2,0.2,H,0,1,dante-buford-1,Dante Buford,2016
+24,24,25,2016-02-17,Oklahoma,@,Texas Tech,REG (Conf),L 63-65,,13,1,4,0.25,0,1,0.0,1,3,0.333,0.25,0,0,,2,1,3,0,0,0,1,1,2,-0.1,A,0,1,dante-buford-1,Dante Buford,2016
+25,25,26,2016-02-20,Oklahoma,@,West Virginia,REG (Conf),W 76-62,,17,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,0,3,3,0,0,2,1,1,2,2.2,A,1,1,dante-buford-1,Dante Buford,2016
+26,26,27,2016-02-24,Oklahoma,,Oklahoma State,REG (Conf),W 71-49,,16,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,0,0,3,3.0,H,1,1,dante-buford-1,Dante Buford,2016
+27,27,28,2016-02-27,Oklahoma,@,Texas,REG (Conf),L 63-76,,13,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,2,4,0,0,0,0,3,4,4.2,A,0,1,dante-buford-1,Dante Buford,2016
+28,28,29,2016-03-01,Oklahoma,,Baylor,REG (Conf),W 73-71,,14,1,3,0.333,1,2,0.5,0,1,0.0,0.5,3,4,0.75,0,2,2,1,0,1,1,1,6,4.5,H,1,1,dante-buford-1,Dante Buford,2016
+29,29,30,2016-03-05,Oklahoma,@,TCU,REG (Conf),W 75-67,,19,1,6,0.167,0,2,0.0,1,4,0.25,0.167,4,4,1.0,2,1,3,0,1,0,1,0,6,3.9,A,1,1,dante-buford-1,Dante Buford,2016
+30,30,31,2016-03-10,Oklahoma,N,Iowa State,CTOURN,W 79-76,,17,0,5,0.0,0,2,0.0,0,3,0.0,0.0,2,2,1.0,0,1,1,0,0,0,2,2,2,-4.0,N,1,0,dante-buford-1,Dante Buford,2016
+31,31,32,2016-03-11,Oklahoma,N,West Virginia,CTOURN,L 67-69,,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,1,2,1,0,0,2,0,4,2.0,N,0,0,dante-buford-1,Dante Buford,2016
+32,32,33,2016-03-18,Oklahoma,N,Cal State Bakersfield,ROUND-64,W 82-68,,18,3,7,0.429,2,4,0.5,1,3,0.333,0.571,1,3,0.333,0,1,1,4,1,1,2,1,9,6.9,N,1,0,dante-buford-1,Dante Buford,2016
+33,33,34,2016-03-20,Oklahoma,N,VCU,ROUND-32,W 85-81,,7,0,0,,0,0,,0,0,,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,N,1,0,dante-buford-1,Dante Buford,2016
+34,34,35,2016-03-24,Oklahoma,N,Texas A&M,ROUND-16,W 77-63,,7,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,0,0,0,0,0,1,0,2,-0.7,N,1,0,dante-buford-1,Dante Buford,2016
+35,35,36,2016-03-26,Oklahoma,N,Oregon,ROUND-8,W 80-68,,13,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,1,2,0,0,0,1,2,4,1.2,N,1,0,dante-buford-1,Dante Buford,2016
+36,36,37,2016-04-02,Oklahoma,N,Villanova,NATIONAL-SEMI,L 51-95,,8,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,N,0,0,dante-buford-1,Dante Buford,2016

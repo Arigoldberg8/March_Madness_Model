@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,87,1,2023-11-06,Clemson,,Winthrop,REG (Non-Conf),W 78-56,,15,2,5,0.4,2,4,0.5,0,1,0.0,0.6,0,0,,1,4,5,2,1,1,0,1,6,7.9,H,1,1,jack-clarke-1,Jack Clark,2024
+2,88,2,2023-11-10,Clemson,N,UAB,REG (Non-Conf),W 77-76,,14,1,3,0.333,0,2,0.0,1,1,1.0,0.333,2,3,0.667,0,2,2,0,0,1,0,1,4,2.8,N,1,1,jack-clarke-1,Jack Clark,2024
+3,89,3,2023-11-12,Clemson,N,Davidson,REG (Non-Conf),W 68-65,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,2,2,0,0,1,0,0,0,0.6,N,1,1,jack-clarke-1,Jack Clark,2024
+4,90,4,2023-11-19,Clemson,,Boise State,REG (Non-Conf),W 85-68,*,20,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,2,2,4,0,1,0,1,2,2,1.5,H,1,1,jack-clarke-1,Jack Clark,2024
+5,91,5,2023-11-24,Clemson,,Alcorn State,REG (Non-Conf),W 90-69,*,15,2,5,0.4,1,4,0.25,1,1,1.0,0.5,0,0,,1,1,2,1,0,0,0,2,5,3.2,H,1,1,jack-clarke-1,Jack Clark,2024
+6,92,6,2023-11-28,Clemson,@,Alabama,REG (Non-Conf),W 85-77,*,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,A,1,1,jack-clarke-1,Jack Clark,2024
+7,93,17,2024-01-16,Clemson,,Georgia Tech,REG (Conf),L 90-93 (2OT),,10,0,3,0.0,0,2,0.0,0,1,0.0,0.0,0,0,,1,1,2,1,0,0,0,1,0,-0.8,H,0,1,jack-clarke-1,Jack Clark,2024
+8,94,18,2024-01-20,Clemson,@,Florida State,REG (Conf),W 78-67,,21,2,5,0.4,1,2,0.5,1,3,0.333,0.5,2,2,1.0,3,4,7,4,1,0,1,2,7,9.6,A,1,1,jack-clarke-1,Jack Clark,2024
+9,95,19,2024-01-27,Clemson,@,Duke,REG (Conf),L 71-72,,17,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,0,3,3,1,1,0,0,2,3,3.8,A,0,1,jack-clarke-1,Jack Clark,2024
+10,96,20,2024-01-30,Clemson,,Louisville,REG (Conf),W 70-64,,8,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,1,0,0,2,1,2,-0.1,H,1,1,jack-clarke-1,Jack Clark,2024
+11,97,21,2024-02-03,Clemson,,Virginia,REG (Conf),L 65-66,,18,0,5,0.0,0,2,0.0,0,3,0.0,0.0,0,0,,4,4,8,2,0,0,0,2,0,1.1,H,0,1,jack-clarke-1,Jack Clark,2024
+12,98,22,2024-02-06,Clemson,@,North Carolina,REG (Conf),W 80-76,*,33,1,6,0.167,0,3,0.0,1,3,0.333,0.167,4,4,1.0,0,7,7,0,1,1,0,3,6,4.8,A,1,1,jack-clarke-1,Jack Clark,2024
+13,99,23,2024-02-10,Clemson,@,Syracuse,REG (Conf),W 77-68,*,29,2,6,0.333,1,3,0.333,1,3,0.333,0.417,0,0,,3,7,10,1,0,1,2,1,5,4.8,A,1,1,jack-clarke-1,Jack Clark,2024
+14,100,24,2024-02-14,Clemson,,Miami (FL),REG (Conf),W 77-60,*,27,3,5,0.6,1,2,0.5,2,3,0.667,0.7,1,2,0.5,0,6,6,3,2,2,0,0,8,12.6,H,1,1,jack-clarke-1,Jack Clark,2024
+15,101,25,2024-02-17,Clemson,,NC State,REG (Conf),L 77-78,*,33,3,4,0.75,1,2,0.5,2,2,1.0,0.875,1,1,1.0,2,5,7,0,1,1,0,2,8,10.2,H,0,1,jack-clarke-1,Jack Clark,2024
+16,102,26,2024-02-21,Clemson,@,Georgia Tech,REG (Conf),W 81-57,*,27,3,6,0.5,2,4,0.5,1,2,0.5,0.667,0,0,,1,4,5,4,1,1,1,1,8,10.0,A,1,1,jack-clarke-1,Jack Clark,2024
+17,103,27,2024-02-24,Clemson,,Florida State,REG (Conf),W 74-63,*,33,0,5,0.0,0,3,0.0,0,2,0.0,0.0,1,2,0.5,3,8,11,1,1,1,2,1,1,1.6,H,1,1,jack-clarke-1,Jack Clark,2024
+18,104,28,2024-02-27,Clemson,,Pittsburgh,REG (Conf),W 69-62,*,35,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,9,9,1,0,0,1,1,2,3.0,H,1,1,jack-clarke-1,Jack Clark,2024
+19,105,30,2024-03-05,Clemson,,Syracuse,REG (Conf),W 90-75,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,5,3,1,1,2,7,9.7,H,1,1,jack-clarke-1,Jack Clark,2024
+20,106,31,2024-03-09,Clemson,@,Wake Forest,REG (Conf),L 76-81,*,33,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,0,3,3,0,2,0,1,2,10,9.2,A,0,1,jack-clarke-1,Jack Clark,2024
+21,107,32,2024-03-13,Clemson,N,Boston College,CTOURN,L 55-76,*,24,2,6,0.333,0,2,0.0,2,4,0.5,0.333,3,4,0.75,2,1,3,0,1,0,0,1,7,5.5,N,0,0,jack-clarke-1,Jack Clark,2024
+22,108,33,2024-03-22,Clemson,N,New Mexico,ROUND-64,W 77-56,*,36,1,2,0.5,0,1,0.0,1,1,1.0,0.5,4,4,1.0,1,7,8,4,1,1,0,2,6,11.5,N,1,0,jack-clarke-1,Jack Clark,2024
+23,109,34,2024-03-24,Clemson,N,Baylor,ROUND-32,W 72-64,*,34,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,2,6,8,1,1,1,1,4,7,7.7,N,1,0,jack-clarke-1,Jack Clark,2024
+24,110,35,2024-03-28,Clemson,N,Arizona,ROUND-16,W 77-72,*,30,2,3,0.667,1,1,1.0,1,2,0.5,0.833,2,2,1.0,3,1,4,2,0,0,1,2,7,7.7,N,1,0,jack-clarke-1,Jack Clark,2024
+25,111,36,2024-03-30,Clemson,N,Alabama,ROUND-8,L 82-89,*,29,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,2,0.0,2,1,3,1,2,0,0,3,7,5.7,N,0,0,jack-clarke-1,Jack Clark,2024

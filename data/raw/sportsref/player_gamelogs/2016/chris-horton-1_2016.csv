@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,92,1,2015-11-13,Austin Peay,@,Vanderbilt,REG (Non-Conf),L 41-80,*,24,3,14,0.214,0,0,3,14,0.214,0.214,1,2,0.5,5,9,14,0,1,0,3,1,7,1.8,A,0,1,chris-horton-1,Chris Horton,2016
+2,93,2,2015-11-16,Austin Peay,@,Indiana,REG (Non-Conf),L 76-102,*,37,8,13,0.615,0,0,8,13,0.615,0.615,1,1,1.0,4,8,12,4,0,4,5,2,17,16.1,A,0,1,chris-horton-1,Chris Horton,2016
+3,94,3,2015-11-18,Austin Peay,,IPFW,REG (Non-Conf),L 77-80,*,30,5,9,0.556,0,0,5,9,0.556,0.556,6,7,0.857,4,5,9,0,0,2,7,4,16,8.4,H,0,1,chris-horton-1,Chris Horton,2016
+4,95,4,2015-11-21,Austin Peay,N,Cal Poly,REG (Non-Conf),L 64-73,*,34,8,9,0.889,0,0,8,9,0.889,0.889,4,4,1.0,2,10,12,2,0,2,3,1,20,20.7,N,0,1,chris-horton-1,Chris Horton,2016
+5,96,5,2015-11-22,Austin Peay,@,Northern Colorado,REG (Non-Conf),W 91-76,*,26,5,6,0.833,0,0,5,6,0.833,0.833,5,7,0.714,3,7,10,0,0,2,1,3,15,15.4,A,1,1,chris-horton-1,Chris Horton,2016
+6,97,6,2015-11-25,Austin Peay,,Oakland City,REG (Non-Conf),W 83-55,*,28,6,11,0.545,0,0,6,11,0.545,0.545,5,5,1.0,10,9,19,0,0,4,0,2,17,23.4,H,1,1,chris-horton-1,Chris Horton,2016
+7,98,7,2015-11-28,Austin Peay,,Samford,REG (Non-Conf),W 74-73,*,36,4,11,0.364,0,0,4,11,0.364,0.364,4,8,0.5,5,9,14,2,1,4,0,1,12,15.3,H,1,1,chris-horton-1,Chris Horton,2016
+8,99,8,2015-12-02,Austin Peay,@,Texas A&M–Corpus Christi,REG (Non-Conf),L 48-61,*,37,8,14,0.571,0,0,8,14,0.571,0.571,2,9,0.222,9,5,14,1,2,1,3,1,18,16.4,A,0,1,chris-horton-1,Chris Horton,2016
+9,100,9,2015-12-05,Austin Peay,@,Troy,REG (Non-Conf),W 80-71,*,33,7,11,0.636,0,0,7,11,0.636,0.636,7,8,0.875,8,5,13,0,0,5,1,3,21,24.1,A,1,1,chris-horton-1,Chris Horton,2016
+10,101,10,2015-12-12,Austin Peay,@,IPFW,REG (Non-Conf),L 68-85,*,32,4,13,0.308,0,0,4,13,0.308,0.308,8,10,0.8,7,8,15,2,0,1,7,4,16,8.5,A,0,1,chris-horton-1,Chris Horton,2016
+11,102,11,2015-12-16,Austin Peay,@,North Florida,REG (Non-Conf),L 70-80,*,38,13,19,0.684,0,0,13,19,0.684,0.684,2,6,0.333,10,7,17,0,3,1,3,0,28,28.1,A,0,1,chris-horton-1,Chris Horton,2016
+12,103,12,2015-12-20,Austin Peay,@,Lipscomb,REG (Non-Conf),W 92-84,*,36,16,17,0.941,0,0,16,17,0.941,0.941,5,8,0.625,4,9,13,2,1,1,5,2,37,33.1,A,1,1,chris-horton-1,Chris Horton,2016
+13,104,13,2015-12-22,Austin Peay,,Wofford,REG (Non-Conf),W 84-77,*,36,7,12,0.583,0,0,7,12,0.583,0.583,6,11,0.545,3,10,13,0,0,2,4,2,20,14.1,H,1,1,chris-horton-1,Chris Horton,2016
+14,105,14,2015-12-28,Austin Peay,,Texas A&M–Corpus Christi,REG (Non-Conf),L 70-74,*,29,4,8,0.5,0,0,4,8,0.5,0.5,3,5,0.6,3,5,8,0,2,0,1,2,11,10.0,H,0,1,chris-horton-1,Chris Horton,2016
+15,106,15,2015-12-30,Austin Peay,,Westminster (MO),REG (Non-Conf),W 112-61,*,24,9,11,0.818,0,0,9,11,0.818,0.818,0,0,,1,5,6,6,3,2,1,0,18,23.7,H,1,1,chris-horton-1,Chris Horton,2016
+16,107,16,2016-01-02,Austin Peay,,Eastern Kentucky,REG (Conf),L 70-79,*,28,3,5,0.6,0,0,3,5,0.6,0.6,9,13,0.692,4,9,13,0,1,1,2,4,15,14.7,H,0,1,chris-horton-1,Chris Horton,2016
+17,108,17,2016-01-07,Austin Peay,,Jacksonville State,REG (Conf),W 73-54,*,30,9,12,0.75,0,0,9,12,0.75,0.75,6,9,0.667,4,9,13,3,2,3,3,1,24,26.3,H,1,1,chris-horton-1,Chris Horton,2016
+18,109,18,2016-01-09,Austin Peay,,Tennessee Tech,REG (Conf),L 66-72,*,32,8,15,0.533,0,0,8,15,0.533,0.533,4,10,0.4,6,5,11,1,3,3,3,1,20,18.4,H,0,1,chris-horton-1,Chris Horton,2016
+19,110,19,2016-01-14,Austin Peay,@,Tennessee State,REG (Conf),L 52-66,*,31,7,11,0.636,0,0,7,11,0.636,0.636,3,7,0.429,4,4,8,1,1,1,4,2,17,12.1,A,0,1,chris-horton-1,Chris Horton,2016
+20,111,20,2016-01-16,Austin Peay,@,Belmont,REG (Conf),L 58-76,*,38,7,13,0.538,0,0,7,13,0.538,0.538,5,9,0.556,9,5,14,1,4,3,5,1,19,20.3,A,0,1,chris-horton-1,Chris Horton,2016
+21,112,21,2016-01-21,Austin Peay,,SIU Edwardsville,REG (Conf),W 90-86 (OT),*,41,6,16,0.375,0,0,6,16,0.375,0.375,3,6,0.5,7,8,15,0,0,1,3,4,15,8.4,H,1,1,chris-horton-1,Chris Horton,2016
+22,113,22,2016-01-23,Austin Peay,,Eastern Illinois,REG (Conf),L 86-87 (OT),*,32,7,10,0.7,0,0,7,10,0.7,0.7,8,14,0.571,5,10,15,1,0,1,2,3,22,20.1,H,0,1,chris-horton-1,Chris Horton,2016
+23,114,23,2016-01-27,Austin Peay,@,Morehead State,REG (Conf),L 65-75,*,35,7,10,0.7,0,0,7,10,0.7,0.7,8,8,1.0,1,8,9,1,2,1,1,1,22,22.9,A,0,1,chris-horton-1,Chris Horton,2016
+24,115,24,2016-01-30,Austin Peay,@,Southeast Missouri State,REG (Conf),W 86-80,*,38,5,7,0.714,0,0,5,7,0.714,0.714,5,6,0.833,2,7,9,3,2,2,1,0,15,19.7,A,1,1,chris-horton-1,Chris Horton,2016
+25,116,25,2016-02-04,Austin Peay,@,UT Martin,REG (Conf),L 77-86,*,36,5,9,0.556,0,0,5,9,0.556,0.556,5,8,0.625,5,6,11,6,2,1,2,4,15,18.1,A,0,1,chris-horton-1,Chris Horton,2016
+26,117,26,2016-02-06,Austin Peay,@,Murray State,REG (Conf),W 76-73,*,38,11,17,0.647,0,0,11,17,0.647,0.647,7,12,0.583,4,6,10,0,4,1,2,3,29,25.6,A,1,1,chris-horton-1,Chris Horton,2016
+27,118,27,2016-02-10,Austin Peay,@,Eastern Illinois,REG (Conf),W 79-70,*,38,8,16,0.5,0,0,8,16,0.5,0.5,3,5,0.6,7,6,13,2,2,1,4,0,19,17.0,A,1,1,chris-horton-1,Chris Horton,2016
+28,119,28,2016-02-13,Austin Peay,,UT Martin,REG (Conf),L 84-85 (OT),*,33,5,6,0.833,0,0,5,6,0.833,0.833,9,14,0.643,6,5,11,0,2,5,2,4,19,22.4,H,0,1,chris-horton-1,Chris Horton,2016
+29,120,29,2016-02-20,Austin Peay,,Murray State,REG (Conf),L 60-76,*,35,6,9,0.667,0,0,6,9,0.667,0.667,4,9,0.444,1,5,6,1,1,2,2,2,16,12.6,H,0,1,chris-horton-1,Chris Horton,2016
+30,121,30,2016-02-25,Austin Peay,@,SIU Edwardsville,REG (Conf),W 80-75,*,27,5,10,0.5,0,0,5,10,0.5,0.5,5,10,0.5,4,5,9,1,2,2,3,2,15,12.6,A,1,1,chris-horton-1,Chris Horton,2016
+31,122,31,2016-02-27,Austin Peay,,Southeast Missouri State,REG (Conf),W 83-75,*,36,7,13,0.538,0,0,7,13,0.538,0.538,3,4,0.75,2,7,9,0,2,1,4,2,17,11.7,H,1,1,chris-horton-1,Chris Horton,2016
+32,123,32,2016-03-02,Austin Peay,N,Tennessee Tech,CTOURN,W 92-72,*,37,13,16,0.813,0,0,13,16,0.813,0.813,11,18,0.611,8,13,21,3,2,0,3,4,37,37.2,N,1,0,chris-horton-1,Chris Horton,2016
+33,124,33,2016-03-03,Austin Peay,N,Tennessee State,CTOURN,W 74-72,*,37,5,9,0.556,0,0,5,9,0.556,0.556,5,12,0.417,2,10,12,4,0,3,1,1,15,15.8,N,1,0,chris-horton-1,Chris Horton,2016
+34,125,34,2016-03-04,Austin Peay,N,Belmont,CTOURN,W 97-96 (OT),*,41,8,11,0.727,0,0,8,11,0.727,0.727,14,16,0.875,10,6,16,4,1,0,4,4,30,31.7,N,1,0,chris-horton-1,Chris Horton,2016
+35,126,35,2016-03-05,Austin Peay,N,UT Martin,CTOURN,W 83-73,*,34,4,9,0.444,0,0,4,9,0.444,0.444,0,0,,4,3,7,3,1,0,2,1,8,7.7,N,1,0,chris-horton-1,Chris Horton,2016
+36,127,36,2016-03-17,Austin Peay,N,Kansas,ROUND-64,L 79-105,*,36,5,12,0.417,0,0,5,12,0.417,0.417,4,9,0.444,4,6,10,0,2,0,1,4,14,9.6,N,0,0,chris-horton-1,Chris Horton,2016

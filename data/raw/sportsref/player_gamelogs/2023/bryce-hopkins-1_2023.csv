@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,29,1,2022-11-08,Providence,,Rider,REG (Non-Conf),W 66-65,*,36,3,10,0.3,1,3,0.333,2,7,0.286,0.35,11,16,0.688,2,4,6,1,0,1,0,1,18,13.8,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+2,30,2,2022-11-12,Providence,,Northeastern,REG (Non-Conf),W 89-65,*,33,4,9,0.444,0,0,,4,9,0.444,0.444,2,4,0.5,4,7,11,1,1,0,3,3,10,6.9,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+3,31,3,2022-11-15,Providence,,Stonehill,REG (Non-Conf),W 100-76,*,30,5,8,0.625,0,0,,5,8,0.625,0.625,6,6,1.0,1,7,8,4,0,1,0,3,16,17.5,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+4,32,4,2022-11-19,Providence,N,Miami (FL),REG (Non-Conf),L 64-74,*,35,6,8,0.75,1,2,0.5,5,6,0.833,0.813,3,4,0.75,0,8,8,1,1,0,6,4,16,8.9,N,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+5,33,5,2022-11-20,Providence,N,Saint Louis,REG (Non-Conf),L 73-76,*,36,6,10,0.6,2,3,0.667,4,7,0.571,0.7,6,6,1.0,3,6,9,2,1,0,3,4,20,17.1,N,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+6,34,6,2022-11-23,Providence,,Merrimack,REG (Non-Conf),W 71-57,*,35,5,15,0.333,0,3,0.0,5,12,0.417,0.333,3,5,0.6,3,6,9,1,0,0,1,2,13,6.5,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+7,35,7,2022-11-26,Providence,,Columbia,REG (Non-Conf),W 78-64,*,30,3,9,0.333,1,2,0.5,2,7,0.286,0.389,0,0,,3,4,7,6,1,1,4,2,7,6.3,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+8,36,8,2022-11-30,Providence,@,TCU,REG (Non-Conf),L 62-75,*,30,7,14,0.5,1,3,0.333,6,11,0.545,0.536,2,3,0.667,0,4,4,4,1,0,4,3,17,9.4,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+9,37,9,2022-12-03,Providence,@,Rhode Island,REG (Non-Conf),W 88-74,*,35,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,2,1.0,5,10,15,4,1,0,3,3,14,13.4,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+10,38,10,2022-12-07,Providence,,Manhattan,REG (Non-Conf),W 99-59,*,26,8,12,0.667,2,3,0.667,6,9,0.667,0.75,4,5,0.8,1,10,11,3,1,0,3,1,22,19.8,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+11,39,11,2022-12-10,Providence,,Albany (NY),REG (Non-Conf),W 93-55,*,21,4,9,0.444,0,3,0.0,4,6,0.667,0.444,3,3,1.0,1,4,5,2,1,0,2,0,11,8.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+12,40,12,2022-12-17,Providence,@,Seton Hall,REG (Conf),W 71-67,*,37,8,15,0.533,2,2,1.0,6,13,0.462,0.6,6,10,0.6,2,8,10,3,0,0,2,3,24,17.8,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+13,41,13,2022-12-20,Providence,,Marquette,REG (Conf),W 103-98 (2OT),*,47,8,14,0.571,0,2,0.0,8,12,0.667,0.571,13,18,0.722,8,15,23,2,3,1,4,0,29,31.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+14,42,14,2022-12-29,Providence,@,Butler,REG (Conf),W 72-52,*,28,2,8,0.25,0,0,,2,8,0.25,0.25,2,2,1.0,0,8,8,1,1,1,2,2,6,3.2,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+15,43,15,2023-01-01,Providence,@,DePaul,REG (Conf),W 74-59,*,33,5,9,0.556,0,1,0.0,5,8,0.625,0.556,2,6,0.333,1,7,8,1,2,1,6,3,12,5.1,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+16,44,16,2023-01-04,Providence,,Connecticut,REG (Conf),W 73-61,*,35,6,12,0.5,2,2,1.0,4,10,0.4,0.583,13,15,0.867,0,5,5,0,0,1,1,5,27,19.4,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+17,45,17,2023-01-07,Providence,,St. John's (NY),REG (Conf),W 83-80,*,38,3,10,0.3,0,1,0.0,3,9,0.333,0.3,4,8,0.5,1,6,7,1,0,2,2,0,10,5.2,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+18,46,18,2023-01-14,Providence,@,Creighton,REG (Conf),L 67-73,*,34,6,13,0.462,1,1,1.0,5,12,0.417,0.5,7,8,0.875,1,9,10,2,1,0,4,4,20,13.1,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+19,47,19,2023-01-18,Providence,@,Marquette,REG (Conf),L 75-83,*,38,9,16,0.563,0,2,0.0,9,14,0.643,0.563,1,1,1.0,4,6,10,4,0,0,3,4,19,14.2,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+20,48,20,2023-01-21,Providence,,DePaul,REG (Conf),W 75-64,*,37,7,13,0.538,1,3,0.333,6,10,0.6,0.577,5,6,0.833,1,10,11,2,1,1,1,1,20,18.7,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+21,49,21,2023-01-25,Providence,,Butler,REG (Conf),W 79-58,*,34,6,10,0.6,0,3,0.0,6,7,0.857,0.6,4,4,1.0,0,7,7,1,0,1,2,3,16,11.7,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+22,50,22,2023-01-29,Providence,@,Villanova,REG (Conf),W 70-65,*,36,5,14,0.357,1,4,0.25,4,10,0.4,0.393,2,2,1.0,1,8,9,4,0,1,2,4,13,8.2,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+23,51,23,2023-02-01,Providence,@,Xavier,REG (Conf),L 83-85 (OT),*,45,3,14,0.214,0,1,0.0,3,13,0.231,0.214,4,6,0.667,1,12,13,5,1,1,0,3,10,8.9,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+24,52,24,2023-02-08,Providence,,Georgetown,REG (Conf),W 74-62,*,38,6,15,0.4,2,5,0.4,4,10,0.4,0.467,3,3,1.0,0,6,6,4,1,1,1,0,17,14.2,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+25,53,25,2023-02-11,Providence,@,St. John's (NY),REG (Conf),L 68-73,*,36,10,20,0.5,3,3,1.0,7,17,0.412,0.575,6,7,0.857,2,7,9,0,2,1,1,1,29,23.4,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+26,54,26,2023-02-14,Providence,,Creighton,REG (Conf),W 94-86 (2OT),*,50,8,21,0.381,2,4,0.5,6,17,0.353,0.429,2,2,1.0,3,6,9,3,1,1,1,2,20,14.4,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+27,55,27,2023-02-18,Providence,,Villanova,REG (Conf),W 85-72,*,40,5,8,0.625,2,3,0.667,3,5,0.6,0.75,7,10,0.7,1,11,12,2,4,2,3,1,19,21.6,H,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+28,56,28,2023-02-22,Providence,@,Connecticut,REG (Conf),L 69-87,*,37,4,10,0.4,2,5,0.4,2,5,0.4,0.5,6,6,1.0,0,0,0,1,0,1,2,1,16,9.6,A,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+29,57,29,2023-02-26,Providence,@,Georgetown,REG (Conf),W 88-68,*,16,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,0,4,4,2,1,0,1,3,6,5.1,A,1,1,bryce-hopkins-1,Bryce Hopkins,2023
+30,58,30,2023-03-01,Providence,,Xavier,REG (Conf),L 89-94,*,36,4,11,0.364,2,3,0.667,2,8,0.25,0.455,7,9,0.778,2,4,6,3,0,1,0,1,17,15.1,H,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+31,59,31,2023-03-04,Providence,,Seton Hall,REG (Conf),L 58-82,*,29,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,0,4,4,1,0,0,4,2,4,-4.4,H,0,1,bryce-hopkins-1,Bryce Hopkins,2023
+32,60,32,2023-03-09,Providence,N,Connecticut,CTOURN,L 66-73,*,40,5,12,0.417,0,2,0.0,5,10,0.5,0.417,6,9,0.667,2,5,7,3,1,0,2,0,16,12.4,N,0,0,bryce-hopkins-1,Bryce Hopkins,2023
+33,61,33,2023-03-17,Providence,N,Kentucky,ROUND-64,L 53-61,*,39,2,9,0.222,0,3,0.0,2,6,0.333,0.222,3,5,0.6,0,8,8,2,0,0,4,4,7,-1.1,N,0,0,bryce-hopkins-1,Bryce Hopkins,2023

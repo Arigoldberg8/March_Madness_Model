@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2016-11-12,Texas Southern,@,UT Arlington,REG (Non-Conf),L 82-89,*,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,0,2,0,0,0,0,4,2,1.5,A,0,1,marvin-jones-1,Marvin Jones,2017
+2,29,2,2016-11-13,Texas Southern,@,Delaware State,REG (Non-Conf),W 74-61,*,35,4,9,0.444,0,2,0.0,4,7,0.571,0.444,7,8,0.875,9,12,21,0,0,1,4,4,15,14.9,A,1,1,marvin-jones-1,Marvin Jones,2017
+3,30,3,2016-11-16,Texas Southern,@,Rice,REG (Non-Conf),W 71-68,*,20,1,4,0.25,1,1,1.0,0,3,0.0,0.375,0,0,,2,1,3,0,2,1,1,4,3,2.4,A,1,1,marvin-jones-1,Marvin Jones,2017
+4,31,4,2016-11-19,Texas Southern,@,La Salle,REG (Non-Conf),W 77-76,*,23,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,3,1.0,1,5,6,0,0,0,2,4,13,9.0,A,1,1,marvin-jones-1,Marvin Jones,2017
+5,32,5,2016-11-21,Texas Southern,@,James Madison,REG (Non-Conf),W 67-56,*,25,1,2,0.5,0,0,,1,2,0.5,0.5,0,1,0.0,1,3,4,0,0,3,0,5,2,2.3,A,1,1,marvin-jones-1,Marvin Jones,2017
+6,33,6,2016-11-27,Texas Southern,@,Louisiana,REG (Non-Conf),L 73-84,*,11,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,3,3,1,0,0,0,1,0,-0.9,A,0,1,marvin-jones-1,Marvin Jones,2017
+7,34,7,2016-11-30,Texas Southern,@,Arizona,REG (Non-Conf),L 63-85,*,27,2,5,0.4,0,1,0.0,2,4,0.5,0.4,2,5,0.4,1,3,4,0,0,0,0,2,6,2.9,A,0,1,marvin-jones-1,Marvin Jones,2017
+8,35,8,2016-12-03,Texas Southern,@,Southern Illinois,REG (Non-Conf),L 70-74,*,27,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,1,2,3,2,0,1,3,4,4,0.8,A,0,1,marvin-jones-1,Marvin Jones,2017
+9,36,9,2016-12-10,Texas Southern,@,Louisville,REG (Non-Conf),L 71-102,*,21,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,4,2,6,0,0,1,1,5,3,1.3,A,0,1,marvin-jones-1,Marvin Jones,2017
+10,37,10,2016-12-13,Texas Southern,@,Cincinnati,REG (Non-Conf),L 58-96,*,19,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,3,2,5,0,0,1,1,3,4,3.2,A,0,1,marvin-jones-1,Marvin Jones,2017
+11,38,11,2016-12-17,Texas Southern,@,Louisiana State,REG (Non-Conf),L 80-88,,26,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,4,0.5,2,5,7,0,2,1,0,3,10,11.0,A,0,1,marvin-jones-1,Marvin Jones,2017
+12,39,12,2016-12-18,Texas Southern,@,TCU,REG (Non-Conf),L 59-96,,17,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,3,4,1,0,0,0,5,2,0.6,A,0,1,marvin-jones-1,Marvin Jones,2017
+13,40,13,2016-12-21,Texas Southern,@,Baylor,REG (Non-Conf),L 63-89,*,27,4,7,0.571,1,2,0.5,3,5,0.6,0.643,1,2,0.5,1,4,5,2,0,0,1,3,10,7.4,A,0,1,marvin-jones-1,Marvin Jones,2017
+14,41,14,2017-01-02,Texas Southern,@,Alcorn State,REG (Conf),W 67-65,*,24,3,4,0.75,0,0,,3,4,0.75,0.75,0,0,,2,4,6,0,0,1,1,5,6,4.7,A,1,1,marvin-jones-1,Marvin Jones,2017
+15,42,15,2017-01-04,Texas Southern,@,Southern,REG (Conf),W 82-74,*,29,5,6,0.833,0,0,,5,6,0.833,0.833,6,7,0.857,1,8,9,0,2,0,1,2,16,16.7,A,1,1,marvin-jones-1,Marvin Jones,2017
+16,43,16,2017-01-07,Texas Southern,@,Prairie View A&M,REG (Conf),W 87-82,*,25,5,5,1.0,0,0,,5,5,1.0,1.0,5,5,1.0,0,3,3,0,0,1,1,5,15,12.1,A,1,1,marvin-jones-1,Marvin Jones,2017
+17,44,17,2017-01-14,Texas Southern,,Grambling State,REG (Conf),W 76-55,*,27,6,7,0.857,0,0,,6,7,0.857,0.857,6,8,0.75,1,10,11,0,0,5,2,1,18,19.5,H,1,1,marvin-jones-1,Marvin Jones,2017
+18,45,18,2017-01-16,Texas Southern,,Jackson State,REG (Conf),W 67-44,*,27,5,7,0.714,0,0,,5,7,0.714,0.714,3,3,1.0,3,9,12,0,2,1,0,3,13,16.4,H,1,1,marvin-jones-1,Marvin Jones,2017
+19,46,19,2017-01-21,Texas Southern,@,Arkansas–Pine Bluff,REG (Conf),W 70-63,*,38,2,2,1.0,0,0,,2,2,1.0,1.0,2,3,0.667,0,6,6,0,0,3,0,3,6,7.7,A,1,1,marvin-jones-1,Marvin Jones,2017
+20,47,20,2017-01-23,Texas Southern,@,Mississippi Valley State,REG (Conf),L 89-103 (OT),*,22,1,8,0.125,0,0,,1,8,0.125,0.125,6,6,1.0,5,2,7,0,0,0,1,2,8,5.1,A,0,1,marvin-jones-1,Marvin Jones,2017
+21,48,21,2017-01-28,Texas Southern,,Alabama State,REG (Conf),W 70-68,*,21,1,4,0.25,0,0,,1,4,0.25,0.25,2,2,1.0,2,7,9,3,0,1,0,4,4,6.3,H,1,1,marvin-jones-1,Marvin Jones,2017
+22,49,22,2017-01-30,Texas Southern,,Alabama A&M,REG (Conf),W 92-47,*,19,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,2,9,11,2,0,4,0,3,5,9.0,H,1,1,marvin-jones-1,Marvin Jones,2017
+23,50,23,2017-02-04,Texas Southern,,Prairie View A&M,REG (Conf),W 74-61,*,24,3,5,0.6,0,0,,3,5,0.6,0.6,4,4,1.0,4,9,13,0,0,5,0,4,10,15.1,H,1,1,marvin-jones-1,Marvin Jones,2017
+24,51,24,2017-02-11,Texas Southern,@,Grambling State,REG (Conf),W 77-70,*,30,6,8,0.75,0,0,,6,8,0.75,0.75,3,4,0.75,0,3,3,0,1,2,3,5,15,9.7,A,1,1,marvin-jones-1,Marvin Jones,2017
+25,52,25,2017-02-13,Texas Southern,@,Jackson State,REG (Conf),L 62-71,*,33,5,6,0.833,0,1,0.0,5,5,1.0,0.833,4,5,0.8,3,4,7,0,1,1,2,1,14,14.0,A,0,1,marvin-jones-1,Marvin Jones,2017
+26,53,26,2017-02-18,Texas Southern,,Arkansas–Pine Bluff,REG (Conf),W 78-40,*,13,2,2,1.0,0,0,,2,2,1.0,1.0,2,2,1.0,1,0,1,0,1,0,2,2,6,4.3,H,1,1,marvin-jones-1,Marvin Jones,2017
+27,54,27,2017-02-20,Texas Southern,,Mississippi Valley State,REG (Conf),W 92-61,*,23,3,8,0.375,0,0,,3,8,0.375,0.375,1,2,0.5,3,6,9,1,1,2,1,2,7,7.4,H,1,1,marvin-jones-1,Marvin Jones,2017
+28,55,28,2017-02-25,Texas Southern,@,Alabama State,REG (Conf),W 86-73,*,17,2,4,0.5,0,0,,2,4,0.5,0.5,4,4,1.0,1,3,4,2,1,1,0,4,8,9.1,A,1,1,marvin-jones-1,Marvin Jones,2017
+29,56,29,2017-02-27,Texas Southern,@,Alabama A&M,REG (Conf),W 74-64,*,18,3,3,1.0,0,0,,3,3,1.0,1.0,2,2,1.0,1,2,3,1,1,2,0,3,8,10.3,A,1,1,marvin-jones-1,Marvin Jones,2017
+30,57,30,2017-03-02,Texas Southern,,Alcorn State,REG (Conf),W 94-88 (OT),*,22,3,3,1.0,0,0,,3,3,1.0,1.0,1,2,0.5,2,5,7,0,1,2,1,5,7,8.0,H,1,1,marvin-jones-1,Marvin Jones,2017
+31,58,31,2017-03-04,Texas Southern,,Southern,REG (Conf),W 82-69,*,28,1,3,0.333,0,0,,1,3,0.333,0.333,5,6,0.833,2,8,10,1,1,5,0,1,7,13.5,H,1,1,marvin-jones-1,Marvin Jones,2017
+32,59,32,2017-03-07,Texas Southern,,Alabama State,CTOURN,W 87-72,*,26,5,5,1.0,0,0,,5,5,1.0,1.0,10,13,0.769,2,8,10,0,1,2,0,4,20,21.9,H,1,0,marvin-jones-1,Marvin Jones,2017
+33,60,33,2017-03-10,Texas Southern,N,Grambling State,CTOURN,W 62-57,*,29,3,5,0.6,0,0,,3,5,0.6,0.6,3,6,0.5,4,7,11,0,1,2,2,3,9,9.6,N,1,0,marvin-jones-1,Marvin Jones,2017
+34,61,34,2017-03-11,Texas Southern,N,Alcorn State,CTOURN,W 53-50,*,36,6,7,0.857,0,0,,6,7,0.857,0.857,2,2,1.0,1,6,7,2,1,4,1,3,14,17.0,N,1,0,marvin-jones-1,Marvin Jones,2017
+35,62,35,2017-03-17,Texas Southern,N,North Carolina,ROUND-64,L 64-103,*,25,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,1,4,5,0,1,2,2,3,6,4.8,N,0,0,marvin-jones-1,Marvin Jones,2017

@@ -1,0 +1,31 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2020-11-25,Arkansas,,Mississippi Valley State,REG (Non-Conf),W 142-62,,12,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,1,1.0,1,2,3,2,0,0,1,1,5,3.6,H,1,1,davonte-davis-1,Davonte Davis,2021
+2,2,4,2020-12-05,Arkansas,,Lipscomb,REG (Non-Conf),W 86-50,,15,2,2,1.0,0,0,,2,2,1.0,1.0,0,0,,2,1,3,1,1,0,1,2,4,5.0,H,1,1,davonte-davis-1,Davonte Davis,2021
+3,3,5,2020-12-09,Arkansas,,Southern,REG (Non-Conf),W 79-44,,16,5,8,0.625,1,1,1.0,4,7,0.571,0.688,3,3,1.0,3,4,7,2,0,0,1,1,14,13.7,H,1,1,davonte-davis-1,Davonte Davis,2021
+4,4,6,2020-12-12,Arkansas,,Central Arkansas,REG (Non-Conf),W 100-75,,7,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,davonte-davis-1,Davonte Davis,2021
+5,5,7,2020-12-20,Arkansas,,Oral Roberts,REG (Non-Conf),W 87-76,,9,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,2,1,0,1,3,0,-0.2,H,1,1,davonte-davis-1,Davonte Davis,2021
+6,6,8,2020-12-22,Arkansas,,Abilene Christian,REG (Non-Conf),W 85-72,,5,0,1,0.0,0,0,,0,1,0.0,0.0,0,0,,0,1,1,0,1,0,1,2,0,-1.2,H,1,1,davonte-davis-1,Davonte Davis,2021
+7,7,9,2020-12-30,Arkansas,@,Auburn,REG (Conf),W 97-85,,13,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,1,0,1,1,2,0,0,0,4,6.1,A,1,1,davonte-davis-1,Davonte Davis,2021
+8,8,10,2021-01-02,Arkansas,,Missouri,REG (Conf),L 68-81,*,20,2,6,0.333,0,0,,2,6,0.333,0.333,0,2,0.0,3,1,4,0,3,0,1,4,4,2.6,H,0,1,davonte-davis-1,Davonte Davis,2021
+9,9,11,2021-01-06,Arkansas,@,Tennessee,REG (Conf),L 74-79,,5,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,1,0,1,1,2,0.6,A,0,1,davonte-davis-1,Davonte Davis,2021
+10,10,12,2021-01-09,Arkansas,,Georgia,REG (Conf),W 99-69,*,36,9,14,0.643,1,2,0.5,8,12,0.667,0.679,1,1,1.0,1,6,7,6,2,0,3,4,20,17.9,H,1,1,davonte-davis-1,Davonte Davis,2021
+11,11,13,2021-01-13,Arkansas,@,Louisiana State,REG (Conf),L 76-92,*,27,1,11,0.091,0,1,0.0,1,10,0.1,0.091,2,3,0.667,1,2,3,2,2,1,2,1,4,-0.7,A,0,1,davonte-davis-1,Davonte Davis,2021
+12,12,14,2021-01-16,Arkansas,@,Alabama,REG (Conf),L 59-90,,28,1,3,0.333,0,0,,1,3,0.333,0.333,3,4,0.75,1,5,6,1,0,0,0,3,5,4.6,A,0,1,davonte-davis-1,Davonte Davis,2021
+13,13,15,2021-01-20,Arkansas,,Auburn,REG (Conf),W 75-73,,20,5,9,0.556,0,0,,5,9,0.556,0.556,0,0,,2,2,4,2,0,0,3,4,10,4.5,H,1,1,davonte-davis-1,Davonte Davis,2021
+14,14,16,2021-01-23,Arkansas,@,Vanderbilt,REG (Conf),W 92-71,,14,3,3,1.0,0,0,,3,3,1.0,1.0,0,1,0.0,0,2,2,1,1,1,2,2,6,4.9,A,1,1,davonte-davis-1,Davonte Davis,2021
+15,15,17,2021-01-27,Arkansas,,Ole Miss,REG (Conf),W 74-59,,25,7,9,0.778,0,0,,7,9,0.778,0.778,0,1,0.0,2,4,6,1,2,0,3,1,14,12.0,H,1,1,davonte-davis-1,Davonte Davis,2021
+16,16,18,2021-01-30,Arkansas,@,Oklahoma State,REG (Non-Conf),L 77-81,,28,6,12,0.5,0,0,,6,12,0.5,0.5,0,0,,2,2,4,1,3,0,1,4,12,9.1,A,0,1,davonte-davis-1,Davonte Davis,2021
+17,17,19,2021-02-02,Arkansas,,Mississippi State,REG (Conf),W 61-45,*,36,4,12,0.333,0,0,,4,12,0.333,0.333,2,2,1.0,2,6,8,2,0,0,3,2,10,4.0,H,1,1,davonte-davis-1,Davonte Davis,2021
+18,18,20,2021-02-09,Arkansas,@,Kentucky,REG (Conf),W 81-80,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,0,0,,0,2,2,3,2,0,0,2,4,5.2,A,1,1,davonte-davis-1,Davonte Davis,2021
+19,19,21,2021-02-13,Arkansas,@,Missouri,REG (Conf),W 86-81 (OT),*,32,3,10,0.3,0,0,,3,10,0.3,0.3,2,2,1.0,1,3,4,3,0,1,0,2,8,5.8,A,1,1,davonte-davis-1,Davonte Davis,2021
+20,20,22,2021-02-16,Arkansas,,Florida,REG (Conf),W 75-64,*,36,7,14,0.5,0,1,0.0,7,13,0.538,0.5,4,4,1.0,1,4,5,3,1,0,2,3,18,12.8,H,1,1,davonte-davis-1,Davonte Davis,2021
+21,21,23,2021-02-24,Arkansas,,Alabama,REG (Conf),W 81-66,*,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,1,2,3,1,0,0,1,4,5,3.1,H,1,1,davonte-davis-1,Davonte Davis,2021
+22,22,24,2021-02-27,Arkansas,,Louisiana State,REG (Conf),W 83-75,*,38,7,12,0.583,0,2,0.0,7,10,0.7,0.583,1,2,0.5,0,5,5,6,1,0,0,3,15,14.5,H,1,1,davonte-davis-1,Davonte Davis,2021
+23,23,25,2021-03-02,Arkansas,@,South Carolina,REG (Conf),W 101-73,*,20,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,2,6,8,2,2,0,5,2,4,3.8,A,1,1,davonte-davis-1,Davonte Davis,2021
+24,24,26,2021-03-06,Arkansas,,Texas A&M,REG (Conf),W 87-80,*,39,5,10,0.5,0,0,,5,10,0.5,0.5,2,2,1.0,1,5,6,5,2,0,4,3,12,9.5,H,1,1,davonte-davis-1,Davonte Davis,2021
+25,25,27,2021-03-12,Arkansas,N,Missouri,CTOURN,W 70-64,*,28,4,12,0.333,0,0,,4,12,0.333,0.333,3,6,0.5,0,6,6,4,1,0,2,4,11,5.0,N,1,0,davonte-davis-1,Davonte Davis,2021
+26,26,28,2021-03-13,Arkansas,N,Louisiana State,CTOURN,L 71-78,*,35,2,7,0.286,0,1,0.0,2,6,0.333,0.286,2,2,1.0,2,6,8,5,4,0,1,2,6,10.8,N,0,0,davonte-davis-1,Davonte Davis,2021
+27,27,29,2021-03-19,Arkansas,N,Colgate,ROUND-64,W 85-68,*,32,6,11,0.545,0,0,,6,11,0.545,0.545,0,0,,3,3,6,3,2,2,4,3,12,10.0,N,1,0,davonte-davis-1,Davonte Davis,2021
+28,28,30,2021-03-21,Arkansas,N,Texas Tech,ROUND-32,W 68-66,*,37,7,15,0.467,0,1,0.0,7,14,0.5,0.467,1,2,0.5,0,6,6,1,0,0,1,2,15,7.6,N,1,0,davonte-davis-1,Davonte Davis,2021
+29,29,31,2021-03-27,Arkansas,N,Oral Roberts,ROUND-16,W 72-70,*,34,7,13,0.538,0,0,,7,13,0.538,0.538,2,2,1.0,2,6,8,2,0,0,2,3,16,11.1,N,1,0,davonte-davis-1,Davonte Davis,2021
+30,30,32,2021-03-29,Arkansas,N,Baylor,ROUND-8,L 72-81,*,32,6,13,0.462,0,2,0.0,6,11,0.545,0.462,2,2,1.0,2,4,6,2,1,0,2,2,14,9.5,N,0,0,davonte-davis-1,Davonte Davis,2021

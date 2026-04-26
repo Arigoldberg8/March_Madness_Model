@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,69,2,2016-11-15,Baylor,,Oregon,REG (Non-Conf),W 66-49,*,28,8,15,0.533,0,0,,8,15,0.533,0.533,1,1,1.0,1,6,7,0,0,1,2,3,17,9.7,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+2,70,3,2016-11-18,Baylor,,Florida Gulf Coast,REG (Non-Conf),W 81-72,*,36,3,7,0.429,0,0,,3,7,0.429,0.429,6,7,0.857,1,5,6,3,0,1,3,4,12,8.3,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+3,71,4,2016-11-23,Baylor,N,VCU,REG (Non-Conf),W 71-63,*,30,5,11,0.455,0,0,,5,11,0.455,0.455,9,10,0.9,5,5,10,1,0,1,3,5,19,14.3,N,1,1,johnathan-motley-1,Johnathan Motley,2017
+4,72,5,2016-11-24,Baylor,N,Michigan State,REG (Non-Conf),W 73-58,*,32,12,22,0.545,1,1,1.0,11,21,0.524,0.568,1,1,1.0,4,2,6,3,0,0,1,2,26,19.1,N,1,1,johnathan-motley-1,Johnathan Motley,2017
+5,73,6,2016-11-25,Baylor,N,Louisville,REG (Non-Conf),W 66-63,*,31,5,9,0.556,0,1,0.0,5,8,0.625,0.556,5,7,0.714,0,6,6,2,0,0,4,4,15,7.5,N,1,1,johnathan-motley-1,Johnathan Motley,2017
+6,74,7,2016-11-30,Baylor,,Sam Houston State,REG (Non-Conf),W 79-45,*,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,4,6,0.667,4,10,14,3,1,2,5,3,8,7.9,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+7,75,8,2016-12-03,Baylor,,Xavier,REG (Non-Conf),W 76-61,*,34,7,14,0.5,1,1,1.0,6,13,0.462,0.536,2,4,0.5,1,7,8,2,2,0,0,2,17,14.6,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+8,76,9,2016-12-14,Baylor,,Southern,REG (Non-Conf),W 89-59,*,25,9,14,0.643,1,2,0.5,8,12,0.667,0.679,1,3,0.333,5,5,10,1,0,1,3,3,20,15.2,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+9,77,10,2016-12-17,Baylor,N,Jackson State,REG (Non-Conf),W 82-57,*,26,1,6,0.167,0,2,0.0,1,4,0.25,0.167,3,4,0.75,2,7,9,4,0,0,3,2,5,3.3,N,1,1,johnathan-motley-1,Johnathan Motley,2017
+10,78,11,2016-12-18,Baylor,,John Brown,REG (Non-Conf),W 107-53,*,19,8,11,0.727,1,1,1.0,7,10,0.7,0.773,3,5,0.6,5,4,9,5,0,0,3,3,20,18.7,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+11,79,12,2016-12-21,Baylor,,Texas Southern,REG (Non-Conf),W 89-63,*,32,6,14,0.429,0,1,0.0,6,13,0.462,0.429,5,9,0.556,6,5,11,1,0,2,1,2,17,14.0,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+12,80,13,2016-12-30,Baylor,@,Oklahoma,REG (Conf),W 76-50,*,22,9,15,0.6,1,2,0.5,8,13,0.615,0.633,0,2,0.0,3,10,13,1,0,3,2,3,19,16.0,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+13,81,14,2017-01-04,Baylor,,Iowa State,REG (Conf),W 65-63,*,37,6,9,0.667,0,0,,6,9,0.667,0.667,1,2,0.5,3,9,12,1,1,1,4,2,13,11.1,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+14,82,15,2017-01-07,Baylor,,Oklahoma State,REG (Conf),W 61-57,*,31,4,6,0.667,1,2,0.5,3,4,0.75,0.75,4,6,0.667,2,8,10,3,0,3,2,3,13,14.4,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+15,83,16,2017-01-10,Baylor,@,West Virginia,REG (Conf),L 68-89,*,26,3,10,0.3,0,0,,3,10,0.3,0.3,2,4,0.5,3,2,5,2,0,3,3,3,8,3.4,A,0,1,johnathan-motley-1,Johnathan Motley,2017
+16,84,17,2017-01-14,Baylor,@,Kansas State,REG (Conf),W 77-68,*,19,3,8,0.375,0,1,0.0,3,7,0.429,0.375,1,2,0.5,4,5,9,3,1,0,4,5,7,3.6,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+17,85,18,2017-01-17,Baylor,,Texas,REG (Conf),W 74-64,*,32,12,19,0.632,0,2,0.0,12,17,0.706,0.632,8,11,0.727,7,13,20,2,1,3,1,4,32,33.0,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+18,86,19,2017-01-21,Baylor,@,TCU,REG (Conf),W 62-53,*,34,6,16,0.375,0,0,,6,16,0.375,0.375,3,4,0.75,4,4,8,2,1,0,2,4,15,8.6,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+19,87,20,2017-01-25,Baylor,,Texas Tech,REG (Conf),W 65-61,*,33,5,12,0.417,0,0,,5,12,0.417,0.417,15,16,0.938,5,4,9,1,0,2,5,3,25,18.8,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+20,88,21,2017-01-28,Baylor,@,Ole Miss,REG (Non-Conf),W 78-75,*,28,5,8,0.625,0,0,,5,8,0.625,0.625,6,9,0.667,3,6,9,1,0,0,1,3,16,13.6,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+21,89,22,2017-02-01,Baylor,@,Kansas,REG (Conf),L 68-73,*,35,7,11,0.636,1,1,1.0,6,10,0.6,0.682,1,2,0.5,5,5,10,3,0,0,3,1,16,14.4,A,0,1,johnathan-motley-1,Johnathan Motley,2017
+22,90,23,2017-02-04,Baylor,,Kansas State,REG (Conf),L 54-56,*,32,6,17,0.353,0,1,0.0,6,16,0.375,0.353,5,6,0.833,7,7,14,2,0,0,1,4,17,12.9,H,0,1,johnathan-motley-1,Johnathan Motley,2017
+23,91,24,2017-02-08,Baylor,@,Oklahoma State,REG (Conf),W 72-69,*,35,9,12,0.75,0,0,,9,12,0.75,0.75,6,8,0.75,3,8,11,2,0,1,3,2,24,21.2,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+24,92,25,2017-02-11,Baylor,,TCU,REG (Conf),W 70-52,*,31,12,15,0.8,0,1,0.0,12,14,0.857,0.8,1,1,1.0,2,5,7,2,0,1,2,1,25,21.9,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+25,93,26,2017-02-13,Baylor,@,Texas Tech,REG (Conf),L 78-84,*,30,4,10,0.4,0,0,,4,10,0.4,0.4,3,6,0.5,1,4,5,4,0,0,4,3,11,3.9,A,0,1,johnathan-motley-1,Johnathan Motley,2017
+26,94,27,2017-02-18,Baylor,,Kansas,REG (Conf),L 65-67,*,37,8,21,0.381,0,2,0.0,8,19,0.421,0.381,3,3,1.0,3,6,9,4,0,1,6,3,19,7.7,H,0,1,johnathan-motley-1,Johnathan Motley,2017
+27,95,28,2017-02-21,Baylor,,Oklahoma,REG (Conf),W 60-54,*,34,7,12,0.583,1,3,0.333,6,9,0.667,0.625,6,8,0.75,6,10,16,5,1,2,6,2,21,20.9,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+28,96,29,2017-02-25,Baylor,@,Iowa State,REG (Conf),L 69-72,*,35,12,19,0.632,0,1,0.0,12,18,0.667,0.632,3,5,0.6,6,5,11,4,0,0,4,4,27,20.6,A,0,1,johnathan-motley-1,Johnathan Motley,2017
+29,97,30,2017-02-27,Baylor,,West Virginia,REG (Conf),W 71-62,*,35,6,12,0.5,0,1,0.0,6,11,0.545,0.5,11,11,1.0,3,5,8,2,0,3,2,3,23,20.9,H,1,1,johnathan-motley-1,Johnathan Motley,2017
+30,98,31,2017-03-04,Baylor,@,Texas,REG (Conf),W 75-64,*,29,6,17,0.353,0,1,0.0,6,16,0.375,0.353,5,7,0.714,8,9,17,2,0,0,4,4,17,10.8,A,1,1,johnathan-motley-1,Johnathan Motley,2017
+31,99,32,2017-03-09,Baylor,N,Kansas State,CTOURN,L 64-70,*,34,6,12,0.5,0,1,0.0,6,11,0.545,0.5,1,5,0.2,3,4,7,3,1,0,2,5,13,7.8,N,0,0,johnathan-motley-1,Johnathan Motley,2017
+32,100,33,2017-03-17,Baylor,N,New Mexico State,ROUND-64,W 91-73,*,29,7,14,0.5,1,2,0.5,6,12,0.5,0.536,0,0,,1,9,10,3,1,2,3,2,15,12.1,N,1,0,johnathan-motley-1,Johnathan Motley,2017
+33,101,34,2017-03-19,Baylor,N,Southern California,ROUND-32,W 82-78,*,27,9,12,0.75,0,0,,9,12,0.75,0.75,1,2,0.5,6,4,10,1,1,2,5,5,19,15.3,N,1,0,johnathan-motley-1,Johnathan Motley,2017
+34,102,35,2017-03-24,Baylor,N,South Carolina,ROUND-16,L 50-70,*,32,8,17,0.471,0,0,,8,17,0.471,0.471,2,6,0.333,4,5,9,1,1,1,3,2,18,10.6,N,0,0,johnathan-motley-1,Johnathan Motley,2017

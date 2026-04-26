@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,104,1,2015-11-13,Texas,N,Washington,REG (Non-Conf),L 71-77,,13,1,3,0.333,0,0,1,3,0.333,0.333,0,0,,3,3,6,0,0,0,0,5,2,1.3,N,0,1,prince-ibeh-1,Prince Ibeh,2016
+2,105,2,2015-11-21,Texas,,Texas A&M–Corpus Christi,REG (Non-Conf),W 67-56,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,1,2,0,0,0,1,1,2,1.3,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+3,106,3,2015-11-25,Texas,N,Texas A&M,REG (Non-Conf),L 73-84,,8,0,0,,0,0,0,0,,,0,2,0.0,1,2,3,0,0,0,1,3,0,-1.7,N,0,1,prince-ibeh-1,Prince Ibeh,2016
+4,107,4,2015-11-26,Texas,N,Washington,REG (Non-Conf),W 82-70,,7,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,2,3,0,0,2,0,4,2,2.8,N,1,1,prince-ibeh-1,Prince Ibeh,2016
+5,108,5,2015-11-27,Texas,N,Michigan,REG (Non-Conf),L 72-78,,5,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,0,4,0,-1.3,N,0,1,prince-ibeh-1,Prince Ibeh,2016
+6,109,6,2015-12-01,Texas,,UT Arlington,REG (Non-Conf),W 80-73 (OT),,13,0,0,,0,0,0,0,,,0,1,0.0,1,1,2,0,2,2,1,3,0,1.8,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+7,110,7,2015-12-04,Texas,,Samford,REG (Non-Conf),W 59-49,,9,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,2,2,0,0,0,0,0,2,2.3,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+8,111,9,2015-12-12,Texas,,North Carolina,REG (Non-Conf),W 84-82,,11,0,1,0.0,0,0,0,1,0.0,0.0,0,0,,1,1,2,0,0,1,1,5,0,-2.0,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+9,112,10,2015-12-15,Texas,,Appalachian State,REG (Non-Conf),W 67-55,,14,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,4,4,8,0,0,4,0,2,2,5.6,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+10,113,11,2015-12-19,Texas,@,Stanford,REG (Non-Conf),W 75-73,,6,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,0,1,1,0,0,0,0,3,2,0.1,A,1,1,prince-ibeh-1,Prince Ibeh,2016
+11,114,12,2015-12-29,Texas,,Connecticut,REG (Non-Conf),L 66-71,*,18,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,2,4,0,1,5,0,4,3,6.5,H,0,1,prince-ibeh-1,Prince Ibeh,2016
+12,115,13,2016-01-02,Texas,@,Texas Tech,REG (Conf),L 74-82,*,20,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,6,4,10,1,0,1,4,3,0,0.1,A,0,1,prince-ibeh-1,Prince Ibeh,2016
+13,116,14,2016-01-05,Texas,,Kansas State,REG (Conf),W 60-57,*,27,3,3,1.0,0,0,3,3,1.0,1.0,1,4,0.25,4,5,9,0,0,1,1,3,7,7.7,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+14,117,15,2016-01-09,Texas,@,TCU,REG (Conf),L 57-58,*,17,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,0,2,2,0,0,2,1,5,6,4.1,A,0,1,prince-ibeh-1,Prince Ibeh,2016
+15,118,16,2016-01-12,Texas,,Iowa State,REG (Conf),W 94-91 (OT),*,31,1,3,0.333,0,0,1,3,0.333,0.333,0,2,0.0,3,2,5,0,1,4,0,2,2,5.2,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+16,119,17,2016-01-16,Texas,,Oklahoma State,REG (Conf),W 74-69,*,19,2,3,0.667,0,0,2,3,0.667,0.667,0,1,0.0,3,4,7,0,1,3,2,4,4,5.1,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+17,120,18,2016-01-20,Texas,@,West Virginia,REG (Conf),W 56-49,*,18,1,1,1.0,0,0,1,1,1.0,1.0,0,4,0.0,0,5,5,0,0,1,0,4,2,0.7,A,1,1,prince-ibeh-1,Prince Ibeh,2016
+18,121,19,2016-01-23,Texas,@,Kansas,REG (Conf),L 67-76,*,35,3,4,0.75,0,0,3,4,0.75,0.75,1,3,0.333,3,4,7,0,1,7,3,4,7,9.2,A,0,1,prince-ibeh-1,Prince Ibeh,2016
+19,122,20,2016-01-26,Texas,,TCU,REG (Conf),W 71-54,*,31,6,11,0.545,0,0,6,11,0.545,0.545,5,6,0.833,3,7,10,0,0,5,2,2,17,16.2,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+20,123,21,2016-01-30,Texas,,Vanderbilt,REG (Non-Conf),W 72-58,*,24,4,8,0.5,0,0,4,8,0.5,0.5,5,6,0.833,8,3,11,0,1,2,3,3,13,13.3,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+21,124,22,2016-02-01,Texas,@,Baylor,REG (Conf),W 67-59,*,28,4,5,0.8,0,0,4,5,0.8,0.8,1,2,0.5,2,4,6,0,0,5,3,2,9,9.0,A,1,1,prince-ibeh-1,Prince Ibeh,2016
+22,125,23,2016-02-06,Texas,,Texas Tech,REG (Conf),W 69-59,*,13,0,0,,0,0,0,0,,,0,0,,0,1,1,0,0,0,2,4,0,-3.3,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+23,126,24,2016-02-08,Texas,@,Oklahoma,REG (Conf),L 60-63,*,29,4,7,0.571,0,0,4,7,0.571,0.571,1,2,0.5,5,6,11,0,1,0,1,2,9,9.8,A,0,1,prince-ibeh-1,Prince Ibeh,2016
+24,127,25,2016-02-13,Texas,@,Iowa State,REG (Conf),L 75-85,*,19,4,4,1.0,0,0,4,4,1.0,1.0,2,3,0.667,3,4,7,0,0,1,0,5,10,10.4,A,0,1,prince-ibeh-1,Prince Ibeh,2016
+25,128,26,2016-02-16,Texas,,West Virginia,REG (Conf),W 85-78,*,16,1,2,0.5,0,0,1,2,0.5,0.5,0,3,0.0,0,2,2,0,0,6,1,5,2,1.6,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+26,129,27,2016-02-20,Texas,,Baylor,REG (Conf),L 64-78,*,13,1,2,0.5,0,0,1,2,0.5,0.5,2,4,0.5,2,2,4,0,0,1,3,2,4,1.1,H,0,1,prince-ibeh-1,Prince Ibeh,2016
+27,130,28,2016-02-22,Texas,@,Kansas State,REG (Conf),W 71-70,*,9,1,1,1.0,0,0,1,1,1.0,1.0,1,2,0.5,0,0,0,0,0,0,0,5,3,0.3,A,1,1,prince-ibeh-1,Prince Ibeh,2016
+28,131,29,2016-02-27,Texas,,Oklahoma,REG (Conf),W 76-63,*,30,2,3,0.667,0,0,2,3,0.667,0.667,0,3,0.0,3,7,10,1,0,2,4,3,4,2.6,H,1,1,prince-ibeh-1,Prince Ibeh,2016
+29,132,30,2016-02-29,Texas,,Kansas,REG (Conf),L 56-86,*,27,1,3,0.333,0,0,1,3,0.333,0.333,4,6,0.667,8,4,12,0,0,1,3,2,6,7.2,H,0,1,prince-ibeh-1,Prince Ibeh,2016
+30,133,31,2016-03-04,Texas,@,Oklahoma State,REG (Conf),W 62-50,*,19,1,4,0.25,0,0,1,4,0.25,0.25,1,1,1.0,3,0,3,0,1,4,0,3,3,5.3,A,1,1,prince-ibeh-1,Prince Ibeh,2016
+31,134,32,2016-03-10,Texas,N,Baylor,CTOURN,L 61-75,*,21,3,6,0.5,0,0,3,6,0.5,0.5,2,6,0.333,2,1,3,0,0,1,1,4,8,3.2,N,0,0,prince-ibeh-1,Prince Ibeh,2016
+32,135,33,2016-03-18,Texas,N,Northern Iowa,ROUND-64,L 72-75,*,20,0,2,0.0,0,0,0,2,0.0,0.0,1,2,0.5,0,2,2,0,0,3,2,4,1,-1.7,N,0,0,prince-ibeh-1,Prince Ibeh,2016

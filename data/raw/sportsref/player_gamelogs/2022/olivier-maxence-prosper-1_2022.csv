@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,23,1,2021-11-09,Marquette,,SIU Edwardsville,REG (Non-Conf),W 88-77,*,29,3,8,0.375,1,3,0.333,2,5,0.4,0.438,1,2,0.5,4,3,7,1,2,0,1,4,8,7.0,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+2,24,2,2021-11-12,Marquette,,New Hampshire,REG (Non-Conf),W 75-70,*,20,2,7,0.286,1,4,0.25,1,3,0.333,0.357,2,2,1.0,1,3,4,0,1,0,0,4,7,3.9,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+3,25,3,2021-11-15,Marquette,,Illinois,REG (Non-Conf),W 67-66,*,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,2,2,1.0,0,0,0,1,2,1,1,2,2,2.2,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+4,26,4,2021-11-18,Marquette,N,Ole Miss,REG (Non-Conf),W 78-72,*,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,4,5,0,0,1,1,1,0,-0.2,N,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+5,27,5,2021-11-19,Marquette,N,West Virginia,REG (Non-Conf),W 82-71,*,23,2,5,0.4,0,1,0.0,2,4,0.5,0.4,4,4,1.0,2,7,9,2,1,0,2,4,8,7.6,N,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+6,28,6,2021-11-21,Marquette,N,St. Bonaventure,REG (Non-Conf),L 54-70,*,13,1,5,0.2,0,2,0.0,1,3,0.333,0.2,0,0,,0,3,3,1,0,0,0,1,2,0.1,N,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+7,29,7,2021-11-27,Marquette,,Northern Illinois,REG (Non-Conf),W 80-66,*,21,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,4,0.5,0,1,1,1,0,0,2,1,2,-3.0,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+8,30,8,2021-11-30,Marquette,,Jackson State,REG (Non-Conf),W 83-54,,12,4,6,0.667,1,2,0.5,3,4,0.75,0.75,2,2,1.0,0,2,2,1,1,0,0,1,11,10.3,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+9,31,9,2021-12-04,Marquette,@,Wisconsin,REG (Non-Conf),L 76-89,,11,2,3,0.667,1,2,0.5,1,1,1.0,0.833,3,4,0.75,0,2,2,0,0,0,0,0,8,6.9,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+10,32,10,2021-12-08,Marquette,@,Kansas State,REG (Non-Conf),W 64-63,,14,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,4,4,2,1,0,1,0,2,4.3,A,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+11,33,11,2021-12-11,Marquette,,UCLA,REG (Non-Conf),L 56-67,,15,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,4,4,1,0,0,0,2,4,3.1,H,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+12,34,12,2021-12-18,Marquette,@,Xavier,REG (Conf),L 71-80,,9,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,1,1,2,0,0,0,0,1,0,-1.5,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+13,35,13,2021-12-21,Marquette,,Connecticut,REG (Conf),L 70-78,*,30,6,9,0.667,1,1,1.0,5,8,0.625,0.722,0,0,,1,4,5,3,1,0,1,2,13,12.3,H,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+14,36,14,2022-01-01,Marquette,,Creighton,REG (Conf),L 69-75 (2OT),*,33,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,1,4,5,1,2,0,1,4,5,4.3,H,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+15,37,15,2022-01-04,Marquette,,Providence,REG (Conf),W 88-56,*,26,4,8,0.5,1,2,0.5,3,6,0.5,0.563,2,2,1.0,0,2,2,4,3,0,2,3,11,10.2,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+16,38,16,2022-01-07,Marquette,@,Georgetown,REG (Conf),W 92-64,*,28,9,11,0.818,2,2,1.0,7,9,0.778,0.909,2,3,0.667,0,4,4,1,2,0,0,2,22,20.6,A,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+17,39,17,2022-01-11,Marquette,,DePaul,REG (Conf),W 87-76,*,12,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,1,2,4,3,0.1,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+18,40,18,2022-01-15,Marquette,,Seton Hall,REG (Conf),W 73-72,*,17,0,5,0.0,0,2,0.0,0,3,0.0,0.0,1,2,0.5,2,1,3,0,2,0,2,1,1,-1.6,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+19,41,19,2022-01-19,Marquette,@,Villanova,REG (Conf),W 57-54,*,15,1,4,0.25,0,3,0.0,1,1,1.0,0.25,2,2,1.0,0,2,2,2,0,0,2,2,4,0.8,A,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+20,42,20,2022-01-23,Marquette,,Xavier,REG (Conf),W 75-64,*,13,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,3,3,1,0,0,1,0,2,-1.2,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+21,43,21,2022-01-26,Marquette,@,Seton Hall,REG (Conf),W 73-63,*,24,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,1,0.0,1,3,4,0,1,0,0,2,10,9.5,A,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+22,44,22,2022-01-30,Marquette,@,Providence,REG (Conf),L 63-65,*,20,2,4,0.5,0,1,0.0,2,3,0.667,0.5,2,2,1.0,0,2,2,0,1,0,0,4,6,4.0,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+23,45,23,2022-02-02,Marquette,,Villanova,REG (Conf),W 83-73,*,24,3,5,0.6,0,1,0.0,3,4,0.75,0.6,3,3,1.0,0,3,3,1,2,0,1,3,9,8.1,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+24,46,24,2022-02-08,Marquette,@,Connecticut,REG (Conf),L 72-80,*,31,7,8,0.875,1,1,1.0,6,7,0.857,0.938,3,3,1.0,2,3,5,0,1,0,2,3,18,15.3,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+25,47,25,2022-02-12,Marquette,@,Butler,REG (Conf),L 79-85,*,25,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,0,0,0,2,4,6,1.4,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+26,48,26,2022-02-16,Marquette,,Georgetown,REG (Conf),W 77-66,*,24,3,6,0.5,0,1,0.0,3,5,0.6,0.5,1,1,1.0,0,6,6,2,0,1,0,1,7,7.5,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+27,49,27,2022-02-20,Marquette,@,Creighton,REG (Conf),L 82-83,*,20,1,5,0.2,0,1,0.0,1,4,0.25,0.2,1,2,0.5,0,3,3,0,0,0,1,2,3,-1.4,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+28,50,28,2022-02-26,Marquette,,Butler,REG (Conf),W 64-56,,17,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,3,3,1,0,0,0,2,2,0.4,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+29,51,29,2022-03-02,Marquette,@,DePaul,REG (Conf),L 80-91,*,34,2,6,0.333,0,1,0.0,2,5,0.4,0.333,5,6,0.833,1,3,4,2,2,0,2,3,9,7.0,A,0,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+30,52,30,2022-03-05,Marquette,,St. John's (NY),REG (Conf),W 85-77,,20,0,3,0.0,0,1,0.0,0,2,0.0,0.0,2,2,1.0,1,1,2,1,2,0,0,1,2,3.2,H,1,1,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+31,53,31,2022-03-10,Marquette,N,Creighton,CTOURN,L 63-74,*,22,3,6,0.5,2,3,0.667,1,3,0.333,0.667,1,1,1.0,1,0,1,0,0,0,1,3,9,4.5,N,0,0,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022
+32,54,32,2022-03-17,Marquette,N,North Carolina,ROUND-64,L 63-95,*,27,6,10,0.6,4,8,0.5,2,2,1.0,0.8,0,0,,0,3,3,0,1,0,1,1,16,11.9,N,0,0,olivier-maxence-prosper-1,Olivier-Maxence Prosper,2022

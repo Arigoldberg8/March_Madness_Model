@@ -1,0 +1,32 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2020-11-25,Iowa,,North Carolina Central,REG (Non-Conf),W 97-67,*,18,2,4,0.5,0,2,0.0,2,2,1.0,0.5,5,6,0.833,2,4,6,1,0,1,2,3,9,7.4,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+2,68,2,2020-11-27,Iowa,,Southern,REG (Non-Conf),W 103-76,*,23,5,12,0.417,4,6,0.667,1,6,0.167,0.583,2,4,0.5,2,5,7,3,0,0,1,0,16,12.8,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+3,69,3,2020-12-03,Iowa,,Western Illinois,REG (Non-Conf),W 99-58,*,23,2,6,0.333,2,4,0.5,0,2,0.0,0.5,5,6,0.833,1,4,5,0,0,0,1,2,11,7.3,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+4,70,4,2020-12-08,Iowa,,North Carolina,REG (Non-Conf),W 93-80,*,32,7,12,0.583,5,7,0.714,2,5,0.4,0.792,0,0,,2,7,9,5,1,0,3,3,19,17.2,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+5,71,5,2020-12-11,Iowa,,Iowa State,REG (Non-Conf),W 105-77,*,25,6,9,0.667,0,1,0.0,6,8,0.75,0.667,4,4,1.0,0,4,4,0,0,0,1,0,16,12.3,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+6,72,6,2020-12-13,Iowa,,Northern Illinois,REG (Non-Conf),W 106-53,*,19,9,13,0.692,1,4,0.25,8,9,0.889,0.731,1,3,0.333,2,2,4,0,2,0,1,1,20,16.3,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+7,73,7,2020-12-19,Iowa,N,Gonzaga,REG (Non-Conf),L 88-99,*,35,8,16,0.5,3,8,0.375,5,8,0.625,0.594,1,3,0.333,3,6,9,4,3,0,2,2,20,18.1,N,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+8,74,8,2020-12-22,Iowa,,Purdue,REG (Conf),W 70-55,*,32,6,13,0.462,1,3,0.333,5,10,0.5,0.5,4,4,1.0,3,6,9,1,2,1,1,0,17,16.6,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+9,75,9,2020-12-25,Iowa,@,Minnesota,REG (Conf),L 95-102 (OT),*,38,3,13,0.231,2,7,0.286,1,6,0.167,0.308,6,7,0.857,4,5,9,2,2,0,1,3,14,11.2,A,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+10,76,10,2020-12-29,Iowa,,Northwestern,REG (Conf),W 87-72,*,27,3,8,0.375,1,3,0.333,2,5,0.4,0.438,3,4,0.75,0,5,5,0,3,0,1,1,10,8.3,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+11,77,11,2021-01-02,Iowa,@,Rutgers,REG (Conf),W 77-75,*,25,2,9,0.222,0,4,0.0,2,5,0.4,0.222,4,7,0.571,1,6,7,0,1,0,3,3,8,0.6,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+12,78,12,2021-01-07,Iowa,@,Maryland,REG (Conf),W 89-67,*,17,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,1,0.0,1,3,4,0,0,0,0,0,6,4.2,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+13,79,13,2021-01-10,Iowa,,Minnesota,REG (Conf),W 86-71,*,36,7,9,0.778,3,3,1.0,4,6,0.667,0.944,3,4,0.75,0,6,6,2,0,0,3,1,20,15.9,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+14,80,14,2021-01-17,Iowa,@,Northwestern,REG (Conf),W 96-73,*,27,6,10,0.6,2,3,0.667,4,7,0.571,0.7,2,4,0.5,1,3,4,3,0,0,0,2,16,13.5,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+15,81,15,2021-01-21,Iowa,,Indiana,REG (Conf),L 69-81,*,33,6,10,0.6,3,5,0.6,3,5,0.6,0.75,1,3,0.333,2,10,12,2,2,0,2,2,16,15.6,H,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+16,82,16,2021-01-29,Iowa,@,Illinois,REG (Conf),L 75-80,*,32,6,13,0.462,5,7,0.714,1,6,0.167,0.654,2,2,1.0,1,3,4,1,0,0,2,2,19,11.8,A,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+17,83,17,2021-02-02,Iowa,,Michigan State,REG (Conf),W 84-78,*,24,2,7,0.286,1,4,0.25,1,3,0.333,0.357,0,0,,0,1,1,0,1,1,0,1,5,2.5,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+18,84,18,2021-02-04,Iowa,,Ohio State,REG (Conf),L 85-89,*,37,6,14,0.429,4,8,0.5,2,6,0.333,0.571,1,2,0.5,1,9,10,2,1,0,0,1,17,14.6,H,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+19,85,19,2021-02-07,Iowa,@,Indiana,REG (Conf),L 65-67,*,38,7,12,0.583,3,7,0.429,4,5,0.8,0.708,1,1,1.0,0,8,8,0,2,1,2,3,18,14.3,A,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+20,86,20,2021-02-10,Iowa,,Rutgers,REG (Conf),W 79-66,*,35,9,14,0.643,5,7,0.714,4,7,0.571,0.821,3,4,0.75,0,10,10,1,1,0,0,2,26,23.3,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+21,87,21,2021-02-13,Iowa,@,Michigan State,REG (Conf),W 88-58,*,28,7,13,0.538,5,7,0.714,2,6,0.333,0.731,2,2,1.0,0,7,7,3,1,1,0,2,21,19.8,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+22,88,22,2021-02-18,Iowa,@,Wisconsin,REG (Conf),W 77-62,*,30,6,9,0.667,5,6,0.833,1,3,0.333,0.944,0,0,,1,7,8,2,1,1,4,3,17,13.8,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+23,89,23,2021-02-21,Iowa,,Penn State,REG (Conf),W 74-68,*,33,4,11,0.364,1,5,0.2,3,6,0.5,0.409,2,4,0.5,2,9,11,4,2,0,6,4,11,5.4,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+24,90,24,2021-02-25,Iowa,@,Michigan,REG (Conf),L 57-79,*,29,4,9,0.444,1,5,0.2,3,4,0.75,0.5,2,2,1.0,0,5,5,0,1,0,1,0,11,7.8,A,0,1,joe-wieskamp-1,Joe Wieskamp,2021
+25,91,25,2021-02-28,Iowa,@,Ohio State,REG (Conf),W 73-57,*,35,7,13,0.538,5,9,0.556,2,4,0.5,0.731,0,2,0.0,0,6,6,2,1,0,0,1,19,15.7,A,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+26,92,26,2021-03-04,Iowa,,Nebraska,REG (Conf),W 102-64,*,22,4,9,0.444,2,6,0.333,2,3,0.667,0.556,1,4,0.25,2,5,7,2,1,1,1,1,11,9.7,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+27,93,27,2021-03-07,Iowa,,Wisconsin,REG (Conf),W 77-73,*,12,5,5,1.0,2,2,1.0,3,3,1.0,1.2,0,0,,0,1,1,1,0,0,1,0,12,10.5,H,1,1,joe-wieskamp-1,Joe Wieskamp,2021
+28,94,28,2021-03-12,Iowa,N,Wisconsin,CTOURN,W 62-57,*,35,5,13,0.385,0,4,0.0,5,9,0.556,0.385,0,1,0.0,2,5,7,1,0,1,1,2,10,5.0,N,1,0,joe-wieskamp-1,Joe Wieskamp,2021
+29,95,29,2021-03-13,Iowa,N,Illinois,CTOURN,L 71-82,*,37,4,12,0.333,3,7,0.429,1,5,0.2,0.458,1,2,0.5,3,4,7,1,1,1,0,2,12,9.7,N,0,0,joe-wieskamp-1,Joe Wieskamp,2021
+30,96,30,2021-03-20,Iowa,N,Grand Canyon,ROUND-64,W 86-74,*,36,3,7,0.429,1,4,0.25,2,3,0.667,0.5,9,10,0.9,0,8,8,5,0,0,0,1,16,17.4,N,1,0,joe-wieskamp-1,Joe Wieskamp,2021
+31,97,31,2021-03-22,Iowa,N,Oregon,ROUND-32,L 80-95,*,34,7,17,0.412,3,8,0.375,4,9,0.444,0.5,0,0,,1,5,6,5,0,1,3,0,17,11.3,N,0,0,joe-wieskamp-1,Joe Wieskamp,2021

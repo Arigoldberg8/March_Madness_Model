@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2024-11-06,Creighton,,Texas–Rio Grande Valley,REG (Non-Conf),W 99-86,,14,4,7,0.571,3,6,0.5,1,1,1.0,0.786,0,0,,0,0,0,0,0,0,0,1,11,7.3,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+2,33,2,2024-11-10,Creighton,,FDU,REG (Non-Conf),W 96-70,*,14,1,5,0.2,1,5,0.2,0,0,,0.3,2,2,1.0,1,4,5,2,0,2,1,0,5,5.6,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+3,34,3,2024-11-13,Creighton,,Houston Christian,REG (Non-Conf),W 78-43,*,18,2,6,0.333,0,2,0.0,2,4,0.5,0.333,0,0,,1,1,2,2,0,0,1,1,4,1.6,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+4,35,4,2024-11-16,Creighton,,Kansas City,REG (Non-Conf),W 79-56,*,22,5,12,0.417,3,8,0.375,2,4,0.5,0.542,0,0,,2,1,3,0,1,0,0,1,13,8.9,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+5,36,5,2024-11-22,Creighton,,Nebraska,REG (Non-Conf),L 63-74,*,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,0,0,0,1,0,0,-1.5,H,0,1,isaac-traudt-1,Isaac Traudt,2025
+6,37,6,2024-11-26,Creighton,N,San Diego State,REG (Non-Conf),L 53-71,,7,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,2,1,3,0,0,0,0,0,0,0.3,N,0,1,isaac-traudt-1,Isaac Traudt,2025
+7,38,7,2024-11-27,Creighton,N,Texas A&M,REG (Non-Conf),L 73-77,,12,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,3,4,1,0,0,1,1,0,-0.5,N,0,1,isaac-traudt-1,Isaac Traudt,2025
+8,39,8,2024-11-30,Creighton,N,Notre Dame,REG (Non-Conf),W 80-76,,23,2,2,1.0,2,2,1.0,0,0,,1.5,2,2,1.0,2,4,6,1,0,0,1,0,8,9.7,N,1,1,isaac-traudt-1,Isaac Traudt,2025
+9,40,9,2024-12-04,Creighton,,Kansas,REG (Non-Conf),W 76-63,,15,0,0,,0,0,,0,0,,,0,0,,0,3,3,0,0,0,1,1,0,-0.5,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+10,41,10,2024-12-07,Creighton,,UNLV,REG (Non-Conf),W 83-65,,28,5,8,0.625,5,7,0.714,0,1,0.0,0.938,0,0,,0,5,5,1,0,0,0,2,15,12.8,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+11,42,11,2024-12-14,Creighton,@,Alabama,REG (Non-Conf),L 75-83,,15,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,3,3,1,1,0,0,1,0,0.8,A,0,1,isaac-traudt-1,Isaac Traudt,2025
+12,43,12,2024-12-18,Creighton,@,Georgetown,REG (Conf),L 57-81,,17,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,0,2,2,0,0,0,1,0,3,0.2,A,0,1,isaac-traudt-1,Isaac Traudt,2025
+13,44,13,2024-12-21,Creighton,,Villanova,REG (Conf),W 86-79,,5,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+14,45,14,2024-12-31,Creighton,,St. John's (NY),REG (Conf),W 57-56,,21,3,4,0.75,3,4,0.75,0,0,,1.125,0,0,,1,3,4,0,0,0,0,1,9,8.6,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+15,46,15,2025-01-03,Creighton,@,Marquette,REG (Conf),L 71-79,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,0,0,0,1,0,0,0,1,5,3.3,A,0,1,isaac-traudt-1,Isaac Traudt,2025
+16,47,16,2025-01-11,Creighton,@,Butler,REG (Conf),W 80-76,,17,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,1,1,0,0,0,0,1,2,1.6,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+17,48,17,2025-01-14,Creighton,,Providence,REG (Conf),W 84-64,,21,4,4,1.0,4,4,1.0,0,0,,1.5,1,1,1.0,1,0,1,0,0,0,0,0,13,12.5,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+18,49,18,2025-01-18,Creighton,@,Connecticut,REG (Conf),W 68-63,,22,3,6,0.5,2,5,0.4,1,1,1.0,0.667,3,3,1.0,1,1,2,0,1,0,0,0,11,10.0,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+19,50,19,2025-01-21,Creighton,@,DePaul,REG (Conf),W 73-49,,14,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,4,5,0,0,0,0,0,2,3.2,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+20,51,20,2025-01-25,Creighton,,Seton Hall,REG (Conf),W 79-54,,19,4,4,1.0,2,2,1.0,2,2,1.0,1.25,0,1,0.0,0,2,2,0,0,0,1,0,10,8.0,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+21,52,21,2025-01-29,Creighton,,Xavier,REG (Conf),W 86-77,,21,5,7,0.714,2,4,0.5,3,3,1.0,0.857,0,0,,2,1,3,0,0,0,0,1,12,10.4,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+22,53,22,2025-02-01,Creighton,@,Villanova,REG (Conf),W 62-60,,16,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,1,0,1,0,0,0,1,3,0,-4.3,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+23,54,23,2025-02-05,Creighton,@,Providence,REG (Conf),W 80-69,,15,0,1,0.0,0,1,0.0,0,0,,0.0,2,2,1.0,1,0,1,0,0,0,0,2,2,1.2,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+24,55,24,2025-02-08,Creighton,,Marquette,REG (Conf),W 77-67,,17,1,6,0.167,1,6,0.167,0,0,,0.25,2,2,1.0,0,2,2,2,1,0,0,0,5,4.2,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+25,56,25,2025-02-11,Creighton,,Connecticut,REG (Conf),L 66-70,,18,1,3,0.333,1,2,0.5,0,1,0.0,0.5,0,0,,0,4,4,1,0,0,0,0,3,3.2,H,0,1,isaac-traudt-1,Isaac Traudt,2025
+26,57,26,2025-02-16,Creighton,@,St. John's (NY),REG (Conf),L 73-79,,18,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,3,3,0,0,0,0,4,3,-0.8,A,0,1,isaac-traudt-1,Isaac Traudt,2025
+27,58,27,2025-02-23,Creighton,,Georgetown,REG (Conf),W 80-69,,13,3,6,0.5,2,5,0.4,1,1,1.0,0.667,0,0,,0,1,1,0,0,0,0,3,8,4.1,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+28,59,28,2025-02-26,Creighton,,DePaul,REG (Conf),W 75-65,,20,2,5,0.4,2,4,0.5,0,1,0.0,0.6,2,2,1.0,0,1,1,1,1,0,0,1,8,6.9,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+29,60,29,2025-03-01,Creighton,@,Xavier,REG (Conf),L 61-83,,16,1,2,0.5,1,2,0.5,0,0,,0.75,0,0,,1,1,2,1,1,0,1,3,3,2.5,A,0,1,isaac-traudt-1,Isaac Traudt,2025
+30,61,30,2025-03-04,Creighton,@,Seton Hall,REG (Conf),W 79-61,,13,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,1,0,0,0,1,0,-0.1,A,1,1,isaac-traudt-1,Isaac Traudt,2025
+31,62,31,2025-03-08,Creighton,,Butler,REG (Conf),W 87-74,,9,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,0,0,0,0,0,0,0,2,1.0,H,1,1,isaac-traudt-1,Isaac Traudt,2025
+32,63,32,2025-03-13,Creighton,N,DePaul,CTOURN,W 85-81 (2OT),,14,2,3,0.667,1,2,0.5,1,1,1.0,0.833,0,0,,1,1,2,0,0,0,0,0,5,4.7,N,1,0,isaac-traudt-1,Isaac Traudt,2025
+33,64,33,2025-03-14,Creighton,N,Connecticut,CTOURN,W 71-62,,16,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,0,0,0,0,1,0,-1.2,N,1,0,isaac-traudt-1,Isaac Traudt,2025
+34,65,34,2025-03-15,Creighton,N,St. John's (NY),CTOURN,L 66-82,,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,0,0,2,2.4,N,0,0,isaac-traudt-1,Isaac Traudt,2025
+35,66,35,2025-03-20,Creighton,N,Louisville,ROUND-64,W 89-75,,9,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,N,1,0,isaac-traudt-1,Isaac Traudt,2025
+36,67,36,2025-03-22,Creighton,N,Auburn,ROUND-32,L 70-82,,5,0,0,,0,0,,0,0,,,0,0,,0,0,0,1,0,0,0,1,0,0.3,N,0,0,isaac-traudt-1,Isaac Traudt,2025

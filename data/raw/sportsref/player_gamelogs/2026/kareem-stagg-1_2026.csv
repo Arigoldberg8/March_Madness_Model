@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Georgia,,Bellarmine,REG (Non-Conf),W 104-59,,13,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,2,1.0,0,3,3,0,1,0,0,0,8,7.6,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+2,2,2,2025-11-05,Georgia,,Maryland Eastern Shore,REG (Non-Conf),W 94-29,,14,2,4,0.5,1,3,0.333,1,1,1.0,0.625,4,6,0.667,1,1,2,1,0,0,1,1,9,6.5,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+3,3,3,2025-11-09,Georgia,,Morehead State,REG (Non-Conf),W 120-81,,13,4,6,0.667,0,2,0.0,4,4,1.0,0.667,2,2,1.0,1,5,6,3,1,2,0,0,10,14.1,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+4,4,4,2025-11-14,Georgia,,Georgia Tech,REG (Non-Conf),W 92-87,,13,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,1,1,3,1,0,0,2,2,3.6,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+5,5,5,2025-11-17,Georgia,,Florida A&M,REG (Non-Conf),W 87-57,,11,0,1,0.0,0,0,,0,1,0.0,0.0,5,6,0.833,2,1,3,1,0,1,1,0,5,6.0,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+6,6,6,2025-11-21,Georgia,N,Xavier,REG (Non-Conf),W 78-77,,8,0,0,,0,0,,0,0,,,4,6,0.667,1,2,3,1,0,2,2,3,4,3.4,N,1,1,kareem-stagg-1,Kareem Stagg,2026
+7,7,7,2025-11-23,Georgia,N,Clemson,REG (Non-Conf),L 94-97 (OT),,12,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,2,3,0,0,0,0,1,4,3.2,N,0,1,kareem-stagg-1,Kareem Stagg,2026
+8,8,8,2025-11-29,Georgia,,Tennessee Tech,REG (Non-Conf),W 123-81,,11,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,2,2,0,0,1,1,1,2,0.9,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+9,9,9,2025-12-02,Georgia,@,Florida State,REG (Non-Conf),W 107-73,,9,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,1,1,1,0,1,0,0,6,6.8,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+10,10,10,2025-12-13,Georgia,N,Cincinnati,REG (Non-Conf),W 84-65,,12,3,4,0.75,0,1,0.0,3,3,1.0,0.75,0,0,,0,2,2,0,0,0,1,0,6,4.0,N,1,1,kareem-stagg-1,Kareem Stagg,2026
+11,11,11,2025-12-18,Georgia,,Western Carolina,REG (Non-Conf),W 112-82,,12,2,2,1.0,1,1,1.0,1,1,1.0,1.25,2,2,1.0,1,1,2,1,1,0,2,3,7,5.9,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+12,12,12,2025-12-22,Georgia,,West Georgia,REG (Non-Conf),W 103-74,,18,2,6,0.333,1,3,0.333,1,3,0.333,0.417,5,6,0.833,1,1,2,0,0,0,3,4,10,2.6,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+13,13,13,2025-12-29,Georgia,,LIU,REG (Non-Conf),W 89-74,,20,3,3,1.0,0,0,,3,3,1.0,1.0,3,4,0.75,2,6,8,0,0,0,0,1,9,10.5,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+14,14,14,2026-01-03,Georgia,,Auburn,REG (Conf),W 104-100 (OT),,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,1,0,2,2,2.3,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+15,15,15,2026-01-06,Georgia,@,Florida,REG (Conf),L 77-92,,7,1,4,0.25,0,0,,1,4,0.25,0.25,0,0,,1,0,1,0,0,0,1,0,2,-0.7,A,0,1,kareem-stagg-1,Kareem Stagg,2026
+16,16,16,2026-01-10,Georgia,@,South Carolina,REG (Conf),W 75-70,,1,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+17,17,17,2026-01-14,Georgia,,Ole Miss,REG (Conf),L 95-97 (OT),,2,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,H,0,1,kareem-stagg-1,Kareem Stagg,2026
+18,18,18,2026-01-17,Georgia,,Arkansas,REG (Conf),W 90-76,,3,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+19,19,19,2026-01-20,Georgia,@,Missouri,REG (Conf),W 74-72,,6,0,0,,0,0,,0,0,,,0,0,,1,0,1,0,1,0,0,0,0,1.7,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+20,20,20,2026-01-24,Georgia,@,Texas,REG (Conf),L 67-87,,13,0,0,,0,0,,0,0,,,0,1,0.0,3,1,4,0,0,0,0,1,0,1.6,A,0,1,kareem-stagg-1,Kareem Stagg,2026
+21,21,21,2026-01-28,Georgia,,Tennessee,REG (Conf),L 85-86 (OT),,8,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,0,3,3,0,0,0,0,1,2,0.8,H,0,1,kareem-stagg-1,Kareem Stagg,2026
+22,22,22,2026-01-31,Georgia,,Texas A&M,REG (Conf),L 77-92,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,1,1,2,2,0,-0.9,H,0,1,kareem-stagg-1,Kareem Stagg,2026
+23,23,23,2026-02-07,Georgia,@,Louisiana State,REG (Conf),W 83-71,,3,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,1,0,1,0,0,0.0,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+24,24,24,2026-02-11,Georgia,,Florida,REG (Conf),L 66-86,,16,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,2,2,1,0,0,1,1,9,5.2,H,0,1,kareem-stagg-1,Kareem Stagg,2026
+25,25,25,2026-02-14,Georgia,@,Oklahoma,REG (Conf),L 78-94,*,27,4,9,0.444,2,4,0.5,2,5,0.4,0.556,0,0,,1,3,4,1,0,1,0,2,10,7.5,A,0,1,kareem-stagg-1,Kareem Stagg,2026
+26,26,26,2026-02-17,Georgia,@,Kentucky,REG (Conf),W 86-78,*,21,1,5,0.2,1,5,0.2,0,0,,0.3,0,0,,0,1,1,2,1,0,2,3,3,-0.6,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+27,27,27,2026-02-21,Georgia,,Texas,REG (Conf),W 91-80,*,19,2,3,0.667,0,1,0.0,2,2,1.0,0.667,0,0,,0,2,2,0,0,2,1,1,4,3.3,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+28,28,28,2026-02-25,Georgia,@,Vanderbilt,REG (Conf),L 80-88,*,21,1,4,0.25,1,2,0.5,0,2,0.0,0.375,0,0,,0,1,1,0,2,0,1,1,3,1.5,A,0,1,kareem-stagg-1,Kareem Stagg,2026
+29,29,29,2026-02-28,Georgia,,South Carolina,REG (Conf),W 87-68,*,19,4,8,0.5,2,5,0.4,2,3,0.667,0.625,1,2,0.5,0,4,4,1,0,1,0,1,11,8.8,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+30,30,30,2026-03-03,Georgia,,Alabama,REG (Conf),W 98-88,*,17,4,5,0.8,2,3,0.667,2,2,1.0,1.0,0,0,,1,1,2,1,1,0,3,2,10,7.0,H,1,1,kareem-stagg-1,Kareem Stagg,2026
+31,31,31,2026-03-07,Georgia,@,Mississippi State,REG (Conf),W 102-96,*,18,2,5,0.4,2,5,0.4,0,0,,0.6,0,0,,2,1,3,0,1,0,2,0,6,4.0,A,1,1,kareem-stagg-1,Kareem Stagg,2026
+32,32,32,2026-03-12,Georgia,N,Ole Miss,CTOURN,L 72-76,*,17,3,5,0.6,1,3,0.333,2,2,1.0,0.7,1,2,0.5,0,4,4,2,0,0,0,0,8,7.9,N,0,0,kareem-stagg-1,Kareem Stagg,2026

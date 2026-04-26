@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,57,1,2020-11-26,Gonzaga,N,Kansas,REG (Non-Conf),W 102-90,*,32,7,9,0.778,0,2,0.0,7,7,1.0,0.778,1,2,0.5,1,8,9,1,2,0,1,1,15,15.5,N,1,1,joel-ayayi-1,Joel Ayayi,2021
+2,58,2,2020-11-27,Gonzaga,N,Auburn,REG (Non-Conf),W 90-67,*,33,2,9,0.222,1,4,0.25,1,5,0.2,0.278,0,0,,1,6,7,3,1,0,1,3,5,2.9,N,1,1,joel-ayayi-1,Joel Ayayi,2021
+3,59,3,2020-12-02,Gonzaga,N,West Virginia,REG (Non-Conf),W 87-82,*,33,10,15,0.667,1,3,0.333,9,12,0.75,0.7,0,0,,3,4,7,4,4,0,2,3,21,21.4,N,1,1,joel-ayayi-1,Joel Ayayi,2021
+4,60,4,2020-12-19,Gonzaga,N,Iowa,REG (Non-Conf),W 99-88,*,38,5,10,0.5,0,1,0.0,5,9,0.556,0.5,1,2,0.5,5,13,18,6,0,0,2,2,11,14.4,N,1,1,joel-ayayi-1,Joel Ayayi,2021
+5,61,5,2020-12-21,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-57,*,22,0,2,0.0,0,2,0.0,0,0,,0.0,0,0,,1,1,2,1,1,0,1,1,0,-0.1,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+6,62,6,2020-12-22,Gonzaga,,Northwestern State,REG (Non-Conf),W 95-78,*,26,3,5,0.6,0,2,0.0,3,3,1.0,0.6,0,0,,0,2,2,5,2,1,2,2,6,7.7,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+7,63,7,2020-12-26,Gonzaga,N,Virginia,REG (Non-Conf),W 98-75,*,35,3,6,0.5,1,4,0.25,2,2,1.0,0.583,1,2,0.5,0,4,4,2,0,0,0,2,8,6.4,N,1,1,joel-ayayi-1,Joel Ayayi,2021
+8,64,8,2020-12-28,Gonzaga,,Northern Arizona,REG (Non-Conf),W 88-58,*,20,6,8,0.75,4,5,0.8,2,3,0.667,1.0,1,3,0.333,3,7,10,2,1,0,1,0,17,18.6,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+9,65,9,2020-12-29,Gonzaga,,Dixie State,REG (Non-Conf),W 112-67,*,27,8,9,0.889,3,4,0.75,5,5,1.0,1.056,2,2,1.0,3,8,11,6,2,0,3,2,21,24.8,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+10,66,10,2021-01-02,Gonzaga,,San Francisco,REG (Conf),W 85-62,*,33,6,8,0.75,1,2,0.5,5,6,0.833,0.813,3,5,0.6,2,8,10,1,1,1,1,1,16,16.8,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+11,67,11,2021-01-07,Gonzaga,,Brigham Young,REG (Conf),W 86-69,*,33,3,7,0.429,0,2,0.0,3,5,0.6,0.429,2,2,1.0,2,2,4,6,2,0,1,4,8,9.9,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+12,68,12,2021-01-09,Gonzaga,@,Portland,REG (Conf),W 116-88,*,28,5,7,0.714,0,1,0.0,5,6,0.833,0.714,2,2,1.0,2,11,13,14,0,0,0,1,12,23.2,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+13,69,13,2021-01-14,Gonzaga,,Pepperdine,REG (Conf),W 95-70,*,27,5,7,0.714,2,3,0.667,3,4,0.75,0.857,7,10,0.7,3,3,6,2,4,0,0,4,19,21.7,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+14,70,14,2021-01-16,Gonzaga,@,St. Mary's (CA),REG (Conf),W 73-59,*,36,8,13,0.615,0,0,,8,13,0.615,0.615,0,0,,0,5,5,1,1,0,1,2,16,11.5,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+15,71,15,2021-01-23,Gonzaga,,Pacific,REG (Conf),W 95-49,*,28,3,6,0.5,2,4,0.5,1,2,0.5,0.667,4,4,1.0,3,1,4,2,1,1,0,1,12,14.1,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+16,72,16,2021-01-28,Gonzaga,@,San Diego,REG (Conf),W 90-62,*,32,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,4,4,3,2,1,3,1,4,4.6,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+17,73,17,2021-01-30,Gonzaga,@,Pepperdine,REG (Conf),W 97-75,*,29,4,6,0.667,1,3,0.333,3,3,1.0,0.75,2,2,1.0,1,6,7,3,2,0,4,3,11,9.8,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+18,74,18,2021-02-04,Gonzaga,@,Pacific,REG (Conf),W 76-58,*,31,2,6,0.333,0,1,0.0,2,5,0.4,0.333,4,4,1.0,0,8,8,0,0,0,2,2,8,4.2,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+19,75,19,2021-02-08,Gonzaga,@,Brigham Young,REG (Conf),W 82-71,*,39,1,6,0.167,0,3,0.0,1,3,0.333,0.167,2,2,1.0,1,6,7,4,0,0,2,1,4,3.1,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+20,76,20,2021-02-13,Gonzaga,@,San Francisco,REG (Conf),W 100-61,*,30,6,10,0.6,0,2,0.0,6,8,0.75,0.6,0,0,,0,5,5,1,1,0,1,2,12,8.8,A,1,1,joel-ayayi-1,Joel Ayayi,2021
+21,77,21,2021-02-18,Gonzaga,,St. Mary's (CA),REG (Conf),W 87-65,,29,6,8,0.75,4,5,0.8,2,3,0.667,1.0,0,0,,2,4,6,2,0,0,2,2,16,14.0,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+22,78,22,2021-02-20,Gonzaga,,San Diego,REG (Conf),W 106-69,*,27,2,5,0.4,0,0,,2,5,0.4,0.4,2,2,1.0,1,5,6,1,1,0,2,1,6,4.8,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+23,79,23,2021-02-25,Gonzaga,,Santa Clara,REG (Conf),W 89-75,*,35,4,13,0.308,3,9,0.333,1,4,0.25,0.423,0,0,,3,6,9,3,2,0,3,1,11,8.1,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+24,80,24,2021-02-27,Gonzaga,,Loyola Marymount,REG (Conf),W 86-69,*,31,6,7,0.857,1,1,1.0,5,6,0.833,0.929,0,0,,0,0,0,3,1,0,0,2,13,12.8,H,1,1,joel-ayayi-1,Joel Ayayi,2021
+25,81,25,2021-03-08,Gonzaga,N,St. Mary's (CA),CTOURN,W 78-55,*,27,7,9,0.778,2,3,0.667,5,6,0.833,0.889,0,0,,2,6,8,1,0,0,1,3,16,14.2,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+26,82,26,2021-03-09,Gonzaga,N,Brigham Young,CTOURN,W 88-78,*,38,5,9,0.556,3,5,0.6,2,4,0.5,0.722,5,6,0.833,3,6,9,1,0,1,2,1,18,16.2,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+27,83,27,2021-03-20,Gonzaga,N,Norfolk State,ROUND-64,W 98-55,*,28,6,12,0.5,1,3,0.333,5,9,0.556,0.542,2,2,1.0,1,8,9,2,1,0,1,0,15,13.5,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+28,84,28,2021-03-22,Gonzaga,N,Oklahoma,ROUND-32,W 87-71,*,37,3,8,0.375,2,5,0.4,1,3,0.333,0.5,4,4,1.0,2,6,8,0,0,0,1,2,12,9.0,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+29,85,29,2021-03-28,Gonzaga,N,Creighton,ROUND-16,W 83-65,*,34,5,13,0.385,3,10,0.3,2,3,0.667,0.5,0,0,,0,8,8,1,0,0,2,2,13,6.2,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+30,86,30,2021-03-30,Gonzaga,N,Southern California,ROUND-8,W 85-66,*,29,4,5,0.8,0,0,,4,5,0.8,0.8,1,2,0.5,3,3,6,3,0,1,2,3,9,9.3,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+31,87,31,2021-04-03,Gonzaga,N,UCLA,NATIONAL-SEMI,W 93-90 (OT),*,42,9,12,0.75,2,3,0.667,7,9,0.778,0.833,2,3,0.667,2,4,6,2,2,0,2,3,22,19.6,N,1,0,joel-ayayi-1,Joel Ayayi,2021
+32,88,32,2021-04-05,Gonzaga,N,Baylor,NATIONAL-FINAL,L 70-86,*,31,3,5,0.6,0,1,0.0,3,4,0.75,0.6,2,3,0.667,1,1,2,1,0,0,0,0,8,7.0,N,0,0,joel-ayayi-1,Joel Ayayi,2021

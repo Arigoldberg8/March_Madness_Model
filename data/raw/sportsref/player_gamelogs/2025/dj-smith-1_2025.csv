@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,67,1,2024-11-04,Robert Morris,@,West Virginia,REG (Non-Conf),L 59-87,,30,3,11,0.273,2,7,0.286,1,4,0.25,0.364,0,0,,1,2,3,2,2,0,3,2,8,2.4,A,0,1,dj-smith-1,D.J. Smith,2025
+2,68,2,2024-11-07,Robert Morris,@,Delaware,REG (Non-Conf),L 77-81,,20,2,3,0.667,1,1,1.0,1,2,0.5,0.833,1,2,0.5,1,2,3,2,0,0,0,4,6,5.4,A,0,1,dj-smith-1,D.J. Smith,2025
+3,69,3,2024-11-10,Robert Morris,,Chatham,REG (Non-Conf),W 79-51,,33,3,10,0.3,0,4,0.0,3,6,0.5,0.3,0,0,,1,3,4,5,0,0,3,4,6,0.7,H,1,1,dj-smith-1,D.J. Smith,2025
+4,70,4,2024-11-14,Robert Morris,,Stonehill,REG (Non-Conf),W 63-51,*,29,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,1,0.0,0,5,5,3,2,0,4,2,5,1.3,H,1,1,dj-smith-1,D.J. Smith,2025
+5,71,5,2024-11-15,Robert Morris,,Lindenwood,REG (Non-Conf),W 67-53,*,35,3,10,0.3,2,7,0.286,1,3,0.333,0.4,0,0,,2,2,4,7,0,0,1,1,8,7.7,H,1,1,dj-smith-1,D.J. Smith,2025
+6,72,6,2024-11-17,Robert Morris,,New Orleans,REG (Non-Conf),W 73-62,*,25,5,9,0.556,4,8,0.5,1,1,1.0,0.778,6,7,0.857,0,2,2,1,1,0,6,2,20,10.8,H,1,1,dj-smith-1,D.J. Smith,2025
+7,73,7,2024-11-21,Robert Morris,@,Cornell,REG (Non-Conf),W 86-76,*,25,2,7,0.286,2,6,0.333,0,1,0.0,0.429,4,4,1.0,2,1,3,1,0,0,2,3,10,5.1,A,1,1,dj-smith-1,D.J. Smith,2025
+8,74,8,2024-11-27,Robert Morris,,Canisius,REG (Non-Conf),W 72-64,*,34,3,7,0.429,2,3,0.667,1,4,0.25,0.571,6,6,1.0,3,3,6,2,0,0,2,1,14,12.3,H,1,1,dj-smith-1,D.J. Smith,2025
+9,75,9,2024-11-30,Robert Morris,@,Ohio,REG (Non-Conf),L 68-84,*,33,3,8,0.375,2,4,0.5,1,4,0.25,0.5,2,2,1.0,0,0,0,2,1,0,1,2,10,6.2,A,0,1,dj-smith-1,D.J. Smith,2025
+10,76,10,2024-12-04,Robert Morris,,Youngstown State,REG (Conf),L 58-72,*,30,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,2,1.0,1,2,3,1,1,1,0,2,7,6.5,H,0,1,dj-smith-1,D.J. Smith,2025
+11,77,11,2024-12-08,Robert Morris,@,Purdue Fort Wayne,REG (Conf),L 77-82,*,31,1,7,0.143,0,2,0.0,1,5,0.2,0.143,0,0,,0,1,1,5,0,0,3,2,2,-2.5,A,0,1,dj-smith-1,D.J. Smith,2025
+12,78,12,2024-12-17,Robert Morris,,Towson,REG (Non-Conf),W 68-67,*,27,3,7,0.429,2,4,0.5,1,3,0.333,0.571,0,0,,2,0,2,2,0,0,2,0,8,5.1,H,1,1,dj-smith-1,D.J. Smith,2025
+13,79,13,2024-12-21,Robert Morris,,Saint Francis (PA),REG (Non-Conf),W 90-77,*,22,2,5,0.4,1,3,0.333,1,2,0.5,0.5,0,0,,0,0,0,3,0,0,1,0,5,3.4,H,1,1,dj-smith-1,D.J. Smith,2025
+14,80,14,2024-12-29,Robert Morris,,Northern Kentucky,REG (Conf),W 97-93 (3OT),*,35,5,10,0.5,2,6,0.333,3,4,0.75,0.6,1,2,0.5,0,1,1,3,0,0,2,5,13,6.0,H,1,1,dj-smith-1,D.J. Smith,2025
+15,81,15,2025-01-02,Robert Morris,@,Detroit Mercy,REG (Conf),L 76-78 (OT),*,22,1,7,0.143,1,4,0.25,0,3,0.0,0.214,0,0,,0,2,2,3,0,0,3,0,3,-1.8,A,0,1,dj-smith-1,D.J. Smith,2025
+16,82,16,2025-01-04,Robert Morris,@,Oakland,REG (Conf),W 79-71,*,24,1,5,0.2,1,3,0.333,0,2,0.0,0.3,2,3,0.667,0,1,1,2,2,0,0,2,5,4.4,A,1,1,dj-smith-1,D.J. Smith,2025
+17,83,17,2025-01-08,Robert Morris,,Cleveland State,REG (Conf),L 69-80,*,15,1,2,0.5,0,1,0.0,1,1,1.0,0.5,1,2,0.5,0,1,1,1,2,0,4,0,3,0.6,H,0,1,dj-smith-1,D.J. Smith,2025
+18,84,18,2025-01-12,Robert Morris,,Wright State,REG (Conf),W 75-72,*,20,4,6,0.667,3,4,0.75,1,2,0.5,0.917,2,2,1.0,0,0,0,1,1,0,1,4,13,9.5,H,1,1,dj-smith-1,D.J. Smith,2025
+19,85,19,2025-01-17,Robert Morris,@,Green Bay,REG (Conf),W 89-67,*,27,2,4,0.5,2,4,0.5,0,0,,0.75,4,4,1.0,0,1,1,6,0,0,2,2,10,9.7,A,1,1,dj-smith-1,D.J. Smith,2025
+20,86,20,2025-01-19,Robert Morris,@,Milwaukee,REG (Conf),W 81-79,*,30,4,7,0.571,3,5,0.6,1,2,0.5,0.786,1,2,0.5,1,3,4,3,0,0,3,4,12,7.4,A,1,1,dj-smith-1,D.J. Smith,2025
+21,87,21,2025-01-22,Robert Morris,@,Youngstown State,REG (Conf),W 72-70,*,33,5,13,0.385,1,4,0.25,4,9,0.444,0.423,2,2,1.0,0,0,0,1,0,0,0,4,13,5.0,A,1,1,dj-smith-1,D.J. Smith,2025
+22,88,22,2025-01-25,Robert Morris,,Oakland,REG (Conf),W 73-71,*,31,3,5,0.6,1,2,0.5,2,3,0.667,0.7,3,4,0.75,0,4,4,6,0,0,4,2,10,7.9,H,1,1,dj-smith-1,D.J. Smith,2025
+23,89,23,2025-01-30,Robert Morris,,IU Indy,REG (Conf),W 106-53,*,22,5,6,0.833,4,4,1.0,1,2,0.5,1.167,0,0,,1,2,3,1,1,0,0,0,14,14.8,H,1,1,dj-smith-1,D.J. Smith,2025
+24,90,24,2025-02-02,Robert Morris,@,Wright State,REG (Conf),L 64-66,*,27,2,6,0.333,1,3,0.333,1,3,0.333,0.417,2,3,0.667,0,1,1,2,0,0,5,3,7,-1.3,A,0,1,dj-smith-1,D.J. Smith,2025
+25,91,25,2025-02-05,Robert Morris,,Detroit Mercy,REG (Conf),W 71-56,*,32,3,9,0.333,1,5,0.2,2,4,0.5,0.389,3,4,0.75,0,3,3,5,1,0,2,3,10,6.7,H,1,1,dj-smith-1,D.J. Smith,2025
+26,92,26,2025-02-08,Robert Morris,@,Northern Kentucky,REG (Conf),W 81-76,*,29,3,5,0.6,0,2,0.0,3,3,1.0,0.6,3,4,0.75,0,3,3,1,1,0,2,1,9,6.5,A,1,1,dj-smith-1,D.J. Smith,2025
+27,93,27,2025-02-12,Robert Morris,@,Cleveland State,REG (Conf),W 68-59,*,26,4,12,0.333,1,6,0.167,3,6,0.5,0.375,0,0,,0,2,2,2,0,0,1,2,9,2.4,A,1,1,dj-smith-1,D.J. Smith,2025
+28,94,28,2025-02-15,Robert Morris,,Purdue Fort Wayne,REG (Conf),W 76-69,*,28,3,6,0.5,1,3,0.333,2,3,0.667,0.583,0,0,,0,1,1,5,1,0,2,2,7,6.0,H,1,1,dj-smith-1,D.J. Smith,2025
+29,95,29,2025-02-21,Robert Morris,,Green Bay,REG (Conf),W 94-85,*,31,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,4,0.5,0,1,1,5,0,0,1,1,7,3.8,H,1,1,dj-smith-1,D.J. Smith,2025
+30,96,30,2025-02-23,Robert Morris,,Milwaukee,REG (Conf),W 72-59,*,29,5,10,0.5,3,5,0.6,2,5,0.4,0.65,2,2,1.0,0,2,2,3,2,0,6,3,15,7.5,H,1,1,dj-smith-1,D.J. Smith,2025
+31,97,31,2025-02-27,Robert Morris,@,IU Indy,REG (Conf),W 82-68,*,26,1,4,0.25,0,3,0.0,1,1,1.0,0.25,0,0,,0,1,1,4,2,0,2,1,2,2.3,A,1,1,dj-smith-1,D.J. Smith,2025
+32,98,32,2025-03-06,Robert Morris,,Wright State,CTOURN,W 83-62,*,31,4,7,0.571,3,6,0.5,1,1,1.0,0.786,3,4,0.75,1,1,2,7,1,0,0,1,14,16.8,H,1,0,dj-smith-1,D.J. Smith,2025
+33,99,33,2025-03-10,Robert Morris,N,Oakland,CTOURN,W 79-76 (OT),*,33,4,9,0.444,3,7,0.429,1,2,0.5,0.611,0,0,,2,1,3,4,0,0,2,1,11,8.4,N,1,0,dj-smith-1,D.J. Smith,2025
+34,100,34,2025-03-11,Robert Morris,N,Youngstown State,CTOURN,W 89-78,*,30,3,9,0.333,3,5,0.6,0,4,0.0,0.5,2,2,1.0,0,3,3,6,0,0,2,3,11,7.8,N,1,0,dj-smith-1,D.J. Smith,2025
+35,101,35,2025-03-21,Robert Morris,N,Alabama,ROUND-64,L 81-90,*,35,3,6,0.5,1,2,0.5,2,4,0.5,0.583,3,4,0.75,1,3,4,5,0,0,1,4,10,9.1,N,0,0,dj-smith-1,D.J. Smith,2025

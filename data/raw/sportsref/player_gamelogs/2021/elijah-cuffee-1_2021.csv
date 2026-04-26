@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,108,1,2020-11-25,Liberty,N,Purdue,REG (Non-Conf),L 64-77,*,29,1,4,0.25,1,2,0.5,0,2,0.0,0.375,2,3,0.667,0,2,2,0,0,0,0,2,5,2.0,N,0,1,elijah-cuffee-1,Elijah Cuffee,2021
+2,109,2,2020-11-26,Liberty,N,Mississippi State,REG (Non-Conf),W 84-73,*,34,6,8,0.75,5,6,0.833,1,2,0.5,1.063,0,0,,0,2,2,5,0,0,1,2,17,16.1,N,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+3,110,3,2020-11-28,Liberty,N,South Carolina,REG (Non-Conf),W 78-62,*,24,5,7,0.714,3,5,0.6,2,2,1.0,0.929,0,0,,1,2,3,0,1,1,1,4,13,10.5,N,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+4,111,4,2020-11-29,Liberty,N,TCU,REG (Non-Conf),L 52-56,*,36,3,7,0.429,0,3,0.0,3,4,0.75,0.429,0,0,,0,4,4,1,0,0,2,3,6,1.0,N,0,1,elijah-cuffee-1,Elijah Cuffee,2021
+5,112,5,2020-12-03,Liberty,,Saint Francis (PA),REG (Non-Conf),W 78-62,*,31,3,8,0.375,2,7,0.286,1,1,1.0,0.5,0,0,,0,6,6,2,2,0,3,2,8,5.0,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+6,113,6,2020-12-05,Liberty,,Bluefield Univ.,REG (Non-Conf),W 86-64,*,25,4,7,0.571,4,7,0.571,0,0,,0.857,0,0,,0,2,2,2,1,0,1,2,12,9.9,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+7,114,7,2020-12-09,Liberty,@,Missouri,REG (Non-Conf),L 60-69,*,24,3,7,0.429,2,4,0.5,1,3,0.333,0.571,2,3,0.667,0,2,2,0,0,0,1,3,10,4.3,A,0,1,elijah-cuffee-1,Elijah Cuffee,2021
+8,115,8,2020-12-12,Liberty,,Columbia Intl,REG (Non-Conf),W 73-26,*,20,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,0,3,3,3,1,0,0,1,7,6.9,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+9,116,9,2020-12-15,Liberty,,South Carolina State,REG (Non-Conf),W 82-52,*,26,6,10,0.6,4,7,0.571,2,3,0.667,0.8,0,0,,0,4,4,2,0,0,1,0,16,13.0,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+10,117,11,2020-12-22,Liberty,,Alcorn State,REG (Non-Conf),W 108-65,*,23,5,6,0.833,4,5,0.8,1,1,1.0,1.167,2,2,1.0,0,3,3,2,0,1,0,0,16,16.8,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+11,118,12,2021-01-01,Liberty,@,Lipscomb,REG (Conf),L 70-77,*,33,4,11,0.364,2,7,0.286,2,4,0.5,0.455,0,0,,0,3,3,0,1,0,1,3,10,3.6,A,0,1,elijah-cuffee-1,Elijah Cuffee,2021
+12,119,13,2021-01-02,Liberty,@,Lipscomb,REG (Conf),W 66-50,*,29,3,9,0.333,1,5,0.2,2,4,0.5,0.389,0,0,,2,2,4,1,2,0,0,3,7,5.4,A,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+13,120,14,2021-01-08,Liberty,,Kennesaw State,REG (Conf),W 69-63,*,29,0,3,0.0,0,1,0.0,0,2,0.0,0.0,3,4,0.75,1,4,5,1,0,0,1,3,3,0.9,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+14,121,15,2021-01-09,Liberty,,Kennesaw State,REG (Conf),W 76-47,*,18,3,7,0.429,1,2,0.5,2,5,0.4,0.5,0,0,,1,3,4,0,1,0,0,2,7,5.1,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+15,122,16,2021-01-15,Liberty,@,Stetson,REG (Conf),L 59-65,*,36,5,7,0.714,1,3,0.333,4,4,1.0,0.786,1,1,1.0,0,3,3,4,1,1,2,2,12,11.7,A,0,1,elijah-cuffee-1,Elijah Cuffee,2021
+16,123,17,2021-01-16,Liberty,@,Stetson,REG (Conf),W 68-58,*,32,5,11,0.455,1,6,0.167,4,5,0.8,0.5,0,0,,1,3,4,0,0,2,3,4,11,3.7,A,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+17,124,18,2021-01-29,Liberty,@,Jacksonville,REG (Conf),W 59-54,*,32,1,7,0.143,0,6,0.0,1,1,1.0,0.143,2,2,1.0,1,4,5,0,0,1,1,2,4,0.3,A,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+18,125,19,2021-01-30,Liberty,@,Jacksonville,REG (Conf),W 64-58,*,34,3,8,0.375,1,4,0.25,2,4,0.5,0.438,0,0,,1,0,1,1,1,0,2,2,7,2.2,A,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+19,126,20,2021-02-05,Liberty,,Lancaster Bible,REG (Non-Conf),W 90-49,*,23,7,10,0.7,3,5,0.6,4,5,0.8,0.85,2,2,1.0,1,1,2,4,3,0,0,1,19,21.2,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+20,127,21,2021-02-12,Liberty,,North Florida,REG (Conf),W 73-61,*,26,4,6,0.667,3,4,0.75,1,2,0.5,0.917,0,0,,0,1,1,2,0,0,1,0,11,9.1,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+21,128,22,2021-02-13,Liberty,,North Florida,REG (Conf),W 80-60,*,28,2,6,0.333,1,4,0.25,1,2,0.5,0.417,3,3,1.0,0,8,8,1,1,2,1,1,8,8.7,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+22,129,23,2021-02-22,Liberty,,North Alabama,REG (Conf),W 74-54,*,31,3,5,0.6,3,4,0.75,0,1,0.0,0.9,4,4,1.0,0,2,2,3,0,0,1,3,13,11.2,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+23,130,24,2021-02-23,Liberty,,North Alabama,REG (Conf),W 74-54,*,23,1,5,0.2,1,3,0.333,0,2,0.0,0.3,3,4,0.75,1,3,4,3,1,1,0,1,6,7.5,H,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+24,131,25,2021-02-27,Liberty,@,Bellarmine,REG (Conf),W 94-78,*,30,4,6,0.667,2,4,0.5,2,2,1.0,0.833,2,2,1.0,0,4,4,4,0,0,1,4,12,10.8,A,1,1,elijah-cuffee-1,Elijah Cuffee,2021
+25,132,26,2021-03-04,Liberty,N,Kennesaw State,CTOURN,W 69-59,*,31,1,4,0.25,1,4,0.25,0,0,,0.375,0,0,,1,1,2,1,2,0,2,1,3,1.9,N,1,0,elijah-cuffee-1,Elijah Cuffee,2021
+26,133,27,2021-03-05,Liberty,N,Stetson,CTOURN,W 77-64,*,35,3,7,0.429,2,5,0.4,1,2,0.5,0.571,0,0,,1,4,5,4,1,0,1,3,8,7.8,N,1,0,elijah-cuffee-1,Elijah Cuffee,2021
+27,134,28,2021-03-07,Liberty,N,North Alabama,CTOURN,W 79-75,*,32,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,3,0.667,1,2,3,1,0,0,1,2,9,5.1,N,1,0,elijah-cuffee-1,Elijah Cuffee,2021
+28,135,29,2021-03-19,Liberty,N,Oklahoma State,ROUND-64,L 60-69,*,35,6,9,0.667,4,6,0.667,2,3,0.667,0.889,0,1,0.0,0,3,3,4,1,1,3,4,16,12.5,N,0,0,elijah-cuffee-1,Elijah Cuffee,2021

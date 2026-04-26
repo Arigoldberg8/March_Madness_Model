@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,55,1,2018-11-06,Marquette,,UMBC,REG (Non-Conf),W 67-42,*,6,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,0,2,1,0,-2.4,H,1,1,edward-morrow-1,Ed Morrow,2019
+2,56,2,2018-11-10,Marquette,,Bethune-Cookman,REG (Non-Conf),W 92-59,,18,4,7,0.571,0,0,4,7,0.571,0.571,0,1,0.0,1,1,2,1,1,3,4,2,8,4.3,H,1,1,edward-morrow-1,Ed Morrow,2019
+3,57,3,2018-11-14,Marquette,@,Indiana,REG (Non-Conf),L 73-96,,4,0,0,,0,0,0,0,,,1,2,0.5,0,1,1,1,0,0,1,1,1,0.2,A,0,1,edward-morrow-1,Ed Morrow,2019
+4,58,4,2018-11-17,Marquette,,Presbyterian,REG (Non-Conf),W 74-55,,8,2,5,0.4,0,0,2,5,0.4,0.4,1,2,0.5,1,3,4,1,0,1,2,2,5,2.1,H,1,1,edward-morrow-1,Ed Morrow,2019
+5,59,5,2018-11-21,Marquette,N,Kansas,REG (Non-Conf),L 68-77,,9,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,1,4,0,-1.9,N,0,1,edward-morrow-1,Ed Morrow,2019
+6,60,6,2018-11-23,Marquette,N,Louisville,REG (Non-Conf),W 77-74 (OT),,13,3,5,0.6,0,0,3,5,0.6,0.6,2,2,1.0,0,3,3,0,0,0,1,2,8,4.8,N,1,1,edward-morrow-1,Ed Morrow,2019
+7,61,7,2018-11-27,Marquette,,Charleston Southern,REG (Non-Conf),W 76-55,,16,5,7,0.714,0,0,5,7,0.714,0.714,0,0,,3,4,7,0,0,0,2,4,10,6.8,H,1,1,edward-morrow-1,Ed Morrow,2019
+8,62,8,2018-12-01,Marquette,,Kansas State,REG (Non-Conf),W 83-71,,16,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,0,5,5,0,0,0,1,4,4,2.3,H,1,1,edward-morrow-1,Ed Morrow,2019
+9,63,9,2018-12-04,Marquette,,UTEP,REG (Non-Conf),W 76-69,,18,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,1,4,5,0,0,1,2,3,9,6.8,H,1,1,edward-morrow-1,Ed Morrow,2019
+10,64,10,2018-12-08,Marquette,,Wisconsin,REG (Non-Conf),W 74-69 (OT),,17,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,3,4,7,0,0,1,2,4,5,4.0,H,1,1,edward-morrow-1,Ed Morrow,2019
+11,65,11,2018-12-18,Marquette,,North Dakota,REG (Non-Conf),W 92-66,,24,8,12,0.667,0,0,8,12,0.667,0.667,2,2,1.0,3,5,8,2,2,2,4,1,18,16.8,H,1,1,edward-morrow-1,Ed Morrow,2019
+12,66,12,2018-12-21,Marquette,,Buffalo,REG (Non-Conf),W 103-85,,12,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,3,2,5,2,0,0,0,0,4,6.8,H,1,1,edward-morrow-1,Ed Morrow,2019
+13,67,13,2018-12-28,Marquette,,Southern,REG (Non-Conf),W 84-41,,18,2,7,0.286,0,0,2,7,0.286,0.286,2,2,1.0,2,3,5,0,1,1,1,2,6,4.1,H,1,1,edward-morrow-1,Ed Morrow,2019
+14,68,14,2019-01-01,Marquette,@,St. John's (NY),REG (Conf),L 69-89,,22,5,8,0.625,0,0,5,8,0.625,0.625,2,6,0.333,2,3,5,3,0,0,1,2,12,9.4,A,0,1,edward-morrow-1,Ed Morrow,2019
+15,69,15,2019-01-06,Marquette,,Xavier,REG (Conf),W 70-52,,20,0,6,0.0,0,0,0,6,0.0,0.0,2,2,1.0,4,6,10,0,1,0,2,2,2,0.6,H,1,1,edward-morrow-1,Ed Morrow,2019
+16,70,16,2019-01-09,Marquette,@,Creighton,REG (Conf),W 106-104 (OT),,14,2,3,0.667,0,0,2,3,0.667,0.667,2,2,1.0,2,1,3,0,1,1,1,2,6,6.3,A,1,1,edward-morrow-1,Ed Morrow,2019
+17,71,17,2019-01-12,Marquette,,Seton Hall,REG (Conf),W 70-66,,6,0,0,,0,0,0,0,,,0,0,,0,1,1,1,0,1,1,0,0,0.7,H,1,1,edward-morrow-1,Ed Morrow,2019
+18,72,19,2019-01-20,Marquette,,Providence,REG (Conf),W 79-68,,13,3,4,0.75,0,0,3,4,0.75,0.75,3,3,1.0,1,0,1,0,0,0,1,4,9,5.5,H,1,1,edward-morrow-1,Ed Morrow,2019
+19,73,20,2019-01-23,Marquette,,DePaul,REG (Conf),W 79-69,,8,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,0,1,1,0,1,0,2,4,4.0,H,1,1,edward-morrow-1,Ed Morrow,2019
+20,74,21,2019-01-26,Marquette,@,Xavier,REG (Conf),W 87-82,,7,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,A,1,1,edward-morrow-1,Ed Morrow,2019
+21,75,22,2019-01-30,Marquette,@,Butler,REG (Conf),W 76-58,,14,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,2,4,6,0,0,1,0,1,4,5.6,A,1,1,edward-morrow-1,Ed Morrow,2019
+22,76,23,2019-02-05,Marquette,,St. John's (NY),REG (Conf),L 69-70,,13,3,3,1.0,0,0,3,3,1.0,1.0,0,0,,1,5,6,0,0,1,1,1,6,6.6,H,0,1,edward-morrow-1,Ed Morrow,2019
+23,77,24,2019-02-09,Marquette,,Villanova,REG (Conf),W 66-65,,22,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,2,4,6,0,2,0,1,1,0,1.8,H,1,1,edward-morrow-1,Ed Morrow,2019
+24,78,25,2019-02-12,Marquette,@,DePaul,REG (Conf),W 92-73,,17,4,4,1.0,0,0,4,4,1.0,1.0,1,2,0.5,3,1,4,0,1,1,2,4,9,7.9,A,1,1,edward-morrow-1,Ed Morrow,2019
+25,79,26,2019-02-20,Marquette,,Butler,REG (Conf),W 79-69,,7,2,2,1.0,0,0,2,2,1.0,1.0,0,0,,1,0,1,0,1,0,0,0,4,5.1,H,1,1,edward-morrow-1,Ed Morrow,2019
+26,80,27,2019-02-23,Marquette,@,Providence,REG (Conf),W 76-58,,23,5,7,0.714,0,0,5,7,0.714,0.714,1,1,1.0,1,4,5,0,0,1,2,4,11,7.1,A,1,1,edward-morrow-1,Ed Morrow,2019
+27,81,28,2019-02-27,Marquette,@,Villanova,REG (Conf),L 61-67,,17,3,4,0.75,0,0,3,4,0.75,0.75,0,1,0.0,1,2,3,0,1,1,1,4,6,4.4,A,0,1,edward-morrow-1,Ed Morrow,2019
+28,82,29,2019-03-03,Marquette,,Creighton,REG (Conf),L 60-66,,13,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,2,2,4,0,0,0,1,3,4,1.8,H,0,1,edward-morrow-1,Ed Morrow,2019
+29,83,30,2019-03-06,Marquette,@,Seton Hall,REG (Conf),L 64-73,,17,3,3,1.0,0,0,3,3,1.0,1.0,1,3,0.333,1,3,4,0,3,1,1,2,7,8.8,A,0,1,edward-morrow-1,Ed Morrow,2019
+30,84,31,2019-03-09,Marquette,,Georgetown,REG (Conf),L 84-86,,20,1,4,0.25,0,0,1,4,0.25,0.25,1,2,0.5,6,5,11,0,0,0,0,2,3,5.1,H,0,1,edward-morrow-1,Ed Morrow,2019
+31,85,32,2019-03-14,Marquette,N,St. John's (NY),CTOURN,W 86-54,,17,4,7,0.571,0,0,4,7,0.571,0.571,0,1,0.0,4,4,8,0,1,0,2,1,8,6.9,N,1,0,edward-morrow-1,Ed Morrow,2019
+32,86,33,2019-03-15,Marquette,N,Seton Hall,CTOURN,L 79-81,,26,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,7,1,8,0,1,0,1,4,7,7.2,N,0,0,edward-morrow-1,Ed Morrow,2019
+33,87,34,2019-03-21,Marquette,N,Murray State,ROUND-64,L 64-83,,19,3,7,0.429,0,0,3,7,0.429,0.429,0,0,,6,5,11,0,1,2,2,1,6,8.0,N,0,0,edward-morrow-1,Ed Morrow,2019

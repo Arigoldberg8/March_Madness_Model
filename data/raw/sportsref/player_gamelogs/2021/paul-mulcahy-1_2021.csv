@@ -1,0 +1,29 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2020-11-25,Rutgers,,Sacred Heart,REG (Non-Conf),W 86-63,,33,7,7,1.0,0,0,,7,7,1.0,1.0,1,3,0.333,0,4,4,7,2,0,1,2,15,18.4,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+2,33,2,2020-11-27,Rutgers,,Fairleigh Dickinson,REG (Non-Conf),W 96-75,*,32,0,4,0.0,0,1,0.0,0,3,0.0,0.0,2,2,1.0,1,6,7,3,0,2,1,2,2,3.4,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+3,34,3,2020-11-29,Rutgers,,Hofstra,REG (Non-Conf),W 70-56,*,34,1,4,0.25,0,2,0.0,1,2,0.5,0.25,1,2,0.5,2,7,9,7,2,1,4,1,3,6.9,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+4,35,4,2020-12-08,Rutgers,,Syracuse,REG (Non-Conf),W 79-69,*,31,2,4,0.5,1,2,0.5,1,2,0.5,0.625,0,0,,0,2,2,2,0,0,4,3,5,-0.2,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+5,36,5,2020-12-14,Rutgers,@,Maryland,REG (Conf),W 74-60,*,24,0,1,0.0,0,0,,0,1,0.0,0.0,3,4,0.75,0,2,2,4,0,0,0,3,3,4.1,A,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+6,37,6,2020-12-20,Rutgers,,Illinois,REG (Conf),W 91-88,*,30,1,4,0.25,0,1,0.0,1,3,0.333,0.25,6,6,1.0,4,3,7,1,0,1,2,3,8,7.5,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+7,38,7,2020-12-23,Rutgers,@,Ohio State,REG (Conf),L 68-80,*,33,2,4,0.5,1,2,0.5,1,2,0.5,0.625,2,2,1.0,1,2,3,5,0,1,1,3,7,8.3,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+8,39,8,2020-12-29,Rutgers,,Purdue,REG (Conf),W 81-76,*,35,4,6,0.667,3,5,0.6,1,1,1.0,0.917,0,0,,1,1,2,2,0,1,0,3,11,10.3,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+9,40,9,2021-01-02,Rutgers,,Iowa,REG (Conf),L 75-77,,20,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,1,1.0,1,2,3,0,0,1,1,4,6,2.7,H,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+10,41,10,2021-01-05,Rutgers,@,Michigan State,REG (Conf),L 45-68,,28,2,8,0.25,0,1,0.0,2,7,0.286,0.25,0,1,0.0,0,2,2,5,2,0,0,1,4,4.5,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+11,42,11,2021-01-09,Rutgers,,Ohio State,REG (Conf),L 68-79,,22,3,4,0.75,0,0,,3,4,0.75,0.75,1,2,0.5,0,4,4,3,2,0,0,3,7,9.1,H,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+12,43,12,2021-01-15,Rutgers,,Wisconsin,REG (Conf),L 54-60,,27,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,2,4,6,0,1,0,4,5,2,-3.5,H,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+13,44,13,2021-01-21,Rutgers,@,Penn State,REG (Conf),L 67-75,,30,2,2,1.0,2,2,1.0,0,0,,1.5,0,2,0.0,0,4,4,5,0,0,0,1,6,8.9,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+14,45,14,2021-01-24,Rutgers,@,Indiana,REG (Conf),W 74-70,*,36,3,7,0.429,2,5,0.4,1,2,0.5,0.571,1,2,0.5,1,0,1,3,1,0,2,3,9,5.5,A,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+15,46,15,2021-01-28,Rutgers,,Michigan State,REG (Conf),W 67-37,*,25,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,1,0.0,2,3,5,1,1,0,2,1,4,3.2,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+16,47,16,2021-01-31,Rutgers,@,Northwestern,REG (Conf),W 64-56,*,23,1,4,0.25,1,3,0.333,0,1,0.0,0.375,0,0,,1,1,2,5,3,0,2,3,3,4.9,A,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+17,48,17,2021-02-04,Rutgers,,Minnesota,REG (Conf),W 76-72,*,32,1,3,0.333,1,2,0.5,0,1,0.0,0.5,2,2,1.0,2,4,6,4,0,0,3,1,5,5.3,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+18,49,18,2021-02-10,Rutgers,@,Iowa,REG (Conf),L 66-79,*,28,3,5,0.6,1,2,0.5,2,3,0.667,0.7,0,1,0.0,2,1,3,2,2,1,2,1,7,7.7,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+19,50,19,2021-02-13,Rutgers,,Northwestern,REG (Conf),W 64-50,*,26,1,3,0.333,0,1,0.0,1,2,0.5,0.333,4,4,1.0,0,2,2,2,0,0,1,2,6,4.5,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+20,51,20,2021-02-18,Rutgers,@,Michigan,REG (Conf),L 64-71,*,28,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,2,1,3,2,0,0,2,0,2,2.8,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+21,52,21,2021-02-21,Rutgers,,Maryland,REG (Conf),L 59-68,*,29,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,1,0.0,0,2,2,2,0,0,3,5,7,1.3,H,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+22,53,22,2021-02-24,Rutgers,,Indiana,REG (Conf),W 74-63,,21,2,4,0.5,1,3,0.333,1,1,1.0,0.625,0,0,,1,0,1,2,2,0,2,0,5,5.1,H,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+23,54,23,2021-03-01,Rutgers,@,Nebraska,REG (Conf),L 51-72,*,15,2,3,0.667,2,3,0.667,0,0,,1.0,0,0,,0,0,0,1,0,0,2,3,6,2.2,A,0,1,paul-mulcahy-1,Paul Mulcahy,2021
+24,55,24,2021-03-06,Rutgers,@,Minnesota,REG (Conf),W 77-70 (OT),*,29,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,0,0,2,0,1,2,2,4,1.3,A,1,1,paul-mulcahy-1,Paul Mulcahy,2021
+25,56,25,2021-03-11,Rutgers,N,Indiana,CTOURN,W 61-50,*,31,4,12,0.333,2,6,0.333,2,6,0.333,0.417,0,0,,1,4,5,2,0,0,0,0,10,6.5,N,1,0,paul-mulcahy-1,Paul Mulcahy,2021
+26,57,26,2021-03-12,Rutgers,N,Illinois,CTOURN,L 68-90,*,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,3,4,0.75,0,1,1,0,0,1,2,5,5,0.6,N,0,0,paul-mulcahy-1,Paul Mulcahy,2021
+27,58,27,2021-03-19,Rutgers,N,Clemson,ROUND-64,W 60-56,*,22,3,4,0.75,2,3,0.667,1,1,1.0,1.0,0,0,,0,2,2,4,0,0,0,2,8,9.0,N,1,0,paul-mulcahy-1,Paul Mulcahy,2021
+28,59,28,2021-03-21,Rutgers,N,Houston,ROUND-32,L 60-63,*,25,2,2,1.0,1,1,1.0,1,1,1.0,1.25,0,0,,1,4,5,4,0,0,2,1,5,6.7,N,0,0,paul-mulcahy-1,Paul Mulcahy,2021

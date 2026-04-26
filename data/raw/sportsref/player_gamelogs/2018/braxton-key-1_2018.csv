@@ -1,0 +1,27 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,35,11,2017-12-19,Alabama,N,Mercer,REG (Non-Conf),W 80-79,*,20,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,2,2,4,2,2,0,3,1,0,0.6,N,1,1,braxton-key-1,Braxton Key,2018
+2,36,12,2017-12-22,Alabama,N,Texas,REG (Non-Conf),L 50-66,*,22,1,8,0.125,0,3,0.0,1,5,0.2,0.125,0,0,,0,4,4,1,0,1,2,0,2,-2.6,N,0,1,braxton-key-1,Braxton Key,2018
+3,37,13,2017-12-30,Alabama,,Texas A&M,REG (Conf),W 79-57,*,20,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,3,3,6,2,2,0,0,4,2,5.1,H,1,1,braxton-key-1,Braxton Key,2018
+4,38,14,2018-01-02,Alabama,@,Vanderbilt,REG (Conf),L 75-76,*,33,3,8,0.375,1,2,0.5,2,6,0.333,0.438,2,2,1.0,1,5,6,3,4,1,1,2,9,11.8,A,0,1,braxton-key-1,Braxton Key,2018
+5,39,15,2018-01-06,Alabama,@,Georgia,REG (Conf),L 46-65,*,20,0,7,0.0,0,4,0.0,0,3,0.0,0.0,1,2,0.5,1,4,5,1,0,0,1,1,1,-3.1,A,0,1,braxton-key-1,Braxton Key,2018
+6,40,16,2018-01-09,Alabama,,South Carolina,REG (Conf),W 76-62,*,22,2,4,0.5,0,1,0.0,2,3,0.667,0.5,3,5,0.6,2,4,6,5,1,1,3,3,7,7.8,H,1,1,braxton-key-1,Braxton Key,2018
+7,41,17,2018-01-13,Alabama,@,Louisiana State,REG (Conf),W 74-66,*,24,3,8,0.375,0,2,0.0,3,6,0.5,0.375,0,0,,0,4,4,2,1,0,2,2,6,2.4,A,1,1,braxton-key-1,Braxton Key,2018
+8,42,18,2018-01-17,Alabama,,Auburn,REG (Conf),W 76-71,*,31,1,3,0.333,0,1,0.0,1,2,0.5,0.333,2,2,1.0,1,8,9,3,1,1,3,1,4,5.8,H,1,1,braxton-key-1,Braxton Key,2018
+9,43,19,2018-01-20,Alabama,,Mississippi State,REG (Conf),W 68-62,*,28,6,13,0.462,2,4,0.5,4,9,0.444,0.538,2,3,0.667,3,2,5,4,3,1,2,1,16,15.7,H,1,1,braxton-key-1,Braxton Key,2018
+10,44,20,2018-01-23,Alabama,@,Ole Miss,REG (Conf),L 66-78,*,27,3,4,0.75,1,1,1.0,2,3,0.667,0.875,0,1,0.0,1,4,5,3,2,0,2,4,7,7.4,A,0,1,braxton-key-1,Braxton Key,2018
+11,45,21,2018-01-27,Alabama,,Oklahoma,REG (Non-Conf),W 80-73,*,29,3,9,0.333,2,5,0.4,1,4,0.25,0.444,3,4,0.75,1,4,5,2,2,0,1,1,11,9.4,H,1,1,braxton-key-1,Braxton Key,2018
+12,46,22,2018-01-31,Alabama,,Missouri,REG (Conf),L 60-69,*,23,0,1,0.0,0,1,0.0,0,0,,0.0,1,2,0.5,1,2,3,1,1,0,2,2,1,0.1,H,0,1,braxton-key-1,Braxton Key,2018
+13,47,23,2018-02-03,Alabama,@,Florida,REG (Conf),W 68-50,,34,5,7,0.714,1,3,0.333,4,4,1.0,0.786,2,2,1.0,1,4,5,2,0,1,3,1,13,10.7,A,1,1,braxton-key-1,Braxton Key,2018
+14,48,24,2018-02-06,Alabama,@,Mississippi State,REG (Conf),L 63-67,,31,4,11,0.364,1,5,0.2,3,6,0.5,0.409,2,2,1.0,3,3,6,1,0,0,1,3,11,6.4,A,0,1,braxton-key-1,Braxton Key,2018
+15,49,25,2018-02-10,Alabama,,Tennessee,REG (Conf),W 78-50,,24,4,7,0.571,0,2,0.0,4,5,0.8,0.571,0,1,0.0,1,3,4,1,0,0,1,0,8,5.6,H,1,1,braxton-key-1,Braxton Key,2018
+16,50,26,2018-02-13,Alabama,,Louisiana State,REG (Conf),W 80-65,,26,4,7,0.571,2,3,0.667,2,4,0.5,0.714,2,2,1.0,0,7,7,1,0,0,1,0,12,10.5,H,1,1,braxton-key-1,Braxton Key,2018
+17,51,27,2018-02-17,Alabama,@,Kentucky,REG (Conf),L 71-81,,19,2,5,0.4,0,3,0.0,2,2,1.0,0.4,1,4,0.25,2,2,4,1,1,0,1,3,5,2.6,A,0,1,braxton-key-1,Braxton Key,2018
+18,52,28,2018-02-21,Alabama,@,Auburn,REG (Conf),L 71-90,,26,4,5,0.8,1,1,1.0,3,4,0.75,0.9,2,2,1.0,2,6,8,1,0,1,4,2,11,8.9,A,0,1,braxton-key-1,Braxton Key,2018
+19,53,29,2018-02-24,Alabama,,Arkansas,REG (Conf),L 73-76,*,25,6,9,0.667,2,4,0.5,4,5,0.8,0.778,2,3,0.667,1,4,5,2,1,2,3,2,16,13.6,H,0,1,braxton-key-1,Braxton Key,2018
+20,54,30,2018-02-27,Alabama,,Florida,REG (Conf),L 52-73,*,25,5,10,0.5,1,1,1.0,4,9,0.444,0.55,0,0,,1,7,8,1,0,0,2,1,11,7.1,H,0,1,braxton-key-1,Braxton Key,2018
+21,55,31,2018-03-03,Alabama,@,Texas A&M,REG (Conf),L 66-68,*,28,1,7,0.143,1,6,0.167,0,1,0.0,0.214,4,5,0.8,2,4,6,1,1,0,2,2,7,3.6,A,0,1,braxton-key-1,Braxton Key,2018
+22,56,32,2018-03-08,Alabama,N,Texas A&M,CTOURN,W 71-70,,20,2,3,0.667,0,0,,2,3,0.667,0.667,0,0,,2,1,3,1,1,0,1,2,4,4.3,N,1,0,braxton-key-1,Braxton Key,2018
+23,57,33,2018-03-09,Alabama,N,Auburn,CTOURN,W 81-63,,30,2,5,0.4,0,2,0.0,2,3,0.667,0.4,5,6,0.833,1,9,10,3,2,0,0,4,9,11.8,N,1,0,braxton-key-1,Braxton Key,2018
+24,58,34,2018-03-10,Alabama,N,Kentucky,CTOURN,L 63-86,,23,1,6,0.167,0,4,0.0,1,2,0.5,0.167,1,2,0.5,3,2,5,1,1,0,2,3,3,0.0,N,0,0,braxton-key-1,Braxton Key,2018
+25,59,35,2018-03-15,Alabama,N,Virginia Tech,ROUND-64,W 86-83,*,17,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,1,0,1,1,0,0,1,4,0,-2.6,N,1,0,braxton-key-1,Braxton Key,2018
+26,60,36,2018-03-17,Alabama,N,Villanova,ROUND-32,L 58-81,*,29,2,5,0.4,1,3,0.333,1,2,0.5,0.5,1,4,0.25,1,3,4,2,1,2,2,2,6,4.7,N,0,0,braxton-key-1,Braxton Key,2018

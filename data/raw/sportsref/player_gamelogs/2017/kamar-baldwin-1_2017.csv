@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2016-11-12,Butler,,Northern Colorado,REG (Non-Conf),W 89-52,,21,5,9,0.556,1,3,0.333,4,6,0.667,0.611,0,0,,0,1,1,1,2,0,0,2,11,8.9,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+2,2,2,2016-11-16,Butler,,Northwestern,REG (Non-Conf),W 70-68,,28,5,8,0.625,1,2,0.5,4,6,0.667,0.688,0,0,,0,3,3,3,3,1,1,1,11,12.7,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+3,3,3,2016-11-19,Butler,,Bucknell,REG (Non-Conf),W 86-60,,19,4,5,0.8,2,2,1.0,2,3,0.667,1.0,0,0,,0,3,3,2,1,1,1,1,10,10.7,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+4,4,4,2016-11-21,Butler,,Norfolk State,REG (Non-Conf),W 91-55,,15,2,3,0.667,0,1,0.0,2,2,1.0,0.667,1,1,1.0,0,3,3,3,3,2,2,3,5,7.9,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+5,5,5,2016-11-24,Butler,N,Vanderbilt,REG (Non-Conf),W 76-66,,27,5,7,0.714,2,3,0.667,3,4,0.75,0.857,0,0,,0,1,1,1,1,0,1,3,12,8.9,N,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+6,6,6,2016-11-25,Butler,N,Arizona,REG (Non-Conf),W 69-65,,22,3,8,0.375,0,0,,3,8,0.375,0.375,5,6,0.833,0,3,3,0,2,0,3,3,11,4.9,N,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+7,7,7,2016-11-28,Butler,@,Utah,REG (Non-Conf),W 68-59,,21,2,8,0.25,0,3,0.0,2,5,0.4,0.25,0,0,,0,2,2,0,4,0,0,1,4,3.4,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+8,8,8,2016-12-03,Butler,,Central Arkansas,REG (Non-Conf),W 82-58,,16,2,6,0.333,1,4,0.25,1,2,0.5,0.417,0,0,,0,1,1,2,1,0,3,0,5,1.3,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+9,9,9,2016-12-07,Butler,@,Indiana State,REG (Non-Conf),L 71-72,,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,0,1,1,0,5,0,4,1,6,3.9,A,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+10,10,10,2016-12-10,Butler,,Cincinnati,REG (Non-Conf),W 75-65,*,24,3,6,0.5,1,1,1.0,2,5,0.4,0.583,1,2,0.5,0,7,7,0,0,1,3,2,8,3.6,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+11,11,11,2016-12-17,Butler,N,Indiana,REG (Non-Conf),W 83-78,*,29,5,10,0.5,2,4,0.5,3,6,0.5,0.6,2,2,1.0,0,5,5,0,0,1,0,3,14,10.0,N,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+12,12,12,2016-12-21,Butler,,Vermont,REG (Non-Conf),W 81-69,*,23,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,0,4,4,1,2,0,0,2,2,4.8,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+13,13,13,2016-12-29,Butler,@,St. John's (NY),REG (Conf),L 73-76,*,23,2,4,0.5,0,2,0.0,2,2,1.0,0.5,0,0,,0,0,0,2,2,0,1,4,4,2.8,A,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+14,14,14,2017-01-01,Butler,,Providence,REG (Conf),W 78-61,*,15,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,2,2,2,1,1,0,5,6,6.8,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+15,15,15,2017-01-04,Butler,,Villanova,REG (Conf),W 66-58,*,28,4,10,0.4,0,1,0.0,4,9,0.444,0.4,2,2,1.0,1,4,5,1,1,0,1,2,10,6.4,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+16,16,16,2017-01-07,Butler,@,Georgetown,REG (Conf),W 85-76 (OT),*,41,6,13,0.462,3,4,0.75,3,9,0.333,0.577,1,2,0.5,0,5,5,2,4,0,3,3,16,11.6,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+17,17,17,2017-01-11,Butler,@,Creighton,REG (Conf),L 64-75,*,20,3,6,0.5,1,1,1.0,2,5,0.4,0.583,2,2,1.0,1,3,4,2,1,0,1,1,9,8.6,A,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+18,18,18,2017-01-14,Butler,,Xavier,REG (Conf),W 83-78,,30,6,11,0.545,1,2,0.5,5,9,0.556,0.591,8,8,1.0,2,7,9,1,2,0,2,4,21,18.3,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+19,19,19,2017-01-16,Butler,,Marquette,REG (Conf),W 88-80,*,35,8,13,0.615,2,2,1.0,6,11,0.545,0.692,0,0,,0,3,3,2,2,1,0,2,18,16.3,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+20,20,20,2017-01-21,Butler,@,DePaul,REG (Conf),W 70-69 (OT),*,36,7,14,0.5,2,6,0.333,5,8,0.625,0.571,2,2,1.0,1,4,5,2,1,1,1,4,18,13.4,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+21,21,21,2017-01-25,Butler,@,Seton Hall,REG (Conf),W 61-54,*,29,4,8,0.5,2,3,0.667,2,5,0.4,0.625,2,4,0.5,0,3,3,1,1,0,3,2,12,6.0,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+22,22,22,2017-01-28,Butler,,Georgetown,REG (Conf),L 81-85,*,35,5,14,0.357,0,4,0.0,5,10,0.5,0.357,0,0,,0,1,1,3,1,0,0,1,10,5.2,H,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+23,23,23,2017-01-31,Butler,,Creighton,REG (Conf),L 67-76,*,33,6,14,0.429,2,6,0.333,4,8,0.5,0.5,0,0,,1,2,3,0,0,0,1,1,14,6.5,H,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+24,24,24,2017-02-07,Butler,@,Marquette,REG (Conf),W 68-65,*,30,3,8,0.375,2,5,0.4,1,3,0.333,0.5,0,0,,0,6,6,1,1,4,3,2,8,6.1,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+25,25,25,2017-02-11,Butler,@,Providence,REG (Conf),L 65-71,*,33,2,8,0.25,1,3,0.333,1,5,0.2,0.313,0,0,,2,9,11,3,1,0,2,4,5,3.8,A,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+26,26,26,2017-02-15,Butler,,St. John's (NY),REG (Conf),W 110-86,*,15,3,5,0.6,2,3,0.667,1,2,0.5,0.8,0,0,,2,2,4,1,1,0,2,3,8,6.2,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+27,27,27,2017-02-19,Butler,,DePaul,REG (Conf),W 82-66,*,22,3,6,0.5,0,2,0.0,3,4,0.75,0.5,0,0,,0,2,2,2,2,1,0,2,6,6.9,H,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+28,28,28,2017-02-22,Butler,@,Villanova,REG (Conf),W 74-66,*,29,7,11,0.636,1,3,0.333,6,8,0.75,0.682,0,0,,0,2,2,1,1,1,2,5,15,9.1,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+29,29,29,2017-02-26,Butler,@,Xavier,REG (Conf),W 88-79,*,36,8,15,0.533,1,6,0.167,7,9,0.778,0.567,0,1,0.0,3,2,5,3,5,1,0,2,17,19.0,A,1,1,kamar-baldwin-1,Kamar Baldwin,2017
+30,30,30,2017-03-04,Butler,,Seton Hall,REG (Conf),L 64-70,,28,2,5,0.4,0,2,0.0,2,3,0.667,0.4,3,4,0.75,0,3,3,0,0,0,2,2,7,2.0,H,0,1,kamar-baldwin-1,Kamar Baldwin,2017
+31,31,31,2017-03-09,Butler,N,Xavier,CTOURN,L 57-62,*,34,3,9,0.333,1,6,0.167,2,3,0.667,0.389,1,2,0.5,0,4,4,1,4,0,4,1,8,4.0,N,0,0,kamar-baldwin-1,Kamar Baldwin,2017
+32,32,32,2017-03-16,Butler,N,Winthrop,ROUND-64,W 76-64,*,34,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,5,6,2,2,1,1,1,7,8.2,N,1,0,kamar-baldwin-1,Kamar Baldwin,2017
+33,33,33,2017-03-18,Butler,N,Middle Tennessee,ROUND-32,W 74-65,*,32,5,9,0.556,2,3,0.667,3,6,0.5,0.667,1,3,0.333,0,4,4,4,0,1,1,0,13,11.6,N,1,0,kamar-baldwin-1,Kamar Baldwin,2017
+34,34,34,2017-03-24,Butler,N,North Carolina,ROUND-16,L 80-92,*,29,5,9,0.556,1,4,0.25,4,5,0.8,0.611,3,4,0.75,1,4,5,1,2,0,3,3,14,9.7,N,0,0,kamar-baldwin-1,Kamar Baldwin,2017

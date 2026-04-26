@@ -1,0 +1,34 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,28,1,2013-11-08,Oklahoma,N,Alabama,REG (Non-Conf),W 82-73,*,31,7,14,0.5,2,5,0.4,5,9,0.556,0.571,3,4,0.75,4,2,6,1,3,0,3,2,19,14.9,N,1,1,buddy-hield-1,Buddy Hield,2014
+2,29,2,2013-11-11,Oklahoma,,North Texas,REG (Non-Conf),W 95-82,*,29,7,14,0.5,3,4,0.75,4,10,0.4,0.607,6,6,1.0,1,2,3,1,2,0,0,1,23,19.6,H,1,1,buddy-hield-1,Buddy Hield,2014
+3,30,3,2013-11-13,Oklahoma,,Idaho,REG (Non-Conf),W 85-65,*,25,5,11,0.455,2,5,0.4,3,6,0.5,0.545,1,2,0.5,2,4,6,2,1,0,3,2,13,8.1,H,1,1,buddy-hield-1,Buddy Hield,2014
+4,31,4,2013-11-22,Oklahoma,N,Seton Hall,REG (Non-Conf),W 86-85,*,32,3,12,0.25,1,6,0.167,2,6,0.333,0.292,6,7,0.857,0,1,1,2,0,0,4,4,13,1.5,N,1,1,buddy-hield-1,Buddy Hield,2014
+5,32,5,2013-11-23,Oklahoma,N,Michigan State,REG (Non-Conf),L 76-87,*,30,6,12,0.5,1,5,0.2,5,7,0.714,0.542,0,1,0.0,1,5,6,0,1,0,3,4,13,5.2,N,0,1,buddy-hield-1,Buddy Hield,2014
+6,33,6,2013-11-29,Oklahoma,,Little Rock,REG (Non-Conf),W 101-81,*,26,6,14,0.429,3,6,0.5,3,8,0.375,0.536,2,4,0.5,1,3,4,4,1,0,2,3,17,11.0,H,1,1,buddy-hield-1,Buddy Hield,2014
+7,34,7,2013-12-02,Oklahoma,,Mercer,REG (Non-Conf),W 96-82,*,32,6,11,0.545,2,5,0.4,4,6,0.667,0.636,6,6,1.0,2,0,2,2,2,0,1,0,20,18.5,H,1,1,buddy-hield-1,Buddy Hield,2014
+8,35,8,2013-12-05,Oklahoma,,Texas A&M–Corpus Christi,REG (Non-Conf),W 78-56,*,25,8,14,0.571,1,3,0.333,7,11,0.636,0.607,1,1,1.0,1,2,3,3,2,0,1,1,18,15.4,H,1,1,buddy-hield-1,Buddy Hield,2014
+9,36,9,2013-12-08,Oklahoma,N,George Mason,REG (Non-Conf),W 81-66,*,35,4,11,0.364,0,5,0.0,4,6,0.667,0.364,4,7,0.571,1,9,10,1,2,0,2,2,12,8.0,N,1,1,buddy-hield-1,Buddy Hield,2014
+10,37,10,2013-12-14,Oklahoma,,Tulsa,REG (Non-Conf),W 101-91,*,32,8,15,0.533,3,7,0.429,5,8,0.625,0.633,4,6,0.667,1,1,2,1,0,1,1,2,23,15.5,H,1,1,buddy-hield-1,Buddy Hield,2014
+11,38,11,2013-12-17,Oklahoma,,UT Arlington,REG (Non-Conf),W 91-89,*,33,6,15,0.4,4,8,0.5,2,7,0.286,0.533,3,4,0.75,5,1,6,3,0,0,3,3,19,12.2,H,1,1,buddy-hield-1,Buddy Hield,2014
+12,39,12,2013-12-21,Oklahoma,N,Texas A&M,REG (Non-Conf),W 64-52,*,27,3,10,0.3,0,3,0.0,3,7,0.429,0.3,0,0,,1,2,3,1,1,2,3,3,6,0.4,N,1,1,buddy-hield-1,Buddy Hield,2014
+13,40,13,2013-12-30,Oklahoma,,Louisiana Tech,REG (Non-Conf),L 98-102 (OT),*,32,4,14,0.286,1,5,0.2,3,9,0.333,0.321,1,2,0.5,3,0,3,3,2,0,0,5,10,5.6,H,0,1,buddy-hield-1,Buddy Hield,2014
+14,41,14,2014-01-04,Oklahoma,@,Texas,REG (Conf),W 88-85,*,34,8,14,0.571,4,7,0.571,4,7,0.571,0.714,2,2,1.0,1,3,4,3,1,0,1,1,22,18.7,A,1,1,buddy-hield-1,Buddy Hield,2014
+15,42,15,2014-01-08,Oklahoma,,Kansas,REG (Conf),L 83-90,*,38,6,14,0.429,3,8,0.375,3,6,0.5,0.536,3,4,0.75,3,5,8,0,1,0,1,5,18,11.8,H,0,1,buddy-hield-1,Buddy Hield,2014
+16,43,16,2014-01-11,Oklahoma,,Iowa State,REG (Conf),W 87-82,*,32,8,18,0.444,6,12,0.5,2,6,0.333,0.611,0,2,0.0,2,3,5,1,1,0,1,3,22,13.6,H,1,1,buddy-hield-1,Buddy Hield,2014
+17,44,17,2014-01-14,Oklahoma,@,Kansas State,REG (Conf),L 66-72,*,35,5,16,0.313,2,7,0.286,3,9,0.333,0.375,0,0,,2,1,3,5,1,0,1,2,12,7.2,A,0,1,buddy-hield-1,Buddy Hield,2014
+18,45,18,2014-01-18,Oklahoma,@,Baylor,REG (Conf),W 66-64,*,31,7,14,0.5,4,11,0.364,3,3,1.0,0.643,1,1,1.0,2,6,8,0,1,0,3,2,19,12.4,A,1,1,buddy-hield-1,Buddy Hield,2014
+19,46,19,2014-01-22,Oklahoma,,TCU,REG (Conf),W 77-69,*,36,7,14,0.5,2,7,0.286,5,7,0.714,0.571,0,0,,0,1,1,5,1,0,2,0,16,11.8,H,1,1,buddy-hield-1,Buddy Hield,2014
+20,47,20,2014-01-25,Oklahoma,@,Texas Tech,REG (Conf),W 74-65,*,34,7,11,0.636,4,7,0.571,3,4,0.75,0.818,0,0,,2,2,4,1,2,0,0,2,18,17.0,A,1,1,buddy-hield-1,Buddy Hield,2014
+21,48,21,2014-01-27,Oklahoma,,Oklahoma State,REG (Conf),W 88-76,*,37,4,12,0.333,0,3,0.0,4,9,0.444,0.333,3,4,0.75,0,2,2,4,3,0,3,2,11,6.4,H,1,1,buddy-hield-1,Buddy Hield,2014
+22,49,22,2014-02-01,Oklahoma,@,Iowa State,REG (Conf),L 75-81,*,36,10,18,0.556,5,8,0.625,5,10,0.5,0.694,5,5,1.0,2,5,7,3,3,0,4,3,30,24.2,A,0,1,buddy-hield-1,Buddy Hield,2014
+23,50,23,2014-02-05,Oklahoma,@,West Virginia,REG (Conf),L 86-91 (OT),*,43,6,12,0.5,3,8,0.375,3,4,0.75,0.625,0,0,,2,6,8,1,0,0,3,2,15,9.1,A,0,1,buddy-hield-1,Buddy Hield,2014
+24,51,24,2014-02-08,Oklahoma,,Baylor,REG (Conf),W 88-72,*,33,7,10,0.7,5,8,0.625,2,2,1.0,0.95,0,0,,2,2,4,0,1,0,1,2,19,16.0,H,1,1,buddy-hield-1,Buddy Hield,2014
+25,52,25,2014-02-12,Oklahoma,,Texas Tech,REG (Conf),L 60-68,*,27,1,13,0.077,1,10,0.1,0,3,0.0,0.115,0,0,,1,0,1,0,1,0,4,2,3,-8.8,H,0,1,buddy-hield-1,Buddy Hield,2014
+26,53,26,2014-02-15,Oklahoma,@,Oklahoma State,REG (Conf),W 77-74,*,29,8,18,0.444,5,13,0.385,3,5,0.6,0.583,1,1,1.0,0,3,3,1,3,0,0,0,22,17.2,A,1,1,buddy-hield-1,Buddy Hield,2014
+27,54,27,2014-02-22,Oklahoma,,Kansas State,REG (Conf),W 86-73,*,33,6,11,0.545,3,6,0.5,3,5,0.6,0.682,3,4,0.75,3,0,3,4,3,0,1,0,18,19.2,H,1,1,buddy-hield-1,Buddy Hield,2014
+28,55,28,2014-02-24,Oklahoma,@,Kansas,REG (Conf),L 75-83,*,29,6,13,0.462,3,6,0.5,3,7,0.429,0.577,1,1,1.0,1,1,2,1,0,0,1,3,16,8.8,A,0,1,buddy-hield-1,Buddy Hield,2014
+29,56,29,2014-03-01,Oklahoma,,Texas,REG (Conf),W 77-65,*,33,5,13,0.385,4,7,0.571,1,6,0.167,0.538,3,4,0.75,4,4,8,2,3,2,0,2,17,18.5,H,1,1,buddy-hield-1,Buddy Hield,2014
+30,57,30,2014-03-05,Oklahoma,,West Virginia,REG (Conf),W 72-62,*,36,4,12,0.333,4,11,0.364,0,1,0.0,0.5,1,2,0.5,0,1,1,0,1,0,3,3,13,2.9,H,1,1,buddy-hield-1,Buddy Hield,2014
+31,58,31,2014-03-08,Oklahoma,@,TCU,REG (Conf),W 97-67,*,26,8,11,0.727,5,8,0.625,3,3,1.0,0.955,3,3,1.0,2,6,8,4,2,0,4,1,24,23.1,A,1,1,buddy-hield-1,Buddy Hield,2014
+32,59,32,2014-03-13,Oklahoma,N,Baylor,CTOURN,L 73-78,*,35,6,15,0.4,3,10,0.3,3,5,0.6,0.5,0,1,0.0,3,4,7,2,1,0,0,4,15,10.6,N,0,0,buddy-hield-1,Buddy Hield,2014
+33,60,33,2014-03-20,Oklahoma,N,North Dakota State,ROUND-64,L 75-80 (OT),*,33,4,14,0.286,1,9,0.111,3,5,0.6,0.321,0,0,,3,1,4,1,0,0,1,1,9,2.5,N,0,0,buddy-hield-1,Buddy Hield,2014

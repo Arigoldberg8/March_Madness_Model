@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,85,1,2010-11-12,Georgia,,Mississippi Valley State,REG (Non-Conf),W 72-70,,13,0,3,0.0,0,0,0,3,0.0,0.0,1,2,0.5,1,0,1,1,1,2,0,1,1,1.9,H,1,1,chris-barnes-1,Chris Barnes,2011
+2,86,2,2010-11-16,Georgia,,Colorado,REG (Non-Conf),W 83-74,,21,2,6,0.333,0,0,2,6,0.333,0.333,5,13,0.385,6,2,8,0,0,0,1,4,9,4.6,H,1,1,chris-barnes-1,Chris Barnes,2011
+3,87,3,2010-11-20,Georgia,@,Saint Louis,REG (Non-Conf),W 61-59,,14,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,4,5,0,0,0,1,2,4,2.1,A,1,1,chris-barnes-1,Chris Barnes,2011
+4,88,4,2010-11-25,Georgia,N,Notre Dame,REG (Non-Conf),L 83-89 (2OT),*,19,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,1,4,5,0,0,0,0,3,2,2.4,N,0,1,chris-barnes-1,Chris Barnes,2011
+5,89,5,2010-11-26,Georgia,N,Temple,REG (Non-Conf),L 58-65,,13,1,3,0.333,0,0,1,3,0.333,0.333,2,3,0.667,1,2,3,1,1,0,0,1,4,4.5,N,0,1,chris-barnes-1,Chris Barnes,2011
+6,90,6,2010-11-28,Georgia,N,Manhattan,REG (Non-Conf),W 61-58,,19,2,3,0.667,0,0,2,3,0.667,0.667,1,2,0.5,1,3,4,0,0,3,0,1,5,6.6,N,1,1,chris-barnes-1,Chris Barnes,2011
+7,91,7,2010-12-03,Georgia,,UAB,REG (Non-Conf),W 66-64,,16,1,3,0.333,0,0,1,3,0.333,0.333,1,1,1.0,3,1,4,1,0,1,1,0,3,4.1,H,1,1,chris-barnes-1,Chris Barnes,2011
+8,92,8,2010-12-07,Georgia,@,Georgia Tech,REG (Non-Conf),W 73-72,,17,1,2,0.5,0,0,1,2,0.5,0.5,1,2,0.5,2,1,3,1,0,1,1,2,3,2.9,A,1,1,chris-barnes-1,Chris Barnes,2011
+9,93,9,2010-12-18,Georgia,,Arkansas State,REG (Non-Conf),W 68-59,,24,5,6,0.833,0,0,5,6,0.833,0.833,2,3,0.667,1,2,3,3,0,1,0,2,12,12.7,H,1,1,chris-barnes-1,Chris Barnes,2011
+10,94,10,2010-12-21,Georgia,,High Point,REG (Non-Conf),W 85-38,,17,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,0,1,1,0,2,3,0,1,0,2.6,H,1,1,chris-barnes-1,Chris Barnes,2011
+11,95,11,2010-12-23,Georgia,@,Mercer,REG (Non-Conf),W 56-53,,29,2,4,0.5,0,0,2,4,0.5,0.5,0,0,,1,2,3,0,1,2,0,2,4,4.9,A,1,1,chris-barnes-1,Chris Barnes,2011
+12,96,12,2010-12-28,Georgia,,Charleston Southern,REG (Non-Conf),W 70-55,,12,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,2,2,4,0,0,1,3,1,2,-1.1,H,1,1,chris-barnes-1,Chris Barnes,2011
+13,97,13,2010-12-31,Georgia,,Eastern Kentucky,REG (Non-Conf),W 64-57,,22,1,2,0.5,0,0,1,2,0.5,0.5,3,4,0.75,5,1,6,0,0,1,1,1,5,6.7,H,1,1,chris-barnes-1,Chris Barnes,2011
+14,98,14,2011-01-08,Georgia,,Kentucky,REG (Conf),W 77-70,,15,1,1,1.0,0,0,1,1,1.0,1.0,3,4,0.75,1,4,5,1,0,1,1,2,5,5.8,H,1,1,chris-barnes-1,Chris Barnes,2011
+15,99,15,2011-01-12,Georgia,@,Vanderbilt,REG (Conf),L 66-73,,11,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,1,2,3,0,0,1,2,4,0,-3.0,A,0,1,chris-barnes-1,Chris Barnes,2011
+16,100,17,2011-01-18,Georgia,,Tennessee,REG (Conf),L 57-59,,28,2,3,0.667,0,0,2,3,0.667,0.667,0,0,,1,3,4,0,1,1,2,1,4,3.6,H,0,1,chris-barnes-1,Chris Barnes,2011
+17,101,18,2011-01-22,Georgia,,Mississippi State,REG (Conf),W 86-64,*,13,0,1,0.0,0,0,0,1,0.0,0.0,1,2,0.5,2,2,4,0,0,1,3,4,1,-2.0,H,1,1,chris-barnes-1,Chris Barnes,2011
+18,102,19,2011-01-25,Georgia,,Florida,REG (Conf),L 91-104 (2OT),,21,3,6,0.5,0,0,3,6,0.5,0.5,1,2,0.5,3,1,4,0,1,0,3,1,7,3.6,H,0,1,chris-barnes-1,Chris Barnes,2011
+19,103,20,2011-01-29,Georgia,@,Kentucky,REG (Conf),L 60-66,,20,1,4,0.25,0,0,1,4,0.25,0.25,0,0,,2,3,5,0,0,0,1,2,2,0.1,A,0,1,chris-barnes-1,Chris Barnes,2011
+20,104,21,2011-02-02,Georgia,@,Arkansas,REG (Conf),W 60-59,,13,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,1,2,1,0,1,0,3,2,2.2,A,1,1,chris-barnes-1,Chris Barnes,2011
+21,105,22,2011-02-05,Georgia,,Auburn,REG (Conf),W 81-72 (OT),,13,0,0,,0,0,0,0,,,0,0,,0,2,2,1,0,0,2,3,0,-1.9,H,1,1,chris-barnes-1,Chris Barnes,2011
+22,106,23,2011-02-08,Georgia,,Xavier,REG (Non-Conf),L 57-65,,22,3,7,0.429,0,0,3,7,0.429,0.429,1,1,1.0,2,3,5,1,0,0,0,2,7,5.5,H,0,1,chris-barnes-1,Chris Barnes,2011
+23,107,24,2011-02-12,Georgia,@,South Carolina,REG (Conf),W 60-56,,14,2,4,0.5,0,0,2,4,0.5,0.5,0,1,0.0,0,0,0,0,0,2,0,0,4,3.0,A,1,1,chris-barnes-1,Chris Barnes,2011
+24,108,25,2011-02-16,Georgia,,Vanderbilt,REG (Conf),L 56-64,,21,1,2,0.5,0,0,1,2,0.5,0.5,0,0,,1,3,4,3,0,1,1,2,2,3.6,H,0,1,chris-barnes-1,Chris Barnes,2011
+25,109,26,2011-02-19,Georgia,@,Tennessee,REG (Conf),W 69-63,,14,1,1,1.0,0,0,1,1,1.0,1.0,0,0,,0,3,3,0,0,0,1,2,2,0.8,A,1,1,chris-barnes-1,Chris Barnes,2011
+26,110,27,2011-02-24,Georgia,@,Florida,REG (Conf),L 62-71,,21,0,0,,0,0,0,0,,,0,0,,3,3,6,0,1,0,0,1,0,3.6,A,0,1,chris-barnes-1,Chris Barnes,2011
+27,111,28,2011-02-26,Georgia,,South Carolina,REG (Conf),W 64-48,,20,0,1,0.0,0,0,0,1,0.0,0.0,2,3,0.667,2,3,5,0,0,1,1,1,2,2.5,H,1,1,chris-barnes-1,Chris Barnes,2011
+28,112,29,2011-03-02,Georgia,,Louisiana State,REG (Conf),W 73-53,*,20,3,5,0.6,0,0,3,5,0.6,0.6,0,1,0.0,2,4,6,0,1,0,0,0,6,6.9,H,1,1,chris-barnes-1,Chris Barnes,2011
+29,113,30,2011-03-05,Georgia,@,Alabama,REG (Conf),L 57-65,,14,0,0,,0,0,0,0,,,0,0,,0,0,0,0,0,1,0,1,0,0.3,A,0,1,chris-barnes-1,Chris Barnes,2011
+30,114,31,2011-03-10,Georgia,N,Auburn,CTOURN,W 69-51,,18,2,2,1.0,0,0,2,2,1.0,1.0,4,8,0.5,1,1,2,0,0,0,0,1,8,6.4,N,1,0,chris-barnes-1,Chris Barnes,2011
+31,115,32,2011-03-11,Georgia,N,Alabama,CTOURN,L 59-65 (OT),,20,0,2,0.0,0,0,0,2,0.0,0.0,0,0,,3,3,6,0,0,1,1,3,0,0.1,N,0,0,chris-barnes-1,Chris Barnes,2011
+32,116,33,2011-03-18,Georgia,N,Washington,ROUND-64,L 65-68,,20,0,1,0.0,0,0,0,1,0.0,0.0,0,2,0.0,0,2,2,0,1,0,0,0,0,0.1,N,0,0,chris-barnes-1,Chris Barnes,2011

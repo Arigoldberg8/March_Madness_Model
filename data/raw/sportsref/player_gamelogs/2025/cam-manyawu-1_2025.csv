@@ -1,0 +1,36 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,33,1,2024-11-04,Drake,,York (NE),REG (Non-Conf),W 93-41,*,21,3,5,0.6,0,0,,3,5,0.6,0.6,3,6,0.5,5,7,12,2,0,2,1,1,9,12.5,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+2,34,2,2024-11-10,Drake,,Stephen F. Austin,REG (Non-Conf),W 66-51,*,17,5,7,0.714,0,0,,5,7,0.714,0.714,3,9,0.333,4,1,5,1,2,0,0,4,13,11.9,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+3,35,3,2024-11-16,Drake,,Florida Gulf Coast,REG (Non-Conf),W 63-61,*,17,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,0,3,3,0,1,1,1,4,5,1.9,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+4,36,4,2024-11-21,Drake,N,Miami (FL),REG (Non-Conf),W 80-69,*,8,3,3,1.0,0,0,,3,3,1.0,1.0,0,0,,0,2,2,1,0,0,0,3,6,5.2,N,1,1,cam-manyawu-1,Cam Manyawu,2025
+5,37,5,2024-11-22,Drake,N,Florida Atlantic,REG (Non-Conf),W 75-63,*,22,4,8,0.5,0,0,,4,8,0.5,0.5,0,1,0.0,2,3,5,2,2,1,1,4,8,7.4,N,1,1,cam-manyawu-1,Cam Manyawu,2025
+6,38,6,2024-11-24,Drake,N,Vanderbilt,REG (Non-Conf),W 81-70,*,31,8,11,0.727,0,0,,8,11,0.727,0.727,2,2,1.0,5,6,11,3,1,3,3,3,18,19.8,N,1,1,cam-manyawu-1,Cam Manyawu,2025
+7,39,7,2024-11-30,Drake,,Georgia Southern,REG (Non-Conf),W 61-47,*,17,3,5,0.6,0,0,,3,5,0.6,0.6,0,1,0.0,1,6,7,1,0,1,2,0,6,5.2,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+8,40,8,2024-12-05,Drake,@,Valparaiso,REG (Conf),W 66-60,*,22,4,4,1.0,0,0,,4,4,1.0,1.0,0,2,0.0,3,7,10,0,1,0,4,2,8,6.4,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+9,41,9,2024-12-12,Drake,,St. Ambrose,REG (Non-Conf),W 90-35,*,19,5,6,0.833,0,1,0.0,5,5,1.0,0.833,4,6,0.667,1,6,7,0,1,2,0,1,14,15.5,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+10,42,10,2024-12-17,Drake,@,Kansas State,REG (Non-Conf),W 73-70 (OT),*,35,4,7,0.571,0,0,,4,7,0.571,0.571,3,4,0.75,2,5,7,0,3,1,3,5,11,8.9,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+11,43,11,2024-12-21,Drake,,Green Bay,REG (Non-Conf),W 72-62,*,21,6,9,0.667,0,0,,6,9,0.667,0.667,4,9,0.444,4,3,7,3,2,1,0,2,16,17.8,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+12,44,12,2024-12-29,Drake,,Belmont,REG (Conf),W 65-46,*,10,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,1,1,2,0,1,0,1,3,3,-0.7,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+13,45,13,2025-01-01,Drake,@,Illinois–Chicago,REG (Conf),L 70-74,*,24,6,10,0.6,0,0,,6,10,0.6,0.6,1,1,1.0,8,4,12,0,2,1,1,4,13,15.3,A,0,1,cam-manyawu-1,Cam Manyawu,2025
+14,46,14,2025-01-05,Drake,,Murray State,REG (Conf),L 59-66,*,26,2,8,0.25,0,0,,2,8,0.25,0.25,1,2,0.5,1,1,2,1,2,0,0,4,5,1.9,H,0,1,cam-manyawu-1,Cam Manyawu,2025
+15,47,15,2025-01-08,Drake,@,Bradley,REG (Conf),W 64-57,*,9,1,1,1.0,0,0,,1,1,1.0,1.0,0,0,,1,0,1,0,0,0,1,0,2,1.4,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+16,48,16,2025-01-11,Drake,,Evansville,REG (Conf),W 63-40,*,20,1,4,0.25,0,0,,1,4,0.25,0.25,3,8,0.375,3,4,7,1,4,2,1,1,5,8.6,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+17,49,17,2025-01-15,Drake,,Illinois State,REG (Conf),W 66-62,*,25,1,4,0.25,0,0,,1,4,0.25,0.25,1,2,0.5,3,4,7,0,1,2,1,2,3,4.1,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+18,50,18,2025-01-18,Drake,@,Indiana State,REG (Conf),W 71-53,*,15,3,5,0.6,0,0,,3,5,0.6,0.6,0,0,,2,4,6,1,1,0,1,4,6,5.4,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+19,51,19,2025-01-22,Drake,,Valparaiso,REG (Conf),W 81-71,*,12,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,2,2,0,1,4,2,2.1,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+20,52,20,2025-01-25,Drake,@,Missouri State,REG (Conf),W 69-62 (OT),*,18,1,5,0.2,0,0,,1,5,0.2,0.2,3,4,0.75,0,3,3,0,0,3,1,0,5,3.5,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+21,53,21,2025-01-29,Drake,,Northern Iowa,REG (Conf),W 66-52,*,19,5,6,0.833,0,0,,5,6,0.833,0.833,0,0,,5,4,9,1,2,1,1,4,10,13.3,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+22,54,22,2025-02-01,Drake,@,Southern Illinois,REG (Conf),W 75-65,*,6,0,0,,0,0,,0,0,,,0,0,,1,1,2,0,0,0,0,3,0,-0.2,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+23,55,23,2025-02-04,Drake,@,Murray State,REG (Conf),W 55-45,*,14,1,5,0.2,0,0,,1,5,0.2,0.2,1,2,0.5,2,2,4,0,0,0,0,1,3,1.1,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+24,56,24,2025-02-08,Drake,,Indiana State,REG (Conf),W 85-81 (OT),*,16,3,3,1.0,0,0,,3,3,1.0,1.0,1,4,0.25,0,3,3,0,2,0,1,4,7,5.2,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+25,57,25,2025-02-12,Drake,@,Illinois State,REG (Conf),W 84-77,*,21,2,3,0.667,0,0,,2,3,0.667,0.667,2,2,1.0,1,0,1,1,4,0,2,4,6,6.5,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+26,58,26,2025-02-16,Drake,,Bradley,REG (Conf),L 59-61,*,21,3,4,0.75,0,0,,3,4,0.75,0.75,0,1,0.0,1,3,4,1,2,0,1,1,6,6.9,H,0,1,cam-manyawu-1,Cam Manyawu,2025
+27,59,27,2025-02-19,Drake,,Illinois–Chicago,REG (Conf),W 74-57,*,14,5,7,0.714,0,0,,5,7,0.714,0.714,2,4,0.5,5,3,8,1,0,0,2,1,12,11.0,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+28,60,28,2025-02-23,Drake,@,Northern Iowa,REG (Conf),W 64-58 (OT),*,24,3,6,0.5,0,0,,3,6,0.5,0.5,0,0,,2,9,11,1,0,0,3,5,6,2.8,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+29,61,29,2025-02-26,Drake,@,Evansville,REG (Conf),W 65-61,*,10,1,2,0.5,0,0,,1,2,0.5,0.5,0,0,,0,0,0,0,3,0,1,2,2,2.2,A,1,1,cam-manyawu-1,Cam Manyawu,2025
+30,62,30,2025-03-02,Drake,,Missouri State,REG (Conf),W 68-60 (OT),*,11,1,2,0.5,0,0,,1,2,0.5,0.5,2,2,1.0,0,1,1,2,1,0,0,1,4,5.3,H,1,1,cam-manyawu-1,Cam Manyawu,2025
+31,63,31,2025-03-07,Drake,N,Southern Illinois,CTOURN,W 70-53,*,26,4,5,0.8,0,0,,4,5,0.8,0.8,3,5,0.6,2,3,5,2,1,1,1,3,11,11.5,N,1,0,cam-manyawu-1,Cam Manyawu,2025
+32,64,32,2025-03-08,Drake,N,Belmont,CTOURN,W 57-50,*,26,1,3,0.333,0,0,,1,3,0.333,0.333,2,4,0.5,2,5,7,1,1,1,2,3,4,3.6,N,1,0,cam-manyawu-1,Cam Manyawu,2025
+33,65,33,2025-03-09,Drake,N,Bradley,CTOURN,W 63-48,*,26,4,8,0.5,0,0,,4,8,0.5,0.5,1,3,0.333,2,2,4,1,0,1,1,3,9,5.4,N,1,0,cam-manyawu-1,Cam Manyawu,2025
+34,66,34,2025-03-20,Drake,N,Missouri,ROUND-64,W 67-57,*,18,3,4,0.75,0,0,,3,4,0.75,0.75,1,5,0.2,1,3,4,1,3,0,0,3,7,7.9,N,1,0,cam-manyawu-1,Cam Manyawu,2025
+35,67,35,2025-03-22,Drake,N,Texas Tech,ROUND-32,L 64-77,*,18,0,0,,0,0,,0,0,,,2,2,1.0,1,2,3,2,0,0,1,3,2,2.5,N,0,0,cam-manyawu-1,Cam Manyawu,2025

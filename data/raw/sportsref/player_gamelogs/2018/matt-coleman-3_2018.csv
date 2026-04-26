@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2017-11-10,Texas,,Northwestern State,REG (Non-Conf),W 105-59,*,22,3,4,0.75,1,1,1.0,2,3,0.667,0.875,4,5,0.8,0,3,3,7,2,0,0,4,11,15.2,H,1,1,matt-coleman-3,Matt Coleman,2018
+2,2,2,2017-11-14,Texas,,New Hampshire,REG (Non-Conf),W 78-60,*,30,1,4,0.25,0,1,0.0,1,3,0.333,0.25,1,2,0.5,2,2,4,3,1,0,1,2,3,3.5,H,1,1,matt-coleman-3,Matt Coleman,2018
+3,3,3,2017-11-18,Texas,,Lipscomb,REG (Non-Conf),W 80-57,*,22,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,3,0.333,0,3,3,0,1,0,0,1,10,7.4,H,1,1,matt-coleman-3,Matt Coleman,2018
+4,4,4,2017-11-23,Texas,N,Butler,REG (Non-Conf),W 61-48,*,35,2,9,0.222,1,5,0.2,1,4,0.25,0.278,2,2,1.0,2,4,6,9,3,0,1,2,7,11.6,N,1,1,matt-coleman-3,Matt Coleman,2018
+5,5,5,2017-11-24,Texas,N,Duke,REG (Non-Conf),L 78-85 (OT),*,37,1,12,0.083,1,6,0.167,0,6,0.0,0.125,3,6,0.5,3,1,4,2,0,0,1,4,6,-2.0,N,0,1,matt-coleman-3,Matt Coleman,2018
+6,6,6,2017-11-26,Texas,N,Gonzaga,REG (Non-Conf),L 71-76 (OT),*,41,7,15,0.467,3,7,0.429,4,8,0.5,0.567,2,2,1.0,0,0,0,4,4,0,1,4,19,15.5,N,0,1,matt-coleman-3,Matt Coleman,2018
+7,7,7,2017-11-29,Texas,,Florida A&M,REG (Non-Conf),W 82-58,*,25,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,3,0,0,1,0,2,1.4,H,1,1,matt-coleman-3,Matt Coleman,2018
+8,8,8,2017-12-05,Texas,@,VCU,REG (Non-Conf),W 71-67,*,32,1,6,0.167,0,0,,1,6,0.167,0.167,0,0,,1,0,1,4,1,0,1,1,2,1.3,A,1,1,matt-coleman-3,Matt Coleman,2018
+9,9,9,2017-12-12,Texas,,Michigan,REG (Non-Conf),L 52-59,*,40,2,8,0.25,1,5,0.2,1,3,0.333,0.313,0,0,,0,2,2,2,0,0,1,2,5,0.4,H,0,1,matt-coleman-3,Matt Coleman,2018
+10,10,10,2017-12-16,Texas,,Louisiana Tech,REG (Non-Conf),W 75-60,*,32,1,4,0.25,0,1,0.0,1,3,0.333,0.25,5,7,0.714,0,0,0,4,0,0,4,4,7,1.0,H,1,1,matt-coleman-3,Matt Coleman,2018
+11,11,11,2017-12-18,Texas,,Tennessee State,REG (Non-Conf),W 47-46,*,37,2,9,0.222,0,3,0.0,2,6,0.333,0.222,0,0,,1,1,2,7,1,1,6,1,4,-0.3,H,1,1,matt-coleman-3,Matt Coleman,2018
+12,12,12,2017-12-22,Texas,N,Alabama,REG (Non-Conf),W 66-50,*,37,4,9,0.444,1,3,0.333,3,6,0.5,0.5,4,4,1.0,0,1,1,4,1,0,2,3,13,9.2,N,1,1,matt-coleman-3,Matt Coleman,2018
+13,13,13,2017-12-29,Texas,,Kansas,REG (Conf),L 86-92,*,38,7,14,0.5,3,5,0.6,4,9,0.444,0.607,0,0,,2,4,6,5,1,0,3,2,17,13.3,H,0,1,matt-coleman-3,Matt Coleman,2018
+14,14,14,2018-01-01,Texas,@,Iowa State,REG (Conf),W 74-70 (OT),*,41,4,11,0.364,0,4,0.0,4,7,0.571,0.364,4,4,1.0,2,5,7,9,0,0,2,1,12,12.7,A,1,1,matt-coleman-3,Matt Coleman,2018
+15,15,15,2018-01-06,Texas,@,Baylor,REG (Conf),L 60-69,*,35,3,9,0.333,0,3,0.0,3,6,0.5,0.333,0,0,,1,1,2,5,0,0,3,2,6,1.6,A,0,1,matt-coleman-3,Matt Coleman,2018
+16,16,16,2018-01-10,Texas,,TCU,REG (Conf),W 99-98 (2OT),*,49,6,10,0.6,0,3,0.0,6,7,0.857,0.6,5,6,0.833,2,3,5,12,3,0,5,4,17,19.1,H,1,1,matt-coleman-3,Matt Coleman,2018
+17,17,17,2018-01-13,Texas,@,Oklahoma State,REG (Conf),L 64-65,*,28,3,5,0.6,0,0,,3,5,0.6,0.6,3,4,0.75,0,2,2,5,0,0,4,4,9,4.8,A,0,1,matt-coleman-3,Matt Coleman,2018
+18,18,18,2018-01-17,Texas,,Texas Tech,REG (Conf),W 67-58,*,38,4,9,0.444,0,1,0.0,4,8,0.5,0.444,0,0,,1,2,3,7,1,0,4,4,8,4.9,H,1,1,matt-coleman-3,Matt Coleman,2018
+19,19,19,2018-01-20,Texas,@,West Virginia,REG (Conf),L 51-86,*,23,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,1,0.0,0,2,2,1,0,0,3,4,4,-3.8,A,0,1,matt-coleman-3,Matt Coleman,2018
+20,20,20,2018-01-22,Texas,,Iowa State,REG (Conf),W 73-57,*,33,0,5,0.0,0,1,0.0,0,4,0.0,0.0,0,0,,1,1,2,5,2,0,1,3,0,0.8,H,1,1,matt-coleman-3,Matt Coleman,2018
+21,21,21,2018-01-27,Texas,,Ole Miss,REG (Non-Conf),W 85-72,*,28,1,7,0.143,0,1,0.0,1,6,0.167,0.143,0,0,,1,4,5,5,1,0,1,3,2,1.7,H,1,1,matt-coleman-3,Matt Coleman,2018
+22,22,22,2018-01-31,Texas,@,Texas Tech,REG (Conf),L 71-73 (OT),*,31,4,10,0.4,2,5,0.4,2,5,0.4,0.5,2,5,0.4,1,0,1,2,1,0,1,5,12,5.5,A,0,1,matt-coleman-3,Matt Coleman,2018
+23,23,23,2018-02-03,Texas,,Oklahoma,REG (Conf),W 79-74,*,39,8,13,0.615,2,5,0.4,6,8,0.75,0.692,4,4,1.0,0,1,1,2,2,0,4,3,22,14.6,H,1,1,matt-coleman-3,Matt Coleman,2018
+24,24,24,2018-02-07,Texas,,Kansas State,REG (Conf),L 64-67,*,30,3,9,0.333,0,3,0.0,3,6,0.5,0.333,2,2,1.0,0,3,3,4,3,0,4,4,8,4.0,H,0,1,matt-coleman-3,Matt Coleman,2018
+25,25,25,2018-02-10,Texas,@,TCU,REG (Conf),L 71-87,*,35,3,7,0.429,1,3,0.333,2,4,0.5,0.5,0,0,,1,1,2,4,0,0,4,4,7,1.5,A,0,1,matt-coleman-3,Matt Coleman,2018
+26,26,26,2018-02-12,Texas,,Baylor,REG (Conf),L 73-74 (2OT),*,44,5,15,0.333,1,3,0.333,4,12,0.333,0.367,4,4,1.0,1,1,2,3,1,0,1,4,15,8.0,H,0,1,matt-coleman-3,Matt Coleman,2018
+27,27,27,2018-02-17,Texas,@,Oklahoma,REG (Conf),W 77-66,*,24,5,6,0.833,0,1,0.0,5,5,1.0,0.833,1,2,0.5,0,0,0,5,1,0,2,4,11,9.3,A,1,1,matt-coleman-3,Matt Coleman,2018
+28,28,28,2018-02-21,Texas,@,Kansas State,REG (Conf),L 48-58,*,35,4,10,0.4,0,3,0.0,4,7,0.571,0.4,6,6,1.0,0,2,2,2,1,0,1,3,14,9.4,A,0,1,matt-coleman-3,Matt Coleman,2018
+29,29,29,2018-02-24,Texas,,Oklahoma State,REG (Conf),W 65-64,*,36,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,0,2,2,0,2,0,1,3,7,3.0,H,1,1,matt-coleman-3,Matt Coleman,2018
+30,30,30,2018-02-26,Texas,@,Kansas,REG (Conf),L 70-80,*,28,4,10,0.4,3,5,0.6,1,5,0.2,0.55,0,0,,0,2,2,1,1,0,3,4,11,3.3,A,0,1,matt-coleman-3,Matt Coleman,2018
+31,31,31,2018-03-03,Texas,,West Virginia,REG (Conf),W 87-79 (OT),*,43,9,14,0.643,2,2,1.0,7,12,0.583,0.714,2,4,0.5,0,3,3,3,1,0,3,3,22,14.8,H,1,1,matt-coleman-3,Matt Coleman,2018
+32,32,32,2018-03-07,Texas,N,Iowa State,CTOURN,W 68-64,*,26,3,4,0.75,0,1,0.0,3,3,1.0,0.75,2,2,1.0,0,2,2,2,3,0,1,4,8,8.8,N,1,0,matt-coleman-3,Matt Coleman,2018
+33,33,33,2018-03-08,Texas,N,Texas Tech,CTOURN,L 69-73,*,39,5,14,0.357,0,3,0.0,5,11,0.455,0.357,10,10,1.0,2,1,3,4,2,0,2,4,20,15.1,N,0,0,matt-coleman-3,Matt Coleman,2018
+34,34,34,2018-03-16,Texas,N,Nevada,ROUND-64,L 83-87 (OT),*,44,9,15,0.6,4,5,0.8,5,10,0.5,0.733,3,4,0.75,0,2,2,4,0,0,2,3,25,17.9,N,0,0,matt-coleman-3,Matt Coleman,2018

@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,20,1,2021-11-09,Saint Peter's,@,VCU,REG (Non-Conf),L 54-57,,10,0,2,0.0,0,1,0.0,0,1,0.0,0.0,0,0,,0,2,2,1,0,0,1,1,0,-1.5,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+2,21,2,2021-11-13,Saint Peter's,@,St. John's (NY),REG (Non-Conf),L 70-91,,21,3,8,0.375,0,1,0.0,3,7,0.429,0.375,2,2,1.0,0,4,4,1,0,1,0,1,8,5.8,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+3,22,3,2021-11-23,Saint Peter's,,LIU,REG (Non-Conf),W 64-62,,14,2,6,0.333,1,3,0.333,1,3,0.333,0.417,1,2,0.5,0,1,1,0,1,0,0,3,6,2.3,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+4,23,4,2021-11-27,Saint Peter's,@,Providence,REG (Non-Conf),L 71-85,,8,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,2,0,1,1,0,1.6,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+5,24,5,2021-12-03,Saint Peter's,@,Quinnipiac,REG (Conf),W 69-59,,11,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,1,1,2,0,0,0,1,3,3,-0.3,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+6,25,6,2021-12-05,Saint Peter's,,Siena,REG (Conf),L 58-60,,19,2,4,0.5,0,0,,2,4,0.5,0.5,2,2,1.0,0,3,3,0,1,0,2,2,6,3.1,H,0,1,isiah-dasher-1,Isiah Dasher,2022
+7,26,7,2021-12-08,Saint Peter's,,St. Francis Brooklyn,REG (Non-Conf),L 60-71,,24,3,10,0.3,1,4,0.25,2,6,0.333,0.35,2,3,0.667,1,3,4,1,2,0,1,3,9,4.9,H,0,1,isiah-dasher-1,Isiah Dasher,2022
+8,27,8,2021-12-12,Saint Peter's,,Nyack,REG (Non-Conf),W 87-48,*,23,5,5,1.0,3,3,1.0,2,2,1.0,1.3,2,2,1.0,1,3,4,2,0,0,0,1,15,16.1,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+9,28,9,2021-12-18,Saint Peter's,@,Stony Brook,REG (Non-Conf),L 63-64,*,24,3,5,0.6,0,2,0.0,3,3,1.0,0.6,1,2,0.5,0,2,2,1,0,0,0,4,7,4.0,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+10,29,10,2022-01-14,Saint Peter's,,Monmouth,REG (Conf),W 67-62,,21,1,5,0.2,1,3,0.333,0,2,0.0,0.3,0,0,,0,2,2,0,0,0,0,3,3,-0.7,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+11,30,11,2022-01-16,Saint Peter's,@,Rider,REG (Conf),W 58-51,,12,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,0,3,3,0,1,0,0,2,0,0.4,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+12,31,12,2022-01-18,Saint Peter's,,Canisius,REG (Conf),W 65-57,,27,5,9,0.556,2,3,0.667,3,6,0.5,0.667,5,6,0.833,0,2,2,0,0,0,0,3,17,11.7,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+13,32,13,2022-01-21,Saint Peter's,@,Niagara,REG (Conf),W 74-68 (OT),,21,2,2,1.0,2,2,1.0,0,0,,1.5,2,2,1.0,0,1,1,1,1,0,2,3,8,6.2,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+14,33,14,2022-01-23,Saint Peter's,@,Canisius,REG (Conf),L 60-63,,19,1,6,0.167,0,3,0.0,1,3,0.333,0.167,0,0,,0,4,4,2,0,0,1,2,2,-1.0,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+15,34,15,2022-01-26,Saint Peter's,@,Marist,REG (Conf),W 69-62,,22,2,7,0.286,1,3,0.333,1,4,0.25,0.357,0,0,,1,2,3,2,1,0,2,1,5,2.2,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+16,35,16,2022-01-28,Saint Peter's,,Manhattan,REG (Conf),W 77-51,,25,4,5,0.8,1,2,0.5,3,3,1.0,0.9,0,0,,0,3,3,1,0,0,4,2,9,3.9,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+17,36,17,2022-01-30,Saint Peter's,@,Iona,REG (Conf),L 77-85,,19,0,4,0.0,0,0,,0,4,0.0,0.0,6,6,1.0,1,1,2,1,0,1,2,2,6,2.8,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+18,37,18,2022-02-04,Saint Peter's,,Quinnipiac,REG (Conf),W 83-74,,10,1,3,0.333,0,1,0.0,1,2,0.5,0.333,0,0,,1,0,1,0,0,0,1,2,2,-0.8,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+19,38,19,2022-02-06,Saint Peter's,,Marist,REG (Conf),W 66-50,,22,2,9,0.222,2,5,0.4,0,4,0.0,0.333,0,0,,0,1,1,1,0,0,0,1,6,1.1,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+20,39,20,2022-02-11,Saint Peter's,,Rider,REG (Conf),L 49-58,,21,3,5,0.6,1,3,0.333,2,2,1.0,0.7,2,2,1.0,0,4,4,0,2,0,0,2,9,9.1,H,0,1,isiah-dasher-1,Isiah Dasher,2022
+21,40,21,2022-02-15,Saint Peter's,,Iona,REG (Conf),L 61-70,,18,1,3,0.333,0,0,,1,3,0.333,0.333,1,2,0.5,2,1,3,0,0,0,2,2,3,-0.2,H,0,1,isiah-dasher-1,Isiah Dasher,2022
+22,41,22,2022-02-18,Saint Peter's,@,Fairfield,REG (Conf),W 70-59,,16,2,7,0.286,0,1,0.0,2,6,0.333,0.286,0,0,,0,0,0,0,1,0,1,2,4,-0.9,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+23,42,23,2022-02-20,Saint Peter's,@,Siena,REG (Conf),L 70-84,,20,4,6,0.667,0,0,,4,6,0.667,0.667,1,2,0.5,0,3,3,2,1,0,2,3,9,6.1,A,0,1,isiah-dasher-1,Isiah Dasher,2022
+24,43,24,2022-02-25,Saint Peter's,@,Monmouth,REG (Conf),W 70-65,,13,0,3,0.0,0,0,,0,3,0.0,0.0,0,0,,0,2,2,2,0,0,0,1,0,-0.5,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+25,44,25,2022-02-27,Saint Peter's,,Niagara,REG (Conf),W 63-36,,23,0,3,0.0,0,3,0.0,0,0,,0.0,0,0,,0,3,3,2,0,0,2,3,0,-3.0,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+26,45,26,2022-03-01,Saint Peter's,@,Manhattan,REG (Conf),W 73-51,,17,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,1,2,3,0,0,1,0,2,5,3.1,A,1,1,isiah-dasher-1,Isiah Dasher,2022
+27,46,27,2022-03-05,Saint Peter's,,Fairfield,REG (Conf),W 57-41,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,1,0,0,2,0,2,0.0,H,1,1,isiah-dasher-1,Isiah Dasher,2022
+28,47,28,2022-03-09,Saint Peter's,N,Fairfield,CTOURN,W 77-63,,14,1,2,0.5,0,1,0.0,1,1,1.0,0.5,0,0,,0,3,3,0,0,0,2,1,2,-0.5,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+29,48,29,2022-03-11,Saint Peter's,N,Quinnipiac,CTOURN,W 64-52,,16,0,2,0.0,0,0,,0,2,0.0,0.0,0,0,,0,1,1,1,1,0,1,1,0,-0.8,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+30,49,30,2022-03-12,Saint Peter's,N,Monmouth,CTOURN,W 60-54,,19,1,4,0.25,1,3,0.333,0,1,0.0,0.375,2,2,1.0,0,3,3,0,2,0,1,0,5,4.5,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+31,50,31,2022-03-17,Saint Peter's,N,Kentucky,ROUND-64,W 85-79 (OT),,18,1,4,0.25,0,2,0.0,1,2,0.5,0.25,0,0,,0,1,1,1,0,0,1,4,2,-2.0,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+32,51,32,2022-03-19,Saint Peter's,N,Murray State,ROUND-32,W 70-60,,16,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,0,1,1,1,0,0,0,1,2,0.9,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+33,52,33,2022-03-25,Saint Peter's,N,Purdue,ROUND-16,W 67-64,,17,1,1,1.0,1,1,1.0,0,0,,1.5,0,0,,0,1,1,0,0,0,1,1,3,1.6,N,1,0,isiah-dasher-1,Isiah Dasher,2022
+34,53,34,2022-03-27,Saint Peter's,N,North Carolina,ROUND-8,L 49-69,,18,2,5,0.4,0,1,0.0,2,4,0.5,0.4,0,0,,0,3,3,1,0,0,1,2,4,1.1,N,0,0,isiah-dasher-1,Isiah Dasher,2022

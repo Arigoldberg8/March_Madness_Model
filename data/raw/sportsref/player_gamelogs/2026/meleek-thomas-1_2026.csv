@@ -1,0 +1,35 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,1,1,2025-11-03,Arkansas,,Southern,REG (Non-Conf),W 109-77,,29,7,15,0.467,4,10,0.4,3,5,0.6,0.6,3,4,0.75,4,2,6,7,3,0,1,2,21,22.4,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+2,2,2,2025-11-08,Arkansas,@,Michigan State,REG (Non-Conf),L 66-69,,29,5,15,0.333,2,9,0.222,3,6,0.5,0.4,4,4,1.0,2,4,6,2,1,0,2,3,16,9.3,A,0,1,meleek-thomas-1,Meleek Thomas,2026
+3,3,3,2025-11-11,Arkansas,,Central Arkansas,REG (Non-Conf),W 93-56,*,33,6,17,0.353,4,13,0.308,2,4,0.5,0.471,1,2,0.5,1,5,6,6,1,0,0,2,17,13.7,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+4,4,4,2025-11-14,Arkansas,,Samford,REG (Non-Conf),W 79-75,*,36,5,13,0.385,1,2,0.5,4,11,0.364,0.423,6,6,1.0,1,7,8,4,2,1,2,1,17,15.8,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+5,5,5,2025-11-18,Arkansas,,Winthrop,REG (Non-Conf),W 84-83,,34,10,20,0.5,3,8,0.375,7,12,0.583,0.575,3,4,0.75,1,2,3,3,2,0,1,2,26,19.2,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+6,6,6,2025-11-21,Arkansas,,Jackson State,REG (Non-Conf),W 115-61,,18,4,6,0.667,2,3,0.667,2,3,0.667,0.833,3,4,0.75,0,2,2,3,0,0,1,1,13,11.3,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+7,7,7,2025-11-27,Arkansas,N,Duke,REG (Non-Conf),L 71-80,,26,5,15,0.333,3,10,0.3,2,5,0.4,0.433,0,0,,0,1,1,2,2,0,0,2,13,7.4,N,0,1,meleek-thomas-1,Meleek Thomas,2026
+8,8,8,2025-12-03,Arkansas,,Louisville,REG (Non-Conf),W 89-80,,25,4,10,0.4,1,4,0.25,3,6,0.5,0.45,8,9,0.889,1,4,5,1,0,0,0,3,17,12.6,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+9,9,9,2025-12-06,Arkansas,,Fresno State,REG (Non-Conf),W 82-58,,21,4,12,0.333,3,7,0.429,1,5,0.2,0.458,1,2,0.5,0,1,1,1,3,0,2,2,12,6.0,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+10,10,10,2025-12-13,Arkansas,N,Texas Tech,REG (Non-Conf),W 93-86,,24,2,8,0.25,1,4,0.25,1,4,0.25,0.313,3,3,1.0,1,1,2,2,1,0,0,0,8,6.6,N,1,1,meleek-thomas-1,Meleek Thomas,2026
+11,11,11,2025-12-16,Arkansas,,Queens (NC),REG (Non-Conf),W 108-80,,27,1,11,0.091,1,7,0.143,0,4,0.0,0.136,0,0,,2,2,4,6,2,0,2,1,3,1.5,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+12,12,12,2025-12-20,Arkansas,N,Houston,REG (Non-Conf),L 85-94,,15,3,8,0.375,1,3,0.333,2,5,0.4,0.438,0,0,,1,0,1,1,0,0,2,2,7,1.2,N,0,1,meleek-thomas-1,Meleek Thomas,2026
+13,13,13,2025-12-29,Arkansas,,James Madison,REG (Non-Conf),W 103-74,,27,8,16,0.5,6,10,0.6,2,6,0.333,0.688,6,7,0.857,1,1,2,0,0,0,0,2,28,19.8,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+14,14,14,2026-01-03,Arkansas,,Tennessee,REG (Conf),W 86-75,,30,6,13,0.462,3,4,0.75,3,9,0.333,0.577,3,3,1.0,0,3,3,1,3,0,1,2,18,14.1,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+15,15,15,2026-01-07,Arkansas,@,Ole Miss,REG (Conf),W 94-87,,24,5,12,0.417,2,6,0.333,3,6,0.5,0.5,1,2,0.5,0,1,1,2,2,0,2,1,13,7.5,A,1,1,meleek-thomas-1,Meleek Thomas,2026
+16,16,16,2026-01-10,Arkansas,@,Auburn,REG (Conf),L 73-95,,28,6,12,0.5,3,6,0.5,3,6,0.5,0.625,2,3,0.667,1,2,3,4,2,0,3,4,17,12.1,A,0,1,meleek-thomas-1,Meleek Thomas,2026
+17,17,17,2026-01-14,Arkansas,,South Carolina,REG (Conf),W 108-74,,25,8,9,0.889,5,5,1.0,3,4,0.75,1.167,0,0,,1,3,4,2,4,1,0,2,21,24.8,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+18,18,18,2026-01-17,Arkansas,@,Georgia,REG (Conf),L 76-90,,30,4,17,0.235,1,6,0.167,3,11,0.273,0.265,0,0,,1,5,6,3,1,0,1,1,9,2.6,A,0,1,meleek-thomas-1,Meleek Thomas,2026
+19,19,19,2026-01-20,Arkansas,,Vanderbilt,REG (Conf),W 93-68,*,31,5,11,0.455,3,5,0.6,2,6,0.333,0.591,0,0,,1,4,5,5,1,0,1,2,13,11.9,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+20,20,20,2026-01-24,Arkansas,,Louisiana State,REG (Conf),W 85-81,*,26,6,9,0.667,2,3,0.667,4,6,0.667,0.778,0,0,,1,1,2,3,1,0,0,2,14,13.4,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+21,21,21,2026-01-27,Arkansas,@,Oklahoma,REG (Conf),W 83-79,*,32,7,15,0.467,0,4,0.0,7,11,0.636,0.467,2,2,1.0,0,4,4,1,0,0,0,3,16,9.0,A,1,1,meleek-thomas-1,Meleek Thomas,2026
+22,22,22,2026-01-31,Arkansas,,Kentucky,REG (Conf),L 77-85,*,26,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,2,1.0,0,0,0,1,0,0,0,3,10,5.5,H,0,1,meleek-thomas-1,Meleek Thomas,2026
+23,23,23,2026-02-07,Arkansas,@,Mississippi State,REG (Conf),W 88-68,*,40,7,17,0.412,3,8,0.375,4,9,0.444,0.5,0,0,,1,2,3,3,2,0,0,1,17,12.9,A,1,1,meleek-thomas-1,Meleek Thomas,2026
+24,24,24,2026-02-10,Arkansas,@,Louisiana State,REG (Conf),W 91-62,*,34,6,13,0.462,1,4,0.25,5,9,0.556,0.5,7,9,0.778,0,4,4,1,3,1,0,0,20,18.1,A,1,1,meleek-thomas-1,Meleek Thomas,2026
+25,25,25,2026-02-14,Arkansas,,Auburn,REG (Conf),W 88-75,*,36,3,9,0.333,0,1,0.0,3,8,0.375,0.333,2,3,0.667,3,7,10,3,1,0,1,3,8,7.6,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+26,26,26,2026-02-18,Arkansas,@,Alabama,REG (Conf),L 115-117 (2OT),*,37,8,13,0.615,6,8,0.75,2,5,0.4,0.846,2,2,1.0,2,4,6,2,1,0,1,5,24,20.1,A,0,1,meleek-thomas-1,Meleek Thomas,2026
+27,27,27,2026-02-21,Arkansas,,Missouri,REG (Conf),W 94-86,*,37,5,9,0.556,2,3,0.667,3,6,0.5,0.667,2,2,1.0,1,7,8,2,1,1,0,1,14,15.2,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+28,28,28,2026-02-25,Arkansas,,Texas A&M,REG (Conf),W 99-84,*,29,5,13,0.385,1,3,0.333,4,10,0.4,0.423,2,2,1.0,0,3,3,0,3,0,1,1,13,8.4,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+29,29,29,2026-02-28,Arkansas,@,Florida,REG (Conf),L 77-111,*,30,5,13,0.385,0,2,0.0,5,11,0.455,0.385,0,1,0.0,0,2,2,1,3,0,2,4,10,3.2,A,0,1,meleek-thomas-1,Meleek Thomas,2026
+30,30,30,2026-03-04,Arkansas,,Texas,REG (Conf),W 105-85,*,28,4,9,0.444,1,3,0.333,3,6,0.5,0.5,4,4,1.0,1,1,2,1,1,1,0,4,13,10.1,H,1,1,meleek-thomas-1,Meleek Thomas,2026
+31,31,31,2026-03-07,Arkansas,@,Missouri,REG (Conf),W 88-84 (OT),*,45,10,23,0.435,5,6,0.833,5,17,0.294,0.543,5,6,0.833,1,6,7,2,1,1,1,3,30,20.9,A,1,1,meleek-thomas-1,Meleek Thomas,2026
+32,32,32,2026-03-13,Arkansas,N,Oklahoma,CTOURN,W 82-79,*,37,2,10,0.2,2,4,0.5,0,6,0.0,0.3,2,2,1.0,0,2,2,2,0,0,3,4,8,-0.8,N,1,0,meleek-thomas-1,Meleek Thomas,2026
+33,33,33,2026-03-14,Arkansas,N,Ole Miss,CTOURN,W 93-90 (OT),*,45,9,15,0.6,4,7,0.571,5,8,0.625,0.733,7,8,0.875,0,5,5,5,2,0,3,1,29,25.3,N,1,0,meleek-thomas-1,Meleek Thomas,2026
+34,34,34,2026-03-15,Arkansas,N,Vanderbilt,CTOURN,W 86-75,*,26,2,8,0.25,1,4,0.25,1,4,0.25,0.313,2,2,1.0,1,1,2,2,0,0,1,2,7,2.8,N,1,0,meleek-thomas-1,Meleek Thomas,2026

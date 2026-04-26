@@ -1,0 +1,40 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,30,1,2021-11-09,North Carolina,,Loyola (MD),REG (Non-Conf),W 83-67,*,23,2,5,0.4,1,2,0.5,1,3,0.333,0.5,1,1,1.0,0,5,5,5,1,0,2,4,6,5.7,H,1,1,rj-davis-1,RJ Davis,2022
+2,31,2,2021-11-12,North Carolina,,Brown,REG (Non-Conf),W 94-87,*,36,9,17,0.529,6,9,0.667,3,8,0.375,0.706,2,2,1.0,0,2,2,6,0,0,1,2,26,20.7,H,1,1,rj-davis-1,RJ Davis,2022
+3,32,3,2021-11-16,North Carolina,@,College of Charleston,REG (Non-Conf),W 94-83,*,21,2,3,0.667,0,1,0.0,2,2,1.0,0.667,2,3,0.667,1,1,2,4,1,0,2,3,6,5.9,A,1,1,rj-davis-1,RJ Davis,2022
+4,33,4,2021-11-20,North Carolina,N,Purdue,REG (Non-Conf),L 84-93,*,35,6,12,0.5,2,5,0.4,4,7,0.571,0.583,4,4,1.0,0,7,7,4,0,0,1,2,18,15.1,N,0,1,rj-davis-1,RJ Davis,2022
+5,34,5,2021-11-21,North Carolina,N,Tennessee,REG (Non-Conf),L 72-89,*,35,3,11,0.273,2,3,0.667,1,8,0.125,0.364,6,7,0.857,0,4,4,4,1,0,4,2,14,7.3,N,0,1,rj-davis-1,RJ Davis,2022
+6,35,6,2021-11-23,North Carolina,,UNC Asheville,REG (Non-Conf),W 72-53,*,29,5,11,0.455,2,6,0.333,3,5,0.6,0.545,0,0,,0,5,5,1,2,0,4,3,12,5.3,H,1,1,rj-davis-1,RJ Davis,2022
+7,36,7,2021-12-01,North Carolina,,Michigan,REG (Non-Conf),W 72-51,*,28,4,11,0.364,1,3,0.333,3,8,0.375,0.409,0,0,,0,2,2,1,1,0,1,1,9,3.8,H,1,1,rj-davis-1,RJ Davis,2022
+8,37,8,2021-12-05,North Carolina,@,Georgia Tech,REG (Conf),W 79-62,*,35,8,11,0.727,4,6,0.667,4,5,0.8,0.909,3,3,1.0,0,5,5,5,1,0,3,3,23,20.3,A,1,1,rj-davis-1,RJ Davis,2022
+9,38,9,2021-12-11,North Carolina,,Elon,REG (Non-Conf),W 80-63,*,30,4,10,0.4,1,4,0.25,3,6,0.5,0.45,2,3,0.667,0,5,5,0,2,0,3,2,11,4.9,H,1,1,rj-davis-1,RJ Davis,2022
+10,39,10,2021-12-14,North Carolina,,Furman,REG (Non-Conf),W 74-61,*,36,2,8,0.25,0,3,0.0,2,5,0.4,0.25,2,5,0.4,0,3,3,7,0,0,1,1,6,4.4,H,1,1,rj-davis-1,RJ Davis,2022
+11,40,11,2021-12-18,North Carolina,N,Kentucky,REG (Non-Conf),L 69-98,*,29,3,8,0.375,0,3,0.0,3,5,0.6,0.375,4,6,0.667,0,1,1,3,1,0,2,1,10,5.8,N,0,1,rj-davis-1,RJ Davis,2022
+12,41,12,2021-12-21,North Carolina,,Appalachian State,REG (Non-Conf),W 70-50,*,34,7,10,0.7,1,1,1.0,6,9,0.667,0.75,0,0,,0,3,3,2,2,0,1,1,15,13.7,H,1,1,rj-davis-1,RJ Davis,2022
+13,42,13,2022-01-02,North Carolina,@,Boston College,REG (Conf),W 91-65,*,28,5,5,1.0,2,2,1.0,3,3,1.0,1.2,5,5,1.0,0,3,3,3,0,0,2,2,17,15.7,A,1,1,rj-davis-1,RJ Davis,2022
+14,43,14,2022-01-05,North Carolina,@,Notre Dame,REG (Conf),L 73-78,*,39,6,12,0.5,3,7,0.429,3,5,0.6,0.625,4,4,1.0,0,3,3,5,1,0,2,2,19,15.6,A,0,1,rj-davis-1,RJ Davis,2022
+15,44,15,2022-01-08,North Carolina,,Virginia,REG (Conf),W 74-58,*,38,0,10,0.0,0,5,0.0,0,5,0.0,0.0,2,2,1.0,0,5,5,4,1,1,0,2,2,0.2,H,1,1,rj-davis-1,RJ Davis,2022
+16,45,16,2022-01-15,North Carolina,,Georgia Tech,REG (Conf),W 88-65,*,30,8,11,0.727,4,6,0.667,4,5,0.8,0.909,1,2,0.5,2,3,5,6,1,0,2,1,21,21.2,H,1,1,rj-davis-1,RJ Davis,2022
+17,46,17,2022-01-18,North Carolina,@,Miami (FL),REG (Conf),L 57-85,*,30,3,10,0.3,0,3,0.0,3,7,0.429,0.3,3,3,1.0,1,4,5,0,0,1,4,1,9,1.4,A,0,1,rj-davis-1,RJ Davis,2022
+18,47,18,2022-01-22,North Carolina,@,Wake Forest,REG (Conf),L 76-98,*,31,6,12,0.5,2,4,0.5,4,8,0.5,0.583,4,5,0.8,2,3,5,3,0,0,2,3,18,12.8,A,0,1,rj-davis-1,RJ Davis,2022
+19,48,19,2022-01-24,North Carolina,,Virginia Tech,REG (Conf),W 78-68,*,38,3,9,0.333,1,4,0.25,2,5,0.4,0.389,8,9,0.889,0,3,3,2,1,1,1,3,15,11.3,H,1,1,rj-davis-1,RJ Davis,2022
+20,49,20,2022-01-26,North Carolina,,Boston College,REG (Conf),W 58-47,*,35,4,9,0.444,1,5,0.2,3,4,0.75,0.5,4,4,1.0,0,7,7,0,0,0,3,3,13,6.2,H,1,1,rj-davis-1,RJ Davis,2022
+21,50,21,2022-01-29,North Carolina,,NC State,REG (Conf),W 100-80,*,28,6,8,0.75,3,4,0.75,3,4,0.75,0.938,2,4,0.5,1,2,3,4,1,0,1,1,17,16.7,H,1,1,rj-davis-1,RJ Davis,2022
+22,51,22,2022-02-01,North Carolina,@,Louisville,REG (Conf),W 90-83 (OT),*,43,6,15,0.4,4,8,0.5,2,7,0.286,0.533,2,2,1.0,0,4,4,5,1,1,2,4,18,12.7,A,1,1,rj-davis-1,RJ Davis,2022
+23,52,23,2022-02-05,North Carolina,,Duke,REG (Conf),L 67-87,*,32,4,11,0.364,0,3,0.0,4,8,0.5,0.364,3,4,0.75,1,1,2,2,2,0,1,2,11,7.1,H,0,1,rj-davis-1,RJ Davis,2022
+24,53,24,2022-02-08,North Carolina,@,Clemson,REG (Conf),W 79-77,*,37,6,11,0.545,3,4,0.75,3,7,0.429,0.682,1,2,0.5,0,3,3,6,0,0,0,2,16,14.6,A,1,1,rj-davis-1,RJ Davis,2022
+25,54,25,2022-02-12,North Carolina,,Florida State,REG (Conf),W 94-74,*,28,7,13,0.538,2,6,0.333,5,7,0.714,0.615,0,1,0.0,0,4,4,5,1,2,1,3,16,14.2,H,1,1,rj-davis-1,RJ Davis,2022
+26,55,26,2022-02-16,North Carolina,,Pittsburgh,REG (Conf),L 67-76,*,35,1,6,0.167,0,2,0.0,1,4,0.25,0.167,1,2,0.5,0,1,1,2,4,0,2,3,3,1.3,H,0,1,rj-davis-1,RJ Davis,2022
+27,56,27,2022-02-19,North Carolina,@,Virginia Tech,REG (Conf),W 65-57,*,31,4,10,0.4,2,6,0.333,2,4,0.5,0.5,0,0,,1,5,6,2,1,0,2,1,10,6.8,A,1,1,rj-davis-1,RJ Davis,2022
+28,57,28,2022-02-21,North Carolina,,Louisville,REG (Conf),W 70-63,*,36,5,11,0.455,2,5,0.4,3,6,0.5,0.545,4,4,1.0,0,1,1,2,3,0,0,4,16,13.4,H,1,1,rj-davis-1,RJ Davis,2022
+29,58,29,2022-02-26,North Carolina,@,NC State,REG (Conf),W 84-74,*,38,3,8,0.375,0,3,0.0,3,5,0.6,0.375,0,0,,0,3,3,3,1,0,1,2,6,3.8,A,1,1,rj-davis-1,RJ Davis,2022
+30,59,30,2022-02-28,North Carolina,,Syracuse,REG (Conf),W 88-79 (OT),*,42,6,13,0.462,5,11,0.455,1,2,0.5,0.654,0,0,,0,2,2,5,1,0,4,1,17,11.0,H,1,1,rj-davis-1,RJ Davis,2022
+31,60,31,2022-03-05,North Carolina,@,Duke,REG (Conf),W 94-81,*,40,9,16,0.563,2,4,0.5,7,12,0.583,0.625,1,2,0.5,1,4,5,4,2,1,2,2,21,17.6,A,1,1,rj-davis-1,RJ Davis,2022
+32,61,32,2022-03-10,North Carolina,N,Virginia,CTOURN,W 63-43,*,31,4,13,0.308,0,4,0.0,4,9,0.444,0.308,0,0,,3,5,8,6,1,1,2,1,8,7.6,N,1,0,rj-davis-1,RJ Davis,2022
+33,62,33,2022-03-11,North Carolina,N,Virginia Tech,CTOURN,L 59-72,*,36,2,10,0.2,1,6,0.167,1,4,0.25,0.25,5,6,0.833,1,4,5,1,1,0,3,2,10,3.2,N,0,0,rj-davis-1,RJ Davis,2022
+34,63,34,2022-03-17,North Carolina,N,Marquette,ROUND-64,W 95-63,*,30,1,10,0.1,1,5,0.2,0,5,0.0,0.15,1,2,0.5,1,3,4,12,0,0,1,0,4,6.0,N,1,0,rj-davis-1,RJ Davis,2022
+35,64,35,2022-03-19,North Carolina,N,Baylor,ROUND-32,W 93-86 (OT),*,45,8,17,0.471,5,10,0.5,3,7,0.429,0.618,9,10,0.9,0,5,5,6,1,0,3,4,30,23.0,N,1,0,rj-davis-1,RJ Davis,2022
+36,65,36,2022-03-25,North Carolina,N,UCLA,ROUND-16,W 73-66,*,37,3,11,0.273,1,4,0.25,2,7,0.286,0.318,5,5,1.0,1,6,7,3,0,0,2,2,12,7.3,N,1,0,rj-davis-1,RJ Davis,2022
+37,66,37,2022-03-27,North Carolina,N,Saint Peter's,ROUND-8,W 69-49,*,39,2,11,0.182,0,4,0.0,2,7,0.286,0.182,5,5,1.0,0,4,4,3,4,0,2,4,9,5.8,N,1,0,rj-davis-1,RJ Davis,2022
+38,67,38,2022-04-02,North Carolina,N,Duke,NATIONAL-SEMI,W 81-77,*,36,6,13,0.462,2,4,0.5,4,9,0.444,0.538,4,4,1.0,0,7,7,4,0,0,1,4,18,13.6,N,1,0,rj-davis-1,RJ Davis,2022
+39,68,39,2022-04-04,North Carolina,N,Kansas,NATIONAL-FINAL,L 69-72,*,40,5,17,0.294,0,5,0.0,5,12,0.417,0.294,5,5,1.0,6,6,12,2,0,0,3,0,15,9.5,N,0,0,rj-davis-1,RJ Davis,2022

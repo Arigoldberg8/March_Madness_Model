@@ -1,0 +1,37 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,32,1,2015-11-13,Saint Joseph's,,Drexel,REG (Non-Conf),W 82-81,*,25,1,6,0.167,0,1,0.0,1,5,0.2,0.167,4,6,0.667,0,3,3,4,0,0,1,3,6,2.9,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+2,33,2,2015-11-15,Saint Joseph's,,Niagara,REG (Non-Conf),W 73-62,*,22,1,3,0.333,0,0,,1,3,0.333,0.333,4,4,1.0,0,4,4,2,0,0,1,0,6,5.9,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+3,34,3,2015-11-18,Saint Joseph's,,Buffalo,REG (Non-Conf),W 89-67,*,23,4,7,0.571,1,2,0.5,3,5,0.6,0.643,3,3,1.0,0,2,2,2,0,1,2,0,12,9.4,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+4,35,4,2015-11-21,Saint Joseph's,N,Florida,REG (Non-Conf),L 63-74,*,21,2,5,0.4,0,1,0.0,2,4,0.5,0.4,1,2,0.5,0,3,3,0,0,0,2,1,5,0.4,N,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+5,36,5,2015-11-22,Saint Joseph's,N,Old Dominion,REG (Non-Conf),W 66-64,*,23,4,8,0.5,0,1,0.0,4,7,0.571,0.5,2,4,0.5,1,0,1,2,0,0,0,3,10,6.1,N,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+6,37,6,2015-12-01,Saint Joseph's,,Villanova,REG (Non-Conf),L 72-86,*,31,4,9,0.444,1,2,0.5,3,7,0.429,0.5,4,4,1.0,0,3,3,9,1,0,0,1,13,16.1,H,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+7,38,7,2015-12-04,Saint Joseph's,@,Columbia,REG (Non-Conf),W 80-78,*,24,1,5,0.2,0,0,,1,5,0.2,0.2,2,2,1.0,0,1,1,5,0,0,2,2,4,1.9,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+8,39,8,2015-12-08,Saint Joseph's,,Princeton,REG (Non-Conf),W 62-50,*,20,0,6,0.0,0,2,0.0,0,4,0.0,0.0,0,0,,0,1,1,0,0,0,0,1,0,-4.3,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+9,40,9,2015-12-13,Saint Joseph's,@,Temple,REG (Non-Conf),W 66-65 (OT),*,20,2,5,0.4,1,1,1.0,1,4,0.25,0.5,0,1,0.0,0,1,1,0,0,1,1,0,5,1.9,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+10,41,10,2015-12-19,Saint Joseph's,,Illinois State,REG (Non-Conf),W 79-65,*,27,4,7,0.571,3,5,0.6,1,2,0.5,0.786,2,3,0.667,1,3,4,6,0,0,2,0,13,13.1,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+11,42,11,2015-12-22,Saint Joseph's,N,Virginia Tech,REG (Non-Conf),W 79-62,*,26,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,0,1,1,2,1,0,3,0,8,2.6,N,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+12,43,12,2015-12-29,Saint Joseph's,,Maryland Eastern Shore,REG (Non-Conf),W 78-68,*,25,2,6,0.333,2,4,0.5,0,2,0.0,0.5,0,0,,1,2,3,2,2,0,4,0,6,3.3,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+13,44,13,2016-01-02,Saint Joseph's,@,Richmond,REG (Conf),W 77-73,*,27,2,5,0.4,1,2,0.5,1,3,0.333,0.5,5,6,0.833,0,0,0,4,0,0,1,0,10,8.7,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+14,45,14,2016-01-05,Saint Joseph's,,VCU,REG (Conf),L 82-85,*,26,2,6,0.333,0,2,0.0,2,4,0.5,0.333,5,7,0.714,1,1,2,3,1,0,3,0,9,5.9,H,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+15,46,15,2016-01-10,Saint Joseph's,,Rhode Island,REG (Conf),W 72-67,*,22,1,5,0.2,0,1,0.0,1,4,0.25,0.2,5,8,0.625,1,3,4,1,0,0,0,1,7,4.6,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+16,47,16,2016-01-13,Saint Joseph's,@,George Mason,REG (Conf),W 87-73,*,22,2,6,0.333,0,2,0.0,2,4,0.5,0.333,8,10,0.8,1,0,1,3,0,0,2,2,12,7.8,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+17,48,17,2016-01-16,Saint Joseph's,,Fordham,REG (Conf),W 80-55,*,20,3,8,0.375,1,2,0.5,2,6,0.333,0.438,0,0,,2,2,4,3,0,1,0,0,7,7.4,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+18,49,18,2016-01-20,Saint Joseph's,@,Pennsylvania,REG (Non-Conf),W 75-60,*,18,3,5,0.6,1,1,1.0,2,4,0.5,0.7,4,4,1.0,1,1,2,5,0,0,1,2,11,11.4,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+19,50,19,2016-01-24,Saint Joseph's,@,La Salle,REG (Conf),W 69-48,*,21,2,7,0.286,0,5,0.0,2,2,1.0,0.286,0,2,0.0,0,0,0,1,2,0,0,0,4,1.8,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+20,51,20,2016-01-27,Saint Joseph's,,Massachusetts,REG (Conf),W 78-70,*,29,2,6,0.333,0,1,0.0,2,5,0.4,0.333,3,6,0.5,1,2,3,2,0,1,3,1,7,2.4,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+21,52,21,2016-01-30,Saint Joseph's,@,Rhode Island,REG (Conf),W 64-55,*,25,3,11,0.273,0,2,0.0,3,9,0.333,0.273,6,6,1.0,0,1,1,1,0,0,2,2,12,3.7,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+22,53,22,2016-02-03,Saint Joseph's,,St. Bonaventure,REG (Conf),L 73-83,*,19,2,6,0.333,0,1,0.0,2,5,0.4,0.333,2,2,1.0,0,5,5,2,1,0,3,1,6,3.1,H,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+23,54,23,2016-02-06,Saint Joseph's,@,Fordham,REG (Conf),W 82-60,*,28,6,9,0.667,3,4,0.75,3,5,0.6,0.833,2,2,1.0,0,3,3,2,2,0,0,1,17,17.0,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+24,55,24,2016-02-10,Saint Joseph's,@,George Washington,REG (Conf),W 84-66,*,26,4,6,0.667,1,2,0.5,3,4,0.75,0.75,1,2,0.5,0,2,2,4,3,0,0,1,10,13.0,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+25,56,25,2016-02-13,Saint Joseph's,,La Salle,REG (Conf),W 88-62,*,21,1,7,0.143,1,4,0.25,0,3,0.0,0.214,2,4,0.5,0,1,1,1,1,0,3,0,5,-1.3,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+26,57,26,2016-02-17,Saint Joseph's,,Dayton,REG (Conf),W 79-70,*,19,3,4,0.75,2,2,1.0,1,2,0.5,1.0,0,0,,0,2,2,2,0,0,0,0,8,8.4,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+27,58,27,2016-02-20,Saint Joseph's,@,Davidson,REG (Conf),L 93-99,*,27,6,8,0.75,0,2,0.0,6,6,1.0,0.75,1,2,0.5,1,3,4,4,2,0,3,5,13,10.8,A,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+28,59,28,2016-02-24,Saint Joseph's,@,Massachusetts,REG (Conf),W 74-57,*,30,2,12,0.167,1,5,0.2,1,7,0.143,0.208,2,4,0.5,1,4,5,2,3,0,3,1,7,1.5,A,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+29,60,29,2016-02-28,Saint Joseph's,,Saint Louis,REG (Conf),W 77-63,*,22,3,6,0.5,1,3,0.333,2,3,0.667,0.583,2,2,1.0,0,1,1,1,1,0,2,0,9,6.0,H,1,1,shavar-newkirk-1,Shavar Newkirk,2016
+30,61,30,2016-03-02,Saint Joseph's,@,St. Bonaventure,REG (Conf),L 90-98,*,27,7,12,0.583,0,3,0.0,7,9,0.778,0.583,5,5,1.0,1,2,3,6,2,0,2,0,19,18.9,A,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+31,62,31,2016-03-05,Saint Joseph's,,Duquesne,REG (Conf),L 70-78,*,23,0,8,0.0,0,4,0.0,0,4,0.0,0.0,1,2,0.5,0,1,1,6,0,0,0,1,1,-0.9,H,0,1,shavar-newkirk-1,Shavar Newkirk,2016
+32,63,32,2016-03-11,Saint Joseph's,N,George Washington,CTOURN,W 86-80,*,18,2,5,0.4,0,0,,2,5,0.4,0.4,1,2,0.5,0,2,2,0,0,1,1,0,5,2.2,N,1,0,shavar-newkirk-1,Shavar Newkirk,2016
+33,64,33,2016-03-12,Saint Joseph's,N,Dayton,CTOURN,W 82-79,*,24,2,3,0.667,0,1,0.0,2,2,1.0,0.667,4,6,0.667,1,3,4,3,2,0,5,1,8,6.2,N,1,0,shavar-newkirk-1,Shavar Newkirk,2016
+34,65,34,2016-03-13,Saint Joseph's,N,VCU,CTOURN,W 87-74,*,21,0,5,0.0,0,0,,0,5,0.0,0.0,1,2,0.5,0,4,4,4,4,0,0,2,1,4.3,N,1,0,shavar-newkirk-1,Shavar Newkirk,2016
+35,66,35,2016-03-18,Saint Joseph's,N,Cincinnati,ROUND-64,W 78-76,*,18,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,0,1,1,0,1,0,0,1,3,1.8,N,1,0,shavar-newkirk-1,Shavar Newkirk,2016
+36,67,36,2016-03-20,Saint Joseph's,N,Oregon,ROUND-32,L 64-69,*,28,3,8,0.375,1,2,0.5,2,6,0.333,0.438,3,3,1.0,0,5,5,1,0,0,2,1,10,5.4,N,0,0,shavar-newkirk-1,Shavar Newkirk,2016

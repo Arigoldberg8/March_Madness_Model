@@ -1,0 +1,26 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,90,1,2020-12-01,Winthrop,N,UNC Greensboro,REG (Non-Conf),W 75-67,,28,3,10,0.3,1,3,0.333,2,7,0.286,0.35,2,2,1.0,0,2,2,1,3,0,2,0,9,5.5,N,1,1,charles-falden-1,Charles Falden,2021
+2,91,2,2020-12-03,Winthrop,N,Little Rock,REG (Non-Conf),W 80-75,*,17,4,10,0.4,0,5,0.0,4,5,0.8,0.4,4,5,0.8,1,3,4,0,1,0,1,0,12,7.8,N,1,1,charles-falden-1,Charles Falden,2021
+3,92,3,2020-12-12,Winthrop,@,USC Upstate,REG (Conf),W 95-77,*,18,5,8,0.625,2,4,0.5,3,4,0.75,0.75,0,0,,1,2,3,1,0,0,2,1,12,8.0,A,1,1,charles-falden-1,Charles Falden,2021
+4,93,4,2020-12-13,Winthrop,@,USC Upstate,REG (Conf),W 107-77,*,17,4,9,0.444,3,8,0.375,1,1,1.0,0.611,2,3,0.667,0,3,3,0,0,0,1,0,13,7.8,A,1,1,charles-falden-1,Charles Falden,2021
+5,94,5,2020-12-19,Winthrop,,Furman,REG (Non-Conf),W 87-71,*,24,7,12,0.583,2,5,0.4,5,7,0.714,0.667,2,2,1.0,0,3,3,0,3,0,2,0,18,14.3,H,1,1,charles-falden-1,Charles Falden,2021
+6,95,6,2020-12-30,Winthrop,,Campbell,REG (Conf),W 84-83,*,25,3,9,0.333,2,7,0.286,1,2,0.5,0.444,8,10,0.8,5,1,6,0,0,0,1,2,16,12.1,H,1,1,charles-falden-1,Charles Falden,2021
+7,96,7,2020-12-31,Winthrop,,Campbell,REG (Conf),W 94-76,*,10,4,5,0.8,3,4,0.75,1,1,1.0,1.1,0,0,,0,1,1,0,0,2,1,5,11,7.8,H,1,1,charles-falden-1,Charles Falden,2021
+8,97,8,2021-01-04,Winthrop,@,Charleston Southern,REG (Conf),W 85-69,*,20,5,9,0.556,3,6,0.5,2,3,0.667,0.722,1,1,1.0,2,1,3,1,0,0,1,1,14,10.7,A,1,1,charles-falden-1,Charles Falden,2021
+9,98,9,2021-01-05,Winthrop,@,Charleston Southern,REG (Conf),W 78-76,*,27,6,14,0.429,3,8,0.375,3,6,0.5,0.536,2,3,0.667,1,1,2,1,0,0,1,1,17,9.5,A,1,1,charles-falden-1,Charles Falden,2021
+10,99,10,2021-01-09,Winthrop,,Gardner-Webb,REG (Conf),W 75-65,*,23,2,6,0.333,2,6,0.333,0,0,,0.5,2,2,1.0,0,5,5,1,0,0,0,2,8,6.0,H,1,1,charles-falden-1,Charles Falden,2021
+11,100,11,2021-01-10,Winthrop,,Gardner-Webb,REG (Conf),W 91-83,*,25,5,8,0.625,3,5,0.6,2,3,0.667,0.813,2,2,1.0,0,2,2,0,1,0,2,3,15,9.8,H,1,1,charles-falden-1,Charles Falden,2021
+12,101,12,2021-01-14,Winthrop,,Longwood,REG (Conf),W 72-61,*,25,3,9,0.333,0,4,0.0,3,5,0.6,0.333,3,3,1.0,1,3,4,0,1,0,1,1,9,5.1,H,1,1,charles-falden-1,Charles Falden,2021
+13,102,13,2021-01-15,Winthrop,,Longwood,REG (Conf),W 70-50,*,17,0,1,0.0,0,1,0.0,0,0,,0.0,0,0,,1,2,3,2,2,0,1,0,0,3.0,H,1,1,charles-falden-1,Charles Falden,2021
+14,103,14,2021-01-19,Winthrop,@,Presbyterian,REG (Conf),W 72-58,*,23,4,7,0.571,1,3,0.333,3,4,0.75,0.643,1,2,0.5,1,4,5,3,3,0,2,0,10,11.3,A,1,1,charles-falden-1,Charles Falden,2021
+15,104,15,2021-01-20,Winthrop,@,Presbyterian,REG (Conf),W 78-66,*,13,1,3,0.333,0,2,0.0,1,1,1.0,0.333,0,0,,0,0,0,0,0,0,4,2,2,-4.5,A,1,1,charles-falden-1,Charles Falden,2021
+16,105,16,2021-01-28,Winthrop,,UNC Asheville,REG (Conf),W 84-80,*,21,4,11,0.364,2,5,0.4,2,6,0.333,0.455,2,4,0.5,4,3,7,1,1,0,1,3,12,8.3,H,1,1,charles-falden-1,Charles Falden,2021
+17,106,17,2021-01-29,Winthrop,,UNC Asheville,REG (Conf),L 55-57,*,24,4,8,0.5,0,2,0.0,4,6,0.667,0.5,0,0,,1,2,3,0,0,0,1,3,8,3.1,H,0,1,charles-falden-1,Charles Falden,2021
+18,107,18,2021-02-11,Winthrop,@,Radford,REG (Conf),W 80-64,*,18,2,4,0.5,0,1,0.0,2,3,0.667,0.5,0,0,,0,1,1,1,1,0,2,2,4,1.2,A,1,1,charles-falden-1,Charles Falden,2021
+19,108,19,2021-02-12,Winthrop,@,Radford,REG (Conf),W 55-47,*,26,3,7,0.429,3,4,0.75,0,3,0.0,0.643,5,8,0.625,1,4,5,0,1,0,0,0,14,12.0,A,1,1,charles-falden-1,Charles Falden,2021
+20,109,20,2021-02-18,Winthrop,@,High Point,REG (Conf),W 76-70,*,20,1,4,0.25,0,3,0.0,1,1,1.0,0.25,1,1,1.0,0,4,4,0,0,0,1,1,3,0.4,A,1,1,charles-falden-1,Charles Falden,2021
+21,110,21,2021-02-19,Winthrop,@,High Point,REG (Conf),W 71-63,*,17,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,1,0,1,0,0,0,1,0,0,-3.8,A,1,1,charles-falden-1,Charles Falden,2021
+22,111,22,2021-03-01,Winthrop,,High Point,CTOURN,W 83-54,*,15,4,7,0.571,2,4,0.5,2,3,0.667,0.714,0,0,,3,0,3,0,0,0,0,1,10,8.4,H,1,0,charles-falden-1,Charles Falden,2021
+23,112,23,2021-03-04,Winthrop,,Longwood,CTOURN,W 82-61,*,25,6,9,0.667,5,7,0.714,1,2,0.5,0.944,2,2,1.0,1,2,3,0,2,0,1,1,19,17.0,H,1,0,charles-falden-1,Charles Falden,2021
+24,113,24,2021-03-07,Winthrop,,Campbell,CTOURN,W 80-53,*,19,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,4,4,1,1,0,4,1,7,2.8,H,1,0,charles-falden-1,Charles Falden,2021
+25,114,25,2021-03-19,Winthrop,N,Villanova,ROUND-64,L 63-73,*,22,3,7,0.429,1,4,0.25,2,3,0.667,0.5,2,2,1.0,0,2,2,1,0,0,1,1,9,5.2,N,0,0,charles-falden-1,Charles Falden,2021

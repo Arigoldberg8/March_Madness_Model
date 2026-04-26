@@ -1,0 +1,33 @@
+rk,career_game,game_num,date,team,location_flag,opponent,game_type,result,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,fg2,fg2a,fg2_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,gmsc,location,win,is_regular_season,player_id,player_name,year
+1,54,1,2010-11-12,Memphis,,Centenary (LA),REG (Non-Conf),W 104-40,*,18,3,4,0.75,3,3,1.0,0,1,0.0,1.125,4,6,0.667,0,1,1,2,5,0,0,3,13,16.1,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+2,55,2,2010-11-15,Memphis,,Miami (FL),REG (Non-Conf),W 72-68,*,31,2,6,0.333,1,4,0.25,1,2,0.5,0.417,8,10,0.8,0,3,3,1,5,1,1,3,13,13.9,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+3,56,3,2010-11-17,Memphis,,Northwestern State,REG (Non-Conf),W 94-79,*,21,2,5,0.4,1,3,0.333,1,2,0.5,0.5,2,2,1.0,0,1,1,1,0,1,0,4,7,4.4,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+4,57,4,2010-11-21,Memphis,N,Louisiana State,REG (Non-Conf),W 70-61,*,24,1,3,0.333,0,2,0.0,1,1,1.0,0.333,1,2,0.5,0,1,1,2,1,0,1,3,3,1.4,N,1,1,charles-carmouche-1,Charles Carmouche,2011
+5,58,5,2010-11-23,Memphis,,UT Martin,REG (Non-Conf),W 102-80,*,19,1,5,0.2,0,3,0.0,1,2,0.5,0.2,0,0,,0,1,1,1,3,0,0,4,2,1.3,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+6,59,6,2010-12-01,Memphis,,Arkansas State,REG (Non-Conf),W 78-71 (OT),*,27,2,3,0.667,1,1,1.0,1,2,0.5,0.833,3,4,0.75,1,3,4,2,0,0,1,2,8,7.5,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+7,60,7,2010-12-04,Memphis,,Western Kentucky,REG (Non-Conf),W 77-61,*,14,3,5,0.6,1,3,0.333,2,2,1.0,0.7,0,0,,0,1,1,0,1,0,1,5,7,3.0,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+8,61,8,2010-12-07,Memphis,N,Kansas,REG (Non-Conf),L 68-81,*,21,5,9,0.556,1,3,0.333,4,6,0.667,0.611,1,3,0.333,0,1,1,1,3,0,1,1,12,9.5,N,0,1,charles-carmouche-1,Charles Carmouche,2011
+9,62,9,2010-12-16,Memphis,,Austin Peay,REG (Non-Conf),W 70-68 (OT),*,31,5,10,0.5,3,5,0.6,2,5,0.4,0.65,3,6,0.5,0,7,7,7,0,1,5,4,16,10.9,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+10,63,10,2010-12-20,Memphis,,Texas A&M–Corpus Christi,REG (Non-Conf),W 68-63,*,31,4,6,0.667,1,2,0.5,3,4,0.75,0.75,3,6,0.5,0,6,6,0,2,0,2,5,12,8.0,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+11,64,11,2010-12-23,Memphis,,Georgetown,REG (Non-Conf),L 69-86,*,21,0,4,0.0,0,0,,0,4,0.0,0.0,0,0,,0,3,3,2,1,1,2,4,0,-2.4,H,0,1,charles-carmouche-1,Charles Carmouche,2011
+12,65,14,2011-01-05,Memphis,@,Tennessee,REG (Non-Conf),L 84-104,,14,1,1,1.0,1,1,1.0,0,0,,1.5,1,2,0.5,0,0,0,0,1,0,2,3,4,1.1,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+13,66,15,2011-01-08,Memphis,,East Carolina,REG (Conf),W 61-58,,14,1,3,0.333,0,0,,1,3,0.333,0.333,0,0,,1,1,2,2,1,0,1,2,2,1.9,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+14,67,16,2011-01-12,Memphis,@,SMU,REG (Conf),L 58-64,,16,1,1,1.0,0,0,,1,1,1.0,1.0,0,2,0.0,0,3,3,0,1,0,1,3,2,0.6,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+15,68,17,2011-01-15,Memphis,,Marshall,REG (Conf),W 77-61,*,32,3,7,0.429,3,4,0.75,0,3,0.0,0.643,7,8,0.875,0,3,3,3,2,0,1,4,16,14.3,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+16,69,18,2011-01-19,Memphis,@,Southern Mississippi,REG (Conf),W 76-75,*,29,4,10,0.4,2,3,0.667,2,7,0.286,0.5,1,1,1.0,0,4,4,1,0,2,3,3,11,4.7,A,1,1,charles-carmouche-1,Charles Carmouche,2011
+17,70,19,2011-01-22,Memphis,@,UAB,REG (Conf),W 76-73 (OT),*,22,0,1,0.0,0,0,,0,1,0.0,0.0,2,2,1.0,1,3,4,4,0,0,2,2,2,2.9,A,1,1,charles-carmouche-1,Charles Carmouche,2011
+18,71,20,2011-01-26,Memphis,,UCF,REG (Conf),W 77-61,*,20,2,7,0.286,0,3,0.0,2,4,0.5,0.286,1,2,0.5,1,2,3,1,1,0,0,2,5,2.7,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+19,72,21,2011-01-29,Memphis,@,Marshall,REG (Conf),L 70-85,*,23,1,3,0.333,0,1,0.0,1,2,0.5,0.333,1,2,0.5,1,4,5,1,0,0,1,5,3,0.5,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+20,73,23,2011-02-05,Memphis,N,Gonzaga,REG (Non-Conf),W 62-58,,32,5,11,0.455,3,7,0.429,2,4,0.5,0.591,0,0,,1,3,4,1,0,0,1,1,13,8.2,N,1,1,charles-carmouche-1,Charles Carmouche,2011
+21,74,24,2011-02-09,Memphis,@,UCF,REG (Conf),W 63-62,*,34,3,9,0.333,2,5,0.4,1,4,0.25,0.444,0,0,,2,4,6,4,1,1,1,3,8,7.8,A,1,1,charles-carmouche-1,Charles Carmouche,2011
+22,75,25,2011-02-12,Memphis,,Southern Mississippi,REG (Conf),W 67-61,*,32,2,7,0.286,2,4,0.5,0,3,0.0,0.429,2,4,0.5,1,2,3,1,2,0,2,2,8,4.3,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+23,76,26,2011-02-16,Memphis,,UAB,REG (Conf),W 62-58,*,29,3,7,0.429,0,3,0.0,3,4,0.75,0.429,4,5,0.8,1,5,6,2,1,0,1,1,10,9.1,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+24,77,27,2011-02-19,Memphis,@,Rice,REG (Conf),L 52-67,*,22,1,2,0.5,1,1,1.0,0,1,0.0,0.75,0,0,,0,5,5,1,1,0,2,2,3,2.4,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+25,78,28,2011-02-22,Memphis,,Houston,REG (Conf),W 69-58,*,39,4,10,0.4,2,4,0.5,2,6,0.333,0.5,2,2,1.0,3,5,8,5,1,0,0,2,12,13.9,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+26,79,29,2011-02-26,Memphis,@,UTEP,REG (Conf),L 47-74,*,29,2,8,0.25,0,4,0.0,2,4,0.5,0.25,1,4,0.25,0,2,2,0,0,0,0,3,5,-1.6,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+27,80,30,2011-03-02,Memphis,@,East Carolina,REG (Conf),L 57-68,*,25,1,9,0.111,1,5,0.2,0,4,0.0,0.167,2,2,1.0,2,2,4,3,1,0,1,5,5,1.2,A,0,1,charles-carmouche-1,Charles Carmouche,2011
+28,81,31,2011-03-05,Memphis,,Tulane,REG (Conf),W 66-61,*,34,0,4,0.0,0,3,0.0,0,1,0.0,0.0,0,0,,0,1,1,2,1,1,1,3,0,-1.6,H,1,1,charles-carmouche-1,Charles Carmouche,2011
+29,82,32,2011-03-10,Memphis,N,Southern Mississippi,CTOURN,W 66-63,*,26,4,8,0.5,2,3,0.667,2,5,0.4,0.625,0,1,0.0,1,1,2,0,1,0,2,4,10,4.0,N,1,0,charles-carmouche-1,Charles Carmouche,2011
+30,83,33,2011-03-11,Memphis,N,East Carolina,CTOURN,W 76-56,*,32,6,7,0.857,3,4,0.75,3,3,1.0,1.071,4,4,1.0,2,3,5,4,2,0,2,1,19,21.2,N,1,0,charles-carmouche-1,Charles Carmouche,2011
+31,84,34,2011-03-12,Memphis,N,UTEP,CTOURN,W 67-66,*,14,0,5,0.0,0,3,0.0,0,2,0.0,0.0,0,0,,0,2,2,0,1,0,2,1,0,-4.3,N,1,0,charles-carmouche-1,Charles Carmouche,2011
+32,85,35,2011-03-18,Memphis,N,Arizona,ROUND-64,L 75-77,*,15,1,2,0.5,0,0,,1,2,0.5,0.5,4,4,1.0,0,3,3,0,1,1,2,4,6,4.0,N,0,0,charles-carmouche-1,Charles Carmouche,2011
